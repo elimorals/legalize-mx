@@ -4,7 +4,7 @@ identifier: "HID-codigo-electoral-del-estado-de-hidalgo-104970"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-22"
-last_updated: "2023-06-19"
+last_updated: "2023-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2023.
 
 Código publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -135,7 +135,9 @@ V.- Proporcionar información incompleta o datos falsos a las autoridades admini
 
 VI.- Proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir que induzca al incorrecto ejercicio de sus atribuciones;
 
-VII.- Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+VII.- Obstaculizar la precampaña y/o campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
 
 VIII.- Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales;
 
@@ -177,11 +179,9 @@ La violencia política contra las mujeres en razón de género se sancionará en
 
 Votar y ser votado en las elecciones constituye un derecho y una obligación de los ciudadanos, que se ejerce para integrar los Poderes Legislativo, Ejecutivo, así como los Ayuntamientos. También es derecho de los ciudadanos y obligaciones para los partidos políticos, la igualdad de oportunidades y paridad entre hombres y mujeres para tener acceso a cargos de elección popular, en términos de lo que dispone éste Código.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
-
-ASÍ MISMO ES UN DERECHO Y UNA OBLIGACIÓN DE LA CIUDADANÍA VOTAR EN LAS CONSULTAS POPULARES SOBRE TEMAS DE TRASCENDENCIA ESTATAL Y EN LOS PROCESOS DE PARTICIPACIÓN CIUDADANA PREVISTOS EN ESTE CÓDIGO Y EN LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE HIDALGO.
+Así mismo es un derecho y una obligación de la ciudadanía votar en las consultas populares sobre temas de trascendencia estatal, en los procesos de participación ciudadana previstos en este Código y en la Ley de Participación Ciudadana para el Estado de Hidalgo, así como en el proceso de revocación de mandato contemplado en la Ley de Revocación de Mandato del Estado de Hidalgo.
 
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
 
@@ -191,9 +191,17 @@ En el ejercicio de los derechos políticos de la ciudadanía hidalguense, serán
 
 En los casos previstos por este Código, la postulación de personas con discapacidad será acorde con los lineamientos establecidos por la Clasificación Internacional del Funcionamiento de la Discapacidad y la Salud, así como lo previsto en la legislación de la materia, por lo que el Consejo General propondrá la instalación de un Comité integrado por la Comisión Estatal de Derechos Humanos y por miembros de la sociedad civil organizada, quienes en conjunto emitirán su opinión por cada postulación, a fin de contar con elementos acordes al modelo social de discapacidad.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 573 POR EL QUE SE ADICIONA EL QUINTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-Toda persona registrada como candidata podrá solicitar la protección de sus datos, respecto de la acción afirmativa por la que participe.
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+PARA LA POSTULACIÓN DE LAS PERSONAS DE LA DIVERSIDAD SEXUAL Y DE GÉNERO, BASTA LA MANIFESTACIÓN POR ESCRITO Y BAJO PROTESTA DE DECIR VERDAD, QUE PRESENTEN ANTE EL INSTITUTO ESTATAL ELECTORAL SOBRE LA PERTENENCIA A ESE GRUPO VULNERABLE.
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 573 POR EL QUE SE REFORMA EL SEXTO PÁRRAFO [ANTERIOR CUARTO PÁRRAFO] DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+DE TODA PERSONA REGISTRADA EN CANDIDATURAS PARA OCUPAR ESPACIOS RESERVADOS A FAVOR DE LOS GRUPOS EN SITUACIÓN DE VULNERABILIDAD PREVISTOS EN EL ARTÍCULO 21 DE ESTE CÓDIGO, DEBERÁ HACERSE PÚBLICO SU NOMBRE COMPLETO, EL GRUPO EN SITUACIÓN DE VULNERABILIDAD POR EL QUE PARTICIPE Y EL CARGO AL QUE SE POSTULA.
 
 ###### Artículo 5.
 
@@ -299,23 +307,19 @@ Los Consejeros Electorales, el Subprocurador de Asuntos Electorales, los integra
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 10 Bis.
 
-Además de los requisitos de elegibilidad que se señalan en este capítulo, no deberán haber sido condenada o condenado por el delito de violencia política contra las mujeres en razón de género.
+Además de los requisitos de elegibilidad que se señalan en este capítulo, para ser titular del Ejecutivo, legislador, legisladora, presidenta o presidente municipal, síndica, síndico, regidora y regidor, deberán reunir los siguientes:
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2021)</small>
+I. No haber sido condenada o condenado por el delito de violencia política contra las mujeres en razón de género;
 
-Así mismo, no estar condenada o condenado mediante sentencia ejecutoriada, por delito de acoso sexual o abuso sexual y/o delitos de violencia de género o violencia familiar.
+II. No estar condenada o condenado mediante sentencia ejecutoriada, por delito de acoso sexual o abuso sexual y/o delitos de violencia en razón de género o violencia familiar;
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2021)</small>
+III. No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente; y
 
-Y, no ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente.
-
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2021)</small>
-
-Para los efectos de este artículo, el órgano electoral competente emitirá los formatos correspondientes.
+IV. Presentar las versiones públicas de las declaraciones patrimoniales y de interés, ante el Instituto Estatal Electoral de Hidalgo, garantizando la observancia de los principios de protección de datos personales y demás disposiciones que resulten aplicables en la materia.
 
 ## TÍTULO TERCERO. DE LA ELECCIÓN (SIC) DIPUTADOS, DEL GOBERNADOR Y AYUNTAMIENTOS
 
@@ -343,6 +347,12 @@ Los partidos políticos y las candidaturas independientes, al integrar sus plani
 
 Por su parte, los partidos políticos y las candidaturas independientes también deberán postular una fórmula completa para personas con discapacidad en cualquier lugar de la planilla por el principio de Mayoría Relativa en aquellos municipios de hasta 50,000 habitantes, y dos fórmulas completas en municipios de más de 50,000 habitantes.
 
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 573 POR EL QUE SE ADICIONA EL CUARTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+LOS PARTIDOS POLÍTICOS AL INTEGRAR SUS PLANILLAS, DEBERÁN REGISTRAR UNA FORMULA COMPLETA PARA PERSONAS DE LA DIVERSIDAD SEXUAL Y DE GÉNERO, EN POR LO MENOS EL NÚMERO DE MUNICIPIOS QUE RESULTEN DEL PORCENTAJE PROPORCIONAL DE LA POBLACIÓN DE LA DIVERSIDAD SEXUAL Y DE GÉNERO QUE ESTABLEZCA EL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA.
+
 ### CAPÍTULO II. DE LOS DIPUTADOS, SÍNDICOS Y REGIDORES
 
 ###### Artículo 14.
@@ -369,9 +379,11 @@ IV. Los municipios que tengan una población de más de 100,000 habitantes, cont
 
 ### CAPÍTULO III. DE LAS ELECCIONES ORDINARIAS Y EXTRAORDINARIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 17.
 
-Las elecciones de Ayuntamientos se celebrarán cada cuatro años, la de Diputados cada tres años y la de Gobernador cada seis, el primer domingo de junio del año que corresponda. Los electos tomarán posesión de sus cargos el día cinco de septiembre del año de la elección.
+Las elecciones ordinarias de Ayuntamientos y la de diputaciones locales se celebrarán cada tres años y la de Gubernatura cada seis, mismas que se llevarán a cabo el primer domingo de junio del año que corresponda. Las personas electas tomarán posesión de sus cargos el día cinco de septiembre del año de la elección.
 
 El día en que deban celebrarse las elecciones ordinarias será considerado como no laborable en todo el territorio estatal.
 
@@ -433,13 +445,21 @@ II. Organizaciones con objeto social diferente a la creación de partidos; y
 
 III. Cualquier forma de afiliación corporativa.
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2023)</small>
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 573 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-Los partidos políticos promoverán los valores cívicos y la cultura democrática entre niñas, niños, adolescentes y la ciudadanía en general, y garantizarán la participación efectiva de todas las personas sin prejuicios derivados de su orientación sexual, identidad y/o expresión de género, origen étnico, edad, discapacidad, condición social, credo, ni ningún otro que vaya en contra de los derechos humanos fundamentales. Los partidos políticos asegurarán la participación y representación política plena de todos los grupos sociales para la integración de sus órganos de dirección de nivel estatal y municipal, en la postulación de candidaturas, así como en la distribución de todas las prerrogativas entre todos los grupos sociales, respetando el principio paritario.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2023)</small>
+LOS PARTIDOS POLÍTICOS PROMOVERÁN LOS VALORES CÍVICOS Y LA CULTURA DEMOCRÁTICA ENTRE NIÑAS, NIÑOS, ADOLESCENTES Y LA CIUDADANÍA EN GENERAL, Y GARANTIZARÁN LA PARTICIPACIÓN EFECTIVA DE TODAS LAS PERSONAS SIN PREJUICIOS DERIVADOS DE SU ORIENTACIÓN SEXUAL, CARACTERÍSTICAS SEXUALES, IDENTIDAD Y/O EXPRESIÓN DE GÉNERO, ORIGEN ÉTNICO, EDAD, DISCAPACIDAD, CONDICIÓN SOCIAL, CREDO, NI NINGÚN OTRO QUE VAYA EN CONTRA DE LOS DERECHOS HUMANOS FUNDAMENTALES. LOS PARTIDOS POLÍTICOS ASEGURARÁN LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA PLENA DE TODOS LOS GRUPOS SOCIALES PARA LA INTEGRACIÓN DE SUS ÓRGANOS DE DIRECCIÓN DE NIVEL ESTATAL Y MUNICIPAL, EN LA POSTULACIÓN DE CANDIDATURAS, ASÍ COMO EN LA DISTRIBUCIÓN DE TODAS LAS PRERROGATIVAS ENTRE TODOS LOS GRUPOS SOCIALES, RESPETANDO EL PRINCIPIO PARITARIO.
 
-Cada partido político determinará y hará públicos los criterios para garantizar la igualdad de acceso a los derechos políticos de las mujeres, hombres, personas indígenas, de la juventud y de personas con discapacidad en las candidaturas a Diputadas y Diputados Locales y Ayuntamientos. Estos deberán ser objetivos y asegurar condiciones de igualdad sustantiva entre todas las personas.
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 573 POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+CADA PARTIDO POLÍTICO DETERMINARÁ Y HARÁ PÚBLICOS LOS CRITERIOS PARA GARANTIZAR LA IGUALDAD DE ACCESO A LOS DERECHOS POLÍTICOS DE LAS MUJERES, HOMBRES, PERSONAS INDÍGENAS, DE LA JUVENTUD, Y DE PERSONAS CON DISCAPACIDAD Y DE LA DIVERSIDAD SEXUAL Y DE GÉNERO EN LAS CANDIDATURAS A DIPUTADAS Y DIPUTADOS LOCALES Y AYUNTAMIENTOS. ESTOS DEBERÁN SER OBJETIVOS Y ASEGURAR CONDICIONES DE IGUALDAD SUSTANTIVA ENTRE TODAS LAS PERSONAS.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+Para el caso de la elección a la Gubernatura del Estado los partidos políticos deberán alternar el género en la candidatura para cada periodo electivo.
 
 > <small>(REFORMADO, P.O. 30 DE MARZO DE 2023)</small>
 
@@ -453,9 +473,13 @@ Para cumplir lo anterior, el Consejo General por conducto de la Presidencia entr
 
 Sólo serán reconocidos como partidos políticos, los registrados ante el Instituto Nacional Electoral o ante el Instituto Estatal Electoral.
 
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 23.
 
-Para que una organización de ciudadanos pueda ostentarse como partido político estatal, ejercer los derechos y gozar de las prerrogativas que a éstos son conferidos, deberá constituirse y registrarse en los términos de la Ley General de Partidos Políticos.
+Para que una organización de ciudadanos pueda ostentarse como partido político estatal, ejercer los derechos y gozar de las prerrogativas que a éstos son conferidos, deberá constituirse y registrarse en los términos de la Ley General de Partidos Políticos, las disposiciones del presente Código y de las que en materia reglamentaria apruebe el Consejo General.
 
 ### CAPÍTULO II. DERECHOS Y OBLIGACIONES
 
@@ -475,7 +499,9 @@ V. Gozar de facultades para regular su vida interna y determinar su organizació
 
 VI. Nombrar a sus Representantes ante los órganos electorales y registrarlos para el efecto de acreditar su actuación, los que tendrán derecho de voz;
 
-VII. Revocar en todo tiempo el nombramiento de sus Representantes acreditados ante el Consejo General, los Consejos Distritales y Municipales electorales;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+VII. Revocar en todo tiempo el nombramiento de sus representaciones acreditadas ante el Consejo General y los Consejos Distritales electorales;
 
 VIII. Organizar procesos internos para seleccionar y postular candidatos en las elecciones, en los términos de las disposiciones aplicables;
 
@@ -549,13 +575,15 @@ XIV. Abstenerse en su propaganda política o electoral, de cualquier expresión 
 
 XV. Abstenerse de cualquier acto u omisión, que limite, condicione, excluya, impida o anule el ejercicio efectivo de los derechos político electorales de las personas y su acceso o pleno ejercicio de las atribuciones inherentes a su cargo o función partidista;
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-XV Bis. A la inclusión, representación y protección de los derechos humanos de todas las personas en la creación y emisión de todo tipo de documentos internos, procesos de selección y designación de personal y de precandidaturas y candidaturas; y
+XV Bis. A la inclusión, representación y protección de los derechos humanos de todas las personas en la creación y emisión de todo tipo de documentos internos, procesos de selección y designación de personal y de precandidaturas y candidaturas;
 
-> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-XVI. Las demás que establezcan las disposiciones legales y normativas aplicables.
+XVI. Elaborar material didáctico destinado a la formación y capacitación política de personas con discapacidad, y
+
+XVII. Las demás que establezcan las disposiciones legales y normativas aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
 
@@ -659,11 +687,17 @@ e. Para la capacitación, promoción y el desarrollo del liderazgo político de 
 
 e Bis. Para la capacitación, promoción y el desarrollo del liderazgo político de los jóvenes, cada partido político deberá destinar anualmente al menos, el tres por ciento del financiamiento público ordinario;
 
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL INCISO e TER DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE AGOSTO DE 2023)</small>
+
+e Ter. PARA LA PROMOCIÓN Y CAPACITACIÓN RESPECTO DE LA PERSPECTIVA INTERCULTURAL JURÍDICA Y LOS DERECHOS POLÍTICO-ELECTORALES DE LAS PERSONAS INDÍGENAS Y AFROMEXICANAS, CADA PARTIDO POLÍTICO DEBERÁ DESTINAR ANUALMENTE AL MENOS, EL TRES POR CIENTO DEL FINANCIAMIENTO PÚBLICO ORDINARIO;
+
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
 
-e Ter. Para la promoción, protección y aseguramiento pleno del ejercicio de los derechos humanos de las personas con discapacidad, cada partido político deberá destinar anualmente al menos, el tres por ciento del financiamiento público ordinario;
-
 Para efectos de los incisos e, e Bis y e Ter deberá informar trimestralmente y en términos cualitativos su aplicación a efecto de que, conforme a la Ley General de Partidos Políticos, así como las demás disposiciones aplicables, el Instituto Estatal Electoral verifique su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
 
 En caso de incumplimiento las autoridades competentes determinarán las sanciones correspondientes; y
 
@@ -708,6 +742,10 @@ c. Esta bonificación se entregará cinco días después de que los partidos efe
 d. La Dirección Ejecutiva de Prerrogativas y Partidos Políticos de la Junta Estatal Ejecutiva del Instituto Estatal Electoral verificará la participación de los partidos políticos a través del acta de la jornada electoral, la cual deberá estar firmada, cuando menos, por un representante debidamente acreditado ante la casilla electoral correspondiente; y
 
 e. En el cómputo de la elección correspondiente, se verificará la asistencia de los representantes de los Partidos ante las mesas directivas de casilla en el acta de la jornada electoral, en caso de haber diferencia entre el registro de representantes y la verificación de su asistencia, la cantidad que resulte será descontada de las prerrogativas por actividades ordinarias permanentes.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+El financiamiento a que se refiere la presente fracción no será aplicable en el proceso al que hace referencia la Ley de Revocación de Mandato del Estado de Hidalgo.
 
 IV. Por actividades específicas como entidades de interés público:
 
@@ -799,7 +837,9 @@ V. Los partidos políticos no podrán solicitar créditos de la banca de desarro
 
 El Consejo General determinará el monto de los topes de los gastos de campaña atendiendo los siguientes criterios:
 
-I. El tope máximo de gastos de campaña será equivalente al cuarenta por ciento del financiamiento público ordinario de campaña establecido para todos los partidos en el año de la elección para la gubernatura;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+I. El tope máximo de gastos de campaña será equivalente al cincuenta por ciento del financiamiento público ordinario de campaña establecido para todos los partidos en el año de la elección para la gubernatura;
 
 II. Para los distritos electorales locales, el tope máximo de gastos de campaña será la cantidad que resulte de dividir el tope de la elección para la gubernatura, entre el número de distritos electorales de mayoría relativa. En elecciones intermedias para renovación del Congreso, el cálculo anterior será actualizado conforme al Índice Nacional de Precios al Consumidor del año que se trate; y
 
@@ -889,13 +929,17 @@ EL INSTITUTO ESTATAL ELECTORAL CONTARÁ CON DOS DÍAS PARA REVISAR LA SOLICITUD 
 
 UNA VEZ CUMPLIDO CON LO SEÑALADO, LA AUTORIDAD ELECTORAL DEBERÁ DICTAMINAR SOBRE LA PROCEDENCIA DE LA SOLICITUD DEL REGISTRO DE CANDIDATURA COMÚN Y PUBLICARÁ SU ACUERDO EN EL PERIÓDICO OFICIAL DEL ESTADO DE HIDALGO EN LOS SIGUIENTES TRES DÍAS; Y
 
-II. No se podrá participar en más de un tercio del total de los municipios o distritos, tratándose de la elección de integrantes de ayuntamientos y diputados.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE AGOSTO DE 2023)</small>
+
+II. Tratándose de la elección de diputaciones y ayuntamientos, los partidos políticos podrán postular candidaturas comunes en aquellos distritos y municipios que así lo determinen.
 
 El convenio de candidatura común deberá contener:
 
 a. Nombre de los partidos que la conforman, así como el tipo de elección de que se trate;
 
-b. Emblema de cada uno de los partidos que lo conforman;
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+b. Emblema común de los partidos que la conforman.
 
 c. Cuando se trate de un candidato común a diputado local o integrante de los ayuntamientos, los partidos postulantes deberán señalar a que grupo legislativo o edilicio se integrarán;
 
@@ -905,11 +949,9 @@ d. La solicitud de registro de candidaturas comunes deberá señalar los siguien
 
 2. Lugar y fecha de nacimiento;
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE REFORMA EL NUMERAL 3 DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
-
-3. DOMICILIO Y TIEMPO DE RESIDENCIA EN EL MISMO, MÍNIMO DE DOS AÑOS PARA AYUNTAMIENTO, TRES (SIC) PARA DIPUTADOS Y CINCO AÑOS PARA GOBERNADOR; REQUISITO QUE DEBERÁ ACREDITAR CON ESCRITO BAJO PROTESTA DE DECIR VERDAD ACOMPAÑADO DE COPIA DE CREDENCIAL DE ELECTOR Y COPIA DE COMPROBANTE DE DOMICILIO, SIN QUE EL INSTITUTO ESTATAL ELECTORAL POR MEDIO DE SUS CONSEJOS, GENERAL, DISTRITALES O MUNICIPALES PUEDA SOLICITAR CONSTANCIA DE RADICACIÓN;
+3. Domicilio y tiempo de residencia en el mismo, mínimo de dos años para Ayuntamiento, tres para Diputaciones y cinco años para Gubernatura; requisito que deberá acreditar con escrito bajo protesta de decir verdad acompañado de copia de credencial de elector y copia de comprobante de domicilio, sin que el Instituto Estatal Electoral por medio de sus Consejos General o Distritales pueda solicitar constancia de radicación;
 
 4. Ocupación;
 
@@ -919,9 +961,17 @@ d. La solicitud de registro de candidaturas comunes deberá señalar los siguien
 
 7. El consentimiento expreso del candidato o los candidatos.
 
-e. Indicar las aportaciones en porcentajes de cada uno de los partidos para gastos de campaña, sujetándose a los límites de los topes de gastos establecidos y también los porcentajes que cada partido destinará de tiempos en radio y televisión a la candidatura común; y
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-f. Determinar para las elecciones de diputados y miembros de los ayuntamientos, el partido político al que pertenecerán los candidatos en caso de resultar electos.
+e. Indicar las aportaciones en porcentajes de cada uno de los partidos para gastos de campaña, sujetándose a los límites de los topes de gastos establecidos y también los porcentajes que cada partido destinará de tiempos en radio y televisión a la candidatura común;
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+f. Determinar para las elecciones de diputados y miembros de los ayuntamientos, el partido político al que pertenecerán los candidatos en caso de resultar electos, y
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+g. La forma en que se distribuirán los votos obtenidos por los partidos políticos participantes en la candidatura común.
 
 Al convenio de candidatura común se acompañará lo siguiente:
 
@@ -933,13 +983,19 @@ El Consejo General dentro de las 72 horas siguientes a la presentación de la so
 
 Los partidos políticos nacionales y locales de nuevo registro no podrán formar candidaturas comunes con otro partido político antes de la conclusión de la primera elección inmediata posterior a su registro.
 
-Los votos se computarán a favor de cada uno de los partidos políticos que los haya obtenido y se sumarán a favor del candidato.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-Cada partido será responsable de entregar su informe, en el que se señalen los gastos de campaña realizados. Podrán reelegirse los diputados locales electos bajo esta figura, siempre y cuando la postulación la realice el mismo partido o cualquiera de los partidos que lo hayan postulado.
+Los votos se computarán a favor del candidato común y la distribución del porcentaje de votación será conforme al convenio de candidatura común registrado ante la autoridad electoral.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+Cada partido será responsable de entregar su informe, en el que se señalen los gastos de campaña realizados. Podrán participar en la elección consecutiva las y los Diputados locales, así como las personas integrantes de los Ayuntamientos, electas bajo esta figura, siempre y cuando la postulación la realice el mismo partido o cualquiera de los partidos que lo hayan postulado.
 
 Para los efectos de la integración de los organismos electorales, del financiamiento y de la responsabilidad en materia electoral, civil y penal, los partidos políticos que postulen candidaturas comunes mantendrán su autonomía y serán responsables de sus actos.
 
-Los partidos que apoyen candidatos comunes conservarán cada uno su monto de financiamiento público, su tiempo que corresponda de acceso a radio y televisión, así como su representación en los órganos del Instituto y en las mesas Directivas de Casilla. En las boletas respectivas, cada partido político conservará el espacio correspondiente a su emblema con el nombre del candidato común al que se apoye.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+Los partidos que apoyen candidaturas comunes conservarán cada uno su monto de financiamiento público, su tiempo que corresponda de acceso a radio y televisión, así como su representación en los órganos del Instituto y en las mesas Directivas de Casilla.
 
 ### CAPÍTULO IX. DE LA PÉRDIDA DEL REGISTRO
 
@@ -1093,7 +1149,11 @@ I. Contribuir al desarrollo de la vida democrática;
 
 II. Preservar el fortalecimiento del régimen de partidos políticos;
 
-III. Asegurar a los ciudadanos el ejercicio de los derechos político-electorales y vigilar el cumplimiento de sus obligaciones;
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+III. ASEGURAR A LA CIUDADANÍA EL EJERCICIO DE LOS DERECHOS POLÍTICO-ELECTORALES Y VIGILAR EL CUMPLIMIENTO DE SUS OBLIGACIONES. SON DERECHOS POLÍTICOS DE LA CIUDADANÍA, LA PARTICIPACIÓN DIRECTA EN LA DIRECCIÓN DE LOS ASUNTOS PÚBLICOS O POR MEDIO DE REPRESENTANTES LIBREMENTE ELECTOS, ASÍ COMO TENER ACCESO EN CONDICIONES DE IGUALDAD A LAS FUNCIONES PÚBLICAS DEL ESTADO, MUNICIPIOS YCOMUNIDADES (SIC) INDÍGENAS;
 
 IV. Garantizar en el ámbito de su competencia, la celebración periódica de las elecciones locales para renovar a los integrantes de los poderes Legislativo y Ejecutivo del Estado, así como de Ayuntamientos;
 
@@ -1109,11 +1169,11 @@ V. VELAR POR LA AUTENTICIDAD Y EFECTIVIDAD DEL SUFRAGIO;
 
 VI. LLEVAR A CABO LA PROMOCIÓN DEL VOTO Y COADYUVAR A LA DIFUSIÓN DE LA EDUCACIÓN CÍVICA Y LA CULTURA DEMOCRÁTICA;
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-VII. COADYUVAR A PREVENIR, ATENDER Y SANCIONAR LA VIOLENCIA POLÍTICA EN RAZÓN DE GÉNERO EN EL ÁMBITO DE SUS ATRIBUCIONES; Y
+VII. COADYUVAR A PREVENIR, ATENDER Y SANCIONAR LA VIOLENCIA POLÍTICA, ASÍ COMO GARANTIZAR LA PARIDAD DE GÉNERO Y EL RESPETO DE LOS DERECHOS HUMANOS DE LAS MUJERES EN EL ÁMBITO DE SUS ATRIBUCIONES. CUANDO LA VÍCTIMA SEA UNA MUJER INDÍGENA, EL HECHOSERÁ (SIC) ATENDIDO CON PERSPECTIVA INTERSECCIONAL, INTERCULTURAL Y DE GÉNERO, CON ENFOQUE DE DERECHOS HUMANOS; Y
 
 (NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -1149,9 +1209,11 @@ b. La Junta Estatal Ejecutiva.
 
 II. Desconcentrados:
 
-a. Los Consejos Distritales Electorales; y
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-b. Los Consejos Municipales Electorales.
+a. Los Consejos Distritales Electorales.
+
+b. (DEROGADO, P.O. 22 DE AGOSTO DE 2023)
 
 ### CAPÍTULO III. DEL CONSEJO GENERAL
 
@@ -1217,9 +1279,13 @@ Cumplido el anterior requisito, los partidos políticos podrán sustituir en tod
 
 Cuando el Representante de un partido o de un candidato independiente, no asista sin causa justificada por tres veces consecutivas a las sesiones del Consejo General del Instituto Estatal Electoral ante el cual se encuentren acreditados, dejará de formar parte del mismo durante el proceso electoral de que se trate. A la primera falta se requerirán a los Representantes propietario y suplente para que concurran a la siguiente sesión y se dará aviso al partido político o al candidato independiente a fin de que conminen a asistir a sus Representantes.
 
-Los consejos distritales o municipales informarán por escrito al Consejo General del Instituto Estatal Electoral de cada inasistencia de los Representantes, con el propósito de que entere a los partidos políticos o a los Candidatos Independientes.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-La resolución del Consejo correspondiente se notificará al partido político respectivo o al candidato independiente.
+Los Consejos Distritales informarán por escrito al Consejo General del Instituto Estatal Electoral de cada inasistencia de las representaciones, con el propósito de que entere a los partidos políticos o a las candidaturas independientes.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+La resolución se notificará al partido político respectivo o a la candidatura independiente.
 
 ###### Artículo 60.
 
@@ -1235,9 +1301,9 @@ La publicación se realizará antes del quince de diciembre del año anterior de
 
 El Consejo General se reunirá en sesión ordinaria una vez al mes. En tiempos de proceso electoral, sesionará por lo menos dos veces al mes.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-Sesionará el día de la jornada Electoral de manera permanente a partir de las siete horas y concluirá posterior al cierre de todos los consejos distritales o municipales, según sea el caso, mediante el acuerdo de cierre y convocatoria para la próxima sesión.
+Sesionará el día de la jornada Electoral de manera permanente a partir de las siete horas y concluirá posterior al cierre de todos los Consejos Distritales, mediante el acuerdo de cierre y convocatoria para la próxima sesión.
 
 > <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1309,25 +1375,31 @@ XI. Aprobar la solicitud, así como los términos y condiciones del convenio, qu
 
 XII. Con la información proporcionada por el Registro Federal de Electores, ordenar la publicación en el Periódico Oficial, de la división seccional de los distritos y municipios de la Entidad;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-XIII. Nombrar o remover a propuesta del Presidente del Consejo General del Instituto Estatal Electoral, a los Consejeros Electorales propietarios y suplentes ante los consejos distritales y municipales, por votación mayoritaria de los consejeros presentes; en la integración de los consejos distritales y municipales, el Consejo General otorgará preferencia a personas con discapacidad que reúnan los requisitos correspondientes;
+XIII. Nombrar o remover a propuesta de la Presidencia del Consejo General del Instituto Estatal Electoral, a las Consejerías Electorales propietarias y suplentes ante los Consejos Distritales, por votación mayoritaria de las consejerías presentes; en la integración de los Consejos Distritales, el Consejo General otorgará preferencia a personas de grupos vulnerables que reúnan los requisitos correspondientes;
 
 XIV. Determinar el mes base para insacular a los ciudadanos inscritos en la lista nominal y supervisar el procedimiento para integrar las mesas directivas de casilla; en elecciones concurrentes con elecciones federales, si fuera el caso, esta atribución se ejercerá por delegación expresa del Instituto Nacional Electoral;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 573 POR EL QUE SE REFORMA LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-XV. Aprobar los programas de cursos de capacitación electoral, así como de educación cívica que deberá impartir la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica, desarrollar y ordenar la ejecución de los programas de educación cívica, cultura democrática, de paridad de género y el respeto de los derechos humanos de las mujeres y de las personas con discapacidad, en el ámbito político y electoral;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+XV. APROBAR LOS PROGRAMAS DE CURSOS DE CAPACITACIÓN ELECTORAL, ASÍ COMO DE EDUCACIÓN CÍVICA QUE DEBERÁ IMPARTIR LA DIRECCIÓN EJECUTIVA DE CAPACITACIÓN ELECTORAL Y EDUCACIÓN CÍVICA, DESARROLLAR Y ORDENAR LA EJECUCIÓN DE LOS PROGRAMAS DE EDUCACIÓN CÍVICA, CULTURA DEMOCRÁTICA, DE PARIDAD DE GÉNERO Y EL DE RESPETO DE LOS DERECHOS HUMANOS DE LAS MUJERES, DE LAS PERSONAS CON DISCAPACIDAD Y DE LAS PERSONAS DE LA DIVERSIDAD SEXUAL Y DE GÉNERO, EN EL ÁMBITO POLÍTICO Y ELECTORAL;
 
 XVI. Aprobar y emitir la convocatoria, recibir y aprobar las solicitudes y las modalidades de actuación de los observadores electorales, según lo establecido en el presente Código y de acuerdo con los lineamientos y criterios que emita el Instituto Nacional Electoral;
 
-XVII. Publicar en el Periódico Oficial del Estado, la integración de los consejos distritales y municipales;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+XVII. Publicar en el Periódico Oficial del Estado, la integración de los Consejos Distritales;
 
 XVIII. Aprobar, emitir y ordenar la publicación de las convocatorias para las elecciones locales ordinarias y extraordinarias;
 
 XIX. Ordenar la impresión y producción de documentación y materiales electorales, en términos de los lineamientos que al efecto emita el Instituto Nacional Electoral;
 
-XX. Registrar las candidaturas a Gobernador del Estado;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+XX. Registrar las candidaturas a la Gubernatura del Estado, previa verificación del cumplimiento a la obligación establecida para los partidos políticos de alternar el género en cada periodo electivo;
 
 XXI. Registrar supletoriamente las fórmulas de candidatos para Diputados de mayoría y las planillas de candidatos para Ayuntamientos;
 
@@ -1359,9 +1431,9 @@ XXIX. Solicitar el auxilio de la fuerza pública para garantizar el desarrollo d
 
 XXX. Resolver los recursos de su competencia en los términos de este Código;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-XXXI. Nombrar y remover a los coordinadores electorales distritales y municipales, así como Supervisores y Asistentes Electorales. El Consejo General otorgará preferencia a las personas con discapacidad que reúnan los requisitos correspondientes;
+XXXI. Nombrar y remover a las y los Enlaces Electorales Distritales, así como a Supervisores y Asistentes Electorales. El Consejo General otorgará preferencia a las personas con discapacidad que reúnan los requisitos correspondientes;
 
 XXXII. Informar al Tribunal Electoral Estatal sobre aspectos que resulten relevantes para el cumplimiento de las atribuciones que le corresponden;
 
@@ -1403,6 +1475,12 @@ XLIV. Ordenar la realización de conteos rápidos basados en las actas de escrut
 
 XLV. Verificar el cumplimiento de los criterios generales que emita el Instituto Nacional Electoral en materia de encuestas o sondeos de opinión sobre preferencias electorales que deberán adoptar las personas físicas o morales que pretendan llevar a cabo este tipo de estudios en los procesos electorales del Estado;
 
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA LA FRACCIÓN XLV BIS DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+XLV Bis. VIGILAR A PETICIÓN DE PARTE, EL EJERCICIO EFECTIVO DE LOS DERECHOS POLÍTICO-ELECTORALES INDÍGENAS Y AFROMEXICANOS, TANTO EN EL RÉGIMEN DE PARTIDOS POLÍTICOS COMO EN EL DE SISTEMAS NORMATIVOS INTERNOS, ASÍ COMO PROMOVER EL RECONOCIMIENTO DE LA PERSPECTIVA INTERCULTURAL JURÍDICA ANTE AYUNTAMIENTOS, PODERES PÚBLICOS Y ORGANISMOS AUTÓNOMOS;
+
 XLVI. Vigilar que las actividades de los partidos políticos, asociaciones políticas y candidatos se desarrollen con apego a este Código, la Ley General de Instituciones y Procedimientos Electorales, así como a la Ley General de Partidos Políticos, y cumplan con las obligaciones a que están sujetos;
 
 > <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2022)</small>
@@ -1439,11 +1517,9 @@ IV. Establecer los vínculos con el Instituto Nacional Electoral y las autoridad
 
 V. Suscribir los convenios aprobados por el Consejo General;
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE REFORMA LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
-
-VI. PROPONER A NOMBRE DE LOS INTEGRANTES DEL CONSEJO GENERAL CON BASE EN EL MECANISMO ESTIPULADO EN EL ARTÍCULO 83 Y PREVIO ANÁLISIS CON LAS REPRESENTACIONES PARTIDISTAS, A LOS CONSEJEROS ELECTORALES PARA INTEGRAR LOS CONSEJOS DISTRITALES Y MUNICIPALES;
+VI. Proponer a nombre de las personas integrantes del Consejo General con base en el mecanismo estipulado en el artículo 83 y previo análisis con las representaciones partidistas, a las Consejerías Electorales para integrar los Consejos Distritales;
 
 VII. Vigilar que se cumplan los acuerdos del Consejo General;
 
@@ -1465,7 +1541,9 @@ XI. Presentar al Consejo General el proyecto de presupuesto de apoyos adicionale
 
 XII. Proponer al pleno del Consejo General el nombramiento de los Directores Ejecutivos, titulares de unidades técnicas;
 
-XIII. Proponer al pleno del Consejo General, el nombramiento de los Coordinadores Electorales ante los Consejos Distritales y Municipales, así como a los Supervisores y Asistentes Electorales, que se requieran para cumplir las distintas actividades del proceso electoral;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+XIII. Proponer al pleno del Consejo General, el nombramiento de las y los Supervisores y Asistentes Electorales, que se requieran para cumplir las distintas actividades del proceso electoral;
 
 XIV. Proveer a los órganos del Instituto, los elementos necesarios para el cumplimiento de sus funciones;
 
@@ -1543,9 +1621,13 @@ XVII. Acordar con el Presidente del Consejo los asuntos de su competencia, auxil
 
 XVIII. ACTUAR COMO SECRETARIO DE LA JUNTA ESTATAL EJECUTIVA Y ACUDIR A SUS SESIONES CON VOZ; ELABORAR Y PREPARAR EL ORDEN DEL DÍA DE SUS SESIONES; DECLARAR LA EXISTENCIA DE QUÓRUM; CERTIFICAR LO ACTUADO; LEVANTAR EL ACTA CORRESPONDIENTE Y SOMETERLA A LA APROBACIÓN DE SUS INTEGRANTES;
 
-XIX. Registrar los nombramientos de los Representantes que los partidos políticos hayan designado para integrar al Consejo General, así como los Consejos Distritales y Municipales;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-XX. Atender oportunamente la función de oficialía electoral vigilando el cumplimiento oportuno de esta función por sí, o por conducto de los Secretarios de los Consejos Distritales o Municipales, así como de los servidores públicos del Instituto en los que se delegue con acuerdo del Consejero Presidente dicha función respecto de actos o hechos exclusivamente de naturaleza electoral;
+XIX. Registrar los nombramientos de las representaciones que los partidos políticos hayan designado para integrar al Consejo General, así como los Consejos Distritales;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+XX. Atender oportunamente la función de oficialía electoral vigilando el cumplimiento oportuno de la misma, por sí, o por conducto de las Secretarías de los Consejos Distritales, así como de las personas servidoras públicas del Instituto en quienes se delegue dicha función con acuerdo de la Presidencia del Consejo General respecto de actos o hechos exclusivamente de naturaleza electoral;
 
 XXI. Suscribir, por instrucción del Consejero Presidente, los actos jurídicos que el Instituto Estatal Electoral celebre;
 
@@ -1563,13 +1645,17 @@ XXVI. Las demás que le sean conferidas por este Código, el pleno del Consejo G
 
 El Secretario Ejecutivo deberá cubrir los mismos requisitos de los Consejeros Electorales. Durará en su cargo siete años y podrá ser removido por el acuerdo de por lo menos cinco Consejeros Electorales; su ausencia temporal será cubierta por alguno de los integrantes de la Junta Estatal Ejecutiva, que para el efecto se designe por el propio Consejo General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 70.
 
-En el ejercicio de la función de oficialía electoral del Secretario Ejecutivo, de los Secretarios de los Consejos Distritales y Municipales, así como los demás funcionarios en quien se delegue esta función tendrán las siguientes atribuciones, las cuales deberán de realizarlas de manera oportuna:
+En el ejercicio de la función de oficialía electoral de la Secretaría Ejecutiva, de las Secretarías de los Consejos Distritales, así como las demás personas funcionarias en quienes se delegue esta función tendrán las siguientes atribuciones, las cuales deberán de realizarlas de manera oportuna:
 
 I. A petición de los partidos políticos, dar fe de la realización de actos y hechos en materia electoral que pudieran influir o afectar la equidad en las contiendas electorales;
 
-II. A petición de los Consejos General, Distritales o Municipales, constatar hechos que influyan o afecten la organización del proceso electoral;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+II. A petición de los Consejos General o Distritales, constatar hechos que influyan o afecten la organización del proceso electoral;
 
 III. Solicitar la colaboración de los Notarios Públicos para el auxilio de la función electoral durante el desarrollo de la jornada electoral; y
 
@@ -1661,6 +1747,10 @@ El titular del Órgano Interno de Control deberá reunir los mismos requisitos q
 
 I. No ser consejero electoral de cualquiera de los consejos del Instituto Estatal Electoral, salvo que se haya separado del cargo tres años antes del día de la designación;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2023)</small>
+
+I Bis. Gozar de buena reputación;
+
 II. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte la buena fama en el concepto público, ello lo inhabilitará para el cargo, cualquiera que haya sido la pena;
 
 III. Contar al momento de su designación con experiencia profesional de al menos cinco años en el control, manejo o fiscalización de recursos;
@@ -1711,17 +1801,23 @@ El Órgano Interno de Control del Instituto, su titular y el personal adscrito a
 
 ### CAPÍTULO VI. DE LOS COORDINADORES, SUPERVISORES Y ASISTENTES ELECTORALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 73.
 
-Los Coordinadores Electorales del Instituto Estatal Electoral ante los Consejos Distritales y Municipales electorales, serán nombrados antes de la instalación de los mismos. Los supervisores y asistentes electorales serán designados y entrarán en funciones a más tardar quince días después de la instalación de dichos Consejos.
+Las personas supervisoras y asistentes electorales serán designadas y entrarán en funciones a más tardar quince días después de la instalación de los Consejos Distritales Electorales.
 
 Serán retribuidos en base al presupuesto del Instituto Estatal Electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 74.
 
-Los Coordinadores Electorales, Supervisores y Asistentes Electorales deberán reunir los siguientes requisitos:
+Las y los Enlaces, Supervisores y Asistentes Electorales deberán reunir los siguientes requisitos:
 
-I. Ser mexicano en pleno ejercicio de sus derechos y con residencia de al menos los últimos dos años en el Estado de Hidalgo, gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido doloso;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+I. Ser mexicano o mexicana en pleno ejercicio de sus derechos y con residencia de al menos los últimos dos años en el Estado de Hidalgo, y gozar de buena reputación;
 
 II. Estar inscrito en el padrón electoral y contar con credencial para votar con fotografía vigente;
 
@@ -1733,33 +1829,7 @@ V. No ser militante de partido político o tener nexos con algún candidato, fó
 
 ###### Artículo 75.
 
-Las funciones y actividades de los Coordinadores Electorales serán las siguientes:
-
-I. Coadyuvar con el Consejo Distrital o Municipal en la entrega de los citatorios para los ciudadanos que resultaron insaculados;
-
-II. Auxiliar al Consejo Distrital o Municipal en las capacitaciones y evaluaciones a los ciudadanos insaculados;
-
-III. Auxiliar al Consejo Distrital o Municipal en la entrega de los materiales electorales a los Presidentes de las casillas, recabando los respectivos acuses de recibo;
-
-IV. Auxiliar al Consejo Distrital o Municipal para garantizar que en las casillas se cuente con mesas y sillas para su funcionamiento y verificar que se armen e instalen las mamparas, para el secreto del voto;
-
-V. Auxiliar en la instalación de las casillas electorales en los términos que dispone este Código;
-
-VI. Coordinar la entrega de los alimentos a los funcionarios de casilla ante las mismas;
-
-VII. Auxiliar en caso de que lo solicite el funcionario Presidente o los Representantes de los partidos políticos sobre algún conflicto en algunas de las casillas sin suplir o sustituir las funciones de éstos, sólo con el objeto de orientar e interpretar el sentido de este Código;
-
-VIII. Auxiliar a los Presidentes de las casillas sobre la entrega de los paquetes y sobres electorales al Consejo Distrital, Municipal o al centro de acopio que corresponda, señalando que éstos se harán acompañar de los Representantes de los partidos para el caso de las casillas ubicadas en las comunidades retiradas de la cabecera distrital o municipal y ante la imposibilidad de transporte se sorteará a dos Representantes de los partidos que acompañarán al Presidente a hacer la entrega;
-
-IX. Servir de enlace entre el Consejo General del Instituto Estatal Electoral y los Consejos Distritales y Municipales electorales;
-
-X. Auxiliar en el retorno a sus lugares de origen a los Presidentes y Representantes de partido ante las casillas después de haber entregado el paquete al Consejo Distrital o Municipal o al centro de acopio; y
-
-XI. Las demás que le sean conferidas por este Código, el pleno del Consejo General o el Presidente del Instituto Estatal Electoral y otras disposiciones legales.
-
-Todas las funciones de los coordinadores se deberán de apegar en estricto cumplimiento a este Código y a los acuerdos que emanen del Consejo General.
-
-En ningún caso los Coordinadores podrán asumir funciones dentro de la Mesa Directiva de Casilla ni designar a quien deba fungir en las mismas.
+(DEROGADO, P.O. 22 DE AGOSTO DE 2023)
 
 ###### Artículo 76.
 
@@ -1785,13 +1855,19 @@ En ningún caso los Supervisores y Asistentes Electorales podrán asumir funcion
 
 ### CAPÍTULO VII. DE LA JUNTA ESTATAL EJECUTIVA
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 77.
 
-LA JUNTA ESTATAL EJECUTIVA ESTARÁ INTEGRADA POR EL CONSEJERO PRESIDENTE Y EL SECRETARIO EJECUTIVO Y LOS TITULARES DE LAS DIRECCIONES EJECUTIVAS DE: ORGANIZACIÓN ELECTORAL; CAPACITACIÓN ELECTORAL Y EDUCACIÓN CÍVICA; EQUIDAD DE GÉNERO Y PARTICIPACIÓN CIUDADANA; PRERROGATIVAS Y PARTIDOS POLÍTICOS; JURÍDICA; DE ADMINISTRACIÓN; Y DE DERECHOS POLÍTICO ELECTORALES INDÍGENAS.
+LA JUNTA ESTATAL EJECUTIVA ESTARÁ INTEGRADA POR LA CONSEJERA PRESIDENTA O EL CONSEJERO PRESIDENTE, LA PERSONA TITULAR DE LA SECRETARÍA EJECUTIVA Y LAS PERSONAS TITULARES DE LAS DIRECCIONES EJECUTIVAS DE: ORGANIZACIÓN ELECTORAL; CAPACITACIÓN ELECTORAL Y EDUCACIÓN CÍVICA; EQUIDAD DE GÉNERO Y PARTICIPACIÓN CIUDADANA; PRERROGATIVAS Y PARTIDOS POLÍTICOS; JURÍDICA; DE ADMINISTRACIÓN; Y DE DERECHOS POLÍTICO-ELECTORALES INDÍGENAS.
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+LA PERSONA TITULAR DE LA DIRECCIÓN EJECUTIVA DE DERECHOS POLÍTICO-ELECTORALES INDÍGENAS SERÁ DESIGNADA MEDIANTE UN PROCESO DE SELECCIÓN A CARGO DEL CONSEJO GENERAL, CON PERTINENCIA CULTURAL.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -1811,13 +1887,17 @@ III. Supervisar el cumplimiento de las normas aplicables a los partidos polític
 
 IV. Supervisar el cumplimiento del programa de educación cívica del Instituto y el de Capacitación Electoral en caso de que le sea delegada la función;
 
-V. Seleccionar y proponer al Consejero Presidente a los candidatos para desempeñarse como coordinadores electorales ante los Consejos Distritales y Municipales;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+V. Seleccionar y proponer a la Presidencia del Consejo General a las personas que ocuparán el cargo de Enlaces ante los Consejos Distritales;
 
 VI. Diseñar el calendario y el plan integral del proceso electoral ordinario y extraordinario que se convoquen, para ser puestos a consideración del Consejo General.
 
 VII. Evaluar el desempeño del Servicio Profesional Electoral de conformidad con los lineamientos que emita al respecto el Instituto Nacional Electoral;
 
-VIII. Aprobar los domicilios en los que habrá de instalarse las oficinas de los Consejos Distritales y Municipales, durante los procesos electorales;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+VIII. Aprobar los domicilios en los que habrán de instalarse las oficinas de los Consejos Distritales, durante los procesos electorales;
 
 IX. Presentar a consideración del Consejo General el proyecto de dictamen de pérdida de registro de algún partido político local que se encuentre en los supuestos señalados en la Ley General de Partidos Políticos o este Código; y
 
@@ -1839,11 +1919,15 @@ b. Coordinar los trabajos para la realización de las sesiones del Consejo Gener
 
 c. Preparar y verificar las publicaciones que realice el Consejo General;
 
-d. Apoyar a la integración, instalación y funcionamiento de los Consejos Distritales y Municipales electorales;
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+d. Apoyar a la integración, instalación y funcionamiento de los Consejos Distritales electorales;
 
 e. Proveer lo necesario para la ubicación de las Mesas Directivas de Casilla;
 
-f. Recabar de los Consejos Distritales y Municipales, copias de las actas de sus sesiones y demás documentos relacionados con el proceso electoral
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+f. Recabar de los Consejos Distritales copias de las actas de sus sesiones y demás documentos relacionados con el proceso electoral;
 
 g. Proveer lo necesario para la impresión y distribución de la documentación electoral autorizada;
 
@@ -1879,7 +1963,9 @@ c. Preparar el material didáctico y de apoyo;
 
 d. Orientar a los ciudadanos en el ejercicio de sus derechos y el cumplimiento de sus obligaciones político-electorales diseñando y proponiendo estrategias para promover el voto entre la ciudadanía;
 
-e. Coordinar la capacitación de los integrantes de cada uno de los Consejos Distritales y Municipales Electorales;
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+e. Coordinar la capacitación de los integrantes de cada uno de los Consejos Distritales Electorales;
 
 f. Coordinar cursos de capacitación dirigidos a los ciudadanos que resulten de la insaculación y a los observadores electorales, cuando el Instituto Nacional Electoral delegue esta atribución;
 
@@ -2023,17 +2109,113 @@ i. Las demás que le confiera este Código, el Consejo General, su Presidente y 
 
 VII. DIRECCIÓN DE DERECHOS POLÍTICO ELECTORALES INDÍGENAS:
 
-a. PROCURAR LA GENERACIÓN A TRAVÉS DEL CONSEJO GENERAL, LAS CONDICIONES DE COADYUVANCIA Y PROTECCIÓN DE LOS DERECHOS POLÍTICO-ELECTORALES DE PUEBLOS Y COMUNIDADES INDÍGENAS, TALES COMO EL DERECHO DE PARTICIPACIÓN POLÍTICA, ASOCIACIÓN, REPRESENTACIÓN POLÍTICA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE HIDALGO;
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL INCISO a DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-b. FOMENTAR EL DESARROLLO DE POLÍTICAS, INCLUSIVAS Y DE ACCESO A LA JUSTICIA ENCAMINADAS A LOGRAR LA PROTECCIÓN DE LAS LIBERTADES FUNDAMENTALES DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS, ASÍ COMO BUSCAR PROGRESIVAMENTE MAYOR IGUALDAD DE LA MUJER INDÍGENA;
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-c. ESTUDIOS Y ANÁLISIS DE IMPLICACIONES DE LOS DERECHOS POLÍTICO ELECTORAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS, DENTRO DEL MARCO DEL SISTEMA ELECTORAL LOCAL Y EN EL MARCO DE NORMATIVIDAD;
+a. ELABORAR Y PROPONER AL CONSEJO GENERAL UN PROGRAMA DE ACCIÓN INSTITUCIONAL QUE PROCURE LA GENERACIÓN DE CONDICIONES DE COADYUVANCIA Y PROTECCIÓN DE LOS DERECHOS POLÍTICOS Y ELECTORALES DE LOS SUJETOS DE DERECHO INDÍGENA, TALES COMO EL CONJUNTO DE DERECHOS DE PARTICIPACIÓN POLÍTICA, ASOCIACIÓN Y REPRESENTACIÓN POLÍTICA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE HIDALGO, DENTRO Y FUERA DEL RÉGIMEN DE PARTIDOS POLÍTICOS; EL PROGRAMA DEBERÁ INCLUIR MECANISMOS DE DIFUSIÓN Y CAPACITACIÓN DE LOS DERECHOS POLÍTICO-ELECTORALES, HACIA PUEBLOS Y COMUNIDADES INDÍGENAS, ASÍ COMO A INSTITUCIONES PÚBLICAS Y PRIVADAS;
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL INCISO b DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+b. FOMENTAR EL DESARROLLO DE POLÍTICAS, TRANSVERSALES, INCLUSIVAS Y DE ACCESO A LA JUSTICIA ENCAMINADAS A LOGRAR LA PROTECCIÓN DE LAS LIBERTADES FUNDAMENTALES DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS, ASÍ COMO BUSCAR PROGRESIVAMENTE MAYOR IGUALDAD DE LA MUJER INDÍGENA;
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL INCISO c DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+c. ESTUDIOS Y ANÁLISIS DE IMPLICACIONES DE LOS DERECHOS POLÍTICO ELECTORALES DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS, DENTRO DEL MARCO DEL SISTEMA ELECTORAL LOCAL Y EN EL MARCO DE LA NORMATIVIDAD APLICABLE;
 
 d. GENERAR Y ESTRECHAR VÍNCULOS CON INSTITUCIONES PÚBLICAS Y PRIVADAS, DE CARÁCTER ESTATAL, NACIONAL E INTERNACIONAL, INTERESADAS EN LA PROMOCIÓN, RESPETO, PROTECCIÓN Y GARANTÍA DE LOS DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS;
 
-e. ACORDAR CON EL PRESIDENTE LOS ASUNTOS DE SU COMPETENCIA; Y
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL INCISO e DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-f. LAS DEMÁS QUE LE CONFIERA ESTE CÓDIGO, EL CONSEJO GENERAL, SU PRESIDENTE Y OTRAS DISPOSICIONES LEGALES RELATIVAS Y APLICABLES.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+e. ACORDAR CON LA CONSEJERA PRESIDENTA O EL CONSEJERO PRESIDENTE, LOS ASUNTOS DE SU COMPETENCIA;
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA EL INCISO f DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+f. IMPLEMENTAR ACCIONES, ESTRATEGIAS, PROGRAMAS Y POLÍTICAS PARA LA PROMOCIÓN DE LOS DERECHOS POLÍTICO ELECTORALES DE LAS MUJERES INDÍGENAS, EN EL SISTEMA DE PARTIDOS POLÍTICOS, ASÍ COMO EN LOS SISTEMAS NORMATIVOS INTERNOS. DE IGUAL FORMA, COADYUVAR EN LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA POLÍTICA CONTRA MUJERES INDÍGENAS;
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA EL INCISO g DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+g. CONTAR CON PERSONAL ESPECIALIZADO EN PERSPECTIVA INTERCULTURAL JURÍDICA, DEBIENDO CONTAR CON UN ÁREA PARA ATENCIÓN DE DERECHOS INDÍGENAS DENTRO DEL RÉGIMEN DE PARTIDOS POLÍTICOS Y, OTRA PARA LA ATENCIÓN DE SISTEMAS NORMATIVOS INTERNOS QUE, ADEMÁS ATENDERÁ ASUNTOS DE MEDIACIÓN Y SOLUCIÓN ALTERNATIVA DE CONFLICTOS INTER, INTRA Y EXTRACOMUNITARIOS QUE EN MATERIA DE DERECHOSPOLÍTICO- (SIC) ELECTORALES LE SEAN SOLICITADOS AL INSTITUTO ESTATAL ELECTORAL.
+
+LA PERSONA TITULAR DEL ÁREA, ASÍ COMO EL PERSONAL ESPECIALIZADO DEBERÁ ACREDITAR PERTENECER A ALGUNA COMUNIDAD INDÍGENA, CONTAR CON CONOCIMIENTOS EN MATERIA ELECTORAL, PERSPECTIVA INTERCULTURAL JURÍDICA Y PREFERENTEMENTE, HABLAR ALGUNA LENGUA INDÍGENA.
+
+SE ENTIENDE POR PERSPECTIVA INTERCULTURAL JURÍDICA, AL CONJUNTO DE PARÁMETROS SIGUIENTES:
+
+1) SE HABRÁ DE RECONOCER EL PLURALISMO JURÍDICO Y QUE EL DERECHO INDÍGENA CUENTA CON PRINCIPIOS, INSTITUCIONES Y CARACTERÍSTICAS PROPIAS, ORIGINADAS A PARTIR DEL DESARROLLO HISTÓRICO Y COSMOVISIÓN DE LOS PUEBLOS ORIGINARIOS Y QUE SON DISTINTAS A LAS GENERADAS EN EL DERECHO LEGISLADO FORMALMENTE;
+
+2) EN SU CASO, SE HABRÁ DE ACUDIR A LAS FUENTES ADECUADAS PARA CONOCER LAS INSTITUCIONES Y REGLAS VIGENTES DEL SISTEMA NORMATIVO INDÍGENA A APLICAR; Y
+
+3) EL ESTÁNDAR PARA ANALIZAR UNA PROBLEMÁTICA RELATIVA AL DERECHO ELECTORAL INDÍGENA, NO DEBE SER IGUAL AL APLICABLE EN CUALQUIER OTRO PROCESO, EN VIRTUD DE QUE LA OBLIGACIÓN CONSTITUCIONAL Y CONVENCIONAL DE TOMAR EN CUENTA LAS ESPECIFICIDADES CULTURALES DE LOS PUEBLOS INDÍGENAS Y LAS COMUNIDADES QUE LOS CONFORMAN, DEBERÁN SER SUSCEPTIBLES DE TUTELAR SUS DERECHOS DE FORMA EFECTIVA Y MAXIMIZADORA,
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA EL INCISO h DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+h. PROPONER AL CONSEJO GENERAL LA REGLAMENTACIÓN DE LA MEDIACIÓN ELECTORAL, COMO UN MÉTODO DE RESOLUCIÓN ALTERNATIVA DE CONFLICTOS ELECTORALES, BASADO EN LA DEMOCRACIA, LA PAZ, LA TOLERANCIA, EL DIÁLOGO, EL RESPETO Y EL CONSENSO, IMPLEMENTADO POR EL INSTITUTO ESTATAL ELECTORAL CON EL OBJETO DE CONSTRUIR ACUERDOS JUSTOS, ACEPTABLES Y PACÍFICOS, EN EL EJERCICIO DE DERECHOS POLÍTICO-ELECTORALES INDÍGENAS. EL CONSEJO GENERAL APROBARÁ LA REGLAMENTACIÓN, MEDIANTE PROCESO DE CONSULTA PREVIA, LIBRE E INFORMADA;
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA EL INCISO i DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+i. GENERAR Y MANTENER EL VÍNCULO ENTRE LOS AYUNTAMIENTOS Y LAS COMUNIDADES INDÍGENAS Y AFROMEXICANAS QUE SOLICITEN LA REALIZACIÓN DE PROCESOS DE ELECCIÓN DE AUTORIDADES AUXILIARES EN MUNICIPIOS CON PRESENCIA DE POBLACIÓN INDÍGENA Y AFROMEXICANA, ASÍ COMO LA ELECCIÓN DE LA FIGURA DE REPRESENTANTE INDÍGENA O AFROMEXICANO ANTE AYUNTAMIENTO, PREVIA APROBACIÓN POR EL CONSEJO GENERAL;
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA EL INCISO j DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+j. CONTRIBUIR A LA IMPLEMENTACIÓN DE LA PERSPECTIVA INTERSECCIONAL E INTERCULTURAL, CON ENFOQUE DE DERECHOS HUMANOS, TANTO AL INTERIOR COMO AL EXTERIOR DEL INSTITUTO ESTATAL ELECTORAL; PARA TAL FIN, LA PERSONA TITULAR DEL ÁREA FORMARÁ PARTE INTEGRANTE DE LA JUNTA ESTATAL EJECUTIVA. SE ENTIENDE POR PERSPECTIVA INTERSECCIONAL,AL (SIC) CONJUNTO DE PARÁMETROS QUE DEBEN ATENDERSE CUANDO UNA PERSONA PERTENECE A MÁS DE UN GRUPO EN SITUACIÓN DE EXCLUSIÓN, SUBREPRESENTACIÓN Y/O VULNERABILIDAD;
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA EL INCISO k DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+k. FUNGIR COMO SECRETARÍA TÉCNICA PARA LA ATENCIÓN Y DESAHOGO DE LOS PROCESOS DE CONSULTA PREVIA, LIBRE, INFORMADA, DE BUENA FE Y CULTURALMENTE ADECUADA, QUE EN MATERIA INDÍGENA SEAN NECESARIOS PARA GARANTIZAR EL EJERCICIO DE LOS DERECHOS POLÍTICO-ELECTORALES QUE SE ENCUENTREN RECONOCIDOS EN LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO Y DE LA LEGISLACIÓN SECUNDARIA QUE SEAN APROBADOS POR EL CONSEJO GENERAL;
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA EL INCISO l DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+l. ACTUAR COMO TITULAR DE LA SECRETARÍA TÉCNICA DE LA COMISIÓN PERMANENTE DE DERECHOS POLÍTICO ELECTORALES INDÍGENAS;
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA EL INCISO m DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+m. COADYUVAR CON EL CONSEJO GENERAL EN LA REVISIÓN Y ANÁLISIS DE LAS SOLICITUDES QUE PRESENTEN LOS SUJETOS DE DERECHO INDÍGENA, PARA EL REGISTRO DE CANDIDATURAS INDEPENDIENTES, REGISTRO DE PARTIDOS POLÍTICOS LOCALES INDÍGENAS, CAMBIO DE MODELO DE ELECCIÓN, EJERCICIO DE AUTOGOBIERNO Y ADMINISTRACIÓN DIRECTA DEL TOTAL DE LOS RECURSOS ECONÓMICOS QUE LES CORRESPONDE DEMANERA (SIC) PROPORCIONAL A LAS COMUNIDADES INDÍGENAS.
+
+PARA EFECTOS DE ESTA FRACCIÓN SE ENTIENDE POR ELEMENTOS CUALITATIVOS:
+
+1. LA DETERMINACIÓN DE LA O LAS AUTORIDADES MUNICIPALES O COMUNITARIAS QUE TENDRÁN A SU CARGO LAS RESPONSABILIDADES DERIVADAS DE LA TRANSFERENCIA DE LAS ATRIBUCIONES O FACULTADES RELACIONADAS CON LA ADMINISTRACIÓN DE LOS RECURSOS ECONÓMICOS;
+
+2. LAS BASES RELATIVAS A LA RENDICIÓN DE CUENTAS Y LA TRANSPARENCIA, ASÍ COMO OTROS REQUISITOS DE CARÁCTER ADMINISTRATIVO EN EL MANEJO DE LOS RECURSOS QUE LE CORRESPONDAN A LA COMUNIDAD INDÍGENA;
+
+3. LOS CRITERIOS DE EQUIDAD PRESUPUESTAL CON ARREGLO A LOS CUALES DEBERÁ HACERSE LA DISTRIBUCIÓN DE LOS RECURSOS POR PARTE DEL AYUNTAMIENTO; Y
+
+4. LOS CRITERIOS DE EJECUCIÓN PARA LA OPERATIVIDAD DE LA ENTREGA DE RECURSOS, ENTRE OTROSASPECTOS (SIC) DE CARÁCTER CUALITATIVO, CULTURALMENTE COMPATIBLES CON LA COMUNIDAD.
+
+POR ELEMENTOS CUANTITATIVOS SE ENTIENDE A LAS APORTACIONES REALIZADAS POR LA FEDERACIÓN, EL ESTADO Y EL MUNICIPIO, PARA ESTABLECERLOS (SIC) PORCENTAJES DE LOS RECURSOS QUE DEBERÁN EMPLEARSE PARA SATISFACER LAS NECESIDADES DE LA COMUNIDAD A TRAVÉS DE PROGRAMAS ECONÓMICOS, SOCIALES Y EN MATERIA DE SALUD, ENTRE OTROS, ASÍ COMO EL PORCENTAJE QUE CORRESPONDA A LAS AUTORIDADES MUNICIPALES, TRADICIONALES O COMUNITARIAS RESPECTO DE LA TOTALIDAD DE LOS RECURSOS QUE INGRESEN A LA HACIENDA MUNICIPAL, QUE DERIVEN, TALES COMO PARTIDASESPECÍFICAS (SIC), O BIEN APORTACIONES EXTRAORDINARIAS.
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA EL INCISO n DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+n. SOLICITAR LA AMPLIACIÓN DE RECURSOS PARA EL EJERCICIO DE SUS FUNCIONES; Y
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA EL INCISO o DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 22 DE AGOSTO DE 2023)</small>
+
+o. LAS DEMÁS QUE LE CONFIERA ESTE CÓDIGO, EL CONSEJO GENERAL, LA PRESIDENCIA DE ÉSTE Y OTRAS DISPOSICIONES LEGALES RELATIVAS Y APLICABLES.
 
 ###### Artículo 80.
 
@@ -2069,47 +2251,63 @@ Los conflictos laborales derivados de las relaciones de trabajo entre el Institu
 
 ### CAPÍTULO VIII. DE LOS ÓRGANOS DESCONCENTRADOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 82.
 
-En cada uno de los distritos electorales y municipios, el Instituto contará con un órgano desconcentrado denominado Consejo Distrital o Municipal Electoral, que se integrará con:
+En cada uno de los distritos electorales, el Instituto contará con un órgano desconcentrado denominado Consejo Distrital Electoral, que se integrará con:
 
-I. Tres Consejeros Electorales propietarios, los que contarán con voz y voto y tres Consejeros suplentes en orden de prelación determinada previamente por el Consejo General, que suplirán la ausencia total de cualquiera de los Consejeros Electorales propietarios; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+I. Cinco Consejerías Electorales propietarias, las que contarán con voz y voto y cinco Consejerías suplentes en orden de prelación determinada previamente por el Consejo General, que suplirán la ausencia total de cualquiera de las Consejerías Electorales propietarias; y
 
 II. Un Representante por cada partido político y, en su caso, un Representante por cada candidato independiente con registro, únicamente con voz, que deberá ser acreditado por el Representante ante el Consejo General del Instituto Estatal Electoral. Por cada Representante propietario se acreditará un suplente.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 83.
 
-Los Consejeros Electorales de los Consejos Distritales y Municipales Electorales serán electos por el Consejo General a través de Convocatoria Pública y designados por éste.
+Las Personas que ocupen las Consejerías Electorales de los Consejos Distritales Electorales serán designadas por el Consejo General a través de Convocatoria Pública.
 
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
 
 En caso de que una persona con discapacidad haya sido postulada para ocupar el cargo y exista un empate en la evaluación realizada, recibirá preferencia para su designación.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 84.
 
-Los Consejos Distritales y Municipales Electorales, tendrán un Presidente que será electo de entre los Consejeros Electorales en funciones, del consejo correspondiente.
+Los Consejos Distritales Electorales, tendrán una Presidencia que será designada por el Consejo General.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 85.
 
-Para ser Consejero Electoral Distrital o Municipal se deberán preferentemente reunir los mismos requisitos que se solicitan para ser Consejero Electoral en el Consejo General, además de ser residentes del distrito o Municipio respectivo.
+Para ser Consejero o Consejera Electoral Distrital se deberán preferentemente reunir los mismos requisitos que se solicitan para ocupar una Consejería Electoral en el Consejo General, además de ser residentes del distrito respectivo.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 86.
 
-Los Representantes de los partidos políticos o de los Candidatos Independientes con registro, ante los Consejos Distritales o los Municipales Electorales, deberán ser acreditados ante los propios consejos o ante el Consejo General del Instituto Estatal Electoral, a más tardar diez días naturales después de la fecha del cierre del registro de candidatos, cumplido este requisito podrán ser substituidos en cualquier momento. Vencido este plazo los partidos o los Candidatos Independientes que no registren a sus Representantes, no podrán formar parte de estos órganos durante el proceso electoral que corresponda.
+Las representaciones de los partidos políticos o de candidaturas independientes, ante los Consejos Distritales Electorales, deberán ser acreditadas ante los propios consejos o ante el Consejo General del Instituto Estatal Electoral, a más tardar diez días naturales después de la fecha del cierre del registro de candidaturas, cumplido este requisito podrán ser substituidas en cualquier momento. Vencido este plazo los partidos o las candidaturas independientes que no registren a sus representantes, no podrán formar parte de estos órganos durante el proceso electoral que corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 87.
 
-Los Consejos Distritales y Municipales, para el desempeño de sus funciones técnico-administrativas, se auxiliarán de un Secretario y los Coordinadores de Organización y Capacitación Electoral, de los Coordinadores Electorales propuestos por el Consejero Presidente al Consejo General, así como de los Supervisores y Auxiliares Electorales que sean necesarios y lo permita el presupuesto.
+Los Consejos Distritales, para el desempeño de sus funciones técnico-administrativas, se auxiliarán de una Secretaría y las Coordinaciones de Organización y Capacitación Electoral propuestas por la Presidencia del Consejo General, así como de las personas Supervisoras, Asistentes y Enlaces Electorales respecto de los cuales, estos últimos no podrán exceder del número de municipios que integran al Distrito electoral respectivo.
 
 Los Secretarios y los Coordinadores de Organización y Capacitación Electoral y Educación Cívica a que se refiere este artículo, deberán preferentemente cubrir los mismos requisitos de los Consejeros Electorales.
 
-Durante los procesos electorales, el Consejero Presidente del Consejo General en acuerdo con el Secretario Ejecutivo del Instituto designará el número del (sic) Oficiales Electorales para los Consejos Distritales o Municipales atendiendo a las condiciones y necesidades de cada uno.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+Durante los procesos electorales, la Presidencia del Consejo General en acuerdo con la Secretaría Ejecutiva del Instituto designará el número de Oficiales Electorales para los Consejos Distritales, atendiendo a las condiciones y necesidades de cada uno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 88.
 
-Los Consejos Distritales Electorales se instalarán para la preparación desarrollo y cómputo de las elecciones de Gobernador y Diputados, teniendo las atribuciones y obligaciones siguientes:
+Los Consejos Distritales Electorales se instalarán para la preparación desarrollo y cómputo de las elecciones de Gubernatura, Diputaciones y Ayuntamientos, teniendo las atribuciones y obligaciones siguientes:
 
 I. Vigilar que se cumpla con lo dispuesto en este Código;
 
@@ -2117,17 +2315,29 @@ II. Cumplir con los acuerdos que dicte el Consejo General;
 
 III. Intervenir en la preparación, desarrollo y vigilancia de los procesos electorales en sus distritos;
 
-IV. Cuando el Instituto Nacional Electoral delegue u otorgue competencia, aprobarán el número, ubicación e integración de las mesas directivas de casilla para la elección de Gobernador y Diputados, e integrar y operar los centros de acopio de paquetes y sobres electorales, de acuerdo a la normatividad aplicable;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-V. Registrar las fórmulas de candidatos que participen en la elección de Diputados de mayoría;
+IV. Cuando el Instituto Nacional Electoral delegue u otorgue competencia, aprobarán el número, ubicación e integración de las mesas directivas de casilla para la elección de Gubernatura, Diputaciones y Ayuntamientos, e integrar y operar los centros de acopio de paquetes y sobres electorales, de acuerdo a la normatividad aplicable;
 
-VI. Notificar, capacitar, evaluar y aprobar a los ciudadanos que resultaron insaculados para integrar las mesas directivas de casilla en la elección de Gobernador y Diputados, cuando no se trate de elección concurrente con la federal o por delegación del Instituto Nacional Electoral;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-VII. Registrar los nombramientos de los Representantes de los partidos políticos y Representantes Generales, ante las mesas directivas de casilla en la elección de Gobernador y Diputados;
+V. Registrar las fórmulas de candidaturas que participen en la elección de Diputaciones de mayoría, así como las planillas que participen en la elección para renovar los Ayuntamientos;
 
-VIII. Recibir del Consejo General el material electoral para la elección de Gobernador y Diputados, cuando no se trate de elección concurrente con la federal;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-IX. Entregar la documentación y el material electoral a los Presidentes de las Mesas Directivas de casilla en la elección de Gobernador y Diputados, cuando no se trate de elección concurrente con la federal;
+VI. Notificar, capacitar, evaluar y aprobar a las personas ciudadanas que resultaron insaculadas para integrar las mesas directivas de casilla en la elección de Gubernatura, Diputaciones y Ayuntamientos, cuando no se trate de elección concurrente con la federal o por delegación del Instituto Nacional Electoral;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+VII. Registrar los nombramientos de representantes de partidos políticos y candidaturas independientes, así como de sus representantes generales, ante las mesas directivas de casilla en la elección de Gubernatura, Diputaciones y Ayuntamientos;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+VIII. Recibir del Consejo General el material electoral para la elección de Gubernatura, Diputaciones y Ayuntamientos, cuando no se trate de elección concurrente con la federal;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+IX. Entregar la documentación y el material electoral a las Presidencias de las Mesas Directivas de casilla en la elección de Gubernatura, Diputaciones y Ayuntamientos, cuando no se trate de elección concurrente con la federal;
 
 X. Realizar los cómputos distritales de la elección de Gobernador;
 
@@ -2135,21 +2345,37 @@ X. Realizar los cómputos distritales de la elección de Gobernador;
 
 XI. Realizar los cómputos distritales y la declaración de validez de la elección de Diputados por el principio de mayoría relativa, expedir las constancias de mayoría y entregarlas dentro de la sesión de cómputo a la fórmula ganadora, al representante del partido político o candidatos independientes que hubieran resultado ganadores.
 
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+XI BIS. Realizar el cómputo y la declaración de validez de las elecciones de Ayuntamientos, expedir las constancias de mayoría de manera individual y entregarlas dentro de la sesión de cómputo a la planilla ganadora, a la representación del partido político o candidaturas independientes que hubieran obtenido el triunfo;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+XI TER. En el caso de que los Distritos Locales compartan secciones electorales de un mismo municipio, el Consejo General determinará el procedimiento para realizar los cómputos municipales correspondientes;
+
 XII. Remitir al Consejo General los paquetes electorales y los expedientes de los cómputos de la elección de Gobernador, para el cómputo estatal y la declaración de validez;
 
-XIII. Remitir al Consejo General los paquetes electorales y los expedientes de los cómputos de la elección de Diputados de mayoría, para la asignación de Diputados de representación proporcional;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+XIII. Remitir al Consejo General los paquetes electorales y los expedientes de los cómputos de la elección de Diputaciones de mayoría, para la asignación de Diputaciones de representación proporcional, así como de los cómputos municipales para la asignación de regidurías de representación proporcional;
 
 XIV. Remitir al Tribunal Electoral del Estado los recursos de su competencia;
 
 XV. Informar al Consejo General sobre el desarrollo de sus funciones;
 
-XVI. Remitir a la Secretaría Ejecutiva, dentro de las 72 horas siguientes a la celebración de sus sesiones, copia del acta respectiva;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-XVII. Dar a conocer, mediante avisos colocados en el exterior de sus oficinas, los resultados de los cómputos distritales;
+XVI. Remitir a la Secretaría Ejecutiva, dentro de las 72 horas siguientes a la celebración de sus sesiones, copia de las actas respectivas;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+XVII. Dar a conocer, mediante avisos colocados en el exterior de sus oficinas, los resultados de los cómputos distritales y municipales;
 
 XVIII. Sesionar el día de la jornada electoral, de manera permanente, a partir de las siete horas y concluir mediante el acuerdo de cierre y convocatoria para la próxima sesión;
 
-XIX. Recibir hasta antes del inicio del cómputo distrital los escritos de protesta;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+XIX. Recibir hasta antes del inicio de los cómputos distritales y municipales los escritos de protesta;
 
 XX. Designar al personal encargado de operar el centro de captura del Programa de Resultados Preliminares y de la digitalización de las Actas de la Jornada Electoral; y
 
@@ -2167,65 +2393,21 @@ En caso de no haber mayoría, la sesión se celebrará dentro de las 24 horas si
 
 ###### Artículo 91.
 
-Los Consejos Municipales Electorales tienen las atribuciones y obligaciones siguientes:
-
-I. Vigilar que se cumpla con lo dispuesto en este Código;
-
-II. Intervenir en la preparación, desarrollo y vigilancia del proceso electoral en su Municipio;
-
-III. Cuando el Instituto Nacional Electoral delegue u otorgue competencia, aprobarán el número, ubicación e integración de las mesas directivas de casilla para la elección de Ayuntamientos, e integrar y operar los centros de acopio de paquetes y sobres electorales, de acuerdo a la normatividad aplicable;
-
-IV. Registrar las planillas que participen en la elección para renovar los Ayuntamientos;
-
-V. Notificar, capacitar, evaluar y aprobar, a los ciudadanos que resultaron insaculados para integrar las mesas directivas de casilla en las elecciones de Ayuntamientos; cuando no se trate de elección concurrente con la federal;
-
-VI. Registrar los nombramientos de los Representantes de los partidos políticos y de los Candidatos Independientes, así como sus Representantes generales ante las mesas directivas de casilla, cuando no se trate de elección concurrente con la federal;
-
-VII. Recibir del Consejo General la documentación y el material electoral para las elecciones de Ayuntamientos, cuando no se trate de elección concurrente con la federal;
-
-VIII. Entregar a los Presidentes de las Mesas Directivas de Casilla, la documentación y material electoral para las elecciones de Ayuntamientos, cuando no se trate de elección concurrente con la federal;
-
-IX. Realizar el cómputo y la declaración de validez de las elecciones de Ayuntamientos;
-
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
-
-X. Expedir, posterior a la declaración de validez, las constancias de mayoría de manera individual y entregarlas dentro de la sesión de cómputo a la planilla ganadora, al representante del partido político o los candidatos independientes que hubieran resultado ganadores.
-
-XI. Remitir al Consejo General los paquetes electorales y los expedientes de los cómputos municipales para la asignación de regidores de representación proporcional;
-
-XII. Remitir al Tribunal Electoral del Estado los recursos que le competan;
-
-XIII. Remitir a la Secretaría Ejecutiva dentro de las 72 horas siguientes a la celebración de sus sesiones, copia del acta respectiva;
-
-XIV. Dar a conocer mediante avisos colocados en el exterior de sus oficinas, los resultados de los cómputos municipales;
-
-XV. Sesionar el día de la jornada electoral, de manera permanente, a partir de las siete horas y concluir mediante el acuerdo de cierre y convocatoria para la próxima sesión;
-
-XVI. Recibir hasta antes del inicio del cómputo municipal los escritos de protesta;
-
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
-
-XVII. Designar al personal encargado de operar el centro de captura del Programa de Resultados Preliminares y de la digitalización de las Actas de la Jornada Electoral;
-
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
-
-XVII Bis. Canalizar las quejas de la ciudadanía y los actores del proceso electoral a los órganos competentes; y
-
-XVIII. Las demás que le confiera este Código, el pleno del Consejo General y otras disposiciones legales.
+(DEROGADO, P.O. 22 DE AGOSTO DE 2023)
 
 ###### Artículo 92.
 
-A más tardar el primero de febrero del año de la elección, los Consejos Municipales deberán ser instalados e iniciar sus sesiones y actividades. A partir de esa fecha y hasta el término del proceso, sesionarán por lo menos dos veces al mes.
+(DEROGADO, P.O. 22 DE AGOSTO DE 2023)
 
 ###### Artículo 93.
 
-Para que los Consejos Municipales puedan sesionar, será indispensable la presencia de la mayoría de los integrantes del Consejo, contándose entre ellos por lo menos a dos Consejeros Electorales, de los cuales necesariamente uno deberá ser el Presidente.
+(DEROGADO, P.O. 22 DE AGOSTO DE 2023)
 
-En caso de no haber mayoría, la sesión se celebrará dentro de las 24 horas siguientes, la que se podrá efectuar con la asistencia del Presidente y la de los consejeros que concurran.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 94.
 
-De producirse una ausencia definitiva de los consejeros distritales o municipales propietarios, o en su caso, incurran en dos inasistencias de manera consecutiva sin causa justificada, el suplente será llamado para que concurra a la siguiente sesión a rendir la protesta de ley.
+De producirse una ausencia definitiva de las Consejerías Distritales propietarias, o en su caso, incurran en dos inasistencias de manera consecutiva sin causa justificada, la persona suplente será llamada para que concurra a la siguiente sesión a rendir la protesta de ley.
 
 ### CAPÍTULO IX. DE LAS MESAS DIRECTIVAS DE CASILLA
 
@@ -2285,7 +2467,9 @@ III. Rendición de informe sobre seccionamiento electoral distrital y municipal;
 
 IV. Insaculación, capacitación, evaluación, selección e integración de los funcionarios de las mesas directivas de casilla, así como la publicación y ubicación de las mismas;
 
-V. Ejecución de programas de educación cívica a la ciudadanía y de capacitación electoral a los integrantes de los consejos distritales y municipales electorales, y de las mesas directivas de casilla;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+V. Ejecución de programas de educación cívica a la ciudadanía y de capacitación electoral a integrantes de los Consejos Distritales electorales y de las mesas directivas de casilla;
 
 VI. Publicación de la convocatoria para las elecciones;
 
@@ -2297,7 +2481,9 @@ IX. Campañas electorales y acuerdo de reglas para el uso de la propaganda elect
 
 X. Difusión de las listas nominales de exhibición de electores;
 
-XI. Designación de coordinadores electorales;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+XI. Designación de Enlaces electorales;
 
 XII. Aprobación, impresión y entrega de las boletas, documentación electoral, materiales y útiles;
 
@@ -2321,11 +2507,11 @@ Los partidos políticos dispondrán lo necesario a fin de que los precandidatos 
 
 Los precandidatos se sujetarán a los plazos y disposiciones establecidas en este Código y a los estatutos de su partido. Ningún ciudadano podrá participar simultáneamente en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, salvo que entre ellos medie convenio para participar en candidatura común o en coalición. El incumplimiento a esta disposición será motivo para que el Consejo General del Instituto Estatal Electoral, en su momento, le niegue el registro como candidato, sin menoscabo de las sanciones a las que pueda ser sujeto por los estatutos del partido político correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 105.
 
-A más tardar en el mes de septiembre del año previo al de la elección, el Consejo General determinará los topes de gastos de precampaña por precandidato y tipo de elección para la que pretenda ser postulado. El tope será equivalente al veinte por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate.
+A más tardar en el mes de septiembre del año previo al de la elección, el Consejo General determinará los topes de gastos de precampaña por precandidato y tipo de elección para la (sic) que pretenda ser postulado. El tope será equivalente al treinta por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate.
 
 El Consejo General, a propuesta de la Unidad Técnica de Fiscalización, determinará los requisitos que cada precandidato debe cubrir al presentar su informe de ingresos y gastos de precampaña. En todo caso, el informe respectivo deberá ser entregado al órgano interno del partido competente a más tardar dentro de los siete días siguientes al de la jornada comicial interna o celebración de la asamblea respectiva.
 
@@ -2385,6 +2571,22 @@ Los precandidatos, partidos políticos o coaliciones realizarán sus actividades
 
 En caso de que el precandidato, el partido político o coalición correspondiente no cumplan con las reglas de la propaganda de precampaña electoral marcadas en el párrafo anterior se le requerirá su inmediato retiro, mismo que no podrá exceder de veinticuatro horas, en caso contrario, será retirada conforme las reglas establecidas en este Código.
 
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+###### Artículo 110 Bis.
+
+La propaganda de precampaña electoral que produzcan y difúndanlos (sic) partidos políticos, coaliciones, candidaturas comunes, precandidatas y precandidatos, deberá ser traducida e interpretada en las lenguas indígenas predominantes en el Estado, para ser utilizada y difundida durante las actividades de precampaña.
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+###### Artículo 110 Ter.
+
+Para la verificación del cumplimiento del presente artículo, bastará con que al menos el veinte por ciento del total de la propaganda que se produzca ydifunda (sic) en la elección de que se trate, sea traducida e interpretada en la lengua indígena que corresponda en el ámbito respectivo. Del porcentaje de propaganda traducida y difundida, deberá darse cuenta en el informe correspondiente. La verificación será realizada a través de personas traductoras certificadas.
+
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 111.
@@ -2405,11 +2607,9 @@ La propaganda electoral colocada en la vía pública, deberá ser retirada por l
 
 Los plazos y órganos competentes para el registro de las candidaturas en el año de la elección son los siguientes:
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE REFORMA EL PÁRRAFO PRIMERO DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE SEPTIEMBRE DE 2019)</small>
-
-I. EN EL AÑO DE LA ELECCIÓN EN QUE SE RENUEVEN EL PODER EJECUTIVO Y/O EL PODER LEGISLATIVO DEL ESTADO, LOS CANDIDATOS SERÁN REGISTRADOS ENTRE EL SEPTUAGÉSIMO OCTAVO AL SEPTUAGÉSIMO CUARTO DÍA ANTERIOR AL DE LA CELEBRACIÓN DE LA JORNADA ELECTORAL, POR LOS SIGUIENTES ÓRGANOS:
+I. En el año de la elección en que se renueven el Poder Ejecutivo y/o el Poder Legislativo del Estado, los candidatos serán registrados entre el octagésimo segundo al septuagésimo octavo día anterior al de la celebración de la jornada electoral, por los siguientes órganos:
 
 a. Los candidatos a Diputados de mayoría relativa, por los consejos distritales o supletoriamente ante el Consejo General;
 
@@ -2417,11 +2617,9 @@ b. Los candidatos a Diputados electos por el principio de representación propor
 
 c. Los candidatos a Gobernador, por el Consejo General.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE REFORMA EL PÁRRAFO PRIMERO DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE SEPTIEMBRE DE 2019)</small>
-
-II. EN EL AÑO DE LA ELECCIÓN EN QUE SE RENUEVEN LOS AYUNTAMIENTOS, LAS PLANILLAS DE CANDIDATOS SERÁN REGISTRADOS ENTRE EL SEXAGÉSIMO QUINTO AL SEXAGÉSIMO DÍA ANTERIOR AL DE LA CELEBRACIÓN DE LA JORNADA ELECTORAL, POR LOS CONSEJOS MUNICIPALES O SUPLETORIAMENTE ANTE EL CONSEJO GENERAL.
+II. En el año de la elección en que se renueven los Ayuntamientos, las planillas de candidaturas serán registradas entre el septuagésimo tercero al septuagésimo octavo día anterior al de la celebración de la jornada electoral, por los Consejos Distritales o supletoriamente ante el Consejo General.
 
 El Instituto Estatal Electoral dará amplia difusión a la apertura del registro de las candidaturas y a los plazos a que se refiere el presente artículo.
 
@@ -2489,11 +2687,9 @@ I. Apellido paterno, apellido materno y nombre completo;
 
 II. Lugar y fecha de nacimiento;
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
-
-III. DOMICILIO Y TIEMPO DE RESIDENCIA MÍNIMO DE DOS AÑOS EN EL MISMO; REQUISITO QUE DEBERÁ ACREDITAR CON ESCRITO BAJO PROTESTA DE DECIR VERDAD ACOMPAÑADO DE COPIA DE CREDENCIAL DE ELECTOR Y COPIA DE COMPROBANTE DE DOMICILIO, SIN QUE EL INSTITUTO ESTATAL ELECTORAL POR MEDIO DE SUS CONSEJOS, GENERAL, DISTRITALES O MUNICIPALES PUEDA SOLICITARLE CONSTANCIA DE RADICACIÓN;
+III. Domicilio y tiempo de residencia mínimo de dos años en el mismo; requisito que deberá acreditar con escrito bajo protesta de decir verdad acompañado de copia de credencial para votar y copia de comprobante de domicilio, sin que el Instituto Estatal Electoral por medio de sus Consejos General o Distritales pueda solicitarle constancia de radicación;
 
 IV. Ocupación;
 
@@ -2501,17 +2697,19 @@ V. Clave de la credencial para votar;
 
 VI. Cargo para el que se les postule; y
 
-VII. Los candidatos a Diputados que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que han sido electos en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución Política del Estado de Hidalgo en materia de reelección.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE REFORMA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+VII. Las personas candidatas a diputaciones locales, presidencias municipales, sindicaturas y regidurías que busquen la elección consecutiva en sus cargos, deberán acompañar una carta que especifique los periodos para los que han sido electas en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución Política del Estado de Hidalgo.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-LA SOLICITUD DEBERÁ ACOMPAÑARSE DE LA DECLARACIÓN DE ACEPTACIÓN DE LA CANDIDATURA, COPIA SIMPLE LEGIBLE DEL ACTA DE NACIMIENTO Y DEL ANVERSO Y REVERSO DE LA CREDENCIAL PARA VOTAR, SIN QUE EL INSTITUTO ESTATAL ELECTORAL POR MEDIO DE SUS CONSEJOS, GENERAL, DISTRITALES O MUNICIPALES SOLICITEN COPIA CERTIFICADA DEL ACTA NACIMIENTO.
+La solicitud deberá acompañarse de la declaración de aceptación de la candidatura, copia simple legible del acta de nacimiento y del anverso y reverso de la credencial para votar, sin que el Instituto Estatal Electoral por medio de sus Consejos, General o Distritales soliciten copia certificada del acta nacimiento.
 
 De igual manera, el partido político postulante, deberá manifestar por escrito que, los candidatos cuyo registro solicita fueron seleccionados de conformidad con las normas estatutarias del propio partido político.
 
-La solicitud de cada partido político, para el registro de las listas completas de candidaturas a Diputados por el principio de representación proporcional, deberá acompañarse, además de los documentos referidos en los párrafos anteriores, del registro de por lo menos doce fórmulas de Diputados Locales de mayoría relativa, las que se podrán acreditar por las registradas por el propio partido y las que correspondan a la coalición parcial o flexible a la que, en su caso, pertenezca.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+La solicitud de cada partido político, para el registro de las listas completas de candidaturas a diputaciones locales por el principio de representación proporcional, deberá acompañarse, además de los documentos referidos en los párrafos anteriores, del registro de por lo menos doce fórmulas de diputaciones locales de mayoría relativa, las que se podrán acreditar por las registradas por el propio partido y las que correspondan a la coalición parcial o flexible a la que, en su caso, pertenezca.
 
 La solicitud de registro de las listas de representación proporcional, deberá especificar cuáles de los integrantes están optando por reelegirse en sus cargos y el número de veces que han ocupado la misma posición de manera consecutiva.
 
@@ -2519,9 +2717,7 @@ La solicitud de registro de las listas de representación proporcional, deberá 
 
 Para el registro de candidatos de partidos políticos en candidaturas comunes o en coalición deberá acreditarse que se cumplió con lo dispuesto en la Ley General de Partidos Políticos y las disposiciones de este Código, de acuerdo con la elección de que se trate.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
-
-Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará en un plazo máximo de 24 horas al partido político en lo individual o a través de Candidaturas Comunes, a la Coalición o Candidatos Independientes para que dentro de las 72 horas siguientes a la notificación subsane el o los requisitos omitidos o sustituya la candidatura.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
 
 (NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA EL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -2549,11 +2745,13 @@ II. Diputados al Congreso del Estado de Hidalgo, el sexagésimo cuarto día ante
 
 III. Integrantes de los Ayuntamientos, el cuadragésimo cuarto día anterior al de la celebración de la jornada comicial.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 122.
 
-El Consejo General comunicará a los Consejos Distritales y Municipales, los datos contenidos del registro de las candidaturas que haya concedido.
+El Consejo General comunicará a los Consejos Distritales, los datos contenidos del registro de las candidaturas que haya concedido.
 
-Los consejos distritales o municipales electorales dentro de las 24 horas siguientes a que realicen un registro, comunicarán al Consejo General del Instituto Estatal Electoral, los datos relativos a cada fórmula o planilla, anexando un informe sobre los registros que concedieron o negaron.
+Los Consejos Distritales electorales dentro de las 24 horas siguientes a que realicen un registro, comunicarán al Consejo General del Instituto Estatal Electoral, los datos relativos a cada fórmula o planilla, anexando un informe sobre los registros que concedieron o negaron.
 
 ###### Artículo 123.
 
@@ -2569,7 +2767,9 @@ I. Dentro del plazo establecido para el registro de candidatos, fórmulas o plan
 
 II. Vencido el plazo a que se refiere la fracción anterior, exclusivamente podrán sustituirlos por causas de fallecimiento, inhabilitación, incapacidad o renuncia.
 
-En este último caso, no podrán sustituirlos cuando la renuncia se presente dentro de las veinticuatro horas anteriores al de la jornada electoral. Si un partido obtuvo el registro de sus candidatos postulándolos por sí mismo o en coalición, en ningún caso la sustitución podrá provocar un cambio en la modalidad de participación.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+En este último caso, solo podrán sustituirlos cuando la renuncia se presente a más tardar al día siguiente de que concluyan las campañas electorales. Si un partido obtuvo el registro de sus candidatos postulándolos por sí mismo o en coalición, en ningún caso la sustitución podrá provocar un cambio en la modalidad de participación.
 
 En los casos en que la renuncia del candidato fuera notificada por éste a los órganos del Instituto Estatal Electoral, se hará del conocimiento del partido político que lo registró para que proceda, en su caso, a su sustitución.
 
@@ -2583,35 +2783,51 @@ El Instituto Estatal Electoral, publicará oportunamente en el Periódico Oficia
 
 En la misma forma, se publicarán y difundirán las cancelaciones de registros o sustituciones de candidatos.
 
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 125 Bis.
 
-Son sujetos de reelección hasta por un periodo consecutivo atendiendo a lo dispuesto en el artículo 33 la (sic) Constitución Política del Estado de Hidalgo, los Diputados propietarios o suplentes que hayan ocupado el cargo.
+Son personas sujetas de elección consecutiva hasta por un periodo adicional atendiendo a lo dispuesto en el artículo 33 de la Constitución Política del Estado de Hidalgo, las Diputadas y los Diputados propietarios o suplentes que hayan ocupado el cargo.
 
-Se entenderá que los Diputados suplentes, y que no hayan ocupado el cargo, podrán optar por la elección en el mismo.
+Se entenderá que las personas que sean suplentes de diputaciones locales, y que no hayan ocupado el cargo, podrán optar por la elección en el mismo.
 
-Quien hubiese sido reelecto de manera consecutiva como diputado, con el carácter de propietario, no podrá ser reelecto para el siguiente periodo con el carácter de suplente del mismo cargo de elección popular.
+La persona que hubiese sido electa de manera consecutiva en una diputación local, con el carácter de propietaria, no podrá ser electa para el siguiente periodo con el carácter de suplente del mismo cargo de elección popular.
 
-Los diputados locales que busquen reelegirse de manera inmediata no están obligados a separarse de sus cargos.
+Las diputaciones locales que busquen la elección consecutiva no están obligadas a separarse de sus cargos.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE REFORMA EL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+Las diputaciones locales electas por mayoría relativa o representación proporcional que busquen la elección consecutiva, podrán hacerlo por el mismo principio, o por uno distinto.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+Las Diputadas y los Diputados que participen en los procesos de elección consecutiva no podrán hacer uso de los recursos institucionales de los que dispongan por el ejercicio de sus funciones para promoverse con fines electorales y deberán cumplir en todo momento con los principios de equidad, neutralidad e imparcialidad en el uso de recursos públicos que establece el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
 
-LAS DIPUTADAS Y DIPUTADOS ELECTOS POR MAYORÍA RELATIVA O REPRESENTACIÓN PROPORCIONAL QUE BUSQUEN LA REELECCIÓN, PODRÁN HACERLO POR EL MISMO PRINCIPIO, O POR UNO DISTINTO.
-
-Los Diputados que participen en los procesos de reelección consecutiva no podrán hacer uso de los recursos institucionales de los que dispongan por el ejercicio de sus funciones para promoverse con fines electorales y deberán cumplir en todo momento con los principios de equidad, neutralidad e imparcialidad en el uso de recursos públicos que establece el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
-
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 125 Ter.
 
-La postulación de candidatos solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la candidatura común o coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+La postulación de candidaturas para diputaciones locales solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la candidatura común o coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-Los suplentes que no hayan ejercido el cargo como propietarios, podrán participar en la elección inmediata posterior como candidatos propietarios a cualquier cargo.
+Las suplencias que no hayan ejercido el cargo en el periodo en que fueron electas, podrán participar en la elección inmediata posterior como candidaturas propietarias a cualquier cargo.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+###### Artículo 125 Quater.
+
+Son personas sujetas a elección consecutiva, hasta por un periodo adicional, conforme al artículo 125 de la Constitución Política del Estado de Hidalgo, aquellas electas popularmente que ocupen la titularidad de las presidencias municipales, sindicaturas y regidurías de los Ayuntamientos.
+
+La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición o candidatura común que las hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+Las personas integrantes de los Ayuntamientos que sean electas como independientes, podrán postularse para la elección consecutiva con su misma calidad o por un partido político, siempre que demuestren su militancia a ese partido político antes de la mitad de su mandato.
+
+Las personas que ocupen la titularidad en los cargos de presidencias, sindicaturas o regidurías, cuando hayan tenido el carácter de propietarias durante los dos periodos consecutivos, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero estas últimas sí podrán ser electas para el periodo inmediato como propietarias, pudiendo ser electas para el mismo cargo hasta por un periodo adicional, a menos que hayan estado en ejercicio dentro del periodo de suplencia.
+
+Para la elección consecutiva, las personas integrantes de los Ayuntamientos deberán ser registradas para ocupar el cargo en el mismo municipio en el que fueron electas previamente.
+
+Las personas integrantes de los Ayuntamientos que participen en la elección consecutiva deberán separarse de su cargo por lo menos sesenta días antes de dicha elección.
+
+Las personas ciudadanas que ocupen la titularidad en los cargos de presidencias municipales, sindicaturas o regidurías y que pretendan la elección consecutiva, deberán dar aviso de su intención al partido político o cualquiera de los partidos políticos integrantes de la coalición o candidatura común que los postuló, cuando menos treinta días antes del inicio de las precampañas.
+
+Para el caso de las personas que ocupen un cargo en el Ayuntamiento, que fueron electas como independientes y que pretendan la elección consecutiva por la misma vía, deberán dar aviso de su intención al Consejo General del Instituto Estatal Electoral, cuando menos treinta días antes del inicio de las precampañas, salvo que dicha postulación la realicen por un partido político, al que, en su caso, deberán realizar el aviso de intención correspondiente, en los términos del presente artículo.
+
+Las personas titulares de las presidencias, sindicaturas o regidurías, que hayan sido electas como independientes y que deseen obtener la candidatura por la misma vía en la elección consecutiva, no les será exigible el apoyo ciudadano para obtener su registro, salvo aquellas que inicialmente no hubiesen sido electas por la vía independiente, las cuales deberán obtener el apoyo ciudadano en los términos de este Código.
 
 ### CAPÍTULO V. DE LAS CAMPAÑAS ELECTORALES Y DE LA PROPAGANDA ELECTORAL
 
@@ -2727,6 +2943,30 @@ La propaganda y mensajes que en el curso de las precampañas y campañas elector
 
 En la propaganda política o electoral que realicen los partidos políticos, las coaliciones y los candidatos, deberán abstenerse de expresiones que calumnien a las personas, que discriminen o que constituyan violencia política en razón de género. No debe contener expresiones que constituyan violencia política en razón de género en términos de lo establecido en este Código;
 
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+###### Artículo 132 Bis.
+
+La propaganda de campaña electoral que produzcan y difundan los partidos políticos, coaliciones, candidaturas comunes, precandidatas y precandidatos, deberá ser traducida e interpretada en las lenguas indígenas predominantes en el Estado, para ser utilizada y difundida durante las actividades de campaña.
+
+A través de sus representantes ante el Consejo General, de manera quincenal durante las campañas electorales, deberán presentar a los quince días del inicio de la campaña un informe de cumplimiento ante la Dirección de Derechos Político-Electorales Indígenas a efecto de que la Comisión Permanente respectiva, informe al pleno del Consejo General sobre su cumplimiento. El Informe deberá acompañarse de evidencia documental, gráfica y/oauditiva (sic) de la propaganda que haya sido traducida e interpretada. La Dirección deberá rendir el informe, respecto del cumplimiento por parte delos (sic) partidos políticos, coalición, candidatura común, candidatas y candidatos registrados.
+
+Para la verificación del cumplimiento del presente artículo, bastará con que al menos el veinte por ciento del total de la propaganda que se produzca y difunda enla (sic) elección de que se trate, sea traducida e interpretada en la lengua indígena que corresponda en el ámbito que corresponda. Del porcentaje de propaganda traducida y difundida, deberá darse cuenta en el informe correspondiente. La direcciónencargada (sic) del informe, deberá brindar orientación y asistencia para el debido cumplimiento de lo dispuesto por el presente artículo.
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+###### Artículo 132 Ter.
+
+Si de la verificación realizada se advierte que se omitió el cumplimiento a lo establecido en el artículo anterior, se notificará de inmediato al partido político, coalición, candidatura común, candidata o candidato, a través de su representante ante el Consejo General para que dentro de los cinco días siguientes subsane la omisión o deficiencias señaladas y haga las adecuaciones correspondientes.
+
+Si, vencido el plazo de los cinco días, el partido político, coalición, candidatura común, candidata o candidato que haya sido requerido conforme a lo previsto en elpárrafo (sic) anterior, no realiza las adecuaciones correspondientes, se le requerirá de nueva cuenta para que en un plazo de hasta tres días, contados a partir de la notificación, haga la corrección que corresponda.
+
+En caso de incumplimiento, el Consejo General procederá a realizar un exhorto público al partido político, coalición, candidatura común, candidata o candidato, a efecto de que presente el informe y evidencia correspondiente en un plazo de 48 horas; si persiste la omisión, la Dirección de Derechos Político Electorales Indígenas, hará del conocimiento de dicha situación a la Secretaría Ejecutiva, quieniniciará (sic) de manera oficiosa un Procedimiento Especial Sancionador por la posible comisión de conductas infractoras sobre reglas de propaganda electoral.
+
 ###### Artículo 133.
 
 Los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica, que establece el primer párrafo del artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades. Este derecho se ejercitará sin perjuicio de aquéllos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables.
@@ -2769,9 +3009,11 @@ VII. En todo tiempo podrán presentar escritos de incidentes que se susciten dur
 
 VIII. Podrán comprobar la presencia de los Representantes de su partido político o del candidato independiente en las mesas directivas de casilla y recibir de ellos los informes relativos a su desempeño.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 136.
 
-Los Representantes de los partidos políticos y de Candidatos Independientes debidamente acreditados ante las mesas directivas de casilla tendrán los siguientes derechos:
+Las representaciones de los partidos políticos y de las candidaturas independientes debidamente acreditadas ante las mesas directivas de casilla tendrán los siguientes derechos:
 
 I. Participar en la instalación de la casilla y contribuir al buen desarrollo de sus actividades hasta su clausura. Tendrán el derecho de observar y vigilar el desarrollo de la elección;
 
@@ -2781,19 +3023,27 @@ III. Presentar escritos relacionados con incidentes ocurridos durante la votaci�
 
 IV. Presentar al término del escrutinio y del cómputo escritos de protesta;
 
-V. Acompañar al Presidente de la Mesa Directiva de casilla, al Consejo Distrital o Municipal correspondiente, o en su defecto al Centro de Acopio Autorizado, para hacer entrega de la documentación y el expediente electoral; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+V. Acompañar a la Presidencia de la Mesa Directiva de casilla, al Consejo Distrital correspondiente, o en su defecto al Centro de Acopio Autorizado, para hacer entrega de la documentación y el expediente electoral; y
 
 VI. Los demás que establezca este Código.
 
 Los Representantes vigilarán el cumplimiento de las disposiciones de este Código y deberán firmar todas las actas que se levanten, pudiéndolo hacer bajo protesta con mención de la causa que la motiva; así también podrán firmar los paquetes una vez que sean integrados y sellados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 137.
 
-El registro de los nombramientos de los Representantes ante las mesas directivas de casilla y de los Representantes generales se hará ante el consejo distrital o municipal correspondiente, o supletoriamente ante el Consejo General, y se sujetará a las reglas siguientes:
+El registro de los nombramientos de representantes ante las mesas directivas de casilla y de representantes generales se hará ante el Consejo Distrital correspondiente, o supletoriamente ante el Consejo General, y se sujetará a las reglas siguientes:
 
-I. A partir del día siguiente al de la publicación de las listas de casilla y hasta trece días antes del día de la elección, los partidos políticos y los Candidatos Independientes deberán registrar en su propia documentación y ante el consejo distrital o municipal correspondiente, o supletoriamente ante el Consejo General, a sus Representantes generales y de casilla. La documentación de que se trata deberá reunir los requisitos que establezca el Consejo General;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-II. Los consejos distritales o municipales devolverán a los partidos políticos el original de los nombramientos respectivos, debidamente sellados y firmados por el Presidente y el Secretario del mismo, conservando un ejemplar; y
+I. A partir del día siguiente al de la publicación de las listas de casilla y hasta trece días antes del día de la elección, los partidos políticos y candidaturas independientes deberán registrar en su propia documentación ante el Consejo Distrital correspondiente, o supletoriamente ante el Consejo General, a sus representantes generales y de casilla. La documentación de que se trata deberá reunir los requisitos que establezca el Consejo General;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+II. Los Consejos Distritales devolverán a los partidos políticos el original de los nombramientos respectivos, debidamente sellados y firmados por la Presidencia y Secretaría del mismo, conservando un ejemplar; y
 
 III. Los partidos políticos y los Candidatos Independientes, podrán sustituir a sus Representantes hasta con tres días de antelación a la fecha de la elección, devolviendo con el nuevo nombramiento, el original del anterior.
 
@@ -2829,9 +3079,13 @@ VII. Firma del Representante o del dirigente que haga el nombramiento.
 
 Para garantizar a los Representantes ante la Mesa Directiva de Casilla el ejercicio de los derechos que les otorga este Código, se imprimirá al reverso del nombramiento el texto de los artículos que correspondan.
 
-En caso de que el Presidente del Consejo Distrital o Municipal no resuelva dentro de las 48 horas siguientes a la solicitud o niegue el registro, el partido político o el candidato independiente interesado, podrán solicitar al Presidente del consejo que corresponda registre a los Representantes de manera supletoria.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-Para garantizar a los Representantes de partido político y de Candidatos Independientes su debida acreditación ante la Mesa Directiva de Casilla, el Presidente del consejo distrital o municipal entregará al Presidente de cada mesa, una relación de los Representantes que tengan derecho de actuar en la casilla de que se trate.
+En caso de que la Presidencia del Consejo Distrital no resuelva dentro de las 48 horas siguientes a la solicitud o niegue el registro, el partido político o candidatura independiente interesada, podrán solicitar a la Presidencia del consejo que corresponda registre a las representaciones de manera supletoria.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+Para garantizar a representantes de partido político y candidaturas independientes su debida acreditación ante la Mesa Directiva de Casilla, la Presidencia del Consejo Distrital entregará a la Presidencia de cada mesa, una relación de representantes que tengan derecho de actuar en la casilla de que se trate.
 
 ### CAPÍTULO VII. DE LA DOCUMENTACIÓN Y MATERIAL ELECTORAL
 
@@ -2863,19 +3117,27 @@ En caso de existir coaliciones, los emblemas de los partidos coaligados y los no
 
 No habrá modificación a las boletas en caso de cancelación del registro o sustitución de uno o más candidatos, si éstas ya estuvieran impresas. En todo caso, los votos contarán para los partidos políticos y los candidatos que estuviesen legalmente registrados ante los Consejos General, locales o distritales correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 142.
 
-Cinco días antes de la elección deberán estar en poder de los Consejos Distritales o Municipales Electorales las boletas, documentación, materiales y útiles necesarios para la instalación y funcionamiento de las casillas, contra el recibo correspondiente.
+Quince días antes de la elección deberán estar en poder de los Consejos Distritales Electorales las boletas, documentación, materiales y útiles necesarios para la instalación y funcionamiento de las casillas, contra el recibo correspondiente.
 
 Para su control se tomarán las medidas siguientes:
 
 I. El Consejo General deberá designar con la oportunidad debida, el lugar que ocupará la bodega electoral para el resguardo de la documentación electoral de las elecciones;
 
-II. El personal autorizado del Instituto entregará las boletas en el día, hora y lugar preestablecidos al Presidente del Consejo Distrital o Municipal, quien estará acompañado de los demás integrantes de los propios consejos;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-III. El Secretario Ejecutivo en coordinación con el Secretario del Consejo Distrital o Municipal levantarán una acta pormenorizada de la entrega y recepción de las boletas, asentando en ella los datos relativos al número de boletas, las características del embalaje que las contiene, y los nombres y cargos de los funcionarios presentes;
+II. El personal autorizado del Instituto entregará las boletas en el día, hora y lugar preestablecidos a la Presidencia del Consejo Distrital, en compañía de quienes integren los propios consejos;
 
-IV. A continuación, los miembros presentes del Consejo Distrital o Municipal acompañarán al Presidente para depositar la documentación recibida, en el lugar previamente asignado dentro de su local, debiendo asegurar su integridad mediante fajillas selladas y firmadas por los concurrentes. Estos pormenores se asentarán en el acta respectiva;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+III. La Secretaría Ejecutiva en coordinación con la Secretaría del Consejo Distrital levantarán un acta pormenorizada de la entrega y recepción de las boletas, asentando en ella los datos relativos al número de boletas, las características del embalaje que las contiene, y los nombres y cargos de las personas funcionarias presentes;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+IV. A continuación, las personas integrantes presentes del Consejo Distrital acompañarán a la Presidencia para depositar la documentación recibida, en el lugar previamente asignado dentro de su local, debiendo asegurar su integridad mediante fajillas selladas y firmadas por las personas concurrentes. Estos pormenores se asentarán en el acta respectiva;
 
 V. El mismo día o a más tardar el siguiente, el Presidente del Consejo Distrital, el Secretario y los Consejeros Electorales procederán a contar las boletas para precisar la cantidad recibida, consignando el número de los folios, sellarlas al dorso y agruparlas en razón del número de electores que corresponda a cada una de las casillas a instalar, incluyendo las de las casillas especiales según el número que acuerde el Consejo General para ellas. El Secretario registrará los datos de esta distribución; y
 
@@ -2885,13 +3147,17 @@ Los Representantes de los partidos o de los Candidatos Independientes bajo su m�
 
 La falta de firma de los Representantes en las boletas no impedirá su oportuna distribución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 143.
 
-Los Presidentes de los Consejos Distritales o Municipales entregarán a cada Presidente de Mesa Directiva de Casilla, dentro de los tres días previos al anterior de la elección y contra el recibo detallado correspondiente:
+Las Presidencias de los Consejos Distritales entregarán a cada Presidencia de Mesa Directiva de Casilla, dentro de los tres días previos al anterior de la elección y contra el recibo detallado correspondiente:
 
 I. La lista nominal de electores con fotografía de cada sección, según corresponda, en términos de los artículos 147 y 153 de la Ley General;
 
-II. La relación de los Representantes de los partidos y de Candidatos Independientes registrados para la casilla en el consejo distrital o municipal electoral;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+II. La relación de representaciones de los partidos y de candidaturas independientes registradas para la casilla en el Consejo Distrital electoral;
 
 III. La relación de los Representantes generales acreditados por cada partido político en el distrito o Municipio en que se ubique la casilla en cuestión;
 
@@ -2911,7 +3177,9 @@ A los Presidentes de mesas directivas de las casillas especiales les será entre
 
 El líquido indeleble seleccionado deberá garantizar plenamente su eficacia. Los envases que lo contengan deberán contar con elementos que identifiquen el producto.
 
-La entrega y recepción del material a que se refieren los párrafos anteriores se hará con la participación de los integrantes de los consejos distritales o municipales que decidan asistir.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+La entrega y recepción del material a que se refieren los párrafos anteriores se hará con la participación de integrantes de los Consejos Distritales que decidan asistir.
 
 ### CAPÍTULO VIII. DE LAS CASILLAS ESPECIALES
 
@@ -2949,9 +3217,11 @@ El día de la elección y veinticuatro horas antes, queda prohibido el expendio 
 
 El día de la elección exclusivamente pueden portar armas los miembros uniformados de las fuerzas públicas encargadas del orden.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 151.
 
-Las autoridades federales, estatales y municipales, a requerimiento que les formulen el Consejo General del Instituto Estatal Electoral, los Consejos Distritales y Municipales Electorales, proporcionarán lo siguiente:
+Las autoridades federales, estatales y municipales, a requerimiento que les formule el Consejo General del Instituto Estatal Electoral y los Consejos Distritales Electorales, proporcionarán lo siguiente:
 
 I. La información que obre en su poder, relacionada con la jornada electoral;
 
@@ -3019,7 +3289,9 @@ III. Si no estuvieran el Presidente ni el Secretario, pero estuviera alguno de l
 
 IV. Si sólo estuvieran los suplentes, uno de ellos asumirá las funciones de Presidente, los otros las de Secretario y primer escrutador, procediendo el primero a instalar la casilla nombrando a los funcionarios necesarios de entre los electores presentes, verificando previamente que se encuentren inscritos en la lista nominal de electores de la sección correspondiente y cuenten con credencial para votar;
 
-V. Si no asistiera ninguno de los funcionarios de la casilla, el consejo distrital o municipal tomará las medidas necesarias para la instalación de la misma y designará al personal encargado de ejecutarlas y cerciorarse de su instalación;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+V. Si no asistiera alguna persona de las funcionarias de casilla, el Consejo Distrital tomará las medidas necesarias para la instalación de la misma y designará al personal encargado de ejecutarlas y cerciorarse de su instalación;
 
 VI. Cuando por razones de distancia o de dificultad de las comunicaciones, no sea posible la intervención oportuna del personal del Instituto Estatal Electoral designado, a las 10:00 horas, los Representantes de los partidos políticos y de Candidatos Independientes ante las mesas directivas de casilla designarán, por mayoría, a los funcionarios necesarios para integrar las casillas de entre los electores presentes, verificando previamente que se encuentren inscritos en la lista nominal de electores de la sección correspondiente y cuenten con credencial para votar; y
 
@@ -3047,7 +3319,9 @@ III. Se advierta, al momento de la instalación de la casilla, que ésta se pret
 
 IV. Las condiciones del local no permitan asegurar la libertad o el secreto del voto o el fácil y libre acceso de los electores o bien, no garanticen la realización de las operaciones electorales en forma normal. En este caso, será necesario que los funcionarios y Representantes presentes tomen la determinación de común acuerdo; y
 
-V. El consejo distrital o municipal así lo disponga por causa de fuerza mayor o caso fortuito y se lo notifique al Presidente de la casilla.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+V. El Consejo Distrital que así lo disponga por causa de fuerza mayor o caso fortuito y se lo notifique a la Presidencia de la casilla.
 
 Para los casos señalados en el párrafo anterior la casilla deberá quedar instalada en la misma sección y en el lugar adecuado más próximo, debiéndose dejar aviso de la nueva ubicación en el exterior del lugar original que no reunió los requisitos.
 
@@ -3057,11 +3331,15 @@ Para los casos señalados en el párrafo anterior la casilla deberá quedar inst
 
 Una vez llenada y firmada el acta de la jornada electoral en el apartado correspondiente a la instalación, el Presidente de la mesa anunciará el inicio de la votación.
 
-Iniciada la votación no podrá suspenderse sino por causa de fuerza mayor. En este caso, corresponde al Presidente dar aviso de inmediato al consejo distrital o municipal para dar cuenta de la causa de suspensión, la hora en que ocurrió y el número de los votantes que al momento habían ejercido su derecho de voto, lo que será consignado en el acta.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+Iniciada la votación no podrá suspenderse sino por causa de fuerza mayor. En este caso, corresponde a la Presidencia dar aviso de inmediato al Consejo Distrital para dar cuenta de la causa de suspensión, la hora en que ocurrió y el número de personas que al momento habían ejercido su derecho de voto, lo que será consignado en el acta.
 
 El aviso de referencia deberá ser constatado por dos testigos, que lo serán preferentemente, los integrantes de la Mesa Directiva o los Representantes.
 
-Recibido el aviso que antecede, el consejo distrital o municipal decidirá si se reanuda la votación, para lo cual tomará las medidas que estime necesarias.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 22 DE AGOSTO DE 2023)</small>
+
+Recibido el aviso que antecede, el Consejo Distrital decidirá si se reanuda la votación, para lo cual tomará las medidas que estime necesarias.
 
 ###### Artículo 161.
 
@@ -3297,11 +3575,13 @@ Para garantizar la inviolabilidad de la documentación anterior, con el expedien
 
 La denominación expediente de casilla corresponderá al que se hubiese formado con las actas y los escritos de protesta.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 182.
 
-De las actas de las casillas asentadas en la forma o formas que al efecto apruebe el Consejo General, se entregará una copia legible a los Representantes de los partidos políticos y de Candidatos Independientes, recabándose el acuse de recibo correspondiente. La primera copia de cada acta de escrutinio y cómputo será destinada al programa de resultados electorales preliminares.
+De las actas de las casillas asentadas en la forma o formas que al efecto apruebe el Consejo General, se entregará una copia legible a las representaciones de los partidos políticos y de las candidaturas independientes, recabándose el acuse de recibo correspondiente. La primera copia de cada acta de escrutinio y cómputo será destinada al programa de resultados electorales preliminares.
 
-Por fuera del paquete a que se refiere el párrafo cuarto del artículo anterior, se adherirá un sobre que contenga un ejemplar del acta en que se contengan los resultados del escrutinio y cómputo de cada una de las elecciones, para su entrega al Presidente del Consejo Distrital, Municipal o Centro de Acopio autorizado correspondiente.
+Por fuera del paquete a que se refiere el párrafo cuarto del artículo anterior, se adherirá un sobre que contenga un ejemplar del acta en que se contengan los resultados del escrutinio y cómputo de cada una de las elecciones, para su entrega a la Presidencia del Consejo Distrital o Centro de Acopio autorizado correspondiente.
 
 ###### Artículo 183.
 
@@ -3313,21 +3593,31 @@ La recepción, depósito y salvaguarda de los paquetes en que se contengan los e
 
 I. Se recibirán en el orden en que sean entregados por las personas facultadas para ello;
 
-II. El Presidente o funcionario autorizado del consejo distrital extenderá el recibo señalando la hora en que fueron entregados;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-III. El Presidente del consejo distrital dispondrá su depósito, en orden numérico de las casillas, colocando por separado los de las especiales, en un lugar dentro del local del consejo que reúna las condiciones de seguridad, desde el momento de su recepción hasta el día en que se practique el cómputo distrital o municipal;
+II. La presidencia o persona funcionaria autorizada del Consejo Distrital extenderá el recibo señalando la hora en que fueron entregados;
 
-IV. El Presidente del consejo distrital o municipal, bajo su responsabilidad, los salvaguardará y al efecto dispondrá que sean selladas las puertas de acceso del lugar en que fueron depositados, en presencia de los Representantes de los partidos o Candidatos.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+III. La presidencia del Consejo Distrital dispondrá su depósito, en su orden numérico de las casillas, colocando por separado los de las especiales, en un lugar dentro del local del consejo que reúna las condiciones de seguridad, desde el momento de su recepción hasta el día en que se practique el cómputo distrital o municipal, y
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+IV. La Presidencia del Consejo Distrital, bajo su responsabilidad, los salvaguardará y al efecto dispondrá que sean selladas las puertas de acceso del lugar en que fueron depositados, en presencia de las representaciones de los partidos o candidaturas independientes.
 
 ###### Artículo 185.
 
 De la recepción de los paquetes que contengan los expedientes de casilla, se levantará acta circunstanciada en la que se haga constar, en su caso, los que hubieren sido recibidos sin reunir los requisitos que señala este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 186.
 
-Conforme los paquetes electorales sean entregados al consejo Distrital o Municipal, se deberán capturar los resultados que obren en el acta aprobada para tal efecto, misma que deberá encontrarse de manera visible al exterior de la caja del paquete electoral, conforme los paquetes electorales sean entregados, hasta el vencimiento del plazo legal, conforme a las siguientes reglas:
+Conforme los paquetes electorales sean entregados al Consejo Distrital, se deberán capturar los resultados que obren en el acta aprobada para tal efecto, misma que deberá encontrarse de manera visible al exterior de la caja del paquete electoral, conforme los paquetes electorales sean entregados, hasta el vencimiento del plazo legal, conforme a las siguientes reglas:
 
-I. El Consejo Distrital o municipal autorizará al personal necesario para la recepción continua y simultánea de los paquetes electorales. Los partidos políticos y los Candidatos Independientes podrán acreditar a sus Representantes suplentes para que estén presentes durante dicha recepción;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+I. El Consejo Distrital autorizará al personal necesario para la recepción continua y simultánea de los paquetes electorales. Los partidos políticos y candidaturas independientes podrán acreditar a sus representantes suplentes para que estén presentes durante dicha recepción;
 
 II. Los funcionarios electorales designados recibirán las actas de escrutinio y cómputo y de inmediato darán lectura en voz alta del resultado de las votaciones que aparezcan en ellas, procediendo a realizar la suma correspondiente para informar inmediatamente a la Secretaría Ejecutiva del Instituto;
 
@@ -3335,9 +3625,11 @@ III. El Secretario, o el funcionario autorizado para ello, anotará esos resulta
 
 IV. Los Representantes de los partidos políticos y de los Candidatos Independientes acreditados ante el Consejo General, contarán con los formatos adecuados para anotar en ellos los resultados de la votación en las casillas.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 187.
 
-Para el mejor conocimiento de los ciudadanos, concluida la recepción de los paquetes y sobres electorales, el Presidente del Consejo Distrital o Municipal deberá fijar en el exterior del local del consejo distrital o municipal, los resultados preliminares de las elecciones.
+Para el mejor conocimiento de la ciudadanía, concluida la recepción de los paquetes y sobres electorales, la Presidencia del Consejo Distrital deberá fijar en el exterior del local del propio consejo los resultados preliminares de las elecciones.
 
 ### CAPÍTULO IV. DE LA INFORMACIÓN PRELIMINAR DE LOS RESULTADOS
 
@@ -3411,17 +3703,21 @@ Concluido el cómputo se procederá a realizar la declaración de validez de la 
 
 La entrega de la constancia de mayoría y la declaración de validez que emita el Consejo General, será recurrible en los términos de este Código.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 196.
 
-Los Consejos Distritales y Municipales Electorales, deberán celebrar la sesión de cómputo a partir de las 8:00 horas del miércoles siguiente al día de la elección.
+Los Consejos Distritales Electorales, deberán celebrar la sesión de cómputo a partir de las 8:00 horas del miércoles siguiente al día de la elección.
 
 ###### Artículo 197.
 
 No se suspenderá la sesión mientras no se concluya el cómputo de la elección, salvo acuerdo del órgano electoral en sentido diferente.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 198.
 
-Los Consejos Distritales y Municipales Electorales se abstendrán de calificar los escritos de protesta y los recursos que se interpongan, o las pruebas que se exhiban durante la jornada electoral y cómputo, limitándose a hacerlos constar en el acta de cómputo respectiva.
+Los Consejos Distritales Electorales se abstendrán de calificar los escritos de protesta y los recursos que se interpongan, o las pruebas que se exhiban durante la jornada electoral y cómputo, limitándose a hacerlos constar en el acta de cómputo respectiva.
 
 ###### Artículo 199.
 
@@ -3431,7 +3727,9 @@ Los escritos de protesta, recursos interpuestos y las pruebas exhibidas, deberá
 
 El Consejo Distrital Electoral, iniciada la sesión, procederá a realizar el cómputo de la votación de cada una de las elecciones, practicando en su orden, las operaciones siguientes:
 
-I. Comunes para las elecciones de Diputados y Gobernador:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE AGOSTO DE 2023)</small>
+
+I. Comunes para las elecciones de Ayuntamientos, Diputaciones y Gubernatura:
 
 a. Se extraerá del sobre respectivo, el original del acta de la jornada electoral, procediendo a computar la votación de cada una de las casillas.
 
@@ -3441,15 +3739,25 @@ En caso de que el contenido del acta de la jornada electoral referente a los res
 
 En su caso, se sumarán los votos que hayan sido emitidos a favor de dos o más partidos coaligados o que postulen candidaturas comunes y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de la jornada electoral. La suma distrital o municipal según sea el caso, de tales votos se distribuirá igualitariamente entre los partidos que integran la coalición o candidatura común; de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación.
 
-b. Respecto de la elección de Diputados y de los cómputos distritales para la elección de Gobernador, si de la sumatoria se establece que la diferencia entre el candidato aparentemente ganador de la elección y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual de la votación total en el distrito, y existe la petición expresa del Representante del partido que postuló al segundo de los candidatos antes señalados, el Consejo Distrital deberá proceder a realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE AGOSTO DE 2023)</small>
 
-Igualmente, cuando al inicio de la sesión exista petición expresa del Representante del partido que postuló al segundo de los candidatos antes señalados, y exista indicio de que la diferencia entre el candidato aparentemente ganador y el ubicado en segundo lugar es igual o menor a un punto porcentual de la votación válida emitida en el distrito, el Consejo Distrital deberá realizar el recuento de votos en la totalidad de las casillas. Para estos efectos se considerará indicio suficiente la presentación, ante el Consejo, de la sumatoria de resultados por partido consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el distrito, apoyadas en la coincidencia de todas las actas en poder del partido con las que obran en poder del Consejo.
+b. Respecto de la elección de Ayuntamientos, Diputaciones y Gubernatura y de los cómputos correspondientes, si de la sumatoria se establece que la diferencia entre la candidatura aparentemente ganadora de la elección y la que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual de la votación total en el municipio o distrito según se trate, y existe la petición expresa de la representación del partido que postuló a la segunda de las candidaturas antes señaladas, el Consejo Distrital deberá proceder a realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento.
 
-Conforme a lo establecido en los dos párrafos anteriores, para realizar el recuento total de votos respecto de una elección determinada, el Consejo Distrital dispondrá lo necesario para que sea concluido antes del domingo siguiente al de la jornada electoral. Para tales efectos, el Presidente del Consejo Distrital dará aviso inmediato al Secretario Ejecutivo del Instituto Estatal Electoral, y ordenará la creación de grupos de trabajo. Los partidos políticos y Candidatos Independientes tendrán derecho a nombrar a un Representante en cada grupo, con su respectivo suplente. En todo caso, el Consejo Electoral designará a la persona que presidirá cada grupo de trabajo.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-Quien presida cada grupo levantará un acta circunstanciada en la que consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por cada partido y candidato.
+Igualmente, cuando al inicio de la sesión exista petición expresa de la representación del partido que postuló a la segunda de las candidaturas antes señaladas, y exista indicio de que la diferencia entre la candidatura aparentemente ganadora y la ubicada en segundo lugar es igual o menor a un punto porcentual de la votación válida emitida en el distrito, el Consejo Distrital deberá realizar el recuento de votos en la totalidad de las casillas. Para estos efectos se considerará indicio suficiente la presentación, ante el Consejo, de la sumatoria de resultados por partido consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el distrito, apoyadas en la coincidencia de todas las actas en poder del partido con las que obran en poder del Consejo.
 
-El Presidente del Consejo realizará en sesión plenaria la suma de los resultados consignados en el acta de cada grupo de trabajo y asentará el resultado en el acta final de escrutinio y cómputo de la elección de que se trate.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+Conforme a lo establecido en los dos párrafos anteriores, para realizar el recuento total de votos respecto de una elección determinada, el Consejo Distrital dispondrá lo necesario para que sea concluido antes del domingo siguiente al de la jornada electoral. Para tales efectos, la Presidencia del Consejo Distrital dará aviso inmediato a la Secretaría Ejecutiva del Instituto Estatal Electoral, y ordenará la creación de grupos de trabajo. Los partidos políticos y candidaturas independientes tendrán derecho a nombrar a una representación en cada grupo, con su respectiva persona suplente. En todo caso, el Consejo Electoral designará a la persona que presidirá cada grupo de trabajo.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+Quien presida cada grupo levantará un acta circunstanciada en la que consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por cada partido y candidatura.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+La Presidencia del Consejo realizará en sesión plenaria la suma de los resultados consignados en el acta de cada grupo de trabajo y asentará el resultado en el acta final de escrutinio y cómputo de la elección de que se trate.
 
 Los errores contenidos en las actas originales de escrutinio y cómputo de casilla que sean corregidos por los Consejos Distritales siguiendo el procedimiento establecido en este artículo, no podrán invocarse como causa de nulidad ante el Tribunal Electoral.
 
@@ -3457,39 +3765,49 @@ En ningún caso podrá solicitarse al Tribunal que realice recuento de votos res
 
 c. Los resultados de la sesión de cómputo se asentarán en el acta final de cómputo de la elección de que se trate. Asimismo, se levantará acta circunstanciada en la que se harán constar las operaciones practicadas, los resultados del cómputo, los incidentes y las pruebas exhibidas.
 
-II. Para la elección de Diputados:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE AGOSTO DE 2023)</small>
 
-a. Al término del cómputo se hará la declaración de validez de la elección y se extenderá la constancia de mayoría de acuerdo con el modelo aprobado por el Consejo General a los candidatos a Diputados propietario y suplente, que hayan obtenido la mayoría de votos conforme al cómputo de la elección.
+II. Para la elección de Diputaciones:
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+a. Al término del cómputo se hará la declaración de validez de la elección y se extenderá la constancia de mayoría de acuerdo con el modelo aprobado por el Consejo General a las candidaturas a Diputaciones propietaria y suplente, que hayan obtenido la mayoría de votos conforme al cómputo de la elección.
 
 La entrega de la constancia de mayoría y la declaración de validez que emitan los Consejos Distritales, serán recurribles en los términos de este Código.
 
-b. Los paquetes, sobres y expedientes electorales de las casillas de la elección de Diputados los entregará al Consejo General del Instituto Estatal Electoral. Por separado formará dos expedientes en original y copia que contengan el acta de cómputo distrital, el acta de la sesión permanente de la jornada electoral, el acta de la sesión de cómputo del Consejo Distrital, escritos de protesta y pruebas exhibidas. El original, en su caso, lo turnará al Tribunal Electoral para su resolución y la copia la enviará al Consejo General del Instituto Estatal Electoral para los efectos de ley.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-III. Para la elección de Gobernador:
+b. Los paquetes, sobres y expedientes electorales de las casillas de la elección de Diputaciones los entregará al Consejo General del Instituto Estatal Electoral al día siguiente al que haya concluido el cómputo respectivo. Por separado formará dos expedientes en original y copia que contengan el acta de cómputo distrital, el acta de la sesión permanente de la jornada electoral, el acta de la sesión de cómputo del Consejo Distrital, escritos de protesta y pruebas exhibidas. El original, en su caso, lo turnará al Tribunal Electoral para su resolución y la copia la enviará al Consejo General del Instituto Estatal Electoral para los efectos de ley.
 
-a. Los paquetes, sobres y expedientes electorales de las casillas correspondientes al distrito de la elección de Gobernador, los entregará al Consejo General del Instituto Estatal Electoral. Por separado formará dos expedientes en original y copia que contengan el acta de cómputo distrital, copia del acta de la sesión permanente de la jornada electoral, acta circunstanciada de la sesión de cómputo del Consejo Distrital, escritos de protesta, las pruebas exhibidas e informe del proceso electoral en su demarcación. El original, en su caso, lo turnará al Tribunal Electoral para su resolución y la copia la enviará al Consejo General del Instituto Estatal Electoral para los efectos de ley.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE AGOSTO DE 2023)</small>
+
+III. Para la elección de Gubernatura:
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+a. Los paquetes, sobres y expedientes electorales de las casillas correspondientes al distrito de la elección de Gubernatura, los entregará al Consejo General del Instituto Estatal Electoral al día siguiente al que haya concluido el cómputo respectivo. Por separado formará dos expedientes en original y copia que contengan el acta de cómputo distrital, copia del acta de la sesión permanente de la jornada electoral, acta circunstanciada de la sesión de cómputo del Consejo Distrital, escritos de protesta, las pruebas exhibidas e informe del proceso electoral en su demarcación. El original, en su caso, lo turnará al Tribunal Electoral para su resolución y la copia la enviará al Consejo General del Instituto Estatal Electoral para los efectos de ley.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 22 DE AGOSTO DE 2023)</small>
+
+IV. Para la elección de Ayuntamientos:
+
+a) Al término del cómputo, se hará la declaración de validez de la elección y se extenderá la constancia a la planilla que haya obtenido la mayoría de votos conforme al cómputo de la elección; y
+
+b) Los paquetes, sobres y expedientes electorales de las casillas de la elección de Ayuntamientos, los entregará al Consejo General del Instituto Estatal Electoral al día siguiente al que haya concluido el cómputo respectivo. Por separado formará dos expedientes en original y copia que contengan el acta de cómputo municipal, copia del acta de la sesión permanente de la jornada electoral, acta circunstanciada de la sesión de cómputo del Consejo Distrital, escritos de protesta, las pruebas exhibidas e informe del proceso electoral en su demarcación. El original, en su caso, lo turnará al Tribunal Electoral para su resolución y la copia la enviará al Consejo General del Instituto Estatal Electoral para los efectos de ley.
 
 ###### Artículo 201.
 
-El Consejo Municipal Electoral, iniciada la sesión practicará el cómputo de la votación de la elección de Ayuntamientos, realizando en su orden las operaciones siguientes:
-
-I. Se extraerá del sobre electoral, el original del acta de la jornada electoral, procediéndose a computar la votación de cada una de las casillas. En caso de que el contenido del acta de la jornada electoral referente a los resultados de la votación sea cuestionado por evidenciar presunto error aritmético o notoria alteración en el texto de los datos asentados, será procedente por única vez, abrir el paquete electoral y repetir el escrutinio y cómputo de la casilla de que se trate.
-
-Para la realización del cómputo municipal serán aplicables, en lo conducente, las disposiciones previstas en el inciso b de la fracción I del artículo anterior;
-
-II. Los resultados de la sesión de cómputo se asentarán en el acta final de cómputo de la elección de que se trate. Asimismo, se levantará acta circunstanciada en la que se harán constar las operaciones practicadas, los resultados del cómputo, los incidentes y las pruebas exhibidas;
-
-III. Al término del cómputo, se hará la declaración de validez de la elección y se extenderá la constancia a la planilla que haya obtenido la mayoría de votos conforme al cómputo de la elección; y
-
-IV. Los paquetes, sobres y expedientes electorales de las casillas de la elección de Ayuntamientos, los entregará al Instituto Estatal Electoral. Por separado formará dos expedientes en original y copia que contengan el acta de cómputo municipal, copia del acta de la sesión permanente de la jornada electoral, acta circunstanciada de la sesión de cómputo del consejo municipal, escritos de protesta, las pruebas exhibidas e informe del proceso electoral en su demarcación. El original, en su caso, lo turnará al Tribunal Electoral para su resolución y la copia la enviará al Consejo General del Instituto Estatal Electoral para los efectos de ley.
+(DEROGADO, P.O. 22 DE AGOSTO DE 2023)
 
 ###### Artículo 202.
 
-Los Consejos Distritales o Municipales electorales entregarán los paquetes, sobres y expedientes electorales de las casillas al Consejo General del Instituto Estatal Electoral al día siguiente al que haya concluido el cómputo respectivo.
+(DEROGADO, P.O. 22 DE AGOSTO DE 2023)
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 203.
 
-Los candidatos a quienes los Consejos Distritales o Municipales Electorales respectivos, expidan la constancia de haber obtenido mayoría de votos en la elección de Diputados o Ayuntamientos, deberán presentarla para su registro ante el Consejo General del Instituto Estatal Electoral a más tardar a los cinco días posteriores de su entrega.
+Las candidaturas a quienes los Consejos Distritales Electorales respectivos, expidan la constancia de haber obtenido mayoría de votos en la elección de Diputaciones o Ayuntamientos, deberán presentarla para su registro ante el Consejo General del Instituto Estatal Electoral a más tardar a los cinco días posteriores de su entrega.
 
 ###### Artículo 204.
 
@@ -3519,13 +3837,23 @@ I. Registrar una lista "A", con 12 fórmulas de candidatos a Diputados a elegir 
 
 II. Obtener cuando menos el 3% de la votación estatal emitida en el Estado;
 
-III. Registrar en lo individual, fórmulas de candidatos de mayoría relativa, en cuando menos 12 distritos electorales uninominales; y
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 573 POR EL QUE SE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-IV. Garantizar la paridad de género en sus candidaturas.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2023)</small>
+III. REGISTRAR EN LO INDIVIDUAL, FÓRMULAS DE CANDIDATOS DE MAYORÍA RELATIVA, EN CUANDO MENOS 12 DISTRITOS ELECTORALES UNINOMINALES;
 
-V. Garantizar en al menos una de las doce fórmulas a diputaciones por el principio de representación proporcional a asignar, el acceso al cargo de personas con discapacidad.
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 573 POR EL QUE SE REFORMA LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+IV. GARANTIZAR LA PARIDAD DE GÉNERO EN SUS CANDIDATURAS, Y
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 573 POR EL QUE SE REFORMA LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+V. GARANTIZAR EN AL MENOS UNA DE LAS DOCE FÓRMULAS A DIPUTACIONES POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL A ASIGNAR, EL ACCESO AL CARGO DE PERSONAS CON DISCAPACIDAD Y PERSONAS DE LA DIVERSIDAD SEXUAL Y DE GÉNERO.
 
 ###### Artículo 208.
 
@@ -3671,9 +3999,11 @@ II. Se asignará una regiduría por partido político, candidaturas comunes o co
 
 Las disposiciones contenidas en este Título tienen por objeto regular las candidaturas independientes para Gobernador, Diputados Locales y miembros de los Ayuntamientos por el principio de mayoría relativa, en términos de lo dispuesto por la fracción II del artículo 35 de la Constitución Política de los Estados Unidos Mexicanos, y los artículos 17, fracción II, y 24, párrafo segundo, de la Constitución Política del Estado de Hidalgo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 214.
 
-La organización y desarrollo de la elección de candidaturas independientes será responsabilidad del Instituto Estatal Electoral; en lo concerniente a los órganos desconcentrados, serán competentes los consejos distritales y municipales que correspondan.
+La organización y desarrollo de la elección de candidaturas independientes será responsabilidad del Instituto Estatal Electoral; en lo concerniente a los órganos desconcentrados, serán competentes los Consejos Distritales que correspondan.
 
 El Consejo General emitirá las reglas de operación respectivas, utilizando racionalmente las unidades administrativas del mismo, conforme a la definición de sus atribuciones, observando para ello las disposiciones de este Código y demás normatividad aplicable.
 
@@ -3735,9 +4065,11 @@ La Convocatoria deberá publicarse al día siguiente de su aprobación en al men
 
 ### CAPÍTULO IV. DE LOS ACTOS PREVIOS AL REGISTRO DE CANDIDATOS INDEPENDIENTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 223.
 
-Los ciudadanos que pretendan postular su candidatura independiente a un cargo de elección popular deberán hacerlo del conocimiento del Instituto Estatal Electoral por escrito, en el formato que éste determine.
+La ciudadanía que pretenda postular su candidatura independiente a un cargo de elección popular deberá hacerlo del conocimiento del Instituto Estatal Electoral por escrito, en el formato que éste determine.
 
 Durante los procesos electorales locales, la manifestación de la intención se realizará a partir del día siguiente al en que se publique la convocatoria y hasta que dé inicio el periodo para recabar el apoyo ciudadano correspondiente, conforme a las siguientes reglas:
 
@@ -3745,7 +4077,9 @@ I. Los aspirantes al cargo de Gobernador, ante el Consejo General;
 
 II. La fórmula de aspirantes al cargo de diputado por el principio de mayoría relativa, ante el Consejo Distrital correspondiente o ante el Consejo General; y
 
-III. La planilla de aspirantes al cargo de integrantes de los Ayuntamientos, ante el Consejo Municipal correspondiente o ante el Consejo General.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+III. La planilla de aspirantes al cargo de integrantes de los Ayuntamientos, ante el Consejo Distrital correspondiente o ante el Consejo General.
 
 Una vez hecha la comunicación indicada a que se refiere el primer párrafo de este artículo y recibida la constancia respectiva, los ciudadanos adquirirán la calidad de aspirantes.
 
@@ -3859,11 +4193,9 @@ II. Realizar actos para promover sus ideas y propuestas con el fin de obtener el
 
 III. Utilizar financiamiento privado para el desarrollo de sus actividades, en términos de este Código;
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE REFORMA LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
-
-IV. NOMBRAR UN REPRESENTANTE PARA ASISTIR A LA SESIONES DE LOS CONSEJOS GENERAL, DISTRITALES O MUNICIPALES, CON DERECHO A VOZ SIN VOTO;
+IV. Nombrar una representación para asistir a las sesiones de los Consejos General o Distritales, con derecho a voz sin voto;
 
 V. Insertar en su propaganda la leyenda "aspirante a candidato independiente"; y
 
@@ -3929,9 +4261,11 @@ Los plazos y órganos competentes para el registro de las candidaturas en el añ
 
 El Instituto Estatal Electoral dará amplia difusión a la apertura del registro de las candidaturas independientes y a los plazos a que se refiere el presente artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 249.
 
-Los ciudadanos que aspiren a participar como Candidatos Independientes a un cargo de elección popular deberán:
+Las personas ciudadanas que aspiren a ocupar un cargo de elección popular a través de una candidatura independiente deberán:
 
 I. Presentar su solicitud por escrito, que deberá contener:
 
@@ -3939,11 +4273,9 @@ a. Apellido paterno, apellido materno, nombre completo y firma o, en su caso, hu
 
 b. Lugar y fecha de nacimiento del solicitante.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE REFORMA EL INCISO C DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
-
-c. DOMICILIO DEL SOLICITANTE Y TIEMPO DE RESIDENCIA MÍNIMO DE DOS AÑOS EN EL MISMO, EL CUAL DEBERÁ ACREDITAR MEDIANTE ESCRITO BAJO PROTESTA DE DECIR VERDAD ACOMPAÑADO DE COPIA DE CREDENCIAL DE ELECTOR Y COPIA DE COMPROBANTE DE DOMICILIO, SIN QUE EL INSTITUTO ESTATAL ELECTORAL POR MEDIO DE SUS CONSEJOS, GENERAL, DISTRITALES O MUNICIPALES PUEDA SOLICITARLE CONSTANCIA DE RADICACIÓN.
+c. Domicilio de la persona solicitante y tiempo de residencia mínimo de dos años en el mismo, el cual deberá acreditar mediante escrito bajo protesta de decir verdad acompañado de copia de credencial para votar y copia de comprobante de domicilio, sin que el Instituto Estatal Electoral por medio de sus consejerías, general o distritales pueda solicitarle constancia de radicación.
 
 d. Ocupación del solicitante.
 
@@ -3959,11 +4291,9 @@ II. Acompañar la solicitud con la documentación siguiente:
 
 a. Formato en el que manifieste su voluntad de ser candidato independiente, a que se refiere este Código.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE REFORMA EL INCISO B DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
-
-b. COPIA FOTOSTÁTICA SIMPLE Y LEGIBLE DEL ACTA DE NACIMIENTO Y DEL ANVERSO Y REVERSO DE LA CREDENCIAL PARA VOTAR VIGENTE, SIN QUE EL INSTITUTO ESTATAL ELECTORAL POR MEDIO DE SUS CONSEJOS, GENERAL, DISTRITALES O MUNICIPALES SOLICITEN COPIA CERTIFICADA DEL ACTA (SIC) NACIMIENTO.
+b. Copia fotostática simple y legible del acta de nacimiento y del anverso y reverso de la credencial para votar vigente, sin que el Instituto Estatal Electoral por medio de sus consejos, general o distritales soliciten copia certificada del acta (sic) nacimiento.
 
 c. La plataforma electoral que contenga las principales propuestas que el candidato independiente sostendrá en la campaña electoral.
 
@@ -4037,13 +4367,17 @@ LA PROPAGANDA COLOCADA EN LA VÍA PÚBLICA, DEBERÁ SER RETIRADA POR LAS O LOS A
 
 ### CAPÍTULO IX. DEL REGISTRO
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 256.
 
-El día previo al inicio de las campañas, los Consejos General, Distritales y Municipales deberán celebrar sesión de registro de candidaturas, en los términos del presente Código.
+El día previo al inicio de las campañas, los Consejos General y Distritales deberán celebrar sesión de registro de candidaturas, en los términos del presente Código.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 257.
 
-El Secretario Ejecutivo del Consejo General y los Presidentes de los Consejos Distritales y Municipales, según corresponda, tomarán las medidas necesarias para hacer pública la conclusión del registro de candidaturas independientes, dando a conocer los nombres de los candidatos, fórmulas o planillas registradas, así como de aquéllos que no cumplieron con los requisitos.
+La Secretaría Ejecutiva del Consejo General y las Presidencias de los Consejos Distritales, según corresponda, tomarán las medidas necesarias para hacer pública la conclusión del registro de candidaturas independientes, dando a conocer los nombres de las personas candidatas, fórmulas o planillas registradas, así como de aquéllas que no cumplieron con los requisitos.
 
 ### CAPÍTULO X. DE LA SUSTITUCIÓN Y CANCELACIÓN DEL REGISTRO
 
@@ -4077,13 +4411,17 @@ VII. Solicitar a los órganos electorales copia de la documentación electoral, 
 
 VIII. Las demás que les otorgue este Código y los demás ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 261.
 
-Son obligaciones de los Candidatos Independientes registrados:
+Son obligaciones de las candidaturas independientes registradas:
 
 I. Conducirse con respeto irrestricto a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo, en el presente Código y en la normatividad aplicable;
 
-II. Respetar y acatar los acuerdos que emitan los consejos general, distritales o municipales que les resulten aplicables;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+II. Respetar y acatar los acuerdos que emitan los consejos, general o distritales que les resulten aplicables;
 
 III. Respetar y acatar los topes de gastos de campaña en los términos del presente Código;
 
@@ -4135,17 +4473,23 @@ Los Candidatos Independientes que incumplan con la normatividad electoral que le
 
 ### CAPÍTULO XII. DE LOS REPRESENTANTES ANTE LOS ÓRGANOS DEL INSTITUTO ESTATAL ELECTORAL Y ANTE LA MESA DIRECTIVA DE CASILLA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 263.
 
-Los Candidatos Independientes, de conformidad con lo previsto por los reglamentos de las sesiones de los Consejos General, Distritales y Municipales aprobados por el Consejo General, podrán designar Representantes ante los órganos del Instituto, en los términos siguientes:
+Las candidaturas independientes, de conformidad con lo previsto por los reglamentos de las sesiones de los Consejos General y Distritales aprobados por el Consejo General, podrán designar representaciones ante los órganos del Instituto, en los términos siguientes:
 
 I. Los Candidatos Independientes a Gobernador, ante el Consejo General y la totalidad de los consejos distritales;
 
-II. Los Candidatos Independientes a Diputados Locales, ante el consejo distrital de la demarcación por la cual se quiera postular; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-III. Los candidatos independientes a integrantes de los Ayuntamientos, ante el consejo municipal respectivo.
+II. Las candidaturas independientes a Diputaciones locales y a integrantes de los Ayuntamientos, ante el Consejo Distrital correspondiente, y
 
-La acreditación de Representantes ante los consejos general, distritales y municipales se realizará dentro de los treinta días posteriores al de la aprobación de su registro como aspirante a Candidato Independiente.
+III. (DEROGADA, P.O. 22 DE AGOSTO DE 2023)
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+La acreditación de representaciones ante los Consejos General y Distritales se realizará dentro de los treinta días posteriores al de la aprobación de su registro como aspirante a la candidatura independiente.
 
 Si la designación no se realiza en el plazo previsto en el párrafo anterior perderá este derecho.
 
@@ -4343,73 +4687,127 @@ APARTADO A
 
 DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y SU DERECHO A DESIGNAR LA FORMA DE ELECCIÓN DE SUS AUTORIDADES MUNICIPALES
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-Artículo 295 a. Este Código reconoce la diversidad de los derechos y cultura de los pueblos y comunidades indígenas del Estado de Hidalgo, y garantiza su derecho a la libre determinación y, en consecuencia, a la autonomía para integrar sus propias autoridades.
+Artículo 295 a. Este Código reconoce la diversidad de derechos político-electorales delos (sic) pueblos y comunidades indígenas del Estado de Hidalgo, y garantizasu (sic) derecho a la libre determinación y, en consecuencia, a la autonomía para integrar suspropias (sic) autoridades, así como a elegir a sus representantes.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+I.- Son sujetos de derecho público: los pueblos, las comunidades, las comunidades equiparables, los grupos y las personas indígenas del Estado de Hidalgo. Se entiende por:
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+a. Persona Indígena: Es la persona en lo individual, como depositaria o receptora de derechos, cuyo criterio determinante para considerarla como tal, es la autoadscripción o conciencia de su propia identidad indígena.
 
-Artículo 295 b. Las autoridades comunitarias de los pueblos y las comunidades indígenas de Hidalgo reconocidos por la Ley de Derechos y Cultura Indígena del Estado de Hidalgo, en el ejercicio de la libre determinación y autonomía, podrán presentar ante el Consejo General del Instituto Estatal Electoral, la solicitud para el cambio de modelo de elección de sus autoridades municipales por sistemas normativos internos, previo cumplimiento de los requisitos y procedimientos establecidos en el presente capítulo.
+b. Pueblos indígenas: Son aquellos que descienden de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, oparte (sic) de ellas.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+c. Comunidades indígenas: Son integrantes de cada pueblo indígena y son aquellas que forman una unidad social, económica y cultural, asentados en un territorio determinado, integradas por una o más localidades interiores, conocidas como barrios, colonias, fracciones o demarcaciones y que reconocen autoridades propias de acuerdo con sus usos y costumbres, pudiendo presentar cualquiera de las formas de tenencia de la tierra.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+d. Comunidades equiparables: Son núcleos sociales que, pueden o no autoidentificarsecomo (sic) indígenas, pero poseen características de unidad o cohesiónsocial (sic), económica y cultural diferenciada, asentados en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres. Se reconoce como comunidad equiparable a los barrios originarios o fundacionales dentro de actuales territorios urbanos.
 
-Artículo 295 c. Corresponde al Consejo General del Instituto Electoral del Estado de Hidalgo atender las solicitudes que presenten las autoridades de los pueblos y las comunidades indígenas para el cambio de modelo de elección de sus autoridades municipales por sistemas de derecho interno o consuetudinario.
+e. Grupos indígenas: Son personas indígenas provenientes de diversos pueblos y/o comunidades indígenas o equiparadas, que se encuentran organizados y que residen transitoria o permanentemente en el lugar en donde surgió la nueva forma (sic) organización socialmente diferenciada. Pueden ser identificados también, como personas desplazadas, migrantes internos o externos del país y personas en reclusión.
 
-El Consejo General deberá organizar, implementar y desarrollar, en su caso, el procedimiento de consulta en el municipio respectivo, de conformidad con lo establecido en el presente capítulo y los lineamientos que para tal efecto emita el Consejo General.
+II.- Las personas indígenas que deseen ejercer sus derechos dentro del sistema de partidos políticos, podrán asociarse para constituir partidos políticos locales, bajo criterios de pertinencia cultural y un procedimiento flexible respecto del cumplimiento de las disposiciones para la constitución y fiscalización de partidos políticos locales, en lo que corresponde a las facultades competenciales del Instituto Estatal Electoral. Para el caso de las organizaciones de ciudadanos indígenas que pretendan constituirse en partido político indígena local, deberán acreditar:
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+a. La celebración, por lo menos en dos terceras partes de los distritos electorales locales que cuenten con presencia indígena, o bien, de los municipios que cuenten con comunidades indígenas, según sea el caso, de una asamblea en presencia de un funcionario del Instituto Estatal Electoral, quien certificará:
+
+1. El número de afiliados que concurrieron y participaron en las asambleas, que en ningún caso podrá ser menor del 0.26% del total de personas indígenas autoadscritas del distrito, municipio según sea el caso; que suscribieron el documento de manifestación formal de afiliación y que se autoadscriban como personas índigenas; que asistieron libremente; que conocieron y aprobaron la declaración de principios, el programa de acción y los estatutos; y que eligieron a los delegados propietarios y suplentes a la asamblea local constitutiva;
+
+2. Que con los ciudadanos mencionados en la fracción anterior, quedaron formadas las listas de afiliados, con el nombre, los apellidos, domicilio, clave y foliode (sic) la credencial para votar, y
+
+3. Que en la realización de las asambleas de que se trate no existió intervención de organizaciones gremiales o de otras con objeto social diferente al de constituir el partido político.
+
+b. La celebración de una asamblea local constitutiva ante la presencia del funcionario designado por el Organismo Público Local competente, quien certificará:
+
+1. Que asistieron los delegados propietarios o suplentes, elegidos en las asambleas distritales, municipales o de las demarcaciones territoriales del Distrito Federal, según sea el caso;
+
+2. Que acreditaron, por medio de las actas correspondientes, que las asambleas se celebraron de conformidad con lo prescrito en el inciso anterior;
+
+3. Que se comprobó la identidad y residencia de los delegados a la asamblealocal (sic), por medio de su credencial para votar u otro documento fehaciente;
+
+4. Que los delegados aprobaron la declaración de principios, programa de acción y estatutos, y
+
+5. Que se presentaron las listas de afiliados con los demás ciudadanos con que cuenta la organización en la entidad federativa, con el objeto de satisfacer el requisito del porcentaje mínimo exigido por este Código. Estas listas contendrán los datos requeridos en la fracción II del inciso anterior.
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+Artículo 295 b. Las comunidades indígenas de Hidalgo reconocidas por la Ley de Derechos y Cultura Indígena del Estado de Hidalgo, en el ejercicio de la libre determinación y autonomía, a través de sus autoridades comunitarias podrán presentarante (sic) el Consejo General del Instituto Estatal Electoral, la solicitud para el cambio de modelo de elección de sus autoridades municipales o distritales electorales para elegir a sus representantes populares mediante sistemas normativos internos, previo cumplimiento de los requisitos y procedimientos establecidos en el presente capítulo.
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+Artículo 295 c. Corresponde al Consejo General del Instituto Electoral del Estado de Hidalgo atender las solicitudes que presenten las autoridades de los pueblos y las comunidades indígenas para el cambio de modelo de elección de sus autoridades municipales o representación distrital electoral por sistema normativo interno.
+
+El Consejo General deberá organizar, implementar y desarrollar, en su caso, el procedimiento de consulta en el municipio o distrito electoral respectivo, de conformidadcon (sic) lo establecido en el presente capítulo y los lineamientos que para tal efecto emita el Consejo General, una vez que haya desarrollado un proceso de consulta previa, libre e informada.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
 
 Artículo 295 d. Para la solicitud de cambio de modelo de elección de autoridades municipales, se deberán reunir los siguientes requisitos:
 
-I.- Ser municipio reconocido como indígena por la Ley de Derechos y Cultura Indígena para el Estado de Hidalgo y con población mayoritariamente indígena con base en los porcentajes de población indígena que vía oficio comunique el Instituto Nacional de Estadística y Geografía 90 días antes de la fecha límite de solicitud;
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-II.- Ser suscrita por el 50% más uno, de las autoridades comunitarias indígenas que integran el municipio, para lo cual se anexarán las actas de cada una de las asambleas comunitarias que se realicen con la participación del 50% más uno de la comunidad, en donde se establezca con claridad la voluntad popular de emigrar del sistema de partidos al de sistema normativo interno;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-III.- Que se designe un Comité de Seguimiento plural con representantes electos por cada asamblea, que será el órgano representante de las comunidades, encargado de realizar los trámites y gestiones referentes a la solicitud de cambio de modelo de elección ante el Consejo General, cuyos integrantes únicamente deberán ser miembros de las comunidades indígenas atendiendo a la paridad de género; y
+I.- SER MUNICIPIO O DISTRITO ELECTORAL RECONOCIDO COMO INDÍGENA POR PARTE DE LAS AUTORIDADES ADMINISTRATIVAS ELECTORALES Y QUE CUENTEN CON POBLACIÓN MAYORITARIAMENTE INDÍGENA CON BASE EN LOS PORCENTAJES DE POBLACIÓN INDÍGENA AUTOADSCRITA QUE VÍA OFICIO COMUNIQUE EL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA 90DÍAS (SIC) ANTES DE LA FECHA LÍMITE DE SOLICITUD DE CAMBIO DE MODELO DE ELECCIÓN;
 
-IV.- Señalar domicilio y preferentemente correo electrónico para recibir notificaciones.
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-La fecha límite para solicitar el cambio de modelo de elección será dos años antes del día en que se celebre la jornada electoral, en la que se renueven ayuntamientos.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-Para garantizar el consenso de las comunidades, en todo momento se requerirán las firmas del total de integrantes del Comité de Seguimiento para la tramitación de la consulta.
+II.- SER SUSCRITA POR AL MENOS EL 3% DE LAS COMUNIDADES INDÍGENAS QUE INTEGRAN EL MUNICIPIO O EL DISTRITO ELECTORAL QUE CORRESPONDA, PARA LO CUAL SE ANEXARÁN LAS ACTAS DE CADA UNA DE LAS ASAMBLEAS COMUNITARIAS QUE SE REALICEN CON LA PARTICIPACIÓN DEL 50% MÁS UNO DE LA COMUNIDAD, EN DONDE SE ESTABLEZCA CON CLARIDAD LA VOLUNTAD COMUNITARIA DE SOLICITAR EL EJERCICIO DE CONSULTA SOBRE LA MIGRACIÓN O CAMBIO DE MODELO DE ELECCIÓN DEL SISTEMA DE PARTIDOS POLÍTICOS AL DE SISTEMA NORMATIVO INTERNO;
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+III.- QUE SE DESIGNE UN COMITÉ DE SEGUIMIENTO PLURAL CON REPRESENTANTES ELECTOS POR CADAASAMBLEA (SIC), QUE SERÁ EL ÓRGANO REPRESENTANTE DE LAS COMUNIDADES, ENCARGADO DE REALIZAR LOS TRÁMITES Y GESTIONES REFERENTES A LA SOLICITUD DE CAMBIO DE MODELO DE ELECCIÓN ANTE ELCONSEJO (SIC) GENERAL, CUYOS INTEGRANTES ÚNICAMENTE DEBERÁN SER MIEMBROS DE LAS COMUNIDADES INDÍGENAS ATENDIENDO A LA PARIDAD DE GÉNERO. EL COMITÉ PODRÁ INICIAR FUNCIONES A PARTIR DEL DÍA SIGUIENTE POSTERIOR A QUE EL CONSEJO GENERAL HAYA SIDO NOTIFICADO DE LA SOLICITUD DE CAMBIO DE MODELO DE ELECCIÓN. EL COMITÉ DEBERÁ COMPROMETERSE POR ESCRITO A INICIAR Y CONCLUIR LA CAPACITACIÓN BRINDADA POR EL INSTITUTO ESTATAL ELECTORAL, EN LA QUE SE DESCRIBAN LAS IMPLICACIONES SOBRE EL CAMBIODE (SIC) MODELO DE ELECCIÓN, Y
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+IV. SEÑALAR DOMICILIO Y MEDIO DE CONTACTO PARA RECIBIR NOTIFICACIONES.
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+LA FECHA LÍMITE PARA SOLICITAR EL CAMBIO DE MODELO DE ELECCIÓN SERÁ DOS AÑOS ANTES DEL DÍAEN (SIC) QUE SE CELEBRE LA JORNADA ELECTORAL, EN LA QUE SE RENUEVEN AYUNTAMIENTOS O DIPUTACIONES LOCALES.
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+PARA GARANTIZAR EL CONSENSO DE LAS COMUNIDADES, EN TODO MOMENTO SE REQUERIRÁN LAS FIRMAS DEL TOTAL DE INTEGRANTES DEL COMITÉ DE SEGUIMIENTO PARA LA TRAMITACIÓN DE LA SOLICITUD DE CONSULTA.
 
 Las comunidades podrán solicitar la presencia de observadores del Instituto Nacional Electoral y de la Comisión Nacional de Derechos Humanos.
 
 El Instituto Electoral, vigilará que la información y documentación, sea auténtica y veraz, por los medios que considere pertinentes.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-Artículo 295 e. El Consejo General del Instituto Estatal Electoral, en un plazo de hasta 45 días naturales, contados a partir de la presentación de la solicitud de cambio de modelo de elección, resolverá sobre la procedencia de la misma, verificando el cumplimiento de los requisitos dispuestos en el presente capítulo.
+Artículo 295 e. El Consejo General del Instituto Estatal Electoral, en un plazo de hasta 20 días naturales, contados a partir de la presentación de la solicitud de cambio de modelo de elección, resolverá sobre la procedencia de la misma, verificando el cumplimiento de los requisitos dispuestos en el presente capítulo.
 
-En caso, de la falta de algún requisito, el Instituto Electoral notificará al Comité de Seguimiento para que, en un plazo de 5 días naturales contados a partir del día siguiente a su notificación, los subsane. Fenecido dicho plazo, el Consejo General, resolverá lo conducente.
+En caso de la falta de algún requisito, el Instituto Electoral notificará al Comité de Seguimiento para que, en un plazo de 15 días naturales contados a partir del día siguiente a su notificación, los subsane. Fenecido dicho plazo, el Consejo General, resolverá lo conducente.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA EL APARTADO B DEL TÍTULO X BIS DE ESTE ORDENAMIENTO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA LA DENOMINACIÓN DEL APARTADO B DEL TÍTULO X BIS DE ESTE ORDENAMIENTO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2023)</small>
 
 APARTADO B
 
-DEL PROCEDIMIENTO DE CONSULTA
+DEL PROCEDIMIENTO DE CONSULTA PARA LA VIGENCIA DE DERECHOS POLÍTICOS ELECTORALES INDÍGENAS
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-Artículo 295 f. Cumplidos los requisitos para el cambio de modelo de elección, el Instituto Estatal Electoral emitirá un acuerdo en el que se ordene la implementación de la consulta previa, libre, informada y de buena fe a la totalidad de la ciudadanía del municipio correspondiente, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos; la Constitución Política del Estado de Hidalgo, así como en los instrumentos internacionales de derechos humanos de los pueblos y comunidades indígenas.
+Artículo 295 f. Cumplidos los requisitos para la solicitud de cambio de modelo de elección o, de administración de forma directa de los recursos económicos, así comolos (sic) elementos cuantitativos y cualitativos respecto de la transferencia de responsabilidades relacionadas con el ejercicio de sus derechos de autodeterminación, autonomía y autogobierno, reconocidos en el Apartado C del artículo 25 de la Ley Orgánica Municipal para el Estado de Hidalgo, el Instituto EstatalElectoral (sic) emitirá un acuerdo en el que se ordene la implementación de la consulta previa, libre, informada y de buena fe a la totalidad de la ciudadanía de la comunidad, municipio o distrito electoral correspondiente, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo, así como en los instrumentos internacionales de derechos humanos de los pueblos y comunidades indígenas.
 
 La consulta que realice el Instituto Estatal Electoral deberá efectuarse mediante procedimientos culturalmente apropiados, en corresponsabilidad con las comunidades indígenas solicitantes, atendiendo las particularidades políticas, sociales y económicas del municipio, a fin de generar las condiciones de diálogo y consenso que permitan llegar a un acuerdo acerca de las medidas propuestas a través del consentimiento libre e informado.
-
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
 
@@ -4417,49 +4815,71 @@ Artículo 295 g. Para la realización de la consulta que realice el Consejo Gene
 
 La consulta que se implemente en los municipios para el cambio de modelo de elección constará de las siguientes etapas:
 
-I. Etapa Preparatoria: Inicia con la solicitud de cambio de modelo de elección, en la cual el Instituto Estatal Electoral deberá allegarse de información, mediante las propias autoridades de la comunidad o por información objetiva que pueda recopilar y que permitan obtener datos fehacientes en torno a los usos y costumbres que rigen en las comunidades indígenas del municipio respectivo.
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-El Instituto Estatal Electoral podrá realizar revisiones bibliográficas, solicitar informes y comparecencias de las autoridades comunitarias, requerir dictámenes periciales antropológicos a las instituciones versadas en la materia, realizar visitas a los sitios en los que se presuma la existencia de poblaciones indígenas, vigencia de criterios etnolingüísticos, entrevistas con los habitantes, informes de las autoridades municipales legales y tradicionales, con el objeto de determinar la viabilidad de la implementación del sistema normativo interno, así como constatar que las comunidades del municipio están inmersas en el marco normativo local que reconocen.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-II. Etapa Informativa: Verificada la existencia y vigencia del sistema normativo interno en las comunidades indígenas en cuestión, el Instituto Estatal Electoral deberá proceder a iniciar con una campaña de difusión informativa cultural y etnolingüisticamente apropiada, con la finalidad de que las comunidades del municipio en cuestión, cuenten con los elementos necesarios para tomar una determinación y, en su caso, se comprendan los alcances de las posibles afectaciones políticas, sociales o culturales que la medida implique.
+I. ETAPA PREPARATORIA: INICIA CON EL ACUERDO MEDIANTE EL CUAL, EL CONSEJO GENERAL DEL INSTITUTO ESTATAL ELECTORAL ADMITE Y TIENE POR DECLARADA LA PROCEDENCIA DE LA CONSULTA SOLICITADA PARA EL EJERCICIO DE LOS DERECHOS POLÍTICO-ELECTORALES, EN LA CUAL EL INSTITUTOESTATAL (SIC) ELECTORAL DEBERÁ ALLEGARSE DE INFORMACIÓN, MEDIANTE LAS PROPIAS AUTORIDADES DE LACOMUNIDAD (SIC) O POR INFORMACIÓN OBJETIVA QUE PUEDA RECOPILAR Y QUE PERMITAN OBTENER DATOS FEHACIENTES EN TORNO A LOS USOS Y COSTUMBRES QUE RIGEN EN LA COMUNIDAD INDÍGENA, EL MUNICIPIO O DISTRITO ELECTORAL RESPECTIVO.
 
-El Instituto Estatal Electoral podrá celebrar asambleas comunitarias informativas, para informar a la población respecto a los métodos de elección de partidos políticos y del sistema normativo interno o usos y costumbres.
+EL INSTITUTO ESTATAL ELECTORAL PODRÁ REALIZAR REVISIONES BIBLIOGRÁFICAS, SOLICITAR INFORMES Y COMPARECENCIAS DE LAS AUTORIDADES COMUNITARIAS, REQUERIR EN SU CASO, DICTÁMENES PERICIALES ANTROPOLÓGICOS A LAS INSTITUCIONESVERSADAS (SIC) EN LA MATERIA, REALIZAR VISITAS A LOS SITIOS EN LOS QUE SE PRESUMA LA EXISTENCIA DE POBLACIONES INDÍGENAS, VIGENCIA DE CRITERIOS ETNOLINGÜÍSTICOS, ENTREVISTAS CON LOS HABITANTES, INFORMES DE LAS AUTORIDADES MUNICIPALES LEGALES Y TRADICIONALES, CON EL OBJETODE (SIC) DETERMINAR LA VIABILIDAD DE LA IMPLEMENTACIÓN DEL SISTEMA NORMATIVO INTERNO, ASÍ COMO CONSTATAR QUE LAS COMUNIDADES DEL MUNICIPIO ESTÁN INMERSAS EN EL MARCO NORMATIVO LOCALQUE (SIC) RECONOCEN.
 
-III.- Etapa Consultiva: En ella participarán las y los ciudadanos del municipio en cuestión, debiendo sujetarse a lo establecido en los acuerdos, lineamientos y formato que para tal efecto se aprueben. Para lo cual, se podrán implementar asambleas comunitarias de consulta.
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-Si derivado del ejercicio consultivo, se obtiene que la mayoría de la ciudadanía del municipio, aprueban el cambio de modalidad de la elección por sistema normativo interno, el Consejo General procederá a comunicarlo al Congreso del Estado y al Ayuntamiento respectivo, para efectos de preparación del proceso de elección con base en su sistema normativo interno, una vez que concluya el ejercicio constitucional del ayuntamiento en turno.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+II. ETAPA INFORMATIVA: VERIFICADA LA EXISTENCIA Y VIGENCIA DEL SISTEMA NORMATIVO INTERNO EN LASCOMUNIDADES (SIC) INDÍGENAS EN CUESTIÓN, EL INSTITUTO ESTATAL ELECTORAL DEBERÁ PROCEDER A INICIARCON (SIC) UNA CAMPAÑA DE DIFUSIÓN INFORMATIVA CULTURAL Y ETNOLINGÜISTICAMENTE APROPIADA, CON LAFINALIDAD (SIC) DE QUE LA COMUNIDAD O LAS COMUNIDADES DEL MUNICIPIO O DISTRITO ELECTORAL EN CUESTIÓN, CUENTEN CON LOS ELEMENTOS NECESARIOS PARA TOMAR UNA DETERMINACIÓN Y, EN SU CASO, SE COMPRENDAN LOS ALCANCES DE LAS POSIBLES AFECTACIONES POLÍTICAS, SOCIALES O CULTURALES QUE LA MEDIDA IMPLIQUE.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+EL INSTITUTO ESTATAL ELECTORAL DEBERÁ CELEBRAR ASAMBLEAS PARA INFORMAR A LA POBLACIÓN RESPECTO A LOS MÉTODOS DE ELECCIÓN DE PARTIDOS POLÍTICOS Y DEL SISTEMA NORMATIVO INTERNO O USOS Y COSTUMBRES, ASÍ COMO LAS IMPLICACIONES DE LA ADMINISTRACIÓN DIRECTA DE RECURSOS.
 
-Artículo 295 h. Aprobado el cambio de modelo de elección, el Consejo General del Instituto Estatal Electoral deberá disponer lo necesario, para llevar a cabo, las elecciones por sistemas normativos internos en los plazos que establece este Código.
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+III. ETAPA CONSULTIVA: EN ELLA PARTICIPARÁN LAS Y LOS CIUDADANOS DE LA COMUNIDAD, MUNICIPIO O DISTRITO QUE SE TRATE, DEBIENDO SUJETARSE A LO ESTABLECIDO EN LOS ACUERDOS, LINEAMIENTOS Y FORMATO QUE PARA TAL EFECTO SE APRUEBEN. PARA LO CUAL, SE DEBERÁN IMPLEMENTAR ASAMBLEAS DE CONSULTA.
 
-Artículo 295 i. Las autoridades estatales y municipales deberán brindar apoyo y colaboración al Instituto Estatal Electoral para la implementación de las etapas inherentes a la realización de las consultas.
+SI DERIVADO DEL EJERCICIO CONSULTIVO, SE OBTIENE QUE LA MAYORÍA DE LA CIUDADANÍA DE LA COMUNIDAD, MUNICIPIO O DISTRITO, APRUEBA EL CAMBIO DE MODALIDAD DE LA ELECCIÓN POR SISTEMA NORMATIVO INTERNO, O EL EJERCICIO DIRECTO DE LOS RECURSOS, EL CONSEJO GENERAL PROCEDERÁ A COMUNICARLO AL CONGRESO DEL ESTADO Y AL AYUNTAMIENTO RESPECTIVO, PARA EFECTOS DE PREPARACIÓN DEL PROCESO DE ELECCIÓN CON BASE EN SU SISTEMA NORMATIVO INTERNO, UNA VEZ QUE CONCLUYA EL EJERCICIO CONSTITUCIONAL DEL AYUNTAMIENTO EN TURNO.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA EL TERCER PÁRRAFO DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN III], P.O. 22 DE AGOSTO DE 2023)</small>
 
-Artículo 295 j. En ningún caso las prácticas comunitarias podrán limitar los derechos político-electorales de los ciudadanos en las etapas de la consulta.
+TAMBIÉN SERÁN NOTIFICADAS OTRAS AUTORIDADES ESTATALES VINCULADAS CON LA ADMINISTRACIÓN PÚBLICA MUNICIPAL, TALES COMO LA AUDITORIA SUPERIOR E INSTANCIA DE TRANSPARENCIA Y SECRETARÍA DE HACIENDA PARA QUE EN EL MARCO DE SUS ATRIBUCIONES, ACTÚEN CON PERSPECTIVAINTERCULTURAL (SIC) JURÍDICA.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-Artículo 295 k. El Consejo General emitirá los lineamientos y la reglamentación relacionada con el trámite de las solicitudes y el desarrollo de la consulta para el cambio del modelo de elección de las autoridades municipales por sistemas normativos internos.
+Artículo 295 h. APROBADO EL CAMBIO DE MODELO DE ELECCIÓN, EL CONSEJO GENERAL DEL INSTITUTO ESTATAL ELECTORAL DEBERÁ DISPONER LO NECESARIO, PARA LLEVAR A CABO, LAS ELECCIONES POR SISTEMAS NORMATIVOS INTERNOS EN LOS PLAZOS QUE ESTABLECE EL PRESENTE CÓDIGO.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA EL APARTADO C DEL TÍTULO X BIS DE ESTE ORDENAMIENTO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+POR SU PARTE, EL TRIBUNAL ELECTORAL CONOCERÁ Y RESOLVERÁ LO RELACIONADO AL EJERCICIO DE AUTOGOBIERNO Y ADMINISTRACIÓN DIRECTA DEL TOTAL DE LOS RECURSOS ECONÓMICOS QUE LES CORRESPONDE DE MANERA PROPORCIONAL A LAS COMUNIDADES INDÍGENAS QUE EJERZAN DERECHOS DE AUTONOMÍA Y LIBRE DETERMINACIÓN, ASÍ COMO LA TRANSFERENCIA DE RESPONSABILIDADES MUNICIPALES EN ATENCIÓN A LOS ELEMENTOS CUANTITATIVOS Y CUALITATIVOS QUE DEBERÁN SER CONSULTADOS Y CONVENIDOS PREVIAMENTECON (SIC) EL AYUNTAMIENTO, RELACIONADAS CON EL EJERCICIO DE SUS DERECHOS DE AUTODETERMINACIÓN Y AUTONOMÍA Y EN GENERAL, TODO LO RELATIVO AL EJERCICIO DE LOS DERECHOS POLÍTICOS-ELECTORALES.
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+Artículo 295 i. Las autoridades estatales y municipales deberán brindar apoyo y colaboración al Instituto Estatal Electoral para la implementación de las etapas inherentesa (sic) la realización de las consultas y el ejercicio efectivo de los derechos político- electorales indígenas.
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+Artículo 295 j. En ningún caso las practicas comunitarias podrán limitar los derechos políticos-electorales de la ciudadanía en las etapas de la consulta previa, libre e informada, así como el ejercicio efectivo de los derechos político-electorales indígenas.
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+Artículo 295 k. El Consejo General, una vez que haya desarrollado un proceso de consulta previa, libre e informada emitirá los lineamientos, la reglamentación o disposiciones generales o particulares, relacionadas con el trámite de las solicitudes yel (sic) desarrollo de las consultas que resulten procedentes.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2023)</small>
 
 APARTADO C
 
-DE LAS PREVENCIONES GENERALES EN ELECCIÓN POR SISTEMAS NORMATIVOS INTERNOS
+DE LAS PREVENCIONES GENERALES EN ELECCIÓN POR SISTEMASNORMATIVOS (SIC) INTERNOS
 
 (NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -4479,53 +4899,55 @@ b).- Respeto a los derechos humanos y a los derechos políticos y electorales de
 
 c).- El voto en condiciones de libertad e igualdad;
 
-d).- La auto adscripción indígena calificada para poder ser candidata o candidato a Presidente Municipal, Síndico o Regidor; y
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE DEROGA EL INCISO d) DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+d).- (DEROGADO, P.O. 22 DE AGOSTO DE 2023)
 
 e).- La transparencia.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-Artículo 295 n. Para la elección de integrantes de ayuntamiento, a través de los sistemas normativos internos de los pueblos y comunidades indígenas, el Instituto Estatal Electoral podrá organizarlas en corresponsabilidad con las autoridades e integrantes de los pueblos y comunidades indígenas.
+Artículo 295 n. Para la elección de integrantes del ayuntamiento o su órgano de gobierno equivalente, así como la elección de autoridades comunitarias para el ejercicio de sus formas propias de autogobierno mediante sistema normativo interno, el Instituto Estatal Electoral atendiendo al principio de libre determinación, deberá organizarlas en corresponsabilidad con el municipio o comunidad indígena.
 
-El Consejo General del Instituto Estatal Electoral emitirá de manera oportuna un dictamen en el que se especifique el método de elección propuesto por la comunidad indígena que haya optado por elegir a sus autoridades mediante usos y costumbres, el cual deberá ser acorde a las fechas, plazos y términos que señala el Código Electoral para el desarrollo de las etapas del proceso electoral.
+El Consejo General del Instituto Estatal Electoral emitirá de manera oportuna un dictamen en el que se especifique el método de elección aprobado por las comunidades indígenas que hayan optado por elegir a sus autoridades municipales o distritales mediante sistema normativo interno, o bien, ejerzan de manera directa los recursos asignados a las comunidades, mismo que en lo conducente, deberá ser acorde a las fechas, plazos y términos que señala el Código Electoral para el desarrollo de las etapas de los procesos electorales en el régimen de partidos políticos, así comolos (sic) periodos para el ejercicio de dichos cargos.
 
 El Instituto Estatal Electoral calificará y declarará la validez de las elecciones y expedirá las constancias de mayoría a las ciudadanas y ciudadanos que hayan sido electos por la modalidad de sistema normativo interno.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-Artículo 295 ñ.- Las autoridades que hayan sido electas por sistema normativo interno deberán rendir un informe anual al interior de los pueblos y comunidades indígenas o, en su caso, ante el Consejo de Ancianos respectivo.
+Artículo 295 ñ.- Las autoridades que hayan sido electas por sistema normativo interno deberán rendir un informe anual a su Asamblea General Comunitaria, así como cumplircon (sic) las disposiciones aplicables en materia de rendición de cuentas y transparencia.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA EL APARTADO D DEL TÍTULO X BIS DE ESTE ORDENAMIENTO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA LA DENOMINACIÓN DEL APARTADO D, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2023)</small>
 
 APARTADO D
 
-DE LA REPRESENTATIVIDAD INDÍGENA MUNICIPAL EN LA ELECCIÓN POR SISTEMA DE PARTIDOS
+DE LA REPRESENTATIVIDAD INDÍGENA EN LA ELECCIÓN POR SISTEMA DE PARTIDOS POLÍTICOS
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 295 o.
 
-En aquellos municipios cuya elección de ayuntamiento se sujete al sistema de partidos, y con el objeto de mantener una adecuada representación de los colectivos indígenas, los partidos políticos se deberán ajustar a lo siguiente:
+En aquellos municipios cuya elección de ayuntamientos se sujete alsistema (sic) de partidos, con el objeto de mantener una adecuada representación de personas indígenas, los partidos políticos se deberán ajustar a lo siguiente:
 
-a).- En aquellos municipios con un porcentaje de población indígena mayor del 35 por ciento y hasta el 50 por ciento, los partidos políticos deberán postular propietarios y suplentes indígenas en cuando menos el 35 por ciento de su planilla;
+a).- En aquellos municipios con un porcentaje de población indígena mayor a 35 por ciento y hasta el 50 por ciento, los partidos políticos deberán postular candidaturas propietarias y suplentes indígenas en al menos 35 por ciento de su planilla;
 
-b).- En aquellos municipios con un porcentaje de población indígena mayor del 50.01 por ciento y hasta el 65 por ciento, los partidos políticos deberán postular propietarios y suplentes indígenas en cuando menos el 50% de su planilla;
+b).- En aquellos municipios con un porcentaje de población indígena mayor a 50.01 por ciento y hasta el 65 por ciento, los partidos políticos deberán postular candidaturas propietarias y suplentes indígenas en al menos 50 por ciento de su planilla;
 
-c).- En aquellos municipios con un porcentaje de población indígena mayor del 65.01 por ciento, y hasta el 80 por ciento, los partidos políticos deberán postular propietarios y suplentes indígenas en cuando menos el 65% de su planilla; y
+c).- En aquellos municipios con un porcentaje de población indígena mayor a 65.01 por ciento, y hasta el 80 por ciento, los partidos políticos deberán postular candidaturas propietarias y suplentes indígenas en al menos 65 por ciento de su planilla; y
 
-d).- En aquellos municipios con un porcentaje de población indígena mayor del 80.01 por ciento de población indígena, los partidos políticos deberán postular propietarios y suplentes indígenas en cuando menos el 80% de su planilla.
+d).- En aquellos municipios con un porcentaje de población indígena mayor a 80.01 por ciento de población indígena, los partidos políticos deberán postular candidaturas propietarias y suplentes indígenas en al menos 80 por ciento de su planilla.
 
-En aquellos municipios cuyo porcentaje de población indígena sea menor del 35%, pero cuenten con comunidades originarias dentro del catálogo de comunidades indígenas establecido por la Ley de Derechos y Cultura Indígena para el Estado de Hidalgo, los partidos políticos deberán postular cuando menos un propietario y suplente indígena dentro de su planilla.
+En aquellos municipios cuyo porcentaje de población indígena sea menor a 35 por ciento, pero cuenten con comunidades originarias dentro del Catálogo de comunidades indígenas establecido por la Ley de Derechos y Cultura Indígena para el Estado de Hidalgo, los partidos políticos deberán postular en al menos una candidatura propietaria y suplente indígena dentro de su planilla.
 
-Los porcentajes de población indígena serán los que vía oficio comunique el INEGI, los cuales serán difundidos por el Consejo General, a más tardar, 90 días antes del inicio del proceso electoral respectivo.
+Los porcentajes de población indígena autoadscrita serán los que vía oficio comunique elINEGI (sic), los cuales serán difundidos por el Consejo General, a más tardar, 90 días antes del inicio del proceso electoral respectivo.
 
 (NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA EL APARTADO E DEL TÍTULO X BIS DE ESTE ORDENAMIENTO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -4535,37 +4957,69 @@ APARTADO E
 
 PREVENCIONES COMUNES EN ELECCIONES POR SISTEMAS NORMATIVOS INTERNOS Y POR SISTEMA DE PARTIDOS
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+Artículo 295 p. PARA GARANTIZAR QUE LOS ESPACIOS DE CANDIDATURAS INDÍGENAS DENTRO DEL SISTEMA DE PARTIDOS POLÍTICOS EN ELECCIONES MUNICIPALES Y DISTRITALES, SEAN OCUPADOS POR MIEMBROS DE LAS COMUNIDADES, SE REQUIERE LA PERTENENCIA INDÍGENA CALIFICADA.
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2023)</small>
+
+LA PERTENENCIA INDÍGENA CALIFICADA ES UN REQUISITO DE ELEGIBILIDAD ALCARGO (SIC) DE ELECCIÓN POPULAR Y CONSTITUYE UNA CARGA PROCESAL PARA PARTIDOS POLÍTICOS, MEDIANTE LA CUAL SE ACREDITA LA CONDICIÓN PERSONAL QUE DEFINE LA EXISTENCIA DE UNA CIUDADANÍA COMUNITARIA DE LA PERSONA POSTULADA A OCUPAR LA CANDIDATURA INDÍGENA, ES DECIR, SE TRATA DE LA RELACIÓN DE PERTENENCIA DE UNA PERSONA CON UNA COMUNIDAD CULTURALMENTE DIFERENCIADA, ACREDITABLE A TRAVÉS DE MEDIOS OBJETIVOS DE PRUEBA.
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL TERCERO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2023)</small>
+
+CUANDO SE TRATE DE CONSTANCIAS PARA ACREDITAR LA PERTENENCIA COMUNITARIA, ÚNICAMENTE TENDRÁN VALOR JURÍDICO AQUÉLLAS EXPEDIDAS POR AUTORIDADES COMUNITARIAS, A EXCEPCIÓN DE AQUELLOS CASOS EN LOS QUE EN EL MUNICIPIO DE QUE SE TRATE, NO EXISTAN COMUNIDADES INDÍGENAS RECONOCIDAS, POR LO QUE SE ATENDERÁ A ELEMENTOS DE PRUEBA QUE HAGAN INDICIOS DE UN POSIBLE VÍNCULO CON EL GRUPO, COMUNIDAD O POBLACIÓN DE QUE SE TRATE.
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL CUARTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2023)</small>
+
+EL INSTITUTO ESTATAL ELECTORAL HARÁ PÚBLICOS LOS NOMBRES DE LAS PERSONAS POSTULADAS PARA OCUPAR LAS CANDIDATURAS INDÍGENAS.
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL QUINTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2023)</small>
+
+LA DOCUMENTACIÓN QUE SE PRESENTE DEBE CONTENER ELEMENTOS CIERTOS, OBJETIVOS Y SUFICIENTES, QUE PERMITAN DESPRENDER LA PERTENENCIA EFECTIVA ENTRE LA PERSONA POSTULADA Y SU COMUNIDAD. POR LO ANTERIOR, BAJO LA PERSPECTIVA INTERCULTURAL JURÍDICA,EL (SIC) INSTITUTO ATENDERÁ LAS CIRCUNSTANCIAS PROPIAS DE CADA POSTULACIÓN EN PARTICULAR, VIGILANDO QUE LAS CONSTANCIAS Y/O MEDIOS DE PRUEBA QUE SE PRESENTEN PARA TAL FIN, SEAN AQUELLOS QUE PERMITAN PRESERVAR Y GARANTIZAR LA PARTICIPACIÓN EFECTIVA DE LA POBLACIÓN INDÍGENA.
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL SEXTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+EL INSTITUTO ESTATAL ELECTORAL, UNA VEZ QUE HAYA DESARROLLADO UN PROCESO DE CONSULTA PREVIA, LIBRE E INFORMADA, EMITIRÁ OPORTUNAMENTE, LOS LINEAMIENTOS QUE DE MANERA ENUNCIATIVA SERVIRÁN PARA CALIFICAR LA ADSCRIPCIÓN INDÍGENA, A EFECTO DE QUE LAS AUTORIDADES COMUNITARIAS Y MUNICIPALES, Y LOS INTERESADOS, PUEDAN CONOCERLOS Y ACREDITARLOS FEHACIENTEMENTE.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
-
-Artículo 295 p. Para garantizar que los espacios de candidaturas indígenas, sean ocupados por miembros de las comunidades indígenas, se requiere la autoadscripción indígena calificada.
-
-El Instituto Estatal Electoral emitirá oportunamente, los lineamientos que de manera enunciativa servirán para calificar la adscripción indígena, a efecto de que las autoridades comunitarias y municipales, y los interesados, puedan conocerlos y acreditarlos fehacientemente.
 
 El Instituto Estatal Electoral vigilará que bajo ninguna circunstancia sean negadas las constancias o instrumentos que acrediten la adscripción indígena, por razones de género, ideología política, preferencias sexuales o creencias religiosas.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+Artículo 295 q. Los partidos políticos y el Instituto Estatal Electoral, deberán garantizarla (sic) paridad horizontal, vertical y sustantiva en la postulación de candidaturas indígenas.
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+Artículo 295 r. EN CASO DE QUE LAS AUTORIDADES COMUNITARIAS O MUNICIPALES, SE NIEGUEN AEXPEDIR (SIC) SIN CAUSA FUNDADA, EL INSTRUMENTO QUE ACREDITE LA ADSCRIPCIÓN O LA PERTENENCIA COMUNITARIA INDÍGENA DEL SOLICITANTE, TAL NEGATIVA PODRÁ SER IMPUGNADA ANTE EL TRIBUNAL ELECTORAL DEL ESTADO DE HIDALGO.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
-
-Artículo 295 q. Los partidos políticos y los pueblos y comunidades indígenas deberán garantizar la paridad horizontal, vertical y sustantiva en la postulación de candidaturas indígenas.
-
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
-
-Artículo 295 r. En el caso de que las autoridades comunitarias o municipales, se nieguen a expedir sin causa fundada, el instrumento que acredite la adscripción o el vínculo comunitario indígena del solicitante, tal negativa podrá ser impugnada ante el Tribunal Electoral del Estado de Hidalgo.
 
 El Tribunal Electoral del Estado de Hidalgo atenderá las razones de ambas partes, con el objeto de conformar una visión integral de la problemática, y en caso de encontrar razones jurídicas suficientes, podrá ordenar al delegado, asamblea, o autoridad comunitaria del municipio, que expida la constancia respectiva, en caso de persistir la negativa, una vez que el Tribunal Electoral del Estado de Hidalgo tenga conocimiento, de oficio, se abrirá el incidente de inejecución de sentencia, y se ordenará al Ayuntamiento respectivo, la expedición supletoria de la constancia al interesado.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-Artículo 295 s. Las convocatorias, acuerdos y resoluciones del Instituto Estatal Electoral que tengan relación directa con la preparación, desarrollo y calificación de procesos electorales relacionados con sistemas normativos internos deberán ser emitidas en las lenguas indígenas de referencia y difundidas por medios preferentemente audiovisuales en las comunidades respectivas.
+Artículo 295 s. Las convocatorias, acuerdos y resoluciones del Instituto Estatal Electoral que tengan relación directa con la preparación, desarrollo y calificación de procesos electorales que tengan relación directa con la preparación, desarrollo y calificación de procesos electorales en general, serán emitidas en lenguas indígenas de referencia y difundidas por medios preferentemente audiovisuales en las comunidades respectivas.
 
-El Instituto Estatal Electoral y el Tribunal Electoral del Estado de Hidalgo deberán celebrar convenios de colaboración con las instituciones competentes, a afecto de contar oportunamente con intérpretes calificados para la traducción de convocatorias, acuerdos y resoluciones que tengan relación directa con elección de candidaturas indígenas.
+El Instituto Estatal Electoral y el Tribunal Electoral del Estado de Hidalgo deberán celebrar convenios de colaboración con las instituciones competentes, a afecto de contar oportunamente con intérpretes calificados para la traducción de convocatorias, acuerdos y resoluciones que tengan relación directa con la elección de candidaturas indígenas.
 
 (NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -4573,11 +5027,11 @@ El Instituto Estatal Electoral y el Tribunal Electoral del Estado de Hidalgo deb
 
 Artículo 295 t. Los sitios electrónicos del Instituto Estatal Electoral y del Tribunal Electoral del Estado de Hidalgo deberán contar con un sitio alterno dentro de la página principal en donde se den a conocer de manera escrita y audiovisual la información más relevante para que los pueblos y comunidades indígenas puedan conocerla en su lengua.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-Artículo 295 u. Para fomentar la cultura de la legalidad, el Instituto Estatal Electoral y el Tribunal Electoral del Estado de Hidalgo deberán calendarizar cursos y talleres de difusión de los derechos político-electorales y su defensa, en las comunidades y pueblos indígenas, procurando que sean impartidos o traducidos a su lengua.
+Artículo 295 u. Para fomentar la cultura de la legalidad, el Instituto Estatal Electoral y el Tribunal Electoral del Estado de Hidalgo deberán calendarizar cursos y talleres de difusiónde (sic) los derechos político-electorales y su defensa, tanto en el régimen de partidos políticos como en el de sistemas normativos internos, en las comunidades y pueblosindígenas (sic), procurando que sean impartidos o traducidos a su lengua.
 
 (NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA EL APARTADO F DEL TÍTULO X BIS DE ESTE ORDENAMIENTO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -4587,37 +5041,63 @@ APARTADO F
 
 DE LA REPRESENTATIVIDAD INDÍGENA EN LOS PODERES LEGISLATIVO Y EJECUTIVO
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-Artículo 295 v. Los partidos políticos postularán únicamente candidatas y candidatos indígenas, propietarios y suplentes, en aquellos distritos electorales que sean calificados como indígenas por el Consejo General del Instituto Estatal Electoral.
+Artículo 295 v. Los partidos políticos postularán únicamente candidatas y candidatos indígenas, propietarios y suplentes, en aquellos distritos electorales quesean (sic) calificados como indígenas por el Instituto Nacional Electoral. Asimismo, los partidos políticos podrán postular cuando menos una fórmula completa de candidaturas indígenas a diputaciones por el principio de representación proporcional en los primeros cinco lugares de su lista A. apegándose a los lineamientos del Instituto Estatal Electoral de Hidalgo.
 
-Asimismo, los partidos políticos deberán postular cuando menos una fórmula de candidatos indígenas a diputados por el principio de representación proporcional en los primeros cinco lugares de su lista A.
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+Artículo 295 w. Serán considerados distritos electorales indígenas, las demarcaciones electorales que así hayan sido determinados por el Instituto Nacional Electoral, en los que deberá garantizarse la paridad de género.
 
-Artículo 295 w. Serán considerados distritos electorales indígenas, las demarcaciones electorales que superen el 60% de población que se auto adscribe como indígena con base en los datos que el Instituto Nacional de Estadística y Geografía proporcione 120 días previos al inicio del proceso electoral.
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-Para la conformación de los distritos electorales indígenas se tomarán en cuenta, la viabilidad de las vías de comunicación; además de la población, la lengua y la continuidad territorial.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-En ningún caso, los distritos electorales indígenas podrán ser inferiores a tres distritos.
+Artículo 295 x. La ciudadanía perteneciente a comunidades indígenas que desee ejercer sus derechos político-electorales dentro del sistema de partidos políticos, podrá participar mediante candidaturas independientes indígenas para contender por la gubernatura, diputaciones y ayuntamientos, bajo criterios de pertinencia cultural y un procedimiento flexible con base en las disposiciones previstas por el Título Décimode (sic) Libro Primero de este Código. En los municipios con presencia de población indígena y afromexicana autoadscrita que supere el 80% de la población total, la persona que encabece la planilla al ayuntamiento podrá pertenecer a alguna comunidad indígena o afromexicana.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+La persona indígena que desee ser postulada a una candidatura independiente, deberá cumplir con los requisitos de elegibilidad previstos en la (sic) constituciones federal y local, así como acreditar la pertenencia indígena calificada.Las (sic) personas que se postulen como candidatas indígenas y se lescompruebe (sic) la usurpación de dicha identidad se les negará o revocará el registro.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+La convocatoria para postulación de candidaturas independientes indígenas, será la misma que se emita para las candidaturas independientes, considerando los mismos plazos para las etapas, con las particularidades siguientes:
 
-Artículo 295 x. Los pueblos y comunidades indígenas de Hidalgo podrán solicitar el registro de candidato a Gobernador, siempre y cuando cumplan con los siguientes requisitos:
+Sin perjuicio de la implementación de criterios que sean culturalmente adecuados y asequibles para la población indígena, el ejercicio de esta forma de participación político-electoral, se hará de la manera siguiente:
 
-I.- Que se solicite por el 70% de las autoridades comunitarias indígenas que integran el total del Catálogo de comunidades vigente a la fecha del registro, para lo cual se anexarán las actas de cada una de las asambleas comunitarias, en donde se establezca con claridad la voluntad de postular al candidato o candidata respectivo;
+I. Cuando se trate de una postulación individual indígena:
 
-II.- El candidato o candidata deberá reunir los requisitos de elegibilidad que dispone el artículo 63 de la Constitución Política del Estado de Hidalgo; y
+a. El manifiesto de intención deberá cumplir los requisitos establecidos por el artículo 224 del presente Código.
 
-III.- El candidato o candidata preferentemente deberá hablar alguna de las lenguas que prevalezcan en la entidad; conocer y respetar la cultura de los pueblos y comunidades indígenas, y se sujetará en lo conducente, a las disposiciones que en materia de prerrogativas, de fiscalización y de propaganda electoral que rigen para la candidatura independiente.
+b. El apoyo ciudadano requerido será de una cantidad de ciudadanía equivalente al3 (sic) por ciento del total de personas indígenas autoadscritas en el Estado, el distrito o municipio según el caso, de conformidad con el último porcentaje de población indígena y afromexicana publicados por el INEGI y, estar integrada por elnúmero (sic) de electores de la mitad de municipios en el estado que cuenten con comunidades indígenas dentro del Catálogo de Comunidades Indígenas de la Ley de Derechos y Cultura indígena o, la mitad de las secciones electorales distritales omunicipales (sic) de que se trate, que representen cuando menos el 1.5 por ciento de la ciudadanía que figure en la lista nominal de electores en cada ámbito a representar.La (sic) ciudadanía que brinde el apoyo ciudadano, deberá ser persona indígena autoadscrita.
 
-Para la acreditación de lo solicitado en el párrafo anterior se hará con escrito bajo protesta de decir verdad.
+II. Cuando se trate de una postulación colectiva indígena:
+
+a. El manifiesto de intención deberá cumplir los requisitos establecidos por el artículo 224 del presente Código.
+
+b. El apoyo ciudadano requerido será de una cantidad equivalente al 3 por ciento del total decomunidades (sic) indígenas en el Estado, el distrito o municipio según el caso, dentro del Catálogo de Comunidades Indígenas de la Ley de Derechos y Cultura indígena.
+
+Las Asambleas Generales Comunitarias para la postulación de candidaturas independientes relativas a las comunidades, pueblos indígenas, yasea (sic) para gubernatura del Estado, diputaciones por el principio de mayoría relativa o ayuntamientos, se realizarán a partir del día siguiente en quedé (sic) inicio el periodo para recabar el apoyo ciudadano para las candidaturas independientes y hasta la conclusión del mismo.
+
+c. Dichas asambleas deberán desarrollarse conforme al sistema normativo indígenade (sic) la comunidad o pueblo que le postula. La documentación de realización deberá contener al menos lo siguiente:
+
+1. El nombre del pueblo o comunidad indígena que postula o avala;
+
+2. La candidatura para la que se le postula;
+
+3. Convocatoria de asamblea que de manera expresa señale en los asuntos a tratar, la postulación de la candidatura indígena que se trate;
+
+4. Narración del desarrollo de la asamblea que contenga:
+
+a. La mención precisa del reconocimiento de la persona como integrante o como persona conocida de su comunidad, de conformidad con su sistema normativo indígena;
+
+b. La manifestación expresa de la motivación por la que se avala la postulación de la candidatura independiente indígena;
+
+5. Lugar fecha y hora de la celebración de la asamblea;
+
+6. Firmas autógrafas de las personas que asistieron a la asamblea general, y
+
+7. Firma y sello de las autoridades tradicionales que presidieron la asamblea.
 
 (NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -4645,7 +5125,9 @@ El candidato o candidata podrá nombrar a sus representantes ante los órganos e
 
 El Consejo General del Instituto Estatal Electoral organizará obligatoriamente tres debates entre las candidatas y/o candidatos a la Gubernatura.
 
-A través de los consejos distritales electorales organizará obligatoriamente un debate entre las candidatas y/o candidatos a las diputaciones locales; así también, a través de los consejos municipales electorales organizará obligatoriamente la celebración de un debate entre las candidatas y/o candidatos a las Presidencias Municipales de la entidad.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+A través de los Consejos Distritales electorales organizará obligatoriamente un debate entre las candidaturas a diputaciones locales, así como entre las candidaturas a Presidencias Municipales de la entidad.
 
 Para la realización de los debates, el Consejo General definirá las reglas, fechas y sedes, dando prioridad a que se realicen en el distrito o municipio correspondiente, a menos que existan impedimentos técnicos, respetando el principio de equidad entre las candidatas y/o candidatos con el apoyo de los órganos electorales desconcentrados, procurando que estos se lleven a cabo bajo las condiciones más óptimas que permitan cumplir con el principio de máxima publicidad.
 
@@ -4713,6 +5195,10 @@ XI. Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier r
 
 XII. Los demás sujetos obligados en los términos del presente Código.
 
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+Los sujetos enunciados en las fracciones I, IV, V, VI y X, tendrán responsabilidad por las infracciones cometidas a las disposiciones contenidas en la Ley de Revocación de Mandato del Estado de Hidalgo.
+
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2020)</small>
 
 299 Bis. (SIC) Cuando alguno de los sujetos señalados en este capítulo sea responsable de las conductas relacionadas por violencia política contra las mujeres en razón de género, contenidas en el artículo 3 Ter, 299 Ter, así como en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Hidalgo, será sancionado en términos de lo dispuesto en este Título según corresponda.
@@ -4737,6 +5223,14 @@ V.- Obstaculizar la precampaña o campaña política de las mujeres, impidiendo 
 
 VI.- Cualquier otra acción que lesione o dañe la dignidad, integridad o libertad de las mujeres en el ejercicio de sus derechos políticos y electorales.
 
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+###### Artículo 299 Quater.
+
+Cuando las quejas o denuncias por violencia política contra lasmujeres (sic) en razón de género, sean contra una mujer en situación de vulnerabilidad, la sustanciación deberá realizarse con perspectiva intercultural, de género, de discapacidad y de derechos humanos, a fin de garantizar la protección más ampliade (sic) derechos según el caso particular.
+
 ### CAPÍTULO II. CONDUCTAS SANCIONABLES
 
 ###### Artículo 300.
@@ -4759,11 +5253,25 @@ VIII (SIC). El incumplimiento de las obligaciones establecidas por el presente C
 
 IX. El incumplimiento de las reglas establecidas para el manejo y comprobación de sus recursos o para la entrega de la información sobre el origen, monto y destino de los mismos;
 
-> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-IX BIS. El incumplimiento de sus obligaciones en materia de prevención y atención de violencia política en razón de género en los términos de este Código; y
+IX BIS. El incumplimiento de sus obligaciones en materia de prevención y atención de violencia política en razón de género en los términos de este Código;
 
-X. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por el Instituto Estatal Electoral; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+X. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por el Instituto Estatal Electoral;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+X BIS. Impedir u obstruir las actividades de recopilación de las firmas de apoyo de las ciudadanas y ciudadanos en el proceso de revocación de mandato;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+X TER. Usar recursos públicos para la obtención de firmas de apoyo de las ciudadanas y ciudadanos, así como con fines de promoción y propaganda en el proceso de revocación de mandato;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+X QUATER. El incumplimiento de las obligaciones establecidas en la Ley de Revocación de Mandato del Estado de Hidalgo, y
 
 XI. La comisión de cualquier otra falta de las previstas en este Código.
 
@@ -4841,9 +5349,33 @@ I bis. Realizar actos u omisiones que constituyan violencia política en razón 
 
 II. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
 
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+###### Artículo 304 Bis.
+
+Son infracciones de las personas ciudadanas, dirigentes y afiliadas a partidos políticos, o en su caso de cualquier persona física o moral, a la Ley de Revocación de Mandato del Estado de Hidalgo:
+
+I. Impedir u obstruir las actividades de recopilación de las firmas de apoyo de las ciudadanas y ciudadanos en el proceso de revocación de mandato;
+
+II. Usar recursos públicos para la obtención de firmas de apoyo de las ciudadanas y ciudadanos, así como con fines de promoción y propaganda en el proceso de revocación de mandato, y
+
+III. El incumplimiento de las obligaciones establecidas en la Ley de Revocación de Mandato del Estado de Hidalgo.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 305.
 
-Son infracciones de los observadores y de las organizaciones de observadores electorales, según sea el caso, el incumplimiento de las obligaciones establecidas en este Código.
+Son infracciones de las y los observadores y de las organizaciones de observadores electorales, según sea el caso, el incumplimiento de las obligaciones establecidas en este Código.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 22 DE AGOSTO DE 2023)</small>
+
+Además de lo establecido en el párrafo anterior, son infracciones de las y los observadores electorales, así como de las organizaciones de observadores electorales, a la Ley de Revocación de Mandato del Estado de Hidalgo, las siguientes:
+
+I. Impedir u obstruir las actividades de recopilación de las firmas de apoyo de las ciudadanas y ciudadanos en el proceso de revocación de mandato;
+
+II. Usar recursos públicos para la obtención de firmas de apoyo de las ciudadanas y ciudadanos, así como con fines de promoción y propaganda en el proceso de revocación de mandato, y
+
+III. El incumplimiento de las obligaciones establecidas en la Ley de Revocación de Mandato del Estado de Hidalgo.
 
 ###### Artículo 306.
 
@@ -4853,13 +5385,31 @@ I. La omisión o el incumplimiento de la obligación de prestar colaboración y 
 
 II. La difusión, por cualquier medio, de propaganda gubernamental dentro del periodo que comprende desde el inicio de las campañas electorales hasta el día de la jornada electoral, con excepción de la información relativa a servicios educativos y de salud, o la necesaria para la protección civil en casos de emergencia;
 
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+II Bis. La difusión, por cualquier medio, de propaganda gubernamental durante el tiempo que comprende el proceso de revocación de mandato, desde la emisión de la Convocatoria y hasta la conclusión de la jornada de votación, con excepción de la información relativa a servicios educativos y de salud, o la necesaria para la protección civil.
+
 III. El incumplimiento del principio de imparcialidad establecido por el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, cuando tal conducta afecte la equidad de la competencia entre los partidos políticos, entre los aspirantes, precandidatos o candidatos durante los procesos electorales;
 
-IV. La utilización de programas sociales y de sus recursos, del ámbito estatal o municipal, con la finalidad de inducir o coaccionar a los ciudadanos para votar a favor o en contra de cualquier partido político o candidato; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2020)</small>
+IV. La utilización de programas sociales y de sus recursos, del ámbito estatal o municipal, con la finalidad de inducir o coaccionar a los ciudadanos para votar a favor o en contra de cualquier partido político o candidato;
 
-IV Bis. Menoscabar, limitar o impedir el ejercicio de derechos políticos electorales de las mujeres o incurrir en una acción u omisión que constituya violencia política contra las mujeres en razón de género en términos de este Código y de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Hidalgo; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+IV Bis. Menoscabar, limitar o impedir el ejercicio de derechos políticos electorales de las mujeres o incurrir en una acción u omisión que constituya violencia política contra las mujeres en razón de género en términos de este Código y de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+IV Ter. Impedir u obstruir las actividades de recopilación de las firmas de apoyo de las ciudadanas y ciudadanos en el proceso de revocación de mandato;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+IV Quater. Usar recursos públicos para la obtención de firmas de apoyo de las ciudadanas y ciudadanos, así como con fines de promoción y propaganda en el proceso de revocación de mandato;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+IV Quinquies. El incumplimiento de las obligaciones establecidas en (sic) Ley de Revocación de Mandato del Estado de Hidalgo, y
 
 V. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
 
@@ -4889,9 +5439,25 @@ IV. El incumplimiento, en lo conducente, de cualquiera de las disposiciones cont
 
 Son infracciones de las organizaciones sindicales, laborales o patronales, o de cualquier otra agrupación con objeto social diferente a la creación de partidos políticos, así como de sus integrantes o dirigentes, cuando actúen o se ostenten con tal carácter, o cuando dispongan de los recursos patrimoniales de su organización, al presente Código:
 
-I. Intervenir en la creación y registro de un partido político o en actos de afiliación colectiva a los mismos; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-II. La transgresión, en lo conducente, de cualquiera de las disposiciones contenidas en este Código.
+I. Intervenir en la creación y registro de un partido político o en actos de afiliación colectiva a los mismos;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+II. La transgresión, en lo conducente, de cualquiera de las disposiciones contenidas en este Código;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+III. Impedir u obstruir las actividades de recopilación de las firmas de apoyo de las ciudadanas y ciudadanos en el proceso de revocación de mandato;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+IV. Usar recursos públicos para la obtención de firmas de apoyo de las ciudadanas y ciudadanos, así como con fines de promoción y propaganda en el proceso de revocación de mandato, y
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+V. El incumplimiento de las obligaciones establecidas en la Ley de Revocación de Mandato del Estado de Hidalgo.
 
 ###### Artículo 311.
 
@@ -4917,13 +5483,13 @@ a) Con amonestación pública;
 
 b) Con multa de cincuenta hasta mil veces la Unidad de Medida y Actualización, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes o militantes, o de los candidatos para sus propias campañas, además de la multa, se aplicará un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+c) Según la gravedad de la falta con la reducción de hasta el veinticinco por ciento de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución. Tratándose de infracciones relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, según la gravedad de la falta, podrá sancionarse con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución; y
+
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2020)</small>
 
-I. (SIC) Según la gravedad de la falta con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución. Tratándose de infracciones relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, según la gravedad de la falta, podrá sancionarse con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución; e
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2020)</small>
-
-II. En los casos de graves y reiteradas conductas violatorias de la Constitución Local y de este Código, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, así como las relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, con la cancelación de su registro como partido político local.
+II (SIC). En los casos de graves y reiteradas conductas violatorias de la Constitución Local y de este Código, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, así como las relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, con la cancelación de su registro como partido político local.
 
 II. Respecto de las agrupaciones políticas:
 
@@ -5109,7 +5675,9 @@ I. El Consejo General; y
 
 II. La Secretaría Ejecutiva, por conducto de su Titular.
 
-Los consejos distritales y municipales, en sus respectivos ámbitos de competencia, fungirán como órganos auxiliares, para la tramitación de los procedimientos sancionadores.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+Los Consejos Distritales fungirán como órganos auxiliares, para la tramitación de los procedimientos sancionadores.
 
 ###### Artículo 321.
 
@@ -5341,17 +5909,25 @@ La sanción que en su caso se imponga, deberá de valorar el grado de frivolidad
 
 ### CAPÍTULO III. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 337.
 
-Dentro de los procesos electorales, la Secretaría Ejecutiva, instruirá el procedimiento especial establecido por el presente Capítulo, cuando se denuncie la comisión de conductas que:
+Dentro de los procesos electorales y de revocación de mandato, la Secretaría Ejecutiva, instruirá el procedimiento especial establecido por el presente Capítulo, cuando se denuncie la comisión de conductas que:
 
 I. Violen lo establecido en el octavo párrafo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos en medios distintos a radio y televisión;
 
-> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE AGOSTO DE 2023)</small>
 
-II. Contravengan las normas sobre propaganda política o electoral; incluida la difusión (sic) expresiones que constituyan violencia política en razón de género; y
+II. Contravengan las normas sobre propaganda política o electoral; incluida la difusión de expresiones que constituyan violencia política en razón de género;
 
-III. Constituyan actos anticipados de precampaña, campaña o del procedimiento para la obtención del voto ciudadano en el caso de los aspirantes a Candidatos Independientes.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE AGOSTO DE 2023)</small>
+
+III. Constituyan actos anticipados de precampaña, campaña o del procedimiento para la obtención del voto ciudadano en el caso de los aspirantes a Candidatos Independientes, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE AGOSTO DE 2023)</small>
+
+IV. Infrinjan las disposiciones contenidas en la Ley de Revocación de Mandato del Estado de Hidalgo.
 
 ###### Artículo 338.
 
@@ -5809,9 +6385,11 @@ Los juicios de inconformidad, en su totalidad, serán resueltos por el Pleno del
 
 ### CAPÍTULO XII. DE LAS NOTIFICACIONES
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 372.
 
-Todos los actos y resoluciones que emitan el Tribunal Electoral y el Consejo General del Instituto Estatal Electoral, deberán notificarse a más tardar el día siguiente de aquél en que se dicten y surtirán sus efectos legales a partir del día siguiente en que se practiquen.
+Todos los actos y resoluciones que emitan el Tribunal Electoral y el Consejo General del Instituto Estatal Electoral, deberán notificarse dentro de los tres días hábiles siguientes de aquél en que se dicten y surtirán sus efectos legales a partir del día siguiente en que se practiquen.
 
 ###### Artículo 373.
 
@@ -5831,9 +6409,23 @@ Todos los promoventes, en el primer escrito, podrán designar domicilio para oí
 
 Las notificaciones podrán ser personales, por estrados mediante cédula, instructivo, por oficio o por correo electrónico, cuando los interesados así lo soliciten.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 376.
 
-Las notificaciones personales se realizarán en aquellos casos en que expresamente lo establezca el presente Código.
+Las notificaciones se realizarán de forma personal, en los siguientes casos:
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+a) Cuando se trate de la primera notificación a alguna de las partes, y
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+b) Cuando el acto entrañe una citación o plazo para la práctica de una diligencia o ejercicio de algún derecho; al menos con tres días hábiles de anticipación a la fecha y hora en que se celebrará la diligencia o deberá ejercerse el derecho.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+Las demás se harán por cédula que se fijará en los estrados del Instituto o del órgano que emita la resolución de que se trate.
 
 La cédula de notificación personal deberá contener:
 
@@ -5949,7 +6541,9 @@ IV. Se haya impedido el acceso a la casilla de los Representantes de los partido
 
 V. Se realice el escrutinio y cómputo en local diferente al señalado en la Publicación definitiva de casillas;
 
-VI. Sean entregados el paquete y sobre electoral, al Consejo Municipal o Distrital Electoral fuera de los plazos que este Código establece;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+VI. Sean entregados el paquete y sobre electoral al Consejo Distrital Electoral fuera de los plazos que este Código establece;
 
 VII. Se reciba la votación en fecha distinta a la señalada para la celebración de la elección;
 
@@ -6045,11 +6639,21 @@ Las elecciones que en las etapas de resultados, declaración de validez o, en su
 
 El Recurso de Revisión procede en los siguientes casos:
 
-I. Durante un Proceso Electoral, exclusivamente en la etapa de preparación de la elección, el recurso de revisión procederá para impugnar los actos o resoluciones que causen un perjuicio a quien teniendo interés jurídico lo promueva, y que provengan de los Consejos Distritales y Consejos Municipales Electorales;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-II. En la etapa de resultados y declaraciones de validez de las elecciones, los actos o resoluciones de los Consejos Distritales y Consejos Municipales Electorales que causen un perjuicio real al interés jurídico del partido político o coalición recurrente, cuya naturaleza sea diversa a los que puedan recurrirse por la vía del juicio de inconformidad, y que no guarden relación con el proceso electoral y los resultados del mismo; y
+I. Durante un Proceso Electoral, exclusivamente en la etapa de preparación de la elección, el recurso de revisión procederá para impugnar los actos o resoluciones que causen perjuicio a quien teniendo interés jurídico lo promueva, y que provengan de los Consejos Distritales Electorales;
 
-III. Los actos o resoluciones dictados por la Junta Estatal Ejecutiva, los Consejos Distritales y Consejos Municipales Electorales, que no tengan recurso específico para su impugnación.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+II. En la etapa de resultados y declaraciones de validez de las elecciones, los actos o resoluciones de los Consejos Distritales Electorales que causen perjuicio real a quien promueve, cuya naturaleza sea diversa a los que puedan recurrirse por la vía del juicio de inconformidad, y que no guarden relación con el proceso electoral y los resultados del mismo; y
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+III. Los actos o resoluciones dictados por la Junta Estatal Ejecutiva o por los Consejos Distritales Electorales, que no tengan recurso específico para su impugnación.
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+IV. Durante la etapa de petición, la fase previa y de inicio del proceso de revocación de mandato, para impugnar los actos, omisiones o resoluciones del Instituto Estatal Electoral cuando causen agravio directo a las personas ciudadanas que hayan realizado la solicitud de inicio de proceso de revocación de mandato.
 
 ### CAPÍTULO II. DE LA COMPETENCIA
 
@@ -6062,6 +6666,10 @@ Es competente para substanciarlo y resolverlo el Consejo General del Instituto E
 ###### Artículo 394.
 
 Están legitimados para promoverlo los partidos políticos y coaliciones, a través de sus Representantes debidamente acreditados ante el órgano competente.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+Tratándose del proceso de revocación de mandato, podrán interponerlo las personas ciudadanas que hayan realizado la solicitud de inicio del proceso de revocación de mandato, por su propio derecho, sin que sea admisible representación alguna.
 
 ### CAPÍTULO IV. DE LA RADICACIÓN Y SUSTANCIACIÓN
 
@@ -6125,9 +6733,17 @@ Será competente para sustanciarlo y resolverlo el Pleno del Tribunal Electoral.
 
 Están legitimados para interponer este recurso:
 
-I. Los partidos políticos, coaliciones o asociaciones políticas con registro, a través de sus representantes legítimos; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-II. Los ciudadanos, por su propio derecho, sin que sea admisible representación alguna, únicamente en los casos previstos por este Código.
+I. Los partidos políticos, coaliciones o asociaciones políticas con registro, a través de sus representantes legítimos;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+II. Los ciudadanos, por su propio derecho, sin que sea admisible representación alguna, únicamente en los casos previstos por este Código, y
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+III. Las personas ciudadanas que hayan realizado la solicitud de inicio del proceso de revocación de mandato, por su propio derecho, sin que sea admisible representación alguna.
 
 ### CAPÍTULO IV. DE LA SUSTANCIACIÓN
 
@@ -6211,9 +6827,21 @@ II. Hacer valer las causas de nulidad de la votación recibida en una o varias c
 
 III. Hacer valer las causas de nulidad de las elecciones previstas en este Código;
 
-IV. Impugnar los resultados consignados en las actas de cómputo distrital en la elección de Diputados de mayoría relativa, en las actas de cómputo distrital y estatal en la elección de Gobernador, el acta de cómputo municipal en la elección de Ayuntamientos; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
 
-V. Impugnar la declaración de validez de la elección y, consecuentemente, el otorgamiento de la constancia de mayoría.
+IV. Impugnar los resultados consignados en las actas de cómputo distrital en la elección de Diputados de mayoría relativa, en las actas de cómputo distrital y estatal en la elección de Gobernador, el acta de cómputo municipal en la elección de Ayuntamientos;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+V. Impugnar la declaración de validez de la elección y, consecuentemente, el otorgamiento de la constancia de mayoría;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+VI. Impugnar los resultados de las actas de cómputo del proceso de revocación de mandato, y
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+VII. Impugnar la declaratoria de validez del proceso de revocación de mandato, emitida por el Instituto Estatal Electoral.
 
 ###### Artículo 418.
 
@@ -6227,9 +6855,11 @@ Deberán exhibirse por los Representantes de los partidos políticos acreditados
 
 El Presidente o el Secretario de la Mesa Directiva de Casilla o del Consejo respectivo deberán recibir los escritos de protesta que les presenten, firmando de recibido al calce de los mismos, entregando al promovente el acuse de recibo correspondiente.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 421.
 
-Los escritos de protesta recibidos en la casilla serán enviados en el sobre electoral al Consejo Distrital o Municipal que corresponda, quien deberá integrarlos junto con los recibidos por éste al expediente del juicio de inconformidad que, en su caso, se haya interpuesto y con el que estén relacionados, debiendo remitir todos los que haya recibido, aún cuando no hubiese recepcionado juicio de inconformidad alguno, bajo su estricta responsabilidad al Tribunal Electoral en los plazos establecidos, para su debida sustanciación y resolución.
+Los escritos de protesta recibidos en la casilla serán enviados en el sobre electoral al Consejo Distrital que corresponda, quien deberá integrarlos junto con los recibidos por éste al expediente del juicio de inconformidad que, en su caso, se haya interpuesto y con el que estén relacionados, debiendo remitir todos los que haya recibido, aun cuando no hubiese recibido juicio de inconformidad alguno, bajo su estricta responsabilidad al Tribunal Electoral en los plazos establecidos, para su debida sustanciación y resolución.
 
 ### CAPÍTULO II. DE LA COMPETENCIA
 
@@ -6239,11 +6869,17 @@ Será competente para sustanciarlo y resolverlo, el Pleno del Tribunal Electoral
 
 ### CAPÍTULO III. DE LA LEGITIMACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 423.
 
-En la elección de Diputados o Ayuntamientos se encuentran legitimados para interponerlo los partidos políticos, a través de sus Representantes debidamente acreditados ante los Consejos Distritales o Municipales, según la elección que se impugne.
+En la elección de Diputaciones o Ayuntamientos se encuentran legitimados para interponerlo los partidos políticos, a través de sus representantes debidamente acreditados ante los Consejos Distritales.
 
 Tratándose de la elección para Gobernador podrá interponerlo el Representante acreditado ante el Consejo Distrital respectivo o el Consejo General, según el cómputo que se impugne.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+En el proceso de revocación de mandato podrá interponerlo la persona Titular del Poder Ejecutivo del Estado, así como las personas ciudadanas que hayan realizado la solicitud de inicio del proceso de revocación de mandato, por su propio derecho, sin que sea admisible representación alguna.
 
 ### CAPÍTULO IV. DE LA SUSTANCIACIÓN
 
@@ -6259,9 +6895,11 @@ III. El señalamiento del error aritmético, cuando por este motivo se impugnen 
 
 IV. La conexidad, en su caso, que guarde el juicio con otras impugnaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 425.
 
-El juicio deberá interponerse ante el Consejo General, Distrital o Municipal, según el cómputo que se impugne.
+El juicio deberá interponerse ante el Consejo General o Distrital, según el cómputo que se impugne.
 
 El Consejo respectivo inmediatamente, notificará de manera personal a los partidos políticos acreditados sobre la interposición del juicio y de las pruebas exhibidas, para que dentro del plazo de tres días comparezcan ante el Tribunal Electoral, a deducir lo que a su derecho convenga.
 
@@ -6335,15 +6973,33 @@ El juicio para la protección de los derechos político-electorales, sólo proce
 
 I. Votar y ser votado en las elecciones populares locales;
 
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+I Bis. Votar en los procesos de revocación de mandato;
+
 II. Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos locales;
 
 III. Afiliarse libre e individualmente a los partidos políticos locales;
 
 IV. Impugne actos o resoluciones que afecten su derecho de ocupar y desempeñar el cargo de elección popular encomendado por la ciudadanía;
 
-V. Impugne actos o resoluciones relacionados con la elección, designación, acceso al cargo o permanencia de dirigencias de órganos estatales de los partidos políticos; y
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-VI. Impugne actos o resoluciones que violenten su derecho para integrar las autoridades de participación ciudadana en la entidad.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+V. IMPUGNE ACTOS O RESOLUCIONES RELACIONADOS CON LA ELECCIÓN, DESIGNACIÓN, ACCESO AL CARGOO (SIC) PERMANENCIA DE DIRIGENCIAS DE ÓRGANOS ESTATALES DE LOS PARTIDOS POLÍTICOS;
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+VI. IMPUGNE ACTOS O RESOLUCIONES QUE VIOLENTEN SU DERECHO PARA INTEGRAR LAS AUTORIDADES DE PARTICIPACIÓN CIUDADANA EN LA ENTIDAD, Y
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+VII. IMPUGNE ACTOS, OMISIONES O RESOLUCIONES DE CUALQUIER AUTORIDAD ESTATAL O MUNICIPAL, QUE VULNEREN CUALQUIER DERECHO POLÍTICO U OPORTUNIDAD DE PARTICIPACIÓN O DE ACCESO, EN CONDICIONES DE IGUALDAD, A LAS FUNCIONES PÚBLICAS, ASÍ COMO CUALQUIER FORMA DE LIMITACIÓN EN EL EJERCICIO DE LOS DIVERSOS INSTRUMENTOS O MECANISMOS DE PARTICIPACIÓN CIUDADANA PREVISTOS POR LAS LEYES ESTATALES.
 
 ###### Artículo 434.
 
@@ -6361,9 +7017,23 @@ II. Habiéndose asociado con otros ciudadanos para tomar parte en forma pacífic
 
 II Bis. RESIENTA O CONSIDERE LA EXISTENCIA DE CUALQUIER ACTO U OMISIÓN QUE CONSTITUYA VIOLENCIA POLÍTICA POR RAZONES DE GÉNERO, Y QUE TENGA POR OBJETO O RESULTADO LIMITAR, ANULAR O MENOSCABAR EL EFECTIVO EJERCICIO DE LOS DERECHOS POLÍTICO ELECTORAL;
 
-III. Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político - electorales. Lo anterior es aplicable a los precandidatos y candidatos a cargos de elección popular aún cuando no estén afiliados al partido señalado como responsable; y
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-IV. Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político-electorales a que se refiere el artículo anterior.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+III. CONSIDERE QUE LOS ACTOS O RESOLUCIONES DEL PARTIDO POLÍTICO AL QUE ESTÁ AFILIADO VIOLAN ALGUNO DE SUS DERECHOS POLÍTICO - ELECTORALES. LO ANTERIOR ES APLICABLE A LOS PRECANDIDATOSY (SIC) CANDIDATOS A CARGOS DE ELECCIÓN POPULAR AÚN Y CUANDO NO ESTÉN AFILIADOS AL PARTIDO SEÑALADO COMO RESPONSABLE;
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+IV. CONSIDERE QUE UN ACTO O RESOLUCIÓN DE LA AUTORIDAD ES VIOLATORIO DE CUALQUIER OTRO DE LOS DERECHOS POLÍTICO-ELECTORALES A QUE SE REFIERE EL ARTÍCULO ANTERIOR, Y
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2023)</small>
+
+V. CONSIDERE QUE SE VIOLÓ ALGÚN DERECHO POLÍTICO O PRINCIPIOS LEGALES QUE RIGEN LOS INSTRUMENTOS DE PARTICIPACIÓN CIUDADANA PREVISTOS EN EL ARTÍCULO 2º DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE HIDALGO.
 
 El juicio sólo será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas establezcan para tal efecto.
 
@@ -6564,3 +7234,63 @@ P.O. 19 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 519 POR EL QUE SE REFORMAN Y ADICIONAN DISTINTAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 572 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 573 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTIDÓS DE AGOSTO DE DOS MIL VEINTITRÉS, LA CUAL SURTIÓ EFECTOS EL DOCE DE DICIEMBRE DE DOS MIL VEINTITRÉS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+P.O. 22 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 573 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 574 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO Y DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
+
+TERCERO. Las personas candidatas electas en el proceso electoral 2023-2024, en el que se celebre la elección de Ayuntamientos, podrán ejercer el derecho a participar en la elección consecutiva al mismo cargo, en el proceso electoral 2026-2027, cuya elección se celebre el primer domingo de junio del año 2027.
+
+(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTIDÓS DE AGOSTO DE DOS MIL VEINTITRÉS, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+P.O. 22 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 576 POR EL QUE SE QUE (SIC) REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicaciónen (sic) el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan alpresente (sic) Decreto.
+
+P.O. 22 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 577 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
+
+P.O. 22 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 578 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
+
+TERCERO. Las presentes reformas, adiciones y derogaciones serán aplicables a partir del proceso electoral local 2023-2024 en el que se desarrollarán las elecciones de los Ayuntamientos en la entidad.
+
+P.O. 22 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 579 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
