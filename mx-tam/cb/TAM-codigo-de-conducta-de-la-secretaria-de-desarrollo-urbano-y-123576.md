@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-de-la-secretaria-de-desarrollo-urbano-y-1235
 country: "mx"
 rank: "codigo"
 publication_date: "2017-08-31"
-last_updated: "2017-08-31"
+last_updated: "2023-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE DESARROLLO URBANO Y MEDIO AMBIENTE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTO DE INTERÉS DE LA SECRETARÍA DE DESARROLLO URBANO Y MEDIO AMBIENTE DEL GOBIERNO DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. 22 DE AGOSTO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO URBANO Y MEDIO AMBIENTE DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2023 (ABROGADO).
 
 Código publicado en el Número 105 del Periódico Oficial del Estado de Tamaulipas, el jueves 31 de agosto de 2017.
 
@@ -221,3 +223,15 @@ GLOSARIO
 - Valor público: Valor creado por la institución a través de servicios otorgados al ciudadano.
 
 EL SECRETARIO DE DESARROLLO URBANO Y MEDIO AMBIENTE.- ING. GILBERTO ESTRELLA HERNÁNDEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTO DE INTERÉS DE LA SECRETARÍA DE DESARROLLO URBANO Y MEDIO AMBIENTE DEL GOBIERNO DEL ESTADO DE TAMAULIPAS”.]
+
+Artículo Primero. El presente Código de Conducta y Prevención de Conflictos de Interés de la Secretaría de Desarrollo Urbano y Medio Ambiente del Gobierno del Estado, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+Artículo Segundo. Se abroga el Código de Conducta de la Secretaría de Desarrollo Urbano y Medio Ambiente del Gobierno del Estado, publicado el Periódico Oficial del Estado Número 105, de fecha 31 de Agosto de 2017.
+
+Artículo Tercero. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
