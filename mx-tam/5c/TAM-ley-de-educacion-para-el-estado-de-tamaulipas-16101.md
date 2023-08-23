@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2023-06-13"
+last_updated: "2023-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY DE EDUCACION PARA EL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 23 DE AGOSTO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -2506,3 +2506,51 @@ P.O. 13 DE JUNIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 2023.
+
+> <small>[N. DE E. DECRETO NO. 65-624 MEDIANTE EL CUAL SE EXPIDE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Educación para el Estado de Tamaulipas, publicada en el Periódico Oficial anexo al número 85 de fecha 23 de octubre de 1999.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado y la Secretaría de Educación del Estado, en su caso, deberán emitir la normatividad necesaria para dar cumplimiento al presente Decreto en un plazo que no exceda de un año contado a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los trámites y procesos administrativos iniciados con anterioridad a la entrada en vigor del presente Decreto, deberán concluirse y ejecutarse, respectivamente, conforme las disposiciones vigentes antes de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Las autoridades correspondientes deberán respetar íntegramente los derechos de los trabajadores de la educación y reconocer la titularidad de las relaciones laborales colectivas existentes con el Sindicato Nacional de Trabajadores de la Educación, en los términos de su registro vigente, en los términos de las disposiciones legales correspondientes.
+
+###### ARTÍCULO SEXTO.
+
+Los derechos de los Trabajadores de la Educación adquiridos con anterioridad a la entrada en vigor del presente Decreto continuarán vigentes conforme a los reglamentos, acuerdos y demás disposiciones de carácter general en los cuales se hubieren fundado.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+
+###### ARTÍCULO OCTAVO.
+
+El Sistema Tamaulipeco de Formación Continua y Desarrollo Profesional Docente, previsto en el artículo 82 del presente Decreto deberá instalarse a los 90 días de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+En tanto se expiden los lineamientos previstos en el artículo 103 de la Ley General de Educación y se realicen las adecuaciones normativas aplicables, la instancia que realizará las actividades correspondientes en materia de infraestructura educativa señalada en el artículo 93 de la presente Ley, será el Instituto Tamaulipeco de Infraestructura Física Educativa.
+
+###### ARTÍCULO DÉCIMO.
+
+La Secretaría, propondrá al Consejo Estatal de Autoridades Educativas en la sesión inmediata que corresponda a la entrada en vigor del presente Decreto, los lineamientos para su operación y funcionamiento.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
