@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-sistema-estatal-anticorrupcion-de-tamaulipas-121783"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-02"
-last_updated: "2021-07-14"
+last_updated: "2023-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tamaulipas, el viernes 2 de junio de 2017.
 
@@ -283,11 +283,15 @@ a) Convocará a las instituciones de educación superior y de investigación, pa
 
 b) Convocará a organizaciones de la sociedad civil especializadas en materia de fiscalización, de rendición de cuentas y combate a la corrupción, para seleccionar a cuatro miembros, en los mismos términos del inciso anterior.
 
-Los objetivos a los que se ciñen los incisos a) y b) de esta fracción, se atenderán mediante la emisión de una sola convocatoria, emitida por la Junta de Coordinación Política. La convocatoria deberá publicarse en el Periódico Oficial del Estado, en dos diarios de circulación estatal, así como en la página de internet del Congreso.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2023)</small>
+
+Los objetivos a los que se ciñen los incisos a) y b) de esta fracción, se atenderán mediante la emisión de una sola convocatoria, emitida por la Junta de Gobierno. La convocatoria deberá publicarse en el Periódico Oficial del Estado, en dos diarios de circulación estatal, así como en la página de internet del Congreso.
 
 Las propuestas recibidas con base en la convocatoria de mérito, se turnarán a las comisiones competentes que determine el Presidente de la Mesa Directiva del Congreso, para analizar y determinar, mediante la verificación correspondiente, el cumplimiento de los elementos decisorios plasmados en la convocatoria, emitiendo el dictamen respectivo, el cual contendrá los nombres de quienes hayan acreditado dichos elementos, para que el Pleno Legislativo, por el voto de las dos terceras partes de sus miembros presentes, seleccione, mediante votación por cédula, de entre éstos, a los nueve integrantes de la Comisión de Selección.
 
-En caso de recibirse un número menor de propuestas al de los integrantes de la citada Comisión, al cerrarse la convocatoria, la Junta de Coordinación Política podrá formular propuestas dentro de los cinco días naturales siguientes.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2023)</small>
+
+En caso de recibirse un número menor de propuestas al de los integrantes de la citada Comisión, al cerrarse la convocatoria, la Junta de Gobierno podrá formular propuestas dentro de los cinco días naturales siguientes.
 
 El cargo de miembro de la Comisión de selección será honorario. Quienes funjan como miembros no podrán ser designados como integrantes del Comité Estatal de Participación Ciudadana por un periodo de seis años contados a partir de la disolución de la Comisión de selección.
 
@@ -736,3 +740,11 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-626 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS; DE LA LEY ESTATAL DE MEJORA REGULATORIA PARA TAMAULIPAS Y SUS MUNICIPIOS; DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO; DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
