@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-122201"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-15"
-last_updated: "2023-03-30"
+last_updated: "2023-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de junio de 2017.
 
@@ -3157,6 +3157,8 @@ La fórmula de expedición de decretos o acuerdos que contengan resoluciones rel
 
 ### CAPITULO PRIMERO. DEL INFORME DE GESTION GUBERNAMENTAL
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2023)</small>
+
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 229.
@@ -3349,31 +3351,47 @@ En relación con lo dispuesto en el artículo 82, fracción IV inciso c) de la C
 
 ###### Artículo 258.
 
-En los términos que dispone la fracción XXVII del artículo 98 de la Constitución Política del Estado, el Gobernador asistirá al recinto del Congreso a rendir informe anual que guarda la administración pública, así como el avance y cumplimiento del Plan Estatal de Desarrollo.
+En los términos que dispone el artículo 164 de la Constitución Política del Estado, el día primero de septiembre de cada año, día de la apertura del primer período ordinario de sesiones de cada año legislativo, la persona Titular del Poder Ejecutivo del Estado entregará al Congreso del Estado, el informe anual que guarda la administración pública, así como el avance y cumplimiento del Plan Estatal de Desarrollo.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 259.
 
-Según lo establece el artículo 164 de la Constitución, el día 1 de septiembre de cada año, al rendir su informe, el Gobernador del Estado escuchará los posicionamientos de las formas de organización parlamentaria y podrá responder los cuestionamientos que se le formulen.
+Previo a cada informe anual y en el término de siete días naturales previos al día primero de septiembre, día de la apertura del primer periodo ordinario de sesiones de cada año legislativo, la persona Titular del Poder Ejecutivo del Estado remitirá un ejemplar del documento que contenga su informe, por conducto de la Junta de Gobierno y Coordinación Política, quien deberá entregar copia del mismo a las diputadas y diputados.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 260.
 
-Estando presente el Gobernador del Estado, hará uso de la palabra un Diputado por cada una de las formas de organización parlamentaria y las representaciones partidistas, en orden creciente en razón del número de sus integrantes, hasta por diez minutos a efecto de formular posicionamiento respecto de la situación imperante en el Estado. En su alocución, en interviniente, deberá dirigirse con decoro.
+El Presidente de la Mesa Directiva dará cuenta de la recepción del documento y ordenará se entregue copia del mismo a las diputadas y diputados.
+
+Si la persona Titular del Poder Ejecutivo comparece personalmente a rendir su informe anual, escuchará los posicionamientos de las formas de organización parlamentaria y podrá responder los cuestionamientos que se le formulen.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 261.
 
-Terminadas las intervenciones de los Diputados, el titular del Poder Ejecutivo procederá a dirigir un mensaje con motivo del informe.
+Estando presente la persona Titular del Poder Ejecutivo del Estado, hará uso de la palabra un Diputado por cada una de las formas de organización parlamentaria y las representaciones partidistas, en orden creciente en razón del número de sus integrantes, hasta por diez minutos a efecto de formular posicionamiento respecto de la situación imperante en el Estado. En su alocución, el interviniente, deberá dirigirse con decoro.
+
+El mismo protocolo se seguirá en caso de que el informe haya sido enviado al Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 262.
 
-Previo a cada informe anual y en el término de una semana previa a la ceremonia, el Gobernador del Estado remitirá un ejemplar del documento que contenga su informe, por conducto de la Junta de Gobierno y Coordinación Política.
+Terminadas las intervenciones de los Diputados, la persona Titular del Poder Ejecutivo del Estado procederá a dirigir un mensaje con motivo del informe.
+
+En caso de que no se encuentre presente la persona Titular del Poder Ejecutivo del Estado, el Presidente de la Mesa Directiva, hará las apreciaciones correspondientes y procederá a clausurar la sesión.
 
 ###### Artículo 263.
 
 El Presidente de la Comisión Permanente, designará la Comisión legislativa encargada de coordinar el análisis del informe y evaluar el cumplimiento de objetivos y metas fijadas en el Plan Estatal de Desarrollo.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 264.
 
-Una Vez concluido el mensaje del Gobernador, cada una de las formas de organización parlamentaria y las representaciones partidistas, tendrá derecho a formular hasta tres preguntas al Gobernador del Estado por conducto del Presidente de la Mesa Directiva; cada una de las preguntas será formulada de manera tal que su formulación no lleve más de cinco minutos y serán hechas de manera alternada. El Gobernador dispondrá de hasta diez minutos para formular contestación. En el procedimiento no habrá repreguntas o interpelaciones.
+Una vez concluido el mensaje de la persona Titular del Poder Ejecutivo del Estado, cada una de las formas de organización parlamentaria y las representaciones partidistas, tendrá derecho a formular hasta tres preguntas al Gobernador del Estado por conducto del Presidente de la Mesa Directiva; cada una de las preguntas será formulada de manera tal que su formulación no lleve más de cinco minutos y serán hechas de manera alternada. El Gobernador dispondrá de hasta diez minutos para formular contestación. En el procedimiento no habrá repreguntas o interpelaciones.
 
 ###### Artículo 265.
 
@@ -3754,3 +3772,11 @@ P.O. 30 DE MARZO DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 402.- QUE CONTIENE REFORMAS A DIVERSAS DISPOSICIONES DE LA LEY ORGANICA DEL CONGRESO DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto, entrará en vigor al día siguiente de la entrada en vigor de las reformas a la fracción XXVII del artículo 98 y al primer párrafo del articulo 164 de la Constitución Política del Estado Libre y Soberano de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
