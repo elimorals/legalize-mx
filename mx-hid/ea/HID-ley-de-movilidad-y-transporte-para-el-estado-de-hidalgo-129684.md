@@ -4,7 +4,7 @@ identifier: "HID-ley-de-movilidad-y-transporte-para-el-estado-de-hidalgo-129684"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-30"
-last_updated: "2023-03-31"
+last_updated: "2023-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2018.
 
@@ -331,7 +331,9 @@ V. Identificar y satisfacer la demanda de los Servicios Públicos de Transporte 
 
 VI. Regular, vigilar y sancionar la prestación de los Servicios Públicos de Transporte Colectivo e Individual, Privado y Complementario, de los Servicios Auxiliares y Conexos y de las autorizaciones y convenios, así como establecer, regular y vigilar las tarifas aplicables a los usuarios y la forma de pago a los prestadores del servicio;
 
-VII. Generar la estadística relacionada con el Sistema Estatal del Transporte e implementar el Registro de Concesionarios, Permisionarios y Conductores de los Servicios Públicos de Transporte Colectivo e Individual, Privado y Complementario, de los Servicios Auxiliares y Conexos relacionados con ello y de las autorizaciones y convenios de cualquier tipo que sean relativos a la materia;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2023)</small>
+
+VII. Generar la estadística relacionada con el Sistema Estatal del Transporte e implementar el Registro de Concesionarios, Permisionarios y Conductores de los Servicios Públicos de Transporte Colectivo e Individual, Privado y Complementario, de los Servicios Auxiliares y Conexos relacionados con ello y de las autorizaciones y convenios de cualquier tipo que sean relativos a la materia. Dicho registro deberá contar con información precisa para la identificación de concesionarios y conductores, a fin de que la ciudadanía pueda tener acceso a dichos datos, en los términos de esta Ley;
 
 VIII. Eficientar los Servicios Públicos de Transporte Colectivo e Individual, Privado y Complementario, los Servicios Auxiliares y Conexos relacionados con ello y los que se deriven u operan al amparo de las autorizaciones y convenios de cualquier tipo relativos a la materia, profesionalizando a los prestadores del ramo, a través de programas de capacitación integral;
 
@@ -639,9 +641,11 @@ IV. Un Vocal de la comunidad académica; y
 
 V. Siete Vocales, representativos de las regiones del Estado y de las Organizaciones de concesionarios, conductores o permisionarios que determine el Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 21.
 
-El Consejo sesionará cuatrimestralmente a convocatoria de la Secretaría, quien presidirá sus reuniones.
+El Consejo sesionará trimestralmente a convocatoria de la Secretaría, quien presidirá sus reuniones.
 
 La Secretaría designará al Secretario Técnico, quien tendrá a su cargo la emisión y el desahogo de la orden del día de cada sesión, y los libros de actas y acuerdos del Consejo y su seguimiento.
 
@@ -771,9 +775,11 @@ X. Nuevas Tecnologías de apoyo a la Movilidad (APP'S): La movilidad irá acompa
 
 ### CAPITULO IV. DEL PROGRAMA DE SEGURIDAD EN LOS SERVICIOS DE TRANSPORTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 29.
 
-Con la finalidad de disminuir el alto costo social y económico que se derivan de los accidentes e incidentes de tránsito en los servicios de transporte, se elaborará e implantará un Programa de Seguridad, que deberá considerar todas las medidas administrativas, operativas y de coordinación que mejoren la seguridad de todos los usuarios del transporte, anteponiendo la jerarquía de movilidad, dando un verdadero protagonismo al ciudadano y, de manera muy significativa, a los usuarios más vulnerables (peatones, personas con discapacidad y ciclistas) que adquieren prioridad sobre los vehículos motorizados.
+Con la finalidad de disminuir el alto costo social y económico que se derivan de los accidentes e incidentes de tránsito en los servicios de transporte, se elaborará e implementará un Programa de Seguridad, que deberá considerar todas las medidas administrativas, operativas y de coordinación que mejoren la seguridad de todos los usuarios del transporte, anteponiendo la jerarquía de movilidad, dando un verdadero protagonismo al ciudadano y, de manera muy significativa, a los usuarios más vulnerables (peatones, personas con discapacidad y ciclistas) que adquieren prioridad sobre los vehículos motorizados. Asimismo, deberá incluir como líneas de acción primordiales, las necesarias para garantizar la seguridad e identidad de los usuarios de transporte privado escolar, de empleados y turístico, con el propósito de facilitar la notificación, localización y asistencia a familiares en caso de emergencia.
 
 El programa deberá considerar la utilización de equipo y tecnología de video vigilancia y rastreo de acuerdo con las especificaciones que determine el Reglamento.
 
@@ -1555,9 +1561,11 @@ La edad para solicitar y gozar del uso del Tarjetón de conductor de vehículos 
 
 Los Tarjetones que se expidan en cumplimiento a esta Ley, tendrán una vigencia de dos o tres años.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 117.
 
-La renovación del Tarjetón se sujeta al acreditamiento del curso de actualización correspondiente. En el Reglamento respectivo se determinarán los aspectos académicos y formativos que deberán conformar los cursos.
+La renovación del Tarjetón se sujetará al acreditamiento de los cursos de actualización correspondiente. En el Reglamento respectivo se determinarán los aspectos académicos y formativos que deberán conformar los cursos, los cuales deberán contemplar contenido relativo a perspectiva de género, no discriminación, transporte libre de violencia y atención de calidad a las personas usuarias, sin perjuicio de los demás que se estipulen.
 
 ###### Artículo 118.
 
@@ -1566,6 +1574,10 @@ Cuando el titular del Tarjetón acreditare fehacientemente el extravío, destruc
 ###### Artículo 119.
 
 El Reglamento respectivo establecerá los demás casos en que la Autoridad Competente podrá negar el otorgamiento, el canje, la renovación, el resello o la reposición del Tarjetón; y en su caso, la revocación y cancelación del mismo.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2023)</small>
+
+No procederá el otorgamiento, canje, renovación, resello o reposición del Tarjetón cuando el solicitante o el titular del Tarjetón esté cumpliendo una condena por la comisión (sic) algún delito contra la libertad y el normal desarrollo psicosexual y de los derechos reproductivos, feminicidio, violencia familiar, violencia política contra las mujeres en razón de género, ataques a las vías de comunicación, o por algún delito grave.
 
 ###### Artículo 120.
 
@@ -2139,7 +2151,9 @@ I. En equidad de condiciones, si de acuerdo al dictamen técnico se requieren ha
 
 a. El domicilio del solicitante, en función al lugar materia de la necesidad;
 
-b. Que el solicitante no haya sido condenado por sentencia ejecutoriada por la comisión de ataques a las vías de comunicación o por algún delito grave;
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2023)</small>
+
+b. Que el solicitante no esté cumpliendo una condena por la comisión de algún delito contra la libertad y el normal desarrollo psicosexual y de los derechos reproductivos, feminicidio, violencia familiar, violencia política contra las mujeres en razón de género, ataques a las vías de comunicación o por algún delito grave;
 
 c. Que el solicitante se encuentre en pleno goce y ejercicio de sus derechos civiles y políticos;
 
@@ -2157,7 +2171,9 @@ b. Comprobar la situación financiera que guarda la empresa;
 
 c. Comprobar la capacidad de respuesta inmediata para la prestación del servicio;
 
-d. Que los administradores de la sociedad, sus representantes legales y los socios de la misma no hayan sido condenados por sentencia ejecutoriada por la comisión de ataques a las vías de comunicación o por un delito grave y que se encuentren en pleno goce y ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2023)</small>
+
+d. Que los administradores de la sociedad, sus representantes legales y los socios de la misma no estén cumpliendo una condena por la comisión de algún delito contra la libertad y el normal desarrollo psicosexual y de los derechos reproductivos, feminicidio, violencia familiar, violencia política contra las mujeres en razón de género, ataques a las vías de comunicación o por un delito grave; y que se encuentren en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 e. Que la empresa se encuentre al corriente en el pago de sus obligaciones fiscales; y
 
@@ -2675,7 +2691,9 @@ II. Se mantenga la demanda de manera tal que no signifique la supresión de la r
 
 III. El objeto social, en caso de personas morales, no se haya modificado;
 
-IV. Durante su vigencia el titular o los administradores, apoderados legales de las sociedades y los socios, no hayan sido condenados por sentencia ejecutoriada por la comisión del delito de ataques a las vías de comunicación o por delitos graves cometidos en su calidad de concesionarios, permisionarios, contratantes o de personas autorizadas de cualquier forma para llevar a cabo los servicios materia de esta Ley;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2023)</small>
+
+IV. Durante su vigencia el titular o los administradores, apoderados legales de las sociedades y los socios, no estén cumpliendo una condena por la comisión de algún delito contra la libertad y el normal desarrollo psicosexual y de los derechos reproductivos, feminicidio, violencia familiar, violencia política contra las mujeres en razón de género, ataques a las vías de comunicación o por delitos graves cometidos en su calidad de concesionarios, permisionarios, contratantes o de personas autorizadas de cualquier forma para llevar a cabo los servicios materia de esta Ley;
 
 V. El titular justifique estar al corriente en el cumplimiento de sus obligaciones fiscales;
 
@@ -3195,7 +3213,9 @@ VI. Se sancionará con multa de ciento setenta hasta doscientas cincuenta veces 
 
 VII. Se sancionará con multa de ciento setenta hasta doscientas cincuenta veces la Unidad de Medida y Actualización, al momento de cometer la infracción, independientemente de que se proceda a la detención y aseguramiento del vehículo, a quien conduzca vehículos del Servicio de Transporte, bajo los influjos de bebidas alcohólicas, enervantes o de cualquier otra sustancia tóxica, se impondrá la revocación del Tarjetón y la suspensión hasta por un año en el derecho de servir como conductor de vehículos del Servicio de Transporte y, si el infractor es el propio concesionario o permisionario, se incrementará la sanción en un cincuenta por ciento y se revocará de pleno derecho la concesión o permiso correspondiente;
 
-VIII. A quien de cualquier forma altere las tarifas, itinerarios y horarios o los modifique de cualquier forma o, a quien transgreda las condiciones de prestación del servicio, siendo responsables solidarios los concesionarios o permisionarios por los actos de sus empleados o trabajadores se le impondrá multa por el importe de ochenta y cinco hasta ciento treinta veces la Unidad de Medida y Actualización, al momento de cometer la infracción;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2023)</small>
+
+VIII. A quien de cualquier forma altere las tarifas, itinerarios y horarios o los modifique de cualquier forma o, a quien transgreda las condiciones de prestación del servicio, siendo responsables solidarios los concesionarios o permisionarios por los actos de sus empleados o trabajadores, se le impondrá multa por el importe de cien hasta doscientas veces la Unidad de Medida y Actualización, al momento de cometer la infracción. Tratándose de personas permisionarias del servicio de arrastre o arrastre y salvamento, o de los empleados o trabajadores de éstas, se aumentará la multa hasta en 30 veces la Unidad de Medida y Actualización, al momento de cometer la infracción;
 
 IX. A quien transgreda de cualquier manera las condiciones de prestación del servicio, siendo responsables solidarios los concesionarios o permisionarios por los actos de sus empleados o trabajadores, se le impondrá multa por el importe de ochenta y cinco hasta ciento treinta veces la Unidad de Medida y Actualización, al momento de cometer la infracción;
 
@@ -3406,3 +3426,9 @@ P.O. 31 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 492 POR EL QUE SE REFORMAN LA FRACCIÓN XV DEL ARTÍCULO 3 Y LA FRACCIÓN X DEL ARTICULO 27 DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 23 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 559 POR EL QUE SE REFORMAN Y ADICIONAN DISTINTAS DISPOSICIONES DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Hidalgo.
