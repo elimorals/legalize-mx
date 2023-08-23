@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-firma-electronica-avanzada-para-el-estado-de-95999"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-17"
-last_updated: "2019-08-20"
+last_updated: "2023-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95999&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 17 de septiembre de 2013.
 
@@ -73,7 +73,7 @@ II. Certificación de un prestador de servicios de certificación: Procedimiento
 
 III. Certificado de firma electrónica avanzada: Documento firmado electrónicamente por un prestador de servicios de certificación, mediante el cual se vinculan los datos de verificación de firma a un firmante y permite confirmar la identidad del mismo;
 
-IV. Contraloría: La Contraloría Gubernamental del Gobierno del Estado de Tamaulipas;
+IV. (DEROGADA, P.O. 23 DE AGOSTO DE 2023)
 
 V. Datos de creación de firma electrónica avanzada: Datos únicos, como códigos o claves criptográficas privadas, que el firmante utiliza para crear la firma electrónica avanzada;
 
@@ -97,9 +97,17 @@ XIV. Firma electrónica avanzada: Aquélla que ha sido certificada por la autori
 
 XV. Firmante: Persona que posee una firma electrónica avanzada y que actúa en nombre propio o en nombre de una persona física o jurídica a la que representa;
 
-XVI. Mensaje de datos: La información generada, enviada, recibida o archivada por medios electrónicos, ópticos o cualquier otra tecnología; y
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2023)</small>
 
-XVII. Prestador de servicios de certificación: La persona física o moral, pública o privada, que expide certificados electrónicos, o prestan otros servicios en relación con la firma electrónica avanzada.
+XVI. Mensaje de datos: La información generada, enviada, recibida o archivada por medios electrónicos, ópticos o cualquier otra tecnología;
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2023)</small>
+
+XVII. Prestador de servicios de certificación: La persona física o moral, pública o privada, que expide certificados electrónicos, o prestan otros servicios en relación con la firma electrónica avanzada; y
+
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2023)</small>
+
+XVIII. Secretaría: La Secretaría de Administración del Estado de Tamaulipas.
 
 ###### ARTÍCULO 4.
 
@@ -255,7 +263,9 @@ II. En caso de requerirse su presentación, si la misma puede mostrarse a la per
 
 1. Para los efectos de la presente Ley, serán autoridades certificadoras en su respectivo ámbito de competencia:
 
-I. El Poder Ejecutivo, por conducto de la Contraloría Gubernamental;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2023)</small>
+
+I. El Poder Ejecutivo, por conducto de la Secretaría;
 
 II. El Poder Legislativo;
 
@@ -581,7 +591,9 @@ VIII. Cancelación o suspensión del certificado a solicitud del interesado.
 
 ###### ARTÍCULO 40.
 
-1. Cuando un servidor público deje de prestar sus servicios y cuente con un certificado de firma electrónica avanzada en virtud de sus funciones, el superior jerárquico ordenará la cancelación inmediata del mismo. Tratándose de titulares de dependencias estatales, la cancelación se hará por la Contraloría Gubernamental, y de titulares de entidades estatales, la orden de cancelación la hará el titular de la dependencia que tenga a su cargo la coordinación administrativa, salvo que sean coordinadas directamente por el Ejecutivo Estatal, casos en que la cancelación la hará directamente la Contraloría.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2023)</small>
+
+1. Cuando un servidor público deje de prestar sus servicios y cuente con un certificado de firma electrónica avanzada en virtud de sus funciones, el superior jerárquico ordenará la cancelación inmediata del mismo. Tratándose de titulares de dependencias estatales, la cancelación se hará por la Secretaría, y de titulares de entidades estatales, la orden de cancelación la hará el titular de la dependencia que tenga a su cargo la coordinación administrativa, salvo que sean coordinadas directamente por el Ejecutivo Estatal, casos en que la cancelación la hará directamente la Secretaría.
 
 2. Tratándose de servidores públicos electos a un puesto de elección popular, o designados para cumplir un periodo de tiempo determinado, que cuenten con un certificado de firma electrónica avanzada en virtud de sus funciones, el mismo deberá ser cancelado desde el momento en que concluyó el periodo para el que fue electo o designado.
 
@@ -710,3 +722,19 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-625, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Administración y la Contraloría Gubernamental realizarán en un término de 90 días, las adecuaciones y transferencias que con motivo de la expedición del presente Decreto deban realizarse de una dependencia a otra.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
