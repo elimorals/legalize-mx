@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2023-07-12"
+last_updated: "2023-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -1063,9 +1063,9 @@ II. Los titulares de tres dependencias municipales, las que serán, preferenteme
 
 III. Tres representantes del Ejecutivo del Estado, de entre los cuales uno será servidor público de la Comisión y otro de la Secretaría de Salud;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2023)</small>
 
-IV. Un Diputado al Congreso del Estado con residencia en uno de los distritos electorales comprendidos dentro del ámbito territorial donde desarrolle sus funciones el organismo operador de que se trate, quien será propuesto por la Junta de Coordinación Política al Pleno del Poder Legislativo, para que éste resuelva por mayoría simple de los diputados presentes; y
+IV. Un Diputado o Diputada al Congreso del Estado con residencia en uno de los distritos electorales comprendidos dentro del ámbito territorial donde desarrolle sus funciones el organismo operador de que se trate, quien será propuesto por la Junta de Gobierno al Pleno del Poder Legislativo, para que este resuelva por mayoría simple de los diputados y diputadas presentes; y
 
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
@@ -1093,9 +1093,9 @@ I. Los presidentes municipales de los municipios que hayan celebrado convenio;
 
 II. Tres representantes del Ejecutivo del Estado, de entre los cuales uno será servidor público de la Comisión y otro de la Secretaría de Salud;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2023)</small>
 
-III. Un Diputado al Congreso del Estado con residencia en el distrito o los distritos electorales comprendidos dentro del ámbito territorial donde desarrolle sus funciones el organismo operador de que se trate, quien será propuesto por la Junta de Coordinación Política al Pleno del Poder Legislativo, para que éste resuelva por mayoría simple de los diputados presentes; y
+III. Un Diputado o Diputada al Congreso del Estado con residencia en el distrito o los distritos electorales comprendidos dentro del ámbito territorial donde desarrolle sus funciones el organismo operador de que se trate, quien será propuesto por la Junta de Gobierno al Pleno del Poder Legislativo, para que éste resuelva por mayoría simple de los diputados y diputadas presentes; y
 
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
@@ -3288,3 +3288,11 @@ P.O. 12 DE JULIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-626 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS; DE LA LEY ESTATAL DE MEJORA REGULATORIA PARA TAMAULIPAS Y SUS MUNICIPIOS; DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO; DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
