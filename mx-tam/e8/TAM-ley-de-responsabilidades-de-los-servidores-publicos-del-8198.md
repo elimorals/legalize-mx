@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-de-los-servidores-publicos-del-8198"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-03"
-last_updated: "2021-06-24"
+last_updated: "2023-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 3 de marzo de 1984.
 
@@ -165,17 +165,15 @@ Las sanciones respectivas se aplicarán en un plazo no mayor de un año a partir
 
 Corresponde al Congreso local instruir el procedimiento relativo al juicio político, actuando como Organo de Acusación y al Supremo Tribunal de Justicia del Estado fungir como Jurado de Sentencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 11.
 
-Al integrarse en el Congreso local las comisiones para el despacho de los asuntos, se designará por la presidencia una comisión para sustanciar los procedimientos consignados en la presente Ley y en la Ley de Organización y Funcionamiento Internos del Congreso del Estado.
+Al integrarse en el Congreso local las comisiones para el despacho de los asuntos, se designará por la presidencia una comisión para sustanciar los procedimientos consignados en la presente Ley y en la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas.
 
-La Comisión a que hace referencia el párrafo anterior, se compondrá de siete diputados que formarán la sección instructora.
+La Comisión a que hace referencia el párrafo anterior, se compondrá de siete diputados y diputadas que formarán la sección instructora.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
-
-Las vacantes que ocurran serán cubiertas por designación de la Junta de Coordinación Política del Congreso del Estado.
+Las vacantes que ocurran serán cubiertas por designación de la Junta de Gobierno del Congreso del Estado.
 
 ###### ARTICULO 12.
 
@@ -365,9 +363,11 @@ El Congreso no podrá erigirse en órgano de acusación ni el Tribunal Superior 
 
 No podrán votar en ningún caso los Diputados o Magistrados que hubiesen presentado la denuncia contra el servidor público o hayan aceptado el cargo de defensor, aun cuando lo renuncien después de haber comenzado a ejercer el cargo.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2023)</small>
+
 ###### ARTICULO 40.
 
-En todo lo no previsto por esta Ley, en las discusiones y votaciones se observarán, en lo aplicable, las reglas que establecen la Constitución del Estado y la Ley Orgánica del Poder Legislativo para la discusión y votación de las leyes. En todo caso, las votaciones deberán ser nominales, para formular, aprobar o reprobar las conclusiones o dictámenes de las secciones y para resolver incidental o definitivamente en el procedimiento.
+En todo lo no previsto por esta Ley, en las discusiones y votaciones se observarán, en lo aplicable, las reglas que establecen la Constitución Política del Estado de Tamaulipas y la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas para la discusión y votación de las leyes. En todo caso, las votaciones deberán ser nominales, para formular, aprobar o reprobar las conclusiones o dictámenes de las secciones y para resolver incidental o definitivamente en el procedimiento.
 
 ###### ARTICULO 41.
 
@@ -1130,3 +1130,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos que a la fecha de entrada en vigor de este decreto hayan concluido con una declaratoria del Congreso Local con motivo de una declaratoria de la competencia de las cámaras federales, se considerarán concluidos de manera definitiva e inatacable.
+
+P.O. 23 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-626 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS; DE LA LEY ESTATAL DE MEJORA REGULATORIA PARA TAMAULIPAS Y SUS MUNICIPIOS; DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO; DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
