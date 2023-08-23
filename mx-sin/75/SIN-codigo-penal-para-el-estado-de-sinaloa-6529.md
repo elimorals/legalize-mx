@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2023-08-11"
+last_updated: "2023-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -2731,13 +2731,17 @@ VI.- Por sí o por interpósita persona, cause perjuicio al fraccionar y transfe
 
 VII.- Al que sin estar autorizado para hacerlo, ofrezca al público en general pagarle intereses más altos que los cubiertos por las instituciones financieras legalmente establecidas, logrando que mediante la celebración de uno o más actos jurídicos de cualquier naturaleza, cinco o más personas le entreguen dinero en efectivo y no cumpla sus compromisos en los plazos estipulados, se le aplicarán de diez a quince años de prisión y de quinientos a mil días multa. Si la conducta descrita es realizada por una persona moral, dichas penas se impondrán a sus administradores, gerentes y, en general, representantes legales, sin perjuicio de aplicar a la persona jurídica colectiva cualquiera de las consecuencias previstas en el artículo 70 de este Código;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2023)</small>
 
-VIII.- Venda o intercambie por algún otro bien, vales o cualquier dispositivo electrónico en forma de tarjeta plástica, utilizados para canjear bienes y servicios, con conocimiento de que son falsos; o
+VIII.- Venda o intercambie por algún otro bien, vales o cualquier dispositivo electrónico en forma de tarjeta plástica, utilizados para canjear bienes y servicios, con conocimiento de que son falsos;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2023)</small>
 
-IX.- Haga efectivos vales o cualquier dispositivo electrónico en forma de tarjeta plástica, utilizados para canjear bienes o servicios, ante las tiendas o establecimientos que los aceptan, con conocimiento de que son falsos.
+IX.- Haga efectivos vales o cualquier dispositivo electrónico en forma de tarjeta plástica, utilizados para canjear bienes o servicios, ante las tiendas o establecimientos que los aceptan, con conocimiento de que son falsos; o
+
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2023)</small>
+
+X.- Siendo particular y teniendo la posesión de un producto originado de la actividad agrícola, ganadera, apícola, acuícola o pesquera, del que hubiere pactado la compra de manera escrita o verbal con su productor, lo enajene o lo someta a un proceso de transformación, ya sea por sí o por interpósita persona, y no pague lo acordado en los términos, condiciones y plazos convenidos.
 
 ### CAPITULO V. DELITO INFORMATICO
 
@@ -5404,3 +5408,9 @@ P.O. 11 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 547 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN, DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, Y DEL CÓDIGO PENAL, TODAS DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al dia siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 23 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 535 QUE REFORMA LAS FRACCIONES VIII Y IX, Y ADICIONA LA FRACCIÓN X AL ARTÍCULO 216 DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
