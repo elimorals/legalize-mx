@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2023-07-20"
+last_updated: "2023-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -2275,27 +2275,41 @@ Se turnará a la Presidencia del Supremo Tribunal de Justicia un informe de lo o
 
 ## TITULO SEPTIMO. DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 121.
 
-El Consejo de la Judicatura del Estado se integrará por cinco Consejeros, uno de los cuales será el Presidente del Supremo Tribunal de Justicia, quien lo presidirá; dos serán nombrados por el Congreso del Estado a propuesta del Pleno del Supremo Tribunal de Justicia; uno designado por el Congreso del Estado a propuesta de la Junta de Coordinación Política y uno más, designado por el Ejecutivo Estatal, en los términos de la Constitución Política del Estado y las leyes.
+El Consejo de la Judicatura del Estado se integrará por cinco Consejeras y Consejeros, uno de los cuales será el Presidente o Presidenta del Supremo Tribunal de Justicia, quien lo presidirá; dos serán nombrados por el Congreso del Estado a propuesta del Pleno del Supremo Tribunal de Justicia; uno designado por el Congreso del Estado a propuesta de la Junta de Gobierno y uno más, designado por el Ejecutivo Estatal, en los términos de la Constitución Política del Estado y las leyes.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 La propuesta realizada por el Pleno del Supremo Tribunal de Justicia ante el Congreso del Estado deberá recaer sobre personas que sean o hayan sido servidores públicos del Poder Judicial del Estado y que se hayan distinguido por su buen desempeño.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 Los Consejeros durarán en su cargo seis años, serán sustituidos de manera escalonada y no podrán ser designados para un periodo inmediato posterior.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 Para ser Consejero de la Judicatura se exigirán los mismos requisitos que para el cargo de Magistrado.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 El Presidente del Supremo Tribunal de Justicia permanecerá en el cargo de Presidente del Consejo de la Judicatura durante el tiempo que desempeñe aquella función, sin recibir remuneración adicional.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 Los Consejeros de la Judicatura del Estado no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 Las personas que hayan ocupado el cargo de Consejero de la Judicatura, no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado. Los jueces designados consejeros, una vez concluida dicha encomienda, podrán continuar su carrera judicial en un cargo similar al que fungían previo a su designación como consejeros. El Consejo dispondrá su adscripción en términos de la Constitución Política del Estado.
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
 
 El Consejo de la Judicatura del Estado funcionará en Pleno o en Comisiones. El Pleno sesionará con la presencia de su Presidente y de, al menos, tres de sus integrantes. El Consejo contará con Comisiones Permanentes o Transitorias que determine el propio Pleno, debiendo existir en todo caso, las que se encarguen de la administración, carrera judicial y disciplina.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 26 DE MAYO DE 2010)</small>
 
 Sin perjuicio de las que el Consejo de la Judicatura considere necesario crear cuando así requiera para el mejor desempeño del Poder Judicial, tendrá las dependencias que enseguida se mencionan, las que estarán bajo su mando y supervisión:
 
@@ -2326,6 +2340,8 @@ IX.- Unidad de Transparencia; y
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
 X.- Unidad de Igualdad de Género y Derechos Humanos.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 El Presidente del Consejo de la Judicatura dictará las medidas que estime convenientes y practicará visitas regulares a las dependencias administrativas o dispondrá de una comisión para que las supervisen, cuando se considere pertinente.
 
@@ -4448,3 +4464,11 @@ P.O. 20 DE JULIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-626 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS; DE LA LEY ESTATAL DE MEJORA REGULATORIA PARA TAMAULIPAS Y SUS MUNICIPIOS; DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO; DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
