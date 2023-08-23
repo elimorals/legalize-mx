@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-entrega-recepcion-de-los-recursos-asignados-a-34930
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-06"
-last_updated: "2019-08-20"
+last_updated: "2023-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 6 de noviembre de 2003.
 
@@ -121,9 +121,9 @@ C) Los titulares de las áreas que integran las dependencias referidas en el inc
 
 II.- En el Poder Legislativo:
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2023)</small>
 
-A) El Presidente de la Junta de Coordinación Política;
+A). El Presidente o Presidenta de la Junta de Gobierno;
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2006)</small>
 
@@ -413,19 +413,19 @@ Los servidores públicos que habrán de concluir en su función deberán proporc
 
 La información relativa a los recursos humanos, materiales y financieros que se entregan, se registrará en los formatos autorizados por el Organo de Control correspondiente, los cuales deberán complementarse por cuadruplicado y validarse con la firma autógrafa de quienes intervienen en el acto de entrega-recepción, en los términos de los artículos 28 y 29 de la presente ley.
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2023)</small>
 
-En el caso de la entrega-recepción final, la información será validada con la firma autógrafa del titular del órgano público autónomo, de la dependencia o entidad del Poder Ejecutivo, del Presidente de la Junta de Coordinación Política del Congreso del Estado, del Presidente del Supremo Tribunal de Justicia, del Presidente Municipal o del titular de la dependencia o entidad municipal, según corresponda, en el formato especialmente diseñado para este objeto, el cual se incorporará como parte integral de los formatos aludidos en el párrafo anterior. Asimismo, también deberá validarla el titular de la Unidad Administrativa, quien será responsable de su contenido.
+En el caso de la entrega-recepción final, la información será validada con la firma autógrafa del titular del órgano público autónomo, de la dependencia o entidad del Poder Ejecutivo, del Presidente o Presidenta de la Junta de Gobierno del Congreso del Estado, del Presidente o Presidenta del Supremo Tribunal de Justicia, del Presidente o Presidenta Municipal o del titular de la dependencia o entidad municipal, según corresponda, en el formato especialmente diseñado para este objeto, el cual se incorporará como parte integral de los formatos aludidos en el párrafo anterior. Asimismo, también deberá validarla el titular de la Unidad Administrativa, quien será responsable de su contenido.
 
 > <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
 Cuando se considere el caso, la información que se refiere en este artículo podrá registrarse y entregarse en medio electromagnético, así como su propio respaldo. Cada enlace determinará a su elección, y cualquier opción resultará válida.
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 18.
 
-Cuando se trate del acto de entrega-recepción intermedio que deba realizarse por el titular de un órgano público autónomo, de una dependencia o entidad del Poder Ejecutivo; por el Presidente de la Junta de Coordinación Política del Congreso del Estado; por el Presidente del Supremo Tribunal de Justicia; por un Presidente Municipal, o por el titular de una dependencia o entidad municipal, la información relativa a los recursos humanos, materiales y financieros que se entreguen, deberá ser la correspondiente a las oficinas asignadas para su despacho.
+Cuando se trate del acto de entrega-recepción intermedio que deba realizarse por el titular de un órgano público autónomo, de una dependencia o entidad del Poder Ejecutivo; por el Presidente o Presidenta de la Junta de Gobierno del Congreso del Estado; por el Presidente o Presidenta del Supremo Tribunal de Justicia; por un Presidente o Presidenta Municipal, o por el titular de una dependencia o entidad municipal, la información relativa a los recursos humanos, materiales y financieros que se entreguen, deberá ser la correspondiente a las oficinas asignadas para su despacho.
 
 > <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
@@ -447,9 +447,9 @@ V.- Un ejemplar de la información reproducida quedará en poder del servidor p�
 
 Cuando la información solicitada en los términos del párrafo anterior, haya sido generada dentro de los quince días previos al acto de entrega-recepción, deberá solicitarse una vez que se haya formalizado dicho acto, teniendo la obligación las autoridades correspondientes de atender dicha petición dentro del término de cinco días hábiles contados a partir de la presentación de la misma.
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2023)</small>
 
-Cuando el interesado en obtener copia de la información sea el titular del Organo de Control de cualquiera de los Poderes, órganos públicos autónomos, o Ayuntamientos del Estado, la comunicación escrita a que hace referencia la fracción I de este artículo, será dirigida al Gobernador del Estado, al Presidente de la Junta de Coordinación Política del Congreso del Estado, al Pleno del Supremo Tribunal de Justicia, al Ayuntamiento del Municipio, al titular del órgano público autónomo, según corresponda, quienes designarán a la persona que actuará para los efectos de lo previsto en las fracciones III y IV de este precepto.
+Cuando el interesado en obtener copia de la información sea el titular del Órgano de Control de cualquiera de los Poderes, órganos públicos autónomos, o Ayuntamientos del Estado, la comunicación escrita a que hace referencia la fracción I de este artículo, será dirigida al titular del Gobierno del Estado, al Presidente o Presidenta de la Junta de Gobierno del Congreso del Estado, al Pleno del Supremo Tribunal de Justicia, al Ayuntamiento del Municipio, al titular del órgano público autónomo, según corresponda, quienes designarán a la persona que actuará para los efectos de lo previsto en las fracciones III y IV de este precepto.
 
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
@@ -549,13 +549,13 @@ IV.- El titular o representante del Organo de Control de los Poderes Ejecutivo, 
 
 En la formalización del acto de entrega-recepción final intervendrán:
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2023)</small>
 
-I.- El titular de la dependencia o entidad del Poder Ejecutivo; el Presidente de la Junta de Coordinación Política del Congreso del Estado; el Presidente del Supremo Tribunal de Justicia o del órgano público autónomo; Presidente Municipal que entrega, o el titular de la entidad paramunicipal que entrega según corresponda;
+I.- El titular de la dependencia o entidad del Poder Ejecutivo; el Presidente o Presidenta de la Junta de Gobierno del Congreso del Estado; el Presidente o Presidenta del Supremo Tribunal de Justicia o del órgano público autónomo; Presidente o Presidenta Municipal que entrega, o el titular de la entidad paramunicipal que entrega según corresponda;
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2023)</small>
 
-II.- La persona que asumirá la titularidad de la dependencia o entidad del Poder Ejecutivo, de la Presidencia de la Junta de Coordinación Política del Congreso del Estado, de la Presidencia del Supremo Tribunal de Justicia, del órgano público autónomo, de la Presidencia Municipal o de la titularidad de la entidad municipal que recibe, según corresponda;
+II.- La persona que asumirá la titularidad de la dependencia o entidad del Poder Ejecutivo, de la Presidencia de la Junta de Gobierno del Congreso del Estado, de la Presidencia del Supremo Tribunal de Justicia, del órgano público autónomo, de la Presidencia Municipal o de la titularidad de la entidad municipal que recibe, según corresponda;
 
 > <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
@@ -567,11 +567,11 @@ IV.- El titular o representante del Organo de Control de la dependencia o entida
 
 En el caso del titular del Poder Ejecutivo, éste podrá designar a una persona para que formalice la entrega de los recursos asignados a las oficinas de su despacho.
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 30.
 
-Dentro de los tres días hábiles siguientes a la formalización del acto a que se refiere el artículo anterior, la persona que reciba, sea el titular de la dependencia o entidad del Poder Ejecutivo, la Presidencia de la Junta de Coordinación Política del Congreso del Estado, de la Presidencia del Supremo Tribunal de Justicia, del órgano público autónomo, de la Presidencia Municipal o de la titularidad de la entidad municipal, remitirá la información y documentación correspondiente al titular de cada Unidad Administrativa adscrita a la esfera de competencia que corresponda a la función que se asume.
+Dentro de los tres días hábiles siguientes a la formalización del acto a que se refiere el artículo anterior, la persona que reciba, sea el titular de la dependencia o entidad del Poder Ejecutivo, la Presidencia de la Junta de Gobierno del Congreso del Estado, de la Presidencia del Supremo Tribunal de Justicia, del órgano público autónomo, de la Presidencia Municipal o de la titularidad de la entidad municipal, remitirá la información y documentación correspondiente al titular de cada Unidad Administrativa adscrita a la esfera de competencia que corresponda a la función que se asume.
 
 ###### Artículo 31.
 
@@ -666,3 +666,11 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-626, MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS; DE LA LEY ESTATAL DE MEJORA REGULATORIA PARA TAMAULIPAS Y SUS MUNICIPIOS; DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO; DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
