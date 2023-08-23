@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12179
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-02"
-last_updated: "2023-05-03"
+last_updated: "2023-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
 
 Ley publicada en el Anexo al Extraordinario del Periódico Oficial del Estado de Tamaulipas, el viernes 2 de junio de 2017.
 
@@ -985,7 +985,9 @@ Con respeto a los procedimientos, alcances, métodos, lineamientos y resolucione
 
 V. Citar y, en su caso, requerir documentación o información específica, al Auditor Superior para conocer y profundizar en el estudio y análisis del Informe General e Informes Individuales de la fiscalización de las cuentas públicas, a fin de garantizar una evaluación basada en resultados acorde a la buena administración pública;
 
-VI. Recibir y opinar sobre el proyecto de presupuesto anual de la Auditoría y turnarlo a la Junta de Coordinación Política del Congreso para ser incluido debidamente identificado en el anteproyecto de Presupuesto de Egresos del Poder Legislativo para el siguiente ejercicio fiscal, así como analizar el informe anual de su ejercicio;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE AGOSTO DE 2023)</small>
+
+VI. Recibir y opinar sobre el proyecto de presupuesto anual de la Auditoría y turnarlo a la Junta de Gobierno del Congreso para ser incluido debidamente identificado en el anteproyecto de Presupuesto de Egresos del Poder Legislativo para el siguiente ejercicio fiscal, así como analizar el informe anual de su ejercicio;
 
 Asimismo recibirá de la Auditoría, la información financiera, contable, presupuestal, patrimonial y programática para su envío a la Unidad de Servicios Administrativos y Financieros del Congreso, para su integración y consolidación de la información que integra el Tomo del Poder Legislativo de la Cuenta Pública del Gobierno del Estado de Tamaulipas;
 
@@ -1019,9 +1021,11 @@ La Comisión presentará directamente a la Auditoría un informe que contenga la
 
 ### Capítulo Único
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 86.
 
-Conforme a lo previsto por el artículo 76, fracción IV, párrafo tercero de la Constitución, el Congreso designará al Auditor por el voto de cuando menos las dos terceras partes de sus miembros presentes, a propuesta de la Junta de Coordinación Política del Congreso.
+Conforme a lo previsto por el artículo 76, fracción IV, párrafo tercero de la Constitución, el Congreso designará al Auditor por el voto de cuando menos las dos terceras partes de sus miembros presentes, a propuesta de la Junta de Gobierno del Congreso.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE ABRIL DE 2022)</small>
 
@@ -1276,3 +1280,11 @@ P.O. 3 DE MAYO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-626 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS; DE LA LEY ESTATAL DE MEJORA REGULATORIA PARA TAMAULIPAS Y SUS MUNICIPIOS; DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO; DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
