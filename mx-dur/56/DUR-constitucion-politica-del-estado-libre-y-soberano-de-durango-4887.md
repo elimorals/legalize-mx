@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2023-07-20"
+last_updated: "2023-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -1793,9 +1793,9 @@ XXV. Ejercer el derecho de veto, en los términos de la presente Constitución.
 
 XXVI. Ejercer la potestad reglamentaria, dictando los decretos, acuerdos, reglamentos e instrucciones que sean convenientes para la ejecución de las leyes.
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2023)</small>
 
-XXVII. Asistir al Congreso del Estado el 1 de septiembre a rendir el informe anual que guarda la Administración Pública Estatal, así como el avance y cumplimiento del Plan Estatal de Desarrollo;
+XXVII. Entregar al Congreso del Estado el 1 de septiembre, el informe anual de la situación que guarda la Administración Pública Estatal, y el avance en el cumplimiento del Plan Estatal de Desarrollo.
 
 XXVIII. Enviar al Congreso del Estado al término de su periodo, una Memoria del ejercicio de su gestión.
 
@@ -3033,9 +3033,11 @@ Durarán en su encargo cinco años, sin posibilidad de reelección y serán reno
 
 ###### Artículo 164.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2023)</small>
 
-El día 1 de septiembre de cada año, la persona Titular del Poder Ejecutivo del Estado asistirá a la sede del Poder Legislativo a rendir un informe de la gestión gubernamental a su cargo y de las actividades realizadas durante el año inmediato anterior; en dicha sesión escuchará los posicionamientos de las formas de organización partidista y podrá responder los cuestionamientos que se le formulen. La Ley Orgánica del Congreso establecerá la forma en que se desarrolle esta sesión.
+El día primero de septiembre, en la apertura del primer periodo ordinario de sesiones de cada año legislativo, la persona Titular del Poder Ejecutivo del Estado entregará al Congreso del Estado, el informe sobre la situación que guarda la administración pública Estatal y el avance en el cumplimiento del Plan Estatal de Desarrollo; la Ley Orgánica del Congreso establecerá la forma en que se desarrolle esta sesión.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 Los informes de gestión a que se refiere el párrafo anterior, deberán señalar los resultados obtenidos, con base en lo establecido en los planes y programas, haciendo mención expresa de los indicadores y metas que den cuenta del cumplimiento de los objetivos.
 
@@ -4742,3 +4744,11 @@ P.O. 20 DE JULIO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor en día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 23 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 401.- QUE CONTIENE REFORMAS A DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
