@@ -4,7 +4,7 @@ identifier: "TAM-ley-estatal-de-mejora-regulatoria-para-tamaulipas-y-sus-166643"
 country: "mx"
 rank: "ley"
 publication_date: "2023-06-08"
-last_updated: "2023-06-08"
+last_updated: "2023-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ESTATAL DE MEJORA REGULATORIA PARA TAMAULIPAS Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
 
 Ley publicada en el Anexo al Número 69 del Periódico Oficial del Estado de Tamaulipas, el jueves 8 de junio de 2023.
 
@@ -321,7 +321,9 @@ IV. La persona Titular de la Secretaría de Desarrollo Económico, quien fungir�
 
 V. La Magistrada o Magistrado Presidente del Supremo Tribunal de Justicia del Estado y del Consejo de la Judicatura del Poder Judicial del Estado, quien será miembro permanente;
 
-VI. La persona presidente de la Junta de Coordinación Política del Congreso del Estado, quien será miembro permanente;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2023)</small>
+
+VI. La persona titular de la presidencia de la Junta de Gobierno del Congreso del Estado, quien será miembro permanente;
 
 VII. Las presidentas o presidentes Municipales, que representen a los Consejos Regionales, así como de aquellos que suscriban convenio en materia de Mejora Regulatoria, con el Ejecutivo del Estado, quienes fungirán como vocales;
 
@@ -1472,3 +1474,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los treinta y un días del mes de mayo del año dos mil veintitrés.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- AMÉRICO VILLARREAL ANAYA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HÉCTOR JOEL VILLEGAS GONZÁLEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-626 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS; DE LA LEY ESTATAL DE MEJORA REGULATORIA PARA TAMAULIPAS Y SUS MUNICIPIOS; DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO; DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
