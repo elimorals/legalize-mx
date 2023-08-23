@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-economico-competitividad-e-49288"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-24"
-last_updated: "2023-06-06"
+last_updated: "2023-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 24 de noviembre de 2005.
 
@@ -583,7 +583,9 @@ El Consejo Regional se integra de la siguiente forma:
 
 I. Por parte del Poder Ejecutivo del Estado: El Titular de la Secretaría, quien fungirá como Presidente;
 
-II. Por parte del Congreso del Estado, un diputado local con residencia en uno de los distritos electorales comprendidos dentro del ámbito territorial del Consejo Regional de que se trate, quien será propuesto por la Junta de Coordinación Política al Pleno del Poder Legislativo, para que éste resuelva por mayoría simple de los diputados presentes;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2023)</small>
+
+II. Por parte del Congreso del Estado, un diputado o diputada local con residencia en uno de los distritos electorales comprendidos dentro del ámbito territorial del Consejo Regional de que se trate, quien será propuesto por la Junta de Gobierno al Pleno del Poder Legislativo, para que éste resuelva por mayoría simple de los diputados y diputadas presentes;
 
 > <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
 
@@ -1468,3 +1470,11 @@ P.O. 6 DE JUNIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-626 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS; DE LA LEY ESTATAL DE MEJORA REGULATORIA PARA TAMAULIPAS Y SUS MUNICIPIOS; DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO; DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
