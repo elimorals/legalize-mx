@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-asentamientos-humanos-ordenamiento-territorial-y-129946"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-16"
-last_updated: "2019-09-13"
+last_updated: "2023-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quinta Roo, el jueves 16 de agosto de 2018.
 
@@ -147,15 +147,19 @@ XXI. La instrumentación de acciones que permitan contar con centros de poblaci�
 
 XXII. El rescate, desarrollo y adecuación de los espacios públicos, la infraestructura, el equipamiento y los servicios en los centros de población, para que garanticen la seguridad, libre tránsito y accesibilidad que requieren las personas con discapacidad, debiendo dar cumplimiento a lo establecido en la Ley para el Desarrollo e Inclusión de las Personas con Discapacidad del Estado de Quintana Roo, así como de las normas oficiales mexicanas y demás disposiciones aplicables en esta materia.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 6.
 
-Son de interés público y de beneficio social, todos los actos públicos tendientes a establecer provisiones, reservas, usos y destinos de suelo de las áreas y predios de los Centros de Población, contenida en los Programas de Ordenamiento Territorial, Ecológico y Desarrollo Urbano, a que se refiere este ordenamiento.
+Son de interés público y de beneficio social, todos los actos públicos tendientes a establecer provisiones, reservas, usos y destinos de suelo de las áreas y predios de los Centros de Población, contenida en los Programas Estatales de Ordenamiento Territorial y Desarrollo Urbano, a que se refiere este ordenamiento.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 7.
 
-Para los efectos de esta la ley se entenderá por:
+Para los efectos de esta la (sic) ley se entenderá por:
 
-I. Acción Urbanística: Actos o actividades tendientes al uso o aprovechamiento del suelo, tales como fusiones, subdivisiones, parcelaciones, relotificaciones, fraccionamientos, condominios, conjuntos urbanos o urbanizaciones, así como de construcción, ampliación, remodelación, reparación, restauración, demolición o reconstrucción de inmuebles, de propiedad pública o privada, que por su naturaleza están determinadas en los programas de ordenamiento territorial, ecológico y desarrollo urbano y cuentan con las autorizaciones correspondientes. Comprende también la realización de obras de equipamiento, infraestructura o servicios urbanos en la entidad;
+I. Acción Urbanística: Actos o actividades tendientes al uso o aprovechamiento del suelo, tales como fusiones, subdivisiones, parcelaciones, relotificaciones, fraccionamientos, condominios, conjuntos urbanos o urbanizaciones, así como de construcción, ampliación, remodelación, reparación, restauración, demolición o reconstrucción de inmuebles, de propiedad pública o privada, que por su naturaleza están determinadas en los programas de ordenamiento territorial y desarrollo urbano; así como los programas (sic) desarrollo urbano y cuentan con las constancias y/o autorizaciones correspondientes. Comprende también la realización de obras de equipamiento, infraestructura o servicios urbanos en la entidad;
 
 II. AGEPRO: La Agencia de Proyectos Estratégicos del Estado de Quintana Roo;
 
@@ -167,71 +171,71 @@ V. Área de Cesión: Es la superficie de terreno que debe transmitirse a título
 
 VI. Asentamiento Humano: El establecimiento de un conglomerado demográfico, con el conjunto de sus sistemas de convivencia, en un área físicamente localizada, considerando dentro de la misma los elementos naturales y las obras materiales que la integran;
 
-VII. Asentamientos Humanos Irregulares: Los núcleos de población ubicados en áreas o predios ocupados, fraccionados, lotificados, subdivididos o construidos, sin contar con las autorizaciones urbanísticas correspondientes, cualquiera que sea su régimen de tenencia de la tierra, o que teniendo dichas autorizaciones las obras ejecutadas no concuerden con las mismas;
+VII. Asentamientos Humanos Regulares: Los núcleos de población ubicados en áreas o predios ocupados, fraccionados, lotificados, subdivididos o construidos, que cuentan con las autorizaciones urbanísticas correspondientes;
 
-VIII. Barrio: Zona urbanizada de un centro de población dotado de identidad y características propias;
+VIII. Asentamientos Humanos Irregulares: Los núcleos de población ubicados en áreas o predios ocupados, fraccionados, lotificados, subdivididos o construidos, sin contar con las autorizaciones urbanísticas correspondientes, cualquiera que sea su régimen de tenencia de la tierra, o que no cuenten con la infraestructura urbana correspondiente;
 
-IX. Centros de Población: Áreas constituidas por las zonas urbanizadas y las que se reserven a su expansión;
+IX. Barrio: Zona urbanizada de un centro de población dotado de identidad y características propias;
 
-X. Conjunto Urbano: Es una modalidad en la ejecución de una acción urbanística que tiene por objeto el uso o aprovechamiento de un área o predio, sujeto al régimen de propiedad individual, copropiedad, propiedad en condominio, aportaciones o administraciones fiduciarias u otras formas legales de propiedad y tenencia, como una unidad espacial de gestión integral, que no supone la construcción de vías públicas pero que, mediante obras de infraestructura, urbanización o que su edificación genere más de dieciocho unidades, predios o propiedades individuales de aprovechamiento independiente;
+X. Centros de Población: Áreas constituidas por las zonas urbanizadas y las que se reserven a su expansión;
 
-XI. Consejo Estatal: El Consejo Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano;
+XI. Conjunto Urbano: Es la modalidad que se adopta en la ejecución del desarrollo urbano, que tiene por objeto estructurar o reordenar, como una unidad espacial integral, el trazo de la infraestructura vial, la división del suelo, las normas de usos, aprovechamientos y destinos del suelo; las obras de infraestructura, la urbanización y equipamiento urbano, todas ellas a costa del promovente; la ubicación de la vivienda o lotes, la imagen urbana de un predio ubicado en áreas urbanas o urbanizables;
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+XII. Consejo Estatal: El Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano;
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-XII. CONSTANCIA DE COMPATIBILIDAD TERRITORIAL: EL DOCUMENTO OFICIAL EXPEDIDO POR LA SECRETARÍA, EN EL CUAL SE HACE CONSTAR QUE UNA ACCIÓN URBANÍSTICA ES COMPATIBLE CON EL ORDENAMIENTO TERRITORIAL Y LA PLANEACIÓN URBANA Y METROPOLITANA, Y QUE CONTRIBUYE AL ORDENAMIENTO TERRITORIAL DEL ESTADO. TAMBIÉN HACE CONSTAR SU ADECUADA INSERCIÓN EN LAS REDES DEL ESPACIO PÚBLICO, EL EQUIPAMIENTO Y LA INFRAESTRUCTURA, ASÍ COMO LA FACTIBILIDAD DE DOTAR DE SERVICIOS PÚBLICOS Y, EN SU CASO, ESTABLECE LOS REQUISITOS Y CONDICIONES PARA EVITAR, DISMINUIR O COMPENSAR LOS IMPACTOS TERRITORIALES NEGATIVOS EN SU ENTORNO;
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-XIII. Constancia de Uso del Suelo: El documento oficial expedido por las autoridades municipales, en el cual se consigna el uso o destino de suelo a que puede ser dedicado un área o predio en su jurisdicción territorial, así como sus obligaciones respecto al espacio público y el bien común;
+XIII. CONSTANCIA DE CONGRUENCIA URBANÍSTICA ESTATAL: ES EL DOCUMENTO OFICIAL EXPEDIDO POR LA SECRETARÍA, EN EL CUAL SE HACE CONSTAR QUE UNA ACCIÓN URBANÍSTICA ES CONGRUENTE Y COMPATIBLE CON LA PLANEACIÓN URBANA Y METROPOLITANA, Y QUE CONTRIBUYE AL ORDENAMIENTO URBANO DEL ESTADO. TAMBIÉN HACE CONSTAR SU ADECUADA INSERCIÓN EN LAS REDES DEL ESPACIO PÚBLICO, EL EQUIPAMIENTO Y LA INFRAESTRUCTURA, ASÍ COMO LA FACTIBILIDAD DE DOTAR DE SERVICIOS PÚBLICOS Y, EN SU CASO, ESTABLECE LOS REQUISITOS Y CONDICIONES PARA EVITAR, DISMINUIR O COMPENSAR LOS IMPACTOS NEGATIVOS EN EL ENTORNO URBANO;
 
-XIV. Conservación: La acción tendiente a preservar el buen estado de la infraestructura, espacio público, equipamiento, vivienda, áreas verdes y servicios urbanos de los centros de población, incluyendo sus valores ambientales, históricos y culturales;
+XIV. Constancia de Uso del Suelo: El documento oficial expedido por la autoridad municipal, a solicitud de una persona física o moral, mediante el cual se autoriza un uso o destino del suelo específico, o aprovechamiento de reservas, conforme a los programas municipales a que se refiere el artículo 31 de esta ley así como a las acciones urbanísticas autorizadas e inscritas (ejemplo licencia de fraccionamiento o relotificación), identificando en su caso, los usos permitidos y sus normas técnicas complementarias y las demás condicionantes urbanísticas o ambientales aplicables;
 
-XV. Conurbación: La continuidad física y demográfica que formen dos o más centros de población;
+XV. Conservación: La acción tendiente a preservar el buen estado de la infraestructura, espacio público, equipamiento, vivienda, áreas verdes y servicios urbanos de los centros de población, incluyendo sus valores ambientales, históricos y culturales;
 
-XVI. Crecimiento: La acción tendiente a ordenar y regular la expansión física de los centros de población;
+XVI. Conurbación: La continuidad física y demográfica que formen dos o más centros de población;
 
-XVII. Densificación: Acción urbanística cuya finalidad es incrementar el número de habitantes y la población flotante por unidad de superficie, considerando la capacidad de soporte del territorio y en su caso, adecuando los espacios públicos y sus infraestructuras, conforme a los programas municipales a que se refiere el artículo 31 de esta ley;
+XVII. Crecimiento: La acción tendiente a ordenar y regular la expansión física de los centros de población;
 
-XVIII. Desarrollo Urbano: Proceso de planeación y regulación de la fundación, crecimiento, mejoramiento, consolidación y conservación de los centros de población, en donde se privilegia al ser humano, el medio ambiente, la calidad de vida y el bien común, partiendo de estrategias y objetivos reflejados en ejes compositivos vertebradores del espacio público, la infraestructura, el equipamiento y la movilidad;
+XVIII. Densificación: Acción urbanística cuya finalidad es incrementar el número de habitantes y la población flotante por unidad de superficie, considerando la capacidad de soporte del territorio y en su caso, adecuando los espacios públicos y sus infraestructuras, conforme a los programas municipales a que se refiere el artículo 31 de esta ley;
 
-XIX. Desarrollo Metropolitano: Proceso de planeación, regulación, gestión, financiamiento y ejecución de acciones, obras y servicios, en zonas metropolitanas que por su población, extensión y complejidad, deberán participar en forma coordinada los tres órdenes de gobierno de acuerdo a sus atribuciones;
+XIX. Desarrollo Urbano: Proceso de planeación y regulación de la fundación, crecimiento, mejoramiento, consolidación y conservación de los centros de población, en donde se privilegia al ser humano, el medio ambiente, la calidad de vida y el bien común, partiendo de estrategias y objetivos reflejados en ejes compositivos vertebradores del espacio público, la infraestructura, el equipamiento y la movilidad;
 
-XX. Destinos: Los fines públicos a que se prevea dedicar determinadas zonas o predios de un centro de población;
+XX. Desarrollo Metropolitano: Proceso de planeación, regulación, gestión, financiamiento y ejecución de acciones, obras y servicios, en zonas metropolitanas que por su población, extensión y complejidad, deberán participar en forma coordinada los tres órdenes de gobierno de acuerdo a sus atribuciones;
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN XXI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+XXI. Destinos: Los fines públicos a que se prevea dedicar determinadas zonas o predios de un centro de población;
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-XXI. DICTAMEN DE IMPACTO TERRITORIAL: ES UNA MODALIDAD DE LA CONSTANCIA DE COMPATIBILIDAD TERRITORIAL, NECESARIO PARA AQUELLAS ACCIONES URBANÍSTICAS QUE POR SU DIMENSIÓN, CARACTERÍSTICAS O EFECTO EN UN CENTRO DE POBLACIÓN O EN LAS REDES DE INFRAESTRUCTURA Y SERVICIOS PÚBLICOS, REQUIEREN DE UN ESTUDIO ESPECÍFICO DE IMPACTO SOBRE EL TERRITORIO;
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-XXII. Equipamiento Urbano: El conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado para prestar a la población los servicios urbanos para desarrollar actividades económicas, sociales, culturales, deportivas, educativas, de traslado y de abasto;
+XXII. DICTAMEN DE IMPACTO URBANÍSTICO: ES UNA MODALIDAD DE LA CONSTANCIA DE CONGRUENCIA URBANÍSTICA ESTATAL, NECESARIO PARA AQUELLAS ACCIONES URBANÍSTICAS QUE POR SU DIMENSIÓN, CARACTERÍSTICAS O EFECTO EN UN CENTRO DE POBLACIÓN O EN LAS REDES DE INFRAESTRUCTURA Y SERVICIOS PÚBLICOS, REQUIEREN DE UN ESTUDIO ESPECÍFICO DE IMPACTO SOBRE LA CONGRUENCIA DEL POLÍGONO Y SUS COLINDANTES, CON LA INFRAESTRUCTURA URBANA;
 
-XXIII. Espacio Público: Áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute y aprovechamiento colectivo, de acceso generalizado y libre tránsito, propiciando equilibrio, bienestar y convivencia, fortaleciendo al ser humano y su dignidad;
+XXIII. Equipamiento Urbano: El conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado para prestar a la población los servicios urbanos para desarrollar actividades económicas, sociales, culturales, deportivas, educativas, de traslado y de abasto;
 
-XXIV. Espacio Edificable: Suelo apto para el uso y aprovechamiento de sus propietarios o poseedores en los términos de la legislación correspondiente;
+XXIV. Espacio Público: Áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute y aprovechamiento colectivo, de acceso generalizado y libre tránsito, propiciando equilibrio, bienestar y convivencia, fortaleciendo al ser humano y su dignidad;
 
-XXV. Estado: El Estado de Quintana Roo;
+XXV. Espacio Edificable: Suelo apto para el uso y aprovechamiento de sus propietarios o poseedores en los términos de la legislación correspondiente;
 
-XXVI. Estrategia Estatal de Ordenamiento Territorial: Instrumento público de planeación del territorio, que a partir del reconocimiento de los ecosistemas y la aptitud del suelo, delimita las regiones y establece la jerarquización y caracterización de las zonas metropolitanas, conurbaciones y centros de población, así como sus interrelaciones funcionales;
+XXVI. Estado: El Estado de Quintana Roo;
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN XXVII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+XXVII. Estrategia Estatal de Ordenamiento Territorial: Instrumento público de planeación del territorio, que a partir del reconocimiento de los ecosistemas y la aptitud del suelo, delimita las regiones y establece la jerarquización y caracterización de las zonas metropolitanas, conurbaciones y centros de población, así como sus interrelaciones funcionales;
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-XXVII. ESTUDIO DE IMPACTO TERRITORIAL: DOCUMENTO NECESARIO PARA LA OBTENCIÓN DEL DICTAMEN EN LA MATERIA, EN QUE SE EXPONEN Y EVALÚAN LA MAGNITUD DE IMPACTOS O ALTERACIONES QUE CAUSE O PUEDA CAUSAR UNA ACCIÓN URBANÍSTICA, PÚBLICA O PRIVADA, CONTEMPLADAS EN ESTA LEY, QUE POR SU UBICACIÓN, FUNCIONAMIENTO, COMPLEJIDAD O MAGNITUD AFECTE A LA INFRAESTRUCTURA, A LOS SERVICIOS PÚBLICOS DEL ÁREA; EL ESPACIO, LA IMAGEN Y PAISAJE URBANOS O LA ESTRUCTURA SOCIOECONÓMICA; SIGNIFIQUE UN RIESGO PARA LA VIDA, LA SALUD O LOS BIENES DE LA COMUNIDAD, IMPLIQUE SU DESPLAZAMIENTO O EXPULSIÓN PAULATINA; O, DETERMINE UNA AFECTACIÓN PARA EL PATRIMONIO CULTURAL DEL CENTRO DE POBLACIÓN; INCLUYENDO LAS CONDICIONES Y MEDIDAS PARA EVITAR, REDUCIR O COMPENSAR LOS EFECTOS NEGATIVOS SOBRE EL DESARROLLO URBANO;
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-XXVIII. Fraccionamiento: Modalidad en la ejecución de una acción urbanística que tiene por objeto el uso o aprovechamiento de un área o predio, y que consiste en una división de predios en lotes o fracciones, que implique la apertura de una o más vías públicas con servicios de agua potable, drenaje sanitario, electrificación y vialidades, así como la previsión de equipamientos y espacio público;
+XXVIII. ESTUDIO DE IMPACTO URBANO: DOCUMENTO NECESARIO PARA LA OBTENCIÓN DEL DICTAMEN EN LA MATERIA, EN QUE SE EXPONEN Y EVALÚAN LA MAGNITUD DE IMPACTOS O ALTERACIONES QUE CAUSE O PUEDA CAUSAR UNA ACCIÓN URBANÍSTICA, PÚBLICA O PRIVADA, CONTEMPLADAS EN ESTA LEY, QUE POR SU UBICACIÓN, FUNCIONAMIENTO, COMPLEJIDAD O MAGNITUD AFECTE A LA INFRAESTRUCTURA, A LOS SERVICIOS PÚBLICOS DEL ÁREA; EL ESPACIO, LA IMAGEN Y PAISAJE URBANOS O LA ESTRUCTURA SOCIOECONÓMICA; SIGNIFIQUE UN RIESGO PARA LA VIDA, LA SALUD O LOS BIENES DE LA COMUNIDAD, IMPLIQUE SU DESPLAZAMIENTO O EXPULSIÓN PAULATINA; O, DETERMINE UNA AFECTACIÓN PARA EL PATRIMONIO CULTURAL DEL CENTRO DE POBLACIÓN, INCLUYENDO LAS CONDICIONES Y MEDIDAS PARA EVITAR, REDUCIR O COMPENSAR LOS EFECTOS NEGATIVOS SOBRE EL DESARROLLO URBANO;
 
-XXIX. Fundación: La acción de establecer un nuevo centro de población;
+XXIX. Fraccionamiento: Modalidad en la ejecución de una acción urbanística que tiene por objeto el uso o aprovechamiento de un área o predio, y que consiste en una división de predios en lotes o fracciones, que implique la apertura de una o más vías públicas con servicios de agua potable, drenaje sanitario, electrificación y vialidades, así como la previsión de equipamientos y espacio público;
 
-XXX. Gestión Integral de Riesgos: El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción que involucra a los tres órdenes de gobierno, así como a los sectores de la sociedad, lo que facilita la implementación de políticas públicas, estrategias y procedimientos que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Comprende la identificación de los riesgos y, en su caso, su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
+XXX. Fundación: La acción de establecer un nuevo centro de población;
 
-XXXI. Imagen Urbana: El conjunto de elementos naturales, construidos y artísticos que integran una ciudad, tales como la traza urbana, la zonificación urbana, sus usos y destinos, el espacio público, los edificios, el equipamiento urbano, las expresiones plásticas, los hitos, los corredores biológicos, el medio ambiente natural, y todo aquello que formando referencias visuales dan identidad al centro de población, transmitiendo valores y cosmovisiones, fortaleciendo el arraigo y la dignidad de sus moradores;
+XXXI. Gestión Integral de Riesgos: El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción que involucra a los tres órdenes de gobierno, así como a los sectores de la sociedad, lo que facilita la implementación de políticas públicas, estrategias y procedimientos que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Comprende la identificación de los riesgos y, en su caso, su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
 
-XXXII. Infraestructura: Los sistemas y redes de organización y distribución de bienes y servicios en los asentamientos humanos, incluyendo los espacios públicos, los elementos para la movilidad de las personas y las relatívas a las telecomunicaciones y radiodifusión;
+XXXII. Imagen Urbana: El conjunto de elementos naturales, construidos y artísticos que integran una ciudad, tales como la traza urbana, la zonificación urbana, sus usos y destinos, el espacio público, los edificios, el equipamiento urbano, las expresiones plásticas, los hitos, los corredores biológicos, el medio ambiente natural, y todo aquello que formando referencias visuales dan identidad al centro de población, transmitiendo valores y cosmovisiones, fortaleciendo el arraigo y la dignidad de sus moradores;
 
-XXXIII. Licencia de Uso o Destino de Suelo: El documento oficial expedido por la autoridad municipal, a solicitud de una persona física o moral, mediante el cual se autoriza un uso o destino del suelo específico, o aprovechamiento de reservas, conforme a los programas municipales a que se refiere el artículo 31 de esta ley, identificando sus normas técnicas complementarias y en su caso, las demás condicionantes urbanísticas o ambientales aplicables;
+XXXIII. Infraestructura: Los sistemas y redes de organización y distribución de bienes y servicios en los asentamientos humanos, incluyendo los espacios públicos, los elementos para la movilidad de las personas y las relativas a las telecomunicaciones y radiodifusión;
 
 XXXIV. Límite de Centro de Población: Polígono que comprende las áreas constituidas por las zonas urbanizadas y las zonas urbanizables que se reserven para su expansión, conforme a los programas municipales a que se refiere el artículo 31 de esta ley;
 
@@ -245,13 +249,13 @@ XXXVIII. Parcelación: Al acto por el cual se fracciona, segrega o divide un pre
 
 XXXIX. Patrimonio Natural y Cultural: Sitios, lugares o edificaciones con valor arqueológico, histórico, artístico, ambiental o de otra naturaleza, definidos y regulados por la legislación correspondiente;
 
-XL. Programa Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano Sustentable: Es el conjunto de estudios, políticas, instrumentos, normas técnicas y disposiciones jurídicas relativas a la ordenación y regulación de los asentamientos humanos y el ordenamiento ecológico en el Estado, en donde se prioriza al ser humano, el bien común y el medio ambiente natural y su biodiversidad, con la finalidad de dignificar la calidad de vida, el enraizamiento de costumbres, y la formación de un tejido de relaciones territoriales y comunitarias, que propicien certeza y seguridad jurídica, dentro de una cultura de sustentabilidad socio ambiental;
+XL. Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano: Es el conjunto de estudios, políticas, instrumentos, normas técnicas y disposiciones jurídicas relativas a la ordenación y regulación de los asentamientos humanos, el ordenamiento territorial en el Estado, en donde se prioriza al ser humano, el bien común y el medio ambiente natural y su biodiversidad, con la finalidad de dignificar la calidad de vida, el enraizamiento de costumbres, y la formación de un tejido de relaciones territoriales y comunitarias, que propicien certeza y seguridad jurídica, dentro de una cultura de sustentabilidad socio ambiental;
 
 XLI. Polígonos de Salvaguarda: Son aquellas áreas que pueden ser afectadas por actividades riesgosas, y en general aquellas que por su importancia tengan como finalidad la protección y seguridad de la población, sus bienes y el ambiente;
 
 XLII. Polígonos de Actuación: Son aquellas áreas para el desarrollo o aprovechamiento de inmuebles declaradas por los municipios, bajo el esquema de sistemas de actuación pública o privada, mediante la relotificación y relocalización de usos de suelo y destinos, así como para un adecuado reparto de cargas y beneficios resultantes ajustándose a las determinaciones de los programas municipales a que se refiere el artículo 31 de esta ley;
 
-XLIII. Programas Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano: Son los instrumentos de ordenamiento ecológico y de planeación del desarrollo urbano municipal, que incluye la regulación al uso y aprovechamiento del territorio municipal, de acuerdo a lo dispuesto en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
+XLIII. Programas y Planes Municipales de Desarrollo Urbano: Son los instrumentos de ordenamiento y planeación del desarrollo urbano municipal, que incluye la regulación al uso y aprovechamiento del territorio municipal, de acuerdo a lo dispuesto en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
 
 XLIV. Provisiones: Las áreas que serán utilizadas para la fundación de un centro de población;
 
@@ -261,13 +265,13 @@ XLVI. Registro Público: El Registro Público de la Propiedad y del Comercio del
 
 XLVII. Regularización Territorial: La acción integrada de las autoridades tendiente a:
 
-a) Otorgar las autorizaciones urbanísticas para un asentamiento humano irregular, si ello procede, sin perjuicio de la responsabilidad penal, civil y administrativa de los responsables;
+a. Otorgar las autorizaciones urbanísticas para un asentamiento humano irregular, si ello procede, sin perjuicio de la responsabilidad penal, civil y administrativa de los responsables;
 
-b) Promover y resolver la legitimación de la posesión y la propiedad de la tierra, en aquellos casos que proceda;
+b. Promover y resolver la legitimación de la posesión y la propiedad de la tierra, en aquellos casos que proceda;
 
-c) La obtención y regularización de escrituras públicas o títulos de propiedad a favor de posesionarios legítimos, ubicados en asentamientos regulares, y
+c. La obtención y regularización de escrituras públicas o títulos de propiedad a favor de posesionarios legítimos, ubicados en asentamientos regulares, y
 
-d) Promover el mejoramiento integral de los asentamientos humanos.
+d. Promover el mejoramiento integral de los asentamientos humanos.
 
 XLVIII. Reservas: Las áreas de un centro de población que serán utilizadas para su crecimiento;
 
@@ -283,27 +287,31 @@ LIII. Servicios Urbanos: Las actividades operativas públicas prestadas directam
 
 LIV. Sistemas Urbano Rurales: Unidades espaciales básicas del ordenamiento territorial, que agrupan áreas no urbanizadas, centros urbanos y asentamientos rurales vinculados funcionalmente;
 
-LV. Subdivisión: La partición de un terreno en varias fracciones, que por lo general no requiera del trazo de una o más vías públicas en los términos de esta ley;
+LV. Subdivisión: La partición de un terreno en varias fracciones; en la cual puede ser considerada que una fracción o una de las fracciones resultantes sea destinada a vialidad;
 
 LVI. Unidad de Medida y Actualización (UMA): La referencia económica emitida por el Instituto Nacional de Estadística y Geografía, que se utiliza para determinar la cuantía en pesos, del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas, así como en las disposiciones jurídicas que emanen de todas las anteriores;
 
 LVII. Usos del suelo: Los fines particulares a que podrán dedicarse determinadas zonas o predios de un centro de población o asentamiento humano;
 
-LVIII. Verificación de Congruencia: Es el estudio y resolución expedida por la Secretaría donde se establecen los elementos y condiciones para asegurar la concordancia y armonía de los programas municipales a que se refiere el artículo 31 de esta ley, con la Estrategia Estatal de Ordenamiento Territorial, el Programa Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano Sustentable, así como de zonas metropolitanas y conurbadas vigentes;
+LVIII. Vía Pública: Es el trazo vial correspondiente a la superficie de terreno que debe transmitirse a título gratuito al municipio para destinarse a libre tránsito como vialidad, derecho de vía y/o vía de comunicación cuyo fin público debe quedar asegurado; así como todo espacio de uso público que por disposición del Ayuntamiento se encuentre destinado al libre tránsito, de conformidad con las Leyes y Reglamentos de la materia, así como todo inmueble que de hecho se utilice para ese fin;
 
-LIX. Zona Metropolitana: Centros de población o conurbaciones que, por su complejidad, interacciones, relevancia social y económica, conforman una unidad territorial de influencia dominante y revisten importancia estratégica para el desarrollo estatal o nacional;
+LIX. Verificación de Congruencia: Es el estudio y resolución expedida por la Secretaría donde se establecen los elementos y condiciones para asegurar la concordancia y armonía de los programas municipales a que se refiere el artículo 31 de esta ley, con la Estrategia Estatal de Ordenamiento Territorial, el Programa Estatal de Ordenamiento Territorial, y Desarrollo Urbano Sustentable, así como de zonas metropolitanas y conurbadas vigentes;
 
-LX. Zonificación Primaria: La determinación de las áreas que integran un territorio municipal, comprendiendo aquellas de preservación ecológica y del medio rural, con características no urbanizables; así como aquellas ocupadas por los centros de población o los asentamientos humanos, incluyendo sus aprovechamientos predominantes, espacios públicos, infraestructuras y equipamientos estratégicos, las reservas de usos y destinos de suelo, así como la clasificación de las áreas de crecimiento, conservación y mejoramiento;
+LX. Zona Metropolitana: Centros de población o conurbaciones que, por su complejidad, interacciones, relevancia social y económica, conforman una unidad territorial de influencia dominante y revisten importancia estratégica para el desarrollo estatal o nacional;
 
-LXI. Zonificación Secundaria: La determinación de los usos de suelo y destinos permitidos, prohibidos o condicionados en un espacio edificable y no edificable, así como sus compatibilidades, los coeficientes de uso y ocupación de suelo, las densidades, otros parámetros, criterios ecológicos y normas técnicas, tales como alturas máximas y alineamientos;
+LXI. Zonificación Primaria: La determinación de las áreas que integran un territorio municipal, comprendiendo aquellas de preservación ecológica y del medio rural, con características no urbanizables; así como aquellas ocupadas por los centros de población o los asentamientos humanos, incluyendo sus aprovechamientos predominantes, espacios públicos, infraestructuras y equipamientos estratégicos, las reservas de usos y destinos de suelo, así como la clasificación de las áreas de crecimiento, conservación y mejoramiento;
 
-LXII. Zonificación Incluyente: Instrumento que permite dar flexibilidad a los usos del suelo y transparencia financiera a la gestión urbana, mediante el cual, los ciudadanos puedan desarrollar y acceder a mejores condiciones para el desarrollo de sus propiedades, así como generar mecanismos para sufragar los rezagos de infraestructura y equipamiento urbano en los centros de población, y
+LXII. Zonificación Incluyente: Instrumento que permite dar flexibilidad a los usos del suelo y transparencia financiera a la gestión urbana, mediante el cual, los ciudadanos puedan desarrollar y acceder a mejores condiciones para el desarrollo de sus propiedades, así como generar mecanismos para sufragar los rezagos de infraestructura y equipamiento urbano en los centros de población;
 
-LXIII. Zona de Riesgo: Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por fenómenos naturales o antrópicos.
+LXIII. Zonificación Secundaria: La determinación de los usos de suelo y destinos permitidos, prohibidos o condicionados en un espacio edificable y no edificable, así como sus compatibilidades, los coeficientes de uso y ocupación de suelo, las densidades, otros parámetros, criterios ecológicos y normas técnicas, tales como alturas máximas y alineamientos, y
+
+LXIV. Zona de Riesgo: Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por fenómenos naturales o antrópicos.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 8.
 
-En lo no previsto por esta ley se aplicarán en forma supletoria la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Quintana Roo, el Código de Justicia Administrativa del Estado de Quintana Roo y el Código Civil para el Estado Libre y Soberano de Quintana Roo.
+En lo no previsto por esta ley se aplicarán en forma supletoria la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Quintana Roo, el Código de Justicia Administrativa del Estado de Quintana Roo; el Código Civil para el Estado de Quintana Roo y el Código Penal para el Estado Libre y Soberano de Quintana Roo.
 
 ## Título Segundo. De Las Autoridades
 
@@ -331,7 +339,9 @@ I. Formular y conducir las políticas estatales sobre ordenamiento territorial, 
 
 II. Promover el cumplimiento y la efectiva protección de los derechos humanos relacionados con el ordenamiento territorial de los asentamientos humanos, el desarrollo urbano y la vivienda;
 
-III. Aprobar y administrar el Programa Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano Sustentable, así como vigilar y evaluar su cumplimiento con la participación de los municipios y la sociedad;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+III. Aprobar y administrar el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, así como vigilar y evaluar su cumplimiento con la participación de los municipios y la sociedad;
 
 IV. Celebrar convenios con la federación, con otras entidades federativas y con los Municipios, para la planeación, instrumentación y regulación de las acciones de ordenamiento territorial y la promoción y administración del desarrollo urbano de los municipios, áreas conurbadas, zonas metropolitanas y centros de población de la entidad;
 
@@ -345,79 +355,81 @@ VIII. Promover y desarrollar mecanismos de financiamiento para el ordenamiento t
 
 IX. Promover acciones y financiamiento para la dotación de infraestructura, equipamiento, espacios públicos, elementos para la movilidad y servicios urbanos, la seguridad de la población que se ubique en los polígonos de salvaguarda determinados por los programas municipales a que se refiere el artículo 31 de esta ley, así como en la protección del patrimonio cultural inmueble y del equilibrio ecológico, la sustentabilidad del territorio y de los centros de población;
 
-X. Conducir, en coordinación con los municipios y otras dependencias y entidades públicas, los procesos de regularización territorial en el Estado;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+X. Participar en coordinación con los municipios y otras dependencias y entidades públicas, los procesos de regularización territorial en el Estado;
 
 XI. Proponer a la Legislatura del Estado, acompañado de los estudios técnicos correspondientes, la fundación de Centros de Población, y
 
 XII. Promover la participación social en las materias a que se refiere este ordenamiento.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 12.
 
 La Secretaría, además de las atribuciones que le asigna la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, tendrá las siguientes:
 
-I. Formular, modificar, actualizar y evaluar la Estrategia Estatal de Ordenamiento Territorial y el Programa Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano Sustentable, así como sus actualizaciones, en coordinación con SEMA y la SEDETUR y someterlo a la consideración del Titular del Ejecutivo;
+I. Formular, modificar, actualizar y evaluar la Estrategia Estatal de Ordenamiento Territorial y el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, así como sus actualizaciones, en coordinación, participación y consenso con los representantes público, social y privado en materia de Ordenamiento Territorial y Desarrollo Urbano, así como también someterlo a la consideración de la persona Titular del Ejecutivo;
 
 II. Participar de manera conjunta con los municipios, en la ordenación y regulación de centros de población, ubicados en el territorio de la entidad, que constituyan o tiendan a constituir una conurbación o zona metropolitana;
 
 III. Apoyar y participar, en coordinación con los Municipios involucrados, en la ejecución de los programas a que se refiere el artículo 31 de esta ley, en coordinación con otras dependencias y entidades públicas y con la participación de los sectores social y privado;
 
-IV. Promover, en coordinación con SEMA, las políticas y estrategias de ordenamiento territorial, ecológico y desarrollo urbano, así como de suelo urbano y reservas territoriales, incluyendo la asignación de recursos presupuestales y de otras fuentes de financiamiento en la materia;
+IV. Promover, en coordinación, participación y consenso con los representantes público, social y privado en materia de Ordenamiento Territorial y Desarrollo Urbano, las políticas y estrategias de ordenamiento territorial y desarrollo urbano, así como de suelo urbano y reservas territoriales, incluyendo la asignación de recursos presupuestales y de otras fuentes de financiamiento en la materia;
 
-V. Promover la participación social para la observancia y regulación del crecimiento de los centros de población;
+V. En coordinación con los actores del territorio, verificar la congruencia y vinculación que deberán observar entre sí los distintos instrumentos de planeación del territorio, emitiendo los dictámenes o resoluciones, fundados y motivados, que correspondan;
 
-VI. En coordinación con SEMA, verificar la congruencia y vinculación que deberán observar entre sí los distintos instrumentos de planeación del territorio, emitiendo los dictámenes o resoluciones, fundados y motivados, que correspondan;
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+VI. OTORGAR O NEGAR LA CONSTANCIA DE CONGRUENCIA URBANÍSTICA ESTATAL Y, EN SU CASO, RESOLVER SOBRE LOS DICTÁMENES DE IMPACTO URBANÍSTICO DE LOS ESTUDIOS QUE SE SOMETAN A SU CONSIDERACIÓN, CONFORME ESTA LEY Y DEMÁS DISPOSICIONES APLICABLES;
 
-VII. OTORGAR O NEGAR LAS CONSTANCIAS DE COMPATIBILIDAD TERRITORIAL Y, EN SU CASO, RESOLVER SOBRE LOS DICTÁMENES DE IMPACTO TERRITORIAL DE LOS ESTUDIOS QUE SE SOMETAN A SU CONSIDERACIÓN, CONFORME ESTA LEY Y DEMÁS DISPOSICIONES APLICABLES;
+VII. Prever las necesidades de suelo y reservas territoriales para el ordenamiento territorial y desarrollo urbano del Estado y regular, en coordinación con los gobiernos, federal y municipales, así como con los sectores social y privado, los mecanismos para satisfacer dichas necesidades;
 
-VIII. Prever las necesidades de suelo y reservas territoriales para el ordenamiento territorial y desarrollo urbano del Estado y regular, en coordinación con los gobiernos, federal y municipales, así como con los sectores social y privado, los mecanismos para satisfacer dichas necesidades;
+VIII. Intervenir en los procesos de regularización territorial, en los términos de esta ley y de conformidad con los programas municipales a que se refiere el artículo 31 de esta ley;
 
-IX. Intervenir en los procesos de regularización territorial, en los términos de esta ley y de conformidad con los programas municipales a que se refiere el artículo 31 de esta ley;
+IX. Gestionar y, en su caso, ejercer el derecho de preferencia que corresponde al Estado, para la adquisición de predios comprendidos en las áreas de crecimiento conforme a lo dispuesto en el artículo 132 de esta ley;
 
-X. Gestionar y, en su caso, ejercer el derecho de preferencia que corresponde al Estado, para la adquisición de predios comprendidos en las áreas de crecimiento conforme a lo dispuesto en el artículo 132 de esta ley;
+X. Promover en coordinación con los actores del territorio que las acciones e inversiones en materia de esta ley que realicen las dependencias y entidades de la administración pública estatal, se ajusten a la misma y a los instrumentos de planeación a que se refiere el artículo 31 de esta ley;
 
-XI. Promover, en coordinación con SEMA, que las acciones e inversiones en materia de esta ley que realicen las dependencias y entidades de la administración pública estatal, se ajusten a la misma y a los instrumentos de planeación a que se refiere el artículo 31 de esta ley;
+XI. Vigilar el cumplimiento de las políticas de ordenamiento territorial de los asentamientos humanos en la entidad, y de los convenios y acuerdos que suscriba el Titular del Ejecutivo con los sectores público, social y privado, en materia de desarrollo urbano, así como determinar, en su caso, las medidas correctivas procedentes;
 
-XII. Vigilar el cumplimiento de las políticas de ordenamiento territorial de los asentamientos humanos en la entidad, y de los convenios y acuerdos que suscriba el Titular del Ejecutivo con los sectores público, social y privado, en materia de desarrollo urbano, así como determinar, en su caso, las medidas correctivas procedentes;
+XII. Verificar y asegurarse de la publicación en el Periódico Oficial del Estado de Quintana Roo y su inscripción en el Registro Público, de los instrumentos de planeación a que alude el artículo 31 de esta ley;
 
-XIII. Verificar y asegurarse de la publicación en el Periódico Oficial del Estado de Quintana Roo y su inscripción en el Registro Público, de los instrumentos de planeación a que alude el artículo 31 de esta ley;
+XIII. Asesorar a los Municipios en la elaboración y asistir en la ejecución de los programas municipales a que se refiere el artículo 31 de esta ley, la gestión de recursos y en la capacitación técnica de su personal;
 
-XIV. Asesorar a los Municipios en la elaboración y asistir en la ejecución de los programas municipales a que se refiere el artículo 31 de esta ley, la gestión de recursos y en la capacitación técnica de su personal;
+XIV. Coordinar las acciones que convenga el Titular del Ejecutivo con los gobiernos federal y municipales para el ordenamiento territorial y el desarrollo urbano, de las zonas metropolitanas y áreas conurbadas;
 
-XV. Coordinar las acciones que convenga el Titular del Ejecutivo con los gobiernos federal y municipales para el ordenamiento territorial, ecológico y desarrollo urbano, de las zonas metropolitanas y áreas conurbadas;
+XV. Promover, apoyar y realizar investigaciones científicas y tecnológicas en materia de ordenamiento territorial, desarrollo urbano, regional y metropolitano, así como promover ante las autoridades correspondientes la adecuación de los programas educativos, en todos los niveles, para fomentar una cultura de los derechos y valores urbanos;
 
-XVI. Promover, apoyar y realizar investigaciones científicas y tecnológicas en materia de ordenamiento territorial, desarrollo urbano, regional y metropolitano, así como promover ante las autoridades correspondientes la adecuación de los programas educativos, en todos los niveles, para fomentar una cultura de los derechos y valores urbanos;
+XVI. Apoyar a las autoridades municipales que lo soliciten, en la administración de la planeación del ordenamiento territorial y desarrollo urbano, o convenir con ellas la transferencia de facultades estatales en la materia, así como la adecuada operación y simplificación de trámites y procedimientos, en términos de los convenios que para ese efecto se celebren;
 
-XVII. Apoyar a las autoridades municipales que lo soliciten, en la administración de la planeación del ordenamiento territorial y desarrollo urbano, o convenir con ellas la transferencia de facultades estatales en la materia, así como la adecuada operación y simplificación de trámites y procedimientos, en términos de los convenios que para ese efecto se celebren;
+XVII. Apoyar a los Municipios que lo soliciten, en la administración de los servicios públicos municipales, en los términos de las leyes aplicables;
 
-XVIII. Apoyar a los Municipios que lo soliciten, en la administración de los servicios públicos municipales, en los términos de las leyes aplicables;
+XVIII. Promover la construcción de obras de infraestructura, urbanización y equipamiento, así como la implementación prioritaria de acciones sobre el espacio público y la movilidad, para el desarrollo urbano, regional y metropolitano en coordinación con los gobiernos federal y municipales y la participación de los sectores social y privado;
 
-XIX. Promover la construcción de obras de infraestructura, urbanización y equipamiento, así como la implementación prioritaria de acciones sobre el espacio público y la movilidad, para el desarrollo urbano, regional y metropolitano en coordinación con los gobiernos federal y municipales y la participación de los sectores social y privado;
+XIX. Promover la creación y funcionamiento de Institutos de Planeación, Observatorios, Consejos Participativos y otras estructuras institucionales y ciudadanas que se requieran;
 
-XX. Promover la creación y funcionamiento de Institutos de Planeación, Observatorios, Consejos Participativos y otras estructuras institucionales y ciudadanas que se requieran;
+XX. Proponer criterios y acciones para la regulación y mejoramiento de los asentamientos humanos, en coordinación con los Municipios y en su caso, con la federación;
 
-XXI. Proponer criterios y acciones para la regulación y mejoramiento de los asentamientos humanos, en coordinación con los Municipios y en su caso, con la federación;
+XXI. Coordinarse con el gobierno federal, con las instancias estatales que sean necesarias y con los municipios, así como con los sectores social y privado, en la realización de acciones e inversiones para el ordenamiento territorial y la prevención de riesgos en los asentamientos humanos y el desarrollo urbano de los centros de población;
 
-XXII. Coordinarse con el gobierno federal, con SEMA y los municipios, así como con los sectores social y privado, en la realización de acciones e inversiones para el ordenamiento territorial y la prevención de riesgos en los asentamientos humanos y el desarrollo urbano de los centros de población;
+XXII. Prevenir y evitar la ocupación por asentamientos humanos en zonas de alto riesgo, de conformidad con los atlas de riesgo y en los términos de la legislación aplicable;
 
-XXIII. Prevenir y evitar la ocupación por asentamientos humanos en zonas de alto riesgo, de conformidad con los atlas de riesgo y en los términos de la legislación aplicable;
+XXIII. Informar y difundir permanentemente sobre el contenido, la aplicación y la evaluación de los instrumentos de planeación a que se refiere el artículo 31 de esta ley;
 
-XXIV. Informar y difundir permanentemente sobre el contenido, la aplicación y la evaluación de los instrumentos de planeación a que se refiere el artículo 31 de esta ley;
+XXIV. Emitir, en su caso, el Dictamen de Verificación de Congruencia, sobre los reglamentos en materia de construcción e imagen urbana, así como de los instrumentos de planeación municipales a que se refiere el artículo 31 de esta ley, como requisito previo para solicitar su inscripción en el Registro Público;
 
-XXV. Emitir, en su caso, el Dictamen de Verificación de Congruencia, sobre los reglamentos en materia de construcción e imagen urbana, así como de los instrumentos de planeación municipales a que se refiere el artículo 31 de esta ley, como requisito previo para solicitar su inscripción en el Registro Público;
+XXV. En coordinación con las autoridades, las instancias federales, estatales y municipales correspondientes homologar en todos los municipios los perfiles profesionales para los peritos responsables de obra y corresponsables;
 
-XXVI. En coordinación con las autoridades municipales y SEMA, homologar en todos los municipios los perfiles profesionales para los peritos responsables de obra y corresponsables, así como peritos ambientales, en sus diferentes especialidades;
+XXVI. Promover la capacitación de los peritos y servidores públicos involucrados en la gestión urbanística en el Estado;
 
-XXVII. Promover la capacitación de los peritos y servidores públicos involucrados en la gestión urbanística en el Estado;
+XXVII. Resolver los recursos de su competencia;
 
-XXVIII. Resolver los recursos de su competencia;
+XXVIII. Inspeccionar, vigilar y verificar el cumplimiento y aplicación de las disposiciones legales de su competencia, y
 
-XXIX. Inspeccionar, vigilar y verificar el cumplimiento y aplicación de las disposiciones legales de su competencia, y
-
-XXX. Imponer medidas de seguridad y sanciones administrativas de acuerdo con su competencia, a los infractores de las disposiciones jurídicas, en los términos de esta ley.
+XXIX. Imponer medidas de seguridad y sanciones administrativas de acuerdo con su competencia, a los infractores de las disposiciones jurídicas, en los términos de esta ley.
 
 ###### Artículo 13.
 
@@ -443,7 +455,9 @@ IX. Celebrar convenios de asociación con el Gobierno del Estado y otros municip
 
 X. Celebrar con la Federación, el Gobierno del Estado, con otros Municipios o con los particulares, convenios y acuerdos de coordinación y concertación que apoyen los objetivos y prioridades previstos en los instrumentos de planeación municipales a que se refiere el artículo 31 de esta ley;
 
-XI. Instalar los Consejos Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+XI. Instalar los Consejos Municipales de Ordenamiento Territorial y Desarrollo Urbano;
 
 XII. Prestar los servicios públicos municipales, atendiendo a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Quintana Roo y en la legislación aplicable;
 
@@ -581,9 +595,11 @@ V. Promoverán la constitución de agrupaciones comunitarias que participen en e
 
 VI. Diseñarán programas de promoción y participación conjunta con los colegios de profesionistas, cámaras y asociaciones de profesionistas en el estado que tengan relación con el desarrollo urbano.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 23.
 
-Cuando se estén realizando actos u omisiones que contravengan esta ley, sus reglamentos, o los programas de ordenamiento territorial, ecológico y desarrollo urbano, cualquier ciudadano podrá denunciarlo ante la autoridad estatal o municipal competente.
+Cuando se estén realizando actos u omisiones que contravengan esta ley, sus reglamentos, o los programas de desarrollo urbano, cualquier ciudadano podrá denunciarlo ante la autoridad estatal o municipal competente.
 
 ### Capítulo Tercero. De los Órganos de Participación Social y Ciudadana
 
@@ -591,41 +607,45 @@ Cuando se estén realizando actos u omisiones que contravengan esta ley, sus reg
 
 Para asegurar la consulta, opinión y deliberación de las políticas de ordenamiento territorial, el Estado y los Municipios, en el ámbito de sus respectivas competencias, conformarán y apoyarán la operación de los siguientes órganos auxiliares de participación ciudadana y conformación plural:
 
-I. El Consejo Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+I. El Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano;
 
 II. Los Consejos Metropolitanos y de Conurbaciones.
 
-III. Los Consejos Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+III. Los Consejos Municipales de Ordenamiento Territorial y Desarrollo Urbano.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 25.
 
-El Consejo Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano, es un órgano de consulta y participación de los sectores y grupos de la comunidad, su conformación será incluyente y representativa de los diversos sectores de la sociedad civil y tendrá por objeto el análisis, diagnóstico, aportación, difusión y evaluación de los programas, proyectos, obras, acciones e inversiones que se lleven a cabo conforme a las disposiciones de esta ley. Su sede será la ciudad de Chetumal, Quintana Roo, pudiendo sesionar fuera de ella, y funcionará permanentemente con jurisdicción en toda la entidad.
+El Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano, es un órgano de consulta y participación de los sectores y grupos de la comunidad, su conformación será incluyente y representativa de los diversos sectores de la sociedad civil y tendrá por objeto el análisis, diagnóstico, aportación, difusión y evaluación de los programas, proyectos, obras, acciones e inversiones que se lleven a cabo conforme a las disposiciones de esta ley. Su sede será la ciudad de Chetumal, Quintana Roo, pudiendo sesionar fuera de ella, y funcionará permanentemente con jurisdicción en toda la entidad.
 
 El Consejo Estatal sesionará de manera ordinaria una vez cada seis meses y de manera extraordinaria cuando resulte necesario a convocatoria hecha por su Presidente.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 26.
 
-El Consejo Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano se integrará por:
+El Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano se integrará por:
 
-I. Una Presidencia, que será rotativa, que recaerá en los titulares de la Secretaría y SEMA;
+I. Una Presidencia que recaerá en el titular de la Secretaría;
 
-II. Dos Vicepresidentes, que serán los titulares de SEMA o en su caso la Secretaría y de AGEPRO;
+II. Un Secretario Técnico, que será designado por el Presidente del Consejo Estatal (o será designado por votación);
 
-III. Un Secretario Técnico, que será designado por el Presidente del Consejo Estatal;
+III. Los Ayuntamientos, que estarán representados por el Presidente Municipal o por el titular de la dependencia municipal relacionada con el ordenamiento territorial y el desarrollo urbano;
 
-IV. Los Ayuntamientos, que estarán representados por el Presidente Municipal o por el titular de la dependencia municipal relacionada con el ordenamiento territorial y el desarrollo urbano;
+IV. Un Secretario de Actas y Acuerdos, que será designado por el Presidente;
 
-V. Un Secretario de Actas y Acuerdos, que será designado por el Presidente;
-
-VI. Los Vocales, que no serán menos de diez y un máximo de cuarenta y ocho, entre los que se incluirá un representante de las dependencias y entidades de la administración pública federal y estatal relacionadas con el ordenamiento territorial; representantes de los centros de investigación y educación superior, cámaras empresariales, colegios de profesionistas, prestadores de servicios inmobiliarios, asociaciones y organizaciones de los sectores social y privado que, a juicio del Titular de la Secretaría, deban integrarse al Consejo Estatal, en virtud de que sus actividades incidan en el desarrollo urbano y ordenamiento territorial o se vinculen con éstos.
+V. Los Vocales, que no serán menos de quince y un máximo de cuarenta y ocho, entre los que se incluirá un representante de las dependencias y entidades de la administración pública federal y estatal relacionadas con el ordenamiento territorial; representantes de los centros de investigación y educación superior, cámaras empresariales, colegios de profesionistas, prestadores de servicios inmobiliarios, asociaciones y organizaciones de los sectores social y privado que, a juicio del Titular de la Secretaría, deban integrarse al Consejo Estatal, en virtud de que sus actividades incidan en el desarrollo urbano y ordenamiento territorial o se vinculen con estos.
 
 Adicionalmente podrán solicitar su inclusión como miembros del Consejo, asociaciones y organizaciones de los sectores social y privado, misma que deberá de ser votada para aceptar o negar su incorporación. En todo caso, se deberá asegurar una mayoría de representantes ciudadanos en la composición del mismo en relación al número de representantes del Gobierno del Estado. El Consejo Estatal deberá convocarse cuando así lo determine el Pleno, el Presidente o a solicitud de una tercera parte de sus miembros.
 
 Las resoluciones del Consejo Estatal se tomarán por mayoria simple, y en caso de empate quien presida la sesión tendrá voto de calidad.
 
-Cada Presidencia durará en su encargo dos años.
-
-Las ausencias del Presidente del Consejo Estatal serán suplidas por el titular de SEMA o de la Secretaría, según sea el caso, o en ausencia de ambos, por el titular de la AGEPRO.
+Las ausencias del Presidente del Consejo Estatal serán suplidas por el Secretario Técnico o su suplente.
 
 El desempeño de los cargos a que se refiere este artículo, será de carácter honorífico.
 
@@ -639,43 +659,69 @@ II. Emitir recomendaciones sobre las obras de infraestructura, urbanización, es
 
 III. Proponer la integración de comités especiales o de los grupos técnicos de asesoramiento y apoyo que consideren necesarios, que tendrán las facultades que se establezcan en su acta de instalación, reglamento interior y demás disposiciones aplicables;
 
-IV. Promover la capacitación técnica sobre ordenamiento territorial, ecológico y desarrollo urbano;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
-V. Analizar las proposiciones que le formule la comunidad respecto de materias o acciones concernientes al ordenamiento territorial, ecológico y el desarrollo urbano y hacerlas llegar, con su opinión, a las autoridades competentes;
+IV. Promover la capacitación técnica sobre ordenamiento territorial y desarrollo urbano;
 
-VI. Promover la difusión entre la comunidad de temas e información relativos al ordenamiento territorial, ecológico y desarrollo urbano del Estado, y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
-VII. Las demás que le señalen esta ley y otras disposiciones jurídicas aplicables.
+V. Analizar las proposiciones que le formule la comunidad respecto de materias o acciones concernientes al ordenamiento territorial y el desarrollo urbano y hacerlas llegar, con su opinión, a las autoridades competentes;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+VI. Promover la difusión entre la comunidad de temas e información relativos al ordenamiento territorial y desarrollo urbano del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE AGOSTO DE 2023)</small>
+
+VII. Cuando entre en funciones una nueva administración estatal, se deberá reinstalar dicho consejo a más tardar los 90 días del año en curso, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE AGOSTO DE 2023)</small>
+
+VIII. Las demás que le señalen esta ley y otras disposiciones jurídicas aplicables.
 
 Será responsabilidad de la Secretaría proveer de información oportuna y veraz a los consejos para el ejercicio de sus funciones. Todas las opiniones y recomendaciones de los consejos estatales serán públicas y deberán estar disponibles en medios de comunicación electrónico.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 28.
 
-Los Municipios del Estado deberán contar con un órgano de opinión y consulta en materia de planeación y desarrollo urbano denominado Consejo Municipal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano.
+Los Municipios del Estado deberán contar con un órgano de opinión y consulta en materia de planeación y desarrollo urbano denominado Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 29.
 
-Los Consejos Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano se integrarán por:
+Los Consejos Municipales de Ordenamiento Territorial y Desarrollo Urbano se integrarán por:
 
 I. Un Presidente, que será el Presidente Municipal que corresponda;
 
 II. Un Secretario Técnico, que será el titular de la dependencia del Ayuntamiento a cargo de las funciones relacionadas con el desarrollo urbano;
 
-III. Un Secretario de Actas y Acuerdos, que será designado por el Presidente, y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
-IV. Los Vocales, que no serán menos de diez y un máximo de veinticinco, entre en lo que se incluirá un representante de las dependencias y entidades de la administración pública federal, estatal y municipal relacionadas con el desarrollo urbano, ecología y ordenamiento territorial; y, no más de un representante de los colegios de profesionistas municipales, cámaras empresariales, prestadores de servicios inmobiliarios, asociaciones y organizaciones de los sectores social y privado que, a juicio del Presidente, deban integrarse en virtud de que sus actividades incidan en el desarrollo urbano, ecológico y ordenamiento territorial o se vinculen con éstos.
+III. Un Secretario de Actas y Acuerdos, que será designado por el Presidente o su suplente, y
 
-Adicionalmente podrán solicitar su inclusión como miembros de los Consejos Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano, asociaciones y organizaciones de los sectores social y privado, misma que deberá de ser votada para aceptar o negar su incorporación. En todo caso se deberá asegurar una mayoría de representantes ciudadanos en la composición del mismo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE AGOSTO DE 2023)</small>
 
-Los consejeros que integran los Consejos Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano contarán con voz y voto para determinar el consenso de su criterio, su participación será a título de colaboración ciudadana y su desempeño tendrá el carácter honorífico, por lo que no percibirán remuneración alguna por el ejercicio de sus funciones, ni serán considerados servidores públicos. Las ausencias del Presidente, serán suplidas por el titular de la dependencia del Ayuntamiento a cargo de las funciones de planeación urbana.
+IV. Los Vocales, que no serán menos de diez y un máximo que determine el municipio correspondiente, entre en lo que se incluirá un representante de las dependencias y entidades de la administración pública federal, estatal y municipal relacionadas con el desarrollo urbano, medio ambiente y ordenamiento territorial; y, no más de un representante de los colegios de profesionistas municipales, cámaras empresariales, prestadores de servicios inmobiliarios, asociaciones y organizaciones de los sectores social y privado que, a juicio del Presidente, deban integrarse en virtud de que sus actividades incidan en el desarrollo urbano y ordenamiento territorial o se vinculen con éstos.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+Adicionalmente sin exceder el máximo que determine el municipio correspondiente, podrán solicitar su inclusión como miembros de los Consejos Municipales de Ordenamiento Territorial y Desarrollo Urbano, asociaciones y organizaciones de los sectores social y privado, misma que deberá de ser votada para aceptar o negar su incorporación. En todo caso se deberá asegurar una mayoría de representantes ciudadanos en la composición del mismo.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+Los consejeros que integran los Consejos Municipales de Ordenamiento Territorial, y Desarrollo Urbano contarán con voz y voto para determinar el consenso de su criterio, su participación será a título de colaboración ciudadana y su desempeño tendrá el carácter honorífico, por lo que no percibirán remuneración alguna por el ejercicio de sus funciones, ni serán considerados servidores públicos ni autoridades. Las ausencias del Presidente, serán suplidas por el suplente de preferencia el titular de la dependencia del Ayuntamiento a cargo de las funciones de planeación urbana.
 
 Sesionarán previa convocatoria del Presidente cuando menos una vez cada cuatro meses, efectuando como mínimo tres sesiones ordinarias al año y las extraordinarias que sean necesarias, cuando así lo solicite el Presidente o una tercera parte de sus miembros.
 
 Sus resoluciones se tomarán por mayoría simple, y en caso de empate quien presida la sesión tendrá voto de calidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 30.
 
-Los Consejos Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano tendrán las siguientes funciones:
+Los Consejos Municipales de Ordenamiento Territorial y Desarrollo Urbano tendrán las siguientes funciones:
 
 I. Opinar, emitir recomendaciones y coadyuvar en los procesos de consulta convocados a fin de elaborar, evaluar, modificar y actualizar los programas y acciones que se deriven del ordenamiento territorial en el Municipio, incluyendo aquellas relativas a proyectos de movilidad, preservación ecológica, remodelación urbana, mejoramiento de barrios y rescate y revitalización del espacio público;
 
@@ -687,31 +733,53 @@ IV. Proponer programas permanentes de información y difusión de los aspectos v
 
 V. Promover e impulsar la capacitación técnica de los servidores públicos municipales en materia de desarrollo urbano y la adecuada aplicación de sus normas;
 
-VI. Integrar el Consejo Técnico Asesor, para coadyuvar en el análisis y emisión de opinión calificada del proceso de formulación, ejecución y evaluación de los instrumentos de ordenamiento territorial, ecológico y desarrollo urbano a que se refiere esta ley y la Ley de Vivienda del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+VI. Integrar el Consejo Técnico Asesor, para coadyuvar en el análisis y emisión de opinión calificada del proceso de formulación, ejecución y evaluación de los instrumentos de ordenamiento territorial y desarrollo urbano a que se refiere esta ley y la Ley de Vivienda del Estado de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
 VII. Solicitar la opinión de las instituciones académicas y de profesionistas en las diversas materias que inciden en el desarrollo urbano y ecológico municipal, con el propósito de enriquecer sus planteamientos y propuestas;
 
 VIII. Evaluar los estudios y proyectos específicos tendientes a solucionar los problemas urbanos y formular las propuestas correspondientes, pudiendo recomendar que se efectúen las consultas que a su juicio deban formularse a peritos en las materias objeto de esta ley;
 
-IX. Proponer los proyectos de inversión de obra pública municipal y las medidas que se estimen convenientes para el mejor aprovechamiento y aplicación de los recursos destinados al ordenamiento territorial, ecológico y desarrollo urbano, el espacio público y la movilidad, así como para la adecuada prestación de los servicios públicos municipales, de igual manera analizar y opinar sobre los que se sometan a su consideración, y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
-X. Promover todas las acciones necesarias para el mejor cumplimiento de sus atribuciones en la promoción del ordenamiento territorial, ecológico y desarrollo urbano, conforme a esta ley y demás disposiciones aplicables.
+IX. Proponer los proyectos de inversión de obra pública municipal y las medidas que se estimen convenientes para el mejor aprovechamiento y aplicación de los recursos destinados al ordenamiento territorial y desarrollo urbano, el espacio público y la movilidad, así como para la adecuada prestación de los servicios públicos municipales, de igual manera analizar y opinar sobre los que se sometan a su consideración;
 
-## Título Cuarto. Del Ordenamiento Territorial, Ecológico y la Planeación del Desarrollo Urbano
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE AGOSTO DE 2023)</small>
 
-### Capítulo Primero. Del Ordenamiento Territorial, Ecológico y la Planeación del Desarrollo Urbano
+X. Cuando inicie una nueva administración municipal en funciones, deberá instalar su consejo a más tardar los primeros 90 días del año en curso, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE AGOSTO DE 2023)</small>
+
+XI. Promover todas las acciones necesarias para el mejor cumplimiento de sus atribuciones en la promoción del ordenamiento territorial y desarrollo urbano, conforme a esta ley y demás disposiciones aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2023)</small>
+
+## Título Cuarto. Del Ordenamiento Territorial y la Planeación del Desarrollo Urbano
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2023)</small>
+
+### Capítulo Primero. Del Ordenamiento Territorial y la Planeación del Desarrollo Urbano
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 31.
 
-El ordenamiento territorial, ecológico y la planeación y regulación de los asentamientos humanos en la entidad, se llevará a cabo a través de:
+El ordenamiento territorial, la planeación y regulación de los asentamientos humanos en la entidad, se llevará a cabo a través de:
 
 I. La Estrategia Estatal de Ordenamiento Territorial;
 
-II. El Programa Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano Sustentable;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+II. El Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano;
 
 III. Los Programas de Zonas Metropolitanas y Áreas conurbadas, en su caso;
 
-IV. Los Programas Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+IV. Los Programas Municipales de Desarrollo Urbano;
 
 V. Los Programas de Desarrollo Urbano de Centros de Población;
 
@@ -725,7 +793,9 @@ Todos los actos de aprobación de los instrumentos de planeación a que se refie
 
 Son de exclusiva competencia municipal los instrumentos de planeación a que se refieren las fracciones IV a VII de este artículo.
 
-Es obligación de los Municipios formular, consultar, promover y aprobar el Programa Municipal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano, que regule el territorio y los asentamientos humanos en sus jurisdicciones. Será optativo, según la dinámica, dimensión y complejidad del desarrollo urbano que presenten sus distintos centros de población o zonas de crecimiento, la promoción de los otros instrumentos de planeación municipal que establece el presente artículo.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+Es obligación de los Municipios formular, consultar, promover y aprobar el Programa Municipal de Desarrollo Urbano, que regule el territorio y los asentamientos humanos en sus jurisdicciones. Será optativo, según la dinámica, dimensión y complejidad del desarrollo urbano que presenten sus distintos centros de población o zonas de crecimiento, la promoción de los otros instrumentos de planeación municipal que establece el presente artículo.
 
 ###### Artículo 32.
 
@@ -733,9 +803,11 @@ Los instrumentos de planeación a que se refiere el artículo anterior deberán 
 
 Los programas a que se refiere el artículo 31, previamente a su publicación en el Periódico Oficial del Estado de Quintana Roo y su inscripción en el Registro Público, deberán contar con el Dictamen de Verificación de Congruencia, que para tal efecto emita la Secretaría, en los términos de esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 33.
 
-Los instrumentos de planeación que establece el artículo 31 de esta ley, deberán considerar y compatibilizar los criterios en materia de regulación ambiental de los asentamientos humanos establecidos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Quintana Roo, las áreas naturales protegidas y en las Normas Oficiales Mexicanas aplicables.
+Los instrumentos de planeación que establece el artículo 31 de esta ley, deberán considerar y compatibilizar los criterios en materia de regulación ambiental establecidos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Quintana Roo, las áreas naturales protegidas y en las Normas Oficiales Mexicanas aplicables.
 
 También deberán considerar las políticas y programas de cambio climático, así como el otorgar facilidades urbanísticas y arquitectónicas con perspectiva de género y considerar las necesidades de las personas con discapacidad y los criterios de accesibilidad universal, debiendo estructurar su composición a partir del espacio público, los equipamientos urbanos y la movilidad, privilegiando el bien común y la dignidad del ser humano; la promoción de la cultura socio-ambiental, que permita a la comunidad insertarse respetuosamente en su entorno, propiciando un crecimiento ordenado, con sustentabilidad, resiliencia y una mejor calidad de vida.
 
@@ -759,31 +831,43 @@ IV. Plantear y establecer junto a los Municipios los mecanismos para su implemen
 
 La Estrategia Estatal de Ordenamiento Territorial tendrá una visión con un horizonte a veinte años del desarrollo en la entidad, podrá ser revisada o, en su caso, actualizada cuando ocurran cambios profundos que puedan afectar la estructura territorial del Estado. Su elaboración y modificación seguirán el proceso siguiente:
 
-I. La Secretaría, en coordinación con SEMA y SEDETUR, formulará la Estrategia Estatal de Ordenamiento Territorial y la pondrá a consideración del Consejo Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+I. La Secretaría, en coordinación con SEMA y SEDETUR, formulará la Estrategia Estatal de Ordenamiento Territorial y la pondrá a consideración del Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano;
 
 II. El Presidente del Consejo Estatal convocará a sesiones plenarias, a fin de que sus integrantes, de manera conjunta, formulen, analicen, evalúen y emitan opinión sobre la propuesta de Estrategia Estatal de Ordenamiento Territorial;
 
-III. El proyecto de Estrategia será puesto a consulta de los Municipios y de la ciudadanía en general, a través de los Consejos Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano, así como del H. Congreso del Estado, para recibir sus opiniones, y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+III. El proyecto de Estrategia será puesto a consulta de los Municipios y de la ciudadanía en general, a través de los Consejos Municipales de Ordenamiento Territorial y Desarrollo Urbano, así como del H. Congreso del Estado, para recibir sus opiniones, y
 
 IV. Una vez aprobada la Estrategia Estatal de Ordenamiento Territorial por el Ejecutivo del Estado y publicada en el Periódico Oficial del Estado de Quintana Roo, las dependencias y entidades de la Administración Pública Estatal y Municipal ajustarán sus procesos de planeación en la materia, a lo establecido en dicha Estrategia.
 
-### Capítulo Tercero. Del Programa Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano Sustentable
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2023)</small>
+
+### Capítulo Tercero. Del Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 36.
 
-El Programa Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano Sustentable contendrá:
+El Programa Estatal de Ordenamiento Territorial, y Desarrollo Urbano contendrá:
 
 I. Marco de referencia en el contexto del Plan Nacional de Desarrollo, del Plan Estatal de Desarrollo, de los programas nacionales de la materia y de la Estrategia Estatal de Ordenamiento Territorial, así como de otros programas expedidos por los gobiernos federal y estatal cuando sean aplicables;
 
 II. Las conclusiones del diagnóstico;
 
-III. Las políticas y estrategias de ordenamiento territorial, ecológico y desarrollo urbano sustentable de las regiones, zonas metropolitanas y Municipios del Estado, en función de sus recursos naturales, de sus actividades productivas, la dignidad del ser humano, sus relaciones sociales, el bien común, y del equilibrio entre los asentamientos humanos y sus condiciones ambientales, que orienten la inversión pública y privada a proyectos prioritarios para la conservación de los recursos naturales y el desarrollo urbano y metropolitano, y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+III. Las políticas y estrategias de ordenamiento territorial y desarrollo urbano de las regiones, zonas metropolitanas y Municipios del Estado, en función de sus recursos naturales, de sus actividades productivas, la dignidad del ser humano, sus relaciones sociales, el bien común, y del equilibrio entre los asentamientos humanos y sus condiciones ambientales, que orienten la inversión pública y privada a proyectos prioritarios para la conservación de los recursos naturales y el desarrollo urbano y metropolitano, y
 
 IV. Los instrumentos que permitan la puesta en marcha y ejecución de las políticas, estrategias y proyectos prioritarios planteados, así como los mecanismos de control y evaluación correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 37.
 
-El Programa Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano Sustentable será formulado por la Secretaría y SEMA, a partir de las opiniones vertidas en:
+El Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano será formulado por la Secretaría, a partir de las opiniones vertidas en:
 
 I. Los foros públicos de consulta social y ciudadana, para efecto de recoger sus inquietudes y demandas;
 
@@ -797,35 +881,49 @@ V. Las propuestas que formulen los Municipios; y
 
 VI. La evaluación que se realice del mismo programa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 38.
 
-La participación social y ciudadana para formular o modificar el Programa Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano Sustentable, se realizará conforme a las siguientes bases:
+La participación social y ciudadana en los distintos talleres o consultas públicas del Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, se realizará conforme a las siguientes bases:
 
-I. El Consejo Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano dará aviso público del inicio del proceso de planeación y pondrá a consideración social y ciudadana el proyecto del Programa Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano Sustentable, difundiéndolo ampliamente;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+I. El Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano dará aviso público, del inicio del proceso de planeación y pondrá a consideración social y ciudadana en forma impresa, digital, electrónica el proyecto y los alcances, así como la calendarización de los talleres a realizarse en la formulación y que deberá contener el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, difundiéndolo ampliamente; en una sesión en el pleno del Consejo Estatal. Una vez iniciado el proceso de formulación del documento, este será revisado por el consejo en cada uno de sus apartados en las sesiones que para ello sea necesario realizar a convocatoria de la Secretaría;
 
 II. El Consejo Estatal establecerá un término no menor de veintiún días hábiles, para recibir y analizar los comentarios y aportaciones que consideren oportuno formular las personas, instituciones y los distintos grupos relacionados con la materia, que integran la comunidad;
 
-III. Los comentarios y aportaciones de la consulta serán enviados por el Consejo Estatal a la Secretaría y SEMA, quienes darán respuestas a dichos planteamientos;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
-IV. Las modificaciones del proyecto se realizarán con aquellas aportaciones que se consideren procedentes y que contribuyan al perfeccionamiento y soporte del proyecto y estarán a consulta de los interesados en las oficinas de la Secretaría y de SEMA, así como en la página electrónica del Gobierno del Estado, en los términos que se fijen en la convocatoria, por un plazo no menor de quince días hábiles para que expresen sus opiniones y propuestas, y
+III. Los comentarios y aportaciones de la consulta serán enviados por el Consejo Estatal a la Secretaría, quien dará respuestas a dichos planteamientos;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+IV. Las modificaciones del proyecto se realizarán con aquellas aportaciones que se consideren procedentes y que contribuyan al perfeccionamiento y soporte del proyecto y estarán a consulta de los interesados en las oficinas de la Secretaría, así como en la página electrónica del Gobierno del Estado, en los términos que se fijen en la convocatoria, por un plazo no menor de quince días hábiles para que expresen sus opiniones y propuestas, y
 
 V. Una vez integrado el proyecto, se remitirá al Titular del Ejecutivo para su aprobación, publicación, registro y difusión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 39.
 
-El Programa Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano Sustentable estará sometido a un proceso permanente de control y evaluación.
+El Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano estará sometido a un proceso permanente de control y evaluación.
 
 Sus modificaciones se realizarán con las mismas formalidades previstas para su aprobación.
 
-El Programa Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano Sustentable establecerá mecanismos de concurrencia, coordinación y concertación entre los diversos órdenes de gobierno y los sectores social y privado, en el cumplimiento de los objetivos, estrategias y prioridades de la política nacional de desarrollo social.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+El Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano establecerá mecanismos de concurrencia, coordinación y concertación entre los diversos órdenes de gobierno y los sectores social y privado, en el cumplimiento de los objetivos, estrategias y prioridades de la política nacional de desarrollo social.
 
 Una vez aprobado, deberá ser publicado en el Periódico Oficial del Estado de Quintana Roo y registrado en el Registro Público. Igualmente deberá difundirse a través de los medios que permitan el mayor conocimiento social y ciudadano.
 
 ### Capítulo Cuarto. De los Programas de Zonas Metropolitanas y Áreas Conurbadas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 40.
 
-Los criterios para la definición y delimitación de las zonas metropolitanas y áreas conurbadas se apegarán a lo dispuesto en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, así como en la Estrategia Estatal de Ordenamiento Territorial del Estado y en el Programa Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano Sustentable.
+Los criterios para la definición y delimitación de las zonas metropolitanas y áreas conurbadas se apegarán a lo dispuesto en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, así como en la Estrategia Estatal de Ordenamiento Territorial del Estado y en el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano.
 
 En todo caso, las zonas metropolitanas deberán cumplir con los lineamientos, criterios y disposiciones aplicables en la materia.
 
@@ -887,13 +985,19 @@ El desempeño de los cargos en el Consejo Consultivo Metropolitano será honorí
 
 Los programas de zonas metropolitanas deberán contemplar los siguientes elementos:
 
-I. Congruencia con la Estrategia Nacional y Estatal de Ordenamiento Territorial y el Programa Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+I. Congruencia con la Estrategia Nacional y Estatal de Ordenamiento Territorial y el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano;
 
 II. Conclusiones del diagnóstico que incluya una visión prospectiva de corto, mediano y largo plazo;
 
-III. La definición de objetivos, metas, políticas y estrategias, así como los proyectos y acciones prioritarias, que articulen los distintos ordenamientos, programas de desarrollo social, económico, urbano, turístico, ecológico y de cambio climático que impactan el territorio metropolitano; privilegiando el sentido de utilidad pública, comunitaria, familiar e individual, como el bien común, la seguridad y calidad de vida, así como los valores de integralidad cultural;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
-IV. La delimitación de la zona metropolitana con los espacios de reserva para una expansión ordenada a mediano y largo plazo, así como las zonas de preservación ecológica y las áreas naturales protegidas, que considere estimaciones técnicas del crecimiento, la sustentabilidad socio ambiental, el espacio público y la movilidad, y
+III. La definición de objetivos, metas, políticas y estrategias, así como los proyectos y acciones prioritarias, que articulen los distintos ordenamientos, programas de desarrollo social, económico, urbano, turístico, preservación al medio ambiente y de cambio climático que impactan el territorio metropolitano; privilegiando el sentido de utilidad pública, comunitaria, familiar e individual, como el bien común, la seguridad y calidad de vida, así como los valores de integralidad cultural;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+IV. La delimitación de la zona metropolitana con los espacios de reserva para una expansión ordenada a mediano y largo plazo, así como las zonas de preservación al medio ambiente y las áreas naturales protegidas, que considere estimaciones técnicas del crecimiento, la sustentabilidad socio ambiental, el espacio público y la movilidad, y
 
 V. Los instrumentos que permitan la puesta en marcha y ejecución de las políticas, estrategias y proyectos planteados.
 
@@ -995,19 +1099,27 @@ Las disposiciones a que se refiere esta sección para las zonas metropolitanas, 
 
 Las controversias que se susciten entre los distintos Poderes o ámbitos de gobierno, con motivo de lo dispuesto en este capítulo serán resueltas en los términos dispuestos por el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
 
-### Capítulo Quinto. De los Programas Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2023)</small>
+
+### Capítulo Quinto. De los Programas Municipales de Desarrollo Urbano
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 53.
 
-Los Programas Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano deberán de ser congruentes con la Estrategia Estatal de Ordenamiento Territorial del Estado y el Programa Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano Sustentable, e incluirán el diagnóstico, las políticas, las estrategias y los demás lineamientos para el uso, aprovechamiento y ocupación del territorio municipal, comprendiendo tanto las regulaciones de planeación urbana como las relativas al ordenamiento ecológico local.
+Los Programas Municipales de Desarrollo Urbano deberán de ser congruentes con la Estrategia Estatal de Ordenamiento Territorial del Estado y el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, e incluirán el diagnóstico, las políticas, las estrategias y los demás lineamientos para el uso, aprovechamiento y ocupación del territorio municipal, comprendiendo las regulaciones de planeación urbana.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 54.
 
-Los Programas Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano tendrán como objetivos:
+Los Programas Municipales de Desarrollo Urbano tendrán como objetivos:
 
 I. La dignificación del ser humano y la comunidad mediante la planeación y el ordenamiento territorial municipal;
 
-II. Establecer una estrategia de regulación del territorio municipal tendiente a garantizar el equilibrio ecológico y una efectiva protección de los recursos naturales, de las áreas naturales protegidas, así como regular y ordenar los asentamientos humanos, el desarrollo urbano y el paisaje en el territorio municipal;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+II. Establecer una estrategia de regulación del territorio municipal tendiente a garantizar el equilibrio ecológico y una efectiva protección de los recursos naturales, de las áreas naturales protegidas, así como regular y ordenar los asentamientos humanos, el desarrollo urbano y el paisaje en el territorio municipal; definiendo las zonas de mediano y alto riesgo e identificando las áreas urbanizables y no urbanizables, donde quede prohibido el asentamiento humano o construcción de conjuntos urbanos o fraccionamiento;
 
 III. Integrar y armonizar las regulaciones del ordenamiento ecológico del territorio municipal con el desarrollo urbano;
 
@@ -1025,25 +1137,37 @@ IX. Evaluar los efectos e impactos financieros al erario, derivados del mantenim
 
 X. Definir estrategias en materia de reservas territoriales para el ordenamiento territorial y desarrollo urbano, el espacio público, el equipamiento, la movilidad, la vivienda y la conservación de las obras de arquitectura;
 
-XI. Promover la integración medioambiental sustentable del territorio y del paisaje, y coadyuvar a la conservación de las áreas naturales y atención de riesgo, procurando un sistema de corredores biológicos y de preservación ecológica, y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
-XII. Establecer las bases generales para prevenir, controlar y atender los riesgos y contingencias ambientales y urbanas en los centros de población.
+XI. Coadyuvar a la conservación de las áreas naturales procurando la preservación al medio ambiente, y
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+XII. Establecer las bases generales para prevenir, controlar y atender los riesgos y contingencias urbanas en los centros de población.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 55.
 
-Los contenidos de los programas municipales de ordenamiento territorial, ecológico y desarrollo urbano deberán de ser congruentes con la estrategia estatal de ordenamiento territorial y el programa estatal de ordenamiento territorial, ecológico y desarrollo urbano sustentable, y considerar las medidas relativas a:
+Los contenidos de los programas municipales de desarrollo urbano deberán de ser congruentes con la estrategia estatal de ordenamiento territorial y el programa estatal de ordenamiento territorial y desarrollo urbano, y considerar las medidas relativas a:
 
 I. Las determinaciones de otros niveles de planeación para el Municipio;
 
 II. La identificación de los sistemas urbano rurales del territorio municipal, incluyendo la definición de los límites de los centros de población ubicados en el mismo;
 
-III. La definición de las políticas, criterios, estrategias y demás lineamientos que se consideren necesarios para orientar el ordenamiento territorial, ecológico y el desarrollo urbano, teniendo a la convivencia respetuosa con el entorno natural, la creación del espacio público, la integración del paisaje, la infraestructura, el equipamiento y la movilidad como ejes compositivos vertebradores, que descansen en el misterio y el asombro, la poesía y la belleza; y a la dignificación del ser humano, sus relaciones sociales y la sustentabilidad socio-ambiental como finalidad última; y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+III. La definición de las políticas, criterios, estrategias y demás lineamientos que se consideren necesarios para orientar el ordenamiento municipal y el desarrollo urbano, teniendo a la convivencia respetuosa con el entorno natural, la creación del espacio público, la integración del paisaje, la infraestructura, el equipamiento y la movilidad como ejes compositivos vertebradores, que descansen en el misterio y el asombro, la poesía y la belleza; y a la dignificación del ser humano, sus relaciones sociales y la sustentabilidad socio-ambiental como finalidad última; y
 
 IV. La Zonificación Primaria, con visión de mediano y largo plazo, en los términos a que alude el artículo 76 de esta ley.
 
-En caso de que, por las características y condiciones del desarrollo urbano municipal, no se prevea la formulación de programas de desarrollo urbano de centros de población, la zonificación secundaria podrá estar contenida en los programas municipales de ordenamiento territorial, ecológico y desarrollo urbano a que alude este artículo.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
-Los procedimientos, contenidos y alcances de los programas a que se refiere este artículo, en materia de medio ambiente, equilibrio ecológico y protección de los recursos naturales, se sujetarán adicionalmente a lo dispuesto en la Ley de Equilibrio Ecológico y Protección del Ambiente del Estado de Quintana Roo.
+En caso de que, por las características y condiciones del desarrollo urbano municipal, no se prevea la formulación de programas de desarrollo urbano de centros de población, la zonificación secundaria podrá estar contenida en los programas municipales de desarrollo urbano a que alude este artículo.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+Los procedimientos, contenidos y alcances de los programas a que se refiere este artículo, en materia de medio ambiente, y protección de los recursos naturales, se sujetarán adicionalmente a lo dispuesto en la Ley de Equilibrio Ecológico y Protección del Ambiente del Estado de Quintana Roo.
 
 Los procedimientos, contenidos y alcances en materia de asentamientos humanos, ordenamiento territorial y desarrollo urbano se sujetarán a esta ley.
 
@@ -1059,7 +1183,9 @@ II. Establecer o precisar la zonificación de los usos, destinos y reservas, ten
 
 III. Establecer las bases para la programación, así como para proveer el eficiente y eficaz funcionamiento y organización de las acciones, obras y servicios en el Municipio.
 
-Los programas de desarrollo urbano de centros de población guardarán congruencia con los instrumentos de planeación estatales y de zonas metropolitanas y con los programas municipales de ordenamiento territorial, medio ambiente y desarrollo urbano que correspondan.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+Los programas de desarrollo urbano de centros de población guardarán congruencia con los instrumentos de planeación estatales y de zonas metropolitanas y con los programas municipales de desarrollo urbano que correspondan.
 
 Dichos programas de desarrollo urbano deberán proveer un mínimo de doce metros cuadrados de área verde por habitante, así como una estrategia para el manejo integral del agua, los residuos sólidos municipales y el espacio público seguro.
 
@@ -1143,27 +1269,41 @@ La estructura y contenido de los Esquemas de Desarrollo Urbano podrá adecuarse 
 
 ### Capítulo Noveno. Procedimientos para Formular y Aprobar los Programas Municipales
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 62.
 
-Los instrumentos de planeación municipal a que se refiere el artículo 31 de esta ley, serán formulados, aprobados, ejecutados, controlados y evaluados por los Ayuntamientos, con la participación de los Consejos Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano.
+Los instrumentos de planeación municipal a que se refiere el artículo 31 de esta ley, serán formulados, aprobados, ejecutados, controlados y evaluados por los Ayuntamientos, con la participación de los Consejos Municipales de Ordenamiento Territorial y Desarrollo Urbano.
 
-Los Ayuntamientos podrán solicitar la opinión y asesoría del Gobierno del Estado, a través de la Secretaría, SEMA y del Consejo Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano, y en su caso, de la federación.
+Los Ayuntamientos podrán solicitar la opinión y asesoría del Gobierno del Estado, a través de la Secretaría, del Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano, y en su caso, de la federación.
 
 ###### Artículo 63.
 
 Para formular y aprobar cualquiera de los instrumentos de planeación municipal a que se refiere el artículo anterior se seguirá el procedimiento siguiente:
 
-I. El Municipio dará aviso público del inicio del proceso de planeación, por conducto el (sic) Consejo Municipal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano, así como en los medios electrónicos de que disponga. El Ayuntamiento formulará el proyecto de programa municipal de desarrollo urbano o, en su caso, de modificaciones, difundiéndolo ampliamente;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
-II. El Consejo Municipal hará las audiencias públicas con la ciudadanía, así como a los grupos organizados de la sociedad a quienes corresponda participar de acuerdo al área de aplicación o de las acciones urbanísticas propuestas;
+I. El Municipio dará aviso público del inicio del proceso de planeación, por conducto del Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano, así como en los medios electrónicos de que disponga. El Ayuntamiento por conducto de las dependencias de la administración pública formulará el proyecto de programa municipal de desarrollo urbano, actualización o, en su caso, de modificaciones, difundiéndolo;
 
-III. El Presidente Municipal, a través de la dependencia municipal relacionada con el ordenamiento territorial y el desarrollo urbano, establecerá una oficina en las (sic) que se exponga y distribuya la información relativa al programa y en la que se puedan realizar talleres y consultas requeridas por los ciudadanos;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
-IV. El Consejo Municipal establecerá un plazo y un calendario, no menor a 15 días hábiles, sobre la información relativa al programa y audiencias públicas para que los interesados presenten por escrito los planteamientos que consideren respecto del proyecto del programa de desarrollo urbano o de sus modificaciones. Dichas reuniones promoverán el mayor consenso entre la sociedad y gobierno sobre los contenidos y propuestas del programa;
+II. El Consejo Municipal hará talleres y/o mesas de trabajo con participación ciudadana, así como podrán acudir los grupos organizados de la sociedad a quienes corresponda participar de acuerdo al área de aplicación o de las acciones urbanísticas propuestas;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+III. El Consejo Municipal establecerá un plazo y un calendario, no menor a 15 días hábiles, sobre la información relativa al proyecto del programa y audiencias o consultas públicas para que los interesados presenten por escrito los planteamientos que consideren respecto del proyecto del programa de desarrollo urbano, actualización o de sus modificaciones. Los escritos deberán dar respuesta si es procedente o no a las observaciones; esta respuesta debe estar fundamentada en caso negativo. Dichas reuniones promoverán el mayor consenso entre la sociedad y gobierno sobre los contenidos y propuestas del programa;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+IV. El Presidente Municipal, a través de la dependencia municipal relacionada con el ordenamiento territorial y el desarrollo urbano, establecerá un recinto en las que se exponga y distribuya la información relativa al programa y en la que se puedan realizar talleres y consultas requeridas por los ciudadanos;
 
 V. Los comentarios y aportaciones procedentes se integrarán al proyecto de programa municipal y se remitirá a la Secretaría para efectos de lo dispuesto en el artículo 67 de esta ley;
 
-VI. La Secretaría, en coordinación con SEMA, deberán comunicar sus comentarios y resoluciones por escrito, en el plazo de 15 días hábiles a partir de su recepción. Si en el término antes previsto, no se formulan los comentarios o resoluciones que estime convenientes, se entenderá que aprueba el contenido del mismo;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+VI. La Secretaría, deberán (sic) comunicar sus comentarios y resoluciones por escrito, en el plazo de 10 días hábiles a partir de su recepción. Si en el término antes previsto, no se formulan los comentarios o resoluciones que estime convenientes, se entenderá que aprueba el contenido del mismo;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE AGOSTO DE 2023)</small>
 
 VII. Recibidas las observaciones se integrará el proyecto definitivo del programa y se someterá a la consideración del Cabildo del Ayuntamiento para su aprobación por mayoría simple, y
 
@@ -1185,6 +1325,14 @@ IV. Sobrevenga otra causa de orden o de interés general.
 
 En ningún caso podrá abrogarse un programa de desarrollo urbano o un esquema simplificado de planeación de desarrollo urbano, sin que en la resolución correspondiente se declare la vigencia de uno nuevo. Los cambios de uso del suelo o la propuesta de nuevos desarrollos no contemplados en el programa vigente se considerarán como modificaciones al mismo debiendo cumplir con lo establecido en este ordenamiento.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+Para el caso de que se solicite una modificación o cambio de uso de suelo, se deberá presentar ante la dependencia encargada del desarrollo urbano de cada Municipio la solicitud con el estudio justificado en materia de impacto vial e impacto urbano, misma que se someterá por conducto de la dependencia a la comisión de desarrollo urbano y movilidad y a su vez deberá ser aprobada por el cabildo municipal previo contar con la opinión técnica de la SEDETUS.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+Una vez aprobada el interesado deberá publicar dicha sesión ante el Periódico Oficial del Estado e inscribirlo al Registro Público de la Propiedad y del Comercio del Estado de Quintana Roo, quién deberá corroborar para su inscripción que cuente con todos y cada uno de los requisitos anteriormente descritos.
+
 ###### Artículo 65.
 
 La modificación o actualización de los Programas Municipales de Desarrollo Urbano a que se refiere el artículo 31 de esta ley, podrá ser solicitada ante la autoridad municipal correspondiente por:
@@ -1193,13 +1341,19 @@ I. El Titular del Ejecutivo;
 
 II. La Secretaría;
 
-III. El Consejo Estatal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano Sustentable;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
-IV. Los Consejos Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano, y
+III. El Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+IV. Los Consejos Municipales de Ordenamiento Territorial y Desarrollo Urbano, y
 
 V. Las personas físicas o morales residentes en el Municipio de que se trate.
 
 En todo caso, la autoridad municipal estará facultada para negarse a acordar afirmativamente las solicitudes que reciba en los términos de este artículo. Deberá negarlas siempre que con ellas pudieran afectarse, directa o indirectamente, el orden público o el interés general.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 66.
 
@@ -1211,7 +1365,9 @@ Toda actualización o modificación de los instrumentos de planeación municipal
 
 Los programas previstos en el artículo 31 de esta ley, contendrán los elementos necesarios para ser congruentes, vinculados y homogéneos en sí mismos y respecto de la planeación nacional, estatal y municipal para el desarrollo, así como para su correcta ejecución técnica, jurídica y administrativa.
 
-Para asegurar dicha congruencia y vinculación, previa a la publicación y registro de los programas municipales, las autoridades competentes, antes de su aprobación en Cabildo, deberán remitir a la Secretaría, los proyectos de programas o sus modificaciones. Dicha dependencia deberá analizarlos y emitir el Dictamen de Congruencia correspondiente, en un plazo no mayor de treinta días hábiles. Si transcurre el plazo señalado, sin que hubiere respuesta alguna, se entenderá resuelto en sentido positivo. Por causa justificada, y previa notificación, podrá prorrogarse por única vez este plazo por diez días hábiles más.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+Para asegurar dicha congruencia y vinculación, previa a la publicación y registro de los programas municipales, las autoridades competentes, antes de su aprobación en Cabildo, deberán remitir a la Secretaría, los proyectos de programas o sus modificaciones. Dicha dependencia deberá analizarlos y emitir el Dictamen de Congruencia correspondiente, en un plazo no mayor de quince días hábiles. Si transcurre el plazo señalado, sin que hubiere respuesta alguna, se entenderá resuelto en sentido positivo. Por causa justificada, y previa notificación, podrá prorrogarse por única vez este plazo por diez días hábiles más.
 
 Para la publicación e inscripción de los programas a que se refiere este artículo, se deberá contar previamente con el Dictamen de Congruencia correspondiente.
 
@@ -1221,13 +1377,17 @@ Para la publicación e inscripción de los programas a que se refiere este artí
 
 Los instrumentos municipales de planeación a que se refiere el artículo 31 de esta ley o sus modificaciones, una vez aprobados y verificada su congruencia y vinculación con otros niveles de planeación, deberán ser publicados en el Periódico Oficial del Estado de Quintana Roo y en las páginas electrónicas institucionales de la Secretaría y de los Municipios de que se trate.
 
-Dichos instrumentos de planeación o sus modificaciones, a solicitud de la Secretaría, deberán ser inscritos en el Registro Público, dentro de los veinte días hábiles siguientes a la fecha de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+Dichos instrumentos de planeación o sus modificaciones, deberán ser inscritos en el Registro Público, dentro de los veinte días hábiles siguientes por cada uno a la fecha de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 La inscripción en el Registro Público, así como la publicación en el Periódico Oficial del Estado de Quintana Roo serán gratuitas.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 69.
 
-La Secretaría y los Municipios pondrán a disposición de los interesados los instrumentos de planeación establecidos en el artículo 31 de esta ley para su consulta. Igualmente promoverán la difusión y conocimiento ciudadano de dichos instrumentos de ordenamiento territorial, ecológico y planeación urbana.
+La Secretaría y los Municipios pondrán a disposición de los interesados los instrumentos de planeación establecidos en el artículo 31 de esta ley para su consulta. Igualmente promoverán la difusión y conocimiento ciudadano de dichos instrumentos de ordenamiento territorial y planeación urbana.
 
 ## Título Quinto. De las Regulaciones Urbanas en los Centros de Población
 
@@ -1269,11 +1429,13 @@ La Constitución, ampliación y delimitación de la zona de urbanización ejidal
 
 Los actos, contratos o convenios relativos a la transmisión de la propiedad deberán contener las cláusulas relativas a la utilización del suelo que determinen los programas municipales a que se refiere el artículo 31 de esta ley. Aquellos que violen esta disposición o aquellos que contravengan a las constancias de uso del suelo municipales O DE COMPATIBILIDAD TERRITORIAL APLICABLES, no serán inscritos en el Registro Público.
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-Los fedatarios públicos en el Estado deberán solicitar a toda persona que celebre contratos o convenios relativos a la transmisión o aportación de la propiedad de inmuebles, la autorización municipal, Constancia de Uso del Suelo O CONSTANCIA DE COMPATIBILIDAD TERRITORIAL ESTATAL, donde conste la zonificación aplicable al predio de que se trate, e incluir en el apéndice de la escritura dicha constancia o documento, mismo que será requisito para la inscripción respectiva ante las oficinas registrales del Estado.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+Los fedatarios públicos en el Estado deberán solicitar a toda persona que celebre contratos o convenios relativos a la transmisión o aportación de la propiedad de inmuebles, la Constancia de Uso del Suelo O CONSTANCIA DE CONGRUENCIA URBANÍSTICA ESTATAL, donde conste la zonificación aplicable al predio de que se trate, e incluir en el apéndice de la escritura dicha constancia o documento, mismo que será requisito para la inscripción respectiva ante las oficinas registrales del Estado.
 
 ### Capítulo Segundo. De la Zonificación Urbana en los Centros de Población
 
@@ -1281,7 +1443,9 @@ Los fedatarios públicos en el Estado deberán solicitar a toda persona que cele
 
 Corresponde a los Municipios formular, aprobar y administrar la zonificación en su jurisdicción territorial.
 
-La Zonificación Primaria deberá establecerse en los Programas Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano, en congruencia con otros niveles superiores de planeación, en la que se determinarán:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE AGOSTO DE 2023)</small>
+
+La Zonificación Primaria deberá establecerse en los Programas Municipales de Desarrollo Urbano, en congruencia con otros niveles superiores de planeación, en la que se determinarán:
 
 I. Las áreas que integran y delimitan los centros de población, previendo las secuencias y condicionantes del crecimiento de la ciudad;
 
@@ -1311,11 +1475,13 @@ II. En las zonas de mejoramiento y crecimiento urbano:
 
 a) Se considerarán compatibles y se permitirá la mezcla de usos de suelo residenciales, comerciales y centros de trabajo, siempre y cuando éstos no amenacen la seguridad, salud y la integridad de las personas, o se rebasen la capacidad de los servicios de agua, drenaje y electricidad o la movilidad;
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL INCISO b) DE LA FRACCIÓN II DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ, POR EXTENSIÓN, DE LA PORCIÓN NORMATIVA DEL INCISO b, DE LA FRACCIÓN II, DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-b) Conforme a lo que determinen los programas de los centros de población y previa autorización y pago del potencial de edificación o desarrollo a favor del Municipio, en los predios aplicables, se podrá permitir la densificación en las edificaciones, siempre y cuando no se rebase y se asegure la capacidad de los servicios de agua, drenaje y electricidad o el equipamiento urbano y la movilidad. Los recursos que se generen se destinarán a sufragar tales conceptos. EN TAL CASO, SERÁ NECESARIO CONTAR ADEMÁS CON LA CONSTANCIA DE COMPATIBILIDAD TERRITORIAL EN SU MODALIDAD DE DICTAMEN DE IMPACTO TERRITORIAL;
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+b) Conforme a lo que determinen los programas de los centros de población y previa autorización y pago del potencial de edificación o desarrollo a favor del Municipio, en los predios aplicables, se podrá permitir la densificación en las edificaciones, siempre y cuando no se rebase y se asegure la capacidad de los servicios de agua, drenaje y electricidad o el equipamiento urbano y la movilidad. Los recursos que se generen se destinarán a sufragar tales conceptos. EN TAL CASO, SERÁ NECESARIO CONTAR ADEMÁS CON LA CONSTANCIA DE CONGRUENCIA URBANÍSTICA ESTATAL;
 
 c) Los promotores o desarrolladores, en su caso, deberán asumir el costo incremental de recibir estos servicios y equipamientos urbanos, así como mantenerlos operativos hasta su municipalización. El gobierno municipal, en coordinación con otras autoridades o entidades responsables, establecerá mecanismos para aplicar dicho costo y ajustar la capacidad de infraestructuras y equipamientos que permita a promotores o desarrolladores mejorar la densidad de sus edificaciones y la mezcla de usos del suelo;
 
@@ -1339,17 +1505,23 @@ Los programas municipales a que se refiere el artículo 31 de esta ley, podrán 
 
 Los Municipios, con base a estudios realizados por profesionales en la materia, establecerán los mecanismos para fijar el costo por metro cuadrado de coeficiente adicional. Igualmente definirá los mecanismos y procedimientos para asegurar una administración transparente, eficiente y pública de los recursos que se generen.
 
-### Capítulo Cuarto. De la Constancia de Compatibilidad Territorial
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2023)</small>
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+### Capítulo Cuarto. De la Constancia de Congruencia Urbanística Estatal
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 80.
 
-Toda persona física o moral, pública o privada, que pretenda realizar acciones urbanísticas, obras o introducir servicios en materia de asentamientos humanos en el Estado a que se refiere el artículo siguiente, deberá obtener previa ejecución de dichas acciones u obras, la Constancia de Compatibilidad Territorial que le expida la Secretaría, la cual verificará que las mismas sean compatibles con:
+Toda persona física o moral, pública o privada, que pretenda realizar acciones urbanísticas, obras o introducir servicios en materia de asentamientos humanos en el Estado a que se refiere el artículo siguiente, deberá obtener previa ejecución de dichas acciones u obras, la Constancia de Congruencia Urbanística Estatal que le expida la Secretaría, la cual verificará que las mismas sean congruentes con:
 
-I. El ordenamiento territorial y la planeación urbana y metropolitana;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+I. El ordenamiento, la planeación urbana y metropolitana;
 
 II. La dotación adecuada de espacios públicos y soluciones de movilidad;
 
@@ -1359,17 +1531,23 @@ IV. La factibilidad de dotar de equipamiento y servicios públicos que los nuevo
 
 V. Para los casos a que se refieren los artículos 78, 79 y 84, establecer los requisitos y condiciones para evitar, minimizar o compensar los impactos territoriales negativos en su entorno.
 
-Para tramitar y obtener la Constancia de Compatibilidad Territorial, los solicitantes deberán acreditar que cuentan con las autorizaciones municipales correspondientes.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
-En caso de omisión a las disposiciones establecidas en este artículo, la Secretaría o la autoridad municipal, en su caso, estará facultada para exigir, en cualquier momento y a costa del promovente, la Constancia de Compatibilidad Territorial que corresponda, según sea el caso y que de manera dolosa y premeditada no fuera debida y oportunamente solicitada ante la Secretaría; lo anterior sin perjuicio de las medidas de seguridad y sanciones que considere necesarias imponer por tales omisiones, cuando se haya instaurado por tales motivos algún procedimiento administrativo en su contra.
+Para tramitar y obtener la Constancia de Congruencia Urbanística Estatal, los solicitantes deberán acreditar que cuentan con las autorizaciones municipales correspondientes.
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+En caso de omisión a las disposiciones establecidas en este artículo, la Secretaría o la autoridad municipal, en su caso, estará facultada para exigir, en cualquier momento y a costa del promovente, la Constancia de Congruencia Urbanística Estatal que corresponda, según sea el caso y que de manera dolosa y premeditada no fuera debida y oportunamente solicitada ante la Secretaría; lo anterior sin perjuicio de las medidas de seguridad y sanciones que considere necesarias imponer por tales omisiones, cuando se haya instaurado por tales motivos algún procedimiento administrativo en su contra.
+
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 81.
 
-El Ejecutivo del Estado, por conducto de la Secretaría, podrá autorizar y en su caso expedir, negar, cancelar, condicionar y exigir la Constancia de Compatibilidad Territorial en los siguientes casos:
+El Ejecutivo del Estado, por conducto de la Secretaría, podrá autorizar y en su caso expedir, negar, cancelar, condicionar y exigir la Constancia de Congruencia Urbanística Estatal en los siguientes casos:
 
 I. Construcción o ampliación de vialidades regionales, metropolitanas u otros componentes de la infraestructura para la movilidad que comuniquen a más de un Municipio;
 
@@ -1401,17 +1579,23 @@ XIV. La modificación, demolición o ampliación de inmuebles de patrimonio cult
 
 XV. Bancos de extracción de materiales pétreos.
 
-La Constancia de Compatibilidad Territorial contendrá y proporcionará los datos, elementos, medidas de mitigación, condicionantes, criterios o lineamientos de ordenamiento territorial y desarrollo urbano aplicables conforme a esta ley.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
-Las dependencias y entidades públicas no podrán llevar a cabo la incorporación de suelo rural a urbano sin contar con la Constancia de Compatibilidad Territorial respectiva.
+La Constancia de Congruencia Urbanística Estatal contendrá y proporcionará los datos, elementos, medidas de mitigación, condicionantes, criterios o lineamientos de congruencia territorial y desarrollo urbano aplicables conforme a esta ley.
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+Las dependencias y entidades públicas no podrán llevar a cabo la incorporación de suelo rural a urbano sin contar con la Constancia de Congruencia Urbanística Estatal.
+
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 82.
 
-Las solicitudes de Constancia de Compatibilidad Territorial deberán acompañarse de las autorizaciones municipales donde se apruebe la acción urbanística de que se trate, y en su caso, complementar la información relativa a:
+Las solicitudes de Constancia de Congruencia Urbanística Estatal deberán acompañarse de las autorizaciones municipales donde se apruebe la acción urbanística de que se trate, y en su caso, complementar la información relativa a:
 
 I. La ubicación, medidas y colindancias del área o predio;
 
@@ -1431,31 +1615,35 @@ VIII. Las restricciones de urbanización y construcción que correspondan de con
 
 IX. Las factibilidades de conexión y abasto de agua potable, servicio de alcantarillado sanitario y dotación de energía eléctrica.
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 83.
 
-Las solicitudes de Constancia de Compatibilidad Territorial, una vez integrado los expedientes de que se trate, deberán ser emitidos por la Secretaría en un plazo máximo de veinte días hábiles, previo el pago de derechos correspondientes.
+Las solicitudes de Constancia de Congruencia Urbanística Estatal, una vez integrado (sic) los expedientes de que se trate, deberán ser emitidos por la Secretaría en un plazo máximo de veinte días hábiles, previo el pago de derechos correspondientes.
 
-En caso de que una acción urbanística presente una dimensión o complejidad que amerite un análisis más exhaustivo, la Secretaría podrá ampliar ese plazo por única vez, por otro plazo hasta de veinte días hábiles más para emitir, negar o condicionar la Constancia de Compatibilidad Territorial correspondiente.
+En caso de que una acción urbanística presente una dimensión o complejidad que amerite un análisis más exhaustivo, la Secretaría podrá ampliar ese plazo por única vez, por otro plazo hasta de veinte días hábiles más para emitir, negar o condicionar la Constancia de Congruencia Urbanística Estatal correspondiente.
 
-En caso de que transcurran los plazos indicados en este artículo, sin que la Secretaría emita su resolución, aplicará la negativa ficta y se tendrá como negada la Constancia de Compatibilidad Territorial de que se trate. En caso de que aplique la negativa ficta, los servidores públicos omisos o negligentes se sujetarán a las sanciones contempladas en la Ley General de Responsabilidades Administrativas.
+En caso de que transcurran los plazos indicados en este artículo, sin que la Secretaría emita su resolución, aplicará la negativa ficta y se tendrá como negada la Constancia de Congruencia Urbanística Estatal de que se trate. En caso de que aplique la negativa ficta, los servidores públicos omisos o negligentes se sujetarán a las sanciones contempladas en la Ley General de Responsabilidades Administrativas.
 
 Las notificaciones de la Secretaría a los interesados, relacionados con el trámite y resolución de las solicitudes a que se refiere este artículo, podrán realizarse mediante estrados, correo electrónico y a través de su página electrónica.
 
-Las Constancias de Compatibilidad Territorial y demás actos administrativos que de éstas deriven y que hubieran sido otorgados por error, dolo o mala fe, serán declarados nulos de pleno derecho. En esos casos, se promoverá el juicio de lesividad ante el Tribunal de Justicia Administrativa en los términos de la Ley de Justicia Administrativa del Estado de Quintana Roo y el Código de Justicia Administrativa del Estado de Quintana Roo, independientemente de las responsabilidades penales que resulten de los actos u omisiones respectivas.
+Las (sic) Constancia de Congruencia Urbanística Estatal y demás actos administrativos que de estas deriven y que hubieran sido otorgados por error, dolo o mala fe, serán declarados nulos de pleno derecho. En esos casos, se promoverá el juicio de lesividad ante el Tribunal de Justicia Administrativa en los términos de la Ley de Justicia Administrativa del Estado de Quintana Roo y el Código de Justicia Administrativa del Estado de Quintana Roo, independientemente de las responsabilidades penales que resulten de los actos u omisiones respectivas.
 
-Las personas físicas o morales, titulares de una Constancia de Compatibilidad Territorial, deberán presentar un aviso de terminación de obras a la Secretaría, dentro de un plazo no mayor de quince días de la conclusión de tales obras, para que dicha dependencia pueda verificar el adecuado uso de las autorizaciones concedidas y lleve el registro estadístico correspondiente.
+Las personas físicas o morales, titulares de una Constancia de Congruencia Urbanística Estatal, deberán presentar un aviso de terminación de obras a la Secretaría, dentro de un plazo no mayor de diez días hábiles de la conclusión de tales obras, para que dicha dependencia pueda verificar el adecuado uso de las autorizaciones concedidas y lleve el registro estadístico correspondiente.
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 84.
 
-Se requerirá de una Constancia de Compatibilidad Territorial en su modalidad de Dictamen de Impacto Territorial en los siguientes casos:
+Se requerirá de una Constancia de Congruencia Urbanística Estatal en su modalidad de Dictamen de Impacto Urbanístico en los siguientes casos:
 
 I. Las acciones a que se refieren las fracciones I, II, III, IV y XV del artículo 81, cualquiera que sea su tipo y dimensión;
 
@@ -1471,17 +1659,23 @@ VI. Equipamientos educativos, de salud, abasto, comercio o recreación que brind
 
 VII. Las acciones de densificación urbana descritas en la fracción II inciso b) del artículo 77, y las descritas en el artículo 78 cualquiera que sea su tipo y dimensión.
 
-Los interesados que pretendan llevar a cabo alguna de las obras a las que se refiere este artículo, deberán presentar ante la Secretaría un Estudio de Impacto Territorial, mismo que se resolverá en un plazo máximo de treinta días hábiles, contados a partir del día siguiente de su recepción, sin perjuicio de otras autorizaciones que procedan. Este plazo podrá prorrogarse por única ocasión, hasta por un plazo igual, a juicio de la Secretaría, cuando por la dimensión o complejidad de la acción de que se trate así lo amerite.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+Los interesados que pretendan llevar a cabo alguna de las obras a las que se refiere este artículo, deberán presentar ante la Secretaría un Estudio de Impacto Urbano, mismo que se resolverá en un plazo máximo de treinta días hábiles, contados a partir del día siguiente de su recepción, sin perjuicio de otras autorizaciones que procedan. Este plazo podrá prorrogarse por única ocasión, hasta por un plazo igual, a juicio de la Secretaría, cuando por la dimensión o complejidad de la acción de que se trate así lo amerite.
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 85.
 
-La Constancia de Compatibilidad Territorial, en su modalidad de Dictamen de Impacto Territorial, establecerá las condiciones o requisitos que tendrán que cumplirse para autorizar el proyecto u obra de que se trate, en particular aquellos tendientes a garantizar que los impactos negativos se impidan, mitiguen o compensen, así como a que se evalúen los costos que la obra pueda generar sobre las redes de infraestructura, equipamiento urbano o servicios públicos, mismos que serán sufragados por el promovente.
+La Constancia de Congruencia Urbanística Estatal, en su modalidad de Dictamen de Impacto Urbanístico, establecerá las condiciones o requisitos que tendrán que cumplirse para autorizar el proyecto u obra de que se trate, en particular aquellos tendientes a garantizar que los impactos negativos se impidan, mitiguen o compensen, así como a que se evalúen los costos que la obra pueda generar sobre las redes de infraestructura, equipamiento urbano o servicios públicos, mismos que serán sufragados por el promovente.
 
-Los dictámenes de impacto territorial se otorgarán atendiendo a:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE AGOSTO DE 2023)</small>
+
+Los dictámenes de impacto urbanísticos se otorgarán atendiendo a:
 
 I. Evitar costos lesivos en la prestación de servicios públicos, ponderando la magnitud, intensidad y ubicación de la obra de que se trate;
 
@@ -1493,15 +1687,19 @@ IV. Atender los criterios de preservación de los recursos naturales y la calida
 
 V. Impedir riesgos y contingencias urbanas.
 
-Las condiciones o requisitos de las Constancias de Compatibilidad Territorial en esta modalidad, podrán ser económicos, ambientales o funcionales y referirse a la movilidad, al espacio público, equipamiento, infraestructura y servicios. El promovente deberá garantizar las obligaciones que resulten a su cargo, como resultado del Dictamen de Impacto Territorial.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+Las condiciones o requisitos de las Constancias de Congruencia Urbanística Estatal, en esta modalidad, podrán ser económicos, ambientales o funcionales y referirse a la movilidad, al espacio público, equipamiento, infraestructura y servicios. El promovente deberá garantizar las obligaciones que resulten a su cargo, como resultado del Dictamen de Impacto Urbanístico.
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 86.
 
-Los Estudios de Impacto Territorial deberán incluir:
+Los Estudios de Impacto Urbanístico deberán incluir:
 
 I. Los datos del promotor y propietario, así como la ubicación, descripción detallada y calendario de la obra o actividad proyectada;
 
@@ -1521,13 +1719,15 @@ En los casos a que se refiere la fracción IV del artículo 84 de esta ley, el d
 
 En los establecimientos a que alude el párrafo anterior, en los pisos de sus estacionamientos no cubiertos, el uso de pavimentos, concretos o recubrimientos deberá acompañarse de estrategias contra las islas de calor; el diseño de los mismos deberá considerar infraestructura verde y arbolado que atempere tal efecto.
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 88.
 
-La Secretaria determinará en la emisión del Dictamen de Impacto Territorial:
+LA SECRETARÍA DETERMINARÁ EN LA EMISIÓN DEL DICTAMEN DE IMPACTO URBANÍSTICO:
 
 I. La procedencia del proyecto u obra de que se trate, para lo cual podrá imponer las medidas de mitigación necesarias para evitar o minimizar los efectos negativos que pudiera generar, pudiéndose, en su caso, determinar el pago de compensaciones, y
 
@@ -1633,11 +1833,13 @@ No podrán realizarse conjuntos urbanos o fraccionamientos habitacionales dentro
 
 En todo caso, las obras de cabecera o redes de infraestructura, incluyendo el equipamiento urbano, imagen urbana, corredores biológicos, y la movilidad no motorizada del proyecto y su área de influencia correrán a cargo del propietario o promovente. Para el caso de fraccionamientos o conjuntos urbanos, además deberán asumir el costo de las obras viales y sistemas de movilidad necesarias para garantizar la conectividad entre la acción urbanística de que se trate y el centro de población más cercano, en dimensión y calidad tales, que permita el tránsito de transporte público que se genere.
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-LOS CONJUNTOS URBANOS O FRACCIONAMIENTOS DEBERÁN CONTAR CON UN DICTAMEN DE IMPACTO TERRITORIAL EMITIDO POR LA SECRETARÍA, EN EL QUE SE ESTABLECERÁ QUE LAS OBRAS DE INFRAESTRUCTURA, URBANIZACIÓN, CORREDORES BIOLÓGICOS, EQUIPAMIENTO URBANO, ESPACIO PÚBLICO Y MOVILIDAD RESULTANTES, ASÍ COMO LAS EXTERNALIDADES NEGATIVAS QUE GENERE Y SUS MITIGACIONES Y CONDICIONANTES, SERÁN A CUENTA DEL INTERESADO.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+LOS CONJUNTOS URBANOS, CONDOMINIOS Y/O FRACCIONAMIENTOS DEBERÁN CONTAR CON UN DICTAMEN DE IMPACTO URBANÍSTICO EMITIDO POR LA SECRETARÍA, EN EL QUE SE ESTABLECERÁ QUE LAS OBRAS DE INFRAESTRUCTURA, URBANIZACIÓN, CORREDORES BIOLÓGICOS, EQUIPAMIENTO URBANO, ESPACIO PÚBLICO Y MOVILIDAD RESULTANTE, ASÍ COMO LAS EXTERNALIDADES NEGATIVAS QUE GENERE Y SUS MITIGACIONES Y CONDICIONANTES, SERÁN A CUENTA DEL INTERESADO.
 
 ###### Artículo 96.
 
@@ -1645,9 +1847,11 @@ Para las acciones urbanísticas que impliquen la expansión del área urbana, as
 
 Los nuevos fraccionamientos o conjuntos urbanos deberán respetar y conectarse a la estructura vial existente, así como a la estructura compositiva en materia del espacio público, corredores biológicos, corredores a escala humana con preeminencia del espacio público peatonal y áreas verdes, equipamientos urbanos estratégicos para la convivencia, el encuentro y la dignificación del ser humano, sus relaciones sociales, la sustentabilidad socio-ambiental, y la movilidad no motorizada.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 97.
 
-Cuando se pretenda llevar a cabo cualquier tipo de acción o aprovechamiento urbano o turístico fuera de los límites de un Centro de Población, que no esté prevista o no cuente con un Programa Municipal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano vigente que lo regule, o de aquellos proyectos en áreas rurales que requieran la construcción o introducción de obras de cabecera o de redes de infraestructura, se requerirá de la formulación, aprobación o modificación previa del programa municipal que corresponda, cumpliendo con el procedimiento establecido en esta ley.
+Cuando se pretenda llevar a cabo cualquier tipo de acción o aprovechamiento urbano o turístico fuera de los límites de un Centro de Población, que no esté prevista o no cuente con un Programa Municipal de Desarrollo Urbano vigente que lo regule, o de aquellos proyectos en áreas rurales que requieran la construcción o introducción de obras de cabecera o de redes de infraestructura, se requerirá de la formulación, aprobación o modificación previa del programa municipal que corresponda, cumpliendo con el procedimiento establecido en esta ley.
 
 ###### Artículo 98.
 
@@ -1661,13 +1865,17 @@ En las áreas consideradas como reservas para el crecimiento de los centros de p
 
 Las normas del presente capítulo son obligatorias para todas las personas, físicas y morales, públicas o privadas y tienen por objeto establecer las especificaciones a que estarán sujetos los procesos de ocupación del territorio, en zonas sujetas a riesgo por fenómenos geológicos, hidrometeorológicos o antrópicos, a fin de prevenir daños a la población o a sus bienes, así como para mitigar los impactos urbanos, económicos y sociales en los centros de población.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 100.
 
-Los Programas Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano deberán definir las zonas de mediano y alto riesgo de los Centros de Población, donde quede prohibido el asentamiento humano o el desarrollo o construcción de conjuntos urbanos o fraccionamientos habitacionales de interés medio y de vivienda social.
+Los Programas Municipales de Desarrollo Urbano deberán definir las zonas de mediano y alto riesgo de los Centros de Población, donde quede prohibido el asentamiento humano o el desarrollo o construcción de conjuntos urbanos o fraccionamientos habitacionales de interés medio y de vivienda social.
 
 En todas las acciones urbanísticas que impliquen el uso, ocupación o expansión del área urbanizable de un centro de población, las autoridades estatales o municipales deberán asegurarse que no se ocupen áreas de riesgo, sin que se tomen las medidas de prevención correspondientes. En ningún caso podrán autorizarse usos o aprovechamientos urbanos o asentamientos humanos en zonas de alto riesgo. En estas zonas estará estrictamente prohibido realizar cualquier obra o edificación de carácter permanente.
 
-Las autoridades estatales y municipales realizarán las modificaciones necesarias a los Programas de Ordenamiento Territorial, Ecológico y Desarrollo Urbano para que las zonas consideradas como de riesgo no mitigable, se clasifiquen como no urbanizables y donde se asignen usos compatibles con dicha condición, prohibiendo en todo caso el uso y construcción de viviendas.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+Las autoridades estatales y municipales realizarán las modificaciones necesarias a los Programas de Desarrollo Urbano para que las zonas consideradas como de riesgo no mitigable, se clasifiquen como no urbanizables y donde se asignen usos compatibles con dicha condición, prohibiendo en todo caso el uso y construcción de viviendas.
 
 ###### Artículo 101.
 
@@ -1779,9 +1987,11 @@ III. Previa a escriturar las ventas, las garantías para asegurar el adecuado fu
 
 Las acciones urbanísticas deberán sujetarse a las especificaciones que consignen las autorizaciones de los proyectos respectivos. En ningún caso se podrán interrumpir o cancelar la prolongación y extensión de las vialidades primarias existentes o contempladas en los programas municipales a que se refiere el artículo 31 de esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 110.
 
-El Municipio, en coordinación con el Gobierno del Estado, de conformidad con los Programas Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano, determinarán:
+El Municipio, en coordinación con el Gobierno del Estado, de conformidad con los Programas Municipales de Desarrollo Urbano, determinarán:
 
 I. Los proyectos de redes viales, los derechos de vía y el establecimiento de los servicios, instalaciones y mobiliario urbano correspondientes, así como sus características;
 
@@ -1799,9 +2009,11 @@ VII. La ubicación y extensión de las áreas de estacionamiento.
 
 No podrán reducirse las secciones y derechos de vía previstos en los programas a que se refiere este artículo. Los Municipios podrán evaluar y autorizar casos concretos de diseño urbano de las vialidades previstas en los programas, que impliquen alguna variación en su trazo, siempre y cuando no se altere ni modifique la interconectividad del sistema vial, ni se reduzcan las secciones y derechos de vía ya establecidos.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 111.
 
-Los proyectos para la instalación, construcción o modificación de la infraestructura o del equipamiento urbano, todo o en parte, público o privado, deberán ser sometidos a la autorización por parte de la autoridad correspondiente, de acuerdo con lo dispuesto en esta ley y los Programas de Ordenamiento Territorial, Ecológico y Desarrollo Urbano aplicables, antes de iniciar cualquier obra.
+Los proyectos para la instalación, construcción o modificación de la infraestructura o del equipamiento urbano, todo o en parte, público o privado, deberán ser sometidos a la autorización por parte de la autoridad correspondiente, de acuerdo con lo dispuesto en esta ley y los Programas de Desarrollo Urbano aplicables, antes de iniciar cualquier obra.
 
 ### Capítulo Segundo. Del Espacio Público
 
@@ -1843,7 +2055,9 @@ IX. Los Municipios vigilarán y protegerán la seguridad, la integridad y la cal
 
 X. Todos los habitantes tienen el derecho de denunciar cualquier acción que atente contra la integridad y condiciones de uso, goce y disfrute del espacio público.
 
-En la formulación de los programas municipales de ordenamiento territorial, ecológico y desarrollo urbano se promoverá la creación de espacios públicos de dimensiones adecuadas para integrar barrios, de tal manera que su ubicación y beneficios sean accesibles a distancias peatonales para sus habitantes.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+En la formulación de los programas municipales de desarrollo urbano se promoverá la creación de espacios públicos de dimensiones adecuadas para integrar barrios, de tal manera que su ubicación y beneficios sean accesibles a distancias peatonales para sus habitantes.
 
 ## Título Octavo. De la Movilidad
 
@@ -1945,7 +2159,9 @@ II. Reducir y abatir los procesos de ocupación irregular, en especial en zonas 
 
 III. Asegurar la disponibilidad de suelo para los diferentes usos y destinos que determinen los programas de desarrollo urbano;
 
-IV. Garantizar el cumplimiento de los Programas Municipales de Ordenamiento Territorial, Ecológico y Desarrollo Urbano, y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+IV. Garantizar el cumplimiento de los Programas Municipales de Desarrollo Urbano, y
 
 V. Diseñar y aplicar instrumentos fiscales o financieros que permitan apoyar la gestión social del hábitat y la producción social de vivienda, en el marco de la planeación aplicable.
 
@@ -1989,11 +2205,13 @@ El Registro Público no podrá inscribir título de propiedad alguno, fraccionam
 
 La incorporación de áreas o predios al desarrollo urbano, cualquiera que sea su régimen de propiedad, deberá cumplir con los siguientes requisitos:
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-I. Estar contemplada y permitida en un Programa de Ordenamiento Territorial, Ecológico y Desarrollo Urbano Y, PARA EL CASO DE PROYECTOS DE ALTO IMPACTO, OBTENER PREVIAMENTE CONSTANCIA DE COMPATIBILIDAD TERRITORIAL EXPEDIDA POR LA SECRETARÍA EN LOS TÉRMINOS DE ESTA LEY;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+I. Estar contemplada y permitida en un Programa de Desarrollo Urbano Y, PARA EL CASO DE PROYECTOS DE ALTO IMPACTO, OBTENER PREVIAMENTE CONSTANCIA DE CONGRUENCIA URBANÍSTICA ESTATAL EXPEDIDA POR LA SECRETARÍA EN LOS TÉRMINOS DE ESTA LEY;
 
 II. Comprender terrenos que no estén ubicados en zonas de alto riesgo, áreas naturales protegidas o dedicados a actividades productivas o con valores ambientales y culturales;
 
@@ -2027,37 +2245,43 @@ Las autoridades locales, al conocer de un asentamiento humano irregular o la for
 
 Cuando el asentamiento irregular se localice en terrenos no aptos para el desarrollo urbano o que pongan en peligro a la población o a sus bienes, las autoridades competentes procederán al desalojo del asentamiento humano de que se trate, independientemente de las sanciones civiles, administrativas o penales a que se hagan acreedores sus promoventes u ocupantes.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 128.
 
-Todas las acciones para la regularización territorial deberán evaluar y asegurar los elementos para la seguridad humana y prevención de riesgos de la población y sus bienes, así como la factibilidad o viabilidad ambiental y urbanística de proveer los servicios públicos indispensables.
+Todas las acciones para la regularización territorial en caso de no encontrarse en suelo determinado previamente urbano deberán evaluar y asegurar los elementos para la seguridad humana y prevención de riesgos de la población y sus bienes, así como la factibilidad o viabilidad ambiental y urbanística de proveer los servicios públicos indispensables.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 129.
 
 Cuando se demuestre que existe un notorio beneficio social y una clara contribución al orden público, por excepción procederá la regularización de la tenencia de la tierra para su incorporación al desarrollo urbano, en ocupaciones irregulares existentes a la entrada en vigor de esta ley, misma que se sujetará a las siguientes disposiciones:
 
-I. Será conducida por el Gobierno del Estado, en coordinación con los Municipios de que se trate, así como con otras dependencias o entidades públicas con competencias en la materia;
+I. Podrá ser conducida por el Gobierno del Estado, por los Municipios, o en conjunto mediante programas de regularización, coadyuvando en su caso con otras dependencias o entidades públicas con competencias en la materia;
 
-II. Procederá conforme al Programa Municipal de Ordenamiento Territorial, Ecológico y Desarrollo Urbano aplicable, en ejecución de acciones de fundación, crecimiento, mejoramiento, conservación y consolidación, donde se atiendan los problemas de la urbanización, como la falta o insuficiencia de infraestructura, equipamiento y servicios públicos y establecer un mayor control catastral y registral de las propiedades;
+II. Procederá conforme al Programa Municipal de Desarrollo Urbano aplicable, en ejecución de acciones de fundación, crecimiento, mejoramiento, conservación y consolidación, donde se atiendan los problemas de la urbanización, como la falta o insuficiencia de infraestructura, equipamiento y servicios públicos y establecer un mayor control catastral y registral de las propiedades;
 
-III. Deberá acreditarse la evaluación y mitigación de riesgos de la población asentada irregularmente, así como la factibilidad ambiental y urbanística para la introducción de infraestructura y su conexión a las redes existentes, así como la provisión de servicios públicos;
+III. En los casos de aquellos que se encuentren previamente en uso de suelo urbano, se priorizará brindar certeza jurídica en la tenencia de la tierra, de lo contrario deberá acreditarse la evaluación y mitigación de riesgos de la población asentada irregularmente, para la introducción de infraestructura y su conexión a las redes existentes, así como la proyección a futuro sobre la provisión de servicios públicos;
 
-IV. Por única vez podrán recibir el beneficio de la regularización quienes ocupen un predio y no sean propietarios de otro inmueble en el Municipio de que se trate. Tendrán preferencia las y los poseedores de forma pacífica y de buena fe de acuerdo a la antigüedad de la posesión;
+IV. Para los casos de Titulación por el ente público, podrán recibir el beneficio de la regularización quienes ocupen un predio y no sean propietarios de otro inmueble en el Municipio de que se trate. Tendrán preferencia las y los poseedores de forma pacífica y de buena fe de acuerdo a la antigüedad de la posesión;
 
-V. Ninguna persona podrá resultar beneficiada por la regularización con más de un lote o predio cuya superficie no podrá exceder de la extensión determinada por la legislación, programas o esquemas de desarrollo urbano aplicables;
+V. Ninguna persona podrá resultar beneficiada con más de un título de propiedad o escritura pública por la regularización con más de un lote o predio cuya superficie no podrá exceder de la extensión determinada por la legislación, programas o esquemas de desarrollo urbano aplicables;
 
-VI. Deberá acreditarse que la acción de regularización represente un beneficio social y público evidente, y
+VI. Basta acreditarse con el hecho notorio que la acción de regularización representa un beneficio social y público
 
-VII. Las acciones de regularización no prejuzgan las responsabilidades y sanciones administrativas, civiles y penales que procedan.
+Los beneficiarios de la regularización, en su caso, deberán en un momento posterior tramitar y obtener de las autoridades municipales correspondientes las licencias o permisos de edificación y funcionamiento que sean necesarios.
 
-Los beneficiarios de la regularización, en su caso, deberán tramitar y obtener de las autoridades municipales correspondientes las licencias o permisos de edificación y funcionamiento que sean necesarios.
+Las autoridades municipales, por excepción y motivados en causas debidamente justificadas, podrán autorizar dimensiones inferiores en lotes, viviendas o vialidades secundarias a regularizar, así como autorizar lotificaciones que no cumplan con el porcentaje específico de las áreas de cesión para destinos, esto con el fin de que logren generar certeza jurídica en la tenencia de la tierra.
 
-Las autoridades municipales, por excepción y motivados en causas debidamente justificadas, podrán autorizar dimensiones inferiores en lotes, viviendas o vialidades secundarias a regularizar.
+Las vialidades que en su caso no cumplan con los parámetros establecidos por la ley, en donde se impida la construcción de infraestructura como alumbrado público, guarniciones, banquetas, etc., al momento de conceptualizar los proyectos para la dotación de infraestructura, se realizará una evaluación con talleres participativos con personas que habitan en la zona, para efecto de socializar la situación en cada uno de los casos de inversión, y se levantarán minutas de acuerdos.
 
-Los gobiernos estatal y municipales deberán establecer mecanismos de coordinación tendientes a la regularización de los asentamientos humanos, como acciones integrales de mejoramiento, para reordenar, renovar e integrar las zonas de que se trate al desarrollo urbano. Igualmente deberán establecer las condiciones conforme a las cuales los beneficiarios de la regularización deberán cooperar en forma proporcional y equitativa con los costos de urbanización.
+Los gobiernos estatal y municipales deberán establecer mecanismos de coordinación tendientes a la regularización de los asentamientos humanos, que sean viables mediante convenios o instrumentos de coordinación interinstitucional como acciones integrales de mejoramiento, para reordenar, renovar e integrar las zonas de que se trate al desarrollo urbano. Igualmente, deberán establecer las condiciones conforme a las cuales los beneficiarios de la regularización deberán cooperar en forma proporcional y equitativa con los costos que genere la urbanización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 130.
 
-Si para la regularización de asentamientos humanos resulta necesaria la ocupación de los predios o bienes inmuebles de que se trate, se procederá a su adquisición o a su limitación de uso. Para estos efectos se procederá a la celebración de los convenios correspondientes o a la tramitación del procedimiento expropiatorio, de acuerdo con las disposiciones legales aplicables.
+Si para la regularización de asentamientos humanos resulta necesaria la ocupación de los predios o bienes inmuebles de que se trate, se procederá a su adquisición o a su limitación de uso. Para estos efectos se procederá a la celebración de los convenios correspondientes o a la tramitación del procedimiento expropiatorio, o en su caso la donación a título gratuito en favor del Gobierno del Estado con el fin de Regularización, de acuerdo con las disposiciones legales aplicables.
 
 En estos mismos términos se estará para la desocupación de predios edificados que deben ser demolidos total o parcialmente, así como el retiro de objetos en predios, edificados o no, que en cualquier forma obstaculicen la ejecución de obras.
 
@@ -2257,9 +2481,11 @@ IV. Las obras, acciones y proyectos serán coordinadas por la AGEPRO.
 
 #### Sección Segunda. Polígonos de Actuación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 149.
 
-Los Municipios podrán determinar la constitución de Polígonos de Actuación para el mejor aprovechamiento del potencial de desarrollo en áreas de crecimiento, consolidación o mejoramiento, con base en los estudios que para tal efecto se elaboren. Para ello, se reunirán los representantes de dichas autoridades con los propietarios de predios, de manera que todos los procesos y las decisiones se convengan de común acuerdo. Los polígonos de actuación se determinarán en los programas municipales de ordenamiento territorial, ecológico y desarrollo urbano y deberán contar con un plan maestro o de ejecución de acciones.
+Los Municipios podrán determinar la constitución de Polígonos de Actuación para el mejor aprovechamiento del potencial de desarrollo en áreas de crecimiento, consolidación o mejoramiento, con base en los estudios que para tal efecto se elaboren. Para ello, se reunirán los representantes de dichas autoridades con los propietarios de predios, de manera que todos los procesos y las decisiones se convengan de común acuerdo. Los polígonos de actuación se determinarán en los programas municipales de desarrollo urbano y deberán contar con un plan maestro o de ejecución de acciones.
 
 Para la ejecución de proyectos a través de los polígonos de actuación, las autoridades municipales resolverán sobre la relocalización de los usos y destinos del suelo, el intercambio de potencialidad de edificación dentro de un mismo polígono, así como la relotificación de los predios participantes, para generar una nueva división.
 
@@ -2307,11 +2533,13 @@ Una vez expropiados los predios, el Gobierno del Estado los entregará para el r
 
 El reagrupamiento parcelario se sujetará a las siguientes normas:
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-I. Cumplir con las determinaciones del programa municipal Y CONTAR CON CONSTANCIA DE COMPATIBILIDAD TERRITORIAL;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+I. Cumplir con las determinaciones del programa municipal Y CONTAR CON CONSTANCIA DE CONGRUENCIA URBANÍSTICA ESTATAL.
 
 II. Previo al reagrupamiento parcelario se formulará un proyecto ejecutivo, mismo que una vez aprobado por el Ayuntamiento, publicado e inscrito, obligará a particulares y autoridades, y regirá la urbanización y aprovechamiento de los predios que afecte;
 
@@ -2401,7 +2629,9 @@ El Gobierno del Estado y los Municipios podrán establecer subsidios, condonacio
 
 Cuando se trate de acciones urbanísticas de vivienda social y la producción social de vivienda a que se refiere el artículo anterior, el Gobierno del Estado otorgará un subsidio del cien por ciento en los derechos a que se refiere la Ley de Hacienda del Estado de Quintana Roo, que se causen con motivo de:
 
-I. La expedición de las Constancias de Compatibilidad Territorial;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+I. La expedición de las Constancias de Congruencia Urbanística Estatal;
 
 II. Los servicios de análisis, calificación e inscripción de documentos que brinda el Registro Público, correspondientes a las trasmisiones de las áreas de cesión para destinos, así como de propiedad de las viviendas a favor de sus beneficiarios;
 
@@ -2547,11 +2777,13 @@ Para realizar una acción urbanística, en complemento a las autorizaciones muni
 
 I. En su caso, la autorización de impacto ambiental que expida la autoridad federal o estatal competente, conforme a la legislación ambiental y demás disposiciones aplicables;
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-II. LA CONSTANCIA DE COMPATIBILIDAD TERRITORIAL QUE EXPIDA LA SECRETARÍA, EN LOS SUPUESTOS Y TÉRMINOS QUE ESTABLECE ESTA LEY, PARA LA OBTENCIÓN DE LA TERMINACIÓN DE OBRA;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+II. LA CONSTANCIA DE CONGRUENCIA URBANÍSTICA ESTATAL QUE EXPIDA LA SECRETARÍA, EN LOS SUPUESTOS Y TÉRMINOS QUE ESTABLECE ESTA LEY, PARA LA OBTENCIÓN DE LA TERMINACIÓN DE OBRA;
 
 III. El Estudio de Riesgo autorizado por la autoridad competente, en los casos a que se refieren los artículos 102 y 103 de esta ley, y
 
@@ -2693,9 +2925,11 @@ Las edificaciones, de acuerdo con su tipo y ubicación, deberán contar con espa
 
 Los propietarios y poseedores de las edificaciones y predios deben conservarlos en buenas condiciones de estabilidad, servicio, aspecto e higiene y adoptar las medidas conducentes, a fin de evitar riesgos para la integridad personal de los vecinos y su patrimonio. De igual manera están obligados a participar en la conservación, limpieza y buen mantenimiento general del espacio público situado en frente a sus propiedades.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 184.
 
-En la elaboración de proyectos, así como en la ejecución de obras relativas a conjuntos urbanos, fraccionamientos y construcciones, se requerirá de la intervención de peritos responsables de obra y sus corresponsables, así como peritos ambientales, en los términos de esta ley, la Ley de Acciones Urbanísticas del Estado de Quintana Roo y sus disposiciones reglamentarias.
+En la elaboración de proyectos, así como en la ejecución de obras relativas a conjuntos urbanos, fraccionamientos y construcciones, se requerirá de la intervención de peritos responsables de obra y sus corresponsables, en los términos de esta ley, la Ley de Acciones Urbanísticas del Estado de Quintana Roo y sus disposiciones reglamentarias.
 
 ###### Artículo 185.
 
@@ -2819,15 +3053,17 @@ En ningún caso se autorizarán acciones urbanísticas que contravengan las prov
 
 La vigencia de las autorizaciones urbanísticas a que se refiere este ordenamiento se ajustará a lo siguiente:
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-I. Las Constancias de Zonificación Y DE COMPATIBILIDAD TERRITORIAL tendrán una vigencia indefinida, a menos que cambien los programas municipales a que se refiere el artículo 31 de esta ley, en cuyo caso quedarán sin efecto y deberán ajustarse a las nuevas disposiciones;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
-Una vez concretado el uso o edificación del predio de que se trate y no se pretenda modificar o cambiar el uso o aprovechamiento autorizado, no serán exigibles las constancias a que se refiere esta fracción;
+I. Las Constancias de Zonificación Y DE CONGRUENCIA URBANÍSTICA ESTATAL tendrán una vigencia indefinida, a menos que cambien los programas municipales a que se refiere el artículo 31 de esta ley, en cuyo caso quedarán sin efecto y deberán ajustarse a las nuevas disposiciones;
 
-II. Las autorizaciones de fraccionamientos, conjuntos urbanos o condominios, serán definitivas y con vigencia indefinida, una vez que se otorgue la escritura pública donde se hagan constar las cesiones para destinos y el proyecto de urbanización, fraccionamiento o construcción correspondientes;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+II. Las autorizaciones de fraccionamientos, conjuntos urbanos o condominios, de orden estatal y municipal serán definitivas y con vigencia indefinida, una vez que se otorgue la escritura pública debidamente inscrita donde se hagan constar las cesiones para destinos y el proyecto de urbanización, fraccionamiento o construcción correspondientes;
 
 III. Las autorizaciones de subdivisión, parcelación, fusión o relotificación tendrán vigencia de un año, a menos de que se haya otorgado la escritura pública donde se hagan constar la acción urbanística de que se trate, en cuyo caso serán definitivas y de vigencia indefinida, y
 
@@ -2849,13 +3085,15 @@ Las autoridades que expidan instrumentos de planeación a que se refiere el art�
 
 No podrá inscribirse en el Registro Público ningún acto, convenio, contrato o afectación que no se ajuste a lo dispuesto en la presente ley, así como a los programas y autorizaciones expedidas por las autoridades competentes, aplicables en la materia.
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 198.
 
-Los notarios, registradores y demás fedatarios públicos sólo podrán autorizar escrituras de actos, convenios y contratos relacionados con el uso, aprovechamiento, trasmisión o gravamen de bienes inmuebles, previa comprobación DE LA EXISTENCIA DE LA CONSTANCIA DE COMPATIBILIDAD TERRITORIAL, ASÍ COMO de las autorizaciones municipales correspondientes, de conformidad con lo previsto en esta ley; mismas que deberán ser señaladas o insertadas en los instrumentos públicos respectivos.
+Los notarios, registradores y demás fedatarios públicos sólo podrán autorizar escrituras de actos, convenios y contratos relacionados con el uso, aprovechamiento, trasmisión o gravamen de bienes inmuebles, previa comprobación DE LA EXISTENCIA DE LA CONSTANCIA DE CONGRUENCIA URBANÍSTICA ESTATAL, ASÍ COMO de las autorizaciones municipales correspondientes, de conformidad con lo previsto en esta ley; mismas que deberán ser señaladas o insertadas en los instrumentos públicos respectivos.
 
 Asimismo, tendrán la obligación de insertar en las escrituras de transmisión de propiedad en que intervengan, cláusula especial en la que se hagan constar, las obligaciones de respetar los programas municipales a que se refiere el artículo 31 de esta ley, en especial el uso o destino del predio objeto de tales actos, y el respeto a la definición de área urbanizable.
 
@@ -3184,3 +3422,21 @@ P.O. 13 DE SEPTIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan a lo dispuesto en el presente Decreto.
+
+P.O. 24 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 093 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO; DE LA LEY DE ACCIONES URBANÍSTICAS, Y DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, TODAS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En tanto el Titular del Poder Ejecutivo del Estado y los municipios del Estado no expidan las disposiciones administrativas a que se refiere este decreto, seguirán aplicándose las disposiciones reglamentarias vigentes.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado expedirá en un plazo no mayor a ciento ochenta días, el reglamento de esta ley, que será aplicable en los temas de competencia estatal, y aplicable en el ámbito estatal, hasta en tanto los ayuntamientos no expidan sus respectivos ordenamientos municipales en la materia.
+
+CUARTO. Los programas de desarrollo urbano, así como las autorizaciones de acciones urbanísticas, constancias y/o licencias de uso de suelo otorgadas con anterioridad a la entrada en vigor de la presente Ley seguirán vigentes en los términos que fueron aprobados o concedidas. Las que se encuentren en perjuicio de derechos adquiridos se tendrán como vigentes, las demás deberán ajustar a sus nuevas disposiciones. Para tal efecto, los interesados en alguna autorización, refrendo o renovación en materia de acciones urbanísticas podrán optar por continuar su procedimiento ajustando sus proyectos a la normatividad vigente, o bien, presentar una nueva solicitud, en cuyo caso no pagarán nuevamente los derechos correspondientes.
+
+QUINTO. El Ejecutivo del Estado y los Municipios contarán con un plazo de un año contado a partir de la entrada en vigor de este Decreto, para formular, consultar y promover la aprobación de los Programas correspondientes al Desarrollo Urbano, conforme a sus competencias.
+
+SEXTO. Durante el Ejercicio Fiscal de 2023, los derechos establecidos en la Ley de Hacienda del Estado de Quintana Roo, por concepto de Constancia de Compatibilidad Territorial, serán aplicables a las Constancias de Congruencia Urbanística Estatal y al Dictamen de Impacto Urbanístico, a que se refiere esta Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo.
+
+SÉPTIMO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
