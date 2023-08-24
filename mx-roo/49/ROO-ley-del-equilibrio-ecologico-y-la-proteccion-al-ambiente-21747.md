@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-21747"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2023-06-16"
+last_updated: "2023-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 29 de junio de 2001.
 
@@ -911,13 +911,9 @@ XVIII.- Cambio de uso del suelo en terrenos considerados como acahuales; y
 
 XIX.- Obras o actividades que correspondan a asuntos de competencia estatal, que puedan causar desequilibrios ecológicos graves e irreparables daños a la salud pública o a los ecosistemas, o rebasar los límites y condiciones establecidos en las disposiciones jurídicas relativas a la preservación del equilibrio ecológico y protección al ambiente.
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE AGOSTO DE 2018)</small>
-
-La Secretaría, en coordinación con la Secretaría de Desarrollo Territorial Urbano Sustentable, expedirán las disposiciones administrativas que permitan unificar, armonizar, simplificar y evitar la duplicidad de trámites, costos y tiempos de gestión de las manifestaciones de impacto ambiental Y LOS DICTÁMENES DE IMPACTO TERRITORIAL a que hacen referencia esta ley y la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo.
+La Secretaría, en coordinación con la Secretaría de Desarrollo Territorial Urbano Sustentable, expedirán las disposiciones administrativas que permitan unificar, armonizar, simplificar y evitar la duplicidad de trámites, costos y tiempos de gestión de las manifestaciones de impacto ambiental y los dictámenes de impacto urbanístico a que hacen referencia esta ley y la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo.
 
 ###### Artículo 25.
 
@@ -3620,3 +3616,21 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. La implementación de los Sistemas de Manejo Ambiental se llevará a cabo de manera paulatina y por etapas, de conformidad con los lineamientos que emita la Secretaría de Ecología y Medio Ambiente del Estado de Quintana Roo, los cuales deberán publicarse en el Periódico Oficial del Estado de Quintana Roo dentro del plazo de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto.
 
 CUARTO. Las erogaciones que se llegaran a generar con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin a los ejecutores del gasto correspondiente en el ejercicio fiscal de que se trate.
+
+P.O. 24 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 093 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO; DE LA LEY DE ACCIONES URBANÍSTICAS, Y DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, TODAS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En tanto el Titular del Poder Ejecutivo del Estado y los municipios del Estado no expidan las disposiciones administrativas a que se refiere este decreto, seguirán aplicándose las disposiciones reglamentarias vigentes.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado expedirá en un plazo no mayor a ciento ochenta días, el reglamento de esta ley, que será aplicable en los temas de competencia estatal, y aplicable en el ámbito estatal, hasta en tanto los ayuntamientos no expidan sus respectivos ordenamientos municipales en la materia.
+
+CUARTO. Los programas de desarrollo urbano, así como las autorizaciones de acciones urbanísticas, constancias y/o licencias de uso de suelo otorgadas con anterioridad a la entrada en vigor de la presente Ley seguirán vigentes en los términos que fueron aprobados o concedidas. Las que se encuentren en perjuicio de derechos adquiridos se tendrán como vigentes, las demás (sic) deberán ajustar a sus nuevas disposiciones. Para tal efecto, los interesados en alguna autorización, refrendo o renovación en materia de acciones urbanísticas podrán optar por continuar su procedimiento ajustando sus proyectos a la normatividad vigente, o bien, presentar una nueva solicitud, en cuyo caso no pagarán nuevamente los derechos correspondientes.
+
+QUINTO. El Ejecutivo del Estado y los Municipios contarán con un plazo de un año contado a partir de la entrada en vigor de este Decreto, para formular, consultar y promover la aprobación de los Programas correspondientes al Desarrollo Urbano, conforme a sus competencias.
+
+SEXTO. Durante el Ejercicio Fiscal de 2023, los derechos establecidos en la Ley de Hacienda del Estado de Quintana Roo, por concepto de Constancia de Compatibilidad Territorial, serán aplicables a las Constancias de Congruencia Urbanística Estatal y al Dictamen de Impacto Urbanístico, a que se refiere esta Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo.
+
+SÉPTIMO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
