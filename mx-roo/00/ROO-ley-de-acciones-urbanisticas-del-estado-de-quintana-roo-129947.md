@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-acciones-urbanisticas-del-estado-de-quintana-roo-129947"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-16"
-last_updated: "2019-09-13"
+last_updated: "2023-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129947&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ACCIONES URBANÍSTICAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2023.
 
 Ley publicada en el Número 108 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 16 de agosto de 2018.
 
@@ -59,7 +59,9 @@ Las disposiciones de esta ley son obligatorias para las personas físicas o mora
 
 Las acciones urbanísticas a que se refiere esta ley sólo podrán realizarse mediante autorización expresa otorgada por las autoridades competentes de conformidad con los requisitos y procedimientos establecidos en este ordenamiento.
 
-La ubicación de los nuevos desarrollos, su zonificación interna, destino de áreas disponibles, soluciones viales, anchura de avenidas, calles colectoras, calles locales y andadores, áreas de cesión para destinos, las dimensiones mínimas y máximas de lotes, los espacios libres y su utilización y todas las demás características, estarán sujetas a lo dispuesto por esta ley, de conformidad al tipo de acción urbanística de que se trata. La autorización específica para cada caso se sujetará a los usos, destinos, reservas y previsiones derivadas de los programas municipales de ordenamiento territorial, ecológico y desarrollo urbano aplicables.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+La ubicación de los nuevos desarrollos, su zonificación interna, destino de áreas disponibles, soluciones viales, anchura de avenidas, calles colectoras, calles locales y andadores, áreas de cesión para destinos, las dimensiones mínimas y máximas de lotes, los espacios libres y su utilización y todas las demás características, estarán sujetas a lo dispuesto por esta ley, de conformidad al tipo de acción urbanística de que se trata. La autorización específica para cada caso se sujetará a los usos, destinos, reservas y previsiones derivadas de los programas municipales de desarrollo urbano aplicables.
 
 ###### Artículo 3.
 
@@ -77,7 +79,9 @@ II. Infraestructura verde: Los sistemas y redes de elementos bióticos y abióti
 
 III. Ley: La Ley de Acciones Urbanísticas del Estado de Quintana Roo;
 
-IV. Municipalización: Acto formal de entrega-recepción de obras, mediante el cual el Municipio asume las obligaciones de prestar servicios públicos en un nuevo desarrollo;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+IV. Municipalización: Acto formal de entrega-recepción de bienes con destino público debidamente inscritos, la acción formal de hacer el bien del dominio público municipal;
 
 V. Nuevo Desarrollo: Acción urbanística inmobiliaria que incorpora, recicla o densifica un predio de un centro de población o del territorio Municipal;
 
@@ -91,9 +95,11 @@ IX. Promotor Inmobiliario: Los prestadores de servicios en esa materia, a que se
 
 X. Proyecto: El conjunto de planos, memorias y cálculos integrados en documentos específicos que expresan las características de un nuevo desarrollo, y obras complementarias, propuesto ante las Autoridades correspondientes;
 
-XI. Relotificación: Al acto por el cual a dos o más lotes se le modifican las dimensiones o perímetros originalmente establecidos, sin que se incremente o disminuya el número de lotes;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
-XII. Reconfiguración: Acción urbanística inmobiliaria que otorga a las unidades de propiedad localizadas en un predio, una estructura o composición distinta en su administración o su geometría, incluyendo medidas, forma, superficie y colindancias;
+XI. Relotificación: Acto por el cual, se modifica el destino de suelo conforme lotes originalmente autorizados e inscritos, se les modifica en su geometría, incluyendo medidas, formas, superficies, colindancias y vialidades; cuyas adecuaciones en las infraestructuras o redes de servicios públicos necesarias para atender a los nuevos lotes que se generen, serán a costa del promovente;
+
+XII. (DEROGADA, P.O. 24 DE AGOSTO DE 2023)
 
 XIII. Secretaría: La Secretaría de Desarrollo Territorial Urbano Sustentable del Gobierno del Estado;
 
@@ -105,7 +111,13 @@ XVI. Superficie Neta: Superficie que se calcula deduciendo del área total del f
 
 XVII. Unidad de Aprovechamiento Exclusivo: Unidad básica de un conjunto urbano que resulta de su división en fracciones que pueden ser aprovechadas de manera independiente a las otras unidades y que se identifica solamente con una tipología.
 
-XVIII. Vinculación: Acción urbanística por medio de la cual se relacionan dos áreas que pueden estar urbanizadas o en proceso de urbanización, estableciendo continuidad espacial y complementariedad funcional entre sus elementos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE AGOSTO DE 2023)</small>
+
+XVIII. Unidad de Propiedad Exclusiva: Son los diferentes lotes de terreno, departamentos, casas, locales, áreas o naves y los elementos anexos que le corresponda sobre el cual el condómino tiene un derecho de propiedad y de uso exclusivo.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE AGOSTO DE 2023)</small>
+
+XIX. Vinculación: Acción urbanística por medio de la cual se relacionan dos áreas que pueden estar urbanizadas o en proceso de urbanización, estableciendo continuidad espacial y complementariedad funcional entre sus elementos.
 
 ## Título Segundo. Autoridades
 
@@ -115,11 +127,13 @@ XVIII. Vinculación: Acción urbanística por medio de la cual se relacionan dos
 
 Corresponde al Gobierno del Estado:
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS DÉCIMO PRIMERO Y DÉCIMO SEGUNDO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-I. EMITIR LAS CONSTANCIAS DE COMPATIBILIDAD TERRITORIAL EN CUALQUIERA DE SUS MODALIDADES, EN LOS TÉRMINOS DE ESTE ORDENAMIENTO Y LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+I. EMITIR LAS CONSTANCIAS DE CONGRUENCIA URBANÍSTICA ESTATAL EN CUALQUIERA DE SUS MODALIDADES, EN LOS TÉRMINOS DE ESTE ORDENAMIENTO Y LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO;
 
 II. En coordinación con los Municipios, publicar en el Periódico Oficial del Estado de Quintana Roo, el catálogo de los perfiles profesionales, así como los requisitos homologados para ser perito responsable de obra o corresponsable;
 
@@ -139,15 +153,17 @@ I. Emitir las Constancias de Usos del Suelo;
 
 II. Otorgar o negar las autorizaciones a las fusiones, subdivisiones, parcelaciones, relotificaciones, fraccionamientos, condominios, conjuntos urbanos o urbanizaciones, así como de construcción, ampliación, remodelación, reparación, restauración, demolición o reconstrucción de inmuebles, de propiedad pública o privada, que pretendan realizarse en el territorio municipal;
 
-III. Aplicar, controlar y vigilar la zonificación y demás políticas y determinaciones establecidas en los programas municipales de ordenamiento territorial, ecológico y desarrollo urbano en las autorizaciones que emitan;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+III. Aplicar, controlar y vigilar la zonificación y demás políticas y determinaciones establecidas en los programas municipales de ordenamiento y desarrollo urbano en las autorizaciones que emitan;
 
 IV. Asegurar los mecanismos de información ciudadana, y el derecho de petición, en materia de esta ley y en su ámbito de competencia;
 
 V. Facilitar a las personas físicas y morales interesadas el acceso a la información completa, veraz, oportuna, comprensible, detallada y gratuita, relacionada con cualquier procedimiento de su competencia, en materia de esta ley;
 
-VI. En coordinación con la Secretaría, elaborar el catálogo de los perfiles profesionales, así como la capacitación de los peritos responsables y corresponsables de obra;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
-VII. Registrar a los peritos responsables de obra que actúen en las materias de esta ley;
+VII. Registrar a los peritos especializados responsables de obra que actúen en las materias de esta ley; realizar evaluaciones periódicas y cumplimiento de horas de servicio social y/o comunitario, conforme lo establezca cada Municipio;
 
 VIII. Considerar, cuantificar y prever el impacto a la Hacienda Municipal que tendrá la prestación de los servicios públicos a su cargo, así como la provisión de espacio público y equipamientos urbanos en los nuevos desarrollos;
 
@@ -169,7 +185,9 @@ Las atribuciones conferidas a los Municipios se ejercerán por los Ayuntamientos
 
 La Secretaría y los Municipios estarán facultados para promover y celebrar convenios y acuerdos entre sí o con el gobierno federal, que les permitan concertar acuerdos y coordinarse en la prevención de impactos y adecuada regulación de los nuevos desarrollos.
 
-El Estado y los Municipios podrán celebrar, conjunta o separadamente, convenios de concertación con los sectores social y privado que participen en su jurisdicción territorial y competencias.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+El Estado y los Municipios podrán celebrar, conjunta o separadamente, convenios de concertación con los sectores social y privado que participen en su jurisdicción territorial y competencias, así como convenir acciones para contrarrestar el rezago social y los asentamientos humanos sin servicios.
 
 ## Título Tercero. Promotores
 
@@ -185,9 +203,11 @@ Ejerce la promoción inmobiliaria aquella persona física o moral que participa 
 
 Todo propietario o promotor es responsable del diseño, ejecución y comercialización de la acción urbanística que promueva. Son responsables solidarios aquellos peritos responsables de obra y demás profesionistas, que hayan participado en la elaboración del proyecto, en su ejecución o supervisión, conforme a las funciones indicadas en esta ley y los contratos celebrados con el promotor.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 10.
 
-El promotor, conforme a las autorizaciones y contratos celebrados, será responsable de la acción urbanística que promueva o respalde, así como de toda acción complementaria incluida en el proyecto o derivada del mismo. Esto contempla la constitución de fianzas, las obras de espacio público, conectividad y equipamiento urbano, la colaboración para las redes colectoras, la mitigación o reparación de daños a terceros y todas las demás que establezcan las leyes aplicables.
+El promotor, conforme a las autorizaciones y contratos celebrados, será responsable de la acción urbanística que promueva o respalde, así como de toda acción complementaria incluida en el proyecto o derivada del mismo. Esto contempla la constitución de fianzas que deberán actualizarse anualmente hasta concluir la acción urbanística correspondiente, las obras de espacio público, conectividad y equipamiento urbano, la colaboración para las redes colectoras, la mitigación o reparación de daños a terceros y todas las demás que establezcan las leyes aplicables.
 
 ###### Artículo 11.
 
@@ -201,9 +221,11 @@ Cuando el proyecto de acción urbanística, o sus obras de vinculación, adaptac
 
 ### Capítulo I. Acciones Urbanísticas de Reconfiguración Predial
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 13.
 
-Las acciones urbanísticas de reconfiguración predial se clasifican de la siguiente manera:
+Las acciones urbanísticas se clasifican de la siguiente manera:
 
 I. Subdivisión;
 
@@ -213,13 +235,19 @@ III. Fusión;
 
 IV. Relotificación;
 
-V. Fraccionamiento, y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
-VI. Conjunto Urbano.
+V. Fraccionamiento y/o conjunto urbano;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+VI. Condominio, y/o conjunto urbano.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 14.
 
-Todas las acciones urbanísticas deberán ajustarse a lo dispuesto en esta ley y en los programas de ordenamiento territorial, ecológico y desarrollo urbano municipales, en los aspectos siguientes:
+Todas las acciones urbanísticas deberán ajustarse a lo dispuesto en esta ley y en los programas de desarrollo urbano municipales, en los aspectos siguientes:
 
 I. Las zonas y usos en que se permitan;
 
@@ -235,7 +263,9 @@ VI. Las especificaciones relativas a las características, dimensiones de los lo
 
 VII. Las normas técnicas y los demás derechos y obligaciones que se consideren necesarios para el racional funcionamiento urbano del proyecto de que se trate teniendo como centralidad la humanización de los espacios y la salvaguarda de la dignidad de sus habitantes, así como el respeto al medio ambiente, y
 
-VIII. Las restricciones generales en materia de gestión integral de riesgos. Los nuevos desarrollos no se autorizarán donde se dañen o afecten zonas forestales, monumentos, sitios históricos, o el equilibrio de la densidad de población en los términos de los programas de ordenamiento territorial, ecológico y desarrollo urbano aplicables.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+VIII. Las restricciones generales en materia de gestión integral de riesgos. Los nuevos desarrollos no se autorizarán donde se dañen o afecten zonas forestales, monumentos, sitios históricos, o el equilibrio de la densidad de población en los términos de los programas de desarrollo urbano aplicables.
 
 ### Capítulo II. Acciones Urbanísticas de Nuevos Desarrollos
 
@@ -253,9 +283,17 @@ IV. Turísticos;
 
 V. Ecoturísticos;
 
-VI. Mixtos, y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
-VII. Funerarios.
+VI. Mixtos;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+VII. Funerarios, y
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+VIII. De salud y otros.
 
 ###### Artículo 16.
 
@@ -263,7 +301,9 @@ Los fraccionamientos y conjuntos urbanos habitacionales se clasifican por su den
 
 Por densidad, se clasifican en baja, media y alta, correspondiendo respectivamente a menos de veinticuatro viviendas por hectárea, de veinticuatro a sesenta viviendas por hectárea, y más de sesenta viviendas por hectárea respectivamente. Por el valor de los lotes o viviendas, se clasificará conforme a las normas federales aplicables.
 
-En ningún caso podrán autorizarse conjuntos urbanos habitacionales para vivienda social mayores de noventa unidades individuales o de aprovechamiento exclusivo.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+En ningún caso podrán autorizarse conjuntos urbanos habitacionales para vivienda social mayores de noventa unidades individuales o de aprovechamiento exclusivo. Sólo podrán autorizarse conjuntos urbanos habitacionales mayores de noventa unidades de propiedad exclusivo o de aprovechamiento exclusivo, siempre y cuando no sean para vivienda social.
 
 ###### Artículo 17.
 
@@ -321,15 +361,21 @@ III. Los lotes unifamiliares de las categorías residencial y residencial plus t
 
 IV. Los lotes unifamiliares rurales, serán destinados a habitación aun cuando podrán tener utilización agropecuaria, se ubicaran fuera de los centros de población, no podrán tener un frente menor a 20.0 metros y una superficie no menor a 600.0 metros cuadrados, y
 
-V. Las unidades privativas o de aprovechamiento individual o exclusivo en conjuntos urbanos para vivienda unifamiliar no será inferior a lo que indican las fracciones anteriores.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+V. Las unidades privativas o de aprovechamiento individual o exclusivo en conjuntos urbanos horizontales para vivienda unifamiliar no será inferior a lo que indican las fracciones anteriores.
 
 En los conjuntos habitacionales plurifamiliares, la unidad de vivienda mínima no será inferior a 45 metros cuadrados y deberá ajustarse a las normas de habitabilidad que fijen los reglamentos municipales en la materia. Al menos un 20% del perímetro de la unidad deberá tener vista hacia espacio abierto al interior o exterior del inmueble, sin perjuicio de las disposiciones de iluminación y ventilación naturales aplicables.
 
-Los programas de ordenamiento territorial, ecológico y desarrollo urbano podrán establecer mínimos de las áreas edificables, no edificables y urbanizables, siempre que no sean inferiores a los rangos permitidos por la ley.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+Los programas de desarrollo urbano podrán establecer mínimos de las áreas edificables, no edificables y urbanizables, siempre que no sean inferiores a los rangos permitidos por la ley.
 
 Con la finalidad de garantizar la inclusión y el derecho de las personas con discapacidad o movilidad reducida, los proyectos de vivienda deberán ajustarse a las normas oficiales mexicanas que regulen la materia, así como las de protección civil aplicables.
 
-Los espacios abiertos del fraccionamiento de la superficie vendible se ajustarán a las disposiciones de zonificación de los programas municipales de ordenamiento territorial, ecológico y desarrollo urbano, consideradas como parámetros urbanísticos de coeficiente de ocupación de suelo, no siendo inferiores al 15% del lote o unidad de que se trate, y debiendo considerar que por lo menos el 50% de dicho porcentaje deberá destinarse para áreas verdes y forestación.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+Los espacios abiertos del fraccionamiento de la superficie vendible se ajustarán a las disposiciones de zonificación de los programas municipales de desarrollo urbano, consideradas como parámetros urbanísticos de coeficiente de ocupación de suelo, no siendo inferiores al 15% del lote o unidad de que se trate, y debiendo considerar que por lo menos el 50% de dicho porcentaje deberá destinarse para áreas verdes y forestación.
 
 ###### Artículo 24.
 
@@ -357,11 +403,17 @@ III. Aquellos lotes y unidades de aprovechamiento exclusivo de industria grande,
 
 Para el caso de fusiones, subdivisión, relotificaciones o parcelaciones, por ningún motivo se permitirá la división de lotes en fracciones menores a las señaladas en esta ley. En consecuencia, queda prohibido celebrar operaciones de traslación de dominio sobre fracciones inferiores a los mínimos establecidos y los encargados de las oficinas del Registro Público de la Propiedad y el Comercio negarán el trámite de inscripción relativo.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+En caso de que se solicite una fusión de lotes o una subdivisión de un lote derivado de una licencia de fraccionamiento previamente autorizada e inscrita, esta aplicará como una acción urbanística de subdivisión que no implique el acto de relotificación del fraccionamiento autorizado; por lo que en la autorización deberá indicarse los parámetros urbanos señalados en la autorización previa.
+
 ### Capítulo II. Infraestructura Urbana Primaria y Espacios Públicos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 28.
 
-Las obras de infraestructura urbana de los fraccionamientos y conjuntos urbanos se sujetará a los programas municipales de ordenamiento territorial, ecológico y desarrollo urbano, privilegiando el bien común y la dignidad del ser humano, así como la promoción de la cultura socio-ambiental que permita a la comunidad insertarse respetuosamente al entorno, propiciando un crecimiento ordenado, con sustentabilidad y una mejor calidad de vida y comprenderán:
+Las obras de infraestructura urbana de los fraccionamientos y conjuntos urbanos se sujetarán a los programas municipales de desarrollo urbano, privilegiando el bien común y la dignidad del ser humano, así como la promoción de la cultura socio-ambiental que permita a la comunidad insertarse respetuosamente al entorno, propiciando un crecimiento ordenado, con sustentabilidad y una mejor calidad de vida y comprenderán:
 
 I. Red vial, integrada y jerarquizada por:
 
@@ -369,23 +421,37 @@ a) Vialidades primarias. Las destinadas a conducir el tránsito de las calles lo
 
 Las vialidades primarias serán indicadas en los programas de desarrollo urbano y garantizarán la conectividad de la población y de las distintas partes de la ciudad entre sí, por lo que deberán contar con las cualidades suficientes para atender la demanda e inducir los modos de transporte que conlleven su uso equitativo humanizado y eficiente. Sean de uno o dos sentidos, estarán pavimentadas, contarán con dos calzadas separadas por un camellón, la anchura libre entre los límites de los lotes o unidades privativas de ambas aceras no podrá ser menor de 27 metros, deberá incluir banquetas, camellón central, alumbrado público, cruces peatonales, infraestructura verde y arborización y, en caso de que los programas así lo determinen, carriles de ciclovías, que no podrá usarse como estacionamiento, zona de espera o para el ascenso y descenso de pasajeros.
 
-Las aceras tendrán un ancho mínimo de 3.0 metros incluyendo arborización. El camellón central no podrá tener menos de 4.50 metros de ancho.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+Las aceras tendrán un ancho mínimo de 3.0 metros de cada lado incluyendo arborización. El camellón central no podrá tener menos de 4.50 metros de ancho.
 
 En caso de que la vialidad considere carril de estacionamiento, éste deberá ser distinto al de la ciclovía y no interferir con el transporte público.
 
-Deberá haber una vialidad primaria a una distancia no menor a 1,200 metros a partir de una vialidad primaria o regional existente, o donde la señalen los programas de ordenamiento territorial, ecológico y desarrollo urbano; debiendo ser pavimentadas de conformidad con lo establecido en las normas y especificaciones de construcción del Gobierno del Estado y las oficiales mexicanas aplicables, pudiendo utilizarse concreto hidráulico u otras tecnologías, garantizando cuando menos la capacidad de servicio requerido;
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
-b) Vialidades secundarias. Las destinadas principalmente a dar acceso a los lotes del fraccionamiento y a conjuntos urbanos que no sean atendidos por una vialidad primaria. Estarán pavimentadas. El ancho de estas calles entre los paramentos de los lotes o unidades privativas de ambas aceras, no deberá ser menor de 12 metros, deberá incluir banquetas, iluminación, cruces peatonales y arborización. La pavimentación será de conformidad con lo establecido en las normas y especificaciones de construcción del Gobierno del Estado y las oficiales mexicanas aplicables, pudiendo utilizarse concreto hidráulico u otras tecnologías, garantizando cuando menos la capacidad de servicio mínimo requerido. Las aceras tendrán un ancho mínimo de 2.10 metros incluyendo arborización;
+Deberá haber una vialidad primaria a una distancia no menor a 1,200 metros a partir de una vialidad primaria o regional existente, o donde la señalen los programas de desarrollo urbano; debiendo ser pavimentadas de conformidad con lo establecido en las normas y especificaciones de construcción del Gobierno del Estado y las oficiales mexicanas aplicables, pudiendo utilizarse concreto hidráulico u otras tecnologías, garantizando cuando menos la capacidad de servicio requerido;
 
-c) Vialidades tranquilizadas. Las destinadas principalmente a dar acceso a los lotes del fraccionamiento y a conjuntos urbanos que no sean atendidos por una vialidad primaria. En donde se priorice la escala humana y la movilidad mixta, con velocidad máxima de circulación de treinta kilómetros por hora, en donde convivan el transporte motorizado, el no motorizado y los peatones. Estarán pavimentadas. El ancho de estas calles entre los paramentos de los lotes o unidades privativas de ambas aceras, no deberá ser menor de 15 metros, deberá incluir banquetas, iluminación, cruces peatonales, infraestructura verde y arborización. La pavimentación será de conformidad con lo establecido en las normas y especificaciones de construcción del Gobierno del Estado y las oficiales mexicanas aplicables, pudiendo utilizarse concreto hidráulico u otras tecnologías, garantizando cuando menos la capacidad de servicio mínimo requerido. Las aceras tendrán un ancho mínimo de 3.0 metros incluyendo arborización; este tipo de calles no podrán alojar rutas de transporte público, ni de carga ni de pasajeros;
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
-d) Corredores a escala humana. Los destinados con preeminencia al espacio público peatonal vinculando a escala humana los equipamientos urbanos estratégicos del centro de población, pudiendo convivir en ellos el transporte no motorizado. El ancho de estos corredores, así como las disposiciones de imagen urbana, arte urbano, pavimentación, iluminación, señalética, arborización, infraestructura verde, usos de suelo aledaños, mobiliario urbano, accesibilidad universal, ubicación, longitud y trayectoria, estarán a lo dispuesto en los programas de ordenamiento territorial, ecológico y desarrollo urbano, así como a las normas y criterios aplicables, pudiendo establecerse adicionalmente en lugares diversos;
+b) Vialidades secundarias. Las destinadas principalmente a dar acceso a los lotes del fraccionamiento y a conjuntos urbanos que no sean atendidos por una vialidad primaria. Estarán pavimentadas. El ancho de estas calles entre los paramentos de los lotes o unidades privativas de ambas aceras no deberá ser menor de 12 metros, deberá incluir banquetas, iluminación, cruces peatonales y arborización. La pavimentación será de conformidad con lo establecido en las normas y especificaciones de construcción del Gobierno del Estado y las oficiales mexicanas aplicables, pudiendo utilizarse concreto hidráulico u otras tecnologías, garantizando cuando menos la capacidad de servicio mínimo requerido. Las aceras de cada lado tendrán un ancho mínimo de 2.10 metros incluyendo arborización;
 
-e) Corredores biológicos. Los destinados con preeminencia al espacio público de infraestructura verde, para construir redes de elementos bióticos que vinculen ambientalmente el asentamiento humano con su entorno y contribuyan a la organización y distribución de servicios ambientales, y a la preservación y restauración del medio ambiente y el microclima en los centros de población, propiciando de manera particular la permanencia de la fauna nativa dentro de ellos. Puede convivir el transporte no motorizado y los peatones. El ancho de estos corredores, así como las disposiciones ambientales específicas, de imagen urbana, pavimentación, iluminación, señalética, arborización, usos de suelo aledaños, mobiliario urbano, accesibilidad universal, ubicación, longitud y trayectoria, estarán a lo dispuesto en los programas de ordenamiento territorial, ecológico y desarrollo urbano, así como a las normas y criterios aplicables, pudiendo establecerse adicionalmente en lugares diversos;
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+c) Vialidades tranquilizadas. Las destinadas principalmente a dar acceso a los lotes del fraccionamiento y a conjuntos urbanos que no sean atendidos por una vialidad primaria. En donde se priorice la escala humana y la movilidad mixta, con velocidad máxima de circulación de treinta kilómetros por hora, en donde convivan el transporte motorizado, el no motorizado y los peatones. Estarán pavimentadas. El ancho de estas calles entre los paramentos de los lotes o unidades privativas de ambas aceras, no deberá ser menor de 15 metros, deberá incluir banquetas, iluminación, cruces peatonales, infraestructura verde y arborización. La pavimentación será de conformidad con lo establecido en las normas y especificaciones de construcción del Gobierno del Estado y las oficiales mexicanas aplicables, pudiendo utilizarse concreto hidráulico u otras tecnologías, garantizando cuando menos la capacidad de servicio mínimo requerido. Las aceras tendrán un ancho mínimo de 3.0 metros cada lado incluyendo arborización; este tipo de calles no podrán alojar rutas de transporte público, ni de carga ni de pasajeros;
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+d) Corredores a escala humana. Los destinados con preeminencia al espacio público peatonal vinculando a escala humana los equipamientos urbanos estratégicos del centro de población, pudiendo convivir en ellos el transporte no motorizado. El ancho de estos corredores, así como las disposiciones de imagen urbana, arte urbano, pavimentación, iluminación, señalética, arborización, infraestructura verde, usos de suelo aledaños, mobiliario urbano, accesibilidad universal, ubicación, longitud y trayectoria, estarán a lo dispuesto en los programas de desarrollo urbano, así como a las normas y criterios aplicables, pudiendo establecerse adicionalmente en lugares diversos;
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+e) Corredores biológicos. Los destinados con preeminencia al espacio público de infraestructura verde, para construir redes de elementos bióticos que vinculen ambientalmente el asentamiento humano con su entorno y contribuyan a la organización y distribución de servicios ambientales, y a la preservación y restauración del medio ambiente y el microclima en los centros de población, propiciando de manera particular la permanencia de la fauna nativa dentro de ellos. Puede convivir el transporte no motorizado, en ciclovías y los peatones. El ancho de estos corredores, así como las disposiciones ambientales específicas, de imagen urbana, pavimentación, iluminación, señalética, arborización, usos de suelo aledaños, mobiliario urbano, accesibilidad universal, ubicación, longitud y trayectoria, estarán a lo dispuesto en los programas de desarrollo urbano, así como a las normas y criterios aplicables, pudiendo establecerse adicionalmente en lugares diversos;
 
 f) Andadores. Los destinados al tránsito de peatones y modos de movilidad no motorizados a baja velocidad, así como al acceso de vehículos de emergencia y de servicio que atiendan una necesidad local. Estarán pavimentados, el ancho de los andadores entre los paramentos de los lotes o unidades privativas no será menor de 8.00 metros y deberán incluir iluminación, infraestructura verde y arborización. Los andadores cerrados no podrán tener un largo mayor de 30.0 metros lineales a partir del paramento de una vialidad primaria o secundaria;
 
-g) Estacionamientos. La dotación de espacios de estacionamiento se establecerá en base al nivel de ingreso de la población atendida y dependiendo de las necesidades y capacidades de movilidad de la zona en que se inscribe el desarrollo, en su caso los programas de ordenamiento territorial, ecológico y desarrollo urbano fijarán los mínimos específicos para cada zona.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE AGOSTO DE 2023)</small>
+
+g) Estacionamientos. La dotación de espacios de estacionamiento se establecerá en base al nivel de ingreso de la población atendida y dependiendo de las necesidades y capacidades de movilidad de la zona en que se inscribe el desarrollo, en su caso los programas de desarrollo urbano fijarán los mínimos específicos para cada zona.
 
 Con arreglo a las Normas Oficiales Mexicanas aplicables, los municipios establecerán las disposiciones técnico-constructivas a que se sujetarán las diferentes vialidades, tales como materiales permitidos, límites mínimos de servicio y parámetros de pruebas de compactación, granulometría y permeabilidad; así como a lo dispuesto en las normas y criterios de accesibilidad universal y de perspectiva de género;
 
@@ -407,7 +473,9 @@ g) Estaciones y paraderos para transporte público;
 
 h) Bahías para ascenso y descenso de pasajeros;
 
-i) En donde señalen los programas de ordenamiento territorial, ecológico y desarrollo urbano, o en los cruces con vialidad primaria de alta velocidad y aforo que lo justifique, puentes peatonales y otros tipos de soluciones seguras para peatones o movilidad no motorizada;
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+i) En donde señalen los programas de desarrollo urbano, o en los cruces con viabilidad primaria de alta velocidad y aforo que lo justifique, puentes peatonales y otros tipos de soluciones seguras para peatones o movilidad no motorizada.
 
 j) Las demás que señalen las leyes y normas aplicables.
 
@@ -423,7 +491,9 @@ IV. Red de agua potable y alcantarillado, de conformidad con las normas y caract
 
 Los desarrollos rurales y los eco turísticos podrán contar con sistemas de tratamiento de aguas residuales con base en las normas oficiales mexicanas y las leyes aplicables en la materia. Se promoverán estímulos fiscales a quienes hagan uso de eco-tecnologías como por ejemplo uso de letrinas secas, humedales artificiales o biofiltros para el tratamiento de aguas residuales, siempre y cuando cumplan con las normas oficiales mexicanas en la materia;
 
-V. Red de drenaje pluvial o solución a las aguas de lluvia que apruebe el Municipio, de conformidad con las normas y características que señalen los programas de ordenamiento territorial, ecológico y desarrollo urbano o los de protección civil;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+V. Red de drenaje pluvial o solución a las aguas de lluvia que aprueben el Municipio, de conformidad con las normas y características que señalen los programas de desarrollo urbano o los de protección civil;
 
 VI. En su caso, red o servicios de distribución de combustible, que podrá ser:
 
@@ -469,17 +539,23 @@ f) Mobiliario deportivo;
 
 g) Juegos infantiles en proporción de por lo menos uno por cada 40 lotes o unidades privativas que se pretendan construir, según el proyecto del desarrollo;
 
-h) Corredores biológicos y corredores a escala humana, en donde lo señalen los programas de ordenamiento territorial, ecológico y desarrollo urbano, conforme a lo dispuesto en la fracción I de este artículo, las leyes y demás normas aplicables;
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+h) Corredores biológicos y corredores a escala humana, en donde lo señalen los programas de desarrollo urbano, conforme a lo dispuesto en la fracción I de este artículo, las leyes y demás normas aplicables;
 
 i) Instalaciones que permitan proveer el servicio de internet en las áreas destinadas para parques públicos e instalaciones deportivas, el cual será construido por el promotor de conformidad con los requerimientos técnicos que fije el municipio y entregado a este para su operación y mantenimiento, y
 
-j) Las demás que señalen los programas de ordenamiento territorial, ecológico y desarrollo urbano, las leyes y demás normas aplicables.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+j) Las demás que señalen los programas de desarrollo urbano, las leyes y demás normas aplicables.
 
 ###### Artículo 29.
 
 El diseño y localización de la infraestructura y los equipamientos, con relación a los espacios públicos o de uso común, facilitarán recíprocamente su operación y mantenimiento. El diseño de las lotificaciones o de la partición en unidades de aprovechamiento individual o exclusivo no impedirá el acceso a estos espacios a quienes tengan derecho a su uso, ni a las redes colectoras o elementos cuyo mantenimiento sea estratégico para el funcionamiento de la infraestructura.
 
-En el caso de obras viales contempladas en los programas de ordenamiento territorial, ecológico y desarrollo urbano, tales como distribuidores, glorietas, pasos a desnivel u otras semejantes, las áreas correspondientes se deberán dejar libres de construcción, para evitar su posterior demolición e incremento en los costos asociados.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+En el caso de obras viales contempladas en los programas de desarrollo urbano, tales como distribuidores, glorietas, pasos a desnivel u otras semejantes, las áreas correspondientes se deberán dejar libres de construcción, para evitar su posterior demolición e incremento en los costos asociados.
 
 ###### Artículo 30.
 
@@ -489,9 +565,11 @@ Ningún fraccionamiento, ni vialidad alguna dentro de él, podrá ser cerrado o 
 
 Por ningún motivo se negará el paso a las autoridades en el desempeño de sus funciones, ni a los vehículos de emergencia o que brinden servicios públicos municipales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 31.
 
-Para el diseño y aprobación de la infraestructura urbana que deba construirse en un fraccionamiento o conjunto urbano, se deberán observar las disposiciones que al respecto establezcan los Programas de Ordenamiento Territorial, Ecológico y Desarrollo Urbano aplicables.
+Para el diseño y aprobación de la infraestructura urbana que deba construirse en un fraccionamiento o conjunto urbano, se deberán observar las disposiciones que al respecto establezcan los Programas de Desarrollo Urbano aplicables.
 
 En el caso de que cualquiera de las obras tenga cruzamiento, entronque o requiera obra cuya localización coincida con una arteria de alta velocidad, carretera, vía de ferrocarril, línea de transmisión eléctrica de alta tensión, oleoducto u otro tipo de instalación que represente un riesgo para la población o el personal encargado de su construcción, se requerirá un proyecto especial que se (sic) deberá ser aprobado previamente por las autoridades competentes.
 
@@ -501,9 +579,11 @@ Cuando los propietarios de los predios vecinos a un fraccionamiento pretendan ap
 
 ### Capítulo III. Equipamiento Urbano
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 33.
 
-Todo nuevo desarrollo, según sus características y dimensiones, deberá contar con el equipamiento que establezcan los programas de ordenamiento territorial, ecológico y desarrollo urbano aplicables para el polígono o zona respectiva.
+Todo nuevo desarrollo, según sus características y dimensiones, deberá contar con el equipamiento que establezcan los programas de desarrollo urbano aplicables para el polígono o zona respectiva.
 
 ###### Artículo 34.
 
@@ -541,9 +621,11 @@ Aquellas acciones que se relacionen por parte de los propietarios, habitantes o 
 
 ### Capítulo V. Medio Ambiente E Infraestructura Verde
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 39.
 
-Los nuevos desarrollos que construyan y utilicen la infraestructura verde para reducir su impacto al medio ambiente podrán ser beneficiados con incrementos en su potencial de zonificación, de conformidad con lo que dispongan los programas de ordenamiento territorial, ecológico y desarrollo urbano aplicables, así como de los acuerdos de facilidades fiscales y administrativas que expidan las autoridades al efecto.
+Los nuevos desarrollos que construyan y utilicen la infraestructura verde para reducir su impacto al medio ambiente podrán ser beneficiados con incrementos en su potencial de zonificación, de conformidad con lo que dispongan los programas de desarrollo urbano aplicables, así como de los acuerdos de facilidades fiscales y administrativas que expidan las autoridades al efecto.
 
 ###### Artículo 40.
 
@@ -561,7 +643,9 @@ d) Muros verdes: contarán con tecnologías que permitan la eficiencia hídrica 
 
 e) Jardines de lluvia: áreas de topografía deprimida con vegetación nativa perenne que contribuye a regular la escorrentía; se podrá aplicar a toda área ajardinada de banqueta o camellones y a las áreas no urbanizables de todo nuevo desarrollo;
 
-f) Suelo de conservación: zonas que por sus características ecológicas proveen servicios ambientales, y que para su preservación no sustentarán densidades medias o altas, y que podrán ser declaradas mediante los programas de ordenamiento territorial, ecológico y desarrollo urbano alrededor del área urbana de los centros de población, o en fraccionamientos y conjuntos urbanos residencial, residencial plus y ecoturísticos; podrá incluir normas de imagen y aplicación de infraestructura verde;
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+f) Suelo de conservación: zonas que por sus características ecológicas proveen servicios ambientales, y que para su preservación no sustentarán densidades medias o altas, y que podrán ser declaradas mediante los programas de desarrollo urbano alrededor del área urbana de los centros de población, o en fraccionamientos y conjuntos urbanos residencial, residencial plus y ecoturísticos; podrá incluir normas de imagen y aplicación de infraestructura verde;
 
 II. Cruces para fauna silvestre:
 
@@ -603,9 +687,11 @@ b) Por pantallas acústicas: serán preferentemente de madera de origen sustenta
 
 ### Capítulo VI. Reglamentos de Uso, Mantenimiento e Imagen Urbana
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 41.
 
-Todo desarrollo deberá contar con un reglamento interno de uso, mantenimiento e imagen urbana que se apegue a los programas de ordenamiento territorial, ecológico y desarrollo urbano aplicables, así como a las normas contenidas en su autorización. El reglamento se consignará en la escritura pública de constitución del fraccionamiento, conjunto urbano o condominio de que se trate. La adquisición de lotes o unidades por terceros supondrá su conformidad con tales disposiciones.
+Todo desarrollo deberá contar con un reglamento interno de uso, mantenimiento e imagen urbana que se apegue a los programas de desarrollo urbano aplicables, así como a las normas contenidas en su autorización. El reglamento se consignará en la escritura pública de constitución del fraccionamiento, conjunto urbano o condominio de que se trate. La adquisición de lotes o unidades por terceros supondrá su conformidad con tales disposiciones.
 
 ###### Artículo 42.
 
@@ -703,45 +789,67 @@ Las organizaciones vecinales y de condóminos no podrán recaudar directamente e
 
 ### Capítulo VII. Áreas de Cesión para Destinos
 
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 46.
 
-Todo nuevo desarrollo deberá transmitir las áreas de cesión para destinos que permitan generar o alojar las áreas verdes, equipamientos, infraestructuras y oficinas públicas, necesarios para la adecuada y sana convivencia en los mismos. Los gastos notariales e inscripción en el Registro Público de la Propiedad y el Comercio serán a costa del promovente.
+Todo nuevo desarrollo CON EXCEPCIÓN A CONJUNTOS URBANOS TIPO CONDOMINIO deberá transmitir las áreas de cesión para destinos que permitan generar o alojar las áreas verdes, equipamientos, infraestructuras de esparcimiento social, educativo, deportivo, cultural y oficinas públicas, necesarios para la adecuada y sana convivencia en los mismos. Los gastos notariales e inscripción en el Registro Público de la Propiedad y el Comercio serán a costa del promovente.
 
-El porcentaje mínimo de la superficie cedida para destinos, en todos los fraccionamientos y conjuntos urbanos habitacionales, será equivalente al 15% de la superficie neta. Para todos los demás tipos de nuevos desarrollos, será del 10% de la superficie neta.
+Para el caso de los conjuntos urbanos de tipo fraccionamiento, el fraccionador deberá construir a su cargo y entregar al Ayuntamiento respectivo, por cada 1000 viviendas previstas en el proyecto de fraccionamiento, la infraestructura de tipo esparcimiento social, educativo, cultural y deportivo debidamente equipado con superficie total mínima de 4,000 metros cuadrados.
 
-En los casos de fraccionamientos y conjuntos urbanos habitacionales de alta densidad, los municipios, con base en los programas de ordenamiento territorial, ecológico y desarrollo urbano, podrán exigir como áreas de cesión para destinos, hasta un máximo de un 20% de la superficie neta.
+Tratándose de fracciones en el número de viviendas o lotes previstas en el fraccionamiento, las obras de equipamiento urbano serán proporcionales, pudiéndose construir incluso en predios distintos al fraccionamiento, de conformidad a las características que en su momento establezca la Dependencia u Organismo que señale el Ayuntamiento.
 
-La superficie neta no considera las superficies destinadas a vialidades; con excepción de los casos de vialidades regionales o primarias contempladas en los programas de ordenamiento territorial, ecológico y desarrollo urbano, que por sus características geométricas rebase un ancho libre a paramentos de lotes de 27 metros, en cuyo caso el excedente podrá considerarse dentro del área de cesión para destinos. De igual manera podrán considerase dentro del área de cesión para destinos, las obras viales contempladas en dichos programas, tales como distribuidores, glorietas, pasos a desnivel u otras semejantes, siempre que su demanda no sea directamente relacionada con las dimensiones y necesidades específicas del desarrollo;
+La recepción de esta infraestructura será requisito para la municipalización del conjunto urbano.
 
-Cuando en el predio a desarrollar se ubique, conforme a los programas de ordenamiento territorial, ecológico y desarrollo urbano, en un centro o sub-centro urbano, el promotor podrá destinar un porcentaje mayor como área de cesión para destinos, y el diferencial podrá aplicarlo en futuros desarrollos que no se encuentren a más de mil metros de diámetro del área destinada para centro urbano o subcentro urbano.
+Para el caso de los desarrollos turísticos, de más de 100 cuartos hoteleros deberán garantizar la construcción y entrega de infraestructura en favor del municipio, para tal caso será definido (sic) los parámetros en el reglamento de la ley.
 
-Cuando un conjunto urbano se ubique en un fraccionamiento o en otro conjunto urbano que ya hubiere efectuado la cesión para destinos establecida en este artículo, no estará obligado a realizarla nuevamente.
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS DÉCIMO PRIMERO Y DÉCIMO SEGUNDO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+EN EL CASO DE LOS CONJUNTOS URBANOS CONDOMINALES DEBERÁN GARANTIZAR LA APORTACIÓN Y/O LA CONSTRUCCIÓN Y ENTREGA DE INFRAESTRUCTURA EN FAVOR DEL MUNICIPIO, PARA TAL CASO SERÁ DEFINIDO (SIC) LOS PARÁMETROS EN EL REGLAMENTO DE LA LEY.
 
-EL MUNICIPIO, AL RECIBIR LAS ÁREAS DE CESIÓN PARA DESTINOS, TRASMITIRÁ A FAVOR DEL GOBIERNO DEL ESTADO EL 20% DE DICHAS ÁREAS CON EL EXCLUSIVO PROPÓSITO DE QUE LA DESTINE A LA CONSTRUCCIÓN DE ESPACIOS Y EQUIPAMIENTOS PÚBLICOS DE COMPETENCIA ESTATAL.
+Al ser una propiedad privada el o los propietarios tiene(n) la obligación de dotar de infraestructura, todo servicio público a los condóminos sin que implique obligación del Municipio.
 
-Las subdivisiones mayores a doce lotes tendrán las mismas obligaciones a que hace referencia este artículo. No se permitirá subdividir predios que a su vez provengan de subdivisiones anteriores, que pretendan evitar la aplicación de lo dispuesto en este párrafo.
+En caso de no tener acceso a las redes municipales deberá implementar alternativas de solución para el suministro de infraestructura y servicios.
 
-###### Artículo 47.
+El porcentaje mínimo de la superficie cedida para destinos, en todos los fraccionamientos, será equivalente al 15% de la superficie neta.
 
-Las áreas de cesión para destinos de equipamiento urbano en nuevos desarrollos dependerán del diseño urbano que se proponga, en todo caso deberán contar con las siguientes características mínimas:
+La superficie neta no considera las superficies destinadas a vialidades; con excepción de los casos de vialidades regionales o primarias contempladas en los programas de ordenamiento territorial y desarrollo urbano, que por sus características geométricas rebase un ancho libre a paramentos de lotes de 27 metros, en cuyo caso el excedente podrá considerarse dentro del área de cesión para destinos. De igual manera podrán considerase dentro del área de cesión para destinos, las obras viales contempladas en dichos programas, tales como distribuidores, glorietas, pasos a desnivel u otras semejantes, siempre que su demanda no sea directamente relacionada con las dimensiones y necesidades específicas del desarrollo.
 
-I. Frente a vía pública en el caso de los conjuntos urbanos, que determine la norma aplicable para el tipo de equipamiento del que se trate;
+Cuando en el predio a desarrollar se ubique, conforme a los programas de ordenamiento territorial y desarrollo urbano, en un centro o sub-centro urbano, el promotor podrá destinar un porcentaje mayor como área de cesión para destinos, y el diferencial podrá aplicarlo en futuros desarrollos que se encuentren dentro del mismo territorio municipal, centro urbano o subcentro urbano; siempre y cuando el valor catastral sea equiparable al valor del predio a desarrollar.
 
-II. Lados no menores a 15 metros;
+Cuando un conjunto urbano se ubique en un fraccionamiento o en otro conjunto urbano que ya hubiere efectuado la cesión para destinos establecida (sic) en este artículo, no estará obligado a realizarla nuevamente, deberá acreditar la escritura inscrita en la cual se transmitió a título gratuito a favor del ayuntamiento la donación del conjunto urbano (sic) origen.
 
-III. Superficie no menor a 400 metros cuadrados; y
+Las subdivisiones mayores a doce lotes tendrán las mismas obligaciones a que hace referencia este artículo. No se permitirá subdividir predios que a su vez provengan de subdivisiones anteriores, si es notorio que el lote (sic) origen ya fue subdividido hasta doce lotes, que pretendan evitar la aplicación de lo dispuesto en este párrafo.
 
-IV. Localización adecuada con respecto al tipo de equipamiento a ubicar o construir, de acuerdo con el diseño de urbanización de que se trate.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+Artículo. 47. Las áreas de cesión deben ser:
+
+I.- Geométricamente regulares;
+
+II.- Podrá concentrarse hasta en un solo predio, siempre y cuando así lo contemple el proyecto diseñado;
+
+III.- Colindar con vía pública;
+
+IV.- Acometidas al pie del lote;
+
+V.- Debe estar de libre acceso, sin limitantes físicas de acceso en su perímetro, y
+
+VI.- Localización adecuada con respecto al tipo de equipamiento a ubicar o construir, de acuerdo con el diseño de urbanización de que se trate.
 
 ###### Artículo 48.
 
 Ningún área de cesión podrá ubicarse en terrenos con las siguientes características:
 
-I. Que presenten problemas físicos o geológicos que puedan impedir la localización y uso del equipamiento señalado en los programas municipales de ordenamiento territorial, ecológico y desarrollo urbano;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+I. Que presenten problemas físicos o geológicos que puedan impedir la localización y uso del equipamiento señalado en los programas municipales de desarrollo urbano;
 
 II. Afectados por restricciones Federales. En el caso de afectaciones de carácter estatal y municipal podrán sujetarse a los convenios relativos a su utilización;
 
@@ -817,13 +925,15 @@ En los casos en que el promotor decidiera proponer acciones complementarias para
 
 ### Capítulo I. Solicitudes de Autorización de Acciones Urbanísticas
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 60.
 
-Todas las autorizaciones de las acciones urbanísticas que contempla esta ley, CON EXCEPCIÓN DE LA CONSTANCIA DE COMPATIBILIDAD TERRITORIAL, serán emitidas por el Municipio donde se localicen los predios afectados.
+Todas las autorizaciones de las acciones urbanísticas que contempla esta ley, CON EXCEPCIÓN DE LA CONSTANCIA DE CONGRUENCIA URBANÍSTICA ESTATAL, serán emitidas por el Municipio donde se localicen los predios afectados.
 
 ###### Artículo 61.
 
@@ -853,15 +963,15 @@ b) Responder durante el plazo de un año, a partir de la municipalización, por 
 
 c) Otorgar la cesión de las áreas para destinos; y
 
-d) Propuesta de garantías que respaldarán la ejecución y servicio de las obras con base en esta ley, y
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+d) Propuesta de garantía con la vigencia del plazo de la obra urbanística que respaldará la ejecución, misma que deberá actualizarse de forma anual hasta concluir con la acción urbanística correspondiente y los servicios de las obras con base en esta ley, y
 
 VII.- En su caso:
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL INCISO a) DE LA FRACCIÓN VII DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-a) Autorizaciones de impacto TERRITORIAL Y ambiental, que expida la autoridad competente, conforme a la legislación ambiental y demás disposiciones aplicables;
+a) Autorizaciones de impacto ambiental, que expida la autoridad competente, conforme a la legislación ambiental y demás disposiciones aplicables;
 
 b) Estudio de riesgo autorizado por la autoridad municipal, y
 
@@ -869,29 +979,45 @@ c) Opinión favorable emitida por la autoridad federal de aeronáutica civil cua
 
 En caso de que el predio de que se trate no esté al corriente en el pago del impuesto predial, la autoridad no dará trámite a la solicitud correspondiente.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+En el caso de solicitudes para las fusiones y/o subdivisiones, no se requerirá integrar lo establecido en las fracciones III, IV y V de este artículo.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+Los requisitos podrán integrarse de manera digitalizada, dividido por requisitos y las fojas deberán estar foliadas de manera consecutiva. El resguardo quedara dentro del acervo documental de cada área administrativa.
+
 ###### Artículo 63.
 
 La solicitud de autorización de un nuevo desarrollo se formulará por escrito, con respaldo electrónico, y se presentará en tres tantos ante el área que cada Ayuntamiento determine.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 64.
 
-Recibida la solicitud y los documentos respectivos, la autoridad municipal revisará si han sido entregados todos los documentos correspondientes, requiriendo al interesado, en su caso en un plazo que no será superior a 10 días hábiles. El solicitante contará con treinta días para proveer la información faltante, durante el cual no se dará trámite a la solicitud. En caso de no presentarla, la solicitud se tendrá por retirada.
+Recibida la solicitud y los documentos respectivos, la autoridad municipal revisará si han sido entregados todos los documentos correspondientes, requiriendo al interesado, en su caso en un plazo que no será superior a diez días hábiles. El solicitante contará con treinta días para proveer la información faltante, tiempo durante el cual, no se dará trámite a la solicitud. En caso de no presentar la información faltante en el plazo concedido, la solicitud se tendrá por no interpuesta.
 
 ###### Artículo 65.
 
 Para la valoración de las solicitudes de autorización de las acciones urbanísticas reguladas por esta ley, el Municipio realizará análisis prospectivos en materia urbanística y, si fuera necesario, consultará a la Secretaría, a los organismos encargados de la prestación de servicios urbanos y a toda otra instancia necesaria para determinar la congruencia del proyecto con los instrumentos de planeación vigente, su viabilidad, sus impactos y los riesgos que conllevaría su aprobación.
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-La congruencia del proyecto con los instrumentos de planeación es obligatoria, y todo nuevo desarrollo autorizado o realizado al margen de la misma derivará en procedimientos administrativos y en las causas penales procedentes. LAS AUTORIZACIONES CONTRARIAS A LAS CONSTANCIAS DE COMPATIBILIDAD TERRITORIAL, SE CONSIDERARÁN NULAS.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+La congruencia del proyecto con los instrumentos de planeación es obligatoria, y todo nuevo desarrollo autorizado o realizado al margen de la misma derivará en procedimientos administrativos y en las causas penales procedentes. LAS AUTORIZACIONES CONTRARIAS A LAS CONSTANCIAS DE CONGRUENCIA URBANÍSTICA NO PODRÁN SER INSCRITAS.
+
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 66.
 
-Para el caso de nuevos desarrollos, una vez obtenida la autorización municipal, el promovente, previo al inicio de obras y la protocolización de la acción urbanística correspondiente, deberá tramitar y obtener de la Secretaría la Constancia de Compatibilidad Territorial, en los términos de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo.
+Para el caso de nuevos desarrollos, una vez obtenida la autorización municipal, el promovente, previo al inicio de obras y la protocolización de la acción urbanística correspondiente, deberá tramitar y obtener de la Secretaría la Constancia (sic) Congruencia Urbanística Estatal, en los términos de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo.
 
 ###### Artículo 67.
 
@@ -927,9 +1053,13 @@ VII. Todos las demás que otorguen las leyes mexicanas y del Estado de Quintana 
 
 Las garantías que las autoridades municipales deben exigir y que los promotores de un fraccionamiento, conjunto urbano o condominio tienen la obligación de cubrir son las siguientes:
 
-I. En caso de pretender trasmitir, vender o arrendar unidades o lotes, total o parcialmente, antes de la conclusión de la totalidad de las obras de infraestructura o urbanización, deberá otorgarse fianza o garantía por el equivalente al 150% del presupuesto de obras y obligaciones a que se refiere el artículo 28, según corresponda, y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
-II. Previa a la municipalización de un fraccionamiento, fianza o garantía por vicios ocultos, equivalente al 15% del presupuesto de las obras de urbanización, que asegure la calidad y operación de las obras de urbanización de que se trate.
+I. En caso de pretender trasmitir, vender o arrendar unidades o lotes, total o parcialmente, antes de la conclusión de la totalidad de las obras de infraestructura o urbanización, deberá otorgarse fianza o garantía por el equivalente al 100% del presupuesto de las obras de infraestructura o urbanización presentada ante la dependencia de desarrollo urbano municipal, según corresponda, y
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+
+II. Previa a la municipalización de un fraccionamiento, fianza o garantía por vicios ocultos, equivalente al 15% del presupuesto de las obras de urbanización, que asegure la calidad y operación de las obras de urbanización de que se trate y ser presentada ante la dependencia de desarrollo urbano municipal.
 
 Estas garantías tendrán como propósito el asegurar la correcta construcción de las obras de infraestructura y urbanización de acuerdo con las especificaciones aprobadas, así como el cumplimiento de las obligaciones que contraiga en los términos de esta ley.
 
@@ -937,7 +1067,9 @@ En caso de que se pretenda la venta o comercialización a terceros de los lotes 
 
 En todo tipo de publicidad donde se oferten lotes se deberá hacer referencia a la licencia del fraccionamiento, conjunto urbano o condominio y a la autorización de venta del Ayuntamiento, citando su número y la fecha de expedición.
 
-Las fianzas o garantías deberán ser presentadas a favor de la Tesorería del Municipio que corresponda.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+Las fianzas o garantías deberán ser emitidas a favor de la Tesorería del Municipio que corresponda.
 
 ### Capítulo III. Solicitudes para la Emisión de la Constancia de Terminación de Obras y de Venta o Arrendamiento y Liberación de Garantías
 
@@ -957,11 +1089,7 @@ Para la emisión de las constancias municipales de terminación de obras a que s
 
 En caso de que las obras hubieren sido concluidas conforme al proyecto autorizado, el promotor gestionará ante el Municipio las constancias municipales de la terminación de obras, la cual podrá ser emitida por la totalidad del desarrollo o de manera parcial por cada una de las etapas del mismo. El Municipio contará con 20 días hábiles para verificarla y denegarla o emitirla, en su caso la constancia de la terminación de obras será autorizada por la misma autoridad que emitió la autorización respectiva.
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-EN CUALQUIER CASO, PREVIO AL OTORGAMIENTO DE UNA CONSTANCIA DE TERMINACIÓN DE OBRAS, LAS AUTORIDADES MUNICIPALES DEBERÁN CERCIORARSE DE QUE SE CUENTE CON LA CONSTANCIA DE COMPATIBILIDAD TERRITORIAL, EXPEDIDA POR LA SECRETARÍA, A QUE SE REFIERE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 71.
 
@@ -999,9 +1127,11 @@ Ninguna garantía, ni durante su resguardo por parte de la Autoridad ni al momen
 
 ### Capítulo IV. Resolución de las solicitudes
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 74.
 
-La resolución de las solicitudes se realizará conforme a los principios y normas provenientes de la legislación en materia de asentamientos humanos, desarrollo urbano y ordenamiento territorial, así como de la Ley de Procedimiento Administrativo del Estado de Quintana Roo. Toda resolución emitida por una Autoridad deberá estar fundada y motivada haciendo referencia a tales disposiciones.
+La resolución de las solicitudes se realizará conforme a los principios y normas provenientes de la legislación en materia de asentamientos humanos, desarrollo urbano y ordenamiento territorial, así como del Código de Justicia Administrativa del Estado de Quintana Roo. Toda resolución emitida por una Autoridad deberá estar fundada y motivada haciendo referencia a tales disposiciones.
 
 ###### Artículo 75.
 
@@ -1049,11 +1179,19 @@ Estos documentos deberán estar a disponibilidad del solicitante en el domicilio
 
 Únicamente los documentos indicados en la fracción I, de este artículo deberán estar, por mandato de esta ley, a disposición inmediata del público que solicite acceso a esa información. La publicación de los demás documentos será determinada con base en las leyes aplicables en materia de transparencia y de protección de la propiedad industrial e intelectual.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 77.
 
-Una vez recibida una autorización de un nuevo desarrollo, el promotor deberá elevar a escritura pública la autorización correspondiente en un plazo máximo de cuatro meses calendario, contados a partir de la entrega de la autorización municipal correspondiente. En esa misma escritura deberá transmitir las superficies de cesión para destinos. En caso de que transcurra dicho plazo sin protocolizar la escritura pública correspondiente, la autorización quedará nula.
+Una vez recibida una autorización de un nuevo desarrollo, el promotor deberá elevar a escritura pública la autorización correspondiente en un plazo máximo de seis meses calendario, contados a partir de la entrega de la autorización municipal y estatal correspondiente.
 
 En paralelo a la escritura a que alude el párrafo anterior, el promotor deberá constituir las garantías a que hace referencia esta ley.
+
+En un acto jurídico secundario tras garantizar al Ayuntamiento la conclusión de las obras de infraestructura, urbanización y equipamiento deberá transmitir las superficies de cesión para destinos conforme lo señale el proceso municipal. En caso de que transcurra dicho plazo sin protocolizar la escritura pública correspondiente, la autorización quedará nula.
+
+Los inmuebles con destino público quedarán exentos del pago de impuesto predial desde el momento de inscribirse la licencia de fraccionamiento o acción urbanística correspondiente ante el Registro Público de la Propiedad y el Comercio y se otorgue el folio electrónico correspondiente y podrán contar con el incentivo de la exención de pagos de derecho ante el Registro Público de la Propiedad y el Comercio por la donación gratuita a favor del Ayuntamiento.
+
+Para los desarrollos, conjuntos urbanos y subdivisiones realizados con fundamento en legislaciones anteriores a esta ley, podrán aplicar el presente artículo a solicitud expresa del propietario con el fin de promover la municipalización, considerando siempre la aprobación del municipio.
 
 ###### Artículo 78.
 
@@ -1069,11 +1207,13 @@ La vigencia de las autorizaciones de las diversas acciones urbanísticas se ajus
 
 En los aspectos de trámite administrativo no regulados por esta ley, la Secretaría y los Municipios, en el ámbito de sus respectivas competencias, establecerán los procedimientos específicos, tiempos y requisitos para recibir, revisar y responder a las solicitudes de autorización a que se refiere este ordenamiento. Estas determinaciones serán de acceso y conocimiento públicos.
 
-(NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ, POR EXTENSIÓN, DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-Dichas autoridades serán también responsables de que toda información sobre dichos procedimientos, el estado de los mismos, las normas aplicables y las características generales de los proyectos sujetos a revisión, sean accesibles a los solicitantes, presentándola de manera completa, veraz, oportuna, comprensible y detallada. También indicarán y facilitarán la identificación de las personas o entidades facultadas para emitir dictámenes de impacto TERRITORIAL, ambiental y los demás que la Ley prevea.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+Dichas autoridades serán también responsables de que toda información sobre dichos procedimientos, el estado de los mismos, las normas aplicables y las características generales de los proyectos sujetos a revisión, sean accesibles a los solicitantes, presentándola de manera completa, veraz, oportuna, comprensible y detallada. También indicarán y facilitarán la identificación de las personas o entidades facultadas para emitir dictámenes de impacto URBANÍSTICO, ambiental y los demás que la Ley prevea.
 
 ###### Artículo 81.
 
@@ -1165,7 +1305,9 @@ Los Municipios contarán con un plazo de veinte días hábiles para autorizar o 
 
 Con el fin de poder entregar la obra bajo supuestos de problemas menores, y a petición del promotor, éste podrá garantizar por medio de una fianza o caución suficiente para la terminación o corrección de la obra; misma que será cancelada al cumplimiento de las obras relativas al fraccionamiento.
 
-La constancia de municipalización será otorgada por la misma autoridad que expidió la autorización de fraccionamiento o nuevo desarrollo; el promotor tendrá un plazo de 20 días hábiles para protocolizarla ante notario público; en caso contrario perderá su vigencia. Dicha municipalización deberá inscribirse en el Registro Público de la Propiedad y el Comercio.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+
+La constancia de municipalización será otorgada por la misma autoridad que expidió la autorización de fraccionamiento o nuevo desarrollo; el promotor tendrá un plazo de treinta días hábiles para protocolizarla ante notario público; en caso contrario perderá su vigencia. Dicha municipalización deberá inscribirse en el Registro de la Propiedad y el Comercio.
 
 ###### Artículo 84.
 
@@ -1256,3 +1398,21 @@ P.O. 13 DE SEPTIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan a lo dispuesto en el presente Decreto.
+
+P.O. 24 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 093 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO; DE LA LEY DE ACCIONES URBANISTICAS, Y DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, TODAS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto Entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En tanto el Titular del Poder Ejecutivo del Estado y los municipios del Estado no expidan las disposiciones administrativas a que se refiere este decreto, seguirán aplicándose las disposiciones reglamentarias vigentes.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado expedirá en un plazo no mayor a ciento ochenta días, el reglamento de esta ley, que será aplicable en los temas de competencia estatal, y aplicable en el ámbito estatal, hasta en tanto los ayuntamientos no expidan sus respectivos ordenamientos municipales en la materia.
+
+CUARTO. Los programas de desarrollo urbano, así como las autorizaciones de acciones urbanísticas, constancias y/o licencias de uso de suelo otorgadas con anterioridad en la entrada en vigor de la presente Ley seguirán vigentes en los términos que fueron aprobados o concedidas. Las que se encuentren en perjuicio de derechos adquiridos se tendrán como vigentes, las demás deberán ajustar a sus nuevas disposiciones. Para tal efecto, los interesados en alguna autorización, refrendo o renovación en materia de acciones urbanísticas podrán optar por continuar su procedimiento ajustando sus proyectos a la normatividad vigentes, o bien, presentar una nueva solicitud, en cuyo caso no pagarán nuevamente los derechos correspondientes.
+
+QUINTO. El Ejecutivo del Estado y los Municipios contarán con un plazo de un año contado a partir de la entrada en vigor de este Decreto, para formular, consultar y promover la aprobación de los Programas correspondientes al Desarrollo Urbano, conforme a sus competencias.
+
+SEXTO. Durante el Ejercicio Fiscal de 2023, los derechos establecidos en la Ley de Hacienda del Estado de Quintana Roo, por concepto de Constancia de Compatibilidad Territorial, serán aplicables a las Constancias de Congruencia Urbanística Estatal y al Dictamen de Impacto Urbanístico, a que se refiere esta Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo.
+
+SÉPTIMO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
