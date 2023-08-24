@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-movilidad-de-la-ciudad-de-mexico-123375
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-09-15"
-last_updated: "2021-11-26"
+last_updated: "2023-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123375&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,9 +24,9 @@ issue_date: "2017-09-15"
 
 REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE AGOSTO DE 2023.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DEL 26 DE NOVIEMBRE DE 2021.]</small>
+> <small>[N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN LA G.O. EL 24 DE AGOSTO DE 2023 NO APLICA AL ARTICULADO DEL PRESENTE ORDENAMIENTO.]</small>
 
 Reglamento publicado en el Número 156 Bis de la Gaceta Oficial de la Ciudad de México, el 15 de septiembre de 2017.
 
@@ -3689,3 +3689,11 @@ G.O. 26 DE NOVIEMBRE DE 2021.
 PRIMERO.- Publíquese la presente Nota Aclaratoria en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- La presente Nota Aclaratoria entrará en vigor al día siguiente de su publicación.
+
+G.O. 24 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL DIVERSO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO PUBLICADO EL 28 DE MAYO DE 2021, EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO NO. 606 BIS”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación.
