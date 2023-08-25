@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2023-04-10"
+last_updated: "2023-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, miércoles 4 de mayo de 2016.
 
@@ -787,9 +787,9 @@ IV. Aprobar su Reglamento Interior, la estructura administrativa de sus órganos
 
 V. Elaborar su Programa Anual de Trabajo y su Proyecto de Presupuesto Anual;
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
 
-VI. Nombrar y remover a los servidores públicos que formen parte del Instituto de Transparencia, sin perjuicio al supuesto establecido en la fracción XXXIV del artículo 57 de la Constitución Política del Estado Libre y Soberano de Puebla y de conformidad con la normatividad relativa al servicio profesional de carrera y a partir de convocatorias públicas;
+VI. Nombrar y remover a las personas servidoras públicas que formen parte del Instituto de Transparencia, de conformidad con la normatividad relativa al servicio profesional de carrera y a partir de convocatorias públicas, a excepción de la persona Titular del Órgano Interno de Control cuyo nombramiento estará a cargo del Congreso del Estado, de acuerdo con lo establecido en la fracción XXXIV del artículo 57 de la Constitución Política del Estado Libre y Soberano de Puebla;
 
 VII. Celebrar sesiones públicas;
 
@@ -2886,6 +2886,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 10 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 39; Y ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 26 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 39 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
