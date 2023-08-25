@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-cultura-fisica-y-deportes-del-estado-de-baja-104257"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2023-07-07"
+last_updated: "2023-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2023.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Baja California, el miércoles 31 de diciembre de 2014.
 
@@ -1255,6 +1255,8 @@ La cancelación de la inscripción en el RECUDE, tiene como efecto la pérdida d
 
 La cultura física deberá ser promovida, fomentada y estimulada en todos los niveles y grados de educación y enseñanza en el Estado como factor fundamental del desarrollo armónico e integral del ser humano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 108.
 
 El Estado y los Municipios, considerando la participación de los sectores social y privado, así como del ámbito profesional y académico, realizarán las acciones generales siguientes:
@@ -1271,9 +1273,17 @@ V.- Difundir las tradiciones que coadyuven al incremento de la cultura física;
 
 VI.- Promover la educación física como mecanismo universal y prioritario para acrecentar la cultura física en la población;
 
-VII.- Fomentar la práctica de actividad física como medio indispensable para el mejoramiento de la salud pública en general; y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
 
-VIII.- Las demás que dispongan otras leyes u ordenamientos aplicables.
+VII.- Promover y fomentar la activación física y deportiva de las niñas, niños y adolescentes con el objeto de contribuir a la prevención y reducción del sobrepeso y la obesidad, al mejoramiento de su estado físico y mental y facilitar su pleno desarrollo social y cultural;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE AGOSTO DE 2023)</small>
+
+VIII.- Promover y aplicar estrategias y acciones en coordinación con los tres órdenes de gobierno, así como el sector social y privado con el objetivo de incentivar la activación física para el mejoramiento de la salud pública en general; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE AGOSTO DE 2023)</small>
+
+IX.- Las demás que dispongan otras leyes u ordenamientos aplicables.
 
 ###### ARTÍCULO 109.
 
@@ -2146,3 +2156,9 @@ P.O. 7 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No 251 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN X DEL ARTÍCULO 4 DE LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 25 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 266 MEDIANTE EL CUAL APRUEBA LA REFORMA AL ARTÍCULO 108 DE LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA".]
+
+Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
