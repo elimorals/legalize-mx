@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2023-08-07"
+last_updated: "2023-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -2213,7 +2213,9 @@ I. La Persona Titular de la Presidencia Municipal del Ayuntamiento, quien lo pre
 
 II. Las Personas Titulares de las Regidurías y Sindicatura del Municipio;
 
-III. La Persona Titular de la Secretaría General del Municipio quien fungirá como Secretaria o Secretario Técnico;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
+
+III. La Persona Titular de la Dependencia o Entidad de la Administración Pública Municipal, que esté encargada de la elaboración del Plan Municipal de Desarrollo, quien fungirá como Secretaria o Secretario Técnico;
 
 IV. Una persona representante del Comité de Planeación para el Desarrollo del Estado de Puebla, designada por su Coordinador General, quien fungirá como Asesora o Asesor Técnico en materia de planeación;
 
@@ -4572,3 +4574,11 @@ P.O. 7 DE AGOSTO DE 2023.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 25 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES II, III, IV Y EL PÁRRAFO TERCERO DEL ARTÍCULO 78, Y ADICIONA LA FRACCIÓN V AL 78 DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE PUEBLA; REFORMA LAS FRACCIONES II, III, IV Y EL PÁRRAFO TERCERO DEL ARTÍCULO 135 Y ADICIONA LA FRACCIÓN V AL 135 DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS; ASÍ COMO REFORMA LA FRACCIÓN III DEL ARTÍCULO 116 DE LA LEY ORGÁNICA MUNICIPAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
