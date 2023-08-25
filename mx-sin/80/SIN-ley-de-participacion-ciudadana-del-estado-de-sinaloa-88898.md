@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-participacion-ciudadana-del-estado-de-sinaloa-88898"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-10"
-last_updated: "2012-08-10"
+last_updated: "2023-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88898&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 10 de agosto de 2012.
 
@@ -615,19 +615,37 @@ Los ciudadanos que presenten una iniciativa ante el Congreso, deberán señalar 
 
 Toda iniciativa ciudadana deberá contener:
 
-I. Un único objeto debidamente expresado;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
+
+I. Deberá comprender un único objeto constitucional y legalmente válido debidamente expresado;
 
 II. Expresar los motivos, en forma clara y sistematizada, de lo que se propone;
 
-III. Los fundamentos de derecho en que apoyen sus pretensiones;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
 
-IV. El texto de la Ley, Decreto o Acuerdo que se propone, procurando estructurarlo en títulos, capítulos, secciones, apartados, artículos o cualquier otra forma que permita darles organización y congruencia;
+III. La fundamentación y motivación de derecho en que apoyen sus pretensiones, observando las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, los precedentes y criterios jurisprudenciales que haya emitido la Suprema Corte de Justicia de la Nación o demás órganos jurisdiccionales del Poder Judicial de la Federación, según sea el caso;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
+
+IV. El texto de la Ley o Decreto que se propone, procurando estructurarlo en títulos, capítulos, secciones, apartados, artículos o cualquier otra forma que permita darles organización y congruencia;
 
 V. En el caso de reformas, la iniciativa de ley, capítulo, artículo o cualquiera otra parte de ella se propondrá de nuevo tal como debe quedar aprobada para sustituir completamente a la ley, capítulo, artículo o cualquiera otra parte reformada. Si la propuesta de reforma consistiere en intercalar artículos adicionales, la iniciativa de ley expresará el artículo o artículos de la antigua que se adicionen, señalando a aquellos el lugar en que deben quedar;
 
-VI. Señalamiento de los artículos transitorios que correspondan; y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
 
-VII. Acompañar, en su caso, los anexos documentales necesarios.
+VI. Señalamiento de los artículos transitorios que correspondan;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2023)</small>
+
+VII. El documento que contiene el análisis del impacto presupuestal; y
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
+
+VIII. Acompañar, en su caso, otros anexos documentales necesarios.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+En el caso de las iniciativas que impliquen un impacto presupuestal y que no lo hayan desarrollado sus autores, el Congreso deberá suplir esa deficiencia a través de la Comisión correspondiente.
 
 ###### ARTÍCULO 64.
 
@@ -635,17 +653,19 @@ El Congreso sólo estará obligado a dictaminar y a pronunciarse de conformidad 
 
 #### SECCIÓN III. DEL TRÁMITE Y RESOLUCIÓN
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 65.
 
-Recibida la iniciativa ciudadana, primeramente, deberá pasar a la Comisión de Protocolo y Régimen Orgánico Interior para que determine si cumple con los requisitos de ley y pueda ser registrada a efectos de ser turnada a su lectura correspondiente.
+El trámite y resolución de las iniciativas ciudadanas presentadas ante el Congreso del Estado se realizará en los términos previstos por la Ley Orgánica del Congreso del Estado de Sinaloa.
 
 ###### ARTÍCULO 66.
 
-La iniciativa ciudadana que no reúna los requisitos expresados por el artículo 63 de la presente Ley, para ser registrada, deberá ser remitida, por una sola vez, a quien la presentó para que haga las correcciones pertinentes y en caso de que no se subsanen será desechada de plano.
+(DEROGADO, P.O. 25 DE AGOSTO DE 2023)
 
 ###### ARTÍCULO 67.
 
-Si en términos de la Ley Orgánica del Congreso del Estado, el Congreso resuelve tomar en consideración la iniciativa, pasará a la Comisión o Comisiones correspondientes para ser examinada y dictaminada.
+(DEROGADO, P.O. 25 DE AGOSTO DE 2023)
 
 ## TÍTULO TERCERO. MEDIO DE IMPUGNACIÓN
 
@@ -718,3 +738,25 @@ Lic. Mario López Valdez
 El Secretario General de Gobierno
 
 C. Gerardo O. Vargas Landeros
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 564 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO Y DE LA LEY DE PARTICIPACIÓN CIUDADANA, AMBAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de este Congreso del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial “El Estado de Sinaloa”.
+
+###### ARTÍCULO TERCERO.
+
+Las Diputadas y los Diputados que a la entrada en vigor del presente Decreto no formen Grupo Parlamentario podrán constituir el Grupo Plural en los términos y en los supuestos del artículo 54 Bis.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto la Junta de Coordinación Política propondrá al Pleno la reestructuración de Comisiones Permanentes.
