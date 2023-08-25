@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-participacion-ciudadana-del-estado-de-sinaloa-88898"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-10"
-last_updated: "2012-08-10"
+last_updated: "2023-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88898&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,700 +21,1654 @@ state: "SIN"
 ---
 # LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE SINALOA
 
-LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SINALOA
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2015.
 
-Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 10 de agosto de 2012.
+Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
-El Ciudadano LIC. MARIO LÓPEZ VALDEZ, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, a sus habitantes hace saber:
+El Ciudadano LICENCIADO IGNACIO PICHARDO PAGAZA, Gobernador del Estado Libre y Soberano de México, a sus habitantes sabed:
 
-Que por el H. Congreso del mismo se le ha comunicado lo siguiente:
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
 
-El H. Congreso del Estado Libre y Soberano de Sinaloa, representado por su Sexagésima Legislatura, ha tenido a bien expedir el siguiente,
+DECRETO NUMERO 140
 
-DECRETO NUMERO: 636
+La H. "L" Legislatura del Estado de México:
 
-LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SINALOA
+D E C R E T A :
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+## TITULO PRIMERO
 
-###### ARTÍCULO 1.
+### CAPITULO UNICO. Disposiciones Generales
 
-La presente Ley reglamenta los artículos 45, fracción V y 150 de la Constitución Política del Estado de Sinaloa, es de orden público e interés general y tiene por objeto:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE MARZO DE 1997)</small>
 
-I. Fomentar, promover, regular y establecer los instrumentos que permitan la organización y funcionamiento de las instalaciones básicas de participación ciudadana en el Estado;
+###### Artículo 1.
 
-II. Institucionalizar, regular y garantizar el derecho de la ciudadanía a participar directamente en la toma y ejecución de las decisiones públicas fundamentales, así como en la resolución de problemas de interés general;
+Esta Ley tiene por objeto reglamentar el Título Séptimo de la Constitución Política del Estado Libre y Soberano de México, en materia de:
 
-III. Definir y promover las políticas de gobierno en materia de participación ciudadana;
+I. Los sujetos de responsabilidades en el servicio público estatal y municipal;
 
-IV. Asegurar, mediante la participación ciudadana, el ejercicio legal, democrático y transparente del gobierno;
+II. Las obligaciones en dicho servicio público;
 
-V. Establecer y regular los instrumentos vinculatorios de participación ciudadana;
+III. Las responsabilidades y sus sanciones tanto las de naturaleza administrativa, disciplinarias y resarcitorias, como las que se deban resolver mediante juicio político;
 
-VI. Promover una cultura de la participación ciudadana en el Estado; y
+IV. Las autoridades competentes y los procedimientos para aplicar las sanciones;
 
-VII. Las demás que derivan de la propia Ley.
+V. Las autoridades competentes y los procedimientos para declarar la procedencia del enjuiciamiento penal de los servidores públicos que gozan de fuero constitucional;
 
-###### ARTÍCULO 2.
+VI. El registro patrimonial de los servidores públicos.
 
-Para los efectos de la presente Ley, se entiende por:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
-I. Congreso: El Congreso del Estado de Sinaloa;
+###### Artículo 2.
 
-II. Consejo: El Consejo Estatal Electoral;
+Son sujetos de esta Ley, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza en la administración pública estatal o municipal, en sus organismos auxiliares y fideicomisos públicos, y en los poderes Legislativo, Judicial del Estado y en el Tribunal de lo Contencioso Administrativo del Estado, con independencia del acto jurídico que les dio origen.
 
-III. Constitución Local: La Constitución Política del Estado de Sinaloa;
+También quedan sujetos a esta Ley, aquellas personas que manejen o administren recursos económicos estatales, municipales, concertados o convenidos por el Estado con la Federación o con sus Municipios; y aquellas que en los términos del artículo 73 de esta Ley, se beneficien con adquisiciones, enajenaciones, arrendamientos, mantenimientos y construcción de obras públicas, así como prestación de servicios relacionados, que deriven de actos o contratos que se realicen con cargo a dichos recursos.
 
-IV. Credencial: La credencial para votar con fotografía expedida por las autoridades electorales correspondientes, en términos de la normatividad electoral aplicable;
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 1994)</small>
 
-V. Estado: El Estado de Sinaloa;
+###### Artículo 3.
 
-VI. Gobernador: El Gobernador del Estado de Sinaloa;
+Las autoridades competentes para aplicar la presente ley, serán:
 
-VII. Ley: La Ley de Participación Ciudadana del Estado de Sinaloa;
+I.- La Legislatura del Estado.
 
-VIII. Ley Electoral: Ley Electoral del Estado de Sinaloa;
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
-IX. Lista Nominal: La relación de ciudadanos inscritos en el Registro Federal de Electores en el Estado de Sinaloa, correspondiente al último proceso electoral, agrupados por distrito y sección; a quienes se ha expedido y entregado su credencial para votar; y
+II. El Consejo de la Judicatura del Estado.
 
-X. Tribunal: El Tribunal Estatal Electoral.
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
 
-###### ARTÍCULO 3.
+III. El Consejo de la Justicia Administrativa.
 
-Son principios rectores de la participación ciudadana en el Estado: la democracia, el bien común, la legalidad, inclusión, certeza, independencia, objetividad, imparcialidad, solidaridad, tolerancia, pervivencia, libertad, equidad, transparencia, corresponsabilidad, sustentabilidad y el respeto a la dignidad de la persona.
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
 
-###### ARTÍCULO 4.
+IV. La Secretaría de la Contraloría.
 
-Los instrumentos de participación ciudadana previstos en esta Ley, son:
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
 
-I. El Plebiscito;
+V. Las demás dependencias del Ejecutivo Estatal en el ámbito de sus atribuciones que les otorga este ordenamiento.
 
-II. El Referéndum; y
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
 
-III. La Iniciativa ciudadana.
+VI. Los ayuntamientos y los presidentes municipales, salvo las responsabilidades resarcitorias determinadas por el órgano superior de fiscalización del Estado de México.
 
-## TÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE PARTICIPACIÓN CIUDADANA
+> <small>(REFORMADA, G.G. 28 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO II. DE LAS AUTORIDADES COMPETENTES
+VII. El Instituto Electoral del Estado de México;
 
-###### ARTÍCULO 5.
+> <small>(ADICIONADA, G.G. 28 DE JUNIO DE 2014)</small>
 
-La interpretación de las disposiciones de esta Ley se hará tomando en cuenta el objeto y los principios rectores de la participación ciudadana, y a falta de disposición expresa en esta Ley, se estará a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Sinaloa, Ley Electoral y a los acuerdos que dicte el Consejo y el Tribunal en el ámbito de su competencia y conforme a las bases y principios establecidos en la presente Ley.
+VIII. Los demás órganos que determinen las leyes.
 
-###### ARTÍCULO 6.
+###### Artículo 4.
 
-Podrán ejercer su derecho de participación ciudadana a través de los instrumentos previstos en la presente Ley, los ciudadanos sinaloenses que cuenten con credencial para votar y se encuentren en la Lista Nominal correspondiente.
+Los procedimientos para la aplicación de las sanciones a que se refiere esta Ley y las responsabilidades penales o de carácter civil que dispongan otros ordenamientos, se desarrollarán autónomamente según su naturaleza y por la vía procesal que corresponda, debiendo las autoridades que por sus funciones conozcan o reciban denuncias, turnar éstas a quien deba conocer de ellas; no podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
 
-###### ARTÍCULO 7.
+## TITULO SEGUNDO. Procedimientos ante la Legislatura del Estado en materia de Juicio Político y Declaración de Procedencia
 
-Corresponde la aplicación de la presente Ley, en el ámbito de sus respectivas competencias, a:
+### CAPITULO I. Sujetos, Causas del Juicio Político y Sanciones
 
-I. El Poder Legislativo;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE MARZO DE 1997)</small>
 
-II. El Poder Ejecutivo;
+###### Artículo 5.
 
-III. Los Ayuntamientos;
+Son sujetos de juicio político los servidores públicos que menciona el artículo 131 de la Constitución Política del Estado Libre y Soberano de México.
 
-IV. El Consejo Estatal Electoral; y
+El Gobernador del Estado, durante el ejercicio de su cargo sólo será responsable por delitos graves del orden común y por delitos contra la soberanía del Estado, sin perjuicio de la responsabilidad política que se consigna en los términos del artículo 110 de la Constitución General de la República.
 
-V. El Tribunal Estatal Electoral.
+###### Artículo 6.
 
-###### ARTÍCULO 8.
+Es procedente el juicio político cuando los actos u omisiones de los servidores públicos a que se refiere el artículo anterior, redunden en perjuicio de los intereses públicos fundamentales del Estado o de su buen despacho.
 
-Todo servidor público, estatal o municipal tiene, en el ámbito de sus respectivas atribuciones, la obligación de cumplir y hacer cumplir la presente Ley, de respetar y facilitar la participación ciudadana y de abstenerse de utilizar cualquier medio que inhiba esa participación.
+###### Artículo 7.
 
-Los gobiernos estatal y municipales, en los ámbitos de sus competencias, establecerán las garantías necesarias para que los instrumentos de participación ciudadana sean reales, efectivos y democráticos.
+Redundan en perjuicio de los intereses públicos fundamentales y de su buen despacho.
 
-### CAPÍTULO I. DEL PLEBISCITO
+I. El ataque de las instituciones democráticas;
 
-#### SECCIÓN I. DISPOSICIONES GENERALES
+II. El ataque a la forma de gobierno republicano, representativo y popular del Estado, así como a la organización política y administrativa de los Municipios;
 
-###### ARTÍCULO 9.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-En materia de participación ciudadana, el Consejo tendrá las siguientes atribuciones:
+III. Las violaciones graves a los derechos humanos y sus garantías;
 
-I. Garantizar el desarrollo adecuado de los procesos de participación ciudadana de su competencia;
+IV. El ataque a la libertad de sufragio;
 
-II. Promover, preservar y difundir una cultura de participación ciudadana acorde a los principios rectores establecidos en la presente Ley;
+V. La usurpación de atribuciones;
 
-III. Organizar, realizar y vigilar el correcto desarrollo de los procesos de plebiscito y referéndum, conforme a lo dispuesto por esta Ley;
+VI. Cualquier infracción a la Constitución Local o a las leyes estatales cuando causen perjuicios graves al Estado, a uno o varios Municipios del mismo, o motive algún trastorno en el funcionamiento normal de las instituciones;
 
-IV. Dar trámite a las solicitudes de plebiscito y referéndum, así como acordar sobre su procedencia, publicar y remitir a las autoridades el acuerdo correspondiente y los resultados de tales procesos;
+VII. Las omisiones de carácter grave, en los términos de la fracción anterior; y
 
-V. Emitir el acuerdo de validación de los resultados de los procesos de plebiscito y de referéndum, así como notificarlos a las autoridades y partes interesadas;
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
-VI. Difundir en los medios de comunicación masiva la información prevista en la presente Ley, sobre los instrumentos de participación ciudadana a los que se hubiere acordado convocar;
+VIII. Las violaciones graves a los planes, programas y presupuestos de administración pública estatal y municipal y a las leyes que determinen el manejo de los recursos económicos.
 
-VII. Elaborar y aprobar los acuerdos y la reglamentación, necesaria para el funcionamiento adecuado de los procesos de participación ciudadana de su competencia, de conformidad con las bases y principios establecidos en la presente Ley;
+No procede el juicio político por la mera expresión de ideas.
 
-VIII. Promover de manera permanente la educación cívica y la participación ciudadana, así mismo, desarrollar un programa de difusión para los niños y jóvenes del sistema educativo del Estado para dar a conocer la importancia de participar en las decisiones trascendentales para la sociedad;
+La Legislatura valorará la existencia y gravedad de los actos u omisiones a que se refiere este artículo. Cuando aquellos tengan carácter delictuoso se formulará la declaración de procedencia a la que alude la presente ley y se estará a lo dispuesto por la legislación penal.
 
-IX. Ser órgano de asesoría y consulta en materia de participación ciudadana;
+###### Artículo 8.
 
-X. Coadyuvar con las autoridades estatales y municipales, para la realización de las actividades necesarias a efecto de que los instrumentos de participación ciudadana contemplados en esta Ley se realicen; y
+Si la resolución que se dicte en el juicio político es condenatoria, se sancionará al servidor público con destitución. Podrá también imponerse inhabilitación para el ejercicio de empleos, cargos o comisiones en el servicio público desde un año hasta veinte años.
 
-XI. Las demás que señale esta Ley y las disposiciones jurídicas aplicables.
+### CAPITULO II. Procedimientos en el Juicio Político
 
-###### ARTÍCULO 10.
+###### Artículo 9.
 
-En las reuniones de trabajo del Consejo para el desahogo de la tramitación, organización, desarrollo, cómputo y participación en los instrumentos de participación ciudadana de su competencia, no podrán concurrir ni participar los representantes de los partidos políticos, alianzas o coaliciones.
+El juicio político sólo podrá iniciarse durante el tiempo en que el servidor público desempeñe su empleo, cargo o comisión, y dentro de un año después de la conclusión de sus funciones. Las sanciones respectivas se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
 
-###### ARTÍCULO 11.
+###### Artículo 10.
 
-En materia de participación ciudadana, el Tribunal tendrá atribuciones para substanciar y resolver, en única instancia, los medios de impugnación que se interpongan en contra de los procesos de participación ciudadana.
+Corresponde a la Legislatura del Estado iniciar el juicio político, constituyendo al efecto una sección instructora para sustanciar el procedimiento consignado en el presente Capítulo y en los términos de la Ley Orgánica del Poder Legislativo, la que estará formada por un mínimo de tres Diputados.
 
-###### ARTÍCULO 12.
+Las vacantes que ocurran en la sección serán cubiertas por designación que haga la Legislatura del Estado de entre sus miembros o la Diputación Permanente, en su caso.
 
-El plebiscito es el acto conforme al cual los ciudadanos sinaloenses expresan su aprobación o rechazo a los actos, propuestas o decisiones del Poder Ejecutivo Estatal u organismos e instituciones de la administración pública paraestatal que sean trascendentes para la vida pública del Estado, así como de los ayuntamientos u organismos e instituciones de la administración pública municipal que sean trascendentes para la vida pública del municipio.
+###### Artículo 11.
 
-###### ARTÍCULO 13.
+Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular por escrito denuncia ante la Legislatura por las conductas a que se refiere el Artículo 7º. de esta ley; presentada la denuncia y ratificada dentro de tres días naturales, se turnará con la documentación que la acompañe a la sección instructora, para que dictamine si la conducta atribuida corresponde a las enumeradas por el precepto citado y si el inculpado está comprendido entre los servidores públicos a que se refiere el Artículo 5º, de la misma ley, así como si la denuncia es procedente y por lo tanto amerita la incoación del procedimiento.
 
-No podrán ser materia de plebiscito los actos, propuestas o decisiones que se refieran a cualquiera de las siguientes materias:
+Las denuncias anónimas no producirán ningún efecto.
 
-I. Tributaria, fiscal, de ingresos y egresos;
+###### Artículo 12.
 
-II. Las relacionadas con el régimen interno y de organización de la Administración Pública Estatal o Municipal, según corresponda;
+Acreditados los extremos a que se refiere el artículo anterior la sección instructora practicará todas las diligencias necesarias para la comprobación de la conducta o hecho material de la denuncia; estableciendo las características y circunstancias del caso y precisando la intervención que haya tenido el servidor público denunciado.
 
-III. Actos cuya realización sea obligatoria o prohibida, en términos de las leyes aplicables; y
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-IV. Las demás que determinen las leyes.
+Dentro de los tres días naturales siguientes a la ratificación de la denuncia, la Sección notificará por vía de emplazamiento al servidor público de que se trate sobre la materia de la denuncia, haciéndole saber su derecho a un proceso justo, a la garantía de defensa y que deberá a su elección, comparecer personalmente o a través de su defensor o informar por escrito, dentro de los siete días naturales siguientes a la notificación citada.
 
-###### ARTÍCULO 14.
+###### Artículo 13.
 
-Podrán solicitar el plebiscito ante el Consejo:
+La Sección Instructora, con vista de lo manifestado por el denunciado o transcurrido el plazo al que se refiere el artículo anterior sin que lo hubiere hecho, abrirá un periodo de pruebas, de 30 días naturales dentro del cual recibirá las que ofrezcan el denunciante y el servidor público, así como las que la propia Sección estime necesarias.
 
-l. Sobre actos, propuestas o decisiones del Poder Ejecutivo u organismos e instituciones de la administración pública paraestatal que sean trascendentes para la vida pública del Estado:
+Si al concluir el plazo señalado no hubiere sido posible recibir las pruebas ofrecidas oportunamente, o es preciso allegarse otras, la sección instructora podrá ampliarlo discrecionalmente en la medida que lo estime necesario.
 
-a) Los ciudadanos que representen cuando menos el dos por ciento de los inscritos en la Lista Nominal;
+En todo caso, la sección instructora calificará la pertinencia de las pruebas, desechándose las que a su juicio sean improcedentes.
 
-b) Las dos terceras partes de los Ayuntamientos en el Estado; o
+###### Artículo 14.
 
-c) el Gobernador.
+Terminada la instrucción del procedimiento, se pondrá el expediente a la vista del denunciante, por un plazo de tres días naturales, y otros tantos al servidor público y sus defensores, con el objeto de que tomen los datos que requieran a fin de formular alegatos, mismos que deberán presentar por escrito dentro de los seis días naturales siguientes a la conclusión del segundo plazo mencionado.
 
-II. Sobre actos, propuestas o decisiones de los ayuntamientos u organismos e instituciones de la administración pública municipal que sean trascendentes para la vida pública del municipio:
+###### Artículo 15.
 
-a) Las dos terceras partes de los integrantes del Ayuntamiento respectivo;
+Transcurrido el plazo para la presentación de alegatos, la Sección Instructora formulará sus conclusiones en vista de las constancias del procedimiento. Para este efecto analizará la conducta o los hechos imputados y hará las consideraciones jurídicas que procedan para justificar, en su caso, la conclusión o la continuación del procedimiento.
 
-b) En los municipios cuyo número de electores sea superior a diez mil, pero inferior a veinte mil, el quince por ciento de los ciudadanos inscritos en la Lista Nominal del municipio de que se trate;
+###### Artículo 16.
 
-c) En los municipios cuyo número de electores sea igual o superior a veinte mil, pero inferior a cincuenta mil, el diez por ciento de los ciudadanos inscritos en la Lista Nominal del municipio de que se trate;
+Si de las constancias del procedimiento se desprende la inocencia del encausado, las conclusiones de la sección instructora terminarán proponiendo que se declare que no ha lugar a proceder en su contra por la conducta o el hecho en materia de la denuncia que dio origen al procedimiento.
 
-d) En los municipios cuyo número de electores sea igual o superior a cincuenta mil, pero inferior a cien mil, el ocho por ciento de los ciudadanos inscritos en la Lista Nominal del municipio de que se trate;
+Si de las constancias aparece la probable responsabilidad del servidor público, las conclusiones determinarán los siguientes puntos:
 
-e) En los municipios cuyo número de electores sea igual o superior a cien mil, el cinco por ciento de los ciudadanos inscritos en la Lista Nominal del municipio de que se trate;
+I. Que está legalmente comprobada la conducta o el hecho materia de la denuncia;
 
-f) El Presidente Municipal respectivo.
+II. Que existe probable responsabilidad del encausado; y
 
-En los supuestos previstos en las fracciones I y II del presente artículo, para su procedencia, la solicitud de plebiscito deberá ser presentada ante el Consejo dentro de los cuarenta y cinco días naturales siguientes a la fecha de inicio del acto o decisión del Poder Ejecutivo Estatal o del Ayuntamiento, según corresponda.
+III. La sanción que deba imponerse de acuerdo con el artículo 8º. de esta ley.
 
-###### ARTÍCULO 15.
+En tal caso, enviará la declaración correspondiente a la Legislatura, en concepto de acusación, para los efectos legales respectivos.
 
-En los supuestos previstos en el artículo 14, fracción I y los incisos b), c), d) y e) de la fracción II, de la presente Ley, los solicitantes deberán nombrar un Comité de Representantes, integrado por tres ciudadanos sinaloenses, el cual ejercerá su representación en los términos que señala esta Ley.
+De igual manera deberán asentarse en las conclusiones las circunstancias que hubieren concurrido en los hechos.
 
-###### ARTÍCULO 16.
+###### Artículo 17.
 
-Las solicitudes de plebiscito que se presenten ante el Consejo por el Gobernador, el Presidente Municipal, las dos terceras partes de los Ayuntamientos o las dos terceras partes de los integrantes de un Ayuntamiento, deberán contener:
+La Sección Instructora deberá practicar todas las diligencias y formular sus conclusiones hasta entregarlas al Diputado Secretario de la Legislatura, conforme a los artículos anteriores, dentro del plazo de sesenta días naturales, contados desde el día siguiente a la fecha en que se le haya turnado la denuncia, a no ser que por causa razonable y fundada se encuentre impedida para hacerlo. En este caso podrá solicitar de la Legislatura que se amplíe el plazo por el tiempo indispensable para perfeccionar la instrucción. El nuevo plazo que se conceda no excederá de quince días naturales.
 
-I. El nombre y firma del o de los solicitantes. En caso de que la solicitud sea formulada por las dos terceras partes de los Ayuntamientos del Estado o las dos terceras partes de los integrantes de un Ayuntamiento, se deberá presentar copia certificada de los Acuerdos de Cabildo correspondientes, así como el nombre y firma de los integrantes del Comité de Representantes a que se refiere el artículo 15 de la presente Ley;
+Los plazos a que se refiere este artículo se entienden comprendidos dentro del período ordinario de sesiones de la Legislatura o bien dentro del siguiente ordinario o extraordinario que se convoque.
 
-II. El precepto legal en que se fundamenta la solicitud;
+###### Artículo 18.
 
-III. La especificación precisa del acto o decisión de autoridad objeto del plebiscito solicitado;
+Una vez emitidas las conclusiones a que se refieren los artículos precedentes, la Sección Instructora las entregará al Diputado Secretario de la Legislatura o Diputación Permanente, para que le de cuenta al Presidente de la misma, quien anunciará que dicha Legislatura debe reunirse en pleno como Gran Jurado de sentencia y resolver sobre la imputación, dentro de los tres días naturales siguientes, lo que hará saber al Diputado Secretario, para que éste notifique y emplace a la Sección Instructora en su carácter de acusadora, al denunciante y al Servidor Público denunciado, para que aquél se presente por sí y éste lo haga personalmente, asistido de su defensor, a fin de que aleguen lo que convenga a sus derechos.
 
-IV. La propuesta de pregunta o preguntas a consultar a la ciudadanía para que ésta exprese su aprobación o rechazo sobre el acto o decisión objeto del plebiscito solicitado; y
+###### Artículo 19.
 
-V. La exposición de las razones por las cuales se considera que el acto o decisión correspondiente debe sujetarse a un plebiscito.
+El día y hora señalados en los términos del artículo anterior, se iniciará la audiencia respectiva procediéndose de conformidad a las siguientes normas:
 
-###### ARTÍCULO 17.
+I. Se instalará la Legislatura con las dos terceras partes de sus miembros cuando menos, erigida en Gran Jurado de sentencia;
 
-Las solicitudes de plebiscito que se presenten por los ciudadanos señalados en el artículo 14, fracción I y en los incisos b), c), d) y e), de la fracción II de la presente Ley, deberán contener:
+II. La Sección Instructora se erigirá en órgano de acusación;
 
-I. Los nombres y firmas de los integrantes del Comité de Representantes a que se refiere el artículo 15 de la presente Ley;
+III. El Diputado Secretario de la Legislatura dará lectura a las constancias procedimentales y a las conclusiones de la Sección Instructora;
 
-II. La manifestación expresa de conducirse bajo protesta de decir verdad;
+IV. Acto continuo, se concederá la palabra al denunciante y en seguida al servidor público denunciado o a su defensor o a ambos, para que aleguen lo que a sus intereses convenga.
 
-III. El señalamiento de un domicilio ubicado en la capital del Estado, para recibir notificaciones;
+###### Artículo 20.
 
-IV. La especificación precisa del acto o decisión de autoridad objeto del plebiscito solicitado, así como la autoridad responsable;
+Retirados el servidor público y su defensor, así como el denunciante y permaneciendo los diputados en la sección, se procederá a discutir y a votar las conclusiones de la Sección Instructora como órgano acusador, y a probar los que sean puntos de acuerdo que en ellas se contengan.
 
-V. La propuesta de pregunta o preguntas a consultar a la ciudadanía para que ésta exprese su aprobación o rechazo sobre el acto o decisión objeto del plebiscito solicitado;
+La Legislatura erigida en Gran Jurado de sentencia emitirá la resolución que corresponda.
 
-VI. La exposición de las razones por las cuales se considera que el acto o decisión correspondiente debe sujetarse a un plebiscito;
+###### Artículo 21.
 
-VII. Los siguientes datos en orden de columnas:
+Si la resolución es absolutoria, el servidor público enjuiciado continuará en el ejercicio de su función.
 
-a) Nombre completo de los ciudadanos solicitantes;
+En caso contrario, la resolución decretará la destitución del cargo y el periodo de inhabilitación en su caso, para el ejercicio de la función pública.
 
-b) Número de folio de la credencial para votar de los ciudadanos solicitantes;
+### CAPITULO III. De la Declaración de Procedencia por Responsabilidad Penal
 
-c) Clave de elector y la sección electoral a la que pertenecen los ciudadanos solicitantes; y
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE MARZO DE 1997)</small>
 
-d) Firma de cada ciudadano elector solicitante, que concuerde con la que aparece en la credencial para votar.
+###### Artículo 22.
 
-###### ARTÍCULO 18.
+Cuando se presente denuncia o querella por cualquier ciudadano bajo su responsabilidad y mediante la presentación de elementos de prueba, o requerimiento del Ministerio Público, cumplidos los requisitos procedimentales para el ejercicio de la acción penal, a fin de que pueda procederse en la misma vía en contra de los servidores públicos a que se refiere el artículo 131 de la Constitución Política del Estado Libre y Soberano de México, se actuará, en lo pertinente, de acuerdo con lo previsto en el capítulo anterior de esta Ley, en materia de juicio político ante la Legislatura. En este caso, la Sección Instructora practicará todas las diligencias conducentes a establecer la probable existencia de delito y la presunta responsabilidad del inculpado, así como la subsistencia de la protección Constitucional o fuero cuya remoción se solicita. Concluida esta averiguación, la Sección dictaminará si ha lugar o no a proceder penalmente en contra del inculpado.
 
-La presentación de la solicitud de plebiscito, así como su tramitación ante el Consejo, no tienen efectos suspensivos sobre el acto o decisión de la autoridad correspondientes, hasta en tanto se obtenga un resultado con efectos vinculatorios en términos del artículo 58.
+Si a juicio de la Sección Instructora la imputación fuese notoriamente improcedente, lo notificará de inmediato a la Legislatura para que resuelva si se continúa el procedimiento o desecha la imputación, sin perjuicio de reanudar el procedimiento si posteriormente aparecen motivos que los justifiquen.
 
-#### SECCIÓN II. DEL TRÁMITE Y RESOLUCIÓN
+Para los efectos del primer párrafo de este artículo, la Sección deberá rendir su dictamen en un plazo de sesenta días naturales, salvo que fuese necesario disponer de más tiempo, a criterio de la propia Sección. En este caso se observarán las normas acerca de ampliación de plazos para la recepción de pruebas en el procedimiento referente al juicio político.
 
-###### ARTÍCULO 19.
+###### Artículo 23.
 
-Recibida la solicitud de plebiscito, el Secretario del Consejo verificará dentro de los quince días hábiles siguientes, si cumple con los requisitos a que se refieren los artículos 16 y 17 de la presente Ley. A falta de algún requisito, se requerirá al solicitante o, en su caso, al Comité de Representantes, para que subsane tal omisión dentro de los tres días hábiles siguientes al de la notificación, con el apercibimiento de que en caso de incumplimiento, se desechará la solicitud.
+Dada cuenta del dictamen correspondiente, el Presidente de la Legislatura anunciará a ésta que debe erigirse en jurado de procedencia el día siguiente al en que se hubiese entregado el dictamen, notificándolo al inculpado y a su defensor, así como al denunciante, al querellante y al Ministerio Público, quien tendrá intervención en todo caso.
 
-###### ARTÍCULO 20.
+###### Artículo 24.
 
-Al no recaer acuerdo por parte del Consejo dentro del plazo señalado para verificar si se cumplen con los requisitos, se considerará aceptada la solicitud de plebiscito.
+La Legislatura conocerá en Sesión el dictamen que la Sección Instructora le presente y procederá en los mismos términos previstos por el artículo 19 de esta Ley en materia de juicio político, instalándose la Legislatura como jurado de procedencia.
 
-###### ARTÍCULO 21.
+###### Artículo 25.
 
-Si la solicitud de plebiscito cumple con los requisitos o fue subsanada por el promovente o el Comité de Representantes, en los términos previstos por el artículo 19, el Presidente del Consejo, a más tardar dentro de los dos días hábiles siguientes a la acreditación de tales hechos, notificará su admisión a la autoridad presuntamente responsable del acto o decisión objeto de la solicitud de plebiscito, acompañando una copia de dicha solicitud y sus anexos, en su caso.
+Si la Legislatura declara que ha lugar a proceder contra el inculpado, éste quedará inmediatamente separado de su empleo, cargo o comisión y sujeto a la jurisdicción de los tribunales competentes. En caso negativo no habrá lugar a procedimiento ulterior mientras conserve la protección Constitucional que la norma fundamental del Estado le otorga, pero tal declaración no impedirá que el procedimiento continúe su curso cuando el servidor público haya dejado de desempeñar su empleo, cargo o comisión.
 
-En caso de que la solicitud hubiera sido presentada por los ciudadanos a que se refiere el artículo 14, fracciones I y II del (sic) de esta Ley, una vez recibida la notificación a que se refiere el párrafo anterior, la autoridad correspondiente dispondrá de un plazo de cinco días hábiles para hacer valer ante el Consejo las consideraciones que estime pertinentes.
+Para proceder penalmente contra el Gobernador, Diputados y Magistrados del Tribunal Superior de Justicia del Estado, en los términos del artículo 111 de la Constitución General de la República, la Legislatura al recibir de la Cámara de Diputados del Congreso de la Unión la declaración correspondiente, procederá conforme a sus atribuciones y en los términos de la Constitución del Estado a declarar si procede la homologación de la Declaratoria del Congreso de la Unión y consecuentemente el retiro de la protección o fuero que la propia Constitución del Estado otorga a tales servidores públicos a fin de ser enjuiciados como legalmente hubiere lugar.
 
-### CAPÍTULO II. DEL REFERÉNDUM
+> <small>(REFORMADO, G.G. 3 DE MARZO DE 1997)</small>
 
-#### SECCIÓN I. DISPOSICIONES GENERALES
+###### Artículo 26.
 
-###### ARTÍCULO 22.
+Cuando se siga el proceso penal a un servidor público de los mencionados en el artículo 131 de la Constitución Política del Estado Libre y Soberano de México, sin haberse satisfecho el procedimiento al que se refieren los artículos anteriores, el Diputado Secretario de la Legislatura o de la Diputación Permanente, librará oficio al Juez del Tribunal que conozca de la causa, a fin de que se suspenda el procedimiento en tanto se plantea y resuelve si ha lugar a proceder.
 
-Una vez que se hubiera notificado a las autoridades correspondientes sobre la admisión de la solicitud de plebiscito, si se trata de solicitudes presentadas por las autoridades a las que se refieren el artículo 14, fracciones I y II de la presente Ley, o una vez que hubiera transcurrido el plazo a que se refiere el segundo párrafo del artículo anterior, dentro de los treinta días naturales siguientes, el Consejo resolverá en definitiva sobre la procedencia de la solicitud de plebiscito.
+### CAPITULO IV. Disposiciones Comunes para los Capítulos II y III del Título Segundo de esta Ley
 
-###### ARTÍCULO 23.
+###### Artículo 27.
 
-La solicitud de plebiscito será improcedente en los siguientes casos:
+Las declaraciones y resoluciones definitivas dictadas conforme a estos Capítulos por la Legislatura son inatacables por juicio o recurso alguno.
 
-l. Si el acto materia de la solicitud de plebiscito no es un acto, propuesta o decisión del Poder Ejecutivo Estatal u organismos e instituciones de la administración pública paraestatal o de un Ayuntamiento u organismos e instituciones de la administración pública municipal, que sean trascendentes para la vida pública del Estado o del municipio correspondiente, según sea el caso, o se trate de algún acto o decisión relativo a las materias contempladas en el artículo 13 de la presente Ley;
+###### Artículo 28.
 
-II. Si como resultado de la verificación de la autoridad de los datos de los ciudadanos que presentan la solicitud, se obtiene que no se reúne el número de solicitantes que esta Ley establece para cada caso. Para la verificación de la autenticidad de los datos de los ciudadanos que presenten la solicitud conforme a las fracciones I y II del artículo 14 de esta Ley, el Consejo podrá acordar la aplicación de un procedimiento aleatorio y de muestreo científicamente sustentado, sin perjuicio de la información que sobre este particular pudiera obtener por otros medios;
+La Legislatura enviará por riguroso turno a la Sección Instructora, las denuncias, querellas, requerimientos del Ministerio Público o acusaciones que se le presenten.
 
-III. Si el escrito de solicitud se presentó en forma extemporánea;
+###### Artículo 29.
 
-IV. Si el acto o decisión materia del plebiscito se haya consumado y no puedan restituirse las cosas a la situación que guardaban con anterioridad;
+En ningún caso podrá dispensarse un trámite de los establecidos en los Capítulos II y III de este Título.
 
-V. Si el acto o decisión ha sido revocado previamente por las autoridades competentes;
+###### Artículo 30.
 
-VI. Si la exposición de las razones que motivan la solicitud, resulta inverosímil, subjetiva o no contenga una relación directa causa-efecto entre las razones expuestas y el acto o decisión de gobierno:
+Cuando la Sección Instructora o la Legislatura deba realizar una diligencia en la se requiera la presencia del inculpado, se emplazará a éste para que comparezca o conteste por escrito a los requerimientos que se le hagan. Si el inculpado se abstiene de comparecer o de informar por escrito se entenderá que contesta en sentido negativo.
 
-VII. Si el escrito de solicitud es insultante, atenta contra (sic) de las instituciones o sea ilegible; y
+La Sección respectiva cuando se trate de diligencias que deban efectuarse fuera del lugar de residencia de la Legislatura, solicitará al Tribunal Superior de Justicia del Estado que las encomienden al Juez que corresponda para que se practiquen dentro de su Jurisdicción y para cuyo efecto se remitirá a dicho Tribunal Superior de Justicia el testimonio de las constancias conducentes.
 
-VIII. Si la solicitud respectiva no cumple con todos los requisitos y formalidades que se establecen en el presente ordenamiento.
+El Juez practicará las diligencias que se le encomienden al respecto con estricta sujeción a las determinaciones que le comunique el Tribunal en auxilio del Poder Legislativo.
 
-###### ARTÍCULO 24.
+Todas las comunicaciones oficiales que deban girarse para la práctica de las diligencias a que se refiere este artículo, se notificará personalmente o se enviarán por correo certificado con acuse de recibo, libres de cualquier gasto.
 
-Si el Consejo resuelve la procedencia de la solicitud de plebiscito, deberá emitir el acuerdo correspondiente.
+###### Artículo 31.
 
-Dicho acuerdo será notificado a la autoridad de la que emana el acto o decisión de gobierno objeto del plebiscito, y deberá ser publicado en el Periódico Oficial "El Estado de Sinaloa", incluyendo la convocatoria que contendrá:
+Tanto el inculpado como el denunciante o querellante podrán solicitar de las oficinas o establecimientos públicos las copias certificadas de documentos que pretendan ofrecer como prueba ante la Sección respectiva.
 
-I. La fecha en la cual se realizará la jornada de consulta. En todo caso, las jornadas de consulta de los procesos de plebiscito sólo se podrán realizar el primer domingo del mes de julio de cada tres años, de manera concurrente con la jornada electoral local del año que corresponda, pudiendo atender varios procesos de plebiscito en la misma jornada de consulta. Para tal efecto, el Consejo deberá tomar las medidas pertinentes y oportunas para el desarrollo adecuado de los procesos de plebiscito sin afectar los procesos electorales correspondientes;
+Las autoridades estarán obligadas a expedir dichas copias certificadas sin demora, y si no lo hicieren la Sección, o la Legislatura a instancia del interesado, señalará a la Autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de diez a cien veces el salario mínimo diario vigente en la capital del Estado, sanción que se hará efectiva si la autoridad no las expidiere. Si resultase falso que el interesado hubiera solicitado las constancias, la multa se hará efectiva en su contra.
 
-II. La especificación precisa y detallada del acto o decisión de autoridad, objeto del plebiscito;
+Por su parte, la Sección solicitará las copias certificadas de constancias que estime necesarias para el procedimiento y si la autoridad de quienes la solicitasen no las remite dentro del plazo discrecional que se le señale, se le impondrá la multa a que se refiere el párrafo anterior.
 
-III. La pregunta o preguntas a consultar;
+###### Artículo 32.
 
-IV. La autoridad o autoridades de las que emana el acto o decisión de gobierno objeto del plebiscito;
+La Sección podrá solicitar por sí, o a instancia de los interesados, los documentos o expedientes originales ya concluidos, y la autoridad de quien se soliciten tendrá la obligación de remitirlos. En caso de incumplimiento, se aplicará la corrección dispuesta en el artículo anterior.
 
-V. El ámbito territorial de aplicación del proceso de plebiscito, anexando una relación completa de las secciones electorales donde se sufragará;
+Dictada la resolución definitiva en el procedimiento, los documentos y expedientes mencionados deberán ser devueltos a la oficina de su procedencia, pudiendo dejarse copia certificada de las constancias que la Sección estime pertinentes.
 
-VI. El número de ciudadanos que tiene derecho a participar, así como el número mínimo de ciudadanos requerido en cada caso, para que el resultado del proceso sea vinculatorio para la autoridad correspondiente, conforme a la presente Ley, y
+###### Artículo 33.
 
-VII. Las demás disposiciones regulatorias del proceso, que se consideren pertinentes.
+La Legislatura no podrá erigirse en órgano de acusación o Gran Jurado de sentencia o procedencia en su caso, sin que antes se compruebe fehacientemente que el servidor público, su defensor, el denunciante o el querellante y, el Ministerio Público han sido debidamente citados.
 
-###### ARTÍCULO 25.
+###### Artículo 34.
 
-El referéndum es el acto conforme al cual los ciudadanos sinaloenses opinan sobre la aprobación o rechazo de leyes estatales.
+No podrán votar en ningún caso los Diputados que hubiesen presentado la imputación contra el servidor público, tampoco aquellos que hayan aceptado el cargo de defensor, aún cuando lo renuncien después de haber comenzado a ejercer el cargo.
 
-###### ARTÍCULO 26.
+###### Artículo 35.
 
-El referéndum puede ser total o parcial.
+En todo lo no previsto por esta Ley, en las discusiones y votaciones se observarán en lo aplicable, las reglas que establecen la Constitución del Estado, y la Ley Orgánica del Poder Legislativo para discusión y votación de las Leyes.
 
-Será total cuando se someta a consulta el texto integro de un ordenamiento legal.
+En todo caso, las votaciones deberán ser nominales, para formular, aprobar o rechazar las conclusiones o dictámenes de la Sección y para resolver incidental o definitivamente el procedimiento.
 
-Será parcial cuando se sometan a consulta de la ciudadanía solamente algunos preceptos de un ordenamiento legal.
+###### Artículo 36.
 
-### CAPÍTULO III. DISPOSICIONES COMUNES AL PROCEDIMIENTO DE PLEBISCITO Y REFERÉNDUM
+En el juicio político a que se refiere esta Ley, los acuerdos y determinaciones de la Legislatura se tomarán en sesión pública, excepto en la que se presente acusación o cuando las buenas costumbres o el interés general exijan que la audiencia sea secreta.
 
-#### SECCIÓN I. DISPOSICIONES GENERALES
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE MARZO DE 1997)</small>
 
-###### ARTÍCULO 27.
+###### Artículo 37.
 
-No podrán ser materia de referéndum la creación, reforma, adición, derogación o abrogación de disposiciones legislativas, relativas a cualquiera de los siguientes temas:
+Cuando en el curso del procedimiento incoado a un servidor público de los mencionados en el artículo 131 de la Constitución Política del Estado Libre y Soberano de México, se presentare nueva denuncia en su contra, se procederá respecto de ella con arreglo a esta Ley, hasta agotar la instrucción de los diversos procedimientos, procurando, de ser posible, la acumulación procesal.
 
-l. Las modificaciones que se deban realizar en cumplimiento a mandatos judiciales o disposiciones de la Constitución Política de los Estados Unidos Mexicanos o las Leyes Generales;
+Si la acumulación fuese procedente, la Sección formulará en un solo documento sus conclusiones, que comprenderán el resultado de los diversos procedimientos.
 
-II. Las materias tributaria, fiscal, de egresos o ingresos; y
+###### Artículo 38.
 
-III. Las materias relacionadas con el régimen interno y de organización de la Administración Pública Estatal, Municipal, del Congreso o del Poder Judicial del Estado de Sinaloa.
+La Sección podrá disponer las medidas de apercibimiento que fueren procedentes, mediante acuerdo de la mayoría de sus miembros presentes en la Sección respectiva.
 
-###### ARTÍCULO 28.
+###### Artículo 39.
 
-Podrán solicitar el referéndum ante el Consejo, los ciudadanos que representen cuando menos el dos por ciento de los inscritos en la Lista Nominal.
+Las declaraciones o resoluciones dictadas por la Legislatura con arreglo a esta Ley, se comunicarán al Presidente del Tribunal Superior de Justicia de la Entidad si se tratase de alguno de los integrantes del citado Tribunal; y en todo caso al Ejecutivo para su conocimiento y efectos legales así como para su publicación en la «GACETA DEL GOBIERNO» del Estado.
 
-En todo caso, la solicitud de referéndum deberá ser presentada ante el Consejo dentro de los treinta días naturales siguientes a la fecha de entrada en vigor de la o las disposiciones legislativas objeto de esa solicitud.
+La Legislatura recibirá la notificación de las declaratorias de las Cámaras del H. Congreso de la Unión relativa al Gobernador del Estado, Diputados Locales y Magistrados del Tribunal Superior de Justicia de la Entidad, en los términos de los artículos 110 y 111 de la Constitución General de la República.
 
-###### ARTÍCULO 29.
+###### Artículo 40.
 
-Los solicitantes del referéndum deberán nombrar un Comité de Representantes, integrado por tres ciudadanos sinaloenses, el cual ejercerá su representación en los términos que señale esta Ley.
+En todo lo relativo al procedimiento no previsto en esta Ley así como en el ofrecimiento y valoración de las pruebas, se observarán las disposiciones del Código de Procedimientos Penales del Estado, asimismo, en lo conducente, las del Código Penal de la propia Entidad.
 
-###### ARTÍCULO 30.
+## TITULO TERCERO. De las Responsabilidades Administrativas
 
-Las solicitudes de referéndum que se presenten por el número de ciudadanos que se prevé en el artículo 28 de la presente Ley, deberán contener:
+### CAPITULO I. De los Sujetos
 
-I. Los nombres y firmas de los integrantes del Comité de Representantes a que se refiere el artículo 29 de la presente Ley;
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
-II. La manifestación expresa de conducirse bajo protesta de decir verdad;
+###### Artículo 41.
 
-III. El señalamiento de un domicilio ubicado en la capital del Estado, para recibir notificaciones;
+Son sujetos de responsabilidad administrativa disciplinaria, los servidores públicos y todas aquellas personas a que se refiere el artículo 2 de esta ley.
 
-IV. La especificación precisa de la disposición legislativa objeto del referéndum solicitado;
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
-V. La propuesta de pregunta o preguntas a consultar a la ciudadanía para que ésta exprese su aprobación o rechazo sobre la disposición legislativa, objeto del referéndum solicitado;
+### CAPITULO II. De la Responsabilidad Administrativa Disciplinaria
 
-VI. La exposición de las razones por las cuales se considera que el ordenamiento o la disposición legislativa correspondiente debe sujetarse a un referéndum;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
-VII. Los siguientes datos en orden de columnas:
+###### Artículo 42.
 
-a) Nombre completo de los ciudadanos solicitantes;
+Para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban ser observadas en la prestación del servicio público, independientemente de las obligaciones específicas que correspondan al empleo, cargo o comisión, todo servidor público, sin perjuicio de sus derechos y deberes laborales, tendrá las siguientes obligaciones de carácter general:
 
-b) Número de folio de la credencial para votar de los ciudadanos solicitantes;
+I. Cumplir con la máxima diligencia el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de un empleo, cargo o comisión;
 
-c) Clave de elector y la sección electoral a la que pertenecen los ciudadanos solicitantes; y
+II. Formular y ejecutar legalmente, en su caso, los planes, programas y presupuestos correspondientes a su competencia, y cumplir las Leyes y otras normas que determinen el manejo de recursos económicos públicos;
 
-d) Firma de cada ciudadano elector solicitante, que concuerde con la que aparece en la credencial para votar.
+III. Abstenerse de causar daños y perjuicios a la Hacienda Pública Estatal o Municipal, sea por el manejo irregular de fondos y valores Estatales o Municipales, o por irregularidades en el ejercicio o pago de recursos presupuestales del Estado o Municipios, o de los concertados o convenios por el Estado con la Federación, o sus Municipios;
 
-###### ARTÍCULO 31.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La presentación de la solicitud de referéndum, así como su tramitación ante el Consejo, no tiene efectos suspensivos sobre la disposición legislativa objeto del mismo, hasta en tanto se obtenga un resultado con efectos vinculatorios en términos del artículo 59.
+> <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
 
-#### SECCIÓN II. DEL TRÁMITE DE LA SOLICITUD
+Se considera que se causa daño o perjuicio a la Hacienda Pública Municipal, cuando se contraiga deuda pública y ésta no sea inscrita en el Registro de Deuda Pública y pagada dentro del plazo máximo que dure en su encargo la administración municipal que la contrate o, cuando se trate de deuda pública multianual que exceda el periodo de dicha administración, cuando no se realicen los pagos o amortizaciones que correspondan durante la gestión de la administración que contrate dicha deuda.
 
-###### ARTÍCULO 32.
+IV. Utilizar los recursos que tenga asignados para el desempeño de su empleo, cargo o comisión, las facultades que le sean atribuidas o la información reservada a que tenga acceso por su función exclusivamente para los fines a que estén afectos;
 
-Recibida la solicitud de referéndum, el Secretario del Consejo verificará dentro de los quince días hábiles siguientes, si la solicitud cumple con los requisitos a que se refieren los artículos 29 y 30 de la presente Ley. A falta de algún requisito, se requerirá al solicitante o, en su caso, al Comité de Representantes, para que subsane tal omisión dentro de los tres días hábiles siguientes al de la notificación, con el apercibimiento de que en caso de incumplimiento, se desechará la solicitud.
+V. Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, conserve bajo su cuidado o a la cual tenga acceso, impidiendo o evitando el uso, la sustracción, destrucción, ocultamiento o inutilización indebidas de aquellas;
 
-###### ARTÍCULO 33.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Al no recaer acuerdo por parte del Consejo dentro del plazo señalado para verificar si se cumplen con los requisitos, se considerará aceptada la solicitud de referéndum.
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
-###### ARTÍCULO 34.
+VI. Observar buena conducta en su empleo, cargo o comisión tratando con respeto, diligencia, imparcialidad y rectitud a las personas con las que tenga relación con motivo de éste, así como abstenerse de incurrir o tolerar conductas de hostigamiento y acoso sexual.
 
-Si la solicitud de referéndum cumple con los requisitos o fue subsanada por el promovente o el Comité de Representantes, en los términos previstos por el artículo anterior, el Presidente del Consejo, a más tardar dentro de los dos días hábiles siguientes a la acreditación de tales hechos, notificará su recepción al Congreso, acompañando una copia de dicha solicitud y sus anexos.
+VII. Observar en la dirección de sus subalternos las debidas reglas del trato y abstenerse de incurrir en agravio, desviación o abuso de autoridad;
 
-Una vez recibida la notificación, el Congreso dispondrá de un plazo de cinco días hábiles para hacer valer ante el Consejo las consideraciones que estime pertinentes.
+VIII. Observar respeto y subordinación legítimas con respecto a sus superiores inmediatos o mediatos, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
 
-###### ARTÍCULO 35.
+IX. Comunicar por escrito al Titular de la Dependencia u organismo auxiliar en el que presten sus servicios el incumplimiento de las obligaciones establecidas en este artículo o las dudas fundadas que le suscite la procedencia de las órdenes que reciba;
 
-Transcurrido el plazo a que se refiere el segundo párrafo del artículo anterior, dentro de un plazo de treinta días naturales, el Consejo resolverá en definitiva sobre la procedencia de la solicitud de referéndum.
+X. Abstenerse de ejercer las funciones de un empleo, cargo o comisión después de concluido el período para el cual se le designó o de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones;
 
-###### ARTÍCULO 36.
+XI. Abstenerse de disponer o autorizar a un subordinado a no asistir sin causa justificada a sus labores por más de quince días continuos o treinta discontinuos en un año, así como otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio público no lo exijan;
 
-La solicitud de referéndum será improcedente en los siguientes casos:
+XII. Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la Ley prohiba;
 
-I. Si la disposición legislativa objeto de la solicitud de referéndum, se refiere a temas de los contemplados en el artículo 27 de la presente Ley;
+XIII. Abstenerse de nombrar, contratar o promover como servidores públicos a personas con quienes tenga parentesco consanguíneo hasta el cuarto grado, por afinidad o civil, y que por razón de su adscripción dependan jerárquicamente de la unidad administrativa de la que sea titular. Cuando al asumir el servidor público el cargo o comisión de que se trate, y ya se encontrare en ejercicio de una función o responsabilidad pública el familiar comprendido dentro de la restricción prevista en esta fracción, deberán preservarse los derechos previamente adquiridos por éste último. En este caso, el impedimento será para el fin de excusarse de intervenir, en cualquier forma, respecto del nombramiento de su familiar;
 
-II. Si como resultado de la verificación de la autenticidad de los datos de los ciudadanos que presentan la solicitud, se obtiene que no se reúne el número de solicitantes que el artículo 28 de esta Ley establece. Para la verificación de la autenticidad de los datos de los ciudadanos que presenten esa solicitud, el Consejo podrá acordar la aplicación de un procedimiento aleatorio y de muestreo científicamente sustentado, sin perjuicio de la información que sobre este particular pudiera obtener por otros medios;
+XIV. Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tengan interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
 
-III. Si el escrito de solicitud se presentó en forma extemporánea;
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2015)</small>
 
-IV. Si la disposición legislativa ha sido modificada sustancialmente por el Congreso, antes de que el Consejo resolviera sobre la solicitud de referéndum;
+El servidor público deberá informar de inmediato a la Secretaría sobre la atención, trámite o resolución de los asuntos a que hace referencia el párrafo anterior y que sean de su conocimiento.
 
-V. Si la exposición de las razones que motivan la solicitud, resulta inverosímil, subjetiva o no contiene una relación directa causa-efecto entre las razones expuestas y la disposición legal correspondiente;
+XV. Informar por escrito al Jefe inmediato y en su caso, al superior jerárquico, sobre la atención, trámite o resolución de los asuntos a que hace referencia la fracción anterior y que sean de su conocimiento; y observar sus instrucciones por escrito sobre su atención, tramitación o resolución, cuando el servidor público no pueda abstenerse de intervenir en ellos;
 
-VI. Si el escrito de la solicitud es insultante, atenta contra las instituciones o es ilegible; y
+XVI. Abstenerse, durante el ejercicio de sus funciones de solicitar, aceptar o recibir, por sí o por interpósita persona, dinero, objetos mediante enajenación a su favor en precio notoriamente inferior al que el bien de que se trate tenga en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para sí, o para las personas a las que se refiere la fracción XIII, y que procedan de cualquier persona física o moral cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión y que implique intereses en conflicto. Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión;
 
-VII. Si la solicitud respectiva no cumple con todos los requisitos y formalidades que se establecen en el presente ordenamiento.
+XVII. Desempeñar su empleo, cargo o comisión sin obtener beneficios adicionales a las contraprestaciones comprobables que el Estado le otorga por el desempeño de su función, sean para él o para las personas a las que se refiere la fracción XIV;
 
-###### ARTÍCULO 37.
+XVIII. Abstenerse de intervenir o participar en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción, de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en el caso, o pueda derivar de alguna ventaja o beneficio para él o para las personas a las que se refiere la fracción XIII;
 
-Si el Consejo resuelve la procedencia de la solicitud de referéndum, deberá emitir el acuerdo correspondiente. Dicho acuerdo será notificado al Congreso y deberá ser publicado en el Periódico Oficial "El Estado de Sinaloa", incluyendo la convocatoria que contendrá:
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2015)</small>
 
-I. La fecha en la cual se realizará la jornada de consulta. En todo caso, las jornadas de consulta de los procesos de referéndum solo se podrán realizar el primer domingo del mes de julio de cada tres años, de manera concurrente con la jornada electoral local del año que corresponda, pudiendo realizarse más de un proceso de referéndum en la misma jornada de consulta. Para tal efecto, el Consejo deberá tomar las medidas pertinentes y oportunas para el desarrollo adecuado de los procesos de referéndum sin afectar los procesos electorales;
+XIX. Presentar con oportunidad y veracidad la Manifestación de Bienes y la Declaración de Intereses en los términos que señala la Ley.
 
-II. Especificación precisa y detallada de la disposición legislativa, objeto del referéndum;
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
-III. La pregunta o preguntas a consultar;
+XX. Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de la Secretaría de la Contraloría o del órgano de control interno conforme a su competencia;
 
-IV. El número de ciudadanos que tiene derecho a participar, así como el número mínimo de ciudadanos requerido en cada caso, para que el resultado del proceso de referéndum sea vinculatorio para la autoridad correspondiente, conforme a la presente Ley; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-V. Las demás disposiciones regulatorias del proceso que se consideren pertinentes.
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-###### ARTÍCULO 38.
+XX Bis. Dar cumplimiento en los plazos o términos establecidos para resolver un procedimiento, trámite o solicitud;
 
-El Consejo es el órgano responsable de la organización y desarrollo de los procesos de plebiscito y de referéndum, así como la autoridad competente para calificar su procedencia, efectuar el cómputo de los resultados y validar los mismos, así como ordenar en el ámbito de su competencia, los actos necesarios para el cumplimiento de las disposiciones de la presente Ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 1994)</small>
 
-###### ARTÍCULO 39.
+XXI. Supervisar que los servidores públicos sujetos a su dirección, cumplan con las disposiciones de este artículo e informar por escrito ante el superior jerárquico u órgano de control interno los actos u omisiones que en ejercicio de sus funciones llegare a advertir respecto de cualquier servidor público, que puedan ser causa de responsabilidad administrativa en los términos de esta Ley, y de las normas que al efecto se expidan.
 
-El Consejo podrá aprobar los acuerdos y los procedimientos específicos, así como los materiales y documentación que resulte necesario para la organización y desarrollo del plebiscito y referéndum, observando en todo momento los principios rectores previstos en el artículo 3 de la presente Ley.
+Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Secretaría de la Contraloría, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite la comunicación a la Secretaría de la Contraloría, el subalterno podrá practicarla directamente informando a su superior acerca de este acto;
 
-###### ARTÍCULO 40.
+XXII. Abstener de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público;
 
-En ningún momento y bajo ninguna circunstancia los acuerdos, procedimientos específicos, materiales y documentación a que se refiere el presente artículo, podrán afectar el desarrollo de las distintas etapas de los procesos electorales. En caso contrario, los comisionados de los partidos políticos, alianzas o coaliciones podrán impugnar las resoluciones correspondientes del Consejo, de conformidad con los procedimientos previstos en la Ley Electoral.
+> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
-En el caso de conflicto entre actos o disposiciones regulatorias de procesos de participación ciudadana y de actos o disposiciones regulatorias en materia electoral, deberán prevalecer estos últimos.
+XXII Bis. Llevar a cabo el proceso de desinfección del agua para uso, consumo y aprovechamiento humano, en los términos de la Norma Oficial Mexicana:
 
-## TÍTULO TERCERO. MEDIO DE IMPUGNACIÓN
+> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
-### CAPÍTULO IV. DE LA INICIATIVA CIUDADANA
+XXII Ter. Operar eficazmente y con la debida diligencia los mecanismos para la regulación del flujo de agua para el suministro a los usuarios de dicho servicio público, evitando en todo momento la simulación de escases de dicho líquido;
 
-#### SECCIÓN I. DISPOSICIONES GENERALES
+XXIII. Abstener de impedir, por sí o por interpósita persona, utilizando cualquier medio, la formulación de quejas y denuncias; o que con motivo de las mismas, realice cualquier conducta injusta u omita una justa y debida, que lesione los intereses de los quejosos o denunciantes; y
 
-###### ARTÍCULO 41.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE MAYO DE 2012)</small>
 
-La etapa de preparación de los procesos de plebiscito y de referéndum, comprende:
+XXIV. Promover, respetar, proteger los derechos humanos, prevenir, investigar, sancionar y reparar las violaciones a los mismos, en el ámbito de sus atribuciones.
 
-I. La designación y capacitación de los integrantes de las mesas de participación ciudadana;
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-II. La determinación del número y ubicación de las mesas de participación ciudadana;
+a) Implementar las medidas precautorias o cautelares que hayan sido aceptadas, a petición de la Comisión de Derechos Humanos, y abstenerse de negarlas a sabiendas de que existen los hechos que las motivan;
 
-III. La preparación, distribución y entrega de material y documentación aprobada, que habrá de utilizarse;
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-IV. La publicación de las listas de integrantes y ubicación de las mesas de participación ciudadana; y
+b) Proporcionar en forma oportuna y veraz, la información y datos que requieran tanto la Comisión de Derechos Humanos como los Defensores Municipales de Derechos Humanos;
 
-V. Los actos relacionados con la difusión de la jornada de consulta ciudadana por parte del Consejo.
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPÍTULO ÚNICO
+c) Permitir a su personal el acceso incondicionado, inmediato e irrestricto a los espacios físicos, información y personas que requieran tanto la Comisión de Derechos Humanos como los Defensores Municipales de Derechos Humanos, para practicar sus actuaciones, salvo en los casos que por disposición expresa de la ley no sea posible;
 
-###### ARTÍCULO 42.
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-El Consejo podrá ampliar o modificar los plazos y términos establecidos para el desarrollo de la etapa de preparación de los procesos de plebiscito y referéndum, cuando a su juicio exista imposibilidad material para realizar los actos previstos para su desarrollo y resulte conveniente para un mejor cumplimiento de las diversas etapas de estos procesos.
+d) Cumplir en sus términos las mediaciones y conciliaciones que hayan sido aceptadas, de conformidad con los procedimientos sustanciados por la Comisión de Derechos Humanos o los Defensores Municipales de Derechos Humanos;
 
-El acuerdo del Consejo que determine ampliaciones o modificaciones a los plazos y términos señalados en el párrafo anterior, se publicará en el Periódico Oficial "El Estado de Sinaloa", dentro de los cinco días siguientes a la fecha de su aprobación.
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-###### ARTÍCULO 43.
+e) Cumplir en sus términos las recomendaciones de la Comisión de Derechos Humanos que hayan sido aceptadas; y
 
-La realización de los procesos de plebiscito y referéndum, estará sustentada previamente en la difusión pública, oportuna, amplia y adecuada de la información necesaria sobre los temas respectivos y las actividades básicas a realizar durante cada proceso, a fin de que la participación ciudadana este suficientemente informada, razonada y motivada, conforme a los principios establecidos en la presente Ley.
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-Para tal efecto, el Consejo realizará la campaña de difusión correspondiente con el fin de que los ciudadanos conozcan los argumentos a favor y en contra de los actos, decisiones o disposiciones objeto del plebiscito o del referéndum correspondiente.
+f) Observar las disposiciones relacionadas con el procedimiento de designación de los Defensores Municipales de Derechos Humanos.
 
-###### ARTÍCULO 44.
+> <small>(ADICIONADA, G.G. 28 DE JUNIO DE 2014)</small>
 
-Ninguna persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias de los ciudadanos con motivo del ejercicio de algún plebiscito o referéndum. Queda prohibida la transmisión en territorio estatal de este tipo de mensajes contratados en el extranjero.
+XXIV bis. Cumplir en tiempo y forma los mandatos del Instituto Electoral del Estado de México y cualquiera de sus órganos, conforme lo establezca la legislación electoral aplicable, proporcionarles de manera oportuna y veraz la información que les sea solicitada y prestarles el auxilio y colaboración que les sea requerido por dichas autoridades electorales;
 
-#### SECCIÓN II. DE LAS MESAS DE PARTICIPACIÓN CIUDADANA
+> <small>(ADICIONADA, G.G. 28 DE JUNIO DE 2014)</small>
 
-### CAPITULO ÚNICO. DE LA EDUCACIÓN PARA LA PARTICIPACIÓN CIUDADANA
+XXIV ter. Abstenerse de infringir, por acción u omisión, las disposiciones constitucionales, legales, reglamentarias y normativas en materia electoral, de propaganda gubernamental y aplicación imparcial de los recursos públicos, así como abstenerse de influir en la equidad de la competencia entre los partidos políticos;
 
-###### ARTÍCULO 45.
+> <small>(ADICIONADA, G.G. 5 DE ENERO DE 1994)</small>
 
-El Consejo, de conformidad con las necesidades particulares y específicas de cada proceso de plebiscito o referéndum, decidirá el número y ubicación de las mesas de participación ciudadana, teniendo como referente las casillas que se instalen para el proceso electoral local del año que corresponda.
+XXV. Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar pedidos o contratos relacionados con adquisiciones, enajenaciones, arrendamientos y mantenimiento de bienes muebles e inmuebles y la contratación de servicios y de obra pública, con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien con las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Secretaría, conforme a las disposiciones legales aplicables al Titular de la Dependencia, Organismo Descentralizado, Empresa de Participación de que se trate o Fideicomiso Público.
 
-###### ARTÍCULO 46.
+Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
 
-Los ciudadanos sinaloenses participarán en la realización de las consultas o procesos de participación ciudadana, en la forma y términos que señale la Constitución Local y esta Ley.
+> <small>(REFORMADA, G.G. 24 DE MARZO DE 2009)</small>
 
-###### ARTÍCULO 47.
+XXVI. Cumplir con la entrega de índole administrativo del despacho y de toda aquella documentación inherente a su cargo, en los términos que establezcan las disposiciones legales o administrativas que al efecto se señalen;
 
-La designación de los integrantes de las mesas de participación ciudadana, se sujetará a las normas siguientes:
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
-I. Se tomará en cuenta en primer lugar para estos efectos, a las personas que hayan fungido como funcionarios de casillas en elecciones ordinarias locales, junto con sus respectivos suplentes, y
+XXVII. Proporcionar, en su caso, en tiempo y forma ante las dependencias competentes, la documentación comprobatoria de la aplicación de recursos económicos federales, estatales o municipales, asignados a través de los programas respectivos;
 
-II. En el supuesto de no completarse el número de integrantes de las mesas de participación ciudadana, el Consejo podrá dictar los acuerdos correspondientes para solucionar dicha contingencia.
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
-###### ARTÍCULO 48.
+XXVIII. Proporcionar el apoyo, asistencia y atención que requiera el órgano de control interno de la dependencia, organismo auxiliar, fideicomiso o ayuntamiento, a efecto de que pueda cumplir con las atribuciones que le señalen las leyes, reglamentos y demás disposiciones aplicables;
 
-En el desahogo de los procesos de plebiscito y de referéndum, no se considerarán las figuras jurídicas de los representantes de los partidos políticos, alianzas o coaliciones, en consecuencia, no pueden ejercer sus atribuciones como en los procesos electorales que establece la Ley Electoral.
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
-#### SECCIÓN III. DE LA DOCUMENTACIÓN Y MATERIAL DE CONSULTA
+XXIX. Abstenerse de contratar como servidor público a quien se encuentre inhabilitado para desempeñar algún empleo, cargo o comisión en el servicio público o a quien se encuentre sujeto a un procedimiento administrativo;
 
-###### ARTÍCULO 49.
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
-Para la emisión del voto en el plebiscito y en el referéndum, se imprimirán las boletas de participación ciudadana correspondientes en blanco y negro con base en el modelo que apruebe el Consejo, debiendo contener cuando menos los siguientes datos:
+XXX. Abstenerse de tramitar o intervenir como abogado, representante, apoderado o en cualquier otra forma semejante en la atención de asuntos de los que haya tenido conocimiento, tramitado o que se encuentren en el área en la cual se desempeño como servidor público. Esta prevención es aplicable hasta un año después de que el servidor público se haya retirado del empleo, cargo o comisión y
 
-I. Entidad, distrito electoral y municipio, según el ámbito territorial en el cual se deberá aplicar el proceso de participación ciudadana correspondiente;
+> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
 
-II. Sello y firmas impresas del Presidente y Secretario del Consejo;
+XXXI. Otorgar o percibir únicamente la remuneración que haya sido aprobada en términos de ley, incluyendo bonos, gratificaciones y cualquier otra remuneración que se agregue al salario;
 
-III. Talón desprendible con número de folio;
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
 
-IV. La pregunta sobre si el ciudadano aprueba o rechaza el acto o decisión sometido a plebiscito, o, en su caso, la creación, reforma o adición, correspondiente sujeta a referéndum;
+XXXII. Abstenerse de remitir vehículos a cualquier depósito de vehículos concesionado o de carácter estatal, con motivo distinto a los permitidos por las disposiciones legales aplicables;
 
-V. Cuadros o círculos para que el ciudadano manifieste su voto por el "SI" o por el "NO"; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI. Una descripción completa del acto o decisión sometido a plebiscito o, en su caso, de la disposición legislativa sujeta a referéndum.
+> <small>(ADICIONADA, G.G. 20 DE NOVIEMBRE DE 2014)</small>
 
-#### SECCIÓN IV. DE LA JORNADA DE CONSULTA
+XXXIII. Abstenerse de solicitar requisitos, cargas tributarias o cualquier otro concepto adicional no previsto en la legislación aplicable, que tengan por objeto condicionar la expedición de licencias de funcionamiento para unidades económicas o negocios de bajo riesgo, y
 
-###### ARTÍCULO 50.
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2015)</small>
 
-La etapa de la jornada de consulta comprende los actos, tareas y actividades del Consejo y los ciudadanos para la emisión de su voto desde la instalación de la mesa de participación ciudadana a las 8:00 horas del día en que se deberán recibir las opiniones ciudadanas, concluyendo con la clausura de las mismas.
+XXXIV. Abstenerse de celebrar o autorizar pedidos o contratos relacionados con adquisiciones, enajenaciones, arrendamientos y mantenimiento de bienes muebles e inmuebles, contratación de servicios, así como de obra pública y servicios relacionados con la misma, o de recibir estas propuestas, cuando se trate de proveedores, contratistas o particulares que se encuentren sujetos a procedimiento por responsabilidad administrativa resarcitoria, o bien, se les haya impuesto dicha responsabilidad o no hayan realizado la indemnización respectiva. Así como abstenerse de contratar a quienes estén sujetos a una responsabilidad administrativa resarcitoria o se encuentren pendientes de cumplir con la sanción disciplinaria económica. Para este fin, el servidor público deberá verificar y acreditar documentalmente la que realizó las consultas requeridas en los registros oficiales.
 
-###### ARTÍCULO 51.
+> <small>(ADICIONADA, G.G. 24 DE AGOSTO DE 2015)</small>
 
-La jornada de consulta se cerrará a las 18:00 horas. Solo permanecerán abiertas después de esa hora, aquellas mesas en la que aún se encuentren ciudadanos formados para emitir su voto. En este caso, se cerrará una vez que quienes estuviesen formados a las 18:00 horas, hayan emitido su voto.
+XXXV. Las demás que le impongan las leyes, reglamentos o disposiciones normativas aplicables.
 
-###### ARTÍCULO 52.
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
-En la jornada de consulta, los integrantes de las mesas de participación ciudadana elaborarán las actas siguientes:
+###### Artículo 43.
 
-I. Una de la jornada de consulta, misma que contendrá la instalación, recepción de votos, clausura y remisión del expediente del procedimiento y los incidentes que ocurrieron durante la misma; y
+Se incurre en responsabilidad administrativa disciplinaria, por el incumplimiento de cualesquiera de las obligaciones a que se refiere el artículo anterior, dando lugar a la instrucción del procedimiento administrativo ante los órganos disciplinarios y a la aplicación de las sanciones que en esta ley se consignan, atendiendo a la naturaleza de la obligación que se transgreda.
 
-II. Una que contenga el cómputo de los votos recibidos durante la jornada de consulta.
+> <small>(REFORMADO, G.G. 24 DE MARZO DE 2009)</small>
 
-#### SECCIÓN V. DE LOS CÓMPUTOS Y CALIFICACIÓN DE RESULTADOS
+La responsabilidad administrativa disciplinaria, tiene por objeto disciplinar y sancionar las conductas de los servidores públicos que infrinjan alguna de las disposiciones administrativas contenidas en el artículo anterior, con independencia de otra responsabilidad de cualquier naturaleza; inclusive de la responsabilidad administrativa resarcitoria o de índole penal.
 
-###### ARTÍCULO 53.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 1994)</small>
 
-La etapa de cómputos y calificación de resultados comprende:
+###### Artículo 44.
 
-I. La remisión de los expedientes de participación ciudadana al Consejo; y
+Para los efectos de esta Ley, se entenderá por Secretaría, a la Secretaría de la Contraloría.
 
-II. El computo de los resultados que haga el Consejo, a partir de las actas de cómputo de resultados de las mesas de participación ciudadana y la calificación de los resultados.
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
-###### ARTÍCULO 54.
+Para los mismos efectos, en el Poder Ejecutivo se entenderá por superior jerárquico al titular de la dependencia correspondiente y en los organismos auxiliares y fideicomisos públicos al coordinador del sector, quienes aplicarán las sanciones disciplinarias cuya imposición se deriva de esta ley.
 
-Los expedientes a que refiere el artículo anterior, deberán ser integrados por las mesas de participación ciudadana, con las actas que se deban elaborar durante la jornada de consulta, los escritos de incidentes que se hubieren presentado, los talonarios de las boletas utilizadas, las boletas sobrantes inutilizadas y las que fueron anuladas, así como la Lista Nominal utilizada.
+> <small>(REFORMADO, G.G. 11 DE NOVIEMBRE DE 2011)</small>
 
-#### SECCIÓN VI. DE LA DECLARACIÓN DE LOS EFECTOS
+En los poderes Legislativo y Judicial, serán superiores jerárquicos para efectos de esta Ley, el Presidente de la Junta de Coordinación Política y el Presidente del Consejo de la Judicatura del Estado, respectivamente, quienes aplicarán las sanciones disciplinarias que establece la misma, salvo lo que dispongan sus respectivas leyes orgánicas.
 
-###### ARTÍCULO 55.
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
-La etapa de declaración de los efectos inicia con la publicación de los resultados de los procesos de plebiscitos y de referéndum, y concluye con su notificación a la autoridad que emitió el acto, decisión o disposición objeto de plebiscito o referéndum.
+En el gobierno municipal se entenderá por superior jerárquico al presidente municipal, quien aplicará las sanciones disciplinarias derivadas de esta ley.
 
-###### ARTÍCULO 56.
+### CAPITULO III. Sanciones Disciplinarias y Procedimiento Administrativo para aplicarlas
 
-Los resultados y la declaración de los efectos correspondiente, se publicarán en el Periódico Oficial "El Estado de Sinaloa" y en al menos dos de los diarios de mayor circulación en la región en la cual se hubiere realizado la consulta.
+###### Artículo 45.
 
-###### ARTÍCULO 57.
+En las dependencias de la Administración Pública, en los organismos auxiliares y fideicomisos públicos, y en los Ayuntamientos, se establecerán módulos específicos a los que el público tenga fácil acceso, para que cualquier interesado pueda presentar quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos, con las que se iniciará, en su caso, el procedimiento disciplinario correspondiente.
 
-La opinión ciudadana expresada como resultado de los procesos de plebiscito y de referéndum, solo podrá ser vinculatoria para las autoridades respectivas, en los siguientes casos:
+Dichas quejas o denuncias se remitirán a la Secretaría en un plazo que no exceda de cuarenta y ocho horas, quedando facultada la propia Dependencia para establecer las normas y procedimientos, para que las instancias del público sean atendidas y resueltas, salvo las relativas a las quejas y denuncias contra los servidores del Gobierno Municipal, que serán fijadas por los Ayuntamientos respectivos.
 
-l. En el caso de proceso de plebiscito para consulta sobre actos, propuestas o decisiones del Poder Ejecutivo u organismos e instituciones de la administración pública paraestatal que sean trascendentes para la vida pública del Estado, con la decisión adoptada por la votación de la mayoría de los ciudadanos, siempre y cuando el número de ciudadanos que participaron y emitieron su voto en el respectivo proceso de plebiscito que se desahogue durante la jornada de consulta correspondiente, sea equivalente o superior al cuarenta por ciento del número de ciudadanos inscritos en la Lista Nominal.
+Lo propio harán, en la esfera de su competencia los Poderes Legislativo y Judicial a través de sus órganos competentes.
 
-II. En el caso de procesos de plebiscito para consulta sobre actos, propuestas o decisiones de los ayuntamientos u organismos e instituciones de la administración pública municipal que sean trascendentes para la vida pública del municipio, con la decisión adoptada por la votación de la mayoría de los ciudadanos, siempre y cuando el número de ciudadanos que participen y emiten su voto en el respectivo proceso de plebiscito que se desahogue durante la jornada de consulta correspondiente, sea equivalente o superior al cuarenta por ciento del número de ciudadanos inscritos en la Lista Nominal del municipio en que se realice el proceso de plebiscito;
+###### Artículo 46.
 
-III. En el caso de procesos de referéndum, total o parcial, con la decisión adoptada por la votación de la mayoría de los ciudadanos, siempre y cuando el número de ciudadanos que participen y emiten su voto en el respectivo proceso de referéndum legal que se desahogue durante la jornada de consulta correspondiente, sea equivalente o superior al cuarenta por ciento del número de ciudadanos inscritos en la Lista Nominal.
+La Secretaría, el superior jerárquico y todos los servidores públicos, tienen la obligación de respetarla y hacer respetar el derecho a la formulación de quejas y denuncias a que se refiere el artículo anterior, y evitar que con motivo de las mismas se causen molestias indebidas a los quejosos o denunciantes.
 
-Cuando el resultado de los procesos de plebiscito o de referéndum no alcance los porcentajes de votación o de participación ciudadana señalados en este artículo como requisito para ser vinculatorios, sus efectos serán meramente indicativos.
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
-###### ARTÍCULO 58.
+###### Artículo 47.
 
-Si el resultado del plebiscito es vinculatorio y en el sentido de rechazar el acto o decisión materia del mismo, el Gobernador o, en su caso, el Ayuntamiento, emitirá el decreto o acuerdo revocatorio, según corresponda, en un término que no deberá exceder de veinte días hábiles contados a partir del día siguiente de la publicación de los resultados del proceso del plebiscito correspondiente en el Periódico Oficial "El Estado de Sinaloa".
+El Consejo de la Judicatura del Estado, establecerá los órganos y sistemas para identificar, investigar y determinar las responsabilidades de los servidores públicos del Poder Judicial, derivadas del incumplimiento de las obligaciones a que se refiere el artículo 42 de la presente ley, así como para aplicar las sanciones contempladas en el presente Capítulo, por conducto del superior jerárquico, en los términos de su correspondiente ley orgánica.
 
-Dentro de los dos años contados a partir de la publicación del acuerdo o decreto que se emita para cumplir con el sentido del plebiscito vinculatorio, el Poder Ejecutivo Estatal u organismos e instituciones de la administración pública paraestatal o, en su caso, el Ayuntamiento u organismos e instituciones de la administración pública municipal, no podrán expedir un nuevo acto o decisión que contravenga el sentido de la opinión expresada en el proceso de plebiscito correspondiente, salvo por mandato judicial o cuando la Constitución Federal o la Constitución Local le impongan una obligación para emitirlo en dicho sentido.
+Lo propio hará la Legislatura, respecto a sus servidores y conforme a la legislación respectiva; siendo también competente para identificar, investigar y determinar las responsabilidades a que se refiere este artículo, tratándose de presidentes municipales, regidores y síndicos, así como para aplicarles las sanciones disciplinarias que correspondan en los términos de esta Ley.
 
-###### ARTÍCULO 59.
+Los ayuntamientos establecerán los órganos y sistemas respectivos en los términos del primer párrafo de este artículo para aplicar sanciones disciplinarias, previa instrucción de los procedimientos por el órgano de control interno municipal.
 
-Si el resultado del referéndum legal es vinculatorio, el Congreso deberá emitir las adecuaciones normativas pertinentes para atender el sentido de dicho resultado, en un término que no deberá exceder de sesenta días naturales, si se encuentra en período de sesiones ordinarias a la fecha de publicación del resultado en el Periódico Oficial "El Estado de Sinaloa", o en la segunda sesión del subsecuente período de sesiones ordinarias, si a la fecha de publicación del resultado en el Periódico Oficial "El Estado de Sinaloa", se encuentra en receso.
+###### Artículo 48.
 
-Dentro de los dos años contados a partir de la publicación de las adecuaciones normativas pertinentes que se realicen para cumplir con el sentido del referéndum vinculatorio, el Congreso no podrá emitir disposiciones normativas que contravengan el sentido de la opinión expresada en el proceso de referéndum correspondiente, salvo por mandato judicial o cuando la Constitución Federal imponga la obligación de hacer adecuaciones al marco legislativo local en ese sentido.
+Los servidores públicos de la Secretaría, que incurran en responsabilidad administrativa, serán sancionados conforme al presente Capítulo, por el órgano que disponga su reglamento interior.
 
-###### ARTÍCULO 60.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
-La iniciativa ciudadana es el instrumento por medio del cual los ciudadanos sinaloenses, podrán presentar al Congreso proyectos de creación, modificación, reforma, derogación o abrogación de leyes y decretos.
+###### Artículo 49.
 
-###### ARTÍCULO 61.
+Las sanciones por responsabilidad administrativa disciplinaria consistirán en:
 
-El ejercicio de la iniciativa ciudadana no presupone que el Congreso deba aprobarlas en los términos presentadas, sino que deben ser valoradas mediante el proceso legislativo establecido en la Ley Orgánica del Congreso del Estado de Sinaloa.
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2015)</small>
 
-La presentación de una iniciativa ciudadana no genera derechos, únicamente representa el inicio del procedimiento legislativo que debe agotarse en virtud del interés público.
+I. Amonestación.
 
-#### SECCIÓN II. DE LOS REQUISITOS
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2015)</small>
 
-###### ARTÍCULO 62.
+II. Suspensión de empleo, cargo o comisión, sin goce de sueldo por un periodo no menor de tres días ni mayor a treinta días.
 
-Los ciudadanos que presenten una iniciativa ante el Congreso, deberán señalar domicilio para oír y recibir notificaciones en la capital del Estado y autorizarán a quienes puedan recibirlas en su nombre. En su caso, deberán designar representante común.
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2015)</small>
 
-###### ARTÍCULO 63.
+III. Destitución del empleo, cargo o comisión.
 
-Toda iniciativa ciudadana deberá contener:
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
 
-I. Un único objeto debidamente expresado;
+IV. Sanción económica, de uno a tres tantos de los beneficios obtenidos, o por daños y perjuicios causados por actos u omisiones.
 
-II. Expresar los motivos, en forma clara y sistematizada, de lo que se propone;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
-III. Los fundamentos de derecho en que apoyen sus pretensiones;
+V. Inhabilitación para desempeñar empleos, cargos o comisiones en el servicio público por un período no menor de seis meses ni mayor a ocho años.
 
-IV. El texto de la Ley, Decreto o Acuerdo que se propone, procurando estructurarlo en títulos, capítulos, secciones, apartados, artículos o cualquier otra forma que permita darles organización y congruencia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. En el caso de reformas, la iniciativa de ley, capítulo, artículo o cualquiera otra parte de ella se propondrá de nuevo tal como debe quedar aprobada para sustituir completamente a la ley, capítulo, artículo o cualquiera otra parte reformada. Si la propuesta de reforma consistiere en intercalar artículos adicionales, la iniciativa de ley expresará el artículo o artículos de la antigua que se adicionen, señalando a aquellos el lugar en que deben quedar;
+> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
 
-VI. Señalamiento de los artículos transitorios que correspondan; y
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro al servidor público o cause daños y perjuicios a la administración pública, será de uno a diez años, si el monto de aquéllos no excede de quinientas veces el salario mínimo mensual vigente en la capital del Estado y de diez a veinte años si excede de dicho límite.
 
-VII. Acompañar, en su caso, los anexos documentales necesarios.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTÍCULO 64.
+> <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
 
-El Congreso sólo estará obligado a dictaminar y a pronunciarse de conformidad con la normatividad aplicable, sobre aquellas iniciativas ciudadanas que cumplan con los requisitos que establece el artículo anterior.
+En los supuestos a que se refiere el segundo párrafo de la fracción III del artículo 42 de esta Ley, la inhabilitación al servidor público responsable por la omisión, será de diez años y se hará acreedor además, a una multa equivalente a la gravedad del daño que se cause con motivo de la contratación de deuda pública no pagada, independientemente de la obligación de resarcir los daños causados a la hacienda pública y de las responsabilidades civiles y penales que procedan.
 
-#### SECCIÓN III. DEL TRÁMITE Y RESOLUCIÓN
+> <small>(ADICIONADO, G.G. 28 DE JUNIO DE 2014)</small>
 
-###### ARTÍCULO 65.
+En caso de infracciones graves se impondrá además la sanción de destitución.
 
-Recibida la iniciativa ciudadana, primeramente, deberá pasar a la Comisión de Protocolo y Régimen Orgánico Interior para que determine si cumple con los requisitos de ley y pueda ser registrada a efectos de ser turnada a su lectura correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTÍCULO 66.
+> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
 
-La iniciativa ciudadana que no reúna los requisitos expresados por el artículo 63 de la presente Ley, para ser registrada, deberá ser remitida, por una sola vez, a quien la presentó para que haga las correcciones pertinentes y en caso de que no se subsanen será desechada de plano.
+En todo caso, se considerará infracción grave el incumplimiento a las obligaciones previstas en las fracciones X, XIV, XVI, XVII, XVIII, XIX, XX, XXIV bis, XXIV ter y XXXIII del artículo 42 de esta Ley.
 
-###### ARTÍCULO 67.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
-Si en términos de la Ley Orgánica del Congreso del Estado, el Congreso resuelve tomar en consideración la iniciativa, pasará a la Comisión o Comisiones correspondientes para ser examinada y dictaminada.
+Para que una persona que hubiera sido inhabilitada en los términos de Ley pueda volver a desempeñar un empleo, cargo o comisión en el servicio público una vez transcurrido el plazo de la inhabilitación impuesta, se requerirá que el Titular de la dependencia u organismo auxiliar de que se trate, solicite a la Secretaría la información actualizada que para tal efecto se lleva en el Sistema del Registro de Sanciones y Procedimientos Administrativos, con el fin de tener la certeza jurídica de que la persona ha cumplido la sanción de inhabilitación que le fue impuesta.
 
-###### ARTÍCULO 68.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
-Sin perjuicio de lo dispuesto en el artículo 39 de esta Ley, los actos o resoluciones del Consejo en materia de participación ciudadana, podrán ser impugnados ante el Tribunal, de conformidad con las formalidades que establezca la Ley Electoral, dentro de los cinco días hábiles siguientes a la fecha en que se emitió el acto o resolución impugnada.
+La contravención a lo dispuesto por el párrafo que antecede será causa de responsabilidad administrativa para el Titular de la dependencia u organismo auxiliar en los términos de esta Ley.
 
-###### ARTÍCULO 69.
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
 
-Podrán impugnar, quienes tengan interés jurídico en los términos de la presente Ley.
+En el supuesto de que la persona haya sido contratada en el servicio público y se acredite que no ha cumplido con la sanción de inhabilitación que le hubiera sido impuesta, quedará sin efecto el nombramiento o contrato que en su caso se haya realizado.
 
-###### ARTÍCULO 70.
+VI. (DEROGADA, G.G. 14 DE MAYO DE 2014)
 
-Para el procedimiento y sustanciación del medio de impugnación serán aplicables las disposiciones contenidas en la Ley Electoral.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2015)</small>
 
-###### ARTÍCULO 71.
+VII. Sanción pecuniaria de diez a ciento ochenta salarios mínimos vigentes en la Entidad, por actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que los servidores públicos deban observar en el desempeño de sus empleos, cargos o comisiones y de quince a ciento ochenta días del sueldo base presupuestal asignado al servidor público que incurra en incumplimiento a las obligaciones previstas en los artículos 80 y 80 Bis de la presente Ley.
 
-Los Poderes Legislativo y Ejecutivo Estatal, los Ayuntamientos, el Consejo, las instituciones y organismos sociales, de manera permanente deberán fomentar una cultura de la participación ciudadana en los asuntos de interés público.
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2015)</small>
 
-###### ARTÍCULO 72.
+Para los casos que refieren las fracciones II, III y V se deberán atender las circunstancias siguientes:
 
-Las autoridades competentes, procurarán que en los planes y programas de estudio de la educación preescolar, primaria, secundaria, normal y para la formación de maestros en educación básica, se contemplen contenidos que enfaticen la relevancia que tiene la participación ciudadana en una sociedad democrática.
+a) Gravedad de la infracción en que se incurra.
 
-###### ARTÍCULO 73.
+b) Nivel jerárquico, antigüedad y las condiciones del infractor en el servicio público.
 
-Las universidades públicas y privadas establecidas en el Estado, dentro de sus actividades académicas curriculares y extracurriculares, procurarán incluir temas que ponderan la importancia de la participación ciudadana en los asuntos de interés públicos.
+c) Condiciones socio-económicas del infractor.
 
-## ARTICULOS TRANSITORIOS
+d) Antecedentes de imposición de sanciones y posible reincidencia del servidor público en el incumplimiento de obligaciones de la misma naturaleza, en su caso.
 
-## TÍTULO CUARTO. DE LA CULTURA DE LA PARTICIPACIÓN CIUDADANA
+Se considerará reincidente al servidor público que habiendo sido declarado responsable del incumplimiento a alguna de las obligaciones de la misma naturaleza a que se refiere el artículo 42 de la Ley, incurra nuevamente en una o varias conductas infractoras a dicho precepto legal.
+
+e) El monto del beneficio, daño o perjuicio económico, derivado del incumplimiento de obligaciones, si lo hubiere.
+
+###### Artículo 50.
+
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 51.
+
+Cuando se trate de sanciones económicas por beneficios obtenidos, o por daños y perjuicios causados por incumplimiento de las obligaciones establecidas en el artículo 42 de esta ley, se impondrán de uno a tres tantos de los beneficios obtenidos y de los daños y perjuicios causados.
+
+Dichas sanciones económicas, se pagarán una vez determinadas en cantidad líquida, en su equivalencia en salarios mínimos vigentes al día de su pago, conforme al siguiente procedimiento:
+
+I. La cantidad líquida de la sanción económica impuesta, se dividirá entre el salario mínimo mensual vigente en la capital del Estado al día de su imposición; y
+
+II. El cociente se multiplicará por el salario mínimo mensual vigente en la capital del Estado al día de pago de la sanción.
+
+Para los efectos de esta Ley se entenderá por salario mínimo mensual, el equivalente a treinta veces al salario mínimo diario vigente en la capital del Estado.
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 52.
+
+La Secretaría y los órganos de control interno de las dependencias, de los organismos auxiliares y fideicomisos públicos, serán competentes para identificar, investigar y determinar las responsabilidades de los servidores públicos, así como para imponer las sanciones disciplinarias a que se refiere el artículo 49 de esta ley.
+
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+La Secretaría podrá realizar acciones encubiertas y usuario simulado, en las investigaciones, inspecciones y supervisiones que realice a los servidores públicos en el ejercicio de sus atribuciones, permitiendo con ello, conocer la calidad con que ofrecen los servicios y trámites y detectar posibles actos de corrupción.
+
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+Se entiende por acción encubierta la técnica empleada para identificar, investigar y sancionar hechos y conductas violatorias de la Ley y sus disposiciones reglamentarias, mediante la participación legalmente autorizada de los servidores públicos que actúan con una identidad supuesta. Y por usuario simulado, la investigación para evaluar la actuación de los servidores públicos, permitiendo conocer la calidad con que ofrecen los servicios y trámites, y detectar posibles actos de corrupción.
+
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+Los medios de prueba que se recaben a través de las técnicas de investigación de acciones encubiertas y usuario simulado harán prueba plena.
+
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+En caso de que de las investigaciones, inspecciones y supervisiones se desprendan hechos constitutivos de delito, la Secretaría dará vista al Ministerio Público.
+
+Tratándose de presidentes municipales, regidores y síndicos, la imposición de las sanciones a que se refiere este artículo, corresponde a la Legislatura, y respecto a los demás servidores públicos municipales, su aplicación corresponde al presidente municipal en términos del tercer párrafo del artículo 47 de esta ley.
+
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 52 Bis.
+
+Los servidores públicos que realicen este tipo de acciones, deberán cumplir los siguientes requisitos:
+
+I. Ser ciudadano mexicano, en ejercicio de sus derechos políticos y civiles;
+
+II. Gozar de buena fama y solvencia moral;
+
+III. Ser residente del Estado de México;
+
+IV. Contar con estudios académicos mínimos de licenciatura o nivel superior,
+
+V. No estar inhabilitado por resolución firme para el desempeño de sus funciones públicas;
+
+VI. Aprobar el proceso de evaluación de control de confianza.
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 53.
+
+Los servidores públicos deberán denunciar por escrito al órgano de control interno de su dependencia, organismo auxiliar o fideicomiso público, los hechos que a su juicio impliquen incumplimiento de obligaciones de los servidores públicos sujetos a su dirección.
+
+El órgano de control interno de la dependencia, organismo auxiliar o fideicomiso público, determinará si existe o no responsabilidad administrativa, e impondrá las sanciones correspondientes en su caso.
+
+El superior jerárquico, enviará a la secretaría, copia de las denuncias cuando se trate de infracciones graves, o en su concepto, por la naturaleza de los hechos denunciados, la Secretaría deba conocer el caso o participar en las investigaciones.
+
+Tratándose de denuncias en contra de los servidores públicos de los poderes Legislativo y Judicial, o de los municipios, las mismas se presentarán ante sus respectivos órganos competentes para determinar la responsabilidad e imponer la sanción que proceda.
+
+###### Artículo 54.
+
+La Secretaría aplicará las sanciones correspondientes a los titulares y a los servidores públicos adscritos a los órganos de control interno de las dependencias, organismos auxiliares y fideicomisos en su caso, cuando éstos incurran en actos u omisiones que impliquen responsabilidad administrativa.
+
+###### Artículo 55.
+
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 1998)
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 56.
+
+El superior jerárquico o el órgano de control interno de la dependencia, al tener conocimiento de hechos o elementos que impliquen responsabilidad penal de los servidores públicos, darán vista de ellos inmediatamente a la autoridad competente para conocer de los mismos.
+
+###### Artículo 57.
+
+Cuando por motivo de las funciones que realice la Secretaría, resultare responsabilidad de servidores públicos, informará de ello al superior jerárquico para que proceda a su determinación y sanción disciplinaria si fuera de su competencia. En tratándose de responsabilidad mayor cuyo conocimiento sólo compete a la Secretaría, está conocerá directamente del asunto, informando al superior jerárquico y al órgano de control interno en su caso, para que coadyuven en el procedimiento de determinación de responsabilidades.
+
+En los casos de que se trate de irregularidades en los supuestos a que se refiere el artículo 72 de esta Ley, se estará a sus disposiciones.
+
+###### Artículo 58.
+
+La Secretaría y el superior jerárquico informando previamente a ésta, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor, y el daño causado no exceda de doscientas veces el salario mínimo diario vigente en la capital del Estado.
+
+Lo anterior, es aplicable a los Poderes Judicial y Legislativo, como también a los Ayuntamientos a través de sus órganos competentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 59.
+
+Las sanciones administrativas disciplinarias se impondrán mediante el siguiente procedimiento:
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+I. El procedimiento administrativo disciplinario se inicia cuando se notifica al presunto responsable el oficio por el que se le da a conocer el lugar, día y hora en que se realizará la audiencia, la responsabilidad o responsabilidades que se le imputen y su derecho a ofrecer pruebas y alegar en la misma, por si o por medio de defensor. A la audiencia, podrá asistir el representante de la dependencia de adscripción que para tal efecto se designe.
+
+Entre la fecha de la citación y la de la audiencia, deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+En el desahogo de la garantía de audiencia, se podrá interrogar al servidor público sobre todos los hechos y circunstancias que hayan motivado el procedimiento administrativo y sean conducentes para el conocimiento de los hechos;
+
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
+
+II. Al concluir la audiencia o dentro de los treinta días hábiles siguientes, se resolverá sobre la inexistencia de responsabilidad o se impondrán al infractor las sanciones administrativas correspondientes, notificándose la resolución dentro de las cuarenta y ocho horas siguientes al interesado, a su jefe inmediato, al representante designado por la Dependencia y al superior jerárquico.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+De existir responsabilidad administrativa de uno a varios servidores públicos, podrá determinarse la responsabilidad de los particulares, cuando hayan participado con los servidores públicos en las irregularidades que determinaron la responsabilidad resarcitoria por daños, perjuicios o beneficios obtenidos indebidamente en detrimento del erario estatal o municipal, quienes tendrán el derecho de comparecer durante el procedimiento e interponer los recursos previstos en la ley.
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+III. Si de la audiencia se desprende que no existen elementos suficientes para resolver, se actuará en consecuencia, si se advierten elementos que impliquen la configuración de otras causales de responsabilidad administrativa con cargo al presunto responsable, otros servidores públicos o personas, se podrá disponer la práctica de investigaciones y citar para otra u otras audiencias, notificando en ese momento al presunto responsable las nuevas infracciones administrativas que se le atribuyan y en su caso, a los otros presuntos responsables, para continuar con el procedimiento.
+
+Iniciado el procedimiento administrativo y de existir elementos suficientes que determinen un daño o beneficio indebido en detrimento del erario estatal o municipal, la autoridad ejecutora del posible crédito fiscal a solicitud de la Secretaría o del órgano de control interno podrá trabar embargo precautorio para asegurar la reparación del daño o perjuicio causado, pero en todos los casos el depositario será el presunto responsable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+
+IV. En cualquier momento, previo o posterior al citatorio a que se refiere la fracción I, se podrá determinar, tratándose de servidores públicos, la suspensión temporal de los presuntos responsables de su cargo, empleos o comisiones, cuando causen perjuicio a la administración pública, si así conviene para la conducción o continuación de las investigaciones. Esta medida cautelar no será menor a tres días ni mayor a treinta días naturales y surtirá sus efectos desde el momento en que sea notificada al interesado o interesada.
+
+La suspensión temporal a que se refiere el párrafo anterior, interrumpe los efectos del acto que haya dado origen al empleo, cargo o comisión, y regirá desde el momento en que sea notificada al interesado o éste quede enterado de la resolución por cualquier medio.
+
+La suspensión cesará, cuando así lo resuelva la autoridad instructora, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere este artículo.
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+Si los servidores públicos suspendidos temporalmente, no resultaren responsables de la falta que se les atribuye, serán restituidos en el goce de sus derechos y se les cubrirán íntegramente las percepciones que debieron recibir durante el tiempo de la suspensión dictada por el órgano competente, por el superior jerárquico.
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+Se requerirá autorización del Gobernador del Estado o del H. Ayuntamiento para dicha suspensión, cuando el nombramiento del servidor público de que se trate hubiese sido realizado por éstos, igualmente se requerirá autorización de la Legislatura, o en su caso de la Diputación Permanente, si dicho nombramiento requirió ratificación de estás, en los términos de la Constitución Política del Estado.
+
+###### Artículo 60.
+
+En los procedimientos disciplinarios ante el superior jerárquico o los órganos de control interno se observarán en lo conducente las prescripciones y formalidades a que se refieren los artículos precedentes, particularmente los del artículo 59 de esta Ley, excepto en la amonestación.
+
+Serán aplicables dichas prescripciones y formalidades a los procedimientos disciplinarios que se sigan ante los Poderes Judicial y Legislativo, sin perjuicio de lo que establezcan sus Leyes Orgánicas.
+
+Es también aplicable en lo conducente, lo dispuesto por este artículo, en tratándose de los procedimientos disciplinarios que se instruyan en los Ayuntamientos, respecto a los servidores públicos municipales.
+
+###### Artículo 61.
+
+El titular de la Dependencia, Organismo Auxiliar o Fideicomiso público que corresponda a la adscripción del servidor sujeto al procedimiento disciplinario, podrá designar un representante que asista a las diligencias, dándosele vista de todas las actuaciones.
+
+###### Artículo 62.
+
+Se levantará acta circunstanciada de todas las diligencias que se practiquen, recabando las firmas de quienes participen o intervengan en ellas, haciéndose los apercibimientos en términos de Ley a quienes declaran con falsedad ante la autoridad competente.
+
+###### Artículo 63.
+
+Las resoluciones y acuerdos que emitan los órganos disciplinarios durante el procedimiento al que se refiere este Capítulo, constarán por escrito.
+
+Las resoluciones imponiendo sanciones se inscribirán en un registro que llevará la Secretaría, particularmente las de inhabilitación.
+
+> <small>(REFORMADO, G.G. 11 DE ENERO DE 1995)</small>
+
+###### Artículo 64.
+
+Los Poderes Ejecutivo, Legislativo y Judicial, los ayuntamientos, organismos auxiliares y fideicomisos públicos, deberán solicitar por escrito a la Secretaría informes sobre la existencia de registro de inhabilitación de las personas que pretendan desempeñar un empleo, cargo o comisión en el servicio público.
+
+La contravención a lo dispuesto en el párrafo anterior, será causa de responsabilidad administrativa, y el nombramiento o contrato que se haya realizado quedará sin efectos.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+La Secretaría, con base en el registro de sanciones podrá informar sobre la existencia de estas, diversas a la inhabilitación.
+
+> <small>(REFORMADO, G.G. 28 DE JUNIO DE 2002)</small>
+
+###### Artículo 65.
+
+Contra los actos y resoluciones administrativas que dicten o ejecuten las autoridades competentes, en aplicación de la presente ley, los particulares afectados tendrán la opción de interponer el recurso de inconformidad ante la propia autoridad que emitió el acto, o el Juicio Contencioso Administrativo, de conformidad con el Código de Procedimientos Administrativos ante el Tribunal de lo Contencioso Administrativo del Estado de México.
+
+El Juicio Contencioso Administrativo no procederá en contra de los actos y resoluciones que emitan o ejecuten los Poderes Legislativo y Judicial, sus órganos y dependencias.
+
+###### Artículo 66.
+
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
+
+###### Artículo 67.
+
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 68.
+
+Las sanciones administrativas de amonestación, la económica y las responsabilidades resarcitorias, se ejecutarán al quedar firme la resolución y se llevarán a cabo de inmediato en los términos que disponga. La suspensión, destitución o inhabilitación se ejecutarán al notificarse la resolución y se considerarán de orden público.
+
+Las sanciones económicas que se impongan, constituirán créditos fiscales del Erario Estatal o Municipal en su caso, se harán efectivas mediante el procedimiento económico coactivo de ejecución, tendrán la prelación prevista para dichos créditos y se sujetarán en todo a las disposiciones fiscales aplicables en la materia.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+El superior jerárquico será competente para ejecutar las resoluciones administrativas por las que se impongan las sanciones de amonestación, suspensión y destitución.
+
+> <small>(REFORMADO, G.G. 11 DE NOVIEMBRE DE 2011)</small>
+
+La sanción de inhabilitación se ejecutará por la Secretaría, el Consejo de la Judicatura, el Presidente de la Junta de Coordinación Política o los presidentes municipales.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+Las sanciones impuestas que no se ejecuten por el superior jerárquico, en el ámbito del Poder Ejecutivo, la Secretaría llevará a cabo su ejecución; la falta de cumplimiento a la resolución, será causa de responsabilidad y se iniciará procedimiento administrativo en contra del superior jerárquico o del servidor público que le correspondiere llevar a cabo su ejecución.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+Cuando por resolución firme, un servidor público resultare absuelto y haya lugar a la restitución de derechos o indemnización, la Secretaría supervisará que el superior jerárquico del servidor cumpla con la resolución.
+
+###### Artículo 69.
+
+Cuando durante la instrucción del procedimiento relativo, el servidor público confesare su responsabilidad, se procederá de inmediato a dictar la resolución, salvo en el caso de que la autoridad que conozca del procedimiento disponga la recepción de pruebas para acreditar la veracidad de la confesión. De aceptarse la plena validez probatoria de la confesión, se impondrán dos tercios de la sanción aplicable si es de naturaleza económica, salvo en el caso de causación de daños y perjuicios a la Hacienda Pública que deberá ser suficiente para indemnizar o resarcir los daños y perjuicios causados. En todo caso, deberá restituirse cualquier bien o producto que se hubiese percibido con motivo de la infracción.
+
+###### Artículo 70.
+
+Para el cumplimiento de las atribuciones que les confiere esta Ley, las autoridades podrán emplear los siguientes medios de apremio;
+
+I. Sanción económica de hasta veinte veces el salario mínimo diario vigente en la Capital del Estado;
+
+II. Auxilio de la fuerza pública.
+
+Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la Legislación Penal.
+
+###### Artículo 71.
+
+Las facultades del superior jerárquico y de la Secretaría para imponer las sanciones que esta Ley prevé, se sujetará a lo siguiente:
+
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+I. Prescribirán en un año, si la sanción administrativa disciplinaria a imponer es de amonestación, suspensión del empleo, cargo o comisión, la destitución y la inhabilitación, cuando no se impongan con una sanción económica o se finque una responsabilidad resarcitoria;
+
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+II. Prescribirán en tres años:
+
+a) Para imponer la sanción económica, que establece el artículo 49 fracción IV de esta Ley;
+
+b) Para imponer la sanción pecuniaria por omisión o extemporaneidad, en la presentación de la manifestación de bienes en los plazos establecidos;
+
+c) Para fincar responsabilidad administrativa resarcitoria;
+
+d) Para imponer la amonestación, suspensión, destitución e inhabilitación, si de la responsabilidad se deriva que existe beneficio obtenido daño o perjuicio causado a los fondos, valores, recursos económicos del Estado, municipios, o de aquellos concertados o convenidos con la federación y los municipios o al patrimonio de los organismos auxiliares y fideicomisos públicos.
+
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2015)</small>
+
+e) Para imponer la sanción derivada del Conflicto de Intereses.
+
+El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiera incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo.
+
+La prescripción se interrumpirá por cada trámite que las autoridades realicen y le sea notificado al presunto responsable.
+
+En todo momento la Secretaría o el superior jerárquico podrán hacer valer la prescripción de oficio.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Asimismo, la prescripción se interrumpirá durante la tramitación del proceso administrativo ante el Tribunal de lo Contencioso Administrativo que se formule en contra de las resoluciones que se dicten en términos de la presente Ley. Para estos efectos, la interrupción del plazo de prescripción se inicia con la interposición de la demanda y concluye cuando se notifique a la autoridad administrativa el auto por el que se declara que ha causado ejecutoria la sentencia definitiva.
+
+### CAPITULO IV. Del Fincamiento de Responsabilidades Administrativas Resarcitorias
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 72.
+
+Las responsabilidades administrativas resarcitorias, tendrán por objeto reparar, indemnizar o resarcir los daños y perjuicios que se causen a la Hacienda Pública Estatal o Municipal, así como al patrimonio de los organismos auxiliares y fideicomisos públicos, mismas que se fijarán en cantidad líquida exigiéndose se solventen de inmediato.
+
+Estas responsabilidades se harán efectivas mediante el procedimiento administrativo de ejecución, y en su carácter de créditos fiscales, tendrán la prelación que corresponda, en los términos de los ordenamientos fiscales aplicables.
+
+Tratándose de servidores públicos, además de lo dispuesto por este artículo procederá en su caso, la aplicación de sanciones administrativas disciplinarias en los términos del Capítulo Tercero de este Título.
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 73.
+
+La Secretaría, en funciones de auditoría, fiscalización, control, vigilancia e inspección como instrumentos y mecanismos de que dispone en el ejercicio de sus atribuciones, actuando directamente o a través de los órganos de control interno, podrá fincar pliegos preventivos de responsabilidad, cuando detecte irregularidades por actos u omisiones de servidores públicos en el manejo, decisión, autorización, recepción, aplicación, administración de fondos, valores y de recursos económicos del Estado o de aquellos concertados o convenidos con la federación y los municipios, que se traduzcan en daños y perjuicios estimables en dinero, causados a la Hacienda Pública del Estado, del municipio o al patrimonio de sus organismos auxiliares y fideicomisos públicos.
+
+La Secretaría se sujetará a lo dispuesto por el artículo 41 de esta Ley.
+
+La Secretaría es competente para fincar responsabilidades administrativas resarcitorias a presidentes, tesoreros y demás servidores públicos municipales, en los términos del párrafo anterior cuando se trate de fondos, valores y recursos económicos del Estado o de los concertados o convenidos con la federación y los municipios.
+
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 74.
+
+Las responsabilidades a que alude el artículo anterior, se fincarán:
+
+I. A los servidores públicos que hayan cometido las irregularidades administrativas;
+
+II. A los servidores que por la índole de sus funciones hayan omitido la revisión o autorizado los actos irregulares; y
+
+III. A los proveedores, contratistas o particulares que por virtud de los actos o contratos que realicen con el Estado, se afecten los recursos económicos a que se refiere el artículo anterior.
+
+Los presuntos responsables garantizarán con el embargo precautorio en forma individual el importe de los pliegos preventivos, a reserva de la calificación o constitución definitiva de la responsabilidad.
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 75.
+
+El fincamiento o constitución definitiva de responsabilidades que regula este capítulo, será resuelto por la Secretaría o por el órgano de control interno correspondiente.
+
+Para el fincamiento que alude el párrafo anterior deberá estarse al procedimiento administrativo que establece el artículo 59 de esta ley ya sea que las confirme, modifique o cancele.
+
+Son aplicables estas disposiciones a los servidores públicos de los poderes Legislativo y Judicial y de los municipios, observándose lo dispuesto en el artículo 60 de esta ley.
+
+###### Artículo 76.
+
+La Secretaría podrá dispensar las responsabilidades relativas en los términos del artículo 58 de esta Ley.
+
+La propia Secretaría podrá cancelar los créditos derivados del fincamiento de responsabilidades que no excedan de doscientas veces el salario mínimo diario vigente en la capital del Estado, por incosteabilidad práctica de cobro.
+
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+###### Artículo 77.
+
+Las responsabilidades previstas en este capítulo tendrán el carácter de créditos fiscales y las facultades de la autoridad para hacerlas exigibles prescriben en términos de las leyes de la materia.
+
+## TITULO CUARTO
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 30 DE ABRIL DE 2015)</small>
+
+### CAPITULO UNICO. Del Registro Patrimonial y de Intereses de los Servidores Públicos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2015)</small>
+
+###### Artículo 78.
+
+La Legislatura del Estado y el Consejo de la Judicatura del Estado llevarán el Registro de la Manifestación de Bienes y la Declaración de Intereses de sus servidores públicos y la Secretaria el de los servidores públicos del Poder Ejecutivo, de conformidad con esta ley y disposiciones aplicables.
+
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 1994)</small>
+
+Para los efectos del registro, cada Poder determinará de conformidad a su legislación, los órganos encargados de ejercer dichas atribuciones, así como los sistemas que se requieran para tal propósito.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2015)</small>
+
+###### Artículo 79.
+
+Tienen la obligación de presentar Manifestación de Bienes y Declaración de Intereses, ante los órganos competentes en la forma y plazos establecidos por la presente Ley, y bajo protesta de decir verdad.
+
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
+
+I.- En la Legislatura del Estado: Los Diputados, el Oficial Mayor, todo el personal de la Contaduría General de Glosa y Jefes de Departamentos hasta Directores;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+II. En el Poder Ejecutivo: los servidores públicos de la administración pública central y del sector auxiliar, desde jefes de departamento hasta los titulares de las dependencias, incluyendo al Gobernador del Estado; Notarios Públicos, Defensores de Oficio y aquellos que manejen, recauden o administren fondos y recursos estatales, municipales o federales y en la propia Secretaría todos sus servidores públicos.
+
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 1994)</small>
+
+En la Procuraduría General de Justicia: Los agentes del Ministerio Público, sus Secretarios, los Policías Judiciales, los Peritos, Jefes de Departamento hasta su Titular.
+
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 1994)</small>
+
+En los Tribunales Administrativos y del Trabajo: Los Magistrados, Jueces, Representantes de Gobierno en las Juntas, Secretarios, Actuarios y Asesores Comisionados.
+
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 1994)</small>
+
+En los Ayuntamientos: Jefes de Departamento o sus equivalentes a la Administración Pública Estatal, Secretarios, Tesoreros, Regidores, Síndicos, Presidentes, así como todos aquellos que manejen, recauden o administren fondos o recursos estatales, municipales o federales.
+
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
+
+III.- En el Tribunal Superior de Justicia: Los Magistrados, Jueces, Secretarios Judiciales, Ejecutores y Notificadores, de cualquier categoría o designación, los Jefes de Departamento hasta los Titulares, así como todos aquellos que manejen, recauden o administren fondos o recursos estatales, municipales o federales.
+
+Esta misma obligación la tendrán los servidores públicos que tengan a su cargo, una o más de las funciones siguientes:
+
+a).- Dirección, supervisión, inspección, auditoría, seguridad, vigilancia, custodia, fiscalización, procuración y administración de justicia y readaptación social;
+
+b).- Representación legal Titular o delegada para realizar actos de dominio, de administración general o de ejercicio presupuestal;
+
+c).- Manejo de fondos estatales o municipales;
+
+d).- Custodia de bienes y valores;
+
+e).- Atención o resolución de trámites directos con el público para efectuar pagos de cualquier índole para obtener licencias o autorizaciones;
+
+f).- Adquisición o comercialización de bienes y servicios; y
+
+g).- Efectuar pagos de cualquier índole.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2015)</small>
+
+Los titulares de las dependencias del Poder Ejecutivo de los organismos auxiliares, empresas de participación estatal o municipal o de fideicomisos públicos, precisarán durante el mes de febrero de cada año, cuales son los servidores públicos obligados a presentar Manifestación de Bienes y Declaración de Intereses, por tener a cargo una o más de las funciones antes señaladas.
+
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 1994)</small>
+
+En las mismas circunstancias, procederán además en el Poder Legislativo y Judicial y en los Ayuntamientos; así como los Tribunales Administrativos y del Trabajo, por conducto de sus respectivos Presidentes.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2015)</small>
+
+Asimismo, deberán presentar Manifestación de Bienes y Declaración de Intereses, los demás servidores públicos que determinen el Secretario de la Contraloría y el Procurador General de Justicia del Estado, mediante disposiciones generales debidamente motivadas y fundadas.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2015)</small>
+
+El servidor público que en su Manifestación de Bienes o en su Declaración de Intereses faltare a la verdad en relación con lo que es obligatorio manifestar en términos de esta ley, será suspendido y cuando su importancia lo amerite, derivado de las inconsistencias detectadas, será sujeto de las responsabilidades disciplinarias y resarcitorias y en su caso destituido e inhabilitado de tres meses a tres años.
+
+###### Artículo 80.
+
+La Manifestación de Bienes deberá presentarse en los siguientes plazos:
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2015)</small>
+
+I. Dentro de los sesenta días naturales siguientes a la toma de posesión o alta del empleo, cargo o comisión:
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2015)</small>
+
+II. Dentro de los sesenta días naturales siguientes a la conclusión o baja del empleo, cargo o comisión; y
+
+III. Durante el mes de mayo de cada año.
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+Si transcurridos los plazos a que hacen referencia las fracciones I y III, no se hubiese presentado la manifestación correspondiente, sin causa justificada, se aplicará al servidor público, previa instancia sumaria que conceda garantía de audiencia al omiso o extemporáneo, una sanción pecuniaria conforme al artículo 49 fracción VII, previniéndosele en el primer caso, que de no rendir su manifestación dentro de los quince días naturales siguientes a la fecha de notificación del citatorio será separado de su cargo, previa notificación que de este hecho haga la Secretaría al Superior Jerárquico o a los titulares de las dependencias o entidades, para que proceda en los términos de la presente Ley.
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+Para el caso de que se omita la manifestación contemplada en la fracción II, la Secretaría procederá a la investigación del patrimonio del infractor en términos del artículo 83 de esta Ley, sin perjuicio de aplicar una sanción pecuniaria, conforme al artículo 49 fracción VII o inhabilitarlo por un período de uno a seis años o ambas sanciones.
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+Igual sanción pecuniaria se aplicará cuando la presentación de esta manifestación se haga de manera extemporánea.
+
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2015)</small>
+
+Artículo 80 bis.- El Conflicto de Intereses es la incompatibilidad entre las obligaciones públicas y los intereses privados del servidor público, ocurre cuando lo relacionado a un interés público, tiende a estar indebidamente influenciado por un interés ajeno de tipo económico o personal guiando el servidor público su actuación en beneficio propio o de un tercero.
+
+La Declaración de Intereses deberá de presentarse conforme a lo siguiente:
+
+I. Dentro de los sesenta días naturales siguientes a la toma de posesión o alta del empleo, cargo o comisión.
+
+II. Actualizarse durante el mes de mayo de cada año.
+
+III. Al momento que se presente un Conflicto de Intereses, con motivo del empleo cargo o comisión.
+
+Si transcurridos los plazos a que hacen referencia las fracciones I y II no se hubiese presentado la Declaración de Intereses correspondiente sin causa justificada, se aplicará al servidor público omiso o extemporáneo, previa instancia sumaria que conceda garantía de audiencia, una sanción pecuniaria en términos de la presente Ley.
+
+Para el caso de la fracción I, además de la sanción pecuniaria, se prevendrá al presunto infractor que de no rendir su declaración dentro de los quince días naturales siguientes a la fecha de notificación del citatorio se iniciara el procedimiento correspondiente para su separación del cargo, previa notificación que de este hecho haga la Secretaría al superior jerárquico o a los titulares de las dependencias o entidades, para que proceda en los términos de la presente Ley.
+
+Para el caso de que se omita la declaración contemplada en la fracción I, la Secretaría procederá a la investigación del patrimonio del infractor en términos de esta Ley, sin perjuicio de aplicar la sanción que corresponda, previo agotamiento de las fases del procedimiento administrativo.
+
+También se iniciará procedimiento administrativo y, en su caso, se sancionará cuando sin causa justificada la presentación de la declaración a que hace mención el párrafo anterior se haga de manera extemporánea.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2015)</small>
+
+###### Artículo 81.
+
+La Secretaría expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la Manifestación de Bienes y la Declaración de Intereses, así como de los manuales e instructivos que señalarán lo que es obligatorio declarar.
+
+###### Artículo 82.
+
+En la Manifestación inicial y final de Bienes se señalarán los bienes inmuebles, con la fecha y valor de adquisición.
+
+En las Manifestaciones anuales se señalarán sólo las modificaciones al patrimonio, con fecha y valor de adquisición, en todo caso se indicará el medio por el que se hizo la adquisición.
+
+Tratándose de bienes muebles, la Secretaría decidirá, mediante acuerdo general, las características que deba tener la manifestación.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+La Secretaría podrá realizar análisis contable-financieros de las manifestaciones de bienes presentadas por los servidores públicos, a efecto de determinar la veracidad de su contenido y existencia de un probable incremento en su patrimonio. Si del análisis realizado resultaren irregularidades, iniciará el procedimiento administrativo conforme al artículo 59 de este ordenamiento.
+
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2015)</small>
+
+###### Artículo 82 Bis.
+
+La Secretaría determinará anualmente el universo de servidores públicos que serán sujetos de la revisión sobre la existencia de conflictos de intereses, incluyendo las que se deriven de los procedimientos de responsabilidades administrativas.
+
+Para efectos de lo anterior, se iniciara el periodo de información previa siguiente:
+
+I. Verificación de las manifestaciones de bienes y declaraciones de intereses:
+
+a) Se integrarán las manifestaciones de bienes y las declaraciones de intereses presentadas por el servidor público durante el ejercicio de su cargo empleo o comisión, y hasta por un periodo de tres años después de haberlo concluido.
+
+b) Se solicitará a las dependencias y organismos auxiliares de la Administración Pública Estatal, ayuntamientos, organismos municipales y otras autoridades competentes, información relacionada con los bienes inmuebles, muebles incluyendo a las sociedades mercantiles u otras entidades privadas o particulares que permitan obtener información sobre estos tipos de registros o datos vinculados a nombre del servidor público o de las personas con quienes tenga parentesco consanguíneo hasta el cuarto grado, por afinidad o civil, así como de sus ingresos y cualquier otra percepción.
+
+Para este fin la Secretaría podrá realizar esta misma solicitud en otras entidades federativas, así como del extranjero, en colaboración con las autoridades mexicanas legalmente facultadas.
+
+II. Informe:
+
+La Secretaría llevará a cabo un análisis y valoración de las pruebas allegadas y emitirá un informe donde determine la presunta existencia o inexistencia del Conflicto de Intereses, en el que se harán constar, en su caso, las observaciones detectadas.
+
+III. Periodo de aclaración:
+
+Se requerirá al servidor para que en un término de diez días hábiles contados a partir de la notificación, formule por escrito las aclaraciones o aporte las pruebas que considere en relación al informe de la Secretaría sobre el conflicto de intereses.
+
+IV. Determinación de presuntas responsabilidades:
+
+La Secretaría, emitirá la determinación cumpliendo con los requisitos dispuestos en el Código Administrativo del Estado de México, y en su caso iniciará los mecanismos e instrumentos para determinar alguna otra responsabilidad administrativa disciplinaria y resarcitoria atendiendo las obligaciones de coordinación que se deriven del establecimiento del Sistema Anticorrupción del Estado de México.
+
+###### Artículo 83.
+
+Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, la Secretaría podrá ordenar, fundando y motivando su acuerdo la práctica de visitas de inspección y auditorías. Cuando estos actos requieran orden de autoridad judicial, la propia Secretaría formulará ante ésta, la solicitud correspondiente.
+
+Previamente a la inspección o al inicio de la auditoría, se dará cuenta al servidor público de los hechos que motivan estas actuaciones y se le presentarán las actas en que aquellos consten, para que exponga lo que a su derecho convenga.
+
+###### Artículo 84.
+
+El servidor público a quien se practique visita de investigación o auditoría podrá interponer inconformidad ante la Secretaría contra los hechos contenidos en las actas, mediante escrito que deberá dentro de los cinco días hábiles siguientes a la conclusión de aquellas, en el que se expresarán los motivos de la inconformidad y ofrecerá las pruebas que considere necesario acompañar o rendir dentro de los quince días hábiles siguientes a la presentación del recurso.
+
+Todas las actas que se levanten con motivo de la visita deberán ir firmadas por el servidor público y los testigos que para tal efecto designe. Si el servidor público o los testigos se negaren a firmar, el visitador lo hará constar, sin que estas circunstancias afecten el valor probatorio que, en su caso, posea dicho documento.
+
+###### Artículo 85.
+
+Serán sancionados en los términos que disponga el Código Penal los servidores públicos que incurran en enriquecimiento ilícito.
+
+###### Artículo 86.
+
+Para los efectos de esta Ley y del Código Penal, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que acredite que estos bienes los obtuvieron por sí mismos y por motivos ajenos al servicio público.
+
+###### Artículo 87.
+
+Para los efectos de la persecución penal por enriquecimiento ilícito, la Secretaría hará al Ministerio Público, en su caso, declaratoria de que el servidor sujeto a la investigación respectiva, en los términos de la presente Ley, no justificó la procedencia lícita del incremento sustancial de su patrimonio, de los bienes adquiridos o de aquellos sobre los que se conduzca como dueño, durante el tiempo en su encargo o por motivos del mismo.
+
+###### Artículo 88.
+
+Los Poderes Judicial y Legislativo, y los Ayuntamientos, actuarán en lo conducente respecto a sus servidores conforme a las disposiciones que se establecen en el presente capítulo.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 5 DE ENERO DE 1994)</small>
+
+###### Artículo 89.
+
+Para los efectos de esta Ley, se considera obsequio todo bien que reciban con motivo de sus funciones los servidores públicos, su cónyuge o parientes consanguíneos hasta el cuarto grado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 1994)</small>
+
+###### Artículo 90.
+
+Se prohibe que los servidores públicos reciban para sí o para su cónyuge o parientes consanguíneos hasta el cuarto grado, así como para los padres y hermanos de su cónyuge, obsequios de personas respecto de las cuales en razón de la función que tengan encomendada, hayan tomado o deban tomar alguna decisión de trámite, despacho o resolución, con el ánimo de beneficiar indebidamente a éstos, dentro de un año anterior a la fecha del obsequio o dentro de un año posterior a la misma.
+
+Los obsequios que se hagan de acuerdo con los supuestos anteriores se entenderán cedidos al patrimonio del Estado, al Municipio o al de los organismos auxiliares en su caso, debiendo los servidores públicos hacer entrega de ellos con anterioridad a la decisión a que se refiere el primero de los párrafos de este artículo o dentro de los diez días siguientes a su recepción, según proceda.
+
+Si el servidor público incumple con lo dispuesto en el párrafo anterior, su conducta se castigará como cohecho y será sancionado en los términos de la Legislación Penal.
+
+Los obsequios que se hagan a los servidores públicos que no se encuentren en las hipótesis de este dispositivo, deberán ser declarados por éstos en la manifestación anual de bienes cuando el valor unitario de cada obsequio exceda a treinta días de salario mínimo vigente en la capital del Estado.
+
+> <small>(REFORMADO, G.G. 28 DE JUNIO DE 2002)</small>
+
+###### Artículo 91.
+
+En todo lo relacionado al procedimiento administrativo que se regula en los Títulos Tercero y Cuarto de esta ley, son aplicables, en lo conducente, supletoriamente, las disposiciones relativas del Código de Procedimientos Administrativos del Estado de México.
+
+## TITULO QUINTO. De la remoción de los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo por mala conducta
+
+> <small>(REFORMADO, G.G. 3 DE MARZO DE 1997)</small>
+
+###### Artículo 92.
+
+El Gobernador y el Consejo de la Judicatura están facultados, de conformidad con los artículos 77 fracción XV y 133 de la Constitución Política del Estado Libre y Soberano de México, para solicitar ante la Legislatura, o en su caso, ante la Diputación Permanente, la destitución de los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, cuando hayan incurrido en mala conducta.
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 93.
+
+Para los efectos del artículo anterior, el Gobernador del Estado o el Consejo de la Judicatura, en su caso, comunicará a la Legislatura, la petición concreta y fundada de destitución del magistrado y acompañará las constancias o datos que demuestren su mala conducta.
+
+###### Artículo 94.
+
+Recibida la comunicación por la Legislatura o la Diputación Permanente, en su caso, le pedirá un informe al Magistrado acusado, quien deberá rendirlo dentro de los tres días hábiles siguientes a partir de aquél en que reciba la comunicación. Este término podrá prorrogarse por un lapso prudente, que en ningún caso excederá de nueve días hábiles.
+
+###### Artículo 95.
+
+Al rendir su informe, el Magistrado de que se trate, podrá exponer sus defensas apoyándolas con las pruebas que estime pertinentes.
+
+###### Artículo 96.
+
+La falta de informe por parte del Magistrado, será presunción suficiente para que se declare fundada la petición de destitución, siempre que exista constancia de que se solicito el informe y que la falta del mismo no esté apoyada en razones que la justifiquen.
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 97.
+
+Recibido el informe o habiendo transcurrido el término señalado sin haberlo recibido, la Legislatura, sin más trámite declarará por mayoría absoluta del número total de sus integrantes si es o no fundada la petición del Gobernador del Estado o del Consejo de la Judicatura, tomando en consideración las pruebas y argumentos, tanto de estos, como del magistrado acusado, resolviendo lo procedente. La resolución deberá dictarse dentro del término de treinta días naturales a partir de la fecha en que la Legislatura recibió la comunicación del Gobernador del Estado o del Consejo de la Judicatura.
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 98.
+
+Si la resolución de la Legislatura, declara infundada la petición del Gobernador del Estado o del Consejo de la Judicatura, así se los comunicará a estos y al magistrado acusado, al día siguiente de haber sido emitida y ordenará el archivo del expediente como asunto concluido.
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 99.
+
+Si la resolución de la Legislatura, declara procedente la petición del Gobernador del Estado o del Consejo de la Judicatura, así lo comunicará a éstos y al Presidente del Tribunal de lo Contencioso Administrativo, en su caso, y se hará saber al magistrado acusado al día siguiente del fallo, que queda privado del cargo y se procederá a designar al magistrado que lo sustituya.
+
+## TITULO SEXTO. De la Indemnización o Reparación de Daños de los Servidores Públicos
+
+###### Artículo 100.
+
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
+
+###### Artículo 101.
+
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
+
+###### Artículo 102.
+
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
+
+T R A N S I T O R I O S
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente del de su publicación en la «Gaceta del Gobierno».
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, de fecha 11 de abril de 1984 y publicada en la «Gaceta del Gobierno» número 81, del 30 de abril del mismo año y se derogan todas aquellas disposiciones de igual o menor rango que se oponga a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Las Dependencias y los Organismos Auxiliares y Fideicomisos a que se refiere el artículo 45 de la Ley, establecerán en un plazo no mayor de tres meses, contados a partir de la entrada en vigor de la misma, módulos específicos de quejas y denuncias.
+
+###### ARTICULO CUARTO.
+
+El Tribunal Superior de Justicia y la Legislatura, establecerán los órganos y sistemas a que hace referencia el artículo 47 de la Ley, en un plazo no mayor de seis meses contados a partir de la entrada en vigor del propio ordenamiento. Lo propio harán los Ayuntamientos del Estado.
+
+###### ARTICULO QUINTO.
+
+Por lo que respecta a las Manifestaciones de Bienes efectuadas con anterioridad a la vigencia de esta Ley, se estará a lo dispuesto en las normas vigentes en el momento de formularse dichas Manifestaciones.
+
+###### ARTICULO SEXTO.
+
+Los procedimientos para determinar responsabilidades administrativas que se encuentren radicados y en trámite ante el Tribunal Contencioso Administrativo, serán resueltos de acuerdo con la Ley de Responsabilidades que se abroga.
+
+LO TENDRA ENTENDIDO EL GOBERNADOR DEL ESTADO, HACIENDO QUE SE PUBLIQUE Y SE CUMPLA.
+
+Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, Méx., a los cinco días del mes de septiembre de mil novecientos noventa. Diputado Presidente.- C. Ing. Carlos Isaías Pérez Arizmendi; Diputado Secretario.- C. Lic. Gabriel Ramos Millán; Diputado Secretario.- C. Lic. Elia E. Barrera de Macías; Dip. Prosecretario.- C. Profr. Honorato Ortíz Garibay; Diputado Prosecretario.- C. Mario Edgar Cobos Pérez.- Rúbricas.
+
+Por tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
+
+Toluca de Lerdo, Méx., a 11 de septiembre de 1990.
+
+EL GOBERNADOR DEL ESTADO
+
+LIC. IGNACIO PICHARDO PAGAZA
+
+(Rúbrica)
+
+EL SECRETARIO DE GOBIERNO
+
+LIC. HUMBERTO LIRA MORA
+
+(Rúbrica)
+
+EL SECRETARIO DE LA CONTRALORIA
+
+LIC. JORGE LOPEZ OCHOA
+
+(Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 5 DE ENERO DE 1994.
+
+PRIMERO.- Publíquese el presente Decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+TERCERO.- El Tribunal Superior de Justicia y la Legislatura, establecerán los órganos, sistemas, registros, formatos y demás elementos necesarios para ejercer las atribuciones que se les confieren, en virtud del presente decreto, en un plazo que no excederá de sesenta días hábiles contados a partir de la entrada en vigor del presente ordenamiento.
+
+CUARTO.- La Secretaría de la Contraloría del Estado, entregará a las autoridades competentes todas las Manifestaciones de Bienes que haya recibido hasta antes de la entrada en vigor del presente ordenamiento.
+
+QUINTO.- Los asuntos y procesos iniciados con anterioridad a la vigencia de este Decreto, se sujetarán, hasta su conclusión, a las disposiciones que por el mismo se reforman o derogan.
+
+G.G. 11 DE ENERO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la Gaceta del Gobierno.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor el día de su publicación en la Gaceta del Gobierno.
+
+G.G. 7 DE FEBRERO DE 1997.
+
+CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS
+
+SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS TRANSITORIOS QUE SE RELACIONAN CON EL PRESENTE DECRETO
+
+###### ARTICULO SEGUNDO.
+
+Este Código entrará en vigor a los 30 días naturales siguientes al de su publicación en la "Gaceta del Gobierno".
+
+###### ARTICULO CUARTO.
+
+Se derogan los siguientes artículos: 50, 66, 67, y del 100 al 102 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+###### ARTICULO QUINTO.
+
+Se reforman los artículos... 65 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+G.G. 3 DE MARZO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 21 DE DICIEMBRE DE 1998.
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno"
+
+SEGUNDO.- Este decreto entrará en vigor el día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 28 DE JUNIO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 21 DE JULIO DE 2006.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO TERCERO.
+
+Se derogan las normas legales y reglamentarias de igual o menor jerarquía que sean contrarias al presente Decreto.
+
+REFORMADO, G.G. 14 DE SEPTIEMBRE DE 2006)
+
+###### ARTICULO CUARTO.
+
+Para la integración del Primer Consejo Consultivo de Valoración Salarial, la Legislatura deberá expedir la convocatoria correspondiente, a más tardar el día 30 del mes de septiembre del año 2006.
+
+G.G. 14 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+###### ARTICULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.G. 24 DE MARZO DE 2009.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 11 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial Gaceta del Gobierno.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 4 DE MAYO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 490 POR EL QUE SE REFORMA LA FRACCIÓN XXXII Y SE ADICIONA LA FRACCIÓN XXXIII AL ARTÍCULO 42 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las gestiones, procedimientos y demás actos que se encuentren en trámite en los depósitos vehiculares al momento de la entrada en vigor del presente Decreto, se concluirán de conformidad con las disposiciones jurídicas vigentes hasta ese momento.
+
+CUARTO.- En un plazo de treinta días hábiles siguientes a la entrada en vigor del presente Decreto, el Titular del Ejecutivo del Estado proveerá en la esfera administrativa el cumplimiento del mismo, expidiendo y en su caso, reformando las disposiciones reglamentarias respectivas.
+
+QUINTO.- Noventa días naturales a partir de la entrada en vigor de la presente reforma, todos los vehículos que los concesionarios tengan bajo su resguardo, por más de dos años, serán susceptibles de ser incluidos en el procedimiento de declaración de abandono para los efectos de enajenación previsto, por lo que deberán informar a la Secretaría del Transporte de tal situación, con excepción de los vehículos que tengan reporte de robo, números remarcados o alterados, porten placas de procedencia extranjera, los cuales deberán hacer del conocimiento al Ministerio Público para que determine lo procedente.
+
+SEXTO.- Los Oficiales Mediadores Conciliadores contarán con un plazo improrrogable de dos años siguientes a la entrada en vigor del presente Decreto, para certificarse por el Centro de Mediación, Conciliación y de Justicia Restaurativa del Poder Judicial del Estado de México.
+
+SÉPTIMO.- La Procuraduría General de Justicia del Estado de México en un plazo máximo de dos meses posteriores a la entrada en vigor del presente Decreto, depurará todos los vehículos que se encuentren a su disposición en los depósitos vehiculares y que por algún motivo sus propietarios, durante un año no los han reclamado, no se ha acreditado su propiedad, se encuentren remarcados; adicionalmente, revisarán las averiguaciones previas que se encuentren en reserva con la finalidad de determinar si ha operado la prescripción de la acción penal y en aquellas que se haya decretado el no ejercicio de la acción penal, con la finalidad de emitir la Declaratoria de abandono en favor del Estado en términos de la presente reforma.
+
+OCTAVO.- En un plazo no mayor a seis meses, la Procuraduría General de Justicia del Estado de México, establecerá un depósito vehicular en la Zona Oriente del Estado de México.
+
+NOVENO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en las presentes reformas.
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 495 POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 3 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan los ordenamientos jurídicos de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 12 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las autoridades en materia de agua, entregarán conjuntamente con el permiso, la tarifa autorizada para el año correspondiente a los permisionarios.
+
+CUARTO.- Dentro de los quince días naturales siguientes a la entrada en vigor del presente Decreto, las autoridades en materia de agua entregarán a los permisionarios de distribución de agua las tarifas autorizadas por el resto del año 2013, para ser exhibidas al consumidor en el camión cisterna.
+
+QUINTO.- El Gobernador y las autoridades del agua, en la esfera administrativa de su competencia, proveerán lo necesario para el debido cumplimiento del presente Decreto.
+
+SEXTO.- Los permisos o autorizaciones que amparan la distribución de agua en pipa, otorgados por las autoridades administrativas antes de la entrada en vigor del presente Decreto, tendrán validez hasta el 31 de diciembre del 2013, por lo que los particulares interesados en la distribución de agua en pipas para el año 2014, deberán solicitar el permiso y el dictamen de factibilidad correspondientes.
+
+SÉPTIMO.- Las autoridades en materia de agua, dentro de los quince días naturales a la entrada en vigor del presente Decreto, deberán nombrar a los servidores públicos responsables de supervisar y ejecutar las acciones de desinfección del agua.
+
+G.G. 22 DE ENERO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 14 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+CUARTO.- Los procedimientos o procesos que se hayan iniciado a la entrada en vigor del presente Decreto continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio, excepto las disposiciones relativas a la imposición de las sanciones de suspensión e inhabilitación, así como de la prescripción.
+
+G.G. 28 DE JUNIO DE 2014.
+
+PRIMERO. Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio. Lo anterior sin perjuicio de que se apliquen en lo conducente los plazos previstos en los artículos transitorios del presente Decreto.
+
+CUARTO. El personal del Instituto Electoral del Estado de México, que con motivo del presente Decreto deba ser objeto de cambios en su adscripción de trabajo, conservará sus derechos laborales.
+
+QUINTO. Los servidores del Instituto Electoral del Estado de México que sean incorporados al Servicio Profesional Electoral Nacional estarán sujetos a las determinaciones que en su momento expida el Instituto Nacional Electoral.
+
+SEXTO. El Consejo General del Instituto Electoral del Estado de México deberá adecuar sus documentos y demás reglamentación interna a lo previsto en este Decreto y en las demás disposiciones legales aplicables, a más tardar a los 90 días posteriores a la entrada en vigor del presente Decreto, salvo los plazos que establezcan otras disposiciones.
+
+SÉPTIMO. Los procedimientos administrativos, jurisdiccionales y de fiscalización relacionados con los partidos políticos, así como de sus militantes o simpatizantes, que el Instituto Electoral (sic) Estado de México y el Tribunal Electoral del Estado de México hayan iniciado o se encuentren en trámite a la entrada en vigor de este Decreto, se seguirán atendiendo de conformidad con las disposiciones jurídicas y administrativas que hayan estado vigentes al momento de su inicio.
+
+OCTAVO. El Ejecutivo del Estado y la Legislatura Local proveerán lo necesario para la ampliación del Presupuesto de Egresos del ejercicio fiscal corriente, en la esfera de su competencia, para el exacto cumplimiento de este Decreto.
+
+NOVENO. Se abroga la Ley Reglamentaria del Artículo 14 de la Constitución Política del Estado Libre y Soberano de México, publicada el 30 de agosto de 1995 en el periódico oficial "Gaceta del Gobierno".
+
+DÉCIMO. Se abrogo el Código Electoral del Estado de México, publicado el 2 de marzo de 1996 en el periódico oficial "Gaceta del Gobierno".
+
+DÉCIMO PRIMERO. Las averiguaciones previas, carpetas administrativas, procesos, recursos y sentencias que se refieran a hechos ocurridos antes de la entrada en vigor del presente Decreto, se sujetarán hasta su conclusión definitiva, a las disposiciones legales vigentes a la fecha en que acontecieron los hechos.
+
+DÉCIMO SEGUNDO. En tanto se expida la ley en materia de réplica, los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6 de la Constitución Federal y las leyes respectivas, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma contraviene a sus actividades. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables. El titular del derecho de réplica deberá agotar primeramente la instancia ante el medio de comunicación respectivo, o demostrar que lo solicitó a su favor y le fue negado. Las autoridades electorales deberán velar oportunamente por la efectividad del derecho de réplica durante los procesos electorales, y en caso de ser necesario deberá instaurar el procedimiento especial sancionador previsto en el Código Electoral del Estado de México.
+
+DÉCIMO TERCERO. Se dejan sin efecto las disposiciones de igualo menor jerarquía que se opongan a este Decreto.
+
+DÉCIMO CUARTO. La estructura, personal, recursos administrativos y financieros del Órgano Técnico de Fiscalización del Instituto Electoral del Estado de México formarán parte de la Unidad Técnica de Fiscalización del mismo, a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO QUINTO. El Procurador General deberá nombrar al Titular de la Fiscalía Especializada en Materia de Delitos Electorales de la Procuraduría General de Justicia del Estado de México, dentro los treinta días siguientes, contados a partir de la entrada en vigor del presente Decreto, mediante el acuerdo correspondiente.
+
+Los servidores públicos adscritos a la fiscalía mencionada conocerán de manera exclusiva de las carpetas investigación relacionadas con delitos electorales.
+
+Los Servidores Públicos adscritos a la Fiscalía Especializada en Materia de Delitos Electorales deberán regirse por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos fijados por las leyes.
+
+Para el próximo ejercicio fiscal, la legislatura proveerá la partida presupuestal para que la fiscalía citada cuente los elementos materiales y humanos que permitan su adecuado funcionamiento.
+
+El Fiscal especializado en Materia de Delitos Electorales deberá rendir un informe a la Legislatura del Estado a los noventa días siguientes de concluido el proceso electoral para el periodo constitucional 2015-2018.
+
+Se exhorta al Procurador General de Justicia del Estado de México, para que la designación del Fiscal Especializado en Materia Delitos Electorales y de los servidores públicos adscritos a ella recaigan en las personas que garanticen los principios enunciados en este artículo.
+
+DÉCIMO SEXTO. La Legislatura del Estado, expedirá las normas aplicables para el cumplimiento de las fundones y fines del Instituto, señaladas en la fracción XV del artículo 168 y VIII del artículo 171 de este Decreto.
+
+DÉCIMO SÉPTIMO. Por única ocasión los procesos electorales ordinarios locales correspondientes a las elecciones que tendrán lugar el primer domingo de junio del año 2015, el proceso electoral iniciará en la primera semana del mes de octubre de 2014.
+
+G.G. 16 DE OCTUBRE DE 2014.
 
 ###### ARTÍCULO PRIMERO.
 
-El presente decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 ###### ARTÍCULO SEGUNDO.
 
-Las disposiciones reglamentarias necesarias para la efectiva aplicación de esta Ley, deberán emitirse por las autoridades correspondientes dentro de un plazo no mayor a 180 días, contado a partir del día en que entre en vigor el presente ordenamiento jurídico.
+El Titular de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de México, expedirá los lineamientos para el desarrollo y ejecución de las técnicas de investigación denominadas acciones encubiertas y usuario simulado.
 
 ###### ARTÍCULO TERCERO.
 
-El Congreso del Estado, deberá reformar la Ley Electoral del Estado de Sinaloa, dentro de un plazo no mayor a 180 días, contado a partir del día en que entre en vigor el presente ordenamiento jurídico a efecto de establecer el procedimiento y sustanciación del medio de impugnación establecido en el Título Tercero de este Decreto.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán, Rosales, Sinaloa, a los veinticuatro días del mes de julio del año dos mil doce.
+###### ARTÍCULO CUARTO.
 
-C. ROSA ELENA MILLÁN BUENO
+Se derogan las disposiciones legales de igual o menor jerarquía que sean contrarias a lo establecido en este Decreto.
 
-DIPUTADA PRESIDENTA
+G.G. 20 DE NOVIEMBRE DE 2014.
 
-C. RAFAEL URIARTE QUIROZ
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-DIPUTADO SECRETARIO
+SEGUNDO.- El presente Decreto entrará en vigor el día 1 de enero de 2015.
 
-C. FELIPE DE J. MANZANAREZ RODRÍGUEZ
+TERCERO.- Las referencias que en lo sucesivo se realicen a la Dirección General de Protección Civil adscrita a la Secretaría de Seguridad Ciudadana, quedarán entendidas a la Coordinación General de Protección Civil adscrita a la Secretaría General de Gobierno.
 
-DIPUTADO SECRETARIO
+G.G. 18 DE DICIEMBRE DE 2014.
 
-Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+DECRETO NÚMERO 367 POR EL QUE SE EXPIDE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO.
 
-Es dado en el Palacio del Poder Ejecutivo del Estado en la ciudad de Culiacán Rosales, Sinaloa, a los veintisiete días del mes de julio del año dos mil doce.
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-El Gobernador Constitucional del Estado
+SEGUNDO. El presente Decreto entrará en vigor a los 90 días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
 
-Lic. Mario López Valdez
+TERCERO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su respectiva competencia, deberán instalar en un plazo no mayor a los ciento ochenta días naturales a partir de la fecha de la entrada en vigor de este Decreto, la ventanilla de gestión, así como la ventanilla única.
 
-El Secretario General de Gobierno
+CUARTO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su competencia, proveerán lo necesario para instalar debidamente el Sistema de Unidades Económicas, a más tardar en el inicio del ejercicio fiscal siguiente, en tanto los municipios deberán seguir alimentando los registros a que hace referencia la Ley Orgánica Municipal del Estado de México.
 
-C. Gerardo O. Vargas Landeros
+QUINTO. Los ayuntamientos que cuenten con unidades económicas que tengan como actividad principal la venta de vehículos automotores usados en tianguis de autos y/o que tengan como actividad principal el aprovechamiento de vehículos usados que han concluido su vida útil, deberán contar con las zonas especiales que haya autorizado la Secretaría de Desarrollo Urbano, para el establecimiento de éstas, a más tardar 120 días naturales después de la entrada en vigor del presente Decreto.
+
+SEXTO. Las gestiones, procedimientos y demás actos que se encuentren en trámite a los que se refieren esta Ley, al momento de la entrada en vigor de este Decreto se concluirán de conformidad con las disposiciones jurídicas vigentes hasta ese momento.
+
+SÉPTIMO. El Titular del Ejecutivo y los Ayuntamientos, en el ámbito de su competencia, expedirán las disposiciones reglamentarias respectivas a más tardar a los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
+
+OCTAVO. Se abroga la Ley que Regula las Casas de Empeño en el Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" el 18 de julio de 2013.
+
+NOVENO. Para el cumplimiento del presente Decreto las áreas y dependencias involucradas se ajustarán al presupuesto y recursos humanos asignados para el ejercicio fiscal del año que transcurre.
+
+DÉCIMO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 377 POR EL QUE SE REFORMAN LA FRACCIÓN III DEL ARTÍCULO 7 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 12.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 379 POR EL QUE SE REFORMAN LA FRACCIÓN VII DEL ARTÍCULO 49 Y LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 80.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+CUARTO.- Los procedimientos o procesos que se hayan iniciado a la entrada en vigor del presente Decreto continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+G.G. 30 DE ABRIL DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Titular del Ejecutivo expedirá las modificaciones necesarias al Reglamento Interior de la Secretaría de la Contraloría.
+
+CUARTO. El Secretario de la Contraloría llevará a cabo las acciones que permitan la implementación del presente Decreto, así como emitirá las disposiciones normativas complementarias. En el ámbito de sus competencias el Consejo de la Judicatura y el Contralor de la Legislatura del Estado de México llevarán a cabo las acciones que permitan la implementación del presente Decreto, así como emitirán las disposiciones complementarias.
+
+> <small>(F. DE E., G.G. 28 DE MAYO DE 2015)</small>
+
+QUINTO. A la entrada en vigor del presente Decreto, en términos de lo dispuesto por los artículos 79 y 80 bis de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, los servidores públicos obligados, deberán presentar la Manifestación de Bienes y la Declaración de Intereses, de manera inicial, por única ocasión durante los meses de mayo y junio del 2015, para llevarse a cabo, con posterioridad, en el mes de mayo de manera anual.
+
+G.G. 24 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
