@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2022-11-16"
+last_updated: "2023-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -357,15 +357,17 @@ E).- El Presidente de la Cámara, pedirá a los Diputados ponerse de pie y dirá
 
 ### CAPITULO I. DE LA MESA DIRECTIVA
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 36.
 
-La Mesa Directiva se integrará con un Presidente, dos Vice-Presidentes, dos Secretarios y dos Pro-Secretarios, que serán electos por el voto nominal de las dos terceras partes del total de los diputados que integran la Legislatura.
+La Mesa Directiva se integrará con un Presidente, dos Vice-Presidentes, dos Secretarios y dos Pro-Secretarios, que serán electos por el voto nominal de la mayoría absoluta de diputadas y diputados que integran la Legislatura.
 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
 Para su integración se observará la composición plural del Congreso, y se deberá observar el principio de paridad de género, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa. Quedando impedidos para formar parte de ella los coordinadores de los grupos parlamentarios.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 Los nombramientos se comunicarán a los Poderes Ejecutivo y Judicial del Estado, así como a todos los órganos legislativos federales y locales del país.
 
@@ -375,7 +377,9 @@ Los nombramientos se comunicarán a los Poderes Ejecutivo y Judicial del Estado,
 
 La Mesa Directiva durará en funciones un año, pudiendo ser reelecta.
 
-Ningún grupo parlamentario podrá presidir simultáneamente la Mesa Directiva y la Junta de Coordinación Política.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+Ningún Grupo Parlamentario podrá presidir, a la misma vez, la Junta de Coordinación Política y la Mesa Directiva.
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
@@ -385,23 +389,35 @@ Los integrantes de la Mesa Directiva serán electos en la primera sesión del pr
 
 La primera sesión del primer periodo ordinario de cada año será presidida por la Mesa Directiva saliente, hasta que la nueva Mesa Directiva sea electa y los nombrados tomen posesión de sus cargos.
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+La persona titular de la Presidencia de la Mesa podrá recaer en cualquier diputada o diputado integrante de la legislatura, aunque no conforme grupo parlamentario, con la salvedad de lo dispuesto en el segundo párrafo del artículo anterior.
+
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 39.
 
 Las sesiones que comprendan los periodos extraordinarios que se convoquen, serán presididas por la Mesa Directiva cuyo ejercicio anual esté en curso.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 40.
 
-Los miembros de la Mesa Directiva sólo podrán ser removidos de sus cargos, con el voto nominal de las dos terceras partes del total de los diputados que integran la legislatura, cuando, a juicio del Pleno incurran en causas graves que afecten las funciones legislativas y en los siguientes casos:
+Los miembros de la Mesa Directiva sólo podrán ser removidos con el voto nominal de la mayoría absoluta de diputadas y diputados que integran la legislatura, cuando, a juicio del Pleno incurran en causas graves que afecten las funciones legislativas y en los siguientes casos:
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 I.- Si transgreden en forma grave o reiterada las disposiciones de las Constituciones federal o local, o las de esta ley;
 
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
 II.- Si incumplen los acuerdos del Pleno;
 
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
 III.- Si dejan de asistir sin causa justificada, a tres o más sesiones del Congreso o al mismo número de reuniones de trabajo de la Mesa Directiva; y
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 IV.- Si afectan con su actuación las atribuciones constitucionales y legales del Congreso o la imagen de éste.
 
@@ -451,71 +467,67 @@ X.- Las demás que le confiera esta Ley, los reglamentos y los acuerdos parlamen
 
 ### CAPITULO II. DE LA PRESIDENCIA Y LAS VICE-PRESIDENCIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 42.
 
-El Presidente de la Mesa Directiva tendrá la representación legal del Congreso, pudiendo delegarla en la persona o personas que considere conveniente; y tendrá las siguientes atribuciones:
+La persona titular de la Presidencia de la Mesa Directiva tendrá la representación legal del Congreso, pudiendo delegarla en primera instancia a la Diputada o Diputado que tenga el voto ponderado mayoritario en este órgano colegiado; y en segunda instancia a los demás integrantes o a la persona titular de la Dirección de Asuntos Jurídicos y Proceso Legislativo, pudiendo en este último caso delegarla en todo momento para la representación jurídica en asuntos jurisdiccionales.
 
-I.- Abrir, prorrogar, suspender y clausurar las sesiones;
+Cuando por caso fortuito, fuerza mayor o cualquier circunstancia no pudiera delegarse la representación legal del Congreso por conducto del Presidente de la Mesa Directiva, las y los integrantes de la misma, deberán calificar la situación y determinar en quien se delegue por consenso o por vía del voto ponderado.
 
-II.- Dar curso reglamentario a los asuntos y determinar los trámites a que deban sujetarse, cuando se dé cuenta a la Cámara de ellos;
+El Presidente de la Mesa Directiva tendrá las siguientes atribuciones:
 
-III.- Presidir y conducir los debates y las deliberaciones en la Cámara, pudiendo participar en ellos, cuidando la eficiencia de los trabajos y dignidad del Congreso;
+I. Abrir, prorrogar, suspender y clausurar las sesiones;
 
-IV.- Establecer y vigilar el cumplimiento del orden del día de las sesiones;
+II. Dar curso reglamentario a los asuntos y determinar los trámites a que deban sujetarse, cuando se dé cuenta al Pleno de ellos;
 
-V.- Conceder la palabra a los Diputados por el turno en que la pidiesen, procurando en lo posible que la usen alternativamente los que hablen en pro y los que hablen en contra, o negarla cuando el asunto sobre el cual se pida la palabra no se esté tratando en ese momento o ya se haya tratado anteriormente;
+III. Presidir y conducir los debates y las deliberaciones en el Pleno, pudiendo participar en ellos, cuidando la eficiencia de los trabajos y dignidad del Congreso;
 
-VI.- Otorgar la palabra solamente cuando esté a discusión el asunto;
+IV. Turnar las iniciativas leídas para su discusión, análisis y dictaminación correspondiente a la Comisión o Comisiones Unidas de acuerdo a la naturaleza del asunto que se trate;
 
-VII.- Llamar al orden al que faltare al mismo, por sí o excitado por algún otro miembro de la Cámara. Los Diputados que abandonen la sesión sin permiso de la Presidencia, no podrán regresar a la misma;
+En caso de que sean turnadas a comisiones unidas determinará quien convoque y presida la o las reuniones de éstas;
 
-VIII.- Exigir orden al público asistente a las sesiones e imponerlo cuando hubiere motivo para ello;
+V. Establecer y vigilar el cumplimiento del orden del día de las sesiones;
 
-IX.- Solicitar el auxilio de la fuerza pública cuando fuese necesario y en los términos de esta Ley;
+VI. Conceder la palabra a las Diputadas y a los Diputados por el turno en que la pidiesen, procurando en lo posible que la usen alternativamente los que hablen a favor y los que hablen en contra, o negarla cuando el asunto sobre el cual se pida la palabra no se esté tratando en ese momento o ya se haya tratado anteriormente;
 
-X.- Firmar en unión de los Secretarios, las Leyes, Decretos, Reglamentos y Acuerdos que expida el Congreso, así como el acta de cada sesión, inmediatamente después de que haya sido aprobada;
+VII. Otorgar la palabra solamente cuando esté a discusión el asunto;
 
-XI.- Nombrar Comisiones, cuyo objeto fuere de mera ceremonia o para atender algún asunto específico;
+VIII. Llamar al orden al que faltare al mismo, por sí o excitado por algún otro integrante del Pleno. Las Diputadas y los Diputados que abandonen la sesión, por un lapso mayor de treinta minutos consecutivos, sin permiso de la Presidencia, no podrán regresar a la misma;
 
-XII.- Citar a sesión extraordinaria cuando lo estime necesario;
+IX. Exigir orden al público asistente a las sesiones e imponerlo cuando hubiere motivo para ello;
 
-XIII.- Mandar requerir por escrito a los Diputados faltistas a concurrir a las sesiones de la Cámara y proponer, en su caso, las medidas o sanciones que correspondan, de acuerdo con la Constitución Política del Estado y esta Ley;
+X. Solicitar el auxilio de la fuerza pública cuando fuese necesario y en los términos de esta Ley;
 
-XIV.- Declarar que no hay la asistencia requerida para celebrar sesión en los términos legales, ordenando a la Secretaría expedir la excitativa a los faltantes para que concurran;
+XI. Firmar en unión de los Secretarios, las Leyes, Decretos y Reglamentos que expida el Congreso, así como el acta de cada sesión, inmediatamente después de que haya sido aprobada.
 
-XV.- Requerir a las Comisiones para que presenten dictamen sobre los asuntos que se les hubieren encomendado, conminándolas para que lo hagan a la mayor brevedad y para el caso de que no lo hicieren, señalarles un día determinado para presentarlo, y de no hacerlo, pasar el asunto a otra Comisión que designe la Asamblea, con prevención de dictaminar en término breve;
+Para el caso de los Acuerdos podrá firmarlo en unión de ellos cuando así lo considere en los términos del artículo 42 de la Constitución Local;
 
-XVI.- Llamar, en los casos en que se requiera, a los Diputados suplentes;
+XII. Nombrar Comisiones, cuyo objeto fuere de mera Ceremonia o para atender algún asunto específico;
 
-XVII.- Firmar la correspondencia y demás comunicaciones de la Cámara que así se estime necesario;
+XIII. Citar a sesión extraordinaria cuando lo estime necesario;
 
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
+XIV. Mandar requerir por escrito a las Diputadas y a los Diputados faltistas a concurrir a las sesiones del Pleno y proponer, en su caso, las medidas o sanciones que correspondan, de acuerdo con la Constitución Política del Estado y esta Ley;
 
-XVIII.- Designar de entre los Diputados a quien deba representar al Congreso, en los actos a los que el Presidente no pudiera asistir;
+XV. Declarar que no hay la asistencia requerida para celebrar sesión en los términos legales, ordenando a la Secretaría que corresponda expedir la excitativa a los faltantes para que concurran;
 
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
+XVI. Requerir a las Comisiones para que presenten dictamen sobre los asuntos que se les hubieren encomendado, conminándolas para que lo hagan a la mayor brevedad y para el caso de que no lo hicieren, señalarles un día determinado para presentarlo, y de no hacerlo, pasar el asunto a otra Comisión que designe el Pleno, con prevención de dictaminar en término breve;
 
-XIX.- Representar al Congreso ante los Poderes Federal y Estatal, los de las Entidades Federativas, ante los Municipios y ante las organizaciones e instituciones de la sociedad, así como ante particulares;
+XVII. Llamar, en los casos en que se requiera, a las personas suplentes de las Diputadas y Diputados;
 
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
+XVIII. Firmar la correspondencia y demás comunicaciones del Pleno que así se estime necesario;
 
-XX.- Representar al Congreso en juicio y fuera de él, con todas las facultades generales para pleitos y cobranzas y las especiales que requieran cláusula especial conforme a la ley, en términos de lo dispuesto en el primer párrafo del artículo 2,436 y en el artículo 2,469 del Código Civil para el Estado de Sinaloa y sus correlativos en todo el país.
+XIX. Designar de entre las Diputadas y los Diputados a quien deba representar al Congreso, en los actos a los que el Presidente no pudiera asistir;
 
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
+XX. Representar al Congreso en juicio y fuera de él, con todas las facultades generales para pleitos y cobranzas y las especiales que requieran cláusula especial conforme a la ley, en términos de lo dispuesto en el primer párrafo del artículo 2436 y en el artículo 2469 del Código Civil para el Estado de Sinaloa y sus correlativos en todo el país;
 
-XXI.- Representar al Congreso en la celebración y firma de convenios y contratos, aun en aquellos que impliquen el ejercicio de facultades para actos de administración y de dominio, en términos de lo dispuesto en los párrafos segundo y tercero del artículo 2,436 del Código Civil para el Estado de Sinaloa.
+XXI. Representar al Congreso en la celebración y firma de convenios y contratos, aun en aquellos que impliquen el ejercicio de facultades para actos de administración y de dominio, en términos de lo dispuesto en los párrafos segundo y tercero del artículo 2436 del Código Civil para el Estado de Sinaloa.
 
-Tratándose de actos de dominio, deberá recabar previamente el consentimiento del Pleno; y los convenios o contratos deberán ser suscritos conjuntamente por el Presidente de la Mesa Directiva y uno de los secretarios de la misma que integre un grupo parlamentario distinto al del Presidente, preferentemente aquél que tenga mayor porcentaje de representación en la Cámara.
+Tratándose de actos de dominio, deberá recabar previamente el consentimiento del Pleno; y los convenios o contratos que para tal efecto deban suscribirse deberán ser firmados por el Presidente de la Mesa Directiva y uno de los secretarios de la misma que integre un grupo parlamentario distinto al del Presidente, preferentemente aquél que tenga mayor porcentaje de representación en el Pleno;
 
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
+XXII. Tomar la protesta de Ley a los funcionarios que la deban rendir; y
 
-XXII.- Tomar la protesta de Ley a los funcionarios que la deban rendir; y
-
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
-
-XXIII.- Las demás que se deriven de esta Ley y de las disposiciones o Acuerdos que emita la Cámara.
+XXIII. Las demás que se deriven de esta Ley y de las disposiciones o Acuerdos que emita el Pleno.
 
 ###### ARTICULO 43.
 
@@ -577,15 +589,21 @@ En cada sesión, los Secretarios para dar cuenta con los asuntos, podrán altern
 
 Las ausencias de los Secretarios se cubrirán con los Pro-Secretarios, según el orden de su designación; si la Cámara lo estima necesario nombrará Secretarios Interinos.
 
-### CAPITULO IV. DE LOS GRUPOS PARLAMENTARIOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE AGOSTO DE 2023)</small>
+
+### CAPÍTULO IV. DE LOS GRUPOS PARLAMENTARIOS Y DEL GRUPO PLURAL
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 48.
 
-Los Grupos Parlamentarios son las formas de organización que podrán adoptar los Diputados con igual afiliación de Partido para realizar tareas específicas en la Cámara, a fin de garantizar la libre expresión de las corrientes ideológicas.
+Los Grupos Parlamentarios son las formas de organización que podrán adoptar las diputadas y los diputados con igual afiliación de Partido o los que hayan sido electos por la vía de una candidatura independiente siempre y cuando, en ambos supuestos, sean dos o más integrantes, para realizar tareas específicas en el Pleno, a fin de garantizar la libre expresión de las corrientes ideológicas.
 
-Los Diputados que pertenezcan a un mismo Partido Político en ningún caso podrán formar un grupo parlamentario por separado y tampoco podrán formar parte de más de un grupo, a menos que renuncien al que pertenecen para asociarse a otro. Por ningún motivo podrán formar Grupos Parlamentarios independientes por ser ésta una prerrogativa conferida a los Partidos Políticos.
+Las Diputadas y los Diputados que pertenezcan a un mismo Partido Político en ningún caso podrán formar un grupo parlamentario por separado y tampoco podrán formar parte en más de uno de manera simultánea, a menos que renuncien a su afiliación partidista que pertenecen para asociarse a otro, debiendo observarse lo establecido en el artículo 24 último párrafo de la Constitución Política del Estado, siempre y cuando no se incumpla con la cláusula de gobernabilidad. Cuando ya no puedan integrarse a un Grupo Parlamentario por haberse colmado el número de Diputadas o Diputados posible conforme a lo establecido en dicho artículo, podrán integrarse al grupo plural a que se refiere este Capítulo.
 
-El Diputado que hubiese sido electo por una coalición o por candidatura común de varios Partidos Políticos, sólo podrá integrarse a alguno de los grupos formados por cualquiera de esos Partidos.
+La Diputada o Diputado que hubiese sido electo por el principio de mayoría relativa a través de una coalición o candidatura común de varios Partidos Políticos, sólo podrá integrarse a alguno de los grupos formados por cualquiera de esos Partidos.
+
+La Diputada o Diputado que hubiese sido electo por el principio de representación proporcional solo podrá integrarse a alguno de los grupos parlamentarios formados por cualesquier partido, con el que su instituto de origen haya celebrado un convenio de coalición o candidatura común.
 
 ###### ARTICULO 49.
 
@@ -599,65 +617,81 @@ Para realizar las tareas de coordinación con la Mesa Directiva y las Comisiones
 
 El funcionamiento, las actividades y los procedimientos para la designación de los Coordinadores de los Grupos Parlamentarios, serán regulados por las normas estatutarias y los lineamientos de los respectivos Partidos Políticos.
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+En el caso del Grupo Parlamentario de Diputadas y Diputados que hayan sido electos por la vía de una candidatura independiente se regularán por los lineamientos internos que expidan.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
 ###### ARTICULO 52.
 
-Los Diputados de la misma filiación de Partido sólo podrán constituir un Grupo Parlamentario y se tendrán por constituidos cuando presenten los siguientes documentos a la Mesa Directiva de la Cámara:
+Los Grupos Parlamentarios se tendrán por constituidos cuando presenten a la Mesa Directiva los documentos siguientes:
 
-I.- Acta en la que conste la decisión de sus miembros de constituirse en grupo con especificación del nombre del mismo y lista de los integrantes; y
+I. Acta en la que conste la decisión de sus miembros de constituirse en grupo con especificación del nombre del mismo y lista de los integrantes; y
 
-II.- Nombre del Diputado que haya sido electo Coordinador del Grupo Parlamentario.
+II. Nombre de la Diputada o del Diputado que haya sido electo Coordinadora o Coordinador del Grupo Parlamentario.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 53.
 
-Los Grupos Parlamentarios deberán entregar la documentación requerida en el artículo precedente, en la segunda sesión del primer período ordinario de sesiones de cada Legislatura.
+Los Grupos Parlamentarios deberán entregar la documentación requerida en el artículo precedente, en la segunda sesión del primer período ordinario de sesiones de cada Legislatura o podrán reestructurarse durante el ejercicio constitucional de ésta.
 
-Examinada por el Presidente la documentación, en sesión ordinaria de la Cámara hará, en su caso, la declaratoria de constitución de los Grupos Parlamentarios; a partir de este momento ejercerán las atribuciones previstas por esta Ley.
+Examinada por el Presidente de la Mesa Directiva la documentación, en sesión ordinaria, el Pleno hará, en su caso, la declaratoria de constitución o reestructuración de los Grupos Parlamentarios; a partir de este momento ejercerán las atribuciones previstas por esta Ley.
 
 ###### ARTICULO 54.
 
 De acuerdo con las posibilidades y el presupuesto de la propia Cámara, los Grupos Parlamentarios dispondrán de locales adecuados en las instalaciones de la Cámara así como de los asesores, personal y los elementos necesarios para el cumplimiento de sus funciones.
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+ARTICULO 54 BIS. Se entiende por Grupo Plural a la agrupación conformada por Diputadas y Diputados que renunciaron a su Grupo Parlamentario y afiliación partidista, así como Diputadas y Diputados que hayan sido electos por la vía de una candidatura independiente y que pudiendo integrar un Grupo Parlamentario no lo hicieron o bien renunciaron a él, acuerdan agruparse para trabajar de manera conjunta en las deliberaciones y decisiones del Congreso, sin que ello signifique el reconocimiento de derechos o prerrogativas iguales a las de un Grupo Parlamentario, quienes deberán nombrar un representante común para que asista a las sesiones de la Junta de Coordinación Política con derecho a voz.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO V. DE LA JUNTA DE COORDINACION POLITICA
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 55.
 
-El Congreso del Estado contará con una Junta de Coordinación Política, la que será el órgano conductor y coordinador del trabajo legislativo, durante el ejercicio de cada Legislatura.
+El Congreso del Estado contará con una Junta de Coordinación Política, que será el órgano conductor y coordinador del trabajo legislativo, durante el ejercicio de cada Legislatura. Estará integrada únicamente por los Coordinadores de Grupos Parlamentarios de Partidos y de Grupos Parlamentarios conformados por Diputadas y Diputados que hayan sido electos por la vía de una candidatura independiente, quienes tendrán voz y voto.
 
-Estará integrada por los Coordinadores de cada uno de los Grupos Parlamentarios, quienes tendrán voz y voto. El Presidente de la Mesa Directiva, los diputados que no integren grupo parlamentario y el Secretario General, asistirán con voz, pero sin voto.
+Podrán asistir a las sesiones de la Junta de Coordinación Política las Diputadas y Diputados: con partido; los electos por la vía independiente que no cuentan con Grupo Parlamentario; sin partido que conformen un Grupo Plural; así como el Presidente de la Mesa Directiva y el Secretario General del Congreso, quienes sólo tendrán derecho a voz.
 
-La Junta de Coordinación Política es la expresión de la pluralidad del Congreso, por lo que funcionará en forma colegiada para impulsar entendimientos y convergencias entre los grupos parlamentarios y los diputados que no integren grupo, a fin de alcanzar acuerdos para que el Pleno esté en condiciones de adoptar las decisiones que constitucional y legalmente le corresponden.
+La Junta de Coordinación Política es la expresión de la pluralidad del Congreso, por lo que funcionará en forma colegiada para impulsar entendimientos y convergencias entre los Grupos Parlamentarios de los Partidos Políticos y de los Grupos Parlamentarios de Diputadas y Diputados que hayan sido electos por la vía de una candidatura independiente, conjuntamente con el resto de las Diputadas y Diputados que integran la Legislatura, a fin de alcanzar acuerdos para que el Pleno esté en condiciones de adoptar las decisiones que constitucional y legalmente le corresponden. Los acuerdos podrán lograrse por consenso o votación ponderada.
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
-###### ARTICULO 55 Bis.
+ARTICULO 55 BIS. Los integrantes de la Junta de Coordinación Política podrán ser sustituidos temporalmente o destituidos, de conformidad con las reglas internas de cada grupo parlamentario, mismas que deberán apegarse a sus respectivos estatutos. Cuando se trate de sustitución temporal, será determinada por el Coordinador de Grupo Parlamentario.
 
-Los integrantes de la Junta de Coordinación Política podrán ser sustituidos temporal o definitivamente, de conformidad con las reglas internas de cada grupo parlamentario, mismas que deberán apegarse a sus respectivos estatutos.
+Hecha la sustitución temporal o la destitución; en el primer caso, el Coordinador respectivo; y en el segundo caso, el nuevo coordinador, deberá comunicarlo de inmediato al resto de los integrantes de la Junta de Coordinación Política, así como a la Mesa Directiva por conducto de su Presidente.
 
-En caso de ausencia temporal o definitiva del Presidente de la Junta de Coordinación Política, ésta será cubierta por el Diputado que su mismo Grupo Parlamentario designe como nuevo Coordinador.
-
-Hecha la designación, el grupo parlamentario deberá comunicarlo de inmediato al resto de los integrantes de la Junta de Coordinación Política, así como a la Mesa Directiva por conducto de su Presidente.
-
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 56.
 
-La Junta de Coordinación Política deberá instalarse, a más tardar, en la segunda sesión ordinaria que celebre el Congreso al inicio de la Legislatura, sesionará por lo menos una vez a la semana durante los periodos de sesiones y con la periodicidad que acuerde durante los recesos del Pleno.
-
-Adoptará las decisiones mediante el sistema de voto ponderado, en el cual los respectivos coordinadores representarán tantos votos como integrantes tenga su grupo parlamentario.
+La Junta de Coordinación Política deberá quedar formalmente conformada, a más tardar, en la segunda sesión ordinaria que celebre el Congreso como parte del proceso de instalación de la Legislatura. Sesionará por lo menos una vez a la semana durante los periodos de sesiones y con la periodicidad que acuerde.
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
+Adoptará las decisiones mediante el sistema de voto ponderado, en el cual los respectivos coordinadores representarán tantos votos como integrantes tenga su grupo parlamentario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2023)</small>
+
 ###### ARTICULO 57.
 
-La presidencia de la Junta de Coordinación Política será ejercida conforme a los siguientes supuestos:
+La presidencia de la Junta de Coordinación Política será ejercida tomando como base la voluntad de la soberanía popular expresada en los resultados electorales a partir de los siguientes criterios:
 
-I. El Coordinador del Grupo Parlamentario cuyo partido político cuente por sí mismo con la mayoría absoluta de los integrantes del Congreso, presidirá la Junta de Coordinación Política durante los tres años de ejercicio constitucional de la Legislatura.
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
+
+I. El Coordinador del Grupo Parlamentario cuyo partido político haya obtenido por sí mismo o en coalición la mayoría de votos de acuerdo a los resultados electorales y cuente con la mitad más uno de quienes integren el Congreso, por ende, presidirá este órgano durante los tres años de ejercicio constitucional de la Legislatura;
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 Se entiende por mayoría absoluta, la mitad más uno del total de los diputados que integran el Congreso.
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 II. En el caso de que ningún Grupo Parlamentario se encuentre en el supuesto previsto en la fracción I de este artículo, la presidencia de la Junta de Coordinación Política será rotativa con duración anual, bajo las siguientes bases:
 
@@ -668,6 +702,8 @@ II. En el caso de que ningún Grupo Parlamentario se encuentre en el supuesto pr
 En caso de que ninguno de los grupos parlamentarios que sean segunda y tercera minoría alcancen el 25% de la representación, o si solo uno de ellos posee dicho porcentaje de representación, durante los ejercicios anuales restantes volverá a presidir la Junta de Coordinación Política el grupo que obtuvo la primera minoría.
 
 El referente para el cálculo del porcentaje a que se refiere esta fracción, será el número de diputados registrados como integrantes por cada grupo parlamentario al instalarse la Legislatura.
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 III. Si ningún grupo parlamentario alcanza el porcentaje mínimo a que se refiere el numeral 2 de la fracción II que antecede; o bien cuando dos o más grupos parlamentarios tengan el mismo número de integrantes, para elegir al Presidente se tomará como base el porcentaje de votación electoral que haya obtenido cada partido político en los comicios respectivos.
 
@@ -683,7 +719,11 @@ II. Conducir las relaciones políticas con los otros dos Poderes del Estado, los
 
 III. Impulsar la conformación de acuerdos relacionados con el contenido de las propuestas, iniciativas o dictámenes que requieran de votación en el Pleno o en la Diputación Permanente, a fin de agilizar el trabajo legislativo;
 
-IV. Establecer el programa legislativo de los periodos de sesiones, el calendario para su desahogo, la integración básica de (sic) del orden del día de cada sesión, así como las formas que seguirán los debates, discusiones y deliberaciones, todo ello en coordinación con la Mesa Directiva;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
+
+IV. Establecer el programa legislativo de los periodos de sesiones, el calendario para su desahogo, la integración básica del orden del día de cada sesión, las formas que seguirán los debates, discusiones y deliberaciones, así como los requisitos y reglas que permitan el debido desarrollo del proceso legislativo y que no estén previstos en la presente Ley, mismos que habrán de comunicarse a la Mesa Directiva.
+
+El programa legislativo podrá ser modificado de conformidad con las necesidades y prioridades que surjan durante el transcurso de una Legislatura para la inclusión de temas que deban ser abordados por el Pleno;
 
 V. Presentar a la Mesa Directiva, a la Diputación Permanente y al Pleno, proyectos de puntos de acuerdo, pronunciamientos y declaraciones que entrañen una posición política del Congreso;
 
@@ -695,13 +735,21 @@ VIII. Presentar al Pleno durante el mes de enero, un informe anual sobre el ejer
 
 El informe deberá precisar:
 
-1.- La dieta mensual de los diputados, la reducción de los correspondientes impuestos, el saldo neto a cubrir en el mes, la parte proporcional de aguinaldo y el pago de su prima vacacional.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
-2.- El monto mensual para viáticos, alimentos, y hospedaje, con la identificación personal de los diputados;
+1. La remuneración mensual de las Diputadas y Diputados, la retención de los correspondientes impuestos, el saldo neto a cubrir en el mes, la determinación del aguinaldo o bien la parte proporcional del mismo según el tiempo de su desempeño.
 
-3.- El monto mensual que reciben los grupos parlamentarios para el cumplimiento de sus fines en el Congreso y su destino;
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
-4.- La identificación personalizada de todo el personal del Congreso, así como su salario y la deducción de los impuestos que corresponda;
+2. El monto mensual para viáticos y transportación;
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+3. El monto mensual que reciben los Grupos Parlamentarios para el cumplimiento de sus fines en el Congreso y a las funciones inherentes como Diputadas y Diputados según lo consagra la Constitución Política del Estado de Sinaloa y las Leyes en la materia;
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+4. La identificación personalizada de todo el personal del Congreso, así como su salario y la deducción de los impuestos que corresponda según lo determinen las Leyes fiscales; y
 
 5.- La identificación de los proveedores del Congreso, así como el monto de sus pagos y la descripción de los materiales proveídos; y
 
@@ -719,9 +767,13 @@ IX. Dirigir y vigilar la prestación de los servicios internos necesarios para e
 
 X.- Conducir, coordinar, controlar y evaluar las funciones de la Secretaría General;
 
-XI. Proponer al Pleno de la Cámara la designación del Secretario General y de los titulares de las Direcciones de su dependencia, así como del Director del Instituto de Investigaciones Legislativas y de los responsables de las Unidades de Estudios Económicos y Financieros, de Acceso a la Información Pública y de Sistemas y Cómputo, atendiendo a lo dispuesto por esta Ley sobre el servicio civil de carrera; los que solo podrán ser removidos con la misma votación requerida para su nombramiento:
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
 
-XII. Impulsar la profesionalización de los servicios de apoyo parlamentario a través del servicio civil de carrera y del Instituto de Investigaciones Parlamentarias, determinando las políticas generales para ello y proponiendo al pleno los proyectos de los reglamentos respectivos;
+XI. Proponer al Pleno la designación de la persona titular de la Secretaría General y de las personas titulares de las Direcciones atendiendo lo dispuesto por esta Ley; quienes sólo podrán ser removidos con la misma votación por la que fueron designados;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
+
+XII. Impulsar la profesionalización de los servicios de apoyo parlamentario a través del servicio civil de carrera de las Unidades, Jefaturas de Departamento y demás áreas del Congreso que tengan incidencia en el proceso legislativo determinando las políticas generales para ello y proponiendo al pleno los proyectos de los reglamentos respectivos, por conducto del Instituto de Investigaciones Parlamentarias y de la Dirección de Asuntos Jurídicos y Proceso Legislativo;
 
 XIII. Asignar en los términos de esta ley, los recursos humanos, materiales y financieros, así como los espacios físicos que correspondan a los grupos parlamentarios;
 
@@ -735,21 +787,25 @@ XV. Proponer al Pleno la convocatoria para la designación de los titulares de l
 
 XVI. Las demás que se deriven de esta Ley y de sus ordenamientos relativos.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 59.
 
-El Presidente de la Junta de Coordinación Política tendrá las siguientes atribuciones;
+El Presidente de la Junta de Coordinación Política tendrá las siguientes atribuciones:
 
 I. Convocar y conducir las reuniones de trabajo que celebre la Junta de Coordinación Política;
 
-II. Velar por el cumplimiento de las decisiones y acuerdos que se adopten;
+II. Asumir la representación institucional de las disposiciones de la Junta de Coordinación Política;
 
-III. Poner a consideración de la Junta los criterios para la elaboración del programa legislativo de cada periodo de sesiones, el calendario para su desahogo y las órdenes del día de las sesiones del Pleno;
+III. Velar por el cumplimiento de las decisiones y acuerdos que se adopten;
 
-IV. Disponer la elaboración de los anteproyectos anuales de presupuesto y de informe de ejercicio presupuestal; y
+IV. Poner a consideración de la Junta los criterios para la elaboración del programa legislativo de cada periodo de sesiones, el calendario para su desahogo y los órdenes del día de las sesiones del Pleno;
 
-V. Las demás que se deriven de esta Ley, de las disposiciones o Acuerdos de la Cámara, o las que le sean conferidas por la propia Junta de Coordinación Política.
+V. Disponer la elaboración de los anteproyectos anuales de presupuesto y de informe de ejercicio presupuestal;
+
+VI. Definir el monto para viáticos y transportación, según las actividades institucionalmente definidas y la disponibilidad presupuestal; y
+
+VII. Las demás que se deriven de esta Ley, de las disposiciones o Acuerdos del Pleno, o las que le sean conferidas por la propia Junta de Coordinación Política.
 
 ###### ARTICULO 60.
 
@@ -785,9 +841,11 @@ Las Comisiones del Congreso son órganos colegiados que se integran por Diputado
 
 En el cumplimiento de sus funciones el Congreso del Estado integrará Comisiones, mismas que por su naturaleza serán Permanentes y Especiales.
 
-Ninguna Comisión se integrará con Diputados de un sólo Partido.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2008)</small>
+Ninguna Comisión se integrará en su totalidad con Diputadas y Diputados de un mismo Partido, Grupo Parlamentario o del Grupo Plural.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 67.
 
@@ -797,85 +855,91 @@ I. De Puntos Constitucionales y Gobernación;
 
 II. De Hacienda Pública y Administración;
 
-III. De Planeación y Desarrollo;
+III. De Planeación para el Desarrollo y el Bienestar Social;
 
-IV. De Educación Pública y Cultura;
+IV. De Educación, Ciencia y Tecnología;
 
-V. De Ciencia y Tecnología;
-
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2018)</small>
+V. De Cultura y Artes;
 
 VI. De Ecología y Desarrollo Sustentable;
 
 VII. De Desarrollo Económico;
 
-VIII. De Comunicaciones y Obras Públicas;
+VIII. De Asuntos Migratorios;
 
-IX. De Salud y Asistencia Social;
+IX. De Salud;
 
-X. De la Juventud y el Deporte;
+X. De Desarrollo Urbano y Movilidad;
 
-XI. De Asuntos Obreros y de Trabajo y Previsión Social;
+XI. De la Juventud, Cultura Física y Deporte;
 
-XII. De Derechos Humanos;
+XII. De Asuntos Obreros, Trabajo y Previsión Social;
 
-XIII. De Fiscalización;
+XIII. De Derechos Humanos;
 
-XIV. De las Comunidades y Asuntos Indígenas;
+XIV. De Fiscalización;
 
-XV. De Turismo;
+XV. De las Comunidades y Asuntos Indígenas;
 
-XVI. De Pesca;
+XVI. De Turismo;
 
-XVII. De Asuntos Agropecuarios;
+XVII. De Pesca y Acuicultura;
 
-XVIII. De Protección Civil;
+XVIII. De Asuntos Agropecuarios;
 
-XIX. De Seguridad Pública;
+XIX. De Protección Civil;
 
-XX. De Biblioteca, Cultura Parlamentaria y Asuntos Editoriales;
+XX. De Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2021)</small>
+XXI. De Igualdad, Género, Diversidad Sexual e Inclusión;
 
-XXI. De Igualdad de Género y Familia;
+XXII. De Atención a la Familia, Niñas, Niños, y Adolescentes;
 
-XXII. De Protocolo y Régimen Orgánico Interior;
+XXIII. De Protocolo y Régimen Orgánico Interior;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2018)</small>
+XXIV. De Transparencia, Anticorrupción y Participación Ciudadana;
 
-XXIII. De Transparencia, Anticorrupción y Participación Ciudadana;
+XXV. Del Agua y Recursos Hidráulicos;
 
-(REFORMADA, P.O. 7 DE DICIEMBRE DE 2018) (F. DE E., P.O. 14 DE DICIEMBRE DE 2018)
+XXVI. De Vivienda;
 
-XXIV. De Recursos Hidráulicos.
+XXVII. De Justicia;
 
-XXV. De Vivienda;
+XXVIII. De Comunicaciones y Obras Públicas; e
 
-XXVI. De Justicia; e
+XXIX. Instructora.
 
-XXVII. Instructora.
-
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 68.
 
-Las Comisiones Permanentes serán nombradas por el Pleno en votación nominal, a propuesta de la Junta de Coordinación Política, en la tercera sesión del Primer Período Ordinario de Sesiones del Ejercicio Constitucional.
+Las Comisiones Permanentes serán nombradas por el Pleno en votación nominal por mayoría absoluta, a propuesta de la Junta de Coordinación Política, en la tercera sesión del Primer Período Ordinario de Sesiones del Ejercicio Constitucional.
 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
 La integración de las Comisiones Permanentes será plural, y se deberá observar el principio de paridad de género, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa y se ajustará en lo posible a la proporcionalidad que guardan los grupos parlamentarios en la composición de la Legislatura.
 
-La Junta de Coordinación Política como órgano conductor y coordinador de trabajo legislativo, podrá proponer al Pleno el cambio de alguno o varios de los integrantes de las Comisiones Permanentes cuando se justifique.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+La Junta de Coordinación Política como órgano conductor y coordinador del trabajo legislativo, podrá proponer al Pleno el cambio de alguno o varios de los integrantes de las Comisiones Permanentes cuando no cumplan con las obligaciones que les corresponden o bien cuando se justifique a juicio del órgano colegiado.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 Para efectos del párrafo anterior, la Junta de Coordinación Política, analizará en su seno las razones o motivos por los cuales estima procedente proponer al Pleno el cambio de integrantes de las Comisiones Permanentes.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
 Las razones o motivos por los cuales se considera procedente el cambio de algún integrante de las Comisiones Permanentes se contendrá en la propuesta que dirigirá la Junta de Coordinación Política al Pleno.
 
-El Pleno del Congreso del Estado, acordará por mayoría de los Diputados presentes, la propuesta del cambio de integrantes de las Comisiones Permanentes.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+El Pleno del Congreso del Estado, acordará por mayoría absoluta de las Diputadas y Diputados presentes, la propuesta del cambio de integrantes de las Comisiones Permanentes.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 69.
 
-Los Integrantes de las Comisiones Permanentes durarán en su cargo por el término establecido para el ejercicio constitucional de la Legislatura correspondiente y sólo podrán ser removidos por causa grave mediante acuerdo de la Asamblea.
+Los Integrantes de las Comisiones Permanentes podrán durar en su cargo por el término establecido para el ejercicio constitucional de la Legislatura correspondiente, a menos que sean removidos mediante acuerdo del Pleno, conforme al último párrafo del artículo anterior.
 
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2018)</small>
 
@@ -885,9 +949,13 @@ Las Comisiones Permanentes tendrán la competencia que se derive de su denominac
 
 Las reuniones de las Comisiones serán públicas. También podrán celebrar reuniones públicas de información y audiencia cuando lo consideren pertinente.
 
-Cuando lo solicite el autor o autores de las iniciativas y previo a la discusión de los proyectos de dictámenes, las Comisiones celebrarán reuniones de trabajo con ellos a efecto de que expongan el contenido de su propuesta. Las opiniones que se viertan para tal efecto podrán ser consideradas para su inclusión en los dictámenes.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
-A las reuniones de las Comisiones asistirán sus miembros y podrán asistir los autores de la iniciativa o iniciativas, las personas convocadas para informarlas, los Diputados que lo deseen y el público en general, siempre que la capacidad de la sala en que se celebre la reunión respectiva lo permita. En sus deliberaciones sólo podrán participar los Diputados del Congreso y únicamente votarán los miembros de la respectiva Comisión o Comisiones. Para tales efectos, el Presidente o Presidentes de las Comisiones que se encuentren reunidas acordarán las medidas necesarias para la celebración de la reunión respectiva, observando la normatividad en materia de protección civil y seguridad.
+Cuando lo solicite el autor o autores de las iniciativas y previo a la discusión de los proyectos de dictámenes, las Comisiones podrán celebrar reuniones de trabajo con ellos a efecto de que expongan el contenido de su propuesta. Las opiniones que se viertan para tal efecto podrán ser consideradas para su inclusión en los dictámenes.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+A las reuniones de las Comisiones asistirán sus miembros y podrán asistir los autores de la iniciativa o iniciativas, las personas convocadas para informarlas, las Diputadas y Diputados que lo deseen y el público en general, siempre que la capacidad de la sala en que se celebre la reunión respectiva lo permita. En sus deliberaciones sólo podrán participar las Diputadas y Diputados del Congreso y únicamente votarán los miembros de la respectiva Comisión o Comisiones. Para tales efectos, quien presida la Comisión o Comisiones que se encuentren reunidas acordarán las medidas necesarias para la celebración de la reunión respectiva, observando la normatividad en materia de protección Civil y seguridad.
 
 La asistencia del público a las reuniones y audiencias estará sujeta a las previsiones establecidas en el Capítulo III del Título Quinto de esta Ley. Para tal efecto los Presidentes de las Comisiones tendrán las atribuciones que en el mismo se refieren.
 
@@ -1009,9 +1077,17 @@ IV.- Recibir y solicitar la información que sea necesaria para el cumplimiento 
 
 V.- Dar trámite y procurar que los asuntos de las Comisiones sean atendidos en los términos que establece la Ley;
 
-VI.- Citar a reunión de las Comisiones cuando haya asuntos que deban ser conocidos por la misma;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
 
-VII.- Presidir y coordinar las sesiones de las Comisiones; y
+VI.- Citar a reunión de las Comisiones cuando haya asuntos que deban ser conocidos por la misma.
+
+En los casos en que la Presidencia de la Comisión respectiva no emita convocatoria podrá hacerlo la Secretaría de la misma, a petición de la mayoría de sus integrantes, salvo lo dispuesto en esta Ley para reuniones de comisiones unidas;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
+
+VII.- Presidir y coordinar las sesiones de las Comisiones.
+
+Cuando tenga que iniciar la reunión debidamente citada y no se encuentren en el lugar en la hora convocada la Diputada o Diputado que ostente la Presidencia o la Secretaría, por votación de la mayoría absoluta de sus integrantes siempre que exista quórum, decidirán quien de sus integrantes presida la reunión y quien desarrolle las funciones de la secretaría, en su caso; y
 
 VIII.- Las demás que la Ley y otras disposiciones o Acuerdos de la Cámara establezcan.
 
@@ -1165,7 +1241,9 @@ II. Esta convocatoria será abierta para todas las personas, contendrá las etap
 
 III. Para ser titular del Órgano Interno de Control de alguno de los organismos con autonomía reconocida en la Constitución y que ejerzan recursos públicos, se deberán cumplir los requisitos que establezcan las leyes de dichos organismos autónomos;
 
-IV. La Mesa Directiva expedirá la convocatoria pública aprobada por el Pleno para la elección del titular del Órgano Interno de Control, misma que deberá publicarse en el Periódico Oficial "El Estado de Sinaloa", en la página web del Congreso y, preferentemente, en periódicos de circulación estatal;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
+
+IV. La Mesa Directiva expedirá la convocatoria pública aprobada por el Pleno para la elección del titular del Órgano Interno de Control de los organismos con autonomía reconocida en la Constitución y que ejerzan recursos públicos, misma que deberá publicarse en el Periódico Oficial "El Estado de Sinaloa” y en la página web del Congreso;
 
 V. Una vez abierto el periodo a que se refiera la convocatoria correspondiente, se recibirán las solicitudes de los aspirantes, por duplicado, y su declaración de intereses, el Presidente de la Mesa Directiva turnará los expedientes a las Comisiones de Puntos Constitucionales y Gobernación y de Fiscalización, mismas que se encargarán de realizar la revisión correspondiente a efecto de determinar aquellos aspirantes que acreditan el cumplimiento de los requisitos exigidos para el cargo por la Constitución y las leyes correspondientes;
 
@@ -1317,9 +1395,11 @@ XXIV. Las demás que le señalen los ordenamientos legales aplicables o que dete
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA GENERAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2023)</small>
+
 ###### ARTICULO 93.
 
-El Congreso del Estado, para su debido funcionamiento y en el cumplimiento de sus atribuciones, deberá contar con la estructura administrativa que se establece en la presente Ley.
+El Congreso del Estado, para su debido funcionamiento y en el cumplimiento de sus atribuciones, contará con la estructura administrativa que se establece en la presente Ley y en el Reglamento que para tal efecto emita la Junta de Coordinación Política.
 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1339,11 +1419,11 @@ La Secretaría General es la dependencia del Poder Legislativo cuya función es 
 
 La Secretaría General del Congreso, para el debido desarrollo de sus funciones, contará con los recursos humanos y materiales que se establezcan en el presupuesto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 96.
 
-Son atribuciones del Secretario General del Congreso:
+Son atribuciones de la persona titular de la Secretaría General del Congreso:
 
 I.- Formular y dirigir los planes y programas administrativos del Congreso;
 
@@ -1379,17 +1459,17 @@ IX.- Extender las actas de sesiones públicas ordinarias y extraordinarias prese
 
 X.- Elaborar y publicar el Diario de los Debates del Congreso, así como sus órganos de difusión;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
 
-XI.- Extender y certificar, la documentación correspondiente, que obre en los archivos del Congreso;
+XI. Extender, certificar y dar fe pública respecto de los actos que se realicen por las funciones administrativas y la documentación correspondiente que obre en los archivos del Congreso;
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
 XII.- Resolver asuntos de mero trámite relacionados con las actividades de la Cámara;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
 
-XIII.- Coordinar el trabajo de sus dependencias y las del Instituto de Investigaciones Parlamentarias;
+XIII. Coordinar el trabajo de sus Direcciones y Unidades;
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
@@ -1413,23 +1493,21 @@ ARTICULO 96 BIS.- La Secretaría General del Congreso apoyará a la Mesa Directi
 
 Para profesionalizar y hacer más eficientes los servicios de apoyo parlamentario y administrativo se instituye el servicio civil de carrera, regido por los principios de legalidad, imparcialidad, objetividad, especialización, honradez, lealtad, eficiencia y paridad de género. El reglamento establecerá y desarrollará las bases para la permanencia, promoción, estímulos, capacitación y actualización del personal.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 98.
 
-De la Secretaría General del Congreso dependerán las Direcciones Administrativa, de Asuntos Jurídicos y Proceso Legislativo, de Gestión y Vinculación Social y las demás unidades y Departamentos que sean necesarios para el debido cumplimiento de sus atribuciones.
+De la Secretaría General del Congreso dependerán las Direcciones Administrativa, de Asuntos Jurídicos y Proceso Legislativo, del Instituto de Investigaciones Parlamentarias, de Gestión y Vinculación Social y las Unidades de Estudios Económicos, de Sistemas y Cómputo y de Acceso a la Información Pública; así como los Departamentos y áreas que sean necesarias para el debido cumplimiento de sus atribuciones.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
+La designación y nombramiento de las personas Titulares de la Secretaría y Direcciones del Congreso, serán hechos por el Pleno, a propuesta de la Junta de Coordinación Política, atendiendo el principio de paridad de género, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa.
 
-El nombramiento del Secretario General y demás servidores públicos directivos del Congreso será hecho por el Pleno o por la Diputación Permanente, en su caso, a propuesta de la Junta de Coordinación Política, atendiendo las bases del servicio civil de carrera y el principio de paridad de género, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 99.
 
-Los Servidores Públicos del Congreso concurrirán de lunes a viernes a la oficina, a las nueve de la mañana, permaneciendo en ella al menos hasta las quince horas, sin perjuicio de continuar sus labores a cualquier hora del día, cuando así lo dispusiere el Secretario General del Congreso, con las facultades que le otorga esta Ley.
+Los Servidores Públicos del Congreso concurrirán de lunes a viernes a la oficina, cubriendo siete horas o las que disponga la Ley de los Trabajadores al Servicio del Estado, sin perjuicio de continuar sus labores cuando así lo dispusiere la persona titular de la Secretaría General del Congreso, con las facultades que le otorga esta Ley.
 
-Todo el personal de la administración guardará durante las horas de trabajo la mayor compostura y subordinación. Cuando algún servidor violare las anteriores prevenciones, podrá el Secretario General del Congreso, con su carácter de jefe inmediato, llamarle la atención, y si reincidiere, dará cuenta a quien corresponda para los efectos a que haya lugar.
+Todo el personal de la administración guardará durante las horas de trabajo la mayor compostura y subordinación. Cuando algún servidor público violare las anteriores prevenciones, podrá el Secretario General del Congreso, con su carácter de jefe inmediato, llamarle la atención, y si reincidiere, tomará las medidas necesarias conforme a la ley.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
@@ -1551,9 +1629,11 @@ Para el caso de la apertura y clausura de sus períodos extraordinarios de sesio
 
 Las sesiones del Congreso podrán ser: publicas, secretas, ordinarias, extraordinarias y solemnes. Podrán celebrarse en modalidad virtual o a distancia únicamente en los casos de fuerza mayor, siempre que para ello se empleen herramientas y tecnologías de la información y las comunicaciones en los términos de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2023)</small>
+
 ###### ARTICULO 112.
 
-Habrá sesión pública los martes y jueves de cada semana, con excepción de los días de festividad nacional, estatal y los que disponga la Cámara. Dicha sesión comenzará a las once de la mañana, a menos que el Presidente de la Cámara convoque a otra hora, pudiendo durar tres horas y podrá prorrogarse a juicio de la Cámara, dependiendo de la naturaleza de los asuntos en cartera.
+Habrá sesión pública los martes y jueves de cada semana, con excepción de los días de festividad nacional, estatal y los que disponga el Pleno o la Junta de Coordinación Política. Dicha sesión comenzará a las once de la mañana a menos que el Presidente de la Mesa Directiva convoque a otra hora y durará el tiempo necesario para desahogar los asuntos enlistados en el orden del día, a menos que el Pleno disponga lo contrario.
 
 Durante las sesiones podrá haber recesos cuando el Presidente así lo considere oportuno o conveniente para concertar un acuerdo legislativo, integrar debidamente un expediente, modificar un dictamen o cuando por acuerdo del Pleno, a propuesta de uno o más Diputados, así lo requiera algún asunto. La duración del receso será determinada por el Presidente de la Mesa Directiva.
 
@@ -1699,6 +1779,8 @@ Al término de la sesión de clausura del período ordinario de sesiones, el Pre
 
 #### SECCION CUARTA. DE LOS DICTAMENES
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
 ###### ARTICULO 134.
 
 La iniciativa es el documento formal que contiene el proyecto de Ley o Decreto que se propone por las personas facultadas para ello, para crear una situación jurídica o modificar una existente.
@@ -1711,35 +1793,57 @@ El derecho de iniciativa sólo compete a quienes expresamente señala el artícu
 
 El documento que contenga una iniciativa deberá cumplir los siguientes requisitos:
 
-I.- Deberá comprender un único objeto debidamente expresado;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
+
+I. Deberá comprender un único objeto constitucional y legalmente válido debidamente expresado;
 
 II.- Expresar los motivos, en forma clara y sistematizada, de lo que se propone;
 
-III.- Los fundamentos de derecho en que apoyen sus pretensiones;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
 
-IV.- El texto de la Ley, Decreto o Acuerdo que se propone, procurando estructurarlo en títulos, capítulos, secciones, apartados, artículos o cualquier otra forma que permita darles organización y congruencia;
+III.- La fundamentación y motivación de derecho en que apoyen sus pretensiones, observando las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, los precedentes y criterios jurisprudenciales que haya emitido la Suprema Corte de Justicia de la Nación o demás órganos jurisdiccionales del Poder Judicial de la Federación, según sea el caso;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
+
+IV.- El texto de la Ley o Decreto que se propone, procurando estructurarlo en títulos, capítulos, secciones, apartados, artículos o cualquier otra forma que permita darles organización y congruencia;
 
 V.- En el caso de reformas, la iniciativa de ley, capítulo, artículo o cualquiera otra parte de ella se propondrá de nuevo tal como debe quedar aprobada para sustituir completamente a la ley, capítulo, artículo o cualquiera otra parte reformada. Si la propuesta de reforma consistiere en intercalar artículos adicionales, la iniciativa de ley expresará el artículo o artículos de la antigua que se adicionen, señalando a aquellos el lugar en que deben quedar;
 
-VI.- Señalamiento de los artículos transitorios que correspondan; y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
 
-VII.- Acompañar, en su caso, los anexos documentales necesarios.
+VI. Señalamiento de los artículos transitorios que correspondan;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2023)</small>
+
+VII. El documento que contiene el análisis del impacto presupuestal; y
+
+VIII. Acompañar, en su caso, otros anexos documentales necesarios.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+Solo en el caso de las iniciativas ciudadanas que impliquen un impacto presupuestal y que no lo hayan desarrollado sus autores, el Congreso deberá suplir esa deficiencia a través de la Comisión correspondiente.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 137.
 
-Las iniciativas podrán ser de Ley, Decreto o Acuerdo.
+Las iniciativas podrán ser de Ley o Decreto.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 138.
 
-Es iniciativa de Ley aquella que tiende a una resolución que otorgue derechos o imponga obligaciones a la generalidad de las personas.
+Es iniciativa de Ley aquella que tiende a una resolución que otorgue derechos o imponga obligaciones a la generalidad de las personas o regule un poder, organismo con autonomía reconocida en la Constitución o un organismo público de naturaleza administrativa en lo particular y que proponga la expedición de un nuevo cuerpo normativo.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 139.
 
-Es iniciativa de Decreto aquella que tiende a una resolución que otorgue derechos o imponga obligaciones a determinadas personas físicas o morales.
+Es iniciativa de Decreto aquella que tiende a una resolución que otorgue derechos o imponga obligaciones a determinadas personas físicas o morales, y que proponga modificar parcialmente la Constitución Local, una Ley o un Decreto vigente.
 
 ###### ARTICULO 140.
 
-Es iniciativa de Acuerdo aquella que tiende a una resolución que por su naturaleza no requiera para su validez de la sanción, promulgación y publicación.
+(DEROGADO, P.O. 25 DE AGOSTO DE 2023)
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
@@ -1749,23 +1853,43 @@ Cuando se presente ante el Congreso una iniciativa, primeramente, deberá pasar 
 
 La Comisión de Protocolo y Régimen Orgánico Interior deberá informar por escrito, mensualmente, al Congreso del Estado de las iniciativas recibidas, para su debido conocimiento.
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+Una vez que se le haya dado primera lectura en el Pleno a la iniciativa, o bien en caso de iniciativas que requieran para su tramitación una sola lectura, no podrán ser retiradas por sus autores, quedando a reserva del Pleno la facultad de tomarlas o no en consideración, previa exposición de la motivación y fundamentación respectiva.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+Cuando la iniciativa haya sido suscrita por más de una persona, se requiere que la totalidad de los firmantes manifiesten su voluntad de retirarla, dado que de no ser así, se dará por asentado que solo retiran su firma de dicho documento.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+Se entenderá por retiro de una iniciativa el hecho de que su autor o autores ya no desean que se le de trámite legislativo, por tanto, esta quedará sin efectos y cesará el derecho a exigir su tramitación. Retirada la iniciativa, su autor o autores no podrán volver a presentarla durante el transcurso de la Legislatura respectiva, ni otra diversa que contenga una parte o porción normativa de la misma.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
 ###### ARTICULO 142.
 
-Las iniciativas que no reúnan los requisitos expresados por esta ley para ser registradas, deberán ser remitidas, por una sola vez, a quienes las presentaron para que hagan las correcciones pertinentes y en caso de que no se subsanen serán desechadas de plano.
+Las iniciativas que no reúnan los requisitos expresados por esta Ley para ser registradas, deberán ser remitidas, por una sola vez, a quienes las presentaron para que en el plazo de tres días naturales contados a partir del día siguiente al de la notificación, hagan las correcciones pertinentes y, en caso de que no se subsanen serán desechadas; salvo aquellas que incumplan con el requisito establecido en las fracciones I y III del artículo 136, las cuales serán desechadas de Plano bajo la motivación y razonamiento conducente debiendo ser notificada a su autor o autores, en ambos casos por la Comisión de Protocolo y Régimen Orgánico Interior.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 143.
 
-Ninguna iniciativa se someterá a la consideración del Congreso sin que antes haya sido examinada y dictaminada por la Comisión o Comisiones correspondientes. Esta exigencia podrá dispensarse por la Legislatura en los términos previstos por esta Ley.
+Previo acuerdo del Pleno, se podrá dar difusión a las iniciativas, dictámenes y proposiciones acerca de un asunto de interés general.
 
-Previo acuerdo de la Cámara, se podrá dar difusión a las iniciativas, dictámenes y proposiciones acerca de un asunto de interés general.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 144.
 
-Las iniciativas presentadas podrán ser leídas en dos sesiones diferentes; primero en la que fueren presentadas y después en la que disponga la Mesa Directiva del Congreso, salvo disposición especial que señale otro trámite.
+Las iniciativas podrán ser leídas en el Pleno en dos sesiones diferentes según determine la Junta de Coordinación Política en el orden del día respectivo, salvo aquellas que propongan pensiones o modificaciones a la Constitución Política del Estado de Sinaloa.
 
-Cuando el texto de la iniciativa se haya distribuido con anticipación, podrá ser tramitada con una sola lectura con la aprobación de la Asamblea.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
-Cuando se trate de iniciativas sumamente voluminosas, el Presidente puede someter al Pleno la determinación de sustituir la lectura, por la entrega de un tanto de la iniciativa impresa, para que cada legislador la estudie. La votación de este acuerdo será económica.
+Cuando el texto de la iniciativa se haya distribuido con anticipación al correo electrónico institucional, de cada Diputada o Diputado, podrá ser tramitada con una sola lectura con la aprobación del Pleno.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+Cuando se trate de iniciativas cuyo volumen excedan de treinta fojas por una sola cara, el Presidente podrá someter a consideración del Pleno la sustitución de la primera lectura por el envío de un tanto de la iniciativa al correo electrónico institucional de cada Diputada o Diputado, para su estudio previo a la sesión en la que se le dé su segunda lectura o su dispensa. La votación de esta propuesta será económica.
 
 > <small>(ADICIONADO, P.O. 26 DE MARZO DE 1997)</small>
 
@@ -1775,11 +1899,17 @@ En el caso de iniciativas de pensiones, serán tramitadas con una sola lectura y
 
 El día de la segunda lectura podrá exponer su autor, si lo tuviere a bien, o uno de ellos si fueren varios, los fundamentos que las apoyan, y podrán hablar una sola vez el autor de ella en pro y un miembro de la Cámara en contra. Estas prerrogativas no son extensivas a los simples ciudadanos que hagan uso del derecho de iniciativa.
 
-Podrá dispensarse la segunda lectura, siempre que la Cámara lo acuerde, a petición de algún Diputado, conforme a los requisitos para la dispensa de trámites.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+Podrá dispensarse la segunda lectura, siempre que el Pleno lo apruebe en votación económica de la mayoría absoluta de las Diputadas y Diputados presentes, a petición de alguno de ellos, conforme a lo previsto en la Sección Octava del Capítulo II del Título Quinto de esta Ley.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 146.
 
-Inmediatamente después de la segunda lectura, si la hubiere o en caso de su dispensa, se interrogará a la Cámara, si se toma o no en consideración la iniciativa; si la resolución fuere afirmativa se pasará a la Comisión que corresponda y si fuese negativa, se tendrá por desechada y no podrá volver a presentarse en el mismo período de sesiones.
+Inmediatamente después de la segunda lectura, si la hubiere o en caso de su dispensa, se interrogará al Pleno si se toma o no en consideración la iniciativa; si la resolución fuere afirmativa se pasará a la Comisión que corresponda y si fuese negativa, se tendrá por desechada y no podrá volver a presentarse en el mismo período de sesiones.
+
+Las iniciativas registradas por Diputadas, Diputados, ciudadanas, ciudadanos o quienes sean facultados conforme al artículo 45 de la Constitución Local, no tendrán fecha de caducidad, por lo tanto no es necesario que se ratifiquen en ningún momento.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
@@ -1787,49 +1917,77 @@ Inmediatamente después de la segunda lectura, si la hubiere o en caso de su dis
 
 Las iniciativas de Ley que presente la Legislatura del Estado ante el Congreso de la Unión serán acordadas por el Pleno y se firmarán por el Presidente y los Secretarios.
 
-Para el caso de las iniciativas que quedaren pendientes de resolución de una Legislatura a otra, el iniciador deberá ratificarlas ante la nueva Legislatura durante su primer período ordinario de sesiones.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE AGOSTO DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
-
-Toda iniciativa deberá ser dictaminada por la Comisión o las Comisiones respectivas, dentro de un plazo máximo de seis meses, contados a partir del día siguiente en que fueren turnadas a la Comisión o Comisiones correspondientes, con excepción del caso de iniciativas de Ley que propongan nuevos cuerpos normativos.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 #### SECCION QUINTA. DE LAS DISCUSIONES
 
 ###### ARTICULO 148.
 
-Las Comisiones formularán por escrito sus dictámenes, que constarán de dos partes, expositiva una y resolutiva otra.
+Las Comisiones formularán por escrito sus dictámenes y contendrán lo siguiente:
 
-En la primera, expresará los fundamentos de la resolución que se proponga y en la segunda se expondrá dicha resolución, reduciéndola a proposiciones claras y sencillas, o en caso de Ley o Decreto, a artículos numerados, sobre los que recaerá la votación de la Cámara.
+I. Exposición clara y precisa del asunto a que se refiere así como de sus antecedentes;
 
-Las Comisiones que creyeren pertinente proponer algo al Congreso en materias pertenecientes a su ramo, podrán ampliar su dictamen a materias relacionadas aún cuando no sea objeto expreso de la iniciativa.
+II. Las consideraciones de la Comisión o Comisiones sobre los aspectos de forma y fondo de la iniciativa o propuesta respectiva;
 
-No se tomarán en consideración los dictámenes que carezcan de los requisitos expresados, ni aquellos cuya parte resolutiva no forme un todo completo.
+III. La valoración del impacto presupuestal atento a lo dispuesto por los artículos 16 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Sinaloa;
 
-Los dictámenes podrán proponer la resolución en sentido aprobatorio o desaprobatorio respecto de la iniciativa que se dictamina, pudiendo modificar el contenido de la misma.
+IV. En su caso, las propuestas de modificación de la iniciativa;
+
+V. Los puntos resolutivos, pudiendo proponer la aprobación total o parcial del asunto o iniciativa que le dio origen o su desechamiento;
+
+VI. El texto del proyecto de ley o decreto con lenguaje inclusivo; y
+
+VII. Los nombres de quienes integran la Comisión o Comisiones que lo suscriben, así como sus firmas y la fecha en que lo aprobaron.
+
+Las Comisiones que creyeren pertinente proponer algo al Congreso en materias pertenecientes a su ramo, podrán ampliar su dictamen a materias relacionadas aun cuando no sea objeto expreso de la iniciativa de que se trate. Cuando existan varias iniciativas de una misma materia u ordenamiento legal, podrán ser dictaminadas en un sólo proyecto.
+
+No se tomarán en consideración los dictámenes que carezcan de los requisitos expresados.
+
+Los dictámenes podrán proponer la resolución en sentido aprobatorio o desaprobatorio respecto de la iniciativa que se dictamina, pudiendo modificar el contenido de la misma. Los dictámenes que se emitan en sentido aprobatorio propondrán un Decreto y los que se resuelvan en sentido desaprobatorio propondrán un Acuerdo.
+
+Las Comisiones, por conducto de sus Secretarios Técnicos, elaborarán proyectos de dictámenes los cuales, previo a su votación, deberán ser revisados y, en su caso, observados por la Dirección de Asuntos Jurídicos y Proceso Legislativo.
+
+Será obligación del Secretario Técnico elaborar los documentos necesarios para el desahogo de la reunión donde se analice, discuta y en su caso apruebe o no un dictamen. Los dictámenes deberán corresponder a la agenda legislativa o a los asuntos que defina la Junta de Coordinación Política.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 149.
 
-Cuando algún Diputado no pueda dictaminar en un negocio, por tener interés personal u otro motivo grave, será sustituido previo aviso a la Cámara.
+Cuando alguna Diputada o Diputado no pueda dictaminar en un negocio, por tener interés personal u otro motivo grave, será sustituido en ese asunto previo aviso al Pleno, con al menos dos días naturales de anticipación de la reunión de Comisión o Comisiones respectivas.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 150.
 
-Las Comisiones tomarán sus decisiones por mayoría de votos de sus miembros. Cuando alguno de sus miembros disienta de la resolución adoptada, podrá expresar su voto particular.
+Las Comisiones tomarán sus decisiones por mayoría absoluta de votos de sus integrantes. Las Diputadas y los Diputados cuyo voto fue a favor del dictamen lo deberán firmar con independencia del sentido de la resolución que se propone. Las Diputadas y los Diputados tienen obligación de votar en sentido afirmativo, negativo o en abstención, sin que por ningún motivo puedan salvar su voto.
 
-Los votos particulares serán declarativos y su fin es el de dejar asentada una determinada posición. Cuando alguno de los miembros de la Comisión no esté de acuerdo con algún punto particular del dictamen general, podrá firmar el dictamen y emitir su voto particular sobre el aspecto del que tuviere objeciones.
+Cuando algún integrante de las Comisiones disienta de la resolución adoptada respecto a todo el dictamen no estará obligado a firmarlo y podrá expresar su voto particular. Cuando en algún punto en específico del dictamen no esté de acuerdo, podrá firmarlo y emitir su voto particular sobre el aspecto del que tuviere objeciones.
+
+Los votos particulares serán declarativos y su fin es el de dejar asentada una determinada posición.
+
+Tratándose de Comisiones Unidas la votación deberá ser computada por los votos de la mayoría absoluta de sus integrantes de cada una de las comisiones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 151.
 
-Ninguna Comisión podrá suspender por sí misma el acuerdo de un negocio, sino precediendo su dictamen motivado que se discutirá para la resolución correspondiente.
+Ninguna Comisión podrá suspender ni dar por concluido el estudio, análisis o discusión de un asunto o iniciativa que les haya sido turnado por el Pleno, sino precediendo dictamen fundamentado y motivado para que lo conozca en última instancia el Pleno y emita la resolución correspondiente.
 
 Las Comisiones durante los recesos, continuarán el estudio de los asuntos pendientes, hasta producir el correspondiente dictamen.
 
 ###### ARTICULO 152.
 
-Una vez que estén firmados los dictámenes por la mayoría de los miembros de las Comisiones encargadas de un asunto, se imprimirán junto con los votos particulares si los hubiere y se entregarán a los Diputados en la sesión correspondiente.
+(DEROGADO, P.O. 25 DE AGOSTO DE 2023)
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 153.
 
-Las Comisiones deberán despachar los negocios que les correspondan o les encomiende la Cámara, a más tardar dentro de los treinta días de haberlos recibido. Cuando alguna Comisión creyere que conviene demorar o suspender el curso de algún negocio, no podrá hacerlo por sí misma, sino que abrirá dictamen, exponiendo a la Cámara esa conveniencia.
+Toda iniciativa podrá ser dictaminada por la Comisión o las Comisiones respectivas a partir del día siguiente en que fue turnada y hasta el final de la Legislatura en que fue presentada.
+
+Para tales efectos la Comisión o Comisiones correspondientes deberán emitir un dictamen en sentido aprobatorio o desaprobatorio de la iniciativa y ponerlo a consideración del Pleno dentro del plazo que hace referencia el párrafo anterior.
 
 ###### ARTICULO 154.
 
@@ -1849,11 +2007,17 @@ Pueden también las Comisiones, para ilustrar su juicio en el despacho de los ne
 
 Cuando para la elaboración de un dictamen se requieran conocimientos especiales, podrán las Comisiones, a efecto de normar su criterio, auxiliarse de personas que sean peritos en la materia a que el asunto se refiera.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
 ###### ARTICULO 158.
 
-Los dictámenes que emitan las Comisiones tendrán dos lecturas en diferentes sesiones, pero dispensándose la segunda lectura se pondrá a discusión en la misma sesión.
+Los dictámenes que emitan las Comisiones tendrán dos lecturas en diferentes sesiones.
 
-Cuando se trate de dictámenes sumamente voluminosos, el Presidente puede someter al Pleno la determinación de dispensar ya sea la primera o segunda lectura, sustituyendo la lectura, por la entrega de un tanto del dictamen impreso, para que cada legislador lo estudie. La votación de este acuerdo será económica.
+Los dictámenes se digitalizarán junto con los votos particulares si los hubiere y se enviarán al correo electrónico institucional a las Diputadas y a los Diputados por la Mesa Directiva a través de su Presidencia en la sesión del Pleno donde se les dé primera lectura.
+
+Solamente la segunda lectura de dictámenes podrá ser dispensada conforme a lo previsto en la sección octava del Capítulo II del Título Quinto de esta Ley.
+
+Cuando se trate de dictámenes cuyo volumen exceda de treinta fojas por una sola cara, el Presidente puede someter a consideración del Pleno la propuesta de sustituir la primera lectura, por el envío de un tanto del dictamen al correo electrónico institucional de cada Diputada o Diputado, para que cada legislador lo estudie previo a la sesión en la que se le dé su segunda lectura.
 
 ###### ARTICULO 159.
 
@@ -1861,17 +2025,21 @@ Los dictámenes sobre cuentas públicas, tendrán su primera lectura el día en 
 
 ###### ARTICULO 160.
 
-Si un proyecto constare de más de cien artículos, podrán darse las lecturas que correspondan de manera parcial, en el número de sesiones que acuerde la Asamblea, hasta que se haya terminado la lectura total del proyecto que se considerará para su aprobación.
+(DEROGADO, P.O. 25 DE AGOSTO DE 2023)
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 161.
 
-Los dictámenes que las Comisiones emitan sobre asuntos que no llegue a conocer la Legislatura que lo recibió, quedarán a disposición de la siguiente, mediante informe que se rinda, con el carácter de proyecto.
+Los dictámenes que las Comisiones emitan sobre asuntos que no llegue a conocer el Pleno de la Legislatura correspondiente quedarán a disposición de la siguiente bajo resguardo de la Mesa Directiva, mediante informe que se rinda, debiendo ser discutidos y votados en el Pleno de la nueva Legislatura durante el primer año de ejercicio constitucional.
+
+Aquellos proyectos de dictámenes que no se hayan analizado o discutido por la Comisión o Comisiones respectivas, deberán ser atendidos por dichos órganos durante el primer año de ejercicio constitucional de la nueva Legislatura.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 162.
 
-Si debe ser reformado un dictamen, la Comisión encargada de hacerlo, lo presentará con las reformas dentro de los cinco días siguientes a la fecha en que lo recibió.
-
-Las iniciativas dictaminadas y no aprobadas no podrán volver a presentarse en el mismo período ordinario de sesiones.
+Si un dictamen adolece de uno de los requisitos establecidos en el artículo 148 de la presente Ley aun cuando haya sido emitido por la Comisión o Comisiones que lo analizaron no podrá ser sometido al Pleno a su consideración. Para tales efectos la Junta de Coordinación Política lo analizará y lo comunicará a la Presidencia de la Mesa Directiva para que lo informe a la Comisión o Comisiones respectivas, las cuales subsanarán dicho aspecto dentro de los cinco días hábiles siguientes a la fecha en que se les notifique.
 
 #### SECCION SEXTA. DE LAS VOTACIONES
 
@@ -1883,11 +2051,15 @@ Sólo procede la discusión cuando el Presidente haya presentado el asunto al Pl
 
 Tres días a lo menos, antes de la discusión de las Leyes o Decretos, o con la oportunidad necesaria, la Cámara dará aviso al Ejecutivo del Estado, al Supremo Tribunal de Justicia del Estado, a los Ayuntamientos, en sus respectivos casos, a fin de que si lo estiman conveniente, envíen un Representante para que con voz, pero sin voto, tome parte de las discusiones.
 
-Los asuntos se discutirán según estén listados en el orden del día, salvo resolución del Pleno en contrario.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+Los asuntos se discutirán según estén listados en el orden del día o bien previa modificación del mismo con la aprobación del Pleno, en votación económica.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 164.
 
-No podrá ser puesto a discusión ningún proyecto de Ley o Decreto sin que previamente se hayan repartido a los Diputados las copias que contengan el dictamen. Llegado el momento de la discusión se leerá el dictamen de la Comisión y una vez concluido el Presidente declarará: "Está a discusión el dictamen".
+No podrá ser puesto a discusión ningún proyecto de Ley o Decreto sin que previamente se hayan realizado los trámites que establece el artículo 158 de la presente Ley. Cuando proceda la discusión del dictamen el Presidente declarará: “Está a discusión el dictamen".
 
 ###### ARTICULO 165.
 
@@ -1913,13 +2085,23 @@ Aprobado en lo general el proyecto, se continuará su discusión en lo particula
 
 Cuando el proyecto conste de un único artículo no habrá necesidad de votarlo en lo particular.
 
-La discusión en lo particular se hará separando los artículos que lo ameriten, y solamente éstos serán sometidos a ella, considerándose el resto como aprobados. Igualmente se tendrán por aprobados los artículos que reservados para su discusión en lo particular no se hayan hecho, respecto de ellos, proposiciones concretas por escrito. Para este efecto los participantes en la discusión señalarán previamente los artículos que formarán parte de ella y harán las proposiciones concretas, mismas que serán objeto de votación.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
-Para que las propuestas en lo particular procedan requerirán ser aprobadas en los términos de ley.
+La discusión de las reservas en lo particular se hará separando del decreto del dictamen los artículos que lo ameriten; y éstos serán sometidos a consideración del pleno, para tal efecto, en forma conjunta, en un único documento. Los artículos que no se separaron para su discusión en lo particular se considerarán como aprobados. Igualmente se tendrán por aprobados los artículos que reservados para su discusión en lo particular no se hayan hecho, respecto de ellos, proposiciones concretas por escrito. En atención a lo anterior, los participantes en la discusión señalarán previamente los artículos que formarán parte de ella y harán las proposiciones concretas, mismas que serán objeto de votación, sujetándose a los criterios siguientes:
 
-Durante la discusión en lo particular de un proyecto podrán presentarse, por escrito, otro u otros artículos para sustituir totalmente al que está a discusión o bien para modificar, adicionar o suprimir algo del mismo.
+I. Las propuestas de reservas en lo particular únicamente deberán presentarse en el momento en que se declare abierta la discusión del dictamen, debiendo ser por escrito;
 
-Cuando la mayoría de los miembros integrantes de la Comisión Dictaminadora acepte la sustitución, modificación o supresión, la proposición se considerará parte del proyecto de la Comisión. De no aceptarla ésta, el Presidente consultará al Pleno si la admite o no a discusión; en el primer caso la someterá a debate y posteriormente resolverá en torno a ella. Y en el segundo caso se tendrá por desechada y aprobada la que se presentó en el dictamen.
+II. Por cada proyecto de dictamen sometido a consideración del Pleno, los Grupos Parlamentarios y el Grupo Plural, en su caso, así como las Diputadas y los Diputados que no integren Grupo, deberán interponer solo un escrito de reservas con independencia del número de artículos que se hayan reservado, mismos que serán discutidos conforme al párrafo segundo de este artículo;
+
+III. Cuando sólo haya un escrito de reserva que contenga dos o más artículos y alguna Diputada o Diputado, respecto de esos artículos, considera de forma fundamentada y motivada que únicamente una parte de ellos deban discutirse y analizarse para en su caso, ser aprobados por el Pleno, el Presidente de la Mesa Directiva someterá consideración del Pleno si acepta o no la propuesta en votación económica por mayoría absoluta. En caso afirmativo se discutirán dichos artículos propuestos, hablando dos diputadas o diputados a favor y dos en contra, declarándose rechazado el resto. En caso de no aceptarse la propuesta por el Pleno se procederá conforme lo que señala la fracción anterior; y
+
+IV. En el caso que haya dos o más escritos de reserva que coincidan respecto de uno o varios artículos, se discutirán una después de la otra y se someterán a votación: primero los artículos sobre los que existe una única propuesta para su aprobación o no; y posteriormente se votarán las demás propuestas que contengan un artículo o varios, que sean los mismos, pero que propongan supuestos antagónicos o diferentes para determinar cuál será la que en su caso se apruebe o no.
+
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+> <small>(DEROGADO OCTAVO PÁRRAFO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+> <small>(DEROGADO NOVENO PÁRRAFO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 169.
 
@@ -1933,13 +2115,15 @@ Cuando se esté discutiendo alguna proposición o proyecto de Ley, no se permiti
 
 Si durante la discusión de un artículo hubiere dos o más proposiciones se discutirá una después de la otra.
 
-###### ARTICULO 172.
+###### ARTÍCULO 172.
 
-Cuando un artículo incluya varias partes, estás se discutirán y votarán separadamente, si así lo aprueba la Asamblea.
+(DEROGADO, P.O. 25 DE AGOSTO DE 2023)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 173.
 
-En las discusiones, las intervenciones de los miembros del Congreso, serán por una sola vez cuando se trate del mismo punto y tendrán una duración máxima de treinta minutos, para hacerlo por más tiempo, necesitarán la autorización de la Asamblea concedida por la mayoría en votación económica. Pudiendo además, hacer uso de la palabra únicamente para rectificar, contestar alusiones personales o hacer aclaraciones sobre conceptos vertidos por el orador en turno por un término no mayor de cinco minutos, por una sola vez.
+En las discusiones, las intervenciones de las Diputadas y los Diputados, serán por una sola vez cuando se trate del mismo punto y tendrán una duración máxima de quince minutos. Para hacerlo por más tiempo, necesitarán la autorización del Pleno concedida por mayoría absoluta en votación económica. Pudiendo además, hacer uso de la palabra únicamente para rectificar, contestar alusiones personales o hacer aclaraciones sobre conceptos vertidos por el orador en turno por un término no mayor de cinco minutos, por una sola vez.
 
 Los diálogos quedan prohibidos. Para interpelar al orador se requerirá su autorización previa.
 
@@ -1955,15 +2139,17 @@ En cualquier momento del debate se podrá pedir se observen las disposiciones de
 
 Escuchada y valorada la moción el Presidente resolverá lo conducente.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
 ###### ARTICULO 176.
 
-Ningún Diputado, cuando se encuentre en tribuna en el uso de la palabra podrá ser interrumpido, salvo por el Presidente para pedir la lectura de un documento que ilustre la discusión, advertirle que se le ha agotado el tiempo, exhortarlo a que se atenga al tema de discusión; llamarlo al orden cuando ofenda al Congreso, a alguno de los Diputados o al público, o para preguntarle si acepta contestar alguna interpelación que le formulare otro Diputado.
+Ninguna Diputada o Diputado, cuando se encuentre en tribuna en el uso de la palabra podrá ser interrumpido, salvo por el Presidente para pedir la lectura de un documento que ilustre la discusión, advertirle que se le ha agotado el tiempo, exhortarlo a que se atenga al tema de discusión; llamarlo al orden cuando ofenda al Congreso, a alguna de las Diputadas y los Diputados o al público, o para preguntarle si acepta contestar alguna interpelación que le formulare otro Diputado.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 177.
 
-Los Diputados harán uso de la palabra en el orden que se les conceda, y los que no se encuentren presentes en el salón de sesiones (sic) el caso de sesiones presenciales o no se encuentren activos en la herramienta a distancia para el caso de sesiones virtuales, cuando les toque el turno, se entenderá que la renuncian.
+Las Diputadas y los Diputados harán uso de la palabra en el orden que se les conceda. Los que no se encuentren presentes en el salón de sesiones en el caso de sesiones presenciales o no se encuentren activos en la herramienta a distancia para el caso de sesiones virtuales, cuando les toque el turno, se entenderá que la renuncian.
 
 ###### ARTICULO 178.
 
@@ -1981,7 +2167,9 @@ Los miembros de la Comisión que elaboró el dictamen que se discute podrán par
 
 Ninguna discusión se podrá suspender sino por estas causas:
 
-I.- Por el acto de levantar la sesión a la hora señalada o por no existir quórum;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
+
+I. Por el acto de levantar la sesión previa petición de alguna Diputada o Diputado y aprobación por el Pleno o por no existir quórum;
 
 II.- Por grave desorden en las galerías o en el seno de la misma Cámara, y mientras se restableciera el orden; y
 
@@ -1991,13 +2179,19 @@ III.- Por alguna proposición suspensiva de cualquier miembro de la Cámara, en 
 
 En la discusión del dictamen no podrá hacerse más de una moción suspensiva.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
 ###### ARTICULO 183.
 
-Presentada por escrito una moción suspensiva se leerá sin otro requisito que oír a su autor si la quisiera fundar, o a cualquiera otro de los Diputados, luego de lo cual en votación económica se preguntará a la Cámara si se toma en consideración; en caso de negativa, se tendrá por desechada y en caso de afirmativa se discutirá y votará en el acto.
+Presentada por escrito una moción suspensiva se leerá sin otro requisito que oír a su autor quien la deberá fundamentar y motivar, o a cualquiera de las Diputadas y los Diputados, luego de lo cual en votación económica se preguntará al Pleno si se toma en consideración; en caso de negativa, se tendrá por desechada y en caso de afirmativa se discutirá y votará en el acto.
+
+Los efectos de una moción suspensiva serán que regresará a la Comisión o Comisiones dictaminadoras para su modificación en el sentido que se haya manifestado la discusión, presentándolo de nuevo a más tardar dentro de cinco días hábiles de haber recibido el expediente.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 184.
 
-Puesto a discusión algún dictamen o iniciativa, ni la Comisión ni sus autores podrán retirarlo sin previa licencia de la Cámara, que se solicitará verbalmente; sin embargo, aún sin retirar el dictamen o iniciativa, podrán sus autores modificarlo al tiempo de discutirse en particular, pero en el sentido que manifieste la discusión.
+Puesto a discusión algún dictamen, la Comisión o Comisiones no podrán retirarlo sin previa licencia del Pleno, que se solicitará verbalmente a través de alguna Diputada o Diputado que ostente la Presidencia de dichos órganos; sin embargo, aún sin retirar el dictamen, podrán modificarlo al tiempo de discutirse en lo particular en el sentido que se manifieste la discusión.
 
 ###### ARTICULO 185.
 
@@ -2009,7 +2203,7 @@ En la discusión, y a solicitud de los participantes en la misma, podrán traers
 
 ###### ARTICULO 187.
 
-Si se declara que vuelva a Comisión algún dictamen, para que se reforme, en lo general o en lo particular, la Comisión lo hará en el sentido que haya manifestado la discusión, presentándolo de nuevo a más tardar dentro de cinco días de haber recibido el expediente.
+(DEROGADO, P.O. 25 DE AGOSTO DE 2023)
 
 ###### ARTICULO 188.
 
@@ -2037,9 +2231,9 @@ Habrá tres clases de votaciones: nominal, económica y por cédula.
 
 Para la práctica de las votaciones nominal y económica en las sesiones del Pleno del Congreso, se utilizará en principio el Sistema Electrónico de Asistencia y Votación, para que cada Diputada o Diputado desde su curul, tenga la opción de votar a favor o en contra y los resultados aparezcan en un tablero.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
-El tiempo con el que contarán las Diputadas y Diputados para emitir su voto mediante el Sistema de (sic) Electrónico de Asistencia y Votación será de tres minutos. La Presidencia de la Mesa Directiva le hará saber este hecho a cada legislador para tal efecto. Una vez concluido el tiempo disponible para la votación, la Secretaría hará el cómputo de los votos según como aparezcan en el tablero. Quienes no hayan emitido su voto en el tiempo oportuno, se considerará que lo hacen a favor de la propuesta de dictamen de que se trate.
+El tiempo con el que contarán las Diputadas y Diputados para emitir su voto mediante el Sistema Electrónico de Asistencia y Votación será de tres minutos. La Presidencia de la Mesa Directiva le hará saber este hecho a cada legislador para tal efecto. Una vez concluido el tiempo disponible para la votación, la Secretaría hará el cómputo de los votos según como aparezcan en el tablero. Quienes estén presentes durante el tiempo de la votación estarán obligados a emitir su voto en sentido positivo, negativo o en abstención, en caso de que estando presente no emitan su voto se considerará que lo hacen a favor de la propuesta de dictamen de que se trate.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
@@ -2079,17 +2273,23 @@ II.- Las que tengan por objeto elegir al Gobernador del Estado en los términos 
 
 III.- Las que tengan por finalidad designar a los Magistrados del Supremo Tribunal de Justicia del Estado;
 
-IV.- Las que tengan por objeto designar a los Magistrados del Tribunal Estatal Electoral;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
 
-V.- Las que tengan por objeto designar a los Magistrados del Tribunal de lo Contencioso Administrativo del Estado;
+IV. Las que tengan por objeto designar a los integrantes de los Órganos con Autonomía Constitucional reconocida, siempre que sea facultad del Congreso;
 
-VI.- Las que tengan por objeto designar a los miembros del Congreso que serán Consejeros del Poder Legislativo ante el Consejo Estatal Electoral;
+V. (DEROGADA, P.O. 25 DE AGOSTO DE 2023)
 
-VII.- Las que tengan por objeto designar a los Consejeros Ciudadanos del Consejo Estatal Electoral; y
+VI. (DEROGADA, P.O. 25 DE AGOSTO DE 2023)
+
+VII. (DEROGADA, P.O. 25 DE AGOSTO DE 2023)
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 VIII.- En general, todas aquellas que se trate de nombrar o elegir personas, salvo los casos para los que la presente Ley disponga una forma específica de votación.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+Se harán por cédula todas las votaciones en que se elijan personas entre dos o más propuestas; al efecto, las Diputadas y los Diputados las depositarán en una urna que con tal objeto se colocará en la mesa. Cuando se trate de elegir a una sola persona donde la propuesta solo la contemple a ella la votación deberá ser nominal.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
@@ -2097,7 +2297,9 @@ VIII.- En general, todas aquellas que se trate de nombrar o elegir personas, sal
 
 Los Diputados en las votaciones nominales y económicas, tienen obligación de votar precisamente en sentido afirmativo o negativo, sin que por ningún motivo puedan salvar su voto.
 
-Encontrándose presente el Diputado y no manifestando su voto, se entenderá a favor del proyecto.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+Las diputadas y diputados que se encuentren presentes, estarán obligados a emitir su voto en sentido positivo, negativo o en abstención y en caso de no emitirlo se entenderá y computará a favor del proyecto.
 
 ###### ARTICULO 197.
 
@@ -2113,19 +2315,31 @@ Serán económicas todas las votaciones, con excepción de los casos en que se p
 
 ###### ARTICULO 200.
 
-Se harán por cédula todas las votaciones en que se elijan personas; al efecto, los Diputados las depositarán en una urna que con tal objeto se colocará en la mesa.
+(DEROGADO, P.O. 25 DE AGOSTO DE 2023)
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 201.
 
-Concluida la votación por cédula, uno de los Secretarios preguntará si falta algún Diputado por votar, enseguida contará las cédulas para comparar su número con el de votantes, y se hará el computo de votos y se dará a conocer el resultado.
+Concluida la votación por cédula, el Presidente de la Mesa Directiva preguntará si falta alguna Diputada o Diputado por votar, enseguida ordenará a las Secretarías contar las cédulas para comparar su número con el de votantes, y se hará el cómputo de votos y se dará a conocer el resultado.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 202.
 
-Cuando alguna persona no tuviera mayoría absoluta en el primer escrutinio, se repetirá la elección entre los dos que obtuvieron el mayor número de votos si dos o más hubieren obtenido igual número de sufragios, entre ellos se repetirá la elección pero habiendo al mismo tiempo otra persona que haya obtenido mayor número de sufragios que aquéllos se le tendrá como primer competidor y el segundo se sacará por votación entre quienes tengan igual número de votos. Repetida la votación y resultando empate, decidirá la suerte quién debe ser electo.
+Cuando alguna persona no tuviera el número de votos requeridos en el primer escrutinio, se repetirá la elección entre los dos que obtuvieron el mayor número de votos.
+
+Si en el primer escrutinio hubiere empate entre dos o más personas, se volverá a realizar la votación entre ellas.
+
+Si una persona alcanzó el mayor número de votos sin tener la mayoría requerida y dos o más están empatados en segundo lugar, respecto de estos últimos se realizará otra votación para que el ganador compita con quien obtuvo el mayor número de votos en primera elección.
+
+Si en los supuestos anteriores no se alcanza la votación requerida en caso de personas a elegir por convocatoria, se deberá emitir, una nueva donde tendrán derecho a participar las personas no electas. En el caso de personas propuestas en una terna remitida por el titular del Poder Ejecutivo del Estado o el Consejo de la Judicatura del Poder Judicial del Estado, estos podrán enviar una nueva terna.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 203.
 
-Toda vez que se encuentren cédulas en blanco al computar una votación, se adicionarán a los votos que haya reunido el candidato que tenga más.
+Toda vez que se encuentren cédulas en blanco o bien que la votación no coincida con el número de Diputadas o Diputados presentes por falta de cédulas, al computar una votación se adicionarán a los votos que haya reunido el candidato que tenga más.
 
 ###### ARTICULO 204.
 
@@ -2143,11 +2357,19 @@ No podrán dividirse los artículos de cualquier dictamen en más partes, al tie
 
 Mientras se efectúa la votación, ningún Diputado podrá salir del salón ni excusarse de votar.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
 ###### ARTICULO 208.
 
-Todas las votaciones de cualquier clase, se verificarán a mayoría absoluta de votos con los Diputados que se encuentren presentes en el momento de la votación, si forman quórum, a no ser en aquellos casos en que la Constitución o esta Ley señalen otra forma.
+Todas las votaciones de cualquier clase, se verificarán a mayoría absoluta de votos con las Diputadas y Diputados que se encuentren presentes en el momento de la votación si existe quórum en la sesión del Pleno, a no ser en aquellos casos en que la Constitución o esta Ley señalen otra forma.
+
+Se entenderá por mayoría absoluta la votación de la mitad más uno de las Diputadas y los Diputados presentes en la sesión del Pleno, siempre que formen quórum.
+
+Se entenderá por mayoría calificada la votación de las dos terceras partes de la totalidad de las Diputadas o Diputados integrantes del Congreso, o bien, las dos terceras partes de las Diputadas o Diputados presentes en la sesión del Pleno, según disponga el ordenamiento respectivo.
 
 #### SECCION OCTAVA. DE LAS DISPENSAS DE TRÁMITE
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 209.
 
@@ -2169,33 +2391,55 @@ Para ratificar un Proyecto de Ley o de Decreto devuelto por el Ejecutivo con obs
 
 Se reputará aprobado por el Ejecutivo, todo proyecto de Ley o Decreto que no sea devuelto con observaciones al Congreso dentro de los primeros ocho días útiles contados desde la fecha en que lo reciba, a no ser que corriendo ese término hubiere el Congreso cerrado sus sesiones; en ese caso, la devolución deberá hacerse el primer día útil del nuevo período ordinario de sesiones.
 
-#### SECCION NOVENA. DE LA EXPEDICIÓN DE LAS LEYES
+#### SECCIÓN NOVENA. DE LAS RESOLUCIONES DEL CONGRESO
 
 ###### ARTICULO 214.
 
-Para que se dispensen los trámites que debe correr un Proyecto de Ley o Iniciativa, se necesita proposición verbal o escrita, en que se pida a la Cámara la dispensa expresándose los trámites cuya dispensa se solicita, o si se pide la de todos.
+Para que se dispensen los trámites que debe correr un Proyecto de Ley o Iniciativa, se necesita proposición verbal o escrita fundamentada y motivada, en que se pida al Pleno la dispensa expresándose los trámites cuya dispensa se solicita, o si se pide la de todos.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 215.
 
-La proposición podrá ser puesta a discusión, la que versará sobre la urgencia u obvia resolución de la Ley o Decreto de que se trate, pudiendo hablar dos Diputados en pro y dos en contra.
+La proposición podrá ser puesta a discusión, la que versará sobre la urgencia u obvia resolución de la Ley o Decreto de que se trate, pudiendo hablar dos Diputadas o Diputados a favor y dos en contra.
+
+En la petición de dispensa de trámites que versen sobre un tema urgente se deberán motivar los hechos que generan una condición de urgencia en su discusión y aprobación, su relación medio-fin esto es, que tales hechos necesariamente generen la urgencia en la aprobación de la iniciativa de ley o iniciativa de que se trate, pues, de no hacerse de esta forma, ello traería consecuencias negativas para la sociedad; y, que tal condición de urgencia evidencia la necesidad de que se omitan ciertos trámites parlamentarios, sin que en ningún caso ello se traduzca en afectación a principios o valores democráticos.
 
 ###### ARTICULO 216.
 
 Si se otorgara la dispensa de todos los trámites el proyecto de Ley será puesto inmediatamente a discusión en lo general y en lo particular.
 
-En esta dispensa de trámites no se entienden comprendidos los que se originen de la discusión en adelante, a menos que se presente nueva solicitud de dispensa.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+En esta dispensa de trámites no se entienden comprendidos los que se originen de la discusión de los dictámenes en adelante.
 
 ###### ARTICULO 217.
 
-Podrán dispensarse todos o cualquiera de los trámites formales previstos en esta Ley.
+(DEROGADO, P.O. 25 DE AGOSTO DE 2023)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 218.
 
 Las Leyes no comprenderán más que un sólo objeto que se expresará siempre en su epígrafe o rubro. No se reformarán por simple referencia a su título o fecha, sino que la Ley reformada, capítulo, artículo o cualquiera otra parte de ella, se propondrá de nuevo tal como debe quedar aprobada, para substituir completamente a la Ley, capítulo, artículo o cualquiera otra parte reformada. Si la reforma consistiere en intercalar artículos adicionales, la nueva Ley expresará el artículo o artículos de la antigua que se adicionen, señalando a aquéllos el lugar en que deben quedar.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
 ###### ARTICULO 219.
 
-Toda Ley o Decreto será expedido bajo la firma del Presidente y Secretarios del Congreso, en la siguiente forma: "El Congreso del Estado Libre y Soberano de Sinaloa, representado por su (número de orden) Legislatura, ha tenido a bien expedir la (o el) siguiente Ley (o Decreto); (número) o nombre oficial de la Ley o Decreto". Seguirá el texto y al final dirá: " Es dado en el Palacio del Poder Legislativo del Estado en Culiacán Rosales, Sinaloa a los.... días del mes de......de....."
+Toda Ley o Decreto será expedido bajo la firma de la persona titular de la Presidencia y Secretarios de la Mesa Directiva del Congreso, en la siguiente forma: "El Congreso del Estado Libre y Soberano de Sinaloa, representado por su (número de orden) Legislatura, ha tenido a bien expedir la (o el) siguiente Ley (o Decreto); (número) o nombre oficial de la Ley o Decreto". Seguirá el texto y, al final dirá: "Es dado en el Palacio del Poder Legislativo del Estado en Culiacán Rosales, Sinaloa a los.... días del mes de......de....."
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+###### ARTICULO 219 Bis.
+
+De conformidad con el artículo 42 de la Constitución Política del Estado, toda resolución del Congreso tendrá el carácter de Ley, Decreto o Acuerdo.
+
+Será Ley cuando se trate de la expedición de un nuevo cuerpo normativo que otorgue derechos o imponga obligaciones a la generalidad de las personas o regule un poder, organismo con autonomía reconocida en la Constitución o un organismo público de naturaleza administrativa en lo particular.
+
+Será Decreto cuando se modifique una parte de una Ley, Leyes o de la Constitución Política del Estado, o bien se expida o modifique algún Decreto por el cual se haya instituido o regulado una figura jurídica en lo particular.
+
+Será Acuerdo cuando se resuelvan asuntos de carácter interno o bien se proponga el desechamiento de iniciativas mediante dictamen de la Comisión o Comisiones Permanentes y aprobado por el Pleno. También se expedirá un Acuerdo cuando se haya desechado una iniciativa en el Pleno previa fundamentación y motivación.
 
 ### CAPITULO III. DE LA ASISTENCIA DE LOS CIUDADANOS A LAS SESIONES
 
@@ -2694,3 +2938,23 @@ P.O. 16 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor el día de su aprobación por el Pleno.
 
 SEGUNDO. Publíquese en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 25 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 564 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO Y DE LA LEY DE PARTICIPACIÓN CIUDADANA, AMBAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de este Congreso del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO TERCERO.
+
+Las Diputadas y los Diputados que a la entrada en vigor del presente Decreto no formen Grupo Parlamentario podrán constituir el Grupo Plural en los términos y en los supuestos del artículo 54 Bis.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto la Junta de Coordinación Política propondrá al Pleno la reestructuración de Comisiones Permanentes.
