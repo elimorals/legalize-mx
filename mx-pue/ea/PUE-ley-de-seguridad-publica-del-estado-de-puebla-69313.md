@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-publica-del-estado-de-puebla-69313"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-15"
-last_updated: "2022-04-19"
+last_updated: "2023-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
 
@@ -407,13 +407,13 @@ XIV.- Diseñar, aplicar y, en su caso, coordinar, estrategias, planes y programa
 
 XV.- Cumplir los acuerdos del Sistema en materia de prevención del delito;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
 
-XVI.- Participar en la integración del Programa Estatal de Seguridad Pública; y
+XVI.- Participar en la integración del Programa Estatal de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
 
-XVII.- Las demás que las leyes, reglamentos, decretos, acuerdos y convenios le atribuyan, así como las que le designe o delegue el Titular del Ejecutivo o el Sistema.
+XVII.- En coordinación con el Consejo Estatal de Coordinación del Sistema Nacional de Seguridad Pública, poner a disposición de las autoridades municipales, capacitaciones en materia de Seguridad Pública para la certificación, nombramiento, registro, régimen disciplinario y el registro, manejo y control de armas;
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2020)</small>
 
@@ -498,6 +498,10 @@ El Consejo Estatal tendrá las atribuciones siguientes:
 I. Proponer al interior del Sistema los anteproyectos de reformas a leyes y reglamentos en materia de seguridad pública, así como los protocolos de actuación y respuesta necesarios;
 
 II.- Elaborar programas y celebrar convenios específicos en materia de seguridad pública;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2023)</small>
+
+II Bis.- Diseñar e implementar, en coordinación con la Secretaría de Seguridad Pública del Estado, capacitaciones en materia de Seguridad Pública a las autoridades municipales, a fin de facilitar el conocimiento y cumplimiento de sus atribuciones y obligaciones, la certificación, nombramiento, registro y régimen disciplinario, así como el registro, manejo y control de armas;
 
 III.- Vincular los programas del Sistema con los Municipios;
 
@@ -1154,6 +1158,10 @@ XI.- No tener suspensión o inhabilitación ni destitución por resolución firm
 XII.- Cumplir con los deberes establecidos en esta Ley, y demás disposiciones que deriven de la misma; y
 
 XIII.- Los demás que establezcan otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+Sin perjuicio de lo dispuesto en las fracciones anteriores, para ser titular de alguna de las ramas del cuerpo de seguridad pública municipal, además, se deberá acreditar la asistencia a la capacitación en materia de Seguridad Pública que, en términos de la presente Ley y demás legislación aplicable, impartan las autoridades en la materia.
 
 B. De Permanencia:
 
@@ -2424,3 +2432,13 @@ P.O. 19 DE ABRIL DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XVI Y XVII DEL ARTÍCULO 17, Y ADICIONA LA FRACCIÓN II BIS AL ARTÍCULO 21, Y UN ÚLTIMO PÁRRAFO AL APARTADO A DEL ARTÍCULO 56, TODOS DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. El Ejecutivo del Estado realizará las adecuaciones a la normatividad aplicable, en los términos previstos en el presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
