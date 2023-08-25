@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-planeacion-para-el-desarrollo-del-estado-de-puebla-14159
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-14"
-last_updated: "2020-01-14"
+last_updated: "2023-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2023.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 14 de enero de 2020.
 
@@ -957,15 +957,27 @@ Los Municipios promoverán la participación de los sectores de la sociedad, med
 
 I. El Presidente Municipal del Ayuntamiento, quien fungirá como Presidente;
 
-II. Un representante del Comité de Planeación para el Desarrollo del Estado de Puebla, designado por su Coordinador General, quien fungirá como Secretario Técnico;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
 
-III. Los Presidentes de las Juntas Auxiliares del Municipio, quienes fungirán como Vocales, y
+II. Un representante del Comité de Planeación para el Desarrollo del Estado de Puebla, designado por su Coordinador General;
 
-IV. Un representante comunitario por localidad, barrio o colonia popular y de los comités de obra del Municipio, quienes fungirán como Vocales.
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
+
+III. Los Presidentes de las Juntas Auxiliares del Municipio, quienes fungirán como Vocales;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
+
+IV. Un representante comunitario por localidad, barrio o colonia popular y de los comités de obra del Municipio, quienes fungirán como Vocales, y
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2023)</small>
+
+V. La Persona Titular de la Dependencia o Entidad de la Administración Pública Municipal, que esté encargada de la elaboración del Plan Municipal de Desarrollo, quien fungirá como Secretaria o Secretario Técnico.
 
 La elección de los representantes comunitarios ante este órgano de planeación se llevará a cabo en asambleas democráticas.
 
-Los integrantes de las instancias de participación social a que se refieren las fracciones anteriores, contarán con voz y voto, a excepción del señalado en la fracción II quien únicamente contará con voz.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+Los integrantes de las instancias de participación social a que se refieren las fracciones anteriores contarán con voz y voto, a excepción de los señalados en las fracciones II y V quienes únicamente contarán con voz.
 
 ###### ARTÍCULO 79.
 
@@ -1054,3 +1066,13 @@ SÉPTIMO. Todo instrumento legal, jurídico o administrativo y norma en sentido 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Cuatro Veces Heroica Puebla de Zaragoza, a los diez días del mes de diciembre de dos mil diecinueve. Diputada Presidenta. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica. Diputado Vicepresidente. JUAN PABLO KURI CARBALLO. Rúbrica. Diputado Vicepresidente. RAÚL ESPINOSA MARTÍNEZ. Rúbrica. Diputado Secretario. URUVIEL GONZÁLEZ VIEYRA. Rúbrica. Diputada Secretaria. BÁRBARA DIMPNA MORÁN AÑORVE. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en la Sede del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los doce días del mes de diciembre de dos mil diecinueve. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO FERNANDO LUIS MANZANILLA PRIETO. Rúbrica. La Secretaria de Planeación y Finanzas. CIUDADANA MARÍA TERESA CASTRO CORRO. Rúbrica. La Secretaria de Administración. CIUDADANA ROSA DE LA PAZ URTUZUÁSTEGUI CARRILLO. Rúbrica. La Secretaria de la Función Pública. CIUDADANA LAURA OLIVIA VILLASEÑOR ROSALES. Rúbrica. El Secretario de Trabajo. CIUDADANO ABELARDO CUELLAR DELGADO. Rúbrica. La Secretaria de Economía. CIUDADANA OLIVIA SALOMÓN VIBALDO. Rúbrica. El Secretario de Cultura. CIUDADANO JULIO GLOCKNER ROSSAINZ. Rúbrica. La Secretaria de Turismo. CIUDADANA MARÍA DE LOS ÁNGELES FABIANA BRISEÑO SUÁREZ. Rúbrica. La Secretaria de Desarrollo Rural. CIUDADANA ANA LAURA ALTAMIRANO PÉREZ. Rúbrica. El Secretario de Infraestructura. CIUDADANO JUAN DANIEL GÁMEZ MURILLO. Rúbrica. El Secretario de Movilidad y Transporte. CIUDADANO JOSÉ GUILLERMO ARÉCHIGA SANTAMARÍA. Rúbrica. El Secretario de Salud. CIUDADANO JORGE HUMBERTO URIBE TÉLLEZ. Rúbrica. El Secretario de Educación. CIUDADANO MELITÓN LOZANO PÉREZ. Rúbrica. La Secretaria de Bienestar. CIUDADANA LIZETH SÁNCHEZ GARCÍA. Rúbrica. El Secretario de Seguridad Pública. VICEALMIRANTE MIGUEL IDELFONSO AMÉZAGA RAMÍREZ. Rúbrica. La Secretaria de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial. CIUDADANA BEATRIZ MANRIQUE GUEVARA. Rúbrica. La Secretaria de Igualdad Sustantiva. CIUDADANA MÓNICA AUGUSTA DÍAZ DE RIVERA ÁLVAREZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES II, III, IV Y EL PÁRRAFO TERCERO DEL ARTÍCULO 78, Y ADICIONA LA FRACCIÓN V AL 78 DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE PUEBLA; REFORMA LAS FRACCIONES II, III, IV Y EL PÁRRAFO TERCERO DEL ARTÍCULO 135 Y ADICIONA LA FRACCIÓN V AL 135 DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS; ASÍ COMO REFORMA LA FRACCIÓN III DEL ARTÍCULO 116 DE LA LEY ORGÁNICA MUNICIPAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
