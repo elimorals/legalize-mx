@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-movilidad-del-estado-de-quintana-roo-129124"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-14"
-last_updated: "2023-04-28"
+last_updated: "2023-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129124&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 14 de junio de 2018.
 
@@ -559,9 +559,9 @@ El Instituto contará con las siguientes facultades en materia de movilidad:
 
 I. Elaborar y expedir el Programa Integral de Movilidad y el Programa Integral de Seguridad Vial, conforme a lo previsto en este ordenamiento, previa aprobación del Gobernador del Estado en los términos del Reglamento de la presente Ley;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
 
-II. Emitir las tarifas a que deba sujetarse la prestación del Servicio Público de Transporte, con excepción del transporte urbano de pasajeros en autobuses en ruta establecida. El Instituto emitirá las tarifas correspondientes y, en su caso, su actualización, mismas que contemplarán las del servicio de carga especializada de arrastre, arrastre y salvamento y depósito de vehículos. Las tarifas de arrastre y salvamento deberán ser de menor cuantía a las tarifas de arrastre;
+II. Emitir las tarifas a que deba sujetarse la prestación del Servicio Público de Transporte, con excepción del transporte urbano de pasajeros en autobuses en ruta establecida. El Instituto emitirá las tarifas correspondientes y, en su caso, su actualización, mismas que contemplarán las del servicio de carga especializada de arrastre, salvamento y depósito de vehículos.
 
 III. Actualizar permanentemente el Registro Público del Transporte, conforme a lo establecido por el Reglamento;
 
@@ -1487,15 +1487,17 @@ Las concesiones del Servicio Público de Carga, se otorgarán para operar vehíc
 
 I. De Carga Regular: es el transporte de productos de materiales que no necesitan de vehículos especiales para efectuar su transportación.
 
-II. De Carga Especializada: es el transporte de productos y materiales que requieren de mayor especialización del conductor y del vehículo, tales como pipas, grúas, plataformas, maquinaria, tolvas y remolques especializados, incluyendo el servicio de arrastre, arrastre y salvamento y depósito de vehículos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE ENERO DE 2019)</small>
+II. De Carga Especializada: es el transporte de productos y materiales que requieren de mayor especialización del conductor y del vehículo, tales como pipas, grúas, plataformas, maquinaria, tolvas y remolques especializados, incluyendo el servicio de arrastre, salvamento y/o depósito de vehículos.
 
-El servicio de arrastre, consiste en remolcar los vehículos averiados que no puedan movilizarse de manera autónoma, derivado de descomposturas mecánicas, eléctricas y algún otro averío.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+El servicio de arrastre, consiste en las maniobras indispensables para traslado de algún vehículo por medio de una grúa con autorización para ello, hasta el destino acordado con el propietario o poseedor de aquél.
 
-El servicio de arrastre y salvamento, consiste en llevar a cabo las maniobras mecánicas y/o manuales necesarios para rescatar vehículos, sus partes y carga, involucrados en accidentes vehiculares, hechos de tránsito o siniestros, ocurridos sobre o fuera de la carpeta asfáltica de las carreteras o caminos, o bien, colocar sobre el camino o carretera a los vehículos accidentados, sus partes o carga y/o que requieran ser remolcados a petición de la autoridad competente.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+El servicio de salvamento, consiste en el conjunto de maniobras mecánicas o manuales necesarias para el rescate de vehículos descompuestos o imposibilitados por cualquier otra causa para circular, hasta dejarlos en la carpeta del camino en condiciones de ser remolcados.
 
 El servicio de depósito de vehículos consiste en la guarda y custodia en locales comisionados o permisionados por el Ejecutivo del Estado, de vehículos infraccionados, abandonados, retenidos, accidentados o descompuestos en caminos o carreteras de jurisdicción estatal y/o en su caso, remitidos por la autoridad competente.
 
@@ -1505,7 +1507,9 @@ IV. De Carga para la Construcción: es el transporte de productos y materiales t
 
 Las maniobras de carga y descarga deberán efectuarse en horario autorizado por el Instituto, con la mayor celeridad y con los medios apropiados que impidan que los artículos se esparzan o derramen en la vía pública. Asimismo no debe impedirse ni entorpecerse la circulación de peatones y vehículos, debiendo reducirse al mínimo las externalidades negativas que dichas operaciones puedan causar.
 
-En el caso de la fracción II del presente artículo, cuando se trate del servicio de grúas para arrastre, arrastre y salvamento y depósito de vehículos, el usuario podrá decidir libremente respecto a la prestación del servicio, que a sus intereses convenga. Atendiendo siempre a la presente Ley y sus reglamentos.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+En el caso de la fracción II del presente artículo, cuando se trate del servicio de grúas para arrastre, salvamento y/o depósito de vehículos, el usuario podrá decidir libremente, según convenga a sus intereses, con cual concesionaria autorizada por el Estado, recibirá la prestación del servicio, atendiendo a la presente Ley y sus reglamentos.
 
 > <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 16 DE ENERO DE 2019)</small>
 
@@ -1525,9 +1529,25 @@ f) La aplicación a favor del Estado de bienes asegurados que causen abandono en
 
 g) En el caso de extinción de dominio, en tanto se lleva a cabo el debido proceso ante autoridad jurisdiccional competente.
 
-> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN IV], P.O. 16 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
-El servicio de arrastre y salvamento, en los casos de las fracciones anteriores, se llevará a cabo en términos del reglamento de esta Ley, y debe sujetarse a un rol consecutivo que incluya a todos los concesionarios de la circunscripción municipal que corresponda, que cuenten con la capacidad operativa y el equipo de grúas donde haya ocurrido el o los actos antes establecidos, y de no existir en la circunscripción territorial del municipio correspondiente, debe incluir a cualquiera de los concesionarios de los municipios más próximos.
+El servicio de arrastre, salvamento y/o depósito de vehículos, en los casos de las fracciones anteriores, podrá prestarse tanto por el municipio que se trate, así como por uno o varios concesionarios elegidos por las autoridades competentes, en términos del reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+Para efectos del párrafo anterior, se entenderá como autoridad competente estatal al Instituto de Movilidad, y como autoridad competente municipal a la Dirección de Tránsito del municipio de que se trate.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+La autoridad competente municipal, para autorizar que el o los concesionarios puedan prestar el servicio de arrastre, salvamento y/o depósito de vehículos, deberá de oficio, solicitar al Instituto que informe si éstos se encuentran al corriente con el cumplimiento de sus obligaciones administrativas y fiscales correspondientes.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+El Instituto contestará por oficio a la autoridad competente municipal la factibilidad para que la o las concesionarias puedan prestar el servicio.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+El Instituto de movilidad podrá suspender temporal o definitivamente la prestación de servicios de arrastre, salvamento y/o depósito de vehículos a aquellas concesionarias, que no cumplan con sus obligaciones administrativas o fiscales o con la calidad en la prestación del servicio, cuando modifiquen, alteren o no respeten las tarifas determinadas, cuando exista una orden de autoridad competente o cuando se haya iniciado un procedimiento administrativo o judicial en contra de la persona moral o concesionaria y/o por no cumplir con lo establecido en esta Ley, los ordenamientos que de ésta se deriven y demás disposiciones legales aplicables.
 
 ###### Artículo 90.
 
@@ -4156,3 +4176,13 @@ QUINTO. A partir de la entrada en vigor del presente Decreto, se tendrá un plaz
 SEXTO. Las empresas de servicio privado de transporte contratado a través plataformas tecnológicas o digitales, realizarán una aportación económica, bajo la naturaleza de un producto, mediante el convenio que de común acuerdo se suscriba, en un plazo no mayor a treinta días naturales a partir de la entrada en vigor del presente Decreto, asimismo, suscribirán como testigos cuando menos tres representantes de las agrupaciones de los concesionarios.
 
 SÉPTIMO. Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente Decreto.
+
+P.O. 25 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 095 POR EL QUE SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 25, LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DE LA FRACCIÓN II; EL PÁRRAFO TERCERO DE LA FRACCIÓN IV; EL PÁRRAFO SEGUNDO Y SE ADICIONAN LOS PÁRRAFOS TERCERO, CUARTO, QUINTO Y SEXTO TODOS DEL ARTÍCULO 89 DE LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. En un plazo no mayor a noventa días contados a partir de la entrada en vigor del presente Decreto, los Ayuntamientos deberán realizar las adecuaciones correspondientes a sus reglamentos o demás instrumentos jurídicos a fin de dar cumplimiento a lo señalado en el presente decreto.
