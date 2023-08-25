@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-coordinacion-hacendaria-del-estado-de-puebla-y-sus-67898
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2022-02-11"
+last_updated: "2023-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67898&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2023.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 20 de marzo de 2009.
 
@@ -1135,15 +1135,27 @@ Las instancias de participación social a que se refiere el artículo anterior, 
 
 I. El Presidente Municipal del Ayuntamiento, quien fungirá como Presidente;
 
-II. Un representante del Comité de Planeación para el Desarrollo del Estado de Puebla, designado por su Coordinador General, quien fungirá como Secretario Técnico;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
 
-III. Los Presidentes de las Juntas Auxiliares del Municipio, quienes fungirán como Vocales; y
+II. Un representante del Comité de Planeación para el Desarrollo del Estado de Puebla, designado por su Coordinador General;
 
-IV. Un representante comunitario por localidad, barrio o colonia popular y de los comités de obra del Municipio, quienes fungirán como Vocales.
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
+
+III. Los Presidentes de las Juntas Auxiliares del Municipio, quienes fungirán como Vocales;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
+
+IV. Un representante comunitario por localidad, barrio o colonia popular y de los comités de obra del Municipio, quienes fungirán como Vocales, y
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2023)</small>
+
+V. La Persona Titular de la Dependencia o Entidad de la Administración Pública Municipal, que esté encargada de la elaboración del Plan Municipal de Desarrollo, quien fungirá como Secretaria o Secretario Técnico.
 
 La elección de los representantes comunitarios ante este órgano de planeación se llevará a cabo en asambleas democráticas.
 
-Los integrantes de las instancias de participación social a que se refieren las fracciones anteriores, contarán con voz y voto, a excepción del señalado en la fracción II quien únicamente contará con voz.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+Los integrantes de las instancias de participación social a que se refieren las fracciones anteriores contarán con voz y voto, a excepción de los señalados en las fracciones II y V quienes únicamente contarán con voz.
 
 ###### ARTÍCULO 136.
 
@@ -1348,3 +1360,11 @@ SÉPTIMO. El Congreso del Estado deberá expedir el Reglamento Interno de la Uni
 OCTAVO. Los asuntos en materia de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
 
 NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES II, III, IV Y EL PÁRRAFO TERCERO DEL ARTÍCULO 78, Y; ADICIONA LA FRACCIÓN V AL 78 DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE PUEBLA; REFORMA LAS FRACCIONES II, III, IV Y EL PÁRRAFO TERCERO DEL ARTÍCULO 135 Y ADICIONA LA FRACCIÓN V AL 135 DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS ASÍ COMO REFORMA LA FRACCIÓN III DEL ARTÍCULO 116 DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
