@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2023-03-06"
+last_updated: "2023-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -749,11 +749,15 @@ Si no hubiere quórum para instalar el Congreso o para que ejerza sus funciones 
 
 El faltar a tres sesiones consecutivas sin causa justificada, o sin previa licencia del Presidente del Congreso, provocará la pérdida del derecho del diputado faltista a ejercer el cargo por lo que reste del período de sesiones.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 41.
 
-El Congreso tendrá tres periodos ordinarios de sesiones; el primero comenzará el 1° de octubre y concluirá el 20 de diciembre del mismo año; el segundo periodo iniciará el día 1° de febrero y concluirá el 31 de marzo y, el tercer periodo iniciará el día 1° de mayo y concluirá el 31 de julio. Periodos que podrán prorrogarse hasta por quince días cada uno.
+Por cada año de ejercicio constitucional de una Legislatura, el Congreso se reunirá en tres periodos ordinarios de sesiones para estudiar, discutir, y votar toda clase de resoluciones a las que se refiere el artículo 44 de esta Constitución, con la duración que resulte necesaria para tratar todos los asuntos en este mencionados.
+
+Para tal efecto, el primer periodo iniciará el primer martes del mes de octubre, concluyendo el último viernes del mes de diciembre; el segundo iniciará el primer martes del mes de febrero y concluirá el último viernes del mes de marzo; mientras que el tercero iniciará el primer martes del mes de junio y concluirá el último viernes del mes de julio.
+
+En caso de que el despacho de los negocios por resolver lo exija, los periodos de sesiones podrán prorrogarse agotados los meses de cierre de cada uno, hasta por 15 días.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1117,11 +1121,11 @@ Cuando, por cualquier circunstancia, no se aprueben las Leyes de Ingresos del Es
 
 Durante los períodos de receso del Congreso habrá una Diputación Permanente. La integración, funcionamiento y competencia de la Diputación Permanente se regirá por lo que disponen la presente Constitución y la Ley Orgánica del Poder Legislativo del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 56.
 
-Diez días antes de concluir el tercer período de receso, de cada uno de los años de ejercicio de una Legislatura, en sesión solemne de la Diputación Permanente, a la cual asistirán todos los demás miembros de la Legislatura y se invitará a concurrir, al Gobernador del Estado y a los Magistrados integrantes del Tribunal Superior de Justicia de la entidad, el presidente de dicha Diputación rendirá al pueblo campechano un informe de las actividades realizadas durante el correspondiente ejercicio anual por el Congreso del Estado, como asamblea legislativa, y de las efectuadas en lo particular, por cada uno de sus miembros en cumplimiento de lo que dispone el párrafo tercero del artículo 38 de esta Constitución.
+Diez días antes de iniciar el primer periodo ordinario de sesiones de cada uno de los años de ejercicio constitucional de una Legislatura, en sesión solemne de la Diputación Permanente, a la cual asistirán todos los demás miembros de la Legislatura y se invitará a concurrir, a la o el Gobernador del Estado y a las y los Magistrados integrantes del Tribunal Superior de Justicia de la entidad, el presidente de dicha Diputación rendirá al pueblo campechano un informe de las actividades realizadas durante el correspondiente ejercicio anual por el Congreso del Estado, como asamblea legislativa, y de las efectuadas en lo particular, por cada uno de sus miembros en cumplimiento de lo que dispone el párrafo tercero del artículo 38 de esta Constitución.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2455,6 +2459,14 @@ Ninguna disposición de esta Ley fundamental producirá efecto, cuando contraven
 
 La presente Constitución puede ser modificada mediante la reforma, adición o derogación de alguno de sus preceptos. Para que la modificación surta efectos se requerirá que sea aprobada por las dos terceras partes de los diputados presentes en la respectiva sesión y por la mayoría de los Ayuntamientos de los Municipios del Estado.
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+Para tal efecto, los Ayuntamientos de los Municipios del Estado contarán con un plazo de 30 días naturales a partir de recibido el proyecto de decreto para acordar su aprobación o no y comunicar el resultado al Congreso del Estado. En caso de que en dicho término los Ayuntamientos no comuniquen el acuerdo que corresponda, se entenderá que éstos expresan tácitamente su aprobación.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2023)</small>
+
+Transcurrido el plazo a que se refiere el párrafo anterior, en la sesión que corresponda, el Congreso o la Diputación Permanente, harán en su caso, el cómputo de los votos emitidos por los Ayuntamientos y la declaratoria correspondiente.
+
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 131.
@@ -3290,3 +3302,19 @@ P.O. 6 DE MARZO DE 2023.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+P.O. 25 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 130 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan a lo dispuesto en este decreto.
+
+P.O. 25 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 256 POR EL QUE "SE REFORMAN EL ARTÍCULO 41 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 56 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente decreto.
