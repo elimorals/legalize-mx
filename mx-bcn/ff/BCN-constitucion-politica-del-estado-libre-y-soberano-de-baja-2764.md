@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2023-08-18"
+last_updated: "2023-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -997,7 +997,7 @@ La vecindad no se interrumpe cuando en el ejercicio de un cargo público, de un 
 
 Estos mismos requisitos serán necesarios tratándose de la elección consecutiva a que refiere el artículo 16 de esta Constitución.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 18.
 
@@ -1031,9 +1031,9 @@ VI.- Quienes tengan cualquier empleo, cargo o comisión en el Gobierno Federal, 
 
 VII.- Los ministros de cualquier culto religioso, a menos que se separen en los términos que establece la Ley de la materia.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
 
-VIII.- Las personas condenadas mediante sentencia firme por los delitos de violencia política contra las mujeres en razón de género o violencia familiar.
+VIII.- Las que tengan sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; o que las declare como personas deudoras alimentarias morosas.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -1651,7 +1651,7 @@ V.- Estar en pleno goce de sus derechos Políticos.
 
 VI.- No tener empleo, cargo o comisión en el Gobierno Federal, Estatal o Municipal, en los organismos descentralizados municipales o estatales, o Instituciones educativas públicas; salvo que se separen en forma provisional, noventa días antes del día de la elección.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 42.
 
@@ -1671,9 +1671,9 @@ Los Militares en servicio activo y los titulares de los cuerpos policíacos, sal
 
 Los Diputados y Senadores del Congreso de la Unión, Diputados locales, Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
-Las personas condenadas mediante sentencia firme por los delitos de violencia política contra las mujeres en razón de género o violencia familiar.
+Las personas que tengan sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; o que las declare como personas deudoras alimentarias morosas.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2008)</small>
 
@@ -2741,11 +2741,13 @@ Los integrantes de los ayuntamientos contarán con sus respectivos suplentes.
 
 Los conceptos que señala el Artículo 15 de esta Constitución, serán aplicables para el desarrollo de la fórmula de asignación aquí prevista.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2023)</small>
 
-###### ARTICULO 80.
+###### ARTÍCULO 80.
 
-Para ser miembro de un Ayuntamiento, con la salvedad de que el Presidente Municipal debe tener 25 años cumplidos el día de la elección, se requiere:
+Para ser integrante de un Ayuntamiento, con la salvedad de que la persona que ocupe la Presidencia Municipal debe tener 25 años cumplidos el día de la elección, se requiere:
+
+> <small>(REFORMADA Y REUBICADA, P.O. 13 DE ABRIL DE 2001)</small>
 
 I.- Ser ciudadano mexicano por nacimiento, hijo de madre o padre mexicanos.
 
@@ -2757,7 +2759,11 @@ Aquellos ciudadanos candidatos a munícipes Propietarios o Suplentes, cuyo nacim
 
 II.- Tener vecindad en el Municipio con residencia efectiva, de por lo menos cinco años inmediatos anteriores al día de la elección.
 
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
+
 La vecindad no se interrumpe cuando en el ejercicio de un cargo público, de un cargo de dirección nacional de Partido Político, por motivo de estudios, o por causas ajenas a su voluntad, se tenga que residir fuera del Municipio;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 13 DE ABRIL DE 2001)</small>
 
 III.- No ser ministro de cualquier culto religioso, a menos que se separe en los términos que establece la Ley de la materia;
 
@@ -2767,9 +2773,11 @@ IV.- No tener empleo, cargo o comisión en el Gobierno federal, estatal o munici
 
 Tratándose de la elección consecutiva, se estará a lo que establece el artículo 78 de esta Constitución.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE AGOSTO DE 2023)</small>
 
-V.- No podrán ser electos miembros de un Ayuntamiento:
+V.- No podrán ser electos integrantes de un Ayuntamiento:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2011)</small>
 
 1.- El Gobernador del Estado sea provisional, interino, substituto o encargado del despacho, aún cuando se separe de su cargo.
 
@@ -2777,13 +2785,17 @@ V.- No podrán ser electos miembros de un Ayuntamiento:
 
 2.- Los Magistrados y los Jueces del Tribunal Superior de Justicia, el Secretario General de Gobierno del Estado, el Fiscal General del Estado, Fiscal Especializado para la Atención de Delitos Electorales, el Fiscal Especializado en Combate a la Corrupción y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes del día de la elección.
 
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
+
 3.- Los Diputados Locales, los Diputados y Senadores del Congreso de la Unión, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección;
+
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 4.- Los Militares en servicio activo y los titulares de los cuerpos policíacos, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
-5. Las personas condenadas mediante sentencia firme por los delitos de violencia política contra las mujeres por razón de género o violencia familiar.
+5.- Las personas que tengan sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; o que las declare como personas deudoras alimentarias morosas.
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -3003,13 +3015,11 @@ Los Concejos Municipales podrán ser provisionales o substitutos, según lo disp
 
 En los términos de este artículo, el Congreso del Estado procederá a la designación de munícipes cuando éstos se separen de manera voluntaria y definitiva al cargo o falten uno o varios de ellos, propietarios o suplentes, o no se presentaren en igual número al iniciarse el ejercicio de un período constitucional. Estos munícipes serán nombrados en los mismos términos que dispone este artículo para los Concejos Municipales.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 87.
 
-Los integrantes de los Concejos Municipales y los Munícipes que se designen conforme a este Capítulo, deberán cumplir los requisitos de elegibilidad establecidos para los regidores y municipes respectivamente; tendrán las facultades y obligaciones que esta Constitución y las leyes otorgan a los ayuntamientos.
-
-Las personas integrantes de los Concejos Municipales o los Munícipes designados de acuerdo con lo que expresa este Capítulo, no podrán ser integrantes de los ayuntamientos, para el período inmediato.
+Las personas integrantes de los Concejos Municipales y las personas Munícipes que se designen conforme a este Capítulo, deberán cumplir los requisitos de elegibilidad establecidos para las regidurías y munícipes respectivamente; tendrán las facultades y obligaciones que esta Constitución y las leyes otorgan a los ayuntamientos.
 
 ## TITULO SEPTIMO
 
@@ -5724,3 +5734,13 @@ PRIMERO. Una vez aprobada la presente reforma, túrnese a los ayuntamientos del 
 SEGUNDO. Agotado el proceso legislativo correspondiente y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional respectiva.
 
 TERCERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 270 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 18, 42, 80 Y 87 A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Aprobada la presente reforma por el Pleno del Congreso del Estado, remítase a los Ayuntamientos del Estado de Baja California para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Cumplido el trámite previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, procédase a realizar la declaración de incorporación constitucional correspondiente, y remítase el presente Decreto para su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado de Baja California.
