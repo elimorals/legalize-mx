@@ -4,7 +4,7 @@ identifier: "OAX-ley-por-la-que-se-crea-el-instituto-de-la-funcion-registral-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2016-11-12"
+last_updated: "2023-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY POR LA QUE SE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2023.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el 12 de noviembre de 2016.
 
@@ -537,7 +537,9 @@ Los funcionarios y empleados del Instituto, incurren en responsabilidad por falt
 
 I. Civil, consistente en el pago de los daños y perjuicios que se ocasionen a los interesados o al Estado por no inscribir oportunamente los instrumentos;
 
-II. Administrativa, que podrá ser multa, suspensión o destitución del cargo en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca; y
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2023)</small>
+
+II. Administrativa, que podrá ser multa, suspensión o destitución del cargo en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca; y
 
 III. Penal, en los casos en que se cometa un delito.
 
@@ -622,3 +624,15 @@ Tlalixtac de Cabrera, Centro, Oax., 12 de noviembre de 2016.
 SECRETARIO GENERAL DE GOBIERNO.
 
 ING. CARLOS SANTIAGO CARRASCO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1503.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 40 DE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en el portal del Congreso del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
