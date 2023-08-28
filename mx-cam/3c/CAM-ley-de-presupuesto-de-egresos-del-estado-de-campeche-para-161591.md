@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-presupuesto-de-egresos-del-estado-de-campeche-para-16159
 country: "mx"
 rank: "ley"
 publication_date: "2022-12-19"
-last_updated: "2022-12-19"
+last_updated: "2023-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PRESUPUESTO DE EGRESOS DEL ESTADO DE CAMPECHE PARA EL EJERCICIO FISCAL DE 2023
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2023.
 
 Ley publicada en la Segunda Sección del Número 1828 del Periódico Oficial del Estado de Campeche.
 
@@ -137,9 +137,9 @@ Las previsiones de gasto para el Poder Legislativo, Poder Judicial, Instituto El
 
 y $9,616,212 para reforma laboral; y se consideran $3,000,000 de recursos adicionales no regularizables para mejoramiento de la infraestructura física del inmueble de que alberga el juzgado laboral del I Distrito Judicial y dos equipos de aires acondicionados para los Auditorios en el I Distrito Campeche y II Distrito Ciudad del Carmen del Consejo de la Judicatura.
 
-(NOTA: EL 11 DE JULIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 16/2023 Y SU ACUMULADA 17/2023, DECLARÓ LA INVALIDEZ DEL PUNTO TERCERO DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE JULIO DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2023)</small>
 
-- INSTITUTO ELECTORAL DEL ESTADO DE CAMPECHE LA CANTIDAD DE $167,910,347 CONFORMADO POR $63,783,745 PARA LA OPERACIÓN ORDINARIA DEL INSTITUTO, $25,613,460 PARA SANEAMIENTO FINANCIERO Y $19,841,338 PARA EL PROCESO ELECTORAL, ASIMISMO PARA EL FINANCIAMIENTO DE PARTIDOS POLÍTICOS UN TOTAL DE $58,671,804 MISMOS QUE SERÁ DISTRIBUIDO EN TÉRMINOS DE LO DISPUESTO EN LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CAMPECHE Y LO ORDENADO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE DECLARAN REFORMADAS Y ADICIONADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 27 DE ENERO DE 2016, ASÍ COMO EN EL DECRETO NÚMERO 55 DE LA LXII LEGISLATURA DEL CONGRESO DEL ESTADO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL 10 DE JUNIO DE 2016.
+- Instituto Electoral del Estado de Campeche la cantidad de $167,910,347 conformado por $63,783,745 para la operación de sus actividades ordinarias, $25,613,460 para Saneamiento Financiero, $19,841,338 para los preparativos e inicio del Proceso Electoral Local Ordinario 2023-2024 y $58,671,804 destinados al financiamiento de partidos políticos. Mismo que será distribuido conforme al Apartado 2 1 1 1 4 23 01 del Anexo 2 de esta Ley.
 
 - Secretaría de Medio Ambiente, Biodiversidad, Cambio Climático y Energía la cantidad de $4,737,006, correspondientes a los recursos que se destinarán anualmente por parte del Estado derivado del ejercicio de sus atribuciones como parte de las estrategias encaminadas a la mitigación y adaptación al Cambio Climático en el ámbito de su competencia, así como para promover la participación corresponsable de la sociedad, de conformidad por lo dispuesto por la Ley General de Cambio Climático vigente, mediante el programa de Protección, Conservación y Vigilancia de la Biodiversidad e Impulso Forestal como Medida de Mitigación del Cambio Climático, del cual deriva el proyecto denominado: “Plantas de Calidad Producidas y entregadas a beneficiarios como medidas de mitigación y Adaptación al cambio climático”; así como para la ejecución del Programa denominado; "Seguimiento de programas Ambientales en materia forestal, silvestre y de impacto ambiental en las zonas aledañas al Puente la Unidad", por un monto hasta de $9,382,838, con la finalidad de garantizar el cumplimiento de las acciones de mitigación, restauración y control de los impactos ambientales que genere esta infraestructura de comunicación.
 
@@ -969,71 +969,7 @@ C. José Héctor Hernán Malavé Gamboa, Diputado Presidente.- C. Landy María V
 
 > <small>[N. DE E. VÉASE ANEXO 2 EN EL P.O. DE 19 DE DICIEMBRE DE 2022, PÁGINAS DE LA 42 A LA 46.]</small>
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
-
-ANEXO 2
-
-PRESUPUESTO DE EGRESOS PARA EL AÑO 2023
-
-GASTO ESTATAL EN SU CLASIFICACIÓN ADMINISTRATIVA (PESOS)
-
-GOBIERNO GENERAL ESTATAL
-
-[…]
-
-2 1 1 1 4 ÓRGANOS AUTÓNOMOS
-
-2 1 1 1 4 23 ÓRGANOS AUTÓNOMOS
-
-(NOTA: EL 11 DE JULIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 16/2023 Y SU ACUMULADA 17/2023, DECLARÓ LA INVALIDEZ DEL APARTADO 2 1 1 1 4 23 01 DEL ANEXO 2 INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE JULIO DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-2 1 1 1 4 23 01 INSTITUTO ELECTORAL DEL ESTADO DE CAMPECHE
-
-SERVICIOS PERSONALES 51,633,745
-
-MATERIALES Y SUMINISTROS 1,940,000
-
-SERVICIOS GENERALES 10,210,000
-
-BIENES MUEBLES E INMUEBLES 0
-
-DEUDA PÚBLICA 25,613,460
-
-SUBTOTAL 89,397,205
-
-PROCESO ELECTORAL
-
-SERVICIOS PERSONALES 8,578,022
-
-MATERIALES Y SUMINISTROS 3,063,000
-
-SERVICIOS GENERALES 7,549,716
-
-BIENES MUEBLES E INMUEBLES 650,600
-
-SUBTOTAL 19,841,338
-
-FINANCIAMIENTO A PARTIDOS 58,671,804
-
-PARTIDO ACCIÓN NACIONAL 6,137,070
-
-PARTIDO REVOLUCIONARIO INSTITUCIONAL 13,289,164
-
-PARTIDO MORENA 16,486,777
-
-PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA 2,176,724
-
-PARTIDO DEL TRABAJO 2,176,724
-
-PARTIDO VERDE ECOLOGISTA DE MÉXICO 2,176,724
-
-PARTIDO MOVIMIENTO CIUDADANO 12,385,618
-
-NUEVA CREACIÓN 3,843,003
-
-TOTAL 167,910,347
-
-[…]
+> <small>[N. DE E. VÉASE REFORMAS DEL ANEXO 2, P.O. DE 28 DE AGOSTO DE 2023, PÁGINA 3.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 3 A EN EL P.O. DE 19 DE DICIEMBRE DE 2022, PÁGINA 47.]</small>
 
@@ -1158,3 +1094,19 @@ TOTAL 167,910,347
 > <small>[N. DE E. VÉASE ANEXO 39 EN EL P.O. DE 19 DE DICIEMBRE DE 2022, PÁGINA 956.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 40 EN EL P.O. DE 19 DE DICIEMBRE DE 2022, PÁGINA 957.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 258 POR EL QUE "SE EXPIDE EL PUNTO TERCERO DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 2 DE LA LEY DE PRESUPUESTO DE EGRESOS DEL ESTADO DE CAMPECHE PARA EL EJERCICIO FISCAL DE 2023".]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Campeche.
+
+TERCERO.- El Apartado 2 1 1 1 4 23 01 del Anexo 2 referido en el punto tercero del párrafo segundo del artículo 2 del presente decreto se entenderá al expedido por el Artículo Segundo del mismo.
+
+CUARTO.- Notifíquese a la Suprema Corte de Justicia de la Nación cumpliendo en tiempo y forma los puntos resolutivos emitidos en la Acción de Inconstitucionalidad 16/2023 y su Acumulada 17/2023 a través de la cual determinó la invalidez del artículo 2, párrafo segundo, punto tercero, y anexo 2, apartado 2 1 1 1 4 23 01, de la Ley de Presupuesto de Egresos del Estado de Campeche para el Ejercicio Fiscal de 2023, expedido mediante el Decreto Número 162, publicado en el Periódico Oficial de esta Entidad Federativa el 19 de diciembre de 2022.
+
+QUINTO.- Los recursos asignados al Instituto Electoral del Estado de Campeche a través del presente decreto, comprende los ya ejercidos y los que resten por ejercer durante el ejercicio fiscal 2023.
