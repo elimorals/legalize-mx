@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2023-07-06"
+last_updated: "2023-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -20431,9 +20431,9 @@ II. Regular la fijación, instalación, distribución, ubicación, modificación
 
 Para los efectos de este Capítulo se entenderá por:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2023)</small>
 
-I. Agencia: La Agencia de Protección al Ambiente y Desarrollo Sustentable;
+I. Agencia: Se refiere a la Dependencia que se cita en el presente artículo en su fracción XL;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20443,13 +20443,13 @@ II. Anunciante: Persona física o jurídica que utiliza los servicios de publici
 
 III. Anuncio o publicidad: Toda expresión gráfica, escrita o auditiva que señale, promueva, muestre o difunda al público cualquier mensaje relacionado con la producción y venta de bienes, con la prestación de servicios y con el ejercicio lícito de actividades profesionales, industriales, mercantiles, técnicas, electorales, políticas, cívicas, culturales, artesanales, teatrales, del folclore nacional o cualquier tipo de espectáculo que impliquen transformaciones en el paisaje urbano o natural de vialidades de jurisdicción municipal, sus Zonas Adyacentes y de los bienes inmuebles que integran el patrimonio del Municipio y de sus organismos;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2023)</small>
 
-IV. Anuncios Electorales: Aquéllos regulados en la legislación electoral quedando incluidos entre éstos los vinculados con actos anticipados de campaña, actos de precampaña o como propaganda electoral durante el periodo de campaña electoral;
+IV. Anuncios Electorales: Aquellos regulados en la legislación electoral y permitidos en los plazos que la misma establece;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2023)</small>
 
-V. Anuncios Políticos: Aquéllos destinados a la promoción de las ideas y opiniones, que tienen como propósito influir en el sistema de valores de los ciudadanos y en su conducta, dentro del marco de la legislación aplicable;
+V. Anuncios políticos: Aquellos destinados a la promoción de la imagen de la persona o alusivas a la misma, de ideas u opiniones de carácter político, que tienen como finalidad obtener el apoyo de la ciudadanía y/o influir en su sistema de valores y su conducta de manera política y social;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20631,11 +20631,11 @@ XLV. Zonas publicitarias: Zonas de competencia municipal en donde la Autoridad c
 
 Los conceptos del presente Capítulo se establecen en forma enunciativa, más no limitativa, y en apego a los establecidos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla, la Ley de Atención y Prevención de la Contaminación Visual y Auditiva para el Estado de Puebla y demás aplicables a la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 1254 Bis.
 
-La Agencia tiene las facultades y obligaciones siguientes:
+La Secretaría tiene las facultades y obligaciones siguientes:
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20653,15 +20653,19 @@ III. Poner a consideración de la Tesorería Municipal las propuestas en materia
 
 IV. Proponer al Ayuntamiento las adecuaciones normativas necesarias para el cumplimiento de los programas en materia de anuncios;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2023)</small>
 
-V. Vigilar el cumplimiento y la correcta aplicación del presente Código Reglamentario y las demás disposiciones aplicables en materia de anuncios; y
+V. Vigilar el cumplimiento y la correcta aplicación del presente Código Reglamentario y las demás disposiciones aplicables en materia de anuncios;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2023)</small>
 
-VI. Las demás que le confieran otras disposiciones legales o le asigne el Ayuntamiento, el Presidente y las que reciba por delegación o sean coordinadas en términos de los Convenios que se suscriban con Entidades Públicas.
+VI. Coordinarse con las distintas dependencias y entidades municipales, según sus facultades, para garantizar la protección de la imagen del entorno urbano; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE AGOSTO DE 2023)</small>
+
+VII. Las demás que le confieran otras disposiciones legales o le asigne el Ayuntamiento, el Presidente y las que reciba por delegación o sean coordinadas en términos de los Convenios que se suscriban con Entidades Públicas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 1254 Ter.
 
@@ -20711,9 +20715,9 @@ X. Establecer los lineamientos para la generación de Zonas Publicitarias en el 
 
 XI. Establecer y difundir las especificaciones que debe tener cada anuncio nuevo, estableciendo, en su caso, períodos de transición hasta uniformar las características de los mismos y cerciorase de que no contengan publicidad sexista, violencia mediática, simbólica o incite cualquier otro tipo de violencia contra las mujeres;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2023)</small>
 
-XII. Proponer a la Secretaría de Gestión los instrumentos necesarios para coordinar y homologar programas en materia de anuncios con los Municipios conurbanos;
+XII. Proponer los instrumentos necesarios para coordinar y homologar programas en materia de anuncios con los Municipios conurbados;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20829,13 +20833,17 @@ c) Las personas físicas o jurídicas propietarias o poseedoras de los anuncios;
 
 d) Las empresas publicitarias que se dediquen a la comercialización de espacios, quienes deberán cumplir estrictamente las disposiciones legales aplicables a la Licencia, Permiso y/o Permiso Publicitario;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2023)</small>
 
-e) Los anunciantes, quienes al contratar el espacio, deberán constatar que éste cuente con Licencia, Permiso y/o Permiso Publicitario, según lo prevea el presente Capítulo; y
+e) Los anunciantes, quienes, al contratar el espacio, deberán constatar que éste cuente con Licencia, Permiso y/o Permiso Publicitario, según lo prevea el presente Capítulo;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE AGOSTO DE 2023)</small>
 
-f) Toda persona que tenga ingerencia (sic) para la instalación de un anuncio que no cuente con Licencia, Permiso y/o Permiso Publicitario expedido por la Agencia competente y que se encuentre en los supuestos antes señalados.
+f) Los precandidatos, candidatos, partidos políticos, coaliciones y en general cualquier persona física o jurídica que se anuncie con fines políticos o electorales; y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE AGOSTO DE 2023)</small>
+
+g) Toda persona que tenga injerencia para la instalación de un anuncio que no cuente con Licencia, Permiso y/o Permiso Publicitario expedido por la Secretaría y que se encuentre en los supuestos antes señalados.
 
 La responsabilidad solidaria comprende el pago de los gastos y multas que determine la autoridad competente, por las infracciones cometidas al presente Capítulo.
 
@@ -20851,17 +20859,37 @@ III. La caja o gabinete del anuncio;
 
 IV. La carátula vista o pantalla;
 
-V. Los elementos de iluminación; y
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2023)</small>
+
+V. Los elementos de iluminación;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 28 DE AGOSTO DE 2023)</small>
 
 VI. El vehículo o medio de transporte en caso de anuncio móvil;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2023)</small>
 
-VII. La placa o folio que contendrá el número de Licencia, Permiso y/o Permiso Publicitario y la fecha de vencimiento del mismo.
+VII. La placa o folio que contendrá el número de Licencia, Permiso y/o Permiso Publicitario y la fecha de vencimiento del mismo;
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2023)</small>
 
-Dicha placa deberá permanecer en un lugar visible del anuncio y se colocará en aquellos anuncios señalados en las fracciones I, siempre que se trate de anuncios autosoportados de propaganda en espacios exteriores; III; VI, cuando se trate de anuncios espectaculares de propaganda en espacios exteriores; VII, X, XI y XII del Artículo 1299 del presente ordenamiento, así como en aquellos que se encuentren fijados a un vehículo.
+VIII. Inmueble, elementos de sustentación o cimentación;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2023)</small>
+
+IX. Cartelera;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2023)</small>
+
+X. Elementos mecánicos, eléctricos, plásticos o hidráulicos; y
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2023)</small>
+
+XI. Elementos e instalaciones accesorias.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2023)</small>
+
+Respecto a la fracción VII, la placa deberá permanecer en un lugar visible del anuncio y se colocará en aquellos anuncios señalados en las fracciones I, siempre que se trate de anuncios auto soportados de propaganda en espacios exteriores; III; VI, Cuando se trate de anuncios espectaculares de propaganda en espacios exteriores; VII; X; XI y XII del artículo 1299 del presente ordenamiento, así como en aquellos que se encuentren fijados a un vehículo.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -21047,7 +21075,9 @@ d) Por los materiales empleados, en:
 
 I. Anuncios pintados:
 
-Los que se hagan mediante la aplicación de cualquier tipo de pintura sobre la superficie de edificaciones, o cualquier objeto fijo idóneo para tal fin;
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2023)</small>
+
+Los que se hagan mediante la aplicación de cualquier tipo de pintura sobre la superficie de edificaciones o en muros de colindancia.
 
 II. Anuncios de proyección óptica:
 
@@ -21314,6 +21344,26 @@ III. La parte que se utilice para la proyección de los anuncios, no deberá ser
 IV. No se permitirá instalar este tipo de anuncios en la zona a que hace referencia el apartado relativo a la Zona de Monumentos del Capítulo de Construcciones, ni a una distancia menor de 200 metros, medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción; y
 
 V. Sólo podrán proyectarse en lugares donde no interfieran la visibilidad o el funcionamiento de señalizaciones oficiales de cualquier tipo, ni provoquen deslumbramiento a conductores de vehículos o a peatones.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2023)</small>
+
+###### Artículo 1268 Bis.
+
+Para la fijación, instalación, distribución, ubicación o modificación de los anuncios pintados, se deberá cumplir con lo siguiente:
+
+I. En bardas y muros, solo se permitirán anuncios pintados que no excedan del treinta por ciento de la superficie total de aquellos y que no rebasen los 2.50 metros de altura, a partir del nivel de banqueta;
+
+II. En muros colindantes, los anuncios pintados no podrán exceder del cinco por ciento de la superficie del anuncio. Para el otorgamiento del permiso correspondiente, la dependencia valorará y determinará sobre el carácter estético o decorativo del anuncio;
+
+III. En muros laterales de acceso a establecimientos que den a la calle, los anuncios pintados no deben exceder del veinte por ciento de la superficie del muro;
+
+IV. Solo se permiten anuncios pintados en los muros, bardas o fachadas de las edificaciones o locales comerciales donde se desarrolla la actividad a la que corresponde el anuncio; y
+
+V. En cortinas metálicas los anuncios pintados, las especificaciones técnicas se ajustarán a lo dispuesto en la fracción III del artículo 1263.
+
+Lo dispuesto en el presente artículo, no será aplicable a lo establecido en los artículos 1343 Bis y 1344 Bis.
+
+Los anuncios pintados quedarán sujetos a lo dispuesto en el presente Código.
 
 ###### Artículo 1269.
 
@@ -22813,11 +22863,11 @@ Dentro de los cinco días hábiles siguientes a la recepción de una denuncia ci
 
 DE LA PROPAGANDA POLÍTICA Y/O ELECTORAL
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 1343.
 
-Los anuncios políticos o electorales, se sujetarán a las disposiciones que al efecto disponga la Autoridad Municipal, de conformidad con los convenios que celebre con los diversos actores de este sector.
+Los anuncios políticos o electorales, se sujetarán a las disposiciones que al efecto disponga la legislación electoral, la Autoridad Municipal de conformidad con los convenios que celebre con los diversos actores de este sector y el presente Capítulo.
 
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
@@ -22829,9 +22879,23 @@ I. La Zona de Monumentos a que se refiere el artículo 761 de este Código, con 
 
 Quienes infrinjan lo dispuesto por este artículo, serán sancionados con una multa del equivalente al valor diario de 200 a 3,000 unidades de medida y actualización al momento de determinarla.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 1344.
 
-Los anuncios de carácter político y/o electoral, que en cualquier tiempo se pretenda colocar en el Municipio de Puebla, se considerarán como unitarios, debiendo los propietarios de los mismos, solicitar los permisos para cada uno de los anuncios que pretendan instalar, con las condiciones y requisitos que se señalan en el presente Capítulo.
+Los anuncios de carácter político y/o electoral, que se pretenda colocar en el Municipio de Puebla, se considerarán como unitarios, debiendo los propietarios de los mismos, solicitar los permisos para cada uno de los anuncios que pretendan instalar, con las condiciones y requisitos que se señalan en el presente Capítulo.
+
+La Secretaría procederá de conformidad con lo dispuesto en el artículo 1332 del Capítulo, cuando el anunciante, propietario, poseedor, responsables solidarios o quien fije, pinte, instale, coloque, distribuya, ubique o modifique anuncios de carácter electoral y/o político, sin contar con los permisos señalados en el presente Capítulo.
+
+Para el caso de anuncios en propiedad privada, deberá exhibirse ante la Secretaría, el permiso escrito del propietario de conformidad con la normativa electoral y observar las especificaciones técnicas que para tal efecto se establezcan en el presente Capitulo.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2023)</small>
+
+###### Artículo 1344 Bis.
+
+Fuera de los procesos electorales, queda prohibido pintar, colocar, fijar, instalar, distribuir, ubicar o modificar anuncios fijos, semifijos, móviles, auditivos y/o visuales en los que se haga la promoción personalizada referida en el artículo 1254 fracciones IV y V.
+
+El anunciante, propietario, poseedor, responsables solidarios o quien infrinja lo dispuesto por este artículo será requerido conforme a lo establecido en el párrafo tercero del artículo 1346 del presente Código; ante la falta de cumplimiento será sancionado con una multa del equivalente al valor diario de 200 a 3,000 unidades de medida y actualización al momento de determinarla.
 
 ###### Artículo 1345.
 
@@ -40776,5 +40840,13 @@ P.O. 6 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 16 DE JUNIO DE 2023, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE SEGURIDAD, JUSTICIA Y PROTECCIÓN CIVIL, POR EL QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 1363 Y EL 1370; ASÍ COMO ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 1376 Y LOS INCISOS L) Y M) A LA FRACCIÓN II DEL 1388, TODOS DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
 
 PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 28 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 18 DE AGOSTO DE 2023, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE GOBERNACIÓN, POR EL QUE REFORMA LAS FRACCIONES I, IV Y V DEL ARTÍCULO 1254, EL ACÁPITE Y LAS FRACCIONES V Y VI DEL 1254 BIS, EL ACÁPITE Y FRACCIÓN XII DEL 1254 TER, LA DENOMINACIÓN DE LOS INCISOS CUARTO Y QUINTO DEL 1256 PARA QUEDAR COMO D) Y E), ASÍ COMO EL INCISO F) DE LA MISMA DISPOSICIÓN, LAS FRACCIONES V, VI Y VII DEL ACÁPITE Y PÁRRAFO ÚLTIMO DEL 1257, LA FRACCIÓN I DEL INCISO D) DEL 1260, EL 1343 Y EL 1344, ASIMISMO, ADICIONA LA FRACCIÓN VII AL ARTÍCULO 1254 BIS, EL INCISO G) AL 1256, LAS FRACCIONES VIII, IX, X Y XI AL 1257, EL 1268 BIS Y EL 1344 BIS; TODOS DEL CAPÍTULO 18 DENOMINADO: "ANUNCIOS", DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
