@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-fondo-para-el-mejoramiento-en-la-administracion-e-16458
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-15"
-last_updated: "1996-01-15"
+last_updated: "2023-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY DEL FONDO PARA EL MEJORAMIENTO EN LA ADMINISTRACION E IMPARTICION DE JUSTICIA -- ANTES LEY DEL FONDO PARA EL MEJORAMIENTO DE LA ADMINISTRACION DE JUSTICIA -- DEL ESTADO DE QUINTANA ROO
 
-LEY DEL FONDO PARA EL MEJORAMIENTO DE LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE QUINTANA ROO
+LEY DEL FONDO PARA EL MEJORAMIENTO EN LA ADMINISTRACIÓN E IMPARTICIÓN DE JUSTICIA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial el 15 de enero de 1996.
 
@@ -35,85 +35,133 @@ LA H. VII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
 DECRETA:
 
-LEY DEL FONDO PARA EL MEJORAMIENTO DE LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE QUINTANA ROO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE AGOSTO DE 2023)</small>
 
-### CAPITULO I. Del Fondo para la Administración de Justicia
+LEY DEL FONDO PARA EL MEJORAMIENTO EN LA ADMINISTRACIÓN E IMPARTICIÓN DE JUSTICIA DEL ESTADO DE QUINTANA ROO
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE AGOSTO DE 2023)</small>
+
+### CAPITULO I. De la Integración y Administración del Fondo
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 1º.
 
-Se constituye. un fondo para el mejoramiento de la administración dé justicia del Estado de Quintana Roo, con los ingresos propios y los donativos de personas físicas y morales que reciba el Poder Judicial del Estado.
+La presente Ley tiene por objeto regular la integración, administración, manejo y destino del Fondo para el Mejoramiento en la Administración e Impartición de Justicia.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 2º.
 
-Son ingresas propios del Poder Judicial:
+El Fondo para el Mejoramiento en la Administración e Impartición de Justicia, se integrará con:
 
-a).- Las multas que impongan por cualquier causa los órganos jurisdiccionales del Estado;
+I. Los recursos propios del Poder Judicial, derivados de:
 
-b).- Las cauciones que garanticen la libertad provisional y que se hagan efectivas conforme a derecho;
+a) Las multas, fianzas y cauciones que las autoridades judiciales hagan efectivas, las cuales serán remitidas al Fondo;
 
-c).- Las cauciones para garantizar la condena condicional que se hagan efectivas, conforme a la ley
+b) El monto de la reparación del daño, cuando la parte ofendida se niegue o renuncie a recibir su importe o no se presente persona alguna que justifique su derecho a recibirlo en el término de tres años;
 
-d).- Los intereses provenientes de las inversiones de ingresos propios o depósitos de cantidades consignadas que por cualquier concepto se efectúen ante los diversos órganos judiciales del Estado;
+c) Los intereses o rendimientos provenientes de cualquier tipo de depósito en dinero o en valores que se efectúen ante los juzgados del fuero común del Estado, tribunales o cualesquiera órganos del Poder Judicial del Estado;
 
-e).- Las donaciones o aportaciones a favor del fondo;
+d) Los intereses o rendimientos provenientes de la inversión de los ingresos propios del Fondo;
 
-f).- EI producto de los artículos materia de un delito que no sean reclamados por sus legítimos propietarios, seis meses después de que la sentencia cause ejecutoria;
+e) En general los ingresos que se produzcan por la administración de valores o por cualquier otra prestación autorizada en la Ley;
 
-g).- EI monto de la reparación del daño cuando la parte ofendida renuncie al mismo.
+f) El producto de los artículos materia de un delito que no sean reclamados por sus legítimas personas propietarias, seis meses después de que la sentencia cause ejecutoria, y
+
+g) Donaciones o aportaciones hechas a favor del Fondo.
+
+II. Los fondos ajenos, son los depósitos en efectivo o en valores, que por cualquier causa se efectúen ante los juzgados del fuero común del Estado, los Tribunales o cualesquiera de los órganos del Poder Judicial, respecto de los cuales se tendrá su tenencia y administración, hasta en tanto se les otorgue el destino o aplicación que determinen los órganos jurisdiccionales.
+
+Para los efectos de lo previsto en esta fracción, el juzgado, Tribunal o cualquiera de los órganos del Poder Judicial que reciban depósitos de dinero o valores deberán remitirlos al Fondo, en términos de esta Ley.
+
+Las cantidades derivadas de los depósitos serán entregadas a la persona depositante o beneficiaria, según corresponda, previa orden por escrito del órgano competente, en el entendido que, las personas depositantes o beneficiarias correspondientes no percibirán interés o rendimientos en su beneficio respecto de los depósitos efectuados.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 3º.
 
-Los ingresos propios que formen parte del fondo, serán depositados en una cuenta única bancaria, bajo la responsabilidad de la dirección financiera del fondo.
+Los recursos del Fondo se podrán invertir en títulos, valores u otro tipo de inversiones siempre y cuando sean de renta fija y/o plazo fijo, en representación del Poder Judicial, quien será el titular de los títulos, instrumentos o documentos que expidan las instituciones financieras con motivo de las inversiones correspondientes.
+
+Asimismo, el Consejo de la Judicatura por conducto de la persona titular de la Presidencia, podrá celebrar contratos de fideicomiso a cuyo patrimonio se aporten parte o la totalidad de los recursos que integran el Fondo, para la conservación, administración e inversión de los recursos propios y/o de los fondos ajenos.
+
+Para la inversión de los recursos del Fondo, ya sea directamente o a través de fideicomisos, a plazos mayores a un año se requerirá de la previa autorización del Pleno del Consejo de la Judicatura, previo análisis financiero que sustente la estimación de disponibilidad de recursos para atender la devolución de los depósitos.
+
+Queda prohibido invertir los recursos del Fondo en títulos de renta variable.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 4º.
 
-La cuenta bancaria única del fondo, se hará en la modalidad de inversión que ofrezca mayor rendimiento y operatividad. No podrán hacerse inversiones de carácter especulativo, ni contra el depósito se aceptarán documentos de carácter negociable, como bonos, certificados al portador o similares.
+El Consejo de la Judicatura, a través de la Oficina del Fondo para el Mejoramiento en la Administración e Impartición de Justicia, deberá llevar el registro de todos los recursos que integran el Fondo, separando los recursos propios de los fondos ajenos.
+
+Para tales efectos, las cuentas e inversiones que se abran o contraten con motivo de la administración y manejo del Fondo deberán hacerse separando los recursos propios y los fondos ajenos.
+
+En el caso que los recursos del Fondo se administren e inviertan a través de fideicomisos, éstos deberán tener cuentas y/o registros contables separados para los recursos propios y los fondos ajenos.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 5º.
 
-Las cauciones, los depósitos en efectivo para garantizar la reparación del daño, las consignaciones en efectivo y otros depósitos que realicen las partes ante los órganos judiciales, se acreditarán a la cuenta única bancaria del fondo dentro de las veinticuatro horas de recibidos.
+Las cauciones, los depósitos en efectivo para garantizar la reparación del daño, las consignaciones en efectivo y otros depósitos que realicen las partes ante los órganos judiciales, se acreditarán a la cuenta del fondo que corresponda dentro de las veinticuatro horas de recibidos.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 6º.
 
-Los titulares de los juzgados y los secretarios de acuerdos de las salas del Tribunal Superior de Justicia que reciban cauciones judiciales, consignaciones en efectivo u otros depósitos, son responsables de su custodia, hasta en tanto no se hace el depósito bancario correspondiente.
+Las personas titulares de los juzgados y las personas secretarias de acuerdos de las salas del Tribunal Superior de Justicia que reciban cauciones judiciales, consignaciones en efectivo u otros depósitos, son responsables de su custodia, hasta en tanto no se hace el depósito bancario correspondiente.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 7º.
 
-Las cantidades que por concepto de cauciones o depósitos reciba el fondo, en su caso y cuando así proceda, serán reintegradas al depositante por el órgano judicial que así lo decrete previa solicitud de devolución asentando razón de lo anterior en autos.
+Las cantidades que por concepto de cauciones o depósitos reciba el fondo, en su caso y cuando así proceda, serán reintegradas a la persona depositante por el órgano judicial que así lo decrete previa solicitud de devolución asentando razón de lo anterior en autos.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 8º.
 
-Los secretarios de acuerdos de las Salas del Tribunal Superior de Justicia y los Jueces, remitirán con la periodicidad que les indique la dirección financiera, los comprobantes de las cantidades que se ingresen a la cuenta única del fondo, o el retiro debidamente autorizado de los depósitos o cauciones que se devuelvan, haciendo mención del número de expediente relacionado y fecha del acuerdo respectivo. La dirección financiera dará cuenta de dichos informes al Presidente del Consejo Técnico del fondo, las veces que sea requerido para ello.
+Las personas secretarias de acuerdos de las Salas del Tribunal Superior de Justicia y las personas Juzgadoras, remitirán con la periodicidad que les indique la Oficina del Fondo para el Mejoramiento en la Administración e Impartición de Justicia, los comprobantes de las cantidades que se ingresen a la cuenta del Fondo que corresponda, o el retiro debidamente autorizado de los depósitos o cauciones que se devuelvan, haciendo mención del número de expediente relacionado y fecha del acuerdo respectivo. La Oficina del Fondo para el Mejoramiento en la Administración e Impartición de Justicia dará cuenta de dichos informes a la persona titular de la Presidencia del Consejo de la Judicatura, las veces que sea requerido para ello.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 9º.
 
-La dirección financiera del fondo, rendirá un informe mensual al Consejo Técnico de los depósitos que se realicen en los diversos órganos judiciales, las cauciones que se han hecho efectivo, las devoluciones y de aquellas cantidades que pasen a formar parte del fondo por los conceptos enumerados en el artículo 2º.
+La Oficina del Fondo para el Mejoramiento en la Administración e Impartición de Justicia, rendirá un informe mensual a la persona titular de la Presidencia del Consejo de la Judicatura de los depósitos que se realicen en los diversos órganos judiciales, las cauciones que se hayan hecho efectivas, las devoluciones y de aquellas cantidades que pasen a formar parte del fondo por los conceptos enumerados en el artículo 2° de esta Ley.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 10º.
 
-Las partes interesadas podrán hacer los depósitos bancarios en la cuenta única del fondo, de las cantidades que les señalen las autoridades. judiciales, lo que quedará debidamente acreditado ante la autoridad que los ordena, con la exhibición de los comprobantes de los depósitos por los conceptos decretados, los que surtirán sus efectos legales en las veinticuatro horas siguientes.
+Las partes interesadas podrán hacer los depósitos en la cuenta del Fondo que corresponda, de las cantidades que les señalen las autoridades judiciales, lo que quedará debidamente acreditado ante la autoridad que los ordena, con la exhibición de los comprobantes de los depósitos por los conceptos decretados, los que surtirán sus efectos legales en las veinticuatro horas siguientes.
 
-### CAPITULO II. DE LA ADMINISTRACION DEL FONDO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE AGOSTO DE 2023)</small>
+
+### CAPITULO II. De las Facultades del Consejo de la Judicatura
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 11.
 
-EI fondo para el mejoramiento de la Administración de Justicia del Estado de Quintana Roo, se administrará por el Tribunal Superior de Justicia, por conducto de un Consejo Técnico.
+El Fondo para el Mejoramiento en la Administración e Impartición de Justicia del Estado de Quintana Roo, se administrará por el Consejo de la Judicatura, a través de la persona titular de la Presidencia, con el apoyo de la Oficina del Fondo para el Mejoramiento en la Administración e Impartición de Justicia.
 
 ###### ARTICULO 12.
 
-EI Consejo Técnico se integrará con el magistrado presidente del Tribunal Superior de Justicia y un magistrado por cada Sala. Fungirá como secretario el Oficial Mayor del Tribunal.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2023)
 
 ###### ARTICULO 13.
 
-EI Consejo Técnico tendrá sesiones ordinarias mensualmente y extraordinarias cuando así sea necesario y sean convocadas por su presidente.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2023)
 
 ###### ARTICULO 14.
 
-EI Consejo Técnico tendrá sus sesiones ordinarias dentro de los primeros siete días de cada mes.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2023)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 15.
 
-Son facultades del Consejo Técnico.
+Son facultades del Pleno del Consejo de la Judicatura:
 
 I.- Autorizar el retiro de fondos para cubrir necesidades básicas y urgentes que requiera el Tribunal.
 
@@ -123,63 +171,79 @@ III.- Autorizar los pagos con cargo al fondo de estímulos y recompensas especia
 
 IV.- Autorizar los pagos de gastos imprevistos no considerados en el presupuesto de egresos, en lo relacionado al Poder judicial.
 
-V.- Vigilar, coordinar y controlar los trabajos de la dirección financiera.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2023)</small>
+
+V.- Vigilar, coordinar y controlar los trabajos de quien presida el Consejo de la Judicatura, así como de la Oficina del Fondo para el Mejoramiento en la Administración e Impartición de Justicia.
 
 VI.- Ordenar auditorias y revisiones contables a la documentación comprobatoria del fondo.
 
-VII.- Las demás que le confiera esta ley y el Reglamento respectivo.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2023)</small>
+
+VII.- Las demás que le confiera la Ley Orgánica del Poder Judicial del Estado de Quintana Roo, esta Ley y los reglamentos que resulten aplicables.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 16.
 
-Compete al Consejo Técnico supervisar que las erogaciones efectuadas por el fondo se ajusten a lo dispuesto en el programa de mejoramiento de la administración de justicia.
+Compete al Pleno del Consejo de la Judicatura supervisar que las erogaciones efectuadas por el Fondo se ajusten a lo dispuesto en los acuerdos específicos emitidos por el Pleno o al programa de mejoramiento en la administración de justicia o a los acuerdos específicos.
 
 ###### ARTICULO 17.
 
-EI Oficial Mayor fungirá como Secretario Técnico del Fondo.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2023)
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 18.
 
-EI presidente del Tribunal Superior de Justicia y el Oficial Mayor del propio Tribunal, firmarán de autorizado conjuntamente los títulos de inversiones y las erogaciones.
+La persona titular de la Presidencia del Consejo de la Judicatura y la persona titular de la Secretaría Ejecutiva de Administración, firmarán de autorizado conjuntamente los títulos, contratos e instrumentos jurídicos para la administración e inversión de los recursos del Fondo, así como para las erogaciones.
 
 ###### ARTICULO 19.
 
-Los miembros del Consejo Técnico tiene la obligación de dar cuenta al Tribunal Superior de Justicia, de cualquier irregularidad que observen en la administración del Fondo.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2023)
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 20.
 
-EI consejo Técnico rendirá un informe al Pleno del Tribunal Superior de Justicia del Estado que guarda el fondo, cuando menos una vez al mes y las veces que así lo determine. EI informe mensual se rendirá dentro de los quince días del mes siguiente a informar.
+La persona titular de la Presidencia del Consejo de la Judicatura rendirá un informe al Pleno del Consejo de la Judicatura del Estado que guarda el Fondo, cuando menos una vez cada trimestre y las veces que así lo determine. El informe trimestral se rendirá dentro de los quince días del mes siguiente al trimestre por informar.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 21.
 
-EI Pleno del Tribunal Superior de Justicia ordenarán (sic) las revisiones al fondo que estime convenientes para que se observe estrictamente el cumplimiento de esta Ley y autorizará la cuenta anual del fondo y los respectivos documentos contables que soportan el origen y aplicación de los recursos, el estado de resultados y otros que se estime conveniente presentar. Asimismo ordenará la práctica anual de una auditoría externa, cuando esto fuere necesario.
+El Pleno del Tribunal Superior de Justicia ordenará las revisiones al Fondo que estime convenientes para que se observe estrictamente el cumplimiento de esta Ley, así como de las demás disposiciones aplicables y autorizará la cuenta anual del fondo y los respectivos documentos contables que soporten el origen y aplicación de los recursos, el estado de resultados y otros que se estime conveniente presentar. Asimismo, ordenará la práctica anual de una auditoría externa, cuando esto fuere necesario.
 
 ### CAPITULO TERCERO. DEL DESTINO DEL FONDO
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
+
 ###### ARTICULO 22.
 
-EI programa anual de mejoramiento de la administración de justicia podrá considerar los siguientes conceptos:
+Los recursos propios del Fondo se podrán destinar, previa autorización del Consejo de la Judicatura, mediante acuerdos específicos o a través del programa anual de mejoramiento en la administración e impartición de justicia, a:
 
-I.- Otorgamiento de estímulos y recompensas al personal profesional y de apoyo del Poder judicial, por méritos especiales en el desempeño de sus labores.
+I. Sufragar los gastos que origine su administración;
 
-II.- Adquisición de mobiliario y equipo especializado, no considerado en el presupuesto de egresos del Estado, relativo al poder judicial
+II. La adquisición de los bienes materiales requeridos para la administración de justicia;
 
-III.- Para cursos de capacitación al personal de base y de confianza.
+III. La capacitación y mejoramiento profesional de las personas integrantes del Poder Judicial;
 
-IV.- La contratación de personal profesional para apoyar labores extraordinarias de los órganos de justicia, que no sean mayores de seis meses.
+IV. Sufragar los gastos necesarios para la participación de personas magistradas, integrantes del Consejo de la Judicatura, personas juzgadoras, y demás personal que estime conveniente, en congresos, seminarios y reuniones que tengan por objeto evaluaciones, encuentros y mejoramiento de la administración de justicia.
 
-V.- Becas para el personal profesional para realizar cursos que acuerde el Comité Técnico, no mayores de seis meses.
+V. Adquisición, construcción, mantenimiento, remodelación o rehabilitación de bienes inmuebles para el ejercicio de sus funciones constitucionales;
 
-VI.- La erogación de gastos imprevistos e importantes para la administración de justicia, no previstos por el presupuesto de egresos.
+VI. Adquisición de bienes muebles e inmuebles, no considerados en el Presupuesto de Egresos del Estado, relativo al Poder Judicial.
 
-VII.- Las demás que proponga al Pleno el Comité Técnico.
+VII. Los demás objetivos que determine el Pleno del Consejo de la Judicatura.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 23.
 
-EI Oficial Mayor del Tribunal informará al Presidente del mismo, las necesidades y propuestas que señala el artículo anterior a más tardar el día último de noviembre de cada año, con el objeto de integrar el programa anual de mejoramiento de la justicia.
+La persona titular de la Presidencia del Consejo de la Judicatura informará al Pleno del Consejo de la Judicatura, las necesidades y propuestas que señala el artículo anterior a más tardar el día último de noviembre de cada año, con el objeto de integrar el programa anual de mejoramiento en la administración e impartición de justicia.
 
 ###### ARTICULO 24.
 
-Una vez autorizada la cuenta anual del fondo, el Tribunal Superior de Justicia, remitirá los estados financieros a la Contaduría Mayor de Hacienda del Estado, para su aprobación definitiva.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2023)
 
 TRANSITORIOS:
 
@@ -210,3 +274,21 @@ ING. MARIO E. VILLANUEVA MADRID
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 DR. HECTOR ESQUILIANO SOLIS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 094 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL FONDO PARA EL MEJORAMIENTO DE LA ADMINISTRACIÓN DE JUSTICIA DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los 180 días naturales siguientes a la entrada en vigor del presente decreto, el Consejo de la Judicatura del Poder Judicial del Estado de Quintana Roo, deberá llevar a cabo las adecuaciones normativas que correspondan a su reglamentación interna, a efecto de dar cumplimiento a lo establecido en el presente decreto.
