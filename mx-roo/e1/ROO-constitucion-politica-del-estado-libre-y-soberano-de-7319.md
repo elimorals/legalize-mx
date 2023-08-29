@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2023-07-13"
+last_updated: "2023-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -164,6 +164,10 @@ Toda familia tiene derecho a disfrutar de vivienda digna y decorosa. La Ley esta
 > <small>(ADICIONADO, P.O. 3 DE ENERO DE 2020)</small>
 
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2023)</small>
+
+El Estado promoverá el desarrollo integral de las personas jóvenes, a través de políticas públicas con enfoque multidisciplinario, que propicien su inclusión en el ámbito político, social, económico y cultural de la Entidad.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
@@ -795,9 +799,29 @@ V.- Ejercer los cargos de elección popular para los que fuere electo, y
 
 VI.- Desempeñar las funciones electorales, censales, las de jurado y demás contenidas en esta Constitución y disposiciones emanadas de ella.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
+
 ###### ARTICULO 43.
 
-Las prerrogativas de los ciudadanos quintanarroenses se suspenden por incumplimiento de las obligaciones a que se refiere el artículo anterior. Dicha suspensión duraráun (sic) año, y se impondrá sin menoscabo de las demás sanciones que correspondan.
+Las prerrogativas de los ciudadanos quintanarroenses se suspenden:
+
+I. Por incumplimiento de las obligaciones a que se refiere el artículo anterior. Dicha suspensión durará un año, y se impondrá sin menoscabo de las demás sanciones que correspondan.
+
+II. Por estar sujeto a un proceso criminal por delito que merezca pena corporal, a contar desde la fecha del auto de formal prisión;
+
+III. Durante la extinción de una pena corporal;
+
+IV. Por vagancia o ebriedad consuetudinaria, declarada en los términos que prevengan las leyes;
+
+V. Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión hasta que prescriba la acción penal;
+
+VI. Por sentencia ejecutoria que imponga como pena esa suspensión, y
+
+VII. Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos.
+
+Por ser declarada como persona deudora alimentaria morosa.
+
+En los supuestos de esta fracción, la persona no podrá ser registrada como candidata para cualquier cargo de elección popular, ni ser nombrada para empleo, cargo o comisión en el servicio público, tanto en el ámbito estatal, como en el municipal.
 
 ###### ARTICULO 44.
 
@@ -5626,3 +5650,19 @@ P.O. 13 DE JULIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo, salvo las disposiciones previstas en el articulo 109 que entrará en vigor a partir de la integración del proyecto de Presupuesto de Egresos del Poder Judicial y del proyecto de Presupuesto de Egresos del Gobierno del Estado, ambos para el Ejercicio Fiscal del año 2024.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 29 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "DECLARATORIA NÚMERO: 002 POR LA QUE SE ADICIONA UN PÁRRAFO SÉPTIMO Y SE RECORREN EN SU ORDEN LOS SUBSECUENTES DEL ARTÍCULO 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “PROMULGACIÓN DEL DECRETO DE DECLARATORIA NÚMERO 003 POR EL QUE SE REFORMA EL ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
