@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2023-06-07"
+last_updated: "2023-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -3589,41 +3589,59 @@ Cuando un recurso se interponga sin fundamento, carezca de las formalidades nece
 
 El reglamento interior de trabajo determinará las faltas de los empleados administrativos del Poder Judicial, las correcciones disciplinarias que procedan imponer al infractor y los procedimientos y autoridades competentes para su aplicación, conforme a lo previsto en las Condiciones Generales de Trabajo y demás ordenamientos aplicables.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE AGOSTO DE 2023)</small>
 
-## TITULO SEXTO. DEL FONDO PARA MEJORAMIENTO EN LA ADMINISTRACION E IMPARTICION DE JUSTICIA
+## TÍTULO SEXTO. DEL FONDO PARA EL MEJORAMIENTO EN LA ADMINISTRACIÓN E IMPARTICIÓN DE JUSTICIA
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LOS INTEGRAN, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE AGOSTO DE 2023)</small>
 
-### CAPITULO I. DE SU ADMINISTRACION
+### CAPÍTULO I. DE SU INTEGRACIÓN Y ADMINISTRACIÓN
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 133.
 
-El patrimonio del Fondo para Mejoramiento en la Administración e Impartición de Justicia, se integrará con:
+El Fondo para el Mejoramiento en la Administración e Impartición de Justicia, se integrará con:
 
-I.- Las multas, fianzas y cauciones que las autoridades judiciales hagan efectivas, las cuales serán remitidas al Fondo;
+I. Los recursos propios del Poder Judicial, derivados de:
 
-II.- El monto de la reparación del daño, cuando la parte ofendida se niegue o renuncie a recibir su importe o no se presente persona alguna que justifique su derecho a recibirlo en el término de tres años;
+a) Las multas, fianzas y cauciones que las autoridades judiciales hagan efectivas;
 
-III.- Los intereses provenientes de cualquier tipo de depósito que entreguen al Fondo las autoridades judiciales del Estado; y
+b) El monto de la reparación del daño, cuando la parte ofendida se niegue o renuncie a recibir su importe o no se presente persona alguna que justifique su derecho a recibirlo en el término de tres años;
 
-IV.- En general los ingresos que se produzcan por la administración de valores o por cualquier otra prestación autorizada en la Ley;
+c) Los intereses o rendimientos provenientes de cualquier tipo de depósito en dinero o en valores que se efectúen ante los juzgados del fuero común del Estado, tribunales o cualesquiera órganos del Poder Judicial del Estado;
 
-V.- El producto de los artículos materia de un delito que no sean reclamados por sus legítimos propietarios, seis meses después de que la sentencia cause ejecutoria.
+d) Los intereses o rendimientos provenientes de la inversión de los ingresos propios del Fondo;
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+e) En general los ingresos que se produzcan por la administración de valores o por cualquier otra prestación autorizada en la Ley;
+
+f) El producto de los artículos materia de un delito que no sean reclamados por sus legítimas personas propietarias, seis meses después de que la sentencia cause ejecutoria, y
+
+g) Donaciones o aportaciones hechas a favor del Fondo.
+
+II. Los fondos ajenos constituidos por los depósitos en efectivo o en valores, que por cualquier causa se efectúen ante los juzgados del fuero común del Estado, los Tribunales o cualesquiera de los órganos del Poder Judicial, respecto de los cuales, se tendrá su tenencia y administración, hasta en tanto se les otorgue el destino o aplicación que determinen los órganos jurisdiccionales.
+
+Para los efectos de lo previsto en esta fracción, el juzgado, Tribunal o cualquiera de los órganos del Poder Judicial que reciban depósitos de dinero o en valores, deberán remitirlos al Fondo, en términos de la Ley del Fondo para el Mejoramiento en la Administración e Impartición de Justicia del Estado de Quintana Roo.
+
+Las cantidades derivadas de los depósitos serán entregadas a la persona depositante o beneficiaria, según corresponda, previa orden por escrito del órgano competente, en el entendido que, las personas depositantes o beneficiarias correspondientes no percibirán interés o rendimientos en su beneficio respecto de los depósitos efectuados.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 134.
 
-La administración del Fondo estará a cargo del Consejo de la Judicatura, por conducto de su Presidente.
+La administración del Fondo estará a cargo del Consejo de la Judicatura, por conducto de la persona titular de la Presidencia. El Poder Judicial será el titular de los títulos, instrumentos o documentos que expidan las instituciones financieras con motivo de las inversiones correspondientes.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+El Consejo de la Judicatura, en representación del Poder Judicial, podrá invertir, los recursos del Fondo en títulos, valores u otro tipo de inversiones siempre y cuando sean de renta fija y/o plazo fijo. Asimismo, podrá celebrar contratos de fideicomiso a cuyo patrimonio se aporten parte o la totalidad de los recursos que integran el Fondo, para la conservación, administración e inversión de los recursos propios y/o de los fondos ajenos.
+
+Para la inversión de los recursos del Fondo, ya sea directamente o a través de fideicomisos, a plazos mayores a un año se requerirá de la previa autorización del Pleno del Consejo de la Judicatura, previo análisis financiero que sustente la estimación de disponibilidad de recursos para atender la devolución de los depósitos.
+
+Queda prohibido invertir los recursos del Fondo en títulos de renta variable.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 135.
 
-El Presidente ordenará que se practique una auditoría, que cuando menos deberá ser anual, para verificar manejo del Fondo. Dicha auditoría se practicará por quien designe el Pleno del Tribunal Superior de Justicia.
+La persona titular de la Presidencia, ordenará que se practique una auditoria, que cuando menos deberá ser anual para verificar el manejo del Fondo. Dicha auditoría se practicará por quien designe el Pleno del Tribunal Superior de Justicia.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -3635,21 +3653,25 @@ La Oficina del Fondo para Mejoramiento en la Administración e Impartición de J
 
 ### CAPITULO II. DE SU DESTINO
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 137.
 
-El patrimonio del Fondo se podrá destinar a:
+Los recursos propios del Fondo se podrán destinar, previa autorización del Pleno del Consejo de la Judicatura, mediante acuerdos específicos o a través del programa anual de mejoramiento en la administración e impartición de justicia, a:
 
-I.- A sufragar los gastos que origine su administración;
+I. Sufragar los gastos que origine su administración;
 
-II.- A la adquisición de los bienes materiales requeridos para la administración de justicia;
+II. La adquisición de los bienes materiales requeridos para la administración de justicia;
 
-III.- A la capacitación y mejoramiento profesional de los integrantes del Poder Judicial;
+III. La capacitación y mejoramiento profesional de las personas integrantes del Poder Judicial;
 
-IV.- A sufragar los gastos necesarios para la participación de magistrados, integrantes del Consejo de la Judicatura, jueces, y demás personal que estime conveniente, en congresos, seminarios y reuniones que tengan por objeto evaluaciones, encuentros y mejoramiento de la administración de justicia.
+IV. Sufragar los gastos necesarios para la participación de las personas magistradas, integrantes del Consejo de la Judicatura, las personas juzgadoras, y demás personal que estime conveniente, en congresos, seminarios y reuniones que tengan por objeto evaluaciones, encuentros y mejoramiento de la administración de justicia.
 
-V.- Los demás objetivos que determine el Pleno del Consejo de la Judicatura.
+V. La adquisición, construcción, mantenimiento, remodelación o rehabilitación de bienes inmuebles para el ejercicio de sus funciones constitucionales;
+
+VI. La adquisición de bienes muebles e inmuebles, no considerados en el Presupuesto de Egresos del Estado, relativo al Poder Judicial; y
+
+VII. Los demás objetivos que determine el Pleno del Consejo de la Judicatura.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MAYO DE 2013)</small>
 
@@ -4066,3 +4088,19 @@ P.O. 7 DE JUNIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 29 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 094 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL FONDO PARA EL MEJORAMIENTO DE LA ADMINISTRACIÓN DE JUSTICIA DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los 180 días naturales siguientes a la entrada en vigor del presente decreto, el Consejo de la Judicatura del Poder Judicial del Estado de Quintana Roo, deberá llevar a cabo las adecuaciones normativas que correspondan a su reglamentación interna, a efecto de dar cumplimiento a lo establecido en el presente decreto.
