@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2023-08-18"
+last_updated: "2023-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE AGOSTO DE 2023.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -3129,39 +3129,55 @@ Artículo 227 Novodecies. El Pleno conocerá de aquéllos casos relacionados con
 
 Son sujetos de este Capítulo los servidores públicos adscritos a los órganos jurisdiccionales y áreas administrativas.
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS LICENCIAS DE PATERNIDAD, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA LICENCIA DE PATERNIDAD Y DE ADOPCIÓN, D.O.F. 29 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 229.
 
-Los servidores públicos tendrán derecho a que se les otorgue una licencia de paternidad con goce de sueldo, por el periodo de noventa días naturales a partir del nacimiento o adopción del infante.
+Los servidores públicos tendrán derecho a que se les otorgue una licencia de paternidad con goce de sueldo, por el periodo de noventa días naturales.
 
 Las licencias por adopción se regirán por lo dispuesto en el artículo 233 del presente Acuerdo.
 
-En el caso de que el servidor público requiera días previos al nacimiento o adopción, dicha necesidad podrá ser cubierta con una licencia distinta, siguiendo para tal efecto, los trámites que resulten aplicables a cada caso.
-
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS LICENCIAS DE PATERNIDAD, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA LICENCIA DE PATERNIDAD Y DE ADOPCIÓN, D.O.F. 29 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 230.
 
 Para los casos de alumbramiento, el procedimiento se llevará a cabo conforme a lo siguiente:
 
-I. El servidor público deberá presentar con antelación al parto y por escrito ante la persona titular de su adscripción, la petición respectiva de licencia de paternidad, a la que tendrá que adjuntar el último estudio ginecológico de la persona con quien se gestó el embarazo expedido por un centro de salud público o privado, así como referir la fecha probable de alumbramiento.
+I. El servidor público podrá optar por gozar de la licencia de paternidad de las siguientes formas:
 
-Los titulares de los órganos jurisdiccionales y áreas administrativas presentarán su petición ante la Secretaría Ejecutiva del Pleno;
+a) La licencia podrá iniciar hasta quince días antes del nacimiento, a cuenta de los noventa días;
 
-II. El día de inicio del alumbramiento, el servidor público informará ese hecho a su titular o a la Secretaría Ejecutiva del Pleno, según corresponda, por los medios de comunicación disponibles para que, por su conducto o a través de quien designe para tal efecto, se notifique a la Dirección General de Recursos Humanos sobre tal circunstancia. El periodo de noventa días para la licencia de paternidad se contabilizará a partir del mismo día de inicio del proceso de alumbramiento, salvo lo dispuesto en la fracción VI de la presente disposición;
+b) A partir del día del nacimiento; y
 
-III. El servidor público tendrá quince días naturales para enviar, física o digitalmente y con firma electrónica, a su titular o a la Secretaría Ejecutiva del Pleno, según corresponda, el certificado médico de nacimiento del infante, expedido por un centro de salud público o privado en el que se acredite su paternidad;
+c) Dentro de los nueve meses posteriores al nacimiento del infante.
 
-IV. Además, en un plazo que no exceda de treinta días naturales, deberá entregar al área de su adscripción o a la Secretaría Ejecutiva del Pleno, según corresponda, el acta de nacimiento correspondiente. Dicho plazo será improrrogable, salvo que exista causa justificada que imposibilite su presentación en dicho plazo;
+Los titulares de los órganos jurisdiccionales y áreas administrativas presentarán su petición de licencia de paternidad ante la Secretaría Ejecutiva del Pleno; los demás servidores públicos ante la persona titular de su adscripción.
 
-V. Los documentos mencionados quedarán bajo el resguardo del órgano jurisdiccional, área administrativa de su adscripción o de la Secretaría Ejecutiva del Pleno;
+II. Para el caso del inciso a), el servidor público deberá presentar, con aproximadamente un mes de anticipación al nacimiento y por escrito, la solicitud de licencia de paternidad con la fecha probable de nacimiento y día en que iniciará la licencia. Se deberá adjuntar el estudio que acredite o de constancia del estado de gravidez emitido por un centro, institución o laboratorio de salud pública o privada.
 
-VI. El servidor público podrá optar por gozar de licencia de paternidad a que tenga derecho dentro de los nueve meses posteriores al nacimiento del infante, para lo cual deberá presentar su solicitud acompañada de la documentación con la que cuente en ese momento ante la persona titular de su adscripción o ante la Secretaría Ejecutiva del Pleno, según corresponda, para dar constancia de su paternidad, considerando los tiempos estipulados en las fracciones anteriores;
+III. Por lo que hace al inciso b), el servidor público, con aproximadamente un mes de anticipación al nacimiento, deberá manifestar por escrito su deseo de solicitar la licencia de paternidad a partir del día de nacimiento, adjuntando el estudio que acredite o de constancia del estado de gravidez emitido por un centro, institución o laboratorio de salud pública o privada.
 
-VII. En cualquier caso, el plazo de noventa días para gozar de la licencia de paternidad correrá de forma ininterrumpida; y
+El día del nacimiento, el servidor público informará ese hecho a la persona titular de su adscripción o ante la Secretaría Ejecutiva del Pleno, según corresponda, por los medios de comunicación disponibles, para que se notifique a la Dirección General de Recursos Humanos sobre tal circunstancia.
 
-VIII. En caso de no presentar la documentación que acredite el hecho de la paternidad o se compruebe su falsedad, se descontarán del salario los días otorgados y se dará inicio a los procedimientos administrativos sancionadores que correspondan.
+El periodo de noventa días para la licencia de paternidad se contabilizará a partir del nacimiento, por lo que la licencia podrá ser autorizada con efectos retroactivos.
+
+IV. En el caso del inciso c), deberá presentar su solicitud con un mes de anticipación, acompañada de la documentación con la que cuente en ese momento ante la persona titular de su adscripción o ante la Secretaría Ejecutiva del Pleno, según corresponda, para dar constancia de su paternidad.
+
+V. En todos los supuestos, los titulares de los órganos jurisdiccionales, independientemente de la solicitud que envíen a la Secretaría Ejecutiva del Pleno, con un mes de anticipación al día en que empezarán a gozar la licencia, deberán avisar a la Secretaría Ejecutiva de Adscripción que solicitarán licencia de paternidad, a fin de que se prevea lo relativo a su sustitución. En el aviso que se remita, cuando sea el caso, deberá constar que informaron a los titulares integrantes de su órgano jurisdiccional.
+
+Los titulares deberán proveer lo conducente para sustituir a los servidores públicos de los órganos jurisdiccionales y áreas administrativas que soliciten la licencia de paternidad.
+
+VI. El servidor público tendrá quince días naturales siguientes al nacimiento para enviar, física o digitalmente y con firma electrónica, a su titular o a la Secretaría Ejecutiva del Pleno, según corresponda, el certificado médico de nacimiento del infante, expedido por un centro de salud público o privado en el que se acredite su paternidad.
+
+VII. Además, en un plazo que no exceda de treinta días naturales siguientes al nacimiento, deberá entregar al área de su adscripción o a la Secretaría Ejecutiva del Pleno, según corresponda, el acta de nacimiento correspondiente. Dicho plazo será improrrogable, salvo que exista causa justificada que imposibilite su presentación en dicho plazo.
+
+VIII. Los documentos mencionados quedarán bajo el resguardo del órgano jurisdiccional, área administrativa de su adscripción o de la Secretaría Ejecutiva del Pleno, según corresponda.
+
+IX. Por regla general, el plazo de noventa días para gozar de la licencia de paternidad correrá de forma ininterrumpida, salvo lo dispuesto por el Pleno.
+
+X. En el caso de las licencias que inicien hasta quince días antes del nacimiento, si la causa de la licencia no ocurriera, el servidor público deberá informar de esa situación a su titular o a la Secretaría Ejecutiva del Pleno, según corresponda, acompañando la documentación respectiva, para que se dé aviso a la Dirección General de Recursos Humanos. En este supuesto, deberá reincorporarse a sus funciones en un plazo no mayor a cinco días hábiles a partir de que se haya materializado la causa por la cual no procede la licencia.
+
+XI. En caso de no presentar la documentación que acredite el hecho de la paternidad o se compruebe su falsedad, se descontarán del salario los días otorgados y se dará inicio a los procedimientos administrativos sancionadores que correspondan.
 
 ###### Artículo 231.
 
@@ -3171,19 +3187,13 @@ VIII. En caso de no presentar la documentación que acredite el hecho de la pate
 
 (DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS LICENCIAS DE PATERNIDAD, D.O.F. 29 DE SEPTIEMBRE DE 2021)
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS LICENCIAS DE PATERNIDAD, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA LICENCIA DE PATERNIDAD Y DE ADOPCIÓN, D.O.F. 29 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 233.
 
-Las personas servidoras públicas a quienes se conceda la adopción de un infante disfrutarán de una licencia con goce de sueldo por noventa días naturales, mismos que podrán ejercer dentro de los nueve meses siguientes, conforme a lo dispuesto en el artículo 230, fracción VI.
+Las personas servidoras públicas a quienes se conceda la adopción de un infante disfrutarán de una licencia con goce de sueldo por noventa días naturales de forma ininterrumpida que iniciarán en la fecha en que se conceda o se otorgue legalmente el encargo, o bien la guarda y custodia de la niña, niño o adolescente que se pretenda adoptar.
 
-(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LAS LICENCIAS POR MATERNIDAD, D.O.F. 21 DE JULIO DE 2020
-
-Los periodos de las licencias se computarán a partir de la fecha en que se materialice la decisión en la que se hubiere aprobado o determinado la adopción.
-
-(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LAS LICENCIAS POR MATERNIDAD, D.O.F. 21 DE JULIO DE 2020
-
-Idénticas licencias y por los mismos plazos se otorgarán a las madres y padres por gestación subrogada. En este supuesto, los periodos de las licencias se computarán a partir de la fecha de nacimiento, la cual se documentará con los medios idóneos para acreditarlo.
+Idénticas licencias y por el mismo plazo se otorgarán a las madres y padres por gestación subrogada. En este supuesto, los periodos de las licencias se computarán a partir de la fecha de nacimiento, la cual se documentará con los medios idóneos para acreditarlo.
 
 ###### Artículo 234.
 
@@ -14540,3 +14550,11 @@ D.O.F. 18 DE AGOSTO DE 2023.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 29 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA LICENCIA DE PATERNIDAD Y DE ADOPCIÓN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
