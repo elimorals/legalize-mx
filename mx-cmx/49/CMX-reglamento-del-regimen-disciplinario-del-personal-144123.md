@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-regimen-disciplinario-del-personal-144123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-09-17"
-last_updated: "2021-07-23"
+last_updated: "2023-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144123&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-09-09"
 
 REGLAMENTO DEL RÉGIMEN DISCIPLINARIO DEL PERSONAL SUSTANTIVO DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO OFICIAL: 23 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO OFICIAL: 30 DE AGOSTO DE 2023.
 
 Reglamento publicado en el Número 432 de la Gaceta Oficial de la Ciudad de México, el jueves 17 de septiembre de 2020.
 
@@ -110,11 +110,15 @@ IX. Personal pericial: Al personal con nombramiento de perito profesional o téc
 
 X. Personal policial: Al personal con nombramiento en la rama policial, integrante de la Policía de Investigación de la Fiscalía General, en todas sus categorías;
 
-XI. Personal sustantivo: Al personal ministerial, pericial y policial de la Fiscalía General de Justicia de la Ciudad de México;
+> <small>(REFORMADA, G.O. 30 DE AGOSTO DE 2023)</small>
+
+XI. Personal sustantivo: Al personal ministerial, pericial y policial de la Fiscalía General;
 
 XII. Procedimiento Disciplinario: Al Procedimiento de Responsabilidad Disciplinaria, previsto en el presente Reglamento;
 
-XIII. Reglamento: Al Reglamento del Régimen Disciplinario del Personal Sustantivo de la Fiscalía General de Justicia de la Ciudad de México; y
+> <small>(REFORMADA, G.O. 30 DE AGOSTO DE 2023)</small>
+
+XIII. Reglamento: Al Reglamento del Régimen Disciplinario del Personal Sustantivo de la Fiscalía General; y
 
 XIV. Reincidencia: Cuando el personal sustantivo que haya sido sancionado mediante resolución firme, incumpla nuevamente con una responsabilidad.
 
@@ -166,9 +170,11 @@ El Consejo de Asuntos Internos es el órgano colegiado de la Fiscalía General e
 
 De igual forma, conocerá de las solicitudes, recomendaciones o resoluciones que emitan la Comisión de Derechos Humanos, Nacional y las Estatales, el Órgano Interno de Control, la Dirección General de Derechos Humanos de la Fiscalía General y demás instancias y autoridades competentes, órganos de gobierno u órganos autónomos, federales, locales o municipales, en contra del personal ministerial y pericial, que hayan sido atendidas por autoridades con atribuciones para tal efecto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 13.
 
-El Consejo de Asuntos Internos de la Fiscalía General se integra por la Titular de la Fiscalía General y por las personas titulares de las Unidades Administrativas siguientes:
+El Consejo de Asuntos Internos de la Fiscalía General se integra por la Titular de la Fiscalía General y por las personas Titulares de las Unidades Administrativas siguientes:
 
 I. Unidad de Asuntos Internos, quien fungirá como titular de la Secretaría Ejecutiva;
 
@@ -186,7 +192,9 @@ VII. Coordinación General de Delitos de Alto Impacto, en su calidad de Vocal;
 
 VIII. Coordinación General de Investigación Forense y Servicios Periciales, en su calidad de Vocal;
 
-IX. Coordinación General de Administración, en su calidad de Vocal; y
+> <small>(REFORMADA, G.O. 30 DE AGOSTO DE 2023)</small>
+
+IX. Coordinación General de Administración, en su calidad de Vocal;
 
 X. Instituto de Formación Profesional y Estudios Superiores, en su calidad de Vocal.
 
@@ -262,9 +270,13 @@ I. Presidir las sesiones y emitir voto de calidad en aquellos casos en que exist
 
 II. Autorizar el orden del día para la celebración de las sesiones ordinarias y extraordinarias;
 
-III. Convocar a sesiones ordinarias según el calendario aprobado y a las extraordinarias, cuando así se considere necesario o a petición de cualquier integrante con derecho a voz y voto; y
+> <small>(REFORMADA, G.O. 30 DE AGOSTO DE 2023)</small>
 
-IV. Someter a la aprobación del Consejo de Asuntos Internos, los asuntos de su competencia, así como firmar la documentación que dé cuenta de los acuerdos tomados.
+III. Convocar a sesiones ordinarias según el calendario aprobado y a las extraordinarias, cuando así se considere necesario o a petición de cualquier integrante con derecho a voz y voto;
+
+> <small>(REFORMADA, G.O. 30 DE AGOSTO DE 2023)</small>
+
+IV. Someter a la aprobación del Consejo de Asuntos Internos, los asuntos de su competencia, así como firmar la documentación que dé cuenta de los acuerdos tomados; y
 
 > <small>(ADICIONADA, G.O. 23 DE JULIO DE 2021)</small>
 
@@ -290,7 +302,9 @@ VII. Resguardar las carpetas de trabajo y la documentación que sustenten las re
 
 VIII. Elaborar y proponer el calendario anual de sesiones ordinarias, el Informe Anual de actividades del Consejo de Asuntos Internos, así como los informes solicitados, con motivo de su actuación;
 
-IX. Expedir copias certificadas que soliciten las personas integrantes del Consejo de Asuntos Internos, de otras Unidades Administrativas de la Fiscalía General y cualquier otra autoridad que lo solicite; y
+> <small>(REFORMADA, G.O. 30 DE AGOSTO DE 2023)</small>
+
+IX. Expedir copias certificadas que soliciten las personas integrantes del Consejo de Asuntos Internos, de otras Unidades Administrativas de la Fiscalía General y cualquier otra autoridad que lo solicite;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE JULIO DE 2021)</small>
 
@@ -308,7 +322,9 @@ I. Asistir a las sesiones ordinarias y extraordinarias del Consejo de Asuntos In
 
 II. Revisar y analizar los asuntos y resoluciones que se establecen en la orden del día y que serán presentados a la consideración del Consejo de Asuntos Internos;
 
-III. Proponer alternativas para la solución y atención de los asuntos que se presenten a la consideración del Consejo (sic) Asuntos Internos;
+> <small>(REFORMADA, G.O. 30 DE AGOSTO DE 2023)</small>
+
+III. Proponer alternativas para la solución y atención de los asuntos que se presenten a la consideración del Consejo de Asuntos Internos;
 
 IV. Emitir su voto en los asuntos que se presenten en las sesiones;
 
@@ -340,9 +356,11 @@ La elección de dichos integrantes será realizada por la persona Titular de la 
 
 Los Vocales durarán en su cargo un año y sólo podrán volver a ser designados como tales, transcurridos 5 años después de haber concluido el ejercicio de éste.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 22.
 
-La persona Titular de la Fiscalía General designará al suplente de la persona titular (sic) la Presidencia del Consejo de Honor y Justicia y a los suplentes de los integrantes de la Policía de Investigación, éstos últimos, de entre los candidatos restantes que no hubieren sido designados como titulares, en términos del último párrafo de la fracción III del artículo anterior.
+La persona Titular de la Fiscalía General designará al suplente de la persona titular de la Presidencia del Consejo de Honor y Justicia y a los suplentes de los integrantes de la Policía de Investigación, éstos últimos, de entre los candidatos restantes que no hubieren sido designados como titulares, en términos del último párrafo de la fracción III del artículo anterior.
 
 Los suplentes de los integrantes de la Policía de Investigación, deberán tener al menos, el mismo nivel jerárquico que el titular suplido y contar con reconocida probidad y honradez.
 
@@ -352,7 +370,7 @@ No podrá ser designado integrante propietario o suplente del Consejo de Honor y
 
 Para efectos del presente Reglamento, el Consejo de Honor y Justicia tiene las siguientes facultades:
 
-I. Recibir y acordar los informes de investigación de la Unidad de Administrativa competente;
+I. Recibir y acordar los informes de investigación de la Unidad de (sic) Administrativa competente;
 
 II. Recibir y acordar los asuntos que le ponga de su conocimiento la persona titular de la Secretaría Técnica;
 
@@ -360,7 +378,9 @@ II. Recibir y acordar los asuntos que le ponga de su conocimiento la persona tit
 
 III. Resolver sobre la responsabilidad en que incurre el personal policial, y determinar, en su caso, la imposición de la sanción respectiva o la determinación de no responsabilidad;
 
-IV. Ordenar a la Unidad Administrativa competente la práctica de nuevas diligencias en la investigación en los casos donde no existan elementos suficientes para emitir una resolución; y
+> <small>(REFORMADA, G.O. 30 DE AGOSTO DE 2023)</small>
+
+IV. Ordenar a la Unidad Administrativa competente la práctica de nuevas diligencias en la investigación en los casos donde no existan elementos suficientes para emitir una resolución;
 
 V. Conocer y resolver el Recurso de Reconsideración que proceda en términos del artículo 61 del presente reglamento;
 
@@ -424,7 +444,9 @@ VII. Resguardar las carpetas de trabajo y la documentación que sustenten las re
 
 VIII. Elaborar y proponer el calendario anual de sesiones ordinarias, el Informe Anual de actividades del Consejo de Honor y Justicia, así como los informes solicitados, con motivo de su actuación;
 
-IX. Expedir las copias certificadas que se soliciten de otras Unidades Administrativas de la Fiscalía General, cualquiera otra autoridad competente, así como el personal policial contra quien se lleve el procedimiento; y
+> <small>(REFORMADA, G.O. 30 DE AGOSTO DE 2023)</small>
+
+IX. Expedir las copias certificadas que se soliciten de otras Unidades Administrativas de la Fiscalía General, cualquiera otra autoridad competente, así como el personal policial contra quien se lleve el procedimiento;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE JULIO DE 2021)</small>
 
@@ -548,7 +570,7 @@ XIX. Prestar auxilio a las personas amenazadas por algún peligro o que hayan si
 
 XX. Abstenerse en todo momento de infligir o tolerar actos de tortura, aun cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la Seguridad Pública, urgencia de las investigaciones o cualquier otra; al conocimiento de ello, lo denunciará inmediatamente ante la autoridad competente;
 
-XXI. Observar un trato respetuoso, diligente, cordial, profesional, transparente e integral con todas las personas, debiendo abstenerse de realizar todo acto arbitrario y de limitar indebidamente, las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la ciudanía;
+XXI. Observar un trato respetuoso, diligente, cordial, profesional, transparente e integral con todas las personas, debiendo abstenerse de realizar todo acto arbitrario y de limitar indebidamente, las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la ciudanía (sic);
 
 XXII. Desempeñar su misión sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente. En particular se opondrán a cualquier acto de corrupción y, en caso de tener conocimiento de alguno, deberán denunciarlo;
 
@@ -674,7 +696,7 @@ XXII. Abstenerse de portar o usar el arma de cargo fuera del servicio;
 
 XXIII. Abstenerse de usar la fuerza de forma irracional y desproporcionada;
 
-XXIV. Abstenerse de infringir o tolerar actos de tortura, abuso sexual, tratos crueles, inhumanos o degradantes a aquellas personas que se encuentre bajo su custodia;
+XXIV. Abstenerse de infringir o tolerar actos de tortura, abuso sexual, tratos crueles, inhumanos o degradantes a aquellas personas que se encuentre (sic) bajo su custodia;
 
 XXV. Conducirse con probidad, honradez y apego a los principios de actuación del régimen disciplinario de la Policía de Investigación, durante o fuera del servicio;
 
@@ -926,9 +948,13 @@ De igual modo, se le advertirá para que, en su escrito de contestación, señal
 
 V. Transcurrido el plazo señalado para dar contestación y presentar pruebas, se dictará el auto que resuelva la admisión de éstas y se citará para que, dentro de los cinco días, se lleve a cabo la celebración de la audiencia de pruebas y alegatos. Son admisibles toda clase de pruebas excepto la confesional de la autoridad y las que fueren en contra del derecho; los alegatos podrán será de manera verbal o por escrito;
 
-VI. Celebrada la audiencia de pruebas y alegatos, en un término de ocho días, se dictará el auto de cierre de instrucción y se turnará el expediente para resolución al pleno del Consejo de Honor y Justicia; y
+> <small>(REFORMADA, G.O. 30 DE AGOSTO DE 2023)</small>
 
-VII. Una vez integrado el expediente, el Consejo de Honor y Justicia dictará su resolución debidamente fundada y motivada dentro de los veinte días siguientes, la que será notificada personalmente al interesado y a las autoridades competentes para la ejecución de ésta.
+VI. Celebrada la audiencia de pruebas y alegatos, en un término de ocho días, se dictará el auto de cierre de instrucción y se turnará el expediente para resolución al pleno del Consejo de Honor y Justicia;
+
+> <small>(REFORMADA, G.O. 30 DE AGOSTO DE 2023)</small>
+
+VII. Una vez integrado el expediente, el Consejo de Honor y Justicia dictará su resolución debidamente fundada y motivada dentro de los veinte días siguientes, la que será notificada personalmente al interesado y a las autoridades competentes para la ejecución de ésta; y
 
 VIII. El Pleno del Consejo de Honor y Justicia, dictará la determinación correspondiente a través de la votación por mayoría simple, y en caso de empate, por voto de calidad del Presidente de dicho órgano colegiado. El voto que se emita en las respectivas sesiones deberá ser público;
 
@@ -993,3 +1019,9 @@ PRIMERO. Publíquese el presente Acuerdo en la Gaceta Oficial de la Ciudad de M�
 SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. El Oficial Secretario que haya incumplido alguna de las obligaciones previstas en el presente reglamento, será sancionado de conformidad con el presente, con independencia del cargo que ocupe, con motivo de la transición que se realice al Servicio Profesional de Carrera de la Fiscalía General de Justicia de la Ciudad de México.
+
+G.O. 30 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “AVISO FGJCDMX/19/2023 POR EL QUE SE DA A CONOCER LA VERSIÓN ACTUALIZADA DEL REGLAMENTO DEL RÉGIMEN DISCIPLINARIO DEL PERSONAL SUSTANTIVO DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO”.]
+
+ÚNICO. - Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
