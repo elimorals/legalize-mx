@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1300
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-07"
-last_updated: "2023-08-16"
+last_updated: "2023-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2023.
 
 Ley publicada en el Suplemento 7 al Número 54 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de julio de 2018.
 
@@ -1020,6 +1020,10 @@ Para que el voto de una diputada o diputado sea válido, deberá emitirlo a favo
 ###### Artículo 77.
 
 Para efecto del cómputo de los votos, la votación se denominará mayoría simple, mayoría relativa, mayoría absoluta y mayoría calificada.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2023)</small>
+
+Las disposiciones que establezcan la necesidad de cualquiera de estas mayorías, solo podrán ser modificadas o derogadas por la votación del mismo tipo de mayoría.
 
 Salvo disposición expresa en contrario en la Constitución estatal, esta Ley o su Reglamento General, serán válidos los resultados por mayoría simple de votos.
 
@@ -2455,9 +2459,9 @@ III. Dirección de Procesos Legislativos y Asuntos Jurídicos, y
 
 IV. Dirección de Administración y Finanzas.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2023)</small>
 
-La Dirección de Apoyo Parlamentario, la Dirección de Procesos Legislativos y Asuntos Jurídicos y la Dirección de Administración y Finanzas, así como la Coordinación de Comunicación Social, y el área de Transparencia, son las unidades administrativas que se encargan de la ejecución de las tareas que permiten el desarrollo de las funciones legislativas, administrativas y financieras de la Legislatura del Estado; serán unidades dependientes de los órganos de gobierno.
+La Dirección de Apoyo Parlamentario, la Dirección de Procesos Legislativos y Asuntos Jurídicos y la Dirección de Administración y Finanzas, son las unidades administrativas que se encargan de la ejecución de las tareas que permiten el desarrollo de las funciones legislativas, administrativas y financieras de la Legislatura del Estado; serán unidades dependientes de los órganos de gobierno y sus titulares serán nombrados y removidos mediante el voto de las dos terceras partes de los integrantes de la Legislatura.
 
 ###### Artículo 167.
 
@@ -2938,3 +2942,11 @@ Artículo segundo. Se derogan las disposiciones que se opongan al presente Decre
 Artículo tercero. El Comité de Comunicación Social deberá ser integrado en un plazo no mayor a 40 días y presentará su Plan Anual de Trabajo 2024, con al menos los objetivos planteados en el Considerando Tercero, de los alcances de las iniciativas del presente decreto, para integrarse en el presupuesto correspondiente.
 
 Artículo cuarto. En cuanto a la previsión presupuestal señalada en la reforma al artículo 185 de la Ley Orgánica, deberá primero actualizarse el Estatuto del Servicio Profesional de Carrera Parlamentaria, observando los cambios jurídicos que para el caso apliquen y acudir a la suficiencia presupuestal.
+
+P.O. 30 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 54.- DE LA LXIV LEGISLATURA DEL ESTADO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y DE SU REGLAMENTO GENERAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
