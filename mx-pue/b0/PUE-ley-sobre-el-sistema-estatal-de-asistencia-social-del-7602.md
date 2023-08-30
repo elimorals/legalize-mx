@@ -4,7 +4,7 @@ identifier: "PUE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7602"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-05"
-last_updated: "2022-12-21"
+last_updated: "2023-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 5 de agosto de 1986.
 
@@ -87,9 +87,9 @@ III.- Alcohólicos, farmacodependientes e individuos en condiciones de vagancia;
 
 IV.- Mujeres en períodos de gestación o lactancia;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2023)</small>
 
-V.- Adultos mayores en desamparo, incapacidad, marginación o sujetos a maltrato;
+V.- Adultos mayores en desamparo, incapacidad, vulnerabilidad por situación económica, marginación o sujetos a maltrato;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -351,11 +351,13 @@ El Organismo en la prestación de servicios y en la realización de acciones de 
 
 En caso de desastre, como inundaciones, terremotos, derrumbes, explosiones, incendios y otros de naturaleza similar por los que se causen (sic) daño a la población, el organismo, sin perjuicio de las atribuciones que en auxilio de los damnificados lleven a cabo otras dependencias y entidades de la administración pública federal, estatal o municipal, promoverá la atención y coordinación de las acciones de los distintos sectores sociales que actúen en beneficio de aquéllos, en el ámbito de su competencia.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 20.
 
-El Gobernador del Estado, a través de las dependencias y entidades competentes, promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional, para las personas que sufran cualquier tipo de discapacidad o incapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales.
+El Gobernador del Estado, a través de las dependencias y entidades competentes, promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional, para las personas que sufran cualquier tipo de discapacidad o incapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales, así como estancias de día para personas adultas mayores.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 Para este efecto, las dependencias y entidades deberán observar una vinculación sistemática entre los servicios de rehabilitación y asistencia social que preste y los que proporcionen otros establecimientos del sector salud y de los sectores social y privado.
 
@@ -966,6 +968,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 21 DE DICIEMBRE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 4 DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 4 Y EL PRIMER PÁRRAFO DEL 20 DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
