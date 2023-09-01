@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2023-06-23"
+last_updated: "2023-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -173,7 +173,9 @@ V. Fijar las contribuciones que deban recibir los municipios; establecer anualme
 
 VI. Iniciar ante el Congreso de la Unión las leyes y decretos que sean de la competencia de éste; así como la reforma, abrogación y derogación de unas y de otros;
 
-VII. Examinar y fiscalizar por conducto de la Auditoría Superior del Estado de San Luis Potosí, las cuentas y actos relativos a la aplicación de fondos públicos del Estado, de los municipios y sus entidades, y demás entes fiscalizables, en términos de la ley de la materia;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Examinar y fiscalizar por conducto del Instituto de Fiscalización Superior del Estado, las cuentas y actos relativos a la aplicación de fondos públicos del Estado, de los municipios y sus entidades, y demás entes fiscalizables, en términos de la ley de la materia;
 
 VIII. Crear y suprimir empleos públicos del Estado. Al aprobar el presupuesto general no podrá dejar de fijar la remuneración que corresponda a un empleo que esté establecido por la ley; y en caso de que por cualesquiera circunstancias se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido en el presupuesto anterior o en la ley que estableció el empleo;
 
@@ -189,9 +191,9 @@ XIII. Emitir las bases normativas a las que deberán sujetarse los ayuntamientos
 
 XIV. Decretar la desafectación de bienes del Estado y de los municipios destinados al dominio público y al uso común;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
-XV. Nombrar a la persona titular de la Auditoria Superior del Estado; a la persona que presida la Comisión Estatal de Derechos Humanos; la Comisión Estatal de Garantía de Acceso a la Información; así como conocer y resolver las solicitudes de destitución de los mismos, en los términos que establezca la ley; asimismo, designar a las consejeras y consejeros que correspondan, respectivamente en cada Comisión; así como a las demás personas titulares de los organismos autónomos;
+XV. Nombrar a la persona titular del Instituto de Fiscalización Superior del Estado; a la persona que presida la Comisión Estatal de Derechos Humanos; la Comisión Estatal de Garantía de Acceso a la Información; así como conocer y resolver las solicitudes de destitución de los mismos, en los términos que establezca la ley; asimismo, designar a las consejeras y consejeros que correspondan, respectivamente en cada Comisión; así como a las demás personas titulares de los organismos autónomos;
 
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 2022)</small>
 
@@ -239,7 +241,9 @@ VII. Trasladar, a solicitud del Ejecutivo, la residencia de los poderes del Esta
 
 VIII. Fijar anualmente los ingresos y egresos del Estado con base en las iniciativas de ley que el Ejecutivo deberá presentar, respectivamente, en los términos que establezca la Constitución del Estado;
 
-IX. Examinar y en su caso aprobar, a través de la Auditoría Superior del Estado, las cuentas de la administración e inversión de los caudales públicos del Estado, de acuerdo con lo dispuesto por los artículos 53, 54, 57 y 135 de la Constitución;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+IX. Examinar a través del Instituto de Fiscalización Superior del Estado, las cuentas de la administración e inversión de los caudales públicos del Estado, de acuerdo con lo dispuesto por los artículos 53, 54, 57 y 135 de la Constitución;
 
 X. Autorizar al gobernador para contratar empréstitos a nombre del Estado; para la ejecución de obras o inversiones de beneficio social, salvo los que contrate en caso de emergencia por causa de desastre, señalando en todo caso los recursos con que deben cubrirse;
 
@@ -319,7 +323,9 @@ Las atribuciones del Congreso del Estado en relación con sus asuntos internos s
 
 I. Nombrar al Oficial Mayor; al Coordinador General de Servicios Parlamentarios; al Contralor Interno; al Coordinador del Instituto de Investigaciones Legislativas; y al Coordinador de Finanzas, y removerlos conforme a lo dispuesto en el Reglamento;
 
-II. Coordinarse por conducto de la Comisión de Vigilancia, con la Auditoría Superior del Estado, en los términos que disponga la ley de la materia;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+II. Coordinarse por conducto de la Comisión de Vigilancia de la Función de Fiscalización, con el Instituto de Fiscalización Superior del Estado, en los términos que disponga la ley de la materia;
 
 III. Nombrar y remover a los empleados del Congreso del Estado;
 
@@ -1105,11 +1111,11 @@ Son comisiones de investigación las que por disposición del Congreso se integr
 
 Las comisiones jurisdiccionales deben conocer específicamente de los hechos que motiven su integración, y funcionar conforme a los procedimientos que establece la ley.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 91.
 
-La Comisión de Vigilancia no podrá ser integrada por quien haya formado parte de cualquiera de los entes auditables, en el periodo inmediato anterior al de la revisión de la cuenta pública que corresponda a su ejercicio; deberá renovarse anualmente y funcionar conforme a lo establecido por la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí, las disposiciones reglamentarias aplicables, y los acuerdos plenarios.
+La Comisión de Vigilancia de la Función de Fiscalización no podrá ser integrada por quien haya formado parte de cualquiera de los entes auditables, en el periodo inmediato anterior al de la revisión de la cuenta pública que corresponda a su ejercicio.
 
 ###### ARTICULO 92.
 
@@ -1255,7 +1261,9 @@ XXI. Trabajo y Previsión Social;
 
 XXII. Transparencia y Acceso a la Información Pública, y
 
-XXIII. Vigilancia.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+XXIII. Vigilancia de la Función de Fiscalización.
 
 ###### ARTICULO 99.
 
@@ -1617,7 +1625,9 @@ XVIII. Los concernientes a las controversias que se susciten entre uno o más mu
 
 XIX. Los encaminados a obtener del Poder Legislativo, amnistías o indultos por delitos del orden común;
 
-XX. Los referidos a la expedición, reformas y adiciones a la Ley Orgánica del Poder Legislativo, y de la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+XX. Los referidos a la expedición, reformas y adiciones a la Ley Orgánica del Poder Legislativo;
 
 XXI. Los que atañen a la estructura, organización y funcionamiento internos del Congreso del Estado;
 
@@ -1839,79 +1849,65 @@ IX. Promover la cultura de transparencia en el Congreso del Estado, y
 
 X. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 118.
 
-Corresponde a la Comisión de Vigilancia el ejercicio de las siguientes facultades:
+Corresponde a la Comisión de Vigilancia de la Función de Fiscalización, el ejercicio de las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+A. En materia de evaluación de la función de Fiscalización:
 
-I. Recibir del Congreso o, en su caso, de la Diputación Permanente, las cuentas públicas y los informes trimestrales, y turnarlas a la Auditoría Superior del Estado;
+I. Recibir del Congreso o, en su caso, de la Diputación Permanente, las cuentas públicas y los informes trimestrales de situación financiera de las entidades fiscalizadas, y turnarlas al Instituto de Fiscalización Superior del Estado;
 
-II. Ser el conducto de comunicación entre el Congreso del Estado y la Auditoría Superior del Estado;
+II. Ser el conducto de comunicación entre el Congreso y el Instituto de Fiscalización Superior del Estado;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+III. Recibir el Informe General, los informes individuales, y los informes específicos que le presente el Instituto de Fiscalización Superior del Estado, revisarlos, analizarlos y remitirlos a la Directiva junto con el dictamen que determine si la función de fiscalización se realizó con apego a las disposiciones constitucionales, legales y normativas aplicables en materia de fiscalización y auditoría, conforme a lo establecido en los artículos 70, 72 y 73 de la Ley de Fiscalización Superior del Estado;
 
-III. Recibir los informes que le presente la Auditoría Superior del Estado, y remitirlos junto con sus respectivos dictámenes a la Directiva, exclusivamente para los efectos que previenen los artículos 43, 44 y 45 de la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí;
+IV. Evaluar el cumplimiento de los objetivos y metas del programa operativo anual del Instituto de Fiscalización Superior del Estado, así como auditar por sí o a través de servicios de auditoría externos, la debida aplicación de los recursos a cargo de ésta;
 
-IV. Evaluar el cumplimiento de los objetivos y metas del programa operativo anual de la Auditoría Superior del Estado, así como auditar por sí o a través de servicios de auditoría externos, la debida aplicación de los recursos a cargo de ésta;
+V. Citar a la persona titular del Instituto de Fiscalización Superior del Estado para conocer en lo específico de los informes presentados;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
+VI. Vigilar que el funcionamiento del Instituto de Fiscalización Superior del Estado y la conducta de su personal se apegue a lo dispuesto en la Ley de Fiscalización Superior del Estado y demás disposiciones legales aplicables;
 
-V. Citar a la persona titular de la Auditoría Superior del Estado para conocer en lo específico de los informes presentados;
+VII. Conocer y opinar el proyecto de presupuesto anual de egresos del Instituto de Fiscalización Superior del Estado que presente su titular, y remitirlo con su opinión a la Directiva del Congreso para su inclusión en el proyecto de Presupuesto de Egresos del Estado;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
+VIII. Vigilar el correcto ejercicio del presupuesto de egresos del Instituto de Fiscalización Superior del Estado;
 
-VI. Vigilar que el funcionamiento de la Auditoría Superior del Estado y la conducta del personal adscrito, se apeguen a lo dispuesto por esta Ley, y demás disposiciones aplicables;
+IX. Recibir, dictaminar y someter a consideración del Congreso, los informes del ejercicio presupuestal y administrativo del Instituto de Fiscalización Superior del Estado, para que sean aprobados en su caso;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
+X. Conocer y opinar, de los proyectos de manuales de organización y procedimientos del Instituto de Fiscalización Superior del Estado, así como de sus modificaciones;
 
-VII. Conocer y opinar sobre el proyecto de presupuesto anual que presente la persona titular de la Auditoría Superior del Estado, remitirlo a la Directiva del Congreso para su inclusión en el Presupuesto de Egresos; y vigilar su correcto ejercicio;
+XI. Conocer y opinar, del programa anual de actividades, del programa anual de auditorías, y del plan estratégico, del Instituto de Fiscalización Superior del Estado;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+XII. Vigilar el cumplimiento del programa anual de actividades que para el debido cumplimiento de sus funciones, elabore el Instituto de Fiscalización Superior del Estado, así como sus modificaciones, y evaluar su cumplimiento;
 
-VIII. Recibir, dictaminar y someter a consideración del Congreso, los informes del ejercicio presupuestal y administrativo de la Auditoría Superior del Estado, para que sean aprobados, en su caso;
+XIII. Evaluar si el Instituto de Fiscalización Superior del Estado cumple con las funciones que conforme a la Constitución y esta Ley le corresponden; y proveer lo necesario para garantizar su autonomía administrativa, técnica y de gestión. La evaluación del desempeño tendrá por objeto conocer si el Instituto de Fiscalización Superior del Estado cumple con las atribuciones que conforme a la Constitución y esta Ley le corresponden; el efecto o la consecuencia de la acción fiscalizadora en la gestión financiera y el desempeño de los entes públicos, en los resultados de los programas y proyectos autorizados en los presupuestos de egresos del Estado, y de los municipios, y en la administración de los recursos públicos que ejerzan. De dicha evaluación podrá hacer recomendaciones para la modificación de los lineamientos y criterios a que se refiere la fracción II del artículo 12 de la Ley de Fiscalización Superior del Estado;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+XIV. Informar al Congreso en forma trimestral, y en sus recesos a la Diputación Permanente, sobre el avance de las actividades de vigilancia que le competen;
 
-IX. Vigilar el cumplimiento del programa anual de actividades que para el debido cumplimiento de sus funciones elabore la Auditoría Superior del Estado, así como sus modificaciones, y evaluar su cumplimiento;
+XV. Contar con los servicios de asesoría y apoyo en materia de fiscalización que apruebe la Junta de Coordinación Política, para el cumplimiento de sus funciones;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+XVI. Presentar al Congreso, previo desahogo del procedimiento respectivo, la propuesta de las personas candidatas a ocupar el cargo de titular del Instituto de Fiscalización Superior del Estado, así como la solicitud de su remoción, para lo cual podrá consultar a las organizaciones civiles y asociaciones que estime pertinente;
 
-X. Evaluar si la Auditoría Superior del Estado cumple con las funciones que conforme a la Constitución Política del Estado y esta Ley le corresponden; y proveer lo necesario para garantizar su autonomía administrativa, técnica y de gestión. La evaluación del desempeño tendrá por objeto conocer si la Auditoría Superior del Estado cumple con las atribuciones que conforme a la Constitución Política del Estado Libre y Soberano de San Luis Potosí y esta Ley le corresponden; el efecto o la consecuencia de la acción fiscalizadora en la gestión financiera y el desempeño de los entes públicos, en los resultados de los programas y proyectos autorizados en el Presupuesto de Egresos, y en la administración de los recursos públicos que ejerzan. De dicha evaluación podrá hacer recomendaciones para la modificación de los lineamientos a que se refiere el artículo 8º de la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí;
+XVII. Aplicar en lo conducente las disposiciones del Reglamento Interior del Instituto de Fiscalización Superior del Estado;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+XVIII. Analizar la información en materia de fiscalización superior del Estado, de contabilidad y auditoría gubernamentales, y de rendición de cuentas;
 
-XI. Informar al Congreso en forma trimestral, y en sus recesos a la Diputación Permanente, sobre el avance de las actividades de vigilancia que le competen;
+XIX. Solicitar la comparecencia del personal del Instituto de Fiscalización Superior del Estado vinculado con los resultados de la función de fiscalización;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+XX. Invitar a la sociedad civil organizada, así como a quienes integren el Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, a que participen como observadores o testigos sociales en las reuniones ordinarias de la Comisión, y en la realización de ejercicios de contraloría social en los que se articule a la población con las entidades fiscalizadas, cuando lo considere pertinente;
 
-XII. Contar con los servicios de apoyo técnico o asesoría que apruebe la Junta de Coordinación Política;
+XXI. Realizar las acciones conducentes para la publicación de las observaciones realizadas por el Instituto de Fiscalización Superior del Estado a las entidades fiscalizadas contenidas en los informes a que se refiere el artículo 74 de la Ley de Fiscalización Superior del Estado, en la página de internet del Congreso;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
+XXII. Solicitar al Instituto de Fiscalización Superior del Estado, la práctica de auditorías e investigaciones a obras, programas y acciones de las entidades fiscalizadas, en virtud de la existencia de denuncias ciudadanas, para los efectos a que se refiere el Capítulo I del Título Cuarto de la Ley de Fiscalización Superior del Estado, y
 
-XIII. Presentar al Congreso la propuesta de las personas candidatas a ocupar el cargo de titular de la Auditoría Superior del Estado; así como de la persona titular de la Unidad de Evaluación y Control de la Comisión de Vigilancia; y en su caso, la solicitud de remoción de éstas, para lo cual podrá consultar a las organizaciones civiles y asociaciones que estime pertinente;
+XXIII. Las demás que establezca esta Ley y demás disposiciones legales aplicables.
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+B. En materia de dictamen legislativo:
 
-XIV. Conocer y aplicar en lo conducente el Reglamento Interior de la Auditoría Superior del Estado;
+I. Conocer y dictaminar las iniciativas que le turne la Presidencia de la Directiva o de la Diputación Permanente, en las materias de, fiscalización, anticorrupción y responsabilidades administrativas de los servidores públicos, y
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
-
-XV. Analizar la información, en materia de fiscalización superior del Estado, de contabilidad y auditoría gubernamentales, y de rendición de cuentas, y podrá solicitar la comparecencia del personal de la Auditoría Superior del Estado vinculados con los resultados de la fiscalización;
-
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
-
-XVI. Invitar a la sociedad civil organizada, y a quienes integren el Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, a que participen como observadores o testigos sociales en las reuniones ordinarias de la Comisión; así como, en la realización de ejercicios de contraloría social en los que se articule a la población con las entidades fiscalizadas;
-
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
-
-XVII. Solicitar a la Auditoría Superior del Estado, la práctica de auditorías e investigaciones de obras, programas y acciones de los entes auditables, en virtud de la existencia de denuncias ciudadanas, para los efectos a que se refiere el artículo 97 de la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí, y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE OCTUBRE DE 2018)</small>
-
-XVIII. Las demás que establezca esta Ley y otras disposiciones legales aplicables, así como la normatividad interior del Congreso.
+II. Los asuntos análogos a los anteriores que a juicio de la Presidencia de la Directiva o de la Diputación Permanente, sean materia del análisis de esta Comisión.
 
 #### Sección Tercera. De los Comités
 
@@ -2133,9 +2129,7 @@ El Órgano Interno de Control además de cumplir con las obligaciones y atribuci
 
 3. Las demás que con motivo de su función le atribuyan las disposiciones constitucionales, legales o reglamentarias.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-f) Unidad de Evaluación y Control, dependiente de la Comisión de Vigilancia, a la que le corresponde vigilar que los servidores públicos de la Auditoría Superior del Estado desempeñen sus funciones en los términos de los artículos, 94, y 95 de la Ley de Fiscalización y Rendición de Cuentas; así como aquellas que le asigne la propia Comisión.
+f) (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2023)
 
 > <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
 
@@ -2205,9 +2199,7 @@ b) Informes trimestrales a la Junta, y
 
 VI. Los titulares de los órganos de apoyo: informes trimestrales de actividades, que se presentarán ante su superior jerárquico inmediato.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-En el caso de la Unidad de Evaluación y Control, ésta deberá rendir informe anual de su gestión a la Comisión de Vigilancia.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
 > <small>(ADICIONADO, P.O. 27 DE MARZO DE 2023)</small>
 
@@ -3248,3 +3240,17 @@ P.O. 23 DE JUNIO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO TERCERO DEL "DECRETO 0814.- SE REFORMA LOS ARTÍCULOS, 15 EN SUS FRACCIONES, VII, Y XV, 16 EN SU FRACCIÓN IX, 19 EN SU FRACCIÓN II, 91, 98 EN SU FRACCIÓN XXIII, 109 EN SU FRACCIÓN XX, Y 118; Y DEROGA DE LOS ARTÍCULOS, 126 EN SU FRACCIÓN II EL INCISO F), Y 128 EL PÁRRAFO ÚLTIMO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente a partir de la entrada en vigor del artículo primero de este Decreto, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL ARTÍCULO PRIMERO DEL “DECRETO 0814.- SE REFORMAN LOS ARTÍCULOS 53, 54, 57 EN SU FRACCIÓN XII, 124 BIS EN SU FRACCIÓN I, 125 EN SU FRACCIÓN III LOS PÁRRAFOS SEGUNDO Y TERCERO Y 135 EN SUS PÁRRAFOS SEGUNDO Y QUINTO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
