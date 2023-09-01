@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-administrativas-para-el-estado-y-12222
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2023-05-15"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el día sábado 3 de junio de 2017.
 
@@ -69,15 +69,17 @@ V. Crear las bases para que todo ente público establezca políticas eficaces de
 
 Para efectos de esta Ley se entenderá por:
 
-I. Auditoría Superior: la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
-II. Autoridad investigadora: la autoridad que al interior de las contralorías, los órganos internos de control y la Auditoria Superior del Estado, es la encargada de la investigación de faltas administrativas;
+I. Instituto de Fiscalización: el Instituto de Fiscalización Superior del Estado;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
-III. Autoridad substanciadora: la autoridad que al interior de las contralorías, los órganos internos de control y la Auditoria Superior del Estado, y en los casos que dispone esta Ley, el Tribunal, en el ámbito de su competencia, dirigen y conducen el procedimiento de responsabilidades administrativas desde la admisión del Informe de presunta responsabilidad administrativa y hasta la conclusión de la audiencia inicial. La función de la Autoridad substanciadora, en ningún caso podrá ser ejercida por una Autoridad investigadora;
+II. Autoridad investigadora: la autoridad que al interior de las contralorías, los órganos internos de control y el Instituto de Fiscalización Superior del Estado, es la encargada de la investigación de faltas administrativas;
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+III. Autoridad substanciadora: la autoridad que al interior de las contralorías, los órganos internos de control y el Instituto de Fiscalización Superior del Estado, y en los casos que dispone esta Ley, el Tribunal, en el ámbito de su competencia, dirigen y conducen el procedimiento de responsabilidades administrativas desde la admisión del Informe de presunta responsabilidad administrativa y hasta la conclusión de la audiencia inicial. La función de la Autoridad substanciadora, en ningún caso podrá ser ejercida por una Autoridad investigadora;
 
 IV. Autoridad resolutora: tratándose de faltas administrativas no graves será:
 
@@ -223,13 +225,15 @@ I. El Tribunal Estatal de Justicia Administrativa;
 
 II. El Congreso del Estado;
 
-III. La Auditoria Superior del Estado;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+III. El Instituto de Fiscalización Superior del Estado;
 
 IV. El Pleno del Supremo Tribunal de Justicia del Estado; y el Consejo de la Judicatura del Poder Judicial del Estado;
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
-Tratándose de las responsabilidades administrativas de los Servidores Públicos del Poder Judicial del Estado, serán competentes para investigar e imponer las sanciones que correspondan, el Pleno del Supremo Tribunal de Justicia, y el Consejo de la Judicatura, conforme al régimen establecido en el artículo 90 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, y su reglamentación. Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior del Estado, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos;
+Tratándose de las responsabilidades administrativas de los Servidores Públicos del Poder Judicial del Estado, serán competentes para investigar e imponer las sanciones que correspondan, el Pleno del Supremo Tribunal de Justicia, y el Consejo de la Judicatura, conforme al régimen establecido en el artículo 90 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, y su reglamentación. Lo anterior, sin perjuicio de las atribuciones del Instituto de Fiscalización Superior del Estado, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos;
 
 V. Las contralorías;
 
@@ -255,11 +259,15 @@ II. Revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públ
 
 III. Presentar denuncias por hechos que las leyes señalen como delitos ante la Fiscalía Especializada en Materia de Delitos relacionados con Hechos de Corrupción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 11.
 
-La Auditoría Superior del Estado será competente para investigar y substanciar el procedimiento por las faltas administrativas graves.
+El Instituto de Fiscalización Superior del Estado será competente para investigar y substanciar el procedimiento por las faltas administrativas graves.
 
-En caso de que la Auditoría Superior del Estado detecte posibles faltas administrativas no graves dará cuenta de ello a las contralorías, o a los órganos internos de control, según corresponda, para que continúen la investigación respectiva y promuevan las acciones que procedan, en los términos previstos por esta Ley.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+En caso de que el Instituto de Fiscalización Superior del Estado detecte posibles faltas administrativas no graves dará cuenta de ello a las contralorías, o a los órganos internos de control, según corresponda, para que continúen la investigación respectiva y promuevan las acciones que procedan, en los términos previstos por esta Ley.
 
 En los casos en que, derivado de sus investigaciones, se advierta la presunta comisión de delitos, presentarán las denuncias correspondientes ante el Ministerio Público competente.
 
@@ -437,7 +445,9 @@ Para la imposición de las sanciones a que se refiere este artículo deberá sus
 
 Las declaraciones de situación patrimonial deberán ser presentadas a través de medios electrónicos, empleándose medios de identificación electrónica. En el caso de los entes públicos que no cuenten con las tecnologías de la información y comunicación necesarias para cumplir lo anterior, podrán emplearse formatos impresos, siendo responsabilidad de los órganos internos de control verificar que dichos formatos sean digitalizados e incluir la información que corresponda en el Sistema de Evolución Patrimonial y de Declaración de Intereses.
 
-La Auditoría Superior, las contralorías y los demás órganos internos de control, tendrán a su cargo el sistema de certificación de los medios de identificación electrónica que utilicen los servidores públicos, y llevarán el control de dichos medios.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+El Instituto de Fiscalización, las contralorías y los demás órganos internos de control, tendrán a su cargo el sistema de certificación de los medios de identificación electrónica que utilicen los servidores públicos, y llevarán el control de dichos medios.
 
 Asimismo, el Comité Coordinador, a propuesta del Comité de Participación Ciudadana, emitirá las normas y los formatos impresos; de medios magnéticos y electrónicos, bajo los cuales los declarantes deberán presentar las declaraciones de situación patrimonial, así como los manuales e instructivos, observando lo dispuesto por el artículo 29 de esta Ley.
 
@@ -563,7 +573,9 @@ Para efectos de esta Ley se entiende que un socio o accionista ejerce control so
 
 También se considerará falta administrativa no grave, los daños y perjuicios que, de manera culposa o negligente y sin incurrir en alguna de las faltas administrativas graves señaladas en el capítulo siguiente, cause un servidor público a la hacienda pública o al patrimonio de un ente público.
 
-Los entes públicos o los particulares que, en términos de este artículo, hayan recibido recursos públicos sin tener derecho a los mismos, deberán reintegrar los mismos a la hacienda pública o al patrimonio del ente público afectado en un plazo no mayor a noventa días, contados a partir de la notificación correspondiente de la Auditoría Superior del Estado o de la autoridad resolutora.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+Los entes públicos o los particulares que, en términos de este artículo, hayan recibido recursos públicos sin tener derecho a los mismos, deberán reintegrar los mismos a la hacienda pública o al patrimonio del ente público afectado en un plazo no mayor a noventa días, contados a partir de la notificación correspondiente del Instituto de Fiscalización Superior del Estado o de la autoridad resolutora.
 
 En caso de que no se realice el reintegro de los recursos señalados en el párrafo anterior, estos serán considerados créditos fiscales, por lo que la Secretaria de Finanzas y sus homólogos de los municipios del Estado, deberán ejecutar el cobro de los mismos en términos de las disposiciones jurídicas aplicables.
 
@@ -1019,13 +1031,17 @@ II. Solicitar el auxilio de la fuerza pública de cualquier orden de gobierno, l
 
 III. Arresto hasta por treinta y seis horas.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 100.
 
-La Auditoría Superior del Estado, investigará y, en su caso substanciará en los términos que determina esta Ley, los procedimientos de responsabilidad administrativa correspondientes. Asimismo, en los casos que proceda, presentará la denuncia correspondiente ante el Ministerio Público competente.
+El Instituto de Fiscalización Superior del Estado, investigará y, en su caso substanciará en los términos que determina esta Ley, los procedimientos de responsabilidad administrativa correspondientes. Asimismo, en los casos que proceda, presentará la denuncia correspondiente ante el Ministerio Público competente.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 101.
 
-En caso de que la Auditoría Superior del Estado tenga conocimiento de la presunta comisión de faltas administrativas distintas a las señaladas en el artículo anterior, dará vista a las contralorías o a los órganos internos de control que correspondan, a efecto de que procedan a realizar la investigación correspondiente.
+En caso de que el Instituto de Fiscalización Superior del Estado tenga conocimiento de la presunta comisión de faltas administrativas distintas a las señaladas en el artículo anterior, dará vista a las contralorías o a los órganos internos de control que correspondan, a efecto de que procedan a realizar la investigación correspondiente.
 
 ### Capítulo III. Calificación de Faltas Administrativas
 
@@ -1129,9 +1145,11 @@ La admisión del Informe de Presunta Responsabilidad Administrativa interrumpir�
 
 En caso de que con posterioridad a la admisión del informe las autoridades investigadoras adviertan la probable comisión de cualquier otra falta administrativa imputable a la misma persona señalada como presunto responsable, deberán elaborar un diverso Informe de Presunta Responsabilidad Administrativa y promover el respectivo procedimiento de responsabilidad administrativa por separado, sin perjuicio de que, en el momento procesal oportuno, puedan solicitar su acumulación.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 117.
 
-La autoridad a quien se encomiende la substanciación y, en su caso, resolución del procedimiento de responsabilidad administrativa, deberá ser distinto de aquél o aquellos encargados de la investigación. Para tal efecto, las contralorías, los órganos internos de control, la Auditoría Superior, contarán con la estructura orgánica necesaria para realizar las funciones correspondientes a las autoridades investigadoras y substanciadoras, y garantizarán la independencia entre ambas en el ejercicio de sus funciones.
+La autoridad a quien se encomiende la substanciación y, en su caso, resolución del procedimiento de responsabilidad administrativa, deberá ser distinto de aquél o aquellos encargados de la investigación. Para tal efecto, las contralorías, los órganos internos de control, y el Instituto de Fiscalización, contarán con la estructura orgánica necesaria para realizar las funciones correspondientes de las autoridades investigadoras y substanciadoras, y garantizarán la independencia entre ambas en el ejercicio de sus funciones.
 
 ###### ARTÍCULO 118.
 
@@ -2012,3 +2030,17 @@ P.O. 15 DE MAYO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO DÉCIMO TERCERO DEL "DECRETO 0814.- SE REFORMA LOS ARTÍCULOS 3° EN SUS FRACCIONES, I, II, Y III, 8° EN SUS FRACCIONES, III, Y IV EN SU PÁRRAFO SEGUNDO, 11 EN SUS PÁRRAFOS, PRIMERO, Y SEGUNDO, 36 EN SU PÁRRAFO SEGUNDO, 49 EN SU PÁRRAFO SEGUNDO, 100, 101, Y 117 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente a partir de la entrada en vigor del artículo primero de este Decreto, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL ARTÍCULO PRIMERO DEL “DECRETO 0814.- SE REFORMAN LOS ARTÍCULOS 53, 54, 57 EN SU FRACCIÓN XII, 124 BIS EN SU FRACCIÓN I, 125 EN SU FRACCIÓN III LOS PÁRRAFOS SEGUNDO Y TERCERO Y 135 EN SUS PÁRRAFOS SEGUNDO Y QUINTO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
