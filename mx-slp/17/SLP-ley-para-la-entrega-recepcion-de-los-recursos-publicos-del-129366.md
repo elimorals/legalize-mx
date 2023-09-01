@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-entrega-recepcion-de-los-recursos-publicos-del-1293
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-21"
-last_updated: "2021-12-27"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ENTREGA-RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 21 de junio de 2018.
 
@@ -93,7 +93,9 @@ II. Acta circunstanciada: el acta que deriva de la verificación física de la e
 
 III. Acto protocolario: la entrega-recepción de los entes obligados en sus diferentes niveles, que se llevará a cabo en un acto solemne y formal, en el cual los servidores públicos salientes, harán entrega de la información establecida en este ordenamiento legal, a los titulares entrantes o a quien se designe para tal efecto mediante un acta administrativa;
 
-IV. Auditoría Superior del Estado: la Entidad de Fiscalización Superior del Poder Legislativo del Estado, órgano técnico de fiscalización del Congreso del Estado a que se refieren los artículos 53, 54, 57 fracción XII, 124 bis y 125 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Instituto de Fiscalización Superior del Estado: la Entidad de Fiscalización Superior del Poder Legislativo del Estado, órgano técnico de fiscalización del Congreso del Estado a que se refieren los artículos 53, 54, 57 fracción XII, 124 BIS y 125 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí;
 
 V. Comisión de entrega: órgano responsable de planear, organizar, coordinar, supervisar y ejecutar la entrega de los recursos humanos, financieros, materiales y patrimoniales así como de la documentación, información y asuntos de su competencia que le hayan sido otorgadas para el desempeño de sus funciones;
 
@@ -135,7 +137,9 @@ XXII. Tribunal Electoral del Estado; organismo dotado de autonomía técnica y g
 
 XXIII. Tribunal Estatal de Conciliación y Arbitraje; órgano con personalidad jurídica y patrimonio propios, autónomo en el dictado de sus fallos y con facultad jurisdiccional para resolver las controversias entre las instituciones públicas del Gobierno del Estado, ayuntamientos, organismos públicos descentralizados y empresas de participación estatal constituidas conforme a la ley, con sus trabajadores, derivados de las relaciones de trabajo y, en su caso, de los conflictos colectivos;
 
-XXIV. Tribunal Estatal de Justicia Administrativa: órgano jurisdiccional con autonomía para emitir sus fallos y con jurisdicción plena, que conoce de los juicios que se promuevan contra las resoluciones definitivas, actos administrativos y procedimientos, entre otros;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+XXIV. Tribunal Estatal de Justicia Administrativa: órgano jurisdiccional con autonomía para emitir sus fallos y con jurisdicción plena, que conoce de los juicios que se promuevan contra las resoluciones definitivas, actos administrativos y procedimientos, entre otros, y
 
 XXV. Órgano Interno de Control: las contraloría (sic) internas de los entes obligados.
 
@@ -165,13 +169,15 @@ a) En el Congreso del Estado;
 
 5. Directores, subdirectores o su equivalente;
 
-> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2019)</small>
+6. (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2023)
 
-6. Titular de la Unidad de Evaluación y Control;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
-b) En la Auditoría Superior del Estado:
+b) En el Instituto de Fiscalización Superior del Estado:
 
-1. Auditor Superior del Estado.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+1. Auditora o Auditor Superior.
 
 2. Coordinador de Auditores.
 
@@ -353,7 +359,9 @@ b) Comisión de recepción, integrada por miembros del Ayuntamiento electo.
 
 c) El Contralor municipal.
 
-d) Los representantes de la Auditoría Superior del Estado, y
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+d) Los representantes del Instituto de Fiscalización Superior del Estado, y
 
 V. En los organismos públicos autónomos, paraestatales y paramunicipales:
 
@@ -393,7 +401,9 @@ VI. Los órganos internos de control de las entidades y órganos públicos, resp
 
 VII. Los órganos internos de control municipales y paramunicipales, organismos, la entrega-recepción individual respecto de los sujetos obligados señalados en el artículo 7, fracciones IV y V, y
 
-VIII. La Auditoría Superior del Estado, la entrega-recepción de fin e inicio de ejercicio del período constitucional, de los sujetos obligados señalados en el artículo 7 fracción IV, inciso a.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. El Instituto de Fiscalización Superior del Estado, la entrega-recepción de fin e inicio de ejercicio del período constitucional, de los sujetos obligados señalados en el artículo 7 fracción IV, inciso a.
 
 ###### ARTÍCULO 12.
 
@@ -425,11 +435,15 @@ En caso de que el servidor público presente renuncia, se notifique la baja o se
 
 Los servidores públicos sujetos a la entrega- recepción final que corresponda a un periodo constitucional no podrán deslindarse de las obligaciones del cargo sin cumplir el proceso de entrega-recepción.
 
-En caso de incumplir este precepto, se deslindarán por parte de la Auditoría Superior del Estado las responsabilidades correspondientes y se promoverán las acciones para la imposición de las sanciones administrativas, sin perjuicio de las civiles y penales a que haya lugar.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+En caso de incumplir este precepto, se deslindarán por parte del Instituto de Fiscalización Superior del Estado las responsabilidades correspondientes y se promoverán las acciones para la imposición de las sanciones administrativas, sin perjuicio de las civiles y penales a que haya lugar.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 16.
 
-Los servidores públicos salientes estarán obligados a proporcionar a los servidores públicos entrantes, a la Contraloría General del Estado, al órgano de control interno o a la Auditoría Superior del Estado, que en su caso corresponda, la información que le requieran y realizar las aclaraciones que les soliciten durante los treinta días hábiles, contados a partir del acto protocolario de entrega-recepción. La información y documentación podrá ser por escrito, digital o multimedia.
+Los servidores públicos salientes estarán obligados a proporcionar a los servidores públicos entrantes, a la Contraloría General del Estado, al órgano de control interno o al Instituto de Fiscalización Superior del Estado, que en su caso corresponda, la información que le requieran y realizar las aclaraciones que les soliciten durante los treinta días hábiles, contados a partir del acto protocolario de entrega-recepción. La información y documentación podrá ser por escrito, digital o multimedia.
 
 ### CAPÍTULO IV. INTEGRACIÓN DE LA INFORMACIÓN DE ENTREGA-RECEPCIÓN
 
@@ -445,9 +459,11 @@ Una vez reconocidos legalmente por la autoridad competente, la autoridad públic
 
 Cuando por resolución judicial se modifique el resultado de la elección de un servidor público, teniendo como efecto la elección de otro, la autoridad saliente dentro de los cinco días naturales siguientes a que tenga conocimiento de la resolución, tendrá la obligación de proporcionarle toda la información relativa a la integración del expediente de entrega-recepción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 18.
 
-La comisión de entrega se integrará con el titular del Poder Ejecutivo del Estado, quien podrá designar a un representante, así como con los titulares de la Secretaría General de Gobierno, Secretaría de Finanzas, Consejería Jurídica, Contraloría General del Estado, y se auxiliará del Secretario Técnico del Gabinete. A dicha comisión podrá acudir con el carácter de invitado, y un representante de la Auditoria Superior del Estado
+La comisión de entrega se integrará con el titular del Poder Ejecutivo del Estado, quien podrá designar a un representante, así como con los titulares de la Secretaría General de Gobierno, Secretaría de Finanzas, Consejería Jurídica, Contraloría General del Estado, y se auxiliará del Secretario Técnico del Gabinete. A dicha comisión podrá acudir con el carácter de invitado, y un representante del Instituto de Fiscalización Superior del Estado.
 
 La Comisión de entrega conformará un año antes de la conclusión del ejercicio constitucional y a partir de esa fecha, se reunirá ordinariamente, una vez al mes durante el primer semestre del año referido, dos días al mes catorcenalmente durante el tercer trimestre del año de su conformación y un día a la semana durante el último trimestre del referido año y de manera extraordinaria, las veces que sea necesario, previa convocatoria emitida por el Secretario Técnico de Gabinete, con dos días hábiles de anticipación.
 
@@ -517,7 +533,9 @@ XII. Expedientes y archivos documentales, digitales y multimedia, página “web
 
 XIII. Integrar el informe de los convenios, acuerdos de coordinación y concertación que tenga celebrados la administración pública con la federación, los ayuntamientos y los sectores social y privado, y
 
-XIV. Relacionar las auditorías y fiscalizaciones realizadas durante el sexenio, así como las efectuadas en coordinación con la Auditoria Superior de Estado, además todas aquellas que haya instaurado la Auditoría Superior del Estado y demás autoridades competentes
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+XIV. Relacionar las auditorías y fiscalizaciones realizadas durante el sexenio, así como las efectuadas en coordinación con el Instituto de Fiscalización Superior del Estado, además todas aquellas que haya instaurado el Instituto de Fiscalización Superior del Estado y demás autoridades competentes.
 
 La información referida se señala en forma enunciativa más no limitativa por lo que si a criterio de los servidores públicos salientes hubiera información complementaria o adicional que deba hacerse del conocimiento de los servidores públicos entrantes podrán incluirse en los formatos o anexos a que hubiera lugar.
 
@@ -533,7 +551,9 @@ I. Los relativos a la integración de la comisión de entrega-recepción;
 
 II. Los que acrediten la personalidad de sus integrantes, identificaciones oficiales vigentes con domicilio actual, y en caso de que la identificación no contenga el domicilio actual, se adjuntará un comprobante del mismo;
 
-III. El nombramiento oficial expedido por el Órgano Competente, órganos de control interno o el oficio de comisión mediante el cual se faculta a representar a la Auditoría Superior del Estado, en su caso, y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+III. El nombramiento oficial expedido por el Órgano Competente, órganos de control interno o el oficio de comisión mediante el cual se faculta a representar al Instituto de Fiscalización Superior del Estado, en su caso, y
 
 IV. El acta administrativa de entrega-recepción en la cual se haga constar el acto protocolario.
 
@@ -727,7 +747,9 @@ XV. Archivo Histórico;
 
 XVI. Informes y acciones sobre la revisión de cuentas púbicas, y
 
-XVII. Relación de auditorías en proceso, observaciones notificadas y pendientes de solventar derivadas de revisiones practicadas por la Contraloría General del Estado, Auditoría Superior del Estado, Servicio de Administración Tributaria u otras autoridades competentes.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+XVII. Relación de auditorías en proceso, observaciones notificadas y pendientes de solventar derivadas de revisiones practicadas por la Contraloría General del Estado, Instituto de Fiscalización Superior del Estado, Servicio de Administración Tributaria u otras autoridades competentes.
 
 ###### ARTÍCULO 33.
 
@@ -779,9 +801,11 @@ El acta administrativa de entrega-recepción y sus anexos se realizarán en form
 
 Cuando la información se encuentre en medios electrónicos, magnéticos, ópticos o multimedia, se digitalice o se guarde en archivos electrónicos, bases de datos o demás medios electrónicos o tecnológicos, deberán entregarse todos los documentos relativos de uso y consulta de la información electrónica, claves de acceso, manuales operativos y demás documentos relativos a la información que conste en dichos medios.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 37.
 
-Cuando el proceso de entrega-recepción se lleve a cabo a través del uso de medios electrónicos y para los efectos a que se refiere el artículo anterior, se utilizarán los mecanismos que permitan la producción de firma electrónica o de firma electrónica avanzada, según el caso, en atención a la naturaleza e importancia de las funciones encomendadas a los servidores públicos obligados. La Contraloría General del Estado, así como el órgano de control interno de que se trate, que utilicen el esquema de producción de firma electrónica para el manejo de la información, podrán fungir también con el carácter de autoridades certificadoras en los actos de entrega-recepción individual. La Auditoría Superior del Estado, fungirá como autoridad certificadora en materia de firma electrónica, en los procesos de entrega-recepción final.
+Cuando el proceso de entrega-recepción se lleve a cabo a través del uso de medios electrónicos y para los efectos a que se refiere el artículo anterior, se utilizarán los mecanismos que permitan la producción de firma electrónica o de firma electrónica avanzada, según el caso, en atención a la naturaleza e importancia de las funciones encomendadas a los servidores públicos obligados. La Contraloría General del Estado, así como el órgano de control interno de que se trate, que utilicen el esquema de producción de firma electrónica para el manejo de la información, podrán fungir también con el carácter de autoridades certificadoras en los actos de entrega recepción individual. El Instituto de Fiscalización Superior del Estado, fungirá como autoridad certificadora en materia de firma electrónica, en los procesos de entrega-recepción final.
 
 #### Sección Segunda. De la entrega individual
 
@@ -813,9 +837,11 @@ II. El servidor público que recibe;
 
 III. El representante o representantes de la Contraloría General del Estado, en su carácter de autoridad supervisora del acto protocolario de entrega-recepción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 42.
 
-Los órganos de control interno, la Contraloría General del Estado y la Auditoría Superior del Estado, que funjan como autoridad competente para supervisar el acto protocolario de entrega-recepción, atendiendo al momento y tipo de entrega-recepción que se realice, en el acto protocolario de entrega-recepción harán del conocimiento de los titulares salientes, al titular del Poder Ejecutivo electo o a las personas asignadas por él, los derechos, obligaciones y responsabilidades señalados en la presente Ley y demás disposiciones que normen el marco de actuación del proceso de entrega-recepción.
+Los órganos de control interno, la Contraloría General del Estado y el Instituto de Fiscalización Superior del Estado, que funjan como autoridad competente para supervisar el acto protocolario de entrega-recepción, atendiendo al momento y tipo de entrega-recepción que se realice, en el acto protocolario de entrega-recepción harán del conocimiento de los titulares salientes, al titular del Poder Ejecutivo electo o a las personas asignadas por él, los derechos, obligaciones y responsabilidades señalados en la presente Ley y demás disposiciones que normen el marco de actuación del proceso de entrega-recepción.
 
 Una vez iniciado el acto protocolario de entrega-recepción no podrá suspenderse salvo por caso fortuito o de fuerza mayor, en ese caso las comisiones de entrega y recepción deberán señalar fecha y hora para celebrarla en un plazo que no exceda de veinticuatro horas.
 
@@ -831,9 +857,11 @@ En caso de que el servidor público saliente o el entrante se nieguen a firmar e
 
 Los servidores públicos que al término de su ejercicio constitucional, sean ratificados por el titular del Poder Ejecutivo electo, deberán realizar el acto de entrega-recepción con las formalidades previstas en la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 46.
 
-Los servidores públicos del Poder Ejecutivo saliente en ámbito de sus respectivas atribuciones, serán responsables de integrar oportunamente el expediente de entrega-recepción de acuerdo a la información que le corresponda a cada área, el cual deberá contener al menos la información que señala el capítulo de la integración de la información de entrega-recepción de la presente Ley; y se emitirá en un original y tres copias, debiendo permanecer el original, en la Contraloría General del Estado, una copia invariablemente en los archivos del Poder Ejecutivo, la segunda copia será para la Auditoría Superior del Estado y la tercera copia para los representantes del titular del Poder Ejecutivo saliente.
+Los servidores públicos del Poder Ejecutivo saliente en ámbito de sus respectivas atribuciones, serán responsables de integrar oportunamente el expediente de entrega-recepción de acuerdo a la información que le corresponda a cada área, el cual deberá contener al menos la información que señala el capítulo de la integración de la información de entrega-recepción de la presente Ley; y se emitirá en un original y tres copias, debiendo permanecer el original, en la Contraloría General del Estado, una copia invariablemente en los archivos del Poder Ejecutivo, la segunda copia será para el Instituto de Fiscalización Superior del Estado y la tercera copia para los representantes del titular del Poder Ejecutivo saliente.
 
 Mediante el acto de firma del acta administrativa de entrega-recepción y sus anexos se otorga la posesión de las oficinas, bienes, recursos, y los fondos estatales al titular del Poder Ejecutivo electo, quien conocerá del estado que guarda la administración estatal, mediante el contenido del expediente de entrega-recepción y la verificación física final de los datos contenidos en los anexos del acta administrativa será realizada con posterioridad al acto protocolario por los servidores públicos entrantes.
 
@@ -841,9 +869,11 @@ Mediante el acto de firma del acta administrativa de entrega-recepción y sus an
 
 La firma del acta de entrega-recepción por parte de los servidores públicos entrantes, no implica la aceptación de irregularidades u omisiones que pudieran existir respecto de los datos e información contenidos en el expediente de entrega-recepción, asimismo no libera de responsabilidades administrativas, civiles o penales a que hubiera lugar, a los servidores públicos de la administración saliente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 48.
 
-La recepción del expediente de entrega-recepción, se realizará con las reservas de ley, por lo que cualquier manifestación en contrario se tendrá por no puesta, por lo tanto, la suscripción de los documentos por parte del titular del Poder Ejecutivo entrante y de la Auditoría Superior del Estado, no implica el aval del contenido de tal expediente.
+La recepción del expediente de entrega-recepción, se realizará con las reservas de ley, por lo que cualquier manifestación en contrario se tendrá por no puesta, por lo tanto, la suscripción de los documentos por parte del titular del Poder Ejecutivo entrante y del Instituto de Fiscalización Superior del Estado, no implica el aval del contenido de tal expediente.
 
 En los casos de requerirse aclaraciones, información, documentación o se presente cualquier irregularidad, se aplicará lo dispuesto en esta Ley.
 
@@ -865,13 +895,15 @@ b) Informe trianual que contenga el expediente presupuestal y financiero de la O
 
 c) El análisis y conformación del inventario general del patrimonio de la Legislatura elaborado por la Oficialía Mayor
 
-d) El dictamen de la Comisión de Vigilancia respecto del resultado de la revisión de Fiscalización de entes Públicos, realizada por la Auditoría Superior del Estado y los auditores externos;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+d) El dictamen de la Comisión de Vigilancia de la Función de Fiscalización, respecto del resultado de la revisión de Fiscalización de entes Públicos, realizada por el Instituto de Fiscalización Superior del Estado y los auditores externos;
 
 II. Fase de presentación del paquete de entrega-recepción que realice la Comisión Instaladora a la Presidencia de la Mesa Directiva de la Legislatura entrante, en la Sesión Solemne correspondiente al inicio del ejercicio constitucional;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
-III. Fase de revisión y cotejo del paquete documental de entrega-recepción por parte de la Directiva y las comisiones de, Hacienda del Estado, y Vigilancia, y
+III. Fase de revisión y cotejo del paquete documental de entrega recepción por parte de la Directiva y las comisiones de, Hacienda del Estado, y Vigilancia de la Función de Fiscalización, y
 
 IV. Fase de aprobación del paquete de entrega-recepción por parte del Pleno de la Legislatura. Además de las disposiciones previstas en esta Ley, el Poder Legislativo deberá observar lo dispuesto en la Ley Orgánica del Poder Legislativo y su Reglamento Interno.
 
@@ -884,6 +916,8 @@ ENTREGA-RECEPCIÓN DEL PODER JUDICIAL, TRIBUNAL ELECTORAL, TRIBUNAL ESTATAL DE J
 El proceso de entrega-recepción del Poder Judicial, Órganos Jurisdiccionales Autónomos, de los organismos públicos autónomos, paraestatal y paramunicipales, se sujetarán adicionalmente a lo que proceda conforme al Capítulo IV denominado, integración de la información de entrega-recepción, y demás disposiciones de esta Ley, a lo dispuesto en sus leyes orgánicas y reglamentos respectivos.
 
 ### CAPÍTULO VII. PROCESO DE ENTREGA-RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
 ### CAPÍTULO VIII. ACTO PROTOCOLARIO DE ENTREGA-RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
@@ -917,11 +951,13 @@ Tratándose de entrega-recepción, derivada de cargos honoríficos, ya sea comit
 
 ###### ARTÍCULO 54.
 
-El proceso de entrega-recepción de las administraciones municipales se desarrollará de conformidad a las disposiciones de esta Ley y la Ley Orgánica del Municipio. En éste intervendrá el Poder Legislativo por conducto de la Comisión de Vigilancia y a través de la Auditoría Superior del Estado.
+El proceso de entrega-recepción de las administraciones municipales se desarrollará de conformidad a las disposiciones de esta Ley y la Ley Orgánica del Municipio. En éste intervendrá el Poder Legislativo por conducto de la Comisión de Vigilancia de la Función de Fiscalización y a través del Instituto de Fiscalización Superior del Estado.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 55.
 
-La Comisión de Vigilancia, podrá solicitar informes y canalizar denuncias que se presenten por parte de las administraciones saliente y entrante, durante el proceso de entrega-recepción o en el acto protocolario del mismo.
+La Comisión de Vigilancia de la Función de Fiscalización, podrá solicitar informes y canalizar denuncias que se presenten por parte de las administraciones saliente y entrante, durante el proceso de entrega recepción o en el acto protocolario del mismo.
 
 ###### ARTÍCULO 56.
 
@@ -943,27 +979,33 @@ Los anteriores servidores públicos electos para acreditar su personalidad deber
 
 La comisión de recepción se integrará cuarenta y cinco días naturales antes del acto protocolario de entrega-recepción.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 58.
 
-Una vez que las comisiones de entrega y recepción sean integradas, notificaran de inmediato a la Auditoría Superior del Estado, y ésta emitirá la declaratoria correspondiente de integración de las comisiones, de conformidad con los formatos emitidos por la propia Entidad de Fiscalización Superior.
+Una vez que las comisiones de entrega y recepción sean integradas, notificaran de inmediato al Instituto de Fiscalización Superior del Estado, y ésta emitirá la declaratoria correspondiente de integración de las comisiones, de conformidad con los formatos emitidos por el propio Instituto de Fiscalización Superior del Estado.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 59.
 
-La Auditoría Superior del Estado, designará al personal necesario que dará seguimiento al avance del proceso de entrega-recepción, notificando de tal designación a los presidentes municipales saliente y electo. Y en caso de ser necesario a juicio de la o del Titular de la Auditor (sic) Superior, tales representantes de la Entidad de Fiscalización, podrán acudir en cualquier momento a las oficinas del Ayuntamiento correspondiente para solicitar aclaraciones, información y documentación que considere necesarios para que el proceso de entrega-recepción se ajuste a lo dispuesto en la presente Ley y demás ordenamientos aplicables.
+El Instituto de Fiscalización Superior del Estado, designará al personal necesario que dará seguimiento al avance del proceso de entrega-recepción, notificando de tal designación a los presidentes municipales saliente y electo. Y en caso de ser necesario a juicio de la o del Titular del Instituto de Fiscalización Superior del Estado, tales representantes de la Entidad de Fiscalización, podrán acudir en cualquier momento a las oficinas del Ayuntamiento correspondiente para solicitar aclaraciones, información y documentación que considere necesarios para que el proceso de entrega-recepción se ajuste a lo dispuesto en la presente Ley y demás ordenamientos aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 60.
 
-Los servidores públicos del Ayuntamiento saliente en el ámbito de sus respectivas atribuciones, serán responsables de integrar oportunamente el expediente de entrega-recepción de acuerdo a la información que le corresponda a cada área, el cual deberá contener al menos la información que señala el capítulo de la integración de la información de entrega-recepción de la presente Ley. Se emitirá en un original y tres copias, debiendo permanecer el original en la Presidencia Municipal, una copia invariablemente en los archivos del Órgano de Control Interno de que se trate, la segunda copia será para la Auditoría Superior del Estado y la tercera copia para el servidor público saliente. En caso de ser más de uno el servidor público saliente, a todos se les proporcionará copia del expediente de entrega recepción.
+Los servidores públicos del Ayuntamiento saliente en el ámbito de sus respectivas atribuciones, serán responsables de integrar oportunamente el expediente de entrega-recepción de acuerdo a la información que le corresponda a cada área, el cual deberá contener al menos la información que señala el capítulo de la integración de la información de entrega-recepción de la presente Ley. Se emitirá en un original y tres copias, debiendo permanecer el original en la Presidencia Municipal, una copia invariablemente en los archivos del Órgano de Control Interno de que se trate, la segunda copia será para el Instituto de Fiscalización Superior del Estado y la tercera copia para el servidor público saliente. En caso de ser más de uno el servidor público saliente, a todos se les proporcionará copia del expediente de entrega recepción.
 
-Los representantes del Ayuntamiento saliente y entrante, así como la Auditoría Superior del Estado, deberán efectuar la verificación física preliminar del contenido del expediente de entrega-recepción.
+Los representantes del Ayuntamiento saliente y entrante, así como el Instituto de Fiscalización Superior del Estado, deberán efectuar la verificación física preliminar del contenido del expediente de entrega-recepción.
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
 ARTÍCULO 60 BIS. Acorde a lo establecido por el artículo 81, fracción IX, de la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí, en el último año de ejercicio legal, el ayuntamiento saliente deberá entregar al ayuntamiento entrante de manera específica, la información financiera correspondiente al mes de septiembre del año respectivo, con el objeto de que este último formule y envíe el informe financiero del mes al Congreso del Estado para su fiscalización, lo que deberá realizar dentro de los diez (sic) del mes siguiente.
 
-En el supuesto de que el ayuntamiento saliente no entregue la información financiera respectiva, el ayuntamiento entrante dentro del mismo plazo lo hará del conocimiento del Congreso del Estado, de la Auditoría Superior del Estado, y de la Contraloría Interna del ayuntamiento, para los efectos de la determinación de responsabilidades y sanciones.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+En el supuesto de que el ayuntamiento saliente no entregue la información financiera respectiva, el ayuntamiento entrante dentro del mismo plazo lo hará del conocimiento del Congreso del Estado, del Instituto de Fiscalización Superior del Estado, y de la Contraloría Interna del ayuntamiento, para los efectos de la determinación de responsabilidades y sanciones.
 
 ###### ARTÍCULO 61.
 
@@ -979,9 +1021,11 @@ Podrá realizarse el acto protocolario de entrega recepción en lugar distinto a
 
 El corte del proceso de entrega-recepción se hará el día treinta y uno de julio del último año de ejercicio constitucional, por lo que el periodo comprendido entre el primero de agosto al treinta de septiembre del mismo año, en cada Ayuntamiento se elaborará un informe complementario el cual deberá reunir los mismos requisitos y formalidades previstos en esta Ley y demás ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 64.
 
-La Auditoría Superior del Estado y la Contraloría Municipal, al momento de iniciar el acto protocolario de entrega-recepción, harán del conocimiento de los servidores públicos del Ayuntamiento entrantes y salientes, también integrantes de las comisiones de entrega y recepción, los derechos, obligaciones y responsabilidades señalados en la presente Ley y demás disposiciones que normen el marco de actuación del proceso de entrega-recepción.
+El Instituto de Fiscalización Superior del Estado y la Contraloría Municipal, al momento de iniciar el acto protocolario de entrega-recepción, harán del conocimiento de los servidores públicos del Ayuntamiento entrantes y salientes, también integrantes de las comisiones de entrega y recepción, los derechos, obligaciones y responsabilidades señalados en la presente Ley y demás disposiciones que normen el marco de actuación del proceso de entrega-recepción.
 
 Una vez iniciado el acto de entrega-recepción no podrá suspenderse salvo por caso fortuito o de fuerza mayor, en ese caso las comisiones de entrega y recepción deberán señalar fecha y hora para celebrarla en un plazo que no exceda de veinticuatro horas posteriores a su suspensión.
 
@@ -1003,9 +1047,11 @@ En caso que el servidor público saliente o el entrante se niegue a firmar el ac
 
 Los servidores públicos que al término de su ejercicio constitucional, sean ratificados por el Presidente Municipal o el Ayuntamiento, deberán realizar el acto de entrega-recepción con las formalidades previstas en la presente Ley.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 69.
 
-La recepción del expediente de entrega-recepción, se realizará con las reservas de ley, por lo que cualquier manifestación en contrario se tendrán por no interpuesta, por lo tanto, la suscripción de los documentos por parte de la comisión de recepción y de la Auditoría Superior del Estado, no implica el aval del contenido de tal expediente. En los casos de requerirse aclaraciones, información, documentación o se presente cualquier irregularidad, se aplicará lo dispuesto en esta Ley.
+La recepción del expediente de entrega recepción, se realizará con las reservas de ley, por lo que cualquier manifestación en contrario se tendrán (sic) por no interpuesta, por lo tanto, la suscripción de los documentos por parte de la comisión de recepción y del Instituto de Fiscalización Superior del Estado, no implica el aval del contenido de tal expediente. En los casos de requerirse aclaraciones, información, documentación o se presente cualquier irregularidad, se aplicará lo dispuesto en esta Ley.
 
 ###### ARTÍCULO 70.
 
@@ -1126,3 +1172,17 @@ P.O. 27 DE DICIEMBRE DE 2021.
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO NOVENO DEL “DECRETO 0814.- SE REFORMAN LOS ARTÍCULOS 5° EN SUS FRACCIONES IV Y XXIV, 7° EN SU FRACCIÓN I EL INCISO B) Y EN SU NUMERAL 1., 10 EN SU FRACCIÓN IV EL INCISO D), 11 EN SU FRACCIÓN VIII, 15 EN SU PÁRRAFO SEGUNDO, 16, 18 EN SU PÁRRAFO PRIMERO, 22 EN SU FRACCIÓN XIV, 24 EN SU FRACCIÓN III, 32 EN SU FRACCIÓN XVII, 37, 42 EN SU PÁRRAFO PRIMERO, 46 EN SU PÁRRAFO PRIMERO, 48 EN SU PÁRRAFO PRIMERO, 50 EN SUS FRACCIONES I EL INCISO D) Y III, 54, 55, 58, 59, 60, 60 BIS EN SU PÁRRAFO SEGUNDO, 64 EN SU PÁRRAFO PRIMERO Y 69; Y DEROGA DEL ARTÍCULO 7° EN SU FRACCIÓN I INCISO A) EL NUMERAL 6, DE LA LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente a partir de la entrada en vigor del artículo primero de este Decreto, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL ARTÍCULO PRIMERO DEL “DECRETO 0814.- SE REFORMAN LOS ARTÍCULOS 53, 54, 57 EN SU FRACCIÓN XII, 124 BIS EN SU FRACCIÓN I, 125 EN SU FRACCIÓN III LOS PÁRRAFOS SEGUNDO Y TERCERO Y 135 EN SUS PÁRRAFOS SEGUNDO Y QUINTO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
