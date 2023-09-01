@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1138
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2022-09-09"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de marzo de 2016.
 
@@ -58,9 +58,9 @@ Esta Ley es de orden público y tiene por objeto reglamentar los artículos, 53,
 
 Los sujetos obligados a cumplir las disposiciones de este Ordenamiento, deberán observar que la administración de los recursos públicos se realice con base en criterios de, interés público, legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y transversalidad de la perspectiva de género y derechos humanos.
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
-La Auditoría fiscalizará el estricto cumplimiento de las disposiciones de esta Ley por parte de los sujetos obligados, conforme a las atribuciones que le confieren la Constitución Política del Estado Libre y Soberano de San Luis Potosí; y la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí.
+El Instituto de Fiscalización Superior del Estado fiscalizará el estricto cumplimiento de las disposiciones de esta Ley por parte de los sujetos obligados, conforme a las atribuciones que le confieren la Constitución Política del Estado Libre y Soberano de San Luis Potosí; y la Ley de Fiscalización Superior del Estado de San Luis Potosí.
 
 ###### ARTÍCULO 3°.
 
@@ -72,7 +72,9 @@ II. Ampliación presupuestaria: la modificación en aumento a la asignación de 
 
 III. Aportaciones: las ministraciones de recursos que reciben el Estado y los municipios, que están destinados a un fin específico de acuerdo al Capítulo V de la Ley de Coordinación Fiscal, y que se contemplan en el Ramo 33 del Presupuesto de Egresos de la Federación;
 
-IV. Auditoría: la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Instituto de Fiscalización: el Instituto de Fiscalización Superior del Estado;
 
 V. Cabildo: el cuerpo colegiado edilicio integrado por el presidente, regidores y síndicos;
 
@@ -776,7 +778,9 @@ En el ejercicio del gasto de inversión, exclusivamente en infraestructura y ser
 
 Los gastos de seguridad pública son erogaciones destinadas a los programas que realizan las dependencias, en cumplimiento de funciones oficiales de carácter estratégico.
 
-La comprobación y demás información relativa a dichos gastos, se sujetarán a lo dispuesto en las reglas que emitirá la Contraloría, sin perjuicio de su fiscalización por la Auditoría, en los términos de las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+La comprobación y demás información relativa a dichos gastos, se sujetarán a lo dispuesto en las reglas que emitirá la Contraloría, sin perjuicio de su fiscalización por el Instituto de Fiscalización, en los términos de las disposiciones aplicables.
 
 ###### ARTÍCULO 45.
 
@@ -1126,13 +1130,15 @@ VIII. Las medidas o mecanismos que permitan afrontar contingencias en los progra
 
 IX. En el caso que involucren recursos públicos federales que no pierden su naturaleza por ser transferidos, éstos deberán depositarse en cuentas bancarias específicas que permitan su identificación para efectos de comprobación de su ejercicio y fiscalización, en los términos de las disposiciones generales aplicables, y
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
-X. La Auditoría, en los términos de la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí, podrá acordar con las contralorías internas de los municipios, reglas y procedimientos para fiscalizar el ejercicio de estos recursos.
+X. El Instituto de Fiscalización, en los términos de la Ley de Fiscalización Superior del Estado de San Luis Potosí, podrá acordar con las contralorías internas de los municipios, reglas y procedimientos para fiscalizar el ejercicio de estos recursos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 72.
 
-Los recursos que transfieren las dependencias o entidades, a través de convenios con municipios, para el cumplimiento de sus programas, se comprobarán con gastos en los términos de las disposiciones aplicables; para ello se sujetarán en lo conducente, a lo dispuesto en el artículo anterior y deberán verificar que en los convenios se establezca el compromiso de los municipios de entregar los documentos comprobatorios del gasto. La Contraloría emitirá los lineamientos que permitan un ejercicio transparente, ágil y eficiente de los recursos. La Auditoría proporcionará a las contralorías internas de los municipios, las guías para la fiscalización de estos recursos.
+Los recursos que transfieren las dependencias o entidades, a través de convenios con municipios, para el cumplimiento de sus programas, se comprobarán con gastos en los términos de las disposiciones aplicables; para ello se sujetarán en lo conducente, a lo dispuesto en el artículo anterior y deberán verificar que en los convenios se establezca el compromiso de los municipios de entregar los documentos comprobatorios del gasto. La Contraloría emitirá los lineamientos que permitan un ejercicio transparente, ágil y eficiente de los recursos. El Instituto de Fiscalización proporcionará a las contralorías internas de los municipios, las guías para la fiscalización de estos recursos.
 
 Las dependencias o entidades que requieran suscribir convenios con los municipios, deberán apegarse al convenio modelo emitido por la Contraloría.
 
@@ -1202,7 +1208,9 @@ IV. Establecerán programas anuales de evaluación;
 
 V. Los ejecutores del gasto deberán presentar resultados con base en indicadores desagregados, a fin de que se pueda medir el impacto y la incidencia en los programas, y
 
-VI. Deberán dar seguimiento a la atención de las recomendaciones realizadas por la Auditoría, o los órganos de control interno a las evaluaciones correspondientes.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Deberán dar seguimiento a la atención de las recomendaciones realizadas por el Instituto de Fiscalización, o los órganos de control interno a las evaluaciones correspondientes.
 
 ###### ARTÍCULO 79.
 
@@ -1226,11 +1234,11 @@ Los resultados a los que se refiere este artículo deberán ser considerados par
 
 Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la presente Ley y demás disposiciones generales en la materia, serán sancionados de conformidad con lo previsto en la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí, y demás disposiciones aplicables en términos del Título Décimo Segundo de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 81.
 
-La Auditoría ejercerá las atribuciones que, conforme a la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí, y las demás disposiciones aplicables, le correspondan en materia de responsabilidades.
+El Instituto de Fiscalización ejercerá las atribuciones que, conforme a la Ley de Fiscalización Superior del Estado de San Luis Potosí, y las demás disposiciones aplicables, le correspondan en materia de responsabilidades.
 
 ###### ARTÍCULO 82.
 
@@ -1246,7 +1254,9 @@ IV. Distraigan de su objeto dinero o valores, para uso propio o ajeno, si por ra
 
 V. Incumplan con la obligación de proporcionar información al Congreso del Estado, en los términos de esta Ley y otras disposiciones aplicables;
 
-VI. Incumplan con la obligación de proporcionar en tiempo y forma la información requerida por la Secretaría, la Contraloría, la Auditoría, o los órganos de control interno de los ejecutores del gasto, en el ámbito de sus respectivas competencias;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Incumplan con la obligación de proporcionar en tiempo y forma la información requerida por la Secretaría, la Contraloría, el Instituto de Fiscalización, o los órganos de control interno de los ejecutores del gasto, en el ámbito de sus respectivas competencias;
 
 VII. Realicen actos que impidan el ejercicio eficiente, eficaz y oportuno de los recursos y el logro de los objetivos y metas anuales de los ejecutores del gasto, unidades responsables y programas;
 
@@ -1254,9 +1264,9 @@ VII. Realicen actos que impidan el ejercicio eficiente, eficaz y oportuno de los
 
 VIII. Realicen acciones que deliberadamente generen subejercicios por incumplimiento de los objetivos y metas anuales en sus presupuestos;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
-IX. Infrinjan las disposiciones generales que emitan la Secretaría, la Contraloría, los órganos de control interno de los ejecutores del gasto, y la Auditoría, en el ámbito de sus respectivas atribuciones, y
+IX. Infrinjan las disposiciones generales que emitan la Secretaría, la Contraloría, los órganos de control interno de los ejecutores del gasto, y el Instituto de Fiscalización, en el ámbito de sus respectivas atribuciones, y
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 2019)</small>
 
@@ -1491,3 +1501,17 @@ P.O. 9 DE SEPTIEMBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO DÉCIMO SEGUNDO DEL "DECRETO 0814.- SE REFORMAN LOS ARTÍCULOS 2° EN SU PÁRRAFO SEGUNDO, 3° EN SU FRACCIÓN IV, 44 EN SU PÁRRAFO SEGUNDO, 71 EN SU FRACCIÓN X, 72 EN SU PÁRRAFO PRIMERO, 78 EN SU FRACCIÓN VI, 81 Y 82 EN SUS FRACCIONES VI Y IX, DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto será vigente a partir de la entrada en vigor del artículo primero de este Decreto, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS TRANSITORIOS DEL ARTÍCULO PRIMERO DEL "DECRETO 0814.- SE REFORMAN LOS ARTÍCULOS 53, 54, 57 EN SU FRACCIÓN XII, 124 BIS EN SU FRACCIÓN I, 125 EN SU FRACCIÓN III LOS PÁRRAFOS SEGUNDO Y TERCERO Y 135 EN SUS PÁRRAFOS SEGUNDO Y QUINTO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
