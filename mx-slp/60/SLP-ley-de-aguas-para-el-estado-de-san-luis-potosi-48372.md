@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2023-06-01"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -1707,7 +1707,9 @@ II. Fiscalizar el ingreso y ejercicio del gasto público del organismo operador,
 
 III. Vigilar que los recursos y aportaciones federales y estatales asignados al organismo, se apliquen en los términos estipulados en las leyes, reglamentos y convenios específicos;
 
-IV. Dictaminar los estados financieros del departamento de administración y finanzas del organismo operador, y verificar que los informes sean remitidos en tiempo y forma a la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Dictaminar los estados financieros del departamento de administración y finanzas del organismo operador, y verificar que los informes sean remitidos en tiempo y forma al Instituto de Fiscalización Superior del Estado;
 
 V. Participar en la elaboración y actualización de los inventarios generales de bienes propiedad del organismo;
 
@@ -1723,9 +1725,13 @@ a) La Junta de Gobierno.
 
 b) Al órgano de Control Interno del ayuntamiento.
 
-c) A la Auditoría Superior del Estado;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
-X. Rendir anualmente en sesión ordinaria de la Junta de Gobierno, dictamen respecto de la veracidad y responsabilidad de la información presentada por el director general, y enviar copia al órgano de control interno del ayuntamiento para su conocimiento, así como a la Auditoría Superior del Estado;
+c) Al Instituto de Fiscalización Superior del Estado;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+X. Rendir anualmente en sesión ordinaria de la Junta de Gobierno, dictamen respecto de la veracidad y responsabilidad de la información presentada por el director general, y enviar copia al órgano de control interno del ayuntamiento para su conocimiento, así como al Instituto de Fiscalización Superior del Estado;
 
 XI. Insertar en el orden del día de las sesiones de la Junta de Gobierno, los puntos que estime pertinentes en relación a su función, o que sugieran los integrantes de la Junta;
 
@@ -3812,3 +3818,17 @@ TERCERO. En los tres meses siguientes a la publicación de este Decreto en el Pe
 CUARTO. El director general de la Comisión Estatal del Agua dentro de los treinta días hábiles a partir de la entrada en vigencia de este Decreto, convocará a los directores generales de los organismos operadores descentralizados de agua, para que en reunión designen al presidente, secretarios y vocales que refiere el párrafo primero del artículo 107 QUÁTER de este Decreto y se instale formalmente el consejo.
 
 QUINTO. Para los efectos de lo dispuesto por (sic) párrafo segundo del artículo 107 QUÁTER de este Decreto, por esta sola ocasión, el presidente, secretarios y vocales que sean elegidos en el plazo previsto por el artículo transitorio que antecede, durarán en su cargo a partir de que sean elegidos hasta la conclusión del ejercicio constitucional de las administraciones municipales actuales.
+
+P.O. 1 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO SEXTO DEL "DECRETO 0814.- SE REFORMA EL ARTÍCULO 101 EN SUS FRACCIONES IV, IX EN SU INCISO C) Y X, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto será vigente a partir de la entrada en vigor del artículo primero de este Decreto, previa publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS TRANSITORIOS DEL ARTÍCULO PRIMERO DEL "DECRETO 0814.- SE REFORMAN LOS ARTÍCULOS 53, 54, 57 EN SU FRACCIÓN XII, 124 BIS EN SU FRACCIÓN I, 125 EN SU FRACCIÓN III LOS PÁRRAFOS SEGUNDO Y TERCERO Y 135 EN SUS PÁRRAFOS SEGUNDO Y QUINTO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
