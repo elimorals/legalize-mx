@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2023-07-31"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -547,9 +547,9 @@ XXI. Imponer, en los casos que proceda, a los servidores públicos responsables 
 
 XXII. Solicitar al Consejo Estatal Electoral y de Participación Ciudadana se descuenten de las prerrogativas de los partidos políticos, así como de candidatas y candidatos independientes, las multas a que se hayan hecho acreedores;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
-XXIII. Requerir, a la Auditoría Superior del Estado haga efectivas las multas a que se hayan hecho acreedores los servidores públicos responsables; y al Procurador Fiscal del Estado en los términos de los artículos 205 y 211 de esta Ley;
+XXIII. Requerir, al Instituto de Fiscalización Superior del Estado haga efectivas las multas a que se hayan hecho acreedores los servidores públicos responsables; y al Procurador Fiscal del Estado en los términos de los artículos 205 y 211 de esta Ley;
 
 XXIV. Realizar reuniones o foros anuales, de carácter público, para discutir y analizar la aplicación y alcances de la presente Ley;
 
@@ -665,9 +665,13 @@ III. Conducir la administración de la CEGAIP, ejecutando los actos jurídicos y
 
 IV. Remitir oportunamente al titular del Poder Ejecutivo, el presupuesto de egresos de la CEGAIP, para su inclusión en el presupuesto del Estado, una vez aprobado por el Consejo;
 
-V. Vigilar el ejercicio del presupuesto de egresos asignado a la CEGAIP, y presentar al Pleno para su aprobación y remisión a la Auditoría Superior del Estado, un informe de los ingresos y egresos del mismo, en los términos que señala la Ley General de Contabilidad Gubernamental; la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí, y demás normativa aplicable en la materia;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
-VI. Remitir a la Auditoría Superior del Estado la correspondiente cuenta pública anual de la CEGAIP;
+V. Vigilar el ejercicio del presupuesto de egresos asignado a la CEGAIP, y presentar al Pleno para su aprobación y remisión al Instituto de Fiscalización Superior del Estado, un informe de los ingresos y egresos del mismo, en los términos que señala la Ley General de Contabilidad Gubernamental; la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí, y demás normativa aplicable en la materia;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Remitir al Instituto de Fiscalización Superior del Estado la correspondiente cuenta pública anual de la CEGAIP;
 
 VII. Suscribir, junto con el Secretario Técnico del Pleno, los convenios que sean necesarios con el Instituto, los órganos estatales homólogos, y otras autoridades de cualquier orden de gobierno, que se requieran para el cumplimiento de las atribuciones de la CEGAIP, previa autorización del Pleno;
 
@@ -691,7 +695,9 @@ En el ejercicio de sus atribuciones la persona titular del órgano interno de co
 
 El Órgano Interno de Control contará con las siguientes atribuciones:
 
-I. Llevar a cabo el cumplimiento de las normas y disposiciones establecidas en las leyes: General de Contabilidad Gubernamental; de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí; de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí, de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí; de Entrega-Recepción de los Recursos Públicos del Estado y Municipios de San Luis Potosí, y demás normativa vigente aplicable a los órganos internos de control;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+I. Llevar a cabo el cumplimiento de las normas y disposiciones establecidas en las leyes: General de Contabilidad Gubernamental; de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí; de Fiscalización Superior del Estado de San Luis Potosí, de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí; de Entrega-Recepción de los Recursos Públicos del Estado y Municipios de San Luis Potosí, y demás normativa vigente aplicable a los órganos internos de control;
 
 II. Planear, organizar, ejecutar y coordinar auditorías internas de carácter financiero, operacional y administrativo, a fin de comprobar el cumplimiento de la normatividad, criterios y procedimientos establecidos;
 
@@ -1241,7 +1247,9 @@ XVI. Las contrataciones de servicios profesionales por honorarios, señalando lo
 
 XVII. La información en versión pública de las declaraciones, de situación patrimonial, fiscal y de intereses de los servidores públicos, en los sistemas habilitados para ello, de acuerdo con lo siguiente:
 
-a) En el Poder Legislativo Estatal: los diputados, el oficial mayor, el auditor superior del Estado, el tesorero, coordinadores, directores, jefes de departamento y auditores.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+a) En el Poder Legislativo Estatal: los diputados, el oficial mayor, la Auditora o el Auditor Superior del Estado, el tesorero, coordinadores, directores, jefes de departamento y auditores.
 
 b) En el Poder Ejecutivo Estatal: todos los servidores públicos, desde el Gobernador del Estado, hasta los jefes de departamento. En cuanto a la Procuraduría General de Justicia del Estado, también los agentes del Ministerio Público y los agentes de la Policía Ministerial.
 
@@ -2843,7 +2851,9 @@ Transcurrido el plazo, sin que se haya dado cumplimiento, se determinarán las s
 
 Las medidas de apremio a que se refiere el presente Capítulo, deberán ser impuestas y ejecutadas por la CEGAIP o con el apoyo de la autoridad competente, de conformidad con los procedimientos que establezcan las leyes respectivas.
 
-Las multas que fije la CEGAIP tendrán el carácter de créditos fiscales, y las remitirá a la Auditoría Superior del Estado, para que las haga efectivas conforme a las disposiciones legales aplicables; debiendo publicar mensualmente las sanciones impuestas a los servidores públicos responsables.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+Las multas que fije la CEGAIP tendrán el carácter de créditos fiscales, y las remitirá al Instituto de Fiscalización Superior del Estado, para que las haga efectivas conforme a las disposiciones legales aplicables; debiendo publicar mensualmente las sanciones impuestas a los servidores públicos responsables.
 
 ###### ARTÍCULO 196.
 
@@ -2887,7 +2897,9 @@ XV. No acatar las resoluciones emitidas por los Organismos garantes, en ejercici
 
 Las sanciones de carácter económico no podrán ser cubiertas con recursos públicos.
 
-Las multas que fije la CEGAIP tendrán el carácter de créditos fiscales, y las remitirá a la Auditoría Superior del Estado, para que las haga efectivas conforme a las disposiciones legales aplicables; debiendo publicar mensualmente las sanciones impuestas a los servidores públicos responsables.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+Las multas que fije la CEGAIP tendrán el carácter de créditos fiscales, y las remitirá al Instituto de Fiscalización Superior del Estado, para que las haga efectivas conforme a las disposiciones legales aplicables; debiendo publicar mensualmente las sanciones impuestas a los servidores públicos responsables.
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2020)</small>
 
@@ -3318,3 +3330,17 @@ P.O. 31 DE JULIO DE 2023.
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO DÉCIMO CUARTO DEL "DECRETO 0814.- SE REFORMA LOS ARTÍCULOS, 34 EN SU FRACCIÓN XXIII, 36 EN SUS FRACCIONES V, VI, Y IX, 38 EN SU FRACCIÓN I, 84 EN SU FRACCIÓN XVII EL INCISO A), 195 EN SU PÁRRAFO SEGUNDO, Y 197 EN SU PÁRRAFO PENÚLTIMO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente a partir de la entrada en vigor del artículo primero de este Decreto, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL ARTÍCULO PRIMERO DEL “DECRETO 0814.- SE REFORMAN LOS ARTÍCULOS 53, 54, 57 EN SU FRACCIÓN XII, 124 BIS EN SU FRACCIÓN I, 125 EN SU FRACCIÓN III LOS PÁRRAFOS SEGUNDO Y TERCERO Y 135 EN SUS PÁRRAFOS SEGUNDO Y QUINTO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
