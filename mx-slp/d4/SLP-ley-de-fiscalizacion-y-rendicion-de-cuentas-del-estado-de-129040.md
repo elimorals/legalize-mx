@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12904
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2023-02-27"
+last_updated: "2023-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE FISCALIZACION Y RENDICION DE CUENTAS DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 1 DE SEPTIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 11 de junio de 2018.
 
@@ -39,7 +41,7 @@ Decreta
 
 E X P O S I C I Ó N D E M O T I V O S
 
-[…]
+[...]
 
 ÚNICO. Se EXPIDE la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí, para quedar como sigue
 
@@ -1532,3 +1534,35 @@ P.O. 27 DE FEBRERO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ ".]
+
+PRIMERO. Este Decreto será vigente a partir de la entrada en vigor del artículo primero de este Decreto, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí publicada mediante Decreto Legislativo N°. 976 en el Periódico Oficial del Estado, el lunes 11 de junio de 2018.
+
+TERCERO. El Congreso del Estado nombrará a la persona titular del Instituto de Fiscalización Superior dentro de los sesenta días hábiles siguientes contados a partir de la entrada en vigor de este Decreto.
+
+CUARTO. A la entrada en vigor del presente Decreto, se abroga el Reglamento Interior de la Unidad de Evaluación y Control de la Comisión de Vigilancia del Congreso del Estado de San Luis Potosí, publicado por Decreto Legislativo N°. 869 en el Periódico Oficial del Estado “Plan de San Luis”, el domingo 31 de diciembre de 2017.
+
+QUINTO. A la entrada en vigor del presente Decreto, se abroga el Decreto Legislativo N° 1041 publicado en el Periódico Oficial del Estado “Plan de San Luis”, el martes 15 de diciembre de 2020 y, por lo tanto, se extinguen los efectos jurídicos del nombramiento otorgado a la persona Titular de la Unidad de Evaluación y Control de la Comisión de Vigilancia del Congreso del Estado, al haberse extinguido la fuente que le dio origen.
+
+SEXTO. Los procedimientos de revisión, auditoría, investigación y demás acciones iniciadas por la Auditoría Superior del Estado con anterioridad a la entrada en vigor de la nueva Ley contenida en este Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones de la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí publicada mediante Decreto Legislativo N°. 976 en el Periódico Oficial del Estado el lunes 11 de junio de 2018.
+
+SÉPTIMO. El Instituto de Fiscalización Superior dentro del plazo de los ciento veinte días hábiles contados a partir de la entrada en vigor de este Decreto, realizará la armonización de sus disposiciones reglamentarias y demás normatividad aplicable, conforme a las disposiciones de la nueva Ley que se expide mediante el presente Decreto.
+
+OCTAVO. El Congreso del Estado deberá prever para el ejercicio fiscal 2024 los recursos presupuestales necesarios para que el Instituto de Fiscalización Superior del Estado implemente la firma electrónica.
+
+NOVENO. Dentro de los treinta días hábiles siguientes a la entrada en vigor de este Decreto, la Junta de Coordinación Política del Congreso del Estado autorizará y asignará a la Comisión de Vigilancia, los servicios de asesoría y apoyo técnico en materia de fiscalización que requiera para el cumplimiento de sus funciones y que el presupuesto le permita.
+
+DÉCIMO. Los recursos humanos, financieros y materiales con los que actualmente cuenta la Auditoría Superior del Estado pasarán a formar parte del Instituto de Fiscalización Superior, por lo que el personal conservará y se le tendrá por reconocida su antigüedad, así como todos sus derechos y prestaciones previamente adquiridas.
+
+Igualmente las obligaciones de cualquier tipo previamente adquiridas por la Auditoría Superior del Estado, se entenderán del Instituto de Fiscalización Superior.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL ARTÍCULO PRIMERO DEL “DECRETO 0814.- SE REFORMAN LOS ARTÍCULOS 53, 54, 57 EN SU FRACCIÓN XII, 124 BIS EN SU FRACCIÓN I, 125 EN SU FRACCIÓN III LOS PÁRRAFOS SEGUNDO Y TERCERO Y 135 EN SUS PÁRRAFOS SEGUNDO Y QUINTO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
