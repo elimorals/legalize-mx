@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2023-06-23"
+last_updated: "2023-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -429,7 +429,7 @@ I. En el primero, que inicia el quince de septiembre y concluye el quince de dic
 
 II. En el segundo, que inicia el uno de febrero y termina el treinta de junio, con la misma preferencia se sujetará a los términos del artículo 53 párrafo segundo, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
 
-Para tal efecto, el Congreso del Estado recibirá de la Auditoría Superior del Estado, el informe final de auditoría correspondiente a las cuentas públicas de los poderes del Estado, a más tardar el quince de junio del año en que éstas hayan sido presentadas; y los informes relativos a las cuentas públicas de los demás entes auditables, a más tardar el último día de mayo del año de su presentación. Dentro de dichos informes se incluirán los resultados de la revisión de las cuentas públicas, y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los objetivos contenidos en los programas estatales y municipales, que comprenderá los comentarios y observaciones de los auditados.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 24.
 
@@ -3200,3 +3200,11 @@ P.O. 23 DE JUNIO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto
+
+P.O. 1 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0814.- ARTÍCULO CUARTO. SE DEROGA DEL ARTÍCULO 23 EL PÁRRAFO ÚLTIMO DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto será vigente a partir de la entrada en vigor del artículo primero de este Decreto, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
