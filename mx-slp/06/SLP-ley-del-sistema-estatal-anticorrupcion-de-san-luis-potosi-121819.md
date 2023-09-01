@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-estatal-anticorrupcion-de-san-luis-potosi-12181
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-25"
-last_updated: "2020-11-11"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 25 de mayo de 2017.
 
@@ -207,7 +207,9 @@ Son integrantes del Comité Coordinador:
 
 I. Un representante del Comité de Participación Ciudadana, quien lo presidirá;
 
-II. El titular de la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+II. La persona titular del Instituto de Fiscalización Superior del Estado;
 
 III. El titular de la Fiscalía Especializada en Delitos relacionados con Hechos de Corrupción;
 
@@ -295,7 +297,9 @@ VII. No haber sido registrado como candidato, ni haber desempeñado cargo alguno
 
 VIII. No haber sido miembro, adherente o afiliado a algún partido político, durante los tres años anteriores a la fecha de emisión de la convocatoria;
 
-IX. No ser Secretario o Titular de dependencias y entidades de la administración pública estatal o municipal; Auditor Superior del Estado; Fiscal General del Estado; Fiscal Especializado en Delitos Relacionados con Hechos de Corrupción y el Fiscal Especializado en Delitos Electorales, a menos que se haya separado de su cargo tres años anteriores del día de su designación, y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+IX. No ser Secretario o Titular de dependencias y entidades de la administración pública estatal o municipal; Auditora o Auditor Superior del Estado; Fiscal General del Estado; Fiscal Especializado en Delitos Relacionados con Hechos de Corrupción y el Fiscal Especializado en Delitos Electorales, a menos que se haya separado de su cargo tres años anteriores del día de su designación, y
 
 X. No ostentar cargo en institución eclesiástica, ni ser ministro de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación establecida en la Ley Reglamentaria del artículo 130 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -427,7 +431,9 @@ X. Opinar o proponer, a través de su participación en la Comisión Ejecutiva, 
 
 XI. Proponer mecanismos de articulación entre organizaciones de la sociedad civil, la academia y grupos ciudadanos;
 
-XII. Proponer reglas y procedimientos mediante los cuales se recibirán las peticiones, solicitudes y denuncias fundadas y motivadas que la sociedad civil pretenda hacer llegar a la Auditoría Superior del Estado, así como a los órganos de control del estado y municipios;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+XII. Proponer reglas y procedimientos mediante los cuales se recibirán las peticiones, solicitudes y denuncias fundadas y motivadas que la sociedad civil pretenda hacer llegar al Instituto de Fiscalización Superior del Estado, así como a los órganos de control del estado y municipios;
 
 XIII. Opinar sobre el programa anual de trabajo del Comité Coordinador;
 
@@ -609,7 +615,9 @@ VIII. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal
 
 IX. No haber sido miembro, adherente o afiliado a algún partido político, durante los 4 años anteriores a la fecha de emisión de la convocatoria;
 
-X. No ser Secretario o Titular de dependencias y entidades de la administración pública estatal o municipal; Auditor Superior del Estado; Fiscal General del Estado; Fiscal Especializado en Delitos Relacionados con Hechos de Corrupción y el Fiscal Especializado en Delitos Electorales, a menos que se haya separado de su cargo tres años anteriores del día de su designación, y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+X. No ser Secretario o Titular de dependencias y entidades de la administración pública estatal o municipal; Auditora o Auditor Superior del Estado; Fiscal General del Estado; Fiscal Especializado en Delitos Relacionados con Hechos de Corrupción y el Fiscal Especializado en Delitos Electorales, a menos que se haya separado de su cargo tres años anteriores del día de su designación, y
 
 XI. No ostentar cargo en alguna institución eclesiástica, ni ser ministro de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación establecida en la Ley Reglamentaria del artículo 130 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -655,7 +663,9 @@ El Sistema Estatal de Fiscalización tiene por objeto establecer acciones y meca
 
 Son integrantes del Sistema Estatal de Fiscalización:
 
-I. La Auditoria Superior del Estado;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+I. El Instituto de Fiscalización Superior del Estado;
 
 II. La Contraloría General del Estado, y
 
@@ -671,11 +681,13 @@ II. Informar al Comité Coordinador sobre los avances en la fiscalización de re
 
 Todos los Entes públicos fiscalizadores, y fiscalizados, deberán apoyar en todo momento al Sistema Estatal de Fiscalización para la implementación de mejoras para la fiscalización de los recursos estatales y municipales.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 40.
 
-El Sistema Estatal de Fiscalización contará con un Comité Rector conformado por la Auditoría Superior del Estado, la Contraloría General del Estado y 7 miembros rotatorios de entre las instituciones referidas en la fracción III del artículo 36 de esta Ley, que será elegidos por periodos de dos años, por consenso de la propia Contraloría General del Estado y la Auditoría Superior del Estado.
+El Sistema Estatal de Fiscalización contará con un Comité Rector conformado por el Instituto de Fiscalización Superior del Estado, la Contraloría General del Estado y 7 miembros rotatorios de entre las instituciones referidas en la fracción III del artículo 36 de esta Ley, que será (sic) elegidos por periodos de dos años, por consenso de la propia Contraloría General del Estado y el Instituto de Fiscalización Superior del Estado.
 
-El Comité Rector será presidido de manera dual por el Auditor Superior del Estado y el titular de la Contraloría General del Estado, o por los representantes que de manera respectiva designen para estos efectos.
+El Comité Rector será presidido de manera dual por la persona titular del Instituto de Fiscalización Superior del Estado y el titular de la Contraloría General del Estado, o por los representantes que de manera respectiva designen para estos efectos.
 
 ### Capítulo II. De su Funcionamiento
 
@@ -914,3 +926,17 @@ P.O. 11 DE NOVIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO DÉCIMO QUINTO DEL “DECRETO 0814.- SE REFORMAN LOS ARTÍCULOS 10 EN SU FRACCIÓN II, 17 EN SU FRACCIÓN IX, 23 EN SU FRACCIÓN XII, 36 EN SU FRACCIÓN X, 38 EN SU FRACCIÓN I Y 40, DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente a partir de la entrada en vigor del artículo primero de este Decreto, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL ARTÍCULO PRIMERO DEL "DECRETO 0814.- SE REFORMAN LOS ARTÍCULOS 53, 54, 57 EN SU FRACCIÓN XII, 124 BIS EN SU FRACCIÓN I, 125 EN SU FRACCIÓN III LOS PÁRRAFOS SEGUNDO Y TERCERO Y 135 EN SUS PÁRRAFOS SEGUNDO Y QUINTO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
