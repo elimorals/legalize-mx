@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2023-06-29"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -973,49 +973,51 @@ Cuando concluido un período ordinario de sesiones el Congreso esté conociendo 
 
 La Ley Orgánica del Congreso señalará las formalidades con que deban celebrarse la apertura y clausura de las sesiones.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 53.
 
-En el primer período ordinario de sesiones, el Congreso del Estado se ocupará de preferencia de aprobar las leyes de ingresos del Estado y las de los municipios, así como de examinar y aprobar el presupuesto de egresos que le presente el Ejecutivo, correspondiente al año entrante. De igual forma se ocupará del análisis y, en su caso, aprobación del informe general e informes individuales que le presente la Auditoría Superior del Estado, respecto de la revisión de las cuentas públicas del Estado; de los municipios y de sus organismos descentralizados; de los organismos constitucionales autónomos; y las demás entidades auditables, relativas al año próximo anterior.
+En el primer período ordinario de sesiones, el Congreso del Estado se ocupará de preferencia de aprobar las leyes de ingresos del Estado y las de los municipios, así como de examinar y aprobar el presupuesto de egresos que le presente el Ejecutivo, correspondiente al año entrante.
 
-En el segundo periodo, el Congreso del Estado se ocupará con la misma preferencia, del inicio y revisión de las cuentas públicas de los poderes del Estado; de los municipios y de sus organismos descentralizados; de los organismos autónomos; y demás entidades auditables, relativas al año próximo anterior, para lo cual contará con el apoyo de la Auditoría Superior del Estado, de conformidad con el procedimiento que establezca la ley de la materia.
+En el segundo periodo, el Congreso del Estado se ocupará de la revisión y análisis del informe general e informes individuales que le presente el Instituto de Fiscalización Superior del Estado como resultado de la fiscalización de las cuentas públicas de las entidades fiscalizadas, con el objeto de evaluar el ejercicio de la función de fiscalización superior, en los términos que disponga la ley de la materia.
 
-La Cuenta Pública del Poder Ejecutivo del Estado deberá presentarse en forma anual al Congreso del Estado y, en sus recesos, a la Diputación Permanente, a más tardar el día quince del mes de marzo del año siguiente al que corresponda su ejercicio.
+De igual forma se ocupará del inicio de la revisión y fiscalización de las cuentas públicas de los poderes del Estado; de los municipios y de sus organismos descentralizados; de los organismos autónomos; y demás entidades auditables, relativas al año próximo anterior, para lo cual contará con el apoyo del Instituto de Fiscalización Superior del Estado, de conformidad con el procedimiento que establezca la ley de la materia.
 
-Además, las entidades del Poder Ejecutivo del Estado, del Poder Judicial, el Poder Legislativo, los municipios, los organismos municipales descentralizados, y los organismos constitucionales autónomos, rendirán un informe trimestral de su situación financiera, a más tardar el día quince del mes siguiente al periodo de que se trate, conforme lo dispuesto en la ley.
+La Cuenta Pública de, los poderes, Ejecutivo, Legislativo, y Judicial; de los organismos constitucionales autónomos; de los municipios; de las entidades y organismos de las administraciones públicas, paraestatal y paramunicipal; y demás entidades fiscalizadas que establezca la Ley de la materia, se entregará para su revisión y fiscalización en forma anual al Congreso del Estado y, en sus recesos, a la Diputación Permanente, a más tardar el último día del mes de febrero del año siguiente al de su ejercicio, previo conocimiento cuando así corresponda, de sus órganos de gobierno, o equivalentes; con independencia de que sean o no aprobadas por éstos.
 
-Las cuentas públicas de los poderes, Legislativo, y Judicial; de los organismos constitucionales autónomos, así como de los municipios, se entregarán en forma anual al Congreso del Estado y, en sus recesos, a la Diputación Permanente, a más tardar el día quince de marzo del año siguiente al de su ejercicio, previo conocimiento, en el caso de los municipios de sus cabildos; del Poder Legislativo de la Diputación Permanente; en el caso del Poder Judicial del Supremo Tribunal de Justicia del Estado sesionando en Pleno; y, en general, de los órganos de gobierno, o de quien haga las funciones de éstos; en todos los casos, con independencia de que sean o no aprobadas.
+Las entidades fiscalizadas a que se refiere el párrafo anterior, rendirán un informe trimestral de su situación financiera, a más tardar el día quince del mes siguiente al periodo de que se trate, conforme a lo que disponga la ley.
 
-Lo mismo aplicará para el caso de las cuentas públicas de los organismos municipales descentralizados y demás entes auditables, previo conocimiento de sus juntas de gobierno o juntas directivas, con independencia de que sean aprobadas o no, deberán ser presentadas en forma anual al Congreso del Estado y, en sus recesos, a la Diputación Permanente, a más tardar el día quince de marzo del año siguiente al de su ejercicio.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 54.
 
-Corresponde al Congreso del Estado, a través de la Auditoría Superior del Estado, la revisión de las cuentas públicas de los poderes del Estado y demás entes auditables, con el fin de comprobar que se cumplan las normas, presupuestos, obras, metas, acciones y programas.
+Corresponde al Congreso del Estado a través del Instituto de Fiscalización Superior del Estado, la revisión y fiscalización de las cuentas públicas de las entidades fiscalizadas, con el objeto de evaluar los resultados de su gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos de egresos y demás disposiciones legales aplicables, y verificar el cumplimiento de los objetivos contenidos en los programas.
 
-La Auditoría Superior del Estado gozará de autonomía para desarrollar sus facultades de fiscalización, así como para decidir sobre su funcionamiento y organización interna en los términos que disponga la ley. La función de fiscalización se regirá por los principios de, legalidad, prosecución del interés público, imparcialidad, confiabilidad, y eficacia.
+Si de la revisión y fiscalización de las cuentas públicas aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicha autoridad sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos que disponga la Ley.
 
-La Auditoría Superior del Estado deberá entregar al Congreso del Estado, los informes, General e individuales correspondientes a las cuentas públicas de los poderes del Estado, de los organismos constitucionales autónomos, de los municipios, de los organismos municipales descentralizados y demás entes auditables, a más tardar el día treinta y uno de octubre del año en que éstas hayan sido presentadas; a efecto de que éste revise a más tardar el día quince del mes de noviembre, que los informes se realizaron apegados a las disposiciones legales aplicables y emita, en su caso, las observaciones correspondientes. Dichos informes incluirán los resultados de la revisión de las cuentas públicas, y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los objetivos contenidos en los programas estatales y municipales, que comprenderá los comentarios y observaciones de los auditados.
+El Instituto de Fiscalización Superior del Estado revisará y fiscalizará la cuenta pública de manera posterior al término de cada ejercicio fiscal, salvo la revisión y fiscalización que realice en tiempo real del ejercicio fiscal en curso, conforme a los supuestos que prevea la ley de la materia.
 
-La ley garantizará y dispondrá las formas en que el Auditor Superior del Estado tenga y ejerza las siguientes atribuciones:
+El Instituto de Fiscalización Superior del Estado tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley.
+
+La función de fiscalización será ejercida conforme a los principios de legalidad, imparcialidad, confiabilidad y definitividad.
+
+El Congreso del Estado a través del Instituto de Fiscalización Superior del Estado concluirá la revisión de las cuentas públicas a más tardar el último día del mes de noviembre del año de su presentación y entregará el Informe General y los informes individuales que contengan los resultados de las revisiones y auditorías practicadas, en los términos que establezca la ley de la materia.
+
+La ley dispondrá lo necesario para que el Instituto de Fiscalización Superior del Estado tenga y ejerza las siguientes atribuciones:
 
 I. Determinar daños y perjuicios;
 
-II. Promover acciones y responsabilidades, incluidas las referidas en el Título Décimo Segundo de esta Constitución, ante el Tribunal Estatal de Justicia Administrativa, la Fiscalía Especializada en Combate a la Corrupción, o ante las autoridades que competa, y
+II. Promover acciones y responsabilidades, incluidas las referidas en el Título Décimo Tercero de esta Constitución, ante el Tribunal Estatal de Justicia Administrativa, la Fiscalía Especializada en combate a la corrupción, o ante las autoridades que competa, y
 
 III. Presentar denuncias y querellas.
 
-La Auditoría Superior del Estado debe guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+El Instituto de Fiscalización Superior del Estado debe guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
 
-El Auditor Superior del Estado estará al frente de la Auditoría Superior del Estado, y será nombrado por el Congreso del Estado, por el voto de las dos terceras partes de sus miembros presentes.
+La titularidad del Instituto de Fiscalización Superior del Estado recaerá en una persona que se denominará Auditora o Auditor Superior, durará en su cargo nueve años, y será nombrada por el Congreso del Estado por el voto de cuando menos las dos terceras partes de sus miembros presentes en la sesión que corresponda. La ley determinará el procedimiento para su nombramiento.
 
-El Auditor Superior del Estado durará en su encargo siete años; podrá ser ratificado bajo las mismas reglas de votación por un periodo inmediato y por igual término; deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades.
-
-Para ser titular de la Auditoría Superior del Estado se requiere cumplir con los mismos requisitos previstos en las fracciones, I, II, IV, V, y VI del artículo 99, de esta Constitución, y los que al efecto se señalen en la ley.
+Para ser titular del Instituto de Fiscalización Superior del Estado se requiere contar con experiencia al menos de cinco años en materia de control, auditoría financiera y de responsabilidades, y cumplir además con los requisitos previstos en las fracciones, I y IV, del artículo 99, de esta Constitución, y los que al efecto señale la ley.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1065,9 +1067,9 @@ X.- Elaborar su respectivo presupuesto de egresos; el cual deberá incluir los t
 
 XI.- Fijar los ingresos y egresos del Estado con base en los presupuestos anuales que el Ejecutivo deberá presentar;
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
-XII. Expedir las leyes que regulen la organización y facultades de la Auditoría Superior del Estado; así como revisar y examinar, y, en su caso, señalar las irregularidades en las cuentas y actos relativos a la administración, inversión y aplicación de fondos públicos del Estado, de los municipios y sus entidades, así como de los organismos constitucionales autónomos, y proceder en los términos de ley;
+XII.- Expedir las leyes que regulen la organización y facultades del Instituto de Fiscalización Superior del Estado; así como revisar y examinar, y, en su caso, señalar las irregularidades en las cuentas y actos relativos a la administración, inversión y aplicación de fondos públicos del Estado, de los municipios y sus entidades, así como de los organismos constitucionales autónomos, y proceder en los términos de ley;
 
 XIII.- Crear y suprimir empleos públicos del Estado. Al aprobar el presupuesto general no podrá dejar de fijar la remuneración que corresponda a un empleo que esté establecido por la ley; y en el caso de que por cualquier circunstancia omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido en el presupuesto anterior o en la ley que estableció el empleo;
 
@@ -2411,9 +2413,9 @@ Los servidores públicos que establezca la ley, estarán obligados a presentar, 
 
 ARTÍCULO 124 BIS.- El Sistema Estatal Anticorrupción es el conjunto de autoridades, elementos, programas y acciones, que interactúan entre sí, para el diseño, evaluación de políticas de educación, concientización, prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como la promoción de la integridad pública. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(F. DE E., P.O. 5 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
-I. El Sistema contará con un Comité Coordinador integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción; del órgano interno de Control del Gobierno del Estado; por el Presidente del Tribunal Estatal de Justicia Administrativa; y el Presidente del Organismo Garante que establece el artículo 17 fracción III de esta Constitución; así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado, y otro del Comité de Participación Ciudadana, y
+I. El Sistema contará con un Comité Coordinador integrado por los titulares del Instituto de Fiscalización Superior del Estado; de la (sic) Fiscal Especializado en Delitos Relacionados con Hechos de Corrupción; del órgano interno de Control del Gobierno del Estado; por el Presidente del Tribunal Estatal de Justicia Administrativa; y el Presidente del Organismo Garante que establece el artículo 17 fracción III de esta Constitución; así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado, y otro del Comité de Participación Ciudadana, y
 
 II. El Sistema contará, a su vez, con un Comité de Participación Ciudadana integrado por el número de ciudadanos que establezca la normatividad aplicable, que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción, y serán designados en términos de la legislación correspondiente.
 
@@ -2437,9 +2439,13 @@ Las leyes determinarán los casos y las circunstancias en las que se deba sancio
 
 III. Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones, en los términos que establezca la ley.
 
-Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior del Estado y los órganos internos de control, o por sus homólogos en los municipios, según corresponda; y serán sancionadas por el Tribunal Estatal de Justicia Administrativa. Las demás faltas y sanciones administrativas, serán del conocimiento y sancionadas por los órganos internos de control.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
-Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en el artículo 90 de esta Constitución, sin perjuicio de las atribuciones de la Auditoría Superior del Estado en materia de fiscalización, sobre el manejo, la custodia y aplicación de recursos públicos.
+Las faltas administrativas graves serán investigadas y substanciadas por el Instituto de Fiscalización Superior del Estado y los órganos internos de control, o por sus homólogos en los municipios, según corresponda; y serán sancionadas por el Tribunal Estatal de Justicia Administrativa. Las demás faltas y sanciones administrativas, serán del conocimiento y sancionadas por los órganos internos de control.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en el artículo 90 de esta Constitución, sin perjuicio de las atribuciones del Instituto de Fiscalización Superior del Estado en materia de fiscalización, sobre el manejo, la custodia y aplicación de recursos públicos.
 
 Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la ley, y
 
@@ -2581,13 +2587,17 @@ Todo funcionario, antes de tomar posesión de su empleo, hará la protesta de gu
 
 Los recursos económicos de que dispongan los poderes del Estado, sus entidades descentralizadas, los organismos constitucionales autónomos, y los ayuntamientos, se administrarán con eficiencia, eficacia, economía, transparencia y honradez, para satisfacer los objetivos a los que estén destinados.
 
-La Auditoría Superior del Estado, y las contralorías de los poderes, Legislativo, Ejecutivo, y Judicial, así como de los ayuntamientos, y de los organismos constitucionales autónomos, en el ámbito de sus competencias, vigilarán el estricto cumplimiento de esta disposición, y evaluarán el ejercicio de los recursos económicos, con el fin de propiciar que éstos se incluyan en los respectivos presupuestos.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+El Instituto de Fiscalización Superior del Estado, y las contralorías de los poderes, Legislativo, Ejecutivo, y Judicial, así como de los ayuntamientos, y de los organismos constitucionales autónomos, en el ámbito de sus competencias, vigilarán el estricto cumplimiento de esta disposición, y evaluarán el ejercicio de los recursos económicos, con el fin de propiciar que éstos se incluyan en los respectivos presupuestos.
 
 Las adquisiciones, arrendamientos y enajenaciones de toda clase de bienes, la prestación de servicios de cualquier naturaleza; y la contratación de obra, se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatoria abierta para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado, organismos constitucionales autónomos, y ayuntamientos, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
 Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado, organismos constitucionales autónomos, y ayuntamientos.
 
-Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Décimo Segundo de esta Constitución.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Décimo Tercero de esta Constitución.
 
 Los servidores públicos del Estado, organismos constitucionales autónomos, y sus ayuntamientos, tienen, en todo tiempo, la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
 
@@ -3616,3 +3626,11 @@ P.O. 29 DE JUNIO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0814.- SE REFORMAN LOS ARTÍCULOS 53, 54, 57 EN SU FRACCIÓN XII, 124 BIS EN SU FRACCIÓN I, 125 EN SU FRACCIÓN III LOS PÁRRAFOS SEGUNDO Y TERCERO Y 135 EN SUS PÁRRAFOS SEGUNDO Y QUINTO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
