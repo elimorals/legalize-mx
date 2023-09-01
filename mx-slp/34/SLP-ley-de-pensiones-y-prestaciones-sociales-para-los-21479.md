@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-pensiones-y-prestaciones-sociales-para-los-21479"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-21"
-last_updated: "2023-05-02"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 21 de mayo de 2001.
 
@@ -329,11 +329,11 @@ Todo acto, contrato o documento que implique obligación o derecho inmediato o e
 
 La Dirección de Pensiones dará a conocer con toda oportunidad a los grupos cotizadores, los estados mensuales de sus operaciones y sus estados financieros anuales, autorizados por la Junta Directiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 33.
 
-Las cuentas de los fondos quedarán sujetas a la revisión y fiscalización de la Contraloría General del Estado, y del Congreso del Estado, a través de la Auditoría Superior del Estado, pudiendo ser auditados cuando éstas lo estimen pertinente. La Dirección de Pensiones remitirá a la Contraloría, y al Congreso del Estado, dentro de los tres primeros meses de cada año, un informe general sobre su situación contable.
+Las cuentas de los fondos quedarán sujetas a la revisión y fiscalización de la Contraloría General del Estado, y del Congreso del Estado, a través del Instituto de Fiscalización Superior del Estado, pudiendo ser auditados cuando éstas lo estimen pertinente. La Dirección de Pensiones remitirá a la Contraloría, y al Congreso del Estado, dentro de los tres primeros meses de cada año, un informe general sobre su situación contable.
 
 Cada grupo cotizador cuando lo estime necesario, podrá llevar a cabo la auditoría de su fondo la cual se hará con cargo al grupo solicitante.
 
@@ -2474,3 +2474,17 @@ P.O. 2 DE MAYO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO DÉCIMO PRIMERO DEL "DECRETO 0814.- SE REFORMA EL ARTÍCULO 33 EN SU PÁRRAFO PRIMERO DE LA LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente a partir de la entrada en vigor del artículo primero de este Decreto, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL ARTÍCULO PRIMERO DEL “DECRETO 0814.- SE REFORMAN LOS ARTÍCULOS 53, 54, 57 EN SU FRACCIÓN XII, 124 BIS EN SU FRACCIÓN I, 125 EN SU FRACCIÓN III LOS PÁRRAFOS SEGUNDO Y TERCERO Y 135 EN SUS PÁRRAFOS SEGUNDO Y QUINTO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
