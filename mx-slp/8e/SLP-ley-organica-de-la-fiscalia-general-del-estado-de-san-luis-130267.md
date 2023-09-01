@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-fiscalia-general-del-estado-de-san-luis-1302
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-08-20"
-last_updated: "2023-04-17"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130267&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 20 de agosto de 2018.
 
@@ -665,11 +665,15 @@ La Fiscalía General contará con un Órgano Interno de Control, como órgano es
 
 El titular del Órgano Interno de Control deberá ser un profesional en derecho y tener una reconocida experiencia en el sistema de justicia penal acusatorio y fiscalización de recursos públicos.
 
-El titular del Órgano Interno de Control podrá ser removido por el Fiscal General por las causas que establece la Ley de Fiscalización y Rendición de Cuentas del Estado. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes de la Legislatura dentro de un plazo de diez días hábiles, en cuyo caso el titular del Órgano Interno de Control será restituido en el ejercicio de sus funciones.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+El titular del Órgano Interno de Control podrá ser removido por el Fiscal General por las causas que establece la Ley de Fiscalización Superior del Estado. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes de la Legislatura dentro de un plazo de diez días hábiles, en cuyo caso el titular del Órgano Interno de Control será restituido en el ejercicio de sus funciones.
 
 Si la Legislatura no se pronuncia al respecto, se entenderá que no existe objeción.
 
-El titular del Órgano Interno de Control tendrá como encargo prevenir, detectar e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas que son distintas a las que son competencia del Tribunal Estatal de Justicia Administrativa; y presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+El titular del Órgano Interno de Control tendrá como encargo prevenir, detectar e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas que son distintas a las que son competencia del Tribunal Estatal de Justicia Administrativa; y presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Delitos Relacionados con Hechos de Corrupción.
 
 ###### ARTÍCULO 32.
 
@@ -681,7 +685,9 @@ I. Vigilar, en colaboración con las autoridades que integren el Comité Coordin
 
 II. Coordinar y supervisar el sistema de control interno, establecer las bases generales para la realización de auditorías internas;
 
-III. Proponer al Fiscal General las normas que regulen los instrumentos y procedimientos de cómo realizar las auditorías que se requieran y la coordinación con la auditoría superior del Estado para las faltas administrativas graves;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+III. Proponer al Fiscal General las normas que regulen los instrumentos y procedimientos de cómo realizar las auditorías que se requieran y la coordinación con el Instituto de Fiscalización Superior del Estado para las faltas administrativas graves;
 
 IV. Vigilar el cumplimiento, de las disposiciones en materia de planeación, presupuesto, ingresos y patrimonio;
 
@@ -1520,3 +1526,17 @@ TERCERO. Las y los servidores públicos adscritos a la Unidad Especializada para
 CUARTO. En un término de sesenta días hábiles siguientes a la entrada en vigor del presente Decreto, la Fiscalía General del Estado deberá armonizar sus ordenamientos internos con las disposiciones que con éste se expiden.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO DÉCIMO SEXTO DEL "DECRETO 0814.- SE REFORMAN LOS ARTÍCULOS 31 EN SUS PÁRRAFOS CUARTO Y SEXTO Y 32 EN SUS FRACCIONES III Y XXV, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente a partir de la entrada en vigor del artículo primero de este Decreto, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS TRANSITORIOS DEL ARTÍCULO PRIMERO DEL "DECRETO 0814.- SE REFORMAN LOS ARTÍCULOS 53, 54, 57 EN SU FRACCIÓN XII, 124 BIS EN SU FRACCIÓN I, 125 EN SU FRACCIÓN III LOS PÁRRAFOS SEGUNDO Y TERCERO Y 135 EN SUS PÁRRAFOS SEGUNDO Y QUINTO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
