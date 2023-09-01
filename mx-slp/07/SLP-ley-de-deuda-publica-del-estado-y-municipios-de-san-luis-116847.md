@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-deuda-publica-del-estado-y-municipios-de-san-luis-116847
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-06"
-last_updated: "2020-11-11"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el jueves 6 de octubre de 2016.
 
@@ -593,9 +593,9 @@ c) La Ley de Ingresos, y el Presupuesto de Egresos del ayuntamiento, entidad mun
 
 d) Los proyectos de las obras o acciones a realizar con los recursos que se obtengan del empréstito, financiamiento y emisión de valores.
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
-e) Opinión emitida por el titular de la Auditoría Superior del Estado, del estado financiero, deuda pública y obligaciones de pago.
+e) Opinión emitida por el titular del Instituto de Fiscalización Superior del Estado, del estado financiero, deuda pública y obligaciones de pago.
 
 Los requisitos a que se refiere este artículo deberán cumplirse, en lo conducente, para la autorización del Congreso, en el otorgamiento de avales o garantías que pretendan otorgar los municipios.
 
@@ -879,7 +879,9 @@ VI. Tratándose de obligaciones que se originen de la emisión de valores, basta
 
 VII. Se registrarán los financiamientos y obligaciones de los municipios y sus entidades, tanto los que cuenten con la garantía del Estado, como en los que, a juicio del propio Estado, los municipios tengan ingresos suficientes para cumplir con los mismos;
 
-VIII. Los sujetos de esta Ley deberán publicar su información financiera de acuerdo con las disposiciones de la Ley General de Contabilidad Gubernamental, y las normas expedidas por el Consejo Nacional de Armonización Contable al cual hace referencia dicha Ley. Para tal efecto, los sujetos de esta Ley deberán presentar la opinión de la Auditoría Superior del Estado, en la que manifieste si el ente público cumple con dicha publicación;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. Los sujetos de esta Ley deberán publicar su información financiera de acuerdo con las disposiciones de la Ley General de Contabilidad Gubernamental, y las normas expedidas por el Consejo Nacional de Armonización Contable al cual hace referencia dicha Ley. Para tal efecto, los sujetos de esta Ley deberán presentar la opinión del Instituto de Fiscalización Superior del Estado, en la que manifieste si el ente público cumple con dicha publicación;
 
 IX. Los financiamientos destinados al refinanciamiento sólo podrán liquidar financiamientos previamente inscritos en el Registro Público Único, y
 
@@ -925,7 +927,9 @@ Una vez efectuado el registro de las operaciones de financiamiento, sólo podrá
 
 Para el adecuado control de la aplicación de los recursos derivados de los empréstitos, financiamientos y emisión de valores, los sujetos de esta Ley deberán presentar en los primeros cinco días del mes inmediato posterior a sus órganos de control interno, la documentación comprobatoria de las erogaciones realizadas por los conceptos de inversión establecidos en los contratos respectivos.
 
-Los sujetos de esta Ley deberán de presentar a la Auditoría Superior del Estado, en sus informes financieros y de cuenta pública, la documentación referida en el párrafo que antecede de este artículo.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+Los sujetos de esta Ley deberán de presentar al Instituto de Fiscalización Superior del Estado, en sus informes financieros y de cuenta pública, la documentación referida en el párrafo que antecede de este artículo.
 
 Cuando lo solicite la Dirección de Financiamiento, Deuda y Crédito Público de la Secretaría, los sujetos de esta Ley deberán presentarle la documentación a que alude este precepto, y toda aquélla que se necesite para dar cumplimiento a la normativa en materia de deuda.
 
@@ -959,9 +963,11 @@ En los casos en que los mecanismos legales que implementen los municipios, como 
 
 Los sujetos de esta Ley se sujetarán a la Ley General de Contabilidad Gubernamental, para presentar la información financiera en los informes periódicos correspondientes, en su respectiva cuenta pública, y las disposiciones estatales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 62.
 
-La fiscalización sobre el cumplimiento de lo dispuesto en esta Ley corresponderá a la Auditoría Superior del Estado, así como a la Auditoría Superior de la Federación, conforme a lo dispuesto en el artículo 79 de la Constitución Política de los Estados Unidos Mexicanos.
+La fiscalización sobre el cumplimiento de lo dispuesto en esta Ley corresponderá al Instituto de Fiscalización Superior del Estado, así como a la Auditoría Superior de la Federación, conforme a lo dispuesto en el artículo 79 de la Constitución Política de los Estados Unidos Mexicanos.
 
 La Auditoría Superior de la Federación, en los términos de las disposiciones federales aplicables, fiscalizará las garantías que, en su caso, otorgue el Gobierno Federal respecto a financiamientos del Estado y los municipios, así como el destino y ejercicio de los recursos correspondientes que hayan realizado los mismos.
 
@@ -1080,3 +1086,17 @@ P.O. 11 DE NOVIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO OCTAVO DEL "DECRETO 0814.- SE REFORMAN LOS ARTÍCULOS 21 EN SU FRACCIÓN IV EL INCISO E), 50 EN SU FRACCIÓN VIII, 58 EN SU PÁRRAFO SEGUNDO Y 62 EN SU PÁRRAFO PRIMERO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto será vigente a partir de la entrada en vigor del artículo primero de este Decreto, previa publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL ARTÍCULO PRIMERO DEL "DECRETO 0814.- SE REFORMAN LOS ARTÍCULOS 53, 54, 57 EN SU FRACCIÓN XII, 124 BIS EN SU FRACCIÓN I, 125 EN SU FRACCIÓN III LOS PÁRRAFOS SEGUNDO Y TERCERO Y 135 EN SUS PÁRRAFOS SEGUNDO Y QUINTO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
