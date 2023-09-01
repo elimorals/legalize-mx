@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-comunicacion-social-para-el-estado-y-municipios-de-14950
 country: "mx"
 rank: "ley"
 publication_date: "2021-05-20"
-last_updated: "2023-02-27"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE COMUNICACIÓN SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 20 de mayo de 2021.
 
@@ -131,9 +131,11 @@ Adicionalmente, deberá atender el respeto a la libertad de expresión y al fome
 
 La secretaría administradora deberá contemplar en los lineamientos que emita, los criterios de selección del medio de comunicación correspondiente, a fin de garantizar el cumplimiento de los principios previstos en el presente artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 6°.
 
-Serán aplicables de manera supletoria, en lo conducente, las disposiciones contenidas en el Código Procesal Administrativo para el Estado de San Luis Potosí; la Ley Electoral del Estado de San Luis Potosí; la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí; la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí; la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí; y la Ley de Adquisiciones del Estado de San Luis Potosí.
+Serán aplicables de manera supletoria, en lo conducente, las disposiciones contenidas en el Código Procesal Administrativo para el Estado de San Luis Potosí; la Ley Electoral del Estado de San Luis Potosí; la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí; la Ley de Fiscalización Superior del Estado de San Luis Potosí; la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí; y la Ley de Adquisiciones del Estado de San Luis Potosí.
 
 Los medios de comunicación tienen garantizado el pleno ejercicio del desarrollo a la libertad de expresión en la contratación y difusión de propaganda gubernamental, en términos de los artículos, 6º, y 7º, de la Constitución Política de los Estados Unidos Mexicanos, y sus homólogos de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
 
@@ -395,7 +397,9 @@ VIII. Nombre de la persona física o moral contratada, y datos de su Registro Fe
 
 Los ayuntamientos reportarán a través de su sistema público la información en los términos del párrafo anterior al órgano de control interno que corresponda, en un plazo no mayor a quince días naturales, a la terminación de cada mes.
 
-El Congreso del Estado; y el Poder Judicial, así como los órganos a los que la Constitución Estatal otorga autonomía, reportarán la información a que se refiere el párrafo segundo de este artículo, a la Auditoría Superior del Estado.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+El Congreso del Estado; y el Poder Judicial, así como los órganos a los que la Constitución Estatal otorga autonomía, reportarán la información a que se refiere el párrafo segundo de este artículo, al Instituto de Fiscalización Superior del Estado.
 
 La responsabilidad del cumplimiento tanto del contenido de las campañas como que tengan la debida autorización, recaerá en cada ente público.
 
@@ -403,15 +407,19 @@ La responsabilidad del cumplimiento tanto del contenido de las campañas como qu
 
 La Contraloría del Estado, operará un sistema público de gastos de comunicación social, la cual registrará la información prevista en el artículo 31 de esta Ley, misma que deberá estar contenida en su portal de transparencia.
 
-Los órganos de control interno de los ayuntamientos, deberán tener un registro propio, en los términos de la presente Ley; en los casos en que las (sic) los órganos de control interno no tengan la capacidad de operar el sistema de información, podrán solicitar a la Auditoría Superior del Estado, lleve el registro correspondiente.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
+Los órganos de control interno de los ayuntamientos, deberán tener un registro propio, en los términos de la presente Ley; en los casos en que las (sic) los órganos de control interno no tengan la capacidad de operar el sistema de información, podrán solicitar al Instituto de Fiscalización Superior del Estado, lleve el registro correspondiente.
 
 ## TÍTULO TERCERO. DE LA REVISIÓN Y FISCALIZACIÓN DE LOS RECURSOS PÚBLICOS EN MATERIA DE COMUNICACIÓN SOCIAL
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 33.
 
-La revisión y fiscalización de los recursos públicos federales en materia de comunicación social, se realizará a través de la Auditoría Superior del Estado, en términos de lo dispuesto por la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí.
+La revisión y fiscalización de los recursos públicos federales en materia de comunicación social, se realizará a través del Instituto de Fiscalización Superior del Estado, en términos de lo dispuesto por la Ley de Fiscalización Superior del Estado de San Luis Potosí.
 
 ###### ARTÍCULO 34.
 
@@ -443,9 +451,11 @@ Los entes obligados deberán observar lo preceptuado en la Ley de Transparencia 
 
 ### CAPÍTULO II. De la Fiscalización
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 38.
 
-La revisión y fiscalización de los recursos públicos en materia de comunicación social de los entes públicos del Estado, y los municipios de la Entidad, se realizará a través de la Auditoría Superior del Estado, en términos de lo dispuesto por la legislación aplicable en cada caso, en materia de fiscalización.
+La revisión y fiscalización de los recursos públicos en materia de comunicación social de los entes públicos del Estado, y los municipios de la Entidad, se realizará a través del Instituto de Fiscalización Superior del Estado, en términos de lo dispuesto por la legislación aplicable en cada caso, en materia de fiscalización.
 
 ## TÍTULO QUINTO. DE LA PARTICIPACIÓN CIUDADANA
 
@@ -528,3 +538,17 @@ P.O. 27 DE FEBRERO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO SÉPTIMO DEL “DECRETO 0814.- SE REFORMAN LOS ARTÍCULOS 6° EN SU PÁRRAFO PRIMERO, 31 EN SU PÁRRAFO PENÚLTIMO, 32 EN SU PÁRRAFO ÚLTIMO, 33, Y 38 DE LA LEY DE COMUNICACION SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI”.]
+
+PRIMERO. Este Decreto será vigente a partir de la entrada en vigor del artículo primero de este Decreto, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL ARTÍCULO PRIMERO DEL “DECRETO 0814.- SE REFORMAN LOS ARTÍCULOS 53, 54, 57 EN SU FRACCIÓN XII, 124 BIS EN SU FRACCIÓN I, 125 EN SU FRACCIÓN III LOS PÁRRAFOS SEGUNDO Y TERCERO Y 135 EN SUS PÁRRAFOS SEGUNDO Y QUINTO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
