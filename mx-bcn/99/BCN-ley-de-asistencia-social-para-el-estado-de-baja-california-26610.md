@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-asistencia-social-para-el-estado-de-baja-california-2661
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2023-01-27"
+last_updated: "2023-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 18 de noviembre de 2005.
 
@@ -146,6 +146,10 @@ XVII.- Garantizar acceso a productos de gestión menstrual; y,
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE ENERO DE 2023)</small>
 
 XVIII.- Los análogos a los anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral de la familia.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+ARTÍCULO 4 BIS.- Los servicios de asistencia social contemplados en la presente Ley, en ningún caso podrán ser utilizados con fines electorales, ni su prestación puede condicionarse a participar en eventos proselitistas, recolección de firmas o bien, para la emisión del sufragio en favor de una determinada candidatura, partido político o coalición.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2011)</small>
 
@@ -1554,3 +1558,9 @@ P.O. 27 DE ENERO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. El suministro gratuito de productos de gestión menstrual se sujetará a la disponibilidad presupuestaria de la Secretaría de Bienestar y con base a las disposiciones normativas aplicables en términos de la Ley General de Salud.
+
+P.O. 2 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 288 MEDIANTE EL CUAL, SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 7, 21, 27 BIS, 33, 134, 139, 146, 168, 327, 328 Y 330 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; 6, 21 Y 43 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; 6, 7, 10, 12, 14 DE LA LEY DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA, COMO TAMBIÉN LA ADICIÓN DE UN CAPÍTULO IX BIS DENOMINADO “DEL ÓRGANO INTERNO DE CONTROL DEL TRIBUNAL” Y LA ADICIÓN DE LOS ARTÍCULOS 22 BIS Y 22 TER AL MISMO ORDENAMIENTO; LA ADICIÓN DE UN ARTÍCULO 4 BIS A LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LAS REFORMAS A LOS ARTÍCULOS 3, 5, 7, 14, 29, 31, 32, 33 Y 34 DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
