@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-participacion-ciudadana-del-estado-de-baja-california-20
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-16"
-last_updated: "2023-07-19"
+last_updated: "2023-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 16 de febrero de 2001.
 
@@ -69,23 +69,23 @@ V.- Presupuesto Participativo.
 
 Los principios rectores de la participación ciudadana son la libertad, la democracia, la corresponsabilidad, la solidaridad, el bien general, la subsidiariedad, la legalidad, la sustentabilidad y la equidad.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 3.
 
-La aplicación y ejecución de las normas contenidas en esta Ley, dentro de su respectivo ámbito de competencia, corresponden al: Poder Legislativo, Poder Ejecutivo, Ayuntamientos del Estado, Instituto Electoral y de Participación Ciudadana y al Tribunal de Justicia Electoral del Poder Judicial del Estado.
+La aplicación y ejecución de las normas contenidas en esta Ley, dentro de su respectivo ámbito de competencia, corresponden al: Poder Legislativo, Poder Ejecutivo, Ayuntamientos del Estado, Instituto Estatal Electoral y al Tribunal de Justicia Electoral de Baja California.
 
-Para el desempeño de sus funciones el Instituto Electoral y de Participación Ciudadana y el Tribunal de Justicia Electoral del Poder Judicial del Estado ejercerán aquellas atribuciones y facultades que les otorgan otras leyes, siempre que no se contrapongan a esta Ley.
+Para el desempeño de sus funciones el Instituto Estatal Electoral y el Tribunal de Justicia Electoral del Estado ejercerán aquellas atribuciones y facultades que les otorgan otras leyes, siempre que no se contrapongan a esta Ley.
 
 ###### Artículo 4.
 
 La interpretación de las disposiciones de esta Ley, se hará tomando en cuenta el objeto y los principios rectores de la participación ciudadana previstos en sus artículos 1 y 2, atendiendo indistintamente a los criterios gramatical, sistemático y funcional.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 5.
 
-A falta de disposición expresa en esta Ley, se estará a lo dispuesto en la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California, en los reglamentos municipales en el ámbito de su competencia, en los acuerdos del Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado dictados dentro de su competencia, los criterios obligatorios que dicte el Tribunal de Justicia Electoral del Poder Judicial del Estado y a los principios generales del derecho.
+A falta de disposición expresa en esta Ley, se estará a lo dispuesto en la Ley Electoral del Estado de Baja California, en los reglamentos municipales en el ámbito de su competencia, en los acuerdos del Consejo General del Instituto Estatal Electoral, dictados dentro de su competencia, los criterios obligatorios que dicte el Tribunal de Justicia Electoral de Baja California y los principios generales del derecho.
 
 ###### Artículo 6.
 
@@ -105,15 +105,17 @@ II.- Constitución del Estado: a la Constitución Política del Estado Libre y S
 
 III.- Ley: a la Ley de Participación Ciudadana del Estado de Baja California;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
-IV.- LlPE: a la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California;
+IV.- Ley Electoral: a la Ley Electoral del Estado de Baja California;
 
 V.- Reglamentos Municipales: a los reglamentos que en materia de participación ciudadana y vecinal expidan los ayuntamientos del Estado de Baja California;
 
 VI.- Estado: al Estado Libre y Soberano de Baja California;
 
-VII.- Gobernador: al Gobernador del Estado, depositario del ejercicio del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+VII.- Gobernadora o Gobernador: Persona Titular del Ejecutivo del Estado de Baja California;
 
 VIII.- Congreso del Estado: al Poder Legislativo del Estado de Baja California;
 
@@ -121,29 +123,31 @@ VIII.- Congreso del Estado: al Poder Legislativo del Estado de Baja California;
 
 IX.- Ayuntamientos: a los ayuntamientos de Mexicali, Tijuana, Ensenada, Tecate, Playas de Rosarito, San Quintín y San Felipe.
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
-X.- Instituto: al Instituto Electoral y de Participación Ciudadana del Estado de Baja California;
+X.- Instituto: al Instituto Estatal Electoral de Baja California;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
-XI.- Consejo General: al Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California;
+XI.- Consejo General: al Consejo General del Instituto Estatal Electoral de Baja California;
 
-XII.- Tribunal: al Tribunal de Justicia Electoral del Poder Judicial del Estado de Baja California;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+XII.- Tribunal: al Tribunal de Justicia Electoral de Baja California;
 
-XIII.- Padrón: al padrón electoral elaborado por el Instituto Federal Electoral en la parte correspondiente al Estado de Baja California;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+XIII.- Padrón: al padrón electoral elaborado por el Instituto Nacional Electoral en la parte correspondiente al Estado de Baja California;
 
-XIV.- Lista Nominal: la lista nominal con fotografía elaborada por el Instituto Federal Electoral en la parte correspondiente al Estado (sic) Baja California;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+XIV.- Lista Nominal: a la lista nominal con fotografía elaborada por el Instituto Nacional Electoral en la parte correspondiente al Estado de Baja California.
 
 XV.- Periódico Oficial: al Periódico Oficial del Estado de Baja California;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
-XVI.- Credencial para votar: la credencial para votar con fotografía expedida por el Instituto Federal Electoral;
+XVI.- Credencial para votar: la credencial para votar con fotografía expedida por el Instituto Nacional Electoral;
 
 > <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2011)</small>
 
@@ -213,7 +217,9 @@ Podrán solicitar el plebiscito:
 
 I.- El Congreso del Estado con la aprobación de cuando menos las dos terceras partes de sus integrantes;
 
-II.- El Gobernador;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+II.- La persona Titular del Ejecutivo Estatal;
 
 III.- Los Ayuntamientos, y
 
@@ -415,7 +421,9 @@ VI.- Las que determine la Constitución del Estado, y demás leyes.
 
 El referéndum constitucional puede ser solicitado por:
 
-I.- El Gobernador;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+I.- La persona Titular del Ejecutivo Estatal;
 
 II.- Los Ayuntamientos siempre que lo soliciten cuando menos dos de éstos, y
 
@@ -427,9 +435,11 @@ III.- Los ciudadanos que representen cuando menos el 1.5% de la Lista Nominal.
 
 La solicitud de referéndum constitucional, se deberá presentar ante el Instituto dentro de los treinta días hábiles siguientes a la publicación en el Periódico Oficial de la norma que se pretenda someter a consulta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 31.
 
-La solicitud de referéndum constitucional, que presente el Gobernador o los Ayuntamientos, deberá contener cuando menos:
+La solicitud de referéndum constitucional, que presente la persona Titular del Ejecutivo Estatal o los Ayuntamientos, deberá contener cuando menos:
 
 I.- Nombre de la autoridad que lo promueve. Tratándose de los Ayuntamientos se deberán adjuntar los acuerdos de cabildo en donde se apruebe la promoción del proceso de referéndum;
 
@@ -442,6 +452,8 @@ IV.- Autoridad de la que emana la materia del referéndum;
 V.- Exposición de motivos y razones por las cuales se considera necesario someter a referéndum la norma o normas, y
 
 VI.- Nombre y firma de la autoridad promovente, o en su caso, de quien tenga su representación.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
 La solicitud de referéndum legislativo deberá cumplir con los mismos requisitos.
 
@@ -461,15 +473,17 @@ IV.- Autoridad de la que emana la materia de referéndum;
 
 V.- Exposición de motivos por los cuales se considera necesario someter la norma o normas a referéndum, y
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
-VI.- Nombre, firma y clave de la credencial para votar de cada uno de los ciudadanos. El Instituto a través de su órgano directivo competente, y en los términos del convenio respectivo con el Instituto Federal Electoral, verificará los datos de las credenciales para votar.
+VI.- Nombre, firma y clave de la credencial para votar de cada uno de los ciudadanos. El Instituto a través de su órgano directivo competente, y en los términos del convenio respectivo con el Instituto Nacional Electoral, verificará los datos de las credenciales para votar.
 
 ###### Artículo 33.
 
 El referéndum legislativo puede ser solicitado por:
 
-I.- El Gobernador;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+I.- La persona Titular del Ejecutivo Estatal;
 
 II.- Dos o más Ayuntamientos, y
 
@@ -477,9 +491,11 @@ II.- Dos o más Ayuntamientos, y
 
 III.- Los ciudadanos que representen cuando menos el 0.5% de la Lista Nominal del Estado.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 34.
 
-La solicitud de referéndum legislativo que haga el Gobernador o los Ayuntamientos, la deberán presentar dentro de los quince días hábiles siguientes a la publicación en el Periódico Oficial de la norma o normas objeto de consulta. Si la solicitud corresponde a ciudadanos, el plazo será de 30 días.
+La solicitud de referéndum legislativo que haga la persona Titular del Ejecutivo Estatal o los Ayuntamientos, la deberán presentar dentro de los quince días hábiles siguientes a la publicación en el Periódico Oficial de la norma o normas objeto de consulta. Si la solicitud corresponde a ciudadanos, el plazo será de 30 días.
 
 ###### Artículo 35.
 
@@ -1078,3 +1094,9 @@ P.O. 19 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 263 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 5, 6, 9, Y 9 BIS; ASÍ COMO LA ADICIÓN DEL ARTÍCULO 6 BIS AL ESTATUTO TERRITORIAL DE LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA; ASÍ MISMO SE APRUEBA LA REFORMA AL ARTÍCULO 26 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA Y SE APRUEBA LA REFORMA AL ARTÍCULO 7 DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 2 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 288 MEDIANTE EL CUAL, SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 7, 21, 27 BIS, 33, 134, 139, 146, 168, 327, 328 Y 330 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; 6, 21 Y 43 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; 6, 7, 10, 12, 14 DE LA LEY DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA, COMO TAMBIÉN LA ADICIÓN DE UN CAPÍTULO IX BIS DENOMINADO “DEL ÓRGANO INTERNO DE CONTROL DEL TRIBUNAL” Y LA ADICIÓN DE LOS ARTÍCULOS 22 BIS Y 22 TER AL MISMO ORDENAMIENTO; LA ADICIÓN DE UN ARTÍCULO 4 BIS A LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LAS REFORMAS A LOS ARTÍCULOS 3, 5, 7, 14, 29, 31, 32, 33 Y 34 DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
