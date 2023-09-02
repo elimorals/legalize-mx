@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-tribunal-de-justicia-electoral-del-estado-de-baja-10883
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2018-06-09"
+last_updated: "2023-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -99,9 +99,11 @@ CAPTÍULO (SIC) III
 
 DEL PLENO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 6.
 
-El Pleno del Tribunal tendrá las siguientes atribuciones:
+El Pleno del Tribunal tendrá las siguientes atribuciones y obligaciones:
 
 > <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
@@ -109,7 +111,13 @@ I. Elegir de entre los Magistrados Electorales a más tardar la última semana d
 
 II. Designar, suspender, remover o cesar a propuesta del Presidente del Tribunal, al Secretario General de Acuerdos y al Titular de la Unidad Administrativa.
 
-III. Designar, suspender, remover o cesar a propuesta del Presidente del Tribunal o de alguno de los Magistrados, a los Secretarios de Estudio y Cuenta, Actuarios y demás personal jurídico del Tribunal.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+III. Designar, suspender, remover o cesar a propuesta de alguna de las Magistraturas del Tribunal, a las y los Actuarios, y demás personal jurídico del Tribunal.
+
+La designación suspensión, remoción o cese de las y los Secretarios de Estudio y Cuenta, las y los Secretarios Jurídicos Auxiliares y demás personal jurisdiccional y administrativo de cada magistratura a la que estén adscritos, solo podrá ser propuesta por ésta. Dicho personal deberá ser designado por el Pleno del Tribunal de no existir impedimento jurídico aplicable, y podrá ser suspendido, removido o cesado por el Pleno del Tribunal, según proceda.
+
+La persona Titular del Órgano Interno de Control, se sujetará a lo dispuesto en el artículo 22 BIS de la presente Ley, para su nombramiento, suspensión, remoción o cese, según corresponda.
 
 IV. Conceder o negar licencias por un plazo no mayor a tres meses, a los magistrados que lo soliciten.
 
@@ -123,19 +131,31 @@ VIII. Calificar y resolver sobre las excusas o impedimentos de los magistrados e
 
 IX. Aprobar lo relativo a los períodos vacacionales del Tribunal y el calendario oficial de los días de asueto.
 
-X. Conocer y resolver sobre la responsabilidad de los magistrados y servidores del Tribunal en los términos de lo que dispone la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
-XI. Imponer las sanciones administrativas que correspondan a los servidores del Tribunal por las irregularidades y faltas en que incurran en el desempeño de sus funciones.
+X. Conocer y resolver sobre la responsabilidad de las y los servidores del Tribunal en los términos de lo que dispone la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+XI. Imponer las sanciones administrativas que correspondan a las y los servidores del Tribunal, excepto a las Magistraturas, por las irregularidades y faltas en que incurran en el desempeño de sus funciones.
 
 XII. Formular denuncia o querella en contra de los magistrados electorales que aparecieren involucrados en fa (sic) comisión de algún delito, en los casos que proceda.
 
-XIII. Acordar sobre la privación en sus cargos de los magistrados electorales, previa resolución que al efecto emita el Senado de la República, en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Instituciones y Procedimientos Electorales y la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+XIII. (DEROGADA, P.O. 2 DE SEPTIEMBRE DE 2023)
 
 XIV. Acordar las iniciativas de leyes y decretos, así como su presentación ante el Congreso del Estado.
 
 XV. Aprobar y en su caso, modificar el Reglamento Interior del Tribunal con base en el proyecto que le presenten los magistrados electorales, así como expedir los acuerdos generales necesarios para su adecuado funcionamiento.
 
-XVI. Discutir y en su caso, aprobar el proyecto de Presupuesto de Egresos del Tribunal, y remitirlo a las autoridades correspondientes en los términos de la legislación aplicable, para los efectos conducentes.
+(NOTA: EL 20 DE FEBRERO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 198/2023 Y SU ACUMULADA 200/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE LA FRACCIÓN XVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE FEBRERO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+XVI. Discutir y en su caso, aprobar POR UNANIMIDAD el proyecto de Presupuesto de Egresos del Tribunal, y remitirlo a las autoridades correspondientes en los términos de la legislación aplicable, para los efectos conducentes.
+
+(NOTA: EL 20 DE FEBRERO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 198/2023 Y SU ACUMULADA 200/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN XVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE FEBRERO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+En caso de no lograrse su aprobación UNÁNIME, se remitirá como proyecto de Presupuesto de Egresos del Tribunal el que hubiere estado vigente el año anterior, con el ajuste inflacionario correspondiente. Tratándose de periodo electoral, se remitirá el proyecto de Presupuesto de Egresos del Tribunal vigente en el ejercicio inmediato anterior en que se celebraron elecciones.
 
 XVII. Acordar con el Presidente del Tribunal, el ejercicio del Presupuesto de Egresos del Tribunal, de conformidad a la legislación aplicable:
 
@@ -151,13 +171,19 @@ XXII. Celebrar convenios de colaboración con otros tribunales, instituciones y 
 
 XXIII. Las demás que esta Ley y el Reglamento Interior establezcan.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 7.
 
-Las sesiones de resolución del Pleno del Tribunal funcionando en única instancia, serán públicas.
+Las sesiones de resolución del Pleno del Tribunal funcionando en única instancia, serán públicas y se desarrollarán de forma presencial en el recinto establecido para tal efecto. El público interesado tendrá derecho de asistir y permanecer en la sesión con la única limitación de la capacidad de espacios disponibles.
 
-El Tribunal sesionará con la presencia de los tres magistrados electorales y sus resoluciones se adoptarán por unanimidad o mayoría de votos. Los magistrados no podrán abstenerse de votar, salvo que tengan excusa o impedimento legal.
+(NOTA: EL 20 DE FEBRERO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 198/2023 Y SU ACUMULADA 200/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE FEBRERO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Cuando un magistrado electoral disintiere de la mayoría o su proyecto fuera rechazado, podrá formular voto particular, el cual se insertará al final de la sentencia aprobada, siempre y cuando se presente antes de que sea firmada esta última.
+En caso de emergencia sanitaria o causa justificada, así decretadas por la autoridad competente, que imposibilite sesionar de manera segura en vivo y presencialmente, la presidencia previo acuerdo UNÁNIME del Pleno podrá convocar a sesión pública de resolución en su modalidad virtual con apoyo de los medios tecnológicos.
+
+El Tribunal sesionará con la presencia de las tres magistraturas electorales y sus resoluciones se adoptarán por unanimidad o mayoría de votos. Las Magistraturas no podrán abstenerse de votar, salvo que tenga excusa o impedimento legal.
+
+Cuando una magistratura electoral disintiere de la mayoría o su proyecto fuera rechazado, podrá formular voto particular, el cual se insertará al final de la sentencia aprobada, siempre y cuando se presente antes de que sea firmada esta última.
 
 ###### ARTÍCULO 8.
 
@@ -171,11 +197,11 @@ El Presidente del Tribunal, se elegirá por el Pleno, en los términos de la fra
 
 Para efectos de lo previsto en el párrafo anterior, en la sesión correspondiente, los magistrados presentarán sus propuestas respecto de quien ocupará la presidencia del Tribunal, resolviendo lo conducente.
 
-> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 10.
 
-El Presidente del Tribunal, tendrá las siguientes atribuciones:
+La Presidencia del Tribunal, tendrá las atribuciones y obligaciones siguientes:
 
 I. Representar al Tribunal, celebrar convenios, otorgar todo tipo de poderes y realizar los actos jurídicos y administrativos que se requieran para el buen funcionamiento del Tribunal.
 
@@ -183,17 +209,31 @@ II. Presidir el Tribunal y a la Comisión de Administración.
 
 III. Convocar a los demás magistrados electorales para el inicio de sus trabajos.
 
-IV. Convocar a los magistrados electorales del Tribunal, a sesiones públicas por lo menos con veinticuatro horas de anticipación, y a reuniones privadas; y tomar las medidas necesarias para coordinar las funciones jurisdiccionales y administrativas del mismo.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Convocar a las magistraturas electorales del Tribunal, a sesiones públicas de resolución y a reuniones privadas, por lo menos con setenta y dos horas de anticipación, y con veinticuatro horas de anticipación en caso de emergencia, debidamente justificada; y tomar las medidas necesarias para coordinar las funciones jurisdiccionales y administrativas del mismo.
 
 V. Conducir las sesiones, dirigir los debates y conservar el orden durante los mismos; cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo y la continuación de la sesión en privado.
 
 VI. Presidir y dirigir las sesiones del Pleno.
 
-VII. Acordar con los magistrados las propuestas de Secretarios de Estudio y Cuenta, Actuarios y demás personal jurídico; así como el Titular de la Unidad Administrativa que se autorice de conformidad al presupuesto.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Acordar con las magistraturas, la relación de las propuestas de Actuarios y demás personal jurídico, así como la propuesta de Titular de la Unidad Administrativa que se autorice de conformidad al presupuesto.
+
+La designación suspensión, remoción o cese de las y los Secretarios de Estudio y Cuenta, las y los Secretarios Jurídicos Auxiliares y demás personal jurisdiccional y administrativo de cada magistratura a la que estén adscritos, solo podrá ser propuesta por ésta. Dicho personal deberá ser designado por el Pleno del Tribunal de no existir impedimento jurídico aplicable, y podrá ser suspendido, removido o cesado por el Pleno del Tribunal, según proceda.
+
+La persona Titular del Órgano Interno de Control, se sujetará a lo dispuesto en el artículo 22 BIS de la presente Ley, para su nombramiento, suspensión, remoción o cese, según corresponda.
 
 VIII. Proponer al Pleno, al Secretario General de Acuerdos del Tribunal.
 
-IX. Proponer al Pleno cuando proceda, la suspensión, remoción o cese del Secretario General de Acuerdos, Secretarios de Estudio y Cuenta, Actuarios, personal jurídico del Tribunal y Titular de la Unidad Administrativa, y en su caso, recibir sus renuncias, turnándolas al Pleno para su conocimiento.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+IX. Proponer al Pleno cuando proceda, la suspensión, remoción o cese del Secretario General de Acuerdos; Actuarios, personal jurídico del Tribunal y Titular de la Unidad Administrativa, y en su caso, recibir sus renuncias, turnándolas al Pleno para su conocimiento.
+
+La suspensión, remoción o cese de las y los Secretarios de Estudio y Cuenta, las y los Secretarios Jurídicos Auxiliares y demás personal jurisdiccional y administrativo de cada magistratura a la que estén adscritos, solo podrá ser propuesta por ésta.
+
+La persona Titular del Órgano Interno de Control, se sujetará a lo dispuesto en el artículo 22 BIS de la presente Ley, para su suspensión, remoción o cese, según corresponda.
 
 X. Informar al Pleno las ausencias temporales o definitivas de los magistrados electorales y las excusas que le presenten.
 
@@ -247,7 +287,17 @@ XXXI. Acordar con los funcionarios administrativos los asuntos de su competencia
 
 XXXII. Acordar con el Pleno los lineamientos para selección, capacitación, designación y promoción del personal del Tribunal, considerando los principios de imparcialidad, objetividad y profesionalismo.
 
-XXXIII. Las demás que señale esta Ley y el Reglamento Interior.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+XXXIII. Disponer y vigilar que se hagan públicos los proyectos de resolución enlistados para resolverse, con veinticuatro horas de anticipación, salvaguardando los datos personales, según corresponda.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+XXXIV. Informar anualmente y publicitar de manera clara para acceso de la ciudadanía la cantidad y clave de identificación de las resoluciones del Tribunal confirmadas, revocadas y modificadas por el Tribunal Electoral del Poder Judicial de la Federación.
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+XXXV. Las demás que señale esta Ley y el Reglamento Interior del Tribunal de Justicia Electoral del Estado.
 
 ### CAPÍTULO V. DE LOS MAGISTRADOS Y SUS ATRIBUCIONES
 
@@ -255,11 +305,11 @@ XXXIII. Las demás que señale esta Ley y el Reglamento Interior.
 
 Los magistrados electorales del Tribunal, serán electos por la Cámara de Senadores de conformidad con lo previsto en Título Tercero del Libro Tercero de la Ley General de Instituciones y Procedimientos Electorales.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 12.
 
-Los magistrados electorales permanecerán en su encargo siete años. Si a la fecha en que concluya su nombramiento, el Senado aún no ha realizado la designación de que se trate, continuarán en su encargo hasta en tanto ésta sea efectuada.
+Las y los magistrados electorales permanecerán en su encargo siete años. En caso de presentarse una vacante definitiva, ésta será comunicada a la Cámara de Senadores para que se provea el procedimiento de sustitución; en tanto, la vacante será cubierta en términos de la fracción I del artículo 35 de esta Ley.
 
 El Congreso del Estado fijará en el presupuesto anual la remuneración de los magistrados del Tribunal en términos del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, la cual no podrá disminuirse durante el tiempo que dure su encargo.
 
@@ -289,7 +339,9 @@ VII. Discutir y votar los proyectos de resolución o sentencia que sean sometido
 
 VIII. Formular voto particular razonado, en caso de disentir de un proyecto de resolución aprobado por la mayoría, y solicitar se agregue al expediente.
 
-IX. Realizar los engroses de los fallos aprobados, cuando sean designados para tales efectos.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+IX. Realizar los engroses de los fallos aprobados, cuando sean designados para tales efectos, en un plazo no mayor a setenta y dos horas contadas a partir de que concluya la sesión de que se trate, si se está en proceso electoral, o de tres días hábiles posteriores a la sesión respectiva en periodo no electoral.
 
 X. Plantear la contradicción de criterios.
 
@@ -321,9 +373,17 @@ XX. Elaborar el Proyecto de Reglamento Interior del Tribunal y demás disposicio
 
 XXI. Solicitar al Magistrado Presidente del Tribunal la aplicación de los medios de apremio o las correcciones disciplinarias en los términos previstos en la Ley Electoral del Estado, cuando exista incumplimiento a los requerimientos que formulen en los expedientes jurisdiccionales correspondientes.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
-XXII. Las demás que sean necesarias para el correcto funcionamiento del Tribunal.
+XXII. Proponer al pleno la designación, suspensión remoción o cese de las y los Secretarios de Estudio y Cuenta, las y los Secretarios Jurídicos Auxiliares y demás personal jurisdiccional y administrativo de cada magistratura a la que estén adscritos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+XXIII. Acceder razonablemente a los expedientes, documentación e información que por razón del encargo tenga a su cuidado o custodia la magistratura instructora o ponente. En caso de que por la carga de trabajo no fuese posible el debido y directo acceso físico a dichos expedientes o elementos por el resto de las magistraturas, un integrante de la ponencia de la magistratura instructora o ponente en unión con otro de la magistratura que desea tener acceso, digitalizarán o fotocopiarán por partes dentro del Tribunal, las constancias y documentación relativa.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+XXIV. Las demás que sean necesarias para el correcto funcionamiento del Tribunal.
 
 ### CAPÍTULO VI. DEL SECRETARIO GENERAL DE ACUERDOS Y SUS ATRIBUCIONES
 
@@ -467,9 +527,51 @@ II. El cumplimiento de las obligaciones derivadas de las disposiciones en materi
 
 III. El cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del Tribunal.
 
-### CAPÍTULO X. DE LOS REQUISITOS PARA OCUPAR CARGOS EN EL TRIBUNAL DE JUSTICIA ELECTORAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
-### CAPÍTULO XI. DE LAS RESPONSABILIDADES, IMPEDIMENTOS Y EXCUSAS
+### CAPÍTULO IX BIS. DEL ÓRGANO INTERNO DE CONTROL DEL TRIBUNAL
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+ARTÍCULO 22 BIS.- El Tribunal contará con un Órgano Interno de Control, encargado en el ámbito de su competencia de la investigación, substanciación y calificación de las faltas administrativas, conforme a la normatividad aplicable en la materia.
+
+La persona titular será designada, suspendida, removida o cesada por unanimidad del Pleno, de la propuesta que hagan las magistraturas. Tratándose de la designación de éstos, en caso de no llegar a un conceso (sic) unánime sobre la misma, ésta se realizará por insaculación de entre la propuesta de cada magistratura.
+
+La persona Titular del Órgano Interno de Control tendrá las funciones siguientes:
+
+I. Resolver los procedimientos de responsabilidad administrativa en los términos previstos en la Ley.
+
+Tratándose de las magistraturas del Tribunal, la actuación del Órgano Interno de Control se sujetará a informar al Pleno sobre el resultado de su labor investigativa y de substanciación, para que, de estimarlo procedente conforme a derecho, éste dé vista al Senado de la República para los efectos a que jurídicamente haya lugar, sin que ello implique un prejuzgamiento o calificación de responsabilidad alguna del Órgano Interno de Control.
+
+II. Declarar cerrada la instrucción y citar a las partes para oír resolución;
+
+III. Recibir las quejas y denuncias que se presenten contra servidores públicos relativas al incumplimiento de las funciones o a las violaciones a las leyes y turnarlos (sic) a su área investigadora;
+
+IV. Recibir de todos los servidores públicos del Tribunal, las declaraciones de situación patrimonial y de intereses, en los términos previstos en la Ley General de Responsabilidades Administrativas y demás ordenamientos aplicables;
+
+V. Implementar, en su caso, los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas, en los términos establecidos por el Sistema Estatal Anticorrupción;
+
+VI. Revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos locales, en el ámbito de su competencia;
+
+VII. Promover, evaluar y fortalecer el buen funcionamiento del control interno en el Tribunal;
+
+VIII. Implementar acciones para orientar el criterio que en situaciones específicas deberán observar los servidores públicos en el desempeño de sus empleos, cargos o comisiones, en coordinación con el Sistema Estatal Anticorrupción, previo diagnóstico que al efecto realice;
+
+IX. Emitir los lineamientos para la implementación de las acciones a que se refiere la fracción anterior;
+
+X. Emitir el Código de Ética, conforme a los lineamientos que expida el Sistema Anticorrupción correspondiente;
+
+XI. Implementar mecanismos que faciliten la presentación de denuncias por presuntas faltas administrativas; y,
+
+XII. Las demás establecidas en la Ley General de Responsabilidades Administrativas y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+ARTÍCULO 22 TER.- El Órgano Interno de Control contará con las áreas y el personal que resulte necesario para el cumplimiento de sus funciones, conforme a lo dispuesto por la Ley General de Responsabilidades Administrativas y demás ordenamientos aplicables.
+
+Dicho personal estará adscrito directamente y bajo la orden del Titular del Órgano Interno de Control.
+
+### CAPÍTULO X. DE LOS REQUISITOS PARA OCUPAR CARGOS EN EL TRIBUNAL DE JUSTICIA ELECTORAL
 
 ###### ARTÍCULO 23.
 
@@ -565,7 +667,7 @@ El Presidente del Tribunal, a propuesta de la Comisión de Administración, podr
 
 La Comisión de Administración, podrá autorizar la contratación con carácter de eventual, del personal necesario cuando las cargas de trabajo extraordinario del Tribunal lo exijan, de conformidad con las partidas autorizadas en su Presupuesto.
 
-### CAPÍTULO XII. DE LAS CONDICIONES DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL TRIBUNAL
+### CAPÍTULO XI. DE LAS RESPONSABILIDADES, IMPEDIMENTOS Y EXCUSAS
 
 ###### ARTÍCULO 29.
 
@@ -583,7 +685,7 @@ El Pleno del Tribunal, calificará y resolverá de inmediato la excusa, de confo
 
 Asimismo, al Secretario General de Acuerdos y a los Secretarios de Estudio y Cuenta del Tribunal, les será aplicable en lo conducente, lo dispuesto en la primera parte del párrafo primero de este artículo.
 
-### CAPÍTULO XIII. DE LAS RENUNCIAS, AUSENCIAS Y LICENCIAS
+### CAPÍTULO XII. DE LAS CONDICIONES DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL TRIBUNAL
 
 ###### ARTÍCULO 32.
 
@@ -637,7 +739,7 @@ Los servidores públicos del Tribunal, estarán obligados a prestar sus servicio
 
 Durante los procesos electorales locales, podrá preverse en el Presupuesto de Egresos compensaciones para los servidores públicos del Tribunal.
 
-### CAPÍTULO XIV. DEL ARCHIVO JURISDICCIONAL
+### CAPÍTULO XIII. DE LAS RENUNCIAS, AUSENCIAS Y LICENCIAS
 
 ###### ARTÍCULO 35.
 
@@ -731,7 +833,7 @@ En caso de que los servidores del Tribunal dejaren de asistir a sus labores, por
 
 Las licencias se concederán a los servidores públicos del Tribunal, tomando en consideración que durante los procesos electorales todos los días y las horas son hábiles.
 
-### CAPÍTULO XV. DE LA UNIDAD DE TRANSPARENCIA
+### CAPÍTULO XIV. DEL ARCHIVO JURISDICCIONAL
 
 ###### ARTÍCULO 49.
 
@@ -745,7 +847,7 @@ Una vez concluido el plazo a que se refiere el artículo anterior el Tribunal po
 
 Asimismo, deberá conservar los expedientes que determine como archivo histórico.
 
-### CAPÍTULO XVI. DE LOS CRITERIOS OBLIGATORIOS
+### CAPÍTULO XV. DE LA UNIDAD DE TRANSPARENCIA
 
 ###### ARTÍCULO 51.
 
@@ -753,7 +855,7 @@ El Tribunal contará con una Unidad de Transparencia para ejercer las funciones 
 
 Dicha unidad funcionará conforme a lo previsto en el Reglamento Interior del Tribunal."
 
-### CAPÍTULO XVII. DE LA PROTESTA CONSTITUCIONAL
+### CAPÍTULO XVI. DE LOS CRITERIOS OBLIGATORIOS
 
 ###### ARTÍCULO 52.
 
@@ -763,7 +865,7 @@ El carácter de obligatoriedad se perderá cuando se pronuncie una sentencia en 
 
 En el supuesto del párrafo primero de este artículo, los criterios obligatorios que se adopten requerirán de la declaratoria respectiva, y se ordenará por parte del Tribunal, su publicación en el Periódico Oficial del Estado.
 
-### CAPÍTULO XVIII. DE LOS SERVIDORES PÚBLICOS DEL TRIBUNAL
+### CAPÍTULO XVII. DE LA PROTESTA CONSTITUCIONAL
 
 ###### ARTÍCULO 53.
 
@@ -788,6 +890,8 @@ La protesta de Ley de los Servidores Públicos del Tribunal, se rendirá ante qu
 El interesado responderá: "Sí, protesto"
 
 La autoridad que tome la protesta añadirá: "Si no lo hicieres así, la Nación y el Estado de Baja California os lo demanden".
+
+### CAPÍTULO XVIII. DE LOS SERVIDORES PÚBLICOS DEL TRIBUNAL
 
 ###### ARTÍCULO 56.
 
@@ -854,3 +958,13 @@ P.O. 9 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 244 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 8, 9, 10, 14, 25, 28, 29, 30, 34, 36, 39, 51 Y 61 DE LA LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA; A LOS ARTÍCULOS 3, 4, 5, 8, 9, 12, 16, 19, 20, 23, 26, 37, 40, 42, 48, 49, 54, 55, 63 Y 65 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; A LOS ARTÍCULOS 8, 21, 30, 31, 32, ADICIÓN DEL 122 BIS, 136, 144, 149, 169, 263, 265, 270, 283, 285, 292, 329, 331, 374 Y 381 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA ADICIÓN DEL ARTÍCULO 9 TER, A LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA; LA REFORMA DE LOS ARTÍCULOS 10, 12, 14, 15, 25 Y 26 DE LA LEY DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA ADICIÓN DEL TÍTULO DÉCIMO PRIMERO DENOMINADO “DE LA OBLIGACIÓN DE IMPARCIALIDAD EN EL PROCESO ELECTORAL", ASÍ COMO LOS ARTÍCULOS 174, 175, 176, 177 Y 178, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 288 MEDIANTE EL CUAL, SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 7, 21, 27 BIS, 33, 134, 139, 146, 168, 327, 328 Y 330 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; 6, 21 Y 43 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; 6, 7, 10, 12, 14 DE LA LEY DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA, COMO TAMBIÉN LA ADICIÓN DE UN CAPÍTULO IX BIS DENOMINADO "DEL ÓRGANO INTERNO DE CONTROL DEL TRIBUNAL" Y LA ADICIÓN DE LOS ARTÍCULOS 22 BIS Y 22 TER AL MISMO ORDENAMIENTO; LA ADICIÓN DE UN ARTÍCULO 4 BIS A LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LAS REFORMAS A LOS ARTÍCULOS 3, 5, 7, 14, 29, 31, 32, 33 Y 34 DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO. La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO. El Tribunal de Justicia Electoral del Estado de Baja California deberá realizar las adecuaciones reglamentarias necesarias en concordancia con el presente Decreto, antes del inicio del proceso electoral local de 2023-2024.
+
+TERCERO. El Órgano Interno de Control del Tribunal y el personal adscrito a dicha área, estará (sic) sujetos a la disponibilidad presupuestal correspondiente.
