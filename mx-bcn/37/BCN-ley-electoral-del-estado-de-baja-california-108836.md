@@ -4,7 +4,7 @@ identifier: "BCN-ley-electoral-del-estado-de-baja-california-108836"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2023-07-19"
+last_updated: "2023-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -148,6 +148,14 @@ Los Notarios Públicos del Estado auxiliarán a las autoridades electorales en f
 ###### Artículo 7.
 
 La interpretación de las disposiciones de esta Ley, se hará tomando en cuenta los fines que señala el artículo 1 y atendiendo indistintamente a los criterios gramatical, sistemático y funcional, observando lo dispuesto en el último párrafo del artículo 14 de la Constitución Federal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+Las sanciones administrativas o jurisdiccionales en materia electoral deben ser aplicadas bajo el principio de estricto derecho. No podrán imponerse por simple analogía o por mayoría de razón.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+Las autoridades electorales, administrativas y jurisdiccionales, no podrán condicionar el ejercicio de derechos o prerrogativas político-electorales de la ciudadanía solicitando mayores requisitos que los que expresamente determinan la Constitución y esta ley.
 
 > <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
 
@@ -299,9 +307,11 @@ Para efecto de lo previsto en el artículo 16, párrafo quinto de la Constituci�
 
 Cuando un diputado no pueda contender por el mismo distrito por el que accedió al cargo o su equivalente, podrá participar en la reelección, ya sea por el principio de mayoría relativa por cualquier demarcación territorial que conserve por lo menos una sección electoral del distrito por el que fue electo o por el principio de representación proporcional.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
+(NOTA: EL 20 DE FEBRERO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 198/2023 Y SU ACUMULADA 200/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE FEBRERO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-El Instituto Estatal Electoral del Estado de Baja California debe constatar que las postulaciones permiten el cumplimiento del principio de paridad de género y el principio de igualdad sustantiva.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+El Instituto Estatal Electoral del Estado de Baja California debe constatar que las postulaciones permiten el cumplimiento del principio de paridad de género y el principio de igualdad sustantiva. LAS AUTORIDADES ELECTORALES SÓLO PODRÁN INTERVENIR EN LOS ASUNTOS INTERNOS DE LOS PARTIDOS POLÍTICOS PARA EFECTO DE REPOSICIÓN DE PROCEDIMIENTOS POR VIOLACIONES A LA CONSTITUCIÓN FEDERAL, A SU NORMATIVA INTERNA O A DERECHOS DE LA CIUDADANÍA. EN NINGÚN CASO PODRÁN RESOLVER NOMBRANDO DIRIGENTES Y CANDIDATOS O DETERMINANDO CUALQUIER ACTO QUE INTERFIERA INJUSTIFICADAMENTE EN FORMA DIRECTA EN LAS DECISIONES DE LA VIDA INTERNA DE LOS PARTIDOS.
 
 > <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE JUNIO DE 2018)</small>
 
@@ -399,9 +409,13 @@ VI. En caso de que la asignación recaiga en quien este inhabilitado o no reúna
 
 Las vacantes de propietarios de Diputados por el principio de representación proporcional, deberá (sic) ser cubiertas por los suplentes de la fórmula respectiva. Si la vacante se presenta respecto de la fórmula completa será cubierta por aquella fórmula del mismo partido que sigue en el orden de la lista que para efectos de asignación haya elaborado el Consejo General.
 
-> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
-Artículo 27 BIS.- El Consejo General integrará un sistema de listas, una para mujeres y otra para hombres respecto a las candidatas y candidatos que se encuentren en el supuesto del artículo anterior. La asignación de diputaciones por este principio se hará de manera alternada garantizando en todo momento la paridad de género.
+###### Artículo 27 Bis.
+
+El Consejo General integrará un sistema de listas, una para mujeres y otra para hombres respecto a las candidatas y candidatos que se encuentren en el supuesto del artículo anterior. La asignación de diputaciones por el principio de representación se hará de manera alternada garantizando en todo momento la paridad de género.
+
+La primera asignación, según el partido político de que se trate, iniciará con el género femenino o masculino con mayor porcentaje de votación válida en el distrito, a que se refiere el artículo anterior.
 
 ## TÍTULO TERCERO. Del Poder Ejecutivo
 
@@ -534,6 +548,10 @@ Las vacantes de propietarios de munícipes por el principio de representación p
 El Instituto Estatal Electoral es un organismo público, autónomo en su funcionamiento e independiente en sus decisiones, de carácter permanente, con personalidad jurídica y patrimonio propio. Se regirá en su organización, funcionamiento y control, por las disposiciones contenidas en la Constitución del Estado, en la Ley General y en esta Ley.
 
 El Instituto, es depositario de la autoridad electoral y responsable del ejercicio de la función pública de organizar las elecciones, así como los procesos de plebiscito, referéndum y consulta popular, en los términos de la Ley de la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+El Instituto administrará los recursos públicos a su cargo con austeridad y conforme a los principios de eficiencia, eficacia, economía, transparencia y honradez y de acuerdo con los criterios establecidos en el artículo 134 de la Constitución Federal. Para ello, está obligado a cumplir lo dispuesto en las Leyes aplicables en materia de adquisiciones, arrendamientos y servicios, y en materia de obras públicas, equipamientos, suministros y servicios.
 
 ###### Artículo 34.
 
@@ -1871,9 +1889,17 @@ Para ser candidato a Gobernador del Estado, se deberán reunir los requisitos qu
 
 Son impedimentos para ocupar los cargos de Gobernador, munícipes o diputados, además de los que en forma específica se señalen para cada caso de ellos en la Constitución Federal y en la Constitución del Estado, los siguientes:
 
-I. Ser Consejero Electoral o funcionario electoral del Instituto Estatal o del Instituto Nacional, Magistrado o Secretario del Tribunal Electoral, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate, y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
-II. Ser Magistrado o Secretario del Tribunal Electoral del Poder Judicial de la Federación, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate.
+I. Ser Consejero Electoral o funcionario electoral del Instituto Estatal o del Instituto Nacional, Magistrado o Secretario del Tribunal Electoral, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+II. Ser Magistrado o Secretario del Tribunal Electoral del Poder Judicial de la Federación, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+III. Tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; o que las declare como persona deudora alimentaria morosa.
 
 ### CAPÍTULO SEGUNDO. Del procedimiento de registro de candidatos
 
@@ -1911,11 +1937,15 @@ En el caso de que para un mismo cargo de elección popular sean registrados dife
 
 Ningún partido político o coalición podrá solicitar el registro como candidato a un cargo de elección popular, a aquel ciudadano que previamente hubiera sido solicitado su registro por otro partido político o coalición.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 139.
 
-Los partidos políticos promoverán y garantizan (sic) la paridad entre los géneros, así como el principio de igualdad sustantiva, en la postulación de candidatos a los cargos de elección popular para la integración del Congreso y Ayuntamientos del Estado.
+Los partidos políticos promoverán y garantizarán la paridad entre los géneros, así como el principio de igualdad sustantiva, en la postulación de candidatos a los cargos de elección popular para la integración del Congreso y Ayuntamientos del Estado.
+
+(NOTA: EL 20 DE FEBRERO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS QUINTO Y SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 198/2023 Y SU ACUMULADA 200/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Además, conforme a los lineamientos que expida la autoridad electoral los partidos políticos deberán incluir entre las candidaturas descritas en el párrafo anterior, al menos una fórmula de las siguientes poblaciones de atención prioritaria: personas jóvenes de entre 18 a 29 años de edad; personas de la diversidad sexual y de género, Y PERSONAS CON DISCAPACIDAD.
 
 El Consejo General tendrá facultades para rechazar el registro del número de candidaturas de un género que exceda la paridad, fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
 
@@ -2017,9 +2047,21 @@ IV. Constancia de residencia expedida por la autoridad municipal competente, y
 
 V. Certificado de nacionalidad mexicana expedido por autoridad federal competente, en el caso de mexicanos nacidos en el extranjero.
 
-VI. Escrito mediante el cual se compromete a registrar por lo menos con quince días de anticipación a la celebración de la jornada electoral, sus compromisos de campaña ante el Instituto Estatal, y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
-VII. Escrito mediante el cual se compromete a presentar el examen para la detección de drogas de abuso, de conformidad con el artículo 5 de la Constitución del Estado. El Instituto Estatal Ciudadana (sic) celebrará convenio con alguna institución de Salud Pública en el Estado para practicar estos exámenes.
+VI. Escrito mediante el cual se compromete a registrar por lo menos con quince días de anticipación a la celebración de la jornada electoral, sus compromisos de campaña ante el Instituto Estatal;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Escrito mediante el cual se compromete a presentar el examen para la detección de drogas de abuso, de conformidad con el artículo 5 de la Constitución del Estado. El Instituto Estatal Ciudadana (sic) celebrará convenio con alguna institución de Salud Pública en el Estado para practicar estos exámenes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. Escrito mediante el cual manifiesta bajo protesta de decir verdad no tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, o que las declare como persona deudora alimentaria morosa; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+IX. Certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias.
 
 ###### Artículo 147.
 
@@ -2241,15 +2283,23 @@ Los partidos políticos, coaliciones o candidatos denunciarán al Consejo Genera
 
 Los particulares que de manera indebida destruyan propaganda electoral serán sancionados conforme a las disposiciones legales correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 168.
 
-Los candidatos a los cargos de elección popular deberán participar en los debates públicos, que organice el Instituto Electoral, bajo los lineamientos y directrices que determine el Consejo General.
+El Instituto Estatal bajo los lineamientos y directrices que determine el Consejo General promoverá y organizará debates públicos entre las personas candidatas a los cargos de elección popular.
 
 Los debates tendrán por objeto el contenido de las respectivas plataformas, que hayan registrado los partidos políticos, coaliciones y Candidatos Independientes.
 
-En la elección de Gobernador se deberá realizar por lo menos un debate obligatorio entre todos los candidatos a ese cargo, el Consejo General definirá las reglas, fechas y sede, respetando el principio de equidad entre los candidatos y escuchando previamente la opinión de los partidos políticos y candidatos independientes.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
-El Instituto dispondrá lo necesario para la producción técnica y difusión de los debates. En la disposición de la (sic) señales de radio y televisión se estará a lo dispuesto en los párrafos 4 y 5 del artículo 218 de la Ley General.
+El Consejo General definirá las reglas, fechas y sede de los debates, respetando el principio de equidad entre las y los candidatos y escuchando previamente la opinión de los partidos políticos y candidaturas independientes.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+El Instituto dispondrá lo necesario para la producción técnica y difusión de los debates. En la disposición de las señales de radio y televisión se estará a lo dispuesto en los párrafos 4 y 5 del artículo 218 de la Ley General.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
 El Instituto informará a la sociedad, en el tiempo de radio y televisión asignado para sus fines, la realización de los debates a que se refiere el presente artículo.
 
@@ -3941,27 +3991,37 @@ I. Una vez recibido por el Tribunal Electoral, será turnado de inmediato a un M
 
 II. En los casos en que el promovente haya indicado que presentará pruebas dentro del plazo de interposición del recurso, se reservará la admisión del mismo, hasta la presentación de las señaladas o el vencimiento del plazo;
 
-III. Si de la revisión que realice el Magistrado encuentra que el recurso encuadra en alguna de las causas de improcedencia, someterá a la consideración del Pleno del Tribunal Electoral el acuerdo correspondiente;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+III. Si de la revisión que realice la Magistratura encuentra que el recurso encuadra en alguna de las causas de improcedencia, someterá a la consideración del Pleno del Tribunal Electoral el acuerdo plenario de desechamiento correspondiente a más tardar cuarenta y ocho horas antes de celebrarse la sesión pública de resolución respectiva;
 
 IV. En cuanto al informe circunstanciado, si la autoridad no lo envía dentro del plazo señalado en esta ley, el medio de impugnación se resolverá con los elementos a que se refiere el artículo 291 del ordenamiento, y que obren en autos; lo anterior, sin perjuicio de la sanción que deba ser impuesta de conformidad con el presente ordenamiento y las leyes aplicables;
 
 V. Si el medio de impugnación reúne todos los requisitos establecidos por este ordenamiento, el Magistrado dictará el auto de admisión que corresponda; una vez sustanciado el expediente se declarará cerrada la instrucción pasando el asunto a sentencia. En estos casos, se ordenará fijar copia de los autos respectivos en los estrados, y
 
-VI. Cerrada la instrucción, el Magistrado procederá a formular el proyecto de sentencia de sobreseimiento o de fondo, según sea el caso, y lo someterá a la consideración del Pleno del Tribunal.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Cerrada la instrucción, la Magistratura ponente procederá a formular el proyecto de sentencia de sobreseimiento o de fondo, según sea el caso, y lo someterá a la consideración del Pleno del Tribunal, a más tardar cuarenta y ocho horas antes de celebrarse la sesión pública de resolución respectiva.
+
+(NOTA: EL 20 DE FEBRERO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 198/2023 Y SU ACUMULADA 200/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE FEBRERO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 328.
 
-Las sesiones de resolución del Pleno del Tribunal serán públicas, y en ellas se discutirán los asuntos en el orden en que se hayan listado, de acuerdo con el procedimiento siguiente:
+Las sesiones de resolución del Pleno del Tribunal serán públicas y se desarrollarán de forma presencial en el recinto establecido para ello. En caso de emergencia sanitaria o causa justificada, así decretadas por la autoridad competente, que imposibilite sesionar de manera segura, en vivo y presencialmente, la presidencia previo acuerdo UNÁNIME del Pleno podrá convocar a sesión pública de resolución en su modalidad virtual, con apoyo de los medios tecnológicos.
 
-I. El Magistrado ponente presentará el caso y el sentido de la resolución, señalando las consideraciones jurídicas y los preceptos en que la funda;
+En las sesiones públicas de resolución se discutirán los asuntos en el orden en que se hayan listado, de acuerdo con el procedimiento siguiente:
 
-II. Los Magistrados podrán discutir el proyecto en turno;
+I. La Secretaría General de Acuerdos dará cuenta de los asuntos enlistados para resolución;
 
-III. Cuando el Presidente del Tribunal Electoral lo considere suficientemente discutido, lo someterá a votación, y
+II. La Magistratura ponente por su conducto o de su Secretariado de Estudio y Cuenta, o de la Secretaría General de Acuerdos, presentará el caso y el sentido del proyecto de resolución, señalando las consideraciones jurídicas y los preceptos en que la funda;
 
-IV. Los Magistrados podrán presentar voto particular que se agregará al expediente.
+III. Las Magistraturas podrán discutir en igualdad de participación el proyecto de resolución en turno; y,
 
-Solamente en casos extraordinarios, el Tribunal Electoral podrá diferir la resolución de un asunto listado.
+IV. Las y Los Magistrados podrán presentar voto particular que se agregará al expediente.
+
+Solamente en casos extraordinarios, debidamente justificados, el Tribunal Electoral podrá diferir la resolución de un asunto listado.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
 
@@ -3988,6 +4048,10 @@ IV. Fundamentos jurídicos;
 V. Puntos resolutivos, y
 
 VI. En su caso, el plazo para su cumplimiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+En los casos relacionados con derechos de pueblos, comunidades y personas indígenas y afromexicanas, el Tribunal deberá juzgar con perspectiva intercultural conforme a la Constitución Federal, los instrumentos internacionales de los que México es parte y la Jurisprudencia aplicable de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación y de la Suprema Corte de Justicia de la Nación. El Tribunal también estará obligado a juzgar con perspectiva de género.
 
 ###### Artículo 331.
 
@@ -5282,3 +5346,13 @@ P.O. 19 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 262 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1, 3, 21, 30, 37, 139, 141, 151, 338 Y 339, DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA, COMO TAMBIÉN LA ADICIÓN DE UN ARTÍCULO 140 BIS AL MISMO ORDENAMIENTO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 288 MEDIANTE EL CUAL, SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 7, 21, 27 BIS, 33, 134, 139, 146, 168, 327, 328 Y 330 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; 6, 21 Y 43 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; 6, 7, 10, 12, 14 DE LA LEY DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA, COMO TAMBIÉN LA ADICIÓN DE UN CAPÍTULO IX BIS DENOMINADO “DEL ÓRGANO INTERNO DE CONTROL DEL TRIBUNAL” Y LA ADICIÓN DE LOS ARTÍCULOS 22 BIS Y 22 TER AL MISMO ORDENAMIENTO; LA ADICIÓN DE UN ARTÍCULO 4 BIS A LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LAS REFORMAS A LOS ARTÍCULOS 3, 5, 7, 14, 29, 31, 32, 33 Y 34 DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Tribunal de Justicia Electoral del Estado de Baja California deberá realizar las adecuaciones reglamentarias necesarias en concordancia con el presente Decreto, antes del inicio del proceso electoral local de 2023-2024.
+
+TERCERO.- El requisito al que se hace referencia en el artículo 146, fracción IX de la Ley Electoral del Estado de Baja California, relativo a contar con el certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias, solo será exigible hasta que se implemente dicho registro a nivel nacional.
