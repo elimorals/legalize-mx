@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "2023-06-10"
+last_updated: "2023-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -84,13 +84,15 @@ Las participaciones e incentivos federales y estatales que correspondan a los mu
 
 El Fondo Municipal de Participaciones se integrará con los recursos que perciba el Estado procedentes del Fondo General de Participaciones, de la recaudación del Impuesto Especial sobre Producción y Servicios y del Impuesto sobre Automóviles Nuevos y del Fondo de Compensación del Impuesto sobre Automóviles Nuevos; así mismo del Fondo de Fomento Municipal, en los términos de la Ley Federal de Coordinación Fiscal, por los ingresos estatales derivados de los Impuestos sobre Nóminas, y Hospedaje.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 5°.
 
-De las cantidades que perciba el Estado, incluyendo sus incrementos, en cada ejercicio fiscal, por concepto de participaciones federales previstas en la Ley de Coordinación Fiscal Federal, así como los ingresos Estatales derivados de los Impuestos sobre Nóminas y Hospedaje e incentivos, los Municipios recibirán:
+De las cantidades que perciba el Estado, incluyendo sus incrementos, en cada ejercicio fiscal, por concepto de participaciones federales previstas en la Ley de Coordinación Fiscal Federal, así como los ingresos Estatales derivados de los Impuestos sobre Nóminas y Hospedaje los Municipios recibirán:
 
-I. El 22% del total de las percepciones que obtenga el Estado correspondientes al fondo general de participaciones;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+I. El 23% del total de las percepciones que obtengan (sic) el Estado correspondientes al Fondo General de Participaciones;
 
 II. El 100% de lo que reciba el estado del fondo de fomento municipal en forma directa;
 
@@ -140,55 +142,49 @@ El importe que se forme con los porcentajes señalados se distribuirá entre los
 
 Los Municipios recibirán y manejarán los recursos transferidos por el Estado mediante cuentas bancarias específicas para cada Fondo a efecto de transparentar y facilitar la fiscalización en su aplicación.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN P.O. DE 15 DE SEPTIEMBRE DE 2022, PÁGINAS DE LA 3 A LA 4.]</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 7°.
 
 El factor que a cada Municipio corresponda en el Fondo Municipal de Participaciones, se determinará conforme a las siguientes bases:
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 15 DE SEPTIEMBRE DE 2022)</small>
-
 I. De los ingresos federales.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 15 DE SEPTIEMBRE DE 2022)</small>
-
-Se aplicarán los siguientes criterios y parámetros:
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2019)</small>
+A. Del 22% se aplicarán los siguientes criterios y parámetros:
 
 1) Se garantizarán a los Municipios los recursos entregados en el año 2013 en los porcentajes correspondientes, y en los términos establecidos en la Ley de Coordinación Fiscal, salvo en el caso del Fondo de Compensación del Impuesto sobre Automóviles Nuevos y de la conformación de un nuevo Municipio; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2014)</small>
-
 2) De las cantidades que el Estado reciba en exceso, respecto del monto determinado en el numeral anterior, se distribuirán entre los Municipios de conformidad con los coeficientes que se determinen tomando los siguientes parámetros:
 
-a) 45% en proporción al número de habitantes de cada Municipio en relación al total estatal. El número de habitantes de cada Municipio se tomará de la última información oficial que dé a conocer el Instituto Nacional de Estadística, Geografía e Informática.
+a) 45% en proporción al número de habitantes de cada Municipio en relación al total estatal. El número de habitantes de cada Municipio se tomará de la última información oficial que dé a conocer el Instituto Nacional de Estadística, Geografía e Informática;
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
-
-b) 20% en proporción a lo que perciban de participaciones y aportaciones federales;
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+b) 20% en proporción a lo que perciben de participaciones y aportaciones federales;
 
 c) 20% en función a su propia recaudación, es decir, lo que perciban por concepto de contribuciones municipales;
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
-
-d) 10% por número de localidades y la extensión territorial en función de la totalidad de ellos, y
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2022)</small>
+d) 10% por número de localidades y la extensión territorial en función de la totalidad de ellos; y
 
 e) 5% en proporción al índice de marginación, según la última información oficial que dé a conocer el Consejo Nacional de Población, o la Institución responsable de medir la marginación en el país. El cual se deberá obtener ejecutando la siguiente formula:
 
-> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 15 DE SEPTIEMBRE DE 2022, PÁGINAS DE LA 3 A LA 4.]</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 2 DE SEPTIEMBRE DE 2023, PÁGINA 4.]</small>
+
+B. El 1% adicional para llegar al 23% se distribuirá de la siguiente manera:
+
+1. El primer 0.8% se distribuirá considerando el índice de marginación correspondiente a cada municipio de acuerdo a la última información oficial que dé a conocer el Consejo Nacional de Población o la Institución responsable de medir la marginación en el país, aplicando la fórmula señalada en el inciso e), numeral 2, de este artículo.
+
+2. El 0.2% restante se distribuirá considerando los índices de personas en pobreza extrema, así como el índice de carencias promedio de personas en pobreza extrema correspondiente a cada municipio de acuerdo a la última información oficial que dé a conocer el Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL) o la Institución responsable de la medición multidimensional de pobreza a nivel nacional y entidades federativas, aplicando la siguiente fórmula:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 2 DE SEPTIEMBRE DE 2023, PÁGINA 5.]</small>
+
+El 1% a que se refiere este apartado se destinará preferentemente para el combate a la marginación y pobreza en los municipios. En consideración al principio de máxima publicidad, se solicita a los Municipios informen al Congreso del Estado los programas operativos que implementaron para el combate a la marginación y la pobreza.
+
+En el caso de que el Congreso del Estado apruebe la creación de nuevos municipios, la garantía señalada en el numeral 1) de esta fracción, se dividirá de manera proporcional a los habitantes que conformen cada municipio resultante de la división.
 
 II. De los impuestos estatales.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
-
 Por los porcentajes descritos en el artículo 5° fracción VI, que se generen en cada jurisdicción.
 
-Los factores de participación que conforme a las bases anteriores resulten, se revisarán, modificarán y aprobarán anualmente por el Congreso del Estado. En tanto dichos factores no se actualicen, el Congreso del Estado autorizará que se sigan aplicando las que correspondan al año inmediato anterior, a cada municipio.
+Los factores de participación que conforme a las bases anteriores resulten, se revisarán, modificarán y aprobarán anualmente por el Congreso del Estado. En tanto dichos factores no se actualicen, el Congreso del Estado autorizará se sigan aplicando las que correspondan al año inmediato anterior, a cada Municipio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
@@ -817,3 +813,9 @@ La asignación de personal que integre el Servicio Estatal Tributario de Jalisco
 ###### ARTÍCULO DÉCIMO TERCERO.
 
 Las personas servidoras públicas de base que se encuentran prestando servicios en la Subsecretaría de Ingresos, cuyas atribuciones sean asumidas por el Servicio Estatal Tributario de Jalisco a la entrada en vigor del presente decreto, en ninguna forma resultarán afectados en los derechos adquiridos con motivo de su relación laboral, conservando ante su transición al nuevo órgano desconcentrado la misma calidad, sus derechos en los términos de la normatividad aplicable, subrogándose al Servicio Estatal Tributario de Jalisco, como nuevo empleador en todos los derechos y obligaciones derivados de esa relación laboral y aquellos consagrados en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria, o en las Condiciones Generales de Trabajo establecidas en las condiciones generales de trabajo.
+
+P.O. 2 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29241/LXIII/23 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 5 Y 7 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS".]
+
+ÚNICO. Para la elaboración de coeficientes de distribución para el ejercicio fiscal 2024 el presente Decreto entrara en vigor al día siguiente de su publicación. El resto de las disposiciones aprobadas surtirán efectos a partir del 01 de enero de 2024.
