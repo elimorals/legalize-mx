@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-los-derechos-de-las-personas-104529"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2023-03-18"
+last_updated: "2023-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de diciembre de 2014.
 
@@ -173,7 +173,11 @@ I.- La violencia psicológica o emocional. Es cualquier acto u omisión que dañ
 
 II.- La violencia física. Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar lesiones ya sean internas, externas o ambas;
 
-III.- La violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la persona adulta mayor. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la persona adulta mayor; hecha excepción de que medie acto de autoridad fundado o motivado;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+III.- La violencia patrimonial. Cualquier acto u omisión que menoscabe los bienes materiales de la persona adulta mayor. Se manifiesta en la sustracción, destrucción, retención o disposición de bienes muebles, inmuebles, los frutos de estos, salarios, pensiones, recursos económicos, fondos, así como el ocultamiento y retención de los documentos personales que le limitan o impiden ejercer sus derechos patrimoniales.
+
+Este tipo de violencia también se puede dar como un condicionamiento de los recursos necesarios para la supervivencia o sustento de la persona adulta mayor.
 
 IV.- La violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la persona adulta mayor. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
@@ -185,7 +189,15 @@ V.- La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sex
 
 VI.- Violencia Familiar. Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir dentro de los tipos de violencia descritos en las fracciones I, II, III, IV y V del presente artículo, a los adultos mayores, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, noviazgo o mantenga o haya mantenido una relación análoga con la víctima, y;
 
-VII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las personas adultas mayores.
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+VII.- Violencia en el ámbito institucional. Son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno, que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las personas adultas mayores, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia. Incluye la negación a recibir tratamientos médicos, créditos, trabajo o educación por razones de edad;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+VIII.- Violencia en instituciones de cuidado prolongado o larga estadía. Son los actos u omisiones de las personas que laboran en centros o establecimientos, públicos o privados, que brindan atención y cuidado prolongado a las personas adultas mayores que residen en ellos, que impliquen cualquier clase de violencia, abuso, negligencia o discriminación dirigida hacia la persona adulta mayores (sic), así como el empleo de métodos de coerción o restricción que atenten contra su intimidad, dignidad y autonomía en la toma de decisiones, y
+
+IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las personas adultas mayores.
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS RECTORES PARA LA ATENCIÓN DE LAS PERSONAS ADULTAS MAYORES Y LA PROTECCIÓN DE SUS DERECHOS
 
@@ -243,11 +255,15 @@ h) Vivir en entornos seguros, dignos y decorosos, que cumplan con sus necesidade
 
 II. A la autodeterminación, autonomía e independencia, lo cual contempla:
 
-a) El respeto a la capacidad de decisión de las personas adultas mayores, atendiendo a las condiciones y circunstancias personales reales, velando en todo momento por el equilibrio entre su bienestar y sus determinaciones;
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+a) El respeto a la capacidad de decisión de las personas adultas mayores, atendiendo a sus condiciones y circunstancias personales y al equilibrio entre su bienestar y sus determinaciones, velando en todo caso por lo que mayormente beneficie a sus derechos fundamentales;
 
 b) Brindar las posibilidades y oportunidades de definir objetivos y metas personales de acuerdo a sus intereses individuales;
 
-c) El respeto a la posibilidad de decidir libre e informadamente la forma de ejercer sus derechos, en un marco de sano equilibrio entre su voluntad y su conveniencia y seguridad; y,
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+c) El respeto a decidir, de manera libre y suficientemente informada, sobre sus derechos, en un marco de sano equilibrio entre su voluntad y su conveniencia y seguridad, velando por lo que más le beneficie;
 
 d) Expresar su opinión libremente.
 
@@ -257,9 +273,11 @@ III. A la vida en familia, que implica:
 
 a) Vivir en el seno de una familia, o mantener relaciones personales y contacto directo con ella, en el caso de estar separados, y
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
-b) Garantizarle una estancia decorosa dentro del núcleo familiar y en caso de vivir separados, otorgarles los medios necesarios para que tengan una vida digna.
+b) El respeto a su autodeterminación, autonomía e independencia, así como a gozar de privacidad y cuidado dentro del núcleo familiar, y
+
+c) Garantizarle una estancia decorosa dentro del núcleo familiar y en caso de vivir separados, otorgarles los medios necesarios para que tengan una vida digna.
 
 IV. A la certeza jurídica, que incluye:
 
@@ -387,33 +405,37 @@ Los miembros de la familia de las personas adultas mayores tendrán, para con el
 
 I. Proporcionar de forma permanente oportuna y adecuada asistencia, alimentación, vestido, habitación y el debido cuidado respecto de su salud física y mental, de acuerdo a sus posibilidades económicas y conforme a lo dispuesto por el Código Civil para el Estado de Oaxaca;
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
-II. Fomentar la convivencia familiar cotidiana con la persona adulta mayor, en donde ésta participe de manera activa y promover entre los miembros de la familia, los principios y valores tendientes a satisfacer sus necesidades afectivas, de protección, de cuidado y de apoyo;
-
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
-
-III. Fomentar su independencia, respetando sus decisiones y proporcionando la adecuada privacidad y cuidado, en un marco de sano equilibrio entre su voluntad y su bienestar;
-
-IV. Velar porque las instancias públicas o privadas reconozcan y respeten cabalmente los derechos de las personas adultas mayores;
-
-V. Contribuir a mantener su desempeño productivo y su integración social, orientándoles sobre las opciones laborales ofertadas en las bolsas de trabajo de su Municipio o del Estado;
-
-VI. Vigilar que los trabajos o actividades que realicen no impliquen un esfuerzo que supere sus condiciones o capacidades físicas o mentales;
-
-VII. Procurar que cuenten con los elementos de información y orientación gerontológica que requieran;
-
-VIII. Evitar todo acto de discriminación, abuso, explotación, aislamiento, violencia, despojo así como cualquier acto o acción jurídica que pongan en riesgo su integridad, bienes o derechos;
+II. Promover su independencia, respetando sus decisiones y proporcionando la adecuada privacidad y cuidado, considerando su voluntad y su bienestar, velando en todo caso por lo que mayormente beneficie a sus derechos fundamentales;
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-IX. Denunciar ante la autoridad competente los casos que sean de su conocimiento sobre discriminación, abandono, desamparo, marginación, abuso, explotación, despojo o violencia contra personas adultas mayores;
+III. Fomentar la convivencia familiar cotidiana con la persona adulta mayor, en donde ésta participe de manera activa y promover entre los miembros de la familia, los principios y valores tendientes a satisfacer sus necesidades afectivas, de protección, de cuidado y de apoyo;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+IV. Fomentar su independencia, respetando sus decisiones y proporcionando la adecuada privacidad y cuidado, en un marco de sano equilibrio entre su voluntad y su bienestar;
+
+V. Velar porque las instancias públicas o privadas reconozcan y respeten cabalmente los derechos de las personas adultas mayores;
+
+VI. Contribuir a mantener su desempeño productivo y su integración social, orientándoles sobre las opciones laborales ofertadas en las bolsas de trabajo de su Municipio o del Estado;
+
+VII. Vigilar que los trabajos o actividades que realicen no impliquen un esfuerzo que supere sus condiciones o capacidades físicas o mentales;
+
+VIII. Procurar que cuenten con los elementos de información y orientación gerontológica que requieran;
+
+IX. Evitar todo acto de discriminación, abuso, explotación, aislamiento, violencia, despojo así como cualquier acto o acción jurídica que pongan en riesgo su integridad, bienes o derechos;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+X. Denunciar ante la autoridad competente los casos que sean de su conocimiento sobre discriminación, abandono, desamparo, marginación, abuso, explotación, despojo o violencia contra personas adultas mayores;
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2022)</small>
 
-X. Atender las necesidades psicoemocionales o enfermedades neurodegenerativas de la persona adulta mayor, existiendo especial obligación cuando ésta se encuentre en alguna institución pública o privada, casa hogar, albergue, residencia de día o cualquier otro centro de atención, a efecto de mantener los lazos familiares; y
+XI. Atender las necesidades psicoemocionales o enfermedades neurodegenerativas de la persona adulta mayor, existiendo especial obligación cuando ésta se encuentre en alguna institución pública o privada, casa hogar, albergue, residencia de día o cualquier otro centro de atención, a efecto de mantener los lazos familiares; y
 
-XI. Todas aquellas que se establezcan en esta Ley y demás ordenamientos aplicables.
+XII. Todas aquellas que se establezcan en esta Ley y demás ordenamientos aplicables.
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES DE LAS INSTITUCIONES SOCIALES Y PRIVADAS
 
@@ -743,9 +765,11 @@ X. Las demás que les confieran esta ley u otras disposiciones legales y reglame
 
 ### CAPÍTULO I. DE LA ASISTENCIA A LAS PERSONAS ADULTAS MAYORES
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 27.
 
-Toda persona que tenga conocimiento de que una persona adulta mayor se encuentra en situación de riesgo o desamparo deberá pedir la intervención de las autoridades competentes para que se apliquen de inmediato las medidas necesarias para su protección y atención.
+Toda persona que tenga conocimiento de que una persona adulta mayor se encuentra en situación de riesgo o desamparo está obligada a denunciarlo ante las autoridades competentes para que se apliquen de inmediato las medidas necesarias para su protección y atención.
 
 ###### Artículo 28.
 
@@ -1000,6 +1024,16 @@ TERCERO. Quedan sin efecto las disposiciones de igual o menor rango que contrave
 P.O. 18 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 911.- MEDIANTE EL CUAL REFORMA EL INCISO A) DE LA FRACCIÓN III, EL INCISO B) DE LA FRACCION V, Y EL INCISO C) DE LA FRACCIÓN VII DEL ARTÍCULO 9; y SE ADICIONAN EL INCISO B) A LA FRACCIÓN III Y LOS INCISOS D) Y E) A LA FRACCIÓN VII, RECORRIÉNDOSE EL SUBSECUENTE, DEL ARTÍCULO 9 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 2 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1522.- MEDIANTE EL CUAL ADICIONAN LAS FRACCIONES VII Y VIII RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 7 BIS, EL INCISO b) RECORRIENDO EL SUBSECUENTE DE LA FRACCIÓN III DEL ARTÍCULO 9, LA FRACCIÓN II RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 11; SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 7 BIS, LOS INCISOS a) Y c) DE LA FRACCIÓN II DEL ARTÍCULO 9, Y EL ARTÍCULO 27 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
