@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-partidos-politicos-del-estado-de-baja-california-108835"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2023-05-26"
+last_updated: "2023-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -128,6 +128,10 @@ La interpretación de esta Ley se hará conforme a los criterios gramatical, sis
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 La interpretación sobre la resolución de conflictos de asuntos internos de los partidos políticos deberá tomar en cuenta el carácter de entidad de interés público de éstos como organización de ciudadanos, así como su libertad de decisión interna, el derecho a la auto organización de los mismos y el ejercicio de los derechos de las personas afiliadas o militantes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+Los Partidos Políticos en ejercicio de su autodeterminación y auto organización, tienen en todo momento el derecho a elegir a sus dirigentes y a sus candidaturas conforme a los procedimientos señalados en sus documentos básicos sin la intervención indebida de ninguna autoridad electoral.
 
 ###### Artículo 7.
 
@@ -311,9 +315,17 @@ III. Designar a sus representantes ante los órganos electorales del Instituto E
 
 IV. Formar coaliciones, frentes y fusiones, las que tratándose de partidos políticos locales, deberán ser aprobadas por el órgano de dirección estatal que establezca el Estatuto de cada uno de los partidos locales participantes, en los términos de esta Ley y las leyes federales aplicables;
 
-V. Realizar los actos jurídicos inherentes para la realización de sus fines, y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
-VI. Los demás que les otorguen la Constitución y las leyes.
+V. Realizar los actos jurídicos inherentes para la realización de sus fines;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Regular su vida interna y determinar su organización interior y los procedimientos correspondientes, sin la intervención indebida de ninguna autoridad electoral o de cualquier otra índole; y,
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VI], P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Los demás que les otorguen la Constitución y las leyes.
 
 ###### Artículo 22.
 
@@ -661,7 +673,11 @@ c) Las cantidades que, en su caso, se determinen para cada partido político, se
 
 d) Cada partido político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba para el desarrollo de las actividades específicas, a que se refiere la fracción III de este artículo, y
 
-e) Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente, el tres por ciento del financiamiento público ordinario.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+e) Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres y la democracia paritaria con enfoque interseccional, cada partido político deberá destinar anualmente, por lo menos el seis por ciento del financiamiento público ordinario; adicionalmente deberán destinar por lo menos el tres por ciento para la capacitación y sensibilización en masculinidades éticas entre dirigentes, militantes y simpatizantes, como medida para prevenir la violencia política en razón de género.
+
+Tratándose de los partidos políticos locales, el porcentaje a destinar a los rubros precisados en el párrafo anterior, será en los términos de la Ley General.
 
 II. Para gastos de Campaña:
 
@@ -1094,3 +1110,9 @@ P.O. 26 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 231 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 43 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 288 MEDIANTE EL CUAL, SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 7, 21, 27 BIS, 33, 134, 139, 146, 168, 327, 328 Y 330 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; 6, 21 Y 43 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; 6, 7, 10, 12, 14 DE LA LEY DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA, COMO TAMBIÉN LA ADICIÓN DE UN CAPÍTULO IX BIS DENOMINADO “DEL ÓRGANO INTERNO DE CONTROL DEL TRIBUNAL” Y LA ADICIÓN DE LOS ARTÍCULOS 22 BIS Y 22 TER AL MISMO ORDENAMIENTO; LA ADICIÓN DE UN ARTÍCULO 4 BIS A LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LAS REFORMAS A LOS ARTÍCULOS 3, 5, 7, 14, 29, 31, 32, 33 Y 34 DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
