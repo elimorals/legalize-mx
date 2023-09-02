@@ -4,7 +4,7 @@ identifier: "COL-ley-que-previene-combate-y-elimina-la-discriminacion-en-el-6171
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-14"
-last_updated: "2021-10-09"
+last_updated: "2023-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial en el Estado de Colima, el sábado 14 de junio de 2008.
 
@@ -819,11 +819,15 @@ l. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II. Pertenecer a alguna organización civil vinculada al tema de los derechos humanos;
 
-III. No ocupar cargo directivo en algún partido político;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
-IV. No ser funcionario público en cualquier nivel de gobierno; y
+III. No ocupar cargo directivo en algún partido político; y
 
-V. No haber sido condenado por delito intencional que merezca pena corporal.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+IV. No ser funcionario público en cualquier nivel de gobierno.
+
+V. (DEROGADA, P.O. 2 DE SEPTIEMBRE DE 2023)
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 2014)</small>
 
@@ -1278,3 +1282,9 @@ P.O. 9 DE OCTUBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 341.- POR EL QUE SE REFORMAN LAS FRACCIONES III Y IV, Y SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 35 DE LA LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
