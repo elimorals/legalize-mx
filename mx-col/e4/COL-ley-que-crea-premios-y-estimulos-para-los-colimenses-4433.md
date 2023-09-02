@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-premios-y-estimulos-para-los-colimenses-4433"
 country: "mx"
 rank: "ley"
 publication_date: "1967-10-14"
-last_updated: "2023-07-22"
+last_updated: "2023-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de octubre de 1967.
 
@@ -41,11 +41,11 @@ DECRETO No. 145
 
 LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 1o.
 
-Se crean en el Estado de Colima, de manera permanente, para entregar a hombres y mujeres por su destacada labor en los diferentes ámbitos, las siguientes Insignias:
+Se crean en el Estado de Colima, de manera permanente, para entregar las siguientes Insignias, a las distintas personas que, por su destacada labor, han sobresalido en sus respectivos ámbitos:
 
 > <small>(REFORMADA, P.O. 17 DE MAYO DE 2014)</small>
 
@@ -65,7 +65,19 @@ La Condecoración, la Orden y el Diploma citados, pueden ser concedidos por el E
 
 La entrega de estos estímulos se hará en la ceremonia conmemorativa del "Día del Maestro".
 
-II.- Condecoración "LIC. MANUEL RIVERA'', para distinguidos jurisconsultos y trabajadores en las ramas de ciencias sociales (abogados, penalistas, magistrados, economistas, especialistas en Derecho, tratadistas, diplomáticos, etc.);
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+
+II.- Condecoración "LICENCIADA MARGARITA TORRES HUERTA" para distinguidas abogadas y abogados, en las siguientes categorías:
+
+a) Abogada o abogado litigante o postulante; por el mérito y trayectoria profesional.
+
+b) Investigadora o investigador jurídico; por sus aportaciones al ámbito jurídico.
+
+c) Impartición o procuración de justicia, por su destacado desempeño en el servicio público, y
+
+d) Docente de Derecho, por su trayectoria académica.
+
+La entrega de esta condecoración se hará en sesión solemne en el marco del “Día del Abogado” conmemorado el doce de julio de cada año, en México, por lo que para tal efecto las Comisiones de Educación, Cultura, Ciencia y Tecnología y de Estudios Legislativos y Puntos Constitucionales elaboraran y emitirán en el mes de junio la convocatoria respectiva, en el que obren los requisitos, términos, procesos y deliberaciones.
 
 III.- Condecoración "GRAL. MANUEL ALVAREZ'', que se concederá a funcionarios públicos, elementos militares o simples ciudadanos que se distingan en alguna actividad especial de promoción o de cooperación personal en la prestación de servicios de orden público, y a quienes hayan verificado actos de heroísmo, probidad, altruismo o se distingan por sus virtudes cívicas y morales (servidores públicos con perseverante espíritu de servicio, benefactores, héroes, filántropos, ejemplos de abnegación, sacrificio, desinterés, altruismo u honestidad; deportistas con méritos relevantes, periodistas de ética y trayectoria intachable, etc.);
 
@@ -171,9 +183,9 @@ d) Servicios a la Comunidad. Se otorgará a quien se haya distinguido profesiona
 
 Las insignias a que se refiere el artículo anterior, las constituirán medallas en colores oro o plata que contengan el nombre y si es posible, la efigie del patricio que les da su nombre, la leyenda correspondiente y el nombre del agraciado.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
-Adicionalmente a las medallas y a los reconocimientos impresos en papel, cada uno de los premios entregados, sin excepción alguna, deberá ser acompañado por un estímulo económico cuyo monto será determinado conforme a la disponibilidad presupuestaria de los entes convocantes.
+Adicionalmente a las medallas y a los reconocimientos impresos en papel, podrán ser acompañados por un estímulo económico cuyo monto será determinado conforme a la disponibilidad presupuestaria de los entes convocantes.
 
 ###### Artículo 3o.
 
@@ -496,3 +508,9 @@ P.O. 22 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 337.- POR EL QUE SE REFORMA EL PÁRRAFO DÉCIMO DEL ARTÍCULO 10 DE LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES".]
 
 UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 2 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 340.- POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 1º, ASÍ COMO, SU FRACCIÓN SEGUNDA, Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 2, DE LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
