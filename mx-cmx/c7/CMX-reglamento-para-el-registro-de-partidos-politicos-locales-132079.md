@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-registro-de-partidos-politicos-locales-13207
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-12-28"
-last_updated: "2018-12-28"
+last_updated: "2023-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132079&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2018-12-19"
 ---
 # REGLAMENTO PARA EL REGISTRO DE PARTIDOS POLITICOS LOCALES ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL REGISTRO DE PARTIDOS POLÍTICOS LOCALES ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 4 DE SEPTIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA EL REGISTRO DE PARTIDOS POLÍTICOS LOCALES ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE SEPTIEMBRE DE 2023 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 28 de diciembre de 2018.
 
@@ -817,3 +819,15 @@ DIRECTORA DE ESTUDIOS LEGISLATIVOS
 TRÁMITES INMOBILIARIOS
 
 MTRA. IRERI VILLAMAR NAVA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 4 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO PARA EL REGISTRO DE PARTIDOS POLÍTICOS LOCALES ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO".]
+
+Primero. El presente Reglamento entrará en vigor al momento de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. Se abroga el Reglamento del Instituto Electoral para el Registro de Partidos Políticos Locales ante el Instituto Electoral de la Ciudad de México, aprobado por el Consejo General del Instituto Electoral de la Ciudad de México, el 19 de diciembre de 2018 mediante Acuerdo de clave IECM/ACU-CG-334/2018.
+
+Tercero. Los Lineamientos del Sistema de Notificaciones Electrónicas por Internet, a que se refiere el presente Reglamento, serán aprobados por el Consejo General.
