@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-interno-del-instituto-de-ciencia-y-tecnologia-del-1677
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-06-05"
-last_updated: "2023-06-05"
+last_updated: "2023-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # ESTATUTO INTERNO DEL INSTITUTO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO INTERNO DEL INSTITUTO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. 4 DE SEPTIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO INTERNO DEL INSTITUTO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2023 (ABROGADO).
 
 Estatuto publicado en la Tercera Sección del Número 23 del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de junio de 2023.
 
@@ -1616,3 +1618,25 @@ PRESIDENTE DE LA COMISIÓN DE INNOVACIÓN EMPRESARIAL DE COPARMEX
 M.C. ANA CLAUDIA MORALES DUEÑA
 
 DIRECTORA GENERAL DEL INSTITUTO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE AGUASCALIENTES.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO INTERNO DEL INSTITUTO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE AGUALIENTASCES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Estatuto Interno del Instituto de Ciencia y Tecnología del Estado de Aguascalientes, publicado el día 5 de junio de 2023 en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al contenido del presente Estatuto Interno.
+
+###### ARTÍCULO CUARTO.
+
+La Junta de Gobierno del Organismo Público Descentralizado en cuestión deberá efectuar las adecuaciones necesarias a la demás normatividad interna aplicable al referido Organismo, con motivo de la entrada en vigor del presente Estatuto.
