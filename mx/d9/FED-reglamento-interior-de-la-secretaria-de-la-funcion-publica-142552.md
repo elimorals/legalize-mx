@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-funcion-publica-1425
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-04-16"
-last_updated: "2020-07-16"
+last_updated: "2023-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142552&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-04-07"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA FUNCION PUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA, PUBLICADO EN EL D.O.F. DE 4 DE SEPTIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE SEPTIEMBRE DE 2023 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 16 de abril de 2020.
 
@@ -3966,3 +3968,43 @@ D.O.F. 16 DE JULIO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las referencias que se hagan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a la Subsecretaría de Combate a la Corrupción o a la Subsecretaría de Combate a la Impunidad, se entenderán hechas a la Subsecretaría de Fiscalización y Combate a la Corrupción o a la Subsecretaría de Responsabilidades y Combate a la Impunidad, respectivamente.
+
+D.O.F. 4 DE SEPTIEMBRE DE 2023.
+
+[TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de la Función Pública y el Decreto por el que se Reforman Diversas Disposiciones del Reglamento Interior de la Secretaría de la Función Pública, publicados respectivamente el 16 de abril y 16 de julio de 2020 en el Diario Oficial de la Federación.
+
+TERCERO. El Secretario de la Función Pública debe expedir los manuales de organización y los de procedimientos de la Secretaría, necesarios para el funcionamiento de esa dependencia, a más tardar el 28 de febrero de 2024.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente reglamento.
+
+QUINTO. A la entrada en vigor de este reglamento, los servicios de defensoría de oficio que se presten en los procedimientos de responsabilidad administrativa:
+
+I. Continuarán hasta la conclusión definitiva en sede administrativa, de los procedimientos respectivos, cuando hayan iniciado antes de la entrada en vigor de este reglamento, y
+
+II. Concluirán el 15 de diciembre de 2023, cuando los asuntos sobre los que recaigan se encuentren en trámite en sede jurisdiccional a la entrada en vigor de este reglamento.
+
+Si al término de los plazos previstos en las fracciones anteriores el probable responsable necesitara un nuevo defensor público, deberá solicitarlo al Instituto Federal de Defensoría Pública del Consejo de la Judicatura Federal.
+
+SEXTO. Las unidades administrativas de la Secretaría de la Función Pública a las que este reglamento atribuya facultad para investigar faltas administrativas, así como aquellas a las que les atribuya facultades para substanciar y resolver procedimientos de responsabilidad administrativa, podrán ejercerlas respecto de conductas realizadas bajo la vigencia de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+SÉPTIMO. Dentro de los noventa días hábiles siguientes a la entrada en vigor del presente reglamento, la Unidad de Administración y Finanzas de la Secretaría de la Función Pública deberá realizar los actos necesarios para que los recursos humanos, financieros, tecnológicos y materiales asignados a las unidades administrativas que le deban ser transferidos por disposición de este reglamento, se transfieran de conformidad con los ordenamientos aplicables, con la disponibilidad presupuestaria correspondiente y, en su caso, en los términos que la Secretaría de la Función Pública convenga con la Secretaría de Hacienda y Crédito Público.
+
+OCTAVO. En los casos de creación y de supresión de puestos, la Secretaría de la Función Pública deberá determinar lo conducente, de conformidad con los ordenamientos aplicables, sin perjuicio de los derechos de los trabajadores.
+
+NOVENO. La Secretaría de la Función Pública deberá emitir los ordenamientos en materia de contrataciones públicas, austeridad, conducción y coordinación de las unidades de Administración y Finanzas, dentro de los noventa días hábiles siguientes a la entrada en vigor del presente reglamento. En tanto se emiten los ordenamientos señalados, seguirán vigentes los emitidos por la Secretaría de Hacienda y Crédito Público, en lo que no se oponga a este reglamento.
+
+DÉCIMO. Los trámites iniciados en fecha anterior a la entrada en vigor de este reglamento, continuarán hasta su conclusión, de conformidad con los ordenamientos vigentes al momento de su inicio y por las unidades administrativas competentes de conformidad con este reglamento.
+
+Cuando los trámites referidos en el párrafo anterior hayan estado a cargo de unidades administrativas cuya denominación se haya modificado por disposición de este reglamento, tales unidades administrativas utilizarán la denominación prevista en este reglamento, pero ejercerán las facultades que le atribuía el reglamento que se abroga.
+
+DÉCIMO PRIMERO. Las referencias y facultades previstas en otros ordenamientos para unidades administrativas de la Secretaría de la Función Pública que hayan cambiado su denominación por disposición de este reglamento, se entenderán hechas y atribuidas, respectivamente, a las unidades administrativas competentes por disposición de este mismo reglamento.
+
+DÉCIMO SEGUNDO. Las unidades administrativas de la Secretaría de la Función Pública que a la entrada en vigor de este reglamento cambien su denominación o adscripción, y las que deban transferirse a la Secretaría de la Función Pública, dispondrán de lo necesario para que sus documentos de archivo e instrumentos de consulta y control archivístico sean clasificados y trasladados a los archivos que correspondan, con el apoyo de la unidad administrativa de la Secretaría de la Función Pública que funja como "área coordinadora de archivos", de conformidad con la Ley General de Archivos y demás ordenamientos aplicables.
+
+DÉCIMO TERCERO. Los sistemas electrónicos de las unidades administrativas de la Secretaría de Hacienda y Crédito Público que por disposición de este reglamento deban transferirse a la Secretaría de la Función Pública, seguirán siendo operados por las unidades administrativas que debían hacerlo hasta antes de la entrada en vigor del mismo.
+
+DÉCIMO CUARTO. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado a la Secretaría de la Función Pública para el presente ejercicio fiscal y los subsecuentes en el Presupuesto de Egresos de la Federación, en caso de que se realice alguna modificación a la estructura orgánica, esta deberá llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
