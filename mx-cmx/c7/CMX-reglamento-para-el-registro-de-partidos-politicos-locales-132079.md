@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-registro-de-partidos-politicos-locales-13207
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-12-28"
-last_updated: "2018-12-28"
+last_updated: "2023-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132079&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,2143 +20,817 @@ issue_date: "2018-12-19"
 ---
 # REGLAMENTO PARA EL REGISTRO DE PARTIDOS POLITICOS LOCALES ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MEXICO
 
-LEY DE TRANSPORTE DEL ESTADO DE MORELOS
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL REGISTRO DE PARTIDOS POLÍTICOS LOCALES ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 4 DE SEPTIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2017.
+REGLAMENTO PARA EL REGISTRO DE PARTIDOS POLÍTICOS LOCALES ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO.
 
-Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de marzo de 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE SEPTIEMBRE DE 2023 (ABROGADO).
 
-Al margen izquierdo un Escudo del Estado de Morelos que dice: “Tierra y Libertad”.- La tierra volverá a quienes la trabajan con sus manos.- Poder Legislativo.- LII Legislatura. 2012-2015.
+Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 28 de diciembre de 2018.
 
-GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
+Acuerdo del Consejo General del Instituto Electoral de la Ciudad de México, por el que se aprueba el Reglamento para el registro de partidos políticos locales ante el Instituto Electoral de la Ciudad de México, así como la Convocatoria respectiva.
 
-Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
+Antecedentes:
 
-LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:
+[…]
 
-I. DEL PROCESO LEGISLATIVO...
+Por lo expuesto y fundado, este Consejo General:
 
-Por lo anteriormente expuesto, esta Legislatura ha tenido a bien expedir la siguiente:
+Acuerda:
 
-LEY DE TRANSPORTE DEL ESTADO DE MORELOS
+PRIMERO. Se aprueba el Reglamento para el registro de partidos políticos locales ante el Instituto Electoral de la Ciudad de México, así como la Convocatoria respectiva y demás formatos, en términos de lo previsto en el presente Acuerdo, los cuales forman parte integral del mismo como Anexos.
 
-## TÍTULO PRIMERO. DISPOCISIONES (SIC) PRELIMINARES
+SEGUNDO. Se abroga el Reglamento del Instituto Electoral para el registro de partidos políticos locales ante el Instituto Electoral de la Ciudad de México, aprobado por este Consejo General el cuatro de agosto de dos mil diecisiete mediante acuerdo IECM/ACU-CG-023/2017.
 
-### CAPÍTULO ÚNICO. DEL OBJETO Y ÁMBITO DE APLICACIÓN DE LA LEY
+TERCERO. Se instruye a la Unidad Técnica de Comunicación Social y Difusión, para que se publique la Convocatoria referida, en al menos dos diarios de circulación en la Ciudad de México.
 
-### CAPÍTULO PRIMERO. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
+CUARTO. Se instruye al Secretario Ejecutivo para que realice las gestiones necesarias respecto de la expedición de la acreditación de las personas funcionarias del Instituto Electoral que llevarán a cabo la certificación de las asambleas distritales, de demarcaciones territoriales y las locales constitutivas en el proceso de registro de partidos políticos locales en el año 2019.
 
-## TÍTULO SEGUNDO. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
+QUINTO. El presente Acuerdo y sus Anexos entrarán en vigor al momento de su publicación en los estrados de las oficinas centrales del Instituto Electoral.
 
-### CAPÍTULO SEGUNDO. CONSEJO MUNICIPAL DE TRANSPORTE
+SEXTO. Publíquese de inmediato el presente Acuerdo y sus Anexos en la Gaceta Oficial, en los estrados del Instituto Electoral, en sus oficinas centrales y órganos desconcentrados, así como en la página de Internet www.iecm.mx.
 
-### CAPÍTULO PRIMERO. DEL PROGRAMA ESTATAL
+SÉPTIMO. Realícense las adecuaciones procedentes en virtud de la determinación asumida por este Consejo General, en el apartado de Transparencia de la página de Internet www.iecm.mx y publíquese la misma en las redes sociales de este Instituto Electoral.
 
-### CAPÍTULO SEGUNDO. DE LAS ZONAS DE TRÁNSITO CONTROLADO
+Así lo aprobaron por unanimidad de votos de las Consejeras y los Consejeros Electorales del Instituto Electoral presentes, con la ausencia justificada del Consejero Electoral Mauricio Huesca Rodríguez, en sesión pública el diecinueve de diciembre de dos mil dieciocho, firmando al calce el Consejero Presidente y el Secretario del Consejo General, quien da fe de lo actuado, de conformidad con lo dispuesto en los artículos 77, fracción VII y 79, fracción V, del Código de Instituciones y Procedimientos Electorales de la Ciudad de México.
 
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+(Firma) (Firma)
 
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+Mtro. Mario Velázquez Miranda Lic. Rubén Geraldo Venegas
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+Consejero Presidente Secretario Ejecutivo
 
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+REGLAMENTO PARA EL REGISTRO DE PARTIDOS POLÍTICOS LOCALES ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-###### Artículo 26 Bis.
+CAPÍTULADO
 
-Para efectos de esta Ley, las zonas de tránsito controlado son sistemas de control y regulación del tránsito en zonas urbanas específicas de las ciudades.
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-Estas zonas serán determinadas por la Secretaría, conjuntamente con otras autoridades estatales y municipales competentes, de conformidad con la normativa aplicable.
+### CAPÍTULO I. GENERALIDADES
 
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+### CAPÍTULO II. DE LOS SUJETOS
 
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+## TÍTULO SEGUNDO. PROCEDIMIENTO DE CONSTITUCIÓN
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+### CAPÍTULO I. PRESENTACIÓN DE NOTIFICACIONES DE INTENCIONES Y ACREDITACIÓN DE REPRESENTANTES
 
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+### CAPÍTULO II. PROCESO DE AFILIACIÓN Y TIPOS DE LISTAS DE AFILIACIONES
 
-###### Artículo 26 Ter.
+### CAPÍTULO III. DE LAS ASAMBLEAS
 
-Las zonas de tránsito controlado comprenderán los siguientes aspectos:
+### CAPÍTULO IV. DE LA CELEBRACIÓN DE ASAMBLEAS
 
-I. Priorización del tránsito peatonal, mediante la ejecución de programas y proyectos que incentiven la infraestructura peatonal, integrando los conceptos de accesibilidad universal;
+### CAPÍTULO V. ASAMBLEAS DISTRITALES O DE DEMARCACIONES TERRITORIALES
 
-II. Regulación de la operación de los sistemas de transporte, considerando los sistemas no motorizados y, en su caso, la interconexión de modos de transporte, y
+### CAPÍTULO VI. ASAMBLEAS LOCALES CONSTITUTIVAS
 
-III. Las demás que determine el Reglamento.
+## TÍTULO TERCERO. SOLICITUD DE REGISTRO, COMPROBACIÓN DE REQUISITOS Y RESOLUCIÓN
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO I. ENTREGA DE SOLICITUD DE REGISTRO Y DOCUMENTACIÓN ANEXA
 
-### CAPÍTULO PRIMERO. DE LOS SERVICIOS DE TRANSPORTE PÚBLICO
+### CAPÍTULO II. REVISIÓN DEL CUMPLIMIENTO DE REQUISITOS Y DOCUMENTOS BÁSICOS
 
-### CAPÍTULO SEGUNDO. DEL SERVICIOS DE TRANSPORTE PRIVADO
+### CAPÍTULO III. VERIFICACIÓN DE CÉDULAS DE AFILIACIÓN
 
-## TÍTULO TERCERO. DEL PROGRAMA ESTATAL DE DESARROLLO DEL TRANSPORTE Y DE LAS ZONAS DE TRÁNSITO CONTROLADO
+### CAPÍTULO IV. DICTAMEN SOBRE EL CUMPLIMIENTO DEL PORCENTAJE DE AFILIACIONES
 
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE REFORMA LA DENOMINACIÓN DE ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+### CAPÍTULO V. DICTAMEN DE REGISTRO Y RESOLUCIÓN
 
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE REFORMA LA DENOMINACIÓN DE ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+### CAPÍTULO VI. INFORMES MENSUALES Y TOPES DE GASTOS
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+### CAPÍTULO VII. DE LOS ASUNTOS NO PREVISTOS
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2016)</small>
+## ARTÍCULOS TRANSITORIOS
 
-### CAPÍTULO TERCERO. DEL SERVICIO DE TRANSPORTE PARTICULAR
+REGLAMENTO PARA EL REGISTRO DE PARTIDOS POLÍTICOS LOCALES ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO.
 
-### CAPÍTULO CUARTO. DEL SISTEMA INTEGRADO DE TRANSPORTE MASIVO
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
-
-###### Artículo 38 Bis.
-
-Corresponde a la Secretaría la planeación del desarrollo de la movilidad y el transporte, atendiendo a políticas y proyectos sustentables que produzcan la mayor satisfacción de los usuarios y la minimización de las externalidades negativas, considerando un Sistema que atienda, de manera integral y masiva, los desplazamientos de las personas.
-
-Se entiende como transporte masivo el que permite el traslado de mayor número de usuarios en tiempos cortos y largos trayectos, con visión regional y conurbada, cuyas características en la prestación del servicio sean la seguridad, la comodidad y la confiabilidad, utilizando vehículos adecuados para tener emisiones contaminantes atmosféricas reducidas.
-
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
-
-###### Artículo 38 Ter.
-
-El Sistema Integrado de Transporte Masivo fungirá como medio de coordinación de la Secretaría con las autoridades y dependencias federales, con la inclusión de los sectores social y privado, que coadyuven a desarrollar un servicio accesible a la mayoría de la población, que tenga como objetivos:
-
-I. Gestionar proyectos de infraestructura de transporte masivo con alta rentabilidad social, en sus diversas modalidades, que permitan acciones de cofinanciamiento con las autoridades locales, propiciando la participación de la inversión privada, y
-
-II. Promover el fortalecimiento institucional de las autoridades locales en materia de planeación, regulación y administración de sistemas integrados de transporte público urbano, conurbado, metropolitano y suburbano.
-
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
-
-###### Artículo 38 Quater.
-
-El Sistema Integrado de Transporte Masivo se establecerá mediante los siguientes elementos mínimos:
-
-I. Infraestructura y equipamiento de transporte masivo, y
-
-II. Unidades vehiculares especializadas.
-
-Adicionalmente, en este Sistema podrá contarse con otros elementos, tales como el sistema de telemetría y los mecanismos de pago o prepago de los servicios; lo anterior en los términos que al efecto señale el Reglamento.
-
-Para el funcionamiento y operación del Sistema Integrado de Transporte Masivo, la Secretaría y los sectores social y privado podrán constituir fondos cuyos recursos serán administrados y operados a través de uno o varios fideicomisos, mismos que deberán contar con un Comité Técnico, estando obligados, cuando menos, a:
-
-I. Administrar cautelosamente los recursos, a fin de permitir el cumplimiento efectivo de sus fines;
-
-II. Crear mecanismos e incentivos para nutrirse de recursos, y
-
-III. Realizar las previsiones necesarias a fin de procurarse solvencia.
-
-Los recursos de los fideicomisos se aplicarán para los fines que se determinen en el instrumento que los constituya y rija.
-
-### CAPÍTULO ÚNICO
-
-### CAPÍTULO PRIMERO. DE LAS CONCESIONES
-
-### CAPÍTULO SEGUNDO. DE LA DURACIÓN DE LAS CONCESIONES
-
-###### Artículo 58.
-
-Las concesiones relativas al Servicio de Transporte Público que refiere el artículo 33, 34 y 35 del presente ordenamiento, tendrán una vigencia de diez años, concluido este plazo el titular de la concesión tendrá la obligación de renovarla por igual período, siempre y cuando el concesionario haya cumplido las obligaciones previstas en la presente Ley, tomando en consideración lo siguiente:
-
-I. Que el concesionario ha cumplido satisfactoriamente en los términos de la presente Ley con la prestación del Servicio de Transporte Público, de conformidad con el procedimiento que para tal efecto se establezca en el Reglamento;
-
-II. No haber sido sancionado el concesionario por infracciones graves a la presente Ley;
-
-III. Que los vehículos autorizados dentro de la concesión cumplan los requisitos de antigüedad, técnicos, mecánicos, y de buen estado requeridos, y
-
-IV. En tratándose de personas morales, no exista controversias entre los órganos de gobierno o de administración de las mismas y los socios que pudiera afectar la debida prestación del Servicio de Transporte Público.
-
-###### Artículo 59.
-
-No se renovará la concesión si los vehículos autorizados en ella no hubiesen sido sustituidos dentro del plazo previsto en el Título De Concesión respectivo o bien, de acuerdo a lo establecido en el Reglamento respectivo.
-
-###### Artículo 60.
-
-Por cada vehículo en operación del Servicio de Transporte Público, el concesionario deberá obtener el tarjetón de autorización para prestar el servicio respectivo, el cual deberá refrendar en forma anual, previa aprobación de la Revista Mecánica correspondiente, de conformidad con la Convocatoria que emita el Secretario; el incumplimiento a esta disposición será motivo para la revocación de la concesión. Asimismo, los concesionarios deberán efectuar el refrendo de la concesión a través del pago anual que realizarán ante la autoridad fiscal correspondiente, de acuerdo a lo establecido en la Ley General de Hacienda del Estado de Morelos.
-
-###### Artículo 61.
-
-Para mantener la vigencia de una concesión se requiere que:
-
-I. El concesionario haya cumplido con todas y cada una de las condiciones y requisitos establecidos en las concesiones, en la Ley, su Reglamento y en las demás disposiciones jurídicas y administrativas aplicables;
-
-II. No exista conflicto respecto a la personalidad del órgano directivo en el caso de personas morales, ni controversia de titularidad respecto a la concesión, infraestructura, bienes, vialidades, itinerarios o rutas y demás elementos inherentes a la concesión, tanto en el caso de personas físicas como morales, y
-
-III. Cumplir con los elementos de circulación siguientes:
-
-a) Tarjeta de circulación vigente y calcomanía correspondiente;
-
-b) Placas metálicas de identificación;
-
-c) Tarjetón que autoriza la prestación del servicio, y
-
-d) Seguro o en su caso, fondo de garantía que ampare la responsabilidad civil por los montos que para tal efecto fije la Ley de Caminos, Puentes y Auto Transporte Federal y el Reglamento de Auto Transporte Federal y Servicios Auxiliares.
-
-### CAPÍTULO TERCERO. DE LA NULIDAD DE LA CESIÓN DE DERECHOS DEL TÍTULO DE CONCESIÓN
-
-###### Artículo 62.
-
-Las concesiones otorgadas a personas físicas, se consideran como patrimonio familiar del concesionario, por lo que no son objeto de comercio, ni de cesión de derechos de ningún tipo, salvo las excepciones establecidas en esta Ley, por lo que no podrán transmitirse en forma total o parcial los derechos derivados de las mismas y su transmisión será nula de pleno derecho.
-
-La violación a lo establecido en el presente artículo dará lugar a la revocación del título de concesión por parte de la Secretaría, sin perjuicio de aplicar al infractor las sanciones que correspondan.
-
-###### Artículo 63.
-
-El titular de la concesión del Servicio de Transporte Público, en tratándose de persona física, sólo en vida, podrá nombrar a un beneficiario en caso de incapacidad física o mental, ausencia declarada judicialmente o muerte a fin de que la Secretaría, en cualquiera de los supuestos designe al beneficiario como titular de la concesión.
-
-El beneficiario, designado por el concesionario, no deberá contar con más de tres concesiones a su favor y deberá reunir los requisitos exigidos para el otorgamiento de la concesión.
-
-###### Artículo 64.
-
-El beneficiario a que se refiere el artículo anterior, deberá solicitar a la Secretaría, la sustitución a su favor como titular de la concesión, dentro de los tres meses siguientes a la declaración de incapacidad, ausencia o muerte del titular.
-
-Recibida la solicitud, la Secretaría cuenta con tres meses para resolver lo conducente.
-
-###### Artículo 65.
-
-La falta de presentación de la solicitud por parte del beneficiario a que se refiere el artículo anterior, traerá como consecuencia la pérdida de los derechos.
-
-###### Artículo 66.
-
-En caso de que se presentará cualquiera de la hipótesis contempladas en el artículo 63, el Secretario, en los términos de esta Ley y de su Reglamento, emitirá el Acuerdo de Transferencia, a favor del beneficiario que aparezca en el Registro Público de Transporte; a falta de este o cuando esté imposibilitado, los derechos de la Concesión se transmitirán de acuerdo con el siguiente orden de preferencia:
-
-I. Al cónyuge;
-
-II. A la concubina o concubino;
-
-III. A uno de los hijos del concesionario, o
-
-IV. A uno de sus ascendientes.
-
-En los casos a que se refieren las fracciones III y IV, si al fallecimiento del concesionario resultan dos o más personas con derecho a heredar, estas gozarán de treinta días naturales a partir de la muerte del concesionario para decidir quién, de entre ellos, conservará los derechos de explotación de la Concesión.
-
-En caso de que no se pusieran de acuerdo, el Secretario emitirá la Convocatoria correspondiente para su concurso.
-
-Si el titular de la concesión es demandado por alimentos, la autoridad judicial, sólo podrá decretar medida cautelar, sobre el producto de los derechos de explotación y no sobre la concesión.
-
-### CAPÍTULO CUARTO. DEL PROCEDIMIENTO DE CONCURSO
-
-###### Artículo 67.
-
-El otorgamiento de concesiones para el Servicio de Transporte Público que refiere el artículo 33 de esta Ley, se realizará a través de un concurso público, atendiendo a los estudios técnicos que demanden las necesidades del servicio, el cual deberá celebrarse conforme a las siguientes bases:
-
-I. El Secretario convocará a concurso, mediante una publicación en el Periódico Oficial del Estado, y por lo menos en uno de los diarios de mayor circulación de la localidad de que se trate, o en su defecto, de la capital del Estado; dicha publicación se hará por lo menos con cuarenta y cinco días hábiles anteriores a la fecha fijada para la celebración del concurso;
-
-II. La convocatoria deberá contener:
-
-a. La declaratoria de necesidades;
-
-b. La modalidad del Servicio de Transporte Público de que se trate;
-
-c. Los términos y condiciones en que se otorgará la concesión;
-
-d. Los requisitos para obtener la concesión, y la forma de cumplimentarlos;
-
-e. Plazo para la presentación de propuestas y entrega de documentos;
-
-f. En su caso, señalará los requisitos de instalación de terminales, bodegas, paradas intermedias, talleres u otros similares, relativos a brindar calidad en la prestación del servicio;
-
-g. Características técnicas que deben tener los vehículos para cubrir el servicio que se concursa, y
-
-h. Garantías que se deban cubrir;
-
-Lo referente a los incisos “c” y “d”, no deberá contravenir lo establecido en la presente Ley. Se dará preferencia a los trabajadores que acrediten como forma de subsistencia la actividad del Servicio del Transporte Público.
-
-III. Dentro del plazo, que se establezca en la Convocatoria, el interesado deberá inscribirse al concurso, mediante solicitud por escrito, a la que acompañará la documentación que acrediten los requisitos establecidos en el artículo 48 de esta Ley;
-
-IV. En la fecha establecida para el concurso, se calificará la procedencia de las solicitudes inscritas y se emitirá el fallo atendiendo a los criterios establecidos en el artículo 49 de esta Ley, dentro de los tres días posteriores a la fecha establecida para el concurso, debiéndose publicar el resultado del fallo en los siguientes cinco días hábiles, en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación de la Entidad o la localidad de que se trate, y
-
-V. Posterior a la publicación referida en la fracción que antecede, en los siguientes treinta días, el Secretario expedirá, previo el pago de los derechos correspondientes, el título de concesión, que contendrá lo establecido en el artículo 56 de este ordenamiento.
-
-## TRANSITORIOS
-
-Primero.- Remítase la presente Ley al Gobernador Constitucional del Estado de Morelos, para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano Oficial de Difusión del Gobierno del Estado de Morelos.
-
-Segundo.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
-
-Tercero.- Se abroga la Ley de Transporte del Estado de Morelos, publicada en el Periódico Oficial “Tierra y Libertad”, número 4576, el día 12 de diciembre del año 2007 y, se derogan las demás disposiciones legales que se opongan a lo establecido en la presente Ley.
-
-Cuarto.- Los Procedimientos de transmisión de concesiones que se hayan iniciado antes de la entrada en vigor de la presente Ley, se resolverán hasta su total resolución con las disposiciones de la Ley de Transporte del Estado de Morelos, publicada en el Periódico Oficial “Tierra y Libertad”, número 4576, el día 12 de diciembre del año 2007.
-
-Quinto.- Las infracciones cometidas con anterioridad a la entrada en vigor de esta Ley, se sancionarán de conformidad con las disposiciones vigentes al momento en que se cometieron.
-
-Sexto.- Las personas físicas o morales que al entrar en vigor la presente Ley, tengan solicitudes de concesiones, permisos o autorizaciones en trámite, se resolverán en los términos previstos en las disposiciones vigentes.
-
-Séptimo.- Se otorga un plazo de noventa días hábiles, contados a partir de la entrada en vigor de la presente Ley, para que el Consejo Consultivo de Transporte, determine la plataforma de rastreo del Sistema de Posicionamiento Global que deberán de utilizar los concesionarios y la Secretaría.
-
-Octavo.- Se otorga un plazo improrrogable de seis meses, contados a partir de la entrada en vigor de la presente Ley, para hacer efectivas las disposiciones de este ordenamiento en materia de rastreo del Sistema de Posicionamiento Global.
-
-Noveno.- Se otorga un plazo de seis meses improrrogables, contados a partir de la entrada en vigor de la presente Ley, para hacer efectivas las disposiciones de este ordenamiento en materia de sustitución de vehículos.
-
-Décimo.- El Gobernador Constitucional del Estado de Morelos dispondrá lo necesario, para que en un plazo de noventa días hábiles, se expida el Reglamento derivado de la presente Ley.
-
-Décimo Primero.- El Gobernador Constitucional del Estado de Morelos, dispondrá lo necesario para realizar las reformas pertinentes al Reglamento Interior de la Secretaría de Movilidad y Transporte en un plazo no mayor a 30 días hábiles.
-
-Recinto Legislativo a los veinticuatro días del mes de febrero de dos mil catorce.
-
-Atentamente. Los CC. Diputados Integrantes de la Mesa Directiva del Congreso del Estado. Dip. Juan Ángel Flores Bustamante. Presidente. Dip. Erika Hernández Gordillo. Secretaria. Dip. Antonio Rodríguez Rodríguez. Secretario. Rúbricas.
-
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Dado en la Residencia del Poder Ejecutivo, Casa Morelos, en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los veinticinco días del mes de marzo de dos mil catorce.
-
-“SUFRAGIO EFECTIVO. NO REELECCIÓN”
-
-GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
-
-GRACO LUIS RAMÍREZ GARRIDO ABREU
-
-SECRETARIO DE GOBIERNO
-
-ING. JORGE VICENTE MESSEGUER GUILLÉN
-
-RÚBRICAS.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 5 DE AGOSTO DE 2015.
-
-PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
-
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA, EL VEINTIDÓS DE JULIO DE DOS MIL DIECISÉIS, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA, EL VEINTIDÓS DE JULIO DE DOS MIL DIECISÉIS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-P.O. 22 DE JULIO DE 2016.
-
-## TÍTULO CUARTO. DEL CONSEJO CONSULTIVO DE TRANSPORTE
-
-### CAPÍTULO QUINTO. DE LA EXTINCIÓN DE LAS CONCESIONES
-
-###### Artículo 68.
-
-Las concesiones se extinguen:
-
-a) Por caducidad;
-
-b) Por cancelación;
-
-c) Por revocación;
-
-d) Renuncia del titular de la concesión, y
-
-e) Pérdida de la nacionalidad mexicana en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2015)</small>
-
-f) Por extinción, liquidación, quiebra o concurso de las personas morales titulares.
-
-###### Artículo 69.
-
-Las concesiones caducan por:
-
-I. Expire el plazo de su vigencia, sin que haya sido renovada o no se haya pagado los derechos para su prorroga o esta no haya sido concedida por causas imputables al titular;
-
-II. No refrendar a tiempo el pago de tarjetón existiendo adeudo anterior a dos años;
-
-III. No se inicie con la prestación del Servicio de Transporte Público de la totalidad de los vehículos que le fueron autorizados, dentro del plazo señalado en la concesión, o
-
-IV. Se suspenda la prestación del Servicio de Transporte Público durante un plazo no mayor a diez días, por causas imputables al concesionario.
-
-###### Artículo 70.
-
-Las concesiones se cancelan por:
-
-I. Transportar sin autorización, materiales que requieran permisos especiales de acuerdo a lo establecido por esta Ley; y
-
-II. Por inscribir en el vehículo destinado a la prestación del servicio de transporte en todas sus modalidades, leyendas ofensivas u obscenas hacia las personas, instituciones y dependencias.
-
-###### Artículo 71.
-
-Procede la revocación de las concesiones en los siguientes casos:
-
-I. Pretender transmitir los derechos derivados de la concesión;
-
-II. Por utilizar documentación falsa o elementos de circulación en vehículo distinto al autorizado;
-
-III. No contar con póliza de seguro vigente, o en su caso, fondo de garantía, que garantice la indemnización de daños que con motivo de la prestación del servicio se causen a los usuarios, peatones o terceros en su persona y/o propiedad, tratándose tanto de Servicio de Transporte Público como privado;
-
-IV. No cubrir las indemnizaciones por daños que se originen a la Administración Pública, a los usuarios, peatones, conductores o terceros, una vez desahogados los procedimientos legales, con motivo de la prestación del Servicio de Transporte Público;
-
-V. Utilizar vehículos que no se encuentren expresamente autorizados por la Secretaría;
-
-VI. Utilizar los vehículos destinados al Servicio de Transporte Público para la comisión de un delito o para un fin distinto a lo autorizado por el título de concesión;
-
-VII. Permitir que los vehículos mediante los que se presente el Servicio de Transporte Público sean operados por personas distintas a las expresamente autorizadas por la Secretaría;
-
-VIII. Alterar el orden público o la vialidad, en forma tal que se deje de prestar el Servicio de Transporte Público;
-
-IX. Que el concesionario por sí mismo o a través de sus operadores del transporte público, empleados o personas relacionadas con la prestación del Servicio de Transporte Público encomendado, se haga acreedor a dos sanciones en un período de tres meses, cuatro sanciones en un período de seis meses u ocho sanciones en un período de un año, por incumplir con las obligaciones o condiciones establecidas en la presente Ley y su Reglamento;
-
-X. Modificar o alterar las tarifas, horarios, itinerarios, recorridos, bases, terminales y demás condiciones en que fue originalmente otorgada la concesión o permiso, sin aprobación previa y por escrito de la Secretaría;
-
-XI. No acatar en tiempo y forma, las disposiciones de la Secretaría, respecto a la conservación, mantenimiento o sustitución del parque vehicular; modificación, ampliación o reubicación de rutas o itinerarios, bases, recorridos y demás disposiciones relacionadas con las especificaciones, condiciones y modalidades del servicio;
-
-XII. Alterar o modificar en cualquier forma sin aprobación expresa y por escrito de la Secretaría, el diseño, estructura o construcción original de las unidades destinadas al servicio;
-
-XIII. Cuando se exhiba documentación apócrifa, o se proporcionen informes o datos falsos a la Secretaría;
-
-XIV. Modificar la cláusula de exclusión de extranjeros cuando se trate de sociedades, y
-
-XV. Por las demás causas que señale la presente Ley, y el Reglamento o cualquier otra disposición jurídica y administrativa aplicable.
+### CAPÍTULO I. GENERALIDADES
 
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público e interés social y de observancia general en todo el Estado, y tiene por objeto el regular el transporte particular, la prestación de los servicios de transporte público y privado así como sus servicios auxiliares en el Estado de Morelos que no sean de competencia Federal o Municipal.
+El presente Reglamento es de orden público y de observancia general en toda la Ciudad de México y tiene por objeto regular los actos constitutivos que deberán llevar a cabo las organizaciones ciudadanas, así como las agrupaciones políticas locales con registro ante el Instituto Electoral de la Ciudad de México, para constituirse en partido político local en esta entidad.
 
 ###### Artículo 2.
 
-Para los efectos de esta Ley y para su debida interpretación, se entenderá por:
+Para los efectos del presente Reglamento, se entenderá:
 
-I. Bases, al lugar del cual sale o llega el transporte público concesionado con itinerario fijo;
+a) En cuanto a los ordenamientos legales:
 
-II. Concesión, al título que a través de un acto administrativo otorga el Gobernador Constitucional del Estado de Morelos a personas físicas o morales, y que confiere el derecho de explotar y operar los Servicios de Transporte Público;
+I. Código: Código de Instituciones y Procedimientos Electorales de la Ciudad de México;
 
-III. Concesionario, a la persona física o moral titular de una concesión;
+II. Ley General: Ley General de Instituciones y Procedimientos Electorales;
 
-IV. Conductor, a la persona que guía un vehículo cualesquiera que sean las características técnicas de este;
+III. Ley de Partidos: Ley General de Partidos Políticos;
 
-V. Dirección General de Transporte, a la Dirección General de Transporte Público, Privado y Particular de la Secretaría de Movilidad y Transporte del Poder Ejecutivo Estatal;
+IV. Reglamento: Reglamento para el registro de partidos políticos locales ante el Instituto Electoral de la Ciudad de México;
 
-VI. Gafete de Operador, al documento otorgado a persona física que contiene la autorización otorgada por la persona titular de la Secretaría de Movilidad y Transporte del Poder Ejecutivo Estatal para conducir y operar vehículos destinados a los servicios de transporte público;
+V. Reglamento de Fiscalización: Reglamento para la Fiscalización de los recursos de las organizaciones de ciudadanos que manifiesten su interés en constituirse como partido político local de la Ciudad de México, aprobado mediante Acuerdo del Consejo General de este Instituto Electoral identificado con la clave IECM/ACU-CG-030/2017 del cuatro de agosto de dos mil diecisiete;
 
-VII. Gobernador Constitucional del Estado de Morelos, a la persona Titular del Poder Ejecutivo Estatal;
+VI. Lineamientos de Verificación: Lineamientos para la verificación del número mínimo de personas afiliadas a las organizaciones interesadas en obtener su registro como Partido Político Local, aprobados mediante Acuerdo del Consejo General del Instituto Nacional Electoral identificados con la clave INE/CG660/2016, del siete de septiembre de dos mil dieciséis, y
 
-VIII. Horario, al documento emitido por la persona Titular de la Secretaría de Movilidad y Transporte del Poder Ejecutivo, en la cual se establecen las frecuencias en la operación del Servicio del Transporte Público, deberá contener como mínimo, nombre del concesionario, itinerario, horas de inicio y término del servicio, distancias, ubicación de los servicios auxiliares y firma del concesionario;
+VII. Lineamientos de notificaciones electrónicas: Lineamientos del Sistema de Notificaciones Electrónicas por Internet para solicitantes de registro como Asociaciones Políticas Locales en la Ciudad de México.
 
-IX. Ley, a la presente Ley;
+b) En cuanto a los órganos y autoridades:
 
-X. Operador del Transporte Público, al hombre o a la mujer de 21 a 65 años de edad, que conduzcan vehículos destinados al Servicio de Transporte Público y que cuenten con el gafete de operador y licencia de conducir;
+I. Consejo General: Consejo General del Instituto Electoral de la Ciudad de México;
 
-XI. Operativo, al acto administrativo por el que la Secretaría de Movilidad y Transporte del Poder Ejecutivo, ejerce sus facultades para supervisar y verificar el cumplimiento a lo establecido por la presente Ley y su Reglamento;
+II. Comisión: Comisión Permanente de Asociaciones Políticas;
 
-XII. Parada, al lugar donde obligatoriamente se detienen los vehículos del Servicio Transporte Público para realizar sólo labores de ascenso y descenso de pasajeros;
+III. DERFE: Dirección Ejecutiva del Registro Federal de Electores del Instituto Nacional Electoral;
 
-XIII. Permisionario, a la persona física y moral titular de un permiso;
+IV. DEPPP: Dirección Ejecutiva de Prerrogativas y Partidos Políticos del Instituto Nacional Electoral;
 
-XIV. Permiso de conducir, a la autorización otorgada a particulares para operar vehículos particular, sin la licencia necesaria para ese efecto durante un tiempo determinado.
+V. Dirección Ejecutiva: Dirección Ejecutiva de Asociaciones Políticas;
 
-XV. Permiso particular, a la autorización otorgada a particulares para operar los Servicios de Transporte Particular de Carga, la cual es otorgada por el Titular de la Secretaría de Movilidad y Transporte del Poder Ejecutivo Estatal;
+VI. Funcionarias y funcionarios del Instituto Electoral: Quienes representen y auxilien al Instituto Electoral en el proceso de certificación de las asambleas distritales, de demarcaciones territoriales y locales constitutivas, designadas por la persona titular de la Dirección Ejecutiva de Asociaciones Políticas y acreditadas por la persona titular de la Secretaría Ejecutiva;
 
-XVI. Permiso, a la autorización hecha a persona física o moral que otorga el Titular de la Secretaría de Movilidad y Transporte del Poder Ejecutivo Estatal para la prestación del Servicio de Transporte Privado;
+VII. Instituto Electoral: Instituto Electoral de la Ciudad de México;
 
-XVII. Registro Público de Transporte, al Registro Público Estatal de Transporte;
+VIII. Instituto Nacional: Instituto Nacional Electoral;
 
-XVIII. Reglamento, al Reglamento de la presente Ley;
+IX. Secretario Ejecutivo: Persona titular de la Secretaría Ejecutiva del Instituto Electoral, y
 
-XIX. Secretaría, a la Secretaría de Movilidad y Transporte del Poder Ejecutivo Estatal;
+X. Unidad de Fiscalización: Unidad Técnica Especializada de Fiscalización.
 
-XX. Secretario, a la persona Titular de la Secretaría;
+c) En cuanto a los conceptos:
 
-XXI. Servicio de Transporte Privado, al que sin tener las características propias del servicio público, realizan las personas físicas o morales para satisfacer una necesidad específica de determinado sector de la población, relacionadas directamente con el cumplimiento de su objeto social o con la realización de actividades comerciales;
+I. Cédula de afiliación: Constancia de afiliación individual y voluntaria de una persona, en la que manifiesta formal y expresamente su intención de ser parte de un partido político local en formación;
 
-XXII. Servicio de Transporte Público, al que se lleva a cabo de manera continua, permanente, uniforme y regular en las vías públicas de comunicación terrestre del Estado y sus Municipios, para satisfacer la demanda de los usuarios, mediante la utilización de vehículos adecuados para cada tipo de servicio y en el que los usuarios como contraprestación realizan el pago de una tarifa previamente autorizada;
+II. Demarcación Territorial: Base de la división territorial y de la organización política administrativa de la Ciudad de México;
 
-XXIII. Servicios Auxiliares del Transporte, a los elementos y bienes necesarios que coadyuvan al mejor funcionamiento de la prestación de los servicios de transporte;
+III. Distrito Electoral Uninominal: Cada una de las treinta y tres delimitaciones geográficas en que se divide el territorio de la Ciudad de México a fin de realizar las elecciones;
 
-XXIV. Sistema de Posicionamiento Global, al sistema global de navegación por satélite que permite determinar en todo el mundo la posición de un vehículo;
+IV. Documentos Básicos: Instrumentos que norman las actividades del partido político en formación, tales como: Declaración de Principios, Programa de Acción y Estatuto;
 
-XXV. Sitios, al espacio de la vía pública o en propiedad privada, autorizado por los Municipios, para estacionar vehículos de alquiler o de carga no sujetos a itinerario y a donde los usuarios pueden acudir a contratar estos servicios;
+V. FUAR: Número de folio de la Solicitud Individual de Inscripción o Actualización al Registro de Electores y Recibo de la Credencial para Votar, otorgado a quienes realizaron un trámite en módulos de atención ciudadana del Instituto Nacional;
 
-XXVI. Tarifa, al precio que paga el usuario por la prestación de un Servicio de Transporte Público;
+VI. Organización: Grupo de ciudadanas y ciudadanos legalmente constituidas en Asociación Civil o agrupación política local, solicitantes de registro como partido político local;
 
-XXVII. Tarjetón, al documento de validación para prestar el Servicio de Transporte Público;
+VII. Partido político local: El que obtenga su registro como tal ante el Instituto Electoral de la Ciudad de México;
 
-XXVIII. Terminal, a la estación autorizada por los Ayuntamientos para iniciar, transbordar o finalizar una ruta;
+VIII. Personas Afiliadas: Aquéllas que manifiesten su intención de ser parte de un partido político local en formación;
 
-XXIX. Transporte, al traslado de personas, animales y bienes de un lugar a otro dentro del territorio del Estado, a través de algún tipo de vehículo terrestre;
+IX. Sección Electoral: Es la fracción territorial de los Distritos Electorales Uninominales para la inscripción de la ciudadanía, conforme a su domicilio, en el Padrón Electoral y las Listas Nominales de Electores, y
 
-XXX. Usuarios, a las personas que utilicen el Servicio de Transporte Público;
-
-XXXI. Vehículo, a todo instrumento impulsado por un motor o cualquier forma de tracción o propulsión, en el cual se lleve a cabo el transporte de personas, animales o cosas, y
-
-XXXII. Vía Pública, a las calles, avenidas, pasajes, carreteras pavimentadas o revestidas, brechas o caminos vecinales y, en general, todo terreno de dominio público y de uso común que por disposiciones legales o de la autoridad estén destinados al tránsito de personas y vehículos, que no sean de jurisdicción Federal.
+X. Sistema de Registro: Sistema de Registro de Partidos Políticos Locales administrado por el Instituto Nacional.
 
 ###### Artículo 3.
 
-La autoridad competente para la interpretación y observación de la presente Ley y su respectivo Reglamento será la Secretaría, sin perjuicio de las atribuciones conferidas a otras Secretarías, Dependencias y Entidades de la Administración Pública Estatal y a los Ayuntamientos de los Municipios del Estado, en los casos en que la presente Ley u otras les otorguen esa atribución.
+La interpretación y aplicación de las disposiciones de este Reglamento, se harán conforme a los principios y criterios establecidos en el Código y en la normativa electoral aplicable.
 
 ###### Artículo 4.
 
-La Secretaría tiene jurisdicción en todo el territorio del Estado, ejerciendo sus atribuciones que le confieren la presente Ley, sus Reglamentos y demás disposiciones legales con respecto al transporte particular y el Servicio de Transporte Público y Privado.
+Para lo no previsto en el presente Reglamento se aplicará en forma supletoria la Ley Procesal Electoral para la Ciudad de México y el Código Adjetivo Civil local vigente.
 
 ###### Artículo 5.
 
-El Transporte de personas y de carga, que no sean de competencia Federal, se regirán por las disposiciones de esta Ley y su Reglamento.
+El Consejo General, a través de la Comisión y con el apoyo de la Dirección Ejecutiva, será la autoridad encargada del procedimiento de registro de los partidos políticos locales.
+
+La Dirección Ejecutiva tiene la atribución en términos del artículo 95, fracción VI del Código, de dar trámite a los actos constitutivos derivados de la notificación de la intención y de la solicitud de registro presentadas por las organizaciones interesadas ante el Instituto Electoral, llevar a cabo la verificación sobre el cumplimiento de los requisitos establecidos por el Código y demás normativa electoral. Asimismo, la Dirección Ejecutiva podrá requerir los documentos o aclaraciones necesarias que formen parte del procedimiento previsto en este Reglamento, así como para informar mediante oficio a la organización interesada, sobre el desechamiento de las notificaciones de intención que no cumplan en tiempo y forma con los requisitos legales y reglamentarios, dejando a salvo su derecho para volver a presentar la notificación de intención siempre y cuando se encuentre dentro del plazo establecido para ese fin.
 
 ###### Artículo 6.
 
-La prestación del Servicio de Transporte Público corresponde originariamente al Estado, quien podrá prestarlo directamente o concesionarlo, mediante concurso público, a personas físicas o morales, de conformidad con lo establecido por la presente Ley.
+Las organizaciones interesadas deberán realizar los trámites correspondientes y entregar la documentación relacionada con el presente Reglamento, en el domicilio del Instituto Electoral ubicado en la calle de Huizaches número 25, colonia Rancho Los Colorines, Demarcación Territorial Tlalpan, Código Postal 14386, Ciudad de México, en un horario de lunes a viernes, entre las 09:00 y las 17:00 horas, con excepción de lo dispuesto en el párrafo primero de los artículos 10 y 38 del presente Reglamento, cuya documentación se podrá entregar a más tardar a las 24 horas del último día del plazo señalado para su recepción, en términos de dichos preceptos.
+
+Los plazos establecidos en el presente Reglamento son fatales e inamovibles, sin excepción alguna. Las notificaciones de intención que se presenten fuera de los plazos o sin las formalidades establecidas en el presente instrumento, no se considerarán válidas.
 
 ###### Artículo 7.
 
-El Servicio de Transporte que se preste en el Estado, tanto público como privado, deberá garantizar la satisfacción de las necesidades de traslado de personas y de bienes en las condiciones económicas y sociales más convenientes, bajo los principios de regularidad, orden, seguridad, calidad, eficiencia y generalidad.
+Toda comunicación presentada por la organización deberá suscribirse al menos por dos de las personas acreditadas como sus representantes; y para el caso de las agrupaciones políticas locales, estará suscrita por los representantes legales acreditados ante el Instituto Electoral. En caso de recibir diversos escritos sobre un mismo asunto, prevalecerá la última comunicación que sea entregada a la autoridad electoral local.
 
-### CAPÍTULO SEXTO. DE LOS PERMISOS
-
-###### Artículo 72.
-
-Para efectos de la presente Ley se entenderá por permiso, el acto administrativo de la Dirección General de Transporte para autorizar a persona física o moral, la prestación del Servicio de Transporte Privado así como sus servicios auxiliares, que refieren los artículos 36 y 42 de este ordenamiento, por un período no mayor de un año ni menor de treinta días. Los servicios permisionados serán específicos, quedando prohibida la operación de servicios distintos a los autorizados.
-
-###### Artículo 73.
-
-Para el otorgamiento de los permisos a que se refiere el artículo anterior, el interesado deberá presentar ante la Dirección General de Transporte, solicitud por escrito con los datos y documentos siguientes:
-
-I. Nombre y domicilio del solicitante;
-
-II. Copia certificada del acta de nacimiento, si es persona física, o acta constitutiva si se trata de persona moral, en este último caso, poder que otorgue facultades para la tramitación;
-
-III. Tipo de servicio que pretende prestar y en su caso el seguro correspondiente;
-
-IV. Comprobar estar inscrito en el Registro Federal de Contribuyentes; y
-
-V. Acreditar la propiedad e identificación del vehículo, así como que éste ha pasado la revisión en los términos de los ordenamientos legales aplicables.
-
-###### Artículo 74.
-
-Cumplidos los requisitos señalados en el artículo anterior, a satisfacción de la Dirección General de Transporte, en un plazo no mayor de quince días hábiles, contados a partir de la fecha de presentación de la misma y siempre que el expediente se encuentre totalmente integrado, el Secretario resolverá en definitiva si se otorga o no el permiso solicitado.
-
-###### Artículo 75.
-
-Los permisos contendrán según la naturaleza del servicio:
-
-I. Tipo de Permiso;
-
-II. Motivación y fundamento legal;
-
-III. Nombre y domicilio del permisionario;
-
-IV. Registro Federal de Contribuyentes;
-
-V. Derechos y obligaciones de los permisionarios;
-
-VI. Causas de revocación;
-
-VII. La prohibición de prestar servicio distinto al autorizado;
-
-VIII. Vigencia, y
-
-IX. Obligaciones.
-
-###### Artículo 76.
-
-Los permisos son intransferibles, no podrán ser enajenados o gravados total o parcialmente y se extinguen con el sólo hecho del vencimiento del plazo para el que fueron otorgados.
-
-###### Artículo 77.
-
-El Secretario, expedirá permisos a los transportistas del Servicio Público Federal de pasajeros, turismo y carga cuando así lo requieran para transitar en caminos de jurisdicción Estatal en complemento a las rutas Federales en que operan, de conformidad a lo establecido en esta Ley y su Reglamento.
-
-###### Artículo 78.
-
-A fin de garantizar el servicio a la ciudadanía cuando exista urgente necesidad, el Secretario, permitirá con permiso extraordinario a unidades concesionadas para la prestación de los servicios de transporte público que refiere los artículos 32, 33, 34 y 35 de esta Ley, sólo en caso de algún desastre o necesidad urgente, por el tiempo que dure la misma:
-
-I. Modificar temporalmente alguna de las características para la prestación del servicio, sin que en ningún caso se altere substancialmente la concesión o permiso, y
-
-II. La prestación del servicio en condiciones excepcionales, cuando exista urgente necesidad del mismo y por el tiempo estrictamente necesario.
-
-Los permisos extraordinarios expedidos fuera de los casos establecidos en el presente artículo serán nulos; lo mismo se observará cuando se expidan por una autoridad no facultada para ello, o cuando estándolo los expida sin cumplir con los requisitos exigidos por esta Ley. Los funcionarios que contravengan lo establecido en el presente artículo, serán acreedores a las sanciones establecidas en la Ley Estatal de Responsabilidades de los Servidores Públicos.
-
-## TÍTULO OCTAVO. DE LOS ESTANDÁRES DE CALIDAD DEL SERVICIO DE TRANSPORTE
+### CAPÍTULO II. DE LOS SUJETOS
 
 ###### Artículo 8.
 
-Los Municipios participarán con la Secretaría en la formulación y aplicación de Programas relativos al Servicio de Transporte Público de pasajeros cuando deban ejecutarse dentro de su territorio, conforme a la Ley y el Reglamento respectivo.
+Es facultad de las organizaciones constituirse en partidos políticos locales de conformidad con lo previsto en el artículo 260 del Código.
 
 ###### Artículo 9.
 
-Cuando se presenten circunstancias de caso fortuito o de fuerza mayor, que afecten el normal funcionamiento del Servicio de Transporte Público y Privado, la Secretaría dictará las disposiciones que considere necesarias, para garantizar la prestación del servicio y resguardar la seguridad de la población en materia de transporte.
+Para que una organización tenga el carácter de partido político local y pueda gozar de las prerrogativas establecidas en el Código, se requiere que obtenga su registro ante el Instituto Electoral, de acuerdo con los requisitos y procedimientos que señala la Ley de Partidos, el Código y la normatividad aplicable.
 
-## TÍTULO QUINTO. DE LOS SERVICIOS DE TRANSPORTE
+## TÍTULO SEGUNDO. PROCEDIMIENTO DE CONSTITUCIÓN
 
-### CAPÍTULO ÚNICO
-
-###### Artículo 79.
-
-Los servicios de transporte y los operadores del transporte público estarán sujetos a los estándares de calidad siguientes:
-
-I. Los vehículos, durante la prestación del servicio, deberán encontrarse en condiciones higiénicas y de operación, para brindar un servicio a los usuarios de comodidad, eficiencia y seguridad;
-
-II. Contar con servicios auxiliares del transporte tales como encierros, talleres y terminales o bases y sitios de servicio, según corresponda;
-
-III. Destinar el diez por ciento de los asientos ofrecidos y ubicarlos en primera fila, para el transporte de personas con discapacidad, mujeres embarazadas y adultos mayores en plenitud;
-
-IV. Otorgar la exención de pago o el cincuenta por ciento descuento para personas con discapacidad, personas adultas mayores, y niños menores de tres años, según corresponda a cada caso en particular, y
-
-V. Los operadores del transporte público deberán estar presentables, aseados y uniformados;
-
-###### Artículo 80.
-
-La antigüedad de los vehículos que se utilicen para operar y explotar el Servicio de Transporte Público y Privado que refieren los artículos 33 y 36 de esta Ley, se fijará tomándose en consideración la modalidad del Servicio de Transporte Público, la zona y el tipo de vehículo en los términos que señala su Reglamento.
-
-Los vehículos destinados para el Servicio de Transporte Público que refiere los artículos 34 y 35, serán de carrocería, chasis y motor de fabricación nacional o que hayan sido ingresados legalmente al país.
-
-En todos los casos deberán cumplir con los requisitos y estándares de calidad que establecen las normas ecológicas y de tránsito aplicables. Asimismo, deberán acreditar satisfactoriamente la Revista Vehicular anual en los términos que señala esta Ley y su Reglamento.
-
-## TÍTULO NOVENO. DE LA CERTIFICACIÓN DE LOS OPERADORES DEL TRANSPORTE PÚBLICO Y DEL GAFETE DE OPERADOR
+### CAPÍTULO I. PRESENTACIÓN DE NOTIFICACIONES DE INTENCIÓN Y ACREDITACIÓN DE REPRESENTANTES
 
 ###### Artículo 10.
 
-La Secretaría, a través de la Dirección General de Transporte, brindará información, orientación y asesoría a los usuarios, en relación con el Servicio de Transporte Público, así como sobre sus derechos y obligaciones.
+El procedimiento de registro inicia con el escrito de notificación que entreguen las organizaciones interesadas en constituirse como partido político local a la Dirección Ejecutiva, por conducto de sus representantes acreditados en su respectiva Acta Constitutiva, durante los días hábiles del mes de enero del año posterior al de la última elección de la Jefatura de Gobierno, de conformidad con el artículo 265, párrafo primero del Código.
 
-La Secretaría publicará los itinerarios, terminales y bases del transporte público y privado en el Estado a través de una página de internet.
+El escrito de notificación de la intención deberá contener por lo menos los siguientes datos:
+
+a) Estar dirigido al Consejo General del Instituto Electoral de la Ciudad de México;
+
+b) La denominación de la organización interesada;
+
+c) La denominación preliminar del partido político local a constituirse;
+
+d) El emblema que identificará al partido político local en formación, así como su descripción de los elementos y colores que lo identifiquen, los cuales no podrán ser iguales a los utilizados por los partidos políticos con registro legal;
+
+e) El tipo de asambleas que celebrarán durante el proceso de registro de partidos políticos locales, que podrán ser Distritales o de Demarcaciones Territoriales, sin que puedan ser mixtas;
+
+f) Los nombres de al menos dos personas que ostenten la representación oficial de la organización durante el proceso de registro y, para el caso de las agrupaciones políticas locales, los de los representantes que se encuentren acreditados ante la Dirección Ejecutiva;
+
+g) Un domicilio en la Ciudad de México para oír y recibir todo tipo de notificaciones, en el que se precise calle, número exterior e interior, colonia, demarcación territorial, código postal y las calles entre las cuales se ubica;
+
+h) Correo electrónico de la asociación y/o de sus representantes legales;
+
+i) Dos números telefónicos de contacto, y
+
+j) Firma autógrafa de quienes ostenten la representación legal de la organización interesada.
+
+La documentación que se presentará adjunta a la notificación de intención será la siguiente:
+
+1) Para el caso de las organizaciones, deberán presentar original y copia simple del Acta Constitutiva que acredite la creación de una Asociación Civil para efectos de fiscalización de sus recursos por así disponerlo el artículo 1, párrafo segundo del Reglamento de Fiscalización; el original del acta será devuelto en ese mismo momento, una vez cotejado con la copia simple. El acta deberá contener como mínimo la siguiente información: fecha de constitución y en su caso número de escritura pública, nombre de los asociados e identificación oficial de los mismos, así como número de inscripción ante el Registro Público de la Propiedad.
+
+El Instituto Electoral en su página de Internet, pondrá a disposición de las organizaciones interesadas un formato de Estatuto de las asociaciones civiles.
+
+Las agrupaciones políticas locales deberán presentar copia simple del Acuerdo por el cual el Consejo General les otorgó registro como tal, así como el oficio emitido por la autoridad electoral que acredite el nombramiento vigente de las personas que integran al órgano de representación de la agrupación política local.
+
+2) Un CD que contenga el emblema que la identificará y diferenciará de otras organizaciones aspirantes y de los partidos políticos con registro vigente, con un tamaño que no sobrepase los 150 Kb, en formato GIF, JPG, JPEG o PNG;
+
+3) Un ejemplar del proyecto de sus documentos básicos: Declaración de Principios, Programa de Acción y Estatuto, con los datos previstos en los artículos 262, 263 y 264 del Código, así como lo establecido en el artículo 40, inciso a) del presente Reglamento, que serán aprobados por las personas afiliadas en cada una de las asambleas distritales o de demarcaciones territoriales y local constitutiva, que celebren las organizaciones, y
+
+4) Formato de Aceptación de notificaciones electrónicas por Internet, de acuerdo a lo establecido en los Lineamientos de Notificaciones Electrónicas. Dicho formato estará disponible en las oficinas que ocupa la Dirección Ejecutiva, así como en la página de Internet del Instituto Electoral.
+
+5) Formato de capacidad económica que les será proporcionado por la Unidad de Fiscalización.
+
+En ningún caso la Dirección Ejecutiva podrá dar trámite a la notificación de la intención cuando falte alguno de los documentos referidos.
 
 ###### Artículo 11.
 
-Los propietarios y conductores de vehículos particulares, no podrán prestar servicio a terceros a título oneroso
+Para los efectos previstos en el artículo 8, párrafo segundo, inciso a), del Reglamento de Fiscalización, dentro de los cinco días hábiles siguientes a la notificación de la intención de constituirse en partido político local, las organizaciones interesadas informarán a la Unidad de Fiscalización los nombres de quienes vayan a fungir como sus representantes, así como de las personas responsables de su órgano de finanzas, y presentarán la siguiente documentación, en original y copia simple para su cotejo:
+
+a) Acta Constitutiva a que se hizo referencia en el numeral 1) del artículo anterior, con excepción de las agrupaciones políticas locales;
+
+b) Comprobante de inscripción al Sistema de Administración Tributaria con actividad económica de asociaciones y organizaciones políticas y bajo el régimen de personas morales con fines no lucrativos;
+
+c) Contrato de la Institución Financiera con la cual abrió la cuenta bancaria para el control de los recursos relacionados con su intención de constituirse como partido político local;
+
+d) Comprobante de domicilio con una antigüedad no mayor a dos meses;
+
+e) Dirección de correo electrónico, y
+
+f) Número telefónico de la organización.
+
+La Unidad de Fiscalización informará a la Dirección Ejecutiva a más tardar dentro de las 48 horas siguientes a la recepción de la documentación, sobre el cumplimiento que las organizaciones interesadas dieron a la presentación de la documentación antes descrita.
 
 ###### Artículo 12.
 
-Son autoridades en materia de transporte:
+El Instituto Electoral reconocerá como representantes de las organizaciones que manifiesten expresamente su intención de constituirse en partido político local, a las personas acreditadas como tales en su respectiva Acta Constitutiva.
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+Tratándose de las agrupaciones políticas locales, las personas acreditadas serán aquéllas que ostenten su representación de acuerdo con los estatutos de las mismas. La Dirección Ejecutiva verificará en sus estatutos la facultad de estos órganos para delegar dicha representación.
 
-I. Del Titular del Poder Ejecutivo: El Gobernador Constitucional del Estado de Morelos, por sí o a través de su Secretaría de Hacienda;
-
-II. De la Secretaría de Movilidad y Transporte del Poder Ejecutivo Estatal: El Secretario;
-
-III. De la Subsecretaría de Movilidad y Transporte: El Subsecretario de Movilidad y Transporte del Estado de Morelos;
-
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
-
-IV. De la Dirección General de Transporte Público y Privado: El Director General de Transporte, y
-
-V. De la Dirección General Jurídica: El Director General Jurídico de la Secretaría de Movilidad y Transporte.
-
-Como órganos auxiliares:
-
-1. De los Ayuntamientos: El Cabildo Municipal.
+Las agrupaciones políticas locales que no cuenten con órganos directivos actualizados, podrán solicitar les sea reconocida la última directiva, sólo para efectos del trámite de registro como partido político local. En caso de ausencia definitiva del órgano de representación, la agrupación deberá realizar su elección previo al inicio del procedimiento de registro de partido político local, de conformidad con sus normas estatutarias.
 
 ###### Artículo 13.
 
-Son facultades del Gobernador Constitucional del Estado de Morelos:
+En el periodo de diez días hábiles siguientes a la recepción de la notificación de intención para constituirse en partido político local, la Dirección Ejecutiva comunicará a la organización interesada, por oficio o vía electrónica, el resultado de la verificación de la documentación presentada. En caso de existir error u omisión en la documentación presentada, en el mismo oficio se hará el requerimiento correspondiente y se otorgará a la organización un plazo de tres días hábiles contados a partir del día siguiente de la notificación respectiva, a efecto de que subsane o manifieste lo que a su derecho convenga, apercibiéndola que de no hacerlo en el tiempo y forma establecidos, se desechará de plano la notificación de intención, dejando a salvo su derecho para presentar una nueva dentro del plazo legalmente establecido para ello.
 
-I. Reglamentar, dirigir y vigilar dentro de su ámbito de competencia, todo lo relativo al Transporte en las vías públicas del Estado;
+Las organizaciones que cuenten con notificaciones de intención que hayan resultado procedentes por haber presentado en tiempo y forma los requisitos y la documentación anexa, serán citadas en el propio oficio de procedencia, para que sus representantes acudan a las oficinas de la Dirección Ejecutiva con el objeto de que, previa identificación y acuse de recepción, reciban la clave de usuario externo y contraseña de acceso al Sistema de Registro para dar cumplimiento a lo dispuesto en el artículo 17 de los Lineamientos de Verificación a fin de elaborar la lista de personas afiliadas con que cuente la organización en el resto de la entidad. Asimismo en el oficio de procedencia se les informará que a partir de ese momento, podrán presentar su calendario de asambleas distritales o de demarcaciones territoriales, según sea el caso, y de la local constitutiva, en términos del artículo 22 del presente Reglamento.
 
-II. Definir la política y los programas en materia de transporte, tomando en cuenta la propuesta de los Ayuntamientos en lo que corresponda al ámbito territorial de los Municipios respectivos;
+La Dirección Ejecutiva informará a la DEPPP sobre las notificaciones de intención de las organizaciones interesadas que hubieren resultado procedentes. Dentro de los cinco días hábiles siguientes a la emisión del oficio de procedencia de la notificación de intención, la Dirección Ejecutiva capturará en el Sistema de Registro la información a que se refiere el artículo 4 de los Lineamientos de Verificación.
 
-III. Atender la apertura y construcción de nuevas vías de comunicación dentro de los límites del Estado;
-
-IV. Administrar y prestar originariamente el Servicio de Transporte Público Local, y, en su caso, concesionarlo;
-
-V. Ordenar medidas de seguridad para prevenir daños con motivo de la circulación de vehículos;
-
-VI. Otorgar, revocar, suspender o declarar la nulidad de las concesiones para la prestación del Servicio de Transporte Público, en cualquiera de sus modalidades, desahogando el procedimiento respectivo a través de la Secretaría;
-
-VII. Otorgar las autorizaciones temporales de prestación del Servicio de Transporte Público, cuando estos sean necesarios por causa emergente, exclusivamente durante el tiempo que dure la misma y tengan como único fin garantizar el servicio a la ciudadanía;
-
-VIII. Celebrar Convenios de Coordinación con la Federación, las Entidades Federativas y los Municipios, así como con los sectores social y privado, para la mejor prestación de los Servicios de Transporte Público y Privado en el Estado y sus auxiliares;
-
-IX. Decretar la expropiación de dominio, servidumbre u ocupación temporal de los bienes que se requieran para la prestación del Servicio de Transporte Público;
-
-X. Autorizar en los Municipios que considere necesario, las condiciones para una conurbación, previo estudio que lleve a cabo la Secretaría de Movilidad y Transporte, otorgando el libre ascenso en la prestación del Servicio de Transporte Público sin itinerario fijo. Esto en atención al crecimiento de la población, así como a la necesidad de la ciudadanía de contar con un Servicio de Transporte Público sin itinerario fijo;
-
-XI. Expedir la declaratoria de necesidades de nuevos servicios con base en los estudios que realice la Secretaría, y
-
-XII. Las demás que establezcan el Reglamento y otras disposiciones legales aplicables.
-
-### CAPÍTULO ÚNICO
-
-###### Artículo 81.
-
-Para operar vehículos destinados a los Servicios de Transporte Público, se requiere contar con certificación y el gafete de operador expedidos por la Secretaría
-
-###### Artículo 82.
-
-Para obtener la certificación a que se refiere este ordenamiento el sujeto deberá cubrir los siguientes requisitos:
-
-I. Ser mexicano;
-
-II. Contar con Licencia de chofer expedida por la Dirección General de Transporte;
-
-III. Tener 21 años cumplidos;
-
-IV. Aprobar la capacitación como operador del transporte público, con las condiciones y modalidades que señale el Reglamento de la presente Ley o en su caso determine la Secretaría;
-
-V. Demostrar aptitud física y mental para conducir vehículos destinados al transporte público en cualquiera de sus modalidades;
-
-VI. No estar jurídicamente impedido para conducir vehículos por resolución administrativa o judicial;
-
-VII. Comprobante de domicilio, y
-
-VIII. Pagar los derechos correspondientes.
-
-###### Artículo 83.
-
-La certificación consistirá en un gafete que se expedirá en cumplimiento a esta Ley y tendrán una vigencia de dos años y deberán resellarse semestralmente por la Secretaría. Además de los requisitos contemplados en el artículo 82 de esta Ley, se deberán satisfacer los siguientes:
-
-I. Aprobar el examen médico general, psicométrico y toxicológico que lo declare apto para operar vehículos del Servicio de Transporte Público, obteniendo la certificación respectiva;
-
-II. Acreditar la actualización de la capacitación correspondiente a la modalidad de transporte que va a operar, conforme a lo establecido por el Reglamento;
-
-III. No contar con algún adeudo o sanción impuesta por la autoridad competente, no tener hábitos de embriaguez, de uso de estupefacientes, drogas, psicotrópicos o sustancia alguna que altere su capacidad o habilidad para conducir, y
-
-IV. Pagar los derechos correspondientes.
-
-Los exámenes médicos, psicofísicos y de manejo que refiere la fracción I del presente artículo, serán aplicados por la Secretaría, por sí o a través de las autoridades que ésta determine o con las que celebre convenio, mismas que expedirán la certificación respectiva.
-
-Los operadores del transporte público tendrán la obligación de resellar semestralmente el gafete de operador que les expida la Secretaría, previa acreditación de actualización del curso de capacitación.
-
-###### Artículo 84.
-
-Los gafetes de operador que expida la Secretaría se extinguen por las siguientes causas:
-
-I. Cancelación;
-
-II. Expiración del plazo por el que fue otorgado, y
-
-III. Las demás que establezca la presente Ley u otras disposiciones legales aplicables.
-
-###### Artículo 85.
-
-Los gafetes de operador que expida la Secretaría, se cancelarán por cualquiera de las siguientes causas:
-
-I. Cuando el titular sea sancionado por conducir vehículos de Servicio de Transporte Público en estado de ebriedad, bajo la influencia de estupefacientes, psicotrópicos u otras sustancias tóxicas, o por rebasar el límite de velocidad permitida;
-
-II. Cuando al operador del transporte público se le sancione en dos ocasiones con la suspensión del gafete de operador, de conformidad al siguiente artículo de esta Ley;
-
-III. Cuando se compruebe que la información proporcionada para su expedición sea falsa o alterada, o bien, que alguno de los documentos presentados para cumplir los requisitos para su expedición sean falsos o alterados; en este caso además se dará vista a la autoridad competente;
-
-IV. Cuando por motivo de su negligencia, impericia, falta de cuidado o irresponsabilidad el titular del gafete de operador ponga en peligro la seguridad o la vida de los usuarios, peatones o terceros;
-
-V. Cuando al operador del transporte público se le detenga conduciendo un vehículo que se ostente como del Servicio de Transporte Público en cualquier modalidad sin que el vehículo cuente con los documentos de circulación y/o carezca de la autorización respectiva;
-
-VI. Por resolución judicial ejecutoriada durante el tiempo que se señale en la misma;
-
-VII. Por resolución administrativa cuando se compruebe incapacidad física o mental;
-
-VIII. Por permitir que otra persona utilice su licencia de chofer o gafete de operador;
-
-IX. Por abandonar el lugar del accidente cuando su vehículo se haya visto involucrado, excepto en los casos que resulte lesionado y sea trasladado a un centro médico para su atención, y
-
-X. Por conducir un vehículo automotor, distinto a la categoría para el que fue otorgado el gafete de operador.
-
-Cuando el gafete de operador sea cancelado, la Dirección General de Transporte, procederá a realizar las anotaciones correspondientes en el Registro Público de Transporte; por su parte, el operador del transporte público deberá reintegrar el gafete de operador a la autoridad que lo expidió, en un término que no exceda de cinco días, contados a partir del día siguiente al que surta efectos la notificación respectiva.
-
-###### Artículo 86.
-
-La Dirección General de Transporte está facultada para suspender en forma temporal a los operadores del transporte público, el uso del gafete de operador, por un término de tres a doce meses, en cualquiera de los casos siguientes:
-
-I. Si acumula tres infracciones a la presente Ley o su Reglamento en el transcurso de un año, contado a partir de la primera infracción;
-
-II. Si acumula tres infracciones en materia de tránsito local en el transcurso de un año contado a partir de la primera infracción;
-
-III. Cuando dolosamente el titular del mismo haya causado daño o durante la prestación del servicio cometa algún delito doloso, y
-
-IV. Cuando existan en su contra más de dos denuncias ciudadanas por no otorgar la exención de pago o los descuentos establecidos en artículo 79, fracción IV.
-
-###### Artículo 87.
-
-A ninguna persona se le renovará el gafete de operador cuando se encuentre en cualquiera de los supuestos siguientes:
-
-I. Cuando la licencia esté suspendida o cancelada;
-
-II. Cuando la autoridad compruebe que el solicitante ha sido calificado con incapacidad mental o física que le impida conducir vehículos y no compruebe, mediante certificado médico, haberse rehabilitado;
-
-III. Cuando la documentación exhibida sea apócrifa, alterada o proporcione informes falsos en la solicitud correspondiente;
-
-IV. Cuando haya sido suspendido más de dos veces por las causas señaladas en el artículo 86 de esta Ley, y
-
-V. Cuando así lo ordene la autoridad Judicial o Administrativa competentes.
-
-## TÍTULO DÉCIMO. DE LA CAPACITACIÓN
+### CAPÍTULO II. PROCESO DE AFILIACIÓN Y TIPOS DE LISTAS DE AFILIACIONES
 
 ###### Artículo 14.
 
-El Titular de la Secretaría, además de las facultades que establece la Ley Orgánica de la Administración Pública del Estado, tendrá las siguientes:
+Las organizaciones interesadas podrán comenzar con el proceso de afiliación a partir de la presentación de su intención de constituirse como partido político local y hasta el último día de enero del año anterior al de la siguiente elección ordinaria, de acuerdo con el formato que para tal efecto apruebe el Consejo General.
 
-I. Planear, organizar, regular, vigilar y, en su caso, administrar el Servicio de Transporte Público, Privado y Particular en cualquiera de sus modalidades;
+La cédula de afiliación contendrá como mínimo los siguientes datos:
 
-II. Dirigir, coordinar y controlar la ejecución de los programas de transporte en la Entidad, que realice directamente o en forma concertada con la Federación o los Municipios;
+a. Emblema y denominación preliminares del partido político local en formación;
 
-III. Emitir acuerdos, circulares y demás disposiciones en el ámbito de su competencia, para la aplicación de las Leyes en la materia;
+b. Nombre (apellido paterno/apellido materno/nombre[s]);
 
-IV. Elaborar los planes, estudios y proyectos, directamente o a través de terceros en materia de movilidad y transporte, dentro del ámbito de su competencia que le señalen las Leyes Federales y Estatales en esta materia;
+c. Domicilio (calle, número exterior e interior, colonia, código postal y Demarcación Territorial);
 
-V. Someter a consideración de las instancias competentes las acciones de planeación, programación y presupuesto para la modernización de la infraestructura de movilidad y transporte que se efectúe en el Estado;
+d. Demarcación Territorial y Distrito Electoral Uninominal al que pertenece la persona afiliada;
 
-VI. Coadyuvar con las Autoridades Federales, Estatales y Municipales en la planeación, elaboración y desarrollo de Proyectos de movilidad y transporte en la Entidad;
+e. Ocupación;
 
-VII. Fijar normas técnicas para el funcionamiento y operación de los servicios de movilidad y transporte de la Entidad;
+f. Clave de elector que se indica en la credencial para votar o FUAR;
 
-VIII. Implementar las medidas necesarias encaminadas a mejorar el servicio de transporte considerando el desarrollo tecnológico y teniendo en consideración sus efectos en el medio ambiente;
+g. Sección electoral;
 
-IX. Proponer la tarifa del Servicio de Transporte Público, autorizando, modificando, cancelando, actualizando y comprobando su correcta aplicación;
+h. La manifestación expresa, directa y categórica de afiliarse libre, individual y voluntariamente al partido político local que pretende constituirse;
 
-X. Promover y fomentar la participación de los diversos sectores de la sociedad, con el objeto de conocer su problemática en materia de movilidad y transporte para su atención;
+i. Fecha;
 
-XI. Fomentar la participación ciudadana en los temas de mejoramiento y vigilancia de la prestación del Servicio de Transporte Público;
+j. Firma autógrafa que coincida con la contenida en la credencial para votar, o en su caso, huella digital, y
 
-XII. Otorgar, revocar, cancelar, suspender, modificar y dar por terminados los permisos y autorizaciones inherentes a la explotación del Servicio de Transporte Público y Privado vigilando e inspeccionando su cumplimiento y operación en los términos de las Leyes respectivas;
+k. Aviso de privacidad.
 
-XIII. Reasignar las concesiones sobre las que se haya declarado la revocación, cancelación y caducidad, por resolución administrativa que haya sido declarada firme;
-
-XIV. Vigilar y supervisar las empresas que operen medios de transporte concesionados dentro del Estado;
-
-XV. Validar los convenios que los concesionarios celebren entre sí, fijando las bases para la coordinación, combinación y enlace de los Servicios de Transporte Público y Privado, observando que los convenios conlleven al mejoramiento sustancial de dichos servicios;
-
-XVI. Llevar a cabo por sí o a través de terceros, las acciones tendientes a promover el cumplimiento de las disposiciones Federales y Estatales en materia de conservación del ambiente en el desarrollo, explotación y operación del transporte público, privado y particular;
-
-XVII. Diseñar y establecer en su caso, las políticas y criterios para el establecimiento de rutas, horarios, itinerarios, tablas de distancia y todo aquello relacionado con la operación eficiente del Servicio de Transporte Público y Privado en las vialidades de jurisdicción estatal;
-
-XVIII. Proponer las cuotas, tasas y tarifas fiscales aplicables en materia de derechos por los servicios que proporcione la Secretaría en el ejercicio de sus atribuciones, así como los aprovechamientos respectivos;
-
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
-
-XIX. Suscribir y expedir tarjetas de circulación de transporte público y privado, tarjetón del servicio público, así como los gafetes de los operadores debidamente acreditados del Servicio de Transporte Público y demás documentos de circulación;
-
-XX. Regular, inspeccionar y vigilar el Servicio de Transporte Público y Privado en sus diversas modalidades, sus servicios conexos y a los prestadores del mismo a efecto de garantizar que el servicio público se preste en los términos y condiciones autorizados legalmente;
-
-XXI. Resguardar los documentos y placas depositadas con motivo de las infracciones y sanciones impuesta (sic) por violaciones a la normatividad en materia del transporte público y privado, en términos de la normatividad e instrumentos aplicables;
-
-XXII. Promover la investigación y el desarrollo tecnológico en materia de movilidad y transporte en la Entidad;
-
-XXIII. Promover e implementar nuevas modalidades en la prestación del Servicio del Transporte Público y Privado y sus servicios auxiliares cuando se justifique su necesidad e interés colectivo;
-
-XXIV. Establecer, administrar y mantener actualizado el registro y control de las concesiones, permisos, autorizaciones y el padrón de operadores del transporte público que le corresponda a la Secretaría;
-
-XXV. Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
-
-XXVI. Aplicar las sanciones por los actos u omisiones en que incurran los operadores del transporte público, propietarios, permisionarios o empresas de transporte, en violación a las disposiciones de esta Ley y de su Reglamento;
-
-XXVII. Recibir, tramitar y resolver, los procedimientos administrativos, y en su caso, imponer y aplicar sanciones en los términos de las Leyes, Reglamentos y demás disposiciones legales en materia de su competencia;
-
-XXVIII. Registrar, expedir y resguardar el Padrón de Operadores del Transporte en sus diferentes modalidades;
-
-XXIX. Expedir, suspender y cancelar licencias y permisos de conducir, tanto de uso de transporte público, privado y particular. En el caso de las licencias y permisos de conducir de uso particular, la suspensión y cancelación será en cumplimiento de mandato o resolución de autoridad competente;
-
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
-
-XXX. Registrar los vehículos de servicio de transporte público y privado, y expedir las placas metálicas, tarjetas de circulación, calcomanías y demás documentos que correspondan;
-
-XXXI. Declarar, previo procedimiento la revocación, cancelación y caducidad, de las concesiones del Servicio de Transporte Público, así como autorizar el cambio de modalidad del Servicio de Transporte Público en los términos de la normatividad aplicable, cuando se justifique la necesidad e interés colectivo;
-
-XXXII. Organizar los servicios emergentes de transporte público, cuando las circunstancia lo ameriten en coordinación con las autoridades correspondientes;
-
-XXXIII. Convocar por instrucciones del Gobernador Constitucional del Estado de Morelos, a concurso público para el otorgamiento de concesiones para la prestación del Servicio de Transporte Público en cualquiera de sus modalidades;
-
-XXXIV. Evaluar y dictaminar sobre el otorgamiento de concesiones y de permisos para la prestación del Servicio de Transporte Público;
-
-XXXV. Establecer las disposiciones administrativas para que los concesionarios y permisionarios satisfagan eficientemente la necesidad del Servicio de Transporte Público en el Estado, de conformidad con los ordenamientos legales vigentes, y
-
-XXXVI. Las demás que le delegue el Gobernador Constitucional del Estado de Morelos o le confieran las disposiciones legales aplicables.
+La cédula de afiliación deberá acompañarse de una copia simple por ambos lados de la credencial para votar de la persona afiliada o en su caso, del talón del FUAR y una credencial de identificación oficial, en este último supuesto.
 
 ###### Artículo 15.
 
-Son atribuciones del Subsecretario de Movilidad y Transporte.
-
-I. Planear, programar, organizar, controlar, dirigir y evaluar las actividades de la Subsecretaría y de las Delegaciones adscritas a ésta, conforme a las disposiciones jurídicas aplicables;
-
-II. Acordar con el Secretario, el despacho de los asuntos de las Delegaciones Regionales adscritas a la Subsecretaria;
-
-III. Cumplir y hacer cumplir los acuerdos del Secretario;
-
-IV. Coadyuvar en el ámbito de su competencia, en la difusión y promoción de la modernización del parque vehicular del Servicio de Transporte Público en el Estado, conforme a la legislación aplicable en la materia;
-
-V. Previo acuerdo del Secretario, expedir a solicitud del interesado o autoridad competente, constancia o certificación de documentos existentes en los archivos de la Secretaría;
-
-VI. Proponer al Secretario para su autorización, los principios técnicos, operativos y administrativos para regular la prestación del Servicio de Transporte Público, Privado;
-
-VII. Coordinarse con las diferentes áreas de la Secretaría y otras Secretarías, Dependencias y Entidades de las Administraciones Públicas Federal, Estatal y Municipal, así como de otras Entidades Federativas, a efecto de determinar las posibles necesidades y soluciones del Servicio de Transporte Público, Privado y sus servicios auxiliares en el Estado;
-
-VIII. Someter a la autorización del Secretario los planes, estudios y proyectos en materia del Servicio de Transporte Público, Privado y sus servicios auxiliares que competa a la Secretaría y coordinar su elaboración, directamente o a través de terceros;
-
-IX. Supervisar las acciones que realice la Secretaría, por sí o a través de terceros, tendientes a promover el cumplimiento de las disposiciones Federales y Estatales en materia de conservación del ambiente, en el desarrollo y operación del Servicio de Transporte Público, Privado y sus servicios auxiliares del transporte;
-
-X. Establecer y aplicar las políticas y criterios para llevar a cabo directamente o a través de terceros, los estudios y proyectos de ingeniería de transporte, dentro de su ámbito de competencia;
-
-XI. Proponer al Secretario, la operación y modificación del Servicio de Transporte Público y Privado en sus diversas modalidades y los servicios auxiliares del mismo, conforme a las disposiciones aplicables en la materia;
-
-XII. Elaborar el Programa Estatal de Desarrollo del Transporte y someterlo a la consideración del Secretario para la aprobación correspondiente;
-
-XIII. Registrar a las sociedades mercantiles para la prestación de los Servicios de Transporte Público y Privado, que cumplan con los requisitos establecidos en esta Ley y su Reglamento, y
-
-XIV. Las demás que delegue el Secretario, así como las establecidas en disposiciones legales y administrativas aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2017)</small>
+Las cédulas de afiliación deberán contar con un año de antigüedad como máximo, al día de su presentación ante la autoridad electoral. Las fechas de afiliación deberán encontrarse entre el mes de enero del año posterior al de la última elección de la Jefatura de Gobierno y el mes de enero del año anterior al de la siguiente elección ordinaria.
 
 ###### Artículo 16.
 
-Son atribuciones del Director General de Transporte Público y Privado:
+Habrá dos tipos de listas de afiliaciones:
 
-I. Cumplir y hacer cumplir la Legislación aplicable en la materia y los acuerdos que dicten el Gobernador Constitucional del Estado de Morelos y el Secretario de Movilidad y Transporte;
+a) Las listas de asistencia correspondientes a las asambleas distritales o de demarcaciones territoriales en las que se haya alcanzado cuando menos el 0.26 por ciento del Padrón Electoral del Distrito o Demarcación Territorial de que se trate; y
 
-II. Someter a la aprobación del Secretario, la identidad cromática y las características que deban portar y reunir los vehículos en los que se preste el Servicio de Transporte Público y Privado en sus diversas modalidades;
+b) Las listas de los afiliados con que cuenta la organización en el resto de la entidad.
 
-III. Realizar los trámites administrativos correspondientes para el cobro de refrendo por concepto de la vigencia del tarjetón, previa convocatoria suscrita por el Secretario;
-
-IV. Validar los procedimientos y la documentación que autorizan el cobro de las contribuciones por los servicios de la Dirección General de Transporte;
-
-V. Expedir las autorizaciones o permisos de transporte público, privado y particular;
-
-VI. Realizar la Revista Mecánica de los vehículos del Servicio de Transporte Público y Particular;
-
-VII. Integrar el Registro Público de Transporte;
-
-VIII. Someter a validación del Secretario los convenios que los concesionarios celebren entre sí, fijando las bases para la coordinación, combinación y enlace de los Servicios de Transporte Público y Privado, observando que los convenios conlleven al mejoramiento sustancial de dichos servicios;
-
-IX. Imponer, las sanciones administrativas correspondientes por violación a las disposiciones de la presente Ley y su Reglamento, en el ámbito de su competencia;
-
-X. Elaborar los estudios técnicos, socioeconómicos y administrativos, que en materia de transporte público y privado se encomienden;
-
-XI. Establecer y desarrollar los programas de capacitación a concesionarios, permisionarios y operadores del transporte público y particular;
-
-XII. Representar a la Dirección General de Transporte por sí o por quien designe, ante las autoridades de las Administraciones Públicas Federal, Estatal, Municipal y Órganos Jurisdiccionales, en asuntos de su competencia;
-
-XIII. Custodiar y controlar los archivos que se integren con la documentación solicitada a los concesionarios, permisionarios, sociedades mercantiles y operadores del transporte público para su registro;
-
-XIV. Brindar información, orientación y asesoría a los usuarios, en relación con el Servicio de Transporte Público en el Estado, así como sobre sus derechos y obligaciones;
-
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
-
-XV. Registrar los vehículos de Servicio de Transporte Público y Privado, expedir las placas metálicas, tarjetas de circulación, calcomanías, autorizaciones y permisos de Servicio de Transporte Público y Privado;
-
-XVI. Proponer al superior jerárquico, las políticas y normas en materia de transporte y movilidad, de conformidad con los ordenamientos legales aplicables;
-
-XVII. Dictaminar y dar trámite a las solicitudes de otorgamiento de autorización de rutas experimentales en el Estado, debiendo informar al superior jerárquico sobre dichas actividades;
-
-XVIII. Realizar los estudios y proponer al superior jerárquico, las políticas en materia de tarifas para el transporte público en sus diversas modalidades, conforme a la legislación aplicable en la materia;
-
-XIX. Registrar los cambios de domicilio de los propietarios de los vehículos automotores y las modificaciones que se realicen en dichos vehículos;
-
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
-
-XX. Expedir, licencias y permisos de conducir para la prestación del Servicio de Transporte Público y Privado;
-
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
-
-XXI. Controlar y resguardar las placas metálicas, tarjetas de circulación, calcomanías, autorizaciones, permisos y licencias de conducir para el Servicio de Transporte Público y Privado;
-
-XXII. Autorizar las conversiones o adaptaciones para vehículos de transporte particular de carga;
-
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
-
-XXIII. Buscar y expedir copias o certificaciones relacionadas con el padrón vehicular y licencias de conducir del Servicio de Transporte Público y Privado;
-
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
-
-XXIV. Recibir placas metálicas y tarjetas de circulación de los vehículos para efectos de reposición, para el Servicio de Transporte Público y Privado;
-
-XXV. Expedir y autorizar permisos particulares;
-
-XXVI. Autorizar el tránsito temporal de vehículos carentes de la documentación necesaria para circular;
-
-XXVII. Verificar la documentación correspondiente que acredite la importación de vehículos de procedencia extranjera y dar a conocer a su superior jerárquico los resultados correspondientes;
-
-XXVIII. Realizar, con otras autoridades competentes, operativos de revisión, tanto a vehículos como a la documentación que permita la circulación de los mismos;
-
-XXIX. Cumplir y hacer cumplir las normas Federales y Estatales en materia de control vehicular, y
-
-XXX. Las demás que le delegue el Subsecretario o le confieran las disposiciones aplicables.
+Las personas afiliadas en las asambleas que como resultado de las compulsas no alcancen el 0.26 por ciento del Padrón Electoral respectivo, serán contabilizadas como afiliadas en el resto de la entidad.
 
 ###### Artículo 17.
 
-Son atribuciones del Director General Jurídico
-
-I. Substanciar cuando así sea procedente, los procesos relativos a los recursos administrativos, que interpongan los particulares contra actos de la Secretaría, de conformidad con la normatividad aplicable y elaborar el Proyecto de Resolución correspondiente;
-
-II. Previo acuerdo del Secretario, representar a la Secretaría en todas las controversias de carácter judicial, administrativo o laboral en que esta sea parte o tenga interés jurídico;
-
-III. Regular en el ámbito de su competencia, los aspectos jurídicos relativos a las concesiones, permisos, licencias y autorizaciones a cargo de la Secretaría;
-
-IV. Conocer y substanciar a solicitud de la Unidad Administrativa competente, los procedimientos de revocación, caducidad, cancelación, suspensión, terminación e imposición de sanciones en relación a las concesiones, permisos, licencias y autorizaciones competencia de la Secretaria, y
-
-V. Las demás que le otorgue el Secretario, así como demás ordenamientos legales vigentes aplicables.
+El número total de personas afiliadas con que deberá contar una organización como uno de los requisitos para ser registrada como partido político local, se construirá a partir de la suma de ambas listas y en ningún caso podrá ser inferior al 0.26 por ciento del Padrón Electoral de la Ciudad de México que haya sido utilizado en la elección local ordinaria inmediata anterior a la presentación de la solicitud de que se trate, cuya militancia deberá estar distribuida en cuando menos las dos terceras partes de las Demarcaciones Territoriales de la Ciudad de México.
 
 ###### Artículo 18.
 
-Para el cumplimiento de sus atribuciones, la Secretaría contará con Delegaciones Regionales cuyo ámbito de competencia se establecerá en el Reglamento. Los Titulares de las Delegaciones serán nombrados por el Secretario.
+En todos los casos, las listas de personas afiliadas deberán cumplir con los requisitos siguientes:
+
+a) Apellidos paterno y materno, nombre (s);
+
+b) Domicilio (sección, Demarcación Territorial, distrito local y entidad);
+
+b) Clave de elector; y
+
+c) Estar acompañadas de las manifestaciones a que hace referencia el artículo 14, inciso h.
 
 ###### Artículo 19.
 
-Los Delegados Regionales tendrán las siguientes atribuciones:
+La lista a que se refiere el inciso a) del artículo 16 del presente Reglamento, será elaborada por la Dirección Ejecutiva en el Sistema de Registro versión en Sitio, conforme a los datos obtenidos durante la celebración de la asamblea distrital o de demarcación territorial, según se trate.
 
-I. Vigilar que en la prestación de los Servicios de Transporte Público y Privado, se cumplan las disposiciones de esta Ley y su Reglamento, así como los acuerdos del Secretario en el ámbito de su competencia;
+La lista a la que se refiere el inciso b) del mismo artículo, será elaborada por la organización, y con el fin de facilitar el procedimiento operativo de la verificación de datos de las personas afiliadas a las organizaciones, éstas deberán llevar a cabo la captura de datos de sus personas afiliadas en el Sistema de Registro previsto en los Lineamientos de Verificación. Para tal efecto, el Instituto Nacional a través de la Dirección Ejecutiva proporcionará a cada organización un usuario y una contraseña de acceso al Sistema de Registro.
 
-II. Informar periódicamente al Secretario sobre el cumplimiento de objetivos y metas, así como de las actividades e incidencias ocurridas en su jurisdicción;
-
-III. Mantener actualizado el Registro y/o Sistema Integral de Trámites Administrativos;
-
-IV. Realizar los estudios técnicos necesarios que le solicite el Director General de Transporte, y
-
-V. Las asignadas por el Secretario o por el Director General de Transporte y las disposiciones legales aplicables.
-
-### CAPÍTULO ÚNICO
-
-###### Artículo 88.
-
-La Secretaría, diseñará e instrumentará, a través de la Dirección General de Transporte, los Programas permanentes o continuos de capacitación dirigidos a Concesionarios, Permisionarios y Operadores del Transporte Público en cualquiera de sus modalidades que tengan como finalidad crear en el operador del transporte público conciencia, hábitos y la cultura del respeto entre otros temas que la Dirección General de Transporte considere adecuados.
-
-###### Artículo 89.
-
-Son facultades de la Dirección General de Transporte en materia de capacitación:
-
-I. Dar a conocer mediante convocatorias publicadas en los medios de comunicación, los cursos, conferencias y talleres sobre temas y materias relativas al transporte;
-
-II. Ejecutar y dar seguimiento al Programa de Capacitación y Profesionalización del Operador del transporte público en cualquiera de sus modalidades;
-
-III. Practicar las evaluaciones correspondientes con el objeto de que los operadores del transporte público acrediten estar debidamente capacitados;
-
-IV. Extender constancias a favor de quienes hayan aprobado los cursos de capacitación, y
-
-V. Coordinará con las Dependencias y Entidades correspondientes, el diseño e instrumentación de programas permanentes de seguridad en el transporte, educación vial y prevención de accidentes, que tengan como propósito fundamental crear en los habitantes del Estado, conciencia, hábitos y cultura de respeto a los ordenamientos legales en materia de transporte y vialidad.
-
-###### Artículo 90.
-
-Los operadores del transporte público, en cualquiera de sus modalidades, están obligados a acreditar la capacitación, para lo cual deberá aprobar cuando menos el curso básico y curso de actualización para operadores del transporte público, así como los demás cursos de actualización que al efecto señale la Dirección General de Transporte.
-
-###### Artículo 91.
-
-Cuando la Dirección General de Transporte no pueda impartir los cursos de capacitación a los operadores del transporte público, podrá en su caso autorizar centros de capacitación externos pudiendo ser del sector público o privado, los cuales deberán cumplir con los requerimientos que para tal efecto le solicite la Dirección General de Transporte.
-
-###### Artículo 92.
-
-Son obligaciones de los centros de capacitación autorizados por la Secretaría:
-
-I. Elaborar un sistema modular de cursos para conducir vehículos para todo aquel que aspire a operar vehículos destinados a los Servicios de Transporte Público, además llevar un registro de la capacitación impartida a operadores del transporte público y aspirantes a operadores del transporte público, de conformidad con lo establecido en el Reglamento; y
-
-II. Certificar los cursos requeridos por la Dirección General de Transporte, para la obtención del gafete de operador.
-
-## TÍTULO DÉCIMO PRIMERO. DEL REGISTRO PÚBLICO ESTATAL DE TRANSPORTE
+### CAPÍTULO III. DE LAS ASAMBLEAS
 
 ###### Artículo 20.
 
-El Concejo Municipal de Transporte, es la instancia de consulta y planeación Municipal en materia de transporte.
+Una vez presentado el escrito de notificación de la intención de constituirse como partido político local y se notifique a la organización que resultó procedente, deberá realizar asambleas distritales o de demarcaciones territoriales y una asamblea local constitutiva, a la que asistirán las personas funcionarias del Instituto Electoral acreditadas por el Secretario Ejecutivo por solicitud de la Comisión, que estarán investidas de fe pública. Esas asambleas podrán celebrarse a partir de ese momento y hasta el quince de diciembre del mismo año.
+
+Las y los funcionarios podrán contar con las personas auxiliares que sean necesarias para el desarrollo de sus labores, previa acreditación del Secretario Ejecutivo, y la Dirección Ejecutiva les comunicará por escrito y de manera oportuna, las fechas, horas y lugares en que se llevarán a cabo las asambleas, para realizar su certificación.
 
 ###### Artículo 21.
 
-El Concejo Municipal de Transporte, realizará los estudios y programas necesarios para determinar la organización, planeación y operación de los servicios auxiliares del transporte dentro del territorio del Municipio.
-
-Respecto del Servicio de Transporte Público que se preste en el territorio del Municipio, corresponde al Concejo Municipal de transporte:
-
-I. Estudiar y discutir los problemas del transporte público en el ámbito de su jurisdicción territorial, emitiendo al efecto las recomendaciones a la Secretaría en materia de planeación para su mejoramiento;
-
-II. Formular estudios técnicos y presentar propuestas a la Secretaría relativos al establecimiento o modificación de ruta, u horarios del transporte público;
-
-III. Emitir opinión al Presidente Municipal para autorizar el establecimiento de paraderos, estaciones, terminales, sitios, o cualquier otro servicio auxiliar del transporte;
-
-IV. Conocer y, en su caso, colaborar en la formulación de estudios técnicos que realice la Secretaría;
-
-V. Celebrar Convenios de Coordinación con la Secretaría, para la mejor prestación de los Servicios de Transporte Público en el ámbito del territorio de su Municipio, y
-
-VI. Las demás que les señalen la presente Ley y el Reglamento Municipal respectivo.
+El Instituto Electoral deberá implementar el Sistema de Registro de Partidos Políticos Locales a que se refiere el artículo 6 de los Lineamientos de Verificación, a efecto de incorporar los datos de los asistentes a las asambleas que celebren las organizaciones, para poder verificar su estado registral en el Padrón Electoral.
 
 ###### Artículo 22.
 
-Cada Concejo Municipal de Transporte estará integrado por:
+Las organizaciones interesadas deberán presentar ante la Dirección Ejecutiva, un calendario de asambleas distritales o de demarcaciones territoriales y de la local constitutiva que pretendan realizar con una anticipación de, al menos, cinco días hábiles a la realización de la primera asamblea. El calendario señalará expresamente los siguientes datos:
 
-I. Presidente Municipal, quien lo presidirá;
+a) Día y hora de la celebración de cada una de las asambleas programadas;
 
-II. La persona Titular de la unidad encargada del desarrollo urbano;
+b) Domicilios exactos donde se desarrollarán las asambleas, precisando calle, número exterior e interior, colonia, Demarcación Territorial, código postal, las calles entre las que se encuentran localizados los mismos, así como indicar alguna referencia para su pronta ubicación;
 
-III. La persona Titular de la unidad encargada de la seguridad pública y tránsito, y
+c) Croquis de ubicación o impresión del servidor de la georeferencia (Google Maps) con los datos de los domicilios respectivos, incluyendo calles colindantes y puntos de referencia, y
 
-IV. La persona Titular de la unidad encargada de obras públicas.
+d) Nombre completo y número telefónico fijo o móvil, así como correo electrónico de las personas designadas por la organización como sus representantes para estar presentes en cada una de las asambleas programadas.
 
-### CAPÍTULO ÚNICO
+La organización deberá informar a la Dirección Ejecutiva cualquier modificación a su calendario o reprogramación de asambleas, con una anticipación de, por lo menos, tres días hábiles a la celebración de la siguiente asamblea programada.
 
-###### Artículo 93.
+Cuando la última asamblea que celebren las organizaciones esté programada para el quince de diciembre y existiere alguna modificación para las condiciones en que se llevará a cabo, la reprogramación podrá hacerse dando aviso a la Dirección Ejecutiva, a más tardar a las veinticuatro horas del trece de diciembre.
 
-El Registro Público Estatal de Transporte, estará siempre bajo la supervisión de la Secretaría y se elaborará y actualizará por la Dirección General de Transporte, quien lo mantendrá actualizado, teniendo encomendado el desempeño de la función de registrar, en todos sus órdenes de acuerdo con esta Ley y las disposiciones jurídicas y administrativas aplicables, todas aquellas incidencias que se presenten con motivo de la prestación de los servicios de transporte, tanto para concesionarios y permisionarios, como para los conductores y operadores del transporte público.
+En caso de que las asambleas se lleven a cabo en espacios públicos, las organizaciones gestionarán los permisos ante las autoridades correspondientes. Asimismo, las organizaciones están obligadas a informar el protocolo de evacuación en caso de sismo o incendio a las personas que acudan a los citados eventos y proveer la infraestructura, servicios y capacidad de aforo necesaria para el desarrollo de las actividades de las personas funcionarias del Instituto Electoral.
 
-De igual manera, en el Registro Público de Transporte, se llevará la inscripción de todas y cada una de las Concesiones y Permisos, el nombre del beneficiario, cuando lo haya; así como todos y cada uno de los movimientos, tramites y pagos por derechos establecidos en Ley General de Hacienda, relacionados con la misma.
+La organización deberá en todo momento garantizar la seguridad e integridad de los asistentes a las asambleas correspondientes y de las personas funcionarias del Instituto Electoral.
 
-###### Artículo 94.
-
-El Titular de la Dirección General de Transporte, será el responsable del Registro Público de Transporte y el depositario de los documentos que sirvan de respaldo para su integración en el Estado, pudiendo emitir, previo pago de los derechos correspondientes y acreditación del interés jurídico, constancias de los documentos bajo su resguardo.
-
-Asimismo, el Titular de la Dirección General de Transporte, será responsable de la confidencialidad, guarda y reserva de los registros e información contenida en el Registro Estatal a excepción de mandato expreso e informe solicitado a cargo de la autoridad judicial o administrativa competente.
-
-###### Artículo 95.
-
-El Registro Público de Transporte se integrará por:
-
-I. Licencias de conducir de operadores del transporte público;
-
-II. Licencias de conducir de conductores del Servicio de Transporte Privado;
-
-III. Concesiones y concesionarios;
-
-IV. Permisos y permisionarios;
-
-V. Operadores del Transporte Público;
-
-VI. Infractores e infractores reincidentes;
-
-VII. Infractores con incumplimiento en el pago de sus sanciones;
-
-VIII. Suspendidos o cancelados en sus licencias;
-
-IX. Suspendidos o cancelados en sus gafetes;
-
-X. Responsable de accidentes;
-
-XI. Vehículos de los servicios de transporte matriculados en el Estado;
-
-XII. Sociedades, representantes legales, mandatarios y apoderados de personas morales concesionarias o permisionarias del Servicio de Transporte Público de pasajeros y de carga, y
-
-XIII. Las demás que sean necesarias a juicio de la Secretaría.
-
-###### Artículo 96.
-
-La Dirección General de Transporte, tendrá acceso a la plataforma del rastreador del Sistema de Posicionamiento Global de las unidades del Servicio de Transporte Público y será el responsable del resguardo de la información que la plataforma contenga.
-
-###### Artículo 97.
-
-Cualquier persona podrá solicitar constancias e información contenida en el Registro Público de Transporte, estrictamente en cuanto a la información que no involucre cuestiones personales y confidenciales de los titulares de los derechos respectivos.
-
-###### Artículo 98.
-
-Toda información deberá solicitarse por escrito y será proporcionada por el responsable del Registro Público de transporte, mediante expedición de constancia que contenga la información, folio, registro o certificación que realice, sin afectar el derecho a la privacidad de terceras personas previa exhibición y entrega del comprobante de pago de derechos que por este concepto realice el interesado siempre y cuando no contravenga lo dispuesto por la Ley de Información Pública, Estadística y Protección de datos personales vigente en el Estado.
-
-## TÍTULO DÉCIMO SEGUNDO. DE LAS OBLIGACIONES DE LOS CONCESIONARIOS, PERMISIONARIOS Y OPERADORES DEL TRANSPORTE PÚBLICO
+### CAPÍTULO IV. DE LA CELEBRACIÓN DE ASAMBLEAS
 
 ###### Artículo 23.
 
-El Reglamento Municipal, establecerá lo relativo a la organización y funcionamiento del Concejo Municipal de Transporte. Además, se contemplará la participación de particulares que presten el Servicio de Transporte Público en el territorio del Municipio con voz pero sin voto.
+Para la celebración y desarrollo de las asambleas distritales o de demarcaciones territoriales y locales constitutivas, se observarán las reglas siguientes:
 
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE REFORMA LA DENOMINACIÓN DE ESTE TÍTULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+a) El horario que se fije para su celebración será el comprendido entre las 09:00 (nueve) y hasta las 17:00 (diecisiete) horas.
 
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE REFORMA LA DENOMINACIÓN DE ESTE TÍTULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+b) La organización deberá confirmar la celebración de las Asambleas, mediante escrito presentado directamente ante la Dirección Ejecutiva, con al menos tres días hábiles de antelación; de lo contrario, la Dirección Ejecutiva se encontrará imposibilitada para acreditar personal que certifique la asamblea correspondiente;
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+c) En caso de que las asambleas se programen en lugares poco conocidos o de difícil acceso, las personas representantes de la organización deberán acordar con las personas funcionarias del Instituto, reunirse previamente en un lugar cercano y conocido para conducirlas al lugar del evento;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JULIO DE 2016)</small>
+d) Si el personal del Instituto Electoral no encontrara a nadie en el lugar fijado para llevar a cabo la asamblea, y una vez trascurridos quince minutos a partir de la hora señalada para el inicio de la misma no acude persona alguna, se retirará asentando tal circunstancia en el acta correspondiente;
+
+e) Las personas funcionarias del Instituto Electoral no podrán intervenir en los trabajos de las asambleas, excepto para señalar a la dirigencia de la organización, se aborden los puntos que deberán ser objeto de certificación, y
+
+f) Las personas representantes de las organizaciones brindarán a las y los funcionarios del Instituto Electoral, las facilidades necesarias para el cumplimiento de su función (tablones, sillas, lona, contactos de luz eléctrica, entre otros) y el resguardo de su integridad física durante el desarrollo de las asambleas. En caso de ser necesario, las personas funcionarias del Instituto Electoral podrán solicitar el apoyo de la Secretaría de Seguridad Pública de la Ciudad de México.
+
+Si las personas funcionarias del Instituto Electoral advierten por datos objetivos que no se cuenta con las condiciones mínimas de seguridad para la realización de asambleas, podrán retirarse del lugar en cualquier momento, asentando dicha situación en un acta circunstanciada; en ese caso, la asamblea se tendrá por no realizada.
 
 ###### Artículo 24.
 
-El Subsecretario de Movilidad y Transporte someterá a la aprobación del Secretario, dentro de los primeros seis meses de iniciada la Administración Estatal, el Programa Estatal de Desarrollo del Transporte, mismo que será evaluado a los tres años y, en el cual, se especificarán los siguientes alineadores estratégicos:
+La persona funcionaria del Instituto Electoral y sus auxiliares deberán revisar la asistencia de las personas afiliadas o delegadas, según sea el caso, a la hora en que fue convocada la asamblea. Una vez reunido el mínimo de asistencia establecido por la Ley, se informará a la organización que podrá dar inicio la asamblea. En caso de no reunirse el quórum dentro de los cuarenta y cinco minutos siguientes a la hora convocada, la asamblea no se verificará y las personas funcionarias del Instituto Electoral se retirarán del lugar.
 
-I. Objetivos-estrategia;
+Si transcurren cuarenta y cinco minutos en el proceso de verificación de personas afiliadas o delegadas y existen asistentes pendientes de verificar, sin que se hubiere reunido el quórum, se concederán quince minutos más para concluir la verificación identificando a las personas que hasta ese momento se encuentren presentes y no hayan sido verificadas, con el fin de ser tomadas en cuenta para el quórum, lo cual será informado a las personas representantes de la organización.
 
-II. Metas-tácticas operativas, y
-
-III. Proyecto-procedimiento
+En caso de haber transcurrido cuarenta y cinco minutos a partir de la hora programada para celebrar la asamblea y no existieren personas pendientes por revisar, sin que se hubiera reunido el mínimo de asistencia, se comunicará a la representación de la organización que la asamblea no podrá realizarse por falta de quórum y el personal del Instituto Electoral se retirará del lugar, haciendo constar dicha circunstancia en el acta correspondiente.
 
 ###### Artículo 25.
 
-Para los fines del artículo anterior, el Secretario tomará en cuenta los recursos humanos, materiales, técnicos y financieros con que cuente la Dependencia.
+La asistencia mínima establecida por el Código deberá mantenerse en todo momento durante la celebración de la asamblea, en caso de disminuir la misma por cualquier motivo antes de finalizar la asamblea, ésta no será válida para el cumplimiento de este requisito.
 
 ###### Artículo 26.
 
-Los Ayuntamientos, podrán emitir opinión al Programa Estatal de Desarrollo del Transporte, en lo que respecta al ámbito territorial de su competencia, llevándose a cabo en el inicio del sexenio o en su revisión.
-
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JULIO DE 2016)</small>
+En el día hábil siguiente a la celebración de la asamblea correspondiente, las personas funcionarias del Instituto Electoral entregarán a la Dirección Ejecutiva, los originales del acta circunstanciada de la asamblea a la que asistieron con los anexos señalados en el artículo 34 del presente Reglamento, y en su caso, un informe sobre los incidentes presentados durante dichos actos. Si la asamblea celebrada alcanzó el quórum requerido para ser válida, al día hábil siguiente a la celebración de la misma, la Dirección Ejecutiva cargará en el Sistema de Registro la información de las personas asistentes a la asamblea, posteriormente, dentro de los dos días hábiles siguientes a la celebración de la asamblea, mediante correo electrónico la Dirección Ejecutiva notificará a la DERFE que la información ha sido cargada en el Sistema de Registro a efecto de que lleve a cabo la compulsa respectiva en los términos establecidos por los artículos 10, 11 y 12 de los Lineamientos de Verificación.
 
 ###### Artículo 27.
 
-El Consejo Consultivo del Transporte, es un órgano auxiliar de opinión, de consulta y concertación, teniendo a su cargo, estudiar y analizar la problemática en materia de transporte en todas sus modalidades, así como emitir las recomendaciones que para su mejoramiento estime procedentes, donde participaran los sectores público, privado y social.
+En los casos en que no se reúna la asistencia requerida o la asamblea se hubiera suspendido, las organizaciones podrán reprogramarla observando, en lo conducente, lo dispuesto por el artículo 22 del presente Reglamento, siempre y cuando dicha solicitud y la fecha de la asamblea sean reprogramadas antes del quince de diciembre. Las cancelaciones de asambleas deberán notificarse a la Dirección Ejecutiva por escrito con al menos dos días hábiles de anticipación.
 
 ###### Artículo 28.
 
-El Consejo Consultivo del Transporte, estará integrado por:
+La Dirección Ejecutiva no tendrá por cumplido el requisito relativo a la celebración de las asambleas distritales, de demarcaciones territoriales y la asamblea local constitutiva, en los siguientes casos:
 
-I. El Gobernador Constitucional del Estado de Morelos;
+I. Cuando en la asamblea distrital o de demarcación territorial no asistan por lo menos el 0.26 por ciento de las personas inscritas en el Padrón Electoral correspondiente al Distrito Electoral Uninominal o Demarcación Territorial de que se trate;
 
-II. El Secretario de Movilidad y Transporte;
+II. Cuando en la asamblea local constitutiva no asistan por lo menos el 60% de las personas electas como delegadas en las asambleas distritales o de demarcación territorial;
 
-III. El Secretario de Hacienda;
+III. Cuando las asambleas distritales, de demarcación territorial o la local constitutiva, se celebren en un lugar, fecha y hora distinta, a la notificada a la Dirección Ejecutiva;
 
-IV. El Secretario de Obras Públicas;
+IV. Cuando del contenido de las actas de las asambleas distritales o de demarcaciones territoriales, así como de la local constitutiva, se desprenda que:
 
-V. El Secretario de Economía;
+a) Durante su desarrollo se coaccionó o ejerció violencia física o verbal contra los asistentes, para que se afilien al partido político local en formación;
 
-VI. El Procurador General de Justicia;
+b) Hubo coacción hacia las personas funcionarias del Instituto Electoral o se le impidió el correcto desempeño de sus funciones;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+c) En los domicilios donde se realizaron las asambleas, antes o durante su desarrollo, se distribuyeron despensas, materiales o cualquier otro bien;
 
-VII. El Director General de Transporte Público y Privado;
+d) En su celebración se realizaron sorteos, rifas o cualquier otra actividad con fines distintos a los de la constitución de un partido político local;
 
-VIII. El Director General de Protección Civil;
+e) Se entregaron despensas, monederos electrónicos, dádivas, dinero u otro tipo de recompensa a cambio de afiliarse al partido político local en formación;
 
-IX. Los Delegados Regionales de la Secretaría;
+f) Existió intervención de organizaciones civiles, religiosas, sociales o gremiales, nacionales o extranjeras, organizaciones con objeto social diferente a la creación de partidos o cualquier forma de afiliación corporativa, y
 
-X. El Presidente de la Comisión de Tránsito, Transporte y Vías de Comunicación del Congreso del Estado;
+g) No se hayan aprobado los proyectos de los documentos básicos de la organización.
 
-XI. El Delegado del Centro de la Secretaría de Comunicaciones y Transportes Morelos;
-
-XII. Un representante de cada una de las Cámaras, cuyos estatutos estén ligados con la actividad económica que regula esta Ley;
-
-XIII. Un representante de los concesionarios y permisionarios estatales por modalidad de transporte de cada Delegación, que tenga la Dirección General de Transporte, y
-
-XIV. A invitación expresa del Secretario la autoridad municipal cuando los asuntos a tratar tengan injerencia en su territorio.
-
-El Gobernador Constitucional del Estado de Morelos presidirá el Consejo y tendrá voto de calidad; y el Secretario de Movilidad y Transporte fungirá como Secretario Técnico del Consejo Consultivo del Transporte.
-
-Los funcionarios a que se refieren las fracciones I, II, III, V, VI, VIII y X, tendrán voz y voto en las Sesiones del Consejo, los demás integrantes sólo voz. Los integrantes del Consejo a que se refiere la fracción XII, ejercerán su representación por un lapso no mayor a dos años.
-
-### CAPÍTULO PRIMERO. DE LAS OBLIGACIONES DE LOS CONCESIONARIOS Y PERMISIONARIOS
-
-###### Artículo 99.
-
-Son obligaciones de los concesionarios y permisionarios las siguientes:
-
-I. Prestar el Servicio de Transporte Público y Privado en los términos y condiciones señalados en la concesión o permiso, esta Ley, su Reglamento y demás disposiciones legales aplicables;
-
-II. Abstenerse de interrumpir injustificadamente la prestación del servicio;
-
-III. Abstenerse de utilizar para la prestación de la concesión vehículos distintos a los que hubiesen sido autorizados por la Secretaría;
-
-IV. Cumplir con todas las disposiciones legales y administrativas en materia de tránsito, transporte y vialidad, así como con las políticas y programas dictadas por el Gobernador Constitucional del Estado de Morelos, por sí o a través del Secretario;
-
-V. Establecer, ampliar y adecuar, en su caso, con sus propios recursos, previo acuerdo de las autoridades de tránsito y transporte competentes, los servicios auxiliares del transporte para la debida prestación del Servicio de Transporte Público concesionado o permisionario;
-
-VI. Prestar el Servicio de Transporte Público o Privado de manera gratuita, cuando por causas de caso fortuito o fuerza mayor así se requiera;
-
-VII. Cumplir con las disposiciones jurídicas y administrativas aplicables en materia ambiental;
-
-VIII. Comprobar que los conductores de sus vehículos dispongan de la licencia y del gafete vigentes, exigidos por ésta Ley y su Reglamento para operar unidades de transporte público y privado;
-
-IX. Contar con la póliza de seguro vigente o fondo de garantía para responder de los daños y perjuicios que con motivo de la prestación del servicio, pudieran ocasionarse a los usuarios, peatones, conductores y terceros, en sus personas o bienes, vías públicas y daños ecológicos;
-
-X. Prestar el Servicio de Transporte Público, en la modalidad de transporte público de pasajeros con itinerario fijo en forma gratuita, a niños menores de tres años y a personas con discapacidad o, en su caso, aplicar el descuento del cincuenta por ciento en los términos de los programas y en las condiciones que se señalen en la Ley de la materia;
-
-XI. Otorgar el cincuenta por ciento de descuento del pago de la tarifa a las personas adultas mayores;
-
-XII. Coadyuvar en forma gratuita en caso de emergencia, desastres naturales o de seguridad pública al requerimiento de la Secretaría;
-
-XIII. Mantener actualizados sus registros ante la Secretaría, respecto a su representatividad y personalidad jurídica, parque vehicular existente y en operación y demás datos relacionados con la concesión o el permiso otorgados;
-
-XIV. Realizar el pago de los derechos correspondientes por todos y cada uno de los trámites administrativos, concesiones, tarjetón, renovación, de concesión así como los demás permisos y autorizaciones otorgadas por la Administración Pública del Estado para la explotación del Servicio de Transporte Público y privado, conforme a la Ley General de Hacienda del Estado de Morelos;
-
-XV. Sustituir los vehículos con que prestan el servicio, como máximo, cuando se cumpla el término de operación, conforme a lo dispuesto en la presente Ley y su Reglamento, o cuando estén impedidos por estar en malas condiciones físicas, mecánicas o de operación;
-
-XVI. Instalar en los vehículos, el rastreador del Sistema de Posicionamiento Global, que deberá contar cuando menos con los siguientes servicios:
-
-a. Plataforma propia para consulta vía web;
-
-b. Localización en tiempo real;
-
-c. Alerta por exceder el límite de velocidad;
-
-d. Geocercas;
-
-e. Reproducción histórica de movimientos con 60 días de anterioridad;
-
-f. Acceso ilimitado a la plataforma;
-
-g. Creación de subcuentas para poder acceder a la plataforma;
-
-h. Auto-reporte de posicionamiento cada minuto; y
-
-i. Las demás que considere la Secretaría instalar.
-
-XVII. Salvaguardar la integridad física de los usuarios, para ello deberá instalar en su unidad sistemas que contribuyan a ello, que será como mínimo un gobernador de velocidad y el sistema de puertas cerradas y demás que determina la Secretaría;
-
-XVIII. Abstenerse de encomendar la realización de trámites, gestiones o procedimientos relacionados con la concesión, permiso y equipamiento auxiliar de transporte, a personas que no estén debidamente acreditadas y reconocidas ante la Secretaría, en caso de personas físicas, los trámites deberán efectuarse en forma personal;
-
-XIX. Constituir en tiempo y forma las garantías que de acuerdo con la naturaleza de la concesión o permiso y el término de su vigencia de la misma, determine la Secretaría;
-
-XX. Presentar en el término que previamente señale la Secretaría, las unidades de transporte para la Revista Mecánica correspondiente y realizar el pago que para el efecto establezca la Ley General de Hacienda del Estado de Morelos;
-
-XXI. No permitir instalar en sus vehículos ningún tipo de equipo de sonido, luces o instrumentos que molesten o incomoden a los pasajeros o a la ciudadanía;
-
-XXII. Equipar por lo menos una de las unidades de cada una de las rutas autorizadas para el transporte público de pasajeros, con los mecanismos necesarios para el ascenso y descenso de personas con discapacidad, y
-
-XXIII. Cumplir con los preceptos de esta Ley, y las disposiciones jurídicas y administrativas aplicables a la materia
-
-###### Artículo 100.
-
-El concesionario deberá contar en cada uno de los vehículos autorizados para la prestación del Servicio de Transporte Público con contrato de seguro vigente o fondo de garantía que ampare los daños a los usuarios, los bienes transportados y de responsabilidad civil a terceros con motivo de la prestación del servicio público.
-
-###### Artículo 101.
-
-A fin de garantizar los principios de generalidad, regularidad, seguridad y eficiencia en la prestación del Servicio de Transporte Público, los concesionarios deberán sustituir los vehículos autorizados para la prestación del servicio con la periodicidad que señale el Reglamento de esta Ley y el Título de Concesión.
-
-Los vehículos autorizados para la prestación del Servicio de Transporte Público de pasajeros, se ajustarán a los lineamientos que la Secretaría emita respecto de aspectos técnicos, de mantenimiento, conservación, renovación, de seguridad, capacidad, comodidad, así como a las condiciones de accesibilidad para personas discapacitadas, adultos mayores, mujeres en período de gestación. En ningún caso podrá prestarse el Servicio de Transporte Público de pasajeros con vehículos cuyo año o modelo sea superior a 10 años.
+### CAPÍTULO V. ASAMBLEAS DISTRITALES O DE DEMARCACIONES TERRITORIALES
 
 ###### Artículo 29.
 
-El Consejo Consultivo del Transporte, tendrá las funciones siguientes:
-
-I. Coadyuvar al mejoramiento de la función pública en materia de Servicio de Transporte Público, procurando una adecuada satisfacción de las necesidades de los usuarios;
-
-II. Opinar respecto a las medidas administrativas y de servicio adoptadas, relacionadas con el transporte;
-
-III. Emitir opinión a los estudios técnicos que elabore la Secretaría respecto a:
-
-a) Otorgamiento de nuevas concesiones, permisos o modificaciones de las condiciones de la declaratoria de necesidades;
-
-b) Cambio de modalidad en la operación y explotación del servicio;
-
-c) Modificación de itinerarios y horarios;
-
-d) Reglas de aplicación de las tarifas de los servicios de transporte, y
-
-e) Proyecto de Programa de transporte.
-
-IV. Recomendar acciones específicas para mejorar las condiciones de seguridad y prevenir la comisión de actos punibles.
+Dentro del plazo establecido en el artículo 20, párrafo primero del presente Reglamento, las organizaciones interesadas deberán celebrar por lo menos en dos las terceras partes de los distritos electorales locales, o bien, de las Demarcaciones Territoriales de la Ciudad de México, según sea el caso, una asamblea ante la presencia de las personas funcionarias y auxiliares del Instituto Electoral acreditadas por el Secretario Ejecutivo.
 
 ###### Artículo 30.
 
-Las Sesiones del Consejo serán Ordinarias y Extraordinarias:
-
-I. Las Sesiones Ordinarias se celebrarán por lo menos cuatro veces al año, las Extraordinarias se realizarán cuando sea necesario, a petición del Gobernador Constitucional del Estado de Morelos, del Secretario o de por lo menos la mitad de los integrantes del Consejo.
-
-De las sesiones ordinarias que lleve a cabo el Consejo, deberá dedicar por lo menos dos de ellas, a tratar asuntos relacionados exclusivamente con el servicio de transporte de carga.
-
-II. Presidirá las Sesiones, el Gobernador Constitucional del Estado de Morelos o la persona por él designada.
-
-III. Las Sesiones del Consejo serán válidas con la asistencia de la mitad más uno de sus integrantes, a primera Convocatoria; en caso de no reunirse la mayoría, la Sesión tendrá lugar dentro de las veinticuatro horas siguientes, con los Consejeros que asistan, entre los que deberá figurar el Gobernador Constitucional del Estado de Morelos o la persona que él designe. Las Convocatorias a Sesiones Ordinarias del Consejo, las expedirá el Gobernador Constitucional del Estado de Morelos, a través del Secretario, por escrito para los integrantes del Consejo, con cinco días hábiles de anticipación a la fecha de celebración, debiendo incluir el orden del día a que habrá de sujetarse la Sesión y deberá publicarse con la misma anticipación por internet, en la Página Oficial del Gobierno del Estado. A las Sesiones Extraordinarias se convocará con cuarenta y ocho horas de anticipación.
-
-IV. Las Sesiones del Consejo se llevarán a cabo en el lugar que precise la Convocatoria.
+Las asambleas distritales o de demarcaciones deberán celebrarse dentro de los límites geográficos del Distrito Electoral Uninominal o de la Demarcación Territorial en la que se pretenda acreditar, de acuerdo con la división del territorio de la Ciudad de México, de lo cual se cerciorará la Dirección Ejecutiva, al analizar el domicilio y croquis proporcionados por la organización. De no ser así, la Dirección Ejecutiva emitirá el requerimiento para que formule la aclaración correspondiente. Si hiciere caso omiso o no se proporcione una ubicación cierta dentro de los referidos límites, no se programará la asamblea respectiva.
 
 ###### Artículo 31.
 
-Para la integración del Consejo, cada dos años, el Titular de la Secretaría, convocará a los concesionarios que refiere la fracción XIII, del artículo 28 de esta Ley, para que designen al representante, quien deberá comparecer como integrante del Concejo Consultivo del Transporte. Por cada representante, deberá designar a un suplente. La Convocatoria se publicará en el Periódico Oficial “Tierra y Libertad” y en un diario de los de mayor circulación en el Estado. La resolución de designación de representante tendrá carácter de definitiva, contra la que no procederá recurso alguno.
+El número de personas afiliadas que concurran y participen en estas asambleas, no podrá ser menor del 0.26 por ciento de la ciudadanía inscrita en el Padrón Electoral del Distrito Electoral Uninominal o de la Demarcación Territorial que corresponda.
 
 ###### Artículo 32.
 
-El Servicio de Transporte Público, es aquel que se lleva a cabo de manera continua, uniforme, regular y permanente en las vías públicas de comunicación terrestre del Estado y sus Municipios, para satisfacer la demanda de los usuarios, mediante la utilización de vehículos autorizados para cada tipo de servicio y en el que los usuarios como contraprestación realizan el pago de una tarifa previamente autorizada
+La calidad de afiliada o afiliado es personal e intransferible, por lo que en ningún momento se admitirá que una persona asista a la asamblea ostentando la representación de una o más personas.
 
 ###### Artículo 33.
 
-El Servicio de Transporte Público de pasajeros, es el que se presta en una o varias rutas, en caminos y vialidades de jurisdicción del Estado, en las condiciones y con los vehículos que se determinen en esta Ley y en su Reglamento y puede ser prestado bajo las siguientes modalidades:
+Para la verificación de las asambleas, se solicitará a los asistentes el original de la cédula de afiliación con firma autógrafa, la cual tendrá que coincidir con la contenida en la credencial para votar, así como el original y copia simple por ambos lados de la credencial para votar o, en su defecto, del talón del FUAR acompañado de una identificación oficial con fotografía, documentos que servirán a la persona funcionaria del Instituto Electoral para corroborar la identidad de quien presenta dicha cédula de afiliación, así como para capturar en el Sistema de Registro, la clave de elector, o en su caso, los datos de identificación de la persona afiliada, con el objeto de verificar su situación registral.
 
-I. Con itinerario fijo.- Es el que se presta en una o varias rutas, con paradas intermedias, tarifa y horarios fijos. El horario a que se sujetará el servicio será previamente autorizado por la Secretaría;
+No se contabilizará como parte del quórum legal a las personas cuya sección electoral asentada en su credencial para votar no corresponda a las del Distrito Electoral Uninominal o Demarcación Territorial en la que se pretenda celebrar la asamblea.
 
-II. Sin itinerario fijo.- Es el que se presta sin sujeción a ruta, circunscrito a un ámbito territorial, con tarifas autorizadas, en las condiciones y con los vehículos que se determinen en el Reglamento;
-
-III. Urbano.- Es el destinado a las zonas y áreas, que integran un centro de población, en las condiciones y con los vehículos que se determinen en el Reglamento;
-
-IV. Interurbano.- Es el destinado a circulación dentro de dos o más poblaciones o zonas conurbadas sujeto a rutas regulares, con paradas, terminales y horarios fijos, y
-
-V. Mixto.- El que se presta fuera de circunscripción urbana o interurbana, dentro del territorio estatal, con itinerario fijo entre una comunidad rural y otra o la vía de entronque por donde circulen servicios colectivos urbanos, interurbanos o foráneos; debiendo prestarse en vehículos adaptados con compartimientos específicos para el transporte de pasaje y de carga, de conformidad con las condiciones y vehículos que se determinen en el Reglamento.
+La lista de afiliaciones de una asamblea celebrada en un Distrito Electoral Uninominal, en una Demarcación Territorial o local constitutiva en la que no se haya alcanzado el quórum, pasará a la lista de afiliaciones de la organización con que cuente en el resto de la entidad.
 
 ###### Artículo 34.
 
-El Servicio de Transporte Público de carga en general, es el que se presta sin sujeción a ruta y en caminos de jurisdicción del Estado, para la movilización de bienes o productos no peligrosos, propiedad de terceros, mediante el pago de una tarifa autorizada, ubicados en un lugar fijo denominado base de servicio, en las condiciones y con los vehículos que se determinen en el Reglamento.
+Las personas funcionarias del Instituto Electoral acreditadas para la certificación de las asambleas distritales o de demarcaciones territoriales, levantarán un acta circunstanciada, en la que se hará constar lo siguiente:
 
-### CAPÍTULO SEGUNDO. DE LAS OBLIGACIONES DE LOS OPERADORES DEL TRANSPORTE PÚBLICO
+a) El número de personas afiliadas que concurrieron y participaron en la asamblea, cuya asistencia no podrá ser inferior del 0.26 por ciento del Padrón Electoral del Distrito Electoral Uninominal o de la Demarcación Territorial, según corresponda;
 
-###### Artículo 102.
+b) La certificación de que todas las personas asistentes a la asamblea suscribieron el documento de manifestación formal de afiliación, y que asistieron libremente a unirse al partido político local en formación, sin que su asistencia haya sido obtenida mediante el uso de mecanismos de afiliación corporativa o la intervención de organizaciones con objeto social distinto a la constitución de un partido político local, tales como organizaciones civiles, religiosas, sociales y gremiales;
 
-Son obligaciones de los operadores del transporte público las siguientes:
+c) Los miembros de las directivas elegidas en las asambleas distritales o de demarcaciones territoriales no podrán ser dirigentes de una agrupación política local o partido político;
 
-I. Contar con licencia vigente para operar el Servicio de Transporte Público y Privado;
+d) El conocimiento y, en su caso, aprobación de los proyectos de Declaración de Principios, Programa de Acción y Estatuto, por parte de las personas presentes en dicha asamblea;
 
-II. Contar con la certificación y el gafete de operador, destinados al Servicio de Transporte Público o Privado, así como las constancias de capacitación vigentes;
+e) El número de personas delegadas propietarias y suplentes electas que acudirán a la asamblea local constitutiva. Tratándose de asambleas distritales, se elegirán cinco personas delegadas, y diez en el caso de asambleas de demarcaciones territoriales;
 
-III. Operar las unidades con precaución y seguridad para no poner en peligro la integridad de los usuarios;
+f) La conformación de la lista con las personas afiliadas que asistieron a la asamblea, la cual será generada por las personas funcionarias del Instituto Electoral en el Sistema de Registro, la cual se acompañará de los originales de las cédulas de afiliación y de la copia simple por ambos lados de la credencial para votar de cada una de las personas que participaron en la asamblea respectiva; dichas listas con sus anexos quedarán bajo resguardo del Instituto Electoral para integrarlas en el expediente respectivo.
 
-IV. Realizar ascenso y descenso de pasaje, efectuando alto total sólo en los lugares autorizados para tal efecto;
+g) La elección de la directiva distrital o de la Demarcación Territorial correspondiente;
 
-V. Mantener una buena presentación;
+h) La hora en que:
 
-VI. No exceder la cantidad de pasajeros señalada para cada vehículo;
+- Se constituyeron las personas funcionarias del Instituto Electoral;
 
-VII. Portar a la vista el gafete de Operador, el cual deberá estar vigente;
+- Se programó la asamblea;
 
-VIII. Cuidar en todo momento la seguridad de los pasajeros; por lo que le está estrictamente prohibido conducir con acompañantes, así como instalar televisores, pantallas y hacer uso de teléfonos celulares o de cualquier otro instrumento que pueda distraerlo poniendo en riesgo la seguridad de los pasajeros;
+- Inició la asamblea; y
 
-IX. Abstenerse de realizar acciones de maltrato al público usuario y en general a la Ciudadanía;
+- Concluyó la asamblea.
 
-X. Tratar con dignidad y respeto a los usuarios;
+i) Nombre y firma de la persona funcionaria del Instituto Electoral acreditada para verificar la asamblea.
 
-XI. Actuar con probidad y honradez en el cobro de la tarifa;
+La persona funcionaria del Instituto Electoral deberá anexar al acta circunstanciada: la convocatoria a la asamblea respectiva, así como el orden del día y, en su caso, el acta de incidentes. Los primeros dos documentos serán proporcionados por la organización antes del inicio de la asamblea correspondiente.
 
-XII. Someterse a los exámenes médicos, físicos, toxicológicos, psicológicos y de cualquier materia que determine la Secretaría;
-
-XIII. Aplicar uniformemente a todos los usuarios la tarifa del Servicio de Transporte Público autorizada; tratándose del Servicio de Transporte Público de pasajeros, deberá exentarse del pago a los niños menores de tres años, quienes viajarán sin costo alguno, aplicar el cincuenta por ciento de descuento a los adultos mayores y deberá también exentar de pago o aplicar el cincuenta por ciento de descuento a las personas con discapacidad;
-
-XIV. Dar trato preferencial a los niños, adultos mayores, personas con discapacidad y mujeres embarazadas;
-
-XV. Haber cumplido y aprobado la capacitación que determine la Dirección General de Transporte;
-
-XVI. Cumplir con todos los requisitos que establezca la presente Ley, su Reglamento o en su caso determine la Secretaría, y
-
-XVII. No transportar pasajeros en los estribos de ascenso ni de descenso de las unidades destinadas al transporte, ni permitirá que las unidades circulen con las puertas abiertas.
-
-###### Artículo 103.
-
-Tratándose de vehículos de carga, los operadores del transporte público, deberán verificar que en las unidades no se transporte mayor peso que el que corresponda a la capacidad, condiciones físicas y mecánicas de los mismos. Asimismo, tendrán la obligación de transportar los bienes de los usuarios desde el lugar de su embarque hasta el sitio solicitado, bajo la responsabilidad del concesionario o permisionario que preste el servicio.
-
-###### Artículo 104.
-
-Corresponde a la Secretaría, a través de la Dirección General de Transporte, realizar la revisión física mecánica de los vehículos destinados a la prestación del Servicio de Transporte Público tanto, de pasajeros y de carga como del Servicio de Transporte privado, la revisión se realizará de acuerdo a los lineamientos estipulados en el Reglamento de la presente Ley.
-
-## TÍTULO DÉCIMO TERCERO. DE LOS DERECHOS Y OBLIGACIONES DE LOS USUARIOS
+### CAPÍTULO VI. ASAMBLEAS LOCALES CONSTITUTIVAS
 
 ###### Artículo 35.
 
-El Servicio de Transporte Público de carga especializada, es el que se presta sin sujeción a ruta y en caminos de jurisdicción del Estado, para la movilización de bienes propiedad de terceros, que por sus características físicas y químicas, requieren de un manejo especial o implica riesgo su traslado, mediante el pago de una tarifa autorizada; ubicados en un lugar fijo denominado base de servicio, obligados a iniciar o concluir su servicio dentro del Municipio donde tengan establecida su base, en las condiciones y con los vehículos que se determinen en el Reglamento y se clasifica en:
-
-I. Transporte de materiales para construcción.- Es el que se ofrece al público y que comprende el transporte de piedra, arena, grava, confitillo, cemento, tabique, ladrillo, varilla y toda clase de materiales en bruto o aquellos cuya elaboración es necesaria para la construcción, desde los lugares de producción o distribución a los depósitos o lugares donde se esté llevando a cabo una obra dentro del Estado y de ésta hacia los lugares donde se depositen los sobrantes de la misma;
-
-II. Transporte de agua en pipas.- Es el que se presta para el transporte de agua potable para consumo humano, en vehículos que reúnan las condiciones de higiene y salubridad que determinen las autoridades del ramo correspondiente; no estará sujeto a itinerario ni horario determinado, pero sí a tarifa. El transporte de agua para fines distintos, no estará sujeto a tarifa, y
-
-III. Servicio de Grúas.- Es el que se presta en vehículos equipados con elevador y plataforma, o equipados con mecanismo de remolque, para el transporte o arrastre de cualquier vehículo, sin sujetarse a itinerario fijo, pero si a tarifa autorizada en los términos de esta Ley y su Reglamento, prohíbe establecer cobros del lugar en que se encuentra la grúa, al lugar en que inicie el servicio. Formará parte de la concesión de este servicio el salvamento y rescate. Se entenderá por arrastre: La acción de trasladar un vehículo de un lugar a otro sobre sus propias ruedas o sobre plataforma de grúa, por calles, caminos y puentes de jurisdicción estatal, incluyendo las maniobras necesarias e indispensables para engancharlo de forma segura a la grúa. Tratándose de grúas tipo plataforma incluirá las maniobras de cargarlo y asegurarlo a la misma.
-
-Se entenderá por arrastre y salvamento: El conjunto de maniobras necesarias para poner sobre el camino a los vehículos accidentados, sus partes o su carga, y así efectuar la acción propia del arrastre. Para la operación de servicio de arrastre y salvamento se deberá contar con el tipo de grúa que para cada caso señale el Reglamento respectivo.
+Una vez que las organizaciones interesadas hayan realizado sus asambleas en por lo menos las dos terceras partes de los Distritos Electorales Uninominales, o bien, de las Demarcaciones Territoriales en que se divide la Ciudad de México, tendrán hasta el quince de diciembre de dos mil diecinueve para celebrar su asamblea local constitutiva en presencia del personal funcionario acreditado del Instituto Electoral; para lo cual, deberán notificar por escrito a la Dirección Ejecutiva que celebraron en por lo menos veintidós Distritos Electorales Uninominales o en por lo menos once Demarcaciones Territoriales las asambleas requeridas para la realización de la asamblea local constitutiva, y deberán observar lo previsto en los artículos 22 y 23 del presente Reglamento.
 
 ###### Artículo 36.
 
-El Servicio de Transporte Privado, es aquel que sin tener las características propias del servicio público, realizan las personas físicas o morales para satisfacer una necesidad específica de determinado sector de la población, relacionadas directamente con el cumplimiento de su objeto social o con la realización de actividades comerciales, sean éstas de carácter transitorio o permanente, pero que implican un fin lucrativo o de carácter comercial, que desarrollan sus propietarios o poseedores, como parte de sus actividades comerciales, los cuales estarán regulados y vigilados por parte de la Secretaría, a través de un permiso cuya vigencia no será menor a treinta días ni mayor a un año, y se clasifican en:
+Las personas que fueron electas como delegadas en las asambleas distritales y de demarcaciones territoriales, asistirán a la asamblea local constitutiva.
 
-I. De personal.- El que se presta a empleados de una Empresa o Institución para trasladarse de lugares predeterminados al centro de trabajo y viceversa, pudiendo estar o no sujetos a ruta y horario determinado, respetando las paradas previamente autorizadas; realizándose en vehículos cerrados de ocho y hasta cuarenta y cinco pasajeros; quedando prohibido admitir mayor número de pasajeros que los correspondientes al número de asientos con que cuente la unidad;
+Las personas funcionarias y auxiliares del Instituto Electoral, verificarán la identidad y la residencia en la Ciudad de México de las personas delegadas mediante la exhibición del original de su credencial para votar, o en su defecto, el talón del FUAR acompañado de una identificación oficial con fotografía, cuyos datos serán cotejados con la lista de personas delegadas, elaborada por la Dirección Ejecutiva con base en las actas circunstanciadas de las asambleas distritales o de demarcaciones territoriales celebradas por la organización.
 
-II. Escolar.- Es el que se presta a quienes se encuentran cursando estudios, para transportarse de sus domicilios a los centros escolares y viceversa o cuando su transportación se relacione con la actividad académica. Este transporte, podrá estar o no, sujeto a rutas y horario determinado, respetándolas paradas previamente autorizadas; se prestará en vehículos cerrados con ventanas y puertas que garanticen la seguridad de las personas que transporten; quedando prohibido admitir mayor número de pasajeros que los correspondientes al número de asientos con que cuente la unidad;
-
-III. De ambulancias.- Es el que se presta para el traslado de personas que hayan sufrido afectación en su salud; en vehículos especiales con el equipamiento e insumos mínimos establecidos en la Norma Oficial Mexicana, relativa a la prestación de servicios de atención médica en unidades móviles, emitida por el Comité Consultivo Nacional de Normatividad de Regulación y Fomento Sanitario. Para este tipo de transporte, deberá procurarse adicionalmente la autorización especial otorgada por la autoridad competente;
-
-IV. Turismo Local.- Es el que tiene por objeto el traslado de personas dentro del Estado, de origen a destino y viceversa, hacia aquellos lugares que son considerados, como turísticos por revestir un interés histórico, arqueológico, cultural o recreativo; garantizando las condiciones de seguridad, comodidad e higiene con las condiciones y vehículos que se determinen en el Reglamento; quedando prohibido admitir mayor número de pasajeros que los correspondientes al número de asientos con que cuente la unidad;
-
-V. Mensajería y Paquetería.- Es el que tiene por objeto trasladar dentro de la zona autorizada, toda clase de sobres, paquetes, bultos, cajas y cualquier otro tipo de contenedor con entrega a domicilio;
-
-VI. De traslado de valores;
-
-VII. Giros Restringidos.- Es el que se presta en vehículos que requieren tener condiciones y equipos adecuados para aislar, conservar y proteger los bienes objeto del traslado, así como para evitar cualquier riesgo a terceros, ya que por su propia naturaleza no pueden llevarse en vehículos convencionales, por lo que requiere de unidades dotadas de equipo de refrigeración, calderas, dispositivos herméticos y otros similares, para el traslado de animales en canal, vísceras, de sustancias químicas, corrosivas, gaseosas, radioactivas, líquidos flamables e inflamables, sustancias o desechos peligrosos o infectocontagiosos y, en general, de aquellas que necesitan condiciones especiales por ser potencialmente peligrosas. Dependiendo de las clases de bienes que deban transportarse. Para este tipo de transporte deberá procurarse adicionalmente la autorización especial otorgada por la autoridad competente en cada caso, y
-
-VIII. Servicios Funerarios.- Son aquellos que se efectúan para el traslado de cadáveres de personas para su inhumación o incineración.
+En caso de no realizarse la asamblea, ésta podrá reprogramarse con la oportunidad prevista en el artículo 22 del presente Reglamento.
 
 ###### Artículo 37.
 
-Los vehículos de uso particular, son aquellos destinados a satisfacer las necesidades particulares específicas de transporte de sus propietarios o poseedores legales, ya sean estos personas físicas o morales, en tanto no impliquen un fin lucrativo o de carácter comercial; su circulación será libre por todas las vías públicas del Estado, sin más limitaciones que el cumplimiento, por parte de sus propietarios y de sus operadores, de todas las normas establecidas por esta Ley y su Reglamento, así como de cualquier otra disposición que en relación a la regulación del tránsito en la Entidad pueda serle aplicable.
+Las personas funcionarias del Instituto Electoral acreditadas para la certificación de la asamblea local constitutiva, levantarán un acta circunstanciada, en la que harán constar lo siguiente:
 
-Cuando se transporte carga que exceda tres y media toneladas, no se considerará como servicio particular.
+a) La asistencia de por lo menos el 60 por ciento de las personas delegadas propietarias o suplentes, electas en las asambleas distritales o en las demarcaciones territoriales de la Ciudad de México, según sea el caso;
 
-## TÍTULO SEXTO. DE LOS SERVICIOS AUXILIARES DEL TRANSPORTE
+b) Que por medio de las actas correspondientes, se acreditó que las organizaciones cumplieron con la celebración de las veintidós asambleas distritales o de las once asambleas de demarcaciones territoriales, en términos de la normatividad electoral;
 
-### CAPÍTULO ÚNICO
+c) Que se comprobó la identidad y residencia en la Ciudad de México de las personas delegadas a la asamblea local constitutiva;
 
-###### Artículo 105.
+d) Que las personas delegadas aprobaron la versión final de la Declaración de Principios, Programa de Acción y Estatuto;
 
-La Secretaría, establecerá las medidas necesarias para garantizar a los usuarios la prestación del Servicio de Transporte Público con estricto apego a la normatividad aplicable, así como que en las vialidades se implementen los mecanismos o infraestructura que garantice su seguridad personal.
+e) Que la organización presentó las listas de las personas afiliadas con las que cuenta en el resto de la entidad, con el objeto de satisfacer el requisito del porcentaje mínimo exigido por el Código. Para ello, la organización previamente debió generar estas listas en el Sistema de Registro después de haber realizado la captura de los datos de identificación de todas las personas afiliadas en el resto de la entidad;
 
-###### Artículo 106.
+f) La elección de la directiva estatal correspondiente;
 
-Los usuarios tienen derecho a:
+g) Que durante la celebración de la asamblea no se otorgaron dádivas o existió coacción para que las personas delegadas asistieran o permanecieran en ésta;
 
-I. Que el Servicio de Transporte Público se preste conforme a los principios de generalidad, regularidad, seguridad y eficiencia, en las mejores condiciones de comodidad e higiene;
+h) La hora en que se constituyeron las personas funcionarias del Instituto Electoral; la hora en que se programó la asamblea; así como el inicio y conclusión de la misma, y
 
-II. Recibir un trato digno y respetuoso por parte de los operadores del transporte público;
+i) Nombre y firma de la persona funcionaria del Instituto Electoral acreditada para verificar la asamblea.
 
-III. Pagar sólo la tarifa autorizada;
+## TÍTULO TERCERO. SOLICITUD DE REGISTRO, COMPROBACIÓN DE REQUISITOS Y RESOLUCIÓN
 
-IV. Que se les haga el descuento del cincuenta por ciento a los usuarios que sean, adultos mayores, previa presentación de credencial del INAPAM;
-
-V. Exentar de pago o, en su caso, realizar el descuento del cincuenta por ciento a los usuarios con discapacidad, previa presentación de identificación emitida por el Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Morelos y la Secretaría;
-
-VI. Exentar de pago a los niños menores de tres años cuando los usuarios vayan acompañados de estos;
-
-VII. Hacer uso de paraderos, itinerarios y rutas establecidas;
-
-VIII. Identificar a los conductores de la unidad a través del gafete de operador expedido por la Secretaría, el económico, la empresa y la ruta, según la modalidad del servicio;
-
-IX. A recibir el pago de los daños y los gastos que resulte de algún percance o accidente en el que participe la unidad en el transcurso de la prestación del Servicio de Transporte Público, con cargo al concesionario;
-
-X. Disponer de asientos especiales en los vehículos del Servicio de Transporte Público para personas discapacitadas, adultos mayores y mujeres en período de gestación, y
-
-XI. Demás que disponga la presente Ley y su Reglamento.
-
-###### Artículo 107.
-
-Son obligaciones de los usuarios:
-
-I. Cubrir el monto de la tarifa autorizada;
-
-II. Presentar las credenciales o identificaciones correspondientes para que les sea aplicado el descuento en la tarifa;
-
-III. Solicitar ascenso y descenso sólo en paraderos autorizados;
-
-IV. Abstenerse de maltratar o hacer uso indebido de las unidades de transporte público o los servicios auxiliares del transporte, obligándose a pagar los daños ocasionados, previa comprobación de los mismos;
-
-V. Tratar con respeto al operador del transporte público que conduzca la unidad;
-
-VI. Abstenerse de distraer al operador del transporte público cuando la unidad se encuentre en movimiento;
-
-VII. Abstenerse de fumar o ingerir bebidas embriagantes, y/o consumir enervantes o cualquier sustancia tóxica arriba de la unidad de transporte público, y
-
-VIII. No ocupar el asiento o asientos reservados para personas con discapacidad, adultos mayores y mujeres en período de gestación.
-
-###### Artículo 108.
-
-Cualquier persona puede hacer uso del Servicio de Transporte Público, salvo que se encuentre en cualquier de los siguientes supuestos, en cuyo caso, el operador del transporte público podrá negar el servicio:
-
-I. Encontrarse en notorio estado de ebriedad o bajo la influencia de estupefacientes o psicotrópicos;
-
-II. Realizar actos que atenten contra la tranquilidad, seguridad e integridad de los demás usuarios o del conductor;
-
-III. Cuando se pretenda que el servicio se preste en contravención a las disposiciones legales o reglamentarias, y
-
-IV. Tratándose de Servicio de Transporte Público de carga:
-
-a) El usuario no exhiba los documentos a que se encuentra obligado;
-
-b) La carga no se encuentre debidamente embalada y rotulada, salvo que se trate de carga a granel;
-
-c) La capacidad de carga y volumen excedan los límites previstos, y
-
-d) Las demás señaladas en la presente Ley y su Reglamento.
-
-###### Artículo 109.
-
-Los usuarios están legitimados para denunciar ante la Secretaría, cualquier irregularidad en su perjuicio en que incurra el concesionario u operador del transporte público con motivo del Servicio de Transporte Público.
-
-La Secretaría estará facultada para investigar a instancia de parte o de manera oficiosa sobre las irregularidades en que pudieran haber incurrido los concesionarios con motivo de la prestación del Servicio de Transporte Público.
-
-El procedimiento se sustanciara con la participación de las partes que tendrán derecho a alegar y ofrecer pruebas. Conforme a las constancias que obren en el expediente, la Secretaría resolverá lo que proceda y, en su caso, impondrá las sanciones correspondientes previstas en la presente Ley.
-
-## TÍTULO DÉCIMO CUARTO. DE LAS TARIFAS
+### CAPÍTULO I. ENTREGA DE SOLICITUD DE REGISTRO Y DOCUMENTACIÓN ANEXA
 
 ###### Artículo 38.
 
-Para el otorgamiento del permiso particular relacionado con el transporte que refiere el artículo anterior, el interesado deberá presentar ante la Dirección General de Transporte, los siguientes requisitos:
+Realizados los actos relativos al procedimiento de constitución de partidos políticos locales contenidos en el TÍTULO SEGUNDO del presente Reglamento, las organizaciones aspirantes, en el mes de enero del año anterior al de la siguiente elección ordinaria, deberán entregar su solicitud de registro dirigida al Consejo General.
 
-I. Tarjeta de Circulación vigente;
+El formato de solicitud de registro estará disponible a partir de la expedición de la Convocatoria respectiva, en las oficinas de la Dirección Ejecutiva ubicadas en el domicilio señalado en el artículo 6 del presente Reglamento, así como en la página de Internet: www.iecm.mx
 
-II. Revista Mecánica del Servicio Particular;
+Las organizaciones interesadas deberán anexar a la solicitud de registro la siguiente documentación que quedará bajo resguardo de la Dirección Ejecutiva:
 
-III. Identificación del propietario del vehículo, y
+a) Versión definitiva de su Declaración de Principios, Programa de Acción y Estatuto, aprobados en la asamblea local constitutiva, los cuales deberán cumplir con lo dispuesto en el Código y en el presente Reglamento;
 
-IV. Registro Federal de Contribuyentes de actividades (R.F.C).
+b) Original de las cédulas de afiliación individual y voluntaria de las personas afiliadas en el resto de la entidad, donde conste el nombre completo, iniciando con el apellido paterno; domicilio completo, ocupación, firma o huella digital y clave de la credencial para votar de cada una de éstas, bajo el formato que determine el Instituto Electoral;
 
-Los permisos particulares que refiere este precepto, serán otorgados por la Dirección General de Transporte y se concederán por no más de 365 días, para el vehículo que realice la transportación. Para el efecto, se anexará al expediente de cada vehículo relacionado, copia de los permisos particulares que se expidan relacionados con el vehículo.
+Es responsabilidad de las organizaciones interesadas conservar una copia adicional de las cédulas.
 
-Los funcionarios que contravengan lo establecido en el presente artículo, serán acreedores a las sanciones establecidas en el Ley Estatal de Responsabilidades de los Servidores Públicos.
+La información contenida en las cédulas estará sujeta a lo que la normativa prevé en materia de protección de datos personales.
 
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+Las cédulas de afiliación tanto de las asambleas como del resto de la entidad deberán corresponder, al menos, al 0.26 por ciento del Padrón Electoral de la Ciudad de México que se haya utilizado en la elección local ordinaria inmediata anterior a la presentación de la solicitud de registro.
 
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+Las cédulas de afiliación deberán presentarse en hojas tamaño carta, en las que conste una sola afiliación por persona, ordenadas alfabéticamente empezando con el apellido paterno; por Distrito Electoral Uninominal y Demarcación Territorial; foliadas en números progresivos; anexando a la cédula de afiliación una copia de la credencial para votar por ambos lados de la persona que se trate o del talón del FUAR.
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+Las personas que se afilien al partido político en formación no deberán estar afiliadas a un partido político nacional o local con registro o a alguna otra organización solicitante de registro como partido político local.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JULIO DE 2016)</small>
+c) Las listas nominales de las personas afiliadas en el resto de la entidad generadas en el Sistema de Registro por las propias organizaciones.
+
+d) Las actas de las asambleas distritales o demarcaciones territoriales y la asamblea local constitutiva, las cuales serán integradas por esta autoridad electoral a los expedientes de mérito.
+
+En caso de que la organización no presente su solicitud de registro en el plazo previsto para ello, dejará de tener efecto la notificación formulada.
 
 ###### Artículo 39.
 
-Para los efectos de ésta Ley son servicios auxiliares del transporte, aquellos que sin formar parte de la vía pública ni del transporte público y privado, complementan su operación.
+La recepción de la solicitud de registro y de la documentación precisada en el artículo anterior, estará a cargo de la Oficialía de Partes de este Instituto Electoral, quien contará con el apoyo de la Dirección Ejecutiva, así como de las personas funcionarias que sean comisionadas para tal efecto. El horario de recepción será de las 09:00 a las 17:00 horas. Tratándose del último día para la entrega de documentación (treinta y uno de enero del año previo al de la siguiente elección ordinaria), el horario será de las 09:00 a las 24:00 horas.
 
-### CAPÍTULO ÚNICO
+Con el fin de elaborar el acuse correspondiente, se depositará toda la documentación en cajas de archivo que serán selladas y firmadas en el acto, tanto por el personal de la Oficialía de Partes y de la Dirección Ejecutiva, así como de las personas representantes de las organizaciones peticionarias de registro, a quienes se les citará en día y hora posterior a la recepción, para realizar la apertura de las cajas y el conteo preliminar de los documentos respectivos.
 
-###### Artículo 110.
-
-Las tarifas y sus reglas de aplicación, serán determinadas por el Secretario, de acuerdo a la clase de servicio, rutas e itinerarios del transporte público en sus distintas modalidades, atendiendo a la necesidad y rentabilidad del servicio, al interés público y la capacidad de pago de los usuarios, teniendo la obligación de revisarlas anualmente, tomándose en consideración la opinión del Consejo Consultivo del Transporte. Las tarifas se publicarán en el Periódico Oficial del Estado y en dos de los diarios de mayor circulación en la Entidad, para conocimiento de los usuarios cuando menos con tres días de anticipación a su entrada en vigor. Los prestadores del servicio deberán exhibir en forma permanente y en lugares visibles de sus vehículos, terminales, bases y demás infraestructura con acceso a los usuarios, la tarifa autorizada del servicio de que se trate.
-
-En la publicación y exhibición permanente de la tarifa autorizada, deberá incluirse la exención del pago a los niños menores de tres años y personas con discapacidad o bien aplicarles el cincuenta por ciento de descuento del pago, así como el descuento del cincuenta por ciento del pago a personas adultas mayores que presenten su credencial del INAPAM.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
-
-###### Artículo 111.
-
-Para la propuesta de fijación o modificación de tarifas para el Servicio de Transporte Público, la Secretaría deberá considerar el tipo de servicio y el incremento al valor diario de la Unidad de Medida y Actualización.
-
-###### Artículo 112.
-
-La Secretaría, establecerá las reglas de aplicación para el cobro de tarifas del Servicio de Transporte Público, incorporando en lo posible los avances tecnológicos existentes, las cuales deberán contener como mínimo:
-
-I. Dictamen de aplicación o no aplicación del incremento de tarifas;
-
-II. Tarifa mínima;
-
-III. Tarifa máxima;
-
-IV. Descuentos y exenciones aplicables, y
-
-V. Entrada en vigor.
-
-###### Artículo 113.
-
-La Secretaría, podrá autorizar el establecimiento de tarifas especiales, previo estudio que soporte su aplicación.
-
-## TÍTULO DÉCIMO QUINTO. DE LA PUBLICIDAD EN LOS VEHÍCULOS DE TRANSPORTE
+### CAPÍTULO II. REVISIÓN DEL CUMPLIMIENTO DE REQUISITOS Y DOCUMENTOS BÁSICOS
 
 ###### Artículo 40.
 
-Los permisos que en los términos de esta Ley otorguen los Ayuntamientos, previa opinión de la Secretaría, para la autorización de servicios auxiliares del transporte, serán los siguientes:
+La Dirección Ejecutiva examinará la solicitud de registro, los documentos básicos, los datos de las cédulas de afiliación en la lista de afiliaciones capturadas por las organizaciones en el Sistema de Registro en Línea, así como el cumplimiento de los requisitos y del procedimiento de constitución señalados en la Ley de Partidos, en el Código, en los Lineamientos de Verificación y en el presente Reglamento, y formulará el dictamen con proyecto de resolución respectivo, para lo cual realizará lo siguiente:
 
-I. Terminales de pasajeros;
+a) El análisis de los documentos básicos de conformidad con los artículos 262, 263 y 264 del Código y del presente Reglamento. Además, el Estatuto deberá contener lo siguiente (1):
 
-II. Paraderos;
+(1). Estos requisitos se retomaron de los criterios orientadores emitidos por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación que obran en las tesis de jurisprudencia 03/2005, de rubro: "ESTATUTOS DE LOS PARTIDOS POLÍTICOS. ELEMENTOS MÍNIMOS PARA CONSIDERARLOS DEMOCRÁTICOS". Así como los sostenidos por el Pleno del Tribunal Electoral del Distrito Federal hoy de la Ciudad de México, que obran en la sentencia dictada en el expediente identificado con la clave TEDF-REA-039/2002.
 
-III. Sitios, y
+I. La deliberación y participación de sus personas afiliadas, en el mayor grado posible, en los procesos de toma de decisiones, para que respondan lo más fielmente posible a la voluntad popular;
 
-IV. Bases.
+II. Igualdad, para que las personas afiliadas participen con igual peso respecto de otra persona integrante de la organización;
 
-Corresponde a la Secretaría autorizar la instalación de talleres de mantenimiento y encierro y depósitos de vehículos.
+III. Garantía de derechos fundamentales, principalmente, de libertades de expresión, información, asociación y reunión, y
 
-Los Ayuntamientos informarán en un plazo no mayor a quince días, sobre la autorización de instalación o modificación de los servicios auxiliares del transporte a la Secretaría para su conocimiento y registro respectivo.
+IV. Control de órganos electos, que implica la posibilidad real y efectiva de que las personas afiliadas puedan elegir a sus titulares, y de removerlos en los casos que la gravedad de sus acciones lo amerite.
 
-### CAPÍTULO ÚNICO
+Los elementos mínimos para el proceso de integración de los órganos directivos son:
 
-###### Artículo 114.
+I. Señalar los órganos directivos y los cargos que serán objeto de renovación periódica;
 
-La Publicidad en el Transporte Público de Pasajeros y de Carga, es aquella que se encuentra en las partes interiores o exteriores de los Vehículos como medio para dar a conocer un producto o servicio.
+II. Los órganos deben ser de carácter directivo, es decir, no de índole consultivo u honorario;
 
-###### Artículo 115.
+III. El mecanismo cierto y determinado de carácter ordinario que habrá de seguirse para efectuar la renovación del órgano directivo de que se trate, el que deberá detallar aspectos tales como: el órgano facultado para emitir la convocatoria, así como la forma y términos en que deberá emitirse y difundirse, la votación necesaria para que la designación sea válida, los medios de identificación de las personas asistentes, los requisitos para acceder a los órganos directivos correspondientes y las actas que deberán levantarse en cada ocasión;
 
-La publicidad que porten los vehículos destinados al Servicio de Transporte Público con y sin itinerario fijo, deberá cumplir con los criterios establecidos en el Reglamento de la materia.
+IV. La periodicidad conforme a la cual se deberán renovar los órganos directivos del partido político local; esto es, su temporalidad, y que dicho mecanismo garantice la participación de las personas afiliadas, respetando en todo momento su derecho a integrar los órganos directivos, y
 
-###### Artículo 116.
+V. Los órganos directivos deberán ser electos por el mayor número de personas afiliadas o delegadas con la mayor representación posible.
 
-La Publicidad se clasifica en:
+Una vez recibida la documentación e iniciado el trámite de solicitud de registro, no se recibirán modificaciones, adiciones o rectificaciones a ninguno de los proyectos de Declaración de Principios, Programa de Acción y Estatuto a menos que dichas modificaciones sean solicitadas por la Comisión mediante oficio, en los términos y el plazo establecido en el artículo 268 del Código.
 
-I. Denominativa: Cuando contenga nombre o razón social, profesión o actividad a la que se dedica la persona física o moral de que se trate;
+Requerimientos. Si se determina la inconsistencia del Estatuto o de algún otro documento básico, se solicitará al Órgano Directivo Central de la organización, lo subsane dentro de las setenta y dos horas siguientes a la notificación, apercibida que de no atender en sus términos el requerimiento en el plazo señalado, se resolverá sobre la legalidad de los mismos con los elementos con que se cuente.
 
-II. Identificativa: Ya sea de una negociación o un producto como los son logotipos de propaganda, marcas, productos, eventos, servicios o actividades análogas, para promover su venta, uso o consumo;
+b) La revisión de las actas levantadas en cada una de las asambleas distritales o de demarcaciones territoriales, y local constitutiva, en términos del artículo 265 del Código;
 
-III. Religiosa;
+c) La verificación de los originales de las listas de asistencia a las asambleas distritales o de demarcaciones territoriales y local constitutiva, en términos de la información referida en el artículo 34 del presente Reglamento.
 
-IV. Cívica, y
+d) Una vez que la Dirección Ejecutiva haya recibido la solicitud de registro de la organización, dentro de los siguientes ocho días hábiles, realizará lo siguiente:
 
-V. Electoral y/o Política.
+I. Únicamente por lo que hace a las manifestaciones de afiliación del resto de la entidad, esto es, aquellas que no provengan de una asamblea, identificará las que no contengan los requisitos establecidos en el artículo 14, incisos b, f, h, i y j del presente Reglamento, que las invaliden;
 
-###### Artículo 117.
+II. En la lista de personas afiliadas capturada por la organización en el Sistema de Registro, marcará los registros que correspondan con las cédulas presentadas físicamente y, en su caso, precisará la inconsistencia detectada (requisito faltante). No se contabilizarán las personas afiliadas registradas en el Sistema de Registro que no tengan sustento en dichas manifestaciones; y
 
-Son atribuciones de la Secretaría:
+III. Vía correo electrónico, notificará a la DERFE que la verificación de las manifestaciones ha sido realizada a efecto de que proceda a la compulsa respectiva.
 
-I. Vigilar que las frases, palabras, objetos, fotografías y/o dibujos que se utilicen no atente contra la moral, las buenas costumbres, la dignidad humana ni se estime como inscripciones despectivas u ofensivas o excedan las dimensiones del vehículo, y
+La DERFE realizará la búsqueda de los datos de las personas afiliadas en el resto de la entidad cargados en el Sistema de Registro, contra el Padrón Electoral y el Libro Negro correspondiente a la Ciudad de México. Para tales efectos, contará con un plazo de diez días naturales. Concluida la compulsa informará vía correo electrónico al Instituto Electoral que la información ha sido cargada en el Sistema de Registro y que se encuentra disponible para su consulta. Asimismo, comunicará a la DEPPP que ha concluido la compulsa a efecto de que ésta, en un plazo de tres días naturales lleve a cabo el cruce contra las personas afiliadas a otras organizaciones o partidos políticos, en términos de los subsecuentes artículos.
 
-II. Verificar que la publicidad no obstruya o desvirtúe las características y cromática que identifican a los vehículos.
-
-###### Artículo 118.
-
-La emisión de los formatos de solicitud para la portación de la publicidad será de forma gratuita anexando la siguiente documentación:
-
-I. Original y copia del documento que ampare la propiedad del vehículo;
-
-II. Contrato de publicidad; y
-
-III. Dibujo, fotografía o descripción que muestre su forma, ubicación, estructura, dimensiones, colores y demás elementos que constituyan el anuncio publicitario.
-
-###### Artículo 119.
-
-Tratándose de propaganda de tipo electoral deberá obtenerse previamente la conformidad de la autoridad competente.
-
-###### Artículo 120.
-
-Las compañías publicitarias podrán solicitar una autorización global por todos los anuncios que distribuyan en los vehículos del Servicio de Transporte Público, siempre y cuando cumpla con las disposiciones del Reglamento de la presente Ley.
-
-###### Artículo 121.
-
-Serán nulas todas aquellas autorizaciones que se otorguen con documentos falsos, así como también dejarán de surtir sus efectos cuando modifiquen el texto, elementos o características del anuncio la previa autorización de la Secretaría.
-
-###### Artículo 122.
-
-En caso de reincidencia, se procederá a la cancelación de la autorización. Entendiéndose por reincidencia incurrir dos veces con la misma conducta.
-
-## TÍTULO DÉCIMO SEXTO. DE LA INSPECCIÓN Y VIGILANCIA
+### CAPÍTULO III. VERIFICACIÓN DE CÉDULAS DE AFILIACIÓN
 
 ###### Artículo 41.
 
-Los Ayuntamientos podrán determinar, previo estudio de factibilidad y opinión que emita la Secretaría, el cambio de cualquier sitio, base o terminal de vehículos que presten Servicio de Transporte Público o Privado de Pasajeros en los siguientes casos:
+Conforme se establece en los Lineamientos de Verificación, la DEPPP, a través del Sistema de Registro realizará un cruce de las personas afiliadas válidas de cada organización contra las afiliadas de las otras organizaciones en proceso de constitución como partido político local en la Ciudad de México. En caso de identificarse duplicados entre ellas, se estará a lo siguiente:
 
-I. Cuando se originen molestias al público u obstaculicen la circulación de peatones y vehículos, y
+a) Cuando una persona asistente válida en una asamblea de una organización se encuentre a su vez como válida en una asamblea de otra organización, prevalecerá su afiliación en la asamblea de fecha más reciente y no se contabilizará en la más antigua.
 
-II. Por causa de interés público.
+b) Cuando una persona asistente válida a una asamblea de una organización se identifique como válida en las afiliaciones del resto de la entidad de otra organización, se privilegiará su afiliación en la asamblea, y
+
+c) Cuando una persona afiliada de una organización en el resto de la entidad, se localice como válida en el resto de la entidad de otra organización, prevalecerá la afiliación de fecha más reciente. En el caso de que ambas manifestaciones sean de la misma fecha, la Dirección Ejecutiva consultará a la ciudadana o al ciudadano para que manifieste en qué organización desea continuar su afiliación. De no recibir respuesta por parte de la ciudadana o del ciudadano en cuestión, la afiliación dejará de ser válida para ambas organizaciones.
 
 ###### Artículo 42.
 
-Para la prestación del Servicio de Transporte Público de Pasajeros con itinerario fijo, los concesionarios deberán contar con terminales o bases de origen y destino, o en su caso con bases, conforme al Reglamento de esta Ley. Lo anterior, sin perjuicio de la obligación que tiene el concesionario de exhibir la autorización del uso de suelo y el estudio de impacto vial que emitan las autoridades municipales correspondientes.
+La DEPPP, a través del Sistema de Registro realizará un cruce de las personas afiliadas válidas de cada organización contra los padrones de personas afiliadas de los partidos políticos locales con que cuente el Instituto Electoral a la fecha de presentación de la solicitud de registro, así como contra los padrones verificados de los partidos políticos nacionales. En caso de identificarse duplicados entre éstos, se estará a lo siguiente:
+
+a) El Instituto Electoral dará vista a los partidos políticos correspondientes a través de su Comité Estatal o equivalente, para que en el plazo de cinco días hábiles presenten el original de la manifestación de la ciudadana o ciudadano que se trate.
+
+b) Si el partido político no da respuesta al requerimiento o no presenta el original de la manifestación, la afiliación se contará como válida para la organización.
+
+c) Si el partido político sí da respuesta y presenta el original de la manifestación, se procederá como sigue:
+
+I. Si la duplicidad se presenta respecto de una persona asistente válida a una asamblea de la organización con el padrón de afiliaciones del partido y la afiliación a éste es de la misma fecha o anterior a la asamblea, se privilegiará la afiliación a la asamblea.
+
+II. Si la duplicidad se presenta respecto de una persona asistente válida a una asamblea de la organización con el padrón de afiliaciones del partido y la afiliación a éste es de fecha posterior a la asamblea, la Dirección Ejecutiva consultará a la ciudadana o al ciudadano en cuestión para que manifieste en qué organización o partido político desea continuar afiliado. De no recibir respuesta por parte de la ciudadana o del ciudadano, prevalecerá la afiliación de fecha más reciente, y
+
+III. Si la duplicidad se presenta en una persona afiliada de la organización en el resto de la entidad con el padrón de afiliaciones de un partido político, la Dirección Ejecutiva consultará a la ciudadana o al ciudadano conforme al procedimiento señalado en la fracción anterior.
 
 ###### Artículo 43.
 
-La operación y explotación de terminales, o en su caso, de bases, talleres de mantenimiento y encierro, paraderos o sitios, para el ascenso y descenso de pasajeros se llevará a cabo conforme a los términos del Reglamento.
+No se contabilizarán para la satisfacción del requisito de afiliación exigido para obtener el registro como partido político local:
 
-## TÍTULO SÉPTIMO. DE LAS CONCESIONES Y PERMISOS
+a) Las manifestaciones presentadas por una misma organización que correspondan a una persona afiliada que ya haya sido contabilizada (duplicados, triplicados, entre otros);
+
+b) Las manifestaciones que carezcan de alguno de los requisitos establecidos en el presente Reglamento;
+
+c) Las manifestaciones de las ciudadanas y los ciudadanos cuya situación se ubique dentro de los supuestos siguientes:
+
+I. "Defunción", aquellos que sean ubicados como bajas en el Padrón Electoral, de conformidad con el artículo 155, párrafo 9, de la Ley General.
+
+II. "Suspensión de Derechos Políticos", aquellos que sean ubicados como bajas en el Padrón Electoral, de conformidad con el artículo 155, párrafo 8, de la Ley General.
+
+III. "Cancelación de trámite", aquellos que sean ubicados como bajas en el Padrón Electoral de conformidad con el artículo 155, párrafo 1 de la Ley General.
+
+IV. "Duplicado en padrón", aquellos que sean ubicados como bajas en el Padrón Electoral, de conformidad con el artículo 132, párrafo 3, de la Ley General.
+
+V. "Datos personales irregulares", aquellos que sean ubicados como bajas en el Padrón Electoral, de conformidad con el supuesto previsto por el artículo 447, párrafo 1, inciso c) de la Ley General.
+
+VI. "Domicilio irregular", aquellos que sean ubicados como bajas en el Padrón Electoral, de conformidad con la hipótesis dispuesta por el artículo 447, párrafo 1, inciso c) de la Ley General.
+
+d) Las personas afiliadas cuyo domicilio no corresponda a la Ciudad de México.
+
+e) Las manifestaciones cuyos datos no sea posible localizarlos en el Padrón Electoral.
+
+f) Las personas afiliadas a dos o más organizaciones o partidos políticos, conforme a los criterios detallados en los artículos 41 y 42 del presente Reglamento.
+
+g) Aquellas manifestaciones que no correspondan al proceso de registro en curso o tengan más de un año de antigüedad a la fecha de presentación de la solicitud de registro.
+
+h) Las ciudadanas o ciudadanos que participaron en una asamblea que no corresponde al ámbito distrital o de Demarcación Territorial del domicilio asentado en su credencial para votar, serán descontados del total de participantes a la asamblea respectiva; no obstante, se deja a salvo su derecho de afiliación a efecto de ser contabilizados para la satisfacción del requisito mínimo de afiliaciones en la Ciudad de México, en caso de satisfacer los requisitos para tal efecto.
 
 ###### Artículo 44.
 
-Para efectos de la presente Ley se entenderá por concesión, el Título que a través de un acto administrativo otorga el Gobernador Constitucional del Estado de Morelos a personas físicas o morales y que confiere el derecho a explotar y operar los Servicios de Transporte Público, en los términos que en la misma se señalan, sin que se confiera exclusividad respecto de los derechos de explotación. Se requiere de concesión otorgada por el Gobierno del Estado de Morelos, para la operación y explotación de los servicios a que se refieren los artículos 32, 33, 34 y 35 de la presente Ley.
+Una vez hecho lo anterior, dentro de los tres días hábiles siguientes, la DEPPP informará a la Dirección Ejecutiva sobre los resultados del cruce de afiliaciones válidas efectuado en términos de los artículos anteriores.
 
-### CAPÍTULO ÚNICO
-
-###### Artículo 123.
-
-Las autoridades de transporte podrán practicar inspecciones a fin de vigilar el cumplimiento de las disposiciones de esta Ley y su Reglamento.
-
-###### Artículo 124.
-
-Corresponde a la Secretaría, controlar y regular la prestación de los servicios de transporte en cualquiera de sus modalidades, mediante los operativos en vía pública y las visitas de verificación domiciliarias que estime convenientes en los términos de esta Ley y su Reglamento, así como de la Ley de Procedimiento Administrativo para el Estado de Morelos.
-
-###### Artículo 125.
-
-Para los efectos de esta Ley y su Reglamento, se entenderá como supervisores a los Servidores Públicos autorizados que tengan a su cargo las atribuciones siguientes:
-
-I. Vigilar el exacto cumplimiento de las disposiciones de la presente Ley, su Reglamento y demás ordenamientos aplicables;
-
-II. Vigilar las condiciones de seguridad, comodidad e higiene de las terminales, paradas, sitios y demás servicios auxiliares del transporte público;
-
-III. La vigilancia y revisión de los vehículos destinados al Servicio de Transporte Público y Privado, que circulen en la infraestructura carretera del Estado;
-
-IV. Revisar la documentación necesaria que deben portar los operadores del transporte público en los vehículos para la prestación del Servicio de Transporte Público y del Servicio de Transporte Privado;
-
-V. Practicar inspecciones a los vehículos del Servicio de Transporte Público y Privado del Estado;
-
-VI. Retirar de la circulación a los vehículos que no cumplan con los requisitos establecidos en la presente Ley y su Reglamento;
-
-VII. Hacer del conocimiento de la autoridad competente hechos o conductas que se presuman constitutivos de algún delito;
-
-VIII. Elaborar las boletas de infracciones a los conductores de los vehículos del Servicio de Transporte Público y Privado cuando se infrinja alguna disposición a la presente Ley o su Reglamento, y
-
-IX. Las demás que le confiera la presente Ley y el Reglamento respectivo.
-
-###### Artículo 126.
-
-Los Supervisores, en los términos del artículo anterior, para realizar la visita de verificación domiciliaria, deberán contar con identificación vigente, oficio de comisión, así como la orden de visita expedida por la autoridad competente en términos de lo dispuesto por esta Ley y su Reglamento, así como por la Ley de Procedimiento Administrativo para el Estado de Morelos.
-
-###### Artículo 127.
-
-Las personas físicas y morales están obligadas a proporcionar a los Supervisores nombrados para tal efecto por la autoridad competente, previa acreditación como tales, los informes, documentos y datos que sean necesarios para el ejercicio de sus funciones.
-
-###### Artículo 128.
-
-Los supervisores, en ejercicio de su responsabilidad, podrán retener en garantía de pago de las multas por conceptos de violación a la presente Ley y su Reglamento, cualquiera de los elementos de circulación. En caso de que se detecte un vehículo operando servicios de transporte público carente de elementos de circulación, los supervisores deberán retenerlo en garantía del pago de la multa por las infracciones cometidas, procediendo a formular las actas de las infracciones correspondientes.
-
-###### Artículo 129.
-
-En caso de que un supervisor detecte un vehículo operando Servicios de Transporte Público sin concesión o relacionado en hechos que puedan ser constitutivos de delitos, tendrán la obligación de ponerlo a disposición del Ministerio Público, conjuntamente con su operador, para el deslinde de responsabilidad correspondiente.
-
-## TÍTULO DÉCIMO SÉPTIMO. DE LAS INFRACCIONES, SANCIONES, DEL PROCEDIMIENTO PARA SU APLICACIÓN
+### CAPÍTULO IV. DICTAMEN SOBRE EL CUMPLIMIENTO DEL PORCENTAJE DE AFILIACIONES
 
 ###### Artículo 45.
 
-Para el otorgamiento de concesiones, el Gobernador Constitucional del Estado de Morelos, a través del Secretario, deberá publicar en el Periódico Oficial del Estado, conjuntamente con la Convocatoria, la Declaratoria de necesidades respectiva, que justifique el incremento de las concesiones existentes de acuerdo con la modalidad de que se trate.
+Una vez obtenido el resultado del cruce de afiliaciones válidas de cada organización realizado por la DEPPP, dentro de los ocho días hábiles siguientes, la Dirección Ejecutiva emitirá el dictamen en el que se determinará si la organización aspirante cumplió con el porcentaje legal de afiliaciones y su distribución en las dos terceras partes de las Demarcaciones Territoriales de la Ciudad de México.
+
+El dictamen respectivo, será notificado a la representación de la organización, la cual tendrá cuarenta y ocho horas contadas a partir de la notificación del dictamen respectivo para solicitar por escrito dirigido a la persona titular de la Dirección Ejecutiva, el ejercicio de su garantía de audiencia. Para ello, dentro de un plazo que no excederá de cinco días hábiles siguientes a la presentación de su escrito, la Dirección Ejecutiva citará a la organización para que acuda el día y hora señalado, a desahogar su derecho a la garantía de audiencia. La garantía de audiencia versará únicamente solamente respecto de las afiliaciones inválidas que sean determinantes para alcanzar el porcentaje necesario para obtener su registro como partido político local y que actualizaron alguno o varios de los supuestos establecidos en el artículo 43, inciso c) del presente Reglamento.
+
+El resultado del ejercicio de la garantía de audiencia se consignará en el acta circunstanciada que al efecto sea levantada por la persona funcionaria del Instituto Electoral designada, en la que se incluirán las manifestaciones de las personas representantes de la interesada, si así lo solicitare.
 
 ###### Artículo 46.
 
-El Gobernador Constitucional del Estado de Morelos, otorgará las concesiones mediante concurso público siguiendo el procedimiento establecido en la presente Ley y su Reglamento; a excepción de las referidas en los artículos 35 de esta Ley, las que podrá otorgar directamente sin someterse a concurso; siempre y cuando se cumplan los requisitos que marca este ordenamiento.
+En caso de duda fundada sobre la autenticidad de las cédulas de afiliación, se tomará una muestra aleatoria de las mismas para su verificación. Si como resultado de dicha verificación se encuentran inconsistencias o irregularidades que superen el diez por ciento de dicha muestra, se procederá a la revisión total de cada una de las cédulas de afiliación que se encuentren en dicho supuesto. El resultado de esta verificación se notificará a la organización interesada, otorgándole garantía de audiencia, conforme al procedimiento previsto para ello en el segundo párrafo del artículo 45 del presente Reglamento.
 
-### CAPÍTULO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
+En su caso, se dará vista de la probable comisión de un delito electoral a la Fiscalía Especializada para la Atención de Delitos Electorales, al Instituto Nacional para el Acceso a la Información y a la Dirección de Quejas del Instituto Electoral de la Ciudad de México.
 
-###### Artículo 130.
-
-Las infracciones a las disposiciones de esta Ley y de su Reglamento, serán fijadas a través de la Secretaría y consistirán en:
-
-I. Amonestación;
-
-II. Suspensión temporal de derechos o licencias para los conductores sin perjuicio de la sanción pecuniaria;
-
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
-
-III. Multa, de cinco a doscientas veces el valor diario de la Unidad de Medida y Actualización;
-
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
-
-IV. Multa, de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización;
-
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
-
-V. Multa, de seiscientas veces el valor diario de la Unidad de Medida y Actualización, y
-
-VI. Revocación de la Concesión, permiso o gafete de operador.
-
-Las citadas sanciones administrativas, serán sancionadas de conformidad con lo establecido en la presente Ley, su Reglamento y demás disposiciones legales aplicables y se impondrán sin perjuicio de la responsabilidad civil o penal en que se pudiera haber incurrido por la comisión de un ilícito.
-
-###### Artículo 131.
-
-La Secretaría calificará la infracción que resulte, de conformidad con la mayor o menor gravedad de la falta y de acuerdo a la capacidad económica del infractor.
-
-###### Artículo 132.
-
-La Secretaría atendiendo a la gravedad de la falta, que deberá ser calificada por la misma, podrá imponer las sanciones previstas en el presente ordenamiento a los concesionarios, permisionarios y operadores del transporte público en cualquiera de sus modalidades, que infrinjan lo previsto en la presente Ley y su Reglamento. Igualmente, podrán imponer sanciones a aquellos que presten el servicio en cualquiera de sus modalidades careciendo de concesión, permiso o con placas metálicas de identificación del servicio de transporte en vehículo distinto al autorizado.
-
-###### Artículo 133.
-
-Se sancionará las violaciones a esta Ley y su Reglamento con amonestación o, en su caso, con multa prevista en el artículo 130, fracciones I y III, a los operadores del transporte público, permisionarios y concesionarios, en su caso, que presten el Servicio de Transporte Público en los siguientes casos:
-
-I. Por no mostrar la tarifa autorizada en lugar visible del vehículo, en el caso del Servicio de Transporte Público de pasajeros con itinerario fijo;
-
-II. Cuando el vehículo en que se presta el servicio, no reúna las condiciones adecuadas en su estado físico interior y exterior, y en su sistema mecánico, electrónico a juicio de la autoridad competente, quien le notificará de las anomalías y le fijará un plazo perentorio para su corrección;
-
-III. Por hacer uso de la vía pública para el establecimiento de terminales, o que estas causen molestias a los habitantes o establecimientos aledaños;
-
-IV. Por no señalar en la unidad el número económico y/o el número de la ruta asignada, o por no acatar la cromática asignada por la Secretaría.
-
-V. Cuando el operador del transporte público no porte el uniforme de trabajo durante el servicio;
-
-VI. Cuando el operador del transporte público no tenga a la vista de los usuarios en el interior del vehículo que maneja el original de su gafete de operador expedido por la Secretaría;
-
-VII. Cuando el operador del transporte público no acate las normas de tránsito;
-
-VIII. Cuando se presenten deficiencias en el cumplimiento de horarios, frecuencias e itinerarios, y
-
-IX. Cuando el operador del transporte público no realice las maniobras de ascenso y descenso de pasajeros en las paradas autorizadas para ello.
-
-###### Artículo 134.
-
-Se sancionará las violaciones a la Ley y su Reglamento con multa que se refiere el artículo 130, fracción III, a los concesionarios, permisionarios y operadores, en su caso, que presten el Servicio de Transporte Público en los siguientes casos:
-
-I. Por aplicación de tarifas que no hayan sido autorizadas;
-
-II. Por comportamiento indebido y falta de cortesía para con el público de parte del personal empleado en la prestación de servicios;
-
-III. Por abastecer combustible con el motor encendido y/o con pasajeros a bordo;
-
-IV. Por tolerar que viajen personas en los estribos o en lugares destinados para ello;
-
-V. Por circular con las puertas abiertas o no extremar las precauciones al abrir estas;
-
-VI. Por establecer sitios o bases de operación sea en forma temporal o permanente en lugares distintos a los autorizados;
-
-VII. Por no disponer de asientos reservados para personas con discapacidad, mujeres embarazadas, y adultos mayores, y
-
-VIII. Por accionar dentro de los vehículos del Servicio de Transporte Público equipos con sonido estridente.
-
-###### Artículo 135.
-
-Además de las sanciones previstas en el artículo anterior se sancionará con multa:
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
-
-I. De seiscientas veces el valor diario de la Unidad de Medida y Actualización, al que preste el servicio en cualquiera de sus modalidades careciendo de concesión, permiso o con placas de identificación del Servicio de Transporte Público en vehículo distinto al autorizado. En caso de reincidencia, la multa ascenderá a mil doscientas veces el valor diario de la Unidad de Medida y Actualización
-
-Para garantizar el pago de esta sanción, la autoridad del transporte deberá retener en garantía el vehículo en el que se cometió la infracción. Si en los treinta días siguientes no se ha pagado la infracción, se remitirá a la Secretaría de Hacienda del Estado para hacer efectivo su cobro, mediante el procedimiento administrativo de ejecución correspondiente.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
-
-II. De doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización, a quienes presten el Servicio de Transporte Público distinto al autorizado por la Secretaría, así como a los concesionarios y operadores del transporte público en su modalidad de itinerario fijo que presten el servicio fuera del itinerario. En caso de reincidencia, la multa ascenderá de seiscientas a mil veces el valor diario de la Unidad de Medida y Actualización.
-
-Además de las sanciones previstas en el presente artículo se estará a lo dispuesto por el artículo 129 de este ordenamiento.
-
-###### Artículo 136.
-
-Se procederá a la suspensión del gafete de operador para operar vehículos del Servicio de Transporte Público en los siguientes casos:
-
-Por Cinco Días:
-
-I. Cuando el conductor opere un vehículo del Servicio de Transporte Público con la certificación no vigente;
-
-II. En los casos en que se presenten más de dos quejas por parte de los usuarios en contra de un mismo operador del transporte público por no dar cambio exacto, y/o por ofender a los pasajeros, y
-
-III. En los casos en que se presenten más de dos quejas por parte de los usuarios por no aplicar la exención de pago o los descuentos contemplados en el artículo 79, fracción IV.
-
-Por diez días:
-
-I. Por reincidencia de las acciones contempladas en las fracciones I y II del apartado anterior, en un período de tres meses, y
-
-III (sic). Cuando el conductor no permita que le realicen el examen toxicológico en el tiempo, lugar y forma establecidos.
-
-Por quince días:
-
-I. Por acumular tres infracciones a los ordenamientos de tránsito en un período de un mes, y
-
-II. Por agredir física o verbalmente a los Inspectores del Transporte o cualquier otro funcionario de la Secretaría.
-
-###### Artículo 137.
-
-Procede la cancelación del gafete de operador en los casos siguientes:
-
-I. Por violar en forma reiterada y sistemática las disposiciones de esta Ley o su Reglamento, no obstante que se hayan aplicado las sanciones de amonestación, multa y suspensión;
-
-II. Por haber sido suspendida su gafete en dos ocasiones por cualquiera de los motivos señalados en el artículo anterior de este ordenamiento o del Reglamento respectivo por infracciones a los ordenamientos de transito;
-
-III. Por abandono del vehículo o de persona en caso de accidente, en el que haya intervenido el vehículo del Servicio de Transporte Público que conduce;
-
-IV. Por conducir el vehículo destinado al Servicio de Transporte Público en cualquiera de sus modalidades, en cualquier horario y días, bajo el influjo de bebidas alcohólicas o bajo el efecto de enervantes o psicotrópicos;
-
-V. Por permitir el uso del gafete de operador a una persona distinta al titular, y
-
-VI. Por entregar documentos falsos para la obtención del gafete de operador.
-
-###### Artículo 138.
-
-El operador del transporte público, cuyo gafete haya sido cancelado no tendrá derecho a que se le devuelva o renueve.
-
-Para el caso de suspensión, el interesado podrá solicitar la devolución cuando haya transcurrido el tiempo de la suspensión.
+### CAPÍTULO V. DICTAMEN DE REGISTRO Y RESOLUCIÓN
 
 ###### Artículo 47.
 
-La declaratoria de necesidades para el otorgamiento de concesiones, contendrá como mínimo lo siguiente:
+La Dirección Ejecutiva elaborará un dictamen de registro sobre la procedencia o improcedencia de la solicitud de constituirse como partido político local, tomando como base el resultado de la revisión de las constancias que integren el expediente respectivo, en el cual se hará constar:
 
-I. Los resultados de los estudios técnicos que justifiquen el otorgamiento;
+I. Que se verificó que la organización presentó, a través de sus representantes, la solicitud de registro como partido político local cumpliendo en tiempo y forma con los requisitos y la documentación que señalan la Ley de Partidos, el Código y el presente Reglamento;
 
-II. Las zonas territoriales en las que la oferta de Servicio de Transporte Público debe ser incrementada;
+II. Que se constató que la organización cumplió con el mínimo de 0.26 por ciento de personas afiliadas inscritas en el Padrón Electoral de la Ciudad de México, y que su militancia está distribuida en cuando menos dos terceras partes de las Demarcaciones Territoriales de la entidad, en términos del artículo 17 del presente Reglamento;
 
-III. La modalidad de Servicio de Transporte Público de que se trate;
+III. Que las actas de las asambleas distritales o de demarcaciones territoriales, así como la de la asamblea local constitutiva celebradas por la organización, cumplieron con los requisitos señalados en la Ley de Partidos, el Código y este Reglamento;
 
-IV. El tipo, número, antigüedad y características de los vehículos que se requieran;
+IV. Que no existió intervención de organizaciones con objeto social distinto en la constitución de partido político, en términos de la Ley de Partidos, el Código y este Reglamento.
 
-V. Las condiciones generales para la prestación del servicio, y
+V. Que los documentos básicos cumplen con lo dispuesto en la normatividad electoral, y
 
-VI. Las demás que señalen las disposiciones jurídicas y administrativas aplicables.
+VI. Que el resultado del Dictamen Consolidado de la Unidad de Fiscalización fue favorable respecto de los informes mensuales sobre el origen y destino de los recursos utilizados en las actividades previas que haya realizado la organización para obtener su registro como partido político local, conforme al artículo 265, párrafo 2 del Código y el Reglamento de Fiscalización del Instituto Electoral.
+
+El dictamen de la Dirección Ejecutiva será sometido a consideración de la Comisión para su aprobación y remisión al Consejo General.
 
 ###### Artículo 48.
 
-Las concesiones para la prestación del Servicio de Transporte Público en sus diferentes modalidades, se otorgarán a quienes cumplan los requisitos siguientes:
+El Consejo General, con base en el dictamen de la Dirección Ejecutiva, emitirá la resolución relativa a la procedencia o improcedencia del registro de la organización como partido político local, dentro del plazo de sesenta días hábiles contados a partir de la presentación de la solicitud de registro.
 
-I. Personas físicas:
+A. En la resolución que emita el Consejo General en la que declare la procedencia del registro como partido político local, se ordenará:
 
-a) Ser de nacionalidad mexicana;
+I. La inscripción en los libros correspondiente, del registro del nuevo partido político local; así como, en su caso, de los integrantes de los órganos de dirección del instituto político de nueva creación;
 
-b) Tener cuando menos 21 años de edad;
+II. La expedición del certificado del registro como partido político local;
 
-c) Estar inscrito en el Registro Federal de Contribuyentes;
+III. Que se informe al Instituto Nacional para los efectos correspondientes.
 
-d) No haber sido condenado por delito intencional o grave;
+B. En la resolución que emita el Consejo General en la que declare la improcedencia del registro como partido político local, se fundamentarán y motivarán las causas, los requisitos y los criterios que no fueron cumplidos por la organización respectiva.
 
-e) Acreditar una residencia en el Estado de por lo menos 5 años anteriores a la fecha de la solicitud;
+La resolución se notificará a la representación de la organización y será publicada en la Gaceta Oficial de la Ciudad de México y podrá ser recurrida ante la autoridad jurisdiccional competente, en la vía y plazos previstos en la Ley Procesal Electoral de la Ciudad de México.
 
-f) No tener antecedentes de revocación o declaratoria de nulidad de concesión del Servicio de Transporte Público;
-
-g) Participar en el concurso público que para tal efecto se convoque conforme a las bases que se señalen en la Convocatoria respectiva;
-
-h) Presentar a la Secretaría, por conducto de la Dirección General de Transporte la solicitud con todos los requisitos que en la misma se consignen, dentro del plazo que se señale en la convocatoria, aceptando como respuesta a su petición, el fallo que se publique en el periódico oficial del Estado y en uno de los diarios de mayor circulación en la Entidad, y
-
-i) Someterse al estudio socioeconómico que al efecto practique la Dirección General de Transporte con el objeto de verificar la acreditación de la capacidad económica para la prestación del servicio.
-
-Las personas que acrediten una antigüedad de cinco años como operadores del transporte público, serán consideradas de manera preferente en el otorgamiento de la concesión, cuando demuestren su capacidad económica apoyada en una institución crediticia.
-
-II. A personas morales:
-
-a) Exhibir Acta Constitutiva conforme a las Leyes mexicanas con cláusula de exclusión de extranjeros y tener como objeto social principal, la prestación del Servicio de Transporte Público;
-
-b) Acreditar las facultades legales de sus representantes o apoderados legales;
-
-c) Demostrar capacidad de inversión para la compra, arrendamiento o adquisición de financiamientos para unidades, instalaciones e infraestructura que se requiera para la prestación del servicio, y
-
-d) Acreditar el cumplimiento de los demás requisitos establecidos en las disposiciones jurídicas y administrativas aplicables en la materia.
-
-III. Para Organismos Auxiliares de la Administración Pública Estatal y Municipal, acreditar su existencia legal mediante la exhibición de la Ley o Decreto de creación.
-
-Las concesiones que se otorguen para el Servicio de Transporte Público sin itinerario fijo, se otorgarán únicamente a personas físicas, dando preferencia a operadores del transporte público que acrediten 5 años de antigüedad como operadores.
+El registro de los partidos políticos surtirá efectos constitutivos a partir del primer día del mes de julio del año previo al de la elección inmediata.
 
 ###### Artículo 49.
 
-Las concesiones se otorgarán a los concursantes que garanticen la prestación del Servicio de Transporte Público en las mejores condiciones, atendiendo en su orden a los siguientes criterios:
+Para el caso de que la organización solicitante no cumpla con informar mensualmente a la Unidad de Fiscalización del origen y destino de los recursos que obtenga y utilice para el desarrollo de sus actividades tendentes a la obtención del registro legal, así como por incumplir con las reglas previstas en el Reglamento de Fiscalización, el Consejo General podrá negar el registro a la organización solicitante.
 
-I. Ofrezcan mejor calidad en el equipo destinado al servicio;
-
-II. Por la instalación de servicios auxiliares del transporte, tales como: terminales, bodegas, estaciones intermedias, sitios, paraderos y bases, o por otras circunstancias similares estén en condiciones de prestar y garantizar un mejor servicio al público;
-
-III. Tratándose de personas físicas que justifiquen la solvencia para el desempeño del servicio, se preferirá en su orden:
-
-a) A quien acredite mediante gafete de operador, la mayor antigüedad de manera ininterrumpida como operador del transporte público en el Servicio de Transporte Público de que se trate, y
-
-b) A quienes acrediten mayor antigüedad como solicitantes.
-
-IV. En caso de coincidencia se preferirá a las personas físicas o morales de origen morelense;
-
-V. En caso de existir nuevamente igualdad de condiciones, se preferirá a las personas físicas o morales vinculadas y con domicilio en las regiones o zonas que habrán de abarcar los servicios; y
-
-VI. Tratándose de personas morales, se otorgará a la Empresa que acredite que realizará una mayor y mejor inversión para prestar en condiciones óptimas el servicio concursado, comprendiendo en ello, la capacitación del personal, la calidad de las unidades, los servicios y obras accesorias.
-
-### CAPÍTULO SEGUNDO. DE LAS CAUSAS DE REMISIÓN DE VEHÍCULOS A LOS DEPÓSITOS VEHICULARES
-
-###### Artículo 139.
-
-Independientemente de las sanciones previstas en los numerales que anteceden, los vehículos con los que se presten los servicios de transporte, no podrán circular y serán remitidas a los depósitos de vehículos, por cualquiera de las siguientes causas:
-
-I. Carecer de la concesión o el permiso para realizar el servicio de transporte, según corresponda;
-
-II. Utilizar placas metálicas de identificación en vehículo distinto al autorizado;
-
-III. Cuando las condiciones físico mecánicas del vehículo pongan visiblemente en riesgo la seguridad del usuario;
-
-IV. Carecer de las pólizas de seguro o fondo de garantía que establece la Ley;
-
-V. Prestar el Servicio de Transporte Público en condiciones distintas a las autorizadas;
-
-VI. Alterar las tarifas vigentes;
-
-VII. Cuando el operador del transporte público carezca de licencia de conducir o del gafete de operador para el Servicio de Transporte Público;
-
-VIII. Alterar en cualquier forma el diseño, estructura, capacidad y construcción original de los vehículos destinados al Servicio de Transporte Público, sin autorización expresa y por escrito de la Secretaría;
-
-IX. Cuando se interrumpa total o parcialmente una vía pública o bien se invadan oficinas públicas como medio de presión a las autoridades con los vehículos del Servicio de Transporte Público, Privado y Carga;
-
-X. En caso de que el operador del transporte público se encuentre bajo los efectos de bebidas alcohólicas, sustancias enervantes o tóxicas, aún cuando éstas sean prescritas médicamente;
-
-XI. Cuando el operador del transporte público ponga en riesgo evidente la seguridad de terceros, o impida la adecuada prestación del Servicio de Transporte Público, y
-
-XII. Cuando se impida la operación del servicio de transporte en perjuicio de terceros.
+### CAPÍTULO VI. INFORMES MENSUALES Y TOPES DE GASTOS
 
 ###### Artículo 50.
 
-En ningún caso se otorgarán concesiones a quienes:
-
-I. Sean titulares de tres concesiones del Servicio de Transporte Público aun cuando se trate de una modalidad distinta;
-
-II. Se le haya revocado una concesión;
-
-III. Hubiesen sido sancionados por prestar el Servicio de Transporte Público en cualquiera de sus modalidades sin contar con la concesión correspondiente de acuerdo a lo establecido por la presente Ley;
-
-IV. Les hubiesen sido revocada la licencia de conducir o la certificación expedida por la Secretaría, por infracciones a las disposiciones de tránsito o transporte;
-
-V. Hayan enajenado bajo cualquier figura jurídica o hayan cedido o transferido sus derechos bajo cualquier forma o denominación, aún de forma simulada;
-
-VI. Sean Secretarios, Subsecretarios o Directores de Dependencias de la Administración Pública Estatal; miembros de Órganos de Gobierno, Titulares y Directores de Entidades de la Administración Pública Federal o Municipal; integrantes del Cabildo de los Ayuntamientos; Servidores Públicos de la Secretaría de Movilidad y Transporte del Estado, Diputados Locales y Federales, Senadores, Jueces y Magistrados del Poder Judicial del Estado, así como los Titulares y Directores de los órganos autónomos, y
-
-VII. Sean cónyuges, ascendientes, descendientes y parientes consanguíneos o por afinidad hasta el cuarto grado de los servidores descritos en la fracción VI.
+A partir de la presentación de la notificación de intención y hasta la resolución sobre la procedencia del registro del partido político local, la organización tendrá la obligación de informar mensualmente a la Unidad de Fiscalización sobre el origen y destino de sus recursos, dentro de los primeros diez días naturales de cada mes conforme a lo establecido en el Reglamento de Fiscalización.
 
 ###### Artículo 51.
 
-El Gobernador Constitucional del Estado de Morelos, se abstendrá de otorgar nuevas concesiones durante los seis meses anteriores a la fecha en que deban celebrarse elecciones ordinarias para la renovación del Poder Ejecutivo, Legislativo y Presidencias Municipales en el Estado.
+Las organizaciones tendrán como monto máximo para realizar las actividades tendentes a la obtención de su registro como partido político local, la cantidad de $9,077,851.44 (Nueve millones setenta y siete mil ochocientos cincuenta y un pesos 44/100 M.N.) que corresponde al treinta por ciento del tope de gastos de campaña para la elección de Jefatura de Gobierno de la Ciudad de México en el Proceso Electoral Local Ordinario 2017-2018, aprobado mediante Acuerdo del Consejo General identificado con la clave IECM/ACU-CG-022/2018.
 
 ###### Artículo 52.
 
-El otorgamiento de una concesión obliga a proteger de manera efectiva a los usuarios de cualquier riesgo que puedan sufrir con motivo de la prestación del mismo. Bajo ninguna circunstancia podrá un vehículo concesionado, realizar el servicio si carece de un seguro contratado con institución registrada ante la Comisión Nacional de Seguros y Fianzas o fondo de garantía que cubra cualquier siniestro que pudiera presentarse con relación a las personas o la carga o bien los daños que se pudieran causar a terceros.
+Una vez concluido el proceso de registro de partidos políticos locales o que se haya presentado en cualquier momento escrito de desistimiento, la Unidad de Fiscalización iniciará los procedimientos de disolución o liquidación de las asociaciones civiles, para lo cual, las organizaciones deberán proporcionar a la citada Unidad, toda la información y documentación que les requiera.
 
-### CAPÍTULO TERCERO. DE LA IMPUGNACIÓN DE LAS SANCIONES
-
-###### Artículo 140.
-
-El procedimiento para la impugnación en la aplicación de sanciones previstas por esta Ley, será el que al efecto establece la Ley de Procedimiento Administrativo para el Estado de Morelos.
-
-###### Artículo 141.
-
-El procedimiento de cancelación, revocación o nulidad de concesiones y permisos, deberá ajustarse a lo establecido en este ordenamiento y al procedimiento contenido en la Ley de Procedimiento Administrativo para el Estado de Morelos.
-
-### CAPÍTULO CUARTO. DEL PROCEDIMIENTO DE CANCELACIÓN, SUSPENSIÓN Y REVOCACION DE LAS CONCESIONES Y PERMISOS
-
-###### Artículo 142.
-
-La cancelación o revocación de una concesión o permiso por cualquiera de las causas establecidas en el Título Noveno, Capítulo Quinto, será declarada administrativamente por el Secretario, previa la integración del expediente por la Secretaría, de acuerdo con el siguiente procedimiento:
-
-I. El Secretario, a través de la Dirección General Jurídica, notificará por escrito al concesionario o permisionario, sea persona física o moral, los motivos de cancelación o revocación en que a su juicio haya incurrido y le señalará un plazo de diez días hábiles para que presente pruebas y alegue lo que a su derecho convenga;
-
-II. Transcurrido dicho plazo, la Secretaría emitirá acuerdo en el que en su caso, por la naturaleza de las pruebas ofrecidas, se señale una fecha dentro de los diez días hábiles siguientes para su desahogo, y
-
-III. Concluido el período probatorio, la Secretaría cuenta con un término de quince días hábiles para dictar resolución, la cual deberá notificar personalmente y por escrito al concesionario o permisionario o quien represente legalmente sus intereses, sea persona física o moral. En el caso de que se declare la cancelación de la concesión o permiso por cualquiera de los supuestos legales procedentes, no tendrán derecho a compensación ni indemnización alguna, sea éste persona física o moral.
-
-###### Artículo 143.
-
-El Secretario en el ámbito de su competencia, en caso de declarar la cancelación, revocación o caducidad de la concesión, llevará a cabo las gestiones necesarias a efecto de reasignar las concesiones o permisos a otra persona diferente.
-
-###### Artículo 144.
-
-El Secretario tomando en cuenta los antecedentes y condiciones del concesionario o permisionario, el daño causado y las circunstancias de ejecución de la conducta infractora, podrá aplicar una suspensión de la concesión por un término de tres meses a un año.
-
-###### Artículo 145.
-
-La persona física que haya dejado de ser titular de una concesión o permiso por revocación o cancelación, no podrá ser beneficiaria de otra autorización, aun en el caso en que sea designado como beneficiario.
-
-###### Artículo 146.
-
-Las concesiones o permisos que se otorguen fuera de los procedimientos y requisitos que señala la presente Ley serán nulos. Para declarar la nulidad de las concesiones, se estará a lo dispuesto por la Ley de Procedimiento Administrativo del Estado de Morelos.
-
-## TÍTULO DÉCIMO OCTAVO. DEL RECURSO DE REVISIÓN
-
-### CAPÍTULO ÚNICO
-
-###### Artículo 147.
-
-Las resoluciones y acuerdos que en materia de transporte público emitan el Gobernador Constitucional del Estado de Morelos, el Secretario, así como el Director General de Transporte, podrán ser modificados, revocados o anulados por las propias autoridades, previa presentación del Recurso de Revisión que se interponga ante los mismos, dentro del plazo de quince días hábiles siguientes al que se surta efectos su notificación, en los términos de la Ley de Procedimiento Administrativo para el Estado de Morelos o, en su defecto, mediante el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado, de acuerdo a lo establecido en la Ley de Justicia Administrativa del Estado de Morelos.
+### CAPÍTULO VII. DE LOS ASUNTOS NO PREVISTOS
 
 ###### Artículo 53.
 
-El Gobernador Constitucional del Estado de Morelos, evitará el monopolio del transporte, en consecuencia, las personas físicas no podrán ser titulares de más de tres concesiones; en el caso de las personas morales, será necesario que haya cuando menos un socio por cada tres concesiones, cada socio deberá limitar sus aportaciones a la explotación de tres vehículos, sin perjuicio de las sumas que fuere necesario aportar para el establecimiento de los servicios auxiliares del transporte. La misma limitación deberá observarse durante el término de vigencia de la sociedad y, por tanto, ningún socio podrá aumentar su participación social ni adquirir acciones de la sociedad concesionaria en una proporción que exceda a la autorizada en este artículo. Tratándose de personas físicas, la concesión que en su favor expida el Gobernador Constitucional del Estado de Morelos, será explotada con un sólo vehículo.
-
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2016)</small>
+Los casos no previstos se pondrán a la consideración de la Comisión, a fin de que determine lo que en derecho proceda.
 
 ###### Artículo 54.
 
-Las personas físicas titulares de concesiones, preferentemente morelenses en términos de la presente Ley, podrán incorporarse o conformarse en personas morales constituidas como empresas, con la aportación en goce al equivalente de su concesión; la disolución de la asociación se realizará de acuerdo a lo establecido en la normativa aplicable.
+Las organizaciones podrán desistir de su intención de constituirse como partido político local, para lo cual deberán manifestarlo por medio de un escrito dirigido al Consejo General, signado por las personas que fueron designadas como representantes de la organización.
 
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+## ARTÍCULOS TRANSITORIOS
 
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+Primero. El presente Reglamento entrará en vigor al momento de su publicación en los estrados de las oficinas centrales del Instituto Electoral.
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+Segundo. Se abroga el Reglamento del Instituto Electoral para el Registro de Partidos Políticos Locales ante el Instituto Electoral de la Ciudad de México, aprobado por el Consejo General del Instituto Electoral de la Ciudad de México, el 4 de agosto de 2017 mediante Acuerdo de clave IECM/ACU-CG-023/2017.
 
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+Tercero. Los Lineamientos del Sistema de Notificaciones Electrónicas por Internet para solicitantes de registro como Asociaciones Políticas Locales en la Ciudad de México, a que se refiere el presente Reglamento, serán aprobados por el Consejo General.
 
-###### Artículo 54 Bis.
+El Instituto Electoral de la Ciudad de México con fundamento en los artículos 1; 9; 35, fracción III; 116, fracción IV,
 
-La concesión para la prestación del servicio en zonas metropolitanas y corredores troncales de transporte masivo, únicamente se otorga a las personas morales constituidas en empresas que cumplan los requisitos establecidos en esta Ley, su Reglamento y demás disposiciones jurídicas y administrativas aplicables, debiendo conservar durante la vigencia, el tipo de sociedad, objeto social exclusivo para transporte y sus servicios auxiliares, personalidad jurídica y razón social con la que obtuvo la concesión, así como el número de accionistas y capital social.
+(sic) incisos b) y e) de la Constitución Política de los Estados Unidos Mexicanos (Constitución Federal); 50 de la Constitución Política de la Ciudad de México (Constitución Local); 1, párrafos primero y segundo, fracciones I, III y VIII; 2; 6, fracción II; 8, fracciones II, IV, VI y VII; 33; 36, párrafo tercero fracciones I, II, III y IX; 37; 41, párrafos primero, segundo, tercero y quinto; 50, fracciones II, inciso g) y XVI; 59, fracción I; 60, fracción IV; 93, fracción II; 95, fracción VI; 239, fracción II; 240; 241; 250, fracción V; 256; 257, fracción II; 260; 261; 262; 263; 264; 265; 266; 267; 268; 269 y 270 del Código de Instituciones y Procedimientos Electorales de la Ciudad de México (Código), emite la presente:
 
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+CONVOCATORIA
 
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+A LAS ORGANIZACIONES CIUDADANAS LEGALMENTE INSTITUIDAS EN ASOCIACIÓN CIVIL O AGRUPACIÓN POLÍTICA LOCAL INTERESADAS EN CONSTITUIRSE EN PARTIDO POLÍTICO LOCAL EN LA CIUDAD DE MÉXICO 2019-2020
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>[N. DE E. VÉASE BASES EN EL G.O. DE 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 56 A LA 60.]</small>
 
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+> <small>[N. DE E. VÉASE MODELO ÚNICO DE ESTATUTOS DE LA ASOCIACIÓN CIVIL QUE DEBERÁN CONSTITUIR LAS ORGANIZACIONES INTERESADAS EN REGISTRARSE EN EL PROCESO DE FORMACIÓN DE PARTIDOS POLÍTICOS LOCALES EN LA CIUDAD DE MÉXICO EN EL G.O. DE 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 60 A LA 64.]</small>
 
-###### Artículo 54 Ter.
+> <small>[N. DE E. VÉASE FORMATOS EN EL G.O. DE 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 64 A LA 70.]</small>
 
-La concesión otorgada a las personas morales constituidas en empresas, autoriza y ampara la cantidad de vehículos que arrojen los estudios de factibilidad realizados en la zona donde habrá de prestarse el servicio de transporte público de pasajeros con o sin itinerario fijo.
+MTRA. IRERI VILLAMAR NAVA, DIRECTORA DE LEGISLACIÓN Y TRÁMITES INMOBILIARIOS DE LA DIRECCIÓN GENERAL JURÍDICA Y DE ESTUDIOS LEGISLATIVOS DE LA CONSEJERÍA JURÍDICA Y DE SERVICIOS LEGALES DEL GOBIERNO DE LA CIUDAD DE MÉXICO, CON FUNDAMENTO EN EL ARTÍCULO DOSCIENTOS VEINTINUEVE, FRACCIÓN VEINTICINCO DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO- - - - - - - - -
 
-###### Artículo 55.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -C E R T I F I C O- - - - - - - - - - - - - - - - - -
 
-Las concesiones, únicamente podrán ser otorgadas en garantía para obtener financiamiento destinado a la renovación del parque vehicular, previa autorización por escrito del Gobernador Constitucional del Estado de Morelos; en los demás casos, se consideran bienes fuera del comercio y no podrá ser objeto de usufructo, arrendamiento, prenda o embargo.
+QUE LAS PRESENTES COPIAS DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, VIGÉSIMA ÉPOCA, CUATROCIENTOS OCHENTA Y UNO, DE FECHA VEINTIOCHO DE DICIEMBRE DEL DOS MIL DIECIOCHO, EN SUS PÁGINAS DE LA UNO A LA CIENTO OCHO , (SIC) SON REPRODUCCIÓN FIEL Y EXACTA DE SU ORIGINAL, QUE OBRA EN LOS ARCHIVOS DE ESTA DIRECCIÓN, MISMAS QUE FUERON DEBIDAMENTE COTEJADAS Y SELLADAS; CONSTANTES DE CINCUENTA Y CUATRO FOJAS ÚTILES CON TEXTO POR AMBOS LADOS-----------------
 
-Para poder otorgar la garantía, se hará constar el término de la concesión y la prohibición de que por ningún motivo pueden adquirir la concesión las personas que no sean mexicanas por nacimiento o sociedades mercantiles integradas por extranjeros, la garantía comprenderá, salvo convenio en contrario:
+SE EXPIDEN EN LA CIUDAD DE MÉXICO, CON FECHA QUINCE DÍAS DEL MES DE MARZO DEL AÑO DOS MIL DIECINUEVE PARA LOS EFECTOS LEGALES A QUE HAYA LUGAR.-------------
 
-I. La concesión cuando exista autorización del Gobernador Constitucional del Estado de Morelos, y
+DIRECTORA DE ESTUDIOS LEGISLATIVOS
 
-II. El o los vehículos motivo de la concesión.
+TRÁMITES INMOBILIARIOS
 
-###### Artículo 56.
+MTRA. IRERI VILLAMAR NAVA
 
-El Título de Concesión contendrá como mínimo, lo siguiente:
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-I. Motivación y fundamento legal aplicable;
+G.O. 4 DE SEPTIEMBRE DE 2023.
 
-II. El nombre y datos del titular, se trate de persona física o moral;
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO PARA EL REGISTRO DE PARTIDOS POLÍTICOS LOCALES ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO".]
 
-III. Número de Concesión;
+Primero. El presente Reglamento entrará en vigor al momento de su publicación en la Gaceta Oficial de la Ciudad de México.
 
-IV. Tipo de servicio para el que se otorga;
+Segundo. Se abroga el Reglamento del Instituto Electoral para el Registro de Partidos Políticos Locales ante el Instituto Electoral de la Ciudad de México, aprobado por el Consejo General del Instituto Electoral de la Ciudad de México, el 19 de diciembre de 2018 mediante Acuerdo de clave IECM/ACU-CG-334/2018.
 
-V. Modalidad y especificaciones del servicio, cuando proceda, así como jurisdicción territorial para la que se expide;
-
-VI. Vigencia de la Concesión;
-
-VII. Características y antigüedad de los vehículos con los que se prestará el servicio, así como los datos del vehículo para la explotación del servicio;
-
-VIII. En caso de personas morales, los vehículos que ampara la concesión;
-
-IX. Condiciones de operación del servicio;
-
-X. Registro Federal de Contribuyentes con giro de transportista;
-
-XI. Nombre del beneficiario sustituto;
-
-XII. Prohibición expresa de operar servicio distinto al autorizado.
-
-XIII. Causas de revocación, y
-
-XIV. Lugar y fecha de expedición y firma de la autoridad concedente.
-
-###### Artículo 57.
-
-Las ampliaciones de itinerario o itinerarios pueden ser solicitadas al Municipio por los usuarios, concesionarios o bien por la Secretaría.
-
-## [N. DE E. TRANSITORIOS DE "DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS Y DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS".]
-
-PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-SEGUNDA. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
-
-TERCERA. En un plazo no mayor a 180 días hábiles contados a partir del día siguiente al que dé inicio la vigencia del presente Decreto, deberán expedirse, actualizarse o modificarse las disposiciones reglamentarias que derivan de los instrumentos legislativos reformados.
-
-CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
-
-QUINTA. Se autoriza al Poder Ejecutivo Estatal, a través de la (sic) Secretarías de Hacienda y de Movilidad y Transporte, para que realice las acciones necesarias para la constitución de los fideicomisos a que se refiere el presente Decreto.
-
-P.O. 1 DE MARZO DE 2017.
+Tercero. Los Lineamientos del Sistema de Notificaciones Electrónicas por Internet, a que se refiere el presente Reglamento, serán aprobados por el Consejo General.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS OCHENTA Y OCHO POR EL QUE SE REFORMA EL ARTÍCULO 111, FRACCIONES III, IV Y V DEL ARTÍCULO 130, FRACCIÓN I PÁRRAFO PRIMERO Y FRACCIÓN II PÁRRAFO PRIMERO DEL ARTÍCULO 135 DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS”.]
 
@@ -2169,23 +843,3 @@ Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
 
 P.O. 16 DE JULIO DE 2017.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL CIENTO NOVENTA Y NUEVE.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS Y DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS, EN MATERIA DE CONTROL VEHÍCULAR".]
-
-PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
-
-TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo en lo que se opongan al presente Decreto.
-
-CUARTA. La Secretaría de Movilidad y Transporte deberá realizar, sin demora, los trámites administrativos necesarios para transferir a la diversa Secretaría de Hacienda los recursos presupuestales, materiales y financieros que corresponda, conforme a las comunicaciones que al efecto le realice la misma, en coordinación con la Secretaría de Administración, lo anterior para el adecuado desempeño de las atribuciones que le son transferidas con motivo del presente Decreto. En los ordenamientos jurídicos y administrativos en que se hiciera referencia a la Dirección General de Transporte Público, Privado y Particular, se entenderá que dicha referencia se hará a la General de Transporte Público y Privado.
-
-QUINTA. El personal de una Secretaría que en la aplicación de este Decreto pase a formar parte de otra, en ninguna forma será afectado en los derechos que, en su caso, haya adquirido en su relación laboral con la Administración Pública Estatal.
-
-SEXTA. Dentro del plazo de 90 días hábiles las Secretarías de Hacienda, y de Movilidad y Transporte, respectivamente, deberán realizar los trámites correspondientes para la cancelación de plazas que sea procedente, conforme a la normativa aplicable.
-
-SÉPTIMA. Dentro de un plazo de 120 días hábiles, contados a partir de la entrada en vigor del presente Decreto se deberán realizar las reformas reglamentarias respectivas; mientras ello sucede se mantendrán vigentes los actuales.
-
-OCTAVA. Los conflictos que se susciten por la aplicación e interpretación del presente Decreto, serán resueltos por la persona Titular del Poder Ejecutivo Estatal, en términos de la normativa aplicable.
-
-NOVENA. Los asuntos que con motivo de este Decreto deban pasar a otra Secretaría, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la Secretaría que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables, que serán resueltos por el área que tenga el asunto a su cargo. También serán transferidos los archivos y expedientes respectivos.
