@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-electoral-de-la-ciudad-de-122
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-16"
-last_updated: "2022-11-11"
+last_updated: "2023-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-08-04"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE SEPTIEMBRE DE 2023.
 
 Reglamento publicado en el Número 134 de la Gaceta Oficial de la Ciudad de México, el miércoles 16 de agosto de 2017.
 
@@ -574,21 +574,31 @@ IX. Las demás que les confiera la normativa que rige al Instituto Electoral.
 
 #### SECCIÓN QUINTA. De las Representaciones de los Partidos Políticos
 
-> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 13.
 
 En concordancia con las atribuciones señaladas en el Código corresponde a las representaciones de los partidos políticos lo siguiente:
 
+> <small>(REFORMADA, G.O. 4 DE SEPTIEMBRE DE 2023)</small>
+
 I. Solicitar, para el adecuado desempeño de sus funciones como integrantes del Consejo General, de las Comisiones y de los Comités, la colaboración de los órganos del Instituto Electoral, a través de la Secretaría Ejecutiva o Administrativa, según corresponda;
 
-Dicha atribución no será aplicable, tratándose de las Comisiones Permanentes de Quejas y de Asociaciones Políticas y Fiscalización, toda vez que las representaciones de los Partidos Políticos, en ningún caso, podrán formar parte de éstas.
+Dicha atribución no será aplicable, tratándose de la Comisión Permanente de Quejas, toda vez que las representaciones de los Partidos Políticos, en ningún caso, podrán formar parte de ésta.
+
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
 II. Proponer ante las instancias correspondientes, al personal que deberá adscribirse a su oficina;
 
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
 III. Manifestarse libremente sobre los temas que se traten en las sesiones;
 
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
 IV. Sustituirse durante el desarrollo de las sesiones, propietarias o propietarios y suplentes; y
+
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
 V. Las demás que les confiera la normativa que rige al Instituto Electoral.
 
@@ -1599,3 +1609,21 @@ PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Reglamento.
+
+G.O. 4 DE SEPTIEMBRE DE 2023.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL CUAL SE APRUEBAN LAS REFORMAS Y ADICIONES AL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, Y AL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO [IECM/ACU-CG-070/2023]”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO”.]</small>
+
+ACUERDO:
+
+PRIMERO. Se aprueban las reformas y adiciones al Reglamento Interior del Instituto Electoral de la Ciudad de México y al Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral de la Ciudad de México, de conformidad con lo expuesto en la parte considerativa del presente Acuerdo.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se instruye al Secretario Ejecutivo para que comunique mediante circular el contenido del presente Acuerdo en las Direcciones Ejecutivas, Unidades Técnicas, Contraloría Interna y Órganos Desconcentrados del Instituto Electoral, para su observancia y aplicación en el ámbito de su competencia.
+
+CUARTO. Remítase el presente Acuerdo a la Gaceta Oficial de la Ciudad de México para su publicación.
+
+QUINTO. Publíquese el presente Acuerdo de manera inmediata a su aprobación en los estrados de oficinas centrales, en los estrados electrónicos y para mayor difusión, en los estrados de las oficinas de las treinta y tres Direcciones Distritales del Instituto Electoral.
+
+SEXTO. Publíquese el presente Acuerdo en la página de internet www.iecm.mx; realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejero General en el apartado de Transparencia de la citada página electrónica y difúndase la misma en las redes sociales en que este Instituto participa.
