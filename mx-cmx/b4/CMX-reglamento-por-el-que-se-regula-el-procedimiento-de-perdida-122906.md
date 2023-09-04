@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-por-el-que-se-regula-el-procedimiento-de-perdida-122
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-17"
-last_updated: "2017-08-17"
+last_updated: "2023-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122906&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-08-04"
 
 REGLAMENTO POR EL QUE SE REGULA EL PROCEDIMIENTO DE PÉRDIDA DE REGISTRO DE LAS AGRUPACIONES POLÍTICAS CONSTITUIDAS EN LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE SEPTIEMBRE DE 2023 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el jueves 17 de agosto de 2017.
 
@@ -405,3 +405,31 @@ PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su public
 SEGUNDO. Se abroga el Reglamento por el que se regula el procedimiento de pérdida de registro de las Agrupaciones Políticas constituidas en el Distrito Federal, aprobado por el Consejo General del Instituto Electoral del otrora Distrito Federal, el 14 de diciembre de 2011.
 
 TERCERO. Publíquese de inmediato el presente Reglamento en la Gaceta Oficial de la Ciudad de México, en los estrados del Instituto Electoral, en sus oficinas centrales y órganos desconcentrados, así como en la página de Internet www.iedf.org.mx.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 4 DE SEPTIEMBRE DE 2023.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL CUAL SE APRUEBAN LOS REGLAMENTOS PARA EL REGISTRO DE PARTIDOS POLÍTICOS LOCALES ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO Y POR EL QUE SE REGULA EL PROCEDIMIENTO DE PÉRDIDA DE REGISTRO DE LAS AGRUPACIONES POLÍTICAS CONSTITUIDAS EN LA CIUDAD DE MIÉXICO IECM/ACU-CG-071/2023” QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueba el contenido de los “Reglamentos para el registro de los partidos políticos locales ante el Instituto Electoral de la Ciudad de México y por el que se regula el procedimiento de pérdida de registro de las Agrupaciones Políticas constituidas en la Ciudad de México”, en términos de los documentos Anexos, que forman parte integral del presente Acuerdo.
+
+SEGUNDO. Se abroga el Reglamento por el que se regula el procedimiento de pérdida de registro de las Agrupaciones Políticas constituidas en la Ciudad de México, aprobado el 4 de agosto de 2017 a través de (sic) Acuerdo IECM/ACU-CG025/2017
+
+TERCERO. Se abroga el Reglamento para el registro de partidos políticos locales ante el Instituto Electoral de la Ciudad de México, aprobado el 19 de diciembre de 2018 a través de Acuerdo IECM/ACU-CG-334/2018.
+
+CUARTO. El presente Acuerdo y sus Anexos entrarán en vigor al momento de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+QUINTO. Se instruye al Secretario Ejecutivo para que comunique mediante circular el contenido del presente Acuerdo en las Direcciones Ejecutivas, Unidades Técnicas, Contraloría Interna y Órganos Desconcentrados del Instituto Electoral, para su observancia y aplicación en el ámbito de su competencia.
+
+SEXTO. Remítase el presente Acuerdo y sus Anexos a la Gaceta Oficial de la Ciudad de México para su publicación.
+
+SÉPTIMO. Publíquese el presente Acuerdo y sus Anexos de inmediato en los estrados de las oficinas de las treinta y tres Direcciones Distritales de este Instituto Electoral.
+
+OCTAVO. Publíquese el presente Acuerdo y sus Anexo en la página de internet www.iec.mx; realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la citada página electrónica y difúndase la misma en las redes sociales en que este Instituto participa.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO POR EL QUE SE REGULA EL PROCEDIMIENTO DE PÉRDIDA DE REGISTRO DE LAS AGRUPACIONES POLÍTICAS CONSTITUIDAS EN LA CIUDAD DE MEXICO”.]
+
+PRIMERO. El presente reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se abroga el Reglamento por el que se regula el procedimiento de pérdida de registro de las Agrupaciones Políticas constituidas en la Ciudad de México, aprobado por el Consejo General del Instituto Electoral de la Ciudad de México, el 4 de agosto de 2017.
