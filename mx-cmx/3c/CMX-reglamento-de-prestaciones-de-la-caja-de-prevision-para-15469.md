@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-prestaciones-de-la-caja-de-prevision-para-15469"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-12-19"
-last_updated: "2023-05-29"
+last_updated: "2023-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15469&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,13 +20,11 @@ issue_date: "1988-11-25"
 ---
 # REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MEXICO -- ANTES -- REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL -- ANTES -- REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL DEPARTAMENTO DEL DISTRITO FEDERAL-
 
-[NOTA 1: DE CONFORMIDAD CON EL ACUERDO DEL H. CONSEJO DIRECTIVO DE LA CAPTRALIR PUBLICADO EN EL NO. 444 DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL 5 DE OCTUBRE DE 2020, SE REVOCA EL "ACUERDO POR EL QUE EL H. CONSEJO DIRECTIVO DE LA CAPTRALIR AUTORIZA LAS REFORMAS AL CAPITULO I DISPOSICIONES GENERALES" Y CAPITULO "XIX DEL FONDO DE VIVIENDA", ARTICULOS 2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 23, 26, 27, 28, 30, 31, 32, 37, 50, 141, 143, 145, 146, 147, 148, 149, 151, 152 Y 153 DEL REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MEXICO, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MEXICO, EL 17 DE JUNIO DE 2020.]
-
-[NOTA 2: PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE SEPTIEMBRE DE 2023 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]
+> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO DEL H. CONSEJO DIRECTIVO DE LA CAPTRALIR PUBLICADO EN EL NO. 444 DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL 5 DE OCTUBRE DE 2020, SE REVOCA EL "ACUERDO POR EL QUE EL H. CONSEJO DIRECTIVO DE LA CAPTRALIR AUTORIZA LAS REFORMAS AL CAPITULO I DISPOSICIONES GENERALES" Y CAPITULO "XIX DEL FONDO DE VIVIENDA", ARTICULOS 2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 23, 26, 27, 28, 30, 31, 32, 37, 50, 141, 143, 145, 146, 147, 148, 149, 151, 152 Y 153 DEL REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MEXICO, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MEXICO, EL 17 DE JUNIO DE 2020.]</small>
 
 REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE SEPTIEMBRE DE 2023.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 19 de diciembre de 1988.
 
@@ -210,11 +208,15 @@ El período de tiempo cotizado con anterioridad a la interrupción deberá recon
 
 Para efecto del cómputo de los años de servicios y de cotización, sin demérito de los demás requisitos que establece el presente Reglamento, el derecho a la pensión por cesantía en edad avanzada podrá iniciarse a los nueve años seis meses un día; las de invalidez y retiro por edad y tiempo de servicios, a los catorce años seis meses y un día.
 
-> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 17.
 
 El monto máximo de las pensiones será el equivalente a diez veces la Unidad de Medida y Actualización (UMA). La cuantía de las pensiones aumentará simultáneamente y en la misma proporción en que se incremente esta unidad de medida.
+
+(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 1993) (F. DE E., G.O. 5 DE SEPTIEMBRE DE 2023)
+
+Los pensionados tendrán derecho a una graficación (sic) anual equivalente en número de días a la concedida a los trabajadores en activo, según el monto de su pensión. Esta gratificación deberá pagarse un 50% antes del 15 de diciembre y el otro 50% a más tardar el 15 de enero del siguiente año.
 
 ### CAPITULO V. Sueldo, Cuotas Pensionarias y Cotizaciones
 
@@ -1553,3 +1555,33 @@ PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 SEGUNDO.- El presente Aviso entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- Se Derogan todas aquellas disposiciones que contravengan o se opongan (sic) la presente publicación.
+
+> <small>(ADICIONADO, G.O. 5 DE SEPTIEMBRE DE 2023)</small>
+
+CUARTO.- Para efectos del cálculo del monto máximo de pensiones establecido en el artículo 17 del presente Reglamento, en concordancia con el artículo 4 de la Ley para Determinar el Valor de la Unidad de Medida y Actualización, se aplicará la siguiente fórmula: UMA diaria x 10 x 30.4. El monto máximo indicado no será aplicable a las pensiones que a la entrada en vigor de la presente reforma sean mayores, las cuales se incrementarán de acuerdo con las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 5 DE SEPTIEMBRE DE 2023)</small>
+
+QUINTO.- El dictamen para el cálculo de las nuevas pensiones se realizará en los mismos términos en que se venían realizando las dictaminaciones de pensión previo a la entrada en vigor de las presentes reformas.
+
+> <small>(ADICIONADO, G.O. 5 DE SEPTIEMBRE DE 2023)</small>
+
+SEXTO.- Los pensionados podrán acceder, cuando así sea procedente, a las prestaciones consagradas en el numeral 99 del citado Reglamento. Dichos pensionados deberán respetar y acatar lo manifestado en el capítulo XIV “De la compatibilidad de las Pensiones del citado Reglamento
+
+G.O. 5 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "NOTA ACLARATORIA AL AVISO MEDIANTE EL CUAL SE DA A CONOCER EL ACUERDO POR EL QUE SE MODIFICAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 19 DE DICIEMBRE DE 1988. PUBLICADO EL 29 DE MAYO DE 2023.]
+
+Primero. - Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. - La presente Nota Aclaratoria entrará en vigor al día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 5 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO MEDIANTE EL CUAL SE DA A CONOCER EL ACUERDO POR EL QUE SE MODIFICAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, EL 29 DE MAYO DE 2023”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Aviso entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se Derogan todas aquellas disposiciones que contravengan o se opongan la presente publicación.
