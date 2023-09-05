@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-con-discapacidad-del-116653
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-27"
-last_updated: "2023-08-24"
+last_updated: "2023-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2023.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 24 DE AGOSTO DE 2023 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 11 DE JULIO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Número 115 del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -637,13 +635,11 @@ IV.- Proteger a las personas con discapacidad de explotación laboral o tratos d
 
 V.- Promover y difundir en el sector empresarial los estímulos fiscales existentes para aquellas empresas que contraten personas con discapacidad motora, visual y auditiva.
 
-(NOTA: EL 18 DE AGOSTO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS SEGUNDO, TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 104/2022, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS “MISMA QUE ESTARÁ DETERMINADA POR LA CERTIFICACIÓN DE SUS COMPETENCIAS RESPECTIVAS”, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2026, Y “ES OBLIGACIÓN DE TODAS LAS AUTORIDADES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO Y DE LOS GOBIERNOS MUNICIPALES DE TAMAULIPAS, DESIGNAR AL MENOS EL TRES POR CIENTO DE SU BASE LABORAL A LA CONTRATACIÓN DE PERSONAS CON DISCAPACIDAD”, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE TAMAULIPAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 35.
 
-Es obligación de todas las autoridades de la Administración Pública del Estado y de los Gobiernos Municipales de Tamaulipas, designar al menos el tres por ciento de su base laboral a la contratación de personas con discapacidad, misma que estará determinada por la certificación de sus competencias respectivas.
+Es obligación de todas las autoridades de la Administración Pública, del Poder Legislativo, del Poder Judicial y de los Gobiernos Municipales de Tamaulipas, que señala la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas, así como en el Código Municipal para el Estado de Tamaulipas, designar al menos el tres por ciento de su base laboral a la contratación de personas con discapacidad, misma que estará determinada por la certificación de sus competencias respectivas.
 
 ###### ARTÍCULO 36.
 
@@ -1504,3 +1500,15 @@ P.O. 11 DE JULIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-595 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 35 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La implementación de las reformas contenidas en el presente Decreto se aplicará en el Presupuesto de Egresos del ejercicio fiscal de 2024.
