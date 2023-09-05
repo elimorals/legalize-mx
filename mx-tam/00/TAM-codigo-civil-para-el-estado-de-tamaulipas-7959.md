@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2023-07-11"
+last_updated: "2023-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -1487,9 +1487,17 @@ ART. 298 TER 1.- Como violencia contra las mujeres en el ámbito familiar, se co
 
 El Juez puede, en beneficio de las niñas, niños y adolescentes, modificar el ejercicio de la patria potestad o custodia cuando la tenga decretada judicialmente, ya sea provisional o definitiva sobre ellos, en los siguientes casos:
 
-a).- Cuando del resultado de los estudios psicológicos realizados a los menores de edad en el procedimiento judicial, los cuales podrán ser ordenados oficiosamente, se obtenga, que quien la ejerce realiza conductas para evitar la convivencia de las niñas, niños y adolescentes con la persona o personas que tengan reconocido judicialmente su derecho a la misma; y
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2023)</small>
 
-b).- Cuando se acredite que las niñas, niños y adolescentes han sido víctimas indirectas de violencia vicaria.
+a).- Cuando del resultado de los estudios psicológicos realizados a los menores de edad en el procedimiento judicial, los cuales podrán ser ordenados oficiosamente, se obtenga, que quien la ejerce realiza conductas para evitar la convivencia de las niñas, niños y adolescentes con la persona o personas que tengan reconocido judicialmente su derecho a la misma;
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2023)</small>
+
+b).- Cuando se acredite que las niñas, niños y adolescentes han sido víctimas indirectas de violencia vicaria; y
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2023)</small>
+
+c).- Cuando exista auto de vinculación a proceso dictado por delito de feminicidio en contra de la madre de las niñas, niños y adolescentes sujetos a patria potestad.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE ABRIL DE 2022)</small>
 
@@ -2217,6 +2225,10 @@ VII.- Cuando el que la ejerza sea condenado dos o más veces por delito grave.
 
 ART. 414 BIS.- La patria potestad podrá ser limitada cuando el que la ejerce incurra en conductas de violencia familiar previstas en el artículo 298 ter de este Código, en contra de las personas sobre las cuales la ejerza.
 
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2023)</small>
+
+ART. 414 TER.- La patria potestad se perderá cuando el titular de ella sea condenado por delito de feminicidio o su tentativa, en contra de la madre de las niñas, niños y adolescentes sujetos a patria potestad.
+
 ART. 415.- El cónyuge que pase a segundas nupcias no pierde por este hecho la patria potestad.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
@@ -2229,7 +2241,13 @@ I.- Por incapacidad declarada judicialmente;
 
 II.- Por ausencia declarada en forma;
 
-III.- Por sentencia condenatoria que imponga como pena esta suspensión.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2023)</small>
+
+III.- Por sentencia condenatoria que imponga como pena esta suspensión; y
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2023)</small>
+
+IV.- Por auto de vinculación a proceso dictado por delito de feminicidio o su tentativa en contra de la madre de las niñas, niños y adolescentes sujetos a patria potestad.
 
 ART. 418.- La patria potestad no es renunciable pero aquellos a quienes corresponda ejercerla pueden excusarse cuando por su mal estado habitual de salud no puedan atender debidamente a su desempeño.
 
@@ -10896,6 +10914,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 11 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-505 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 262 BIS, AL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-599 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 298 TER 1, PÁRRAFO SEGUNDO, INCISOS A) Y B); Y 417, FRACCIÓN III; Y SE ADICIONAN UN INCISO C), AL ARTÍCULO 298 TER 1; EL ARTÍCULO 414 TER; Y UNA FRACCIÓN IV, AL ARTÍCULO 417, DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
