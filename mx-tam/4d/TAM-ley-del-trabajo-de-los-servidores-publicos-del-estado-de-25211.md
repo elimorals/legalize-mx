@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2023-07-20"
+last_updated: "2023-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE SEPTIEMBRE DE 2023 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -1441,11 +1443,11 @@ En lo no previsto en el presente Capítulo respecto al procedimiento, se aplicar
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 122.
 
-El Estado y sus Municipios contarán con una Procuraduría de la Defensa del Trabajo del Servidor Público, dependiente de la Secretaría del Trabajo del Gobierno del Estado, la cual tiene por objetivos los siguientes:
+El Estado y sus Municipios contarán con una Procuraduría de la Defensa del Trabajo del Servidor Público, dependiente del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, la cual tiene por objetivos los siguientes:
 
 > <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1455,13 +1457,17 @@ I.- La defensa gratuita de los trabajadores al servicio del Estado y los Municip
 
 II.- Promover y llevar a cabo la conciliación en los conflictos individuales que se susciten entre las instituciones públicas, entes gubernamentales y poderes del Estado, y sus trabajadores; y
 
-> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DEL TERCERO PÁRRAFO]</small>
 
-III.- Promover y llevar a cabo la conciliación en los conflictos individuales que se susciten entre los Ayuntamientos y sus trabajadores.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2023)</small>
+
+III.- El nombramiento del Procurador lo hará el Gobernador del Estado, los nombramientos de los Procuradores Auxiliares los realizará el Presidente del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, previo acuerdo con el Gobernador del Estado.
 
 > <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 Los servicios que preste la Procuraduría de la Defensa del Trabajo del Servidor Público se llevarán a cabo siempre que los interesados así lo soliciten.
+
+> <small>[N. DE E. EL CONTENIDO DEL PRESENTE PÁRRAFO ES SIMILAR AL CONTENIDO DE LA FRACCIÓN III]</small>
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
@@ -1862,3 +1868,27 @@ P.O. 20 DE JULIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-621 MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN VII DEL ARTÍCULO 32, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y EL PÁRRAFO PRIMERO, Y LA FRACCIÓN III DEL ARTÍCULO 122, DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se instruye al Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, a la Secretaría del Trabajo y Previsión Social, a la Secretaría de Administración y a la Secretaría de Finanzas a que realicen las adecuaciones y transferencias presupuestarias, financieras y de recursos humanos, con la finalidad de dar cumplimiento al presente Decreto en un plazo no mayor a 60 días naturales a partir de la entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye al Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, a la Secretaría del Trabajo y Previsión Social, a la Secretaría de Administración y a la Secretaría de Finanzas, para que lleven a cabo los procedimientos correspondientes para realizar las adecuaciones reglamentarias, de estructura orgánica y demás normatividad a la que haya lugar en un plazo no mayor a 60 días naturales a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Quien ostente la titularidad de la Procuraduría de la Defensa del Trabajo del Servidor Público continuará en el encargo hasta en tanto el Gobernador del Estado, nombre a un nuevo Titular.
+
+###### ARTÍCULO QUINTO.
+
+Los trabajadores de la Procuraduría de la Defensa del Trabajo del Servidor Público seguirán conservando sus derechos laborales, mismos que no se verán afectados con motivo de la expedición del presente Decreto.
