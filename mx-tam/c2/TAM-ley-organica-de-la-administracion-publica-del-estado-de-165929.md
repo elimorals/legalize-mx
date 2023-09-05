@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-165929"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-05-04"
-last_updated: "2023-05-04"
+last_updated: "2023-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE SEPTIEMBRE DE 2023 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Vespertina del Número 54 del Periódico Oficial del Estado de Tamaulipas, el jueves 4 de mayo de 2023.
 
@@ -661,7 +663,9 @@ V. Proporcionar el apoyo administrativo que para su funcionamiento requieran las
 
 VI. Coordinar el funcionamiento de las Juntas Locales de Conciliación y Arbitraje y de las comisiones que se formen para regular las relaciones obrero-patronales, así como vigilar el funcionamiento de las mismas;
 
-VII. Coordinar y vigilar el funcionamiento de la Procuraduría de la Defensa del Trabajo para el Estado de Tamaulipas, así como de la Procuraduría de la Defensa del Trabajo del Servidor Público; promover la conciliación entre las partes en los conflictos laborales, e impulsar la defensa de los derechos de los trabajadores;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Coordinar y vigilar el funcionamiento de la Procuraduría de la Defensa del Trabajo para el Estado de Tamaulipas; promover la conciliación entre las partes en los conflictos laborales, e impulsar la defensa de los derechos de los trabajadores;
 
 VIII. Coordinar el Servicio Nacional del Empleo en Tamaulipas y establecer con otras Dependencias, instancias u organismos federales y estatales, acciones tendentes a promover los programas de adiestramiento y capacitación industrial, realizar investigaciones y prestar servicios de asesoría para incrementar la productividad en el trabajo;
 
@@ -1504,3 +1508,29 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los tres días del mes de mayo del año dos mil veintitrés.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- AMÉRICO VILLARREAL ANAYA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HÉCTOR JOEL VILLEGAS GONZÁLEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65-621 MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN VII DEL ARTÍCULO 32, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y EL PÁRRAFO PRIMERO, Y LA FRACCIÓN III DEL ARTÍCULO 122 DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se instruye al Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, a la Secretaría del Trabajo y Previsión Social, a la Secretaría de Administración y a la Secretaría de Finanzas a que realicen las adecuaciones y transferencias presupuestarias, financieras y de recursos humanos, con la finalidad de dar cumplimiento al presente Decreto en un plazo no mayor a 60 días naturales a partir de la entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye al Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, a la Secretaría del Trabajo y Previsión Social, a la Secretaría de Administración y a la Secretaría de Finanzas, para que lleven a cabo los procedimientos correspondientes para realizar las adecuaciones reglamentarias, de estructura orgánica y demás normatividad a la que haya lugar en un plazo no mayor a 60 días naturales a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Quien ostente la titularidad de la Procuraduría de la Defensa del Trabajo del Servidor Público continuará en el encargo hasta en tanto el Gobernador del Estado, nombre a un nuevo Titular.
+
+###### ARTÍCULO QUINTO.
+
+Los trabajadores de la Procuraduría de la Defensa del Trabajo del Servidor Público seguirán conservando sus derechos laborales, mismos que no se verán afectados con motivo de la expedición del presente Decreto.
