@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2023-08-08"
+last_updated: "2023-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -1463,6 +1463,26 @@ Los establecimientos señalados en el presente capítulo, deberán contar con in
 
 Los gimnasios y balnearios deberán contar con instructores certificados por la Comisión de Cultura Física y Deporte del Estado de conformidad a la Ley de (sic) materia, y en el último caso con el servicio de salvavidas.
 
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+
+Los sanitarios de hombres y mujeres que se encuentren en las instalaciones de los poderes del Estado, los organismos autónomos, así como en los gobiernos municipales, atendiendo al interés superior de la niñez, deberán contar en cada uno, con al menos un cambiador de pañales. Para tal fin, se dará prioridad a aquellas instalaciones que tengan una mayor afluencia.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+
+En lo que corresponde a establecimientos mercantiles y de servicios que cuenten con sanitarios de uso público, como tiendas de autoservicio, supermercados, centros comerciales, cines, cafeterías, restaurantes y lugares similares, cuando el aforo o la capacidad de afluencia humana permitida sea mayor a cincuenta personas, deberán contar con al menos un cambiador de pañales en los sanitarios de hombres y en los sanitarios de mujeres.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+
+La Secretaría en conjunto con la Secretaría de Desarrollo Económico del Estado y los gobiernos municipales, promoverán, autorizarán y vigilarán la correcta instalación, mantenimiento y limpieza permanente de los cambiadores de pañales, conforme a sus respectivas atribuciones.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+
+Los gobiernos municipales deberán garantizar la instalación de cambiadores de pañales con base en el aforo de dichos establecimientos a través de su reglamentación respectiva, como requisito para el otorgamiento, renovación y cancelación de las respectivas licencias y permisos de funcionamiento.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+
+Los cambiadores de pañales, para su instalación, deberán estar elaborados con el material acorde a la resistencia requerida, contar con las dimensiones indispensables, así como la información gráfica para su correcta utilización.
+
 (REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 128.
@@ -1498,6 +1518,10 @@ II. Contar con botiquín y personal capacitado para la atención de urgencias.
 Los sanitarios públicos deberán cumplir con los requisitos señalados por el Reglamento de Ingeniería Sanitaria y contar con la autorización correspondiente otorgada por la autoridad municipal.
 
 Además de lo señalado se deberá cumplir con la normatividad para que se garantice el acceso, tránsito y uso de las instalaciones de personas con capacidades diferentes.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+
+Los cambiadores de pañales regulados en el presente capítulo, deberán contar con la señalización respectiva, que permita su correcta identificación.
 
 (REUBICADO, P.O. 28 DE ENERO DE 2013)
 
@@ -2307,11 +2331,11 @@ V. La reincidencia del infractor; y
 
 VI. El beneficio obtenido por el infractor.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 228.
 
-Se sancionará con multa de diez hasta mil veces el valor diario de la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los artículos 41, 47, 48, 50, 51, 52, 55, 56, 57, 58, 59, 64, 69, 76, 82 segundo párrafo, 83, 84, 85, 88, 89, 105, 106, 107, 110, 129, 141, 148, 152, 172, y 179, de esta Ley.
+Se sancionará con multa de diez hasta mil veces el valor diario de la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los artículos 41, 47, 48, 50, 51, 52, 55, 56, 57, 58, 59, 64, 69, 76, 82 segundo párrafo, 83, 84, 85, 88, 89, 105, 106, 107, 110, 127, 129, 132 141, 148, 152, 172, y 179, de esta Ley.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2823,7 +2847,7 @@ P.O. 21 DE ABRIL DE 2023.
 
 P.O. 26 DE JUNIO DE 2023.
 
-## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 371 POR EL QUE “SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONA UNA FRACCIÓN X AL INCISO A) DEL ARTÍCULO 21; Y SE ADICIONA UN ARTÍCULO 31 TER A LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 371 POR EL QUE "SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONA UNA FRACCIÓN X AL INCISO A) DEL ARTÍCULO 21; Y SE ADICIONA UN ARTÍCULO 31 TER A LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
@@ -2834,3 +2858,15 @@ P.O. 8 DE AGOSTO DE 2023.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. Todo centro, clínica, internado o institución de asistencia privada, que preste los servicios de rehabilitación o atención de adicciones y/o farmacodependencia de forma residencial tendrán un máximo de 180 días hábiles para contar con la licencia, permiso o autorización sanitaria debidamente emitida por la autoridad de salud, a partir de la entrada en vigor del presente Decreto.
+
+P.O. 6 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 434 POR EL QUE “SE ADICIONAN UN TERCER, CUARTO, QUINTO, SEXTO Y SÉPTIMO PÁRRAFOS AL ARTÍCULO 127 Y UN TERCER PÁRRAFO AL ARTÍCULO 132; Y, SE REFORMA EL ARTÍCULO 228, TODOS DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto, entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Concejo Mayor de Cherán, el Concejo Municipal de Penjamillo, así como los 111 ayuntamientos, contarán con un plazo no mayor a 90 días hábiles, para adecuar la reglamentación en materia de establecimientos mercantiles y de servicios.
+
+TERCERO. Los establecimientos mercantiles y de servicios establecidos en el presente Decreto, contarán con un plazo no mayor al mes de diciembre del año 2023, para dar cumplimiento a lo establecido en el presente Decreto.
+
+CUARTO. Los poderes del Estado, los organismos autónomos, el Concejo Mayor de Cherán, el Concejo Municipal de Penjamillo, así como los 111 ayuntamientos, contarán con un plazo no mayor al mes de diciembre del año 2023, en los espacios que así lo permitan, para dar cumplimiento a lo establecido en el presente Decreto.
