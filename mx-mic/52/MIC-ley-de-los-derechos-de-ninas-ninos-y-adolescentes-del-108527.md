@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2023-07-25"
+last_updated: "2023-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -219,9 +219,17 @@ XII. El principio pro persona;
 
 XII Bis. La Primera Infancia;
 
-XIII. El acceso a una vida libre de violencia; y,
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
 
-XIV. La accesibilidad.
+XIII. El acceso a una vida libre de violencia;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+
+XIV. La accesibilidad; y,
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+
+XV. A escoger su profesión, pasatiempos, estudios o actividad laboral. Y con ello, garantizar plena independencia, en sus aptitudes y capacidad mental y física.
 
 ###### Artículo 8.
 
@@ -577,7 +585,9 @@ Niñas, niños y adolescentes tienen derecho al mismo trato y acceso de oportuni
 
 Con el fin de garantizar la igualdad sustantiva entre niñas, niños y adolescentes, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán realizar las siguientes acciones:
 
-I. Contribuir con programas de alimentación, educación y salud para la nivelación en el acceso a las oportunidades de niñas, niños y adolescentes, especialmente para aquellos que pertenezcan a grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales desfavorables;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+
+I. Contribuir con programas de alimentación, nutritiva, suficiente y de calidad, educación y salud para la nivelación en el acceso a las oportunidades de niñas, niños y adolescentes, especialmente para aquellos que pertenezcan a grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales desfavorables;
 
 > <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -731,7 +741,9 @@ VI. Asegurar la prestación de servicios de atención médica respetuosa, efecti
 
 VII. Promover la importancia de la lactancia materna, exclusiva dentro de los primeros seis meses y complementaria hasta los dos años;
 
-VIII. Impulsar programas de prevención e información, así como la asistencia para combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así como otros trastornos de conducta alimentaria mediante la promoción de una alimentación equilibrada, el consumo de agua potable y el fomento del ejercicio físico;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. Impulsar programas de prevención e información, así como la asistencia para combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así como otros trastornos de conducta alimentaria mediante la promoción de una alimentación, nutritiva, suficiente, de calidad y equilibrada, el consumo de agua potable y el fomento del ejercicio físico, así como a recibir educación para fomentar buenos hábitos nutricionales;
 
 IX. Fomentar y ejecutar los programas de vacunación, el control de la niñez y adolescencia sana para vigilar su crecimiento y desarrollo en forma periódica;
 
@@ -742,6 +754,12 @@ XI. Establecer medidas para la prevención y detección temprana de discapacidad
 XII. Disponer lo necesario para que niñas, niños y adolescentes con discapacidad reciban la atención apropiada a su condición, que los rehabilite, mejore su calidad de vida, facilite su interacción e inclusión social y permita el goce igualitario de sus derechos;
 
 XIII. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad;
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+
+XIII Bis. Fomentar, vigilar y garantizar, que los sanitarios de hombres y mujeres que se encuentren en las instalaciones de los poderes del Estado, los organismos autónomos, así como en los gobiernos municipales, atendiendo al interés superior de la niñez, cuenten con al menos un cambiador de pañales cada uno. Para tal fin, se dará prioridad a aquellas instalaciones que tengan una mayor afluencia.
+
+En lo que corresponde a los sanitarios de hombres y mujeres de los establecimientos mercantiles y de servicios como lo son: las tiendas de autoservicio, supermercados, centros comerciales y además en aquellos por cuyo aforo se considere necesario, deberán contar con al menos un cambiador de pañales en los términos de la Ley de Salud del Estado de Michoacán de Ocampo.
 
 XIV. Erradicar la esterilización de niñas, niños y adolescentes;
 
@@ -861,23 +879,27 @@ XVIII. Educar a niñas, niños y adolescentes en el respeto al medio ambiente, i
 
 XVIII Bis. Establecer mecanismos para garantizar el derecho de la primera infancia y la estimulación temprana;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE SEPTIEMBRE DE 2023)</small>
 
 XIX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
 
-XX. Establecer medidas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo estatal, dando prioridad a su salud y atención médica respecto a los requisitos de asistencia a clase;
+XX. Establecer medidas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo estatal; y,
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+
+XXI. Crear convenios de colaboración con personal calificado a fin de fomentar una adecuada educación alimentaria y se brinde apoyo profesional en materia de nutrición a niñas, niños y adolescentes que se encuentren en centros educativos.
 
 > <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2023)</small>
 
-XXI. En las escuelas o instituciones similares, los dueños, directivos, educadores, maestros o personal administrativo serán responsables de evitar cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación, en contra de niñas, niños o adolescentes.
+XXII. En las escuelas o instituciones similares, los dueños, directivos, educadores, maestros o personal administrativo serán responsables de evitar cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación, en contra de niñas, niños o adolescentes.
 
 Para el cumplimiento de esta obligación se deberá contar en cada escuela o institución similar con planes y programas para la atención de víctimas y victimarios de acoso o violencia escolar; y,
 
 > <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2023)</small>
 
-XXII. Diseñar programas integrales para la prevención, atención, contención y erradicación del acoso o violencia escolar física y psicológica, incluida la que se ejerce a través de cualquier plataforma digital o red social.
+XXIII. Diseñar programas integrales para la prevención, atención, contención y erradicación del acoso o violencia escolar física y psicológica, incluida la que se ejerce a través de cualquier plataforma digital o red social.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -1281,7 +1303,9 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Son obligaciones de quienes ejercen la patria potestad, tutela o custodia, así como de las demás personas que por razón de sus funciones o actividades tengan bajo su cuidado niñas, niños o adolescentes, en proporción a su responsabilidad y, cuando sean instituciones públicas, conforme a su ámbito de competencia, las siguientes:
 
-I. Proporcionar y garantizar el derecho a alimentos de niñas, niños y adolescentes conforme al Código Familiar;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+
+I. Proporcionar y garantizar el derecho a alimentos, nutritivos, suficientes y de calidad de niñas, niños y adolescentes conforme al Código Familiar;
 
 II. Registrar su nacimiento ante la oficialía de registro civil correspondiente dentro de los primeros sesenta días de vida;
 
@@ -1353,7 +1377,9 @@ I. Un entorno seguro, afectivo y libre de maltrato o violencia;
 
 II. Cuidado y protección contra actos u omisiones que puedan afectar su integridad física o psicológica;
 
-III. Alimentación que les permita tener una nutrición equilibrada y que cuente con la periódica certificación de la autoridad sanitaria;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+
+III. Alimentación, nutritiva, suficiente y de calidad que les permita tener una nutrición equilibrada y que cuente con la periódica certificación de la autoridad sanitaria;
 
 IV. Atención integral y multidisciplinaria de servicio médico integral, atención de primeros auxilios, seguimiento psicológico, social y jurídico;
 
@@ -2017,13 +2043,15 @@ XIII. Articularse con la Secretaría Ejecutiva del Sistema Nacional de Protecci�
 
 XIV. Operar el Sistema Estatal de Información;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
 
-XV. Coordinar, supervisar y apoyar con los recursos necesarios a la Comisión de Atención Inmediata; y,
+XV. Coordinar, supervisar y apoyar con los recursos necesarios a la Comisión de Atención Inmediata;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
 
-XVI. Las demás que le encomiende el Presidente o el Sistema Estatal de Protección Integral.
+XVI. Establecer y operar un sistema de indicadores de progresividad de derechos que permita fijar metas en el presupuesto anual y evaluar la garantía de su cumplimiento, tomando como base los niveles esenciales y alcanzados de satisfacción conforme a lo previsto en esta ley; y,
+
+XVII. Las demás que le encomiende el Presidente o el Sistema Estatal de Protección Integral.
 
 ###### Artículo 87.
 
@@ -2312,3 +2340,49 @@ P.O. 25 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 403 POR EL QUE “SE ADICIONA UN PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 33, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo. Notifíquese al Titular del Poder Ejecutivo del Estado para su publicación y efectos legales.
+
+P.O. 6 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 411.- ARTÍCULO ÚNICO. SE REFORMAN LAS FRACCIONES XIX Y XX Y SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 38, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este Decreto de Ley.
+
+###### ARTÍCULO SEGUNDO.
+
+Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 6 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 421.- ARTÍCULO ÚNICO. SE REFORMAN LAS FRACCIONES XIII Y XIV Y SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 7 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+SEGUNDO. Notifíquese al Gobernador Constitucional del Estado de Michoacán de Ocampo, para que se sirva ordenar su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 6 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 432.- ARTÍCULO ÚNICO. SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 28, LA FRACCIÓN VIII DEL ARTÍCULO 33, LA FRACCIÓN I DEL ARTÍCULO 58, LA FRACCIÓN III DEL ARTÍCULO 62, LA FRACCIÓN XV Y SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 86 RECORRIENDO EN SU ORDEN LA FRACCIÓN SUBSECUENTE, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Michoacán de Ocampo.
+
+SEGUNDO. La Secretaría Ejecutiva cuenta con sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto para establecer y operar el sistema mencionado en la fracción XVI del artículo 86 de la presente Ley.
+
+P.O. 6 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 434.- ARTÍCULO PRIMERO. SE ADICIONAN UN TERCER, CUARTO, QUINTO, SEXTO Y SÉPTIMO PÁRRAFOS AL ARTÍCULO 127 Y UN TERCER PÁRRAFO AL ARTÍCULO 132; Y, SE REFORMA EL ARTÍCULO 228, TODOS DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE ADICIONA LA FRACCIÓN XIII BIS AL ARTÍCULO 33 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto, entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Concejo Mayor de Cherán, el Concejo Municipal de Penjamillo, así como los 111 ayuntamientos, contarán con un plazo no mayor a 90 días hábiles, para adecuar la reglamentación en materia de establecimientos mercantiles y de servicios.
+
+TERCERO. Los establecimientos mercantiles y de servicios establecidos en el presente Decreto, contarán con un plazo no mayor al mes de diciembre del año 2023, para dar cumplimiento a lo establecido en el presente Decreto.
+
+CUARTO. Los poderes del Estado, los organismos autónomos, el Concejo Mayor de Cherán, el Concejo Municipal de Penjamillo, así como los 111 ayuntamientos, contarán con un plazo no mayor al mes de diciembre del año 2023, en los espacios que así lo permitan, para dar cumplimiento a lo establecido en el presente Decreto.
