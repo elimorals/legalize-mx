@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-mejora-regulatoria-del-estado-de-michoacan-de-ocampo-126
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-19"
-last_updated: "2018-02-19"
+last_updated: "2023-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE MEJORA REGULATORIA DEL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Novena Sección al Número 28 del Periódico Oficial del Estado de Michoacán, el lunes 19 de febrero de 2018.
 
@@ -61,13 +61,25 @@ II. El procedimiento de revisión y adecuación, en la elaboración y aplicació
 
 III. Las infracciones administrativas en materia de mejora regulatoria;
 
-IV. El Catálogo Estatal de Trámites y Servicios; y,
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
 
-V. Promover y facilitar la participación ciudadana en la mejora regulatoria.
+IV. El Catálogo Estatal de Trámites y Servicios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+
+V. El desarrollo de herramientas digitales para facilitar los trámites y servicios; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Promover y facilitar la participación ciudadana en la mejora regulatoria.
 
 ###### Artículo 3.
 
 La mejora regulatoria, es una política pública que consiste en la generación de normas claras, de trámites y servicios simplificados que se orientan a obtener el mayor valor posible de los recursos disponibles y del óptimo funcionamiento de las actividades comerciales, industriales, productivas, de servicios y de desarrollo humano de la sociedad en su conjunto.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+
+Para el cumplimiento de la presente Ley, el Estado y los Municipios, podrán suscribir convenios de colaboración, coordinación, concertación o asociación entre sí, con autoridades del gobierno federal, con otros estados, así como con el sector social y privado, en materia de simplificación administrativa, mejora regulatoria y aprovechamiento estratégico de las tecnologías de la información.
 
 ###### Artículo 4.
 
@@ -123,9 +135,17 @@ XIII. Fomentar el conocimiento por parte de la sociedad de la normatividad estat
 
 XIV. Coadyuvar en las acciones para reducir la carga administrativa derivada de los requerimientos y procedimientos establecidos por parte de las autoridades administrativas del Estado;
 
-XV. Coordinar y armonizar en su caso, las políticas estatales y municipales de requerimientos de información y prácticas administrativas, a fin de elevar la eficiencia y productividad tanto de la administración pública estatal como de la municipal; y,
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
 
-XVI. Priorizar y diferenciar los requisitos y trámites para el establecimiento y funcionamiento de las empresas según la naturaleza de su actividad económica considerando su tamaño, la rentabilidad social, la ubicación en zonas de atención prioritaria, así como otras características relevantes para el Municipio.
+XV. Coordinar y armonizar en su caso, las políticas estatales y municipales de requerimientos de información y prácticas administrativas, a fin de elevar la eficiencia y productividad tanto de la administración pública estatal como de la municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+
+XVI. Promover el acceso a las tecnologías de la información y comunicación, de conformidad con la legislación federal y estatal vigente en la materia; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+
+XVII. Priorizar y diferenciar los requisitos y trámites para el establecimiento y funcionamiento de las empresas según la naturaleza de su actividad económica considerando su tamaño, la rentabilidad social, la ubicación en zonas de atención prioritaria, así como otras características relevantes para el Municipio.
 
 ###### Artículo 6.
 
@@ -181,15 +201,27 @@ XXI. VUC: Ventanilla Única de Construcción.
 
 El Sistema tiene como propósito la ordenación racional, sistemática y coordinada de las acciones necesarias para asegurar que la regulación que integra el ordenamiento jurídico de la Entidad responda al objeto y principios de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+
+El sistema deberá coordinarse con la Comisión Coordinadora del Gobierno Digital del Estado de Michoacán.
+
 ###### Artículo 8.
 
 El Sistema se integrará y contará con los siguientes órganos:
 
 I. El Consejo Estatal de Mejora Regulatoria;
 
-II. La Comisión Estatal de Mejora Regulatoria; y,
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
 
-III. Las Unidades de Mejora Regulatoria Municipal.
+II. La Comisión Estatal de Mejora Regulatoria;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+
+III. Las Unidades de Mejora Regulatoria Municipal; y,
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+
+IV. La Comisión Coordinadora del Gobierno Digital del Estado de Michoacán.
 
 ###### Artículo 9.
 
@@ -1084,3 +1116,11 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 26 veintiséis días del mes de enero de 2018 dos mil dieciocho.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- LIC. ADRIÁN LÓPEZ SOLÍS.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 433 POR EL QUE “SE REFORMAN LAS FRACCIONES IV Y V Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 2; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 3; SE REFORMAN LAS FRACCIONES XV Y XVI Y SE ADICIONA LA FRACCIÓN XVII DEL ARTÍCULO 5; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 7; SE REFORMAN LAS FRACCIONES II Y III Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 8 DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
