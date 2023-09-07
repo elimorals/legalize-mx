@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-131962"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-12-07"
-last_updated: "2023-01-16"
+last_updated: "2023-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131962&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2018-11-30"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE SEPTIEMBRE DE 2023.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2018.
 
@@ -169,7 +169,9 @@ XXXII. Pleno: Pleno del Consejo;
 
 XXXIII. Poder Judicial de la Federación: A los órganos señalados en el artículo 94 de la Constitución, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación;
 
-XXXIV. Presidente: Consejero Presidente del Consejo;
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+XXXIV. Presidencia: Persona Consejera que preside el Consejo;
 
 XXXV. Presunto responsable: Los servidores públicos cuyas conductas puedan constituir responsabilidad administrativa, en términos de la Ley de Responsabilidades, la Ley Orgánica y este Acuerdo, así como los particulares, ya sean personas físicas o morales, cuando la falta administrativa atribuida los vincule a alguno de los servidores públicos del Poder Judicial de la Federación, o a algún procedimiento jurisdiccional o administrativo del Consejo. Para efectos de este Acuerdo se consideran servidor público tanto las personas en activo como aquellas que hayan dejado de formar parte del Poder Judicial de la Federación;
 
@@ -187,9 +189,11 @@ XL. Tribunal Electoral: Tribunal Electoral del Poder Judicial de la Federación;
 
 XLI. Unidades administrativas: Las señaladas en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
-XLII. Unidad de Prevención y Combate al Acoso Sexual: El área administrativa dependiente de la Secretaría General de la Presidencia encargada de proporcionar atención en los casos de acoso sexual y cualquier otra forma de violencia sexual y de género a los y las trabajadoras en el Consejo, así como coadyuvar con las víctimas de acoso sexual y cualquier otra forma de violencia sexual y de género en la presentación de denuncias y en la solicitud de medidas cautelares, así como brindarles acompañamiento ante las instancias de investigación y substanciación en materia disciplinaria, sin que ello implique una representación por su parte; y
+XLII. Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual: Es el área administrativa dependiente de la Secretaría General de la Presidencia encargada de proporcionar acompañamiento en los casos de acoso sexual o cualquier otra forma de violencia sexual y/o de género presentados en el entorno laboral del Consejo, así como, de generar acciones con perspectiva de género para prevenir dichas conductas. Dicho acompañamiento se brindará a las personas que laboren o hayan laborado en el Consejo, a las personas prestadoras de servicio social o practicantes profesionales y personas que no siendo trabajadoras del Consejo efectúan sus actividades en las instalaciones de éste; cuando se señale como probable agresor o agresora a quien labore o haya laborado en el Consejo.
+
+Asimismo, es la encargada de diseñar, implementar y evaluar programas, estrategias y acciones de prevención de situaciones de violencia laboral, de prácticas contrarias a los derechos laborales de las personas trabajadoras, así como de eliminación de riesgos psicosociales; de atender y dar seguimiento a casos relacionados con cualquier forma de violencia laboral a través de un enfoque de justicia restaurativa, de conciliación y disuasión en el que participe como coadyuvante en la solución de conflictos laborales, sin intervenir formalmente ante instancias disciplinarias ni en el procedimiento ante la Comisión de Conflictos Laborales del Poder Judicial de la Federación; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
 
@@ -219,19 +223,19 @@ Estas medidas estarán especialmente orientadas a prevenir y evitar conductas qu
 
 Las medidas preventivas no tienen la naturaleza de sanciones administrativas y tampoco constituyen condición obligatoria ni prerrequisito para la imposición de éstas.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
-La Unidad de Prevención y Combate al Acoso Sexual, podrá sugerir a los titulares de órganos jurisdiccionales y áreas administrativas la adopción de medidas preventivas a fin de prevenir y evitar conductas de acoso sexual y otras formas de violencia sexual y de género. Cuando ya exista una investigación o procedimiento administrativo en curso relacionado con conductas específicas de naturaleza sexual o relacionadas con violencia de género en determinado órgano jurisdiccional o área administrativa, dichas medidas deberán sugerirse en coordinación con la autoridad investigadora o substanciadora, según sea el caso.
+La Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual, podrá sugerir a las personas titulares de órganos jurisdiccionales y áreas administrativas la adopción de medidas preventivas a fin de prevenir y evitar conductas de acoso sexual y otras formas de violencia sexual y de género. Cuando ya exista una investigación o procedimiento administrativo en curso relacionado con conductas específicas de naturaleza sexual o relacionadas con violencia de género en determinado órgano jurisdiccional o área administrativa, dichas medidas deberán sugerirse en coordinación con la autoridad investigadora o substanciadora, según sea el caso.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ### CAPÍTULO TERCERO. BUZÓN ELECTRÓNICO PARA QUEJAS Y DENUNCIAS
 
-> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 6 Bis.
 
-La Secretaría y la Contraloría del Consejo de la Judicatura Federal, en el ámbito de sus atribuciones, tendrán a su cargo el buzón electrónico de quejas y denuncias del Consejo de la Judicatura Federal, el cual permitirá denunciar conductas potencialmente constitutivas de casos de corrupción, abuso y otras formas de violencia sexual y sexista, así como casos de nepotismo. El buzón, cuando así se solicite y siempre que en derecho proceda, salvaguardará la identidad de la persona denunciante, además de que podrá actuarse de forma anónima, quien podrá solicitar en ese acto la intervención de la Unidad de Prevención y Combate al Acoso Sexual, cuando los hechos denunciados estén relacionados con el ámbito de competencia de ésta.
+La Secretaría y la Contraloría del Consejo de la Judicatura Federal, en el ámbito de sus atribuciones, tendrán a su cargo el buzón electrónico de quejas y denuncias del Consejo de la Judicatura Federal, el cual permitirá denunciar conductas potencialmente constitutivas de casos de corrupción, abuso y otras formas de violencia sexual y sexista, así como casos de nepotismo. El buzón, cuando así se solicite y siempre que en derecho proceda, salvaguardará la identidad de la persona denunciante, además de que podrá actuarse de forma anónima, quien podrá solicitar en ese acto la intervención de la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual, cuando los hechos denunciados estén relacionados con el ámbito de competencia de ésta.
 
 ## TÍTULO SEGUNDO. DE LA RESPONSABILIDAD ADMINISTRATIVA, LA DECLARACIÓN PATRIMONIAL Y DE INTERESES, Y LA ENTREGA-RECEPCIÓN
 
@@ -299,13 +303,13 @@ V. Destitución del puesto; y
 
 VI. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
-En los casos en los que se haya acreditado una conducta de naturaleza sexual o relacionada con violencia de género, con el objeto de garantizar la reparación de la víctima e incorporar un enfoque transformador que tienda a prevenir dichas conductas, adicionalmente a la sanción impuesta, se podrá ordenar al servidor público sancionado cumplir con un curso de sensibilización o formación en género y/o masculinidades en los términos recomendados por la Unidad de Prevención y Combate al Acoso Sexual.
+En los casos en los que se haya acreditado una conducta de naturaleza sexual o relacionada con violencia de género, con el objeto de garantizar la reparación de la víctima e incorporar un enfoque transformador que tienda a prevenir dichas conductas, adicionalmente a la sanción impuesta, se podrá ordenar a la persona servidora pública sancionada cumplir con un curso de sensibilización o formación en género y/o masculinidades en los términos recomendados por la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
-Dicha medida será supervisada por la Unidad de Prevención y Combate al Acoso Sexual, quien emitirá un dictamen de conclusión a la Secretaría Ejecutiva de Disciplina, o en su caso, a la Contraloría, una vez que considere se ha cumplido con el objeto de la medida.
+Dicha medida será supervisada por la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual, quien emitirá un dictamen de conclusión a la Secretaría Ejecutiva de Disciplina, o en su caso, a la Contraloría, una vez que considere se ha cumplido con el objeto de la medida.
 
 ###### Artículo 13.
 
@@ -791,9 +795,9 @@ Dentro del procedimiento de responsabilidad administrativa, la autoridad substan
 
 En la práctica o desahogo de las diligencias, podrá utilizarse, según el caso y a juicio del servidor público que las practique, cualquier medio electrónico o magnético. El medio utilizado y la reproducción deberán constar en el acta respectiva.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
-Cuando las conductas denunciadas sean de naturaleza sexual o de violencia de género, se deberá convocar a la Unidad de Prevención y Combate al Acoso Sexual para dar acompañamiento a la víctima de dichas conductas durante las diligencias, conforme a sus atribuciones, sin que este acompañamiento implique una representación de su parte, con la salvedad de que la propia víctima se oponga.
+Cuando las conductas denunciadas sean de naturaleza sexual o de violencia de género, se deberá convocar a la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual para dar acompañamiento a la víctima de dichas conductas durante las diligencias, conforme a sus atribuciones, sin que este acompañamiento implique una representación de su parte, con la salvedad de que la propia víctima se oponga.
 
 ###### Artículo 69.
 
@@ -1001,9 +1005,9 @@ Las promociones de nulidad notoriamente improcedentes se desecharán de plano.
 
 En cualquier etapa de la investigación o procedimiento de responsabilidad administrativa, el Pleno o la Comisión, según corresponda; para preservar la materia de éstos o evitar que se pierdan, oculten, destruyan o alteren los elementos relacionados con los hechos investigados, y proteger, en su caso, la seguridad de las víctimas y testigos, podrán dictar medidas cautelares, debidamente fundadas y motivadas, las cuales no prejuzgarán sobre la responsabilidad que se imputa, lo que se hará constar expresamente en la determinación, y cesarán cuando así se resuelva.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
-En los casos en los que se denuncien conductas de naturaleza sexual o relacionadas con violencia de género, se estudiará desde el inicio y de manera oficiosa la viabilidad de dictar medidas cautelares para proteger la seguridad e integridad de la víctima y los testigos, así como de sus derechos. En dichos casos, la Unidad de Prevención y Combate al Acoso Sexual podrá sugerir al Pleno o a la Comisión, según corresponda, la adopción de medidas orientadas a conminar al probable agresor a abstenerse de hostigar, intimidar, amenazar, dañar o poner en peligro la vida o los derechos de la víctima o de los testigos.
+En los casos en los que se denuncien conductas de naturaleza sexual o relacionadas con violencia de género, se estudiará desde el inicio y de manera oficiosa la viabilidad de dictar medidas cautelares para proteger la seguridad e integridad de la víctima y los testigos, así como de sus derechos. En dichos casos, la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual podrá sugerir al Pleno o a la Comisión, según corresponda, la adopción de medidas orientadas a conminar al probable agresor a abstenerse de hostigar, intimidar, amenazar, dañar o poner en peligro la vida o los derechos de la víctima o de los testigos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
@@ -1059,7 +1063,9 @@ En ningún caso podrá exigirse el reintegro del monto de la percepción otorgad
 
 Los órganos competentes para conocer de las responsabilidades administrativas son los siguientes:
 
-I. El Presidente para desechar las quejas administrativas o denuncias que se formulen en contra de servidores públicos, así como de particulares cuando la falta atribuida los vincule a alguno de esos servidores públicos o a algún procedimiento jurisdiccional o administrativo del Consejo; o bien, para ordenar el inicio de la investigación en casos en los que las probables responsabilidades se hayan hecho de su conocimiento mediante queja o denuncia;
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+I. La Presidencia para desechar las quejas administrativas o denuncias que se formulen en contra de personas servidoras públicas, así como de particulares cuando la falta atribuida los vincule a alguna de esas personas servidoras públicas o a algún procedimiento jurisdiccional o administrativo del Consejo; o bien, para ordenar el inicio de la investigación en casos en los que las probables responsabilidades se hayan hecho de su conocimiento mediante queja o denuncia;
 
 II. El Pleno para ordenar de oficio, por queja o denuncia, el inicio del procedimiento de responsabilidad administrativa, previo informe de presunta responsabilidad administrativa, en contra de magistrados de Circuito, jueces de Distrito y del titular de la Contraloría; así como de servidores públicos adscritos a órganos jurisdiccionales y áreas administrativas, y de particulares, cuando éstos concurran con aquellos en alguna causa de responsabilidad administrativa; y resolverlos en los casos previstos en este Acuerdo;
 
@@ -1077,7 +1083,9 @@ Cuando la Contraloría inicie un procedimiento de responsabilidad administrativa
 
 La Contraloría substanciará el procedimiento de responsabilidad administrativa y someterá el proyecto de resolución a la Comisión en términos del artículo 155 de este Acuerdo;
 
-VII. La Unidad General para realizar conforme a sus atribuciones, las investigaciones que le instruya el Presidente o la Comisión de Vigilancia respecto de servidores públicos adscritos a órganos jurisdiccionales y áreas administrativas, así como de particulares cuando la falta atribuida los vincule a alguno de esos servidores públicos o a algún procedimiento jurisdiccional o administrativo del Consejo, con excepción de aquellas en las que estén involucrados servidores públicos de la Unidad General; y
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+VII. La Unidad General para realizar conforme a sus atribuciones, las investigaciones que le instruya la Presidencia o la Comisión de Vigilancia respecto de personas servidoras públicas adscritas a órganos jurisdiccionales y áreas administrativas, así como de particulares cuando la falta atribuida los vincule a alguna de esas personas servidoras públicas o a algún procedimiento jurisdiccional o administrativo del Consejo, con excepción de aquellas en las que estén involucradas personas servidoras públicas de la Unidad General; y
 
 VIII. Los magistrados de Circuito y jueces de Distrito para auxiliar en el trámite de investigaciones y en la substanciación de los procedimientos de responsabilidad administrativa.
 
@@ -1113,13 +1121,19 @@ II. La Comisión para ordenar el inicio de los procedimientos de responsabilidad
 
 III. La Contraloría para llevar el registro, control, análisis y seguimiento de la situación patrimonial de los servidores públicos; para iniciar, previo informe de presunta responsabilidad administrativa, y substanciar los procedimientos de responsabilidad administrativa en contra de los servidores públicos adscritos a órganos jurisdiccionales y áreas administrativas no considerados en las fracciones anteriores, así como los que hubiere ordenado el Pleno o la Comisión; y resolver aquellos que se instruyan contra los servidores públicos señalados en esta fracción;
 
-IV. El Presidente para ordenar a la Unidad General o a la Secretaría, según corresponda, realice la investigación que en su caso resulte necesaria;
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+IV. La Presidencia para ordenar a la Unidad General o a la Secretaría, según corresponda, realice la investigación que en su caso resulte necesaria;
 
 V. La Comisión de Vigilancia para ordenar a la Unidad General o a la Secretaría, según corresponda, realice la investigación que en su caso resulte necesaria;
 
-VI. La Secretaría para tramitar los procedimientos de responsabilidad administrativa que se lleven a cabo en contra de servidores públicos de la Contraloría o realizar la investigación que instruya el Presidente o la Comisión de Vigilancia en contra de servidores públicos de la Unidad General; y
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
-VII. La Unidad General para realizar las investigaciones que ordene el Presidente o la Comisión de Vigilancia, con excepción de aquellas en las que se encuentren involucrados servidores públicos de la Unidad General.
+VI. La Secretaría para tramitar los procedimientos de responsabilidad administrativa que se lleven a cabo en contra de personas servidoras públicas de la Contraloría o realizar la investigación que instruya la Presidencia o la Comisión de Vigilancia en contra de personas servidoras públicas de la Unidad General; y
+
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+VII. La Unidad General para realizar las investigaciones que ordene la Presidencia o la Comisión de Vigilancia, con excepción de aquellas en las que se encuentren involucradas personas servidoras públicas de la Unidad General.
 
 ###### Artículo 112.
 
@@ -1127,9 +1141,11 @@ Los procedimientos de responsabilidad administrativa que se inicien con motivo d
 
 Cuando la Dirección de Registro Patrimonial observe incumplimiento por parte de los servidores públicos, emitirá el informe de presunta responsabilidad administrativa correspondiente, el que se someterá a la consideración del órgano competente, de conformidad con lo previsto en el artículo anterior, para que determine lo procedente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 113.
 
-El Pleno, la Comisión, la Comisión de Vigilancia y el Presidente ejercerán en forma exclusiva y de conformidad con la competencia señalada en el artículo 111, fracciones I, II, IV y V, de este Acuerdo, según corresponda, las siguientes atribuciones y facultades:
+El Pleno, la Comisión, la Comisión de Vigilancia y la Presidencia ejercerán en forma exclusiva y de conformidad con la competencia señalada en el artículo 111, fracciones I, II, IV y V, de este Acuerdo, según corresponda, las siguientes atribuciones y facultades:
 
 I. Ordenar la práctica de investigaciones cuando los signos exteriores de riqueza sean ostensible y notoriamente superiores a los ingresos lícitos que puede tener el servidor público;
 
@@ -1151,7 +1167,9 @@ III. Llevar de conformidad con la Ley de Responsabilidades y este Acuerdo, el re
 
 IV. Rendir a la Comisión informe sobre el resultado del análisis de las declaraciones de modificación patrimonial, realizadas de manera aleatoria, que deberá presentarse con la periodicidad que determine la Comisión, y los demás informes que considere la Contraloría;
 
-V. Comunicar al Pleno, al Presidente o a la Comisión, según corresponda y para los efectos conducentes, los resultados de las revisiones y auditorías practicadas;
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+V. Comunicar al Pleno, a la Presidencia o a la Comisión, según corresponda y para los efectos conducentes, los resultados de las revisiones y auditorías practicadas;
 
 VI. Informar semestralmente a la Comisión de los procedimientos de responsabilidad administrativa que resuelva, o antes, si la importancia del asunto lo amerita;
 
@@ -1173,7 +1191,9 @@ c) Remitir la información correspondiente a la Contraloría para efectos de con
 
 II. Tratándose de servidores públicos adscritos a la Unidad General:
 
-a) Practicar investigaciones cuando así lo ordene el Presidente o la Comisión de Vigilancia;
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+a) Practicar investigaciones cuando así lo ordene la Presidencia o la Comisión de Vigilancia;
 
 b) Emitir el dictamen conclusivo o bien el informe de presunta responsabilidad administrativa; y
 
@@ -1193,11 +1213,13 @@ En el supuesto de que, el Pleno, la Comisión o, en su caso, la Contraloría, en
 
 ### CAPÍTULO TERCERO. INVESTIGACIÓN
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 118.
 
-Antes del inicio del procedimiento de responsabilidad administrativa, de requerirse, el Presidente o la Comisión de Vigilancia podrán ordenar la práctica de investigaciones cuando existan indicios de conductas probablemente constitutivas de responsabilidad administrativa, atribuidas a servidores públicos adscritos a órganos jurisdiccionales y áreas administrativas del Consejo, así como de particulares cuando la falta atribuida los vincule a alguno de esos servidores públicos o a algún procedimiento jurisdiccional o administrativo del Consejo.
+Antes del inicio del procedimiento de responsabilidad administrativa, de requerirse, la Presidencia o la Comisión de Vigilancia podrán ordenar la práctica de investigaciones cuando existan indicios de conductas probablemente constitutivas de responsabilidad administrativa, atribuidas a personas servidoras públicas adscritas a órganos jurisdiccionales y áreas administrativas del Consejo, así como de particulares cuando la falta atribuida los vincule a alguna de esas personas servidoras públicas o a algún procedimiento jurisdiccional o administrativo del Consejo.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 La investigación se seguirá forzosamente por el hecho o hechos que se señalen en el inicio de ésta, si durante la indagatoria se advierten otros hechos probablemente constitutivos de responsabilidad, podrán ser objeto de investigación separada.
 
@@ -1327,13 +1349,13 @@ En el supuesto en que se cuestione la autenticidad de la suscripción de los esc
 
 En caso de que el escrito de queja o denuncia sea obscuro o irregular, y se adviertan indicios de conductas probablemente constitutivas de responsabilidad administrativa, la Secretaría o la Contraloría, según corresponda, deberá prevenir al promovente por una sola vez, para que en el plazo de tres días hábiles lo aclare o corrija, señalándole en forma concreta las irregularidades, hecho lo cual, se proveerá sobre su admisión o desechamiento.
 
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 135.
 
-La Contraloría y la Secretaría, en sus respectivos ámbitos de competencia, informarán al Pleno de las quejas o denuncias que deseche el Presidente.
+La Contraloría y la Secretaría, en sus respectivos ámbitos de competencia, informarán al Pleno de las quejas o denuncias que deseche la Presidencia.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
-
-Cuando se trate de conductas de naturaleza sexual o de violencia de género, se dará vista del desechamiento a la Unidad de Prevención y Combate al Acoso Sexual, la cual se pondrá a disposición de la víctima o víctimas a través de la vía de contacto señalada por las mismas, para recibir el acompañamiento que corresponda.
+Cuando se trate de conductas de naturaleza sexual o de violencia de género, se dará vista del desechamiento a la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual, la cual se pondrá a disposición de la víctima o víctimas a través de la vía de contacto señalada por las mismas, para recibir el acompañamiento que corresponda.
 
 ###### Artículo 136.
 
@@ -1367,9 +1389,9 @@ III. El informe de presunta responsabilidad administrativa.
 
 En todo caso el presunto responsable estará en posibilidad de consultar el expediente en las instalaciones del área u órgano auxiliar instructor, sin perjuicio de solicitar copias de las constancias que considere necesarias, así como la ampliación del plazo a que se refiere el artículo 141 de este Acuerdo.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
-Asimismo, se notificará a la víctima, independientemente de si fue ésta quien formuló la denuncia o queja correspondiente, del inicio del procedimiento disciplinario y se le hará saber la información necesaria para tener acceso y dar seguimiento a la misma. En dicha notificación, se le hará saber que la Unidad de Prevención y Combate al Acoso Sexual está a su disposición para brindarle el acompañamiento correspondiente en el procedimiento disciplinario, conforme a sus respectivas atribuciones. La víctima, o la persona que ésta autorice para tal efecto, también estará en posibilidad de consultar el expediente en las instalaciones del área u órgano auxiliar instructor, sin perjuicio de solicitar copias de las constancias que considere necesarias.
+Asimismo, se notificará a la víctima, independientemente de si fue ésta quien formuló la denuncia o queja correspondiente, del inicio del procedimiento disciplinario y se le hará saber la información necesaria para tener acceso y dar seguimiento a la misma. En dicha notificación, se le hará saber que la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual está a su disposición para brindarle el acompañamiento correspondiente en el procedimiento disciplinario, conforme a sus respectivas atribuciones. La víctima, o la persona que ésta autorice para tal efecto, también estará en posibilidad de consultar el expediente en las instalaciones del área u órgano auxiliar instructor, sin perjuicio de solicitar copias de las constancias que considere necesarias.
 
 > <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
@@ -1519,7 +1541,9 @@ II. En todos los demás casos resolverá la Comisión.
 
 En caso de que la Comisión determine en un procedimiento de responsabilidad sometido a su consideración que, por la gravedad de las faltas, las sanciones aplicables, contrario a lo propuesto, puedan ser las de destitución o la inhabilitación temporal de un juzgador, remitirá el asunto al Pleno.
 
-El Presidente también podrá solicitar a la Comisión que remita a la consideración del Pleno la resolución de algún procedimiento de responsabilidad instaurado a titulares de áreas administrativas, en el que estime aplicables las sanciones de destitución o inhabilitación temporal.
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+La Presidencia también podrá solicitar a la Comisión que remita a la consideración del Pleno la resolución de algún procedimiento de responsabilidad instaurado a personas titulares de áreas administrativas, en el que estime aplicables las sanciones de destitución o inhabilitación temporal.
 
 ###### Artículo 155.
 
@@ -1577,9 +1601,11 @@ Cuando el Consejero ponente estime que no procede realizar la modificación suge
 
 Lo previsto en el párrafo anterior se observará en las determinaciones del Pleno cuando no se logre la mayoría calificada señalada en el artículo 158 de este Acuerdo.
 
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 162.
 
-Las resoluciones del Pleno serán firmadas por el Presidente, por los Consejeros y por el Secretario Ejecutivo del Pleno, quien autorizará y dará fe de éstas.
+Las resoluciones del Pleno serán firmadas por la Presidencia, por las personas Consejeras y por la persona titular de la Secretaria Ejecutiva del Pleno, quien autorizará y dará fe de éstas.
 
 ###### Artículo 163.
 
@@ -1591,9 +1617,9 @@ Las resoluciones que pongan fin a los procedimientos de responsabilidad administ
 
 El resultado se expresará con claridad y precisión en puntos resolutivos.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
-En casos relacionados con conductas de naturaleza sexual, o de violencia sexual y de género las resoluciones que pongan fin al procedimiento podrán prever medidas de reparación, a propuesta fundada y motivada de la Unidad de Prevención y Combate al Acoso Sexual.
+En casos relacionados con conductas de naturaleza sexual, o de violencia sexual y de género las resoluciones que pongan fin al procedimiento podrán prever medidas de reparación, a propuesta fundada y motivada de la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual.
 
 ###### Artículo 165.
 
@@ -1625,11 +1651,13 @@ Los recursos deberán interponerse personalmente, por correo certificado o por s
 
 Los recursos derivados del procedimiento de responsabilidad administrativa en línea podrán presentarse a través del Sistema de Justicia en Línea. En este caso la fecha de presentación será la del día de su envío a través de dicho Sistema.
 
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 169.
 
-El Presidente o el presidente de la Comisión, en el ámbito de sus respectivas competencias, calificará la procedencia del recurso, admitiéndolo o desechándolo, dentro de los tres días hábiles siguientes a su interposición, y para su trámite se auxiliará del titular del órgano en el que se encuentre radicado el asunto de origen.
+La Presidencia o la o el Presidente de la Comisión, en el ámbito de sus respectivas competencias, calificará la procedencia del recurso, admitiéndolo o desechándolo, dentro de los tres días hábiles siguientes a su interposición, y para su trámite se auxiliará de la persona titular del órgano en el que se encuentre radicado el asunto de origen.
 
-El Presidente y el presidente de la Comisión podrán designar un órgano auxiliar instructor para realizar actuaciones y diligencias con motivo del trámite de los recursos.
+La Presidencia y la o el presidente de la Comisión podrán designar un órgano auxiliar instructor para realizar actuaciones y diligencias con motivo del trámite de los recursos.
 
 ###### Artículo 170.
 
@@ -1663,11 +1691,15 @@ I. La Comisión; y
 
 II. La Contraloría.
 
-En el supuesto de la fracción I admite y tramita el Presidente y resuelve el Pleno; y en la fracción II admite y tramita el presidente de la Comisión y resuelve ésta; en ambos casos el recurso se tramitará con auxilio de la Secretaría o de la Contraloría, según corresponda. El plazo para la interposición de la reconsideración será de cinco días hábiles y sesenta días hábiles para su resolución.
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+En el supuesto de la fracción I admite y tramita la Presidencia y resuelve el Pleno; y en la fracción II admite y tramita la o el presidente de la Comisión y resuelve ésta; en ambos casos el recurso se tramitará con auxilio de la Secretaría o de la Contraloría, según corresponda. El plazo para la interposición de la reconsideración será de cinco días hábiles y sesenta días hábiles para su resolución.
+
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 174.
 
-El recurso de reclamación procede contra el acuerdo que desecha o tenga por no interpuesto el recurso de reconsideración o de inconformidad, el cual resolverá el Pleno, cuando lo haya acordado el Presidente, y la Comisión, cuando lo haya hecho el presidente de ésta. El plazo para la interposición de la reclamación será de tres días hábiles y quince días hábiles para su resolución.
+El recurso de reclamación procede contra el acuerdo que desecha o tenga por no interpuesto el recurso de reconsideración o de inconformidad, el cual resolverá el Pleno, cuando lo haya acordado la Presidencia, y la Comisión, cuando lo haya hecho la presidenta o el presidente de ésta. El plazo para la interposición de la reclamación será de tres días hábiles y quince días hábiles para su resolución.
 
 ###### Artículo 175.
 
@@ -1685,9 +1717,11 @@ V. Los alegatos.
 
 En este recurso, únicamente podrá ser ofrecida la prueba superveniente y la que tenga relación inmediata y directa con violaciones al procedimiento de responsabilidad administrativa. Para su desahogo se concederá un plazo no mayor a diez días hábiles que podrá ampliarse por causa motivada y fundada hasta por treinta días hábiles.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 176.
 
-Substanciado el recurso de inconformidad, el Presidente someterá el proyecto de resolución a la consideración del Pleno. En el supuesto del recurso de reclamación, el Presidente someterá el proyecto de resolución a la consideración del Pleno, salvo en aquellos casos en que él haya dictado el acuerdo que se impugna, supuesto en el cual le corresponderá al presidente de la Comisión.
+Substanciado el recurso de inconformidad, la Presidencia someterá el proyecto de resolución a la consideración del Pleno. En el supuesto del recurso de reclamación, la Presidencia someterá el proyecto de resolución a la consideración del Pleno, salvo en aquellos casos en que ella haya dictado el acuerdo que se impugna, supuesto en el cual le corresponderá a la presidenta o el presidente de la Comisión.
 
 Tramitado el recurso de reconsideración se remitirá, con el expediente y anexos, al Consejero a quien por turno corresponda formular el proyecto de resolución y someterlo al órgano competente. En su caso, se deberá excluir del turno al Consejero que haya sido ponente de la resolución recurrida.
 
@@ -1915,9 +1949,11 @@ Los criterios se compondrán de rubro, texto y datos de identificación, en los 
 
 Corresponde al Consejo, en el ámbito de sus facultades disciplinarias, la revisión de la situación patrimonial de los magistrados de Circuito, jueces de Distrito, y de los servidores públicos adscritos a los órganos jurisdiccionales y a las áreas administrativas, así como verificar los registros bancarios, inmobiliarios, vehiculares o de otra índole, operaciones crediticias y situación financiera de dichos servidores y de particulares cuando se les atribuya alguna falta administrativa que los vincule a las funciones propias del Poder Judicial de la Federación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 203.
 
-Para el ejercicio de la atribución prevista en el artículo anterior, el Pleno, el Presidente, o la Comisión de Vigilancia solicitarán a las autoridades competentes, dependencias y entidades públicas, así como a las instituciones bancarias y entidades financieras, cuando lo considere necesario, los datos relacionados con registros y operaciones e información bancaria que se requiera.
+Para el ejercicio de la atribución prevista en el artículo anterior, el Pleno, la Presidencia, o la Comisión de Vigilancia solicitarán a las autoridades competentes, dependencias y entidades públicas, así como a las instituciones bancarias y entidades financieras, cuando lo considere necesario, los datos relacionados con registros y operaciones e información bancaria que se requiera.
 
 La información y documentación podrá solicitarse a las instituciones financieras por conducto de la Comisión Nacional Bancaria y de Valores, previo cumplimiento de los requisitos legales exigidos.
 
@@ -1975,11 +2011,13 @@ El Consejo procederá en los términos de las disposiciones aplicables, para imp
 
 El Consejo, en el ejercicio de la atribución que le compete para verificar la situación financiera, se sujetará a las disposiciones en materia de información, rendición de cuentas, transparencia y evaluación, establecidas en las disposiciones aplicables.
 
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 207.
 
-La información de la situación bancaria de los servidores públicos del Poder Judicial de la Federación y de los particulares cuando se les pueda atribuir alguna falta administrativa que los vincule a las funciones propias del Poder Judicial de la Federación, se solicitará cuando así se requiera, a juicio del Pleno, del Presidente, o de la Comisión de Vigilancia; así como del titular de la Contraloría, en su caso, quien deberá informarlo previamente al Pleno.
+La información de la situación bancaria de las personas servidoras públicas del Poder Judicial de la Federación y de los particulares cuando se les pueda atribuir alguna falta administrativa que los vincule a las funciones propias del Poder Judicial de la Federación, se solicitará cuando así se requiera, a juicio del Pleno, de la Presidencia, o de la Comisión de Vigilancia; así como de la persona titular de la Contraloría, en su caso, quien deberá informarlo previamente al Pleno.
 
-En el supuesto que los datos e información bancaria proporcionados no fueran suficientes, podrá solicitarse mayor información y datos; de estimarlo necesario el Presidente o la Comisión de Vigilancia decretarán, según corresponda, el inicio del procedimiento de investigación, con objeto de recabar la información que se requiera.
+En el supuesto que los datos e información bancaria proporcionados no fueran suficientes, podrá solicitarse mayor información y datos; de estimarlo necesario la Presidencia o la Comisión de Vigilancia decretarán, según corresponda, el inicio del procedimiento de investigación, con objeto de recabar la información que se requiera.
 
 > <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
@@ -1987,25 +2025,29 @@ En el supuesto que los datos e información bancaria proporcionados no fueran su
 
 En los nombramientos que se expidan se establecerá expresamente que el servidor público al aceptar el cargo conoce y acepta que se lleve a cabo la revisión de su situación patrimonial y de intereses, cuando así se requiera.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 209.
 
-Cuando en ejercicio de la atribución relativa a verificar la situación patrimonial y de intereses del Presidente y de los Consejeros, se solicite información sobre sus registros y situación patrimonial y de intereses por estimarse necesaria, bastará que la persona Titular de la Contraloría dé aviso al Pleno, sin que se requiera someter ese punto a votación.
+Cuando en ejercicio de la atribución relativa a verificar la situación patrimonial y de intereses de la Presidencia y de las personas Consejeras, se solicite información sobre sus registros y situación patrimonial y de intereses por estimarse necesaria, bastará que la persona titular de la Contraloría dé aviso al Pleno, sin que se requiera someter ese punto a votación.
+
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 210.
 
-La documentación, información y datos que proporcionen las dependencias, entidades e instituciones financieras, a solicitud del Pleno, del Presidente, o del titular de la Contraloría, sólo podrán ser utilizados para los fines que corresponden al ejercicio de su facultad para verificar la situación financiera de los servidores públicos y de los particulares cuando se les atribuya alguna falta administrativa que los vincule a las funciones propias del Poder Judicial de la Federación, observando las disposiciones aplicables en materia de transparencia y protección de datos personales.
+La documentación, información y datos que proporcionen las dependencias, entidades e instituciones financieras, a solicitud del Pleno, de la Presidencia, o de la persona titular de la Contraloría, sólo podrán ser utilizados para los fines que corresponden al ejercicio de su facultad para verificar la situación financiera de las personas servidoras públicas y de los particulares cuando se les atribuya alguna falta administrativa que los vincule a las funciones propias del Poder Judicial de la Federación, observando las disposiciones aplicables en materia de transparencia y protección de datos personales.
+
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 211.
 
-El titular de la Contraloría revisará la documentación e información proporcionada e informará directamente al Pleno o al Presidente, según corresponda, a fin de que determine lo conducente.
+La persona titular de la Contraloría revisará la documentación e información proporcionada e informará directamente al Pleno o a la Presidencia, según corresponda, a fin de que determine lo conducente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 212.
 
-La información y datos que se recaben, quedarán en resguardo de las áreas, que el Pleno o el Presidente o la persona Titular de la Contraloría designen, bajo su más estricta responsabilidad.
+La información y datos que se recaben, quedarán en resguardo de las áreas, que el Pleno o la Presidencia o la persona titular de la Contraloría designen, bajo su más estricta responsabilidad.
 
 > <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
@@ -2037,9 +2079,11 @@ En materia de revisión de la situación patrimonial y de intereses, el Pleno ll
 
 Los servidores públicos que en ejercicio de sus funciones tengan conocimiento cierto de alguna situación que pudiera resultar inusual o irregular, relacionada con la situación patrimonial o de intereses de los servidores públicos del Poder Judicial de la Federación, deberá informarlo al Pleno o a la persona Titular de la Contraloría, para que procedan en el ámbito de su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 217.
 
-Cuando de los datos, documentación e información bancaria proporcionados en relación con algún servidor público, el Pleno, el Presidente, la Comisión de Vigilancia, o el titular de la Contraloría, adviertan la existencia de una probable causa de responsabilidad, instruirán al área administrativa que corresponda, para que proceda en el ámbito de su competencia. En su caso, el Pleno, el Presidente o la Comisión de Vigilancia, ordenarán a la Dirección General de Asuntos Jurídicos presentar la denuncia al Ministerio Público de la Federación, y a que informe a la autoridad fiscal, a la Comisión Nacional Bancaria y de Valores, o a la Secretaría de la Función Pública, según corresponda.
+Cuando de los datos, documentación e información bancaria proporcionados en relación con alguna persona servidora pública, el Pleno, la Presidencia, la Comisión de Vigilancia, o la persona titular de la Contraloría, adviertan la existencia de una probable causa de responsabilidad, instruirán al área administrativa que corresponda, para que proceda en el ámbito de su competencia. En su caso, el Pleno, la Presidencia o la Comisión de Vigilancia, ordenarán a la Dirección General de Asuntos Jurídicos presentar la denuncia al Ministerio Público de la Federación, y a que informe a la autoridad fiscal, a la Comisión Nacional Bancaria y de Valores, o a la Secretaría de la Función Pública, según corresponda.
 
 La decisión y resultados derivados de las acciones que se lleven a cabo en el ámbito penal o en materia de responsabilidad administrativa se informarán al Pleno, así como al titular de la Contraloría. En su caso, se harán los registros y anotaciones respectivos.
 
@@ -2115,7 +2159,9 @@ Las solicitudes y procedimientos a que se refieren los artículos 34 y 37 de la 
 
 La materia de las visitas ordinarias se limitará a los aspectos previstos en la Ley Orgánica, en este Acuerdo y demás que determinen el Pleno o la Comisión de Vigilancia.
 
-La materia de las visitas extraordinarias se limitará a los aspectos previstos en la Ley Orgánica, en este Acuerdo y demás que determinen el Presidente y, en su caso, el Pleno.
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+La materia de las visitas extraordinarias se limitará a los aspectos previstos en la Ley Orgánica, en este Acuerdo y demás que determinen la Presidencia y, en su caso, el Pleno.
 
 > <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
@@ -2417,11 +2463,15 @@ En los casos en que de las visitas se adviertan deficiencias formales que no tra
 
 #### SECCIÓN TERCERA. DE LAS VISITAS EXTRAORDINARIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 258.
 
-Las visitas extraordinarias tienen por objeto recabar información y medios de prueba en las investigaciones que ordene el Presidente o la Comisión de Vigilancia.
+Las visitas extraordinarias tienen por objeto recabar información y medios de prueba en las investigaciones que ordene la Presidencia o la Comisión de Vigilancia.
 
-El Pleno, el Presidente o la Comisión de Vigilancia podrán ordenar la práctica de visitas extraordinarias cuando a su juicio existan elementos que hagan presumir irregularidades cometidas por un magistrado de Circuito, juez de Distrito o Juez de Despacho del Centro de Justicia Penal Federal.
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+El Pleno, la Presidencia o la Comisión de Vigilancia podrán ordenar la práctica de visitas extraordinarias cuando a su juicio existan elementos que hagan presumir irregularidades cometidas por una magistrada o magistrado de Circuito, jueza o juez de Distrito o jueza o juez de Despacho del Centro de Justicia Penal Federal.
 
 La Comisión de Carrera Judicial cuando existan elementos que hagan presumible algún comportamiento indebido o mal desempeño de un juzgador durante los primeros seis años de su encargo podrá solicitar la práctica de visitas extraordinarias. En este último supuesto, el Consejero ponente a quien se le haya turnado el expediente de ratificación, presentará un dictamen a la Comisión de Carrera Judicial, exponiendo las razones por las que, a su juicio, se está en el caso de excepción que amerita la práctica de una visita extraordinaria.
 
@@ -2459,9 +2509,11 @@ Las visitas extraordinarias serán practicadas por los Visitadores Judiciales "A
 
 El Visitador General, dentro del término de veinticuatro horas, contadas a partir de que reciba la comunicación a que se refiere el artículo 260 de este Acuerdo, informará por oficio al Visitador que corresponda su designación para la práctica de la visita extraordinaria, al que acompañará las constancias respectivas.
 
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 264.
 
-Las visitas extraordinarias comprenderán únicamente los aspectos encomendados a investigar por el Presidente, el Pleno o la Comisión de Vigilancia. En caso de que durante la práctica de las visitas aconteciere un hecho o acto presumiblemente constitutivo de responsabilidad no relacionado con la materia de la inspección, el visitador podrá practicar las diligencias que estime necesarias para su constatación o corroboración.
+Las visitas extraordinarias comprenderán únicamente los aspectos encomendados a investigar por la Presidencia, el Pleno o la Comisión de Vigilancia. En caso de que durante la práctica de las visitas aconteciere un hecho o acto presumiblemente constitutivo de responsabilidad no relacionado con la materia de la inspección, la o el visitador podrá practicar las diligencias que estime necesarias para su constatación o corroboración.
 
 ###### Artículo 265.
 
@@ -2469,7 +2521,9 @@ El plazo para la práctica de las visitas extraordinarias será hasta de treinta
 
 El Visitador General podrá autorizar una prórroga, por única ocasión, hasta por un término igual al señalado en el párrafo anterior, previo aviso del Visitador Judicial “A”, mediante oficio o por correo electrónico, en el que justifique la petición.
 
-En el supuesto de que el Visitador Judicial “A” que practica la inspección requiera un término mayor a los señalados en los párrafos anteriores, deberá comunicarlo al Visitador General y, éste a su vez, solicitará la autorización del Presidente, del Pleno, o de la Comisión de Vigilancia, según corresponda.
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+En el supuesto de que la o el Visitador Judicial “A” que practica la inspección requiera un término mayor a los señalados en los párrafos anteriores, deberá comunicarlo a la o el Visitador General y, éste a su vez, solicitará la autorización de la Presidencia, del Pleno o de la Comisión de Vigilancia, según corresponda.
 
 En la comunicación se precisará el nuevo periodo que se solicita y se expresarán las razones para ello.
 
@@ -3282,3 +3336,11 @@ D.O.F. 16 DE ENERO DE 2023.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 7 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
