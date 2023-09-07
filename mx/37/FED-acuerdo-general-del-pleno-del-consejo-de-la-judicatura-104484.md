@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2023-01-16"
+last_updated: "2023-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE SEPTIEMBRE DE 2023.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -107,9 +107,9 @@ IV. Bis. Constancias: Acuses de recibo o documentos que acrediten la recepción 
 
 V. Constitución: Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
-V. Bis. Coordinación de Asesores: Coordinación de Asesores de la Presidencia;
+V. Bis. Coordinación General: Coordinación General de Planeación Institucional;
 
 > <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
@@ -309,15 +309,21 @@ Se exceptúa de esta disposición a los tribunales laborales federales de asunto
 
 En los casos a que se refieren las fracciones XIII y XIV del artículo anterior, las y los titulares de los juzgados de Distrito, de los tribunales laborales federales, así como la presidenta o presidente de los Tribunales Colegiados de Circuito o de Apelación deberán comunicar de inmediato la suspensión o la imposibilidad de funcionamiento del órgano jurisdiccional por causa de fuerza mayor, a la Secretaría Ejecutiva del Pleno, a través de cualquier medio y por oficio dentro de las veinticuatro horas siguientes, del cual el o la titular de dicha Secretaría dará cuenta al Pleno, en su próxima sesión.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON LA SUSPENSIÓN DE LABORES, D.O.F. 24 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 10 Bis.
 
-En casos urgentes que perturben el funcionamiento de los órganos jurisdiccionales; pongan en riesgo la seguridad de los visitantes, de quienes vayan a comparecer en los juicios o de los servidores públicos del Poder Judicial de la Federación; a fin de salvaguardar la seguridad, el Ministro Presidente podrá acordar la suspensión de labores.
+En casos urgentes que perturben el funcionamiento de los órganos jurisdiccionales; pongan en riesgo la seguridad de los visitantes, de quienes vayan a comparecer en los juicios o de las personas servidoras públicas del Poder Judicial de la Federación; a fin de salvaguardar la seguridad, la Presidencia podrá acordar la suspensión de labores.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON LA SUSPENSIÓN DE LABORES, D.O.F. 24 DE AGOSTO DE 2016)</small>
 
 La suspensión acordada se hará del conocimiento de los titulares de los órganos jurisdiccionales, a través de un comunicado oficial suscrito por el titular de la Secretaría Ejecutiva del Pleno. El aviso correspondiente se subirá a la página de internet del Consejo y de estimarse necesario, se difundirá por medios tecnológicos. Para tal efecto, el titular de la Dirección General de Tecnologías de la Información proporcionará el apoyo que se requiera.
 
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON LA SUSPENSIÓN DE LABORES, D.O.F. 24 DE AGOSTO DE 2016)</small>
+
 El titular de la Secretaría Ejecutiva de Administración, a través de la administración regional que corresponda, mantendrá contacto con los titulares de los órganos jurisdiccionales.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON LA SUSPENSIÓN DE LABORES, D.O.F. 24 DE AGOSTO DE 2016)</small>
 
 De la determinación acordada, tomará conocimiento el Pleno en su próxima sesión.
 
@@ -407,9 +413,105 @@ Los tribunales laborales federales de asuntos individuales suspenderán las guar
 
 El tribunal laboral federal de asuntos colectivos funcionará las veinticuatro horas de todos los días del año para atender los procedimientos de huelga, por lo que las y los titulares de dicho órgano jurisdiccional deberán notificar a la Comisión de Carrera Judicial, por conducto de la Secretaría Técnica de Carrera Judicial, la persona titular que gozará de las vacaciones y el período correspondiente.
 
-### CAPÍTULO CUARTO. SISTEMA DE REGISTRO Y CONTROL DE GUARDIAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES RELATIVAS A LAS VACACIONES DE LOS JUZGADOS DE DISTRITO, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
-### CAPÍTULO QUINTO. OFICINAS DE CORRESPONDENCIA COMÚN
+### CAPÍTULO TERCERO TER. PERÍODOS VACACIONALES DE JUZGADOS DE DISTRITO
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES RELATIVAS A LAS VACACIONES DE LOS JUZGADOS DE DISTRITO, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 16 Sexies.
+
+Las vacaciones de los Juzgados de Distrito, de conformidad con los artículos 140, 141 y 142 de la Ley Orgánica serán quincenales, que tendrán que tomarse en los periodos siguientes:
+
+I. Para el periodo de verano: en la segunda quincena de julio y la primera quincena de agosto.
+
+II. Para el periodo de invierno: en la segunda quincena de diciembre y la primera quincena de enero.
+
+La Comisión de Carrera Judicial emitirá anualmente un calendario de vacaciones, en el que establecerá el periodo en que corresponde a cada Juzgado de Distrito gozar de su periodo vacacional. Se procurará que el órgano que goce de su periodo vacacional en julio o diciembre, al siguiente año lo tome en agosto o enero, según corresponda. Se dará plena difusión al calendario entre el público general y las personas servidoras públicas.
+
+De manera excepcional, la Comisión de Carrera Judicial puede autorizar una quincena diversa para el periodo vacacional correspondiente, atendiendo a las cargas de trabajo o al número de órganos jurisdiccionales en cada ciudad. Siempre que existan motivos justificados, los titulares pueden permutar entre sí el periodo vacacional que les corresponda a sus juzgados, lo que será puesto a consideración de la Comisión con la anticipación de hasta tres meses previos al inicio del periodo, para su aprobación y difusión.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES RELATIVAS A LAS VACACIONES DE LOS JUZGADOS DE DISTRITO, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 16 Septies.
+
+Los Juzgados de Distrito cerrarán en el periodo vacacional que les corresponda, pero dejarán una Guardia Vacacional en los términos del artículo siguiente.
+
+No podrán gozar de su periodo vacacional al mismo tiempo todos los Juzgados de un Distrito con misma competencia, sino que deberá permanecer en funcionamiento ordinario un porcentaje que garantice la adecuada prestación del servicio de impartición de justicia, lo cual será aprobado anualmente por la Comisión de Carrera Judicial o, en su caso, por la Comisión de Receso del Consejo de la Judicatura Federal.
+
+Lo dispuesto en los párrafos anteriores no es aplicable en las sedes en las que exista un Juzgado de Distrito único. El periodo vacacional en este tipo de órganos será de manera interna y escalonada en los meses de julio, agosto, diciembre y enero, por lo que cada titular deberá organizar, autorizar y notificar los periodos correspondientes de cada servidor público, al menos tres meses antes de su inicio. Su modificación procede en casos plenamente justificados o de fuerza mayor, procurando respetar el periodo originalmente asignado.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES RELATIVAS A LAS VACACIONES DE LOS JUZGADOS DE DISTRITO, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 16 Octies.
+
+Se crea una Guardia Vacacional en los Juzgados de Distrito con las facultades siguientes:
+
+I. Dar seguimiento a las suspensiones de plano, suspensiones provisionales o medidas cautelares de cualquier materia, que se hayan dictado en el Juzgado en asuntos iniciados antes del periodo vacacional.
+
+II. Integrar el incidente de suspensión, celebrar la audiencia incidental correspondiente y resolver sobre la suspensión definitiva en los juicios de amparo iniciados con anterioridad al comienzo del periodo vacacional, donde la programación de la audiencia respectiva coincida con éste.
+
+III. Recibir y tramitar el recurso de queja previsto en el artículo 97, fracción I, inciso b), de la Ley de Amparo.
+
+IV. Resolver la situación jurídica de las personas procesadas en asuntos tramitados conforme al Código Federal de Procedimientos Penales abrogado.
+
+V. Emitir otro tipo de determinaciones análogas, tanto en materia de amparo como en otras materias, cuando por su especial naturaleza de premura no pueda esperar al reinicio de las labores del órgano.
+
+Dicha Guardia Vacacional no tiene facultades para recibir asuntos nuevos, ni de los cuales deban conocer los juzgados que no gozan su periodo vacacional; tampoco puede dar el trámite normal a los asuntos del conocimiento del órgano, celebrar audiencias principales o incidentales dentro del cuaderno principal, no puede resolver en definitiva los juicios, ni dictar otro tipo de determinaciones no incluidas en este artículo; solamente puede dar atención al público en los asuntos de la competencia de la Guardia Vacacional pero no de los restantes.
+
+Lo anterior sin perjuicio que el personal de la Guardia Vacacional, durante su jornada laboral, que será presencial, deberá realizar las actividades propias de su cargo, asignadas por su superior jerárquico que correspondan con la organización interna del órgano jurisdiccional.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES RELATIVAS A LAS VACACIONES DE LOS JUZGADOS DE DISTRITO, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 16 Nonies.
+
+La Guardia Vacacional en los Juzgados de Distrito será nombrada por cada titular y estará integrada de la siguiente forma:
+
+I. Una persona secretaria encargada del despacho.
+
+II. Una persona secretaria que dé fe.
+
+III. Una persona actuaria judicial.
+
+IV. Dos personas oficiales judiciales.
+
+V. Todas aquellas personas que no tengan derecho a gozar del periodo vacacional conforme a la normativa aplicable.
+
+Los integrantes de la Guardia Vacacional laborarán presencialmente y gozarán de su respectivo periodo de vacaciones, en caso de tener derecho a éste, la quincena que determine cada titular del órgano jurisdiccional dentro de los meses de julio, agosto, diciembre y enero, incluso de forma escalonada.
+
+Las y los secretarios proyectistas excepcionalmente podrán ser designados como encargados del despacho, cuando en el órgano no exista otra persona secretaria de juzgado que cumpla los requisitos constitucionales y legales para ser designada. Lo cual deberá ser valorado y autorizado por la Comisión de Carrera Judicial.
+
+Las Coordinaciones de los Juzgados de Distrito en cada ciudad deberán recabar entre los titulares, los nombres de las personas que integrarán la Guardia Vacacional en cada Juzgado y deberán remitir la información concentrada a la Comisión de Carrera Judicial, a más tardar tres meses antes del inicio del periodo, para que se realice la autorización correspondiente de la persona encargada del despacho y se tome registro del resto del personal.
+
+Solo por razones plenamente justificadas o de fuerza mayor, las y los titulares de los órganos jurisdiccionales podrán proponer la modificación de los integrantes de la Guardia Vacacional en los Juzgados de Distrito, lo que será valorado y autorizado por la Comisión de Carrera Judicial o la Comisión de Receso del Consejo de la Judicatura Federal, según corresponda.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES RELATIVAS A LAS VACACIONES DE LOS JUZGADOS DE DISTRITO, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 16 Decies.
+
+Se suspenden los plazos y términos en los Juzgados de Distrito cuando se encuentren de vacaciones, con excepción de los previstos para el seguimiento de los asuntos del conocimiento de la Guardia Vacacional en los Juzgados de Distrito.
+
+En el resto de los Juzgados de Distrito que no se encuentren de vacaciones los plazos contarán de manera ordinaria.
+
+Los órganos jurisdiccionales que estén próximos a disfrutar de su periodo vacacional deberán publicar el calendario respectivo, treinta días antes de su inicio, en un lugar visible en los estrados del recinto y en los lugares más visibles en el edificio de su sede. Asimismo, deberán certificar que se cumplió con dicha publicación.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES RELATIVAS A LAS VACACIONES DE LOS JUZGADOS DE DISTRITO, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 16 Undecies. Las oficinas de correspondencia común de los Juzgados de Distrito funcionarán durante el año de manera continua en los horarios autorizados, por lo que el personal programará sus vacaciones a que tengan derecho, conforme a las necesidades del servicio, atendiendo lo previsto en el Capítulo Quinto de este Título.
+
+Para el turno de los asuntos ordinarios de nuevo ingreso se excluirá a los órganos jurisdiccionales que gocen de su periodo vacacional. Dichos asuntos se turnarán aleatoriamente entre los órganos jurisdiccionales que permanecen laborando. Las cargas de trabajo se compensarán cuando aquéllos se reincorporen a sus actividades ordinarias. En caso de que se turne un asunto que tenga relación por conocimiento previo con un Juzgado de Distrito que goce de su periodo vacacional, se remitirá una vez que éste se incorpore a sus labores ordinarias.
+
+Las oficinas de correspondencia común dejarán de turnar asuntos nuevos a los Juzgados de Distrito que estén próximos a disfrutar de su periodo vacacional, a partir de las 14:31 horas del penúltimo día de labores.
+
+Las oficinas de correspondencia común no recibirán promociones físicas en ventanilla, ni en los buzones judiciales, dirigidas a los órganos jurisdiccionales que se encuentren gozando de su periodo vacacional. Las promociones que encuadren en los supuestos de la Guardia Vacacional se deberán presentar directamente ante el órgano jurisdiccional correspondiente, por conducto del secretario respectivo, quien deberá laborar de manera presencial en el órgano jurisdiccional.
+
+Tampoco se deberán presentar promociones electrónicas que no encuadren en los supuestos de la Guardia Vacacional a través del Portal de Servicios en Línea del Poder Judicial de la Federación, ni a través del Sistema Integral de Seguimiento de Expedientes, cuando el juzgado correspondiente goce de su periodo vacacional. En caso de que se presente una promoción electrónica que no sea de la competencia de la referida Guardia, será atendida hasta el regreso del periodo respectivo. El personal de la Guardia Vacacional debe revisar diariamente el buzón electrónico a efecto de recibir y tramitar únicamente las promociones de su competencia.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES RELATIVAS A LAS VACACIONES DE LOS JUZGADOS DE DISTRITO, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 16 Duodecies. Las disposiciones de este capítulo no son aplicables para los órganos adscritos a los Centros de Justicia Penal Federal, al Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones, ni a los Tribunales Laborales Federales de Asuntos Individuales y Colectivos.
+
+### CAPÍTULO CUARTO. SISTEMA DE REGISTRO Y CONTROL DE GUARDIAS
 
 ###### Artículo 17.
 
@@ -447,9 +549,7 @@ Lo no previsto en este Capítulo, así como cualquier consulta, será resuelto p
 
 > <small>N. DE E. EL ACUERDO, EXPEDIDO POR EL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 21 DE MAYO DE 2015, MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE CAPÍTULO.</small>
 
-### CAPÍTULO SEXTO. UNIDADES DE NOTIFICADORES COMUNES
-
-> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+### CAPÍTULO QUINTO. OFICINAS DE CORRESPONDENCIA COMÚN
 
 #### SECCIÓN PRIMERA. NATURALEZA Y FUNCIONES
 
@@ -1117,11 +1217,11 @@ Para los asuntos depositados en los buzones judiciales, de los que genere un fol
 
 En caso de que el promovente solicite la impresión de la boleta de turno, la oficina de correspondencia común le hará entrega de un ejemplar de ésta.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 56.
 
-Los demás elementos relativos al funcionamiento de los buzones judiciales se regularán en un protocolo que al efecto emita la Coordinación de Asesores de la Presidencia, a propuesta de la Dirección General de Gestión Judicial, en conjunto con la Secretaría Ejecutiva de Creación de Nuevos Órganos.
+Los demás elementos relativos al funcionamiento de los buzones judiciales se regularán en un protocolo que al efecto emita la Coordinación General, a propuesta de la Dirección General de Gestión Judicial, en conjunto con la Secretaría Ejecutiva de Creación de Nuevos Órganos.
 
 #### SECCIÓN DÉCIMA SEGUNDA. TURNO DE ASUNTOS DURANTE LOS PERIODOS VACACIONALES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
@@ -1189,9 +1289,9 @@ V. No estar inhabilitado para desempeñar empleo, cargo o comisión en el servic
 
 La Dirección General de Gestión Judicial solicitará a la Dirección General de Recursos Humanos, a las administraciones regionales y delegaciones administrativas de la Coordinación de Administración Regional, según corresponda, la aplicación de los exámenes de conocimientos y psicométricos a los candidatos a ocupar las plazas en las oficinas de correspondencia común, así como su evaluación.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
-Los exámenes serán los que determine la Comisión de Administración a propuesta que haga la Dirección General de Gestión Judicial, previo visto bueno de la persona titular de la Coordinación de Asesores de la Presidencia.
+Los exámenes serán los que determine la Comisión de Administración a propuesta que haga la Dirección General de Gestión Judicial, previo visto bueno de la persona titular de la Coordinación General.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -1201,11 +1301,11 @@ Las personas que hayan causado baja en los cargos de jefe de oficina de correspo
 
 #### SECCIÓN DÉCIMA CUARTA. NOMBRAMIENTO DEL PERSONAL Y OTORGAMIENTO DE LICENCIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 62.
 
-La Dirección General de Gestión Judicial previo visto bueno de la persona titular de la Coordinación de Asesores de la Presidencia, propondrá los nombramientos del personal de las oficinas de correspondencia común a la Comisión de Administración, de entre las y los aspirantes que hayan aprobado los exámenes respectivos y cumplan los requisitos del puesto previstos en el catálogo correspondiente; asimismo, autorizará las prórrogas de nombramientos. Las administraciones regionales y delegaciones administrativas de la Coordinación de Administración Regional, así como la Dirección General de Recursos Humanos, según corresponda, elaborarán y suscribirán los movimientos del personal de conformidad con las disposiciones aplicables. La Dirección General de Recursos Humanos enviará a la Dirección General de Gestión Judicial copia del nombramiento y demás movimientos del personal y conservará a su disposición los expedientes que se integren.
+La Dirección General de Gestión Judicial previo visto bueno de la persona titular de la Coordinación General propondrá los nombramientos del personal de las oficinas de correspondencia común a la Comisión de Administración, de entre las y los aspirantes que hayan aprobado los exámenes respectivos y cumplan los requisitos del puesto previstos en el catálogo correspondiente; asimismo, autorizará las prórrogas de nombramientos. Las administraciones regionales y delegaciones administrativas de la Coordinación de Administración Regional, así como la Dirección General de Recursos Humanos, según corresponda, elaborarán y suscribirán los movimientos del personal de conformidad con las disposiciones aplicables. La Dirección General de Recursos Humanos enviará a la Dirección General de Gestión Judicial copia del nombramiento y demás movimientos del personal y conservará a su disposición los expedientes que se integren.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -1229,11 +1329,11 @@ En caso de ausencia menor de tres días, y durante los periodos vacacionales de 
 
 Tratándose de la ausencia de una o un técnico de enlace administrativo OCC por un plazo igual al antes referido y durante los periodos vacacionales, sus funciones serán cubiertas por la jefa o el jefe de la oficina y los demás técnicos de enlace administrativos OCC. En caso de que no los hubiere las y los titulares de los órganos jurisdiccionales, a los que presta servicio la unidad administrativa de que se trate, comisionarán provisionalmente, de entre su plantilla de personal, a la o el servidor público que deberá auxiliar a la oficina de correspondencia común en sus labores, dando aviso a la Dirección General de Gestión Judicial.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 65.
 
-La Dirección General de Gestión Judicial, previo visto bueno de la persona titular de la Coordinación de Asesores de la Presidencia, autorizará las licencias del personal de las oficinas de correspondencia común de conformidad con las disposiciones aplicables.
+La Dirección General de Gestión Judicial, previo visto bueno de la persona titular de la Coordinación General, autorizará las licencias del personal de las oficinas de correspondencia común de conformidad con las disposiciones aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -1259,11 +1359,11 @@ Si con motivo de la supervisión al funcionamiento de las oficinas de correspond
 
 Lo anterior con independencia de las responsabilidades que en materia penal, civil y laboral, se pudieran actualizar.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 69.
 
-La remoción de las personas servidoras públicas de las oficinas de correspondencia común, cuando se incumpla con las obligaciones inherentes al puesto en que se desempeña, de conformidad con las disposiciones aplicables, corresponde a la Comisión de Administración previo dictamen que para el efecto presente la Dirección General de Gestión Judicial, el cual deberá contar con el visto bueno de la persona titular de la Coordinación de Asesores de la Presidencia.
+La remoción de las personas servidoras públicas de las oficinas de correspondencia común, cuando se incumpla con las obligaciones inherentes al puesto en que se desempeña, de conformidad con las disposiciones aplicables, corresponde a la Comisión de Administración previo dictamen que para el efecto presente la Dirección General de Gestión Judicial, el cual deberá contar con el visto bueno de la persona titular de la Coordinación General.
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -1373,9 +1473,9 @@ El personal de las oficialías de partes de los tribunales laborales federales q
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
-### CAPÍTULO SÉPTIMO. DEL COORDINADOR TÉCNICO ADMINISTRATIVO
+### CAPÍTULO SEXTO. UNIDADES DE NOTIFICADORES COMUNES
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)</small>
+> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
 #### SECCIÓN PRIMERA. CREACIÓN, NATURALEZA Y FUNCIONAMIENTO
 
@@ -1389,7 +1489,9 @@ Las UNC no podrán realizar notificaciones de diversa naturaleza a las señalada
 
 Los magistrados y magistradas de Circuito o jueces y juezas de Distrito, por sí o a través de las y los coordinadores, podrán solicitar a la Dirección General de Gestión Judicial, la creación de las UNC que consideren necesarias en el Circuito o entidad federativa.
 
-Dicha Dirección General, con visto bueno de la Coordinación de Asesores, y en atención a los estudios señalados en el artículo 84, someterá a consideración de la Comisión de Administración la propuesta para su aprobación.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+Dicha Dirección General, con visto bueno de la Coordinación General y en atención a los estudios señalados en el artículo 84, someterá a consideración de la Comisión de Administración la propuesta para su aprobación.
 
 > <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
@@ -1635,7 +1737,9 @@ II. La Dirección General de Comunicación Social y Vocería colaborará en el d
 
 III. Las personas aspirantes que cubran el perfil requerido y obtengan un resultado satisfactorio en el proceso de evaluación, se incorporarán a un listado de candidaturas para ingresar a alguna de las UNC, de acuerdo con el número de vacantes disponibles;
 
-IV. La Dirección General de Gestión Judicial tramitará ante la Dirección General de Recursos Humanos previo visto bueno de la persona titular de la Coordinación de Asesores de la Presidencia, la expedición de nombramientos de las y los candidatos para ocupar las plazas vacantes de las UNC; así como determinar la prórroga de los nombramientos respectivos; y la remoción del personal adscrito a dichas unidades;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+IV. La Dirección General de Gestión Judicial tramitará ante la Dirección General de Recursos Humanos previo visto bueno de la persona titular de la Coordinación General, la expedición de nombramientos de las y los candidatos para ocupar las plazas vacantes de las UNC; así como determinar la prórroga de los nombramientos respectivos; y la remoción del personal adscrito a dichas unidades;
 
 V. En caso de que exista un mayor número de personas con resultados satisfactorios, la Dirección General de Gestión Judicial será responsable de mantener un registro de personas aspirantes para proponer como candidatas en caso de que posteriormente se tenga una vacante disponible, siempre y cuando la vigencia de su evaluación no exceda el plazo de un año y cumpla con los requisitos del puesto previstos en el Manual General de Puestos del Consejo de la Judicatura Federal;
 
@@ -1653,11 +1757,11 @@ La Dirección General de Gestión Judicial solicitará a su homóloga de Recurso
 
 #### SECCIÓN CUARTA. OTORGAMIENTO DE LICENCIAS Y PERIODOS VACACIONALES
 
-> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 92 Quater.
 
-La Dirección General de Gestión Judicial, previo visto bueno de la Coordinación de Asesores, autorizará las licencias del personal de las UNC, conforme a lo dispuesto por la Ley Orgánica.
+La Dirección General de Gestión Judicial, previo visto bueno de la Coordinación General, autorizará las licencias del personal de las UNC, conforme a lo dispuesto por la Ley Orgánica.
 
 > <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
@@ -1677,11 +1781,11 @@ La Dirección General de Gestión Judicial si con motivo de la supervisión al f
 
 Lo anterior, con independencia de las responsabilidades que en materia penal, civil y laboral pudieran configurarse.
 
-> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 92 Septies.
 
-La remoción de las servidoras y los servidores públicos de las UNC corresponde a la Comisión de Administración, previo dictamen que para el efecto presente la Dirección General de Gestión Judicial, por conducto de la Coordinación de Asesores, cuando se incumpla con las obligaciones inherentes al puesto en que se desempeña, de conformidad con las disposiciones aplicables.
+La remoción de las personas servidoras públicas de las UNC corresponde a la Comisión de Administración, previo dictamen que para el efecto presente la Dirección General de Gestión Judicial, por conducto de la Coordinación General cuando se incumpla con las obligaciones inherentes al puesto en que se desempeña, de conformidad con las disposiciones aplicables.
 
 > <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
@@ -1689,9 +1793,9 @@ La remoción de las servidoras y los servidores públicos de las UNC corresponde
 
 Las cuestiones no previstas en este Capítulo serán resueltas por la Comisión de Administración, la que, de estimarlo conveniente, podrá someter el asunto a la consideración del Pleno.”
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO SÉPTIMO. DEL COORDINADOR TÉCNICO ADMINISTRATIVO
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)</small>
 
 ###### Artículo 93.
 
@@ -1775,9 +1879,9 @@ En caso de que el o los titulares del órgano jurisdiccional detecten deficienci
 
 ## TÍTULO TERCERO. LIBROS DE CONTROL ELECTRÓNICO
 
-### CAPÍTULO SEGUNDO. LIBROS PARA JUZGADOS DE DISTRITO Y TRIBUNALES LABORALES FEDERALES
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 99.
 
@@ -1831,9 +1935,9 @@ El incumplimiento de lo previsto en este Título será sancionado en los términ
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
-### CAPÍTULO TERCERO. LIBROS PARA LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y SUS CARACTERÍSTICAS
+### CAPÍTULO SEGUNDO. LIBROS PARA JUZGADOS DE DISTRITO Y TRIBUNALES LABORALES FEDERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 102.
 
@@ -2571,7 +2675,9 @@ Este libro se llevará conforme a la tabla número catorce del anexo de este Acu
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
 
-### CAPÍTULO CUARTO. LIBROS PARA LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y SUS CARACTERÍSTICAS
+### CAPÍTULO TERCERO. LIBROS PARA LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y SUS CARACTERÍSTICAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 134.
 
@@ -2915,9 +3021,7 @@ Este libro se llevará conforme a la tabla número doce del anexo de este Acuerd
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-### CAPÍTULO QUINTO. LIBROS PARA CENTROS DE JUSTICIA PENAL FEDERAL
-
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+### CAPÍTULO CUARTO. LIBROS PARA LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y SUS CARACTERÍSTICAS
 
 ###### Artículo 149.
 
@@ -3279,19 +3383,9 @@ También podrán anotarse la letra o el número con los que se identifique inter
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-### CAPÍTULO SEXTO. LIBROS PARA LOS PLENOS REGIONALES Y SUS CARACTERÍSTICAS
+### CAPÍTULO QUINTO. LIBROS PARA CENTROS DE JUSTICIA PENAL FEDERAL
 
-> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 67/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
-
-Artículo 173 Tricies. Los libros de control obligatorios para los Plenos Regionales son los siguientes:
-
-I. Libro uno: Registro de contradicciones de criterios;
-
-II. Libro dos: Registro de conflictos competenciales; y
-
-III. Libro tres: Registro de solicitudes de declaratoria general de inconstitucionalidad.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 67/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 169.
 
@@ -5089,9 +5183,19 @@ Este libro se llevará conforme a la tabla número cincuenta y siete del anexo d
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 67/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO SEXTO. LIBROS PARA LOS PLENOS REGIONALES Y SUS CARACTERÍSTICAS
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 67/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
+
+Artículo 173 Tricies. Los libros de control obligatorios para los Plenos Regionales son los siguientes:
+
+I. Libro uno: Registro de contradicciones de criterios;
+
+II. Libro dos: Registro de conflictos competenciales; y
+
+III. Libro tres: Registro de solicitudes de declaratoria general de inconstitucionalidad.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 67/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
 
 #### SECCIÓN PRIMERA. LIBRO UNO DE CONTRADICCIONES DE CRITERIOS
 
@@ -5243,9 +5347,9 @@ Este libro se llevará conforme a la tabla número sesenta del anexo de este Acu
 
 ## TÍTULO CUARTO. SISTEMAS DE GESTIÓN JUDICIAL
 
-### CAPÍTULO SEGUNDO. DEL PERSONAL ADSCRITO A LOS ÓRGANOS JURISDICICONALES (SIC) ENCARGADO DEL SISE Y DEMÁS SISTEMAS DE GESTIÓN JUDICIAL
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 174.
 
@@ -5293,9 +5397,9 @@ Corresponde a la DGTI solucionar los problemas técnicos que surjan con motivo d
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-### CAPÍTULO TERCERO. REPORTES ESTADÍSTICOS
+### CAPÍTULO SEGUNDO. DEL PERSONAL ADSCRITO A LOS ÓRGANOS JURISDICICONALES (SIC) ENCARGADO DEL SISE Y DEMÁS SISTEMAS DE GESTIÓN JUDICIAL
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 180.
 
@@ -5413,7 +5517,7 @@ La supervisión del registro diario de movimientos de los juicios de amparo, pro
 
 La o las personas servidoras públicas que no cumplan con las funciones encomendadas, serán removidas de su cargo, bajo el procedimiento de separación del cargo previsto en la normativa correspondiente, por la persona titular o presidenta del órgano jurisdiccional de que se trate, quien suscribirá y tramitará el aviso de baja correspondiente ante la Dirección General de Recursos Humanos o, en su caso, a través de la Administración Regional o Delegación Administrativa respectiva, y lo hará del conocimiento de la DGGJ.
 
-### CAPÍTULO CUARTO. SENTENCIAS Y TESIS
+### CAPÍTULO TERCERO. REPORTES ESTADÍSTICOS
 
 > <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
@@ -5435,9 +5539,9 @@ Los órganos jurisdiccionales que no cuenten con el módulo “Reportes Estadís
 
 La Visitaduría Judicial, con motivo de las visitas de inspección que se realicen a los órganos jurisdiccionales, supervisará que el envío de los informes estadísticos mensuales, relativos a los movimientos de los asuntos del conocimiento de los órganos jurisdiccionales, se haga de manera oportuna y verificará, en su caso, por muestreo que la información almacenada corresponda fielmente con su contenido.
 
-### CAPÍTULO QUINTO. SISE CONTROL BIOMÉTRICO
+### CAPÍTULO CUARTO. SENTENCIAS Y TESIS
 
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 191.
 
@@ -5469,7 +5573,9 @@ La Dirección General de Gestión Judicial será la responsable de vigilar el co
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
 
-### CAPÍTULO SEXTO. PUBLICACIÓN DE LISTAS DE ACUERDOS
+### CAPÍTULO QUINTO. SISE CONTROL BIOMÉTRICO
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 197.
 
@@ -5565,9 +5671,7 @@ La Secretaría Ejecutiva de Vigilancia, en el ámbito de su competencia, verific
 
 El Pleno resolverá cualquier cuestión que pudiera suscitarse con motivo de la aplicación de este Capítulo.
 
-### CAPÍTULO SÉPTIMO. PUBLICACIÓN DEL LISTADO DE CAPTURA DE DATOS
-
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+### CAPÍTULO SEXTO. PUBLICACIÓN DE LISTAS DE ACUERDOS
 
 ###### Artículo 207.
 
@@ -5601,9 +5705,9 @@ Las listas de acuerdos publicadas electrónicamente tienen validez legal suficie
 
 La Comisión de Vigilancia y la Visitaduría Judicial, en el ámbito de sus respectivas competencias, vigilarán el debido cumplimiento de lo dispuesto en el presente Capítulo.
 
-### CAPÍTULO OCTAVO. INFORMACIÓN ESTADÍSTICA JUDICIAL Y GEOREFERENCIADA
+### CAPÍTULO SÉPTIMO. PUBLICACIÓN DEL LISTADO DE CAPTURA DE DATOS
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 212.
 
@@ -5627,7 +5731,9 @@ Los listados de captura a que se refieren los artículos anteriores, quedarán a
 
 Los órganos jurisdiccionales, deberán mantener actualizados los registros de datos de los expedientes a su cargo en el SISE o SIGE, según corresponda.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO OCTAVO. INFORMACIÓN ESTADÍSTICA JUDICIAL Y GEOREFERENCIADA
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 216.
 
@@ -5783,8 +5889,6 @@ Las situaciones no previstas en este Capítulo, serán resueltas por el Pleno, s
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2017)</small>
-
 ###### Artículo 239.
 
 Las publicaciones de edictos son procedentes:
@@ -5887,9 +5991,9 @@ La Coordinación de Administración Regional y la Dirección General de Comunica
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE JUNIO DE 2017)</small>
 
-### CAPÍTULO PRIMERO. DE LOS PRINCIPIOS RECTORES, DEL EXPEDIENTE ELECTRÓNICO Y OTRAS SOLUCIONES DIGITALES
+### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2017)</small>
 
 ###### Artículo 248.
 
@@ -5913,7 +6017,7 @@ La versión pública del proyecto de resolución de que se trate será generada 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-### CAPÍTULO SEGUNDO. DE LA ATENCIÓN A TRAVÉS DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES
+### CAPÍTULO PRIMERO. DE LOS PRINCIPIOS RECTORES, DEL EXPEDIENTE ELECTRÓNICO Y OTRAS SOLUCIONES DIGITALES
 
 > <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
@@ -6005,7 +6109,7 @@ Las personas servidoras públicas, adscritas a órganos jurisdiccionales, deber�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-### CAPÍTULO TERCERO. TRAMITACIÓN ELECTRÓNICA EN EL JUICIO EN LÍNEA
+### CAPÍTULO SEGUNDO. DE LA ATENCIÓN A TRAVÉS DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES
 
 > <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
@@ -6025,7 +6129,7 @@ Las administraciones de los edificios sede del Poder Judicial de la Federación 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-### CAPÍTULO CUARTO. DE LA FORMACIÓN DEL DUPLICADO DE LOS INCIDENTES DE SUSPENSIÓN
+### CAPÍTULO TERCERO. TRAMITACIÓN ELECTRÓNICA EN EL JUICIO EN LÍNEA
 
 > <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
@@ -6048,6 +6152,10 @@ V. Las constancias recibidas físicamente deberán coincidir con las incorporada
 Los reportes e informes para las visitas, para estadística y para cualquier fin oficial ante el Consejo se generarán de manera automática a partir de los registros y de los datos que contienen los sistemas de gestión judicial que operan en los órganos jurisdiccionales. Para estos fines, cualquier documento o registro físico de seguimiento implementado por el órgano jurisdiccional, así como los sistemas diversos a los institucionalmente establecidos no se considerarán como información oficial.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+### CAPÍTULO CUARTO. DE LA FORMACIÓN DEL DUPLICADO DE LOS INCIDENTES DE SUSPENSIÓN
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 264.
 
@@ -6768,3 +6876,35 @@ D.O.F. 16 DE ENERO DE 2023.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 7 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 7 DE SEPTIEMBRE DE 2023
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES RELATIVAS A LAS VACACIONES DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las disposiciones de este Acuerdo General serán aplicables a partir del periodo vacacional de invierno de 2023, conforme al calendario que debe aprobar la Comisión de Carrera Judicial a más tardar dentro de los treinta días naturales siguientes a la aprobación del presente Acuerdo; para lo cual puede modificarse el calendario de guardias para la presente anualidad.
+
+CUARTO. Los calendarios anuales de vacaciones se emitirán por parte de la Comisión de Carrera Judicial, en colaboración con la Visitaduría Judicial, la Secretaría Ejecutiva de Creación de Nuevos Órganos y las Direcciones Generales de Estadística Judicial y Gestión Judicial, dentro de los primeros dos meses de cada año.
+
+QUINTO. Cuando por disposición del Pleno del Consejo de la Judicatura Federal se apruebe la creación, extinción o modificación de algún Juzgado de Distrito, deberá presentarse el proyecto de modificación del calendario de vacaciones correspondiente, donde se incluya o excluya a dicho órgano.
+
+SEXTO. Para la programación de las visitas ordinarias de inspección en los Juzgados de Distrito y las fechas de rendición del Informe Circunstanciado, la Visitaduría Judicial deberá tomar en cuenta los calendarios de vacaciones.
+
+SÉPTIMO. La Secretaría Ejecutiva de Creación de Nuevos Órganos tomará en cuenta el calendario vacacional a efecto de que coincida con el calendario de guardias de los Juzgados de Distrito que emite anualmente.
+
+OCTAVO. El órgano jurisdiccional que se encuentre gozando su periodo vacacional en las fechas en las que corresponda rendir el informe estadístico mensual a la Dirección General de Estadística Judicial, contará con un plazo de 5 días naturales para remitirlo, contados a partir de que se reincorpore a sus labores.
+
+NOVENO. Se instruye a la Dirección General de Tecnologías de la Información y a la Dirección General de Gestión Judicial del Consejo de la Judicatura Federal, para que a más tardar a los dos meses después de la entrada en vigor del presente Acuerdo, realicen los ajustes necesarios en el Sistema Integral de Seguimiento de Expedientes y en el Portal de Servicios en Línea del Poder Judicial de la Federación, a efecto de que las partes que pretendan presentar una promoción electrónica dirigida a un Juzgados (sic) de Distrito que se encuentre gozando de su periodo vacacional conforme al calendario, sean informadas que únicamente se dará trámite si corresponde a los supuestos de la Guardia Vacacional, en caso contrario, será atendida hasta el regreso de actividades del órgano jurisdiccional, así como para que se informe que no corren plazos ni términos durante el periodo vacacional de cada juzgado en asuntos que no son competencia de la referida Guardia.
+
+DÉCIMO. Se instruye a la Dirección General de Comunicación Social del Consejo de la Judicatura Federal para que realice las campañas necesarias para dar plena difusión al contenido del presente Acuerdo y el calendario anexo entre los integrantes de la sociedad y el foro jurídico para su pleno conocimiento.
