@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-tribunal-estatal-electoral-de-145705"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-12-22"
-last_updated: "2023-01-31"
+last_updated: "2023-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL DE NAYARIT
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE SEPTIEMBRE DE 2023 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2023.
 
 Reglamento publicado en la Sección Tercera del Número 115 en el Periódico Oficial del Estado de Nayarit, el martes 22 de diciembre de 2020.
 
@@ -171,6 +173,10 @@ I.- Pleno
 
 1.3.2 Área de Comunicación, Informática y Redes
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE SEPTIEMBRE DE 2023)</small>
+
+1.4. Coordinación de Paridad e Igualdad de Género
+
 2. Ponencias
 
 2.1 Magistrada o Magistrado
@@ -183,33 +189,29 @@ I.- Pleno
 
 3. Secretaría General de Acuerdos
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2023)</small>
 
-3.1 Secretaria o Secretario General de Acuerdos
+3.1 Secretaria o Secretario
 
 3.2 Actuaria o Actuario
 
 3.3 Oficialía de partes
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2023)</small>
 
-3.4 Se integrará además con los auxiliares que las necesidades del servicio lo requieran de conformidad con la disponibilidad presupuestal.
+3.4. Encargado de Archivo
 
 4. Dirección de Administración
 
 4.1 Titular de la Dirección de Administración
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2023)</small>
 
-4.3. (sic) Jefe (sic) Departamento de Administración
+4.3. (sic) Departamento de Administración
 
 4.4 Área de Comunicación, Informática y Redes
 
 4.5 Auxiliar de Administración.
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2023)</small>
-
-4.6 Se integrará además con los auxiliares que las necesidades del servicio lo requieran de conformidad con la disponibilidad presupuestal.
 
 > <small>(F. DE E., P.O. 21 DE ENERO DE 2021)</small>
 
@@ -225,10 +227,6 @@ I.- Pleno
 
 5.3 Departamento Substanciador
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2023)</small>
-
-5.4 Se integrará además con los auxiliares que las necesidades del servicio lo requieran de conformidad con la disponibilidad presupuestal.
-
 6. Comités y Comisión
 
 6.1 Comité de adquisiciones, arrendamientos, prestación de bienes o servicios.
@@ -237,31 +235,17 @@ I.- Pleno
 
 6.3 Comité de transparencia.
 
-6.4 Comisión de género, igualdad e investigación electoral.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2023)</small>
 
-6.5 Comisión de capacitación y desarrollo profesional.
+6.4 Comisión de paridad e igualdad de género.
 
-6.6 Comisión de jurisprudencia.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2023)</small>
 
-6.7 Comisión de administración, finanzas y difusión electoral.
+6.5 Comisión de capacitación electoral.
 
 7. Defensoría Pública Electoral.
 
 La estructura del Tribunal que establece el presente reglamento y el demás personal auxiliar que las necesidades del servicio requieran y determine el Pleno, se definirán conforme a la disponibilidad presupuestal, mismos que serán adscritos mediante oficio a las unidades administrativas enumeradas en el presente reglamento, de conformidad a las necesidades de la propia institución. El funcionamiento organizacional y operativo se precisará en el Manual de Organización y de Procedimientos que al efecto se expida.
-
-> <small>(ADICIONADO CON LOS NUMERALES QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2023)</small>
-
-8. Coordinación de Archivos.
-
-8.1 Coordinadora o Coordinador de Archivos.
-
-8.2 Correspondencia.
-
-8.3 Archivo de trámite por área.
-
-8.4 Archivo de concentración.
-
-8.5 Archivo histórico.
 
 ### CAPÍTULO SEGUNDO. PLENO
 
@@ -385,9 +369,13 @@ XV. Vigilar que el Tribunal cuente con los recursos humanos, materiales y econó
 
 Las demás que se deriven del presente Reglamento y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 7.
 
-En caso de que la o el Presidente se ausente durante el desarrollo de una sesión o por alguna otra circunstancia no pueda estar presente en la misma, la presidirá la o el Magistrado del Tribunal que resulte designado por las y los Magistrados presentes en la sesión.
+Las ausencias del magistrado presidente o magistrada presidenta serán suplidas, si no excede de un mes, por el magistrado o magistrada electoral de mayor antigüedad, o en su caso de mayor edad.
+
+Si la ausencia excediere de dicho plazo, pero fuere menor a tres meses, se designará a una nueva presidenta o presidente interino, y si fuere mayor a ese término, se nombrará a una presidenta o presidente para que ocupe el cargo hasta el final del periodo.
 
 SECRETARÍA PARTICULAR DE PRESIDENCIA
 
@@ -1001,6 +989,8 @@ En los casos de las ausencias o excusas no estipuladas, el despacho y la resoluc
 
 ### CAPÍTULO SÉPTIMO. COMITÉS Y COMISIONES
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 38.
 
 Para coadyuvar con las acciones de transparencia, rendición de cuentas, propiciar la integridad de las y los servidores públicos y la prevención de hechos de corrupción, el Tribunal contará con los siguientes Comités:
@@ -1011,13 +1001,9 @@ II. Ética y prevención de conflictos de interés;
 
 III. Transparencia;
 
-IV. Comisión de género, igualdad e investigación electoral;
+IV. Comisión de paridad e igualdad de género;
 
-V. Comisión de capacitación y desarrollo profesional;
-
-VI. Comisión de administración, finanzas y difusión electoral, y;
-
-VII. Comisión de jurisprudencia.
+V. Comisión de capacitación electoral.
 
 ###### Artículo 39.
 
@@ -1033,71 +1019,51 @@ La integración y funcionamiento se sujetará a los lineamientos que para el efe
 
 El Comité de transparencia, es el órgano responsable de analizar, discutir y resolver sobre la organización y clasificación de la información pública conforme la ley de la materia y su reglamento, así como los acuerdos que se emitan al efecto; su integración y funcionamiento lo determinarán las normas de la materia.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 42.
 
-La Comisión de equidad de género, igualdad e investigación electoral, es el órgano encargado de estudio, difusión, divulgación, y sensibilización de la capacitación académica e investigación de los derechos fundamentales políticos-electorales, velando y promoviendo la igualdad de género, se compondrá de una Magistrada o Magistrado, una Directora o Director y dos integrantes que trabajen el Tribunal; entre sus funciones tendrán las siguientes:
+La Comisión de paridad e igualdad de género, es el órgano encargado de la difusión, divulgación, y sensibilización de la capacitación sobre los derechos fundamentales políticos-electorales de las mujeres, promoviendo una cultura de paridad e igualdad de género, se compondrá de una Magistrada o Magistrado, una Directora o Director y dos integrantes que trabajen (sic) el Tribunal; entre sus funciones tendrán las siguientes:
 
 a) Conocer y dictaminar las políticas generales, criterios técnicos y lineamientos sobre igualdad de género y no discriminación en el Tribunal.
 
-b) Realizar cursos, talleres de sensibilización sobre igualdad de género, no discriminación, prevención de violencia política y derechos político-electorales.
+b) Generar la estadística en materia de igualdad y paridad de género de los asuntos que se conocen en el Tribunal, así como del personal que labora en el mismo;
 
-c) Participar en el observatorio estatal de participación política.
+c) Realizar cursos, talleres de sensibilización sobre igualdad de género, no discriminación, prevención de violencia política y derechos político-electorales.
 
-d) Vigilar las políticas generales y programas de igualdad de género y no discriminación del Tribunal, en todos los procesos y programas institucionales, fomentando la transversalidad y horizontalidad en sus actividades y contenido.
+d) Participar en el observatorio estatal de participación política.
 
-e) Impulsar acciones para promover la participación política de acuerdo con los principios de igualdad de género y no discriminación, así como las acciones para que en el Tribunal se observe una tutela judicial con perspectiva de género.
+e) Vigilar las políticas generales y programas de igualdad de género y no discriminación del Tribunal, en todos los procesos y programas institucionales, fomentando la transversalidad y horizontalidad en sus actividades y contenido.
 
-f) Promover la capacitación, enseñanza, investigación y profesionalización del personal del Tribunal Electoral.
+f) Impulsar acciones para promover la participación política de acuerdo con los principios de igualdad de género y no discriminación, así como las acciones para que en el Tribunal se observe una tutela judicial con perspectiva de género;
 
-g) Realizar foros, talles, diplomados, seminarios y toda actividad educativa que permita la divulgación y enseñanza de los Derechos Político-Electorales y;
+g) Las demás atribuciones que le comisione el pleno del Tribunal.
 
-h) Las demás atribuciones que le comisione el pleno del Tribunal.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 43.
 
-Comisión de capacitación y desarrollo profesional tendrá encomendada (sic) las siguientes atribuciones:
+La Comisión de capacitación electoral tendrá encomendada (sic) las siguientes atribuciones:
 
 I. Dirigir, planear, diseñar, organizar, coordinar y evaluar el desarrollo de (sic) programa de capacitación electoral tanto interna como externa;
 
 II. Establecer y mantener comunicación permanente con instituciones de educación superior, centros de investigación y otras instituciones similares;
 
-III. La organización y funcionamiento de la carrera jurisdiccional en el Tribunal, sus requisitos y procedimientos de ingreso;
+III. Establecer un sistema permanente de actualización y profesionalización de los servidores públicos del Tribunal, que permita contar con funcionarios especializados que coadyuven al cumplimiento de los fines y atribuciones encomendados al Tribunal;
 
-IV. Instaurar mecanismos de permanencia, ascenso e incentivos que fomenten el desarrollo del personal de carrera jurisdiccional;
+IV. Coordinar y supervisar las actividades a desarrollar por parte de las personas que realicen el servicio social y prácticas profesionales en el Tribunal.
 
-V. Establecer un sistema permanente de actualización y profesionalización de los servidores públicos del Tribunal, que permita contar con funcionarios especializados que coadyuven al cumplimiento de los fines y atribuciones encomendados al Tribunal;
+V. Expedir y firmar constancia a quienes cumplan con los requisitos que se exijan para los cursos, talleres, seminarios, diplomas y demás programas desarrollados por la Comisión de Capacitación del Tribunal Electoral.
 
-VI. Coordinar y supervisar las actividades a desarrollar por parte de las personas que realicen el servicio social y prácticas profesionales en el Tribunal.
-
-VII. Expedir y firmar constancia a quienes cumplan con los requisitos que se exijan para los cursos, talleres, seminarios, diplomas y demás programas desarrollados por la Comisión de Capacitación del Tribunal Electoral.
-
-VIII. Las demás atribuciones que le comisione el pleno del Tribunal.
+VI. Las demás atribuciones que le comisione el pleno del Tribunal.
 
 ###### Artículo 44.
 
-La Comisión de administración, finanzas y difusión electoral, será la encargada de la supervisión de los recursos materiales y financieros del Tribunal Electoral, coadyuvando con la dirección de administración y contraloría. Recibirá por parte de la Dirección de Administración la información relativa al diseño y medidas de racionalidad, austeridad y contención del gasto que contribuyan a elevar la eficiencia en la administración de los recursos asignados al Tribunal.
-
-Asimismo, tendrá bajo su responsabilidad difundir el conocimiento en materia electoral, cuando sea requerido a este Tribunal y aprobado por el Pleno.
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2023)
 
 ###### Artículo 45.
 
-La Comisión de jurisprudencia es la encargada de generar, clasificar y sistematizar la jurisprudencia. Se formará jurisprudencia por reiteración con la acumulación de las tesis que contienes (sic) el mismo criterio de aplicación, interpretación o integración de una norma igual o similar contenido, aunque provengan de leyes distintas. Tendrá las atribuciones siguientes:
-
-I.- Identificar, clasificar y compilar los criterios sostenidos en las resoluciones del Tribunal.
-
-II.- Identificar las tesis relevantes del Tribuna (sic) que pudieran constituir jurisprudencia;
-
-III.- Enterar al Pleno, de las posibles contradicciones entre los criterios sustentados en las resoluciones del propio organismo jurisdiccional;
-
-IV.- Redactar los rubros de los criterios que constituirán jurisprudencia o tesis relevantes;
-
-V.- Compilar y sistematizar la jurisprudencia y tesis relevantes aprobadas por el Pleno.
-
-VI.- Integrar y presidir las reuniones de los grupos de trabajo de jurisprudencia;
-
-VII.- Presentar al Pleno las Propuestas de interrupción, revalidación, modificación aclaración o pérdida de vigencia de jurisprudencia y tesis relevantes.
-
-VIII.- Las demás atribuciones que le comisione el pleno del Tribunal.
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2023)
 
 ### CAPÍTULO OCTAVO. DEFENSORÍA PÚBLICA ELECTORAL PARA PUEBLOS Y COMUNIDADES INDÍGENAS, MUJERES Y GRUPOS VULNERABLES
 
@@ -1161,83 +1127,47 @@ La Coordinación de Archivos es la unidad administrativa encargada de vigilar, a
 
 La persona titular de la Coordinación de Archivos tendrá el nivel de director o equivalente dentro del Tribunal.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 48 Ter.
 
-El Sistema Institucional de archivos, deberá integrarse por la Coordinación de Archivos, y las áreas operativas siguientes:
+El Tribunal contará con una Coordinación de Paridad e Igualdad de Género que tendrá como finalidad la promoción de los derechos político electorales de las mujeres, la capacitación en materia de los mismos, la generación de estadística sobre temas relevantes para los estudios de género, la creación, modificación y promoción de protocolos, manuales o lineamientos que sean necesarios para el desarrollo pleno de los derechos político electorales de las mujeres que estén siendo vulneradas de los mismos.
 
-a) De correspondencia;
+La titular de la Coordinación de Paridad e Igualdad de Género será designado (sic) y removido (sic) por el Pleno a propuesta de la Presidencia, y deberá de cumplir los siguientes requisitos:
 
-b) Archivo de trámite, por área o unidad;
+a) Ser ciudadana mexicana por nacimiento y en pleno ejercicio de sus derechos civiles y políticos;
 
-c) Archivo de concentración, y
+b) Contar con experiencia sobre los temas relacionados con la paridad e igualdad de género.
 
-d) Archivo histórico.
+c) Deberá acreditar al menos ser pasante de alguna carrera profesional en alguna rama de las ciencias sociales, expedidos por autoridad o Institución legalmente reconocida; y
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2023)</small>
+d) No haber sido inhabilitada o inhabilitado (sic) para desempeñar un empleo, cargo o comisión en el servicio público, ni removido por causa grave de algún cargo del sector público o privado.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 48 Quater.
 
-La persona titular de la Coordinación de Archivos será designada por el pleno a propuesta de la Presidencia.
+La Coordinación de Paridad e Igualdad de Género del Tribunal Estatal Electoral de Nayarit, estará encargada de la difusión, divulgación, y sensibilización de la capacitación académica e investigación de los derechos fundamentales políticos-electorales de las mujeres, velando y promoviendo la igualdad de género, y entre sus atribuciones tendrá las siguientes:
 
-I. Para ser titular de la Coordinación de Archivos del tribunal, se requiere:
+a) Colaborar con la Secretaria General de Acuerdos y la Coordinación de Archivos, para generar la estadística relacionada con los medios de impugnación en los cuales se traten temas importantes para la paridad e igualdad de género;
 
-1. Ser ciudadana o ciudadano mexicano por nacimiento y en pleno ejercicio de sus derechos civiles y políticos.
+b) Colaborar con el Órgano Interno de Control para atender las denuncias internas que sean presentadas por violencia de género:
 
-2. Tener cuando menos treinta años cumplidos el día de la designación;
+c) Colaborar con la Comisión encargada de los temas relevantes sobre paridad e igualdad de género;
 
-3. Contar con conocimientos teóricos y técnicos archivísticos necesarios para el desempeño óptimo de sus funciones;
+d) Realizar cursos, talleres de sensibilización sobre igualdad de género, no discriminación, prevención de violencia política contra las mujeres y derechos político-electorales de las mujeres;
 
-4. Poseer al día del nombramiento título y cedula profesional en la licenciatura en derecho, administración o área afín, expedidos por autoridad o institución legalmente reconocida y tener preferentemente estudios de posgrado; y
+e) Participar en el observatorio estatal de participación política;
 
-5. No haber sido inhabilitada o inhabilitado para desempeñar cargo, empleo o comisión en el sector público, ni removida o removido por causa grave de algún cargo en el sector público.
+f) Crear, modificar y promover, los códigos, lineamientos y manuales que considere necesarios para un funcionamiento del Tribunal libre de violencia política contra las mujeres en razón de género, no discriminación, atención a víctimas y prevención;
 
-II. La Coordinación de Archivos tendrá las funciones siguientes:
+g) Impulsar acciones para promover la participación política de acuerdo con los principios de igualdad de género y no discriminación, así como las acciones para que en el Tribunal se observe una tutela judicial con perspectiva de género;
 
-1. Elaborar, con la colaboración de los responsables de los archivos de trámite, de concentración y en su caso histórico, los instrumentos de control archivístico.
+h) Vigilar las políticas generales y programas de igualdad de género y no discriminación del Tribunal, en todos los procesos y programas institucionales, fomentando la transversalidad y horizontalidad en sus actividades y contenido;
 
-2. Elaborar criterios específicos y recomendaciones en materia de organización y conservación de archivos.
+i) Presentar de manera anual ante el Pleno del Tribunal, un informe en el cual plasme las actividades desarrolladas durante ese periodo; y
 
-3. Elaborar y someter a consideración del Pleno del Tribunal Estatal Electoral, el programa anual;
-
-4. Coordinar los procesos de valoración y disposición documental que realicen las áreas operativas;
-
-5. Coordinar las actividades destinadas a la modernización y automatización de los procesos archivísticos y a la gestión de documentos electrónicos de las áreas operativas;
-
-6. Brindar asesoría técnica para la operación de los archivos;
-
-7. Elaborar y/o colaborar con programas de capacitación en gestión documental y administración de archivos;
-
-8. Coordinar, con las áreas o unidades administrativas, las políticas de acceso y la conservación de los archivos;
-
-9. Coordinar la operación de los archivos de trámite, concentración y, en su caso, histórico, de acuerdo con la normatividad;
-
-10. Autorizar la transferencia de los archivos cuando un área o unidad del Tribunal Estatal Electoral sea sometida a procesos de fusión, escisión, extinción o cambio de adscripción; o cualquier modificación de conformidad con las disposiciones legales aplicables;
-
-11. Proponer y elaborar instrumentos técnicos y manuales para la organización y procedimientos de los archivos de trámite, concentración y en su caso históricos de (sic) Tribunal, en coordinación con los responsables de los archivos de cada área, para su aprobación por parte del Tribunal;
-
-12. Establecer los procesos de disposición documental y préstamo de expedientes en el Archivo de Concentración;
-
-13. Coadyuvar con la Dirección de Administración del Tribunal para propiciar la incorporación de personal, mobiliario, equipo técnico, de conservación y seguridad e instalaciones apropiadas para los archivos de conformidad con las funciones y servicios que se brinden;
-
-14. Coadyuvar con el Área Técnica de Informática del Tribunal para realizar las adecuaciones y mejoramiento de las tecnologías de la información para los archivos del Tribunal, para la automatización de estos, digitalización de los documentos para la gestión, administración y conservación de los documentos que contempla el archivo.
-
-15. Las que establezcan las disposiciones jurídicas aplicables.
-
-III. En cuanto al área de correspondencia, será ocupada por quien ostente la titularidad de Oficialía de Partes del Tribunal.
-
-IV. Las personas responsables de archivo de trámite por área o unidad serán nombradas por el titular de cada área.
-
-V. Las personas responsables del archivo de concentración y del archivo histórico, serán designadas por el pleno de entre las personas que ocupen un cargo dentro del propio Tribunal. Incluso, podrá designarse una misma persona para cubrir ambas áreas.
-
-En caso de contar con suficiencia presupuestal, en el archivo de concentración y en el archivo histórico se podrán designar personas que ejerzan exclusivamente las atribuciones propias de esas áreas.
-
-VI. El Tribunal contara con un grupo interdisciplinario. La persona titular de la Coordinación de Archivos propiciará la integración y formalización del grupo interdisciplinario y el proceso de elaboración del catálogo de disposición documental, convocará a las reuniones o sesiones de trabajo y llevará el registro y seguimiento de los acuerdos y compromisos tomados.
-
-El tribunal deberá establecer el Sistema Institucional de Archivos, siendo este el conjunto de registros, procesos, procedimientos, criterios, estructuras, herramientas y funciones que desarrolla cada sujeto obligado y sustenta la actividad archivística, de acuerdo con los procesos de gestión documental.
-
-Las funciones de las diversas áreas de archivo, así como del grupo interdisciplinario, se regirán por lo dispuesto en este reglamento, disposiciones reglamentarias emitidas por el Pleno, Ley General de Archivos, Ley de Archivos del estado de Nayarit, acuerdos de la materia emitidos por las autoridades competentes y demás normativa aplicable.
+j) Las demás atribuciones que la o el Presidente del Tribunal le encomiende.
 
 ### CAPÍTULO PRIMERO. NOTIFICACIONES
 
@@ -1679,6 +1609,20 @@ El pago de las prestaciones establecidas en el párrafo anterior se realizará c
 
 En caso de fallecimiento de la Magistrada o Magistrado, la remuneración de transición se transmite con su misma extensión, alcance y contenido al cónyuge e hijos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 89 Bis.
+
+La ausencia temporal de un magistrado o magistrada integrante del pleno que no exceda de 90 días, será cubierta por el secretario o secretaria general de acuerdos o, en su caso, por el secretario o secretaria con mayor antigüedad y experiencia del tribunal, según acuerde el presidente o la presidenta del tribunal.
+
+Cuando la ausencia exceda el plazo anterior, será considerada como ausencia definitiva.
+
+Si la ausencia de un magistrado o magistrada es definitiva, el presidente o presidenta del Pleno, lo notificará de inmediato a la Cámara de Senadores para que designe al magistrado o magistrada que corresponda. En este caso, mientras la Cámara de Senadores realiza la elección respectiva, la ausencia será suplida en el siguiente orden de prelación, por el secretario o la secretaria general de acuerdos en primer lugar y, por el secretario o secretaria de estudio y cuenta de mayor antigüedad y experiencia.
+
+En los casos de que concluya el periodo para el que fue designado un Magistrado o Magistrada del Tribunal Estatal Electoral de Nayarit; y el Senado de la República no haya realizado la designación de la persona que deba sustituirlo en el cargo, se procederá de la misma manera.
+
+Las personas secretarias o secretarios que ejerzan funciones de magistrados o magistradas tendrán todas las facultades y obligaciones que tienen las magistraturas titulares, para efecto de integrar pleno y sesionar de manera pública y privada, conforme a las disposiciones constitucionales, legales y reglamentarias.
+
 ###### Artículo 90.
 
 El personal jurisdiccional y administrativo del Tribunal, percibirá una remuneración adecuada e irrenunciable y no podrá ser disminuida durante su encargo.
@@ -1752,3 +1696,7 @@ Segundo. Por única ocasión ocupara la Coordinación de Archivos, quien, al mom
 Tercero. Se ordena la publicación de las reformas y adiciones en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Cuarto. En un plazo no mayor a 60 días, posteriores a la entrada en vigor de las reformas y adiciones del Reglamento, se deberán emitir las disposiciones normativas que armonicen las atribuciones de las distintas áreas del archivo del Tribunal Estatal Electoral, con lo establecido en la legislación general y estatal de la materia.
+
+P.O. 7 DE SEPTIEMBRE DE 2023.
+
+> <small>[N. DE E. LAS “REFORMAS AL REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL DE NAYARIT”, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NAYARIT.]</small>
