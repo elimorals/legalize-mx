@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-160750"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2022-10-27"
-last_updated: "2023-06-06"
+last_updated: "2023-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160750&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2022-10-17"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL PARA PREVENIR LA VIOLENCIA LABORAL Y MEJORAR EL AMBIENTE DE TRABAJO EN EL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE SEPTIEMBRE DE 2023.
 
 Acuerdo publicado en el Número 24 del Diario Oficial de la Federación, el jueves 27 de octubre de 2022.
 
@@ -163,7 +163,7 @@ Objeto. El presente Acuerdo General es de observancia obligatoria y tiene por ob
 
 a) Las medidas generales y específicas de prevención de cualquier forma de violencia laboral;
 
-b) La creación, competencia y atribuciones de la Unidad de Prevención y Combate a la Violencia Laboral;
+b) (DEROGADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)
 
 c) El procedimiento para la imposición de medidas disciplinarias en el ámbito laboral, incluyendo el de la rescisión de la relación laboral a una persona trabajadora.
 
@@ -275,9 +275,11 @@ Los sistemas informáticos que apoyarán esta materia serán diseñados por la D
 
 ### Capítulo Segundo. Medidas específicas de prevención de cualquier forma de violencia laboral
 
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES RELATIVAS A LAS VACACIONES DE LOS JUZGADOS DE DISTRITO, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
 #### Sección Primera
 
-Del otorgamiento de los períodos vacacionales de las personas servidoras públicas adscritas a los Tribunales Colegiados de Apelación, Juzgados de Distrito, y Centros de Justicia Penal Federal, con excepción de sus titulares
+Del otorgamiento de los períodos vacacionales de las personas servidoras públicas adscritas a los Tribunales Colegiados de Apelación y Centros de Justicia Penal Federal, con excepción de sus titulares
 
 ###### Artículo 8.
 
@@ -597,9 +599,13 @@ VII. La reincidencia por parte de la persona denunciada.
 
 En adición al catálogo de medidas cautelares previstas en la Ley Orgánica, las autoridades en materia de responsabilidades administrativas podrán emitir con ese carácter apercibimientos dirigidos a la persona denunciada o presunta responsable, requiriéndole que se abstenga de cometer, por sí o a través de terceras personas, por medios directos o indirectos, represalias, amenazas, intimidación o cualquier otra conducta que pudiese atentar contra la dignidad e integridad de la persona afectada quejosa o denunciante, las y los testigos, así como evitar cualquier acción que pudiera interferir con el desarrollo de las diligencias o actuaciones propias del procedimiento de responsabilidad administrativa.
 
-## TÍTULO TERCERO. DE LA UNIDAD DE PREVENCIÓN Y COMBATE A LA VIOLENCIA LABORAL
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
-### Capítulo Primero. Competencia y atribuciones de la Unidad
+## TÍTULO TERCERO. DE LAS COMPETENCIAS DE LA UNIDAD
+
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+### Capítulo Primero. Mediación, Conciliación y Medidas Preventivas
 
 ###### Artículo 38.
 
@@ -609,9 +615,11 @@ En adición al catálogo de medidas cautelares previstas en la Ley Orgánica, la
 
 (DEROGADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES RELACIONADAS CON LA REESTRUCTURACIÓN DE LAS ÁREAS ADMINISTRATIVAS INCORPORADAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 6 DE JUNIO DE 2023)
 
+> <small>(REFORMADO SU EPÍGRAFE POR EL PUNTO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 40.
 
-Competencia de la Unidad para efectos de la mediación y conciliación. Esta Unidad será competente para llevar a cabo las funciones de mediación, conciliación y procesos restaurativos en caso de que así lo determinen las personas involucradas, atendiendo al principio de voluntariedad que rige en estos casos, antes de iniciar el procedimiento ante la Comisión de Conflictos Laborales.
+Mediación y conciliación. Esta Unidad será competente para llevar a cabo las funciones de mediación, conciliación y procesos restaurativos en caso de que así lo determinen las personas involucradas, atendiendo al principio de voluntariedad que rige en estos casos, antes de iniciar el procedimiento ante la Comisión de Conflictos Laborales.
 
 Como resultado de la mediación, esta Unidad podrá emitir recomendaciones no vinculantes. En respuesta, las personas servidoras públicas a quienes se dirijan deberán atenderlas o hacer del conocimiento de la Unidad las razones que justifiquen su desatención, para el seguimiento correspondiente. Tratándose de casos de conciliación, la Unidad se limitará a acompañar los acuerdos celebrados por las partes.
 
@@ -884,3 +892,35 @@ OCTAVO. La Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sex
 NOVENO. La persona titular de la Unidad de Prevención y Combate al Acoso Sexual continuará desempeñando las atribuciones contenidas en los artículos 98 Septies y 98 Octies del Acuerdo General del Pleno del Consejo de la Judicatura Federal, por el que se expide el similar que reglamenta la organización y funcionamiento del propio Consejo; y reforma y deroga diversas disposiciones de otros acuerdos generales, vigentes con anterioridad a la entrada en vigor del presente Acuerdo General, hasta en tanto el Pleno del Consejo la Judicatura Federal apruebe la propuesta presentada por la Dirección General de Innovación, Planeación y Desarrollo Institucional, para la determinación de la estructura del personal que estará adscrito a la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual.
 
 DÉCIMO. La Secretaría Ejecutiva de Administración, a través de las áreas competentes, llevará a cabo las acciones necesarias para la implementación de este Acuerdo General.
+
+D.O.F. 7 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 7 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES RELATIVAS A LAS VACACIONES DE LOS JUZGADOS DE DISTRITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las disposiciones de este Acuerdo General serán aplicables a partir del periodo vacacional de invierno de 2023, conforme al calendario que debe aprobar la Comisión de Carrera Judicial a más tardar dentro de los treinta días naturales siguientes a la aprobación del presente Acuerdo; para lo cual puede modificarse el calendario de guardias para la presente anualidad.
+
+CUARTO. Los calendarios anuales de vacaciones se emitirán por parte de la Comisión de Carrera Judicial, en colaboración con la Visitaduría Judicial, la Secretaría Ejecutiva de Creación de Nuevos Órganos y las Direcciones Generales de Estadística Judicial y Gestión Judicial, dentro de los primeros dos meses de cada año.
+
+QUINTO. Cuando por disposición del Pleno del Consejo de la Judicatura Federal se apruebe la creación, extinción o modificación de algún Juzgado de Distrito, deberá presentarse el proyecto de modificación del calendario de vacaciones correspondiente, donde se incluya o excluya a dicho órgano.
+
+SEXTO. Para la programación de las visitas ordinarias de inspección en los Juzgados de Distrito y las fechas de rendición del Informe Circunstanciado, la Visitaduría Judicial deberá tomar en cuenta los calendarios de vacaciones.
+
+SÉPTIMO. La Secretaría Ejecutiva de Creación de Nuevos Órganos tomará en cuenta el calendario vacacional a efecto de que coincida con el calendario de guardias de los Juzgados de Distrito que emite anualmente.
+
+OCTAVO. El órgano jurisdiccional que se encuentre gozando (sic) su periodo vacacional en las fechas en las que corresponda rendir el informe estadístico mensual a la Dirección General de Estadística Judicial, contará con un plazo de 5 días naturales para remitirlo, contados a partir de que se reincorpore a sus labores.
+
+NOVENO. Se instruye a la Dirección General de Tecnologías de la Información y a la Dirección General de Gestión Judicial del Consejo de la Judicatura Federal, para que a más tardar a los dos meses después de la entrada en vigor del presente Acuerdo, realicen los ajustes necesarios en el Sistema Integral de Seguimiento de Expedientes y en el Portal de Servicios en Línea del Poder Judicial de la Federación, a efecto de que las partes que pretendan presentar una promoción electrónica dirigida a un Juzgados (sic) de Distrito que se encuentre gozando de su periodo vacacional conforme al calendario, sean informadas que únicamente se dará trámite si corresponde a los supuestos de la Guardia Vacacional, en caso contrario, será atendida hasta el regreso de actividades del órgano jurisdiccional, así como para que se informe que no corren plazos ni términos durante el periodo vacacional de cada juzgado en asuntos que no son competencia de la referida Guardia.
+
+DÉCIMO. Se instruye a la Dirección General de Comunicación Social del Consejo de la Judicatura Federal para que realice las campañas necesarias para dar plena difusión al contenido del presente Acuerdo y el calendario anexo entre los integrantes de la sociedad y el foro jurídico para su pleno conocimiento.
