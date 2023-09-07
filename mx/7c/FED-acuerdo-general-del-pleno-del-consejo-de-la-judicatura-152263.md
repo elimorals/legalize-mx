@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-152263"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-11-03"
-last_updated: "2023-08-18"
+last_updated: "2023-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152263&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-10-28"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE SEPTIEMBRE DE 2023.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 3 de noviembre de 2021.
 
@@ -1281,13 +1281,17 @@ VIII. Promover intercambios académicos con instituciones de educación superior
 
 Para ello, el personal de la Escuela Judicial deberá propiciar un entorno de honestidad académica, libertad intelectual y respeto.
 
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA OBLIGATORIEDAD DEL CURSO GÉNERO COMO HERRAMIENTA PARA LA IGUALDAD Y DEL CURSO PARA GENERAR ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 23 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 88.
 
-Obligatoriedad de los cursos de formación sobre igualdad de género y espacios libres de violencia. Todas las personas servidoras públicas con cargos jurisdiccionales del Poder Judicial de la Federación deberán acreditar de forma obligatoria el “Curso Género como Herramienta para la Igualdad” (“Curso Básico de Género”) y el “Curso para generar espacios libres de violencia”, elaborados por la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales y la Unidad de Prevención y Combate al Acoso Sexual, respectivamente, y la Escuela Judicial. Ambos serán autogestivos y estarán disponibles de forma permanente.
+Obligatoriedad de los cursos de formación sobre igualdad de género y espacios libres de violencia. Todas las personas servidoras públicas con cargos jurisdiccionales del Poder Judicial de la Federación deberán acreditar de forma obligatoria el “Curso Género como Herramienta para la Igualdad” (“Curso Básico de Género”) y el “Curso para generar espacios libres de violencia”, elaborados por la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales y la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual, respectivamente, y la Escuela Judicial. Ambos serán autogestivos y estarán disponibles de forma permanente.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA OBLIGATORIEDAD DEL CURSO GÉNERO COMO HERRAMIENTA PARA LA IGUALDAD Y DEL CURSO PARA GENERAR ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 23 DE NOVIEMBRE DE 2022)</small>
 
 El personal que ya forme parte del Poder Judicial de la Federación deberá acreditar ambos cursos en un plazo de tres años, salvo causa justificada, cuya viabilidad será determinada por la Comisión de Carrera Judicial.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA OBLIGATORIEDAD DEL CURSO GÉNERO COMO HERRAMIENTA PARA LA IGUALDAD Y DEL CURSO PARA GENERAR ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 23 DE NOVIEMBRE DE 2022)</small>
 
 Las personas de nuevo ingreso a la carrera judicial deberán acreditar de forma obligatoria ambos cursos, para lo cual contarán con seis meses a partir de la fecha de inicio de su nombramiento, salvo causa justificada, cuya viabilidad será determinada por la Comisión de Carrera Judicial.
 
@@ -1679,7 +1683,9 @@ II. La solicitud deberá presentarse por escrito al Consejo mediante el sistema 
 
 III. Acreditar una antigüedad mínima de tres años en el órgano jurisdiccional al que se encuentre adscrito el o la solicitante, salvo los casos que exijan las necesidades del servicio, en los que el Pleno podrá exceptuar la presente regla.
 
-En la determinación de cambios de adscripción, el Consejo solicitará información de la Unidad de Prevención y Combate al Acoso Sexual, sobre los posibles casos en los que brinda atención y acompañamiento, en los cuáles la persona servidora pública solicitante ha sido identificada como agresora, sin que se brinde información personal sobre la víctima.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+En la determinación de cambios de adscripción, el Consejo solicitará información de la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual, sobre los posibles casos en los que brinda atención y acompañamiento, en los cuales la persona servidora pública solicitante ha sido identificada como agresora, sin que se brinde información personal sobre la víctima.
 
 En caso de igualdad en la ponderación de elementos para el cambio de adscripción por parte de las y los solicitantes, el Consejo preferirá a aquella servidora o servidor público que, en ocasión anterior, hubiera sido cambiado de adscripción por necesidades del servicio. En caso de subsistir la igualdad de condiciones, la decisión partirá de los siguientes criterios de desempate:
 
@@ -1701,13 +1707,13 @@ Cambios de adscripción situaciones extraordinarias, razones de seguridad o acos
 
 Asimismo, en el caso de personas servidoras públicas distintas de los y las Titulares, el Consejo podrá llevar a cabo cambios de adscripciones por cuestiones de seguridad y hostigamiento o acoso sexual, o cualquier otra conducta de violencia sexual y de género, así como en caso de conductas de violencia laboral estrechamente relacionadas con violencia sexual o de género. Únicamente en estos casos se seguirá el siguiente procedimiento:
 
-> <small>(F. DE E., D.O.F. 20 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
-I. La Comisión de Vigilancia o la Unidad de Prevención y Combate al Acoso Sexual propondrán a la Secretaría Ejecutiva de Creación de Nuevos Órganos, para la integración de nuevas plantillas, o a la Comisión de Administración para los demás casos, el cambio de adscripción de personas servidoras públicas, respectivamente, ante riesgos de seguridad o como una medida de protección contra el hostigamiento laboral o el acoso sexual, atendiendo siempre al interés de la persona en riesgo o en una situación de víctima.
+I. La Comisión de Vigilancia o la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual propondrán a la Secretaría Ejecutiva de Creación de Nuevos Órganos, para la integración de nuevas plantillas, o a la Comisión de Administración para los demás casos, el cambio de adscripción de personas servidoras públicas, respectivamente, ante riesgos de seguridad o como una medida de protección contra el hostigamiento laboral o el acoso sexual, atendiendo siempre al interés de la persona en riesgo o en una situación de víctima.
 
-> <small>(F. DE E., D.O.F. 20 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
-II. Al recibir la solicitud de cambio de adscripción por parte de la Comisión de Vigilancia o la Unidad de Prevención y Combate al Acoso Sexual, la Secretaría Ejecutiva de Creación de Nuevos Órganos o la Comisión de Administración, según corresponda, valorará el perfil de la persona en cuestión, en aras de determinar los posibles lugares a los cuales resulte adecuado el movimiento, atendiendo en todo momento a las causas que lo motivaron.
+II. Al recibir la solicitud de cambio de adscripción por parte de la Comisión de Vigilancia o la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual, la Secretaría Ejecutiva de Creación de Nuevos Órganos o la Comisión de Administración, según corresponda, valorará el perfil de la persona en cuestión, en aras de determinar los posibles lugares a los cuales resulte adecuado el movimiento, atendiendo en todo momento a las causas que lo motivaron.
 
 > <small>(F. DE E., D.O.F. 20 DE DICIEMBRE DE 2021)</small>
 
@@ -1715,11 +1721,13 @@ III. Hecho lo anterior, la Secretaría Ejecutiva de Creación de Nuevos Órganos
 
 a) En caso afirmativo, se haga el respectivo cambio de adscripción, y
 
-b) En caso negativo, se realice un monitoreo constante para identificar las vacantes que se generen en aras de lograr eventualmente el cambio de adscripción. En tanto exista una vacante disponible y a propuesta de la Unidad de Prevención y Combate al Acoso Sexual o la Comisión de Vigilancia, se podrá comisionar a la persona en riesgo o en situación de víctima o, en su defecto, se le podrá otorgar como medida preventiva y extraordinaria una licencia con goce de sueldo.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(F. DE E., D.O.F. 20 DE DICIEMBRE DE 2021)</small>
+b) En caso negativo, se realice un monitoreo constante para identificar las vacantes que se generen en aras de lograr eventualmente el cambio de adscripción. En tanto exista una vacante disponible y a propuesta de la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual o la Comisión de Vigilancia, se podrá comisionar a la persona en riesgo o en situación de víctima o, en su defecto, se le podrá otorgar como medida preventiva y extraordinaria una licencia con goce de sueldo.
 
-IV. En los dos supuestos antes mencionados, la Secretaría Ejecutiva de Creación de Nuevos Órganos o la Comisión de Administración, notificará de inmediato a la Unidad de Prevención y Combate al Acoso Sexual o a la Comisión de Vigilancia respectivo (sic) la imposibilidad de cubrir la plaza mediante el proceso normal de contratación o el cambio de adscripción.
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+IV. En los dos supuestos antes mencionados, la Secretaría Ejecutiva de Creación de Nuevos Órganos o la Comisión de Administración, notificará de inmediato a la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual o a la Comisión de Vigilancia respectivo (sic) la imposibilidad de cubrir la plaza mediante el proceso normal de contratación o el cambio de adscripción.
 
 ###### Artículo 124.
 
@@ -1833,7 +1841,9 @@ c) De la Secretaría Ejecutiva de Disciplina, sobre los procedimientos administr
 
 d) De la Secretaría Ejecutiva de Vigilancia, de los resultados de las visitas de inspección y de los informes circunstanciados;
 
-e) De la Unidad de Prevención y Combate al Acoso Sexual, sobre los posibles casos en los que brinda atención y acompañamiento, en los cuáles la persona servidora pública ha sido identificada como agresora, sin que se brinde información personal sobre la víctima;
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+e) De la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual sobre los posibles casos en los que brinda atención y acompañamiento, en los cuales la persona servidora pública ha sido identificada como agresora, sin que se brinde información personal sobre la víctima;
 
 f) De la Dirección General de Estadística Judicial, sobre ingresos y egresos;
 
@@ -2157,11 +2167,15 @@ Sustitución de las y los Titulares de los Tribunales Colegiados de Apelación. 
 
 Vacaciones de Magistradas y Magistrados. Los períodos vacacionales a que se refiere el artículo 140 de la Ley Orgánica deberán disfrutarse por las Magistradas y Magistrados durante la segunda quincena de los meses de julio y diciembre de cada año. Las Magistradas y los Magistrados que cubran la guardia de turno de asuntos en estos periodos, podrán disfrutar del período vacacional durante agosto y enero, respectivamente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES RELATIVAS A LAS VACACIONES DE LOS JUZGADOS DE DISTRITO, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 170.
 
-Vacaciones de Juezas y Jueces de Distrito. Las Juezas y Jueces de Distrito podrán gozar de los períodos vacacionales de quince días a que se refiere el artículo 140 de la Ley Orgánica, el primero durante julio y agosto y, el segundo, en diciembre y enero. La Comisión, previo análisis de las solicitudes presentadas, podrá autorizar el disfrute de las vacaciones fuera de los meses antes referidos, siempre y cuando existan causas excepcionales y justificadas para ello.
+Vacaciones de Juezas y Jueces de Distrito. Las Juezas y Jueces de Distrito podrán gozar de los períodos vacacionales quincenales a que se refiere el artículo 140 de la Ley Orgánica, conforme a lo establecido en el Capítulo Tercero Ter del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales. La Comisión, previo análisis de las solicitudes presentadas, podrá autorizar el disfrute de las vacaciones de las personas Titulares fuera de los meses antes referidos, siempre y cuando existan causas excepcionales y justificadas para ello.
 
-En los lugares en donde existan dos o más Juzgados de Distrito, las y los Titulares podrán disfrutar simultáneamente de sus vacaciones dentro de los períodos a que se refiere el presente artículo, siempre por lapsos de quince días continuos cada uno. Para la efectividad de la regla anterior, las Juezas y los Jueces de Distrito deberán comunicarlo al Consejo. Dicha comunicación deberá ser dirigida mediante oficio, con 10 días naturales de anticipación, a la Secretaría Ejecutiva para que ésta lo haga del conocimiento de la Comisión con la debida oportunidad. Los períodos vacacionales de los mencionados servidores públicos podrán ser modificados por el Pleno por necesidades del servicio.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES RELATIVAS A LAS VACACIONES DE LOS JUZGADOS DE DISTRITO, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+En los lugares en donde existan más de dos Juzgados de Distrito, las y los Titulares podrán disfrutar simultáneamente de sus vacaciones dentro de los períodos a que se refiere el presente artículo, siempre por lapsos quincenales cada uno, conforme al calendario vacacional anual aprobado por la Comisión de Carrera Judicial. Los períodos vacacionales de los mencionados servidores públicos podrán ser modificados por el Pleno por necesidades del servicio.
 
 Para el disfrute de vacaciones por parte de las y los Titulares de los Juzgados de Distrito deberá respetarse, siempre, el turno de guardia correspondiente.
 
@@ -2217,9 +2231,11 @@ Cuando las ausencias temporales de una Magistrada o Magistrado fueren superiores
 
 En caso de que la ausencia temporal de la Magistrada o Magistrado sea derivada del otorgamiento de una licencia oficial o académica, sin importar el plazo por el que se haya otorgado dicha licencia, será la Comisión quien designará a la persona servidora pública que deba suplirla.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES RELATIVAS A LAS VACACIONES DE LOS JUZGADOS DE DISTRITO, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 175.
 
-Ausencia temporal de Juezas y Jueces. Cuando una Jueza o Juez falten por un término menor a quince días al despacho del juzgado, el secretario o la secretaria designada por la Comisión practicará las diligencias y dictará las providencias de mero trámite y resoluciones de carácter urgente, dando aviso de ello al Consejo y remitiendo copia de la resolución dictada.
+Ausencia temporal de Juezas y Jueces. Cuando una Jueza o Juez falten por un término hasta quince días al despacho del juzgado y en los periodos vacacionales, el secretario o la secretaria designada por la Comisión, a propuesta de la persona titular del órgano jurisdiccional, practicará las diligencias y dictará las providencias de mero trámite y resoluciones de carácter urgente, dando aviso de ello al Consejo y remitiendo copia de la resolución dictada.
 
 Cuando las ausencias temporales de una Jueza o Juez fueren superiores a quince días, el Pleno, en atención a la opinión que previamente le proporcione la Secretaría Ejecutiva de Adscripción, designará a quien deba suplirla o suplirlo de entre las listas de personas servidoras públicas habilitadas para desempeñar funciones jurisdiccionales, conforme lo establecido en el artículo 86, fracción XXI de la Ley Orgánica.
 
@@ -2461,7 +2477,9 @@ En caso de que la persona servidora pública no cumpla con los objetivos estable
 
 Otras licencias. A propuesta de la Comisión de Administración, el Pleno del Consejo, resolverá las solicitudes de licencias no previstas en estas disposiciones, mediante acuerdos específicos que permitan atender las necesidades y continuidad del servicio.
 
-La Comisión de Administración, con la opinión de la Unidad de Prevención y Combate al Acoso Sexual, podrá otorgar licencias por el tiempo que estime conveniente para la protección de víctimas en situaciones de violencia u hostigamiento sexual en el ambiente laboral.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+La Comisión de Administración, con la opinión de la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual, podrá otorgar licencias por el tiempo que estime conveniente para la protección de víctimas en situaciones de violencia u hostigamiento sexual en el ambiente laboral.
 
 La Comisión podrá proponer al Pleno del Consejo los acuerdos generales que considere pertinentes para atender las necesidades y continuidad del servicio en relación con el otorgamiento de licencias.
 
@@ -2581,19 +2599,25 @@ La información contenida en el Registro Único deberá ser resguardada y almace
 
 Prohibición del hostigamiento y acoso sexual. Sin importar la categoría en la que se desempeñen, las personas servidoras públicas pertenecientes a la Carrera Judicial, tendrán absolutamente prohibido acosar u hostigar sexualmente, o bien, llevar a cabo conductas de naturaleza sexual, valiéndose de su posición jerárquica o, aunque no exista dicha posición, sobre otra persona de su entorno laboral sin el consentimiento de ésta.
 
-Cuando una persona servidora pública perteneciente a la Carrera Judicial tenga conocimiento de una posible vulneración a la integridad física o psicológica de otra persona en virtud de conductas de acoso sexual, hostigamiento sexual o cualquier otro tipo de violencia sexual o de género, deberá canalizar a la persona vulnerada con la Unidad de Prevención y Combate al Acoso Sexual, cuidando en todo momento la identidad y datos personales de la víctima y velando especialmente por no incurrir en conductas que pudieran constituir victimización secundaria.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+Cuando una persona servidora pública perteneciente a la Carrera Judicial tenga conocimiento de una posible vulneración a la integridad física o psicológica de otra persona en virtud de conductas de acoso sexual, hostigamiento sexual o cualquier otro tipo de violencia sexual o de género, deberá canalizar a la persona vulnerada con la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual, cuidando en todo momento la identidad y datos personales de la víctima y velando especialmente por no incurrir en conductas que pudieran constituir victimización secundaria.
 
 ###### Artículo 222.
 
 Sanciones por hostigamiento y acoso sexual. En caso de que una persona servidora pública cometa alguna de las acciones contenidas en el artículo anterior podrá ser sujeto a una responsabilidad administrativa en términos del artículo 110, fracción XIII, de la Ley Orgánica.
 
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 223.
 
-Prevención del hostigamiento laboral y acoso sexual. Las y los Titulares deberán procurar adoptar medidas preventivas a fin de evitar conductas de hostigamiento laboral y acoso sexual, así como otras formas de violencia sexual y de género en los órganos jurisdiccionales a su cargo. La Unidad de Prevención y Combate al Acoso Sexual podrá sugerir la adopción de medidas preventivas para combatir el acoso sexual, hostigamiento sexual o cualquier otro tipo de violencia sexual o de género o en virtud de conductas de violencia laboral estrechamente relacionadas con violencia sexual o de género.
+Prevención del hostigamiento laboral y acoso sexual. Las personas Titulares deberán procurar adoptar medidas preventivas a fin de evitar conductas de hostigamiento laboral y acoso sexual, así como otras formas de violencia sexual y de género en los órganos jurisdiccionales a su cargo. La Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual podrá sugerir la adopción de medidas preventivas para combatir el acoso sexual, hostigamiento sexual o cualquier otro tipo de violencia sexual o de género o en virtud de conductas de violencia laboral estrechamente relacionadas con violencia sexual o de género.
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 224.
 
-Cambio de adscripción por hostigamiento laboral y acoso sexual. Adicionalmente a lo establecido en los artículos anteriores, la Unidad de Prevención y Combate al Acoso sexual podrán proponer a la Comisión de Administración el cambio de adscripción de personas servidoras públicas, como una medida de prevención en los casos de acoso sexual, hostigamiento sexual o cualquier otro tipo de violencia sexual o de género o en virtud de conductas de violencia laboral estrechamente relacionadas con violencia sexual o de género, atendiendo siempre al interés y máxima protección de la persona en riesgo y conforme el procedimiento establecido en el artículo 123 del presente Acuerdo.
+Cambio de adscripción por hostigamiento laboral y acoso sexual. Adicionalmente a lo establecido en los artículos anteriores, la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual podrá proponer a la Comisión de Administración el cambio de adscripción de personas servidoras públicas, como una medida de prevención en los casos de acoso sexual, hostigamiento sexual o cualquier otro tipo de violencia sexual o de género o en virtud de conductas de violencia laboral estrechamente relacionadas con violencia sexual o de género, atendiendo siempre al interés y máxima protección de la persona en riesgo y conforme el procedimiento establecido en el artículo 123 del presente Acuerdo.
 
 ## TRANSITORIOS
 
@@ -2830,3 +2854,35 @@ En un plazo de treinta días naturales, contados a partir de la entrada en vigor
 Aprobado el Punto de Acuerdo, la Dirección General de la Defensoría Pública, en conjunto con las áreas administrativas correspondientes, realizará las gestiones necesarias para formalizar el ingreso de las personas servidoras públicas que integrarán el servicio civil de carrera.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 7 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 7 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES RELATIVAS A LAS VACACIONES DE LOS JUZGADOS DE DISTRITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las disposiciones de este Acuerdo General serán aplicables a partir del periodo vacacional de invierno de 2023, conforme al calendario que debe aprobar la Comisión de Carrera Judicial a más tardar dentro de los treinta días naturales siguientes a la aprobación del presente Acuerdo; para lo cual puede modificarse el calendario de guardias para la presente anualidad.
+
+CUARTO. Los calendarios anuales de vacaciones se emitirán por parte de la Comisión de Carrera Judicial, en colaboración con la Visitaduría Judicial, la Secretaría Ejecutiva de Creación de Nuevos Órganos y las Direcciones Generales de Estadística Judicial y Gestión Judicial, dentro de los primeros dos meses de cada año.
+
+QUINTO. Cuando por disposición del Pleno del Consejo de la Judicatura Federal se apruebe la creación, extinción o modificación de algún Juzgado de Distrito, deberá presentarse el proyecto de modificación del calendario de vacaciones correspondiente, donde se incluya o excluya a dicho órgano.
+
+SEXTO. Para la programación de las visitas ordinarias de inspección en los Juzgados de Distrito y las fechas de rendición del Informe Circunstanciado, la Visitaduría Judicial deberá tomar en cuenta los calendarios de vacaciones.
+
+SÉPTIMO. La Secretaría Ejecutiva de Creación de Nuevos Órganos tomará en cuenta el calendario vacacional a efecto de que coincida con el calendario de guardias de los Juzgados de Distrito que emite anualmente.
+
+OCTAVO. El órgano jurisdiccional que se encuentre gozando su periodo vacacional en las fechas en las que corresponda rendir el informe estadístico mensual a la Dirección General de Estadística Judicial, contará con un plazo de 5 días naturales para remitirlo, contados a partir de que se reincorpore a sus labores.
+
+NOVENO. Se instruye a la Dirección General de Tecnologías de la Información y a la Dirección General de Gestión Judicial del Consejo de la Judicatura Federal, para que a más tardar a los dos meses después de la entrada en vigor del presente Acuerdo, realicen los ajustes necesarios en el Sistema Integral de Seguimiento de Expedientes y en el Portal de Servicios en Línea del Poder Judicial de la Federación, a efecto de que las partes que pretendan presentar una promoción electrónica dirigida a un Juzgados (sic) de Distrito que se encuentre gozando de su periodo vacacional conforme al calendario, sean informadas que únicamente se dará trámite si corresponde a los supuestos de la Guardia Vacacional, en caso contrario, será atendida hasta el regreso de actividades del órgano jurisdiccional, así como para que se informe que no corren plazos ni términos durante el periodo vacacional de cada juzgado en asuntos que no son competencia de la referida Guardia.
+
+DÉCIMO. Se instruye a la Dirección General de Comunicación Social del Consejo de la Judicatura Federal para que realice las campañas necesarias para dar plena difusión al contenido del presente Acuerdo y el calendario anexo entre los integrantes de la sociedad y el foro jurídico para su pleno conocimiento.
