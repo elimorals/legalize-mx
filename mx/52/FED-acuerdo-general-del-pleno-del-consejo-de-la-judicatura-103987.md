@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2023-08-29"
+last_updated: "2023-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE SEPTIEMBRE DE 2023.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -425,7 +425,9 @@ CI. Bis. Mujeres o Personas Lactantes. Personas que tengan la responsabilidad de
 
 CII. Observador: Persona física que, a título individual, o en representación de las cámaras, asociaciones empresariales, organizaciones no gubernamentales o instituciones educativas, asiste a los actos públicos de los procedimientos de contratación, sin voz ni voto;
 
-CIII. Operación y supervisión de los sistemas de seguridad: El desarrollo y coordinación de los planes, programas, procedimientos y sistemas, tendentes a preservar la seguridad de los servidores públicos, instalaciones, equipos y demás bienes del Poder Judicial de la Federación, que la Coordinación de Seguridad propondrá al Presidente;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+CIII. Operación y supervisión de los sistemas de seguridad: El desarrollo y coordinación de los planes, programas, procedimientos y sistemas, tendentes a preservar la seguridad de las personas servidoras públicas, instalaciones, equipos y demás bienes del Poder Judicial de la Federación, que la Coordinación de Seguridad propondrá a la Presidencia;
 
 CIV. Opinión jurídica: Documento emitido por la Dirección General de Asuntos Jurídicos que contiene el análisis jurídico respecto de las consultas que realicen las áreas administrativas, para la eficaz observancia de la normativa;
 
@@ -463,7 +465,9 @@ CXV. Poder Judicial de la Federación: Los órganos señalados en el artículo 9
 
 CXVI. Preparación: Actividades y medidas tomadas anticipadamente para asegurar una respuesta eficaz ante el impacto de un fenómeno perturbador en el corto, mediano y largo plazo;
 
-CXVII. Presidente: Presidente del Consejo;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+CXVII. Presidencia: Persona Consejera que preside el Consejo;
 
 CXVIII. Prestación de servicios: Los servicios de custodia, alimentación, medicina preventiva y educación, que se brinda a los menores inscritos en los CENDI;
 
@@ -687,11 +691,11 @@ CXC. Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a sufr
 
 ### CAPÍTULO PRIMERO. NOMBRAMIENTOS Y PRÓRROGAS DEL PERSONAL DE CONFIANZA
 
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 16.
 
-Las disposiciones de este Capítulo son de observancia general en el Consejo, correspondiendo a su Presidente, Consejeros y titulares de las áreas administrativas velar por su debido cumplimiento.
+Las disposiciones de este Capítulo son de observancia general en el Consejo, correspondiendo a su Presidencia, personas Consejeras y personas titulares de las áreas administrativas velar por su debido cumplimiento.
 
 ###### Artículo 17.
 
@@ -1057,9 +1061,11 @@ La suspensión iniciará a partir del momento en que el servidor público sea no
 
 Si así conviniere a sus intereses, el servidor público, durante la sustanciación del procedimiento especial, podrá designar persona que lo represente.
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 35.
 
-Los acuerdos de trámite dentro del procedimiento especial, serán emitidos por el Presidente y no serán recurribles.
+Los acuerdos de trámite dentro del procedimiento especial, serán emitidos por la Presidencia y no serán recurribles.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
@@ -1071,11 +1077,11 @@ Asimismo, se requerirá a éste para que, si conviene a sus intereses, designe a
 
 Si el servidor público no designa perito dentro del referido término, se entenderá que consiente el dictamen que rinda el perito designado por la Dirección General de Servicios al Personal, salvo lo dispuesto en el artículo 48 de este Acuerdo.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 37.
 
-Hecha la designación de los peritos, se requerirá a éstos, por conducto de la Dirección General de Servicios al Personal y del servidor público, para que rindan sus correspondientes dictámenes, dentro del término de quince días a partir del día siguiente de la notificación respectiva. Este término podrá prorrogarse discrecionalmente por el Presidente, por una sola vez y por igual lapso.
+Hecha la designación de las peritas o los peritos, se requerirá a éstos, por conducto de la Dirección General de Servicios al Personal y de la persona servidora pública, para que rindan sus correspondientes dictámenes, dentro del término de quince días a partir del día siguiente de la notificación respectiva. Este término podrá prorrogarse discrecionalmente por la Presidencia, por una sola vez y por igual lapso.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
@@ -1101,11 +1107,11 @@ Los dictámenes periciales deberán informar si el servidor público se encuentr
 
 Si el servidor público se niega a someterse a la revisión médica o a los estudios clínicos solicitados por el perito designado por la Dirección General de Servicios al Personal, se sobreseerá el procedimiento especial, con la consecuencia prevista en el artículo 47 de este Acuerdo.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 42.
 
-Si los dictámenes emitidos por los peritos designados por la Dirección General de Servicios al Personal y por el servidor público, fueran contradictorios, el Presidente solicitará al ISSSTE o a la Fiscalía General de la República, en su caso, la designación de un perito tercero en discordia. En caso de que el ISSSTE y la Fiscalía General de la República no estén en posibilidad de proporcionar el perito correspondiente, podrá solicitarlo a otros organismos públicos.
+Si los dictámenes emitidos por las peritas y los peritos designados por la Dirección General de Servicios al Personal y por la persona servidora pública, fueran contradictorios, la Presidencia solicitará al ISSSTE o a la Fiscalía General de la República, en su caso, la designación de una perita o perito tercero en discordia. En caso de que el ISSSTE y la Fiscalía General de la República no estén en posibilidad de proporcionar la perita o el perito correspondiente, podrá solicitarlo a otros organismos públicos.
 
 ###### Artículo 43.
 
@@ -1289,11 +1295,13 @@ Para el resguardo y preservación de los documentos electrónicos que generan o 
 
 #### SECCIÓN SEGUNDA. USO DE LA FIRMA ELECTRÓNICA
 
-> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 52 Octies.
 
-La o el Presidente, las Consejeras y Consejeros, así como las y los titulares y demás personas servidoras públicas de las áreas administrativas, podrán dar trámite con plena validez, a los instrumentos, oficios, actas de sesiones, acuerdos, resoluciones, engroses y demás documentos mediante el uso de FIREL o e.firma, las cuales tendrán la misma validez que la firma autógrafa.
+La Presidencia, las personas Consejeras, las y los titulares, así como las demás personas servidoras públicas de las áreas administrativas, podrán dar trámite con plena validez, a los instrumentos, oficios, actas de sesiones, acuerdos, resoluciones, engroses y demás documentos mediante el uso de FIREL o e.firma, las cuales tendrán la misma validez que la firma autógrafa.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 Lo anterior resulta aplicable a las determinaciones que se adopten por los órganos colegiados del Consejo.
 
@@ -1369,7 +1377,9 @@ La Secretaría Ejecutiva del Pleno y las Secretarías Técnicas de las Comisione
 
 III. Por regla general, las sesiones ordinarias deberán celebrarse mediante videoconferencias, utilizando la solución digital que al efecto disponga la Dirección General de Tecnologías de la Información, en coordinación con la Dirección General de Estrategia y Transformación Digital conforme lo determinado por el Comité de Gobernanza Digital.
 
-La o el Presidente, y las Consejeras o los Consejeros que presidan cada Comisión definirán los días, horarios y logística de las sesiones del Pleno, la Comisión Especial y las Comisiones permanentes del Consejo, respectivamente. Corresponderá a la persona titular de la Secretaría Ejecutiva del Pleno y a las y los Secretarios Técnicos de Comisiones instrumentar las acciones necesarias para el correcto desarrollo de las sesiones a través del uso de medios tecnológicos o soluciones digitales;
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+La Presidencia, y las personas Consejeras que Presidan cada Comisión definirán los días, horarios y logística de las sesiones del Pleno, la Comisión Especial y las Comisiones permanentes del Consejo, respectivamente. Corresponderá a la persona titular de la Secretaría Ejecutiva del Pleno y a las y los Secretarios Técnicos de Comisiones instrumentar las acciones necesarias para el correcto desarrollo de las sesiones a través del uso de medios tecnológicos o soluciones digitales;
 
 IV. Las sesiones extraordinarias podrán celebrarse por videoconferencia, o mediante la remisión de un correo electrónico con la intención del voto, observaciones, comentarios o ajustes; así como de manera presencial si la urgencia del caso lo permite, previa determinación de la persona presidenta del órgano colegiado correspondiente. En estos casos, la convocatoria deberá establecer los plazos previstos para tales efectos. Si no existe definición sobre el plazo, se presumirá que es de 48 horas contadas a partir de la recepción de la convocatoria; y
 
@@ -9199,7 +9209,9 @@ e) Garantizar que la estrategia en las distintas áreas que integran el Consejo 
 
 f) Requerir a la Dirección General de Tecnologías de la Información el aprovisionamiento de la infraestructura necesaria para la implementación de las estrategias en materia de gobierno de datos, gobernanza digital, transformación digital y e-Justicia; y
 
-X. Las demás que se determinen necesarias para garantizar las estrategias de gobierno de datos, gobernanza digital, transformación digital y e-Justicia, que sean conferidas por el Pleno, la Comisión de Administración o por el Presidente, a través de la persona titular de la Secretaría Ejecutiva del Pleno.
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+X. Las demás que se determinen necesarias para garantizar las estrategias de gobierno de datos, gobernanza digital, transformación digital y e-Justicia, que sean conferidas por el Pleno, la Comisión de Administración o por la Presidencia, a través de la persona titular de la Secretaría Ejecutiva del Pleno.
 
 > <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
 
@@ -10305,9 +10317,9 @@ El ejercicio del gasto por medio de fondos fijos, servirá para cubrir requerimi
 
 Para el ejercicio del gasto por concepto de viáticos y pasajes, las unidades ejecutoras de gasto deberán sujetarse a lo siguiente:
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA AUTORIZACIÓN DE COMISIONES INTERNACIONALES, D.O.F. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
-I. Para la asignación de viáticos en el desempeño de comisiones tanto en territorio nacional como en el extranjero, observar las disposiciones aplicables y los acuerdos que al efecto emita el Pleno. Las comisiones en el extranjero deberán contar con la autorización del Pleno o del Presidente;
+I. Para la asignación de viáticos en el desempeño de comisiones tanto en territorio nacional como en el extranjero, observar las disposiciones aplicables y los acuerdos que al efecto emita el Pleno. Las comisiones en el extranjero deberán contar con la autorización del Pleno o de la Presidencia;
 
 II. La autorización para el desempeño de las comisiones, se efectuará para contribuir al logro de los objetivos y metas de los programas aprobados;
 
@@ -11495,11 +11507,11 @@ III. Para los restantes servidores públicos pertenecientes a los Grupos 3 y 4, 
 
 Lo anterior, sin que sea óbice, que las Comisiones o el Pleno, instruyan las comisiones de los servidores públicos que estimen conducentes.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA AUTORIZACIÓN DE COMISIONES INTERNACIONALES, D.O.F. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 835 Sexies.
 
-Tratándose de comisiones internacionales, se deberá contar con la autorización del Pleno o del Presidente.
+Tratándose de comisiones internacionales, se deberá contar con la autorización del Pleno o de la Presidencia.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
@@ -11527,7 +11539,9 @@ La documentación justificatoria de las comisiones efectuadas, deberá obrar en 
 
 No se autorizarán comisiones en los siguientes casos:
 
-I. Durante el tiempo en el que el servidor público se encuentre disfrutando de un periodo vacacional o cualquier tipo de licencia, con excepción de las otorgadas a titulares de órganos jurisdiccionales para asistir a eventos oficiales, académicos o de capacitación autorizados por el Presidente, el Pleno o las Comisiones;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+
+I. Durante el tiempo en el que la persona servidora pública se encuentre disfrutando de un periodo vacacional o cualquier tipo de licencia, con excepción de las otorgadas a las personas titulares de órganos jurisdiccionales para asistir a eventos oficiales, académicos o de capacitación autorizados por la Presidencia, el Pleno o las Comisiones;
 
 II. Que no se encuentren plenamente justificadas por el área solicitante;
 
@@ -12631,11 +12645,11 @@ La Coordinación de Seguridad tendrá bajo su mando y supervisión los centros d
 
 La Coordinación de Seguridad determinará, conforme al protocolo o manual correspondiente y previo análisis técnico de seguridad, las características del equipo, la logística de ubicación y las reglas para el manejo y control operativo de los centros de control y monitoreo. La administración de inmuebles dará todas las facilidades a la Coordinación de Seguridad para que se instalen dichos sistemas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 937.
 
-La información que se genere por el uso de los equipos mencionados en el artículo anterior, en casos relevantes de riesgo o hechos probablemente ilícitos, se hará del conocimiento del Presidente y de los Consejeros y, en caso necesario, de las autoridades competentes, ya sea por requerimiento en los términos de las leyes respectivas o cuando el Consejo deba comunicarlas de manera directa.
+La información que se genere por el uso de los equipos mencionados en el artículo anterior, en casos relevantes de riesgo o hechos probablemente ilícitos, se hará del conocimiento de la Presidencia y de las personas Consejeras y, en caso necesario, de las autoridades competentes, ya sea por requerimiento en los términos de las leyes respectivas o cuando el Consejo deba comunicarlas de manera directa.
 
 El manejo, resguardo y entrega de la información generada por dichos sistemas, se regulará por los manuales, procedimientos y sistemas establecidos por la Coordinación de Seguridad, en ellos se privilegiará en todo momento la protección de los datos personales, con las excepciones que las leyes determinen. El mal uso de dicha información quedará bajo la responsabilidad de quien la controle y divulgue.
 
@@ -14554,6 +14568,14 @@ SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su
 D.O.F. 29 DE AGOSTO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA LICENCIA DE PATERNIDAD Y DE ADOPCIÓN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 7 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA".]
 
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
