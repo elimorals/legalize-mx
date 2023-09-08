@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2023-09-01"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -320,6 +320,10 @@ El Estado promoverá el bienestar social, así como la vivienda digna y decorosa
 Las leyes regularán y organizarán el patrimonio de la familia, determinando los bienes que deben constituirlo, sobre la base de que será inalienable y no estará sujeto a embargo ni a gravamen alguno.
 
 El Estado reconoce como un Derecho Humano el acceso al agua en condiciones de igualdad social, debiendo garantizar su suficiencia, salubridad, aceptabilidad, accesibilidad y asequibilidad.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+El Estado garantizará el acceso y disfrute al mínimo vital de agua potable, por lo que bajo ninguna circunstancia podrá restringirse de manera total el servicio de agua potable para uso doméstico.
 
 El Estado Libre y Soberano de San Luis Potosí, no solo reconoce su obligación de garantizar el derecho a la salud, a la alimentación suficiente y de calidad, a la vivienda digna y decorosa, a la protección del patrimonio familiar, el acceso al agua, sino también la de garantizar a través de programas sociales establecidos en la ley, el acceso gratuito de estudiantes al transporte público, atención médica gratuita a la población, y la entrega de apoyos económicos, alimentarios, pensiones, y subsidios a personas en condición de pobreza.
 
@@ -921,15 +925,15 @@ XIII.- No ser funcionario municipal con atribuciones de mando.
 
 Quienes se encuentren en los supuestos que señalan las fracciones, II, III, IV, VII, VIII, X, y XIII de este artículo, estarán impedidos a menos que se separen definitivamente de sus funciones noventa días antes del día de la elección. Los ministros de culto deberán hacerlo con la anticipación y en la forma establecida en la Ley reglamentaria del artículo 130 de la Constitución Federal.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 48.
 
-Los Diputados podrán ser electos hasta por cuatro periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Las diputadas y los diputados podrán ser electos hasta por cuatro períodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+Quienes pretendan reelegirse en una diputación deberán separarse de su cargo cuarenta y cinco días antes de la elección, previa solicitud de la licencia respectiva, pudiendo reincorporarse el día posterior de la elección. Las y los legisladores electos como candidatos independientes sólo podrán ser reelectos bajo esta misma figura.
 
-Los diputados que pretendan reelegirse deberán separarse de su cargo noventa días antes de la elección solicitando licencia respectiva, pudiendo reincorporarse el día posterior de la elección. Los diputados electos como candidatos independientes sólo podrán ser reelectos bajo esta misma figura.
+La ley establecerá las bases y mecanismos que habrán de observar las diputadas y los diputados que pretendan acceder a la elección consecutiva.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
 
@@ -2162,6 +2166,10 @@ Los ayuntamientos no podrán celebrar acto o contrato alguno que grave, comprome
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 Aprobado el presupuesto municipal de egresos por el Cabildo, se dispondrá por el Presidente Municipal su publicación en el Periódico Oficial del Estado, a más tardar el quince de enero de cada ejercicio anual.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+ARTÍCULO 115 BIS.- Los ayuntamientos garantizarán y promoverán la participación ciudadana por medio de la integración de las Juntas de Participación Ciudadana, y demás mecanismos de participación ciudadana que esta Constitución, y demás leyes estatales reconozcan.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -3634,3 +3642,27 @@ P.O. 1 DE SEPTIEMBRE DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0818.- SE ADICIONA EL PÁRRAFO NOVENO AL ARTÍCULO 12, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0819.- SE ADICIONA EL ARTÍCULO 115 BIS, A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0832.- SE REFORMA EL ARTÍCULO 48, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
