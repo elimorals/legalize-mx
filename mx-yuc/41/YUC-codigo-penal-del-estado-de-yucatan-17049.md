@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2023-06-28"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -2727,7 +2727,13 @@ No serán considerados discriminatorios los programas y medidas de protección q
 
 Este delito se perseguirá por querella.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+### CAPÍTULO VI BIS. TERAPIAS DE CONVERSIÓN
+
+(NOTA: EL 30 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 203/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE PÁRRAFO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE SEPTIEMBRE DE 2023, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 667/2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ### CAPÍTULO VII. Violencia laboral contra las mujeres
 
@@ -2752,6 +2758,16 @@ V.- Imponga labores insalubres, peligrosas o trabajos nocturnos injustificados a
 VI.- Impida a una mujer ejercer su periodo de lactancia, o
 
 VII.- Permita o tolere actos de hostigamiento o acoso sexual en contra de alguna mujer con motivo de sus actividades laborales.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 31 DE JULIO DE 2019)</small>
+
+###### ARTÍCULO 243 Ter 1.
+
+Se aplicará sanción de uno a tres años de prisión y de cien hasta doscientos días multa a quien imparta, obligue, permita, consienta o aplique sobre una persona terapia, método, tratamiento o actos tendientes a anular, obstaculizar, modificar, menoscabar o reprimir EL LIBRE DESARROLLO DE LA PERSONALIDAD, orientación sexual, identidad sexual, expresión o manifestación de género de la víctima mediante violencia física, moral o psicoemocional que atenten contra la dignidad humana, aunque no cause daño físico o angustia psicológica.
+
+Se aumentará al doble la sanción a que refiere el presente artículo cuando el sujeto activo sea la madre, padre, tutora o tutor, curador, parientes por consanguinidad hasta el cuarto grado, profesional de la salud, psicólogo, psiquiatra o ministro de culto.
+
+Si la conducta se lleva a cabo en agravio de menores de edad, incapaces, adultos mayores, sujetos privados de libertad o, en general, con personas que por cualquier circunstancia no pudieran resistirse, la pena señalada en el párrafo anterior se aumentará en una mitad más.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 31 DE JULIO DE 2019)</small>
 
@@ -2823,15 +2839,11 @@ VAGANCIA, MALVIVENCIA Y VENTA ILÍCITA DE BEBIDAS ALCOHÓLICAS
 
 ### CAPÍTULO II. DEL COMERCIO ILÍCITO DE BEBIDAS ALCOHÓLICAS Y LA EBRIEDAD
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
-
 ###### ARTÍCULO 244.
 
 (DEROGADO, D.O. 23 DE JULIO DE 2008)
 
-### CAPÍTULO II. Ejercicio Ilícito de Servicio Público
-
-> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 245.
 
@@ -2869,7 +2881,7 @@ TÍTULO DECIMOTERCERO
 
 DELITOS POR HECHOS DE CORRUPCIÓN
 
-### CAPÍTULO III. ABUSO DE AUTORIDAD
+### CAPÍTULO II. Ejercicio Ilícito de Servicio Público
 
 > <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
@@ -2909,7 +2921,7 @@ Para la individualización de las sanciones previstas en este título, el órgan
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 18 DE JULIO DE 2017)</small>
 
-### CAPÍTULO IV. COALICIÓN DE SERVIDORES PÚBLICOS
+### CAPÍTULO III. ABUSO DE AUTORIDAD
 
 > <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
@@ -2937,7 +2949,7 @@ Al que cometa alguno de los delitos a que se refieren las fracciones I, II, III 
 
 Al infractor de las fracciones V, VI, VII y VIII se le impondrán de dos a siete años de prisión y de treinta a ciento cincuenta días-multa.
 
-### CAPÍTULO V. Uso Ilícito de Atribuciones y Facultades
+### CAPÍTULO IV. COALICIÓN DE SERVIDORES PÚBLICOS
 
 > <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
@@ -2981,7 +2993,9 @@ XV.- Incumplir con la obligación de impedir la ejecución de las conductas de p
 
 El delito de abuso de autoridad se sancionará con prisión de dos a ocho años y de diez a cien días-multa. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones X a XII del artículo anterior.
 
-### CAPÍTULO VI. CONCUSIÓN
+### CAPÍTULO V. Uso Ilícito de Atribuciones y Facultades
+
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 253.
 
@@ -2997,9 +3011,7 @@ A quienes cometan el delito de coalición de servidores públicos, se les impond
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 18 DE JULIO DE 2017)</small>
 
-### CAPÍTULO VI BIS. Intimidación
-
-> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+### CAPÍTULO VI. CONCUSIÓN
 
 ###### ARTÍCULO 255.
 
@@ -3035,9 +3047,9 @@ Al que cometa el delito a que se refiere el presente artículo, se le impondrán
 
 (DEROGADO, D.O. 18 DE JULIO DE 2017)
 
-### CAPÍTULO VII. EJERCICIO ABUSIVO DE FUNCIONES
+### CAPÍTULO VI BIS. Intimidación
 
-> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 257.
 
@@ -3055,7 +3067,7 @@ II.- Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinien
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 18 DE JULIO DE 2017)</small>
 
-### CAPÍTULO VIII. TRÁFICO DE INFLUENCIAS
+### CAPÍTULO VII. EJERCICIO ABUSIVO DE FUNCIONES
 
 > <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
@@ -3069,9 +3081,9 @@ II.- El servidor público que con motivo de la querella, denuncia o información
 
 Al que cometa el delito de intimidación se le impondrán de dos años a nueve años de prisión y de treinta a cien días-multa.
 
-### CAPÍTULO VIII BIS. Cohecho
+### CAPÍTULO VIII. TRÁFICO DE INFLUENCIAS
 
-> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 259.
 
@@ -3103,9 +3115,9 @@ II.- Cuando estando legalmente obligado a entregar a una autoridad información 
 
 Al que cometa el delito a que se refiere este artículo, se le impondrán de tres meses a nueve años de prisión y de treinta a cien días-multa.
 
-### CAPÍTULO IX. PECULADO
+### CAPÍTULO VIII BIS. Cohecho
 
-> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 261.
 
@@ -3127,7 +3139,7 @@ Al que cometa el delito de tráfico de influencia, se le impondrán de dos años
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 18 DE JULIO DE 2017)</small>
 
-### CAPÍTULO X. ENRIQUECIMIENTO ILÍCITO
+### CAPÍTULO IX. PECULADO
 
 > <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
@@ -3159,7 +3171,9 @@ II.- Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestaci
 
 En ningún caso se devolverá a los responsables del delito de cohecho, el dinero o dádiva entregados o recibidos; estos se aplicarán en beneficio del erario público del estado.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO X. ENRIQUECIMIENTO ILÍCITO
+
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 263.
 
@@ -3183,7 +3197,7 @@ I.- Cuando el monto de lo distraído o de los fondos utilizados indebidamente no
 
 II.- Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda del equivalente de quinientas unidades de medida y actualización en el momento de cometerse el delito, se impondrán de dos años a catorce años de prisión y de cien a ciento cincuenta días-multa.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 265.
 
@@ -3207,7 +3221,7 @@ TÍTULO DECIMOCUARTO
 
 DELITOS COMETIDOS CONTRA LA ADMINISTRACIÓN DE JUSTICIA Y OTROS RAMOS DEL PODER PÚBLICO
 
-### CAPÍTULO II. RESPONSABILIDAD MÉDICA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 267.
 
@@ -3291,7 +3305,7 @@ TÍTULO DECIMOQUINTO
 
 RESPONSABILIDAD PROFESIONAL
 
-### CAPÍTULO III. RESPONSABILIDAD DE ABOGADOS, PATRONOS Y LITIGANTES
+### CAPÍTULO II. RESPONSABILIDAD MÉDICA
 
 ###### ARTÍCULO 269.
 
@@ -3303,7 +3317,7 @@ I. Además de las sanciones señaladas para los delitos que resulten cometidos, 
 
 II. Estarán obligados a la reparación del daño por sus propios actos y por los de sus auxiliares, cuando éstos obren de acuerdo con las instrucciones de aquéllos.
 
-### CAPÍTULO I. FALSIFICACIÓN Y USO INDEBIDO DE SELLOS, LLAVES, MARCAS, CONTRASEÑAS Y OTROS OBJETOS
+### CAPÍTULO III. RESPONSABILIDAD DE ABOGADOS, PATRONOS Y LITIGANTES
 
 ###### ARTÍCULO 270.
 
@@ -3341,7 +3355,7 @@ IV. Autorice la práctica de un procedimiento médico quirúrgico de especialida
 
 La misma sanción se impondrá a los encargados, empleados o dependientes de una farmacia, que al surtir una receta sustituyan la medicina específicamente recetada por otra que cause daño o sea evidentemente inapropiado al padecimiento para el cual se prescribió.
 
-### CAPÍTULO II. FALSIFICACIÓN DE DOCUMENTOS EN GENERAL
+### CAPÍTULO I. FALSIFICACIÓN Y USO INDEBIDO DE SELLOS, LLAVES, MARCAS, CONTRASEÑAS Y OTROS OBJETOS
 
 ###### ARTÍCULO 273.
 
@@ -3381,9 +3395,7 @@ TÍTULO DECIMOSEXTO
 
 FALSEDAD
 
-### CAPÍTULO III. FALSEDAD EN DECLARACIONES JUDICIALES E INFORMES DADOS A UNA AUTORIDAD
-
-> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
+### CAPÍTULO II. FALSIFICACIÓN DE DOCUMENTOS EN GENERAL
 
 ###### ARTÍCULO 277.
 
@@ -3421,7 +3433,9 @@ V. A sabiendas, hiciera uso de las llaves, sellos, marcas y demás objetos expre
 
 Se impondrá prisión de uno a cinco años y de diez a cien días-multa, a quien en cualquier forma altere las señales, marcas de sangre o de fuego, que se utilizan para distinguir al ganado, sin autorización de la persona que lo tenga legalmente registrado ante la autoridad competente.
 
-### CAPÍTULO IV. VARIACIÓN DEL NOMBRE O DOMICILIO
+### CAPÍTULO III. FALSEDAD EN DECLARACIONES JUDICIALES E INFORMES DADOS A UNA AUTORIDAD
+
+> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 281.
 
@@ -3497,7 +3511,7 @@ Si el sujeto activo es empleado o dependiente del ofendido, las penas se aumenta
 
 En el caso de que se actualicen otros delitos con motivo de las conductas a que se refiere este artículo se aplicarán las reglas del concurso.
 
-### CAPÍTULO V. USURPACIÓN DE FUNCIONES PÚBLICAS O DE PROFESIÓN Y USO INDEBIDO DE UNIFORME, INSIGNIA, DISTINTIVO O CONDECORACIÓN
+### CAPÍTULO IV. VARIACIÓN DEL NOMBRE O DOMICILIO
 
 ###### ARTÍCULO 285.
 
@@ -3543,7 +3557,7 @@ I. Con objeto de aprovechar ilícitamente la eficacia jurídica de una resoluci�
 
 II. Fundado en documentos o testigos falsos a sabiendas de que los son, proporcione datos falsos que produzcan indefensión y deduzca acción en contra de otro ante autoridades judiciales o administrativas con perjuicio de éste o de un tercero.
 
-### CAPÍTULO VI. DISPOSICIONES COMUNES A LOS CAPÍTULOS PRECEDENTES
+### CAPÍTULO V. USURPACIÓN DE FUNCIONES PÚBLICAS O DE PROFESIÓN Y USO INDEBIDO DE UNIFORME, INSIGNIA, DISTINTIVO O CONDECORACIÓN
 
 ###### ARTÍCULO 289.
 
@@ -3559,9 +3573,7 @@ III. Siendo servidor público en los actos propios de su cargo, atribuyere a una
 
 Lo dispuesto en este artículo no comprende a quien tenga el carácter de imputado en una investigación o proceso penal.
 
-### CAPÍTULO I. GOLPES
-
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
+### CAPÍTULO VI. DISPOSICIONES COMUNES A LOS CAPÍTULOS PRECEDENTES
 
 ###### ARTÍCULO 290.
 
@@ -3573,7 +3585,9 @@ II. Usare credenciales de servidor público o condecoraciones a que no tenga der
 
 III. Al que, sin tener título legal, se atribuya el carácter profesional y ejerza los actos propios de la profesión.
 
-### CAPÍTULO II. INJURIAS Y DIFAMACIÓN
+### CAPÍTULO I. GOLPES
+
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 291.
 
@@ -3587,15 +3601,15 @@ TÍTULO DECIMOSEPTIMO
 
 DELITOS CONTRA EL HONOR
 
-### CAPÍTULO III. CALUMNIA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+### CAPÍTULO II. INJURIAS Y DIFAMACIÓN
 
 ###### ARTÍCULO 293.
 
 Se aplicarán de tres meses a un año de prisión o de diez a veinte días-multa y de diez a veinte días de trabajo en favor de la comunidad, a quien, públicamente y fuera de riña, infiera a otro, sin lesionarlo, un golpe simple con ánimo de ofender. Este delito se perseguirá por querella de la parte ofendida.
 
-### CAPÍTULO IV. DISPOSICIONES COMUNES PARA LOS CAPÍTULOS II Y III PRECEDENTES
+### CAPÍTULO III. CALUMNIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 294.
 
@@ -3645,7 +3659,7 @@ Se consideran de carácter sedicioso las informaciones que inciten a las persona
 
 Para los efectos de este artículo se consideran que faltan al respeto a la vida privada las informaciones que penetran en la intimidad del hogar o en la conducta social de las personas o que tiendan a exhibirlas, a menoscabar su reputación o dañarlas en sus relaciones sociales.
 
-### CAPÍTULO V. CHANTAJE
+### CAPÍTULO IV. DISPOSICIONES COMUNES PARA LOS CAPÍTULOS II Y III PRECEDENTES
 
 ###### ARTÍCULO 299.
 
@@ -3669,9 +3683,7 @@ Tampoco se aplicará sanción alguna al autor de una denuncia o querella, si los
 
 Cuando haya pendiente un procedimiento relacionado con un delito imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que el juicio termine. En este caso, la prescripción comenzará a correr cuando éste concluya.
 
-### CAPÍTULO I. HOSTIGAMIENTO SEXUAL
-
-> <small>(REFORMADO, D.O. 3 DE AGOSTO DE 2021)</small>
+### CAPÍTULO V. CHANTAJE
 
 ###### ARTÍCULO 301.
 
@@ -3697,6 +3709,26 @@ Siempre que sea condenado el autor de una injuria, difamación o de una calumnia
 
 No servirá de excusa de la difamación o de la calumnia, que el hecho imputado sea notorio o que el agente se limite a reproducir lo ya publicado o difundido en la República Mexicana o en otro país.
 
+### CAPÍTULO I. HOSTIGAMIENTO SEXUAL
+
+> <small>(REFORMADO, D.O. 3 DE AGOSTO DE 2021)</small>
+
+###### ARTÍCULO 306.
+
+Comete el delito de chantaje el que para obligar a otro a hacer, tolerar o dejar de hacer alguna cosa contra sus propios bienes jurídicos o a entregarle dinero o cualquier otro objeto, amenace con difamarlo.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 307.
+
+Se aplicará prisión de tres días a cuatro años o de cuarenta a doscientos días-multa y de cuarenta a doscientos días de trabajo en favor de la comunidad, al que cometa el delito de chantaje.
+
+Este delito se perseguirá por querella.
+
+TÍTULO DECIMOCTAVO
+
+DELITOS SEXUALES
+
 ### CAPÍTULO I BIS. Acoso Sexual
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE AGOSTO DE 2021)</small>
@@ -3721,26 +3753,6 @@ Si la víctima del delito de acoso sexual fuera menor de quince años de edad o 
 
 Este delito se perseguirá a petición de parte, salvo que la víctima sea menor de edad o por cualquier circunstancia sea incapaz de comprender el delito, en cuyo caso se perseguirá de oficio.
 
-###### ARTÍCULO 306.
-
-Comete el delito de chantaje el que para obligar a otro a hacer, tolerar o dejar de hacer alguna cosa contra sus propios bienes jurídicos o a entregarle dinero o cualquier otro objeto, amenace con difamarlo.
-
-> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
-
-###### ARTÍCULO 307.
-
-Se aplicará prisión de tres días a cuatro años o de cuarenta a doscientos días-multa y de cuarenta a doscientos días de trabajo en favor de la comunidad, al que cometa el delito de chantaje.
-
-Este delito se perseguirá por querella.
-
-TÍTULO DECIMOCTAVO
-
-DELITOS SEXUALES
-
-### CAPÍTULO II. ABUSO SEXUAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
-
 ###### ARTÍCULO 308.
 
 A quien con fines lascivos o sexuales asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá prisión de tres a seis años o de doscientos a quinientos días-multa y de cien a quinientos días de trabajo en favor de la comunidad.
@@ -3753,13 +3765,13 @@ En caso de reincidencia las sanciones previstas en el primer párrafo de éste a
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE MARZO DE 2018)</small>
 
+### CAPÍTULO II. ABUSO SEXUAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ### CAPÍTULO III. ESTUPRO
 
 > <small>(REFORMADO, D.O. 3 DE AGOSTO DE 2021)</small>
-
-### CAPÍTULO IV. VIOLACIÓN
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE AGOSTO DE 2021)</small>
 
 ###### ARTÍCULO 309.
 
@@ -3775,9 +3787,9 @@ Se entenderá por actos lascivos los tocamientos, manoseos corporales obscenos, 
 
 A quien cometa el delito de abuso sexual en una persona menor de quince años de edad o en persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de doce a veinte años de prisión y de seiscientos a tres mil días-multa. Si se hiciere uso de la violencia física o psicológica, la sanción se aumentará hasta en una mitad. Este delito se perseguirá de oficio.
 
-### CAPÍTULO V. DISPOSICIONES COMUNES
+### CAPÍTULO IV. VIOLACIÓN
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE AGOSTO DE 2021)</small>
 
 ###### ARTÍCULO 311.
 
@@ -3787,9 +3799,9 @@ Al que tenga cópula con persona mayor de quince y menor de dieciocho años de e
 
 (DEROGADO, D.O. 2 DE MAYO DE 2016)
 
-### CAPÍTULO I. REGLAS GENERALES
+### CAPÍTULO V. DISPOSICIONES COMUNES
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 313.
 
@@ -3821,9 +3833,9 @@ Se equipara a la violación y se sancionará con prisión de diez a treinta año
 
 Si además se ejerciere violencia física o moral, y en su caso, resultare en embarazo y/o en contagio de enfermad (sic) de transmisión sexual, el mínimo y el máximo de la sanción se aumentarán en una mitad.
 
-### CAPÍTULO II. ABUSO DE CONFIANZA
+### CAPÍTULO I. REGLAS GENERALES
 
-> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 316.
 
@@ -3863,13 +3875,15 @@ TÍTULO DECIMONOVENO
 
 DELITOS CONTRA EL PATRIMONIO
 
-### CAPÍTULO III. FRAUDE
+### CAPÍTULO II. ABUSO DE CONFIANZA
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 317.
 
 Cuando se hable de unidad de medida y actualización en este título, se entenderá que se refiere a la unidad de medida y actualización, en su valor actualizado en el momento de consumarse el delito si fuere instantáneo; en el momento consumativo de la última conducta si fuere continuado y en el momento en que cesó la consumación si fuere permanente.
 
-### CAPÍTULO IV. EXTORSIÓN
+### CAPÍTULO III. FRAUDE
 
 ###### ARTÍCULO 318.
 
@@ -3923,7 +3937,7 @@ Para estimar la cuantía del abuso de confianza, se atenderá únicamente al val
 
 Se considera abuso de confianza y se sancionará con prisión de tres meses a tres años y hasta cien días-multa, al conductor o legítimo propietario de un vehículo que disponga indebidamente de este o se niegue sin justificación a entregarlo, si lo ha recibido en calidad de depósito por el Ministerio Público o por la autoridad judicial en un procedimiento relacionado con delitos por tránsito de vehículos, siempre que haya sido requerido por cualquiera de las autoridades que conozcan o sigan conociendo del caso.
 
-### CAPÍTULO V. USURA
+### CAPÍTULO IV. EXTORSIÓN
 
 ###### ARTÍCULO 323.
 
@@ -4049,7 +4063,7 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 Si el agente restituye el objeto del ilícito directamente al ofendido o tribunal de los autos antes de dictarse sentencia definitiva de primera o segunda instancia, se impondrá al imputado de tres meses a una tercera parte del máximo de la que correspondería imponer o prescindir de la imposición de las mismas. En ambos casos, el juez o tribunal hará saber al imputado en el momento procedimental oportuno, este beneficio.
 
-### CAPÍTULO VI. DESPOJO DE COSA INMUEBLE
+### CAPÍTULO V. USURA
 
 ###### ARTÍCULO 327.
 
@@ -4057,7 +4071,7 @@ A quien sin derecho obligue a otro a dar, hacer, dejar de hacer o tolerar algo o
 
 Las sanciones se aumentarán hasta el doble si el constreñimiento se realiza mediante una asociación delictuosa o por quien sea o haya sido servidor público. En este caso, se impondrá además al servidor, la destitución del empleo, cargo o comisión y la inhabilitación de uno a cinco años para desempeñar empleo, cargo o comisión públicos y al ex-servidor público únicamente la inhabilitación por el mismo término.
 
-### CAPÍTULO VII. ROBO
+### CAPÍTULO VI. DESPOJO DE COSA INMUEBLE
 
 ###### ARTÍCULO 328.
 
@@ -4071,9 +4085,7 @@ Si el sujeto activo reparare el daño, las sanciones a que se refiere el primer 
 
 La usura será perseguida por querella.
 
-### CAPÍTULO VIII. DAÑO EN PROPIEDAD AJENA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE JUNIO DE 2020)</small>
+### CAPÍTULO VII. ROBO
 
 ###### ARTÍCULO 329.
 
@@ -4095,21 +4107,9 @@ Si el despojo se efectúa por dos o más personas o con violencia, se aumentará
 
 Este delito se perseguirá por querella.
 
-### CAPÍTULO VIII BIS. PORTACIÓN ILEGAL DE INSTRUMENTOS DESTINADOS PARA EL OFICIO DE CERRAJERO
+### CAPÍTULO VIII. DAÑO EN PROPIEDAD AJENA
 
-> <small>(ADICIONADO, D.O. 24 DE JULIO DE 2020)</small>
-
-ARTÍCULO 350 BIS. Se entenderá en este capítulo por cerrajero a la persona que de acuerdo a sus conocimientos se dedica a abrir, reparar, colocar y darle mantenimiento a las llaves, cerraduras, candados, cerrojos y cilindros, tanto de puertas comunes así como también de vehículos, cajas de seguridad y que para el desempeño de tal oficio utiliza herramientas, instrumentos y toda clase de dispositivos físicos, electrónicos o digitales para apertura de bienes muebles o inmuebles.
-
-> <small>(ADICIONADO, D.O. 24 DE JULIO DE 2020)</small>
-
-ARTÍCULO 350 TER. Cuando una persona aprovechándose de los conocimientos de cerrajería cometa, facilite o a sabiendas permita un ilícito mediante el uso de ganzúas, chorlas, llaves maestras o limadas o cualquier otro instrumento u objeto físico, scanner o cualquier otro dispositivo electrónico, destinado para abrir, bloquear, inhibir o forzar cerraduras o dispositivos de seguridad, se le impondrá una pena de prisión de uno a cinco años y hasta una multa de cincuenta a quinientos días-multa.
-
-Lo anterior, sin perjuicio de las sanciones que correspondan si resultare cometido otro u otros delitos. En todos los casos, para los instrumentos u objetos del delito, se estará a lo dispuesto en este código.
-
-> <small>(ADICIONADO, D.O. 24 DE JULIO DE 2020)</small>
-
-ARTÍCULO 350 QUÁTER. Será obligación de todo cerrajero al prestar su servicio proporcionar aviso oportuno a la autoridad correspondiente ante cualquier indicio de la comisión de un posible hecho delictivo.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 330.
 
@@ -4335,7 +4335,21 @@ IV. Comercie total o parcialmente cualquier bien robado.
 
 En caso de tratarse de robo de ganado, sea mayor o menor, o de aves de corral, las conductas a que se refiere este artículo, se sancionarán hasta en una mitad más de las establecidas en los artículos 339, 340 y 341.
 
-### CAPÍTULO IX. DISPOSICIONES COMUNES A LOS CAPÍTULOS PRECEDENTES
+### CAPÍTULO VIII BIS. PORTACIÓN ILEGAL DE INSTRUMENTOS DESTINADOS PARA EL OFICIO DE CERRAJERO
+
+> <small>(ADICIONADO, D.O. 24 DE JULIO DE 2020)</small>
+
+ARTÍCULO 350 BIS. Se entenderá en este capítulo por cerrajero a la persona que de acuerdo a sus conocimientos se dedica a abrir, reparar, colocar y darle mantenimiento a las llaves, cerraduras, candados, cerrojos y cilindros, tanto de puertas comunes así como también de vehículos, cajas de seguridad y que para el desempeño de tal oficio utiliza herramientas, instrumentos y toda clase de dispositivos físicos, electrónicos o digitales para apertura de bienes muebles o inmuebles.
+
+> <small>(ADICIONADO, D.O. 24 DE JULIO DE 2020)</small>
+
+ARTÍCULO 350 TER. Cuando una persona aprovechándose de los conocimientos de cerrajería cometa, facilite o a sabiendas permita un ilícito mediante el uso de ganzúas, chorlas, llaves maestras o limadas o cualquier otro instrumento u objeto físico, scanner o cualquier otro dispositivo electrónico, destinado para abrir, bloquear, inhibir o forzar cerraduras o dispositivos de seguridad, se le impondrá una pena de prisión de uno a cinco años y hasta una multa de cincuenta a quinientos días-multa.
+
+Lo anterior, sin perjuicio de las sanciones que correspondan si resultare cometido otro u otros delitos. En todos los casos, para los instrumentos u objetos del delito, se estará a lo dispuesto en este código.
+
+> <small>(ADICIONADO, D.O. 24 DE JULIO DE 2020)</small>
+
+ARTÍCULO 350 QUÁTER. Será obligación de todo cerrajero al prestar su servicio proporcionar aviso oportuno a la autoridad correspondiente ante cualquier indicio de la comisión de un posible hecho delictivo.
 
 ###### ARTÍCULO 348.
 
@@ -4379,11 +4393,11 @@ Este delito será perseguido por querella.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 24 DE JULIO DE 2020)</small>
 
+### CAPÍTULO IX. DISPOSICIONES COMUNES A LOS CAPÍTULOS PRECEDENTES
+
 ### CAPÍTULO I. ABANDONO DE PERSONAS
 
 > <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
-
-### CAPÍTULO II. LESIONES
 
 ###### ARTÍCULO 351.
 
@@ -4393,7 +4407,7 @@ Igualmente, se requerirá querella para la persecución de terceros que hubiesen
 
 ## TÍTULO VIGÉSIMO. DELITOS CONTRA LA VIDA E INTEGRIDAD CORPORAL
 
-### CAPÍTULO III. HOMICIDIO
+### CAPÍTULO II. LESIONES
 
 ###### ARTÍCULO 352.
 
@@ -4425,7 +4439,7 @@ No se impondrá pena alguna a la madre que entregue a su hijo por ignorancia o e
 
 Cuando alguna de las conductas delictivas a que se refiere este Capítulo se realice contra persona mayor de setenta años de edad, la sanción a imponer se aumentará hasta en el doble de la sanción máxima que corresponda a la conducta de que se trate.
 
-### CAPÍTULO IV. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
+### CAPÍTULO III. HOMICIDIO
 
 ###### ARTÍCULO 357.
 
@@ -4527,7 +4541,7 @@ V.- Cuando el agresor cause las lesiones bajo los efectos del alcohol o cualquie
 
 ARTÍCULO 367 QUÁTER. Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia, cuando se trate de la investigación del delito de lesiones por razones de género se le impondrán de 2 a 5 años de prisión y multa de 300 a 900 unidades de medida y actualización, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPÍTULO V. ATAQUES PELIGROSOS
+### CAPÍTULO IV. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
 ###### ARTÍCULO 368.
 
@@ -4571,7 +4585,7 @@ Al responsable de homicidio en riña se le impondrá de cuatro a doce años de p
 
 ARTÍCULO 373 BIS.- No constituirá delito de homicidio, las conductas realizadas por el personal de las instituciones de salud, el representante que conste en el documento de voluntad anticipada ni los familiares del signatario de dicho documento, para efectos del cumplimiento de las disposiciones establecidas en la Ley de Voluntad Anticipada del Estado de Yucatán.
 
-### CAPÍTULO VI. ABORTO
+### CAPÍTULO V. ATAQUES PELIGROSOS
 
 ###### ARTÍCULO 374.
 
@@ -4669,9 +4683,7 @@ De las lesiones o muerte que a una persona cause algún animal, será responsabl
 
 BIS. Se impondrá una sanción de dos a seis años de prisión y multa de cuarenta a ochenta unidades de medida y actualización, a los que sustraigan órganos o partes del cuerpo humano sin la autorización de quien corresponda darla y sin cumplir los requisitos legales correspondientes.
 
-### CAPÍTULO VII. HOMICIDIO EN RAZÓN DEL PARENTESCO O RELACIÓN
-
-> <small>(REFORMADO, D.O. 8 DE ABRIL DE 2011)</small>
+### CAPÍTULO VI. ABORTO
 
 ###### ARTÍCULO 388.
 
@@ -4685,17 +4697,9 @@ II. Al que ataque a alguien de tal manera que en razón del arma, instrumento u 
 
 Si de las agresiones mencionadas resultaren una o más lesiones, se observarán las reglas de acumulación, menos en los casos en que dichas lesiones causaren la muerte del ofendido o fueren de las que ponen en peligro la vida, en los que se aplicarán las sanciones correspondientes al delito de lesiones o de homicidio. Cuando el delito por ataques peligrosos no ponga en peligro la vida, éste se perseguirá por querella de la parte ofendida
 
-### CAPÍTULO VIII. INSEMINACIÓN ARTIFICIAL
+### CAPÍTULO VII. HOMICIDIO EN RAZÓN DEL PARENTESCO O RELACIÓN
 
-> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
-
-ARTÍCULO 394 BIS. Al que sin consentimiento de una mujer de dieciocho años o más, o tratándose de una menor de esa edad o incapaz, con o sin su consentimiento, practique en ella inseminación artificial, se le aplicará prisión de dos a seis años. Si como resultado de la conducta se produce embarazo, se impondrá prisión de tres a ocho años.
-
-> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
-
-ARTÍCULO 394 TER. Si la inseminación se realiza con violencia se incrementará la sanción correspondiente en una mitad.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 8 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, D.O. 8 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 389.
 
@@ -4739,6 +4743,24 @@ IV. Cuando el aborto obedezca a causas económicas graves y justificadas y siemp
 
 V. Cuando se practique con el consentimiento de la madre y del padre en su caso y a juicio de dos médicos exista razón suficiente para suponer que el producto padece alteraciones genéticas o congénitas, que den por resultado el nacimiento de un ser con trastornos físicos o mentales graves.
 
+### CAPÍTULO VIII. INSEMINACIÓN ARTIFICIAL
+
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
+
+ARTÍCULO 394 BIS. Al que sin consentimiento de una mujer de dieciocho años o más, o tratándose de una menor de esa edad o incapaz, con o sin su consentimiento, practique en ella inseminación artificial, se le aplicará prisión de dos a seis años. Si como resultado de la conducta se produce embarazo, se impondrá prisión de tres a ocho años.
+
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
+
+ARTÍCULO 394 TER. Si la inseminación se realiza con violencia se incrementará la sanción correspondiente en una mitad.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 8 DE ABRIL DE 2011)</small>
+
+###### ARTÍCULO 394.
+
+A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, con conocimiento de esa relación, se le impondrá prisión de treinta a cuarenta años y será privado de todo derecho de familia sobre los bienes de aquella persona y bienes de aquella e inhabilitado para desempeñar en todo caso la patria potestad, la tutela y la curatela. Si faltare dicho conocimiento, se estará a la punibilidad prevista en el artículo 372 de este Código, sin menoscabo de observar alguna circunstancia que agrave o atenúe las sanciones a que se refieren los capítulos III y IV anteriores.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 23 DE JULIO DE 2008)</small>
+
 ### CAPÍTULO IX. ESTERILIDAD PROVOCADA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
@@ -4758,12 +4780,6 @@ A quien sin contar con cédula profesional que acredite su preparación médica,
 Además de las penas señaladas en el párrafo anterior, se impondrá al responsable la suspensión del empleo o profesión por un plazo igual al de la pena de prisión impuesta hasta la inhabilitación definitiva, siempre que en virtud de su ejercicio haya resultado un daño para la víctima; o bien, en caso de que el responsable sea servidor público se le privará del empleo, cargo o comisión público que haya estado desempeñando, siempre que en virtud de su ejercicio haya cometido dicha conducta típica.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
-
-###### ARTÍCULO 394.
-
-A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, con conocimiento de esa relación, se le impondrá prisión de treinta a cuarenta años y será privado de todo derecho de familia sobre los bienes de aquella persona y bienes de aquella e inhabilitado para desempeñar en todo caso la patria potestad, la tutela y la curatela. Si faltare dicho conocimiento, se estará a la punibilidad prevista en el artículo 372 de este Código, sin menoscabo de observar alguna circunstancia que agrave o atenúe las sanciones a que se refieren los capítulos III y IV anteriores.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 23 DE JULIO DE 2008)</small>
 
 ### CAPÍTULO X. FEMINICIDIO
 
@@ -4897,8 +4913,6 @@ DELITOS ELECTORALES
 
 ### CAPÍTULO II. DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS PARTICULARES
 
-### CAPÍTULO III. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS FUNCIONARIOS ELECTORALES
-
 ###### ARTÍCULO 395.
 
 Son delitos electorales, los establecidos en la Ley General en Materia de Delitos Electorales.
@@ -4913,7 +4927,7 @@ Las penas establecidas para los delitos electorales se aplicarán sin perjuicio 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 28 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO IV. DE LOS DELITOS EN QUE PUEDEN INCURRIR LOS FUNCIONARIOS PARTIDISTAS
+### CAPÍTULO III. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS FUNCIONARIOS ELECTORALES
 
 ###### ARTÍCULO 397.
 
@@ -4925,7 +4939,7 @@ Las penas establecidas para los delitos electorales se aplicarán sin perjuicio 
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO V. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS SERVIDORES PÚBLICOS
+### CAPÍTULO IV. DE LOS DELITOS EN QUE PUEDEN INCURRIR LOS FUNCIONARIOS PARTIDISTAS
 
 ###### ARTÍCULO 399.
 
@@ -4933,7 +4947,7 @@ Las penas establecidas para los delitos electorales se aplicarán sin perjuicio 
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO VI. DESTRUCCIÓN DE PROPAGANDA POLÍTICA
+### CAPÍTULO V. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS SERVIDORES PÚBLICOS
 
 ###### ARTÍCULO 400.
 
@@ -4941,7 +4955,7 @@ Las penas establecidas para los delitos electorales se aplicarán sin perjuicio 
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO VII. DELITOS EN QUE PUEDEN INCURRIR LOS DIPUTADOS Y REGIDORES ELECTOS
+### CAPÍTULO VI. DESTRUCCIÓN DE PROPAGANDA POLÍTICA
 
 ###### ARTÍCULO 401.
 
@@ -4949,7 +4963,7 @@ Las penas establecidas para los delitos electorales se aplicarán sin perjuicio 
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VII. DELITOS EN QUE PUEDEN INCURRIR LOS DIPUTADOS Y REGIDORES ELECTOS
 
 ###### ARTÍCULO 402.
 
@@ -4957,9 +4971,7 @@ Las penas establecidas para los delitos electorales se aplicarán sin perjuicio 
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO ÚNICO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES DOMÉSTICOS
-
-> <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 403.
 
@@ -4969,9 +4981,9 @@ TÍTULO VIGESIMOSEGUNDO
 
 DELITOS CONTRA LA ECONOMÍA PÚBLICA ESTATAL
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES DOMÉSTICOS
 
-> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+> <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
 
 ###### ARTÍCULO 404.
 
@@ -5004,6 +5016,10 @@ Lo dispuesto en el artículo anterior se aplicará sin perjuicio de las medidas 
 ## TÍTULO VIGÉSIMO TERCERO. DELITOS CONTRA LOS ANIMALES DOMÉSTICOS
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 2 DE MAYO DE 2013)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 406.
 
@@ -5924,3 +5940,15 @@ D.O. 28 DE JUNIO DE 2013.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 654/2023 POR EL QUE SE REFORMA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE DELITOS CONTRA EL SERVICIO DE TRANSPORTE PÚBLICO DE PASAJEROS”.]
 
 Artículo único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 667/2023 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE TERAPIAS DE CONVERSIÓN”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Clausula derogatoria
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se oponga (sic) a este decreto.
