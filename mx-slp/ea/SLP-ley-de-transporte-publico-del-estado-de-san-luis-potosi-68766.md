@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2023-05-23"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -2313,17 +2313,21 @@ VII. Por el sector de los concesionarios, un representante legal de los concesio
 
 VIII. Por el sector estudiantil, un representante de cada una de las asociaciones de estudiantes de Instituciones de educación superior en el Estado;
 
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+IX. Por el sector de autoridades estudiantiles, un representante de cada una de las autoridades educativas de las Instituciones de educación superior en el Estado;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+X. Una representante del Instituto de las Mujeres del Estado de San Luis Potosí, y
+
 > <small>(ADICIONADA, P.O. 7 DE MAYO DE 2013)</small>
 
-IX. Por el sector de autoridades estudiantiles, un representante de cada una de las autoridades educativas de las Instituciones de educación superior en el Estado, y
+XI. A convocatoria del Presidente del Consejo, y sólo con derecho a voz, podrán participar representantes de asociaciones de profesionistas, operadores, y ciudadanos, así como los funcionarios que, por razones de la importancia de sus atribuciones, estén vinculados con los fines del transporte público.
 
-> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-X. A convocatoria del Presidente del Consejo, y sólo con derecho a voz, podrán participar representantes de asociaciones de profesionistas, operadores, y ciudadanos, así como los funcionarios que, por razones de la importancia de sus atribuciones, estén vinculados con los fines del transporte público.
-
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
-
-Los integrantes a que refieren las fracciones I a IX, tendrán intervención en las determinaciones que se tomen para el mejoramiento y solución de los problemas que aquejen al transporte público de la Entidad, y el voto que emitan deberá ser contabilizado de manera colegiada contando por uno el de cada sector representativo.
+Los integrantes a que refieren las fracciones I a X, tendrán intervención en las determinaciones que se tomen para el mejoramiento y solución de los problemas que aquejen al transporte público de la Entidad, y el voto que emitan deberá ser contabilizado de manera colegiada contando por uno el de cada sector representativo.
 
 > <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
 
@@ -3314,3 +3318,11 @@ P.O. 23 DE MAYO DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0829.- SE REFORMA EL ARTÍCULO 119 EN SU FRACCIÓN IX Y EN SU PÁRRAFO ANTEPENÚLTIMO, Y ADICIONA AL MISMO ARTÍCULO 119 UNA FRACCIÓN, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
