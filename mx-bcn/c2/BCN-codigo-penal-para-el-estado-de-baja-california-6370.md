@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2023-08-11"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -269,11 +269,13 @@ B. Causas de justificación:
 
 I. Consentimiento presunto. Se presume que hay consentimiento, cuando el hecho se realiza en circunstancias tales que permitan suponer fundadamente que, de haberse consultado al titular del bien o a quien esté legitimado para consentir, éstos hubiesen otorgado el consentimiento;
 
-II. Legítima defensa: Se repela una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
+II. Legítima defensa: Se repela una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte de la persona agredida o de la persona defensora;
 
-Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquél que cause un daño, a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar o ya haya penetrado sin derecho, su hogar o sus dependencias, aunque no sea su hogar habitual, a los de su familia o los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; dentro de la casa donde se encuentre su familia, en su oficina de trabajo, su negocio comercial, o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
+Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquél que cause un daño, lesión o privación de la vida, a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar o ya haya penetrado sin derecho, su hogar o sus dependencias, aunque no sea su hogar habitual, a los de su familia o los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; dentro de la casa donde se encuentre su familia, en su oficina de trabajo, su negocio comercial, o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
+
+También se presumirá la legítima defensa, salvo prueba en contrario, en caso de que la mujer sea víctima de violencia física, sexual o feminicida, o en el hecho haya estado en peligro de serlo y repela la agresión. En estos casos la Fiscalía General del Estado o el órgano jurisdiccional, según corresponda, deberán actuar con perspectiva de género para determinar la procedencia de la legítima defensa. Mismo criterio se aplicará cuando una tercera persona actúe en defensa de ella.
 
 III. Estado de necesidad justificante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
 
@@ -958,6 +960,10 @@ Aplicación de pena en caso de error vencible.- En casos de error de tipo vencib
 ###### Artículo 79.
 
 Casos de exceso.- Al que incurra en exceso en alguna de las causas de justificación se le impondrá la sanción correspondiente al error de prohibición vencible, pero quedará subsistente la atribución del hecho a título doloso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+No se considerará exceso en la legítima defensa cuando la mujer sea víctima de violencia física, sexual o feminicida, o en el hecho haya estado en peligro de serlo y al momento en que ésta se concretice acredite haber estado en un estado miedo o terror o se encuentren en un estado de confusión que afecte su capacidad para determinar el límite adecuado de su respuesta o la racionalidad de los medios empleados.
 
 ### CAPITULO V. PUNIBILIDAD DE LA TENTATIVA
 
@@ -6458,3 +6464,9 @@ P.O. 11 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 256 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 208-QUARTER, DEL CÓDIGO PENAL DEL (SIC) ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 278 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 23 Y 79 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
