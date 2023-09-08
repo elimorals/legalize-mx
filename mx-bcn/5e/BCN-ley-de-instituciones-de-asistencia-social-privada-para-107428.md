@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-instituciones-de-asistencia-social-privada-para-107428"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-17"
-last_updated: "2023-01-27"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA PARA NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 2015.
 
@@ -55,6 +55,8 @@ A falta de disposición expresa en esta Ley, se aplicará en forma supletoria el
 
 Las disposiciones contenidas en esta Ley no eximen a las instituciones de Asistencia Social privada del cumplimiento de las obligaciones contenidas en la Ley de Asistencia Social para el Estado de Baja California, la Ley para la Protección y Defensa de los Derechos de las Niñas, Niños y Adolescentes del Estado de Baja California; y otros ordenamientos aplicables.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 4.
 
 Para los efectos de la presente Ley se entenderá por:
@@ -73,17 +75,23 @@ VI. Guarda: Circunstancia de facto mediante la cual las niñas, niños y adolesc
 
 VII. Custodia: Figura jurídica mediante la cual las niñas, niños y adolescentes se encuentran a cargo de una Institución de Asistencia Social Privada cuando dicho cuidado deriva de un mandato de autoridad competente o de una autorización otorgada, en su caso, por la Procuraduría de Protección, con permiso expreso para ejercer los derechos de posesión o tenencia material, crianza, formación, educación, atención a la salud, protección, socialización y demás necesarios para el desarrollo integral de las niñas, niños y adolescentes;
 
-VIII. Integración: Proceso mediante el cual el director, representante o encargado de una Institución de Asistencia Social Privada permite, cubiertos previamente los requisitos de Ley, la salida temporal de un menor a su cargo, a fin de que éste sea entregado bajo el cuidado y supervisión temporal de quien o quienes determine la autoridad competente, y con el objeto de integrarlo paulatinamente a su ámbito familiar nuclear, extenso, substituto o adoptivo.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. Integración: Proceso mediante el cual, la titularidad de la Dirección, representante o encargado de una Institución de Asistencia Social Privada permite, cubiertos previamente los requisitos de Ley, la salida temporal de una niña, niño o adolescente, a fin de que éste sea entregado bajo el cuidado y supervisión temporal de quien o quienes determine la autoridad competente, y con el objeto de integrarlo paulatinamente a su ámbito familiar nuclear, extenso, substituto o adoptivo.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 5.
 
-Las Instituciones de Asistencia Social Privada deberán privilegiar en todo momento el derecho de las niñas, niños y adolescentes a vivir en familia y promoverán preferentemente el restablecimiento, integración y preservación de sus vínculos familiares, tomando en cuenta que éstos no resulten en su perjuicio, teniendo como norma rectora el principio del interés superior de la niñez.
+Las Instituciones de Asistencia Social Privada deberán privilegiar en todo momento el derecho de las niñas, niños y adolescentes a vivir en familia y promoverán preferentemente el restablecimiento, integración y preservación de sus vínculos familiares tomando en cuenta que éstos no resulten en su perjuicio, teniendo como norma rectora el principio del interés superior de la niñez, garantizando en el diseño, implementación y lineamientos el acceso igualitario a quienes tengan bajo su cuidado a niñas, niños y adolescentes aplicando en todo momento los principios de igualdad y no discriminación.
 
 ## TÍTULO SEGUNDO. DEL CONSEJO CONSULTIVO
 
 ###### Artículo 6.
 
 Para efectos de esta Ley, el Consejo Consultivo tendrá por objeto la promoción, asesoría y apoyo de las Instituciones de Asistencia Social Privada, el cual emitirá directrices para el mejor funcionamiento de las mismas, privilegiando en todo momento el interés superior de la niñez.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 7.
 
@@ -95,9 +103,13 @@ II. Facilitar por conducto de la Procuraduría de Protección a las distintas á
 
 III. Gestionar recursos, servicios y apoyos ante las Autoridades Federales, Estatales, Municipales y los diversos sectores de la sociedad, para destinarlos al cumplimiento del objeto social de las Instituciones de Asistencia Social Privada, canalizándolos a las mismas;
 
-IV. Promover la capacitación continua y preponderantemente gratuita a los responsables y personal de las Instituciones de Asistencia Social Privada, mediante la organización de cursos, talleres, exhibiciones, seminarios, conferencias, mesas de diálogo y diplomados;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-V. Apoyar a las Instituciones de Asistencia Social Privada, cuando éstas así lo soliciten y en el ámbito de sus atribuciones facilitar que las mismas garanticen el adecuado acceso de las niñas, niños y adolescentes a la educación, cultura, deporte y salud;
+IV. Promover la capacitación continua y preponderantemente gratuita a las personas responsables y el personal de las Instituciones de Asistencia Social Privada, mediante la organización de cursos, talleres, exhibiciones, seminarios, conferencias, mesas de diálogos y diplomados;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+V. Apoyar a las Instituciones de asistencia social privada, cuando éstas así lo soliciten y en el ámbito de sus atribuciones facilitar que las mismas garanticen el adecuado acceso de las niñas, niños y adolescentes a la educación, cultura, deporte y salud, dichas acciones y apoyos se proporcionarán con los principios de igualdad y no discriminación y con ello se otorgará acceso igualitario;
 
 VI. Promover acciones tendientes a incentivar el buen funcionamiento de las Instituciones de Asistencia Social Privada; y
 
@@ -137,6 +149,8 @@ XII. Las demás que le correspondan de conformidad con las leyes, decretos, acue
 
 ### CAPÍTULO SEGUNDO. OBLIGACIONES DE LAS INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 9.
 
 Son obligaciones de las Instituciones de Asistencia Social Privada, las siguientes:
@@ -159,7 +173,9 @@ VIII. Contar con un Reglamento Interno, autorizado por la Procuraduría de Prote
 
 IX. Facilitar las tareas de vigilancia, inspección y protección de las niñas, niños y adolescentes, debiendo permitir el acceso al interior de las instalaciones de las Instituciones de Asistencia Social Privada a las personas que para tal efecto y por escrito designe la Procuraduría de Protección, así como facilitar para consulta los registros, expedientes y bitácoras que se les requieran;
 
-X. Informar inmediatamente a la autoridad correspondiente, cuando tengan conocimiento de que peligre la integridad física, psicológica y en general la seguridad de algún menor;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+X. Informar inmediatamente a la autoridad correspondiente, cuando tengan conocimiento de que peligre la integridad física, psicológica y en general la seguridad de alguna niña, niño o adolescente;
 
 XI. Contar con asesoría profesional en materia psicológica, de sanidad, y de trabajo social;
 
@@ -171,7 +187,9 @@ XIV. Notificar a la Procuraduría de Protección con cinco días de anticipació
 
 XV. Tomar las medidas pertinentes, o en su caso, separar o impedir el ingreso o estancia al interior de las instalaciones de las Instituciones de Asistencia Social Privada cuando la Procuraduría de Protección les haya notificado que el personal que labore o preste sus servicios voluntarios no cumple con los requisitos para ello;
 
-XVI. Dar a conocer a los padres o tutores y a las niñas, niños y adolescentes mayores de siete años de edad su situación legal, sus derechos, obligaciones y orientarlos para la toma de decisiones implementadas para su desarrollo y asistencia social;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+XVI. Dar a conocer a los padres o tutores y a las niñas, niños y adolescentes mayores de siete años de edad su situación legal, sus derechos, obligaciones y orientarlos para la toma de decisiones implementadas para su desarrollo y asistencia social, debiendo otorgarse bajo los principios de igualdad y no discriminación;
 
 XVII. Garantizar el acceso de las niñas, niños y adolescentes, en coordinación con la Procuraduría de Protección, a una asistencia médica en cumplimiento a las normas oficiales mexicanas en materia de salud;
 
@@ -237,6 +255,8 @@ Las Instituciones de Asistencia Social Privada para su operación y legal funcio
 
 La Procuraduría de Protección expedirá la licencia de operación, o su revalidación, y constancia de registro de la Institución de Asistencia Social Privada dentro de un plazo que no podrá exceder de treinta días hábiles, contados a partir del día siguiente de la fecha en que se emita la determinación de integración del expediente, o en su caso, el cumplimiento de los requisitos para su revalidación.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 15.
 
 Para obtener la licencia a que se refiere el artículo anterior, las Instituciones de Asistencia Social Privada deberán cumplir con los requisitos siguientes:
@@ -249,7 +269,9 @@ III. Autorización de constitución como Institución de Asistencia Social Priva
 
 IV. Copia de la licencia de uso de suelo de sus instalaciones;
 
-V. Presentar sus programas de promoción para la integración familiar, formación, educación, recreación, cultura y deporte de las niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+V. Presentar sus programas de promoción para la integración familiar, formación, educación, recreación, cultura y deporte de las niñas, niños y adolescentes; asegurando en el diseño, implementación y cumplimiento, el trato igualitario a quienes los tengan bajo su cuidado, cerciorándose que se aplican los principios de igualdad y no discriminación;
 
 VI. Permitirlas (sic) inspecciones necesarias por parte del personal de la Procuraduría de Protección en conjunto con las autoridades coadyuvantes que para tal efecto determine, con la finalidad de verificar que las instalaciones sean las adecuadas para el modelo de atención de las niñas, niños y adolescentes, así como las condiciones generales sobre infraestructura, personal, población e higiene, debiendo solventarlas satisfactoriamente;
 
@@ -275,11 +297,11 @@ III. La actualización del padrón del personal directivo, administrativo y volu
 
 ### CAPÍTULO PRIMERO. DE LAS INSTALACIONES
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 18.
 
-Los inmuebles que sean destinados como establecimientos de las Instituciones de Asistencia Social Privada deberán contar con los servicios indispensables para proporcionar a los ingresados el bienestar, la comodidad, seguridad y gestión necesarias conforme a su edad, incluyendo productos de gestión menstrual.
+Los inmuebles que sean destinados como establecimientos de las Instituciones de Asistencia Social Privada deberán contar con los servicios indispensables para proporcionar a las niñas, niños o adolescentes el bienestar, la comodidad, seguridad y gestión necesarias conforme a su edad, incluyendo productos de gestión menstrual.
 
 ###### Artículo 19.
 
@@ -303,6 +325,8 @@ Las Instituciones de Asistencia Social Privada deberán de realizar simulacros p
 
 El personal administrativo o voluntario de las Instituciones de Asistencia Social Privada, independientemente de su categoría y con el objeto del mejoramiento constante de sus funciones, deberá asistir a cursos, capacitaciones, exhibiciones, seminarios, conferencias, mesas de diálogo o diplomados, que en relación con cada una de sus áreas de trabajo organicen las Instituciones de Asistencia Social Privada y la Procuraduría de Protección.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 24.
 
 Para pertenecer al personal administrativo o voluntario de las Instituciones de Asistencia Social Privada será obligatorio cubrir los siguientes requisitos:
@@ -313,7 +337,9 @@ II. En caso de ser extranjero, comprobar legal estancia en el país de acuerdo a
 
 III. Acreditar el grado de estudios que solicite la propia Institución de Asistencia Social Privada;
 
-IV. Acreditar evaluación de confiabilidad llevada a cabo por la Procuraduría de Protección o la institución o profesional que dicha dependencia designe, con el fin de garantizar que su desempeño se realice en condiciones de respeto a los derechos e integridad de niñas niños y adolescentes;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Acreditar evaluación de confiabilidad llevada a cabo por la Procuraduría de Protección o la institución o profesional que dicha dependencia designe, con el fin de garantizar que su desempeño se realice en condiciones de respeto a los derechos e integridad de niñas niños y adolescentes, bajo los principios de igualdad y no discriminación;
 
 V. Presentar carta de no antecedentes penales; y
 
@@ -343,9 +369,11 @@ Para ello, las Instituciones de Asistencia Social Privada tendrán la obligació
 
 La Procuraduría de Protección ejercerá la tutela pública de las niñas, niños y adolescentes que se consideren expósitos o abandonados en los términos previstos del Código Civil para el Estado de Baja California, y demás disposiciones legales aplicables. La Procuraduría de Protección promoverá y gestionará los trámites judiciales y administrativos que sean necesarios para regularizar la situación jurídica de las niñas, niños y adolescentes.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 29.
 
-Los directores, titulares o encargados de las Instituciones de Asistencia Social Privada, están obligados a garantizar el efectivo cumplimiento de los derechos de las niñas, niños y adolescentes que estén bajo su guarda o custodia, de conformidad con lo establecido en esta Ley y demás ordenamientos aplicables.
+Las personas que funjan como directores, titulares o encargados de las Instituciones de Asistencia Social Privada, están obligados a garantizar el efectivo cumplimiento de los derechos de las niñas, niños y adolescentes que estén bajo su guarda o custodia, de conformidad con lo establecido en esta Ley y demás ordenamientos aplicables, bajo los principios de igualdad y no discriminación.
 
 ###### Artículo 30.
 
@@ -552,3 +580,9 @@ P.O. 27 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL ARTÍCULO QUINTO DEL “DECRETO NO. 198 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6, 45, 65 Y 104 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 73 TER”.]
 
 ÚNICO. EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 277 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 5, 7, 9, 15, 18, 24 Y 29, DE LA LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA PARA NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
