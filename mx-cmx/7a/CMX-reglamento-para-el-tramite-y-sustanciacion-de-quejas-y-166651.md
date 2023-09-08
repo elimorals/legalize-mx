@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-tramite-y-sustanciacion-de-quejas-y-166651"
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-06-12"
-last_updated: "2023-06-12"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166651&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2023-05-30"
 
 REGLAMENTO PARA EL TRÁMITE Y SUSTANCIACIÓN DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACIÓN DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE SEPTIEMBRE DE 2023.
 
 Reglamento publicado en el No. 1124 de la Gaceta Oficial de la Ciudad de México, el lunes 12 de junio de 2023.
 
@@ -356,7 +356,9 @@ I. Aprobar el desechamiento, sobreseimiento o inicio de los procedimientos, así
 
 II. En su caso, devolver los procedimientos para la realización de mayores diligencias.
 
-III. Instruir a la Dirección Ejecutiva para realizar diligencias de forma previa al inicio del procedimiento o para su sustanciación.
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+III. Instruir a la Secretaría Ejecutiva para que, con la coadyuvancia de la Dirección Ejecutiva, realice las diligencias de forma previa al inicio del procedimiento o para su sustanciación.
 
 IV. Turnar el expediente a la Secretaría Ejecutiva a fin de que realice las actuaciones necesarias para la sustanciación, dictaminación y, en su caso, elaboración del anteproyecto de resolución.
 
@@ -376,21 +378,7 @@ IV. Recibir y turnar a la Dirección Ejecutiva las quejas o denuncias presentada
 
 V. En el momento procesal oportuno, acordar el cierre de instrucción y ordenar la elaboración del dictamen o proyecto de resolución.
 
-VI. A través de la Dirección Ejecutiva:
-
-a. Realizar las actuaciones previas que considere necesarias.
-
-b. Integrar y dar trámite a los expedientes.
-
-c. Elaborar y someter a consideración de la Comisión los acuerdos de inicio, desechamiento o sobreseimiento, así como aquellos que impliquen el dictado de medidas cautelares, de protección o tutela preventiva.
-
-d. Formular requerimientos y solicitudes de información a personas físicas y morales, así como a autoridades en torno al procedimiento.
-
-e. Sustanciar el procedimiento en los plazos y con las formalidades señaladas en la normativa que al efecto emita el Consejo General.
-
-f. Elaborar el proyecto de dictamen o anteproyecto de resolución, según corresponda.
-
-g. Someter a consideración de la Comisión los anteproyectos de resolución.
+VI. (DEROGADA, G.O. 8 DE SEPTIEMBRE DE 2023)
 
 VII. Dictar las medidas de apremio respectivas.
 
@@ -398,21 +386,29 @@ VIII. Proponer a la Comisión el inicio oficioso de un procedimiento, cuando se 
 
 IX. Remitir al Tribunal Electoral los expedientes debidamente sustanciados junto con el dictamen respectivo.
 
-d) La Dirección Ejecutiva en coadyuvancia de la Secretaría Ejecutiva:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+d) La Secretaría Ejecutiva, con la coadyuvancia de la Dirección Ejecutiva:
 
 I. Realizar las actuaciones previas necesarias para allegarse de elementos suficientes que permitan a la Comisión pronunciarse sobre el desechamiento, sobreseimiento o inicio de los procedimientos.
 
 II. Integrar y dar trámite a los expedientes.
 
-III. Elaborar y someter a consideración de la Comisión los acuerdos de inicio, desechamiento o sobreseimiento, así como aquellos que impliquen el dictado de medidas cautelares, de protección o tutela preventiva.
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+III. Con la coadyuvancia de la Dirección Ejecutiva, elaborar y someter a consideración de la Comisión los acuerdos de inicio, desechamiento o sobreseimiento, así como aquellos que impliquen el dictado de medidas cautelares, de protección o tutela preventiva.
 
 IV. Formular requerimientos y solicitudes de información a personas físicas y morales, así como a autoridades en torno al procedimiento.
 
-V. Sustanciar el procedimiento en los plazos y con las formalidades señaladas en la normativa que al efecto emita el Consejo General.
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+V. Con la coadyuvancia de la Dirección Ejecutiva, sustanciar el procedimiento en los plazos y con las formalidades señaladas en la normativa que al efecto emita el Consejo General.
 
 VI. Elaborar el proyecto de dictamen o el anteproyecto de resolución, según corresponda.
 
-VII. Someter a consideración de la Comisión los anteproyectos de resolución.
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Someter a consideración de la Comisión los anteproyectos de resolución, para lo cual, la Secretaría Ejecutiva se apoyará de la Dirección Ejecutiva.
 
 e) La Unidad Técnica podrá ejercer las atribuciones mencionadas para la Dirección Ejecutiva cuando, por cuestión de cargas de trabajo, la Secretaría Ejecutiva lo estime necesario.
 
@@ -422,7 +418,9 @@ Todo lo anterior, sin perjuicio de las demás que refiera el presente Reglamento
 
 Si del análisis de la queja o denuncia, se desprende que el Instituto no es competente para conocerla, en virtud de que las conductas o hechos denunciados no constituyan probables violaciones a la normatividad electoral o porque la persona señalada como probable responsable no es un ente obligado por la Ley Procesal, la Secretaría Ejecutiva elaborará un acuerdo de incompetencia, ordenando se remitan las constancias originales, en un plazo máximo de setenta y dos horas posteriores a su recepción, a la instancia que considere competente para conocer de los mismos, lo cual se deberá hacer del conocimiento de forma previa a las personas integrantes de la Comisión. Emitido el acuerdo de incompetencia, la Secretaría Ejecutiva deberá notificarlo a las personas consejeras electorales.
 
-La Comisión podrá acordar la incompetencia cuando del primer proyecto de acuerdo que le presente la Dirección Ejecutiva, advierta que los hechos denunciados no son competencia del Instituto, ordenando se remitan las constancias originales en el mismo plazo señalado en el párrafo anterior, a la autoridad o instancia que se estime competente.
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+La Comisión podrá acordar la incompetencia cuando del primer proyecto de acuerdo que le presente la Secretaría Ejecutiva, con la coadyuvancia de la Dirección Ejecutiva, advierta que los hechos denunciados no son competencia del Instituto, ordenando se remitan las constancias originales en el mismo plazo señalado en el párrafo anterior, a la autoridad o instancia que se estime competente.
 
 Cuando se advierta que las conductas denunciadas también pueden ser del conocimiento de una autoridad diversa, se remitirá copia certificada del escrito y las constancias que se hayan presentado por la persona promovente a las autoridades que se consideren competentes para que en el ámbito de sus atribuciones determinen lo que corresponda.
 
@@ -510,7 +508,9 @@ I. Serán de oficio: los iniciados por la Comisión con base en el proyecto de a
 
 II. Serán a instancia de parte: los que deriven de la presentación del escrito de queja o denuncia, en la que se hagan del conocimiento del Instituto conductas que se presuman violatorias de la normativa electoral.
 
-En caso de que durante el trámite o sustanciación de un procedimiento se adviertan conductas que puedan infringir la norma electoral distintas a las que le dieron origen, o la responsabilidad de sujetos diversos a los denunciados, la Secretaría Ejecutiva o la Dirección Ejecutiva tendrán la facultad de proponer a la Comisión el inicio oficioso de un nuevo procedimiento, o bien, acordar la ampliación de la investigación hacia nuevos sujetos involucrados con el procedimiento, en cuyo caso emplazará a los nuevos presuntos infractores a fin de sustanciar el procedimiento respecto de estos.
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+En caso de que durante el trámite o sustanciación de un procedimiento se adviertan conductas que puedan infringir la norma electoral distintas a las que le dieron origen, o la responsabilidad de sujetos diversos a los denunciados, la Secretaría Ejecutiva tendrá la facultad de proponer a la Comisión el inicio oficioso de un nuevo procedimiento, o bien, acordar la ampliación de la investigación hacia nuevos sujetos involucrados con el procedimiento, en cuyo caso emplazará a los nuevos presuntos infractores a fin de sustanciar el procedimiento respecto de estos.
 
 ###### Artículo 15.
 
@@ -572,23 +572,31 @@ Cuando no se acredite el carácter de representante de quien promueve, la queja 
 
 En el supuesto de que la persona promovente no señale domicilio, éste se encuentre fuera de la Ciudad de México, resulte impreciso o no manifieste su voluntad de recibir notificaciones mediante el SINE, las notificaciones se realizarán a través de los estrados físicos o electrónicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 20.
 
-Cuando se considere necesario, la Dirección Ejecutiva podrá realizar actuaciones previas las cuales no podrán exceder de un plazo de veinte días, salvo que existan requerimientos pendientes de respuesta y que de las constancias con que se cuente a ese momento no pueda emitirse determinación respecto a si concurren las circunstancias que justifiquen el inicio de un procedimiento. En esos casos, el pronunciamiento sobre la adopción de medidas cautelares o tutela preventiva deberá realizarse dentro de las de cuarenta y ocho horas siguientes al plazo referido, aun cuando hubiera actuaciones previas pendientes de desahogar.
+Cuando se considere necesario, la Secretaría Ejecutiva con la coadyuvancia de la Dirección Ejecutiva podrá realizar actuaciones previas las cuales no podrán exceder de un plazo de veinte días, salvo que existan requerimientos pendientes de respuesta y que de las constancias con que se cuente a ese momento no pueda emitirse determinación respecto a si concurren las circunstancias que justifiquen el inicio de un procedimiento. En esos casos, el pronunciamiento sobre la adopción de medidas cautelares o tutela preventiva deberá realizarse dentro de las de cuarenta y ocho horas siguientes al plazo referido, aun cuando hubiera actuaciones previas pendientes de desahogar.
 
-Realizadas las actuaciones previas, la Dirección Ejecutiva pondrá a consideración de la Comisión el proyecto de acuerdo que corresponda, dentro de los cinco días siguientes a partir de que se hubiera desahogado la última de las actuaciones previas o del vencimiento del plazo para su desahogo.
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+Realizadas las actuaciones previas, la Secretaría Ejecutiva, con la coadyuvancia de la Dirección Ejecutiva, pondrá a consideración de la Comisión el proyecto de acuerdo que corresponda, dentro de los cinco días siguientes a partir de que se hubiera desahogado la última de las actuaciones previas o del vencimiento del plazo para su desahogo.
 
 Cuando no exista necesidad de realizar actuaciones previas, el proyecto de acuerdo correspondiente deberá presentarse a la Comisión dentro de los cinco días siguientes a que se haya recibido la queja, denuncia, vista o la comunicación respectiva; salvo que deba hacerse pronunciamiento sobre la adopción de medidas cautelares o tutela preventiva, en cuyo supuesto el plazo será de cuarenta y ocho horas, contadas a partir de que se haya recibido el escrito atinente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 21.
 
-Si el escrito de queja o denuncia reúne los requisitos de procedencia, la Dirección Ejecutiva someterá a la consideración de la Comisión un proyecto de acuerdo en los plazos señalados en el artículo que antecede, mediante el cual podrá proponer:
+Si el escrito de queja o denuncia reúne los requisitos de procedencia, la Secretaría Ejecutiva, con la coadyuvancia de la Dirección Ejecutiva, someterá a la consideración de la Comisión un proyecto de acuerdo en los plazos señalados en el artículo que antecede, mediante el cual podrá proponer:
 
 I. El inicio del procedimiento, en cuyo caso se ordenará su registro en el libro de gobierno con la clave que le corresponda, el emplazamiento de quienes se señale como probables responsables, la vía en que se tramitará (ordinaria o especial) y la realización de las diligencias tendientes a la sustanciación del asunto.
 
 II. El desechamiento de la queja.
 
-La Comisión podrá rechazar el proyecto de acuerdo sometido a su consideración, en cuyo caso instruirá a la Dirección Ejecutiva la realización de actuaciones para mejor proveer y una vez desahogadas se someterá el proyecto a la Comisión de nueva cuenta.
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+La Comisión podrá rechazar el proyecto de acuerdo sometido a su consideración, en cuyo caso instruirá a la Secretaría Ejecutiva para que, con la coadyuvancia de la Dirección Ejecutiva, realice las actuaciones para mejor proveer y una vez desahogadas se someta el proyecto a la Comisión de nueva cuenta.
 
 El proyecto de acuerdo que se someta a la consideración de la Comisión deberá contener, cuando menos:
 
@@ -1016,7 +1024,9 @@ III. Nieguen la información solicitada.
 
 Las medidas dictadas de forma cautelar o en tutela preventiva que no estén relacionadas con violencia política contra las mujeres en razón de género, se sujetarán a lo siguiente:
 
-I. Serán dictadas en cualquier momento una vez que se haya acordado la radicación del procedimiento respectivo por la Dirección Ejecutiva y hasta antes de que se emita la resolución respectiva.
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+I. Serán dictadas en cualquier momento una vez que se haya acordado la radicación del procedimiento respectivo por la Secretaría Ejecutiva y hasta antes de que se emita la resolución respectiva.
 
 II. Podrán ser solicitadas por las partes, por la Secretaría Ejecutiva o por cualquier integrante de la Comisión, cuando lo considere pertinente.
 
@@ -1024,11 +1034,15 @@ III. Cuando la solicitud se formule por las partes podrá constar por escrito o 
 
 IV. Las partes que soliciten el dictado de estas medidas podrán hacerlo desde su primer escrito, sin perjuicio de que en un acto posterior lo realicen, siempre y cuando lo hagan antes de que se emita la resolución respectiva.
 
-V. La Dirección Ejecutiva podrá instrumentar las diligencias previas correspondientes, relacionadas con la solicitud de adopción de medidas e informará en el acuerdo respectivo de tal hecho a la Comisión.
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+V. La Secretaría Ejecutiva, con la coadyuvancia de la Dirección Ejecutiva, podrá instrumentar las diligencias previas correspondientes, relacionadas con la solicitud de adopción de medidas e informará en el acuerdo respectivo de tal hecho a la Comisión.
 
 VI. La procedencia o negativa de la medida deberá acordarse por la Comisión en los plazos señalados en el artículo 20 del Reglamento.
 
-VII. La Comisión podrá ordenar a la Dirección Ejecutiva la realización de diligencias para mejor proveer para el dictado de las medidas.
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+VII. La Comisión podrá ordenar a la Secretaría Ejecutiva la realización de diligencias para mejor proveer para el dictado de las medidas, para lo cual podrá auxiliarse de la Dirección Ejecutiva.
 
 VIII. Las medidas se dictarán tomando en cuenta los hechos denunciados y el material probatorio que obre en autos, lo anterior sin perjuicio de que durante el trámite y sustanciación del procedimiento puedan modificarse o dejarse sin efectos.
 
@@ -1064,11 +1078,15 @@ Para el efectivo cumplimiento y ejecución de las citadas medidas, la Comisión 
 
 Los acuerdos que entrañen la adopción de medidas se notificarán a las partes por la vía que se estime más expedita de entre las señaladas en el presente Reglamento, así como a las autoridades involucradas para su cumplimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 59.
 
-La Dirección Ejecutiva deberá dar seguimiento al cumplimiento de las medidas dictadas de forma cautelar o en tutela preventiva por lo que, si advirtiera algún incumplimiento deberá hacerlo del conocimiento de la Secretaría Ejecutiva, la cual podrá aplicar una medida de apremio, previo apercibimiento realizado en el acuerdo respectivo o, en su caso, atendiendo a la necesidad y gravedad del caso, someter la imposición de la medida que corresponda a la Comisión.
+La Secretaría Ejecutiva deberá dar seguimiento al cumplimiento de las medidas dictadas de forma cautelar o en tutela preventiva, para lo cual podrá auxiliarse de la Dirección Ejecutiva por lo que, si advirtiera algún incumplimiento, podrá aplicar una medida de apremio previo apercibimiento realizado en el acuerdo respectivo o, en su caso, atendiendo a la necesidad y gravedad del caso, someter la imposición de la medida que corresponda a la Comisión.
 
-La Dirección Ejecutiva propondrá a la Comisión el inicio oficioso de un procedimiento administrativo sancionador, cuando tenga conocimiento del incumplimiento de las medidas cautelares o tutela preventiva ordenadas previamente; lo cual se realizará en los plazos señalados en el artículo 20 del Reglamento, con independencia de las medidas de apremio a que haya lugar.
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+La Secretaría Ejecutiva, con la coadyuvancia de la Dirección Ejecutiva, propondrá a la Comisión el inicio oficioso de un procedimiento administrativo sancionador, cuando tenga conocimiento del incumplimiento de las medidas cautelares o tutela preventiva ordenadas previamente; lo cual se realizará en los plazos señalados en el artículo 20 del Reglamento, con independencia de las medidas de apremio a que haya lugar.
 
 El procedimiento iniciado con motivo del incumplimiento a las medidas señaladas en el párrafo anterior se acumulará al expediente principal en que se ordenaron cuando se trate de procedimientos especiales y si este no se ha remitido al Tribunal Electoral para que la autoridad resolutora tome en consideración la inobservancia en la causa principal, al momento de resolver el procedimiento respectivo.
 
@@ -1084,7 +1102,9 @@ El procedimiento ordinario será iniciado para la investigación de conductas qu
 
 La sustanciación del procedimiento ordinario no podrá exceder de cuarenta y cinco días contados a partir de que la Comisión acuerde su inicio.
 
-De existir diligencias pendientes por desahogar, la Dirección Ejecutiva, de manera fundada y motivada podrá acordar por única ocasión la ampliación del plazo para la sustanciación hasta por un período igual.
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+De existir diligencias pendientes por desahogar, la Secretaría Ejecutiva podrá acordar por única ocasión de manera fundada y motivada, la ampliación del plazo para la sustanciación hasta por un período igual.
 
 ###### Artículo 61.
 
@@ -1114,17 +1134,25 @@ Transcurrido el plazo para presentar alegatos y, de no haber más diligencias po
 
 El anteproyecto de resolución deberá ser elaborado en un plazo no mayor a quince días contados a partir del cierre de instrucción, el cual podrá ser ampliado por la Secretaría Ejecutiva hasta por un periodo igual, mediante un acuerdo en el que se señalen las causas que la motiven.
 
-La presidencia de la Comisión convocará a la sesión correspondiente, en un plazo no mayor a cinco días, a fin de que la Dirección Ejecutiva someta a su consideración el anteproyecto de resolución que formule.
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+La presidencia de la Comisión convocará a la sesión correspondiente, en un plazo no mayor a cinco días, a fin de que la Secretaría Ejecutiva, con la coadyuvancia de la Dirección Ejecutiva, someta a su consideración el anteproyecto de resolución que formule.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 65.
 
-La Comisión podrá aprobar o rechazar el anteproyecto de resolución que la Dirección Ejecutiva someta a su consideración y, en su caso, podrá ordenar la realización de diligencias para mejor proveer, o bien, la regularización del procedimiento respectivo.
+La Comisión podrá aprobar o rechazar el anteproyecto de resolución que la Secretaría Ejecutiva someta a su consideración y, en su caso, podrá ordenar la realización de diligencias para mejor proveer, o bien, la regularización del procedimiento respectivo.
 
-Si el anteproyecto es rechazado, la Dirección Ejecutiva elaborará uno nuevo conforme a las argumentaciones vertidas por quienes integren la Comisión, el cual se presentará a la consideración de ésta en la próxima sesión.
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+Si el anteproyecto es rechazado, la Secretaría Ejecutiva, con la coadyuvancia de la Dirección Ejecutiva, elaborará uno nuevo conforme a las argumentaciones vertidas por quienes integren la Comisión, el cual se presentará a la consideración de ésta en la próxima sesión.
 
 Aprobado el proyecto de resolución atinente, la Comisión lo pondrá a consideración del Consejo General a efecto de que lo resuelva de forma definitiva.
 
-Si el Consejo General determinara la necesidad de realizar diligencias para mejor proveer, el asunto se devolverá a la Comisión para que, por conducto de la Dirección Ejecutiva se realicen las diligencias y, una vez desahogadas, se formule un nuevo proyecto de resolución.
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+Si el Consejo General determinara la necesidad de realizar diligencias para mejor proveer, el asunto se devolverá a la Comisión para que, por conducto de la Secretaría Ejecutiva, y con la coadyuvancia de la Dirección Ejecutiva, se realicen las diligencias y, una vez desahogadas, se formule un nuevo proyecto de resolución.
 
 ###### Artículo 66.
 
@@ -1154,7 +1182,9 @@ VIII. Por violencia política contra las mujeres en razón de género.
 
 IX. Por violaciones directas o indirectas que afecten el desarrollo de un proceso electoral.
 
-La sustanciación del procedimiento especial no podrá exceder de treinta días contados a partir de que la Comisión acuerde su inicio. En los casos que así se requiera, la Secretaría Ejecutiva o la Dirección Ejecutiva podrán acordar la ampliación del plazo, hasta por un periodo igual, a excepción de los señalados en las fracciones VII y VIII, en cuyo caso, la sustanciación no podrá exceder de quince días, contados a partir de que la Comisión dicte el inicio del procedimiento.
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+La sustanciación del procedimiento especial no podrá exceder de treinta días contados a partir de que la Comisión acuerde su inicio. En los casos que así se requiera, la Secretaría Ejecutiva podrá acordar la ampliación del plazo, hasta por un periodo igual, a excepción de los señalados en las fracciones VII y VIII, en cuyo caso, la sustanciación no podrá exceder de quince días, contados a partir de que la Comisión dicte el inicio del procedimiento.
 
 ###### Artículo 68.
 
@@ -1615,3 +1645,31 @@ Certificado: 38000002FCEC747BED816BAE700000000002FC
 Sello Digital: axx9BAOW5NccLgAUWQSlLyzBWDSOvORuIYss0fXF46o=
 
 Fecha de Firma: 01/06/2023 09:28:22 p. m.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE EN ACATAMIENTO A LA SENTENCIA DICTADA POR LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN EN EL EXPEDIENTE SUP-JE-1437/2023, SE MODIFICAN Y SUPRIMEN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL TRÁMITE Y SUSTANCIACIÓN DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACIÓN DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO [IECM/ACU-CG-075/2023]”.]
+
+Primero. Las modificaciones a las hipótesis normativas contenidas en los artículos 8, inciso b), fracción III; inciso c), fracción VI; inciso d), fracciones III, V y VII; 9, párrafo segundo; 14, párrafo segundo; 20, párrafos primero y segundo; 21, párrafos primero y segundo; 55, fracciones I, V y VII; 59, párrafos primero y segundo; 60, párrafo tercero; 64, párrafo tercero; 65; y, 67, párrafo segundo del presente Reglamento entrarán en vigor al momento de su aprobación.
+
+Segundo. Los procedimientos que se encuentren en trámite al momento de la entrada en vigor del presente Reglamento se llevarán bajo las nuevas reglas procesales establecidas.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se modifican y suprimen el contenido de los artículos 8, inciso b), fracción III; inciso c), fracción VI; inciso d), fracciones III, V y VII; 9, párrafo segundo; 14, párrafo segundo; 20, párrafos primero y segundo; 21, párrafos primero y segundo; 55, fracciones I, V y VII; 59, párrafos primero y segundo; 60, párrafo tercero; 64, párrafo tercero; 65; y, 67, párrafo segundo del Reglamento para el Trámite y Sustanciación de Quejas y Procedimientos de Investigación del Instituto Electoral de la Ciudad de México, conforme lo precisado en la parte considerativa del presente Acuerdo, en cumplimiento a lo ordenado por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en la sentencia del juicio electoral SUP-JE-1437/2023.
+
+SEGUNDO. Se aprueba el contenido del “Reglamento para el Trámite y Sustanciación de Quejas y Procedimientos de Investigación del Instituto Electoral de la Ciudad de México”, en términos del documento Anexo, que forma parte integral del presente Acuerdo.
+
+TERCERO. El presente Acuerdo y su Anexo entrarán en vigor al momento de su aprobación.
+
+CUARTO. Publíquese el presente Acuerdo y su Anexo de manera inmediata en los estrados de las oficinas centrales de este Instituto, en los estrados electrónicos y para mayor difusión, en los estrados de las oficinas de las treinta y tres Direcciones Distritales de este Instituto Electoral.
+
+QUINTO. Remítase el presente Acuerdo y su Anexo a la Gaceta Oficial de la Ciudad de México para su publicación.
+
+SEXTO. Publíquese el presente Acuerdo y su Anexo en la página de Internet www.iecm.mx; realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la citada página electrónica y difúndase la misma en las redes sociales en que este Instituto participa.
+
+SÉPTIMO. Se instruye a la Secretaría Ejecutiva a efecto de que informe a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, dentro del plazo de veinticuatro horas, respecto del cumplimiento dado a su sentencia dictada en el expediente SUP-JE-1437/2023.
+
+> <small>[N. DE E. VÉASE ANEXO EN LA G.O. DE 8 DE SEPTIEMBRE DE 2023, PÁGINAS DE LA 84 A LA 120.]</small>
