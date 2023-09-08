@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2023-09-01"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -539,9 +539,23 @@ VII. No desempeñar, ni haber desempeñado durante los últimos cinco años ante
 
 VIII. No desempeñar, ni haber desempeñado durante los últimos cinco años anteriores al momento en que tome posesión, los cargos de titular de la Presidencia del Comité Ejecutivo Nacional, Estatal, Municipal, o su equivalente de un partido político;
 
-IX. No desempeñar, ni haber desempeñado durante el último año anterior al momento en que tome posesión, puesto de elección popular a nivel Municipal, Estatal o Federal, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-X. Se dará preferencia a quien sea manifiestamente apartidista.
+IX. No desempeñar, ni haber desempeñado durante el último año anterior al momento en que tome posesión, puesto de elección popular a nivel Municipal, Estatal o Federal;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+X. Se dará preferencia a quien sea manifiestamente apartidista;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+XI. No estar en alguno de los siguientes supuestos:
+
+a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
+
+b) Tener sentencia condenatoria que haya causado estado por los delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
+
+c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios.
 
 ###### ARTICULO 33.
 
@@ -2004,3 +2018,11 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0822.- SE REFORMA EL ARTÍCULO 32 EN SUS FRACCIONES IX Y X; Y ADICIONA AL MISMO ARTÍCULO 32 LA FRACCIÓN XI, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 30 EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES V Y VI; Y ADICIONA AL MISMO ARTÍCULO 30 LA FRACCIÓN VII, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ. SE ADICIONA EL PÁRRAFO CUARTO Y TRES FRACCIONES, ÉSTAS COMO FRACCIONES I A III AL ARTÍCULO 8º, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
