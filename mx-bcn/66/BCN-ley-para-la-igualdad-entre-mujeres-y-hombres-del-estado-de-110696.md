@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1106
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-13"
-last_updated: "2022-02-11"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2015.
 
@@ -351,13 +351,17 @@ X. Adoptar las medidas necesarias para la erradicación de la violencia contra l
 
 XI. La utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-XII. Promover que, en las prácticas de comunicación social de las dependencias de la Administración Pública Estatal y Municipal, así como, en los medios masivos de comunicación electrónicos e impresos, se eliminen el uso de estereotipos sexistas y discriminatorios e incorporen un lenguaje incluyente, y
+XII. Promover que, en las prácticas de comunicación social de las dependencias de la Administración Pública Estatal y Municipal, así como, en los medios masivos de comunicación electrónicos e impresos, se eliminen el uso de estereotipos sexistas y discriminatorios e incorporen un lenguaje incluyente;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-XIII. Fomentar el desarrollo, participación y reconocimiento de las mujeres en las diferentes disciplinas deportivas, así como en la vida deportiva.
+XIII. Fomentar el desarrollo, participación y reconocimiento de las mujeres en las diferentes disciplinas deportivas, así como en la vida deportiva; y,
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+XIV. Promover el principio de igualdad de la remuneración entre mujeres y hombres, cuando realicen trabajos de igual valor.
 
 ### CAPÍTULO SEGUNDO. INSTRUMENTOS
 
@@ -649,9 +653,17 @@ VIII. Diseñar y aplicar lineamientos que aseguren la igualdad de género en la 
 
 IX. Diseñar políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género;
 
-X. Establecer estímulos que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia, de conformidad con la legislación aplicable y la disponibilidad presupuestaria, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-XI. Promover condiciones de trabajo que eviten el acoso sexual, y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación.
+X. Establecer estímulos que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia, de conformidad con la legislación aplicable y la disponibilidad presupuestaria;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+XI. Promover condiciones de trabajo que eviten el acoso sexual, y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación; y,
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+XII. Impulsar el establecimiento del principio de igualdad de remuneración entre mujeres y hombres cuando realicen trabajos de igual valor.
 
 ### CAPÍTULO TERCERO. PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA EQUILIBRADA DE LAS MUJERES Y LOS HOMBRES
 
@@ -870,3 +882,9 @@ P.O. 11 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 75 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA, LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA, LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA, CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA Y LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 275 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 16 Y UNA FRACCIÓN XII AL ARTÍCULO 40 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
