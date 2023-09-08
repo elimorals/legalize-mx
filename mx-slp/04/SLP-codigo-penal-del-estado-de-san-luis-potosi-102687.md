@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2023-09-01"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -3601,6 +3601,12 @@ II. Destruya, modifique, cambie, obstruya, altere, mueva o manipule la morfolog�
 
 Este delito se sancionará con una pena de uno a tres años de prisión y sanción pecuniaria de cien a trescientos días del valor de la unidad de medida y actualización.
 
+(NOTA: EL 18 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 204/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE SEPTIEMBRE DE 2023, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 0820, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+Las penas previstas en el párrafo anterior se incrementarán hasta en una mitad, cuando se trate de los siguientes delitos: violación; feminicidio; homicidio calificado; homicidio en razón de parentesco; SECUESTRO Y DESAPARICIÓN FORZADA DE PERSONAS; así como los cometidos contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual en agravio de una persona menor de dieciocho años de edad o persona que no tengan (sic) la capacidad de comprender el significado del hecho; o cometido por servidoras o servidores públicos.
+
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 281.
@@ -3622,6 +3628,10 @@ Los adquirientes o detentadores no serán sancionados, cuando acrediten legalmen
 ###### ARTÍCULO 283.
 
 No se impondrá sanción alguna, en el caso de la fracción I del artículo 280 de este Código, al cónyuge, concubina, concubinario, ascendientes o descendientes consanguíneos del delincuente o colaterales hasta en segundo grado.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+Las excluyentes de responsabilidad no serán aplicables tratándose del delito de feminicidio.
 
 ### CAPÍTULO II. Delitos contra la Gestión Ambiental
 
@@ -5654,3 +5664,19 @@ P.O. 1 DE SEPTIEMBRE DE 2023.
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0820.- SE ADICIONA AL ARTÍCULO 280 EL PÁRRAFO QUINTO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0828.- SE ADICIONA (SIC) PÁRRAFO AL ARTÍCULO 283, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
