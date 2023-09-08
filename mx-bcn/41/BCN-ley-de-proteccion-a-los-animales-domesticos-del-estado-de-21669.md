@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-a-los-animales-domesticos-del-estado-de-21669
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-08"
-last_updated: "2019-02-01"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 8 de diciembre de 1997.
 
@@ -149,11 +149,15 @@ La creación de estos albergues será responsabilidad de los Ayuntamientos, en c
 
 ### CAPITULO III. DE LAS OBLIGACIONES Y PROHIBICIONES
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTICULO 13.
 
-Todo propietario de animales deberá proporcionar la información que se le solicite, mediante requerimiento legal o a través de encuestas autorizadas por el Municipio y/o el Estado.
+Es obligación de la persona propietaria o poseedora darle trato digno y afectuoso al o los animales domésticos con el fin de disminuir el estrés, enfermedad, deterioro físico, sufrimiento, lesión y dolor durante su posesión, así como tener el espacio suficiente para su aseo y protección ya sea a la intemperie o en el lugar que se resguarde al animal.
 
-Es obligación del propietario o poseedor, dar aviso a la autoridad sanitaria municipal de la existencia de alguna enfermedad o conducta anormal de su animal, para efectos de prevenir una infección o epidemia en la población. La tenencia de cualquier animal obliga al propietario a inmunizarlo contra toda enfermedad transmisible.
+Toda persona propietaria de animales deberá proporcionar la información que se le solicite, mediante requerimiento legal o a través de encuestas autorizadas por el Municipio y/o el Estado.
+
+Es obligación de la persona propietaria o poseedora, dar aviso a la autoridad sanitaria municipal de la existencia de alguna enfermedad o conducta anormal de su animal, para efectos de prevenir una infección o epidemia en la población. La tenencia de cualquier animal obliga a la persona propietaria a inmunizarlo contra toda enfermedad transmisible.
 
 ###### ARTICULO 14.
 
@@ -650,3 +654,9 @@ P.O. 1 DE FEBRERO DE 2019.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Las autoridades municipales deberán realizar las adecuaciones a sus reglamentos.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 269 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 13 DE LA LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
