@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-movilidad-de-la-ciudad-de-mexico-123375
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-09-15"
-last_updated: "2023-08-24"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123375&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,9 +24,7 @@ issue_date: "2017-09-15"
 
 REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE AGOSTO DE 2023.
-
-> <small>[N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN LA G.O. EL 24 DE AGOSTO DE 2023 NO APLICA AL ARTICULADO DEL PRESENTE ORDENAMIENTO.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE SEPTIEMBRE DE 2023.
 
 Reglamento publicado en el Número 156 Bis de la Gaceta Oficial de la Ciudad de México, el 15 de septiembre de 2017.
 
@@ -40,9 +38,11 @@ DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD D
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 1.
 
-El presente ordenamiento tiene por objeto reglamentar lo dispuesto por la Ley de Movilidad del Distrito Federal.
+El presente ordenamiento tiene por objeto reglamentar lo dispuesto por la Ley de Movilidad de la Ciudad de México.
 
 ###### Artículo 2.
 
@@ -59,6 +59,14 @@ IV. Comité del Sistema: Al Comité del Sistema Integrado de Transporte Público
 V. Comité de Promoción: Al Comité de Promoción para el Financiamiento del Transporte Público;
 
 VI. Consejo Asesor: Al Consejo Asesor de Movilidad y Seguridad Vial;
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+VI BIS. Constancia de Registro: Documento expedido por la Secretaría, previo pago de derechos correspondientes, por medio del cual se hace constar el registro de las personas morales que operan, administran y/o utilizan aplicaciones o plataformas informáticas para el control, programación y/o geolocalización en dispositivos fijos o móviles, para la prestación del Servicio de Transporte de Pasajeros Privado Especializado con Chofer. Para los efectos del pago antes referido, se estará a lo establecido en el Código Fiscal de la Ciudad de México, y en la normativa aplicable en la materia.
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+VI TER. Constancia de Registro Vehicular: Documento expedido por la Secretaría, previo pago de derechos correspondientes, otorgado a las personas morales que operan, administran y/o utilizan aplicaciones o plataformas informáticas para el control, programación y/o geolocalización en dispositivos fijos o móviles, para la prestación del Servicio de Transporte de Pasajeros Privado Especializado con Chofer, en el que consta el registro de cada vehículo para la prestación del servicio, previo cumplimiento de los requisitos y características que emita la Secretaría.
 
 VII. Depósitos Vehiculares: Centros de resguardo de vehículos en la Ciudad de México dependientes de la Secretaría de Movilidad.
 
@@ -660,11 +668,15 @@ Los ciclotaxis que presten este servicio deben cumplir con las siguientes especi
 
 I. Que el ciclotaxi cuente con datos de identificación (número económico, en su caso, organización), y los demás que determine la Secretaría;
 
-II. Cuente con placa y engomado de identificación expedido por la Secretaría;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+II. Cuente con placa y calcomanía de circulación expedida por la Secretaría;
 
 III. Las que se establezcan en los manuales y normas técnicas según el tipo de vehículo autorizado;
 
-IV. Someterse a la revisión documental, inspección física y mecánica del vehículo con la periodicidad que determine la Secretaría;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Someterse a la revisión documental, inspección física y mecánica del vehículo con la periodicidad y términos que determine la Secretaría;
 
 V. Contar con un seguro que cubra daños a terceros;
 
@@ -742,33 +754,45 @@ Es aquél mediante el cual las personas físicas o morales satisfacen sus necesi
 
 Las personas morales que operen, administren y/o utilicen aplicaciones o plataformas informáticas para el control, programación y/o geolocalización en dispositivos fijos o móviles, por medio de los cuales los particulares pueden contratar el Servicio de Transporte de Pasajeros Privado Especializado con Chofer, están obligados a registrarse ante la Secretaría, en los términos y plazos que ésta determine.
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 58.
 
-Para obtener la Constancia de Registro, la Constancia de Registro Vehicular y, en su caso, el Permiso correspondiente, las personas morales descritas en el artículo 57 del presente Reglamento deberán realizar el procedimiento que la Secretaría especifique y cumplir con lo que ésta requiera.
+Para obtener o renovar la Constancia de Registro, la Constancia de Registro Vehicular y, en su caso, el Permiso correspondiente, las personas morales descritas en el artículo 57 del presente Reglamento deberán realizar el procedimiento que la Secretaría especifique y cumplir con lo que ésta requiera.
 
-> <small>(F. DE E., G.O. 26 DE ABRIL DE 2019)</small>
+Las Constancias de Registro y las Constancias de Registro Vehicular tendrán vigencia de un año a partir de la fecha de expedición. Éstas podrán renovarse dentro de los treinta días naturales previos a la conclusión de su vigencia, para lo cual, la persona moral titular de la Constancia de Registro deberá cumplir con los pagos establecidos en el Código Fiscal de la Ciudad de México.
 
-Los vehículos que el Titular de la Constancia de Registro pretenda registrar para obtener la Constancia de Registro Vehicular deberán tener un costo de factura de origen de al menos $200,000.00 (doscientos mil pesos 00/100 M.N.) o de conformidad con los lineamientos que para los efectos de actualización emita la Secretaría; además el vehículo no podrá exceder los diez años de antigüedad y deberá cumplir con las condiciones técnicas que la Secretaría determine.
+Aquellas Constancias de Registro y Constancias de Registro Vehicular en las que haya transcurrido un año o más a partir de su fecha de expedición y cuya persona moral titular no haya realizado su renovación, quedarán sin efectos.
 
-El Titular de la Constancia de Registro deberá pagar los derechos correspondientes por cada vehículo que registre para obtener una Constancia de Registro Vehicular. Únicamente los vehículos registrados por el Titular de la Constancia de Registro, que cumplan con todos los requisitos y características que determine la Secretaría, podrán obtener la Constancia de Registro Vehicular.
+Los vehículos que la persona moral titular de la Constancia de Registro pretenda registrar para obtener la Constancia de Registro Vehicular deberán cumplir con lo establecido en los lineamientos técnicos que emita la Secretaría, de conformidad con los principios establecidos en el artículo 7, fracciones I, V y VIII de la Ley. La persona moral titular no podrá registrar vehículos con matrículas asociadas a una concesión vigente para prestar el Servicio de Transporte Público de Pasajeros Individual en la Ciudad de México, ni motocicletas.
 
-Una vez obtenida la Constancia de Registro Vehicular, el titular de la Constancia de Registro deberá proporcionar a cada vehículo un tarjetón distintivo conforme lo determine la Secretaría.
+La persona moral titular de la Constancia de Registro deberá pagar los derechos correspondientes por cada vehículo que registre para obtener una Constancia de Registro Vehicular. Únicamente los vehículos registrados por la titular de la Constancia de Registro, que cumplan con todos los requisitos y características que determine la Secretaría, podrán obtener la Constancia de Registro Vehicular.
 
-Los vehículos que presten el Servicio de Transporte de Pasajeros Privado Especializado con Chofer, deberán realizar una validación vehicular anual que se compondrá de, al menos, una revisión documental y un proceso de inspección físico-mecánica, conforme lo determine la Secretaría.
+Una vez obtenida la Constancia de Registro Vehicular, la persona moral titular de la Constancia de Registro deberá proporcionar al conductor del vehículo registrado, al igual que un tarjetón distintivo, para portarlos durante la prestación del servicio, a la vista de las personas usuarias.
 
-El Titular de la Constancia de Registro deberá cumplir con los requisitos señalados en el presente artículo, además de los señalados en el artículo 126 de la Ley de Movilidad del Distrito Federal para, en su caso, solicitar el Permiso Anual correspondiente.
+Un vehículo podrá prestar dicho servicio en más de una aplicación o plataforma informática para el control, programación y/o geolocalización en dispositivos fijos o móviles, siempre y cuando se encuentre registrado ante la Secretaría y cuente con Constancia de Registro Vehicular por cada aplicación o plataforma bajo la cual preste el servicio.
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2019)</small>
+En ningún caso, la persona moral titular de la Constancia de Registro podrá establecer condiciones de exclusividad para las personas conductoras o vehículos dados de alta en sus plataformas informáticas para el control, programación y/o geolocalización en dispositivos fijos o móviles.
+
+Los vehículos que presten el Servicio de Transporte de Pasajeros Privado Especializado con Chofer en la Ciudad de México, deberán realizar una validación vehicular anual, que se compondrá de, al menos una revisión documental y un proceso de inspección físico-mecánica conforme lo determine la Secretaría.
+
+La persona moral titular de la Constancia de Registro deberá cumplir con los requisitos señalados en el presente artículo para solicitar la Constancia de Registro Vehicular correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 59.
 
-El Titular de la Constancia de Registro deberá cumplir con lo siguiente:
+La persona moral titular de la Constancia de Registro deberá cumplir con lo siguiente:
 
-1. Realizar la aportación económica que la Secretaría determine al instrumento que se defina para tal efecto.
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+1. Las disposiciones fiscales en términos de lo establecido en el artículo 307 bis del Código Fiscal de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2019)</small>
 
 2. Compartir, en los formatos y plazos establecidos por la Secretaría, la información que ésta requiera para analizar y evaluar la operación del servicio.
+
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2019)</small>
 
 3. Especificar a la persona usuaria los factores de composición y variación de la tarifa durante cada trayecto, así como las modificaciones al elegir viajes multidestino o al cambiar el destino inicial.
 
@@ -784,7 +808,23 @@ d) Utilizar de manera indebida la vía pública; y,
 
 e) Operar un vehículo que preste el Servicio de Transporte de Pasajeros Privado Especializado con Chofer si la licencia del chofer no fue debidamente registrada durante el proceso de Validación Vehicular.
 
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+4. Las unidades vehiculares registradas por el Titular de la Constancia de Registro y sus choferes no podrán:
+
+a) Realizar base o sitio para la prestación del servicio;
+
+b) Utilizar de manera indebida la vía pública;
+
+c) Operar un vehículo que preste el Servicio de Transporte de Pasajeros Privado Especializado con Chofer, si la licencia del chofer no fue debidamente registrada durante el proceso de Validación Vehicular; y
+
+d) Prestar el servicio en motocicletas o en vehículos con matrícula asociada a una concesión vigente para el Servicio de Transporte Público de Pasajeros Individual en la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2019)</small>
+
 Los vehículos que cuenten con la Constancia de Registro Vehicular, y que presten el Servicio de Transporte de Pasajeros Privado Especializado con Chofer, estarán sujetos a las inspecciones y verificaciones por parte de la Secretaría de Medio Ambiente de la Ciudad de México, la Secretaría de Seguridad Ciudadana de la Ciudad de México y del Instituto de Verificación Administrativa de la Ciudad de México, quienes podrán sancionar el incumplimiento en el ámbito de sus atribuciones.
+
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2019)</small>
 
 La Secretaría podrá restringir o prohibir, según lo considere necesario, el servicio de unidades matriculadas en otras entidades federativas, que presten el Servicio de Transporte de Pasajeros Privado Especializado con Chofer en la Ciudad de México.
 
@@ -1824,19 +1864,13 @@ XVIII. Las demás que determine la Secretaría.
 
 El conductor del vehículo, siempre deberá portar el original de la tarjeta de circulación, ya sea en su versión física o digital, siempre que la misma se encuentre vigente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 119.
 
-Para el otorgamiento por primera vez de la tarjeta de circulación el solicitante deberá acudir personalmente o bien a través de su Representante Legal, ante la Secretaría y deberá presentar copias y originales para su cotejo de la documentación que al efecto le sea solicitada por la Secretaría.
+Para el otorgamiento por primera vez de la tarjeta de circulación, el solicitante deberá acudir personalmente o bien a través de su representante legal, ante la Secretaría y deberá presentar en original la documentación que al efecto le sea solicitada por la Secretaría.
 
-La tarjeta de circulación se entregará para uso, conservación y custodia al interesado, el mismo día en que concluya el trámite de alta de vehículo en el Control Vehicular que al efecto tiene implementado la Secretaria.
-
-A los vehículos matriculados en otras entidades federativas, el correspondiente trámite podrá tener una duración no mayor de 30 días hábiles, a partir de la fecha del inicio de éste.
-
-> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
-
-Para el refrendo de la tarjeta de circulación el solicitante podrá tramitarla de manera digital ingresando al Registro Electrónico y requisitando los campos que para tal efecto sean solicitados por la Secretaría. En caso de que el solicitante no pueda realizar el trámite de manera digital, podrá acudir personalmente, o bien a través de su Representante Legal, ante la Secretaría y presentar la documentación que al efecto le sea solicitada, en cuyo caso además, deberá entregar la tarjeta de circulación cuya vigencia se encuentre vencida y a cambio recibirá el documento renovado con la nueva vigencia correspondiente. En ambos casos, podrá obtener la versión digital de su tarjeta de circulación con vigencia renovada mediante las herramientas tecnológicas que la Secretaría determine.
+Para el refrendo de la tarjeta de circulación, el solicitante podrá realizar el trámite de manera digital ingresando al portal electrónico establecido para tal efecto y requisitando los campos que sean solicitados por la Secretaría; sin perjuicio de la expedición de la versión digital de la tarjeta, se podrá expedir de manera física si así lo requiere la persona interesada, mediante los procesos que determine la Secretaría en sus áreas de atención ciudadana. En caso de que el solicitante no pueda realizar el trámite de manera digital, podrá acudir personalmente, o bien a través de su representante legal, ante la Secretaría y presentar la documentación que al efecto le sea solicitada, y a cambio recibirá el documento renovado con la nueva vigencia correspondiente. En ambos casos, podrá obtener la versión digital de su tarjeta de circulación con vigencia renovada a través de las herramientas tecnológicas que la Secretaría determine.
 
 ### CAPÍTULO CUARTO. DE LOS REQUISITOS
 
@@ -1866,13 +1900,13 @@ Tratándose de servicio de transporte de pasajeros público, tanto individual co
 
 > <small>[N. DE E. VÉASE TABLA DE REQUISITOS PARA TRÁMITES DE TRANSPORTE DE PASAJEROS PÚBLICO INDIVIDUAL Y COLECTIVO DE PASAJEROS EN LA G.O. DE 15 DE SEPTIEMBRE DE 2017, PÁGINAS DE LA 38 A LA 39.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE REQUISITOS PARA TRÁMITES DE TRANSPORTE DE PASAJEROS PÚBLICO INDIVIDUAL Y COLECTIVO DE PASAJEROS EN LA G.O. DE 24 DE ABRIL DE 2019, PÁGINAS DE LA 8 A LA 9; 23 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 7 A LA 10; F. DE E., G.O. 26 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 5 A LA 6.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE REQUISITOS PARA TRÁMITES DE TRANSPORTE DE PASAJEROS PÚBLICO INDIVIDUAL Y COLECTIVO DE PASAJEROS EN LA G.O. DE 24 DE ABRIL DE 2019, PÁGINAS DE LA 8 A LA 9; 23 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 7 A LA 10; F. DE E., G.O. 26 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 5 A LA 6; G.O. 8 DE SEPTIEMBRE DE 2023, PÁGINAS DE LA 8 A LA 9.]</small>
 
 > <small>[N. DE E. LA TABLA DE REQUISITOS PARA TRÁMITES DE TRANSPORTE PÚBLICO INDIVIDUAL DE PASAJEROS PASÓ A FORMAR PARTE DE LA TABLA DE REQUISITOS PARA TRÁMITES DE TRANSPORTE DE PASAJEROS PÚBLICO INDIVIDUAL Y COLECTIVO DE PASAJEROS, VÉASE G.O. DE 23 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 7 A LA 10.]</small>
 
 > <small>[N. DE E. VÉASE TABLA DE REQUISITOS PARA TRÁMITES DE CONTROL VEHICULAR DE TRANSPORTE PÚBLICO MERCANTIL Y PRIVADO DE CARGA Y MERCANTIL Y PRIVADO DE PASAJEROS EN LA G.O. DE 15 DE SEPTIEMBRE DE 2017, PÁGINA 40.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA REQUISITOS PARA TRÁMITES DE CONTROL VEHICULAR DE TRANSPORTE PÚBLICO MERCANTIL Y PRIVADO DE CARGA Y MERCANTIL Y PRIVADO DE PASAJEROS EN LA G.O. DE 24 DE ABRIL DE 2019, PÁGINA 10 y 11; 23 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 10 A LA 12.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA REQUISITOS PARA TRÁMITES DE CONTROL VEHICULAR DE TRANSPORTE PÚBLICO MERCANTIL Y PRIVADO DE CARGA Y MERCANTIL Y PRIVADO DE PASAJEROS EN LA G.O. DE 24 DE ABRIL DE 2019, PÁGINA 10 y 11; 23 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 10 A LA 12; G.O. 8 DE SEPTIEMBRE DE 2023, PÁGINAS DE LA 10 A LA 12.]</small>
 
 > <small>[N. DE E. LA TABLA DE REQUISITOS PARA TRÁMITES DE REVISTA VEHICULAR DE TRANSPORTE PÚBLICO INDIVIDUAL DE PASAJEROS (TAXI) PASÓ A FORMAR PARTE DE LA TABLA REQUISITOS PARA TRÁMITES DE CONTROL VEHICULAR DE TRANSPORTE PÚBLICO MERCANTIL Y PRIVADO DE CARGA Y MERCANTIL Y PRIVADO DE PASAJEROS, VÉASE G.O. DE 23 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 10 A LA 12.]</small>
 
@@ -2034,13 +2068,13 @@ I. Comprobante de pago de los derechos correspondientes;
 
 II. Identificación oficial en la cual conste su identidad y mayoría de edad (credencial para votar, pasaporte, cédula profesional con fotografía o cartilla de identidad del Servicio Militar Nacional);
 
-> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-III. Comprobante de domicilio de la Ciudad de México o Estado de México. En el caso de personas extranjeras, además deberán acreditar su legal estancia en el país, mediante la presentación del documento migratorio expedido por la autoridad competente; y
+III. Comprobante de domicilio de la Ciudad de México o Estado de México; este requisito podrá ser cubierto mediante la Credencial para votar emitida por la autoridad competente siempre que ésta cuente con el domicilio completo de la persona interesada. En el caso de personas extranjeras, además deberán acreditar su legal estancia en el país, mediante la presentación del documento migratorio expedido por la autoridad competente; y
 
-> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-IV. Clave Única del Registro de Población (CURP); y
+IV. Clave Única del Registro de Población (CURP), este requisito podrá ser cubierto con la Credencial para votar emitida por la autoridad competente, siempre que ésta cuenta con la CURP de la persona interesada; y
 
 > <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 2020)</small>
 
@@ -2072,13 +2106,13 @@ I. Comprobante de pago de los derechos correspondientes;
 
 II. Identificación oficial con fotografía en la cual conste su identidad y mayoría de edad (credencial para votar, pasaporte, cédula profesional con fotografía o cartilla de identidad del Servicio Militar Nacional);
 
-> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-III. Comprobante de domicilio de la Ciudad de México o Estado de México. En el caso de personas extranjeras, además deberán acreditar su legal estancia en el país, mediante la presentación del documento migratorio expedido por la autoridad competente; y
+III. Comprobante de domicilio de la Ciudad de México o Estado de México; este requisito podrá ser cubierto mediante la Credencial para votar emitida por la autoridad competente siempre que ésta cuente con el domicilio completo de la persona interesada. En el caso de personas extranjeras, además deberán acreditar su legal estancia en el país, mediante la presentación del documento migratorio expedido por la autoridad competente; y
 
-> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-IV. Clave Única del Registro de Población (CURP) o Registro Federal de Contribuyentes (RFC), según lo establecido en la Licencia de Conducir Tipo A aplicable
+IV. Clave Única del Registro de Población (CURP), este requisito podrá ser cubierto mediante la credencial para votar expedida por la autoridad competente, siempre y cuando ésta cuente con la información del CURP de la persona que realiza el trámite, o Registro Federal de Contribuyentes (RFC), según lo establecido en la Licencia de conducir Tipo A, A1 o A2, aplicable.
 
 > <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 2020)</small>
 
@@ -2092,11 +2126,9 @@ En ese mismo sentido, y para el caso de que lo considere adecuado, la persona in
 
 En caso de que la persona interesada opte por la realización del trámite de forma digital, se tendrá por manifiesta su voluntad para obtener una reposición de licencia para conducir digital. La Secretaría podrá expedir un documento físico a su favor en caso de que la persona interesada así lo requiera mediante los procesos que determine la Secretaría.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-###### Artículo 127 Ter.
-
-Para la renovación de las licencias para conducir Tipo A, Tipo A1, y Tipo A2, la persona interesada podrá realizar el trámite en los módulos autorizados por la Secretaría, para lo cual deberá llenar la solicitud correspondiente, cumpliendo con los requisitos, formatos, lineamientos y mecanismos que emita la Secretaría, y además, deberá entregar la licencia para conducir cuya vigencia se encuentre vencida, para así obtener una nueva licencia para conducir. La renovación a que se refiere el presente artículo podrá realizarse un mes antes de concluir la vigencia y en cualquier momento posterior a la conclusión de la misma.
+Artículo 127 TER.- Para la renovación de las licencias para conducir Tipos A, A1, y A2, la persona interesada podrá realizar el trámite en los módulos autorizados por la Secretaría, para lo cual deberá llenar la solicitud correspondiente, cumpliendo con los requisitos, formatos, lineamientos y mecanismos que emita la Secretaría, para así obtener una nueva licencia para conducir. La renovación a que se refiere el presente artículo podrá realizarse a partir de dos meses antes de concluir la vigencia y en cualquier momento posterior a la conclusión de la misma.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 28 DE MAYO DE 2021)</small>
 
@@ -2110,13 +2142,13 @@ I. Comprobante de pago de los derechos correspondientes;
 
 II. Identificación oficial en la cual conste su identidad y mayoría de edad (credencial para votar, pasaporte, cédula profesional con fotografía o cartilla de identidad del Servicio Militar Nacional);
 
-> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-III. Comprobante de domicilio de la Ciudad de México o Estado de México. En el caso de personas extranjeras, además deberán acreditar su legal estancia en el país, mediante la presentación del documento migratorio expedido por la autoridad competente;
+III. Comprobante de domicilio de la Ciudad de México o Estado de México; este requisito podrá ser cubierto mediante la Credencial para votar emitida por la autoridad competente siempre que ésta cuente con el domicilio completo de la persona interesada. En el caso de personas extranjeras, además deberán acreditar su legal estancia en el país, mediante la presentación del documento migratorio expedido por la autoridad competente; y
 
-> <small>(ADICIONADA, G.O. 11 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-IV. Clave Única del Registro de Población (CURP) o Registro Federal de Contribuyentes (RFC), según lo establecido en la Licencia de Conducir Tipo A aplicable; y
+IV. Clave Única del Registro de Población (CURP), este requisito podrá ser cubierto mediante la credencial para votar expedida por la autoridad competente, siempre y cuando ésta cuente con la información del CURP de la persona que realiza el trámite, o Registro Federal de Contribuyentes (RFC), según lo establecido en la Licencia de Conducir Tipo A, A1 o A2 aplicable; y
 
 > <small>(ADICIONADA, G.O. 11 DE DICIEMBRE DE 2020)</small>
 
@@ -2190,13 +2222,17 @@ VI. Capacitación;
 
 VII. Conocimientos y Desempeño (pericia);
 
-> <small>(REFORMADA G.O. 23 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-VIII. Se requiere acreditar o contar con Licencia tipo “A”, “B”, “C” o “D” emitida por la Secretaría o contar con licencia tipo “A” emitida por la entidad responsable de la emisión de dichas licencias en cualquier entidad de la República Mexicana, la cual deberá contar con una antigüedad de por lo menos tres años Para el caso de licencias para conducir emitidas por las autoridades responsables en otras entidades federativas de la República Mexicana, la persona interesada deberá acreditar que dichos documentos se encuentran vigentes al momento de su presentación, que cumplen con la antigüedad requerida para el caso las cuales deberán ser revisadas por la Dirección responsable del trámite correspondiente.
+VIII. Para tramitar las Licencias Tipo “C”, “D” y “E” se requiere acreditar o contar con Licencia tipo “A”, “B”, “C” o “D” expedida por la Secretaría o contar con licencia tipo “A” emitida por la Dependencia responsable de su emisión en cualquier entidad federativa, la cual deberá contar con una antigüedad de por lo menos tres años. Para el caso de licencias para conducir emitidas por las autoridades responsables de otras entidades federativas, la persona interesada deberá acreditar que dichos documentos se encuentran vigentes al momento de su presentación, que cumplen con la antigüedad requerida para el caso, las cuales serán revisadas por la Dirección responsable del trámite correspondiente,
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2019)</small>
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-IX. Constancia de capacitación en primeros auxilios
+En el caso de las licencias E2 bastará contar con licencia tipo “A”, en los supuestos señalados en el párrafo anterior, o con constancia de aprobación de curso de conducción emitido por la Secretaría de Seguridad Ciudadana de la Ciudad de México.
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+IX. Constancia de capacitación en primeros auxilios para la licencia Tipo “E”.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 28 DE MAYO DE 2021)</small>
 
@@ -2347,6 +2383,10 @@ V. Carta Responsiva del padre, madre, tutor o quien ejerza la patria potestad, r
 VI. Constancia de curso de manejo impartido por un centro educativo autorizado por la Secretaría, que establezca la aptitud del menor para conducir; y
 
 VII. Comprobante de domicilio.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+Para el caso de la reposición del permiso para conducir, deberán presentarse los documentos establecidos en las fracciones I, II, IV y VII del presente artículo.
 
 ## TÍTULO OCTAVO. DEL REGISTRO PÚBLICO DEL TRANSPORTE
 
@@ -3496,17 +3536,31 @@ Los titulares de concesiones, permisos o autorizaciones, sus representantes, ope
 
 I. Suspensión para proporcionar el Servicio, de 15 a 45 días a la Ruta o Corredor de Transporte Público Colectivo Concesionado de Pasajeros cuando cualquiera de las concesiones y/o unidades vehiculares se vean involucradas en un siniestro y en cuyo acto se ponga en riesgo o tenga como consecuencia la pérdida de vida de una o más personas;
 
-II. Multa de doscientas cincuenta a cuatrocientas veces la Unidad de Cuenta de la Ciudad de México vigente y la remisión de la unidad al depósito vehicular correspondiente a quien preste u oferte el servicio privado de transporte con chofer, con independencia del tipo de vehiculo de que se trate, con o sin motor, sin contar con la constancia de registro expedida por la Secretaría.
+II. (DEROGADA, G.O. 8 DE SEPTIEMBRE DE 2023)
 
 III. Remisión a los depósitos vehiculares administrados por la Secretaría, de los vehículos de transporte de pasajeros o de carga cuando con motivo de las visitas de inspección o verificación así se determine.
 
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2019)</small>
+IV. (DEROGADA, G.O. 8 DE SEPTIEMBRE DE 2023)
 
-IV. Quienes incumplan lo mandatado en el artículo 59 del presente Reglamento, serán acreedores a la sanción establecida en el artículo 254 de la Ley, sin menoscabo de las sanciones administrativas que pudieran imputárseles. Además, la Secretaría podrá revocar la Constancia de Registro y los permisos, así como dar de baja las unidades registradas que se encuentren en dicho supuesto.
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADA, G.O. 28 DE MAYO DE 2021)</small>
+V. Ante el incumplimiento a lo establecido por el artículo 110 fracción XX del presente Reglamento, se sancionará con multa de cien a doscientas veces la Unidad de Medida y Actualización vigente y la reparación del daño ocasionado al equipo referido, conforme la evaluación realizada por el Organismo Regulador de Transporte.
 
-V. Ante el incumplimiento a lo establecido por el artículo 110 fracción XXI del presente Reglamento, se sancionará con multa de cien a doscientos veces la unidad de Medida y actualización de la Ciudad de México vigente y la reparación del daño ocasionado al equipo referido, conforme la evaluación realizada por el Órgano Regulador de Transporte.
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 237 Bis.
+
+Las personas morales titulares de la Constancia de Registro que operen, administren y/o utilicen aplicaciones o plataformas informáticas para el control, programación y/o geolocalización en dispositivos fijos o móviles, por medio de los cuales los particulares pueden contratar el Servicio de Transporte de Pasajeros Privado Especializado con Chofer, que infrinjan las disposiciones contenidas en el presente Reglamento, además de las sanciones señaladas en la Ley, serán acreedoras a las sanciones siguientes:
+
+I. Cuando presten u oferten el Servicio de Transporte de Pasajeros Privado Especializado con Chofer sin contar con la Constancia de Registro expedida por la Secretaría o que incumplan con lo establecido en el artículo 57 del presente Reglamento, serán sancionadas con una multa de doscientos cincuenta a cuatrocientos veces la Unidad de Medida y Actualización vigente en la Ciudad de México.
+
+II. Cuando permitan la operación de vehículos en sus aplicaciones o plataformas informáticas, sin contar con la Constancia de Registro Vehicular, o que incumplan con lo establecido en los artículos 58, 59, numerales 1, 2 y 3 del presente Reglamento, serán sancionadas por cada unidad vehicular que se encuentre en este supuesto, con una multa de doscientos cincuenta a cuatrocientos (sic) veces la Unidad de Medida y Actualización vigente en la Ciudad de México y la remisión de la unidad al depósito vehicular correspondiente.
+
+III. Cuando los vehículos que presten el Servicio de Transporte de Pasajeros Privado Especializado con Chofer a través de sus aplicaciones o plataformas informáticas para el control, programación y/o geolocalización en dispositivos fijos o móviles, y éstos incurran en las conductas establecidas en el artículo 59, numeral 4 del presente Reglamento, serán sancionadas por cada unidad vehicular que se encuentre en este supuesto, con una multa de cien a doscientas veces la Unidad de Medida y Actualización vigente en la Ciudad de México y la remisión de la unidad al depósito vehicular correspondiente.
+
+IV. Cuando en sus aplicaciones o plataformas informáticas permitan la prestación u oferta del servicio privado de transporte con chofer en motocicletas o en unidades que cuenten con una concesión vigente para prestar el Servicio de Transporte Público de Pasajeros Individual en la Ciudad de México, o que incumplan con lo establecido en los artículos 58 párrafo cuarto, del presente Reglamento, serán sancionadas con una multa de doscientas cincuenta a cuatrocientas veces la Unidad de Medida y Actualización vigente en la Ciudad de México.
+
+En todos los casos anteriores se actuará sin menoscabo de las sanciones administrativas que pudieran imponerse. Además, la Secretaría podrá revocar la Constancia de Registro, así como dar de baja las Constancias de Registro Vehicular de las unidades registradas que se encuentren en dichos supuestos.
 
 ### CAPÍTULO TERCERO. DE LOS DEPÓSITOS VEHICULARES
 
@@ -3697,3 +3751,15 @@ G.O. 24 DE AGOSTO DE 2023.
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor el día de su publicación.
+
+G.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+TERCERO. Por lo que respecta a las Constancias de Registro Vehicular, que se encuentren en trámite a la entrada en vigor del presente Decreto, se emitirán hasta su conclusión definitiva, en términos de la normativa conforme a la cual fueron solicitadas originalmente.
+
+CUARTO. La Secretaría contará con un plazo de 60 días hábiles para la publicación de los Lineamientos establecidos en el párrafo cuarto del artículo 58 del presente Reglamento.
