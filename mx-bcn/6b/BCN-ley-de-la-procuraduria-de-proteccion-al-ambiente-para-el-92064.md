@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-procuraduria-de-proteccion-al-ambiente-para-el-92064"
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-11"
-last_updated: "2022-12-30"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 11 de enero de 2013.
 
@@ -67,7 +67,9 @@ IV.- Disposiciones jurídicas en materia ambiental: La legislación en materia a
 
 V.- Ley Ambiental: Ley de Protección al Ambiente para el Estado de Baja California;
 
-VI.- Procurador: El Titular de la Procuraduría de Protección al Ambiente del Estado de Baja California;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+VI.- La Persona Titular de la Procuraduría: La Persona Titular de la Procuraduría de Protección al Ambiente del Estado de Baja California;
 
 VII.- Procuraduría: La Procuraduría de Protección al Ambiente para el Estado de Baja California;
 
@@ -137,7 +139,9 @@ Para el cumplimiento de su objeto, la Procuraduría contará con los siguientes 
 
 I.- Junta de Gobierno; y,
 
-II.- El Procurador.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+II.- La Persona Titular de la Procuraduría.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -227,7 +231,9 @@ I.- Representar legalmente a la Procuraduría ante cualquier autoridad Federal, 
 
 II.- Elaborar los programas y planes de trabajo a los que se sujetará el funcionamiento de la Procuraduría;
 
-III.- Proponer el proyecto de presupuesto de la Procuraduría, atendiendo a las previsiones del ingreso y del gasto público del Estado de Baja California y enviarlo oportunamente al Gobernador del Estado, para que ordene su incorporación al proyecto de egresos del ejercicio fiscal correspondiente;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+III.- Proponer el proyecto de presupuesto de la Procuraduría, atendiendo a las previsiones del ingreso y del gasto público del Estado de Baja California y enviarlo oportunamente a la Persona Titular del Poder Ejecutivo del Estado, para que ordene su incorporación al proyecto de egresos del ejercicio fiscal correspondiente;
 
 IV.- Promover la participación de los sectores público, social y privado en la definición y ejecución de las políticas y programas de la Procuraduría;
 
@@ -257,7 +263,9 @@ XVI.- Definir, establecer y mantener los sistemas de información, evaluación d
 
 XVII.- Expedir copias certificadas de los documentos que obran en sus archivos sobre asuntos que competan a la Procuraduría, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-XVIII.- Delegar las facultades en los Directores Generales, sin perjuicio de su ejercicio directo, mediante acuerdos que serán publicados en el Periódico Oficial del Estado de Baja California;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+XVIII.- Delegar las facultades en las personas titulares de las Direcciones Generales, sin perjuicio de su ejercicio directo, mediante acuerdos que serán publicados en el Periódico Oficial del Estado de Baja California;
 
 XIX.- Nombrar, promover y remover a los servidores públicos de la Procuraduría, conforme lo establezca la normatividad aplicable;
 
@@ -279,9 +287,11 @@ XXIII.- Presentar al Congreso el informe anual de sus actividades y del ejercici
 
 XXIV.- Las demás que se le asignen en otros ordenamientos legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 12.
 
-El Procurador enviará al Gobernador del Estado y al Congreso del Estado, un informe anual sobre las actividades que la procuraduría haya realizado en dicho periodo, de conformidad con lo establecido por el Reglamento de la presente Ley.
+La Persona Titular de la Procuraduría enviará a la Persona Titular del Poder Ejecutivo del Estado y al Congreso del Estado, un informe anual sobre las actividades que la procuraduría haya realizado en dicho periodo, de conformidad con lo establecido por el Reglamento de la presente Ley.
 
 El informe deberá ser publicado en el Periódico Oficial del Estado de Baja California y contendrá una descripción sobre las denuncias que se hayan recibido, las investigaciones y conciliaciones realizadas, así como, las resoluciones tomadas, cumplidas y las pendientes por cumplimentar; las sanciones impuestas; la evaluación del desempeño de la procuraduría y los datos estadísticos e información que se consideren de interés.
 
@@ -327,11 +337,17 @@ La Dirección Jurídica y de Dictamen, tendrá las siguientes atribuciones:
 
 I.- Recibir las denuncias referentes a la violación, incumplimiento o falta de aplicación de las disposiciones jurídicas en materia ambiental.
 
-II.- Turnar, previo acuerdo del Procurador, las denuncias que corresponda para la investigación del caso;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-III.- Proponer al Procurador los lineamientos jurídicos que serán observados por las Direcciones y las otras unidades administrativas en el ejercicio de sus funciones;
+II.- Turnar, previo acuerdo de la Persona Titular de la Procuraduría, las denuncias que corresponda (sic) para la investigación del caso;
 
-IV.- Presentar a consideración del Procurador, las propuestas de contratos, acuerdos y convenios de colaboración que procedan en términos de lo dispuesto en la Ley y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+III.- Proponer a la Persona Titular de la Procuraduría los lineamientos jurídicos que serán observados por las Direcciones y las otras unidades administrativas en el ejercicio de sus funciones;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+IV.- Presentar a consideración de la Persona Titular de la Procuraduría, las propuestas de contratos, acuerdos y convenios de colaboración que procedan en términos de lo dispuesto en la Ley y demás disposiciones jurídicas aplicables;
 
 V.- Sustanciar los procedimientos derivados de los recursos señalados en el Capítulo III, del Título III de la presente Ley, contra actos de la Procuraduría;
 
@@ -343,11 +359,17 @@ VIII.- Representar a la Procuraduría, en los procedimientos judiciales, laboral
 
 IX.- Atender y resolver las consultas jurídicas, que le sean formuladas por las Direcciones y unidades administrativas de la Procuraduría, así como mantener actualizados a dichos órganos, de los instrumentos jurídicos relativos a sus funciones;
 
-X.- Ejercer sus atribuciones en congruencia con los programas y lineamientos expedidos por el Procurador;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-XI.- Realizar los estudios jurídicos que le requiera el Procurador y las demás unidades administrativas de la Procuraduría;
+X.- Ejercer sus atribuciones en congruencia con los programas y lineamientos expedidos por la Persona Titular de la Procuraduría.
 
-XII.- Apoyar a las Direcciones, en la elaboración de los proyectos de Sugerencias y Recomendaciones que procedan conforme a lo dispuesto en la presente Ley, así como realizar los proyectos de sugerencias que requiera el Procurador;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+XI.- Realizar los estudios jurídicos que le requiera la Persona Titular de la Procuraduría y las demás unidades administrativas de la Procuraduría;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+XII.- Apoyar a las Direcciones, en la elaboración de los proyectos de Sugerencias y Recomendaciones que procedan conforme a lo dispuesto en la presente Ley, así como realizar los proyectos de sugerencias que requiera a la Persona Titular de la Procuraduría;
 
 XIII.- Informar, orientar y asesorar a la población y a la administración pública, respecto del cumplimiento y aplicación de las disposiciones jurídicas en materia ambiental;
 
@@ -357,7 +379,9 @@ a) La representación del interés legítimo de las personas, que resulten o pue
 
 b) La defensa de los legítimos intereses de la Procuraduría.
 
-XV.- Ejercer ante el Tribunal de lo Contencioso Administrativo del Estado de Baja California y otros órganos jurisdiccionales o administrativos, las acciones necesarias para:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+XV.- Ejercer ante el Tribunal Estatal de Justicia Administrativa y otros órganos jurisdiccionales o administrativos, las acciones necesarias para:
 
 a) Representar el interés legítimo de las personas, que resulten o puedan resultar afectadas por actos, hechos u omisiones, que implique o puedan implicar violaciones, incumplimiento o falta de aplicación de las disposiciones en materia ambiental en del (sic) Estado de Baja California, de conformidad con las normas que en cada caso resulten aplicables.
 
@@ -373,7 +397,9 @@ XX.- Archivar y resguardar los expedientes y documentos de trámite, anexos, de 
 
 XXI.- Apoyar a las Direcciones y Unidades administrativas, en el seguimiento de las Sugerencias que emita la Procuraduría;
 
-XXII.- Participar y en su caso elaborar estudios, reportes e informes especiales, conforme a los lineamientos que emita el Procurador;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+XXII.- Participar y en su caso elaborar estudios, reportes e informes especiales, conforme a los lineamientos que emita la Persona Titular de la Procuraduría;
 
 XXIII.- Ejercer las atribuciones de la Procuraduría, en materia de arbitraje;
 
@@ -381,7 +407,9 @@ XXIV.- Fijar, sistematizar; unificar y difundir, para efectos administrativos, l
 
 XXV.- Proponer los proyectos de sugerencias, que correspondan en los términos establecidos en este ordenamiento y su Reglamento, y
 
-XXVI.- Las demás que le confieren otros ordenamientos jurídicos y administrativos aplicables, o les sean encomendadas por el Procurador y las que correspondan a las unidades administrativas a su cargo.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+XXVI.- Las demás que le confieren otros ordenamientos jurídicos y administrativos aplicables, o les sean encomendadas por la Persona Titular de la Procuraduría y las que correspondan a las unidades administrativas a su cargo.
 
 El Reglamento de esta ley, establecerá los mecanismos que permitan, según corresponda, una actuación coordinada a las Direcciones y otras unidades administrativas de la Procuraduría, en el ejercicio de las atribuciones referidas.
 
@@ -439,9 +467,11 @@ XXI. Las demás que le sean encomendadas por la Persona Titular de la Procuradur
 
 La Procuraduría, de acuerdo con su presupuesto, y de conformidad con las disposiciones normativas aplicables, contara con las coordinaciones, jefaturas, verificadores, inspectores, investigadores, peritos y demás servidores públicos que se requieran para el ejercicio de sus atribuciones. Todos los servidores públicos, que integren la plantilla de la Procuraduría se consideraran como trabajadores de confianza, debido a la naturaleza de las funciones que desempeñan.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 17.
 
-Durante el desempeño de su cargo, el Procurador, los directores generales, coordinadores, delegados regionales, investigadores y demás titulares de las unidades administrativas de la Procuraduría, estarán impedidos para desempeñar cualquier otro empleo, cargo o comisión ya sea público o privado, salvo los de carácter docente u honorífico; siempre que no interfiera con el desarrollo de sus funciones.
+Durante el desempeño de su cargo, la Persona Titular de la Procuraduría, las direcciones generales, coordinaciones, delegaciones regionales, las y los investigadores y demás titulares de las unidades administrativas de la Procuraduría, estarán impedidos para desempeñar cualquier otro empleo, cargo o comisión ya sea público o privado, salvo los de carácter docente u honorífico; siempre que no interfiera con el desarrollo de sus funciones.
 
 ###### Artículo 18.
 
@@ -818,3 +848,9 @@ SEGUNDO. La Persona Titular del Poder Ejecutivo del Estado deberá nombrar a la 
 TERCERO. Dentro de los sesenta días siguientes a la entrada en vigor de las presentes reforma (sic), deberá convocarse al acto de instalación formal de la Junta de Gobierno de la Procuraduría de Protección al Ambiente del Estado.
 
 CUARTO. A partir de su instalación, la Junta de Gobierno de la Procuraduría de Protección al Ambiente del Estado, contará con el plazo de tres meses para aprobar el Reglamento Interno de este Organismo, mientras tanto, determinará lo necesario para el despacho de los asuntos de su competencia.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 273 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 4, FRACCIÓN VI, 7 FRACCIÓN II, 11, FRACCIÓN III Y XVIII, 12 PRIMER PÁRRAFO, 14 FRACCIONES II, III, IV, X, XI, XII, XV, XXVI Y XXII Y 17 PRIMER PÁRRAFO, TODOS DE LA LEY DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
