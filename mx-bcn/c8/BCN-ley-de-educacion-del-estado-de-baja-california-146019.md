@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-146019"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2023-06-23"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sección X del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -977,6 +977,10 @@ Para el ingreso, la promoción en la función y en el servicio, así como para e
 
 EN EL CASO DE LOS DOCENTES DE EDUCACIÓN INDÍGENA QUE NO TENGAN LICENCIATURA COMO NIVEL MÍNIMO DE FORMACIÓN, DEBERÁN PARTICIPAR EN LOS PROGRAMAS DE CAPACITACIÓN QUE DISEÑE LA AUTORIDAD EDUCATIVA ESTATAL Y CERTIFICAR SU BILINGÜISMO EN LA LENGUA INDÍGENA QUE CORRESPONDA Y EL ESPAÑOL.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+Para el proceso de ingreso, promoción en la función y en el servicio, otorgamiento de reconocimientos, del ejercicio docente en instituciones públicas del Estado en educación básica y media superior, se deberá realizar sesiones en vivo, transmitiéndola por algún medio electrónico vía internet, de conformidad con los artículos 68, 69 y 70 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+
 ### Capítulo III. Del Sistema Integral de Formación Actualización, Capacitación y Superación Profesional para Maestros
 
 ###### Artículo 81.
@@ -1758,3 +1762,9 @@ P.O. 23 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 239 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXIII DEL ARTÍCULO 126 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 80 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
