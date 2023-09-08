@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2022-05-13"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -1257,6 +1257,10 @@ II. Los propietarios de los vehículos.
 
 Los supuestos correspondientes a las sanciones a que hace referencia el artículo que antecede de este Ordenamiento, deberán establecerse en los reglamentos de tránsito y las leyes de ingresos respectivas.
 
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+Queda prohibido imponer sanciones pecuniarias y realizar cobro de multas por concepto de infracciones de tránsito, por parte de particulares, incluyendo aquellas efectuadas en zonas privadas con acceso al público y fraccionamientos. Dichas conductas se harán acreedoras a las sanciones que la ley establece.
+
 ### Capítulo II. De las Medidas de Seguridad Administrativas
 
 ###### ARTICULO 87.
@@ -1934,6 +1938,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 13 DE MAYO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0314.- SE REFORMA Y ADICIONA EL ARTÍCULO 88, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 31 Y 41 QUÁTER, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 2°, 5°, 10, 13, 14, 15, 16, 21, 22, 27, 35, 44, 47, 48, 51, 77, 117, 156 Y 170, SE ADICIONAN LOS ARTÍCULOS 2° TER, 2° QUÁTER Y 2° QUINQUE Y SE ADICIONA A LOS ARTÍCULOS 5°, 10, 13, 14, 27 Y 47, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ Y; SE REFORMAN LOS ARTÍCULOS 2°, 6°, 8° Y 43, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0821.- SE ADICIONA AL ARTÍCULO 86 EL PÁRRAFO SEGUNDO, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 35 EN SUS FRACCIONES X Y XI; Y ADICIONA AL MISMO ARTÍCULO 35 LA FRACCIÓN XII, DE LA LEY DE SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
