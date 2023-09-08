@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-urbanizacion-del-estado-de-baja-california-3356"
 country: "mx"
 rank: "ley"
 publication_date: "1981-08-20"
-last_updated: "2019-12-13"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE URBANIZACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el jueves 20 de agosto de 1981.
 
@@ -45,11 +45,11 @@ LEY DE URBANIZACION DEL ESTADO DE BAJA CALIFORNIA
 
 La presente Ley es de interés público y tiene por objeto regular las mejoras que se producen en los predios ubicados en las zonas donde se llevan a cabo las obras de urbanización, mediante los sistemas de plusvalía y cooperación.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 2o.
 
-Los propietarios o poseedores de predios ubicados en el Estado, beneficiados con obras de urbanización, están obligados a contribuir por la ejecución de dichas obras.
+Las personas propietarias o poseedoras de predios ubicados en el Estado, beneficiados con obras de urbanización, están obligados a contribuir por la ejecución de dichas obras.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
@@ -81,33 +81,35 @@ IX.- Cualquier otro tipo de obras o servicios relacionadas con la misma, tendien
 
 Una vez concluidas las obras de urbanización que realicen los Consejos de Urbanización Municipales y la Junta de Urbanización del Estado, se entregarán a los Municipios a cuyo cargo estará su mantenimiento, el que se considerará como un servicio municipal, con excepción de las obras de drenaje de aguas negras, pluvial, así como las líneas y redes de agua potable, que serán entregadas para su mantenimiento a la Comisión Estatal de Servicios Públicos que corresponda, las de electrificación que se entregarán a la Comisión Federal de Electricidad para su mantenimiento, las que se considerarán como servicios federales de acuerdo a lo que establece la fracción III del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, así como el Artículo 82 de la Constitución Política Local.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTICULO 5o.
 
-Los residentes de una zona determinada que representen un número considerable de interesados, a juicio del Consejo de Urbanización Municipal respectivo, independientemente de la actuación propia del mismo, podrán promover ante éste, la ejecución o mejoramiento de obras de urbanización bajo el sistema de cooperación o la reconstrucción de las mismas. Igualmente el Ayuntamiento respectivo podrá sugerir la ejecución de las obras de que se trata.
+Las personas residentes de una zona determinada que representen un número considerable de personas interesadas, a juicio del Consejo de Urbanización Municipal respectivo, independientemente de la actuación propia del mismo, podrán promover ante éste, la ejecución o mejoramiento de obras de urbanización bajo el sistema de cooperación o la reconstrucción de las mismas. Igualmente, el Ayuntamiento respectivo podrá sugerir la ejecución de las obras de que se trata.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 6o.
 
-La planeación urbana y las obras que de esta se deriven, deberán ser autorizadas por la Secretaría de Infraestructura y Desarrollo Urbano del Estado, y por los Municipios en los términos que los faculte la Ley de Desarrollo Urbano del Estado de Baja California.
+La planeación urbana y las obras que de esta se deriven, deberán ser autorizadas por la Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial, y por los Municipios en los términos que los faculte la Ley de Desarrollo Urbano del Estado de Baja California.
 
-> <small>(REFORMADO PARRAFO PRIMERO, P.O. 28 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 7o.
 
 Son sujetos del pago de contribuciones de mejoras por obras de urbanización, según se realicen bajo el sistema de plusvalía o de cooperación, o de ambos en el supuesto de que se realicen simultáneamente, los siguientes:
 
-I.- Los propietarios de los predios comprendidos en la zona beneficiada por las obras;
+I.- Las personas propietarias de los predios comprendidos en la zona beneficiada por las obras;
 
-II.- Los poseedores de dichos predios, en los siguientes casos:
+II.- Las personas poseedoras de dichos predios, en los siguientes casos:
 
-a).- Cuando el predio no tenga propietario, éste sea desconocido, o exista controversia judicial acerca de la persona que tenga tal carácter.
+a) Cuando el predio no tenga persona propietaria, éste se desconozca, o exista controversia judicial acerca de la persona que tenga tal carácter.
 
-b).- Cuando reciban la posesión con motivo de un contrato que en lo futuro obligue al propietario a transmitirle la propiedad del inmueble.
+b) Cuando reciban la posesión con motivo de un contrato que en lo futuro obligue a la persona propietaria a transmitirle la propiedad del inmueble.
 
-III.- La Institución fiduciaria en el caso de inmuebles sujetos a fideicomiso, con cargo a la persona que al ejecutarse el fideicomiso quede como propietaria del inmueble; y
+III.- La Institución fiduciaria en el caso de inmuebles sujetos a fideicomiso, con cargo a la persona que al ejecutarse el fideicomiso quede como persona propietaria del inmueble; y,
 
-IV.- El propietario del terreno, cuando el de la construcción sea distinto.
+IV.- La persona propietaria del terreno, cuando el de la construcción sea distinto.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
@@ -115,25 +117,21 @@ IV.- El propietario del terreno, cuando el de la construcción sea distinto.
 
 Si el predio estuviere constituido bajo el régimen de propiedad en condominio, ya sea dividido en pisos, departamentos, locales o viviendas, el importe de las contribuciones de mejoras que corresponda a cada propietario, se determinará dividiendo la cantidad que deba pagarse por todo el predio entre la superficie cubierta de construcción que resulte de sumar la de todos los pisos, exceptuando la que se destine a servicios de uso común, y el cociente así obtenido se multiplicará por el número de metros que corresponda al piso, departamento, local o vivienda de que se trate; una vez realizada esta operación, se deberá sujetar a las normas para la individualización tanto del sistema de plusvalía como para el de cooperación, o de ambos.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 9o.
 
-Tratándose de extrema pobreza, por incapacidad física, temporal o permanente de los beneficiados por obras de urbanización, determinada mediante verificación y estudio socioeconómico que se haga al respecto, el Ejecutivo del Estado o el Presidente Municipal, en sus respectivos ámbitos de competencia y en relación con obras llevadas a cabo por los organismos de urbanización señalados en el artículo 16 de esta Ley, podrán congelar el cobro de los adeudos por contribución de mejoras, en la medida que resulte necesario, mientras no cambie el mencionado estado de pobreza por circunstancias familiares o por cualquier otra causa. El cobro se hará efectivo cuando se transmita la propiedad a tercero, ya sea por herencia o por cualquier otro concepto.
+Tratándose de extrema pobreza, por incapacidad física, temporal o permanente de las personas beneficiadas por obras de urbanización, determinada mediante verificación y estudio socioeconómico que se haga al respecto, la persona Titular del Poder Ejecutivo del Estado de Baja California o la persona Titular de la Presidencia Municipal, en sus respectivos ámbitos de competencia y en relación con obras llevadas a cabo por los organismos de urbanización señalados en el artículo 16 de esta Ley, podrán congelar el cobro de los adeudos por contribución de mejoras, en la medida que resulte necesario, mientras no cambie el mencionado estado de pobreza por circunstancias familiares o por cualquier otra causa. El cobro se hará efectivo cuando se transmita la propiedad a tercero, ya sea por herencia o por cualquier otro concepto.
 
-El Ejecutivo del Estado, en los términos del párrafo anterior, podrá otorgar subsidios para el pago de las contribuciones de mejoras a los Organismos Descentralizados o a las Instituciones de Asistencia Pública o Privada, así como a las que realicen actividades educativas o culturales o tiendan a la protección de los menores o de las clases económicamente débiles.
+El Poder Ejecutivo del Estado de Baja California, del Estado, en los términos del párrafo anterior, podrá otorgar subsidios para el pago de las contribuciones de mejoras a los Organismos Descentralizados o a las Instituciones de Asistencia Pública o Privada, así como a las que realicen actividades educativas o culturales o tiendan a la protección de los menores o de las clases económicamente débiles.
 
-> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 13 DE DICIEMBRE DE 2019)</small>
+Tratándose de personas pensionadas y jubiladas, y demás personas mayores de sesenta años; las personas con discapacidad que acrediten tal calidad; padre o madre jefe de familia, así como personas que acrediten tener a su cargo y sostenimiento económico a un familiar en primer grado con alguna discapacidad y reúnan los requisitos establecidos en el Título noveno de la Ley de Hacienda del Estado de Baja California, quedarán exentos como sigue:
 
-Tratándose de pensionados, jubilados, y demás personas mayores de sesenta años; discapacitados que acrediten tal calidad; padre o madre jefe de familia, así como personas que acrediten tener a su cargo y sostenimiento económico a un familiar en primer grado con discapacidad y reúnan los requisitos establecidos en el Título Noveno de la Ley de Hacienda del Estado de Baja California, quedarán exentos como sigue:
+A) Las personas pensionadas y jubiladas, personas con discapacidad, padre o madre jefe de familia y personas que acrediten tener a su cargo y sostenimiento económico a un familiar en primer grado con alguna discapacidad, que realicen alguna actividad económicamente productiva y que obtengan ingresos diarios de hasta cinco veces el salario mínimo general, en el cincuenta por ciento de la contribución de mejoras determinada a su cargo; y,
 
-A) Los pensionados, jubilados, personas con discapacidad, padre o madre jefe de familia y personas que acrediten tener a su cargo y sostenimiento económico a un familiar en primer grado con discapacidad, que realicen alguna actividad económicamente productiva y que obtengan ingresos diarios de hasta cinco veces el salario mínimo general, en el cincuenta por ciento de la contribución de mejoras determinada a su cargo; y,
+B) Las personas mayores de sesenta años, que no sean pensionadas ni jubiladas y que sus ingresos no excedan de dos veces el salario diario mínimo general o personas con discapacidad que no desempeñen actividad productiva, el cien por ciento en los conceptos señalados, otorgándose este beneficio sólo por un inmueble de su propiedad.
 
-B) Las personas mayores de sesenta años, que no sean pensionados ni jubilados y que sus ingresos no excedan de dos veces el salario diario mínimo general o personas con discapacidad que no desempeñen actividad productiva, el cien por ciento en los conceptos señalados, otorgándose este beneficio sólo por un inmueble de su propiedad.
-
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
-
-En la misma forma el Presidente Municipal podrá otorgar subsidio para el pago de las contribuciones de mejoras por concepto de las obras realizadas bajo el sistema de cooperación, a los Organismos, Instituciones de Asistencia y personas físicas señaladas anteriormente.
+En la misma forma la Persona Titular de la Presidencia Municipal podrá otorgar subsidio para el pago de las contribuciones de mejoras por concepto de las obras realizadas bajo el sistema de cooperación, a los Organismos, Instituciones de Asistencia y personas físicas señaladas anteriormente.
 
 ###### ARTICULO 10.
 
@@ -185,13 +183,13 @@ Los Organismos que presten servicios públicos, previamente a la ejecución de c
 
 En los casos de emergencia en que resulte urgente el trabajo que afecte una obra de urbanización, el Organismo procederá de inmediato a ello sin perjuicio de solicitar simultáneamente la autorización del Ayuntamiento en los términos del párrafo anterior.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 13.
 
-Los Notarios y demás funcionarios administrativos y judiciales no autorizarán escrituras, actas o contratos en que intervengan, que impliquen la transmisión, desmembración del dominio, constitución de servidumbres, fideicomisos o garantías reales en relación con inmuebles, ni su subdivisión, fusión, relotificación o fraccionamiento, si no se les comprueba mediante constancia expedida por el Consejo de Urbanización Municipal correspondiente y por la Junta de Urbanización del Estado, de que el inmueble de que se trata no está afecto al pago de las contribuciones de mejoras, o que está al corriente en los pagos, lo cual deberá hacerse constar en la escritura o instrumento relativo.
+La Persona Titular de la Notaria y demás personas funcionarias administrativas y judiciales no autorizarán escrituras, actas o contratos en que intervengan, que impliquen la transmisión, desmembración del dominio, constitución de servidumbres, fideicomisos o garantías reales en relación con inmuebles, ni su subdivisión, fusión, relotificación o fraccionamiento, si no se les comprueba mediante constancia expedida por el Consejo de Urbanización Municipal correspondiente y por la Junta de Urbanización del Estado, de que el inmueble de que se trata no está afecto al pago de las contribuciones de mejoras, o que está al corriente en los pagos, lo cual deberá hacerse constar en la escritura o instrumento relativo.
 
-Los funcionarios mencionados que no den cumplimiento a lo anterior, serán responsables de los daños y perjuicios que con su omisión causen.
+Las Personas funcionarias mencionadas que no den cumplimiento a lo anterior, serán responsables de los daños y perjuicios que con su omisión causen.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
@@ -205,23 +203,29 @@ En lo relativo a los casos de, subdivisión, fusión, relotificación y fraccion
 
 En lo no previsto por esta Ley, será de aplicación supletoria el Código Fiscal del Estado de Baja California.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 16.
 
 Tienen el carácter de organismos de urbanización:
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-I.- La Secretaría de Infraestructura y Desarrollo Urbano;
+I.- La Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
 II.- La Junta de Urbanización del Estado;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
 III.- Las Comisiones Estatales de Servicios Públicos;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 IV.- (REFORMADA [N. DE E. DEROGADA], P.O. 31 DE DICIEMBRE DE 2009)
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
 V.- La unidad administrativa en materia de obras públicas de los Ayuntamientos;
 
@@ -253,17 +257,15 @@ La Junta de Urbanización del Estado, es un organismo público descentralizado d
 
 El domicilio legal de la Junta de Urbanización del Estado, será la Capital del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 18.
 
-El Ejecutivo del Estado a través de la Secretaría de Infraestructura y Desarrollo Urbano del Estado, podrá encomendar a los organismos de urbanización previstos en la presente Ley, la ejecución de obras que conlleven a un beneficio general, bajo el sistema de plusvalía, de cooperación, o por ambos simultáneamente. Cuando las obras que se realicen tengan características de las que se llevan a cabo por medio del sistema de cooperación, o por ambos simultáneamente. Cuando las obras que se realicen tengan características de las que se llevan a cabo por medio del sistema de cooperación, pero por su magnitud, importancia e impacto en las ciudades, se realicen, bajo el sistema de plusvalía, únicamente la definición de la contribución se ajustará (sic) lo que establece el artículo 94 de esta ley para el sistema de cooperación, y para fincar el crédito fiscal se sujetará a lo previsto para el sistema de plusvalía.
-
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+El Poder Ejecutivo del Estado a través de la Secretaría de Infraestructura Desarrollo Urbano y Reordenación Territorial, podrá encomendar a los organismos de urbanización previstos en la presente Ley, la ejecución de obras que conlleven a un beneficio general, bajo el sistema de plusvalía, de cooperación, o por ambos simultáneamente. Cuando las obras que se realicen tengan características de las que se llevan a cabo por medio del sistema de cooperación, o por ambos simultáneamente. Cuando las obras que se realicen tengan características de las que se llevan a cabo por medio del sistema de cooperación, pero por su magnitud, importancia e impacto en las ciudades, se realicen, bajo el sistema de plusvalía, únicamente la definición de la contribución se ajustará (sic) lo que establece el artículo 94 de esta ley para el sistema de cooperación, y para fincar el crédito fiscal se sujetara a lo previsto para el sistema de plusvalía.
 
 Para la ejecución de las obras previstas en el párrafo anterior, los organismos de urbanización deberán celebrar un convenio en el que especifiquen los derechos y obligaciones de ambas partes; siguiendo los lineamientos previstos en esta Ley para cada etapa del procedimiento a utilizarse.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 19.
 
@@ -273,31 +275,53 @@ La Junta de Urbanización del Estado tendrá las siguientes atribuciones:
 
 I.- Realizar, estudios sobre la conveniencia, necesidad, viabilidad, costo, financiamiento y demás pormenores respecto a la ejecución de las obras, sometiendo los proyectos correspondientes a consideración de la Secretaría de Infraestructura y Desarrollo Urbano y (sic) aprobarse, se informe a los Ayuntamientos respectivos;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-II.- Ejecutar directamente o mediante contrato las obras, equipamientos, suministros y servicios relacionados con las mismas, que sean aprobadas en su programa anual de inversión, así como realizar las que la Secretaría de Infraestructura y Desarrollo Urbano del Estado le encomiende;
+II.- Ejecutar directamente o mediante contrato las obras, equipamientos, suministros y servicios relacionados con las mismas, que sean aprobadas en su programa anual de inversión, así como realizar las que la Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial le encomiende;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
 III.- Implementar los procedimientos previstos en las Leyes en materia de obras públicas, para la contratación de obras, equipamientos, suministros y servicios relacionados con las mismas, en el Municipio que vayan a ser realizados;
 
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
 IV.- Contratar, previo el cumplimiento de la Ley de Deuda Pública del Estado de Baja California, los financiamientos y suscribir los títulos de crédito y demás documentos necesarios que de ellos se deriven, y dar en fideicomiso o constituir en garantía, los créditos fiscales que se deriven de las contribuciones de mejoras;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
 V.- Suscribir los contratos para la realización de las obras, equipamientos, suministros y servicios relacionados con las mismas; vigilar y controlar su cumplimiento fijando las garantías y penas que deban otorgar los contratistas o proveedores, y deducir las acciones sobre responsabilidades derivadas de los contratos que celebren;
 
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
 VI.- Suscribir los contratos de coordinación o coinversión que permitan las leyes, reglamentos y demás disposiciones legales;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
 VII.- Determinar la derrama de las contribuciones de mejora entre las propiedades comprendidas en las zonas generales de beneficio, con facultades para cuantificar, determinar, liquidar y notificar los créditos fiscales por dicho concepto.
 
 La notificación, cobro y recaudación de los créditos fiscales por concepto de contribuciones de mejora, deberá realizarse a través del Subrecaudador de Rentas del Estado adscrito al organismo;
 
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
 VIII.- Realizar directamente la ejecución de obras o servicios relacionados con la misma, cuando el monto y magnitud de las mismas no justifique su contratación con terceros;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
 IX.- Cobrar a través del procedimiento administrativo de ejecución los créditos fiscales, en caso de incumplimiento de los causantes, por conducto del Subrecaudador de Rentas del Estado adscrito;
 
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
 X.- Formular los proyectos de Reglamento Interior y los manuales necesarios, a efecto de ser remitidos al Ejecutivo Estatal para su aprobación;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
 XI.- Revocar sus actos sólo cuando los mismos no concedan derechos, autorizaciones o permisos a terceros derivados del acto a revocarse;
 
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
 XII.- Elaborar los proyectos de acuerdos de expropiación para su remisión al Ejecutivo Estatal, y cubrir el monto de las indemnizaciones en los casos de expropiación para realización de obras bajo el sistema de plusvalía, así como de los convenios que se realicen para la liberación del derecho de vía;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
 XIII.- Las demás que deriven de las Leyes, reglamentos y cualquier otra disposición legal.
 
@@ -327,45 +351,37 @@ La Junta de Urbanización del Estado, percibirá con cargo a cada una de las obr
 
 La Junta de Urbanización está facultada para aceptar, para obra determinada, aportaciones federales, estatales o municipales, así como aportaciones voluntarias de instituciones y personas físicas o morales, en forma parcial o total. Estas aportaciones podrán ser recuperadas por la Junta de Urbanización del Estado por tratarse de obras que producen mejoras a los predios que se encuentran en su zona general de beneficio y podrán incorporarse al sistema de plusvalía en lo que se refiere a la recuperación o costo de las mismas, siempre y cuando dicha recuperación se reinvierta en el Estado en otras obras reguladas por esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 22.
 
 La Junta de Urbanización del Estado contará con un órgano de gobierno que se denominará Junta Directiva, la cual se integrará y representará de la siguiente forma:
 
-I.- Presidente: El Secretario de Infraestructura y Desarrollo Urbano del Estado;
+I.- Una Presidencia: siendo la persona titular de la Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial;
 
-II.- El Secretario de Planeación y Finanzas del Estado;
+II.- La persona titular de la Secretaria de Hacienda;
 
-III.- El Secretario de Desarrollo Económico del Estado;
+III.- La persona titular de la Secretaria de Economía e Innovación;
 
-IV.- El Secretario de Desarrollo Social del Estado;
+IV.- La persona titular de la Secretaria de Bienestar;
 
-V.- El Presidente Municipal que corresponda, de acuerdo al Municipio en que se ejecutaran las obras;
+V.- La persona titular de la Presidencia Municipal que corresponda, de acuerdo al Municipio en que se ejecutaran las obras;
 
-VI.- Un representante del Consejo Coordinador Empresarial del Municipio en que se ejecutaran las obras.
+VI.- Una persona representante del Consejo Coordinador Empresarial del Municipio en que se ejecutaran las obras.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2004)</small>
-
-Los integrantes a que se refieren las fracciones de la V y VI participarán en las sesiones de la Junta Directiva, cuando se incorporen temas de su competencia, y tendrán derecho a voz y voto durante su desarrollo; el derecho de voto se podrá ejercer sólo en los asuntos de su competencia. Al momento de convocar a los integrantes se dará a conocer la circunstancia que motive su intervención.
-
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+Las personas integrantes a que se refieren las fracciones de la V y VI participarán en las sesiones de la Junta Directiva, cuando se incorporen temas de su competencia, y tendrán derecho a voz y voto durante su desarrollo; el derecho de voto se podrá ejercer sólo en los asuntos de su competencia. Al momento de convocar a las personas integrantes se dará a conocer la circunstancia que motive su intervención.
 
 Los cargos en la Junta Directiva son honoríficos y por su desempeño no percibirán retribución, emolumento o compensación alguna.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2004)</small>
+Las personas integrantes podrán designar por escrito a la persona que los supla en sus ausencias temporales, quien deberá tener por lo menos el cargo de titular de una Dirección de Área o su equivalente, y gozará de los mismos derechos y obligaciones que el integrante propietario o propietaria.
 
-Los integrantes podrán designar por escrito a la persona que los supla en sus ausencias temporales, quien deberá tener por lo menos el cargo de Director de Area o su equivalente, y gozará de los mismos derechos y obligaciones que el integrante propietario.
+La Junta Directiva contará con una persona secretario o secretaria técnica que será la persona titular de la Dirección General de la Junta de Urbanización del Estado, quien podrá participar en las sesiones sólo con derecho a voz.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
-
-La Junta Directiva contará con un secretario técnico que será el Director General de la Junta de Urbanización del Estado, quien podrá participar en las sesiones sólo con derecho a voz.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 23.
 
-El Presidente de la Junta Directiva, en la segunda semana de enero de cada ejercicio fiscal, requerirá por oficio a las dependencias y organismos privados a que se refiere el artículo 22 de esta ley, para que dentro de los quince días siguientes al requerimiento, hagan la designación del integrante propietario y suplente que les corresponda, según sea el caso.
+La persona Titular que Presida la Junta Directiva, en la segunda semana de enero de cada ejercicio fiscal, requerirá por oficio a las dependencias y organismos privados a que se refiere el artículo 22 de esta ley, para que dentro de los quince días siguientes al requerimiento, hagan la designación de la persona que se integra como propietario o propietaria del integrante propietario y persona suplente que les corresponda, según sea el caso.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
@@ -377,33 +393,49 @@ Cuando los organismos privados no hicieren las designaciones dentro del término
 
 Los servidores públicos que sean miembros propietarios de la Junta Directiva, al dejar de desempeñar el cargo oficial, serán suplidos por quienes ocupen los puestos respectivos, pero en el caso de que los representantes del sector privado se separen definitivamente y no existiere suplente, se requerirá de una nueva designación para cubrir la vacante en los términos del artículo anterior.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 25.
 
 La Junta Directiva contará con las siguientes atribuciones:
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+
 I.- Aprobar la aplicación de los recursos para el funcionamiento del Organismo, sus modificaciones y el cierre presupuestal;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 II.- Aprobar el proyecto de Reglamento Interior, así como los manuales de operación que sean necesarios;
 
-III.- Designar apoderados generales o especiales para ejercer actos de dominio;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-IV.- Otorgar en favor del Director General Poder General para pleitos y cobranzas, actos de administración y dominio, con todas las facultades generales y especiales que requieran cláusula especial;
+III.- Designar personas con poder general o especiales para ejercer actos de dominio;
 
-V.- Aprobar el informe trimestral que le rinda el Director General, relacionado con la situación administrativa, financiera y laboral del Organismo;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-VI.- Aprobar los proyectos de derrama de las contribuciones de mejora por el sistema de plusvalía, antes de ser notificados a los beneficiados;
+IV.- Otorgar en favor de la Persona Titular Dirección General, Poder General para pleitos y cobranzas, actos de administración y dominio, con todas las facultades generales y especiales que requieran cláusula especial;
 
-VII.- Solicitar al Director General la información relativa a la contratación de financiamientos, suscripción de títulos de crédito, contratos de coordinación o coinversión y en general, toda aquella información necesaria para la observancia de la buena marcha de la Junta de Urbanización del Estado;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+V.- Aprobar el informe trimestral que le rinda la persona titular de la Dirección General, relacionado con la situación administrativa, financiera y laboral del Organismo;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+VI.- Aprobar los proyectos de derrama de las contribuciones de mejora por el sistema de plusvalía, antes de ser notificados a las personas beneficiadas;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+VII.- Solicitar a la persona titular de la Dirección General la información relativa a la contratación de financiamientos, suscripción de títulos de crédito, contratos de coordinación o coinversión y en general, toda aquella información necesaria para la observancia de la buena marcha de la Junta de Urbanización del Estado;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 VIII.- Las demás que se deriven de las leyes, reglamentos y cualquier otra disposición legal.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 26.
 
-El quórum de la Junta Directiva se integrará con la asistencia de la mayoría de sus integrantes, y las resoluciones se tomarán por la mayoría de los miembros presentes, teniendo el Presidente voto de calidad en caso de empate.
+El quórum de la Junta Directiva se integrará con la asistencia de la mayoría de sus integrantes, y las resoluciones se tomarán por la mayoría de las personas integrantes que están presentes, teniendo la persona titular de la Presidencia voto de calidad en caso de empate.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2004)</small>
 
@@ -411,49 +443,71 @@ El quórum de la Junta Directiva se integrará con la asistencia de la mayoría 
 
 La Junta Directiva sesionará en forma ordinaria por lo menos cada tres meses, y extraordinariamente cuantas veces así lo requiera.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 28.
 
-La Junta de Urbanización del Estado, tendrá un Director General, que será Designado y removido libremente por el Titular del Ejecutivo del Estado, o a indicación de éste por la Coordinadora de Sector a la que se adscribe.
+La Junta de Urbanización del Estado, tendrá una Dirección General, que será Designada y removida libremente por la persona Titular del Ejecutivo del Estado, o a indicación de éste por la persona Coordinadora de Sector a la que se adscribe.
 
-El Director General de la Junta de Urbanización del Estado, deberá reunir los requisitos siguientes:
+La persona titular de la Dirección General de la Junta de Urbanización del Estado, deberá reunir los requisitos siguientes:
 
-I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+I.- Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II.- Contar con un perfil profesional acorde al objeto o fines del organismo descentralizado y tener experiencia en el área de administración; y,
 
-III.- No encontrarse en algunos de los impedimentos que para ser miembro del órgano de Gobierno señala el artículo 19, fracciones II, III, IV, V y VI, de la Ley de las Entidades Paraestatales del Estado de Baja California.
+III.- No encontrarse en algunos de los impedimentos que para ser integrante del órgano de Gobierno señala él (sic) artículo 19, fracciones II, III, IV, V y VI, de la Ley de las Entidades Paraestatales del Estado de Baja California.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 29.
 
-Son facultades y obligaciones del Director General:
+Son facultades y obligaciones de la persona titular de la Dirección General:
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
 I.- Elaborar y presentar para su aprobación a la Junta Directiva, el programa de actividades del organismo y el anteproyecto de presupuesto anual de ingresos y egresos, así como sus modificaciones;
 
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
 II.- Dirigir administrativa y técnicamente a la Junta de Urbanización del Estado, dando cumplimiento a su objeto;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
 III.- Ejecutar los acuerdos y disposiciones que la Junta Directiva le encomiende, así como asistir a las sesiones de la misma, con derecho al uso de la voz pero no al voto;
 
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
 IV.- Representar legal y jurídicamente a la Junta de Urbanización del Estado ante terceros, y ante toda clase de autoridades civiles, administrativas y judiciales, con facultades amplias para pleitos y cobranzas y actos de administración en los términos del mandato que para el efecto le otorgue la Junta Directiva, sin perjuicio de que ésta pueda designar apoderados generales o especiales que estime convenientes;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
 V.- Presentar ante la Junta Directiva informe trimestral de la situación administrativa, financiera y laboral del organismo, y demás que le sean requeridos por la misma;
 
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
 VI.- Elaborar el proyecto de Reglamento Interior de la Junta de Urbanización del Estado, de sus manuales operativos, así como modificaciones a los mismos, y someterlos a la Junta Directiva para su aprobación;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
 VII.- Coordinar los recursos materiales y humanos necesarios para el funcionamiento de la Junta de Urbanización del Estado;
 
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
 VIII.- Vigilar y administrar la recaudación de las contribuciones de mejoras por el sistema de plusvalía, así como el manejo de los fondos para cubrir las necesidades del Organismo;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
 IX.- Suscribir los contratos y convenios sobre obras, equipamientos, suministros y servicios relacionados con la misma; toda clase de títulos de crédito de conformidad con el artículo 9 de la Ley General de Títulos y Operaciones de Crédito y contratos de financiamiento;
 
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
 X.- Formular denuncias y querellas, articular y absolver posiciones, desistirse del juicio de Amparo, otorgar y revocar poderes, y en general, realizar todos aquellos actos jurídicos que sean necesarios para la obtención de los fines del organismo, comprendiendo las de nombramiento y remoción del personal, con las facultades necesarias para intervenir en la conciliación y representación de conflictos laborales;
 
-(REUBICADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2004)
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-XI.- Inscribir en el Registro Público de la Propiedad y de Comercio, y en el Registro Público de Organismos de la Secretaría de Planeación y Finanzas del Estado, los poderes tanto especiales como generales;
+XI.- Inscribir en el Registro Público de la Propiedad y de Comercio, y en el Registro Público de Organismos de la Secretaría de Hacienda, los poderes tanto especiales como generales; y,
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
 XII.- Las demás que se deriven de las leyes, reglamentos y cualquier otra disposición legal.
 
@@ -477,13 +531,13 @@ IV.- Las demás que se deriven de la Ley, reglamentos o cualquier otra disposici
 
 La Junta de Urbanización del Estado, contará para su asesoramiento, con los departamentos especializados necesarios y el personal correspondiente, que percibirá los sueldos que el presupuesto interno le asigne, pudiendo crear, en función de las necesidades de la urbanización general del Estado, nuevas unidades especializadas.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 32.
 
-Cuando la Junta de Urbanización del Estado, deje de cumplir con su objeto, o su funcionamiento ya no resuelve conveniente para la economía del Estado, o para el interés público, la Secretaría de Planeación y Finanzas, atendiendo la opinión de la Coordinadora del Sector que corresponda propondrá al Ejecutivo del Estado, la enajenación de la parte social, fusión o extinción, según sea el caso.
+Cuando la Junta de Urbanización del Estado, deje de cumplir con su objeto, o su funcionamiento ya no resuelve conveniente para la economía del Estado, o para el interés público, la Secretaría de Hacienda, atendiendo la opinión de la persona Coordinadora del Sector que corresponda propondrá a la persona titular del Poder Ejecutivo del Estado, la enajenación de la parte social, fusión o extinción, según sea el caso.
 
-La coordinadora de Sector y la Secretaría de Planeación y Finanzas deberán de cuidar la adecuada protección de los intereses del público, del capital social y los derechos laborales de los empleados de la Junta de Urbanización.
+La persona coordinadora de Sector y la Secretaría de Hacienda deberán de cuidar la adecuada protección de los intereses del público, del capital social y los derechos laborales del personal de la Junta de Urbanización.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
 
@@ -491,41 +545,47 @@ La coordinadora de Sector y la Secretaría de Planeación y Finanzas deberán de
 
 Los Consejos de Urbanización Municipales, son organismos públicos descentralizados Municipales, con personalidad jurídica y patrimonio propios, que tienen como finalidad representar y coordinar a los sectores económicos, sociales profesionales y demás representativos de la comunidad, para llevar a cabo las obras de urbanización bajo el sistema de cooperación dentro de la jurisdicción municipal que les corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 2004)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 274, P.O. 8 DE SEPTIEMBRE DE 2023, PÁGINA 25]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 34.
 
 Los Consejos de Urbanización, estarán integrados de la siguiente forma:
 
-I.- Por la persona designada por el Presidente Municipal, quien tendrá el carácter de Presidente del Consejo;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+I.- Por la persona designada por la titularidad Municipal, quien presidirá el Consejo;
 
-II.- El Oficial Mayor de Gobierno del Estado;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2004)</small>
+II.- La persona titular de la Oficialía Mayor de Gobierno del Estado;
 
-III.- Por el Secretario de Infraestructura y Desarrollo Urbano del Estado, o por la persona que éste designe;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
+III.- Por la persona titular de la Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial, o por la persona que éste designe;
 
-IV.- Por el Secretario de Planeación y Finanzas, o por la persona que éste designe;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+IV.- Por la persona titular de la Secretaría de Hacienda, o por la persona que éste designe;
 
-V.- Por el Director de la Comisión Estatal de Servicios Públicos del Municipio correspondiente o por la persona que éste designe;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+V.- Por la persona titular de la Dirección de Servicios Públicos del Municipio de la Comisión Estatal de Servicios Públicos del Municipio correspondiente o por la persona que éste designe;
 
-VI.- Por el Director de Planeación y Obras Públicas del Municipio correspondiente, o la persona que éste designe;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+VI.- Por la persona titular de la Dirección de Planeación y Obras Públicas del Municipio correspondiente, o la persona que éste designe;
 
-VII.- Por el Presidente de la Junta de Urbanización del Estado o por la persona que éste designe;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+VII.- Quien Presida la Junta de Urbanización del Estado o por la persona que éste designe;
 
-VIII.- Por un representante de los organismos siguientes que operen en el Municipio respectivo:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+VIII.- Por una persona representante de los organismos siguientes que operen en el Municipio respectivo:
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
 
 A).- De Inmobiliaria del Estado;
 
@@ -535,37 +595,61 @@ A).- De Inmobiliaria del Estado;
 
 B).- Las Entidades de la Administración Pública Estatal que tengan por objeto realizar obras de urbanización en los términos de esta ley, y que guarden relación con la acción de urbanización que se vaya a realizar;
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
 C).- Del Instituto de Vivienda en el Estado de Baja California;
-
-D).- De la Cámara Nacional de Comercio y Servicios Turísticos;
-
-E).- De la Cámara Nacional de la Industria de Transformación;
-
-F).- Del Centro Empresarial;
-
-G).- De los Colegios de Ingenieros y Arquitectos;
-
-H).- Del Centro Bancario;
-
-I).- Del Colegio de Abogados;
-
-J).- Del Colegio de Contadores Públicos;
-
-K).- Del Colegio de Licenciados en Administración de Empresas;
-
-L).- De la Unión de Propietarios de Bienes Raíces o la Junta General de Vecinos constituida ante la autoridad Municipal;
-
-M).- De la Unión de Contribuyentes y Asesorías de Servicios Públicos;
-
-N).- De cada una de las tres organizaciones obreras mayoritarias a juicio de la Dirección del Trabajo y Previsión Social del Estado, y
-
-Ñ).- De cada una de las tres organizaciones campesinas mayoritarias.
-
-Por cada uno de los representantes a que se refiere esta fracción se designará un suplente.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
 
-En el caso de que en la cabecera Municipal no existan Organizaciones que agrupen a los profesionistas, propietarios, industriales y comerciantes de referencia, el Presidente Municipal convocará a una reunión de los sectores interesados, para que nombren a sus representantes. La convocatoria correspondiente, que se fijará en los tableros de la Presidencia Municipal, en los sitios más concurridos de la localidad y se publicará en el Diario de mayor circulación, señalará día y hora para la reunión que deberá celebrarse con la anticipación necesaria, para que el Consejo quede debidamente integrado en los plazos que marca la presente Ley. Si no concurren a las reuniones convocadas los sectores interesados, se entenderá que renuncian al derecho de ser representados y el Consejo se integrará con los que fueren designados.
+D).- De la Cámara Nacional de Comercio y Servicios Turísticos;
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
+E).- De la Cámara Nacional de la Industria de Transformación;
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
+F).- Del Centro Empresarial;
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+G).- De Los Colegios de Ingeniería y Arquitectura;
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
+H).- Del Centro Bancario;
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+I).- Del Colegio de Abogados y Abogadas;
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+J).- Del Colegio de Contadores y Contadoras Públicos;
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+K).- Del Colegio de la licenciatura en Administración de Empresas;
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+L).- De la Unión de Personas propietarias de Bienes Raíces o la Junta General de Vecinos constituida ante la autoridad municipal;
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+M).- De La Unión de personas Contribuyentes y Asesorías de Servicios Públicos;
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+N).- De cada una de las tres organizaciones obreras mayoritarias a juicio de la Dirección del Trabajo y Previsión Social del Estado; y,
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
+Ñ).- De cada una de las tres organizaciones campesinas mayoritarias.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+Por cada uno (sic) de las personas representantes a que se refiere esta fracción se designará una persona suplente.
 
 ###### ARTICULO 35.
 
@@ -599,9 +683,11 @@ XII.- Cobrar el costo de las obras; y
 
 XIII.- En general, ejecutar los actos necesarios para el mejor cumplimiento de sus fines.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTICULO 36.
 
-A fin de integrar los Consejos de Urbanización Municipales, el Presidente Municipal que corresponda, requerirá por oficio a los Organismos y Organizaciones a que se refiere el Artículo 34 de esta Ley, para que dentro de los quince días siguientes al requerimiento, hagan la designación del Representante propietario y suplente que les corresponda.
+A fin de integrar los Consejos de Urbanización Municipales, la persona titular de la Presidencia Municipal que corresponda, requerirá por oficio a los Organismos y Organizaciones a que se refiere el Artículo 34 de esta Ley, para que, dentro de los quince días siguientes al requerimiento, hagan la designación de la persona representante propietaria y suplente que les corresponda.
 
 El requerimiento aludido, deberá enviarse por correo certificado, con acuse de recibo.
 
@@ -609,31 +695,35 @@ El requerimiento aludido, deberá enviarse por correo certificado, con acuse de 
 
 En el caso de que no se hicieran las designaciones dentro del término señalado, se considerará que los Organismos y Organizaciones renuncian a su derecho de representación en los Consejos de Urbanización Municipales, los cuales se tendrán por integrados con los designados en los términos del Artículo anterior.
 
+(RFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)
+
 ###### ARTICULO 38.
 
-Constituidos los Consejos de Urbanización Municipales, elegirán en la primera sesión, de entre las personas que los integran, al Secretario, Tesorero, Primer Vocal y Segundo Vocal de la Directiva de los Consejos, así como a los Suplentes, que substituirán a los titulares, en sus ausencias temporales.
+Constituidos los Consejos de Urbanización Municipales, elegirán en la primera sesión, de entre las personas que los integran, la Secretaria, Tesorería, Primer Vocal y Segundo Vocal de las personas que integran los Consejos, así como a las y los Suplentes, que substituirán a las personas titulares, en sus ausencias temporales.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 39.
 
-La Directiva durará en ejercicio, un año, prorrogándose automáticamente sus funciones hasta que tomen posesión los directivos que deban substituírla y que se elegirán cada año.
+La Directiva durará en ejercicio, un año, prorrogándose automáticamente sus funciones hasta que tomen posesión las personas directivas que deban sustituirla y que se elegirán cada año.
 
-Los cargos de la Directiva, con excepción del Presidente, podrán recaer por votación en cualesquiera de los Representantes propietarios de los Consejos; y en caso de renuncia de alguno de los miembros de la Directiva, se procederá a hacer nueva elección para el puesto que quede vacante.
+Los cargos de la Directiva, con excepción de Presidencia, podrán recaer por votación en cualesquiera de las personas propietarias de los Consejos; y en caso de renuncia de alguna de las personas integrantes de la Directiva, se procederá a hacer nueva elección para el puesto que quede vacante.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 40.
 
-Si alguno de los miembros del Consejo se separa definitivamente, no existiere suplente y se tratare de Representante de los diversos sectores sociales, se hará nueva designación de representante para cubrir la vacante por el plazo que falte para el ejercicio, en los términos del Artículo 36 de esta Ley.
-
-Respecto de los elementos oficiales que por Ley sean miembros de los Consejos, al dejar de desempeñar el cargo oficial relativo, serán suplidos por quienes ocupen los puestos respectivos.
+Si alguna de las personas integrantes del Consejo se separa definitivamente, no existiere suplente y se tratare de Representante de los diversos sectores sociales, se hará nueva designación de representante para cubrir la vacante por el plazo que falte para el ejercicio, en los términos del Artículo 36 de esta Ley. Respecto de los elementos oficiales que por Ley sean miembros de los Consejos, al dejar de desempeñar el cargo oficial relativo, serán suplidos por quienes ocupen los puestos respectivos.
 
 ###### ARTICULO 41.
 
 Las elecciones para designar nueva Directiva, se llevarán a cabo en la primera quincena del mes de enero, la que entrará en funciones y ejercerá durante un año.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 42.
 
-Los Consejos de Urbanización Municipales, funcionarán legítimamente, con la concurrencia de la mayoría de sus miembros y las resoluciones se tomarán por mayoría de votos de los representantes, teniendo en caso de empate, voto de calidad el Presidente del Consejo. En caso de no concurrir la mayoría de sus miembros, la siguiente sesión se llevará a cabo legítimamente con la presencia de una tercera parte de sus miembros y las resoluciones se tomarán en igual forma, conservando el voto de calidad el Presidente del Consejo.
+Los Consejos de Urbanización Municipales, funcionarán legítimamente, con la concurrencia de la mayoría de sus integrantes y las resoluciones se tomarán por mayoría de votos de las personas representantes, teniendo en caso de empate, voto de calidad quien Presida el Consejo. En caso de no concurrir la mayoría de sus integrantes, la siguiente sesión se llevará a cabo legítimamente con la presencia de una tercera parte de sus miembros y las resoluciones se tomarán en igual forma, conservando el voto de calidad quien presida el Consejo.
 
 ###### ARTICULO 43.
 
@@ -641,63 +731,75 @@ El Presidente del Consejo, tendrá la representación general y jurídica del mi
 
 El Consejo, en su caso, podrá otorgar al Presidente facultades para ejercer actos de dominio.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTICULO 44.
 
-El Consejo de Urbanización Municipal tendrá un Gerente General, que será nombrado y removido libremente por el propio Consejo.
+El Consejo de Urbanización Municipal contará con una Gerencia General, que será nombrado y removido libremente por el propio Consejo.
 
-El Gerente General tendrá el carácter de Apoderado General, para pleitos y cobranzas y estará a su cargo la coordinación de los recursos materiales y humanos necesarios para el funcionamiento del Consejo; vigilar la recaudación de cuotas de cooperación, así como el manejo de los fondos para cubrir las necesidades del Consejo, para lo cual deberá estar expresamente autorizado por el Presidente ante las Instituciones de crédito respectivas, o en su defecto, su firma deberá ir acompañada por la del Presidente o del Tesorero del propio Consejo.
+La Gerencia General tendrá el carácter de Apoderado General, para pleitos y cobranzas y estará a su cargo la coordinación de los recursos materiales y humanos necesarios para el funcionamiento del Consejo; vigilar la recaudación de cuotas de cooperación, así como el manejo de los fondos para cubrir las necesidades del Consejo, para lo cual deberá estar expresamente autorizado por presidencia ante las Instituciones de crédito respectivas, o en su defecto, su firma deberá ir acompañada por la de Presidencia o del Tesorero o Tesorera del propio Consejo.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 45.
 
-El Secretario del Consejo, firmará en unión del Presidente, en toda clase de actos jurídicos, con excepción de los que impliquen disposición de fondos, en el desempeño de las atribuciones que le confiere esta Ley, y llevará los libros de actas de sesiones que deberá autorizar con su firma.
+La persona secretaria del Consejo, firmará en unión de Presidencia, en toda clase de actos jurídicos, con excepción de los que impliquen disposición de fondos, en el desempeño de las atribuciones que le confiere esta Ley, y llevará los libros de actas de sesiones que deberá autorizar con su firma.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 46.
 
-El Tesorero del Consejo tendrá a su cargo, la función de supervisar el manejo de fondos, la planeación financiera, la formulación del proyecto de Presupuesto anual, que deberá poner a consideración del propio Consejo. Deberá, además, autorizar con su firma y la del Presidente, todos los actos que impliquen disposición de fondos que deban realizarse de acuerdo con el ejercicio de las facultades que competen al Consejo. Asimismo, deberá rendir ante éste un informe anual de su gestión.
+La persona tesorera del Consejo tendrá a su cargo, la función de supervisar el manejo de fondos, la planeación financiera, la formulación del proyecto de Presupuesto anual, que deberá poner a consideración del propio Consejo. Deberá, además, autorizar con su firma y la de presidencia, todos los actos que impliquen disposición de fondos que deban realizarse de acuerdo con el ejercicio de las facultades que competen al Consejo. Asimismo, deberá rendir ante éste un informe anual de su gestión.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 47.
 
-Los Consejos de Urbanización Municipal, sesionarán por lo menos una vez al mes y en cuantas ocasiones las circunstancias lo exijan, pudiendo convocarse a sesión por acuerdo del Presidente o a moción de dos de los miembros de la Directiva o del Gerente General.
+Los Consejos de Urbanización Municipal, sesionarán por lo menos una vez al mes y en cuantas ocasiones las circunstancias lo exijan, pudiendo convocarse a sesión por acuerdo de Presidencia o a moción de dos de las personas integrantes de la Directiva o del Gerente General.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 48.
 
-La Secretaría de Infraestructura y Desarrollo Urbano del Estado y los Municipios en sus respectivos ámbitos de competencia tendrán las siguientes atribuciones:
+La Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial y los Municipios en sus respectivos ámbitos de competencia tendrán las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-I.- Conocer los proyectos de obras de urbanización que bajo los sistemas de plusvalía y cooperación, sometan a su consideración la Junta de Urbanización del Estado y los Consejos de Urbanización municipales respectivamente, a fin de aprobarlos, modificarlos o rechazarlos, según corresponda;
+I.- Conocer los proyectos de Obras de Urbanización que, bajo los sistemas de Plusvalía y cooperación, sometan a su consideración la Junta de Urbanización del Estado y los Consejos de Urbanización Municipales respectivamente, a fin de aprobarlos, modificarlos o rechazarlos según corresponda;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 II.- Formular proyectos de obras de urbanización bajo el sistema de plusvalía y realizarlos directamente o encomendar su ejecución a la Junta de Urbanización del Estado, o en su caso a los organismos de urbanización previstos en la presente ley, quienes que se sujetarán a lo dispuesto en su Capítulo III;
 
-En los casos en que la Secretaría de Infraestructura y Desarrollo Urbano del Estado y los Municipios realicen obras de urbanización, tendrán las atribuciones que la ley le confiere a la Junta de Urbanización del Estado, en cuanto no se oponga a su respectivo ámbito competencial;
+En los casos en que la Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial y los Municipios realicen obras de urbanización, tendrán las atribuciones que la ley le confiere a la Junta de Urbanización del Estado, en cuanto no se oponga a su respectivo ámbito competencial;
 
-III.- Supervisar el debido funcionamiento de la Junta de Urbanización del Estado y de los Consejos de Urbanización Municipales; y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+III.- Supervisar el debido funcionamiento de la Junta de Urbanización del Estado y de los Consejos de Urbanización Municipales; y,
 
 > <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
 IV.- Supervisar la ejecución de las obras, ya sean por el sistema de plusvalía o por el de cooperación.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 49.
 
-La Secretaría de Planeación y Finanzas y los Ayuntamientos en su jurisdicción, en todo lo que se refiere a obras de urbanización previstas en esta Ley, tendrán la facultad de revisar y ordenar los movimientos financieros y contables.
+La Secretaría de Hacienda y los Ayuntamientos en su jurisdicción, en todo lo que se refiere a obras de urbanización previstas en esta Ley, tendrán la facultad de revisar y ordenar los movimientos financieros y contables.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 50.
 
-La Dirección de Organización, Programación y Presupuesto, tendrá la facultad de intervenir en lo relativo a la inversión presupuestal del Estado, originada por la aplicación de esta Ley.
+La Dirección de Organización, Programación y Presupuesto tendrá la facultad de intervenir en lo relativo a la inversión presupuestal del Estado, originada por la aplicación de esta Ley.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+Las Presidencias Municipales tendrán la facultad de intervenir en lo relativo a la inversión presupuestal de los Ayuntamientos que corresponda, originada por la aplicación de esta Ley.
 
-Los Presidentes Municipales tendrán la facultad de intervenir en lo relativo a la inversión presupuestal de los Ayuntamientos que corresponda, originada por la aplicación de esta Ley.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 51.
 
-Los Comités de obras que autoricen los Consejos de Urbanización, se integrarán por un Presidente, un Secretario, un Tesorero y dos Vocales, nombrados con sus respectivos suplentes, por mayoría de votos de los propietarios o poseedores beneficiados por una obra determinada y en virtud de convocatoria del Consejo de Urbanización Municipal correspondiente.
+Los Comités de obras que autoricen los Consejos de Urbanización, se constituirán por una Presidencia, Secretaria, Tesorería y dos Vocales, nombrados con sus respectivos suplentes, por mayoría de votos de las personas propietarias o poseedoras beneficiadas por una obra determinada y en virtud de convocatoria del Consejo de Urbanización Municipal correspondiente.
 
 ###### ARTICULO 52.
 
@@ -849,11 +951,11 @@ VIII.- Notificar formalmente la contribución de mejora por el sistema de plusva
 
 #### SECCION SEGUNDA. DE LAS EXPROPIACIONES Y LIBERACION DEL DERECHO DE VIA REQUERIDA EN EL SISTEMA DE PLUSVALIA
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 63.
 
-Al ser aprobada una obra cuya ejecución requiera la expropiación de bienes de propiedad privada, la Junta de Urbanización del Estado o la Secretaría de Infraestructura y Desarrollo Urbano del Estado, deberán solicitar al Ejecutivo del Estado la expropiación, quien determinará su procedencia y observara el procedimiento en los términos de la ley en la materia.
+Al ser aprobada una obra cuya ejecución requiera la expropiación de bienes de propiedad privada, la Junta de Urbanización del Estado o la Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial, deberán solicitar al Ejecutivo del Estado la expropiación, quien determinará su procedencia y observara el procedimiento en los términos de la ley en la materia.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
@@ -985,23 +1087,37 @@ La operación de cálculo para la individualización de la contribución, le cor
 
 Cuando las áreas de las zonas generales de beneficio de dos o más obras, coincidan total o parcialmente, tanto en lo físico como en el plazo de recuperación, tendrá preferencia en el cobro el crédito que se finque primero; la siguiente podrá ser recuperada una vez que se cubra el primer crédito fiscal fincado. En este supuesto no transcurrirá el plazo de caducidad o prescripción del segundo crédito fiscal. De igual forma respecto de este último crédito no se generarán recargos hasta que se empiece a cubrir el mismo.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 73.
 
-La Junta de Urbanización del Estado, una vez individualizada la contribución de mejora, por conducto del Subrecaudador de Rentas del Estado adscrito al organismo, notificará personalmente al causante la cuantificación y liquidación de la contribución mediante un instructivo en el que se exprese:
+La Junta de Urbanización del Estado, una vez individualizada la contribución de mejora, por conducto de Subrecaudación de Rentas del Estado adscrita al organismo, notificará personalmente a la persona causante la cuantificación y liquidación de la contribución mediante un instructivo en el que se exprese:
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
 I.- Nombre del causante;
 
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
 II.- Dirección del causante;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
 III.- Clave catastral del predio, ubicación o domicilio, número de lote o fracción y manzana del predio;
 
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
 IV.- Superficie beneficiada por cada sección según sea el caso;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
 V.- Cuotas por metro cuadrado por cada sección de beneficio;
 
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
 VI.- Importe líquido total de la contribución;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
 VII.- El importe mensual y el número de mensualidades en que deberá de cubrirse la contribución.
 
@@ -1055,13 +1171,13 @@ Los deudores de las contribuciones de mejora por el sistema de plusvalía podrá
 
 Las obras de urbanización a que se refiere el artículo 3 de esta Ley, que por su naturaleza no ameriten que se lleven a cabo bajo el sistema de plusvalía, en virtud de no ser de beneficio general para los habitantes de las ciudades, o no abarquen una extensa zona de gran influencia de beneficio en las mismas, se realizarán por cooperación y estarán a cargo de los Consejos de Urbanización Municipales.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 80.
 
-Una vez realizados los estudios técnicos sobre los diversos aspectos de la obra, tales como costo y derrama de la misma, precios unitarios, bases para calcular la cuota que a cada cooperador corresponda cubrir, proyectos de contratos, financiamiento y a sus bases, los someterá simultáneamente al Consejo de Urbanización Municipal a la consideración del Ayuntamiento correspondiente y de la Secretaría de Infraestructura y Desarrollo Urbano del Estado, para su aprobación, en su caso.
+Una vez realizados los estudios técnicos sobre los diversos aspectos de la obra, tales como costo y derrama de la misma, precios unitarios, bases para calcular la cuota que a cada cooperador corresponda cubrir, proyectos de contratos, financiamiento y a sus bases, los someterá simultáneamente al Consejo de Urbanización Municipal a la consideración del Ayuntamiento correspondiente y de la Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial, para su aprobación, en su caso.
 
-El Ayuntamiento y la Secretaría de Infraestructura y Desarrollo Urbano del Estado deberán resolver dentro del termino de quince días, a partir de la fecha que se reciban los estudios técnicos.
+El Ayuntamiento y la Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial deberán resolver dentro del término de quince días, a partir de la fecha que se reciban los estudios técnicos.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
 
@@ -1073,17 +1189,19 @@ El costo de las obras se derramará entre los propietarios y poseedores en propo
 
 Los contratos para la ejecución de obras, incluirán las estipulaciones pormenorizadas sobre precios y las bases que permitan su liquidación, forma de pago, especificaciones, calidad de materiales, tiempo de ejecución, supervisión, cláusulas penales para el caso de incumplimiento y garantías que deban otorgar los contratistas para asegurar el cumplimiento de sus obligaciones y la calidad de las obras.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-Las especificaciones, calidad de materiales y demás elementos de los contratos, deberán ser acordes con las normas de calidad y (sic) deberá señalar la Secretaría de Infraestructura y Desarrollo Urbano del Estado.
+Las especificaciones, calidad de materiales y demás elementos de los contratos, deberán ser acordes con las normas de calidad que deberá señalar la Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial.
 
 ###### ARTICULO 83.
 
 Las normas a que se refiere el Artículo anterior, serán publicadas oportunamente en el Periódico Oficial del Estado, sin perjuicio de las modificaciones que pudieran acordarse por la Secretaría, caso en el que deberá hacerse nueva publicación.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTICULO 84.
 
-Independientemente de que se exijan las responsabilidades en que puedan incurrir los miembros de los Consejos en las contrataciones de obras, así como de su destitución en los casos de convivencia o asociación con los contratistas, el contrato será nulo de pleno derecho y no surtirá efectos ni responsabilidad para el Consejo. El texto de este Artículo deberá insertarse en los contratos que los Consejos celebren.
+Independientemente de que se exijan las responsabilidades en que puedan incurrir las personas integrantes de los Consejos en las contrataciones de obras, así como de su destitución en los casos de convivencia o asociación con los contratistas, el contrato será nulo de pleno derecho y no surtirá efectos ni responsabilidad para el Consejo. El texto de este Artículo deberá insertarse en los contratos que los Consejos celebren.
 
 ###### ARTICULO 85.
 
@@ -1099,9 +1217,11 @@ Para su sostenimiento, los Consejos de Urbanización Municipales percibirán, co
 
 #### SECCION SEGUNDA. PROCEDIMIENTO PARA ESTABLECER LA COOPERACION
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTICULO 88.
 
-Una vez realizados los estudios y proyección técnica, y aprobados en los términos del Artículo 8o, a fin de llevar a cabo las obras de urbanización, el Consejo citará a los propietarios y poseedores a una junta, haciéndoles saber en el citatorio sobre los diversos aspectos de la obra, así como su costo, importe líquido de la cooperación y contratos que deban celebrarse para llevarla a cabo. En esa junta se les expondrán los pormenores de los aspectos de que se trata y se les oirá en cuanto a lo que aleguen, de acuerdo con sus intereses, respecto del costo, precios unitarios, derrama, base para calcular la cuota de cooperación que deban de cubrir, número de mensualidades, así como en todo lo relativo que a sus derechos convenga.
+Una vez realizados los estudios y proyección técnica, y aprobados en los términos del Artículo 8o. a fin de llevar a cabo las obras de urbanización, el Consejo citarán a las personas propietarias y poseedoras a una junta, haciéndoles saber en el citatorio sobre los diversos aspectos de la obra, así como su costo, importe líquido de la cooperación y contratos que deban celebrarse para llevarla a cabo. En esa junta se les expondrán los pormenores de los aspectos de que se trata y se les oirá en cuanto a lo que aleguen, de acuerdo con sus intereses, respecto del costo, precios unitarios, derrama, base para calcular la cuota de cooperación que deban de cubrir, número de mensualidades, así como en todo lo relativo que a sus derechos convenga.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
 
@@ -1181,13 +1301,17 @@ Asimismo, aquellos que estando al corriente en sus pagos, decidan pagar anticipa
 
 Las demoras en los pagos, generarán recargos en los términos establecidos en el Código Fiscal del Estado para los demás créditos fiscales.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTICULO 101.
 
-El Recaudador de Rentas del Estado o el Tesorero Municipal que intervenga en auxilio del Consejo, no percibirá honorarios sobre la recaudación, pero en los casos que se sigan procedimientos de apremio y de ejecución, cobrarán honorarios y gastos que correspondan.
+La persona titular de Recaudación de Rentas del Estado o la persona titular de Tesorería Municipal que intervenga en auxilio del Consejo, no percibirá honorarios sobre la recaudación, pero en los casos que se sigan procedimientos de apremio y de ejecución, cobrarán honorarios y gastos que correspondan.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 102.
 
-El producto de las recaudaciones será puesto a disposición del Consejo de Urbanización Municipal, el cual podrá retirarlo mediante órdenes de pago suscritas por el Presidente y el Tesorero del propio Consejo, que expida de acuerdo con las facultades que le otorga esta Ley.
+El producto de las recaudaciones será puesto a disposición del Consejo de Urbanización Municipal, el cual podrá retirarlo mediante órdenes de pago suscritas por la Presidencia y Tesorería del propio Consejo, que expida de acuerdo con las facultades que le otorga esta Ley.
 
 ###### ARTICULO 103.
 
@@ -1346,3 +1470,9 @@ P.O. 13 DE DICIEMBRE DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las autoridades respectivas darán cumplimiento de la presente reforma en base a los requisitos señalados por el artículo 172, fracción II, en correlación con el artículo 174 de la Ley de Hacienda del Estado de Baja California, con el hecho de comprobar la edad de la persona con el acta de nacimiento, o bien que se identifique con credencial expedida por el Instituto Nacional de las Personas Adultas Mayores.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 274 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS 2, 5, 6, 7, 9, 13, 16, 18, 19, 22, 23, 25, 26, 28, 29, 32, 34, 36, 38, 39, 40, 42, 44, 45, 46, 47, 48, 49, 50, 51, 63, 73, 80, 82, 84, 88, 101 Y 102 DE LA LEY DE URBANIZACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
