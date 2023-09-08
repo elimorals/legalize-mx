@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-juventud-del-estado-de-baja-california-82158"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-11"
-last_updated: "2022-11-11"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 11 de julio de 2011.
 
@@ -1621,11 +1621,11 @@ El Instituto solicitará de las dependencias y entidades de los tres órdenes de
 
 ### CAPÍTULO SEGUNDO. DEL PREMIO ESTATAL DE LA JUVENTUD
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 100.
 
-Se instituye el Premio para reconocer la trayectoria de jóvenes con talento, capacidad e iniciativa en el área social, cívica, educativa, tecnológica, científica, cultural, deportiva, profesional, económica, ambiental, en el fortalecimiento a la Diversidad Sexual y de Género y, por haber realizado servicios y acciones relevantes en beneficio de la juventud.
+Se instituye el Premio para reconocer la trayectoria de jóvenes con talento, capacidad e iniciativa en el área social, cívica, educativa, tecnológica, científica, cultural, deportiva, profesional, económica, ambiental, en el fortalecimiento a la Diversidad Sexual y de Género, fortalecimiento y promoción a la cultura y las lenguas indígenas nativas y nacionales asentadas; fortalecimiento de la cultura afromexicana; defensa y reconocimiento de los derechos humanos, discapacidad e integración y, por haber realizado servicios y acciones relevantes en beneficio de la juventud.
 
 ###### ARTÍCULO 101.
 
@@ -1634,6 +1634,10 @@ La convocatoria para participar en los concursos y eventos con motivo de la entr
 > <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 La cuantía, el tipo de premios, la composición del jurado de premiación, así como las bases para su funcionamiento se determinarán por la Dirección.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+La convocatoria por lo menos contemplará dos categorías por grupo etario, una para las y los jóvenes de 12 a 17 años y otra de 18 a 29 años.
 
 ### CAPÍTULO TERCERO. DE LA TARJETA CARNET JOVEN
 
@@ -1647,13 +1651,17 @@ La operación del Carnet será instrumentada por el Instituto, para lo cual prom
 
 Lo relativo al funcionamiento y operación del Carnet será regulado por el Reglamento.
 
-### CAPÍTULO CUARTO. DEL PARLAMENTO DE LA JUVENTUD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+### CAPÍTULO CUARTO. DEL PARLAMENTO DE LAS JUVENTUDES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 104.
 
-El Parlamento es un espacio de expresión política de las y los jóvenes promovido por el Congreso del Estado de Baja California, a través de la Comisión que para tales efectos determine.
+El Parlamento es un mecanismo de participación ciudadana y espacio de expresión política de las y los jóvenes promovido por el Congreso del Estado de Baja California, a través de la Comisión que para tales efectos determine con el objeto de promover la democracia, el diálogo y la pluralidad, así como la capacitación y vinculación con autoridades del Estado y los municipios, para fomentar que las y los jóvenes se conviertan en actores de cambio en sus comunidades.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 Este espacio les permitirá manifestar plenamente sus pensamientos, ideas, opiniones y propuestas sobre los temas y problemas que consideren de mayor impacto en la sociedad y en la vida de la juventud Bajacaliforniana.
 
@@ -1661,13 +1669,67 @@ Este espacio les permitirá manifestar plenamente sus pensamientos, ideas, opini
 
 ARTÍCULO 104 BIS.- Para cumplir con la Paridad de manera plena el Comité deberá elegir a 13 mujeres con suplentes del mismo género y 12 hombres que pueden ser acompañados con suplentes de cualquier género.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+Asimismo, se procurará que el Parlamento se encuentre integrado con representación de todos los municipios del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+Además, se establecerán acciones afirmativas en favor de las y los jóvenes indígenas nativos y asentados, afromexicanos, de la diversidad sexual, con discapacidad, que hayan estado bajo la tutela del Estado y/o organización de asistencia social pública o privada, y migrantes nacionales y extranjeros residentes en el Estado.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 105.
 
-La Comisión, en coordinación y colaboración con el Instituto, cada año convocará a la elección de nuevos parlamentarios juveniles, emitiendo una convocatoria que deberá señalar los requisitos de selección y plazos para el concurso de los aspirantes.
+La Comisión, en coordinación y colaboración con el Instituto y el Instituto Estatal Electoral de Baja California, cada año convocará a la elección de la nueva integración del parlamento, emitiendo una convocatoria que deberá señalar los requisitos de selección y plazos para el concurso de las y los aspirantes.
 
-La instalación del Parlamento Juvenil se realizará en la Sala de Pleno Benito Juárez García, y de forma subsecuente, sus sesiones se celebran en la Sala Mujeres de Baja California, Forjadoras de la Patria.
+Las etapas que van desde la planeación del parlamento a su conclusión son las siguientes:
+
+I. Etapa de Planificación, en la que la Comisión determinará la integración del Comité Organizador y el Comité Seleccionador, y realizará una propuesta de convocatoria que someterá a aprobación del primero de los comités;
+
+II. Etapa de convocatoria y difusión, que iniciará al momento de su publicación en el mes de agosto y culminará con el cierre del registro;
+
+III. Etapa de selección, consistirá en la evaluación de los proyectos, selección y publicación de resultados;
+
+IV. Etapa de capacitación, una vez que las y los parlamentarios seleccionados como titulares y suplentes hayan manifestado su deseo de conformar el parlamento, se dará inicio a una serie de capacitaciones en técnica legislativa, derecho parlamentario, democracia, derechos humanos, igualdad de género, debate, y todos aquellos temas que tengan como fin el promover la cultura democrática y legislativa, así como en dotarles de las herramientas para que se conviertan en factores de cambio social en sus comunidades;
+
+V. Etapa de ejecución, consistente en la suscripción del código interno de ética y conducta, la celebración de la sesión previa para la selección de la mesa directiva, sesión de toma de protesta y exposición de proyectos, entre otras; y,
+
+VI. Etapa e (sic) clausura, consistente en la sesión de clausura y entrega del proyecto de las memorias del parlamento de las juventudes.
+
+La instalación y clausura del Parlamento de las juventudes se realizará en la Sala de Pleno Benito Juárez García, y de forma subsecuente, sus sesiones y actividades se celebraran en la Sala Mujeres de Baja California, Forjadoras de la Patria, o de forma virtual.
+
+La sesión toma de instalación y toma de protesta del Parlamento deberá de llevarse a cabo de la siguiente manera:
+
+I. La Presidencia de la Comisión tomará protesta a la Mesa Directiva del Parlamento elegida en la sesión previa;
+
+II. La Presidencia de la Mesa Directiva del Parlamento tomará la protesta a las y los Parlamentarios juveniles;
+
+III. La sesión no podrá exceder de tres horas para su conclusión;
+
+IV. Para el desarrollo de las participaciones de los oradores deberán de ajustarse al número de los que podrán subir a tribuna y contemplar la existencia de los debates, el formato deberá ser propuesto por la Comisión responsable y aprobado por la Dirección de Procesos Parlamentarios previo a la realización del Parlamento de que se trate; y,
+
+V. Deberá finalizar con un mensaje de la Presidencia de la Mesa Directiva del Parlamento.
+
+Al finalizar la sesión señalada en el presente artículo, se entregará a cada parlamentaria y parlamentario su nombramiento.
+
+El código interno de ética que deberá de ser firmado por las y los parlamentarios juveniles.
+
+Las faltas al código interno de ética del parlamento serán calificadas por la Comisión y las sanciones serán:
+
+I. Amonestación privada por escrito;
+
+II. Suspensión de uno a veinte días de las actividades del parlamento; y,
+
+III. Revocación del nombramiento juvenil.
+
+En los casos previstos por las fracciones II y III del párrafo anterior se procederá a llamar a la persona suplente.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+ARTÍCULO 105 BIS.- La Comisión creará un archivo documental consistente en actas, listas de asistencia, acuerdos y demás documentos del comité organizador, de igual forma se contará con un registro documental de las actividades de los parlamentos juveniles y el memorial de sus trabajos durante la legislatura, los cuales al finalizar la legislatura serán entregados y resguardados por la Dirección de Procesos Parlamentarios para su consulta por parte de las legislaturas posteriores y el público en general.
+
+Las memorias contendrán los proyectos legislativos y sociales con los que fueron seleccionados las y los parlamentarios juveniles, así como un registro fotográfico de sus principales actividades para que sirvan de consulta y orientación para la legislatura en funciones y posteriores.
 
 > <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
@@ -1695,23 +1757,31 @@ II.- Tener una edad máxima de hasta 29 años, a la fecha que establezca la conv
 
 III.- Presentar un Proyecto Legislativo con los requisitos que establezca la convocatoria correspondiente y las demás disposiciones aplicables;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-IV.- No ser servidor público; y,
+IV.- No ser servidora o servidor público al momento de la elección; y,
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE ABRIL DE 2021)</small>
 
 V.- Los demás que establezca la convocatoria correspondiente y las demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+Para efectos de la fracción III del presente artículo, los proyectos serán evaluados considerando su originalidad, así como su desarrollo con perspectiva de juventudes, derechos humanos, inclusión e igualdad de género, además de los criterios previstos por la convocatoria.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 108.
 
-La integración de cada nuevo Parlamento se realizará en el mes de octubre. El cargo de Parlamentario o Parlamentario Juvenil tendrá la misma duración y será de naturaleza honorífica.
+La integración de cada nuevo Parlamento se realizará en el mes de octubre. El cargo de Parlamentaria o Parlamentario Juvenil tendrá la misma duración y será de naturaleza honorifica.
 
 > <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ARTÍCULO 108 BIS.- En sesión previa a la Toma de Protesta, las y los parlamentarios elegirán a su Mesa Directiva con Paridad de Género, mediante la votación de la mayoría calificada de sus integrantes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+Dicha sesión no deberá de extenderse por más de dos horas, en caso de no haber un acuerdo se procederá a elegir a las personas mejor evaluadas de dos listas, una de mujeres y otra de hombres, de forma alternadas para garantizar la paridad de género. En dicha sesión se tendrá el apoyo jurídico y técnico de la Comisión y de la dirección de Procesos Parlamentarios.
 
 ## TÍTULO SÉPTIMO. RÉGIMEN DE TRABAJO Y DE LAS RESPONSABILIDADES Y SANCIONES
 
@@ -1904,3 +1974,15 @@ P.O. 11 DE NOVIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 161 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 100 DE LA LEY DE (SIC) JUVENTUD DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 272 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 100 Y 101 DE LA LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 276 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 104, 104 BIS, 105, 107, 108 Y 108 BIS, LA ADICIÓN DE UN ARTÍCULO 105 BIS, Y LA MODIFICACIÓN DEL NOMBRE DEL CAPÍTULO CUARTO DEL TÍTULO SEXTO DE LA LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
