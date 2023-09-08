@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2023-02-23"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -107,11 +107,13 @@ IX. Preservar la convivencia y el fomento de la cohesión social, y
 
 X. Apoyar en las tareas que se les encomienden que tengan fundamento legal y que formen parte del fortalecimiento del Estado de Derecho.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+###### ARTÍCULO 2° Quáter.
+
+Las acciones emprendidas en materia de Seguridad Ciudadana, tendrán como eje central a la persona y sus derechos humanos, observando y respetando el ejercicio de los derechos de ciudadanía con perspectiva de género, las libertades y los derechos fundamentales, así como el fomento de una cultura de paz.
+
 > <small>(ADICIONADO, P.O. 13 DE MAYO DE 2022)</small>
-
-###### ARTICULO 2° Quáter.
-
-Las acciones emprendidas en materia de Seguridad Ciudadana, tendrán como eje central a la persona y sus derechos humanos, observando y respetando el ejercicio de los derechos de ciudadanía, de las libertades y los derechos fundamentales, así como el fomento de una cultura de paz.
 
 La actuación de los elementos que conformen la Secretaría de Seguridad y Protección Ciudadana se ejecutará en cumplimiento de la Ley que Establece los Principios para el Uso de la Fuerza Pública del Estado y se llevarán a cabo observando la legislación aplicable en materias de derechos humanos, principio pro persona, y cultura de la legalidad.
 
@@ -879,9 +881,9 @@ IX. Verificar que los programas, estrategias, acciones, políticas y servicios q
 
 X. Evaluar el cumplimiento de las políticas, estrategias y acciones establecidas por el sistema nacional de seguridad pública en los términos de ley;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-XI. Desarrollar, implantar, y evaluar, en corresponsabilidad con otras instituciones, la política en materia de prevención social del delito, con carácter integral, e implementar la política criminal en el ámbito estatal, sobre las causas que generan la comisión de delitos y conductas antisociales; así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que conduzcan al respeto a la legalidad y a la protección de las víctimas, dicha política de prevención brindará atención prioritaria a las zonas con altos índices de marginación social y alta incidencia delictiva;
+XI. Desarrollar, implantar, y evaluar, en corresponsabilidad con otras instituciones, la política en materia de prevención social del delito, con carácter integral, e implementar la política criminal en el ámbito estatal, sobre las causas que generan la comisión de delitos y conductas antisociales; así como programas y acciones para fomentar en la sociedad valores culturales, cívicos y de perspectiva de género, que conduzcan al respeto a la legalidad y a la protección de las víctimas, dicha política de prevención brindará atención prioritaria a las zonas con altos índices de marginación social y alta incidencia delictiva;
 
 XII. Elaborar y publicar informes de actividades del Consejo Estatal;
 
@@ -3194,6 +3196,14 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto e
 P.O. 23 DE FEBRERO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0693.- SE REFORMA EL ARTÍCULO 54, EN SU SEGUNDO PÁRRAFO, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0825.- SE REFORMA EL ARTÍCULO 2º QUÁTER EN SU PÁRRAFO PRIMERO Y 46 EN SU FRACCIÓN XI, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
