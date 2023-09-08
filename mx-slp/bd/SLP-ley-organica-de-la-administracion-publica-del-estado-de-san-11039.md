@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2023-03-01"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -110,6 +110,16 @@ Las o los servidores públicos a los que alude el párrafo anterior, se designar
 > <small>(ADICIONADO, P.O. 6 DE MARZO DE 2021)</small>
 
 En caso de que la persona titular de una Secretaría o dependencia solicite licencia hasta por cuarenta días naturales, el titular del Poder Ejecutivo nombrará una o un encargado de despacho. Las personas que sean nombradas como encargadas de despacho o con cualquier otra denominación, con la finalidad de cubrir la ausencia de la o el titular de alguno de los cargos que señala el párrafo primero de este artículo, deberán cumplir con todos y cada uno de los requisitos que la legislación exija para asumirlos.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+Además de los requisitos establecidos en las leyes aplicables, las y los servidores públicos no deberán estar en alguno de los siguientes supuestos:
+
+I. Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
+
+II. Tener sentencia condenatoria que haya causado estado por delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
+
+III. Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios.
 
 ###### ARTICULO 9o.
 
@@ -2108,6 +2118,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 1 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0712.- SE REFORMA EL ARTÍCULO 39, EN SU FRACCIÓN XX; Y ADICIONA AL MISMO ARTÍCULO 39 UNA FRACCIÓN, ÉSTA COMO XXI, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0822.- SE REFORMA EL ARTÍCULO 32 EN SUS FRACCIONES IX Y X; Y ADICIONA AL MISMO ARTÍCULO 32 LA FRACCIÓN XI, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 30 EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES V Y VI; Y ADICIONA AL MISMO ARTÍCULO 30 LA FRACCIÓN VII, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ. SE ADICIONA EL PÁRRAFO CUARTO Y TRES FRACCIONES, ÉSTAS COMO FRACCIONES I A III AL ARTÍCULO 8º, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
