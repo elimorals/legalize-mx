@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-los-derechos-proteccion-e-integracion-de-las-85797"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-06"
-last_updated: "2022-09-19"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 6 de enero de 2012.
 
@@ -41,9 +41,19 @@ Se aprueba la creación de la Ley de los Derechos, Protección e Integración de
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 1.
 
-Esta Ley es de orden público e interés social, y de observancia general en el Estado de Baja California. Tiene por objeto garantizar y reconocer los derechos de las personas de sesenta años de edad en adelante, para propiciarles una plena protección, bienestar y calidad de vida, así como para lograr su integración al desarrollo social, económico, político y cultural.
+Esta Ley es de orden público e interés social, y de observancia general en el Estado de Baja California. Tiene por objeto garantizar y reconocer los derechos de las personas adultas mayores, para propiciarles una plena protección, bienestar y calidad de vida, así como para lograr su integración al desarrollo social, económico, político y cultural; estableciendo las bases y disposiciones para su cumplimiento, mediante la regulación de:
+
+I. La política pública estatal para la observancia de los derechos de las personas adultas mayores;
+
+II. Los principios, objetivos, programas, responsabilidades e instrumentos que la administración pública estatal y municipal, deberán observar en la planeación y aplicación de la política pública estatal; y,
+
+III. El Consejo Estatal para la Protección e Integración de las Personas Adultas Mayores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 2.
 
@@ -51,9 +61,25 @@ La aplicación, responsabilidad de vigilancia y seguimiento de esta Ley correspo
 
 I. Al Ejecutivo Estatal, a través de las dependencias y entidades que integran la Administración Pública, así como por los órganos descentralizados y entidades paraestatales, en el ámbito de sus respectivas competencias y jurisdicción;
 
-II. Al Poder Legislativo del Estado de Baja California; y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-III. A los Ayuntamientos de los Municipios del Estado, por conducto de las dependencias y entidades de la Administración Pública.
+II. Al Poder Legislativo del Estado de Baja California;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+III. A los Ayuntamientos de los Municipios del Estado, por conducto de las dependencias y entidades de la Administración Pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+IV. La familia de las personas adultas mayores vinculada por el parentesco, de conformidad con lo dispuesto por los ordenamientos jurídicos aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+V. Los ciudadanos y la sociedad civil organizada; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+VI. El Consejo Estatal para la Protección e Integración de las Personas Adultas Mayores.
 
 Los sectores público, social y privado, en términos de lo dispuesto por este artículo, celebrarán los convenios o acuerdos de colaboración entre sí, y con las instancias federales correspondientes que realicen alguna o varias actividades que constituyen el objeto de esta Ley.
 
@@ -69,6 +95,8 @@ El Ejecutivo Estatal y los Ayuntamientos deberán prever, en su Proyecto de Pres
 
 En el Proyecto de Ley de Ingresos Estatal y Municipal, se considerarán descuentos, exenciones y beneficios a favor de las personas adultas mayores, de conformidad con las disposiciones fiscales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 6.
 
 Para los efectos de este ordenamiento se entenderá por:
@@ -77,33 +105,77 @@ I. Asistencia Social: Al conjunto de acciones tendientes a modificar y mejorar l
 
 II. Atención integral: Satisfacción de las necesidades físicas, materiales, biológicas, emocionales, sociales, laborales, culturales, recreativas, productivas y espirituales de las personas adultas mayores, considerando sus hábitos, capacidades funcionales, usos, costumbres y preferencias, para facilitarles una vejez plena y sana;
 
-III. Consejo Estatal para la Protección e Integración de las Personas Adultas Mayores: Es un órgano honorario de consulta, asesoría y evaluación de las acciones de concertación, coordinación, planeación y promoción necesarias para favorecer la plena integración social y desarrollo de las personas adultas mayores.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+III. Calidad del servicio: Conjunto de características que confieren al servicio la capacidad de satisfacer tanto las necesidades como las demandas actuales y potenciales;
 
-IV. Cuidador: Aquella persona mayor de edad que preste sus servicios, ya sea de forma temporal o permanente en los centros de salud, asilos y albergues reconocidos por la Secretaría de Desarrollo Social, asista o cuide a un adulto mayor afectado, o no, por cualquier tipo de discapacidad o incapacidad que le dificulte o impida el desarrollo normal de sus actividades vitales o de sus relaciones sociales;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-V. Desarrollo Integral: El conjunto de acciones que realizan las dependencias y entidades de la Administración Pública del Gobierno del Estado y de los Municipios y la sociedad organizada, encaminadas al desarrollo de todos sus potenciales humanos en los campos tanto físico, como psíquico, emocional, espiritual, de relaciones humanas y aumento de la capacidad económica y productiva de las personas adultas mayores;
+IV. Consejo Estatal para la Protección e Integración de las Personas Adultas Mayores: Es un órgano honorario de consulta, asesoría y evaluación de las acciones de concertación, coordinación, planeación y promoción necesarias para favorecer la plena integración social y desarrollo de las personas adultas mayores;
 
-VI. Familia: Los parientes de las personas adultas mayores, atendiendo lo dispuesto por la normatividad estipulada en el Código Civil para el Estado de Baja California, así como el matrimonio y concubinato;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-VII. Geriatría: Es la especialidad médica dedicada al estudio de las enfermedades propias de las personas adultas mayores;
+V. Cuidador: Aquella persona mayor de edad que preste sus servicios, ya sea de forma temporal o permanente en los centros de salud, asilos y albergues reconocidos por la Secretaría de Bienestar, asista o cuide a un adulto mayor afectado, o no, por cualquier tipo de discapacidad o incapacidad que le dificulte o impida el desarrollo normal de sus actividades vitales o de sus relaciones sociales;
 
-VIII. Gerontología: Es el estudio integral del envejecimiento, sus causas, efectos y consecuencias en el ser humano;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-IX. Integración social: Es el resultado de las acciones que realizan las dependencias y entidades de la Administración Pública Estatal y Municipal, las familias y la sociedad organizada, orientadas a modificar y superar las condiciones que impidan a las personas adultas mayores su desarrollo integral, así como la protección física ó mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
+VI. Desarrollo Integral: El conjunto de acciones que realizan las dependencias y entidades de la Administración Pública del Gobierno del Estado y de los Municipios y la sociedad organizada, encaminadas al desarrollo de todos sus potenciales humanos en los campos tanto físico, como psíquico, emocional, espiritual, de relaciones humanas y aumento de la capacidad económica y productiva de las personas adultas mayores;
 
-X. Ley: La presente Ley de los Derechos, Protección e Integración de las Personas Adultas Mayores en el Estado de Baja California;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-XI. Personas adultas mayores: Las personas que cuentan con sesenta años o más de edad y que se encuentran domiciliadas o de paso en el Estado, mismas que podrán estar en las siguientes condiciones:
+VII. Familia: Los parientes de las personas adultas mayores, atendiendo lo dispuesto por la normatividad estipulada en el Código Civil para el Estado de Baja California, así como el matrimonio y concubinato;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. Género: Conjunto de papeles, atribuciones y representaciones de hombres y mujeres en nuestra cultura que toman como base la diferencia sexual;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+IX. Geriatría: Es la especialidad médica dedicada al estudio de las enfermedades propias de las personas adultas mayores;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+X. Gerontología: Es el estudio integral del envejecimiento, sus causas, efectos y consecuencias en el ser humano;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+XI. Integración social: Es el resultado de las acciones que realizan las dependencias y entidades de la Administración Pública Estatal y Municipal, las familias y la sociedad organizada, orientadas a modificar y superar las condiciones que impidan a las personas adultas mayores su desarrollo integral, así como la protección física o mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+XII. Ley: La presente Ley de los Derechos, Protección e Integración de las Personas Adultas Mayores en el Estado de Baja California;
+
+> <small>(REFORMADA [N. DE E. REUBICADA CON SUS INCISOS], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+XIII. Personas adultas mayores: Las personas que cuentan con sesenta años o más de edad y que se encuentran domiciliadas o de paso en el Estado, mismas que podrán estar en las siguientes condiciones:
 
 a) Independientes: cuando sean aptas para desarrollar actividades físicas, mentales o ambas sin ayuda permanente;
 
 b) Semidependiente: cuando sus condiciones físicas y mentales aún les permiten valerse por sí mismas, aunque con ayuda permanente parcial;
 
-c) Dependientes absolutos: cuando sufran de una enfermedad crónica o degenerativa por la que requieran ayuda permanente total o la canalización a alguna institución de asistencia; y
+c) Dependientes absolutos: cuando sufran de una enfermedad crónica o degenerativa por la que requieran ayuda permanente total o la canalización a alguna institución de asistencia; y,
 
 d) En situación de riesgo o desamparo: cuando por problemas de salud, abandono, carencia de apoyos económicos, familiares, contingencias ambientales o desastres naturales, requieran de asistencia y protección del Gobierno del Estado y de la Sociedad civil Organizada.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+XIV. Violencia Contra las Personas Adultas Mayores. Cualquier acción u omisión que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 6 BIS.- Los tipos de violencia contra las Personas Adultas Mayores, son:
+
+I. La violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+II. La violencia física. Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas;
+
+III. La violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima; hecha excepción de que medie acto de autoridad fundado o motivado;
+
+IV. La violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+V. La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder; y,
+
+VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las Personas Adultas Mayores.
 
 ## TÍTULO SEGUNDO. PRINCIPIOS Y DERECHOS
 
@@ -113,7 +185,9 @@ d) En situación de riesgo o desamparo: cuando por problemas de salud, abandono,
 
 Para la aplicación, observación y cumplimiento de esta ley, son principios rectores los siguientes:
 
-I. Autonomía y realización: Las acciones que se realicen en beneficio de las personas adultas mayores para desarrollar y mantener su capacidad decisoria, fortalecer su autosuficiencia, controlar su vida, y su desarrollo personal y productivo;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+I. Autonomía y autorrealización: Las acciones que se realicen en beneficio de las personas adultas mayores para desarrollar y mantener su capacidad decisoria, fortalecer su autosuficiencia, controlar su vida, y su desarrollo personal y productivo;
 
 II. Heterogeneidad: Visión que toma en cuenta características particulares de las personas adultas mayores como un grupo plural, determinada por diferencias socioeconómicas, culturales, de edad, sexo, origen étnico, condición migratoria o de desplazamiento y residencia urbana o rural, sin menoscabo de los beneficios otorgados por esta Ley;
 
@@ -127,9 +201,21 @@ VI. Solidaridad intergeneracional: Construcción o fortalecimiento de relaciones
 
 VII. Atención diferenciada: La obligación de las dependencias y entidades estatales y municipales dentro de sus respectivas atribuciones y competencias, a formular e implementar programas acordes a diferentes etapas, necesidades, características y circunstancias de las personas adultas mayores;
 
-VIII. Atención preferente: La obligación de la familia, iniciativa privada, y de las de las (sic) dependencias de los distintos órdenes de gobierno, a dar a las personas adultas mayores un trato preferencial en el turno y la atención por sobre los demás grupos de edad, para que de esta forma, las personas adultas mayores accedan a los servicios sin dificultad y que brindan las dependencias; y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-IX. Dignificación: El derecho de las personas adultas mayores a que se respete su integridad física, emocional y moral, así como la protección de su imagen, autonomía, pensamiento, dignidad y valores, los cuales deberán ser considerados en la formulación de planes y programas de las dependencias de gobierno y en las acciones que emprendan las organizaciones civiles y privadas.
+VIII. Atención preferente: La obligación de la familia, iniciativa privada, y de las de las (sic) dependencias de los distintos órdenes de gobierno, a dar a las personas adultas mayores un trato preferencial en el turno y la atención por sobre los demás grupos de edad, para que de esta forma, las personas adultas mayores accedan a los servicios sin dificultad y que brindan las dependencias;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+IX. Dignificación: El derecho de las personas adultas mayores a que se respete su integridad física, emocional y moral, así como la protección de su imagen, autonomía, pensamiento, dignidad y valores, los cuales deberán ser considerados en la formulación de planes y programas de las dependencias de gobierno y en las acciones que emprendan las organizaciones civiles y privadas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+X. Equidad: Es el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción por sexo, situación económica, identidad étnica, fenotipo, credo, religión o cualquier otra circunstancia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+XI. Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
 
 ### CAPÍTULO II. DE LOS DERECHOS
 
@@ -209,9 +295,11 @@ El Ejecutivo Estatal y los Ayuntamientos deberán incluir en sus Proyectos de Pr
 
 El Congreso del Estado deberá aprobar, en el Decreto de Presupuesto anual, el monto suficiente para hacer efectivo el derecho a la pensión alimentaria de las personas adultas mayores residentes en el Estado de Baja California.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 14.
 
-La forma como se hará valer la pensión alimentaria, será a través de una tarjeta electrónica, que será expedida por el Gobierno del Estado a través de la Secretaría de Desarrollo Social, y la cual podrá ser utilizada en los principales centros comerciales y establecimientos autorizados.
+La forma como se hará valer la pensión alimentaria, será a través de una tarjeta electrónica, que será expedida por el Gobierno del Estado a través de la Secretaría de Bienestar, y la cual podrá ser utilizada en los principales centros comerciales y establecimientos autorizados.
 
 ###### Artículo 15.
 
@@ -343,7 +431,9 @@ Todas las instituciones públicas, privadas o sociales que atienden a las person
 
 El personal que labore, así como aquellos que presten servicios voluntarios en instituciones públicas, privadas y sociales dedicadas a la atención y asistencia de las personas adultas mayores, deberán recibir cursos de capacitación a efecto de poder contar con la vocación, capacidad y conocimientos en materia de geriatría, gerontología y tanatología; asimismo, deberán conducirse con absoluto respeto a la dignidad humana y derechos inherentes a las personas adultas mayores con estricto apego a esta legislación y demás aplicables.
 
-La Secretaría de Salud en coordinación con la Secretaría de Educación y Bienestar Social, serán las autoridades encargadas de capacitar a los cuidadores para que puedan desempeñar a cabalidad dichas funciones, debiendo abordarse como mínimo los siguientes rubros:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+La Secretaría de Salud en coordinación con la Secretaría de Educación, serán las autoridades encargadas de capacitar a las y los cuidadores para que puedan desempeñar a cabalidad dichas funciones, debiendo abordarse como mínimo los siguientes rubros:
 
 a) Información básica sobre el proceso de envejecimiento;
 
@@ -353,7 +443,9 @@ c) Información básica sobre primeros auxilios.
 
 Estos rubros se deberán desplegar en detalle en el reglamento correspondiente.
 
-La Secretaría de Desarrollo Social, el Sistema para el Desarrollo Integral de la Familia, la Secretaría de Educación y Bienestar Social y la Secretaría de Salud, todas del Estado y en coordinación, promoverán que las instituciones de educación superior firmen un convenio, a fin de que los estudiantes que hayan terminado sus estudios y que presten sus servicios como cuidadores en los centros de salud, asilos y albergues que estén reconocidos por dichas instituciones del Estado, liberen de esta forma su servicio social obligatorio.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+La Secretaría de Bienestar, el Sistema para el Desarrollo Integral de la Familia, la Secretaría de Educación y la Secretaría de Salud, todas del Estado y en coordinación, promoverán que las instituciones de educación superior firmen un convenio, a fin de que los estudiantes que hayan terminado sus estudios y que presten sus servicios como cuidadores en los centros de salud, asilos y albergues que estén reconocidos por dichas instituciones del Estado, liberen de esta forma su servicio social obligatorio.
 
 ###### Artículo 25.
 
@@ -507,13 +599,19 @@ II. Realizar campañas de regularización del estado civil y de otorgamiento de 
 
 III. Implementar, en coordinación con las dependencias competentes, las medidas de protección civil adecuadas para las personas adultas mayores, en los centros educativos, culturales y recreativos, así como acciones preventivas con la participación de la comunidad.
 
-#### SECCIÓN III. DE LA SECRETARÍA DE DESARROLLO SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+#### SECCIÓN III. DE LA SECRETARÍA DE BIENESTAR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 38.
 
-Corresponde a la Secretaría de Desarrollo Social:
+Corresponde a la Secretaría de Bienestar:
 
-I. Coordinar e implementar las acciones que se requieran, para promover la integración social de las personas adultas mayores y para brindarles los servicios de asistencia social y atención integral a los que se refiere esta Ley;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+I.- Coordinar e implementar las acciones que se requieran, para promover la integración social de las personas adultas mayores y para brindarles los servicios de asistencia social y atención integral a los que se refiere esta Ley, realizando el padrón de las personas adultas mayores que requieran y soliciten estos apoyos, así como la pensión contemplada en el artículo 9 de esta Ley;
 
 II. Fomentar la participación de los sectores público, social y privado en la promoción, seguimiento y financiamiento de los programas de atención a las personas adultas mayores;
 
@@ -543,7 +641,9 @@ V. Implementar programas de prevención de enfermedades y accidentes que se pres
 
 VI. Dar orientación, información y capacitación a las familias, con el objeto de que brinden una adecuada atención a las personas adultas mayores;
 
-VII. Proporcionar, en coordinación con la Secretaría de Desarrollo Social, orientación y apoyo técnico a los Ayuntamientos que lo soliciten, en materia de planes y programas relacionados con la atención de las personas adultas mayores;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Proporcionar, en coordinación con la Secretaría de Bienestar, orientación y apoyo técnico a los Ayuntamientos que lo soliciten, en materia de planes y programas relacionados con la atención de las personas adultas mayores;
 
 VIII. Establecer mecanismos bajo el principio de coordinación interinstitucional, para proporcionar medicamentos, previo estudio socioeconómico, que determine su distribución sin costo alguno, en caso de estado de necesidad o abandono de las personas adultas mayores;
 
@@ -561,11 +661,15 @@ XIII. Celebrar convenios con universidades públicas y privadas para recibir pre
 
 La Secretaría de Salud podrá efectuar visitas a las instituciones públicas, privadas o sociales, encargadas de la atención de las personas adultas mayores, a efecto de verificar su buen funcionamiento, debiendo ordenar la corrección inmediata de las irregularidades de las cuales se percate, mediante la adopción de las medidas que correspondan, o en su caso, comunicar dicha situación a la autoridad competente.
 
-#### SECCIÓN V. DE LA SECRETARÍA DE EDUCACIÓN Y BIENESTAR SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+#### SECCIÓN V. DE LA SECRETARÍA DE EDUCACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 41.
 
-Corresponde a la Secretaría de Educación y Bienestar Social:
+Corresponde a la Secretaría de Educación:
 
 I. Fomentar el acceso de las personas adultas mayores a programas de educación y capacitación continua;
 
@@ -581,11 +685,15 @@ V. Proponer ante las autoridades correspondientes, la incorporación de contenid
 
 VI. Facilitar el uso de las bibliotecas públicas que les otorguen préstamo a domicilio del material de las mismas, con la presentación de su identificación personal, credencial de jubilado o pensionado.
 
-#### SECCIÓN VI. DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+#### SECCIÓN VI. DE LA SECRETARÍA DE HACIENDA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 42.
 
-Corresponde a la Secretaría de Planeación y Finanzas:
+Corresponde a la Secretaría de Hacienda:
 
 I. Desarrollar programas de condonación o de reducción de contribuciones estatales a favor de las personas adultas mayores;
 
@@ -635,17 +743,23 @@ IV. Fomentar la participación de las personas adultas mayores en el rescate y t
 
 V. Para garantizar el derecho a la recreación y turismo, difundirá permanentemente a través de los medios masivos de comunicación, las actividades turísticas que se realizan a favor de las personas adultas mayores.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE MAYO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-#### SECCIÓN IX. DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
+#### SECCIÓN IX. DE LA SECRETARÍA DE ECONOMÍA E INNOVACIÓN
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-Artículo 44 BIS.- Corresponde a la Secretaría de Desarrollo Económico:
+Artículo 44 BIS.- Corresponde a la Secretaría de Economía e Innovación:
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2013)</small>
 
 I.- Proponer la implementación de medidas fiscales y no fiscales que incentiven la contratación de personas adultas mayores;
 
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2013)</small>
+
 II.- Promover que en los proyectos de inversión a que se refiere la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado, se comprenda la contratación de personas adultas mayores; y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2013)</small>
 
 III.- Impulsar cualquier tipo de medida con el fin de que el sector empresarial otorgue más y mejores prestaciones laborales para las personas adultas mayores.
 
@@ -667,29 +781,33 @@ II. Vigilar el cumplimiento y desarrollo de los programas y actividades para el 
 
 III. Coadyuvar en el fortalecimiento de los vínculos con las demás instancias del sector público federal y municipal, así como con el Poder Legislativo del Estado, con el fin de cumplir con los objetivos de esta Ley.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 47.
 
 El Consejo Estatal estará integrado por:
 
-I. Un Presidente, que será el Secretario de Desarrollo Social;
+I. Presidente, que será la persona Titular de la Secretaría de Bienestar;
 
-II. Un Secretario Ejecutivo, que será el Director General del Sistema para el Desarrollo Integral de la Familia de Baja California, con derecho a voz;
+II. Secretario Ejecutivo, que será la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia de Baja California, con derecho a voz;
 
-III. Un Secretario Técnico, que será el Secretario de Salud;
+III. Secretario Técnico, que será la persona Titular de la Secretaría de Salud;
 
-IV. Los titulares de las siguientes dependencias:
+IV. Personas titulares de las siguientes dependencias:
 
-a) La Secretaría de Educación y Bienestar Social.
+a) La Secretaría de Educación.
 
-b) La Secretaría de Planeación y Finanzas.
+b) La Secretaría de Hacienda.
 
 c) La Secretaría del Trabajo y Previsión Social.
 
 d) La Secretaría de Turismo.
 
-V. Los Diputados Presidentes de cada una de las Comisiones de Desarrollo Social; de Grupos Vulnerables y Asistencia Social; de Educación, Cultura, Ciencia y Tecnología; de Hacienda y Presupuesto; y de Salud, conforme a la temática e integración en cada Legislatura del Congreso del Estado y temática en la materia;
+e) La Secretaría de Economía e Innovación.
 
-VI. Los Presidentes Municipales del Estado de Baja California.
+V. Las y los Diputados Presidentes de cada una de las Comisiones de Asuntos Indígenas y Bienestar Social; de Educación, Cultura, Ciencia y Tecnología; de Hacienda y Presupuesto; y de Salud, conforme a la temática e integración en cada Legislatura del Congreso del Estado y temática en la materia; y,
+
+VI. Las y los Presidentes Municipales del Estado de Baja California.
 
 ###### Artículo 48.
 
@@ -791,9 +909,11 @@ XXI. Las demás funciones que se acuerden en el Pleno del Consejo Estatal.
 
 ### CAPÍTULO II. DE LA ORGANIZACIÓN
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 54.
 
-Para el mejor desempeño de las funciones, el Consejo Estatal deberá organizar grupos de trabajo bajo la coordinación del titular de la Secretaría de Desarrollo Social, y conforme al reglamento que al efecto se expida.
+Para el mejor desempeño de las funciones, el Consejo Estatal deberá organizar grupos de trabajo bajo la coordinación del titular de la Secretaría de Bienestar, y conforme al reglamento que al efecto se expida.
 
 ###### Artículo 55.
 
@@ -986,3 +1106,9 @@ P.O. 19 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 130 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 26 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA".]
 
 UNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 279 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1, 2, 6, 7, 38, 41, 42, 44 BIS Y 47, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 6 BIS DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
