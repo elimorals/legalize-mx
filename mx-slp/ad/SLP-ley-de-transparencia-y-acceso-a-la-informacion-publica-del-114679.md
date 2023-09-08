@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2023-09-01"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -453,9 +453,11 @@ En la integración de la CEGAIP el Congreso del Estado observará los principios
 
 La elección de los Comisionados de la CEGAIP se deberá llevar a cabo a través del voto de las dos terceras partes de los miembros del Congreso del Estado y en los procedimientos para su selección se deberá garantizar la transparencia, independencia y participación de la sociedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 30.
 
-Para ser comisionado se requiere:
+Para ser comisionado o comisionada se requiere:
 
 I. Ser mexicano y preferentemente ciudadano potosino en los términos de la Constitución Política del Estado;
 
@@ -465,9 +467,23 @@ III. (DEROGADA, P.O. 18 DE JUNIO DE 2020)
 
 IV. Ser profesionista con título legalmente expedido, con al menos tres años de experiencia y conocimiento en materia de acceso a la información, protección de datos, transparencia, rendición de cuentas y/o protección a los derechos humanos;
 
-V. No haber sido gobernador del Estado, titular de alguna de las dependencias y entidades que conforman la administración pública del Estado, Fiscal o Procurador General de Justicia del Estado, senador, diputado federal o local, presidente municipal, o dirigente de un partido político o asociación religiosa, durante el año previo al día de su elección, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-VI. Contar con una residencia efectiva en el Estado, cuando menos de dos años previos a su elección.
+V. No haber sido gobernador del Estado, titular de alguna de las dependencias y entidades que conforman la administración pública del Estado, Fiscal o Procurador General de Justicia del Estado, senador, diputado federal o local, presidente municipal, o dirigente de un partido político o asociación religiosa, durante el año previo al día de su elección;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Contar con una residencia efectiva en el Estado, cuando menos de dos años previos a su elección, y
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+VII. No estar en alguno de los siguientes supuestos:
+
+a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
+
+b) Tener sentencia condenatoria que haya causado estado por los delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
+
+c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
@@ -3344,3 +3360,11 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0822.- SE REFORMA EL ARTÍCULO 32 EN SUS FRACCIONES IX Y X; Y ADICIONA AL MISMO ARTÍCULO 32 LA FRACCIÓN XI, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 30 EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES V Y VI; Y ADICIONA AL MISMO ARTÍCULO 30 LA FRACCIÓN VII, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ. SE ADICIONA EL PÁRRAFO CUARTO Y TRES FRACCIONES, ÉSTAS COMO FRACCIONES I A III AL ARTÍCULO 8º, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
