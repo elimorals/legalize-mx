@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-instituto-de-desarrollo-humano-y-social-de-los-8646
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2016-09-17"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -187,7 +187,9 @@ El Reglamento Interior del Instituto debe establecer la estructura orgánica, at
 
 La Junta Directiva se integra de la siguiente forma:
 
-I. El Gobernador del Estado, quien será el presidente de la misma o, en su caso, la persona que él designe;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+I. El o la titular del Poder Ejecutivo del Estado, quien será el presidente de la misma o, en su caso, la persona que el designe;
 
 II. Los titulares de las dependencias, entidades y áreas de la administración pública siguientes:
 
@@ -203,9 +205,13 @@ Secretaría de Cultura.
 
 Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos.
 
-Procuraduría General de Justicia.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-Subprocuraduría de Pueblos Indígenas.
+Fiscalía General del Estado.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+Fiscalía Especializada Para la Atención de los Pueblos, Comunidades y Personas Indígenas.
 
 Los Servicios de Salud de San Luis Potosí.
 
@@ -217,7 +223,9 @@ Instituto Potosino de la Juventud.
 
 Instituto Estatal de las Mujeres.
 
-Instituto Estatal de Atención a Migrantes.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+Instituto de Migración y Enlace Internacional.
 
 Coordinación General de la Defensoría Social y de Oficio;
 
@@ -546,5 +554,13 @@ P.O. 17 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DEL "DECRETOS 0379.- SE DEROGA EL PÁRRAFO QUINTO DEL ARTÍCULO 27, DE LA LEY PARA EL INSTITUTO DE DESARROLLO HUMANO Y SOCIAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0824.- SE REFORMA EL ARTÍCULO 13 EN SUS FRACCIONES I Y II EN SUS PÁRRAFOS OCTAVO, NOVENO Y DÉCIMO QUINTO, DE LA LEY PARA EL INSTITUTO DE DESARROLLO HUMANO Y SOCIAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
