@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2023-07-31"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -278,6 +278,10 @@ IV. Cuando uno de los cónyuges intente denunciar o haya denunciado la comisión
 V. Cuando uno de los cónyuges realice actos de violencia familiar contra el otro, o hacia las hijas o los hijos de ambos o de alguno de ellos.
 
 La separación conyugal otorgada por la autoridad judicial no disuelve el vínculo matrimonial, sólo suspende la obligación de los cónyuges de vivir juntos, pero subsisten todos los demás derechos, deberes y obligaciones entre ellos y con relación a sus hijas o hijos. Al autorizar la separación, que no excederá de seis meses, la autoridad judicial deberá proveer sobre los alimentos, guarda y custodia de los hijos.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+La guarda y custodia de los hijos podrá ser compartida en términos del artículo 300 BIS de este código.
 
 ###### ARTICULO 31.
 
@@ -615,7 +619,9 @@ II. Voluntario, cuando ambos cónyuges pueden convenir en divorciarse, en cuyo c
 
 ARTICULO 86 BIS. La o el cónyuge que desee promover juicio de divorcio incausado, además de cumplir con los requisitos que establece el artículo 253 del Código de Procedimientos Civiles para el Estado de San Luis Potosí, deberá acompañar a su escrito inicial de demanda, una copia certificada del acta de matrimonio y de las de nacimiento de sus hijas o hijos, copia simple de la solicitud y propuesta de convenio, tendiente a regular las consecuencias jurídicas de la disolución del vínculo matrimonial, mismo que deberá contener, por lo menos, los siguientes requisitos:
 
-I. La designación de la persona que tendrá la guarda y custodia de las o los hijos menores, o incapaces;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+I. La designación de la persona que tendrá la guarda y custodia de las o los hijos menores, o incapaces; la cual, podrá quedar a cargo de uno solo de los cónyuges o ambos, en términos del artículo 300 BIS de este código;
 
 II. Las modalidades bajo las cuales el padre o madre, que no tenga la guarda y custodia, ejercerá el derecho de convivencia;
 
@@ -743,9 +749,9 @@ En los juicios de divorcio siempre tendrá intervención el Ministerio Público.
 
 Cuando ambos cónyuges convengan voluntariamente en divorciarse por la vía judicial, deberán de convenir además en los siguientes puntos:
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
 
-I. Designación de la persona a quien sean confiadas las hijas o hijos del matrimonio, así como el domicilio en el que habitarán, del que se informará en caso de cambio del mismo, tanto durante el procedimiento, como después de ejecutoriado el divorcio;
+I. Designación de la persona a quien sean confiadas las hijas o hijos del matrimonio, así como el domicilio en el que habitarán, del que se informará en caso de cambio del mismo, tanto durante el procedimiento, como después de ejecutoriado el divorcio, pudiendo optar por una custodia compartida en términos del artículo 300 BIS de este Código;
 
 II. El modo de proveer a las necesidades de las hijas o hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
 
@@ -1493,9 +1499,11 @@ V. Por confesión judicial directa y expresa.
 
 Para el caso de hijas o hijos no reconocidos por la madre, el padre, o por ambos, será el Estado quien otorgue, por medio del Sistema para el Desarrollo Integral de la Familia, los mismos derechos de la hija o el hijo de matrimonio reconocido, consistente en darles un nombre y dos apellidos, alimentos, atención médica y la educación básica obligatoria.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTICULO 207.
 
-Cuando el padre y la madre no vivan juntos y reconozcan a la hija o hijo en el mismo acto o en actos diferentes, convendrán cuál de los dos ejercerá su custodia.
+Cuando el padre y la madre no vivan juntos y reconozcan a la hija o hijo en el mismo acto o en actos diferentes, convendrán cuál de los dos ejercerá su custodia, pudiendo establecer una custodia compartida en términos del artículo 300 BIS de este Código.
 
 ###### ARTICULO 208.
 
@@ -2131,9 +2139,11 @@ II. Cuando por su estado habitual de salud no puedan atender debidamente a su de
 
 ### Capítulo IV. De la Custodia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTICULO 300.
 
-Cuando conforme a este Código, solamente uno de los padres deba hacerse cargo provisional o definitivamente de la guarda de una o un menor, se aplicarán las siguientes disposiciones:
+Para efectos de la custodia de las niñas, niños, adolescentes e impedidos, este código reconoce su aplicación a través de uno solo de los padres o de manera compartida, siempre velando por el interés y el bienestar de las y los hijos.
 
 I. El padre y la madre convendrán entre sí con quien habitarán las hijas o hijos;
 
@@ -2141,15 +2151,23 @@ II. El padre y la madre convendrán quién de ellos se hará cargo de la adminis
 
 III. Si la madre y el padre no llegan a ningún acuerdo:
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
 
-a) La autoridad judicial decidirá quién debe hacerse cargo de la custodia de las hijas e hijos; para lo cual gozará de las más amplias facultades, teniendo en cuenta el interés superior de la infancia. Para tal efecto, la autoridad judicial deberá oír a la madre y al padre y recibirles las pruebas que ofrezcan y oír a la persona menor de edad, si las condiciones específicas de éstos lo permiten, con la intención de que manifiesten quién de ambos progenitores desean se haga cargo de ellos y, si es necesario, a las abuelas, abuelos, tías, tíos, hermanas o hermanos mayores de edad, o demás parientes interesados, así como, a la Procuraduría de la Defensa de Niñas, Niños, Adolescentes, la Mujer, la Familia, y el Adulto Mayor, y al Ministerio Público.
+a) La autoridad judicial decidirá quién debe hacerse cargo de la custodia de las hijas e hijos; para lo cual gozará de las más amplias facultades, teniendo en cuenta el interés superior de la niñez. Para tal efecto, la autoridad judicial deberá oír a la madre y al padre y recibirles las pruebas que ofrezcan y oír a la persona menor de edad, si las condiciones específicas de éstos lo permiten, con la intención de que manifiesten quien de ambos progenitores desean se haga cargo de ellos y, si es necesario, a las abuelas, abuelos, tías, tíos, hermanas o hermanos mayores de edad o demás parientes interesados, así como, a la Procuraduría de la Defensa de Niñas, Niños, Adolescentes, la Mujer, la Familia, y el Adulto Mayor, y al Ministerio Público.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
 
-b) En ningún caso se concederá la custodia de la o el menor, al ascendiente que se pruebe que ha tenido un comportamiento que afectó o afecta emocionalmente a la o el menor.
+b) En ningún caso se concederá la custodia de la o el menor, al ascendiente que se pruebe que ha tenido un comportamiento que afectó o afecta física o emocionalmente a la o el menor.
 
-c) (DEROGADO, P.O. 14 DE MARZO DE 2017)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+c) El juez, atendiendo al interés superior de la niñez, con intervención del Ministerio Público y la opinión de los hijos, podrá modificar en cualquier tiempo las reglas de la guarda y custodia, así como de las convivencias familiares.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+ARTICULO 300 BIS. La custodia compartida es aquella en la que quienes ejercen la patria potestad de los hijos, gozan de igualdad en las decisiones y acciones sobre los derechos y responsabilidades en la educación, formación, manutención, visitas y toda actividad relacionada con la crianza de los hijos que les permitan a ellos en cada etapa de su vida, lograr un crecimiento y desarrollo físico, cognoscitivo, emocional y social plenos, dentro de un ambiente de bienestar familiar y social.
+
+Cualquiera de los progenitores podrá solicitar al juez la custodia compartida, para lo cual, los juzgadores deberán considerar las circunstancias particulares del caso, tomando en cuenta los factores propios y las pruebas desahogadas, para pronunciarse respecto a la posibilidad de que los hijos permanezcan bajo esa figura, siempre velando por el interés superior de la niñez.
 
 ## TITULO DECIMO. DE LA TUTELA
 
@@ -3832,5 +3850,13 @@ P.O. 31 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0804.- SE REFORMAN LOS ARTÍCULOS 152 EN SU PÁRRAFO SEGUNDO, 165 EN SU PÁRRAFO SEGUNDO Y 167 BIS, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0823.- SE REFORMAN LOS ARTÍCULOS 86 BIS EN SU FRACCIÓN I, 101 EN SU FRACCIÓN I, 207, 300 EN SU PÁRRAFO PRIMERO Y EN SU FRACCIÓN III LOS INCISOS A), B) Y C); Y ADICIONA A Y LOS ARTÍCULOS 30 EL PÁRRAFO ÚLTIMO Y 300 BIS, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a los treinta días hábiles posteriores de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
