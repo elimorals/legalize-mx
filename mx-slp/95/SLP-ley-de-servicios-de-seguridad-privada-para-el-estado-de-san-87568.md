@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-servicios-de-seguridad-privada-para-el-estado-de-san-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-03"
-last_updated: "2023-02-09"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87568&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 3 de abril de 2012.
 
@@ -473,9 +473,17 @@ VIII. Divulgar la información que obtenga con motivo de la prestación de servi
 
 IX. Exigir pagos a personas o empresas distintas de aquéllas que expresamente contraten sus servicios;
 
-X. Portar armas de fuego sin la licencia particular colectiva de portación de armas de fuego respectiva, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
-XI. Realizar actos cuya ejecución les prohíban sus propios reglamentos, los cuales deberán ser aprobados por la Secretaría.
+X. Portar armas de fuego sin la licencia particular colectiva de portación de armas de fuego respectiva;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+XI. Realizar actos cuya ejecución les prohíban sus propios reglamentos, los cuales deberán ser aprobados por la Secretaría, y
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+XII. Imponer, cobrar o exigir el pago de multas, o sanciones económicas sea cual fuere la causa.
 
 ### Capítulo VI. De la Capacitación
 
@@ -682,3 +690,11 @@ P.O. 9 DE FEBRERO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0821.- SE ADICIONA AL ARTÍCULO 86 EL PÁRRAFO SEGUNDO, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 35 EN SUS FRACCIONES X Y XI; Y ADICIONA AL MISMO ARTÍCULO 35 LA FRACCIÓN XII, DE LA LEY DE SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
