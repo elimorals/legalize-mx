@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2022-10-15"
+last_updated: "2023-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2023.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -432,6 +432,10 @@ c).- Son trabajadores eventuales y extraordinarios aquéllos cuyos servicios se 
 ###### ARTICULO 76.
 
 Los trabajadores al servicio del Estado deberán ser de nacionalidad mexicana y de preferencia chihuahuenses, no pudiendo ser substituidos por extranjeros, sino cuando no existan mexicanos técnicos que puedan desarrollar eficientemente el servicio de que se trate. Para llevar a cabo la substitución se deberá oir antes al sindicato correspondiente, y en caso de desacuerdo, se estará a lo que resuelva el Tribunal de Arbitraje.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2023)</small>
+
+ARTICULO 76 BIS. En la contratación de personas trabajadoras o empleadas al servicio del Estado, se deberá tener un enfoque profesional e incluyente. El Estado procurará la contratación de al menos cinco personas con discapacidad, por cada cien personas servidoras públicas, que reúnan el perfil requerido para trabajar o para desempeñarse.
 
 ###### ARTICULO 77.
 
@@ -11136,6 +11140,14 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 P.O. 15 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFCOD/0294/2022 I P.O., MEDIANTE EL CUAL SE REFORMA Y ADICIONA EL ARTÍCULO 105 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA”.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFCOD/0582/2023 VIII P.E., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 76 BIS AL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA".
 
 ###### ARTÍCULO ÚNICO.
 
