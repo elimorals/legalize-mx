@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2023-02-25"
+last_updated: "2023-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2023.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -709,13 +709,17 @@ i. Promover la atención, salvaguarda, conservación y protección del patrimoni
 
 j. Favorecerá la implementación de políticas públicas ante las instituciones del sector público, privado y social en materia de cultura física y deporte;
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2023)</small>
 
-k. Promover acciones de promoción, fomento y difusión de las actividades recreativas y deportivas; y
+k. Promover acciones de promoción, fomento y difusión de las actividades recreativas y deportivas;
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2023)</small>
 
-l. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
+l. Emitir cada año, en el marco del Día de las Juventudes Oaxaqueñas y de la entrega del Premio Estatal de la Juventud, en coordinación con la Comisión Permanente de Democracia y Participación Ciudadana, la Convocatoria para la celebración del Congreso de las Juventudes, el cual se realizará en el Recinto Legislativo; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 9 DE SEPTIEMBRE DE 2023)</small>
+
+m. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
 VII. (DEROGADA, P.O. 31 DE OCTUBRE DE 2020)
 
@@ -3170,3 +3174,11 @@ g) El dictamen de aprobación de las tres finalistas emitido por la Junta de Coo
 El dictamen aprobado será publicado en la Gaceta del Congreso, con la finalidad de que se emita la convocatoria correspondiente para la sesión solemne, conforme a los lineamientos que al efecto determinen la Mesa Directiva para su entrega.
 
 CUARTO. La Comisión Permanente de Mujeres e Igualdad de Género, contará con el plazo de ciento ochenta días naturales, para proponer al pleno la normatividad que regirá el procedimiento del reconocimiento público "María Cristina Salmorán".
+
+P.O. 9 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1524.- MEDIANTE EL CUAL REFORMAN LAS LETRAS K Y L Y SE ADICIONAN (SIC) LA LETRA M A LA FRACCIÓN VI DEL ARTÍCULO 42 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca, y la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su aprobación.
