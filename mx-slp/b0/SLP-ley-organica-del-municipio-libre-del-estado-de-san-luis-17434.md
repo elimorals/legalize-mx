@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2023-02-27"
+last_updated: "2023-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -311,21 +311,29 @@ En el caso de las personas suplentes, podrán ser electas para el período inmed
 
 La postulación para reelegirse por un periodo adicional por el mismo cargo de las personas no militantes sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan expresado ante fedatario público antes de la mitad de su mandato; su deseo de no seguir representando el partido político o la coalición que lo postulare en su primer periodo.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTICULO 15.
 
-Para ser miembro de un Ayuntamiento o Concejo Municipal en su caso, se requiere:
+Para ser miembro de un Ayuntamiento o Concejo Municipal, en su caso, se requiere:
 
-I. Ser ciudadano potosino en ejercicio de sus derechos;
+I. Ser ciudadana o ciudadano potosino en ejercicio de sus derechos;
 
-II. Ser originario del Municipio y con un año por lo menos de residencia efectiva en el mismo inmediata anterior a la fecha de la elección o designación, en su caso; o ser vecino del mismo, con residencia efectiva de dos años inmediata anterior al día de la elección o designación;
-
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2008)</small>
+II. Ser originaria u originario del Municipio y con un año por lo menos de residencia efectiva en el mismo, inmediato anterior a la fecha de la elección o designación, en su caso; o ser vecina o vecino del mismo, con residencia efectiva de dos años inmediata anterior al día de la elección o designación;
 
 III. No tener una multa firme pendiente de pago, o que encontrándose sub júdice no esté garantizada en los términos de las disposiciones legales aplicables, que haya sido impuesta por responsabilidad con motivo de los cargos públicos que hubiere desempeñado en la administración federal, estatal o municipal; y no haber sido condenado por sentencia firme, por la comisión de delitos dolosos que hayan ameritado pena de prisión;
 
-IV. No ser miembro de las fuerzas armadas o de policía que estén en servicio activo en el Estado, con cargo y atribuciones de mando en el municipio respectivo, a menos que (sic) separen de su cargo en el tiempo y forma que establece la ley de la materia, y
+IV. No estar en alguno de los siguientes supuestos:
 
-V. No ser ministro de culto religioso a menos que haya renunciado a su cargo en los términos que establece la ley de la materia.
+a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
+
+b) Tener sentencia condenatoria que haya causado estado por delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
+
+c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios;
+
+V. No ser integrante de las fuerzas armadas o de policía que estén en servicio activo en el Estado, con cargo y atribuciones de mando en el municipio respectivo, a menos que (sic) separen de su cargo en el tiempo y forma que establece la ley de la materia, y
+
+VI. No ser ministro de culto religioso a menos que haya renunciado a su cargo en los términos que establece la ley de la materia.
 
 ###### ARTICULO 16.
 
@@ -3424,3 +3432,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Las personas nombradas con anterioridad a la entrada en vigor del presente Decreto, continuarán en sus cargos en los términos y con las disposiciones en las que fueron nombradas.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0834.- SE REFORMA EL ARTÍCULO 93, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 14, DE LA LEY DE MEDIACIÓN Y CONCILIACIÓN DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 20, 41 Y 44, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 15, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 40, DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 40, DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
