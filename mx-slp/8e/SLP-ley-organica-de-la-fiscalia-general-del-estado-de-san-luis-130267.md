@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-fiscalia-general-del-estado-de-san-luis-1302
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-08-20"
-last_updated: "2023-09-01"
+last_updated: "2023-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130267&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 20 de agosto de 2018.
 
@@ -487,11 +487,13 @@ Titularidad.
 
 La Fiscalía General estará a cargo del Fiscal General, quien ejercerá la titularidad de la misma a fin de garantizar su autonomía y cumplir con las responsabilidades que determina la Constitución, la presente Ley y demás disposiciones normativas.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 20.
 
-Designación y Remoción del Fiscal General.
+Designación y Remoción de la Persona Titular de la Fiscalía General.
 
-El Fiscal General del Estado será designado y removido por faltas que redunden en perjuicio de los intereses públicos fundamentales, o de su buen despacho, de conformidad con lo dispuesto en la Constitución Estatal.
+La persona titular de la Fiscalía General del Estado será designada y removida por faltas que redunden en perjuicio de los intereses públicos fundamentales, o de su buen despacho, de conformidad con lo dispuesto en la Constitución Estatal.
 
 ###### ARTÍCULO 21.
 
@@ -897,13 +899,23 @@ Corresponderá a la Fiscalía Especializada en Materia de Delitos Electorales la
 
 Los recursos humanos, materiales y financieros de la Fiscalía Especializada, al término de los procesos electorales, podrán ser destinados al auxilio de otras unidades táctico operativas, en los términos de las necesidades establecidas en el Plan de Persecución Penal, a través de un acuerdo general que para tal efecto emita el Fiscal General.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 41.
 
-Titular de la Fiscalía Especializada en Materia de Delitos Electorales.
+Designación y remoción de titular de la Fiscalía Especializada en Materia de Delitos Electorales.
 
-Para ser Fiscal Especializado en Materia de Delitos Electorales se requiere cumplir con los mismos requisitos de elegibilidad que para ser Fiscal General, y además contar con conocimientos en los ámbitos de procuración o impartición de justicia, proceso penal acusatorio, así como en materia electoral y derechos políticos.
+Para ser titular de la Fiscalía Especializada en Materia de Delitos Electorales se requiere cumplir con los mismos requisitos de elegibilidad que para ser titular de la Fiscalía General, y además contar con conocimientos en los ámbitos de procuración o impartición de justicia, proceso penal acusatorio, así como en materia electoral y derechos políticos.
 
-Será nombrado y removido por las mismas causas que él Fiscal General, en los términos que establece la Constitución Estatal.
+Además, no debe encontrarse en alguno de los siguientes supuestos:
+
+a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
+
+b) Tener sentencia condenatoria que haya causado estado por delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
+
+c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios.
+
+La persona titular de la Fiscalía Especializada en Materia de Delitos Electorales, será nombrada y removida por las mismas causas que la persona titular de la Fiscalía General, en los términos que establece la Constitución Estatal.
 
 ###### ARTÍCULO 42.
 
@@ -949,13 +961,23 @@ Competencia.
 
 Corresponde a la Fiscalía Especializada en Delitos Relacionados con Hechos de Corrupción, la atención, investigación, litigación y persecución de aquellos delitos de su competencia, así como cumplir con autonomía técnica con todas las obligaciones impuestas por la Constitución del Estado y todas las disposiciones del Sistema Estatal Anticorrupción.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 44.
 
-Titular de la Fiscalía Especializada en Delitos Relacionados con Hechos de Corrupción.
+Designación y remoción de titular de la Fiscalía Especializada en Delitos Relacionados con Hechos de Corrupción.
 
-Para ser Fiscal Especializado en Delitos Relacionados con Hechos de Corrupción se requiere cumplir con los mismos requisitos de elegibilidad que para ser Fiscal General, y además contar con conocimientos en los ámbitos de procuración o impartición de justicia, proceso penal acusatorio, así como transparencia, rendición de cuentas o combate a la corrupción.
+Para ser titular de la Fiscalía Especializada en (sic) Especializado en Delitos Relacionados con Hechos de Corrupción se requiere cumplir con los mismos requisitos de elegibilidad que para ser titular de la Fiscalía General, y además contar con conocimientos en los ámbitos de procuración o impartición de justicia, proceso penal acusatorio, así como transparencia, rendición de cuentas o combate a la corrupción.
 
-Será nombrado y removido por las mismas causas que él Fiscal General, en los términos que establece la Constitución Estatal.
+Además, no debe encontrarse en alguno de los siguientes supuestos:
+
+a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
+
+b) Tener sentencia condenatoria que haya causado estado por delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
+
+c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios.
+
+La persona titular de la Fiscalía Especializada en Materia de Delitos Electorales, será nombrada y removida por las mismas causas que la persona titular de la Fiscalía General, en los términos que establece la Constitución Estatal.
 
 ###### ARTÍCULO 45.
 
@@ -1540,3 +1562,11 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0834.- SE REFORMA EL ARTÍCULO 93, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 14, DE LA LEY DE MEDIACIÓN Y CONCILIACIÓN DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 20, 41 Y 44, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 15, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 40, DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 40, DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
