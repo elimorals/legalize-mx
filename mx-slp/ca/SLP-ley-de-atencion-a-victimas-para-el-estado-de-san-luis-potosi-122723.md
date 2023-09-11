@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-atencion-a-victimas-para-el-estado-de-san-luis-potosi-12
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-28"
-last_updated: "2022-12-12"
+last_updated: "2023-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 28 de julio de 2017.
 
@@ -1183,25 +1183,29 @@ Las funciones de la Asamblea Consultiva estarán previstas en el Reglamento de l
 
 La Comisión Ejecutiva Estatal estará a cargo de un Comisionado Ejecutivo elegido por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de la terna que enviará el Ejecutivo Estatal, previa consulta pública dirigida principalmente a los colectivos de víctimas, expertos y organizaciones de la sociedad civil y especialistas en la materia.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 93.
 
-Para ser Comisionado Ejecutivo se requiere:
+Para ser Comisionada o comisionado Ejecutivo se requiere.
 
-I. Ser ciudadano mexicano;
+I. Ser ciudadana o ciudadano potosino;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
+II. No estar inhabilitada como servidora o servidor público.
 
-II. No estar inhabilitado como servidor público;
+III. No estar en alguno de los siguientes supuestos:
 
-III. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en sociedad civil o académicas relacionadas con la materia de esta Ley, por lo menos en los dos años previos a su designación;
+a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
 
-IV. Contar con título profesional, y
+b) Tener sentencia condenatoria que haya causado estado por delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
 
-V. No haber desempeñado cargo de dirección nacional o estatal en algún partido político, dentro de los dos años previos a su designación.
+c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios;
 
-En la elección del Comisionado Ejecutivo, deberá garantizarse el respeto a los principios que dan marco a esta Ley, especialmente los de enfoque transversal de género y diferencial.
+IV. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en sociedad civil o académicas relacionadas con la materia de esta Ley, por lo menos en los dos años previos a su designación;
 
-El Comisionado Ejecutivo se desempeñará en su cargo por cinco años sin posibilidad de reelección. Durante el mismo no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
+V. Contar con título profesional, y
+
+VI. No haber desempeñado cargo de dirección nacional o estatal en algún partido político, dentro de los dos años previos a su designación.
 
 ###### ARTÍCULO 94.
 
@@ -2440,5 +2444,13 @@ P.O. 12 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0547.- REFORMA A LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ, A LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ, A LA LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ, ASÍ COMO A LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0834.- SE REFORMA EL ARTÍCULO 93, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 14, DE LA LEY DE MEDIACIÓN Y CONCILIACIÓN DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 20, 41 Y 44, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 15, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 40, DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 40, DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
