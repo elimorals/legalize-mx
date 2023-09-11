@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-150
 country: "mx"
 rank: "codigo"
 publication_date: "2021-08-10"
-last_updated: "2021-08-10"
+last_updated: "2023-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LAS Y LOS SERVIDORES PUBLICOS DE EL COLEGIO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DE EL COLEGIO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 11 DE SEPTIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DE EL COLEGIO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2023 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el martes 10 de agosto de 2021.
 
@@ -378,3 +380,25 @@ Cargo:
 Unidad administrativa:
 
 Fecha y Firma
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DE EL COLEGIO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos de El Colegio de Tamaulipas, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Los casos no previstos en este Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos de El Colegio de Tamaulipas, serán resueltos por el Comité de Ética de El Colegio de Tamaulipas, a propuesta de su Presidente o Presidenta, con la asesoría de la Unidad de Ética de la Contraloría Gubernamental.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga el Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos de El Colegio de Tamaulipas, publicado en el Periódico Oficial del Estado Número 94 de fecha 10 de agosto de 2021.
+
+###### ARTÍCULO CUARTO
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos de El Colegio de Tamaulipas.
