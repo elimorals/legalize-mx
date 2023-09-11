@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-mediacion-y-conciliacion-para-el-estado-de-san-luis-1004
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-15"
-last_updated: "2023-05-17"
+last_updated: "2023-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE MEDIACIÓN Y CONCILIACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 15 de abril de 2014.
 
@@ -263,23 +263,29 @@ IV. Invitadores, y
 
 V. El personal administrativo necesario que permita el presupuesto al que se refiere el artículo 12 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 14.
 
-Para ser Director del Centro Estatal se requiere:
+Para ser titular de la Dirección del Centro Estatal se requiere:
 
-I. Ser ciudadano potosino, y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+I. Ser ciudadana o ciudadano potosino, y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-II. (DEROGADA, P.O. 10 DE JUNIO DE 2021)
+II. Tener título de abogado, abogada o licenciatura en derecho y cédula profesional expedida por la autoridad o institución legalmente facultada para ello, con una antigüedad mínima de cinco años;
 
-III. Tener título de abogado o licenciado en derecho y cédula profesional expedida por la autoridad o institución legalmente facultada para ello, con una antigüedad mínima de cinco años;
+III. Contar con los conocimientos, aptitudes y habilidades en mecanismos alternativos, así como con destrezas legales y administrativas suficientes, para desempeñar el encargo con calidad y eficiencia;
 
-IV. Contar con los conocimientos, aptitudes y habilidades en mecanismos alternativos, así como con destrezas legales y administrativas suficientes, para desempeñar el encargo con calidad y eficiencia;
+IV. Haber residido en el Estado durante los dos años anteriores al día de la designación;
 
-V. Haber residido en el Estado durante los dos años anteriores al día de la designación, y
+V. Acreditar no estar cumpliendo una sanción administrativa que implique inhabilitación para desempeñar empleo, cargo o comisión en el servicio público, y
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+VI. No estar en alguno de los siguientes supuestos:
 
-VI. Acreditar no estar cumpliendo una sanción administrativa que implique inhabilitación para desempeñar empleo, cargo o comisión en el servicio público.
+a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
+
+b) Tener sentencia condenatoria que haya causado estado por delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
+
+c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios.
 
 ###### Artículo 15.
 
@@ -1434,6 +1440,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 17 DE MAYO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0758.- SE REFORMA (SIC) LOS ARTÍCULOS 53, 89 Y 90, DE LA LEY DE MEDIACIÓN Y CONCILIACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0834.- SE REFORMA EL ARTÍCULO 93, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 14, DE LA LEY DE MEDIACIÓN Y CONCILIACIÓN DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 20, 41 Y 44, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 15, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 40, DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 40, DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOS".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
