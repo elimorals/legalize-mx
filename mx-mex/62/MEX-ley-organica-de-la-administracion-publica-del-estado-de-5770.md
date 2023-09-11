@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2023-06-22"
+last_updated: "2023-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, PUBLICADO EN EL G.G. DE 11 DE SEPTIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE SEPTIEMBRE DE 2023 (ABROGADO).
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -4144,3 +4144,43 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 11 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 182.- POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+Artículo Primero. Esta Ley entra en vigor el día dieciséis de septiembre del dos mil veintitrés; publíquese en el Periódico Oficial “Gaceta del Gobierno”.
+
+Artículo Segundo. Se abroga la Ley Orgánica de la Administración Pública del Estado de México publicada en el Periódico Oficial “Gaceta del Gobierno” de fecha diecisiete de septiembre de mil novecientos ochenta y uno.
+
+Artículo Tercero. La Legislatura deberá armonizar la legislación correspondiente en un lapso de 180 días naturales a partir de la entrada en vigor de esta Ley.
+
+Artículo Cuarto. La persona titular del Poder Ejecutivo del Estado deberá expedir la reglamentación de las dependencias en un plazo de 90 días naturales, a partir de su entrada en vigor. En ese lapso se aplicará la normativa existente en aquello que no se contraponga con lo previsto en esta Ley.
+
+Artículo Quinto. Cuando alguna unidad administrativa se transfiera, conforme a esta Ley, de una dependencia a otra, la transferencia se hará incluyendo todos los bienes y al personal sin perjuicio de sus derechos adquiridos.
+
+Artículo Sexto. Los asuntos que con motivo de esta Ley deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramitan se incorporen a la dependencia que señale esta Ley a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+Artículo Séptimo. Cuando en esta Ley se dé denominación nueva o distinta a alguna dependencia cuyas funciones estén establecidas por la Ley anterior y otras leyes especiales, dichas atribuciones se entenderán concedidas a la dependencia que determine esta Ley.
+
+Artículo Octavo. Los recursos humanos, materiales y financieros con que cuenta la Secretaría de Justicia y Derechos Humanos se transferirán a la Consejería Jurídica.
+
+Artículo Noveno. La Secretaría de Finanzas dotará de los recursos humanos, materiales, y financieros necesarios para la creación de la Oficialía Mayor, considerando la modificación de su propio marco competencial.
+
+Artículo Décimo. La Comisión Estatal de Mejora Regulatoria continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Desarrollo Económico, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Justicia y Derechos Humanos y a la persona titular de la misma.
+
+Los recursos materiales, financieros y los derechos laborales de las personas trabajadoras que presten sus servicios en la Comisión Estatal de Mejora Regulatoria que, con motivo de la entrada en vigor de este Decreto, queden adscritos a la Secretaría de Desarrollo Económico, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Artículo Décimo Primero. La Secretaría General de Gobierno, para el desarrollo y el fortalecimiento de los municipios del Estado observará la división territorial para la distribución regional del Estado y remitirá opinión a la Secretaría de Finanzas quien deberá considerarla para la dictaminación de la regionalización del Estado para efectos del Plan Estatal de Desarrollo, los planes y programas estatales, regionales y municipales, en términos de la Ley de Planeación del Estado de México y Municipios.
+
+Artículo Décimo Segundo. Los recursos humanos, materiales y financieros con que cuenta la cultura física y deporte se transferirán a la Secretaría de Educación, Ciencia, Tecnología e Innovación.
+
+Artículo Décimo Tercero. Las Secretarías General de Gobierno, y de Finanzas, así como la Oficialía Mayor en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento de este Decreto.
+
+Artículo Décimo Cuarto. Los titulares de las Coordinaciones Administrativas o similares de las dependencias a que se refiere el presente Decreto dirigirán y gestionarán el proceso de transferencia de los recursos en el artículo quinto transitorio, por lo que proveerán y acordarán lo necesario para darle cumplimiento, así como de proporcionar la información necesaria para la integración de la Cuenta Pública, en el ámbito de su competencia.
+
+Artículo Décimo Quinto. Los derechos laborales de las personas servidoras públicas que, en virtud de lo dispuesto en el presente Decreto, cambien de adscripción, se respetarán, conforme a la ley.
+
+Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las Secretarías de Estado cuyas funciones se reforman por virtud de este Decreto, se entenderán referidas a las dependencias que, respectivamente, adquieren tales funciones.
+
+Artículo Décimo Sexto. Los Titulares de las Unidades encargadas del Apoyo Jurídico, o equivalentes, de las dependencias y entidades de la Administración Pública Estatal, deberán informar de inmediato a la Consejería Jurídica con respecto de los asuntos a su cargo que deriven de la entrada en vigor de este Decreto.
