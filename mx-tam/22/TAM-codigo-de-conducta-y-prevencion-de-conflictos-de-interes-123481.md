@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-123481
 country: "mx"
 rank: "codigo"
 publication_date: "2017-08-24"
-last_updated: "2017-08-24"
+last_updated: "2023-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DEL INSTITUTO TAMAULIPECO DE EDUCACION PARA ADULTOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DEL INSTITUTO TAMAULIPECO DE EDUCACIÓN PARA ADULTOS, PUBLICADO EN EL P.O. DE 11 DE SEPTIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DEL INSTITUTO TAMAULIPECO DE EDUCACIÓN PARA ADULTOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2023 (DEROGADO).
 
 Código publicado en el Anexo Número 102, del Periódico Oficial del Estado de Tamaulipas, el jueves 24 de agosto de 2017.
 
@@ -592,3 +594,15 @@ Código de Ética del Instituto Tamaulipeco de Educación
 Acuerdo que establece las Reglas de Integridad para el ejercicio de la Función Pública que deberán ser observadas por los servidores públicos de todas las Dependencias y Entidades del Poder Ejecutivo del Estado de Tamaulipas, la Guía para elaborar el Código de Conducta y las Bases para la Evaluación del Cumplimiento y Desempeño de los Comités de Ética, Conducta y Prevención de Conflictos de Interés de las Dependencias y Entidades.
 
 El presente Código de Conducta y Prevención de Conflictos de Interés es expedido y aprobado en fecha 07 de agosto de 2017, por Comité de Ética, Conducta y Prevención de Conflictos del Instituto Tamaulipeco de Educación para Adultos, entra en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado, en Cd Victoria, Tamaulipas a 07 de agosto de 2017.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DEL INSTITUTO TAMAULIPECO DE EDUCACIÓN PARA ADULTOS".]
+
+PRIMERO. El presente Código entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+SEGUNDO. Se deroga el Código de Conducta y Prevención de Conflictos de Interés del Instituto Tamaulipeco de Educación para Adultos publicado en el Periódico Oficial del Estado Número 102, TOMO CXLII, de fecha 24 de agosto de 2017.
+
+TERCERO. Los procedimientos administrativos que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Código, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron tales procedimientos.
