@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-tribunal-estatal-de-justicia-121005"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-04-10"
-last_updated: "2020-03-17"
+last_updated: "2023-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Gobierno del Estado de San Luis Potosí, el lunes 10 de abril de 2017.
 
@@ -655,25 +655,33 @@ VII. Faltar gravemente en el ejercicio de su cargo a la observancia de los princ
 
 VIII. La remoción de los magistrados por cualquiera de las causas graves que establece este artículo solo podrá llevarse a cabo por el Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 40.
 
-Son requisitos para ser Magistrado los siguientes:
+Para ser Magistrada o Magistrado se requiere:
 
-I. Ser mexicano por nacimiento, y ciudadano potosino en pleno ejercicio de sus derechos políticos y civiles;
+I. Tener ciudadanía potosina en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Tener al día de su nombramiento cuando menos treinta y cinco años y no más de setenta y tres años de edad;
+II. Tener al día de su nombramiento cuando menos treinta años y no más de setenta y tres años de edad;
 
-III. Tener al día de su nombramiento, título profesional de licenciado en derecho con una antigüedad mínima de diez años, expedido por autoridad o institución legalmente facultada para ello y acreditar el ejercicio profesional por el mismo tiempo;
+III. Tener al día de su nombramiento, título profesional de abogado, abogada o licenciatura en derecho con una antigüedad mínima de diez años, expedido por autoridad o institución legalmente facultada para ello y acreditar el ejercicio profesional por el mismo tiempo;
 
-IV. (DEROGADA, P.O. 17 DE MARZO DE 2020)
+IV. Haber residido en el Estado durante los dos años anteriores al día de su nombramiento;
 
-V. Haber residido en el Estado durante los dos años anteriores al día de su nombramiento;
+V. No haber ocupado el cargo de titular de Secretaría de Despacho o su equivalente, Fiscal General del Estado, Diputado o diputada local, titular de presidencia municipal en el año inmediato anterior al día de su nombramiento;
 
-VI. No haber ocupado el cargo de Secretario de Despacho o su equivalente, Procurador General de Justicia, Diputado local o Presidente Municipal en el año inmediato anterior al día de su nombramiento, y
+VI. Contar como mínimo con cinco años de experiencia en materia fiscal, administrativa, o en materia de fiscalización, responsabilidades administrativas, hechos de corrupción o rendición de cuentas, y
 
-VII. Contar como mínimo con cinco años de experiencia en materia fiscal, administrativa, o en materia de fiscalización, responsabilidades administrativas, hechos de corrupción o rendición de cuentas.
+VII. No estar en alguno de los siguientes supuestos:
 
-Son causas de retiro forzoso de los Magistrados del Tribunal haber cumplido el periodo de diez años para el que fueron designados o padecer incapacidad física o mental para desempeñar el cargo.
+a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
+
+b) Tener sentencia condenatoria que haya causado estado por delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
+
+c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios.
+
+Son causas de retiro forzoso de las magistradas y los magistrados del Tribunal haber cumplido el periodo de diez años para el que fueron designados o padecer incapacidad física o mental para desempeñar el cargo.
 
 ###### ARTÍCULO 41.
 
@@ -1056,5 +1064,13 @@ P.O. 17 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0629.- SE DEROGA DEL ARTÍCULO 40 LA FRACCIÓN IV, DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O.11 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0834.- SE REFORMA EL ARTÍCULO 93, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 14, DE LA LEY DE MEDIACIÓN Y CONCILIACIÓN DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 20, 41 Y 44, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 15, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 40, DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 40, DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
