@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-trabajo-del-corredor-interoceanico-14808
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-03-02"
-last_updated: "2021-03-02"
+last_updated: "2023-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148083&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-10-28"
 ---
 # REGLAMENTO INTERIOR DE TRABAJO DEL CORREDOR INTEROCEANICO DEL ISTMO DE TEHUANTEPEC
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE TRABAJO DEL CORREDOR INTEROCEÁNICO DEL ISTMO DE TEHUANTEPEC, PUBLICADO EN EL D.O.F. DE 12 DE SEPTIEMBRE DE 2023. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO UNA VEZ QUE CONFORME A LO DISPUESTO POR EL ARTÍCULO 425 DE LA LEY FEDERAL DEL TRABAJO, SURTIRÁ SUS EFECTOS A PARTIR DE LA FECHA DE SU DEPÓSITO ANTE LA JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE”.]</small>
+
 REGLAMENTO INTERIOR DE TRABAJO DEL CORREDOR INTEROCEÁNICO DEL ISTMO DE TEHUANTEPEC
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE SEPTIEMBRE DE 2023 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 2 de marzo de 2021.
 
@@ -700,3 +702,15 @@ Atentamente
 Dado en la Ciudad de México, a los veintiocho días del mes de octubre de 2020.- El Director General del Corredor Interoceánico del Istmo de Tehuantepec, Lic. Rafael Fernando Marín Mollinedo.- Rúbrica.
 
 > <small>[N. DE E. VÉASE ANEXOS EN EL D.O.F. DE 2 DE MARZO DE 2021, PÁGINAS DE LA 104 A LA 106.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 12 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE TRABAJO DEL CORREDOR INTEROCEÁNICO DEL ISTMO DE TEHUANTEPEC”.]
+
+PRIMERO. El presente Reglamento, conforme a lo dispuesto por el artículo 425 de la Ley Federal del Trabajo, surtirá sus efectos a partir de la fecha de su depósito ante la Junta Federal de Conciliación y Arbitraje.
+
+SEGUNDO. Se abroga el Reglamento Interior de Trabajo del Corredor Interoceánico del Istmo de Tehuantepec, publicado en el Diario Oficial de la Federación el 2 de marzo de 2021.
+
+TERCERO. La Unidad de Administración, Finanzas y Tecnologías de la Información contará con 30 días hábiles contados a partir de la entrada en vigor del presente Reglamento, para la adaptación del sistema de control de registro y contratos.
