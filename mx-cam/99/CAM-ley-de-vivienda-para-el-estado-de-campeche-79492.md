@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-vivienda-para-el-estado-de-campeche-79492"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-02"
-last_updated: "2011-02-02"
+last_updated: "2023-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE VIVIENDA PARA EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 2 de febrero de 2011.
 
@@ -73,6 +73,10 @@ Las disposiciones de la presente Ley deberán aplicarse bajo los principios de e
 
 Las políticas y programas, así como los instrumentos y apoyos a la vivienda a que se refiere este ordenamiento, se regirán bajo los principios de respeto a la legalidad y protección jurídica a la legítima tenencia, así como a desincentivar el delito de despojo de bien inmueble y al crecimiento irregular de las ciudades.
 
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2023)</small>
+
+Se garantizará que la vivienda que se realice o adquiera a través de programas de gobierno, se dé prioridad a las mujeres.
+
 ###### Artículo 3.
 
 La Política de Vivienda en el Estado se orientará por los siguientes principios y líneas generales:
@@ -83,7 +87,9 @@ II. Considerar la vivienda como factor de ordenamiento territorial, de desarroll
 
 III. Asegurar la congruencia de las acciones de vivienda con los programas de desarrollo urbano y ambiental, así como con los de desarrollo regional, económico y social;
 
-IV. Ampliar las posibilidades de acceso a la vivienda a un mayor número de personas, equilibrando y considerando las distintas regiones del Estado;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Ampliar las posibilidades de acceso a la vivienda a un mayor número de personas, equilibrando y considerando las distintas regiones del Estado, poniendo énfasis en las mujeres, especialmente a las jefas de familia o aquellas que sean o hayan sido víctimas de violencia, a fin de evitar que continúen viviendo con la persona perpetradora de violencia.
 
 V. Fomentar, reconocer, y concertar la participación de los diferentes productores de vivienda: personas, instituciones y organismos de los sectores público, social y privado;
 
@@ -579,9 +585,17 @@ II. La promoción del acceso de la población que carezca de vivienda, al financ
 
 III. La construcción de vivienda que se realice por el Estado o los Municipios, se destinará a ser adquirida en propiedad por los demandantes de este servicio;
 
-IV. El fomento para la construcción de vivienda destinada a arrendamiento, se dará mediante el otorgamiento de estímulos a los promotores de vivienda; y
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2023)</small>
 
-V. La promoción de la construcción progresiva, con la finalidad de que personas de escasos recursos tengan oportunidad de adquirir un lote o una vivienda digna y adecuada.
+IV. El fomento para la construcción de vivienda destinada a arrendamiento, se dará mediante el otorgamiento de estímulos a los promotores de vivienda;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2023)</small>
+
+V. La promoción de la construcción progresiva, con la finalidad de que las personas de escasos recursos tengan oportunidad de adquirir un lote o una vivienda digna y adecuada; y
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Establecer medidas y programas prioritarios para asegurar que las mujeres, en especial las jefas de familia o aquellas que sean o hayan sido víctimas de violencia, obtengan vivienda o créditos accesibles para la adquisición o mejoramiento de la misma.
 
 ###### Artículo 32.
 
@@ -598,6 +612,10 @@ III. El Programa Operativo Anual a cargo de la Comisión Estatal, mismo que regi
 ###### Artículo 33.
 
 El Ejecutivo del Estado tomará en consideración para la elaboración de la política y los programas de vivienda, las propuestas que formulen los sectores privado y social, a través de foros de consulta ciudadana.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2023)</small>
+
+Estos programas deberán garantizar el derecho a una vivienda digna y adecuada, con perspectiva de derechos humanos, propiciando la igualdad entre mujeres y hombres.
 
 ###### Artículo 34.
 
@@ -618,6 +636,10 @@ VI. La definición de indicadores y mecanismos de evaluación de avances.
 ###### Artículo 35.
 
 Los Municipios, para la formulación y aprobación de sus programas de vivienda, tomarán en consideración las propuestas que formulen los sectores privado y social, a través de foros de consulta ciudadana.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2023)</small>
+
+Estos programas deberán garantizar el derecho a una vivienda digna y adecuada, con perspectiva de derechos humanos, propiciando la igualdad entre mujeres y hombres.
 
 ###### Artículo 36.
 
@@ -640,6 +662,10 @@ VI. La definición de indicadores y mecanismos de evaluación de avances.
 El Programa Estatal de Vivienda y los programas municipales de vivienda se elaborarán y aprobarán de conformidad con lo dispuesto en la Ley de Planeación del Estado de Campeche.
 
 Dichos programas estarán sometidos a un proceso permanente de control y evaluación con el fin de determinar el cumplimiento de los objetivos de la presente Ley y la congruencia con el Programa Estatal de Desarrollo y su vinculación con la Política Nacional.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2023)</small>
+
+Estos programas deberán incluir las estrategias y mecanismos para el acceso a la vivienda de las mujeres, en especial a jefas de familia o aquellas víctimas de violencia.
 
 ###### Artículo 38.
 
@@ -721,9 +747,13 @@ La Comisión Estatal promoverá la celebración de convenios con las universidad
 
 La aplicación de recursos públicos para la vivienda en el Estado tiene por objeto ampliar la producción y oferta habitacional, y el de equilibrar la relación entre el cumplimiento del derecho a la vivienda y los intereses de mercado, de conformidad con el Programa Estatal de Vivienda. Esta Ley reconoce la corresponsabilidad del Estado, en todos sus ámbitos y el de la sociedad, para la satisfacción progresiva del derecho a la vivienda que consigna nuestra Constitución Política.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 47.
 
-El Estado tiene la responsabilidad de apoyar preferentemente a la población en situación de pobreza; riesgo o vulnerabilidad; por lo que diseñará, definirá y operará un conjunto de mecanismos y acciones para captar y destinar recursos presupuestales, ahorros, subsidios, financiamientos y otras aportaciones para los programas de vivienda que respondan a las necesidades de los distintos sectores de la población.
+El Estado tiene la responsabilidad de apoyar preferentemente a la población en situación de pobreza, riesgo o vulnerabilidad, como es el caso de las mujeres; por lo que diseñará, definirá y operará un conjunto de mecanismos y acciones para captar y destinar recursos presupuestales, ahorros, subsidios, financiamientos y otras aportaciones para los programas de vivienda que respondan a las necesidades de los distintos sectores de la población.
+
+En los casos, que una jefa de familia o víctima de violencia desee o tenga la necesidad de adquirir o construir una vivienda por medio de los programas destinados para tal fin, y que por sus condiciones particulares no se encuentre en posibilidad de comprobar ingreso alguno o la propiedad de un terreno, la Comisión Estatal procurará los mecanismos para su participación en los programas.
 
 ###### Artículo 48.
 
@@ -1238,3 +1268,15 @@ Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Franc
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, al primer día del mes de febrero del año dos mil once.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLIAM ROBERTO SARMIENTO URBINA.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 261 POR EL QUE “SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 3; LAS FRACCIONES IV Y V DEL ARTÍCULO 31; EL ARTÍCULO 47 Y, SE ADICIONA EL PÁRRAFO CUARTO AL ARTÍCULO 2; LA FRACCIÓN VI AL ARTÍCULO 31; EL PÁRRAFO SEGUNDO AL ARTÍCULO 33; EL PÁRRAFO SEGUNDO AL ARTÍCULO 35 Y EL PÁRRAFO TERCERO AL ARTÍCULO 37, TODOS DE LA LEY DE VIVIENDA PARA EL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Dentro de un plazo de 90 días siguientes a la entrada en vigor del presente decreto, el Ejecutivo Estatal deberá armonizar las disposiciones reglamentarias necesarias para el debido cumplimiento del presente decreto.
+
+Tercero.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se oponga al presente decreto
