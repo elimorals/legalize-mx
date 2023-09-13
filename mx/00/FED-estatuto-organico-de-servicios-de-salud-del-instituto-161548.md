@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-servicios-de-salud-del-instituto-161548"
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-12-26"
-last_updated: "2023-03-23"
+last_updated: "2023-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161548&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2022-11-16"
 ---
 # ESTATUTO ORGANICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR), PUBLICADO EN EL D.O.F. DE 13 DE SEPTIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LOS SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR)
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE SEPTIEMBRE DE 2023 (ABROGADO).
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 26 de diciembre de 2022.
 
@@ -1220,3 +1222,27 @@ D.O.F. 23 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DE LA “REFORMA AL ESTATUTO ORGÁNICO DE LOS SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR)”.]
 
 PRIMERO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR)”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico entrará en vigor al día siguiente de su aprobación por su Junta de Gobierno.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Estatuto Orgánico deberá ser publicado en el Diario Oficial de la Federación.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Estatuto Orgánico de IMSS-BIENESTAR publicado en el Diario Oficial de la Federación el 26 de diciembre de 2022, así como sus reformas, y se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente ordenamiento
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones relativas a la estructura orgánica contenidas en el presente Estatuto Orgánico entrarán en vigor hasta en tanto se reciba la autorización y registro, por parte de las unidades competentes de la Secretaría de la Función Pública y de la Secretaría de Hacienda y Crédito Público.
+
+###### ARTÍCULO QUINTO.
+
+El presente Estatuto Orgánico deberá inscribirse en el Registro Público de Organismos Descentralizados dentro de los treinta días naturales siguientes a la fecha de su publicación en el Diario Oficial de la Federación.
