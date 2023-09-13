@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2023-07-26"
+last_updated: "2023-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2023.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -742,6 +742,14 @@ III. Por ser una persona prófuga de la justicia.
 IV. Por negarse a desempeñar a una sindicatura, regiduría, presidencia municipal, diputación o gubernatura; esta suspensión durará el tiempo que debería durar el cargo que se niega a desempeñar.
 
 V. Por sentencia o resolución que imponga como sanción esta suspensión.
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad sexual y el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada, delito contra la privacidad sexual o intimidad corporal; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos.
+
+Por ser declarada como persona deudora alimentaria morosa.
+
+En los supuestos de esta fracción, la persona no podrá ser registrada como candidata para cualquier cargo de elección popular, ni ser nombrada para empleo, cargo o comisión en el servicio público.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -4862,3 +4870,11 @@ P.O. 26 DE JULIO DE 2023.
 Artículo Primero. El Presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 231 DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 23 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, EN MATERIA DE SUSPENSIÓN DE DERECHOS PARA OCUPAR CARGO, EMPLEO O COMISIÓN DEL SERVICIO PÚBLICO".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
