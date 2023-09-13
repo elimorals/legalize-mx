@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-constitucional-para-la-igualdad-de-genero-122
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-02"
-last_updated: "2023-04-26"
+last_updated: "2023-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DESARROLLO CONSTITUCIONAL PARA LA IGUALDAD DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección al Número 309 del Periódico Oficial del Estado de Chiapas, el miércoles 2 de agosto de 2017.
 
@@ -63,9 +63,11 @@ La igualdad implica la eliminación de toda forma de discriminación en cualquie
 
 Esta Ley será de aplicación supletoria a lo contemplado en las disposiciones civiles, penales y electorales aplicables y vigentes en el Estado.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 2.
 
-Son principios rectores de la presente Ley: la igualdad, la no discriminación, la equidad, el respeto a la dignidad humana, la igualdad de oportunidades, la integración y todos aquellos contenidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales suscritos por el Estado Mexicano, en especial la Convención para la Eliminación de Toda Forma de Discriminación contra la Mujer y la Convención Interamericana para prevenir, sancionar y erradicar la violencia contra la mujer (Convención Belém Do Pará), y aquellos contenidos en la Constitución Política del Estado de Chiapas.
+Son principios rectores de la presente Ley: la igualdad, la no discriminación, el respeto a la dignidad humana, la igualdad de oportunidades, la integración y todos aquellos contenidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Chiapas y demás instrumentos internacionales en la materia.
 
 ###### Artículo 3.
 
@@ -85,7 +87,9 @@ I. Acciones: Los mecanismos llevados a cabo por autoridades estatales, municipal
 
 II. Acciones Afirmativas: Al conjunto de medidas y acciones de carácter temporal encaminadas a acelerar la igualdad sustantiva entre personas.
 
-III. Agresor: La persona que ejecute alguna acción u omisión de violencia contra las mujeres, aplique políticas públicas o privadas, laborales o académicas discriminatorias.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+III. Agresor: A la persona que inflige cualquier tipo de violencia contra las mujeres.
 
 IV. Alimentos: Comprenden la comida, el vestido, habitación y asistencia en caso de enfermedad.
 
@@ -95,7 +99,9 @@ VI. Consejo: El Consejo Estatal para Garantizar el Derecho de las Mujeres a una 
 
 VII. Consejo Consultivo: Consejo Consultivo del Sistema Estatal de Igualdad.
 
-VIII. Derechos humanos de las mujeres: Aquellos que son parte inalienable, integrante e indivisible de los derechos humanos universales específicamente reconocidos para las mujeres en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW); la Convención sobre los Derechos Humanos de la Niñez; la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Convención Belém Do Pará) y demás instrumentos internacionales firmados y ratificados por el Estado Mexicano, así como en los demás ordenamientos legales aplicables.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. Derechos Humanos de las Mujeres: A los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre a Eliminación de todas las Formas de Discriminación contra la Mujer (CEDAW); la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará) y demás instrumentos internacionales en la materia.
 
 IX. Discriminación: A toda distinción injustificada, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil, entre otras, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas, en la esfera política, económica, social, cultural, civil, o en cualquier otra.
 
@@ -113,11 +119,15 @@ XV. Ley: La Ley de Desarrollo Constitucional para la Igualdad de género y Acces
 
 XVI. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer.
 
-XVII. Modalidades de violencia: Son los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+XVII. Modalidades de Violencia: A las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres.
 
 XVIII. Mujer: Es toda persona del género femenino, sin importar su origen étnico, edad, o cualquier otra condición.
 
-XIX. Perspectiva de género: La visión científica, analítica y política entre personas, que contribuye a construir una sociedad dando el mismo valor, mediante la eliminación de las causas de opresión y discriminación por razón de género, promoviendo la igualdad, la equidad, el bienestar de las mujeres, las oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+XIX. Perspectiva de Género: A la visión científica, analítica y política entre personas, que contribuye a eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización basadas en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las personas tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
 
 XX. Programa Estatal de Igualdad: Al Programa Estatal para la Igualdad entre Mujeres y Hombres.
 
@@ -127,7 +137,9 @@ XXII. Programa Estatal: El Programa Estatal para Garantizar el Derecho de las Mu
 
 XXIII. Refugio: Es un espacio secreto temporal donde se proporciona atención a víctimas de violencia familiar, siendo una opción para salvaguardar su vida, salud e integridad física y emocional.
 
-XXIV. Secretaría: A la Secretaría para el Desarrollo y Empoderamiento de las Mujeres.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+XXIV. Secretaría: A la Secretaría de Igualdad de Género.
 
 XXV. Sistema Estatal de Igualdad: Al Sistema Estatal para la Igualdad entre las personas.
 
@@ -139,9 +151,13 @@ XXVIII. Tipos de violencia: Son las formas y/o manifestaciones en que se present
 
 XXIX. Transversalidad: Al proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas.
 
-XXX. Víctima: La mujer, sin importar su edad, raza, religión, estado civil, preferencia sexual, condición étnica, social o de salud, a quien se le inflija algún tipo de violencia.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
 
-XXXI. Violencia contra las mujeres: Cualquier acción u omisión, que en razón de género, tenga como fin o resultado un daño o sufrimiento psicológico, físico, patrimonial, económico, sexual, moral, obstétrico y de los derechos reproductivos en cualquier ámbito.
+XXX. Víctima: A la mujer de cualquier edad a quien se le inflige cualquier tipo de violencia.
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+XXXI. Violencia contra las Mujeres: A cualquier acción u omisión, basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
 
 ## TÍTULO SEGUNDO. DE SU COMPETENCIA E INTEGRACIÓN
 
@@ -168,6 +184,14 @@ IV. Coordinar las tareas en materia de igualdad mediante acciones específicas y
 V. Promover el establecimiento de acciones afirmativas, de conformidad a la estrategia nacional para lograr la igualdad entre personas.
 
 VI. Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación ciudadana, que tienda a la igualdad entre personas, en los ámbitos de la economía, la toma de decisiones y en la vida social, cultural y civil.
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Participar en proyectos de cooperación internacional en materia de igualdad y violencia de género.
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. Gestionar el acceso a fondos internacionales que sean destinados a programas de igualdad y violencia de género.
 
 ###### Artículo 8.
 
@@ -197,7 +221,9 @@ VI. Celebrar con la Federación acuerdos de coordinación, cooperación y concer
 
 VII. Conducir las políticas de coordinación, con los programas implementados en materia de igualdad de género con instancias federales, que intervengan a nivel local y municipal;
 
-VIII. Incorporar en el presupuesto de egresos del Estado, la asignación de recursos para el cumplimiento de la política estatal en materia de igualdad;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. Incorporar en el Presupuesto de Egresos del Estado, la asignación de recursos Estatales y Municipales para garantizar el cumplimiento de los programas, acciones y políticas públicas en materia de igualdad y empoderamiento de las mujeres.
 
 IX. Elaborar las políticas públicas locales con una proyección de mediano y largo alcance, debidamente armonizadas con la Ley General para la Igualdad entre Mujeres y Hombres.
 
@@ -209,13 +235,19 @@ XI. Las demás que otros ordenamientos legales le confieran.
 
 Corresponde a la Secretaría:
 
-I. Coordinar la aplicación y seguimiento de las acciones para la transversalidad de la perspectiva de género.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+I. Coordinar la aplicación y seguimiento de los programas y las acciones para la transversalidad de la perspectiva y la igualdad de género.
 
 II. Elaborar y aplicar el Programa Estatal de Igualdad con los principios que la Ley señala.
 
-III. Establecer los lineamientos que garanticen la Igualdad Sustantiva.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
 
-IV. Coordinar los programas de igualdad entre personas, de las dependencias y entidades de la administración pública estatal.
+III. Elaborar y proponer a la persona Titular del Poder Ejecutivo los lineamientos administrativos que deban cumplir las Dependencias y Entidades de la Administración Pública Estatal para garantizar la igualdad sustantiva.
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Coordinar, evaluar y dar seguimiento a los programas de igualdad de género, de las Dependencias y Entidades de la Administración Pública Estatal.
 
 V. Dirigir la Secretaría Técnica del Consejo Consultivo del Sistema Estatal de Igualdad.
 
@@ -251,7 +283,9 @@ I. Implementar la política municipal en materia de igualdad entre personas, en 
 
 II. Coadyuvar con el Gobierno Estatal en la consolidación de los programas en materia de igualdad entre personas;
 
-III. Proponer al Ejecutivo Estatal sus necesidades presupuestarias para la ejecución de los programas de igualdad;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+III. Proponer al Ejecutivo Estatal sus necesidades presupuestarias para la ejecución de los programas de igualdad y para las áreas responsables de operarlos.
 
 IV. Diseñar, formular y aplicar campañas de concientización, así como programas de desarrollo de acuerdo a la región, en las materias que esta Ley le confiere;
 
@@ -273,7 +307,9 @@ La política estatal que desarrolle el Ejecutivo del Estado deberá considerar l
 
 I. Fomentar la igualdad de género en todos los ámbitos de la vida;
 
-II. Garantizar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos y acciones para la igualdad entre personas;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+II. Garantizar que la planeación presupuestal incorpore la perspectiva de género, la transversalidad e impulse los programas, proyectos y acciones para la igualdad entre personas, además de incluir en el Presupuesto de Egresos del Estado de Chiapas un Anexo Transversal en Materia de Igualdad de Género.
 
 III. Fomentar la participación y representación política paritaria entre personas;
 
@@ -301,25 +337,25 @@ XIV. La inclusión de programas, acciones y estrategias en materia de salud para
 
 ### CAPÍTULO II. DE LOS INSTRUMENTOS DE POLÍTICA EN MATERIA DE IGUALDAD
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 16.
 
 Son instrumentos de la política estatal en materia de igualdad entre personas, los siguientes:
 
-I. El Acuerdo Nacional para la Igualdad entre Mujeres y Hombres;
+I. El Sistema Estatal para la Igualdad entre Mujeres y Hombres.
 
-II. El Sistema Estatal para la Igualdad entre Mujeres y Hombres;
+II. El Programa Estatal para la Igualdad entre Mujeres y Hombres.
 
-III. El Programa Estatal para la Igualdad entre Mujeres y Hombres;
+III. La observancia en materia de Igualdad entre personas.
 
-IV. El Plan Estatal de Desarrollo;
-
-V. El Plan de Derechos de Igualdad de Oportunidades para las Mujeres y Hombres en Chiapas; y,
-
-VII. La observancia en materia de Igualdad entre personas.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 17.
 
-En el diseño, elaboración, aplicación, evaluación y seguimiento de los instrumentos de la política de igualdad entre personas, se deberán observar los objetivos y principios previstos en esta Ley.
+En el diseño, elaboración, aplicación, evaluación y seguimiento de los instrumentos de la política de igualdad de género, se deberán observar los objetivos y principios previstos en esta Ley y en los Planes Nacional y Estatal de Desarrollo, así como en los ordenamientos jurídicos internacionales en materia de igualdad y violencia de género, en los cuales el Estado Mexicano sea parte.
+
+El Presupuesto de Egresos del Estado de Chiapas, deberá incluir en cada ejercicio, un anexo transversal en materia de igualdad, así como impulsar los programas de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
 ###### Artículo 18.
 
@@ -343,13 +379,17 @@ El Sistema Estatal de Igualdad es el conjunto orgánico y articulado de estructu
 
 El Sistema Estatal se estructurará por medio de un Consejo Consultivo, mismo que se integrará de la siguiente manera:
 
-I. Una Presidenta o Presidente, que será la persona titular del Poder Ejecutivo y la persona titular de la Secretaria de Desarrollo Social, como su suplente.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+I. Una Presidenta o Presidente, que será la persona titular del Poder Ejecutivo y la persona titular de la Secretaría de Bienestar, como su suplente.
 
 II. Un Secretario o Secretaria Técnico, que será la persona titular de la Secretaría.
 
 III. Los o las vocales, que serán las personas titulares de:
 
-a) La Secretaría de Planeación, Gestión Pública y Programa de Gobierno.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+a) La Secretaría de Hacienda.
 
 b) La Secretaría para el Desarrollo Sustentable de los Pueblos Indígenas.
 
@@ -359,7 +399,7 @@ d) La Secretaría de Educación.
 
 e) La Secretaría de Seguridad y Protección Ciudadana.
 
-f) La Secretaría para el Desarrollo de la Frontera Sur y Enlace para la Cooperación Internacional.
+f) (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2023)
 
 g) La Fiscalía General del Estado.
 
@@ -383,11 +423,15 @@ El Consejo Consultivo sesionará cuando menos tres veces al año y podrá celebr
 
 Los integrantes del Consejo Consultivo a que se refieren las fracciones I y III, tendrán derecho a voz y voto, teniendo la presidencia el voto de calidad en caso de empate, la Secretaría Técnica tendrá derecho a voz y no a voto.
 
-Para el caso de los o las vocales, éstas podrán designar a un suplente con nivel mínimo de subsecretario o subsecretaria o Director o Directora. El cargo de integrante del Consejo Estatal es de carácter honorario y tratándose de servidores públicos, sus funciones son inherentes al cargo que desempeñen.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+Para el caso de los y las vocales, éstas podrán designar a un o una suplente con nivel mínimo de Subsecretario o Subsecretaria o Director o Directora, debiendo designar a una suplente del mismo género cuando su titular sea mujer. El cargo de integrante del Consejo Estatal es de carácter honorifico y tratándose de servidoras o servidores públicos, sus funciones son inherentes al cargo que desempeñen.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 23.
 
-La Secretaría coordinará las acciones que el Sistema genere, sin perjuicio de las atribuciones y funciones contenidas en su ordenamiento, y conforme al artículo anterior, expedirá las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo con otros de carácter nacional y municipal.
+La Secretaría dará seguimientos (sic) al cumplimiento de los acuerdos del Consejo Consultivo, sin perjuicio de las atribuciones y funciones contenidas en su ordenamiento y, conforme al artículo anterior, expedirá las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo con otros de carácter nacional y municipal.
 
 ###### Artículo 24.
 
@@ -645,7 +689,9 @@ De acuerdo con lo establecido en la Ley de la Comisión Estatal de los Derechos 
 
 El presente Libro tiene por objeto:
 
-I. Establecer las bases para los modelos de: prevención, atención, sanción y erradicación de todo tipo de violencia contra las mujeres de cualquier edad en los diferentes ámbitos;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+I. Establecer las bases para los modelos de: prevención, atención, sanción y erradicación de todos los tipos de violencia contra las mujeres, y para promover su desarrollo integral y su plena participación en todas las esferas de la vida.
 
 II. Establecer las bases para diseñar el contenido de las políticas públicas, programas y acciones destinadas a erradicar la violencia de género y coadyuvar en el tratamiento psicológico especializado de la víctima y brindar servicios reeducativos y especializados al agresor;
 
@@ -730,6 +776,16 @@ IV. Violencia en el ámbito escolar: Constituye aquellas conductas que dañen la
 V. Violencia en la comunidad: Son los actos individuales o colectivos que transgreden o menoscaban los derechos fundamentales de las mujeres, sobre todo aquellas de origen indígena; propiciando su denigración, discriminación, marginación o exclusión en cualquier ámbito.
 
 VI. Violencia en los medios de comunicación: Son los actos de violencia verbal, sonora, impresa, digital, audiovisual, televisiva, radiofónica, cinematográfica, editorial o electrónica que sean dirigidos a una mujer independientemente si se trata de una niña, adolescente, adulta, sea ciudadana o militante de un partido político, sea candidata política o política en funciones.
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Violencia digital: Es toda acción dolosa realizada mediante el uso de tecnologías de la información y la comunicación, por la que se exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de contenido intimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia.
+
+Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación.
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. Violencia mediática: Es todo acto a través de cualquier medio de comunicación, que de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre personas, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
 
@@ -859,9 +915,13 @@ X. Favorecer la separación y alejamiento del agresor con respecto a la Víctima
 
 XI. Las demás que establezcan esta Ley, su reglamento y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 55.
 
-Para la defensa, asistencia y protección de las mujeres víctimas de violencia, el Estado y los municipios, contarán con instancias especializadas y personal calificado para la procuración del respeto a los derechos inherentes a éstas.
+Para la defensa, asistencia y protección de las mujeres víctimas de violencia, el Estado y los Municipios, contarán con instancias especializadas y personal calificado en la tutela de sus derechos y en las medidas de protección y reparación aplicables.
+
+Para tal efecto, el Estado y los Municipios, dispondrán de recursos para la operación de estas instancias, con base en su disponibilidad presupuestaria.
 
 ###### Artículo 56.
 
@@ -963,15 +1023,17 @@ Las órdenes de protección, atendiendo a la naturaleza de cada una de ellas, se
 
 ### CAPÍTULO I. DEL SISTEMA ESTATAL PARA GARANTIZAR EL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 66.
 
-El Estado y los municipios se coordinarán para establecer el Sistema Estatal, con el objeto de conjuntar esfuerzos para la implementación de las políticas y programas de evaluación y coordinación de los modelos de prevención, asistencia, sanción y erradicación de la violencia física, psicológica, económica, patrimonial, política, sexual, moral, obstétrica y de derechos reproductivos contra las mujeres, de conformidad con el Programa Estatal.
+El Estado y los municipios se coordinarán para establecer el Sistema Estatal, con el objeto de conjuntar esfuerzos para la implementación de las políticas y programas de evaluación y coordinación de los modelos de prevención, atención, sanción y erradicación de la violencia física, psicológica, económica, patrimonial, política, sexual, moral, obstétrica y de derechos reproductivos contra las mujeres, de conformidad con el Programa Estatal.
 
-Todas las medidas que lleven a cabo el Estado y los municipios deberán ser realizadas sin discriminación alguna. No se considerará distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades en el acceso a las políticas públicas en la materia.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 67.
 
-El Sistema estará integrado por un Consejo, el cual se constituye por un conjunto de órganos de planeación, administración y ejecución estructurados mediante normas, métodos y procedimientos, que coordinarán las acciones de las dependencias y organismos de la administración pública estatal, de los municipios y de las organizaciones de los sectores sociales, para instrumentar la política estatal para la prevención, atención y en su caso, erradicación de la violencia contra las mujeres.
+El Sistema estará integrado por un Consejo, el cual se constituye por un conjunto de órganos de planeación, administración y ejecución estructurados mediante normas, métodos y procedimientos, que coordinarán las acciones de las dependencias y organismos de la administración pública estatal, de los municipios y de las organizaciones de los sectores sociales, para instrumentar la política estatal para la prevención, atención, sanción y en su caso, erradicación de la violencia contra las mujeres.
 
 ###### Artículo 68.
 
@@ -983,51 +1045,71 @@ Los recursos humanos, financieros y materiales que conforman al sistema serán r
 
 ### CAPÍTULO II. DEL CONSEJO ESTATAL PARA GARANTIZAR EL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 70.
 
-El Consejo como órgano ejecutor del Sistema, con funciones de planeación y coordinación de los modelos de prevención, atención y erradicación de la violencia contra las mujeres, así como para fomentar y gestionar la protección y asistencia de las víctimas en el Estado, según los ordenamientos aplicables a la materia.
+El Consejo como órgano ejecutor del Sistema, con funciones de planeación y coordinación de los modelos de prevención, atención, sanción y erradicación de la violencia contra las mujeres, así como para fomentar y gestionar la protección y asistencia de las víctimas en el Estado, según los ordenamientos aplicables a la materia.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 71.
 
 El Consejo estará integrado por:
 
-I. Un Presidente o Presidenta, que será designado por el Ejecutivo de entre quienes integran del (sic) Consejo.
+I. Un Presidente o Presidenta, que será designado por el Ejecutivo de entre quienes integran el Consejo.
 
-II. La persona Titular de la Secretaría para el Desarrollo y Empoderamiento de las Mujeres, quien fungirá como Secretaria Ejecutiva.
+II. La persona Titular de la Secretaría, quien fungirá como Secretaria Ejecutiva.
 
 III. La persona Titular de la Fiscalía General del Estado, quien fungirá como Secretario Técnico.
 
 IV. La persona Titular de la Secretaría General de Gobierno.
 
-V. La persona Titular de la Secretaría de Seguridad y Protección Ciudadana.
+V. La persona Titular de la Secretaría de Hacienda.
 
-VI. La persona Titular de la Secretaría de Educación.
+VI. La persona Titular de la Secretaría de la Honestidad y Función Pública.
 
-VII. La persona Titular de la Secretaría de Salud.
+VII. La persona Titular de la Secretaría de Protección Civil.
 
-VIII. La persona Titular de la Secretaría de Desarrollo Social.
+VIII. La persona Titular de la Secretaría de Economía y del Trabajo.
 
-IX. La persona Titular de la Secretaría de Desarrollo Sustentable de los Pueblos Indígenas.
+IX. La persona Titular de la Secretaría de Bienestar.
 
-X. La persona Titular del Sistema para el Desarrollo Integral de la Familia en el Estado.
+X. La persona Titular de la Secretaría para el Desarrollo Sustentable de los Pueblos Indígenas.
 
-XI. La persona Titular del Sistema Chiapaneco de Radio, Televisión y Cinematografía.
+XI. La persona Titular de la Secretaría de Salud.
 
-XII. La persona Titular de la Comisión Estatal de los Derechos Humanos.
+XII. La persona Titular de la Secretaría de Educación.
 
-XIII. La persona Titular del Instituto de Elecciones y Participación Ciudadana
+XIII. La persona Titular de la Secretaría de Seguridad y Protección Ciudadana.
 
-XIV. Una persona representante del Poder Judicial.
+XIV. La persona Titular del Sistema para el Desarrollo Integral de la Familia en el Estado de Chiapas.
 
-XV. Una persona representante del Poder Legislativo.
+XV. La persona Titular del Sistema Chiapaneco de Radio, Televisión y Cinematografía.
 
-XVI. Las personas titulares de las Dependencias o Entidades encargadas de aplicar programas a favor de las mujeres en los municipios del Estado.
+XVI. La persona Titular de la Comisión Ejecutiva Estatal de Atención a Víctimas para el Estado de Chiapas.
 
-XVII. Representantes de las organizaciones de la sociedad civil en el Estado que trabajen para las mujeres, siempre y cuando éstas se hayan constituido con al menos tres años de antigüedad, y realicen acciones altruistas encaminadas a la protección de los derechos de las mujeres.
+XVII. La persona Titular de la Comisión Estatal de los Derechos Humanos.
+
+XVIII. La persona Titular del Instituto de Elecciones y Participación Ciudadana.
+
+XIX. Una persona representante del Poder Judicial.
+
+XX. Una persona representante del Poder Legislativo.
+
+XXI. Una persona representante del Tribunal Electoral del Estado de Chiapas.
+
+XXII. Las personas titulares de las Dependencias o Entidades encargadas de aplicar programas a favor de las mujeres en los municipios del Estado.
+
+XXIII. Los representantes de las organizaciones de la sociedad civil en el Estado que trabajen para las mujeres, siempre y cuando éstas se hayan constituido con al menos tres años de antigüedad, y realicen acciones altruistas encaminadas a la protección de los derechos de las mujeres.
+
+Asimismo, a las sesiones del Consejo, se podrá Invitar a las personas que, por su conocimiento del tema o méritos, puedan emitir opiniones, quienes contaran únicamente con derecho a voz.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 72.
 
-A las Sesiones del Consejo deberá asistir la persona titular de las dependencias, quien en caso de ausencia, podrá designar a un representante, para asistir a la sesión del Consejo, quienes participarán con voz y voto.
+A las sesiones del Consejo deberán asistir las personas titulares de los organismos o instituciones integrantes del mismo, quienes en caso de ausencia, podrán designar por escrito a un o una representante, el cual en los casos que proceda deberá por lo menos ostentar un nivel jerárquico inferior inmediato a la persona titular y las opiniones que estos expresen, se entenderán que las realizan a nombre de su representado, quienes participarán con voz y voto. Cuando su titular sea una mujer deberá designar a una representante del mismo género.
 
 ###### Artículo 73.
 
@@ -1035,7 +1117,9 @@ Son atribuciones del Consejo:
 
 I. Planear y coordinar acciones para la integración y funcionamiento del Sistema, llevando a cabo los modelos de prevención, atención, sanción y erradicación de la violencia contra las mujeres, atendiendo a los principios rectores de la presente Ley;
 
-II. Aprobar el programa de los modelos y los programas especiales; y evaluar su cumplimiento;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+II. Aprobar el Programa Estatal, los programas especiales y los modelos de prevención, atención, sanción y erradicación de la violencia contra las mujeres, así como evaluar su cumplimiento.
 
 III. Orientar a la comunidad sobre las políticas y acciones para prevenir y erradicar la violencia contra las mujeres;
 
@@ -1051,11 +1135,23 @@ VIII. Contribuir a la difusión de la legislación en materia de violencia contr
 
 IX. Convocar a los representantes de organizaciones de la sociedad civil para que se integren al Consejo;
 
-X. Fomentar en coordinación con instituciones especializadas públicas, privadas y sociales, la realización de investigaciones sobre el fenómeno de la violencia contra las mujeres, cuyos resultados servirán para diseñar modelos tendentes a la prevención, atención y erradicación de la violencia;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+X. Fomentar en coordinación con instituciones especializadas públicas, privadas y sociales, la realización de investigaciones sobre el fenómeno de la violencia contra las mujeres, cuyos resultados servirán para diseñar modelos tendentes a la prevención, atención, sanción y erradicación de la violencia.
 
 XI. Aprobar conjuntamente con el Consejo Consultivo el proyecto de reglamento de la Ley; y,
 
-XII. Las demás que le señalen esta Ley y otros ordenamientos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+XII. Solicitar a las instituciones correspondientes, la atención integral y multidisciplinaria a mujeres víctimas de violencia, sus hijas e hijos.
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+XIII. Recomendar a las instituciones de procuración de justicia que, en la atención a las mujeres víctimas de violencia, se presten los servicios de traducción, en caso de ser necesario.
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XII], P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+XIV. Las demás que le señalen esta Ley y otros ordenamientos aplicables.
 
 ###### Artículo 74.
 
@@ -1105,7 +1201,9 @@ I. Presidir las sesiones del Consejo;
 
 II. Emitir la convocatoria para la celebración de todo tipo de sesiones del Consejo;
 
-III. Elaborar la propuesta del Programa Estatal, incorporando las iniciativas de quienes integran del (sic) Consejo;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+III. Presentar al Consejo Estatal la propuesta del Programa Estatal, con base en el proyecto elaborado por la Secretaría, incorporando las iniciativas de quienes integran el propio Consejo.
 
 IV. Celebrar toda clase de contratos, convenios y acuerdos para el adecuado cumplimiento de las atribuciones del Consejo, de conformidad con los proyectos elaborados para tal efecto por la Secretaría Ejecutiva;
 
@@ -1209,31 +1307,39 @@ VIII. Asegurar la difusión y promoción de los derechos humanos de las mujeres 
 
 IX. Promover la investigación, con perspectiva de género, sobre las causas y consecuencias de la violencia contra las mujeres;
 
-X. Evaluar y considerar la eficacia del Programa Estatal, con base en los resultados de las investigaciones previstas en la fracción anterior;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+X. Evaluar y considerar la eficacia del Programa Estatal, con base en los resultados de las investigaciones previstas en la fracción anterior y del diagnóstico estatal sobre las formas de violencia contra las mujeres elaborado por la Secretaría.
 
 XI. Coadyuvar con las instituciones públicas y privadas dedicadas a la atención de víctimas;
 
-XII. Con apoyo de la Secretaría para el Desarrollo y Empoderamiento de las Mujeres, se realizarán campañas de información y prevención de la violencia contra las mujeres, utilizando los medios idóneos para llegar a las localidades más apartadas, en las lenguas locales, y;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+XII. Con apoyo de la Secretaría, se realizarán campañas de información y prevención de la violencia contra las mujeres, utilizando los medios idóneos para llegar a las localidades más apartadas, en las lenguas originarias.
 
 XIII. Las demás que esta Ley y otros ordenamientos aplicables les confieran.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 83.
 
 Corresponde a los Municipios de la Entidad:
 
-I. Diseñar, formular y aplicar, en concordancia con el Consejo, la política municipal orientada a erradicar la violencia contra las mujeres;
+I. Diseñar, formular y aplicar, en concordancia con el Consejo, la política municipal orientada a erradicar la violencia contra las mujeres.
 
-II. Participar con las autoridades estatales en la conformación y consolidación del Sistema Estatal;
+II. Participar con las autoridades estatales en la conformación y consolidación del Sistema Estatal.
 
-III. Capacitar, con perspectiva de género, al personal del ayuntamiento y en especial a las personas que asisten a las víctimas de violencia, en coordinación con el Consejo;
+III. Capacitar, con perspectiva de género, al personal del ayuntamiento y en especial a las personas que asisten a las víctimas de violencia, en coordinación con el Consejo.
 
-IV. Realizar las acciones necesarias para el cumplimiento del Programa Estatal;
+IV. Realizar las acciones necesarias para el cumplimiento del Programa Estatal, así como priorizar los recursos para la ejecución de una instancia encargada de fomentar políticas y acciones para el logro de la igualdad sustantiva y, con ello, transversalizar la igualdad de género e impulsar la no discriminación y el acceso de las mujeres a una vida libre de violencia.
 
-V. Fomentar la creación de refugios para la atención de mujeres víctimas (sic) violencia y centros de atención para agresores, de acuerdo con su capacidad presupuestal y financiera;
+V. Apoyar la creación, operación o el fortalecimiento de refugios municipales para la atención de mujeres víctimas de violencia y centros de atención para agresores, de acuerdo con su capacidad presupuestal y financiera.
 
-VI. Elaborar programas de sensibilización y proyectos culturales que promuevan la equidad de género y contribuyan a eliminar la violencia contra las mujeres;
+VI. Elaborar proyectos culturales y de sensibilización que promuevan la igualdad de género y contribuyan a eliminar la violencia contra las mujeres, en coordinación con autoridades federales y estatales.
 
 VII. Promover la participación de organismos públicos, privados y de la sociedad civil en programas y acciones de apoyo a las víctimas de violencia.
+
+VIII. Suministrar información al Banco Estatal de Datos e información Sobre Casos de Violencia contra las Mujeres, con el objeto de fomentar y vigilar la igualdad sustantiva e inclusión social de los derechos humanos de las mujeres en los municipios del Estado.
 
 ###### Artículo 84.
 
@@ -1341,9 +1447,11 @@ VII. Diseñar, promover y ejecutar acciones que fomenten las investigaciones y m
 
 VIII. Las demás previstas para el cumplimiento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 88.
 
-Corresponde a la Secretaría de Desarrollo Social:
+Corresponde a la Secretaría de Bienestar:
 
 I. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
 
@@ -1381,7 +1489,9 @@ III. Proporcionar a las mujeres víctimas de violencia, cuando ésta constituya 
 
 IV. Realizar ante hechos presumiblemente delictivos, los exámenes necesarios a las mujeres víctimas de violencia para determinar las alteraciones producidas en su estado de salud físico y emocional, así como su causa probable. Para tal fin, se aplicará el protocolo respectivo y se auxiliará por especialistas del sector salud;
 
-V. Colaborar proporcionando la información sobre edad, género y número de víctimas, causas y daños derivados de la violencia contra las mujeres, a la Secretaría para el Desarrollo y Empoderamiento de las Mujeres e instancias encargadas de realizar estadísticas.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+V. Colaborar proporcionando la información sobre edad, género y número de víctimas, causas y daños derivados de la violencia contra las mujeres, a la Secretaría e instancias encargadas de realizar estadísticas.
 
 VI. Proporcionar a las víctimas información sobre las instituciones públicas o privadas encargadas de brindarles asistencia;
 
@@ -1391,49 +1501,51 @@ VIII. Promover la cultura de denuncia de la violencia contra las mujeres;
 
 IX. Las demás previstas para el cumplimiento de esta Ley.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 91.
 
-Corresponde a la Secretaría para el Desarrollo y Empoderamiento de las Mujeres:
+Corresponde a la Secretaría:
 
-I. Participar en la elaboración y ejecución del Programa, y en el diseño de nuevos modelos de prevención y erradicación de la violencia contra las mujeres;
+I. Coordinar la elaboración y ejecución del Programa Estatal, así como el diseño de nuevos modelos de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
-II. Formular los proyectos de toda clase de contratos, convenios y acuerdos para el adecuado cumplimiento de las atribuciones del Consejo;
+II. Formular los proyectos de toda clase de contratos, convenios y acuerdos para el adecuado cumplimiento de las atribuciones del Consejo.
 
-III. Promover la creación de refugios para la atención a víctimas de violencia y centros de rehabilitación para agresores.
+III. Proponer y, en su caso, coordinar la creación de refugios para la atención a víctimas de violencia, sus hijas e hijos.
 
-IV. Contar con un área especializada para la asistencia y protección de las mujeres víctimas de violencia;
+IV. Contar con un área especializada para la asistencia y protección de las mujeres víctimas de violencia.
 
-V. Capacitar con perspectiva de género a las diferentes instancias de los sectores público, privado o social, incluido el personal a su cargo, para el desempeño de su labor;
+V. Capacitar con perspectiva de género a las diferentes instancias de los sectores público, privado o social, incluido el personal a su cargo, para el desempeño de su labor.
 
-VI. Canalizar a las víctimas de violencia a las instituciones que les presten asistencia y protección;
+VI. Canalizar a las víctimas de violencia a las instituciones que les presten asistencia y protección.
 
-VII. Coadyuvar con las instituciones privadas dedicadas a prestar asistencia y protección a las mujeres víctimas de violencia;
+VII. Coadyuvar con las instituciones privadas dedicadas a prestar asistencia y protección a las mujeres víctimas de violencia.
 
-VIII. Realizar investigaciones sobre las causas, características y consecuencias de la violencia contra las mujeres, así como la eficacia de las medidas aplicadas para su prevención y erradicación. Los resultados serán dados a conocer públicamente para fomentar el debate social y valorar las medidas pertinentes para su erradicación;
+VIII. Realizar investigaciones sobre las causas, características y consecuencias de la violencia contra las mujeres, así como la eficacia de las medidas aplicadas para su prevención y erradicación. Los resultados serán dados a conocer públicamente para fomentar el debate social y valorar las medidas pertinentes para su erradicación.
 
-IX. Proponer a las autoridades encargadas de la aplicación de esta Ley, medidas y acciones extraordinarias que consideren pertinentes para erradicar la violencia contra las mujeres;
+IX. Proponer a las autoridades encargadas de la aplicación de esta Ley, medidas y acciones extraordinarias que consideren pertinentes para erradicar la violencia contra las mujeres, así como solicitar a las autoridades competentes la ejecución de órdenes de protección.
 
-X. Crear estrategias eficaces de asistencia integral que permitan a las mujeres víctimas participar activamente en la vida pública, privada y social;
+X. Crear estrategias eficaces de asistencia integral que permitan a las mujeres víctimas participar activamente en la vida pública, privada y social.
 
-XI. Realizar acciones que promuevan la autonomía económica y el acceso al trabajo remunerado de las mujeres víctimas de la violencia;
+XI. Realizar acciones que promuevan la autonomía económica y el acceso al trabajo remunerado de las mujeres víctimas de la violencia.
 
-XII. Vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas en la materia que incorporen la perspectiva de género, con actitudes idóneas, sin prejuicios, ni discriminación alguna y con apego a lo establecido en sus reglamentos internos;
+XII. Vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas en la materia que incorporen la perspectiva de género, con actitudes idóneas, sin prejuicios, ni discriminación alguna y con apego a lo establecido en sus reglamentos internos.
 
-XIII. Elaborar una guía de recomendaciones dirigida a los medios de comunicación, para el manejo adecuado de la información sobre violencia contra las mujeres;
+XIII. Elaborar una guía de recomendaciones dirigida a los medios de comunicación, para el manejo adecuado de la información sobre violencia contra las mujeres.
 
-XIV. Establecer una línea de atención telefónica que sirva de medio de información y canalización para atender a las mujeres víctimas de violencia;
+XIV. Establecer una línea de atención telefónica que sirva de medio de información y canalización para atender a las mujeres víctimas de violencia.
 
-XV. Organizar actividades públicas y sociales alusivas a la eliminación de la violencia contra la mujer;
+XV. Organizar actividades públicas y sociales alusivas a la eliminación de la violencia contra la mujer.
 
-XVI. Exhortar a los medios de comunicación para que realicen jornadas de cero tolerancia a la violencia contra las mujeres;
+XVI. Exhortar a los medios de comunicación para que realicen jornadas de cero tolerancia a la violencia contra las mujeres.
 
-XVII. Difundir la cultura de respeto a los derechos humanos de las mujeres y promover que las instancias de procuración de justicia garanticen la integridad física de quienes denuncien;
+XVII. Difundir la cultura de respeto a los derechos humanos de las mujeres y promover que las instancias de procuración de justicia garanticen la integridad física de quienes denuncien.
 
-XVIII. Promover la cultura de denuncia de la violencia contra las mujeres;
+XVIII. Promover la cultura de denuncia de la violencia contra las mujeres.
 
-XIX. Realizar un diagnóstico estatal con perspectiva de género, sobre las formas de violencia contra las mujeres, el cual será considerado para la elaboración de políticas públicas gubernamentales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+XIX. Realizar un diagnóstico estatal con perspectiva de género, sobre las formas de violencia contra las mujeres, el cual será considerado en el diseño y ejecución de programas de intervención temprana en las zonas que reporten mayor incidencia y de políticas públicas gubernamentales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
-XIX (SIC). Integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
+XX. Integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
 
 XXI. Las demás previstas para el cumplimiento de esta Ley.
 
@@ -1563,9 +1675,13 @@ VI. Capacitación para el desempeño de alguna actividad económica, cultural o 
 
 VII. Bolsa de trabajo, con la finalidad de que puedan acceder a una actividad remunerada.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 102.
 
-En todo momento las mujeres víctimas de violencia podrán decidir sobre su permanencia en los refugios.
+La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses, a menos de que persista su inestabilidad física, psicológica o su situación de riesgo.
+
+Sin embargo, en todo momento las mujeres víctimas de violencia podrán decidir sobre su permanencia.
 
 ### CAPÍTULO VIII. DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
 
@@ -1668,3 +1784,17 @@ P.O. 26 DE ABRIL DE 2023.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 228 DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CONSTITUCIONAL PARA LA IGUALDAD DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Todas las autoridades del Estado de Chiapas, así como los municipios, en el ámbito de sus respectivas competencias, llevarán a cabo las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
+
+Artículo Cuarto.- La Secretaría deberá realizar las gestiones necesarias a efecto de instalar el Consejo Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, de acuerdo a su nueva conformación, en un plazo no mayor a 30 días hábiles contados a partir de la publicación del presente Decreto en el Periódico Oficial.
+
+Artículo Quinto.- La Secretaría, dentro de los noventa días siguientes a la publicación en el Periódico oficial del presente Decreto, deberá realizar las adecuaciones que correspondan a la normatividad y reglamentación aplicable.
