@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2022-08-19"
+last_updated: "2023-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -1133,9 +1133,9 @@ III. De rehabilitación, que incluyen acciones tendientes a corregir las discapa
 
 La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
 
-I. La atención de la mujer o persona gestante sin importar la raza, condición económica o social durante el embarazo, el parto y el posparto, incluyendo la atención psicológica en caso de requerirla, determinada por un especialista en la materia;
+I. La atención humanizada de la mujer o persona gestante con enfoque de derechos humanos, sin importar la raza, condición económica o social durante el embarazo, el parto y el puerperio;
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1157,13 +1157,17 @@ IV. La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nac
 
 V. La promoción de la integración y el bienestar familiar;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
 
-VI. La información a la mujer, sobre la infección por el Virus de la Inmunodeficiencia Humana (VIH), haciendo de su conocimiento las ventajas de una detección oportuna; y
+VI. La información a la mujer, sobre la infección por el Virus de la Inmunodeficiencia Humana (VIH), haciendo de su conocimiento las ventajas de una detección oportuna;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
 
-VII. La atención médica de las mujeres embarazadas y de los niños que viven con VIH.
+VII. La atención médica de las mujeres embarazadas y de los niños que viven con VIH; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. La atención e información de las acciones para posibilitar cuando la infraestructura lo permita, el acompañamiento de las personas embarazadas por una persona de su confianza y elección durante el trabajo de parto, parto y puerperio, incluyendo el procedimiento de cesárea, en las instituciones de salud públicas y privadas, las cuales deberán tomar las medidas de higiene y seguridad necesarias.
 
 ###### Artículo 78.
 
@@ -3698,3 +3702,11 @@ SEGUNDO. La Secretaría de Salud del Poder Ejecutivo del Estado contará con un 
 TERCERO. Se deroga cualquier disposición que se oponga a lo señalado en este Decreto.
 
 CUARTO. Las acciones que las dependencias y entidades de la Administración Pública Estatal deban realizar para dar cumplimiento a lo establecido en el presente Decreto, se sujetarán a la disponibilidad presupuestaria aprobada para tal fin en la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa para el Ejercicio Fiscal correspondiente.
+
+P.O. 13 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 566 "QUE REFORMA EL ARTÍCULO 77, LAS FRACCIONES I, VI Y VII; Y SE ADICIONA AL ARTÍCULO 77, LA FRACCIÓN VIII DE LA LEY DE SALUD DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
