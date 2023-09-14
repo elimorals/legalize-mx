@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-rural-sustentable-del-estado-de-morelos-67318
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2023-05-31"
+last_updated: "2023-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de marzo de 2009.
 
@@ -1505,9 +1505,11 @@ Bajo el principio de equidad y para disminuir las asimetrías, la Secretaría, c
 
 ### CAPÍTULO IV. DE LA DENUNCIA POPULAR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 128.
 
-Toda persona que acredite interés jurídico o interés social en los supuestos de las fracciones I, II y III, podrá presentar quejas y/o denuncias ante las autoridades competentes de los hechos, acciones y omisiones que:
+Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán presentar denuncias ante las autoridades competentes de los hechos, acciones y omisiones que:
 
 I. Cause daño a los recursos naturales, la biodiversidad, la soberanía, la seguridad alimentaria;
 
@@ -1531,11 +1533,13 @@ X. Se cometa por funcionarios públicos en perjuicio de los intereses de los pro
 
 XI. Se cometa en contravención a lo dispuesto en la presente Ley y demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 129.
 
-A toda persona que presente queja o denuncia, a petición de parte, tendrá la orientación requerida, con el objeto de coadyuvar en la defensa de los intereses de los productores rurales y en general de los habitantes del medio rural, ante las autoridades que corresponda.
+A toda persona que presente denuncia, a petición de parte, tendrá la orientación requerida, con el objeto de coadyuvar en la defensa de los intereses de los productores rurales y en general de los habitantes del medio rural, ante las autoridades que corresponda.
 
-El denunciante o quejoso deberá aportar todos los elementos de prueba con que cuente para sustentar su denuncia y se tramitará conforme al procedimiento establecido por la legislación correspondiente; es supletorio el Código Procesal Civil para el Estado Libre y Soberano de Morelos.
+El denunciante podrá aportar todos los elementos de prueba con los que cuente para sustentar su denuncia y se tramitará conforme al procedimiento establecido en el reglamento de esta ley, aplicando de manera supletoria el procedimiento establecido por la Ley de Responsabilidades Administrativas para el Estado de Morelos.
 
 ### CAPÍTULO V. DE LA CONTRALORÍA SOCIAL
 
@@ -1740,3 +1744,15 @@ QUINTA. Las especificaciones técnicas contenidas en el artículo 18 de la prese
 SEXTA. Para efectos del permiso de instalación establecido en los artículos 9, fracción IV, 17, fracción IV y 21 de esta ley; no se dará efecto retroactivo a ninguna disposición en perjuicio de los apicultores que cuenten con una unidad de producción legalmente establecida dentro del territorio estatal, previo a la entrada en vigor de la presente ley. Por lo que los apicultores que se encuentren en esta hipótesis únicamente deberán inscribirse en el padrón estatal previsto en el artículo 15 de la ley.
 
 SÉPTIMA. Se deroga el capítulo III TER "DE LA PROTECCIÓN DE LAS ABEJAS", comprendido por los artículos del 66 SEXIES al 66 UNDECIS, de la Ley de Desarrollo Rural Sustentable del Estado de Morelos; así como todas las disposiciones de igual o menor rango jerárquico que se opongan a la presente ley.
+
+P.O. 14 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL DOSCIENTOS SETENTA Y OCHO.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 128 Y 129 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS, PARA FORTALECER LA FIGURA DE LA DENUNCIA POPULAR COMO HERRAMIENTA DE LA TRANSPARENCIA Y COMBATE A LA CORRUPCIÓN”.]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al contenido del presente decreto.
+
+CUARTA. En un plazo no mayor de 90 días naturales, el Ejecutivo del Estado deberá realizar las reformas pertinentes al Reglamento de la Ley de Desarrollo Rural Sustentable del Estado de Morelos, en relación a las modificaciones realizadas.
