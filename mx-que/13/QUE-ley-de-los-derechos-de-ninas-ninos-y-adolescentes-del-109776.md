@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109776"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-03"
-last_updated: "2023-04-21"
+last_updated: "2023-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 3 de septiembre de 2015.
 
@@ -135,9 +135,21 @@ XXV. Sistema Municipal DIF: El Sistema Municipal para el Desarrollo Integral de 
 
 XXVI. Sistema Municipal de Protección: El Sistema de Protección de Niñas, Niños y Adolescentes de cada Municipio;
 
-XXVII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia; y
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2023)</small>
 
-XXVIII. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes.
+XXVII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2023)</small>
+
+XXVIII. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes;
+
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2023)</small>
+
+XXIX. Castigo corporal o físico: Todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque se leve; y
+
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2023)</small>
+
+XXX. Castigo humillante: Cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes.
 
 ###### Artículo 5.
 
@@ -549,9 +561,17 @@ IV. El tráfico de menores;
 
 V. El trabajo antes de la edad mínima de quince años, prevista en la Ley Federal del Trabajo;
 
-VI. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, previsto en la Ley Federal del Trabajo; y
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2023)</small>
 
-VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral.
+VI. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, previsto en la Ley Federal del Trabajo;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2023)</small>
+
+VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral; y
+
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. El castigo corporal y castigo humillante.
 
 Las leyes estatales deberán establecer las disposiciones que orientarán las políticas de prevención, protección, atención, sanción y erradicación de los supuestos a que se refieren las fracciones anteriores.
 
@@ -1223,7 +1243,13 @@ I. Que quienes ejerzan la patria potestad, tutela, guarda o custodia de niñas, 
 
 II. Que el personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, se abstengan de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes y que formulen programas e impartan cursos de formación permanente para prevenirlas y erradicarlas; y
 
-III. Quienes tengan trato con niñas, niños y adolescentes se abstengan de ejercer cualquier tipo de violencia en su contra, en particular el castigo corporal.
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2023)</small>
+
+III. Queda prohibido que quienes tengan trato con niñas, niños y adolescentes ejerzan cualquier tipo de violencia en su contra, en particular el castigo corporal y humillante.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2023)</small>
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y disciplina de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda, custodia y crianza, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, de cuidado, penales o de cualquier otra índole, sin que, en modo alguno, se autorice a estos el uso del castigo corporal ni el trato humillante.
 
 ###### Artículo 99.
 
@@ -2158,3 +2184,13 @@ P.O. 21 DE ABRIL DE 2023.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 15 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
