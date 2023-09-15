@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2023-08-18"
+last_updated: "2023-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -2141,9 +2141,11 @@ Los integrantes de la familia tienen derecho a desarrollarse en un ambiente de r
 
 Para tal efecto, contarán con la asistencia y protección de las instituciones públicas que correspondan, de acuerdo a las leyes, para combatir y prevenir conductas de violencia familiar.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 310.
 
-Por violencia familiar se considera todo acto de poder u omisión intencional, único, recurrente o cíclico, dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, patrimonial o sexualmente, si tiene por efecto causar daño a cualquier integrante de la familia, dentro o fuera del domicilio familiar, por parte de quienes tengan parentesco o lo hayan tenido o mantengan una relación de hecho.
+Por violencia familiar se considera todo acto de poder u omisión intencional, único, recurrente o cíclico, dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, patrimonial o sexualmente, incluyendo el castigo corporal y humillante hacia niñas, niños y adolescentes, si tiene por efecto causar daño a cualquier integrante de la familia, dentro o fuera del domicilio familiar, por parte de quienes tengan parentesco o lo hayan tenido o mantengan una relación de hecho.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2013)</small>
 
@@ -2871,7 +2873,13 @@ Los que ejercen la patria potestad, aun cuando no tengan la custodia del menor, 
 
 A las personas que tienen un menor bajo su custodia o ejercen patria potestad sobre él, corresponde la obligación de protegerlo y educarlo para su adecuado desarrollo integral. Tienen la facultad de amonestarlo y corregirlo, respetando siempre su dignidad humana.
 
-Quedan prohibidos los castigos corporales, crueles e innecesarios que arriesguen la integridad física y emocional del menor.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2023)</small>
+
+Quedan prohibidos los castigos corporales, castigos humillantes, crueles e innecesarios que arriesguen la integridad física y emocional, vulnerando el interés superior de la niñez y la adolescencia.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2023)</small>
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y disciplina de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda, custodia y crianza, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, de cuidado, penales o de cualquier otra índole, sin que, en modo alguno, se autorice a estos el uso del castigo corporal ni el trato humillante.
 
 Cuando llegue a conocimiento de la Fiscalía General del Estado o de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Querétaro, que las personas a que se refiere el primer párrafo de este artículo no cumplen con su obligación o abusan de su derecho a corregir, promoverán la suspensión o pérdida de la patria potestad o de la custodia en su caso.
 
@@ -16144,3 +16152,13 @@ Artículo primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 15 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
