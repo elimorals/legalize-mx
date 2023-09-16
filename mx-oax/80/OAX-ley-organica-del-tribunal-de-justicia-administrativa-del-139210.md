@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-tribunal-de-justicia-administrativa-del-139210
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-11-07"
-last_updated: "2021-08-07"
+last_updated: "2023-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "OAX"
 ---
 # LEY ORGANICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA
 
-[N DE E. DE CONFORMIDAD CON LO ORDENADO POR EL ARTÍCULO 53 FRACCIÓN VI, PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE ESTABLECE QUE EN CASO DE QUE EL CONGRESO DEL ESTADO NO RESUELVA EN EL PLAZO ESTABLECIDO EN LA FRACCIÓN V DEL MISMO ARTÍCULO, SE TENDRÁN COMO APROBADAS LAS OBSERVACIONES QUE FUERON PRESENTADAS CON EL VETO POR EL PODER EJECUTIVO, PARA SURTIR INMEDIATAMENTE LOS EFECTOS CONDUCENTES DE PROMULGACIÓN Y PUBLICACIÓN, EN CONSECUENCIA SE PUBLICA EL ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE QUEDAN APROBADAS LAS OBSERVACIONES REALIZADAS AL DECRETO 805 POR EL QUE SE EXPIDE LA LEY ORGANICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, EN EL P.O. 14 DE NOVIEMBRE DE 2019.]
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA Y COMBATE A LA CORRUPCIÓN DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 16 DE SEPTIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA
 
-> <small>N. DE E. DE CONFORMIDAD CON LO ORDENADO POR EL ARTÍCULO 53 FRACCIÓN VI, PÁRRAFO SEGUNDO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE ESTABLECE QUE EN CASO DE QUE EL CONGRESO DEL ESTADO NO RESUELVA EN EL PLAZO ESTABLECIDO LA APROBACIÓN O RECHAZO DE LAS OBSERVACIONES PRESENTADAS CON EL VETO, SE TENDRÁN POR APROBADAS, PARA SURTIR INMEDIATAMENTE LOS EFECTOS CONDUCENTES DE PROMULGACIÓN Y PUBLICACIÓN, EN CONSECUENCIA SE PUBLICA EL ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE QUEDAN APROBADAS LAS OBSERVACIONES REALIZADAS AL DECRETO 805 EN EL P.O. 14 DE NOVIEMBRE DE 2019.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2023 (ABROGADA).
 
 Ley publicada en el Extra del Periódico del Oficial del Estado de Oaxaca, el jueves 7 de noviembre de 2019.
 
@@ -1492,3 +1490,21 @@ TERCERO. Se derogan todas las disposiciones de igual o menor rango que se oponga
 CUARTO. DENTRO DEL PLAZO DE TREINTA DÍAS HÁBILES CONTADOS A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, EL CONGRESO DEL ESTADO A TRAVÉS DE LA COMISIÓN PERMANENTE DE ADMINISTRACIÓN Y PROCURACIÓN DE JUSTICIA EMITIRÁ LA CONVOCATORIA PARA LA DESIGNACIÓN DE LA PERSONA TITULAR DEL ÓRGANO INTERNO DE CONTROL DEL TRIBUNAL.
 
 QUINTO. El Tribunal de Justicia Administrativo (sic) del Estado de Oaxaca deberá realizar las modificaciones y adecuaciones reglamentarias correspondientes para el cumplimiento del presente Decreto en un plazo no mayor de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 16 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1540.- MEDIANTE EL CUAL SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA Y COMBATE A LA CORRUPCIÓN DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se abroga la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Oaxaca expedida en el Decreto 805, aprobado por la LXIV Legislatura del Estado y cualquier disposición de igualo menor jerarquía que contravenga las disposiciones del presente Decreto.
+
+CUARTO. En cumplimiento a los artículos séptimo y octavo Transitorios del Decreto 1486 aprobado por esta LXV Legislatura Constitucional, toda la transferencia que inició el 22 de julio de 2023 de los recursos humanos, financieros y materiales del anterior Tribunal de Justicia Administrativa del Estado de Oaxaca, al Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, se entenderán por cumplidos y concluidos con la emisión del presente Decreto.
+
+QUINTO. Todos los juicios y procesos que estaban pendientes por resolver por parte del Tribunal de Justicia Administrativa del Estado de Oaxaca, pasarán a ser de conocimiento y resolución del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, en términos de esta Ley y de la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
+
+SEXTO. Los servidores públicos que ejercían cargos administrativos que desaparecen o se transforman conforme a lo dispuesto por esta Ley, continuarán desempeñando los mismos cargos hasta que el Pleno del Tribunal acuerde sobre la instalación de los nuevos órganos administrativos y decida sobre la designación mediante acuerdos específicos.
+
+SÉPTIMO. Para la instauración del procedimiento en controversias administrativas entre los municipios y sus agencias, la Sala Especializada aplicará en lo conducente la Ley de Procedimiento y Justicia Administrativa, lo previsto en las normas supletorias a la misma, y las formalidades esenciales del procedimiento, hasta en tanto se emita la regulación específica para dichos procedimientos.
