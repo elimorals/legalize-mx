@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-los-adultos-mayores-del-estado-de-410
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-11"
-last_updated: "2022-09-10"
+last_updated: "2023-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "COL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE SEPTIEMBRE DE 2023 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de septiembre de 2004.
 
@@ -1137,13 +1135,15 @@ VII. Las previstas en la Ley de la materia, en caso de infracciones cometidas po
 
 En el caso de que la transgresión constituya un hecho punible, se hará del conocimiento del Ministerio Público, a efecto de que se proceda en contra de los responsables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 75.
 
-La infracción a las disposiciones contenidas en esta Ley, se hará del conocimiento del Director General quien la denunciará ante la autoridad competente, a efecto de que ésta, considerando la gravedad de la falta, aplique la sanción que corresponda conforme a esta Ley.
+Todas las infracciones a las disposiciones contenidas en esta Ley, se harán del conocimiento de la o el Director General quien las canalizará ante la Procuraduría de la Defensa del Adulto Mayor del Estado de Colima, para que de conformidad a la gravedad de la falta, sean denunciadas ante la autoridad competente, a efecto de que ésta, aplique la sanción correspondiente.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2023)</small>
 
-En los casos de infracciones por incumplimiento a los deberes contenidos en el capítulo IV del Título Tercero de la presente Ley, así como de las infracciones que cometa un individuo que no sea familiar del adulto mayor, las sanciones las aplicará la Procuraduría de la Defensa del Menor y la Familia, dependiente del DIF Estatal, conforme a lo dispuesto en el Reglamento de la Ley.
+En los casos de infracciones por incumplimiento a los deberes familiares, contenidos en el Capítulo IV del Título Tercero de la presente Ley, así como de las infracciones que cometa una persona que no sea familiar de la o el adulto mayor, serán canalizados a la Procuraduría de la Defensa del Adulto Mayor del Estado de Colima, quien depende y se encuentra bajo supervisión de la persona Titular del Instituto para la Atención de los Adultos Mayores, conforme a lo dispuesto en el Reglamento de la Ley.
 
 ###### Artículo 76.
 
@@ -1365,6 +1365,14 @@ P.O. 10 DE SEPTIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 140.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA".]
 
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 345.- POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 75 DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su aprobación por el Poder Legislativo del Estado de Colima, y permanecerá vigente hasta el día 31 de diciembre de 2022.
+
+P.O. 16 DE SEPTIEMBRE DE 2023.
