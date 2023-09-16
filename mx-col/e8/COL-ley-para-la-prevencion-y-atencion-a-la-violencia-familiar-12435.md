@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-prevencion-y-atencion-a-la-violencia-familiar-12435
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-14"
-last_updated: "2023-03-11"
+last_updated: "2023-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12435&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PREVENCIÓN Y ATENCIÓN A LA VIOLENCIA FAMILIAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de febrero de 1998.
 
@@ -773,27 +773,43 @@ La capacitación tendrá una estrategia multiplicadora y deberá estar dirigida 
 
 Los servidores públicos que, en razón de sus funciones, tengan conocimientos de casos de violencia familiar, cuya atención y prevención se encuentre fuera de sus atribuciones, orientarán y derivarán a los involucrados a las instituciones competentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 31.
 
-Siempre que un servidor público de las dependencias señaladas por esta Ley, interviniere en el uso de sus funciones, con una persona que manifieste ser receptora de la violencia familiar, deberá:
+Siempre que una o un servidor público de las dependencias señaladas por esta Ley, interviniere en el uso de sus funciones, con una persona que manifieste ser receptora de la violencia familiar, deberá:
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2023)</small>
 
-I. Asesorarla en lo relativo a la importancia de preservar las pruebas que se tengan respecto de la conducta de la persona generadora de violencia familiar;
+I. Tratarla con respeto a su integridad y el ejercicio pleno de sus derechos;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2023)</small>
 
-II. Ofrecer información clara, sencilla y concreta sobre sus derechos y de las órdenes de protección, así como de los servicios públicos o privados disponibles para su caso en particular;
+II. Asesorarla en lo relativo a la importancia de preservar las pruebas que se tengan al respecto de la conducta de la persona agresora;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE SEPTIEMBRE DE 2023)</small>
+
+III. Proporcionarle información clara, sencilla y suficiente sobre sus derechos y de las órdenes de protección, así como de los servicios públicos o privados disponibles para su caso en particular, que le permita decidir sobre las opciones de atención;
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 La Agencia del Ministerio Público Especializada y la Defensoría de Oficio en su caso, cumplirán con esta obligación, respetando la voluntad de la persona receptora en cuanto al procedimiento que decida, sin inducir ninguna práctica conciliatoria o de negociación;
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2023)</small>
 
-III. Canalizar de inmediato, dependiendo de su propia competencia, a alguna institución de salud, al Consejo Estatal para la Prevención y Atención a la Violencia Familiar y/o a la Procuraduría General de Justicia en el Estado; cuando la persona indique que ha sufrido golpes, heridas o cualquier daño físico aunque éste no sea visible, o de tipo emocional, que requiera intervención médica, sin perjuicio de que le sea proporcionada la atención urgente necesaria. También, cuando la persona exprese temor de sufrir agresiones probablemente graves en su persona o sus familiares o encontrarse en estado de riesgo; y
+IV. Canalizarla de inmediato, dependiendo de su propia competencia, a alguna institución de salud, al Consejo Estatal para la Prevención y Atención a la Violencia Familiar y a la Fiscalía General del Estado, cuando la persona indique que ha sufrido golpes, heridas o cualquier daño físico aunque éste no sea visible, o de tipo emocional, que requiera intervención médica, sin perjuicio de que se le sea proporcionada la ayuda urgente necesaria. También, cuando la persona exprese temor de sufrir agresiones probablemente graves en su persona o sus familiares o encontrarse en estado de riesgo;
 
-IV. Cuando la persona esté en condiciones de proporcionar información, el servidor público, recabará los datos iniciales dejando constancia de las gestiones y canalizaciones realizadas, con la firma de la persona receptora, para el seguimiento del caso y demás efectos señalados en el segundo párrafo del artículo 5° de la presenté ley.
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2023)</small>
+
+V. Cuando la persona esté en condiciones de proporcionar información, el o la servidora pública, recabará los datos iniciales dejando constancia de las gestiones y canalizaciones realizadas, con la firma de la persona receptora, para el seguimiento del caso y demás efectos señalados en el segundo párrafo del artículo 5º de la presente ley;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Proteger la identidad de la persona receptora de la violencia familiar, incluyendo la publicación de nombres o datos que permitan conocer o deducir su filiación, a través de los medios de comunicación; y
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Las demás que establezca esta Ley, su Reglamento y otras disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -1076,3 +1092,11 @@ P.O. 11 DE MARZO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 344.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y LAS FRACCIONES II, III, IV Y V; SE ADICIONA LA FRACCIÓN I HACIENDO EL CORRIMIENTO DE LAS SUBSECUENTES FRACCIONES, ASÍ MISMO, SE ADICIONAN LAS FRACCIONES VI Y VII; DEL ARTÍCULO 31 DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN A LA VIOLENCIA FAMILIAR”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
