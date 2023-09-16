@@ -4,7 +4,7 @@ identifier: "COL-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-2561
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2023-02-18"
+last_updated: "2023-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 15 de junio de 2002.
 
@@ -357,11 +357,11 @@ Toda persona, individual o colectivamente, podrá denunciar por sí o por conduc
 
 Si la denuncia presentada resultare del orden federal, ésta deberá ser remitida para su atención y trámite a la autoridad federal correspondiente o cuando se trate de la comisión de algún delito, deberá remitirse ante el Ministerio Público, en un plazo que no exceda de 5 días hábiles contados a partir de la fecha de su recepción.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2023)</small>
 
-###### ARTÍCULO 9º.
+###### ARTÍCULO 9°.
 
-Sin perjuicio de lo anterior, los interesados podrán presentar su denuncia directamente ante el Ministerio Público si consideran que el hecho, acto u omisión de que se trate pueden ser constitutivos de algún delito, en cuyo caso deberá sujetarse a lo dispuesto por el Código de Procedimientos Penales del Estado o, en su caso, a la legislación federal aplicable.
+Sin perjuicio de lo anterior, los interesados podrán presentar su denuncia directamente ante el Ministerio Público si consideran que el hecho, acto u omisión de que se trate pueden ser constitutivos de algún delito, en cuyo caso deberá sujetarse a lo dispuesto por el Código Nacional de Procedimientos Penales.
 
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
 
@@ -389,13 +389,23 @@ Cuando se efectúe por medio de la Dirección de Ecología en cada municipio o d
 
 Asimismo, podrá formularse la denuncia vía telefónica, en cuyo caso la persona que la reciba la turnará al área a que corresponda para iniciar el procedimiento y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el artículo 10º, en un término de 3 días hábiles siguientes a la formulación de la misma, sin perjuicio de que la autoridad ambiental competente investigue de oficio los hechos denunciados
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 12.
 
-No se admitirán las denuncias anónimas, las notoriamente improcedentes o inexistencia de petición, se desecharán y notificarán al denunciante.
+No se admitirán las denuncias notoriamente improcedentes o inexistencia de petición, se desecharán y notificarán al denunciante y para el caso, de denuncias anónimas deberá hacerse pública en los medios digitales que tenga a su alcance la autoridad ambiental.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 13.
 
-Si el denunciante solicita a la autoridad ambiental competente guardar secreto respecto de su identidad, por razones de seguridad e interés particular, ésta llevará a cabo el seguimiento de la denuncia conforme a las atribuciones que le otorgan la presente Ley y demás disposiciones jurídicas.
+Para el caso de denuncias anónimas, estas podrán presentarse vía telefónica; electrónica en los medios digitales que tenga a su alcance la autoridad ambiental; de manera presencial, esta última cuando así se solicite a la autoridad ambiental competente guardar secreto respecto de su identidad, por razones de seguridad e interés particular, la autoridad ambiental llevará a cabo el seguimiento de la denuncia conforme a las atribuciones que le otorgan la presente Ley y demás disposiciones jurídicas.
+
+En dicha denuncia por lo menos deberá proporcionarse hechos claros, circunstancias de tiempo y lugar, de ser posible, datos o pruebas que permitan identificar al presunto infractor o localizar la fuente contaminante.
+
+La autoridad ambiental competente determinará, dada la naturaleza de los hechos denunciados y datos ofrecidos, su procedencia o desechamiento.
+
+En aquellos casos en que, de la denuncia anónima se desprendan actos u omisiones que pudieran constituir delitos contra el ambiente, la autoridad ambiental formulará denuncia inmediata ante el Ministerio Público.
 
 ###### ARTÍCULO 14.
 
@@ -3274,3 +3284,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los Ayuntamientos del Estado contarán con un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, para reformar su reglamentación correspondiente para el saneamiento y limpia de construcciones deshabitadas y lotes baldíos en los términos que establece este decreto.
 
 TERCERO. Los Ayuntamientos del Estado contarán con un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, para reformar su reglamentación correspondiente en materia de ecología y/o ambiental en los términos que establece este decreto.
+
+P.O. 16 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 343.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 9, 12 Y 13; ASÍ MISMO, SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 13 DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
