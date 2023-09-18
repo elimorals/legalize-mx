@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2023-06-19"
+last_updated: "2023-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -347,7 +347,9 @@ III. Consejo Municipal de Protección Civil.
 
 IV. Comités de Concertación y Participación Social.
 
-V. Comité de Desarrollo Urbano y Rural.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+V. Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano.
 
 VI. Comité de Planeación para el Desarrollo Municipal (COPLADEMUN).
 
@@ -427,11 +429,7 @@ XXXI. Consejo para la Igualdad Sustantiva en Materia Laboral;
 
 XXXII. Consejo Consultivo del Agua Potable, Alcantarillado y Saneamiento; y
 
-> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICO A LA FRACCIÓN XXXV.]</small>
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE ENERO DE 2021)</small>
-
-XXXIII. Aquellos Comités o Consejos Ciudadanos que el Cabildo apruebe establecer en las áreas que considere convenientes.
+XXXIII. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2023)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2021)</small>
 
@@ -3057,23 +3055,23 @@ APARTADO DÉCIMO TERCERO
 
 De la Secretaría de Desarrollo Urbano
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 112.
 
 Corresponde a la Secretaría de Desarrollo Urbano:
 
-I. Participar en la elaboración de los proyectos de reglamentación de zonificación y usos de suelo, y de protección al ambiente.
+I. Participar en la elaboración de los proyectos de reglamentación de zonificación y usos de suelo, de protección al ambiente y demás necesarios para el ejercicio de sus funciones en esta materia;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+II. Ejercer las atribuciones que le otorga al Municipio el Código Urbano para el Estado, en cuanto a la autorización de fusiones, subdivisiones, relotificaciones, fraccionamientos, condominios y desarrollos inmobiliarios especiales, así como su supervisión por sí o a través las Unidades Externas de Supervisión y el control del cumplimiento de las obligaciones de los fraccionadores y promotores;
 
-II. Ejercer las atribuciones que le otorga el Código Urbano al Municipio, en cuanto a la autorización de subdivisiones, fraccionamientos, condominios y desarrollos especiales, así como su supervisión por sí o a través las Unidades Externas de Supervisión y el control del cumplimiento de las obligaciones de los fraccionadores y promoventes de los condominios;
+III. En el ámbito de los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones, vigilar el cumplimiento de lo dispuesto en el Código Urbano para el Estado y demás disposiciones jurídicas aplicables, en cuanto a los procesos de urbanización hasta su municipalización o entrega de sus obras de urbanización, según corresponda;
 
-III. En el ámbito de fraccionamientos y subdivisiones, vigilar el cumplimiento con lo dispuesto en el Código Urbano y demás disposiciones jurídicas aplicables, en cuanto a los procesos de urbanización hasta su municipalización.
+IV. Coordinar la participación del Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano, en cuanto a las atribuciones que le otorga el Código Urbano para el Estado de Aguascalientes, así como del Comité Técnico de Municipalización y Urbanización;
 
-IV. Coordinar la participación del Comité de Desarrollo Urbano y Rural en cuanto a las atribuciones que le otorga el Código Urbano para el Estado de Aguascalientes, así como del Comité Técnico de Municipalización y Urbanización.
+V. Administrar el control urbano con el otorgamiento de las siguientes autorizaciones o su rechazo:
 
-V. Administrar el control urbano con el otorgamiento de las siguientes autorizaciones:
-
-a) Alineamiento y Compatibilidad Urbanística;
+a) Constancia o Informe Municipal de Compatibilidad Urbanística;
 
 b) Anuncios;
 
@@ -3085,123 +3083,347 @@ e) Relotificación de Predios;
 
 f) Licencias para la construcción, reparación, remodelación y demolición de inmuebles;
 
-g) Realización de obras, instalaciones y reparaciones en la vía pública;
+g) Ejecución de todo tipo de obras, instalaciones aéreas, a nivel o subterráneas y reparaciones en la vía pública; y
 
 h) Números oficiales para los inmuebles.
 
-VI. Determinar el tipo de construcciones que se puedan edificar en el municipio.
+Las autorizaciones, licencias y permisos, previstos en la presente fracción serán expedidas, condicionadas o rechazadas directamente por la Dirección de Control Urbano de la Secretaría, con excepción de la autorización contemplada en el inciso e) que será competencia de la Dirección de Fraccionamientos y Bienes Inmuebles Municipales;
 
-VII. Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y usos de la vía pública de acuerdo a los planes y programas de desarrollo urbano.
+VI. Determinar el tipo de construcciones que se puedan edificar en el municipio;
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+VII. Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y usos de la vía pública de acuerdo a los planes y programas de desarrollo urbano;
 
-VIII. Coordinar la Comisión de Peritos, llevar el registro de los peritos, así como asignar peritajes por servicio social en los casos que prevé este Código.
+VIII. Coordinar la Comisión de Peritos, llevar el registro de los peritos, así como asignar peritajes por servicio social en los casos que prevé este Código;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2020)</small>
+IX. Supervisar obras de urbanización, edificación y construcciones en general, preferentemente a través de las Unidades Externas de Supervisión, o en su caso de manera aleatoria por conducto de los inspectores, verificadores y supervisores a su cargo, así como aeronaves pilotadas (sic) distancia (RPA por sus siglas en inglés Remotely Piloted Aircraft);
 
-IX. Supervisar obras de urbanización, edificación y construcciones en general a través de los inspectores, verificadores y supervisores a su cargo, así como aeronaves pilotadas distancia (RPA por sus siglas en inglés Remotely Piloted Aircraft);
+X. Cerciorarse a través de los inspectores, verificadores y supervisores a su cargo, o de las Unidades Externas de Supervisión, los Peritos Responsables de Obra y Especializados, así como aeronaves pilotadas (sic) distancia (RPA por sus siglas en inglés Remotely Piloted Aircraft), respecto del uso que se está dando a un predio, edificio o construcción y que éste se apegue a las características previamente registradas y/o autorizadas;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2020)</small>
+XI. Acordar las medidas que fueren procedentes en relación con las obras de urbanización y edificación, así como los lotes baldíos, cuyo estado presente un riesgo inminente, que generen inseguridad, insalubridad o causen molestias, detectados a través del procedimiento de verificación administrativa convencional o a través de aeronaves pilotadas (sic) distancia (RPA por sus siglas en inglés Remotely Piloted Aircraft);
 
-X. Cerciorarse a través de los inspectores, verificadores y supervisores a su cargo, así como aeronaves pilotadas distancia (RPA por sus siglas en inglés Remotely Piloted Aircraft), y aplicar la normatividad para el uso que se está dando a un predio, edificio o construcción y que éste se apegue a las características previamente registradas.
+XII. Ordenar y aplicar multas, la suspensión temporal preventiva, la clausura parcial o total, de obras de urbanización y edificación en ejecución o terminadas, e incluso su demolición total o parcial, cuando se hayan detectado infracciones a la normatividad vigente, a través del procedimiento de verificación administrativa ejecutada de forma convencional o a través de aeronaves pilotadas (sic) distancia (RPA por sus siglas en inglés Remotely Piloted Aircraft), así como la desocupación de los inmuebles en los casos previstos en este Código;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2020)</small>
+XIII. Aplicar medidas de seguridad en inmuebles en los casos previstos en este Código y el Código Urbano para el Estado;
 
-XI. Acordar las medidas que fueren procedentes en relación con las obras de urbanización y edificación así como los lotes baldíos, cuyo estado presente un riesgo inminente, que generen inseguridad, insalubridad o causen molestias, detectados a través del procedimiento de verificación administrativa convencional o a través de aeronaves pilotadas distancia (RPA por sus siglas en inglés Remotely Piloted Aircraft),
+XIV. Ordenar y ejecutar las demoliciones en inmuebles, con el apoyo de la Secretaría de Obras Públicas Municipal o de terceros en los casos previstos en este Código y el Código Urbano para el Estado;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2020)</small>
+XV. Con la expedición de la constancia de terminación de obra, autorizar la ocupación de una construcción siempre que se hayan cumplido los requisitos de este Código, o en caso contrario negarla;
 
-XII. Ordenar y aplicar multas, la suspensión temporal preventiva, o la clausura parcial o total, de obras de urbanización y edificación, en ejecución o terminadas, cuando se hayan detectado infracciones a la normatividad vigente, a través del procedimiento de verificación administrativa ejecutada de forma convencional o a través de aeronaves pilotadas distancia (RPA por sus siglas en inglés Remotely Piloted Aircraft), así como la desocupación de los inmuebles en los casos previstos en este Código.
+XVI. Imponer sanciones a las que se hagan acreedores los infractores a las disposiciones que en materia de desarrollo urbano y asentamientos humanos se encuentran previstas por el presente Código y demás disposiciones jurídicas aplicables;
 
-XIII. Aplicar medidas de seguridad en inmuebles en los casos previstos en este Código.
+XVII. Solicitar el auxilio de la fuerza pública, cuando fuere necesario para hacer cumplir sus determinaciones;
 
-XIV. Ordenar y ejecutar las demoliciones en inmuebles en los casos previstos en este Código.
+XVIII. Elaborar los estudios, análisis y procedimientos para la expedición de las normas y especificaciones técnicas complementarias de urbanización y edificación para la ejecución de las obras de urbanización y la prestación de servicios en subdivisiones, fraccionamientos, condominios, desarrollos inmobiliarios especiales y cualquier obra de urbanización; así como de las construcciones y posteriormente procurar su aplicación;
 
-XV. Autorizar la ocupación de una construcción siempre que se hayan cumplido los requisitos en este Código, o en caso contrario negarla.
+XIX. Determinar los requisitos y procedimientos para que en su caso el Ayuntamiento autorice, rectifique o cambie la nomenclatura de vialidades públicas, parques, jardines, plazas, sitios y monumentos históricos y todo aquel lugar de carácter público factible de otorgársele denominación;
 
-XVI. Imponer sanciones a las que se hagan acreedores los infractores a las disposiciones que en materia de desarrollo urbano y asentamientos humanos se encuentran previstas por el presente Código y demás disposiciones jurídicas aplicables.
+XX. Ejercer las atribuciones que otorga al Municipio el Código Urbano para el Estado, en cuanto al desarrollo urbano y asentamientos humanos;
 
-XVII. Solicitar el auxilio de la fuerza pública, cuando fuere necesario para hacer cumplir sus determinaciones.
+XXI. Proponer las obras y servicios públicos que sean necesarios para el desarrollo urbano;
 
-XVIII. Expedir y aplicar las normas y especificaciones técnicas complementarias de urbanización y edificación para el debido cumplimiento en lo relativo a la ejecución de las obras de urbanización y la prestación de servicios en subdivisiones, fraccionamientos, condominios y desarrollos especiales; así como de las construcciones.
+XXII. Proveer los elementos para la exacta observancia de la planeación urbana;
 
-XIX. Determinar los requisitos y procedimientos para autorizar la asignación, forma de instalación, rectificación y cambio de nomenclatura de fraccionamientos, vialidades, parques, jardines, plazas, sitios y monumentos históricos y todo aquel lugar factible de otorgársele denominación.
+XXIII. Establecer una adecuada coordinación con las dependencias y organismos de gobierno federal y estatal, que realicen acciones de desarrollo urbano y vivienda;
 
-XX. Ejercer las atribuciones que otorga al Municipio el Código Urbano, en cuanto al desarrollo urbano y asentamientos humanos.
+XXIV. Una vez validada la congruencia, coordinación y ajuste de los programas de desarrollo urbano municipales por parte del Instituto Municipal de Planeación y Evaluación ante la Secretaría de Planeación, Participación y Desarrollo del Estado, gestionar su publicación en el Periódico Oficial del Estado y su inscripción en el Registro Público de la Propiedad del Estado y del Comercio;
 
-XXI. Proponer las obras y servicios públicos que sean necesarios para el desarrollo urbano.
+XXV. Por conducto de las Unidades Externas de Supervisión, verificar y constatar que la ejecución de las obras de urbanización, sean compatibles con el proyecto autorizado, la calidad de los materiales y trabajos realizados en las mismas y en obras de edificación, así como el avance de éstas en los fraccionamientos, condominios, desarrollos inmobiliarios especiales, subdivisiones y cualquier obra de urbanización. Adicionalmente a lo anterior y de manera aleatoria, supervisar directamente y con su personal los trabajos de verificación que efectúen las Unidades Externas de Supervisión.
 
-XXII. Proveer los elementos para la exacta observancia de la planeación urbana.
+Para los efectos de lo señalado en el párrafo anterior, le corresponderá aplicar las disposiciones contenidas en este Código, para la asignación, contratación, funcionamiento, coordinación y control de las Unidades Externas de Supervisión;
 
-XXIII. Establecer una adecuada coordinación con las dependencias y organismos de gobierno federal y estatal, que realicen acciones de desarrollo urbano y vivienda.
+XXVI. Autorizar la constitución, modificación y extinción del régimen de propiedad en condominio, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados o menos de 100 predios, viviendas, departamentos, unidades o áreas, previa opinión de la Secretaría de Planeación, Participación y Desarrollo del Estado;
 
-XXIV. Realizar el procedimiento de conservación de predios y edificaciones a que hace referencia la Normatividad Municipal.
+XXVII. Autorizar los desarrollos inmobiliarios especiales, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados, previa opinión de la Secretaría de Planeación, Participación y Desarrollo del Estado;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+XXVIII. Aplicar la normatividad establecida en fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones de los usos permitidos en concordancia con el plano de uso de suelo autorizado por las autoridades competentes;
 
-XXV. Supervisar por sí o a través de las Unidades Externas de Supervisión la calidad de los materiales y trabajos realizados en las obras de urbanización, así como el avance de éstas, que se realicen en los fraccionamientos, subdivisiones, condominios y desarrollos especiales.
+XXIX. De manera extraordinaria y justificadamente, requerir los dictámenes correspondientes para liberar las constancias de terminación de obra en la ejecución de la urbanización de subdivisiones, fraccionamientos, condominios, desarrollos inmobiliarios especiales y cualquier tipo de obra de urbanización;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+XXX. Coordinar los Comités, Consejos y Subcomités en materia urbana: Subcomité de Asentamientos Humanos Irregulares, Subcomité de Tránsito y Análisis Vial, Comité de Bienes Inmuebles del Municipio de Aguascalientes, el Subcomité Técnico de Cartografía y el Subcomité de Imagen Urbana; y otros que establezca la normatividad aplicable;
 
-XXVI. Supervisar por sí o a través de las Unidades Externas de Supervisión, los trabajos de edificación que se realicen en los fraccionamientos, subdivisiones, condominios y desarrollos especiales.
+XXXI. Dictaminar sobre el uso de suelo de bienes inmuebles cuando así le sea requerido;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+XXXII. Suscribir convenios de reubicación cuando existan conflictos respecto al uso de suelo;
 
-XXVII. Conforme a lo dictaminado por sí o por las Unidades Externas de Supervisión y el Perito responsable de las Obras de Urbanización, dictaminar sobre el avance, calidad y cumplimiento de las obras de urbanización de los Fraccionamientos, Condominios y desarrollos especiales en proceso de municipalización o entrega a la Asamblea de Condóminos.
+XXXIII. Garantizar el cumplimiento de lo establecido en el Código Urbano para el Estado, en el presente Código, Reglamentos Municipales y demás legislación aplicable;
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+XXXIV. Expedir autorización de uso de suelo a estacionamientos públicos;
 
-XXVIII. Aplicar la normatividad establecida en fraccionamientos, condominios y desarrollos especiales de los usos permitidos en concordancia con el plano de uso de suelo autorizado por las autoridades competentes;
+XXXV. Autorizar, ordenar y controlar toda clase de anuncios públicos o privados, así como retirarlos con el apoyo de otras Dependencias y Entidades Municipales o terceros;
 
-XXIX. Requerir los dictámenes correspondientes para liberar las constancias de terminación de obra en la ejecución de la urbanización de subdivisiones, fraccionamientos, condominios y desarrollos especiales.
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2009)</small>
-
-XXX. Coordinar los Comités y Subcomités en materia Urbana; Subcomité de Asentamientos Humanos Irregulares, subcomité de Tránsito y Análisis Vial, Comité de Bienes Inmuebles del Municipio de Aguascalientes, el Subcomité Técnico de Cartografía y el Subcomité de Imagen Urbana.
-
-XXXI. Dictaminar sobre el uso de suelo de bienes inmuebles cuando así le sea requerido.
-
-XXXII. Suscribir convenios de reubicación cuando existan conflictos respecto al uso de suelo.
-
-XXXIII. Garantizar el cumplimiento de lo establecido en el Código Urbano y en el presente Código.
-
-XXXIV. Expedir autorización de uso de suelo a estacionamientos públicos.
-
-XXXV. Autorizar, ordenar, controlar y retirar toda clase de anuncios públicos o privados.
-
-XXXVI. Autorizar, ordenar, controlar y retirar el mobiliario urbano.
-
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+XXXVI. Autorizar, ordenar y controlar el mobiliario y equipamiento urbano, así como retirarlo con el apoyo de otras Dependencias y Entidades Municipales o terceros;
 
 XXXVII. Asesorar y apoyar técnica y jurídicamente los casos que procedan de regularización de asentamientos humanos irregulares dentro del municipio de Aguascalientes;
 
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
-
 XXXVIII. Coadyuvar en las medidas de carácter preventivo que fueren procedentes, con instituciones y dependencias federales, estatales y municipales, que permitan el abatimiento de prácticas irregulares en materia de asentamientos humanos;
-
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
 XXXIX. Participar en la suscripción de convenios de colaboración que celebre la Presidencia Municipal con las dependencias y organismos de gobierno federal, estatal y municipal, a fin de promover acciones de regularización de la tenencia de la tierra y asentamientos informales;
 
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+XL. Gestionar el procedimiento de regularización de asentamientos humanos que carecen de los permisos respectivos, de acuerdo con los segmentos de competencia municipal que las leyes establezcan;
 
-XL. Gestionar el procedimiento de regularización de asentamientos humanos que carecen de los permisos respectivos, de acuerdo a los segmentos de competencia municipal que las leyes establezcan;
+XLI. Elaborar, controlar y mantener actualizado el inventario del patrimonio inmobiliario conforme a lo establecido en la normatividad en la materia;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2015)</small>
+XLII. Llevar a cabo el levantamiento físico del inventario de los bienes inmuebles de propiedad municipal de conformidad con la normatividad en la materia;
 
-XLI. Elaborar, controlar y mantener actualizado el inventario del patrimonio inmobiliario conforme a lo establecido en la normatividad en la materia.
+XLIII. Proporcionar a la Secretaría de Finanzas Públicas, licencias de construcción, constancias de terminación de obra o cualquier otro documento o información que obre en sus archivos, donde se advierta el incremento en el valor de un inmueble por el que se deba aumentar el cobro del impuesto a la propiedad raíz, así como auxiliar a dicha Secretaría para la ejecución de lo previsto en el artículo 108 fracción XXVII de este Código;
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+XLIV. Autorizar la publicidad y posteriormente la venta de predios, previo cumplimiento de los requisitos legales, respecto de los condominios y subdivisiones autorizados de su parte;
 
-XLII. Llevar a cabo el levantamiento físico del inventario de los bienes inmuebles de conformidad con la normatividad en la materia.
+XLV. Autorizar el calendario o programa de obras de urbanización y en su caso de la infraestructura y equipamiento sustituido por áreas de donación municipal, respecto de los proyectos autorizados de su parte, determinando la temporalidad para su ejecución, de acuerdo con la superficie e implicaciones del proyecto correspondiente;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ENERO DE 2023)</small>
+XLVI. Autorizar el inicio de las obras de urbanización de los condominios, desarrollos inmobiliarios especiales y subdivisiones autorizados de su parte;
 
-XLIII. Proporcionar a la Secretaría de Finanzas Públicas, licencias de construcción, constancias de terminación de obra o cualquier otro documento o información que obre en sus archivos, donde se advierta el incremento en el valor de un inmueble por el que se deba aumentar el cobro del impuesto a la propiedad raíz, así como auxiliar a dicha Secretaría para la ejecución de lo previsto en el artículo 108 fracción XXVII de este Código.
+XLVII. Expedir y revocar los permisos para las urbanizaciones cerradas;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2023)</small>
+XLVIII. Emitir opinión sobre la autorización, modificación, extinción y revocación de los fraccionamientos, condominios y desarrollos inmobiliarios especiales, que le correspondan autorizar al Consejo Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda o la Secretaría de Planeación, Participación y Desarrollo del Estado;
 
-XLIV. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XLIX. Con la participación del Comité Técnico de Municipalización y Urbanización, determinar la superficie, ubicación y el aprovechamiento de las áreas de donación que le deben otorgar los fraccionadores y promotores al Municipio, conforme a lo establecido en el Código Urbano para el Estado;
+
+L. Autorizar la sustitución de áreas de donación por la dotación de equipamiento urbano, infraestructura u obras de impacto social significativo de carácter público, conforme a lo previsto en el Código Urbano para el Estado de Aguascalientes, previa opinión del Comité Técnico de Municipalización y Urbanización;
+
+LI. Acorde a lo dictaminado por las Unidades Externas de Supervisión y los Peritos Responsables de Obra, en su caso expedir los dictámenes técnico jurídicos, respecto de la ejecución de las obras de urbanización por parte de los fraccionadores y promotores, en cuanto a la compatibilidad del proyecto autorizado y la calidad de los materiales y obras, así como la integración del expediente en lo referente a las obligaciones de los desarrolladores;
+
+LII. Conocer y dar trámite a las denuncias populares que se le presenten;
+
+LIII. Mediar y conciliar cuando se les solicite, en coordinación en su caso con la Secretaría de Planeación, Participación y Desarrollo del Estado, en asuntos, conflictos y controversias entre la población o de ésta con los fraccionadores o promotores;
+
+LIV. Coordinarse con la Secretaría de Planeación, Participación y Desarrollo del Estado, para implementar, integrar y operar en el ámbito de su competencia el expediente digital único, para la tramitación, autorización, ejecución y control de las obras de urbanización, así como la municipalización de un fraccionamiento o subdivisión y la entrega de las obras de urbanización de los condominios;
+
+LV. En coordinación con la Secretaría de Planeación, Participación y Desarrollo del Estado, implementar y actualizar una certificación para los asesores inmobiliarios, a fin de propiciar y facilitar que los fraccionadores y promotores, efectúen la debida, correcta y expedita integración de los expedientes para la autorización y ejecución de las obras de urbanización, en los fraccionamientos, condominios y desarrollos inmobiliarios especiales;
+
+LVI. Expedir, por conducto de su titular, copias certificadas de todo documento emitido por esta Secretaría;
+
+LVII. Ejercer el derecho de preferencia para adquirir por el Municipio, predios comprendidos en zonas de reserva territorial, para destinarlos preferentemente a la constitución de espacios públicos; para tal efecto se solicitará opinión al Instituto Municipal de Planeación y Evaluación; y
+
+LVII (SIC). Las demás que señale la Ley Municipal, el Código Urbano para el Estado, el presente Código y las que le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(ADICIONADA CON LAS SUBSECCIONES Y ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+#### SECCIÓN ÚNICA. De las Unidades Externas de Supervisión
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+SUBSECCIÓN PRIMERA
+
+Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+ARTÍCULO 112 BIS.- La presente sección se expide con fundamento en el (sic) artículos 115 fracción V de la Constitución Política de los Estados Unidos Mexicanos, 1° fracción II y 11 fracciones IX, XI y XXV de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, y 2 fracciones II y III, 21 fracciones II, XXVI, XXX, XXXIX y XL del Código Urbano para el Estado de Aguascalientes.
+
+Las disposiciones contenidas en esta sección son de observancia obligatoria e interés general. Tienen como objeto establecer las bases para la Asignación, Contratación, Funcionamiento, Coordinación y Control de Unidades Externas de Supervisión para efectuar la supervisión única en la ejecución de obras de urbanización en los fraccionamientos, condominios, desarrollos inmobiliarios especiales, subdivisiones y cualquier obra de urbanización, así como de edificación, previstos en el Código Urbano para el Estado de Aguascalientes, en el presente Código y demás disposiciones jurídicas aplicables.
+
+Conforme a lo previsto en el artículo 4º del Código Urbano para el Estado de Aguascalientes, para efectos de la presente sección se entenderá por:
+
+I. Unidades Externas de Supervisión: Son las empresas certificadas en términos de la Ley de Infraestructura de la Calidad y el Código Urbano, con capacidad humana y técnica para revisar las obras de urbanización y edificación a que se refiere el citado Código Urbano y el Código Municipal;
+
+II. Supervisión única: La verificación que realicen las Unidades Externas de Supervisión, respecto de la compatibilidad del proyecto autorizado, así como de la calidad y especificaciones de los materiales, obras y servicios realizados durante la urbanización o edificación de un predio o lote, en los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones;
+
+III. Equipamiento urbano: El conjunto de inmuebles, instalaciones, infraestructura, construcciones y mobiliario utilizado para prestar los servicios urbanos y desarrollar las actividades económicas, sociales y culturales;
+
+IV. Infraestructura primaria: Comprende el conjunto de obras y servicios que los promotores de cualquier acción urbanística estarán obligados a ejecutar con el objetivo de que se garantice la obra inicial de soporte para el desarrollo de otras actividades en zonas de crecimiento carentes de ellas, pudiendo ser colectores sanitarios y pluviales, entronques carreteros y consolidación de arterias viales, plantas de tratamiento, redes de distribución eléctrica y pluvial, entre otras;
+
+V. Infraestructura urbana: Los sistemas y redes de organización, distribución y movilidad de personas, así como de los bienes y servicios en los centros de población;
+
+VI. Obras de cabecera: Las correspondientes a la ejecución de trabajos de infraestructura primaria, servicios y obras de liga vial tendientes a garantizar la conectividad y funcionalidad de la acción urbanística hacia las zonas urbanizadas o urbanizables del centro de población donde se pretendan ubicar; y
+
+VII. Obras de urbanización: Proyecto que contemple la infraestructura que se ejecutará en el terreno destinado a convertirlo en fraccionamiento, condominio, desarrollo inmobiliario especial, subdivisión o fusión; y podrá referirse al servicio de agua potable, drenaje pluvial o sanitario, energía eléctrica, gas, alumbrado público, tipos de comunicación, guarniciones y banquetas, pavimentación de arroyo de vías, estacionamientos, sistemas de nomenclatura, señalamiento vial, trabajos de arborización y jardinería. Deberá considerar además la incorporación de obras de infraestructura primaria, así como los servicios destinados a las áreas urbanas y edificaciones. Finalmente, cuando se trate de subdivisión o fusión, se referirá únicamente a las acciones tendientes a completar las obras existentes o faltantes.
+
+Para efectos de esta sección, también serán aplicables el resto de los conceptos definidos en el artículo 4º del Código Urbano para el Estado.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+SUBSECCIÓN SEGUNDA
+
+Del Registro, Asignación y Control de las Unidades Externas de Supervisión
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+ARTÍCULO 112 TER.- Las Unidades Externas de Supervisión deberán registrarse ante la Secretaría de Desarrollo Urbano para la realización de sus actividades en el Municipio de Aguascalientes, cumpliendo con los requisitos establecidos por en (sic) el presente Código Municipal.
+
+Las Unidades Externas de Supervisión, previo contrato de prestación de servicios celebrado con el Municipio, a través de las Secretarías de Desarrollo Urbano y Administración y en términos de la normatividad aplicable, realizarán la supervisión a las obras de urbanización de los fraccionamientos, condominios, desarrollos inmobiliarios, subdivisiones, entre otras, en los términos y condiciones que establezca el Código Urbano para el Estado, el presente Código y demás disposiciones aplicables.
+
+Las Unidades Externas de Supervisión, tendrán las siguientes obligaciones:
+
+I. Realizar bajo su responsabilidad directa, la supervisión de las obras de urbanización y edificación, conforme a los lineamientos establecidos en el dictamen de autorización de los fraccionamientos, condominios, desarrollos inmobiliarios especiales, subdivisiones o cualquier otra, expedido por el Consejo Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda, la Secretaría de Planeación, Participación y Desarrollo del Estado o el Municipio, y las disposiciones del Código Urbano para el Estado, el presente Código, reglamentos municipales y manuales expedidos para ese fin;
+
+II. Encontrarse certificada por un organismo de normalización y certificación de carácter nacional, designado por la Secretaría de Desarrollo Urbano Municipal, en los términos de la Ley de Infraestructura de la Calidad y actualizando en tiempo y forma dicha certificación;
+
+III. Estar inscrita en el Registro Municipal de las Unidades Externas de Supervisión;
+
+IV. Renovar el registro correspondiente, con la periodicidad requerida;
+
+V. Acreditar anualmente al Municipio, la actualización y capacitación de los supervisores acreditados para efecto de realizar sus funciones;
+
+VI. Asistir conjuntamente con las autoridades de la Secretaría de Desarrollo Urbano Municipal, así como del Perito Responsable de las obras de urbanización o edificación, los peritos especializados si existieran y del propietario o de su representante, a la apertura de la bitácora de obra;
+
+VII. Atender con toda diligencia y puntualidad las observaciones y requerimientos que le realice la Secretaría de Desarrollo Urbano Municipal;
+
+VIII. Realizar la supervisión de las obras de urbanización y edificación, conforme a los lineamientos y periodicidad señalados en el Código Urbano para el Estado, el presente Código y autorizaciones correspondientes;
+
+IX. Tratándose de obras de urbanización, informar quincenalmente a la Secretaría de Desarrollo Urbano Municipal, respecto del avance de las mismas, la calidad de los materiales, obras y servicios realizados, en lo concerniente a la infraestructura y equipamiento hidráulico, sanitario, tratamiento de aguas residuales en su caso, drenaje pluvial o superficial, de pavimentos, guarniciones y banquetas, alumbrado público y electrificación, redes de voz y datos, gas, forestación y jardinería, nomenclatura y señalización vial, así como en lo referente a la compatibilidad de éstas conforme a lo autorizado;
+
+X. Una vez concluida la obra de urbanización, en algunos o en todos los conceptos o servicios indicados en la fracción anterior conforme a lo autorizado, emitir el dictamen total o parcial respectivo, a efecto de tomarse en cuenta por la Secretaría de Desarrollo Urbano Municipal, al momento de expedir el dictamen técnico para la municipalización parcial o total de un fraccionamiento o subdivisión o la entrega de las obras de urbanización a los condóminos;
+
+XI. Respecto de las obras de edificación, informar quincenalmente a la Secretaría de Desarrollo Urbano Municipal, referente al avance de las mismas y la calidad de los materiales, obras y servicios, conforme a lo establecido en el Código Urbano para el Estado, el presente Código y demás disposiciones jurídicas aplicables y en su caso expidiendo el dictamen para que se genere la constancia de terminación de obra;
+
+XII. Registrar sus visitas, anotaciones y observaciones con relación a las obras de urbanización en los fraccionamientos, condominios, desarrollos inmobiliarios especiales, subdivisiones o cualquier obra en el libro de bitácora.
+
+De igual forma, consultar e integrar su actuación, informes, dictámenes y documentación en el Expediente Digital Único respectivo;
+
+XIII. Verificar el cumplimiento del calendario o programa de obras de urbanización y, en su caso, de edificación, reportando por escrito y de inmediato a la Secretaría de Desarrollo Urbano Municipal los retrasos o incumplimientos;
+
+XIV. Verificar la presencia de los residentes de obras y las visitas de los peritos, que deberán hacerse constar en el libro de bitácora;
+
+XV. Coordinar sus funciones con el Perito Responsable de las Obras de Urbanización o Especialista;
+
+XVI. Emitir el reporte conforme a los lineamientos expedidos por la Secretaría de Planeación, Participación y Desarrollo del Estado o la Secretaría de Desarrollo Urbano Municipal, según corresponda, en el que avale la expedición de la autorización de venta de lotes o predios, locales o áreas, tratándose de fraccionamientos, condominios o subdivisiones y de renta en desarrollos inmobiliarios especiales;
+
+XVII. Expedir dictamen conforme a los lineamientos indicados por la Secretaría de Desarrollo Urbano Municipal que justifique la municipalización total o parcial de un fraccionamiento o subdivisión o la entrega total o parcial de las obras de urbanización a la Asamblea General de Condóminos;
+
+XVIII. Suscribir las actas de municipalización de los fraccionamientos y subdivisiones;
+
+XIX. Contar con el personal y equipo necesario para el desarrollo de sus actividades de acuerdo al nivel registrado, domiciliado en el Municipio de Aguascalientes;
+
+XX. Desarrollar sus actividades de supervisión de obras de urbanización de los fraccionamientos, condominios, desarrollos inmobiliarios especiales, subdivisiones y cualquier obra en el Municipio, en términos del contrato de prestación de servicios correspondiente, en el cual se establecerá que la supervisión se realice con estricto apego a lo dispuesto por el Código Urbano para el Estado, el presente Código y demás disposiciones legales aplicables incluyendo las Normas Oficiales Mexicanas, así como las Normas Mexicanas;
+
+XXI. Tratar y resguardar la información técnica y financiera que reciba y procese para el ejercicio de sus actividades, de conformidad con la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, así como las leyes locales de ambas materias;
+
+XXII. Para efecto de suscribir el contrato para la supervisión de obras de urbanización, informar al Municipio los fraccionamientos, condominios, subdivisiones, desarrollos inmobiliarios especiales u obras, que se encuentre supervisando en otros Municipios, incluyendo la superficie correspondiente, a efecto de determinar si tiene o no la capacidad para verificar un nuevo desarrollo; y
+
+XXIII. Las demás determinadas por el Código Urbano para el Estado, el presente Código Municipal, lineamientos emitidos por la Secretaría de Planeación, Participación y Desarrollo del Estado, y la Secretaría de Desarrollo Urbano Municipal y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+ARTÍCULO 112 QUATER.- La Secretaría de Desarrollo Urbano Municipal llevará un registro actualizado de las Unidades Externas de Supervisión; para tal efecto, dichas Unidades deberán cumplir con los siguientes requisitos:
+
+I. Ser una empresa constituida conforme a las leyes mexicanas, debidamente inscrita ante el Registro Público de la Propiedad y del Comercio del Estado;
+
+II. Encontrarse al corriente el pago de sus obligaciones fiscales federales, estatales y municipales;
+
+III. Tener representación legal en el Estado de Aguascalientes y señalar un domicilio en el Municipio;
+
+IV. Solicitar su registro ante la Secretaría de Desarrollo Urbano Municipal en el formato que ésta emita; y
+
+V. Adjuntar a la solicitud de registro a que se refiere la fracción anterior, la siguiente documentación:
+
+a) Original y copia simple para su cotejo del certificado vigente expedido por la instancia pública o privada acreditada para ello en términos de la Ley de Infraestructura de la Calidad; y
+
+b) Original y copia simple para su cotejo de la documentación que acredite experiencia en el ramo y que respalde su capacidad de supervisión a efecto de determinar su nivel de clasificación en términos de lo dispuesto en el Código Municipal.
+
+La Secretaría de Desarrollo Urbano Municipal analizará la solicitud y emitirá una resolución de registro en un término de diez días hábiles siguientes al momento en que quede conformado el expediente en su totalidad.
+
+La Secretaría de Desarrollo Urbano Municipal podrá requerir fundada y motivadamente a la solicitante la exhibición de información o documentación adicional necesaria para la conformación del expediente. En lo no contemplado en la presente sección, aplicará el libro noveno de este Código y la Ley del Procedimiento Administrativo del Estado de Aguascalientes, en ese orden.
+
+La Secretaría de Desarrollo Urbano Municipal emitirá refrendo del registro a la Unidad Externa de Supervisión con el mismo procedimiento para su registro inicial. El refrendo se emitirá cada vez que la Unidad Externa de Supervisión renueve su certificación ante la instancia pública o privada acreditada para ello en términos de la Ley de Infraestructura de la Calidad. En la solicitud de refrendo, la Unidad Externa de Supervisión, podrá solicitar su reclasificación de nivel en términos de lo señalado en el siguiente párrafo.
+
+La Secretaría de Desarrollo Urbano Municipal clasificará el registro a que se refiere el presente artículo de acuerdo al nivel de capacidad de atención de las Unidades Externas de Supervisión, conforme a los siguientes criterios:
+
+I. NIVEL 1: Unidades Externas de Supervisión con capacidad para supervisar fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones de 1 a 90,000 metros cuadrados de superficie de urbanización; para aquellas Unidades Externas de Supervisión que cuenten con un mínimo de 2 supervisores;
+
+II. NIVEL 2: Unidades Externas de Supervisión con capacidad para supervisar fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones de 90,001 a 225,000 metros cuadrados de superficie de urbanización; para aquellas Unidades Externas de Supervisión que cuenten con un mínimo de 5 supervisores;
+
+III. NIVEL 3: Unidades Externas de Supervisión con capacidad para supervisar fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones de 225,001 a 450,000 metros cuadrados de superficie de urbanización; para aquellas Unidades Externas de Supervisión que cuenten con un mínimo de 7 supervisores; y
+
+IV. NIVEL 4: Unidades Externas de Supervisión con capacidad para supervisar fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones de 450,001 metros cuadrados de superficie de urbanización en adelante, para aquellas Unidades Externas de Supervisión que cuenten con un mínimo de 10 supervisores.
+
+Dentro de los 5 días naturales siguientes a que la Secretaría de Planeación, Participación y Desarrollo del Estado o la Secretaría de Desarrollo Urbano Municipal, según corresponda, emitan a favor del fraccionador o promotor el oficio de autorización de inicio de las obras de urbanización en términos de lo dispuesto por el Código Urbano para el Estado, la Secretaría de Desarrollo Urbano realizará la asignación de Unidad Externa de Supervisión bajo el siguiente procedimiento:
+
+I. A partir de los metros cuadrados de superficie de la etapa de urbanización correspondiente al fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión, clasificará el nivel de Unidad Externa de Supervisión que habrá de supervisarla en términos de lo dispuesto por el presente artículo;
+
+II. La Secretaría de Desarrollo Urbano Municipal efectuará la asignación de la Unidad Externa de Supervisión de entre las unidades que se encuentren debidamente registradas dentro del nivel de supervisión correspondiente, bajo criterios aleatorios que aseguren la participación de todas las Unidades Externas de Supervisión que no hayan sido objeto de penalización o sanción en el último año y de acuerdo a su nivel, garantizando la equidad y transparencia de los procesos de selección, para garantizar la prestación óptima de los servicios de supervisión; y
+
+III. Tomar en consideración el número de fraccionamientos, condominios, desarrollos inmobiliarios especiales, subdivisiones u obras, que la Unidad Externa de Supervisión respectiva, se encuentre supervisando en el Municipio de Aguascalientes, u otros Municipios, conforme a la información que esta misma le proporcione a la Secretaría de Desarrollo Urbano Municipal.
+
+La Secretaría de Desarrollo Urbano Municipal, al realizar la asignación a la Unidad Externa de Supervisión, le entregará de manera digital a esta última la documentación señalada en el artículo 398 del Código Urbano para el Estado.
+
+La Secretaría de Desarrollo Urbano Municipal, con el apoyo de la Secretaría de Administración del Municipio, implementará un sistema informático que garantice la participación equitativa y transparente de las Unidades Externas de Supervisión a que se refiere el artículo anterior; dicho sistema deberá apegarse a las características y requerimientos que defina la Secretaría de Desarrollo Urbano Municipal.
+
+La Secretaría de Desarrollo Urbano Municipal en conjunto con la Secretaría de Administración, emitirán un Manual de Operación del Sistema Informático referido en el párrafo anterior.
+
+La Secretaría de Desarrollo Urbano Municipal ejercerá las siguientes medidas de control y evaluación a las Unidades Externas de Supervisión:
+
+I. Recibir y analizar los reportes de avances de las Unidades Externas de Supervisión;
+
+II. Requerir a las Unidades Externas de Supervisión informes adicionales de sus actividades; y
+
+III. Hacer verificaciones aleatorias a las obras de urbanización de los fraccionamientos, condominios, desarrollos inmobiliarios espaciales, subdivisiones o cualquier obra para comprobar que los reportes de las Unidades Externas de Supervisión sean verídicos.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+SUBSECCIÓN TERCERA
+
+De la Contratación de las Unidades Externas de Supervisión
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+ARTÍCULO 112 QUINQUIES.- La Secretaría de Desarrollo Urbano Municipal con la intervención que le corresponda a la Secretaría de Administración, celebrará contrato para la prestación de los servicios para la supervisión de las obras de urbanización del fraccionamiento, condominio, desarrollo inmobiliario especial, subdivisión o cualquier obra correspondiente, con la Unidad Externa de Supervisión que resulte asignada.
+
+El contrato deberá realizarse en términos del Reglamento de Adquisiciones, Arrendamientos y Servicios del Municipio de Aguascalientes y demás legislación aplicable, y contemplar al menos los siguientes derechos y obligaciones:
+
+I. Fundamentos legales;
+
+II. Los antecedentes que comprueben el registro vigente de la Unidad Externa de Supervisión;
+
+III. La justificación de excepción de licitación pública en la contratación del servicio, por tratarse de un servicio exclusivo que solamente pueden prestar las empresas que cuenten con registro vigente;
+
+IV. Declaraciones de las partes; y
+
+V. Cláusulas contemplando lo siguiente:
+
+a) Objeto del contrato;
+
+b) El precio pactado por los servicios prestados por la Unidad Externa de Supervisión, conforme a lo establecido en el presupuesto de egresos del municipio para el ejercicio fiscal correspondiente;
+
+c) El mecanismo de autorización de pago por parte del Municipio a favor de las Unidades Externas de Supervisión, por los servicios prestados de acuerdo con los avances de la misma;
+
+d) La obligación de las Unidades Externas de Supervisión de adherirse a las obligaciones contempladas en el presente Código Municipal;
+
+e) La Obligación de las Unidades Externas de Supervisión de realizar la supervisión en términos del Código Urbano para el Estado y el presente Código Municipal;
+
+f) Los mecanismos y metodologías para la comunicación, seguimiento y evaluación;
+
+g) Las sanciones y penas convencionales aplicables a las Unidades Externas de Supervisión como consecuencia del incumplimiento de sus obligaciones;
+
+h) Las formas de terminación anticipada por caso fortuito, fuerza mayor o falta de presupuesto;
+
+i) Estipulaciones para el caso de controversia en la interpretación o aplicación del instrumento;
+
+j) Estipulaciones Finales; y
+
+k) Otras que establezca el Reglamento de Adquisiciones, Arrendamientos y Servicios del Municipio de Aguascalientes.
+
+En caso de que la Unidad Externa de Supervisión asignada no firme el contrato de prestación de servicios o el mismo se dé por terminado o rescindido, se volverá a realizar el procedimiento de asignación en términos de lo establecido en (sic) presente Código Municipal y el Reglamento de Adquisiciones, Arrendamientos y Servicios del Municipio de Aguascalientes, excluyendo a la Unidad Externa de Supervisión que se haya negado a signar el contrato de prestación de servicios o que le haya sido terminado o rescindido el contrato por causa imputable a ella.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+SUBSECCIÓN CUARTA
+
+Del Pago a las Unidades Externas de Supervisión
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+ARTÍCULO 112 SEXIES.- Formalizada la contratación y presentado el supuesto para el pago a la Unidad Externa de Supervisión correspondiente, la misma iniciará los trámites de pago ante la Secretaría de Desarrollo Urbano Municipal mediante la presentación de la factura correspondiente, acompañada de un informe de avance de obra de urbanización y del cumplimiento de las obligaciones a su cargo.
+
+La Secretaría de Desarrollo Urbano Municipal autorizará el pago a las Unidades Externas de Supervisión en proporción a las semanas correspondientes y/o al avance físico de urbanización registrado. Las semanas y/o el avance físico de urbanización lo determinará la Secretaría de Desarrollo Urbano Municipal a partir de los reportes e informes que emitan en tiempo y forma las propias Unidades Externas de Supervisión, de las anotaciones en (sic) bitácora por parte de los peritos responsables y de las verificaciones aleatorias que realice la misma Secretaría de Desarrollo Urbano Municipal, así como la información incorporada al Expediente Digital Único.
+
+Los reportes e informes que rindan las Unidades Externas de Supervisión deberán reunir las características y contenido que hubiera determinado la Secretaría de Desarrollo Urbano Municipal.
+
+Una vez determinadas las semanas de verificación y/o el porcentaje de avance físico de la obra, la Secretaría de Desarrollo Urbano Municipal autorizará el pago a la Unidad Externa de Supervisión en la proporción que corresponda, elaborando para ello el documento maestro correspondiente y sus anexos, los cuales remitirá a la Secretaría de Administración y a la Secretaría de Finanzas Públicas Municipales, para su trámite y pago con cargo al presupuesto de la Secretaría de Desarrollo Urbano Municipal.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+SUBSECCIÓN QUINTA
+
+De la Coordinación
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+ARTÍCULO 112 SEPTIES.- La Secretaría de Desarrollo Urbano Municipal propondrá al Presidente o Presidenta Municipal la celebración de acuerdos de colaboración y coordinación con otros Municipios del Estado, particularmente con los de la zona conurbana y con la participación de la Secretaría de Planeación, Participación y Desarrollo del Estado, para mejorar los procesos de supervisión única en los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones, a través de Unidades Externas de Supervisión.
+
+La supervisión única que se realice a las obras de urbanización de los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones por parte de las Unidades Externas de Supervisión, constará de las partes que establece el artículo 403 del Código Urbano para el Estado de Aguascalientes.
+
+Los acuerdos de coordinación celebrados con otros Municipios del Estado contemplarán la comunicación e interconexión de los sistemas informáticos y procesos de verificación de la ejecución de las obras de urbanización y edificación, para lo cual las partes podrán compartir plataformas, accesos a sus respectivos sistemas, así como las bases de datos.
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -3210,8 +3432,6 @@ CAPITULO (SIC) DÉCIMO CUARTO
 De la Secretaría de Servicios Públicos
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
-
-#### SECCIÓN PRIMERA. Programa de Formación Policíaca
 
 ###### ARTÍCULO 113.
 
@@ -24794,3 +25014,11 @@ P.O. 19 DE JUNIO DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Se Derogan las damas disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DE AGUASCALIENTES A FIN DE ARMONIZAR LAS FACULTADES DE LA SECRETARÍA DE DESARROLLO URBANO MUNICIPAL, LA REGULACIÓN DE LAS UNIDADES EXTERNAS DE SUPERVISIÓN Y LA DENOMINACIÓN DEL CONSEJO MUNICIPAL DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO, CON LO PREVISTO EN EL CÓDIGO URBANO DEL ESTADO”.]
+
+PRIMERO.- La presentes reformas, adiciones y derogaciones iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las referencias al Comité de Desarrollo Urbano y Rural contenidas en (sic) disposiciones administrativas de este Municipio, se entenderán realizadas al Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano.
