@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2023-06-19"
+last_updated: "2023-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,51 +23,23 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE AGUASCALIENTES, AGUASCALIENTES
 
-CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2000.
+CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2023.
 
-JOSE MORANTE, Gobernador Provisional del Estado libre y soberano de Tamaulipas, a todos sus habitantes, sabed:
+Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
-Que el H. Congreso del Estado ha decretado lo siguiente:
+C.P. MARTÍN OROZCO SANDOVAL, Presidente Municipal de Aguascalientes, en ejercicio de las facultades contenidas en los Artículos 16, 38, fracciones I y II de la Ley Municipal para el Estado de Aguascalientes; y las demás propias de su cargo, a los habitantes del Municipio de Aguascalientes hace saber que el Honorable Ayuntamiento ha tenido a bien aprobar y consecuentemente expedir el:
 
-"La XXVII Legislatura del Estado con su carácter de Constituyente, ha tenido a bien expedir la siguiente
-
-CONSTITUCION POLITICA
-
-DEL
-
-ESTADO DE TAMAULIPAS
+CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO I. Condición Política y Territorio
+### CAPÍTULO I. División Territorial del Municipio de Aguascalientes
 
-###### Art. 1o.
-
-El Estado de Tamaulipas es libre, soberano e independiente en cuanto a su Gobierno y administración interiores; pero está ligado a los Poderes de la Unión como parte integrante de los Estados Unidos Mexicanos, en todo aquello que fija expresamente la Constitución General y las leyes que de ella emanan.
-
-###### Art. 2o.
-
-El territorio del Estado comprende la antigua Provincia llamada Nuevo Santander, con las limitaciones que le hizo el Tratado de Guadalupe.
-
-###### Art. 3o.
-
-El Estado se divide en Distritos Electorales, Distritos Judiciales y Municipios. Las leyes secundarias respectivas determinarán la extensión de cada Distrito y la organización del Municipio conforme a las bases que la Constitución General establece.
-
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 1989)</small>
-
-Los Municipios del Estado son los siguientes: Abasolo, Aldama, Altamira, Antiguo Morelos, Burgos, Bustamante, Camargo, Casas, Ciudad Madero, Cruillas, El Mante, Gómez Farías, González, Güémez, Guerrero, Gustavo Díaz Ordaz, Hidalgo, Jaumave, Jiménez, Llera, Mainero, Matamoros, Méndez, Mier, Miguel Alemán, Miquihuana, Nuevo Laredo, Nuevo Morelos, Ocampo, Padilla, Palmillas, Reynosa, Río Bravo, San Carlos, San Fernando, San Nicolás, Soto la Marina, Tampico, Tula, Valle Hermoso, Victoria, Villagrán y Xicoténcatl.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-###### Art. 4o.
-
-El Estado adopta para su régimen interior la forma de Gobierno Republicano, Representativo y Popular, tomando como base de su organización política y administrativa el Municipio Libre, en los términos que establezca el Código Municipal.
-
-El Estado y los Municipios podrán celebrar, en el ámbito de su competencia, convenios y acuerdos con la Federación, y entre sí, para la planeación, coordinación y ejecución de los programas de desarrollo económico y social.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 1°.
 
@@ -95,17 +67,9 @@ La información sobre la conformación territorial de las delegaciones deberá s
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE OCTUBRE DE 2012)</small>
 
-### CAPITULO II. De los tamaulipecos
+### CAPÍTULO II. Del Nombre Oficial y Escudo de Armas del Municipio
 
-###### Art. 5o.
-
-Son tamaulipecos:
-
-I. Los mexicanos nacidos dentro del territorio del Estado.
-
-II. Los mexicanos que adquieran vecindad en cualquier lugar del Estado, si no manifiestan ante la autoridad municipal respectiva su deseo de conservar su anterior origen.
-
-III. Los hijos de padres tamaulipecos nacidos fuera del territorio del Estado y que al llegar a la mayor edad manifiesten al Congreso Local su deseo de tener la condición de tamaulipecos.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 4°.
 
@@ -177,81 +141,9 @@ Las características, uso, difusión, reproducción e interpretación del Escudo
 
 BIS.- Queda prohibido el uso y reproducción de blasones heráldicos y sellos distintos al establecido en el presente Código Municipal, así como cualquier supresión y/o añadidura de figuras o elementos heráldicos y/o gráficos que rompan con la estética y armonía del mismo. Asimismo, queda prohibida cualquier alteración morfológica y/o añadidura de palabras distintas a las instituidas como nombre oficial del H. Ayuntamiento.
 
-### CAPITULO III. De los Ciudadanos
+### CAPÍTULO III. Fines del Municipio
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1970)</small>
-
-###### Art. 6o.
-
-Son Ciudadanos del Estado, los varones y mujeres que, teniendo la calidad de Tamaulipecos, reúnan además, los siguientes requisitos:
-
-I.- Haber cumplido 18 años, y
-
-II.- Tener un modo honesto de vivir.
-
-###### Art. 7o.
-
-Son derechos de los ciudadanos tamaulipecos:
-
-I. Sufragar en todas las elecciones de autoridades del Estado y de su respectiva Municipalidad.
-
-II. Poder ser electos para todos los cargos públicos, siempre que reúnan las condiciones que en cada caso exija la ley.
-
-III. Ser nombrado para cualquier empleo o comisión oficiales, en la forma y términos que prescriben las leyes, con preferencia en igualdad de circunstancias a los que no fueren tamaulipecos.
-
-IV. Reunirse para tratar y discutir los negocios públicos.
-
-V. Ejercer en materias políticas el derecho de petición.
-
-###### Art. 8o.
-
-Son obligaciones de los ciudadanos del Estado:
-
-I. Votar en las elecciones populares en la forma que disponga la ley.
-
-II. Desempeñar los cargos de elección popular y los concejiles para que fuere nombrado conforme a la ley, salvo excusa legítima.
-
-III. Alistarse en la Guardia Nacional.
-
-IV. Alistarse en los Cuerpos de Policía Rural del Estado para defender su territorio y su soberanía, y para sostener su Constitución, sus leyes y autoridad.
-
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 1986)</small>
-
-V. Inscribirse en el padrón de su municipalidad, manifestando la propiedad que tiene, o la industria, profesión o trabajo de que subsiste; los profesionistas además se inscribirán en el padrón que al efecto llevará la Secretaría General de Gobierno.
-
-###### Art. 9o.
-
-Los derechos de ciudadanos tamaulipecos se suspenden:
-
-I. Por incapacidad declarada legalmente.
-
-II. Por estar procesado. La suspensión produce efectos desde el momento en que se notifique el auto de formal prisión o desde que se declare que hay lugar para la formación de causa, tratándose de funcionarios que gocen de fuero constitucional.
-
-III. Por falta de cumplimiento sin causa justificada, de las obligaciones impuestas por el artículo anterior. Esta suspensión durará un año y se impondrá sin perjuicio de las otras penas que para la misma falta señale la ley .
-
-IV. Por sentencia judicial.
-
-V. Por ser vago, ebrio consuetudinario o tahur de profesión.
-
-VI. En los casos de suspensión de la ciudadanía mexicana.
-
-###### Art. 10.
-
-Los derechos de ciudadano tamaulipeco se pierden:
-
-I. En los casos de pérdida de la ciudadanía mexicana.
-
-II. Por adquirir la ciudadanía de otro Estado, salvo cuando sea concedida a título honorífico.
-
-III. Por sentencia judicial.
-
-###### Art. 11.
-
-La calidad de ciudadano se recobra por haber cesado la causa que dio motivo a la suspensión.
-
-###### Art. 12.
-
-Las leyes determinarán a qué autoridad corresponde decretar la suspensión, pérdida o recuperación de los derechos de los ciudadanos, y en qué términos y con qué requisitos ha de dictarse el fallo respectivo y el tiempo que debe durar la pena.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTÍCULO 6°.
 
@@ -357,29 +249,7 @@ II. Sistema Municipal de prevención, atención, sanción y erradicación de la 
 
 En dichos sistemas participaran los entes de la administración pública municipal que se determinen.
 
-### CAPITULO IV. De los vecinos
-
-###### Art. 13.
-
-Son vecinos los que residen de una manera habitual y constante en el territorio del Estado durante seis meses, ejerciendo alguna profesión, arte, oficio o industria, o durante dos si adquieren bienes raíces.
-
-###### Art. 14.
-
-La vecindad se pierde:
-
-I. Por dejar de residir habitualmente más de seis meses dentro de su territorio.
-
-II. Desde el momento de separarse del territorio del Estado, siempre que se manifieste que va a cambiarse de residencia, o que de cualquier otro modo se pruebe la intención de cambiarla.
-
-###### Art. 15.
-
-La vecindad no se pierde:
-
-I. Por ausencia en virtud de comisión del servicio público de la Federación, del Estado o de algún Municipio de este.
-
-II. Por ausencia con motivo de persecuciones políticas, si el hecho que las origina no implica al mismo tiempo la comisión de un delito del orden común.
-
-III. Por ausencia con ocasión de estudios o comisiones científicas o artísticas.
+### CAPÍTULO IV. De la Población
 
 ###### ARTÍCULO 7°.
 
@@ -421,7 +291,7 @@ Lo cual también resulta aplicable para el caso de las personas que acrediten me
 
 # LIBRO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
-## TITULO I. DEL ESTADO Y SUS HABITANTES
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 11.
 
@@ -439,55 +309,9 @@ El Presidente Municipal, Regidores y Síndicos integran el H. Ayuntamiento del M
 
 Corresponde a los integrantes del H. Ayuntamiento, la facultad de supervisar y vigilar preferentemente las dependencias a cargo de las Comisiones, permanentes o especiales que se les asignen, pudiendo en todo momento requerir al titular de aquellas, la información necesaria para el debido cumplimiento de sus funciones.
 
-### CAPITULO V. De los habitantes
+### CAPÍTULO I. De las Autoridades Municipales
 
-###### Art. 16.
-
-Son habitantes del Estado todas las personas que residen en su territorio, sea cual fuere su estado y condición.
-
-###### Art. 17.
-
-El Estado reconoce a sus habitantes:
-
-I. La inviolabilidad de la propiedad, la cual no podrá ser ocupada sino por causa de utilidad pública y previa indemnización.
-
-II. La libertad de asociarse o reunirse con cualquier objeto lícito, pero en asuntos políticos es exclusiva de los ciudadanos tamaulipecos en los términos que establece la Constitución General de la República.
-
-III. Los derechos que la Constitución General expresa bajo el título de "Garantías Individuales".
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 1986)</small>
-
-###### Art. 18.
-
-Todos los habitantes del Estado estarán obligados:
-
-I. A respetar y cumplir las leyes, disposiciones y reglamentos expedidos por autoridad legítima con arreglo a sus facultades legales. Nadie podrá, para sustraerse de propia autoridad a la observancia de los preceptos legales, alegar que los ignora, que son notoriamente injustos o que pugnan con sus opiniones.
-
-II. A contribuir para todos los gastos públicos de la manera proporcional y equitativa que dispongan las leyes, quedando en todo caso prohibidos los impuestos de carácter meramente personal.
-
-III. A prestar auxilio a las autoridades, cuando para ello sean legalmente requeridos.
-
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 1986)</small>
-
-IV. A recibir la educación básica-preescolar, primaria y secundaria, en la forma prevenida por las leyes y conforme los planes, programas y reglamentos que se expidan por las autoridades educativas;
-
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 1986)</small>
-
-V. Hacer que sus hijos, pupilos y menores que por cualquier título tengan a su cuidado, reciban la educación básica con arreglo a lo prescrito en la fracción anterior;
-
-VI. Asistir los días y horas designados por el Ayuntamiento del Municipio en que residan, para recibir la instrucción cívica y militar que los mantenga aptos en el ejercicio de todos sus derechos de ciudadano, y diestros en el manejo de las armas y conocedores de la disciplina militar.
-
-VII. Tomar las armas en defensa del pueblo en que vivan cuanto este fuere amagado por partidas de malhechores, acatando las disposiciones que al efecto emanen de la autoridad local.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-###### Art. 19.
-
-A nadie podrá obligársele a que pague un impuesto que no haya sido previamente decretado por el Congreso.
-
-La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiese impuesto, se permitirá hasta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
-
-Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 14.
 
@@ -523,7 +347,9 @@ III. Consejo Municipal de Protección Civil.
 
 IV. Comités de Concertación y Participación Social.
 
-V. Comité de Desarrollo Urbano y Rural.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+V. Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano.
 
 VI. Comité de Planeación para el Desarrollo Municipal (COPLADEMUN).
 
@@ -603,11 +429,7 @@ XXXI. Consejo para la Igualdad Sustantiva en Materia Laboral;
 
 XXXII. Consejo Consultivo del Agua Potable, Alcantarillado y Saneamiento; y
 
-> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICO A LA FRACCIÓN XXXV.]</small>
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE ENERO DE 2021)</small>
-
-XXXIII. Aquellos Comités o Consejos Ciudadanos que el Cabildo apruebe establecer en las áreas que considere convenientes.
+XXXIII. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2023)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2021)</small>
 
@@ -619,107 +441,9 @@ XXXIV. Consejo Consultivo de Desarrollo Social; y
 
 XXXV. Aquellos Comités o Consejos Ciudadanos que el Cabildo apruebe establecer en las áreas que considere convenientes.
 
-### CAPITULO UNICO
+### CAPÍTULO II. De las Funciones de las Autoridades Municipales
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
-
-###### Art. 20.
-
-La Soberanía del Estado reside en el pueblo y éste la ejerce a través del Poder Público del modo y en los términos que establecen la Constitución Política de los Estados Unidos Mexicanos y esta Constitución. El Estado no reconoce en los Poderes Supremos de la Unión, ni en otro alguno, derecho para pactar o convenir entre ellos o con Nación extraña, aquello que lesione la integridad de su territorio, su nacionalidad, soberanía, libertad e independencia, salvo los supuestos a que se refiere la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 1997)</small>
-
-Las elecciones del Gobernador, de los Diputados y de los integrantes de los Ayuntamientos del Estado se realizarán mediante sufragio universal, libre, secreto y directo; éstas serán libres, auténticas y periódicas, y se desarrollarán conforme a las siguientes bases:
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE FEBRERO DE 1997)</small>
-
-I.- Los partidos políticos son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación Estatal y Municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
-
-La ley determinará las formas específicas de su participación en los procesos electorales, sus derechos, prerrogativas y reglas de financiamiento, los partidos políticos deberán rendir informes financieros, mismos que serán públicos.
-
-De acuerdo con las disponibilidades presupuestales, los partidos políticos recibirán, en forma equitativa, financiamiento público para su sostenimiento y para que durante los procesos electorales cuenten con apoyos para sus actividades tendientes a la obtención del sufragio universal. La Ley fijará los criterios para determinar los límites a las erogaciones de sus campañas electorales, así como los montos máximos que tengan las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten.
-
-La Ley propiciará condiciones de equidad para el acceso de los partidos políticos a los medios de comunicación social propiedad del Estado, y establecerá las sanciones por el incumplimiento a las disposiciones que se expidan en las materias señaladas en este párrafo y el anterior.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA] PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 1997)</small>
-
-II.- La organización de las elecciones, es una función estatal que se realiza a través de un Organismo Público Autónomo, de los partidos políticos y de los ciudadanos según lo disponga la Ley. El Organismo Público será autónomo en su funcionamiento e independiente en sus decisiones dotado de personalidad jurídica, patrimonio propio y facultad reglamentaria.
-
-La certeza, legalidad, independencia, imparcialidad, definitividad, equidad, objetividad y profesionalismo serán principios rectores en el ejercicio de esta función estatal.
-
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1997)</small>
-
-El Organismo Público autónomo será autoridad en la materia y profesional en su desempeño; se estructurará con órganos de dirección, ejecutivos, técnicos y de vigilancia.
-
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1997)</small>
-
-La Ley establecerá los requisitos mínimos que deberán reunir los funcionarios del Organismo Público Autónomo, para garantizar la eficacia del principio de imparcialidad, que conforme al segundo párrafo de esta fracción es propio de la función electoral.
-
-> <small>(REFORMADO, P.O.25 DE OCTUBRE DE 1997)</small>
-
-El órgano de dirección, jerárquicamente superior, se integrará por Consejeros Electorales, representantes de los partidos políticos, un Secretario y un representante del Registro Federal de Electores. Todos tendrán derecho a voz, pero solo los Consejeros Electorales derecho a voto. Los órganos ejecutivos y técnicos dispondrán del personal calificado, estrictamente necesario, para prestar el servicio profesional electoral. Las mesas directivas de casillas estarán integradas por ciudadanos que serán insaculados del padrón electoral.
-
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
-
-Los Consejos Electorales del órgano de dirección, serán designados por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por los partidos políticos nacionales o estatales con registro vigente. La Ley establecerá las reglas, requisitos y procedimientos para su designación.
-
-El Organismo Público Autónomo encargado de la organización de los procesos electorales, podrá celebrar convenios con la autoridad federal competente, para disponer de la infraestructura y apoyos necesarios para el cumplimiento de sus funciones, en los términos que determine la Ley.
-
-> <small>(REFORMADO, P.O.25 DE OCTUBRE DE 1997)</small>
-
-El Organismo Público Autónomo, en ejercicio de la función estatal electoral:
-
-> <small>(ADICIONADO, P.O.25 DE OCTUBRE DE 1997)</small>
-
-a).- Declarará la validez de las elecciones y expedirá las constancias de mayoría de Gobernador del Estado, de Diputados según el principio de mayoría relativa y de Ayuntamientos;
-
-> <small>(ADICIONADO, P.O.25 DE OCTUBRE DE 1997)</small>
-
-b).- Declarará la validez de la elección y expedirá las constancias de asignación de las Diputaciones según el principio de representación proporcional;
-
-> <small>(ADICIONADO, P.O.25 DE OCTUBRE DE 1997)</small>
-
-c).- Expedirá las constancias de asignación de Regidurías según el principio de representación proporcional; y
-
-> <small>(ADICIONADO, P.O.25 DE OCTUBRE DE 1997)</small>
-
-d).- Declarará Gobernador electo al ciudadano que hubiese obtenido el mayor número de votos.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE FEBRERO DE 1997)</small>
-
-III.- La Ley establecerá un sistema de medios de impugnación para garantizar la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, y que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad; y fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, incluyendo la establecida en la fracción IV del Artículo 99 de la Constitución Política de los Estados Unidos Mexicanos, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales. Del sistema de medios de impugnación conocerán, según la competencia, el Organismo Público Autónomo a que se refiere este Artículo y el Tribunal Estatal Electoral.
-
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2000)</small>
-
-IV.- El Tribunal Estatal Electoral es el Organo Autónomo en su funcionamiento, con independencia en sus decisiones, y máxima autoridad jurisdiccional electoral, conformado por salas unitarias numerarias y una presidencia; se integrará con 4 Magistrados numerarios y uno supernumerario, mismos que serán designados por las dos terceras partes de los Diputados, a propuesta de los partidos políticos representados en el Congreso del Estado, y del Supremo Tribunal de Justicia del Estado; su funcionamiento y organización estarán previstos en la Ley.
-
-> <small>(REFORMADO, P.O.25 DE OCTUBRE DE 1997)</small>
-
-El Tribunal Estatal Electoral tendrá competencia para resolver en una sola instancia, en forma definitiva y firme, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral, las impugnaciones de actos y resoluciones que violen los derechos político electorales de los ciudadanos de votar, ser votado y de afiliación libre y pacífica para tomar parte en los asuntos políticos del Estado, y las diferencias laborales que se presenten entre las autoridades electorales y sus servidores públicos.
-
-Para el ejercicio de su competencia, el Tribunal Estatal Electoral contará con Magistrados, Jueces instructores y demás personal que requiera.
-
-Los Magistrados del Tribunal Estatal Electoral, deberán satisfacer los mismos requisitos que esta Constitución señala para ser Magistrado del Supremo Tribunal de Justicia en el Estado.
-
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
-
-El Pleno del Tribunal Estatal Electoral será competente para resolver en única Instancia el recurso de inconformidad que se interponga contra la elección de Gobernador. En esta misma vía, ante las salas unitarias numerarias, se interpondrá también recurso de inconformidad contra la declaratoria de validez de las elecciones de Diputados y Ayuntamientos y contra la expedición de la constancia de mayoría y de asignación que, en cada caso, emitan las autoridades electorales competentes en los términos de la Ley.
-
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
-
-La Ley garantizará que los Consejeros Electorales que integrarán el Organismo Público Autónomo, a que se refiere este Artículo, y los Magistrados del Tribunal Estatal Electoral, no tengan antecedentes de dirigencia partidaria, en los 3 años inmediatos anteriores a la designación.
-
-> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
-
-V.- En el Código Penal se tipificarán los delitos, y en la Ley las faltas, en materia electoral; en ambos se establecerán las sanciones respectivas.
-
-###### Art. 21.
-
-El Estado adopta la forma de Gobierno establecida en el artículo 4º de esta Constitución.
-
-###### Art. 22.
-
-El Poder Público se divide para su ejercicio en Legislativo, Ejecutivo y Judicial. No podrán reunirse dos o más poderes en una Corporación o persona, ni depositarse el Legislativo en un solo individuo.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 16.
 
@@ -815,17 +539,7 @@ VIII. Dar seguimiento a los acuerdos turnados e informar al Cabildo de su cumpli
 
 IX. Las demás que le otorgue la Ley que en materia municipal expida el Poder Legislativo del Estado y el presente Código.
 
-### CAPITULO UNICO. De la residencia de los Poderes
-
-###### Art. 23.
-
-Los Poderes del Estado residirán en Ciudad Victoria.
-
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
-
-###### Art. 24.
-
-La residencia de los Poderes únicamente podrá cambiarse por resolución del Congreso aprobada por lo menos por las dos terceras partes de sus miembros.
+### CAPÍTULO III. De la Instalación del H. Ayuntamiento
 
 ###### ARTÍCULO 20.
 
@@ -859,169 +573,9 @@ V. Por último el Presidente Municipal podrá dar a conocer los lineamientos gen
 
 Al término de la ceremonia de instalación el Presidente Municipal saliente, hará entrega al Ayuntamiento electo, de todos los documentos que contenga el archivo, así como de los muebles, enseres y demás bienes que constituyan el patrimonio y hacienda municipal, en la forma y términos que establece la Ley Municipal para el Estado de Aguascalientes.
 
-### CAPITULO I. De la organización del Congreso
+### CAPÍTULO IV. De las Sesiones del Cabildo
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
-
-###### Art. 25.
-
-El ejercicio de las funciones propias del Poder Legislativo se encomienda a una Asamblea que se denominará "Congreso del Estado Libre y Soberano de Tamaulipas". Los Diputados al Congreso serán electos en su totalidad cada tres años. Por cada Diputado Propietario se elegirá un Suplente.
-
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 1997)</small>
-
-Las Legislaturas del Estado se integrarán con diputados elegidos según los principios de mayoría relativa y de representación proporcional, en los términos que señale la Ley.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
-
-###### Art. 26.
-
-El Congreso del Estado se integrará por 19 Diputados electos según el principio de votación Mayoritaria Relativa, mediante el sistema de Distritos Electorales Uninominales, y con 13 Diputados que serán electos según el principio de Representación Proporcional y el sistema de listas estatales, votadas en la circunscripción plurinominal que constituye la Entidad.
-
-Al partido político que haya obtenido las dos terceras partes o más de las constancias de Mayoría Relativa, se le asignarán Diputados de Representación Proporcional hasta alcanzar el máximo establecido en el Artículo siguiente.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 1997)</small>
-
-###### Art. 27.
-
-La asignación de los 13 Diputados Electos según el principio de Representación Proporcional y el sistema de asignación por listas estatales, se sujetará a las siguientes bases y a lo que disponga la Ley:
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
-
-I.- Un partido político, para obtener el registro de sus listas estatales, deberá acreditar que participa con candidatos a Diputados por el principio de Mayoría Relativa en por lo menos las dos terceras partes de los Distritos Electorales Uninominales;
-
-II.- (DEROGADA, P.O. 20 DE OCTUBRE DE 2000)
-
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 20 DE OCTUBRE DE 2000)</small>
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
-
-III.- A todos los partidos políticos que hayan obtenido por lo menos el 1.5% del total de la votación estatal emitida, se les asignará una Diputación; y
-
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2000)</small>
-
-IV.- Para la asignación de las Diputaciones de Representación Proporcional que resten, después de deducidas las utilizadas en el caso de la fracción III, se estará a las reglas y fórmulas que la Ley establezca para tales efectos.
-
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
-
-En ningún caso un partido político podrá contar con más de 19 Diputados por ambos principios.
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
-
-Los Diputados electos según el principio de Representación Proporcional se asignarán en el orden de que fueron registrados en las listas estatales de cada partido político.
-
-###### Art. 28.
-
-(DEROGADO, P.O. 25 DE OCTUBRE DE 1997)
-
-(REUBICADO [N. DE E. ANTES ARTICULO 28], P.O. 9 DE SEPTIEMBRE DE 1978)
-
-###### Art. 29.
-
-Para ser Diputado Propietario o Suplente, se requiere:
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
-
-I.- Ser mexicano por nacimiento, en pleno goce de sus derechos.
-
-II.- Ser Ciudadano del Estado, en ejercicio de sus derechos, nacido en el Estado o vecino con residencia en él por más de cinco años.
-
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 1980)</small>
-
-III.- Tener veintiún años cumplidos el día de la elección.
-
-IV.- Poseer suficiente instrucción.
-
-> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 1997)</small>
-
-V.- Los demás señalamientos que contenga el Código Electoral para el Estado de Tamaulipas.
-
-(REUBICADO [N. DE E. ANTES ARTICULO 29], P.O. 9 DE SEPTIEMBRE DE 1978)
-
-###### Art. 30.
-
-No pueden ser electos Diputados:
-
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1989)</small>
-
-I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Supremo Tribunal de Justicia, el Procurador General de Justicia, el Magistrado del Tribunal Fiscal del Estado, los Diputados y Senadores al Congreso de la Unión, los Magistrados, Jueces y Servidores Públicos de la Federación en el Estado, a menos que se separen noventa días antes de la elección.
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1984)</small>
-
-II.- Los militares que hayan estado en servicio dentro de los 90 días anteriores a la fecha de la elección.
-
-> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 1995)</small>
-
-III.- Los Ministros de cualquier culto religioso, salvo que se ciñan a lo dispuesto en el artículo 130 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria;
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
-
-IV.- Los Servidores Públicos del Estado y los Municipios, y los Jueces en su circunscripción, estarán también impedidos si no se separan de su cargo 90 días antes de la elección;
-
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1989)</small>
-
-V.- Los Diputados Propietarios al Congreso local y los Suplentes que hayan estado en ejercicio para el período inmediato.
-
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2000)</small>
-
-VI.- Los miembros de los Consejos Estatal, Distritales y Municipales Electorales, o Magistrado, Secretario General, el Juez Instructor o Actuario del Tribunal Estatal Electoral, a menos que se separen de su cargo un año antes de la elección.
-
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 1989)</small>
-
-VII.- Los que estén procesados por delito doloso. El impedimento surte efectos desde el momento en que se notifique el auto de formal prisión. Tratándose de Servidores Públicos que gocen de fuero constitucional, el impedimento surte efecto desde que se declare que ha lugar para la formación de causa.
-
-(REUBICADO [N. DE E. ANTES ARTICULO 30], P.O. 9 DE SEPTIEMBRE DE 1978)
-
-###### Art. 31.
-
-Los Diputados propietarios, desde el día de su elección y los suplentes en ejercicio, no pueden aceptar sin permiso del Congreso, empleo alguno de la Federación, del Estado o de los Municipios, por el cual se disfrute sueldo, excepto en el Ramo de Instrucción. Satisfecha esta condición y sólo en los casos en que sea necesaria, el Diputado quedará suspenso en sus funciones de representante del pueblo por todo el tiempo que desempeñe la nueva comisión o empleo. Las mismas disposiciones rigen respecto a los Diputados suplentes en ejercicio.
-
-(REUBICADO [N. DE E. ANTES ARTICULO 31], P.O. 9 DE SEPTIEMBRE DE 1978)
-
-###### Art. 32.
-
-Los Diputados son inviolables por las opiniones que manifiesten en el ejercicio de su encargo.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-###### Art. 33.
-
-Los Diputados Propietarios desde el día de su elección y los Suplentes cuando estén ejerciendo sus funciones, sólo podrán ser procesados por la Comisión de Delitos, previa declaración de procedencia del Congreso, en los términos del Artículo 152 de esta Constitución.
-
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
-
-###### Art. 34.
-
-En los casos del Artículo anterior y en el de muerte o imposibilidad calificada de los Diputados Propietarios, concurrirán los Suplentes respectivos. Tratándose de Diputados de Representación Proporcional, si el Suplente no pudiere concurrir, la vacante se cubrirá con el Diputado Propietario del mismo Partido que siga en la lista estatal respectiva.
-
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
-
-###### Art. 35.
-
-Por muerte o imposibilidad calificada del Diputado Propietario y del Suplente de un mismo Distrito, el Congreso dispondrá que se haga nueva elección siempre que ocurra dentro de los primeros dieciocho meses de su ejercicio.
-
-En caso de que una u otra ocurran después del término establecido a juicio del Congreso se llamará al Suplente de otro Distrito para que funja hasta terminar el período.
-
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
-
-###### Art. 36.
-
-Entre tanto se verifique la elección a que se refiere el artículo anterior y si no pudiere integrarse el quórum legal, la Junta de Diputados llamará al Suplente que a su juicio puede concurrir con más prontitud, cesado éste tan luego como se presente otro Diputado que complete el quórum.
-
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1982)</small>
-
-###### Art. 37.
-
-La Legislatura requiere para el ejercicio de sus funciones, la asistencia de más de la mitad de sus integrantes. No habiendo la mayoría referida los Diputados que asistan, cualquiera que sea su número, deberán reunirse en los días señalados por la Ley y compeler a los ausentes a que concurran dentro de los treinta días siguientes con la advertencia de que si no lo hacen ni acreditan debidamente ante el Congreso dentro del mismo término, qué fuerza mayor, caso fortuito u otra causa los imposibilita, se entenderá por ese solo hecho que renuncian al cargo y se convocará a nueva elección. Entre tanto transcurren los treinta días concedidos a los Diputados Propietarios, serán citados los Suplentes respectivos para integrar el quórum y si fenece el mencionado término sin obtenerse la comparecencia de los Suplentes se llamará nuevamente a éstos con el apercibimiento de declarar vacante el cargo si no concurren dentro de quince días, convocándose a elecciones para cubrir la vacante.
-
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
-
-###### Art. 38.
-
-Los Diputados pueden faltar a tres Sesiones consecutivas con simples (sic) aviso, y sólo con licencia concedida por el Congreso a mayor número de sesiones. El Diputado que no observe las formalidades prescritas, se considera que falta sin causa justificada y no se le admitirá prueba en contrario; además perderá el derecho de asistir al Período respectivo de Sesiones, cuando deje de concurrir a seis sesiones consecutivas (siempre que no se desintegrare el quórum por su falta).
-
-###### Art. 39.
-
-Los Diputados que no concurran a una sesión sin causa justificada, no tendrán derecho a la dieta correspondiente.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 23.
 
@@ -1229,39 +783,7 @@ Las sesiones (sic) podrán efectuar en lugar distinto, siempre que se declare, p
 
 Es obligación de los integrantes del H. Ayuntamiento, concurrir (sic) las Sesiones de Cabildo a que sean convocados. El Regidor o Síndico que falte sin causa justificada a cinco Sesiones será sancionado de acuerdo a lo que señala la Ley que en materia municipal expida el Poder Legislativo del Estado y el presente Código.
 
-### CAPITULO II. De la instalación y labores del Congreso
-
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
-
-###### Art. 40.
-
-El Congreso se reunirá para celebrar sus sesiones en la forma y términos que le señala esta Constitución y la Ley Orgánica del Poder Legislativo.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
-
-###### Art. 41.
-
-El 31 de diciembre del año de la elección, en sesión solemne, los Diputados electos otorgarán la protesta de Ley ante la Diputación Permanente, o la Mesa Directiva en caso de prórroga.
-
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
-
-###### Art. 42.
-
-De no asistir la Diputación Permanente, o la Mesa Directiva en caso de prórroga, los Diputados electos iniciarán por sí la Sesión Solemne, previa designación de tres de sus miembros para que la presidan, cuyo desarrollo se sujetará a los términos del artículo anterior.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1971)</small>
-
-###### Art. 43.
-
-El día primero de Enero siguiente, el Congreso procederá al nombramiento de un Presiente, dos Secretarios y un Suplente, quien cubrirá la falta de cualquiera de los miembros de la Mesa en quien ocurra. El Presidente del Congreso declarará a éste legítimamente constituído e instalado y en aptitud de ejercer sus funciones.
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1994)</small>
-
-###### Art. 44.
-
-El Congreso tendrá dos períodos ordinarios de sesiones cada año: El primero, improrrogable, iniciará el uno de marzo y terminará el día treinta y uno de mayo, excepto al instalarse cada Legislatura, en cuyo caso será del uno de enero al treinta y uno de marzo; el segundo dará principio el uno de septiembre, durando el tiempo necesario para tratar todos los asuntos de su competencia, sin que pueda extenderse más allá del día quince de diciembre, exceptuándose el último año de la Legislatura, cuando podrá prorrogarse por los días de diciembre que sean necesarios.
-
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1999)</small>
+### CAPÍTULO V. Del Debate en las Sesiones
 
 ###### ARTÍCULO 41.
 
@@ -1279,73 +801,13 @@ Las opiniones y propuestas que hagan los Comisionados sobre asuntos de su ramo s
 
 Las opiniones o propuestas que se realicen en el punto de asuntos generales establecido en el orden del día de la Sesión, no serán sometidas a votación inmediata, se turnarán a la Comisión correspondiente. De estimarse por el Cabildo que ameritan análisis, serán incluidos en el orden del día de la siguiente Sesión Ordinaria o Extraordinaria según la naturaleza del caso.
 
-###### ARTICULO 45.
+###### ARTÍCULO 45.
 
-El Congreso en ambos períodos de sesiones, se ocupará del estudio, discusión y votación de las Iniciativas de ley, decreto y acuerdo que se le presenten; de la resolución de los asuntos que le corresponden conforme a la Constitución y a las Leyes; de examinar y calificar las cuentas de recaudación y aplicación de los fondos públicos correspondientes al año anterior y que serán remitidas en la segunda quincena del mes de marzo, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos; si se actuó de conformidad con las leyes de la materia; si los gastos están justificados y si ha lugar a exigir alguna responsabilidad.
+Durante las discusiones el Presidente Municipal, Regidores y Síndicos guardarán compostura. Las intervenciones serán en todo caso claras y precisas, las que deberán referirse al asunto en análisis, cuando se suscite alguna desviación, el Secretario del H. Ayuntamiento, pedirá al expositor que se conduzca exclusivamente al tema en análisis.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1999)</small>
+###### ARTÍCULO 46.
 
-###### ARTICULO 46.
-
-El Congreso en el segundo período de sesiones, se ocupará en discutir y decretar la Ley de Ingresos y el Presupuesto de Egresos del Estado del año siguiente, mismos que le serán presentados durante los primeros diez días de diciembre de cada año por el Ejecutivo. Las Leyes de Ingresos de los Municipios deberán remitirse durante los primeros diez días del mes de noviembre de cada año. Sólo se podrán ampliar dichos plazos cuando medie solicitud del Ejecutivo, o de los Ayuntamientos en su caso, suficientemente justificada a juicio del Congreso. Las Cuentas Públicas correspondientes al último año del período constitucional de Gobernador y Ayuntamientos, deberán ser presentadas a más tardar el día quince de diciembre, para lo cual se prorrogará forzosamente el período de sesiones, por los días necesarios del mes de diciembre.
-
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
-
-###### Art. 47.
-
-El Congreso tendrá sesiones en las fechas que señala la Ley Orgánica del Poder Legislativo y su Reglamento. Las sesiones serán públicas, salvo las que según la ley mencionada deben tener el carácter de secretas.
-
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
-
-###### Art. 48.
-
-El Congreso antes de cerrar cada período de sesiones nombrará de su seno una Diputación Permanente compuesta de tres miembros propietarios y un suplente que funcionarán mientras no vuelva a reunirse el Congreso.- El primer nombrado asumirá la Presidencia y los dos últimos actuarán de Secretarios.
-
-###### Art. 49.
-
-Se reunirá el Congreso en sesiones extraordinarias cada vez que fuere convocado por la Diputación Permanente, cuando lo acuerde por sí o lo pida el Ejecutivo, y durante ellas solamente se ocupará de los asuntos comprendidos en la Convocatoria.
-
-###### Art. 50.
-
-Si durante el receso del Congreso fuere este convocado a sesiones extraordinarias, concluidas estas continuará la Diputación Permanente electa hasta que llegue el nuevo período de sesiones ordinarias. La Permanente puede funcionar con su carácter dentro del período extraordinario.
-
-###### Art. 51.
-
-Si al tiempo que deba abrirse el período de sesiones ordinarias no se hubiere cerrado el de las extraordinarias, cesarán estas y en aquellas se continuará de preferencia el estudio de los negocios que debieron tratarse en las extraordinarias.
-
-###### Art. 52.
-
-Para la celebración de sesiones extraordinarias, se reunirán los Diputados precisamente en la fecha de su apertura, para que procedan a la elección de la Mesa.
-
-###### Art. 53.
-
-Las sesiones extraordinarias se abrirán y cerrarán con las mismas formalidades que las ordinarias, pero el Ejecutivo o el Presidente de la Comisión Permanente en su caso, expondrá los motivos de la convocatoria.
-
-###### Art. 54.
-
-Si por causa extraordinaria el Congreso se disolviere sin haber nombrado la Diputación Permanente, se entenderá por tal el personal de la última Mesa del Congreso.
-
-###### Art. 55.
-
-Es deber de cada Diputado visitar en los recesos del Congreso, a lo menos una vez cada año, los pueblos del Distrito que representa para informarse:
-
-I. Del estado en que se encuentra la educación y beneficencia públicas.
-
-II. De cómo los funcionarios y empleados públicos, cumplen con sus respectivas obligaciones.
-
-III. Del estado en que se encuentre la Industria, el Comercio, la Agricultura, la Ganadería, la Minería y las vías de comunicación.
-
-IV. De los obstáculos que se opongan al adelanto y progreso del Distrito y de las medidas que sea conveniente dictar para remover tales obstáculos, y para favorecer el desarrollo de todos o de algunos de los ramos de la riqueza pública.
-
-V. Velar constantemente por el bienestar y prosperidad de su Distrito, allegando al o a los Municipios que lo compongan, su ayuda directa para conseguir ese fin.
-
-###### Art. 56.
-
-Para que los Diputados puedan cumplir con lo dispuesto en el artículo anterior, las oficinas públicas les facilitarán todos los datos que pidieren, a no ser que conforme a la ley deban permanecer en secreto.
-
-###### Art. 57.
-
-Al abrirse el período de sesiones siguiente a la visita, los Diputados presentarán al Congreso una memoria que contenga las observaciones que hayan hecho y en la que propondrán las medidas que sean conducentes al objeto de la fracción IV del art. 55.
+Al ponerse a discusión cualquier asunto, deberán exponerse las razones y fundamentos que lo motiven. Si al término de dicha exposición nadie solicitare el uso de la voz, o bien cuando se considere suficientemente discutido se someterá a votación.
 
 ###### ARTÍCULO 47.
 
@@ -1409,203 +871,7 @@ En ningún caso las Comisiones tendrán facultades de ejecución, sólo el H. Ay
 
 Los Comisionados deberán concretarse a vigilar y a observar las actividades que correspondan a sus ramos, lo cual no es impedimento alguno para que participen en la vigilancia de las demás áreas de la administración pública municipal, comunicando al H. Ayuntamiento las irregularidades detectadas, y proponiendo en su caso, las medidas de solución conducentes.
 
-### CAPITULO III. De las facultades del Congreso
-
-###### Art. 58.
-
-Son facultades del Congreso:
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
-
-I. Expedir, reformar y derogar las leyes y decretos en todos los ramos de la Administración Pública;
-
-II. Fijar a propuesta del Gobernador, los gastos de la Administración Pública del Estado, y decretar contribuciones e impuestos para cubrirlos, determinando la duración de estos y el modo de recaudarlos. Ningún pago será legal si no está incluido en el Presupuesto o determinado por ley posterior;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-III. Condonar impuestos del Estado, en los casos que estime convenientes, con excepción de los señalados en el inciso a) de la fracción III del Artículo 132 de esta Constitución;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-IV. Fijar, a propuesta de los respectivos Ayuntamientos, por conducto del Ejecutivo, las contribuciones y otros ingresos que deban formar la Hacienda Pública de los Municipios, procurando que sean suficientes para cubrir sus necesidades;
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
-
-V. Nombrar y remover al Oficial Mayor del Congreso, al Contador Mayor de Hacienda y a los demás Servidores Públicos en los términos de la Ley Orgánica y del Reglamento para el Gobierno Interior;
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
-
-VI. Revisar y calificar, por conducto de la Contaduría Mayor de Hacienda, las Cuentas Públicas del Estado, de los Municipios y demás organismos que administren o manejen fondos del Sector Público. Una ley determinará la organización y funcionamiento de dicha Contaduría que dependerá en absoluto del Congreso y estará bajo la vigilancia de la Comisión de Hacienda y Crédito Público;
-
-VII. Fijar las bases para que el Ejecutivo pueda celebrar emprésitos sobre el crédito del Estado, con las limitaciones que marca la fracción VIII del artículo 117 de la Constitución General de la República; aprobar los contratos respectivos, y reconocer y mandar pagar las deudas que contraiga el Estado;
-
-VIII. Fijar las bases al Ejecutivo para renovar los contratos de donde se origine la deuda del Estado;
-
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1943)</small>
-
-IX. Autorizar la enajenación y gravamen de los bienes muebles e inmuebles del Estado y de los Municipios. La venta de bienes muebles se verificará en pública subasta, siempre que éstos hayan sido declarados inútiles a juicio del H. Congreso;
-
-X. Fijar las bases a los Ayuntamientos para la contratación de emprésitos;
-
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
-
-XI.- Suprimir empleos públicos de acuerdo con las disposiciones de la Ley respectiva;
-
-XII. Conceder permisos y decretar honores por servicios eminentes prestados a la Humanidad, a la Patria o al Estado;
-
-XIII. Expedir leyes para la jubilación de los maestros de instrucción pública que lo merezcan en atención a la antigüedad y eficacia de sus servicios;
-
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
-
-XIV. Decretar pensiones en favor de las familias de los que hayan prestado servicios eminentes al Estado y a los empleados del mismo por jubilación;
-
-XV. Iniciar ante el Congreso General las leyes y decretos que sean de la competencia del Poder Legislativo de la Federación, así como la (sic) reformas o derogación de unas y otras, y secundar cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de otros Estados;
-
-XVI. Reclamar ante el Congreso de la Unión cuando alguna ley general constituye un ataque a la soberanía o independencia del Estado o a la Constitución Federal;
-
-XVII. Llamar a los Diputados suplentes para que concurran al Congreso, previa calificación del impidimento (sic) de los propietarios;
-
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1993)</small>
-
-XVIII. Establecer un Organismo de Protección de los Derechos Humanos que otorga el orden jurídico mexicano, en los términos del Artículo 102 Apartado B de la Constitución Política de los Estados Unidos Mexicanos;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-XIX. Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito, en los términos del Artículo 152 de esta Constitución.
-
-Asimismo, conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el Artículo 151 de esta Constitución y, en su caso, fungir como órgano de acusación en los juicios políticos que contra éstos se instauren;
-
-XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente a los tribunales del Estado;
-
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 1936)</small>
-
-XXI. Nombrar y remover a los Magistrados del Supremo Tribunal de Justicia del Estado en los términos que establece la presente Constitución;
-
-XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
-
-XXIII. Nombrar el Gobernador Interino en los casos a que se refiere el artículo 85 de esta Constitución, para que promulgue el Decreto convocando a elecciones en los términos y forma que dicha disposición constitucional establece y para que desempeñe el Poder Ejecutivo mientras se hace cargo del mismo el Gobernador Constitucional Substituto que resulte electo;
-
-XXIV. Comunicarse con el Ejecutivo por medio de Comisiones nombradas de su seno;
-
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 1997)</small>
-
-XXV. Elegir a los Consejeros Electorales del Consejo Estatal Electoral, y al Presidente del mismo; a los Magistrados del Tribunal Estatal Electoral y al Presidente del mismo;
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
-
-XXVI. Expedir su Ley Orgánica y su Reglamento Interior;
-
-XXVII. Facultar al Ejecutivo para que celebre arreglos amistosos relativos a límites del Estado; aprobar estos en su caso y pedir al Congreso de la Unión su aprobación;
-
-XXVIII. Resolver las cuestiones de límites que se susciten entre Municipios del Estado, siempre que entre ellos no se hayan puesto de acuerdo;
-
-XXIX. Dar la ley sobre el número máximo de Ministros de los Cultos a que le faculta el artículo 130 de la Constitución General de la República;
-
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 1997)</small>
-
-XXX. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaratoria de Gobernador electo que hubiere hecho el Consejo Estatal Electoral;
-
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 1997)</small>
-
-XXXI. Establecer la demarcación territorial de los Distritos Electorales Uninominales en que se divida el Estado;
-
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
-
-XXXII. Determinar lo que crea conveniente sobre la renuncia que sobre su cargo haga el Gobernador y calificar los impedimentos que no le permitan encargarse de su cometido, decretando nueva elección si la renuncia o impedimento ocurriere dentro de los tres primeros años del período;
-
-XXXIII. Computar los votos y declarar electos Senadores al Congreso de la Unión, conforme a lo dispuesto en el artículo 56 de la Constitución General, a los ciudadanos que hayan obtenido mayoría absoluta de votos, erigiéndose para el efecto en Colegio Electoral;
-
-XXXIV. Solicitar del ciudadano Presidente de la República, conforme a lo dispuesto por el artículo 29 de la Constitución Federal, la suspención de las garantías que ella otorga a los habitantes del Estado, con excepción de las que aseguran la vida del hombre; pero deberá hacerlo a petición del Ejecutivo del Estado y solamente en los casos de invasión, pertubación grave de la paz pública y cualesquiera otro que pongan al Estado en grave peligro o conflicto. En los recesos del Congreso, si el caso fuere declarado urgentísimo por unanimidad de la Diputación Permanente, esta, llamando a los Diputados existentes en el lugar donde celebre sus sesiones, que tendrán voz y voto en las deliberaciones, podrá hacer la petición antes dicha, sin perjuicio de convocarlo inmediatamente para darle cuenta y para que resuelva lo conveniente;
-
-XXXV. Decretar, en su caso, el modo de cubrir el contingente de hombres que corresponda al Estado para el Ejército de la Nación;
-
-XXXVI. (DEROGADA, P.O. 10 DE JUNIO DE 1995)
-
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
-
-XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador, a sus substitutos, a los Magistrados de Supremo Tribunal de Justicia y a todos los empleados de su nombramiento que conforme las leyes no deban otorgar la protesta de otro modo;.
-
-XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosperidad en general;
-
-XXXIX. Estimular la beneficencia pública, reglamentarla para que llene sus fines y para que estén debidamente asegurados sus bienes;
-
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 1993)</small>
-
-XL. Conceder o negar al Gobernador, licencia temporal para separarse de su cargo por más de 30 días y permiso para salir del territorio del Estado por más de 15 días, y designar a la persona que deba suplirlo interinamente en los casos que así se requiera;
-
-XLI. Autorizar al Ejecutivo para crear fuerzas de servicio temporal cuando lo demanden las necesidades del Estado;
-
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 1928)</small>
-
-XLII. Conceder facultades extraordinarias al Ejecutivo en alguno o en todos los ramos de la Administración Pública cuando circunstancias apremiantes así lo exijan siendo necesario para ello los votos de cuatro de los Diputados presentes;
-
-XLIII. La facultad que le concede el artículo 24 de esta Constitución;
-
-XLIV. Concurrir a la reforma de la Constitución General de la República en los términos que establece el artículo 135 de la misma Constitución;
-
-XLV. Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado;
-
-XLVI. Dirimir los conflictos que se susciten entre el Ejecutivo del Estado y el Tribunal Superior de Justicia, sólo cuando tengan carácter puramente administrativo;
-
-XLVII. Dictar leyes tendentes a combatir con la mayor energía el alcoholismo;
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1965)</small>
-
-XLVIII. Dictar leyes para organizar dentro o fuera del Estado pero dentro del territorio de la República, el sistema penal por colonias, penitenciarías sobre la base del trabajo, como medio de regeneración;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
-
-LIX. (sic) Convocar a elecciones en caso de muerte del Gobernador, o cuando por haber declarado que ha lugar a formación de causa en su contra, haya sido consignado y quede acéfalo el Poder Ejecutivo y siempre que la falta obsoluta (sic) ocurra durante los tres primeros años del período;
-
-L. Conocer y resolver sobre la renuncia que presenten los Magistrados del Supremo Tribunal de Justicia y de los impedimentos que tengan para desempeñar sus cargos, nombrando en su caso quien deba substituirlos;
-
-> <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-LI. Expedir Leyes que regulen las relaciones laborales del Estado y los Municipios con sus respectivos trabajadores, en base a lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias;
-
-LII. (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
-
-LIII. Crear nuevas Municipalidades dentro de las existentes, variar sus límites y suprimir alguna o algunas de ellas;
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
-
-LIV. Resolver, en definitiva, sobre las medidas adoptadas por el Gobernador, en los casos a que se refiere la fracción XLV del Artículo 91, dándole inmediata cuenta de la resolución, a fin de que proceda en consecuencia;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-LV. Expedir leyes en materia de planeación, en base a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1989)</small>
-
-LVI. Para expedir leyes que instituyan el Tribunal de lo Contencioso-Administrativo, dotado de plena autonomía para dictar sus fallos, que tenga a su cargo dirimir las controversias de carácter administrativo que se susciten entre las autoridades del Estado, los Ayuntamientos y sus Organismos Públicos Descentralizados y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones;
-
-> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 1989)</small>
-
-LVII. Aprobar los nombramientos de los Magistrados del Tribunal de lo Contencioso-Administrativo y recibir la protesta de los mismos;
-
-> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 1989)</small>
-
-LVIII. Ejercer las demás facultades que le señala esta Constitución, la General de la República u otras Leyes.
-
-###### Art. 59.
-
-No puede el Congreso:
-
-I. Imponer préstamos forzosos de cualquier especie y naturaleza que sean.
-
-II. Abrogarse en ningún caso facultades extraordinarias.
-
-III. Atentar contra el sistema representativo, popular y federal.
-
-IV. Dejar de señalar retribución a un empleo establecido por la ley. En caso de que se omita fijar tal remuneración, se entenderá señalada la última que hubiere tenido.
-
-V. Mandar hacer cortes de cuentas con los acreedores del Estado, a fin de dejar sus créditos ínsolutos.
-
-VI. Dispensar estudios para el efecto de otorgar títulos profesionales.
-
-VII. Hacer lo demás que prohibe esta Constitución.
+### CAPÍTULO VI. De las Votaciones en las Sesiones
 
 ###### ARTÍCULO 60.
 
@@ -1653,73 +919,7 @@ II. Multa por un equivalente de 5 a 5,000 días de Salario Mínimo General vigen
 
 III. Suspensión en el pago de sus salarios, en caso de reincidencia, sin perjuicio de las sanciones a que se hagan acreedores y que se encuentren contenidas en otros ordenamientos legales.
 
-### CAPITULO IV. De la Diputación Permanente
-
-(REFORMADO, P.O. 23 DE JUNIO DE 1928) (REUBICADO, P.O. 5 DE JULIO DE 1986)
-
-###### Art. 60.
-
-El día anterior al de la clausura de cada período de sesiones ordinarias el Congreso nombrará una Comisión que se denominará Diputación Permanente compuesta de tres Diputados, un Presidente y dos Secretarios, nombrará igualmente un suplente.
-
-(REUBICADO, P.O. 5 DE JULIO DE 1986)
-
-###### Art. 61.
-
-La Diputación Permanente funcionará durante los períodos de receso del Congreso y aun cuando hubiere sesiones extraordinarias.
-
-###### Art. 62.
-
-Son atribuciones de la Diputación Permanente:
-
-I. Velar sobre la observancia de la Constitución y de las leyes.
-
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
-
-II.- Dictaminar sobre todos los asuntos que quedaron pendientes al terminar el período de sesiones ordinarias del Congreso y sobre los asuntos que reciba y presentar estos dictámenes el día en que se abra el nuevo período de sesiones ordinarias.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-III.- Convocar al Congreso a Sesiones Extraordinarias y, en su caso, para que conozca de las denuncias en contra de servidores públicos y proceda conforme a lo dispuesto en la fracción XIX del Artículo 58 de esta Constitución; el Congreso no prolongará sus sesiones por más tiempo que el indispensable para tratar el asunto para el que fuere convocado.
-
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
-
-IV.- Circular la convocatoria si después de tres días de comunicada al Ejecutivo no la hubiere éste publicado.
-
-V. Admitir las renuncias de los altos funcionarios, mandando cubrir sus vacantes en la forma que la Constitución establece.
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
-
-VI. Ejercer las atribuciones que le señalan la Ley Orgánica del Poder Legislativo y el Reglamento para el Gobierno Interior del Congreso.
-
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 1997)</small>
-
-VII.- Ejercer, en su caso, la facultad que al Congreso concede la Fracción XXX del Artículo 58 de ésta Constitución;
-
-VIII. Recibir la protesta de los funcionarios en los casos en que deban rendirla ante el Congreso.
-
-IX. Resolver sobre las solicitudes de carácter urgente que se le presentaren; cuando la resolución exija la expedición de una ley o decreto, se concretará la Comisión a formular dictamen para dar cuenta a la Legislatura.
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
-
-X.- Resolver, en definitiva, en los recesos del Congreso, sobre las medidas que adopte el Gobernador en los casos a que se refiere la fracción XLV del artículo 91, dándole inmediata cuenta de la resolución a fin de que proceda en consecuencia.
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
-
-XI.- Ejercer, en su caso, las facultades que al Congreso concede la fracción XVI del Artículo 58 de esta Constitución.
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1993)</small>
-
-XII.- Conocer y resolver sobre solicitud de licencia que le sean presentadas por los legisladores, y;
-
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1993)</small>
-
-XIII.- Las demás que le confieran las leyes.
-
-###### Art. 63.
-
-Si por no haberse verificado las elecciones o por cualquiera otra causa, el Congreso no pudiera renovarse el día fijado, la Diputación Permanente continuará con tal carácter, hasta que deje instalado al nuevo Congreso conforme a las leyes, convocando a elecciones en su caso.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JULIO DE 1986)</small>
+### CAPÍTULO VII. De la Revocación de Acuerdos
 
 ###### ARTÍCULO 68.
 
@@ -1733,85 +933,7 @@ No podrán en la misma Sesión revocarse las proposiciones o dictámenes en que 
 
 El Presidente Municipal, los Regidores y Síndicos que con causa justificada no pudieran asistir a la Sesión en que deba tratarse la revocación de acuerdos, podrán emitir por escrito su voto enviándolo en sobre cerrado, que abrirá el Secretario en el momento de la votación, y que deberá ser ratificado por el Regidor o Síndico en la Sesión inmediata siguiente antes de la aprobación del acta de la Sesión anterior a fin de que cuente con validez, y deberá constar en el acta correspondiente.
 
-### CAPITULO V.
-
-De la Iniciativa y Formación de Leyes, Decretos y Acuerdos.
-
-###### Art. 64.
-
-El derecho de iniciativa compete:
-
-I. A los Diputados al Congreso del Estado.
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
-
-II. Al Gobernador del Estado.
-
-III. Al Supremo Tribunal de Justicia.
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
-
-IV. A los Ayuntamientos.
-
-V. A todos los ciudadanos, por conducto de sus Diputaciones.
-
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
-
-###### Art. 65.
-
-Las votaciones de leyes serán nominales.
-
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
-
-###### Art. 66.
-
-La Ley Orgánica y el Reglamento para el Gobierno Interior del Congreso prescribirán las reglas que deban observarse sobre la discusión y formación de las Leyes, Decretos y Acuerdos.
-
-###### Art. 67.
-
-Ningún proyecto de ley que fuere desechado podrá volverse a presentar en el mismo período de sesiones.
-
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1982)</small>
-
-###### Art. 68.
-
-Los proyectos o Iniciativas adquirirán el carácter de Ley o Decreto cuando sean aprobados por la mayoría de los Diputados presentes y entrarán en vigor en la fecha que determine el Congreso, y en caso contrario a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-###### Art. 69.
-
-Las leyes o decretos aprobados por el Congreso, se remitirán al Ejecutivo, quien los mandará publicar y circular para su cumplimiento, si obtuviesen su sanción, y en caso contrario los devolverá dentro de los primeros diez días útiles después de haberlos recibido, con las observaciones que estime conveniente, las cuales serán tomadas en consideración, examinadas y discutidas por el Congreso.
-
-###### Art. 70.
-
-Si al cerrarse el período de sesiones no se hubiere cumplido el término concedido al Gobernador para hacer observaciones, la devolución del proyecto se verificará precisamente el primer día en que se reuniere el Congreso.
-
-###### Art. 71.
-
-Si el Gobernador hace observaciones a algún proyecto, lo devolverá al Congreso dentro del término fijado, manifestando por escrito las razones que tenga que oponer. El Congreso discutirá por segunda vez el proyecto y el Ejecutivo podrá nombrar el representante que quiera para que asista con voz y sin voto a la discusión.
-
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1982)</small>
-
-###### Art. 72.
-
-Concluída ésta se votará un proyecto de escrutinio secreto y se tendrá por aprobado con el voto de las dos terceras partes de los diputados presentes.
-
-###### Art. 73.
-
-Si se aprobare por segunda vez el proyecto, se devolverá al Gobernador para su promulgación inmediata.
-
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 1986)</small>
-
-###### Art. 74.
-
-En la reforma o derogación de las Leyes, Decretos o Acuerdos, se observarán los mismos trámites establecidos para su formación.
-
-###### Art. 75.
-
-El Ejecutivo no podrá hacer observaciones a las resoluciones del Congreso, cuando este ejerza funciones de Colegio Electoral o de Jurado, ni en los casos de aceptación de renuncias o convocación a nuevas elecciones.
-
-###### Art. 76.
-
-Ninguna resolución del Congreso tendrá otro carácter que el de ley, decreto o acuerdo económico. Las leyes y decretos se comunicarán al Ejecutivo firmados por el Presidente y los Secretarios del Congreso, empléandose la siguiente fórmula: El Congreso del Estado libre y soberano de Tamaulipas, decreta: (texto de la ley o decreto), y los acuerdos económicos sólo por los Secretarios.
+### CAPÍTULO VIII. Del Procedimiento Reglamentario Municipal
 
 ###### ARTÍCULO 71.
 
@@ -1865,279 +987,9 @@ Los Reglamentos emanados del Cabildo podrán modificarse en cualquier tiempo, si
 
 En todo lo no previsto en este Código, se recurrirá a las disposiciones de la Ley que en materia municipal expida el Poder Legislativo del Estado y demás leyes vigentes aplicables al Municipio.
 
-### CAPITULO I. Del Ejecutivo
+### CAPÍTULO IX. De las Comisiones
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
-
-###### Art. 77.
-
-El Poder Ejecutivo se deposita en un ciudadano que se denominará "Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas", siendo su elección directa cada seis años, en los términos que señala la Ley Electoral.
-
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 1936)</small>
-
-###### Art. 78.
-
-Para ser Gobernador se requiere:
-
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
-
-I.- Que el candidato esté en pleno goce de los derechos de ciudadanía, de acuerdo con los artículos 34, 35, 36 de la Constitución de los Estados Unidos Mexicanos y que no haya ocurrido en su perjuicio ninguno de los motivos de pérdida ni de suspensión de derechos a que se refieren los artículos 37 y 38 de la misma Constitución.
-
-II.- Ser mexicano de nacimiento.
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
-
-III.- Tener vecindad en el Estado, adquirida por lo menos 5 años antes del día de la elección.
-
-IV.- Ser mayor de treinta años de edad el día de la elección; y
-
-V.- Poseer suficiente instrucción.
-
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
-
-###### Art. 79.
-
-No pueden obtener el cargo de Gobernador del Estado por elección:
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
-
-I.- Los Ministros de cualquier culto religioso, salvo que se ciñan a lo dispuesto en el artículo 130 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1984)</small>
-
-II.- Los que tengan mando de fuerza en el Estado si lo han conservado dentro de los 90 días anteriores al día de la elección;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1984)</small>
-
-III.- Los militares que no se hayan separado del servicio activo por lo menos 90 días antes de la elección;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1984)</small>
-
-IV.- Los que desempeñen algún cargo o comisión de otro Estado o de la Federación, a menos que se separen de ellos noventa días antes de la elección, sean o no de elección popular;
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
-
-V.- Los Magistrados del Supremo Tribunal, Diputados locales, Procurador General de Justicia y Secretario General de Gobierno, o quien haga sus veces, si no se encuentran separados de sus cargos, cuando menos 90 días antes de la elección;
-
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2000)</small>
-
-VI.- Los Magistrados, Secretario General, Juez Instructor o Actuario del Tribunal Estatal Electoral y los miembros de los Consejos Estatal, Distritales o Municipales Electorales, si no se encuentran separados de su cargo un año antes de la elección.
-
-> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 1997)</small>
-
-VII.- Los que estén sujetos a proceso criminal por delito que merezca pena corporal a contar de la fecha del auto de formal prisión.
-
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 1999)</small>
-
-###### Art. 80.
-
-El día 4 de febrero de 1999 entrará el Gobernador a ejercer sus funciones por el término para el cual fue declarado electo y nunca podrá volver a desempeñar ese cargo ni por nueva elección ni con carácter de provisional o interino.
-
-###### Art. 81.
-
-(DEROGADO, P.O. 25 DE OCTUBRE DE 1997)
-
-###### Art. 82.
-
-La elección de Gobernador prefiere a cualquiera otra. Sólo es renunciable este cargo por causa grave, que calificará el Congreso.
-
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 1997)</small>
-
-###### Art. 83.
-
-Si no hubiere habido elección de Gobernador, si se hubiere hecho esta y expedida la declaratoria por el Consejo Estatal Electoral para el día 31 de diciembre del año de la elección, pero el electo no se presentare a tomar posesión de su cargo, cesará sin embargo el anterior, y el Poder Ejecutivo se depositará interinamente en el ciudadano que nombre el Congreso o la Diputación Permanente, aquel o ésta, en su caso, en Sesión Permanente y Secreta por 17 del número total de sus miembros, si se tratare del Congreso, o por la mayoría si se tratare de la Diputación Permanente.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
-
-###### Art. 84.
-
-En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar a formación de causa ya sea por violación a la presente Constitución o por delito del orden común, o ya por violación a la Constitución Federal y a las leyes que de ella emanen, en los casos de la competencia de las Cámaras Federales, si ocurriere la falta dentro de los 3 primeros años del período, el Congreso Local, constituído en Sesión Permanente y Secreta, nombrará por el voto de cuando menos 17 del número total de sus miembros, un Gobernador Interino que promulgará el Decreto que se expida conforme a la Fracción XLIX del artículo 58 de esta Constitución.
-
-El Congreso convocará a elecciones dentro de los diez días siguientes a la toma de posesión del Gobernador Interino nombrado. El Gobernador que resulte electo durará todo el tiempo que falte para completar el período. Si los hechos tuvieren lugar dentro de los últimos tres años del período, no se convocará a nuevas elecciones y la persona designada por el Congreso durará en funciones de Gobernador hasta terminar el período. Si el Congreso está en receso, la Comisión Permanente, por el voto de la mayoría de sus miembros, en los términos que se indican convocará desde luego al mismo Congreso a sesiones extraordinarias para que éste ratifique o revoque el nombramiento hecho por la Permanente. En caso de que el H. Congreso revoque dicho nombramiento, procederá a designar Gobernador Interino para que se haga cargo del Poder Ejecutivo mientras toma posesión el Gobernador Substituto que resulte electo.
-
-###### Art. 85.
-
-Si al abrirse el período de sesiones ordinarias estuviere corriendo término de licencia concedida al Gobernador por la Permanente, el Congreso ratificará o revocará dicha licencia.
-
-###### Art. 86.
-
-Mientras se hace la designación ordenada en el artículo anterior o en cualquiera otra circunstancia no prevista , el Secretario General de Gobierno se hará cargo del Despacho del Ejecutivo, sin que esta situación pueda durar por más de cuarenta y ocho horas.
-
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
-
-###### Art. 87.
-
-En los casos de licencia temporal concedida al Gobernador, el Congreso o la Diputación Permanente, en caso de receso, por mayoría de los Diputados presentes, nombrarán un substituto a propuesta en terna del Ejecutivo, para el tiempo que dure la licencia, debiendo tener el substituto los mismos requisitos que el Constitucional. Las ausencias del Gobernador en períodos que no excedan de 30 días serán cubiertas por el Secretario de Gobierno, encargado del despacho; cuando excedan de dicho término, el H. Congreso o la Diputación Permanente decide el interino.
-
-###### Art. 88.
-
-Los Gobernadores que con el carácter de interinos o substitutos nombrados por el Congreso, no podrán ser electos para el período inmediato siguiente, ni para el que se convoque, si estuvieren en funciones un año antes de la elección.
-
-###### Art. 89.
-
-Al Gobernador nunca se le concederá licencia con el carácter de indefinida, ni tampoco por más de seis meses. Si concluida la licencia no se presentare de nuevo dicho funcionario, se declarará vacante el puesto y se procederá a lo dispuesto en el artículo 85 de esta Constitución.
-
-###### Art. 90.
-
-El Gobernador al tomar posesión de su cargo, prestará ante el Congreso y en sus recesos ante la Diputación Permanente, la protesta que sigue: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ella emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado, y si no lo hiciere así, que la Nación y el Estado me lo demande."
-
-###### Art. 91.
-
-Las facultades y obligaciones del Gobernador son las siguientes:
-
-I. En el orden federal, las que determinen la Constitución y las Leyes Federales.
-
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
-
-II.- Cuidar de la seguridad y tranquilidad del Estado según la Constitución y las Leyes, para cuyo efecto podrá nombrar y remover libremente los Jefes de Policía Municipales.
-
-III. Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos, procurando que se haga efectiva la responsabilidad en que aquella incurriere.
-
-IV. Informar a la Secretaría de Gobernación sobre la conveniencia o inconveniencia de permitir se dediquen nuevos locales a cultos religiosos.
-
-V. Promulgar y mandar publicar, cumplir y hacer cumplir la Constitución del Estado, las leyes, decretos y acuerdos del Congreso, y proveer en la esfera administrativa cuanto fuere necesario a su exacta observancia, expidiendo para el efecto los reglamentos respectivos.
-
-VI. Cuidar en los distintos ramos de la Administración de que los caudales públicos estén siempre asegurados y se recauden e inviertan con arreglo a las leyes.
-
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1999)</small>
-
-VII.- Presentar al Congreso la Iniciativa de Ley de Ingresos del Estado, el proyecto de Presupuesto de Egresos del Estado, así como las cuentas y comprobantes de recaudación y aplicación de los fondos públicos del Estado en los términos que dispone esta Constitución;
-
-VIII. Disponer de la Guardia Nacional y Policía Rural del Estado según la ley.
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1989)</small>
-
-IX.- Nombrar y remover libremente a los empleados de confianza a que se refiere la Ley Reglamentaria que rige para los empleados del Poder Ejecutivo y a los demás, cuyo nombramiento y remoción no se encomiende a otra autoridad, los efectuará en los términos de la citada ley. Asimismo, nombrar y aceptar las renuncias de los Magistrados del Tribunal de lo Contencioso-Administrativo del Estado y concederles las licencias que excedan del plazo previsto en la Ley de la Materia;
-
-X. Pasar al Procurador General todos los asuntos que deban ventilarse dentro de los Tribunales, para que ejercite ante ellos las atribuciones de su ministerio.
-
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
-
-XI.- Cuidar de que la Justicia se administre pronta y cumplidamente por los Tribunales y Juzgados del Estado y de que se ejecuten sus sentencias.
-
-XII. Iniciar ante el Congreso las leyes y decretos que estime convenientes para el mejoramiento de los ramos de la Administración Pública del Estado y pedirle que inicie ante el Congreso de la Unión lo que sea de la competencia federal.
-
-XIII. Proponer a la Diputación Permanente la convocación del Congreso a sesiones extraordinarias.
-
-> <small>(ADICIONADA, P.O. 8 DE JULIO DE 1999)</small>
-
-XIV.- Enviar al Congreso del Estado, para su aprobación, las propuestas para designar a los Magistrados de número del Supremo Tribunal de Justicia, de acuerdo con lo dispuesto por los artículos 58 fracción XXI; 106, 108 y 111, de esta Constitución;
-
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
-
-XV.- Auxiliar a los Tribunales y Juzgados del Estado para que la justicia se administre pronta y cumplidamente, y que se ejecuten las sentencias, prestando a aquéllos el apoyo que requieran para el mejor ejercicio de sus funciones. Esta atribución no lo autoriza para intervenir directa o indirectamente en el examen y decisión de los juicios en trámite, ni para disponer en forma alguna de los procesados;
-
-> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 1989)</small>
-
-XVI.- Cuidar que la justicia administrativa se aplique de manera pronta, completa e imparcial por el Tribunal de lo Contencioso-Administrativo;
-
-XVII. Celebrar convenios con los Gobernadores de los Estados limítrofes, para la entrada y paso de sus fuerzas de seguridad por el territorio del Estado y recíprocamente, dando cuenta al Congreso.
-
-XVIII. Celebrar, con la aprobación del Congreso del Estado y General de la Nación, tratados amistosos con los Estados vecinos para el arreglo de límites.
-
-XIX. Convocar a los miembros del Congreso para el desempeño de sus funciones, cuando por algún incidente no hubiere Diputación Permanente.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-XX.- Ejercer la superior inspección de la Hacienda Pública del Estado y velar por su recaudación, custodia, administración e inversión.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-XXI.- Celebrar, en los términos de ley, con el Ejecutivo Federal, las dependencias y entidades de la Administración Pública, las Entidades Federativas y los Municipios los convenios y acuerdos necesarios para el desarrollo económico y social de la Nación, el Estado y los Municipios. Asimismo, podrá inducir y concertar con los particulares acciones destinadas al mismo objeto.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-XXII.- Conocer de las quejas que se interpongan contra los Ayuntamientos o contra cualquiera de sus miembros y, en su caso, iniciar ante el Congreso los procedimientos a que se refiere la fracción XI del Artículo 132 de esta Constitución.
-
-XXIII. Visitar durante su período los Municipios del Estado, dictar las providencias que conforme a sus facultades fueren oportunas, y dar cuenta al Congreso con el resultado de cada visita.
-
-XXIV. Dictar las disposiciones necesarias para combatir los juegos prohibidos.
-
-XXV. Expedir los Fiats de Notarios y Títulos profesionales con arreglo a las leyes.
-
-XXVI. Conceder indulto de las penas en los términos y con los requisitos que expresa la ley.
-
-XXVII. Organizar la Secretaría General de Gobierno y demás Departamentos, sin alterar los presupuestos.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-XXVIII.- Castigar correccionalmente a los que le falten al respeto o desobedezcan sus disposiciones como gobernante con arresto o multa, en los términos del Artículo 19 de esta Constitución.
-
-XXIX. Nombrar uno o más apoderados para asuntos judiciales y administratiivos (sic), dentro o fuera del Estado.
-
-XXX. Concurrir al Congreso cuando lo juzgue conveniente para sostener alguna iniciativa presentada por el Ejecutivo, o enviar en su representación al Secretario General de Gobierno o a la persona que designe para el mismo objeto, o para informar cuando lo solicite el Congreso, pudiendo rendir tales informes por escrito.
-
-XXXI. Pedir al Congreso, o a la Comisión Permanente, si aquel no estuviere reunido, las facultades extraordinarias que sea necesarias para restablecer el orden en el Estado, cuando por causa de invasión o de conmoción interior se hubiere alterado. Del uso que haya hecho de tales facultades dará cuenta detallada al Congreso.
-
-XXXII. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a estos el auxilio que necesiten para el ejercicio expedito de sus funciones.
-
-> <small>(REFORMADA, P.O.1 DE ABRIL DE 1989)</small>
-
-XXXIII.- Concurrir a la apertura de los Períodos de Sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la Administración Pública, cuando lo estime conveniente o así lo solicite el Congreso, pero deberá rendir un informe completo sobre ésta en Sesión Pública Extraordinaria del Congreso, que se verificará el último domingo del mes de octubre de cada año.
-
-XXXIV. Fomentar por todos los medios posibles la instrucción y educación públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad.
-
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
-
-XXXV.- Conceder licencias a los funcionarios y empleados o suspenderlos de conformidad con lo expresado en la Ley Reglamentaria relativa.
-
-XXXVI. Tomar en caso de invasión exterior o conmoción interior armada, las medidas extraordinarias que fueren necesarias para salvar el Estado, sujetándolas lo más pronto posible a la aprobación del Congreso o de la Diputación Permanente.
-
-XXXVII. En caso de sublevación o de trastorno interior en el Estado, excitar, de acuerdo con el Congreso o la Diputación Permanente, a los Poderes Federales a que ministren la protección debida, si los elementos de que dispone el Ejecutivo del Estado no fueren bastantes para restablecer el orden.
-
-XXXVIII. Recibir la protesta de ley a los funcionarios y empleados de nombramiento del Ejecutivo, cuando no estuviere determinado otra cosa en la ley.
-
-XXXIX. Acordar la expropiación por causas de utilidad pública con los requisitos de ley.
-
-XL. Excitar a los Ayuntamientos en los casos que a su juicio sea necesario, para que cuiden del mejoramiento de los distintos ramos de la Administración
-
-XLI. Conceder pensiones dentro o fuera del Estado a los estudiantes que acrediten que no pueden sostenerse de por sí.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-XLII.- Dar cuenta al Congreso para que resuelva sobre los acuerdos de los Ayuntamientos que fueren contrarios a la Constitución General de la República, a la Constitución local o cualquiera otra ley, o cuando lesionen los intereses municipales.
-
-XLIII. Respetar y hacer que se respete la libre emisión del voto popular en las elecciones.
-
-XLIV. Conceder con arreglo a las leyes habilitaciones de edad a los menores para contraer matrimonio.
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
-
-XLV.- Adoptar, en casos graves, las medidas que juzgue necesarias para salvaguardar el orden público o la paz social, o la economía del Estado o la de los Municipios, dando cuenta inmediata al Congreso o en su receso a la Diputación Permanente, para que resuelvan en definitiva.
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
-
-XLVI. Los demás que le confiere esta Constitución u otra Ley.
-
-###### Art. 92.
-
-Se prohibe al Gobernador:
-
-I. Negarse a sancionar y publicar las leyes y decretos que expida el Congreso, en los términos que prescribe esta Constitución.
-
-II. Ingerirse directa o indirectamente en las funciones del Poder Legislativo, excepto el caso de iniciar alguna ley o hacer observaciones a las que se remitan para su sanción;
-
-III. Decretar la prisión de alguna persona o privarla de su libertad, sino cuando el bien y seguridad del Estado lo exijan, y aun entonces deberá ponerla en libertad o a disposición de la autoridad competente en el preciso término de treinta y seis horas, salvo lo prevenido en la fracción XXXII del artículo anterior.
-
-IV. Ocupar la propiedad particular, salvo en los casos de expropiación, por causa de utilidad pública y en la forma legal.
-
-V. Mezclarse en los asuntos judiciales, ni disponer durante el juicio de las cosas que en él se versan o de las personas que estén bajo la acción de la justicia.
-
-VI. Distraer los caudales públicos de los objetos a que están destinados por la ley.
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1998)</small>
-
-VII.- Expedir órdenes de recaudación o pago, sino por conducto de la Secretaría del ramo;
-
-VIII. Impedir o retardar la instalación del Congreso.
-
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 1993)</small>
-
-IX.- Salir del territorio del Estado por más de quince días, sin permiso del Congreso o de la Diputación Permanente;
-
-X. Mandar personalmente en campaña la fuerza pública, sin permiso del Congreso o de la Diputación Permanente.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE ENERO DE 1993)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 17 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 82.
 
@@ -2159,9 +1011,9 @@ II. Hacienda.
 
 III. Seguridad Pública y Protección Civil.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
 
-IV. Comisión de Desarrollo Social.
+IV. Comisión de Desarrollo Social e Integral.
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
@@ -2297,63 +1149,7 @@ Cuando un asunto fuere presentado ante el Cabildo y sea de competencia de dos o 
 
 De las atribuciones, así como el régimen de suplencias del H. Ayuntamiento, del Presidente Municipal, de los Regidores y Síndicos, se estará a lo dispuesto en la Ley que en materia municipal expida el Poder Legislativo del Estado.
 
-### CAPITULO II. De la Administración Pública
-
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
-
-###### Art. 93.
-
-La Administración Pública Estatal será centralizada y paraestatal conforme a la Ley Orgánica que expida el Congreso, la cual establecerá la competencia de las Secretarías y la Procuraduría General de Justicia y definirá las bases generales de creación de las Entidades Paraestatales y la intervención del Ejecutivo en su operación.
-
-Las Secretarías que integren la Administración Pública Estatal conforme al párrafo anterior, promoverán: La modernización permanente de sus sistemas y procedimientos de trabajo, la transparencia en el ejercicio de la función pública, la eficiencia que evite la duplicdad (sic) o dispersión de funciones y aprovecharán óptimamente los recursos a su alcance a fin de responder a los reclamos de la ciudadanía y favorecer el desarrollo integral del Estado.
-
-Para ser Secretario de Despacho del Poder Ejecutivo se requiere ser ciudadano mexicano por nacimiento, estar en ejercicio de sus derechos y tener treinta años cumplidos.
-
-Los Secretarios del Ejecutivo darán cuenta al Congreso del estado que guardan sus respectivos ramos, previa solicitud de éste.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1993)</small>
-
-###### Art. 94.
-
-Para el desempeño de los asuntos oficiales, el Ejecutivo tendrá un funcionario que se denominará "SECRETARIO GENERAL DE GOBIERNO".
-
-Para ser Secretario General de Gobierno, se requiere:
-
-I.- Ser ciudadano mexicano en ejercicio de sus derechos;
-
-II.- Ser mayor de treinta años de edad;
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1993)</small>
-
-III.- Poseer instrucción escolar suficiente;
-
-IV.- No ser militar ni ministro de algún culto, esté o no en ejercicio;
-
-V.- No haber sido condenado por delito infamante. La calificación la hace el H. Congreso.
-
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
-
-###### Art. 95.
-
-Los Decretos, Reglamentos, Acuerdos, Circulares, Ordenes y disposiciones que dicte el Gobernador, así como los documentos que suscriba en ejercicio de sus funciones constitucionales, deben ser firmados por el Secretario General, sin este requisito no surtirán efectos legales.
-
-###### Art. 96.
-
-El Secretario General de Gobierno no podrá desempeñar cargo, empleo ni comisión oficiales remunerados salvo en el Ramo de la Educación.
-
-###### Art. 97.
-
-El Secretario General de Gobierno sólo podrá litigar en negocios propios o de su familia.
-
-###### Art. 98.
-
-El Secretario General de Gobierno tendrá responsabilidad solidaria con el Gobernador por los decretos, reglamentos, circulares o acuerdos que firme.
-
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
-
-###### Art. 99.
-
-La ausencia temporal del Secretario General de Gobierno será cubierta por uno de los Subsecretarios del ramo, con las prerrogativas, obligaciones y responsabilidades que establecen los Artículos 95, 96, 97 y 98 de esta Constitución.
+### CAPÍTULO X. Del Protocolo
 
 ###### ARTÍCULO 92.
 
@@ -2377,227 +1173,21 @@ En la Sesión de instalación del H. Ayuntamiento y en las Sesiones Solemnes, el
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE FEBRERO DE 2023)</small>
 
-### CAPITULO I. De la Administración de Justicia
+### CAPÍTULO XI DEL TÍTULO PRIMERO. De la Aprobación de las Cuentas Públicas del Municipio
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2023)</small>
 
-###### Art. 100.
+ARTÍCULO 96 BIS.- Las Cuentas Públicas Municipales se revisarán mensualmente por la Comisión de Hacienda, y deberán someterse para su análisis, discusión y votación del H. Ayuntamiento trimestralmente.
 
-El Poder Judicial se deposita para su ejercicio en el Supremo Tribunal de Justicia, en los Juzgados de Primera Instancia, en los Juzgados Menores y en el Jurado Popular.
+Se remitirán al Congreso del Estado, a más tardar el día 20 del mes de abril, julio y octubre del año en que se ejerza el presupuesto respectivo, Informe de Avance de Gestión Financiera como parte integrante de las Cuentas Públicas, sobre los resultados físicos y financieros de los programas a su cargo, por los períodos correspondientes al primer, segundo y tercer trimestre del año.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+La Cuenta Pública del año anterior, se deberá presentar a más tardar el 28 de febrero de cada año a efecto de remitirlas para su fiscalización al Congreso del Estado en términos de las disposiciones jurídicas aplicables.
 
-###### Art. 101.
+Cuando los informes trimestrales de avance de gestión financiera sean sometidos a votación del H. Ayuntamiento, cada Regidor o Síndico podrá formular una reserva en que realice todas las manifestaciones u observaciones que estime convenientes, mismas que deberán de ser presentadas por escrito y corriendo traslado a todos sus integrantes por lo menos veinticuatro horas antes del inicio de la Sesión, mismas que habrán de anexarse al informe que se remita al Congreso del Estado para los términos conducentes.
 
-La potestad de impartir justicia mediante la aplicación de las leyes en lo familiar, civil y penal, así como de aquellas otras que pudieran corresponderle, pertenece al Poder Judicial, el cual actuará de manera independiente, imparcial, responsable y sometida únicamente al imperio de la ley. Ningún otro poder, salvo cuando el Congreso actúe como Jurado, podrá ejercer funciones judiciales.
+## TÍTULO SEGUNDO. DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL, DE SUS FUNCIONES Y SUS ATRIBUCIONES
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
-
-###### Art. 102.
-
-Los Jueces y Magistrados no pueden ejercer otras funciones que las expresamente consignadas en la ley, salvo en los casos previstos por el artículo 112 segundo párrafo de esta Constitución. Los servidores públicos del Poder Judicial del Estado en ningún caso podrán suspender el cumplimiento de las leyes ni emitir reglamento o acuerdo alguno que entorpezca la impartición de justicia.
-
-La justicia se administrará en nombre de la ley, la que determinará las formalidades para los procedimientos judiciales. Las ejecutorias y provisiones de los Tribunales, se ejecutarán por ellos mismos, en nombre del Estado, en la forma que las leyes prescriban. El juzgador que conozca de un asunto en una instancia, no podrá hacerlo en la otra.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
-
-###### Art. 103.
-
-En los términos que disponen las leyes, es obligatorio para los servidores públicos y para los gobernados, cumplir las sentencias y demás resoluciones firmes del Supremo Tribunal de Justicia, de los Magistrados y de los Jueces; así como prestar la colaboración solicitada por éstos en el curso del proceso y en la ejecución de lo resuelto. La autoridad requerida en forma para el cumplimiento de una orden judicial, deberá proporcionar de inmediato los elementos necesarios para ello, bajo pena de hacerse acreedora a las sanciones que la ley determine para tal efecto.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
-
-###### Art. 104.
-
-Los servidores públicos del Poder Judicial del Estado, al entrar a ejercer su encargo, deberán rendir la protesta de ley. Los Magistrados lo harán ante el Congreso del Estado y los Jueces ante el Pleno del Supremo Tribunal de Justicia. El resto de los servidores públicos del Poder Judicial lo harán ante su superior jerárquico inmediato.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
-
-###### Art. 105.
-
-Los delitos imputables a los servidores públicos de la administración de justicia producen acción popular contra los mismos y contra sus cómplices, de acuerdo con lo dispuesto por el Título XI de esta Constitución.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
-
-###### Art. 106.
-
-El Supremo Tribunal de Justicia funcionará en Pleno o por Salas, en la forma que determine la ley, y se integrará por nueve Magistrados, siete que integrarán el Pleno y dos Supernumerarios, quienes serán nombrados por un periodo de cuatro años, pudiendo ser ratificados hasta en dos ocasiones por otro periodo igual, por el voto de por lo menos las dos terceras partes de los miembros presentes del Congreso del Estado, hasta completar un máximo de doce años contados a partir de la fecha de su designación inicial. En el caso de no ratificarse su nombramiento quedarán separados automáticamente de su cargo.
-
-El Congreso del Estado, a solicitud del Pleno del Supremo Tribunal de Justicia, deberá resolver sobre la ratificación, con una anticipación de por lo menos sesenta días a la fecha en que expire el plazo de ejercicio del Magistrado que corresponda.
-
-En caso de que el Pleno del Supremo Tribunal de Justicia considere necesario el nombramiento de uno o varios Magistrados Supernumerarios, enviará al Congreso del Estado la propuesta correspondiente a fin de que, si no hubiere inconveniente legal para ello, sean designados.
-
-El Pleno funcionará con el quórum que establezca la ley, bajo la presidencia de uno de los Magistrados, electo de entre ellos, en la forma que se determine en la ley. El Presidente designado será el órgano de representación del Poder Judicial, durará cuatro años en su encargo y no podrá ser reelecto para el periodo inmediato.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE ENERO DE 1966)</small>
-
-## TITULO II. De la soberanía del Estado
-
-### CAPITULO II.. DEL SUPREMO TRIBUNAL DE JUSTICIA
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
-
-###### Art. 107.
-
-El Poder Judicial del Estado contará con autonomía presupuestal, orgánica y funcional. El presupuesto del Poder Judicial será el suficiente para cubrir las necesidades en el ejercicio de su función. Los Magistrados del Supremo Tribunal de Justicia y los Jueces percibirán una remuneración adecuada e irrenunciable, determinada anualmente, la cual no podrá ser disminuida durante su encargo.
-
-El Poder Judicial constituirá un Fondo Auxiliar para la Administración de Justicia que se integrará y funcionará en los términos previstos en la ley, del cual y sin perjuicio de las remuneraciones que correspondan de acuerdo al presupuesto, el Supremo Tribunal de Justicia aplicará un porcentaje de los recursos económicos que lo integren para incrementar la capacitación, adquisición de equipo y mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, conforme a lo que al efecto acuerde el Pleno.
-
-El Ejecutivo del Estado cuidará que las cantidades que integren este Fondo se entreguen trimestralmente al Poder Judicial, quien a través de su Presidente tendrá la obligación de dar a conocer lo recaudado en el año anterior, al rendir el informe anual sobre el estado que guarda la administración de justicia.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
-
-###### Art. 108.
-
-Los Magistrados serán designados por el Congreso del Estado, por el voto de por lo menos las dos terceras partes de los Diputados presentes en la sesión.
-
-En caso de encontrarse en receso el Congreso del Estado, la Diputación Permanente lo convocará de inmediato a periodo extraordinario de sesiones para conocer de dicho asunto.
-
-Los Magistrados y Jueces serán nombrados preferentemente entre aquellas personas que hayan prestado sus servicios con eficacia y probidad en la administración de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
-
-###### Art. 109.
-
-La ley establecerá las bases para la formación y actualización de los servidores públicos del Poder Judicial. Deberá prever la creación de un Centro de Actualización Jurídica para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia. También regulará los sistemas de ascenso, escalafón y provisión de vacantes, además de reglamentar lo relativo al examen de oposición o concurso de méritos, como requisito de ingreso al Poder Judicial.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
-
-###### Art. 110.
-
-Los Magistrados serán inamovibles durante el período de su encargo, el cual cesará únicamente en los términos del Título XI de esta Constitución. Son causas de retiro forzoso:
-
-I.- Haber cumplido 70 años de edad;
-
-II.- Jubilarse en los términos legales;
-
-III.- Padecer incapacidad física o mental que los imposibilite para el desempeño de su función; y,
-
-IV.- Renunciar a su cargo o situarse en el supuesto que prevé el segundo párrafo del artículo 112 de esta Constitución.
-
-Los Magistrados solo podrán ser removidos de su encargo por el Congreso del Estado, en los términos dispuestos por el párrafo anterior. El Pleno del Supremo Tribunal de Justicia podrá, previa audiencia, separar de plano de su encargo a los Jueces, cuando a su juicio considere que existe incumplimiento de sus funciones.
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
-
-###### Art. 111.
-
-Para ser Magistrado del Supremo Tribunal de Justicia se requiere:
-
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
-
-I.- Ser ciudadano en pleno ejercicio de sus derechos políticos y civiles; mexicano por nacimiento; nativo del Estado o con residencia en el mismo por más de cinco años ininterrumpidos e inmediatamente anteriores a la fecha de la designación, salvo el caso de ausencia en cumplimiento de un servicio público;
-
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
-
-II.- Ser mayor de 35 y menor de 65 años el día de la designación;
-
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
-
-III.- Poseer título profesional de Licenciado en Derecho o su equivalente, expedido por lo menos con diez años de anterioridad al día de la designación, por autoridad o institución legalmente facultada para ello;
-
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
-
-IV.- No haber ocupado, por lo menos un año antes de la fecha de la designación, los cargos de Gobernador, Secretario de Despacho del Ejecutivo, Procurador General de Justicia, Senador, Diputado Federal o Diputado Local; y
-
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
-
-V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
-
-###### Art. 112.
-
-No podrán formar parte del Supremo Tribunal de Justicia dos o más Magistrados que tengan entre sí parentesco por consanguinidad hasta el cuarto grado, o por afinidad hasta el segundo.
-
-Ningún servidor público del Poder Judicial, aun con licencia, podrá ser abogado de terceros, apoderado en negocios ajenos, asesor, árbitro de derecho o arbitrador, ni desempeñar ningún otro empleo, cargo o comisión, ya sea público o privado, por el que reciba remuneración alguna; salvo los casos de docencia, investigación, literatura o beneficencia. Quien contravenga esta disposición será separado de su encargo, de acuerdo al trámite que disponga la ley.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
-
-###### Art. 113.
-
-Las faltas temporales y definitivas de los Magistrados serán cubiertas en los términos que establezca la ley.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
-
-###### Art. 114.
-
-Son atribuciones del Supremo Tribunal de Justicia:
-
-I.- Conocer en segunda instancia de los asuntos familiares, civiles o penales, y de aquellos que establezcan otras leyes, que al efecto remitan los Jueces de Primera Instancia y Menores;
-
-II.- Conocer en Pleno de las controversias del orden civil o mercantil que se susciten entre particulares y el Estado o los Ayuntamientos;
-
-III.- Erigirse en Jurado de Sentencia para conocer y resolver, sin recurso ulterior, las causas que se instruyan contra servidores públicos, conforme a lo dispuesto por el Título XI de esta Constitución;
-
-IV.- Ordenar las visitas carcelarias de acuerdo a las disposiciones de la ley;
-
-V.- Atender las dudas sobre la interpretación de la ley que sean planteadas por los Jueces o surjan del seno del propio Tribunal;
-
-VI.- Dirimir las cuestiones de competencia que surjan entre las autoridades judiciales del Estado, en los términos que fije la ley;
-
-VII.- Formular, ante el Congreso del Estado, iniciativas de ley tendientes a mejorar la administración de Justicia, así como expedir y modificar, en su caso, los reglamentos que se requieran para este fin;
-
-VIII.- Dictar medidas que se estimen pertinentes para que la administración de justicia que impartan los Tribunales del Estado, sea pronta, completa e imparcial;
-
-IX.- Formular, expedir y modificar, en su caso, el Reglamento Interior del Supremo Tribunal de Justicia;
-
-X.- Determinar a propuesta del Presidente la competencia de las Salas, las adscripciones de los Magistrados a las mismas; y adscribir, en su caso, a los Magistrados Supernumerarios a las Salas en los supuestos que determine la ley;
-
-XI.- Elegir Presidente del Pleno en los términos que determine la ley;
-
-XII.- Delegar al Presidente las atribuciones que estime pertinentes;
-
-XIII.- Rendir, por conducto de su Presidente, un informe anual del estado que guarda la Administración de Justicia, en Sesión Pública y Solemne del Congreso, que se verificará durante la primera quincena del mes de marzo de cada año;
-
-XIV.- Enviar al Congreso del Estado, por lo menos noventa días antes de que concluya el plazo de ejercicio de cada Magistrado, la solicitud de ratificación que corresponda;
-
-XV.- Acordar, en los casos que considere necesario, remitir solicitud por escrito al Congreso del Estado con la propuesta para designar a los Magistrados Supernumerarios;
-
-XVI.- Nombrar, cesar o suspender a los Jueces de Primera Instancia; Jueces Menores; Secretarios de Acuerdos; Relatores y Actuarios del Pleno, de las Salas y de los Juzgados; y al personal subalterno, en los casos y con las condiciones que establezca la ley; así como, en su caso, confirmar a los Jueces de Primera Instancia y Menores;
-
-XVII.- Tomar la protesta de ley, por conducto del Presidente, a los Jueces de Primera Instancia y Menores; así como designar a quien deba suplirlos, en los casos de ausencias temporales, de acuerdo con lo dispuesto en la ley;
-
-XVIII.- Señalar a cada Juez su distrito judicial, su número y la materia en que debe ejercer sus funciones; así como designar a cada Juzgado su domicilio, según lo estime conveniente para mejorar el servicio público;
-
-XIX.- Establecer remuneración adecuada e irrenunciable para Magistrados y Jueces, la cual no podrá ser disminuida durante su encargo;
-
-XX.- Calificar los impedimentos de los Magistrados y Jueces de Primera Instancia para conocer de los asuntos sometidos a su jurisdicción, en caso de excusa o recusación, en los términos previstos por la ley;
-
-XXI.- Conceder licencias hasta por un mes a los servidores públicos del Poder Judicial, así como admitir sus renuncias, sancionar sus faltas y fijar los períodos de vacaciones del propio Poder Judicial, en los términos que determine la ley;
-
-XXII.- Conocer de las quejas que se formulen contra los servidores públicos del Poder Judicial, con motivo del ejercicio de sus funciones, las que se sustanciarán de acuerdo al procedimiento establecido en la ley;
-
-XXIII.- Resolver, en única instancia, los juicios de responsabilidad civil que se promuevan en contra de los mismos;
-
-XXIV.- Conocer y resolver, en única instancia, las causas que se instruyan en contra de alguno de sus miembros, contra los Jueces de Primera Instancia y Jueces Menores por delitos cometidos en el ejercicio de sus funciones, y de las que deban sustanciarse contra los Secretarios del mismo Tribunal, por faltas y abusos cometidos en el desempeño de sus empleos;
-
-XXV.- Imponer correcciones disciplinarias a los servidores públicos del Poder Judicial, en los términos que determine la ley;
-
-XXVI.- Denunciar ante el Ministerio Público los hechos de que tenga conocimiento y que impliquen la probable responsabilidad de un servidor público del Poder Judicial;
-
-XXVII.- Conocer y tramitar la ejecución de sentencias ejecutoriadas contra el Estado, los Municipios y las entidades autónomas, en los términos del Código de Procedimientos Civiles;
-
-XXVIII.- Corregir los abusos que se adviertan en la administración de justicia, por medio de disposiciones de carácter general que no impliquen intromisión en los asuntos que se tramiten en los juzgados, no restrinjan la independencia de criterio de los juzgadores, ni entorpezcan sus funciones;
-
-XXIX.- Constituir, modificar, suprimir o aumentar los órganos administrativos que sean necesarios para la buena marcha de la administración de justicia; así como el número de servidores públicos del Supremo Tribunal de Justicia;
-
-XXX.- Discutir y aprobar el proyecto de presupuesto anual de egresos del Poder Judicial que deberá formular y proponer el Presidente, el que deberá ser remitido al Congreso del Estado, para su aprobación, así como ejercer y administrar en forma autónoma el presupuesto que le sea aprobado;
-
-XXXI.- Imponer correcciones disciplinarias a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones, actuaciones o diligencias en que intervengan ofendan o falten al respeto al Supremo Tribunal de Justicia, a alguno de sus miembros o a cualquier servidor público del Poder Judicial; y,
-
-XXXII.- Las demás facultades y obligaciones que las leyes le otorguen.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
-
-###### Art. 115.
-
-En los casos de retiro forzoso, jubilación, incapacidad o defunción, las prestaciones a los servidores públicos del Poder Judicial se cubrirán en los términos que determinen las disposiciones jurídicas aplicables.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
-
-###### Art. 116.
-
-En las causas que hubieren de formarse a los Magistrados en funciones, una vez que el Congreso del Estado, actuando como órgano de acusación, declare por la afirmativa, se remitirá la causa en los términos previstos por esta Constitución y la ley, al Pleno del Supremo Tribunal de Justicia, el cual emitirá la resolución que corresponda en cada caso. Deberá resolverse cada asunto por separado y el Procurador General de Justicia tendrá en ellas la intervención que le confiere la legislación aplicable.
+### CAPÍTULO I. De las Dependencias y Unidades Administrativas Municipales
 
 ###### ARTÍCULO 97.
 
@@ -3491,55 +2081,13 @@ IV.- El servidor público que supla la ausencia, tendrá a su cargo las atribuci
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-### CAPITULO III. De los Tribunales Inferiores
+### CAPÍTULO II
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+De las Funciones y Atribuciones de los Servidores Públicos Municipales.
 
-###### Art. 117.
+APARTADO PRIMERO
 
-Los Tribunales inferiores para la administración de justicia, estarán a cargo de los Jueces de Primera Instancia y de los Jueces Menores.
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
-
-###### Art. 118.
-
-Los Jueces de Primera Instancia y los Menores serán nombrados por el Supremo Tribunal de Justicia en Pleno.
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
-
-###### Art. 119.
-
-Los Juzgados Menores funcionarán en aquellos Municipios que el Pleno del Supremo Tribunal de Justicia considere necesario.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
-
-###### Art. 120.
-
-La ley determinará los distritos judiciales en que se dividirá el Estado, el número de Jueces de Primera Instancia y de Jueces Menores, sus requisitos, competencia, jurisdicción, duración en sus funciones, y regulará todo lo relativo a su organización.
-
-Para su modificación el Presidente del Supremo Tribunal de Justicia propondrá un proyecto de iniciativa que, una vez analizado y aceptado por el Pleno, será remitido al Congreso del Estado para su aprobación.
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
-
-###### Art. 121.
-
-Los Juzgados de Primera Instancia y los Menores serán sostenidos por el Poder Judicial del Estado.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
-
-###### Art. 122.
-
-Los Jueces de Primera Instancia y Menores serán los necesarios para el despacho pronto y expedito de los asuntos de su competencia. El Pleno del Supremo Tribunal de Justicia resolverá sobre su designación, adscripción y remoción; además determinará el número, competencia territorial y especialización por materia de los Juzgados de Primera Instancia.
-
-Los Jueces de Primera Instancia durarán en su encargo tres años. Podrán ser ratificados por períodos iguales por el Pleno del Supremo Tribunal de Justicia.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
-
-###### Art. 123.
-
-Toda parte interesada puede interponer queja ante el Supremo Tribunal de Justicia, cuando a su juicio, los Magistrados o Jueces o demás servidores del Poder Judicial incurran en faltas administrativas. La ley regulará dicho procedimiento.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1993)</small>
+De la Secretaría Particular
 
 ###### ARTÍCULO 99.
 
@@ -4507,23 +3055,23 @@ APARTADO DÉCIMO TERCERO
 
 De la Secretaría de Desarrollo Urbano
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 112.
 
 Corresponde a la Secretaría de Desarrollo Urbano:
 
-I. Participar en la elaboración de los proyectos de reglamentación de zonificación y usos de suelo, y de protección al ambiente.
+I. Participar en la elaboración de los proyectos de reglamentación de zonificación y usos de suelo, de protección al ambiente y demás necesarios para el ejercicio de sus funciones en esta materia;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+II. Ejercer las atribuciones que le otorga al Municipio el Código Urbano para el Estado, en cuanto a la autorización de fusiones, subdivisiones, relotificaciones, fraccionamientos, condominios y desarrollos inmobiliarios especiales, así como su supervisión por sí o a través las Unidades Externas de Supervisión y el control del cumplimiento de las obligaciones de los fraccionadores y promotores;
 
-II. Ejercer las atribuciones que le otorga el Código Urbano al Municipio, en cuanto a la autorización de subdivisiones, fraccionamientos, condominios y desarrollos especiales, así como su supervisión por sí o a través las Unidades Externas de Supervisión y el control del cumplimiento de las obligaciones de los fraccionadores y promoventes de los condominios;
+III. En el ámbito de los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones, vigilar el cumplimiento de lo dispuesto en el Código Urbano para el Estado y demás disposiciones jurídicas aplicables, en cuanto a los procesos de urbanización hasta su municipalización o entrega de sus obras de urbanización, según corresponda;
 
-III. En el ámbito de fraccionamientos y subdivisiones, vigilar el cumplimiento con lo dispuesto en el Código Urbano y demás disposiciones jurídicas aplicables, en cuanto a los procesos de urbanización hasta su municipalización.
+IV. Coordinar la participación del Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano, en cuanto a las atribuciones que le otorga el Código Urbano para el Estado de Aguascalientes, así como del Comité Técnico de Municipalización y Urbanización;
 
-IV. Coordinar la participación del Comité de Desarrollo Urbano y Rural en cuanto a las atribuciones que le otorga el Código Urbano para el Estado de Aguascalientes, así como del Comité Técnico de Municipalización y Urbanización.
+V. Administrar el control urbano con el otorgamiento de las siguientes autorizaciones o su rechazo:
 
-V. Administrar el control urbano con el otorgamiento de las siguientes autorizaciones:
-
-a) Alineamiento y Compatibilidad Urbanística;
+a) Constancia o Informe Municipal de Compatibilidad Urbanística;
 
 b) Anuncios;
 
@@ -4535,123 +3083,347 @@ e) Relotificación de Predios;
 
 f) Licencias para la construcción, reparación, remodelación y demolición de inmuebles;
 
-g) Realización de obras, instalaciones y reparaciones en la vía pública;
+g) Ejecución de todo tipo de obras, instalaciones aéreas, a nivel o subterráneas y reparaciones en la vía pública; y
 
 h) Números oficiales para los inmuebles.
 
-VI. Determinar el tipo de construcciones que se puedan edificar en el municipio.
+Las autorizaciones, licencias y permisos, previstos en la presente fracción serán expedidas, condicionadas o rechazadas directamente por la Dirección de Control Urbano de la Secretaría, con excepción de la autorización contemplada en el inciso e) que será competencia de la Dirección de Fraccionamientos y Bienes Inmuebles Municipales;
 
-VII. Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y usos de la vía pública de acuerdo a los planes y programas de desarrollo urbano.
+VI. Determinar el tipo de construcciones que se puedan edificar en el municipio;
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+VII. Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y usos de la vía pública de acuerdo a los planes y programas de desarrollo urbano;
 
-VIII. Coordinar la Comisión de Peritos, llevar el registro de los peritos, así como asignar peritajes por servicio social en los casos que prevé este Código.
+VIII. Coordinar la Comisión de Peritos, llevar el registro de los peritos, así como asignar peritajes por servicio social en los casos que prevé este Código;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2020)</small>
+IX. Supervisar obras de urbanización, edificación y construcciones en general, preferentemente a través de las Unidades Externas de Supervisión, o en su caso de manera aleatoria por conducto de los inspectores, verificadores y supervisores a su cargo, así como aeronaves pilotadas (sic) distancia (RPA por sus siglas en inglés Remotely Piloted Aircraft);
 
-IX. Supervisar obras de urbanización, edificación y construcciones en general a través de los inspectores, verificadores y supervisores a su cargo, así como aeronaves pilotadas distancia (RPA por sus siglas en inglés Remotely Piloted Aircraft);
+X. Cerciorarse a través de los inspectores, verificadores y supervisores a su cargo, o de las Unidades Externas de Supervisión, los Peritos Responsables de Obra y Especializados, así como aeronaves pilotadas (sic) distancia (RPA por sus siglas en inglés Remotely Piloted Aircraft), respecto del uso que se está dando a un predio, edificio o construcción y que éste se apegue a las características previamente registradas y/o autorizadas;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2020)</small>
+XI. Acordar las medidas que fueren procedentes en relación con las obras de urbanización y edificación, así como los lotes baldíos, cuyo estado presente un riesgo inminente, que generen inseguridad, insalubridad o causen molestias, detectados a través del procedimiento de verificación administrativa convencional o a través de aeronaves pilotadas (sic) distancia (RPA por sus siglas en inglés Remotely Piloted Aircraft);
 
-X. Cerciorarse a través de los inspectores, verificadores y supervisores a su cargo, así como aeronaves pilotadas distancia (RPA por sus siglas en inglés Remotely Piloted Aircraft), y aplicar la normatividad para el uso que se está dando a un predio, edificio o construcción y que éste se apegue a las características previamente registradas.
+XII. Ordenar y aplicar multas, la suspensión temporal preventiva, la clausura parcial o total, de obras de urbanización y edificación en ejecución o terminadas, e incluso su demolición total o parcial, cuando se hayan detectado infracciones a la normatividad vigente, a través del procedimiento de verificación administrativa ejecutada de forma convencional o a través de aeronaves pilotadas (sic) distancia (RPA por sus siglas en inglés Remotely Piloted Aircraft), así como la desocupación de los inmuebles en los casos previstos en este Código;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2020)</small>
+XIII. Aplicar medidas de seguridad en inmuebles en los casos previstos en este Código y el Código Urbano para el Estado;
 
-XI. Acordar las medidas que fueren procedentes en relación con las obras de urbanización y edificación así como los lotes baldíos, cuyo estado presente un riesgo inminente, que generen inseguridad, insalubridad o causen molestias, detectados a través del procedimiento de verificación administrativa convencional o a través de aeronaves pilotadas distancia (RPA por sus siglas en inglés Remotely Piloted Aircraft),
+XIV. Ordenar y ejecutar las demoliciones en inmuebles, con el apoyo de la Secretaría de Obras Públicas Municipal o de terceros en los casos previstos en este Código y el Código Urbano para el Estado;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2020)</small>
+XV. Con la expedición de la constancia de terminación de obra, autorizar la ocupación de una construcción siempre que se hayan cumplido los requisitos de este Código, o en caso contrario negarla;
 
-XII. Ordenar y aplicar multas, la suspensión temporal preventiva, o la clausura parcial o total, de obras de urbanización y edificación, en ejecución o terminadas, cuando se hayan detectado infracciones a la normatividad vigente, a través del procedimiento de verificación administrativa ejecutada de forma convencional o a través de aeronaves pilotadas distancia (RPA por sus siglas en inglés Remotely Piloted Aircraft), así como la desocupación de los inmuebles en los casos previstos en este Código.
+XVI. Imponer sanciones a las que se hagan acreedores los infractores a las disposiciones que en materia de desarrollo urbano y asentamientos humanos se encuentran previstas por el presente Código y demás disposiciones jurídicas aplicables;
 
-XIII. Aplicar medidas de seguridad en inmuebles en los casos previstos en este Código.
+XVII. Solicitar el auxilio de la fuerza pública, cuando fuere necesario para hacer cumplir sus determinaciones;
 
-XIV. Ordenar y ejecutar las demoliciones en inmuebles en los casos previstos en este Código.
+XVIII. Elaborar los estudios, análisis y procedimientos para la expedición de las normas y especificaciones técnicas complementarias de urbanización y edificación para la ejecución de las obras de urbanización y la prestación de servicios en subdivisiones, fraccionamientos, condominios, desarrollos inmobiliarios especiales y cualquier obra de urbanización; así como de las construcciones y posteriormente procurar su aplicación;
 
-XV. Autorizar la ocupación de una construcción siempre que se hayan cumplido los requisitos en este Código, o en caso contrario negarla.
+XIX. Determinar los requisitos y procedimientos para que en su caso el Ayuntamiento autorice, rectifique o cambie la nomenclatura de vialidades públicas, parques, jardines, plazas, sitios y monumentos históricos y todo aquel lugar de carácter público factible de otorgársele denominación;
 
-XVI. Imponer sanciones a las que se hagan acreedores los infractores a las disposiciones que en materia de desarrollo urbano y asentamientos humanos se encuentran previstas por el presente Código y demás disposiciones jurídicas aplicables.
+XX. Ejercer las atribuciones que otorga al Municipio el Código Urbano para el Estado, en cuanto al desarrollo urbano y asentamientos humanos;
 
-XVII. Solicitar el auxilio de la fuerza pública, cuando fuere necesario para hacer cumplir sus determinaciones.
+XXI. Proponer las obras y servicios públicos que sean necesarios para el desarrollo urbano;
 
-XVIII. Expedir y aplicar las normas y especificaciones técnicas complementarias de urbanización y edificación para el debido cumplimiento en lo relativo a la ejecución de las obras de urbanización y la prestación de servicios en subdivisiones, fraccionamientos, condominios y desarrollos especiales; así como de las construcciones.
+XXII. Proveer los elementos para la exacta observancia de la planeación urbana;
 
-XIX. Determinar los requisitos y procedimientos para autorizar la asignación, forma de instalación, rectificación y cambio de nomenclatura de fraccionamientos, vialidades, parques, jardines, plazas, sitios y monumentos históricos y todo aquel lugar factible de otorgársele denominación.
+XXIII. Establecer una adecuada coordinación con las dependencias y organismos de gobierno federal y estatal, que realicen acciones de desarrollo urbano y vivienda;
 
-XX. Ejercer las atribuciones que otorga al Municipio el Código Urbano, en cuanto al desarrollo urbano y asentamientos humanos.
+XXIV. Una vez validada la congruencia, coordinación y ajuste de los programas de desarrollo urbano municipales por parte del Instituto Municipal de Planeación y Evaluación ante la Secretaría de Planeación, Participación y Desarrollo del Estado, gestionar su publicación en el Periódico Oficial del Estado y su inscripción en el Registro Público de la Propiedad del Estado y del Comercio;
 
-XXI. Proponer las obras y servicios públicos que sean necesarios para el desarrollo urbano.
+XXV. Por conducto de las Unidades Externas de Supervisión, verificar y constatar que la ejecución de las obras de urbanización, sean compatibles con el proyecto autorizado, la calidad de los materiales y trabajos realizados en las mismas y en obras de edificación, así como el avance de éstas en los fraccionamientos, condominios, desarrollos inmobiliarios especiales, subdivisiones y cualquier obra de urbanización. Adicionalmente a lo anterior y de manera aleatoria, supervisar directamente y con su personal los trabajos de verificación que efectúen las Unidades Externas de Supervisión.
 
-XXII. Proveer los elementos para la exacta observancia de la planeación urbana.
+Para los efectos de lo señalado en el párrafo anterior, le corresponderá aplicar las disposiciones contenidas en este Código, para la asignación, contratación, funcionamiento, coordinación y control de las Unidades Externas de Supervisión;
 
-XXIII. Establecer una adecuada coordinación con las dependencias y organismos de gobierno federal y estatal, que realicen acciones de desarrollo urbano y vivienda.
+XXVI. Autorizar la constitución, modificación y extinción del régimen de propiedad en condominio, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados o menos de 100 predios, viviendas, departamentos, unidades o áreas, previa opinión de la Secretaría de Planeación, Participación y Desarrollo del Estado;
 
-XXIV. Realizar el procedimiento de conservación de predios y edificaciones a que hace referencia la Normatividad Municipal.
+XXVII. Autorizar los desarrollos inmobiliarios especiales, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados, previa opinión de la Secretaría de Planeación, Participación y Desarrollo del Estado;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+XXVIII. Aplicar la normatividad establecida en fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones de los usos permitidos en concordancia con el plano de uso de suelo autorizado por las autoridades competentes;
 
-XXV. Supervisar por sí o a través de las Unidades Externas de Supervisión la calidad de los materiales y trabajos realizados en las obras de urbanización, así como el avance de éstas, que se realicen en los fraccionamientos, subdivisiones, condominios y desarrollos especiales.
+XXIX. De manera extraordinaria y justificadamente, requerir los dictámenes correspondientes para liberar las constancias de terminación de obra en la ejecución de la urbanización de subdivisiones, fraccionamientos, condominios, desarrollos inmobiliarios especiales y cualquier tipo de obra de urbanización;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+XXX. Coordinar los Comités, Consejos y Subcomités en materia urbana: Subcomité de Asentamientos Humanos Irregulares, Subcomité de Tránsito y Análisis Vial, Comité de Bienes Inmuebles del Municipio de Aguascalientes, el Subcomité Técnico de Cartografía y el Subcomité de Imagen Urbana; y otros que establezca la normatividad aplicable;
 
-XXVI. Supervisar por sí o a través de las Unidades Externas de Supervisión, los trabajos de edificación que se realicen en los fraccionamientos, subdivisiones, condominios y desarrollos especiales.
+XXXI. Dictaminar sobre el uso de suelo de bienes inmuebles cuando así le sea requerido;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+XXXII. Suscribir convenios de reubicación cuando existan conflictos respecto al uso de suelo;
 
-XXVII. Conforme a lo dictaminado por sí o por las Unidades Externas de Supervisión y el Perito responsable de las Obras de Urbanización, dictaminar sobre el avance, calidad y cumplimiento de las obras de urbanización de los Fraccionamientos, Condominios y desarrollos especiales en proceso de municipalización o entrega a la Asamblea de Condóminos.
+XXXIII. Garantizar el cumplimiento de lo establecido en el Código Urbano para el Estado, en el presente Código, Reglamentos Municipales y demás legislación aplicable;
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+XXXIV. Expedir autorización de uso de suelo a estacionamientos públicos;
 
-XXVIII. Aplicar la normatividad establecida en fraccionamientos, condominios y desarrollos especiales de los usos permitidos en concordancia con el plano de uso de suelo autorizado por las autoridades competentes;
+XXXV. Autorizar, ordenar y controlar toda clase de anuncios públicos o privados, así como retirarlos con el apoyo de otras Dependencias y Entidades Municipales o terceros;
 
-XXIX. Requerir los dictámenes correspondientes para liberar las constancias de terminación de obra en la ejecución de la urbanización de subdivisiones, fraccionamientos, condominios y desarrollos especiales.
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2009)</small>
-
-XXX. Coordinar los Comités y Subcomités en materia Urbana; Subcomité de Asentamientos Humanos Irregulares, subcomité de Tránsito y Análisis Vial, Comité de Bienes Inmuebles del Municipio de Aguascalientes, el Subcomité Técnico de Cartografía y el Subcomité de Imagen Urbana.
-
-XXXI. Dictaminar sobre el uso de suelo de bienes inmuebles cuando así le sea requerido.
-
-XXXII. Suscribir convenios de reubicación cuando existan conflictos respecto al uso de suelo.
-
-XXXIII. Garantizar el cumplimiento de lo establecido en el Código Urbano y en el presente Código.
-
-XXXIV. Expedir autorización de uso de suelo a estacionamientos públicos.
-
-XXXV. Autorizar, ordenar, controlar y retirar toda clase de anuncios públicos o privados.
-
-XXXVI. Autorizar, ordenar, controlar y retirar el mobiliario urbano.
-
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+XXXVI. Autorizar, ordenar y controlar el mobiliario y equipamiento urbano, así como retirarlo con el apoyo de otras Dependencias y Entidades Municipales o terceros;
 
 XXXVII. Asesorar y apoyar técnica y jurídicamente los casos que procedan de regularización de asentamientos humanos irregulares dentro del municipio de Aguascalientes;
 
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
-
 XXXVIII. Coadyuvar en las medidas de carácter preventivo que fueren procedentes, con instituciones y dependencias federales, estatales y municipales, que permitan el abatimiento de prácticas irregulares en materia de asentamientos humanos;
-
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
 XXXIX. Participar en la suscripción de convenios de colaboración que celebre la Presidencia Municipal con las dependencias y organismos de gobierno federal, estatal y municipal, a fin de promover acciones de regularización de la tenencia de la tierra y asentamientos informales;
 
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+XL. Gestionar el procedimiento de regularización de asentamientos humanos que carecen de los permisos respectivos, de acuerdo con los segmentos de competencia municipal que las leyes establezcan;
 
-XL. Gestionar el procedimiento de regularización de asentamientos humanos que carecen de los permisos respectivos, de acuerdo a los segmentos de competencia municipal que las leyes establezcan;
+XLI. Elaborar, controlar y mantener actualizado el inventario del patrimonio inmobiliario conforme a lo establecido en la normatividad en la materia;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2015)</small>
+XLII. Llevar a cabo el levantamiento físico del inventario de los bienes inmuebles de propiedad municipal de conformidad con la normatividad en la materia;
 
-XLI. Elaborar, controlar y mantener actualizado el inventario del patrimonio inmobiliario conforme a lo establecido en la normatividad en la materia.
+XLIII. Proporcionar a la Secretaría de Finanzas Públicas, licencias de construcción, constancias de terminación de obra o cualquier otro documento o información que obre en sus archivos, donde se advierta el incremento en el valor de un inmueble por el que se deba aumentar el cobro del impuesto a la propiedad raíz, así como auxiliar a dicha Secretaría para la ejecución de lo previsto en el artículo 108 fracción XXVII de este Código;
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+XLIV. Autorizar la publicidad y posteriormente la venta de predios, previo cumplimiento de los requisitos legales, respecto de los condominios y subdivisiones autorizados de su parte;
 
-XLII. Llevar a cabo el levantamiento físico del inventario de los bienes inmuebles de conformidad con la normatividad en la materia.
+XLV. Autorizar el calendario o programa de obras de urbanización y en su caso de la infraestructura y equipamiento sustituido por áreas de donación municipal, respecto de los proyectos autorizados de su parte, determinando la temporalidad para su ejecución, de acuerdo con la superficie e implicaciones del proyecto correspondiente;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ENERO DE 2023)</small>
+XLVI. Autorizar el inicio de las obras de urbanización de los condominios, desarrollos inmobiliarios especiales y subdivisiones autorizados de su parte;
 
-XLIII. Proporcionar a la Secretaría de Finanzas Públicas, licencias de construcción, constancias de terminación de obra o cualquier otro documento o información que obre en sus archivos, donde se advierta el incremento en el valor de un inmueble por el que se deba aumentar el cobro del impuesto a la propiedad raíz, así como auxiliar a dicha Secretaría para la ejecución de lo previsto en el artículo 108 fracción XXVII de este Código.
+XLVII. Expedir y revocar los permisos para las urbanizaciones cerradas;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2023)</small>
+XLVIII. Emitir opinión sobre la autorización, modificación, extinción y revocación de los fraccionamientos, condominios y desarrollos inmobiliarios especiales, que le correspondan autorizar al Consejo Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda o la Secretaría de Planeación, Participación y Desarrollo del Estado;
 
-XLIV. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XLIX. Con la participación del Comité Técnico de Municipalización y Urbanización, determinar la superficie, ubicación y el aprovechamiento de las áreas de donación que le deben otorgar los fraccionadores y promotores al Municipio, conforme a lo establecido en el Código Urbano para el Estado;
+
+L. Autorizar la sustitución de áreas de donación por la dotación de equipamiento urbano, infraestructura u obras de impacto social significativo de carácter público, conforme a lo previsto en el Código Urbano para el Estado de Aguascalientes, previa opinión del Comité Técnico de Municipalización y Urbanización;
+
+LI. Acorde a lo dictaminado por las Unidades Externas de Supervisión y los Peritos Responsables de Obra, en su caso expedir los dictámenes técnico jurídicos, respecto de la ejecución de las obras de urbanización por parte de los fraccionadores y promotores, en cuanto a la compatibilidad del proyecto autorizado y la calidad de los materiales y obras, así como la integración del expediente en lo referente a las obligaciones de los desarrolladores;
+
+LII. Conocer y dar trámite a las denuncias populares que se le presenten;
+
+LIII. Mediar y conciliar cuando se les solicite, en coordinación en su caso con la Secretaría de Planeación, Participación y Desarrollo del Estado, en asuntos, conflictos y controversias entre la población o de ésta con los fraccionadores o promotores;
+
+LIV. Coordinarse con la Secretaría de Planeación, Participación y Desarrollo del Estado, para implementar, integrar y operar en el ámbito de su competencia el expediente digital único, para la tramitación, autorización, ejecución y control de las obras de urbanización, así como la municipalización de un fraccionamiento o subdivisión y la entrega de las obras de urbanización de los condominios;
+
+LV. En coordinación con la Secretaría de Planeación, Participación y Desarrollo del Estado, implementar y actualizar una certificación para los asesores inmobiliarios, a fin de propiciar y facilitar que los fraccionadores y promotores, efectúen la debida, correcta y expedita integración de los expedientes para la autorización y ejecución de las obras de urbanización, en los fraccionamientos, condominios y desarrollos inmobiliarios especiales;
+
+LVI. Expedir, por conducto de su titular, copias certificadas de todo documento emitido por esta Secretaría;
+
+LVII. Ejercer el derecho de preferencia para adquirir por el Municipio, predios comprendidos en zonas de reserva territorial, para destinarlos preferentemente a la constitución de espacios públicos; para tal efecto se solicitará opinión al Instituto Municipal de Planeación y Evaluación; y
+
+LVII (SIC). Las demás que señale la Ley Municipal, el Código Urbano para el Estado, el presente Código y las que le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(ADICIONADA CON LAS SUBSECCIONES Y ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+#### SECCIÓN ÚNICA. De las Unidades Externas de Supervisión
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+SUBSECCIÓN PRIMERA
+
+Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+ARTÍCULO 112 BIS.- La presente sección se expide con fundamento en el (sic) artículos 115 fracción V de la Constitución Política de los Estados Unidos Mexicanos, 1° fracción II y 11 fracciones IX, XI y XXV de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, y 2 fracciones II y III, 21 fracciones II, XXVI, XXX, XXXIX y XL del Código Urbano para el Estado de Aguascalientes.
+
+Las disposiciones contenidas en esta sección son de observancia obligatoria e interés general. Tienen como objeto establecer las bases para la Asignación, Contratación, Funcionamiento, Coordinación y Control de Unidades Externas de Supervisión para efectuar la supervisión única en la ejecución de obras de urbanización en los fraccionamientos, condominios, desarrollos inmobiliarios especiales, subdivisiones y cualquier obra de urbanización, así como de edificación, previstos en el Código Urbano para el Estado de Aguascalientes, en el presente Código y demás disposiciones jurídicas aplicables.
+
+Conforme a lo previsto en el artículo 4º del Código Urbano para el Estado de Aguascalientes, para efectos de la presente sección se entenderá por:
+
+I. Unidades Externas de Supervisión: Son las empresas certificadas en términos de la Ley de Infraestructura de la Calidad y el Código Urbano, con capacidad humana y técnica para revisar las obras de urbanización y edificación a que se refiere el citado Código Urbano y el Código Municipal;
+
+II. Supervisión única: La verificación que realicen las Unidades Externas de Supervisión, respecto de la compatibilidad del proyecto autorizado, así como de la calidad y especificaciones de los materiales, obras y servicios realizados durante la urbanización o edificación de un predio o lote, en los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones;
+
+III. Equipamiento urbano: El conjunto de inmuebles, instalaciones, infraestructura, construcciones y mobiliario utilizado para prestar los servicios urbanos y desarrollar las actividades económicas, sociales y culturales;
+
+IV. Infraestructura primaria: Comprende el conjunto de obras y servicios que los promotores de cualquier acción urbanística estarán obligados a ejecutar con el objetivo de que se garantice la obra inicial de soporte para el desarrollo de otras actividades en zonas de crecimiento carentes de ellas, pudiendo ser colectores sanitarios y pluviales, entronques carreteros y consolidación de arterias viales, plantas de tratamiento, redes de distribución eléctrica y pluvial, entre otras;
+
+V. Infraestructura urbana: Los sistemas y redes de organización, distribución y movilidad de personas, así como de los bienes y servicios en los centros de población;
+
+VI. Obras de cabecera: Las correspondientes a la ejecución de trabajos de infraestructura primaria, servicios y obras de liga vial tendientes a garantizar la conectividad y funcionalidad de la acción urbanística hacia las zonas urbanizadas o urbanizables del centro de población donde se pretendan ubicar; y
+
+VII. Obras de urbanización: Proyecto que contemple la infraestructura que se ejecutará en el terreno destinado a convertirlo en fraccionamiento, condominio, desarrollo inmobiliario especial, subdivisión o fusión; y podrá referirse al servicio de agua potable, drenaje pluvial o sanitario, energía eléctrica, gas, alumbrado público, tipos de comunicación, guarniciones y banquetas, pavimentación de arroyo de vías, estacionamientos, sistemas de nomenclatura, señalamiento vial, trabajos de arborización y jardinería. Deberá considerar además la incorporación de obras de infraestructura primaria, así como los servicios destinados a las áreas urbanas y edificaciones. Finalmente, cuando se trate de subdivisión o fusión, se referirá únicamente a las acciones tendientes a completar las obras existentes o faltantes.
+
+Para efectos de esta sección, también serán aplicables el resto de los conceptos definidos en el artículo 4º del Código Urbano para el Estado.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+SUBSECCIÓN SEGUNDA
+
+Del Registro, Asignación y Control de las Unidades Externas de Supervisión
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+ARTÍCULO 112 TER.- Las Unidades Externas de Supervisión deberán registrarse ante la Secretaría de Desarrollo Urbano para la realización de sus actividades en el Municipio de Aguascalientes, cumpliendo con los requisitos establecidos por en (sic) el presente Código Municipal.
+
+Las Unidades Externas de Supervisión, previo contrato de prestación de servicios celebrado con el Municipio, a través de las Secretarías de Desarrollo Urbano y Administración y en términos de la normatividad aplicable, realizarán la supervisión a las obras de urbanización de los fraccionamientos, condominios, desarrollos inmobiliarios, subdivisiones, entre otras, en los términos y condiciones que establezca el Código Urbano para el Estado, el presente Código y demás disposiciones aplicables.
+
+Las Unidades Externas de Supervisión, tendrán las siguientes obligaciones:
+
+I. Realizar bajo su responsabilidad directa, la supervisión de las obras de urbanización y edificación, conforme a los lineamientos establecidos en el dictamen de autorización de los fraccionamientos, condominios, desarrollos inmobiliarios especiales, subdivisiones o cualquier otra, expedido por el Consejo Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda, la Secretaría de Planeación, Participación y Desarrollo del Estado o el Municipio, y las disposiciones del Código Urbano para el Estado, el presente Código, reglamentos municipales y manuales expedidos para ese fin;
+
+II. Encontrarse certificada por un organismo de normalización y certificación de carácter nacional, designado por la Secretaría de Desarrollo Urbano Municipal, en los términos de la Ley de Infraestructura de la Calidad y actualizando en tiempo y forma dicha certificación;
+
+III. Estar inscrita en el Registro Municipal de las Unidades Externas de Supervisión;
+
+IV. Renovar el registro correspondiente, con la periodicidad requerida;
+
+V. Acreditar anualmente al Municipio, la actualización y capacitación de los supervisores acreditados para efecto de realizar sus funciones;
+
+VI. Asistir conjuntamente con las autoridades de la Secretaría de Desarrollo Urbano Municipal, así como del Perito Responsable de las obras de urbanización o edificación, los peritos especializados si existieran y del propietario o de su representante, a la apertura de la bitácora de obra;
+
+VII. Atender con toda diligencia y puntualidad las observaciones y requerimientos que le realice la Secretaría de Desarrollo Urbano Municipal;
+
+VIII. Realizar la supervisión de las obras de urbanización y edificación, conforme a los lineamientos y periodicidad señalados en el Código Urbano para el Estado, el presente Código y autorizaciones correspondientes;
+
+IX. Tratándose de obras de urbanización, informar quincenalmente a la Secretaría de Desarrollo Urbano Municipal, respecto del avance de las mismas, la calidad de los materiales, obras y servicios realizados, en lo concerniente a la infraestructura y equipamiento hidráulico, sanitario, tratamiento de aguas residuales en su caso, drenaje pluvial o superficial, de pavimentos, guarniciones y banquetas, alumbrado público y electrificación, redes de voz y datos, gas, forestación y jardinería, nomenclatura y señalización vial, así como en lo referente a la compatibilidad de éstas conforme a lo autorizado;
+
+X. Una vez concluida la obra de urbanización, en algunos o en todos los conceptos o servicios indicados en la fracción anterior conforme a lo autorizado, emitir el dictamen total o parcial respectivo, a efecto de tomarse en cuenta por la Secretaría de Desarrollo Urbano Municipal, al momento de expedir el dictamen técnico para la municipalización parcial o total de un fraccionamiento o subdivisión o la entrega de las obras de urbanización a los condóminos;
+
+XI. Respecto de las obras de edificación, informar quincenalmente a la Secretaría de Desarrollo Urbano Municipal, referente al avance de las mismas y la calidad de los materiales, obras y servicios, conforme a lo establecido en el Código Urbano para el Estado, el presente Código y demás disposiciones jurídicas aplicables y en su caso expidiendo el dictamen para que se genere la constancia de terminación de obra;
+
+XII. Registrar sus visitas, anotaciones y observaciones con relación a las obras de urbanización en los fraccionamientos, condominios, desarrollos inmobiliarios especiales, subdivisiones o cualquier obra en el libro de bitácora.
+
+De igual forma, consultar e integrar su actuación, informes, dictámenes y documentación en el Expediente Digital Único respectivo;
+
+XIII. Verificar el cumplimiento del calendario o programa de obras de urbanización y, en su caso, de edificación, reportando por escrito y de inmediato a la Secretaría de Desarrollo Urbano Municipal los retrasos o incumplimientos;
+
+XIV. Verificar la presencia de los residentes de obras y las visitas de los peritos, que deberán hacerse constar en el libro de bitácora;
+
+XV. Coordinar sus funciones con el Perito Responsable de las Obras de Urbanización o Especialista;
+
+XVI. Emitir el reporte conforme a los lineamientos expedidos por la Secretaría de Planeación, Participación y Desarrollo del Estado o la Secretaría de Desarrollo Urbano Municipal, según corresponda, en el que avale la expedición de la autorización de venta de lotes o predios, locales o áreas, tratándose de fraccionamientos, condominios o subdivisiones y de renta en desarrollos inmobiliarios especiales;
+
+XVII. Expedir dictamen conforme a los lineamientos indicados por la Secretaría de Desarrollo Urbano Municipal que justifique la municipalización total o parcial de un fraccionamiento o subdivisión o la entrega total o parcial de las obras de urbanización a la Asamblea General de Condóminos;
+
+XVIII. Suscribir las actas de municipalización de los fraccionamientos y subdivisiones;
+
+XIX. Contar con el personal y equipo necesario para el desarrollo de sus actividades de acuerdo al nivel registrado, domiciliado en el Municipio de Aguascalientes;
+
+XX. Desarrollar sus actividades de supervisión de obras de urbanización de los fraccionamientos, condominios, desarrollos inmobiliarios especiales, subdivisiones y cualquier obra en el Municipio, en términos del contrato de prestación de servicios correspondiente, en el cual se establecerá que la supervisión se realice con estricto apego a lo dispuesto por el Código Urbano para el Estado, el presente Código y demás disposiciones legales aplicables incluyendo las Normas Oficiales Mexicanas, así como las Normas Mexicanas;
+
+XXI. Tratar y resguardar la información técnica y financiera que reciba y procese para el ejercicio de sus actividades, de conformidad con la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, así como las leyes locales de ambas materias;
+
+XXII. Para efecto de suscribir el contrato para la supervisión de obras de urbanización, informar al Municipio los fraccionamientos, condominios, subdivisiones, desarrollos inmobiliarios especiales u obras, que se encuentre supervisando en otros Municipios, incluyendo la superficie correspondiente, a efecto de determinar si tiene o no la capacidad para verificar un nuevo desarrollo; y
+
+XXIII. Las demás determinadas por el Código Urbano para el Estado, el presente Código Municipal, lineamientos emitidos por la Secretaría de Planeación, Participación y Desarrollo del Estado, y la Secretaría de Desarrollo Urbano Municipal y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+ARTÍCULO 112 QUATER.- La Secretaría de Desarrollo Urbano Municipal llevará un registro actualizado de las Unidades Externas de Supervisión; para tal efecto, dichas Unidades deberán cumplir con los siguientes requisitos:
+
+I. Ser una empresa constituida conforme a las leyes mexicanas, debidamente inscrita ante el Registro Público de la Propiedad y del Comercio del Estado;
+
+II. Encontrarse al corriente el pago de sus obligaciones fiscales federales, estatales y municipales;
+
+III. Tener representación legal en el Estado de Aguascalientes y señalar un domicilio en el Municipio;
+
+IV. Solicitar su registro ante la Secretaría de Desarrollo Urbano Municipal en el formato que ésta emita; y
+
+V. Adjuntar a la solicitud de registro a que se refiere la fracción anterior, la siguiente documentación:
+
+a) Original y copia simple para su cotejo del certificado vigente expedido por la instancia pública o privada acreditada para ello en términos de la Ley de Infraestructura de la Calidad; y
+
+b) Original y copia simple para su cotejo de la documentación que acredite experiencia en el ramo y que respalde su capacidad de supervisión a efecto de determinar su nivel de clasificación en términos de lo dispuesto en el Código Municipal.
+
+La Secretaría de Desarrollo Urbano Municipal analizará la solicitud y emitirá una resolución de registro en un término de diez días hábiles siguientes al momento en que quede conformado el expediente en su totalidad.
+
+La Secretaría de Desarrollo Urbano Municipal podrá requerir fundada y motivadamente a la solicitante la exhibición de información o documentación adicional necesaria para la conformación del expediente. En lo no contemplado en la presente sección, aplicará el libro noveno de este Código y la Ley del Procedimiento Administrativo del Estado de Aguascalientes, en ese orden.
+
+La Secretaría de Desarrollo Urbano Municipal emitirá refrendo del registro a la Unidad Externa de Supervisión con el mismo procedimiento para su registro inicial. El refrendo se emitirá cada vez que la Unidad Externa de Supervisión renueve su certificación ante la instancia pública o privada acreditada para ello en términos de la Ley de Infraestructura de la Calidad. En la solicitud de refrendo, la Unidad Externa de Supervisión, podrá solicitar su reclasificación de nivel en términos de lo señalado en el siguiente párrafo.
+
+La Secretaría de Desarrollo Urbano Municipal clasificará el registro a que se refiere el presente artículo de acuerdo al nivel de capacidad de atención de las Unidades Externas de Supervisión, conforme a los siguientes criterios:
+
+I. NIVEL 1: Unidades Externas de Supervisión con capacidad para supervisar fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones de 1 a 90,000 metros cuadrados de superficie de urbanización; para aquellas Unidades Externas de Supervisión que cuenten con un mínimo de 2 supervisores;
+
+II. NIVEL 2: Unidades Externas de Supervisión con capacidad para supervisar fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones de 90,001 a 225,000 metros cuadrados de superficie de urbanización; para aquellas Unidades Externas de Supervisión que cuenten con un mínimo de 5 supervisores;
+
+III. NIVEL 3: Unidades Externas de Supervisión con capacidad para supervisar fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones de 225,001 a 450,000 metros cuadrados de superficie de urbanización; para aquellas Unidades Externas de Supervisión que cuenten con un mínimo de 7 supervisores; y
+
+IV. NIVEL 4: Unidades Externas de Supervisión con capacidad para supervisar fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones de 450,001 metros cuadrados de superficie de urbanización en adelante, para aquellas Unidades Externas de Supervisión que cuenten con un mínimo de 10 supervisores.
+
+Dentro de los 5 días naturales siguientes a que la Secretaría de Planeación, Participación y Desarrollo del Estado o la Secretaría de Desarrollo Urbano Municipal, según corresponda, emitan a favor del fraccionador o promotor el oficio de autorización de inicio de las obras de urbanización en términos de lo dispuesto por el Código Urbano para el Estado, la Secretaría de Desarrollo Urbano realizará la asignación de Unidad Externa de Supervisión bajo el siguiente procedimiento:
+
+I. A partir de los metros cuadrados de superficie de la etapa de urbanización correspondiente al fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión, clasificará el nivel de Unidad Externa de Supervisión que habrá de supervisarla en términos de lo dispuesto por el presente artículo;
+
+II. La Secretaría de Desarrollo Urbano Municipal efectuará la asignación de la Unidad Externa de Supervisión de entre las unidades que se encuentren debidamente registradas dentro del nivel de supervisión correspondiente, bajo criterios aleatorios que aseguren la participación de todas las Unidades Externas de Supervisión que no hayan sido objeto de penalización o sanción en el último año y de acuerdo a su nivel, garantizando la equidad y transparencia de los procesos de selección, para garantizar la prestación óptima de los servicios de supervisión; y
+
+III. Tomar en consideración el número de fraccionamientos, condominios, desarrollos inmobiliarios especiales, subdivisiones u obras, que la Unidad Externa de Supervisión respectiva, se encuentre supervisando en el Municipio de Aguascalientes, u otros Municipios, conforme a la información que esta misma le proporcione a la Secretaría de Desarrollo Urbano Municipal.
+
+La Secretaría de Desarrollo Urbano Municipal, al realizar la asignación a la Unidad Externa de Supervisión, le entregará de manera digital a esta última la documentación señalada en el artículo 398 del Código Urbano para el Estado.
+
+La Secretaría de Desarrollo Urbano Municipal, con el apoyo de la Secretaría de Administración del Municipio, implementará un sistema informático que garantice la participación equitativa y transparente de las Unidades Externas de Supervisión a que se refiere el artículo anterior; dicho sistema deberá apegarse a las características y requerimientos que defina la Secretaría de Desarrollo Urbano Municipal.
+
+La Secretaría de Desarrollo Urbano Municipal en conjunto con la Secretaría de Administración, emitirán un Manual de Operación del Sistema Informático referido en el párrafo anterior.
+
+La Secretaría de Desarrollo Urbano Municipal ejercerá las siguientes medidas de control y evaluación a las Unidades Externas de Supervisión:
+
+I. Recibir y analizar los reportes de avances de las Unidades Externas de Supervisión;
+
+II. Requerir a las Unidades Externas de Supervisión informes adicionales de sus actividades; y
+
+III. Hacer verificaciones aleatorias a las obras de urbanización de los fraccionamientos, condominios, desarrollos inmobiliarios espaciales, subdivisiones o cualquier obra para comprobar que los reportes de las Unidades Externas de Supervisión sean verídicos.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+SUBSECCIÓN TERCERA
+
+De la Contratación de las Unidades Externas de Supervisión
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+ARTÍCULO 112 QUINQUIES.- La Secretaría de Desarrollo Urbano Municipal con la intervención que le corresponda a la Secretaría de Administración, celebrará contrato para la prestación de los servicios para la supervisión de las obras de urbanización del fraccionamiento, condominio, desarrollo inmobiliario especial, subdivisión o cualquier obra correspondiente, con la Unidad Externa de Supervisión que resulte asignada.
+
+El contrato deberá realizarse en términos del Reglamento de Adquisiciones, Arrendamientos y Servicios del Municipio de Aguascalientes y demás legislación aplicable, y contemplar al menos los siguientes derechos y obligaciones:
+
+I. Fundamentos legales;
+
+II. Los antecedentes que comprueben el registro vigente de la Unidad Externa de Supervisión;
+
+III. La justificación de excepción de licitación pública en la contratación del servicio, por tratarse de un servicio exclusivo que solamente pueden prestar las empresas que cuenten con registro vigente;
+
+IV. Declaraciones de las partes; y
+
+V. Cláusulas contemplando lo siguiente:
+
+a) Objeto del contrato;
+
+b) El precio pactado por los servicios prestados por la Unidad Externa de Supervisión, conforme a lo establecido en el presupuesto de egresos del municipio para el ejercicio fiscal correspondiente;
+
+c) El mecanismo de autorización de pago por parte del Municipio a favor de las Unidades Externas de Supervisión, por los servicios prestados de acuerdo con los avances de la misma;
+
+d) La obligación de las Unidades Externas de Supervisión de adherirse a las obligaciones contempladas en el presente Código Municipal;
+
+e) La Obligación de las Unidades Externas de Supervisión de realizar la supervisión en términos del Código Urbano para el Estado y el presente Código Municipal;
+
+f) Los mecanismos y metodologías para la comunicación, seguimiento y evaluación;
+
+g) Las sanciones y penas convencionales aplicables a las Unidades Externas de Supervisión como consecuencia del incumplimiento de sus obligaciones;
+
+h) Las formas de terminación anticipada por caso fortuito, fuerza mayor o falta de presupuesto;
+
+i) Estipulaciones para el caso de controversia en la interpretación o aplicación del instrumento;
+
+j) Estipulaciones Finales; y
+
+k) Otras que establezca el Reglamento de Adquisiciones, Arrendamientos y Servicios del Municipio de Aguascalientes.
+
+En caso de que la Unidad Externa de Supervisión asignada no firme el contrato de prestación de servicios o el mismo se dé por terminado o rescindido, se volverá a realizar el procedimiento de asignación en términos de lo establecido en (sic) presente Código Municipal y el Reglamento de Adquisiciones, Arrendamientos y Servicios del Municipio de Aguascalientes, excluyendo a la Unidad Externa de Supervisión que se haya negado a signar el contrato de prestación de servicios o que le haya sido terminado o rescindido el contrato por causa imputable a ella.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+SUBSECCIÓN CUARTA
+
+Del Pago a las Unidades Externas de Supervisión
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+ARTÍCULO 112 SEXIES.- Formalizada la contratación y presentado el supuesto para el pago a la Unidad Externa de Supervisión correspondiente, la misma iniciará los trámites de pago ante la Secretaría de Desarrollo Urbano Municipal mediante la presentación de la factura correspondiente, acompañada de un informe de avance de obra de urbanización y del cumplimiento de las obligaciones a su cargo.
+
+La Secretaría de Desarrollo Urbano Municipal autorizará el pago a las Unidades Externas de Supervisión en proporción a las semanas correspondientes y/o al avance físico de urbanización registrado. Las semanas y/o el avance físico de urbanización lo determinará la Secretaría de Desarrollo Urbano Municipal a partir de los reportes e informes que emitan en tiempo y forma las propias Unidades Externas de Supervisión, de las anotaciones en (sic) bitácora por parte de los peritos responsables y de las verificaciones aleatorias que realice la misma Secretaría de Desarrollo Urbano Municipal, así como la información incorporada al Expediente Digital Único.
+
+Los reportes e informes que rindan las Unidades Externas de Supervisión deberán reunir las características y contenido que hubiera determinado la Secretaría de Desarrollo Urbano Municipal.
+
+Una vez determinadas las semanas de verificación y/o el porcentaje de avance físico de la obra, la Secretaría de Desarrollo Urbano Municipal autorizará el pago a la Unidad Externa de Supervisión en la proporción que corresponda, elaborando para ello el documento maestro correspondiente y sus anexos, los cuales remitirá a la Secretaría de Administración y a la Secretaría de Finanzas Públicas Municipales, para su trámite y pago con cargo al presupuesto de la Secretaría de Desarrollo Urbano Municipal.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+SUBSECCIÓN QUINTA
+
+De la Coordinación
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2023)</small>
+
+ARTÍCULO 112 SEPTIES.- La Secretaría de Desarrollo Urbano Municipal propondrá al Presidente o Presidenta Municipal la celebración de acuerdos de colaboración y coordinación con otros Municipios del Estado, particularmente con los de la zona conurbana y con la participación de la Secretaría de Planeación, Participación y Desarrollo del Estado, para mejorar los procesos de supervisión única en los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones, a través de Unidades Externas de Supervisión.
+
+La supervisión única que se realice a las obras de urbanización de los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones por parte de las Unidades Externas de Supervisión, constará de las partes que establece el artículo 403 del Código Urbano para el Estado de Aguascalientes.
+
+Los acuerdos de coordinación celebrados con otros Municipios del Estado contemplarán la comunicación e interconexión de los sistemas informáticos y procesos de verificación de la ejecución de las obras de urbanización y edificación, para lo cual las partes podrán compartir plataformas, accesos a sus respectivos sistemas, así como las bases de datos.
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -4660,8 +3432,6 @@ CAPITULO (SIC) DÉCIMO CUARTO
 De la Secretaría de Servicios Públicos
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
-
-#### SECCIÓN I. DE LOS ESTABLECIMIENTOS CUYO GIRO SEA LA ENAJENACIÓN DE BEBIDAS ALCOHÓLICAS REALIZADA TOTAL O PARCIALMENTE AL PÚBLICO
 
 ###### ARTÍCULO 113.
 
@@ -4941,23 +3711,13 @@ III. Promover, evaluar, elaborar, apoyar e impulsar la aplicación de políticas
 
 IV. Las demás funciones que se desprendan de la normatividad aplicable, así como las que le confiera el Ayuntamiento o el Presidente Municipal.
 
-## TITULO III
+## TÍTULO TERCERO. DE LA NORMATIVIDAD INTERNA MUNICIPAL
 
-### CAPITULO I.. Del Ministerio Público
+### CAPÍTULO I. De las Normas que Regulan las Actividades de los Trabajadores al Servicio del Gobierno Municipal
 
-###### Art. 124.
+APARTADO PRIMERO
 
-El Ministerio Público tiene por misión: en los asuntos del orden criminal, ejercitar la acción penal; en los asuntos civiles, la defensa de los intereses de los menores y demás incapacitados; en el orden administrativo, la defensa de los intereses fiscales y, en general, el Ministerio Público tendrá la intervención que disponga las leyes en aquellos asuntos que afecten el orden público.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1993)</small>
-
-###### Art. 125.
-
-Las funciones del Ministerio Público serán desempeñadas en el Estado por el Procurador General de Justicia y por los Agentes adscritos, nombrados por el Ejecutivo.
-
-Una Ley reglamentará la organización del Ministerio Público y los requisitos que se necesitan para desempeñar este cargo y el de Procurador.
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1993)</small>
+Disposiciones Generales del Trabajo
 
 ###### ARTÍCULO 115.
 
@@ -5515,17 +4275,7 @@ Con la finalidad de prevenir, mitigar y afrontar situaciones de emergencia de un
 
 Al término de la vigencia de la Declaratoria de Emergencia, la Secretaría de Finanzas Públicas deberá rendir un informe al Honorable Cabildo con respecto de la ejecución y aplicación del recurso, así como también del estado que guarda el recurso asignado. Dicho informe deberá ser a través de la Comisión Permanente de Hacienda y del Síndico de Hacienda.
 
-### CAPITULO II. De la Comisión de Derechos Humanos
-
-REFORMADO, P.O. 25 DE DICIEMBRE DE 1993)
-
-###### Art. 126.
-
-El organismo a que se refiere el Artículo 58 fracción XVIII de esta Constitución se denominará "Comisión de Derechos Humanos del Estado de Tamaulipas". Será un Organismo Público, Descentralizado, Autónomo e Independiente, con personalidad jurídica y patrimonio propio que tendrá por objeto la protección de los Derechos Humanos que otorga el orden jurídico mexicano; conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquied (sic) autoridad o servidor público que viole estos derechos en el ámbito del Estado. Formulará recomendaciones públicas, autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
-
-Este organismo no será competente tratándose de asuntos electorales, laborales y jurisdiccionales.
-
-Una ley establecerá las bases de su organización y funcionamiento.
+### CAPÍTULO II. Del Servicio Civil de Carrera
 
 ###### ARTÍCULO 141.
 
@@ -5599,21 +4349,7 @@ VII. Las demás que señale el Ayuntamiento, que sean necesarias para el cumplim
 
 En la aplicación del presente capítulo, se atenderá en lo conducente lo dispuesto por el estatuto jurídico de los Servidores Públicos al Servicio del Estado y del Municipio de Aguascalientes.
 
-### CAPITULO UNICO. Disposiciones generales
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
-
-###### Art. 127.
-
-En cumplimiento de lo mandado por el Artículo 20, fracción IX, de la Constitución Federal, se establece en el Estado la Defensoría de Oficio, que se encargará de defender ante cualquier autoridad a los inculpados, de intervenir como abogados patronos de las partes en materia civil y de aconsejar, en este ramo, a quien así lo solicite.
-
-###### Art. 128.
-
-El personal de esta institución lo forman un Director General y los defensores de oficio subalternos, quienes serán nombrados por el Ejecutivo.
-
-###### Art. 129.
-
-Una ley reglamentará la organización de la Defensoría de Oficio y los requisitos que se necesitan para desempeñar este cargo.
+### CAPÍTULO III. De la Entrega y Recepción de la Administración Pública Municipal
 
 ###### ARTÍCULO 146.
 
@@ -5725,183 +4461,9 @@ III. El personal requerido, será dado de alta en la nómina municipal, con carg
 
 BIS.- Tratándose de la fusión, liquidación o extinción de una Dependencia o Entidad de la Administración Pública Municipal, el liquidador remitirá copia del inventario documental del fondo correspondiente al Archivo General Municipal.
 
-### CAPITULO UNICO. Disposiciones generales
+### CAPÍTULO IV. Descentralización y Desconcentración Administrativa
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
-
-###### Art. 130.
-
-Las funciones políticas y administrativas de carácter municipal, serán desempeñadas por los Ayuntamientos y las Judiciales por los Jueces Menores.
-
-> <small>(REFORMADO, P.O.1 DE ABRIL DE 1989)</small>
-
-###### Art. 131.
-
-En cada Municipalidad habrá un Ayuntamiento de elección popular directa, el cual tendrá su residencia en la cabecera de la misma. En el Estado de Tamaulipas, las mujeres participarán en las mismas condiciones que los varones para votar y ser votadas en los cargos de elección popular de los Municipios.
-
-Los Ayuntamientos se integrarán conforme a las bases siguientes:
-
-I.- En los Municipios cuya población sea hasta de treinta mil habitantes, el Ayuntamiento se integrará con un Presidente Municipal, cuatro Regidores y un Síndico;
-
-II.- En los Municipios con población hasta de cincuenta mil habitantes, el Ayuntamiento se integrará por un Presidente Municipal, cinco Regidores y dos Síndicos;
-
-III.- En los Municipios cuya población sea hasta de cien mil habitantes, el Ayuntamiento se integrará con un Presidente Municipal, ocho Regidores y dos Síndicos;
-
-IV.- En los Municipios con población hasta de doscientos mil habitantes, el Ayuntamiento se integrara por un Presidente Municipal, doce Regidores y dos Síndicos; y
-
-V.- En los Municipios cuya población sea mayor de doscientos mil habitantes, el Ayuntamiento será integrado por un Presidente Municipal, catorce Regidores y dos Síndicos.
-
-En todos los Municipios sus Ayuntamientos se complementarán con Regidores de Representación Proporcional;
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
-
-a).- En los Municipios con población hasta de 30,000 habitantes, hasta con 2 Regidores de Representación Proporcional;
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
-
-b).- En los Municipios con población hasta de 50,000 habitantes, hasta con 3 Regidores de Representación Proporcional;
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
-
-c).- En aquellos Municipios con población hasta de 100,000 habitantes, hasta con 4 Regidores de Representación Proporcional;
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 1995)</small>
-
-d).- En los Municipios con población hasta de 200,000 habitantes, hasta con 6 Regidores de Representación Proporcional;
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 1995)</small>
-
-e).- En los Municipios con población superior a 200,000 habitantes, hasta con 7 Regidores de Representación Proporcional; y
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 1995)</small>
-
-f).- La asignación de las Regidurías de Representación Proporcional a los partidos políticos, se ajustará a las bases que la Ley señale.
-
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 1997)</small>
-
-Los partidos políticos que no hubiesen logrado la mayoría en la elección municipal correspondiente, podrán participar en la asignación de Regidores en relación a los votos recibidos, siempre que hayan obtenido cuando menos el 5% de la votación sufragada en favor del partido que haya triunfado en la elección por mayoría en el Municipio de que se trate. La asignación de Regidores de Representación Proporcional atenderá el orden en que los candidatos hayan sido registrados en la planilla por sus respectivos partidos y a los demás requisitos que disponga la Ley Reglamentaria.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O.1 DE ABRIL DE 1989)</small>
-
-###### Art. 132.
-
-La Organización Política y Administrativa de los Municipios, las facultades y obligaciones de los Ayuntamientos, sus relaciones con los Poderes del Estado y otras Dependencias y Entidades de la Administración Pública, se determinarán en el Código Municipal, que deberá sujetarse a las bases siguientes:
-
-I.- Los Ayuntamientos se renovarán totalmente cada tres años.
-
-> <small>(REFORMADA, P.O.1 DE ABRIL DE 1989)</small>
-
-II.- Los Ayuntamientos se compondrán de un número de miembros proporcional al de habitantes de la Municipalidad, pero nunca será menor de seis;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-III.- Los Municipios administrarán libremente su Hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso establezca en su favor, y en todo caso:
-
-a).- Percibirán las contribuciones, incluyendo tasas adicionales, correspondientes a su territorio, que establezca el Congreso sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
-
-Los Municipios podrán celebrar Convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones;
-
-b).- Las participaciones federales, que sean cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determinen por el Congreso del Estado;
-
-c).- Los ingresos derivados de la prestación de servicios públicos a su cargo.
-
-Las contribuciones a que se refieren los incisos a) y c) no podrán ser objeto de excensiones o subsidios en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo los bienes del dominio público de la Federación, del Estado o de los Municipios estarán exentos de dichas contribuciones;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-IV.- Los Municipios estarán investidos de personalidad y capacidad jurídica para todos los efectos legales, y serán representados por sus respectivos Ayuntamientos; los Síndicos comparecerán en el otorgamiento de contratos o de cualquier otra obligación patrimonial.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-V.- Los presidentes municipales, regidores y síndicos de los Ayuntamientos electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios, al menos que hayan estado en ejercicio.
-
-VI.- Por cada miembro propietario del Ayuntamiento se elegirá un Suplente.
-
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 1994)</small>
-
-VII.- Los Ayuntamientos, durante los primeros diez días del mes de noviembre de cada año, someterán a la consideración del Congreso, por conducto del Ejecutivo, los proyectos de Leyes de Ingresos, y rendirán sus cuentas anuales durante la segunda quincena del mes de marzo, con excepción del último año de su gestión, en el que rendirán sus cuentas en los términos que establece el Artículo 46 de esta Constitución.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-VIII.- La responsabilidad de los miembros de los Ayuntamientos con motivo del ejercicio de sus funciones, será exigible en los términos de las leyes de responsabilidades de servidores públicos.
-
-IX.- El Gobernador del Estado tendrá el mando de la Policía y fuerza pública de los Municipios donde residiere habitual o transitoriamente.
-
-X.- Para prevenir o sofocar graves trastornos del orden público, el Gobernador del Estado por sí o por medio de Delegados que lo representen, podrá hacerse cargo de la fuerza pública existente en los Municipios.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-XI.- Las faltas temporales o definitivas de los miembros de un Ayuntamiento serán cubiertas por el Suplente respectivo, y cuando éste falte también, el Ayuntamiento enviará terna al Congreso, quien designara a los substitutos. En los recesos del Congreso la designación se hará por la Diputación Permanente, dentro de los treinta días a partir de la recepción de la comunicación.
-
-Unicamente el Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes y a iniciativa del Ejecutivo, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por una causa grave prevista en la Ley, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
-
-En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procediere que entraren en funciones los suplentes ni que se celebraren nuevas elecciones, a propuesta del Ejecutivo, el Congreso designará entre los vecinos un Concejo Municipal que concluirá el período respectivo.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-XII.- En las poblaciones que no sean cabeceras de municipalidad, según la importancia del poblado, los Ayuntamientos respectivos nombrarán delegados y subdelegados con las facultades y obligaciones que señale el Código Municipal, los cuales serán sus representantes directos;
-
-XIII.- En cada Municipalidad se dará entera fé y crédito a los actos públicos, registros y procedimientos de los demás Municipios del Estado.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-XIV.- Los Ayuntamientos, por sí o a iniciativa popular, podrán expedir, de acuerdo con las bases normativas que establezca el Congreso, los bandos de policía y buen gobierno, y los reglamentos, circulares y demás disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-XV.- Los Municipios, con el concurso del Estado cuando así fuere necesario y lo determinen las leyes, tendrán a su cargo los siguientes servicios públicos:
-
-a).- Agua potable y alcantarillado.
-
-b).- Alumbrado público.
-
-c).- Limpia.
-
-d).- Mercados y centrales de abastos.
-
-e).- Panteones.
-
-f).- Rastro.
-
-g).- Calles, parques y jardines.
-
-h).- Seguridad pública y tránsito.
-
-i).- Los demás que el Congreso determine, según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa y financiera.
-
-Los Municipios, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les corresponden.
-
-Los convenios que celebren los Municipios entre sí o con la Federación deberán ser aprobados previamente por el Congreso.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-XVI.- Son facultades de los Ayuntamientos, las establecidas en las fracciones V y VI del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-###### Art. 133.
-
-Los Ayuntamientos no podrán enajenar ni gravar sus bienes muebles e inmuebles, ni contratar empréstitos sin la autorización del Congreso. Para celebrar contratos de diversa naturaleza a los enumerados en este artículo cuyo término exceda de un año, necesitan la aprobación del Congreso.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-###### Art. 134.
-
-Cuando un acuerdo del Ayuntamiento sea violatorio de la Constitución Federal o del Estado, o de cualquier otra ley, u ostensiblemente perjudicial a los intereses municipales, el Ejecutivo dará cuenta inmediatamente al Congreso para que resuelva lo conducente.
-
-###### Art. 135.
-
-Los Ayuntamientos no podrán gravar e (sic) tránsito o salida de mercancías.
-
-###### Art. 136.
-
-Los Municipios arreglarán entre sí por convenios amistosos, las dificultades que se susciten por cuestión de límites; pero dichos convenios no surtirán sus efectos hasta que el Congreso los apruebe.
-
-> <small>(REFORMADO, P.O.1 DE ABRIL DE 1989)</small>
-
-###### Art. 137.
-
-El Código Municipal organizará la administración de los Municipios conforme a lo dispuesto en esta Constitución.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 162.
 
@@ -5915,45 +4477,13 @@ Para la creación de un órgano administrativo desconcentrado, descentralizado o
 
 Las autoridades municipales por sí o en coordinación podrán para otorgar un mejor servicio a la ciudadanía establecer un sistema de ventanilla única para trámites de licencias, permisos o autorizaciones, o apertura de negocios o industrias, en la cual se entregará toda la documentación y se le dará respuesta a los ciudadanos.
 
-### CAPITULO I. De la Educación Pública
+### CAPÍTULO V. Del Archivo General Municipal
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
+APARTADO PRIMERO
 
-###### Art. 138.
+Disposiciones Generales
 
-La educación que impartan el Estado y los Municipios será ajena a cualquier doctrina religiosa; se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, la servidumbre, los fanatismos y los prejuicios; será democrática, nacionalista y contribuirá a la mejor convivencia humana, buscando el desarrollo de todas las facultades del ser humano y fomentará en él, a la vez, el amor a la patria y la conciencia de la solidaridad internacional en la independencia y en la justicia.
-
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
-
-###### Art. 139.
-
-La educación que imparta directamente el Estado en todos sus niveles será gratuita y obligatoria la básica. Los habitantes de la Entidad tendrán las mismas oportunidades de acceso al Sistema Educativo Estatal.
-
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
-
-###### Art. 140.
-
-El sistema educativo estatal se constituye por la educación que impartan el Estado, los Municipios o sus organismos descentralizados, la Universidad Autónoma de Tamaulipas y los particulares a quienes se autorice a impartir educación o se les reconozca validez oficial de estudios, mediante el cumplimiento de los requisitos y condiciones que establezca la Ley reglamentaria, ciñéndose a lo prescrito en el Artículo Tercero de la Constitución Federal y sujetándose siempre a la vigilancia e inspección oficiales.
-
-En todo tiempo el Ejecutivo del Estado podrá, de acuerdo con lo dispuesto en la Ley reglamentaria, otorgar, negar, revocar o retirar la autorización o el reconocimiento de validez oficial a los estudios efectuados en los planteles particulares.
-
-> <small>(REFORMADO, P.O.26 DE DICIEMBRE DE 1998)</small>
-
-###### Art. 141.
-
-La dirección técnica de las Escuelas Oficiales del Estado, de sus Municipios y organismos descentralizados de éstos, con excepción de los que la Ley les otorgue autonomía, estará a cargo del Ejecutivo por conducto de la Secretaría del ramo, la que además ejecutará la vigilancia e inspección oficiales de las escuelas particulares del Sistema Educativo Estatal.
-
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
-
-###### Art. 142.
-
-La Ley determinará cuales son las profesiones que necesitan título para su ejercicio, las condiciones que deben llenarse para obtenerlo, las Autoridades que han de expedirlo y los límites y condiciones del ejercicio profesional, el que sólo podrá vedarse cuando se ataquen los derechos de terceros o se ofendan los derechos de la sociedad.
-
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
-
-###### Art. 143.
-
-El Ejecutivo podrá celebrar con la Federación y los Municipios, convenios sobre coordinación de los Servicios de Educación Pública, reservándose las facultades necesarias y asegurando la estabilidad de los Profesores al servicio del Estado; se determinará en la Ley los estímulos y recompensas a los Profesores, en atención al mérito de sus labores y a la antigüedad de sus servicios.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2010)</small>
 
 ###### ARTÍCULO 164.
 
@@ -6027,21 +4557,7 @@ ARTÍCULO 177 BIS.- (DEROGADO, P.O. 30 DE AGOSTO DE 2010)
 
 (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2012)
 
-### CAPITULO II. De la Higiene Pública
-
-###### Art. 144.
-
-Habrá en el Estado una Corporación que se denominará "CONSEJO DE HIGIENE PUBLICA," encargada de dictar disposiciones tendentes a conservar la salubridad y vigilar por su cumplimiento. Las resoluciones que dicte ese Consejo, previo acuerdo con el Ejecutivo, serán de observancia obligatoria para todos los habitantes del Estado. Los miembros del Consejo serán nombrados por el Ejecutivo.
-
-###### Art. 145.
-
-Una ley organizará todo lo relativo al funcionamiento del Consejo.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
-
-###### Art. 146.
-
-No obstante lo expresado en los artículos anteriores, con objeto de que la acción sanitaria encomendada al Gobierno del Estado se intensifique, se faculta al Ejecutivo para celebrar convenios con el Gobierno Federal sobre coordinación de los servicios sanitarios, reservándose al propio Ejecutivo la intervención que estime necesaria en la designación de personal y funcionamiento del Departamento respectivo.
+### CAPÍTULO VI. Sobre el Uso y Usufructo de Bienes Muebles, Propiedad Municipal o al Servicio Municipal
 
 ###### ARTÍCULO 179.
 
@@ -6973,11 +5489,11 @@ F). TURNO DEL CASO A LA CONTRALORÍA MUNICIPAL, para el fincamiento de responsab
 
 Todo lo no previsto en el presente capítulo, será resuelto por la Comisión.
 
-### CAPITULO III. De las vías de comunicación
+### CAPÍTULO VII. De la Dirección de Justicia Municipal
 
-###### Art. 147.
+APARTADO PRIMERO
 
-El Gobernador vigilará la conservación, mejoramiento y amplio desarrollo de las vías de comunicación en el territorio del Estado; asimismo expedirá las disposiciones convenientes para la realización y fomento de las obras de utilidad pública, general o local, en su mismo territorio, dando preferencia a las de irrigación. El Congreso expedirá las leyes que fueren necesarias y que fijarán la contribución especial que se dedicará a este Ramo.
+Disposiciones Generales
 
 ###### ARTÍCULO 292.
 
@@ -7207,13 +5723,11 @@ SEXTUS.- (DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 > <small>(DEROGADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
-### CAPITULO IV. Del Trabajo y Previsión Social
+### CAPÍTULO VIII. De las Faltas de Policía
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 1994)</small>
+APARTADO PRIMERO
 
-###### Art. 148.
-
-Para el cumplimiento de las disposiciones contenidas en el Artículo 123 Constitucional y las leyes reglamentarias correspondientes, el Ejecutivo contará con una Dependencia cuya estructura, funciones y naturaleza jurídica, se determinarán de acuerdo a las necesidades y requerimientos que la realidad social imponga.
+Reglas Generales
 
 ###### ARTÍCULO 333.
 
@@ -7291,15 +5805,9 @@ APARTADO SÉPTIMO
 
 De las Faltas Contra la Convivencia, Respeto y Ambiente Vecinal
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
 
-ARTÍCULO 342 BIS.- Son faltas contra la sana convivencia entre vecinos en zonas habitacionales y se sancionarán con multa de seis a veintidós veces el valor diario de la unidad de medida y actualización, las siguientes:
-
-I.- Producir ruido dentro y fuera de una casa habitación con aparatos de sonido, instrumentos musicales de cualquier tipo o similares a estos, que exceda de 55 decibeles en un horario de las 6:01 horas a las 22:00 horas, establecidos en la NOM 081-SEMARNAT/1994.
-
-II.- Producir ruido dentro y fuera de una casa habitación con aparatos de sonido, instrumentos musicales de cualquier tipo o similares a estos, que exceda de los 50 decibeles en un horario de las 22:01 horas a las 6:00 horas, establecidos en la NOM 081-SEMARNAT/1994.
-
-III.- Para las zonas industrial, comercial y escolar el límite máximo permisible es de 68 decibeles entre las 6:01 a 22:00 horas y de 65 decibeles de 22:01 a 6:00 horas. En caso de ferias, eventos y festivales deberán pedir un permiso especial especificando los horarios en que sobrepasarán dichos decibeles.
+ARTÍCULO 342 BIS.- Las faltas contra la sana convivencia entre vecinos en zonas habitacionales se sancionarán de conformidad con los artículos 77 BIS y 77 TER del Reglamento de Justicia Cívica para el Municipio de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -7313,49 +5821,35 @@ ARTÍCULO 342 TER.- Para acreditar el rebase reglamentario de los decibeles, as�
 
 ARTÍCULO 342 QUATER.- Bastará la denuncia y/o queja del o las personas afectadas, a la Secretaría de Seguridad Pública Municipal y/o a la Dirección de Reglamentos Municipales, para efecto de que los elementos de policía y/o los verificadores respectivamente, se constituyan en el domicilio causante del ruido, a fin de llevar a cabo las mediciones sonoras y de vibración para efecto de acreditar el rebase en los niveles de decibeles permitidos, establecidos en la NOM-081-SEMARNAT/1994.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2023)</small>
 
-ARTÍCULO 342 QUINQUIES.- La facultad de inspección y apercibimiento deberá estar debidamente fundamentada y motivada por lo establecido en el Código Municipal de Aguascalientes, y corresponde a la Dirección de Reglamentos del Municipio de Aguascalientes, así como a la Secretaría de Seguridad Pública a través de sus elementos de policía, llevar a cabo actuaciones de inspección preventiva y correctiva cumpliendo con las siguientes condiciones:
+ARTÍCULO 342 QUINQUIES.- La facultad de inspección y apercibimiento deberá estar debidamente fundamentada y motivada por lo establecido en el Código Municipal de Aguascalientes y en el Reglamento de Justicia Cívica para el Municipio de Aguascalientes, y corresponde a la Dirección de Reglamentos del Municipio de Aguascalientes, así como a la Secretaría de Seguridad Pública a través de sus elementos de policía, llevar a cabo actuaciones de inspección preventiva y correctiva cumpliendo con las siguientes condiciones:
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
 1.- El titular de la Secretaría de Seguridad Pública o el Director de Reglamentos Municipales, podrán ordenar la práctica de visitas de apercibimiento, con el objeto de cuidar y prever la generación indebida de ruido de casa habitación, de acuerdo a lo prescrito en la norma respectiva para las zonas habitacionales.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+
 2.- El personal, tendrá la condición de agentes de autoridad, y deberá actuar respetando en todo momento los derechos humanos y las garantías de seguridad jurídica, consagradas en nuestra Constitución Política de los Estados Unidos Mexicanos vigente.
 
-3.- El personal habilitado, al recibir el reporte respectivo por parte de los elementos de policía de la Secretaría de Seguridad Pública Municipal, requerirá al infractor a cumplir con el nivel de decibeles permitido por la NOM-081-SEMARNAT/1994, apercibiéndolo que en caso de incumplimiento y/o reincidencia, le serán impuestas las sanciones previstas en el presente Apartado.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
 
-4.- El personal habilitado realizará la medición de los focos generadores de ruido a través de sonómetros y sonómetros integradores de precisión, que cuenten con certificación ante la EMA “Entidad Mexicana de Acreditación" y siguiendo el método de medición establecido por la NOM-081-SEMARNAT/1994, la medición de los focos generadores de ruido se realizará en la parte externa de la casa habitación sin que se pueda ingresar a la casa habitación generadora de ruido.
-
-5.- Si se detecta que la fuente emisora del ruido proviene de una casa habitación, la autoridad competente llevará a cabo las acciones previstas por el artículo 342 SEXIES del presente ordenamiento.
-
-El presente procedimiento se regirá bajo las reglas establecidas por la Ley del Procedimiento Administrativo del Estado de Aguascalientes, siguiendo el método de medición establecido por la NOM-081-SEMARNAT/1994.
+3.- El personal habilitado, al recibir el reporte respectivo por parte de los elementos de policía de la Secretaría de Seguridad Pública Municipal, requerirá al infractor a cumplir con el nivel de decibeles permitido por la NOM-081-SEMARNAT/1994, apercibiéndolo que en caso de incumplimiento y/o reincidencia, le serán impuestas las sanciones previstas en el Reglamento de Justicia Cívica para el Municipio de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
-ARTÍCULO 342 SEXIES.- Las sanciones por infracción a lo dispuesto por el artículo 342 BIS, se ceñirán a lo siguiente:
+4.- El personal habilitado realizará la medición de los focos generadores de ruido a través de sonómetros y sonómetros integradores de precisión, que cuenten con certificación ante la EMA “Entidad Mexicana de Acreditación" y siguiendo el método de medición establecido por la NOM-081-SEMARNAT/1994, la medición de los focos generadores de ruido se realizará en la parte externa de la casa habitación sin que se pueda ingresar a la casa habitación generadora de ruido.
 
-1.- Apercibimiento por escrito emitido por la autoridad competente, en la que se haga saber al infractor, de las posibles sanciones a las que se hará acreedor, en caso de continuar violando los supuestos establecidos en el artículo 342 BIS del Código Municipal de Aguascalientes.
+5.- (DEROGADO, P.O. 19 DE JUNIO DE 2023)
 
-Multa consistente en la aplicación y cobro del resultante de la conversión de 6 a 10 veces el valor diario de la unidad de medida y actualización, cuando se cometa la infracción establecida en el artículo 342 BIS fracción I del Código Municipal de Aguascalientes.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
-3 (SIC).- Multa consistente en la aplicación y cobro del resultante de la conversión de 13 a 19 veces el valor diario de la unidad de medida y actualización cuando se cometa la infracción establecida en el artículo 342 Bis fracción II del Código Municipal de Aguascalientes.
+El presente procedimiento se regirá bajo las reglas establecidas por la Ley del Procedimiento Administrativo del Estado de Aguascalientes, siguiendo el método de medición establecido por la NOM-081-SEMARNAT/1994.
 
-4.- Esas multas, podrán conmutarse por servicio comunitario, siempre que se cumplan los requisitos previstos en el Reglamento de Servicio Comunitario del Municipio de Aguascalientes.
+ARTÍCULO 342 SEXIES.- (DEROGADO, P.O. 19 DE JUNIO DE 2023)
 
-5.- En caso de reincidencia, se aplicará una multa consistente en la aplicación y cobro del resultante de la conversión de 20 veces el valor diario de la unidad de medida y actualización, para lo cual habrá de contarse con la intervención de elementos policiales de la Secretaría de Seguridad Pública, quienes pondrán a disposición de Juez Municipal en turno.
-
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2017)</small>
-
-ARTICULO 342 SEPTIES.- Sanciones por infracción a lo dispuesto por el artículo 342 Bis y 342 Ter, ciñéndose al Orden de prelación que a continuación se describe:
-
-1. Apercibimiento por escrito emitido por la autoridad competente en la que se haga sabedor al infractor; propietario o poseedor del inmueble, de las posibles sanciones y el procedimiento a seguir en caso de continuar infringiendo los supuestos previstos en el artículo 342 Bis y 342 Ter.
-
-2. Trabajo conmutativo consistente en lo previsto por la fracción VII del artículo 3 del Reglamento del Servicio Comunitario del Municipio de Aguascalientes.
-
-3. Multa de $1,500.00 (Un mil quinientos pesos 00/100 M.N.) a $3,500.00 (Tres mil quinientos pesos 00/100 M.N.), cuando se comenta (sic) la infracción establecida en el artículo 342 Bis fracción I de este ordenamiento.
-
-4. Multa de $3,501.00 (Tres mil quinientos un pesos 00/100 M.N.) a $10,000.00 (Diez mil pesos 00/100 M.N.), cuando se comenta la infracción establecida en el artículo 342 Bis fracción I de este ordenamiento.
-
-5. Arresto hasta por 36 horas al responsable de la emisión de ruido.
+ARTICULO 342 SEPTIES.- (DEROGADO, P.O. 19 DE JUNIO DE 2023)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE AGOSTO DE 2021)</small>
 
@@ -7449,127 +5943,11 @@ De la Prescripción
 
 > <small>(DEROGADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
-### CAPITULO UNICO.. De las responsabilidades de los Servidores Públicos
+### CAPÍTULO IX. De los Centros de Detención Preventiva
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+APARTADO PRIMERO
 
-###### Art. 149.
-
-Para los efectos de las responsabilidades a que se refiere este Título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los funcionarios y empleados, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública del Estado y de los Municipios, quienes serán responsables por los actos u omisiones en que incurren en el desempeño de sus respectivas funciones.
-
-El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acusado por delitos graves del orden común.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-###### Art. 150.
-
-El Congreso del Estado expedirá leyes sobre responsabilidades de servidores públicos, de conformidad con las siguientes prevenciones:
-
-I.- Se impondrán, mediante juicio político, las sanciones indicadas en el Artículo 151 a los servidores públicos señalados en el mismo precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
-
-No procede el juicio político por la mera expresión de las ideas.
-
-II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la legislación penal;
-
-III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
-
-Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
-
-Las leyes determinarán los casos y circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito o inexplicable a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita o inexplicable no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
-
-Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la autoridad competente respecto de las conductas a que se refiere el presente Artículo.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 1997)</small>
-
-###### Art. 151.
-
-Podrán ser sujetos de Juicio Político los Diputados al Congreso Local, los Magistrados del Supremo Tribunal de Justicia, los Secretarios del Ejecutivo, Procurador General de Justicia, los Jueces, los Consejeros Electorales del Consejo Estatal Electoral, los Magistrados del Tribunal Estatal Electoral, los titulares de las Entidades Paraestatales, los Directores Generales o sus equivalentes de los organismos descentralizados, y los integrantes de los Ayuntamientos.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-Asimismo, el Gobernador del Estado, los Diputados al Congreso Local y los Magistrados del Supremo Tribunal de Justicia, podrán ser sujetos de juicio político, en los términos del Artículo 110 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-Para la aplicación de las sanciones a que se refiere este precepto, el Congreso, previa declaración de las dos terceras partes de sus integrantes, procederá a la acusación respectiva ante el Pleno del Supremo Tribunal de Justicia del Estado.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-Conociendo la acusación el Pleno del Supremo Tribunal de Justicia, erigido en Jurado de Sentencia, aplicará, en su caso, la sanción correspondiente mediante resolución de las dos terceras partes de sus integrantes, una vez practicadas las diligencias correspondientes y con la audiencia del acusado.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-Las declaraciones y resoluciones del Congreso y del Supremo Tribunal de Justicia son inatacables.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 1997)</small>
-
-###### Art. 152.
-
-Para proceder penalmente contra los Diputados al Congreso Local, los Magistrados del Supremo Tribunal de Justicia, los Secretarios del Ejecutivo, Procurador General de Justicia, los Jueces, los Consejeros Electorales del Consejo Estatal Electoral, los Magistrados del Tribunal Estatal Electoral, y los titulares de las Entidades Paraestatales por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará, por acuerdo de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-Si la resolución del Congreso fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-Si el Congreso declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo de la Ley.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-Por lo que toca al Gobernador del Estado, sólo habrá lugar a acusarlo ante el Pleno del Supremo Tribunal de Justicia del Estado, en los términos del Artículo 151, resolviendo con base en la legislación penal aplicable.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-Las declaraciones del Congreso y del Supremo Tribunal de Justicia son inatacables.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su cargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria el inculpado podrá reasumir su función.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá declaración de procedencia.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal, y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-###### Art. 153.
-
-No se requerirá declaración de procedencia del Congreso cuando alguno de los servidores públicos a que hace referencia el Artículo 152 cometa un delito durante el tiempo que se encuentre separado de su encargo.
-
-Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados del Artículo 152, se procederá de acuerdo con lo dispuesto en dicho precepto.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-###### Art. 154.
-
-Las leyes sobre responsabilidades administrativas de los servidores públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las Leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del Artículo 150, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-###### Art. 155.
-
-El procedimiento de juicio político sólo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
-
-La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley Penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña algunos de los encargos que hace referencia el Artículo 152.
-
-La ley señalará los plazos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del Artículo 150. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
+Disposiciones Generales
 
 ###### ARTÍCULO 358.
 
@@ -7841,53 +6219,7 @@ Mantenimiento al Área de Celdas
 
 (DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
-### CAPITULO I. Prevenciones generales
-
-###### Art. 156.
-
-En el caso de desaparición de Poderes previsto por la fracción V del artículo 76 de la Constitución Federal, serán llamados para que se encarguen provisionalmente del Ejecutivo, según el siguiente orden de preferencia.
-
-I. El último Secretario General de Gobierno, siempre que sea tamaulipeco por nacimiento.
-
-II. El último Presidente del Supremo Tribunal de Justicia, y a falta de este los demás Magistrados por orden numérico, siempre que sean tamaulipecos por nacimiento.
-
-III. El último presidente del Congreso, y a falta de este los anteriores, prefiriéndose a los más próximos sobre los más lejanos con el requisito anterior.
-
-###### Art. 157.
-
-El Gobernador Provisional convocará a elecciones, no pudiendo ser electo para el período a que se convoca.
-
-###### Art. 158.
-
-Todos los funcionarios y empleados públicos al entrar en funciones, deberán rendir protesta de guardar y hacer guardar la Constitución Federal y la del Estado, obligándose a desempeñar leal y patrióticamente el cargo conferido.
-
-###### Art. 159.
-
-Ningún ciudadano podrá desempeñar dos cargos de elección popular en el Estado o Municipio, debiendo elegir el que quisiere desempeñar; pero una vez que hubiere hecho la elección, perderá el derecho de desempeñar el otro.
-
-###### Art. 160.
-
-Ningún empleado o funcionario público percibirá más de un sueldo, excepción hechas de los cargos de Instrucción pública y Beneficencia.
-
-###### Art. 161.
-
-Los empleados y funcionarios que manejen fondos públicos, caucionarán su manejo a juicio del Ejecutivo.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1998)</small>
-
-###### Art. 162.
-
-La Secretaría del ramo, no hará pago alguno que no haya autorizado con la firma del Gobernador y del Secretario General de Gobierno.
-
-Los Tesoreros Municipales sólo harán pagos obedeciendo órdenes firmadas por el Presidente Municipal y el Secretario del Ayuntamiento. El Tesorero o empleado que desobedeciere esta regla, será castigado con la pena de destitución, sin perjuicio de consignarlo a la autoridad judicial competente.
-
-###### Art. 163.
-
-El año fiscal comenzará el día primero de enero y terminará el día último de diciembre.
-
-###### Art. 164.
-
-En todas las Escuelas de Instrucción Primaria Elemental, Superior y Normal, será obligatoria la enseñanza de la Instrucción Cívica.
+### CAPÍTULO X. De la Junta Municipal de Reclutamiento
 
 ###### ARTÍCULO 410.
 
@@ -7931,7 +6263,7 @@ XVI. En conjunto con la Zona Militar, publicar la fecha del Sorteo del Servicio 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2016)</small>
 
-## TITULO IV. DEL PODER LEGISLATIVO
+## TÍTULO ÚNICO. DE LA ORGANIZACION Y FUNCIONAMIENTO DE LOS SERVICIOS PUBLICOS
 
 ###### ARTÍCULO 411.
 
@@ -8015,13 +6347,7 @@ Corresponde a la Secretaría de Servicios Públicos la prestación, por sí o po
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO I. De las reformas a la Constitución
-
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
-
-###### Art. 165.
-
-Esta Constitución podrá ser reformada y adicionada, pero para que las adiciones y reformas lleguen a ser parte de la misma, se requiere que previamente sea tomada en cuenta la iniciativa de reformas o adición por la declaratoria de la mayoría de los Diputados presentes y que sea aprobada cuando menos por las dos terceras partes de los miembros del Congreso.
+### CAPITULO I
 
 ###### ARTÍCULO 417.
 
@@ -8139,15 +6465,7 @@ En caso de violación al precepto indicado, los animales podrán ser asegurados 
 
 (DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
 
-### CAPITULO II. De la Inviolabilidad de la Constitución
-
-###### Art. 166.
-
-Esta Constitución no perderá su fuerza ni vigor, aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por algún trastorno público, se establezca en el Estado un Gobierno contrario a los principios que ella preconiza, tan luego como el pueblo recobre su libertad, volverá a su observancia y con arreglo a las Leyes serán juzgados los que hubieren figurado en el Gobierno emanado de la rebelión.
-
-###### Art. 167.
-
-Ninguna autoridad tendrá facultad para dispensar la observancia de esta Constitución en ninguno de sus preceptos.
+### CAPÍTULO II. De los Panteones
 
 ###### ARTÍCULO 445.
 
@@ -8661,7 +6979,7 @@ ARTÍCULO 491 BIS.- (DEROGADO, P.O. 13 DE ENERO DE 2014; P.O. 11 DE ABRIL DE 201
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2016)</small>
 
-## TITULO V. DEL PODER EJECUTIVO
+## TÍTULO ÚNICO. DE LA PROTECCION AMBIENTAL
 
 ###### ARTÍCULO 492.
 
@@ -8961,7 +7279,9 @@ ARTÍCULO 537 BIS.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTE
 
 # LIBRO QUINTO. DE LA SEGURIDAD PÚBLICA EN EL MUNICIPIO DE AGUASCALIENTES
 
-## TITULO VI. DEL PODER JUDICIAL
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ### CAPITULO I. De la Seguridad Pública
 
@@ -9567,11 +7887,9 @@ Nadie podrá ingresar a la escala jerárquica y sus equivalencias, si no ha sido
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2011)</small>
 
-## TITULO VII
+## TÍTULO SEGUNDO. DE LAS DISPOSICIONES COMUNES PARA LOS INTEGRANTES OPERATIVOS DE LA SECRETARÍA
 
-DE LA PROCURACION DE JUSTICIA Y PROTECCION DE LOS DERECHOS HUMANOS.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ### CAPÍTULO I. Derechos y Obligaciones
 
@@ -10033,7 +8351,9 @@ Las sanciones de amonestación y arresto, a que se refiere este artículo serán
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2011)</small>
 
-## TITULO VIII. DE LA DEFENSORIA DE OFICIO
+## TÍTULO TERCERO. DEL SISTEMA INTEGRAL DE DESARROLLO POLICIAL
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ### CAPÍTULO I. Disposiciones Generales
 
@@ -10419,7 +8739,9 @@ En ningún caso, se otorgarán prestaciones Complementarias de Seguridad Social 
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2011)</small>
 
-## TITULO IX. DE LOS MUNICIPIOS
+## TÍTULO CUARTO. DE LAS COMISIONES
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ### CAPÍTULO I. De la Comisión de Honor y Justicia
 
@@ -10871,9 +9193,9 @@ La normatividad interna que al efecto se aprobare, surtirá efectos a los cinco 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MARZO DE 2021)</small>
 
-## TITULO X. SECCION DE ADMINISTRACION GENERAL
+## TÍTULO QUINTO. Del Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE MARZO DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 619.
 
@@ -11221,11 +9543,7 @@ Queda a consideración de los superiores jerárquicos que correspondan, el otorg
 
 # LIBRO SEXTO. DE LAS CONSTRUCCIONES EN EL MUNICIPIO DE AGUASCALIENTES
 
-## TITULO XI
-
-DISPOSICIONES GENERALES.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1983)</small>
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 629.
 
@@ -11343,7 +9661,7 @@ Será requisito indispensable haber obtenido la constancia de terminación de la
 
 ARTÍCULOS (SIC) 635.- La documentación necesaria y requisitos para la autorización de la licencia de construcción de obra de urbanización se encuentra detallada en el apartado de requisitos para licencias de construcción de este Código y como se indica, el proyecto correspondiente deberá cumplir con las condiciones, especificaciones y normas técnicas vigentes que se indiquen por parte de cada una de las instancias y/o dependencias correspondientes.
 
-## TITULO XII
+## TÍTULO SEGUNDO. DE LOS PERITOS Y DE LAS LICENCIAS DE CONSTRUCCIÓN
 
 ### CAPÍTULO I. De los Peritos
 
@@ -12009,7 +10327,7 @@ Se tendrá opción a solicitar a la Secretaría, dentro del plazo de vigencia de
 
 En las zonas que tengan un valor artístico, histórico y/o cultural determinadas por las autoridades correspondientes, no podrán ejecutarse nuevas construcciones, obras, demoliciones o instalaciones de cualquier naturaleza sin la previa autorización de la Secretaría y el dictamen del Instituto Nacional de Antropología e Historia, así como el haber cumplido con la Ley de Protección y Fomento del Patrimonio Cultural del Estado de Aguascalientes.
 
-## TITULO XIII
+## TÍTULO TERCERO. DE LOS REQUISITOS PARA LICENCIAS DE CONSTRUCCIÓN
 
 ### CAPÍTULO I. De las Licencias de Construcción
 
@@ -24913,617 +23231,279 @@ La suspensión una vez otorgada subsistirá en tanto no quede firme la resoluci�
 
 En todo lo no previsto en este Título, se estará a lo establecido por la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
 
-## TRANSITORIOS
+## ARTICULOS TRANSITORIOS
 
-###### Art. 1º.
+PRIMERO.- El presente Código Municipal de Aguascalientes, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Esta Constitución se promulgará desde luego por Bando solemne en todo el Estado, y comenzará a regir el día diez y seis de febrero de mil novecientos veintiuno en que será protestada por todos los empleados y funcionarios públicos.
+SEGUNDO.- Se abroga el Código Municipal de Aguascalientes, publicado en el Periódico Oficial del Estado, el día primero del mes de noviembre del año dos mil cuatro, así como las reformas posteriores que sufrió dicho ordenamiento.
 
-###### Art. 2º.
+TERCERO.- Los anexos gráficos del presente Código Municipal en lo referente a la Reglamentación en Materia de Anuncios que previene el Título noveno del Libro Sexto, desde luego forman parte integrante del mismo y por tanto son obligatorios para las entidades públicas, particulares y autoridades respectivas, y surtirán efectos a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Quedan derogadas todas las leyes, circulares y disposiciones, en cuanto se opongan a la presente Constitución.
+CUARTO.- Respecto del límite de la jurisdicción federal para el control de los anuncios, en relación a la competencia del Municipio de Aguascalientes, se establece el siguiente:
 
-###### Art. 3º.
+Carretera León-Aguascalientes, Bulevar José María Chávez y Bulevar Siglo XXI.
 
-El período constitucional para los Diputados electos el día siete de noviembre último, comenzará a contarse desde el día primero de enero de mil novecientos veintiuno.
+Carretera Aguascalientes-Zacatecas, Bulevar a Zacatecas y Bulevar Siglo XXI.
 
-###### Art. 4º.
+Carretera Ojuelos-Aguascalientes, Calzada Revolución y Bulevar Siglo XXI.
 
-El período constitucional para el Gobernador electo el día siete de noviembre último, comenzará a contarse desde el día cinco de febrero de mil novecientos veintiuno, pero tomará posesión hasta el día diez y seis del propio mes.
+Carretera Aguascalientes-Jalpa, Bulevar Adolfo Ruiz Cortines y entronque con la carretera a Villa Hidalgo, Jalisco.
 
-###### Art. 5º.
+QUINTO.- Todos los asuntos que se encuentren en trámite al inicio de la vigencia del presente Código Municipal de Aguascalientes, seguirán hasta su conclusión apegándose a las formas y procedimientos de los ordenamientos jurídicos que les dieron origen.
 
-Los Magistrados del Supremo Tribunal de Justicia electos el día siete de noviembre último, tomarán posesión el día diez y seis de febrero de mil novecientos veintiuno y durarán en funciones mientras el Congreso nombre los que deban sucederles.
+SEXTO.- Se derogan todas las disposiciones jurídicas de carácter municipal que se opongan a lo dispuesto en el presente Código Municipal de Aguascalientes.
 
-###### Art. 6º.
+SÉPTIMO.- Los reglamentos municipales expedidos con anterioridad continuarán vigentes en cuanto su aplicación sea compatible con el presente ordenamiento.
 
-El Congreso tendrá en el año de mil novecientos veintinno (sic), tres períodos de sesiones ordinarias: el primero, en el mes de febrero; el segundo, en los meses de abril, mayo y junio, estos dos improrrogables; y el tercero, prorrogable hasta por un mes, en los meses de septiembre, octubre y noviembre. En estos períodos se ocupará especialmente de expedir las leyes que sean necesarias para la reorganización de los servicios públicos, de conformidad con los preceptos de esta Constitución, ya sea que la iniciativa de ellas se haga por el mismo Congreso o por el Ejecutivo.
+OCTAVO.- El impacto presupuestal resultante de la creación de la Dirección de Justicia Municipal, no surtirá efectos hasta en tanto no se hagan las modificaciones en el presupuesto de egresos correspondiente. De igual manera, la Dirección de la Unidad de Protección Civil y de la Dirección de Bomberos por lo que resta del ejercicio fiscal dos mil siete continuarán dependiendo presupues-tal-mente (sic) de la Secretaría de Seguridad Pública Municipal.
 
-###### Art. 7º.
+NOVENO.- La Dirección de Capacitación, Formalización y Profesionalización de la Secretaría de Seguridad Pública Municipal, iniciará sus funciones a partir del día primero de enero del año 2008, ejerciendo mientras tanto la Dirección del Estado Mayor las funciones encomendadas a la primera de las direcciones citadas.
 
-Los recursos de casación y súplica pendientes al comenzar a regir esta Constitución, continuarán tramitándose hasta terminarse.
+Lo anterior para el conocimiento de la ciudadanía.
 
-###### Art. 8º.
+Dado en el salón de Cabildo por el Honorable Ayuntamiento del Municipio de Aguascalientes en la Sesión Extraordinaria celebrada el día diez de Octubre del año dos mil siete.
 
-Mientras no se expida la Ley Orgánica de los Tribunales del Estado, los Juzgados menores que funcionan actualmente en algunas cabeceras de Fracción, continuarán como Juzgados de Primera Instancia, con igual competencia y jurisdicción que los Jueces de Primera Instancia que hoy existen, y sostenidos por los fondos municipales.
+Martín Orozco Sandoval, Presidente Municipal de Aguascalientes; Regidores: Verónica Ramírez Luna, Patricia García García, José Alberto Vera López, Octavio Alberto Ozuna, Salvador Pérez Sánchez, Irma Leticia Delgadillo Peralta, María de Lourdes Luévano Zárate, Héctor Eduardo Anaya Pérez, Manuel de Jesús Paredes González, Miguel Bess Oberto Díaz, Ricardo Meza Calvillo, María de Lourdes Osorio Urrutia; Síndico de Hacienda, Dennys Eduardo Gómez Gómez; Síndico Procurador, Reynaldo Melchor Méndez Domínguez; Secretario del H. Ayuntamiento, Gabriel Ochoa Amador. Rúbricas".
 
-###### Art. 9º.
+Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales conducentes. En tal ver, promulga y ordena se de publicidad para su debido cumplimiento. 18 de octubre de 2007.-Martín Orozco Sandoval.- Rúbrica.
 
-Las cuentas del Gobierno y Municipales correspondientes al tiempo que no ha habido Congreso, serán enviadas a este en la primera quincena de mayo próximo para su revisión.
+En cumplimiento a lo ordenado por el Presidente Municipal de Aguascalientes, con fundamento en los artículos 120, fracción VII de la Ley Municipal para el Estado de Aguascalientes; 102, fracción IX del Código Municipal de Aguascalientes, tengo a bien solicitar la publicación del presente.
 
-Dado en el Salón de Sesiones del H. Congreso del Estado de Tamaulipas, a los veintisiete días del mes de enero de mil novecientos veintiuno.
+El Secretario del H. Ayuntamiento y Director General de Gobierno.- M. en D. Gabriel Ochoa Amador.- Rúbrica.
 
-Por el Décimocuarto Distrito Electoral, Donaciano de Lassaulx, Diputado Presidente.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-Por el Segundo Distrito Electoral, Ing. José F. Montesinos, Diputado Vicepresidente.
-
-Dr. Antonio Valdez Rojas, Diputado por el Primer Distrito Electoral.
-
-Cipriano Martínez, Diputado por el Tercer Distrito Electoral.
-
-Refugio Vargas, Diputado por el Quinto Distrito Electoral.
-
-Prof. Juan Gual Vidal, Diputado por el Sexto Distrito Electoral.
-
-Rafael Zamudio, Diputado por el Séptimo Distrito Electoral.
-
-Joaquín F. Flores, Diputado por el Octavo Distrito Electoral.
-
-Prof. Hilario Pérez, Diputado por el Noveno Distrito Electoral.
-
-Prof. José C. Rangel, Diputado por el Décimo Distrito Electoral.
-
-Feliciano García, Diputado por el Décimoquinto Distrito Electoral.
-
-Por el Décimosegundo Distrito Electoral, Ing. Martiniano Domínguez y Villarreal, Diputado Secretario.
-
-Por el Décimotercer Distrito Electoral, Gregorio Garza Salinas, Diputado Secretario.
-
-Por lo tanto, mando se imprima y promulgue por Bando solemne.
-
-Palacio del Poder Ejecutivo, a los cinco días del mes de febrero de mil novecientos veintiuno.
-
-El Gobernador Provisional,
-
-José Morante.
-
-El Srio. Gral. de Gobierno,
-
-Lic. Luis Ilizaliturri.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
-
-P.O. 6 DE MARZO DE 1926.
-
-Este decreto comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 29 DE SEPTIEMBRE DE 1926.
-
-TRANSITORIO. Comenzará a surtir sus efectos desde la fecha de su promulgación.
-
-P.O. 23 DE JUNIO DE 1928.
+P.O. 11 DE FEBRERO DE 2008.
 
 ###### ARTICULO PRIMERO.
 
-Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-Este Decreto iniciará su vigencia partir de la fecha de su publicación en el Periódico Oficial del Estado.
+La Dirección de Estado Mayor de la Secretaría de Seguridad Pública y Tránsito Municipal deberá expedir la convocatoria para integrar la Comisión de Honor y Justicia, a partir del inicio de la vigencia del presente Decreto y hasta el día quince de febrero del presente año, cumpliendo con el proceso señalado en el artículo 615 del Código Municipal de Aguascalientes.
 
-P.O. 5 DE MAYO DE 1951.
+P.O. 3 DE MARZO DE 2008.
 
-1o.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-2o.- Queda derogado el Decreto No. 49 expedido por el H. Congreso Constitucional de esta Entidad Federativa, el 25 de enero de 1949.
-
-P.O. 19 DE SEPTIEMBRE DE 1951.
-
-UNICO:- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 12 DE DICIEMBRE DE 1953.
-
-> <small>(F. DE E. 19 DE DICIEMBRE DE 1953)</small>
-
-UNICO.-Este Decreto comenzará a surtir sus efectos a partir de la fecha de su expedición.
-
-P.O. 3 DE MARZO DE 1954.
-
-Transitorio:- Esta reforma comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 30 DE ENERO DE 1957.
-
-UNICO.- Este Decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 20 DE FEBRERO DE 1960. (REPUBLICADO, P.O. 12 DE MARZO DE 1960)
-
-UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 23 DE ABRIL DE 1960.
-
-UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 20 DE AGOSTO DE 1960.
-
-UNICO:- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 21 DE OCTUBRE DE 1961.
-
-TRANSITORIO UNICO.- Este Decreto comenzará a surtir sus efectos el mismo día en que entre en vigor el nuevo Código de Procedimientos Civiles del Estado, aprobado por Decreto Número 381, de fecha 21 de noviembre de 1960 y publicado en el Periódico Oficial No. 79, de fecha 4 del presente mes.
-
-P.O. 23 DE MAYO DE 1962.
-
-UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 29 DE DICIEMBRE DE 1962.
-
-DECRETO No. 251.
-
-UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 29 DE DICIEMBRE DE 1962
-
-DECRETO No. 257
-
-UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 21 DE DICIEMBRE DE 1963.
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 14, 98 Y 105 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTICULO PRIMERO.
 
-Este Decreto entrará en vigor cinco días después de su publicación en el Periódico Oficial del Estado.
+Para los efectos de evaluación y seguimiento de la Oficina Ejecutiva del Presidente Municipal, el H. Ayuntamiento determinará, cuando sea necesario, la creación de comisiones unidas para dictaminar asuntos inherentes de esa Oficina Ejecutiva.
 
 ###### ARTICULO SEGUNDO.
 
-Envíese al Ejecutivo para su promulgación, publicación y debido cumplimiento.
-
-P.O. 16 DE MAYO DE 1964.
-
-Artículo Primero. Se derogan las disposiciones que se opongan al presente Decreto.
-
-Artículo Segundo. Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 1 DE MAYO DE 1965.
-
-UNICO.- El presente Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
-
-P.O. 18 DE DICIEMBRE DE 1965.
-
-PRIMERO.- Este Decreto entrará en vigor a partir de la fecha de su expedición.
-
-SEGUNDO.- Envíese al Ejecutivo para su sanción, publicación y debido cumplimiento.
-
-P.O. 25 DE DICIEMBRE DE 1965.
-
-PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- Envíese al Ejecutivo para su sanción, publicación y debido cumplimiento.
-
-P.O. 8 DE ENERO DE 1966.
+Cualquier disposición legal vigente que haga referencia a la Coordinación General de Asesores, se entenderá en lo subsecuente referida a la Oficina Ejecutiva del Presidente Municipal, conforme al presente Decreto.
 
 ###### ARTICULO TERCERO.
 
-Se reforman los Decretos números ciento veinticuatro y ciento ochenta y ocho, de fecha treinta y uno de enero de mil novecientos sesenta y cuatro, y veintinueve de octubre del propio año, respectivamente, para el efecto de reducir al día 31 de enero de mil novecientos sesenta y siete, el período para el que fueron electos los Magistrados que actualmente integran el Supremo Tribunal de Justicia del Estado.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTICULO UNICO.
+Lo subsecuente, referida a la Secretaría de Desarrollo Social, conforme al presente decreto.
 
-Este Decreto empezará a regir tan luego como sean debidamente sancionadas las reformas del artículo 115 de la Constitución General.
+Lo anterior para el conocimiento de la ciudadanía.
 
-P.O. 14 DE DICIEMBRE DE 1932.
+P.O. 3 DE MARZO DE 2008.
 
-UNICO:- Este Decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 162 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
-P.O. 29 DE ABRIL DE 1933.
+###### ARTÍCULO ÚNICO.
 
-Unico.- Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial de Estado.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 16 DE JUNIO DE 1934.
+Lo anterior para el conocimiento de la ciudadanía.
 
-TRANSITORIO: Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+P.O. 3 DE MARZO DE 2008.
 
-P.O. 27 DE JUNIO DE 1934.
+DECRETO POR EL QUE SE REFORMAN Y DEROGAN LOS ARTÍCULOS 98, 99, 111 Y 537 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
-TRANSITORIO: Este Decreto comenzará a surtir sus efectos a partir de su publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO PRIMERO.
 
-P.O. 25 DE AGOSTO DE 1934.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-TRANSITORIO.- Este Decreto en cuanto no tenga relación con los preceptos de la Constitución Política de la República, que en el mismo se invocan, principiará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO SEGUNDO.
 
-P.O. 29 DE AGOSTO DE 1934. (DECRETO NUM. 71)
+Cualquier disposición legal vigente que haga referencia a la Secretaría de Desarrollo Humano, se entenderá, en lo subsecuente, referida a la Secretaría de Desarrollo Social conforme al presente decreto.
 
-REPUBLICADO, P.O. 29 DE AGOSTO DE 1934.
+Lo anterior para el conocimiento de la ciudadanía.
 
-TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+P.O. 10 DE MARZO DE 2008.
 
-P.O. 29 DE AGOSTO DE 1934. (DECRETO NUM. 72)
+###### ARTÍCULO PRIMERO.
 
-TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 29 DE AGOSTO DE 1934. (DECRETO NUM. 86)
+###### ARTÍCULO SEGUNDO.
 
-TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+Cualquier disposición legal vigente que haga referencia a los Comités de Colonos, se entenderá, en lo subsecuente, referida a los Comités de Concertación y Participación Social, conforme al presente decreto.
 
-P.O. 10 DE NOVIEMBRE DE 1934.
+###### ARTÍCULO TERCERO.
 
-(DEROGADO POR DECRETO No. 109, P.O. 8 DE DICIEMBRE DE 1934) (N. DE E. PERMANECE VIGENTE EL TEXTO DEL DECRETO DE FECHA 5 DE FEBRERO DE 1921)
+Cualquier disposición legal vigente que haga referencia al Consejo Municipal de Comités de Colonos, se entenderá, en lo subsecuente, referida al Consejo Municipal de Comités de Concertación y Participación Social, conforme al presente decreto.
 
-Este decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+P.O. 14 DE ABRIL DE 2008.
 
-P.O. 8 DE DICIEMBRE DE 1934.
+###### ARTÍCULO ÚNICO.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA LAS DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 13 DE AGOSTO DE 1935 (DECRETO No. 62)
+P.O. 12 DE MAYO DE 2008.
 
-Transitorio.- Esta reforma comenzará a surtir sus efectos a partir de la fecha de su promulgación.
+DECRETO QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 1358 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
-P.O. 13 DE AGOSTO DE 1935 (DECRETO No. 63)
+###### ARTÍCULO ÚNICO.
 
-Transitorio.- Este decreto principiará a surtir sus efectos desde la fecha de su publicación.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 17 DE AGOSTO DE 1935.
+P.O. 12 DE MAYO DE 2008.
 
-TRANSITORIO.- Comenzará a surtir sus efectos a partir de la fecha de su promulgación.
+DECRETO QUE REFORMA EL ARTÍCULO 1322 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
-P.O. 11 DE ENERO DE 1936.
+###### ARTÍCULO ÚNICO.
 
-TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su promulgación.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 7 DE MARZO DE 1936.
+P.O. 7 DE JULIO DE 2008.
 
-TRANSITORIO:- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su promulgación.
+###### ARTÍCULO ÚNICO.
 
-P.O. 2 DE MAYO DE 1936.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-Unico.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su promulgación.
+P.O. 21 DE JULIO DE 2008.
 
-P.O. 9 DE ENERO DE 1937.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 23 Y ADICIONA EL ARTÍCULO 23 BIS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
-Transitorio.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO ÚNICO.
 
-P.O. 3 DE DICIEMBRE DE 1941.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-1o.- Se derogan todas las Leyes, Decretos y disposiciones que se opongan al presente Decreto.
+P.O. 21 DE JULIO DE 2008.
 
-2o.- Por razones de comodidad y con objeto de hacer más práctico el manejo y aplicación de la Constitución Política Local, el Ejecutivo vigilará la expedición de una nueva edición, incluyendo todas las reformas y adiciones que están en vigor, corriéndose el orden del articulado de la misma.
+DECRETO POR EL QUE SE REFORMA EL LA FRACCIÓN XIX DEL ARTÍCULO 1107 Y EL ARTÍCULO 1151 AL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
-3o.- Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO UNICO.
 
-P.O. 28 DE ENERO DE 1942.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-Unico. Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 27 DE MARZO DE 1943.
-
-###### Artículo 1º.
-
-Se abroga el Decreto 223 de fecha 13 de enero de 1942.
-
-###### Artículo 2º.
-
-Este Decreto principiará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 3 DE NOVIEMBRE DE 1943.
-
-UNICO.- Este Decreto comienza a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 9 DE FEBRERO DE 1944.
-
-UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su promulgación.
-
-P.O. 7 DE DICIEMBRE DE 1946.
-
-Unico.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 2 DE FEBRERO DE 1949.
-
-PRIMERO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial de Estado.
-
-SEGUNDO.- Queda abrogado el Artículo 12 del Decreto No. 107 expedido por la H. Legislatura del Estado, el 19 de noviembre de 1946.
-
-P.O. 6 DE ABRIL DE 1949.
-
-UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 7 DE OCTUBRE DE 1950.
-
-UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 11 DE NOVIEMBRE DE 1950.
-
-###### ARTICULO PRIMERO.
-
-Para el cumplimiento de los efectos del presente decreto, adiciónese al Presupuesto de Egresos para el Ejercicio Fiscal de 1975, la Partida de gastos correspondientes mediante el decreto respectivo.
-
-###### ARTICULO SEGUNDO.
-
-El Magistrado cuyo cargo establece el presente Decreto, asumirá de inmediato la función y actuará hasta el día 31 de enero de 1967.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor a partir de su expedición.
-
-###### ARTICULO SEGUNDO.
-
-Adiciónese en la parte relativa al Estatuto Jurídico de los Trabajadores al Servicio del Estado, con dicho cargo, que por lo expresado, deben considerarse de confianza, mediante el decreto respectivo.
-
-###### ARTICULO TERCERO.
-
-El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
-
-P.O. 21 DE ENERO DE 1976.
-
-###### ARTICULO UNICO.
-
-El presente Decreto empezará a surtir sus efectos a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 24 DE ENERO DE 1970.
-
-UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
-
-P.O. 21 DE FEBRERO 1970.
-
-UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 25 DE DICIEMBRE DE 1971.
-
-PRIMERO.- Los Artículos 5, 6, 7 y 8 del Decreto 121, publicado en el Periódico Oficial del Estado de 15 de diciembre de 1928, que contiene el Reglamento Interior para el Gobierno del Congreso; así como el Artículo 93 de la Ley Electoral del Estado, se sujetarán a lo dispuesto por las anteriores reformas.
-
-SEGUNDO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 16 DE ENERO DE 1974.
-
-PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- La presente modificación a la Constitución Política, tendrá vigor por una sola vez, por lo que rendido el Informe y pasadas las fechas que menciona, seguirá en vigor el texto anterior.
-
-P.O. 11 DE DICIEMBRE DE 1974.
+P.O. 11 DE AGOSTO DE 2008.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- La presente modificación a la Constitución Política, tendrá lugar por una sola vez, por lo que rendido el Informe pasadas las fechas que menciona seguirá en vigor el texto anterior.
+SEGUNDO.- Toda disposición legal vigente que haga referencia a la comisión de Desarrollo Humano y Asistencia Social se entenderá que hace referencia a la Comisión de Desarrollo Social en los términos del presente decreto.
 
-P.O. 19 DE FEBRERO DE 1975.
+P.O. 8 DE SEPTIEMBRE DE 2008.
 
-###### ARTICULO UNICO
+ARTÍCULO ÚNICO (SIC).- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO SEGUNDO.
 
-P.O. 22 DE ENERO DE 1977.
+A partir de la entrada en vigor del presente Decreto, el personal y los recursos materiales y financieros de los departamentos creados, serán asignados por la Secretaría de Administración del H. Ayuntamiento de Aguascalientes.
 
-PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+P.O. 3 DE NOVIEMBRE DE 2008.
 
-SEGUNDO.- La presente modificación a la Constitución Política tendrá vigor por una sola vez, por lo que rendido el Informe y pasadas las fechas que menciona, seguirá en vigor el texto anterior.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 82 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
-P.O. 13 DE AGOSTO DE 1977.
+###### ARTÍCULO PRIMERO.
 
-UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-P.O. 25 DE ENERO DE 1978.
+###### ARTÍCULO SEGUNDO.
 
-PRIMERO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+A más tardar quince días después de la entrada en vigor del presente decreto, el H. Cabildo deberá nombrar los Regidores que conformarán la Comisión de Igualdad y Género así como su Presidente.
 
-SEGUNDO.- La presente modificación tendrá vigencia por esta única vez, por lo que rendido el Informe y pasada la fecha mencionada, seguirá en vigor el texto anterior del propio Artículo.
+P.O. 3 DE NOVIEMBRE DE 2008.
 
-P.O. 9 DE SEPTIEMBRE DE 1978.
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 98, 107, 332, 553, 559, 570, 597, 601, 602, 603, 604, 605, 613, 614, 615, 616, 617, 618, 619, Y SE ADICIONAL LOS ARTÍCULOS 601 BIS, 605 BIS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
-PRIMERO:- Se deroga el contenido del Artículo 33, para dar cabida al texto del inmediato anterior que se corre en el numeral.
+###### ARTÍCULO PRIMERO.
 
-SEGUNDO:- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-P.O. 4 DE JUNIO DE 1980.
+###### ARTÍCULO SEGUNDO.
 
-PRIMERO.- Se deroga la fracción XVI del Artículo 91 de esta Constitución.
+Dentro de los tres días siguientes a la entrada en vigencia de las presentes modificaciones, el Presidente de la Comisión de Honor y Justicia tendrá las siguientes obligaciones:
 
-SEGUNDO.- Este decreto inicia su vigencia al siguiente día de su publicación en el Periódico Oficial del Estado.
+I.- Proponer al H. Ayuntamiento la terna para elegir al representante del mismo que desempeñará el cargo de vocal, para que, en un término no mayor a diez días naturales, seleccione de la terna el representante del H. Ayuntamiento que se integrará a la Comisión de Honor y Justicia;
 
-P.O. 19 DE JULIO DE 1980.
+II.- Elegir a los vocales que representarán a la Secretaría de Seguridad Pública y Tránsito Municipal, en relación a la Dirección de Policía Preventiva ya la Dirección de Tránsito;
 
-UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+III.- Solicitar al Director de Estado Mayor que, en un término no mayor a diez días naturales, se integre o designe algún miembro representante para desempeñar el cargo de vocal. En caso de que, en el plazo establecido, el Director de Estado Mayor no se integre o no haya designado algún representante, el Presidente de la Comisión de Honor y Justicia lo designará a más tardar a los tres días de vencido el plazo; y
 
-P.O. 3 DE ENERO DE 1981.
+IV.- Requerir, al Consejo Ciudadano de Seguridad Pública, la designación de sus dos representantes en un término no mayor a diez días naturales. En caso de que, en el plazo establecido, el Consejo no haya designado a sus representantes, el Presidente de la Comisión de Honor y Justicia lo designará a más tardar a los tres días naturales de vencido el plazo.
 
-UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO TERCERO.
 
-P.O. 4 DE MARZO DE 1981.
+Tanto los asuntos nuevos que sean de competencia de la Comisión de Honor y Justicia, como los que están en investigación, así como los que están en conocimiento de la Comisión de Honor y Justicia vigente, serán conocidos y resueltos por la Comisión de Honor y Justicia que se integre por el procedimiento previsto en el artículo Transitorio Segundo del presente Decreto.
 
-UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO CUARTO.
 
-P.O. 27 DE ENERO DE 1982.
+En un término no mayor a cinco días naturales, el Presidente Municipal, nombrará al Coordinador Jurídico de Asuntos de Honor y Justicia, quién fungirá como Secretario Técnico de la Comisión de Honor y Justicia.
 
-UNICO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO QUINTO.
 
-P.O. 6 DE FEBRERO DE 1982.
+Extraordinariamente, la Comisión de Honor y Justicia que se integre como resultado de estas reformas durará en su encargo hasta la convocatoria de integración de la Comisión de Honor y Justicia del año de 2010, conforme al procedimiento establecido en el artículo 615 del Código Municipal de Aguascalientes. Pudiendo estos ser ratificados en su caso, al término de dicho periodo.
 
-UNICO.- El presente decreto inicia su vigencia al día siguiente de su publicación en el Periódico Oficial de Estado.
+###### ARTÍCULO SEXTO.
 
-P.O. 27 DE OCTUBRE DE 1982.
+Cualquier disposición vigente que haga referencia a la Coordinación de Asuntos Internos de Seguridad Pública o al Coordinador de Asuntos Internos de Seguridad Pública, se entenderá en lo subsiguiente, referido a la Dirección de Asuntos Internos de Seguridad Pública y Tránsito y, Director de Asuntos Internos de Seguridad Pública y Tránsito, de manera correspondiente, conforme al presente Decreto.
 
-###### ARTICULO UNICO.
+###### ARTÍCULO SÉPTIMO.
 
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+El Secretario (sic) Administración, asignará los recursos materiales, humanos y financieros necesarios para su funcionamiento. A más tardar a los 10 días hábiles siguientes a la entrada en vigor del presente reglamento.
 
-P.O. 22 DE ENERO DE 1983.
+P.O. 3 DE NOVIEMBRE DE 2008.
 
-UNICO.- El presente Decreto inicia su vigencia a partir de su publicación en el Periódico Oficial del Estado.
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 298, 306, 320, 321, 324, Y 545, SE ADICIONAN LOS ARTÍCULOS 320 BIS, 320 TER Y 320 QUATER, SE DEROGA LA FRACCIÓN XI DEL ARTÍCULO 343 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
-P.O. 24 DE AGOSTO DE 1983.
+###### ARTÍCULO ÚNICO.
 
-1o.- Para los efectos de este decreto y por lo que se refiere al proceso electoral del año en curso, la Comisión Estatal Electoral instalará el Comité Distrital Electoral del Décimo Quinto Distrito, en un término que no exceda de tres días contados a partir de la vigencia del presente decreto.
+El presente decreto entrará en vigor el día 16 de noviembre del año 2008.
 
-2o.- Para los efectos de este decreto y por lo que se refiere al proceso electoral del presente año, los partidos políticos podrán hacer la designación de sus comisionados y sus respectivos suplentes, ante la Comisión Estatal Electoral, para integrar el Comité Distrital Electoral del Décimo Quinto Distrito, en un término de quince días contados a partir de la vigencia del presente decreto.
+P.O. 5 DE ENERO DE 2009.
 
-3o.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+> <small>N. DE E. EL DECRETO DEL CÓDIGO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES.</small>
 
-P.O. 27 DE AGOSTO DE 1983.
+P.O. 12 DE ENERO DE 2009.
 
-DECRETO No. 493
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- Todos los permisos para prestar el servicio de estacionamiento otorgados y que se otorguen, deberán ajustarse a las disposiciones del presente Reglamento, a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-P.O. 27 DE AGOSTO DE 1983.
+TERCERO.- Todos los permisionarios o concesionarios que soliciten por primera vez o renueven su permiso para el año de 2009, deberán cumplir con todas las disposiciones del presente Reglamento a más tardar el día 31 de marzo del año 2009.
 
-DECRETO No. 494.
+CUARTO.- Se derogan los articulas 807, 808, 809, 811, 812, 813, 819, 820, 821, 822, 824, 825, 1401, 1402., 1403, 1404 del Código Municipal de Aguascalientes.
 
-UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+P.O. 23 DE FEBRERO DE 2009.
 
-P.O. 31 DE DICIEMBRE DE 1983.
+###### ARTÍCULO PRIMERO.
 
-PRIMERO.- El presente Decreto entrará en vigor el día 1o. de enero de 1984.
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-SEGUNDO.- Los servicios públicos que actualmente presta el Estado y deban pasar al Municipio en los términos del Artículo 132, fracción XV, se trasladarán gradualmente conforme lo autorice la ley y lo permita la capacidad técnica, administrativa y financiera de los Municipios, conviniendo éstos con el Gobierno del Estado la mejor forma de prestarlos entre tanto se les trasladan íntegramente.
+###### ARTÍCULO SEGUNDO.
 
-TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+A partir de la entrada en vigor del presente decreto, el personal y los recursos materiales y financieros del Departamento de Cultura, dependiente de la Secretaria de Desarrollo Social, pasarán a formar parte del Instituto Municipal Aguascalentense para la Cultura.
 
-P.O. 19 DE DICIEMBRE DE 1984.
+P.O. 8 DE JUNIO DE 2009.
 
-###### ARTICULO UNICO.
+###### ARTÍCULO PRIMERO.
 
-Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-P.O. 22 DE DICIEMBRE DE 1984.
+###### ARTÍCULO SEGUNDO.
 
-UNICO.- El presente Decreto inicia su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+El Consejo Técnico Ciudadano de Salud del Municipio de Aguascalientes deberá quedar conformado, a más tardar, a los quince días naturales siguientes a la entrada en vigor del presente Decreto.
 
-P.O. 30 DE ENERO DE 1985.
+P.O. 13 DE JULIO DE 2009.
 
-DECRETO No. 146.
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 98 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
-UNICO.- Este Decreto inicia su vigencia un día después de su publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO UNICO.
 
-P.O. 30 DE ENERO DE 1985.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-DECRETO No. 147.
+P.O. 13 DE JULIO DE 2009.
 
-UNICO.- El presente Decreto inicia su vigencia un día después al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 29 DE MARZO DE 1986.
-
-UNICO.- El presente Decreto entrará en vigor un día después al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 5 DE JULIO DE 1986.
-
-DECRETO No. 315.
-
-UNICO.- El presente Decreto entrará en vigor un día después al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 5 DE JULIO DE 1986.
-
-DECRETO No. 316.
-
-UNICO.- Este Decreto inicia su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 6 DE DICIEMBRE DE 1986.
-
-UNICO.- El presente Decreto entrará en vigor a partir de su expedición.
-
-P.O. 10 DE DICIEMBRE DE 1986.
-
-UNICO.- Este Decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
-
-P.O. 21 DE ENERO DE 1987.
-
-###### ARTICULO UNICO.
-
-Este Decreto entrará en vigor treinta días después al de su publicación en el Periódico Oficial del Estado.
-
-P.O.1 DE ABRIL DE 1989.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 22 DE ABRIL DE 1989.
-
-###### ARTICULO SEGUNDO.
-
-Se concede, por esta única vez, un plazo de quince días para que los Ayuntamientos cumplan con su obligación de someter a la consideración del Congreso su cuenta anual del presente ejercicio fiscal.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Se abrogan las disposiciones que se opongan al presente Decreto.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTICULO SEGUNDO.
-
-El Artículo 80 que mediante el presente Decreto se reforma surtirá efectos para el ciudadano electo Gobernador del Estado para el período 2005 al 2010, quien iniciará su encargo a partir del 1 de enero del año siguiente al de la elección correspondiente.
-
-P.O. 10 DE JUNIO DE 1995
-
-DECRETO No. 333.
-
-###### ARTICULO TERCERO.
-
-Se derogan las disposiciones que se opongan a la presente Ley.
-
-###### ARTICULO CUARTO.
-
-Envíese al Ejecutivo del Estado, para su promulgación y debido cumplimiento.
-
-P.O. 7 DE ENERO DE 1967.
-
-UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 14 DE ENERO DE 1967.
-
-PRIMERO.- Los CC. Magistrados electos por este Honorable Congreso que actualmente integran el Supremo Tribunal de Justicia ocuparán dicho cargo hasta el día 15 de enero de 1967.
-
-SEGUNDO.- Se reforman los Decretos números 368 publicado en el Periódico Oficial del Estado de 8 de enero de 1966, 9 de 21 de febrero de 1966 y 51 de 26 de octubre del propio año, para el efecto de reducir, en los términos del Artículo transitorio anterior, el período para el cual fueron electos los Magistrados que actualmente integran el Supremo Tribunal de Justicia del Estado.
-
-TERCERO.- Este Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
-
-P.O. 13 DE MARZO DE 1968.
-
-###### ARTICULO QUINTO.
-
-En tanto no sean expedidas las disposiciones legales, reglamentarias y acuerdos generales a que se refieren los preceptos constitucionales que se reforman por el presente Decreto, seguirá aplicándose la normatividad vigente.
-
-###### ARTICULO SEXTO.
-
-Las controversias de particulares con Ayuntamientos o el Estado, o de éstos contra aquéllos, que actualmente estén en trámite, seguirán siendo sustanciadas hasta su conclusión definitiva ante la Presidencia del Supremo Tribunal de Justicia.
-
-###### ARTICULO SEPTIMO.
-
-Se deroga toda disposición que se oponga al presente Decreto.
-
-P.O. 20 DE OCTUBRE DE 2000.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 30 DE ENERO DE 1993.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor a partir de su expedición.
-
-###### ARTICULO SEGUNDO.
-
-El Artículo 80 de la Constitución Política del Estado de Tamaulipas, en los términos que fue reformado mediante el Decreto número 329 de la Quincuagésima Quinta Legislatura de Tamaulipas, publicado en el Periódico Oficial de fecha 10 de junio de 1995, surtirá sus efectos como lo dispone su Artículo Segundo Transitorio.
-
-P.O. 27 DE FEBRERO DE 1999.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Una vez realizado el procedimiento descrito en el artículo 106 de este Decreto, por única ocasión, a propuesta del Presidente del Pleno, uno de los Magistrados designados para integrar el Supremo Tribunal de Justicia concluirá su encargo el quince de enero del año 2003 y será sustituido en los términos previstos por el artículo 108 de la Constitución Política del Estado de Tamaulipas, reformado por medio de este Decreto.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día 5 de Febrero de 1993.
-
-P.O. 25 DE DICIEMBRE DE 1993.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 17 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -25533,13 +23513,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 Se ratifica el acuerdo del H. Cabildo del Municipio de Aguascalientes del 07 de enero de 2008 en el que se designó al Síndico Procurador y al Síndico de Hacienda.
 
-###### ARTICULO TERCERO.
+###### ARTÍCULO TERCERO.
 
-En tanto se expida la disposición Reglamentaria del Artículo 148 de la Constitución Política del Estado, continuarán operando las actuales dependencias del Trabajo y vigentes los preceptos legales que las rigen.
+Se ratifican todos los actos jurídicos y contratos firmados por el Síndico Procurador del H. Ayuntamiento del Municipio de Aguascalientes del periodo constitucional 2008-2010.
 
-P.O. 10 DE JUNIO DE 1995.
-
-DECRETO No. 329.
+P.O. 27 DE JULIO DE 2009.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -25549,15 +23527,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 En un plazo que no excederá de doce meses contados a partir de la entrada en vigor del Reglamento del Patrimonio Inmobiliario del Municipio de Aguascalientes, se deberá someter a la aprobación del H. Ayuntamiento de Aguascalientes el inventario de bienes inmuebles que integran el patrimonio inmobiliario municipal.
 
-###### ARTICULO TERCERO.
+###### ARTÍCULO TERCERO.
 
-Los derechos laborales de los Servidores Públicos del Poder Judicial del Estado serán respetados íntegramente.
+Las resoluciones que hubiesen sido aprobadas por el Comité con anterioridad a la entrada en vigor del Reglamento del Patrimonio Inmobiliario del Municipio de Aguascalientes serán válidas y, según lo estime procedente la Secretaría de Desarrollo Urbano, de contarse con la documentación que en éste se requiere, podrá emitirse dictamen sobre los mismos, en términos de lo dispuesto en el Reglamento del Patrimonio inmobiliario del Municipio de Aguascalientes, o bien, podrán tramitarse hasta su total conclusión de conformidad con los ordenamientos jurídicos que estuvieron vigentes al momento de su aprobación.
 
-###### ARTICULO CUARTO.
+###### ARTÍCULO CUARTO.
 
-Publíquese en el Periódico Oficial del Estado para su conocimiento y efectos.
-
-P.O. 22 DE JUNIO DE 1988.
+A partir de la entrada en vigor del Reglamento del Patrimonio Inmobiliario del Municipio de Aguascalientes, en los actos en que se haga constar la escrituración de bienes inmuebles propiedad del Municipio, deberá señalarse si estos pertenecen al dominio público o privado, conforme a las disposiciones del Reglamento del Patrimonio Inmobiliario del Municipio de Aguascalientes. Para tal efecto la Secretaría de Desarrollo Urbano expedirá la constancia correspondiente antes de las escrituraciones referidas.
 
 ###### ARTÍCULO QUINTO.
 
@@ -25603,9 +23579,9 @@ Se derogan todas las disposiciones Municipales que contravengan lo dispuesto en 
 
 La Dirección Municipal de Protección Civil deberá presentar la propuesta del Programa Municipal de Protección Civil y de los manuales de las bases y tablas técnicas a la Comisión de Gobernación del H. Ayuntamiento en un término no mayor a 120 días naturales. La Comisión tendrá 120 días naturales para revisar la propuesta y en caso de considerarla correcta, presentarla al H. Ayuntamiento para su aprobación.
 
-###### ARTICULO CUARTO.
+###### ARTÍCULO CUARTO.
 
-La nueva Ley Orgánica del Poder Judicial deberá entrar en vigor en un plazo no mayor de ciento ochenta días posteriores a la fecha de publicación del presente Decreto en el Periódico Oficial del Estado.
+Se derogan los artículos 1575, 1576, 1577 y 1578 del Código Municipal de Aguascalientes.
 
 ###### ARTÍCULO QUINTO.
 
@@ -25641,9 +23617,9 @@ DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 1335 Y 1335 BIS DEL C�
 
 ###### ARTICULO UNICO.
 
-El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-P.O. 26 DE ENERO DE 1994.
+P.O. 26 DE OCTUBRE DE 2009.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -25657,9 +23633,11 @@ P.O. 16 DE NOVIEMBRE DE 2009.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción del actual período de sesiones que concluirá el día 30 de abril de 1994.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-P.O. 23 DE ABRIL DE 1994.
+P.O. 11 DE ENERO DE 2010.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 604, 605, 605-BIS Y 620 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -25677,17 +23655,25 @@ DECRETO POR EL QUE SE REFORMA EL 829 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 P.O. 22 DE FEBRERO DE 2010.
 
-###### ARTICULO UNICO.
+###### ARTÍCULO ÚNICO.
 
-El presente Decreto inicia su vigencia a partir de su expedición.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-P.O. 15 DE FEBRERO DE 1997.
+P.O. 8 DE MARZO DE 2010.
 
-###### ARTICULO UNICO.
+> <small>N. DE E. EL DECRETO DEL CÓDIGO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES.</small>
 
-El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+P.O. 24 DE MAYO DE 2010.
 
-P.O. 25 DE OCTUBRE DE 1997.
+DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 162 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE MAYO DE 2010.
+
+DECRETO POR EL QUE SE MODIFICAN LOS ARTÍCULOS 340 Y 341 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTÍCULO 1°.
 
@@ -25707,23 +23693,185 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 30 DE AGOSTO DE 2010.
 
-###### ARTICULO UNICO.
+###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-P.O. 26 DE DICIEMBRE DE 1998.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 20 DE ENERO DE 1999.
+P.O. 6 DE SEPTIEMBRE DE 2010.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-P.O. 8 DE JULIO DE 1999.
+P.O. 9 DE DICIEMBRE DE 2010.
+
+> <small>N. DE E. EL DECRETO DEL CÓDIGO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES.</small>
+
+P.O. 31 DE ENERO DE 2011.
+
+PRIMERO.- Las presentes reformas y adiciones al Código Municipal de Aguascalientes entrarán en vigor el día hábil siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Una vez que las presentes reformas y adiciones al Código Municipal de Aguascalientes entren en vigor, las del Director de Protección Civil o el Director de Bomberos se entenderá referido al Director Municipal de Protección Civil, Bomberos y Atención de Emergencias Prehospitalarias.
+
+TERCERO. (DEROGADO, P.O. 13 DE ENERO DE 2014)
+
+CUARTO.- La Secretaría del H. Ayuntamiento y Dirección General de Gobierno deberá presentar a través de la Comisión Permanente de Gobernación al H. Cabildo el Dictamen relativo al Reglamento Interior de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno en un término no mayor a los 60 días naturales siguientes a la publicación de las presentes reformas y adiciones al Código Municipal de Aguascalientes.
+
+QUINTO.- En tanto la COORDINACION GENERAL DE VERIFICACIÓN ÚNICA ADMINISTRATIVA asume sus atribuciones y facultades en los términos de las reformas y adiciones al Código Municipal de Aguascalientes, las Dependencias y Órganos de la Administración Pública del Municipio de Aguascalientes que sean competentes a la fecha de entrada en vigor de dichas reformas y/o adiciones, continuaran ejerciendo dichas funciones hasta la conclusión de los procedimientos de las reformas y/o adiciones al Código Municipal y Reglamento Interior de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, previamente publicados en el Periódico Oficial del Estado de Aguascalientes.
+
+SEXTO. (DEROGADO, P.O. 13 DE ENERO DE 2014)
+
+SÉPTIMO. (DEROGADO, P.O. 13 DE ENERO DE 2014)
+
+OCTAVO.- La Secretaría de Administración llevará a cabo todos los actos legales o administrativos relacionados con las cuestiones laborales que se susciten con motivo de las presentes reformas y adiciones del Código Municipal de Aguascalientes.
+
+NOVENO.- Quedan derogadas las disposiciones que se opongan a las presentes reformas y adiciones al Código Municipal de Aguascalientes.
+
+P.O. 14 DE FEBRERO DE 2011.
+
+PRIMERO. Los actos administrativos emitidos por las autoridades municipales competentes en la aplicación de las disposiciones legales en materia ambiental dicte la autoridad municipal, podrán ser recurridas mediante el recurso de revisión, mismo que se sustanciará conforme a lo dispuesto en la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
+
+SEGUNDO. Publíquese en el Periódico Oficial de Gobierno del Estado de Aguascalientes.
+
+TERCERO. Las presentes reformas y adiciones entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE FEBRERO DE 2011.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día hábil siguiente de su Publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Quedan vigentes los transitorios publicados el 31 de enero de 2011 en el Periódico Oficial de Estado de Aguascalientes, relativas al Decreto por el que se reforma el artículo 98 párrafo cuarto, así como en sus fracciones II, III, VII, IX y XVII del Código Municipal de Aguascalientes.
+
+TERCERO.- Todas las referencias relativas a la Secretaria de Desarrollo Social así como de la Secretaria de Servicios Públicos y Ecología, prescritas en el Código Municipal de Aguascalientes, o en cualesquier otro ordenamiento, se entenderán hechas a la Secretaria de Integración Social o a la Secretaria de Servicios Públicos respectivamente y de conformidad con la presente reforma. De igual manera cabe esta misma disposición para las áreas, coordinaciones, departamentos, dependencias o unidades administrativas que han sido establecidas en la presente reforma.
+
+P.O. 8 DE AGOSTO DE 2011.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día hábil siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente ordenamiento.
+
+TERCERO.- Los procedimientos que a la fecha del inicio de vigencia de estas reformas, se hubieren iniciado por parte de las Comisiones así como los de la Dirección de Asuntos Internos de Seguridad Pública, con motivo de la comisión de conductas contrarias a los principios de actuación, las prohibiciones, deberes y obligaciones imputables a los integrantes operativos, continuarán sustanciándose y se resolverán con apego a las disposiciones vigentes al momento de cometerse los hechos que dieron lugar a la instauración de los procedimientos, debiendo concluir en un plazo no mayor a sesenta días hábiles posteriores a la entrada en vigor.
+
+CUARTO.- La Comisión del Servicio Profesional de Carrera Policial, la Comisión de Honor y Justicia, la Comisión de Normatividad Interna y el Consejo Municipal de Consulta y Participación Ciudadana deberán conformarse, atendiendo a lo dispuesto en este ordenamiento a más tardar, dentro de los sesenta días hábiles contados a partir de su entrada en vigor, y su encargo continuará al menos durante todo el año dos mil doce.
+
+La instalación de cualquiera de los órganos colegiados se formalizará a través del acta debidamente circunstanciada que al efecto se levante.
+
+QUINTO.- El Municipio deberá realizar los programas anuales, tendientes a dar cumplimiento al Régimen Complementario de Seguridad Social para los integrantes operativos de la Secretaría, mismos que en ningún caso podrán ser inferiores a los otorgados en los ejercicios previos.
+
+SEXTO.- Las adecuaciones presupuestales para hacer frente a la Migración del Servicio, la designación de los cargos administrativos y de dirección, la operación del sistema terciario basado en el simulador piramidal proporcionado por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, la adecuación de las instalaciones, así como las que resulten necesarias para el cumplimiento de estas disposiciones, se proyectarán en el Presupuesto de Egresos del Municipio de Aguascalientes para el ejercicio Fiscal del año dos mil doce.
+
+SEPTIMO.- Las prestaciones establecidas en el artículo 565 fracción XVII se implementarán a partir del ejercicio fiscal del año dos mil doce, por lo que durante el ejercicio 2011 se otorgarán las que se tienen contratadas y presupuestadas.
+
+OCTAVO.- Las disposiciones normativas relativas al Sistema Integral de Desarrollo Policial, serán atendidas en el reglamento correspondiente, el cual se emitirá en un término no mayor a ciento ochenta días naturales a partir de la entrada en vigor de estas reformas.
+
+P.O. 3 DE OCTUBRE DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor el primero de enero del año 2012, después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se concede a los propietarios o arrendatarios de ranchos, haciendas o similares; expendios de animales, zoológicos, y demás personas a que se refiere este reglamento, un plazo de tres meses, para la debida observancia de las disposiciones que establece este ordenamiento legal, a partir del día siguiente de la entrada en vigencia del presente Reglamento.
+
+P.O. 12 DE DICIEMBRE DE 2011.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 82 FRACCIÓN XVII DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 12 DE DICIEMBRE DE 2011.
+
+DECRETO POR EL QUE SE REFORMA EL RENGLÓN CUARTO DE LA FRACCIÓN XV DEL ARTÍCULO 98 Y SE DEROGA EL CAPÍTULO I DENOMINADO "DEL CONTROL CANINO Y FELINO" DEL TÍTULO ÚNICO DEL LIBRO TERCERO, ASÍ COMO LOS ARTÍCULOS 417 AL 444 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
+
+ÚNICO.- El presente reglamento se publicará en el Periódico Oficial del Estado y entrará en vigor el 1° de enero del 2012.
+
+P.O. 9 DE ENERO DE 2012.
+
+I.- En un término de 45 días hábiles contados a partir de la presente publicación en el Periódico Oficial del Estado, se deberán de publicar las reformas, adiciones o derogaciones a las diversas disposiciones que contienen los Reglamentos de: Reglamento de Estacionamientos del Municipio de Aguascalientes; Reglamento de Protección Civil para el Municipio de Aguascalientes; Reglamento de Desarrollo de Fraccionamientos, Condominios, Desarrollos Especiales y Subdivisiones para el Municipio de Aguascalientes; Reglamento de Rastros del Municipio de Aguascalientes; y Reglamento para la Protección y Trato Digno a los Animales del Municipio de Aguascalientes;
+
+II.- Las diligencias de verificación que se encuentren en trámite a la entrada en vigor del presente ordenamiento, se regularán por las normas jurídicas vigentes en el momento en que se hayan iniciado dichas diligencias.
+
+III.- En tanto se nombre y acredite a los Verificadores en los términos de las presentes disposiciones, las facultades de verificación continuarán siendo ejercidas por los propios verificadores que se encuentren adscritos a las diversas dependencias de la Administración Pública Municipal, en un término de 15 días hábiles contados a partir del día siguiente a la publicación en el Periódico Oficial del Estado del presente Reglamento de Verificación Administrativa, así como las reformas y adiciones que en materia de verificación establezca el Código Municipal de Aguascalientes
+
+IV.- El personal que actualmente presta sus servicios en las diversas dependencias de la Administración Pública Municipal, que ejerzan funciones de Verificación pasarán a la Coordinación General de Verificación Única Administrativa.
+
+V.- Las nuevas credenciales de los Verificadores deberán expedirse dentro de los 20 días naturales siguientes a la publicación del Reglamento de Verificación Administrativa, y de las presentes reformas y adiciones al Código Municipal de Aguascalientes; entre tanto, los Verificadores se identificarán con las credenciales actualmente en vigor.
+
+VI.- La Coordinación General de Verificación Única Administrativa, deberá implementar el padrón relativo en materia de Verificación Administrativa, en un término de noventa días naturales, contados a partir del día siguiente de la publicación del presente Reglamento de Verificación Administrativa.
+
+VII.- Dentro de los cuarenta y cinco días naturales siguientes a la publicación del presente Reglamento, la Coordinación General de Verificación Única Administrativa, publicará en el Periódico Oficial del Estado y en los periódicos de mayor circulación en el Municipio de Aguascalientes los datos de identificación y adscripción de los verificadores.
+
+VIII.- Las reformas y/o adiciones al Código Municipal de Aguascalientes relacionadas con la aplicación del presente Reglamento, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE FEBRERO DE 2012.
+
+PRIMERO.- Las presentes reformas, adiciones y modificaciones al Código Municipal de Aguascalientes entrarán en vigor el día hábil siguiente a su Publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- En cumplimiento a lo establecido por el artículo 33 del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipio (sic) y Organismos Descentralizados, el presente Reglamento Interior de Trabajo del Municipio de Aguascalientes entrará en vigor a partir de la fecha de su depósito en el Tribunal de Arbitraje.
+
+TERCERO.- Las funcionarias y funcionarios públicos integrantes del H. Ayuntamiento, los directores y directoras generales, las servidoras y servidores públicos cuya designación le corresponde al Presidente (a) Municipal y, en general, todo funcionario (a) o empleado (a) del H. Ayuntamiento, deberá observar, comunicar y dar a conocer las presentes reformas, adiciones y modificaciones al Código Municipal, y al Reglamento Interior de Trabajo del Municipio de Aguascalientes.
+
+CUARTO.- Las reformas, modificaciones y adiciones al Reglamento Interior de Trabajo del Municipio de Aguascalientes deberán ser publicadas en el Periódico Oficial del Estado de Aguascalientes.
+
+QUINTO.- Se derogan todas las disposiciones que contravengan a las presentes reformas al Código Municipal de Aguascalientes.
+
+SEXTO.- Se abrogan aquellas disposiciones administrativas o normativas que se opongan al presente Reglamento Interior de Trabajo del Municipio de Aguascalientes, y que hubieren tenido aplicación dentro de la competencia municipal.
+
+SÉPTIMO.- El Consejo para la Equidad Laboral y la Comisión para la Erradicación de la Violencia Laboral deberán quedar debidamente instaladas dentro de los quince días hábiles siguientes a la entrada en vigor de las reformas, modificaciones y adiciones al Código Municipal de Aguascalientes y las reformas, modificaciones y adiciones al Reglamento Interior de Trabajo del Municipio de Aguascalientes.
+
+OCTAVO.- Dentro de los quince días hábiles siguientes a su instalación, la Comisión para la Erradicación de la Violencia Laboral deberá emitir los criterios y lineamientos procedimentales para la aplicación de las medidas disciplinarias correspondientes.
+
+P.O. 9 DE ABRIL DE 2012.
+
+PUNTOS RESOLUTIVOS: ...
+
+SEGUNDO. La presente reforma al artículo 98 fracción IV surtirá efectos a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE SEPTIEMBRE DE 2012.
+
+SE APRUEBA LA REFORMA AL ARTÍCULO 165 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
+
+LA REFORMA CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES, SIN EMBARGO, A CONTINUACIÓN SE CITAN LOS ARTÍCULOS DEL REGLAMENTO DEL ARCHIVO GENERAL MUNICIPAL DE AGUASCALIENTES QUE SE PUBLICÓ EN EL PUNTO RESOLUTIVO CUARTO DE DICHA REFORMA:
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento del Archivo General del Municipio de Aguascalientes publicado en el Periódico Oficial del Estado de Aguascalientes el 15 de septiembre de 1991.
+
+P.O. 10 DE SEPTIEMBRE DE 2012.
+
+SE REFORMAN LOS ARTÍCULOS 98 FRACCIÓN XIV; 112 FRACCIÓN XXXVII Y; SE ADICIONAN AL ARTÍCULO 112 LAS FRACCIONES XXXVIII, XXXIX, XL Y XLI, DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas y adiciones al artículo 98 y 112 del Código Municipal de Aguascalientes entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE OCTUBRE DE 2012.
+
+SE TRANSCRIBEN LOS PUNTOS RESOLUTIVOS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO
+
+PRIMERO.- Se aprueban las modificaciones, reformas y adiciones al Código Municipal de Aguascalientes en el siguiente orden:
+
+a) Se modifica la denominación del Capítulo II del Libro I para quedar: "Del Nombre Oficial y Escudo de Armas del Municipio;
+
+b) Se reforma el artículo 4° y se adicionan los artículos 4°-Bis, 4°-Ter, 4°-Quater y 4°-Quinquies; y
+
+c) Se reforma el artículo 5° y se adiciona el artículo 5°-Bis.
+
+CUARTO.- Las anteriores disposiciones jurídicas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE FEBRERO DE 2013.
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor el día hábil siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 4 DE MARZO DE 2013.
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día hábil siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan a las presentes reformas y adiciones al Libro Séptimo y Noveno del Código Municipal de Aguascalientes.
+
+TERCERO.- Se concederá un plazo de seis meses a partir de la fecha de su publicación, para que todos los establecimientos mercantiles o lugares, que se rijan bajo las disposiciones del Libro Séptimo y Noveno del Código Municipal de Aguascalientes, regularicen su situación conforme a las presentes reformas y adiciones.
+
+CUARTO.- Para el cumplimiento de lo dispuesto por el artículo transitorio anterior, la autoridad municipal tomará en consideración las condiciones socioeconómicas, los usos, costumbres y legislación aplicable al momento en que se otorgaron las licencias y/o permisos de los establecimientos mercantiles y/o lugares, para exigir el cumplimiento de las presentes disposiciones o eximirles de su obligatoriedad.
+
+QUINTO.- Las autoridades municipales señaladas en el presente Dictamen, deberán de implementar las acciones tendientes para el debido cumplimiento de las reformas y adiciones al Libro Séptimo y Noveno del Código Municipal de Aguascalientes.
+
+P.O. 12 DE AGOSTO DE 2013.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -26848,6 +24996,32 @@ P.O. 17 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIOS DE LA "REFORMA AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
 
 > <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES".]</small>
+
+P.O. 19 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE SERVICIO COMUNITARIO PARA EL MUNICIPIO DE AGUASCALIENTES; Y, REFORMAS, ADICIONES Y DEROGACIONES AL REGLAMENTO DE JUSTICIA CÍVICA PARA EL MUNICIPIO DE AGUASCALIENTES Y AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+PRIMERO.- El Reglamento, así como las reformas, adiciones y derogaciones contenidas en el presente instrumento, iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se abroga el Reglamento de Servicio Comunitario del Municipio de Aguascalientes, publicado en el Periódico Oficial del Estado el 3 de noviembre de 2008.
+
+TERCERO.- La persona Directora de Juzgados Cívicos deberá emitir el Reglamento Interior para Custodios Cívicos, en un plazo no mayor a 90 días hábiles contados a partir de que inicie su vigencia el Reglamento, así como las reformas, adiciones y derogaciones contenidas en el presente instrumento.
+
+P.O. 19 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA POR LA QUE SE MODIFICA LA FRACCIÓN IV DEL APARTADO A), DEL ARTICULO 82 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se Derogan las damas disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DE AGUASCALIENTES A FIN DE ARMONIZAR LAS FACULTADES DE LA SECRETARÍA DE DESARROLLO URBANO MUNICIPAL, LA REGULACIÓN DE LAS UNIDADES EXTERNAS DE SUPERVISIÓN Y LA DENOMINACIÓN DEL CONSEJO MUNICIPAL DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO, CON LO PREVISTO EN EL CÓDIGO URBANO DEL ESTADO”.]
+
+PRIMERO.- La presentes reformas, adiciones y derogaciones iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las referencias al Comité de Desarrollo Urbano y Rural contenidas en (sic) disposiciones administrativas de este Municipio, se entenderán realizadas al Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano.
 
 ###### ARTICULO UNICO.
 
