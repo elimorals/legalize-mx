@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2023-07-21"
+last_updated: "2023-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE SEPTIEMBRE DE 2023.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -2280,43 +2280,47 @@ XVII. Las demás que le señalen las disposiciones jurídicas o administrativas 
 
 Corresponde a la Dirección General de Organización Técnica e Institucional:
 
-I. Participar en la organización de las actividades de la agenda, derivada de los compromisos y asuntos oficiales de la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
+> <small>(REFORMADA, G.O. 19 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+I. Participar en la organización de las actividades derivadas de los compromisos y asuntos oficiales de la persona titular de la Jefatura de Gobierno de la Ciudad de México;
 
-II. Colaborar para que sean agendadas las actividades institucionales y eventos públicos de la persona Titular de la Jefatura de Gobierno de la Ciudad de México; y en su caso, para que se realice la comunicación la persona servidora pública designada para que asista en representación de aquella;
+> <small>(REFORMADA, G.O. 19 DE SEPTIEMBRE DE 2023)</small>
 
-III. Participar en la integración del Informe de Gobierno correspondiente;
+II. Colaborar en el seguimiento de las actividades institucionales y eventos públicos de la persona titular de la Jefatura de Gobierno de la Ciudad de México;
+
+III. (DEROGADA, G.O. 19 DE SEPTIEMBRE DE 2023)
 
 IV. Participar en la coordinación de las acciones y mantenimiento de la relación institucional e interinstitucional de la persona Titular de la Jefatura de Gobierno de la Ciudad de México, con los Sectores Público, Privado y Social;
 
-V. Participar en la coordinación de la comunicación con las personas Titulares y servidoras públicas de la Administración Pública de la Ciudad de México, la programación de reuniones de trabajo con titulares, Entidades, o Gabinete en Pleno, con la persona Titular de la Jefatura de Gobierno;
+> <small>(REFORMADA, G.O. 19 DE SEPTIEMBRE DE 2023)</small>
+
+V. Participar en la coordinación de la comunicación con las personas servidoras públicas de la Administración Pública de la Ciudad de México, en la programación de reuniones de trabajo con titulares de entidades o gabinete en pleno, así como con la persona titular de la Jefatura de Gobierno de la Ciudad de México;
 
 VI. Colaborar en el establecimiento de la comunicación y cooperación de las relaciones Interinstitucionales de los Sectores Público, Privado y Social, con la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
 
-VII. Proponer acciones en beneficio de la optimización de la organización al interior de la Jefatura de Gobierno de la Ciudad de México;
+VII. (DEROGADA, G.O. 19 DE SEPTIEMBRE DE 2023)
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-VIII. Impulsar y proponer el establecimiento de la cultura organizacional como parte del desarrollo e interacción dentro de la Jefatura de Gobierno de la Ciudad de México;
+VIII. (DEROGADA, G.O. 19 DE SEPTIEMBRE DE 2023)
 
 IX. Solicitar información y documentos a las instancias de la Administración Pública de la Ciudad de México, cuando sea necesario para atender los asuntos de su competencia;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, G.O. 19 DE SEPTIEMBRE DE 2023)</small>
 
-X. Instruir a la persona Titular de la Unidad Administrativa y/o Unidad Administrativa de Apoyo Técnico Operativo correspondiente para que realice el análisis de los anteproyectos de leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas que sean competencia de la Oficina de la Jefatura de Gobierno de la Ciudad de México a fin de que éstos se encuentren apegados a las disposiciones jurídicas y administrativas vigentes, sin perjuicio de las atribuciones de la Consejería Jurídica y de Servicios Legales en dicha materia;
+X. Instruir a la persona Titular de la Unidad Administrativa y/o Unidad Administrativa de Apoyo Técnico Operativo correspondiente para que realice el análisis de los anteproyectos de leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas que sean de competencia de la Jefatura de Gobierno de la Ciudad de México a fin de que éstos se encuentren apegados a las disposiciones jurídicas y administrativas vigentes, sin perjuicio de las atribuciones de la Consejería Jurídica y de Servicios Legales en dicha materia;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, G.O. 19 DE SEPTIEMBRE DE 2023)</small>
 
-XI. Instruir a la persona Titular de la Unidad Administrativa y/o Unidad Administrativa de Apoyo Técnico Operativo correspondiente para que realice el análisis de los actos administrativos que sean competencia de la Oficina de la Jefatura de Gobierno de la Ciudad de México a fin de que éstos se encuentren apegados a las disposiciones jurídicas y administrativas vigentes, sin perjuicio de las atribuciones de la Consejería Jurídica y de Servicios Legales en dicha materia;
+XI. Instruir a la persona titular de la Unidad Administrativa y/o Unidad Administrativa de Apoyo Técnico Operativo correspondiente para que realice el análisis de los actos administrativos y convenios que sean competencia de la oficina de la Jefatura de Gobierno de la Ciudad de México a fin de que éstos se encuentren apegados a las disposiciones jurídicas y administrativas vigentes, sin perjuicio de las atribuciones de la Consejería Jurídica y de Servicios Legales en dicha materia;
 
-XII. Establecer mecanismos en materia jurídica orientados a mejorar el desempeño y funcionamiento de las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico Operativo de la Oficina de la Jefatura de Gobierno de la Ciudad de México;
+XII. (DEROGADA, G.O. 19 DE SEPTIEMBRE DE 2023)
 
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
 XIII. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
 
-XIV. Las demás que le señalen las disposiciones jurídicas o administrativas y/o la Jefa o Jefe de Gobierno de la Ciudad de México.
+> <small>(REFORMADA, G.O. 19 DE SEPTIEMBRE DE 2023)</small>
+
+XIV. Las demás que le señalen las disposiciones jurídicas o administrativas y/o la persona titular de la Jefatura de Gobierno de la Ciudad de México.
 
 ###### Artículo 45.
 
@@ -15065,3 +15069,11 @@ QUINTO. La instalación del Comité Consultivo del Subsistema de Educación Comu
 SEXTO. Las Secretarías de Educación, Ciencia, Tecnología e Innovación y de Cultura, así como el Instituto del Deporte de la Ciudad de México, dentro de los 90 días hábiles siguientes a la publicación del presente Decreto, transferirán al Subsistema de Educación Comunitaria “PILARES” los recursos presupuestarios, materiales y humanos que correspondan; para lo cual, la Secretaría de Educación, Ciencia, Tecnología e Innovación continuará afrontando los compromisos formalizados y en proceso de formalización relativos a la operación de los PILARES, en tanto el Subsistema entra en plena operación.
 
 SÉPTIMO. La Secretaría de Educación, Ciencia, Tecnología e Innovación, dentro del ámbito de su competencia y atribuciones, entregará los expedientes de los bienes inmuebles que ocupan los PILARES al Subsistema de Educación Comunitaria “PILARES” para su resguardo.
+
+G.O. 19 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 44 DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación.
