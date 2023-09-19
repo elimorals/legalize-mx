@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cnv28-ago-2020-de-la-comision-nacional-de-145400"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-12-02"
-last_updated: "2020-12-02"
+last_updated: "2023-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145400&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2020-09-15"
 
 SÍNTESIS DEL ACUERDO DE LA COMISIÓN NACIONAL DE VIGILANCIA, POR EL QUE SE APRUEBAN LOS MEDIOS DE IDENTIFICACIÓN PARA SOLICITAR LA CREDENCIAL PARA VOTAR EN TERRITORIO NACIONAL
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 19 DE SEPTIEMBRE DE 2023, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE SEPTIEMBRE DE 2023.
 
 Síntesis publicada en el Diario Oficial de la Federación, el miércoles 2 de diciembre de 2020.
 
@@ -78,3 +80,25 @@ Asimismo, se puede localizar en la liga electrónica:
 www.dof.gob.mx/2020/INE/Sintesis-del-Acuerdo-INE_CNV28_AGO_2020.pdf
 
 Ciudad de México, 15 de septiembre de 2020.- El Director Ejecutivo del Registro Federal de Electores, René Miranda Jaimes.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE SEPTIEMBRE DE 2023.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DE LA COMISIÓN NACIONAL DE VIGILANCIA, POR EL QUE SE MODIFICAN LOS MEDIOS DE IDENTIFICACIÓN PARA SOLICITAR LA CREDENCIAL PARA VOTAR EN TERRITORIO NACIONAL, APROBADOS MEDIANTE DIVERSO INE/CNV28/AGO/2020", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDOS
+
+PRIMERO.- Se modifican los medios de identificación para solicitar la Credencial para Votar en territorio nacional, aprobados mediante Acuerdo INE/CNV28/AGO/2020, de conformidad con el Anexo que acompaña al presente Acuerdo y forma parte integral del mismo.
+
+SEGUNDO.- Se solicita a las áreas competentes del Instituto Nacional Electoral, la realización de una estrategia de difusión e información, para hacer del conocimiento de las y los ciudadanos los medios de identificación que deberán presentar para solicitar y obtener su Credencial para Votar en territorio nacional.
+
+TERCERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, en la Gaceta del Instituto Nacional Electoral, en la página electrónica del Instituto Nacional Electoral y en el Portal de las Comisiones de Vigilancia.
+
+El Acuerdo completo y su anexo se encuentran disponibles en la dirección: https://repositoriodocumental.ine.mx/xmlui/handle/123456789/152009
+
+Asimismo, se puede localizar en la liga electrónica:
+
+www.dof.gob.mx/2023/INE/Sintesis-del-Acuerdo-INE_CNV14_JUN_2023.pdf
