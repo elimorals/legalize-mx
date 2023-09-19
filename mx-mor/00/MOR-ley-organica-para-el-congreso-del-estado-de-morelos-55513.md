@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2023-06-21"
+last_updated: "2023-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MOR"
 ---
 # LEY ORGANICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+(NOTA 2. EL 13 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 448/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO MIL TRESCIENTOS VEINTICUATRO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS, REGLAMENTARIA DE LAS AUSENCIAS DE LAS PERSONAS TITULARES DE LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL 19 DE SEPTIEMBRE DE 2023, LA CUAL SURTIÓ EFECTOS EL 14 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -2707,6 +2709,72 @@ Tan pronto como se reciba el recurso, la comisión calificadora elaborará su in
 
 La Junta Política y de Gobierno del Congreso del Estado dictará la resolución que corresponda en un término no mayor de quince días de recibido el informe.
 
+(NOTA: EL 13 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 448/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO MIL TRESCIENTOS VEINTICUATRO POR EL QUE SE ADICIONA ESTE TÍTULO, LA CUAL SURTIÓ EFECTOS EL 14 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2023)</small>
+
+## TÍTULO DÉCIMO TERCERO. DE LAS AUSENCIAS DE LOS TITULARES DE LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS
+
+(NOTA: EL 13 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 448/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO MIL TRESCIENTOS VEINTICUATRO POR EL QUE SE ADICIONA ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 14 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2023)</small>
+
+### CAPÍTULO ÚNICO. DE LOS SUPUESTOS DE AUSENCIA
+
+(NOTA: EL 13 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 448/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO MIL TRESCIENTOS VEINTICUATRO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 149.
+
+Dada la atribución soberana del Congreso del Estado para designar a las personas titulares de los órganos constitucionales autónomos del estado de Morelos, con la finalidad de garantizar la continuidad de las funciones a su cargo, cuando la legislación particular de cada uno no prevea lo relativo a las ausencias temporales o definitivas se estará a lo previsto por el presente Título.
+
+(NOTA: EL 13 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 448/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO MIL TRESCIENTOS VEINTICUATRO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 150.
+
+Tendrá lugar la ausencia definitiva de las personas titulares de los órganos constitucionales autónomos a que se refiere la Constitución del Estado, en los siguientes supuestos:
+
+I. Cuando concluya el periodo por el que fueron designadas;
+
+II. En caso de muerte o interdicción así determinada por resolución firme e inatacable de la autoridad jurisdiccional competente;
+
+III. Por renuncia del cargo que le fue conferido, para lo cual la persona titular integrante de que se trate deberá comparecer de manera personal ante el Secretario de Servicios Legislativos y Parlamentarios para ratificar dicha renuncia y manifestar las razones que la motivan, quien dará cuenta de inmediato a la Presidencia de la Mesa Directiva;
+
+IV. Por determinación firme e inatacable de un órgano jurisdiccional, y
+
+V. Por determinación firme e inatacable del Congreso del Estado o del Tribunal Superior de Justicia del Estado en los supuestos que prevé la Constitución Federal, la Constitución del Estado, la Ley Estatal de Responsabilidades de los Servidores Públicos o la norma que le sustituya, según corresponda; previo cumplimiento de la garantía de audiencia concedida a su favor.
+
+(NOTA: EL 13 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 448/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO MIL TRESCIENTOS VEINTICUATRO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 151.
+
+Tendrá lugar la ausencia temporal de las personas titulares de los órganos constitucionales autónomos a que se refiere la Constitución del Estado, en los siguientes supuestos:
+
+I. Para disfrutar de un periodo vacacional de conformidad con la normativa en la materia;
+
+II. Para realizar actividades propias de su encargo al interior de la República Mexicana o en el extranjero;
+
+III. Por licencia concedida por el Congreso del Estado;
+
+IV. Por sobrevenir causa de suspensión temporal en términos de las disposiciones que resulten aplicables, de forma análoga, a los artículos 22 de la Ley del Servicio Civil del Estado de Morelos y 197 de la Ley del Sistema de Seguridad Pública del Estado de Morelos, y
+
+V. Cualquier causa diversa a las previstas en el artículo 150 de la presente Ley.
+
+(NOTA: EL 13 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 448/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO MIL TRESCIENTOS VEINTICUATRO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 152.
+
+Las ausencias temporales o definitivas de las personas titulares de los órganos constitucionales autónomos a que se refiere la Constitución del Estado, serán suplidas bajo la figura de suplencia por ausencia cuando ocurran las primeras, o de encargado de despacho cuando ocurran las segundas, por parte de las personas titulares de las unidades administrativas que conforme jerarquía corresponda, lo que se precisará en cada instrumento reglamentario emitido al efecto. Ello hasta en tanto cese la ausencia de que se trate.
+
+La persona servidora pública que supla las ausencias temporales o definitivas de la persona titular del órgano constitucional autónomo de que se trate, tendrá a su cargo las facultades, obligaciones y prerrogativas impuestas y otorgadas a esta última por la normativa aplicable, en tanto desempeñe dicha función, incluida, la inmunidad procesal a que se refiere el quinto párrafo del artículo 111 de la Constitución Política de los Estados Unidos Mexicanos y, en su caso, de la Ley Estatal de Responsabilidades de los Servidores Públicos y normativa aplicable.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -3406,3 +3474,19 @@ SEGUNDA: El presente Decreto entrará en vigor en el momento de su aprobación p
 TERCERA: Todas las referencias a la Junta Política y de Gobierno, dentro del procedimiento de designación de Magistrados, se entenderán realizadas al Órgano Político Calificador, a que se refiere este Decreto.
 
 CUARTA: Se derogan todas las disposiciones jurídicas de igual o menor rango normativo jerárquico que contravengan lo dispuesto por el presente Decreto.
+
+(NOTA: EL 13 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 448/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO MIL TRESCIENTOS VEINTICUATRO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS, REGLAMENTARIA DE LAS AUSENCIAS DE LAS PERSONAS TITULARES DE LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL 19 DE SEPTIEMBRE DE 2023, LA CUAL SURTIÓ EFECTOS EL 14 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+P.O. 19 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS VEINTICUATRO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS, REGLAMENTARIA DE LAS AUSENCIAS DE LAS PERSONAS TITULARES DE LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS”.]
+
+PRIMERA. Publíquese el presente Decreto en la Gaceta Legislativa del Congreso del Estado de Morelos para efectos de su difusión.
+
+SEGUNDA. El presente Decreto entrará en vigor en el momento de su aprobación por el Pleno del Congreso del Estado de Morelos, de conformidad con lo establecido en el segundo párrafo del artículo 38 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA. Remítase al titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos de conformidad con el artículo 145 del Reglamento para el Congreso del Estado de Morelos.
+
+CUARTA. Dentro de un plazo no mayor a treinta días hábiles contado a partir del inicio de su vigencia, el Congreso del Estado de Morelos así como los órganos constitucionales autónomos que correspondan, deberán efectuar las modificaciones o emisiones reglamentarias que estime necesarias para atender las disposiciones previstas por el presente Decreto.
+
+QUINTA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente Decreto.
