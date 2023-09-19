@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2022-04-25"
+last_updated: "2023-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -1125,9 +1125,9 @@ XVII. En materia de fiscalización:
 
 a) Recibir trimestralmente las cuentas públicas que le remitan al Congreso los poderes Legislativo, Ejecutivo y Judicial, los Organismos Autónomos, municipios y demás entes públicos y turnarla al Órgano de Fiscalización Superior;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2023)</small>
 
-b) Dictaminar anualmente las cuentas públicas de los poderes, municipios, organismos autónomos y demás entes públicos fiscalizables, basándose en el informe que remita el Órgano de Fiscalización Superior. La dictaminación deberá efectuarse a más tardar el treinta y uno de agosto posterior al ejercicio fiscalizado. En el año de elecciones para la renovación del Poder Ejecutivo, la fecha límite para la dictaminación del periodo enero-septiembre de ese año será el quince de diciembre, mientras que el trimestre restante octubre-diciembre se sujetará al periodo ordinario de presentación y dictaminación.
+b) Dictaminar anualmente las cuentas públicas de los poderes, municipios, organismos autónomos y demás entes públicos fiscalizables, basándose en el informe que remita el Órgano de Fiscalización Superior. La dictaminación deberá efectuarse a más tardar el treinta y uno de agosto posterior al ejercicio fiscalizado. En el año de elecciones para la renovación del Poder Ejecutivo y los municipios, la fecha límite para la dictaminación del primer y segundo trimestre de ese año será el quince de diciembre, mientras que los trimestres restantes se sujetarán al periodo ordinario de presentación y dictaminación del siguiente ejercicio fiscal.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -2747,15 +2747,15 @@ I. Ser ciudadano mexicano y habitante del Estado con una residencia mínima de c
 
 II. Tener cuando menos treinta años cumplidos el día de su designación;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2023)</small>
 
-III. Poseer título y cédula profesional en algún área de las ciencias económico administrativas y tener experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades;
+III. Contar con título y cédula profesional de nivel licenciatura en aquellas profesiones o ramas de las ciencias contables, administrativas o jurídicas, así como cinco años de experiencia en materia de control, auditoría financiera y de responsabilidades;
 
 IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de falsificación o delitos patrimoniales u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2023)</small>
 
-V. No haber sido Gobernador del Estado, Secretario, Procurador General de Justicia, oficial mayor, director o gerente de entidad paraestatal, contralor, senador, diputado federal o local, presidente municipal, tesorero o síndico municipal, durante los dos años anteriores al día de la designación, y
+V. No haber sido Gobernador del Estado, Secretario, Procurador General de Justicia, oficial mayor, titular de entidad paraestatal, contralor, senador, diputado federal o local, presidente municipal, tesorero o síndico municipal, en funciones, seis meses previos al día de la designación, y
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -4072,3 +4072,23 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 19 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 236.- SE REFORMAN EL INCISO B) DE LA FRACCIÓN XVII DEL ARTÍCULO 54 Y LAS FRACCIONES III y (SIC) V DEL ARTÍCULO 106, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA, DE FECHA DIECISIETE DE AGOSTO DE DOS MIL VEINTITRÉS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+En términos de lo previsto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos del Estado de Tlaxcala, para el debido cumplimiento a lo resuelto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Congreso del Estado deberá efectuar las reformas y adecuaciones necesarias a la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Tlaxcala y sus Municipios, en un término improrrogable de 180 días contados a partir del día siguiente al de la publicación del presente Decreto.
