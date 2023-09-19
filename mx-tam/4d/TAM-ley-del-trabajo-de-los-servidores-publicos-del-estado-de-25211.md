@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2023-09-05"
+last_updated: "2023-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE SEPTIEMBRE DE 2023 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE SEPTIEMBRE DE 2023.]</small>
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -1457,21 +1457,17 @@ I.- La defensa gratuita de los trabajadores al servicio del Estado y los Municip
 
 II.- Promover y llevar a cabo la conciliación en los conflictos individuales que se susciten entre las instituciones públicas, entes gubernamentales y poderes del Estado, y sus trabajadores; y
 
-> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DEL TERCERO PÁRRAFO]</small>
+(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013) (F. DE E., P.O. 19 DE SEPTIEMBRE DE 2023)
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2023)</small>
-
-III.- El nombramiento del Procurador lo hará el Gobernador del Estado, los nombramientos de los Procuradores Auxiliares los realizará el Presidente del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, previo acuerdo con el Gobernador del Estado.
+III.- Promover y llevar a cabo la conciliación en los conflictos individuales que se susciten entre los Ayuntamientos y sus trabajadores.
 
 > <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 Los servicios que preste la Procuraduría de la Defensa del Trabajo del Servidor Público se llevarán a cabo siempre que los interesados así lo soliciten.
 
-> <small>[N. DE E. EL CONTENIDO DEL PRESENTE PÁRRAFO ES SIMILAR AL CONTENIDO DE LA FRACCIÓN III]</small>
+(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2023) (F. DE E., P.O. 19 DE SEPTIEMBRE DE 2023)
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
-
-El nombramiento del Procurador lo hará el Gobernador del Estado, los nombramientos de los Procuradores Auxiliares los realizará el Secretario del Trabajo, previo acuerdo con el Gobernador del Estado.
+El nombramiento del Procurador lo hará el Gobernador del Estado, los nombramientos de los Procuradores Auxiliares los realizará el Presidente del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, previo acuerdo con el Gobernador del Estado.
 
 > <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1871,7 +1867,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 5 DE SEPTIEMBRE DE 2023.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-621 MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN VII DEL ARTÍCULO 32, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y EL PÁRRAFO PRIMERO, Y LA FRACCIÓN III DEL ARTÍCULO 122, DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+> <small>(F. DE E., P.O. 19 DE SEPTIEMBRE DE 2023)</small>
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65-621 MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN VII DEL ARTÍCULO 32, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTICULO 122 DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO PRIMERO.
 
