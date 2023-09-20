@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-90652"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-22"
-last_updated: "2022-12-02"
+last_updated: "2023-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 22 de diciembre de 2012.
 
@@ -939,7 +939,7 @@ Este impuesto se causará y pagará conforme a la tasa del 15%.
 
 #### SECCIÓN OCTAVA. De las Exenciones
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 82.
 
@@ -951,7 +951,7 @@ Este impuesto se causará y pagará conforme a la tasa del 15%.
 
 ###### Artículo 83.
 
-Se exime del pago de los impuestos adicionales a que se refiere este Capítulo, al Impuesto sobre Nóminas; al Impuesto al Hospedaje; a los Impuestos Cedulares por Prestación de Servicios, Arrendamiento y en general por otorgar el uso o goce de Bienes Inmuebles y por Actividades Empresariales; al Impuesto sobre Tenencia o uso de Vehículos nuevos y de hasta nueve años modelo anterior; al Impuesto a la Venta de Bebidas con Contenido Alcohólico; al Impuesto sobre Juegos y Apuestas permitidas, sobre Rifas, Loterías y Sorteos; y los Derechos por Registro Público de la Propiedad por hipotecas sobre créditos para vivienda de interés social.
+Se exime del pago de los impuestos adicionales a que se refiere este Capítulo, al Impuesto sobre Nóminas; al Impuesto al Hospedaje; a los Impuestos Cedulares por Prestación de Servicios, Arrendamiento y en general por otorgar el uso o goce de Bienes Inmuebles y por Actividades Empresariales; al Impuesto sobre Tenencia o uso de Vehículos nuevos y de hasta nueve años modelo anterior; al Impuesto a la Venta de Bebidas con Contenido Alcohólico; al Impuesto sobre Juegos y Apuestas permitidas, sobre Rifas, Loterías y Sorteos; al Impuesto a la Industria de Extracción de Materiales Pétreos en Transporte de Vehículos o Camiones de Volteo; y los Derechos por Registro Público de la Propiedad por hipotecas sobre créditos para vivienda de interés social.
 
 ### CAPÍTULO IV. DEL IMPUESTO SOBRE NÓMINAS
 
@@ -1239,9 +1239,13 @@ La Secretaría de Administración y Finanzas podrá establecer procedimientos pa
 
 Los derechos por la prestación de servicios públicos en el Estado, se causarán en el momento en que el sujeto reciba la prestación del servicio o en el momento en que se provoque por parte del Estado, el gasto que deba ser remunerado por aquél, salvo el caso que la disposición que fije el derecho señale cosa distinta.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+Tratándose del derecho por servicios de vigilancia, inspección y control de la obra pública y servicios relacionados con las mismas; la dependencia o entidad contratante retendrá al contratista que ejecute obra con recursos públicos estatales, lo que corresponda de aplicar el cinco al millar del monto de cada una de las estimaciones pagadas.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2023)</small>
+
+El recurso será destinado a la Secretaría de Administración y Finanzas; y deberá enterarse por la dependencia o entidad contratante o pagadora, durante los primeros quince días del mes siguiente al que se recauden, de acuerdo al procedimiento que establezca la propia Secretaría.
 
 ###### Artículo 93.
 
@@ -1677,13 +1681,15 @@ P.O. 8 DE DICIEMBRE DE 2021.
 
 PRIMERO.- El presente Decreto entrará en vigor el día primero de enero de 2022, previa su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
-SEGUNDO.- Se modifica de 100 a 50 por ciento la aportación otorgada al Fideicomiso de Promoción Turística del Estado de Nayarit, señalada en la Cláusula Segunda punto 1 del Contrato de Fideicomiso de fecha 30 de Abril de 1997, constituido en virtud del Decreto número 8002, emitido por el H. Congreso del Estado Libre y Soberano de Nayarit, publicado en el Periódico Oficial Órgano del Gobierno del Estado con fecha 14 de Diciembre de 1996, el cual contiene reformas, adiciones y modificaciones a diversas disposiciones de la Ley de Hacienda del Estado de Nayarit, entre las que se encuentra la creación del Impuesto al Hospedaje y la obligación de constituir un Fideicomiso para el Fomento al Turismo del Estado.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2023)</small>
 
-El 50 por ciento descontado conforme al párrafo anterior, será destinado para pago de deuda del Gobierno del Estado.
+SEGUNDO.- Se modifica de 50 a 40 por ciento la aportación otorgada al Fideicomiso de Promoción Turística del Estado de Nayarit, señalada en la Cláusula Segunda punto 1 del Contrato de Fideicomiso de fecha 30 de Abril de 1997, constituido en virtud del Decreto número 8002, emitido por el H. Congreso del Estado Libre y Soberano de Nayarit, publicado en el Periódico Oficial Órgano del Gobierno del Estado con fecha 14 de Diciembre de 1996, el cual contiene reformas, adiciones y modificaciones a diversas disposiciones de la Ley de Hacienda del Estado de Nayarit, entre las que se encuentra la creación del Impuesto al Hospedaje y la obligación de constituir un Fideicomiso para el Fomento al Turismo del Estado.
 
-Los ingresos excedentes a lo presupuestado en la Ley de Ingresos del Estado Libre y Soberano de Nayarit, para el Ejercicio Fiscal 2022, así como los obtenidos a través de plataformas digitales, en el rubro del Impuesto sobre Hospedaje que el Estado obtenga por los esfuerzos recaudatorios realizados en el mismo ejercicio fiscal, no formarán parte del porcentaje otorgado al fideicomiso.
+El porcentaje descontado conforme al párrafo anterior, será destinado para pago de deuda, gasto corriente y de inversión del Gobierno del Estado.
 
-Lo establecido en el presente artículo surtirá efectos a partir del mes de marzo de 2022, con el importe recaudado por concepto del Impuesto sobre Hospedaje del bimestre enero-febrero de 2022, por lo que se autoriza al fideicomitente a modificar el contrato con la fiduciaria y sus modificatorios.
+Los ingresos excedentes a lo presupuestado en la Ley de Ingresos del Estado Libre y Soberano de Nayarit, para el Ejercicio Fiscal 2023, así como los ingresos recaudados a través de plataformas digitales, en el rubro del Impuesto sobre Hospedaje que el Estado obtenga por los esfuerzos recaudatorios realizados en el mismo ejercicio fiscal, no formarán parte del porcentaje otorgado al fideicomiso.
+
+Lo establecido en el presente artículo surtirá efectos a partir del mes de octubre de 2023, con el importe recaudado por concepto del Impuesto sobre Hospedaje, por lo que se autoriza al fideicomitente a modificar el contrato con la fiduciaria y sus modificatorios.
 
 TERCERO.- El aumento en la tasa para el cobro del Impuesto sobre Hospedaje, se llevará a cabo de manera progresiva en los siguientes dos años, es decir, para el ejercicio fiscal 2022 el aumento será del 3% al 4%, por lo que, hasta el ejercicio fiscal 2023 la tasa del impuesto será del 5%.
 
@@ -1696,3 +1702,21 @@ P.O. 2 DE DICIEMBRE DE 2022.
 PRIMERO. El Presente Decreto entrará en vigor el día primero de enero de 2023, previa su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Para la implementación del cobro del Impuesto a la Industria de Extracción de Materiales Pétreos en Transporte de Vehículos o Camiones de Volteo, el Titular del Poder Ejecutivo del Estado, dentro de los 90 días contados a partir de la entrada en vigor del presente Decreto, emitirá las Reglas de Carácter General que regulen el cobro, procedimientos, administración y destino del ingreso recaudado por este concepto.
+
+P.O. 20 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE NAYARIT, PUBLICADO EL 8 DE DICIEMBRE DE 2021 EN EL PERIÓDICO OFICIAL, ÓRGANO DEL GOBIERNO DEL ESTADO DE NAYARIT".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 20 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTICULOS DE LA LEY DE HACIENDA DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Con relación al artículo 92, la Secretaría de Administración y Finanzas, deberá emitir los instrumentos normativos para el ejercicio, control y transparencia de los recursos establecidos en el presente Decreto, en un plazo que no podrá ser superior a los sesenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+TERCERO. Los recursos del cinco al millar que a la entrada en vigor del presente decreto, se encuentren retenidos por la dependencia o entidad contratante o pagadora, deberán ser enterados a la Secretaría de Administración y Finanzas, en un plazo de treinta días hábiles posteriores a la publicación del presente Decreto, de conformidad con el procedimiento que para el efecto establezca la propia Secretaría.
+
+CUARTO. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente decreto.
