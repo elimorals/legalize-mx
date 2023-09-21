@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2023-07-05"
+last_updated: "2023-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2023.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -3202,9 +3202,9 @@ Se otorga a la Universidad del Estado plena autonomía para impartir la enseñan
 
 El Congreso del Estado proveerá los instrumentos legales necesarios para el cumplimiento de la función social educativa, expedir la Ley para el ejercicio de las profesiones en el Estado y para fijar las sanciones aplicables a quienes no cumplan o hagan cumplir las normas relativas a dicha función educativa o a las personas que las infrinjan.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2023)</small>
 
-Con relación al segundo párrafo del artículo 32 de la presente Constitución, el Gobernador remitirá al Congreso del Estado para su examen, discusión y aprobación el Presupuesto de Egresos del Estado para el ejercicio fiscal siguiente, en el que establecerá como base para la Universidad Autónoma del Estado de Morelos el dos punto cinco por ciento del total del Presupuesto de Egresos del Estado. El Congreso del Estado con relación a la fracción V del artículo 40 de esta Constitución garantizará en la autorización del Presupuesto de Egresos ese porcentaje mínimamente para la Universidad Autónoma del Estado de Morelos.
+Con relación al segundo párrafo del artículo 32 de la presente Constitución, el Gobernador remitirá al Congreso del Estado para su examen, discusión y aprobación el Presupuesto de Egresos del Estado para el ejercicio fiscal siguiente, en el que establecerá como base para la Universidad Autónoma del Estado de Morelos el tres punto cinco por ciento del total del Presupuesto de Egresos del Estado. El Congreso del Estado con relación a la fracción V del artículo 40 de esta Constitución garantizará en la autorización del presupuesto de egresos ese porcentaje mínimamente para la Universidad Autónoma del Estado de Morelos.
 
 ###### Artículo 122.
 
@@ -5551,3 +5551,17 @@ El Congreso del Estado de Morelos a través del Instituto de Investigaciones Leg
 ###### ARTÍCULO QUINTO.
 
 Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 21 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL DOSCIENTOS OCHENTA Y CUATRO.- POR EL QUE SE REFORMA EL ARTÍCULO 121, EN SU PÁRRAFO QUINTO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO (SIC). Las adiciones contenidas en el presente Decreto formarán parte de la Constitución Política del Estado Libre y Soberano de Morelos, en términos de lo dispuesto por el artículo 147, fracción I, de la propia Constitución.
+
+TERCERO (SIC). El presente decreto iniciará su vigencia a partir del día primero de enero del año 2024, previa publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión Oficial del Estado de Morelos
+
+CUARTA. Entrado en vigor el presente decreto, el Titular del Poder Ejecutivo del Estado de Morelos, incluirá la partida presupuestal correspondiente para dar cumplimiento en sus términos, dentro del Proyecto de Presupuesto de Egresos del Gobierno del Estado de Morelos, para el ejercicio fiscal del 1 de enero al 31 de diciembre de 2024, así como en los subsecuentes presupuestos.
+
+QUINTA. Se drogan (sic) todas las disposiciones legales o reglamentarias que se pongan al presente Decreto.
