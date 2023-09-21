@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-relaciones-149811"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-06-14"
-last_updated: "2021-06-14"
+last_updated: "2023-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149811&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-06-09"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE RELACIONES EXTERIORES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE SEPTIEMBRE DE 2023.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 14 de junio de 2021.
 
@@ -149,7 +149,9 @@ X. Las Secciones Mexicanas de las Comisiones Internacionales de Límites y Aguas
 
 a) Entre México y Estados Unidos, y
 
-b) Entre México y Guatemala, y entre México y Belice, y
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+b) Entre México y Guatemala, y entre México y Belize, y
 
 XI. Las Oficinas de Pasaportes, y
 
@@ -203,7 +205,9 @@ VIII. Proponer al Presidente de la República, a través de la Consejería Jurí
 
 IX. Refrendar para su validez y observancia constitucional los reglamentos, decretos y acuerdos expedidos por el Presidente de la República, cuando se refieran a asuntos de la competencia de la Secretaría, en términos de lo dispuesto por la Ley Orgánica de la Administración Pública Federal;
 
-X. Autorizar con su firma las resoluciones a que se refiere de (sic) la Ley de Extradición Internacional, así como resolver las solicitudes de entrega temporal, reextradición y consentimiento a la excepción al Principio de Especialidad, previstas en los tratados y convenios suscritos por México sobre la materia;
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+X. Autorizar con su firma las resoluciones a que se refiere la Ley de Extradición Internacional, así como resolver las solicitudes de entrega temporal, re extradición y consentimiento a la excepción al Principio de Especialidad, previstas en los tratados y convenios suscritos por México sobre la materia;
 
 XI. Dar cuenta al Congreso de la Unión del estado que guardan los asuntos competencia de la Secretaría e informar en los casos en que se discuta una ley o se estudie un asunto concerniente al ámbito de su competencia o para que respondan a interpelaciones o preguntas, cuando sea requerido para ello por cualquiera de las Cámaras que lo integran;
 
@@ -285,11 +289,23 @@ XVII. Expedir copias certificadas de los documentos y constancias materia de su 
 
 XVIII. Ejercer las demás facultades que le confieran otras disposiciones jurídicas y las que corresponden a las unidades administrativas y, en su caso, órganos administrativos desconcentrados que se le adscriban, así como realizar las funciones que le encomiende el Secretario.
 
-Cada una de las Subsecretarías cuenta con una dirección administrativa, quien funge como enlace con las unidades administrativas de la Unidad de Administración y Finanzas en materia de programación organización y presupuesto, recursos humanos, materiales y tecnologías de la información, para atender las necesidades que en esas materias requieran las unidades administrativas y órganos administrativos desconcentrados de su adscripción. La dirección administrativa de la Subsecretaría para Asuntos Multilaterales y Derechos Humanos atenderá los asuntos en la materia de la Consultoría Jurídica.
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+Cada una de las Subsecretarías cuenta con una dirección administrativa, quien funge como enlace con las unidades administrativas de la Unidad de Administración y Finanzas en las materias de programación, organización y presupuesto y de recursos humanos, materiales y tecnologías de la información, para atender las necesidades que en esas materias requieran las unidades administrativas y órganos administrativos desconcentrados de su adscripción.
+
+> <small>(ADICIONADO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+La dirección administrativa de la Subsecretaría de Relaciones Exteriores, también lo es de la Dirección Ejecutiva de Diplomacia Cultural y Turística, y de la Dirección Ejecutiva de Estrategia y Diplomacia Pública.
+
+> <small>(ADICIONADO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+La dirección administrativa de la Subsecretaría para Asuntos Multilaterales y Derechos Humanos, también lo es de la Consultoría Jurídica.
+
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 11.
 
-Al Subsecretario para América Latina y el Caribe le corresponde, además de las facultades señaladas en el artículo 10 del Reglamento, coordinar las atribuciones de la Sección Mexicana de las Comisiones Internacionales de Límites y Aguas entre México y Guatemala y entre México y Belice, así como emitir lineamientos sobre asuntos políticos bilaterales en materia de límites y aguas internacionales.
+A la persona titular de la Subsecretaría para América Latina y el Caribe, además de las facultades señaladas en el artículo 10 de este reglamento, también le corresponde coordinar las atribuciones de la Sección Mexicana de las Comisiones Internacionales de Límites y Aguas entre México y Guatemala y entre México y Belize, así como emitir lineamientos sobre asuntos políticos bilaterales en materia de límites y aguas internacionales.
 
 ### CAPÍTULO IV. De las Facultades del Jefe de Unidad para América del Norte
 
@@ -371,6 +387,10 @@ XXXVI. Expedir copias certificadas de los documentos y constancias materia de su
 
 XXXVII. Ejercer las demás facultades que le confieran otras disposiciones jurídicas y las que corresponden a las unidades administrativas que se le adscriban, así como realizar las funciones que le encomiende el Secretario.
 
+> <small>(ADICIONADO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+La Jefatura de Unidad para América del Norte cuenta con una dirección administrativa, quien funge como enlace en materia de programación, organización y presupuesto, recursos humanos, materiales y tecnologías de la información del personal adscrito a esta jefatura de unidad, así como de las unidades administrativas que se encuentren adscritas a ésta.
+
 ### CAPÍTULO V. De las Facultades del Director Ejecutivo de Diplomacia Cultural y Turística
 
 ###### ARTÍCULO 13.
@@ -397,7 +417,9 @@ IX. Dictar lineamientos en materia de promoción cultural y turística para su a
 
 X. Participar y, en su caso, operar, de manera directa o a través de sus unidades administrativas adscritas, los órganos colegiados de cualquier naturaleza que establezca el Secretario, que correspondan al ámbito de su competencia, de conformidad con las disposiciones jurídicas aplicables;
 
-XI. Acordar con el Secretario el despacho de los asuntos de las unidades administrativas que están bajo su adscripción, así como desempeñar las funciones y comisiones que se le encomiende o delegue, y mantenerlo informado sobre el desarrollo de las mismas;
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XI. Acordar con el superior jerárquico el despacho de los asuntos de las unidades administrativas que están bajo su adscripción, así como desempeñar las funciones y comisiones que se le encomiende o delegue, y mantenerlo informado sobre el desarrollo de las mismas;
 
 XII. Coordinar las labores de las unidades administrativas a su cargo, dictando las medidas necesarias para su mejor funcionamiento, así como coordinar sus acciones, en su caso, con las demás unidades administrativas y órganos administrativos desconcentrados de la Secretaría de acuerdo a lo establecido por su superior jerárquico;
 
@@ -433,7 +455,9 @@ V. Diseñar y proponer al superior jerárquico, acciones para incentivar la imag
 
 VI. Establecer estrategias de coordinación y comunicación con las representaciones de México en el exterior, a fin de que las mismas cuenten con información homogénea de impacto en la escena global y pública; así como fomentar la consolidación y el fortalecimiento de los vínculos de México con otros actores internacionales;
 
-VII. Proponer al Secretario, a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, las estrategias en materia de prospectiva, innovación diplomática y diplomacia pública, que deban implementarse en las representaciones de México en el exterior y fortalecer la presencia del país en el mundo.
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Proponer al superior jerárquico, a las unidades administrativas y a los órganos administrativos desconcentrados de la Secretaría, las estrategias en materia de prospectiva, innovación diplomática y diplomacia pública, que deban implementarse en las representaciones de México en el exterior y fortalecer la presencia del país en el mundo;
 
 VIII. Diseñar mecanismos, dinámicas y estrategias que contribuyan al seguimiento, definición y mejora de la política exterior de México, con base en el análisis de los resultados de la evaluación que lleven a cabo las unidades administrativas competentes, y con la finalidad de establecer vínculos de comunicación y de coordinación entre diversos actores, que permitan, bajo una visión de Estado, el cumplimiento de los fines del proyecto nacional;
 
@@ -463,9 +487,11 @@ XX. Ejercer las demás facultades que le confieren otras disposiciones jurídica
 
 ### CAPÍTULO VII. De las Facultades del Titular de la Unidad de Administración y Finanzas
 
-###### Artículo 15.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
-La Unidad de Administración y Finanzas está a cargo de un Titular de Unidad, designado por la persona titular de la Secretaría de Hacienda y Crédito Público, considerando la propuesta que para tal efecto presente el Oficial Mayor de dicha Dependencia, y tiene las facultades siguientes:
+###### ARTÍCULO 15.
+
+La Unidad de Administración y Finanzas está a cargo de una persona titular de la Unidad, quien tiene las facultades siguientes:
 
 I. Establecer, de conformidad con las disposiciones jurídicas aplicables, directrices, criterios, sistemas y procedimientos internos que permitan la mejor optimización de la organización y funcionamiento de la Secretaría, así como para la implementación de la normativa aplicable a la Secretaría en materia de recursos humanos, financieros, materiales, servicios generales y tecnologías de información y comunicaciones;
 
@@ -474,6 +500,10 @@ II. Dictar las medidas necesarias para el mejor funcionamiento de las unidades a
 III. Atender las necesidades administrativas de las unidades administrativas y de los órganos administrativos desconcentrados de la Secretaría, de acuerdo con las políticas generales fijadas por el Secretario y demás disposiciones jurídicas aplicables, en coordinación con los titulares de dichas unidades administrativas y órganos administrativos desconcentrados;
 
 IV. Emitir instrucciones sobre asuntos de su competencia a los titulares de las representaciones de México en el exterior;
+
+> <small>(ADICIONADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+IV Bis. Supervisar periódicamente, en el marco de sus atribuciones legales y con base en la disponibilidad presupuestaria y prioridades de la política exterior, los trabajos y resultados de las actividades de las representaciones de México en el exterior, en cuanto a la gestión de calidad y eficiencia en materia de sus recursos, para lo cual puede realizar visitas por sí o a través del personal que designe;
 
 V. Asesorar a los titulares de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, en la forma de establecer sus objetivos y llevar a cabo las acciones preventivas que permitan determinar inconsistencias, problemas de operación o aplicación de la normativa administrativa, y cuyos señalamientos contribuyan a corregir, retroalimentar y mejorar su operación;
 
@@ -833,147 +863,245 @@ XV. Coordinar las actividades y atender las necesidades de los agregados de pren
 
 XVI. Ejercer las demás facultades que las disposiciones jurídicas confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores, así como realizar las funciones que le encomiende el Secretario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 21.
 
-La Dirección General de Asuntos Jurídicos está a cargo de un Director General, quien tiene las facultades siguientes:
+La Dirección General de Asuntos Jurídicos está a cargo de una persona titular de la Dirección General, quien tiene las facultades siguientes:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
 I. Resolver los procedimientos y las solicitudes que en materia de nacionalidad y naturalización se formulen a la Secretaría, así como imponer las sanciones a que se refiere la Ley de Nacionalidad y su Reglamento;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
 II. Expedir certificados y constancias de nacionalidad mexicana, declaratorias de nacionalidad mexicana por nacimiento y cartas de naturalización;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
 III. Brindar apoyo jurídico a la Dirección General de Servicios Consulares y a las Oficinas de Pasaportes, en materia de nacionalidad y naturalización;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
 IV. Tramitar y resolver las solicitudes de personas extranjeras para adquirir el dominio de tierras, aguas y sus accesiones; así como para adquirir bienes inmuebles ubicados fuera de la zona restringida, y para la obtención de concesiones de explotación de minas, aguas o minerales en la República Mexicana;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
 V. Registrar los siguientes avisos a que se refiere la Ley de Inversión Extranjera:
 
-a) Aviso de suscripción del convenio previsto en el artículo 27, fracción I de la Constitución Política de los Estados Unidos Mexicanos, en los instrumentos públicos en los que se haga constar la constitución de sociedades que establezcan la cláusula de admisión de extranjeros;
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
-b) Aviso de suscripción del convenio previsto en el artículo 27, fracción I de la Constitución Política de los Estados Unidos Mexicanos, cuando una sociedad modifique la cláusula de exclusión de extranjeros por la de admisión de extranjeros en las sociedades ya constituidas, y
+a) Aviso de suscripción del convenio previsto en el artículo 27, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, en los instrumentos públicos en los que se haga constar la constitución de sociedades que establezcan la cláusula de admisión de extranjeros;
+
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+b) Aviso de suscripción del convenio previsto en el artículo 27, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, cuando una sociedad modifique la cláusula de exclusión de extranjeros por la de admisión de extranjeros en las sociedades ya constituidas, y
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
 c) Aviso de adquisición de inmuebles por sociedades mexicanas con cláusula de admisión de extranjeros en la zona restringida que se destinen a un fin no residencial;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
 VI. Expedir a las instituciones de crédito, los permisos para la constitución o modificación de fideicomisos sobre bienes inmuebles ubicados en zona restringida, que permitan su uso y aprovechamiento a los extranjeros;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
 VII. Imponer las sanciones a que se refiere la Ley de Inversión Extranjera y su Reglamento, respecto de los asuntos que sean competencia de la Secretaría;
 
-VIII. Intervenir en los procedimientos de extradición y tramitar las solicitudes de detención provisional y formal correspondientes conforme a lo que establece la Ley de Extradición Internacional, así como las solicitudes de entrega temporal, de reextradición y de consentimiento a la excepción a la Regla de Especialidad previstos en los tratados y convenios celebrados por México con otros Estados en la materia;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
-IX. Tramitar las solicitudes de auxilio jurídico internacional que requieran las autoridades Federales, Estatales, Municipales o extranjeras, así como intervenir en los procedimientos para el traslado internacional de reos;
+VIII. Designar, en coordinación con la Dirección General de Oficinas de Pasaportes, a las Oficinas de Pasaportes de la Secretaría, localizadas fuera de la Ciudad de México, en las que se ubiquen los módulos de atención al público con jurisdicción regional y los servicios que en éste se brindan, de conformidad con las directrices que se emitan de acuerdo con lo dispuesto en el artículo 54, fracción XIII de este reglamento. Asimismo, en casos justificados, la persona titular de la Dirección General de Asuntos Jurídicos puede habilitar temporalmente módulos móviles de atención al público, en cualquier otro lugar del territorio nacional;
 
-X. Convocar, organizar y participar en reuniones, talleres o eventos, en el marco de los acuerdos de cooperación jurídica internacional suscritos por México, así como en cualquier otro que corresponda al ámbito de su competencia;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
-XI. Tramitar, previo análisis y dictamen de su procedencia, las comisiones rogatorias consulares, los exhortos o cartas rogatorias que se reciben del extranjero o que las autoridades competentes de México dirijan al extranjero;
+IX. Emitir el acuerdo que da a conocer en cuál de las Oficinas de Pasaportes de la Secretaría localizada fuera de Ciudad de México, se ha instaurado un módulo de atención al público con jurisdicción regional y los servicios que en éste se brindan, acuerdo que deberá ser publicado en el Diario Oficial de la Federación, mediante la tramitación correspondiente;
 
-XII. Cumplir con los compromisos derivados de tratados internacionales, cuando haya sido designada como autoridad central;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
-XIII. Actuar en nombre y representación legal de la Secretaría y de las autoridades comprendidas en el Capítulo I de este Reglamento, para la imposición de las acciones y recursos legales que favorezcan sus derechos e intereses, ante las autoridades judiciales, administrativas y laborales, contempladas en el artículo 123, apartado A y B de la Constitución Política de los Estados Unidos Mexicanos sean del fuero común o del fuero federal, en cualquier juicio o asunto de orden jurisdiccional en que tenga injerencia o interés jurídico la Secretaría, con todos los derechos procesales que las leyes reconocen a las personas, para ser ejercidas en su oportunidad;
+X. Supervisar y evaluar las actividades del personal de la Dirección General de Asuntos Jurídicos que realicen en materia de nacionalidad, naturalización y cualquier otra actividad que sea de su competencia en los módulos de atención al público de esta unidad administrativa, ubicados en las Oficinas de Pasaportes de la Secretaría, localizadas fuera de la Ciudad de México;
 
-XIV. Representar al Presidente de la República en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en aquellos asuntos que corresponda a la Secretaría representar al Titular del Ejecutivo Federal, en términos del segundo párrafo del artículo 9 de la citada Ley;
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
-XV. Intervenir en las controversias constitucionales y en las acciones de inconstitucionalidad en las que el Secretario de Relaciones Exteriores represente al Presidente de la República;
+XI. Intervenir en los procedimientos de extradición y tramitar las solicitudes de detención provisional y formal correspondientes conforme a lo que establece la Ley de Extradición Internacional, así como las solicitudes de entrega temporal, de re-extradición y de consentimiento a la excepción a la Regla de Especialidad previstos en los tratados y convenios celebrados por México con otros Estados en la materia;
 
-XVI. Representar al Secretario, a los Subsecretarios, al Titular de la Unidad de Administración y Finanzas y demás servidores públicos de la Secretaría señalados como autoridades responsables, en todo el procedimiento para la substanciación y resolución del juicio de amparo y del juicio contencioso administrativo federal;
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
-XVII. Suscribir oficios, escritos y todas aquellas promociones que exija el trámite procesal de los juicios, incluyendo el de amparo o de cualquiera otra controversia, en representación o en ausencia del Secretario, Subsecretarios, Titular de la Unidad de Administración y Finanzas, Jefe de Unidad y Directores Generales, según corresponda; así como desahogar los trámites y asistir a las audiencias y diligencias convocadas por los órganos jurisdiccionales;
+XII. Tramitar las solicitudes de auxilio jurídico internacional que requieran las autoridades federales, estatales, municipales o extranjeras, así como intervenir en los procedimientos para el traslado internacional de reos;
 
-XVIII. Interponer los recursos o cualquier otro medio de impugnación en contra de las resoluciones y sentencias dictadas por los órganos del Poder Judicial de la Federación, por el Tribunal Federal de Justicia Administrativa, y por el Tribunal Federal de Conciliación y Arbitraje; o Centros de Conciliación locales, Centro Federal de Conciliación y Registro Laboral y los Tribunales del Poder Judicial de las Entidades Federativas;
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
-XIX. Representar al Secretario ante el Tribunal Federal de Conciliación y Arbitraje, así como ante los Tribunales Estatales de Conciliación y Arbitraje en los conflictos que se susciten con motivo de la aplicación de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado "B" del artículo 123 Constitucional; así también, representar al Secretario ante los Centros de Conciliación locales, Centro Federal de Conciliación y Registro Laboral y los Tribunales del Poder Judicial de las Entidades Federativas cuando sea llamada a juicio en la calidad de obligado solidario representar formular dictámenes, demandas de ceses de sus empleados, contestación de demandas laborales, formulación y absolución de posiciones, desistimientos o allanamientos y, en general, todas aquellas promociones que se requieran en el curso del procedimiento;
+XIII. Convocar, organizar y participar en reuniones, talleres o eventos, en el marco de los acuerdos de cooperación jurídica internacional suscritos por el Estado mexicano, así como en cualquier otro que corresponda al ámbito de su competencia;
 
-XX. Autorizar al personal necesario ante las distintas autoridades judiciales, administrativas y del trabajo, a efecto de que en representación de la Secretaría lleven a cabo las diligencias procesales correspondientes;
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
-XXI. Opinar sobre las sanciones que pretenda imponerse al personal de base de la Secretaría, de conformidad con la normativa aplicable;
+XIV. Analizar, dictaminar y tramitar las comisiones rogatorias consulares, los exhortos o cartas rogatorias que se reciben del extranjero o que las autoridades competentes de México dirijan al extranjero;
 
-XXII. Recabar, por conducto de la autoridad competente, la opinión del Presidente de la República, sobre la resolución que emita la Subcomisión de Asuntos Disciplinarios en los procedimientos disciplinarios del Servicio Exterior Mexicano, en caso de embajadores y cónsules generales;
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
-XXIII. Remitir al Tribunal Federal de Justicia Administrativa, los expedientes de los procedimientos disciplinarios del Servicio Exterior Mexicano, relacionados con faltas administrativas graves;
+XV. Cumplir con los compromisos derivados de tratados internacionales, cuando haya sido designada como autoridad central;
 
-XXIV. Formular y presentar denuncias o querellas ante el Ministerio Público competente, de los hechos que la ley señale como delito por los que se afecta a la Secretaría, así como de posibles delitos cometidos por servidores públicos de la Secretaría en el desempeño de sus funciones, integrando a la carpeta de investigación todos los datos de prueba y dando la intervención que corresponde a la autoridad competente, en términos de lo dispuesto por el Código Nacional de Procedimientos Penales para salvaguardar los intereses de la Secretaría y en caso de ser procedente solicitar la reparación de daño;
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
-XXV. Fungir como asesor jurídico o representante legal de la Secretaría y de los servidores públicos adscritos a esta, conforme lo disponga el Código Nacional de Procedimientos Penales ante las autoridades ministeriales y judiciales competentes, para salvaguardar los intereses de la Secretaría allegándose previamente, para este efecto, todos los elementos de prueba necesarios y suficientes;
+XVI. Actuar en nombre y representación legal de la Secretaría y de las autoridades comprendidas en el Capítulo I de este reglamento, para la imposición de las acciones y recursos legales que favorezcan sus derechos e intereses, ante las autoridades judiciales, administrativas y laborales, contempladas en el artículo 123, apartado A y B, de la Constitución Política de los Estados Unidos Mexicanos sean del fuero común o del fuero federal, en cualquier juicio o asunto de orden jurisdiccional en que tenga injerencia o interés jurídico la Secretaría, con todos los derechos procesales que las leyes reconocen a las personas, para ser ejercidas en su oportunidad;
 
-XXVI. Hacer del conocimiento de la Consejería Jurídica del Ejecutivo Federal todos aquellos asuntos contenciosos que, como representante de la Federación, le competan;
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
-XXVII. Coordinar la sustanciación, conforme a las disposiciones legales aplicables, de los recursos que interpongan los particulares contra actos y resoluciones de la Secretaría que den fin a una instancia o resuelvan un procedimiento y, en su caso, proponer o emitir la resolución que proceda;
+XVII. Representar a la persona titular del Ejecutivo Federal en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en aquellos asuntos que corresponda a la Secretaría representar a la persona titular del Ejecutivo Federal, en términos del segundo párrafo del artículo 9 de la citada Ley;
 
-XXVIII. Representar a la Secretaría ante las autoridades competentes en los asuntos relacionados con propiedad industrial y derechos de autor, así como realizar todas las acciones legales conducentes para su debido uso, en el ámbito nacional, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
-XXIX. Revisar y, en su caso, aprobar los proyectos de reglamentos, decretos, acuerdos y demás instrumentos normativos que deba suscribir o refrendar el Secretario;
+XVIII. Intervenir en las controversias constitucionales y en las acciones de inconstitucionalidad en las que la persona titular de la Secretaría de Relaciones Exteriores represente a la persona titular del Ejecutivo Federal;
 
-XXX. Formular proyectos de iniciativas de leyes o decretos, así como de reglamentos, acuerdos, circulares y demás disposiciones del marco jurídico nacional, relacionadas con la competencia de la Secretaría y pronunciarse sobre las que propongan las demás unidades administrativas;
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
-XXXI. Emitir opinión sobre las disposiciones del marco jurídico nacional que sean sometidas a su revisión, por el Secretario y las unidades administrativas, competencia de la Secretaría, que deban ser publicadas en el Diario Oficial de la Federación y, en su caso, tramitar su publicación;
+XIX. Representar a las personas titulares de la Secretaría, de las Subsecretarías, de la Unidad de Administración y Finanzas, así como a las demás personas servidoras públicas de la Secretaría, cuando sean señaladas como autoridades responsables, en todo el procedimiento para la substanciación y resolución del juicio de amparo y del juicio contencioso administrativo federal;
 
-XXXII. Revisar, expedir y difundir los lineamientos y normas técnicas de carácter general establecidas en la ley y demás disposiciones relativas a las materias cuya aplicación corresponda a la Secretaría y que no estén expresamente conferidas a otra unidad administrativa;
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
-XXXIII. Opinar sobre los convenios, acuerdos y bases de colaboración, coordinación y concertación de acciones, que en el ámbito nacional suscriban los servidores públicos competentes de la Secretaría, cuando así lo soliciten;
+XX. Suscribir oficios, escritos y todas aquellas promociones que exija el trámite procesal de los juicios, incluso el de amparo o de cualquiera otra controversia, en representación o en ausencia de la persona titular de la Secretaría y de las personas titulares de las unidades administrativas y órganos administrativos desconcentrados de ésta, según corresponda; así como desahogar los trámites y asistir a las audiencias y diligencias convocadas por los órganos jurisdiccionales;
 
-XXXIV. Emitir validación jurídica sobre los contratos, convenios modificatorios y adendas que pretenda celebrar la Secretaría, así como emitir opinión jurídica respecto del modelo de pedido que elabore la Dirección General de Bienes Inmuebles y Recursos Materiales;
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
-XXXV. Emitir validación jurídica sobre el marco legal de los anteproyectos de manuales de organización y procedimientos que propongan las demás unidades administrativas y órganos administrativos desconcentrados de la Secretaría, en el ámbito de su competencia;
+XXI. Interponer los recursos o cualquier otro medio de impugnación en contra de las resoluciones y sentencias dictadas por los órganos del Poder Judicial de la Federación, por el Tribunal Federal de Justicia Administrativa, y por el Tribunal Federal de Conciliación y Arbitraje; o los Centros de Conciliación locales, el Centro Federal de Conciliación y Registro Laboral y los tribunales del Poder Judicial de las entidades federativas;
 
-XXXVI. Actuar como enlace en asuntos jurídicos de su competencia con las áreas correspondientes de las dependencias y entidades de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
-XXXVII. Coordinar con las demás unidades administrativas competentes de la Secretaría, el análisis sobre el sistema jurídico nacional, cuando así le sea requerido por tener impacto en las atribuciones de la Secretaría;
+XXII. Representar a la persona titular de la Secretaría ante el Tribunal Federal de Conciliación y Arbitraje, así como ante los tribunales estatales de Conciliación y Arbitraje en los conflictos que se susciten con motivo de la aplicación de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado “B” del artículo 123 Constitucional; así también, representar a la persona titular de la Secretaría ante los Centros de Conciliación locales, el Centro Federal de Conciliación y Registro Laboral y los tribunales del Poder Judicial de las entidades federativas cuando sea llamada a juicio en la calidad de obligada solidaria; representar, formular dictámenes, demandas de ceses de su personal de base, contestación de demandas laborales, formulación y absolución de posiciones, desistimientos o allanamientos, ofrecimiento de pruebas y presentación de recursos y, en general, todas aquellas promociones que se requieran en el curso del procedimiento;
 
-XXXVIII. Fijar, sistematizar y difundir los criterios necesarios para aplicar de manera uniforme las disposiciones jurídicas que sean de su competencia;
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
-XXXIX. Compilar y difundir leyes, reglamentos, decretos, acuerdos y demás disposiciones de observancia general, aplicables al ámbito nacional respecto de asuntos de la competencia de la Secretaría;
+XXIII. Autorizar al personal necesario ante las distintas autoridades judiciales, administrativas y del trabajo, a efecto de que en representación de la Secretaría lleven a cabo las diligencias procesales correspondientes;
 
-XL. Atender los requerimientos que las autoridades ministeriales, jurisdiccionales y administrativas soliciten a la Secretaría, en los plazos y con las formalidades establecidas en las disposiciones jurídicas aplicables, siempre que esta unidad administrativa sea la competente;
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
-XLI. Opinar cuando se le solicite, sobre los proyectos de tratados en materia de cooperación jurídica internacional;
+XXIV. Opinar sobre las sanciones que pretenda imponerse al personal de base de la Secretaría, de conformidad con la normatividad aplicable;
 
-XLII. Certificar los documentos que obren en los archivos de la Secretaría cuando deban ser exhibidas ante autoridades judiciales, administrativas o del trabajo y, en general, para cualquier procedimiento, proceso o averiguación, y
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
-XLIII. Ejercer las demás facultades que las disposiciones jurídicas confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores, así como realizar las funciones que le encomiende el Secretario.
+XXV. Recabar, por conducto de la autoridad competente, la opinión de la persona titular del Ejecutivo Federal, sobre la resolución que emita la Subcomisión de Asuntos Disciplinarios en los procedimientos disciplinarios del Servicio Exterior Mexicano, en caso de personas embajadoras y cónsules generales;
+
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XXVI. Remitir al Tribunal Federal de Justicia Administrativa los expedientes de los procedimientos disciplinarios del Servicio Exterior Mexicano, relacionados con faltas administrativas graves;
+
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XXVII. Formular y presentar denuncias o querellas ante el Ministerio Público competente, de los hechos que la ley señale como delito por los que se afecta a la Secretaría, así como de posibles delitos cometidos por personas servidoras públicas de la Secretaría en el desempeño de sus funciones, integrando a la carpeta de investigación todos los datos de prueba y dando la intervención que corresponde a la autoridad competente, en términos de lo dispuesto por el Código Nacional de Procedimientos Penales para salvaguardar los intereses de la Secretaría y en caso de ser procedente solicitar la reparación de daño;
+
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XXVIII. Fungir como asesor jurídico o representante legal de la Secretaría y de las personas servidoras públicas adscritas a ésta, conforme lo disponga el Código Nacional de Procedimientos Penales ante las autoridades ministeriales y judiciales competentes, con la finalidad de salvaguardar los intereses de la Secretaría; para este efecto, puede allegarse de todos los elementos de prueba necesarios y suficientes, que las unidades administrativas de la Secretaría deban aportar en su debida oportunidad, al ser quienes tienen conocimiento de los hechos en primer lugar;
+
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XXIX. Hacer del conocimiento de la Consejería Jurídica del Ejecutivo Federal todos aquellos asuntos contenciosos que, como representante de la Federación, le competan a esa dependencia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XXX. Coordinar la sustanciación, conforme a las disposiciones legales aplicables, de los recursos que interpongan los particulares contra actos y resoluciones de la Secretaría que den fin a una instancia o resuelvan un procedimiento y, en su caso, proponer o emitir la resolución que proceda;
+
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XXXI. Representar a la Secretaría ante las autoridades competentes en los asuntos relacionados con propiedad industrial y derechos de autor. Asimismo, realizar todas las acciones legales conducentes para su debido uso, en el ámbito nacional, de conformidad con las disposiciones jurídicas aplicables, cuando así lo soliciten las unidades administrativas y órganos administrativos desconcentrados de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XXXII. Revisar y, en su caso, aprobar los proyectos de reglamentos, decretos, acuerdos y demás instrumentos normativos que deba suscribir o refrendar la persona titular de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XXXIII. Formular proyectos de iniciativas de leyes o decretos, así como de reglamentos, acuerdos, circulares y demás disposiciones del marco jurídico nacional, relacionadas con la competencia de la Secretaría y pronunciarse, en su caso, sobre las que propongan las demás unidades administrativas y órganos administrativos desconcentrados, en el ámbito de sus respectivas competencias;
+
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XXXIV. Emitir opinión sobre las disposiciones del marco jurídico nacional que sean sometidas a su revisión, por la persona titular de la Secretaría, las unidades administrativas y órganos administrativos desconcentrados, competencia de la Secretaría, que deban ser publicadas en el Diario Oficial de la Federación y, en su caso, tramitar su publicación;
+
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XXXV. Revisar, expedir y difundir los lineamientos y normas técnicas de carácter general referidos en la ley y demás disposiciones relativas a las materias cuya aplicación corresponda a la Secretaría y que no estén expresamente conferidas a otra unidad administrativa;
+
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XXXVI. Opinar sobre los convenios, acuerdos y bases de colaboración, coordinación y concertación de acciones, que en el ámbito nacional suscriban las personas servidoras públicas competentes de la Secretaría, cuando así lo soliciten;
+
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XXXVII. Emitir validación jurídica sobre los contratos, convenios modificatorios y adendas que pretenda celebrar la Secretaría, así como emitir opinión jurídica respecto del modelo de pedido que elabore la Dirección General de Bienes Inmuebles y Recursos Materiales, siempre y cuando ésta así lo solicite. La validación jurídica que se emita no incluye la aprobación de los aspectos técnicos y presupuestales contenidos en los referidos instrumentos jurídicos, por ser competencia de otras unidades administrativas de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XXXVIII. Emitir validación jurídica sobre el marco legal de los anteproyectos de manuales de organización y procedimientos que propongan las demás unidades administrativas y órganos administrativos desconcentrados de la Secretaría, en el ámbito de la competencia de la Dirección General de Asuntos Jurídicos;
+
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XXXIX. Actuar como enlace en asuntos jurídicos de su competencia con las unidades encargadas del apoyo jurídico de las otras dependencias y de las entidades de la Administración Pública Federal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XL. Coordinar con las demás unidades administrativas competentes de la Secretaría, el análisis sobre el sistema jurídico nacional, cuando así le sea requerido por tener impacto en las atribuciones de la Secretaría;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XLI. Fijar, sistematizar y difundir los criterios necesarios para aplicar de manera uniforme las disposiciones jurídicas que sean de su competencia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XLII. Compilar y difundir leyes, reglamentos, decretos, acuerdos y demás disposiciones de observancia general, aplicables al ámbito nacional respecto de asuntos de la competencia de la Secretaría;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XLIII. Atender los requerimientos que las autoridades ministeriales, jurisdiccionales y administrativas soliciten a la Secretaría, en los plazos y con las formalidades establecidas en las disposiciones jurídicas aplicables, siempre que esta unidad administrativa sea la competente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XLIV. Opinar cuando se le solicite, sobre los proyectos de tratados en materia de cooperación jurídica internacional;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XLV. Certificar los documentos que obren en los archivos de la Secretaría cuando deban ser exhibidas ante autoridades judiciales, administrativas o del trabajo y, en general, para cualquier procedimiento, proceso o averiguación, y
+
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XLVI. Ejercer las demás facultades que las disposiciones jurídicas confieran a la Secretaría, cuando sean afines a las señaladas en las fracciones anteriores y no correspondan expresamente a otra unidad administrativa, así como realizar las funciones que le encomiende la persona titular de la Secretaría.
 
 De conformidad con lo dispuesto en el artículo 7 del Reglamento, el Director General de Asuntos Jurídicos, para el ejercicio de sus facultades, se auxiliará del Coordinador de Servicios Legales, del Director de lo Jurídico Contencioso, del Director de Cooperación Penal Internacional, del Director de Cooperación Procesal Internacional, del Director de lo Consultivo y de Normatividad; de los Subdirectores de Naturalización, de Fideicomisos, de Asuntos Penales, de Asuntos Laborales; así como de los Jefes de Departamento y demás personal adscrito a la Dirección General de Asuntos Jurídicos, de acuerdo con su estructura autorizada y manual de organización.
 
 Asimismo, el Titular se auxiliará del Coordinador de Enlace y Seguimiento de Procedimientos, posición que será ocupada exclusivamente por un miembro del Servicio Exterior Mexicano de Carrera, y cuya remuneración se regirá conforme a las disposiciones jurídicas aplicables al Servicio Exterior Mexicano.
 
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 22.
 
-La Coordinación de Servicios Legales está a cargo de un Coordinador, quien tiene las facultades siguientes:
+La Coordinación de Servicios Legales está a cargo de una persona titular de la Coordinación, quien tiene las facultades siguientes:
 
-I. Intervenir en los asuntos de carácter legal en que tenga injerencia la Secretaría, en materia consultiva, de contratos y convenios;
+I. Coadyuvar en el análisis y opinión de instrumentos jurídicos competencia de la Secretaría en el ámbito nacional, que sean sometidos a su revisión por la persona titular de la Dirección General de Asuntos Jurídicos;
 
-II. Establecer estrategias y mecanismos para la atención de los asuntos jurídicos en materia administrativa, laboral, penal y civil, con base en la normativa vigente, con la finalidad de contribuir en las actuaciones de carácter legal que tutelen los intereses de la Secretaría;
+II. Auxiliar a su superior jerárquico, cuando éste lo instruya, en los asuntos de carácter legal, en materia consultiva, de contratos y convenios, que sean competencia de la misma Dirección General de Asuntos Jurídicos;
 
-III. Coadyuvar, en el ámbito de competencia de la Dirección General de Asuntos Jurídicos, en la atención de los diversos juicios y procedimientos en los que la Secretaría forme parte;
+III. Coadyuvar en la conducción del desahogo de consultas, competencia de la Dirección General de Asuntos Jurídicos, cuando se requiera de una opinión jurídica normativa, respecto del alcance de alguna disposición procesal o sustantiva en el ámbito contencioso;
 
-IV. Coadyuvar en la supervisión de la atención de las solicitudes de cooperación jurídica internacional en materia penal, civil y mercantil, a fin de cumplir con los compromisos asumidos por el Gobierno de México en los tratados internacionales en la materia, o bien, conforme al principio de reciprocidad internacional;
+IV. Establecer estrategias y mecanismos para la atención de los asuntos jurídicos del ámbito nacional, en materia administrativa, laboral, penal y civil, con base en la normativa vigente, con la finalidad de contribuir en las actuaciones de carácter legal que tutelen los intereses de la Secretaría;
 
-V. Suscribir los documentos necesarios en los distintos procedimientos y trámites que se llevan a cabo en la Dirección General de Asuntos Jurídicos;
+V. Proponer a su superior jerárquico acciones que mejoren el cumplimiento y seguimiento de los compromisos asumidos por el gobierno de México en los tratados internacionales de cooperación jurídica internacional, en materia civil y mercantil;
 
-VI. Suscribir certificados, declaraciones de nacionalidad mexicana por nacimiento y cartas de naturalización mexicana, así como cualquier documento concernientes a procedimientos de nacionalidad y naturalización;
+VI. Proponer a la persona titular de la Dirección General de Asuntos Jurídicos, en su caso, anteproyectos o proyectos de reformas a disposiciones jurídicas que inciden en la competencia de la Secretaría, con el objeto de que la actuación de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría se encuentren apegados al marco jurídico aplicable;
 
-VII. Validar los procedimientos de:
+VII. Proponer a la persona titular de la Dirección General de Asuntos Jurídicos, en su caso, criterios necesarios para aplicar de manera uniforme las disposiciones jurídicas, en las materias que son competencia de esta unidad administrativa;
 
-a) Pérdida de la nacionalidad mexicana por naturalización;
+VIII. Coordinar y, en su caso, consolidar la integración de la información que le sea requerida a la Dirección General de Asuntos Jurídicos, por otras unidades administrativas y órganos administrativos desconcentrados de la Secretaría o por otras dependencias o entidades de la Administración Pública Federal, cuando se involucren dos o más áreas adscritas a la Dirección General de Asuntos Jurídicos, así como coadyuvar en la colaboración que le sea requerida a la Dirección General de Asuntos Jurídicos, dentro del ámbito de sus atribuciones, de conformidad con las disposiciones jurídicas aplicables;
 
-b) Nulidad de certificados;
+IX. Representar, previa designación de su superior jerárquico, a la Dirección General de Asuntos Jurídicos en las sesiones de órganos colegiados constituidos por la Secretaría, en todos aquellos asuntos en los que sea parte, y en aquéllos en los que así lo disponga el superior jerárquico inmediato de la persona titular de la Dirección General de Asuntos Jurídicos;
 
-c) Declaraciones de nacionalidad mexicana por nacimiento, y
+X. Actuar como enlace en asuntos jurídicos de la competencia de la Dirección General de Asuntos Jurídicos, con las unidades encargadas del apoyo jurídico de las otras dependencias y de las entidades de la Administración Pública Federal;
 
-d) Cartas de naturalización mexicana;
+XI. Coadyuvar, cuando sea requerido por su superior jerárquico, en el seguimiento de los temas jurídicos que surjan en los órganos colegiados que queden a cargo de la Dirección General de Asuntos Jurídicos y de los que hubiere sido designado como representante;
 
-VIII. Imponer multas por infracciones administrativas establecidas en la Ley de Nacionalidad, así como en la Ley de Inversión Extranjera y su Reglamento;
+XII. Suscribir los documentos que sean necesarios en el ámbito de sus facultades;
 
-IX. Validar los trámites para la autorización para adquirir el dominio de tierras, aguas y sus accesiones, a personas físicas o morales extranjeras;
+XIII. Certificar los documentos que obren en los archivos de la Dirección General de Asuntos Jurídicos, y
 
-X. Validar los trámites para el otorgamiento de permisos de adquisición de bienes inmuebles ubicados fuera de la zona restringida, a favor de personas físicas o morales extranjeras;
-
-XI. Validar los trámites para la expedición a las instituciones de crédito, de los permisos para la constitución o modificación de fideicomisos sobre bienes inmuebles ubicados en zona restringida, que permitan su uso y aprovechamiento a los extranjeros;
-
-XII. Autorizar la modificación de los fideicomisos, cuando exista ampliación de la materia o cambio de fines;
-
-XIII. Representar a la Dirección General de Asuntos Jurídicos en las sesiones de órganos colegiados constituidos por la Secretaría y en todos aquellos en los que sea parte, previa designación de su superior jerárquico;
-
-XIV. Certificar los documentos que obren en los archivos de la Dirección General de Asuntos Jurídicos concernientes a procedimientos de nacionalidad, naturalización y artículo 27 constitucional, y
-
-XV. Ejercer las demás facultades que las disposiciones jurídicas confieran a la Dirección General de Asuntos Jurídicos, que sean afines a las señaladas en las fracciones anteriores, así como realizar las funciones que le encomiende su superior jerárquico.
+XIV. Ejercer las demás facultades que las disposiciones jurídicas reglamentarias confieran a la Dirección General de Asuntos Jurídicos y que dichas facultades sean afines a las señaladas en las fracciones anteriores de este artículo y en términos de este reglamento no correspondan expresamente a otra unidad administrativa de la Secretaría, así como realizar las funciones que le encomiende su superior jerárquico.
 
 ###### ARTÍCULO 23.
 
@@ -1267,7 +1395,9 @@ III. Impulsar y dar seguimiento, desde la perspectiva política, al conjunto de 
 
 IV. Elaborar análisis e informes políticos y sociales requeridos para la formulación de la política bilateral y multilateral con los países y organizaciones de Centroamérica y el Caribe;
 
-V. Coadyuvar con las dependencias y entidades de la Administración Pública Federal, así como unidades administrativas y órganos administrativos desconcentrados competentes de la Secretaría, a la promoción, actualización y seguimiento del marco jurídico que regule las relaciones de México con los países y organizaciones de Centroamérica y el Caribe;
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+V. Coadyuvar con las dependencias y entidades gubernamentales, así como con las unidades administrativas y órganos administrativos desconcentrados competentes de la Secretaría, a la promoción, actualización y seguimiento del marco jurídico que regule las relaciones de México con los países y organizaciones de Centroamérica y el Caribe;
 
 VI. Contribuir, cuando así sea requerido por las unidades administrativas y órganos administrativos desconcentrados competentes de la Secretaría, a la formulación de sus políticas de cooperación bilateral, regional y multilateral, sobre temas de la agenda de Centroamérica y el Caribe;
 
@@ -1317,7 +1447,9 @@ III. Impulsar y dar seguimiento, desde la perspectiva política, al conjunto de 
 
 IV. Elaborar análisis e informes políticos y sociales requeridos para la formulación de la política bilateral y multilateral con los países y organizaciones de América del Sur;
 
-V. Coadyuvar con las dependencias y entidades de la Administración Pública Federal, así como con las unidades administrativas y órganos administrativos desconcentrados competentes de la Secretaría, a la promoción, actualización y seguimiento del marco jurídico que regule las relaciones de México con los países y organizaciones de América del Sur;
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+V. Coadyuvar con las dependencias y entidades gubernamentales, así como con las unidades administrativas y órganos administrativos desconcentrados competentes de la Secretaría, a la promoción, actualización y seguimiento del marco jurídico que regule las relaciones de México con los países y organizaciones de América del Sur;
 
 VI. Contribuir, cuando así sea requerido por las unidades administrativas y órganos administrativos desconcentrados competentes de la Secretaría, a la formulación de sus políticas de cooperación bilateral, regional y multilateral, sobre temas de la agenda de América del Sur;
 
@@ -1353,7 +1485,9 @@ XX. Ejercer las demás facultades que las disposiciones jurídicas confieran a l
 
 La Dirección General de Organismos y Mecanismos Regionales Americanos está a cargo de un Director General, quien tiene las facultades siguientes:
 
-I. Formular e impartir, en coordinación con las diversas unidades administrativas y organismos administrativos desconcentrados de la Secretaría y otras dependencias gubernamentales, los lineamientos generales que normen la actuación de México en los organismos que conforman el Sistema Interamericano, en las organizaciones regionales de carácter autónomo, así como en los mecanismos de concertación multilateral y mecanismos permanentes de consulta y concertación política de la región;
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+I. Formular e impartir, en coordinación con las diversas unidades administrativas y órganos administrativos desconcentrados de la Secretaría y otras dependencias gubernamentales, los lineamientos generales que normen la actuación de México en los organismos que conforman el Sistema Interamericano, en las organizaciones regionales de carácter autónomo, así como en los mecanismos de concertación multilateral y mecanismos permanentes de consulta y concertación política de la región;
 
 II. Participar en las reuniones convocadas en el marco de los organismos del Sistema Interamericano, en las organizaciones regionales de carácter autónomo, así como de los mecanismos de concertación multilateral y de los mecanismos de consulta y concertación política de la región;
 
@@ -1427,7 +1561,9 @@ XII. Dar seguimiento a la labor de la Organización de las Naciones Unidas, los 
 
 XIII. Realizar, en coordinación con la Dirección General de Programación, Organización y Presupuesto, los trámites necesarios para cumplir con los pagos de contribuciones, aportaciones y cuotas de México ante los organismos internacionales en materia de su competencia, así como apoyar a otras dependencias y entidades de la Administración Pública Federal en cumplimiento de sus compromisos con organismos internacionales, en coordinación con las representaciones de México;
 
-XIV. Promover, en los temas de su competencia y en coordinación con la Dirección General de Derechos Humanos y Democracia relacionado con la Dirección General de Vinculación con las Organizaciones de la Sociedad Civil, un diálogo efectivo entre la Secretaría y las organizaciones de la sociedad civil interesadas, con miras a mantenerlas informadas de las actividades que lleva a cabo la Dirección General y tener en cuenta sus observaciones y sugerencias en la definición y ejecución de la política exterior de México en los temas competencia de la Dirección General, y
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XIV. Promover, en los temas de su competencia y en coordinación con la Dirección General de Vinculación con las Organizaciones de la Sociedad Civil, un diálogo efectivo entre la Secretaría y las organizaciones de la sociedad civil interesadas, con miras a mantenerlas informadas de las actividades que lleva a cabo la Dirección General y tener en cuenta sus observaciones y sugerencias en la definición y ejecución de la política exterior de México en los temas competencia de la Dirección General, y
 
 XV. Ejercer las demás facultades que las disposiciones jurídicas confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores, así como realizar las funciones que le encomiende el Secretario o su superior jerárquico.
 
@@ -1805,7 +1941,9 @@ I. Coordinar la integración y consolidación de la información del proceso de 
 
 II. Dirigir los procesos de adecuación y modificación del presupuesto del Ramo correspondiente, asegurando la conciliación de cifras en los sistemas de control presupuestario, con la finalidad de garantizar los recursos necesarios para el cumplimiento de los objetivos y metas institucionales;
 
-III. Gestionar la incorporación al presupuesto de la Secretaría de los ingresos consulares; el 15% de los ingresos por la expedición de pasaportes y del documento de identidad y viaje en territorio nacional, y los excedentes por productos y aprovechamientos, para el cumplimiento de los objetivos y programas institucionales, con base en la óptima administración del presupuesto autorizado al Ramo correspondiente;
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+III. Gestionar la incorporación al presupuesto de la Secretaría de los ingresos consulares; el porcentaje que corresponda en términos de la Ley Federal de Derechos, de los ingresos por la expedición de pasaportes y del documento de identidad y viaje en territorio nacional, y los excedentes por productos y aprovechamientos, para el cumplimiento de los objetivos y programas institucionales, de conformidad con la normativa aplicable para la administración del presupuesto autorizado al Ramo correspondiente;
 
 IV. Determinar las adecuaciones presupuestarias que requiera el Ramo correspondiente, previo acuerdo con el Titular de la Dirección General de Programación, Organización y Presupuesto. Asimismo, llevar a cabo la conciliación de cifras del presupuesto modificado autorizado con la Secretaría de Hacienda y Crédito Público y posteriormente con la Dirección de Contabilidad, para el cierre presupuestal y contable;
 
@@ -1855,151 +1993,141 @@ XI. Expedir copias certificadas de los documentos y constancias materia de su co
 
 XII. Ejercer las demás facultades que las disposiciones jurídicas confieran a la Dirección General de Programación, Organización y Presupuesto, que sean afines a las señaladas en las fracciones anteriores, así como realizar las funciones que le encomiende su superior jerárquico.
 
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 48.
 
-La Dirección General de Bienes Inmuebles y Recursos Materiales está a cargo de un Director General, quien tiene las facultades siguientes:
+La Dirección General de Bienes Inmuebles y Recursos Materiales está a cargo de una persona titular de la Dirección General, quien tiene las facultades siguientes:
 
-I. Llevar a cabo, con base en la información que suministren las unidades administrativas, la planeación y administración de las adquisiciones, arrendamientos y servicios de los bienes muebles e inmuebles, así como de las obras públicas y servicios relacionados con las mismas, de la Secretaría;
+I. Llevar a cabo, con base en la información que suministren las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, la planeación y administración de las adquisiciones, arrendamientos y servicios, de los bienes muebles e inmuebles, así como de las obras públicas y servicios relacionados con las mismas, de la propia dependencia;
 
 II. Aplicar, en el ámbito de su competencia, las leyes, reglamentos, disposiciones jurídicas aplicables en materia de adquisiciones, arrendamientos y servicios del sector público, y de obras públicas y servicios relacionados con las mismas, así como de los bienes muebles e inmuebles;
 
 III. Coordinar la elaboración e integración del anteproyecto de presupuesto de la Secretaría, en lo que corresponde a los gastos de materiales y suministros, servicios generales, bienes muebles e inmuebles, y obras públicas y servicios relacionados con las mismas, que deban administrarse centralmente, con excepción de aquellos de tipo informático, así como coordinar su ejercicio con la Dirección General de Programación, Organización y Presupuesto;
 
-IV. Realizar las funciones de Vocal Titular y, en su caso, Presidente Suplente de los comités de Adquisiciones, Arrendamientos y Servicios; de Obras Públicas y Servicios Relacionados con las Mismas; de Bienes Muebles, y participar en cualquier otro comité o grupo de trabajo que se establezca en las materias del ámbito de su competencia;
+IV. Coordinar las acciones que le corresponden en el exterior con relación al anteproyecto de presupuesto anual que realizan las representaciones de México en el exterior, lo cual incluye la validación y, en su caso, aprobación de los requerimientos que sean previstos en los anteproyectos de presupuesto de cada representación de México en el exterior, para los conceptos de arrendamientos de los bienes inmuebles, mantenimiento, reparación y remodelación de bienes inmuebles, así como todos los servicios requeridos, a fin de que el presupuesto sea asignado y radicado por la Dirección General de Programación, Organización y Presupuesto en el tiempo oportuno;
 
-V. Conducir los procesos de licitaciones públicas, de invitaciones a cuando menos tres personas y de adjudicaciones directas, relativas a la adquisición de recursos materiales, a la prestación de servicios y a la realización de obras públicas y servicios relacionados con estas, que se administren centralmente, a petición de las unidades administrativas y órganos administrativos desconcentrados requirentes de la Secretaría y efectuar los actos jurídicos y administrativos inherentes y derivados de ellos; así como conservar los originales de los contratos, pedidos y órdenes de trabajo y en general de toda la documentación que se genere, diferente de la contable o de alguna otra que por su competencia corresponda a otra unidad administrativa o a los órganos administrativos desconcentrados;
+V. Vigilar el registro de las autorizaciones presupuestarias de inversión tanto en territorio nacional como en el exterior, excepto de bienes informáticos;
 
-VI. Efectuar los actos jurídicos y administrativos inherentes a los contratos, convenios y pedidos, verificando el cumplimiento de las disposiciones jurídicas aplicables en la materia;
+VI. Coordinar la instrumentación de las acciones jurídicas y administrativas necesarias para llevar a cabo las adquisiciones, contratar los arrendamientos y la prestación de servicios, así como las obras públicas y los servicios relacionados con las mismas que requieran las unidades administrativas, órganos administrativos desconcentrados y las representaciones de México en el exterior;
 
-VII. Iniciar los procedimientos de rescisión de contratos y de pedidos, a petición del área requirente, así como elaborar y suscribir los documentos necesarios para tramitar la rescisión, terminación anticipada o suspensión contractual;
+VII. Realizar las funciones de Vocal Titular y, en su caso, Presidente Suplente de los comités de Adquisiciones, Arrendamientos y Servicios; de Obras Públicas y Servicios Relacionados con las Mismas, los de Bienes Muebles, así como participar en cualquier otro comité o grupo de trabajo que se establezca en las materias del ámbito de su competencia;
 
-VIII. Llevar a cabo las acciones necesarias para la aplicación o reclamación de garantías en los casos de contratos, convenios y pedidos;
+VIII. Coordinar la elaboración y suscribir, previa verificación legal y normativa de su procedencia, los convenios, contratos, pedidos y demás instrumentos jurídicos de contratación o colaboración que incidan en el ámbito de su competencia, que la Secretaría deba celebrar para el cumplimiento de sus atribuciones;
 
-IX. Cotejar la documentación original con las copias que le presenten, en los procedimientos de contratación, los diversos proveedores y prestadores de servicios;
+IX. Coordinar y, en su caso, efectuar los actos jurídicos y administrativos inherentes a los contratos, convenios y pedidos, de conformidad con los instrumentos jurídicos de contratación o colaboración que incidan en el ámbito de su competencia y demás disposiciones jurídicas aplicables en la materia;
 
-X. Registrar, controlar y salvaguardar el patrimonio inmobiliario asignado a la Secretaría y proponer al superior jerárquico las normas, políticas, lineamientos, procedimientos, directrices y criterios para la administración, construcción, adquisición, arrendamiento, ocupación y aprovechamiento de los inmuebles destinados a la Secretaría y los que se pretendan destinar, así como para la administración y el funcionamiento de los equipos e instalaciones con que cuente, excepto los relacionados con los bienes y servicios informáticos;
+X. Coordinar las acciones relacionadas con las garantías de cumplimiento contractual que se entreguen derivado de los procedimientos de contratación, de conformidad con las disposiciones jurídicas aplicables;
 
-XI. Proponer al superior jerárquico las normas, políticas, lineamientos, procedimientos, directrices y criterios para la construcción, adquisición, arrendamiento, ocupación, aprovechamiento y enajenación de los inmuebles de que dispone el Estado Mexicano en el extranjero y los que pretenda disponer para uso de las representaciones de México en el exterior;
+XI. Proponer al superior jerárquico las normas, manuales, lineamientos, procedimientos, directrices y criterios del inventario de bienes muebles y equipo de que dispone la Secretaría, tanto en territorio nacional como en el extranjero, exceptuando lo relacionado con los bienes y servicios informáticos;
 
-XII. Elaborar el Plan de Administración de Bienes Inmuebles en el Exterior, y someterlo a aprobación del Titular de la Unidad de Administración y Finanzas; así como llevar a cabo su revisión anual, para que, en su caso, presente a autorización, propuestas para su actualización y acciones de mejora;
+XII. Dirigir, a petición de las unidades administrativas, y órganos administrativos desconcentrados de la Secretaría, y de las representaciones de México en el exterior, las acciones para el registro, afectación, disposición final y baja de los bienes muebles y equipo, tanto en territorio nacional como en el extranjero, de conformidad con las disposiciones jurídicas establecidas al efecto;
 
-XIII. Realizar el aseguramiento de bienes patrimoniales de la Secretaría y de los asignados a las representaciones de México en el exterior, salvo el parque vehicular de estas últimas; así como coordinar las acciones conducentes en los casos de siniestros, y en el caso de que las disposiciones jurídicas aplicables en el extranjero lo establezcan, tramitar la autorización para el aseguramiento de bienes;
+XIII. Proponer a la persona Titular de la Unidad de Administración y Finanzas las normas y políticas internas para el control del parque vehicular de la Secretaría y la asignación de combustible, así como los criterios para la adquisición y el arrendamiento de los vehículos de la Secretaría, incluso los de las representaciones de México en el exterior, de conformidad con las disposiciones aplicables;
 
-XIV. Contratar y coordinar los servicios de mantenimiento, conservación, adaptación y acondicionamiento de los bienes inmuebles que ocupa la Secretaría y proponer al Titular de la Unidad de Administración y Finanzas, los lineamientos y criterios internos para efectuar dichas actividades en los inmuebles ocupados por las representaciones de México en el exterior;
+XIV. Coordinar la asignación y el registro del patrimonio artístico de la Federación que se encuentre bajo resguardo de la Secretaría, incluso los de las representaciones de México en el exterior, así como proponer a su superior jerárquico normas, políticas, lineamientos, procedimientos, manuales, directrices y criterios internos, para el control de dichos bienes;
 
-XV. Elaborar y suscribir, previa verificación legal y normativa de su procedencia, los convenios, contratos y pedidos que la Secretaría deba celebrar con los diversos proveedores, contratistas, prestadores de servicios y arrendadores de bienes muebles e inmuebles; así como calificar las garantías respectivas;
+XV. Representar a la Secretaría y designar a las personas servidoras públicas, para llevar a cabo ante las autoridades municipales, de las entidades federativas y federales, los trámites necesarios para el buen funcionamiento y la adecuada administración de los bienes muebles e inmuebles de la Secretaría;
 
-XVI. Suscribir los contratos de donación en los que la Secretaría funja como donataria, así como bases de colaboración, contratos de comodato y los acuerdos administrativos de traslado de obras artísticas;
+XVI. Coordinar la integración y mantener actualizado el registro del patrimonio inmobiliario asignado a la Secretaría, así como de los inmuebles de que dispone el Estado mexicano en el extranjero y los que pretenda disponer para uso de las representaciones de México en el exterior, e instrumentar las acciones que le corresponden en el ámbito de su competencia, relativas a la política de "techo único";
 
-XVII. Coordinar la verificación para que los contratistas, proveedores y prestadores de servicios presenten y mantengan vigentes las fianzas con que deben contar para asegurar el cumplimiento de sus obligaciones con la Secretaría y, en su caso, tramitar la liberación de las fianzas a los mismos;
+XVII. Coordinar la integración del Plan de Administración de Bienes Inmuebles en el Exterior, para someterlo a aprobación de la persona Titular de la Unidad de Administración y Finanzas, así como dirigir su evaluación anual para que, en su caso, se formulen propuestas de actualización y acciones de mejora;
 
-XVIII. Iniciar y llevar a cabo, a petición de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, los procedimientos de rescisión administrativa por incumplimiento de los contratos y convenios y, en su caso, tramitar ante la Tesorería de la Federación, las garantías que deban hacerse efectivas en los términos de lo dispuesto por la legislación aplicable;
+XVIII. Autorizar la adquisición, arrendamiento, ocupación, aprovechamiento, enajenación, obras públicas y servicios relacionados con las mismas de los inmuebles de que dispone el Estado mexicano en el extranjero y los que pretenda disponer para uso de las representaciones de México en el exterior, previo análisis de las propuestas presentadas por éstas; así como proponer a la persona Titular de la Unidad de Administración y Finanzas, las normas, lineamientos, procedimientos, directrices y criterios para efectuar dichas actividades en los citados inmuebles;
 
-XIX. Asesorar a petición de las unidades administrativas de la Secretaría y de las representaciones de México en el exterior, en lo referente a los trámites de obras públicas y servicios relacionados con las mismas, adquisición y arrendamiento de bienes y contratación de servicios, y a las demás gestiones que realicen en relación con inmuebles, recursos materiales y servicios;
+XIX. Llevar a cabo, conforme a las competencias y necesidades de cada unidad administrativa y a los recursos disponibles, la asignación de bienes de activo fijo y de consumo, la prestación de servicios generales y la distribución y ocupación de los espacios físicos en los inmuebles de los que dispone la Secretaría;
 
-XX. Llevar a cabo, conforme a las necesidades de cada unidad administrativa y a los recursos disponibles, la asignación de bienes de activo fijo y de consumo, la prestación de servicios de su competencia, y la distribución y ocupación de espacios físicos de las mismas en los inmuebles de que dispone la Secretaría;
+XX. Dirigir la operación del servicio de correspondencia y valija diplomática, así como establecer las normas y procedimientos para el oportuno y correcto funcionamiento entre las representaciones de México en el exterior y las unidades administrativas u órganos administrativos desconcentrados de la Secretaría;
 
-XXI. Tramitar, por conducto de la Dirección General de Programación, Organización y Presupuesto, las autorizaciones presupuestarias de inversión, tanto en territorio nacional como en el exterior, excepto de bienes informáticos;
+XXI. Contratar y coordinar los servicios de seguridad del personal y de vigilancia de los bienes muebles e inmuebles de la Secretaría y proponer al superior jerárquico normas, manuales, lineamientos, procedimientos, directrices y criterios en esta materia;
 
-XXII. Proponer al superior jerárquico las normas, manuales, lineamientos, procedimientos, directrices y criterios para el control del inventario de bienes muebles y equipo de que dispone la Secretaría tanto en territorio nacional como en el extranjero;
+XXII. Realizar el aseguramiento de los bienes patrimoniales de la Secretaría y de los asignados a las representaciones de México en el exterior, salvo el parque vehicular de estas últimas; así como coordinar las acciones conducentes en los casos de siniestros;
 
-XXIII. Llevar a cabo, a petición de las unidades administrativas de la Secretaría y de las representaciones de México en el exterior, las acciones para el registro, afectación, disposición final y baja de los bienes muebles y equipo, tanto en territorio nacional como en el extranjero, de conformidad con las disposiciones jurídicas establecidas al efecto;
+XXIII. Contratar y coordinar los servicios de obras públicas y servicios relacionados con las mismas, de los bienes inmuebles que ocupa la Secretaría;
 
-XXIV. Proponer al Titular de la Unidad de Administración y Finanzas las normas y políticas internas para el control de vehículos y la asignación de combustible para el parque vehicular de la Secretaría, con la intervención que corresponda de las unidades administrativas y órganos administrativos desconcentrados correspondientes;
+XXIV. Coordinar el Programa Interno de Protección Civil de la Secretaría y realizar las funciones de la Secretaría Ejecutiva del Comité de la Unidad Interna de Protección Civil;
 
-XXV. Proponer al Titular de la Unidad de Administración y Finanzas, en coordinación con las unidades administrativas y órganos administrativos desconcentrados competentes, las políticas para la conformación del parque vehicular, así como los criterios para la adquisición y el arrendamiento de los vehículos de las representaciones de México en el exterior;
+XXV. Asesorar a petición de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría y de las representaciones de México en el exterior, en lo referente a los trámites de obras públicas y servicios relacionados con las mismas, adquisición y arrendamiento de bienes y contratación de servicios, y a las demás gestiones que realicen en relación con inmuebles, recursos materiales y servicios, y
 
-XXVI. Proveer y contratar en el área metropolitana de la Ciudad de México, la prestación de los servicios generales, tales como: seguridad, limpieza, fotocopiado, reproducción, transporte de personal, mantenimiento, reparación de bienes muebles y equipo, comedores y mantenimiento del parque vehicular, entre otros, y el servicio de carga para las unidades administrativas, órganos administrativos desconcentrados de la Secretaría y de las representaciones de México en el exterior, las contrataciones correspondientes a las Oficinas de Pasaportes de la Secretaría ubicadas fuera de la área metropolitana de la Ciudad de México, quedarán a cargo de la Dirección General de Oficinas de Pasaportes, conforme a las atribuciones que se le confieren en este Reglamento, la cual podrá contar con la asesoría de esta Dirección General;
+XXVI. Ejercer las demás facultades que las disposiciones jurídicas reglamentarias confieran a la Secretaría, cuando éstas sean afines a las señaladas en las fracciones anteriores de este mismo artículo y no correspondan expresamente a otra unidad administrativa, así como realizar las funciones que le encomiende la persona titular de la Secretaría o su superior jerárquico inmediato.
 
-XXVII. Administrar la operación del servicio de carga y valija diplomática y establecer las normas y procedimientos para su oportuno y correcto funcionamiento entre las representaciones de México en el exterior y las unidades administrativas u órganos administrativos desconcentrados de la Secretaría;
+De conformidad con lo dispuesto en el artículo 7 del presente reglamento, la persona titular de la Dirección General de Bienes Inmuebles y Recursos Materiales, para el ejercicio de sus facultades, se puede auxiliar de las personas titulares de las siguientes áreas bajo su adscripción: Coordinación de Adquisiciones, Servicios y Control de Bienes, de la Coordinación de Adquisiciones y Servicios en el Exterior, Inmuebles y Obra Pública, de la Dirección de Control de Bienes, de la Dirección de Patrimonio Artístico y Cultural, de la Dirección de Bienes Inmuebles y Techo Único, de la Dirección de Obra Pública, de la Dirección de Adquisiciones y Servicios en el Exterior, y de la Dirección de Coordinación y Control Presupuestal; así como del demás personal adscrito a la Dirección General de Bienes Inmuebles y Recursos Materiales, de acuerdo con su estructura autorizada y manual de organización.
 
-XXVIII. Asignar, registrar y proponer manuales, lineamientos, procedimientos, directrices y criterios para el control del patrimonio artístico de la Federación que se encuentre bajo resguardo de la Secretaría y de las representaciones de México en el exterior;
-
-XXIX. Autorizar la adquisición, renta, mantenimiento, conservación, remodelación, adaptación y adecuación de los inmuebles, previo análisis de las propuestas presentadas por las representaciones de México en el exterior, e instrumentar las acciones que le corresponden en el ámbito de su competencia, relativas a la política de "techo único";
-
-XXX. Representar a la Secretaría y designar a los servidores públicos, para llevar a cabo ante las autoridades municipales, de las entidades federativas y federales, los trámites necesarios para el buen funcionamiento de los inmuebles de la Secretaría, así como los demás trámites relacionados con la adecuada administración de los recursos materiales a su cargo;
-
-XXXI. Proponer al Titular de la Unidad de Administración y Finanzas la actualización, conforme al marco normativo aplicable, de las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos y servicios y de obras públicas y servicios relacionados con las mismas, someterlas para su autorización a las instancias correspondientes y difundirlas entre los servidores públicos de las unidades administrativas, órganos administrativos desconcentrados y Oficinas de Pasaportes, así como tramitar su difusión en el sitio web de la Secretaría;
-
-XXXII. Coordinar la elaboración, conforme a las necesidades de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, los programas anuales de adquisiciones, arrendamientos y servicios, de obras públicas y servicios relacionados con las mismas, y de arrendamiento de inmuebles;
-
-XXXIII. Suscribir pedidos de la Secretaría hasta por el monto correspondiente que se establezca en el Presupuesto de Egresos de la Federación para invitación a cuando menos tres personas para cada ejercicio fiscal, conforme a las disposiciones jurídicas aplicables en la materia;
-
-XXXIV. Admitir y resguardar las garantías relacionadas con los contratos, pedidos y convenios que celebre la Secretaría, por la adquisición, arrendamientos y servicios y de obras públicas y servicios relacionados con las mismas y aquellas que reciba en el ejercicio de sus facultades, así como presentarlas ante la Tesorería de la Federación para que las haga efectivas y, en su caso, autorizar su liberación cuando proceda, en términos de las disposiciones jurídicas aplicables;
-
-XXXV. Coordinar los servicios de seguridad del personal y de vigilancia de los bienes muebles e inmuebles de la Secretaría, y controlar en estos últimos el acceso y tránsito de personas y bienes;
-
-XXXVI. Proponer al superior jerárquico las normas, manuales, lineamientos, procedimientos, directrices y criterios en materia de seguridad y vigilancia respecto de personas y bienes institucionales;
-
-XXXVII. Coordinar el Programa Interno de Protección Civil de la Secretaría;
-
-XXXVIII. Realizar las funciones de Secretario Ejecutivo del comité de la Unidad Interna de Protección Civil y participar en cualquier otro comité o grupo de trabajo que se establezcan en las materias del ámbito de su competencia, y
-
-XXXIX. Ejercer las demás facultades que las disposiciones jurídicas confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores, así como realizar las funciones que le encomiende el Secretario o su superior jerárquico.
-
-De conformidad con lo dispuesto en el artículo 7 del presente Reglamento, el Director General de Bienes Inmuebles y Recursos Materiales, para el ejercicio de sus facultades, se auxiliará por sus Coordinadores de Adquisiciones, Servicios y Control de Bienes y de Bienes Inmuebles y Administración en el Exterior, del Director de Control de Bienes, del Director de Patrimonio Artístico y Cultural, del Director de Adquisiciones y Servicios en el Exterior, del Director de Bienes Inmuebles en el Exterior y Techo Único, del Director de Mantenimiento y Obras en Inmuebles en el Exterior y por el Director de Coordinación y Control Presupuestal; así como demás personal adscrito a la Dirección General de Bienes Inmuebles y Recursos Materiales, de acuerdo con su estructura autorizada y manual de organización.
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 49.
 
-La Coordinación de Adquisiciones, Servicios y Control de Bienes está a cargo de un Coordinador, quien tiene las facultades siguientes:
+La Coordinación de Adquisiciones, Servicios y Control de Bienes está a cargo de una persona titular de la Coordinación, quien tiene las facultades siguientes:
 
-I. Dirigir y asegurar que los procedimientos de contratación de licitaciones públicas, invitaciones a cuando menos tres personas y adjudicaciones directas relativas a la adquisición de recursos materiales, contratación de servicios y de obra pública, se realicen bajo las mejores condiciones para el Estado, conforme a las disposiciones jurídicas aplicables en la materia; así como realizar actos jurídicos y administrativos inherentes a dichos procedimientos;
+I. Conducir los procedimientos de contratación de licitaciones públicas, invitaciones a cuando menos tres personas y adjudicaciones directas relativos a la adquisición y arrendamiento de bienes muebles, la contratación de servicios, de obra pública y servicios relacionados con las mismas, a efecto de que se realicen bajo las mejores condiciones para el Estado, conforme a las disposiciones jurídicas aplicables en la materia; así como realizar los actos jurídicos y administrativos inherentes a dichos procedimientos;
 
-II. Fungir como Secretario Técnico o Vocal suplente de los órganos colegiados que corresponda y coordinar que las sesiones ordinarias y extraordinarias del Comité de Adquisiciones, Arrendamientos y Servicios de la Secretaría, así como del subcomité de revisión de convocatorias en esa materia, se celebren conforme a las disposiciones jurídicas aplicables;
+II. Integrar y elaborar, conforme a las necesidades de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, el programa anual de adquisiciones, arrendamientos y servicios, incluso los servicios de mantenimientos del equipo adherido a los inmuebles nacionales;
 
-III. Elaborar, conforme a las necesidades de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, los programas anuales de adquisiciones, arrendamientos y servicios; de obras públicas y servicios relacionados con las mismas y de arrendamiento de inmuebles;
+III. Fungir como Secretaría Técnica del Comité de Adquisiciones, Arrendamientos y Servicios de la Secretaría y del Comité de Bienes Muebles, coordinar las sesiones ordinarias y extraordinarias de éstos, y presidir el subcomité revisor de convocatorias en materia de adquisiciones, arrendamientos y servicios, así como el de obras públicas, a efecto de que dichas sesiones se celebren conforme a las disposiciones jurídicas aplicables;
 
-IV. Establecer en coordinación con las autoridades e instancias externas correspondientes la instrumentación y seguimiento del Programa Interno de Protección Civil de la Secretaría, así como evaluar y difundir dicho programa entre el personal de la misma;
+IV. Efectuar los actos jurídicos y administrativos, que determine su superior jerárquico, inherentes a los contratos, convenios y pedidos, de conformidad con las disposiciones jurídicas aplicables en la materia;
 
-V. Autorizar las notas de instrucción presupuestal de las facturas de proveedores y prestadores de servicios, relativos a pedidos y contratos que son de su competencia;
+V. Autorizar los pagos a personas proveedoras y prestadoras de servicios, relativos a pedidos y contratos que son de su competencia;
 
-VI. Planear, dirigir y supervisar los programas y las acciones necesarias para el aprovisionamiento oportuno de los servicios generales que requieren en lo individual, las unidades administrativas y órganos administrativos desconcentrados para su operación sustantiva, y en lo general la Secretaría para el logro de sus objetivos estratégicos;
+VI. Coordinar que las personas proveedoras y prestadoras de servicios presenten y mantengan vigentes las garantías con las que deben contar para asegurar sus obligaciones con la Secretaría, relativos a pedidos y contratos que son de su competencia y, en su caso, tramitar la liberación de las mismas;
 
-VII. Verificar que los contratistas, proveedores y prestadores de servicios presenten y mantengan vigentes las fianzas con que deben contar para asegurar el cumplimiento de sus obligaciones con la Secretaría y, en su caso, tramitar la liberación de las fianzas a los proveedores;
+VII. Coordinar y supervisar la integración y actualización del inventario de bienes muebles y proporcionarlo a las unidades administrativas y a los órganos administrativos desconcentrados de la Secretaría, así como a las representaciones de México en el exterior;
 
-VIII. Proponer a su superior jerárquico las normas y procedimientos que se requieran para el uso y funcionamiento de la valija diplomática en las Oficinas de Pasaportes y las representaciones de México en el exterior de la Secretaría;
+VIII. Supervisar y conducir los procedimientos de asignación, uso y destino final de los bienes muebles de la Secretaría, con base en las disposiciones jurídicas en la materia, así como conciliar contablemente los movimientos de altas, bajas, transferencias y donaciones que se generen;
 
-IX. Vigilar los mecanismos de integración y actualización del inventario de activos fijos proporcionando a las unidades administrativas, órganos administrativos desconcentrados y de las representaciones de México en el exterior, con la finalidad de controlar los bienes inmuebles y mantener actualizado el costo para su integración como Patrimonio Federal a cargo de la Secretaría;
+IX. Coordinar la administración de los bienes muebles y de consumo, a fin de realizar una asignación programada y racional de los mismos al personal de la Secretaría;
 
-X. Supervisar los procedimientos de asignación, uso y destino final, de activos fijos con base en las disposiciones jurídicas en la materia, así como conciliar contablemente los movimientos de altas, bajas, transferencias y donaciones que se generen;
+X. Dirigir la administración y supervisión de los programas, contratos y pedidos correspondientes a los servicios generales en la Secretaría, a los servicios vinculados a la seguridad y vigilancia, protección civil, administración del parque vehicular y combustibles, valija diplomática, mantenimiento del equipo adherido a los inmuebles incluyendo elevadores y seguro de bienes patrimoniales, así como realizar las acciones necesarias para su aprovisionamiento oportuno;
 
-XI. Coordinar la administración de los bienes muebles e inmuebles y la enajenación de bienes muebles, a fin de realizar una asignación programada y racional de los mismos al personal de la Secretaría;
+XI. Administrar la póliza de aseguramiento de los bienes muebles propiedad de la Secretaría y de los bienes inmuebles que ocupa, ambos tanto en territorio nacional como en el exterior, así como efectuar las acciones conducentes en los casos de siniestros de estos bienes y cuando las disposiciones jurídicas aplicables en el extranjero lo establezcan, tramitar la autorización para su aseguramiento. Lo anterior a excepción del aseguramiento de los vehículos que se ubican en las representaciones de México en el exterior;
 
-XII. Efectuar los actos jurídicos y administrativos, que determine su superior jerárquico, inherentes a los contratos, convenios y pedidos, de conformidad con las disposiciones jurídicas aplicables en la materia;
+XII. Vigilar el cumplimiento de las normas y procedimientos que se requieran para el uso y funcionamiento de la valija diplomática en las Oficinas de Pasaportes y en las representaciones de México en el exterior de la Secretaría, supervisar la administración de los contratos correspondientes a dicha materia, así como la prestación del servicio;
 
-XIII. Efectuar las acciones conducentes en los casos de siniestros, y en el caso de que las disposiciones jurídicas aplicables en el extranjero lo establezcan, tramitar la autorización para el aseguramiento de bienes;
+XIII. Proponer a su superior jerárquico las normas y procedimientos que se requieran para el uso y funcionamiento de la valija diplomática en las Oficinas de Pasaportes y las representaciones de México en el exterior de la Secretaría;
 
-XIV. Colaborar con otras dependencias y entidades de la Administración Pública Federal, a fin de tratar asuntos en materia de adquisiciones, servicios y control de bienes que permitan la generación de ahorros para la Secretaría, y
+XIV. Supervisar el funcionamiento y control del almacén de la Secretaría;
 
-XV. Ejercer las demás facultades que las disposiciones jurídicas confieran a la Dirección General de Bienes Inmuebles y Recursos Materiales, que sean afines a las señaladas en las fracciones anteriores, así como realizar las funciones que le encomiende su superior jerárquico.
+XV. Establecer en coordinación con las autoridades e instancias externas correspondientes la instrumentación y seguimiento del Programa Interno de Protección Civil de la Secretaría, así como evaluar y difundir dicho programa entre el personal de la misma;
+
+XVI. Colaborar con otras dependencias y entidades de la Administración Pública Federal, a fin de tratar asuntos en materia de adquisiciones, servicios y control de bienes que permitan la generación de ahorros para la Secretaría;
+
+XVII. Supervisar que el personal adscrito realice el procedimiento correspondiente para la admisión, formalización, registro, asignación y conservación del patrimonio artístico de la Federación que se encuentre bajo resguardo de la Secretaría y de las representaciones de México en el exterior, así como elaborar propuestas de normas, lineamientos, procedimientos, manuales, directrices y criterios, para el control de dichos bienes, y
+
+XVIII. Ejercer las demás facultades que las disposiciones jurídicas reglamentarias confieran a la Dirección General de Bienes Inmuebles y Recursos Materiales y que dichas facultades sean afines a las señaladas en las fracciones anteriores de este artículo y en términos de este reglamento no correspondan expresamente a otra unidad administrativa de la Secretaría, así como realizar las funciones que le encomiende su superior jerárquico.
+
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 50.
 
-La Coordinación de Bienes Inmuebles y Administración en el Exterior está a cargo de un Coordinador, quien tiene las facultades siguientes:
+La Coordinación de Adquisiciones y Servicios en el Exterior, Inmuebles y Obra Pública está a cargo de una persona titular de la Coordinación, quien tiene las facultades siguientes:
 
-I. Coordinar las acciones que le corresponden en el exterior con relación al anteproyecto de presupuesto anual que realizan las representaciones de México en el exterior, lo cual incluye la validación y, en su caso, aprobación de los requerimientos que sean previstos en los anteproyectos de presupuesto de cada representación de México en el exterior, para los conceptos de arrendamientos de los bienes inmuebles, mantenimiento, reparación y remodelación de bienes inmuebles, así como todos los servicios requeridos, a fin de que el presupuesto sea asignado y radicado por la Dirección General de Programación, Organización y Presupuesto en el tiempo oportuno;
+I. Tramitar la validación y, en su caso, aprobación de los requerimientos que sean previstos en los anteproyectos de presupuesto de cada representación de México en el exterior y lo correspondiente a sus adquisiciones y servicios, del arrendamiento de los bienes inmuebles, y de su reparación, remodelación y mantenimiento;
 
-II. Vigilar el cumplimiento de las disposiciones que se emitan para la construcción, adquisición, arrendamiento, ocupación, aprovechamiento y enajenación de los inmuebles de que dispone el Estado Mexicano en el extranjero y los que pretenda disponer para uso de las representaciones de México en el exterior;
+II. Tramitar y registrar los programas y proyectos de inversión correspondientes a obra pública y de adquisiciones de bienes muebles y contratación de servicios que requieran las representaciones de México en el exterior, relativos a partidas de las cuales funjan como unidad normativa de gasto, por conducto de la Dirección General de Programación, Organización y Presupuesto;
 
-III. Fungir como Secretario Técnico o Vocal suplente de los órganos colegiados que corresponda y coordinar que las sesiones ordinarias y extraordinarias del Comité de Obras Públicas y Servicios Relacionados con las Mismas de la Secretaría, así como del subcomité de revisión de convocatorias en esa materia, se celebren conforme a las disposiciones jurídicas aplicables;
+III. Elaborar y someter a consideración de su superior jerárquico los dictámenes de procedencia y los acuerdos de autorización para la adquisición y arrendamiento de inmuebles, trabajos de obra pública, mantenimiento a excepción del correspondiente al equipamiento adherido a los inmuebles, así como los relativos a la contratación de servicios y adquisiciones solicitadas por las representaciones de México en el exterior, una vez cumplidos los requisitos y la documentación necesaria, de conformidad con las disposiciones jurídicas aplicables, así como asesorar a las mismas en la planeación, programación y ejecución de sus requerimientos en estas materias;
 
-IV. Vigilar el registro de los programas y proyectos de inversión correspondientes a obra pública, y de adquisiciones de bienes muebles y contratación de servicios en el exterior, relativos a partidas de las cuales funjan como unidad normativa de gasto, en coordinación con la Dirección General de Programación, Organización y Presupuesto;
+IV. Coordinar la aplicación de las políticas, normas y criterios en materia de “techo único", y solicitar la elaboración de los convenios específicos y modificatorios y su suscripción, según sea el caso, y remitirlos a la Dirección General de Programación, Organización y Presupuesto, para el seguimiento al proceso anual de cobro de montos por concepto de "techo único" de conformidad con las disposiciones jurídicas aplicables;
 
-V. Emitir opinión a las unidades administrativas en las representaciones de México en el exterior en la planeación de programación de acciones de construcción, adaptación, modificación, acondicionamiento y mantenimiento de los muebles que ocupan, a fin de optimizar el uso de los recursos asignados para dichos conceptos y que se realicen de forma transparente;
+V. Fungir como área requirente en los procedimientos de contratación de licitaciones públicas, invitaciones a cuando menos tres personas y adjudicaciones directas relativos a la obra pública y servicios relacionados con las mismas, a efecto de que se realicen bajo las mejores condiciones para el Estado, conforme a las disposiciones jurídicas aplicables en la materia;
 
-VI. Coordinar con las unidades administrativas competentes, las acciones relativas a la autorización para la formalización de los contratos de arrendamiento de inmuebles que ocupan las representaciones de México en el exterior de la Secretaría en el extranjero, así como dictar los criterios y lineamientos para la formalización de estos y supervisar su cumplimiento;
+VI. Integrar y elaborar los programas anuales de obra pública, de servicios relacionados con las mismas y de arrendamiento de inmuebles, conforme a las necesidades de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría;
 
-VII. Coordinar y supervisar la tramitación del registro de inmuebles propiedad del Gobierno Federal administrados por la Secretaría, en el exterior y en el catastro del patrimonio inmobiliario federal, así como supervisar y controlar el sistema de información y la integración de los bienes inmuebles que ocupa la Secretaría en el territorio nacional y en el extranjero;
+VII. Fungir como Secretaría Técnica o vocal suplente en los órganos colegiados que corresponda y coordinar las sesiones ordinarias y extraordinarias del Comité Interno de Sistemas de Manejo Ambiental, del Comité de Obras Públicas y Servicios Relacionados con las Mismas de la Secretaría y del subcomité de revisión de convocatorias en esa materia; así como procurar que las sesiones señaladas se celebren conforme a las disposiciones jurídicas aplicables;
 
-VIII. Coordinar la integración de la información requerida por las dependencias globalizadoras y por los órganos fiscalizadores respecto a los avances físicos y financieros de los proyectos de inversión para la obra pública que realice la Secretaría, con la finalidad de asegurar la transparencia y ejecución de los proyectos e inversiones realizadas por la dependencia conforme a las disposiciones jurídicas aplicables;
+VIII. Coordinar y supervisar el registro y los sistemas de información de los inmuebles asignados a la Secretaría, así como de los inmuebles de que dispone el Estado mexicano en el extranjero y los que pretenda disponer para uso de las representaciones de México en el exterior, con la finalidad de controlar los bienes inmuebles y mantener actualizado el patrimonio inmobiliario federal de la Secretaría;
 
-IX. Vigilar la aplicación de las políticas, normas y criterios en materia de "Techo Único" que establezca el Titular de la Unidad de Administración y Finanzas en las representaciones de México en el exterior;
+IX. Coordinar, junto con las unidades administrativas competentes, las acciones relativas a la autorización para la formalización de los contratos de arrendamiento de inmuebles de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, incluso los de las representaciones de México en el exterior, así como proponer los criterios y lineamientos para la autorización a la formalización de los contratos referidos y para supervisar el cumplimiento de los mismos;
 
-X. Elaborar y someter a consideración de su superior jerárquico los dictámenes de procedencia de arrendamientos, contrataciones o adquisiciones solicitados por las representaciones de México en el exterior, una vez cumplidos los requisitos y la documentación necesaria, de conformidad con las disposiciones jurídicas aplicables;
+X. Supervisar que las personas contratistas y prestadoras de servicios presenten y mantengan vigentes las garantías con las cuales deben contar para asegurar sus obligaciones con la Secretaría, relativos a pedidos y contratos que son de su competencia y, en su caso, tramitar la liberación de las referidas garantías;
 
-XI. Coordinar la elaboración de los convenios específicos y modificatorios y su suscripción, según sea el caso, y remitirlos a la Dirección General de Programación, Organización y Presupuesto, para el seguimiento al proceso anual de cobro de montos por concepto de "Techo Único" de conformidad con las disposiciones jurídicas aplicables, y
+XI. Autorizar los pagos a personas contratistas y prestadoras de servicios, relativos a pedidos y contratos que son de su competencia;
 
-XII. Ejercer las demás facultades que las disposiciones jurídicas confieran a la Dirección General de Bienes Inmuebles y Recursos Materiales, que sean afines a las señaladas en las fracciones anteriores, así como realizar las funciones que le encomiende su superior jerárquico.
+XII. Auxiliar a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, incluso a las representaciones de México en el exterior, en la vigilancia del cumplimiento de las disposiciones aplicables para la construcción, adquisición, arrendamiento, ocupación, aprovechamiento y enajenación de los inmuebles ubicados en el extranjero propiedad de la Secretaría y de aquéllos que dispone el Estado mexicano en el extranjero y de los que pretenda disponer para uso de las representaciones de México en el exterior;
+
+XIII. Coordinar la integración de la información requerida por las dependencias competentes de la Administración Pública Federal y por los órganos fiscalizadores respecto a los avances físicos y financieros de los proyectos de inversión para la obra pública que realice la Secretaría, con la finalidad de asegurar la transparencia y ejecución de los proyectos e inversiones realizadas por la dependencia conforme a las disposiciones jurídicas aplicables, y
+
+XIV. Ejercer las demás facultades que las disposiciones jurídicas reglamentarias confieran a la Dirección General de Bienes Inmuebles y Recursos Materiales y que dichas facultades sean afines a las señaladas en las fracciones anteriores de este artículo y en términos de este reglamento no correspondan expresamente a otra unidad administrativa de la Secretaría, así como realizar las funciones que le encomiende su superior jerárquico.
 
 ###### ARTÍCULO 51.
 
@@ -2233,9 +2361,11 @@ VII. Expedir copias certificadas de los documentos y constancias que obren en su
 
 VIII. Ejercer las demás facultades que le confieran los tratados y acuerdos internacionales en materia de límites y aguas internacionales, así como realizar las funciones que le encomiende el Secretario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 58.
 
-La Sección Mexicana de la Comisión Internacional de Límites y Aguas entre México y Estados Unidos de América, está a cargo de un Comisionado Ingeniero, quien tiene las facultades siguientes, sin menoscabo de las que como parte de un organismo internacional le confieren los tratados internacionales de límites y aguas vigentes entre ambos países:
+La Sección Mexicana de la Comisión Internacional de Límites y Aguas entre México y Estados Unidos, está a cargo de una persona titular a la que se le denomina Comisionada Ingeniera, quien tiene las facultades siguientes, sin menoscabo de las que como parte de un organismo internacional le confieren los tratados internacionales de límites y aguas vigentes entre ambos países:
 
 I. Acatar las políticas públicas internacionales que al efecto dicte la Secretaría;
 
@@ -2259,9 +2389,11 @@ X. Ejecutar y supervisar las resoluciones de la Comisión Internacional de Lími
 
 XI. Establecer los mecanismos de coordinación con las autoridades competentes para la debida atención de las disposiciones establecidas en los tratados internacionales vigentes en materia de aguas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 59.
 
-La Sección Mexicana de las Comisiones Internacionales de Límites y Aguas entre México y Guatemala, y entre México y Belice está a cargo de un Comisionado Ingeniero, quien tiene las facultades siguientes:
+La Sección Mexicana de las Comisiones Internacionales de Límites y Aguas entre México y Guatemala, y entre México y Belize está a cargo de una persona titular a la que se le denomina Comisionada Ingeniera, quien tiene las facultades siguientes:
 
 I. Asegurar el cumplimento de los tratados internacionales celebrados por México relacionados con los límites internacionales y aguas transfronterizas;
 
@@ -2393,7 +2525,9 @@ XVI. Certificar las copias de los documentos y constancias materia de su compete
 
 XVII. Ejercer las demás facultades que las disposiciones jurídicas confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores, así como realizar las funciones que le encomiende el Secretario o su superior jerárquico.
 
-De conformidad con lo dispuesto en el artículo 7 del Reglamento, el Director del Instituto de los Mexicanos en el Exterior, para el ejercicio de sus facultades, se auxiliará del Director Ejecutivo "A", del Director de Vinculación Global y del Director de Educación, Salud y Desarrollo Económico; así como demás personal adscrito al Instituto de los Mexicanos en el Exterior, de conformidad con su estructura autorizada y manual de organización.
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+De conformidad con lo dispuesto en el artículo 7 de este reglamento, la persona titular de la Dirección del Instituto de los Mexicanos en el Exterior, para el ejercicio de sus facultades, se puede auxiliar de las personas titulares de las siguientes áreas que están bajo su adscripción: De la Dirección Ejecutiva "A", de la Dirección de Vinculación Global, de la Dirección de Salud para las Comunidades Mexicanas en el Exterior, y de la Dirección de Educación para las Comunidades Mexicanas en el Exterior; así como del demás personal adscrito al Instituto de los Mexicanos en el Exterior, de conformidad con su estructura autorizada y manual de organización.
 
 Asimismo, el Director del Instituto de los Mexicanos en el Exterior se auxiliará del Director Ejecutivo "B", posición que será ocupada exclusivamente por un miembro del Servicio Exterior Mexicano de Carrera, y cuya remuneración se regirá conforme a las disposiciones jurídicas aplicables al Servicio Exterior Mexicano.
 
@@ -2447,7 +2581,9 @@ V. Dirección General de Ejecución de Proyectos Especiales de Cooperación Inte
 
 Las Direcciones Generales de la Agencia Mexicana de Cooperación Internacional para el Desarrollo, podrán auxiliarse de los directores de área, subdirectores, jefes de departamento y enlaces, así como demás personal que se requiera en virtud de las necesidades de servicio, siempre y cuando se cuente con la autorización presupuestal y organizacional, de conformidad con las disposiciones jurídicas aplicables.
 
-La Agencia Mexicana de Cooperación Internacional para el Desarrollo contará con una Dirección Administrativa, con el objeto de atender las necesidades de recursos presupuestales, humanos y materiales de las unidades administrativas de su adscripción; además, se auxiliará de la Dirección Jurídica de Cooperación Internacional para el Desarrollo para atender las necesidades jurídicas de la Agencia y de la Dirección de Divulgación para la difusión de las acciones en materia de cooperación.
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+La Agencia Mexicana de Cooperación Internacional para el Desarrollo cuenta además con una dirección administrativa, quien funge como enlace con las unidades administrativas de la Unidad de Administración y Finanzas en materia de programación, organización y presupuesto, de recursos humanos, materiales y tecnologías de la información, para atender las necesidades que en esas materias requieren las unidades administrativas de su adscripción; también puede auxiliarse de la Dirección Jurídica de Cooperación Internacional para el Desarrollo para atender las necesidades jurídicas de la Agencia y de la Dirección de Divulgación para la difusión de las acciones en materia de cooperación.
 
 Asimismo, el Titular de la Agencia se auxiliará del Coordinador de Proyección de Cooperación Internacional, posición que será ocupada exclusivamente por un miembro del Servicio Exterior Mexicano de Carrera, y cuya remuneración se regirá conforme a las disposiciones jurídicas aplicables al Servicio Exterior Mexicano.
 
@@ -2535,7 +2671,9 @@ II. Coadyuvar con la Dirección Ejecutiva, en la definición de esquemas de coop
 
 III. Apoyar a la Dirección Ejecutiva de la Agencia Mexicana de Cooperación Internacional para el Desarrollo, en coordinación con las unidades administrativas y órganos administrativos desconcentrados competentes de la Secretaría, en la identificación de opciones de cooperación internacional y en la vinculación con otros actores de la cooperación;
 
-IV. Proponer la participación de la Agencia Mexicana de Cooperación Internacional para el Desarrollo en los foros de cooperación internacional, en coordinación con las dependencias y entidades de la Administración Pública Federal, en el ámbito de su competencia, para la cooperación internacional para el desarrollo;
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Proponer la participación de la Agencia Mexicana de Cooperación Internacional para el Desarrollo en los foros de cooperación internacional, en coordinación con las dependencias y entidades de la Administración Pública Federal, estatal y municipal, en el ámbito de su competencia, para la cooperación internacional para el desarrollo;
 
 V. Promover a la integración en temas de cooperación internacional para el desarrollo con los países socios de México, mediante el desarrollo de acciones, proyectos y programas de cooperación;
 
@@ -2553,7 +2691,9 @@ XI. Coordinar las gestiones de recepción y envío de ayuda humanitaria en casos
 
 XII. Proponer a la Dirección Ejecutiva de la Agencia Mexicana de Cooperación Internacional para el Desarrollo, la agenda de temas de las sesiones del Consejo Consultivo;
 
-XIII. Proponer a la Dirección Ejecutiva de la Agencia Mexicana de Cooperación Internacional para el Desarrollo, la constitución de Consejos Técnicos para el tratamiento de temas específicos de cooperación internacional, con la participación de los especialistas de las dependencias y entidades de la Administración Pública Federal, así como a los representantes de las unidades administrativas de la Agencia Mexicana de Cooperación Internacional para el Desarrollo;
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+XIII. Proponer a la Dirección Ejecutiva de la Agencia Mexicana de Cooperación Internacional para el Desarrollo, la constitución de consejos técnicos para el tratamiento de temas específicos de cooperación internacional, con la participación de los especialistas de las dependencias y entidades de la Administración Pública Federal, estatal y municipal, así como a los representantes de las unidades administrativas de la Agencia Mexicana de Cooperación Internacional para el Desarrollo;
 
 XIV. Participar en el ámbito de su competencia en la integración del proyecto de Programa de Cooperación Internacional para el Desarrollo, que se presenta al Consejo Consultivo de la Agencia Mexicana de Cooperación Internacional para el Desarrollo;
 
@@ -2801,35 +2941,41 @@ VI. Representar, por instrucciones de su superior jerárquico, en las reuniones 
 
 VII. Ejercer las demás facultades que las disposiciones jurídicas aplicables confieren a la Secretaría, que sean afines a las señaladas en el presente artículo, así como realizar las funciones que le encomiende el Secretario.
 
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 73.
 
-A las Oficinas de Pasaportes de la Secretaría, localizadas fuera de la Ciudad de México, además de las facultades señaladas en el artículo anterior, tienen las siguientes:
+A las Oficinas de Pasaportes de la Secretaría, localizadas fuera de Ciudad de México, además de las atribuciones señaladas en el artículo anterior, tienen las siguientes:
 
 I. Expedir las constancias, con las modalidades, condiciones y excepciones que fije la Dirección General de Asuntos Jurídicos de la propia Secretaría para:
 
 a) La adquisición de bienes inmuebles fuera de zona restringida por parte de personas físicas y morales extranjeras;
 
-b) La obtención de concesiones para la exploración y explotación de minas y aguas en la República Mexicana, a personas físicas o morales extranjeras, y
+b) La obtención de concesiones para la exploración y explotación de minas y aguas en la República Mexicana, a personas físicas o morales extranjeras, e
 
 c) Coadyuvar en la recepción del aviso de adquisición de inmuebles por sociedades mexicanas con cláusula de admisión de extranjeros en la zona restringida que se destinen a un fin no residencial, a que se refiere la Ley de Inversión Extranjera;
 
 II. Coadyuvar en la recepción de solicitudes de extranjeros que deseen obtener la nacionalidad mexicana por la vía de la naturalización y darlos de alta en el sistema electrónico que determine la Dirección General de Asuntos Jurídicos;
 
-III. Coadyuvar en la recepción de solicitudes de declaratorias de nacionalidad mexicana por nacimiento y certificados de nacionalidad mexicana, con las modalidades, condiciones y excepciones que fije la Dirección General de Asuntos Jurídicos;
+III. Coadyuvar en la recepción de solicitudes de declaratorias de nacionalidad mexicana por nacimiento, certificados de nacionalidad mexicana y constancias de renuncia a la nacionalidad mexicana, con las modalidades, condiciones y excepciones que fije la Dirección General de Asuntos Jurídicos;
 
-IV. Intervenir de acuerdo a las instrucciones que reciban de la Dirección General de Asuntos Jurídicos, en los procedimientos y juicios en que la Secretaría sea parte, así como en materia de pensiones alimenticias, adopciones y restitución de menores en los términos que establezca la Dirección General de Protección Consular y Planeación Estratégica;
+IV. Coadyuvar en la recepción de solicitudes de copias certificadas de documentos de nacionalidad mexicana por nacimiento o por naturalización y constancias de no antecedentes de naturalización, así como su entrega;
 
-V. Tramitar, previo dictamen de procedencia, las comisiones rogatorias que reciban de las autoridades locales para su diligenciación por las oficinas consulares mexicanas;
+V. Coadyuvar en la recepción, notificación, realización de diligencias y entrega de documentos relativos a los procedimientos de pérdida de la nacionalidad mexicana por naturalización, de nulidad de la carta de naturalización y de imposición de sanciones administrativas;
 
-VI. Coadyuvar en la atención de los casos de protección a connacionales en el extranjero que encomiende la Dirección General de Protección Consular y Planeación Estratégica o, en su caso, las representaciones de México en el exterior, así como los que se presenten en la propia Oficina de Pasaportes;
+VI. Intervenir de acuerdo a las instrucciones que reciban de la Dirección General de Asuntos Jurídicos, en los procedimientos y juicios en que la Secretaría sea parte, así como en materia de pensiones alimenticias, adopciones y restitución de menores en los términos que establezca la Dirección General de Protección Consular y Planeación Estratégica;
 
-VII. Apoyar, de conformidad con lo dispuesto en el artículo 54, fracción XIII, de este Reglamento, la realización en el interior del país de reuniones mixtas de cooperación económica, comercial, cultural, educativa, técnica y científica que el Gobierno Federal promueve, coordina o mantiene con o hacia el extranjero, en coordinación con las unidades administrativas y órganos administrativos desconcentrados competentes;
+VII. Tramitar, previo dictamen de procedencia, las comisiones rogatorias que reciban de las autoridades locales para su diligenciación por las oficinas consulares mexicanas, excepto aquéllas que estén fundamentadas en algún instrumento internacional en que la Dirección General de Asuntos Jurídicos sea autoridad central, en cuyo caso se deben canalizar dichas comisiones rogatorias a esa unidad administrativa, para su dictamen y trámite respectivo;
 
-VIII. Difundir y promover entre las instituciones de educación superior públicas y privadas, los programas de cooperación cultural, educativa, técnica y científica, especialmente los aspectos relacionados con las becas que ofrecen los gobiernos extranjeros y las oportunidades de cooperación que se presentan en el exterior;
+VIII. Coadyuvar en la atención de los casos de protección a connacionales en el extranjero que encomiende la Dirección General de Protección Consular y Planeación Estratégica o, en su caso, las representaciones de México en el exterior, así como los que se presenten en la propia Oficina de Pasaportes;
 
-IX. Coadyuvar en la elaboración de presupuestos de operación con las unidades administrativas competentes, así como rendir informes a la Dirección General de Oficinas de Pasaportes y a las unidades administrativas que correspondan, según su competencia, y
+IX. Apoyar, de conformidad con lo dispuesto en el artículo 54, fracción XIII, de este Reglamento, la realización en el interior del país de reuniones mixtas de cooperación económica, comercial, cultural, educativa, técnica y científica que el gobierno federal promueve, coordina o mantiene con o hacia el extranjero, en coordinación con las unidades administrativas y órganos administrativos desconcentrados competentes;
 
-X. Ejercer las demás facultades que las disposiciones legales confieren a la Secretaría, que sean afines a las señaladas en las fracciones anteriores, así como las funciones que les encomiende el Secretario.
+X. Difundir y promover entre las instituciones de educación superior públicas y privadas, los programas de cooperación cultural, educativa, técnica y científica, especialmente los aspectos relacionados con las becas que ofrecen los gobiernos extranjeros y las oportunidades de cooperación que se presentan en el exterior;
+
+XI. Coadyuvar en la elaboración de presupuestos de operación con las unidades administrativas competentes, así como rendir informes a la Dirección General de Oficinas de Pasaportes y a las unidades administrativas que correspondan, según su competencia, y
+
+XII. Ejercer las demás atribuciones que las disposiciones legales confieren a la Secretaría y que éstas sean afines a las señaladas en las fracciones anteriores de este mismo artículo y no correspondan expresamente a otra unidad administrativa, así como las funciones que les encomiende la persona titular de la Secretaría.
 
 ### CAPÍTULO XIII. Del Órgano Interno de Control
 
@@ -2853,9 +2999,11 @@ El Secretario será suplido en sus ausencias por el Subsecretario de Relaciones 
 
 Las ausencias de los Subsecretarios serán suplidas por los titulares de las unidades administrativas que les sean adscritas, en el ámbito de sus respectivas competencias o, en su caso, por el servidor público que estos designen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 77.
 
-El Jefe de Unidad para América del Norte; de Diplomacia Cultural y Turística, así como el Director Ejecutivo de Estrategia y Diplomacia Pública, serán suplidos por los titulares de las unidades administrativas que les sean adscritas, en el ámbito de sus competencias o, en su caso, por el servidor público que estos designen, respectivamente.
+Las personas titulares de la Jefatura de Unidad para América del Norte; de la Dirección Ejecutiva de Diplomacia Cultural y Turística, así como de la Dirección Ejecutiva de Estrategia y Diplomacia Pública, serán suplidas por las personas titulares de las unidades administrativas que les sean adscritas, en el ámbito de sus competencias o, en su caso, por la persona servidora pública que ésta designen, respectivamente.
 
 Las ausencias del Titular de la Unidad de Administración y Finanzas serán suplidas por los titulares de las unidades administrativas que les sean adscritas, en el ámbito de sus respectivas competencias o, en su caso, por el servidor público que este designe.
 
@@ -2863,13 +3011,25 @@ El Consultor Jurídico será suplido en sus ausencias por los Consultores Juríd
 
 El Director Ejecutivo de la Agencia Mexicana de Cooperación Internacional para el Desarrollo será suplido en sus ausencias por los titulares de las unidades administrativas que les sean adscritas, en el ámbito de sus respectivas competencias o, en su caso, por el servidor público que este designe.
 
-El Director del Instituto de los Mexicanos en el Exterior será suplido en sus ausencias por el Director Ejecutivo de ese Instituto. En caso de ausencia del Director y del Director Ejecutivo, el primero será suplido por el servidor público que este designe.
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
-El Director del Instituto Matías Romero será suplido en sus ausencias por los Coordinadores o Directores de Área que le sean adscritos, en el ámbito de su competencia o, en su caso, por el servidor público que este designe.
+La persona titular de la Dirección del Instituto de los Mexicanos en el Exterior será suplida en sus ausencias por cualquiera de las personas titulares de las direcciones ejecutivas de ese Instituto o, en su caso, por la persona servidora pública que ésta designe.
 
-Las ausencias de los titulares de las demás unidades administrativas previstas en el artículo 6 del Reglamento, serán suplidos por el Coordinador o el Director de Área que estos designen; y las ausencias de los Coordinadores, Directores de Área y Subdirectores serán suplidas por el servidor público que designe el titular de la unidad administrativa de que se trate o por el servidor público que lo supla.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
 
-En los demás casos, en que por alguna razón no exista titular de las unidades administrativas u órganos administrativos desconcentrados, quedará encargado del despacho provisionalmente el Coordinador o el Director de Área que designe el superior jerárquico.
+Las ausencias de las personas titulares de las direcciones ejecutivas, serán suplidas por las personas titulares de las direcciones de área que le sean adscritas, en el ámbito de sus respectivas competencias o, en su caso, por el servidor público designado; en cualquiera de los casos, las designaciones serán realizadas por la persona titular de la Dirección del Instituto de los Mexicanos en el Exterior.
+
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+La persona titular de la Dirección General del Instituto Matías Romero será suplida en sus ausencias por las personas titulares de las coordinaciones o de las direcciones de área que le sean adscritas, en el ámbito de su competencia o, en su caso, por la persona servidora pública que ésta designe.
+
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+Las ausencias de las personas titulares de las demás unidades administrativas previstas en el artículo 6 de este reglamento, serán suplidas por la persona titular de la coordinación o de la dirección de área que le sean adscritas en el ámbito de su competencia o, en su caso, por la persona servidora pública que aquéllas designen; y las ausencias de las personas titulares de las coordinaciones, direcciones de área, subdirecciones y jefaturas de departamento, serán suplidas por la persona servidora pública que designe la persona titular de la unidad administrativa de que se trate o por la persona servidora pública que la supla.
+
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2023)</small>
+
+En los demás casos, en que por alguna razón no exista persona titular a cargo de una unidad administrativa u órgano administrativo desconcentrado, el encargo del despacho de los mismos, quedará provisionalmente en la persona servidora pública que tenga el nivel inmediato inferior al del titular de que se trate y que designe el superior jerárquico de la unidad administrativa u órgano administrativo desconcentrado en vacancia. Asimismo, en el caso de coordinaciones, direcciones de área, subdirecciones y de jefaturas de departamento, las vacancias de éstas serán suplidas por la persona servidora pública que designe la persona titular de la unidad administrativa u órgano administrativo desconcentrado a la que está adscrita.
 
 ###### ARTÍCULO 78.
 
@@ -2930,3 +3090,15 @@ QUINTO. Las erogaciones que se generen con la entrada en vigor del presente Regl
 SEXTO. Cuando, en términos del último párrafo del artículo 74 de este Reglamento, el auxilio que proporcione la Secretaría de Relaciones Exteriores al Órgano Interno de Control de la Secretaría de la Función Pública, involucre recursos presupuestarios, dicho apoyo se efectuará conforme a los criterios que determine la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, observando lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación de fecha 30 de noviembre de 2018.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 9 de junio de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Relaciones Exteriores, Marcelo Luis Ebrard Casaubon.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 21 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIO DE LA SECRETARÍA DE RELACIONES EXTERIORES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO.- Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado de la Secretaría de Relaciones Exteriores, mediante movimientos compensados, por lo que no se incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el presente ejercicio fiscal y los subsecuentes.
