@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-agricola-sustentable-para-el-estado-de-51379"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2023-08-18"
+last_updated: "2023-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY DE DESARROLLO AGRICOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE SEPTIEMBRE DE 2023 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE SEPTIEMBRE DE 2023.]</small>
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -429,9 +429,9 @@ VII BIS.- Las medidas de adaptación al cambio climático del sector agrícola;
 
 VIII.- Un mecanismo que permita atender las contingencias que se presenten por el abatimiento de la producción planeada, así como, la atención de siniestros naturales, y la prevención de los efectos del cambio climático sobre el sector, que impidan al productor rural recuperar la inversión realizada;
 
-> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2023)</small>
+(ADICIONADA, P.O. 18 DE AGOSTO DE 2023) (F. DE E., P.O. 22 DE SEPTIEMBRE DE 2023)
 
-XI (SIC).- El fomento y promoción de acciones que incentiven la agricultura familiar, así como todas las medidas que se consideren necesarias para sentar las bases del desarrollo agrícola sustentable del Estado de Hidalgo; y
+IX.- El fomento y promoción de acciones que incentiven la agricultura familiar, así como todas las medidas que se consideren necesarias para sentar las bases del desarrollo agrícola sustentable del Estado de Hidalgo; y
 
 X.- Todas las medidas que se consideren necesarias para sentar las bases del desarrollo agrícola sustentable del Estado de Hidalgo.
 
