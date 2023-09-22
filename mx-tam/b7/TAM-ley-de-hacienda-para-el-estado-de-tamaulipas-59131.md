@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2023-01-10"
+last_updated: "2023-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -1553,9 +1553,9 @@ VIII. Emisión de dictamen de paternidad o prueba para determinación de perfile
 
 Los derechos por actas del Registro Civil se causarán conforme a la siguiente tarifa:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
-I.- INSCRIPCIONES:
+I.- INSCRIPCIONES.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
@@ -1563,13 +1563,13 @@ I.- INSCRIPCIONES:
 
 El trámite de Reposición de Acta, que corresponde a incorporar un Registro de cualquiera de los Actos Registrales, en los libros y Sistema del Registro Civil, tendrá un costo de dos veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
-2. Inscripción de actas de matrimonio, diez veces el valor diario de la Unidad de Medida y Actualización, cuando se celebre en la oficialía; y cuarenta veces el valor diario de la Unidad de Medida y Actualización, cuando éste sea celebrado fuera de la sede de la oficialía, así como en día u hora inhábil; e
+2.- Inscripción de actas de matrimonio, diez veces el valor diario de la Unidad de Medida y Actualización, cuando se celebre en la oficialía; y cuarenta veces el valor diario de la Unidad de Medida y Actualización, cuando éste sea celebrado fuera de la sede de la oficialía, así como en día u hora inhábil;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
-3. Inscripción de sentencias de divorcio:
+3.- Inscripción de sentencias de divorcio;
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -1583,9 +1583,13 @@ b).- Expedidas en el extranjero, diez veces el valor diario de la Unidad de Medi
 
 c).- Por el registro de divorcio tramitado en sede Notarial, ocho veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
-4.- El registro de actos celebrados en el extranjero causarán una cuota igual al importe de diez veces el valor diario de la Unidad de Medida y Actualización;
+4.- Inscripción de constancias de concubinato, dos veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 22 DE SEPTEMBRE DE 2023)</small>
+
+5.- El registro de actos celebrados en el extranjero causarán una cuota igual al importe de diez veces el valor diario de la Unidad de Medida y Actualización.
 
 II. REGULARIZACIONES Y CANCELACIONES.
 
@@ -1593,13 +1597,17 @@ II. REGULARIZACIONES Y CANCELACIONES.
 
 a).- La inscripción de las resoluciones judiciales de cancelación o rectificación de actas del estado civil causarán la cuota igual al importe de dos veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
-b).- La corrección de errores en inscripciones causará la cuota igual al importe de tres veces el valor diario de la Unidad de Medida y Actualización, y;
+b).- La corrección de errores en inscripciones causará la cuota igual al importe de tres veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
-c).- Por la anotación del cambio de régimen patrimonial del matrimonio, efectuado por la vía judicial o ante Notario Público, diez veces el valor diario de la Unidad de Medida y Actualización.
+c).- Por la anotación del cambio de régimen patrimonial del matrimonio, efectuado por la vía judicial o ante Notario Público, diez veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
+
+d).- Por la cancelación de constancia de concubinato el importe a una vez el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -4246,3 +4254,11 @@ P.O. 10 DE ENERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-629 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS; DE LA LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE CONCUBINATO Y FUNCIONES DEL REGISTRO CIVIL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
