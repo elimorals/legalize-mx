@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-etica-de-los-servidores-publicos-de-la-147891"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-02-19"
-last_updated: "2021-02-19"
+last_updated: "2023-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=147891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA DEL PODER EJECUTIVO DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO ADMINISTRATIVO POR EL QUE SE EMITE EL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 22 DE SEPTIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA DEL PODER EJECUTIVO DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2023 (ABROGADO).
 
 Código publicado en el Número 21 del Periódico Oficial del Estado de Nuevo León, el viernes 19 de febrero de 2021.
 
@@ -464,3 +466,19 @@ Así lo acuerda y firma a los 09-nueve días del mes de febrero de 2021-dos mil 
 LA C. CONTRALORA GENERAL DE LA CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL
 
 LIC. MARÍA DE LOURDES WILLIAMS COUTTOLENC
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO ADMINISTRATIVO POR EL QUE SE EMITE EL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO. El presente Acuerdo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Acuerdo Administrativo por el que se emite el Código de Ética de los servidores públicos de la Administración Pública del Poder Ejecutivo del Estado de Nuevo León, publicado en el Periódico Oficial del Estado el día 19 de febrero de 2021.
+
+TERCERO. Las dependencias y entidades de la administración pública estatal, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Código, deberán publicar el Código de Conducta, conforme a lo establecido en el presente Código de ética.
+
+CUARTO. Las dependencias y entidades de la administración pública estatal, deberán continuar con el funcionamiento y operación de los Comités de Ética y de Prevención de Conflictos de Interés, y en la siguiente sesión de acuerdo a su calendarización, deberán designar a los nuevos integrantes para constituir el Comité conforme a lo establecido en el presente Código.
+
+QUINTO. La Contraloría y Transparencia Gubernamental, comunicará a las dependencias y entidades de la administración pública estatal, la fecha y las directrices relativas al inicio del funcionamiento del Sistema CEPCI, a través del cual se vigilará y dará seguimiento a la operación y funcionamiento de los Comités de Ética y de Prevención de Conflictos de Interés. Por lo tanto, continuarán con la entrega de la información y documentación de la manera que actualmente se realiza.
