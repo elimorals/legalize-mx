@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2023-06-06"
+last_updated: "2023-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -275,11 +275,11 @@ c). Lo soliciten las organizaciones de la sociedad civil, así como los organism
 
 Violencia mediática contra las mujeres es aquella que se ejerce mediante la publicación o difusión de mensajes e imágenes estereotipados a través de cualquier medio de comunicación local, que de manera directa o indirecta promueva la explotación de mujeres o sus imágenes, injurie, difame, discrimine, deshonre, humille o atente contra la dignidad de las mujeres, como así también la utilización de mujeres, adolescentes y niñas en mensajes e imágenes pornográficas, legitimando la desigualdad de trato o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia contra las mujeres.
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 8 Ter.
 
-Violencia digital contra la mujer es cualquier acto que se presenta a través de las tecnologías de la información y comunicación, mediante la divulgación, sin consentimiento, de textos, audios, videos u otras impresiones gráficas, de contenido íntimo, erótico o imágenes sugerentemente sexuales, verdaderas o alteradas, ya sean propias o de otra persona, que cause daño o perjuicio y que atenta contra la integridad y dignidad de las mujeres.
+Violencia digital contra las mujeres es todo acto o acción dolosa realizada mediante el uso de tecnologías de la información y la comunicación, por la que se exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia.
 
 > <small>(ADICIONADO, P.O. 14 DE JULIO DE 2021)</small>
 
@@ -1564,6 +1564,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 6 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-632 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 8 TER, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
 
 ###### ARTÍCULO ÚNICO.
 
