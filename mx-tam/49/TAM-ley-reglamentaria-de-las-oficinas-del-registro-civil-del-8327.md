@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-de-las-oficinas-del-registro-civil-del-8327"
 country: "mx"
 rank: "ley"
 publication_date: "1940-10-30"
-last_updated: "2023-06-06"
+last_updated: "2023-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial, el 30 de octubre de 1940.
 
@@ -259,13 +259,17 @@ Cuando el Oficial del Registro Civil salga de la Oficina a extender el acta de n
 
 ### CAPITULO IV. DE LAS ACTAS DE MATRIMONIO
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Art. 40.
 
-Las personas que pretendan contraer matrimonio se presentarán al Oficial del Registro Civil, debiendo cumplir con las estipulaciones contenidas en el Capítulo III, Título I, Libro 7o. del Código Civil vigente.
+Las personas que pretendan contraer matrimonio se presentarán al Oficial del Registro Civil, debiendo cumplir con las estipulaciones contenidas en el artículo 85 del Código Civil para el Estado de Tamaulipas.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Art. 41.
 
-La dispensa de publicaciones o de edad, sólo podrá concederla el Ejecutivo del Estado. Tratándose de descendientes o hermanos del Gobernador del Estado, la dispensa se concederá por el Presidente del Supremo Tribunal de Justicia.
+La dispensa de publicaciones, solo podrá concederla el Ejecutivo del Estado. Tratándose de descendientes o hermanos del Gobernador del Estado, la dispensa se concederá por la Presidencia del Supremo Tribunal de Justicia.
 
 ###### Art. 42.
 
@@ -287,9 +291,51 @@ Inmediatamente después, se firmará el acta respectiva por los contrayentes, lo
 
 Para los actos de matrimonio será necesario presentar por duplicado, al Oficial del Registro Civil, una solicitud. Las Oficinas del Registro Civil tendrán por cuenta del Estado esqueletos de estas solicitudes, que proporcionarán a los interesados sin costo alguno.
 
-### CAPITULO V. DE LAS ACTAS DE DEFUNCIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
-### CAPITULO VI.. DE LOS CEMENTERIOS, DE LAS INHUMACIONES Y DE LAS EXHUMACIONES
+### CAPITULO IV BIS. DE LAS CONSTANCIAS DE CONCUBINATO
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
+
+###### Art. 45 Bis.
+
+Dadas las condiciones previstas en el artículo 268 del presente Código, podrá solicitarse que el concubinato se inscriba en la Oficialía del Registro Civil del domicilio de los concubinos, previa resolución de la Coordinación General del Registro Civil.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
+
+###### Art. 45 Ter.
+
+La inscripción se solicitará por ambos concubinos, registrándose sus generales y datos familiares, la fecha en que se inició la relación concubinaria o nació el primer descendiente, a fin de que se les expida la Constancia respectiva, la cual señalará expresamente que tiene efectos de matrimonio y que surte sus consecuencias jurídicas.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
+
+###### Art. 45 Quater.
+
+El concubinato registrado o no, produce los mismos derechos y obligaciones personales y patrimoniales del matrimonio, desde el momento en que se cumplen las condiciones legales o desde el nacimiento de un hijo en común, tanto en favor de los concubinos como de sus descendientes.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
+
+###### Art. 45 Quinquies.
+
+El concubinato termina por las siguientes causas:
+
+I.- Por acuerdo mutuo entre las partes;
+
+II.- Cuando alguna de las partes así lo solicite;
+
+III.- Por matrimonio;
+
+IV.- Por abandono del domicilio común por parte de uno de los concubinos, siempre que sea por más de un año. Antes de este plazo el concubinato seguirá produciendo sus efectos para el abandonado; y
+
+V.- Por muerte de alguno de los concubinos.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
+
+###### Art. 45 Sexies.
+
+Los concubinas que hayan tramitado la Constancia a que hace referencia el presente Capítulo, tienen el deber de tramitar la cancelación correspondiente cuando se presente alguna de las causas señaladas en el artículo anterior.
+
+### CAPITULO V. DE LAS ACTAS DE DEFUNCIONES
 
 ###### Art. 46.
 
@@ -317,7 +363,7 @@ Cuando a consecuencia de un delito o de un accidente se encuentre en el campo un
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954)</small>
 
-### CAPITULO VII. DIRECCION GENERAL DEL REGISTRO CIVIL
+### CAPITULO VI.. DE LOS CEMENTERIOS, DE LAS INHUMACIONES Y DE LAS EXHUMACIONES
 
 ###### Art. 52.
 
@@ -501,6 +547,8 @@ Art. 63 (SIC).- (DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTA
 
 (DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
+### CAPITULO VII. DIRECCION GENERAL DEL REGISTRO CIVIL
+
 ###### Art. 98.
 
 El Jefe del Departamento de Estadística dependiente del Gobierno del Estado, fungirá como Director del Registro del Estado Civil y sus atribuciones serán las siguientes:
@@ -634,6 +682,14 @@ Inmediatamente después de que el Registro Estatal de Deudores Alimentarios Moro
 P.O. 6 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-629 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS; DE LA LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE CONCUBINATO Y FUNCIONES DEL REGISTRO CIVIL”.]
 
 ###### ARTÍCULO ÚNICO.
 
