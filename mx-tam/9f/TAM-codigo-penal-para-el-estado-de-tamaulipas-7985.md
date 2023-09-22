@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2023-07-20"
+last_updated: "2023-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -613,11 +613,11 @@ p).- Las demás que fijen las leyes.
 
 Las penas señaladas en los incisos b), c), y d) tienen también la naturaleza de alternativas a la de prisión y podrán decretarse conjunta o separadamente con las medidas de seguridad a que se refieren los artículos 66 a 68 y la fracción IV del 108 de este Código, según lo determine la Ley o el Juez.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 46.
 
-La pena de prisión consiste en la privación de la libertad corporal del sentenciado, desde tres días hasta cincuenta años. Esta pena se cumplirá y se entiende impuesta bajo la normatividad y con las modalidades que, para su aplicación, se establecen en este Código y en la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado de Tamaulipas, con la finalidad de ejercer sobre el condenado una acción que lo conduzca hacia la reinserción social.
+La pena de prisión consiste en la privación de la libertad corporal del sentenciado, desde tres días hasta sesenta años. Esta pena se cumplirá y se entiende impuesta bajo la normatividad y con las modalidades que, para su aplicación, se establecen en este Código y en la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado de Tamaulipas, con la finalidad de ejercer sobre el condenado una acción que lo conduzca hacia la reinserción social.
 
 En toda pena de prisión que se imponga por sentencia, se computará el tiempo de la detención preventiva.
 
@@ -4421,7 +4421,9 @@ VIII.- La víctima se haya encontrado en un estado de indefensión, entendiéndo
 
 IX.- El cuerpo o restos de la víctima sean expuestos, exhibidos, depositados, arrojados o enterrados en un lugar público o de libre concurrencia.
 
-A quien cometa el delito de feminicidio se le impondrán de cuarenta a cincuenta años de prisión y de quinientos a mil días multa.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
+
+A quien cometa el delito de feminicidio se le impondrán de cuarenta a sesenta años de prisión y de quinientos a mil días multa.
 
 Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 
@@ -5957,7 +5959,9 @@ Comete el delito de privación de la vida, lesiones, malos tratos, crueldad o to
 
 Son considerados actos de crueldad o tortura, además de los establecidos en la Ley de Protección a los Animales para el Estado de Tamaulipas, los siguientes:
 
-I.- Mutilar cualquier parte del cuerpo de un animal, salvo que el acto tenga fines de mejoramiento, marcación o higiene de la respectiva especie animal o se realice con motivo de evitarle sufrimientos mayores al animal;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
+
+I.- Mutilar cualquier parte del cuerpo de un animal, salvo que el acto tenga fines de marcación de acuerdo a la especie del animal, castración o se realice con motivo de evitarle sufrimientos mayores al animal;
 
 II.- Intervenir quirúrgicamente a animales sin anestesia, salvo el caso de urgencia debidamente comprobada;
 
@@ -5971,7 +5975,11 @@ V.- Lastimar o arrollar animales intencionalmente, causándoles torturas o sufri
 
 VI.- Realizar actos privados de riñas de animales y cualquier acción o espectáculo en que se mate, hiera u hostilice a los animales, salvo el caso de espectáculos debidamente autorizados y que utilicen animales permitidos de conformidad a las leyes generales y locales;
 
-VII.- Provocar la muerte por cualquier medio a un animal, sin respetar las disposiciones normativas aplicables en los casos de rastros y lugares destinados al sacrificio de animales por cuestiones alimentarias, sanitarias o de otro tipo que se encuentre debidamente regulada.
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
+
+VII.- Realizar actos de zoofilia, entendiéndose como tal conducta la realización del acto sexual entre un ser humano y otra especie animal. En caso de que se cause una lesión grave o la muerte al animal como consecuencia de dicho acto, las penas se aumentarán en una mitad; y
+
+VIII.- Provocar la muerte por cualquier medio a un animal, sin respetar las disposiciones normativas aplicables en los casos de rastros y lugares destinados al sacrificio de animales por cuestiones alimentarias, sanitarias o de otro tipo que se encuentre debidamente regulada.
 
 En el caso de veterinarios o personas que tengan a su cuidado refugios de animales domésticos que incurran en alguna de las conductas consideradas como maltrato animal, la autoridad judicial ordenará la suspensión de su licencia para ejercer la actividad relativa hasta por dos años, y en caso de reincidencia hasta por cinco años o de manera definitiva.
 
@@ -5983,11 +5991,13 @@ Quien incurra en conductas que pongan en peligro a un animal de cualquier especi
 
 En el caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal previo a su muerte, las penas se aumentarán en una mitad. Se entenderá por métodos que provoquen una muerte no inmediata las que prolonguen la agonía del animal, ya sea por las lesiones que provoca o el detrimento de la salud del animal.
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 470.
 
-La pena a imponer en el artículo anterior podrá ser sustituida en los términos de Ley, por servicios comunitarios a cargo del infractor relacionado con el cuidado y la protección de animales en centros antirrábicos o refugios para animales operados por la autoridad municipal o por organismos civiles debidamente registrados.
+La pena a imponer en el artículo anterior podrá ser sustituida en los términos de Ley, por única ocasión, por servicios comunitarios a cargo del infractor relacionado con el cuidado y la protección de animales en centros antirrábicos o refugios para animales operados por la autoridad municipal o por organismos civiles debidamente registrados.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
 
 Las organizaciones civiles debidamente registradas podrán solicitar al Ministerio Público el resguardo temporal, tenencia o adopción definitiva de los animales domésticos que sufran maltrato.
 
@@ -7266,6 +7276,22 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 20 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-611 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 203, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-627 POR EL QUE SE REFORMAN LOS ARTÍCULOS 46, PÁRRAFO PRIMERO Y 337 BIS, PÁRRAFO SEGUNDO, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-628 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
