@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-23-2020-del-pleno-del-consejo-de-la-145035"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-11-19"
-last_updated: "2020-11-19"
+last_updated: "2023-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145035&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-11-10"
 ---
 # ACUERDO GENERAL 23/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE RESIDENCIA Y DOMICILIO DEL JUZGADO DECIMONOVENO DE DISTRITO EN MATERIAS ADMINISTRATIVA, CIVIL Y DE TRABAJO EN EL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL 19/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE RESIDENCIA Y DOMICILIO DEL JUZGADO DECIMONOVENO DE DISTRITO EN MATERIAS ADMINISTRATIVA, CIVIL Y DE TRABAJO EN EL ESTADO DE JALISCO, CON RESIDENCIA EN GUADALAJARA; Y QUE REFORMA Y ABROGA DIVERSOS ACUERDOS GENERALES, PUBLICADO EN EL D.O.F. DE 22 DE SEPTIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL 23/2020, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE RESIDENCIA Y DOMICILIO DEL JUZGADO DECIMONOVENO DE DISTRITO EN MATERIAS ADMINISTRATIVA, CIVIL Y DE TRABAJO EN EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE SEPTIEMBRE DE 2023 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 19 de noviembre de 2020.
 
@@ -92,3 +94,19 @@ TERCERO. El órgano jurisdiccional a que se refiere el presente Acuerdo y la Ofi
 CUARTO. El personal de la Administración Regional de Zapopan apoyará para el traslado de los asuntos que por turno corresponda conocer al Juzgado de Distrito que cambia de residencia y domicilio.
 
 EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 23/2020, del Pleno del Consejo de la Judicatura Federal, relativo al cambio de residencia y domicilio del Juzgado Decimonoveno de Distrito en Materias Administrativa, Civil y de Trabajo en el Estado de Jalisco, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de 7 de octubre de 2020, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Bernardo Bátiz Vázquez, Jorge Antonio Cruz Ramos, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé, Sergio Javier Molina Martínez y Loretta Ortiz Ahlf.- Ciudad de México, a 10 de noviembre de 2020.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 22 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 19/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE RESIDENCIA Y DOMICILIO DEL JUZGADO DECIMONOVENO DE DISTRITO EN MATERIAS ADMINISTRATIVA, CIVIL Y DE TRABAJO EN EL ESTADO DE JALISCO, CON RESIDENCIA EN GUADALAJARA; Y QUE REFORMA Y ABROGA DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. El Juzgado Decimonoveno de Distrito en Materias Administrativa, Civil y de Trabajo en el Estado de Jalisco, y la Oficina de Correspondencia Común que le presta servicio, deberán publicar avisos en lugares visibles para conocimiento del público, en relación con el cambio de residencia y domicilio dispuesto en el presente Acuerdo.
+
+CUARTO. Se abroga el Acuerdo General 23/2020 del Pleno del Consejo de la Judicatura Federal, relativo al cambio de residencia y domicilio del Juzgado Decimonoveno de Distrito en Materias Administrativa, Civil y de Trabajo en el Estado de Jalisco.
+
+QUINTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, prestará auxilio en el traslado del órgano jurisdiccional que cambia de residencia y domicilio.
