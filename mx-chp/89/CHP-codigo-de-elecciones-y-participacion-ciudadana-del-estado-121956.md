@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-elecciones-y-participacion-ciudadana-del-estado-12195
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-14"
-last_updated: "2020-06-29"
+last_updated: "2023-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,11 @@ state: "CHP"
 
 (NOTA 2. EN RELACIÓN CON LA VIGENCIA DEL PRESENTE ORDENAMIENTO, SE SUGIERE CONSULTAR EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2020, ASÍ COMO LA NOTA QUE ANTECEDE RESPECTO A LOS RESOLUTIVOS DE LA SENTENCIA DICTADA EN LA ACCIÓN DE INCONSTITUCIONALIDAD 158/2020 Y SUS ACUMULADAS 159/2020, 161/2020, 224/2020 Y 227/2020.)
 
+(NOTA 3: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 22 DE SEPTIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.)
+
 CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2023 (ABROGADO).
 
 Código publicado en la Tercera Sección al Número 299 del Periódico Oficial del Estado de Chiapas, el miércoles 14 de junio de 2017.
 
@@ -7988,3 +7990,27 @@ Artículo Octavo.- Se vincula al Consejo General del Instituto de Elecciones y P
 Artículo Noveno.- En la elección a Gobernador del Estado, correspondiente al Proceso Electoral Ordinario 2024, el Instituto de Elecciones deberá garantizar el derecho al ejercicio del voto de las personas con prisión preventiva oficiosa o justificada. Para ello, deberá coordinarse con el Instituto Nacional para establecer los lineamientos, reglas y mecanismos necesarios, así como con las autoridades de centros penitenciarios, jurisdiccionales y demás autoridades estatales y federales que se estimen convenientes para garantizar las medidas de seguridad y protección al voto, según lo determine la normatividad aplicable.
 
 Durante el Proceso Electoral Ordinario 2021, el Instituto de Elecciones deberá realizar una prueba piloto, situación que deberá prever en su anteproyecto de Presupuesto de Egresos, a fin de someterlo a consideración y aprobación del Congreso del Estado.
+
+P.O. 22 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 239 RELATIVO A LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS, CON EL OBJETO DE DAR CUMPLIMIENTO A LA RESOLUCIÓN EMITIDA POR LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LA ACCIÓN DE INCONSTITUCIONALIDAD NÚMERO 158/2020 Y SUS ACUMULADAS 159/2020, 161/2020, 224/2020 Y 227/2020, EN MATERIA ELECTORAL”.]
+
+Artículo Primero.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Código de Elecciones y Participación Ciudadana del Estado de Chiapas, expedido mediante Decreto número 181, publicado en el Periódico Oficial 299, Tercera Sección, Tomo III, de fecha 14 de junio de 2017; y todas sus reformas; el cual fue declarada su reviviscencia por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación, mediante resolución de fecha 03 de diciembre del año 2020, emitida en la Acción de Inconstitucionalidad número 158/2020 y sus acumuladas 159/2020, 161/2020, 224/2020 y 227/2020.
+
+Se derogan todas las disposiciones legales que contravengan o se opongan a la presente Ley.
+
+Artículo Tercero.- Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente Ley, serán resueltos conforme a las normas vigentes al momento de su inicio. Lo anterior, sin prejuicio de que se apliquen en lo procedente las disposiciones y los plazos previstos en la presente Ley.
+
+Artículo Cuarto.- El Consejo General del Instituto de Elecciones, dictará los acuerdos necesarios para hacer efectivas las disposiciones de la presente Ley y deberá expedir los reglamentos y demás normatividad que deriven del mismo, en un plazo no mayor a noventa días a partir de la entrada en vigor.
+
+Las disposiciones generales emitidas por el Instituto de Elecciones, con antelación a la entrada en vigor del presente Decreto, seguirán vigentes en lo que no se opongan a la Constitución Federal, la Constitución Local, Leyes Generales, la presente Ley, hasta que el Consejo General del Instituto de Elecciones no emita aquellas que deban sustituirlas.
+
+Artículo Quinto.- Se vincula al Consejo General del Instituto de Elecciones y Participación Ciudadana del Estado de Chiapas, para que emita los acuerdos, así como las modificaciones presupuestales necesarias a efecto de dar el debido cumplimiento al presente Decreto; así como en lo relativo en la modificación de las actividades y procedimientos de la organización del proceso electoral 2024.
+
+Artículo Sexto.- El Instituto de Elecciones y el Tribunal Electoral del Estado deberán prever las modificaciones presupuestarias, así como las acciones necesarias, que garanticen la transición del Instituto de Investigaciones y Posgrados Electorales al citado organismo jurisdiccional autónomo, así como de los recursos humanos, materiales, financieros, presupuestales y Registro de Validez Oficial que permitan su operación y garanticen los derechos de las personas que hayan cursado o se encuentren cursando un plan de estudios.
+
+El Tribunal Electoral del Estado, deberá realizar a la brevedad los ajustes necesarios en su normativa interna.
+
+Artículo Séptimo.- Las Dependencias y Organismos normativos del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto.
