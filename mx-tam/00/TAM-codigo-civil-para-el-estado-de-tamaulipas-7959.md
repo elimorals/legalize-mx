@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2023-09-05"
+last_updated: "2023-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -177,9 +177,9 @@ ART. 33.- La titularidad de las Oficialías del Registro Civil estará a cargo d
 
 Los Oficiales sólo asentarán en las actas lo que deba ser declarado en el acto preciso a que ellas se refieren y lo que está expresamente previsto en la ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
-ART. 34.- Serán objeto de inscripción en el Registro Civil, el nacimiento, reconocimiento de hijos, adopción, matrimonio, concubinato, divorcio, defunción, sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela y la pérdida o la limitación de la capacidad legal para administrar bienes y las dictadas en las informaciones testimoniales para acreditar hechos relativos al nacimiento. Las inscripciones se harán mecanográficamente y por quintuplicado.
+ART. 34.- Serán objeto de inscripción en el Registro Civil, el nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, concubinato, cancelación de concubinato, defunción, sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela y la pérdida o la limitación de la capacidad legal para administrar bienes y las dictadas en las informaciones testimoniales para acreditar hechos relativos al nacimiento. Las inscripciones se harán mecanográficamente y por quintuplicado.
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2022)</small>
 
@@ -437,19 +437,21 @@ V.- En su caso, las capitulaciones de los pretendientes que contraen el matrimon
 
 VI.- Copia certificada del acta de defunción o de divorcio, si alguno de los pretendientes es viudo o divorciado, o copia certificada de la sentencia de nulidad de matrimonio en caso de que alguno de los pretendientes hubiese estado casado con anterioridad;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
-VII.- Copia de la dispensa de impedimentos si los hubo; y
+VII.- Copia de la dispensa de impedimentos si los hubo;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
-VIII.- Constancia de haber recibido pláticas para evitar la violencia familiar, impartidas por el Instituto de la Mujer Tamaulipeca en conjunto con el Instituto Nacional de las Mujeres; y constancia expedida por personal médico de una institución oficial de salud, o médico particular, de que han sido debidamente informados de los riesgos concepcionales.
+VIII.- Constancia de haber recibido pláticas para evitar la violencia familiar, impartidas por el Instituto de la Mujer Tamaulipeca en conjunto con el Instituto Nacional de las Mujeres; y constancia expedida por personal médico de una institución oficial de salud, o médico particular, de que han sido debidamente informados de los riesgos concepcionales; y
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
+
+IX.- El Certificado expedido por la Coordinación General del Registro Civil a cada uno de los contrayentes, en el que se informe si alguno de los mismos se encuentra inscrito en el Registro de Deudores Alimentarios Morosos.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE JUNIO DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2022)</small>
-
-El Oficial del Registro Civil hará del conocimiento de los pretendientes inmediatamente después de la presentación de la solicitud, si alguno de ellos se encuentra inscrito en el Registro de Deudores Alimentarios Morosos.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
 ART. 86.- Todos los requisitos mencionados en el artículo que antecede, deberán estar satisfechos a más tardar cuatro días antes de la celebración del matrimonio.
 
@@ -513,17 +515,17 @@ ART. 103.- Los Oficiales del Registro Civil sólo podrán negarse a autorizar un
 
 ART. 104.- El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado, por la primera vez, con una multa equivalente a una vez el valor diario de la Unidad de Medida y Actualización, y en caso de reincidencia con la destitución de su cargo.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
-### CAPITULO V BIS. ACTAS DE CONCUBINATO
+### CAPITULO V BIS. CONSTANCIA DE CONCUBINATO
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
-ART. 104 Bis.- Las parejas que deseen obtener un acta de concubinato podrán solicitarlo al Oficial del Registro Civil.
+ART. 104 Bis.- Las parejas que deseen obtener una constancia de concubinato podrán solicitar su inscripción a la Oficialía del Registro Civil del domicilio de los concubinos, previa resolución de la Coordinación General del Registro Civil.
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
-ART. 104 Ter.- Las actas de concubinato se emitirán cuando se cumplan las condiciones para la existencia de esa institución jurídica establecidas en este Código y servirán para acreditar el vínculo familiar ante cualquier persona pública o privada.
+ART. 104 Ter.- Las constancias de concubinato se emitirán cuando se cumplan las condiciones para su existencia, establecidas en este Código así como en la Ley Reglamentaria de las Oficinas del Registro Civil del Estado de Tamaulipas y servirán para acreditar el vínculo familiar ante cualquier persona pública o privada cuando así se considere necesario.
 
 ### CAPITULO VI. ACTAS DE DIVORCIO
 
@@ -1313,9 +1315,9 @@ ART. 267.- La muerte de uno de los cónyuges pone fin al juicio de divorcio y lo
 
 ### CAPITULO XIII. DEL CONCUBINATO
 
-(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JUNIO DE 2023) (F. DE E., P.O. 20 DE JUNIO DE 2023)
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
-ART. 267 Bis.- El concubinato es el vínculo jurídico que se genera entre dos personas que, sin tener ningún vínculo matrimonial, han tenido hijos en común o han vivido juntos durante los dos años anteriores.
+ART. 267 Bis.- El concubinato es la relación de hecho que se genera entre dos personas que, sin tener ningún vínculo matrimonial y siendo mayores de edad, han tenido descendencia o han emprendido un proyecto de vida en común fundado en la afectividad, el consentimiento y la solidaridad libremente aceptada con la finalidad de convivir de forma estable.
 
 > <small>(REFORMADA SU DENOMINACIÓN. P.O. 24 DE JUNIO DE 2008)</small>
 
@@ -10922,6 +10924,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 5 DE SEPTIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-599 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 298 TER 1, PÁRRAFO SEGUNDO, INCISOS A) Y B); Y 417, FRACCIÓN III; Y SE ADICIONAN UN INCISO C), AL ARTÍCULO 298 TER 1; EL ARTÍCULO 414 TER; Y UNA FRACCIÓN IV, AL ARTÍCULO 417, DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-629 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS; DE LA LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE CONCUBINATO Y FUNCIONES DEL REGISTRO CIVIL”.]
 
 ###### ARTÍCULO ÚNICO.
 
