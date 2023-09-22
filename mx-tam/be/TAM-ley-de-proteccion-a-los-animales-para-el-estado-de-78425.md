@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-los-animales-para-el-estado-de-78425"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-16"
-last_updated: "2023-06-06"
+last_updated: "2023-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2010.
 
@@ -299,13 +299,19 @@ VIII. Conocer a través de la unidad administrativa correspondiente cualquier he
 
 IX. Fomentar la cultura del trato digno y respetuoso, mediante el establecimiento de campañas de vacunación antirrábica, de desparasitación, de adopción, esterilización y de difusión de información respecto de las consecuencias ambientales, sociales y de salud pública del abandono de animales de compañía, en coordinación con la Secretaría de Salud, federaciones, asociaciones y colegios de médicos veterinarios zootecnistas y campañas sanitarias para el control y erradicación de enfermedades zoonóticas;
 
-X. Crear el Registro Municipal Animal, con objeto de identificar y registrar a los dueños de animales domésticos y silvestres en cautiverio que ya existen, con los cuales se retroalimentará el Registro Estatal Animal; y
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2022)</small>
+X. Crear el Registro Municipal Animal, con objeto de identificar y registrar a los dueños de animales domésticos y silvestres en cautiverio que ya existen, con los cuales se retroalimentará el Registro Estatal Animal;
 
-XI. En la medida de lo posible y con base en su disponibilidad presupuestal, garantizarán la esterilización gratuita de animales, así como su trato digno y respetuoso en los centros de control animal, sancionando a quienes incurran en maltrato animal en los términos de esta ley; y
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
-XII. Las demás que la presente Ley y demás ordenamientos jurídicos aplicables les confieran.
+XI. En la medida de lo posible y con base en su disponibilidad presupuestal, garantizarán la esterilización gratuita de animales, así como su trato digno y respetuoso en los centros de control animal, sancionando a quienes incurran en maltrato animal en los términos de esta ley;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
+
+XII. La elaboración del Reglamento Municipal de Protección Animal; y
+
+XIII. Las demás que la presente Ley y demás ordenamientos jurídicos aplicables les confieran.
 
 ### CAPITULO III. DEL FONDO PARA LA PROTECCION A LOS ANIMALES
 
@@ -1510,6 +1516,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 6 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-628 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
