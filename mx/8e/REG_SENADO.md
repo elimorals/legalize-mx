@@ -4,7 +4,7 @@ identifier: "REG_SENADO"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-04"
-last_updated: "2022-11-11"
+last_updated: "2023-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "REG_SENADO"
 
 REGLAMENTO DEL SENADO DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE SEPTIEMBRE DE 2023.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de junio de 2010.
 
@@ -186,9 +186,9 @@ VIII. Presentar en tiempo y forma las declaraciones e informes que establecen la
 
 IX. Abstenerse de revelar cualquier información reservada o confidencial a la que tengan acceso en el desempeño de sus funciones, conforme a lo dispuesto por las normas en materias de transparencia y acceso a la información pública así como de seguridad nacional. El o los senadores que incumplan con esta obligación serán responsables en términos de lo dispuesto por el artículo 21 de este Reglamento;
 
-> <small>(ADICIONADA, D.O.F. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2023)</small>
 
-X. Informar a la ciudadanía al término de cada año de la legislatura, sobre las actividades realizadas durante el mismo, y
+X. Informar a la ciudadanía al término de cada año de la legislatura, sobre las actividades realizadas durante el mismo. Además, el informe también podrá contener una relación del trabajo legislativo realizado para dar cumplimiento a los compromisos electorales, ya sean del legislador en lo individual o del Grupo Parlamentario, y
 
 XI. Las demás que establecen la Constitución y las leyes.
 
@@ -682,6 +682,10 @@ VI. Otorgar el Reconocimiento “Dr. Jesús Kumate Rodríguez”.
 
 VII. Otorgar el Premio al Mérito Literario "Rosario Castellanos".
 
+> <small>(ADICIONADA, D.O.F. 22 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. Imponer la Medalla de Honor Armada de México.
+
 2. El formato y realización de las sesiones solemnes se ajusta a lo que disponen este Reglamento y las disposiciones en materia de ceremonial y protocolo.
 
 > <small>(ADICIONADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE CREA EL RECONOCIMIENTO "ELVIA CARRILLO PUERTO", D.O.F. 5 DE MARZO DE 2013)</small>
@@ -707,6 +711,12 @@ Artículo 56 Quater
 La persona acreedora al Premio al Mérito Literario "Rosario Castellanos", será elegida por el voto de las dos terceras partes de las senadoras y los senadores presentes.
 
 La Comisión de Cultura, previa auscultación de las instituciones públicas, los sectores académicos y culturales, propondrá la terna con las personas consideradas como merecedoras del premio al Pleno, conforme al Decreto por el que se crea el Premio al Mérito Literario "Rosario Castellanos".
+
+> <small>(ADICIONADO, D.O.F. 22 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 56 Quinquies
+
+La Comisión de Marina, a través de la mayoría simple de sus integrantes, emitirá la convocatoria pública para la postulación de candidaturas para ser acreedora o acreedor a la "Medalla de Honor Armada de México". Todo aquello alusivo al procedimiento de recepción de propuestas, la evaluación de éstas, la conformación del jurado calificador, así como los criterios para la elección de la galardonada o el galardonado, se darán a conocer en la convocatoria que al respecto se emita, conforme al Decreto por el que se crea la "Medalla de Honor Armada de México" con motivo del Bicentenario de la creación de la Armada de México.
 
 Artículo 57
 
@@ -3573,3 +3583,15 @@ D.O.F. 11 DE NOVIEMBRE DE 2022.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- La Mesa, a través de la Secretaría General de Servicios Administrativos, dictará las medidas administrativas correspondientes y realizará las previsiones presupuestales necesarias en el presupuesto de egresos del Senado para el ejercicio fiscal de 2023, para garantizar la implementación del uso de los medios digitales.
+
+D.O.F. 22 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 10 DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VIII AL NUMERAL 1 DEL ARTÍCULO 56 Y UN ARTÍCULO 56 QUINQUIES AL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
