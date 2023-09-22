@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2023-07-11"
+last_updated: "2023-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE SEPTIEMBRE DE 2023.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -173,9 +173,9 @@ III. TERCER CIRCUITO:
 
 2. Dos tribunales colegiados de apelación con residencia en Zapopan.
 
-> <small>(REFORMADO POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 27/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ENERO DE 2022)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 19/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE SEPTIEMBRE DE 2023)</small>
 
-3. Treinta y un juzgados de Distrito especializados: nueve de amparo en materia penal, tres con residencia en Zapopan y seis con sede en Puente Grande; diecinueve en materias administrativa, civil y de trabajo, dieciocho con residencia en el municipio de Zapopan y uno con residencia en Guadalajara; y tres de procesos penales federales con residencia en Puente Grande.
+3. Treinta y un juzgados de Distrito especializados: nueve de amparo en materia penal, tres con residencia en Zapopan y seis con sede en Puente Grande; diecinueve en materias administrativa, civil y de trabajo, con residencia en el municipio de Zapopan; y tres de procesos penales federales con residencia en Puente Grande.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -10614,3 +10614,17 @@ TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas
 CUARTO. La Dirección General de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos de la Oficina de Correspondencia Común que dará servicio al Tercer Tribunal Colegiado del Vigésimo Cuarto Circuito, con residencia en Tepic, Nayarit, que inicia funciones.
 
 QUINTO. El personal de la Administración Regional apoyará para el traslado de los asuntos que por turno corresponda conocer al Tercer Tribunal Colegiado del Vigésimo Cuarto Circuito, con residencia en Tepic, Nayarit, que inicia funciones.
+
+D.O.F. 22 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 19/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE RESIDENCIA Y DOMICILIO DEL JUZGADO DECIMONOVENO DE DISTRITO EN MATERIAS ADMINISTRATIVA, CIVIL Y DE TRABAJO EN EL ESTADO DE JALISCO, CON RESIDENCIA EN GUADALAJARA; Y QUE REFORMA Y ABROGA DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. El Juzgado Decimonoveno de Distrito en Materias Administrativa, Civil y de Trabajo en el Estado de Jalisco, y la Oficina de Correspondencia Común que le presta servicio, deberán publicar avisos en lugares visibles para conocimiento del público, en relación con el cambio de residencia y domicilio dispuesto en el presente Acuerdo.
+
+CUARTO. Se abroga el Acuerdo General 23/2020 del Pleno del Consejo de la Judicatura Federal, relativo al cambio de residencia y domicilio del Juzgado Decimonoveno de Distrito en Materias Administrativa, Civil y de Trabajo en el Estado de Jalisco.
+
+QUINTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, prestará auxilio en el traslado del órgano jurisdiccional que cambia de residencia y domicilio.
