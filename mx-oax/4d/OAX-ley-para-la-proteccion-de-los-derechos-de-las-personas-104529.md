@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-los-derechos-de-las-personas-104529"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2023-09-02"
+last_updated: "2023-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de diciembre de 2014.
 
@@ -285,9 +285,9 @@ IV. A la certeza jurídica, que incluye:
 
 a) Gozar de la presunción de ser persona adulta mayor, salvo prueba en contrario;
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
 
-b) Dar mayor celeridad en la realización de las diligencias y trámites que se ordenen;
+b) Simplificar, brindar apoyo y dar mayor celeridad en la realización de las diligencias y trámites que se ordenen;
 
 c) Participar y ser ampliamente informado de todo procedimiento administrativo o judicial, que afecte su esfera personal, familiar, económica o social;
 
@@ -335,9 +335,9 @@ f) Conocer sus derechos y participar en el ámbito familiar y comunitario.
 
 g) Recibir capacitación necesaria sobre el uso de las nuevas tecnologías de la información y comunicación, y
 
-> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
 
-h) A la información, plural, oportuna y accesible, la cual será garantizada por el Estado.
+h) La información plural, oportuna y accesible, con apoyo para el uso de tecnologías y formatos de lectura fácil para garantizar la igualdad de condiciones.
 
 VII. Al trabajo, que comprende:
 
@@ -372,6 +372,10 @@ a) Ser sujeto de dicha asistencia cuando se encuentren en situación de riesgo, 
 b) El acceso a todos los programas sociales y gubernamentales orientados a la consecución del disfrute pleno de sus derechos; y
 
 c) Tener acceso y facilidades de desplazamiento en los espacios laborales, comerciales, oficiales, recreativos, culturales y de transporte, en los términos de las disposiciones legales y reglamentarias de la materia.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+d) A ser sujetos de programas para contar con una vivienda digna y adaptada a sus necesidades.
 
 > <small>(ADICIONADA, P.O. 28 DE ENERO DE 2023)</small>
 
@@ -451,6 +455,10 @@ II. Implementar procedimientos ágiles para reducir el tiempo de espera, que pod
 
 Contar con espacios que garanticen su descanso como: sillas, bancas, sillones, cuando su función sea la realización de trámites, prestación de servicios o ejecución de programas sociales;
 
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+Brindar asistencia con personal capacitado, así como permitir el acompañamiento de la persona que designe la persona adulta mayor, en los trámites y procedimientos a realizar;
+
 III. Procurar la salud física y psicológica de las personas adultas mayores a su cuidado, así como su plena integración social;
 
 IV. Coadyuvar con las autoridades en la protección de los derechos de las personas adultas mayores;
@@ -509,7 +517,9 @@ III. Comunicar a la autoridad competente los casos que sean de su directo conoci
 
 IV. Recibir quejas, denuncias e informes, sobre la violación de los derechos de las personas adultas mayores, haciéndolo del conocimiento de las autoridades competentes y, de ser procedente conforme a su ámbito de competencias, ejercitar y promover las acciones legales procedentes e imponer en su caso las sanciones correspondientes;
 
-V. Proporcionar información y asesoría sobre los servicios y trámites que presten a favor de las personas adultas mayores y adoptar las medidas necesarias que permitan su simplificación;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+V. Proporcionar información y asesoría, así como el apoyo necesario sobre los servicios y trámites que presten a favor de las personas adultas mayores y adoptar las medidas necesarias que permitan su simplificación.
 
 VI. Difundir entre las personas adultas mayores y en la sociedad en general, el contenido de la presente Ley y de otras disposiciones aplicables; e
 
@@ -1034,6 +1044,16 @@ TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del p
 P.O. 2 DE SEPTIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1522.- MEDIANTE EL CUAL ADICIONAN LAS FRACCIONES VII Y VIII RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 7 BIS, EL INCISO b) RECORRIENDO EL SUBSECUENTE DE LA FRACCIÓN III DEL ARTÍCULO 9, LA FRACCIÓN II RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 11; SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 7 BIS, LOS INCISOS a) Y c) DE LA FRACCIÓN II DEL ARTÍCULO 9, Y EL ARTÍCULO 27 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1532.- MEDIANTE EL CUAL SE REFORMAN EL INCISO B) DE LA FRACCIÓN IV Y EL INCISO H) DE LA FRACCIÓN VI DEL ARTÍCULO 9, Y LA FRACCIÓN V DEL ARTÍCULO 14; SE ADICIONAN EL INCISO D) A LA FRACCIÓN VIII DE (SIC) ARTÍCULO 9, Y UN TERCER PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 12, TODOS DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
