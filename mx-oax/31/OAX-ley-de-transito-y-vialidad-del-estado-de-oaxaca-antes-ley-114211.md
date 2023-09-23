@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-y-vialidad-del-estado-de-oaxaca-antes-ley-11421
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2022-10-22"
+last_updated: "2023-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -1351,7 +1351,11 @@ II. Cuando el infractor se encuentre en estado de ebriedad o bajo el influjo de 
 
 III. Cuando el conductor se retire del lugar de los hechos;
 
-IV. Estacionarse en las zonas reservadas para personas con discapacidad, y no se tenga la autorización respectiva, y
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Estacionarse en las zonas reservadas para personas con discapacidad o movilidad limitada, sin que se tenga las placas para el traslado de personas con discapacidad.
+
+Se considera como excluyente de esta agravante, si el conductor demuestra el traslado de alguna persona con discapacidad o movilidad limitada;
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
@@ -1646,3 +1650,11 @@ P.O. 22 DE OCTUBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1533.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 94 DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
