@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-la-defensoria-de-los-derechos-humanos-del-pueblo-de-8639
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-14"
-last_updated: "2023-04-01"
+last_updated: "2023-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el martes 14 de febrero de 2012.
 
@@ -109,9 +109,11 @@ El personal de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca deber
 
 El personal de la Defensoría deberá manejar confidencialmente la información o documentación relativa a los asuntos de su competencia. Sin perjuicio de lo dispuesto en la legislación sobre la Ley de Transparencia, Acceso a la Información Pública y Ley de Protección de Datos Personales.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 9.
 
-Quien presida la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, así como las y los defensores adjuntos, en sus actuaciones tendrán fe pública para certificar la veracidad de los hechos en relación con las peticiones o inconformidades presentadas ante la Defensoría.
+Quien presida la Defensoría de los Derechos Humanos del Pueblo de Oaxaca así como las y los Directores de Defensorías Especializadas y Regionales, las y los defensores adjuntos, en sus actuaciones tendrán fe pública para certificar la veracidad de los hechos en relación con las peticiones o inconformidades presentadas ante la Defensoría.
 
 ###### Artículo 10.
 
@@ -235,93 +237,55 @@ En los términos de esta Ley, sólo podrán admitirse o conocerse de quejas cont
 
 ### CAPÍTULO II. DE LOS ÓRGANOS DE LA DEFENSORÍA Y SUS ATRIBUCIONES
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 15.
 
 Para el ejercicio de sus atribuciones, la Defensoría de los Derechos Humanos, estará integrada por los siguientes órganos:
 
-I. Consejo Ciudadano;
+I. Defensora o Defensor de los Derechos Humanos del Pueblo de Oaxaca;
 
-II. Defensora o Defensor de los Derechos Humanos del Pueblo de Oaxaca;
+II. Secretaría Ejecutiva;
 
-III. Secretaría Ejecutiva;
+III. Direcciones de Defensorías Especializadas, y una Dirección de Defensorías Regionales;
 
-IV. Secretaría Técnica;
+IV. Dirección de Peticiones y Quejas;
 
-V. Coordinación General de las Defensorías;
+V. Dirección Jurídica;
 
-VI. Defensorías Adjuntas y Especializadas;
+VI. Dirección de Comunicación Social;
 
-VII. Dirección de Peticiones, Orientación, y Seguimiento de Recomendaciones;
+VII. Dirección Administrativa;
 
-VIII. Dirección de Comunicación Social;
+VIII. Dirección de Tecnologías de la Información y Estadística;
 
-IX. Dirección de Educación, Investigación, Divulgación y Promoción de la Cultura de Respeto a los Derechos Humanos;
+IX. Dirección de Planeación, Organización y Evaluación; y
 
-X. Dirección de Políticas Públicas en Derechos Humanos;
-
-XI. Dirección para la Atención a las Víctimas;
-
-XII. Dirección Administrativa; y
-
-XIII. Contraloría Interna.
+X. Contraloría Interna.
 
 La defensoría para el cumplimiento de sus atribuciones se auxiliará del personal profesional, técnico y administrativo indispensable, que determine su reglamento interno.
+
+Para el desempeño de sus responsabilidades la Defensoría contara con un Consejo Ciudadano, y éste con una Secretaría Técnica.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
 
 ### CAPÍTULO III. DE LA DESIGNACIÓN DE LAS Y LOS INTEGRANTES DEL CONSEJO CIUDADANO
 
 ###### Artículo 16.
 
-Las personas integrantes del Consejo Ciudadano deberán cumplir los siguientes requisitos:
-
-I. Contar con la ciudadanía mexicana y estar en pleno ejercicio de sus derechos;
-
-II. Haber nacido en el Estado o haber residido en la entidad durante los últimos cinco años;
-
-III. Gozar de buena reputación en la sociedad civil por su reconocida probidad, honradez y capacidad en la defensa de los Derechos Humanos;
-
-IV. No haber desempeñado algún cargo dentro de la administración pública federal, estatal o municipal durante los dos últimos años anteriores al día de la designación;
-
-V. No haber sido condenado o condenada por delito intencional; y
-
-VI. No haber resultado responsable por violaciones a los derechos humanos en algunas de las recomendaciones emitidas por un organismo público de defensa y protección de los derechos humanos.
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2023)
 
 ###### Artículo 17.
 
-El Consejo Ciudadano deberá ser integrado por igual número de mujeres y de hombres. Su designación se realizará de conformidad con el procedimiento establecido para el titular de la Defensoría.
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2023)
 
-El Consejo Ciudadano estará integrado por seis personas, más el Defensor o Defensora, quien estará al frente de este órgano. El cargo de Consejero o Consejera tendrá carácter honorífico, con excepción del Defensor o Defensora y su duración será de seis años.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LA INTEGRA, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
 
 ### CAPÍTULO IV. DE LAS FACULTADES Y FUNCIONES DEL CONSEJO CIUDADANO
 
 ###### Artículo 18.
 
-El Consejo Ciudadano tendrá las siguientes facultades:
-
-I. Establecer las políticas y criterios generales de actuación de la Defensoría;
-
-II. Aprobar el reglamento interno de la Defensoría y sus reformas, así como los manuales de organización, de procedimientos y de servicios al público;
-
-III. Opinar sobre los proyectos de informes de la Defensoría, así como de los asuntos que le sean sometidos a su consideración;
-
-IV. Revisar para su aprobación el Presupuesto que enviará al Congreso de Estado;
-
-V. Nombrar a la o el titular de la Secretaría Técnica del Consejo Ciudadano;
-
-VI. Nombrar a la o el titular de la Contraloría Interna de la Defensoría;
-
-VII. Proponer a la o el titular de la Defensoría, todas aquellas acciones y medidas que sirvan para una mejor observancia y tutela de los derechos humanos en el Estado;
-
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-VIII. Vigilar la incorporación y aplicación de la perspectiva de género y pluralismo jurídico en la promoción y protección de los Derechos Humanos;
-
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-IX. Coadyuvar y vigilar el cumplimiento a lo dispuesto en la fracción XXX del artículo 13 de la presente Ley, y;
-
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-X. Las demás que le otorguen la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella emanen, los instrumentos internacionales en materia de derechos humanos ratificados por el Estado Mexicano y otros ordenamientos legales del Estado.
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2023)
 
 ### CAPÍTULO V. DE LA O EL TITULAR DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA
 
@@ -333,15 +297,19 @@ Quien presida la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, será
 
 La Defensora o Defensor de los Derechos Humanos del Pueblo de Oaxaca durará en sus funciones siete años sin posibilidad de reelección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 21.
 
-Durante las ausencias temporales de la o el titular de la Defensoría de los Derechos Humanos, sus funciones y representación legal serán cubiertas por quien presida la Coordinación General de las Defensorías.
+Durante las ausencias temporales de la o el titular de la Defensoría de los Derechos Humanos, sus funciones y representación legal serán cubiertas por quien presida la Primera Dirección de Defensorías Especializadas.
 
 Se entenderá por ausencia temporal aquellas que no excedan de treinta días. De lo contrario se entendería como definitiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 22.
 
-Quien presida la Defensoría de los Derechos Humanos podrá ser separada o separado del cargo o destituido/destituida y, en su caso, sujeto a responsabilidad, sólo por las causas y mediante los procedimientos establecidos por el Título Séptimo de la Constitución Política del Estado Libre y Soberano de Oaxaca. En ese supuesto, el Congreso del Estado o la Comisión Permanente del mismo, designará al titular de la Coordinación General de la Defensorías Adjuntas, como interino hasta en tanto se designe a la o el nuevo titular de la Defensoría de los Derechos Humanos.
+Quien presida la Defensoría de los Derechos Humanos podrá ser separada o separado del cargo o destituido/destituida y, en su caso, sujeto a responsabilidad, sólo por las causas y mediante los procedimientos establecidos por el Título Séptimo de la Constitución Política del Estado Libre y Soberano de Oaxaca. En ese supuesto, el Congreso del Estado o la Comisión Permanente del mismo, designará a la o al Primer Director de Defensorías Especializadas, como interino hasta en tanto se designe a la o el nuevo titular de la Defensoría de los Derechos Humanos.
 
 El mismo procedimiento se seguirá en caso de ausencias definitivas.
 
@@ -419,7 +387,9 @@ III. Proteger y promover los derechos humanos en el Estado de Oaxaca;
 
 IV. Aprobar y emitir recomendaciones públicas, autónomas, así como los acuerdos y peticiones que sometan a su consideración las y los defensores adjuntos, con motivo del ejercicio de sus funciones;
 
-V. Dirigir, planear y coordinar los trabajos de la Defensoría, distribuyendo y delegando funciones a las y los defensores adjuntos en los términos que para tal efecto establezca el Reglamento interno;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+V. Dirigir, planear y coordinar los trabajos de la Defensoría, distribuyendo y delegando funciones a las y los defensores especializados y adjuntos en los términos que para tal efecto establezca el Reglamento;
 
 VI. Formular los criterios generales a los que se sujetarán las actividades administrativas de la Defensoría, así como nombrar, dirigir y coordinar al personal técnico y administrativo del organismo de acuerdo a los perfiles requeridos por cada puesto; garantizando la inclusión de personas indígenas, con discapacidad, adultas mayores, asegurando la paridad entre mujeres y hombres;
 
@@ -429,7 +399,9 @@ VIII. Dar a conocer al Consejo Ciudadano los informes y proyectos de recomendaci
 
 IX. Presentar un informe mensual ante el Consejo Ciudadano de la Defensoría, conforme a los lineamientos que se establezcan en el reglamento interno;
 
-X. Interponer acciones de inconstitucionalidad en contra de leyes o disposiciones que contravengan disposiciones relativas a los Derechos Humanos. Las acciones de inconstitucionalidad que promueva el Defensor deben ser consultadas por el Consejo Ciudadano;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+X. Interponer acciones de inconstitucionalidad en contra de leyes o disposiciones que contravengan disposiciones relativas a los Derechos Humanos. Las acciones de inconstitucionalidad que promueva el Defensor deben ser consultadas por el Consejo Ciudadano, asimismo interponer el juicio para la protección de los Derechos Humanos, en términos del artículo 106, apartado B de la Constitución del Estado y de su ley reglamentaria;
 
 XI. Remitir al Congreso del Estado, al final de cada ejercicio presupuestal, un informe que contenga los estados financieros y demás datos que muestren el registro de las operaciones efectuadas en el libre ejercicio del presupuesto de egresos de la Defensoría; debiendo poner a su disposición la documentación que compruebe y justifique dichos movimientos financieros, proporcionando a la Auditoria Superior del Estado, la información que le solicite en el ejercicio de sus funciones;
 
@@ -449,7 +421,9 @@ XVIII. Nombrar y remover al personal técnico y administrativo de la Defensoría
 
 XIX. Otorgar licencias y permisos al personal de la Defensoría en los términos del reglamento interno;
 
-XX. Distribuir y delegar funciones a las y los defensores adjuntos y demás personal;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+XX. Distribuir y delegar funciones a las y los defensores especializados y adjuntos y demás personal;
 
 XXI. Instaurar a través de la Contraloría de la Defensoría, el procedimiento administrativo interno, cuando un servidor o una servidora pública de la institución incurra en alguna falta, e imponer las sanciones que procedan, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca;
 
@@ -505,13 +479,167 @@ VI. Apoyar al o la titular de la Defensoría en las demás actividades que le se
 
 VII. Las demás que le confieren esta ley y otras disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 27 BIS. La Secretaría Ejecutiva para el cumplimiento de sus funciones contará con:
+
+I. Departamento de Difusión y Promoción de la Cultura de Respeto a los Derechos Humanos;
+
+II. Departamento de Políticas Públicas, Vinculación y Convenios en Derechos Humanos;
+
+III. Departamento de Estudios, Diagnósticos e Informes; y
+
+IV. Departamento de Tecnología Educativa.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+A. DEL DEPARTAMENTO DE DIFUSIÓN Y PROMOCIÓN DE LA CULTURA DE RESPETO A LOS DERECHOS HUMANOS
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 27 TER. La o el titular del Departamento de Difusión y Promoción de la Cultura de Respeto a los Derechos Humanos, tendrá las siguientes facultades:
+
+I. Diseñar e implementar los programas de capacitación y promoción en materia de derechos humanos;
+
+II. Promover y organizar cursos, talleres y conferencias con temas relativos a los Derechos Humanos;
+
+III. Diseñar y poner en práctica un sistema de indicadores y la metodología que permitan evaluar permanentemente los cursos y actividades de capacitación de la Defensoría;
+
+IV. Promover en el Estado de Oaxaca el derecho internacional de los derechos humanos y en particular las resoluciones, recomendaciones, opiniones consultivas y observaciones finales e informes de organismos y mecanismos de los sistemas de protección de los derechos humanos;
+
+V. Publicar, impartir y difundir opiniones, información, disposiciones legales y conocimientos relativos a los derechos humanos;
+
+VI. Promover en la ciudadanía la enseñanza, capacitación e investigación sobre los derechos humanos a fin de fortalecer la cultura de la legalidad, los valores como la libertad, la paz, la justicia, el respeto, la tolerancia, la democracia, la solidaridad, la diversidad cultural, la comprensión de los usos y costumbres de los pueblos indígenas, la igualdad, la no discriminación, y la equidad de género;
+
+VII. Promover la capacitación obligatoria en materia de derechos humanos a los servidores públicos estatales y municipales, al inicio de sus funciones públicas o durante el desarrollo de las mismas;
+
+VIII. Realizar investigaciones, diagnósticos y publicaciones en materia de derechos humanos; y
+
+IX. Las demás que le otorguen la presente ley, su reglamento interno y los demás ordenamientos aplicables.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+B. DEL DEPARTAMENTO DE POLÍTICAS PÚBLICAS, VINCULACIÓN Y CONVENIOS EN DERECHOS HUMANOS
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 27 QUÁTER. La o el titular del Departamento de Políticas Públicas, Vinculación y Convenios en Derechos Humanos, tendrá las siguientes facultades:
+
+I. Diseñar y evaluar las políticas públicas de acuerdo a la legislación internacional, nacional y local, tomando en cuenta a todos los sectores de la población, a fin de crear una cultura de respeto a los derechos humanos que garantice la eliminación de la violencia en contra de las mujeres, la discriminación y la falta de reconocimiento de los derechos de los pueblos y comunidades indígenas y afrodescendientes;
+
+II. Asegurar la incorporación de los estándares internacionales de derechos humanos en el ejercicio de la función pública;
+
+III. Asegurar la transversalización de la perspectiva de género y del pluralismo jurídico, para la formulación e incidencia de las políticas con enfoque de derechos humanos;
+
+IV. Elaborar una propuesta metodológica para la transversalización de la perspectiva de género y del pluralismo jurídico en la promoción de los derechos humanos que realizan distintas instituciones;
+
+V. Realizar los estudios necesarios sobre el derecho interno y la jurisprudencia nacional que sirvan de apoyo a la labor de la Defensoría, a la luz del sentido y alcance que la jurisprudencia internacional otorga a los derechos humanos;
+
+VI. Realizar los diagnósticos necesarios para integrar el programa de las políticas de la Defensoría;
+
+VII. Formular proyectos de modificaciones legislativas y reglamentarias ante diversas autoridades del Estado de Oaxaca que a juicio de la Defensoría redunden en una mejor protección de los derechos humanos, para su promoción ante las diversas autoridades del Estado;
+
+VIII. Analizar y vigilar el cumplimiento de las resoluciones e informes emitidos por instancias del derecho internacional al Estado mexicano en materia de violación a los derechos humanos; y
+
+IX. Las demás que le otorguen la presente ley, su reglamento interno y los demás ordenamientos aplicables.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+C. DEL DEPARTAMENTO DE ESTUDIOS, DIAGNÓSTICOS E INFORMES
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 27 QUINQUIES. La o el titular del Departamento de Estudios, Diagnósticos e Informes, tendrá las siguientes facultades:
+
+I. Diseñar e implementar los programas de educación e investigación en materia de derechos humanos;
+
+II. Diseñar y poner en práctica un sistema de indicadores y la metodología que permitan evaluar permanentemente los programas de educación e investigación en materia de derechos humanos;
+
+III. Realizar investigaciones, diagnósticos y publicaciones en materia de derechos humanos; y
+
+IV. Las demás que le otorguen la presente ley, su reglamento interno y los demás ordenamientos aplicables.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+D. DEL DEPARTAMENTO DE TECNOLOGÍA EDUCATIVA
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 27 SEXIES. La o el titular del Departamento de Tecnología Educativa, tendrá las siguientes facultades:
+
+I. Desarrollar el uso de las tecnologías digitales aplicadas a la educación para lograr entre la población y las autoridades, una mayor comprensión de los contenidos en materia de los derechos humanos;
+
+II. Brindar asesorías sobre tecnología educativa a quienes así lo soliciten, para el cumplimiento de las actividades formativas que realiza la Defensoría;
+
+III. Capacitar y orientar a las y los servidores públicos de la Defensoría en el manejo de esta modalidad educativa para la realización de otras tareas y acciones de enseñanza de los derechos humanos contenidas en las nuevas reformas a los tratados, declaraciones internacionales y leyes nacionales;
+
+IV. Diseñar el material y medios de apoyo para cursos a personal de otras instituciones estatales, y de la Defensoría en el empleo de tecnologías educativas;
+
+V. Elaborar el Programa de Trabajo Anual para su validación por parte del titular de la Secretaría Ejecutiva y realizar su seguimiento periódico;
+
+VI. Generar una guía metodológica para la utilización de la tecnología educativa orientada a la enseñanza de los derechos humanos;
+
+VII. Trabajar con expertos en los temas para identificar las necesidades de formación de la audiencia;
+
+VIII. Diseñar y desarrollar estructuras de cursos para aulas virtuales; y
+
+IX. Las demás acciones que le sean encomendadas por el Secretario Ejecutivo, la presente ley, su reglamento interno y los demás ordenamientos aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+### CAPÍTULO VIII BIS. DE LA DESIGNACIÓN DE LAS Y LOS INTEGRANTES DEL CONSEJO CIUDADANO
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 27 SEPTIES. Las personas integrantes del Consejo Ciudadano deberán cumplir los siguientes requisitos:
+
+I. Contar con la ciudadanía mexicana y estar en pleno ejercicio de sus derechos;
+
+II. Haber nacido en el Estado o haber residido en la entidad durante los últimos cinco años;
+
+III. Gozar de buena reputación en la sociedad civil por su reconocida probidad, honradez y capacidad den (sic) la defensa de los derechos humanos;
+
+IV. No haber desempeñado algún cargo dentro de la administración pública federal, estatal o municipal durante los dos últimos años anteriores al día de la designación;
+
+V. No haber sido condenado o condenada por delito intencional; y
+
+VI. No haber resultado responsable por violaciones a los derechos humanos en algunas de las recomendaciones emitidas por un organismo público de defensa y protección de los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 27 OCTIES. El Consejo Ciudadano deberá ser integrado por igual número de mujeres y hombres. Su designación se realizará de conformidad con el procedimiento establecido para el titular de la Defensoría.
+
+El Consejo Ciudadano estará integrado por seis personas, más el Defensor o Defensora, quien estará al frente de este órgano. El cargo de Consejero o Consejera tendrá carácter honorífico, con excepción del Defensor o Defensora y su duración será de seis años.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+### CAPÍTULO VIII TER. DE LAS FACULTADES Y FUNCIONES DEL CONSEJO CIUDADANO
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 27 NONIES. El Consejo Ciudadano tendrá las siguientes facultades:
+
+I. Establecer las políticas y criterios generales de actuación de la Defensoría;
+
+II. Aprobar el reglamento interno de la Defensoría y sus reformas, así como los manuales de organización, de procedimientos y de servicios al público;
+
+III. Opinar sobre los proyectos de informes de le Defensoría, así como de los asuntos que le sean sometidos a su consideración;
+
+IV. Revisar para su aprobación el Presupuesto que enviará al Congreso de Estado;
+
+V. Nombrar a la o el titular de la Secretaría Técnica del Consejo Ciudadano;
+
+VI. Nombrar a la o el titular de la Contraloría Interna de la Defensoría;
+
+VII. Proponer a la o el titular de la Defensoría, todas aquellas acciones y medidas que sirvan para una mejor observancia y tutela de los derechos humanos en el Estado;
+
+VIII. Vigilar la incorporación y aplicación de la perspectiva de género y pluralismo jurídico en la promoción y protección de los Derechos Humanos;
+
+X. Coadyuvar y vigilar el cumplimiento a lo dispuesto en la fracción XXX del artículo 13 de la presente Ley, y;
+
+X. Las demás que le otorguen la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella emanen, los instrumentos internacionales en materia de derechos humanos ratificados por el Estado Mexicano y otros ordenamientos legales del Estado.
+
 ### CAPÍTULO IX. DE LA SECRETARÍA TÉCNICA DEL CONSEJO CIUDADANO
-
-### CAPÍTULO X. DE LA COORDINACION GENERAL DE LA (SIC) DEFENSORIAS, Y DE LAS DEFENSORIAS ADJUNTAS Y ESPECIALIZADAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2020)</small>
-
-### CAPÍTULO XI. DE LA DIRECCIÓN DE PETICIONES, ORIENTACIÓN Y SEGUIMIENTO DE RECOMENDACIONES
 
 ###### Artículo 28.
 
@@ -529,17 +657,23 @@ V. Dar a conocer a los órganos que integran la Defensoría los acuerdos, tomado
 
 VI. Las demás que les sean conferidas mediante acuerdo del Consejo Ciudadano, o que se plasmen en el reglamento interno.
 
-### CAPÍTULO XII. DE LA DIRECCION DE COMUNICACIÓN SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+### CAPÍTULO X. DE LAS DIRECCIONES DE LAS DEFENSORÍAS ESPECIALIZADAS Y ADJUNTAS Y LAS DEFENSORÍAS REGIONALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 29.
 
-La o el Coordinador General de las Defensorías Adjuntas y especializadas, las y los Defensores Adjuntos y Especializados deberán reunir para su designación los siguientes requisitos:
+Las o los titulares de las Direcciones de las Defensorías Especializadas y Adjuntas, las y los Defensores Adjuntos, y las Regionales, deberán reunir para su designación los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
 
-I. Haber nacido en el Estado de Oaxaca o haber residido en él durante los últimos cinco años antes de su nombramiento y estar en pleno uso de sus derechos civiles y políticos;
+I. Tener ciudadanía mexicana y estar en pleno uso de sus derechos civiles y políticos.
 
-II. No haber desempeñado cargo dentro de la administración pública federal, estatal o municipal, durante los dos últimos años anteriores al día de la designación;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+II. No ser ministro de culto excepto que se haya separado de su ministerio con tres años de anticipación al día de su designación.
 
 > <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
 
@@ -573,9 +707,11 @@ IX. No estar ni haber estado afiliada o afiliado en ningún partido político al
 
 X. No haber sido sentenciado por delito doloso o intencional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 30.
 
-Son facultades y obligaciones de la o el titular de la Coordinación General de Defensorías Adjuntas y Especializadas.
+Son facultades y obligaciones de cada uno de las o los titulares de las Direcciones de las Defensorías Especializadas y Adjuntas, y Regionales:
 
 I. Admitir o rechazar, de manera fundada y motivada, las peticiones presentadas ante la Defensoría que le hubieran sido turnadas por la Dirección de Peticiones, Orientación y Seguimiento;
 
@@ -615,17 +751,25 @@ La Defensoría de los Derechos Humanos del Pueblo de Oaxaca contará con Defenso
 
 Quienes funjan como Defensoras o Defensores Adjuntos auxiliarán en sus funciones a los Defensores especializados en los términos que fije el reglamento interno.
 
-### CAPÍTULO XIII. DE LA DIRECCIÓN DE EDUCACIÓN, INVESTIGACIÓN Y PROMOCIÓN DE LA CULTURA DE RESPETO A LOS DERECHOS HUMANOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+### CAPÍTULO XI. DE LA DIRECCIÓN DE PETICIONES Y QUEJAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 33.
 
-El Director o Directora de Peticiones, Orientación y Seguimiento de Recomendaciones tendrá las siguientes facultades:
+El Director o Directora de Peticiones y Quejas, tendrá las siguientes facultades:
 
 I. Recibir y registrar las peticiones por presuntas violaciones a los derechos humanos que se presenten a la Defensoría;
 
-II. Estudiar y analizar las peticiones recibidas y en caso de procedencia turnarlas a la Defensoría Adjunta correspondiente;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
 
-III. Hacer del conocimiento de la o el titular de la Coordinación General de Defensorías Adjuntas o en su caso del Defensor o Defensora, de los asuntos que requieran una intervención urgente;
+II. Estudiar y analizar las peticiones recibidas y en caso de procedencia turnarlas a la Dirección de Defensorías correspondiente;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+III. Hacer del conocimiento de la o el titular de la Dirección de Defensorías Especializadas que corresponda o en su caso del Defensor o Defensora, de los asuntos que requieran una intervención urgente;
 
 IV. Coordinar, analizar y resolver las peticiones que se presenten con motivo del cumplimiento de las recomendaciones, acuerdos o peticiones y dar cuenta al Defensor o Defensora de los casos que hagan necesaria su intervención directa con los titulares de las dependencias a las que se les haya formulado recomendaciones;
 
@@ -641,11 +785,41 @@ IX. Turnar a la Dirección de la Contraloría las peticiones contra los servidor
 
 X. Las demás que le otorguen la presente Ley, su Reglamento Interno y los demás ordenamientos aplicables.
 
-### CAPÍTULO XIV. DE LA DIRECCIÓN DE POLÍTICAS PÚBLICAS EN DERECHOS HUMANOS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
 
-### CAPÍTULO XV. DE LA DIRECCIÓN DE ATENCIÓN A VÍCTIMAS
+### CAPÍTULO XI BIS. DE LA DIRECCIÓN DE PLANEACIÓN, ORGANIZACIÓN Y EVALUACIÓN
 
-### CAPÍTULO XVI. DE LA DIRECCIÓN ADMINISTRATIVA
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 33 BIS. La Directora o Director de Planeación, Organización y Evaluación, tendrá las siguientes facultades:
+
+I. Dirigir y coordinar los procedimientos técnicos en materia de formulación, seguimiento y evaluación de las políticas, planes, programas y proyectos de las distintas áreas de la Defensoría;
+
+II. Proponer y conducir los trabajos de planeación y evaluación del desempeño institucional, así como la operación de los sistemas de información que permitan la integración y evaluación de las estrategias institucionales en materia de derechos humanos;
+
+III. Dirigir y coordinar la realización de todas las actividades de seguimiento y evaluación del desempeño institucional de las distintas áreas de la Defensoría;
+
+IV. Planear, organizar, dirigir, supervisar y coordinar la elaboración del Informe Anual de actividades de la Defensoría, vinculado con el Plan Estratégico Institucional;
+
+V. Las demás que le otorguen la presente ley, su reglamento interno y los demás ordenamientos aplicables.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+### CAPÍTULO XI TER. DE LA DIRECCIÓN JURÍDICA
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 33 TER. La Directora o Director Jurídico, tendrá las siguientes facultades:
+
+I. Dar seguimiento a recomendaciones, propuestas de conciliación (propuestas de solución anticipada y acuerdos reparatorios), medidas cautelares, alertas tempranas y cualquier otra resolución de la Defensoría;
+
+II. Brindar la asesoría técnica jurídica en cualquier tema que requiera la Institución, así como lo relativo a la trasparencia y acceso a la información que se solicite a la Defensoría;
+
+III. Iniciar o brindar acompañamiento a víctimas directas o indirectas, o familiares de víctimas, en los juicios para la protección de Derechos Humanos a que se refiere el artículo 106, apartado B de la Constitución Política del Estado Libre y Soberano De Oaxaca; y
+
+IV. Las demás que le otorguen la presente ley, su reglamento interno y los demás ordenamientos aplicables.
+
+### CAPÍTULO XII. DE LA DIRECCION DE COMUNICACIÓN SOCIAL
 
 ###### Artículo 34.
 
@@ -667,77 +841,31 @@ VII. Publicar informes, revistas, folletos o cualquier otro documento, con infor
 
 VIII. Las demás que le confiere esta Ley y otras disposiciones aplicables.
 
-### CAPÍTULO XVII. DE LA CONTRALORIA INTERNA
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+### CAPÍTULO XIII. DE LA DIRECCIÓN DE EDUCACIÓN, INVESTIGACIÓN Y PROMOCIÓN DE LA CULTURA DE RESPETO A LOS DERECHOS HUMANOS
 
 ###### Artículo 35.
 
-La Directora o Director de Educación, Investigación y Promoción de la Cultura de Respeto a los Derechos Humanos, tendrá las siguientes facultades:
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2023)
 
-I. Diseñar e implementar los programas de capacitación, educación, investigación y promoción en materia (sic) derechos humanos;
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
 
-II. Promover y Organizar cursos, talleres y conferencias con temas relativos a los Derechos Humanos;
-
-III. Diseñar y poner en práctica un sistema de indicadores y la metodología que permitan evaluar permanentemente los cursos y actividades de capacitación de la Defensoría;
-
-IV. Promover en el Estado de Oaxaca el derecho internacional de los derechos humanos y en particular las resoluciones, recomendaciones, opiniones consultivas y observaciones finales e informes de organismos y mecanismos de los sistemas de protección de los derechos humanos;
-
-V. Publicar, impartir y difundir opiniones, información, disposiciones legales y conocimientos relativos a los derechos humanos;
-
-VI. Promover en la ciudadanía la enseñanza, capacitación e investigación sobre los derechos humanos a fin de fortalecer la cultura de la legalidad, los valores como la libertad, la paz, la justicia, el respeto, la tolerancia, la democracia, la solidaridad, la diversidad cultural, la comprensión de los usos y costumbres de los pueblos indígenas, la igualdad, la no discriminación, y la equidad de género;
-
-VII. Promover la capacitación obligatoria en materia de derechos humanos a los servidores públicos estatales y municipales, al inicio de sus funciones públicas o durante el desarrollo de las mismas;
-
-VIII. Realizar investigaciones, diagnósticos y publicaciones en materia de derechos humanos; y
-
-IX. Las demás que le otorguen la presente ley, su reglamento interno y los demás ordenamientos aplicables.
-
-### CAPÍTULO XVIII. LAS DEFENSORIAS MUNICIPALES DE LOS DERECHOS HUMANOS
+### CAPÍTULO XIV. DE LA DIRECCIÓN DE POLÍTICAS PÚBLICAS EN DERECHOS HUMANOS
 
 ###### Artículo 36.
 
-La Directora o el Director de Políticas Públicas en Derecho Humanos, tendrá las siguientes facultades:
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2023)
 
-I. Diseñar y evaluar las políticas públicas de acuerdo a la legislación internacional, nacional y local, tomando en cuenta a todos los sectores de la población, a fin de crear una cultura de respeto a los derechos humanos que garantice la eliminación de la violencia en contra de las mujeres, la discriminación y la falta de reconocimiento de los derechos de los pueblos y comunidades indígenas y afrodescendientes;
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
 
-II. Asegurar la incorporación de los estándares internacionales de derechos humanos en el ejercicio de la función pública;
-
-III. Asegurar la transversalización de la perspectiva de género y del pluralismo jurídico, para la formulación e incidencia de las políticas con enfoque de derechos humanos;
-
-IV. Elaborar una propuesta metodológica para la transversalización de la perspectiva de género y del pluralismo jurídico en la promoción de los derechos humanos que realizan distintas instituciones;
-
-V. Realizar los estudios necesarios sobre el derecho interno y la jurisprudencia nacional que sirvan de apoyo a la labor de la Defensoría, a la luz del sentido y alcance que la jurisprudencia internacional otorga a los derechos humanos;
-
-VI. Realizar los diagnósticos necesarios para integrar el programa de las políticas públicas de la Defensoría;
-
-VII. Formular proyectos de modificaciones legislativas y reglamentarias ante diversas autoridades del Estado de Oaxaca que a juicio de la Defensoría redunden en una mejor protección de los derechos humanos, para su promoción ante las diversas autoridades del Estado;
-
-VIII. Analizar y vigilar el cumplimiento de las resoluciones e informes emitidos por instancias del derecho internacional al Estado mexicano en materia de violación a los derechos humanos; y
-
-IX. Las demás que le otorguen la presente ley, su reglamento interno y los demás ordenamientos aplicables.
-
-### CAPÍTULO I. DEL PROCEDIMIENTO ANTE LA DEFENSORÍA
-
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+### CAPÍTULO XV. DE LA DIRECCIÓN DE ATENCIÓN A VÍCTIMAS
 
 ###### Artículo 37.
 
-La Directora o el Director para la atención a víctimas de violaciones de derechos humanos, tendrá las siguientes facultades:
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2023)
 
-I. Diseñar, promover y ejecutar el programa para la atención a víctimas de violaciones de derechos humanos con enfoque de género y pluralismo jurídico;
-
-II. Brindar la atención integral a personas que han vivido o enfrentado la violación de sus derechos tomando en cuenta las circunstancias especiales del caso y la persona;
-
-III. Proponer a la Defensora o Defensor el perfil del personal para la operatividad y desarrollo efectivo del programa de atención a víctimas;
-
-IV. Promover cursos, talleres y conferencias con temas relativos a la atención de las personas afectadas en la violación de sus derechos;
-
-V. Participar en el diseño y ejecución de programas implementados por instituciones públicas o privadas para la atención a víctimas;
-
-VI. Contribuir en la elaboración y contenidos de materiales didácticos para la atención a las víctimas de violaciones a los derechos humanos con perspectiva de género y pluralismo jurídico; y
-
-VII. Las demás relativas a su ámbito de competencia que le sean asignadas por la Defensora o Defensor o que en la materia se requieran.
-
-### CAPÍTULO II. DE LOS ACUERDOS Y RECOMENDACIONES
+### CAPÍTULO XVI. DE LA DIRECCIÓN ADMINISTRATIVA
 
 ###### Artículo 38.
 
@@ -761,9 +889,23 @@ VIII. Las demás que sean propias de su función administrativa; y
 
 IX. Las demás que le confieren esta Ley y otras disposiciones aplicables.
 
-### CAPÍTULO III. DE LAS NOTIFICACIONES Y LOS INFORMES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
 
-### CAPÍTULO IV. DE LAS INCONFORMIDADES
+### CAPÍTULO XVI BIS. DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN Y ESTADÍSTICA
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 38 BIS. La Directora o Director de Tecnologías de la Información y Estadística, tendrá las siguientes facultades:
+
+I. Creación y manejo de Sistemas de Información necesarios para el buen funcionamiento de la información de la Defensoría.
+
+II. Vigilar el buen uso de las operaciones de los Sistemas de Información implementados a la Defensoría.
+
+III. Llevar y dar seguimiento de un control de archivo y estadístico de la información recabada por la Defensoría.
+
+IV. Las demás que le otorguen la presente ley, su reglamento interno y los demás ordenamientos aplicables.
+
+### CAPÍTULO XVII. DE LA CONTRALORIA INTERNA
 
 ###### Artículo 39.
 
@@ -815,7 +957,7 @@ XI. Las demás que le confieren esta ley y otras disposiciones aplicables.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO I. OBLIGACIONES Y COLABORACIÓN
+### CAPÍTULO XVIII. LAS DEFENSORIAS MUNICIPALES DE LOS DERECHOS HUMANOS
 
 ###### Artículo 42.
 
@@ -827,7 +969,9 @@ XI. Las demás que le confieren esta ley y otras disposiciones aplicables.
 
 ## TÍTULO TERCERO. DEL PROCEDIMIENTO ANTE LA DEFENSORÍA
 
-### CAPÍTULO II. DE LA RESPONSABILIDAD DE LAS AUTORIDADES, SERVIDORES PÚBLICOS Y PARTICULARES
+### CAPÍTULO I. DEL PROCEDIMIENTO ANTE LA DEFENSORÍA
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 44.
 
@@ -949,9 +1093,11 @@ La Defensora o Defensor, tendrá la facultad de solicitar en cualquier momento a
 
 Las pruebas que se presenten tanto por las personas interesadas como por las autoridades o servidoras y servidores públicos a quienes se imputen las violaciones, o bien que la Defensoría requiera y recabe de oficio, serán valoradas en su conjunto de acuerdo con los principios de derechos humanos, así como del debido proceso, la lógica y de la máxima experiencia a fin de que puedan producir convicción sobre los hechos materia de la petición.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 68.
 
-Cuando para la resolución de un asunto se requiera una investigación, el Coordinador General de Defensorías, los Defensores Adjuntos y Especializados tendrán las siguientes facultades:
+Cuando para la resolución de un asunto se requiera una investigación, las o los Directores de las Defensorías Especializadas y Adjuntas y las Defensorías Regionales, tendrán las siguientes facultades:
 
 I. Pedir a las autoridades o servidores públicos a los que se imputen violaciones de derechos humanos, la presentación de informes o documentación adicionales;
 
@@ -967,15 +1113,17 @@ V. Efectuar todas las demás acciones que conforme a derecho juzgue convenientes
 
 Los resolutivos del expediente, que serán la base de las recomendaciones, estarán fundamentados en las Leyes Nacionales, Estatales e Internacionales en materia de Derechos Humanos en las que el Estado Mexicano es parte.
 
-### CAPÍTULO ÚNICO. DEL RÉGIMEN LABORAL
+### CAPÍTULO II. DE LOS ACUERDOS Y RECOMENDACIONES
 
 ###### Artículo 70.
 
 La Defensoría, con motivo de la substanciación de las quejas, podrá dictar acuerdos de trámite, los cuales serán obligatorios para las autoridades y servidores públicos a efecto de que aporten información o documentación. Su incumplimiento acarreará las sanciones y responsabilidades señaladas en el Título Cuarto, Capítulo II de la presente Ley.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 71.
 
-Concluida la investigación, el Defensor Adjunto y Especializado formulará en su caso, un proyecto de recomendación, o de determinación de no violación en los cuales se analizarán los hechos, los argumentos y pruebas, así como los elementos de convicción y las diligencias practicadas, a fin de determinar si las autoridades o servidores han violado o no los derechos humanos de los afectados, al haber incurrido en actos u omisiones ilegales, irrazonables, injustas, inadecuadas o erróneas, o hubiesen dejado sin respuesta las solicitudes presentadas por los interesados durante un periodo que exceda notoriamente los plazos fijados por esta Ley. En el proyecto de recomendación se señalarán las medidas que procedan para la efectiva restitución de los afectados en sus derechos fundamentales, y si procede en su caso, para la reparación de los daños y perjuicios que se hubiesen ocasionado. Los proyectos antes referidos serán sometidos al titular de la Defensoría para su consideración final.
+Concluida la investigación, las o los Defensores Especializados y Adjuntos y Regionales, formularán en su caso, un proyecto de recomendación, o de determinación de no violación en los cuales se analizarán los hechos, los argumentos y pruebas, así como los elementos de convicción y las diligencias practicadas, a fin de determinar si las autoridades o servidores han violado o no los derechos humanos de los afectados, al haber incurrido en actos u omisiones ilegales, irrazonables, injustas, inadecuadas o erróneas, o hubiesen dejado sin respuesta las solicitudes presentadas por los interesados durante un periodo que exceda notoriamente los plazos fijados por esta Ley. En el proyecto de recomendación se señalarán las medidas que procedan para la efectiva restitución de los afectados en sus derechos fundamentales, y si procede en su caso, para la reparación de os (sic) daños y perjuicios que se hubiesen ocasionado. Los proyectos antes referidos serán sometidos al titular de la Defensoría para su consideración final.
 
 ###### Artículo 72.
 
@@ -993,9 +1141,15 @@ La Defensoría no estará obligada a entregar ninguna de sus pruebas a la autori
 
 Las recomendaciones y las determinaciones de no violación se referirán a casos concretos; las autoridades no podrán aplicarlos a otros casos por analogía o mayoría de razón.
 
+### CAPÍTULO III. DE LAS NOTIFICACIONES Y LOS INFORMES
+
 ###### Artículo 76.
 
 La Defensoría notificará inmediatamente a los quejosos los resultados de la investigación, la recomendación que haya dirigido a las autoridades o servidores públicos responsables de las violaciones respectivas, la aceptación y la ejecución que se haya dado a la misma.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 76 BIS. Las notificaciones se harán personalmente, por correo electrónico, por estrados, por correo, telégrafo o por cualquier medio electrónico.
 
 ###### Artículo 77.
 
@@ -1009,11 +1163,15 @@ De no ser aceptada una recomendación, la Defensoría lo hará del conocimiento 
 
 Los informes anuales, deberán contener una descripción del número y características de las quejas y denuncias que se hayan presentado, los efectos de la labor de conciliación; las investigaciones realizadas, las recomendaciones y las determinaciones de no violación que se hubiesen formulado; los resultados obtenidos, así como las estadísticas, los programas desarrollados y demás datos que se consideren relevantes. El informe deberá contener propuestas dirigidas a las autoridades y servidores públicos competentes, federales, locales y municipales a efecto de promover la expedición o modificación de disposiciones legislativas y reglamentarias, así como para perfeccionar las prácticas administrativas, con el objeto de tutelar de manera más efectiva y expedita los derechos humanos de los gobernados y lograr una mayor eficiencia en la prestación de los servicios públicos.
 
+### CAPÍTULO IV. DE LAS INCONFORMIDADES
+
 ###### Artículo 79.
 
 Contra las recomendaciones o determinaciones de la Defensoría procederán los recursos de queja e impugnación a que se refiere el apartado B del artículo 102 de la Constitución Federal y regulados en la Ley de la Comisión Nacional de los Derechos Humanos.
 
 ## TÍTULO CUARTO. DE LAS AUTORIDADES Y LOS SERVIDORES PÚBLICOS
+
+### CAPÍTULO I. OBLIGACIONES Y COLABORACIÓN
 
 ###### Artículo 80.
 
@@ -1026,6 +1184,8 @@ Las autoridades o servidores públicos estatales o municipales a los que se les 
 ###### Artículo 82.
 
 En los términos previstos en la presente Ley, las autoridades y servidores públicos estatales y municipales, colaborarán dentro del ámbito de su competencia con la Defensoría.
+
+### CAPÍTULO II. DE LA RESPONSABILIDAD DE LAS AUTORIDADES, SERVIDORES PÚBLICOS Y PARTICULARES
 
 ###### Artículo 83.
 
@@ -1047,7 +1207,13 @@ Respecto a los particulares que durante los procedimientos de la Defensoría inc
 
 La Defensoría deberá poner en conocimiento de las autoridades superiores competentes, los actos u omisiones en que incurran los servidores públicos estatales y municipales, durante y con motivo de las investigaciones que realiza dicha Defensoría para efectos de la aplicación de las sanciones administrativas que deban imponerse. La autoridad superior deberá informar a la Defensoría sobre las medidas o sanciones disciplinarias aplicadas.
 
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 86 BIS. La Defensoría o la presunta víctima o familiar de la víctima, podrán iniciar el juicio para la protección de Derechos Humanos, en términos del artículo 106 apartado B de la Constitución Política del Estado Libre y Soberano de Oaxaca y su Ley Reglamentaria, por incumplimiento de sus recomendaciones.
+
 ## TÍTULO QUINTO. DEL RÉGIMEN LABORAL Y PATRIMONIO DE LA DEFENSORÍA
+
+### CAPÍTULO ÚNICO. DEL RÉGIMEN LABORAL
 
 ###### Artículo 87.
 
@@ -1058,6 +1224,10 @@ Dicho personal quedará incorporado al régimen del Fondo de Pensiones del Estad
 Se establecerá un servicio de carrera profesional que garantice el cumplimiento del objeto señalado en el artículo 2 de esta Ley, de conformidad con lo que disponga el Estatuto del Servicio Profesional en Derechos Humanos, que deberá ser aprobado por el Consejo Ciudadano a propuesta del Defensor.
 
 Debido a la naturaleza de las funciones que se desempeñan en la Defensoría, todo el personal está obligado a guardar sigilo sobre las actividades que desempeñan y a sujetarse a las responsabilidades que señalan esta Ley y los ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 87 BIS. Los bienes propiedad de la Defensoría que integren su patrimonio son inembargables e imprescriptibles, y solo podrán ser sujetos de algún contrato traslativo de dominio conforme a los procedimientos que establezca la ley de la materia.
 
 T R A N S I TO R I O S:
 
@@ -1170,3 +1340,15 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM.- 1536.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado.
+
+TERCERO. Las Direcciones que se crean operarán con los recursos asignados a las Direcciones extinguidas, sin afectar el presupuesto ya asignado.
+
+CUARTO. La Defensoría de los Derechos Humanos del Pueblo de Oaxaca contará con un plazo de 90 días naturales siguientes a la entrada en vigor del presente Decreto, para adecuar el reglamento de la Ley de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca.
