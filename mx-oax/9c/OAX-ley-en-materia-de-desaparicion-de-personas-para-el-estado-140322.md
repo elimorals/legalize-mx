@@ -4,7 +4,7 @@ identifier: "OAX-ley-en-materia-de-desaparicion-de-personas-para-el-estado-14032
 country: "mx"
 rank: "ley"
 publication_date: "2019-10-04"
-last_updated: "2020-09-04"
+last_updated: "2023-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Número Extra del Periódico Oficial del Estado de Oaxaca, el viernes 4 de octubre de 2019.
 
@@ -611,9 +611,9 @@ II. No haber resultado responsable de violaciones a derechos humanos en resoluci
 
 III. En el caso de servidores o ex servidores públicos, no haber sido objeto de sanciones administrativas graves de carácter firme;
 
-IV. No haber desempeñado cargo en algún partido político, dentro de los cuatro años previos a su nombramiento;
+IV. (DEROGADA, P.O. 23 DE SEPTIEMBRE DE 2023)
 
-V. No haber sido servidor público en los cinco años previos, y
+V. (DEROGADA, P.O. 23 DE SEPTIEMBRE DE 2023)
 
 VI. No tener conflicto de intereses en la búsqueda de personas.
 
@@ -1270,3 +1270,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas aquellas disposiciones que se opongan y contravengan el presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1529.- MEDIANTE EL CUAL SE DEROGAN LAS FRACCIONES IV Y V DEL ARTÍCULO 39 DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
