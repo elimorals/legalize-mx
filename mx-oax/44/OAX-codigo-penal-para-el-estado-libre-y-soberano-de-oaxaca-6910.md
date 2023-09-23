@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2023-03-25"
+last_updated: "2023-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3841,6 +3841,36 @@ XIV.- Cuando se trate de insumos y medicamentos destinados a las instituciones d
 
 369 Bis.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+369 Ter.- A quien robe una tapa de registro pluvial o tapa de alcantarilla del servicio público, se le impondrá de dos a seis años de prisión y multa de quinientas a dos mil veces el valor diario de la Unidad de Medida y Actualización.
+
+Si como consecuencia del delito de robo se producen daños al patrimonio, además de las penas señaladas en el párrafo que antecede, se aplicará al responsable el pago de los daños y perjuicios ocasionados.
+
+Si como consecuencia del delito de robo se producen lesiones de gravedad a una persona, además de las penas previstas en el primer párrafo, será responsable del pago de los gastos médicos originados por las lesiones que se causen y de los daños y perjuicios.
+
+Si como consecuencia del delito de robo una persona pierde la vida al caer en la alcantarilla o coladera sin tapa, la pena se incrementará hasta en dos terceras partes a la señalada en el primer párrafo de este artículo.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+369 Quater.- A quien robe mobiliario o equipamiento urbano propiedad del Estado o del municipio se le impondrá conforme al monto de lo robado las sanciones establecidas en los artículos 353 al 355 de este Código.
+
+Se entiende por mobiliario urbano a los elementos complementarios al equipamiento urbano, ya sean fijos, móviles, permanentes o temporales, ubicados en la vía pública o en espacios públicos formando parte de la infraestructura urbana, los que, de acuerdo a su función , se aplican para el descanso, comunicación, información, necesidades fisiológicas, comercio, seguridad, higiene, servicio, jardinería, así como aquellos otros muebles que determinen las autoridades en materia de desarrollo urbano.
+
+Se entiende por equipamiento urbano al conjunto de inmuebles, instalaciones, construcciones y mobiliario urbano, destinados a prestar a la población servicios públicos, de administración pública, de educación y cultura; de comercio, de salud y asistencia; de deporte y de recreación, de traslado y de transporte y otros, para satisfacer sus necesidades y su bienestar.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+369 Quinquies.- A quien adquiera, compre, venda, comercialice o transporte una o más tapas de registro o tapas de alcantarillas o equipamiento o mobiliario urbano propiedad del Estado, del Municipio o del titular de la concesión del servicio. público de que se trate, a sabiendas de que son producto de robo, se le impondrá las sanciones siguientes:
+
+I. Se aplicarán de 2 a 4 años de prisión y multa de 100 a 300 veces el valor diario de la Unidad de Medida y Actualización, así como el pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de cien veces el valor diario de la Unidad de Medida y Actualización; y,
+
+II. De 6 meses a 2 años de prisión y multa de 50 a 150 veces el valor diario de la Unidad de Medida y Actualización, cuando el valor de la afectación patrimonial no exceda de cien veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+
+369 Sexies.- Los delitos señalados de los artículos 369 Ter al 369 Quinquies se perseguirán de oficio.
+
 ### CAPITULO II.
 
 Abigeato.
@@ -6112,3 +6142,11 @@ P.O. 25 DE MARZO DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 23 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1530.- MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 369 TER; 369 QUATER, 369 QUINQUIES Y 369 SEXIES AL CAPÍTULO PRIMERO “ROBO”, DEL TÍTULO DÉCIMO NOVENO “DELITOS EN CONTRA DE LAS PERSONAS EN SU PATRIMONIO” DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
