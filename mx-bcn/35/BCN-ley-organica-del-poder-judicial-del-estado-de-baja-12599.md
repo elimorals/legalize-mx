@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2023-04-21"
+last_updated: "2023-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -2063,6 +2063,8 @@ El Pleno del Consejo de la Judicatura del Estado calificará los impedimentos de
 
 ### CAPITULO III. DE SUS ATRIBUCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTICULO 164.
 
 El Consejo de la Judicatura del Estado contará con aquellas Unidades Administrativas que sean necesarias para el mejor cumplimiento de sus atribuciones y que autorice el presupuesto de egresos.
@@ -2087,9 +2089,9 @@ Son atribuciones del Consejo de la Judicatura del Estado.
 
 I.- Establecer las unidades administrativas que estime convenientes para el adecuado funcionamiento del Consejo de la Judicatura del Estado y designar a los consejeros que deban integrarlas.
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
-II.- Expedir los reglamentos interiores en materia administrativa, de carrera judicial, de escalafón, régimen disciplinario y todos aquellos acuerdos generales que fueren necesarios para el adecuado ejercicio de sus atribuciones en términos del artículo 65 de la Constitución Política del Estado, así como el Reglamento de haber de retiro a que se refiere el artículo 293 de esta ley.
+II.- Expedir los reglamentos interiores en materia administrativa, de carrera judicial, de escalafón, régimen disciplinario y todos aquellos acuerdos generales que fueren necesarios para el adecuado ejercicio de sus atribuciones en términos del artículo 65 de la Constitución Política del Estado, así como de la reglamentación a que hacen referencia los artículos 293 y 294 de esta Ley.
 
 > <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -3337,21 +3339,27 @@ El retiro forzoso de los Magistrados se producirá al cumplir setenta años de e
 
 El Magistrado que haya sido removido de su cargo, en términos de lo dispuesto por el párrafo sexto inciso d) del artículo 58 de la Constitución Política del Estado Libre y Soberano de Baja California, no tendrá derecho al haber por retiro.
 
-(NOTA: EL 15 DE NOVIEMBRE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 35/2020, DECLARÓ LA INVALIDEZ DEL DECRETO 03 POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 17 DE NOVIEMBRE DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+###### ARTICULO 294.
 
-###### ARTÍCULO 294.
+Las y los Jueces del Poder Judicial al retirarse del cargo tendrán derecho a recibir una prestación periódica y temporal que garantice su independencia y autonomía en la función judicial, el cual tendrá carácter de intransferible en vida, y será equivalente por lo menos al cincuenta por ciento de la remuneración que perciban las y los jueces en activo, por un periodo máximo de nueve años, contados a partir del día siguiente al de la fecha de su retiro. Las y los jueces tendrán derecho a esta remuneración cuando se retiren del cargo con motivo de alguno de los siguientes supuestos:
 
-Al retirarse del cargo los Jueces del Poder Judicial que hayan alcanzado los setenta años de edad o completado los quince años en el ejercicio del encargo o que les haya sobrevenido una incapacidad física que les impida seguir en la función, tendrán derecho a recibir un haber de retiro, el cual tendrá carácter de intransferible, con una duración de dos años contados a partir del día siguiente al último día en que hayan estado en funciones, mismo que no será mayor al cincuenta por ciento de la última percepción que recibió como Juez del Poder Judicial del Estado.
+I.- Haber cumplido los setenta años de edad;
 
-El Consejo de la Judicatura expedirá el Reglamento del Haber de Retiro de los Jueces del Poder Judicial del Estado, donde se determine el esquema, cuantía y condiciones para su entrega, el cual deberá ser aprobado por las dos terceras partes de sus integrantes.
+II.- Haber desempeñado el cargo por un periodo de por lo menos quince años en el ejercicio del cargo; o,
 
-En el Reglamento del Haber de Retiro, se deberá contemplar la creación de un Fondo autofinanciable para el otorgamiento de este, en el que, mediante estudios de índole actuarial contable realizados a solicitud y patrocinio del Poder Judicial, y previa opinión de viabilidad financiera de la autoridad facultada para su emisión en su caso, se establecerá la determinación del esquema de aportaciones económicas por parte de los Jueces para cubrir y tener derecho al Haber de Retiro.
+III.- Que les haya sobrevenido una incapacidad física o mental que les impida continuar en el desempeño de su función.
 
-El Juez que haya sido removido de su cargo, en términos de lo dispuesto por el párrafo sexto inciso d) del artículo 58 de la Constitución Política del Estado libre y Soberano de Baja California o por resolución judicial, no tendrá derecho al haber por retiro.
+Las y los jueces que soliciten su retiro voluntario, antes de haber cumplido quince años en el ejercicio del cargo o bien que no hubieren sido ratificados en el mismo conforme a lo previsto en el artículo 62 de la Constitución Política del Estado de Baja California, accederán a la prestación a que hace referencia este artículo, por el plazo proporcional que corresponda a sus aportaciones, en los términos que disponga el reglamento respectivo.
 
-El Juez del Poder Judicial del Estado que sometido al procedimiento de ratificación no fuere ratificado, o solicite su retiro voluntario, no tendrá derecho al haber de retiro, pero podrá solicitar la devolución de las aportaciones retenidas durante el tiempo que duró en el cargo.
+Las y los jueces que hayan sido removidos de su cargo, en términos de lo dispuesto por el párrafo sexto, inciso d), del artículo 58 de la Constitución Política del Estado Libre y Soberano de Baja California o por resolución judicial, no tendrán derecho a la prestación regulada en el presente artículo, sin embargo, podrán solicitar la devolución de las aportaciones que hubieren efectuado durante el ejercicio de su función; exceptuando las cantidades destinadas a la administración del fondo correspondiente.
+
+El Consejo de la Judicatura expedirá el Reglamento para el otorgamiento de la prestación regulada en el presente artículo, donde se determinen los conceptos, esquemas, cuantía, términos y condiciones para su entrega o transferencia a beneficiarios, el cual deberá ser aprobado por las dos terceras partes de sus integrantes.
+
+El Reglamento deberá contemplar la creación de un fondo en el que, mediante estudios de índole actuarial, se establezcan los plazos y montos de aportaciones económicas que les corresponden a las y los Jueces, así como los esquemas de compensación de las aportaciones de los años en que no las hubieran realizado y demás lineamientos que sean necesarios para garantizar el otorgamiento de esta prestación.
+
+El Reglamento debe establecer el monto de las aportaciones que deberán hacer al fondo correspondiente sin excepción alguna, las y los Jueces del Poder Judicial del Estado.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -3908,3 +3916,11 @@ P.O. 21 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 223 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA LA REFORMA A LOS ARTÍCULOS 55, 65, 68, 420 BIS, 440, 441 490 Y 491, SE DEROGAN LOS ARTÍCULOS 387, 394, 394 BIS, 394 TER, 395, 398 Y 403 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO SE APRUEBA LA REFORMA A LOS ARTÍCULOS 237, 237 TER Y 237 QUATER DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA Y SE APRUEBA LA REFORMA AL ARTÍCULO 78 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 293 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 168 Y 294 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Consejo de la Judicatura deberá expedir el Reglamento de la prestación periódica y temporal que garantice la independencia y autonomía en la función judicial, de las y los Jueces del Poder Judicial del Estado a que se refiere el presente Decreto, dentro de un plazo no mayor a 90 días posteriores a la entrada en vigor de la presente reforma.
