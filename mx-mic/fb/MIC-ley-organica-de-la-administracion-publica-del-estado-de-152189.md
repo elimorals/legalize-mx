@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-152189"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-08"
-last_updated: "2022-12-22"
+last_updated: "2023-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Octava Sección del Número 77 del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 8 de octubre de 2021.
 
@@ -1141,7 +1141,9 @@ IV. Emitir opinión sobre el contenido de los proyectos y programas educativos q
 
 Para efectos de lo establecido en el párrafo anterior, la autoridad educativa estatal deberá garantizar la participación y consulta a los diversos actores sociales involucrados en la educación y los procesos educativos, de conformidad también con los artículos 2° de la Constitución Política de los Estados Unidos Mexicanos, 6 del Convenio 169 de la OIT y 4, numeral 3, de la Convención sobre los Derechos de las Personas con Discapacidad. En el caso de pueblos y comunidades indígenas y afrodescendientes, la consulta habrá de ser previa, libre, informada y culturalmente adecuada; en el caso de personas con discapacidad, la consulta habrá de ser real, accesible y con participación efectiva de las personas con discapacidad y las asociaciones que las representan;
 
-V. Generar políticas educativas en las que se reconozca la igualdad sustantiva entre todas las personas, promover programas y contenidos relativos para evitar prácticas discriminatorias en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+V. Generar políticas educativas en las que se reconozca la igualdad sustantiva entre todas las personas, promover programas y contenidos relativos para evitar prácticas discriminatorias en el ámbito de su competencia, considerando las acciones afirmativas establecidas en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Michoacán de Ocampo;
 
 VI. Coordinarse con la autoridad correspondiente para el fortalecimiento de la educación inicial, preescolar, primaria, secundaria, media superior y superior, observando los principios rectores y objetivos dispuestos por la Federación en la materia;
 
@@ -1660,3 +1662,13 @@ DÉCIMO SEGUNDO. Turnese el presente Decreto al Titular de la Auditoría Superio
 DÉCIMO TERCERO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado; para sus efectos conducentes.
 
 DÉCIMO CUARTO. El Titular del Poder Ejecutivo del Estado, acompañado del refrendo del Secretario de Gobierno de conformidad con lo dispuesto por el artículo 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, dispondrá se publique y observe.
+
+P.O. 25 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 439.- ARTÍCULO PRIMERO.- SE ADICIONA LA FRACCIÓN XIX BIS AL ARTÍCULO 38 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 31 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO TERCERO.- SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 9 DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE MICHOACÁN”.]
+
+Primero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Segundo. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Tercero. Notifíquese al Poder Ejecutivo de Michoacán de Ocampo, para que sirva ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
