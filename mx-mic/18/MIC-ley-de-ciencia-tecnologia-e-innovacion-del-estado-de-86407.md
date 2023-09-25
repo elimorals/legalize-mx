@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-86407"
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-07"
-last_updated: "2022-11-18"
+last_updated: "2023-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el martes 7 de febrero de 2012.
 
@@ -291,7 +291,9 @@ c) Que las investigaciones aplicadas tengan una relación directa con usuarios p
 
 d) Que las investigaciones que se realicen en el ámbito del aprovechamiento de los recursos naturales, se enfoquen al desarrollo sustentable en las regiones de la Entidad;
 
-XI. Solicitar y justificar a las instituciones de educación superior y centros de investigación establecidos en el Estado, la creación de posgrados en aquellas áreas, temas y disciplinas que sean identificadas como socialmente necesarias y que estén en el ámbito de su competencia, así como promover el fortalecimiento de los posgrados existentes en el estado;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+XI. Solicitar y justificar a las instituciones de educación superior y centros de investigación establecidos en el Estado, la creación de posgrados en aquellas áreas, temas y disciplinas que sean identificadas como socialmente necesarias, así como las de los ámbitos de Ciencia, Tecnología, Ingeniería y Matemáticas y las que estén en su competencia, para favorecer el fortalecimiento de los posgrados existentes, promoviendo la participación de las mujeres.
 
 XII. Participar en la planeación, instrumentación, ejecución, seguimiento, evaluación y difusión de las políticas y estrategias en materia de ciencia, tecnología e innovación, y su vinculación con el desarrollo estatal, formulando las propuestas de corto, mediano y largo plazo, para la presupuestación y financiamiento de los programas correspondientes;
 
@@ -1492,3 +1494,13 @@ SEGUNDO. El Artículo Segundo, del presente Decreto, entrará en vigor al moment
 Dese cuenta al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 TERCERO. Notifíquese el presente Decreto al Consejo Estatal de Ciencia, Tecnología e Innovación, para su debido conocimiento.
+
+P.O. 25 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 439.- ARTÍCULO PRIMERO.- SE ADICIONA LA FRACCIÓN XIX BIS AL ARTÍCULO 38 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 31 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO TERCERO.- SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 9 DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE MICHOACÁN”.]
+
+Primero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Segundo. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Tercero. Notifíquese al Poder Ejecutivo de Michoacán de Ocampo, para que sirva ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
