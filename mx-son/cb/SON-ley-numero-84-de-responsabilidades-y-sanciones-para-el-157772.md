@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-84-de-responsabilidades-y-sanciones-para-el-157772"
 country: "mx"
 rank: "ley"
 publication_date: "2022-04-26"
-last_updated: "2023-03-06"
+last_updated: "2023-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE RESPONSABILIDADES Y SANCIONES PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en Edición Especial del Boletín Oficial del Estado de Sonora, el martes 26 de abril de 2022.
 
@@ -93,7 +93,9 @@ IX.- Constitución Local: La Constitución Política del Estado Libre y Soberano
 
 X.- Declarante: El Servidor Público obligado a presentar declaración de situación patrimonial, de intereses y fiscal, en los términos de esta Ley;
 
-XI.- Denunciante: La persona física o moral, o el Servidor Público que acude ante las Autoridades investigadoras a que se refiere la presente Ley, con el fin de denunciar actos u omisiones que pudieran constituir o vincularse con Faltas administrativas, en términos de los artículos 131 y 133 de esta Ley;
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+XI.- Denunciante: La persona física o moral, o el Servidor Público que acude ante las Autoridades investigadoras a que se refiere la presente Ley, con el fin de denunciar actos u omisiones que pudieran constituir o vincularse con Faltas administrativas, en términos de los artículos 96 y 98 de esta Ley;
 
 XII.- Ente público: Los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, las dependencias y entidades de la Administración Pública Estatal, los municipios del Estado y sus dependencias y entidades, la Fiscalía General de Justicia del Estado de Sonora y las fiscalías especializadas, los órganos jurisdiccionales que no formen parte del poder judicial, las empresas de participación estatal mayoritaria, así como cualquier otro ente sobre el que tenga control cualquiera de los poderes y órganos públicos citados de los órdenes de gobierno estatal y municipal;
 
@@ -107,7 +109,9 @@ XVI.- Falta administrativa no grave: Las faltas administrativas de los Servidore
 
 XVII.- Falta administrativa grave: Las faltas administrativas de los Servidores Públicos catalogadas como graves en los términos de la presente Ley, cuya sanción corresponde al Tribunal;
 
-XVIII.- Faltas de particulares: Los actos de personas físicas o morales privadas que estén vinculados con faltas administrativas graves a que se refieren los Capítulos III y IV del Título Cuarto de esta Ley, cuya sanción corresponde al Tribunal en los términos de la misma;
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+XVIII.- Faltas de particulares: Los actos de personas físicas o morales privadas que estén vinculados con faltas administrativas graves a que se refieren los Capítulos III y IV del Título Tercero de esta Ley, cuya sanción corresponde al Tribunal en los términos de la misma;
 
 XIX.- Informe de Presunta Responsabilidad Administrativa: El instrumento en el que las autoridades investigadoras describen los hechos relacionados con alguna de las faltas señaladas en la presente Ley, exponiendo de forma documentada con las pruebas y fundamentos, los motivos y presunta responsabilidad del Servidor Público o de un particular en la comisión de Faltas administrativas;
 
@@ -123,7 +127,9 @@ XXIV.- Principio de razonabilidad: Aquel por el cual se establecen conexiones ca
 
 XXV.- Secretaría: La Secretaría de la Contraloría General del Estado de Sonora;
 
-XXVI.- Servidores Públicos: Las personas que desempeñan un empleo, cargo o comisiónen (sic) los entes públicos, en el ámbito estatal y municipal, conforme a lo dispuesto en el artículo 143 dela (sic) Constitución Política del Estado de Sonora;
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+XXVI.- Servidor Público: Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública centralizada, organismos descentralizados, empresas de participación estatal mayoritaria, organizaciones y sociedades asimiladas a estas, fideicomisos públicos, empresas productivas del Estado, en los órganos constitucionales autonomos, en el Congreso del Estado o en el Poder Judicial del Estado, o que manejen recursos económicos estatales.
 
 XXVII.- Sistema Nacional Anticorrupción: La instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos;
 
@@ -131,7 +137,7 @@ XXVIII.- Sistema Estatal Anticorrupción: La instancia estatal de coordinación 
 
 XXIX.- Tribunal: Tribunal de Justicia Administrativa; y
 
-XXX.- Servidor público: Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública centralizada, organismos descentralizados, empresas de participación estatal mayoritaria, organizaciones y sociedades asimiladas a estas, fideicomisos públicos, empresas productivas del Estado, en los órganos constitucionales autónomos, en el Congreso del Estado o en el Poder Judicial del Estado, o que manejen recursos económicos estatales.
+XXX.- (DEROGADA, B.O. 25 DE SEPTIEMBRE DE 2023)
 
 ###### ARTÍCULO 4.
 
@@ -341,7 +347,9 @@ La Plataforma digital nacional contará además con los sistemas de información
 
 En el sistema de evolución patrimonial, de declaración de intereses y de constancias de presentación de la declaración fiscal de la Plataforma digital nacional, se inscribirán los datos públicos de los Servidores Públicos obligados a presentar declaraciones de situación patrimonial y de intereses. De igual forma, se inscribirá la constancia que para efectos de esta Ley emita la autoridad fiscal, sobre la presentación de la declaración anual de impuestos.
 
-En el sistema nacional de Servidores Públicos y particulares sancionados de la Plataforma digital nacional se inscribirán y se harán públicas, de conformidad con lo dispuesto en la Ley General del Sistema Nacional Anticorrupción, la Ley del Sistema Estatal Anticorrupción y las disposiciones legales en materia de transparencia, las constancias de sanciones o de inhabilitación que se encuentren firmes en contra de los Servidores Públicos o particulares que hayan sido sancionados por actos vinculados con faltas graves en términos de esta Ley, así como la anotación de aquellas abstenciones que hayan realizado las autoridades investigadoras, sustanciadoras o el Tribunal, en términos de los artículos 82 y 107 de esta Ley.
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+En el sistema nacional de Servidores Públicos y particulares sancionados de la Plataforma digital nacional se inscribirán y se harán públicas, de conformidad con lo dispuesto en la Ley General del Sistema Nacional Anticorrupción, la Ley del Sistema Estatal Anticorrupción y las disposiciones legales en materia de transparencia, las constancias de sanciones o de inhabilitación que se encuentren firmes en contra de los Servidores Públicos o particulares que hayan sido sancionados por actos vinculados con faltas graves en términos de esta Ley, así como la anotación de aquellas abstenciones que hayan realizado las autoridades investigadoras, sustanciadoras o el Tribunal, en términos de los artículos 82 y 85 de esta Ley.
 
 Los entes públicos, previo al nombramiento, designación o contratación de quienes pretendan ingresar al servicio público, consultarán el sistema nacional de Servidores Públicos y particulares sancionados de la Plataforma digital nacional, con el fin de verificar si existen inhabilitaciones de dichas personas.
 
@@ -451,7 +459,9 @@ La Secretaría y los Órganos Internos de Control, según corresponda, tendrán 
 
 Cuando las Autoridades investigadoras, en el ámbito de sus competencias, llegaren a formular denuncias ante el Ministerio Público correspondiente, éstas serán coadyuvantes del mismo en el procedimiento penal respectivo.
 
-Las autoridades investigadoras constituidas como coadyuvantes del Ministerio Público podrán impugnar ante la autoridad competente las omisiones de él en la investigación de los delitos, así como las resoluciones que emita en materia de declinación de competencia, reserva, no ejercicio o desistimiento de la acción penal, o suspensión del procedimiento.
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+Las autoridades investigadoras constituidas como coadyuvantes del Ministerio Público podrán impugnar ante la autoridad competente las omisiones en la investigación de los delitos, así como las resoluciones que emita en materia de declinación de competencia, reserva, no ejercicio o desistimiento de la acción penal, o suspensión del procedimiento.
 
 Cuando el Instituto Superior de Auditoria y Fiscalización o en su caso la Secretaría de la Contraloría General del Estado no sean denunciantes, a solicitud del Ministerio Publico, los abogados de éstos entes podrán actuar como asesores técnicos dentro de los procedimientos penales que se sigan por delitos relacionados con hechos de corrupción cuando se haya visto afectada la hacienda de un ente público o entidad.
 
@@ -529,13 +539,23 @@ VII.- Rendir cuentas sobre el ejercicio de las funciones, en términos de las no
 
 VIII.- Colaborar en los procedimientos judiciales y administrativos en los que sea parte;
 
-IX.- Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento;
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+IX.- Emitir opinión pública sin prejuzgar sobre un asunto de su conocimiento;
 
 X.- Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en sucaso (sic), que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un Conflicto de Interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del Órgano Interno de Control, o en su caso de la Secretaría, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad;
 
-XI.-·Sin perjuicio de la obligación anterior, previo a realizar cualquier acto jurídico que involucre el ejercicio de recursos públicos con personas jurídicas, revisar su constitución y, en su caso, sus modificaciones con el fin de verificar que sus socios, integrantes de los consejos de administración o accionistas que ejerzan control no incurran en conflicto de interés; y
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
-XII.- Omitir el impulso procesal que oficiosamente corresponda, tratándose de juicios o procedimientos de carácter administrativo, cuyo incumplimiento derive en la caducidad de los mismos.
+XI.- Sin perjuicio de la obligación anterior, previo a realizar cualquier acto jurídico que involucre el ejercicio de recursos públicos con personas jurídicas, revisar su constitución y, en su caso, sus modificaciones con el fin de verificar que sus socios, integrantes de los consejos de administración o accionistas que ejerzan control no incurran en conflicto de interés;
+
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+XII.- Omitir el impulso procesal que oficiosamente corresponda, tratándose de juicios o procedimientos de carácter administrativo, cuyo incumplimiento derive en la caducidad de los mismos; y
+
+> <small>(ADICIONADA, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+XIII.- Cumplir con las funciones, atribuciones y comisiones encomendadas.
 
 Para efectos de esta Ley se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos quepermitan (sic) ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorioen (sic) sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales.
 
@@ -549,7 +569,9 @@ Los Entes públicos o los particulares que, en términos de este artículo, haya
 
 En caso de que no se realice el reintegro de los recursos señalados en el párrafo anterior, estos serán considerados créditos fiscales, por lo que la Secretaría de Hacienda del Estado deberá ejecutar el cobro de los mismos en términos de las disposiciones jurídicas aplicables.
 
-La Autoridad resolutora podrá abstenerse de imponer la sanción que corresponda conforme al artículo 107 de esta Ley, cuando el daño o perjuicio a la Hacienda Pública o al patrimonio de los entes públicos no exceda de dos mil veces el valor diario de la Unidad de Medida y Actualización, y el daño haya sido resarcido o recuperado.
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+La Autoridad resolutora podrá abstenerse de imponer la sanción que corresponda conforme al artículo 82 de esta Ley, cuando el daño o perjuicio a la Hacienda Pública o al patrimonio de los entes públicos no exceda de dos mil veces el valor diario de la Unidad de Medida y Actualización y el daño haya sido resarcido o recuperado.
 
 ### CAPÍTULO II. DE LAS FALTAS ADMINISTRATIVAS GRAVES DE LOS SERVIDORES PÚBLICOS
 
@@ -589,9 +611,11 @@ La restricción prevista en el presente artículo será aplicable inclusive cuan
 
 Comete simulación de acto jurídico el servidor público que utilice personalidad jurídica distinta a la suya para obtener, en beneficio propio o de algún familiar hasta el cuarto grado por consanguinidad o afinidad, recursos públicos en forma contraria a la ley. Esta falta administrativa se sancionará con inhabilitación de cinco a diez años.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 58.
 
-Incurrirá en abuso de funciones la persona que funja como servidora o servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el artículo 91 de esta Ley o para causar perjuicio a alguna persona o al servicio público; así como cuando realice por sí o a través de un tercero, alguna de las conductas descritas en el artículo 14 Bis de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sonora.
+Incurrirá en abuso de funciones la persona que funja como servidora o servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el artículo 53 de esta Ley o para causar perjuicio a alguna persona o al servicio público; así como cuando realice por sí o a través de un tercero, alguna de las conductas descritas en el artículos 8, 8 Bis, 12 y 14 Bis de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sonora.
 
 ###### ARTÍCULO 59.
 
@@ -651,7 +675,9 @@ III.- Revelen la identidad de un denunciante anónimo protegido bajo los precept
 
 IV.- No de impulso procesal a los procedimientos sancionatorios y como consecuencia de su inactividad procesal, se prescriban las probables faltas administrativas cometidas por servidores públicos.
 
-Para efectos de la fracción anterior, los Servidores Públicos que denuncien una Falta administrativa grave o Faltas de particulares, o sean testigos en el procedimiento, podrán solicitar medidas de protección que resulten razonables. La solicitud deberá ser evaluada y atendida de manera oportuna por el Ente público donde presta sus servicios el denunciante.
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+Para efectos de la fracción III, los Servidores Públicos que denuncien una Falta administrativa grave o Faltas de particulares, o sean testigos en el procedimiento, podrán solicitar medidas de protección que resulten razonables. La solicitud deberá ser evaluada y atendida de manera oportuna por el Ente público donde presta sus servicios el denunciante.
 
 ### CAPÍTULO III. DE LOS ACTOS DE PARTICULARES VINCULADOS CON FALTAS ADMINISTRATIVAS GRAVES
 
@@ -991,17 +1017,21 @@ La Autoridad requirente otorgará un plazo de cinco hasta quince días hábiles 
 
 Cuando los entes públicos, derivado de la complejidad de la información solicitada, requieran de un plazo mayor para su atención, deberán solicitar la prórroga debidamente justificada ante la Autoridad requirente; de concederse la prórroga en los términos solicitados, el plazo que se otorgue será improrrogable.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 102.
 
-Las autoridades investigadoras, fiscalizadoras y auditoras, podrán hacer uso de las siguientes medidas para hacer cumplir sus determinaciones:
+Las autoridades investigadoras, sustanciadoras, fiscalizadoras y auditoras, podrán hacer uso de las siguientes medidas para hacer cumplir sus determinaciones:
 
-I.- Multa hasta por la cantidad equivalente de cien a ciento cincuenta veces el valor diariode (sic) la Unidad de Medida y Actualización, la cual podrá duplicarse o triplicarse en cada ocasión, hasta alcanzar dos mil veces el valor diario de la Unidad de Medida y Actualización, en caso de renuencia al cumplimiento del mandato respectivo;
+I.- Multa hasta por la cantidad equivalente de cien a ciento cincuenta veces el valor diario de (sic) la Unidad de Medida y Actualización, la cual podrá duplicarse o triplicarse en cada ocasión, hasta alcanzar dos mil veces el valor diario de la Unidad de Medida y Actualización, en caso de renuencia al cumplimiento del mandato respectivo;
 
 II.- Solicitar el auxilio de la fuerza pública de cualquier orden de gobierno, los que deberán de atender de inmediato el requerimiento de la autoridad; o
 
 III.- Arresto hasta por treinta y seis horas.
 
-Las sanciones económicas impuestas por las autoridades investigadoras o sustanciadoras constituirán créditos fiscales a favor de la Hacienda Pública Estatal o Municipal, o del patrimonio de los entes públicos, según corresponda. Dichos créditos fiscales se harán efectivos mediante el procedimiento administrativo de ejecución, por la Secretaría de Hacienda del Estado o los Ayuntamientos, por conducto de su dependencia respectiva, según corresponda, a la que será notificada la resolución emitida por la autoridad respectiva.
+Las sanciones económicas impuestas por las autoridades investigadoras, sustanciadoras, fiscalizadoras y auditoras constituirán créditos fiscales a favor de la Hacienda Pública Estatal o Municipal, o del patrimonio de los entes públicos, según corresponda.
+
+Dichos créditos fiscales se harán efectivos mediante el procedimiento administrativo de ejecución, por la Secretaría de Hacienda del Estado o los Ayuntamientos, por conducto de su dependencia respectiva, según corresponda, a la que será notificada la resolución emitida por la autoridad respectiva.
 
 ###### ARTÍCULO 103.
 
@@ -1149,9 +1179,11 @@ Tratándose de personas morales estas deberán comparecer en todo momento a trav
 
 En lo que no se oponga a lo dispuesto en el procedimiento de responsabilidad administrativa, será de aplicación supletoria lo dispuesto en la Ley de Justicia Administrativa para el Estado de Sonora y, en su defecto, se aplicará el Código de Procedimientos Civiles para el Estado de Sonora.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 124.
 
-En los procedimientos de responsabilidad administrativa se estimarán como días hábiles todos los del año, con excepción de aquellos días que, por virtud de ley, algún decreto o disposición administrativa, se determine como inhábil, durante los que no se practicará actuación alguna. Serán horas hábiles las que medien entre las 9:00 y las 18:00 horas. Las autoridades sustanciadoras o resolución del asunto, podrán habilitar días y horas inhábiles para la práctica de aquellas diligencias que, a su juicio, lo requieran.
+En los procedimientos de responsabilidad administrativa se estimarán como días hábiles todos los del año, con excepción de aquellos días que, por virtud de ley, algún decreto o disposición administrativa, se determine como inhábil, durante los que no se practicará actuación alguna. Serán horas hábiles las que medien entre las 9:00 y las 18:00 horas. Las autoridades sustanciadoras o resolutoras del asunto, podrán habilitar días y horas inhábiles para la práctica de aquellas diligencias que, a su juicio, lo requieran.
 
 Iniciada una diligencia en horas hábiles podrá válidamente concluirse, aunque se actué en horas inhábiles, sin necesidad de determinación especial.
 
@@ -1211,21 +1243,27 @@ V.- Las que sean necesarias para evitar un daño irreparable a la Hacienda Públ
 
 El otorgamiento de medidas cautelares se tramitará mediante escrito o de manera incidental según corresponda. El escrito en el que se soliciten se deberá señalar las pruebas cuyo ocultamiento o destrucción se pretende impedir; los efectos perjudiciales que produce la presunta falta administrativa; los actos que obstaculizan el adecuado desarrollo del procedimiento de responsabilidad administrativa; o bien, el daño irreparable a la Hacienda Pública Federal, Estatal o Municipal, o bien, al patrimonio de los entes públicos, expresando los motivos por los cuales se solicitan las medidas cautelares y donde se justifique su pertinencia. En cualquier caso, se deberá indicar el nombre y domicilios (sic) de quienes serán afectados con las medidas cautelares, para que, en su caso, se les dé vista del incidente respectivo.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 131.
 
-Con el escrito o el incidente por el que se soliciten las medidas cautelares se dará vista a todos aquellos que serán directamente afectados con las mismas, para que en un término de cinco días hábiles manifiesten lo que a su derecho convenga. Si la autoridad que conozca del incidente lo estima necesario, en el acuerdo de admisión podrá conceder provisionalmente las medidas cautelares solicitadas.
+Con el escrito o el incidente por el que se soliciten las medidas cautelares se dará vista a todos aquellos que serán directamente afectados con las mismas, para que en un término de cinco días hábiles manifiesten lo que a su derecho convenga. Si la autoridad que conozca del escrito o el incidente lo estima necesario, en el acuerdo de admisión podrá conceder provisionalmente las medidas cautelares solicitadas.
+
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 132.
 
-Transcurrido el plazo señalado en el artículo anterior, la Autoridad resolutora dictará la resolución interlocutoria que corresponda dentro de los cinco días hábiles siguientes. En contra de dicha determinación no procederá recurso alguno; en caso de interponerse en la etapa de investigación se aplicará el mismo criterio.
+Transcurrido el plazo señalado en el artículo anterior, la Autoridad Resolutora dictará la resolución o en su caso la resolución interlocutoria que corresponda, dentro de los cinco días hábiles siguientes. En contra de dicha determinación no procederá recurso alguno; en caso de interponerse en la etapa de investigación se aplicará el mismo criterio.
 
 ###### ARTÍCULO 133.
 
 Las medidas cautelares que tengan por objeto impedir daños a la Hacienda Pública Federal o de las entidades federativas, municipios o alcaldías, o bien, al patrimonio de los entes públicos sólo se suspenderán cuando el presunto responsable otorgue garantía suficiente de la reparación del daño y los perjuicios ocasionados.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 134.
 
-Se podrá solicitar la suspensión de las medidas cautelares en cualquier momento del procedimiento o de la investigación, debiéndose justificar las razones por las que se estime innecesario que éstas continúen, para lo cual se deberá seguir el procedimiento incidental descrito en esta sección. Contra la resolución que niegue la suspensión de las medidas cautelares no procederá recurso alguno.
+Se podrá solicitar la suspensión de las medidas cautelares en cualquier momento del procedimiento o de la investigación, debiéndose justificar las razones por las que se estime innecesario que éstas continúen, para lo cual se deberá seguir el procedimiento en el que se haya iniciado, descritos en esta sección. Contra la resolución que niegue la suspensión de las medidas cautelares no procederá recurso alguno.
 
 #### SECCIÓN CUARTA. DE LAS PRUEBAS
 
@@ -1237,9 +1275,11 @@ Para conocer la verdad de los hechos las autoridades resolutoras podrán valerse
 
 Las pruebas serán valoradas atendiendo a las reglas de la lógica, la sana crítica y de la experiencia.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 137.
 
-Las autoridades resolutoras recibirán por sí mismas las declaraciones de testigos y peritos, y presidirán todos los actos de prueba bajo su más estricta responsabilidad.
+Las autoridades sustanciadoras recibirán por sí mismas las declaraciones de testigos y peritos, y presidirán todos los actos de prueba bajo su más estricta responsabilidad.
 
 ###### ARTÍCULO 138.
 
@@ -1265,25 +1305,35 @@ De toda prueba superveniente se dará vista a las partes por un término de tres
 
 Los hechos notorios no serán objeto de prueba, pudiendo la autoridad que resuelva el asunto referirse a ellos aun cuando las partes no los hubieren mencionado.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 144.
 
-En caso de que cualquiera de las partes hubiere solicitado la expedición de un documento o informe que obre en poder de cualquier persona o Ente público y no se haya expedido sin causa justificada, la autoridad resolutora del asunto ordenará que se expida la misma, para lo cual podrá hacer uso de los medios de apremio previstos en esta Ley.
+En caso de que cualquiera de las partes hubiere solicitado la expedición de un documento o informe que obre en poder de cualquier persona o Ente público y no se haya expedido sin causa justificada, la autoridad sustanciadora del asunto ordenará que se expida la misma, para lo cual podrá hacer uso de los medios de apremio previstos en esta Ley.
+
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 145.
 
-Cualquier persona, aun cuando no sea parte en el procedimiento, tiene la obligación de prestar auxilio a las autoridades resolutoras del asunto para la averiguación de la verdad, por lo que deberán exhibir cualquier documento o cosa, o rendir su testimonio en el momento en que sea requerida para ello. Estarán exentos de tal obligación los ascendientes, descendientes, cónyuges, concubinos y personas que tengan la obligación de mantener el secreto profesional, en los casos en que se trate de probar contra la parte con la que estén relacionados.
+Cualquier persona, aun cuando no sea parte en el procedimiento, tiene la obligación de prestar auxilio a las autoridades sustanciadoras del asunto para la averiguación de la verdad, por lo que deberán exhibir cualquier documento o cosa, o rendir su testimonio en el momento en que sea requerida para ello. Estarán exentos de tal obligación los ascendientes, descendientes, cónyuges, concubinos y personas que tengan la obligación de mantener el secreto profesional, en los casos en que se trate de probar contra la parte con la que estén relacionados.
+
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 146.
 
-El derecho nacional no requiere ser probado. El derecho extranjero podrá ser objeto de prueba en cuanto su existencia, validez, contenido y alcance, para lo cual las autoridades resolutoras del asunto podrán valerse de informes que se soliciten por conducto de la Secretaría de Relaciones Exteriores, sin perjuicio de las pruebas que al respecto puedan ofrecer las partes.
+El derecho nacional no requiere ser probado. El derecho extranjero podrá ser objeto de prueba en cuanto su existencia, validez, contenido y alcance, para lo cual las autoridades sustanciadoras del asunto podrán valerse de informes que se soliciten por conducto de la Secretaría de Relaciones Exteriores, sin perjuicio de las pruebas que al respecto puedan ofrecer las partes.
+
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 147.
 
-Las autoridades resolutoras del asunto podrán ordenar la realización de diligencias para mejor proveer, sin que por ello se entienda abierta de nuevo la investigación, disponiendo la práctica o ampliación de cualquier diligencia probatoria, siempre que resulte pertinente para el conocimiento de los hechos relacionados con la existencia de la falta administrativa y la responsabilidad de quien la hubiera cometido. Con las pruebas que se alleguen al procedimiento derivadas de diligencias para mejor proveer se dará vista a las partes por el término de tres días para que manifiesten lo que a su derecho convenga, pudiendo ser objetadas en cuanto a su alcance y valor probatorio en la vía incidental.
+Las autoridades sustanciadoras del asunto podrán ordenar la realización de diligencias para mejor proveer, sin que por ello se entienda abierta de nuevo la investigación, disponiendo la práctica o ampliación de cualquier diligencia probatoria, siempre que resulte pertinente para el conocimiento de los hechos relacionados con la existencia de la falta administrativa y la responsabilidad de quien la hubiera cometido. Con las pruebas que se alleguen al procedimiento derivadas de diligencias para mejor proveer se dará vista a las partes por el término de tres días para que manifiesten lo que a su derecho convenga, pudiendo ser objetadas en cuanto a su alcance y valor probatorio en la vía incidental.
+
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 148.
 
-Cuando la preparación o desahogo de las pruebas deba tener lugar fuera del ámbito jurisdiccional de la Autoridad resolutora del asunto, podrá solicitar, mediante exhorto o carta rogatoria, la colaboración de las autoridades competentes del lugar. Tratándose de cartas rogatorias se estará a lo dispuesto en los tratados y convenciones de los que México sea parte.
+Cuando la preparación o desahogo de las pruebas deba tener lugar fuera del ámbito jurisdiccional de la Autoridad sustanciadora del asunto, podrá solicitar, mediante exhorto o carta rogatoria, la colaboración de las autoridades competentes del lugar. Tratándose de cartas rogatorias se estará a lo dispuesto en los tratados y convenciones de los que México sea parte.
 
 #### SECCIÓN QUINTA. DE LAS PRUEBAS EN PARTICULAR
 
@@ -1291,17 +1341,23 @@ Cuando la preparación o desahogo de las pruebas deba tener lugar fuera del ámb
 
 La prueba testimonial estará a cargo de todo aquél que tenga conocimiento de los hechos que las partes deban probar, quienes, por ese hecho, se encuentran obligados a rendir testimonio.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 150.
 
-Las partes podrán ofrecer los testigos que consideren necesarios para acreditar los hechos que deban demostrar. La Autoridad resolutora podrá limitar el número de testigos si considera que su testimonio se refiere a los mismos hechos, para lo cual, en el acuerdo donde así lo determine, deberá motivar dicha resolución.
+Las partes podrán ofrecer los testigos que consideren necesarios para acreditar los hechos que deban demostrar. La Autoridad sustanciadora podrá limitar el número de testigos si considera que su testimonio se refiere a los mismos hechos, para lo cual, en el acuerdo donde así lo determine, deberá motivar dicha resolución.
+
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 151.
 
-La presentación de los testigos será responsabilidad de la parte que los ofrezca. Solo serán citados por la Autoridad resolutora cuando su oferente manifieste que está imposibilitado para hacer que se presenten, en cuyo caso, se dispondrá la citación del testigo mediante la aplicación de los medios de apremio señalados en esta Ley.
+La presentación de los testigos será responsabilidad de la parte que los ofrezca. Solo serán citados por la Autoridad sustanciadora cuando su oferente manifieste que está imposibilitado para hacer que se presenten, en cuyo caso, se dispondrá la citación del testigo mediante la aplicación de los medios de apremio señalados en esta Ley.
+
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 152.
 
-Quienes por motivos de edad o salud no pudieran presentarse a rendir su testimonio ante la Autoridad resolutora, se les tomará su testificación en su domicilio o en el lugar donde se encuentren, pudiendo asistir las partes a dicha diligencia.
+Quienes por motivos de edad o salud no pudieran presentarse a rendir su testimonio ante la Autoridad sustanciadora, se les tomará su testificación en su domicilio o en el lugar donde se encuentren, pudiendo asistir las partes a dicha diligencia.
 
 ###### ARTÍCULO 153.
 
@@ -1315,9 +1371,11 @@ Con excepción de lo dispuesto en el artículo anterior, las preguntas que se di
 
 La parte que haya ofrecido la prueba será la primera que interrogará al testigo, siguiendo las demás partes en el orden que determine la Autoridad resolutora del asunto.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 156.
 
-La Autoridad resolutora podrá interrogar libremente a los testigos, con la finalidad de esclarecer la verdad de los hechos.
+La Autoridad sustanciadora podrá interrogar libremente a los testigos, con la finalidad de esclarecer la verdad de los hechos.
 
 ###### ARTÍCULO 157.
 
@@ -1327,25 +1385,33 @@ Las preguntas y repreguntas que se formulen a los testigos, deben referirse a la
 
 Antes de rendir su testimonio, a los testigos se les tomará la protesta para conducirse con verdad, y serán apercibidos de las penas en que incurren aquellos que declaran con falsedad ante autoridad distinta a la judicial. Se hará constar su nombre, domicilio, nacionalidad, lugar de residencia, ocupación y domicilio, si es pariente por consanguinidad o afinidad de alguna de las partes, si mantiene con alguna de ellas relaciones de amistad o de negocios, o bien, si tiene alguna enemistad o animadversión hacia cualquiera de las partes. Al terminar de testificar, los testigos deberán manifestar la razón de su dicho, es decir, el por qué saben y les consta lo que manifestaron en su testificación.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 159.
 
-Los testigos serán interrogados por separado, debiendo la Autoridad resolutora tomar las medidas pertinentes para evitar que entre ellos se comuniquen. Los testigos ofrecidos por una de las partes se rendirán el mismo día, sin excepción, para lo cual se podrán habilitar días y horas inhábiles. De la misma forma se procederá con los testigos de las demás partes, hasta que todos los llamados a rendir su testimonio sean examinados por las partes y la Autoridad resolutora del asunto.
+Los testigos serán interrogados por separado, debiendo la Autoridad sustanciadora tomar las medidas pertinentes para evitar que entre ellos se comuniquen. Los testigos ofrecidos por una de las partes se rendirán el mismo día, sin excepción, para lo cual se podrán habilitar días y horas inhábiles. De la misma forma se procederá con los testigos de las demás partes, hasta que todos los llamados a rendir su testimonio sean examinados por las partes y la Autoridad sustanciadora del asunto.
+
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 160.
 
-Cuando el testigo desconozca el idioma español, o no lo sepa leer, la Autoridad resolutora del asunto designará un traductor, debiendo, en estos casos, asentar la declaración del absolvente en español, así como en la lengua o dialecto del absolvente, para lo cual se deberá auxiliar del traductor que dicha autoridad haya designado. Tratándose de personas que presenten alguna discapacidad visual, auditiva o de locución se deberá solicitar la intervención del o los peritos que les permitan tener un trato digno y apropiado en los procedimientos de responsabilidad administrativa en que intervengan.
+Cuando el testigo desconozca el idioma español, o no lo sepa leer, la Autoridad sustanciadora del asunto designará un traductor, debiendo, en estos casos, asentar la declaración del absolvente en español, así como en la lengua o dialecto del absolvente, para lo cual se deberá auxiliar del traductor que dicha autoridad haya designado. Tratándose de personas que presenten alguna discapacidad visual, auditiva o de locución se deberá solicitar la intervención del o los peritos que les permitan tener un trato digno y apropiado en los procedimientos de responsabilidad administrativa en que intervengan.
+
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 161.
 
-Las preguntas que se formulen a los testigos, así como sus correspondientes respuestas, se harán constar literalmente en el acta respectiva. Deberán firmar dicha acta las partes y los testigos, pudiendo previamente leer la misma, o bien. solicitar que les sea leída por el funcionario que designe la Autoridad resolutora del asunto. Para las personas que presenten alguna discapacidad visual, auditiva o de locución, se adoptarán las medidas pertinentes para que puedan acceder a la información contenida en el acta antes de firmarla o imprimir su huella digital. En caso de que las partes no pudieran o quisieran firmar el acta o imprimir su huella digital, la firmará la autoridad que deba resolver el asunto haciendo constar tal circunstancia.
+Las preguntas que se formulen a los testigos, así como sus correspondientes respuestas, se harán constar literalmente en el acta respectiva. Deberán firmar dicha acta las partes y los testigos, pudiendo previamente leer la misma, o bien, solicitar que les sea leída por el funcionario que designe la Autoridad sustanciadora del asunto. Para las personas que presenten alguna discapacidad visual, auditiva o de locución, se adoptarán las medidas pertinentes para que puedan acceder a la información contenida en el acta antes de firmarla o imprimir su huella digital. En caso de que las partes no pudieran o quisieran firmar el acta o imprimir su huella digital, la firmará la autoridad que deba resolver el asunto haciendo constar tal circunstancia.
 
 ###### ARTÍCULO 162.
 
 Los testigos podrán ser tachados por las partes en la vía incidental en los términos previstos en esta Ley.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 163.
 
-Son pruebas documentales todas aquellas en la que conste información de manera escrita, visual o auditiva, sin importar el material, formato o dispositivo en la que esté plasmada o consignada. La Autoridad resolutora del asunto podrá solicitar a las partes que aporten los instrumentos tecnológicos necesarios para la apreciación de los documentos ofrecidos cuando éstos no estén a su disposición. En caso de que las partes no cuenten con tales instrumentos, dicha autoridad podrá solicitar la colaboración del ministerio público federal o estatal, de las fiscalías o procuradurías de justicia o de las entidades federativas, o bien, de las instituciones públicas de educación superior, para que le permitan el acceso al instrumental tecnológico necesario para la apreciación de las pruebas documentales.
+Son pruebas documentales todas aquellas en la que conste información de manera escrita, visual o auditiva, sin importar el material, formato o dispositivo en la que esté plasmada o consignada. La Autoridad sustanciadora del asunto podrá solicitar a las partes que aporten los instrumentos tecnológicos necesarios para la apreciación de los documentos ofrecidos cuando éstos no estén a su disposición. En caso de que las partes no cuenten con tales instrumentos, dicha autoridad podrá solicitar la colaboración del ministerio público federal o estatal, de las fiscalías o procuradurías de justicia o de las entidades federativas, o bien, de las instituciones públicas de educación superior, para que le permitan el acceso al instrumental tecnológico necesario para la apreciación de las pruebas documentales.
 
 ###### ARTÍCULO 164.
 
@@ -1361,9 +1427,11 @@ Los documentos que consten en un idioma extranjero o en cualquier lengua o diale
 
 Los documentos privados se presentarán en original, y, cuando formen parte de un expediente o legajo, se exhibirán para que se compulse la parte que señalen los interesados.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 167.
 
-Podrá pedirse el cotejo de firmas, letras o huellas digitales, siempre que se niegue o se ponga en duda la autenticidad de un documento público o privado. La persona que solicite el cotejo señalará el documento o documentos indubitados para hacer el cotejo, o bien, pedirá a la Autoridad resolutora que cite al autor de la firma, letras o huella digital, para que en su presencia estampe aquellas necesarias para el cotejo.
+Podrá pedirse el cotejo de firmas, letras o huellas digitales, siempre que se niegue o se ponga en duda la autenticidad de un documento público o privado. La persona que solicite el cotejo señalará el documento o documentos indubitados para hacer el cotejo, o bien, pedirá a la Autoridad sustanciadora que cite al autor de la firma, letras o huella digital, para que en su presencia estampe aquellas necesarias para el cotejo.
 
 ###### ARTÍCULO 168.
 
@@ -1371,11 +1439,15 @@ Se considerarán indubitables para el cotejo:
 
 I.- Los documentos que las partes reconozcan como tales, de común acuerdo;
 
-II.- Los documentos privados cuya letra o firma haya sido reconocida ante la Autoridad resolutora del asunto, por aquél a quien se atribuya la dudosa;
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+II.- Los documentos privados cuya letra o firma haya sido reconocida ante la Autoridad sustanciadora del asunto, por aquél a quien se atribuya la dudosa;
 
 III.- Los documentos cuya letra, firma o huella digital haya sido declarada en la vía judicial como propia de aquél a quien se atribuya la dudosa, salvo que dicha declaración se haya hecho en rebeldía; y
 
-IV.- Las letras, firmas o huellas digitales que haya sido puestas en presencia de la Autoridad resolutora en actuaciones propias del procedimiento de responsabilidad, por la parte cuya firma, letra o huella digital se trate de comprobar.
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+IV.- Las letras, firmas o huellas digitales que haya (sic) sido puestas en presencia de la Autoridad sustanciadora en actuaciones propias del procedimiento de responsabilidad, por la parte cuya firma, letra o huella digital se trate de comprobar.
 
 ###### ARTÍCULO 169.
 
@@ -1397,61 +1469,81 @@ Las partes podrán objetar el alcance y valor probatorio de los documentos aport
 
 La prueba pericial tendrá lugar cuando para determinar la verdad de los hechos sea necesario contar con los conocimientos especiales de una ciencia, arte, técnica, oficio, industria o profesión.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 173.
 
-Quienes sean propuestos como peritos deberán tener título en la ciencia, arte, técnica, oficio, industria o profesión a que pertenezca la cuestión sobre la que han de rendir parecer, siempre que la ley exija dicho título para su ejercicio. En caso contrario, podrán ser autorizados por la autoridad resolutora para actuar como peritos, quienes a su juicio cuenten con los conocimientos y la experiencia para emitir un dictamen sobre la cuestión.
+Quienes sean propuestos como peritos deberán tener título en la ciencia, arte, técnica, oficio, industria o profesión a que pertenezca la cuestión sobre la que han de rendir parecer, siempre que la ley exija dicho título para su ejercicio. En caso contrario, podrán ser autorizados por la autoridad sustanciadora para actuar como peritos, quienes a su juicio cuenten con los conocimientos y la experiencia para emitir un dictamen sobre la cuestión.
 
 ###### ARTÍCULO 174.
 
 Las partes ofrecerán sus peritos indicando expresamente la ciencia, arte, técnica, oficio, industria o profesión sobre la que deberá practicarse la prueba, así como los puntos y las cuestiones sobre las que versará la prueba.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 175.
 
-En el acuerdo en que se resuelva la admisión de la prueba, se requerirá al oferente para que presente a su perito el día y hora que se señale por la Autoridad resolutora del asunto, a fin de que acepte y proteste desempeñar su cargo de conformidad con la ley. En caso deno (sic) hacerlo, se tendrá por no ofrecida la prueba.
+En el acuerdo en que se resuelva la admisión de la prueba, se requerirá al oferente para que presente a su perito el día y hora que se señale por la Autoridad sustanciadora del asunto, a fin de que acepte y proteste desempeñar su cargo de conformidad con la ley. En caso de no hacerlo, se tendrá por no ofrecida la prueba.
 
 ###### ARTÍCULO 176.
 
 Al admitir la prueba pericial, la Autoridad resolutora del asunto dará vista a las demás partes por el término de tres días para que propongan la ampliación de otros puntos y cuestiones para que el perito determine.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 177.
 
-En caso de que el perito haya aceptado y protestado su cargo, la Autoridad resolutora del asunto fijará prudentemente un plazo para que el perito presente el dictamen correspondiente. En caso de no presentarse dicho dictamen, la prueba se declarará desierta.
+En caso de que el perito haya aceptado y protestado su cargo, la Autoridad sustanciadora del asunto fijará prudentemente un plazo para que el perito presente el dictamen correspondiente. En caso de no presentarse dicho dictamen, la prueba se declarará desierta.
 
 ###### ARTÍCULO 178.
 
 Las demás partes del procedimiento administrativo, podrán a su vez designar un perito para que se pronuncie sobre los aspectos cuestionados por el oferente de la prueba, así como por los ampliados por las demás partes, debiéndose proceder en los términos descritos en el artículo 174 de esta Ley.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 179.
 
-Presentados los dictámenes por parte de los peritos, la autoridad resolutora convocará a los mismos a una audiencia donde las partes y la autoridad misma, podrán solicitarles las aclaraciones y explicaciones que estimen conducentes.
+Presentados los dictámenes por parte de los peritos, la autoridad sustanciadora convocará a los mismos a una audiencia donde las partes y la autoridad misma, podrán solicitarles las aclaraciones y explicaciones que estimen conducentes.
 
 ###### ARTÍCULO 180.
 
 Las partes absolverán los costos de los honorarios de los peritos que ofrezcan.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 181.
 
-De considerarlo pertinente, la Autoridad resolutora del asunto podrá solicitar la colaboración del ministerio público federal o estatal, o bien, de instituciones públicas de educación superior, para que, a través de peritos en la ciencia, arte, técnica, industria, oficio o profesión adscritos a tales instituciones, emitan su dictamen sobre aquellas cuestiones o puntos controvertidos por las partes en el desahogo de la prueba pericial, o sobre aquellos aspectos que estime necesarios para el esclarecimiento de los hechos.
+De considerarlo pertinente, la Autoridad sustanciadora del asunto podrá solicitar la colaboración del ministerio público federal o estatal, o bien, de instituciones públicas de educación superior, para que, a través de peritos en la ciencia, arte, técnica, industria, oficio o profesión adscritos a tales instituciones, emitan su dictamen sobre aquellas cuestiones o puntos controvertidos por las partes en el desahogo de la prueba pericial, o sobre aquellos aspectos que estime necesarios para el esclarecimiento de los hechos.
+
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 182.
 
-La inspección en el procedimiento de responsabilidad administrativa, estará a cargo de la Autoridad resolutora, y procederá cuando así sea solicitada por cualquiera de las partes, o bien, cuando de oficio lo estime conducente dicha autoridad para el esclarecimiento de los hechos, siempre que no se requieran conocimientos especiales para la apreciación de los objetos, cosas, lugares o hechos que se pretendan observar mediante la inspección.
+La inspección en el procedimiento de responsabilidad administrativa, estará a cargo de la Autoridad sustanciadora, y procederá cuando así sea solicitada por cualquiera de las partes, o bien, cuando de oficio lo estime conducente dicha autoridad para el esclarecimiento de los hechos, siempre que no se requieran conocimientos especiales para la apreciación de los objetos, cosas, lugares o hechos que se pretendan observar mediante la inspección.
+
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 183.
 
-Al ofrecer la prueba de inspección, su oferente deberá precisar los objetos, cosas, lugares o hechos que pretendan ser observados mediante la intervención de la Autoridad resolutora del asunto.
+Al ofrecer la prueba de inspección, su oferente deberá precisar los objetos, cosas, lugares o hechos que pretendan ser observados mediante la intervención de la Autoridad sustanciadora del asunto.
+
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 184.
 
-Antes de admitir la prueba de inspección, la autoridad resolutora dará vista a las demás partes para que manifiesten lo que a su derecho convenga y, en su caso, propongan la ampliación de los objetos, cosas, lugares o hechos que serán materia de la inspección.
+Antes de admitir la prueba de inspección, la autoridad sustanciadora dará vista a las demás partes para que manifiesten lo que a su derecho convenga y, en su caso, propongan la ampliación de los objetos, cosas, lugares o hechos que serán materia de la inspección.
+
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 185.
 
-Para el desahogo de la prueba de inspección, la autoridad resolutora citará a las partes en el lugar donde se llevará a cabo esta, quienes podrán acudir para hacer las observaciones que estimen oportunas.
+Para el desahogo de la prueba de inspección, la autoridad sustanciadora citará a las partes en el lugar donde se llevará a cabo esta, quienes podrán acudir para hacer las observaciones que estimen oportunas.
+
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 186.
 
-De la inspección realizada se levantará un acta que deberá ser firmada por quienes en ella intervinieron. En caso de no querer hacerlo, o estar impedidos para ello, la Autoridad resolutora del asunto firmará el acta respectiva haciendo constar tal circunstancia.
+De la inspección realizada se levantará un acta que deberá ser firmada por quienes en ella intervinieron. En caso de no querer hacerlo, o estar impedidos para ello, la Autoridad sustanciadora del asunto firmará el acta respectiva haciendo constar tal circunstancia.
 
 #### SECCIÓN SEXTA. DE LOS INCIDENTES
 
@@ -1707,9 +1799,13 @@ En los asuntos relacionados con faltas administrativas no graves, se deberá pro
 
 I.- La Autoridad investigadora deberá presentar ante la Autoridad sustanciadora el Informe de Presunta Responsabilidad Administrativa, la cual, dentro de los tres días siguientes se pronunciará sobre su admisión, pudiendo prevenir a la Autoridad investigadora para que subsane lasomisiones (sic) que advierta, o que aclare los hechos narrados en el informe;
 
-II.- En el caso de que la Autoridad sustanciadora admita el Informe de Presunta Responsabilidad Administrativa, ordenará el emplazamiento del presunto responsable, debiendo citarlo para que comparezca personalmente a la celebración de la audiencia inicial, señalando con precisión el día, lugar y hora en que tendrá lugar dicha audiencia, así como la autoridad ante la que se llevará a cabo. Del mismo modo, le hará saber el derecho que tiene de no declarar contra de sí mismo ni a declararse culpable; de defenderse personalmente o ser asistido por un defensor perito en la materia y que, de no contar con un defensor, le será nombrado un defensor de oficio;
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
-III.- Entre la fecha del emplazamiento y la de la audiencia inicial deberá mediar un plazo no menor de diez ni mayor de quince días hábiles. El diferimiento de la audiencia sólo podrá otorgarse por causas de caso fortuito o de fuerza mayor debidamente justificadas, o en aquellos casos en que se nombre;
+II.- En el caso de que la Autoridad sustanciadora admita el Informe de Presunta Responsabilidad Administrativa, ordenará el emplazamiento del presunto responsable, debiendo citarlo para que comparezca personalmente a la celebración de la audiencia inicial, señalando con precisión el día, lugar y hora en que tendrá lugar dicha audiencia, así como la autoridad ante la que se llevará a cabo. Del mismo modo, le hará saber el derecho que tiene de no declarar contra de sí mismo ni a declararse culpable; de defenderse personalmente o ser asistido por un defensor perito en la materia y que, de no contar con un defensor, le será nombrado un defensor público;
+
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+III.- Entre la fecha del emplazamiento y la de la audiencia inicial deberá mediar un plazo no menor de diez ni mayor de quince días hábiles. El diferimiento de la audiencia sólo podrá otorgarse por causas de caso fortuito o de fuerza mayor debidamente justificadas, o en aquellos casos en que se nombre defensor público y éste solicite el diferimiento;
 
 IV.- Previo a la celebración de la audiencia inicial, la Autoridad sustanciadora deberá citara las demás partes que deban concurrir al procedimiento, cuando menos con setenta y dos horas de anticipación;
 
@@ -1823,7 +1919,9 @@ II.- La que determine que no existe responsabilidad administrativa por parte de 
 
 El Pleno de la Sala Superior del Tribunal de Justicia Administrativa del Estado deberá resolver en el plazo de tres días hábiles si admite el recurso, o lo desecha por encontrar motivo manifiesto e indudable de improcedencia.
 
-Si hubiera irregularidades en el escrito del recurso por no haber satisfecho los requisitos establecidos en el artículo 219 de esta Ley, se señalará al promovente en un plazo que no excederá de tres días hábiles, para que subsane las omisiones o corrija los defectos precisados en la providencia relativa.
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+Si hubiera irregularidades en el escrito del recurso por no haber satisfecho los requisitos establecidos en el artículo 220 de esta Ley, se señalará al promovente en un plazo que no excederá de tres días hábiles, para que subsane las omisiones o corrija los defectos precisados en la providencia relativa.
 
 El Tribunal, dará vista a las partes para que, en el término de tres días hábiles, manifiesten lo que a su derecho convenga; vencido este término se procederá a resolver con los elementos que obren en autos.
 
@@ -1951,11 +2049,11 @@ Corresponde al Congreso del Estado sustanciar el procedimiento y resolver, en de
 
 Recibida en el Congreso la solicitud de juicio político, su Presidente la turnará a la Comisión de Gobernación y Puntos Constitucionales, a fin de que sea ratificada por el denunciante ante dicha Comisión, en los tres días hábiles siguientes.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 241.
 
-Ratificada la denuncia, la Comisión de Gobernación y Puntos Constitucionales determinará, en un plazo de diez días hábiles, si la conducta atribuida corresponde a las enumeradas en el artículo 234 de esta Ley; si el inculpado está comprendido entre losservidores (sic) públicos sujetos a responsabilidad política y si la denuncia y las pruebas ofrecidas ameritan la incoación del procedimiento.
-
-Si la Comisión de Gobernación y Puntos Constitucionales considera improcedente la acusación, la rechazará fundando y motivando su resolución.
+Ratificada la denuncia, la Comisión de Gobernación y Puntos Constitucionales determinará, en un plazo de diez días hábiles, si la conducta atribuida corresponde a las enumeradas en el artículo 235 de esta Ley; si el inculpado está comprendido entre los servidores públicos sujetos a responsabilidad política y si la denuncia y las pruebas ofrecidas ameritan la incoación del procedimiento.
 
 ###### ARTÍCULO 242.
 
@@ -2005,9 +2103,11 @@ La Comisión de Gobernación y Puntos Constitucionales deberá practicar todas l
 
 Los plazos a que se refiere este artículo se entienden comprendidos dentro del período ordinario de sesiones del Congreso o bien dentro del siguiente ordinario o extraordinario que se convoque.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 250.
 
-El día señalado para la sesión a que se refiere el artículo 247 de esta Ley, el Congreso del Estado se erigirá en Jurado de Sentencia, previa declaración de su Presidente. Iniciada la misma, la Secretaría dará lectura a las constancias del proceso o a una síntesis que contenga los puntos esenciales; a las conclusiones del Diputado Acusador y al dictamen de la Comisión de Gobernación y Puntos Constitucionales. Acto continuo, se dará la palabra al Diputado Acusador y, enseguida, al servidor, público o a su defensor, para que aleguen lo que convenga a sus derechos. Si existiera réplica de la parte acusadora, también se concederá al encausado o a su defensor.
+El día señalado para la sesión a que se refiere el artículo 248 de esta Ley, el Congreso del Estado se erigirá en Jurado de Sentencia, previa declaración de su Presidente. Iniciada la misma, la Secretaría dará lectura a las constancias del proceso o a una síntesis que contenga los puntos esenciales; a las conclusiones del Diputado Acusador y al dictamen de la Comisión de Gobernación y Puntos Constitucionales. Acto continuo, se dará la palabra al Diputado Acusador y, enseguida, al servidor público o a su defensor, para que aleguen lo que convenga a sus derechos. Si existiera réplica de la parte acusadora, también se concederá al encausado o a su defensor.
 
 Retirados el servidor público y su defensor, el Congreso procederá a discutir y votar las conclusiones y el dictamen respectivo.
 
@@ -2139,6 +2239,12 @@ La autoridad sustanciadora, deberá tomar en cuenta el plazo de prescripción qu
 
 Todos aquellos Entes Públicos obligados a garantizar el cumplimiento de la presente ley, deberán realizar las adecuaciones administrativas y reglamentarias, de conformidad con lo previsto en la misma, en un plazo no mayor a 90 días naturales contados a partir de su entrada en vigor.
 
+> <small>(ADICIONADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos iniciados por las autoridades con anterioridad a la entrada en vigor de esta Ley, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
 Comuníquese al Titular del Poder Ejecutivo para su sanción y publicación en el Boletín Oficial del Gobierno del Estado.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO. Hermosillo, Sonora, 15 de marzo de 2022. C. NATALIA RIVERA GRIJALVA, DIPUTADA PRESIDENTA, RÚBRICA.- C. MARÍA SAGRARIO MONTAÑO PALOMARES, DIPUTADA SECRETARIA.- RÚBRICA.- C. PALOMA MARÍA TERÁN VILLALOBOS, DIPUTADA SECRETARIA.- RÚBRICA
 
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
@@ -2154,3 +2260,11 @@ B.O. 6 DE MARZO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 25 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 140, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES Y SANCIONES PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
