@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2023-05-23"
+last_updated: "2023-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -211,15 +211,13 @@ VII. Bis. Violencia Mediática: Es todo acto a través de cualquier medio de com
 
 La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para reproducir y difundir contenidos que atenten contra la autoestima, salud, integridad, libertad, y seguridad de las mujeres y niñas, que impide su libre desarrollo y que atenta contra la igualdad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
-VIII. Violencia Digital. Es cualquier acto que se presenta a través de las tecnologías de la información y la comunicación, plataformas de internet, redes sociales o correo electrónico, o cualquier otro espacio digitalizado que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño o sufrimiento psicológico, físico, económico o sexual tanto en el ámbito privado como en el público; así como daño moral a ellas y a su familia. Se manifiesta mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas; y,
+VIII. Violencia Digital. Es cualquier acto que se presenta a través de las tecnologías de la información y la comunicación, plataformas de internet, redes sociales o correo electrónico, o cualquier otro espacio digitalizado que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño o sufrimiento psicológico, físico, económico o sexual tanto en el ámbito privado como en el público; así como, daño moral a ellas y a su familia. Se manifiesta mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas;
 
-> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTA FRACCIÓN ES SIMILAR A LA FRACCIÓN X.]</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE ENERO DE 2020)</small>
-
-IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres;
 
 > <small>(ADICIONADA [N. DE E. CON SUS FRACCIONES], P.O. 6 DE MARZO DE 2023)</small>
 
@@ -241,11 +239,13 @@ VI. Condicione el cumplimiento de las obligaciones alimentarias a que tiene dere
 
 Para efectos del presente artículo se entiende por persona significativa cualquiera que tenga una relación afectiva continua con la víctima en el entorno de sus relaciones sociales inmediatas.
 
-> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTA FRACCIÓN ES SIMILAR A LA FRACCIÓN IX.]</small>
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+X. Violencia contra las mujeres periodistas y defensoras de derechos humanos. Es toda acción u omisión incluida la tolerancia basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de su derecho a la libertad de expresión y al ejercicio de sus labores o actividades en condición de no discriminación y libres de cualquier manifestación de violencia; y,
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE FEBRERO DE 2022)</small>
 
-X. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad, la salud y la libertad de las mujeres.
+XI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad, la salud y la libertad de las mujeres.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2020)</small>
 
@@ -297,13 +297,15 @@ VII. Las conductas que señala el Código Familiar para el Estado de Michoacán 
 
 Será considerada violencia contra la salud, la ejercida por un familiar, ya sea ascendente o descendente, o por persona con la que tenga una relación por matrimonio, concubinato, o similar a las anteriores, y que le prohíban recibir la atención médica necesaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 11.
 
-La violencia laboral y docente, se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión, abuso de poder, que provocan y vulneran la libertad y seguridad de la víctima, impidiendo el libre desarrollo de la personalidad de las mujeres, del proceso de enseñanza-aprendizaje, y en especial su autoestima, y se constituye:
+La violencia laboral y docente, se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión, amenazas, abuso de poder, que provocan y vulneran la libertad y seguridad de la víctima, impidiendo el libre desarrollo de la personalidad de las mujeres, del proceso de enseñanza aprendizaje, y en especial su autoestima, y se constituye:
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
-I. Como violencia laboral, la negativa a contratar, respetar su permanencia o condiciones generales de trabajo por la exigencia de pruebas de gravidez, imposición de requisitos sexistas en la forma de vestir, exclusión de género en ciertos cargos por edad de conformidad con la Ley Federal del Trabajo, igualmente lo constituye la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a ejercer el periodo de lactancia materna, previsto en la normativa laboral, y todo tipo de discriminación por condiciones de género; y,
+I. Como violencia laboral, la negativa a contratar, respetar su permanencia o condiciones generales de trabajo por la exigencia de pruebas de gravidez, imposición de requisitos sexistas en la forma de vestir exclusión de género en ciertos cargos por edad de conformidad con la Ley Federal del Trabajo, igualmente lo constituye la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la exhibición de su vida personal, el acoso, hostigamiento sexual, la exigencia de favores sexuales, la explotación, el impedimento a ejercer el periodo de lactancia materna, previsto en la normativa laboral, y todo tipo de discriminación por condiciones de género; y,
 
 II. Constituyen violencia docente aquellas conductas que causan daño en las alumnas derivados por la discriminación de género, edad, condición social, condición étnica, por algunas limitaciones o características físicas determinadas, que les infligen maestras o maestros.
 
@@ -353,9 +355,17 @@ Las autoridades responsables de la aplicación de esta Ley, estarán obligadas a
 
 I. La capacitación y especialización de las y los servidores públicos que permita garantizar los derechos humanos de las mujeres, el respeto a su dignidad, libertad y autonomía y que combatan la discriminación contra mujeres;
 
-II. Implementar sanciones administrativas que incluyan la reeducación libre de estereotipos de las y los servidores públicos que sean responsables de casos de violencia institucional; y,
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
-III. En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado de Michoacán y el Instituto Electoral de Michoacán, podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere la presente Ley.
+II. Implementar sanciones administrativas que incluyan la reeducación libre de estereotipos de las y los servidores públicos que sean responsables de casos de violencia institucional;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+III. En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado de Michoacán y el Instituto Electoral de Michoacán, podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere la presente Ley; y,
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+IV. En materia de violencia contra las mujeres periodistas y defensoras de derechos humanos se deberán generar los mecanismos idóneos de prevención y atención de la violencia que viven estos grupos poblacionales, en el entendido del riesgo que corren al desarrollar su actividad. Entre estos mecanismos se deberán de elaborar protocolos específicos de atención a la violencia que viven en el ejercicio de su labor, ponderando el nivel de riesgo en el que se encuentran, así como protocolos desde la perspectiva de género de acoso y hostigamiento sexual, así como el mecanismo claro para la generación de sus denuncias.
 
 ###### ARTÍCULO 16.
 
@@ -1320,3 +1330,15 @@ Asimismo, la Secretaría de Salud establecerá el mecanismo de coordinación con
 CUARTO. Notifíquese el presente Decreto al Secretario de Salud, al Titular de la Comisión Ejecutiva Estatal de Atención a Víctimas y al Fiscal General del Estado, para su debida atención.
 
 QUINTO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo. El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
+
+P.O. 25 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 420 POR EL QUE "SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONA LA FRACCIÓN X RECORRIÉNDOSE LA SIGUIENTE EN SU ORDEN SUBSECUENTE, DEL ARTÍCULO 9; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 11 Y SU FRACCIÓN I; SE REFORMAN LAS FRACCIONES II, III Y ADICIONA LA FRACCIÓN IV AL ARTÍCULO 15, TODOS DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LA (SIC) MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
