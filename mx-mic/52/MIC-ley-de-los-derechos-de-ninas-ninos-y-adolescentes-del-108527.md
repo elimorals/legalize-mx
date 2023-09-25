@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2023-09-06"
+last_updated: "2023-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -882,6 +882,10 @@ XVIII Bis. Establecer mecanismos para garantizar el derecho de la primera infanc
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE SEPTIEMBRE DE 2023)</small>
 
 XIX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+XIX Bis. Promover que las niñas, niños y adolescentes accedan a contenidos curriculares específicos y actividades extracurriculares que tengan potencial influencia sobre la segregación ocupacional;
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
 
@@ -2386,3 +2390,13 @@ SEGUNDO. El Concejo Mayor de Cherán, el Concejo Municipal de Penjamillo, así c
 TERCERO. Los establecimientos mercantiles y de servicios establecidos en el presente Decreto, contarán con un plazo no mayor al mes de diciembre del año 2023, para dar cumplimiento a lo establecido en el presente Decreto.
 
 CUARTO. Los poderes del Estado, los organismos autónomos, el Concejo Mayor de Cherán, el Concejo Municipal de Penjamillo, así como los 111 ayuntamientos, contarán con un plazo no mayor al mes de diciembre del año 2023, en los espacios que así lo permitan, para dar cumplimiento a lo establecido en el presente Decreto.
+
+P.O. 25 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 439 POR EL QUE "SE ADICIONA LA FRACCIÓN XIX BIS AL ARTÍCULO 38 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Segundo. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Tercero. Notifíquese al Poder Ejecutivo de Michoacán de Ocampo, para que sirva ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
