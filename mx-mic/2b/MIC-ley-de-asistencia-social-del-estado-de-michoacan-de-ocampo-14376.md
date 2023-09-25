@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-asistencia-social-del-estado-de-michoacan-de-ocampo-1437
 country: "mx"
 rank: "ley"
 publication_date: "1987-05-14"
-last_updated: "2023-07-25"
+last_updated: "2023-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 14 de mayo de 1987.
 
@@ -93,9 +93,9 @@ III. Niñas y niños que viven con sus madres en los Centros Penitenciarios, con
 
 IV. Alcohólicos y farmacodependientes;
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
-V. La mujer que se encuentre en período de gestación, lactancia o que tenga a su cargo exclusivo los alimentos de (sic) hijo menor de edad o con discapacidad, que no tenga ingreso adicional o empleo, o teniéndolos, su ingreso no sea mayor de un salario mínimo general diario vigente en la entidad;
+V. La mujer que se encuentre en período de gestación, lactancia o que tenga a su cargo exclusivo los alimentos de (sic) hijo menor de edad o con discapacidad, que no tenga ingreso adicional o empleo, o teniéndolos, su ingreso no sea mayor de un salario mínimo general diario vigente en la entidad; así como en situación de desamparo, discapacidad, marginación o sujeta a maltrato y/o violentadas;
 
 > <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
 
@@ -660,3 +660,9 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicació
 ###### ARTÍCULO TERCERO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 25 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 443 POR EL QUE "SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 5° DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
