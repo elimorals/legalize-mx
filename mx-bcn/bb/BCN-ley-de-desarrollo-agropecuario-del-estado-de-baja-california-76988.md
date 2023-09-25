@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-agropecuario-del-estado-de-baja-california-76
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2019-07-12"
+last_updated: "2023-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -101,11 +101,15 @@ II.- Las personas físicas y morales que directa o indirectamente se dediquen o 
 
 III.- Los terrenos dedicados directa o indirectamente a las explotaciones agrícolas y pecuarias, así como las instalaciones y medios de transporte para la producción y aprovechamiento de sus productos y subproductos.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 4.
 
-Los Productores, Organizaciones, Sociedades, Asociaciones y Uniones de Productores Agrícolas, Ganaderas, los comerciantes en mayoreo o en detalle, y los industriales de productos y subproductos de las especies a que se refiere esta Ley, están obligados a registrarse en la Secretaría de Fomento Agropecuario del Estado, quien les expedirá la patente correspondiente, misma que deberá revalidarse dentro de los primeros noventa días de cada año.
+Los Productores, Organizaciones, Sociedades, Asociaciones y Uniones de Productores Agrícolas, Ganaderas, los comerciantes en mayoreo o en detalle, y los industriales de productos y subproductos de las especies a que se refiere esta Ley, están obligados a registrarse en la Secretaría de Agricultura y Desarrollo Rural del Estado, quien les expedirá la patente correspondiente, misma que deberá revalidarse dentro de los primeros noventa días de cada año.
 
 ### CAPÍTULO II. DE LA TERMINOLOGÍA EMPLEADA EN ESTA LEY
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 5.
 
@@ -229,9 +233,9 @@ XXIX.- Realeo: Desalojo de ganado que mediante el recuento realizado, resultó s
 
 XXX.- Reconversión Productiva: Es el cambio o transformación voluntaria hacia una producción agropecuaria diferente a la actual; busca innovar y agregar valor a la producción mediante la utilización de sistemas tecnológicos eficientes en toda la cadena productiva;
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
-XXXI.- Secretaría: La Secretaría de Desarrollo Agropecuario del Gobierno del Estado;
+XXXI.- Secretaría: La Secretaría de Agricultura y Desarrollo Rural del Estado de Baja California;
 
 > <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
@@ -243,19 +247,23 @@ XXXIII.- Tatuajes: La impresión de dibujos, letras, números indelebles en las 
 
 ### CAPÍTULO III. DE LAS AUTORIDADES COMPETENTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 6.
 
 Son autoridades competentes para la aplicación de esta Ley:
 
-I.- El Gobernador del Estado;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+I.- La Persona Titular del Poder Ejecutivo;
 
-II.- El Secretario de Desarrollo Agropecuario;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+II.- La persona Titular de la Secretaría de Agricultura y Desarrollo Rural del Estado;
 
-III.- El Subsecretario de Desarrollo Agropecuario;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+III.- Las personas Titulares de las Subsecretarias de Agricultura y Desarrollo Rural del Estado;
 
 IV.- Los Directores de área de la Secretaría;
 
@@ -267,13 +275,15 @@ VII.- Los inspectores agropecuarios que designe la Secretaría, y
 
 VIII.- (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2017)
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 7.
 
 Son autoridades, y organismos auxiliares y de cooperación respectivamente:
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
-I.- La Procuraduría General de Justicia del Estado, los cuerpos de seguridad pública federales, estatales o municipales;
+I.- La Fiscalía General del Estado de Baja California, los cuerpos de seguridad pública federales, estatales o municipales;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
@@ -283,15 +293,21 @@ II.- Los Inspectores habilitados por la Secretaría, la Secretaría de Salud del
 
 III.- Los presidentes y delegados municipales en los lugares que no cuenten con autoridad en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 8.
 
 La Secretaría tendrá las siguientes facultades y atribuciones:
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 A) En lo General:
 
 I.- Celebrar con la aprobación del Ejecutivo del Estado, convenios y acuerdos de coordinación, colaboración, participación y coadyuvancia en materia agropecuaria;
 
-II.- Imponer las medidas de seguridad y las sanciones que correspondan a las infracciones establecidas en la presente Ley, comunicando las sanciones económicas que se determinen a la Secretaría de Planeación y Finanzas para su requerimiento de liquidación y ejecución;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+II.- Imponer las medidas de seguridad y las sanciones que correspondan a las infracciones establecidas en la presente Ley, comunicando las sanciones económicas que se determinen a la Secretaría de Hacienda del Estado de Baja California para su requerimiento de liquidación y ejecución;
 
 III.- Designar a los inspectores agropecuarios, y habilitar a los inspectores externos para esa función;
 
@@ -325,6 +341,8 @@ X.- Impulsar la investigación y transferencia de tecnología para atender las c
 
 XI.- Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sobre la materia.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 B) En lo Agrícola:
 
 I.- Procurar y vigilar el debido abastecimiento de productos y subproductos agrícolas, tales como granos, legumbres y frutas en sus diferentes presentaciones, con objeto de cubrir las necesidades del Estado, vigilando que se cumplan las normas de calidad y sanidad establecidas;
@@ -350,6 +368,8 @@ IX.- Promover la producción de semillas mejoradas en el Estado, con la finalida
 X.- Divulgar toda aquella información relacionada con el sector que se considere de utilidad y fomento a la producción, y
 
 XI.- Promover la formación de agroindustrias de productos y subproductos agrícolas, así como fomentar el consumo de los mismos.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 C) En lo Ganadero:
 
@@ -1119,6 +1139,20 @@ Es facultad y obligación de la Secretaría, consolidar con medidas concretas y 
 
 La Secretaría promoverá y fomentará la modernización de esta actividad para el incremento de la producción y mejoramiento genético.
 
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+ARTÍCULO 114 BIS.- La Secretaría atenderá las consultas técnicas que les formulen las personas que se inicien o se dediquen al negocio apícola.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+ARTÍCULO 114 TER.- La Secretaría en coordinación con autoridades competentes y organismos auxiliares, deberán:
+
+I. Atender las Normas Oficiales Mexicanas, lineamientos y procedimientos que se establezcan, para la prevención y control de las actividades del hombre que dañen a las abejas;
+
+II. Establecer las medidas necesarias para la protección de las zonas y plantas que conforman el ecosistema del Estado; y,
+
+III. Fomentar la creación de organismos o asociaciones donde participen los apicultores en todas las actividades encaminadas a promover el desarrollo y tecnificación de la actividad apícola.
+
 ###### ARTÍCULO 115.
 
 Los apicultores están obligados a registrarse ante la Secretaría, proporcionar datos estadísticos de su producción, censos, ubicación de apiarios y marcar sus colmenas a fin de poder identificarlas.
@@ -1371,13 +1405,17 @@ Los productos agrícolas y animales para la exposición, serán examinados previ
 
 ### CAPÍTULO II. DE LA COMERCIALIZACIÓN DE PRODUCTOS Y SUBPRODUCTOS
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 153.
 
-El Ejecutivo del Estado por conducto de la Secretaría y la Secretaría de Desarrollo Económico promoverán el fomento y apoyo a la comercialización y organizarán la creación y permanencia de centros de promoción de agronegocios, con la finalidad de impulsar la comercialización de los productos y subproductos agropecuarios producidos en el Estado.
+El Ejecutivo del Estado por conducto de la Secretaría y la Secretaría de Economía e Innovación promoverán el fomento y apoyo a la comercialización y organizarán la creación y permanencia de centros de promoción de agronegocios, con la finalidad de impulsar la comercialización de los productos y subproductos agropecuarios producidos en el Estado.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 154.
 
-La Secretaría conjuntamente con la Secretaría de Desarrollo Económico, impulsarán y organizarán cursos y asesorías sobre cultura empresarial, proyectos de inversión, producción de calidad, mercados, estrategias de comercialización, entre otros, a las asociaciones, sociedades y similares de productores agropecuarios y agroindustriales en el Estado.
+La Secretaría conjuntamente con la Secretaría de Economía e Innovación, impulsarán y organizarán cursos y asesorías sobre cultura empresarial, proyectos de inversión, producción de calidad, mercados, estrategias de comercialización, entre otros, a las asociaciones, sociedades y similares de productores agropecuarios y agroindustriales en el Estado.
 
 ###### ARTÍCULO 155.
 
@@ -1509,11 +1547,13 @@ b) Multa de diez a dos mil veces el valor diario de la Unidad de Medida y Actual
 
 c) La suspensión o revocación de los permisos y autorizaciones correspondientes.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 161.
 
 La Secretaría para imponer cualquiera de las sanciones previstas en este Capítulo, deberá proceder conforme a la normatividad aplicable.
 
-Las multas se harán efectivas por conducto de la Secretaría de Planeación y Finanzas conforme a las formalidades del Código Fiscal del Estado de Baja California.
+Las multas se harán efectivas por conducto de la Secretaría de Hacienda del Estado de Baja California conforme a las formalidades del Código Fiscal del Estado de Baja California.
 
 ###### ARTÍCULO 162.
 
@@ -1608,3 +1648,9 @@ La Secretaría de Desarrollo Agropecuario, dentro de un plazo que no excederán 
 ###### ARTICULO TERCERO.
 
 La Secretaría de Desarrollo Agropecuario, entrada en vigor la presente reforma, realizará una campaña de difusión para la designación de beneficiario o sucesor en caso de fallecimiento de marca de herrar, tatuaje o señal de sangre, entre las organizaciones ganaderas, para efecto de contar con un padrón estatal de beneficiarios.
+
+P.O. 25 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 289 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 5, 6, 7, 8, 153, 154 Y 161, ASÍ COMO LA ADICIÓN DE LOS ARTÍCULOS 114 BIS Y 114 TER DE LA LEY DE DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
