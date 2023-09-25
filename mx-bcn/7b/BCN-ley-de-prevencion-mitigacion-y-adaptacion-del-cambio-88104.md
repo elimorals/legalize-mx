@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-prevencion-mitigacion-y-adaptacion-del-cambio-88104"
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-01"
-last_updated: "2018-11-30"
+last_updated: "2023-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PREVENCIÓN, MITIGACIÓN Y ADAPTACIÓN DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 1 de junio de 2012.
 
@@ -67,7 +67,13 @@ VII. Identificar temas prioritarios para el desarrollo de la Estrategia Estatal 
 
 VIII. Contribuir como Estado, al cumplimiento de las obligaciones internacionales de México en materia de cambio climático.
 
+(REPUBLICADA, P.O. 25 DE SEPTIEMBRE DE 2023)
+
 IX. Impulsar el Programa de Acción ante el Cambio Climático del Estado.
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+X. Garantizar el derecho a un medio ambiente sano, la equidad intergeneracional y el desarrollo sostenible ante el cambio climático.
 
 ###### Artículo 3.
 
@@ -718,3 +724,9 @@ P.O. 30 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 277 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 18 DE LA LEY DE PREVENCIÓN, MITIGACIÓN Y ADAPTACIÓN DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 25 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 290 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE LA FRACCIÓN X AL ARTÍCULO 2 DE LA LEY DE PREVENCIÓN, MITIGACIÓN Y ADAPTACIÓN DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE BAJA CALIFORNIA”]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
