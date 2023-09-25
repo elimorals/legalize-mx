@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2023-05-18"
+last_updated: "2023-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -2009,7 +2009,9 @@ La Tesorería Municipal es la dependencia encargada de la recaudación de los in
 
 Para ser Tesorero Municipal, además de los requisitos señalados en el artículo 111 de esta ley, se requiere:
 
-I.- Contar con estudios profesionales, preferentemente titulado, o contar con los conocimientos necesarios a criterio del Ayuntamiento;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+I.- Contar con estudios profesionales, estar titulado, y contar con los conocimientos necesarios a criterio del Ayuntamiento;
 
 II.- No haber sido condenado por sentencia firme por delitos patrimoniales;
 
@@ -2131,11 +2133,23 @@ XXIX.- Las demás que le señalen las leyes y reglamentos municipales.
 
 ### Capítulo IV. De la Contraloría Municipal
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 118.
 
-La Contraloría Municipal es la dependencia del Ayuntamiento responsable de establecer los sistemas de planeación y organización del control, evaluación y vigilancia de los actos administrativos del gobierno municipal y de los órganos internos de control. Esta dependencia tendrá como superior jerárquico a la Comisión de Hacienda y Cuenta Pública. Su titular deberá reunir los mismos requisitos que para ser Tesorero Municipal.
+La Contraloría Municipal es la dependencia del Ayuntamiento responsable de establecer los sistemas de planeación y organización del control, evaluación y vigilancia de los actos administrativos del gobierno municipal y de los órganos internos de control. Esta dependencia tendrá como superior jerárquico a la Comisión de Hacienda y Cuenta Pública. La persona titular de la Contraloría, además de reunir los requisitos señalados en el artículo 111 de esta Ley, deberá:
+
+I.- Tener residencia efectiva en el Estado de Nayarit de un año previo al día de su designación;
+
+II.- Contar con título y cédula profesional en áreas contables, económico-administrativas, jurídicas o financieras, cuando menos con tres años de antigüedad, expedido por autoridad o institución legalmente facultada para ello;
+
+III.- Gozar de buena reputación;
+
+IV.- Contar cuando menos con tres años de experiencia en materia de fiscalización, rendición de cuentas, control interno, contabilidad o auditoría gubernamental, responsabilidades administrativas o adquisiciones, arrendamientos y servicios del sector público;
+
+V.- No ser o haber sido dirigente de partido político nacional, estatal o municipal en el año inmediato anterior a su designación, y
+
+VI.- No haber ejercido ministerio de algún culto religioso, en los tres años anteriores a su designación.
 
 ###### ARTICULO 119.
 
@@ -4614,3 +4628,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Nayarit, para los efectos conducentes.
 
 TERCERO. Comuníquese el presente Decreto a los veinte Ayuntamientos del Estado de Nayarit, para los efectos conducentes.
+
+P.O. 25 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 116 Y EL ARTÍCULO 118 DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
