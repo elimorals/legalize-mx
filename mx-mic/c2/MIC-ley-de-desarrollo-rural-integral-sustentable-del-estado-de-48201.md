@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-rural-integral-sustentable-del-estado-de-4820
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-18"
-last_updated: "2023-07-25"
+last_updated: "2023-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 18 de enero de 2006.
 
@@ -398,6 +398,12 @@ IX. Coadyuvar en las medidas sanitarias que propongan las autoridades del ramo, 
 X. Contribuir al fomento y conservación de la biodiversidad, al mejoramiento de la calidad de los recursos naturales con la participación activa de sus dueños, mediante su aprovechamiento sustentable de conformidad con las disposiciones normativas en la materia; y,
 
 XI. Las demás que le otorguen la presente Ley, reglamentos; normatividad aplicable en materia rural.
+
+> <small>(ADICIONADO. P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 9 Bis.
+
+La Secretaría tiene prohibido otorgar cualquier tipo de apoyo económico y técnico, estímulo o similar, que implemente a través de sus programas y acciones, que puedan propiciar el cambio de uso de suelo de zonas clasificadas como forestales, selvas, vegetación hidrófila y matorrales xerófilos naturales. Para tal efecto, consultará con la COFOM, sobre el uso del suelo del predio en cuestión. Queda fuera de esta prohibición los terrenos de los solicitantes que cambien el uso del suelo para la restitución de la vegetación natural y aquellos que cuenten con el permiso respectivo emitido por la autoridad competente.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
@@ -1772,3 +1778,11 @@ P.O. 25 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 382 POR EL QUE "SE REFORMAN LAS FRACCIONES IV Y V DEL ARTÍCULO 1 Y LOS ARTÍCULOS 133 A, 133 B, 133 C, 133 D, 133 E, 133 F, 133 G Y 133 H; Y, SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 1; LA FRACCIÓN IV AL ARTÍCULO 6, RECORRIÉNDOSE EN SU ORDEN LAS FRACCIONES IV Y V, PARA SER AHORA LAS FRACCIONES V Y VI; Y, EL CAPÍTULO II "DE LA AGRICULTURA FAMILIAR", RECORRIÉNDOSE EL SUBSECUENTE PARA SER AHORA EL CAPÍTULO III "DE LOS TRABAJADORES Y JORNALEROS AGRÍCOLAS", AL TÍTULO IX DENOMINADO "DEL DESARROLLO SOCIAL Y LOS TRABAJADORES AGRÍCOLAS", EL CUAL INCLUYE LOS ARTÍCULOS 130 BIS, 130 TER, 130 QUATER Y 130 QUINQUIES, TODOS DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se instruye su publicación y observancia para su conocimiento general y efectos legales procedentes.
+
+P.O. 25 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 438 POR EL QUE SE “ADICIONA EL ARTÍCULO 9 BIS A LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos legales correspondientes.
+
+Segundo. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
