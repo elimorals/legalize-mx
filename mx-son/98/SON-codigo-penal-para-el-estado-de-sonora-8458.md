@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2023-07-24"
+last_updated: "2023-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETIN OFICIAL DEL 24 DE JULIO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE SEPTIEMBRE DE 2023.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -3921,7 +3919,7 @@ Al responsable de cualquier otro homicidio calificado se impondrá de veinte a c
 
 ### CAPÍTULO III BIS. FEMINICIDIO
 
-> <small>(ADICIONADO, B.O. 28 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 259.
 
@@ -4001,25 +3999,33 @@ I.- La víctima presente algún signo de violencia sexual de cualquier tipo;
 
 II.- A la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia;
 
-> <small>(REFORMADA, B.O. 2 DE MARZO DE 2023)</small>
+III.- Existan antecedentes o datos de cualquier tipo de violencia, en cualquier ámbito, del sujeto activo en contra de la víctima;
 
-III.- Existan antecedentes o datos de cualquier tipo de violencia, en cualquier ámbito incluidas las herramientas de comunicación digital personal, del sujeto activo en contra de la víctima;
-
-IV.- Haya existido entre el activo y la víctima una relación sentimental, afectiva o de confianza;
+IV.- Haya existido entre el activo y la víctima una relación sentimental, afectiva o de confianza, ya sea por parentesco, matrimonio, concubinato, sociedad de convivencia, cohabitación, noviazgo, cualquier otra relación de hecho o amistad, laboral o que implique confianza, subordinación o superioridad;
 
 V.- Exista algún dato que establezca que hubo alguna amenaza relacionada con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima.
 
 VI.- La víctima haya sido incomunicada, cualquiera que sea el tiempo, previo a la privación de la vida;
 
-VII.- El cuerpo de la víctima sea expuesto o exhibido en un lugar público; o
+VII.- Hallazgos del cuerpo o los restos: que sean expuestos, exhibidos, depositados, arrojados u ocultados en un lugar público o de libre concurrencia; y
 
-VIII.- Quien se aproveche del estado de indefensión o falta de apoyo de una mujer que se encuentra sola, ya sea por la dificultad de comunicación para recibir auxilio, por razón de la distancia a un lugar habitado o porque exista algún impedimento físico o material para solicitar el auxilio.
+VIII.- Quien se aproveche del estado de indefensión o falta de apoyo de una mujer que se encuentra sola, ya sea por la dificultad de comunicación para recibir auxilio, por razón de la distancia a un lugar habitado o porque exista algún impedimento físico o material para solicitar el auxilio;
 
-> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
+A quien cometa el delito de feminicidio se le impondrán de cuarenta y cinco a setenta años de prisión y multa de dos mil a cinco mil Unidades de Medida y Actualización. La pena podrá aumentar hasta en un tercio, cuando, se actualice alguno de los siguientes agravantes:
 
-A quien cometa el delito de feminicidio se le impondrán de cuarenta y cinco a setenta años de prisión y multa de dos mil a cinco mil Unidades de Medida y Actualización.
+a) Sea cometido por servidor público en cualquier etapa del delito;
 
-Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+b) Si fuere cometido por dos o más personas el delito;
+
+c) Sea cometido por persona que tenga el deber de cuidado sobre la víctima;
+
+d) Sea cometido por conductor de vehículo de transporte de pasajeros, turismo o cualquier otra modalidad en el desarrollo de su trabajo.
+
+e) Que el activo haya obligado a la víctima a ejercer la prostitución, actos de explotación o trata de personas; y
+
+f) En presencia de personas con quienes la víctima tuviere un vínculo de consanguinidad o afinidad o cualquier otra relación de hecho o amistad.
+
+Además de las sanciones descritas en el párrafo anterior, el sujeto activo perderá la patria potestad y reparación integral de las infancias en situación de orfandad por feminicidio, así como perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 
 > <small>(ADICIONADO, B.O. 28 DE NOVIEMBRE DE 2013)</small>
 
@@ -6120,6 +6126,18 @@ B.O. 13 DE JULIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 25 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 139, QUE REFORMA EL ARTÍCULO 263 BIS 1 DEL CÓDIGO PENAL DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto número 112, aprobado el día 09 de marzo de 2023.
 
 ###### ARTICULO QUINTO.
 
