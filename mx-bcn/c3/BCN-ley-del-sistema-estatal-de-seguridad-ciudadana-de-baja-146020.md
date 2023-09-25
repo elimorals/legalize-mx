@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-146020"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2023-05-09"
+last_updated: "2023-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -503,9 +503,17 @@ XVI.-· Presentar quejas o denuncias ante las autoridades competentes por el inc
 
 XVII.- Dictar los lineamientos para la coordinación de las Instituciones de Seguridad y las dependencias y entidades estatales y municipales, órganos autónomos y demás instituciones públicas que directa o indirectamente coadyuven en temas relacionados con la seguridad, a efecto de integrar el Sistema Estatal de Información;
 
-XVIII.- Disponer la ejecución de las medidas de seguridad necesarias a fin de proteger la vida de la población, sus bienes y el entorno, brindándoles oportuno y eficaz auxilio, en los casos previstos en la Ley General de Protección Civil y demás disposiciones aplicables, y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
-XIX.- las demás que para el cumplimiento de los fines de la seguridad dispongan la Ley General, la Ley General para la Prevención Social de la Violencia y Delincuencia; los acuerdos del Sistema Nacional y las disposiciones normativas en la materia.
+XVIII.- Disponer la ejecución de las medidas de seguridad necesarias a fin de proteger la vida de la población, sus bienes y el entorno, brindándoles oportuno y eficaz auxilio, en los casos previstos en la Ley General de Protección Civil y demás disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+XIX.- Procurar e impulsar la celebración de convenios de coordinación con la autoridad federal competente para realizar actividades de reparación de armamento de las instituciones policiales; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+XX.- Las demás que para el cumplimiento de los fines de la seguridad dispongan la Ley General, la Ley General para la Prevención Social de la Violencia y Delincuencia; los acuerdos del Sistema Nacional y las disposiciones normativas en la materia.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -991,6 +999,8 @@ III.- Previo a la entrega de las armas a las Instituciones de Seguridad, la Secr
 
 IV.- Los equipos de comunicación que les hayan sido autorizados por las autoridades competentes, aportando en su caso el número de registro, la marca, modelo, en su caso el nombre del funcionario o servidor público a quien se le hubiere asignado, y demás elementos para su identificación.
 
+(NOTA: EL 24 DE MARZO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 505/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 46.
@@ -998,6 +1008,24 @@ IV.- Los equipos de comunicación que les hayan sido autorizados por las autorid
 Cualquier persona que ejerza funciones de seguridad, sólo podrá portar las armas de cargo que hayan sido autorizadas individualmente, o que hubiesen sido asignadas y registradas colectivamente para la Institución de Seguridad Ciudadana a que pertenezcan y para la Fiscalía General, de conformidad con la Ley de la materia. Las armas sólo podrán ser portadas de acuerdo con lo establecido en los ordenamientos de cada Institución. El incumplimiento a la presente disposición, será sancionado conforme a las disposiciones legales aplicables.
 
 Las Instituciones de Seguridad, en el caso de que aseguren armas, municiones o vehículos, lo comunicarán de inmediato a la Secretaría, señalando los datos de identificación de los mismos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+Asimismo, los miembros que ejerzan funciones de seguridad podrán portar su arma de fuego estando fuera del servicio, siempre que lo soliciten a la persona titular de la institución de seguridad del Estado y se cumplan con los siguientes requisitos:
+
+I.- Realizar solicitud por escrito ante la persona titular de la institución de seguridad a la que
+
+pertenezca donde se justifique los motivos para portar su arma de fuego fuera de servicio.
+
+II.- Someterse a la evaluación de control de confianza correspondiente.
+
+III.- No estar sujeto o vinculado a proceso penal, o haber sido condenado por delito doloso.
+
+IV.- No estar suspendido ni haber sido destituido o inhabilitado por causa grave mediante resolución firme como servidor público, en términos de las normas aplicables.
+
+V.- No contar con denuncias por violencia familiar.
+
+VI.- Que la licencia colectiva correspondiente así lo permita.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -3462,3 +3490,9 @@ P.O. 9 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 225 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 27, 28 Y 29 DE LA LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE BAJA CALIFORNIA; COMO TAMBIÉN LA ADICIÓN DE LOS NUMERALES 18 BIS Y 18 TER AL MISMO ORDENAMIENTO; SE REFORMAN LOS ARTÍCULOS 71 Y 75 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA; Y SE ADICIONA EL INCISO G) A LA FRACCIÓN II DEL ARTICULO 22 DE LA LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 292 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 19 Y 46 A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
