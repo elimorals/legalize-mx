@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-proteccion-de-personas-defensoras-de-derechos-13062
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-14"
-last_updated: "2019-08-28"
+last_updated: "2023-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Décima Sección al Número 54 del Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, el martes 14 de agosto de 2018.
 
@@ -67,13 +67,23 @@ VI. Medidas de Prevención: Conjunto de acciones y medios encaminados a desarrol
 
 VII. Medidas de Protección Extraordinaria: Conjunto de acciones y medios para resguardar, de manera inmediata, la vida, la integridad y la libertad del beneficiario;
 
-VIII. Peticionario: Persona que solicita Medidas de Prevención o de Protección Extraordinaria ante el Mecanismo;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. Persona Peticionaria: Persona que solicita Medidas de Prevención o de Protección Extraordinaria ante el Mecanismo;
 
 IX. Periodistas: Las personas físicas, así como medios de comunicación y difusión públicos, comunitarios, privados, independientes, universitarios, experimentales o de cualquier otra índole cuyo trabajo consiste en recabar, generar, procesar, editar, comentar, opinar, difundir, publicar o proveer información, a través de cualquier medio de difusión y comunicación que puede ser impreso, radioeléctrico, digital o imagen;
 
-X. Persona Defensora de Derechos Humanos: Las personas físicas que actúen individualmente o como integrantes de un grupo, organización o movimiento social, así como personas morales, grupos, organizaciones o movimientos sociales cuya finalidad sea la promoción o defensa de los derechos humanos; y,
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
-XI. Unidad: Unidad de Protección para Personas Defensoras de Derechos Humanos y Periodistas
+X. Persona Defensora de Derechos Humanos: Las personas físicas que actúen individualmente o como integrantes de un grupo, organización o movimiento social, así como personas morales, grupos, organizaciones o movimientos sociales cuya finalidad sea la promoción o defensa de los derechos humanos;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+XI. Unidad: Unidad de Protección para Personas Defensoras de Derechos Humanos y Periodistas; y,
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+XII. Inmediatamente: Es la actuación sin demora de la autoridad para fines de la presente Ley.
 
 ###### Artículo 3.
 
@@ -171,9 +181,11 @@ Los consejeros deberán tener experiencia o conocimiento en la defensa o promoci
 
 El Consejo Consultivo elegirá a sus miembros a través de una convocatoria pública emitida por la Junta de Gobierno.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 12.
 
-Los consejeros nombrarán de entre sus miembros a dos de ellos para formar parte de la Junta de Gobierno, de los cuales uno será persona experta en la defensa de los derechos humanos y la otra en periodismo.
+Los consejeros nombrarán de entre sus integrantes a dos de ellos para formar parte de la Junta de Gobierno, de los cuales uno será persona experta en la defensa de los derechos humanos y la otra en periodismo.
 
 ###### Artículo 13.
 
@@ -221,7 +233,9 @@ Un funcionario de la Secretaría de Gobierno, con rango inmediato inferior a Sub
 
 La Unidad contará con las siguientes atribuciones:
 
-I. Atenderá de manera oportuna los casos o situaciones que se presenten, los cuales deberán canalizarse a las dependencias competentes y éstas a su vez dar cumplimiento oportuno para la implementación de las medidas de protección;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+I. Atenderá de manera inmediata los casos o situaciones que se presenten, los cuales deberán canalizarse inmediatamente en el momento que se presenten a las dependencias competentes y éstas a su vez dar cumplimiento oportuno para la implementación de las medidas de protección;
 
 II. Recibir y compilar la información generada por el Grupo Operativo a su cargo y remitirla a la Junta de Gobierno con al menos cinco días naturales previo a su reunión;
 
@@ -231,7 +245,9 @@ IV. Administrar los recursos presupuestales asignados para el cumplimiento de es
 
 V. Elaborar y proponer, para su aprobación a la Junta de Gobierno, los manuales y protocolos de Medidas Preventivas y Medidas de Protección Extraordinaria;
 
-VI. Facilitar y promover protocolos, manuales y en general instrumentos que contengan las mejores prácticas disponibles para el cumplimiento del objeto de esta Ley a los municipios, dependencias de la administración pública estatal y organismos autónomos;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Facilitar y promover protocolos, manuales y en general instrumentos con perspectiva de género y de derechos humanos, que contengan las mejores prácticas disponibles para el cumplimiento del objeto de esta Ley a los municipios, dependencias de la administración pública estatal y organismos autónomos;
 
 VII. Instrumentar los manuales y protocolos de Medidas de Protección Extraordinaria;
 
@@ -279,15 +295,19 @@ VIII. Mantener un intercambio permanente de información con el Mecanismo Federa
 
 IX. Brindar a periodistas y personas defensoras de derechos humanos asesoría y atención respecto del funcionamiento y trámites del Sistema Estatal y el Mecanismo Federal.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 20.
 
-El actuar de los servidores públicos de la Unidad presumirá la buena fe de periodistas y personas defensoras.
+Para el otorgamiento de las Medidas de Protección Extraordinarias, los servidores públicos de la Unidad presumirán la veracidad del dicho de periodistas y personas defensoras de derechos humanos.
 
 ### CAPÍTULO V. SOLICITUD DE PROTECCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 21.
 
-Las agresiones se configurarán cuando por acción u omisión o en aquiescencia se dañe la integridad física, psicológica, moral o económica de:
+Las agresiones se configuran cuando por acción, omisión, aquiescencia o amenazas, se dañe la integridad física, psicológica, moral o económica de:
 
 I. Persona Defensora de Derechos Humanos o Periodista;
 
@@ -303,15 +323,23 @@ V. Las demás personas que se determine en la evaluación de riesgo.
 
 La Unidad recibirá las solicitudes de incorporación, verificará que cumplan con los requisitos previstos en esta Ley, y en su caso, determinará el tipo de procedimiento. Solamente dará trámite a las solicitudes que cuenten con el consentimiento del potencial beneficiario, salvo que éste se encuentre impedido por causa grave. Una vez que desaparezca el impedimento, el beneficiario deberá otorgar su consentimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 23.
 
-En el supuesto que el peticionario declare que su vida, integridad física o la de los señalados en esta Ley, se encuentran en peligro inminente, el caso será considerado de riesgo alto y se iniciará el procedimiento para implementar las Medidas de Protección Extraordinarias.
+En el supuesto que la persona peticionaria declare que su vida, integridad física o la de los señalados en esta Ley, se encuentran en peligro inminente, o haya sido amenazada, el caso será considerado de riesgo alto y se iniciará inmediatamente el procedimiento para implementar las Medidas de Protección Extraordinarias.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 La Unidad procederá a:
 
-I. Emitir, en un plazo no mayor a 3 horas contadas a partir del ingreso de la solicitud, las Medidas de Protección Extraordinarias;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
-II. Implementar de manera inmediata, una vez emitidas, y en un plazo no mayor a 9 horas, las Medidas de Protección Extraordinarias; y,
+I. Emitir inmediatamente a partir del ingreso de la solicitud, las Medidas de Protección Extraordinarias, las cuales se mantendrán vigentes hasta que la persona peticionaria deje de estar expuesta al riesgo o hasta que el mecanismo federal pueda acoger a la persona en su protección;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+II. Implementar inmediatamente, una vez emitidas, las Medidas de Protección Extraordinarias; y,
 
 III. Solicitar al Mecanismo Federal simultáneamente a la emisión de las Medidas de Protección Extraordinarias, un Estudio de Evaluación de Acción Inmediata.
 
@@ -321,9 +349,11 @@ III. Solicitar al Mecanismo Federal simultáneamente a la emisión de las Medida
 
 Las Medidas de Protección Extraordinarias permanecerán activas hasta que el Mecanismo Federal pueda acoger a la persona en su protección.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 25.
 
-Las Medidas Preventivas y de Protección Extraordinaria deberán reducir al máximo la exposición al riesgo, serán idóneas, eficaces y temporales, podrán ser individuales o colectivas y serán acordes con las mejores metodologías, estándares internacionales y buenas prácticas. En ningún caso dichas medidas restringirán las actividades de los beneficiarios, ni implicarán vigilancia o intrusiones no deseadas en sus vidas laborales o personales.
+Las Medidas Preventivas y de Protección Extraordinaria deberán reducir al máximo la exposición al riesgo, se emitirán inmediatamente, siendo idóneas, eficaces y temporales, podrán ser individuales o colectivas y serán acordes con las mejores metodologías, estándares internacionales y buenas prácticas, atendiendo a la eliminación de la violencia por razón de género. En ningún caso dichas medidas restringirán las actividades de los beneficiarios, ni implicarán vigilancia o intrusiones no deseadas en sus vidas laborales o personales y deberán en todo momento garantizar su derecho a la privacidad.
 
 ###### Artículo 26.
 
@@ -339,9 +369,29 @@ I. Acompañamiento;
 
 II. Protección de inmuebles;
 
-III. Rondines; y,
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
-IV. Las demás que se requieran para salvaguardar la vida, integridad y libertad de los beneficiarios.
+III. Rondines policiacos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Intervención especializada con base en la perspectiva de género. En el caso de las mujeres periodistas y defensoras de derechos humanos víctimas de violencia, esta intervención se regirá por los siguientes lineamientos:
+
+a) Atención integral: Se realizará considerando el conjunto de necesidades derivadas de la situación de violencia ofreciendo apoyo sanitario, psicosocial, laboral; así como, orientación y representación jurídica, albergue, seguridad patrimonial y económica;
+
+b) Efectividad: Se adoptarán las medidas necesarias para que las víctimas, sobre todo aquellas que se encuentran en mayor condición de riesgo o indefensión, accedan a los servicios integrales que les garantice el ejercicio efectivo de sus derechos;
+
+c) Legalidad: Apego al orden jurídico y respeto a los derechos humanos de las mujeres víctimas de violencia;
+
+d) Auxilio oportuno: Brindar apoyo inmediato y eficaz a las mujeres en situación de riesgo o que hayan sido víctimas de violencia de género, así como brindar protección a sus bienes y derechos;
+
+e) Respeto a los derechos humanos de las mujeres: Abstenerse en todo momento y bajo cualquier circunstancia de hacer uso indebido de la fuerza, de infligir, tolerar o permitir actos de tortura u otros tratos o sanciones crueles, inhumanos o degradantes en contra de las mujeres;
+
+f) Seguridad y Protección: Se garantizará la integridad física con las medidas necesarias de seguridad y proximidad policial que requiera la víctima y que establezcan los protocolos de actuación policial respectiva; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
+V. Las demás que se requieran para salvaguardar la vida, integridad y libertad de los beneficiarios.
 
 ###### Artículo 28.
 
@@ -357,9 +407,11 @@ IV. Acompañamiento de observadores de derechos humanos y periodistas; y,
 
 V. Las demás que se requieran.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 29.
 
-Las Medidas de Prevención y de Protección Extraordinaria estarán sujetas a evaluación periódica por parte de la Unidad con la finalidad de determinar su prolongación, adecuación o su suspensión.
+Las Medidas de Prevención y de Protección Extraordinaria estarán sujetas a evaluación periódica por parte de la Unidad con la finalidad de determinar su prolongación, adecuación o su suspensión y deberán en todo momento medir el riesgo desde una perspectiva de género.
 
 ###### Artículo 30.
 
@@ -524,3 +576,15 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- "ARTÍCULO TRIGÉSIMO. SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 5 DE LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 25 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NUMERO 420.- ARTÍCULO PRIMERO.- SE REFORMAN LAS FRACCIONES VIII, X, XI Y SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 2; SE REFORMA EL ARTÍCULO 12, LAS FRACCIONES I Y VI DEL ARTÍCULO 17, LOS ARTÍCULOS 20 Y 21, EL ARTÍCULO 23 Y SUS FRACCIONES I Y II, EL ARTÍCULO 25, LAS FRACCIONES III Y IV Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 27; Y, SE REFORMA EL ARTÍCULO 29, TODOS DE LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS.- ARTÍCULO SEGUNDO.- SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONA LA FRACCIÓN X RECORRIÉNDOSE LA SIGUIENTE EN SU ORDEN SUBSECUENTE, DEL ARTÍCULO 9; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 11 Y SU FRACCIÓN I; SE REFORMAN LAS FRACCIONES II, III Y ADICIONA LA FRACCIÓN IV AL ARTÍCULO 15, TODOS DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LA MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
