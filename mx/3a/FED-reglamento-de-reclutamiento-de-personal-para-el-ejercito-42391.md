@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-reclutamiento-de-personal-para-el-ejercito-42391"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-20"
-last_updated: "2019-07-31"
+last_updated: "2023-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42391&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-01-14"
 
 REGLAMENTO DE RECLUTAMIENTO DE PERSONAL PARA EL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE SEPTIEMBRE DE 2023.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 20 de enero de 2005.
 
@@ -219,9 +219,9 @@ a). Personal masculino en Unidades, Dependencias e Instalaciones, 1.63 metros;
 
 b). Personal en la Escuela Militar de Aviación 1.65 metros, y
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2023)</small>
 
-c). Personal femenino en Unidades, Dependencias e Instalaciones, 1.60 metros;
+c). Personal femenino en Unidades, Dependencias e Instalaciones, 1.56 metros;
 
 d). (DEROGADO, D.O.F. 4 DE JULIO DE 2012)
 
@@ -868,3 +868,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
 
 TERCERO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
+
+D.O.F. 25 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL REGLAMENTO DE RECLUTAMIENTO DE PERSONAL PARA EL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, se realizarán con cargo al presupuesto aprobado para la Secretaría de la Defensa Nacional, para el presente ejercicio fiscal y los subsecuentes en el Presupuesto de Egresos de la Federación, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+TERCERO. Se derogan todas aquellas disposiciones administrativas que se opongan al presente decreto.
