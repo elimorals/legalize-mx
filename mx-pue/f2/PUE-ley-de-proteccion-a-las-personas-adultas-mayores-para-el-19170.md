@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-las-personas-adultas-mayores-para-el-19170"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2023-08-07"
+last_updated: "2023-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 29 de diciembre de 2000.
 
@@ -109,7 +109,9 @@ I.- Llevar a cabo o proporcionar apoyo para realizar investigaciones que permita
 
 II.- Promover, a través de cursos y de los medios de comunicación masiva, su respeto, conocimiento y reconocimiento;
 
-III.- Motivar que desempeñen trabajos, actividades lucrativas o voluntarias, conforme a su profesión, oficio o habilidad manual, estableciendo para tal efecto en coordinación con la Secretaría de Competitividad, Trabajo y Desarrollo Económico, programas de capacitación, financiamiento y autoempleo;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2023)</small>
+
+III.- Motivar que desempeñen trabajos, actividades lucrativas o voluntarias, conforme a su profesión, oficio o habilidad manual, estableciendo para tal efecto en coordinación con las Secretarías de Trabajo, y de Economía, del Gobierno del Estado, programas de capacitación, financiamiento y autoempleo;
 
 IV.- Celebrar cursos de capacitación y actualización para el personal que labore en las instituciones públicas, privadas y sociales, encargadas de su atención;
 
@@ -201,9 +203,9 @@ III.- Vivir con decoro, honor y respeto, libres de cualquier forma de violencia 
 
 IV.- Residir dignamente en sus hogares y cerca de sus familiares hasta el último momento de su existencia, a menos que medie enfermedad grave, que requiera de internamiento en instituciones especializadas;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2023)</small>
 
-V.- Gozar del respeto a sus derechos humanos y ser protegidos contra toda forma de explotación;
+V.- Gozar del respeto a sus derechos humanos y de la libre e informada administración de sus recursos económicos, particularmente los que provienen de la seguridad y bienestar social, y ser protegidos contra toda forma de explotación;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
 
@@ -283,7 +285,9 @@ V.- Conseguir su intervención entusiasta en la vida cívica, académica y produ
 
 VI.- Implementar servicios a la comunidad en las áreas sociales, educativas y recreativas, a su cargo, de acuerdo a sus aptitudes físicas y mentales;
 
-VII.- Alcanzar su participación activa con pleno conocimiento y responsabilidad, en la toma de decisiones en materia de atención a su salud;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2023)</small>
+
+VII.- Alcanzar su participación activa con plena conciencia en la toma de decisiones en materia de atención a su salud y a la administración de sus recursos económicos, para lo cual las acciones de estos programas deberán ser concretadas a través de cursos de capacitación;
 
 VIII.- Constituir clubes de tercera edad y asociaciones similares, tanto en el ámbito estatal como municipal;
 
@@ -740,5 +744,13 @@ P.O. 7 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES X Y XI DEL ARTÍCULO 3, Y ADICIONA LA FRACCIÓN XII AL ARTÍCULO 3 DE LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III DEL ARTÍCULO 3, LA V DEL 4, Y LA VII DEL 6, DE LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA; Y REFORMA LOS ARTÍCULOS 400 Y 407 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado Libre y Soberano de Puebla.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
