@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2023-04-11"
+last_updated: "2023-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -5371,11 +5371,11 @@ II.- Con prisión de tres a cuatro años y multa de veinte a doscientas Unidades
 
 III.- Con prisión de cuatro a cinco años y multa de treinta a trescientas Unidades de Medida y Actualización, cuando el monto de lo dispuesto exceda de seiscientas Unidades de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 400.
 
-Cuando el delito previsto en esta Sección, se cometa en perjuicio de cooperativas o cualesquiera otras sociedades o agrupaciones en que estén interesados obreros o ejidatarios, se castigará con prisión de tres a diez años y multa de cien a mil Unidades de Medida y Actualización.
+Cuando el delito previsto en esta Sección se cometa en perjuicio de personas adultas mayores, o bien de cooperativas o cualesquiera otras sociedades o agrupaciones en que estén interesados obreros o ejidatarios, se castigará con prisión de tres a diez años y multa de cien a mil Unidades de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
@@ -5541,11 +5541,11 @@ Se impondrán las mismas sanciones previstas en el último párrafo del artícul
 
 Para efectos de este artículo se entenderá que existe captación de recursos del público cuando: a) se solicite, promueva u ofrezca la obtención de fondos o recursos de persona indeterminada, mediante gestión personal, de grupo o utilizando medios de comunicación masiva; o b) se soliciten u obtengan fondos o recursos de forma habitual o profesional.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 407.
 
-Cuando el delito previsto en esta sección, se cometa en perjuicio de cooperativas, sociedades o agrupaciones en que estén interesados obreros, campesinos o indígenas, la sanción será de cuatro a diez años de prisión y multa de cincuenta a trescientas Unidades de Medida y Actualización.
+Cuando el delito previsto en esta Sección se cometa en perjuicio de personas adultas mayores, de cooperativas, sociedades o agrupaciones en que estén interesados obreros, campesinos o indígenas, la sanción será de cuatro a diez años de prisión y multa de cincuenta a trescientas Unidades de Medida y Actualización.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
 
@@ -7774,5 +7774,13 @@ P.O. 11 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LAS FRACCIONES XXIV BIS Y XXIV TER AL ARTÍCULO 380 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III DEL ARTÍCULO 3, LA V DEL 4, Y LA VII DEL 6, DE LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA; Y REFORMA LOS ARTÍCULOS 400 Y 407 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado Libre y Soberano de Puebla.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
