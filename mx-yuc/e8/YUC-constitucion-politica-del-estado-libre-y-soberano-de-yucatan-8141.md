@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2023-06-28"
+last_updated: "2023-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE SEPTIEMBRE DE 2023.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -76,6 +76,10 @@ El Estado a través de un organismo especializado, con la participación de la s
 > <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2020)</small>
 
 El Estado realizará todas las acciones necesarias orientadas a lograr el derecho a una vida digna de las personas adultas mayores en el Estado, tendrán acceso a los servicios de salud, alimentación, cultura, protección de su patrimonio, igualdad de condiciones para desempeñar un trabajo, asistencia y seguridad social e igualdad de oportunidades que les propicie mayor bienestar y una mejor calidad de vida. Las autoridades estatales y municipales; establecerán un sistema permanente de apoyo e integración social de los adultos mayores para permitirles una vida digna y decorosa.
+
+> <small>(ADICIONADO, D.O. 26 DE SEPTIEMBRE DE 2023)</small>
+
+El Estado promoverá el desarrollo integral de las personas jóvenes a través de la implementación de políticas públicas con un enfoque multidisciplinario que propicie su inclusión en los ámbitos político, social, económico y cultural. La Ley de la materia establecerá los mecanismos para su cumplimiento.
 
 > <small>(ADICIONADO, D.O. 12 DE SEPTIEMBRE DE 2022)</small>
 
@@ -293,7 +297,9 @@ V.- inscribirse en las Juntas Municipales de Reclutamiento para el servicio de l
 
 VI.- Votar en los procedimientos de elección, consulta popular y el de revocación de mandato, en los términos que señale la ley;
 
-VII.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 26 DE SEPTIEMBRE DE 2023)</small>
+
+VII.- Respetar los símbolos patrios y los estatales.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -356,6 +362,14 @@ La soberanía reside esencial y originariamente en el pueblo, y la del Estado pa
 > <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
 El Estado de Yucatán adopta la forma de gobierno republicano, representativo, democrático, laico y popular.
+
+> <small>(ADICIONADO, D.O. 26 DE SEPTIEMBRE DE 2023)</small>
+
+En el estado de Yucatán se fomentará el patrimonio cultural, así como la identidad local. Contará con símbolos estatales, los cuales son: himno, escudo y bandera, que serán respetados como símbolos distintivos y emblemáticos, ligados a su tradición histórica.
+
+> <small>(ADICIONADO, D.O. 26 DE SEPTIEMBRE DE 2023)</small>
+
+Las características, así como el uso oficial y particular de los mismos serán determinadas por la ley secundaria.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -2931,7 +2945,9 @@ Además:
 
 a) Será laica, combatirá la ignorancia, el fanatismo y los prejuicios, preparando desde la infancia, para asumir una vida responsable, basada en la comprensión, armonía, tolerancia, equidad de género, inclusión, la no discriminación y cooperación entre todos los pueblos;
 
-b) Coadyuvará con la nación, en la defensa de nuestra independencia política y económica;
+> <small>(REFORMADO, D.O. 26 DE SEPTIEMBRE DE 2023)</small>
+
+b) Coadyuvará con la nación, en la defensa de nuestra independencia política y económica, fomentando el sentido de pertenencia, compromiso solidario e identidad como mexicanos y yucatecos; así como el conocimiento de la historia del estado, el compromiso con los valores y respeto a los símbolos estatales;
 
 c) Priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el acceso, permanencia y participación en los servicios educativos;
 
@@ -5658,3 +5674,27 @@ Artículo primero. Este decreto entrará en vigor al día siguiente de su public
 Clausula derogatoria
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan a este decreto.
+
+D.O. 26 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 675/2023 QUE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE DESARROLLO INTEGRAL DE LA JUVENTUD”.]
+
+Entrada en vigor
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este decreto.
+
+D.O. 26 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 678/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DEL RECONOCIMIENTO DE LOS SÍMBOLOS ESTATALES".]
+
+Entrada en vigor
+
+Artículo primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Disposiciones secundarias
+
+Artículo segundo. El Congreso del Estado de Yucatán deberá emitir la ley reglamentaria del presente decreto a más tardar dentro de los trescientos sesenta y cinco días hábiles siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
