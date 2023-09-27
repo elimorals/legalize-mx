@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2023-07-31"
+last_updated: "2023-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 31 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 27 DE SEPTIEMBRE DE 2023.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -1225,7 +1225,9 @@ XII. Justicia;
 
 XIII. Medio Ambiente;
 
-XIV. Mercados y Centrales de Abasto;
+> <small>(REFORMADA, G.M. 27 DE SEPTIEMBRE DE 2023)</small>
+
+XIV. Mercados, Centrales de Abasto, Tianguis y Comercio en Espacios Abiertos;
 
 > <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -1603,17 +1605,29 @@ f) Promover la innovación científica y tecnológica en materia de preservació
 
 g) Coadyuvar con la Comisión Edilicia de Asuntos y Coordinación Metropolitana en la definición de políticas y estrategias tendientes a la conservación y mejoramiento del medio ambiente.
 
-XIV. Mercados y Centrales de Abasto:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 27 DE SEPTIEMBRE DE 2023)</small>
 
-a) Promover acciones tendientes mejorar la operación de las centrales de abasto, mercados municipales, tianguis y comercios en la vía pública;
+XIV. Mercados, Centrales de Abasto, Tianguis y Comercio en Espacios Abiertos:
+
+> <small>(REFORMADO, G.M. 27 DE SEPTIEMBRE DE 2023)</small>
+
+a) Promover acciones tendientes (sic) mejorar la operación de las centrales de abasto, mercados municipales, tianguis y comercios en espacios abiertos;
 
 b) Conocer y dictaminar sobre la aprobación de concesiones y revocaciones de locales, y en general todo acto relacionado con los derechos de concesión de mercados municipales y centrales de abastos;
 
 c) Impulsar la realización de los estudios pertinentes y con base en estos, proponer la conveniencia de la construcción de mercados municipales o su denominación como centrales de abastos; así como el acondicionamiento, conservación y rehabilitación de los existentes;
 
-d) Proponer políticas tendientes a la creación, mantenimiento y mejoramiento de una red de mercados municipales y centrales de abastos que incentiven la actividad económica de las colonias y los barrios del Municipio; y
+> <small>(REFORMADO, G.M. 27 DE SEPTIEMBRE DE 2023)</small>
 
-e) Proponer y dictaminar los horarios para el ejercicio del comercio en la vía pública.
+d) Proponer políticas tendientes a la creación, mantenimiento y mejoramiento de una red de mercados municipales y centrales de abastos que incentiven la actividad económica de las colonias y los barrios del Municipio;
+
+> <small>(REFORMADO, G.M. 27 DE SEPTIEMBRE DE 2023)</small>
+
+e) Proponer y dictaminar los horarios para el ejercicio del comercio en espacios abiertos; y
+
+> <small>(ADICIONADO, G.M. 27 DE SEPTIEMBRE DE 2023)</small>
+
+f) Dictaminar lo concerniente a la instalación de nuevos tianguis o la reubicación de los ya existentes.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -8474,3 +8488,13 @@ Tercero. Los Acuerdos de Hermanamiento celebrados con anterioridad a la entrada 
 Cuarto. Se faculta al Presidente Municipal para que en el ámbito de sus atribuciones y dentro del término de 60 sesenta días hábiles posteriores a la publicación del presente ordenamiento, convoque y en su momento, conforme el Consejo de Ciudades Hermanas y Acuerdos de Cooperación del Municipio de Guadalajara.
 
 Quinto. Una vez publicado el presente ordenamiento, remítase copia del presente al Congreso del Estado, para los efectos estipulados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 27 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE “REFORMAS AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicadas las presentes reformas, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
