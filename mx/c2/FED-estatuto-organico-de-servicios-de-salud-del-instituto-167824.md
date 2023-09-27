@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-servicios-de-salud-del-instituto-167824"
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-09-13"
-last_updated: "2023-09-13"
+last_updated: "2023-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167824&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,9 @@ issue_date: "2023-07-31"
 ---
 # ESTATUTO ORGANICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR)
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE OCTUBRE DE 2023 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE SEPTIEMBRE DE 2023.
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 13 de septiembre de 2023.
 
@@ -77,35 +75,39 @@ ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIA
 
 ### CAPÍTULO II. DE LAS COMISIONES Y COMITÉS
 
-## TÍTULO QUINTO. DE LAS REFORMAS, ADICIONES O MODIFICACIONES AL ESTATUTO ORGÁNICO
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y SECCIONES QUE LO INTEGRAN, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
 
-### CAPITULO ÚNICO
+## TÍTULO QUINTO. DE LAS COORDINACIONES ESTATALES
 
-### CAPÍTULO I. DE LA DENOMINACIÓN Y OBJETO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-### CAPÍTULO II. DE LA COORDINACIÓN INTERINSTITUCIONAL
+### CAPÍTULO II. DE LA PERSONA TITULAR DE LA COORDINACIÓN ESTATAL
 
-### CAPÍTULO III. DEL PATRIMONIO Y ADMINISTRACIÓN
+### CAPÍTULO III. DE LA ESTRUCTURA ORGÁNICA
 
-#### SECCIÓN PRIMERA. UNIDAD DE ATENCIÓN A LA SALUD
+### CAPÍTULO IV. DE LAS JEFATURAS DE SERVICIOS Y DEPARTAMENTOS
 
-#### SECCIÓN SEGUNDA. UNIDAD DE ADMINISTRACIÓN Y FINANZAS
+#### SECCIÓN PRIMERA. JEFATURA DE SERVICIOS DE ATENCIÓN A LA SALUD
 
-#### SECCIÓN TERCERA. UNIDAD DE INFRAESTRUCTURA
+#### SECCIÓN SEGUNDA. JEFATURA DE SERVICIOS ADMINISTRATIVOS Y FINANZAS
 
-#### SECCIÓN CUARTA. UNIDAD JURÍDICA
+#### SECCIÓN TERCERA. JEFATURA DE SERVICIOS JURÍDICOS
 
-#### SECCIÓN QUINTA. COORDINACIÓN DE ACCIÓN COMUNITARIA
+#### SECCIÓN CUARTA. DEPARTAMENTO DE ACCIÓN COMUNITARIA
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+#### SECCIÓN QUINTA. DEPARTAMENTO DE PLANEACIÓN ESTRATÉGICA
 
-### CAPÍTULO I. DE LA JUNTA DE GOBIERNO
+(REUBICADO CON EL CAPÍTULO QUE LO INTEGRA [N. DE E. ANTES TÍTULO QUINTO], D.O.F. 27 DE SEPTIEMBRE DE 2023)
+
+## TÍTULO SEXTO. DE LAS REFORMAS, ADICIONES O MODIFICACIONES AL ESTATUTO ORGÁNICO
+
+### CAPÍTULO ÚNICO
 
 ## ARTÍCULOS TRANSITORIOS
 
-## TÍTULO SEGUNDO. DE LA ADMINISTRACIÓN DE IMSS-BIENESTAR
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO II. DE LA DIRECCIÓN GENERAL
+### CAPÍTULO I. DE LA DENOMINACIÓN Y OBJETO
 
 ###### Artículo 1.
 
@@ -113,45 +115,53 @@ Este Estatuto es de observancia general para los Servicios de Salud del Institut
 
 Es obligación de todos los servidores públicos de IMSS-BIENESTAR dar cumplimiento a este Estatuto y desempeñar su empleo, cargo, comisión o función conforme a los principios constitucionales y legales de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público.
 
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 2.
 
 Para efectos del presente Estatuto se entenderá por:
 
-I. Decreto de Creación: Decreto por el que se crea el organismo público descentralizado denominado Servicios de Salud del Instituto Mexicano del Seguro Social para el BIENESTAR (IMSS-BIENESTAR), publicado en el Diario Oficial de la Federación el 31 de agosto de 2022.
+I. Análisis FODA: Herramienta metodológica para determinar las fortalezas, oportunidades, debilidades y amenazas de una organización y diseñar mecanismos para la mejora de su desempeño interno y de su entorno externo.
 
-II. Dirección General: La persona titular de la Dirección General de IMSS-BIENESTAR.
+II. Coordinaciones Estatales: Las Coordinaciones Estatales de los Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), son las oficinas de representación de IMSS-BIENESTAR en las entidades federativas con fundamento en lo establecido en el artículo 3 de su Estatuto Orgánico.
 
-III. Entidades federativas: Las 32 partes integrantes de la Federación señaladas en el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos.
+III. Decreto de Creación: Decreto por el que se crea el organismo público descentralizado denominado Servicios de Salud del Instituto Mexicano del Seguro Social para el BIENESTAR (IMSS-BIENESTAR), publicado en el Diario Oficial de la Federación el 31 de agosto de 2022.
 
-IV. Establecimientos de salud: Unidades Médicas de primer nivel rurales o urbanos de 1 a 12 consultorios incluyendo las Unidades de especialidades médicas (UNEMES) y los Centros de Salud con Servicios ampliados (CESSA), segundo nivel hospitales comunitarios de 12 a 18 camas y Hospitales Generales de 30 a 180 camas y tercer nivel los hospitales y/o institutos de especialidades.
+IV. Dirección General: La persona titular de la Dirección General de IMSS-BIENESTAR.
 
-V. Estatuto: El Estatuto Orgánico de Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar.
+V. Entidades federativas: Las 32 partes integrantes de la Federación señaladas en el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos.
 
-VI. FONSABI: Fondo de Salud para el Bienestar.
+VI. Establecimientos de salud: Unidades de salud de primer nivel rurales o urbanos de 1 a 12 consultorios incluyendo las Unidades de especialidades médicas (UNEMES) y los Centros de Salud con Servicios ampliados (CESSA), segundo nivel hospitales comunitarios de 12 a 18 camas y Hospitales Generales de 30 a 180 camas y tercer nivel los hospitales y/o institutos de especialidades.
 
-VII. IMSS-BIENESTAR: El organismo público descentralizado denominado Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar.
+VII. Estatuto: El Estatuto Orgánico de Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar.
 
-VIII. Junta de Gobierno: La Junta de Gobierno de IMSS-BIENESTAR.
+VIII. FONSABI: Fondo de Salud para el Bienestar.
 
-IX. Órganos normativos del Instituto Mexicano del Seguro Social: Las direcciones a que se refiere el artículo 3, fracción II, del Reglamento Interior del Instituto Mexicano del Seguro Social, así como las unidades y coordinaciones que de ellas dependan.
+IX. IMSS-BIENESTAR: El organismo público descentralizado denominado Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar.
 
-X. Personal de conducción: Es el personal de salud que se encuentra en los diferentes niveles de conducción de IMSS-BIENESTAR (estatal, regional y zonal).
+X. Junta de Gobierno: La Junta de Gobierno de IMSS-BIENESTAR.
 
-XI. Personal operativo: Es el personal de salud que forma parte de las unidades de salud y hospitales de IMSS-BIENESTAR.
+XI. Órganos normativos del Instituto Mexicano del Seguro Social: Las direcciones a que se refiere el artículo 3, fracción II, del Reglamento Interior del Instituto Mexicano del Seguro Social, así como las unidades y coordinaciones que de ellas dependan.
 
-XII. Población objetivo: Las personas sin afiliación a las instituciones de seguridad social.
+XII. Personal de conducción: Es el personal de salud que se encuentra en los diferentes niveles de conducción de IMSS-BIENESTAR (estatal, regional y zonal).
 
-XIII. Programa IMSS-BIENESTAR: El Programa IMSS-BIENESTAR del Gobierno Federal administrado por el Instituto Mexicano del Seguro Social, en los términos de las reglas de operación publicadas anualmente en el Diario Oficial de la Federación.
+XIII. Personal operativo: Es el personal de salud que forma parte de las unidades de salud y hospitales de IMSS-BIENESTAR.
 
-XIV. RISS: Redes Integradas de Servicios de Salud.
+XIV. Población objetivo: Las personas sin afiliación a las instituciones de seguridad social.
 
-XV. Unidades y coordinaciones: Las áreas que, de acuerdo con este Estatuto, forman parte de la estructura orgánica básica de IMSS-BIENESTAR.
+XV. Programa IMSS-BIENESTAR: El Programa IMSS-BIENESTAR del Gobierno Federal administrado por el Instituto Mexicano del Seguro Social, en los términos de las reglas de operación publicadas anualmente en el Diario Oficial de la Federación.
+
+XVI. RISS: Redes Integradas de Servicios de Salud.
+
+XVII. Unidades y coordinaciones: Las áreas que, de acuerdo con este Estatuto, forman parte de la estructura orgánica básica de IMSS-BIENESTAR.
+
+XVIII. Unidades administrativas estatales: Son las Jefaturas de Servicios, Departamentos y Oficinas que forman parte de la estructura orgánica básica de las Coordinaciones Estatales.
 
 ###### Artículo 3.
 
 El IMSS-BIENESTAR tendrá su sede en la Ciudad de México, pero podrá establecer oficinas de representación estatal previa autorización expresa de la Junta de Gobierno, con sujeción a lo establecido en el Decreto de Creación.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LA COORDINACIÓN INTERINSTITUCIONAL
 
 ###### Artículo 4.
 
@@ -161,7 +171,7 @@ El IMSS-BIENESTAR podrá coordinarse con otras instituciones con el objeto de qu
 
 Lo no previsto en el Estatuto se regulará por las disposiciones administrativas de orden interno que expidan la Junta de Gobierno, la Dirección General, las unidades y coordinaciones en el ámbito de sus atribuciones. Además, el IMSS-BIENESTAR regirá su organización, funcionamiento y operación conforme al Decreto de Creación, a la Ley General de Salud, a la Ley Federal de las Entidades Paraestatales, a la Ley Federal de Presupuesto y Responsabilidad Hacendaria, a su Estatuto, a sus respectivos reglamentos y demás normativa aplicable. Asimismo, se sujetará a las disposiciones de las normas oficiales mexicanas aplicables, así como a los protocolos, guías y lineamientos de atención que emitan la Secretaría de Salud y, en su caso, el Instituto Mexicano del Seguro Social.
 
-### CAPÍTULO II. DE LAS UNIDADES Y LAS COORDINACIONES
+### CAPÍTULO III. DEL PATRIMONIO Y ADMINISTRACIÓN
 
 ###### Artículo 6.
 
@@ -169,9 +179,9 @@ El patrimonio de IMSS-BIENESTAR se integrará por los recursos, bienes, derechos
 
 Los recursos en numerario a que se refiere el párrafo anterior, podrán recibirse a través del fideicomiso público de administración y pago que, en su caso, se constituya.
 
-## TÍTULO TERCERO. DE LA ESTRUCTURA ORGÁNICA Y SUS ATRIBUCIONES
+## TÍTULO SEGUNDO. DE LA ADMINISTRACIÓN DE IMSS-BIENESTAR
 
-### CAPÍTULO I. DE LA VIGILANCIA, CONTROL Y EVALUACIÓN DE IMSS-BIENESTAR
+### CAPÍTULO I. DE LA JUNTA DE GOBIERNO
 
 ###### Artículo 7.
 
@@ -295,7 +305,7 @@ VIII. Apoyar a la Junta de Gobierno en el desempeño de sus atribuciones.
 
 IX. Las demás que señalen otras disposiciones jurídicas aplicables, así como aquéllas que le sean otorgadas mediante acuerdo de la Junta de Gobierno.
 
-### CAPÍTULO II. DE LAS COMISIONES Y COMITÉS
+### CAPÍTULO II. DE LA DIRECCIÓN GENERAL
 
 ###### Artículo 16.
 
@@ -355,9 +365,9 @@ La persona titular de la Dirección General podrá delegar cualquiera de sus fac
 
 En ausencia de la persona titular de Dirección General los asuntos de IMSS-BIENESTAR serán atendidos por los titulares de las unidades o las coordinaciones en el ámbito de sus competencias.
 
-## TÍTULO CUARTO. DE LA VIGILANCIA, CONTROL Y EVALUACIÓN
+## TÍTULO TERCERO. DE LA ESTRUCTURA ORGÁNICA Y SUS ATRIBUCIONES
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 21.
 
@@ -431,6 +441,20 @@ VII. COORDINACIÓN DE TRANSPARENCIA Y VINCULACIÓN
 
 VIII. ÓRGANO INTERNO DE CONTROL
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+IX. COORDINACIONES ESTATALES
+
+a) Jefatura de Servicios de Atención a la Salud
+
+b) Jefatura de Servicios Administrativos y Finanzas
+
+c) Jefatura de Servicios Jurídicos
+
+d) Departamento de Acción Comunitaria
+
+e) Departamento de Planeación Estratégica
+
 El IMSS-BIENESTAR contará con un Órgano Interno de Control, que se regirá conforme a los artículos 58 y 59 del presente Estatuto.
 
 ###### Artículo 22.
@@ -501,7 +525,9 @@ X. Auxiliarse en el ejercicio de sus facultades de sus áreas, así como de otra
 
 XI. Las demás que le confieran la Junta de Gobierno, la persona titular de la Dirección General o su superior jerárquico según corresponda, así como las establecidas por la normatividad aplicable.
 
-#### SECCIÓN SEXTA. COORDINACIÓN DE PLANEACIÓN ESTRATÉGICA
+### CAPÍTULO II. DE LAS UNIDADES Y LAS COORDINACIONES
+
+#### SECCIÓN PRIMERA. UNIDAD DE ATENCIÓN A LA SALUD
 
 ###### Artículo 25.
 
@@ -873,7 +899,7 @@ XV. Coordinar la integración de necesidades de medicamentos y otros insumos ese
 
 XVI. Instrumentar las metas e indicadores de evaluación del desempeño de los procesos de atención médica aplicables a las unidades del primero, segundo y tercer nivel de IMSS-BIENESTAR.
 
-#### SECCIÓN SÉPTIMA. COORDINACIÓN DE TRANSPARENCIA Y VINCULACIÓN
+#### SECCIÓN SEGUNDA. UNIDAD DE ADMINISTRACIÓN Y FINANZAS
 
 ###### Artículo 35.
 
@@ -1273,6 +1299,8 @@ XIX. Elaborar las fichas técnicas y estudios de mercado para la adquisición de
 
 XX. Suscribir los contratos, convenios y acuerdos relativos al ejercicio de sus facultades, así como, los demás documentos que impliquen actos de administración, de acuerdo con las disposiciones jurídicas aplicables y previo validación de la Unidad Jurídica.
 
+#### SECCIÓN TERCERA. UNIDAD DE INFRAESTRUCTURA
+
 ###### Artículo 44.
 
 Son facultades y atribuciones de la Unidad de Infraestructura:
@@ -1388,6 +1416,8 @@ XI. Coordinar las medidas preventivas y correctivas observadas en los resultados
 XII. Emitir los informes de la Unidad de Infraestructura y Coordinaciones de IMSS-BIENESTAR.
 
 XIII. Implementar estrategias orientadas a lograr una mejora continua en los procesos, mediante la generación de propuestas, así como a través de la evaluación y retroalimentación de las condiciones de operación.
+
+#### SECCIÓN CUARTA. UNIDAD JURÍDICA
 
 ###### Artículo 48.
 
@@ -1597,6 +1627,10 @@ X. Expedir copias certificadas de los documentos que obren en los archivos a su 
 
 XI. Las demás que le confieran la persona titular de la Unidad Jurídica o su superior jerárquico según corresponda, así como las establecidas por la normatividad aplicable.
 
+#### SECCIÓN QUINTA. COORDINACIÓN DE ACCIÓN COMUNITARIA
+
+#### SECCIÓN SEXTA. COORDINACIÓN DE PLANEACIÓN ESTRATÉGICA
+
 ###### Artículo 55.
 
 Son facultades y atribuciones de la Coordinación de Acción Comunitaria:
@@ -1675,6 +1709,8 @@ XV. Acordar con la persona titular de la Dirección General el despacho de los a
 
 XVI. Establecer los criterios y lineamientos que deberán seguir las unidades y coordinaciones de IMSS-BIENESTAR para la elaboración de los informes, reportes y comunicados oficiales sobre los programas y resultados que deba emitir la persona titular de IMSS-BIENESTAR a diversas instancias del sector público, privado, legislativo, órganos colegiados, organismos internacionales o instituciones homólogas.
 
+#### SECCIÓN SÉPTIMA. COORDINACIÓN DE TRANSPARENCIA Y VINCULACIÓN
+
 ###### Artículo 57.
 
 Son facultades y atribuciones de la Coordinación de Transparencia y Vinculación:
@@ -1707,7 +1743,13 @@ XIII. Establecer el mecanismo de integración del informe de los temas que se re
 
 XIV. Coordinar el diseño y producción de materiales editoriales, gráficos, audiovisuales, así como el desarrollo de eventos institucionales.
 
-## TÍTULO QUINTO. DE LAS REFORMAS, ADICIONES O MODIFICACIONES AL ESTATUTO ORGÁNICO
+#### SECCIÓN PRIMERA. JEFATURA DE SERVICIOS DE ATENCIÓN A LA SALUD
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+## TÍTULO CUARTO. DE LA VIGILANCIA, CONTROL Y EVALUACIÓN
+
+### CAPÍTULO I. DE LA VIGILANCIA, CONTROL Y EVALUACIÓN DE IMSS-BIENESTAR
 
 ###### Artículo 58.
 
@@ -1737,11 +1779,459 @@ El IMSS-BIENESTAR proporcionará al Órgano Interno de Control los recursos huma
 
 Asimismo, las personas servidoras públicas de IMSS-BIENESTAR están obligadas a atender requerimientos o resoluciones de los titulares antes señalados, conforme a la competencia de éstos.
 
+### CAPÍTULO II. DE LAS COMISIONES Y COMITÉS
+
 ###### Artículo 60.
 
 Las comisiones y los comités a que se refiere el presente Estatuto tendrán las atribuciones que les señale el Manual de Organización de IMSS-BIENESTAR, la reglamentación del organismo, los convenios que IMSS-BIENESTAR suscriba, así como las demás disposiciones que les sean aplicables.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+## TÍTULO QUINTO. DE LAS COORDINACIONES ESTATALES
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 61.
+
+Las Coordinaciones Estatales son la representación de IMSS-BIENESTAR en las entidades federativas, prevista en el artículo 3 de este Estatuto, estarán jerárquicamente subordinadas a la Dirección General de IMSS-BIENESTAR y se coordinarán con las unidades y coordinaciones de conformidad con el ámbito de competencia y sus atribuciones.
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 62.
+
+Las Coordinaciones Estatales serán las responsables de la operación de los servicios de IMSS-BIENESTAR en las entidades federativas que les correspondan en los aspectos técnicos, médicos y administrativos en los términos que establezcan las disposiciones normativas y administrativas que expidan las unidades y coordinaciones, así como a las disposiciones jurídicas aplicables de conformidad a sus atribuciones.
+
+Las unidades y coordinaciones tendrán en todo momento la facultad de supervisar el desempeño de las funciones del personal de las Coordinaciones Estatales y del cumplimiento de los planes y programas que tengan a su cargo.
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 63.
+
+La dirección y administración de la Coordinación Estatal, corresponde a su titular.
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 64.
+
+Las Coordinaciones Estatales deberán alinearse a las disposiciones de la Dirección General y de sus unidades y coordinaciones, así como con la Unidad de Administración y Finanzas quien le proporcionará el presupuesto y recursos necesarios para que éstas cumplan sus atribuciones conforme a lo establecido en la normativa aplicable.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+### CAPÍTULO II. DE LA PERSONA TITULAR DE LA COORDINACIÓN ESTATAL
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 65.
+
+La persona titular de la Coordinación Estatal tendrá las siguientes atribuciones:
+
+I. Difundir y controlar el desempeño y aplicación de las políticas, normas, planes, programas y estrategias institucionales referentes a la promoción de la salud, prevención y control de enfermedades, vigilancia epidemiológica, farmacovigilancia, atención médica, enfermedades de alto costo, rehabilitación y paliación, educación e investigación en salud de las unidades de salud y hospitales de IMSS-BIENESTAR para la implementación del Modelo de Atención a la Salud para el Bienestar.
+
+II. Dirigir la evaluación de los resultados de indicadores de desempeño y metas de los programas, estrategias y acciones en materia de servicios de salud, en los niveles de conducción de su competencia y coordinar acciones de mejora.
+
+III. Gestionar las acciones de mejora que respondan al diagnóstico de necesidades de personal, medicamentos e insumos médicos, mobiliario y equipamiento médico e infraestructura en salud, requerida para la operación de las unidades de salud y hospitales de IMSS-BIENESTAR.
+
+IV. Autorizar y dirigir el programa anual de trabajo en los diferentes niveles de conducción bajo su cargo e integrar el programa de trabajo de la representación estatal.
+
+V. Coordinar el cumplimiento de programas de formación profesional, capacitación y educación continua del personal de salud y administrativo de IMSS-BIENESTAR.
+
+VI. Coordinar los procesos de registro de información en tiempo y forma de la prestación de servicios de salud, con el objeto de contar con la información necesaria para el seguimiento de los indicadores y metas establecidas sobre la atención a la población, así como para la rendición de cuentas.
+
+VII. Representar a IMSS-BIENESTAR en los actos jurídicos en los que sea parte en el ámbito de sus atribuciones en la entidad federativa de que se trate ante todas las autoridades administrativas y jurisdiccionales.
+
+VIII. Planear, organizar, administrar, controlar y supervisar los recursos humanos, materiales y financieros conforme a la normativa aplicable en el ámbito de sus atribuciones.
+
+IX. Integrar y remitir a las unidades y coordinaciones para su autorización el requerimiento presupuestal anual y el Programa Operativo Anual en el marco de la preparación del anteproyecto de presupuesto del año fiscal que corresponda.
+
+X. Ejercer conforme a su presupuesto asignado en función de los objetivos y metas trazados para la operación de los servicios de IMSS-BIENESTAR conforme a los indicadores y procesos generales establecidos.
+
+XI. Ejercer actos de dominio sobre los bienes propiedad de IMSS-BIENESTAR en estricto apego a la normativa aplicable, previa autorización de la Unidad de Administración y Finanzas y la Unidad Jurídica.
+
+XII. Establecer y presidir los comités y subcomités que, en su caso, le correspondan de acuerdo con sus atribuciones.
+
+XIII. Vigilar el cumplimiento de las Condiciones Generales de Trabajo y sus reglamentos, en la esfera de su competencia y ejercitar las acciones que correspondan, incluyendo las relativas a la terminación de los efectos del nombramiento, en vinculación con la Coordinación de Recursos Humanos.
+
+XIV. Celebrar todo tipo de convenios en los que pudiera ser parte, previa autorización de la Unidad Jurídica.
+
+XV. Supervisar la atención de las auditorías de las que sea parte la Coordinación Estatal por los diversos órganos fiscalizadores.
+
+XVI. Ejecutar las medidas correctivas que dicten las unidades y coordinaciones respecto de las irregularidades identificadas en el análisis de la prestación de los servicios de IMSS-BIENESTAR.
+
+XVII. Coordinar el proceso de registro y administración del padrón de beneficiarios del IMSS-BIENESTAR, en la entidad federativa que le corresponde.
+
+XVIII. Establecer coordinación con las dependencias y entidades de la Administración Pública Federal, de las entidades federativas y municipales para el cumplimiento de sus objetivos.
+
+XIX. Llevar a cabo los procedimientos administrativos que tengan por objeto la adquisición, arrendamiento y prestación de servicios, así como de obra pública y servicios relacionados con las mismas, en los términos de la legislación, disposiciones normativas y administrativas aplicables; formalizar los contratos derivados de dichos procedimientos, así como la terminación anticipada, o bien, la rescisión administrativa de los mismos, esto último previa opinión de la unidad jurídica.
+
+XX. Supervisar que las unidades administrativas estatales adscritas cumplan con la aplicación de las leyes, reglamentos y demás disposiciones legales aplicables, así como de las disposiciones de IMSS-BIENESTAR.
+
+XXI. Supervisar que se solventen las observaciones, se apliquen las recomendaciones y se atiendan las solicitudes de información, derivadas de los actos de fiscalización practicados por órganos revisores, estableciendo mecanismos de control, seguimiento y análisis, así como aplicar las medidas preventivas y correctivas.
+
+XXII. Autorizar a terceros el uso de los bienes inmuebles del Instituto, en los términos de las disposiciones legales, reglamentarias y administrativas aplicables, previa opinión de la Unidad de Administración y Finanzas.
+
+XXIII. Proponer a la Dirección General, previa valoración de las unidades y coordinaciones competentes, el nombramiento de las personas que ocuparán las áreas de la Coordinación Estatal, en apego a las disposiciones y procedimientos que se emitan para tal fin. La Coordinación de Recursos Humanos formalizará los nombramientos de las personas que hayan sido autorizados.
+
+XXIV. Expedir copias certificadas de los documentos que obren en sus archivos relativos al ámbito de su competencia; así como instrumentar las medidas necesarias que permitan la organización, el resguardo y la conservación de dicha documentación.
+
+XXV. Rendir el informe anual de actividades a la Dirección General, así como los informes periódicos que ésta le solicite, de igual manera serán responsables de la calidad y oportunidad de la información reportada, deberán calcular conforme a la metodología que para tal fin se establezca las estadísticas de finanzas públicas, y los principales indicadores de ingreso y de gasto público.
+
+XXVI. Presentar a la Dirección General, así como a las unidades y coordinaciones competentes, las estrategias para la formación, capacitación y educación permanente del personal de IMSS-BIENESTAR.
+
+XXVII. Dar seguimiento al sistema de evaluación del desempeño y de gestión de la calidad establecido por IMSS-BIENESTAR.
+
+XXVIII. Instrumentar la ejecución de las resoluciones emitidas por el Órgano Interno de Control o diversas autoridades jurisdiccionales en el orden de su competencia.
+
+XXIX. Las demás que le encomienden las leyes, los reglamentos, la Junta de Gobierno, la Dirección General y las unidades y coordinaciones de acuerdo con sus atribuciones.
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 66.
+
+La persona titular de la Coordinación Estatal será auxiliada en el ejercicio de sus atribuciones por las personas titulares de las Jefaturas de Servicios, Departamentos y Jefes de Oficina, así como por los demás servidores públicos que la integran.
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 67.
+
+La persona titular de la Coordinación Estatal podrá delegar sus facultades a las personas titulares de las Jefaturas de Servicios, con excepción de aquellas que por disposición legal expresa o determinación de la Dirección General le correspondan exclusivamente.
+
+En ausencia temporal o definitiva de la persona titular de Coordinación Estatal los asuntos serán atendidos por los titulares de las Jefaturas de Servicios correspondientes según el ámbito de sus competencias.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+### CAPÍTULO III. DE LA ESTRUCTURA ORGÁNICA
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 68.
+
+Para el ejercicio de sus atribuciones, las Coordinaciones Estatales contarán con la siguiente estructura básica:
+
+I. Jefatura de Servicios de Atención a la Salud.
+
+II. Jefatura de Servicios Administrativos y Finanzas.
+
+III. Jefatura de Servicios Jurídicos.
+
+IV. Departamento de Acción Comunitaria.
+
+V. Departamento de Planeación Estratégica.
+
+El Órgano Interno de Control en IMSS-BIENESTAR contará con una representación en las Coordinaciones Estatales, cuya sede será la que determine la Secretaría de la Función Pública y cuya integración y atribuciones son las que determine la persona titular del mismo.
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 69.
+
+Cada Jefatura de Servicios y Departamento contará con una persona titular, quien se auxiliará de personal operativo y administrativo, así como de las áreas que tienen a su cargo para el cumplimiento de las funciones que tiene asignadas conforme a la estructura orgánica autorizada y con sujeción a la disponibilidad presupuestaria.
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 70.
+
+Corresponde a cada persona titular de las Jefaturas de Servicios las atribuciones siguientes:
+
+I. Observar las normas y políticas establecidas para la planeación, programación, organización y coordinación de las actividades a su cargo, de conformidad con las disposiciones normativas y administrativas de IMSS-BIENESTAR y las normas aplicables.
+
+II. Aplicar los mecanismos para llevar a cabo la coordinación de las relaciones de la Coordinación Estatal con los gobiernos estatales y municipales, con el sector salud, social y privado de la entidad federativa, o con otras dependencias y entidades, de conformidad con los acuerdos establecidos por la Dirección General, las unidades y coordinaciones y la persona titular de la Coordinación Estatal, así como con lo previsto en las disposiciones normativas y administrativas aplicables.
+
+III. Formular el requerimiento presupuestal anual que le corresponda a la Jefatura de Servicios a su cargo, y ejecutar el presupuesto asignado.
+
+IV. Proporcionar, en los plazos establecidos, los informes, reportes, formatos, datos y la documentación que requiera la persona titular de la Dirección General, las unidades y coordinaciones, la persona titular de la Coordinación Estatal respecto de los asuntos de su competencia, así como dar atención a los órganos fiscalizadores de conformidad con la normativa aplicable.
+
+V. Implementar las medidas establecidas por el área coordinadora de archivos que permitan la organización, el resguardo y conservación de la documentación inherente al IMSS-BIENESTAR y de la Coordinación Estatal de los archivos de su competencia y bajo su resguardo en apego a la Ley General de Archivos.
+
+VI. Desempeñar las comisiones que les encomiende la persona titular de la Coordinación Estatal y representarla en el ámbito de su competencia.
+
+VII. Participar en los comités que le correspondan de acuerdo con sus atribuciones o que sea nombrado por el titular de la Coordinación Estatal.
+
+VIII. Dar seguimiento al Plan de Capacitación establecido por las Coordinaciones de Recursos Humanos y/o de Educación e Investigación, según corresponda, así como determinar las necesidades de capacitación que identifiquen.
+
+IX. Actuar conforme a las disposiciones normativas y administrativas que correspondan al ejercicio de sus atribuciones.
+
+X. Representar, en el ámbito de sus responsabilidades, al titular de la Coordinación Estatal ante las dependencias o entidades de la Administración Pública Federal, estatales o municipales conforme lo instruya el titular de la Coordinación.
+
+XI. Expedir copias certificadas de los documentos que obren en los archivos a su cargo o en sus coordinaciones.
+
+XII. Atender los requerimientos de información y las auditorías que lleven a cabo los órganos fiscalizadores o auditores externos designados por autoridades competentes; así como los que formulen autoridades judiciales o administrativas en el ámbito de su responsabilidad, con el apoyo de la Unidad de Administración y Finanzas y la Unidad Jurídica, según corresponda.
+
+XIII. Atender a las solicitudes o peticiones de información que se le presenten en términos de la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás disposiciones que de las mismas deriven en conjunto con la Coordinación de Transparencia y Vinculación.
+
+XIV. Las demás que le confieran la Junta de Gobierno, las personas titulares de la Dirección General y de la Coordinación Estatal, según corresponda, así como las establecidas por la normativa aplicable.
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 71.
+
+Corresponde a cada persona titular de los Departamentos las atribuciones siguientes:
+
+I. Proporcionar en los plazos establecidos, los informes, reportes, formatos, datos y la documentación que requieran la persona titular de la Coordinación Estatal y las Jefaturas de Servicios respecto de los asuntos de su competencia, así como los órganos fiscalizadores de conformidad con la normativa aplicable.
+
+II. Participar en los comités y subcomités conforme lo establezca su superior jerárquico y la normativa aplicable.
+
+III. Identificar las necesidades de capacitación, con el apoyo de las Jefaturas de Servicios Administrativos y Finanzas y la de Atención a la Salud, con apego a lo dispuesto por las unidades y coordinaciones, según corresponda.
+
+IV. Las demás que le confieran la persona titular de la Coordinación Estatal o su superior jerárquico según corresponda, así como las establecidas por la normativa aplicable.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+### CAPÍTULO IV. DE LAS JEFATURAS DE SERVICIOS Y DEPARTAMENTOS
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+#### SECCIÓN SEGUNDA. JEFATURA DE SERVICIOS ADMINISTRATIVOS Y FINANZAS
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 72.
+
+Son atribuciones de la Jefatura de Servicios de Atención a la Salud:
+
+I. Verificar el cumplimiento de las políticas, normas, planes, programas y estrategias institucionales referentes a la promoción de la salud, prevención y control de enfermedades, vigilancia epidemiológica, farmacovigilancia, atención médica, enfermedades de alto costo, rehabilitación y paliación, educación e investigación en salud de las unidades de salud y hospitales de IMSS-BIENESTAR para la implementación del Modelo de Atención a la Salud para el Bienestar.
+
+II. Supervisar el desempeño operativo y de gestión de las unidades de salud y hospitales de IMSS-BIENESTAR, promoviendo el intercambio de experiencias exitosas entre ellas.
+
+III. Elaborar el Diagnóstico y Análisis Situacional de Salud, el Plan de Trabajo Anual de la Jefatura y aprobar el Programa de Trabajo de los Departamentos a su cargo.
+
+IV. Verificar el cumplimiento de los programas de trabajo anual, así como el cumplimiento de las metas de la Jefatura y de los Departamentos que la integran.
+
+V. Evaluar periódicamente los indicadores de desempeño de los programas, estrategias y acciones en materia de servicios de salud, en los niveles de conducción de su competencia y elaborar acciones de mejora.
+
+VI. Coordinar las acciones necesarias que permitan la obtención de los avisos de funcionamiento y licencias sanitarias necesarias para la operación de las unidades de salud y hospitales de IMSS-BIENESTAR.
+
+VII. Representar y asignar la participación de las áreas correspondientes de la jefatura en los consejos, comités, grupos de trabajo o reuniones técnico-operativas, institucionales o del Sistema Estatal de Salud para el Bienestar y/o Servicio Nacional de Salud Pública relacionados con los programas de promoción de la salud, prevención y control de enfermedades, vigilancia epidemiológica, farmacovigilancia, atención médica, rehabilitación y paliación, así como la calidad y seguridad de la atención.
+
+VIII. Integrar con el apoyo de las personas titulares de las Jefaturas de Departamento bajo su responsabilidad, el diagnóstico de necesidades de medicamentos e insumos médicos, mobiliario y equipamiento médico e infraestructura en salud, requerida para la operación de las unidades de salud y hospitales de IMSS-BIENESTAR, en coordinación con la Jefatura de Servicios Administrativos y Finanzas.
+
+IX. Aprobar y promover el cumplimiento de programas de formación profesional, capacitación y educación continua del personal médico, paramédico y becarios de pregrado y posgrado de las unidades de salud y hospitales de IMSS-BIENESTAR.
+
+X. Verificar que se lleven a cabo las acciones que permitan la ejecución y desarrollo de proyectos de investigación operativa relacionados con las prioridades en salud locales.
+
+XI. Validar la operación del Sistema Nacional de Vigilancia Epidemiológica en las unidades de salud y hospitales, a fin de garantizar la identificación, notificación inmediata y atención de brotes, casos de transcendencia, situaciones emergentes y contingencias que pongan en riesgo la salud de la población objetivo de IMSS-BIENESTAR.
+
+XII. Verificar el cumplimiento de los acuerdos de los comités médicos de los hospitales de IMSS-BIENESTAR.
+
+XIII. Coordinar las acciones necesarias para que la prestación de los servicios de salud se otorgue con calidad y seguridad en las unidades de salud y hospitales, con perspectiva de derechos humanos, enfoque de género e interculturalidad.
+
+XIV. Evaluar y gestionar los requerimientos de personal, equipo, mobiliario, así como la ampliación, remodelación o construcción de nuevas unidades para la prestación de los servicios de salud de IMSS-BIENESTAR para favorecer el acceso a los servicios de salud.
+
+XV. Establecer acciones para la implementación del modelo de calidad de las unidades de salud y hospitales que dirige el Consejo de Salubridad General (CSG), para consolidar la certificación de las unidades de salud bajo su responsabilidad.
+
+XVI. Implementar y verificar la operación de los sistemas de información, la calidad del registro, captura y emisión de la información en salud de carácter institucional y sectorial.
+
+XVII. Dar seguimiento al cumplimiento de la regionalización operativa, al sistema de referencia y contrarreferencia, así como a las RISS, para garantizar la continuidad y coordinación de la atención de la población objetivo de IMSS-BIENESTAR.
+
+XVIII. Coordinar las acciones necesarias para dar cumplimiento conforme a los compromisos y obligaciones provenientes de la suscripción de acuerdos de colaboración interinstitucional e intercambio de servicios.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+#### SECCIÓN TERCERA. JEFATURA DE SERVICIOS JURÍDICOS
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 73.
+
+Son atribuciones de la Jefatura de Servicios Administrativos y Finanzas:
+
+I. Aplicar las políticas, criterios, normas, metodologías y programas, según corresponda, establecidos por la Unidad de Administración y Finanzas de IMSS-BIENESTAR en el ámbito de su competencia.
+
+II. Coordinar, supervisar y evaluar la administración de los recursos humanos, materiales, financieros y técnicos asignados a las unidades de salud de todos los niveles de atención y a las áreas administrativas de la entidad federativa.
+
+III. Autorizar y procesar los movimientos e incidencias del personal en materia de recursos humanos, las plantillas de personal autorizadas y la estructura orgánica estatal autorizada y registrada, autorizar el pago de la partida de guardias y suplencias en coordinación con la Jefatura de Servicios de Atención a la Salud y validar las nóminas de pago de sueldos de los trabajadores que se encuentren en las áreas administrativas y en los Centros de Trabajo.
+
+IV. Expedir los documentos inherentes a los trámites que operen en el ámbito de su competencia, para otorgar a los trabajadores las prestaciones a que tengan derecho y gestionar ante la Coordinación de Recursos Humanos aquellos que corresponda emitir a esta última.
+
+V. Autorizar el diagnóstico de las necesidades de capacitación y coordinar las actividades de capacitación y servicios educativos, atendiendo los requerimientos de las áreas administrativas y las unidades de salud y hospitales, en vinculación con las Coordinaciones de Recursos Humanos y de Educación e Investigación.
+
+VI. Gestionar, coordinar, supervisar y evaluar el otorgamiento de los servicios generales que requiere la operación de las unidades de salud y hospitales relacionados con limpieza, lavado de ropa hospitalaria, comunicaciones y telefonía local, energía eléctrica, agua potable, mensajería, fotocopiado, impresión de papelería, archivo, conservación y mantenimiento de mobiliario, equipo administrativo, equipo de cómputo y planta vehicular, así como recolección, destino final de basura, residuos peligrosos biológico infecciosos y fumigación y control de plagas, entre otros.
+
+VII. Elaborar y mantener actualizado el inventario de bienes muebles e inmuebles que constituyen el patrimonio del IMSS-BIENESTAR en la demarcación de la Coordinación Estatal, así como tramitar y administrar los contratos de arrendamiento y de comodato.
+
+VIII. Llevar a cabo los procesos de afectación, baja y destino final de los bienes de consumo y desechos propiedad de IMSS-BIENESTAR en la Coordinación Estatal conforme a la normatividad aplicable.
+
+IX. Gestionar, coordinar, supervisar, difundir y orientar a todas las áreas administrativas, en coordinación con la Coordinación de Servicios de Administración, respecto de las disposiciones y coberturas vigentes en materia de aseguramiento y afianzamiento.
+
+X. Gestionar, coordinar, controlar y evaluar el servicio de seguridad y vigilancia.
+
+XI. Integrar el Comité de Protección Civil, alineado a la normativa en la materia y los criterios establecidos por la Coordinación de Servicios de Administración, así como verificar que cada uno de las unidades de salud y hospitales, cuenten con sus unidades internas de Protección Civil.
+
+XII. Coordinar la implementación y funcionamiento de los equipos y los sistemas informáticos de IMSS-BIENESTAR, la red de teleproceso y los servicios de apoyo tecnológico y asesoría, requeridos por las unidades de salud y hospitales, sus áreas administrativas y las áreas de la Coordinación Estatal.
+
+XIII. Supervisar las conciliaciones trimestrales de los bienes muebles adquiridos, incluyendo las compras directas, de conformidad con la normativa aplicable.
+
+XIV. Supervisar e informar a la instancia correspondiente de la recepción, almacenamiento, registro y suministro de medicamentos, equipamiento, dispositivos médicos y material de curación, en los sistemas implementados y autorizados por el IMSS-BIENESTAR.
+
+XV. Aplicar e informar sobre los resultados de los programas en materia de clima y cultura organizacional del IMSS-BIENESTAR en vinculación con lo establecido por la Coordinación de Recursos Humanos.
+
+XVI. Realizar la recepción, glosa y validación de documentos presentados para trámite de pago atendiendo lo dispuesto por las Coordinaciones de Finanzas y de Contabilidad y Trámite de Erogaciones, a fin de gestionar el pago oportuno a proveedores de bienes y prestadores de servicios.
+
+XVII. Supervisar el proceso del registro de proveedores, quedando bajo su responsabilidad validar la información presentada por los proveedores.
+
+XVIII. Monitorear con los departamentos bajo su dependencia directa el cumplimiento de las obligaciones financieras, así como el pago oportuno de los compromisos adquiridos.
+
+XIX. Analizar, integrar e informar a la Coordinación de Contabilidad y Trámite de Erogaciones de IMSS-BIENESTAR los movimientos que generen pago de servicios y comisiones de las cuentas bancarias autorizadas a la Coordinación Estatal, conforme a los procedimientos establecidos.
+
+XX. Elaborar las metas de los indicadores estratégicos por unidad de atención a la salud, en todos los niveles de atención, mensual y acumulado anual, el requerimiento de presupuesto anual y el calendario de gasto de la Coordinación Estatal, en los términos y plazos establecidos por la Coordinación de Programación y Presupuesto de IMSS-BIENESTAR.
+
+XXI. Planear, programar y ejercer los recursos financieros y el gasto de la Coordinación Estatal, de acuerdo con su presupuesto asignado del ejercicio fiscal correspondiente, y demás disposiciones aplicables.
+
+XXII. Verificar la atención oportuna de los requerimientos presupuestales de las unidades de salud, de todos los niveles de atención y de áreas administrativas de la Coordinación Estatal, conforme al calendario de gasto autorizado.
+
+XXIII. Supervisar e informar el avance programático presupuestal en la Coordinación Estatal, de acuerdo con los lineamientos y políticas que establezca la Unidad de Administración y Finanzas.
+
+XXIV. Supervisar que en la contabilidad estén registrados, los bienes muebles e inmuebles adquiridos y asignados a la Coordinación Estatal, llevando a cabo su conciliación con los inventarios correspondientes.
+
+XXV. Supervisar el registro y conciliación de los movimientos de cuenta de almacén de medicamentos e insumos para la salud, conforme a la normativa y a los procedimientos autorizados.
+
+XXVI. Supervisar el cumplimiento de las obligaciones fiscales de las unidades de salud y hospitales, así como de la Coordinación Estatal en coordinación con la Coordinación de Contabilidad y Trámite de Erogaciones.
+
+XXVII. Supervisar que las conciliaciones bancarias de todas las cuentas que operan en la Coordinación Estatal, se realicen oportunamente y se informe a la Coordinación de Contabilidad y Trámite de Erogaciones, de conformidad con la normativa aplicable.
+
+XXVIII. Coordinar que los cierres contables y presupuestales mensuales y anuales se realicen en tiempo y forma conforme a la normativa aplicable.
+
+XXIX. Integrar la información presupuestal y contable para la consolidación de los reportes de IMSS-BIENESTAR establecidos por las Secretarías de Hacienda y Crédito Público y de la Función Pública y los que requieran otras dependencias y entidades de la Administración Pública Federal.
+
+XXX. Establecer medidas de control interno, a efecto de que la operación financiera de los diferentes conceptos de cuentas de cheques, se realice conforme a las radicaciones presupuestales autorizadas.
+
+XXXI. Supervisar el uso de los sistemas establecidos por la Unidad de Administración y Finanzas para el registro de los ingresos y la operación de los pagos, así como para el registro contable.
+
+XXXII. Controlar, resguardar y custodiar el archivo contable gubernamental de las operaciones financieras registradas por la Coordinación Estatal.
+
+XXXIII. Coordinar y controlar las acciones de recepción, almacenaje, custodia, suministro y registro de los bienes de consumo y de inversión, que requieran las unidades de salud y hospitales, las áreas administrativas de la Coordinación Estatal, de conformidad con la normativa aplicable.
+
+XXXIV. Establecer sistemas administrativos para la operación de los almacenes y el control de calidad de los bienes de consumo e inversión de las unidades de salud y hospitales, la Coordinación Estatal y sus áreas administrativas, así como mantener el registro actualizado de los bienes y productos resguardados en los almacenes en la entidad federativa.
+
+XXXV. Supervisar la actualización permanente de los inventarios de los almacenes.
+
+XXXVI. Planear, organizar y dirigir las medidas de seguridad y vigilancia de los bienes recibidos para su almacenaje, custodia y distribución.
+
+XXXVII. Llevar a cabo los procedimientos de adquisición de bienes, arrendamientos y contratación de servicios, de conformidad con la normativa aplicable, de acuerdo con su presupuesto autorizado y previa autorización de la Coordinación de Servicios de Administración.
+
+XXXVIII. Aprobar las cuentas por pagar conforme al procedimiento para la recepción, glosa y aprobación de documentos presentados para trámite de pago por Fondo Fijo de IMSS-BIENESTAR.
+
+XXXIX. Verificar que se lleven a cabo arqueos extraordinarios cuando haya cambio de funcionarios u ocurra algún siniestro que afecte los recursos de los fondos fijos.
+
+XL. Dar seguimiento a la atención de siniestros, para la integración de expedientes de los siniestros reportados en términos de los contratos de seguro, con excepción de aquellos que sean competencia de otra área.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+#### SECCIÓN CUARTA. DEPARTAMENTO DE ACCIÓN COMUNITARIA
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 74.
+
+Son atribuciones de la Jefatura de Servicios Jurídicos:
+
+I. Representar a la Coordinación Estatal y a sus áreas administrativas para su defensa jurídica en todo tipo de gestiones judiciales, extrajudiciales y administrativas, y ante todo tipo de autoridades federales, estatales y municipales, en los términos de sus atribuciones y de los poderes otorgados, en coordinación con la Unidad Jurídica.
+
+II. Representar a las personas titulares de la Coordinación Estatal, a las Jefaturas de Servicios y demás servidores públicos de la Coordinación y de las unidades administrativas estatales, en todos los trámites relacionados con los juicios de amparo conforme a lo establecido en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en los que sean parte o en los que sin ser parte sea requerida su intervención, en coordinación con la Unidad Jurídica.
+
+III. Interponer las demandas judiciales y denuncias, así como promover los recursos en los casos donde las personas titulares de la Coordinación Estatal, de las Jefaturas de Servicios y demás servidores públicos de la Coordinación y de las unidades administrativas estatales sean parte.
+
+IV. Dar contestación oportuna y seguimiento a las demandas, denuncias y recursos del orden civil, penal, fiscal, administrativo, electoral y laboral que se presenten en contra de las personas titulares de la Coordinación Estatal, de las Jefaturas de Servicios y demás servidores públicos de la Coordinación y de las unidades administrativas estatales e interponer los recursos que procedan.
+
+V. Interponer, en el ámbito de su competencia, los recursos administrativos e iniciar los juicios contencioso-administrativos o de amparo que procedan, en contra de actos o resoluciones de las autoridades federales o locales que afecten los intereses de las personas titulares de la Coordinación Estatal, de las Jefaturas de Servicios y demás servidores públicos de la Coordinación y de las unidades administrativas estatales o el patrimonio de IMSS-BIENESTAR.
+
+VI. Proponer y aplicar en el ámbito de su circunscripción, medios alternativos de solución de controversias, de conformidad con las disposiciones aplicables y los criterios que para tal efecto establezca la Unidad Jurídica de IMSS-BIENESTAR.
+
+VII. Asesorar a la Coordinación Estatal, sus áreas administrativas y unidades de salud y hospitales, en la aplicación de los lineamientos para el levantamiento de las actas administrativas y aplicación de sanciones, en los casos en que corresponda terminar con la relación laboral del personal de IMSS-BIENESTAR, en coordinación con la Unidad Jurídica.
+
+VIII. Gestionar el trámite ante la Unidad Jurídica, para la solicitud, otorgamiento y revocación de poderes notariales y actos relacionados con la intervención de fedatario público que se requiera.
+
+IX. Opinar, dictaminar y registrar los convenios y contratos que celebre la Coordinación Estatal en coordinación con la Unidad Jurídica, de conformidad con las disposiciones legales y demás normativa aplicable.
+
+X. Realizar las acciones procedentes para el cobro de las fianzas y de cualquier otro tipo de garantía otorgada a favor de IMSS-BIENESTAR, en coordinación con la Unidad de Administración y Finanzas.
+
+XI. Realizar en términos de lo establecido por la Unidad Jurídica de IMSS-BIENESTAR, los actos, trámites y gestiones para la regularización de bienes inmuebles administrados y/o transferidos a IMSS-BIENESTAR.
+
+XII. Informar a la Unidad Jurídica, con las características y periodicidad que al efecto se establezca, el estado que guardan los asuntos de su competencia.
+
+XIII. Suscribir, con apego a las disposiciones aplicables y con el visto bueno de la Unidad Jurídica, todo tipo de convenios ante autoridades administrativas, judiciales y jurisdiccionales para poner fin a procedimientos o juicios en los que las unidades de salud y hospitales de la entidad federativa y la Coordinación Estatal sea parte, para lo cual deberá contar con la autorización expresa de las personas titulares de las unidades y coordinaciones competentes en el tema o materia que haya sido objeto del procedimiento o juicio y a cuyo presupuesto correspondan el ingreso o erogación que resulte de la suscripción de dichos convenios.
+
+XIV. Apoyar a las unidades administrativas estatales en la realización de licitaciones públicas, de conformidad con las disposiciones jurídicas aplicables.
+
+XV. Requerir a las unidades administrativas estatales toda la información, documentación, argumentación y en general todos los elementos necesarios para la defensa de los actos de autoridad que se reclamen en los juicios de amparo en que sean designadas como autoridad responsable o intervengan como quejoso o tercero perjudicado.
+
+XVI. Participar como asesor, cuando así se requiera, en los comités, comisiones y demás cuerpos colegiados que se constituyan al interior de las unidades de salud y hospitales, y de la Coordinación Estatal.
+
+XVII. Realizar las gestiones y trámites necesarios, ante las diversas autoridades, para la obtención de las autorizaciones sanitarias de las unidades de salud a cargo de IMSS-BIENESTAR.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+#### SECCIÓN QUINTA. DEPARTAMENTO DE PLANEACIÓN ESTRATÉGICA
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 75.
+
+Son facultades y atribuciones del Departamento de Acción Comunitaria:
+
+I. Integrar, orientar y dar seguimiento a la organización comunitaria para la Salud de conformidad con las disposiciones normativas y administrativas de IMSS-BIENESTAR.
+
+II. Ejecutar las estrategias del componente comunitario que determine la Coordinación de Acción Comunitaria de IMSS-BIENESTAR.
+
+III. Ejecutar el levantamiento territorial del padrón de IMSS-BIENESTAR de la entidad, conforme los criterios definidos por las unidades y coordinaciones.
+
+IV. Coordinar los albergues comunitarios de IMSS-BIENESTAR y evaluar su operación con apego a la normativa, los criterios, metas y objetivos establecidos por la Coordinación de Acción Comunitaria de IMSS-BIENESTAR.
+
+V. Ejecutar los mecanismos establecidos por IMSS-BIENESTAR para favorecer el apoyo de la comunidad en la aplicación de la vigilancia epidemiológica simplificada.
+
+VI. Identificar las necesidades de capacitación y dar seguimiento a los programas de capacitación en materia de acciones comunitarias.
+
+VII. Implementar acciones de reconocimiento y vinculación con la medicina tradicional existente con fundamento en lo establecido por la Coordinación de Acción Comunitaria de IMSS-BIENESTAR.
+
+VIII. Supervisar las campañas en materia de autocuidado de la salud con la población, con el fin de favorecer entornos saludables en las comunidades.
+
+IX. Monitorear la percepción de los beneficiarios de los servicios de IMSS-BIENESTAR a través de los canales de comunicación que determinen la Coordinación de Acción Comunitaria de IMSS-BIENESTAR.
+
+X. Identificar las necesidades de capacitación, orientación y difusión en materia de contraloría social y participación ciudadana en la entidad federativa.
+
+XI. Implementar las acciones en materia de atención a expresiones ciudadanas por parte de las áreas competentes que determine la Coordinación de Acción Comunitaria.
+
+XII. Aplicar e informar los resultados de la metodología de supervisión-evaluación-asesoría del componente comunitario.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 76.
+
+Son facultades y atribuciones del Departamento de Planeación Estratégica:
+
+I. Coordinar la elaboración e integración del Programa Anual de Trabajo de la representación estatal, en conjunto con las unidades y coordinaciones y con base en los criterios establecidos por la Coordinación de Planeación Estratégica.
+
+II. Proporcionar asistencia técnico metodológica para diseñar parámetros de medición del desempeño de la representación estatal, cuando así lo requieran las unidades y coordinaciones.
+
+III. Realizar análisis FODA en materia de planeación para determinar, en conjunto con el área de atención a la salud, las necesidades de capacitación y recursos de las unidades de salud de IMSS-Bienestar de la entidad.
+
+IV. Implementar las estrategias operativas en la entidad federativa, de acuerdo con el plan de trabajo diseñado a nivel federal, para la incorporación de nuevos registros, actualización y mantenimiento permanente del Sistema de administración del padrón de IMSS-BIENESTAR; así como de la impresión correspondiente del registro del beneficiario.
+
+V. Llevar a cabo el proceso de integración del padrón de IMSS-BIENESTAR de la entidad, conforme los criterios definidos a nivel federal, alineados al cumplimiento de la normativa en la materia, para el sistema de administración del padrón de beneficiarios.
+
+VI. Dar atención a los usuarios del Sistema de administración del padrón con la finalidad de mantener siempre vigente, actualizada y en operación la plataforma informática.
+
+VII. Evaluar la implementación, funcionalidad y operación de los sistemas institucionales de información en salud para integrar sectorialmente la prestación de servicios, recursos para la salud y daños a la salud desde el ámbito de los establecimientos que conforman el IMSS-BIENESTAR, en apego a las Normas Oficiales Mexicanas vigentes en materia de información en salud.
+
+VIII. Identificar las necesidades de capacitación y orientación para el uso de los sistemas de información en salud y de la información en términos de la consolidación de la información sectorial, transparencia, seguridad e intercambio de información, con el objeto de fortalecer la confiabilidad y oportunidad de la información para la toma de decisiones y gestión.
+
+IX. Coordinar con las áreas sustantivas la supervisión y seguimiento de la información generada por los sistemas de información para la adopción de mejores prácticas y uso de los sistemas de información en salud, con el objeto de transitar hacia la mejora continua en el uso de los sistemas y garantizar su utilidad y funcionalidad.
+
+X. Consolidar y difundir los resultados y diagnósticos estadísticos con la finalidad de apoyar la toma de decisiones y procesos de planeación de los servicios de salud.
+
+XI. Promover el uso de la información en salud por los generadores de la información y del personal de los diferentes niveles de la administración con el propósito de mejorar la gestión de los servicios de salud.
+
+(REUBICADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN [N. DE E. ANTES TÍTULO QUINTO], D.O.F. 27 DE SEPTIEMBRE DE 2023)
+
+## TÍTULO SEXTO. DE LAS REFORMAS, ADICIONES O MODIFICACIONES AL ESTATUTO ORGÁNICO
+
+(REUBICADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 27 DE SEPTIEMBRE DE 2023)
+
+### CAPÍTULO ÚNICO. (REUBICADO [N. DE E. ANTES ARTÍCULO 61], D.O.F. 27 DE SEPTIEMBRE DE 2023)
+
+###### Artículo 77.
 
 Para reformar, adicionar o modificar el Estatuto Orgánico de IMSS-BIENESTAR, se requiere:
 
@@ -1774,3 +2264,13 @@ Las disposiciones relativas a la estructura orgánica contenidas en el presente 
 El presente Estatuto Orgánico deberá inscribirse en el Registro Público de Organismos Descentralizados dentro de los treinta días naturales siguientes a la fecha de su publicación en el Diario Oficial de la Federación.
 
 Este Estatuto Orgánico fue expedido por la Junta de Gobierno de los Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar, en la 5ª Sesión Extraordinaria de 2023, mediante acuerdo 5°.E.06/0723, en la Ciudad de México a 31 de julio de 2023.- Presidente de la Junta de Gobierno de IMSS-BIENESTAR, Director General del Instituto Mexicano del Seguro Social, Mtro. Zoé Alejandro Robledo Aburto.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 27 DE SEPTIEMBRE DE 2023.
+
+[N. DE E TRANSITORIOS DE LA “ADICIÓN AL ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR)”.]
+
+PRIMERO. La presente adición entrará en vigor al día siguiente de su aprobación por la Junta de Gobierno.
+
+SEGUNDO. La presente adición deberá ser publicada en el Diario Oficial de la Federación.
