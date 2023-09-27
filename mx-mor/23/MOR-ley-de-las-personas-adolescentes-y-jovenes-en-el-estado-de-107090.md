@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-las-personas-adolescentes-y-jovenes-en-el-estado-de-1070
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-01"
-last_updated: "2023-01-11"
+last_updated: "2023-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LAS PERSONAS ADOLESCENTES Y JÓVENES EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 1 de abril de 2015.
 
@@ -1005,9 +1005,17 @@ j).- Sindicalismo democrático;
 
 k).- Economía social y responsable;
 
-l).- Participación en el deporte y promoción de la activación física; y
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
-m).- Promoción de la equidad de género.
+l).- Participación en el deporte y promoción de la activación física;
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+
+m).- Promoción de la equidad de género, y
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+
+n).- Activismo en favor de los derechos de la diversidad sexual.
 
 Cada distinción será premiada mediante recompensa económica, de acuerdo con la capacidad presupuestal, diploma firmado por el Gobernador del Estado y será otorgado en ceremonia oficial el día 12 de agosto de cada año.
 
@@ -1192,3 +1200,15 @@ PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal p
 SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA.- Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente decreto.
+
+P.O. 27 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL DOSCIENTOS CINCUENTA Y CUATRO POR EL QUE SE REFORMAN LOS INCISOS L) Y M) Y SE ADICIONA EL INCISO N) AL ARTÍCULO 79 DE LA LEY DE LAS PERSONAS ADOLESCENTES Y JÓVENES EN EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. El titular del Poder Ejecutivo del Estado de Morelos incluirá la partida correspondiente a los fines del presente decreto, en el Presupuesto de Egresos del Gobierno del Estado de Morelos para el ejercicio del 1 de enero al 31 de diciembre de 2024 y en los años subsecuentes.
+
+CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
