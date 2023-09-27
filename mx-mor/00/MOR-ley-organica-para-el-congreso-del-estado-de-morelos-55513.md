@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2023-09-19"
+last_updated: "2023-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "MOR"
 ---
 # LEY ORGANICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
-
-(NOTA 2. EL 13 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 448/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO MIL TRESCIENTOS VEINTICUATRO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS, REGLAMENTARIA DE LAS AUSENCIAS DE LAS PERSONAS TITULARES DE LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL 19 DE SEPTIEMBRE DE 2023, LA CUAL SURTIÓ EFECTOS EL 14 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -751,27 +749,33 @@ La Junta Política y de Gobierno contará con un secretario técnico, que tendr�
 
 A las sesiones de la Junta Política y de Gobierno deberá asistir el Secretario de Servicios Legislativos y Parlamentarios con voz pero sin voto para proporcionar la información que se le requiera de la dependencia a su cargo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 46.
 
 La Junta Política y de Gobierno, se integrará por:
 
-I. Los Diputados Coordinadores de cada uno de los grupos parlamentarios;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2016)</small>
+I. Los Diputados Coordinadores de cada uno de los grupos parlamentarios, salvo la excepción prevista en el penúltimo párrafo del presente artículo;
 
-II. Los Diputados cuyo partido político no integren grupo parlamentario y estén constituidos como fracción parlamentaria, en términos preceptuados por esta Ley.
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
-III. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2010)
+II. Los Diputados cuyo partido político no integren grupo parlamentario y estén constituidos como fracción parlamentaria, en los términos preceptuados por esta Ley; y
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+III. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2010) (REPUBLICADA SU DEROGACIÓN, P.O. 27 DE SEPTIEMBRE DE 2023)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
 IV. La Presidencia de la Junta Política y de gobierno será rotativa y anual, al (sic) Pleno del Congreso, por el voto de las dos terceras partes de sus integrantes, designará al grupo parlamentario que deba presidirla, siempre y cuando el Grupo Parlamentario esté integrado por lo menos del quince por ciento de los Diputados integrantes de la Legislatura.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
-En caso de ausencia temporal o definitiva del Presidente de la Junta Política y de Gobierno, el grupo parlamentario al que pertenezca, informará oportunamente tanto al Presidente del Congreso, como a la propia Junta Política y de gobierno el nombre del diputado que lo sustituirá.
+Con el objetivo de garantizar la gobernabilidad al interior del Poder Legislativo, en caso de falta de designación del grupo parlamentario que deberá presidir la Junta Política y de Gobierno para el segundo y tercer año legislativo, continuará en funciones la Diputada o Diputado que haya presidido dicho órgano en el periodo legislativo inmediato anterior, quien ante dicho supuesto contará con el voto ponderado del grupo parlamentario al que pertenezca, hasta en tanto se realice la designación respectiva por el Pleno del Congreso, mediante el voto de las dos terceras partes de sus integrantes.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+
+En caso de ausencia temporal o definitiva del Presidente de la Junta Política y de Gobierno, el grupo parlamentario al que pertenezca, informará oportunamente tanto al Presidente del Congreso, como a la propia Junta Política y de Gobierno el nombre del diputado que lo sustituirá.
 
 ###### Artículo 47.
 
@@ -3490,3 +3494,13 @@ TERCERA. Remítase al titular del Poder Ejecutivo del Estado para su publicació
 CUARTA. Dentro de un plazo no mayor a treinta días hábiles contado a partir del inicio de su vigencia, el Congreso del Estado de Morelos así como los órganos constitucionales autónomos que correspondan, deberán efectuar las modificaciones o emisiones reglamentarias que estime necesarias para atender las disposiciones previstas por el presente Decreto.
 
 QUINTA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 27 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL TRESCIENTOS VEINTICINCO POR EL QUE SE REFORMA EL ARTÍCULO 46 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+
+PRIMERA. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado de Morelos, en términos de lo dispuesto por el artículo 4 de la Ley Orgánica para el Congreso del Estado de Morelos.
+
+SEGUNDA. Remítase el presente Decreto al titular del Poder Ejecutivo, para su publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se derogan las disposiciones de igual o menor rango jerárquico normativo que se opongan a la presente reforma.
