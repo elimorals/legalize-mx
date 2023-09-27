@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2023-06-02"
+last_updated: "2023-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "NLE"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-> <small>[N. DE E. EL 17 DE MAYO DE 2023, SE PUBLICÓ EN LA “GACETA LEGISLATIVA DEL H. CONGRESO DEL ESTADO DE NUEVO LEÓN” EL DECRETO 361 DE LA LXXVI LEGISLATURA DEL CONGRESO DEL ESTADO DE DICHA ENTIDAD; EL CUAL, AÚN NO HA SIDO PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, POR LO QUE AÚN NO HA SIDO COMPILADO Y SISTEMATIZADO.]</small>
+[NOTA 1: EL 17 DE MAYO DE 2023, SE PUBLICÓ EN LA “GACETA LEGISLATIVA DEL H. CONGRESO DEL ESTADO DE NUEVO LEÓN” EL DECRETO 361 DE LA LXXVI LEGISLATURA DEL CONGRESO DEL ESTADO DE DICHA ENTIDAD; EL CUAL, AÚN NO HA SIDO PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, POR LO QUE AÚN NO HA SIDO COMPILADO Y SISTEMATIZADO.]
+
+[NOTA 2: EL 25 DE OCTUBRE DE 2023, SE PUBLICÓ EN LA “GACETA LEGISLATIVA DEL H. CONGRESO DEL ESTADO DE NUEVO LEÓN” EL DECRETO 439 DE LA LXXVI LEGISLATURA DEL CONGRESO DEL ESTADO DE DICHA ENTIDAD; EL CUAL, AÚN NO HA SIDO PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, POR LO QUE AÚN NO HA SIDO COMPILADO Y SISTEMATIZADO.]
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -433,15 +435,17 @@ a) Oficialía Mayor;
 
 b) Tesorería;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ENERO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
 c) Contraloría Interna;
 
-d) Centro de Estudios Legislativos;
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+d) Centro de Estudios Legislativos; y
 
-e) Unidad de género
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+
+e) Centro de Estudios Económicos;
 
 III.- De Apoyo:
 
@@ -449,9 +453,17 @@ a) Dirección de Comunicación Social;
 
 b) Dirección de Informática;
 
-c) Coordinación de Seguridad; y
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
-d) Unidad de Adquisiciones.
+c) Coordinación de Seguridad;
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+
+d) Unidad de Adquisiciones; y
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+
+e) Unidad de Género
 
 > <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2014)</small>
 
@@ -829,9 +841,9 @@ a) Las que designe el Pleno del Congreso para la resolución de un asunto espec�
 
 Ningún Diputado presidirá, a la vez, dos o más de las Comisiones señaladas en la fracción I del presente artículo, ni tampoco una de estas Comisiones y uno de los Comités establecidos en el Artículo 77 de esta Ley.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
-Cada Diputado formará parte de hasta siete Comisiones de Dictamen Legislativo.
+Cada Diputado formará parte de hasta ocho Comisiones de Dictamen Legislativo.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
 
@@ -1139,9 +1151,9 @@ d) De la Contraloría Interna: Es un órgano interno de Control del Congreso, co
 
 El nombramiento de la persona titular de contraloría se realizará por el pleno a propuesta de la Comisión de Coordinación y Régimen Interno y se deberán reunir los requisitos que se establecen para los órganos de soporte técnico, salvo los específicos para determinado cargo;
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
-e) De la unidad de Género: Instancia técnica responsable de institucionalizar la perspectiva de género dentro del H. Congreso del Estado de Nuevo León, con el fin de avanzar en la igualdad sustantiva.
+e) Centro de Estudios Económicos: La elaboración de investigaciones y documentos en materia de finanzas públicas y economía; analizar el plan estatal de desarrollo; el proyecto de Ley de ingresos y egresos; estudios de impacto presupuestal que sean solicitados por los Órganos de Gobierno, Comisiones, Comités, Grupos Legislativos y Diputados;
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1151,9 +1163,17 @@ a) De la Dirección de Comunicación Social: la difusión de las actividades ins
 
 b) De la Dirección de Informática: la promoción del uso y la optimización de los recursos tecnológicos de computación e informática en la realización de actividades legislativas, técnicas y administrativas del Congreso;
 
-c) De la Coordinación de Seguridad: la seguridad en las instalaciones del Poder Legislativo, de los legisladores, del personal del Congreso y de los ciudadanos que se encuentren en dicho lugar; y
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
-d) De la Unidad de Adquisiciones: la coordinación de la adquisición de bienes y de la contratación de los servicios necesarios para la realización de las actividades legislativas, técnicas y administrativas del Congreso.
+c) De la Coordinación de Seguridad: la seguridad en las instalaciones del Poder Legislativo, de los legisladores, del personal del Congreso y de los ciudadanos que se encuentren en dicho lugar;
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+
+d) De la Unidad de Adquisiciones: la coordinación de la adquisición de bienes y de la contratación de los servicios necesarios para la realización de las actividades legislativas, técnicas y administrativas del Congreso; y
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+
+e) De la unidad de Género: Instancia técnica responsable de institucionalizar la perspectiva de género dentro del H. Congreso del Estado de Nuevo León, con el fin de avanzar en la igualdad sustantiva.
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1211,11 +1231,11 @@ VIII. En ningún caso podrán reunirse en los mismos servidores públicos las fa
 
 Artículo 80 BIS I.- La Contraloría Interna del Poder Legislativo, deberá incluir en sus resoluciones la opinión de un órgano ciudadano, que será nombrado bajo el procedimiento que la Comisión de Coordinación y Régimen Interno determine.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 81.
 
-Para ser titular de la Oficialía Mayor, Tesorería, Contraloría Interna, Unidad de Genero o centro de Estudios Legislativos del Congreso, se requiere:
+Para ser titular de la Oficialía Mayor, Tesorería, Contraloría Interna o Centros de Estudios Legislativos y de Estudios Economicos del Congreso se requiere:
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1742,3 +1762,9 @@ P.O. 2 DE JUNIO DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado, o en su caso, al día siguiente de su publicación.
 
 SEGUNDO.- Una vez instalada la Comisión de la Familia y Derechos de la Primera Infancia, Niñas, Niños y Adolescentes, la Presidencia del H. Congreso del Estado de Nuevo León, instruirá a la Oficialía Mayor para realizar los trámites correspondientes para el returno de las iniciativas de la materia de dicha Comisión conforme la fracción XXV del presente Decreto.
+
+P.O. 27 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 420. SE REFORMAN EL INCISO C) Y D) DE LA FRACCIÓN III DEL ARTÍCULO 50, EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 66, EL INCISO C) Y D) DE FRACCIÓN II DEL ARTÍCULO 79 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 81; Y SE ADICIONA EL INCISO E) A LA FRACCIÓN III DEL ARTÍCULO 50 Y EL INCISO E) FRACCIÓN II DEL ARTÍCULO 79, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación.
