@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-asistencia-social-y-corresponsabilidad-ciudadana-57580"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2019-11-27"
+last_updated: "2023-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY DE ASISTENCIA SOCIAL Y CORRESPONSABILIDAD CIUDADANA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 27 DE NOVIEMBRE DE 2019 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO DOSCIENTOS CUARENTA Y DOS PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 21 de noviembre de 2007.
 
@@ -55,7 +53,9 @@ Las disposiciones de la presente Ley son de orden público e interés social y t
 
 El gobierno del Estado y los Municipios, encaminados al desarrollo integral de la familia en forma prioritaria, proporcionará servicios de asistencia social, dirigidos a la prevención, protección y ayuda de personas, familias o grupos en situación vulnerable, en tanto superen su condición de desventaja, abandono o desprotección física, mental, jurídica, social o cultural y puedan procurarse bienestar por sí mismos de tal forma que estén en condiciones de integrarse a la sociedad.
 
-Para los efectos de lo mencionado en el párrafo anterior, el gobierno del Estado y los Municipios, procurarán proporcionar a los beneficiarios de esta Ley los servicios básicos en materia de asistencia social de acuerdo a los recursos disponibles, para lo cual deberán observar la normatividad técnica que emita la Secretaría de Salud del Estado de Morelos, en el ámbito de su competencia.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+
+Para los efectos de lo mencionado en el párrafo anterior, el gobierno del Estado y los Municipios, procurarán proporcionar a las personas beneficiarias de esta Ley los servicios básicos en materia de asistencia social de acuerdo a los recursos disponibles, para lo cual deberán observar la normatividad técnica que emita la Secretaría de Salud del Estado de Morelos, en el ámbito de su competencia.
 
 ###### ARTÍCULO 3.
 
@@ -91,9 +91,11 @@ IX.- Ley: La Ley de Asistencia Social y Corresponsabilidad Ciudadana.
 
 Tienen derecho a la asistencia social las personas y familias que por sus condiciones físicas, mentales, jurídicas o sociales, requieran de servicios especializados para su protección y su plena integración al bienestar; en especial, aquellas que pertenezcan a grupos en condiciones de vulnerabilidad, particularmente tratándose de mujeres, niñas y niños, adultos mayores y población indígena.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 5.
 
-Los sujetos de atención de la asistencia social tendrán derecho a:
+Las personas con acceso a la asistencia social tendrán derecho a:
 
 I.- Recibir servicios de calidad, con calidez y prontitud por parte de personal profesional y calificado;
 
@@ -121,7 +123,9 @@ Los integrantes del Sistema Estatal de Asistencia Social contribuirán al logro 
 
 I.- Promover la extensión cuantitativa y cualitativa de los servicios, preferentemente en las regiones menos desarrolladas y hacia los grupos más vulnerables;
 
-II.- Definir criterios de distribución de universos de usuarios, de regionalización, de escalonamiento de los servicios, así como de universalización de cobertura, y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+
+II.- Definir criterios de distribución de universos de personas beneficiarias, su regionalización, de escalonamiento de los servicios, así como de universalización de cobertura, y
 
 III.- Establecer y llevar a cabo conjuntamente programas interinstitucionales que aseguren la atención integral de los grupos sociales más vulnerables.
 
@@ -413,13 +417,17 @@ El Presidente o Presidenta, el Director General y el Comisario Público del Sist
 
 El desempeño del cargo en la Junta de Gobierno es honorifico, en consecuencia no se percibirá salario, compensación, emolumento o remuneración alguna por el desempeño del mismo.
 
-Los Integrantes de la Junta de Gobierno podrán designar suplentes para que los representen en las sesiones a que fueren convocados, quienes deberán cuando menos tener el nivel de Director General, enviando para tal efecto oficio que contenga la designación del presentante, dicho oficio será dirigido al Presidente de dicho cuerpo colegiado.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+Las personas integrantes de la Junta de Gobierno podrán designar suplentes para que los representen en las sesiones a que fueren convocados, quienes deberán cuando menos tener el nivel de Dirección General, enviando para tal efecto oficio que contenga la designación del representante, dicho oficio será dirigido a la persona que presida dicho cuerpo colegiado.
 
-Para el caso de que el representante que designe la persona titular del Poder Ejecutivo Estatal para fungir como Presidente de la Junta de Gobierno, sea un integrante de ésta última, en términos del presente artículo; dicho integrante deberá designar a su vez a la persona que lo supla, a fin de evitar la concentración de votos en una sola, en la toma de decisiones.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
-La Junta de Gobierno contará con un Secretario Técnico, designado por la misma a propuesta de su Presidente, en términos de lo dispuesto en el Estatuto Orgánico del Sistema.
+Para el caso de que la persona representante designada para presidir la Junta de Gobierno, sea integrante de ésta última, en términos del presente artículo; deberá designar a su vez a otra que lo supla, a fin de evitar la concentración de votos en una sola, en la toma de decisiones.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+
+La Junta de Gobierno contará con una Secretaría Técnica, y la persona titular de ésta será designada por la misma, a propuesta de quien la presida, en términos de lo dispuesto en el Estatuto Orgánico del Sistema.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2015)</small>
 
@@ -443,9 +451,13 @@ IV.- Aprobar y expedir el Estatuto Orgánico del Sistema, los Reglamentos, así 
 
 V.- Designar y remover, a propuesta del Presidente o Presidenta del Sistema, a los servidores públicos de mando superior del Sistema, aprobar sus sueldos y prestaciones, en armonía con el catálogo de puestos y tabulador de salarios aprobado por las Secretarías de Hacienda y de Administración del Poder Ejecutivo del estado de Morelos, y las demás establecidas en su Estatuto, así como concederles las licencias que procedan;
 
-VI.- Conocer los informes, dictámenes y recomendaciones del Comisario y del Auditor Externo;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
-VII.- Autorizar la contratación de créditos;
+VI.- Conocer los informes, dictámenes y recomendaciones de las personas titulares de la Comisaria y de la Auditoría Externa;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+
+VII.- Autorizar la contratación de créditos, conforme a la Ley;
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
 
@@ -461,13 +473,13 @@ XII.- Aprobar los programas de mediano plazo a que quedarán sujetos los servici
 
 XIII.- Autorizar la creación de unidades administrativas necesarias para agilizar, controlar y evaluar las actividades del Sistema, de conformidad con lo establecido en su presupuesto;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
-XIV.- Examinar y, en su caso, aprobar, los informes periódicos que presente el Director General con la intervención que al Órgano de Vigilancia le corresponda;
+XIV.- Examinar y, en su caso, aprobar, los informes periódicos que presente la persona titular de la Dirección General con la intervención de quien sea titular del Órgano de Vigilancia (sic) le corresponda;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
-XV.- Designar y cambiar, a propuesta del Presidente de la Junta de Gobierno, al Secretario Técnico;
+XV.- Designar y cambiar, a propuesta de quien presida la Junta de Gobierno, a la persona titular de la Secretaría Técnica;
 
 XVI.- Decidir los donativos o pagos extraordinarios, con base en las disposiciones jurídicas aplicables, verificando que se apliquen exactamente, a los fines señalados en las instrucciones dictadas por la dependencia coordinadora del sector al que esté adscrito el Sistema;
 
@@ -493,17 +505,19 @@ XXIV.- Las demás que sean necesarias para el ejercicio de las facultades anteri
 
 El Estatuto Orgánico contendrá las disposiciones generales a la organización del Sistema, de su Junta de Gobierno, de la Dirección General, Administración y de las unidades administrativas que lo integran, así como las demás disposiciones necesarias para su adecuado funcionamiento.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 23.
 
-La Junta de Gobierno sesionará de manera ordinaria cada dos meses, y de manera extraordinaria cuando por la urgencia del asunto de que se trate sean convocados sus integrantes por el Presidente o, en su caso, por el Secretario Técnico.
+La Junta de Gobierno sesionará de manera ordinaria cada dos meses, y de manera extraordinaria cuando por la urgencia del asunto de que se trate se emita convocatoria por las personas titulares de la presidencia o de la secretaría técnica.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 24.
 
-El Patronato del Sistema estará integrado por el Presidente o Presidenta y el Director General del mismo, quienes representarán a la Junta de Gobierno y por ocho miembros designados y removidos libremente por el Gobernador del Estado de Morelos.
+El Patronato del Sistema estará integrado por quien sea titular de la presidencia y la dirección general del Sistema, quienes representarán a la Junta de Gobierno, y por ocho personas designadas y removidas libremente por la persona titular del Poder Ejecutivo del Estado de Morelos.
 
-El Presidente o Presidenta del Sistema presidirá el Patronato, y se designarán de entre los integrantes de éste a un vicepresidente, un secretario de sesiones, un tesorero y Vocales. Los cargos de miembros del Patronato del Sistema serán honoríficos y se seleccionarán de entre los sectores público, social y privado que hayan tenido experiencia en actividades de asistencia social.
+La persona que presida el Sistema también presidirá el Patronato, y se designarán de entre quienes integren éste, a las personas que ocuparán la vicepresidencia, la secretaría de sesiones, la tesorería, y las vocalías. Los cargos del Patronato del Sistema serán honoríficos y se seleccionarán de entre los sectores público, social y privado que hayan tenido experiencia en actividades de asistencia social.
 
 ###### ARTÍCULO 25.
 
@@ -523,9 +537,13 @@ III.- Apoyar las actividades del Sistema y formular sugerencias tendientes a su 
 
 IV.- Contribuir a la obtención de recursos que permitan el incremento del patrimonio del Sistema y el cumplimiento de sus objetivos;
 
-V.- Designar al Vicepresidente y al Secretario de Sesiones;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
-VI.- Designar al Tesorero;
+V.- Designar a las personas titulares de la vicepresidencia y de la secretaría de sesiones;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+
+VI.- Designar a la persona titular de la Tesorería;
 
 VII.- Presentar a la Junta de Gobierno un informe anual de las actividades realizadas;
 
@@ -541,11 +559,11 @@ XII.- Programar eventos así como giras de trabajo con el propósito de valorar 
 
 XIII.- Las demás que sean necesarias para el ejercicio de las facultades anteriores en términos de las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 27.
 
-El Presidente o Presidenta del Sistema será la máxima autoridad del mismo, designado y removido por el Gobernador del Estado, el cual tendrá la representación oficial del Sistema, así como la responsabilidad de dictar la política general en materia de Asistencia Social; ocupará un cargo honorífico por lo que no recibirá retribución, emolumento o compensación alguna.
+La persona que presida el Sistema será la máxima autoridad del mismo, designada y removida por quien sea titular del Poder Ejecutivo Estatal; tendrá la representación oficial del Sistema, así como la responsabilidad de dictar la política general en materia de Asistencia Social; ocupará un cargo honorífico por lo que no recibirá retribución, emolumento o compensación alguna.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2015)</small>
 
@@ -591,65 +609,105 @@ XII.- Proponer al Gobernador del Estado los miembros que integren el Patronato d
 
 XIII.- Las demás que le confieran los ordenamientos legales y la Junta de Gobierno.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 29.
 
-El Gobernador del Estado nombrará al Director General, o previo acuerdo con el Coordinador del Sector, dicha designación quedará a cargo de la Junta de Gobierno.
+La persona titular del Poder Ejecutivo del Estado nombrará a quien será titular de la Dirección General, o previo acuerdo con la Coordinación del Sector, dicha designación quedará a cargo de la Junta de Gobierno.
 
-Para ser Director General del Sistema se deberán de satisfacer los requisitos siguientes:
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
-I.- Ser ciudadano mexicano, preferentemente morelense por nacimiento o por residencia; en este último caso, haber residido en la Entidad un mínimo de diez años anteriores a la fecha del nombramiento;
+Para ser titular de la Dirección General del Sistema se deberán de satisfacer los requisitos siguientes:
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+
+I.- Tener ciudadanía mexicana, preferentemente morelense por nacimiento o por residencia; en este último caso, haber residido en la Entidad un mínimo de diez años anteriores a la fecha del nombramiento;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
 
 II.- Estar en pleno ejercicio de sus derechos y no tener alguno de los impedimentos señalados en las fracciones II, III y IV, del Artículo 81 de la Ley Orgánica de la Administración Pública del Estado de Morelos;
 
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+
 III.- Contar con título profesional a nivel licenciatura y tener conocimientos y experiencia en materia de asistencia social;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
 
 IV.- Tener más de 25 años a la fecha de su designación, y
 
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+
 V.- Ser de reconocida solvencia moral.
 
-Cuando exista cambio de titular del Poder Ejecutivo, procederá el nombramiento de un nuevo Director General, excepto en el caso de que, quien se encuentre en el cargo, sea nombrado por un periodo más, de acuerdo con los requisitos que proceden.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2015)</small>
+Cuando exista cambio de titular del Poder Ejecutivo, procederá el nombramiento de quien será titular de la Dirección General, excepto en el caso de que, quien se encuentre en el cargo, sea nombrado por un periodo más, de acuerdo con los requisitos que preceden.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 30.
 
-El Director General, además de las atribuciones que se señalan en el artículo 84 de la Ley Orgánica de la Administración Pública del Estado de Morelos, tendrá las siguientes:
+La persona titular de la Dirección General, además de las atribuciones que se señalan en el artículo 84 de la Ley Orgánica de la Administración Pública del Estado de Morelos, tendrá las siguientes:
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
 
 I.- Administrar y representar legalmente al Sistema;
 
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+
 II.- Elaborar los programas institucionales de corto, mediano y largo plazo, los correspondientes presupuestos del organismo y los de organización, para presentarlos a la aprobación de la Junta de Gobierno;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
 
 III.- Establecer los mecanismos que permitan el aprovechamiento óptimo de los bienes muebles e inmuebles del Sistema;
 
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+
 IV.- Aplicar las medidas adecuadas a efecto de que las funciones del Sistema se realicen de manera organizada, congruente, eficaz y eficiente;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
 
 V.- Fijar los controles necesarios para asegurar la calidad de los suministros y programas de recepción, que garanticen la continuidad de la prestación de los servicios necesarios para apoyo a la infancia y, en general, a la mejor integración de las familias morelenses;
 
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+
 VI.- Acordar con el Presidente o la Presidenta los nombramientos, cambios y licencias de los funcionarios de mandos medios, así como sus sueldos y demás prestaciones, de acuerdo a las asignaciones globales de presupuesto de gasto corriente aprobado por el mismo órgano;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
 
 VII.- Recopilar la información y elementos estadísticos que muestren el estado de las actividades del Sistema, para estar en posibilidad de mejorar la gestión del propio organismo;
 
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+
 VIII.- Estructurar y operar los sistemas de control adecuados para alcanzar los objetivos y metas programados;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
 
 IX.- Rendir en forma bimestral a la Junta de Gobierno, el informe del desarrollo de las actividades del Sistema e incluir en el mismo, el ejercicio de los presupuestos de ingresos y egresos y los correspondientes estados financieros, en el informe y en los documentos de apoyo, se cotejarán las metas programadas y compromisos asumidos por la dirección, con las realizaciones que se lograron;
 
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+
 X.- Estructurar y aplicar los mecanismos de evaluación que hagan sobresalir la eficiencia y eficacia con las cuales desarrolla sus actividades el Sistema, y presentar a la Junta de Gobierno, cuando menos dos veces al año, la evaluación de gestión en la forma detallada que haya acordado con la misma y atendiendo las recomendaciones del Comisario Público;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
 
 XI.- Suscribir, cuando así lo requiera el régimen laboral del propio Sistema, los contratos individuales y colectivos que rijan las relaciones de trabajo de este con sus trabajadores;
 
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+
 XII.- Ejecutar y dar cumplimiento, en su caso, a los acuerdos que emita la Junta de Gobierno, y
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
 
 XIII.- Las demás que les confieran esta Ley, la Ley Orgánica de la Administración Pública del Estado de Morelos, el Estatuto Orgánico y la Junta de Gobierno.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 31.
 
-El Sistema tendrá un órgano de vigilancia, el cual estará integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Morelos, en términos del artículo 67 de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+El Sistema tendrá un órgano de vigilancia, el cual estará integrado por una persona titular de la Comisaría Pública, propietaria y una suplente, designadas por la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Morelos, en términos del artículo 67 de la Ley Orgánica de la Administración Pública del Estado de Morelos.
 
-Las funciones de Comisario Público serán las de evaluar, vigilar y dar seguimiento a las actividades administrativas del organismo, realizar los estudios sobre la eficiencia con la cual se ejerzan los recursos financieros del Sistema, para ello solicitará la información necesaria; lo anterior, sin menoscabo de las tareas específicas que le asigne la Secretaría de la Contraloría del Poder Ejecutivo del estado de Morelos, así como las demás que establezca el Reglamento Interior de dicha Secretaría.
+Las funciones de la persona titular de la Comisaría Pública serán las de evaluar, vigilar y dar seguimiento a las actividades administrativas del organismo, realizar los estudios sobre la eficiencia con la cual se ejerzan los recursos financieros del Sistema, para ello solicitará la información necesaria; lo anterior, sin menoscabo de las tareas específicas que le asigne la Secretaría de la Contraloría del Poder Ejecutivo del estado de Morelos, así como las demás que establezca el Reglamento Interior de dicha Secretaría.
 
 ###### ARTÍCULO 32.
 
@@ -697,11 +755,17 @@ El Consejo Consultivo de Asistencia Social del Estado de Morelos, estará integr
 
 I.- El Presidente o la Presidenta del Sistema, quien lo presidirá;
 
-II.- El Director General del Sistema;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
-III.- Un representante de la Secretaría de Salud, y
+II.- La persona titular de la Dirección General del Sistema;
 
-IV.- Las 33 presidentas de los Sistemas Municipales para el Desarrollo Integral de la Familia.
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+
+III.- Una persona representante de la Secretaría de Salud, y
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+
+IV.- Las 36 personas que presidan los Sistemas Municipales para el Desarrollo Integral de la Familia.
 
 Los nombramientos a que se refiere las fracciones anteriores tendrán el cargo de honoríficos.
 
@@ -723,11 +787,15 @@ V.- Presentar a la Junta de Gobierno los Acuerdos y opiniones que emita.
 
 El Consejo Consultivo sesionará cada tres meses y sus integrantes durarán en su cargo el tiempo que se desempeñen como titulares del área respectiva.
 
-El Consejo Consultivo podrá sesionar con la asistencia de la mitad más uno de sus integrantes y sus decisiones sólo tendrán validez cuando sean tomadas por la mayoría de los asistentes a la sesión. En caso de empate, el Ejecutivo del Estado, a través del Presidente del Sistema tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+
+El Consejo Consultivo podrá sesionar con la asistencia de la mitad más uno de sus integrantes y sus decisiones sólo tendrán validez cuando sean tomadas por la mayoría de los asistentes a la sesión. En caso de empate, la persona titular del Ejecutivo del Estado, a través (sic) quien presida el Sistema, tendrá voto de calidad.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 41.
 
-El Presidente del Consejo Consultivo lo será el Ejecutivo del Estado a través del Presidente o la Presidenta del Sistema, y el Secretario lo será el Director General del Sistema; este último podrá designar un representante, los demás integrantes del Consejo fungirán como vocales.
+La persona titular del Poder Ejecutivo, a través de quien presida el Sistema, también presidirá el Consejo Consultivo, y la secretaría técnica estará a cargo de quien sea titular de la Dirección General del Sistema; quien podrá designar un representante, los demás integrantes del Consejo fungirán como vocales.
 
 ### CAPÍTULO VII. DE LOS SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
@@ -929,11 +997,11 @@ Es obligación del Sistema poner a disposición de los ciudadanos la informació
 
 Serán considerados como personal de mandos medios y superiores, a las personas titulares de la Dirección General, la Coordinación, las Direcciones y Subdirecciones de Área, las Jefaturas de Departamento, del manejo de fondos, los supervisores, los almacenistas, los administradores, los secretarios particulares y los auxiliares de unos y otros; todos ellos considerándose además como empleados de confianza.
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 67.
 
-Los integrantes de la Junta de Gobierno, los mandos medios y superiores, el resto del personal de confianza y los sindicalizados, que incurran en acciones u omisiones previstas en la Ley Estatal de Responsabilidades de los Servidores Públicos, serán sujetos a procedimientos administrativos y, en su caso, a las sanciones previstas en el Código Penal para el Estado de Morelos, si además hubieran incurrido en la comisión de conductas dolosas conforme a las disposiciones aplicables.
+Las personas integrantes de la Junta de Gobierno, los mandos medios y superiores, el resto del personal de confianza y los sindicalizados, que incurran en acciones u omisiones previstas en la Ley Estatal de Responsabilidades de los Servidores Públicos, serán sujetos a procedimientos administrativos y, en su caso, a las sanciones previstas en el Código Penal para el Estado de Morelos, si además hubieran incurrido en la comisión de conductas dolosas conforme a las disposiciones aplicables.
 
 ## TRANSITORIOS
 
@@ -1166,3 +1234,13 @@ SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publi
 TERCERA. Las reformas realizadas por virtud del DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO, publicado en el Periódico Oficial “Tierra y Libertad”, número 5695 alcance, el 10 de abril de 2019, que no han sido objeto de derogación por virtud del presente instrumento; continuarán surtiendo sus efectos a partir de la vigencia del citado Decreto.
 
 CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 27 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL DOSCIENTOS VEINTINUEVE.- POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE ASISTENCIA SOCIAL Y CORRESPONSABILIDAD CIUDADANA PARA EL ESTADO DE MORELOS, EN MATERIA DE LENGUAJE INCLUYENTE”.]
+
+PRIMERA. Remítase el presente decreto al Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO. (Sic) Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
