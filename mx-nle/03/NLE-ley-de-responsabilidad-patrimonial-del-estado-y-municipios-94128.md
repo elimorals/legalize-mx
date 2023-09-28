@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidad-patrimonial-del-estado-y-municipios-9412
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-03"
-last_updated: "2019-11-29"
+last_updated: "2023-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de mayo de 2013.
 
@@ -187,13 +187,15 @@ El plazo de la prescripción sólo se interrumpirá al iniciarse el procedimient
 
 El derecho al cobro de la indemnización determinada conforme a esta Ley, se extingue por el transcurso de un año contado a partir del día en que fue exigible. Este plazo sólo se interrumpirá por cada gestión de cobro que realice el particular ante el ente público del Estado o Municipio correspondiente.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 18.
 
-Los entes públicos del Estado o Municipio, a través de sus instancias correspondientes, deberán contar con un registro de Indemnizaciones por Responsabilidad Patrimonial.
+Las Contralorías y Órganos Internos de Control de los entes públicos del Estado y Municipios deberán contar con registros de Indemnizaciones por Responsabilidad Patrimonial.
 
 Los registros serán públicos y tendrán por objeto llevar el seguimiento y la inscripción de las resoluciones firmes que determinen responsabilidad patrimonial a cargo del Estado o Municipio, así como los convenios derivados de la misma, a fin de que las indemnizaciones se efectúen en orden cronológico, según la fecha y hora de notificación, asignándoseles un número de folio para su control.
 
-Los registros de indemnizaciones por responsabilidad patrimonial se publicarán en el portal de Internet del ente público del Estado o del Municipio correspondiente, en los casos en que cuenten con ello; contendrán, sin perjuicio de lo previsto en la Ley de Transparencia y Acceso a la Información en relación a la protección de datos personales, el nombre del beneficiario, la modalidad y en su caso, el monto de la indemnización y los datos del expediente en el que se haya dictado la resolución o convenio respectivo.
+Los registros de indemnizaciones por responsabilidad patrimonial se publicarán en el portal de Internet del ente público del Estado o del Municipio Correspondiente, además de coordinar con la Contraloría y Transparencia Gubernamental del Estado para su publicación en un micrositio de dicha institución donde sirva como repositorio centralizado de todos los registros establecidos en el presente artículo. Todos los registros contendrán, sin perjuicio de lo previsto en la Ley de Transparencia y Acceso a la Información en relación con la protección de datos personales, el nombre del beneficiario, la modalidad y en su caso, el monto de la indemnización y los datos del expediente en el que se haya dictado la resolución o convenio respectivo
 
 ###### Artículo 19.
 
@@ -227,15 +229,21 @@ No procederá la reclamación de indemnización por responsabilidad patrimonial 
 
 La relación causa-efecto entre la acción administrativa pública irregular y la afectación patrimonial ocasionada deberá probarse conforme a las reglas de valoración de la prueba del Código de Procedimientos Civiles del Estado.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 24.
 
-Será competente para conocer y resolver las reclamaciones de indemnización por responsabilidad patrimonial que se presenten conforme a esta Ley, el órgano que en su respectivo ámbito determinen los entes públicos del Estado o del Ayuntamiento del Municipio de que se trate.
+Será competente para conocer y resolver las reclamaciones de indemnización por responsabilidad patrimonial que se presenten conforme a esta Ley las Contralorías, Órganos Internos de Control o su equivalente de los entes públicos del Estado y Municipios que correspondan.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2015)</small>
 
 La reclamación se presentará por escrito y deberá contener, como mínimo, los siguientes elementos:
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
 I. El nombre del ente público al cual se dirige;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
 
 II. El nombre del promovente y, en su caso, del causahabiente, quien deberá ser acreditado con la documentación correspondiente;
 
@@ -245,9 +253,15 @@ III. El domicilio del promovente para recibir notificaciones, en el lugar de la 
 
 En caso de que el promovente realice la reclamación a algún ente público con residencia en el Área Metropolitana de Monterrey, podrá señalar domicilio para recibir notificaciones dentro del área metropolitana.
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
 IV. La narración y descripción cronológica de los hechos y el razonamiento en el (sic) justifica su pretensión;
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
 V. La relación causa-efecto entre el daño o perjuicio producido y la presunta actividad administrativa irregular del servidor del ente público;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
 
 VI. La estimación del monto del daño o perjuicio ocasionado, podrá presentarse al momento de iniciada la reclamación o en el término establecido en el artículo 26 de la presente Ley, misma que deberá estar acompañada de lo siguiente:
 
@@ -269,11 +283,19 @@ En ningún caso se pagará indemnización por servicios médicos recibidos por e
 
 f) La indemnización que se exija por daños morales deberá expresar los motivos y circunstancias concretas en los que el reclamante base de (sic) la determinación de cada cantidad cuya suma integre el monto total reclamado.
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
 VII. El ofrecimiento de las pruebas, cuando la naturaleza del hecho así lo requiera;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
 
 VIII. El señalamiento, bajo protesta de decir verdad de que la reclamación no se ha iniciado por otra vía; y
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
 IX. El lugar, fecha y firma o huella dactilar del interesado o, en su caso, la del causahabiente.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
 
 La autoridad podrá ordenar a su costa otro peritaje y el reclamante deberá someterse a la práctica del mismo. En su caso, y con base en las conclusiones de uno o ambos peritajes, la autoridad determinará si procede o no el pago de la indemnización. Los peritajes deberán ser formulados por peritos de los autorizados por el Tribunal Superior de Justicia del Estado.
 
@@ -303,9 +325,11 @@ Cuando el reclamante no presenta la estimación dentro del plazo señalado, se c
 
 De presentarla, se agotarán los pasos previstos en el artículo 23 de la presente Ley y en un plazo no mayor de quince días la autoridad emitirá una resolución en la que determine el monto de la indemnización que se pagará al reclamante.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 27.
 
-Las resoluciones que dicte el ente público Estatal o Municipal correspondiente, con motivo de las reclamaciones que prevé la presente Ley, deberán contener un análisis exhaustivo de la existencia de la relación de causalidad entre la actividad administrativa y la afectación producida; la valoración detallada de las pruebas ofrecidas; la modalidad y el monto de la indemnización, explicitando los criterios utilizados para su cuantificación. Igualmente en los casos de concurrencia previstos en el Capítulo V de esta Ley, en dicha resolución se deberán razonar los criterios de imputación y la graduación correspondiente para su aplicación a cada caso en particular.
+Las resoluciones que dicten las Contralorías y Órganos Internos de Control de los entes públicos del Estado y Municipios que correspondan, con motivo de las reclamaciones que prevé la presente Ley, deberán contener un análisis exhaustivo de la existencia de la relación de causalidad entre la actividad administrativa y la afectación producida; la valoración detallada de las pruebas ofrecidas; la modalidad y el monto de la indemnización, explicitando los criterios utilizados para su cuantificación. Igualmente, en los casos de concurrencia previstos en el Capítulo V de esta Ley, en dicha resolución se deberán razonar los criterios de imputación y la graduación correspondiente para su aplicación a cada caso en particular.
 
 ###### Artículo 28.
 
@@ -430,3 +454,9 @@ P.O. 29 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 190. SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 17; LA FRACCIÓN III DEL ARTÍCULO 24 Y LA FRACCIÓN SEGUNDA DEL ARTÍCULO 29 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 372. SE TIENEN POR RECIBIDAS EN TIEMPO Y FORMA LAS OBSERVACIONES AL DECRETO NÚMERO 372, POR EL CUAL SE REFORMA EL ARTÍCULO 18, EL PRIMER PÁRRAFO DEL ARTÍCULO 24 Y EL ARTÍCULO 27 TODOS DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
