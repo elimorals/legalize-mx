@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2023-09-18"
+last_updated: "2023-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -707,13 +707,11 @@ Serán Sesiones Solemnes aquellas que el Cabildo les dé ese carácter por la im
 
 El miembro del H. Ayuntamiento que no hubiere sido citado a una Sesión de Cabildo, podrá solicitar, dentro de las veinticuatro horas siguientes a la fecha en que haya tenido conocimiento de la Sesión, que se vuelva a discutir en su presencia, él o los acuerdos tomados en su ausencia y el Secretario del H. Ayuntamiento le informará de los acuerdos tomados, debiendo quedar asentado en el acta respectiva su opinión sobre cada uno de los asuntos tratados. En este caso el integrante del Cabildo que se encuentre en dicho supuesto podrá solicitar la revocación del acuerdo en cuestión en términos de lo establecido por este Código Municipal.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 31.
 
-El Informe Anual de Gobierno del Presidente Municipal, será llevado a cabo en Sesión Solemne de Cabildo a celebrarse a más tardar en el mes de septiembre de cada año. El formato así como el orden del día de este tipo de sesiones serán acordadas por el Cabildo en sesión previa a la misma, pero en todo caso contendrá la participación de dos integrantes del Ayuntamiento, uno de extracción partidista del Primer Edil y otro más de entre los miembros de la oposición. En todos los casos, los integrantes del Ayuntamiento que participen en el Informe deberán ser de sexo distinto. Dicho informe deberá señalar todas las acciones realizadas por la Presidencia en materia de igualdad sustantiva y de eliminación de la violencia en sus diversos tipos y modalidades.
+El Informe Anual de Gobierno del Presidente Municipal, será llevado a cabo en Sesión Solemne de Cabildo a celebrarse entre el 1° de septiembre y el 30 de noviembre de cada año. El formato, así como el orden del día de este tipo de sesiones serán acordadas por el Cabildo en sesión previa a la misma, pero en todo caso contendrá la participación de dos integrantes del Ayuntamiento, uno de extracción partidista del Primer Edil y otro más de entre los miembros de la oposición. En todos los casos, los integrantes del Ayuntamiento que participen en el Informe deberán ser de sexo distinto. Dicho informe deberá señalar todas las acciones realizadas por la Presidencia en materia de igualdad sustantiva y de eliminación de la violencia en sus diversos tipos y modalidades.
 
 ###### ARTÍCULO 32.
 
@@ -25022,3 +25020,11 @@ P.O. 18 DE SEPTIEMBRE DE 2023.
 PRIMERO.- La presentes reformas, adiciones y derogaciones iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las referencias al Comité de Desarrollo Urbano y Rural contenidas en (sic) disposiciones administrativas de este Municipio, se entenderán realizadas al Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano.
+
+P.O. 28 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 31 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma iniciará su vigencia al momento de su aprobación.
