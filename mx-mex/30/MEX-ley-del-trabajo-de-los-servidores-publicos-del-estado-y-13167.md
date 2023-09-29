@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2022-09-23"
+last_updated: "2023-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -1775,9 +1775,7 @@ a) Las acciones para pedir la nulidad o la modificación de un nombramiento, a p
 
 b) Las acciones de los servidores públicos para ejercitar el derecho a ocupar el puesto que hayan dejado por accidente o por enfermedad, contando el plazo a partir de la fecha en que estén en aptitud de volver al trabajo;
 
-> <small>(ADICIONADO, G.G. 14 DE AGOSTO DE 2009)</small>
-
-c) En caso de suspensión o despido injustificados, las acciones para exigir la reinstalación en su trabajo o la indemnización que la ley concede, contados a partir del día siguiente al de la fecha del despido o suspensión.
+c) (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2023)
 
 > <small>(REFORMADA, G.G. 20 DE ENERO DE 2009)</small>
 
@@ -1798,6 +1796,10 @@ c) En caso de supresión de plazas, las acciones para que se otorguen otra equiv
 > <small>(ADICIONADO, G.G. 14 DE AGOSTO DE 2009)</small>
 
 d) La aplicación de medidas disciplinarias a sus servidores públicos, contando el término desde que sean conocidas las causas.
+
+> <small>(ADICIONADO, G.G. 29 DE SEPTIEMBRE DE 2023)</small>
+
+e) En caso de suspensión o despido injustificados, las acciones para exigir la reinstalación en su trabajo o la indemnización que la ley concede, contados a partir del día siguiente al de la fecha del despido o suspensión.
 
 > <small>(REFORMADA, G.G. 14 DE AGOSTO DE 2009)</small>
 
@@ -3596,3 +3598,11 @@ G.G. 23 DE SEPTIEMBRE DE 2022.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 189.- POR EL QUE SE DEROGA EL INCISO C) DE LA FRACCIÓN I DEL ARTÍCULO 180 Y SE ADICIONA EL INCISO E) A LA FRACCIÓN II DEL ARTÍCULO 180 DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
