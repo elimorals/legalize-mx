@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2023-09-08"
+last_updated: "2023-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -1267,7 +1267,9 @@ XVII. La información en versión pública de las declaraciones, de situación p
 
 a) En el Poder Legislativo Estatal: los diputados, el oficial mayor, la Auditora o el Auditor Superior del Estado, el tesorero, coordinadores, directores, jefes de departamento y auditores.
 
-b) En el Poder Ejecutivo Estatal: todos los servidores públicos, desde el Gobernador del Estado, hasta los jefes de departamento. En cuanto a la Procuraduría General de Justicia del Estado, también los agentes del Ministerio Público y los agentes de la Policía Ministerial.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+b) En el Poder Ejecutivo Estatal: todos los servidores públicos, desde el Gobernador del Estado, hasta los jefes de departamento. En cuanto a la Fiscalía General del Estado, también los agentes del Ministerio Público y los agentes de la Policía Ministerial.
 
 c) En la administración pública paraestatal: directores generales, gerentes, jefes de departamento, servidores públicos equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones similares, y fideicomisos públicos.
 
@@ -3368,3 +3370,11 @@ P.O. 8 DE SEPTIEMBRE DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0841.- SE REFORMA EL ARTÍCULO 84 FRACCIÓN XVII EN SU INCISO B), DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
