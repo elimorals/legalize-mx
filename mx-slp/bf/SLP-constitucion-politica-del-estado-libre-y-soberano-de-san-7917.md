@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2023-09-08"
+last_updated: "2023-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -358,6 +358,10 @@ Con la participación democrática de la sociedad, compete al Gobierno del Estad
 Todas las personas que habitan el Estado tienen derecho a vivir y crecer en un ambiente sano, ecológicamente equilibrado y sustentable para su bienestar y desarrollo humano.
 
 En la esfera de su competencia y, concurrentemente, los ayuntamientos, y el Gobierno del Estado, en coordinación con la Federación, en su caso, llevarán a cabo planes y programas para conservar, proteger, aprovechar racionalmente y mejorar los recursos naturales de la Entidad, así como para prevenir y combatir la contaminación ambiental. Realizarán acciones de prevención, adaptación y mitigación frente a los efectos del cambio climático.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+Todas las personas que habitan en el Estado, tienen derecho al aprovechamiento de las fuentes renovables de energía, en los términos que establezcan las leyes de la materia.
 
 Las personas que habitan el Estado, igualmente participarán en la preservación, restauración y equilibrio ecológico, y en materia de prevención, adaptación y mitigación frente al cambio climático.
 
@@ -3662,6 +3666,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE SEPTIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0832.- SE REFORMA EL ARTÍCULO 48, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0838.- SE ADICIONA PÁRRAFO AL ARTÍCULO 15, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
