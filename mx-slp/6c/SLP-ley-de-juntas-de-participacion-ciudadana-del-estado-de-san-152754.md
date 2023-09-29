@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-juntas-de-participacion-ciudadana-del-estado-de-san-1527
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-02"
-last_updated: "2023-07-31"
+last_updated: "2023-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUNTAS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 2 de diciembre de 2021.
 
@@ -73,13 +73,17 @@ VI. Secretaría. La secretaría de la Junta de Participación Ciudadana, y
 
 VII. Vicepresidencia. La vicepresidencia de la Junta de Participación Ciudadana.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 4º.
 
-Los cargos de las personas que integran las Juntas, son honoríficos, renunciables, y voluntarios. Se prohíbe que quienes las conforman acuerden para sí, percepción alguna, o algún otro concepto de forma directa o indirecta.
+Los cargos que desempeñan las personas que integran las Juntas, son honoríficos y voluntarios. Se prohíbe para quienes las conforman, acuerden para sí percepción alguna, o algún otro concepto de forma directa o indirecta.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 5º.
 
-Se prohíbe a quienes integran las Juntas, realizar cualquier acción de proselitismo, propaganda, promoción partidaria o electoral, así como condicionar el acceso o disfrute de cualquier servicio, programa o apoyo público de cualquier nivel.
+Se prohíbe a quienes integran las Juntas, realizar cualquier acción de proselitismo, propaganda y promoción político-electoral o partidista, así como condicionar el acceso o disfrute de cualquier servicio, programa o apoyo público de cualquier nivel.
 
 ###### ARTÍCULO 6º.
 
@@ -91,87 +95,135 @@ Se reconoce el derecho de las personas habitantes del Estado a participar en la 
 
 ### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 8º.
 
-Es atribución de la persona titular del Poder Ejecutivo del Estado, realizar, en coordinación con los ayuntamientos, acciones de apoyo a las comunidades.
+Es atribución del titular del Poder Ejecutivo del Estado realizar en coordinación con las autoridades municipales, acciones de apoyo a las comunidades.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 9º.
 
-Son atribuciones de las personas titulares de las presidencias municipales:
+Son atribuciones de las autoridades municipales correspondientes:
 
-I. Recibir; atender y resolver, por medio de las direcciones u organismos aplicables, las solicitudes presentadas por las Juntas;
+I. Emitir, en coordinación con el CEEPAC, la convocatoria para la integración de las Juntas, en estricta observación a los plazos y formalidades, indicados por esta Ley;
 
-II. Responder, en coordinación con el Gobierno del Estado, en su caso, las solicitudes de las Juntas;
+II. Recibir las solicitudes de inscripción de las planillas que vayan a participar en el proceso de elección de las Juntas, y resolver lo procedente, notificando su determinación a los promoventes;
 
-III. Recibir las solicitudes de inscripción para (sic) de las planillas para el proceso de elección de las Juntas, y
+III. Apoyar al CEEPAC en la preparación, celebración y conclusión de la elección de las Juntas;
 
-IV. Las demás que establezcan las leyes.
+IV. Designar una persona representante en la mesa receptora de la votación;
+
+V. Recibir; atender y resolver, las solicitudes de gestión o de cualquier otro tipo presentadas por las personas que conforman las Juntas, con la intervención del Gobierno del Estado cuando fuera el caso, y
+
+VI. Las demás que establezca el Reglamento de esta Ley y disposiciones.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 10.
 
-Los ayuntamientos deberán realizar acciones para fomentar la cercanía de la administración municipal con la ciudadanía, por medio de las Juntas.
+Las autoridades municipales fomentarán la participación activa de los habitantes de sus jurisdicciones en la toma de decisiones públicas, acercando los programas y acciones de gobierno, pudiendo ser estas actividades por medio de las Juntas.
 
 ###### ARTÍCULO 11.
 
 El CEEPAC tendrá las siguientes atribuciones:
 
-I. Emitir, en coordinación con los ayuntamientos, la convocatoria para la integración de las Juntas de cada uno de los municipios del Estado, en estricta observación a los plazos y formalidades, indicados por esta Ley;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
-II. Emitir los nombramientos que acrediten a los miembros de las Juntas;
+I. Coordinarse con las autoridades municipales en la expedición de la convocatoria para la integración de las Juntas que emitan éstas;
 
-III. Llevar a cabo, en coordinación con los ayuntamientos, las elecciones de las Juntas;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
-IV. Emitir los lineamientos que regulen las elecciones de las Juntas;
+II. Llevar a cabo, en coordinación con las autoridades municipales, la preparación, celebración y conclusión de la elección de las Juntas; para tal efecto, insaculará a una presidenta o presidente; y secretaria o secretario, de entre los habitantes de la circunscripción territorial, para mesa receptora de la votación;
 
-V. Recibir y resolver denuncias ciudadanas respecto al incumplimiento de esta Ley, e imponer las sanciones aplicables, y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
-VI. Las demás que establezcan las leyes y ordenamientos aplicables.
+III. Vigilar y orientar que se lleve a cabo el escrutinio y conteo de la votación debidamente en la elección de las Juntas;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Expedir los nombramientos de las personas electas en las Juntas;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+V. Emitir los lineamientos que regulen la preparación, celebración y conclusión de las elecciones de las Juntas;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Recibir y resolver denuncias ciudadanas respecto al incumplimiento de esta Ley, e imponer las sanciones aplicables, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Las demás que establezca el Reglamento de esta ley y disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 12.
 
-El CEEPAC recibirá y resolverá denuncias sobre el incumplimiento de esta Ley y su Reglamento, en lo relacionado al proceso de elección de las Juntas, pudiendo reponer el proceso bajo declaración judicial.
+El CEEPAC recibirá y resolverá denuncias sobre el incumplimiento de esta Ley y su Reglamento, en lo relacionado a la preparación, celebración y conclusión de la elección de las Juntas, pudiendo reponer el proceso bajo declaración judicial.
 
 ### CAPÍTULO III. DE LA INTEGRACIÓN DE LAS JUNTAS DE PARTICIPACIÓN CIUDADANA
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 13.
 
-La convocatoria para la integración de las Juntas deberá expedirse por el ayuntamiento que corresponda, en coordinación con el CEEPAC, antes del uno de noviembre del año de la elección constitucional. La integración de las Juntas deberá quedar conformada antes del día uno de diciembre del año de la elección.
+La convocatoria para la integración de las Juntas se expedirá por las autoridades municipales respectivas, en coordinación con el CEEPAC antes del uno de noviembre del año inmediato anterior al de la elección constitucional, las cuales deberán de quedar conformadas a más tardar el uno de diciembre de la anualidad citada.
 
-En la integración de las Juntas deberá observarse el principio de paridad de género vertical y horizontal, por ayuntamiento.
+En la composición de las Juntas, las autoridades municipales observarán el principio de paridad de género vertical y horizontal.
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 14.
 
-El Congreso del Estado incluirá en el Presupuesto de Egresos del Estado, del año correspondiente, las partidas presupuestales necesarias para efectuar el proceso de elección de las Juntas en los municipios de la Entidad.
+Los ayuntamientos incluirán en su Presupuesto de Egresos del año correspondiente, las partidas presupuestales necesarias para efectuar el proceso de preparación, celebración y conclusión de la elección de las Juntas.
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 15.
 
-En las zonas urbanas el número de Juntas deberá atender al número de demarcaciones territoriales que establezca el municipio.
+En las zonas urbanas el número de Juntas deberá atender al número de demarcaciones territoriales que establezcan las autoridades municipales para el efecto.
 
-En el caso de las zonas rurales, en cada una de las cabeceras de los municipios del Estado, deberá existir al menos una junta de mejoras que cumpla con el objeto de la presente Ley.
+En las zonas rurales y en las cabeceras de los municipios de la Entidad, deberá existir al menos una junta que cumpla con el objeto de la presente Ley.
 
-En el caso de municipios con mayoría de población indígena, los ejercicios de participación ciudadana se llevarán a cabo conforme a los esquemas de usos y costumbres, y de acuerdo a la normatividad correspondiente, por lo que esta Ley no les resulta aplicable.
+En las localidades y comunidades de los municipios con población mayoritaria indígena, los ejercicios de participación ciudadana se llevarán a cabo conforme a los esquemas de usos y costumbres, y de acuerdo a la normatividad correspondiente, por lo que esta Ley no les resulta aplicable.
 
-En caso de las localidades que se encuentren organizadas bajo el esquema ejidal, los ejercicios de participación ciudadana y de acuerdo a la normatividad correspondiente, por lo que esta Ley no les resulta aplicable.
+En los lugares que se encuentren organizados bajo el esquema ejidal, los ejercicios de participación ciudadana se efectuarán de acuerdo a la normatividad correspondiente, por lo que esta Ley no les resulta aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 16.
 
-Para ser integrante de las Juntas se deberá cumplir con los siguientes requisitos:
+Para ser integrante de la Junta se deberá cumplir con los siguientes requisitos:
 
 I. Saber leer y escribir;
 
-II. Habitar en la territorialidad correspondiente a la Junta, o contar con al menos dos años de residencia;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+II. Ser vecina o vecino en la territorialidad correspondiente a la Junta;
 
 III. Ser ciudadana o ciudadano, y estar en pleno ejercicio de sus derechos;
 
 IV. No ocupar ningún cargo de elección popular, ni haberlo ocupado en los últimos tres años anteriores a su elección;
 
-V. No haber sido inhabilitado como servidora o servidor público;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+V. No estar en alguno de los siguientes supuestos:
+
+a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
+
+b) Tener sentencia condenatoria que haya causado estado por los delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
+
+c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios;
 
 VI. No ocupar cargo alguno dentro de la administración municipal correspondiente;
 
 VII. No ser ministro de culto, y
 
-VIII. No ser dirigente, representante, o funcionario en algún partido político.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. No ser dirigente, representante, u ocupar algún cargo de dirección en algún partido político.
 
 ###### ARTÍCULO 17.
 
@@ -193,15 +245,23 @@ Son causas de separación de los cargos de las Juntas:
 
 I. Dejar de ser vecina o vecino en la territorialidad correspondiente;
 
-II. Ser candidata o candidato; electa o electo para un cargo de elección popular;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
-III. Haber sido designada o designado funcionario municipal, o ministro de algún culto religioso;
+II. Ser candidata o candidato; o electa o electo para un cargo de elección popular;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+III. Haber sido designada o designado funcionario o servidor público municipal, o ministro de algún culto religioso;
 
 IV. Ser inhabilitado como servidora o servidor público;
 
-V. Presentar renuncia por escrito, y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
-VI. Realizar actos de proselitismo en beneficio propio o de terceros.
+V. Presentar renuncia por escrito ante la propia Junta, y
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Realizar actos de proselitismo político-electoral, o partidista en beneficio propio o de terceros.
 
 ### CAPÍTULO IV. DE LA ELECCIÓN DE LAS JUNTAS DE PARTICIPACIÓN CIUDADANA
 
@@ -215,15 +275,17 @@ Para la elección, las personas avecindadas de la territorialidad de la Junta, e
 
 El CEEPAC emitirá los lineamientos para efectuar la elección, que abarquen, pero no limitándose a: planillas, casillas de votación y propaganda.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 21.
 
-Al término de las elecciones, dos representantes, una o uno designado por el ayuntamiento respectivo, y otro más por el CEEPAC, levantarán el acta oficial en donde se haga constar la designación de las personas que integran la Junta.
+Al término de las elecciones, el representante del ayuntamiento respectivo y del CEEPAC, levantarán el acta oficial en donde se haga constar el nombre de las personas y cargos de planilla ganadora y que integrará la Junta.
 
-Tras el levantamiento del acta las personas representantes tomarán formal protesta a los integrantes de la Junta.
+Tras el levantamiento del acta los representantes referidos tomarán formal protesta a los integrantes de la Junta.
 
 ###### ARTÍCULO 22.
 
-El CEEPAC expedirá los nombramientos de las personas que integran las Juntas.
+(DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2023)
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES DE LAS JUNTAS DE PARTICIPACIÓN CIUDADANA
 
@@ -235,21 +297,25 @@ I. Fungir como órgano representativo de las personas habitantes de la territori
 
 II. Realizar sesiones ordinarias y extraordinarias;
 
-III. Recibir y resolver mediante acuerdo, las propuestas o solicitudes que presente la ciudadanía en su territorialidad y darlas
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
-a conocer a las autoridades correspondientes;
+III. Recibir y resolver mediante acuerdo, las propuestas o solicitudes que presenten sus habitantes y darlas a conocer a las autoridades correspondientes;
 
 IV. Establecer convenios y acuerdos con autoridades u organismos de la sociedad civil, con el fin de impulsar el desarrollo de la comunidad;
 
 V. Promover la cultura de legalidad y la transparencia;
 
-VI. Promover la participación ciudadana, especialmente en los programas de mejora en la comunidad;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Promover la participación de sus habitantes, especialmente en los programas de mejora en la comunidad;
 
 VII. Promover el cuidado y el buen uso de los bienes públicos en su territorialidad;
 
 VIII. Constituir un canal permanente de comunicación entre las personas habitantes de su territorialidad y las autoridades;
 
-IX. Presentar a los ayuntamientos propuestas relativas a aspectos que impacten la vida de las personas habitantes representadas;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+IX. Presentar a las autoridades municipales, estatales y federales propuestas relativas a aspectos que impacten la vida de las personas habitantes representadas;
 
 X. Realizar acciones cuyo fin sea lograr un impacto favorable en la calidad de vida de las personas habitantes representadas;
 
@@ -275,9 +341,11 @@ Se prohíbe abordar asuntos de tipo religioso o político partidista en las sesi
 
 Se podrán celebrar sesiones extraordinarias para tratar asuntos urgentes y de importancia común para las personas de la territorialidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 25.
 
-La presidencia de la Junta tendrá las siguientes atribuciones:
+La o el presidente de la Junta tendrá las siguientes atribuciones:
 
 I. Ejercer la representación de la Junta;
 
@@ -287,29 +355,43 @@ III. Supervisar el cumplimiento de funciones de las personas que integran la Jun
 
 IV. Firmar los acuerdos o convenios en los que la Junta tome parte;
 
-V. Dar cuenta de los resultados y avances en la gestión de la Junta, a través de una sesión informativa semestral, para la que se podrán convocar funcionarios del ayuntamiento, y a la legisladora o legislador del Distrito Local correspondiente, o sus representantes, y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+V. Dar cuenta de los resultados y avances en la gestión de la Junta, a través de una sesión informativa semestral, para la que se podrán convocar a las autoridades municipales, y a la legisladora o legislador del Distrito Local correspondiente, o sus representantes, y
 
 VI. Convocar a las sesiones de la Junta asistiendo a las mismas con voz y voto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 26.
 
-La vicepresidencia de la Junta tendrá las siguientes atribuciones:
+La o el vicepresidente de la Junta tendrá las siguientes atribuciones:
 
-I. Suplir a la presidencia en el ejercicio de sus funciones, por motivos de falta;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
-II. Asistir a la presidencia en el cumplimiento de sus funciones, y
+I. Suplir a la o el presidente en el ejercicio de sus funciones, por motivos de falta;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+II. Asistir a la o el presidente en el cumplimiento de sus funciones, y
 
 III. Asistir a las sesiones con voz y voto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 27.
 
-La secretaría de la Junta tendrá las siguientes atribuciones:
+La secretaria o el secretario de la Junta tendrá las siguientes atribuciones:
 
-I. Acordar con la presidencia el orden del día de las sesiones y levantar al término de la misma el acta de acuerdos correspondiente;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+I. Acordar con la o el presidente el orden del día de las sesiones y levantar al término de la misma el acta de acuerdos correspondiente;
 
 II. Asistir a las sesiones de la Junta, con el carácter de secretaria o secretario de actas, con derecho a voz y voto;
 
-III. Dar cuenta a la presidencia de los asuntos pendientes para realizar su trámite;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+III. Dar cuenta a la o el presidente de los asuntos pendientes para realizar su trámite;
 
 IV. Redactar los documentos necesarios para el funcionamiento de la Junta, y
 
@@ -325,17 +407,25 @@ II. Proponer e implementar mecanismos de comunicación de las actividades de la 
 
 III. Recibir y presentar ante la Junta, las propuestas de las personas avecindadas para su trámite, e informar a éstas sobre su resultado, y
 
-IV. Apoyar en las actividades que desarrolle la Junta y las que indique la presidencia de la misma.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Apoyar en las actividades que desarrolle la Junta y las que indique la o el presidente de la misma.
 
 ###### ARTÍCULO 29.
 
 Las faltas temporales a las sesiones de las personas integrantes de las (sic) Junta, serán suplidas de la forma siguiente:
 
-I. Vicepresidencia suplirá a la presidencia;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
-II. Secretaría a la vicepresidencia, y
+I. La o el vicepresidente suplirá a la o el presidente;
 
-III. Una o uno de los vocales a la secretaría.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+II. La o el Secretario a la o el vicepresidente, y
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+III. Una o uno de los vocales a la o el secretario.
 
 Las ausencias que se notifiquen como definitivas, serán cubiertas por sus respectivos suplentes.
 
@@ -412,3 +502,11 @@ P.O. 31 DE JULIO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0845.- SE REFORMAN LOS ARTÍCULOS 4º, 5º, 8º, 9º, 10, 11, 12, 13, 14, 15, 16 EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES II, V Y VIII, 18 EN SUS FRACCIONES II, III, V Y VI, 21, 23 EN SUS FRACCIONES III, VI Y IX, 25 EN SU PÁRRAFO PRIMERO Y EN SU FRACCIÓN V, 26 EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES I Y II, 27 EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES I Y III, 28 EN SU FRACCIÓN IV Y 29 EN SUS FRACCIONES I, II Y III; Y DEROGA EL ARTÍCULO 22, DE LA LEY DE JUNTAS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
