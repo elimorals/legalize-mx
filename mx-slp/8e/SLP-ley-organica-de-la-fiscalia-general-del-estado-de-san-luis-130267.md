@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-fiscalia-general-del-estado-de-san-luis-1302
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-08-20"
-last_updated: "2023-09-11"
+last_updated: "2023-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130267&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 20 de agosto de 2018.
 
@@ -596,6 +596,10 @@ VI. Lineamientos generales de las facultades discrecionales de los Fiscales.
 Participación Ciudadana en la Planeación Institucional.
 
 Para la planeación institucional, podrán integrarse Consejos Consultivos Ciudadanos, que serán los órganos de participación ciudadana de la Fiscalía General del Estado, creados para asegurar la participación ciudadana en el establecimiento de las metas del Plan de Persecución Penal, y estarán integrados por, a fin de que se tome en cuenta sus opiniones; sus cargos serán honoríficos y concluirán en los términos que establezca el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+Dentro de las acciones para la integración del Plan de Persecución Penal, se realizarán consultas públicas en las distintas regiones que integran el Estado.
 
 ### Capítulo VI. Dirección General de Política de Persecución Penal y Análisis Estratégico
 
@@ -1566,6 +1570,14 @@ SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido e
 P.O. 11 DE SEPTIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0834.- SE REFORMA EL ARTÍCULO 93, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 14, DE LA LEY DE MEDIACIÓN Y CONCILIACIÓN DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 20, 41 Y 44, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 15, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 40, DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 40, DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0843.- SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 26, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
