@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-etica-de-los-funcionarios-publicos-adscritos-a-la-109
 country: "mx"
 rank: "codigo"
 publication_date: "2015-09-04"
-last_updated: "2015-09-04"
+last_updated: "2023-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # CODIGO DE ETICA DE LOS FUNCIONARIOS PUBLICOS ADSCRITOS A LA ESCUELA NORMAL DE ESPECIALIZACION DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA ESCUELA NORMAL DE ESPECIALIZACIÓN DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 29 DE SEPTIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LOS FUNCIONARIOS PÚBLICOS ADSCRITOS A LA ESCUELA NORMAL DE ESPECIALIZACIÓN DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2023 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 4 de septiembre de 2015.
 
@@ -162,3 +164,17 @@ Dado en Culiacán Rosales, Sinaloa, México a los veinticuatro días del mes de 
 DIRECTOR GENERAL
 
 M.E. JORGE MARIO SOTO MORENO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA ESCUELA NORMAL DE ESPECIALIZACIÓN DEL ESTADO DE SINALOA".]
+
+PRIMERO.- El presente Código de Conducta de la Escuela Normal de Especialización del Estado de Sinaloa, entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO.- En cumplimiento de lo establecido en el artículo Décimo Tercero de los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativa (sic), emitidos por la Secretaría Ejecutiva del Sistema Nacional Anticorrupción, el presente Código, deberá de publicarse en el Periódico Oficial "El Estado de Sinaloa"; asimismo, en concordancia con lo establecido en el artículo 9 del Código de Ética de los Servidores Públicos del Gobierno del Estado de Sinaloa publicado el 7 de septiembre de 2020 en el periódico oficial "El Estado de Sinaloa", el presente Código deberá de difundirse y publicarse, en la página de internet institucional de la Escuela Normal de Especialización del Estado de Sinaloa.
+
+TERCERO.- Las Áreas de la Escuela Normal de Especialización del Estado de Sinaloa a través del Comité de Ética, deberán hacer del conocimiento al personal adscrito a sus áreas el Código de Conducta de esta Dependencia, mediante oficios y acuse, presentaciones presenciales, cuadernillo impreso, correo electrónico y por otras vías más eficaces existentes, una vez publicado el mismo.
+
+CUARTO.- Se abroga el Código de Ética de la Escuela Normal de Especialización del Estado de Sinaloa publicado en el Periódico Oficial del Estado de Sinaloa, con fecha 04 de septiembre del 2015.
