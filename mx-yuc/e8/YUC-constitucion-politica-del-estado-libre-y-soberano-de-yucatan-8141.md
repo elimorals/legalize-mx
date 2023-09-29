@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2023-09-26"
+last_updated: "2023-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -2769,9 +2769,17 @@ X.- Planeación del Desarrollo Regional;
 
 XI.- Creación y Administración de Reservas Territoriales;
 
-XII.- Desarrollo Económico, en todas sus vertientes, y
+> <small>(REFORMADA, D.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
-XIII.- Desarrollo Social.
+XII.- Desarrollo Económico, en todas sus vertientes;
+
+> <small>(REFORMADA, D.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+XIII.- Desarrollo Social, y
+
+> <small>(ADICIONADA, D.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+XIV.- Igualdad entre mujeres y hombres y acceso de las mujeres a una vida libre de violencia.
 
 Los municipios podrán celebrar convenios con el Ejecutivo del Estado, a fin de que éstos asuman alguna de las funciones o los servicios cuya responsabilidad sea originaria del Estado, trasladándose a favor del municipio los medios para su adecuada prestación así como la contraprestación a cargo de los usuarios del servicio o función de que se trate.
 
@@ -5698,3 +5706,19 @@ Artículo primero. El presente decreto entrará en vigor el día siguiente al de
 Disposiciones secundarias
 
 Artículo segundo. El Congreso del Estado de Yucatán deberá emitir la ley reglamentaria del presente decreto a más tardar dentro de los trescientos sesenta y cinco días hábiles siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 29 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 680/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, SE EXPIDE LA LEY QUE REGULA A LAS INSTANCIAS MUNICIPALES DE LAS MUJERES EN EL ESTADO DE YUCATÁN Y SE MODIFICA LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES Y DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. De la implementación
+
+Los ayuntamientos de los municipios que no cuenten con infraestructura y personal para operar la instancia municipal de las mujeres, tendrán noventa días naturales, a partir de la entrada en vigor de este decreto, para implementarla.
+
+Artículo Tercero. De las vacantes
+
+Las instancias municipales de las mujeres a que se refiere este decreto deberán cumplir, en la ocupación de sus puestos de nueva creación y las vacantes, lo dispuesto en (sic) párrafo segundo del artículo 80 de la Ley de Gobierno de los Municipios del Estado de Yucatán.
