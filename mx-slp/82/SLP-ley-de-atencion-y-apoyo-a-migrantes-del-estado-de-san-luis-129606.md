@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-atencion-y-apoyo-a-migrantes-del-estado-de-san-luis-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-13"
-last_updated: "2021-11-18"
+last_updated: "2023-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ATENCIÓN Y APOYO A MIGRANTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 13 de julio de 2018.
 
@@ -121,9 +121,11 @@ Los ciudadanos en lo particular o, a través de organizaciones civiles no gubern
 
 Para tal efecto, el Poder Ejecutivo y los gobiernos municipales, de acuerdo a su capacidad presupuestal, podrán otorgar en favor de estas organizaciones, subsidios en los términos de las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 9°.
 
-El Ejecutivo del Estado preverá en el proyecto de Presupuesto de Egresos anual, las partidas necesarias para dar cumplimiento a la presente Ley; e, igualmente, los ayuntamientos deberán considerar lo previsto en el presente artículo, en la (sic) sus respectivos presupuestos de egresos.
+El Ejecutivo del Estado, así como los ayuntamientos, preverán en sus proyectos de Presupuesto de Egresos anual, las partidas necesarias para dar cumplimiento a la presente Ley.
 
 ### Capítulo II. De los Derechos de los Migrantes y sus Familiares
 
@@ -133,9 +135,17 @@ Además de los derechos contenidos en la Constitución Política de los Estados 
 
 I. El otorgamiento de información respecto a programas de atención a migrantes y de requisitos necesarios para ser beneficiarios;
 
-II. La inscripción de los migrantes en el Registro Estatal, y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
-III. El acceso a servicios y prestaciones de los programas de atención a migrantes.
+II. La inscripción de los migrantes en el Registro Estatal;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+III. El acceso a servicios y prestaciones de los programas de atención a migrantes, y
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Garantizar en todo momento el respeto y protección de sus derechos humanos.
 
 ## TÍTULO SEGUNDO. DEL INSTITUTO DE MIGRACIÓN Y ENLACE INTERNACIONAL DEL ESTADO DE SAN LUIS POTOSÍ
 
@@ -602,3 +612,11 @@ P.O. 18 DE NOVIEMBRE DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0840.- SE REFORMAN LOS ARTÍCULOS 9° Y 10 EN SUS FRACCIONES II Y III; Y ADICIONA AL ARTÍCULO 10 LA FRACCIÓN IV, DE LA LEY DE ATENCIÓN Y APOYO A MIGRANTES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
