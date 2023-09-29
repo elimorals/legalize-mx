@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-del-patrimonio-cultural-para-el-estado-de-464
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-30"
-last_updated: "2020-04-16"
+last_updated: "2023-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,127 +21,25 @@ state: "SLP"
 ---
 # LEY DE PROTECCION DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSI
 
-LEY DEL PATRIMONIO DEL ESTADO DE CHIAPAS
+LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
 
-Ley publicada en el Número 186 del Periódico Oficial del Estado de Chiapas, el miércoles 29 de septiembre de 2021.
+Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de julio de 2005.
 
-Rutilio Escandón Cadenas, Gobernador del Estado de Chiapas, a sus habitantes hace saber: Que la Honorable Sexagésima Séptima Legislatura del mismo, se ha servido dirigir al Ejecutivo a su cargo el siguiente:
+C.P. Marcelo de los Santos Fraga, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
 
-DECRETO NÚMERO 428
+DECRETO 360
 
-La Honorable Sexagésima Séptima Legislatura Constitucional del Estado Libre y Soberano de Chiapas, en uso de las facultades que le concede la Constitución Política Local; y
+LA QUINCUAGESIMA SEPTIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
 
-C O N S I D E R A N D O
+[...]
 
-Que el artículo 45 fracción I, de la Constitución del Estado Libre y Soberano Chiapas, faculta al Honorable Congreso del Estado a legislar en materias que no están reservadas al Congreso de la Unión, así como, aquellas que existan facultades concurrentes, conforme a las leyes federales.
+LEY DE PROTECCION DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSI
 
-El Patrimonio del Estado a cargo del Poder Ejecutivo, es la base económica a través de la cual la Administración Pública Estatal cumple con el ejercicio de las políticas públicas de regulación patrimonial, mismas que son necesarias para llevar una correcta administración de los bienes que integran una parte del Erario Estatal.
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-El correcto control y registro de los bienes muebles, inmuebles e intangibles a cargo del Poder Ejecutivo del Estado, es fundamental para llevar a cabo la actualización del inventario integrado por los registros patrimoniales de la Administración Pública Estatal; con ello se garantiza el cumplimiento de las disposiciones jurídicas y lineamientos establecidos para la transparencia, rendición de cuentas y acceso a la información pública, en alineación al Plan Estatal de Desarrollo Chiapas 2019-2024, Eje 1. Gobierno Eficaz y Honesto, Tema 1.2. Austeridad y combate a la corrupción, Política pública 1.2.2. Gestión pública transparente, Estrategia 1.2.2.3. Fortalecer los sistemas de control interno institucionales.
-
-Los cambios sociales y las necesidades a que están sujetas las instituciones, obligan a realizar una renovación en la estructura de la Administración Pública, y una reorganización y reingeniería administrativa; por lo que, mediante Decreto número 020, publicado en el Periódico Oficial número 414, de fecha 8 de diciembre de 2018, se expidió una nueva Ley Orgánica de la Administración Pública del Estado de Chiapas, por virtud de la cual el Instituto de la Consejería Jurídica y de Asistencia Legal, se transformó en un Organismo Auxiliar del Poder Ejecutivo, cambiando su denominación a Consejería Jurídica del Gobernador, delimitando el ámbito de sus facultades y atribuciones exclusivamente al aspecto técnico de la normatividad jurídica; por lo que, todos los asuntos relacionados al Registro Civil, Notarías, Archivo General, Patrimonio, Catastro y Registro Público de la Propiedad y del Comercio, que tenía a su cargo, fueron asumidos por la Secretaría General de Gobierno.
-
-Es por ello que, con la finalidad de para (sic) garantizar la eficacia y correcta administración de los recursos de la Administración Pública, el funcionamiento de las Dependencias y Entidades que la conforman, así como el desarrollo de las actividades preponderantes, se creó un Organismo especializado cuyo objeto es el registro y control de los bienes patrimoniales del Estado, desincorporando dichas actividades de la Secretaría General de Gobierno, otorgándolas al Instituto del Patrimonio del Estado, en su calidad de Organismo Público Descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría de Hacienda, con personalidad jurídica y patrimonio propio, autonomía administrativa, presupuestal, técnica, de gestión, de operación y de ejecución, de conformidad con el Decreto por el que se crea el Instituto del Patrimonio del Estado, publicado bajo el número 152, en el Periódico Oficial número 075, Tomo III, de fecha 31 de diciembre de 2019.
-
-El Instituto del Patrimonio del Estado, es el Organismo Especializado en la ejecución, integración y actualización de las normas, políticas y procedimientos relacionadas a la adquisición, el control, uso, destino, enajenación, arrendamiento, y desincorporación de los bienes muebles e inmuebles a cargo del Poder Ejecutivo del Estado; además, será el encargado de administrar un Inventario Patrimonial del Gobierno del Estado, y vigilar la actualización de los registros y valores de los bienes muebles, inmuebles e intangibles de la Administración Pública Estatal y cuando así sea autorizado, de los Poderes Legislativo, Judicial y Órganos Autónomos.
-
-En tal sentido, para dar cumplimiento a las disposiciones que en materia patrimonial establece la Ley General de Contabilidad Gubernamental, es menester generar un marco normativo actualizado, que permita dotar certeza jurídica en materia de registro, conservación, control, administración, mantenimiento, aprovechamiento y disposición del patrimonio estatal; así como delimitar las atribuciones y funciones del Instituto del Patrimonio del Estado, acorde a su naturaleza jurídico administrativa. Por tanto, con la participación de las instancias normativas en materia patrimonial y contable, se logra una adecuada armonización de los registros patrimoniales y contables de los bienes pertenecientes a la Administración Pública Estatal y los Entes Públicos, estableciendo criterios de concentración, desregulación, simplificación y modernización, con el fin de eficientar, optimizar y trasparentar el manejo de los recursos, pero sobre todo que, el resguardo y cuidado del Patrimonio Estatal se efectúe de forma responsable, a través de un marco normativo actualizado y sólido.
-
-Por las consideraciones antes expuestas, el Pleno del Honorable Congreso del Estado de Chiapas, ha tenido a bien emitir el siguiente decreto de:
-
-Ley del Patrimonio del Estado de Chiapas
-
-## Título Primero. Disposiciones Generales
-
-### Capítulo I. De la Naturaleza y Objeto de la Ley
-
-###### Artículo 1.
-
-La presente Ley es de orden público e interés general en el Estado de Chiapas, y tiene por objeto regular las acciones relativas al registro, adquisición, incorporación, desincorporación, donación, enajenación a título oneroso, vía subasta pública y vía permuta, catálogo, inventario, control, administración, posesión, uso, conservación, mantenimiento, aprovechamiento, destino, arrendamiento, vigilancia, titulación y afectación del patrimonio del Gobierno del Estado de Chiapas, en términos de las disposiciones que en materia patrimonial establece la Ley General de Bienes Nacionales, Ley General de Contabilidad Gubernamental, el Consejo Nacional de Armonización Contable, Ley de Expropiación del Estado de Chiapas y demás normatividad aplicable.
-
-###### Artículo 2.
-
-Para los efectos de la presente Ley se entenderá por:
-
-I. Administración Centralizada: A las Dependencias y Unidades Administrativas que se encuentran directamente adscritas al Titular del Poder Ejecutivo del Estado; además de los órganos desconcentrados subordinados jerárquicamente a las Secretarías.
-
-II. Administración Paraestatal: A las Entidades que se constituyen como Organismos Descentralizados; Organismos Auxiliares; Empresas de Participación Estatal, y los Fideicomisos Públicos que se organicen de manera análoga a los organismos descentralizados, pertenecientes a la Administración Pública Estatal.
-
-III. Administración Pública Estatal: Al régimen administrativo del Poder Ejecutivo del Estado, dividido en centralizado y paraestatal, en términos de lo dispuesto por la Ley Orgánica de la Administración Pública del Estado de Chiapas.
-
-IV. Alta: Al trámite administrativo que tiene como propósito ingresar en el padrón activo de un sistema de control patrimonial, el registro de bienes muebles, inmuebles e intangibles, pertenecientes a la Administración Pública Estatal o a los Entes Públicos.
-
-V. Baja: Al trámite administrativo que tiene como propósito retirar del padrón activo de un sistema de control patrimonial, el registro de un bien mueble, inmueble o intangible, perteneciente a la Administración Pública Estatal o de los Entes Públicos.
-
-VI. Bienes Inmuebles: A los bienes que por su naturaleza están fijos en un lugar determinado y en consecuencia, es difícil o imposible su traslado sin alterar en algún modo su forma o su subsistencia.
-
-VII. Bienes Muebles: A los bienes que por su naturaleza pueden ser trasladados de un lugar a otro, ya sea por sí mismos o por una fuerza o energía exterior.
-
-VIII. Bienes Intangibles: A los bienes inmateriales desarrollados o adquiridos por la Administración Pública Estatal, como son software y tecnologías de la información, programas, organizaciones, patentes, marcas, licencias y franquicias, y en general, todos aquellos de naturaleza similar susceptibles de ser valuados.
-
-IX. Congreso: Al Poder Legislativo del Estado de Chiapas.
-
-X. Comisión de Subasta: A la Comisión de Subasta para la Enajenación de Bienes Muebles e Intangibles del Dominio Privado, a cargo del Poder Ejecutivo del Estado.
-
-XI. CONAC: Al Consejo Nacional de Armonización Contable.
-
-XII. Consejería: A la Consejería Jurídica del Gobernador.
-
-XIII. Destinatarios: A los Órganos y Organismos de la Administración Pública Estatal, y en su caso los particulares, que tienen destinados a su servicio, Bienes Muebles, Inmuebles e Intangibles propiedad del Poder Ejecutivo del Estado.
-
-XIV. Dirección Operativa: Al Órgano Administrativo dependiente del Instituto del Patrimonio del Estado, encargado de la administración de los Departamentos de Almacenes Generales de Gobierno, Departamento de Bienes Muebles, Departamento de Bienes Inmuebles y Departamento de Apoyo a la Comisión Interinstitucional para la Adquisición de Terrenos y Bienes Distintos Necesarios para la Obra de Infraestructura o Liberación de Derecho de Vía.
-
-XV. Director General: Al titular de la Dirección General del Instituto del Patrimonio del Estado.
-
-XVI. Entes Públicos: A los Poderes Legislativo, Judicial y Órganos Autónomos del Estado de Chiapas.
-
-XVII. Instituto: Al Instituto del Patrimonio del Estado.
-
-XVIII. Junta de Gobierno: Al Órgano de Gobierno y máxima autoridad del Instituto del Patrimonio del Estado.
-
-XIX. Ley: A la Ley del Patrimonio del Estado de Chiapas.
-
-XX. Ley General: A la Ley General de Contabilidad Gubernamental.
-
-XXI. Inventario Patrimonial del Gobierno del Estado: Al instrumento administrativo que contiene los registros de los Bienes Muebles, Inmuebles e Intangibles que de forma directa o indirecta son utilizados por la Administración Pública Estatal y por los Entes Públicos.
-
-XXII. Patrimonio del Ejecutivo: Al conjunto de Bienes Muebles, Inmuebles e Intangibles, beneficios, ingresos y recursos registrados contablemente a favor del Poder Ejecutivo del Estado.
-
-XXIII. Patrimonio del Gobierno del Estado: Al conjunto de Bienes Muebles, Inmuebles e Intangibles, beneficios, ingresos y recursos que de forma directa o indirecta son utilizados por la Administración Pública Estatal y por los Entes Públicos en la prestación de servicios públicos y la ejecución de sus atribuciones.
-
-XXIV. Poder Ejecutivo del Estado: Al Poder Público que se encuentra integrado por la Administración Centralizada y Paraestatal, y deposita su titularidad en el Gobernador del Estado de Chiapas.
-
-XXV. Reglamento: Al Reglamento de la Ley del Patrimonio del Estado de Chiapas.
-
-XXVI. Sistema de Control Patrimonial: A la herramienta informática de registro y control implementada por el Instituto, para el registro de los Bienes Inmuebles, Muebles e Intangibles, y su actualización en un padrón único de bienes del Poder Ejecutivo del Estado.
-
-XXVII. Titular del Poder Ejecutivo del Estado: Al Gobernador del Estado de Chiapas.
-
-###### Artículo 3.
-
-La aplicación e interpretación de la presente Ley corresponde al Poder Ejecutivo del Estado, a través del Instituto. A falta de disposición expresa y en lo que no contravenga a la misma, se aplicará supletoriamente la Ley de Procedimientos Administrativos para el Estado de Chiapas, Código Civil para el Estado de Chiapas, el Código de Procedimientos Civiles del Estado de Chiapas, así como los demás ordenamientos legales.
-
-###### Artículo 4.
-
-Corresponde al Poder Ejecutivo del Estado y a los Entes Públicos, en el ámbito de sus respectivas competencias, la administración de su patrimonio, su aprovechamiento y la conformación del Inventario Patrimonial del Gobierno del Estado.
-
-###### Artículo 5.
-
-La Administración Pública Estatal deberá registrar los Bienes Muebles, Inmuebles e Intangibles que conformen su patrimonio, en el respectivo Sistema de Control Patrimonial, conforme a lo establecido en la Ley, el Reglamento y demás disposiciones aplicables, informando oportunamente dicho registro al Instituto.
-
-Para la adquisición y arrendamiento de vehículos, se solicitará al Instituto, la emisión del dictamen técnico correspondiente, conforme a lo establecido en las disposiciones legales y administrativas aplicables.
-
-###### Artículo 6.
-
-El patrimonio de los Entes Públicos estará sujeto a las disposiciones establecidas en la Ley General, las disposiciones normativas emitidas por el CONAC, la presente Ley, el Reglamento y demás ordenamientos jurídicos y administrativos aplicables.
-
-###### Artículo 7.
-
-Los Tribunales del Estado de Chiapas, serán competentes para conocer de los juicios civiles, mercantiles, penales o administrativos, así como de los procedimientos judiciales que se relacionen con los bienes del Patrimonio del Gobierno del Estado.
-
-Para iniciar los procedimientos judiciales en contra de actos de aplicación o interpretación de esta Ley, deberán agotarse previamente los procedimientos administrativos para la recuperación de los Bienes Muebles, Inmuebles e Intangibles, previstos en la misma.
+### CAPITULO UNICO
 
 ###### ARTICULO 1º.
 
@@ -243,809 +141,701 @@ Cuando las autoridades federales ejerzan o decreten la protección de un determi
 
 Los bienes muebles culturales que formen parte del patrimonio del Estado, no podrán ser transportados, exhibidos, comercializados, intervenidos para su conservación o restauración, o reproducidos, sin el permiso de la SECULT, previa opinión de la COTEPAC, en los casos en que aquélla lo considere necesario.
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-Los bienes de dominio público tendrán el carácter de imprescriptibles e inembargables, por lo que no estarán sujetos a gravamen, afectación de dominio, acción reivindicatoria, de posesión definitiva o provisional alguna; salvo autorización expresa y para los fines establecidos en la presente Ley.
+Los propietarios de bienes muebles culturales, declarados como tales, son responsables de su salvaguarda, conservación, restauración, mantenimiento y de cualquier acción u omisión que vaya en contra de la conservación de los valores históricos, artísticos, de antigüedad, originalidad o cualquier otro considerado relevante en el bien inscrito en el Registro Estatal del Patrimonio Cultural.
 
-Los particulares podrán disfrutar de su aprovechamiento con las restricciones de Ley y para los casos de aprovechamientos especiales, se requerirá de autorización de la instancia competente, a través de concesión, comodato o cualquier forma legal procedente, en términos de lo dispuesto por los ordenamientos jurídicos aplicables.
+###### ARTICULO 11.
 
-Los actos por los que se constituyan o inscriban gravámenes sobre bienes de dominio público en contravención a lo dispuesto por el presente artículo, serán nulos de pleno derecho; el servidor público responsable será sancionado en términos de lo dispuesto por la Ley de Responsabilidades Administrativas para el Estado de Chiapas.
+Cualquier intervención que se pretenda realizar en los bienes considerados como patrimonio cultural en el Estado, deberá obtener previamente la aprobación de la SECULT, y en su caso, de las autoridades competentes.
 
-###### Artículo 11.
+## TITULO SEGUNDO. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
-Se consideran bienes de dominio público:
+### CAPITULO UNICO
 
-I. Los bienes de uso común.
+###### ARTICULO 12.
 
-II. Las aguas, sus cauces y vasos de lagos que no pertenezcan a la Federación.
+La aplicación de la presente Ley corresponde a:
 
-III. Los caminos, carreteras, calzadas y puentes ubicados dentro del territorio del Estado, que no pertenezcan a la Federación o a los Municipios.
+I. El titular del Ejecutivo del Estado;
 
-IV. Los canales, zanjas y acueductos construidos o adquiridos por el Estado para la irrigación, navegación u otros usos.
+II. SECULT;
 
-V. Los montes y bosques que no sean propiedad de la Federación, Municipio o particulares, y que por disposición oficial se destinen a fines públicos.
+III. SEDUVOP, y
 
-VI. Los inmuebles destinados por el Estado a un servicio público y los equiparados a éstos conforme a la Ley.
+IV. Ayuntamientos.
 
-VII. Los bienes expropiados por causa de utilidad pública.
+###### ARTICULO 13.
 
-VIII. Los bienes que hayan formado parte del patrimonio de las (sic) Organismos que se extingan, disuelvan o liquiden; tratándose de Empresas de Participación Estatal en la parte proporcional que le corresponda al Estado.
+Para efectos de esta Ley, el titular del Ejecutivo Estatal tendrá las siguientes atribuciones:
 
-IX. Las pinturas, murales, esculturas y cualquier obra artística incorporada o adherida permanentemente a los inmuebles del Estado.
+I. Establecer las políticas y programas en materia de protección del patrimonio cultural;
 
-X. Los muebles que por su naturaleza no sean sustituibles, como expedientes, manuscritos, ediciones, libros, documentos, publicaciones, mapas, planos, folletos, gravados importantes o raros; las piezas etnológicas y paleontológicas; los especímenes tipo de la flora y de la fauna, las colecciones científicas o técnicas, los documentos de archivo que tengan el carácter de patrimonio documental del Estado o monumentos históricos, las fonograbaciones, películas, archivos fotográficos, magnéticos o informáticos, cintas magnetofónicas y cualquier otro objeto que contenga imágenes y sonido, así como las piezas históricas y artísticas que obren en posesión de la Administración Centralizada y Paraestatal y que se hayan adquirido con recursos del Erario Estatal o por cualquier medio legal.
+II. Emitir y revocar las declaratorias estatales de patrimonio cultural;
 
-XI. Los demás que sean dotados de esa naturaleza, por las disposiciones jurídicas aplicables.
+III. Dictar las medidas provisionales que sean necesarias en casos urgentes, en que se encuentre en riesgo el patrimonio cultural del Estado, dando aviso a las autoridades competentes de conformidad con la Ley Federal;
 
-## Título Segundo. De los Organismos Intervinientes en Materia Patrimonial
+IV. Designar al Coordinador de la COTEPAC;
 
-### Capítulo II. De los Bienes de Dominio Público y Privado
+V. Proteger en coordinación con las autoridades indígenas comunitarias, la libre expresión, manifestación cultural indígena, los sitios sagrados, el respeto a sus usos, costumbres tradicionales, así como instrumentar los programas y estrategias necesarias para apoyar la investigación, promoción, permanencia y difusión del patrimonio cultural indígena del Estado;
 
-###### Artículo 8.
+VI. Ordenar la publicación en el Periódico Oficial del Estado, de las declaratorias estatales del patrimonio cultural; así como su inscripción en el Registro Estatal del Patrimonio Cultural;
 
-El Patrimonio del Gobierno del Estado, se integra por el conjunto de bienes, derechos, aprovechamientos, ingresos, productos, recursos e inversiones que de forma directa o indirecta son utilizados por la Administración Pública Estatal y los Entes Públicos para la prestación de servicios públicos y el cumplimiento de sus atribuciones mediante la realización de sus objetivos y finalidades.
+VII. Promover que los ayuntamientos en sus iniciativas de leyes de ingresos del ejercicio fiscal correspondiente, establezcan estímulos fiscales para los titulares, propietarios o poseedores de bienes que estén declarados e inscritos en el Registro Estatal del Patrimonio Cultural, siempre y cuando cumplan con lo estipulado en esta Ley, con el fin de que los mantengan conservados y en su caso los restauren;
 
-###### Artículo 9.
+VIII. Promover en coordinación con las autoridades competentes, la Declaratoria de Patrimonio Cultural de la Humanidad de los bienes de patrimonio cultural en el Estado, que cubran los requisitos necesarios para tal efecto, y
 
-Para efectos de la presente Ley, el Patrimonio del Gobierno del Estado, se compone de:
+IX. Las demás que le señalen otras disposiciones legales aplicables.
 
-I. Bienes de dominio público.
+###### ARTICULO 14.
 
-II. Bienes de dominio privado.
+Para efectos de la presente Ley, la SECULT tendrá las siguientes atribuciones:
 
-###### Artículo 12.
+I. Aplicar las políticas y programas que en materia de protección del patrimonio cultural, establezca el titular del Ejecutivo del Estado;
 
-Los Bienes Inmuebles destinados a un servicio público a que se refiere la fracción VI del artículo anterior, son todos aquellos que están afectos a satisfacer las necesidades de la población, entre otros, los siguientes:
+II. Dictaminar técnicamente con base en las opiniones que le presente la COTEPAC, en materia de patrimonio cultural;
 
-I. Los utilizados directamente en los servicios públicos a cargo del Poder Ejecutivo del Estado.
+III. Proponer al titular del Ejecutivo del Estado, las declaratorias del patrimonio cultural;
 
-II. Los inmuebles estatales, otorgados en comodato o arrendamiento.
+IV. Diseñar, promover y ejecutar en su caso, los programas y acciones tendientes al rescate, la conservación de las costumbres, tradiciones y expresiones autóctonas;
 
-III. Los bienes adquiridos por expropiación a favor del Estado, una vez que sean destinados a un servicio público, o alguna de las actividades que se equiparen a los servicios públicos o que de hecho se utilicen para tales fines.
+V. Promover el establecimiento de centros de cultura estatal, regionales y municipales, que tengan entre sus objetivos la protección del patrimonio cultural;
 
-IV. Los adquiridos por prescripción positiva.
+VI. Proponer la celebración de convenios entre Gobierno del Estado, otras entidades de la República y organismos nacionales e internacionales, respecto a la protección del patrimonio cultural;
 
-V. Los establecimientos de instrucción pública o de asistencia social o cultural, construidos y sostenidos con fondos del Erario Estatal, siempre que no hayan sido desincorporados del Estado.
+VII. Llevar el control del Registro Estatal del Patrimonio Cultural;
 
-VI. Los bienes previstos en la Ley de Protección de Monumentos y Sitios del Estado de Chiapas.
+VIII. Otorgar permisos para que los bienes muebles culturales pertenecientes al patrimonio cultural del Estado, puedan ser transportados, exhibidos, comercializados o intervenidos para su conservación, restauración o reproducción;
 
-VII. Los Bienes Muebles incorporados o adheridos a Bienes Inmuebles del dominio público propiedad Estatal.
+IX. Determinar y aplicar las sanciones administrativas y pecuniarias que se deriven de la presente Ley;
 
-VIII. Los centros penitenciarios y correccionales de menores, construidos dentro del territorio del Estado con recursos estatales.
+X. Promover ante las instancias federales, estatales y municipales correspondientes, la incorporación de mecanismos y procedimientos que le permitan contar con recursos destinados a la ejecución de proyectos, acciones de protección y conservación del patrimonio cultural del Estado de San Luis Potosí;
 
-IX. Las servidumbres, cuando el predio dominante sea de dominio privado.
+XI. Instalar y supervisar el correcto funcionamiento de la COTEPAC;
 
-X. Cualquier Bien Inmueble del Estado declarado inalienable e imprescriptible por ministerio de ley, así como aquellos bienes declarados por el Congreso como monumentos históricos o arqueológicos.
+XII. Gestionar ante las autoridades competentes, los recursos financieros, materiales y humanos para el funcionamiento de la COTEPAC, así como para el cumplimiento de las demás obligaciones que se deriven de la presente Ley;
 
-XI. Los demás que por disposición de otros ordenamientos legales aplicables formen parte del Patrimonio del Gobierno del Estado a cargo del Poder Ejecutivo del Estado y cumplan con un servicio público, cultural o social.
+XIII. Establecer el otorgamiento de estímulos a las acciones que protejan y conserven el patrimonio cultural del Estado;
 
-###### Artículo 13.
+XIV. Intervenir de acuerdo a sus atribuciones, en los casos emergentes que pongan en riesgo los bienes que integran el patrimonio cultural en el Estado, y dar aviso en su caso a las autoridades competentes;
 
-Serán considerados bienes de dominio privado, el conjunto de Bienes Muebles, Inmuebles e Intangibles que integran el Patrimonio del Gobierno del Estado, que se encuentren en los siguientes supuestos:
+XV. Elaborar en coordinación con las autoridades federales, estatales y municipales competentes, los inventarios, catálogos y registros de acuerdo a las características de los bienes patrimoniales culturales considerados en la presente Ley;
 
-I. Bienes mostrencos y vacantes adjudicados por la autoridad judicial al Poder Ejecutivo del Estado y que se encuentren ubicados en el territorio del mismo.
+XVI. Elaborar en coordinación con las autoridades federales y estatales competentes, el glosario de los conceptos que normará el criterio técnico-científico para la nominación y definición de los bienes que integran el patrimonio cultural en el Estado;
 
-II. Bienes desafectados de un Servicio Público Estatal, que pasen al dominio privado del Poder Ejecutivo del Estado.
+XVII. Valuar el monto de los daños causados a los bienes que integran el patrimonio cultural en el Estado, en coordinación con la SEDUVOP, y
 
-III. Bienes desincorporados conforme a la Ley, aptos para su enajenación o gravamen.
+XVIII. Las demás que le señalen otras disposiciones legales aplicables.
 
-IV. Reservas territoriales propiedad del Estado, siempre que no se encuentren destinadas a un servicio público o se consideren áreas naturales protegidas.
+###### ARTICULO 15.
 
-V. Extensiones territoriales ubicadas dentro de los límites del territorio del Estado que no tengan dueño.
+Para efectos de esta Ley, la SEDUVOP tendrá las siguientes atribuciones:
 
-VI. Los demás bienes que por cualquier título jurídico o disposición de ley, adquiera o se consideren propios del Poder Ejecutivo del Estado y que sean susceptibles de enajenarse a los particulares.
+I. Promover, ejecutar y supervisar la realización de actividades que permitan presentar diagnósticos, emprender acciones de trabajo orientadas a la conservación y recuperación de los bienes inmuebles del patrimonio cultural, promoviendo la utilización de técnicas adecuadas de conservación, restauración y mantenimiento;
 
-###### Artículo 14.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
 
-Los bienes a que se refiere el artículo anterior, pasarán a formar parte del dominio público cuando sean destinados al uso común, a un servicio público o a alguna de las actividades que se equiparen a los servicios públicos.
+II. Coadyuvar con la inscripción en el Registro Público de la Propiedad, de las declaratorias que reconozcan la existencia de una zona o bienes inmuebles que formen parte del patrimonio cultural del Estado;
 
-###### Artículo 15.
+III. Participar en forma conjunta con los gobiernos federal, estatal y municipales en la elaboración, ejecución, control, evaluación, revisión de programas de vigilancia, protección, conservación, rescate y promoción del patrimonio cultural en el Estado;
 
-Corresponde al Poder Ejecutivo del Estado, a través del Instituto, el registro, incorporación, catálogo, inventario, control, administración, posesión, uso, conservación, mantenimiento, aprovechamiento, destino, enajenación, vigilancia, titulación, arrendamiento, desincorporación, afectación de sus Bienes Muebles, Inmuebles, Intangibles, o cualquier otro que, en su caso, sea transferido por Entes Públicos o particulares.
+IV. Coordinar sus actividades con los diferentes organismos y dependencias del sector, para apoyar en el ejercicio de aquellas funciones que tengan relación con la materia de protección del patrimonio cultural en el Estado, y
 
-###### Artículo 16.
+V. Las demás que le señalen las disposiciones legales aplicables.
 
-El Instituto es el organismo especializado en la materia, encargado de administrar el registro patrimonial, así como de la incorporación, catálogo, inventario, control, administración, posesión, uso, conservación, mantenimiento, aprovechamiento, destino, enajenación, vigilancia, titulación, arrendamiento, desincorporación y afectación de los bienes pertenecientes al patrimonio a cargo del Poder Ejecutivo del Estado, o cualquier otro bien que le transfieran Entes Públicos o particulares; conforme a las atribuciones que le son conferidas en la presente Ley, en el Decreto por el que se crea el Instituto del Patrimonio del Estado, el Reglamento y demás normatividad jurídica o administrativa aplicable.
+###### ARTICULO 16.
 
-Asimismo, es el encargado de generar, administrar, mantener y custodiar el Sistema de Control Patrimonial del Poder Ejecutivo del Estado; y en su caso, previa autorización de sus titulares, recabar la información patrimonial de los Entes Públicos, a efecto de generar un Inventario Patrimonial del Gobierno del Estado, con el objeto de mantener actualizados los registros y valores.
+Para efectos de la presente Ley, el ayuntamiento tendrá las siguientes atribuciones:
 
-## Título Tercero. De los Entes Públicos
+I. Coadyuvar con las autoridades federales y estatales, en las acciones de vigilancia, salvaguarda, protección y difusión del patrimonio cultural en el Estado;
 
-### Capítulo Único. Del Instituto del Patrimonio del Estado y sus Atribuciones
+II. Presentar sus propuestas de declaratorias de patrimonio cultural en el Estado, a la SECULT;
 
-###### Artículo 17.
+III. Realizar obras para que quede oculta la existencia de líneas o hilos telegráficos, telefónicos o conductores eléctricos, transformadores, postes, antenas, tinacos o depósitos de agua, que pongan en riesgo la conservación y salvaguarda, o contaminen visualmente un bien considerado patrimonio cultural en el Estado, previa autorización de las autoridades federales competentes en la materia;
 
-El Instituto, en materia patrimonial, ejercerá a través del Director General, las siguientes atribuciones:
+IV. Realizar trabajos de retiro, demolición o modificación de construcciones, inclusive anuncios, avisos, carteles, templetes, instalaciones diversas o cualesquiera otras, a costa del propio infractor cuando éste sea acreedor a esa sanción y se niegue a realizarlos, previa autorización de la autoridad competente en su caso;
 
-I. Suscribir y formalizar, en representación del Titular del Poder Ejecutivo del Estado, los actos jurídicos relativos a la adquisición e incorporación de Bienes Muebles, Inmuebles e Intangibles.
+V. Establecer en sus iniciativas de leyes de ingresos del ejercicio fiscal correspondiente, estímulos fiscales para los titulares, propietarios o poseedores de bienes que estén declarados e inscritos en el Registro Estatal del Patrimonio Cultural, que cumplan con lo estipulado en esta Ley, para que los mantengan conservados y en su caso los restauren;
 
-II. Suscribir y formalizar los actos jurídicos relativos al uso o asignación temporal de Bienes Muebles, Inmuebles e Intangibles.
+VI. Ordenar y ejecutar la suspensión provisional de las obras que pongan en riesgo bienes que integren el patrimonio cultural en el Estado, en auxilio de la autoridad competente;
 
-III. Promover la recuperación administrativa o judicial de los bienes estatales que hayan sido asignados temporalmente a los Destinatarios, cuando exista incumplimiento de las condiciones señaladas en los contratos de comodato conforme a su Ley y su Reglamento.
+VII. Expedir licencias a los propietarios que pretendan realizar cualquier intervención en los bienes inmuebles culturales, así como a los colindantes de éstos, previa aprobación de las autoridades competentes, y
 
-IV. Vigilar el uso y aprovechamiento de los Bienes Inmuebles donados por el Estado, y en caso de incumplimiento al objeto de la desincorporación, promover el procedimiento de reversión, conforme a lo establecido en la Ley, el Reglamento y demás disposiciones jurídicas o administrativas aplicables.
+VIII. Las demás que emanen de las disposiciones legales aplicables.
 
-V. Iniciar por sí o por autoridad competente el procedimiento de cancelación, revocación o nulidad en la vía administrativa de los acuerdos, contratos, convenios, permisos o autorizaciones que en contravención a la Ley, o mediante dolo, error, mala fe, violencia, o negligencia, se hayan emitido y que perjudiquen o restrinjan los derechos sobre los bienes del dominio público, siempre que no se encuentre previsto el procedimiento en legislación específica.
+## TITULO TERCERO. DE LA COTEPAC Y DE LOS ORGANISMOS AUXILIARES
 
-VI. Presentar denuncias o demandas ante las autoridades competentes, cuando exista incumplimiento de requerimientos formulados en torno al uso de los bienes, así como solicitar la aplicación de sanciones y penas que al efecto puedan originarse.
+### CAPITULO I. Creación, Integración y Funcionamiento de la COTEPAC
 
-VII. Suscribir, convenios de coordinación y/o concertación con instituciones públicas de los tres Órdenes de Gobierno, así como con particulares, con la finalidad de sumar esfuerzos para la realización de acciones que en materia inmobiliaria se encuentren a su cargo.
+###### ARTICULO 17.
 
-VIII. Solicitar el auxilio de la fuerza pública, previo a realizar cualquier procedimiento jurisdiccional cuando se trate de ocupaciones ilegales y daños a los Bienes Inmuebles que formen parte del Patrimonio del Ejecutivo.
+Se crea la Coordinación Técnica Estatal de Protección del Patrimonio Cultural, como órgano desconcentrado de la SECULT. La COTEPAC tendrá su domicilio en la ciudad de San Luis Potosí, pudiendo establecer oficinas de apoyo en el interior del Estado.
 
-IX. Exigir el cumplimiento del pago del impuesto predial de los inmuebles que integren el Patrimonio del Ejecutivo, cuando por su naturaleza, la Ley así lo determine.
+###### ARTICULO 18.
 
-X. Fungir como presidente de la Comisión Interinstitucional para la Adquisición de Terrenos y Bienes distintos necesarios para la Obra de Infraestructura o Liberación de Derecho de Vía.
+La COTEPAC tendrá las siguientes atribuciones:
 
-XI. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Titular del Poder Ejecutivo del Estado y la Junta de Gobierno, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+I. Opinar sobre los asuntos que se presenten en los diversos grupos de trabajo, en materia de patrimonio cultural;
 
-###### Artículo 18.
+II. Emitir opiniones de protección al patrimonio cultural, como organismo de coordinación y coadyuvancia, cuando el INAH, el INBA y las demás autoridades federales competentes así lo soliciten;
 
-Son atribuciones de los Entes Públicos en materia patrimonial, las siguientes:
+III. Proponer la elaboración de instrumentos legales técnicos, que tiendan a la protección del patrimonio cultural en el Estado, tales como: reglamentos de conservación, declaratorias, planes de manejo, programas y proyectos, entre otros;
 
-I. Adquirir y administrar bienes con cargo al presupuesto de egresos que tuvieren autorizado o recibirlos en donación, así como asignarlos al servicio de sus órganos.
+IV. Proponer la gestoría de los recursos económicos, materiales y humanos necesarios, para la ejecución de las acciones contempladas en la fracción anterior, y aquellas encaminadas al cumplimiento de sus fines;
 
-II. Enajenar, disponer u otorgar el dominio de los Bienes Inmuebles, previa desincorporación del régimen de dominio público, mediante el acuerdo que para tal efecto emitan su órgano de máxima autoridad.
+V. Informar a las autoridades competentes en los casos emergentes, que pongan en riesgo los bienes que integran el patrimonio cultural en el Estado;
 
-III. Emitir la normatividad jurídica o administrativa necesaria a efecto de ejecutar los procedimientos referidos en las fracciones I y II del presente artículo.
+VI. Promover la investigación tendiente al conocimiento del patrimonio cultural en el Estado, así como la publicación, promoción y difusión de los resultados de las investigaciones realizadas;
 
-IV. Registrar el Alta y Baja de sus bienes en sus sistemas de control patrimonial, y en su caso, previa autorización de los titulares, compartir y remitir la información con el Instituto, a efecto de integrar el Inventario Patrimonial del Gobierno del Estado.
+VII. Proponer ante la autoridad federal, estatal y municipal la elaboración de inventarios, catálogos y registros, de acuerdo a las características de los bienes patrimoniales culturales considerados en la presente Ley;
 
-V. Emitir los lineamientos correspondientes para la construcción, reconstrucción, adaptación, conservación, mantenimiento y aprovechamiento de los Bienes Inmuebles.
+VIII. Proponer conceptos que normen el criterio técnico-científico para la nominación y definición de los bienes que integran el patrimonio cultural en el Estado;
 
-VI. Conformar su respectivo inventario y centro de documentación e información relativas a los bienes de su propiedad.
+IX. Promover actividades de difusión del patrimonio cultural en el Estado, encaminadas hacia la sociedad civil, fundamentalmente en los espacios educativos, culturales y turísticos;
 
-VII. Actualizar la información documental y digital susceptible de registrar en los sistemas de control patrimonial.
+X. Promover la multidisciplinariedad en los grupos de trabajo, que generen planes y programas orientados a la conservación integral y científica del patrimonio cultural en el Estado, y
 
-VIII. Las demás que les sean conferidas por la presente Ley y demás normatividad jurídica o administrativa aplicable.
+XI. Las demás que emanen de las disposiciones legales aplicables.
 
-###### Artículo 19.
+###### ARTICULO 19.
 
-Los bienes al servicio de los Entes Públicos, sin perjuicio de lo previsto por la presente Ley, se regirán por los reglamentos que al respecto emitan.
+La COTEPAC estará integrada por:
 
-###### Artículo 20.
+I. Un Coordinador General;
 
-El Instituto podrá tener acceso al padrón de bienes que integran el patrimonio de los Entes Públicos, previa autorización de sus titulares, con el objeto de generar y mantener registros y valores actualizados del Inventario Patrimonial del Gobierno del Estado, a efecto de establecer un control sobre la información patrimonial, sin intervenir en las funciones y naturaleza jurídico administrativa de los Entes Públicos.
+II. Un Secretario;
 
-###### Artículo 21.
+III. Un representante técnico de las siguientes dependencias e instituciones que tendrán el carácter de vocales:
 
-Los Entes Públicos, deberán registrar en sus sistemas de control patrimonial, el padrón de Bienes Muebles, Inmuebles e Intangibles que integran su patrimonio y todos aquellos bienes que sean adquiridos. Los registros contables de sus bienes patrimoniales permanecerán en sus estados financieros. En tal sentido, previa autorización de sus titulares, podrán enviar la información de sus sistemas de control patrimonial al Instituto, a efecto de integrar el Inventario Patrimonial del Gobierno del Estado.
+a) SECULT.
 
-###### Artículo 22.
+b) SEDUVOP.
 
-Los Entes Públicos integrarán la información y respaldo documental a través de medios electrónicos, para el registro de la situación física, antecedentes jurídicos, registrales y administrativos, así como de la evolución del bien, registrando la información en su sistema de control patrimonial.
+c) SEGE.
 
-###### Artículo 23.
+d) Secretaría de Ecología y Gestión Ambiental.
 
-Una vez inscrito en su sistema de control patrimonial, previa autorización de sus titulares, los Entes Públicos podrán informar por oficio dirigido al Instituto, cualquier modificación a su patrimonio, haciendo del conocimiento las altas o bajas que realicen de los bienes bajo su administración; debiendo, en su caso, notificar en un período no mayor a treinta días hábiles al Instituto, a fin de que dichas modificaciones sean capturadas, procesadas y almacenadas en el inventario de bienes de Gobierno del Estado.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-###### Artículo 24.
+e) INDEPI.
 
-En términos de lo establecido en el presente Capítulo, el Instituto podrá solicitar la documentación e información necesaria para integrar el Inventario Patrimonial del Gobierno del Estado, relacionada con:
+f) La Universidad Autónoma de San Luis Potosí.
 
-I. El inventario del patrimonio mobiliario, inmobiliario e intangible, constituido por una base de datos relativos a los Bienes Muebles, Inmuebles e Intangibles, especificando uso y destino.
+g) (DEROGADO, P.O. 22 DE MARZO DE 2018)
 
-II. El catastro del patrimonio inmobiliario, constituido por los medios gráficos para la plena identificación física de los inmuebles, incluyendo planos, fotografías, video grabaciones y cualquier otro que permita su identificación.
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-###### Artículo 25.
+h) SECTUR.
 
-Los Bienes Muebles dados de Baja por los Entes Públicos, previa autorización de sus titulares, podrán ser puestos a disposición del Instituto, a través del procedimiento que tenga a bien determinar y para los fines establecidos en la presente Ley.
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-###### Artículo 26.
+i) CEDH.
 
-Los Entes Públicos serán los responsables del aseguramiento de los Bienes Inmuebles, Muebles e Intangibles de su propiedad y de mantener una adecuada administración, ejecutando las altas y bajas que se requieran en sus sistemas de control patrimonial, así como en sus registros contables.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-###### Artículo 27.
+###### ARTICULO 20.
 
-Los Entes Públicos establecerán de conformidad con su normatividad específica las disposiciones que regularán los actos de adquisición, administración, enajenación y control de los bienes que integran su patrimonio, en apego a los lineamientos y normativas establecidas en la presente Ley y demás disposiciones aplicables, para los efectos correspondientes.
+Los integrantes de la COTEPAC tendrán nombramiento honorífico.
 
-###### Artículo 28.
+###### ARTICULO 21.
 
-El registro y control implementado por el Instituto para la unificación de un padrón único de bienes del Poder Ejecutivo del Estado, se encuentra integrado por una sistematización de documentos e información que determina la situación física, antecedentes jurídicos, registrales y administrativos de los bienes registrados, a través de un sistema informático.
+Se deberá invitar a las sesiones de la COTEPAC a las instituciones públicas y organismos auxiliares afines a la protección del patrimonio cultural, las cuales tendrán voz, pero no voto.
 
-El Sistema de Control Patrimonial, será administrado por el Instituto, mismo que se encargará de recopilar y actualizar la información relacionada con el registro de los bienes del Poder Ejecutivo del Estado.
+###### ARTICULO 22.
 
-###### Artículo 29.
+La COTEPAC estará presidida por el Coordinador General; sesionará de manera ordinaria por lo menos cuatro veces al año, y extraordinaria cuando así lo requiera. Las decisiones se tomarán por mayoría de votos de los presentes, teniendo el Coordinador voto de calidad en caso de empate.
 
-La Administración Pública Estatal, informará mediante escrito dirigido al Instituto, cualquier modificación a su patrimonio, haciendo del conocimiento sobre las altas o bajas que realicen de los bienes bajo su administración, uso o aprovechamiento; debiendo notificar en un período no mayor a treinta días hábiles, a fin de que dichas modificaciones sean capturadas, procesadas y almacenadas en el Sistema de Control Patrimonial.
+###### ARTICULO 23.
 
-En caso de incumplimiento, el responsable será sujeto a las sanciones establecidas en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas y demás disposiciones aplicables.
+La COTEPAC funcionará a través de grupos de trabajo en las siguientes áreas:
 
-### Capítulo I. De sus Atribuciones
+I. Bienes muebles culturales;
 
-###### Artículo 30.
+II. Bienes inmuebles culturales;
 
-El Instituto podrá solicitar a la Administración Pública Estatal, la documentación e información necesaria para integrar lo siguiente:
+III. Zonas de protección del patrimonio cultural y natural;
 
-I. El inventario del patrimonio inmobiliario del Estado, constituido por una base de datos relativos a los inmuebles, especificando uso y destino.
+IV. Patrimonio documental histórico, y
 
-II. El catastro del patrimonio inmobiliario, constituido por los medios gráficos para la plena identificación física de los inmuebles, incluyendo planos, fotografías, video grabaciones y cualquier otro que permita su identificación.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2019)</small>
 
-III. Los antecedentes registrales, que le proporcione el Registro Público de la Propiedad y del Comercio, derivado del conjunto de libros, folios u otros medios de captura, almacenamiento y procesamiento de los datos relativos a los documentos que acrediten derechos reales y personales sobre los inmuebles, así como por el primer testimonio u original de los mencionados documentos.
+V. Patrimonio cultural inmaterial.
 
-IV. El archivo del patrimonio inmobiliario, que estará constituido por el conjunto de expedientes que contienen los documentos originales e información relativos a inmuebles.
+###### ARTICULO 24.
 
-###### Artículo 31.
+Los grupos de trabajo tendrán a su cargo la emisión de la opinión técnica sobre los asuntos que le sean turnados, y en los cuales fundamentará la COTEPAC su opinión correspondiente.
 
-La Administración Pública Estatal deberá remitir al Instituto la información relacionada con el registro de sus Bienes Inmuebles.
+Los integrantes de los grupos de trabajo tendrán nombramiento de carácter honorífico.
 
-Para tales efectos, los integrantes de la Administración Pública Estatal remitirán copia certificada de los documentos que acrediten la propiedad de sus bienes; croquis de ubicación y demás documentos que contengan los expedientes técnicos; en caso de enajenarse, deberán remitir copia de la autorización del órgano de gobierno y de las escrituras correspondientes; fotografías; plano topográfico; pago predial; en términos de lo dispuesto por la normatividad aplicable.
+###### ARTICULO 25.
 
-## Título Cuarto. Del Sistema de Control Patrimonial
+Los grupos de trabajo de la COTEPAC deberán integrarse con expertos, especialistas o conocedores que posean una trayectoria en la materia que corresponda a dicho grupo. Los miembros serán designados por la COTEPAC, y deberán contar con una experiencia mínima de cinco años en el área de trabajo que los ocupe.
 
-### Capítulo II. De las Obligaciones de los Entes Públicos en Materia Patrimonial
+###### ARTICULO 26.
 
-###### Artículo 32.
+En el grupo de trabajo en donde aborden asuntos del patrimonio cultural relativo a los pueblos o comunidades indígenas, Teének, Nahuas, Xi´oi o Pames, y Wirrarika o Huicholes, deberá incluirse a representantes de los mismos, según el asunto a tratar.
 
-Para el Alta de Bienes Muebles e Intangibles en el Sistema de Control Patrimonial, se deberá cumplir con lo establecido en la presente Ley y su Reglamento; así como las disposiciones que en su caso emita el Instituto.
+###### ARTICULO 27.
 
-###### Artículo 33.
+El Coordinador General de la COTEPAC será designado por el titular del Ejecutivo del Estado; deberá ser un profesionista con experiencia mínima de cinco años en alguna de las ramas de cultura, quien durará en su cargo tres años, no pudiendo ocupar éste por más de dos períodos consecutivos; y tendrá las siguientes facultades:
 
-Los Bienes Inmuebles de la Administración Pública Estatal así como de los Entes Públicos, se regirán por esta Ley, con excepción de sus aprovechamientos accidentales o accesorios compatibles o complementarios, los cuales se regirán por el Código Civil para el Estado de Chiapas.
+I. Presidir las sesiones de la COTEPAC;
 
-Los derechos de tránsito, de vista, de luz, de derrames y otros semejantes que se ejerzan sobre dichos bienes, se regirán exclusivamente por las leyes, reglamentos y demás disposiciones administrativas aplicables.
+II. Suscribir los documentos necesarios para el cumplimiento de los fines de la COTEPAC;
 
-###### Artículo 34.
+III. Presentar al titular de la SECULT, las opiniones emitidas por la COTEPAC que propongan declaratorias de patrimonio cultural, para su trámite correspondiente;
 
-Los permisos y autorizaciones sobre bienes sujetos al régimen de dominio público Estatal, no crean derechos reales; otorgan simplemente la administración, el derecho a realizar los usos, aprovechamientos o explotaciones de acuerdo con las reglas y condiciones que establezcan las leyes, el permiso, autorización o convenio correspondiente.
+IV. Conformar la estructura operativa que se requiera para la realización y cumplimiento de sus atribuciones, y
 
-###### Artículo 35.
+V. Las demás que le marquen las disposiciones legales aplicables en la materia.
 
-Todos los actos ejecutados en contravención de la presente Ley y su Reglamento serán nulos de pleno derecho e implicarán responsabilidad administrativa y/o penal para quienes los promuevan, efectúen y consientan.
+###### ARTICULO 28.
 
-###### Artículo 36.
+El Secretario de la COTEPAC será designado por el Coordinador General de la misma, y tendrá las siguientes facultades:
 
-Las autoridades judiciales informarán al Poder Ejecutivo del Estado, a través del Instituto, el inicio de cualquier juicio o procedimiento sobre Bienes Inmuebles que se presuman sean del dominio público del Estado.
+I. Convocar por instrucciones del Coordinador General, a las sesiones de la COTEPAC;
 
-###### Artículo 37.
+II. Elaborar las minutas de las sesiones que lleve a cabo la COTEPAC;
 
-La conservación y mantenimiento de las áreas de uso común de los Bienes Inmuebles cuando existan diversas instituciones públicas en una Unidad Administrativa, se ejecutará conforme al programa que para cada caso concreto formule el Instituto, con la participación de los representantes de las instituciones ocupantes.
+III. Asistir a las reuniones de la COTEPAC, y
 
-###### Artículo 38.
+IV. Las demás que le confiera la COTEPAC para el cumplimiento de sus funciones.
 
-El Poder Ejecutivo del Estado podrá adquirir toda clase de Bienes Inmuebles, a través de las siguientes figuras jurídicas:
+###### ARTICULO 29.
 
-I. Derecho público:
+Las funciones de los vocales que integran la COTEPAC, serán las que les asigne la asamblea de la misma.
 
-a) Expropiación por causa de utilidad pública.
+### CAPITULO II. De los Organismos Auxiliares en Materia de Protección del Patrimonio Cultural
 
-b) Adjudicación judicial de los bienes mostrencos o vacantes.
+###### ARTICULO 30.
 
-c) Adjudicación directa.
+El titular del Ejecutivo del Estado, a través de la SECULT, podrá autorizar a solicitud expresa de los organismos auxiliares, cuyo objeto esencial sea la protección al patrimonio cultural en el Estado, que coadyuven con las autoridades encargadas de aplicar la presente Ley, con el propósito de fomentar la solidaridad y corresponsabilidad de la ciudadanía potosina, para su protección, conservación y salvaguarda.
 
-d) Adjudicación administrativa por concepto de dación en pago de bienes asegurados o decomisados.
+Asimismo, el Ejecutivo del Estado promoverá la creación de organismos de participación ciudadana, integrados por un presidente, un secretario y vocales representantes de los diferentes sectores de la sociedad civil; su función esencial consistirá en vigilar el cumplimiento de los programas estatales y municipales en materia de protección del patrimonio cultural.
 
-e) Reversión.
+Estas organizaciones deberán constituirse y actuar en concordancia con la legislación aplicable.
 
-f) Subasta pública.
+###### ARTICULO 31.
 
-Las modalidades previstas en los incisos a), b) y d) se regirán por la legislación aplicable.
+Los organismos auxiliares tendrán de manera enunciativa las siguientes funciones:
 
-II. Derecho privado:
+I. Coadyuvar con las autoridades competentes en la protección, difusión, conservación y rescate del patrimonio cultural en el Estado;
 
-a) Compraventa.
+II. Proponer los lineamientos para el establecimiento de políticas generales en materia de protección al patrimonio cultural;
 
-b) Permuta.
+III. Sugerir la implementación de programas y acciones para la protección al patrimonio cultural;
 
-c) Donaciones gratuitas.
+IV. Cuidar los bienes muebles o inmuebles que les sean asignados para su custodia por la autoridad competente;
 
-d) Herencias y legados.
+V. Elaborar propuestas de modificaciones a leyes y reglamentos en materia de protección al patrimonio cultural;
 
-e) Dación en pago o pago en especie derivado de adeudos pendientes de liquidar por personas físicas o morales.
+VI. Concientizar a la sociedad sobre la importancia de preservar y conservar el patrimonio cultural, así como prevenir la comisión de delitos que vayan en detrimento de éste;
 
-Los Organismos de la Administración Paraestatal, podrán adquirir por si mismos el dominio de los Bienes Inmuebles necesarios para la realización de su objeto o fines. Asimismo, podrán realizar cualquier acto jurídico sobre Bienes Inmuebles de su propiedad, previa autorización de su órgano de gobierno, en términos de la Ley de Entidades Paraestatales del Estado de Chiapas y demás normatividad aplicable; al efecto deberán informar las altas y bajas al Instituto, con la finalidad de mantener actualizado su registro en el Sistema de Control Patrimonial.
+VII. Analizar los proyectos y estudios que en su caso se sometan a su consideración, y
 
-###### Artículo 39.
+VIII. Proponer reconocimientos o estímulos por méritos o acciones destacadas, para los miembros de las asociaciones civiles de protección al patrimonio cultural.
 
-Los procedimientos para la adquisición de Bienes Inmuebles, correspondientes a la Administración Centralizada, serán conducidos a través del Instituto, salvo los derivados de:
+## TITULO CUARTO. DE LAS DECLARATORIAS
 
-I. Expropiación.
+### CAPITULO UNICO
 
-II. Construcción de obra pública y de liberación del derecho de vía.
+###### ARTICULO 32.
 
-III. Promoción y fomento a la vivienda.
+Las propuestas de declaratorias podrán realizarlas de manera conjunta o independiente, las autoridades e instituciones estatales y municipales, los organismos auxiliares, así como los particulares.
 
-## Título Quinto. De los Bienes Inmuebles
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ABRIL DE 2020)</small>
 
-### Capítulo Único. De su Integración, Registro y Control
+Las propuestas de declaratoria deberán contener como mínimo los siguientes elementos:
 
-###### Artículo 40.
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2020)</small>
 
-Cuando la Administración Centralizada de acuerdo a sus proyectos requiera la adquisición de un bien inmueble, deberá presentar al Instituto la solicitud respectiva acompañada de los siguientes documentos:
+I. Nombre y domicilio del promovente;
 
-I. Información del bien inmueble que satisfaga sus necesidades, considerando las características del mismo.
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2020)</small>
 
-II. Constancia de uso del suelo.
+II. Fundamentación legal de la declaratoria;
 
-III. Constancia de disponibilidad presupuestaria y autorización de inversión.
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2020)</small>
 
-IV. Levantamientos topográficos, planos y cédulas de avalúos catastrales.
+III. Propietario o propietarios del bien en caso de existir;
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2020)</small>
 
-V. Dictamen de factibilidad de uso de suelo; para aquellos bienes inmuebles en los que se pretendan realizar acciones, servicios y todo tipo de obras.
+IV. Argumentación sobre el valor cultural y valor social del bien, incluyendo sus cualidades patrimoniales, materiales o inmateriales, según sea el caso, en los términos de las fracciones XIII y XIV del artículo 5° de esta Ley, y
 
-VI. Constancias de los títulos de propiedad, antecedentes registrales, certificados de libertad o gravamen.
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2020)</small>
 
-VII. Los demás que establezca el Reglamento, o sean requeridos por el Instituto.
+V. Impactos positivos de la declaratoria.
 
-###### Artículo 41.
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2020)</small>
 
-Para satisfacer las solicitudes de Bienes Inmuebles formuladas por la Administración Centralizada, el Instituto deberá:
+Además de lo anterior, los elementos previstos en el artículo 22 del Reglamento de esta Ley.
 
-I. Calendarizar los plazos para recibir solicitudes por escrito de los interesados, manifestando su interés en que se les asigne algún bien inmueble.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2018)</small>
 
-II. Fijar el plazo para que los interesados justifiquen su necesidad y acrediten la viabilidad de su proyecto.
+###### ARTÍCULO 33.
 
-III. Evaluar las solicitudes, atendiendo a las características de los Bienes Inmuebles solicitados y a la localización pretendida.
+Las propuestas a que se refiere el artículo anterior deberán ser presentadas ante la SECULT, misma que las turnará a la COTEPAC para su opinión correspondiente, y una vez que ésta se manifieste al respecto, la SECULT elaborará el proyecto de decreto administrativo, para someterlo a la consideración del titular del Ejecutivo del Estado.
 
-IV. Asignar a los solicitantes, en caso de considerarlo procedente, los Bienes Inmuebles estatales disponibles para el uso requerido.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2018)</small>
 
-### Capítulo I. Generalidades
+###### ARTÍCULO 34.
 
-###### Artículo 42.
+El titular del Ejecutivo Estatal tiene la facultad para decretar declaratorias de patrimonio cultural, sobre los bienes contemplados en el artículo 7° de esta Ley; y sólo el Ejecutivo tendrá la facultad de revocarlas.
 
-Los particulares, la Administración Pública Estatal y Entes Públicos, podrán adquirir el uso, aprovechamiento y explotación de los bienes sujetos al régimen de dominio público a cargo del Poder Ejecutivo del Estado, en apego a las disposiciones establecidas en esta Ley y demás disposiciones jurídicas o administrativas aplicables.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+###### ARTÍCULO 35.
 
-###### Artículo 43.
+El titular del Ejecutivo del Estado, mediante decreto, administrativo expedirá la declaratoria correspondiente, que deberá publicarse en el Periódico Oficial del Estado; asimismo, lo notificará en forma personal al interesado o solicitante; a los organismos responsables de su cuidado; y a los posibles afectados que tengan interés jurídico. En caso de ignorarse nombre o domicilio de éstos últimos, surtirá efectos de notificación personal la citada publicación oficial.
 
-Cuando una Dependencia o Entidad de la Administración Pública Estatal, ejerza la posesión, control o administración a título de dueño sobre un bien inmueble del que no exista inscripción en el Registro Público de la Propiedad y del Comercio, deberá iniciar un procedimiento de adjudicación que consistirá en lo siguiente:
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2018)</small>
 
-I. Integrar un expediente técnico con la documentación correspondiente que acredite la posesión, control o administración del bien inmueble.
+###### ARTÍCULO 36.
 
-II. Emitir un acuerdo administrativo mediante el cual se acredite la posesión, control o administración del bien inmueble a título de dueño; que su naturaleza es de uso común o está destinado a un servicio público; asimismo deberá contener los datos referentes a su ubicación, denominación si la tuviere, uso actual, superficie, medidas y colindancias, planos topográficos o de localización o carta catastral o ficha de datos catastral respectiva, y constancia de no inscripción en el Registro Público de la Propiedad y del Comercio, y la determinación del inicio del procedimiento de regularización; el cual quedará a disposición de los interesados.
+En el decreto administrativo se ordenará la inscripción de la declaratoria en el Registro Estatal del Patrimonio Cultural, a cargo de la SECULT y, en su caso, indicarse su asociación con el bien inmueble a (sic) que pertenecen o pertenecieron.
 
-III. Publicar en el Periódico Oficial y en al menos dos diarios de mayor circulación estatal, el acuerdo administrativo referido en la fracción anterior, con la finalidad de que los propietarios o poseedores de los predios colindantes del inmueble y, en general, las personas que tengan interés jurídico, manifiesten lo que a su derecho convenga y aporten las pruebas pertinentes dentro de un plazo de quince días hábiles, contados a partir de la fecha de la publicación.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
 
-IV. Una vez transcurrido el plazo a que se refiere la fracción anterior, sin que se hubiese presentado oposición de parte interesada, el acuerdo administrativo quedará firme.
+###### ARTICULO 37.
 
-Finalizado el procedimiento antes referido, la Dependencia o Entidad de la Administración Pública Estatal, deberá remitir al Instituto las documentales que se señalan de la fracción I a la III del presente artículo, con el objeto de iniciar con los trámites para la expedición de la Declaratoria de Adjudicación correspondiente.
+La SECULT deberá solicitar al Director del Registro Público de la Propiedad, la inscripción de las declaratorias que se refieren a bienes inmuebles en la sección correspondiente; procediendo el registrador a realizar la anotación marginal en el libro de bienes inmuebles, a fin de destacar que el mismo está protegido por la presente Ley. Dicha anotación no implica que se afecten o transgredan los derechos de propiedad.
 
-El Director General del Instituto, previa autorización de la Junta de Gobierno, deberá expedir la Declaratoria de Adjudicación a nombre del Poder Ejecutivo del Estado, la cual será remitida a la Consejería para la validación correspondiente; dicha Declaratoria deberá publicarse en el Periódico Oficial y será inscrita en el Registro Público de la Propiedad y del Comercio.
+###### ARTICULO 38.
 
-La Declaratoria de Adjudicación será considerada documento idóneo para proceder a su registro en el Sistema de Control Patrimonial, así como para su registro contable.
+La revocación de las declaratorias se emitirá cuando el bien de que se trate deje de formar parte del patrimonio cultural en el Estado, en cumplimiento a una resolución emitida por autoridad competente.
 
-###### Artículo 44.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
 
-En caso de inconformidad al procedimiento de declaratoria de adjudicación, presentada dentro del plazo señalado en el artículo anterior, el Instituto, dentro de los quince días hábiles siguientes a la recepción del escrito que contenga dicha inconformidad, analizará las argumentaciones y motivaciones, valorará las documentales aportadas y emitirá una resolución determinando sobre la acreditación del interés jurídico, notificando el fallo correspondiente de manera personal y por escrito.
+###### ARTICULO 39.
 
-En caso de acreditarse el interés jurídico, el Instituto se abstendrá de continuar con el procedimiento, declarando su sobreseimiento, sin que ello sea impedimento para ejercer acción por la vía jurisdiccional.
+La revocación deberá ser expedida con un acto de la misma naturaleza jurídica con el que fue dictada la declaratoria, y además de publicarse en el Periódico Oficial del Estado, deberá ordenarse la cancelación de su inscripción, tanto en el Registro Estatal del Patrimonio Cultural, como en la anotación marginal en el Registro Público de la Propiedad, en su caso.
 
-### Capítulo II. De la Adquisición
+## TITULO QUINTO. DEL PATRIMONIO CULTURAL, SISTEMA ESTATAL DE DOCUMENTACION Y DEL REGISTRO ESTATAL DEL PATRIMONIO CUTURAL (SIC)
 
-###### Artículo 45.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MAYO DE 2019)</small>
 
-Los Bienes Inmuebles pertenecientes al Poder Ejecutivo del Estado, son para uso y beneficio de la Administración Pública Estatal; aquellas utilidades que provengan del uso, aprovechamiento y cualquier otro ingreso producto de los mismos ingresarán al Erario Estatal, conforme a los procedimientos establecidos por la Secretaría de Hacienda.
+### CAPITULO I. Del Patrimonio Cultural Material
 
-El Instituto, previa autorización de su Junta de Gobierno, podrá solicitar a la autoridad competente los recursos necesarios para el aseguramiento, mantenimiento y conservación, de los Bienes Inmuebles propiedad del Poder Ejecutivo del Estado que no se encuentren en uso, ni tengan asignados Destinatarios, quedando sujeta su asignación conforme a la naturaleza y atribuciones de los integrantes de la Administración Pública Estatal.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2019)</small>
 
-###### Artículo 46.
+###### ARTICULO 40.
 
-El Instituto tendrá a su cargo el Sistema de Control Patrimonial, que constituye una herramienta tecnológica mediante la cual se registran, controlan, vigilan y administran los bienes del Poder Ejecutivo del Estado, a su vez, será el instrumento de carácter administrativo interno, en el cual se inscribirán, los siguientes:
+Se considera patrimonio cultural material en el Estado, al conjunto de bienes materiales públicos y privados que se generan en una sociedad, en un tiempo y lugar determinados, ya sea por sus valores de documento histórico, significación social, características de expresión o simbolismo, de acuerdo a la Declaratoria Estatal o por determinación de esta Ley.
 
-I. Los títulos con los cuales se adquiera, transmita, modifique, grave o extinga el dominio, la posesión y los demás derechos correspondientes a los bienes de la Administración Pública Estatal.
+###### ARTICULO 41.
 
-II. Los contratos de arrendamiento y comodato de Bienes Inmuebles, con independencia de la vigencia fijada.
+Por determinación de esta Ley, el patrimonio cultural tangible en el Estado se integra por los siguientes bienes culturales:
 
-III. Las resoluciones de ocupación dictadas en los procedimientos judiciales.
+I. Bienes inmuebles culturales: todas las edificaciones o lugares que a continuación se describen:
 
-IV. Las resoluciones y sentencias definitivas pronunciadas en los procedimientos a que se refiere la fracción anterior.
+a) Sitios paleontológicos: las áreas territoriales que contengan restos fósiles, animales o vegetales, para el estudio y conocimiento de la prehistoria del Estado.
 
-V. Las informaciones ad-perpetuam o de dominio para justificar hechos o acreditar derechos tendientes a establecer la posesión como medio para adquirir posteriormente el dominio pleno de Bienes Inmuebles.
+b) Sitios prehispánicos: las áreas donde exista evidencia, producto de culturas anteriores al establecimiento de la hispánica en territorio estatal.
 
-VI. Las resoluciones judiciales o de árbitros que produzcan los efectos de adquisición, transmisión, modificación, gravamen o extinción sobre el dominio o posesión de los bienes de la Administración Pública Estatal.
+c) Sitios sagrados: los centros ceremoniales o los espacios que se consideren sacros para una cultura determinada, delimitados o señalados por elementos materiales, naturales o culturales, con excepción de los comprendidos en los incisos anteriores.
 
-VII. Los decretos que incorporen al dominio público o desincorporen de él, determinados bienes.
+d) Construcciones históricas: las edificaciones y trazas, urbanas o rurales, realizadas a partir de la llegada de la cultura hispánica, hasta el año de mil novecientos.
 
-VIII. Los demás títulos que, conforme a la Ley, deban ser registrados.
+e) Arquitectura contemporánea: la realizada desde el año mil novecientos uno hasta cincuenta años anteriores a la fecha que transcurre al momento de aplicación de esta Ley, que por sus características de representatividad, partido arquitectónico, técnica constructiva, expresión formal o significación social en el ámbito local, nacional o internacional, sean susceptibles de conservación y protección.
 
-En las inscripciones de los Bienes Inmuebles que realice la Administración Pública Estatal, se expresará su procedencia, naturaleza, ubicación y linderos, el nombre del inmueble si lo tuviere, su valor y las servidumbres que reporte tanto activas, como pasivas, así como sus referencias, con relación con los expedientes respectivos y los datos del Registro Público de la Propiedad y del Comercio.
+f) Arquitectura vernácula: la conforman los productos arquitectónicos urbanos o rurales cuyo partido arquitectónico, fabricación, materiales y expresión formal, se refieren a técnicas populares tradicionales que se adaptan a la situación climática, disponibilidad de materiales o costumbres sociales del sitio donde se asientan, dándose las soluciones arquitectónicas por parte de los propios usuarios.
 
-###### Artículo 47.
+Los bienes inmuebles culturales previstos en los incisos a), b) y d), son propiedad de la Nación, inalienables e imprescriptibles, y se regirán por lo previsto en el artículo 8º de esta Ley.
 
-Las inscripciones de los Bienes Inmuebles que realice Administración Pública Estatal, se cancelarán por las siguientes circunstancias:
+Los bienes inmuebles culturales señalados en los incisos d), e) y f), serán aquellos espacios de uso público y privado, para habitación, religioso, de administración pública, industrial, de producción, de infraestructura, de ornato, de educación, de servicios, o los especiales que se presenten;
 
-I. Por determinación judicial o administrativa que ordene su cancelación.
+II. Bienes muebles culturales: toda creación material que por sus características estéticas, de valor documental, temporalidad, significación social o histórica, constituyen un factor importante para el conocimiento de la historia del Estado, pudiendo o no estar vinculados a un bien inmueble cultural;
 
-II. Cuando se extinga el Bien Inmueble objeto de la inscripción.
+III. Sitios de protección del patrimonio cultural: el área urbana o rural susceptible de delimitación que comprende varios bienes culturales o naturales. Estos podrán incluir:
 
-III. Cuando se declare la nulidad del título de propiedad del Bien Inmueble por el que se haya realizado la inscripción.
+a) Sitios históricos: los lugares con características formales y espaciales unitarias, que conjuntan a dos o más bienes inmuebles culturales.
 
-En la cancelación de las inscripciones se asentarán los datos necesarios a fin de que se conozca con exactitud cuál es la inscripción que se cancela y la causa de la misma.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2019)</small>
 
-###### Artículo 48.
+b) Paisajes culturales: los espacios físicos determinados, que asocian dentro de su contexto aspectos naturales y culturales materiales o inmateriales, incluyendo las rutas o trayectos hacia un destino específico, generados por aspectos económicos, sociales, religiosos o de defensa del territorio;
 
-Los Bienes Inmuebles del Poder Ejecutivo del Estado administrados por el Instituto, podrán ser asignados temporalmente, de la siguiente manera:
+IV. Zonas de protección del patrimonio cultural: son los sitios de protección del patrimonio cultural, declarados como tales por el titular del Ejecutivo del Estado;
 
-I. Mediante contrato de arrendamiento.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
 
-II. Mediante contrato de comodato.
+V. Patrimonio documental histórico y cultural: los acervos de archivos documentales religiosos y civiles; los acervos de hemerotecas, mapotecas, videotecas, fonotecas y fototecas públicas; las colecciones de museos estatales y municipales; y aquellos documentos o ejemplares bibliográficos, litografías, manuscritos, digitales, magnéticos, fílmicos o fotográficos que tengan especial importancia para la historia del Estado y sus municipios;
 
-Ambas asignaciones deberán acompañarse de un Acta de Entrega-Recepción elaborada por el Instituto, en la que se haga constar la entrega física del Bien Inmueble y/o equipos, accesorios y en su caso, Bienes Muebles que sean utilizados para su funcionamiento.
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2019)</small>
 
-A falta de actualización de las asignaciones o al término de la vigencia de las mismas, los Destinatarios deberán elaborar Acta Entrega-Recepción en la que se haga constar el estado en el que se devuelven los bienes. En caso de existir deterioro que no corresponda al uso normal del bien, o no cumplir con las condiciones de devolución establecidas en el contrato respectivo, el Instituto, a través de la instancia correspondiente, deberá accionar las cláusulas de saneamiento, restitución o reparación de los bienes dañados.
+VI. Las obras literarias de gran significación cultural y social para el Estado, y
 
-Las Dependencias de la Administración Centralizada serán las responsables del aseguramiento, Alta, Baja, avalúo catastral, y demás acciones inherentes a la administración y uso de los Bienes Inmuebles que les hayan sido asignados temporal o definitivamente, sin perjuicio de las atribuciones y facultades que ejerce el Instituto sobre los mismos; asimismo, deberán realizar los registros contables que se deriven de dicho proceso.
+VII. Todos aquellos bienes culturales cuya conservación y salvaguarda representen un interés colectivo.
 
-Las asignaciones temporales y/o definitivas de los Bienes Inmuebles que realice el Instituto a la Administración Paraestatal, se regirá conforme a lo dispuesto en la Ley de Entidades Paraestatales del Estado de Chiapas, Ley General y demás ordenamientos que resulten aplicables.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MAYO DE 2019)</small>
 
-Un mismo bien inmueble podrá destinarse para el servicio prestado por distintas instituciones públicas, siempre que con ello se cumplan los requerimientos de dichas instituciones y se permita un uso adecuado del bien por parte de las mismas.
+### CAPITULO II. Del Patrimonio Cultural Inmaterial
 
-Los usos que se otorguen a los Bienes Inmuebles del Poder Ejecutivo del Estado, deberán ser compatibles con lo previsto en las disposiciones en materia de desarrollo urbano de la localidad en que se ubiquen, así como con el valor artístico o histórico que en su caso posean.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+###### ARTICULO 42.
 
-Los Destinatarios conforme a esta Ley, serán los responsables del aseguramiento de los Bienes Inmuebles que les sean asignados u otorgados.
+Se considera patrimonio cultural inmaterial, al conjunto de bienes inmateriales y bienes materiales temporales, que forman parte del quehacer cultural de una sociedad en un tiempo y espacio determinados, los cuales por sus valores de significación social, características de expresión y simbolismo, constituyen elementos de identificación y conocimiento de la sociedad de la cual emanaron, de acuerdo a la Declaratoria Estatal o por determinación de esta Ley.
 
-### Capítulo III. De la Administración
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2019)</small>
 
-###### Artículo 49.
+###### ARTICULO 43.
 
-Los Bienes Inmuebles de dominio privado, pertenecientes al Poder Ejecutivo del Estado, podrán otorgarse en comodato a personas físicas o morales.
+Por determinación de esta Ley, el patrimonio cultural inmaterial en el Estado se integra por:
 
-El Instituto podrá otorgar a los particulares derechos de uso o aprovechamiento sobre los Bienes Inmuebles mediante contrato de comodato, para la realización de actividades sociales o culturales, siempre que se acredite un beneficio para la sociedad.
+I. Ceremonias, fiestas, tradiciones y costumbres de carácter público;
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+II. Tradición oral;
 
-Los destinarios no podrán realizar actos de desincorporación, cambio de destino, uso, usuario, ni de explotación.
+III. Tradiciones gastronómicas;
 
-###### Artículo 50.
+IV. Técnica artesanal;
 
-Para resolver sobre el destino de un bien inmueble, el Instituto deberá tomar en cuenta, de manera enunciativa, no limitativa, lo siguiente:
+V. Música y danza tradicional, y
 
-I. Las características del bien.
+VI. Bienes etnológicos: el conjunto de conocimientos transmitidos generacionalmente, por los grupos indígenas que se asientan o transiten en el Estado de San Luis Potosí, tales como organización política o social, medicina tradicional, lenguaje, festividades, cosmovisión o religiosidad.
 
-II. El plano topográfico correspondiente.
+###### ARTICULO 44.
 
-III. La constancia de uso de suelo.
+El titular del Ejecutivo del Estado, a través de la SECULT, en coordinación con las autoridades indígenas comunitarias, protegerá la libre expresión, manifestación cultural indígena, los sitios sagrados y el respeto a sus formas de gobierno tradicional; e instrumentará los programas y estrategias necesarias para apoyar la investigación, promoción, permanencia y difusión del patrimonio indígena del Estado.
 
-IV. El uso para el que se requiere.
+### CAPITULO III. Del Sistema Estatal de Documentación Histórica y Cultural
 
-El Instituto normará los requisitos, plazos, catálogo de usos, densidad de ocupación y demás especificaciones para el destino de los Bienes Inmuebles, mismos que serán establecidos en el Reglamento de esta Ley y en la demás normatividad aplicable.
+###### ARTICULO 45.
 
-###### Artículo 51.
+La SECULT, con la colaboración de la COTEPAC y del Archivo Histórico del Estado, implementará la creación del Sistema Estatal de Documentación Histórica y Cultural; el cual tendrá por objeto establecer los mecanismos necesarios que permitan a los poderes del Estado, municipios, asociaciones religiosas, civiles o privadas, la conservación, adecuado manejo, clasificación, investigación, digitalización y difusión de los acervos documentales de valor histórico o cultural.
 
-Los Destinatarios, previa autorización del Instituto, podrán asignar y reasignar espacios de los Bienes Inmuebles que tengan destinados a favor de particulares, con los que hayan celebrado contratos de obra pública o de prestación de servicios, siempre que dichos espacios sean necesarios para su cumplimiento.
+###### ARTICULO 46.
 
-## Titulo Sexto. De los Bienes Muebles
+La conservación y buen estado del patrimonio documental histórico, estará bajo la responsabilidad de aquellas personas físicas o morales, cuyo manejo les ha sido encomendado por ministerio de ley o por razón de servicio, y deberán proveer las condiciones idóneas de almacenamiento, evitando todo posible daño o destrucción.
 
-### Capítulo IV. De las Obligaciones de los Destinarios en Materia de Bienes Inmuebles
+###### ARTICULO 47.
 
-###### Artículo 52.
+Los propietarios, poseedores o las autoridades que tengan bajo su responsabilidad y resguardo algún documento que por su estado físico y su valor intrínseco se determine la necesidad de su restauración, encomendarán dicha labor a personal especializado propuesto por la SECULT, quienes deberán dejar constancia, a través de una bitácora, de las acciones realizadas sobre el documento, certificando que la información contenida en los mismos no fue alterada.
 
-Los Destinatarios no podrán realizar ningún cambio de destino, uso, usuario y de explotación de los Bienes Inmuebles que tengan destinados, sin autorización previa del Poder Ejecutivo del Estado, a través del Instituto.
+###### ARTICULO 48.
 
-###### Artículo 53.
+La depuración de documentos registrados en el Sistema Estatal de Documentación Histórica y Cultural, se realizará por los propios órganos que los emitieron, previa aprobación de SECULT. Ningún documento podrá ser eliminado o destruido a discreción.
 
-A falta de Bienes Inmuebles disponibles, la Administración Pública Estatal podrá celebrar contratos de arrendamiento de Bienes Inmuebles para el desempeño de sus funciones, previo dictamen del Instituto sobre la procedencia del arrendamiento.
+### CAPITULO IV. Del Registro Estatal del Patrimonio Cultural
 
-El Instituto emitirá los dictámenes sobre la procedencia del arrendamiento que solicite la Administración Pública Estatal en calidad de arrendatarios, conforme a lo establecido en la presente Ley y su Reglamento.
+###### ARTICULO 49.
 
-###### Artículo 54.
+Se crea el Registro Estatal del Patrimonio Cultural dependiente de la SECULT; como instrumento para la salvaguarda, consulta y divulgación de los bienes culturales en el Estado; estableciendo los lineamientos e instrumentando los medios de control para la elaboración y actualización del mismo.
 
-Previa causa justificada, el Instituto podrá otorgar en arrendamiento Bienes Inmuebles propiedad del Poder Ejecutivo del Estado, bajo los principios y reglas establecidas en el Reglamento de esta Ley.
+El encargado del Registro será designado por el titular de la SECULT, y contará con el personal necesario para su funcionamiento.
 
-Las utilidades que provengan del uso, aprovechamiento y cualquier otro ingreso producto del usufructo de los mismos ingresarán al erario estatal.
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
-###### Artículo 55.
+Los propietarios de bienes muebles culturales, declarados como tales y que estén inscritos en el Registro Estatal del Patrimonio Cultural, deberán reportar a la SECULT, la ubicación, y en su caso los cambios en el estado de conservación, de dichos bienes, cada dos años, de acuerdo al Reglamento de esta Ley.
 
-Los Destinatarios de Bienes Inmuebles tendrán las obligaciones siguientes:
+###### ARTICULO 50.
 
-I. Acatar las disposiciones que emita el Instituto, en materia de administración de Bienes Inmuebles.
+En el caso de personas que tengan en su poder colecciones privadas de bienes culturales, así como objetos que guarden las características que define esta Ley, están obligadas a inscribirlas en el Registro Estatal del Patrimonio Cultural.
 
-II. Investigar, a petición del Instituto, la situación física, jurídica y administrativa de los Bienes Inmuebles.
+###### ARTICULO 51.
 
-III. Ejecutar las acciones necesarias para compilar, organizar, vincular y operar los acervos documentales e informativos de los Bienes Inmuebles, así como recibir e integrar en sus respectivos acervos la información y documentación que le proporcione el Instituto.
+La transmisión de la titularidad de los bienes muebles e inmuebles contemplados en la presente Ley, e inscritos en el Registro Estatal del Patrimonio Cultural, deberá ser notificada a la SECULT, en un plazo no mayor a los treinta días hábiles siguientes a la fecha de celebración de la enajenación.
 
-IV. Programar, ejecutar, evaluar y controlar la realización de acciones y gestiones con el fin de coadyuvar a la regularización jurídica y administrativa de los Bienes Inmuebles, a la formalización de operaciones para lograr el óptimo aprovechamiento de dichos bienes y la recuperación de los ocupados ilegalmente.
+En el caso de bienes inmuebles declarados, se estará además a lo previsto por el artículo 37 de esta Ley.
 
-V. Proporcionar al Instituto informes actualizados durante el mes de junio y diciembre de cada ejercicio fiscal, respecto a los bienes que tiene bajo su administración, con la finalidad de mantener actualizados los registros en el Sistema de Control Patrimonial, debiendo incluir la documentación correspondiente, en caso de existir modificación en su situación patrimonial.
+## TITULO SEXTO. DE LA VIGILANCIA, SANCIONES Y RECURSOS
 
-VI. Adoptar las medidas conducentes para la adecuada conservación, mantenimiento, y en su caso, vigilancia de los Bienes Inmuebles asignados, conforme a la normatividad aplicable.
+### CAPITULO I. De la Vigilancia
 
-VII. Coadyuvar con el Instituto en la inspección y vigilancia de los Bienes Inmuebles asignados.
+###### ARTICULO 52.
 
-VIII. Dar aviso en forma inmediata al Instituto, de cualquier hecho o acto, con independencia de su naturaleza, que afecte a los Bienes Inmuebles asignados.
+Corresponde a las autoridades en el ámbito de su competencia, ejercer la vigilancia respecto del cumplimiento de las disposiciones contenidas en la presente Ley.
 
-IX. Comunicar al Instituto los casos en que se utilicen Bienes Inmuebles pertenecientes al Poder Ejecutivo del Estado, sin que medie el acuerdo de destino respectivo.
+###### ARTICULO 53.
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+Es responsabilidad tanto de los propietarios o poseedores de los inmuebles patrimonio cultural, como de las autoridades estatales y municipales, respetar el contexto visual y buscar el mínimo impacto sobre el bien o zona protegida, teniendo las precauciones necesarias cuando realicen obras sobre el bien o su entorno.
 
-X. Presentar denuncias de carácter penal por ocupaciones ilegales y daños a los Bienes Inmuebles asignados, así como de interponer los recursos jurídicos necesarios para su defensa; debiendo informar al Instituto sobre las gestiones realizadas hasta su total conclusión, asumiendo la responsabilidad que en su carácter de Destinatarios les competa.
+###### ARTICULO 54.
 
-XI. Entregar al Instituto los Bienes Inmuebles o áreas no utilizadas, dentro de los quince días hábiles siguientes a su desocupación, conforme a la normatividad aplicable; en caso contrario, asumir la responsabilidad administrativa y/o penal que corresponda, conforme a la legislación aplicable.
+Los propietarios de bienes inmuebles culturales, así como los colindantes de éstos, que pretendan realizar obras de excavación, cimentación, demolición o construcción, que puedan afectar sus características, deberán obtener, además de los permisos que establezcan otras disposiciones, las licencias municipales correspondientes que se expedirán previo dictamen técnico de la SECULT.
 
-XII. Obtener y conservar el aviso del contratista, el acta de terminación y los planos de las obras públicas que se lleven a cabo en los Bienes Inmuebles asignados, debiendo remitir copia certificada al Instituto.
+###### ARTICULO 55.
 
-XIII. Gestionar y aplicar los recursos asignados conforme a su presupuesto para el cumplimiento de las obligaciones de conservación, mantenimiento, servicios y, en su caso, vigilancia de los Bienes Inmuebles.
+Para la colocación de anuncios, avisos, carteles, templetes, instalaciones diversas, propaganda política, comercial o cualesquiera otras en los bienes considerados como patrimonio cultural en el Estado, se deberá obtener previa autorización de las autoridades competentes, considerando las disposiciones de esta Ley y los reglamentos aplicables.
 
-XIV. Pagar las contribuciones sobre la propiedad inmobiliaria, en los casos en que no se acredite el objeto público.
+###### ARTICULO 56.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+Los bienes del patrimonio cultural en el Estado no podrán alterarse en sus características originales y las de su entorno.
 
-XV. Realizar las gestiones y actuaciones necesarias para acreditar legalmente la propiedad o posesión de los Bienes Inmuebles que tienen en uso.
+###### ARTICULO 57.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+Las autoridades estatales y municipales podrán realizar las obras o adquisiciones que consideren necesarias, para la protección conservación y salvaguarda de los bienes que integran el patrimonio cultural en el Estado, previa autorización, asesoría y supervisión de las instancias competentes, de acuerdo a las disposiciones aplicables en la materia.
 
-XVI. Las demás que esta Ley, su Reglamento y otras disposiciones en materia de inmuebles les asignen.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
 
-###### Artículo 56.
+###### ARTICULO 58.
 
-Los Bienes Inmuebles del Poder Ejecutivo del Estado, previa autorización del Congreso, podrán ser desincorporados bajo los siguientes actos de administración y disposición:
+Cuando exista enajenación de bienes inmuebles declarados patrimonio cultural en el Estado, el Registro Público de la Propiedad tendrá la obligación de comunicar a los notarios públicos correspondientes, en la certificación sobre la existencia o libertad de gravámenes que reporte el inmueble o derecho que expida, la circunstancia de que dichos bienes se encuentran protegidos por esta Ley, con el propósito de que los adquirentes estén enterados de sus obligaciones y derechos.
 
-I. Enajenación a título oneroso.
+###### ARTICULO 59.
 
-II. Enajenación a título gratuito, a favor de la Administración Pública Estatal, cuyo objeto sea de interés público y/o beneficio social o sean destinados para servicios públicos locales, con fines educativos o de asistencia social.
+Las personas o entidades que ejerzan habitualmente el comercio de bienes muebles culturales, declarados e inscritos en el Registro Estatal del Patrimonio Cultural, deberán llevar un libro de registro en el que consten todas las transacciones que realicen respecto a dichos objetos.
 
-III. Subasta Pública.
+###### ARTICULO 60.
 
-IV. Permuta con Instituciones Públicas o con personas físicas o morales, respecto de Bienes Inmuebles que por su ubicación, características y aptitudes satisfagan necesidades de los Destinatarios.
+Todo comercio o prestación de servicios, formal e informal, localizado en bienes inmuebles culturales, sitios o zonas de protección del patrimonio cultural, deberá mantener una imagen que vaya de acuerdo con el entorno, con las leyes y reglamentos federales, estatales y municipales.
 
-V. Afectación a fondos de fideicomisos públicos en los que el Estado, a través del Poder Ejecutivo del Estado, sea fideicomitente o fideicomisario.
+###### ARTICULO 61.
 
-VI. Donación condicionada a personas morales para la creación de industrias o empresas que fortalezcan el desarrollo económico del Estado, a través de la Dependencia rectora en la materia, previa validación correspondiente.
+Se concede acción popular para denunciar las violaciones a la presente Ley, así como los daños o deméritos que se causen al patrimonio cultural en el Estado.
 
-VII. Donación condicionada al Gobierno Federal, Empresas de Participación Estatal Mayoritaria, Organismos Públicos Descentralizados, Asociaciones Civiles o Ayuntamientos, con el objeto de promover el desarrollo del Estado.
+### CAPITULO II. De las Sanciones
 
-###### Artículo 57.
+###### ARTICULO 62.
 
-Los actos de enajenación derivados de la Desincorporación, surtirán efectos a partir de la publicación del Decreto correspondiente en el Periódico Oficial, mediante el cual se autorice a desincorporar del régimen de dominio público del Estado el inmueble objeto de la misma.
+La instancia competente para determinar y aplicar las sanciones pecuniarias y administrativas será la SECULT; las sanciones pecuniarias se harán efectivas por conducto de la Secretaría de Finanzas de Gobierno del Estado.
 
-###### Artículo 58.
+###### ARTICULO 63.
 
-El Decreto que autorice la Desincorporación a título gratuito de Bienes Inmuebles en los casos previstos por esta Ley, deberá fijar un plazo máximo de hasta cinco años para el cumplimiento del objeto para el cual del (sic) bien inmueble ha sido desincorporado; en caso de que dicho plazo no sea fijado, se entenderá de un año, contado a partir de la fecha de publicación del citado Decreto.
+Por las violaciones u omisiones que contravengan lo dispuesto en esta Ley, se impondrán las sanciones siguientes:
 
-En caso de que el donatario no cumpla con el objeto de la Desincorporación del bien inmueble dentro del plazo previsto, o si habiendo ejecutado acciones le otorgue un uso o destino distinto sin autorización del Instituto, el bien inmueble y sus mejoras se revertirán al Patrimonio del Ejecutivo.
+I. Apercibimiento por escrito;
 
-El Instituto substanciará el procedimiento administrativo correspondiente para la recuperación de la propiedad y posesión del bien inmueble, en los términos establecidos en la normatividad aplicable.
+II. Suspensión provisional de la obra, para su regularización, incluyendo la reparación de lo dañado y el pago de la sanción que corresponda;
 
-En caso de que el procedimiento de reversión sea procedente, el Instituto procederá a expedir la declaratoria a favor del Patrimonio del Ejecutivo, la cual deberá ser publicada en el Periódico Oficial; asimismo se procederá a inscribir la declaratoria en el Registro Público de la Propiedad y del Comercio.
+III. Sanción pecuniaria cuyo monto se fijará de acuerdo al daño causado al bien de que se trate, y que en ningún caso podrá ser menor al que la intervención o acción haya generado al propietario o infractor. En caso de dolo o reincidencia, se duplicará la sanción que corresponda;
 
-###### Artículo 59.
+IV. Suspensión definitiva de la obra, y
 
-Será procedente la Desincorporación vía administrativa de Bienes Inmuebles, como medida extraordinaria para salvaguardar la gobernabilidad y la paz social del Estado.
+V. Para casos de destrucción total o parcial de bienes culturales, el responsable deberá además realizar la reconstrucción de los bienes culturales destruidos.
 
-Para tal efecto, el Poder Ejecutivo del Estado a través del Instituto, formalizará los actos jurídicos derivados del procedimiento de Desincorporación Administrativa; previa validación de la Consejería, emitiendo el Decreto respectivo, en el que se expondrán los razonamientos y justificaciones de la Desincorporación, el cual será publicado en el Periódico Oficial, surtiendo sus efectos a partir de la fecha de su publicación.
+###### ARTICULO 64.
 
-La instancia solicitante integrará el expediente respectivo, con la documentación necesaria para el procedimiento de Desincorporación Administrativa, a efecto de que, una vez concluido, el Instituto proceda a la Baja del bien inmueble de los registros del Sistema de Control Patrimonial.
+Para efectos de este Capítulo, serán solidariamente responsables de las omisiones o acciones violatorias de las disposiciones de esta Ley:
 
-###### Artículo 60.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2019)</small>
 
-Son obligaciones de los Destinatarios, en materia de Bienes Muebles, las siguientes:
+I. Los propietarios o poseedores de los bienes del patrimonio cultural material involucrados, cuando las modificaciones a éstos se hagan con su consentimiento;
 
-I. Conservar, cuidar, mantener y vigilar los Bienes Muebles que tenga asignados.
+II. Quienes ordenen o realicen las acciones u omisiones constitutivas de violación;
 
-II. Acatar las disposiciones que emita el Instituto en materia de administración, control, registro y uso de Bienes Muebles e Intangibles.
+III. Los notarios públicos que intervengan con motivo de actos traslativos de dominio de los bienes inmuebles culturales, y que omitan dar cumplimiento a lo dispuesto en el artículo 58, y
 
-III. Utilizar y aplicar, cuando sea procedente, los Sistemas de Control Patrimonial emitidos por el Instituto.
+IV. Los técnicos o profesionistas autores de proyectos, directores de obras o actuaciones, que contribuyan por negligencia o dolo a la pérdida de bienes culturales o sus valores.
 
-IV. Capturar, en caso de ser procedente, en los Sistemas de Control Patrimonial los Bienes Muebles e Intangibles que adquiera.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2019)</small>
 
-V. Mantener una adecuada administración de los Bienes Muebles, ejecutando las altas, bajas y transferencias que se requieran, tanto en los Sistemas de Control Patrimonial, como en los registros contables.
+###### ARTICULO 65.
 
-VI. Otorgar bajo resguardo a los servidores públicos, los Bienes Muebles que serán utilizados exclusivamente para el desempeño de sus actividades.
+De conformidad con lo preceptuado en este Ordenamiento, al que por voluntad propia y sin la autorización de la autoridad competente, realice trabajos materiales por excavación, remoción o por cualquier otro medio que dañe, destruya o deteriore el patrimonio material en el Estado, la sanción pecuniaria que señala la fracción III del artículo 63 de esta Ley, se calculará de la siguiente manera:
 
-VII. Efectuar levantamiento de inventarios físicos de sus bienes de manera semestral.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
 
-VIII. Identificar el origen de los recursos cuando adquieran Bienes Muebles.
+I. Cuando el valor de lo dañado no exceda de ciento cincuenta veces del valor diario de la unidad de medida de actualización, se impondrá una sanción pecuniaria de ciento cincuenta a trescientas veces del valor diario de la unidad de medida de actualización;
 
-IX. Mantener bajo resguardo los documentos que acrediten la propiedad de los bienes, realizando en su caso, todas las gestiones para tal efecto, y mantener actualizados los valores, costos y valuación de los bienes que tienen asignados, de conformidad con la Ley General y las disposiciones emitidas por CONAC.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
 
-X. Presentar denuncias con motivo a los daños o robo de Bienes Muebles y dar seguimiento hasta la conclusión del procedimiento judicial correspondiente.
+II. Cuando el valor de lo dañado exceda de ciento cincuenta veces del valor diario de la unidad de medida de actualización, pero no de mil quinientas, se impondrá una sanción pecuniaria de trescientos a dos mil veces del valor diario de la unidad de medida de actualización, y
 
-XI. Requerir a los servidores públicos para que, en un plazo de diez días naturales, exhiban los Bienes Muebles que tienen resguardados, y que derivado de inspecciones al inventario o verificaciones físicas no hayan sido localizados.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
 
-XII. Mantener actualizados los expedientes de los Bienes Muebles que tengan bajo resguardo.
+III. Cuando el valor de lo dañado exceda de mil quinientas veces del valor diario de la unidad de unidad de medida de actualización, se impondrá una sanción pecuniaria de dos mil veces del valor diario de la unidad de unidad de medida de actualización y hasta por el valor del daño causado.
 
-XIII. Tramitar el pago de impuestos y derechos vehiculares estatales y federales de cada ejercicio fiscal, correspondiente al parque vehicular activo asignado.
+###### ARTICULO 66.
 
-XIV. Prever y administrar los recursos financieros relativos al mantenimiento y conservación de los Bienes Muebles que tengan asignados.
+Las sanciones pecuniarias previstas en el artículo anterior, se aplicarán sin perjuicio de la responsabilidad que resulte de acuerdo a la legislación penal aplicable.
 
-XV. Registrar la Baja (sic) los Bienes Muebles cuya vida útil haya culminado o sean considerados inactivos, innecesarios, en desuso, incosteables en su reparación o no útiles, y realizar el trámite correspondiente a su ingreso a los Almacenes Generales de Gobierno.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
 
-XVI. Otorgar todas las facilidades necesarias para la realización de verificaciones por parte del Instituto.
+###### ARTICULO 67.
 
-XVII. Remitir copias certificadas de los documentos que acrediten la propiedad de Bienes Muebles adquiridos.
+Para estimar la cuantía del daño a un bien cultural inmueble, se atenderá únicamente al valor intrínseco del bien dañado, pero si por alguna circunstancia no fuere estimable en dinero, o si por su naturaleza no fuese posible fijar su valor, la sanción pecuniaria será de cincuenta a tres mil días de la unidad de medida y actualización vigente.
 
-XVIII. Instrumentar el acta administrativa referente al levantamiento del inventario físico de Bienes Muebles.
+###### ARTICULO 68.
 
-XIX. Publicar el inventario de Bienes Muebles a través de su página de internet, de conformidad a la normatividad aplicable.
+La SECULT en coordinación de la SEDUVOP, será el órgano competente para valuar el monto de los daños causados a los bienes que integran el patrimonio cultural en el Estado.
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+###### ARTICULO 69.
 
-XX. Solicitar al Instituto la Emisión de Dictámenes Técnicos para la adquisición o arrendamiento de vehículos, maquinaria pesada y agrícola, nuevos o usados, hasta con tres años anteriores al ejercicio fiscal en el que se pretendan adquirir.
+Al que valiéndose del cargo o comisión de cualquier instancia de gobierno en sus órdenes, estatal y municipal, omita dar cumplimiento o actúe en contravención a lo preceptuado a la presente Ley, se le sancionará en términos de las disposiciones legales aplicables.
 
-En casos excepcionales, por causas justificadas y de urgente necesidad, relacionados con la seguridad pública, la procuración de justicia, los servicios de salud, los de protección civil y programas productivos prioritarios, se podrán adquirir y arrendar vehículos aéreos, marítimos y maquinaria pesada, nuevos o usados, previo Dictamen Técnico emitido por el Instituto, conforme a lo establecido en el Reglamento y demás normatividad aplicable.
+###### ARTICULO 70.
 
-XXI. Las demás que sean establecidas en leyes, reglamentos y la normatividad aplicable en materia de control y registro de Bienes Muebles e Intangibles.
+En los casos de acciones u omisiones constitutivas de delito, se dará intervención a la autoridad competente.
 
-###### Artículo 61.
+###### ARTICULO 71.
 
-Los servidores públicos que tengan asignados Bienes Muebles, deberán cumplir las obligaciones establecidas en la presente Ley, su Reglamento y demás normatividad aplicable.
+Cuando la sanción de la reparación de lo dañado consista en la obligación de realizar trabajos de retiro, demolición, modificación o reconstrucción, podrán las propias autoridades municipales realizarlas a costa del propio infractor cuando éste se niegue a realizarlos, previa aprobación de las autoridades competentes.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+### CAPITULO III. De los Recursos
 
-### Capítulo V. De la Desincorporación de Bienes Inmuebles
+###### ARTICULO 72.
 
-###### Artículo 62.
+En contra de cualquier acto o resolución administrativa dictada con base en este Ordenamiento, procederán los recursos que concede la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí, en la forma y términos que al efecto establece.
 
-Cuando una Dependencia o Entidad de la Administración Pública Estatal, ejerza la posesión, control o administración a título de dueño sobre un bien mueble del que no exista la certeza de la propiedad, deberá iniciar un procedimiento de adjudicación para que dicho bien forme parte del Patrimonio del Ejecutivo, que consistirá en lo siguiente:
+T R A N S I T O R I O S
 
-I. Integrar un expediente técnico con la documentación que contribuya a la acreditación de la posesión, uso, control o administración del bien mueble y demás documentos expedidos por las autoridades competentes que acrediten el hecho.
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado; salvo los artículos 45 y 48 que entrarán en vigor el día uno de enero de dos mil seis.
 
-II. Emitir un acuerdo administrativo mediante el cual se acredite la posesión, control o administración del bien mueble a título de dueño; que su naturaleza es de uso común o se encuentra destinado a un servicio público; asimismo deberá contener como mínimo el resguardo y/o documento que identifique y describa las características del bien mueble, fotografías actualizadas, uso actual y la determinación del inicio del procedimiento de regularización, el cual quedará a disposición de los interesados.
+SEGUNDO. Se abroga la Ley Estatal de Protección del Patrimonio Cultural, publicada el tres de julio de dos mil tres en el Periódico Oficial del Estado.
 
-III. Publicar en el Periódico Oficial y en al menos dos diarios de mayor circulación estatal, el acuerdo administrativo referido en la fracción anterior, con la finalidad de que las personas que tengan interés jurídico manifiesten lo que a su derecho convenga y aporten las pruebas pertinentes dentro de un plazo de quince días hábiles, contados a partir de la fecha de su publicación.
+TERCERO. El titular del Ejecutivo del Estado, dentro de los ciento ochenta días siguientes a la entrada en vigor de esta Ley, expedirá el Reglamento de la misma.
 
-IV. Una vez transcurrido el plazo a que se refiere la fracción anterior, sin que se hubiese presentado oposición de parte interesada, el acuerdo administrativo quedará firme.
+CUARTO. La Secretaría de Cultura, dentro de los noventa días siguientes a la publicación de la presente Ley, instalará la Coordinación Técnica Estatal de Protección al Patrimonio Cultural.
 
-Finalizado el procedimiento antes señalado, la Dependencia o Entidad de la Administración Pública Estatal deberá remitir al Instituto las documentales que se señalan de la fracción I a la III del presente artículo, con el objeto de comenzar con los trámites para la expedición de la Declaratoria de Adjudicación correspondiente.
+QUINTO. En virtud de que la presente Ley amplía la estructura orgánica a la Secretaría de Cultura de Gobierno del Estado, consecuentemente, las secretarías de Planeación del Desarrollo, y la de Finanzas, en el ámbito de sus respectivas atribuciones, deberán contemplar en los respectivos presupuestos de egresos, en favor de la dependencia referida inicialmente, la asignación y entrega de recursos financieros, materiales y humanos suficientes para que ésta pueda dar cumplimiento a las obligaciones que adquiere mediante este Ordenamiento.
 
-El Director General del Instituto, previa autorización de la Junta de Gobierno, deberá expedir la Declaratoria de Adjudicación a nombre del Poder Ejecutivo del Estado; dicha Declaratoria deberá publicarse en el Periódico Oficial y será inscrita en el Registro Público de la Propiedad y del Comercio.
+SEXTO. Los ayuntamientos deberán contemplar en sus reglamentos respectivos, las disposiciones establecidas en la presente Ley, en un plazo no mayor de ciento ochenta días contados a partir de su publicación.
 
-La Declaratoria de Adjudicación será considerada documento idóneo para proceder a su registro en el Sistema de Control Patrimonial, así como para su registro contable.
+SEPTIMO. Se derogan todas las disposiciones que se opongan a esta Ley.
 
-###### Artículo 63.
+Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
 
-En caso de existir inconformidad respecto al procedimiento de adjudicación previsto en el presente Capítulo, presentada dentro del plazo señalado en el artículo anterior, el Instituto, dentro de los quince días hábiles siguientes a la recepción del escrito que contenga dicha inconformidad, analizará las argumentaciones y motivaciones, valorará las documentales aportadas y emitirá una resolución respecto a la acreditación del interés jurídico, notificando el fallo correspondiente de manera personal y por escrito.
+D A D O en el Salón de Sesiones del Honorable Congreso del Estado, el día veintiocho de julio de dos mil cinco.
 
-En caso de acreditarse el interés jurídico, el Instituto se abstendrá de continuar con dicho procedimiento, determinando su sobreseimiento, sin que ello sea impedimento para ejercer acción por la vía jurisdiccional.
+Diputado Presidente: Pascual Martínez Martínez, Diputada Primera Secretaria: Liliana Carvajal Méndez, Diputado Segundo Secretario: Cirilo Gerardo Méndez Aguilar (Rúbricas)
 
-### Capítulo II. De la Desincorporación de Bienes Muebles
+Por tanto mando se cumpla y ejecute el presente Decreto y que todas las autoridades lo hagan cumplir y guardar y al efecto se imprima, publique y circule a quienes corresponda.
 
-###### Artículo 64.
+D A D O en el Palacio de Gobierno, Sede del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí, a los veintinueve días del mes de julio de dos mil cinco.
 
-El Poder Ejecutivo del Estado, a través del Instituto podrá desincorporar de su patrimonio los Bienes Muebles del dominio privado, de conformidad con el procedimiento que al efecto establezca el Reglamento y demás disposiciones normativas aplicables y aquellas emitidas por el Instituto. La desincorporación de Bienes Muebles podrá llevarse a cabo mediante las formas siguientes:
+El Gobernador Constitucional del Estado
 
-I. Subasta pública.
+C.P. Marcelo de los Santos Fraga
 
-II. Donación a instituciones públicas o instituciones que promuevan el desarrollo del Estado, previa justificación de las causas de utilidad pública o beneficio social, y a través del procedimiento establecido en el Reglamento, siempre que existan bienes suficientes y susceptibles de otorgar en donación.
+(Rúbrica)
 
-###### Artículo 65.
+El Secretario General de Gobierno
 
-El Poder Ejecutivo del Estado, a través del procedimiento correspondiente, podrá desincorporar de su patrimonio los vehículos con antigüedad de cinco o más años de servicio, salvo aquellos que por sus características sean clasificados como de carga, arrastre, traslado masivo de personal y cualquier otra especificación por los que se consideren indispensables, para el desarrollo de las actividades relacionadas al servicio público, así como aquellos que su reposición se considere notoriamente onerosa para el Estado.
+Lic. Alfonso José Castillo Machuca
 
-A petición de los Destinatarios y/o derivado de Decreto de Extinción, Disolución, Liquidación o Fusión de Organismos Públicos, o bien, por acuerdo de Órganos de Gobierno de la Administración Paraestatal, el Instituto podrá desincorporar del Patrimonio del Ejecutivo, los Bienes Muebles activos, conforme al procedimiento establecido en el Reglamento.
+(Rúbrica)
 
-###### Artículo 66.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-La Administración Pública Estatal podrá dar de Baja los Bienes Muebles que considere, en apego a las disposiciones establecidas en la presente Ley y su Reglamento. Los Bienes Muebles dados de Baja deberán ser puestos a disposición del Instituto mediante la donación correspondiente.
+P.O. 22 DE OCTUBRE DE 2011.
 
-Los Bienes Muebles que se encuentran registrados dentro del Sistema de Control Patrimonial que administra el Instituto, al momento de cumplir con los procedimientos de Baja conforme a esta Ley y su Reglamento, se entenderán desincorporados a favor del Patrimonio del Ejecutivo, en términos del párrafo anterior.
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## Título Séptimo. De la Subasta de Bienes Muebles
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-### Capítulo Único. De la Comisión de Subasta, Tipos y Procedimientos de Subasta
+P.O. 10 DE MARZO DE 2015.
 
-###### Artículo 67.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
-El Poder Ejecutivo del Estado, a través del Instituto, podrá celebrar convenios de colaboración para la ejecución de los procesos de subasta pública de Bienes Muebles a través de Dependencias de carácter Estatal o Federal, Instituciones Públicas o Empresas Privadas, que tengan como objeto la operación de subastas públicas, y de conformidad a los lineamientos o procesos previamente establecidos por las partes.
+SEGUNDO. Se derogan las disposiciones normativas de igual o inferior jerarquía jurídica que se opongan al presente Decreto.
 
-El proceso de subasta se realizará mediante un órgano colegiado honorífico, denominado Comisión de Subasta, que estará integrado de la siguiente forma:
+P.O. 5 DE SEPTIEMBRE DE 2015.
 
-I. El titular de la Dirección General.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-II. El titular de la Dirección Operativa.
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
-III. El titular de la Secretaría de Hacienda.
+P.O. 22 DE MARZO DE 2018.
 
-IV. El titular de la Secretaría de la Honestidad y la Función Pública.
+## [N. DE E. TRANSITORIOS DEL “DECRETO 913.- SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
-V. El titular de la Consejería.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
-El Director General fungirá como presidente de la Comisión de Subasta, y en caso de empate tendrá voto de calidad.
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
-La Comisión de Subasta contará con una Secretaría Técnica a cargo del titular de la Dirección Operativa, quien únicamente ejercerá derecho a voz.
-
-Los demás integrantes de la Comisión de Subasta tendrán derecho a voz y voto; ejercerán las atribuciones que tengan encomendadas conforme a lo establecido en el Reglamento y demás disposiciones administrativas emitidas para su funcionamiento.
-
-Los integrantes podrán designar representantes, los cuales deberán tener como mínimo un nivel jerárquico de Director o su equivalente y contarán con las mismas atribuciones que sus representados.
-
-La Comisión de Subasta sesionará en razón del número de solicitudes recibidas para realizar el proceso de subasta pública de conformidad con los lineamientos para su funcionamiento.
-
-###### Artículo 68.
-
-Las modalidades por las que podrán enajenarse Bienes Muebles del dominio privado del Poder Ejecutivo del Estado, son las siguientes:
-
-I. Subasta pública abierta presencial sobre pujas por martilleo
-
-II. Subasta pública en línea o vía electrónica.
-
-La Comisión de Subasta acordará la modalidad en que se celebrará la misma.
-
-La Comisión de Subasta, solicitará a la autoridad competente, que de los recursos obtenidos, se destine lo correspondiente para el pago de honorarios, cuotas y demás gastos que el propio proceso de subasta origine.
-
-###### Artículo 69.
-
-Los recursos obtenidos por la subasta a que se refiere el presente Capítulo, deberán ingresar a la cuenta que señale la Secretaría de Hacienda y formarán parte del Erario Estatal.
-
-El Instituto, previa autorización de la Junta de Gobierno, podrá solicitar a la autoridad competente, que los ingresos o recursos obtenidos de las subastas de los bienes del Patrimonio del Ejecutivo, sean utilizados para el aseguramiento, mantenimiento y conservación de los Bienes Inmuebles propiedad del Poder Ejecutivo del Estado que no se encuentren en uso, o no se les haya asignado Destinatarios.
-
-Las atribuciones, procedimientos y criterios específicos en materia de subasta, serán establecidos en el Reglamento de la presente Ley y demás normatividad administrativa que para tales efectos sea emitida.
-
-El Instituto, en representación del Ejecutivo del Estado, suscribirá los documentos correspondientes a la enajenación a favor del postor calificado como ganador del bien subastado; la Secretaría de Hacienda, a través del área competente, emitirá los recibos fiscales correspondientes, que amparen su adjudicación.
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
-
-Solo los recursos obtenidos de la enajenación de vehículos propiedad del Fideicomiso denominado Fondo de Protección para Vehículos del Poder Ejecutivo del Estado "FOPROVEP", deberán ser incorporadas al patrimonio del propio "FOPROVEP", observando en todo momento lo establecido en sus Reglas de Operación. Lo anterior no limita las facultades del Instituto para reservar, de las citadas ganancias, los recursos necesarios para el pago de honorarios, cuotas y demás gastos que el propio proceso de subasta requiera.
-
-## Título Octavo. Del Aseguramiento de Bienes
-
-### Capítulo Único. De la Obligación de Asegurar los Bienes
-
-###### Artículo 70.
-
-El Instituto vigilará y conducirá la política para el aseguramiento de los Bienes Inmuebles, vehículos, equipos informáticos, de comunicación y aeronaves a cargo de la Administración Pública Estatal.
-
-El Instituto fungirá como parte integrante del Comité Técnico del Fideicomiso denominado Fondo de Protección para Vehículos del Poder Ejecutivo del Estado “FOPROVEP”.
-
-###### Artículo 71.
-
-Los integrantes de la Administración Pública Estatal estarán obligados a:
-
-I. Asegurar de los Bienes Inmuebles de su propiedad o en posesión.
-
-II. Asegurar las unidades automotrices ante el Fideicomiso denominado Fondo de Protección para Vehículos del Poder Ejecutivo del Estado “FOPROVEP”.
-
-III. Gestionar el aseguramiento de maquinaria pesada, semovientes, equipo fluvial, lacustre, marítimo y demás equipo no incluido en el artículo anterior, además de los vehículos que no se encuentren incluidos en el “FOPROVEP” o algún instrumento oficial análogo.
-
-IV. Proporcionar al Instituto la información o documentación que requiera para efectuar trámites de aseguramiento, o bien, para el reclamo de pago por motivo de siniestro, robo o extravío de los bienes asegurados.
-
-V. Asegurar los Bienes Muebles, relacionados a equipos informáticos, resguardos digitales y de comunicación.
-
-VI. Gestionar el aseguramiento de Aeronaves.
-
-### Capítulo I. De las Obligaciones de los Destinatarios en Materia de Bienes Muebles
-
-###### Artículo 72.
-
-Con independencia de lo anterior, se sujetarán al Sistema de Control Patrimonial establecidos en la presente Ley y deberán informar y registrar los bienes de su propiedad en términos de lo dispuesto en la Ley General, el CONAC y las demás disposiciones jurídicas y administrativas aplicables.
-
-## Título Noveno. De los Archivos
-
-### Capítulo Único. De la Gestión Documental y Administración de Archivos del Instituto
-
-###### Artículo 73.
-
-El acopio, resguardo, tramite, registro, organización y conservación de los documentos de archivo, expedientes o publicaciones, ya sea en formato físico o electrónico considerados Patrimonio del Gobierno del Estado, que se deriven o sean producidos durante el ejercicio de las atribuciones y funciones del Instituto, se encontrará regulado de conformidad a lo dispuesto por la Ley de Archivos del Estado de Chiapas, y demás normatividad aplicable.
-
-###### Artículo 74.
-
-El manejo de la información contenida en los documentos de archivo en posesión del Instituto, podrá ser clasificada como información en reserva o confidencial, conforme a lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Chiapas, Ley de Archivos del Estado de Chiapas, los Lineamientos Generales en Materia de Clasificación y Desclasificación de la Información, así como para la Elaboración de Versiones Públicas, y demás normatividad aplicable.
-
-## Transitorios
-
-Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
-
-Artículo Segundo.- Se abroga la Ley Patrimonial de la Administración Pública del Estado de Chiapas, publicada mediante Decreto 380, en el Periódico Oficial número 259, Segunda Sección, Tomo III, de fecha 27 de octubre de 2010, y sus correspondientes reformas.
-
-Artículo Tercero.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
-
-Artículo Cuarto.- El Titular del Poder Ejecutivo del Estado deberá emitir el Reglamento de la presente Ley, en un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto; hasta en tanto, serán aplicables las disposiciones contenidas en el Reglamento de la Ley Patrimonial de la Administración Pública del Estado de Chiapas, siempre que no contravengan al presente Decreto.
-
-Artículo Quinto.- La Comisión de Subasta, deberá quedar instalada dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto.
-
-Artículo Sexto.- En caso de existir controversias o situaciones no previstas, hasta en tanto se expida el Reglamento de la Ley, el Director General, previa opinión de la Consejería, resolverá lo conducente.
-
-El Ejecutivo del Estado dispondrá se publique, circule y se dé el debido cumplimiento al presente Decreto.
-
-Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas a los 20 días de Septiembre del año dos mil veintiuno.- D. P. C. JOSÉ OCTAVIO GARCÍA MACÍAS.- D. PS. C. MARÍA OBDULIA MEGCHÚN LÓPEZ.- Rúbricas.
-
-De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintinueve días del mes de septiembre del año dos mil veintiuno.- Rutilio Escandón Cadenas, Gobernador del Estado de Chiapas.- Victoria Cecilia Flores Pérez, Secretaria General de Gobierno.- Rúbricas.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 11 DE SEPTIEMBRE DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 417 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL PATRIMONIO DEL ESTADO DE CHIAPAS”.]
-
-Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
-
-Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
-
-Artículo Tercero.- El Instituto del Patrimonio del Estado, dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, deberá realizar las adecuaciones que correspondan a la normatividad y reglamentación aplicable.
+P.O. 15 DE MAYO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 955. SE REFORMAN LOS ARTÍCULOS 61 Y 62 DE LA LEY DE ARCHIVOS DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 40 DE LA LEY DE CENTROS DE EDUCACIÓN INICIAL Y CUIDADO INFANTIL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; Y, SE REFORMA EL ARTÍCULO 10 DE LA LEY QUE ESTABLECE EL DEPÓSITO LEGAL PARA LA PRESERVACIÓN DEL PATRIMONIO BIBLIOGRÁFICO Y DOCUMENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
@@ -1066,5 +856,21 @@ P.O. 9 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0162.- SE REFORMAN LOS ARTÍCULOS, 3°, 5°, 7°, 23, 40, 41, 42, 43, 64 Y 65 DE LA LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0663.- SE ADICIONA AL ARTÍCULO 32 SIETE PÁRRAFOS, DE LA LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0842.- SE ADICIONA AL ARTÍCULO 49 ÚLTIMO PÁRRAFO, DE LA LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
