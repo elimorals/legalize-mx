@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2023-09-22"
+last_updated: "2023-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE SEPTIEMBRE DE 2023.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -1315,13 +1315,39 @@ II. Tribunal Laboral Federal de asuntos individuales en el Estado de Campeche, c
 
 III. Tribunal Laboral Federal de asuntos individuales en el Estado de Chiapas, con sede en Tuxtla Gutiérrez;
 
-IV. Tribunal Laboral Federal de asuntos individuales en el Estado de Durango, con sede en Durango;
+> <small>(REFORMADA POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 20/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE SEPTIEMBRE DE 2023)</small>
 
-V. Tribunal Laboral Federal de asuntos individuales en el Estado de México, con sede en Toluca;
+IV. Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Durango, con sede en Durango;
+
+> <small>(ADICIONADA POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 20/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Bis. Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Durango, con sede en Durango;
+
+> <small>(REFORMADA POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 22/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE SEPTIEMBRE DE 2023)</small>
+
+V. Primer Tribunal Laboral Federal de asuntos individuales en el Estado de México, con sede en Toluca;
+
+> <small>(ADICIONADA POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 22/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE SEPTIEMBRE DE 2023)</small>
+
+V. Bis. Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de México, con sede en Toluca;
+
+> <small>(ADICIONADA POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 22/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE SEPTIEMBRE DE 2023)</small>
+
+V. Ter. Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de México, con sede en Toluca;
 
 VI. Tribunal Laboral Federal de asuntos individuales en el Estado de México, con sede en Naucalpan;
 
-VII. Tribunal Laboral Federal de asuntos individuales en el Estado de Hidalgo, con sede en Pachuca;
+> <small>(REFORMADA POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 21/2023, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Hidalgo, con sede en Pachuca;
+
+> <small>(ADICIONADA POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 21/2023, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Bis. Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Hidalgo, con sede en Pachuca;
+
+> <small>(ADICIONADA POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 21/2023, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Ter. Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de Hidalgo, con sede en Pachuca;
 
 VIII. Tribunal Laboral Federal de asuntos individuales en el Estado de San Luis Potosí, con sede en San Luis Potosí;
 
@@ -1366,6 +1392,10 @@ XVIII. Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de 
 > <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
 
 XIX. Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de Guanajuato, con sede en Guanajuato;
+
+> <small>(ADICIONADA POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 25/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE SEPTIEMBRE DE 2023)</small>
+
+XIX. Bis. Cuarto Tribunal Laboral Federal de asuntos individuales en el Estado de Guanajuato, con sede en Guanajuato;
 
 > <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
 
@@ -1699,9 +1729,13 @@ I. El Tribunal Laboral Federal de asuntos individuales en el Estado de Campeche,
 
 II. El Tribunal Laboral Federal de asuntos individuales en el Estado de Campeche, con sede en Ciudad del Carmen, tendrá jurisdicción en los municipios de Escárcega, Carmen, Candelaria y Palizada;
 
-III. El Tribunal Laboral Federal de asuntos individuales en el Estado de Durango, tendrá jurisdicción en los municipios del Estado, con excepción de los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo;
+> <small>(REFORMADA POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 20/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE SEPTIEMBRE DE 2023)</small>
 
-IV. El Tribunal Laboral Federal de asuntos individuales en el Estado de México con residencia en Toluca tendrá jurisdicción en los municipios de Acambay, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Chapultepec, Donato Guerra, El Oro, Ixtapan de la Sal, Ixtapan del Oro, Ixtlahuaca, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Luvianos, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilán, Otzoloapan, Otzolotepec, Rayón, San Antonio la Isla, San Felipe del Progreso, San José del Rincón, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Tlataya, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xalatlaco, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec y Zumpahuacán;
+III. Los Tribunales Laborales Federales de asuntos individuales en el Estado de Durango, con sede en Durango, tendrán jurisdicción en todos los municipios del Estado, con excepción de los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo;
+
+> <small>(REFORMADA POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 22/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Los Tribunales Laborales Federales de asuntos individuales en el Estado de México, con sede en Toluca, tendrán jurisdicción en los municipios de Acambay, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Chapultepec, Donato Guerra, El Oro, Ixtapan de la Sal, Ixtapan del Oro, Ixtlahuaca, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Luvianos, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilán, Otzoloapan, Otzolotepec, Rayón, San Antonio la Isla, San Felipe del Progreso, San José del Rincón, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Tlataya, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xalatlaco, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec y Zumpahuacán;
 
 V. El Tribunal Laboral Federal de asuntos individuales en el Estado de México, con residencia en Naucalpan tendrá jurisdicción en los municipios de Aculco, Apaxco, Atizapán de Zaragoza, Coacalco de Berriozábal, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Chapa de Mota, Ecatepec de Morelos, Huehuetoca, Hueypoxtla, Huixquilucan, Isidro Fabela, Jaltenco, Jilotepec, Jilotzingo, Melchor Ocampo, Naucalpan de Juárez, Nextlalpan, Nicolás Romero, Polotitlán, Tonanitla, Soyaniquilpan de Juárez, Teoloyucan, Tepotzotlán, Tequixquiac, Timilpan, Tlalnepantla de Baz, Tultepec, Tultitlán, Villa del Carbón, Zumpango, Acolman, Amecameca, Atenco, Atlautla, Axapusco, Ayapango, Cocotitlán, Chalco, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Ecatzingo, Ixtapaluca, Juchitepec, La Paz, Nezahualcóyotl, Nopaltepec, Otumba, Ozumba, Papalotla, San Martín de las Pirámides, Tecámac, Temamatla, Temascalapa, Tenango del Aire, Teotihuacán, Tepetlaoxtoc, Tepetlixpa, Texcoco, Tezoyuca, Tlalmanalco y Valle de Chalco Solidaridad;
 
@@ -10628,3 +10662,71 @@ TERCERO. El Juzgado Decimonoveno de Distrito en Materias Administrativa, Civil y
 CUARTO. Se abroga el Acuerdo General 23/2020 del Pleno del Consejo de la Judicatura Federal, relativo al cambio de residencia y domicilio del Juzgado Decimonoveno de Distrito en Materias Administrativa, Civil y de Trabajo en el Estado de Jalisco.
 
 QUINTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, prestará auxilio en el traslado del órgano jurisdiccional que cambia de residencia y domicilio.
+
+D.O.F. 29 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 20/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL TRIBUNAL LABORAL FEDERAL DE ASUNTOS INDIVIDUALES EN EL ESTADO DE DURANGO, CON SEDE EN DURANGO; A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL PRIMER Y SEGUNDO TRIBUNALES LABORALES FEDERALES DE ASUNTOS INDIVIDUALES EN EL ESTADO DE DURANGO, CON SEDE EN DURANGO, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y DISTRIBUCIÓN DE ASUNTOS; DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTARÁ SERVICIO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los Tribunales Laborales Federales de asuntos individuales a que se refiere el presente Acuerdo General, deberán publicar avisos en lugares visibles para conocimiento del público, en relación con el inicio de sus funciones de manera individual.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, dotarán al Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Durango, con sede en Durango, al Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Durango, con sede en Durango, y a la Oficina de Correspondencia Común que les brindará servicio, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+QUINTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Durango, con sede en Durango y el Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Durango, con sede en Durango.
+
+SEXTO. La Dirección General de Gestión Judicial, en coordinación con la Dirección General de Tecnologías de la Información, instrumentarán los cambios necesarios en el sistema de cómputo de la oficina de correspondencia común y del Sistema Integral de Gestión de Expedientes, para trasladar los expedientes electrónicos de los asuntos en trámite, del Tribunal de origen que correspondan al Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Durango, con sede en Durango y al Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Durango, con sede en Durango.
+
+SÉPTIMO. Con el objeto de llevar a cabo adecuadamente la recepción, distribución y registro de los asuntos en trámite, se declaran inhábiles pero laborales los días comprendidos del 2 al 6 de octubre de 2023, por lo que no correrán plazos y términos; sin perjuicio de que se recibirán asuntos nuevos y promociones, a los cuales se les dará registro conforme al orden y fecha de recepción.
+
+D.O.F. 29 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 21/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL TRIBUNAL LABORAL FEDERAL DE ASUNTOS INDIVIDUALES EN EL ESTADO DE HIDALGO, CON SEDE EN PACHUCA; A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL PRIMER, SEGUNDO Y TERCER TRIBUNALES LABORALES FEDERALES DE ASUNTOS INDIVIDUALES EN EL ESTADO DE HIDALGO, CON SEDE EN PACHUCA; ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y DISTRIBUCIÓN DE ASUNTOS; DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTARÁ SERVICIO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los Tribunales Laborales Federales de asuntos individuales a que se refiere el presente Acuerdo General, deberán publicar avisos en lugares visibles para conocimiento del público, en relación con el inicio de sus funciones de manera individual.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, dotarán al Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Hidalgo, con sede en Pachuca, al Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Hidalgo, con sede en Pachuca, al Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de Hidalgo, con sede en Pachuca, y a la Oficina de Correspondencia Común que les brindará servicio, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+QUINTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Hidalgo, con sede en Pachuca, al Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Hidalgo, con sede en Pachuca y al Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de Hidalgo, con sede en Pachuca.
+
+SEXTO. La Dirección General de Gestión Judicial, en coordinación con la Dirección General de Tecnologías de la Información, instrumentarán los cambios necesarios en el sistema de cómputo de la oficina de correspondencia común y del Sistema Integral de Gestión de Expedientes, para trasladar los expedientes electrónicos de los asuntos en trámite, del Tribunal de origen que correspondan al Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Hidalgo, con sede en Pachuca, al Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Hidalgo, con sede en Pachuca y al Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de Hidalgo, con sede en Pachuca.
+
+SÉPTIMO. Con el objeto de llevar a cabo adecuadamente la recepción, distribución y registro de los asuntos en trámite, se declaran inhábiles pero laborales los días comprendidos del 2 al 6 de octubre de 2023, por lo que no correrán plazos y términos; sin perjuicio de que se recibirán asuntos nuevos y promociones, a los cuales se les dará registro conforme al orden y fecha de recepción.
+
+D.O.F. 29 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 22/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL TRIBUNAL LABORAL FEDERAL DE ASUNTOS INDIVIDUALES EN EL ESTADO DE MÉXICO, CON SEDE EN TOLUCA; A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL PRIMER, SEGUNDO Y TERCER TRIBUNALES LABORALES FEDERALES DE ASUNTOS INDIVIDUALES EN EL ESTADO DE MÉXICO, CON SEDE EN TOLUCA, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y DISTRIBUCIÓN DE ASUNTOS; DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTARÁ SERVICIO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los Tribunales Laborales Federales de asuntos individuales a que se refiere el presente Acuerdo General, deberán publicar avisos en lugares visibles para conocimiento del público, en relación con el inicio de sus funciones de manera individual.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, dotarán al Primer Tribunal Laboral Federal de asuntos individuales en el Estado de México, con sede en Toluca, al Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de México, con sede en Toluca, al Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de México, con sede en Toluca, y a la Oficina de Correspondencia Común que les brindará servicio, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+QUINTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al Primer Tribunal Laboral Federal de asuntos individuales en el Estado de México, con sede en Toluca, al Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de México, con sede en Toluca y al Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de México, con sede en Toluca.
+
+SEXTO. La Dirección General de Gestión Judicial, en coordinación con la Dirección General de Tecnologías de la Información, instrumentarán los cambios necesarios en el sistema de cómputo de la oficina de correspondencia común y del Sistema Integral de Gestión de Expedientes, para trasladar los expedientes electrónicos de los asuntos en trámite, del Tribunal de origen que correspondan al Primer Tribunal Laboral Federal de asuntos individuales en el Estado de México, con sede en Toluca, al Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de México, con sede en Toluca y al Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de México, con sede en Toluca.
+
+SÉPTIMO. Con el objeto de llevar a cabo adecuadamente la recepción, distribución y registro de los asuntos en trámite, se declaran inhábiles pero laborales los días comprendidos del 2 al 6 de octubre de 2023, por lo que no correrán plazos y términos; sin perjuicio de que se recibirán asuntos nuevos y promociones, a los cuales se les dará registro conforme al orden y fecha de recepción.
+
+D.O.F. 29 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 25/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN E INICIO DE FUNCIONES DEL CUARTO TRIBUNAL LABORAL FEDERAL DE ASUNTOS INDIVIDUALES EN EL ESTADO DE GUANAJUATO, CON SEDE EN GUANAJUATO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. El Cuarto Tribunal Laboral Federal de asuntos individuales en el Estado de Guanajuato, con sede en Guanajuato a que se refiere el presente Acuerdo General, deberá publicar avisos en lugares visibles para conocimiento del público, en relación con el inicio de sus funciones.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, dotará al Cuarto Tribunal Laboral Federal de asuntos individuales en el Estado de Guanajuato, con sede en Guanajuato, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+QUINTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones a la configuración del Sistema Integral de Gestión de Expedientes, al sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio, además del Cuarto Tribunal Federal de asuntos individuales en el Estado de Guanajuato, con sede en Guanajuato, al Primer, Segundo y Tercer Tribunales Laborales Federales de asuntos individuales en el Estado de Guanajuato, con sede en Guanajuato.
