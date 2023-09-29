@@ -4,7 +4,7 @@ identifier: "COA-ley-de-medios-de-impugnacion-en-materia-politico-electoral-2317
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-16"
-last_updated: "2022-09-30"
+last_updated: "2023-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA POLÍTICO-ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 16 de noviembre de 2001.
 
@@ -166,6 +166,14 @@ Las partes, sus representantes y, en general, todos los partícipes en un proced
 El Tribunal Electoral deberá impedir el fraude procesal, la colusión y cualquier otra conducta ilícita o dilatoria.
 
 El Tribunal Electoral deberá tomar, a petición de parte o de oficio, todas las medidas necesarias que resulten de la ley o de sus poderes de dirección, para prevenir o sancionar cualquier acción u omisión contrarias al orden o a los principios que deben regir en la sustanciación y resolución de los medios de impugnación.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+El Pleno de este Tribunal Electoral deberá pronunciarse mediante sentencia interlocutoria, sobre la solicitud de medidas cautelares o cualquier otro planteamiento presentado por las partes durante la instrucción del juicio, la cual, podrá resolverse de forma pública o privada.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+La acumulación o escisión podrá decretarla de oficio el Pleno del Tribunal Electoral o a solicitud de cualquiera de las magistraturas o las partes sin mayor trámite.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -395,7 +403,9 @@ Las notificaciones en los medios de impugnación previstos en esta ley, surtirá
 
 Para la resolución pronta y expedita de los medios de impugnación previstos en esta ley, el Tribunal Electoral podrá determinar su acumulación o escisión.
 
-La acumulación o escisión podrá decretarla de oficio el Pleno del Tribunal Electoral o a solicitud de cualquiera de las magistraturas o las partes sin mayor trámite.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+La acumulación o escisión podrá decretarla de oficio la Magistratura instructora o a solicitud de las partes, sin mayor trámite.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -573,6 +583,10 @@ VII. Hacer constar el nombre y la firma autógrafa del compareciente.
 
 Los requisitos para la presentación de los escritos a través del Sistema de Justicia Electoral Digital se ajustarán a lo previsto en el Reglamento Interno del Tribunal Electoral.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+Además, la Magistratura instructora podrá llamar a juicio a las tercerías interesadas que considere necesarias para su debida tramitación, siempre que ello ocurra antes del cierre de instrucción, y tenga por objetivo salvaguardar la garantía de audiencia y los derechos de la tercería.
+
 ###### Artículo 49.
 
 El incumplimiento de cualquiera de los requisitos previstos por las fracciones I, II, V y VII del artículo anterior, será causa para tener por no presentado el escrito correspondiente.
@@ -625,7 +639,9 @@ I. El Presidente del Tribunal Electoral, remitirá conforme al turno correspondi
 
 II. El magistrado instructor revisará de oficio si el medio de impugnación reúne los requisitos señalados en el artículo 39 y si viene acompañada de los documentos a que se refiere el artículo 40 de esta ley.
 
-III. Si el magistrado instructor advierte que el promovente no cumple con los requisitos señalados en los artículos 39 y 40, y éstos no se pueden deducir de los elementos que obran en el expediente, podrá formular requerimiento con el apercibimiento de tener por no presentado el medio de impugnación si no se satisfacen sustancialmente los mismos, dentro de un plazo de veinticuatro horas contadas a partir del momento en que se le notifique el auto correspondiente.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+III. Si el magistrado instructor advierte que el promovente no cumple con los requisitos señalados en los artículos 39 y 40, y éstos no se pueden deducir de los elementos que obran en el expediente, podrá formular requerimiento con el apercibimiento de tener por no presentado el medio de impugnación si no se satisfacen sustancialmente los mismos, dentro de un plazo de veinticuatro horas contadas a partir del momento en que se le notifique el auto correspondiente. En caso de que se considere que no se satisfizo la prevención, la Magistratura instructora dará vista al Pleno para hacer efectivo el apercibimiento en los términos de la siguiente fracción de este artículo.
 
 IV. Cuando se dé alguno de los supuestos previstos en el artículo 41 o se acredite cualquiera de las causas de improcedencia señaladas en el artículo 42 o en cualquier otro caso similar, el magistrado instructor propondrá al Tribunal Electoral un proyecto de sentencia por el que se deseche de plano el medio de impugnación.
 
@@ -1039,11 +1055,11 @@ I. Los partidos políticos o coaliciones con interés legítimo.
 
 II. Los candidatos, exclusivamente cuando por motivos de inelegibilidad la autoridad electoral correspondiente decida no otorgarles la constancia de mayoría. En todos los demás casos, sólo podrán intervenir como coadyuvantes.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 89.
 
-En los casos específicos en los que el motivo del juicio electoral se relacione con la práctica de los cómputos, el término previsto en esta ley de tres días para presentar el medio de impugnación correspondiente, deberá computarse a partir del día siguiente al en que concluya la práctica de dichos cómputos.
+En los casos específicos en los que el motivo del juicio electoral se relacione con la práctica de los cómputos, el término previsto en esta ley de cuatro días para presentar el medio de impugnación correspondiente, deberá computarse a partir del día siguiente al en que concluya la práctica de dichos cómputos.
 
 ###### Artículo 90.
 
@@ -1156,6 +1172,10 @@ II. Cuando omitan practicar las actuaciones o diligencias que señale la ley o q
 III. Cuando omitan dictar las resoluciones que la ley dispone.
 
 IV. Cuando omitan cumplir las formalidades esenciales del procedimiento que señale la ley.
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+V. Contra cualquier omisión cometida por las autoridades señaladas en el artículo anterior.
 
 ###### Artículo 104.
 
@@ -1702,6 +1722,18 @@ Se derogan las disposiciones que se opongan a lo previsto en el presente decreto
 P.O. 30 DE SEPTIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 272.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA POLÍTICO-ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones en contrario a este Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 534. SE REFORMA EL NUMERAL UNO DEL ARTÍCULO 424, NUMERAL UNO DEL ARTÍCULO 429, NUMERAL TRES DEL ARTÍCULO 432, LOS NUMERALES UNO Y TRES DEL ARTÍCULO 433, ARTÍCULO 435 NUMERAL 1 INCISO 1), ARTÍCULO 436 NUMERAL 1 INCISOS F), H) Y R), ARTÍCULO 437 NUMERAL 1 INCISO B) ASÍ COMO SU FRACCIÓN III.; SE ADICIONAN LAS FRACCIONES I A X AL NUMERAL 3 DEL ARTÍCULO 433 Y EL INCISO E) AL NUMERAL 1 DEL ARTÍCULO 283 TER DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 37, LA FRACCIÓN III, DEL ARTÍCULO 52, ARTÍCULO 89; SE ADICIONAN EL CUARTO Y QUINTO PÁRRAFO AL ARTÍCULO 13, EL PÁRRAFO TERCERO AL ARTÍCULO 48, LA FRACCIÓN V AL ARTÍCULO 103 DE LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA POLÍTICO-ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ###### ARTÍCULO PRIMERO.
 
