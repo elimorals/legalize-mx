@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-prevencion-tratamiento-y-combate-del-sobrepeso-1127
 country: "mx"
 rank: "ley"
 publication_date: "2016-02-17"
-last_updated: "2023-06-22"
+last_updated: "2023-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 17 de febrero de 2016,
 
@@ -117,9 +117,9 @@ I. Un Presidente, que será el Titular de la Secretaría de Salud.
 
 II. Un Secretario Técnico, que será el titular de la Subdirección de Prevención y Control de Enfermedades del Instituto de Salud del Estado de México.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 29 DE SEPTIEMBRE DE 2023)</small>
 
-III. Cinco vocales, que serán los siguientes:
+III. Ocho vocales, que serán los siguientes:
 
 > <small>(REFORMADO, G.G. 6 DE MAYO DE 2022)</small>
 
@@ -135,7 +135,9 @@ d) La persona titular de la Secretaría de Cultura y Turismo.
 
 e) La Directora General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
 
-f) El Diputado Presidente de la Comisión Legislativa de Salud, Asistencia y Bienestar Social del Poder Legislativo del Estado de México.
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2023)</small>
+
+f) Las Diputadas o los Diputados Presidentes de las Comisiones Legislativas de Salud, Asistencia y Bienestar Social; de Educación, Cultura, Ciencia y Tecnología; y de Familia y Desarrollo Humano, del Poder Legislativo del Estado de México.
 
 IV. Invitados, que serán:
 
@@ -632,3 +634,11 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 29 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 188.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN III Y SU INCISO F) DEL ARTÍCULO 6 DE LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
