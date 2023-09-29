@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-etica-y-conducta-de-la-comision-estatal-electoral-141
 country: "mx"
 rank: "codigo"
 publication_date: "2020-01-27"
-last_updated: "2020-01-27"
+last_updated: "2023-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE ETICA Y CONDUCTA DE LA COMISION ESTATAL ELECTORAL DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO MEDIANTE EL CUAL SE ABROGA EL CÓDIGO DE ÉTICA Y CONDUCTA DE LA COMISIÓN ESTATAL ELECTORAL Y SE EMITE EL CÓDIGO DE ÉTICA Y CONDUCTA DEL INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 29 DE SEPTIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA Y CONDUCTA DE LA COMISIÓN ESTATAL ELECTORAL DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2023 (ABROGADO).
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el lunes 27 de enero de 2020.
 
@@ -784,3 +786,17 @@ SEGUNDO. Se deja sin efectos cualquier disposición que se oponga al presente C�
 Emisión del reglamento
 
 TERCERO. El Órgano Interno deberá emitir en un lapso máximo de sesenta días naturales el Reglamento Interno del Órgano Interno de Control y de procedimientos de responsabilidad administrativa.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO MEDIANTE EL CUAL SE ABROGA EL CÓDIGO DE ÉTICA Y CONDUCTA DE LA COMISIÓN ESTATAL ELECTORAL Y SE EMITE EL CÓDIGO DE ÉTICA Y CONDUCTA DEL INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE NUEVO LEÓN".]
+
+PRIMERO. El Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Nuevo León.
+
+SEGUNDO. Se abroga el Código de Ética y Conducta de la Comisión Estatal Electoral publicado en fecha 27 de enero de 2020 en el Periódico Oficial del Estado de Nuevo León.
+
+TERCERO. Los procedimientos de responsabilidad administrativa y los procedimientos laborales sancionadores iniciados con anterioridad a la entrada en vigor del presente Código se seguirán conforme al Código vigente al momento de su inicio.
+
+CUARTO. Se instruye a la Secretaria Ejecutiva para que realice las gestiones necesarias para la celebración del convenio a que se refiere el artículo 34 del Código con las instituciones que se estimen convenientes.
