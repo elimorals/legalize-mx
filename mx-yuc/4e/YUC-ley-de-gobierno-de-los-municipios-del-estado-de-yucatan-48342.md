@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2023-09-28"
+last_updated: "2023-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -1275,11 +1275,11 @@ IV.- Vigilar la ejecución de los planes y programas, y
 
 V.- Regular de manera conjunta y coordinada con el Estado, y con otros Municipios, las zonas de conurbación.
 
-> <small>(ADICIONADO, D.O. 31 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
-E) De igualdad de género:
+E) De igualdad entre mujeres y hombres y acceso de las mujeres a una vida libre de violencia:
 
-Cumplir con las atribuciones establecidas en la Ley para la Igualdad entre Mujeres y Hombres del Estado de Yucatán, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Yucatán, y demás disposiciones legales aplicables.
+Cumplir con las atribuciones establecidas en la Ley para la Igualdad entre Mujeres y Hombres del Estado de Yucatán, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Yucatán, la Ley que regula a las Instancias Municipales de las Mujeres en el Estado de Yucatán, y demás disposiciones legales aplicables.
 
 ###### Artículo 42.
 
@@ -1451,9 +1451,9 @@ IX.- Fomentar la cultura de la prevención contra la corrupción entre los funci
 
 X.- Las demás que les asignen las diversas leyes.
 
-> <small>(ADICIONADO, D.O. 31 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
-Artículo 46 A.- Es obligación del Ayuntamiento, en materia de igualdad, crear la instancia municipal para el empoderamiento de las mujeres como un organismo público descentralizado, organismo desconcentrado o unidad administrativa, de conformidad con su disponibilidad presupuestaria, responsable de promover y fomentar la igualdad de género, mediante la incorporación de la perspectiva de género, la igualdad sustantiva y la de género, y la transversalidad en las políticas públicas, programas y demás instrumentos de planeación municipales.
+Artículo 46 A.- Es obligación del Ayuntamiento, en materia de igualdad, crear la instancia municipal de las mujeres como un organismo público descentralizado, organismo desconcentrado o unidad administrativa, la cual tendrá como objeto promover y fomentar la igualdad entre mujeres y hombres, para una igualdad sustantiva, para garantizar el derecho de las mujeres una vida libre de violencia; así como transversalizar la perspectiva de género en la normativa municipal, toma de decisiones, en las políticas públicas, programas y demás instrumentos de planeación municipal; así como en la actuación de personas funcionarias y personas servidoras públicas municipales.
 
 ###### Artículo 47.
 
@@ -1543,9 +1543,9 @@ V.- Servicios públicos;
 
 VI.- Salud y ecología, y
 
-> <small>(ADICIONADA, D.O. 31 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, D.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
-VII.- Igualdad de género.
+VII.- Igualdad entre mujeres y hombres y acceso de las mujeres a una vida libre de violencia.
 
 ###### Artículo 52.
 
@@ -4418,3 +4418,19 @@ Artículo primero. Este decreto entrará en vigor el día siguiente al de su pub
 Cláusula derogatoria
 
 Artículo segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo establecido en este Decreto.
+
+D.O. 29 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 680/2023 POR EL SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, SE EXPIDE LA LEY QUE REGULA A LAS INSTANCIAS MUNICIPALES DE LAS MUJERES EN EL ESTADO DE YUCATÁN Y SE MODIFICA LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES Y DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. De la implementación
+
+Los ayuntamientos de los municipios que no cuenten con infraestructura y personal para operar la instancia municipal de las mujeres, tendrán noventa días naturales, a partir de la entrada en vigor de este decreto, para implementarla.
+
+Artículo Tercero. De las vacantes
+
+Las instancias municipales de las mujeres a que se refiere este decreto deberán cumplir, en la ocupación de sus puestos de nueva creación y las vacantes, lo dispuesto en (sic) párrafo segundo del artículo 80 de la Ley de Gobierno de los Municipios del Estado de Yucatán.
