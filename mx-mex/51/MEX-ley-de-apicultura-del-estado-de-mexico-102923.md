@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-apicultura-del-estado-de-mexico-102923"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-21"
-last_updated: "2022-03-22"
+last_updated: "2023-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE APICULTURA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 21 de octubre de 2014.
 
@@ -76,6 +76,10 @@ VII. Ciclo apícola: Al comprendido durante un período anual dividido en etapas
 VIII. Colmena: Al alojamiento permanente de una colonia de abejas con sus panales.
 
 IX. Consejo Apícola: Al órgano técnico especializado, que de manera colegiada estudia la situación de la apicultura en el Estado, para promover mecanismos que fortalezcan la industria apícola.
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2023)</small>
+
+IX Bis. Espacio Polinizador: A los contenedores, jardines, terrenos o áreas que cuenten con flora melífera, nativas que favorezcan la actividad apícola y a los polinizadores.
 
 X. Criadero de reinas: Al conjunto de colmenas de tipo técnico dividido interiormente, o de medidas especiales, destinado principalmente a la obtención de abejas reinas.
 
@@ -138,6 +142,10 @@ VII. Apoyar programas que permitan diversificar la comercialización de otros pr
 VIII. Apoyar a la investigación enfocada a la creación de medicamentos naturales para el manejo de las colonias de abejas que permita mejorar la calidad de la miel y los demás productos de la colmena.
 
 IX. Fomentar la instalación y funcionamiento de centros de cría de abejas reina mejoradas.
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2023)</small>
+
+IX Bis. Impulsar la creación, instalación, atención o transformación de áreas verdes del Estado de México y sus municipios, así como de los entes privados interesados en espacios polinizadores, así como generar campañas permanentes para establecer plantaciones acordes con la región.
 
 X. Coordinarse con autoridades federales, estatales y municipales para el control de las actividades del hombre que dañen a la apicultura, sujetándose a las normas, lineamientos y procedimientos que se establezcan a nivel federal.
 
@@ -746,3 +754,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor a los 180 días naturales posteriores a su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. El Ejecutivo del Estado en un plazo no mayor a 90 días hábiles, deberá expedir las disposiciones reglamentarias y administrativas en materia de su competencia, de conformidad con el presente Decreto.
+
+G.G. 29 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 187.- POR EL QUE SE ADICIONA LA FRACCIÓN IX BIS AL ARTÍCULO 3 Y LA FRACCIÓN IX BIS AL ARTÍCULO 6 DE LA LEY DE APICULTURA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría del Campo, en un periodo de 90 días naturales posteriores a la publicación del presente Decreto elaborará y publicará los lineamientos técnicos para creación de los Espacios Polinizadores.
