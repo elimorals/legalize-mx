@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-del-patrimonio-cultural-para-el-estado-de-464
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-30"
-last_updated: "2020-04-16"
+last_updated: "2023-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de julio de 2005.
 
@@ -625,6 +625,10 @@ Se crea el Registro Estatal del Patrimonio Cultural dependiente de la SECULT; co
 
 El encargado del Registro será designado por el titular de la SECULT, y contará con el personal necesario para su funcionamiento.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+Los propietarios de bienes muebles culturales, declarados como tales y que estén inscritos en el Registro Estatal del Patrimonio Cultural, deberán reportar a la SECULT, la ubicación, y en su caso los cambios en el estado de conservación, de dichos bienes, cada dos años, de acuerdo al Reglamento de esta Ley.
+
 ###### ARTICULO 50.
 
 En el caso de personas que tengan en su poder colecciones privadas de bienes culturales, así como objetos que guarden las características que define esta Ley, están obligadas a inscribirlas en el Registro Estatal del Patrimonio Cultural.
@@ -860,5 +864,13 @@ P.O. 16 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0663.- SE ADICIONA AL ARTÍCULO 32 SIETE PÁRRAFOS, DE LA LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0842.- SE ADICIONA AL ARTÍCULO 49 ÚLTIMO PÁRRAFO, DE LA LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
