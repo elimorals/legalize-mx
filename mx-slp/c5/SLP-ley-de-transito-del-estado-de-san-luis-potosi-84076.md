@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2023-09-08"
+last_updated: "2023-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -1175,6 +1175,12 @@ El funcionamiento de las escuelas de manejo estará bajo supervisión de la Secr
 
 Si a consecuencia de un hecho de tránsito no resultaren muertos, ni lesionados graves, y solamente se causaren daños a la propiedad de los particulares, las partes podrán llegar a un convenio sin dar conocimiento a las autoridades de tránsito, o con autorización de éstas, si tuvieren conocimiento del caso.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+ARTICULO 74 BIS. En el caso al que se refiere el artículo anterior, las partes deberán videograbar y capturar fotografías del hecho de tránsito, para efecto de que se identifiquen plenamente los daños, así como los vehículos que intervinieron. Si el estado mecánico de éstos permite la movilización, y de conformidad con las compañías aseguradoras, en el caso de que las haya, podrán convenir la movilización inmediata a un espacio de resguardo para liberar la vialidad obstruida como consecuencia del hecho de tránsito, y acordar lo relativo al convenio.
+
+El convenio entre las partes no las libera de las responsabilidades que resulten de las infracciones a esta Ley y demás ordenamientos aplicables.
+
 ###### ARTICULO 75.
 
 El conductor de un vehículo implicado en un hecho de tránsito con saldo de lesionados, deberá proceder a prestar ayuda a éstos si tuviera los conocimientos indispensables para ello; además, en su propio vehículo, podrá trasladar a los lesionados al lugar más próximo en que puedan recibir auxilio.
@@ -1946,6 +1952,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE SEPTIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0821.- SE ADICIONA AL ARTÍCULO 86 EL PÁRRAFO SEGUNDO, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 35 EN SUS FRACCIONES X Y XI; Y ADICIONA AL MISMO ARTÍCULO 35 LA FRACCIÓN XII, DE LA LEY DE SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0844.- SE ADICIONA EL ARTÍCULO 74 BIS, A LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
