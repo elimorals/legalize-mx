@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-educacion-del-estado-de-zacatecas-143279"
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-17"
-last_updated: "2022-12-10"
+last_updated: "2023-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Suplemento al Número 49 del Periódico Oficial del Estado de Zacatecas, el miércoles 17 de junio de 2020.
 
@@ -167,7 +167,9 @@ Bases para el fomento de la educación
 
 En el Estado se fomentará en las personas una educación basada en:
 
-I. La identidad y el sentido de pertenencia como zacatecana y zacatecano, además del respeto desde la interculturalidad, para considerarse como parte de una nación pluricultural y plurilingüe con una historia que cimenta perspectivas del futuro, que promueva la convivencia armónica entre personas y comunidades para el respeto y reconocimiento de sus diferencias y derechos, en un marco de inclusión social;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+I. La identidad y el sentido de pertenencia como zacatecana y zacatecano, además del respeto desde la interculturalidad, para considerarse como parte de una nación pluricultural y plurilingüe con una historia que cimenta perspectivas del futuro, que promueva la convivencia armónica entre personas y comunidades para el respeto y reconocimiento de sus diferencias y derechos, en un marco de inclusión social; desde un enfoque con perspectiva de género que contribuya a erradicar la discriminación y violencia derivada de los roles o papeles atribuidas a los sexos; sin importar el origen étnico, género, edad, discapacidad, condición social, religión, preferencia sexual, o cualquier otra que atente contra la dignidad humana que anule los derechos y libertades individuales de las personas.
 
 II. La responsabilidad ciudadana, sustentada en valores como la honestidad, la justicia, la solidaridad, la reciprocidad, la lealtad, la libertad, entre otros;
 
@@ -176,6 +178,10 @@ III. La participación activa en la transformación de la sociedad, al emplear e
 IV. El respeto y cuidado al medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación con la naturaleza y de los temas sociales, ambientales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación y promuevan estilos de vida sostenibles, y
 
 V. El respeto y conservación del patrimonio cultural e histórico, así como de las tradiciones, usos y costumbres del Estado.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Contribuir al desarrollo integral de las personas, para que ejerzan plena y responsablemente sus capacidades humanas, ello bajo el esquema de planes y programas de estudio con perspectiva de género.
 
 Principios de la educación
 
@@ -857,7 +863,9 @@ VI. El aprendizaje de las lenguas extranjeras;
 
 VII. El fomento de la activación física, la práctica del deporte y la educación física;
 
-VIII. La promoción de estilos de vida saludables, la educación para la salud, la importancia de la donación de órganos, tejidos y sangre;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. La promoción de estilos de vida saludables, higiene personal y hábitos para una correcta higiene bucal, la educación para la salud, la importancia de la donación de órganos, tejidos y sangre;
 
 IX. El fomento de la igualdad de género para la construcción de una sociedad justa e igualitaria;
 
@@ -908,6 +916,10 @@ Capacitación de maestras y maestros
 ###### Artículo 61.
 
 La Secretaría, en el ámbito de su competencia, promoverá la formación y capacitación de maestras y maestros para desarrollar las habilidades necesarias en el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital para favorecer el proceso educativo.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Conforme a los ordenamientos señalados en el párrafo anterior, la Secretaria desarrollará programas y brindará capacitaciones a los maestros sobre la paridad, equidad y la igualdad que tienen los alumnos dentro del aula de clase; en todos los niveles se diseñarán e implementarán planes y programas de estudio con perspectiva de género.
 
 ### Capítulo IV. Guía Operativa para la Organización y Funcionamiento de los Servicios de Educación Básica y Media Superior
 
@@ -961,9 +973,11 @@ Las madres y padres de familia o tutores serán corresponsables en el proceso ed
 
 Orientación para las familias de los educandos
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 68.
 
-La Secretaría desarrollará actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
+La Secretaría desarrollará actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud, higiene personal y hábitos para una correcta higiene bucal, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
 
 ### Capítulo VII. Complementos del proceso educativo
 
@@ -2082,3 +2096,19 @@ Artículo primero. El presente decreto entrará en vigor al día siguiente de su
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 Artículo tercero. La Secretaría de Educación deberá prever en el proyecto de presupuesto que remita a la Secretaría de Finanzas partidas presupuestales para generar un programa específico de becas para alumnos con discapacidad, así como para garantizar la señalización adecuada en las escuelas públicas.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 326.- MEDIANTE EL CUAL SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 327.- MEDIANTE EL CUAL SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
