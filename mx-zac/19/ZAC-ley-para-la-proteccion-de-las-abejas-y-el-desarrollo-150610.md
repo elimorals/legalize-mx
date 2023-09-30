@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-proteccion-de-las-abejas-y-el-desarrollo-150610"
 country: "mx"
 rank: "ley"
 publication_date: "2021-08-11"
-last_updated: "2021-08-11"
+last_updated: "2023-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA LA PROTECCIÓN DE LAS ABEJAS Y EL DESARROLLO APÍCOLA DEL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Número 64 del Periódico Oficial del Estado de Zacatecas, el miércoles 11 de agosto de 2021.
 
@@ -839,6 +839,10 @@ Los avisos se realizarán por medio de la línea telefónica gratuita que para t
 
 Cuando se pretenda aplicar algún plaguicida, deberá preferirse el uso de aspersiones líquidas.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Se impedirá el uso de aquellos insumos fitosanitarios como plaguicidas, fertilizantes o nutrientes vegetales que no cuenten con el registro sanitario vigente expedido por la autoridad competente, y que puedan, en consecuencia, causar daño a los ecosistemas, a los insectos polinizadores, a la salud humana y a la sociedad.
+
 ###### Artículo 66.
 
 Quienes efectúen quemas, quedan obligados a tomar todas las precauciones que sean necesarias para evitar que el fuego llegue a las colmenas instaladas en las cercanías del predio donde se realice. De no observarse lo anterior, serán responsables de los daños que se ocasionen a las colmenas y estarán obligados al pago de los daños y perjuicios conforme a lo dispuesto en el Código Civil del Estado y otras disposiciones.
@@ -1072,3 +1076,13 @@ DADO en la Sala de Sesiones de la Honorable Sexagésima Tercera Legislatura del 
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 Dado en el Despacho del Poder Ejecutivo del Estado, a los trece días del mes de julio del año dos mil veintiuno. GOBERNADOR DEL ESTADO.- ALEJANDRO TELLO CRISTERNA. SECRETARIO GENERAL DE GOBIERNO.- ERIK FABIÁN MUÑOZ ROMÁN. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 304.- SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 65 DE LA LEY PARA LA PROTECCIÓN DE LAS ABEJAS Y EL DESARROLLO APÍCOLA DEL ESTADO Y MUNICIPIOS DE ZACATECAS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Zacatecas.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
