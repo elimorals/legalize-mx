@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fomento-a-la-ganaderia-del-estado-de-zacatecas-50400"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-29"
-last_updated: "2021-02-20"
+last_updated: "2023-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE FOMENTO A LA GANADERÍA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Suplemento No. 2 al Periódico Oficial del Estado de Zacatecas, el sábado 29 de abril del 2006.
 
@@ -77,13 +77,17 @@ V. El fomento de la investigación pecuaria y la divulgación de los resultados 
 
 VI. La conservación, mejoramiento, recuperación y explotación racional de los recursos naturales relacionados con la ganadería;
 
-VII. El fomento del mejoramiento genético de los hatos, criaderos, parvadas, piaras y rebaños, de las diferentes especies zootécnicas que se exploten con fines comerciales, industriales, tras patio, investigación u otros;
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-VIII. El fortalecimiento de las organizaciones de ganaderos en el Estado;
+VII. Fomentar la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales, mediante su aprovechamiento sustentable y la promoción del uso de fuentes de energías limpias y renovables;
 
-IX. El establecimiento de los mecanismos y la búsqueda de los canales de comercialización más adecuados para los ganaderos; y
+VIII. El fomento del mejoramiento genético de los hatos, criaderos, parvadas, piaras y rebaños, de las diferentes especies zootécnicas que se exploten con fines comerciales, industriales, tras patio, investigación u otros;
 
-X. La sanción de las conductas que sean contrarias a esta Ley.
+IX. El fortalecimiento de las organizaciones de ganaderos en el Estado;
+
+X. El establecimiento de los mecanismos y la búsqueda de los canales de comercialización más adecuados para los ganaderos; y
+
+XI. La sanción de las conductas que sean contrarias a esta Ley.
 
 ###### Artículo 3.
 
@@ -141,63 +145,71 @@ XIII. ENFERMEDAD O PLAGA EXÓTICA: La que es extraña en el territorio estatal o
 
 XIV. ENFERMEDAD ZOONÓTICA: Enfermedad transmisible de los animales al humano;
 
-XV. EXPLOTACIÓN PECUARIA: Actividades pecuarias cuyo objeto es obtener un beneficio económico;
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-XVI. GANADO: Conjunto de animales que son criados para su explotación;
+XV. Fuentes de energías renovables. Aquellas fuentes de energía y procesos de generación de electricidad que residan en fenómenos de la naturaleza, procesos o materiales susceptibles de ser transformados en energía aprovechable por el ser humano, que se regeneran naturalmente, por lo que se encuentran disponibles de forma continua o periódica, y que al ser generadas no liberan emisiones contaminantes;
 
-XVII. GANADERÍA: Cría de ganado;
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-XVIII. GANADERO: Persona física o moral que se dedica a la cría o engorda del ganado mayor o menor;
+XVI. Fuentes de energías limpias. Aquellas fuentes de energía y procesos de generación de electricidad cuyas emisiones o residuos, cuando los haya, no rebasen los umbrales establecidos en las disposiciones reglamentarias que para tal efecto se expidan.
 
-XIX. GUÍA DE TRÁNSITO: Documento expedido por la autoridad competente que permite a los ganaderos movilizar por el territorio estatal a su ganado, sus productos y subproductos;
+XVII. EXPLOTACIÓN PECUARIA: Actividades pecuarias cuyo objeto es obtener un beneficio económico;
 
-XX. INCIDENCIA: Número de nuevos casos en que en población animal determinada, aparece una enfermedad, durante un periodo específico y en área geográfica definida;
+XVIII. GANADO: Conjunto de animales que son criados para su explotación;
 
-XXI. LABORATORIO DE PRUEBAS: Persona física o moral autorizada por la Secretaría para prestar servicios relacionados con la normalización, de acuerdo a lo establecido por la Ley Federal sobre Metrología y Normalización;
+XIX. GANADERÍA: Cría de ganado;
 
-XXII. LEY: Esta Ley de Fomento a la Ganadería del Estado de Zacatecas;
+XX. GANADERO: Persona física o moral que se dedica a la cría o engorda del ganado mayor o menor;
 
-XXIII. LEY FORESTAL: La Ley Forestal Federal;
+XXI. GUÍA DE TRÁNSITO: Documento expedido por la autoridad competente que permite a los ganaderos movilizar por el territorio estatal a su ganado, sus productos y subproductos;
 
-XXIV. NOM's: Normas Oficiales Mexicanas;
+XXII. INCIDENCIA: Número de nuevos casos en que en población animal determinada, aparece una enfermedad, durante un periodo específico y en área geográfica definida;
 
-XXV. ORGANISMOS O CENTROS DE CERTIFICACIÓN ZOOSANITARIA: Las personas morales que tengan por objeto realizar funciones de inspección y certificación, para el cumplimiento de las normas oficiales mexicanas en materia de movilización de animales, productos y subproductos de origen animal, de conformidad con lo establecido en la Ley Federal sobre Metrología y Normalización;
+XXIII. LABORATORIO DE PRUEBAS: Persona física o moral autorizada por la Secretaría para prestar servicios relacionados con la normalización, de acuerdo a lo establecido por la Ley Federal sobre Metrología y Normalización;
 
-XXVI. OVINOCULTURA: La cría y explotación de los ovinos, así como la industrialización de sus productos y subproductos;
+XXIV. LEY: Esta Ley de Fomento a la Ganadería del Estado de Zacatecas;
 
-XXVII. PLAGA: Presencia de un agente biológico en un área determinada, que causa enfermedad o alteración en la salud de la población;
+XXV. LEY FORESTAL: La Ley Forestal Federal;
+
+XXVI. NOM's: Normas Oficiales Mexicanas;
+
+XXVII. ORGANISMOS O CENTROS DE CERTIFICACIÓN ZOOSANITARIA: Las personas morales que tengan por objeto realizar funciones de inspección y certificación, para el cumplimiento de las normas oficiales mexicanas en materia de movilización de animales, productos y subproductos de origen animal, de conformidad con lo establecido en la Ley Federal sobre Metrología y Normalización;
+
+XXVIII. OVINOCULTURA: La cría y explotación de los ovinos, así como la industrialización de sus productos y subproductos;
+
+XXIX. PLAGA: Presencia de un agente biológico en un área determinada, que causa enfermedad o alteración en la salud de la población;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
 
-XXVIII. PLANTA DE SACRIFICIO: Lugar específico para el sacrificio y empaque de productos derivados de animales para consumo humano;
+XXX. PLANTA DE SACRIFICIO: Lugar específico para el sacrificio y empaque de productos derivados de animales para consumo humano;
 
-XXIX. PORCICULTURA: La cría y explotación de los cerdos, así como la industrialización de sus productos y subproductos;
+XXXI. PORCICULTURA: La cría y explotación de los cerdos, así como la industrialización de sus productos y subproductos;
 
-XXX. PREVENCIÓN: Conjunto de medidas zoosanitarias basadas en estudios epizootiológicos, que tienen por objeto evitar la presencia de una enfermedad o plaga de los animales;
+XXXII. PREVENCIÓN: Conjunto de medidas zoosanitarias basadas en estudios epizootiológicos, que tienen por objeto evitar la presencia de una enfermedad o plaga de los animales;
 
-XXXI. PRODUCTOS BIOLÓGICOS: Los reactivos biológicos, sueros y vacunas, que pueden utilizarse para diagnosticar, tratar y prevenir enfermedades de los animales, así como las hormonas y material genético de origen animal que sirva para fines reproductivos;
+XXXIII. PRODUCTOS BIOLÓGICOS: Los reactivos biológicos, sueros y vacunas, que pueden utilizarse para diagnosticar, tratar y prevenir enfermedades de los animales, así como las hormonas y material genético de origen animal que sirva para fines reproductivos;
 
-XXXII. PUNTO DE VERIFICACIÓN: Sitio aprobado por la Secretaría, para constatar el cumplimiento de lo establecido en la presente ley y demás normas aplicables;
+XXXIV. PUNTO DE VERIFICACIÓN: Sitio aprobado por la Secretaría, para constatar el cumplimiento de lo establecido en la presente ley y demás normas aplicables;
 
-XXXIII. RASTRO: Servicio público autorizado para el sacrificio de las especies animales para el consumo humano;
+XXXV. RASTRO: Servicio público autorizado para el sacrificio de las especies animales para el consumo humano;
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-XXXIV. SADER: Secretaría de Agricultura y Desarrollo Rural;
+XXXVI. SADER: Secretaría de Agricultura y Desarrollo Rural;
 
-XXXV. SANIDAD ANIMAL: La que tiene por objeto preservar la salud y prevenir las enfermedades y plagas de los animales, con excepción de los que tengan como hábitat el medio acuático;
+XXXVII. SANIDAD ANIMAL: La que tiene por objeto preservar la salud y prevenir las enfermedades y plagas de los animales, con excepción de los que tengan como hábitat el medio acuático;
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-XXXVI. SECRETARIA: La Secretaría del Campo;
+XXXVIII. SECRETARIA: La Secretaría del Campo;
 
-XXXVII. SEMARNAT: Secretaría del Medio Ambiente y Recursos Naturales;
+XXXIX. SEMARNAT: Secretaría del Medio Ambiente y Recursos Naturales;
 
-XXXVIII. SUBPRODUCTO ANIMAL: Todos aquellos derivados que provienen de la explotación pecuaria;
+XL. SUBPRODUCTO ANIMAL: Todos aquellos derivados que provienen de la explotación pecuaria;
 
-XXXIX. SUPERVISOR DE GANADO LOCAL: Aquella persona que esta autorizada por la Secretaría para realizar la verificación de ganado; y,
+XLI. SUPERVISOR DE GANADO LOCAL: Aquella persona que esta autorizada por la Secretaría para realizar la verificación de ganado; y,
 
-XL. VERIFICACIÓN: Constancia ocular o comprobación mediante muestreo y análisis de laboratorio aprobado o acreditado, del cumplimiento de las normas oficiales, de acuerdo a lo establecido en la presente Ley y en la Ley Federal sobre Metrología y Normalización.
+XLII. VERIFICACIÓN: Constancia ocular o comprobación mediante muestreo y análisis de laboratorio aprobado o acreditado, del cumplimiento de las normas oficiales, de acuerdo a lo establecido en la presente Ley y en la Ley Federal sobre Metrología y Normalización.
 
 ## TÍTULO SEGUNDO. DE LAS AUTORIDADES COMPETENTES
 
@@ -295,131 +307,135 @@ La Secretaría, además de las atribuciones contempladas en la Ley Orgánica de 
 
 I. Proponer políticas y proyectos relativos al desarrollo ganadero y agroindustrial de la entidad, determinar los programas estatales prioritarios y canalizar los apoyos financieros necesarios para su cumplimiento;
 
-II. Coordinar las actividades de las dependencias y entidades estatales y municipales, así como de organizaciones sociales y privadas para atender lo relacionado con los programas ganaderos de la entidad;
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-III. Elaborar el programa operativo anual, en coordinación con las dependencias y entidades federales, estatales, municipales y las organizaciones de productores;
+II. Impulsar políticas y programas que promuevan la adopción de fuentes de energías limpias y renovables, así como tecnologías sustentables ahorradoras de energía, en la actividad pecuaria de la Entidad;
 
-IV. Establecer mecanismos de seguimiento y evaluación del programa operativo anual;
+III. Coordinar las actividades de las dependencias y entidades estatales y municipales, así como de organizaciones sociales y privadas para atender lo relacionado con los programas ganaderos de la entidad;
 
-V. Instrumentar órganos de vigilancia y control de las normas previstas en el presente ordenamiento, así como de los programas establecidos;
+IV. Elaborar el programa operativo anual, en coordinación con las dependencias y entidades federales, estatales, municipales y las organizaciones de productores;
+
+V. Establecer mecanismos de seguimiento y evaluación del programa operativo anual;
+
+VI. Instrumentar órganos de vigilancia y control de las normas previstas en el presente ordenamiento, así como de los programas establecidos;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
 
-VI. Establecer, impulsar y apoyar campañas sanitarias permanentes de prevención, manejo, control y combate de plagas y enfermedades que atacan tanto al ganado, como a los cultivos y especies forrajeras;
+VII. Establecer, impulsar y apoyar campañas sanitarias permanentes de prevención, manejo, control y combate de plagas y enfermedades que atacan tanto al ganado, como a los cultivos y especies forrajeras;
 
-VII. Impulsar, apoyar, asesorar y capacitar a los productores y empresarios que realicen actividades ganaderas, agroindustriales y de comercialización de sus productos;
+VIII. Impulsar, apoyar, asesorar y capacitar a los productores y empresarios que realicen actividades ganaderas, agroindustriales y de comercialización de sus productos;
 
-VIII. Promover el desarrollo y operación de la infraestructura productiva del sector agropecuario;
+IX. Promover el desarrollo y operación de la infraestructura productiva del sector agropecuario;
 
-IX. Impulsar la organización de los productores para promover proyectos productivos, su financiamiento, su integración en organismos de apoyo mutuo que les permita abatir costos, elevar su nivel de competitividad y lograr un eficaz proceso de comercialización;
+X. Impulsar la organización de los productores para promover proyectos productivos, su financiamiento, su integración en organismos de apoyo mutuo que les permita abatir costos, elevar su nivel de competitividad y lograr un eficaz proceso de comercialización;
 
-X. Promover entre los ganaderos técnicas y tecnología modernas, a fin de intensificar las acciones en cada sistema de producción;
+XI. Promover entre los ganaderos técnicas y tecnología modernas, a fin de intensificar las acciones en cada sistema de producción;
 
-XI. Fomentar y garantizar la preservación tanto, de los agostaderos, como de las obras de infraestructura, tendientes a intensificar la producción y conservación de los recursos naturales relacionados con la ganadería;
+XII. Fomentar y garantizar la preservación tanto, de los agostaderos, como de las obras de infraestructura, tendientes a intensificar la producción y conservación de los recursos naturales relacionados con la ganadería;
 
-XII. Promover la resiembra y reforestación de agostaderos, con el fin de producir forrajes de mejor calidad y evitar la erosión del suelo;
+XIII. Promover la resiembra y reforestación de agostaderos, con el fin de producir forrajes de mejor calidad y evitar la erosión del suelo;
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-XIII. Reglamentar en el uso común el aprovechamiento de los pastizales con base en los coeficientes de agostaderos emitidos por la Comisión Técnica Consultiva para la Determinación de Coeficientes de Agostaderos de la SADER;
+XIV. Reglamentar en el uso común el aprovechamiento de los pastizales con base en los coeficientes de agostaderos emitidos por la Comisión Técnica Consultiva para la Determinación de Coeficientes de Agostaderos de la SADER;
 
 > <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
 
-XIV. Ordenar la aplicación de todas aquellas medidas tendientes a resolver los problemas que deriven del aprovechamiento de recursos naturales del Estado, en lo relativo a la actividad pecuaria preservando la biodiversidad, el equilibrio ecológico y la conservación del medio ambiente;
+XV. Ordenar la aplicación de todas aquellas medidas tendientes a resolver los problemas que deriven del aprovechamiento de recursos naturales del Estado, en lo relativo a la actividad pecuaria preservando la biodiversidad, el equilibrio ecológico y la conservación del medio ambiente;
 
 > <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
 
-XV. Realizar inspecciones y estudios a terrenos y áreas destinadas para la actividad ganadera en el Estado, dictaminando sobre las condiciones de los recursos naturales y sus tendencias. Los dictámenes establecerán, en su caso, las medidas y recomendaciones para el uso de todos los recursos; y serán del conocimiento del propietario o poseedor del predio, así como de los Delegados Ganaderos, de la Unión Ganadera Regional de Zacatecas y de las Asociaciones Ganaderas que correspondan;
+XVI. Realizar inspecciones y estudios a terrenos y áreas destinadas para la actividad ganadera en el Estado, dictaminando sobre las condiciones de los recursos naturales y sus tendencias. Los dictámenes establecerán, en su caso, las medidas y recomendaciones para el uso de todos los recursos; y serán del conocimiento del propietario o poseedor del predio, así como de los Delegados Ganaderos, de la Unión Ganadera Regional de Zacatecas y de las Asociaciones Ganaderas que correspondan;
 
 > <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
 
-XVI. Vigilar el uso y aprovechamiento de los recursos naturales de los agostaderos para mantener la biodiversidad y su capacidad de potencial productivo;
+XVII. Vigilar el uso y aprovechamiento de los recursos naturales de los agostaderos para mantener la biodiversidad y su capacidad de potencial productivo;
 
 > <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
 
-XVII. Emitir recomendaciones para prevenir y controlar siniestros, plagas y enfermedades en la vegetación de praderas y agostaderos;
+XVIII. Emitir recomendaciones para prevenir y controlar siniestros, plagas y enfermedades en la vegetación de praderas y agostaderos;
 
 > <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
 
-XVIII. Fomentar la recuperación de áreas sobrepastoreadas consideradas básicas para el desarrollo de la ganadería;
+XIX. Fomentar la recuperación de áreas sobrepastoreadas consideradas básicas para el desarrollo de la ganadería;
 
 > <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
 
-XIX. Promover planes de manejo y buenas prácticas pecuarias, así como fomentar la ganadería diversificada, la implementación de cercas vivas, la diversificación de pastos y el aprovechamiento de residuos orgánicos del ganado orientado al aprovechamiento sustentable del potencial productivo;
+XX. Promover planes de manejo y buenas prácticas pecuarias, así como fomentar la ganadería diversificada, la implementación de cercas vivas, la diversificación de pastos y el aprovechamiento de residuos orgánicos del ganado orientado al aprovechamiento sustentable del potencial productivo;
 
 > <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
 
-XX. Fomentar el estímulo y producción de técnicas para el manejo sustentable del agua y suelo en el desarrollo de actividades pecuarias;
+XXI. Fomentar el estímulo y producción de técnicas para el manejo sustentable del agua y suelo en el desarrollo de actividades pecuarias;
 
 > <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
 
-XXI. Establecer recomendaciones en materia de pastoreo rotacional y controlado en las áreas que así lo ameriten;
+XXII. Establecer recomendaciones en materia de pastoreo rotacional y controlado en las áreas que así lo ameriten;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
 
-XXII. Reglamentar en el uso común el aprovechamiento de los pastizales con base en los coeficientes de agostadero;
+XXIII. Reglamentar en el uso común el aprovechamiento de los pastizales con base en los coeficientes de agostadero;
 
-XXIII. Procurar una mejor distribución de los productos y subproductos ganaderos para el abastecimiento del mercado interno y fomentar las exportaciones;
+XXIV. Procurar una mejor distribución de los productos y subproductos ganaderos para el abastecimiento del mercado interno y fomentar las exportaciones;
 
-XXIV. Procurar la transformación e industrialización de los productos y subproductos de origen animal, así como fomentar la engorda de ganado y la instalación de plantas procesadoras, empacadoras, pasteurizadoras, frigoríficos y otras que den valor agregado a la producción pecuaria;
+XXV. Procurar la transformación e industrialización de los productos y subproductos de origen animal, así como fomentar la engorda de ganado y la instalación de plantas procesadoras, empacadoras, pasteurizadoras, frigoríficos y otras que den valor agregado a la producción pecuaria;
 
-XXV. Vigilar el cumplimiento de las disposiciones en materia de sanidad animal, e intervenir en los casos que ésta u otras leyes señalen, para lo cual creará los organismos que considere pertinentes;
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
-
-XXVI. Organizar y dirigir los servicios de inspección, vigilancia y control de ganado en coordinación con ayuntamientos, asociaciones ganaderas locales generales y/o especializadas, y autoridades de salud en el Estado;
-
-XXVII. Vigilar la movilización de ganado;
-
-XXVIII. Autorizar corridas o recuentos de ganado, ya sean generales parciales;
-
-XXIX. Coadyuvar en la elaboración del censo ganadero;
-
-XXX. Promover e impulsar las líneas de investigación científica, de acuerdo a las prioridades para el desarrollo ganadero;
+XXVI. Vigilar el cumplimiento de las disposiciones en materia de sanidad animal, e intervenir en los casos que ésta u otras leyes señalen, para lo cual creará los organismos que considere pertinentes;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
 
-XXXI. Coordinar en conjunto con la Unión Ganadera Regional y asociaciones ganaderas locales, promover y apoyar la realización de congresos, ferias, exposiciones, eventos de mejoramiento genético y simposios estatales, nacionales e internacionales en materia de ganadería;
+XXVII. Organizar y dirigir los servicios de inspección, vigilancia y control de ganado en coordinación con ayuntamientos, asociaciones ganaderas locales generales y/o especializadas, y autoridades de salud en el Estado;
 
-XXXII. Imponer las sanciones y medidas de apremio en los casos de violación a las disposiciones de la presente Ley;
+XXVIII. Vigilar la movilización de ganado;
 
-XXXIII. Formular su presupuesto anual de egresos conforme a los objetivos trazados en el programa operativo anual;
+XXIX. Autorizar corridas o recuentos de ganado, ya sean generales parciales;
 
-XXXIV. Elaborar y presentar para su aprobación a la o el Titular del Ejecutivo, el informe anual del desempeño de actividades, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes, midiendo los objetivos y metas alcanzadas; y
+XXX. Coadyuvar en la elaboración del censo ganadero;
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+XXXI. Promover e impulsar las líneas de investigación científica, de acuerdo a las prioridades para el desarrollo ganadero;
 
-XXXV. Elaborar y distribuir los formatos únicos de Guías de Tránsito de Ganado;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+XXXII. Coordinar en conjunto con la Unión Ganadera Regional y asociaciones ganaderas locales, promover y apoyar la realización de congresos, ferias, exposiciones, eventos de mejoramiento genético y simposios estatales, nacionales e internacionales en materia de ganadería;
 
-XXXVI. Determinar y aplicar las sanciones que correspondan a los infractores de esta ley y su reglamento, a través de la Secretaría y de la Secretaría de Finanzas, para su recaudación;
+XXXIII. Imponer las sanciones y medidas de apremio en los casos de violación a las disposiciones de la presente Ley;
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+XXXIV. Formular su presupuesto anual de egresos conforme a los objetivos trazados en el programa operativo anual;
 
-XXXVII. Designar y remover a los supervisores de movilización dependientes de la Secretaría, supervisar sus actividades, así como promover su profesionalización;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
-
-XXXVIII. Apoyar, a través de los supervisores de movilización, el realeo de ganado, cuando así lo soliciten los productores pecuarios o una autoridad judicial con el fin de acreditar la propiedad del ganado;
+XXXV. Elaborar y presentar para su aprobación a la o el Titular del Ejecutivo, el informe anual del desempeño de actividades, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes, midiendo los objetivos y metas alcanzadas; y
 
 > <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-XXXIX. Coordinar con las autoridades federales, estatales y municipales, el retiro del ganado que paste o transite en el derecho de vía, sin vigilancia de sus propietarios;
+XXXVI. Elaborar y distribuir los formatos únicos de Guías de Tránsito de Ganado;
 
 > <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-LX (SIC). Aplicar las medidas y acciones necesarias para mejorar el estatus sanitario del ganado, procurando incrementar de modo constante los niveles de sanidad animal;
+XXXVII. Determinar y aplicar las sanciones que correspondan a los infractores de esta ley y su reglamento, a través de la Secretaría y de la Secretaría de Finanzas, para su recaudación;
 
 > <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-LXI. Llevar el registro y control de los medios de identificación que permitan acreditar la propiedad de las especies domésticas productivas, productos y subproductos;
+XXXVIII. Designar y remover a los supervisores de movilización dependientes de la Secretaría, supervisar sus actividades, así como promover su profesionalización;
 
 > <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-LXII. Establecer el control y registro estatal de productores pecuarios que estén reconocidos y regulados por la autoridad federal y estatal, así como de sus inventarios, producción a través de la expedición de una identificación oficial, con el fin de ejecutar las acciones regulatorias a que se refiere la presente ley, además de apoyarlas en el cumplimiento de sus atribuciones, y
+XXXIX. Apoyar, a través de los supervisores de movilización, el realeo de ganado, cuando así lo soliciten los productores pecuarios o una autoridad judicial con el fin de acreditar la propiedad del ganado;
 
-XLIII. Las demás que le señale esta ley y las disposiciones legales vigentes.
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XL. Coordinar con las autoridades federales, estatales y municipales, el retiro del ganado que paste o transite en el derecho de vía, sin vigilancia de sus propietarios;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XLI. Aplicar las medidas y acciones necesarias para mejorar el estatus sanitario del ganado, procurando incrementar de modo constante los niveles de sanidad animal;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XLII. Llevar el registro y control de los medios de identificación que permitan acreditar la propiedad de las especies domésticas productivas, productos y subproductos;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XLIII. Establecer el control y registro estatal de productores pecuarios que estén reconocidos y regulados por la autoridad federal y estatal, así como de sus inventarios, producción a través de la expedición de una identificación oficial, con el fin de ejecutar las acciones regulatorias a que se refiere la presente ley, además de apoyarlas en el cumplimiento de sus atribuciones, y
+
+XLIV. Las demás que le señale esta ley y las disposiciones legales vigentes.
 
 ### CAPÍTULO III. De las Facultades y Obligaciones de las Autoridades Municipales
 
@@ -549,11 +565,15 @@ XIII. Establecer almacenes para satisfacer las necesidades de insumo básico de 
 
 XIV. Procurar la transformación e industrialización de los productos pecuarios, así como fomentar empacadoras, pasteurizadoras, frigoríficos, peleterías y demás que sean necesarios para el fomento a la ganadería;
 
-XV. Vigilar el cumplimiento de las disposiciones en materia de sanidad animal e intervenir en los casos que las autoridades competentes le requieran;
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-XVI. Participar en cualquier actividad que contemple el mejoramiento de las condiciones de la producción pecuaria del Estado; y
+XV. Fomentar entre sus asociados el uso de fuentes de energías limpias y renovables para la realización y desarrollo de las actividades ganaderas, a fin de potenciar el sector;
 
-XVII. Colaborar con las autoridades en la medida que éstas lo soliciten.
+XVI. Vigilar el cumplimiento de las disposiciones en materia de sanidad animal e intervenir en los casos que las autoridades competentes le requieran;
+
+XVII. Participar en cualquier actividad que contemple el mejoramiento de las condiciones de la producción pecuaria del Estado; y
+
+XVIII. Colaborar con las autoridades en la medida que éstas lo soliciten.
 
 ###### Artículo 21.
 
@@ -1533,6 +1553,10 @@ IV. Conservar los otros recursos naturales de su pastizal como son la fauna silv
 
 V. Sujetarse a las leyes federales y estatales que resulten aplicables, para destinar los terrenos de agostadero a fines diferentes.
 
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Adoptar fuentes de energías limpias y renovables, así como tecnologías sustentables ahorradoras de energía en sus actividades.
+
 ###### Artículo 164.
 
 El Ejecutivo del Estado, a través de la Secretaría, se coordinará con las autoridades federales que tengan injerencia en la materia, para:
@@ -1546,6 +1570,10 @@ III. Coadyuvar al cumplimiento de la Ley Forestal en relación a la tramitación
 IV. Prevenir y combatir los incendios, plagas y enfermedades de la vegetación en los agostaderos; y
 
 V. Proteger la fauna silvestre.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Promover la adopción de fuentes de energías limpias y renovables, así como tecnologías sustentables ahorradoras de energía para la actividad pecuaria en la Entidad.
 
 ###### Artículo 165.
 
@@ -1596,6 +1624,10 @@ IV. Utilizar adecuadamente los pastizales naturales para su conservación, inclu
 > <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2013)</small>
 
 V. Impulsar programas que faciliten el trámite y aplicación de campañas sanitarias.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Promover la adopción de fuentes de energías limpias y renovables, así como tecnologías sustentables ahorradoras de energía para la actividad pecuaria en la Entidad.
 
 ###### Artículo 171.
 
@@ -1872,3 +1904,19 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán su curso hasta su resolución conforme a las disposiciones aplicables vigentes a su inicio.
 
 Artículo Tercero. Dentro del plazo de 180 días contados a partir de la entrada en vigor de este Decreto, el Ejecutivo del Estado deberá realizar las modificaciones que correspondan al Reglamento de la Ley.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 306.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES CONTENIDAS EN LA LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS Y EN LA LEY DE FOMENTO A LA GANADERÍA DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado actualizará los reglamentos de las leyes reformadas, en un plazo no mayor de 90 días contados a partir de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
