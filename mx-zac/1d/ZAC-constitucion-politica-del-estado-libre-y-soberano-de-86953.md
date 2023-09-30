@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2023-07-01"
+last_updated: "2023-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -881,7 +881,9 @@ Se establecerá un sistema de medios de impugnación contra actos o resoluciones
 
 A. El Tribunal de Justicia Electoral del Estado de Zacatecas, es la autoridad jurisdiccional especializada en materia electoral, dotado de personalidad jurídica y patrimonio propio; de carácter permanente y con plena autonomía en su funcionamiento e independencia en sus decisiones. Deberá cumplir sus funciones bajo los principios de certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y probidad.
 
-El Tribunal de Justicia Electoral del Estado de Zacatecas, se integrará por cinco magistrados, que actuarán en forma colegiada y permanecerán en su encargo durante siete años; serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, mediante convocatoria pública y conforme a lo dispuesto en el reglamento respectivo, y deberán reunir los requisitos establecidos en la Ley General de Instituciones y Procedimientos Electorales. El magistrado presidente será designado por votación mayoritaria de los magistrados integrantes del Pleno y la Presidencia deberá ser rotatoria, de conformidad con lo dispuesto en la ley.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+El Tribunal de Justicia Electoral del Estado de Zacatecas, se integrará por tres magistraturas, que actuarán en forma colegiada y permanecerán en su encargo durante siete años; serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, mediante convocatoria pública y conforme a lo dispuesto en el reglamento respectivo, y deberán reunir los requisitos establecidos en la Ley General de Instituciones y Procedimientos Electorales. El magistrado presidente será designado por votación mayoritaria de los magistrados integrantes del Pleno y la Presidencia deberá ser rotatoria, de conformidad con lo dispuesto en la ley.
 
 Durante el periodo de su encargo, los magistrados electorales no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Tribunal, y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
 
@@ -1272,6 +1274,18 @@ VIII. No ser Consejero Presidente o consejero electoral del Consejo General del 
 > <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
 
 IX. No ser Magistrado Presidente o Magistrado del Tribunal de Justicia Electoral del Estado de Zacatecas, a menos que haya concluido su encargo o se haya separado del mismo, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+X. No estar cumpliendo una condena por violencia familiar, política o cualquier agresión de género en el ámbito privado o público;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XI. No estar cumpliendo una condena por delitos sexuales, contra la libertad sexual o la intimidad corporal; y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XII. No estar inscrito o tener registro vigente como persona deudora alimentaria morosa que atente contra las obligaciones alimentarias, ya sea en el Estado de Zacatecas o en cualquier otra entidad, salvo que acredite estar al corriente del pago.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
@@ -1778,6 +1792,18 @@ VI. No estar en servicio activo en el Ejército Nacional, a menos que se separe 
 VII. No haber sido condenado en juicio por delito infamante; y
 
 VIII. No pertenecer al estado eclesiástico ni ser ministro de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+IX. No estar cumpliendo una condena por violencia familiar, política o cualquier agresión de género en el ámbito privado o público.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+X. No estar cumpliendo una condena por delitos sexuales, contra la libertad sexual o la intimidad corporal; y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XI. No estar inscrito o tener registro vigente como persona deudora alimentaria morosa que atente contra las obligaciones alimentarias, ya sea en el Estado de Zacatecas o en cualquier otra entidad, salvo que acredite estar al corriente del pago.
 
 ###### Artículo 76.
 
@@ -2598,6 +2624,18 @@ i). No ser Consejero Presidente o consejero electoral del Consejo General del In
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
 
 j) No ser Magistrado Presidente o magistrado del Tribunal de Justicia Electoral del Estado de Zacatecas, a menos que haya concluido su encargo o se hubiere separado del mismo, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+k) No estar cumpliendo una condena por violencia familiar, política o cualquier agresión de género en el ámbito privado o público;
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+l) No estar cumpliendo una condena por delitos sexuales, contra la libertad sexual o la intimidad corporal y;
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+m) No estar inscrito o tener registro vigente como persona deudora alimentaria morosa que atente contra las obligaciones alimentarias, ya sea en el Estado de Zacatecas o en cualquier otra entidad, salvo que acredite estar al corriente del pago.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
 
@@ -4124,3 +4162,27 @@ P.O. 1 DE JULIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 SEGUNDO. Dentro de los 180 días siguientes a la publicación de este Decreto, la Legislatura del Estado deberá realizar las adecuaciones legales para para dar cumplimiento al presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 293.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado, sin perjuicio de lo dispuesto en los artículos siguientes.
+
+SEGUNDO. Dentro de los 90 días siguientes a la publicación de este Decreto, la Legislatura del Estado deberá realizar las adecuaciones legales para dar cumplimiento al presente Decreto.
+
+TERCERO. Las magistraturas del Tribunal de Justicia Electoral del Estado de Zacatecas que se encuentran en funciones continuarán en su encargo por el tiempo por el que fueron designadas.
+
+CUARTO. La reducción en el número de magistraturas del Tribunal de Justicia Electoral del Estado de Zacatecas se realizará de manera paulatina, de conformidad con lo siguiente:
+
+I. Una vez que concluya el periodo por el cual fue designado el Magistrado Esaúl Castro Hernández, mediante Acuerdo del Senado de la República de fecha 19 de noviembre de 2015, el Tribunal de Justicia Electoral del Estado de Zacatecas integrará el Pleno para funciones jurisdiccionales con alguno de los Coordinadores de Ponencia, Secretario o Secretaria de Estudio y Cuenta con mayor antigüedad en la labor jurisdiccional electoral, a efecto de que se mantenga una integración impar en la toma de decisiones. Las y los titulares del Tribunal deberán elegir a quien desempeñe las funciones de magistrado o magistrada.
+
+II. Concluido el periodo de las Magistraturas designadas por el Senado de la República en fecha 13 de noviembre de 2018, correspondientes a la Magistrada Rocío Posadas Ramírez y el Magistrado José Ángel Yuen Reyes, las designaciones posteriores se deberán ajustarse a la presente reforma, a efecto de que el Tribunal se integre por tres magistraturas.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 319.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DEL ESTADO DE ZACATECAS".]
+
+Primero. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+Segundo. El Instituto Electoral del Estado de Zacatecas deberá realizar las adecuaciones necesarias a su normatividad para dar cumplimiento al presente Decreto, a efecto de que sean aplicables a partir del proceso electoral ordinario local 2023-2024.
