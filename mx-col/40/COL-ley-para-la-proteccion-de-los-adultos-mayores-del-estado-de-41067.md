@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-los-adultos-mayores-del-estado-de-410
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-11"
-last_updated: "2023-09-16"
+last_updated: "2023-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "COL"
 LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE COLIMA EL 30 DE SEPTIEMBRE DE 2023.]</small>
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de septiembre de 2004.
 
@@ -1363,16 +1365,20 @@ TERCERO. El Instituto para la Atención de los Adultos Mayores deberá realizar 
 
 P.O. 10 DE SEPTIEMBRE DE 2022.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 140.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 140.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA".]
+
+> <small>(F. DE E., P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+> <small>(F. DE E., P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+SEGUNDO.- Se derogan todas las disposiciones legales y normativas que se opongan al presente Decreto.
+
+P.O. 16 DE SEPTIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 345.- POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 75 DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor a partir del día siguiente al de su aprobación por el Poder Legislativo del Estado de Colima, y permanecerá vigente hasta el día 31 de diciembre de 2022.
-
-P.O. 16 DE SEPTIEMBRE DE 2023.
