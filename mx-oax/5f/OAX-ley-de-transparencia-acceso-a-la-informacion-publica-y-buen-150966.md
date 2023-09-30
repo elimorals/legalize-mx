@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-acceso-a-la-informacion-publica-y-buen-150
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-04"
-last_updated: "2023-07-29"
+last_updated: "2023-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el No. 36 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de septiembre de 2021.
 
@@ -1485,6 +1485,10 @@ Las ausencias temporales de la Comisionada Presidenta o el Comisionado President
 
 En caso de ausencia definitiva de la Comisionada Presidenta o Comisionado Presidente, asumirá el cargo quien designe el consejo general por el tiempo que reste.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+La Comisionada o el Comisionado designado para concluir el periodo en caso de ausencia definitiva o renuncia de la Comisionada o Comisionado Presidente, podrá completar un periodo de hasta dos años, como Presidente del Consejo General y el Órgano Garante, debiendo ser ratificado por las Comisionadas y los Comisionados integrantes del Consejo General.
+
 Se considerará ausencia definitiva, la inasistencia consecutiva y sin causa justificada, de alguna Comisionada o Comisionado, a tres sesiones ordinarias agendadas y previamente notificadas personalmente. En caso de ausencia de uno o más de las y los Comisionados, el Secretario General deberá de hacerlo del conocimiento del Congreso del Estado, para que éste inicie en un plazo no mayor a 15 días el procedimiento de designación.
 
 ###### Artículo 96.
@@ -2516,3 +2520,11 @@ P.O. 29 DE JULIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1552.- MEDIANTE EL CUAL ADICIONA EL PÁRRAFO TERCERO Y SE RECORRE EN SU ORDEN EL PÁRRAFO SUBSECUENTE AL ARTÍCULO 95 DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Estado de Oaxaca.
