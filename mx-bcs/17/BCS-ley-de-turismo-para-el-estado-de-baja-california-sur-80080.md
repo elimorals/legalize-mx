@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-turismo-para-el-estado-de-baja-california-sur-80080"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-20"
-last_updated: "2023-07-21"
+last_updated: "2023-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California, el lunes 20 de diciembre de 2010.
 
@@ -203,13 +203,17 @@ XXVIII.- Turismo Gastronómico: Es la actividad turística que comprende la visi
 
 XXIX.- Turismo Médico: Es aquel que tiene como fin que el Turista pueda realizar actividades de prevención y cuidado de la salud aprovechando los avances de la infraestructura y atención médica con que cuente el Estado;
 
-> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, B.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-XXX.- Turismo Accesible: Es una política pública que incorpora el principio de accesibilidad a través del diseño universal, en las instalaciones turísticas de manera que las personas con discapacidad y adultos mayores, puedan acceder a las instalaciones en igualdad de condiciones, con la mayor autonomía posible, y
+XXX.- Turismo Accesible: Es una política pública que incorpora el principio de accesibilidad a través del diseño universal, en las instalaciones turísticas de manera que las personas con discapacidad y adultos mayores, puedan acceder a las instalaciones en igualdad de condiciones, con la mayor autonomía posible;
 
-> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, B.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-XXXI.- Turismo Náutico-deportivo: Conjunto de actividades turísticas relacionadas con la navegación o que se combinan con esta, con fines recreativos, deportivos o de descanso.
+XXXI.- Turismo Náutico-deportivo: Conjunto de actividades turísticas relacionadas con la navegación o que se combinan con esta, con fines recreativos, deportivos o de descanso; y
+
+> <small>(ADICIONADA, B.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XXXII.- Turismo Astronómico: Es la actividad turística que comprende la visita de zonas naturales libres de contaminación atmosférica y lumínica del estado con el fin de observar estrellas, astros y fenómenos celestes.
 
 ## TÍTULO SEGUNDO. DE LA CONCURRENCIA Y COMPETENCIA DE AUTORIDADES
 
@@ -657,13 +661,17 @@ IX.- Turismo gastronómico;
 
 X.- Turismo Médico;
 
-> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, B.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-XI.- Turismo Accesible, y
+XI.- Turismo Accesible;
 
-> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, B.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-XII.- Turismo Náutico-deportivo.
+XII.- Turismo náutico-deportivo; y
+
+> <small>(ADICIONADA, B.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XIII.- Turismo Astronómico.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2019)</small>
 
@@ -1138,3 +1146,9 @@ B.O. 21 DE JULIO DE 2023.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 Segundo.- Los Consejos que ya se encuentren en funciones adecuarán su integración, atribuciones y demás disposiciones al presente decreto.
+
+B.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E.TRANSITORIO DEL “DECRETO 2948 SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 5 Y 27 DE LA LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
