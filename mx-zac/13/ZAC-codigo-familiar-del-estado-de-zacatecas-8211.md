@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2023-07-08"
+last_updated: "2023-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -2205,21 +2205,33 @@ Por lo tanto, bastará con que el interesado acredite ante el Juez del conocimie
 
 ### CAPITULO TERCERO. DE LA VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-ARTICULO 283 BIS.- Por violencia familiar se considera todo acto u omisión intencional, aislado o reiterado, dirigido a dominar, someter, controlar o agredir, de manera mediante el uso de la fuerza verbal, física o psicológica, así como omisiones graves que se ejercen contra cualquier miembro de la familia por otro integrante de la misma, que atente contra su integridad física, psicológica, sexual, económica o patrimonial; ya sea que, se realicen dentro o fuera del domicilio conyugal y se produzcan o no lesiones. Los tipos de violencia familiar son los siguientes:
+ARTICULO 283 BIS.- Por violencia familiar se considera todo acto u omisión intencional, aislado o reiterado, dirigido a dominar, someter, controlar o agredir, de manera mediante el uso de la fuerza verbal, física o psicológica, castigo corporal y humillante, así como omisiones graves que se ejercen contra cualquier miembro de la familia por otro integrante de la misma, que atente contra su integridad física, psicológica, sexual, económica o patrimonial; ya sea que, se realicen dentro o fuera del domicilio conyugal y se produzcan o no lesiones. Los tipos de violencia familiar son los siguientes:
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 I. Violencia Física: Toda agresión en la que se utilice cualquier objeto o arma, o se haga uso de alguna parte del cuerpo, para sujetar o lesionar físicamente a otro; así como el uso de sustancias para inmovilizarle, atentando contra su integridad física, y que tienen por objeto lograr su sometimiento o control y con el resultado o riesgo de producir lesión física, interna, externa o ambas.
 
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 II. Violencia Psicológica: Comportamiento consistente en acciones u omisiones reiteradas, cuyas formas de expresión pueden ser prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, sevicia, humillaciones, celotipia, conductas de abandono, así como omisiones, que provoquen en quien las recibe, depresión o menoscabo, detrimento, disminución o afectación en la autoestima o la inteligencia emocional.
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 III. Violencia Sexual: Conducta consistente en la agresión física o con intimidación u hostigamiento, para obligar o inducir a la realización de prácticas sexuales no deseadas o que generen dolor, con independencia que el generador de dicha violencia guarde o no relación conyugal, de pareja, afectiva o de parentesco con los receptores de la violencia familiar.
 
 Se entenderá asimismo como violencia sexual, la mutilación genital, y la violencia contra los derechos sexuales y reproductivos, la cual consiste en cualquier acto u omisión que impida o restrinja el libre ejercicio del derecho a la salud sexual y reproductiva, o afecte el ejercicio de la libertad sexual;
 
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 IV. Violencia contra los derechos sexuales y reproductivos: Cualquier tipo de actuación que impida, o restrinja el libre ejercicio del derecho a la salud reproductiva de cualquier integrante de la familia y por tanto, afecte a la libertad para disfrutar de una vida sexual satisfactoria y sin riesgos para la salud, a la libertad para acceder o no a servicios de atención a la salud sexual y reproductiva, a los anticonceptivos y para ejercer o no el derecho a la paternidad o maternidad responsable;
 
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 V. Violencia económica: Privación intencionada y no justificada legalmente de los recursos financieros para el bienestar físico y psicológico de los receptores de la violencia familiar o de algún miembro de la familia, cuyas formas de expresión pueden representar el incumplimiento de las responsabilidades alimentarias, para el sostenimiento familiar, o las limitaciones encaminadas a controlar el ingreso de las percepciones económicas o la discriminación en la disposición de los recursos compartidos;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 VI. Violencia patrimonial: Acto u omisión encaminado a apropiarse o destruir el patrimonio de la pareja o de cualquier miembro de la familia sin autorización, mismos que pueden consistir en el abuso de los ingresos, el apoderamiento, despojo, transformación, sustracción, destrucción, desaparición retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos, y
 
@@ -2227,9 +2239,21 @@ VI. Violencia patrimonial: Acto u omisión encaminado a apropiarse o destruir el
 
 VII. Violencia vicaria, consistente en cualquier acto u omisión, por parte de la pareja o ex pareja sentimental de una mujer que inflija a personas con las que ésta tenga lazos de parentesco civil, por consanguinidad hasta el cuarto grado o por afinidad hasta el segundo grado, un daño, menoscabo o sufrimiento de cualquier naturaleza con el propósito de causar perjuicio o daño psicológico, patrimonial, físico o de cualquier otra índole a la mujer;
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-VIII. Cualesquiera otras formas análogas que lesionen o sea (sic) susceptibles de dañar la libertad, dignidad o integridad de la familiar (sic).
+VIII. Cualesquiera otras formas análogas que lesionen o sea (sic) susceptibles de dañar la libertad, dignidad o integridad de la familiar (sic);
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+IX. Castigo corporal o físico es todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve, y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+X. Castigo humillante es cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, y de cualquier otra índole que brinde asistencia a niñas, niños y adolescentes, sin que, en modo alguno, se autorice a estos el uso del castigo corporal ni el castigo humillante.
 
 Serán considerados como violencia en los términos de este artículo, los actos que causen el mismo daño a un menor de edad, o se empleen medidas inadecuadas para reprenderlo, aunque se argumente como justificación la educación y formación del menor, en el uso del derecho de corregir.
 
@@ -3007,7 +3031,9 @@ La patria potestad se ejerce sobre la persona y los bienes de los hijos.
 
 Su ejercicio quedará sujeto en cuanto a la custodia y educación de los niños, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con las leyes aplicables y, en su caso, a las que convengan las partes como resultado de un procedimiento de mediación. El juez deberá resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, según el caso, atendiendo al interés superior de la niña o el niño. De oficio, o a petición de parte interesada durante el procedimiento, se allegará de los elementos necesarios para ello, debiendo escuchar a los padres y a la niña o al niño. En todo caso, protegerá y hará respetar el derecho de convivencia con los padres, salvo que exista peligro para la niña o el niño.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, de quienes ejerzan la patria potestad, sin que, en modo alguno, se autorice a estos el uso del castigo corporal ni el castigo humillante.
 
 ###### ARTICULO 374.
 
@@ -5448,3 +5474,11 @@ P.O. 8 DE JULIO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno de Zacatecas.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 325.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES Y EL CÓDIGO FAMILIAR, DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
