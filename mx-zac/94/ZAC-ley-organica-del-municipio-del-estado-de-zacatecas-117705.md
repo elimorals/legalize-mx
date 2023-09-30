@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-municipio-del-estado-de-zacatecas-117705"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-03"
-last_updated: "2021-09-04"
+last_updated: "2023-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE SEPTIEMBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 3 de diciembre de 2016.
 
@@ -733,9 +731,13 @@ g) Aprobar, en su caso, como parte del Constituyente Permanente, las minutas de 
 
 h) Expedir y publicar en la Gaceta Municipal o en el Periódico Oficial, Órgano del Gobierno del Estado, el Bando de Policía y Gobierno, reglamentos, circulares, y demás disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, de acuerdo con lo dispuesto por ésta y demás leyes aplicables;
 
-i) Implementar la política municipal en materia de igualdad entre mujeres y hombres, en concordancia con las políticas nacionales y locales correspondientes; y
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-j) Resolver los recursos administrativos interpuestos en contra de actos y resoluciones de las autoridades municipales.
+i) Reconocer como documentos de identificación oficial los que sean probatorios de la nacionalidad mexicana establecidos en la Ley de Nacionalidad.
+
+j) Implementar la política municipal en materia de igualdad entre mujeres y hombres, en concordancia con las políticas nacionales y locales correspondientes; y
+
+k) Resolver los recursos administrativos interpuestos en contra de actos y resoluciones de las autoridades municipales.
 
 II. En materia de administración pública y planeación:
 
@@ -864,6 +866,28 @@ a) Participar, en coordinación con el órgano estatal en materia de armonizaci�
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
 b) Establecer las medidas necesarias para dar estricto cumplimiento a lo establecido en la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios y en las normas emitidas por el órgano nacional y estatal en materia de armonización contable, en materia de registros contables, emisión de información financiera, de valoración, valuación y registro del patrimonio.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+X. En materia de prevención social de la violencia y la delincuencia:
+
+a) Crear e implementar políticas públicas mediante un Programa Municipal en congruencia con los programas Nacional y Estatal, en materia de prevención social de la violencia y la delincuencia;
+
+b) Llevar a cabo campañas para la prevención social de la violencia, en las que involucre de forma permanente a la ciudadanía, para que formule ideas, participe en su ejecución, seguimiento y evaluación;
+
+c) Celebrar convenios con otros ayuntamientos, así como con los sectores social y privado, en materia de prevención social de la violencia y la delincuencia;
+
+d) Establecer en su presupuesto de egresos los recursos necesarios que permitan la implementación de su Programa Municipal de Prevención Social de la Violencia y la Delincuencia y solventar las demás actividades de su competencia en este rubro;
+
+e) Crear la comisión edilicia en materia de prevención de la violencia y la delincuencia, así como un área administrativa en esta materia, responsable de operar las atribuciones contempladas en esta ley y en otras disposiciones legales aplicables a este género de prevención;
+
+f) Promover que las acciones de las dependencias y entidades de la administración pública municipal sean transversales y estén armonizadas con la planeación nacional y estatal en materia de prevención de la violencia y la delincuencia;
+
+g) Expedir el marco normativo municipal en materia de prevención de la violencia y la delincuencia y, en su caso, llevar a cabo las reformas conducentes;
+
+h) Recibir y evaluar informes, por conducto de la Comisión Edilicia correspondiente, sobre los resultados de las actividades implementadas por el área municipal de prevención de la violencia y la delincuencia, y
+
+i) Las demás que se establezcan en la presente Ley y en otros ordenamientos aplicables.
 
 Facultades concurrentes
 
@@ -1389,11 +1413,15 @@ X. Igualdad de Género;
 
 XI. Transparencia y Acceso a la Información Pública; y
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-XII. Combate a la Corrupción, y
+XII. Combate a la Corrupción;
 
-XIII. Otras ramas de la administración, por determinación del Ayuntamiento y de acuerdo con las necesidades del Municipio.
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XIII. Prevención Social de la Violencia y la Delincuencia, y
+
+XIV. Otras ramas de la administración, por determinación del Ayuntamiento y de acuerdo con las necesidades del Municipio.
 
 Los presidentes de Comisiones deberán presentar, dentro de los sesenta días posteriores a la integración, para la aprobación del Cabildo, un programa general de trabajo, a desarrollar durante el periodo constitucional para el que fueron electos.
 
@@ -1589,9 +1617,15 @@ XVI. Formular el inventario de bienes muebles e inmuebles que conformen el patri
 
 XVII. La edición, distribución y difusión de la Gaceta Municipal, así como gestionar las publicaciones en el Periódico Oficial, Órgano de Gobierno del Estado;
 
-XVIII. Observar y hacer cumplir debidamente el Reglamento Interior del Ayuntamiento, procurando el pronto y eficaz despacho de los asuntos; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-XIX. Las demás que le asigne el Ayuntamiento.
+XVIII. Observar y hacer cumplir debidamente el Reglamento Interior del Ayuntamiento, procurando el pronto y eficaz despacho de los asuntos;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XIX. Ejercer las atribuciones en materia de prevención social de la violencia y la delincuencia que esta y otras leyes confieren a los ayuntamientos, y
+
+XX. Las demás que le asigne el Ayuntamiento.
 
 ### Capítulo III. Tesorería Municipal
 
@@ -3427,7 +3461,9 @@ Objetivos del Plan
 
 El Plan Municipal de Desarrollo tendrá los objetivos siguientes:
 
-I. Atender las demandas prioritarias de la población en obras y servicios públicos;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+I. Atender las demandas prioritarias de la población en obras y servicios públicos, poniendo especial atención en la función de seguridad pública, en su vertiente de prevención de la violencia y la delincuencia mediante la reducción de factores de riesgo en la generación de violencia y delincuencia, combatiendo las causas de éstas y estimulando la participación ciudadana;
 
 II. Propiciar el desarrollo económico y social del Municipio;
 
@@ -4250,3 +4286,31 @@ Artículo Segundo. Se derogan todas las disposiciones que contravengan el presen
 Artículo Tercero. Las menciones que se hagan en otras leyes a la contraloría municipal, se entenderán hechas al Órgano Interno de Control.
 
 Artículo Cuarto. Los municipios deberán adecuar su normatividad interna a las disposiciones del presente Decreto en el plazo de noventa días, contado a partir de su entrada en vigor.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 309.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LAS SIGUIENTES LEYES: CUARTO.- SE ADICIONA EL INCISO I) A LA FRACCIÓN I DEL ARTÍCULO 60 DE LA LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS, RECORRIÉNDOSE EN EL ORDEN LAS SUBSECUENTES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 311.- SE REFORMAN LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS, LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE ZACATECAS Y LA LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo. Se derogan aquellas disposiciones que se opongan al presente Decreto.
+
+Tercero. Dentro de los 30 días naturales siguientes a la publicación de este decreto, los Municipios que correspondan, instalarán las comisiones edilicias de prevención social de la violencia y la delincuencia.
+
+Dentro de los 60 días naturales siguientes a la publicación de este Decreto, se conformarán las Áreas Municipales de Prevención y se designará a sus titulares.
+
+Con el objeto de dar cumplimiento a lo previsto en el párrafo segundo del artículo 23 de la Ley para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana para el Estado de Zacatecas, por esta ocasión, los Municipios que no cuenten con su programa municipal de prevención social de la violencia y la delincuencia, lo emitirán dentro de los 90 días naturales siguientes a la publicación de este decreto.
+
+Dentro de los cuatro meses siguientes a la publicación de este decreto, los ayuntamientos del estado informarán a esta Legislatura sobre el cumplimiento de las disposiciones de este mismo instrumento legislativo.
+
+Cuarto. De conformidad con la Ley de Austeridad, Disciplina y Responsabilidad Financiera del Estado de Zacatecas y sus Municipios, los ayuntamientos destinarán las partidas presupuestales correspondientes, para cumplir con lo establecido en este decreto.
+
+Quinto. Para efectos del contenido de los artículos 6 fracción VIII, 15 fracción I, 16 fracción I, 23 al 27, 30 y 31 de la Ley para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana para el Estado de Zacatecas, el Programa Estatal de Prevención Social de la Violencia y la Delincuencia de la actual administración gubernamental, deberá estar aprobado y publicado dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
