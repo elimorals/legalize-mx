@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-judicial-del-estado-de-zacatecas-159399"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-07-13"
-last_updated: "2022-08-10"
+last_updated: "2023-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE AGOSTO DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Suplemento del Número 56 del Periódico Oficial del Estado de Zacatecas, el miércoles 13 de julio del 2022.
 
@@ -249,17 +247,21 @@ XI. Dirimir los conflictos que surjan entre los municipios y los Poderes Legisla
 
 XII. Establecer las comisiones y comités que estime convenientes para el adecuado funcionamiento del Poder Judicial del Estado, y designar a quienes deban integrarlas;
 
-XIII. Expedir, reformar y publicar reglamentos, acuerdos generales y manuales administrativos;
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-XIV. Discutir y, en su caso, aprobar el proyecto del presupuesto anual de egresos del Poder Judicial del Estado, el cual se remitirá a la persona titular del Poder Ejecutivo del Estado;
+XIII. Reconocer como documentos de identificación oficial los que sean probatorios de la nacionalidad mexicana establecidos en la Ley de Nacionalidad;
 
-XV. Autorizar, con plena autonomía, la distribución y ejercicio del presupuesto de egresos aprobado por la Legislatura y supervisar su aplicación;
+XIV. Expedir, reformar y publicar reglamentos, acuerdos generales y manuales administrativos;
 
-XVI. Autorizar el destino de los recursos propios del Fondo Auxiliar para la Administración de Justicia;
+XV. Discutir y, en su caso, aprobar el proyecto del presupuesto anual de egresos del Poder Judicial del Estado, el cual se remitirá a la persona titular del Poder Ejecutivo del Estado;
 
-XVII. Aprobar el calendario anual de labores del Poder Judicial del Estado y establecer las guardias encargadas de atender los casos urgentes en los periodos vacacionales;
+XVI. Autorizar, con plena autonomía, la distribución y ejercicio del presupuesto de egresos aprobado por la Legislatura y supervisar su aplicación;
 
-XVIII. Aprobar el programa anual de visitas judiciales ordinarias a los juzgados de primera instancia y tribunales laborales, así como a los órganos auxiliares y administrativos del Poder Judicial, para inspeccionar su funcionamiento a fin de lograr un ejercicio responsable, profesional e independiente en la función jurisdiccional. Las Salas visitadoras, tomando en cuenta las particularidades de cada órgano:
+XVII. Autorizar el destino de los recursos propios del Fondo Auxiliar para la Administración de Justicia;
+
+XVIII. Aprobar el calendario anual de labores del Poder Judicial del Estado y establecer las guardias encargadas de atender los casos urgentes en los periodos vacacionales;
+
+XIX. Aprobar el programa anual de visitas judiciales ordinarias a los juzgados de primera instancia y tribunales laborales, así como a los órganos auxiliares y administrativos del Poder Judicial, para inspeccionar su funcionamiento a fin de lograr un ejercicio responsable, profesional e independiente en la función jurisdiccional. Las Salas visitadoras, tomando en cuenta las particularidades de cada órgano:
 
 a. Pedirán la lista del personal adscrito al órgano visitado para comprobar su asistencia;
 
@@ -279,39 +281,39 @@ h. Levantarán acta circunstanciada, en la cual se hará constar el desarrollo d
 
 i. Realizarán las demás revisiones que específicamente determine el Pleno o la Sala visitadora considere necesarias;
 
-XIX. Ordenar visitas extraordinarias cuando se estime que se ha cometido una falta grave o ante cualquier asunto de trascendencia a juicio del propio Pleno;
+XX. Ordenar visitas extraordinarias cuando se estime que se ha cometido una falta grave o ante cualquier asunto de trascendencia a juicio del propio Pleno;
 
-XX. Determinar o modificar el número y, en su caso, especialización por materia de los juzgados de primera instancia, tribunales laborales y órganos auxiliares en cada uno de los distritos y regiones judiciales;
+XXI. Determinar o modificar el número y, en su caso, especialización por materia de los juzgados de primera instancia, tribunales laborales y órganos auxiliares en cada uno de los distritos y regiones judiciales;
 
-XXI. Resolver sobre la designación, ratificación, adscripción, remoción, inhabilitación y, en su caso, reincorporación de las y los jueces, y demás personal de acuerdo con la Carrera Judicial y las necesidades del servicio;
+XXII. Resolver sobre la designación, ratificación, adscripción, remoción, inhabilitación y, en su caso, reincorporación de las y los jueces, y demás personal de acuerdo con la Carrera Judicial y las necesidades del servicio;
 
-XXII. Dictar las medidas que garanticen el buen servicio, vigilancia y disciplina en los juzgados de primera instancia, tribunales especializados, órganos auxiliares y administrativos del Poder Judicial del Estado;
+XXIII. Dictar las medidas que garanticen el buen servicio, vigilancia y disciplina en los juzgados de primera instancia, tribunales especializados, órganos auxiliares y administrativos del Poder Judicial del Estado;
 
-XXIII. Conocer y dar trámite a las excitativas de justicia que se promuevan y aplicar las sanciones administrativas que de ellas resulten;
+XXIV. Conocer y dar trámite a las excitativas de justicia que se promuevan y aplicar las sanciones administrativas que de ellas resulten;
 
-XXIV. Resolver en definitiva, sobre las impugnaciones que se presenten contra los resultados de los concursos de oposición que realice la Escuela de Formación y Especialización Judicial;
+XXV. Resolver en definitiva, sobre las impugnaciones que se presenten contra los resultados de los concursos de oposición que realice la Escuela de Formación y Especialización Judicial;
 
-XXV. Acordar las incapacidades y licencias de todo el personal superiores a diez días;
+XXVI. Acordar las incapacidades y licencias de todo el personal superiores a diez días;
 
-XXVI. Resolver en definitiva sobre los procedimientos de responsabilidad administrativa por faltas graves y no graves de las personas servidoras públicas del Poder Judicial del Estado;
+XXVII. Resolver en definitiva sobre los procedimientos de responsabilidad administrativa por faltas graves y no graves de las personas servidoras públicas del Poder Judicial del Estado;
 
-XXVII. Nombrar a las y los titulares de los órganos auxiliares y administrativos del Poder Judicial del Estado, removerlos por causa justificada, suspenderlos en los términos que determinen las leyes y los acuerdos correspondientes;
+XXVIII. Nombrar a las y los titulares de los órganos auxiliares y administrativos del Poder Judicial del Estado, removerlos por causa justificada, suspenderlos en los términos que determinen las leyes y los acuerdos correspondientes;
 
-XXVIII. Autorizar a la Presidencia la interposición de denuncias o querellas ante la autoridad competente cuando se advierta que existan elementos que hagan presumir la existencia de un hecho delictivo;
+XXIX. Autorizar a la Presidencia la interposición de denuncias o querellas ante la autoridad competente cuando se advierta que existan elementos que hagan presumir la existencia de un hecho delictivo;
 
-XXIX. Expedir las normas y criterios para modernizar la organización, administración y resguardo de los archivos de los juzgados, tribunales, órganos auxiliares y administrativos, de conformidad con la Ley General de Archivos y la ley local en la materia;
+XXX. Expedir las normas y criterios para modernizar la organización, administración y resguardo de los archivos de los juzgados, tribunales, órganos auxiliares y administrativos, de conformidad con la Ley General de Archivos y la ley local en la materia;
 
-XXX. Crear o suprimir unidades de apoyo a las funciones jurisdiccionales y administrativas;
+XXXI. Crear o suprimir unidades de apoyo a las funciones jurisdiccionales y administrativas;
 
-XXXI. Autorizar la incorporación al padrón de peritos a las y los profesionistas que cumplan los requisitos que establezca el reglamento correspondiente;
+XXXII. Autorizar la incorporación al padrón de peritos a las y los profesionistas que cumplan los requisitos que establezca el reglamento correspondiente;
 
-XXXII. Dictar las medidas que garanticen el adecuado mantenimiento, conservación y acondicionamiento de los bienes muebles e inmuebles propiedad del Poder Judicial del Estado;
+XXXIII. Dictar las medidas que garanticen el adecuado mantenimiento, conservación y acondicionamiento de los bienes muebles e inmuebles propiedad del Poder Judicial del Estado;
 
-XXXIII. Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados;
+XXXIV. Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados;
 
-XXXIV. Vigilar la observancia de la Ley del Ejercicio Profesional en el Estado de Zacatecas, en lo que concierne al ejercicio de la abogacía, y
+XXXV. Vigilar la observancia de la Ley del Ejercicio Profesional en el Estado de Zacatecas, en lo que concierne al ejercicio de la abogacía, y
 
-XXXV. Las demás que esta Ley y otros ordenamientos le confieran.
+XXXVI. Las demás que esta Ley y otros ordenamientos le confieran.
 
 ### CAPÍTULO IV. PRESIDENCIA DEL TRIBUNAL SUPERIOR
 
@@ -2096,3 +2098,13 @@ DADO en la Sala de Sesiones de la Honorable Sexagésima Cuarta Legislatura del E
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 DADO en el Despacho del Poder Ejecutivo del Estado, a los doce días del mes de julio del año dos mil veintidós. Gobernador del Estado de Zacatecas. - David Monreal Ávila. Secretaria General de Gobierno. – Gabriela Evangelina Pinedo Morales. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 309.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LAS SIGUIENTES LEYES: SEGUNDO.- SE ADICIONA LA FRACCIÓN XIII, RECORRIÉNDOSE EN EL ORDEN LAS SUBSECUENTES AL ARTÍCULO 13 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS."
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
