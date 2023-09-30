@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2021-07-06"
+last_updated: "2023-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1230,6 +1230,12 @@ I. Del 20% a los contribuyentes que lleven a cabo la naturación extensiva del t
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2017)</small>
 
 II. Del 30% a los contribuyentes que lleven a cabo la naturación intensiva del techo de su propiedad o implemente jardines verticales.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+###### Art. 100
+
+Ter. El municipio podrá otorgar un beneficio fiscal hasta del 25% consistente en la aplicación de un descuento sobre el impuesto predial a los contribuyentes propietarios de bienes inmuebles que implementen, y acrediten mediante constancia expedida por la dependencia municipal correspondiente, por la instalación de un sistema de captación de agua pluvial, o la instalación de un sistema fotovoltaico que garantice una disminución de al menos un 50% en el consumo de energía eléctrica.
 
 ###### Art. 101.
 
@@ -4272,3 +4278,11 @@ P.O. 6 DE JULIO DE 2021.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 Segundo. Los ayuntamientos del Estado de Jalisco, antes del 31 de diciembre de 2021, deberán realizarlas adecuaciones reglamentarias, normativas y administrativas necesarias para la implementación del presente decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29242/LXIII/23 DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 100 TER DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco."
+
+SEGUNDO. Los Municipios que opten por otorgar descuentos por la aplicación de un sistema de captación de aguas pluviales o la instalación de un sistema fotovoltaico en sus inmuebles, de forma previa deberán emitir los lineamientos para la emisión de las constancias que acrediten la implementación de dichos sistemas.
