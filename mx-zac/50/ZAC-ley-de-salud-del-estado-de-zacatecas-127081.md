@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-salud-del-estado-de-zacatecas-127081"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-07"
-last_updated: "2023-03-08"
+last_updated: "2023-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SALUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 7 de marzo de 2018.
 
@@ -374,6 +374,10 @@ IX. La promoción de un estilo de vida saludable;
 X. La asistencia social a los grupos vulnerables y, de éstos, de manera especial, a los pertenecientes a las comunidades indígenas y a las mujeres en situación de vulnerabilidad, y
 
 XI. La atención médica a los adultos mayores en áreas de salud geriátrica.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XII. Derecho a una visión digna, mismo que se garantizará mediante jornadas públicas de exámenes oftalmológicos gratuitos, entrega gratuita de lentes y cirugías oftalmológicas gratuitas, incluyendo el tratamiento médico gratuito necesario para estos procedimientos.
 
 ###### ARTÍCULO 21.
 
@@ -2574,3 +2578,13 @@ Artículo primero. El presente Decreto entrará en vigor el día siguiente al de
 Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
 
 Artículo tercero. En un plazo que no exceda de noventa días, contados a partir de la publicación del presente decreto, la Secretaría de Salud deberá emitir el reglamento de la Comisión Interinstitucional de Salud Bucal, de conformidad con el artículo 96 ter del presente decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 300.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. En el ejercicio fiscal que corresponda, deberán autorizarse las asignaciones presupuestales para los efectos del presente Decreto.
+
+Artículo tercero. Se derogan las disposiciones que contravengan el presente Decreto.
