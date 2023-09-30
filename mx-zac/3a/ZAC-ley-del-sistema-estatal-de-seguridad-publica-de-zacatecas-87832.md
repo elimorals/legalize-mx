@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-sistema-estatal-de-seguridad-publica-de-zacatecas-87832
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-05"
-last_updated: "2023-01-11"
+last_updated: "2023-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de mayo de 2012.
 
@@ -335,7 +335,9 @@ VIII. Administrar la licencia oficial colectiva, que autorice la posesión y por
 
 IX. Ejercer el mando de la Policía Estatal Preventiva; de la Dirección General de Prevención y Reinserción Social con su Cuerpo de Vigilancia y Custodia; y del personal operativo de la Policía de Seguridad Vial, en el ámbito de la Seguridad Pública;
 
-X. Organizar las instituciones policiales bajo sus órdenes, en unidades que cumplan las funciones de investigación, prevención y reacción, en términos de esta Ley;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+X. Organizar las instituciones policiales bajo sus órdenes, en unidades que cumplan las funciones de investigación, prevención, reacción y generación de inteligencia, en términos de esta Ley;
 
 > <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2021)</small>
 
@@ -345,13 +347,17 @@ XI. Presidir el Consejo de Honor y Justicia;
 
 XII. Organizar, coordinar y operar el Centro;
 
-> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-XIII. Operar el Sistema Estatal de Seguridad Pública a través del Secretariado Ejecutivo, en los términos de la presente ley, y
+XIII. Operar el Sistema Estatal de Seguridad Pública a través del Secretariado Ejecutivo, en los términos de la presente ley;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XIV. Informar trimestralmente a la Legislatura del Estado, a través de la Comisión legislativa de Seguridad Pública, sobre los avances de los programas y estrategias estatales de seguridad pública, así como de la situación que en la materia prevalezca en la entidad, en el que se detalle la información de las regiones que presentan mayores riesgos para la seguridad de la población, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE FEBRERO DE 2021)</small>
 
-XIV. Las demás que le señalen las leyes, reglamentos y otras disposiciones aplicables.
+XV. Las demás que le señalen las leyes, reglamentos y otras disposiciones aplicables.
 
 Atribuciones de los Ayuntamientos
 
@@ -362,6 +368,10 @@ Son atribuciones de los ayuntamientos, en materia de seguridad pública:
 I. Garantizar la seguridad en el territorio municipal, de las personas, sus bienes, sus derechos, así como preservar la tranquilidad y guardar el orden público;
 
 II. Aprobar y expedir sus respectivos Programas de Seguridad Pública, atendiendo la problemática específica de cada Municipio y, en concordancia con lo que establezcan los programas estatal y nacional;
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Por consecuencia, informarán trimestralmente a la Secretaría, sobre los avances de los programas y estrategias municipales de seguridad pública, así como de la situación que en la materia prevalezca en el respectivo municipio, detallando las zonas que presentan mayores riesgos para la seguridad de la población. Estos informes serán reenviados a la Legislatura del Estado en términos de esta ley;
 
 III. Realizar campañas educativas permanentes que induzcan a reducir la posesión, portación y uso de armas de fuego de cualquier tipo;
 
@@ -402,6 +412,42 @@ Del informe del Director de Seguridad Pública Municipal al Ayuntamiento
 ###### Artículo 17.
 
 Los directores de Seguridad Pública Municipal, tendrán las atribuciones que deriven de esta Ley y de la reglamentación municipal relativa y deberán rendir, por escrito, trimestralmente, un informe al Ayuntamiento, sobre los avances del Programa Municipal de Seguridad Pública, así como de la situación que en la materia prevalezca en el Municipio.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+El informe deberá presentarse durante los primeros cinco días naturales siguientes al trimestre calendario a reportar y deberá contener:
+
+I. La relación de asuntos atendidos;
+
+II. La estadística de faltas administrativas y delitos de los que tenga conocimiento:
+
+a) Señalando día, hora y lugar,
+
+b) Edad, sexo, ocupación de los infractores y, reincidencia, en su caso, e
+
+c) Con un ejercicio comparativo mensual, clasificando tipo de faltas administrativas y delitos y destacando su disminución o incremento.
+
+III. Reporte de zonas específicas de incidencia delictiva;
+
+IV. Datos sobre el desempeño y eficiencia de la corporación policial a su cargo, que deberá contener:
+
+a) La capacidad de respuesta a los llamados de intervención,
+
+b) Tiempos de reacción, atención y resolución, ante reportes de infracciones administrativas,
+
+c) La frecuencia de patrullaje en territorio municipal,
+
+d) Horas de patrullaje en el territorio, y
+
+e) Gastos operativos y administrativos de la corporación.
+
+V. Actividades en materia de prevención social de la violencia y la delincuencia, sectores de la población y dependencias públicas involucradas, así como el resultado que se obtuvo de dichas acciones, y
+
+VI. En general, aquellos datos que favorezcan el fortalecimiento de las labores de seguridad pública.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+La información señalada en la fracción IV será de carácter reservada, conforme a la legislación en materia de transparencia y acceso a la información, y deberá entregarse directa y únicamente a los integrantes del ayuntamiento, quienes serán responsables personalmente del manejo de dicha información.
 
 ### CAPÍTULO III. DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -469,7 +515,7 @@ b) Secretaría de la Defensa Nacional;
 
 c) Fiscalía General de la República, y
 
-d) Policía Federal;
+d) (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2023)
 
 VIII. Los Presidentes de los siete municipios del Estado con mayor población, y
 
@@ -549,11 +595,13 @@ El quórum para que las reuniones del Consejo Estatal sean válidas, se integrar
 
 En caso de empate, quien presida tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 Periodicidad de las sesiones
 
 ###### Artículo 25.
 
-El Consejo Estatal se reunirá de forma ordinaria cada seis meses y de manera extraordinaria cuantas veces se requiera, a convocatoria de su Presidente, el cual podrá delegar ésta y otras atribuciones en el Secretario Ejecutivo, quien integrará el proyecto de orden del día con los asuntos a tratar.
+El Consejo Estatal se reunirá de forma ordinaria, por lo menos, tres veces al año, siendo convocado cada cuatro meses y de manera extraordinaria cuantas veces se requiera, a convocatoria de su Presidente, el cual podrá delegar ésta y otras atribuciones en el Secretario Ejecutivo, quien integrará el proyecto de orden del día con los asuntos a tratar.
 
 De la instancia de coordinación del Consejo
 
@@ -569,11 +617,13 @@ Definición del Programa
 
 El Programa Estatal de Seguridad Pública, es el documento que contiene las acciones que, en forma planeada y coordinada, deberán realizar las instituciones de Seguridad Pública en el corto, mediano y largo plazo y tendrá el carácter de prioritario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 Elaboración del Programa
 
 ###### Artículo 28.
 
-El Programa será elaborado por el Consejo Estatal a partir de la aprobación del Plan Estatal de Desarrollo. Sus lineamientos generales serán publicados en el Periódico Oficial, Órgano del Gobierno del Estado. Sus estrategias y líneas estratégicas de acción serán manejadas bajo la observancia de los principios de confidencialidad y reserva.
+El Programa será elaborado por el Consejo Estatal, dentro de los treinta días siguientes al en que la Legislatura apruebe el Plan Estatal de Desarrollo. Sus lineamientos generales serán publicados en el Periódico Oficial, Órgano del Gobierno del Estado. Sus estrategias y líneas estratégicas de acción serán manejadas bajo la observancia de los principios de confidencialidad y reserva.
 
 El Programa se revisará y, en su caso, se actualizará de forma periódica.
 
@@ -782,6 +832,10 @@ Cada uno de los Registros, se sujetará a los lineamientos establecidos en la Le
 > <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2021)</small>
 
 La información a que se refiere este artículo tiene el carácter de reservada y confidencial en términos de la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Datos Personales en Posesión de Sujetos Obligados, la Ley de Transparencia y Acceso a la Información Pública del Estado y la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Zacatecas.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+El Centro Estatal de información contará con personal especializado para la generación de inteligencia, misma que será utilizada para la prevención social de la violencia y la delincuencia, la contención y el combate a la inseguridad.
 
 De la información de las Instituciones de Seguridad Pública
 
@@ -1203,9 +1257,17 @@ Las Instituciones Policiales, para el mejor cumplimiento de sus objetivos desarr
 
 I. Investigación. Se desarrolla mediante sistemas homologados de recolección, clasificación, registro, análisis, evaluación y utilización de información;
 
-II. Prevención. Su objetivo es prevenir la comisión de delitos e infracciones administrativas, así como realizar las acciones de inspección, vigilancia y vialidad en su circunscripción, y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-III. Reacción. Tiene como finalidad garantizar, mantener y restablecer el orden y la paz públicos.
+II. Prevención. Su objetivo es prevenir la comisión de delitos e infracciones administrativas, así como realizar las acciones de inspección, vigilancia y vialidad en su circunscripción;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+III. Reacción. Tiene como finalidad garantizar, mantener y restablecer el orden y la paz públicos, y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Inteligencia. Tiene como finalidad recolectar, procesar, diseminar, explotar y presentar la información para la toma de decisiones en materia de seguridad pública.
 
 De las unidades de policía de investigación científica
 
@@ -2046,3 +2108,33 @@ P.O. 11 DE ENERO DE 2023.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
 
 Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 298.- SE REFORMA LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto, y
+
+Tercero. El Programa Estatal de Seguridad Pública de la actual administración gubernamental, deberá emitirse dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 311.- SE REFORMAN LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS, LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE ZACATECAS Y LA LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo. Se derogan aquellas disposiciones que se opongan al presente Decreto.
+
+Tercero. Dentro de los 30 días naturales siguientes a la publicación de este decreto, los Municipios que correspondan, instalarán las comisiones edilicias de prevención social de la violencia y la delincuencia.
+
+Dentro de los 60 días naturales siguientes a la publicación de este Decreto, se conformarán las Áreas Municipales de Prevención y se designará a sus titulares.
+
+Con el objeto de dar cumplimiento a lo previsto en el párrafo segundo del artículo 23 de la Ley para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana para el Estado de Zacatecas, por esta ocasión, los Municipios que no cuenten con su programa municipal de prevención social de la violencia y la delincuencia, lo emitirán dentro de los 90 días naturales siguientes a la publicación de este decreto.
+
+Dentro de los cuatro meses siguientes a la publicación de este decreto, los ayuntamientos del estado informarán a esta Legislatura sobre el cumplimiento de las disposiciones de este mismo instrumento legislativo.
+
+Cuarto. De conformidad con la Ley de Austeridad, Disciplina y Responsabilidad Financiera del Estado de Zacatecas y sus Municipios, los ayuntamientos destinarán las partidas presupuestales correspondientes, para cumplir con lo establecido en este decreto.
+
+Quinto. Para efectos del contenido de los artículos 6 fracción VIII, 15 fracción I, 16 fracción I, 23 al 27, 30 y 31 de la Ley para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana para el Estado de Zacatecas, el Programa Estatal de Prevención Social de la Violencia y la Delincuencia de la actual administración gubernamental, deberá estar aprobado y publicado dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
