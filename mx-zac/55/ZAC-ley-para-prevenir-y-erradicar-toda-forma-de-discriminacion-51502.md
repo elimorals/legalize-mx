@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-prevenir-y-erradicar-toda-forma-de-discriminacion-5150
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-29"
-last_updated: "2020-12-12"
+last_updated: "2023-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY PARA PREVENIR Y ERRADICAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 29 de julio de 2006.
 
@@ -357,11 +357,15 @@ XIII. Promover la violencia en su contra en los centros de detención o reclusi�
 
 XIV. Ofender, ridiculizar, hostigar, rechazar o promover la violencia en su contra a través de los medios de comunicación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 17.
 
-Ningún órgano público, estatal o municipal, autoridad, servidor público, persona física o moral, realizará actos o desplegará conductas que discriminen a cualquier persona por razón de su nacionalidad o calidad migratoria en la que se encuentre, ni efectuar entre otras, las conductas siguientes:
+Ningún órgano público, estatal o municipal, autoridad, servidor público, persona física o moral, realizará actos o desplegará conductas que discriminen a cualquier persona por razón de su nacionalidad, lugar de nacimiento o calidad migratoria en la que se encuentre, ni efectuar, entre otras, las conductas siguientes:
 
-I. Extorsionar económicamente, abusando de su estancia ilegal en el país;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+I. Extorsionar económicamente, abusando de su estancia irregular en el país;
 
 II. Explotar laboralmente sin proporcionarles las prestaciones sociales y laborales que establece la Ley Federal del Trabajo, de conformidad con la Ley General de Población;
 
@@ -371,7 +375,33 @@ IV. Hostigar sexualmente a los trabajadores migrantes, mediante engaños y amena
 
 V. Engañar y recibir dinero para trasladarlos hacia otro estado; y
 
-VI. Las demás que señalen las leyes locales y federales aplicables.
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Impedir el acceso a la educación, a cualquier nivel escolar, a los hijos de padres mexicanos, nacidos en el extranjero que estén en trámite para obtener la nacionalidad mexicana;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Negar la inscripción a las guarderías a niñas y niños respecto de los cuales se haya iniciado el trámite para obtener la nacionalidad mexicana;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. Negar la expedición de los documentos de identidad por haber nacido en el extranjero, siendo hijo de padres mexicanos;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+IX. Hostigar y extorsionar a las personas que transiten por el territorio del Estado en vehículos que tengan placas de otro país;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+X. Impedir o negar su participación en la toma de decisiones en el ámbito público;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XI. Impedir a los zacatecanos votar por residir en el extranjero, y
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XII. Las demás que señalen otros ordenamientos legales aplicables.
 
 ###### Artículo 18.
 
@@ -944,3 +974,15 @@ Artículo Segundo. El Instituto Electoral del Estado de Zacatecas y el Tribunal 
 Artículo Tercero. Las dependencias del Poder Ejecutivo del Estado, los Ayuntamientos, los Organismos Autónomos y los demás Entes Públicos a los que este Decreto les señala alguna atribución u obligación, deberán armonizar su normatividad interna en un plazo que no exceda de 90 días a partir de la entrada en vigor del presente Decreto.
 
 Artículo Cuarto. Se derogan todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 345.- SE REFORMA Y ADICIONA LA LEY PARA PREVENIR Y ERRADICAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
