@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-asistencia-social-del-estado-de-zacatecas-55018"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-04"
-last_updated: "2023-03-11"
+last_updated: "2023-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 4 de abril de 2007.
 
@@ -163,7 +163,15 @@ XV. El fomento de acciones de paternidad responsable, que propicien la preservac
 
 XVI. La atención integral a personas con trastornos mentales y del comportamiento, que no puedan por sí mismas satisfacer sus requerimientos básicos de subsistencia y se encuentren, o no, en estado de abandono.
 
-XVII. Los análogos a los anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral de la familia.
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XVII. La promoción del bienestar y la atención de las personas desplazadas, de conformidad con lo establecido en la Ley para la Prevención y Atención del Desplazamiento Forzado Interno en el Estado de Zacatecas;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XVIII. La promoción de los derechos humanos y la atención integral de las personas migrantes retornadas y repatriadas, que se encuentren en situación de vulnerabilidad, y
+
+XIX. Los análogos a los anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral de la familia.
 
 ###### Artículo 11.
 
@@ -1500,3 +1508,11 @@ P.O. 11 DE MARZO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Zacatecas.
 
 SEGUNDO. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 346.- SE ADICIONAN LAS FRACCIONES XVII Y XVIII, RECORRIÉNDOSE LA SIGUIENTE EN SU ORDEN AL ARTÍCULO 10 DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan aquellas disposiciones que contravengan el presente Decreto.
