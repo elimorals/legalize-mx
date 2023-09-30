@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-cambio-climatico-para-el-estado-y-municipios-de-110125"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-23"
-last_updated: "2021-01-09"
+last_updated: "2023-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 23 de septiembre de 2015.
 
@@ -87,13 +87,31 @@ XI. Establecer y aplicar los instrumentos económicos que impulsen la aplicació
 
 XII. Promover la transición hacia una economía que sea competitiva, sustentable y de bajas emisiones de carbono.
 
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XIII. Aumentar la proporción de energía renovable que se usa en el estado, en el conjunto de fuentes energéticas, y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XIV. Promover la participación de los sectores público y privado en el cumplimiento de las Contribuciones Determinadas a nivel nacional.
+
 Glosario de términos
 
 ###### Artículo 2.
 
 Para los efectos de esta Ley, se estará sujeto a las definiciones previstas en la Ley General de Cambio Climático, además se entenderá por:
 
-I. Adaptación: Medidas y ajustes en sistemas humanos o naturales, como respuesta a estímulos climáticos, proyectados o reales, o sus efectos, que pueden moderar el daño, o aprovechar sus aspectos beneficiosos;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+I. Acuerdo de Escazú: Al Acuerdo Regional sobre el Acceso a la Información, la Participación Pública y el Acceso a la Justicia en Asuntos Ambientales en América Latina y el Caribe;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+I. Bis. Acuerdo de París: Al Convenio adoptado durante el vigésimo primer periodo de sesiones de la Conferencia de las Partes de la Convención Marco de las Naciones Unidas sobre el Cambio Climático;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+I. Ter. Adaptación: Medidas y ajustes en sistemas humanos o naturales, como respuesta a estímulos climáticos, proyectados o reales, o sus efectos, que pueden moderar el daño, o aprovechar sus aspectos beneficiosos;
 
 II. Atlas de riesgo: Documento dinámico del estado y de los municipios, con evaluaciones localizadas geográfica y científicamente, de riesgo y vulnerabilidad específicos para la población, considerando los escenarios climáticos actuales y futuros;
 
@@ -109,6 +127,18 @@ VII. Compuesto de efecto invernadero: Componentes gaseosos de la atmósfera, que
 
 VIII. Compensación: Medida que implica restablecer los elementos y recursos naturales o servicios ambientales por otros de las mismas características, valor o semejanza;
 
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. Bis. Contaminantes climáticos de vida corta: Son aquellos agentes atmosféricos que contribuyen al cambio climático y degradan la calidad del aire. Se les llama así porque tienen una vida útil relativamente corta en la atmósfera, de entre algunos días hasta décadas;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. Ter. Contaminantes criterio: son aquellos contaminantes normados a los que se les han establecido un límite máximo permisible de concentración en el aire ambiente, con la finalidad de proteger la salud humana y asegurar el bienestar de la población;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. Quáter. Contribuciones nacionalmente determinadas: las medidas climáticas a las que cada país se compromete para alcanzar los objetivos a largo plazo del Acuerdo de París;
+
 IX. Convención marco: Convención marco de las Naciones Unidas sobre el cambio climático;
 
 X. Degradación: Reducción del contenido de carbono en la vegetación natural, ecosistemas o suelos, debido a la intervención humana, en relación a la misma vegetación, ecosistemas o suelos sin que hubiera existido dicha intervención;
@@ -122,6 +152,34 @@ XIII. Escenario de línea base: Descripción hipotética de lo que podría ocurr
 XIV. Efectos adversos del cambio climático: Variaciones bruscas en el medio ambiente resultantes del cambio climático, que tienen efectos nocivos significativos en la composición, capacidad de recuperación, productividad de los ecosistemas, en la salud y bienestar del ser humano y en el funcionamiento de los sistemas socioeconómicos;
 
 XV. Estrategia Estatal: Estrategia Estatal de Cambio Climático;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XV. Bis. Energías fósiles: Aquellas que provienen de la combustión de materiales y sustancias en estado sólido, líquido o gaseoso que contienen carbono y cuya formación ocurrió a través de procesos geológicos;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XV. Ter. Energías limpias: Aquellas fuentes de energía y procesos de generación de electricidad definidos como tales en la Ley de la Industria Eléctrica;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XV. Quáter. Energías Renovables: Aquellas cuya fuente reside en fenómenos de la naturaleza, procesos o materiales susceptibles de ser transformados en energía aprovechable por el ser humano, que se regeneran naturalmente, por lo que se encuentran disponibles de forma continua o periódica, y que al ser generadas no liberan emisiones contaminantes. Se consideran fuentes de energías renovables las que se enumeran a continuación:
+
+a) El viento.
+
+b) La radiación solar, en todas sus formas.
+
+c) El movimiento del agua en cauces naturales o en aquellos artificiales con embalses ya existentes, con sistemas de generación de capacidad menor o igual a 30 MW o una densidad de potencia, definida como la relación entre capacidad de generación y superficie del embalse, superior a 10 watts/m2.
+
+d) Los bioenergéticos que determine la Ley de la Promoción y Desarrollo de los Bioenergéticos.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XV. Quinquies. Emisiones cero: alcanzar un estado en el que las actividades efectuadas dentro de la cadena de valor de una empresa no causen ningún impacto neto en el clima debido a emisiones de gases de efecto invernadero;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XV. Sexies. Escenario climático futuro: representación plausible y a menudo simplificada del clima futuro, basados en un conjunto internamente coherente de relaciones climatológicas, que se construyen para ser utilizados de forma explícita en la investigación de las consecuencias potenciales del cambio climático antropogénico, y que sirven a menudo de insumo para las simulaciones de los impactos;
 
 XVI. Fondo: El Fondo para el Cambio Climático del Estado, es el instrumento de captación de recursos financieros de naturaleza pública, privada, estatal, municipal, nacional e internacional, para el apoyo de acciones relacionadas con la adaptación o mitigación de los efectos del cambio climático;
 
@@ -179,13 +237,17 @@ Son autoridades competentes para aplicar la presente Ley en materia de cambio cl
 
 A).- Son autoridades estatales:
 
-I. El Gobernador del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+I. La persona titular del Poder Ejecutivo del Estado;
 
 II. La Secretaría de Agua y Medio Ambiente del Estado de Zacatecas;
 
 III. La Secretaría General de Gobierno;
 
-IV. La Secretaría de Infraestructura;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+IV. La Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial;
 
 V. La Secretaría del Campo;
 
@@ -195,9 +257,17 @@ VII. La Secretaría de Economía;
 
 VIII. La Secretaría de Educación;
 
-IX. El Consejo Zacatecano de Ciencia, Tecnología e Innovación, y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-X. Los Servicios de Salud del Estado de Zacatecas.
+IX. El Consejo Zacatecano de Ciencia, Tecnología e Innovación;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+X. Los Servicios de Salud del Estado de Zacatecas, y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XI. La Coordinación Estatal de Planeación.
 
 B).- Son autoridades municipales:
 
@@ -221,17 +291,25 @@ Son órganos auxiliares de las autoridades en materia de cambio climático, los 
 
 I. La Comisión Intersecretarial, y
 
-II. El Observatorio Ciudadano.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+II. El Consejo Consultivo Ciudadano.
 
 #### Sección Tercera. De las Atribuciones de las Autoridades Estatales
 
-Facultades del Gobernador
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Facultades de la persona titular del Poder Ejecutivo del Estado
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 6.
 
-El Gobernador del Estado tendrá las siguientes facultades:
+La persona titular del Poder Ejecutivo del Estado tendrá las siguientes facultades:
 
-I. Formular, conducir y evaluar la Política Estatal, de conformidad con lo dispuesto en la Ley General de Cambio Climático, el Plan de Desarrollo, la Estrategia Estatal, la presente Ley, las disposiciones jurídicas aplicables y los programas operativos anuales;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+I. Formular, conducir y evaluar la Política Estatal de Cambio Climático, de conformidad con lo dispuesto en la Ley General de Cambio Climático, el Plan Estatal de Desarrollo, el Programa Estatal, la presente Ley, las disposiciones jurídicas aplicables y los programas presupuestarios;
 
 II. Aprobar, expedir y publicar el Programa Estatal, así como sus modificaciones;
 
@@ -239,7 +317,9 @@ III. Celebrar convenios de coordinación con la Federación, otras Entidades Fed
 
 IV. Celebrar convenios con los sectores social, privado y educativo, con el objeto de realizar acciones e inversiones encaminadas al cumplimiento del Programa Estatal;
 
-V. Asistido por la Secretaría, coordinar las acciones de adaptación y mitigación al cambio climático, de conformidad con el Plan Estatal de Desarrollo, la Estrategia Estatal y su programa operativo anual;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+V. Asistido por la Secretaría, coordinar las acciones de adaptación y mitigación al cambio climático, de conformidad con el Plan Estatal de Desarrollo, el Programa Estatal y su programa presupuestario;
 
 VI. Promover la incorporación en el sistema estatal de planeación para el desarrollo del Estado, las medidas y acciones en materia de adaptación y mitigación al cambio climático, que deberán tener una proyección congruente con el periodo de gobierno que le corresponda, sin perjuicio de las consideraciones y proyecciones de largo alcance;
 
@@ -249,7 +329,9 @@ VIII. Establecer y gestionar fondos económicos cuyo objeto sea la implementaci�
 
 IX. Expedir, en el ámbito de su competencia, los reglamentos de esta Ley;
 
-X. Proponer las previsiones presupuestales para la adaptación y mitigación, con el fin de reducir la vulnerabilidad del estado ante los efectos adversos del cambio climático;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+X. Proponer las previsiones presupuestales para la ejecución de los proyectos y acciones que se establezcan en el Programa Estatal, y la adaptación y mitigación, con el fin de reducir la vulnerabilidad del estado ante los efectos adversos del cambio climático;
 
 XI. Impulsar el desarrollo de estrategias, programas y proyectos integrales de mitigación de emisiones de gases de efecto invernadero, para impulsar el transporte eficiente, limpio y sustentable, público y privado sujeto a regulación estatal;
 
@@ -259,7 +341,15 @@ XIII. Publicar el Atlas de riesgo, en coordinación con las autoridades municipa
 
 XIV. Convenir con los sectores público y privado, la realización de acciones e inversiones concertadas hacia el cumplimiento del Programa Estatal, y
 
-XV. Las demás que establezcan la presente Ley, sus reglamentos y las disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XV. Implementar, asistido por la Secretaría y la Secretaría de Economía, estrategias y acciones para promover un manejo sustentable de la energía en el consumo general, en los procesos de extracción y en todas las actividades de la base productiva del Estado, atendiendo los lineamientos de la Comisión Nacional para el Uso Eficiente de la Energía;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XVI. Asegurar la equidad de género, en los órganos de política estatal en materia de cambio climático y como perspectiva en el diseño de los instrumentos de la Política Estatal, buscando el empoderamiento de las mujeres, y
+
+XVII. Las demás que establezcan la presente Ley, sus reglamentos y las disposiciones jurídicas aplicables.
 
 Facultades de la Secretaría del Agua y Medio Ambiente del Estado
 
@@ -267,9 +357,9 @@ Facultades de la Secretaría del Agua y Medio Ambiente del Estado
 
 Corresponde a la Secretaría del Agua y Medio Ambiente, las siguientes atribuciones:
 
-I. Revisar y, en su caso, actualizar la Estrategia Estatal;
+I. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2023)
 
-II. En coordinación con la Unidad de Planeación, elaborar e instrumentar el Programa Estatal, en concordancia con el Plan Nacional y los lineamientos establecidos en la Estrategia Estatal y Nacional;
+II. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2023)
 
 III. Impulsar, participar y fomentar acciones y proyectos que contribuyan a la captura de carbono, prevención de riesgos y contingencias ambientales, así como desastres por impactos adversos del cambio climático;
 
@@ -277,9 +367,11 @@ IV. Promover la incorporación gradual de ecosistemas a esquemas de conservació
 
 V. Elaborar, operar, actualizar y publicar el Inventario Estatal;
 
-VI. Desarrollar, ejecutar, evaluar y dar continuidad a la Estrategia Estatal, para alcanzar la protección y manejo sustentable de la biodiversidad en el estado, ante el cambio climático y los efectos adversos del mismo;
+VI. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2023)
 
-VII. Elaborar e integrar la información referente a las fuentes emisoras y absorciones por sumideros que se originan en el territorio estatal, para incorporarla al Sistema Estatal;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Elaborar e integrar la información referente a las fuentes emisoras y absorciones por sumideros que se originan en el territorio estatal, para incorporarla al Registro Estatal;
 
 VIII. Establecer criterios y procedimientos para evaluar y vigilar el cumplimiento del Programa Estatal;
 
@@ -293,15 +385,21 @@ XII. Proponer y ejecutar medidas encaminadas a incidir sobre la reducción de em
 
 XIII. En coordinación con los municipios, promover e impulsar el desarrollo y la instalación de infraestructura y acciones encaminadas a la gestión integral de los residuos, así como políticas para reducir y evitar las emisiones de metano provenientes de los rellenos sanitarios;
 
-XIV. Celebrar convenios de coordinación, por sí o asistiendo al Gobernador del Estado, con la federación, con otras entidades federativas y los municipios, para la implementación de acciones para la mitigación y adaptación al cambio climático;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XIV. Celebrar convenios de coordinación, por sí o asistiendo a la persona titular del Poder Ejecutivo del Estado, con la federación, con otras entidades federativas y los municipios, para la implementación de acciones para la mitigación y adaptación al cambio climático;
 
 XV. Fomentar la investigación científica y tecnológica, el desarrollo, transferencia y despliegue de tecnologías, equipos y procesos para la mitigación y adaptación al cambio climático en el estado;
 
 XVI. Desarrollar estrategias, programas y proyectos integrales de mitigación de emisiones de gases de efecto invernadero para impulsar el transporte eficiente, limpio y sustentable, público y privado;
 
-XVII. Formular y proponer al Gobernador del estado, la expedición de normas técnicas y vigilar su cumplimiento en las materias previstas en la presente Ley;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-XVIII. Brindar asistencia técnica a los municipios para la elaboración e instrumentación de los programas de cambio climático;
+XVII. Formular y proponer a la persona titular del Poder Ejecutivo del Estado, la expedición de normas técnicas y vigilar su cumplimiento en las materias previstas en la presente Ley;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XVIII. Brindar asistencia técnica a los municipios para la elaboración e instrumentación de las políticas de cambio climático;
 
 XIX. Convenir con los sectores social y privado, la realización de acciones e inversiones concertadas en adaptación y mitigación al cambio climático, así como para el cumplimiento del Programa Estatal;
 
@@ -313,9 +411,11 @@ XXII. Impulsar, coordinar y participar en proyectos de reducción, compensación
 
 XXIII. Promover la participación corresponsable de la sociedad en la adaptación y mitigación, de conformidad con lo dispuesto en el Programa Estatal y las leyes aplicables;
 
-XXIV. Proponer al Gobernador del estado, iniciativas de ley o reformas en materia de cambio climático, para incorporar en los instrumentos de política ambiental, los criterios de adaptación y mitigación al cambio climático;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-XXV. Elaborar y actualizar el Atlas de riesgo en coordinación con los municipios, conforme a los criterios emitidos por la federación;
+XXIV. Proponer a la persona titular del Poder Ejecutivo del Estado, iniciativas de ley o reformas en materia de cambio climático, para incorporar en los instrumentos de política ambiental, los criterios de adaptación y mitigación al cambio climático;
+
+XXV. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2023)
 
 XXVI. Establecer las bases e instrumentos para promover el fortalecimiento de capacidades institucionales y sectoriales para enfrentar el cambio climático;
 
@@ -345,7 +445,23 @@ XXXVIII. Remitir, a la autoridad competente a nivel federal la información que 
 
 XXXIX. Definir y publicar, en colaboración con la federación, los municipios y la participación de la sociedad, las áreas destinadas a programas de reducción de emisiones de gases de efecto invernadero por degradación y deforestación en el territorio del estado, y
 
-XL. Las demás que se establezcan en la presente Ley, sus reglamentos y las disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XL. Diseñar, instrumentar, difundir y evaluar los programas de eficiencia energética y de fomento a las energías renovables, a fin de disminuir las emisiones contaminantes de combustibles fósiles y avanzar hacia la transición energética de la entidad, de conformidad con la Ley de Transición Energética;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XLI. Elaborar e instrumentar el Programa Estatal en colaboración con la Coordinación Estatal de Planeación y la Coordinación Intersecretarial, en concordancia con el Plan Nacional, el Plan Estatal de Desarrollo, y los lineamientos establecidos en la Estrategia Nacional;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XLII. Promover la colaboración de científicos expertos en materia de cambio climático, preferentemente, adscritos al Sistema Nacional de Investigadores o al Programa de Desarrollo Profesional Docente, sobre el diseño de los instrumentos de la política estatal en dicha materia;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XLIII. Garantizar que en los instrumentos de planeación de uso del territorio de su competencia, se consideren los escenarios climáticos futuros que se establezcan en el Programa Estatal, y
+
+XLIV. Las demás que se establezcan en la presente Ley, sus reglamentos y las disposiciones jurídicas aplicables.
 
 Para dar cumplimiento a lo previsto en el presente artículo, la Secretaría establecerá una unidad responsable en materia de cambio climático dentro de su estructura orgánica.
 
@@ -355,15 +471,15 @@ Facultades del Consejo Zacatecano de Ciencia, Tecnología e Innovación
 
 Corresponde al Consejo Zacatecano de Ciencia, Tecnología e Innovación, promover e incentivar la creación de programas de investigación científica y tecnológica, el desarrollo, transferencia de tecnologías, equipos y procesos para la mitigación y adaptación al Cambio Climático, así como la captación de fondos concurrentes para financiar la realización de proyectos en esta materia y las demás que le confiera esta Ley y otras disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO SU PROEMIO, P.O. 21 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO SU EPÍGRAFE [N. DE E. REPUBLICADO], P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-Facultades de la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial.
+Facultades de la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 9.
 
-Corresponde a la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial:
+Corresponde a la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento territorial:
 
 I. Promover a través de la Subsecretaría de Vivienda, el desarrollo de vivienda sustentable que contemple el uso de energías renovables, arquitectura bioclimática, aprovechamiento de agua de lluvia y el manejo sustentable de los residuos sólidos y aditamentos o mecanismos que impulsen el ahorro y cuidado del agua así como fomentar e implementar aditamentos que coadyuven al ahorro de energía al interior y exterior de las viviendas;
 
@@ -409,7 +525,11 @@ II. Evaluar y dar seguimiento a los fenómenos causados por el Cambio Climático
 
 III. A través de la Dirección de Transporte, Tránsito y Vialidad, implementar acciones encaminadas a la realización del Programa de Verificación Vehicular para el Estado de Zacatecas, cuyo objetivo es lograr un transporte eficiente, limpio y sustentable, y
 
-IV. Las demás que se establezcan en la presente Ley, sus reglamentos y las disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+IV. A través de la Dirección de Trabajo y Previsión Social, en coordinación con la Secretaría de Economía, capacitar y certificar al personal especializado en la instalación de infraestructura para el aprovechamiento de las energías renovables, especialmente de paneles solares de los sistemas fotovoltaicos, a fin de brindar asistencia técnica a las dependencias y entidades de la administración pública estatal, a los municipios y, en general, a sectores productivos, y
+
+V. Las demás que se establezcan en la presente Ley, sus reglamentos y las demás disposiciones jurídicas aplicables.
 
 Facultades de la Secretaría de Desarrollo Social.
 
@@ -429,6 +549,18 @@ II. En coordinación con la Secretaría, implementar acciones de mitigación, re
 
 III. Promover acciones que reduzcan impactos y mitiguen los efectos adversos del cambio climático en empresas instaladas y de nueva creación en el estado.
 
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Promover el aumento en el uso de energías renovables que se usan en el estado;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+V. Con apoyo de la Secretaría, realizar campañas de difusión en materia de manejo sustentable de la energía y fomento de las energías renovables, así como del uso de combustibles menos contaminantes en los sectores productivo e industrial del estado, y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Las demás que se establezcan en la presente Ley, su reglamento y las disposiciones jurídicas aplicables.
+
 Facultades de la Secretaría de Educación
 
 ###### Artículo 14.
@@ -441,13 +573,77 @@ II. Participar y realizar campañas de educación e información para sensibiliz
 
 III. Formular, regular, dirigir e implementar acciones en escuelas de todos los niveles educativos del estado que ayuden a minimizar los efectos adversos del Cambio Climático, y
 
-IV. Las demás que se establezcan en la presente Ley, sus reglamentos y las disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Formular, dirigir e implementar programas de educación y comunicación educativa acerca del cambio climático en el sistema educativo estatal, en el ámbito superior del estado;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+V. Recomendar programas de educación y comunicación a nivel estatal sobre el cambio climático;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Impulsar la colaboración institucional, con acciones que impacten positivamente la calidad de vida, el avance del conocimiento y la transformación cultural de la sociedad a través de actividades científicas y tecnológicas que promuevan la concientización de los efectos del cambio climático;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Impulsar la investigación y el desarrollo tecnológico con el apoyo de científicos expertos en cambio climático, y
+
+VIII. Las demás que se establezcan en la presente Ley, sus reglamentos y las disposiciones jurídicas aplicables.
 
 Facultades de los Servicios de Salud del Estado de Zacatecas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 15.
 
-Corresponde a los Servicios de Salud del Estado de Zacatecas, formular, regular, dirigir y participar en la instrumentación de acciones de mitigación y adaptación al Cambio Climático, en la prevención y atención de enfermedades derivadas de los efectos del Cambio Climático.
+Corresponde a los Servicios de Salud del Estado de Zacatecas:
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+I. Formular, regular, dirigir y participar en la instrumentación de acciones de mitigación y adaptación al cambio climático, en la prevención y atención de enfermedades derivadas de los efectos del cambio climático;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+II. Diseñar herramientas que permitan recopilar información sobre los riesgos y efectos en la salud de las personas por el fenómeno del cambio climático;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+III. Identificar los grupos de población con mayor vulnerabilidad a los efectos del cambio climático en materia de salud;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Promover que la infraestructura hospitalaria que se construya en el estado considere criterios de adaptación al cambio climático;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+V. Establecer programas de salud preventiva que fortalezcan la resiliencia de la población frente a las enfermedades vinculadas al cambio climático, así como coordinar, junto con la Secretaría, programas de sensibilización sobre estas acciones;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Elaborar un diagnóstico del sector salud sobre la capacidad de respuesta ante eventos derivados del cambio climático, y valorar e identificar las zonas con mayor vulnerabilidad en el Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Establecer protocolos de atención en situaciones de emergencia sanitaria por eventos climáticos, y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. Las demás que se establezcan en la presente Ley, sus reglamentos y las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Facultades de la Coordinación Estatal de Planeación
+
+Artículo 15 BIS. Corresponde a la Coordinación Estatal de Planeación:
+
+I. Establecer dentro de sus lineamientos para la aprobación de planes, programas, proyectos, políticas y obras, criterios de mitigación y adaptación al cambio climático;
+
+II. Orientar los planes y programas presupuestarios de dependencias y entidades, a los objetivos de esta Ley;
+
+III. Ser coadyuvante en la revisión y evaluación que la Secretaría realice del cumplimiento del Programa Estatal, y
+
+IV. Las demás que se establezcan en la presente Ley, su reglamento y las disposiciones jurídicas aplicables.
 
 Acciones de las dependencias Estatales.
 
@@ -455,19 +651,27 @@ Acciones de las dependencias Estatales.
 
 Corresponde a las dependencias de la administración pública estatal, en el ámbito de sus respectivas competencias:
 
-I. Formular y ejecutar las medidas de adaptación al Cambio Climático y de mitigación de gases de efecto invernadero, en concordancia con la Estrategia Estatal;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+I. Formular y ejecutar dentro de sus programas las medidas de adaptación al Cambio Climático y de mitigación de gases de efecto invernadero, en concordancia con el Programa Estatal;
 
 II. Proponer al Gobernador del Estado, reglamentos, decretos gubernativos, acuerdos y otras disposiciones administrativas en materia de mitigación y adaptación ante los efectos del cambio climático, así como propuestas de modificación a la normatividad vigente;
 
-III. Vigilar el cumplimiento de la Estrategia Estatal;
+III. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2023)
 
 IV. Promover la participación social, conforme a lo dispuesto en esta Ley;
 
 V. Coordinar con los Municipios la definición de lineamientos y directrices dispuestos en esta Ley;
 
-VI. Convenir con los sectores social y privado la realización de acciones e inversiones concertadas para la mitigación y adaptación al Cambio Climático, y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-VII. las demás que les señalen esta ley, sus reglamentos y las disposiciones jurídicas aplicables.
+VI. Convenir con los sectores social y privado la realización de acciones e inversiones concertadas para la mitigación y adaptación al Cambio Climático;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Aplicar, con el apoyo de la Secretaría, programas de uso eficiente y ahorro de energía, así como de aprovechamiento de las energías renovables, principalmente con la incorporación de sistemas fotovoltaicos en las azoteas de sus instalaciones y edificios, y
+
+VIII. Las demás que les señalen esta Ley, sus reglamentos y las disposiciones jurídicas aplicables.
 
 #### Sección Cuarta. De las Autoridades Municipales
 
@@ -479,7 +683,9 @@ Corresponde a los ayuntamientos, las siguientes facultades:
 
 I. Formular, conducir y evaluar la política municipal en materia de Cambio Climático, en concordancia con la política y estrategia nacional y estatal;
 
-II. Formular e instrumentar políticas y acciones para enfrentar al cambio climático, en congruencia con el Plan Nacional de Desarrollo, la Estrategia Nacional de Cambio Climático, el Programa Especial de Cambio Climático, la Estrategia Estatal, el Programa Estatal y las leyes aplicables, así como en las siguientes materias:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+II. Formular e instrumentar políticas y acciones para enfrentar al cambio climático, en congruencia con el Plan Nacional de Desarrollo, la Estrategia Nacional de Cambio Climático, el Programa Estatal y las leyes aplicables, así como en las siguientes materias:
 
 a).- Prestación del servicio de agua potable y saneamiento;
 
@@ -509,7 +715,9 @@ V. Realizar campañas de educación e información en coordinación con el gobie
 
 VI. Promover el fortalecimiento de capacidades institucionales y sectoriales para la mitigación y adaptación al Cambio Climático, así como la aplicación de incentivos que promuevan acciones para el cumplimiento del objeto de la presente Ley;
 
-VII. Suscribir convenios de coordinación con el Estado, con otros municipios, con la federación o con Instituciones y organismos internacionales, para dar cumplimiento a las acciones previstas en los Programas Municipales;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Suscribir convenios de coordinación con el Estado, con otros municipios, con la federación o con instituciones y organismos internacionales, para la instrumentación de las políticas y acciones para enfrentar al cambio climático;
 
 VIII. Crear las unidades administrativas encargadas de la implementación y seguimiento de la política municipal de Cambio Climático;
 
@@ -531,7 +739,7 @@ XVI. Incorporar en los programas de política ambiental municipales y de desarro
 
 XVII. Promover y realizar acciones e inversiones para la conservación, mejoramiento y crecimiento de los centros de población, atendiendo a los Atlas de Riesgos y programas de desarrollo urbano;
 
-XVIII. Formular, aprobar y ejecutar los Programas Municipales y los demás que de éstos se deriven, así como evaluar y vigilar su cumplimiento, de conformidad con el sistema de control y gestión administrativa, reglamentación interior y la legislación aplicable;
+XVIII. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2023)
 
 XIX. Promover la participación pública, privada y social, conforme a lo dispuesto en esta Ley;
 
@@ -541,7 +749,37 @@ XXI. Vigilar y promover, en el ámbito de su competencia, el cumplimiento de est
 
 XXII. Expedir los reglamentos municipales en la materia, con el objeto de vigilar y promover, en el ámbito de su competencia, el cumplimiento de la presente Ley, y
 
-XXIII. Las demás que les señalen esta Ley, sus reglamentos y otras disposiciones jurídicas.
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XXIII. Promover la sustentabilidad energética y el desarrollo de las energías renovables, a fin de coadyuvar a lograr la autonomía del sector energético estatal, reduciendo con ello la contaminación y la vulnerabilidad de la población y de los ecosistemas frente a los efectos adversos del cambio climático, mediante las siguientes acciones:
+
+a) Establecer programas de aprovechamiento de las fuentes renovables de energía, especialmente en la prestación de los servicios públicos municipales y dentro de la administración pública municipal;
+
+b) Celebrar convenios de coordinación, colaboración y concertación con los sectores público, social y privado, incluyendo a las instituciones de educación e investigación, para el desarrollo, innovación y aplicación de tecnologías sustentables en materia energética;
+
+c) Prever en su presupuesto de egresos para el ejercicio fiscal que corresponda, los recursos necesarios para la promoción de las energías renovables y la eficiencia energética en su Municipio;
+
+d) Dotar a la administración pública municipal de la infraestructura, instrumental y mobiliario necesarios para llevar un manejo racional, eficiente y sustentable de la energía en todos sus procesos operativos;
+
+e) Establecer mesas de trabajo, convenios y acuerdos entre municipios para planear e implementar soluciones a problemas energéticos comunes en determinadas regiones, donde los procesos de producción en el campo serán prioritarios;
+
+f) Realizar campañas informativas y formativas en materia de cultura ambiental para generar un cambio de hábitos, especialmente, en los patrones de consumo energético, y
+
+g) Incorporar en los reglamentos de construcción, normas que promuevan el fomento de la sustentabilidad energética en las edificaciones dentro de la jurisdicción de cada Ayuntamiento;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XXIV. Asegurar la equidad de género como perspectiva en el diseño de los instrumentos de las políticas municipales, buscando el empoderamiento de las mujeres;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XXV. Diseñar e implementar una estrategia de comunicación sobre los efectos de cambio climático en la salud de la población;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XXVI. Garantizar que los instrumentos de planeación relacionados con los asentamientos humanos y el ordenamiento territorial, consideren los escenarios climáticos futuros que se establezcan en el Programa, y
+
+XXVII. Las demás que les señalen esta Ley, sus reglamentos y otras disposiciones jurídicas.
 
 Suscripción de convenios
 
@@ -577,7 +815,9 @@ V. Equidad en la instrumentación y aplicación de las políticas públicas en m
 
 VI. Cooperación y coordinación entre autoridades estatales y municipales, de los sectores social y privado, para asegurar la efectiva instrumentación de la Política Estatal;
 
-VII. Participación ciudadana, en la formulación, ejecución, monitoreo y evaluación del Programa Estatal, planes y programas de mitigación y adaptación a los efectos del cambio climático;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Participación ciudadana, en la formulación, ejecución, monitoreo y evaluación del Programa Estatal y las políticas municipales derivadas del mismo;
 
 VIII. Proporcionalidad en la determinación de responsabilidades, atendiendo a las emisiones per cápita y no sólo a las emisiones totales;
 
@@ -594,6 +834,10 @@ XIII. Promoción del aprovechamiento racional y sostenible de los recursos natur
 XIV. Eficiencia energética en todas las actividades, así como la sustitución de energías convencionales por energías renovables en aquellos sectores sujetos al ámbito de su competencia, y
 
 XV. Promoción de una economía de bajas emisiones de carbono, como modelo de desarrollo industrial en el estado.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XVI. Asegurar la equidad de género, en los órganos de política estatal en materia de cambio climático, y como perspectiva en el diseño de los instrumentos de la política estatal, buscando el empoderamiento de las mujeres.
 
 De la adaptación
 
@@ -614,6 +858,14 @@ V. Identificar la vulnerabilidad y capacidad de adaptación y transformación de
 VI. Establecer mecanismos de atención inmediata y expedita en zonas impactadas por los efectos del cambio climático como parte de los planes y acciones de protección civil, y
 
 VII. Facilitar y fomentar la seguridad alimentaria, la productividad agrícola, ganadera, pesquera, acuícola, la preservación de los ecosistemas y de los recursos naturales.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. Fortalecer la resiliencia y resistencia de los sistemas ecológicos, económico-productivos y sociales, y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+IX. Promover la sustentabilidad energética, así como el uso y aprovechamiento de las energías limpias y renovables.
 
 Diversas Acciones
 
@@ -691,103 +943,117 @@ VI. Contener las demás estipulaciones que las partes consideren necesarias para
 
 Los convenios o acuerdos de coordinación a que se refiere el presente artículo, deberán ser publicados en el Periódico Oficial, Órgano del Gobierno del Estado y, en su caso, en el Diario Oficial de la Federación.
 
-## Título Cuarto. Sistema Estatal de Cambio Climático
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-### Capítulo I. Disposiciones generales del Sistema Estatal de Cambio Climático
+## Título Cuarto. Órganos de Política Estatal en materia de Cambio Climático
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+### Capítulo I. Disposiciones generales
 
 #### Sección Primera. Disposiciones complementarias
 
-Objeto
-
 ###### Artículo 31.
 
-El Estado y los Municipios establecerán las bases de coordinación para la integración y funcionamiento del Sistema Estatal de Cambio Climático, el cual tiene por objeto:
-
-I. Fungir como un mecanismo permanente de concurrencia, colaboración, coordinación, concertación y comunicación sobre la Política Estatal;
-
-II. Promover la aplicación transversal de la Política Estatal en el corto, mediano y largo plazo entre las autoridades estatales y municipales, en el ámbito de sus respectivas competencias;
-
-III. Coordinar los esfuerzos del Estado y los Municipios para la realización de acciones de adaptación, mitigación y reducción de la vulnerabilidad, para enfrentar los efectos adversos del Cambio Climático, a través de los instrumentos de política previstos por esta Ley y las demás disposiciones aplicables, y
-
-IV. Promover la concurrencia, vinculación y congruencia de los programas, acciones e inversiones del gobierno estatal y de los Municipios, con la Estrategia Estatal y el Programa Estatal.
-
-Bases de coordinación
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2023)
 
 ###### Artículo 32.
 
-El titular del Poder Ejecutivo, la Secretaría y los municipios, establecerán las bases de coordinación para la integración y funcionamiento del Sistema Estatal, el cual tiene por objeto definir, formular y promover la aplicación de la Política Estatal a través de los instrumentos previstos en la presente Ley, en el ámbito de sus respectivas competencias.
-
-El Sistema Estatal analizará y promoverá la aplicación de los instrumentos de política previstos en la presente Ley y podrá proponer a la Comisión Intersecretarial, recomendaciones para el fortalecimiento de las políticas y acciones de mitigación y adaptación.
-
-Integración (sic) Sistema Estatal
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2023)
 
 ###### Artículo 33.
 
-El Sistema Estatal estará integrado por la Comisión, los presidentes de los municipios del Estado, el Presidente y un Secretario o Secretaria de la Comisión de Ecología y Medio Ambiente de la Honorable Legislatura del Estado así como las instituciones educativas y privadas que se establezcan en el reglamento correspondiente.
-
-Órgano que preside
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2023)
 
 ###### Artículo 34.
 
-El Sistema Estatal será presidido por el Titular del Poder Ejecutivo del Estado y contará con una Secretaría Técnica, la cual corresponderá a la Secretaría. En ausencia o delegación del Titular del Poder Ejecutivo, el Secretario General de Gobierno presidirá las reuniones.
-
-Convocatoria para reuniones
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2023)
 
 ###### Artículo 35.
 
-El Presidente del sistema convocará, por lo menos, a dos reuniones anuales con carácter de ordinarias, con el propósito de informar y evaluar las acciones y medidas implementadas para enfrentar al cambio climático, así como para conocer las opiniones o recomendaciones de los miembros del Sistema.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2023)
 
-Podrá convocar de forma extraordinaria, cuando la naturaleza de algún asunto de su competencia lo exija o a petición fundada de alguno de los integrantes del Sistema.
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-Los mecanismos de funcionamiento y operación del Sistema, se establecerán en el reglamento correspondiente de la presente Ley.
+Órganos de política climática
+
+Artículo 35 BIS. Los órganos de política estatal en materia de Cambio Climático son la Comisión Intersecretarial y el Consejo consultivo.
 
 #### Sección Segunda. Comisión Intersecretarial de Cambio Climático
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
 Comisión Intersecretarial
 
 ###### Artículo 36.
 
-La Comisión Intersecretarial tendrá carácter permanente y será presidida por el Titular del Ejecutivo del Estado.
+La Comisión Intersecretarial tendrá carácter permanente y será presidida por la persona Titular del Poder Ejecutivo del Estado.
 
 Integración de la Comisión Intersecretarial
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 37.
 
-La Comisión Intersecretarial se integrará por:
+La Comisión Intersecretarial se integrará por las personas titulares de las siguientes dependencias o entidades públicas:
 
-I. El Gobernador del Estado, quien la presidirá y en su ausencia podrá delegar esta atribución en el titular de la dependencia o entidad que determine;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-II. El Secretario del Agua y Medio Ambiente del Estado;
+I. El Poder Ejecutivo del Estado, quien la presidirá y en su ausencia podrá delegar esta atribución en el titular de la dependencia o entidad que determine;
 
-III. El Secretario General de Gobierno;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-IV. El Secretario de Finanzas;
+II. La Secretaría del Agua y Medio Ambiente del Estado;
 
-V. El Secretario de Desarrollo Social;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-VI. El Secretario de Educación;
+III. La Secretaría General de Gobierno;
 
-VII. El Secretario de Economía;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-VIII. El Secretario del Campo;
+IV. La Secretaría de Finanzas;
 
-IX. El Secretario de Infraestructura;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
+V. La Secretaría de Desarrollo Social;
 
-X. El Secretario de Desarrollo Urbano, Vivienda y Ordenamiento Territorial;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-XI. El Director General de los Servicios de Salud del Estado, y
+VI. La Secretaría de Educación;
 
-XII. El Director General del Consejo Zacatecano de Ciencia, Tecnología e Innovación.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VII. La Secretaría de Economía;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. La Secretaría del Campo;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+IX. La Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+X. La Dirección General de los Servicios de Salud del Estado;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XI. La Dirección General del Consejo Zacatecano de Ciencia, Tecnología e Innovación, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XII. La Coordinación Estatal de Planeación.
 
 Cada dependencia y entidad participante deberá designar a una de sus unidades administrativas, por lo menos a nivel de dirección, como la encargada de coordinar y dar seguimiento permanente a los trabajos de la Comisión Intersecretarial.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
 Convocatoria a sesiones
 
 ###### Artículo 38.
 
-La Comisión Intersecretarial convocará a otras dependencias y entidades de la administración pública estatal, asimismo podrá invitar a representantes de los Poderes Legislativo y Judicial, de organismos públicos autónomos, de los Municipios, así como a integrantes del Observatorio y representantes de los sectores público, social y privado, a participar en sus trabajos cuando se aborden temas relacionados con el ámbito de su competencia.
+La Comisión Intersecretarial convocará a otras dependencias y entidades de la administración pública estatal, asimismo podrá invitar a representantes de los Poderes Legislativo y Judicial, de organismos públicos autónomos, de los Municipios, así como a integrantes del Consejo consultivo ciudadano y representantes de los sectores público, social y privado, a participar en sus trabajos cuando se aborden temas relacionados con el ámbito de su competencia.
 
 Atribuciones (sic) Comisión Intersecretarial
 
@@ -819,7 +1085,9 @@ XI. Convocar a las organizaciones de los sectores social y privado, así como a 
 
 XII. Promover el establecimiento, conforme a la legislación respectiva, de reconocimientos a los esfuerzos más destacados de la sociedad y del sector privado para enfrentar al cambio climático;
 
-XIII. Solicitar recomendaciones al Observatorio sobre las políticas, estrategias, acciones y metas para atender los efectos del cambio climático, y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XIII. Solicitar recomendaciones al Consejo consultivo ciudadano sobre las políticas, estrategias, acciones y metas para atender los efectos del cambio climático, y
 
 XIV. Las demás que le confiera la presente Ley, sus reglamentos y otras disposiciones legales aplicables.
 
@@ -833,31 +1101,33 @@ La Comisión Intersecretarial podrá acordar el establecimiento de grupos de tra
 
 La operación de los grupos de trabajo quedará sujeta a lo establecido en el reglamento interior, donde se señalarán los objetivos, atribuciones, integrantes y funcionamiento.
 
-#### Sección Tercera. Observatorio Ciudadano
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+#### Sección Tercera. Consejo consultivo ciudadano
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
 Naturaleza
 
 ###### Artículo 41.
 
-El Observatorio Ciudadano es el organismo ciudadano de consulta y evaluación de la Estrategia Estatal.
-
-Integración
+El Consejo consultivo ciudadano es el órgano de concertación social en materia de desarrollo sustentable en los términos de lo establecido por la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Zacatecas.
 
 ###### Artículo 42.
 
-Se integrará con miembros de los organismos de la sociedad civil, organismos privados y académicos, de investigación, organizaciones no gubernamentales, organismos colegiados de profesionistas, sectores productivos con experiencia en temas de cambio climático, quienes serán designados a propuesta del titular del Ejecutivo del Estado.
-
-Cargo honorífico de los miembros
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2023)
 
 ###### Artículo 43.
 
-Los miembros del Observatorio Ciudadano ejercerán sus cargos de manera honorífica, por lo que no recibirán retribución o compensación alguna en el desempeño de sus funciones y durarán en su encargo un periodo de dos años, pudiendo ser reelectos por otro período.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2023)
 
 Atribuciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 44.
 
-El Observatorio Ciudadano tendrá las siguientes atribuciones:
+El Consejo consultivo ciudadano tendrá las siguientes atribuciones:
 
 I. Recomendar a la Comisión Intersecretarial las políticas, acciones, estrategias y metas para la mitigación y adaptación al Cambio Climático;
 
@@ -865,11 +1135,13 @@ II. Evaluar y dar seguimiento a las acciones y sus impactos, que deriven de los 
 
 III. Realizar en coordinación con la Comisión Intersecretarial las consultas públicas que ésta determine.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 Comités Operativos
 
 ###### Artículo 45.
 
-El Observatorio Ciudadano podrá constituir comités operativos o grupos de trabajo formados por representantes de la sociedad civil organizada y demás organismos competentes, para el estudio, consulta, análisis, comunicación y coordinación en las diferentes materias de Cambio Climático.
+El Consejo consultivo ciudadano podrá constituir comités operativos o grupos de trabajo formados por representantes de la sociedad civil organizada y demás organismos competentes, para el estudio, consulta, análisis, comunicación y coordinación en las diferentes materias de cambio climático.
 
 ## Título Cuarto. Instrumentos de Política Estatal en materia de Cambio Climático
 
@@ -887,17 +1159,19 @@ Instrumentos de la Política Estatal
 
 Son instrumentos de la Política Estatal en materia de cambio climático, los siguientes:
 
-I. La Estrategia Estatal;
+I. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2023)
 
 II. El Programa Estatal;
 
-III. Los programas municipales en la materia;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+III. Las políticas municipales en la materia;
 
 IV. El Registro Estatal;
 
 V. El Inventario Estatal;
 
-VI. El Sistema Estatal;
+VI. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2023)
 
 VII. Instrumentos económicos:
 
@@ -913,13 +1187,17 @@ Instrumentos de planeación
 
 Son instrumentos de planeación de la Política Estatal, los siguientes:
 
-I. La Estrategia Estatal;
+I. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2023)
 
 II. El programa estatal, y
 
-III. Los programas municipales.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-Estos se considerarán como elementos de instrumentación del sistema estatal de planeación democrática y se suman a los previstos en la Ley de Planeación para el Desarrollo del Estado.
+III. Las políticas municipales.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Estos se considerarán como elementos de instrumentación del sistema estatal de planeación democrática y se suman a los previstos en la Ley de Planeación del Estado de Zacatecas y sus Municipios.
 
 Planeación de la Política Estatal
 
@@ -927,45 +1205,35 @@ Planeación de la Política Estatal
 
 La planeación de la Política Estatal comprenderá dos vertientes:
 
-I. La proyección a mediano y largo plazo, conforme se determine en la Estrategia Estatal, y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+I. La proyección a mediano y largo plazo, y
 
 II. La proyección de los periodos constitucionales que correspondan a las administraciones Estatales y Municipales.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
 Contenido de los instrumentos
 
 ###### Artículo 50.
 
-La Estrategia Estatal, el Programa Estatal y los programas municipales en la materia, deberán contener las previsiones para el cumplimiento de los objetivos, principios y disposiciones para la mitigación y adaptación previstas en la presente Ley.
-
-Estrategia Estatal
+El Programa Estatal y las políticas municipales en la materia, deberán contener las previsiones para el cumplimiento de los objetivos, principios y disposiciones para la mitigación y adaptación previstas en la presente Ley.
 
 ###### Artículo 51.
 
-La Estrategia Estatal, es el instrumento de política transversal que integra el conjunto de principios y líneas de acción que orientan el proceso de desarrollo, considerando el diagnóstico de la situación del Estado ante los efectos del cambio climático sobre sus recursos naturales, sectores social y productivo; por tanto:
-
-I. La estrategia considerará los escenarios climáticos futuros que permitan determinar la vulnerabilidad del Estado, sus necesidades futuras, así como las fortalezas y debilidades de la administración pública estatal y municipal para enfrentarlas;
-
-II. La estrategia definirá la orientación de la Política Estatal, identificando los actores y sus responsabilidades frente a este fenómeno, precisará posibilidades de reducción de efectos adversos del cambio climático, propondrá los estudios para definir metas de mitigación y necesidades de adaptación y, permitirá priorizar los temas que deberán ser considerados para elaborar el Programa Estatal;
-
-III. La estrategia, será parte del Sistema Estatal de Planeación Democrática, por lo que deberá ser considerado en la integración de los planes estatal y municipal de desarrollo, y
-
-IV. La estrategia, será elaborada por la Secretaría, con la participación activa de la sociedad en los términos previstos por el presente ordenamiento. La Secretaría, emitirá una norma técnica que establezca el contenido mínimo y metodología requerida para su integración.
-
-Procedimiento para su elaboración
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2023)
 
 ###### Artículo 52.
 
-Para la elaboración de la Estrategia Estatal, la Secretaría, promoverá la participación de la sociedad conforme a las disposiciones aplicables de la Ley de Planeación para el Desarrollo del Estado.
-
-Será elaborada y aprobada por la Secretaría, en coordinación de la Unidad de Planeación y las dependencias y entidades que correspondan y publicada en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
-
-En la elaboración del Programa Estatal se llevará a cabo una consulta pública a efecto de promover la participación y consulta del sector social y privado, y de que la población exprese sus opiniones para su elaboración, actualización y ejecución, y las disposiciones jurídicas aplicables. Deberá ser revisada, y en su caso, reformada cada 12 meses.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2023)
 
 Programa Estatal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 53.
 
-El Programa Estatal, es el instrumento de política transversal que determina los objetivos, estrategias, metas, acciones vinculantes en materia de adaptación y mitigación al cambio climático para la administración pública estatal, mediante la asignación de recursos, responsabilidades, tiempos de ejecución, coordinación de acciones y evaluación de resultados, de acuerdo con lo previsto en el Plan Estatal de Desarrollo y la Estrategia Estatal.
+El Programa Estatal, es el instrumento de política transversal que determina los objetivos, estrategias, metas, acciones vinculantes en materia de adaptación y mitigación al cambio climático para la administración pública estatal, mediante la asignación de recursos, responsabilidades, tiempos de ejecución, coordinación de acciones y evaluación de resultados, de acuerdo con lo previsto en el Plan Estatal de Desarrollo.
 
 El Programa Estatal será elaborado por la Secretaría en coordinación de la Unidad de Planeación. Las políticas, directrices y recomendaciones derivadas de este programa, serán vinculantes para las dependencias y entidades de la administración pública estatal a las que vayan dirigidas, se actualizarán los escenarios de línea base y sus respectivas acciones derivadas, proyecciones, objetivos y metas correspondientes.
 
@@ -973,11 +1241,15 @@ Las revisiones y actualizaciones, en ningún caso, se harán en menoscabo de las
 
 Contenido
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 54.
 
-El Programa Estatal será revisado cada 12 meses y deberá contener, entre otros elementos, los siguientes:
+El Programa Estatal será revisado cada 12 meses, deberá sujetarse a los principios de sustentabilidad establecidos en el artículo 20 de la presente Ley, y contener, entre otros elementos, los siguientes:
 
-I. La planeación sexenal con perspectiva de largo plazo, congruente con los objetivos de la Estrategia Estatal, con los compromisos nacionales y con la situación económica, ambiental y social del estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+I. La planeación sexenal con perspectiva de largo plazo, congruente con los compromisos nacionales y con la situación económica, ambiental y social del estado;
 
 II. Las metas sexenales de mitigación, dando prioridad a las relacionadas con la generación y uso de energía, quema y venteo de gas, transporte, agricultura, bosques, otros usos de suelo, procesos industriales y gestión de residuos;
 
@@ -993,15 +1265,35 @@ VII. Los responsables de la instrumentación, del seguimiento y de la difusión 
 
 VIII. Propuestas para la coordinación interinstitucional y la transversalidad entre las áreas con metas compartidas o que influyen en otros sectores;
 
-IX. La medición, el reporte y la verificación de las medidas y acciones de adaptación y mitigación propuestas, y
+IX. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2023)
 
-X. Los demás elementos que determine la legislación aplicable.
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-Objetivos de la Estrategia Estatal.
+X. El conjunto de principios y líneas de acción que orientan el proceso de desarrollo, considerando el diagnóstico de la situación del estado ante los efectos del cambio climático sobre sus recursos naturales, sectores social y productivo;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XI. Los escenarios climáticos futuros que permitan determinar la vulnerabilidad del estado, sus necesidades, así como las fortalezas y debilidades de la administración pública estatal y municipal para enfrentarlas;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XII. La orientación de la Política Estatal, identificando los actores y sus responsabilidades frente a este fenómeno, precisará posibilidades de reducción de efectos adversos del cambio climático, propondrá los estudios para definir metas de mitigación y necesidades de adaptación y temas prioritarios;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XIII. El sistema de seguimiento a partir del cual se establecerá el monitoreo, reporte y verificación de las medidas de mitigación, y el monitoreo y evaluación de las medidas de adaptación planteadas en el Programa Estatal, y
+
+XIV. Los demás elementos que determine la legislación aplicable.
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Objetivos del Programa Estatal
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 55.
 
-Las dependencias y entidades de la Administración Pública Estatal, los organismos públicos autónomos, el Poder Legislativo, el Poder Judicial, los Municipios y la sociedad en general, llevarán a cabo las políticas y acciones de la Estrategia Estatal, atendiendo de manera prioritaria a lo siguiente:
+Las dependencias y entidades de la Administración Pública Estatal, los organismos públicos autónomos, el Poder Legislativo, el Poder Judicial, los Municipios y la sociedad en general, llevarán a cabo las políticas y acciones del Programa Estatal, atendiendo de manera prioritaria a lo siguiente:
 
 I. La protección de la vida humana y la infraestructura;
 
@@ -1025,11 +1317,13 @@ X. El incremento de la cubierta vegetal nativa y el reforzamiento de la conserva
 
 XI. El aseguramiento de los ordenamientos ecológicos del territorio en los desarrollos urbanos, de asentamientos humanos y de uso de recursos naturales.
 
-Actualización (sic) Programa Estatal
+Actualización Programa Estatal
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 56.
 
-El Programa Estatal aprobado y actualizado al inicio de cada administración, establecerá las estrategias, políticas, directrices, objetivos, acciones, metas e indicadores y la definición de prioridades en materia de adaptación y mitigación, que se implementarán y cumplirán durante el período de gobierno correspondiente, de conformidad con la Estrategia Nacional de Cambio Climático, el Programa Especial de Cambio Climático, la Estrategia Estatal, el Plan Estatal de Desarrollo, esta Ley y las demás disposiciones jurídicas aplicables; por tanto:
+El Programa Estatal aprobado y actualizado al inicio de cada administración, establecerá las estrategias, políticas, directrices, objetivos, acciones, metas e indicadores y la definición de prioridades en materia de adaptación y mitigación, que se implementarán y cumplirán durante el período de gobierno correspondiente, de conformidad con la Estrategia Nacional de Cambio Climático, el Programa Especial de Cambio Climático, el Plan Estatal de Desarrollo, esta Ley y las demás disposiciones jurídicas aplicables; por tanto:
 
 I. La planeación sexenal con perspectiva de largo plazo, congruente con los compromisos internacionales y con la situación económica, ambiental y social del Estado;
 
@@ -1051,7 +1345,9 @@ IX. La medición, el reporte y la verificación de las medidas y acciones de ada
 
 X. Se considerará siempre la igualdad de género y la representación de las poblaciones más vulnerables al Cambio Climático, indígenas, personas con discapacidad, académicos e investigadores;
 
-XI. Las acciones de mitigación y adaptación que se incluyan en el Programa Estatal y los programas de municipales en materia de cambio climático, deberán ser congruentes con la Estrategia Estatal, lo establecido en la presente Ley y demás disposiciones jurídicas aplicables, y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XI. El sistema de seguimiento a partir del cual se establecerá el monitoreo, reporte y verificación de las medidas de mitigación, y el monitoreo y evaluación de las medidas de adaptación planteadas en el programa, y
 
 XII. Los demás elementos que determine la legislación aplicable.
 
@@ -1061,55 +1357,71 @@ Publicación de modificaciones
 
 En caso de que el Programa Estatal requiera modificaciones, deberán publicarse en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 Proyectos y acciones del Programa Estatal
 
 ###### Artículo 58.
 
-Los proyectos y demás acciones contemplados en el Programa Estatal, que corresponda realizar a las dependencias y entidades de la administración pública estatal, deberán ejecutarse en función de la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos del Estado para el ejercicio fiscal que corresponda.
+Los proyectos y demás acciones contemplados en el Programa Estatal, que corresponda realizar a las dependencias y entidades de la administración pública estatal, deberán contemplarse en la planeación relativa del Presupuesto de Egresos del Estado para el ejercicio fiscal que corresponda.
 
-### Capítulo III. Programas Municipales de Cambio Climático
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-Programas Municipales de Cambio Climático
+### Capítulo III. Políticas Municipales de Cambio Climático
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Políticas Municipales de Cambio Climático
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 59.
 
-Los ayuntamientos, en el ámbito de sus competencias, deberán elaborar y publicar sus Programas Municipales, como instrumento de planeación e implementación de políticas públicas, metas e indicadores que las autoridades locales se comprometen a cumplir durante el periodo de gobierno correspondiente, de conformidad con el Programa Estatal y las disposiciones de esta Ley, para enfrentar el cambio climático.
+Los ayuntamientos, en el ámbito de sus competencias, deberán diseñar políticas, con sus respectivas, metas e indicadores que las autoridades locales se comprometen a cumplir durante el periodo de gobierno correspondiente, de conformidad con el Programa Estatal y las disposiciones de esta Ley, para enfrentar el cambio climático.
 
-Elementos de los Programas Municipales de Cambio Climático
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Elementos de las Políticas Municipales de Cambio Climático
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 60.
 
-Los programas municipales de cambio climático incluirán, entre otros, los siguientes elementos:
+Las políticas municipales de cambio climático deberán contemplar:
 
-I. La planeación con perspectiva de largo plazo, de sus objetivos y acciones, en congruencia con el Programa Estatal;
+I. Objetivos y metas;
 
-II. Los escenarios de cambio climático a nivel municipal, los diagnósticos de vulnerabilidad y de capacidad de adaptación y mitigación de gases de efecto invernadero;
+II. Proyectos y acciones;
 
-III. Las metas y acciones de adaptación y mitigación en materia de su competencia señaladas en la presente Ley y las demás disposiciones que de la misma se deriven;
+III. Los escenarios climáticos futuros, y
 
-IV. La medición, el reporte y la verificación de las medidas de adaptación y mitigación, y
+IV. Los indicadores a partir de los cuales se evaluará su implementación.
 
-V. Los demás que determinen sus disposiciones legales en la materia.
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-Contenido de los programas estatal y municipales
+Además deberán estar alineadas a lo que establezca el Programa Estatal, el plan municipal de desarrollo que corresponda, y las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Contenido de los programas estatal y políticas municipales
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 61.
 
-El Programa Estatal y los programas municipales de cambio climático, deberán contener las previsiones para el cumplimiento de los objetivos, principios y disposiciones para la adaptación y mitigación previstas en la presenta (sic) Ley y en el Programa Estatal.
-
-Revisión (sic) programas municipales de cambio climático
+El Programa Estatal y las políticas municipales de cambio climático, deberán contener las previsiones para el cumplimiento de los objetivos, principios y disposiciones para la adaptación y mitigación previstas en la presente Ley.
 
 ###### Artículo 62.
 
-Los Programas Municipales serán aprobados y, en su caso, revisados y actualizados al inicio de la gestión de la Administración Pública Municipal en los términos establecidos por la Estrategia Estatal, el Programa Estatal, y las disposiciones jurídicas aplicables.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2023)
 
-En dichos programas se establecerán las estrategias, políticas, directrices, objetivos, acciones, metas, plazos e indicadores y la definición de prioridades en materia de adaptación y mitigación, que se implementarán y cumplirán durante el periodo de gobierno de las administraciones municipales correspondientes, de conformidad con la Estrategia Estatal, el Programa Estatal, los Planes y programas de gobierno municipales, en esta Ley y las demás disposiciones jurídicas aplicables.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-Apoyo y asesoría a Municipios.
+Apoyo y asesoría a Municipios
 
 ###### Artículo 63.
 
-La Secretaría asesorará a los Municipios que lo soliciten, en la formulación, ejecución y operación de sus Programas Municipales.
+La Secretaría asesorará a los Municipios que lo soliciten, en la formulación, ejecución y evaluación de sus Políticas Municipales.
 
 ### Capítulo IV. Del Registro Estatal de Emisiones
 
@@ -1171,11 +1483,13 @@ VIII. Perfil histórico de emisiones, y
 
 IX. Otras que en su caso se consideren necesarias para el correcto funcionamiento del Registro Estatal.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 Información pública del Registro Estatal
 
 ###### Artículo 70.
 
-La información del Registro Estatal será pública, tendrá efectos declarativos, podrá ser consultada y actualizada a través de la página de internet de la Secretaría semestralmente. Adicionalmente, la Secretaría integrará la información del Registro Estatal al Sistema Estatal.
+La información del Registro Estatal será pública, tendrá efectos declarativos, podrá ser consultada y actualizada a través de la página de internet de la Secretaría semestralmente. Adicionalmente, la Secretaría integrará la información del Registro Estatal al Sistema Estatal de Información sobre el Cambio Climático.
 
 Recomendaciones que emite la Secretaría
 
@@ -1229,11 +1543,13 @@ Las autoridades municipales proporcionarán a la Secretaría, los datos, documen
 
 ### Capítulo VI. Sistema Estatal de Información sobre el Cambio Climático
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 Sistema de Información
 
 ###### Artículo 78.
 
-Se integrará un sistema estatal de información a cargo de la Secretaría, como parte del Sistema Estatal, con objeto de llevar el control, monitoreo, evaluación y seguimiento de los procesos y los escenarios del cambio climático futuro proyectado a escala estatal, regional y municipal.
+Se integrará un sistema estatal de información a cargo de la Secretaría, como parte del Sistema Estatal, con objeto de llevar el control, monitoreo, evaluación y seguimiento de los procesos y los escenarios climáticos futuros proyectado a escala estatal, regional y municipal.
 
 Publicación y difusión de informes
 
@@ -1323,11 +1639,13 @@ Mecanismos Voluntarios de Mitigación
 
 La Secretaría podrá establecer como parte del programa de mecanismos voluntarios de mitigación de cambio climático, sistemas de certificación de procesos, productos y servicios, en el ámbito de su competencia, que demuestren después de una intervención voluntaria a sus procesos, una reducción de sus emisiones de gases de efecto invernadero en relación a su estado inicial.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 Emisión del reglamento
 
 ###### Artículo 88.
 
-La Secretaría, elaborará el reglamento de esta Ley en materia de mecanismos voluntarios, en el que se especificarán los términos de referencia y la metodología para contabilizar los beneficios ambientales y la reducción de emisiones de gases de efecto invernadero a la atmósfera, así como las modalidades y características que deberán tener las acciones para ser sujetas a una certificación por parte del Estado.
+Los términos de referencia y la metodología para contabilizar los beneficios ambientales y la reducción de emisiones de gases de efecto invernadero a la atmósfera, así como las modalidades y características que deberán tener las acciones para ser sujetas a una certificación por parte del Estado, se establecerán en el Reglamento de esta Ley y las normas técnicas correspondientes.
 
 ### Capítulo IX. Principios Rectores de los Programas
 
@@ -1341,9 +1659,11 @@ La Política Estatal de adaptación frente al cambio climático se sustentará e
 
 Materias de la política estatal de adaptación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 90.
 
-El Estado y los Municipios, en el ámbito de sus competencias, deberán prever acciones para la adaptación en la elaboración de las políticas, la Estrategia Estatal, el Programa Estatal y los Programas Municipales, en las siguientes materias:
+El Estado y los Municipios, en el ámbito de sus competencias, deberán prever acciones para la adaptación en la elaboración de las políticas, el Programa Estatal y las Políticas Municipales, en las siguientes materias:
 
 I. Gestión integral del riesgo;
 
@@ -1375,7 +1695,9 @@ El Estado y los Municipios, en el ámbito de sus competencias, implementarán ac
 
 I. Elaborar, publicar y actualizar los Atlas de Riesgos Estatal y Municipales que consideren los escenarios de vulnerabilidad actual y futura ante el Cambio Climático, atendiendo de manera preferencial a la población más vulnerable y a las zonas de mayor riesgo;
 
-II. Utilizar la información contenida en los Atlas de Riesgos Estatal y Municipales para la elaboración de los programas de Desarrollo Urbano y ordenamiento ecológico territorial, reglamentos de construcción y de uso de suelo;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+II. Utilizar la información contenida en los Atlas de Riesgos Estatal y Municipales y en los escenarios climáticos futuros, para la elaboración de los programas de Desarrollo Urbano y ordenamiento ecológico territorial, reglamentos de construcción y de uso de suelo;
 
 III. Proponer e impulsar mecanismos de recaudación y obtención de recursos, para destinarlos a la protección y reubicación de los asentamientos humanos más vulnerables ante los efectos del Cambio Climático;
 
@@ -1547,7 +1869,9 @@ I. Reducción de emisiones en el uso de energía:
 
 a).- Fomentar prácticas de eficiencia energética y promover el uso de fuentes renovables de energía; así como la transferencia de tecnología de bajas emisiones de carbono;
 
-b).- Desarrollar y aplicar incentivos a la inversión tanto pública como privada en la generación de energía eléctrica proveniente de fuentes renovables y tecnologías de cogeneración eficiente. Dichos incentivos se incluirán en la Estrategia Estatal;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+b) Desarrollar y aplicar incentivos a la inversión tanto pública como privada en la generación de energía eléctrica proveniente de fuentes renovables y tecnologías de cogeneración eficiente. Dichos incentivos se incluirán en el Programa Estatal;
 
 c).- Fomentar la utilización de energías renovables para la generación de electricidad, de conformidad con la legislación aplicable en la materia;
 
@@ -1563,7 +1887,9 @@ h).- Difundir y promover acciones encaminadas a economías verdes;
 
 II. Reducción o compensación de las emisiones en el sector transporte:
 
-a).- Promover la inversión en la construcción de ciclovías o infraestructura de transporte no motorizado, así como la implementación de reglamentos de tránsito que promuevan el uso de la bicicleta;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+a) Gestionar que los reglamentos de tránsito obliguen a todo usuario de vehículo automotor a conocer las reglas de respeto a los usuarios de bicicleta y otros vehículos no motorizados, así como promover la inversión en la construcción de ciclovías o infraestructura para transporte no motorizado.
 
 b).- Diseñar e implementar sistemas de transporte público integrales, y programas de movilidad sustentable en las zonas urbanas o conurbadas para disminuir los tiempos de traslado, el uso de automóviles particulares, los costos de transporte, el consumo energético, la incidencia de enfermedades respiratorias y aumentar la competitividad de la economía regional;
 
@@ -1641,27 +1967,31 @@ Autoridades para evaluar
 
 La evaluación de la Política Estatal se realizará a través de la Comisión Intersecretarial.
 
-La Estrategia Estatal se revisará por la Secretaría, por lo menos cada 10 años en materia de mitigación y cada 6 años en materia de adaptación.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-Elementos a evaluar
+El Programa Estatal se revisará anualmente, dentro del tercer trimestre del año fiscal.
 
 ###### Artículo 100.
 
-En las revisiones de la Estrategia Estatal se analizarán las desviaciones que, en su caso, se adviertan entre las estimaciones proyectadas y los resultados evaluados.
+DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2023)
 
-En ningún caso, las revisiones y actualizaciones se harán en menoscabo o reducción de las metas, proyecciones y objetivos planteados.
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-Resultados de las evaluaciones
+Revisión Programa
+
+Artículo 100 BIS. En las revisiones del Programa Estatal se estará a lo dispuesto en el Sistema de Evaluación establecido en el mismo, y los ajustes que deban realizarse a programas y acciones en ningún caso se harán en menoscabo de los objetivos y metas planteadas.
 
 ###### Artículo 101.
 
-Con base en dichas revisiones y los resultados de las evaluaciones la Secretaría actualizará, en su caso, la Estrategia Estatal, y deberá ajustarse para tal efecto al Programa Estatal y los Programas Municipales.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2023)
 
 Ajustes o modificaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 102.
 
-La Comisión Intersecretarial podrá proponer ajustes o modificaciones a los escenarios, trayectorias, objetivos, acciones o metas comprendidas en la Estrategia Estatal en los siguientes casos:
+La Comisión Intersecretarial podrá proponer ajustes o modificaciones a los escenarios, trayectorias, objetivos, acciones o metas comprendidas en el Programa Estatal en los siguientes casos:
 
 I. Se adopten nuevos compromisos en la materia;
 
@@ -1693,21 +2023,35 @@ Las normas técnicas en materia de adaptación y mitigación al cambio climátic
 
 ### Capítulo Único. Disposiciones generales
 
-Acciones del titular del Poder Ejecutivo
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Acciones del Poder Ejecutivo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 106.
 
-El titular del poder Ejecutivo del Estado fomentará acciones de investigación, educación, desarrollo tecnológico e innovación en materia de adaptación y mitigación del cambio climático, para tal efecto:
+La persona titular del Poder Ejecutivo del Estado fomentará acciones de investigación, educación, desarrollo tecnológico e innovación en materia de adaptación y mitigación del cambio climático, para tal efecto:
 
-I. Promoverá el establecimiento de un programa de fomento a la innovación científica y tecnológica en materia de adaptación y mitigación al cambio climático, que estará a cargo del Consejo Zacatecano de Ciencia, Tecnología e Innovación, y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-II. Promoverá el establecimiento de un programa de becas de formación de recursos humanos en temas relacionados con el cambio climático, dirigidas al personal que labora en la administración pública estatal y municipal, así como a la población en general. Este programa estará a cargo de las Secretarías de Educación, de Economía, Desarrollo Social y del Consejo Zacatecano de Ciencia y Tecnología e Innovación, en el ámbito de sus respectivas competencias.
+I. Promoverá el establecimiento de un programa de fomento a la innovación científica y tecnológica en materia de adaptación y mitigación al cambio climático, que estará a cargo del Consejo Zacatecano de Ciencia, Tecnología e Innovación;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+II. Promoverá el establecimiento de un programa de becas de formación de recursos humanos en temas relacionados con el cambio climático, dirigidas al personal que labora en la administración pública estatal y municipal, así como a la población en general. Este programa estará a cargo de las Secretarías de Educación, de Economía, Desarrollo Social y del Consejo Zacatecano de Ciencia, Tecnología e Innovación, en el ámbito de sus respectivas competencias, y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+III. Promoverá campañas de educación e información en materia de cambio climático en los sectores público y social para el uso de combustibles menos contaminantes en las fuentes fijas y móviles de jurisdicción estatal, así como sistemas de energía renovable y eficiencia energética para la disminución de emisiones derivadas por los patrones de producción y consumo.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
 Convenios con los sectores sociales
 
 ###### Artículo 107.
 
-El titular del Poder Ejecutivo del Estado, a través de las dependencias y entidades, en el ámbito de sus respectivas competencias, podrá celebrar convenios con los sectores social y productivo, para impulsar la investigación científica y tecnológica, así como la capacitación en materia de cambio climático, e implementará los instrumentos y acciones necesarios para ello, de conformidad con lo establecido en la presente Ley, los programas y demás disposiciones que deriven de ésta.
+La persona titular del Poder Ejecutivo del Estado, a través de las dependencias y entidades, en el ámbito de sus respectivas competencias, podrá celebrar convenios con los sectores social y productivo, para impulsar la investigación científica y tecnológica, así como la capacitación en materia de cambio climático, e implementará los instrumentos y acciones necesarios para ello, de conformidad con lo establecido en la presente Ley, los programas y demás disposiciones que deriven de ésta.
 
 Temas que se deben considerar en los programas
 
@@ -1757,9 +2101,13 @@ I. Acciones para la adaptación al Cambio Climático atendiendo prioritariamente
 
 II. Proyectos que contribuyan simultáneamente a la mitigación y adaptación al Cambio Climático, incrementando el capital natural, con acciones orientadas, entre otras: a revertir la deforestación y degradación; conservar y restaurar suelos para mejorar la captura de carbono; implementar prácticas agropecuarias sustentables; recargar los mantos acuíferos; promover la conectividad de los ecosistemas a través de corredores biológicos, conservar la vegetación nativa y para aprovechar sustentablemente la biodiversidad;
 
-III. Desarrollar y ejecutar acciones y proyectos de mitigación, reducción y compensación de emisiones de gases de efecto invernadero conforme a las prioridades de la Estrategia Estatal, el Programa Estatal y los Programas Municipales;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-IV. Promover planes, programas y acciones para reducir la vulnerabilidad del Estado frente al Cambio Climático en materia de atención y protección a grupos y zonas vulnerables, uso del suelo, infraestructura y otros aspectos que se consideren en la Estrategia Estatal;
+III. Desarrollar y ejecutar acciones y proyectos de mitigación, reducción y compensación de emisiones de gases de efecto invernadero conforme a las prioridades del Programa Estatal y las políticas Municipales;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Promover planes, programas y acciones para reducir la vulnerabilidad del Estado frente al Cambio Climático en materia de atención y protección a grupos y zonas vulnerables, uso del suelo, infraestructura y otros aspectos que se consideren en el Programa Estatal;
 
 V. Programas de educación, sensibilización, concientización y difusión de información y una cultura de mitigación y adaptación;
 
@@ -1803,6 +2151,14 @@ Disposición de Información
 
 La Secretaría pondrá a disposición de la población, en su portal de internet oficial, información relevante sobre cambio climático para su consulta.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Además buscará los medios para allegar de manera activa a todas las personas información pertinente, oportuna y actualizada en materia de cambio climático, teniendo en cuenta lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Zacatecas.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+La Secretaría procurará, en la medida de lo posible, que la información sea reutilizable, procesable y esté disponible en formatos accesibles, sin que existan restricciones para su reproducción o uso, de conformidad con la normatividad aplicable.
+
 De los recursos federales
 
 ###### Artículo 117.
@@ -1813,9 +2169,15 @@ Los recursos federales que a través de los convenios de coordinación se transf
 
 ### Capítulo Único. Participación de la sociedad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 118.
 
-Las autoridades estatales y municipales en materia de cambio climático, deberán promover la participación corresponsable de la sociedad en la planeación, ejecución, vigilancia y evaluación de la Política Estatal.
+Las autoridades estatales y municipales en materia de cambio climático, deberán promover la participación incluyente, equitativa, diferenciada, efectiva y corresponsable de la sociedad en la planeación, ejecución, vigilancia y evaluación de la Política Estatal.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Las autoridades estatales y municipales promoverán la participación de la sociedad haciendo especial énfasis en favor de todas las personas, grupos, pueblos, comunidades que sean más vulnerables al cambio climático, para los procesos de toma de decisiones, revisiones o actualizaciones de la elaboración de planes, programas, políticas y estrategias, que tengan o puedan tener un significativo impacto sobre el medio ambiente en general.
 
 Deber de la Secretaría
 
@@ -1839,17 +2201,33 @@ Para dar cumplimiento a lo señalado, la Secretaría deberá además:
 
 I. Brindar asesoría en actividades de aprovechamiento sustentable de los recursos naturales y en la realización de estudios e investigaciones en la materia y emprender acciones conjuntas, y
 
-II. Difundir, publicar y mantener actualizada toda la información generada por la Estrategia Estatal y el Programa Estatal, a través del sistema de información sobre el cambio climático.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+II. Difundir, publicar y mantener actualizada toda la información generada por el Programa Estatal, a través del sistema de información sobre el cambio climático;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+III. Instrumentar programas que generen conciencia del impacto en la generación de emisiones de gases y compuestos de efecto invernadero en patrones de producción y consumo;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Desarrollar programas que promuevan patrones de producción y consumo sustentables en los sectores público, social y privado a través de incentivos económicos; fundamentalmente en áreas como la generación y consumo de energía, el transporte y la gestión integral de los residuos, y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+V. Desarrollar políticas e instrumentos para promover la mitigación, compensación y reducción de emisiones directas e indirectas relacionadas con la prestación de servicios públicos, planeación y construcción de viviendas, construcción y operación de edificios públicos y privados, comercios e industrias.
 
 ## Título Noveno. Inspección, vigilancia y sanciones
 
 ### Capítulo I. Inspección y vigilancia
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 De fuentes emisoras
 
 ###### Artículo 121.
 
-La Secretaría, en el ámbito de sus atribuciones, realizará la inspección y vigilancia de las fuentes emisoras de competencia estatal sujetas a reporte, para verificar la información proporcionada, así como su entrega a la autoridad correspondiente en tiempo y forma, de acuerdo con las disposiciones reglamentarias que de esta Ley se deriven.
+La Secretaría, en el ámbito de sus atribuciones, y en colaboración con la Procuraduría de Protección al Ambiente en el Estado, realizará la inspección y vigilancia de las fuentes emisoras de competencia estatal sujetas a reporte, para verificar la información proporcionada, así como su entrega a la autoridad correspondiente en tiempo y forma, de acuerdo con las disposiciones reglamentarias que de esta Ley se deriven.
 
 Sanciones
 
@@ -1857,11 +2235,13 @@ Sanciones
 
 Quienes sin contar con las autorizaciones respectivas generen olores, gases o partículas sólidas y líquidas que provengan de fuentes fijas, móviles u otras diversas de competencia estatal o municipal, violando las normas oficiales mexicanas en materia de emisión de contaminantes a la atmósfera y que además puedan ocasionar desequilibrios ecológicos o daño ambiental, se harán acreedores a las sanciones previstas en la presente Ley y demás ordenamientos legales que resulten aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 Del cumplimiento de la Ley
 
 ###### Artículo 123.
 
-La Secretaría realizará en el ámbito de su competencia, los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento.
+La Secretaría realizará en el ámbito de su competencia, los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento y, en su caso, dará vista a la Procuraduría de Protección al Ambiente en el Estado, para que lleve a cabo las actuaciones correspondientes.
 
 Visitas de inspección
 
@@ -1871,9 +2251,11 @@ Las visitas de inspección que realice la Secretaría, se desarrollarán conform
 
 Emisión de recomendaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 125.
 
-Si del resultado de la investigación realizada por la Secretaría o los Municipios se desprende que se trata de actos u omisiones en que hubieren incurrido autoridades estatales o municipales, emitirá las recomendaciones necesarias para promover ante éstas la ejecución de las acciones procedentes.
+Si del resultado de la investigación realizada por la Secretaría, la Procuraduría de Protección al Ambiente en el Estado o los Municipios se desprende que se trata de actos u omisiones en que hubieren incurrido autoridades estatales o municipales, emitirá las recomendaciones necesarias para promover ante éstas la ejecución de las acciones procedentes.
 
 Cuando se trate de actos u omisiones atribuibles a autoridades federales, se remitirá el expediente a la autoridad que corresponda.
 
@@ -1911,6 +2293,10 @@ La Secretaría deberá emitir resolución dentro de un plazo de 15 días hábile
 
 Respecto de las medidas de adaptación y mitigación, la Secretaría podrá solicitar a las personas obligadas, la documentación, informes, papeles y, en su caso, hojas de cálculo que demuestre que la metodología utilizada y las reducciones en emisiones de gases de efecto invernadero para el caso de mitigación o de la vulnerabilidad en caso de adaptación, se cumplen en tiempo y forma, respecto de la línea base sobre la cual se propuso la medida.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Toda persona tendrá derecho a que los sujetos obligados por la ley pongan a su disposición la información que en materia de cambio climático se les solicite en los términos previstos por las leyes aplicables y el Acuerdo de Escazú.
+
 ### Capítulo II. Medidas de Seguridad
 
 Medidas de seguridad
@@ -1928,6 +2314,10 @@ Sanciones administrativas
 ###### Artículo 129.
 
 Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones que de ella emanen, serán sancionadas administrativamente por la Secretaría en los términos de la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado de Zacatecas, considerándose además para su imposición, que sean acordes con el daño ambiental ocasionado y con el beneficio económico obtenido por la violación a la legislación ambiental vigente.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+La Secretaría garantizará y promoverá el acceso a la justicia ambiental y climática, incluidos los grupos o personas vulnerables a los efectos de éste fenómeno, también garantizará que los procesos sean justos, abiertos, transparentes y equitativos, haciendo interpretación amplia del derecho a iniciar una denuncia en relación con asuntos ambientales y climáticos para lograr el acceso efectivo a la justicia.
 
 Multas
 
@@ -1967,17 +2357,25 @@ Leyes supletorias
 
 En todo lo no previsto en esta Ley, serán aplicables supletoriamente la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado de Zacatecas y el Código de Procedimientos Civiles del Estado.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+En la interpretación de esta ley serán reconocidos e incorporados, para efectos de las actuaciones del Estado y los Municipios, las convenciones, los acuerdos y los instrumentos, nacionales e internacionales, en materia de cambio climático, derechos humanos y justicia ambiental.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 Resoluciones
 
 ###### Artículo 134.
 
-Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos, normas ambientales estatales relativas al cambio climático y disposiciones que de ella emanen, podrán ser impugnadas sin que se pruebe interés jurídico, mediante el juicio de nulidad previsto en la Ley del Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas.
+Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos, normas ambientales estatales relativas al cambio climático y disposiciones que de ella emanen, podrán ser impugnadas sin que se pruebe interés jurídico, mediante el juicio de nulidad previsto en la Ley de Justicia Administrativa del Estado de Zacatecas.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
 Responsabilidades de los Servidores Públicos
 
 ###### Artículo 135.
 
-Los servidores públicos encargados de la aplicación y vigilancia del cumplimiento de esta Ley, se harán acreedores a las sanciones administrativas, civiles o penales, aplicables en materia en caso de incumplimiento de sus disposiciones, de acuerdo con lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, sin perjuicio de las sanciones que establezcan otros ordenamientos jurídicos.
+Los servidores públicos encargados de la aplicación y vigilancia del cumplimiento de esta Ley, se harán acreedores a las sanciones administrativas, civiles o penales, aplicables en materia en caso de incumplimiento de sus disposiciones, de acuerdo con lo dispuesto en la Ley General de Responsabilidades Administrativas, sin perjuicio de las sanciones que establezcan otros ordenamientos jurídicos.
 
 ## TRANSITORIOS
 
@@ -2074,3 +2472,23 @@ P.O. 9 DE ENERO DE 2021.
 Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 312.- SE REFORMA LA LEY DEL CAMBIO CLIMÁTICO PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor a los 30 días siguientes de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo tercero. El Poder Ejecutivo del Estado deberá expedir los reglamentos correspondientes, en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor de este Decreto.
+
+Artículo cuarto. La Secretaría de Agua y Medio Ambiente elaborará el Programa Estatal de Cambio Climático, en un plazo no mayor a un año, contado a partir de la entrada en vigor de este Decreto.
+
+Artículo quinto. La Secretaría de Agua y Medio Ambiente llevará a cabo las gestiones necesarias para incluir en el presupuesto de egresos del ejercicio fiscal 2024 y subsecuentes, los proyectos necesarios para la implementación de lo previsto en el presente Decreto.
+
+Artículo sexto. Las dependencias de la Administración Pública Estatal, así como los ayuntamientos del Estado, contarán con un plazo máximo de un año contado a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones correspondientes en sus respectivos marcos normativos, programas y políticas sectoriales, a fin de que sean implementadas las disposiciones contenidas en esta Ley.
+
+Artículo séptimo. La Secretaría de Agua y Medio Ambiente pondrá en funcionamiento el Registro Estatal de Emisiones, en un plazo máximo de un año a partir de la entrada en vigor del presente Decreto.
+
+Artículo octavo. Con el objetivo de lograr la neutralidad en emisiones de carbono hacia el año 2050, el Gobierno del Estado de Zacatecas, en el ámbito de su competencia, implementará estrategias tendientes a promover acciones para mitigar la emisión de gases de efecto invernadero en todos los sectores.
