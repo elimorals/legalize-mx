@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fomento-para-el-desarrollo-economico-del-estado-de-33813
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-16"
-last_updated: "2023-03-11"
+last_updated: "2023-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 16 de agosto de 2003.
 
@@ -625,6 +625,10 @@ X. Conjuntamente con los gobiernos municipales, se prestará asesoría e informa
 
 La Secretaría promoverá con las instituciones de crédito y con el Sistema Estatal de Fondos, las acciones que faciliten el acceso de las MIPYMES a los servicios que prestan.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Cuando se declare una contingencia sanitaria, desastre natural o una emergencia con carácter extraordinario, las micro, pequeñas y medianas empresas que suspendan sus actividades y con el fin de evitar la quiebra de las mismas, la Secretaría implementará un programa de otorgamiento de microcréditos en condiciones preferenciales para su financiamiento.
+
 ###### ARTÍCULO 37.
 
 Las MIPYMES en la entidad se incorporarán al Esquema Nacional para el Desarrollo de la Competitividad de la micro, pequeña y mediana empresa, de conformidad con la ley en la materia, para así alcanzar además, el beneficio de las acciones que realice el Sector Público en sus tres niveles de gobierno.
@@ -902,6 +906,14 @@ Artículo Segundo. Se derogan las disposiciones que contravengan el presente ins
 P.O. 11 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 193.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se derogan las disposiciones que contravengan el presente instrumento.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 321.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 36 DE LA LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS”.]
 
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
