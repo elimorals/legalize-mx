@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1300
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-07"
-last_updated: "2023-08-30"
+last_updated: "2023-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Suplemento 7 al Número 54 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de julio de 2018.
 
@@ -451,17 +451,21 @@ III. Dar el trámite que corresponda a las iniciativas de ley o decreto que form
 
 IV. Dar respuesta a peticiones o solicitudes escritas de los ciudadanos, siempre y cuando cuenten con nombre, domicilio y la firma autógrafa de su suscriptor;
 
-V. Informar el quince de septiembre de cada año del ejercicio del presupuesto y sobre el cumplimiento de sus obligaciones constitucionales y legales;
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-VI. Convocar a foros, debates, consultas, realizar estudios de opinión, aplicar encuestas y practicar levantamientos de información empírica, como parte del trabajo de las comisiones;
+V. Reconocer como documentos de identificación oficial los que sean probatorios de la nacionalidad mexicana establecidos en la Ley de Nacionalidad;
+
+VI. Informar el quince de septiembre de cada año del ejercicio del presupuesto y sobre el cumplimiento de sus obligaciones constitucionales y legales;
+
+VII. Convocar a foros, debates, consultas, realizar estudios de opinión, aplicar encuestas y practicar levantamientos de información empírica, como parte del trabajo de las comisiones;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2020)</small>
 
-VII. Incluir a la sociedad civil en las políticas de Parlamento Abierto, promoviendo el derecho a la información, la rendición de cuentas y la participación ciudadana en las actividades legislativas, así como en el análisis de la Ley de Ingresos y del Presupuesto de Egresos de la entidad;
+VIII. Incluir a la sociedad civil en las políticas de Parlamento Abierto, promoviendo el derecho a la información, la rendición de cuentas y la participación ciudadana en las actividades legislativas, así como en el análisis de la Ley de Ingresos y del Presupuesto de Egresos de la entidad;
 
-VIII. Elegir a los integrantes de la Comisión de Selección para la conformación del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, y
+IX. Elegir a los integrantes de la Comisión de Selección para la conformación del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, y
 
-IX. Las demás que le confiera la Constitución estatal y leyes del Estado.
+X. Las demás que le confiera la Constitución estatal y leyes del Estado.
 
 ### Capítulo Sexto. Atribuciones para asuntos internos
 
@@ -2950,3 +2954,11 @@ P.O. 30 DE AGOSTO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 309.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LAS SIGUIENTES LEYES: TERCERO.- SE ADICIONA LA FRACCIÓN V, RECORRIÉNDOSE EN EL ORDEN LAS SUBSECUENTES AL ARTÍCULO 25 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
