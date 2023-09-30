@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-atencion-de-los-zacatecanos-migrantes-y-sus-130413"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-29"
-last_updated: "2022-08-17"
+last_updated: "2023-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA LA ATENCIÓN DE LOS ZACATECANOS MIGRANTES Y SUS FAMILIAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Suplemento 2 del Periódico Oficial del Estado de Zacatecas, el miércoles 29 de agosto de 2018.
 
@@ -137,19 +137,23 @@ II. Hacer uso de los servicios públicos que presta la Administración Pública 
 
 III. A la identidad y acceso a los trámites registrales de conformidad a la Constitución Política de los Estados Unidos Mexicanos;
 
-IV. A no ser privado arbitrariamente de sus derechos, bienes y posesiones, con independencia del régimen de propiedad;
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-V. A la protección del Estado contra toda violencia, amenaza o intimidación por parte de servidores públicos o de particulares, grupos o instituciones;
+IV. Acreditar su personalidad jurídica con y a través de los documentos probatorios de la nacionalidad mexicana establecidos en la Ley de Nacionalidad.
 
-VI. A no ser sometidos, individual o colectivamente, a detención o prisión arbitrarias, salvo por los motivos que las leyes establezcan;
+V. A no ser privado arbitrariamente de sus derechos, bienes y posesiones, con independencia del régimen de propiedad;
 
-VII. Acceso a una estrategia de integración social, cultural y laboral para los migrantes y sus familias que han regresado al estado;
+VI. A la protección del Estado contra toda violencia, amenaza o intimidación por parte de servidores públicos o de particulares, grupos o instituciones;
 
-VIII. Participar activamente en temas relacionados con la migración para la integración y ejecución del Plan Prospectivo y de los Planes de Desarrollo Estatal y Municipales;
+VII. A no ser sometidos, individual o colectivamente, a detención o prisión arbitrarias, salvo por los motivos que las leyes establezcan;
 
-IX. Recibir acompañamiento de la Secretaría ante las autoridades competentes, para realizar los trámites necesarios relacionados con su nacionalidad, y,
+VIII. Acceso a una estrategia de integración social, cultural y laboral para los migrantes y sus familias que han regresado al estado;
 
-X. Las demás que le señale la presente Ley y otras disposiciones aplicables.
+IX. Participar activamente en temas relacionados con la migración para la integración y ejecución del Plan Prospectivo y de los Planes de Desarrollo Estatal y Municipales;
+
+X. Recibir acompañamiento de la Secretaría ante las autoridades competentes, para realizar los trámites necesarios relacionados con su nacionalidad, y,
+
+XI. Las demás que le señale la presente Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO III. POLÍTICAS PÚBLICAS PARA LA ATENCIÓN DE LAS PERSONAS MIGRANTES Y SUS FAMILIAS
 
@@ -558,3 +562,11 @@ P.O. 17 DE AGOSTO DE 2022.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 309.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LAS SIGUIENTES LEYES: QUINTO.- SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 6 DE LA LEY PARA LA ATENCIÓN DE LOS ZACATECANOS MIGRANTES Y SUS FAMILIAS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
