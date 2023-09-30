@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-para-12383
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2023-02-07"
+last_updated: "2023-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "OAX"
 ---
 # LEY DE FISCALIZACION SUPERIOR Y RENDICION DE CUENTAS PARA EL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 30 DE SEPTIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE NOVIEMBRE DE 2023 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023 (ABROGADA).
 
 Ley publicada en el Extra Periódico Oficial del Estado de Oaxaca, el jueves 21 de septiembre de 2017.
 
@@ -1942,3 +1946,15 @@ QUINTO.- Todos los bienes muebles e inmuebles, archivos, expedientes, papeles de
 SEXTO.- La Auditoría Superior de Fiscalización del Estado de Oaxaca, deberá emitir dentro del plazo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, su Reglamento Interior y demás normatividad necesaria para el ejercicio de sus atribuciones.
 
 SÉPTIMO.- Se ratifica el contenido de los acuerdos, circulares, guías, manuales de organización, de procedimientos, manuales de auditoría y demás normativa que hubiere emitido el Órgano Superior de Fiscalización del Estado de Oaxaca, los cuales mantendrán su vigencia, hasta en tanto se sustituyan o, en su caso, se dejen sin efectos.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1541.- MEDIANTE EL CUAL EXPIDE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se abroga la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca, expedida mediante el Decreto número 699 de fecha 30 de agosto de dos mil diecisiete, publicada en el Periódico Oficial del Estado de Oaxaca el 21 de septiembre de dos mil diecisiete y se derogan todas las disposiciones legales, de menor jerarquía, que se opongan al presente Decreto.
+
+TERCERO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor de esta Ley, que se encuentren en trámite o pendientes de resolución, se resolverán hasta su conclusión definitiva, en términos de la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca, que se abroga, así como los que se deriven de las funciones de fiscalización y revisión hasta la Cuenta de la Hacienda Pública Estatal y Municipal del año 2023.
+
+CUARTO. La Auditoría Superior deberá emitir en un plazo de ciento ochenta días hábiles su Reglamento Interior para el ejercicio de sus atribuciones.
