@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-118697"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-11-30"
-last_updated: "2022-11-26"
+last_updated: "2023-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Suplemento 3 al Número 96 del Periódico Oficial del Estado de Zacatecas, el miércoles 30 de noviembre de 2016.
 
@@ -235,19 +235,23 @@ III. Someter al acuerdo del Gobernador los asuntos de la Dependencia o Entidad a
 
 IV. Certificar y, en su caso, expedir copias de los documentos que se encuentren en los archivos de su Dependencia;
 
-V. Nombrar y remover, por acuerdo delegatorio, a los servidores públicos a su cargo;
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-VI. Realizar las manifestaciones de impacto regulatorio de los trámites y servicios que se presten en la Dependencia a su cargo y someterlos al estudio y dictamen de la Comisión Estatal de Mejora Regulatoria;
+V. Reconocer como documentos de identificación oficial los que sean probatorios de la nacionalidad mexicana establecidos en la Ley de Nacionalidad;
 
-VII. Participar, en el ámbito de su competencia, en los diferentes Órganos de Gobierno que instruyan otros ordenamientos legales;
+VI. Nombrar y remover, por acuerdo delegatorio, a los servidores públicos a su cargo;
+
+VII. Realizar las manifestaciones de impacto regulatorio de los trámites y servicios que se presten en la Dependencia a su cargo y someterlos al estudio y dictamen de la Comisión Estatal de Mejora Regulatoria;
+
+VIII. Participar, en el ámbito de su competencia, en los diferentes Órganos de Gobierno que instruyan otros ordenamientos legales;
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2017)</small>
 
-VIII. Formular y proponer para su análisis y, en su caso, aprobación a la Coordinación Estatal de Planeación los programas presupuestarios de su Dependencia;
+XI. Formular y proponer para su análisis y, en su caso, aprobación a la Coordinación Estatal de Planeación los programas presupuestarios de su Dependencia;
 
-IX. Realizar acciones en materia de transparencia, rendición de cuentas y combate a la corrupción para el mejor seguimiento y evaluación del ejercicio presupuestal; y
+X. Realizar acciones en materia de transparencia, rendición de cuentas y combate a la corrupción para el mejor seguimiento y evaluación del ejercicio presupuestal; y
 
-X. Conducirse bajo los principios de honestidad, austeridad, transparencia, legalidad, eficiencia y eficacia en el servicio público.
+XI. Conducirse bajo los principios de honestidad, austeridad, transparencia, legalidad, eficiencia y eficacia en el servicio público.
 
 ###### Artículo 25.
 
@@ -1898,3 +1902,11 @@ f) Resolverá cualquier situación inherente al proceso de extinción y liquidac
 Artículo séptimo. La Secretaría de la Función Pública, en el ejercicio de sus atribuciones, vigilará el proceso de extinción y liquidación. Asimismo, en la cuenta pública respectiva, se informará a la Auditoria Superior del Estado sobre el proceso de extinción y liquidación.
 
 Artículo octavo. La Secretaría de Finanzas en coordinación con la Secretaría de la Función Pública, adscribirán los recursos humanos, materiales y financieros del organismo público descentralizado que mediante esta reforma se extingue, a la Secretaría de Administración, en un respeto absoluto a los derechos laborales adquiridos por los trabajadores.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 309.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LAS SIGUIENTES LEYES: LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
