@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-el-desarrollo-rural-integral-sustentable-del-96743"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-30"
-last_updated: "2023-03-11"
+last_updated: "2023-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Suplemento 2 del Periódico Oficial del Estado de Zacatecas, el sábado 30 de noviembre de 2013.
 
@@ -107,65 +107,73 @@ XVIII. Ejecutivo del Estado.- Titular del Poder Ejecutivo del Estado;
 
 XIX. FAO.- Organización de las Naciones Unidas para la Alimentación y la Agricultura;
 
-XX. Inocuidad Alimentaria.- Característica de los productos agrícolas de ser libres de cualquier organismo, residuo o elemento que pueda dañar la salud humana o la producción agrícola;
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-XXI. Ley de Planeación.- La Ley de Planeación para el Desarrollo del Estado de Zacatecas;
+XX. Fuentes de energías renovables. Aquellas fuentes de energía y procesos de generación de electricidad que residan en fenómenos de la naturaleza, procesos o materiales susceptibles de ser transformados en energía aprovechable por el ser humano, que se regeneran naturalmente, por lo que se encuentran disponibles de forma continua o periódica, y que al ser generadas no liberan emisiones contaminantes;
 
-XXII. L.F.D.R.S.- La Ley Federal de Desarrollo Rural Sustentable;
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-XXIII. Ley.- La Ley de Desarrollo Rural Integral Sustentable del Estado de Zacatecas;
+XXI. Fuentes de energías limpias. Aquellas fuentes de energía y procesos de generación de electricidad cuyas emisiones o residuos, cuando los haya, no rebasen los umbrales establecidos en las disposiciones reglamentarias que para tal efecto se expidan;
 
-XXIV. Marginalidad.- Índice de desigualdad social medida de acuerdo con los criterios dictados por el Consejo Nacional de Población;
+XXII. Inocuidad Alimentaria.- Característica de los productos agrícolas de ser libres de cualquier organismo, residuo o elemento que pueda dañar la salud humana o la producción agrícola;
 
-XXV. Niveles de Gobierno.- El Gobierno Federal, el Gobierno Estatal y los Gobiernos Municipales del Estado de Zacatecas;
+XXIII. Ley de Planeación.- La Ley de Planeación para el Desarrollo del Estado de Zacatecas;
 
-XXVI. OCDE.- Organización para la Cooperación y Desarrollo Económicos;
+XXIV. L.F.D.R.S.- La Ley Federal de Desarrollo Rural Sustentable;
 
-XXVII. Organismo Genéticamente Modificado.- Cualquier organismo vivo que posea una combinación de material genético que se haya obtenido mediante la aplicación de biotecnología moderna;
+XXV. Ley.- La Ley de Desarrollo Rural Integral Sustentable del Estado de Zacatecas;
 
-XXVIII. Participación Social.- Integración efectiva de la ciudadanía en la elaboración, instrumentación, seguimiento y evaluación de las políticas públicas generadas en los tres niveles de gobierno;
+XXVI. Marginalidad.- Índice de desigualdad social medida de acuerdo con los criterios dictados por el Consejo Nacional de Población;
 
-XXIX. P.E.E.C.- El Programa Estatal Especial Concurrente;
+XXVII. Niveles de Gobierno.- El Gobierno Federal, el Gobierno Estatal y los Gobiernos Municipales del Estado de Zacatecas;
 
-XXX. Productos Estratégicos.- Los productos agropecuarios cuyo proceso productivo se relaciona con segmentos significativos de la población rural o que son estratégicos para el desarrollo del Estado de Zacatecas;
+XXVIII. OCDE.- Organización para la Cooperación y Desarrollo Económicos;
 
-XXXI. Programas Sectoriales.- Los programas específicos del Gobierno del Estado que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del desarrollo, de acuerdo a la Ley de Planeación para el Desarrollo del Estado de Zacatecas;
+XXIX. Organismo Genéticamente Modificado.- Cualquier organismo vivo que posea una combinación de material genético que se haya obtenido mediante la aplicación de biotecnología moderna;
 
-XXXII. Región.- Conjunto de Municipios que integran la unidad de planeación intermedia entre el Municipio y el Estado, y que cuentan con características geográficas, climatológicas, productivas, sociales y económicas similares; de acuerdo con lo que establezca la Ley de Planeación para el Desarrollo del Estado de Zacatecas para los efectos de la presente Ley;
+XXX. Participación Social.- Integración efectiva de la ciudadanía en la elaboración, instrumentación, seguimiento y evaluación de las políticas públicas generadas en los tres niveles de gobierno;
 
-XXXIII. Reglas de Operación.- Documento por medio del cual se determinan los mecanismos, criterios, montos y población objetivo para la aplicación de recursos asignados a cada programa de Desarrollo Rural Integral Sustentable;
+XXXI. P.E.E.C.- El Programa Estatal Especial Concurrente;
 
-XXXIV. SAGARPA.- Secretaría de Agricultura Ganadería, Desarrollo Rural, Pesca y Alimentación;
+XXXII. Productos Estratégicos.- Los productos agropecuarios cuyo proceso productivo se relaciona con segmentos significativos de la población rural o que son estratégicos para el desarrollo del Estado de Zacatecas;
 
-XXXV. Secretaría.- La Secretaría del Campo para los efectos de la presente Ley; como dependencia ejecutora de las políticas públicas que en materia de Desarrollo Rural Integral Sustentable establezca la propia Ley;
+XXXIII. Programas Sectoriales.- Los programas específicos del Gobierno del Estado que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del desarrollo, de acuerdo a la Ley de Planeación para el Desarrollo del Estado de Zacatecas;
 
-XXXVI. Seguridad Alimentaria.- Estatus de certeza que brinda el Estado, de que se cuenta con el abasto alimentario para la población de manera oportuna y suficiente;
+XXXIV. Región.- Conjunto de Municipios que integran la unidad de planeación intermedia entre el Municipio y el Estado, y que cuentan con características geográficas, climatológicas, productivas, sociales y económicas similares; de acuerdo con lo que establezca la Ley de Planeación para el Desarrollo del Estado de Zacatecas para los efectos de la presente Ley;
 
-XXXVII. Servicios Ambientales.- Conjunto de acciones directamente relacionadas al aprovechamiento y conservación del medio ambiente y que tiene como objeto generar también un beneficio social colectivo;
+XXXV. Reglas de Operación.- Documento por medio del cual se determinan los mecanismos, criterios, montos y población objetivo para la aplicación de recursos asignados a cada programa de Desarrollo Rural Integral Sustentable;
 
-XXXVIII. S.E.C.A.T.- Sistema Estatal de Capacitación y Asistencia Técnica;
+XXXVI. SAGARPA.- Secretaría de Agricultura Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
-XXXIX. S.E.S.I.C.A.A.- Sistema Estatal de Sanidad, Inocuidad y Calidad Agropecuaria y Alimentaria;
+XXXVII. Secretaría.- La Secretaría del Campo para los efectos de la presente Ley; como dependencia ejecutora de las políticas públicas que en materia de Desarrollo Rural Integral Sustentable establezca la propia Ley;
 
-XL. S.E.I.D.R.I.S.- Sistema Estatal de Información para el Desarrollo Rural Integral Sustentable;
+XXXVIII. Seguridad Alimentaria.- Estatus de certeza que brinda el Estado, de que se cuenta con el abasto alimentario para la población de manera oportuna y suficiente;
 
-XLI. SEITT.- Sistema Estatal de Investigación y Transferencia Tecnológica;
+XXXIX. Servicios Ambientales.- Conjunto de acciones directamente relacionadas al aprovechamiento y conservación del medio ambiente y que tiene como objeto generar también un beneficio social colectivo;
 
-XLII. Sistema - Producto.- El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización.
+XL. S.E.C.A.T.- Sistema Estatal de Capacitación y Asistencia Técnica;
 
-XLIII. SNIIM.- Sistema Nacional de Información e Integración de Mercados, de la Secretaría de Economía.
+XLI. S.E.S.I.C.A.A.- Sistema Estatal de Sanidad, Inocuidad y Calidad Agropecuaria y Alimentaria;
 
-XLIV. Soberanía Alimentaria.- La capacidad del Estado para garantizar en la mayor medida posible que la población acceda a los alimentos esenciales, de manera oportuna, suficiente e incluyente, basado esto en la autosuficiencia alimentaria;
+XLII. S.E.I.D.R.I.S.- Sistema Estatal de Información para el Desarrollo Rural Integral Sustentable;
 
-XLV. Sociedad Rural.- Aquella población que tiene como base de su actividad económica la producción de alimentos en zonas territoriales destinadas a la producción agrícola y pecuaria;
+XLIII. SEITT.- Sistema Estatal de Investigación y Transferencia Tecnológica;
 
-XLVI. Territorio.- Espacio físico donde confluyen desde una perspectiva de espacio, las dimensiones ambiental, económica, social y político-institucional así como múltiples sectores y sujetos que interactúan a través del tiempo generando una identidad propia;
+XLIV. Sistema - Producto.- El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización.
 
-XLVII. Turismo Rural Solidario.- Son aquellas actividades propias del ser humano, que se llevan a cabo en lugares fuera de cascos urbanos, con motivos recreativos, de estudio o de relajación, donde se involucran todas aquellas actividades relativas a la vida del campo y sus labores, tradiciones y cultura, promovidas de manera general por la sociedad rural;
+XLV. SNIIM.- Sistema Nacional de Información e Integración de Mercados, de la Secretaría de Economía.
 
-XLVIII. U.E.C. (Unidad Estatal de Comercialización).- Unidad Operativa dependiente de la Secretaría del Campo, encargada de promover y coadyuvar en la comercialización de los productos del sector rural, y
+XLVI. Soberanía Alimentaria.- La capacidad del Estado para garantizar en la mayor medida posible que la población acceda a los alimentos esenciales, de manera oportuna, suficiente e incluyente, basado esto en la autosuficiencia alimentaria;
 
-XLIX. USDA. Los Sistemas de información del Departamento de Agricultura de Estados Unidos.
+XLVII. Sociedad Rural.- Aquella población que tiene como base de su actividad económica la producción de alimentos en zonas territoriales destinadas a la producción agrícola y pecuaria;
+
+XLVIII. Territorio.- Espacio físico donde confluyen desde una perspectiva de espacio, las dimensiones ambiental, económica, social y político-institucional así como múltiples sectores y sujetos que interactúan a través del tiempo generando una identidad propia;
+
+XLIX. Turismo Rural Solidario.- Son aquellas actividades propias del ser humano, que se llevan a cabo en lugares fuera de cascos urbanos, con motivos recreativos, de estudio o de relajación, donde se involucran todas aquellas actividades relativas a la vida del campo y sus labores, tradiciones y cultura, promovidas de manera general por la sociedad rural;
+
+L. U.E.C. (Unidad Estatal de Comercialización).- Unidad Operativa dependiente de la Secretaría del Campo, encargada de promover y coadyuvar en la comercialización de los productos del sector rural, y
+
+LI. USDA. Los Sistemas de información del Departamento de Agricultura de Estados Unidos.
 
 Coordinación
 
@@ -202,6 +210,10 @@ XII. Fomentar la inversión pública y privada para la construcción de infraest
 > <small>(ADICIONADA, P.O. 11 DE MARZO DE 2023)</small>
 
 XIII. Reducir la brecha de género entre mujeres y hombres en el sector rural del Estado, a través del impulso de programas que promuevan el empoderamiento de las mujeres rurales.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XIV. Promover el uso de fuentes de energías limpias y renovables, y el aprovechamiento sustentable de los recursos naturales productivos, que permitan aumentar y diversificar las fuentes de empleo e ingreso.
 
 Principios
 
@@ -607,7 +619,11 @@ V. Intercambiar y validar información estadística de todas las acciones que se
 
 VI. Celebrar de manera ordinaría y, en su caso, extraordinaria convenios de colaboración y acciones de carácter interinstitucional con la federación y con organismos no gubernamentales que permitan la concurrencia y mezcla de recursos para incrementar las potencialidades, alcance de metas y beneficio social directo a los grupos más vulnerables del sector rural así como a los sectores estratégicos de desarrollo rural integral sustentable en el Estado, y
 
-VII. Las demás que determine el Plan Estatal de Desarrollo, la Ley así como las leyes y reglamentos aplicables a la materia.
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VII. Elaborar planes y programas para promover el uso de fuentes de energías limpias y renovables, y el aprovechamiento sustentable de los recursos naturales productivos, que optimicen el uso del agua y la energía, e incrementen la productividad sustentable, y
+
+VIII. Las demás que determine el Plan Estatal de Desarrollo, la Ley así como las leyes y reglamentos aplicables a la materia.
 
 ### CAPÍTULO IV. De los responsables de la coordinación del desarrollo rural integral sustentable
 
@@ -684,6 +700,10 @@ VI. Contar con un sistema de monitoreo comparativo respecto de acciones innovado
 VII. Presentar ante el Consejo Zacatecano un diagnóstico general de los recursos ejercidos en materia de desarrollo rural, al término de cada ejercicio fiscal, y
 
 VIII. Proponer ante el Consejo Zacatecano y ante el COPLADEZ la derogación, modificación y adecuación de las reglas de operación de los diversos programas de desarrollo rural aplicables en el ámbito local.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+IX. Promover entre los productores el uso de fuentes de energías limpias y renovables en el desarrollo de las actividades agropecuarias, a fin de potenciar al sector.
 
 Coordinaciones Regionales
 
@@ -829,23 +849,35 @@ Programas de fomento
 
 Los programas de fomento contendrán en sus objetivos; reducir los riesgos generados por el uso del fuego y la emisión de contaminantes, mediante la capacitación de los productores y la presentación de alternativas de mayor potencial productivo y rentabilidad económica respetando el medio ambiente.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 41 BIS.- La Política de Capacitación Rural Integral, tendrá como propósito fundamental, promover entre los productores el uso de fuentes de energías limpias y renovables en el desarrollo de las actividades agropecuarias, a fin de potenciar el desarrollo y crecimiento del sector agropecuario de la Entidad.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 Programas de tecnificación del riego
 
 ###### Artículo 42.
 
-El Gobierno del Estado, a través de la Secretaría, promoverá los programas necesarios para la tecnificación del riego, darán atención prioritaria a las regiones en las que se registre sobreexplotación de los recursos hidráulicos subterráneos o degradación de la calidad de las aguas, promoviendo la responsabilidad compartida con los productores agrícolas para ajustar la explotación de los recursos en términos que garanticen la sustentabilidad de la producción.
+El Gobierno del Estado, a través de la Secretaría, promoverá los programas necesarios para la tecnificación del riego, darán atención prioritaria a las regiones en las que se registre sobreexplotación de los recursos hidráulicos subterráneos o degradación de la calidad de las aguas, promoviendo la responsabilidad compartida con los productores agrícolas para ajustar la explotación de los recursos en términos que garanticen la sustentabilidad de la producción y haciendo uso de fuentes de energías limpias y renovables.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
 Zonas de reconversión productiva
 
 ###### Artículo 43.
 
-El Consejo Zacatecano, a través de la Secretaría, determinará las zonas de reconversión productiva cuando la fragilidad, la degradación o sobreutilización de los recursos naturales así lo amerite.
+El Consejo Zacatecano, a través de la Secretaría, determinará las zonas de reconversión productiva cuando la fragilidad, la degradación o sobreutilización de los recursos naturales así lo amerite, promoviendo la utilización de fuentes de energías limpias y renovables.
 
 Apoyo a productores
 
 ###### Artículo 44.
 
 El Gobierno del Estado, en coordinación del gobierno federal y municipal, apoyará de manera especial a los productores de las zonas de reconversión delimitadas por el Consejo Zacatecano.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 44 BIS.- Los apoyos a la reconversión productiva en la actividad agropecuaria y agroindustrial se orientarán a impulsar la adopción de fuentes de energías limpias y renovables, así como tecnologías sustentables ahorradoras de energía.
 
 Unidades productivas
 
@@ -929,7 +961,11 @@ VI. La elaboración y difusión de guías sobre prácticas sustentables en las d
 
 VII. La instrumentación de programas y acciones de protección del medio ambiente para la evaluación de los costos ambientales derivados de las actividades productivas del sector, y
 
-VIII. La aplicación de medidas de certidumbre económica, financiera y comercial que garanticen el cumplimiento de los programas productivos agroalimentarios referidos en esta Ley.
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VIII. La instrumentación de programas que fomenten la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales, mediante su aprovechamiento sustentable y la promoción del uso de fuentes de energías limpias y renovables; y
+
+IX. La aplicación de medidas de certidumbre económica, financiera y comercial que garanticen el cumplimiento de los programas productivos agroalimentarios referidos en esta Ley.
 
 ### CAPÍTULO III. De la organización económica y los sistema producto
 
@@ -1013,7 +1049,9 @@ IV. Impulso a las actividades no agropecuarias para diversificar el ingreso, a t
 
 V. Aprovechamiento y promoción de actividades alternativas, como servicios de turismo rural y ecoturismo; así como la oferta de productos y servicios relacionados a estas actividades, que generen una mejor calidad de vida a la población rural;
 
-VI. Fomento y facilitación del uso de energías alternas como la solar, eólica y de biocombustibles, así como el acceso a las tecnologías de la información, y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VI. Fomento y facilitación del uso de energías limpias y alternas como la solar, eólica y de biocombustibles, así como el acceso a las tecnologías de la información, y
 
 VII. Turismo Rural Solidario, para promover la actividad económica de las áreas rurales, en beneficio de sus habitantes, mediante acciones didácticas, recreativas y de relajación.
 
@@ -1131,6 +1169,12 @@ V. Fomentar la producción de productos con oportunidades de exportación y gene
 
 VI. Fomentar la diversificación productiva.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 69 BIS.- El Gobierno del Estado y los Municipios, estimularán la reconversión, en términos de estructura productiva sustentable, incorporación de cambios tecnológicos, y de procesos que contribuyan a la productividad y competitividad del sector agropecuario, a la seguridad y soberanía alimentarias y al óptimo uso de las tierras mediante apoyos e inversiones complementarias.
+
+El Gobierno del Estado, a través de la Secretaría competente, podrá suscribir con los productores, individualmente u organizados, contratos de aprovechamiento sustentable de tierras definidos regionalmente, con el objeto de propiciar un aprovechamiento útil y sustentable de las tierras, buscando privilegiar la integración y la diversificación de las cadenas productivas, generar empleos, agregar valor a las materias primas, revertir el deterioro de los recursos naturales, producir bienes y servicios ambientales, proteger la biodiversidad y el paisaje, respetar la cultura, los usos y costumbres de la población, promover la adopción de fuentes de energías limpias y renovables a fin de mejorar la competitividad, así como prevenir los desastres naturales.
+
 ### CAPÍTULO VIII. De la capitalización y de la infraestructura para el desarrollo rural
 
 Programas
@@ -1195,11 +1239,13 @@ I. Atender a aquellos productores y demás sujetos de la sociedad rural que, ten
 
 II. Apoyar a pequeños y medianos productores con servicios de extensión, innovación y capacitación para incrementar la producción de alimentos y fortalecer el desarrollo comunitario en las zonas rurales.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 Impulso a la productividad
 
 ###### Artículo 74.
 
-Se impulsará la productividad de las unidades económicas, capitalización de explotaciones e implementación de acciones de mejoramiento tecnológico que hagan más eficientes, competitivas y sustentables las actividades económicas de los productores.
+Se impulsará la productividad de las unidades económicas, capitalización de explotaciones e implementación de acciones de mejoramiento tecnológico que hagan más eficientes, competitivas y sustentables las actividades económicas de los productores, haciendo uso de las energías limpias y renovables.
 
 Manejo eficiente del agua
 
@@ -1318,6 +1364,10 @@ IV. Creación de fideicomisos regionales para financiar proyectos conjuntos de v
 V. Integración de fondos de aseguramiento contra riesgos climáticos y de comercialización, y
 
 VI. Esquemas de factoraje para la comercialización.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+VII. El fomento a la inversión en infraestructura a fin de promover el uso de fuentes de energías limpias y renovables, y el aprovechamiento sustentable de los recursos naturales productivos, que permitan aumentar y diversificar las fuentes de empleo e ingreso.
 
 Apoyos Especiales
 
@@ -1664,3 +1714,19 @@ Se derogan las disposiciones que contravengan el presente instrumento.
 ###### ARTÍCULO TERCERO.
 
 Los entes públicos responsables de implementar la Política de Igualdad entre Mujeres y Hombres del Estado de Zacatecas deberán prever las asignaciones presupuestarias en cada ejercicio fiscal para dar cumplimiento a la misma.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 306.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES CONTENIDAS EN LA LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS Y EN LA LEY DE FOMENTO A LA GANADERÍA DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado actualizará los reglamentos de las leyes reformadas, en un plazo no mayor de 90 días contados a partir de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
