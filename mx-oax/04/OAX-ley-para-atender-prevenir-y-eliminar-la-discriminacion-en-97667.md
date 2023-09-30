@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-atender-prevenir-y-eliminar-la-discriminacion-en-97667
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-09"
-last_updated: "2023-07-29"
+last_updated: "2023-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA ATENDER, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de diciembre de 2013.
 
@@ -209,11 +209,19 @@ XXXII. Condicionar, limitar o restringir las oportunidades de empleo, permanenci
 
 XXXIII. Condicionar, impedir o negar el acceso a los inmuebles, el acceso a información, comunicación y atención a las personas con discapacidad en instancias y servicios públicos y privados;
 
-> <small>(ADICIONADA, P.O. 28 DE AGOSTO DEL 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-XXXIV. Promover odio y violencia por medio de la publicación o difusión de mensajes e imágenes estereotipados a través de cualquier medio masivo de comunicación o redes sociales que de manera directa o indirecta injurie, difame, discrimine, humille, atente contra la dignidad o promueva la explotación de las personas; y
+XXXIV. Promover odio y violencia por medio de la publicación o difusión de mensajes e imágenes estereotipados a través de cualquier medio masivo de comunicación o redes sociales, que de manera directa o indirecta injurie, difame, discrimine, deshonre, humille, atente contra la dignidad o promueva la explotación de las personas;
 
-XXXV. En general cualquier otra conducta discriminatoria en los términos que establezca la presente ley.
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XXXV. Limitar, negar, condicionar o restringir la prestación de servicios financieros a personas con discapacidad, personas adultas mayores, jefas o jefes de familia, mujeres embarazadas; cuando estos cumplan con los requisitos de ley a que haya lugar;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XXXVI. Limitar, negar, obstaculizar, restringir o impedir el libre ejercicio de algún derecho o el acceso universal a algún servicio, a las personas que se dediquen al trabajo sexual, personas con adicciones, personas con enfermedades de transmisión sexual y a personas que han estado o se encuentren en centros de reinserción social; cuando estos cumplan con los requisitos de ley a que haya lugar;
+
+XXXVII. En general cualquier otra conducta discriminatoria en los términos que establezca la presente ley.
 
 ###### Artículo 8.
 
@@ -1268,6 +1276,14 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 P.O. 29 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1455.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 2, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 6, EL PRIMER PÁRRAFO DEL ARTÍCULO 25, LA FRACCIÓN XVI DEL ARTÍCULO 29, LA FRACCIÓN I, EL INCISO a), d) Y g) DE LA FRACCIÓN III Y LA FRACCIÓN V DEL ARTÍCULO 32, LA FRACCIÓN IX DEL ARTÍCULO 39, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 87 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 92, TODOS DE LA LEY PARA ATENDER, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1537.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXXIV Y SE ADICIONAN LAS FRACCIONES XXXV Y XXXVI RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 7 DE LA LEY PARA ATENDER, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
