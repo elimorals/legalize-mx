@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108944"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2022-06-08"
+last_updated: "2023-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108944&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 1 de julio de 2015.
 
@@ -53,7 +53,9 @@ RESULTANDO SEGUNDO.- En cumplimiento a lo señalado en el artículo 107, fracci�
 
 RESULTANDO TERCERO.- La Diputada Araceli Guerrero Esquivel justificó su Iniciativa de Ley en la siguiente:
 
-"EXPOSICIÓN DE MOTIVOS…
+"EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 Por lo anteriormente expuesto y fundado y con apoyo además en lo dispuesto en los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
 
@@ -613,9 +615,21 @@ De conformidad con este derecho, ni la crianza, educación o corrección puede s
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a:
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-I. Adoptar las medidas legislativas, administrativas, sociales y educativas apropiadas para proteger a niñas, niños y adolescentes contra toda forma de violencia física, psicológica o sexual, descuido o trato negligente, malos tratos o explotación, en todos los entornos incluyendo el seno familiar ya sea Familia de Origen, Familia Extensa o Ampliada, de Acogida o de Acogimiento Pre-Adoptivo o a las que se haya asignado un menor en adopción o cualquier institución pública, privada, social, o en su caso, las de reintegración social u otros centros alternativos;
+I. Adoptar las medidas legislativas, administrativas, sociales y educativas apropiadas para proteger a niñas, niños y adolescentes contra toda forma de violencia física, psicológica o sexual, castigo corporal y humillante, descuido o trato negligente, malos tratos o explotación, en todos los entornos incluyendo el seno familiar ya sea Familia de Origen, Familia Extensa o Ampliada, de Acogida o de Acogimiento Pre-Adoptivo o a las que se haya asignado un menor en adopción o cualquier institución pública, privada, social, o en su caso, las de reintegración social u otros centros alternativos.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, y de cualquier otra índole que brinde asistencia a niñas, niños y adolescentes, sin que, en modo alguno, se autorice a estos el uso del castigo corporal ni el castigo humillante.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Castigo corporal o físico es todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+Castigo humillante es cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes;
 
 II. Adoptar las medidas apropiadas para promover la recuperación física, psicológica y la restitución de derechos de niñas, niños y adolescentes para lograr el pleno ejercicio de sus derechos y garantizar su reincorporación a la vida cotidiana, y
 
@@ -1004,6 +1018,18 @@ V. Impulsar a que tengan en cuenta en particular las necesidades lingüísticas 
 VI. Promover la elaboración de directrices apropiadas para protegerlos contra toda información y material perjudicial para su bienestar, teniendo en cuenta las disposiciones específicas de esta Ley, y
 
 VII. Detectar, investigar e impedir actividades de pornografía infantil y otros actos delictivos a través de cualquier medio impreso o electrónico.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 57 Bis.
+
+De acuerdo con la Constitución Política de los Estados Unidos Mexicanos y la Ley General de los Derechos de Niñas, Niños y Adolescentes, las niñas, niños y adolescentes gozarán del derecho de acceso universal a las Tecnologías de la Información y Comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet; tendrán derecho al acceso y uso seguro del Internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 57 Ter.
+
+En los términos de los mencionados ordenamientos, el Estado garantizará a niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
 
 ### CAPÍTULO I. MEDIDAS ESPECIALES DE PROTECCIÓN
 
@@ -2268,3 +2294,19 @@ P.O. 8 DE JUNIO DE 2022.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 313.- SE REFORMA LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 325.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES Y EL CÓDIGO FAMILIAR, DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
