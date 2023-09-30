@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-construccion-para-el-estado-y-municipios-de-zacatecas-11
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-01"
-last_updated: "2016-06-01"
+last_updated: "2023-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE CONSTRUCCIÓN PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Suplemento 3 del Periódico Oficial del Estado de Zacatecas, el miércoles 1 de junio de 2016.
 
@@ -377,7 +377,9 @@ b. Dos representantes del sector académico, relacionados con el ramo de la cons
 
 c. Un representante de las cámaras, legalmente constituidas en el Estado, relacionadas con el ramo de la construcción; y
 
-d. Tres representantes de colegios o asociaciones de profesionistas, legalmente constituidos en el Estado, vinculados al ramo de la construcción.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+d. Un representante de cada uno de los colegios o asociaciones de profesionistas, legalmente constituidos en el Estado, vinculados al ramo de la construcción.
 
 El Presidente y Secretario del Consejo, ejercerán sus funciones en atención al cargo que desempeñan. Las vocalías, durarán en su encargo tres años, pudiendo permanecer un periodo más.
 
@@ -439,9 +441,11 @@ La capacitación, evaluación y certificación se realizará a través de los Co
 
 Integración de la Comisión
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 24.
 
-La Comisión estará integrada por 10 miembros, todos ellos con registro de Director Responsable de Obra:
+La Comisión estará integrada por los siguientes miembros, todos ellos con registro de Director Responsable de Obra:
 
 I. Un representante del Ejecutivo como Presidente;
 
@@ -449,7 +453,9 @@ II. Dos representantes del Ejecutivo como vocales;
 
 III. Tres representantes de los Ayuntamientos; y
 
-IV. Cuatro representantes de los Colegios de la Entidad: Arquitectos, Ingenieros Civiles, Ingenieros Mecánicos, Electricistas y Posgraduados en Conservación y Restauración de inmuebles históricos, siempre y cuando se encuentren legalmente constituidos y registrados ante la autoridad competente.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+IV. Un representante de cada uno de los Colegios existentes en la Entidad que, estando legalmente constituidos y registrados ante la Autoridad Educativa del Estado, estén conformados por profesionistas vinculados al ramo de la construcción, a saber: Arquitectos, Ingenieros Civiles, Ingenieros Mecánicos, Electricistas o Posgraduados en Conservación y Restauración de Inmuebles Históricos.
 
 Cada miembro propietario nombrará un suplente, debiendo enviar previamente a las sesiones de la Comisión, el documento en el que se informe sobre dicha designación.
 
@@ -775,7 +781,9 @@ I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos o bien, contar con
 
 II. Tener cédula profesional correspondiente a alguna de las profesiones establecidas en el artículo anterior;
 
-III. Acreditar como mínimo dos años de experiencia comprobada en la construcción, mediante aval expedido por el Colegio de Profesionistas del Estado, de la rama al que pertenezca; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+III. Acreditar como mínimo dos años de experiencia comprobada en la construcción, mediante aval expedido por uno de los Colegios de Profesionistas existentes en la entidad vinculado a dicha actividad, que se encuentre legalmente constituido y registrado ante la Autoridad Educativa del Estado; y
 
 IV. Las demás que establezca la normatividad aplicable.
 
@@ -1210,3 +1218,15 @@ LIC. MIGUEL ALEJANDRO ALONSO REYES.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JAIME SANTOYO CASTRO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 323.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE CONSTRUCCIÓN PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se establece un plazo no mayor a noventa días para que se modifique en lo conducente las disposiciones reglamentarias de la Ley de Construcción para el Estado y Municipios de Zacatecas.
+
+Artículo Tercero. Se derogan las disposiciones que contravengan el presente Decreto.
