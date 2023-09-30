@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-desarrollo-social-para-el-estado-y-municipios-de-66530"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-17"
-last_updated: "2023-01-11"
+last_updated: "2023-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
@@ -187,9 +187,9 @@ III. Justicia distributiva: Garantiza que toda persona reciba de manera equitati
 
 IV. Solidaridad: Es la colaboración entre personas, grupos sociales y órdenes de gobierno, de manera corresponsable para el mejoramiento de la calidad de vida de la sociedad;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-V. Integralidad: Es la articulación y complementariedad de programas y acciones de gobierno que conjunten los diferentes beneficios sociales para favorecer el desarrollo social y humano de manera integral;
+V. Integralidad: Es la articulación y complementariedad de programas y acciones de gobierno que conjunten los diferentes beneficios sociales para favorecer el desarrollo social y humano de manera integral, en el marco de la Política Nacional y Estatal de Desarrollo Social;
 
 VI. Participación social: Es el derecho de las personas y organizaciones a intervenir e integrarse, individual o colectivamente, en la formulación, ejecución y evaluación de las políticas, programas y acciones del desarrollo social;
 
@@ -201,9 +201,9 @@ IX. Subsidiariedad: Es el reconocimiento de los derechos y obligaciones que perm
 
 X. Exigibilidad: Es el derecho de las personas a que, a través de un conjunto de normas y procedimientos, los derechos sociales sean progresivamente exigibles de acuerdo a la disposición presupuestal;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-XI. Diversidad: Es el reconocimiento en términos de origen étnico, género, edad, discapacidades, condición social, condiciones de salud, religión, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
+XI. Respeto a la Diversidad: Es el reconocimiento en términos de origen étnico, género, edad, discapacidades, condición social, condiciones de salud, religión, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2019)</small>
 
@@ -213,9 +213,17 @@ XII. Transparencia: La información relativa al desarrollo social y los recursos
 
 XIII. Interés Superior de la Niñez: De conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley General de Desarrollo Social, los tratados internacionales aplicables de los que el Estado Mexicano sea parte y la Constitución Política del Estado Libre y Soberano de Zacatecas.
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-XIII (SIC). Transversalidad: Modelo organizativo de carácter horizontal que busca la integración, la coordinación y cooperación interinstitucional e intersectorial, caracterizada por plantear objetivos asumidos por todos los sectores de la administración pública pero que no son propios de ninguno de ellos sino de carácter general del conjunto institucional.
+XIII (SIC). Transversalidad: Modelo organizativo de carácter horizontal que busca la integración, la coordinación y cooperación interinstitucional e intersectorial, caracterizada por plantear objetivos asumidos por todos los sectores de la administración pública pero que no son propios de ninguno de ellos sino de carácter general del conjunto institucional;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XIV. Dignidad Humana: Principio rector supremo y sustento de los derechos humanos, en el que se reconoce a toda persona la libertad y la igualdad en derechos, y es el fundamento, objetivo y base de las acciones de la política de desarrollo social, y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XV. Perspectiva de Género: Garantizar la equidad e igualdad de género en el diseño y ejecución de las políticas públicas de desarrollo social, desde una visión científica, analítica, política y compensatoria sobre las mujeres y los hombres, que elimine las causas de la opresión, la desigualdad, la injusticia y la jerarquización de las personas basadas en el género.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2019)</small>
 
@@ -615,9 +623,11 @@ Los Ayuntamientos en el mismo plazo que señala el artículo 33 de esta Ley, pub
 
 Además de las obligaciones señaladas en el párrafo anterior, la o el Ejecutivo del Estado y los Ayuntamientos, a través de los medios de comunicación masiva, implementarán campañas para que la población conozca las reglas de operación y los beneficios de los programas de desarrollo social.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 36.
 
-La publicidad e información de los programas de desarrollo social que emita la o el Ejecutivo del Estado o los Ayuntamientos, deberá identificarse con el escudo estatal o toponímico municipal correspondiente y tendrá la siguiente leyenda: “Este programa es público y ajeno a cualquier partido político. Queda prohibido el uso para fines distintos al desarrollo social o para promoción personal”.
+La publicidad e información de los programas de desarrollo social que emita la o el Ejecutivo del Estado o los Ayuntamientos, deberá identificarse con el escudo estatal o toponímico municipal correspondiente y tendrá la siguiente leyenda: "Este programa es público y ajeno a cualquier partido político, queda prohibido su uso para fines políticos, queda prohibido el uso para fines distintos al desarrollo social o para promoción personal, quien haga uso indebido de los recursos de este programa deberá ser denunciado y sancionado ante las autoridades conforme a lo que dispone la legislación en materia de Responsabilidades de los Servidores Públicos".
 
 ###### Artículo 37.
 
@@ -1326,3 +1336,11 @@ P.O. 11 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 148.- REFORMAS Y ADICIONES A LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS”.]
 
 ÚNICO. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 320.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Zacatecas.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones se opongan al presente Decreto.
