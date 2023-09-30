@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-prevencion-social-de-la-violencia-y-la-127167"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-14"
-last_updated: "2020-01-04"
+last_updated: "2023-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
 
 Ley publicada en el Suplemento 3 al Número 21 del Periódico Oficial del Estado de Zacatecas, el miércoles 14 de marzo de 2018.
 
@@ -59,7 +59,9 @@ Tiene por objeto establecer las bases para la coordinación y articulación de p
 
 La prevención social de la violencia y la delincuencia comprende el conjunto de políticas públicas, programas, estrategias y acciones orientadas a incentivar la participación ciudadana para alcanzar la reducción de los factores de riesgo que favorecen la generación de violencia y delincuencia y provocan efectos perjudiciales para la sociedad, así como el combate de sus múltiples causas y manifestaciones.
 
-El Ejecutivo Estatal, en coordinación con los Municipios y la sociedad, desarrollará políticas y acciones de intervención integral a través de medidas permanentes de cooperación, estructuradas y concretas, mismas que se vincularán con las estrategias locales para el desarrollo social, económico, político, turístico y cultural.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+El Ejecutivo Estatal, así como los Municipios, con participación de la sociedad, desarrollarán políticas públicas, programas, estrategias y acciones en materia de prevención social de la violencia y la delincuencia, así como de intervención integral a través de medidas permanentes de cooperación, estructuradas y concretas, mismas que se vincularán con las estrategias locales para el desarrollo social, económico, político, turístico y cultural.
 
 ###### Artículo 4.
 
@@ -123,13 +125,29 @@ XI. Sistema: Sistema Estatal de Seguridad Pública.
 
 XII. Consejo Local: Consejo Local de Consulta y Participación Ciudadana, agrupación de ciudadanos con intereses compartidos en materia de seguridad pública y en la prevención social de la violencia y la delincuencia en el Estado;
 
-> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-XIII. Consejos de Consulta: Consejo Estatal de Consulta y Participación Ciudadana y Consejos Regionales de Consulta y Participación Ciudadana, y
+XIII. Consejos de Consulta: Consejo Estatal de Consulta y Participación Ciudadana y Consejos Regionales de Consulta y Participación Ciudadana;
 
-> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
-XIV. Secretaría General: Secretaría General de Gobierno del Estado de Zacatecas.
+XIV. Secretaría General: Secretaría General de Gobierno del Estado de Zacatecas;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XV. Ayuntamientos: a los Ayuntamientos de los municipios del Estado de Zacatecas;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XVI. Comisión Edilicia de Prevención: a la Comisión de Prevención Social de la Violencia y la Delincuencia conformada por integrantes del ayuntamiento en los términos de la Ley Orgánica del Municipio del Estado de Zacatecas y su normatividad interna;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XVII. Área Municipal de Prevención: al área administrativa correspondiente que tenga bajo su cargo la prevención social de la violencia y la delincuencia en cada municipio, y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+XVIII. Programa Municipal: al programa municipal de prevención social de la violencia y la delincuencia que expida cada ayuntamiento.
 
 ###### Artículo 7.
 
@@ -253,6 +271,18 @@ b) Erradicar la violencia, especialmente la ejercida contra niños, niñas, jóv
 
 c) Garantizar la atención integral a las víctimas del delito.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+b) Erradicar la violencia, especialmente la ejercida contra niños, niñas, jóvenes, mujeres, indígenas y adultos mayores;
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+c) Garantizar la atención integral a las víctimas del delito, e (sic)
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+d) Prevenir la reincidencia, mediante acciones orientadas a personas que cometieron delitos y permanecieron en centros penitenciarios o de internamiento juvenil y que estén sometidas a salidas alternas.
+
 X. Realizar estudios sobre las causas de la delincuencia y el combate a la misma desde la prevención, apoyado con estadísticas y diagnósticos;
 
 XI. Generar indicadores y métricas estandarizados en materia de prevención de la violencia y la delincuencia, los que al menos serán desagregados por edad, sexo y ubicación geográfica;
@@ -339,6 +369,32 @@ La Secretaría General, para el cumplimiento de sus funciones, se articulará de
 
 (DEROGADO, P.O. 4 DE ENERO DE 2020)
 
+> <small>(ADICIONADO P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 18 Bis.
+
+El Ayuntamiento nombrará una comisión de regidores con facultades para formular, examinar y vigilar la política pública en materia de prevención de la violencia y la delincuencia, además, creará un área administrativa encargada de la implementación de dicha política.
+
+Corresponde a los municipios, mediante su área administrativa de prevención de la violencia y la delincuencia, el ejercicio de las siguientes atribuciones:
+
+I. Proponer e implementar el Programa Municipal en congruencia con el Programa Nacional y Estatal, en materia de prevención social de la violencia y la delincuencia;
+
+II. Llevar a cabo campañas para la prevención social del delito, en las que deberá involucrar de forma permanente a la ciudadanía, para que formule ideas, participe en su ejecución, seguimiento y evaluación;
+
+III. Proponer la celebración de convenios con otros ayuntamientos, así como con los sectores social y privado en materia de prevención social de la violencia y la delincuencia;
+
+IV. Presentar propuestas para ser consideradas en el presupuesto de egresos, respecto de los recursos necesarios para la implementación de su Programa Municipal y solventar las demás actividades de su competencia en este rubro;
+
+V. Proponer un mecanismo para que las acciones de las dependencias y entidades de la administración pública municipal sean transversales y estén armonizadas con la planeación nacional y estatal en materia de prevención social de la violencia y la delincuencia;
+
+VI. Analizar el marco normativo municipal aplicable en materia de prevención de la violencia y la delincuencia y, en su caso, proponer las reformas conducentes;
+
+VII. Ser enlace del ayuntamiento con las dependencias y entidades en materia de prevención de la violencia y la delincuencia del gobierno estatal y de otros municipios;
+
+VIII. Informar al pleno del ayuntamiento, por conducto de la Comisión Edilicia de Prevención, sobre sus actividades y requerimientos para realizar su trabajo, y
+
+IX. Las demás que se establezcan en la presente Ley y demás ordenamientos aplicables.
+
 ### Capítulo IV. Coordinación de Programas
 
 ###### Artículo 19.
@@ -381,15 +437,25 @@ VI. Realizar estudios periódicos sobre victimización y delincuencia, y
 
 VII. Impulsar la participación ciudadana y comunitaria en la prevención social de la violencia y la delincuencia.
 
-### Capítulo V. Programa Estatal para la Prevención
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+### Capítulo V. Programas Estatales y Municipales para la Prevención
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 23.
 
-El Programa Estatal es el documento programático que articula las estrategias institucionales y líneas de acción del Ejecutivo Estatal y los Municipios que inciden en la prevención social de la violencia y la delincuencia.
+El Programa Estatal y los programas municipales, son aquellos documentos programáticos que articulan las estrategias institucionales y líneas de acción que inciden en la prevención social de la violencia y la delincuencia, a cargo del Ejecutivo Estatal y de los Municipios, según corresponda.
+
+El Programa Estatal deberá ser emitido dentro de los treinta días siguientes al en que la Legislatura del Estado apruebe del (sic) Plan Estatal de Desarrollo.
+
+Los programas municipales deberán ser emitidos dentro de los treinta días siguientes al en que el Ayuntamiento apruebe su Plan Municipal de Desarrollo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 24.
 
-El Programa Estatal deberá contribuir al objetivo general de proveer a las personas protección en las áreas de libertad, seguridad y justicia, con base en objetivos precisos, claros y medibles, como los siguientes:
+El Programa Estatal y los programas municipales, deberán garantizar el objetivo general de la prevención que consiste en reducir los factores de riesgo en la generación de violencia y delincuencia, combatir las causas de éstas y estimular la participación ciudadana, a través de acciones precisas, claras y medibles, como los (sic) siguientes:
 
 I. Incorporación de la prevención social de la violencia y la delincuencia como elemento central de las prioridades en la calidad de vida de las personas;
 
@@ -409,9 +475,11 @@ VIII. Desarrollo de estrategias de prevención social de la violencia y la delin
 
 IX. Monitoreo y evaluaciones continuas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
 ###### Artículo 25.
 
-El Programa Estatal deberá basarse primordialmente en los siguientes enfoques:
+El Programa Estatal y los programas municipales deberán basarse primordialmente en los siguientes enfoques:
 
 I. Seguridad ciudadana: Entendida como la obligación del Estado de garantizar la seguridad de la persona, actuando sobre las causas que originan la violencia la delincuencia y la inseguridad;
 
@@ -421,11 +489,15 @@ III. Derechos Humanos: Los cuales se entienden como el conjunto de prerrogativas
 
 IV. Erradicación de los factores de riesgo: los que pudieran ser, entre otros la ausencia del sentido de pertenencia, la fractura del tejido social, la falta de cohesión social, la exclusión y la violencia en la convivencia.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+
+De manera especial y para prevenir la reincidencia delictiva en personas que cometieron delitos y permanecieron en centros penitenciarios o de internamiento juvenil y de quienes están sometidas a salidas alternas; dichos programas, contemplarán acciones específicas y de acompañamiento individual, durante y después del internamiento.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 26.
 
-El Consejo Local evaluará semestralmente los resultados del Programa Estatal, a fin de contar con un mecanismo de actualización permanente de las políticas, estrategias y líneas de acción referidas a la prevención social de la violencia y la delincuencia.
+El Consejo Local evaluará semestralmente, conforme a esta ley, los resultados del Programa Estatal, lo mismo harán los Consejos Regionales en su ámbito de competencia, así como los ayuntamientos respecto del Programa Municipal, a fin de contar con un mecanismo de actualización permanente de las políticas, estrategias y líneas de acción referidas a la prevención social de la violencia y la delincuencia.
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
 
@@ -770,3 +842,23 @@ Asimismo, transferirá los recursos humanos, financieros y materiales con los qu
 El proceso de entrega-recepción se llevará a cabo de acuerdo con la Ley de Entrega-Recepción del Estado y Municipios de Zacatecas, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios y demás disposiciones aplicables.
 
 Artículo Quinto. Dentro de los ciento veinte días siguientes a la vigencia del presente Decreto, el titular del Poder Ejecutivo del Estado y los Presidentes Municipales, emitirán las convocatorias respectivas, respecto del proceso de designación de los consejeros de consulta, para dar cumplimiento a lo previsto en el artículo 39 bis de la Ley para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana para el Estado de Zacatecas.
+
+P.O. 30 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 311.- SE REFORMAN LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS, LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE ZACATECAS Y LA LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo. Se derogan aquellas disposiciones que se opongan al presente Decreto.
+
+Tercero. Dentro de los 30 días naturales siguientes a la publicación de este decreto, los Municipios que correspondan, instalarán las comisiones edilicias de prevención social de la violencia y la delincuencia.
+
+Dentro de los 60 días naturales siguientes a la publicación de este Decreto, se conformarán las Áreas Municipales de Prevención y se designará a sus titulares.
+
+Con el objeto de dar cumplimiento a lo previsto en el párrafo segundo del artículo 23 de la Ley para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana para el Estado de Zacatecas, por esta ocasión, los Municipios que no cuenten con su programa municipal de prevención social de la violencia y la delincuencia, lo emitirán dentro de los 90 días naturales siguientes a la publicación de este decreto.
+
+Dentro de los cuatro meses siguientes a la publicación de este decreto, los ayuntamientos del estado informarán a esta Legislatura sobre el cumplimiento de las disposiciones de este mismo instrumento legislativo.
+
+Cuarto. De conformidad con la Ley de Austeridad, Disciplina y Responsabilidad Financiera del Estado de Zacatecas y sus Municipios, los ayuntamientos destinarán las partidas presupuestales correspondientes, para cumplir con lo establecido en este decreto.
+
+Quinto. Para efectos del contenido de los artículos 6 fracción VIII, 15 fracción I, 16 fracción I, 23 al 27, 30 y 31 de la Ley para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana para el Estado de Zacatecas, el Programa Estatal de Prevención Social de la Violencia y la Delincuencia de la actual administración gubernamental, deberá estar aprobado y publicado dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
