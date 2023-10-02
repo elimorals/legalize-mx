@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2023-09-28"
+last_updated: "2023-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -2827,9 +2827,13 @@ XIV. Ejecutar las acciones necesarias para realizar programas y proyectos para, 
 
 XIV bis. Coordinarse con las distintas autoridades de los ámbitos municipales y estatales, a efecto de sugerir al Honorable Cabildo la firma de instrumentos jurídicos que permitan el buen uso y funcionamiento de los Tiraderos de escombro, pudiéndose optar por el esquema de tiraderos de escombros de zona metropolitana; sugerir o hacer planteamientos y propuestas, que tengan por objeto la consolidación de alianzas estratégicas con los sectores público, gobiernos del estado y municipales, así como con el sector el (sic) privado, cámaras empresariales, organismos o asociaciones de la industria de la construcción, interesadas en el uso, operación y administración de tiraderos de residuos derivados de la construcción de obra, siempre y cuando exista viabilidad de los proyectos.
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE OCTUBRE DE 2023)</small>
 
-XV. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XV. Validar el costo que determine el Modelo Integral de Aguas de Aguascalientes, cuando se trate de obras de agua potable, alcantarillado y saneamiento faltantes que deberá solventar el fraccionador o promotor al Municipio, en los fraccionamientos, condominios, desarrollos especiales y subdivisiones para la ejecución de las mismas, de conformidad con el Reglamento de Desarrollo de Fraccionamientos, Condominios, Desarrollos Especiales y Subdivisiones para el Municipio de Aguascalientes.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE OCTUBRE DE 2023)</small>
+
+XVI. Las demás que señale la Ley, el presente Código, otras disposiciones reglamentarias o le encomiende el Presidente Municipal.
 
 APARTADO DÉCIMO PRIMERO
 
@@ -24805,17 +24809,17 @@ SEGUNDO.- Las modificaciones al presente Código entrarán en vigor al día sigu
 
 P.O. 21 DE FEBRERO DE 2022.
 
-## [N. DE E. TRANSITORIOS DEL "DICTAMEN QUE CONTIENE LA INICIATIVA DE REFORMA AL ARTÍCULO 98, PÁRRAFO CUARTO EN SUS INCISOS S) Y T), ADICIONÁNDOSE UN INCISO U), REFORMÁNDOSE SU FRACCIÓN VI, Y ADICIONÁNDOSE UNA FRACCIÓN XXII; ASIMISMO, SE ADICIONA UN APARTADO VIGÉSIMO DENOMINADO “DEL INSTITUTO MUNICIPAL DE SALUD MENTAL”, QUE CONTENDRÁ EL ARTÍCULO 114 SEXIES, AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIOS DEL "DICTAMEN QUE CONTIENE LA INICIATIVA DE REFORMA AL ARTÍCULO 98, PÁRRAFO CUARTO EN SUS INCISOS S) Y T), ADICIONÁNDOSE UN INCISO U), REFORMÁNDOSE SU FRACCIÓN VI, Y ADICIONÁNDOSE UNA FRACCIÓN XXII; ASIMISMO, SE ADICIONA UN APARTADO VIGÉSIMO DENOMINADO "DEL INSTITUTO MUNICIPAL DE SALUD MENTAL", QUE CONTENDRÁ EL ARTÍCULO 114 SEXIES, AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
 
-PRIMERO.– Las presentes reformas y adiciones, iniciaran su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+PRIMERO.- Las presentes reformas y adiciones, iniciaran su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.– El Presidente Municipal deberá designar al o la Directora del Instituto Municipal de Salud Mental, dentro de los siguientes treinta días hábiles contado (sic) a partir de que inicien su vigencia las presentes reformas y adiciones.
+SEGUNDO.- El Presidente Municipal deberá designar al o la Directora del Instituto Municipal de Salud Mental, dentro de los siguientes treinta días hábiles contado (sic) a partir de que inicien su vigencia las presentes reformas y adiciones.
 
 Una vez designado el o la Directora General del Instituto Municipal de Salud Mental, se deberán realizar los trámites respectivos para transferir a dicho Instituto, los recurso (sic) humanos, financieros y materiales del Departamento de Salud Mental perteneciente a la Dirección General del Sistema para el Desarrollo Integral de la Familia.
 
 No obstante, al iniciar su vigencia las presentes reformas y adiciones, todos los asuntos en trámite (sic) legales o administrativos de los que estuviera conociendo el Departamento de Salud Mental de referencia, serán competencia y deberán ser atendidos por el Instituto Municipal de Salud Mental.
 
-TERCERO.– El Instituto Municipal de Salud Mental, dentro de los sesenta días hábiles siguientes a la entrada en vigor de la presente reforma, deberá proponer al H. Ayuntamiento Constitucional del Municipio de Aguascalientes, el Reglamento Interno del Instituto, así como cualquier otro instrumento normativo o reforma, con el fin de que se encuentre conforme a la presente modificación.
+TERCERO.- El Instituto Municipal de Salud Mental, dentro de los sesenta días hábiles siguientes a la entrada en vigor de la presente reforma, deberá proponer al H. Ayuntamiento Constitucional del Municipio de Aguascalientes, el Reglamento Interno del Instituto, así como cualquier otro instrumento normativo o reforma, con el fin de que se encuentre conforme a la presente modificación.
 
 CUARTO.- Se faculta al o la titular de la (sic) del Instituto Municipal de Salud Mental, para firmar todos aquellos documentos y resoluciones que se originen con motivo de la sustanciación de los procedimientos con antelación a la vigencia de la presente reforma.
 
@@ -24823,11 +24827,11 @@ QUINTO.- El personal adscrito al Departamento de Salud Mental de la Dirección G
 
 La Secretaría de Administración llevará a cabo todos los actos legales y administrativos que se susciten con motivo de las presentes reformas, salvaguardando los derechos laborales de todos los empleados.
 
-SEXTO.– En el momento que inicie la vigencia legal del Reglamento y la estructura orgánica del Instituto Municipal de Salud Mental de Aguascalientes, todos los asuntos en trámite de tipo legal o administrativo, así como los recursos humanos, presupuestales y materiales del Departamento de Salud Mental perteneciente a la Dirección General del Sistema para el Desarrollo Integral de la Familia, serán competencia y pasarán a formar parte del patrimonio del citado Instituto en los términos del presente Acuerdo.
+SEXTO.- En el momento que inicie la vigencia legal del Reglamento y la estructura orgánica del Instituto Municipal de Salud Mental de Aguascalientes, todos los asuntos en trámite de tipo legal o administrativo, así como los recursos humanos, presupuestales y materiales del Departamento de Salud Mental perteneciente a la Dirección General del Sistema para el Desarrollo Integral de la Familia, serán competencia y pasarán a formar parte del patrimonio del citado Instituto en los términos del presente Acuerdo.
 
-SEPTIMO.– La Secretaría de Finanzas y la Secretaría de Administración, en el ámbito de sus respectivas competencias y dentro de los 60 días hábiles siguientes a que inicien su vigencia las presentes reformas y adiciones, deberán impulsar las adecuaciones presupuestales y administrativas que en su caso sean necesarias para el funcionamiento del Instituto Municipal de Salud Mental.
+SEPTIMO.- La Secretaría de Finanzas y la Secretaría de Administración, en el ámbito de sus respectivas competencias y dentro de los 60 días hábiles siguientes a que inicien su vigencia las presentes reformas y adiciones, deberán impulsar las adecuaciones presupuestales y administrativas que en su caso sean necesarias para el funcionamiento del Instituto Municipal de Salud Mental.
 
-OCTAVO.– Las referencias hechas al Departamento de Salud Mental de la Dirección General del Sistema para el Desarrollo Integral de la Familia, en las disposiciones reglamentarias, administrativas, contractuales y demás instrumentos legales, se entenderán realizadas al Instituto Municipal de Salud Mental.
+OCTAVO.- Las referencias hechas al Departamento de Salud Mental de la Dirección General del Sistema para el Desarrollo Integral de la Familia, en las disposiciones reglamentarias, administrativas, contractuales y demás instrumentos legales, se entenderán realizadas al Instituto Municipal de Salud Mental.
 
 P.O. 21 DE FEBRERO DE 2022.
 
@@ -25028,3 +25032,13 @@ P.O. 28 DE SEPTIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma iniciará su vigencia al momento de su aprobación.
+
+P.O. 2 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS Y ADICIONES AL ARTÍCULO 109 DEL CÓDIGO MUNICIPAL Y AL REGLAMENTO DE DESARROLLO DE FRACCIONAMIENTOS, CONDOMINIOS, DESARROLLOS ESPECIALES Y SUBDIVISIONES PARA EL MUNICIPIO DE AGUASCALIENTES, EN MATERIA DE DETERMINACIÓN DEL VALOR DE LAS OBRAS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO QUE DEBA SOLVENTAR UN FRACCIONADOR O PROMOTOR AL MUNICIPIO, Y DE ACTUALIZACIÓN DE LA NOMENCLATURA DE DIVERSAS INSTANCIAS ESTATALES Y MUNICIPALES”.]
+
+PRIMERO.- La (sic) presentes reformas y adiciones iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las referencias al Modelo Integral de Aguas de Aguascalientes (MIAA) se entenderán realizadas a la Comisión Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes, esto en tanto el MIAA inicie formalmente operaciones como prestador de servicios conforme a la declaratoria que para el efecto emita en términos de lo previsto en el transitorio cuarto del Reglamento que crea el Organismo Público Descentralizado “Modelo Integral de Aguas de Aguascalientes”, publicado en el Periódico Oficial del Estado el 24 de abril de 2023.
+
+Asimismo, en tanto inicia formalmente operaciones el MIAA según lo descrito en el párrafo anterior, las referencias a su Dirección de Planeación Técnica se entenderán hechas a la Dirección Técnica de Comisión Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes.
