@@ -4,7 +4,7 @@ identifier: "SON-ley-de-derechos-de-los-pueblos-y-comunidades-indigenas-de-78654
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-16"
-last_updated: "2023-03-06"
+last_updated: "2023-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE OCTUBRE DE 2023.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 16 de diciembre de 2010.
 
@@ -53,11 +53,13 @@ La presente Ley es de orden público e interés social y tiene por objeto garant
 
 El Estado de Sonora tiene una composición multi étnica y pluri cultural, sustentada en la presencia de diversos pueblos y comunidades indígenas; hablan sus lenguas propias o parte de ellas; han ocupado su territorio en forma continua y permanente; en ese territorio han construido su cultura específica que los identifica internamente y a la vez diferencia del resto de la población del Estado.
 
-> <small>(REFORMADO, B.O. 6 DE MARZO DE 2023)</small>
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 111 PUBLICADO EN EL B.O. DE 2 DE OCTUBRE DE 2023 SECCIÓN V PÁGINA 3 SE ADVIERTE QUE LA VOLUNTAD DEL PODER LEGISLATIVO ES OTORGAR EL RECONOCIMIENTO A AMBAS ETNIAS, A SABER: LA ETNIA N´DEE O N´NEE O NDÉ Y LA APACHES LIPAN. ÉSTA ÚLTIMA ETNIA NO ESTABA CONTEMPLADA EN EL DECRETO ANTERIOR DEL MISMO NÚMERO Y MISMA FECHA DE PUBLICACIÓN EN LA SECCIÓN I, PÁGINA 7. SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES MENCIONADAS.]</small>
+
+> <small>(REFORMADO, B.O. 2 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 3.
 
-Esta Ley reconoce los derechos colectivos de los pueblos konkaak (seri), hiak (yaqui), kickapoo (kikapú), kuapá (cucapá), macurawe (guarijío), o'ob (pima), tohono o'otham (pápago), yorem mayo (mayo) y Apaches Lipan (Apaches Chiricahua, Coyotero), así como a las demás etnias indígenas que, provenientes de otros Estados, residen en forma temporal o permanente dentro del territorio del Estado de Sonora, y que tienen derecho a conservar y desarrollar su lengua, costumbres, 11 usos, tradiciones, religión, indumentaria y en general todos aquellos rasgos culturales que los distingan, de conformidad con los principios que establece esta Ley.
+Esta Ley reconoce los derechos colectivos de los pueblos konkaak (seri), hiak (yaqui), kickapoo (kikapú), kuapá (cucapá), macurawe (guarijío), o'ob (pima), tohono o'otham (pápago), yorem maayo (mayo), Apaches Lipan (Apaches Chiricahua, Coyotero) y n'dee o n'nee o ndé, así como a las demás etnias indígenas que, provenientes de otros Estados, residen en forma temporal o permanente dentro del territorio del Estado de Sonora, y que tienen derecho a conservar y desarrollar su lengua, costumbres, usos, tradiciones, religión, indumentaria y en general todos aquellos rasgos culturales que los distingan, de conformidad con los principios que establece esta Ley.
 
 ###### ARTÍCULO 4.
 
@@ -764,6 +766,22 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A
 B.O. 6 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 95, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 2 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 111, QUE REFORMA EL ARTÍCULO NÚMERO 3 DE LA LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 2 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 111, QUE REFORMA EL ARTÍCULO NÚMERO 3 DE LA LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DE SONORA".]
 
 ###### ARTÍCULO ÚNICO.
 
