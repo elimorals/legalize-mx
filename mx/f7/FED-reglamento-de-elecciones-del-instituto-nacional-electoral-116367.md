@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2023-01-31"
+last_updated: "2023-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 31 DE ENERO DE 2023, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE OCTUBRE DE 2023.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -189,7 +187,11 @@ dd) SE: Supervisor o Supervisora Electoral;
 
 ee) SE local: Supervisor o Supervisora Electoral local. Personal temporal contratado para las elecciones concurrentes, con el objeto de realizar actividades de asistencia electoral propias del ámbito local y actividades de supervisión a la asistencia electoral y a las actividades de apoyo al CAE. Sus funciones se adecuarán a lo previsto en la Estrategia de Capacitación y Asistencia Electoral correspondiente;
 
-ff) SNR: Sistema Nacional de Registro de precandidato y Candidatos, así como de los aspirantes y candidatos independientes.
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
+
+ff) SNR: Sistema Nacional de Registro de Precandidatos y Candidatos, así como de las personas aspirantes y candidaturas independientes para los cargos del ámbito local y para los cargos del ámbito federal se entenderá que se hace referencia al Sistema de Información de Registro de Candidaturas Federales (SIRCF), a este le serán aplicables las mismas disposiciones que al SNR, salvo que se señale lo contrario.
+
+Las especificaciones para la operación del SIRCF, se realizarán en el Manual de Usuarios, Acuerdos, Lineamientos o documentos que para tales efectos emita el Instituto.
 
 gg) Tribunal Electoral: Tribunal Electoral del Poder Judicial de la Federación;
 
@@ -4413,9 +4415,9 @@ e. En caso que la acreditación haya sido expedida por un consejo del Instituto 
 
 1. Las disposiciones contenidas en el presente Capítulo son aplicables para las autoridades competentes del Instituto y de los OPL, los Partidos Políticos Nacionales y locales, aspirantes y candidaturas independientes a cargos de elección federal y local.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
 
-2. Los sujetos obligados deberán realizar el registro de precandidaturas y candidaturas en el Sistema Nacional de Registro de Precandidatos y Candidatos, así como de los Aspirantes y Candidaturas Independientes (SNR) implementado por el propio Instituto.
+2. Los sujetos obligados deberán realizar el registro y aprobación de sus precandidaturas, así como la postulación de candidaturas para la totalidad de cargos en elección, según el periodo que corresponda en el SNR; por su parte las personas aspirantes a una candidatura independiente y las personas candidatas Independientes deberán cumplir con su registro en el mismo sistema, el cual es implementado por el propio Instituto, quien verificará su correcto funcionamiento.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 17 DE OCTUBRE DE 2022)</small>
 
@@ -4424,6 +4426,22 @@ e. En caso que la acreditación haya sido expedida por un consejo del Instituto 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 17 DE OCTUBRE DE 2022)</small>
 
 4. En el ámbito local, una vez aprobadas las candidaturas por los órganos correspondientes de cada OPL, los sujetos obligados deberán capturar la información curricular y de identidad en el Sistema de Candidatas y Candidatos, Conóceles implementado en cada OPL, actividades que serán regidas por los Lineamientos que apruebe el Consejo General, y que forman parte del presente reglamento como Anexo 24.2.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], D.O.F. 3 DE OCTUBRE DE 2023)</small>
+
+5. Para dar cumplimiento a la obligación establecida en el numeral 2, el Instituto o el OPL, en el ámbito de su competencia, revisará y validará que la información de las candidaturas aprobadas por el Consejo General se encuentre completa conforme a lo requerido en dicho sistema para su aprobación en términos de lo emitido por el Instituto o el OPL y, en su caso, resolverá atendiendo a los siguientes supuestos:
+
+a) Realizará la aprobación en el SNR de aquellos registros que cumplan con los requisitos del referido sistema.
+
+b) En caso de que, derivado de la verificación de requisitos, exista información faltante o errónea en el SNR, el Instituto requerirá al sujeto obligado para que, en un plazo improrrogable de cuarenta y ocho horas, a partir de la notificación, atienda las irregularidades identificadas. En caso de incumplimiento por parte del sujeto obligado, tratándose de cargos del ámbito local, el OPL realizará la aprobación con salvedades por información pendiente en el SNR, dentro de las 48 horas siguientes a que se apruebe el acuerdo o resolución correspondiente.
+
+En este último supuesto, el sistema remitirá un aviso por correo electrónico a efecto de notificar a la persona candidata que corresponda y al responsable de la operación del SNR del partido político nacional o local de que se trate, respecto de las candidaturas del ámbito local aprobadas con salvedades en el SNR, con el propósito de que éste último solvente las irregularidades en el referido sistema, para lo cual tendrá un plazo improrrogable de cuarenta y ocho horas a partir del envío del correo electrónico.
+
+En el supuesto de que el sujeto obligado, a través de la persona responsable de la operación del SNR, no subsane las irregularidades a que se refiere el párrafo anterior, el registro conservará el estatus de aprobado con salvedades en SNR, en el entendido que la información faltante podrá ser requerida por la autoridad fiscalizadora con posterioridad.
+
+> <small>(ADICIONADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
+
+6. En el caso del registro y aprobación de candidaturas comunes, el OPL revisará, validará y garantizará el registro de las candidaturas realizado por cada partido político que integra esta modalidad de postulación, y en el caso de coalición, el registro de la candidatura que corresponda al partido político que postula de conformidad con lo estipulado en el convenio.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -4475,49 +4493,93 @@ iii. Los plazos para dicha reposición, en el entendido que el Instituto verific
 
 ###### Artículo 270.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
 
-1. Los datos relativos a precandidaturas, candidaturas, aspirantes a candidaturas independientes y candidaturas independientes, tanto en elecciones federales como locales deberán capturarse en el SNR implementado por el Instituto, el cual constituye un medio que permite unificar los procedimientos de captura de datos.
+1. Los datos relativos a precandidaturas, personas aspirantes a candidaturas independientes, candidaturas y candidaturas independientes, de la totalidad de cargos de elección popular tanto en elecciones federales como locales, deberán capturarse en el SNR implementado por el Instituto, el cual constituye un medio que permite unificar los procedimientos de captura de datos y de registro de candidaturas, candidaturas independientes, precandidaturas y personas aspirantes a candidaturas independientes.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
 
-2. El SNR es una herramienta de apoyo que permitirá detectar registros simultáneos; generar reportes de paridad de género; registrar las sustituciones y cancelaciones de candidaturas, así como conocer la información de los aspirantes. El sistema sirve a los partidos políticos para registrar, concentrar y consultar en todo momento los datos de sus precandidatos y capturar la información de sus precandidaturas y capturar la información de sus candidaturas; de igual forma, cuenta con un formato único de solicitud de registro de candidaturas que se llenará en línea.
+2. El SNR es una herramienta que permite conocer la información completa, en tiempo real, de los registros de las personas aspirantes a candidaturas independientes, precandidaturas, candidaturas y candidaturas independientes, y los registros de éstas que serán sujetos de fiscalización por la UTF; detectar registros simultáneos; generar reportes de paridad de género; registrar las sustituciones y cancelaciones de candidaturas, además, los datos que se contengan en este sistema serán empleados para efectos de otros sistemas del Instituto, tales como el Sistema Integral de Fiscalización y el Sistema de Candidatas y Candidatos, Conóceles, así como para los sistemas que los OPL puedan implementar para el procedimiento de registro. El sistema sirve a los partidos políticos para registrar, concentrar y consultar en todo momento los datos de las personas que ocuparán las precandidaturas y candidaturas; de igual forma, cuenta con un formulario de registro de candidaturas que se llenará en línea.
 
-3. Las especificidades del sistema, detalladas en el Anexo 10.1 del presente Reglamento, deben consistir, por lo menos, en lo siguiente:
+Una vez que el formulario señalado en el párrafo anterior sea presentado al Instituto u OPL, éste se encargará de revisar que la información cargada en el SNR se encuentre completa y sea correcta, conforme a lo dispuesto en el numeral 5 del artículo 267 del presente Reglamento.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 3 DE OCTUBRE DE 2023)</small>
+
+3. Las especificaciones del sistema, detalladas en el Anexo 10.1 del presente Reglamento, deben consistir por lo menos, en lo siguiente:
 
 a) Responsabilidades de los operadores del sistema;
 
 b) Obligaciones del Instituto respecto a la administración del sistema;
 
-c) Obligaciones del Instituto en el registro de precandidaturas, candidaturas, aspirantes a candidaturas independientes y candidaturas independientes a nivel federal;
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
 
-d) Obligaciones de los OPL;
+c) Obligaciones del Instituto en el registro de candidaturas, personas aspirantes a candidaturas independientes y candidaturas independientes a nivel federal;
 
-e) Obligaciones de los partidos políticos;
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
 
-f) Datos de captura en relación con precandidatos y aspirantes a candidaturas independientes;
+d) Obligaciones de los OPL en materia de configuración, verificación, aprobación, aprobación con salvedades y gestión de registros en el SNR;
 
-g) Generación del formato de solicitud de registro de candidatos y aspirantes a candidaturas independientes;
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
 
-h) Datos de captura para la generación de la solicitud de registro de candidaturas;
+e) Obligaciones de los partidos políticos en materia de registro y aprobación de precandidaturas, así como registro y postulación de candidaturas y presentación de avisos de no participación en Precampaña o Campaña, así como la corrección de las inconsistencias o irregularidades por las que el OPL apruebe con salvedades en el SNR;
 
-i) Datos a capturar por el Instituto o los OPL a fin de validar el registro de candidaturas de partido e independientes;
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
 
-j) Uso del sistema, y
+f) Datos de captura en relación con precandidaturas y aspirantes a candidaturas independientes;
 
-k) Plazos para capturar, modificar y validar la información en el Snr; lo anterior, conforme al plan y calendario integral aprobado para la elección.
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+g) Generación del formulario de registro de candidaturas y personas aspirantes a candidaturas independientes;
 
-4. Los partidos políticos tendrán acceso al SNR para la captura de la información de sus candidaturas, con la cuenta de usuario y la contraseña proporcionada previamente por el Instituto o el OPL correspondiente, y serán responsables del uso correcto de las mismas.
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
 
-5. La Utf, en coordinación con la Unicom y la Deppp, brindarán la capacitación a los partidos políticos nacionales respecto al uso del Snr.
+h) Datos de captura para la generación del formulario de registro de candidaturas y candidaturas independientes;
 
-6. Asimismo, la Utf, en coordinación con la Unicom y la Utvopl, llevarán a cabo la capacitación respectiva a los partidos políticos locales y nacionales con registro a nivel estatal para los procesos electorales locales.
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
+
+i) Datos a capturar por el Instituto o los OPL a fin de validar el registro de candidaturas de partido, personas aspirantes y candidaturas independientes;
+
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
+
+j) Uso del sistema,
+
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
+
+k) Plazos para capturar, modificar y validar la información en el Snr; lo anterior, conforme al plan y calendario integral aprobado para la elección y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE OCTUBRE DE 2023)</small>
+
+l) Las acciones a realizar en caso de falla, intermitencia o caída que impida la operación del sistema.
+
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
+
+4. Los partidos políticos tendrán acceso al SNR para la captura de la información de sus precandidaturas y candidaturas, con la cuenta de usuario y la contraseña proporcionada previamente por el Instituto y serán responsables de su uso correcto, comprometiéndose a guardar la confidencialidad de la información que de dicho sistema conozca o genere, en términos de la legislación de la materia.
+
+En el caso de personas aspirantes a candidaturas independientes y candidaturas independientes a cargos de elección popular en el ámbito local, su ingreso se realizará a través de la liga pública, con el folio que proporcione el Instituto a través del OPL.
+
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
+
+5. La UTF, en coordinación con la UTSI y la DEPPP, brindarán la capacitación a los partidos políticos nacionales respecto al uso del SNR.
+
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
+
+6. Asimismo, la UTF, en coordinación con la UTSI y la UTVOPL, llevarán a cabo la capacitación respectiva a los OPL, los partidos políticos locales y nacionales con registro y acreditación a nivel estatal para los procesos electorales locales, así como, en su caso, a las personas aspirantes a candidaturas independientes y candidatas independientes.
 
 7. En ambos casos, dicha capacitación deberá realizarse conforme al plan y calendario integral de capacitación sobre el Snr, cuyo modelo se contiene en el Anexo 10.2 del presente Reglamento, a más tardar, dentro de los treinta días posteriores al inicio del proceso electoral correspondiente.
 
-8. El Opl deberá notificar a la Utvopl el catálogo de cargos del proceso electoral local respectivo, a más tardar, dentro de los treinta días posteriores al inicio del proceso electoral correspondiente. Lo anterior, a efecto de que la Utvopl actualice y valide el catálogo de cargos dentro de los quince días siguientes a su notificación.
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
+
+8. El OPL deberá remitir a la UTF, por conducto de la UTVOPL el catálogo de cargos del proceso electoral local respectivo, a través del formato que para tal efecto se proporcione, a más tardar, treinta días previos al inicio del proceso electoral ordinario correspondiente. Lo anterior, a efecto de que la UTVOPL actualice y valide el catálogo de cargos dentro de los quince días siguientes a su notificación y la UTF actualice el catálogo de cargos en el SNR oportunamente.
+
+Tratándose de proceso electoral extraordinario, la información a que se refiere el párrafo anterior podrá ser remitida a más tardar diez días previos al inicio del proceso de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
+
+9. Derivado de las revisiones que se realicen a los registros capturados en el SNR, la UTF podrá remitir observaciones al OPL con la finalidad de que se garantice que se ha capturado la información y documentación correspondiente al total de registros que se contemplen en sus listas o, en su caso, para que el Instituto notifique al partido político o candidaturas independientes a efecto de que subsanen las irregularidades detectadas en un plazo improrrogable de cuarenta y ocho horas siguientes a que se le informen las observaciones, apercibidos que en caso de no dar cumplimiento, se actualizarán las infracciones establecidas en los artículos 443, numeral 1, inciso m); 446, numeral 1, inciso n) de la LGIPE y se impondrá alguna de las sanciones previstas en el artículo 456, numeral 1, incisos a), c) y d) del mismo ordenamiento legal, mediante el Dictamen y la Resolución correspondiente que apruebe el Consejo General del Instituto, que adicionalmente contemplen las observaciones no subsanadas y la normativa vulnerada.
+
+> <small>(ADICIONADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
+
+10. En todo momento el cumplimiento de los requerimientos, el seguimiento y verificación de la información capturada en el SNR corresponde a los sujetos obligados en todos los procesos electorales, en cuanto a los requisitos del SNR que no subsanen los partidos políticos, el OPL notificará a la autoridad fiscalizadora, para los efectos que corresponda (sic) en el ejercicio de sus atribuciones de fiscalización.
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
@@ -4529,9 +4591,9 @@ k) Plazos para capturar, modificar y validar la información en el Snr; lo anter
 
 ###### Artículo 272.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
 
-1. Concluido el plazo de registro respectivo, el Instituto, a través de la DEPPP, o bien, el área equivalente del OPL, deberá generar en el SNR, las listas de precandidaturas, candidaturas, aspirantes a candidaturas independientes y candidaturas independientes registrados y sus actualizaciones, a efecto de poner a disposición de la ciudadanía la información en su página electrónica en un plazo que no exceda de cinco días.
+1. Concluido el plazo de registro y aprobación respectiva, el Instituto, a través de la DEPPP, o bien, el área equivalente del OPL, deberá generar en el SNR, las listas de precandidaturas, candidaturas, personas aspirantes a candidaturas independientes y candidaturas independientes registradas y sus actualizaciones, a efecto de poner a disposición de la ciudadanía la información en su página electrónica en un plazo que no exceda de cinco días, para tal efecto dichos organismos garantizarán que la información se encuentre correcta, de conformidad con los registros que el Instituto o el OPL apruebe.
 
 2. Las listas únicamente podrán contener la información siguiente:
 
@@ -4547,9 +4609,11 @@ c) Apellido paterno, apellido materno, nombre completo y, en su caso, sobrenombr
 
 d) Cargo y tipo de candidatura: propietario o suplente, mayoría relativa o representación proporcional, según corresponda.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
 
-3. El Instituto o el OPL, según corresponda, deberán mantener permanentemente actualizadas las listas de precandidaturas, candidaturas, aspirantes y candidaturas independientes, de acuerdo a las sustituciones, cancelaciones y modificaciones que se registren.
+3. El Instituto o el OPL, según corresponda, deberán mantener permanentemente actualizadas las listas de precandidaturas, candidaturas, personas aspirantes y candidaturas independientes, de acuerdo a las sustituciones, cancelaciones y modificaciones que se aprueben, inclusive bajo la modalidad de aprobación con salvedades por requisitos pendientes en el SNR, distintos a los requisitos de elegibilidad solicitados por la normativa local.
+
+Para dar cumplimiento a lo dispuesto en el párrafo anterior, por parte de los partidos políticos tratándose del periodo de precampaña, el Instituto o el OPL cuando se trate de los periodos de apoyo ciudadano y campaña según corresponda al ámbito federal o local, serán quienes se encarguen de atender y actualizar en el SNR las sustituciones, cancelaciones y modificaciones de información conforme a los plazos establecidos en el Anexo 10.1 de este Reglamento.
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
@@ -4805,6 +4869,10 @@ b) En caso de que los partidos políticos que participen en forma individual, lo
 
 8. Debe considerarse en las coaliciones el cumplimiento al principio de paridad en las candidaturas, por lo que los OPL deberán vigilar que la coalición observe lo establecido en los artículos 232 y 233 de la LGIPE, en relación con lo dispuesto por el artículo 3, numerales 4 y 5 de la LGPP.
 
+> <small>(ADICIONADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
+
+9. El Instituto o el OPL según corresponda, revisará, validará y realizará la aprobación en el SNR de las fórmulas de candidaturas capturadas por el partido político postulante de la coalición, candidatura común o alianzas partidarias, de conformidad con los convenios aprobados por el Consejo General que corresponda.
+
 > <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2018)</small>
 
 #### SECCIÓN CUARTA. Registro de Candidaturas
@@ -4817,13 +4885,13 @@ b) En caso de que los partidos políticos que participen en forma individual, lo
 
 2. En elecciones federales, en caso que un partido político o coalición pretenda el registro de una candidatura derivada de un acuerdo de participación con una agrupación política nacional o de la propia coalición, el requisito relativo a acreditar que se cumplió con lo dispuesto en los artículos 21, numeral 2, y 92, numeral 1 de la Lgpp, se tendrá por cumplido si el acuerdo de participación o convenio de coalición correspondiente fue registrado por el Consejo General, quedando las solicitudes de registro respectivas, sujetas a la verificación de la documentación que se anexe y que deberá presentarse durante el plazo establecido en la ley aplicable.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
 
-3. El Instituto o, en su caso, el OPL, deberán validar en el sistema, la información de las candidaturas que haya sido capturada por los sujetos postulantes, dentro de las cuarenta y ocho horas posteriores al vencimiento del plazo para el registro de las candidaturas respectivas.
+3. Previo a realizar la aprobación en el SNR, el Instituto o, en su caso, el OPL, deberán verificar en el sistema, la información de las candidaturas que haya sido capturada por los sujetos postulantes, a efecto de realizar en el sistema la aprobación de los registros que cuenten con la información completa y correcta, y en caso de que los registros presenten inconsistencias el Instituto podrá realizar los requerimientos respectivos y, por parte del OPL llevar a cabo la aprobación con salvedades por información pendiente en el SNR en los casos de candidaturas del ámbito local en las que sea necesaria, identificando aquella pendiente de cumplimentar.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
 
-4. Las sustituciones o cancelaciones de candidaturas que fueran presentadas, deberán validarse en el SNR en un plazo no mayor a cuarenta y ocho horas posteriores a la sesión en que hayan sido aprobadas por el Consejo General u Órgano Superior de Dirección, según corresponda.
+4. Las sustituciones o cancelaciones de candidaturas que fueran presentadas, deberán validarse y realizarse en el SNR en un plazo no mayor a cuarenta y ocho horas posteriores a la sesión en que hayan sido aprobadas por el Consejo General u Órgano Superior de Dirección, según corresponda.
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
@@ -4831,9 +4899,13 @@ b) En caso de que los partidos políticos que participen en forma individual, lo
 
 6. El formato de registro deberá presentarse físicamente ante el Instituto o el OPL, según corresponda, con firma autógrafa del representante del partido político ante la autoridad administrativa electoral responsable del registro, anexando la documentación que establezca la normatividad aplicable y dentro de los plazos establecidos por la misma. De no hacerlo así, o bien, cuando no se subsanen en tiempo y forma las omisiones señaladas en el oficio de requerimiento formulado por la autoridad administrativa electoral competente, se tendrá por no presentada la solicitud respectiva, sin responsabilidad para la autoridad electoral.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2023)</small>
 
-7. Los documentos que deban acompañarse a la solicitud de registro de candidaturas previstos en la LGIPE o en la ley electoral local respectiva, que por su naturaleza deban ser presentados en original, es decir, la solicitud de registro, la aceptación de la candidatura y la manifestación por escrito que las candidaturas fueron seleccionadas de conformidad con las normas estatutarias del partido político postulante, deberán contener, invariablemente, la firma autógrafa de la candidatura, y del dirigente o representante del partido político o coalición acreditado ante el Instituto o el OPL para el caso del escrito de manifestación; lo anterior, salvo que se presentaran copias certificadas por Notario Público, en las que se indique que aquellas son reflejo fiel de los originales que tuvo a la vista. De igual forma, tales documentos no deberán contener ninguna tachadura o enmendadura.
+7. Los documentos que deban acompañarse a la solicitud de registro de candidaturas previstos en la LGIPE o en la ley electoral local respectiva, que por su naturaleza deban ser presentados en original, es decir, la solicitud de registro, la aceptación de la candidatura y la manifestación por escrito que las candidaturas fueron seleccionadas de conformidad con las normas estatutarias del partido político postulante, deberán contener, invariablemente, la firma autógrafa de la candidatura, y de la Dirigencia o representación del partido político o coalición acreditada ante el Instituto o el OPL para el caso del escrito de manifestación; lo anterior, salvo que se presentaran copias certificadas por Notario Público, en las que se indique que aquellas son reflejo fiel de los originales que tuvo a la vista. De igual forma, tales documentos no deberán contener ninguna tachadura o enmendadura.
+
+Es responsabilidad del Instituto o el OPL, según corresponda, validar la información en el SNR y verificar que dichos documentos contengan la firma autógrafa de la persona candidata y en caso de omisión, requerir al sujeto obligado para atender las irregularidades detectadas en un lapso que no rebase las cuarenta y ocho horas siguientes a la notificación del requerimiento.
+
+En el supuesto de que no se haya capturado la totalidad de la información en el SNR, el Instituto, requerirá a los sujetos obligados a cumplir con las obligaciones que tengan pendientes y, en los casos de candidaturas del ámbito local, el OPL podrá realizar la aprobación en el citado sistema aun con salvedades en el SNR, de conformidad con lo dispuesto en el artículo 267 del presente Reglamento, en caso de incumplimiento resultarán responsables las personas candidatas independientes o candidatas, así como, en su caso, el partido político postulante, en su calidad de obligado solidario, en términos de la normativa aplicable.
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
@@ -8103,9 +8175,11 @@ DÉCIMO CUARTO. Las actividades y tareas llevadas a cabo con anterioridad al ini
 
 > <small>[N. DE E. VÉASE ANEXO 9.3 MODELO DE RELACIÓN DE REPRESENTANTES ANTE MDC, EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINA 62.]</small>
 
-> <small>[N. DE E. VÉASE ANEXO 10.1 PROCEDIMIENTO PARA LA CAPTURA DE INFORMACIÓN EN EL SISTEMA NACIONAL DE REGISTRO DE PRECANDIDATOS Y CANDIDATOS, EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 63 A LA 70.]</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE OCTUBRE DE 2023)</small>
 
-> <small>[N. DE E. VÉASE REFORMA AL ANEXO 10.1 PROCEDIMIENTO PARA LA CAPTURA DE INFORMACIÓN EN EL SISTEMA NACIONAL DE REGISTRO DE PRECANDIDATOS Y CANDIDATOS, EN LA PRIMERA SECCIÓN DEL D.O.F. DE 10 DE MARZO DE 2017, PÁGINA 120.]</small>
+> <small>[N. DE E. VÉASE ANEXO 10.1 ANEXO 10.1 PROCEDIMIENTO PARA LA OPERACIÓN DEL SISTEMA NACIONAL DE REGISTRO DE PRECANDIDATOS Y CANDIDATOS, EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 63 A LA 70.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 10.1 ANEXO 10.1 PROCEDIMIENTO PARA LA OPERACIÓN DEL SISTEMA NACIONAL DE REGISTRO DE PRECANDIDATOS Y CANDIDATOS, EN LA PRIMERA SECCIÓN DEL D.O.F. DE 10 DE MARZO DE 2017; 3 DE OCTUBRE DE 2023, PÁGINAS DE LA 92 A LA 95.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 10.2 PLAN Y CALENDARIO INTEGRAL DE CAPACITACIÓN RESPECTO AL USO DEL SISTEMA NACIONAL DE REGISTRO DE PRECANDIDATOS Y CANDIDATOS, EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINA 70.]</small>
 
@@ -9928,3 +10002,35 @@ https://www.ine.mx/sesion-ordinaria-del-consejo-general-29-de-noviembre-de-2022/
 Página DOF
 
 www.dof.gob.mx/2022/INE/CGord202211_29_ap_25.pdf
+
+D.O.F. 3 DE OCTUBRE DE 2023.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL CUAL SE REFORMA EL REGLAMENTO DE ELECCIONES Y SU ANEXO 10.1, EN MATERIA DE REGISTRO DE CANDIDATURAS, ASPIRANTES Y CANDIDATURAS INDEPENDIENTES EN EL SISTEMA NACIONAL DE REGISTRO DE PRECANDIDATOS Y CANDIDATOS (SNR)".]</small>
+
+ACUERDO
+
+Primero. Se modifican los artículos del Reglamento de Elecciones: 5, numeral 1, inciso ff), 267, numeral 2; 270, numerales 1, 2, 3, incisos c), d), e), f), g), h), i) y l), 4, 5, 6 y 8; 272, numerales 1 y 3; 281, numerales 3, 4 y 7; Se adicionan: los numerales 5 y 6 del artículo 267; los numerales 9 y 10 del artículo 270; numeral 9 del artículo 280.
+
+[...]
+
+Segundo. Se aprueba la modificación del Anexo 10.1 “Procedimiento para la operación del Sistema Nacional de Registro de Precandidatos y Candidatos” que es parte integral del Reglamento de Elecciones, que corresponde y complementa reformas referidas en el punto anterior, mismo que se adjunta de manera integral con las reformas aprobadas al presente acuerdo y forma parte de este.
+
+[...]
+
+Tercero. Se instruye a la Unidad Técnica de Vinculación con los Organismos Públicos Electorales dar a conocer el contenido del presente acuerdo a las presidencias de los Consejos Generales de los OPL, a fin de que realicen las previsiones correspondientes para su cumplimiento y lo hagan del conocimiento de los sujetos obligados en el ámbito local.
+
+Cuarto. Se instruye a la Unidad Técnica de Fiscalización, a realizar las gestiones necesarias ante la Dirección de Secretariado y la Dirección Jurídica de este Instituto, para que, en el ámbito de sus respectivas competencias, realicen las modificaciones al articulado y al compilado de anexos del Reglamento de Elecciones, en términos de lo previsto en los puntos primero y segundo del presente acuerdo.
+
+Quinto. El presente acuerdo, las modificaciones al Reglamento de Elecciones y su anexo 10.1 “Procedimiento para la operación del Sistema Nacional de Registro de Precandidatos y Candidatos”, entrarán en vigor al día siguiente de su aprobación por el Consejo.
+
+[...]
+
+El Acuerdo y el anexo pueden ser consultados en las siguientes direcciones electrónicas:
+
+Página INE:
+
+https://www.ine.mx/sesion-ordinaria-del-consejo-general-25-de-agosto-de-2023/
+
+Página DOF
+
+www.dof.gob.mx/2023/INE/CGord202308_25_ap_30.pdf
