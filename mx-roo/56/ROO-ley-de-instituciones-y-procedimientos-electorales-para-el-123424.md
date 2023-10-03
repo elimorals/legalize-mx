@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-instituciones-y-procedimientos-electorales-para-el-12342
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2023-07-13"
+last_updated: "2023-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 21 de septiembre de 2017.
 
@@ -4877,6 +4877,144 @@ En caso de sustitución o renuncia, deberá presentarse la documentación que ac
 
 Para efectos de la renuncia de candidaturas, se requerirá de la ratificación del candidato en un término no mayor a veinticuatro horas, para ello el partido político interesado deberá proporcionar el domicilio del candidato donde pueda ser notificado personalmente; en caso de fenecer el término aludido sin que se lleve a cabo la ratificación, se entenderá que el candidato renuncia a la misma. El procedimiento referido con antelación, se hubiere presentado personalmente por el propio candidato en la Oficialía Electoral del Instituto Estatal.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 284 Bis.
+
+Los partidos políticos, podrán postular vía reelección a los cargos de presidencias municipales, sindicaturas y regidurías de los Ayuntamientos que hubieran resultado electos como propietarios o suplentes en el proceso electoral local inmediato anterior, en pleno ejercicio de su derecho de autodeterminación, atendiendo en primera instancia a lo siguiente:
+
+I. La reelección se podrá ejercer de manera individual por las personas que ocupen los cargos en las Presidencias Municipales, Sindicaturas y Regidurías que hubieran resultado electas como propietarias o suplentes.
+
+II. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+III. En el caso de las Regidurías, se considerará reelección al cargo, independientemente de que la postulación en cuanto a la posición numeral fuera distinta a la de la regiduría que desempeñó.
+
+IV. Además de cumplir con los requisitos constitucionales y legales para la postulación, adjunto a la solicitud de registro correspondiente, deberá presentarse una carta con firma autógrafa de quienes se postulen a las presidencias municipales, sindicaturas y regidurías, especificando los periodos para los que han sido electas anteriormente en ese cargo.
+
+V. Los partidos políticos deberán garantizar la paridad de género, tanto vertical, como horizontal, conforme a la Constitución Federal, la Constitución del Estado, esta Ley y los Acuerdos que emita el Consejo General, asegurando la compatibilidad con el derecho de reelección. Se priorizará el cumplimiento y observancia del principio de paridad de género frente al derecho de reelección.
+
+VI. Los partidos políticos deberán garantizar que las personas postuladas por la vía de la reelección, no tengan sanciones por resolución de autoridad jurisdiccional competente y/o en su caso, sentencias firmes por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijurídicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, ni ser deudoras alimentarias morosas, al momento de la postulación, de conformidad con lo establecido por la fracción VII del artículo 43 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+VII. La reelección no será una excepción para el cumplimiento de la obligación de postular una fórmula de candidaturas jóvenes en la integración de planillas de los Ayuntamientos, con fundamento en el artículo 275, párrafo tercero, de esta Ley.
+
+VIII. Las personas que pretendan participar en la reelección, a más tardar un día antes del inicio de la precampaña, deberán notificar a través de una carta su intención al Consejo General, al Cabildo del Ayuntamiento que corresponda, así como a la presidencia del partido político respectivo.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 284 Ter.
+
+En caso de proceder el registro de la candidatura que corresponda vía reelección, las y los integrantes de los Ayuntamientos, en su calidad de candidata o candidato deberán observar lo siguiente:
+
+I. Las y los integrantes de los Ayuntamientos con intención de reelección podrán continuar desempeñando sus funciones y cargos durante todas las etapas del proceso electoral o bien, podrán separarse del cargo, quedando en todos los casos como discrecional el ejercicio de ese derecho.
+
+II. Las y los integrantes de los Ayuntamientos que deseen buscar la reelección, deberán de notificar al Instituto con veinticuatro horas de antelación al inicio del periodo de campañas, si permanecerá (sic) desempeñando las funciones de su encargo o bien, optará (sic) por la separación.
+
+III. En caso de optar por separarse del cargo, deberá hacerse del conocimiento del Instituto, mediante oficio que remita a la Dirección respectiva de su Junta General, el partido que haya postulado la candidatura, a través de su representante ante el Consejo General, en un término de veinticuatro horas contadas a partir de la presentación de la licencia correspondiente por parte del órgano competente para el efecto.
+
+IV. Las personas integrantes de los Ayuntamientos con intenciones de postularse por reelección que se hayan separado del cargo estarán sujetas a lo establecido en la Ley de los Municipios del Estado de Quintana Roo y las disposiciones de la materia electoral.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 284 Quáter.
+
+Quienes hayan manifestado su interés en la reelección a cargos de presidencias municipales, sindicaturas y regidurías de los Ayuntamientos, que optaren por no separarse del cargo, no deberán realizar actos de campaña durante las actividades y demás eventos relacionados con las funciones propias de su encargo. De igual forma, deberán de atender las siguientes disposiciones:
+
+I. No deberán dejar de acudir a las sesiones o reuniones del Ayuntamiento por realizar actos de campaña;
+
+II. No deberán utilizar recursos públicos ya sea humanos, materiales o económicos que le correspondan para el ejercicio de su encargo, con la finalidad de salvaguardar los principios de neutralidad y equidad;
+
+III. No deberán hacer uso de los tiempos en radio y televisión que contrate el Ayuntamiento para fines de difusión oficial, ni utilizar los portales de internet y redes sociales de dependencias gubernamentales para promover su imagen y el voto a su favor o bien, para afectar la imagen de otra candidata o candidato a cargo de elección popular, partidos políticos, coaliciones y candidaturas independientes;
+
+IV. No deberán comisionar ni permitir ausencias del personal a su cargo en días y horas hábiles para llevar a cabo labores de logística y proselitismo en favor de su candidatura ni en perjuicio de otra candidata o candidato que aspire a algún cargo de elección popular, partidos políticos, coaliciones y candidaturas independientes;
+
+V. No deberán celebrar, ni participar en eventos masivos en donde se realice entrega de programas sociales y entrega de obra pública que afecten el principio de la equidad en la contienda electoral;
+
+VI. Se deberán abstener de la utilización de vehículos oficiales para el traslado de personal y logística con fines propagandísticos a favor de su candidatura o en perjuicio de cualquiera de sus contendientes, partidos políticos, coaliciones y candidaturas independientes;
+
+VII. No deberán condicionar la entregar de programas sociales de índole federal, estatal o municipal, ya sea en dinero, especie o realización de obras o suspensión de estas;
+
+VIII. No deberán retener la credencial para votar como condición para la entrega de programas sociales en dinero, especie u otras, y
+
+IX. Deberán cumplir con las obligaciones inherentes a su encargo.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 284 Quinquies.
+
+Los partidos políticos, coaliciones o candidaturas comunes podrán postular a reelección a las diputaciones que hubieran resultado electas como propietarias o suplentes ya sea por mayoría relativa o representación proporcional en el proceso local inmediato anterior, en pleno ejercicio de su derecho de autodeterminación, atendiendo en primera instancia a lo siguiente:
+
+I. Si una persona suplente ejerció una diputación en algún momento, tiene la misma potestad normativa de ser elegida consecutivamente como persona legisladora, sea como propietaria o nuevamente como suplente.
+
+II. Las diputaciones que resultaron electas por mayoría relativa podrán postularse a reelección por mayoría relativa o por representación proporcional y las personas legisladoras electas por representación proporcional, podrán postularse a reelección por esa vía o por mayoría relativa.
+
+III. Las diputaciones deberán de postularse a reelección en el distrito por el que obtuvieron el triunfo.
+
+IV. Las diputaciones, en funciones o que hayan asumido el cargo, podrán acceder a la reelección por un periodo adicional. Las y los suplentes podrán ser electos para el periodo inmediato con el carácter de personas propietarias.
+
+V. Las diputaciones propietarias que se postulen a reelección, no podrán ser electos para el periodo inmediato con el carácter de suplentes.
+
+VI. En caso de que el partido político nacional o local que postuló la candidatura de una persona que pretenda su reelección haya perdido su registro, podrán ser postuladas por cualquier partido político.
+
+VII. Los partidos políticos deberán garantizar la paridad de género, tanto vertical, como horizontal, conforme a la Constitución Federal, la Constitución del Estado, esta Ley y los Acuerdos que emita el Consejo General, asegurando la compatibilidad con el derecho de reelección. Se priorizará el cumplimiento y observancia del principio de paridad de género frente al derecho de elección consecutiva.
+
+VIII. Los partidos políticos deberán garantizar que las personas postuladas por la vía de la reelección, no tengan sanciones por resolución de autoridad jurisdiccional competente y/o, en su caso, sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijuridicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, ni ser deudoras alimentarias morosas, al momento de la postulación, de conformidad con lo dispuesto en la fracción VII del artículo 43 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+IX. Las personas que pretendan participar en reelección, a más tardar un día antes del inicio de la precampaña, deberán notificar a través de una carta la intención al Consejo General, a la presidencia de la Mesa Directiva de la Legislatura, así como a la presidencia del partido político respectivo.
+
+X. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+XI. Bajo este supuesto, el partido político que postule la candidatura correspondiente podrá hacerlo, con independencia de que en el proceso local participe en el distrito electoral respectivo de manera individual o coaligado, ya sea con los mismos partidos políticos que integraron la coalición en el proceso electoral inmediato anterior o con otro distinto.
+
+XII. Además de cumplir con los requisitos constitucionales y legales para ser postuladas, adjunto a la solicitud de registro correspondiente, deberá de presentar una carta con firma autógrafa de las y los diputados, especificando los periodos para los que han sido electas o electos en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución Federal, la Constitución Local y los ordenamientos electorales, en lo relativo a reelección.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 284 Sexies.
+
+En caso de proceder el registro de candidaturas vía reelección, las diputadas y los diputados, en su calidad de candidatas o candidatos deberán observar lo siguiente:
+
+I. Podrán continuar desempeñando sus funciones y cargos durante todas las etapas del proceso electoral o bien, podrán separase (sic) del cargo, quedando en todos los casos esta facultad discrecional a cada candidatura.
+
+II. Deberá de notificar al Instituto con veinticuatro horas de antelación al inicio del periodo de campañas, si permanecerá desempeñando las funciones de su encargo o bien, si optó por la separación.
+
+III. En caso de optar por separase (sic) del cargo, deberá hacerse del conocimiento del Instituto, mediante oficio que remita a la Dirección correspondiente el mismo el (sic) partido que haya postulado la candidatura, a través de su representante ante el Consejo General del propio Instituto, en un término de veinticuatro horas contadas a partir de la presentación de la licencia correspondiente por parte del órgano competente para el efecto.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 284 Septies.
+
+Las personas postuladas por la vía de reelección a cargos de diputaciones y que no se separen del cargo, no podrán realizar actos de campaña durante las actividades y demás eventos relacionados con las funciones propias de su encargo. De igual forma, deberán atender las siguientes disposiciones:
+
+I. No deberán dejar de acudir a las sesiones o reuniones del órgano legislativo por realizar actos de campaña;
+
+II. No deberán realizar actos de campaña en días y horas hábiles propias de su encargo;
+
+III. No deberán ausentarse de las actividades propias de su encargo para hacer precampaña y campaña;
+
+IV. En el desempeño de sus funciones como diputada o diputado, tienen estrictamente prohibido llamar al voto, hacer actos de proselitismo o en su caso emitir opinión a favor o en contra de algún partido político, coalición o candidatura alguna;
+
+V. No deberán utilizar recursos públicos, ya sea humanos, materiales o económicos que le correspondan para el ejercicio de su encargo, con la finalidad de salvaguardar los principios de neutralidad y equidad en la contienda;
+
+VI. No deberán utilizar recursos públicos a los que tienen acceso derivado del cargo que ocupan para el financiamiento de las precampañas o campañas o cualquier otra etapa del proceso electoral o actividad que promuevan su imagen o bien, que perjudiquen a candidatas y candidatos que aspiren a algún cargo de elección popular;
+
+VII. No deberán hacer uso de los tiempos de radio y televisión que contrate el Congreso local para fines de difusión oficial, ni utilizar los portales de internet y redes sociales de dependencias gubernamentales para promover su imagen y el voto a su favor o bien, para afectar la imagen de otra candidatura a cargo de elección popular, partidos políticos, coaliciones y candidaturas comunes e independientes;
+
+VIII. No deberán comisionar ni permitir ausencias del personal en días y horas hábiles para llevar a cabo labores de logística y proselitismo en favor de su candidatura ni en perjuicio de otra candidata o candidato que aspire a algún cargo de elección popular, partidos políticos, coaliciones y candidaturas comunes e independientes;
+
+IX. No deberán condicionar los apoyos o gestiones a cambio de obtener votos o simpatizantes, y
+
+X. No deberán retener la credencial para votar como condición para la entrega de apoyos o gestiones en dinero, especie u otras.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 284 Octies.
+
+Adicional a lo dispuesto en los artículos anteriores, las candidaturas deberán de atender las disposiciones previstas en la Constitución Federal y Constitución Local, así como las establecidas en los ordenamientos electorales en materia de uso de recursos públicos.
+
+La aplicación de tales recursos públicos deberá ser e (sic) conformidad con lo establecido en los párrafos séptimo y octavo del artículo 134 de la Constitución Federal. Esto es aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos y en consecuencia no obtener una ventaja indebida respecto a las demás personas contendientes en el proceso electoral.
+
+El incumplimiento de las condiciones que preceden será sancionado conforme a lo establecido en la Constitución Federal, Constitución Local, la Ley y demás disposiciones normativas aplicables en materia de responsabilidad administrativa.
+
 ### CAPÍTULO TERCERO. DE LA CAMPAÑA ELECTORAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
@@ -7228,3 +7366,13 @@ P.O. 13 DE JULIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 104 POR EL QUE ADICIONAN LOS ARTÍCULOS 284 BIS, 284 TER, 284 QUÁTER, 284 QUINQUIES, 284 SEXIES, 284 SEPTIES Y 284 OCTIES A LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO".]
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Para los efectos del proceso electoral local ordinario 2024, atendiendo a que existe una nueva demarcación territorial de los distritos electorales uninominales locales en que se divide el Estado de Quintana Roo y sus respectivas cabeceras distritales y con la única finalidad de acceder a la reelección en la modalidad de diputación por mayoría relativa, sus aspirantes deberán cumplir con los requisitos plasmados en la Constitución Estatal, la presente ley y los lineamientos que, en su caso, emita el Instituto Estatal, salvo el extremo previsto en la fracción III del artículo 284 quinquies de la presente ley.
+
+Tercero. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
