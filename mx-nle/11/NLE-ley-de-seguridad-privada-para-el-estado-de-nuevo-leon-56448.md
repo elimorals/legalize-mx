@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-privada-para-el-estado-de-nuevo-leon-56448"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-25"
-last_updated: "2021-05-17"
+last_updated: "2023-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE NUEVO LEON
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de julio de 2007.
 
@@ -43,9 +43,19 @@ LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE NUEVO LEÓN
 
 ### Capítulo Único. Prevenciones Generales
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 1.
 
-La presente Ley tiene por objeto regular la prestación de servicios de seguridad privada en el territorio del Estado, en las modalidades previstas en esta Ley, así como la infraestructura, equipo e instalaciones inherentes a las mismas. Sus disposiciones son de orden público e interés social y de observancia general en todo el territorio estatal.
+La presente Ley tiene por objeto regular las actividades y prestación de servicios de seguridad privada en todas sus modalidades en el territorio del Estado, así como la infraestructura, equipo e instalaciones inherentes a las mismas en el ámbito de competencia del Estado de Nuevo León.
+
+Los servicios se prestarán tomando en cuenta los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, evitando en todo momento arbitrariedades y violencia, actuando en congruencia y proporcionalidad en la utilización de sus facultades y medios disponibles.
+
+Sus disposiciones son de orden público e interés social y de observancia general en todo el territorio estatal.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2023)</small>
+
+Artículo 1 BIS.- Es responsabilidad del Estado de Nuevo León a través de la Secretaria de Seguridad controlar, supervisar y vigilar que las actividades y servicios de seguridad privada, se lleven a cabo con apego a la normatividad aplicable en la materia, así como a las políticas, programas y estrategias diseñadas por la administración pública del Estado.
 
 ###### Artículo 2.
 
@@ -85,7 +95,9 @@ III.- Persona física.- Quien sin constituir una empresa, presta servicios de se
 
 IV.- Personal Operativo. Los individuos que prestan servicios de seguridad privada, contratados por personas físicas, morales privadas o por los Municipios, con el objeto de brindar el servicio en colonias, fraccionamientos y zonas residenciales;
 
-V.- Secretaría.- La Secretaría de Seguridad Pública del Estado;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2023)</small>
+
+V.- Secretaría.- La Secretaría de Seguridad del Estado;
 
 VI.- Dirección.- La Dirección de Control y Supervisión a Empresas y Servicios de Seguridad Privada, dependiente de la Secretaría de Seguridad Pública del Estado;
 
@@ -107,7 +119,9 @@ La aplicación e interpretación, en el ámbito administrativo de la presente Le
 
 I.- La regulación y registro de los prestadores de servicios, a fin de prevenir la comisión de delitos;
 
-II.- La regulación y registro del personal operativo, para evitar que personas no aptas desde el punto de vista legal, presten servicios de seguridad privada;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2023)</small>
+
+II.- El registro del personal operativo, para evitar que personas no aptas desde el punto de vista legal, presten servicios de seguridad privada;
 
 III.- El fortalecimiento de la seguridad pública, bajo un esquema de coordinación de la Secretaría con el prestador de servicios, para lograr en beneficio de los particulares y con apego a la legalidad, las mejores condiciones de seguridad;
 
@@ -135,9 +149,11 @@ Los prestadores de servicios de seguridad privada son auxiliares a la función d
 
 La autorización obtenida para funcionar como prestador de servicios de seguridad privada, no faculta para realizar investigaciones, intervenir o interferir en asuntos que sean competencia del Ministerio Público u (sic) instituciones de seguridad pública, aún en los lugares o áreas de trabajo del personal operativo, en caso de que sucedan hechos que ameriten la intervención de la autoridad, la función de dicho personal operativo cesará en cuanto hagan acto de presencia los Agentes del Ministerio Público o instituciones policiales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 7.
 
-No se podrá prestar el servicio de seguridad privada sin el registro y la autorización correspondiente; las personas físicas o morales que sin haberlos obtenido proporcionen el servicio en cualquiera de sus modalidades serán sancionados en los términos previstos en esta Ley y su Reglamento, sin perjuicio de la responsabilidad civil y penal que pudiere resultar.
+No se podrá prestar el servicio de seguridad privada sin el registro y la autorización correspondiente por parte de la Secretaría; las personas físicas o morales que sin haberlos obtenido proporcionen el servicio en cualquiera de sus modalidades serán sancionados en los términos previstos en esta Ley y su Reglamento, sin perjuicio de la responsabilidad civil y penal que pudiere resultar.
 
 Los prestadores de servicios con autorización federal antes de ejercer sus actividades en el Estado deberán de efectuar el registro correspondiente.
 
@@ -255,6 +271,10 @@ Es competencia de la Secretaría, por conducto de la Dirección, autorizar los s
 
 I.- SEGURIDAD PRIVADA A PERSONAS. Consiste en la protección, custodia, salvaguarda, defensa de la vida y de la integridad corporal del prestatario;
 
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2023)</small>
+
+I BIS.- SEGURIDAD PRIVADA EN EVENTOS MASIVOS. Se refiere a la salvaguarda, protección, integridad corporal, defensa de la vida y custodia de los prestatarios en eventos públicos o privados, en los cuales exista una afluencia masiva de estos;
+
 II.- SEGURIDAD PRIVADA EN LOS BIENES. Se refiere al cuidado y protección de bienes muebles e inmuebles;
 
 III.- SEGURIDAD PRIVADA EN EL TRASLADO DE BIENES O VALORES. Consiste en la prestación de servicios de custodia, vigilancia, y protección de bienes muebles o valores, incluyendo su traslado;
@@ -269,7 +289,9 @@ c) El kilometraje recorrido en cada arrendamiento.
 
 Las autoridades encargadas de regular la propiedad de los vehículos automotores deberán informar a la Dirección, en los cinco días hábiles siguientes al en que se verifiquen; los cambios de propietario de unidades blindadas, cuando éstas sean enajenadas incluyendo este equipo, expresando con claridad el nombre, domicilio y datos de identificación del nuevo propietario, así como del vehículo.
 
-IV.- SEGURIDAD DE LA INFORMACIÓN. Consiste en la preservación, integridad y disponibilidad de la información del prestatario, a través de sistemas de administración de seguridad, de bases de datos redes locales, corporativas y globales, sistemas de cómputo, transacciones electrónicas, así como respaldo y recuperación de dicha información, sea ésta documental, electrónica o multimedia.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2023)</small>
+
+IV.- SEGURIDAD DE LA INFORMACIÓN. Consiste en la preservación, integridad y disponibilidad de la información del prestatario, a través de sistemas de administración y resguardo de seguridad, de bases de datos, redes locales, corporativas y globales, sistemas de cómputo, transacciones electrónicas, así como respaldo y recuperación de dicha información, sea documental, electrónica o multimedia.
 
 V.- SISTEMAS DE PREVENCIÓN Y RESPONSABILIDADES. Se refieren a la prestación de servicios para obtener informes de antecedentes, solvencia, localización o actividades de personas;
 
@@ -429,11 +451,13 @@ Este requisito no aplicará tratándose de los Municipios.
 
 ### Capítulo V. De la Capacitación
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 28.
 
-Los prestadores de servicios estarán obligados a capacitar a su personal operativo. Dicha capacitación podrá llevarse a cabo en la Universidad de Ciencias de la Seguridad, o en centros de capacitación privados, mismos que deberán ser autorizados y revalidados anualmente por la Dirección. El Reglamento establecerá los tiempos, formas y plazos para ello.
+Los prestadores de servicios estarán obligados a capacitar a su personal operativo. Dicha capacitación podrá llevarse a cabo en la Universidad de Ciencias de la Seguridad. El Reglamento establecerá los tiempos, formas y plazos para ello, otorgándose dicha capacitación como mínimo de forma trimestral.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2017)</small>
 
 Tratándose de los Municipios, su personal deberá formarse en sus Academias de Policía, con una capacitación diferenciada, de acuerdo a su función.
 
@@ -455,7 +479,9 @@ Son obligaciones de los prestadores de servicios:
 
 I.- Prestar los servicios de seguridad privada en los términos y condiciones establecidos en la autorización que les haya sido otorgada o, en su caso, en su revalidación o modificación;
 
-II.- Proporcionar periódicamente capacitación y adiestramiento, acorde a las modalidades de prestación del servicio, al total de elementos;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2023)</small>
+
+II.- Proporcionar periódicamente capacitación y adiestramiento, acorde a las modalidades de prestación del servicio, al total de los integrantes, las cuales deberán otorgarse por lo menos cada tres meses;
 
 III.- Utilizar únicamente el equipo y armamento registrado;
 
@@ -730,3 +756,11 @@ P.O. 17 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 489. SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 26 DE LA LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 416. SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 1, LA SEGUNDA FRACCIÓN DEL ARTÍCULO 3, EL PÁRRAFO PRIMERO DEL ARTÍCULO 7, LA FRACCIÓN IV DEL ARTÍCULO 17, EL PRIMER PÁRRAFO DEL ARTÍCULO 28 Y LA FRACCIÓN II DEL ARTÍCULO 31, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 1 RECORRIENDO EL SUBSECUENTE, EL ARTÍCULO 1 BIS Y LA FRACCIÓN I BIS DEL ARTÍCULO 17, DE LA LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+SEGUNDO.- El Ejecutivo del Estado (sic) con un plazo de noventa días, contados a partir de la entrada en vigor de la presente Ley, para realizar las adecuaciones a sus respectivos Reglamentos.
