@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2023-08-23"
+last_updated: "2023-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2023.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -2421,17 +2421,37 @@ ARTICULO 189 BIS.- Comete el delito de acoso laboral, a quien en el entorno de t
 
 (DEROGADO, P.O. 27 DE AGOSTO DE 2007)
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 4 DE OCTUBRE DE 2023)</small>
 
-### CAPITULO II. CALUMNIA
+### CAPITULO II. DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD Y LA IDENTIDAD SEXUAL
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 193.
 
-(DEROGADO, P.O. 27 DE AGOSTO DE 2007)
+Comete el delito de terapias de conversión quien realice, imparta, aplique, obligue o financie cualquier tipo de tratamiento, servicio o práctica que obstaculice, restrinja, impida, menoscabe, anule o suprima la orientación sexual, identidad de género o expresión de género de una persona y derivado de estos se afecte su integridad física, moral o psicoemocional, se le impondrá de dos a seis años de prisión y de doscientos a cuatrocientos días multa.
+
+Se entiende por terapias de conversión a los tratamientos, servicios, o prácticas cualquiera que sea su denominación a las sesiones psicológicas, psiquiátricas, métodos o tratamientos que tengan por objeto anular, obstaculizar, reprimir o menoscabar la expresión de género o identidad de género, así como la orientación sexual de la persona, en las que se emplea violencia física, moral o psicoemocional, mediante tratos crueles, inhumanos o degradantes que atenten contra la dignidad humana.
+
+Cuando la conducta descrita en el párrafo primero sea cometida por el padre, madre o tutor de la víctima, se le impondrá prisión de tres meses a un año o de cien a doscientos días multa. Asimismo, se le impondrá como medida integral tratamiento psicológico especializado por el tiempo necesario que el profesionista en la materia considere pertinente, bajo la supervisión de la autoridad ejecutora.
+
+A las penas previstas en los párrafos primero y tercero en el presente artículo, se aumentarán hasta en una mitad más, cuando concurra alguna o algunas de las circunstancias siguientes:
+
+a) Sea cometida en contra de niñas, niños y adolescentes, adultos mayores o personas con alguna discapacidad;
+
+b) Exista una relación laboral, docente, doméstica, médica o cualquier otra que implique una subordinación de la víctima; y
+
+c) Cuando se valga de la función pública para cometer el delito.
+
+En los casos de los incisos b) y c), además de las sanciones señaladas en el párrafo primero, se le destituirá del empleo, cargo o comisión públicos e inhabilitará para ocupar o ejercer otro similar por un término igual a la pena impuesta y, según sea el caso, se le suspenderá en el ejercicio de la profesión hasta por un tiempo igual al de la pena de prisión.
+
+Este delito se perseguirá por querella de parte, excepto en el supuestos (sic) en que la víctima sea niña, niño o adolescente, persona con discapacidad, o adulto mayor que serán perseguibles de oficio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 194.
 
-(DEROGADO, P.O. 27 DE AGOSTO DE 2007)
+En los casos en que el sentenciado acredite que no puede garantizar la atención médica, psicológica o de la especialidad que requiera, el Estado deberá proporcionar esos servicios a la víctima.
 
 ###### ARTICULO 195.
 
@@ -5414,3 +5434,11 @@ P.O. 23 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 535 QUE REFORMA LAS FRACCIONES VIII Y IX, Y ADICIONA LA FRACCIÓN X AL ARTÍCULO 216 DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 4 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 546 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL, LEY DE SALUD, LEY DE SALUD MENTAL Y LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN, TODOS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
