@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2023-08-07"
+last_updated: "2023-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1165,19 +1165,25 @@ IV. Cuando se cometa con discriminación a razón de alguna característica espe
 
 V. Cuando el responsable tenga o haya tenido relación de pareja o de carácter conyugal, sea pariente consanguíneo o civil en línea recta, ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo, civil o afín hasta el cuarto grado, con la víctima;
 
-VI. Cuando la víctima esté sujeta a patria potestad, tutela, curatela o custodia del responsable; o
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2021)</small>
+VI. Cuando la víctima esté sujeta a patria potestad, tutela, curatela o custodia del responsable
 
-VII. Cuando las lesiones se hayan cometido por mutilación, con sustancias corrosivas o hayan sido en los órganos genitales o glándulas mamarias de la víctima.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2023)</small>
+VII. Cuando las lesiones se hayan cometido por mutilación, con sustancias corrosivas o hayan sido en los órganos genitales o glándulas mamarias de la víctima;
 
-En el caso de homicidio doloso calificado a que se refieren las fracciones I a la III, se aplicará al responsable de 15 a 40 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados. En el caso de las fracciones IV a la VI se aplicará al responsable de 20 a 50 años de prisión, de 500 a 1000 días de multa y pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2023)</small>
+VIII. Cuando la víctima sea una persona integrante de alguna de las Instituciones de Seguridad Pública, o de sus corporaciones auxiliares de acuerdo con la Ley del Sistema Estatal de Seguridad Pública de Aguascalientes, y el resultado se provoque con motivo del ejercicio de sus funciones.
 
-Si las lesiones dolosas son calificadas, la punibilidad establecida en el artículo 104 se aumentará hasta en dos terceras partes en sus mínimos y máximos, en tratándose de los supuestos de las fracciones V, VI y VII del presente artículo.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2023)</small>
+
+En el caso de Homicidio Doloso Calificado a que se refieren las fracciones I, II, III y VIII, se aplicará al responsable de 15 a 40 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados. En el caso de las Fracciones IV a la VI se aplicará al responsable de 20 a 50 años de prisión, de 500 a 1000 días de multa y pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2023)</small>
+
+Si las lesiones dolosas son calificadas, la punibilidad establecida en el artículo 104 se aumentará hasta en dos terceras partes en sus mínimos y máximos, en tratándose de los supuestos de las fracciones V, VI, VII y VIII del presente artículo.
 
 ###### ARTÍCULO 108.
 
@@ -3882,3 +3888,9 @@ P.O. 7 DE AGOSTO DE 2023.
 ###### ARTICULO UNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el periódico Oficial del Estado de Aguascalientes.
+
+P.O. 4 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 426.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Estado de Aguascalientes.
