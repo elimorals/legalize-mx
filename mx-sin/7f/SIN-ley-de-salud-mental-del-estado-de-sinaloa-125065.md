@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-mental-del-estado-de-sinaloa-125065"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-27"
-last_updated: "2017-12-27"
+last_updated: "2023-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SALUD MENTAL DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2023.
 
 Ley publicada en el Número 163 del Periódico Oficial de Sinaloa, el miércoles 27 de diciembre de 2017.
 
@@ -439,9 +439,29 @@ La Secretaría se coordinará con la Comisión Estatal de Prevención, Tratamien
 
 En el Reglamento se deberán establecer las atribuciones que les corresponde ejercer al personal de salud responsables de atender a personas con trastornos mentales y del comportamiento.
 
-### CAPÍTULO VIII. DEL INTERNAMIENTO EN INSTITUCIONES DEL SECTOR PÚBLICO, SOCIAL O PRIVADO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE OCTUBRE DE 2023)</small>
 
-### CAPÍTULO IX. DEL INSTITUTO SINALOENSE DE SALUD MENTAL
+### CAPÍTULO VII BIS. DE LAS TERAPIAS CON ENFOQUE BASADO EN DERECHOS HUMANOS
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 55 Bis.
+
+En la prestación de servicios de orientación, asesoría y apoyo psicoterapéutico a personas que se sienten en conflicto por su orientación sexual, su identidad de género o su expresión de género, se deberá tener en cuenta que los síntomas, malestares y problemáticas de salud mental que puedan presentar los pacientes, no se derivan de su condición humana, al no ser un trastorno mental la orientación sexual, la identidad de género o la expresión de género de una persona.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2023)</small>
+
+Artículo 55 Bis A. Al momento de atender a personas que se sienten en conflicto por su orientación sexual, su identidad de género o su expresión de género, el psicoterapeuta deberá:
+
+I. Identificar y manejar sesgos y prejuicios propios interiorizados sobre la diversidad sexual que pudieran tener influencia negativa en la percepción y atención que brindan a pacientes que le consultan.
+
+II. Proporcionar información precisa, objetiva y veraz sobre la diversidad sexual a pacientes que cuenten con una información inadecuada o se sientan confundidos.
+
+III. Encaminar los esfuerzos de la terapia al crecimiento individual de los pacientes y al reconocimiento de su persona y de su orientación sexual, identidad de género o expresión de género.
+
+IV. Ayudar a los pacientes a generar inmunidad y neutralizar los efectos del estigma social.
+
+### CAPÍTULO VIII. DEL INTERNAMIENTO EN INSTITUCIONES DEL SECTOR PÚBLICO, SOCIAL O PRIVADO
 
 ###### Artículo 56.
 
@@ -515,7 +535,7 @@ En caso de que sea un menor de edad o el internamiento sea por orden de autorida
 
 Las instituciones del sector público, social o privado en donde se encuentre internada la persona con trastorno mental y del comportamiento, deberán llevar un registro de las visitas que le hagan los familiares, por lo que en caso de que no reciba visita durante un periodo máximo de 30 días, la institución deberá dar el aviso correspondiente al Ministerio Público, por la posible configuración del delito de omisión de cuidado.
 
-### CAPÍTULO X. DEL CONSEJO ESTATAL DE SALUD MENTAL
+### CAPÍTULO IX. DEL INSTITUTO SINALOENSE DE SALUD MENTAL
 
 ###### Artículo 66.
 
@@ -563,7 +583,7 @@ XVIII. Las demás que le señalen esta Ley, su Reglamento y demás disposiciones
 
 La integración del Instituto será prevista en el Reglamento interior de la Secretaría.
 
-### CAPÍTULO XI. DEL SISTEMA DE INFORMACIÓN, VIGILANCIA Y EVALUACIÓN
+### CAPÍTULO X. DEL CONSEJO ESTATAL DE SALUD MENTAL
 
 ###### Artículo 68.
 
@@ -649,7 +669,7 @@ VII. Aprobar sus normas, lineamientos y políticas internas; y
 
 VIII. Las demás que le señalen esta Ley, su Reglamento y demás disposiciones aplicables.
 
-### CAPÍTULO XII. DEL FINANCIAMIENTO EN SALUD MENTAL
+### CAPÍTULO XI. DEL SISTEMA DE INFORMACIÓN, VIGILANCIA Y EVALUACIÓN
 
 ###### Artículo 72.
 
@@ -671,7 +691,7 @@ V. Elaborar y difundir encuestas, estudios, investigaciones, informes y demás t
 
 VI. Las demás que le señalen esta Ley, su Reglamento y demás disposiciones aplicables.
 
-### CAPÍTULO XIII. DE LAS SANCIONES
+### CAPÍTULO XII. DEL FINANCIAMIENTO EN SALUD MENTAL
 
 ###### Artículo 74.
 
@@ -684,6 +704,8 @@ El titular del Poder Ejecutivo al remitir al Congreso del Estado la Iniciativa d
 ###### Artículo 76.
 
 La Secretaría deberán considerar en la erogación del recurso asignado, medidas a mediano y largo plazo para la creación de Módulos de Atención en Salud Mental, a efecto de cubrir la demanda de atención que se presente en el Estado.
+
+### CAPÍTULO XIII. DE LAS SANCIONES
 
 ###### Artículo 77.
 
@@ -732,3 +754,13 @@ GONZALO GÓMEZ FLORES
 El Secretario de Salud
 
 ALFREDO ROMÁN MESSINA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 546 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL, LEY DE SALUD, LEY DE SALUD MENTAL Y LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN, TODOS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
