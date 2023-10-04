@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2022-12-31"
+last_updated: "2023-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2023.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -1354,6 +1354,32 @@ III.- En dos años en todos los demás casos.
 > <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
 
 La prescripción de la reparación de daños y perjuicios derivada de un delito, correrá a partir de la prescripción de la pretensión punitiva y se sujetará a los plazos antes decritos (sic).
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2023)</small>
+
+Cuando la víctima sea una persona menor de edad, la pretensión punitiva y la potestad de ejecución de sanción, serán imprescriptibles para los delitos previstos en este Código en los numerales siguientes:
+
+a) Inseminación artificial y esterilidad provocada, previstos en los artículos 154, 155, 155 Bis.
+
+b) Abuso sexual previsto en los artículos 156, 157 y 158.
+
+c) Violación, previsto en los artículos 148, 149, 150, 151 y 152.
+
+d) Tráfico de menores previsto en los artículos 211 y 212.
+
+e) Pederastia, previsto en los artículos 327 y 328.
+
+f) Corrupción de menores e incapaces, previstos en los artículos 329, 330, 331 y 334.
+
+g) Pornografía infantil, previsto en el artículo 334 Bis.
+
+h) Comunicación de contenido sexual con personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 334 Ter.
+
+i) Inducción y auxilio al suicidio, previsto en el artículo 129.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2023)</small>
+
+En todos los demás delitos a que se refiere este Código, cometidos en agravio de una persona menor de edad, el plazo para la prescripción de la pretensión punitiva y la potestad de ejecución de la sanción, se iniciará al día siguiente en que dicha persona alcance la mayoría de edad.
 
 ###### Artículo 103.
 
@@ -5612,3 +5638,11 @@ PRIMERO. El correspondiente Decreto entrará en vigor al día siguiente de su pu
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Los delitos que se hubieren cometido con anterioridad con la entrada en vigor del presente Decreto se sancionarán conforme a las disposiciones normativas vigentes al momento de su comisión.
+
+P.O. 4 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 166 POR EL QUE “SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO, AL ARTÍCULO 102 DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
