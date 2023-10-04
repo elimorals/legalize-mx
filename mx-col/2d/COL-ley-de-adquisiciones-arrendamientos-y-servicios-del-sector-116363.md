@@ -4,7 +4,7 @@ identifier: "COL-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1163
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-10"
-last_updated: "2022-12-31"
+last_updated: "2023-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2023.
 
 Ley publicada en el Suplemento Número 2, del Periódico Oficial del Estado de Colima, el sábado 10 de septiembre de 2016.
 
@@ -171,7 +171,9 @@ XXXIII. Secretaría de Administración y Gestión Pública: la Secretaría de Ad
 
 XXXIV. Secretaría de Planeación y Finanzas: la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Colima;
 
-XXXV. Sistema Electrónico de Compras Públicas: el sistema electrónico de información gubernamental sobre adquisiciones, arrendamientos y servicios, el cual estará a cargo de la Secretaría de Administración y Gestión Pública, por conducto de la dependencia administrativa que se determine en su Reglamento Interior, la que establecerá los controles necesarios para garantizar la inalterabilidad y conservación de la información que contenga. Dicho sistema será de consulta gratuita y constituirá un medio por el cual se desarrollarán procedimientos de contratación;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2023)</small>
+
+XXXV. Sistema Electrónico de Compras Públicas: Sistema electrónico de información pública gubernamental, en materia de adquisiciones, arrendamientos y servicios, integrado entre otra información, por los programas anuales de adquisiciones, arrendamientos y servicios de las dependencias y entidades; el registro único de proveedores; el padrón de testigos sociales; el registro de proveedores sancionados; las convocatorias a la licitación y sus modificaciones; las invitaciones a cuando menos tres personas; las actas de las juntas de aclaraciones, del acto de presentación y apertura de proposiciones y de fallo; los testimonios de los testigos sociales; los datos de los contratos y los convenios modificatorios; las adjudicaciones directas; las resoluciones de la instancia de inconformidad que hayan causado estado, y las notificaciones y avisos correspondientes. Dicho sistema será de consulta gratuita y constituirá un medio por el cual se desarrollarán procedimientos de contratación.
 
 XXXVI. Testigo Social: la persona física o moral que participa con voz en los procedimientos de adquisiciones, arrendamientos y contratación de servicios y que emite un testimonio final de conformidad con esta Ley;
 
@@ -667,7 +669,9 @@ XXXIII. La indicación de que cualquier persona podrá asistir a los diferentes 
 
 2. Para la participación, adjudicación o contratación de adquisiciones, arrendamientos o servicios, no se podrán establecer requisitos que tengan por objeto o efecto limitar el proceso de competencia y libre concurrencia. En ningún caso se deberán establecer requisitos o condiciones imposibles de cumplir o restricciones al comercio interestatal. La dependencia, entidad o unidad administrativa convocante tomará en cuenta las recomendaciones y resoluciones previas que, en su caso, emita la Comisión Federal de Competencia en términos de la Ley Federal de Competencia Económica.
 
-3. La convocatoria se publicará obligatoriamente en el Sistema Electrónico de Compras Públicas y un resumen de la misma en el Periódico Oficial y en el diario de mayor circulación local, si es nacional, y en uno nacional, si es internacional. Los Ayuntamientos también realizarán la publicación en su Tabla de Avisos. Además, si la unidad convocante cuenta con un portal de internet, también deberá publicar un resumen de la convocatoria en este medio.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2023)</small>
+
+3. La convocatoria se publicará obligatoriamente a través del Sistema Electrónico de Compras Públicas y un resumen de la misma en el Periódico Oficial y adicionalmente en su página en Internet. Los Ayuntamientos también realizarán la publicación en su Tabla de Avisos. Además, si la unidad convocante cuenta con un portal de internet, también deberá publicar un resumen de la convocatoria en este medio.
 
 4. Previo a la publicación de la convocatoria a la licitación pública, las dependencias, entidades o unidades convocantes podrán difundir el proyecto de la misma a través de los medios electrónicos señalados en el párrafo anterior, al menos durante diez días hábiles, lapso durante el cual éstas recibirán los comentarios pertinentes en la dirección electrónica que para tal fin se señale, los cuales serán considerados para enriquecer el proyecto.
 
@@ -1876,3 +1880,11 @@ Los entes gubernamentales sujetos a la Ley de Adquisiciones, Arrendamientos y Se
 ###### ARTÍCULO CUARTO.
 
 Los entes gubernamentales sujetos a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y el H. Congreso del Estado en el ejercicio fiscal 2024 analizará el crecimiento progresivo de la cuota señalada en el presente Decreto en relación con el crecimiento del Padrón de Proveedores en materia de género, con el efecto de incrementar su porcentaje.
+
+P.O. 4 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 352.- POR EL QUE SE REFORMA LA FRACCIÓN XXXV CORRESPONDIENTE AL PUNTO 1 DEL ARTÍCULO 3, Y EL PUNTO 3 DEL ARTÍCULO 32 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE COLIMA; ADEMÁS, SE ADICIONA UNA FRACCIÓN AL ARTÍCULO 2, PASANDO A SER ESTA LA VII, HACIENDO EL CORRIMIENTO DE LA SUBSECUENTE FRACCIÓN, ASIMISMO, SE REFORMA EL ARTÍCULO 32, LA FRACCIÓN II DEL ARÁBIGO 35 Y EL SEGUNDO PÁRRAFO DEL NUMERAL 78, TODOS DE LA LEY ESTATAL DE OBRAS PÚBLICAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Se otorga un plazo de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, para que se generen los accesos, adecuaciones y ajustes técnicos necesarios para que el Sistema Electrónico de Compras Públicas opere de conformidad a lo previsto por el presente Decreto.
