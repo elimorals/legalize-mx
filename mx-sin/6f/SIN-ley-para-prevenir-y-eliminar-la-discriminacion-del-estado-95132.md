@@ -4,7 +4,7 @@ identifier: "SIN-ley-para-prevenir-y-eliminar-la-discriminacion-del-estado-95132
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-03"
-last_updated: "2023-08-11"
+last_updated: "2023-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 3 de julio de 2013.
 
@@ -161,17 +161,17 @@ XXXI. Incitar al odio, violencia, rechazo, burla, difamación, injuria, persecuc
 
 XXXII. Realizar o promover el maltrato físico o psicológico por la apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su orientación o preferencia sexual, identidad de género, ideológica, política, religiosa o cualquier otra;
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2023)</small>
 
-XXXIII. Impedir el acceso a establecimientos mercantiles por distinción, exclusión o restricción, basada en el origen, étnico o social, nacionalidad o lugar de origen, color o cualquier otra característica genética, sexo, lengua, identidad de género, expresión de género, orientación sexual, estado civil, ocupación o actividad;
+XXXIII. Impedir el acceso a establecimientos mercantiles por distinción, exclusión o restricción, basada en el origen étnico o social, nacionalidad o lugar de origen, color o cualquier otra característica genética, sexo, lengua, identidad de género, estado civil, ocupación o actividad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE AGOSTO DE 2023)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE OCTUBRE DE 2023)</small>
 
-XXXIV. Excluir a las personas internas en centros de readaptación social de los programas generales de salud; y
+XXXIV. Realizar, impartir, aplicar, obligar o financiar tratamientos, terapias o cualquier tipo de servicios o prácticas, quirúrgicas o de otra índole, con el objeto de obstaculizar, restringir, impedir, menoscabar, anular o suprimir la orientación sexual, identidad de género o expresión de género de una persona; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2023)</small>
 
-XXXV. En general, cualquier otra conducta discriminatoria.
+XXXV. En general, cualquier otra conducta discriminatoria en términos del Artículo 4° de este ordenamiento.
 
 ###### ARTÍCULO 6°.
 
@@ -658,3 +658,11 @@ P.O. 11 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 547 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN, DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, Y DEL CÓDIGO PENAL, TODAS DEL ESTADO DE SINALOA.”]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 4 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 546 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL, LEY DE SALUD, LEY DE SALUD MENTAL Y LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN, TODOS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
