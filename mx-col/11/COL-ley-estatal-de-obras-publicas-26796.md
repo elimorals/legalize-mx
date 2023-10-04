@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-de-obras-publicas-26796"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-16"
-last_updated: "2019-11-02"
+last_updated: "2023-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ESTATAL DE OBRAS PÚBLICAS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2023.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 2002.
 
@@ -99,7 +99,11 @@ V. Licitante: la persona que participe en cualquier procedimiento de licitación
 
 VI. Servicios: los servicios relacionados con las obras públicas a que se refiere el artículo 4o de este ordenamiento;
 
-VII. Organo de control: las Contralorías u órganos similares en los Poderes, los Ayuntamientos y las entidades.
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2023)</small>
+
+VII. Sistema Electrónico de Compras Públicas: El sistema electrónico de información pública gubernamental sobre obras públicas y servicios relacionados con las mismas, integrado entre otra información, por los programas anuales en la materia, de las dependencias y entidades; el registro único de contratistas; el padrón de testigos sociales; el registro de contratistas sancionados; las convocatorias a la licitación y sus modificaciones; las invitaciones a cuando menos tres personas; las actas de las juntas de aclaraciones, del acto de presentación y apertura de proposiciones y de fallo; los testimonios de los testigos sociales; los datos de los contratos y los convenios modificatorios; las adjudicaciones directas; las resoluciones de la instancia de inconformidad que hayan causado estado, y las notificaciones y avisos correspondientes. Dicho sistema será de consulta gratuita y constituirá un medio por el cual se desarrollarán procedimientos de contratación.
+
+VIII. Órgano de control: las Contralorías u órganos similares en los Poderes, los Ayuntamientos y las entidades.
 
 ###### ARTÍCULO 3o.
 
@@ -477,9 +481,11 @@ XI. Determinación, en su caso, del porcentaje de contenido nacional; y
 
 XII. Los demás requisitos generales que deberán cumplir los interesados, según las características, complejidad y magnitud de los trabajos.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 32.
 
-Las convocatorias se publicarán en uno de los periódicos locales de mayor circulación en la entidad y por un solo día. Un ejemplar de las mismas será enviado por las Dependencias y Entidades, para su difusión, a la Cámara Mexicana de la Industria de la Construcción.
+Las convocatorias se publicarán a través del Sistema Electrónico de Compras Públicas y un resumen de la misma en el Periódico Oficial y adicionalmente en su página en Internet.
 
 ###### ARTÍCULO 33.
 
@@ -541,7 +547,9 @@ Las Dependencias y Entidades, siempre que ello no tenga por objeto limitar el n�
 
 I. Tratándose de la convocatoria, las modificaciones se hagan del conocimiento de los interesados a través de los mismos medios utilizados para su publicación; y
 
-II. En el caso de las bases de la licitación, se publique un aviso en uno de los periódicos locales de mayor circulación en la entidad, a fin de que los interesados concurran ante la propia dependencia o entidad para conocer, de manera específica, las modificaciones respectivas.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2023)</small>
+
+II. En el caso de las bases de la licitación, se publique un aviso en el Sistema Electrónico de Compras Públicas y adicionalmente en su página en Internet, a fin de que los interesados concurran ante la propia dependencia o entidad para conocer, de manera específica, las modificaciones respectivas.
 
 No será necesario hacer la publicación del aviso a que se refiere esta fracción, cuando las modificaciones deriven de las juntas de aclaraciones, siempre que a más tardar en el plazo señalado en este artículo, se entregue copia del acta respectiva a cada uno de los licitantes que hayan adquirido las bases de la correspondiente licitación.
 
@@ -1081,7 +1089,9 @@ III. Los contratistas que no cumplan con sus obligaciones contractuales por caus
 
 IV. Los licitantes o contratistas que proporcionen información falsa o que actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia, o bien, en la presentación o desahogo de una queja en una audiencia de conciliación o de una inconformidad.
 
-La inhabilitación que imponga no será menos de tres meses ni mayor de cinco años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la contratista la haga del conocimiento de las Dependencias y Entidades, mediante la publicación de la circular respectiva en un periódico local de mayor circulación en la entidad y por un solo día.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2023)</small>
+
+La inhabilitación que imponga no será menos de tres meses ni mayor de cinco años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la contratista la haga del conocimiento de las Dependencias y Entidades, mediante la publicación de la circular respectiva en el Sistema Electrónico de Compras Públicas y adicionalmente en su página en Internet.
 
 Las Dependencias y Entidades, dentro de los quince días siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones de esta Ley, remitirán a la Contraloría o el órgano de control, en su caso, la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
 
@@ -1264,3 +1274,11 @@ P.O. 2 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 148 POR EL QUE SE REFORMAN CON LA FINALIDAD DE ARMONIZAR EL TÉRMINO DE ADULTO MAYOR EN SUSTITUCIÓN DEL TÉRMINO ADULTO EN PLENITUD EN LA LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COLIMA, LEY DE HACIENDA PARA EL ESTADO DE COLIMA, LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, LEY ESTATAL DE OBRAS PÚBLICAS, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE COLIMA, LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA Y LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 352.- POR EL QUE SE REFORMA LA FRACCIÓN XXXV CORRESPONDIENTE AL PUNTO 1 DEL ARTÍCULO 3, Y EL PUNTO 3 DEL ARTÍCULO 32 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE COLIMA; ADEMÁS, SE ADICIONA UNA FRACCIÓN AL ARTÍCULO 2, PASANDO A SER ESTA LA VII, HACIENDO EL CORRIMIENTO DE LA SUBSECUENTE FRACCIÓN, ASIMISMO, SE REFORMA EL ARTÍCULO 32, LA FRACCIÓN II DEL ARÁBIGO 35 Y EL SEGUNDO PÁRRAFO DEL NUMERAL 78, TODOS DE LA LEY ESTATAL DE OBRAS PÚBLICAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Se otorga un plazo de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, para que se generen los accesos, adecuaciones y ajustes técnicos necesarios para que el Sistema Electrónico de Compras Públicas opere de conformidad a lo previsto por el presente Decreto.
