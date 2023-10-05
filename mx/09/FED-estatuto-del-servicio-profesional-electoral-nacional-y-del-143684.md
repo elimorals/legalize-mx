@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-electoral-nacional-y-del-1436
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-07-23"
-last_updated: "2022-03-17"
+last_updated: "2023-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143684&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-07-08"
 
 ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL Y DEL PERSONAL DE LA RAMA ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE OCTUBRE DE 2023.
 
 Estatuto publicado en el Número 18 del Diario Oficial de la Federación, el jueves 23 de julio de 2020.
 
@@ -31,7 +31,7 @@ ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUE
 
 ANTECEDENTES
 
-[…]
+[...]
 
 En razón de los antecedentes y consideraciones expuestas, esta Junta en ejercicio de sus atribuciones emite el siguiente:
 
@@ -371,7 +371,7 @@ El Instituto podrá establecer relaciones laborales permanentes, temporales, por
 
 El Instituto promoverá que su personal y el de los OPLE realicen su función bajo los principios rectores de la función electoral y los principios generales de no discriminación, transparencia, rendición de cuentas, equidad laboral, igualdad de género, cultura democrática y respeto a los derechos humanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 17 DE MARZO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 5 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 8.
 
@@ -471,7 +471,11 @@ Presupuesto disponible: Es la suficiencia de recursos financieros con que se cue
 
 Presupuesto regularizable: Son las erogaciones que con cargo al presupuesto modificado autorizado implican un gasto permanente en subsecuentes ejercicios fiscales para el mismo rubro de gasto, incluyendo, en materia de servicios personales las percepciones ordinarias, prestaciones económicas, repercusiones por concepto de seguridad social, contribuciones y demás asignaciones derivadas de compromisos laborales.
 
-Principios rectores de la funciónelectoral (sic): Son los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/INE/CGext202306_21_ap_1.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2023)</small>
+
+Principios rectores de la función electoral: Son los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
 
 Procedimiento Laboral Sancionador. Es la serie de actos desarrollados por las partes, las autoridades competentes y terceros, dirigidos a determinar posibles conductas y, en su caso, la imposición de sanciones a las personas denunciadas cuando se incumplan las obligaciones y se acrediten prohibiciones a su cargo o infrinjan las normas previstas en la Constitución, la Ley, el Estatuto, reglamentos, acuerdos, convenios, circulares, lineamientos y demás normativa que emitan los órganos competentes del Instituto, sin perjuicio de lo establecido respecto a otro tipo de responsabilidades.
 
@@ -497,9 +501,15 @@ UMA: Unidad de Medida y Actualización.
 
 Unidades Responsables: son los Órganos Centrales, Delegacionales y Subdelegacionales, que rinden cuentas sobre el manejo de los recursos humanos, materiales, obra pública y financieros asignados para contribuir al cumplimiento de los programas comprendidos en la estructura programática autorizada al Instituto.
 
-II. Términos aplicables en forma exclusiva al Servicio Profesional Electoral Nacional
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 5 DE OCTUBRE DE 2023)</small>
+
+II. Términos aplicables en forma exclusiva al Servicio Profesional Electoral Nacional:
 
 Ascenso: Es el movimiento vertical de una o un miembro titular del Servicio a un cargo o puesto de nivel superior.
+
+> <small>(ADICIONADO, D.O.F. 5 DE OCTUBRE DE 2023)</small>
+
+Beneficio institucional: Resultado positivo que obtiene el Instituto derivado del reingreso de una persona que concluyó su relación laboral con éste y que continuó especializándose en materia electoral fuera de él, tomando en consideración que su formación mientras permaneció en el Instituto significó un costo al erario. Lo anterior, siempre y cuando cumpla con los requisitos previstos en el presente Estatuto y en la normatividad aplicable.
 
 Cambio de adscripción: Es la movilidad geográfica de las y los miembros del Servicio de una adscripción a otra en el mismo cargo o puesto que se ocupa en la estructura.
 
@@ -539,7 +549,9 @@ Lista de reserva: Relación de los nombres de las personas aspirantes del Concur
 
 Miembro del Servicio: Es la persona que ingresó al Servicio, obtuvo su nombramiento en una plaza presupuestal y se desempeña de manera exclusiva en un cargo o puesto del Servicio en los términos del presente Estatuto.
 
-Miembro asociado del Servicio: Es la persona que ganó un Concurso Público o logró un ascenso vía certamen interno y que no ha obtenido la titularidad correspondiente.
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2023)</small>
+
+Miembro asociado del Servicio: Es la persona que ganó un Concurso Público, logró un ascenso vía certamen interno o reingresó al Servicio y debe obtener la titularidad correspondiente.
 
 Miembro titular del Servicio: Es la persona que habiendo sido miembro asociado del Servicio en un nivel determinado, obtuvo la titularidad para ese nivel.
 
@@ -559,7 +571,9 @@ Registro del Servicio: Es el compendio de información básica de las y los miem
 
 Reincorporación: Es el procedimiento mediante el cual la o el miembro del Servicio vuelve a activar su pertenencia al mismo después de cubrir una plaza de la Rama Administrativa por decisión del Instituto o el OPLE.
 
-Reingreso: Es el procedimiento mediante el cual una persona que fue miembro del Servicio y concluyó su relación laboral con la institución correspondiente, puede integrarse nuevamente a la misma en los términos del presente Estatuto.
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2023)</small>
+
+Reingreso: Es el procedimiento mediante el cual una persona que fue miembro del Servicio y concluyó su relación laboral con la institución correspondiente, puede integrarse nuevamente a la misma en los términos del presente Estatuto y los lineamientos de la materia.
 
 Rotación: Movimiento funcional de un miembro del Servicio de un cargo o puesto a otro distinto del mismo nivel.
 
@@ -1057,13 +1071,17 @@ La disposición anterior será aplicable salvo lo establecido en el acuerdo en m
 
 El personal femenino del Instituto disfrutará de noventa días de licencia con motivo del parto. Ésta se otorgará de conformidad con la licencia por embarazo emitida por el ISSSTE, debiendo percibir su sueldo íntegro, conservar su empleo y los derechos que hubiere adquirido por la relación de trabajo durante este periodo.
 
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 54.
 
-El personal masculino del Instituto, con motivo del nacimiento de un hijo, tendrá derecho a un permiso de paternidad que consistirá en un periodo de quince días naturales con goce de sueldo, el cual se otorgará ante la solicitud que se presente dentro de los quince días antes y hasta quince días después del parto. Para ello deberá exhibir la copia del certificado de alumbramiento o copia certificada del acta de nacimiento correspondiente al término de la licencia, así como demás documentos necesarios para tal efecto.
+El personal del Instituto, con motivo del nacimiento de un hijo o una hija, tendrá derecho a un permiso de paternidad, comaternidad o copaternidad, según sea el caso, que consistirá en un periodo de noventa días naturales con goce de sueldo, posteriores al nacimiento de la persona menor, el cual se otorgará ante la solicitud que se presente dentro de los quince días antes y hasta quince días después del parto. Para ello deberá exhibir la copia del certificado de alumbramiento o copia certificada del acta de nacimiento correspondiente al término de la licencia, así como demás documentos necesarios para tal efecto.
+
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 55.
 
-El personal del Instituto tendrá derecho a un permiso por adopción cuando adopte a un menor de edad, dicho permiso será concedido por un periodo de seis semanas con goce de sueldo. Para tal efecto se deberá informar a la DEA y presentar la documentación legal que acredite los trámites de la adopción.
+El personal del Instituto tendrá derecho a un permiso por adopción cuando adopte a una o un menor de edad, dicho permiso será concedido por un periodo de noventa días con goce de sueldo, posteriores al día en que el o la solicitante reciba a la persona menor de edad adoptada. Para tal efecto se deberá informar a la DEA y presentar la documentación legal que acredite los trámites de la adopción.
 
 ###### Artículo 56.
 
@@ -1519,7 +1537,11 @@ V. No estar inhabilitada para ocupar cargo o puesto público o no haber sido des
 
 VI. No haber sido condenada por delito alguno, salvo que hubiese sido de carácter culposo;
 
-VII. Acreditar, por los medios que el Instituto estime convenientes, los conocimientos y habilidades requeridos para el adecuado desempeño del cargo o puesto al que aspira, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/INE/CGext202306_21_ap_1.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2023)</small>
+
+VII. Acreditar, por los medios que el Instituto estime convenientes, los conocimientos y habilidades requeridos para el adecuado desempeño del cargo o puesto al que aspira;
 
 > <small>(REFORMADA, D.O.F. 17 DE MARZO DE 2022)</small>
 
@@ -2403,7 +2425,11 @@ VII. No haber sido condenada por delito alguno, salvo que hubiese sido de carác
 
 VIII. No haber sido separado del Servicio o del Instituto por alguno de los supuestos previstos en las fracciones I o del VI a la XII del artículo 243, dentro del año inmediato anterior a la emisión de la Convocatoria del Concurso Público respectiva.
 
-IX. Cumplir los requisitos del perfil del cargo o puesto, conforme al Catálogo del Servicio para el sistema del Instituto, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/INE/CGext202306_21_ap_1.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2023)</small>
+
+IX. Cumplir los requisitos del perfil del cargo o puesto, conforme al Catálogo del Servicio para el sistema del Instituto;
 
 > <small>(REFORMADA, D.O.F. 17 DE MARZO DE 2022)</small>
 
@@ -2499,19 +2525,27 @@ El ingreso por la vía de cursos y prácticas deberá ser autorizado por la Junt
 
 #### Sección VI. Del Reingreso y la Reincorporación al Servicio
 
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 217.
 
-El reingreso al Servicio es el procedimiento mediante el cual la persona que haya ocupado una plaza en el Servicio y haya concluido su relación laboral con el Instituto, podrá integrarse nuevamente al mismo, siempre y cuando no haya causado baja del Servicio con motivo de una resolución recaída a un procedimiento laboral sancionador o equivalente y además exista una plaza vacante igual, homóloga o equivalente en el nivel en que se encontraba, lo solicite formalmente, cumpla los requisitos establecidos en los lineamientos y se encuentre en alguno de los siguientes supuestos:
+El reingreso al Servicio es el procedimiento mediante el cual el Instituto determina integrar nuevamente a una persona que se separó de un cargo o puesto del Servicio y concluyó su relación laboral con el mismo, siempre y cuando haya obtenido su titularidad en el cargo o puesto del que se separó, exista una plaza igual, homóloga o equivalente en el nivel que se encontraba; se acredite el beneficio institucional y la separación del Servicio se haya dado por uno de los siguientes supuestos, sin exceder el tiempo de separación del Instituto previsto para cada uno de ellos:
 
-a) Cuando se haya separado del Servicio por una designación como Consejera o Consejero electoral o en un cargo directivo en un OPLE;
+a) Por una designación como Consejera o Consejero electoral o en un cargo directivo en un OPLE;
 
-b) Cuando se haya separado del Servicio por una designación en un cargo directivo en el Tribunal Electoral del Poder Judicial de la Federación y/o algún tribunal electoral local;
+b) Por una designación en un cargo directivo en el Tribunal Electoral del Poder Judicial de la Federación o algún tribunal electoral local;
 
-c) Cuando se haya separado del Servicio por haber sido designada en algún cargo o puesto ejecutivo o directivo de un organismo electoral internacional, o
+c) Por una designación en algún cargo directivo de un organismo electoral internacional;
 
-d) Cuando se haya separado del Servicio para realizar actividades académicas formales de posgrado habiendo obtenido el título correspondiente.
+d) Para realizar actividades académicas formales de posgrado, en el ámbito electoral o áreas afines, habiendo obtenido el título correspondiente.
 
-Se podrá solicitar el reingreso al Servicio al término de la encomienda referida en los incisos a), b) y c) anteriores sin que se pueda exceder los siete años de separación del Instituto; en el caso del inciso d) la separación no podrá ser mayor a cuatro años.
+La persona que solicite su reingreso no podrá exceder los siete años de separación del Servicio en el caso de que haya concluido la relación laboral con el Instituto por uno de los supuestos previstos en los incisos a), b) o c), mientras que en el caso del inciso d), la separación no podrá ser mayor a cuatro años.
+
+La solicitud de reingreso para el caso de quien se haya separado del Servicio y tenga un periodo legalmente establecido para ocupar consejerías y cargos directivos deberá presentarla dentro de los cinco días hábiles previos a la conclusión de la encomienda. En cargos directivos en los que no se especifique un periodo definitivo o en caso de estudios de posgrado, deberá presentar la solicitud dentro de los cinco días hábiles posteriores a la conclusión de la relación laboral o de las actividades académicas.
+
+Los Lineamientos de la materia establecerán los requisitos para la presentación de las solicitudes de reingreso.
+
+Por ningún motivo podrá solicitar el reingreso una persona que haya causado baja del Servicio derivado de una resolución recaída a un procedimiento laboral sancionador o equivalente.
 
 ###### Artículo 218.
 
@@ -2527,17 +2561,23 @@ c) Las solicitudes de reincorporación tendrán preferencia y se atenderán ante
 
 d) En caso de que no existan vacantes iguales, homólogas o equivalentes a las que ocupaba la persona, se privilegiará la incorporación del servidor público a un puesto distinto al último cargo ocupado, con similar nivel jerárquico, y se garantizará la homologación en la remuneración salarial percibida con anterioridad. Esta ocupación será temporal hasta en tanto se genere una vacante.
 
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 219.
 
-El Consejo General, a propuesta de la Junta y previo conocimiento de la Comisión del Servicio, podrá autorizar la reincorporación y el reingreso al Servicio en cargos de titulares de junta ejecutiva con base en el dictamen que para tal efecto emita la DESPEN sobre la procedencia de la solicitud, siempre y cuando exista disponibilidad de plazas en el Instituto.
+El Consejo General, a propuesta de la Junta y previo conocimiento de la Comisión del Servicio, podrá autorizar la reincorporación o el reingreso al Servicio en cargos de Vocalía Ejecutiva con base en el dictamen que para tal efecto emita la DESPEN sobre la procedencia de la solicitud, siempre y cuando exista disponibilidad de plazas vacantes en el Servicio.
 
-Para el cargo de titular de junta de (sic) ejecutiva local, una vez emitido el dictamen por la DESPEN, su reincorporación al Servicio se dará de manera inmediata, siempre que exista plaza vacante y previa autorización del Consejo General, de lo contrario se estará a la dispuesto por el inciso d) del artículo 218.
+Para la ocupación de cargos de Vocalía Ejecutiva Local, la reincorporación al Servicio se dará de manera inmediata, siempre que exista una plaza vacante y previa autorización del Consejo General, de lo contrario se estará a la (sic) dispuesto por el inciso d) del artículo 218.
 
-La Junta, previo conocimiento de la Comisión del Servicio, podrá autorizar la reincorporación y el reingreso al Servicio en cargos y puestos distintos al de titular de junta ejecutiva con base en el dictamen que emita la DESPEN sobre la procedencia de la solicitud, siempre y cuando exista disponibilidad de plazas en el Instituto.
+La Junta, previo conocimiento de la Comisión del Servicio, podrá autorizar la reincorporación o el reingreso al Servicio en cargos y puestos distintos de Vocalía Ejecutiva con base en el dictamen que emita la DESPEN sobre la procedencia de la solicitud, siempre y cuando exista la disponibilidad de plazas vacantes en el Servicio.
+
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 220.
 
-La DESPEN reconocerá la permanencia, la titularidad en el nivel y rango alcanzado al momento de la separación del Servicio; así como las calificaciones y promedios obtenidos en la evaluación del desempeño, el Programa de Formación y/o capacitación, y en su caso, mantendrá en el sistema de información y de registro del Servicio la información disciplinaria que corresponda.
+La persona que reingrese tendrá la calidad de miembro asociado del Servicio en el nivel del cargo o puesto correspondiente, por lo que para obtener la titularidad y rango deberá cumplir con los requisitos que para tal efecto se establecen en el Estatuto y lineamientos de la materia. No obstante, la DESPEN reconocerá únicamente para efectos históricos, las titularidades, rangos, calificaciones y promedios obtenidos en las evaluaciones del desempeño, el Programa de Formación y/o capacitación, y la demás información en la trayectoria como miembro del Servicio alcanzada hasta el momento de su separación.
+
+En la reincorporación, la DESPEN reconocerá la permanencia, la titularidad en el nivel y rango alcanzado al momento de la separación del Servicio, así como las calificaciones y promedios obtenidos en la evaluación del desempeño, el Programa de Formación y/o capacitación y, en su caso, mantendrá en el sistema de información y de registro del Servicio la información disciplinaria que corresponda.
 
 ### Capítulo IV. De la Promoción y el Ascenso
 
@@ -2891,9 +2931,13 @@ La calificación mínima para acreditar las actividades de capacitación será d
 
 #### Sección I. De las Actividades Externas
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/INE/CGext202306_21_ap_1.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 265.
 
-Las y los miembros del Servicio podrán realizar actividades académicas externas previa autorización de la DESPEN y contando con el visto bueno de la o e (sic) superior jerárquico. Dichas actividades no deberán exceder el lapso de ocho horas hábiles a la semana dentro de la jornada laboral y podrán ser remuneradas por la propia institución académica.
+Las y los miembros del Servicio podrán realizar actividades académicas externas previa autorización de la DESPEN y contando con el visto bueno de la o el superior jerárquico. Dichas actividades no deberán exceder el lapso de ocho horas hábiles a la semana dentro de la jornada laboral y podrán ser remuneradas por la propia institución académica.
 
 ###### Artículo 266.
 
@@ -3955,9 +3999,11 @@ La ocupación de plazas del Servicio al interior de cada OPLE podrá llevarse a 
 
 Adicionalmente, cada OPLE podrá llevar a cabo designaciones temporales en plazas del Servicio mediante personas encargadas de despacho. La ocupación de plazas del Servicio por encargo de despacho deberá apegarse a los requisitos establecidos en el Catálogo del Servicio y a las exigencias dispuestas en la normatividad laboral de cada OPLE.
 
-> <small>(ADICIONADO, D.O.F. 17 DE MARZO DE 2022)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/INE/CGext202306_21_ap_1.pdf]</small>
 
-Artículo 390 bis. En el supuesto de que una persona que labore en el OPLE haya sido seleccionada como ganadora para ocupar una plaza vacante del Servicio a través de concurso o certamen interno, y tal designación sea revocada por una autoridad jurisdiccional, se le reinstalará en la plaza que ocupaba con anterioridad y, de no ser así, preferentemente en la vacante más cercana en el mismo nivel y cargo o puesto para el que concursó.
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2023)</small>
+
+Artículo 390 bis. En el supuesto de que una persona que labore en el OPLE haya sido seleccionada como ganadora para ocupar una plaza vacante del Servicio a través de concurso o certamen interno y tal designación sea revocada por una autoridad jurisdiccional, se le reinstalará en la plaza que ocupaba con anterioridad y, de no ser así, preferentemente en la vacante más cercana al mismo nivel y cargo o puesto para el que concursó.
 
 ###### Artículo 391.
 
@@ -4063,7 +4109,11 @@ VIII. Contar con conocimientos y experiencia profesional para el desempeño adec
 
 IX. No haber sido separado del Servicio o del OPLE por alguno de los supuestos previstos en las fracciones I o del VI a la XIII del artículo 434, dentro del año inmediato anterior a la emisión de la Convocatoria del Concurso Público respectiva,
 
-X. Cumplir los requisitos del perfil del cargo o puesto, conforme a las disposiciones del Catálogo del Servicio aplicables al organismo en cuestión, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/INE/CGext202306_21_ap_1.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2023)</small>
+
+X. Cumplir los requisitos del perfil del cargo o puesto, conforme a las disposiciones del Catálogo del Servicio aplicables al organismo en cuestión;
 
 > <small>(REFORMADA, D.O.F. 17 DE MARZO DE 2022)</small>
 
@@ -4171,17 +4221,27 @@ La incorporación temporal es la vía de ingreso al Servicio en los OPLE para pe
 
 #### Sección V. Del Reingreso y la Reincorporación al Servicio
 
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 413.
 
-El reingreso al Servicio en el sistema OPLE es el procedimiento mediante el cual la persona que haya ocupado una plaza en el Servicio y concluido su relación laboral con el organismo correspondiente, podrá integrarse nuevamente al mismo, siempre y cuando no haya causado baja del Servicio con motivo de una resolución recaída a un procedimiento laboral sancionador o equivalente y además exista una plaza vacante en el nivel en que se encontraba, lo solicite formalmente, cumpla los requisitos establecidos en los lineamientos y se encuentre en alguno de los siguientes supuestos:
+El reingreso al Servicio es el procedimiento mediante el cual el OPLE determina integrar nuevamente a una persona que se separó de un cargo o puesto del Servicio y concluyó su relación laboral con el mismo, siempre y cuando haya obtenido su titularidad en el cargo o puesto, exista una plaza igual, homóloga o equivalente en el nivel que se encontraba; se acredite el beneficio institucional y la separación del Servicio se haya dado por uno de los siguientes supuestos, sin exceder el tiempo de separación del Instituto previsto para cada uno de ellos:
 
-a) Cuando se haya separado del Servicio por una designación como Consejera o Consejero electoral o en un cargo directivo en un OPLE;
+a) Por una designación como Consejera o Consejero electoral o en un cargo directivo en un OPLE o en el Instituto;
 
-b) Cuando se haya separado del Servicio por haber sido designada en algún cargo o puesto ejecutivo o directivo de un organismo electoral internacional, y
+b) Por haber sido designada en un cargo directivo en el Tribunal Electoral del Poder Judicial de la Federación y/o algún tribunal electoral local;
 
-c) Cuando se haya separado del Servicio para realizar actividades académicas formales de posgrado habiendo obtenido el título correspondiente.
+c)Por haber sido designada en algún cargo o puesto ejecutivo o directivo de un organismo electoral internacional; y
 
-Se podrá solicitar el reingreso al Servicio al término de la encomienda referida en los incisos a) y b) anteriores sin que se pueda exceder los siete años de separación del organismo; en el caso del inciso c) la separación no podrá ser mayor a cuatro años.
+d)Para realizar actividades académicas formales de posgrado, en el ámbito electoral o áreas afines, habiendo obtenido el título correspondiente.
+
+La persona que solicite su reingreso al Servicio no podrá exceder los siete años de separación del Servicio en el caso de que haya concluido la relación laboral con el OPLE por uno de los supuestos previstos en los incisos a), b) o c), mientras que en el caso del inciso d), la separación no podrá ser mayor a cuatro años.
+
+La solicitud de reingreso para el caso de quien se haya separado del Servicio y tenga un periodo legalmente establecido para ocupar consejerías y cargos directivos deberá presentarla dentro de los cinco días hábiles previos a la conclusión de la encomienda. En cargos directivos en los que no se especifique un periodo definitivo o en caso de estudios de posgrado, deberá presentar la solicitud dentro de los cinco días hábiles posteriores a la conclusión de la relación laboral o de las actividades académicas.
+
+Los Lineamientos de la materia establecerán los requisitos para la presentación de las solicitudes de reingreso.
+
+Por ningún motivo podrá solicitar el reingreso una persona que haya causado baja del Servicio derivado de una resolución recaída a un procedimiento laboral sancionador o equivalente.
 
 ###### Artículo 414.
 
@@ -4191,11 +4251,15 @@ a) Se haya separado del Servicio para desempeñar una función en la Rama Admini
 
 b) No haya interrumpido su relación laboral con el OPLE.
 
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 415.
 
 El órgano superior de dirección del OPLE, a propuesta de la comisión de seguimiento al Servicio, podrá autorizar el reingreso o la reincorporación al Servicio, según corresponda, con base en el dictamen sobre la procedencia de la solicitud que para tal efecto emita el órgano de enlace, previo conocimiento de la DESPEN, siempre y cuando exista disponibilidad de plazas y suficiencia presupuestal en el OPLE respectivo.
 
-La DESPEN reconocerá la permanencia, la titularidad en el nivel y rango alcanzado al momento de la separación del Servicio, así como las calificaciones y promedios obtenidos en la evaluación del desempeño, el Programa de Formación y la capacitación. Resguardará los datos correspondientes de cada miembro del Servicio en el sistema de información y de registro, así como la información que corresponda al mecanismo de disciplina.
+La persona que reingrese tendrá la calidad de miembro asociado del Servicio en el nivel del cargo o puesto correspondiente, por lo que para obtener la titularidad y rango deberá de cumplir con los requisitos que para tal efecto se establecen en el Estatuto y Lineamientos de la materia. No obstante, la DESPEN reconocerá, únicamente para efectos históricos, las titularidades, rangos, calificaciones y promedios obtenidos en las evaluaciones del desempeño, el Programa de Formación y/o capacitación y la demás información en su trayectoria como miembro del Servicio alcanzada hasta el momento de su separación.
+
+En la reincorporación, la DESPEN reconocerá la permanencia, la titularidad en el nivel y rango alcanzado al momento de la separación del Servicio, así como las calificaciones y promedios obtenidos en la evaluación del desempeño, el Programa de Formación y/o capacitación y, en su caso, mantendrá en el sistema de información y de registro del Servicio la información disciplinaria que corresponda.
 
 ### Capítulo IV. De la Promoción en Rango y el Ascenso
 
@@ -4835,7 +4899,13 @@ Noveno. Las y los miembros del Servicio que tienen el carácter de provisionales
 
 Para la obtención de la titularidad les serán aplicadas las normas contenidas en el presente Estatuto y se les reconocerán los avances obtenidos en el programa de formación y los resultados de la evaluación del desempeño.
 
-Décimo. Con la finalidad de que la titularidad de los rangos A, B y C se refleje en la compensación garantizada mensual de las y los miembros del Servicio del sistema del Instituto, se incluirá dicha previsión en el proyecto de presupuesto del Instituto para el ejercicio fiscal dos mil veintiuno, año en que se concretará el nuevo modelo de reconocimiento a la titularidad y rangos. En tanto sea aprobado el nuevo Tabulador de Sueldos del Instituto, las y los miembros del Servicio con la actual titularidad y rangos, así como quienes la obtengan en el transcurso de 2020 continuarán percibiendo los pagos en los términos del ejercicio fiscal en curso.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/INE/CGext202306_21_ap_1.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2023)</small>
+
+Décimo. Con la finalidad de que la titularidad de los rangos A, B y C se refleje en la compensación garantizada mensual de las y los miembros del Servicio del sistema del Instituto, se incluirá dicha previsión en el proyecto de presupuesto del Instituto para el ejercicio fiscal dos mil veintiuno, año en que se concretará el nuevo modelo de reconocimiento a la quinto (sic)
+
+(sic) y rangos. En tanto sea aprobado el nuevo Tabulador de Sueldos del Instituto, las y los miembros del Servicio con la actual titularidad y rangos, así como quienes la obtengan en el transcurso de 2020 continuarán percibiendo los pagos en los términos del ejercicio fiscal en curso.
 
 Undécimo. El Consejo General designará en los meses de septiembre y octubre de 2020 a las y los funcionarios que durante los procesos electorales actuarán como presidentes de los consejos locales y distritales, respectivamente, y que en todo tiempo fungirán como vocales ejecutivos de las juntas correspondientes. A partir del nombramiento, el desempeño del cargo como presidente se mantendrá durante todos los procesos electorales en que el Instituto participe.
 
@@ -4964,3 +5034,21 @@ Segundo. El presente Acuerdo entrará en vigor y surtirá efectos al día siguie
 Tercero. Notifíquese a la Sala Regional Guadalajara del Tribunal Electoral del Poder Judicial de la Federación el cumplimiento de la sentencia dictada en el expediente SG-JLI-6/2020.
 
 Cuarto. Publíquese el presente Acuerdo y su anexo en el Diario Oficial de la Federación y en la Gaceta Electoral del Instituto.
+
+D.O.F. 5 DE OCTUBRE DE 2023.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Primero. Se aprueba la modificación al Estatuto del Servicio Profesional Electoral Nacional y del Personal de la Rama Administrativa, en los siguientes términos:
+
+[...]
+
+Segundo. Las reformas aprobadas en el presente Acuerdo entrarán en vigor y surtirán efectos al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Tercero. Notifíquese a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación el cumplimiento de la sentencia dictada en el expediente SUP-JLI-30/2022.
+
+Cuarto. Se instruye a la Dirección Ejecutiva de Administración para que realice las adecuaciones normativas necesarias para armonizar las disposiciones aplicables derivado de la reforma aprobada en el presente acuerdo, en coordinación con las áreas competentes.
+
+Quinto. Se instruye a la Dirección del Secretariado y a la Dirección Jurídica para que, en el ámbito de sus respectivas competencias, actualicen y publiquen en la NormaINE, el Estatuto de conformidad con lo aprobado en el presente Acuerdo.
+
+Sexto. Publíquese el presente acuerdo en NormaINE, la Gaceta Electoral y en el portal de internet del Instituto; así como en el Diario Oficial de la Federación.
