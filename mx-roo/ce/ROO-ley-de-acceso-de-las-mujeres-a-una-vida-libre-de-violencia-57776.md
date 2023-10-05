@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5777
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-27"
-last_updated: "2023-06-06"
+last_updated: "2023-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2023.
 
 Ley publicada en el Extraordinario Número 77 al Periódico Oficial del Estado de Quintana Roo, el martes 27 de noviembre de 2007.
 
@@ -167,7 +167,9 @@ Los tipos de Violencia contra las Mujeres son:
 
 I. La violencia psicológica.- Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
-II. La violencia física.- Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas, o ambas;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+II. La violencia física.- Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma, objeto, ácido o sustancia corrosiva, cáustica, irritante, tóxica o inflamable o cualquier otra sustancia que, en determinadas condiciones, pueda provocar o no lesiones ya sean internas, externas, o ambas;
 
 III. La violencia patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima;
 
@@ -361,15 +363,35 @@ Se entiende por estereotipos sexistas, degradantes o discriminatorios los que re
 
 Los protocolos a que refiere la fracción VI deberán publicarse en el Periódico Oficial del Estado de Quintana Roo y deberán actualizarse cada tres años.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE OCTUBRE DE 2023)</small>
 
-### CAPÍTULO III BIS. DE LA VIOLENCIA DIGITAL
+### CAPÍTULO III BIS. DE LA VIOLENCIA DIGITAL Y MEDIÁTICA
 
-> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2023)</small>
 
-ARTÍCULO 15 BIS.- Por violencia Digital se entienden todos aquellos actos individuales o colectivos, realizados a través de las Tecnologías de la Información y la Comunicación, que tengan por objeto o resultado, denigrar, discriminar, o menoscabar la autoestima, la intimidad, el honor, la dignidad o el derecho a la propia imagen, de las mujeres, impidiendo el libre desarrollo de su personalidad.
+ARTÍCULO 15 BIS.- Violencia digital es toda acción dolosa realizada mediante el uso de tecnologías de la información y la comunicación, por la que se exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia.
 
-Se considera también violencia digital la difusión, revelación, publicación, o reproducción de contenido audiovisual, grabaciones de voz, conversaciones telefónicas, o imágenes estáticas o en movimiento, de naturaleza sexual o erótica de otra persona, sin su consentimiento.
+Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación.
+
+Para efecto del presente Capítulo, se entenderá por Tecnologías de la Información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
+
+La violencia digital será sancionada en la forma y términos que establezca el Código Penal para el Estado Libre y Soberano de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+ARTÍCULO 15 TER.- Por violencia mediática se entiende cualquier acto ejercido por persona física o moral, que haciendo uso de algún medio de comunicación, promueva de manera directa o indirecta estereotipos sexistas, discriminación, haga apología de la violencia contra las niñas, adolescentes y mujeres, produzca y difunda discursos de odio sexista, de género o desigualdad entre mujeres y hombres, que cause daño a las niñas adolescentes y mujeres de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.
+
+La violencia mediática se ejerce mediante cualquier medio de comunicación que produzca o difunda, contenidos escritos, visuales o audiovisuales, y que menoscaben el autoestima, salud, integridad, libertad y seguridad de las niñas, adolescentes y mujeres que impiden su desarrollo y que atenta contra la igualdad.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+ARTÍCULO 15 QUATER.- En caso de violencia digital o mediática, la persona que funja como Ministerio Público, o la jueza o juez competente, emitirá de manera inmediata las órdenes de protección, ya sea vía electrónica o mediante escrito, a las empresas de plataformas digitales, de medios de comunicación, redes sociales o páginas electrónicas, personas físicas o morales, ordenando la interrupción, bloqueo, destrucción, o eliminación del texto, de las imágenes, de los audios o de los videos que se relacionen con la violencia digital o mediática; deberá identificar plenamente al proveedor de servicios en línea a cargo de la administración del sistema informático, sitio o plataforma de Internet en donde se encuentre alojado el contenido y la localización precisa del contenido en Internet, señalando el Localizador Uniforme de Recursos.
+
+La autoridad que emita las órdenes de protección contempladas en este artículo, deberá solicitar el resguardo y conservación lícita e idónea del contenido que se denunció de acuerdo a las características del mismo.
+
+Las plataformas digitales, medios de comunicación, redes sociales o páginas electrónicas darán aviso de forma inmediata al usuario que compartió el contenido, donde se establezca de forma clara y precisa que el contenido será inhabilitado por cumplimiento de una orden judicial.
+
+Dentro de los cinco días siguientes a la imposición de las órdenes de protección previstas en este artículo, deberá celebrarse la audiencia en la que la o el juez de control podrá cancelarlas, ratificarlas o modificarlas considerando la información disponible, así como la irreparabilidad del daño.
 
 ### CAPÍTULO IV. DE LA VIOLENCIA INSTITUCIONAL
 
@@ -2074,3 +2096,19 @@ P.O. 6 DE JUNIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 098 POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 099 POR EL QUE SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO III BIS DEL TÍTULO SEGUNDO Y EL ARTÍCULO 15 BIS, SE ADICIONAN: LOS ARTÍCULOS 18 TER Y 15 QUATER, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al contenido del presente Decreto.
