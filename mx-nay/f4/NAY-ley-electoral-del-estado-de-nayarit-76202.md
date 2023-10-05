@@ -4,7 +4,7 @@ identifier: "NAY-ley-electoral-del-estado-de-nayarit-76202"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-18"
-last_updated: "2023-03-24"
+last_updated: "2023-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ELECTORAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2023.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 18 de agosto de 2010.
 
@@ -83,7 +83,9 @@ Quedan prohibidos los actos que generen presión o coacción a los electores.
 
 Los ciudadanos Nayaritas tienen los siguientes derechos:
 
-I. Participar políticamente en los asuntos públicos;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+I. Participar políticamente en los asuntos públicos, libres de discriminación por razón de género, discapacidad, de la diversidad sexual y otros grupos vulnerables;
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
@@ -105,21 +107,25 @@ VI. Contar con recursos procesales en la normatividad de los partidos políticos
 
 VII. Presentar impugnaciones ante el Tribunal Estatal Electoral, para que se respeten sus derechos político-electorales;
 
-VIII. (DEROGADA, P.O. 7 DE OCTUBRE DE 2020)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2023)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2016)</small>
+VIII. Las personas con discapacidad tienen derecho a la participación política. Para ello las autoridades electorales en su ámbito de competencia, garantizarán que, en los procedimientos, instalaciones y materiales electorales, creados para ejercer el derecho al sufragio, se implementen medidas razonables, de manera que sean apropiados, accesibles, fáciles de entender y utilizar, procurando en todo momento la máxima independencia posible para ejercer sus derechos políticos;
 
-IX. Participar en los procesos de consulta popular de plebiscito, referéndum e iniciativa popular, en los términos de la ley de la materia, y
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2023)</small>
 
-X. (DEROGADA, P.O. 7 DE OCTUBRE DE 2020)
+IX. Participar en los procesos de revocación de mandato, consulta popular de plebiscito, referéndum e iniciativa popular, en los términos de la ley de la materia, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2023)</small>
+
+X. Las personas indígenas disfrutarán y ejercerán su derecho de votar y ser votados en condiciones de igualdad; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido designados, en un marco que respete el pacto federal, la Constitución local y las leyes aplicables. Para efectos de esta Ley, las personas indígenas son aquellas que descienden de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas o parte de ellas, las cuales mantienen un vínculo con sus pueblos y comunidades indígenas. Asimismo, son reconocidas como sujetos de derecho público sus pueblos y comunidades indígenas.
 
 > <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 Se considera información reservada en los términos de la ley de la materia y para toda persona, las medidas de seguridad contenidas en las boletas electorales, así como aquella que determine el órgano interno del Instituto Estatal Electoral.
 
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2023)</small>
 
-Los derechos político-electorales, se ejercerán libres de violencia política contra las mujeres en razón de género, sin discriminación por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+Los derechos político-electorales, se ejercerán libres de violencia política contra las mujeres en razón de género, promoviendo la igualdad sustantiva, con perspectiva interseccional e intercultural, sin discriminación por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, orientación sexual, identidad y/o expresión de género, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ###### Artículo 6.
 
@@ -217,25 +223,31 @@ Las elecciones serán ordinarias y extraordinarias. Las primeras se celebrarán 
 
 I. Gobernador del Estado cada seis años;
 
-II. Diputados al Congreso Local cada tres años, y;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+II. Diputados al Congreso del Estado de Nayarit cada tres años, y
 
 III. Ayuntamientos cada tres años.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+El Consejo Local Electoral del Instituto Estatal Electoral deberá expedir los lineamientos para el registro de candidaturas. Para el registro de candidaturas a los cargos de elección de los Ayuntamientos y Congreso del Estado de Nayarit, se deberá contemplar la aplicación de los criterios de paridad vertical, horizontal y los bloques de competitividad.
 
 ###### Artículo 18.
 
 Para la realización de las elecciones ordinarias, el Congreso del Estado, expedirá la convocatoria respectiva antes de la fecha del inicio formal del proceso electoral.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2023)</small>
 
-Cuando la autoridad electoral o jurisdiccional correspondiente declare un empate o la nulidad de una elección o la nulidad de un proceso de participación ciudadana, la convocatoria para el proceso extraordinario deberá emitirse por el Consejo Local dentro de los treinta días siguientes a la conclusión de la última etapa del proceso ordinario.
+Cuando la autoridad electoral o jurisdiccional correspondiente declare un empate, la nulidad de una elección o la nulidad de un proceso de participación ciudadana, la convocatoria para el proceso extraordinario deberá emitirse por el Congreso del Estado de Nayarit dentro de los treinta días hábiles siguientes a la conclusión de la última etapa del proceso ordinario.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
 En el caso de vacantes de Diputaciones al Congreso del Estado de Nayarit electos por el principio de mayoría relativa, ésta deberá comunicarlo al Consejo Local para que éste, a su vez, proceda a convocar a elecciones extraordinarias, cuando la falta absoluta ocurra dentro de los primeros dieciocho meses del periodo constitucional, y la vacante no pueda ser cubierta por la o el suplente respectivo. En caso de que la vacante se origine después de los primeros dieciocho meses y la o el suplente respectivo esté imposibilitado o imposibilitada para cubrirla, el Congreso del Estado cubrirá la respectiva vacante respetando el origen partidista, tomando en consideración el género, a propuesta de la fracción parlamentaria correspondiente.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2023)</small>
 
-En caso de que alguna de las elecciones las y los integrantes de Ayuntamientos no se hubiesen realizado, o se hubiesen anulado, el Congreso del Estado de Nayarit nombrará a un Presidente o Presidenta, Sindico o Sindica, Regidor o Regidora provisional en términos de lo previsto por la Constitución local. El Instituto Electoral convocará a la elección extraordinaria correspondiente, en términos del segundo párrafo de este artículo.
+En caso de que alguna de las elecciones de las y los integrantes de Ayuntamientos resultare en un empate, no se hubiesen realizado, o se hubiesen anulado, el Congreso del Estado de Nayarit nombrará a un Presidente o Presidenta, Síndico o Síndica, Regidor o Regidora provisional en términos de lo previsto por la Constitución local. El Congreso del Estado de Nayarit convocará a la elección extraordinaria correspondiente dentro de los treinta días hábiles siguientes.
 
 ###### Artículo 19.
 
@@ -247,25 +259,101 @@ El Consejo Local Electoral y los Consejos Municipales, en ningún caso, podrán 
 
 En el caso de elecciones extraordinarias, el Congreso ajustará los plazos, conforme a la fecha señalada para las elecciones, en la convocatoria respectiva.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+### CAPÍTULO I BIS. La garantía del derecho a ser votados de las personas de grupos en situación de vulnerabilidad en el Congreso del Estado y en los Ayuntamientos
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 20 Bis.
+
+Para garantizar el derecho a ser votados de las personas de los pueblos y comunidades indígenas, personas migrantes, personas con discapacidad, personas de la diversidad sexual y otros grupos vulnerables en el Congreso del Estado y en lo que corresponda a los Ayuntamientos de los municipios del Estado, los partidos políticos, y en su caso las coaliciones electorales, deberán registrar candidaturas a diputaciones de mayoría relativa y representación proporcional, así como para los diferentes cargos del Ayuntamiento, en los términos previstos en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 20 Ter.
+
+El Consejo Local Electoral del Instituto Estatal Electoral deberá emitir los lineamientos con los cuales se instrumente lo previsto en el presente capítulo. Estos deberán contemplar cuando menos lo siguiente:
+
+APARTADO A
+
+I. Los partidos políticos y coaliciones electorales deberán registrar como candidatos o candidatas a presidencia municipal y sindicatura a personas indígenas, cuando menos en la mitad de los municipios que tengan una población de personas indígenas que supere el cuarenta por ciento de la totalidad de la población del municipio, conforme al último censo de población del INEGI.
+
+Para el caso de las candidaturas a diputaciones y regidurías de mayoría relativa, los partidos políticos y coaliciones electorales deberán registrar como candidatos a personas indígenas, cuando menos en la mitad de los distritos o demarcaciones electorales que tengan una población de personas indígenas que supere el cuarenta por ciento de la totalidad de la población del Distrito o Demarcación Electoral, conforme al último censo de población del INEGI.
+
+Sin menoscabo de lo anterior, los partidos políticos y coaliciones electorales podrán registrar adicionalmente candidaturas de personas indígenas que acrediten su autoadscripción calificada, en los diferentes cargos de elección popular que así consideren conforme a su estrategia electoral;
+
+II. Los partidos políticos, en su caso, deberán postular en sus listas de representación proporcional de regidores y diputados locales, candidaturas de personas indígenas adicionales a las registradas por mayoría relativa hasta representar por ambas vías, candidaturas de conformidad al porcentaje de población indígena en relación con la integración total del órgano público correspondiente.
+
+Lo anterior se realizará al dividir cien entre el número de integrantes del Ayuntamiento de que se trate o Congreso del Estado de manera respectiva, a fin de obtener un porcentaje de representación objetivo. De tal manera, que por cada entero del porcentaje de representación objetivo obtenido, conllevará cuando menos a registrar una candidatura por alguna de las dos vías de representación. En caso de que sea a través de la vía de representación proporcional, la candidatura deberá estar registrada dentro de los primeros cinco lugares de la lista.
+
+Sin perjuicio del párrafo anterior, el partido político podrá determinar postular candidaturas adicionales de personas indígenas por la vía de mayoría relativa o representación proporcional;
+
+III. Al momento de registrar candidaturas a los cargos de elección del Congreso del Estado y de los Ayuntamientos ante los órganos del Instituto Estatal Electoral, los partidos políticos y coaliciones electorales deberán presentar las constancias con las que se acredite la autoadscripción calificada, respaldada por elementos objetivos que demuestren su vínculo con el pueblo y la comunidad indígena, por lo que la constancia deberá emitirse por alguna de las autoridades a la que pertenece la persona que se pretende postular como candidata, conforme al orden de prelación siguiente:
+
+a) Asamblea General comunitaria o instituciones análogas de toma de decisiones reconocidas por la propia comunidad como su máximo órgano de autoridad;
+
+b) Asamblea de autoridades indígenas, tradicionales o comunitarias;
+
+c) Autoridades indígenas, tradicionales o comunitarias;
+
+d) Autoridades agrarias o comunitarias (comunales o ejidales), y
+
+e) Autoridades auxiliares (jueces auxiliares o delegados).
+
+En el supuesto de que en la comunidad no exista una autoridad indígena, tradicional o comunitaria, agraria, ejidal o auxiliar, que pueda emitir la constancia, sin que implique dejar de atenderse el orden de prelación indicado, esta podrá ser emitida en el siguiente orden por:
+
+a) Una asamblea de las personas que integran la comunidad.
+
+b) Una asociación civil integrada por personas indígenas, con al menos dos años de antigüedad a la fecha de la emisión.
+
+En caso de que en la comunidad no exista ninguna autoridad de las señaladas para emitir la constancia, ni tampoco una asociación civil indígena, o ante la negativa o imposibilidad de obtenerla, al menos diez personas que se autoadscriban como integrantes de un pueblo indígena deberán suscribirla, a manera de testigos.
+
+En todo caso, la prelación representa un orden que se debe seguir en la búsqueda de la constancia, lo que implicará que, se justifiquen las razones por las que no se atiende el referido orden. Para ello, el Consejo Local Electoral analizará bajo una perspectiva intercultural, la validez de la constancia y en su caso, de las razones por las que no se obtuvo la constancia respectiva por las autoridades conforme a la prelación indicada, a fin de evitar simulaciones o fraudes.
+
+La constancia deberá acompañarse con elementos objetivos que comprueben arraigo o vínculo con el pueblo y la comunidad indígena. Para la obtención de las pruebas o documentos a los que se hace referencia, se respetará en todo tiempo la autonomía, libre determinación, sistemas normativos internos y demás derechos colectivos del pueblo o comunidad indígena de que se trate, y
+
+IV. Para efecto de la emisión de la constancia de autoadscripción calificada, las autoridades señaladas en la fracción anterior, deberán estar comprendidas dentro de la demarcación, municipio o distrito según el cargo del que se trate; en el caso de las autoridades tradicionales éstas deberán estar preferentemente registradas en el Sistema Nacional de Información Estadística del Instituto Nacional de los Pueblos Indígenas.
+
+APARTADO B
+
+I. En la postulación de candidaturas a diputaciones al menos una fórmula habrá de conformarse con personas con discapacidad y otra fórmula con personas de la diversidad sexual, ya sean por el principio de mayoría relativa o bien por el de representación proporcional, en este último caso, ambas fórmulas se deberán ubicar dentro de los siete primeros lugares de la lista;
+
+II. Para acreditar la condición de persona con discapacidad deberá presentarse como medio de prueba un certificado médico, constancia o su equivalente, expedido por un médico especialista de una institución pública o privada, con el cual se determine el tipo de discapacidad, así como su condición permanente, los medios de verificación de cumplimiento de estas medidas y sus condiciones serán establecidos mediante los lineamientos que al efecto expida el Consejo;
+
+III. Para acreditar la condición de persona de la diversidad sexual, bastará la autoadscripción que de dicha circunstancia realice la persona; sin perjuicio de lo anterior, podrán presentar como medios de prueba objetivos actas de nacimiento, y demás documentación con la que se pretenda acreditar su orientación de género y/o identidad de género;
+
+IV. En el caso de las candidaturas de las personas de la diversidad sexual, tratándose de personas trans, la candidatura corresponderá al género con el que se identifiquen y dicha candidatura será tomada en cuenta para el cumplimiento del principio de paridad de género, y en la solicitud de registro de la candidatura, el partido político deberá informar que la postulación se realiza dentro de la acción afirmativa de persona de la diversidad sexual, y
+
+V. En el caso de que se postulen personas no binarias, en reconocimiento de los derechos humanos, políticos y electorales, las mismas no serán consideradas en alguno de los géneros, sin que en ningún caso disminuyan las candidaturas del género femenino.
+
+APARTADO C
+
+I. Los partidos políticos deberán registrar dentro de los primeros cinco espacios de sus listas de representación proporcional una candidatura de una persona migrante y/o residente en el extranjero, y
+
+II. Para acreditar la condición migrante y/o residente en el extranjero, deberá acreditarse el vínculo con la comunidad migrante, a través de pruebas idóneas que estarán sujetas a valoración de la autoridad electoral, la cual vigilará el cumplimiento de los requisitos de conformidad con los lineamientos respectivos.
+
 ### CAPÍTULO II. De la Representación Proporcional para la Integración del Congreso y de las Fórmulas de Asignación
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
-
-### CAPÍTULO III. De la Integración de los Ayuntamientos
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 21.
 
-Para la elección de los Diputados según el principio de Representación Proporcional, se constituirá una sola circunscripción electoral en el Estado.
+Para la elección de los Diputados bajo el principio de Representación Proporcional, se constituirá una sola circunscripción electoral en el Estado. Por lo cual, se establecen las siguientes bases:
 
-I. Para concurrir a la asignación de Diputados por este principio, los partidos políticos deberán acreditar:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE OCTUBRE DE 2023)</small>
+
+I. Todo partido político tendrá derecho a concurrir a la asignación de Diputados por el principio de Representación Proporcional, en los términos de la Constitución local y esta ley. Para concurrir a la asignación de Diputados por este principio, los partidos políticos deberán acreditar:
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 a) Que participan con fórmulas de candidatos a Diputados por el sistema de Mayoría Relativa en por lo menos las dos terceras partes de los distritos electorales uninominales;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE OCTUBRE DE 2023)</small>
 
-b) Haber registrado (sic) lista estatal para esta elección, conformada por un número de hasta de doce fórmulas de candidatos por cada partido político, de las cuales una deberá corresponder a candidatos migrantes.
+b) Haber registrado lista estatal para la elección, conformada por un número de hasta de (sic) doce fórmulas de candidatos por cada partido político.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 Cada fórmula deberá estar integrada por candidatos del mismo género.
 
@@ -273,15 +361,29 @@ Cada fórmula deberá estar integrada por candidatos del mismo género.
 
 Las listas se integrarán alternando fórmulas de candidatos de género distinto y atendiendo al orden de prelación.
 
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 5 DE OCTUBRE DE 2023)</small>
 
-La fórmula de candidatos migrantes, deberán estar incorporada en los primeros seis lugares, atendiendo el orden referido, y
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2023)</small>
 
-c) Haber alcanzado por lo menos el 3.0 por ciento de la votación válida emitida en la elección de Diputados;
+c) Haber alcanzado por lo menos el tres por ciento de la votación válida emitida en la elección de Diputados;
 
-II. Todo partido político tendrá derecho a concurrir a la asignación de Diputados por el principio de Representación Proporcional, en los términos de la Constitución local y esta ley, y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE OCTUBRE DE 2023)</small>
+
+II. Para garantizar el principio de paridad de género, al registrar las listas de candidaturas de representación proporcional, los partidos políticos deberán atender los siguientes criterios:
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+a) Las listas que fueron encabezadas por fórmulas de hombres en el proceso electoral inmediato anterior, deberán encabezarse por fórmulas integradas por mujeres para el siguiente proceso electoral.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+b) Las listas que fueron encabezadas por fórmulas de mujeres en el proceso electoral inmediato anterior, podrán encabezarse en el siguiente proceso electoral por fórmulas integradas por hombres, por mujeres o de manera mixta conforme a lo dispuesto en la presente ley, y
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 III. Ningún partido político podrá contar con más de dieciocho diputados por ambos principios.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación obtenida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
@@ -301,53 +403,55 @@ Votación efectiva: La que resulte de deducir de la votación válida emitida, l
 
 Votación ajustada: Es la resultante de deducir de la votación efectiva, la votación de aquellos partidos políticos que se ubiquen en sobre representación en la asignación de diputados de representación proporcional, o bien que mediante sus triunfos electorales obtengan la totalidad de los dieciocho distritos electorales.
 
-(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020) (F. DE E., P.O. 8 DE OCTUBRE DE 2020)
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 22 Bis.
 
-A los partidos políticos que obtengan cuando menos el tres por ciento de la votación válida emitida en la elección de Diputados de Mayoría Relativa, les será asignado una diputación por el principio de Representación Proporcional, con excepción de aquel al que se le hubiere otorgado las constancias de mayoría y validez de la totalidad de los distritos electorales.
+La distribución de las diputaciones de representación proporcional se hará de conformidad con las fórmulas de porcentaje mínimo, cociente electoral y resto mayor, que se aplicarán conforme a las bases siguientes:
 
-En forma previa a realizar la primera asignación de diputaciones por el principio de representación proporcional que les correspondan a los partidos políticos que hubiesen obtenido cuando menos el tres por ciento de la votación válida emitida, se verificará si alguno se encuentra en el límite de su porcentaje de votación más ocho puntos adicionales.
+a) En la primera ronda de asignación se procederá a aplicar el procedimiento de porcentaje mínimo a los partidos políticos que hubiesen obtenido cuando menos el tres por ciento de la votación válida emitida en la elección de Diputados de Mayoría Relativa, les será asignado (sic) una diputación por el principio de Representación Proporcional, con excepción de aquel al que se le hubiere otorgado las constancias de mayoría y validez de la totalidad de los distritos electorales.
 
-Una vez hecho lo anterior, se procederá a asignar una diputación a aquellos que hubiesen alcanzado el señalado porcentaje, debiendo excluir a los partidos políticos que se encuentre (sic) sobre representados.
+En forma previa a realizar la primera asignación de diputaciones por el principio de representación proporcional que les correspondan a los partidos políticos que hubiesen obtenido cuando menos el tres por ciento de la votación válida emitida, se verificará si alguno se encuentra en el límite de su porcentaje de votación, más ocho puntos adicionales.
 
-En caso de existir diputaciones por asignar se verificará que partidos se encuentran sub representados, esto es, que presenta (sic) un menor porcentaje de escaños frente al porcentaje de votos obtenidos, debiendo otorgar las asignaciones que correspondan en forma progresiva y en ese orden sucesivo, hasta que con las asignaciones se encuentren dentro de los límites establecidos.
+Una vez hecho lo anterior, se procederá a asignar una diputación a aquellos que hubiesen alcanzado el señalado porcentaje, debiendo excluir a los partidos políticos que se encuentren sobrerrepresentados.
 
-En caso de que luego de realizar los ejercicios referidos queden curules por repartir, o bien ningún partido se ubique en los referidos supuestos, se procederá de la siguiente forma:
+b) Posteriormente, en caso de existir diputaciones por asignar se empleará el procedimiento de cociente electoral, para lo cual se procederá a sumar la votación estatal efectiva obtenida por los partidos políticos que continúan concurriendo a la asignación, una vez descontada la votación utilizada en el procedimiento descrito en el inciso anterior, a esta suma se le denominará Votación para Asignación.
 
-I. Se sumará la votación estatal obtenida por los partidos políticos que continúan concurriendo a la asignación. A esta suma se le denominará Votación para Asignación, y
+A continuación, la Votación para Asignación se dividirá entre el número de diputaciones pendientes por asignar. Realizado lo anterior, se asignarán tantas curules como número de veces contenga su votación restante al cociente electoral.
 
-II. A continuación, la Votación para Asignación se dividirá entre el número de diputaciones pendientes por asignar. Al resultado de esta operación se le denominará Cociente de Asignación.
+Para tal efecto, en primer término, se le asignarán diputaciones al partido que obtenga el mayor índice de votación y después, en forma descendiente, a los demás partidos políticos con derecho a ello.
 
-Luego de hacer la asignación respectiva deberá realizarse el ejercicio para verificar si algún partido se encuentra sobre representado, de observarse que así es, se procederá a hacer el ajuste correspondiente.
+c) Si después de aplicar el cociente electoral restan curules por repartir, éstas se asignarán aplicando la fórmula de resto mayor, en orden decreciente según los votos que resten a cada partido político.
+
+Se entiende por resto mayor, el remanente de votación más alto de cada partido político después de deducir la que se utilizó para la asignación de diputaciones a que se refieren los incisos anteriores.
 
 Para la postulación de candidaturas, los lineamientos referidos deberán contemplar la aplicación de los criterios de paridad vertical y horizontal.
 
+El Consejo Local Electoral velará en todo momento por el cumplimiento a los límites de sobre y sub representación, la paridad de género, así como el derecho de ser votado de las personas de los pueblos y comunidades indígenas, personas migrantes, personas con discapacidad y personas de la diversidad sexual, para lo cual, deberá realizar los ajustes y sustituciones necesarias en las listas de candidaturas a diputaciones de representación proporcional, a fin de procurar su representatividad , sin dejar de considerar los triunfos obtenidos en candidaturas de mayoría relativa que logren cubrir el grupo respectivo.
+
 La expedición de las Constancias de Validez y Asignación, se llevará a cabo al finalizar la sesión del Consejo Local Electoral.
 
-### CAPÍTULO IV. De la Geografía Electoral
+### CAPÍTULO III. De la Integración de los Ayuntamientos
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 23.
 
-Los Ayuntamientos de los municipios del Estado de Nayarit, se elegirán cada tres años y se integrarán por un Presidente Municipal, un Síndico y el siguiente número de Regidores:
+Los Ayuntamientos de los municipios del Estado de Nayarit, se elegirán cada tres años y se integrarán por una Presidenta o Presidente Municipal, una Sindicatura y el siguiente número de Regidurías:
 
-I. En los municipios cuya lista nominal de electores sea hasta de 15,000 ciudadanos, cinco Regidores de Mayoría Relativa y dos de Representación Proporcional;
+I. En los municipios cuya lista nominal de electores sea hasta de 15,000 ciudadanos, cinco Regidurías de Mayoría Relativa y dos de Representación Proporcional;
 
-II. En los municipios cuya lista nominal de electores sea mayor de 15,000 ciudadanos hasta 45,000, siete Regidores de Mayoría Relativa y tres Regidores de Representación Proporcional;
+II. En los municipios cuya lista nominal de electores sea mayor de 15,000 ciudadanos y ciudadanas hasta 45,000, siete Regidurías de Mayoría Relativa y tres Regidurías de Representación Proporcional;
 
-III. En los municipios cuya lista nominal de electores sea mayor a los 45,000, hasta 150,000 ciudadanos, nueve Regidores de Mayoría Relativa y cuatro Regidores de Representación Proporcional, y
+III. En los municipios cuya lista nominal de electores sea mayor a los 45,000, hasta 150,000 ciudadanos, nueve Regidurías de Mayoría Relativa y cuatro Regidurías de Representación Proporcional, y
 
-IV. En los municipios cuya lista nominal de electores sea mayor a los 150,000 ciudadanos, once Regidores de Mayoría Relativa y cinco Regidores de Representación Proporcional.
+IV. En los municipios cuya lista nominal de electores sea mayor a los 150,000 ciudadanos y ciudadanas, once Regidurías de Mayoría Relativa y cinco Regidurías de Representación Proporcional.
 
-El número de regidores que integrará cada ayuntamiento, será aprobado por el Instituto Estatal Electoral, dentro del año siguiente a la conclusión del proceso electoral anterior a aquel en que vaya a aplicarse.
-
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+El número de Regidurías que integrará cada ayuntamiento, será aprobado por el Instituto Estatal Electoral, dentro del año siguiente a la conclusión del proceso electoral anterior a aquel en que vaya a aplicarse.
 
 En el registro de las candidaturas a los cargos de Presidente o Presidenta, regidurías y sindicaturas de los Ayuntamientos, los partidos políticos deberán garantizar el principio de paridad de género.
 
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
-
-Las candidaturas, tanto de mayoría relativa como de representación proporcional, que se registren por fórmulas, deberán integrarse por personas del mismo género, con excepción de que la fórmula la encabece el género masculino, en su caso, el suplente podrá ser de género femenino, pero no viceversa.
+Las candidaturas, tanto de mayoría relativa como de representación proporcional, que se registren por fórmulas, deberán integrarse por personas del mismo género, con excepción de que la fórmula la encabece el género masculino, en su caso, la suplente podrá ser de género femenino, pero no viceversa.
 
 > <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
@@ -355,17 +459,17 @@ Las candidaturas, tanto de mayoría relativa como de representación proporciona
 
 La elección de los integrantes de los Ayuntamientos de la Entidad, se realizará de la siguiente manera:
 
-I. Los Presidentes y Síndicos Municipales se elegirán por planillas integradas por fórmulas de candidatos, propietario y suplente, respectivamente para cada cargo, en votación de mayoría relativa.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2023)</small>
 
-Cada una de las fórmulas de propietario y suplente que se presenten para su registro, deberán estar integradas por candidatos de un mismo género. Una fórmula de la planilla será de género distinto.
+I. Los Presidentes y Síndicos Municipales se elegirán por planillas integradas por fórmulas de candidaturas, propietaria y suplente, respectivamente para cada cargo, en votación de mayoría relativa.
 
-Del total de las planillas que presente cada partido político o coalición en el Estado, el cincuenta por ciento de las fórmulas de candidatos a presidentes municipales deberá corresponder al mismo género.
+Cada una de las fórmulas de propietaria y suplente que se presenten para su registro, deberán estar integradas por candidaturas de un mismo género. Una fórmula de la planilla será de género distinto.
 
-(NOTA: EL 5 DE ENERO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 97/2016 Y SU ACUMULADA 98/2016, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE LA FRACCIÓN I DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE ENERO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+Del total de las planillas que presente cada partido político o coalición en el Estado, el cincuenta por ciento de las fórmulas de candidaturas a las presidencias municipales, deberán corresponder al mismo género.
 
-PARA GARANTIZAR LA PARIDAD VERTICAL Y HORIZONTAL DE PARTICIPACIÓN DE LOS GÉNEROS, LOS PARTIDOS POLÍTICOS Y COALICIONES DEBERÁN POSTULAR PLANILLAS DE CANDIDATOS EN LA TOTALIDAD DE LOS MUNICIPIOS DEL ESTADO.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE OCTUBRE DE 2023)</small>
 
-II. Los regidores por el sistema de mayoría relativa, se elegirán por fórmulas constituidas por un candidato propietario y otro suplente, de conformidad al número y territorialización que establezca la autoridad electoral competente, para cada uno de los municipios.
+II. Los regidores por el sistema de mayoría relativa, se elegirán por fórmulas constituidas por un candidato propietario y otro suplente, de conformidad al número determinado por el Instituto Estatal Electoral y territorialización que establezca la autoridad nacional electoral competente, para cada uno de los municipios.
 
 En los municipios con número de demarcaciones impar, cada partido político o coalición postulará fórmulas de candidatos por género hasta el número par máximo posible y la fórmula restante, será de género indistinto.
 
@@ -387,7 +491,9 @@ a) Si el candidato propietario fuera del sexo masculino, el suplente podrá ser 
 
 b) Si el candidato propietario fuera del sexo femenino, el suplente deberá ser del mismo sexo.
 
-La demarcación territorial para la elección de regidores a que se refiere el presente artículo será determinada tomando en consideración la que resulte de dividir la población total del municipio, de acuerdo con los datos del último censo de población, entre el número de regidurías a elegir, considerando regiones geográficas del municipio.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+La demarcación territorial para la elección de regidores a que se refiere el presente artículo será determinada tomando en consideración la que resulte de dividir la población total del municipio, de acuerdo con los datos del último censo de población, entre el número de regidurías a elegir, considerando regiones geográficas del municipio. La demarcación territorial para la elección de regidurías a que se refiere el presente artículo será determinada por la autoridad nacional electoral en atención a las atribuciones que le confiere la Constitución Política de los Estados Unidos Mexicanos, así como las leyes aplicables.
 
 Si el candidato propietario electo se encontrare ausente o imposibilitado, se llamará al suplente y si este también lo estuviera, al propietario de la siguiente fórmula de candidatos del mismo género que aparezca en la lista registrada por el partido político respectivo y así sucesivamente. Igual procedimiento se seguirá estando en funciones.
 
@@ -403,15 +509,19 @@ Para que un partido político tenga derecho a concurrir a la asignación de Regi
 
 I. Haber registrado fórmulas de candidatos para contender en las elecciones por mayoría relativa en cuando menos las dos terceras partes de las demarcaciones territoriales del Municipio correspondiente;
 
-II. Haber registrado listas de fórmulas de candidatos a Regidores bajo el principio de Representación Proporcional, con no menos del 60 por ciento del número de Regidurías de Mayoría Relativa de cada municipio, y en todos los casos, la cantidad total de fórmulas que resulte, será par;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+II. Haber registrado listas de fórmulas de candidatos a Regidores bajo el principio de Representación Proporcional, en razón al número de regidurías por asignar en el municipio de que se trate;
 
 III. Acreditar haber participado en los términos a que se refiere el cuarto párrafo de la fracción II del artículo anterior, y
 
 IV. Haber obtenido por lo menos el tres por ciento de la votación válida emitida en la elección respectiva.
 
-La integración de Regidores de Representación Proporcional, se hará por el Consejo Municipal Electoral correspondiente bajo las fórmulas y reglas establecidas por esta ley.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2023)</small>
 
-### CAPÍTULO I. De su Constitución y Registro
+La integración de Regidores de Representación Proporcional, se hará por el Consejo Municipal Electoral correspondiente, en atención a las fórmulas y reglas establecidas por esta ley.
+
+### CAPÍTULO IV. De la Geografía Electoral
 
 ###### Artículo 26.
 
@@ -453,7 +563,7 @@ Las demarcaciones municipales electorales correspondientes a cada uno de los mun
 
 ## TÍTULO CUARTO. De los Partidos Políticos
 
-### CAPÍTULO II. De los Derechos y Obligaciones
+### CAPÍTULO I. De su Constitución y Registro
 
 ###### Artículo 30.
 
@@ -517,7 +627,9 @@ II. Proponer las políticas de impulso al desarrollo del Estado;
 
 III. Ejecutar las acciones referentes a la formación ideológica y política de sus afiliados, y,
 
-IV. Preparar la participación activa de sus militantes en los procesos electorales.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+IV. Preparar la participación activa de sus militantes en los procesos electorales, libres de discriminación por razón de género, discapacidad, de la diversidad sexual y otros grupos vulnerables.
 
 ###### Artículo 34.
 
@@ -645,7 +757,7 @@ II. Constancia actualizada de la vigencia de su registro nacional o estatal, y e
 
 III. Copia certificada de las actas de designación de los titulares de su órgano de representación en la Entidad.
 
-### CAPÍTULO III. De las Prerrogativas y del Financiamiento de los Partidos Políticos y Candidatos Independientes
+### CAPÍTULO II. De los Derechos y Obligaciones
 
 ###### Artículo 40.
 
@@ -725,13 +837,13 @@ XIX. Para el caso de los partidos políticos con registro estatal, crear sus ór
 
 XX. Presentar cada año a más tardar en la última semana de enero al Instituto Estatal Electoral, un inventario de bienes muebles e inmuebles que hubieren adquirido con recursos provenientes del financiamiento público estatal;
 
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2023)</small>
 
-XXI. Fomentar, promover y garantizar la igualdad de oportunidades y equidad entre los géneros para la toma de decisiones internas de los institutos políticos, así como la paridad entre ellos en la postulación de candidatos a cargos de elección popular, atendiendo en todo momento los términos de la presente ley;
+XXI. Fomentar, promover y garantizar la igualdad de oportunidades y equidad entre los géneros para la toma de decisiones internas de los institutos políticos, así como la paridad entre ellos en la postulación de candidatos a cargos de elección popular, libres de discriminación por razón de discapacidad, de la diversidad sexual y otros grupos vulnerables, atendiendo en todo momento los términos de la presente ley;
 
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2023)</small>
 
-XXII. Procurar y promover la equidad étnica en las candidaturas a cargos de elección popular;
+XXII. Procurar la equidad étnica en las candidaturas a cargos de elección popular y la postulación de manera alternada de las diversas culturas de pueblos originarios;
 
 > <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2016)</small>
 
@@ -749,13 +861,21 @@ XXV. Sujetarse a los límites o modalidades establecidas por las leyes de la mat
 
 XXVI. Permitir la práctica de auditorías y verificaciones por los órganos del Instituto Nacional Electoral facultados para ello, o del Instituto Estatal Electoral cuando se delegue a éste las facultades de fiscalización previstas en el artículo 41 de la Constitución Federal, así como entregar la documentación que dichos órganos les requieran respecto a sus ingresos y egresos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2023)</small>
 
-XXVII. Postular candidaturas a los cargos de elección popular, integradas por jóvenes, los porcentajes, serán determinados por cada Instituto Político, y
+XXVII. Postular candidaturas a los cargos de elección popular, integradas por jóvenes, los porcentajes, serán determinados por cada Instituto Político;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2023)</small>
 
-XXVIII. Cumplir con lo que establece esta ley y otras disposiciones legales.
+XXVIII. Los partidos políticos deberán garantizar el derecho a ser votados de las personas de los pueblos y comunidades indígenas, personas migrantes, personas con discapacidad y personas de la diversidad sexual y otros grupos vulnerables, en los términos de la presente Ley, así como de los lineamientos respectivos;
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+XXIX. Incorporar en sus acciones de formación y capacitación política programas específicos para personas de los pueblos y comunidades indígenas, personas migrantes, personas con discapacidad y personas de la diversidad sexual y otros grupos vulnerables, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE OCTUBRE DE 2023)</small>
+
+XXX. Cumplir con lo que establece esta Ley y otras disposiciones legales.
 
 ###### Artículo 42.
 
@@ -767,9 +887,7 @@ Los dirigentes y los representantes de los partidos políticos son responsables 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE OCTUBRE DE 2016)</small>
 
-### CAPÍTULO IV. Límites de Gasto de los Procesos Internos de Selección de Candidatos y Campañas
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2016)</small>
+### CAPÍTULO III. De las Prerrogativas y del Financiamiento de los Partidos Políticos y Candidatos Independientes
 
 ###### Artículo 44.
 
@@ -973,9 +1091,9 @@ Las exenciones referidas, no se aplicarán en los derechos por la prestación de
 
 Los bienes que sean adquiridos por los partidos políticos con registro local por medio del financiamiento público estatal, pasarán a ser parte de la hacienda pública del Estado, cuando los mismos pierdan su registro, independientemente de los resultados que, en su caso, arroje la verificación de inventarios y la fiscalización correspondiente. Para tal efecto se garantizará previamente el pago de daños y perjuicios a terceros.
 
-### CAPÍTULO V. De las Coaliciones, Fusiones, Frentes y Candidaturas Comunes
+### CAPÍTULO IV. Límites de Gasto de los Procesos Internos de Selección de Candidatos y Campañas
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 61.
 
@@ -1011,9 +1129,9 @@ Las erogaciones que se realicen en proselitismo dentro de los procesos internos 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO VI. Pérdida de Acreditación o Registro de los Partidos Políticos
+### CAPÍTULO V. De las Coaliciones, Fusiones, Frentes y Candidaturas Comunes
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 64.
 
@@ -1131,9 +1249,9 @@ El convenio deberá presentarse ante el Instituto Estatal Electoral, el que reso
 
 Los partidos políticos nacionales y locales de nuevo registro no podrán postular en candidatura común, hasta después de haber participado en un proceso electoral local, postulando candidaturas en forma directa y sin coaliciones.
 
-### CAPÍTULO I. Disposiciones preliminares
+### CAPÍTULO VI. Pérdida de Acreditación o Registro de los Partidos Políticos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 78.
 
@@ -1177,9 +1295,9 @@ Tratándose de la pérdida de un partido de carácter nacional, en el ámbito lo
 
 ## TÍTULO QUINTO. Del Instituto Estatal Electoral
 
-### CAPÍTULO II. Del Consejo Local Electoral y de su Presidencia
+### CAPÍTULO I. Disposiciones preliminares
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 80.
 
@@ -1261,7 +1379,9 @@ IV. (DEROGADA, P.O. 7 DE OCTUBRE DE 2020)
 
 V. Órgano Interno de Control.
 
-### CAPÍTULO III. De las atribuciones del Consejo Local Electoral
+### CAPÍTULO II. Del Consejo Local Electoral y de su Presidencia
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 83.
 
@@ -1285,7 +1405,7 @@ El consejero presidente y los consejeros electorales del Consejo Local Electoral
 
 Durante el proceso electoral, el Consejo sesionará por lo menos una vez al mes. Concluido éste, se reunirá cuando sea necesario y convocado por su Presidente.
 
-### CAPÍTULO IV. De las Atribuciones de la Presidencia y del Secretario General
+### CAPÍTULO III. De las atribuciones del Consejo Local Electoral
 
 ###### Artículo 86.
 
@@ -1441,9 +1561,7 @@ XXXVI. Ejercer la facultad de atracción de funciones que realizan los Consejos 
 
 XXXVII. Las demás que le señale esta ley y otras disposiciones legales aplicables.
 
-### CAPÍTULO V. De la Junta Estatal Ejecutiva
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+### CAPÍTULO IV. De las Atribuciones de la Presidencia y del Secretario General
 
 ###### Artículo 87.
 
@@ -1643,7 +1761,7 @@ X. Las demás que les señalen las leyes aplicables.
 
 La remuneración que perciban los consejeros electorales se hará de conformidad con el Presupuesto de Egresos aprobado por el Congreso del Estado.
 
-### CAPÍTULO VI. De las Direcciones del Instituto
+### CAPÍTULO V. De la Junta Estatal Ejecutiva
 
 > <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
@@ -1685,9 +1803,9 @@ XII. Las demás que le establece la presente ley.
 
 Para los efectos anteriores, el o los integrantes de la Junta que correspondan, elaborarán los proyectos respectivos, mismos que pondrán a la consideración de este órgano.
 
-### CAPÍTULO VII. De los Consejos Municipales Electorales
+### CAPÍTULO VI. De las Direcciones del Instituto
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 91.
 
@@ -1779,7 +1897,9 @@ IV. Tener experiencia en asuntos electorales.
 
 Así como los requisitos previstos por el Reglamento de Elecciones para la designación de los Titulares de las Áreas Ejecutivas de Dirección y Unidades Técnicas de los Organismos Públicos Locales Electorales.
 
-### CAPÍTULO VIII. De las Atribuciones del Presidente y Secretario de los Consejos Municipales Electorales
+### CAPÍTULO VII. De los Consejos Municipales Electorales
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 93.
 
@@ -1927,9 +2047,7 @@ XV. Recibir y remitir a la brevedad al Consejo Local los recursos que se interpo
 
 XVI. Las demás que les confiera esta ley, el Consejo Local Electoral y otras disposiciones legales.
 
-### CAPÍTULO IX. De las Mesas Directivas de Casilla
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+### CAPÍTULO VIII. De las Atribuciones del Presidente y Secretario de los Consejos Municipales Electorales
 
 ###### Artículo 98.
 
@@ -2017,9 +2135,9 @@ X. Ejercer la fe pública en materia electoral, a petición de los partidos pol�
 
 XI. Las demás que le confiera esta ley, el Consejo Municipal Electoral y su Presidente.
 
-### CAPÍTULO X. Del Órgano Interno de Control
+### CAPÍTULO IX. De las Mesas Directivas de Casilla
 
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 100.
 
@@ -2027,9 +2145,9 @@ Las mesas directivas de casilla son los órganos que tienen a su cargo la recepc
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE OCTUBRE DE 2016)</small>
 
-### CAPÍTULO XI. Disposiciones Comunes
+### CAPÍTULO X. Del Órgano Interno de Control
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 #### SECCIÓN ÚNICA. Del Titular del Órgano Interno de Control y sus Facultades
 
@@ -2173,7 +2291,7 @@ Durante el desahogo de los procedimientos administrativos tendientes, en su caso
 
 > <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
-### CAPÍTULO ÚNICO. De los Convenios de Colaboración
+### CAPÍTULO XI. Disposiciones Comunes
 
 > <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
@@ -2259,9 +2377,9 @@ En idéntica forma procederán respecto de las subsecuentes sesiones.
 
 ## TÍTULO SEXTO. De la Coordinación con el Instituto Nacional Electoral
 
-### CAPÍTULO I. Del Proceso Electoral y sus Etapas
+### CAPÍTULO ÚNICO. De los Convenios de Colaboración
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 116.
 
@@ -2273,11 +2391,13 @@ La firma del convenio de coordinación y colaboración con el Instituto Nacional
 
 ## TÍTULO SÉPTIMO. Del Proceso Electoral
 
-### CAPÍTULO II. De los Procesos Internos de Selección de Candidatos y de las Precampañas
+### CAPÍTULO I. Del Proceso Electoral y sus Etapas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 117.
 
-El proceso electoral es el conjunto de actos ordenados por la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las leyes de la materia, realizados por las autoridades electorales, los partidos políticos y los ciudadanos, que tienen por objeto la renovación periódica y democrática de los integrantes de los poderes Legislativo y Ejecutivo, así como de los ayuntamientos de la entidad.
+El proceso electoral es el conjunto de actos ordenados por la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las leyes de la materia, realizados por las autoridades electorales, los partidos políticos y la ciudadanía, que tienen por objeto la renovación periódica y democrática de los integrantes de los poderes Legislativo y Ejecutivo, así como de los ayuntamientos de la entidad. En dichos procesos debe cumplirse el principio de paridad, así como promover la inclusión de grupos en situación de vulnerabilidad.
 
 El proceso electoral ordinario inicia el día siete de enero del año de la elección, y concluye con la declaración de validez de la elección y expedición de las constancias respectivas, o en su caso, una vez que quede firme la última resolución de los medios de impugnación que se hubieren interpuesto.
 
@@ -2293,9 +2413,7 @@ II. Jornada electoral, que inicia a las 8:00 horas del primer domingo de junio d
 
 III. Resultados y declaraciones de validez de las elecciones, que comprende, desde la remisión de la documentación y expedientes electorales al Consejo Municipal respectivo, hasta la conclusión del proceso electoral.
 
-### CAPÍTULO III. Del Registro de Candidatos
-
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+### CAPÍTULO II. De los Procesos Internos de Selección de Candidatos y de las Precampañas
 
 ###### Artículo 118.
 
@@ -2361,7 +2479,9 @@ IV. Las aportaciones en especie se harán constar por escrito en contratos celeb
 
 Los partidos políticos y precandidatos que no realicen precampañas, tendrán derecho a que se les asigne espacios en la radio y televisión, pero solo podrán difundir la campaña institucional del partido, absteniéndose de promocionar a persona alguna.
 
-### CAPÍTULO IV. De las Campañas Electorales
+### CAPÍTULO III. Del Registro de Candidatos
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 123.
 
@@ -2613,9 +2733,7 @@ Los Presidentes de los Consejos Municipales Electorales comunicarán al Consejo 
 
 El Consejo Local Electoral por medio del Consejero Presidente, enviará para su publicación en el Periódico Oficial del Estado, las listas de candidatos registrados ante los órganos electorales a Gobernador del Estado, Diputados de Mayoría Relativa, Diputados de Representación Proporcional, Presidentes municipales, Síndicos y Regidores de Mayoría Relativa de los Ayuntamientos, así como a Regidores de Representación Proporcional. En caso de sustitución de candidatos la publicación se hará en la misma forma a más tardar tres días después del acuerdo respectivo.
 
-### CAPÍTULO V. De los Actos Anticipados de Precampaña o Campaña
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2016)</small>
+### CAPÍTULO IV. De las Campañas Electorales
 
 ###### Artículo 131.
 
@@ -2805,19 +2923,39 @@ XIV. Simpatizante de partido político, a la persona que se adhiere espontáneam
 
 XV. Aspirante, la ciudadana o el ciudadano interesado en integrar, como propietario o suplente, una fórmula de candidatos o candidatas independientes, cuya manifestación ha resultado procedente y que ha obtenido de parte del Instituto Estatal Electoral la constancia respectiva;
 
-> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2023)</small>
 
-XVI. Actos tendentes a recabar el apoyo ciudadano, el conjunto de reuniones públicas, asambleas, marchas, y todas aquellas actividades dirigidas a la ciudadanía en general, que realizan quienes aspiran a una candidatura independiente con el objeto de obtener el apoyo ciudadano para satisfacer el requisito establecido en la Ley Electoral del Estado de Nayarit, y
+XVI. Actos tendentes a recabar el apoyo ciudadano, el conjunto de reuniones públicas, asambleas, marchas, y todas aquellas actividades dirigidas a la ciudadanía en general, que realizan quienes aspiran a una candidatura independiente con el objeto de obtener el apoyo ciudadano para satisfacer el requisito establecido en la Ley Electoral del Estado de Nayarit;
 
-> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2023)</small>
 
-XVII. Aplicación Móvil, la solución tecnológica desarrollada por los órganos electorales para recabar el apoyo ciudadano de las y los aspirantes a candidaturas independientes, así como para llevar un registro de los auxiliares de éstos y verificar el estado registral de las y los ciudadanos que respalden a dichos aspirantes.
+XVII. Aplicación Móvil, la solución tecnológica desarrollada por los órganos electorales para recabar el apoyo ciudadano de las y los aspirantes a candidaturas independientes, así como para llevar un registro de los auxiliares de éstos y verificar el estado registral de las y los ciudadanos que respalden a dichos aspirantes;
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+XVIII. Autoadscripción calificada, conciencia de identidad indígena de una persona respaldada por elementos objetivos que deberán presentar los partidos políticos o coaliciones para solicitar el registro de una candidatura para ocupar un cargo de elección popular, que demuestren su vínculo con el pueblo y la comunidad indígena a la que pertenece y desea representar;
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+XIX. Autoridades indígenas, tradicionales o comunitarias, son aquellas que los pueblos y comunidades indígenas reconocen como tales, y que son elegidas y nombradas de conformidad con sus sistemas normativos, las cuales pueden o no coincidir con las autoridades municipales, auxiliares o agrarias;
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+XX. Ciudadanos o ciudadanas nayaritas indígenas, los que pertenezcan a alguno de los pueblos y comunidades indígenas asentadas en el territorio de la entidad y acrediten su adscripción calificada;
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+XXI. Discapacidad: es la consecuencia de la presencia de una deficiencia o limitación en una persona, que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con las demás personas. Para efectos de esta ley se considerará exclusivamente la discapacidad permanente, y
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+XXII. Diversidad Sexual: hace referencia a todas las posibilidades de asumir, expresar y vivir la sexualidad, así como de asumir identidades y preferencias sexuales, distintas en cada cultura y persona. Es el reconocimiento de que todos los cuerpos, todas las sensaciones y todos los deseos tienen derecho a existir y manifestarse sin más límites que el respeto a los derechos de las otras personas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE OCTUBRE DE 2016)</small>
 
-### CAPÍTULO VI. De la Ubicación de las Casillas y Mesas Directivas
+### CAPÍTULO V. De los Actos Anticipados de Precampaña o Campaña
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 144.
 
@@ -2829,7 +2967,9 @@ Los representantes acreditados ante el órgano electoral estatal o el municipal 
 
 Quien impugne por actos anticipados de campaña, deberá reunir y presentar los elementos de prueba tendientes a establecer el vínculo de dichos actos con el candidato que se impugne. Dichas pruebas se sujetarán a lo establecido al efecto por la ley de la materia.
 
-### CAPÍTULO VII. De los Representantes
+### CAPÍTULO VI. De la Ubicación de las Casillas y Mesas Directivas
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 145.
 
@@ -2857,9 +2997,7 @@ En cada sección electoral se instalará una casilla donde funcionará la mesa d
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2016)</small>
 
-### CAPÍTULO VIII. De la Documentación y Material Electoral
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2016)</small>
+### CAPÍTULO VII. De los Representantes
 
 ###### Artículo 151.
 
@@ -2885,7 +3023,9 @@ En cada sección electoral se instalará una casilla donde funcionará la mesa d
 
 (DEROGADO, P.O. 5 DE OCTUBRE DE 2016)
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO VIII. De la Documentación y Material Electoral
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 157.
 
@@ -3043,7 +3183,7 @@ Las actas de jornada electoral y de resultados electorales deberán elaborarse e
 
 ## TÍTULO OCTAVO. De la Jornada Electoral
 
-### CAPÍTULO II. De la Instalación y Apertura de las Casillas
+### CAPÍTULO I. Disposiciones Generales
 
 #### SECCIÓN PRIMERA. Sistema de seguridad de las elecciones
 
@@ -3123,7 +3263,7 @@ II. Otro tanto se entregará al interesado, firmado de recibido con fecha y hora
 
 El Secretario, hará constar los incidentes que se susciten en la misma en el acta correspondiente.
 
-### CAPÍTULO III. De la Votación
+### CAPÍTULO II. De la Instalación y Apertura de las Casillas
 
 ###### Artículo 175.
 
@@ -3207,7 +3347,7 @@ I. Los notarios públicos y jueces que deban dar fe de cualquier acto relacionad
 
 II. Los funcionarios del Consejo Municipal Electoral que fueren llamados por el presidente de la mesa directiva.
 
-### CAPÍTULO IV. Del Cierre de la Votación, Escrutinio, Cómputo y Clausura de las Casillas
+### CAPÍTULO III. De la Votación
 
 ###### Artículo 183.
 
@@ -3267,9 +3407,7 @@ Cumplido los requisitos para acreditar la calidad de elector y anotados los dato
 
 El secretario asentará en el acta, a continuación del nombre del ciudadano la elección o elecciones por las que votó.
 
-### CAPÍTULO V. Del Envío y Recepción de los Paquetes Electorales
-
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+### CAPÍTULO IV. Del Cierre de la Votación, Escrutinio, Cómputo y Clausura de las Casillas
 
 ###### Artículo 186.
 
@@ -3425,7 +3563,9 @@ b) Los votos válidos y los nulos;
 
 En forma adicional a los sobres referidos, por fuera del paquete electoral se fijará un sobre conteniendo copia legible del acta de escrutinio y cómputo para los efectos del programa de resultados preliminares y el cual se desprenderá al recibirse en el Consejo Municipal Electoral respectivo, en los términos de la presente ley.
 
-### CAPÍTULO VI. De la Información de los Resultados Preliminares
+### CAPÍTULO V. Del Envío y Recepción de los Paquetes Electorales
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 192.
 
@@ -3473,7 +3613,7 @@ III. El Presidente del Consejo, bajo su responsabilidad los salvaguardará y al 
 
 De la recepción de los sobres que contengan los expedientes electorales se levantará acta circunstanciada en la que se haga constar, en su caso, los que hubieren sido recibidos sin reunir los requisitos que señala esta ley.
 
-### CAPÍTULO I. Reglas Generales para los Cómputos Municipales
+### CAPÍTULO VI. De la Información de los Resultados Preliminares
 
 ###### Artículo 195.
 
@@ -3503,91 +3643,7 @@ En el presente Título, se atenderán de ser el caso, las reglas, lineamientos, 
 
 ## TÍTULO NOVENO. De los Cómputos y de la Declaratoria de Validez de las Elecciones
 
-### CAPÍTULO II. Del Cómputo Estatal y Declaración de Validez de las Elecciones de Gobernador y Diputados
-
-Artículos (sic) 209.- El Consejo Local Electoral celebrará sesión ordinaria a los ocho días posteriores al día de la elección, para realizar el cómputo estatal y las declaratorias de validez de las elecciones de Gobernador, Diputados por el sistema de Mayoría Relativa y por el Principio de Representación Proporcional.
-
-Al instalarse la sesión, se iniciará la elaboración de un acta circunstanciada en la que se harán constar los resultados y los incidentes que ocurriesen durante su celebración.
-
-El cómputo se sujetará a las reglas siguientes:
-
-I. Se iniciará con la elección de Gobernador, bajo el siguiente procedimiento:
-
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
-
-a) Se tomará nota de los resultados que constan en cada una de las actas de los cómputos municipales de esta elección, así como de los resultados que consten en las actas de la votación emitida en el extranjero;
-
-b) La suma de los resultados, constituirá el cómputo estatal de la elección de Gobernador y se asentará en el acta respectiva;
-
-c) Cuando la diferencia entre el candidato que haya obtenido el mayor número de votos y el que haya quedado en segundo lugar en número de votos, sea igual o menor a un punto porcentual, el Consejo Local Electoral, ordenará el recuento de votos de todas las casillas del Estado respecto a esta elección. Al efecto se deberán atender las reglas establecidas por el artículo 214 de la presente ley;
-
-d) De no ordenarse el recuento de votos, por no haberse presentado la situación contemplada en el inciso anterior, el Consejo Local Electoral verificará el cumplimiento de los requisitos formales de la elección, del candidato que haya obtenido la mayoría de votos y que cumpla con los requisitos de elegibilidad previstos por esta ley, y;
-
-e) Se hará constar en el acta circunstanciada de la sesión, los resultados del cómputo, los incidentes que hubieren ocurrido durante la misma y la declaración de validez de la elección y la elegibilidad del candidato que hubiera obtenido el mayor número de votos.
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
-
-Una vez concluidas las etapas anteriores, se declarará la validez de la elección y electo al ciudadano que haya obtenido la mayoría de votos.
-
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
-
-La expedición de las Constancias de Asignación y Validez, se entregarán en sesión del Consejo, la cual se celebrará una vez concluido el cómputo final, dentro de las 24 horas siguientes.
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
-
-El Presidente del Consejo Local Electoral, procederá a fijar en el exterior del domicilio que ocupa el Consejo, los resultados del cómputo.
-
-II. Se proseguirá con la elección de Diputados por el sistema de Mayoría Relativa iniciando por el distrito I, bajo el siguiente procedimiento:
-
-a) Se tomará razón de los resultados que consten en el acta o actas, según sea el caso, de cómputo municipal correspondiente al distrito de esta elección;
-
-b) El resultado o la suma de resultados, según sea el caso, constituirá el cómputo de la elección de Diputados por el sistema de Mayoría Relativa del distrito respectivo y se asentará en el acta correspondiente;
-
-c) Cuando en un distrito electoral la diferencia entre la fórmula de candidatos que haya obtenido el mayor número de votos y la que haya quedado en segundo lugar en número de votos, sea igual o menor a un punto porcentual, el Consejo Local Electoral, ordenará el recuento de votos de todas las casillas del Distrito Electoral respectivo. Al efecto se deberán atender las reglas establecidas por el artículo 214 de la presente ley;
-
-d) De no ordenarse el recuento de votos, por no haberse presentado la situación contemplada en el inciso anterior, el Consejo Local Electoral verificará el cumplimiento de los requisitos formales de la elección y que la fórmula de candidatos que hayan obtenido la mayoría de votos cumplan con los requisitos de elegibilidad previstos por esta ley, y;
-
-e) Se hará constar en el acta circunstanciada de la sesión los resultados del cómputo, los incidentes que hubieren ocurrido durante la misma, la declaración de validez de la elección y elegibilidad de la fórmula de candidatos que hubieran obtenido el mayor número de votos.
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
-
-Una vez concluidas las etapas anteriores, se declarará la validez de la elección de cada uno de los distritos de la Entidad y electos a los ciudadanos cuyas fórmulas hayan obtenido la mayoría de votos.
-
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
-
-La expedición de las Constancias de Asignación y Validez, se entregarán en sesión del Consejo, la cual se celebrará una vez concluido el cómputo final dentro de las 24 horas siguientes.
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
-
-El Presidente del Consejo Local Electoral, procederá a fijar en el exterior del domicilio que ocupa el Consejo, los resultados del cómputo.
-
-III. A continuación se seguirá con la asignación de Diputados por el principio de Representación Proporcional, bajo el siguiente procedimiento:
-
-a) Se tomará nota de los resultados que consten en cada una de las actas de cómputo de la elección de Diputados por el sistema de Mayoría Relativa, de cada uno de los Municipios;
-
-b) La suma de los resultados, constituirá el cómputo estatal de la elección de Diputados por el principio de Representación Proporcional;
-
-c) Con base en lo anterior en los términos de la Constitución Política del Estado y los que establece la presente ley, se procederá a la asignación de Diputados electos por el principio de Representación Proporcional y se asentará en el acta respectiva;
-
-d) El Consejo Local Electoral verificará el cumplimiento de los requisitos formales de la elección de los candidatos que hayan obtenido la asignación y que cumplan con los requisitos de elegibilidad previstos por esta ley, y;
-
-e) Se hará constar en el acta circunstanciada de la sesión los incidentes que hubieren ocurrido durante la misma, la declaración de validez de la elección y el cumplimiento de la elegibilidad de los candidatos que hubieran obtenido la asignación respectiva.
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
-
-Una vez concluidas las etapas anteriores, se declarará la validez de la elección y electos a los ciudadanos cuya fórmula haya obtenido la mayoría de votos.
-
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
-
-La expedición de las Constancias de Asignación y Validez, se entregarán en sesión del Consejo, la cual se celebrará una vez concluido el cómputo final dentro de las 24 horas siguientes.
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
-
-El Presidente del Consejo Local Electoral, procederá a fijar en el exterior del domicilio que ocupa el Consejo, los resultados del cómputo.
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
-
-Lo anterior se realizará no obstante que se hubiere ordenado el recuento de votos en uno o varios distritos electorales. De haberse ordenado dicho recuento, el Consejo Local Electoral sesionará nuevamente a fin de reformular el cómputo para los efectos a que se refiere el antepenúltimo párrafo de este artículo.
+### CAPÍTULO I. Reglas Generales para los Cómputos Municipales
 
 ###### Artículo 196.
 
@@ -3809,9 +3865,91 @@ Las sesiones de cómputo municipal, al instalarse, darán inicio con la elaborac
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE OCTUBRE DE 2016)</small>
 
-### CAPÍTULO III. Del recuento total de votos
+### CAPÍTULO II. Del Cómputo Estatal y Declaración de Validez de las Elecciones de Gobernador y Diputados
+
+Artículos (sic) 209.- El Consejo Local Electoral celebrará sesión ordinaria a los ocho días posteriores al día de la elección, para realizar el cómputo estatal y las declaratorias de validez de las elecciones de Gobernador, Diputados por el sistema de Mayoría Relativa y por el Principio de Representación Proporcional.
+
+Al instalarse la sesión, se iniciará la elaboración de un acta circunstanciada en la que se harán constar los resultados y los incidentes que ocurriesen durante su celebración.
+
+El cómputo se sujetará a las reglas siguientes:
+
+I. Se iniciará con la elección de Gobernador, bajo el siguiente procedimiento:
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+a) Se tomará nota de los resultados que constan en cada una de las actas de los cómputos municipales de esta elección, así como de los resultados que consten en las actas de la votación emitida en el extranjero;
+
+b) La suma de los resultados, constituirá el cómputo estatal de la elección de Gobernador y se asentará en el acta respectiva;
+
+c) Cuando la diferencia entre el candidato que haya obtenido el mayor número de votos y el que haya quedado en segundo lugar en número de votos, sea igual o menor a un punto porcentual, el Consejo Local Electoral, ordenará el recuento de votos de todas las casillas del Estado respecto a esta elección. Al efecto se deberán atender las reglas establecidas por el artículo 214 de la presente ley;
+
+d) De no ordenarse el recuento de votos, por no haberse presentado la situación contemplada en el inciso anterior, el Consejo Local Electoral verificará el cumplimiento de los requisitos formales de la elección, del candidato que haya obtenido la mayoría de votos y que cumpla con los requisitos de elegibilidad previstos por esta ley, y;
+
+e) Se hará constar en el acta circunstanciada de la sesión, los resultados del cómputo, los incidentes que hubieren ocurrido durante la misma y la declaración de validez de la elección y la elegibilidad del candidato que hubiera obtenido el mayor número de votos.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+Una vez concluidas las etapas anteriores, se declarará la validez de la elección y electo al ciudadano que haya obtenido la mayoría de votos.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+La expedición de las Constancias de Asignación y Validez, se entregarán en sesión del Consejo, la cual se celebrará una vez concluido el cómputo final, dentro de las 24 horas siguientes.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+El Presidente del Consejo Local Electoral, procederá a fijar en el exterior del domicilio que ocupa el Consejo, los resultados del cómputo.
+
+II. Se proseguirá con la elección de Diputados por el sistema de Mayoría Relativa iniciando por el distrito I, bajo el siguiente procedimiento:
+
+a) Se tomará razón de los resultados que consten en el acta o actas, según sea el caso, de cómputo municipal correspondiente al distrito de esta elección;
+
+b) El resultado o la suma de resultados, según sea el caso, constituirá el cómputo de la elección de Diputados por el sistema de Mayoría Relativa del distrito respectivo y se asentará en el acta correspondiente;
+
+c) Cuando en un distrito electoral la diferencia entre la fórmula de candidatos que haya obtenido el mayor número de votos y la que haya quedado en segundo lugar en número de votos, sea igual o menor a un punto porcentual, el Consejo Local Electoral, ordenará el recuento de votos de todas las casillas del Distrito Electoral respectivo. Al efecto se deberán atender las reglas establecidas por el artículo 214 de la presente ley;
+
+d) De no ordenarse el recuento de votos, por no haberse presentado la situación contemplada en el inciso anterior, el Consejo Local Electoral verificará el cumplimiento de los requisitos formales de la elección y que la fórmula de candidatos que hayan obtenido la mayoría de votos cumplan con los requisitos de elegibilidad previstos por esta ley, y;
+
+e) Se hará constar en el acta circunstanciada de la sesión los resultados del cómputo, los incidentes que hubieren ocurrido durante la misma, la declaración de validez de la elección y elegibilidad de la fórmula de candidatos que hubieran obtenido el mayor número de votos.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+Una vez concluidas las etapas anteriores, se declarará la validez de la elección de cada uno de los distritos de la Entidad y electos a los ciudadanos cuyas fórmulas hayan obtenido la mayoría de votos.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+La expedición de las Constancias de Asignación y Validez, se entregarán en sesión del Consejo, la cual se celebrará una vez concluido el cómputo final dentro de las 24 horas siguientes.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+El Presidente del Consejo Local Electoral, procederá a fijar en el exterior del domicilio que ocupa el Consejo, los resultados del cómputo.
+
+III. A continuación se seguirá con la asignación de Diputados por el principio de Representación Proporcional, bajo el siguiente procedimiento:
+
+a) Se tomará nota de los resultados que consten en cada una de las actas de cómputo de la elección de Diputados por el sistema de Mayoría Relativa, de cada uno de los Municipios;
+
+b) La suma de los resultados, constituirá el cómputo estatal de la elección de Diputados por el principio de Representación Proporcional;
+
+c) Con base en lo anterior en los términos de la Constitución Política del Estado y los que establece la presente ley, se procederá a la asignación de Diputados electos por el principio de Representación Proporcional y se asentará en el acta respectiva;
+
+d) El Consejo Local Electoral verificará el cumplimiento de los requisitos formales de la elección de los candidatos que hayan obtenido la asignación y que cumplan con los requisitos de elegibilidad previstos por esta ley, y;
+
+e) Se hará constar en el acta circunstanciada de la sesión los incidentes que hubieren ocurrido durante la misma, la declaración de validez de la elección y el cumplimiento de la elegibilidad de los candidatos que hubieran obtenido la asignación respectiva.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+Una vez concluidas las etapas anteriores, se declarará la validez de la elección y electos a los ciudadanos cuya fórmula haya obtenido la mayoría de votos.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+La expedición de las Constancias de Asignación y Validez, se entregarán en sesión del Consejo, la cual se celebrará una vez concluido el cómputo final dentro de las 24 horas siguientes.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+El Presidente del Consejo Local Electoral, procederá a fijar en el exterior del domicilio que ocupa el Consejo, los resultados del cómputo.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+Lo anterior se realizará no obstante que se hubiere ordenado el recuento de votos en uno o varios distritos electorales. De haberse ordenado dicho recuento, el Consejo Local Electoral sesionará nuevamente a fin de reformular el cómputo para los efectos a que se refiere el antepenúltimo párrafo de este artículo.
 
 ###### Artículo 210.
 
@@ -3877,9 +4015,9 @@ El Presidente del Consejo Local Electoral, conservará en su poder, una copia ce
 
 De igual manera, el Presidente tomará las medidas necesarias para el depósito, en el lugar señalado para tal efecto, de la documentación electoral que le haya sido remitida por los Consejos Municipales Electorales a que se refiere esta ley, hasta la conclusión del proceso electoral, procediendo después de los tres meses siguientes, a su destrucción.
 
-### CAPÍTULO I. De los sujetos, conductas sancionables y sanciones
+### CAPÍTULO III. Del recuento total de votos
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 213.
 
@@ -3927,9 +4065,9 @@ Cuando el Consejo Local Electoral ordene el recuento total de votos de alguna el
 
 > <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
-### CAPÍTULO II. Del Procedimiento Administrativo Sancionador
+### CAPÍTULO I. De los sujetos, conductas sancionables y sanciones
 
-> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 216.
 
@@ -4275,7 +4413,7 @@ I. Una vez recaudado los recursos correspondientes, el Instituto o la autoridad 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2016)</small>
 
-### CAPÍTULO III. Del Procedimiento Ordinario Sancionador
+### CAPÍTULO II. Del Procedimiento Administrativo Sancionador
 
 > <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
@@ -4385,7 +4523,7 @@ Para la resolución expedita de las quejas o denuncias y con el objeto de determ
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2016)</small>
 
-### CAPÍTULO IV. Del Procedimiento Especial Sancionador
+### CAPÍTULO III. Del Procedimiento Ordinario Sancionador
 
 > <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
@@ -4541,9 +4679,9 @@ En el desahogo de los puntos del orden del día en que el consejo electoral corr
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2016)</small>
 
-### CAPÍTULO I. Aspectos Generales
+### CAPÍTULO IV. Del Procedimiento Especial Sancionador
 
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 241.
 
@@ -4705,13 +4843,13 @@ II. Imponer las sanciones que resulten procedentes en términos de lo dispuesto 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO II. Del Proceso de Candidaturas Independientes
+### CAPÍTULO I. Aspectos Generales
 
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 252.
 
-El derecho de la ciudadanía de solicitar su registro, de manera independiente a los partidos políticos, se sujetará a los requisitos, condiciones y términos establecidos en la Constitución Local y en la presente Ley.
+El derecho de la ciudadanía de solicitar su registro, de manera independiente a los partidos políticos, será libre de discriminación alguna por razón de género, étnico, discapacidad, de la diversidad sexual y otros grupos vulnerables, debiendo sujetarse a los requisitos, condiciones y términos establecidos en la Constitución Local y en la presente Ley.
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
@@ -4743,7 +4881,7 @@ Las y los candidatos independientes que hayan participado en una elección ordin
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO III. De la Convocatoria
+### CAPÍTULO II. Del Proceso de Candidaturas Independientes
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
@@ -4761,19 +4899,21 @@ IV. Del registro de Candidaturas Independientes.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO IV. De los Actos Previos al Registro de Candidaturas Independientes
+### CAPÍTULO III. De la Convocatoria
 
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 257.
 
-El Consejo Local Electoral emitirá la Convocatoria dirigida a la ciudadanía nayarita interesada en postularse a una Candidatura Independiente, señalando los cargos de elección popular a los que pueden aspirar, los requisitos que deben cumplir, la documentación comprobatoria requerida, los plazos para recabar el apoyo ciudadano correspondiente, los topes de gastos que pueden erogar y los formatos para ello.
+El Consejo Local Electoral emitirá la Convocatoria dirigida a la ciudadanía nayarita interesada en postularse a una Candidatura Independiente, procurando la participación de la población indígena, personas con discapacidad, personas de la diversidad sexual y otros grupos vulnerables, debiendo señalar los cargos de elección popular a los que pueden aspirar, los requisitos que deben cumplir, la documentación comprobatoria requerida, los plazos para recabar el apoyo ciudadano correspondiente, los topes de gastos que pueden erogar y los formatos para ello.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
 El Instituto dará amplia difusión a la Convocatoria.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO V. De la Obtención del Apoyo Ciudadano
+### CAPÍTULO IV. De los Actos Previos al Registro de Candidaturas Independientes
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
@@ -4799,7 +4939,7 @@ La persona moral a la que se refiere el párrafo anterior deberá estar constitu
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO VII. De los Requisitos de Elegibilidad
+### CAPÍTULO V. De la Obtención del Apoyo Ciudadano
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
@@ -4915,7 +5055,7 @@ VIII. Las demás establecidas por esta Ley.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO VIII. De la Solicitud de Registro
+### CAPÍTULO VII. De los Requisitos de Elegibilidad
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
@@ -4925,7 +5065,7 @@ Las y los ciudadanos que aspiren a participar mediante una candidatura independi
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO IX. Del Registro
+### CAPÍTULO VIII. De la Solicitud de Registro
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
@@ -5035,7 +5175,7 @@ Los candidatos independientes que hayan sido registrados no podrán ser postulad
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO X. De la Sustitución y Cancelación del Registro
+### CAPÍTULO IX. Del Registro
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
@@ -5051,7 +5191,7 @@ El Consejo Local Electoral y Municipales, según corresponda, tomarán las medid
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO XI. De las Prerrogativas, Derechos y Obligaciones
+### CAPÍTULO X. De la Sustitución y Cancelación del Registro
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
@@ -5073,7 +5213,7 @@ En el caso de las planillas de candidaturas independientes a los cargos de presi
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO XII. De las y los Representantes ante los Órganos del Instituto
+### CAPÍTULO XI. De las Prerrogativas, Derechos y Obligaciones
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
@@ -5153,7 +5293,7 @@ Las y los candidatos independientes que incumplan con la normatividad electoral 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO I. Derecho al Voto en el Extranjero
+### CAPÍTULO XII. De las y los Representantes ante los Órganos del Instituto
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
@@ -5181,7 +5321,7 @@ Las y los candidatos independientes podrán sustituir en todo tiempo a sus repre
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO II. De los Requisitos para el Ejercicio del Voto en el Extranjero
+### CAPÍTULO I. Derecho al Voto en el Extranjero
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
@@ -5211,7 +5351,7 @@ Para el cumplimiento de las atribuciones y tareas que este capítulo otorga al I
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO III. De los Sitios para la Disposición del Formato de Solicitud
+### CAPÍTULO II. De los Requisitos para el Ejercicio del Voto en el Extranjero
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
@@ -5235,7 +5375,7 @@ El Consejo Local Electoral publicará en coordinación con el Instituto Nacional
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO IV. De la Documentación y Material Electoral para el Voto de las y los Ciudadanos Nayaritas Residentes en el Extranjero
+### CAPÍTULO III. De los Sitios para la Disposición del Formato de Solicitud
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
@@ -5249,7 +5389,7 @@ Las y los nayaritas residentes en el extranjero podrán tramitar su credencial p
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO V. De la Prohibición de Campaña en el Extranjero
+### CAPÍTULO IV. De la Documentación y Material Electoral para el Voto de las y los Ciudadanos Nayaritas Residentes en el Extranjero
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
@@ -5265,7 +5405,7 @@ El número de boletas electorales que serán impresas para el voto en el extranj
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO I. De la Violencia Política por Razones de Género
+### CAPÍTULO V. De la Prohibición de Campaña en el Extranjero
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
@@ -5295,7 +5435,7 @@ Son aplicables las disposiciones de esta ley, en todo lo que no contravenga a la
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO II. De la Distribución de Competencias en Materia de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres
+### CAPÍTULO I. De la Violencia Política por Razones de Género
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
@@ -5308,6 +5448,10 @@ Se entenderá que las acciones u omisiones se basan en elementos de género, cua
 Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
 Las quejas o denuncias por violencia política contra las mujeres en razón de género, se sustanciarán a través del Procedimiento Especial Sancionador.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+Cuando la víctima sea una mujer en situación de vulnerabilidad, la sustanciación deberá realizarse con perspectiva intercultural, de género, de discapacidad, y de derechos humanos, a fin de garantizar la protección más amplia de derechos según el caso particular.
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
@@ -5391,6 +5535,10 @@ d) Medidas de no repetición.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE OCTUBRE DE 2020)</small>
 
+### CAPÍTULO II. De la Distribución de Competencias en Materia de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 296.
 
 Corresponde al Instituto Estatal Electoral de Nayarit y al Tribunal Estatal Electoral de Nayarit y a los Organismos Públicos Locales Electorales, en el ámbito de sus competencias:
@@ -5468,3 +5616,19 @@ P.O. 24 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 101 DE LA LEY ELECTORAL DEL ESTADO DE NAYARIT”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 5 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE NAYARIT".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. El Instituto Estatal Electoral deberá armonizar antes del inicio del proceso electoral ordinario 2024, los reglamentos, acuerdos, lineamientos y demás disposiciones que se requiera para dar debido cumplimiento al presente Decreto.
+
+TERCERO. Con la oportunidad debida para su aplicación en el proceso electoral ordinario 2024, el Instituto Estatal Electoral deberá emitir los lineamientos para el procedimiento de registro de candidaturas a cargos de elección popular de los grupos vulnerables a que refiere el presente Decreto, y realizar los actos materiales para su cumplimiento.
+
+CUARTO. Previo al inicio del Proceso Electoral 2024, el Instituto Estatal Electoral de Nayarit informará en que distritos, municipios y demarcaciones se podrá (sic) postular candidaturas integradas por personas de pueblos y comunidades indígenas.
+
+QUINTO. Las autoridades administrativas electorales tienen la obligación de traducir todos aquellos documentos, lineamientos o preceptos relacionados con la postulación de personas indígenas, de conformidad con los pueblos y culturas indígenas que radican en el Estado. En el mismo sentido, los documentos, lineamientos o preceptos relacionados con las personas con discapacidad deberán ser traducidos cuando menos, a lenguaje de señas utilizada predominantemente en el Estado y al sistema de escritura braille, para su difusión.
+
+SEXTO. A fin de garantizar el principio de paridad de género en las postulaciones por ambas vías que dispone el presente Decreto, se habrán de considerar los resultados obtenidos en el proceso electoral inmediato anterior.
