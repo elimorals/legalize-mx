@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-profesiones-del-estado-de-quintana-roo-12990"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-15"
-last_updated: "1998-06-15"
+last_updated: "2023-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12990&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROFESIONES DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial el 15 de Junio de 1998.
 
@@ -265,13 +265,19 @@ XIX.- Las demás que coadyuven al cumplimiento del objeto de esta ley.
 
 ### CAPITULO QUINTO. DEL SERVICIO SOCIAL PROFESIONAL
 
+> <small>(REFORMADO [N. DE E. REFORMADO Y REUBICADO, ANTES ARTÍCULO 29], P.O. 5 DE OCTUBRE DE 2023)</small>
+
 ###### ARTICULO 28.
 
-Todos los estudiantes que hayan obtenido de la institución educativa correspondiente, el certificado de estudios completos de las profesiones a que se refiere esta ley, deberán prestar el servicio social profesional, cuando el programa de estudios de la institución así lo establezca, como requisito indispensable para la obtención del Título profesional.
+Se entiende por servicio social, a la actividad eminentemente formativa y temporal que será obligatoria de acuerdo con lo señalado por esta ley y que desarrolla en las y los estudiantes de educación superior una conciencia de solidaridad y compromiso con la sociedad.
+
+> <small>(REFORMADO [N. DE E. REFORMADO Y REUBICADO, ANTES ARTÍCULO 28], P.O. 5 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 29.
 
-Se entiende por servicio social profesional la actividad de carácter temporal y mediante retribución que ejecuten y presten los estudiantes en términos del artículo anterior, en interés de la sociedad y del Estado.
+Para obtener el título profesional correspondiente al nivel de licenciatura, será obligatoria la prestación del servicio social, para lo cual las instituciones de educación superior en el Estado deberán sujetarse a las disposiciones constitucionales y legales en la materia.
+
+Las autoridades educativas estatales y municipales, en el ámbito de su competencia, y en coordinación con la Secretaría de Educación Púbica de la Administración Pública Federal, promoverán con las instituciones de educación superior que, como una opción del servicio social, se realice el reforzamiento del conocimiento, a través de tutorías a educandos en el tipo educativo básico y de media superior en las áreas de matemáticas, lenguaje, comunicación y se proporcione acompañamiento en servicios de psicología, trabajo social, orientación educativa,, (sic) entre otras, para contribuir a su máximo aprendizaje, desarrollo integral y equidad en educación.
 
 ###### ARTICULO 30.
 
@@ -280,6 +286,18 @@ Los colegios de profesionistas con el consentimiento expreso de cada asociado, i
 ###### ARTICULO 31.
 
 Los planes de estudios de la institución educativa, según la naturaleza de la profesión y de las necesidades sociales que se trate de satisfacer, exigirán la prestación del servicio social profesional durante un tiempo no menor de seis meses.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+El servicio social podrá ser prestado por la o el estudiante en modalidad presencial, semi presencial o a distancia, conforme lo determinen las instituciones o colegios en el Estado en el cual se realicen las actividades del servicio social encomendadas.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+El servicio social deberá ser reconocido como parte de la experiencia profesional de las y los estudiantes que lo hayan acreditado en los términos de esta ley.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2023)</small>
+
+Las instituciones en el Estado donde se haya prestado el servicio social deberán expedir a las y los estudiantes un documento de terminación en el que se hagan constar las habilidades adquiridas durante el periodo en el que prestó el servicio social.
 
 ###### ARTICULO 32.
 
@@ -356,3 +374,13 @@ ING. MARIO E. VILLANUEVA MADRID.
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 DR. HECTOR ESQUILIANO SOLIS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 102 POR EL QUE SE REFORMAN LOS ARTÍCULOS 28 Y 29 Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 31 DE LA LEY DE PROFESIONES DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
