@@ -4,7 +4,7 @@ identifier: "HID-ley-de-presupuesto-y-contabilidad-gubernamental-del-estado-1033
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-27"
-last_updated: "2022-10-21"
+last_updated: "2023-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de octubre de 2014.
 
@@ -249,9 +249,9 @@ LVII. Requerimientos financieros del sector público: Las necesidades de financi
 
 LVIII. Responsabilidad Hacendaria: La observancia de los principios y las disposiciones de esta Ley, la Ley de Ingresos, el Presupuesto de Egresos y los ordenamientos jurídicos aplicables que procuren el equilibrio presupuestario, la disciplina fiscal y el cumplimiento de las metas aprobadas por el Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2023)</small>
 
-LIX. Secretaría: La Secretaría de Finanzas Públicas;
+LIX. Secretaría: La Secretaría de Hacienda;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1860,3 +1860,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Secretaría de Finanzas Públicas del Estado de Hidalgo, en el presupuesto de egresos inmediato a la entrada en vigor del presente Decreto, enviará al Congreso del Estado la metodología, factores, variables y fórmulas utilizados para la elaboración de cada uno de los Anexos Transversales, informando sobre los porcentajes o cuotas de los Programas Presupuestarios y de las Unidades Responsables que son consideradas para la integración de dichos Anexos.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 5 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 585 POR EL CUAL SE REFORMA LA FRACCIÓN LIX DEL ARTÍCULO 2 DE LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
