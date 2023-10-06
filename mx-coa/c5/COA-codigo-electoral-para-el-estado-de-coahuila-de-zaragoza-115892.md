@@ -4,7 +4,7 @@ identifier: "COA-codigo-electoral-para-el-estado-de-coahuila-de-zaragoza-115892"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-08-01"
-last_updated: "2023-09-29"
+last_updated: "2023-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # CODIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE OCTUBRE DE 2023 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE OCTUBRE DE 2023.]</small>
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el lunes 1 de agosto de 2016.
 
@@ -727,7 +727,9 @@ I. Dos Regidurías, en los municipios que cuenten hasta con 7,000 habitantes.
 
 II. Cuatro Regidurías, en aquellos municipios que tengan de 7,001 hasta 50,000 habitantes, y
 
-III. Seis Regidurías, en aquellos municipios que tengan de 50,601 habitantes en adelante.
+> <small>(F. DE E., P.O. 6 DE OCTUBRE DE 2023)</small>
+
+III. Seis Regidurías, en aquellos municipios que tengan de 50,001 habitantes en adelante.
 
 3. Para que los partidos políticos o planilla de candidatura independiente tengan derecho a participar en la asignación de Regidurías de representación proporcional, deberán satisfacer los siguientes requisitos:
 
