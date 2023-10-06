@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-152263"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-11-03"
-last_updated: "2023-09-07"
+last_updated: "2023-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152263&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-10-28"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2023.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 3 de noviembre de 2021.
 
@@ -1275,37 +1275,29 @@ V. Difundir las técnicas de organización en la función jurisdiccional;
 
 VI. Desarrollar y perfeccionar las técnicas para juzgar con perspectiva de género,
 
-VII. Contribuir al desarrollo de la vocación de servicio, así como al ejercicio de los valores y principios éticos inherentes a la función judicial, y
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL PROGRAMA DE SENSIBILIZACIÓN INTEGRAL EN MATERIA DE GÉNERO Y ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
-VIII. Promover intercambios académicos con instituciones de educación superior, nacionales o internacionales, entre otras.
+VII. Contribuir al desarrollo de la vocación de servicio, así como al ejercicio de los valores y principios éticos inherentes a la función judicial;
+
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL PROGRAMA DE SENSIBILIZACIÓN INTEGRAL EN MATERIA DE GÉNERO Y ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+VIII. Promover intercambios académicos con instituciones de educación superior, nacionales o internacionales, entre otras, y
+
+> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL PROGRAMA DE SENSIBILIZACIÓN INTEGRAL EN MATERIA DE GÉNERO Y ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+IX. Contribuir en la sensibilización de las personas servidoras públicas a través del Programa de Sensibilización integral en Materia de Género y Espacios Libres de Violencia, en los términos que establezca la Escuela Judicial.
 
 Para ello, el personal de la Escuela Judicial deberá propiciar un entorno de honestidad académica, libertad intelectual y respeto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL PROGRAMA DE SENSIBILIZACIÓN INTEGRAL EN MATERIA DE GÉNERO Y ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 88.
 
-Obligatoriedad de los cursos de formación sobre igualdad de género y espacios libres de violencia. Todas las personas servidoras públicas con cargos jurisdiccionales del Poder Judicial de la Federación deberán acreditar de forma obligatoria el “Curso Género como Herramienta para la Igualdad” (“Curso Básico de Género”) y el “Curso para generar espacios libres de violencia”, elaborados por la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales y la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual, respectivamente, y la Escuela Judicial. Ambos serán autogestivos y estarán disponibles de forma permanente.
-
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA OBLIGATORIEDAD DEL CURSO GÉNERO COMO HERRAMIENTA PARA LA IGUALDAD Y DEL CURSO PARA GENERAR ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 23 DE NOVIEMBRE DE 2022)</small>
-
-El personal que ya forme parte del Poder Judicial de la Federación deberá acreditar ambos cursos en un plazo de tres años, salvo causa justificada, cuya viabilidad será determinada por la Comisión de Carrera Judicial.
-
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA OBLIGATORIEDAD DEL CURSO GÉNERO COMO HERRAMIENTA PARA LA IGUALDAD Y DEL CURSO PARA GENERAR ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 23 DE NOVIEMBRE DE 2022)</small>
-
-Las personas de nuevo ingreso a la carrera judicial deberán acreditar de forma obligatoria ambos cursos, para lo cual contarán con seis meses a partir de la fecha de inicio de su nombramiento, salvo causa justificada, cuya viabilidad será determinada por la Comisión de Carrera Judicial.
-
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA OBLIGATORIEDAD DEL CURSO GÉNERO COMO HERRAMIENTA PARA LA IGUALDAD Y DEL CURSO PARA GENERAR ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 23 DE NOVIEMBRE DE 2022)</small>
+Obligatoriedad de participar en el Programa de sensibilización integral en Materia de Género y Espacios Libres de Violencia. Todas las personas servidoras públicas con cargos jurisdiccionales del Poder Judicial de la Federación deberán participar de forma obligatoria en el Programa de sensibilización integral en Materia de Género y Espacios Libres de Violencia que coordina la Escuela Judicial.
 
 ###### Artículo 89.
 
-Efectos por la falta de acreditación de los cursos. Las personas servidoras públicas con cargos jurisdiccionales que incumplan la disposición normativa anterior, se harán acreedoras a las siguientes consecuencias en correspondencia con el cargo que ostentan:
-
-I. Para las personas de nuevo ingreso se actualizará la imposibilidad de que se le otorgue la base, lo que implica que, si otra persona servidora pública goza de este derecho, será preferida para la inamovilidad;
-
-II. No podrán ser contempladas para ningún tipo de ascenso o promoción dentro de la carrera judicial; y
-
-III. En el caso de personas titulares de órganos jurisdiccionales, la acreditación a estos cursos será considerada como requisito para su ratificación, para cambios de adscripción y para el otorgamiento de licencias académicas.
+(DEROGADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL PROGRAMA DE SENSIBILIZACIÓN INTEGRAL EN MATERIA DE GÉNERO Y ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 6 DE OCTUBRE DE 2023)
 
 ###### Artículo 90.
 
@@ -2886,3 +2878,17 @@ OCTAVO. El órgano jurisdiccional que se encuentre gozando su periodo vacacional
 NOVENO. Se instruye a la Dirección General de Tecnologías de la Información y a la Dirección General de Gestión Judicial del Consejo de la Judicatura Federal, para que a más tardar a los dos meses después de la entrada en vigor del presente Acuerdo, realicen los ajustes necesarios en el Sistema Integral de Seguimiento de Expedientes y en el Portal de Servicios en Línea del Poder Judicial de la Federación, a efecto de que las partes que pretendan presentar una promoción electrónica dirigida a un Juzgados (sic) de Distrito que se encuentre gozando de su periodo vacacional conforme al calendario, sean informadas que únicamente se dará trámite si corresponde a los supuestos de la Guardia Vacacional, en caso contrario, será atendida hasta el regreso de actividades del órgano jurisdiccional, así como para que se informe que no corren plazos ni términos durante el periodo vacacional de cada juzgado en asuntos que no son competencia de la referida Guardia.
 
 DÉCIMO. Se instruye a la Dirección General de Comunicación Social del Consejo de la Judicatura Federal para que realice las campañas necesarias para dar plena difusión al contenido del presente Acuerdo y el calendario anexo entre los integrantes de la sociedad y el foro jurídico para su pleno conocimiento.
+
+D.O.F. 6 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL PROGRAMA DE SENSIBILIZACIÓN INTEGRAL EN MATERIA DE GÉNERO Y ESPACIOS LIBRES DE VIOLENCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Escuela Federal de Formación Judicial será la encargada de emitir el Programa de sensibilización integral en Materia de Género y Espacios Libres de Violencia y de difundirlo a todas las personas servidoras públicas de áreas administrativas y con cargos jurisdiccionales del Poder Judicial de la Federación.
+
+CUARTO. Respecto a las personas que previo a la entrada en vigor del presente Acuerdo se encuentren inscritos en el Curso Género como Herramienta para la Igualdad y en el Curso para generar espacios libres de violencia, deberán concluirlos para que la Escuela Federal de Formación Judicial les emita únicamente una constancia de participación.
+
+QUINTO. Las personas servidoras públicas deberán cumplir con la obligatoriedad de participar en el Curso Género como Herramienta para la Igualdad y en el Curso para generar espacios libres de violencia, en tanto se da a conocer el Programa de Sensibilización integral en Materia de Género y Espacios Libres de Violencia.
