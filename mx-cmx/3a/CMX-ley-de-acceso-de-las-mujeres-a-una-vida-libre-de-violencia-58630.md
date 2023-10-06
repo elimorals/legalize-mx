@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2022-12-22"
+last_updated: "2023-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE OCTUBRE DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -79,6 +79,12 @@ El objeto de la presente ley es establecer los principios y criterios que, desde
 Para efectos de la presente ley se entenderá:
 
 I. Acciones afirmativas: Las medidas especiales de carácter temporal, correctivo, compensatorio y de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres, aplicables en tanto subsista la discriminación, desigualdad de trato y oportunidades de las mujeres respecto a los hombres;
+
+> <small>(ADICIONADA, G.O. 6 DE OCTUBRE DE 2023)</small>
+
+I Bis. Cosificación. Tratar, considerar, reducir o pensar a las mujeres, adolescentes y niñas, o su cuerpo o partes de éste, como bien u objeto y no como la persona misma con identidad, ideas, sentimientos, voluntad, derechos y necesidades propias.
+
+La cosificación se puede encontrar en cualquier tipo o modalidad de violencia contra las mujeres.
 
 II. Debida diligencia: La obligación de las personas que tienen la calidad de servidores públicos, las dependencias y entidades de la Ciudad de México, de dar respuesta eficiente, eficaz, oportuna y responsable para garantizar los derechos de las mujeres;
 
@@ -268,9 +274,9 @@ VIII. Violencia Feminicida: Toda acción u omisión que constituye la forma extr
 
 La violencia feminicida se sanciona de acuerdo con lo establecido en el artículo 148 Bis del Código Penal para el Distrito Federal.
 
-> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2023)</small>
 
-IX. Simbólica: La que a través de patrones estereotipados, mensajes, valores, íconos o signos, transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad.
+IX. Simbólica: La que, a través de patrones estereotipados, mensajes, valores, íconos o signos, transmita y reproduzca dominación, cosificación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de las mujeres en la sociedad.
 
 > <small>(ADICIONADA, G.O. 12 DE DICIEMBRE DE 2022)</small>
 
@@ -342,9 +348,13 @@ VII. Violencia Institucional: Son los actos u omisiones de las personas con cali
 
 La violencia institucional se sanciona de acuerdo con lo establecido en los artículos 153, 178 fracción II, 179, 181 Quintus fracción IV, 206 fracción II y 206 Bis del Código Penal para el Distrito Federal;
 
-> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 6 DE OCTUBRE DE 2023)</small>
 
-VIII. Violencia mediática contra las mujeres: Aquella publicación o difusión de mensajes e imágenes estereotipados a través de cualquier medio de comunicación público o privado, que de manera directa o indirecta promueva la explotación de niñas y mujeres adolescentes o adultas, o sus imágenes, injurie, difame, discrimine, deshonre, humille o atente contra la dignidad de las mujeres, fomente o exhiba mujeres violentadas, como así también la utilización de mujeres, adolescentes y niñas en mensajes e imágenes pornográficas, legitimando la desigualdad de trato o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia contra las mujeres;
+VIII. Violencia mediática contra las mujeres: Aquella publicación o difusión de mensajes e imágenes estereotipados a través de cualquier medio de comunicación público o privado, que de manera directa o indirecta produzca contenidos o promueva la explotación de niñas y mujeres adolescentes o adultas, o sus imágenes, cosifique, injurie, difame, discrimine, deshonre, humille o atente contra la dignidad de las mujeres, fomente o exhiba mujeres violentadas, como así también la utilización de mujeres, adolescentes y niñas en mensajes e imágenes pornográficas, legitimando la desigualdad de trato o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia contra las mujeres.
+
+> <small>(ADICIONADO, G.O. 6 DE OCTUBRE DE 2023)</small>
+
+Se considera dentro de esta modalidad de la violencia la influencia de las personas físicas y morales que tienen el poder, control, dominio de los medios de comunicación y que utilizan, difunden o exhiben a figuras públicas o su imagen para promover e incitar a la violencia contra las mujeres, adolescentes y niñas en las personas usuarias o en quienes consumen el contenido.
 
 > <small>(ADICIONADA, G.O. 17 DE JULIO DE 2017)</small>
 
@@ -2153,3 +2163,11 @@ G.O. 22 DE DICIEMBRE DE 2022.
 PRIMERO.- Remítase a la Jefatura de Gobierno de la Ciudad de México y en consecuencia sea publicado en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor a partir del siguiente día de su publicación en la Gaceta Oficial del Gobierno de la Ciudad de México.
+
+G.O. 6 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA LA FRACCIÓN IX DEL ARTÍCULO 6, EL PRIMER PÁRRAFO DE LA FRACCIÓN VIII DEL ARTÍCULO 7; SE ADICIONA UNA FRACCIÓN I BIS AL ARTÍCULO 3 Y UN PÁRRAFO SEGUNDO A LA FRACCIÓN VIII DEL ARTÍCULO 7, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase el presente decreto a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
