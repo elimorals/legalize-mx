@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-servicio-de-administracion-tributaria-del-estado-de-161
 country: "mx"
 rank: "ley"
 publication_date: "2022-12-23"
-last_updated: "2022-12-23"
+last_updated: "2023-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DEL SERVICIO DE ADMINISTRACION TRIBUTARIA DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE MICHOACÁN DE OCAMPO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2023.
 
 Ley publicada en la Novena Sección del Número 92 del Periódico Oficial del Estado de Michoacán, el viernes 23 de diciembre de 2022.
 
@@ -93,9 +95,11 @@ Para la consecución de su objeto aplicará de forma correcta, equitativa y opor
 
 El Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, tendrá bajo su responsabilidad aplicar la legislación fiscal, con el fin de que las personas físicas y morales contribuyan proporcional y equitativamente al gasto público, de fiscalizar a los contribuyentes para que cumplan con las disposiciones tributarias, facilitar e incentivar el cumplimiento voluntario de dichas disposiciones, así como generar y proporcionar la información necesaria para el diseño y la evaluación de la política tributaria a cargo de la Secretaría de Finanzas y Administración.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 6.
 
-Los procedimientos, actos y resoluciones en materia fiscal, serán tramitados en la forma y términos establecidos en esta Ley, su Reglamento, el Reglamento Interior de la Secretaría de Finanzas y Administración, el Reglamento Interior del Servicio de Administración Tributaria del Estado de Michoacán de Ocampo; el Código Fiscal y la Ley de Hacienda, ambos del Estado de Michoacán; así como en las normas técnicas y procedimientos aprobados y demás disposiciones fiscales, hacendarias y normativas de carácter federal y municipal aplicables.
+Los procedimientos, actos y resoluciones en materia fiscal, serán tramitados en la forma y términos establecidos en esta Ley, el Reglamento Interior de la Secretaría de Finanzas y Administración, el Reglamento Interior del Servicio de Administración Tributaria del Estado de Michoacán de Ocampo; el Código Fiscal y la Ley de Hacienda, ambos del Estado de Michoacán; así como en las normas técnicas y procedimientos aprobados y demás disposiciones fiscales, hacendarias y normativas de carácter federal y municipal aplicables.
 
 ###### Artículo 7.
 
@@ -129,7 +133,9 @@ I. El Gobernador Constitucional del Estado de Michoacán de Ocampo, quien lo pre
 
 II. El titular de la Secretaría de Finanzas y Administración, quien fungirá como Consejero;
 
-III. El titular de la Subsecretaría de Egresos de la Secretaría, quien fungirá como Consejero;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+III. El titular de la Subsecretaría de Finanzas de la Secretaría, quien fungirá como consejero;
 
 IV. El titular de la Subsecretaría de Administración de la Secretaría, quien fungirá como Consejero;
 
@@ -293,7 +299,9 @@ X. Participar en las reuniones del grupo técnico de fiscalización de la Comisi
 
 XI. Coordinar y supervisar la elaboración de la estimación anual de ingresos del Estado, así como del anteproyecto de Ley de Ingresos del Gobierno del Estado de Michoacán de Ocampo y promover esquemas de recaudación con el fin de ampliar la base tributaria, por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, ingresos por venta de bienes, participaciones e incentivos en ingresos federales, aportaciones federales, apoyos extraordinarios de la Federación, transferencias federales y municipales por convenio, financiamientos, ingresos extraordinarios, percibidos por las dependencias y entidades de la administración pública estatal, bajo cualquier concepto y cualesquiera otros que anualmente se establezcan como ingreso, para cubrir los gastos públicos generados por el ejercicio de la función pública;
 
-XII. Establecer las medidas necesarias en las unidades administrativas competentes a su cargo, a fin de verificar y dar seguimiento a la transferencia de los Fondos de Aportaciones Federales, Participaciones Federales y los correspondientes a los demás convenios de coordinación, acuerdos o anexos de ejecución, que suscriba el Gobierno del Estado con dependencias y entidades de la Administración Pública Federal, así como evaluar el comportamiento de los mismos;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XII. Establecer las medidas necesarias en las unidades administrativas competentes a su cargo, a fin de conocer el comportamiento de la transferencia de los Fondos de Aportaciones Federales, Participaciones Federales y los correspondientes a los demás convenios de coordinación, acuerdos o anexos de ejecución, que suscriba el Gobierno del Estado con dependencias y entidades de la Administración Pública Federal, así como evaluar el comportamiento de los mismos;
 
 XIII. Participar ante los órganos del Sistema Nacional de Coordinación Fiscal, o en su caso, Hacendaria, así como en los grupos técnicos y de trabajo, en los que se le designe como representante del grupo de zona a que pertenece el Estado y, en su caso, como coordinador del grupo de que se trate, debiéndose rendir los informes correspondientes;
 
@@ -301,9 +309,13 @@ XIV. Representar al Titular de la Secretaría, previo acuerdo, en los foros y gr
 
 XV. Coordinar y supervisar el cumplimiento de los convenios, derivados del Sistema Nacional de Coordinación Fiscal, así como de sus reuniones zonales;
 
-XVI. Establecer las acciones necesarias a fin de que se efectúe la vigilancia de los procesos de actualización de los coeficientes correspondientes al Estado, para la distribución de los diferentes fondos de participaciones en ingresos federales, conforme a las disposiciones normativas aplicables;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-XVII. Verificar la obtención y envío de la información relacionada con las contribuciones locales asignables, para su incorporación en el cálculo del coeficiente para la distribución de Participaciones Federales, ante la Secretaría de Hacienda y Crédito Público;
+XVI. Participar de manera coordinada con otras unidades administrativas de la Secretaría en las acciones necesarias a fin de que se efectúe la vigilancia de los procesos de actualización de los coeficientes correspondientes al Estado, para la distribución de los diferentes fondos de participaciones en ingresos federales, conforme a las disposiciones normativas aplicables;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XVII. Participar en la coordinación de actividades para la obtención y envío de la información relacionada con las contribuciones locales asignables, para su incorporación en el cálculo del coeficiente para la distribución de Participaciones Federales, ante la Secretaría de Hacienda y Crédito Público;
 
 XVIII. Coordinar y participar en el funcionamiento y los trabajos de los organismos del Sistema de Coordinación Fiscal del Estado, en materia de su competencia;
 
@@ -419,23 +431,39 @@ Las unidades administrativas del SATMICH y su personal tendrán las facultades y
 
 T R A N S I T O R I O S
 
-PRIMERO. La presente Ley entrará en vigor a los 180 días hábiles siguientes al de su publicación en el Periódico Oficial del Gobierno Constitucional de Michoacán de Ocampo.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-SEGUNDO. Seguirán vigentes las disposiciones previstas en el Reglamento Interior de la Secretaría de Finanzas y Administración, en tanto entra en vigor la presente Ley y su Reglamento.
+PRIMERO. La presente Ley entrará en vigor a partir del 1° de enero de 2024.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+SEGUNDO. Seguirán vigentes las disposiciones previstas en el Reglamento Interior de la Secretaría de Finanzas y Administración, en tanto entra en vigor la presente Ley y el Reglamento Interior del SATMICH.
 
 TERCERO. El Titular del Ejecutivo del Estado nombrará al Director General del SATMICH a la entrada en vigor de la presente Ley.
 
-CUARTO. Los recursos tecnológicos, financieros y materiales con los que cuenta la Dirección de Auditoría y Revisión Fiscal, Dirección de Recaudación y Dirección de Coordinación Fiscal, adscritas a la Subsecretaría de Ingresos y las áreas administrativas dedicadas a asuntos fiscales adscritos a la Dirección de lo Contencioso de la Dirección General Jurídica, todas de la Secretaría de Finanzas y Administración, se transferirán al SATMICH, el cual a partir del ejercicio fiscal 2023, contará con su propio presupuesto.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-QUINTO. Los trabajadores de la Subsecretaría de Ingresos que integran la Dirección de Auditoría y Revisión Fiscal, Dirección de Recaudación y Dirección de Coordinación Fiscal, adscritas a la Subsecretaría de Ingresos y las áreas administrativas dedicadas a asuntos fiscales adscritos a la Dirección de lo Contencioso de la Dirección General Jurídica, todas de la Secretaría de Finanzas y Administración, serán transferidos al SATMICH, en estricta observación de la normativa en la materia y conservando sus respectivos derechos laborales de conformidad con las disposiciones jurídicas aplicables y lo estipulado en las Condiciones Generales de Trabajo tratándose de personal de base.
+CUARTO. Los recursos tecnológicos, financieros y materiales con los que cuenta la Dirección de Auditoría y Revisión Fiscal y la Dirección de Recaudación, adscritas a la Subsecretaría de Ingresos la Secretaría de Finanzas y Administración se transferirán al SATMICH.
+
+Los recursos tecnológicos, financieros y materiales con los que cuentan las áreas administrativas dedicadas a asuntos fiscales adscritos a la Dirección de lo Contencioso de la Dirección General Jurídica de la Secretaría de Finanzas y Administración, se transferirán al SATMICH cuando concluyan en su totalidad los asuntos que tengan hasta el momento de la entrada en vigor de la presente Ley.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+QUINTO. Los trabajadores de la Subsecretaría de Ingresos que integran la Dirección de Auditoría y Revisión Fiscal y la Dirección de Recaudación, adscritas a la Subsecretaría de Ingresos serán transferidos al SATMICH, en estricta observancia de la normativa en la materia y conservando sus respectivos derechos laborales de conformidad con las disposiciones jurídicas aplicables y lo estipulado en las Condiciones Generales de Trabajo tratándose de personal de base.
+
+Los trabajadores de las áreas administrativas dedicadas a asuntos fiscales, adscritos a la Dirección de lo Contencioso de la Dirección General Jurídica de la Secretaría de Finanzas y Administración, serán transferidos al SATMICH cuando concluyan en su totalidad los asuntos que tengan hasta el momento de la entrada en vigor de la presente Ley, en estricta observancia de la normativa en la materia y conservando sus respectivos derechos laborales de conformidad con las disposiciones jurídicas aplicables y lo estipulado en las Condiciones Generales de Trabajo tratándose de personal de base.
 
 Previa la transferencia de los trabajadores de base sindicalizados al SATMICH, el Director deberá notificar a la Secretaría General del Sindicato de Trabajadores al Servicio del Poder Ejecutivo del Estado, para los efectos de su conocimiento y validación de plantillas correspondientes.
 
 SEXTO. La Secretaría de Finanzas y Administración del Gobierno del Estado, deberá crear una Unidad Programática Presupuestal específica en el Presupuesto de Egresos del Estado para el ejercicio 2024, para la operación administrativa del Servicio de Administración Tributaria del Estado de Michoacán de Ocampo. El titular de la Subsecretaría de Ingresos deberá coordinar la transición administrativa, operativa y tecnológica entre la Subsecretaría de Ingresos, las demás unidades administrativas que correspondan y el SATMICH.
 
-SÉPTIMO. El Ejecutivo del Estado contará con un término de 180 días hábiles para la emisión del Reglamento Interior del SATMICH previsto en la presente Ley y realizar las adecuaciones normativas conducentes; hasta en tanto se seguirán aplicando las disposiciones reglamentarias, organizacionales y de procedimientos de la Secretaría de Finanzas y Administración, vigentes al momento de la entrada en vigor de la presente Ley.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-OCTAVO. Los actos y resoluciones que a la fecha de entrada en vigor de la presente Ley hayan emitido las unidades administrativas de la Subsecretaría de Ingresos tales como la Dirección de Auditoría y Revisión Fiscal, Dirección de Recaudación y Dirección de Coordinación Fiscal, todas de la Secretaría de Finanzas y Administración, que pasen a formar parte del Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, y se hayan controvertido por los recursos administrativos serán resueltos por la Dirección General Jurídica de la Secretaría, hasta su conclusión total.
+SÉPTIMO. El Ejecutivo del Estado contará, una vez entrada la vigencia de la presente Ley, con un término de 60 días naturales, para la emisión del Reglamento Interior del SATMICH previsto en la presente Ley y realizar las adecuaciones normativas conducentes; hasta en tanto se seguirán aplicando las disposiciones reglamentarias, organizacionales y de procedimientos de la Secretaría de Finanzas y Administración, vigentes al momento de la entrada en vigor de la presente Ley.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+OCTAVO. Los actos y resoluciones que a la fecha de entrada en vigor de la presente Ley hayan emitido las unidades administrativas de la Subsecretaría de Ingresos tales como la Dirección de Auditoría y Revisión Fiscal y la Dirección de Recaudación, que se hayan controvertido por los recursos administrativos correspondientes, serán resueltos por la Dirección General Jurídica de la Secretaría, hasta su conclusión total.
 
 Los asuntos en materia contenciosa fiscal, se seguirán tramitando hasta su conclusión por las unidades administrativas competentes cuando se encuentren vinculados con la materia objeto de la presente Ley, su Reglamento Interior y cualquier otra disposición jurídica que emane de ellos.
 
@@ -443,7 +471,11 @@ NOVENO. Los juicios en los que sea parte la Secretaría de Finanzas y Administra
 
 Los amparos contra actos de las unidades administrativas adscritas a la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración que pasen a formar parte del SATMICH, cuya interposición les sean notificados con el carácter de autoridades responsables o de terceros perjudicados con anterioridad a la entrada en vigor de esta Ley, la consecución de su seguimiento y su tramitación se verificará hasta su total conclusión por la Dirección de lo Contencioso de la Dirección General Jurídica de la Secretaría.
 
-DÉCIMO. El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Administración, dispondrá lo conducente a fin de que, a partir de la entrada en vigor de la presente Ley, se lleve a cabo la reasignación de los recursos financieros, humanos y de que los bienes muebles e inmuebles y materiales, así como los archivos y expedientes con los que actualmente cuentan las unidades administrativas tales como la Dirección de Auditoría y Revisión Fiscal, Dirección de Recaudación y Dirección de Coordinación Fiscal, adscritas a la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración, y las áreas administrativas dedicadas a asuntos fiscales adscritas a la Dirección de lo Contencioso de la Dirección General Jurídica, de la misma Secretaría; pasen a formar parte del Servicio de Administración Tributaria del Estado de Michoacán, para el ejercicio de las atribuciones vinculadas con la materia objeto de esta Ley, su Reglamento Interior y cualquier otra disposición jurídica que emane de ellos. Para tales efectos se deberán formalizar las actas de entrega-recepción correspondientes.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+DÉCIMO. El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Administración, dispondrá lo conducente a fin de que, a partir de la entrada en vigor de la presente Ley, se lleve a cabo la reasignación de los recursos financieros, humanos y de que los bienes muebles e inmuebles y materiales, así como los archivos y expedientes con los que actualmente cuentan las unidades administrativas tales como la Dirección de Auditoría y Revisión Fiscal y la Dirección de Recaudación, adscritas a la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración, pasen a formar parte del Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, para el ejercicio de las atribuciones vinculadas con la materia objeto de esta Ley, el Reglamento Interior y cualquier otra disposición jurídica que emane de ellos, para tales efectos, se deberán formalizar las actas de entrega-recepción correspondientes.
+
+En el caso de las áreas administrativas dedicadas a asuntos fiscales adscritas a la Dirección de lo Contencioso de la Dirección General Jurídica de la misma Secretaría; que deban pasar a formar parte del Servicio de Administración Tributaria del Estado de Michoacán, para el ejercicio de las atribuciones vinculadas con la materia objeto de esta Ley, el Reglamento Interior y cualquier otra disposición jurídica que emane de ellos, lo harán cuando concluyan en su totalidad los asuntos que tengan hasta el momento de la entrada en vigor de la presente Ley; para tales efectos, se deberán formalizar las actas de entrega-recepción correspondientes.
 
 DÉCIMO PRIMERO. Las referencias que se hacen y atribuciones que se otorgan en otras leyes y demás disposiciones jurídicas a la Secretaría o a cualquiera de sus unidades administrativas, se entenderán hechas al SATMICH cuando se trate de atribuciones vinculadas con la materia objeto de la presente Ley.
 
@@ -463,7 +495,7 @@ DÉCIMO OCTAVO. Dentro de los 15 días hábiles siguientes a la entrada en vigor
 
 DÉCIMO NOVENO. Se deroga cualquier disposición que se oponga al presente Decreto.
 
-VIGÉSIMO. El Ejecutivo del Estado contará con un término de 180 días hábiles para la emisión del Reglamento previsto en la presente Ley.
+VIGÉSIMO. (DEROGADO, P.O. 6 DE OCTUBRE DE 2023)
 
 El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
 
@@ -474,3 +506,11 @@ ATENTAMENTE.- PRESIDENTA DE LA MESA DIRECTIVA.- DIP. JULIETA GARCÍA ZEPEDA.- PR
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 23 veintitrés días del mes de diciembre del año 2022 dos mil veintidós.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- MTRO. ALFREDO RAMÍREZ BEDOLLA.- EL SECRETARIO DE GOBIERNO.- LIC. CARLOS TORRES PIÑA.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 453 POR EL QUE "SE REFORMA EL ARTÍCULO 6, LA FRACCIÓN III DEL ARTÍCULO 10, LAS FRACCIONES XII, XVI Y XVII DEL ARTÍCULO 17; LOS ARTÍCULOS PRIMERO, SEGUNDO, CUARTO, QUINTO, SÉPTIMO, OCTAVO Y DÉCIMO TRANSITORIOS; Y, SE DEROGA EL ARTÍCULO VIGÉSIMO TRANSITORIO, TODOS DE LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
