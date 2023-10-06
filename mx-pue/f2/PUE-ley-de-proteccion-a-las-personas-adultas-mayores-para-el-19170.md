@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-las-personas-adultas-mayores-para-el-19170"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2023-09-26"
+last_updated: "2023-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 29 de diciembre de 2000.
 
@@ -107,7 +107,9 @@ Para efectos de esta Ley, se le denominará "SEDIF" al Sistema para el Desarroll
 
 I.- Llevar a cabo o proporcionar apoyo para realizar investigaciones que permitan identificar los problemas más frecuentes a los cuales se enfrenten;
 
-II.- Promover, a través de cursos y de los medios de comunicación masiva, su respeto, conocimiento y reconocimiento;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+II.- Promover, a través de cursos, talleres y de los medios de comunicación masiva, la cultura de la vejez, de respeto, aprecio y reconocimiento a la capacidad de aportación de las personas adultas mayores.
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2023)</small>
 
@@ -131,13 +133,17 @@ IX.- Implementar de forma continua y permanente programas de concientización pa
 
 X.- Promover y gestionar, el otorgamiento de descuentos en trámites notariales extraordinarios para las personas adultas mayores que acrediten incapacidad económica;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-XI.- Promover, de acuerdo a su disponibilidad presupuestal, así como impulsar a los gobiernos municipales a la creación y atención de casas hogar, albergues y residencias de día públicas, para las personas adultas mayores; y
+XI.- Promover, de acuerdo a su disponibilidad presupuestal, así como impulsar a los gobiernos municipales a la creación y atención de casas hogar, albergues y residencias de día públicas, para las personas adultas mayores;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
 
-XII.- Las demás que determine el presente ordenamiento legal, otras disposiciones aplicables y la persona titular del Poder Ejecutivo del Estado.
+XII.- Proporcionar a las personas adultas mayores información gerontológica, geriátrica y tanatológica, así como promover acciones de prevención que permitan a la población en general prepararse para la adultez mayor, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XIII.- Las demás que determine el presente ordenamiento legal, otras disposiciones aplicables y la persona titular del Poder Ejecutivo del Estado.
 
 > <small>(ADICIONADO, P.O. 3 DE MARZO DE 2015)</small>
 
@@ -155,7 +161,9 @@ V.- Realizar actividades recreativas, deportivas, culturales, de estudio y de ap
 
 VI.- Procurar que vivan en sus hogares y cerca de sus familiares hasta el último momento de su existencia, a menos que medie enfermedad grave, que requiera internamiento en instituciones especializadas;
 
-VII.- Llevar a cabo las acciones procedentes para su afiliación al Instituto Nacional de las Personas Adultas Mayores, para recibir orientación, ayuda, protección, asesoría jurídica y capacitación gerontológica de todo tipo, así como beneficiarse de servicios que presten, independientemente de sus condiciones sociales o de salud;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+VII.- Llevar a cabo las acciones procedentes para su afiliación al Instituto Nacional de las Personas Adultas Mayores, para recibir orientación, ayuda, protección, asesoría jurídica, capacitación gerontológica, geriátrica y tanatológica, así como promover acciones de prevención que permitan a la población en general prepararse para la adultez mayor, así como beneficiarse de servicios que presten, independientemente de sus condiciones sociales o de salud;
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2020)</small>
 
@@ -187,9 +195,9 @@ XIV.- Las demás que determine el presente ordenamiento legal, otras disposicion
 
 La presente Ley reconoce como derechos de las personas adultas mayores:
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-I.- Tener acceso a toda la información gerontológica disponible, para incrementar su cultura, para analizar y llevar a cabo acciones de preparación para la adultez mayor;
+I.- Tener acceso a toda la información gerontológica, geriátrica y tanatológica disponible, para incrementar su cultura, para analizar y llevar a cabo acciones de prevención y preparación para la adultez mayor, así como acompañamiento tanatológico para ellas y sus familias;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
 
@@ -752,5 +760,13 @@ P.O. 26 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III DEL ARTÍCULO 3, LA V DEL 4, Y LA VII DEL 6, DE LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA; Y REFORMA LOS ARTÍCULOS 400 Y 407 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado Libre y Soberano de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES II, XI Y XII DEL ARTÍCULO 3, LA FRACCIÓN VII DEL ARTÍCULO 3 BIS, LA FRACCIÓN I DEL ARTÍCULO 4 Y ADICIONA LA FRACCIÓN XIII AL 3, DE LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
