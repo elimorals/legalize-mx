@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2023-06-09"
+last_updated: "2023-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -85,29 +85,61 @@ IX. La interculturalidad; y,
 
 X. El enfoque diferencial.
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-Artículo 3 BIS. Las víctimas de cualquier tipo de violencia tendrán los derechos siguientes:
+Artículo 3 BIS. Las víctimas directas o indirectas de cualquier tipo de violencia tendrán los derechos siguientes:
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 I. Contar con protección inmediata y efectiva por parte de las autoridades competentes;
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 II. Ser tratada con respeto a su integridad y el ejercicio pleno de sus derechos;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 III. Recibir información veraz y suficiente que les permita decidir sobre las opciones de atención;
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 IV. Contar con asesoría jurídica gratuita y expedita; las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérpretes y defensores de oficio que tengan conocimiento de su lengua y cultura.
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 V. Recibir información, atención y acompañamiento médico y psicológico;
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 VI. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 VII. Contar con un refugio, mientras lo necesite; en los casos de violencia familiar, las mujeres que tengan hijas y/o hijos podrán acudir a los refugios con éstos. Cuando se trate de víctimas de trata de personas, recibirán atención integral con sus hijas e hijos en Refugios Especializados, de conformidad a lo dispuesto por la Ley en la materia.
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 VIII. La víctima no será obligada a participar en mecanismos de conciliación con su agresor;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 IX. Acceder a procedimientos expeditos y accesibles de procuración y administración de justicia; y,
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 X. A la protección de su identidad y demás datos personales y de la víctima indirecta, de conformidad a lo dispuesto por la Ley de Protección de Datos personales en posesión de Sujetos Obligados para el Estado de Baja California, el Código Nacional de Procedimientos Penales y demás Leyes aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérpretes y personas defensoras de oficio que tengan conocimiento de su lengua y cultura.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+Las mujeres con discapacidad tendrán derecho a que los procedimientos sean accesibles y a que se realicen los ajustes de procedimiento necesarios para ello. Las mujeres sordas tendrán derecho a contar con interpretación en lengua de señas mexicana, la cual será proporcionada gratuitamente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+Los refugios y los Centros de Justicia para las Mujeres deberán contar con todas las condiciones necesarias para proporcionar atención, en igualdad de condiciones y sin discriminación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -299,21 +331,19 @@ X. Cualesquiera otra forma análoga que lesione o sea susceptible de dañar la d
 
 ### CAPÍTULO II. MODALIDADES DE VIOLENCIA CONTRA LAS MUJERES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 7.
 
-Violencia Familiar: Se considera violencia familiar el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica o sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
+Violencia Familiar: Se considera violencia familiar el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica o sexual a las mujeres, dentro o fuera del domicilio familiar, cuya persona agresora tenga o haya tenido una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2023)</small>
+Los gobiernos estatal y municipales en forma coordinada, implementarán y operarán un sistema de información en el que se registren exclusivamente las denuncias e investigaciones de violencia familiar o violencia vicaria, lo que permitirá a las autoridades preventivas e investigadoras correspondientes, detectar en forma inmediata la reincidencia de toda persona agresora, a efecto de determinar en forma eficaz las medidas necesarias para salvaguardar la integridad de la víctima. También se considera violencia familiar cuando la persona agresora tenga responsabilidades de cuidado o de apoyo respecto de la víctima, aunque no tenga una relación de parentesco.
 
-Los gobiernos estatal y municipales en forma coordinada, implementarán y operarán un sistema de información en el que se registren exclusivamente las denuncias e investigaciones de violencia familiar o violencia vicaria, lo que permitirá a las autoridades preventivas e. investigadoras correspondientes, detectar en forma inmediata la reincidencia de todo agresor, a efecto de determinar en forma eficaz las medidas necesarias para salvaguardar la integridad de la víctima.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 8.
 
-El Gobierno del Estado y los gobiernos Municipales, en el respectivo ámbito de sus competencias, en materia de violencia familiar deberán desarrollar los modelos de atención, prevención, sanción y erradicación, que son el conjunto de medidas y acciones para proteger a las víctimas y víctimas indirectas de violencia familiar, como parte de la obligación del Estado, de garantizar a las mujeres su seguridad y ejercicio pleno de sus derechos humanos y deberán:
+El Gobierno del Estado y los gobiernos Municipales, en el respectivo ámbito de sus competencias, en materia de violencia familiar deberán desarrollar los modelos de atención, prevención, sanción y erradicación, que son el conjunto de medidas y acciones para proteger a las víctimas y víctimas indirectas de violencia familiar, como parte de la obligación del Estado, de garantizar a las mujeres su seguridad y ejercicio pleno de sus derechos humanos considerando la interseccionalidad, la interculturalidad y el enfoque diferenciado, y deberán:
 
 > <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
 
@@ -346,6 +376,10 @@ VII. Favorecer y promover la instalación y mantenimiento de refugios para las v
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JUNIO DE 2023)</small>
 
 VIII. Implementar de manera permanente campañas que tengan como objetivo la prevención, detección, atención y concientización de la población en general, de los tipos y modalidades de violencia que ponen en riesgo a la mujer en cualquier etapa de su vida.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+Los modelos de atención, prevención, sanción y erradicación a los que se refiere el primer párrafo de este artículo deberán tener un enfoque diferenciado con el objeto de ajustarse a las condiciones específicas de las mujeres víctimas de violencia.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -849,21 +883,25 @@ El Gobierno del Estado y los Municipios impulsarán, en el ámbito de sus respec
 
 Los Refugios son lugares temporales de seguridad para las víctimas y víctimas indirectas que funcionarán de forma ininterrumpida y permanente.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO Y REUBICADO, ANTES PRIMER PÁRRAFO DEL ARTÍCULO], P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2023)</small>
 
-Corresponde a los responsables de los refugios desde la perspectiva de género:
+Corresponde a las personas responsables de los refugios desde la perspectiva de género, interseccionalidad y enfoque diferenciado:
 
 I. Velar por la seguridad de las mujeres que se hospeden en ellos, y sus familias en su caso, por lo que no se podrá proporcionar su ubicación a personas no autorizadas para acudir a ellos;
 
 II. Proporcionar a las mujeres la atención necesaria para su recuperación y la asesoría psicológica que les permita participar plenamente en la vida pública, social y privada;
 
-III. Dar información a las víctimas sobre las instituciones encargadas de prestar asesoría jurídica gratuita;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+III. Dar información en formato accesible a las víctimas sobre las instituciones encargadas de prestar asesoría jurídica gratuita;
 
 IV. Otorgarles de manera gratuita: alimentación, calzado, vestido y servicios médicos elementales;
 
 V. Proveer a las víctimas de la información necesaria que les permita decidir sobre las opciones de atención;
 
-VI. Contar con el personal debidamente capacitado y especializado en la materia;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+VI. Contar con el personal debidamente capacitado y especializado en perspectiva de género y derechos humanos con enfoque diferenciado, intercultural e interseccional;
 
 VII. Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos;
 
@@ -882,6 +920,10 @@ b) Talleres orientados a la identificación y detección de todos los tipos y mo
 c) Cursos sobre generalidades y aspectos básicos del marco jurídico en materia de igualdad de género y prevención, atención y erradicación de violencia de género; y
 
 d) Talleres de motivación y superación personal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+Los refugios y los Centros de Justicia para las Mujeres deberán contar con todas las condiciones de accesibilidad necesarias para proporcionar atención, en igualdad de condiciones y sin discriminación, a las mujeres con discapacidad, incluyendo la posibilidad de contar con asistencia de personal de apoyo.
 
 > <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -939,7 +981,7 @@ En el caso de la o las personas agresoras, éstos deberán participar obligatori
 
 El Sistema Estatal es un mecanismo permanente a través del cual el Gobierno del Estado y los Gobiernos Municipales coordinarán su integración y funcionamiento para la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres, atendiendo lo estipulado en esta Ley y en la Ley General.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 32.
 
@@ -949,7 +991,9 @@ I. La Secretaría General de Gobierno, quien lo presidirá;
 
 II. El Instituto de la Mujer para el Estado, quien fungirá como Secretario Técnico;
 
-III. Vocales, que serán los titulares de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+III. Vocales, que serán las personas titulares de:
 
 > <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -987,9 +1031,13 @@ h) La Secretaría de Cultura.
 
 i) La Secretaría de Seguridad Ciudadana.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-j) La Comisión Estatal de los Derechos Humanos.
+j) La Comisión Estatal de Derechos Humanos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+k) Centro de Justicia para las Mujeres del Estado de Baja California.
 
 IV. Los Gobiernos Municipales a través de su respectiva instancia de la mujer, o a falta de ésta, quien tenga a su cargo la implementación de mecanismos para el adelanto de las mujeres en la administración pública municipal.
 
@@ -1055,7 +1103,7 @@ Las particularidades del funcionamiento, organización y atribuciones de los int
 
 ### CAPÍTULO II. DEL PROGRAMA ESTATAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 35.
 
@@ -1081,31 +1129,35 @@ V. Impulsar y apoyar programas de educación pública y privada, que se destinen
 
 VI. Diseñar programas de atención y capacitación a mujeres y a víctimas, que les permitan participar plenamente en todos los ámbitos de la vida;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-VII. Publicar semestralmente la información general y estadística sobre los casos de violencia contra las mujeres para integrar el (sic) Base Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres, misma que deberá ser remitida al Sistema Nacional;
+VII. Publicar semestralmente la información general y estadística desagregada y con enfoque diferenciado sobre los casos de violencia contra las mujeres para integrar la Base Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres, misma que deberá ser remitida al Sistema Nacional;
 
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-VIII. Promover la cultura de denuncia de la violencia contra las mujeres;
+VIII. Promover la cultura de denuncia de la violencia contra las mujeres en formatos accesibles;
 
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-IX. Diseñar un modelo integral de atención a los derechos humanos de las mujeres, que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas;
+IX. Diseñar un modelo integral, diferencial y especializado de atención a las mujeres víctimas de violencia, que deberán instrumentar el Centro de Justicia para las Mujeres del Estado de Baja California y las demás instituciones y los refugios que atiendan a víctimas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-X. Establecer procesos de evaluación de la eficacia de las acciones desarrolladas para prevenir, atender, sancionar y erradicar la violencia contra las mujeres; y,
+X. Establecer procesos de evaluación de la eficacia de las acciones desarrolladas para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
 
-XI. Difundir la oferta institucional de servicios especializados que brinden los Centros de Justicia para las Mujeres de Baja California.
+XI. Realizar estudios sobre los efectos de la violencia y la discriminación interseccional en las mujeres y proponer políticas públicas dirigidas a eliminarlos; y,
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XII. Difundir la oferta institucional de servicios especializados que brinden los Centros de Justicia para las Mujeres.
 
 > <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
 
 ### CAPÍTULO I. GENERALIDAD DE COMPETENCIAS
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
 ## TÍTULO CUARTO. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
@@ -1115,7 +1167,9 @@ XI. Difundir la oferta institucional de servicios especializados que brinden los
 
 ###### Artículo 36.
 
-Para la efectiva aplicación de la Ley, las dependencias, entidades del Gobierno del Estado, el Poder Legislativo y el Judicial, y demás órganos, establecerán una coordinación con perspectiva de género, promoviendo la eficiencia en la prestación de sus servicios. Participarán la Secretaría General de Gobierno, Bienestar, Salud, Educación, Trabajo y Previsión Social, Cultura, Inclusión Social e Igualdad de Género, el Instituto de la Mujer para el Estado, la Secretaría de Seguridad Ciudadana, la Fiscalía General del Estado, así como los Gobiernos Municipales del Estado.
+Para la efectiva aplicación de la Ley, las dependencias, entidades del Gobierno del Estado, el Poder Legislativo y el Judicial, y demás órganos, establecerán una coordinación con perspectiva de género, promoviendo la eficiencia en la prestación de sus servicios. Participarán la Secretaría General de Gobierno, Bienestar, Salud, Educación, Trabajo y Previsión Social, Cultura, Inclusión Social e Igualdad de Género, el Instituto de la Mujer para el Estado, Centro de Justicia para las Mujeres del Estado de Baja California, la Secretaría de Seguridad Ciudadana, la Fiscalía General del Estado, así como los Gobiernos Municipales del Estado.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
 
 A su vez deberán instrumentar y articular sus políticas públicas y acciones en concordancia con la política nacional integral desde la perspectiva de género para prevenir, atender, sancionar y erradicar la violencia contra las mujeres; integrar y coadyuvar en la adopción y consolidación del Sistema, impulsar la participación de las organizaciones sociales dedicadas a la promoción y defensa de los derechos humanos de las mujeres, en la ejecución de los programas estatales, además de recibir sus propuestas.
 
@@ -1439,9 +1493,39 @@ VII. Diseñar y establecer, un modelo de seguridad, basado en igualdad con persp
 
 VIII. Las demás que le atribuyan otros ordenamientos legales en materia.
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-Artículo 44 QUINQUIES. El Centro de Justicia para las Mujeres de Baja California, deberá proporcionar, para el cumplimiento cabal de esta Ley, los servicios mínimos dispuestos en su Ley orgánica y los reglamentos que dimanen de esta.
+Artículo 44 QUINQUIES. Los servicios a cargo del Centro de Justicia para las Mujeres de Baja California, se brindarán a través de la participación coordinada de las autoridades estatales, dependencias, entidades y unidades administrativas de la administración pública cuya competencia incida en la atención integral a mujeres víctimas de violencia, y previa firma de los convenios correspondientes, con autoridades federales y municipales.
+
+Las dependencias, entidades y unidades administrativas estatales que en el ámbito de sus respectivas competencias brindarán servicios y comisionarán personal especializado a los Centros de Justicia para las Mujeres para tales fines, serán como mínimo las siguientes:
+
+I. Secretaría General de Gobierno;
+
+II. Secretaría de Seguridad Ciudadana;
+
+III. Secretaría de Salud;
+
+IV. Secretaría de Trabajo y Previsión Social;
+
+V. Secretaría de Educación;
+
+VI. Secretaría de Economía e Innovación;
+
+VII. Secretaría de Inclusión Social e Igualdad de Género;
+
+VIII. Sistema para el Desarrollo Integral de la Familia;
+
+IX. Instituto de la Mujer para el Estado de Baja California;
+
+X. Instituto de la Juventud;
+
+XI. Comisión Ejecutiva Estatal de Atención Integral a Víctimas;
+
+XII. Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado; y,
+
+XIII. Defensoría Pública del Estado de Baja California.
+
+Se celebrarán convenios de colaboración con la Fiscalía General del Estado, Poder Judicial del Estado, otros órganos autónomos estatales y organizaciones de la sociedad civil, a fin de brindar servicios interinstitucionales, especializados y de calidad, desde los enfoques de género, intercultural, diferencial e interseccional.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -1812,3 +1896,9 @@ P.O. 9 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 237 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. - La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 294 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 18, 19, 20, 22 Y 23, ASÍ COMO LA MODIFICACIÓN EN LA IDENTIFICACIÓN DEL CAPÍTULO II PARA DENOMINARSE “DEL ÓRGANO DE GOBIERNO” Y DEL CAPÍTULO III PARA DENOMINARSE “DE LA PERSONA TITULAR DEL CENTRO” Y SE ADICIONAN LOS ARTÍCULOS 4 BIS, 4 TER Y 24 A LA LEY QUE CREA EL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
