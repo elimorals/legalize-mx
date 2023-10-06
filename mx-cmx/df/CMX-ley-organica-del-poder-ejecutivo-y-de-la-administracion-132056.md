@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-poder-ejecutivo-y-de-la-administracion-132056"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-13"
-last_updated: "2023-08-04"
+last_updated: "2023-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132056&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-13"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE OCTUBRE DE 2023.
 
 Ley publicada en el Número 471 Bis en la Gaceta Oficial de la Ciudad de México, el jueves 13 de diciembre de 2018.
 
@@ -336,7 +336,19 @@ La creación y organización de los Órganos Desconcentrados debe atender a los 
 
 Al frente de cada Dependencia habrá una persona titular, quien tiene competencia originaria para atender todos los asuntos a cargo de la Dependencia y de los Órganos Desconcentrados que le sean adscritos.
 
-Para el despacho de los asuntos de su competencia, la persona titular de la Dependencia se auxiliará por los subsecretarios, coordinadores generales, directores generales, directores ejecutivos, directores de área, subdirectores de área, jefes de unidad departamental y demás servidores públicos, en los términos que establezca el Reglamento y los Manuales Administrativos que correspondan.
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2023)</small>
+
+Para el despacho de los asuntos de su competencia, la persona titular de la Dependencia se auxiliará de las personas titulares de las subsecretarías, coordinaciones generales, direcciones generales, direcciones ejecutivas, direcciones de área, coordinaciones, subdirecciones, jefaturas de unidad departamental y demás personas servidoras públicas, en los términos que establezca el Reglamento y los Manuales Administrativos que correspondan.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.O. 6 DE OCTUBRE DE 2023)</small>
+
+Para ocupar alguno de estos cargos se requiere, entre otros requisitos:
+
+I. No contar con sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; por delitos contra la libertad, seguridad sexual y el normal desarrollo psicosexual, establecidos en la legislación penal aplicable;
+
+II. No contar con sentencia firme por el delito de violencia familiar; violencia familiar equiparada o doméstica violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, establecidos en la legislación penal aplicable, y
+
+III. No encontrarse inscrito en el Registro de Deudores Alimentarios Morosos, a menos que se acredite estar al corriente del pago, cancele esa deuda o se tramite el descuento correspondiente.
 
 La persona titular de la Jefatura de Gobierno garantizará la paridad de género en la conformación de su Gabinete, mediante la promoción de la participación equitativa de mujeres y hombres.
 
@@ -2391,3 +2403,11 @@ G.O. 4 DE AGOSTO DE 2023.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 6 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO; SE ADICIONA UN TERCER PÁRRAFO Y LAS FRACCIONES I, II Y III, Y SE RECORRE EN SU ORDEN EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 18 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO. SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 72; Y SE ADICIONAN LAS FRACCIONES IV, V Y VI AL ARTÍCULO 72 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
