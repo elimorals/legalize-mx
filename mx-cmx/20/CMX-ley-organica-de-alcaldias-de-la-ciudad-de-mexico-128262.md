@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-alcaldias-de-la-ciudad-de-mexico-128262"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2023-05-29"
+last_updated: "2023-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128262&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE OCTUBRE DE 2023.
 
 Ley publicada en el Tomo I del Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -1024,11 +1024,25 @@ Las unidades administrativas podrán ejercer de manera conjunta o separada las m
 
 Para ocupar los cargos de titulares de las unidades administrativas se deberán satisfacer los siguientes requisitos:
 
-I. Ser ciudadano en pleno uso de sus derechos;
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2023)</small>
+
+I. Ser persona ciudadana en pleno uso de sus derechos;
 
 II. No estar inhabilitado para desempeñar cargo, empleo, o comisión pública.
 
 III. No haber sido condenado en proceso penal, por delito intencional que amerite pena privativa de libertad;
+
+> <small>(ADICIONADA, G.O. 6 DE OCTUBRE DE 2023)</small>
+
+IV. No contar con sentencia firme por la comisión intencional de delitos contra la libertad y seguridad sexual y el normal desarrollo psicosexual establecidos en la legislación penal aplicable;
+
+> <small>(ADICIONADA, G.O. 6 DE OCTUBRE DE 2023)</small>
+
+V. No estar condenada o condenado con sentencia firme por el delito de violencia familiar; violencia familiar equiparada o doméstica violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, establecidos en la legislación penal aplicable, y
+
+> <small>(ADICIONADA, G.O. 6 DE OCTUBRE DE 2023)</small>
+
+VI. No encontrarse inscrito en el Registro de Deudores Alimentarios Morosos, a menos que se acredite estar al corriente del pago, cancele esa deuda o se tramite el descuento correspondiente.
 
 ###### Artículo 73.
 
@@ -2551,3 +2565,11 @@ G.O. 29 DE MAYO DE 2023.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 6 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO; SE ADICIONA UN TERCER PÁRRAFO Y LAS FRACCIONES I, II Y III, Y SE RECORRE EN SU ORDEN EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 18 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO. SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 72; Y SE ADICIONAN LAS FRACCIONES IV, V Y VI AL ARTÍCULO 72 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrara´ en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
