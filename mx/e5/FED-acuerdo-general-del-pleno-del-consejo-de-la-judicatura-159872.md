@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-159872"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2022-08-26"
-last_updated: "2022-08-26"
+last_updated: "2023-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159872&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2022-08-13"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [POR EL QUE SE CREA EL COMITE TECNICO DE TRABAJO A DISTANCIA DEL PROPIO CONSEJO]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISTINTAS DISPOSICIONES DEL DIVERSO PARA PREVENIR LA VIOLENCIA LABORAL Y MEJORAR EL AMBIENTE DE TRABAJO EN EL PROPIO CONSEJO, EN RELACIÓN CON EL TELETRABAJO, PUBLICADO EN EL D.O.F. DE 6 DE OCTUBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL COMITÉ TÉCNICO DE TRABAJO A DISTANCIA DEL PROPIO CONSEJO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2023 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 26 de agosto de 2022.
 
@@ -260,3 +262,21 @@ SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Jud
 TERCERO. La expedición del presente Acuerdo no generará impacto presupuestario, ni incremento en la estructura de las unidades administrativas que integren el Comité.
 
 EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, por el que se crea el Comité Técnico de Trabajo a Distancia del propio Consejo, fue aprobado por el Pleno del Consejo, en sesión ordinaria de 13 de julio de 2022, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Bernardo Bátiz Vázquez, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé, Lilia Mónica López Benítez y Sergio Javier Molina Martínez.- Ciudad de México, a 18 de agosto de 2022.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 6 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISTINTAS DISPOSICIONES DEL DIVERSO PARA PREVENIR LA VIOLENCIA LABORAL Y MEJORAR EL AMBIENTE DE TRABAJO EN EL PROPIO CONSEJO, EN RELACIÓN CON EL TELETRABAJO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Aquellas personas titulares de órganos jurisdiccionales o de áreas administrativas que, por causa justificada, se encuentren desarrollando sus funciones en teletrabajo, deberán dar aviso, dentro de los cinco días hábiles a la entrada en vigor del presente Acuerdo General, a la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, la cual integrará una lista provisional que se hará del conocimiento del Pleno hasta en tanto se determine la aprobación definitiva, caso por caso, del esquema de trabajo correspondiente.
+
+CUARTO. Se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Federal, por el que se crea el Comité Técnico de Trabajo a Distancia del propio Consejo.
+
+QUINTO. Se instruye a la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales para que, en colaboración con la Dirección General de Asuntos Jurídicos, dentro del plazo de tres meses, contados a partir de la entrada en vigor de este Acuerdo General, someta a consideración del Pleno los lineamientos en materia de teletrabajo, a que se refiere el artículo 25 Quater, fracción I, de este instrumento normativo.
+
+SEXTO. Se instruye a la Dirección General de Asuntos Jurídicos para que, en un plazo de dos meses, contados a partir de la entrada en vigor de este Acuerdo General, someta a consideración del Pleno la propuesta de adición del artículo 164 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, por el que se expide el similar que reglamenta la organización y funcionamiento del propio Consejo; y reforma y deroga diversas disposiciones de otros acuerdos generales, a fin de que se adicione en dicho precepto la atribución de la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales contenida en el diverso Acuerdo General del Pleno del Consejo de la Judicatura Federal para prevenir la violencia laboral y mejorar el ambiente de trabajo en el propio Consejo.
