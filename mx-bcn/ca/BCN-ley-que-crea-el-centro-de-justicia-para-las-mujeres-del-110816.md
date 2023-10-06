@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-crea-el-centro-de-justicia-para-las-mujeres-del-110816"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-11"
-last_updated: "2015-12-11"
+last_updated: "2023-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # LEY QUE CREA EL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY QUE CREA EL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL 30 DE JUNIO DE 2017.]</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2023.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 11 de diciembre de 2015.
 
@@ -41,29 +41,51 @@ LEY QUE CREA EL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE BAJA CALIFORNI
 
 ### CAPÍTULO I. DE SU NATURALEZA, OBJETO Y DOMICILIO
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público, interés social y observancia general en el Estado de Baja California en materia de coordinación y vinculación interinstitucional de las áreas de procuración de justicia, seguridad pública, salud, educación y todas aquellas que de acuerdo a las facultades establecidas en la normatividad local contribuyan a prevenir, sancionar, atender y erradicar la violencia en contra de las mujeres.
+La presente Ley es de orden público, interés social y observancia general en el Estado de Baja California en materia de coordinación y vinculación interinstitucional de las áreas de procuración de justicia, seguridad pública, salud, educación y todas aquellas que de acuerdo a las facultades establecidas en la normatividad local contribuyan a prevenir, sancionar, atender y erradicar la violencia en contra de las mujeres, las adolescentes y las niñas.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 2.
 
-Se crea el Centro de Justicia para las Mujeres del estado de Baja California como un organismo descentralizado de la administración pública el (sic) Estado, con personalidad jurídica, patrimonio propio y autonomía de gestión para el cumplimiento de sus fines, el cual contará con la estructura administrativa que determine su reglamentación interior y que se integrará por la representación de las autoridades que se contemplan en esta Ley.
+Se crea el Centro de Justicia para las Mujeres del Estado de Baja California como un organismo descentralizado de la administración pública del Estado, con personalidad jurídica, patrimonio propio y autonomía de gestión para el cumplimiento de sus fines, el cual contará con la estructura administrativa que determine su reglamentación interior y que se integrará por la representación de las autoridades que se contemplan en esta Ley.
+
+El Centro de Justicia para las Mujeres del Estado de Baja California, tendrá su domicilio legal en el municipio de Tijuana; y podrán establecerse oficinas o delegaciones en el Estado priorizando los municipios con mayor índice de violencia contra las mujeres, las adolescentes y las niñas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 3.
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Centro: Centro de Justicia Para Mujeres;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-II. Junta Directiva: El Órgano de Gobierno u Administrativo del Centro;
+I. Centro: Centro de Justicia para las Mujeres del Estado de Baja California;
 
-III. Ley: Ley de Acceso de las Mujeres a una Vida Libre de Violencia; y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-IV. Ley Paraestatal: Ley de las Entidades Paraestatales del Estado de Baja California.
+II. Junta de Gobierno: Órgano rector del Centro;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+III. Ley: Ley que Crea el Centro de Justicia para las Mujeres del Estado de Baja California;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+IV. Ley Paraestatal: Ley de las Entidades Paraestatales del Estado de Baja California;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+V. Órgano Interno de Control: La unidad administrativa encargada de promover, evaluar y fortalecer el buen funcionamiento del control interno del Centro, así como la aplicación de lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 4.
 
-El Centro de Justicia para Mujeres tendrá por objeto principal coadyuvar a la prevención y atención especializada de las mujeres víctimas de violencia, mediante la prestación de servicios integrales en un mismo lugar, con la finalidad de promover y garantizarles el derecho a la justicia, y además:
+El Centro es un espacio multidisciplinario e interinstitucional que tiene como objeto brindar, de manera gratuita, atención integral a mujeres víctimas de violencia de género, así como a sus hijas e hijos menores de dieciocho años de edad, desde las perspectivas de género, derechos humanos, intercultural, diferencial e interseccional, mediante la prestación de servicios en un mismo lugar, con la finalidad de promover y garantizar su acceso a la justicia, el ejercicio pleno de sus derechos humanos y su empoderamiento. Asimismo, tendrá por objeto:
 
 I. Brindar un ambiente seguro y confiable para mujeres víctimas de violencia y para sus hijas e hijos;
 
@@ -77,83 +99,203 @@ V. Generar estudios, información y estadística sobre la violencia contra las m
 
 VI. Consolidar un equipo multidisciplinario profesionalizado y acreditado en el tema de violencia contra las mujeres.
 
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+ARTÍCULO 4 BIS. El Centro deberá proporcionar o gestionar que por conducto de las autoridades correspondientes se brinden de manera gratuita, como mínimo los siguientes servicios:
+
+I. Atención médica y psicológica, incluyendo atención terapéutica de contención emocional;
+
+II. Asesoría y orientación jurídica;
+
+III. Representación legal en materias penal, familiar, civil y demás que se requieran, en los términos que dispongan las leyes;
+
+IV. Gestión de expedición de documentación oficial;
+
+V. Servicios de albergue temporal o tránsito;
+
+VI. Servicios de cuidado y atención infantil;
+
+VII. Servicios de trabajo social;
+
+VIII. Servicios de protección de seguridad a víctimas en situación de riesgo grave o falta de red de apoyo familiar o comunitario para lo cual se coordinarán con los refugios para víctimas de violencia;
+
+IX. Acceso a la justicia a través de agencias del Ministerio Público especializadas en violencia contra las mujeres;
+
+X. Asesoría, capacitación y servicios para el empoderamiento social y económico;
+
+XI. Gestionar el acceso a servicios educativos;
+
+XII. Programas de incorporación de las mujeres víctimas de violencia al mercado laboral; y,
+
+XIII. Los demás servicios que contribuyan al acceso de las mujeres a una vida libre de violencia.
+
+El Centro facilitará el acceso a la justicia las 24 horas todos los días del año, y se deberá garantizar que en los servicios que se brinden se cuente con personas intérpretes de lenguas indígenas, así como condiciones de accesibilidad para mujeres con discapacidad, incluidas personas intérpretes de lengua de señas mexicana y asistencia personal en caso de que se requiera.
+
+Los servicios se proporcionarán con independencia de que exista o no una denuncia por los hechos de violencia.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+ARTÍCULO 4 TER. Los servicios que brinde el Centro deberán ejecutarse bajo los principios previstos en el artículo 4 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 5.
 
 Para el cumplimiento de su objeto, el Centro tendrá las siguientes atribuciones:
 
-I. Coordinar interinstitucionalmente a las autoridades competentes para garantizar el acceso de las mujeres víctimas de violencia a la justicia y al ejercicio pleno de su derecho a una vida libre de violencia, así como el respeto de sus derechos humanos;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+I. Coordinar interinstitucionalmente a las autoridades competentes para garantizar y facilitar el acceso de las mujeres víctimas de violencia a la justicia con la debida diligencia y desde la perspectiva de género, así como el ejercicio efectivo de sus derechos humanos y asegurar un acceso rápido y eficaz a los programas establecidos para ello, realizando las gestiones ante las autoridades competentes;
 
 II. Procurar el acceso rápido y eficaz a los programas establecidos en las diferentes áreas de la administración pública en beneficio de las mujeres;
 
-III. Generar programas y planes de coordinación con las autoridades en materia de prevención, sanción, atención y erradicación de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+III. Diseñar y ejecutar acciones, programas y planes de coordinación con las autoridades en materia de prevención, sanción, atención y erradicación de la violencia contra las mujeres, las adolescentes y las niñas;
 
 IV. Promover entre las autoridades de la administración pública un ejercicio humanizado y solidario ante las mujeres para evitar fenómenos de violencia institucional;
 
-V. Aplicar los recursos financieros que le sean aprobados en su presupuesto anual así como aquellos que le sean otorgados para la aplicación de proyectos institucionales locales o federales;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+V. Solicitar los mecanismos de financiamiento con recursos federales a través de los programas, estatales y municipales para mejorar el funcionamiento y equipamiento de sus instalaciones;
 
 VI. Promover la participación y colaboración de todos los organismos públicos y privados que realizan actividades o tienen funciones afines al Objeto del Centro;
 
-VII. Fortalecer las medidas de seguridad establecidas en las leyes para la obtención de medidas de protección y de seguridad que garanticen los derechos y la protección física, psicológica, patrimonial, económica y sexual de la mujer víctima de violencia; y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-VIII. Coadyuvar en el diseño de planes y programas de prevención y educación que impartan las dependencias públicas con la intención de fomentar los valores de la no violencia y el respeto e igualdad de derechos entre mujeres y hombres.
+VII. Promover ante las autoridades competentes las órdenes y medidas provisionales necesarias para salvaguardar la integridad de las mujeres, así como la de sus hijas e hijos menores de dieciocho años de edad, incluyendo su solicitud y prórroga;
 
-### CAPÍTULO II. DE SU GOBIERNO
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+VIII. Coadyuvar en el diseño de planes y programas de prevención y educación que impartan las dependencias públicas con la intención de fomentar los valores de la no violencia y el respeto e igualdad de derechos entre mujeres y hombres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+IX. Diseñar e implementar acciones que eviten la victimización secundaria de las mujeres víctimas de violencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+X. Garantizar a las mujeres información sobre los mecanismos de acceso a la justicia. A las mujeres con discapacidad, se les podrá brindar asistencia temporal, y a las mujeres, adolescentes y niñas sordas, en su caso, teléfonos de emergencias adaptados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XI. Proporcionar orientación y asesoría jurídica, así como representación legal a las mujeres víctimas de violencia y a sus hijas e hijos menores de dieciocho años de edad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XII. Facilitar a las mujeres víctimas de violencia, así como a sus hijas e hijos menores de dieciocho años de edad, el acceso a los servicios de salud, trabajo social y de empoderamiento económico y social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XIII. Asegurar la aplicación de los ajustes de procedimiento para que las mujeres con discapacidad puedan ejercer efectivamente sus derechos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XIV. Gestionar ante autoridades públicas e instituciones privadas los apoyos necesarios para que las mujeres con discapacidad puedan tener acceso a los servicios que proporciona el Centro;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XV. Realizar visitas domiciliarias en hogares, instituciones públicas o privadas, donde se encuentren mujeres con discapacidad que probablemente estén siendo víctimas de violencia, así como gestionar los apoyos y medidas de protección necesarias para salvaguardar su integridad personal. Se podrán realizar estas visitas cuando exista información suficiente sobre la ocurrencia de los hechos, incluso mediante denuncia anónima. Las mujeres con discapacidad pueden rehusarse a la entrevista durante estas visitas cuando estén en condiciones de manifestarlo; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XVI. Las demás que le confieran los ordenamientos legales aplicables, sin perjuicio de las atribuciones que correspondan a otras autoridades en el ámbito de sus competencias.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+### CAPÍTULO II. DEL ÓRGANO DE GOBIERNO
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 6.
 
-El Centro de Justicia, en concordancia con la Ley Paraestatal estará a cargo de una Junta de Gobierno y un Titular.
+El Centro, en concordancia con la Ley Paraestatal estará a cargo de una Junta de Gobierno y de una persona Titular.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 7.
 
-La Junta de Gobierno estará integrada por el o la titular de las siguientes dependencias:
+La Junta de Gobierno, es el órgano rector del Centro, y estará integrada por la persona titular de las siguientes dependencias, entidades y organismos:
 
 I. La Secretaría de Gobierno del Estado de Baja California, quien la presidirá;
 
-II. La Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-III. La Secretaría de Educación y Bienestar Social;
+II. La Secretaría de Hacienda;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+III. La Secretaría de Educación;
 
 IV. La Secretaría de Salud;
 
-V. La Procuraduría General de Justicia, quien fungirá como secretaria;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-VI. La Secretaría de Seguridad Pública;
+V. La Fiscalía General del Estado;
 
-VII. La Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+VI. La Secretaría de Seguridad Ciudadana;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+VII. La Secretaría de Bienestar;
 
 VIII. La Dirección del Sistema Estatal para el Desarrollo Integral de la Familia;
 
 IX. La Dirección General del Instituto Estatal de la Mujer;
 
-X. Un representante de la Administración Pública Municipal; y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-XI. Un representante de la Sociedad Civil.
+X. Una persona representante de la Administración Pública Municipal; y
 
-En el caso del o la representante de la Administración Municipal, lo será del municipio bajacaliforniano en donde se encuentre ubicado el Centro de Justicia.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-Por cada miembro de la Junta de Gobierno existirá un Suplente debidamente acreditado para ejercer las facultades del titular ante la Junta, y quien tendrá por lo menos el cargo de director de área o su equivalente, salvo el representante a que se refiere la fracción XI de este artículo.
+XI. Una persona representante de la Sociedad Civil.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+En el caso de la persona representante de la Administración Municipal, lo será del municipio bajacaliforniano en donde se encuentre ubicado el Centro.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+Por cada persona integrante de la Junta de Gobierno existirá una suplente debidamente acreditada para ejercer las facultades de la persona titular integrante ante la Junta, y quien tendrá por lo menos el cargo de director de área o su equivalente, salvo la representación a que se refiere la fracción XI de este artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+La Persona Titular del Centro fungirá como Secretario de la Junta de Gobierno, teniendo solo derecho a voz en el desarrollo de sus sesiones.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 8.
 
-Como integrantes de la Junta de Gobierno en calidad de invitados con derecho a voz, podrán participar el o la persona que ocupe el cargo de:
+Podrán participar en las sesiones de la Junta de Gobierno solo con derecho a voz en calidad de invitadas:
 
-I. Presidente del Tribunal Superior de Justicia;
+I. La Presidencia del Tribunal Superior de Justicia;
 
-II. Titular de la Comisión Estatal de Derechos Humanos; y
+II. La Titularidad de la Comisión Estatal de Derechos Humanos; y,
 
-III. Representantes de organizaciones sociales afines a las actividades del Centro.
+III. Las y los representantes de organizaciones sociales afines a las actividades del Centro.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 9.
 
-Los miembros de la Junta de Gobierno contemplados en las fracciones I a la IX del artículo siete de esta Ley, durarán en su cargo en tanto sean titulares de las Dependencias en cuestión. Los cargos serán honoríficos.
+Las personas integrantes de la Junta de Gobierno contemplados en las fracciones I a la IX del artículo siete de esta Ley, durarán en su cargo en tanto sean titulares de las Dependencias, entidades u organismos de que se trate. Los cargos serán honoríficos.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 10.
 
-Las Sesiones que celebre la Junta de Gobierno, serán ordinarias y extraordinarias. Las primeras se llevarán a cabo cuando menos cuatro veces al año, en forma trimestral, teniendo el o la presidente de la Junta de Gobierno, la facultad de convocar a los demás miembros para la celebración de sesiones.
+Las Sesiones que celebre la Junta de Gobierno, serán ordinarias y extraordinarias. Las primeras se llevarán a cabo cuando menos cuatro veces al año, en forma trimestral, teniendo la persona que preside la Junta de Gobierno, la facultad de convocar a las demás personas integrantes para la celebración de sesiones.
+
+Para la validez de las sesiones se deberá contar con la mitad más uno de sus integrantes, y las decisiones se tomarán por mayoría de votos, contando con voto de calidad la Persona Titular de la Presidencia.
 
 ###### ARTÍCULO 11.
 
 Las reglas de organización de las sesiones de la Junta se regularán por su Reglamento Interno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 12.
 
@@ -165,55 +307,103 @@ II. Aprobar su presupuesto anual de Ingresos y Egresos del Centro;
 
 III. Expedir el Reglamento Interno y aprobar la organización administrativa del Centro;
 
-IV. Fijar los montos de las cuotas o cobros de recuperación que se originen por servicios que preste el Centro de Justicia, de acuerdo a los lineamientos de la Secretaría de Planeación y Finanzas, previa autorización del Congreso local;
+IV. (DEROGADA, P.O. 6 DE OCTUBRE DE 2023)
 
 V. Aprobar anualmente los estados financieros del Centro;
 
 VI. Aprobar de acuerdo con las leyes y políticas aplicables, las bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar el Centro con terceros en materia de obra pública, adquisiciones, arrendamientos y prestaciones de servicios;
 
-VII. Otorgar en favor del Titular Poder General para pleitos y cobranzas, actos de administración y dominio, con todas las facultades generales y las especiales que requieran clausula especial conforme a la Ley;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-VIII. Analizar y aprobar, en su caso, los informes periódicos que rinda el Director titular; y
+VII. Otorgar en favor de la Persona Titular del Centro Poder General para pleitos y cobranzas, actos de administración y dominio, con todas las facultades generales y las especiales que requieran cláusula especial conforme a la Ley;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+VIII. Analizar y aprobar, en su caso, los informes periódicos que rinda la Persona Titular del Centro; y,
 
 IX. Autorizar la creación de los comités o grupos especializados de apoyo institucional.
 
-### CAPÍTULO III. DE SU TITULAR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+### CAPÍTULO III. DE LA PERSONA TITULAR DEL CENTRO
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 13.
 
-Al frente del organismo estará un o una Titular a quien se designará y removerá libremente por el Gobernador del Estado.
+Al frente del Centro estará la Persona Titular del Centro a quien se designará y removerá libremente por la persona Titular del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 14.
 
-Para acceder al cargo de titular, se deberá cumplir con los siguientes requisitos:
+Para ocupar la titularidad del Centro, se deberá cumplir con los siguientes requisitos:
 
-I. Ser ciudadano(a) mexicano en pleno goce y ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-II. Poseer Título Profesional y experiencia de al menos 5 años en carrera afín a los servicios que presta el Centro de Justicia para las Mujeres de Baja California;
+I. Estar en pleno goce y ejercicio de sus derechos;
 
-III. Ser mayor de treinta años y menor de sesenta y cinco al momentos (sic) de su designación;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+II. Contar con Título Profesional;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+III. Ser mayor de treinta años y menor de sesenta y cinco al momento de su designación;
 
 IV. Acreditar tener una residencia mínima de cinco años en el Estado;
 
-V. No ser ministro de ningún culto religioso ni líder partidista;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-VI. No haber sido condenado por la comisión de ningún delito intencional; y
+V. No ser ministra o ministro de ningún culto religioso ni líder partidista;
 
-VII. No desempeñar ningún otro empleo, cargo, puesto o comisión, a excepción de los relacionados con la docencia.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+VI. No haber obtenido condena por la comisión de ningún delito intencional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+VII. Tener experiencia comprobable en el ramo de derechos humanos de las mujeres y atención a mujeres víctimas de violencia con perspectiva de género;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+VIII. No desempeñar ningún otro empleo, cargo, puesto o comisión, con excepción de los honoríficos y los relacionados con la docencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+IX. No haber obtenido condena por sanción relacionada con violencia contra las mujeres en razón de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+X. No contar con inhabilitación para el ejercicio de un cargo público a nivel estatal o federal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XI. No tener sentencia firme por la comisión intencional de cualquiera de los delitos o ilícitos a que se refiere el artículo 38, fracción VII, de la Constitución Federal; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XII. Los demás que establezcan otras disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 15.
 
-El o la Titular tendrá las siguientes facultades y obligaciones:
+La Persona Titular del Centro tendrá las siguientes facultades y obligaciones:
 
 I. Ejecutar los acuerdos de la Junta de Gobierno;
 
-II. Representar Legalmente al Centro, con facultades en los términos que apruebe e instruya previamente y por escrito la Junta de Gobierno para ejercer actos de dominio, de administración, para pleitos y cobranzas, incluyendo aquellas de carácter laboral, y para juicios civiles, administrativos, penales y de amparo en que el Organismo sea parte, con todas las facultades generales y especiales exceptuando los actos de dominio que tengan por objeto la compra o enajenación de inmuebles;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+II. Representar legalmente al Centro, con facultades en los términos que apruebe e instruya previamente y por escrito la Junta de Gobierno para ejercer actos de dominio, de administración, para pleitos y cobranzas, incluyendo aquellas de carácter laboral, y para juicios civiles, administrativos, penales y de amparo en que el Centro sea parte, con todas las facultades generales y especiales exceptuando los actos de dominio que tengan por objeto la compra o enajenación de inmuebles;
 
 III. Otorgar y revocar poderes generales para pleitos y cobranzas, y poderes especiales a favor de terceras personas;
 
 IV. Dirigir administrativamente el Centro;
 
-V. Coordinar las actividades de las dependencias públicas que por colaboración institucional se enfoquen en la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+V. Coordinar las actividades de las dependencias públicas que por colaboración institucional se enfoquen en la prevención, atención, sanción y erradicación de la violencia contra las mujeres, así como coordinar aquellas actividades que realice el personal de las secretarías, dependencias y entidades de la administración pública estatal, Fiscalía, Poder Judicial, órganos autónomos; así como otras instituciones del sector público federal y municipal, y organizaciones de la sociedad civil que, por colaboración interinstitucional, laboren en el Centro;
 
 VI. Asesorar a las dependencias de la administración pública para que el diseño de sus planes y programas coadyuven con las funciones del Centro en materia de Justicia para las Mujeres;
 
@@ -223,29 +413,79 @@ VIII. Fomentar los valores en los programas educativos apropiados a todos los ni
 
 IX. Establecer procedimientos eficaces que incluyan medidas de protección y acceso efectivo a los procedimientos de procuración de justicia;
 
-X. Establecer la base de datos en la que se contengan los registros de la atención que se brinda en el Centro de Justicia para las Mujeres. Participar, con derecho a voz pero sin voto, en las reuniones de la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
 
-XI. Rendir un informe de labores cuando menos una vez al año a la Junta de Gobierno;
+X. Establecer la base de datos en la que se contengan los registros de la atención que se brinda en el Centro;
 
-XII. Elaborar y aplicar el Reglamento Interior del Organismo el cual será sometido a la Junta de Gobierno para su aprobación;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
 
-XIII. Formular y presentar a la Junta de Gobierno, para su aprobación, el proyecto del presupuesto anual de ingresos y egresos del Centro para su aprobación;
+XI. Participar, con derecho a voz, pero sin voto, en las reuniones de la Junta de Gobierno;
 
-XIV. Formular y presentar a la Junta de Gobierno los proyectos de planes y programas para el desarrollo de las funciones del Centro;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE OCTUBRE DE 2023)</small>
 
-XV. Conducir las relaciones laborales, removiendo y dando por concluida la relación laboral de los trabajadores del Centro, de conformidad con la normatividad aplicable; y
+XII. Rendir un informe de labores cuando menos una vez al año a la Junta de Gobierno;
 
-XVI. Las demás que le asigne la Junta de Gobierno, las Leyes y el Reglamento respectivo.
+> <small>(REFORMADA , P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XIII. Elaborar y aplicar el Reglamento Interior del Centro el cual será sometido a la Junta de Gobierno para su aprobación;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XIV. Elaborar y presentar a la Junta de Gobierno, para su aprobación, el proyecto de presupuesto del Centro, y aplicar los recursos financieros adoptados a los proyectos institucionales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XV. Formular y presentar a la Junta de Gobierno los proyectos de planes y programas para el desarrollo de las funciones del Centro;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XVI. Conducir las relaciones laborales, removiendo y dando por concluida la relación laboral de las personas trabajadoras del Centro, de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XVII. Elaborar proyectos de convenios de colaboración interinstitucional con dependencias de la administración pública estatal, otras instituciones del sector público federal y municipal, y organizaciones de la sociedad civil;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XVIII. Dar seguimiento a los planes y programas de atención a mujeres víctimas de violencia, con la finalidad de evaluar su eficacia y rediseñar las acciones y medidas para avanzar en la erradicación de la violencia contra las mujeres, así como establecer las medidas de protección necesarias y acceso efectivo a los procedimientos de procuración y administración de justicia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XIX. Difundir los servicios que se proporcionan en el Centro a las mujeres víctimas de violencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XX. Rendir a la persona titular del Poder Ejecutivo de Gobierno del Estado y al Congreso del Estado, un informe anual sobre las actividades realizadas en el Centro;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XXI. Elaborar los protocolos o manuales para la operación del Centro, conforme a lo previsto en el artículo 59 Septies, fracción VIII de la Ley General de Acceso de las Mujeres a una Vida Ubre de Violencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XXII. Remitir al Poder Ejecutivo del Estado, el Reglamento interno del Centro aprobado por la Junta de Gobierno, para los efectos que correspondan;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XXIII. Expedir copias certificadas de los documentos que obran en sus archivos sobre asuntos que competan al Centro, de conformidad con las disposiciones jurídicas y administrativas aplicables; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE OCTUBRE DE 2023)</small>
+
+XXIV. Las demás que le asigne la Junta de Gobierno, y que establezcan las Leyes y el Reglamento respectivo.
 
 ### CAPÍTULO IV. DEL PATRIMONIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 16.
 
-El patrimonio del Centro de Justicia estará constituido por:
+El patrimonio del Centro estará constituido por:
 
 I. Todos (sic) las aportaciones, bienes muebles e inmuebles que obtenga por medio de participaciones, subsidios y apoyos que le otorguen los gobiernos Federal, Estatal y en su caso, municipales, para su debida operación;
 
-II. Los ingresos que obtenga por los servicios que preste en el cumplimiento de su objeto o por otras actividades que fortalezcan su condición patrimonial;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+II. Los ingresos que obtenga por actividades que fortalezcan su condición patrimonial;
 
 III. Los legados y donaciones que sean otorgados en su favor;
 
@@ -259,31 +499,51 @@ Los bienes inmuebles que formen parte del patrimonio del Centro de Justicia para
 
 ### CAPÍTULO V. DE LA VIGILANCIA, RELACIONES LABORALES Y TÉRMINOS DE LIQUIDACIÓN Y EXTINCIÓN DEL CENTRO
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 18.
 
-El Control y vigilancia de los recursos y las prácticas de los empleados del Centro estarán a cargo de una Contraloría Interna dependiente de la Dirección de Control y Evaluación Gubernamental.
+El Control y vigilancia de los recursos y las prácticas de las personas empleadas del Centro estarán a cargo del Órgano Interno de Control.
+
+La Persona Titular de este órgano será nombrada y removida libremente por la Persona Titular de la Secretaría de la Honestidad y de la Función Pública.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 19.
 
-Es labor de esta Contraloría Interna el evaluar, detectar, controlar y sancionar prácticas ilegales de los servidores públicos, dirigiendo su actuación con enfoque de carácter preventivo.
+Es labor del Órgano Interno de Control el evaluar, detectar, controlar y sancionar prácticas ilegales de las personas servidoras públicas, dirigiendo su actuación con enfoque de carácter preventivo.
 
-También recibirán quejas y denuncias ciudadanas que se presenten contra servidores públicos relativas al incumplimiento de las funciones o violaciones de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, así como inconformidades generadas en el servicio que se presta en el Centro de Justicia.
+También recibirán quejas y denuncias ciudadanas que se presenten contra servidores públicos relativas al incumplimiento de las funciones o violaciones de la Ley de Responsabilidades Administrativas del Estado de Baja California, así como inconformidades generadas en el servicio que se presta en el Centro.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 20.
 
-El o la funcionaria a cargo de dicha Contraloría Interna asistirá a las sesiones de la Junta de Gobierno con derecho a voz cuando se traten asuntos relacionados con sus atribuciones.
+La Persona Titular del Órgano Interno de Control asistirá a las sesiones de la Junta de Gobierno con derecho a voz cuando se traten asuntos relacionados con sus atribuciones.
 
 ###### ARTÍCULO 21.
 
 El Centro queda sometido a las normas de contabilidad, presupuesto y gasto público aplicables a la Administración Pública del Estado de Baja California.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 22.
 
-Las Relaciones Laborales entre el Centro de Justicia y sus trabajadores se regirán por el Apartado “A” del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+Las relaciones laborales entre el Centro y las personas trabajadoras de éste se regirán por el Apartado “A” del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Sin perjuicio de lo anterior, el personal adscrito y designado al Centro mantendrá su vínculo jerárquico y laboral con cada una de las dependencias, entidades u organismos de donde en su caso procedan, y deberán ajustar su desempeño a los reglamentos, lineamientos y demás reglas de operación que se emitan para sus funciones dentro del Centro.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 23.
 
-Cuando el Centro de Justicia para las Mujeres deje de cumplir con el objeto para el que fue creado o su funcionamiento no resultare conveniente desde el punto de vista del Estado o del Interés Público, la Secretaría General de Gobierno propondrá al Ejecutivo la disolución, liquidación o extinción de este organismo; en este sentido se considera que opera la extinción de la fuente de trabajo. Asimismo podrá proponer su fusión, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
+Cuando el Centro deje de cumplir con el objeto para el que fue creado o su funcionamiento no resultare conveniente desde el punto de vista del Estado o del Interés Público, la Secretaría General de Gobierno propondrá al Ejecutivo la disolución, liquidación o extinción de este organismo; en este sentido se considera que opera la extinción de la fuente de trabajo. Asimismo, podrá proponer su fusión, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2023)</small>
+
+###### ARTÍCULO 24.
+
+Todo el personal adscrito y designado a los Centros deberá estar sensibilizado y profesionalizado en atención a víctimas de violencia de género desde la perspectiva de género, y en derechos humanos de las mujeres, además de recibir capacitación permanente para su actualización.
 
 TRANSITORIOS:
 
@@ -320,3 +580,17 @@ GOBERNADOR DEL ESTADO.
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 294 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 18, 19, 20, 22 Y 23, ASÍ COMO LA MODIFICACIÓN EN LA IDENTIFICACIÓN DEL CAPÍTULO II PARA DENOMINARSE “DEL ÓRGANO DE GOBIERNO” Y DEL CAPÍTULO III PARA DENOMINARSE “DE LA PERSONA TITULAR DEL CENTRO” Y SE ADICIONAN LOS ARTÍCULOS 4 BIS, 4 TER Y 24 A LA LEY QUE CREA EL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO".]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La Persona Titular de la Dirección del Centro de Justicia para las Mujeres del Estado de Baja California en un plazo que no exceda de sesenta días naturales posteriores a la publicación del presente Decreto, deberá llevar a cabo las acciones necesarias para adecuación del Reglamento Interno del Centro a los términos de estas reformas.
+
+TERCERO.- El cumplimiento e implementación de todas las acciones que deriven de las presentes reformas, estará sujeto a la disponibilidad presupuestal correspondiente para el ejercicio fiscal en el que las mismas entren en vigor y en los subsecuentes, así como a los convenios que el Estado suscriba con el Gobierno Federal en términos del artículo 59 Nonies de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; sin excluir la responsabilidad de las entidades, organismos y dependencias Estatales y Municipales de programar y presupuestar para el ejercicio presupuestal inmediato posterior al inicio de vigencia del presente Decreto, el recurso que se requiera para el cumplimiento de lo dispuesto por éste.
+
+CUARTO.- Las dependencias, entidades y organismos de la Administración Pública Estatal involucradas, favorecerán la coordinación de acciones que propicien la optimización de recursos y la infraestructura con la que actualmente se cuenta, así como la homologación o creación de protocolos de acción necesarios.
