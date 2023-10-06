@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2023-08-21"
+last_updated: "2023-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE OCTUBRE DE 2023.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -4848,31 +4848,45 @@ Las penas previstas en este artículo se aumentarán en una mitad cuando el áre
 
 ARTÍCULO 345 BIS. Se le impondrán de dos años a diez años de prisión y de 1,000 a 5,000 Unidades de Medida y Actualización vigente, al que de forma ilegal o con dolo derribe, tale u ocasione la muerte de uno o más árboles.
 
-> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 6 DE OCTUBRE DE 2023)</small>
 
-La misma pena se impondrá a quien almacene materias primas forestales de forma ilegal, con un fin distinto de aquellas destinadas al uso doméstico.
+Se impondrá una sanción de seis a veinte años de prisión y de 6,000 a 10,000 Unidades de Medida y Actualización vigente, cuando la conducta señalada en el párrafo anterior sea cometida en:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2023)</small>
 
-Las penas previstas en este artículo se duplicarán cuando una o más de las conductas descritas en los párrafos anteriores se realicen de manera reiterada, con ánimo de lucro o cuando se hayan desarrollado en cualquiera de los siguientes lugares, competencia de la Ciudad de México:
+I. Un área natural protegida;
 
-I. En un área natural protegida;
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2023)</small>
 
-II. En un área de valor ambiental;
+II. Un área de valor ambiental;
 
-III. En suelo de conservación;
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2023)</small>
 
-IV. En una barranca; o
+III. Una barranca, o
 
-V. En un área verde en suelo urbano.
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2023)</small>
 
-> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+IV. En Suelo de conservación.
 
-Cuando una o más de las conductas descritas en el presente artículo resulte cometida a nombre, bajo el amparo o a beneficio de una persona moral o jurídica, a ésta se le impondrá la consecuencia jurídica consistente en la prohibición de realizar determinados negocios u operaciones hasta por 5 años, multa hasta por cinco mil Unidades de Medida y Actualización vigente, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por el delito cometido.
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2023)</small>
 
-> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+La misma pena privativa de libertad prevista en el párrafo segundo y de 10,000 a 15,000 Unidades de Medida y Actualización vigente, se impondrá a quien ilícitamente comercie, acopie, almacene, transforme o distribuya madera en rollo, astillas, carbón vegetal, así como cualquier otra materia prima forestal.
 
-La pena se aumentará en una mitad a las personas servidoras públicas que tengan algún tipo de participación en una o más de las conductas descritas en el presente artículo.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 6 DE OCTUBRE DE 2023)</small>
+
+No será punible el uso de leña o de material leñoso proveniente de vegetación forestal sin ningún proceso de transformación, que podrán ser usados para consumo doméstico, rituales o elaboración de productos artesanales, hasta en un volumen menor a medio metro cúbico.
+
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2023)</small>
+
+Las penas previstas en este artículo se duplicarán cuando una o más de las conductas descritas en los párrafos anteriores se realicen de manera reiterada o con ánimo de lucro.
+
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2023)</small>
+
+Cuando una o más de las conductas descritas en el presente artículo resulte cometida en nombre, representación y/o beneficio de una persona moral o jurídica, a los propietarios, socios, representantes legales y apoderados se les impondrá la consecuencia jurídica consistente en la prohibición de realizar negocios relacionados con la industria maderera hasta por cinco años y, multa de 30,000 a 50,000 Unidades de Medida y Actualización vigente, independientemente de la responsabilidad en que hubieren incurrido la persona moral o las personas físicas por el delito cometido.
+
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2023)</small>
+
+La pena se aumentará en una mitad cuando el que participe en una o más de las conductas descritas en el presente artículo sea servidor público o sean beneficiarias de programas sociales de protección al medio ambiente.
 
 > <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2011)</small>
 
@@ -4937,6 +4951,24 @@ e. Un área verde en suelo urbano.
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 Cuando una o más de las conductas descritas en el presente artículo resulte cometida a nombre, bajo el amparo o a beneficio de una persona moral o jurídica, a ésta se le impondrá la consecuencia jurídica consistente en la prohibición de realizar determinados negocios u operaciones hasta por 5 años, multa hasta por quinientos días multa, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por el delito cometido.
+
+> <small>(ADICIONADO, G.O. 6 DE OCTUBRE DE 2023)</small>
+
+ARTÍCULO 346 BIS. Comete el delito de ecocidio quien dolosamente cause un daño grave al ambiente, por la emisión de contaminantes, la realización de actividades riesgosas o la afectación de recursos naturales de la Ciudad de México.
+
+Se impondrá una pena de cinco a doce años de prisión y una multa de 5,000 a 10,000 Unidades de Medida y Actualización vigente a quien:
+
+I. Provoque la destrucción, pérdida total o daño irreparable a un ecosistema que abarque una superficie de cuando menos diez hectáreas;
+
+II. Provoque daño a un ecosistema cuya afectación y sus impactos duren al menos cuatro meses;
+
+III. Provoque daño a un ecosistema donde habite o exista una especie endémica o en peligro de extinción; o
+
+IV. Cause la contaminación del agua y el suelo por vertidos químicos.
+
+Las penas anteriores aumentarán en un tercio cuando el ecocidio sea cometido en Áreas de Valor Ambiental y Áreas Naturales Protegidas competencia de la Ciudad de México.
+
+Además de las sanciones previstas en el presente artículo, quien cometa éste delito, estará obligado a la compensación y reparación integral del daño, con fundamento en lo establecido por el artículo 16 de la Constitución Política de la Ciudad de México.
 
 > <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -6617,3 +6649,11 @@ G.O. 21 DE AGOSTO DE 2023.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrara´ en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 6 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO 345 BIS Y SE ADICIONA EL ARTÍCULO 346 BIS, AMBOS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
