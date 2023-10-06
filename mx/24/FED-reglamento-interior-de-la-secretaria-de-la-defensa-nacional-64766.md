@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-defensa-nacional-647
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-29"
-last_updated: "2019-07-15"
+last_updated: "2023-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64766&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-12-22"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA DEFENSA NACIONAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2023.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de diciembre de 2008.
 
@@ -37,23 +37,29 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA DEFENSA NACIONAL
 
 El presente Reglamento tiene por objeto establecer la organización y atribuciones de la Secretaría de la Defensa Nacional, para el cumplimiento de sus funciones y responsabilidades.
 
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 2.
 
-Para efectos del presente Reglamento, se establecen las definiciones siguientes:
+Para efectos del presente Reglamento, se entiende por:
 
-I. Presidente de la República: el Presidente de los Estados Unidos Mexicanos;
+I. Comandancia del Ejército: la Comandancia del Ejército Mexicano;
 
-II. General Secretario: el Secretario de la Defensa Nacional;
+II. Comandancia de la Fuerza Aérea: la Comandancia de la Fuerza Aérea Mexicana;
 
-III. Secretaría: la Secretaría de la Defensa Nacional;
+III. Estado Mayor Conjunto: el Estado Mayor Conjunto de la Defensa Nacional;
 
-IV. Ejército y Fuerza Aérea: el Ejército y Fuerza Aérea Mexicanos;
+IV. Estado Mayor de la Fuerza Aérea: el Estado Mayor de la Fuerza Aérea Mexicana;
 
-V. Estado Mayor: el Estado Mayor de la Defensa Nacional;
+V. General Secretario: la persona titular de la Secretaría de la Defensa Nacional;
 
-VI. Órganos administrativos: los órganos y unidades que auxilian al General Secretario para el despacho de los asuntos de su competencia y el cumplimiento de sus funciones, y
+VI. Órganos administrativos: los órganos y unidades que auxilian al General Secretario para el despacho de los asuntos de su competencia y el cumplimiento de sus funciones;
 
-VII. Reglamento: el Reglamento Interior de la Secretaría de la Defensa Nacional.
+VII. Presidente de la República: la persona titular del Ejecutivo Federal;
+
+VIII. Reglamento: el Reglamento Interior de la Secretaría de la Defensa Nacional, y
+
+IX. Secretaría: la Secretaría de la Defensa Nacional.
 
 ###### ARTÍCULO 3.
 
@@ -87,23 +93,37 @@ III. Oficialía Mayor;
 
 IV. Inspección y Contraloría General;
 
-V. Estado Mayor;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+V. Estado Mayor Conjunto;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+V Bis. Comandancia del Ejército:
+
+A. Estado Mayor del Ejército, y
+
+B. Direcciones generales a que se refiere el artículo 19 Sexies de este Reglamento;
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
 VI. Comandancia de la Fuerza Aérea:
 
 A. Estado Mayor de la Fuerza Aérea;
 
-B. Dirección del Servicio Meteorológico;
+B. Dirección de Pilotos Aviadores;
 
-C. Dirección de Control Militar de Vuelos;
+C. Dirección del Servicio Meteorológico;
 
-D. Dirección de Material Bélico de la Fuerza Aérea;
+D. Dirección de Control Militar de Vuelos;
 
-E. Dirección de Abastecimiento de Material Aéreo;
+E. Dirección de Material Bélico de la Fuerza Aérea;
 
-F. Dirección de Mantenimiento de Material Aéreo, y
+F. Dirección de Abastecimiento de Material Aéreo;
 
-G. Dirección de Material Aéreo Electrónico.
+G. Dirección de Mantenimiento de Material Aéreo, y
+
+H. Dirección de Material Aéreo Electrónico;
 
 VII. Direcciones Generales:
 
@@ -155,17 +175,19 @@ W. Registro Federal de Armas de Fuego y Control de Explosivos;
 
 X. Servicio Militar Nacional;
 
-> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2016)</small>
+Y. (DEROGADO, D.O.F. 6 DE OCTUBRE DE 2023)
 
-Y. Adiestramiento;
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
-> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2016)</small>
+Z. Derechos Humanos;
 
-Z. Derechos Humanos, y
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
-> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2016)</small>
+AA. Policía Militar, y
 
-Z Bis. Policía Militar;
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+BB. Veterinaria y Remonta.
 
 > <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2016)</small>
 
@@ -267,7 +289,9 @@ I. Auxiliar al General Secretario en las funciones de organizar, equipar, educar
 
 II. Desempeñar las comisiones y funciones especiales que le confiera el General Secretario, e informarle sobre el desarrollo de las mismas;
 
-III. Ejercer el control de los órganos administrativos que le asigne el General Secretario;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+III. Ejercer el control de los órganos administrativos que le asigne el General Secretario, así como representar a la Secretaría ante organismos intersecretariales e institucionales que correspondan a su competencia;
 
 IV. Acordar con el General Secretario el despacho de los asuntos de los órganos administrativos adscritos a su responsabilidad, y formular informes periódicos sobre la actuación de los mismos;
 
@@ -275,15 +299,21 @@ V. Supervisar que se cumplan las disposiciones jurídicas y evaluar la actuació
 
 VI. Recibir en acuerdo ordinario a los titulares de los órganos administrativos adscritos a su responsabilidad, y en acuerdo extraordinario a otros servidores públicos de la Secretaría;
 
-VII. Intervenir en la formulación de los proyectos de iniciativas de ley o decreto legislativo, reglamentos, decretos, acuerdos, órdenes y demás instrumentos jurídicos sobre los asuntos de su competencia;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
-VIII. Resolver sobre los recursos de reconsideración y revisión administrativa que se le presenten, cuando resulten jurídicamente procedentes;
+VII. Intervenir en la elaboración de los proyectos de iniciativas de leyes o decretos legislativos, reglamentos, decretos, acuerdos, órdenes y demás instrumentos jurídicos sobre los asuntos de su competencia, así como en la actualización de la bibliografía militar;
 
-IX. Someter a la consideración del General Secretario los movimientos del personal de Tenientes Coroneles a Generales de División, dentro del ámbito de su competencia; además del personal Diplomado de Estado Mayor, Médicos Cirujanos, Cirujanos Dentistas, Licenciados en Derecho y del personal de Generales, Jefes y Oficiales que se proponga para prestar sus servicios en el Estado Mayor de la Defensa Nacional, Estado Mayor Presidencial, Cuerpo de Guardias Presidenciales, Instituciones Educativas Militares, Cuerpos Especiales y los titulares de los servicios de alimentación;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+VIII. Resolver los recursos de revisión administrativa que le corresponda, en términos de las disposiciones jurídicas aplicables;
+
+IX. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2023)
 
 X. Integrar y presidir la Comisión de Evaluación de la Promoción Superior;
 
-XI. Autorizar la expedición y legalizar los diplomas, certificados y menciones honoríficas;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XI. Autorizar la expedición y validar los diplomas y certificados;
 
 XII. Autorizar el ingreso al personal especialista;
 
@@ -293,9 +323,41 @@ XIV. Suscribir los documentos relativos al ejercicio de sus atribuciones que le 
 
 XV. Expedir certificaciones sobre los asuntos de su competencia;
 
-XVI. Presidir el comité técnico del Fideicomiso Público de Administración para la Adquisición de Equipo Militar y otros comités que resulten necesarios, y
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
-XVII. Las demás que le confieran las disposiciones legales y reglamentarias, así como aquéllas que le asigne el General Secretario.
+XVI. Presidir el comité técnico del Fideicomiso Público de Administración y Pago de Equipo Militar;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XVII. Presidir el órgano de gobierno de las empresas de participación estatal mayoritaria sectorizadas a la Secretaría, acorde a lo señalado en los estatutos de cada empresa, previa designación del General Secretario;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XVIII. Llevar el seguimiento y estadísticas de las quejas y recomendaciones que se reciben de organismos nacionales e internacionales en materia de derechos humanos que permitan implementar acciones que coadyuven a mejorar las políticas internas de supervisión y control en esta materia;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XIX. Definir y dar seguimiento a los planes, programas y proyectos en materia de igualdad de género, que permitan implementar acciones que coadyuven a mejorar las políticas en esta materia al interior de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XX. Atender las acciones a cargo de la Secretaría derivadas de su participación en asambleas, consejos, foros, comités y otros eventos consultivos o normativos en el ámbito nacional e internacional;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XXI. Supervisar el adiestramiento y las actividades que desarrollen los conscriptos y las mujeres voluntarias durante su encuadramiento en los centros de adiestramiento y en las compañías del Servicio Militar Nacional, y mantener una base de datos y estadísticas sobre actividades de adiestramiento;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XXII. Autorizar el instructivo para los centros de adiestramiento del Servicio Militar Nacional y la directiva para la organización y funcionamiento de las compañías del Servicio Militar Nacional, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XXIII. Supervisar las actividades de adiestramiento relacionadas con la educación física, así como la de las personas atletas y equipos deportivos que representan a la Secretaría, así como autorizar su participación en eventos deportivos nacionales e internacionales, y llevar la estadística de los resultados que se obtengan en dichos eventos, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XXIV. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomiende el General Secretario.
 
 ### CAPÍTULO III. De la Oficialía Mayor
 
@@ -313,13 +375,19 @@ I. Auxiliar al General Secretario en las funciones que éste le asigne, para org
 
 II. Desempeñar las comisiones y funciones especiales que le confiera el General Secretario, e informarle sobre el desarrollo de las mismas;
 
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+II Bis. Ejercer el control de los órganos administrativos que le asigne el General Secretario, así como representar a la Secretaría ante organismos intersecretariales e institucionales que correspondan a su competencia;
+
 III. Acordar con el General Secretario el despacho de los asuntos de los órganos administrativos adscritos a su responsabilidad, y formular informes periódicos sobre la actuación de los mismos;
 
 IV. Supervisar que se cumplan las disposiciones jurídicas y evaluar la actuación los (sic) órganos administrativos que tenga adscritos, así como vigilar que elaboren y mantengan permanentemente actualizados sus respectivos manuales de organización y funcionamiento;
 
 V. Recibir en acuerdo ordinario a los titulares de los órganos administrativos adscritos a su responsabilidad, y en acuerdo extraordinario a otros servidores públicos de la Secretaría;
 
-VI. Coordinar sus actividades con el Subsecretario y con el Jefe del Estado Mayor, de conformidad con las directivas del General Secretario;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+VI. Coordinar sus actividades con las personas titulares de la Subsecretaría y de la Jefatura del Estado Mayor Conjunto, de conformidad con las directivas del General Secretario;
 
 VII. Intervenir en la formulación de los proyectos de iniciativas de ley o decreto legislativo, reglamentos, decretos, acuerdos, órdenes y demás instrumentos jurídicos sobre los asuntos de su competencia ordenados por la superioridad;
 
@@ -327,9 +395,35 @@ VII. Intervenir en la formulación de los proyectos de iniciativas de ley o decr
 
 VIII. Dirigir los procesos de planeación, programación, presupuestación, ejercicio, control y evaluación del gasto público de la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
 
-IX. Supervisar el cumplimiento de la normatividad para el mantenimiento de la disciplina, el orden y la seguridad en los edificios de la Secretaría y sus inmediaciones; para el adiestramiento; para la atención ciudadana, y en materia de responsabilidades de los servidores públicos, en particular, sobre la obligación de presentación de la declaración patrimonial;
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
-X. Someter a consideración del General Secretario los movimientos del personal de Tenientes Coroneles a Generales de División, dentro del ámbito de su competencia; además del personal Diplomado de Estado Mayor, Médicos Cirujanos, Cirujanos Dentistas, Licenciados en Derecho y del personal de Generales, Jefes y Oficiales que se proponga para prestar sus servicios en el Estado Mayor de la Defensa Nacional, Estado Mayor Presidencial, Cuerpo de Guardias Presidenciales, Instituciones Educativas Militares, Cuerpos Especiales y los titulares de los servicios de alimentación;
+VIII Bis. Planear, supervisar, intervenir y coordinar con el Estado Mayor Conjunto, la integración del Programa Anual de Adquisiciones, Arrendamientos y Servicios y los programas de producción y mantenimiento de la Secretaría, así como someterlos para aprobación del General Secretario, y dar seguimiento a la ejecución de dichos programas;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+VIII Ter. Planear, supervisar, intervenir y coordinar con el Estado Mayor Conjunto, la presupuestación, contratación, ejecución y control de obra pública y su infraestructura para su funcionamiento, así como someterlo a la aprobación del General Secretario;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+VIII Quater. Coordinar con el Estado Mayor Conjunto la integración de las necesidades anuales de gasto corriente de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+VIII Quinquies. Supervisar que se corrijan las observaciones derivadas de la entrega y recepción de obras, con motivo de la intervención de la Inspección y Contraloría General del Ejército y Fuerza Aérea, así como coordinar las visitas de supervisión a las obras en proceso;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+VIII Sexies. Atender con la intervención de los órganos administrativos de la Secretaría los requerimientos de información que formulen la Auditoría Superior de la Federación y la Secretaría de la Función Pública, derivados de los actos de fiscalización que practican de conformidad con sus respectivos programas anuales de fiscalización o cuando lo soliciten, así como solventar y llevar el seguimiento de las observaciones que se emitan por dichos entes públicos;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+VIII Septies. Supervisar, intervenir y coordinar la integración del anteproyecto de presupuesto de egresos de la Secretaría, de acuerdo con sus necesidades prioritarias y las disposiciones jurídicas aplicables, así como presentarlo para su aprobación al General Secretario;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+IX. Supervisar el cumplimiento de las disposiciones para mantener la disciplina, el orden y la seguridad en los edificios de la Secretaría y sus inmediaciones, así como en materia de adiestramiento, responsabilidades administrativas de las personas servidoras públicas, en particular, sobre la obligación de presentación de su declaración patrimonial, transparencia, acceso a la información pública, protección de datos personales, y atención ciudadana.
+
+X. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2023)
 
 XI. Tramitar ante la Cámara de Senadores, por conducto de la Secretaría de Gobernación, las hojas de servicios de Generales y Coroneles para su correspondiente ratificación de grado;
 
@@ -343,7 +437,9 @@ XV. Realizar la certificación del documento Solicitud de Compatibilidad de Empl
 
 XVI. (DEROGADA, D.O.F. 15 DE JUNIO DE 2016)
 
-XVII. Resolver sobre los recursos de reconsideración y revisión administrativa que se le presenten, cuando resulten jurídicamente procedentes;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XVII. Resolver los recursos de revisión administrativa que le corresponda, en términos de las disposiciones jurídicas aplicables;
 
 XVIII. Intercambiar información, datos o cooperación técnica con otras dependencias y entidades de la Administración Pública Federal, de acuerdo a las políticas establecidas a este respecto, canalizándolos a los órganos administrativos correspondientes;
 
@@ -365,11 +461,19 @@ C. Bienes Muebles;
 
 D. (DEROGADO, D.O.F. 15 DE JUNIO DE 2016)
 
-E. Fideicomiso de apoyo a deudos de militares fallecidos o a militares que hayan adquirido una inutilidad o incapacidad en primera categoría en actos del servicio considerados de alto riesgo;
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+E. Fideicomiso de apoyo a deudos de militares fallecidos o a militares que hayan adquirido una inutilidad o incapacidad en primera categoría en actos del servicio considerados de alto riesgo, así como nombrar a la persona titular de la Secretaría Técnica del Fideicomiso;
 
 F. Interno de Sistemas de Manejo Ambiental, y
 
-G. Otros que le sean encomendados por el General Secretario;
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+G. Comité de Transparencia, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+H. Otros que le sean encomendados por el General Secretario;
 
 XXIV. Presidir el comité de selección del personal que integrará las antigüedades del Curso de Administración Militar para la Seguridad y Defensa Nacionales;
 
@@ -379,21 +483,31 @@ XXVI. Integrar la Comisión de Evaluación de la Promoción Superior, como Prime
 
 XXVII. Controlar operativamente las agrupaciones musicales bajo su responsabilidad, de conformidad con las directivas giradas por el General Secretario;
 
-XXVIII. Organizar, coordinar y supervisar los programas de acondicionamiento físico para el personal del Estado Mayor y los órganos administrativos de la Secretaría;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
-XXIX. Coordinar la participación de la Secretaría en la colecta anual de la Cruz Roja Mexicana;
+XXVIII. Organizar, coordinar y supervisar los programas de acondicionamiento físico para el personal del Estado Mayor Conjunto y los órganos administrativos de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2016)</small>
+XXIX. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2023)
 
-XXX. Coordinar la Unidad de Transparencia de la Secretaría, para atender las solicitudes de acceso a la información, así como el portal de Internet de atención ciudadana de la Secretaría;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XXX. Coordinar la Unidad de Transparencia y Oficina de Atención Ciudadana de la Secretaría, para garantizar las condiciones mínimas de operación, atender las disposiciones en materia de acceso a la información pública y protección de datos personales, así como, el portal de internet de atención ciudadana de la Secretaría;
 
 > <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
 
 XXXI. Suscribir previa autorización del General Secretario, los convenios, contratos y demás documentos análogos relacionados con el ámbito de su competencia, y aquéllos relativos al ejercicio de sus atribuciones o que le corresponda por delegación o suplencia, así como suscribir los actos que se deriven de dichos instrumentos jurídicos, inclusive rescindirlos administrativamente o darlos por terminados anticipadamente; asimismo, determinar, aplicar y requerir el pago de penas convencionales por incumplimiento y hacer efectivas fianzas u otras garantías que se deriven de los citados instrumentos jurídicos, en los términos de las disposiciones jurídicas aplicables, y
 
-> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
-XXXII. Las demás que le confieran las disposiciones jurídicas aplicables, así como aquéllas que le asigne el General Secretario.
+XXXII. Supervisar el fortalecimiento del Sistema de Control Interno de la Secretaría, en términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XXXIII. Coordinar con las dependencias de la Administración Pública Federal las cuotas a ser aplicadas para la prestación de los servicios de seguridad, patrullaje, escolta, adiestramiento y pensión que la Secretaría proporciona a diversas entidades paraestatales de la Administración Pública Federal, así como el seguimiento de los adeudos por la prestación de dichos servicios, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XXXIV. Las demás que le confieran otras disposiciones jurídicas aplicables, así como aquellas funciones que le asigne el General Secretario.
 
 ### CAPÍTULO IV. De la Inspección y Contraloría General
 
@@ -453,17 +567,23 @@ XVIII. Expedir certificaciones sobre los asuntos de su competencia;
 
 XIX. Las demás que le confieran las disposiciones legales y reglamentarias, así como aquéllas que le asigne el General Secretario.
 
-### CAPÍTULO V. Del Estado Mayor
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+### CAPÍTULO V. Del Estado Mayor Conjunto
+
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 17.
 
-En términos del artículo 2, fracción V de este Reglamento, el Estado Mayor es el órgano técnico operativo, colaborador inmediato del General Secretario, a quien auxilia en la planeación, desarrollo, seguimiento y desahogo de los asuntos de la competencia de la Secretaría, coordinando las actividades de los diversos órganos administrativos.
+El Estado Mayor Conjunto es el órgano técnico operativo, colaborador inmediato del General Secretario, a quien auxilia en la planeación, desarrollo, seguimiento y desahogo de los asuntos de la competencia de la Secretaría, para lo cual coordinará las actividades de los diversos órganos administrativos de la Secretaría.
 
-El Jefe del Estado Mayor será un General de División del Ejército, procedente de Arma, con Maestría en Administración Militar para la Seguridad y Defensa Nacionales o su equivalente que se imparte en la Secretaría de Marina, y le corresponderá coordinar, dirigir y supervisar los trabajos del órgano técnico y aquéllos que le asigne el General Secretario.
+La persona titular de la Jefatura del Estado Mayor Conjunto debe tener el grado de General de División del Ejército procedente de Arma, con maestría en Administración Militar para la Seguridad y Defensa Nacionales o su equivalente que se imparte en la Secretaría de Marina, y le corresponderá coordinar, dirigir y supervisar los trabajos del Estado Mayor Conjunto y aquellos asuntos que le asigne el General Secretario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 18.
 
-Corresponden al Estado Mayor las atribuciones siguientes:
+Corresponde al Estado Mayor Conjunto las atribuciones siguientes:
 
 I. Transformar las decisiones del General Secretario, relativas al Ejército y Fuerza Aérea, en directivas, instrucciones y órdenes, y verificar su cumplimiento;
 
@@ -489,11 +609,15 @@ IX. Proporcionar elementos de juicio que faciliten la toma de decisiones al Gene
 
 X. Proponer medidas orientadas a la mejor organización, adiestramiento y operación de las Fuerzas Armadas de tierra y aire;
 
-XI. Proponer soluciones para satisfacer las necesidades logísticas del Ejército y Fuerza Aérea;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XI. Proponer soluciones para satisfacer las necesidades presupuestales y logísticas del Ejército y Fuerza Aérea;
 
 XII. Elaborar y mantener actualizados los planes orientados a garantizar la defensa exterior y seguridad interior del país, dentro del marco de la Defensa Nacional;
 
-XIII. Coordinar y participar en la formulación del anteproyecto del presupuesto de egresos así como de programas diversos para el desarrollo y logro de los objetivos de la Secretaría;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XIII. Participar con la Oficialía Mayor en la coordinación y supervisión de la elaboración del anteproyecto de presupuesto de egresos de la Secretaría, así como coordinar y supervisar la elaboración de programas diversos para el desarrollo y logro de los objetivos de la Secretaría;
 
 XIV. Coordinar, supervisar y evaluar la aplicación del presupuesto de egresos aprobado, y elaborar e instrumentar programas que contribuyan a su adecuado ejercicio;
 
@@ -505,9 +629,9 @@ XVII. Proponer y coordinar medidas orientadas al desarrollo cualitativo de la Se
 
 XVIII. Brindar propuestas sobre la administración de los recursos materiales del Ejército y Fuerza Aérea;
 
-> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
-XVIII Bis. Participar y asesorar en la elaboración de las investigaciones de mercado de bienes, arrendamientos o servicios e insumos de obra pública que sean de carácter estratégico o relevantes para la Secretaría;
+XVIII Bis. Supervisar y dar seguimiento a los procedimientos de contrataciones públicas de la Secretaría que determine el General Secretario, de aquellas adquisiciones, arrendamientos y servicios e insumos de obra pública, y se realicen conforme a las disposiciones jurídicas aplicables, con el fin de obtener en todo momento las mejores condiciones en cuanto a precio, calidad, cantidad, financiamiento y oportunidad para la Secretaría;
 
 > <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2016)</small>
 
@@ -517,13 +641,21 @@ XIX. Revisar la gestión de la informática del Ejército y Fuerza Aérea, de co
 
 XX. Coordinar y participar en la actualización de la doctrina militar;
 
-XXI. Controlar los Servicios Generales de Estado Mayor y de Inteligencia Militar, y
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XXI. Controlar los servicios generales de este órgano y de Inteligencia Militar;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XXI Bis. Someter a la consideración del General Secretario los movimientos del personal de los grados de Tenientes Coroneles a Generales de División; del personal De Estado Mayor; Médicos Cirujanos; Cirujanos Dentistas; Licenciados en Derecho, y del personal de Generales, Jefes y Oficiales que se proponga para prestar sus servicios en el Estado Mayor Conjunto, el Estado Mayor del Ejército, el Estado Mayor de la Fuerza Aérea, las instituciones educativas militares, cuerpos especiales y otros que disponga el General Secretario, y
 
 XXII. Las demás que le confieran las disposiciones legales y reglamentarias, así como aquéllas que le asigne el General Secretario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 19.
 
-El Estado Mayor se integra con los órganos siguientes:
+El Estado Mayor Conjunto se integra con los órganos siguientes:
 
 I. Jefatura;
 
@@ -539,17 +671,121 @@ IV. Subjefatura de Doctrina Militar;
 
 IV Bis. Subjefatura de Inteligencia, y
 
-V. Las Secciones de Estado Mayor y oficinas especializadas que se requieran de acuerdo a las necesidades.
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+V. Las Secciones de Estado Mayor Conjunto y oficinas especializadas que se requieran de acuerdo con las necesidades del servicio.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+### CAPÍTULO V BIS. De la Comandancia del Ejército
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+ARTÍCULO 19 BIS.- La Comandancia del Ejército es responsable de administrar y desarrollar a dicha fuerza armada, para materializar las acciones que le sean encomendadas en el ámbito terrestre y realizar operaciones militares que permitan contribuir al cumplimiento de las misiones generales del Ejército y Fuerza Aérea.
+
+La persona titular de la Comandancia del Ejército debe tener el grado de General de División del Ejército en el activo, con maestría en Administración Militar para la Seguridad y Defensa Nacionales o su equivalente que se imparte en la Secretaría o la Secretaría de Marina, y es responsable de organizar, adiestrar y administrar al Ejército, de conformidad con las directivas de la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+ARTÍCULO 19 TER.- Corresponde a la Comandancia del Ejército las atribuciones siguientes:
+
+I. Planear, controlar, coordinar, ejercer el mando y evaluar las actividades de las unidades, dependencias e instalaciones del Ejército, conforme a las directivas, instrucciones y órdenes que emita el General Secretario y demás disposiciones jurídicas aplicables;
+
+II. Participar en la planeación, ejecución, administración y supervisión del sistema de adiestramiento militar del Ejército, así como en la actualización y generación de la doctrina militar del Ejército;
+
+III. Acordar con el General Secretario el despacho de los asuntos de su competencia;
+
+IV. Desempeñar las comisiones y funciones especiales que le encomiende el General Secretario, e informarle sobre el desarrollo de las mismas;
+
+V. Recibir en acuerdo ordinario a las personas titulares de los órganos administrativos que tenga adscritos, y en acuerdo extraordinario a otras personas servidoras públicas del Ejército y de la Secretaría;
+
+VI. Proponer al General Secretario adecuaciones a la división militar del territorio nacional y a la distribución de las unidades, dependencias e instalaciones del Ejército;
+
+VII. Asesorar al General Secretario en lo relacionado con la defensa civil y en asuntos de su competencia;
+
+VIII. Proponer al General Secretario medidas orientadas para mejorar la organización y funcionamiento del Ejército, incluso de aspectos administrativos y logísticos;
+
+IX. Asesorar al General Secretario en lo relacionado con el despliegue del Ejército en auxilio a la población civil en caso de necesidades públicas y cuando se vea afectada su seguridad y patrimonio por desastres naturales y antropogénicos;
+
+X. Someter a consideración del General Secretario, por conducto de las áreas competentes, los requerimientos de las unidades, dependencias e instalaciones del Ejército;
+
+XI. Controlar y evaluar el funcionamiento de las direcciones generales que tenga adscritas;
+
+XII. Someter a consideración del General Secretario, por conducto del Estado Mayor Conjunto, los movimientos del personal de Generales que pertenezca al Ejército, así como del personal De Estado Mayor, y del personal de Generales, Jefes y Oficiales para prestar sus servicios en el Estado Mayor Conjunto, el Estado Mayor del Ejército, las instituciones educativas militares y cuerpos especiales;
+
+XIII. Organizar y controlar las reservas del Ejército, en coordinación con la Dirección General competente de la Secretaría;
+
+XIV. Mantener enlace en asuntos de su competencia con entes públicos y privados, de conformidad con las directivas que emita el General Secretario;
+
+XV. Proporcionar información, datos o cooperación técnica en asuntos de su competencia que le sea requerida por entes públicos y privados, de acuerdo con las disposiciones jurídicas aplicables;
+
+XVI. Participar y desarrollar las actividades correspondientes para representar al Ejército en diversos foros bilaterales y multilaterales en las materias de su competencia con países con los que el Estado mexicano tiene relaciones diplomáticas;
+
+XVII. Participar en mecanismos de coordinación y cooperación en temas de interés común para las tres Fuerzas Armadas, que permitan fomentar su interoperabilidad;
+
+XVIII. Elaborar informes que le sean requeridos por las autoridades competentes, de conformidad con las directivas que emita el General Secretario y demás disposiciones jurídicas aplicables;
+
+XIX. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación;
+
+XX. Supervisar que la actuación de los órganos administrativos que tenga adscritos cumplan con las disposiciones jurídicas y evaluar dicha actuación, así como vigilar que elaboren y mantengan permanentemente actualizados sus respectivos manuales de organización y funcionamiento;
+
+XXI. Expedir certificaciones sobre los asuntos de su competencia, y
+
+XXII. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomiende el General Secretario.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+ARTÍCULO 19 QUATER.- El Estado Mayor del Ejército es el órgano técnico operativo, colaborador inmediato de la persona titular de la Comandancia del Ejército, y la auxilia en la planeación y coordinación de los asuntos de su competencia y de las misiones que le sean conferidas a dicha Comandancia.
+
+La persona titular de la Jefatura del Estado Mayor del Ejército debe tener el grado de General de División del Ejército en el activo, con maestría en Administración Militar para la Seguridad y Defensa Nacionales o su equivalente que se imparte en la Secretaría o la Secretaría de Marina, y es responsable de coordinar, dirigir y supervisar los trabajos que desempeñe el Estado Mayor del Ejército y aquellos asuntos que le encomiende la persona titular de la Comandancia del Ejército.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+ARTÍCULO 19 QUINQUIES.- Corresponde al Estado Mayor del Ejército las atribuciones siguientes:
+
+I. Transformar las decisiones de la persona titular de la Comandancia del Ejército en directivas, instrucciones y órdenes, y verificar su cumplimiento;
+
+II. Organizar y coordinar las relaciones públicas del Ejército;
+
+III. Mantener el enlace con los entes públicos y privados en asuntos de su competencia;
+
+IV. Asesorar sobre la ubicación de instalaciones y vías de comunicación, en asuntos de su competencia;
+
+V. Proponer a la persona titular de la Comandancia del Ejército las medidas orientadas para mejorar la organización, adiestramiento, doctrina y operación de las unidades, dependencias e instalaciones del Ejército;
+
+VI. Proponer a la persona titular de la Comandancia del Ejército soluciones para satisfacer las necesidades logísticas del Ejército;
+
+VII. Proporcionar elementos de carácter jurídicos que faciliten la toma de decisiones a la persona titular de la Comandancia del Ejército;
+
+VIII. Participar en la elaboración de los proyectos de iniciativas de leyes o decretos legislativos, reglamentos, decretos, acuerdos y demás instrumentos jurídicos en asuntos de su competencia;
+
+IX. Elaborar y mantener actualizados los planes de su competencia;
+
+X. Preparar los informes periódicos de las actividades del Ejército;
+
+XI. Controlar, asesorar y tramitar lo relacionado con la administración de los recursos humanos y materiales del Ejército;
+
+XII. Coordinar la asistencia del personal del Ejército a cursos en el país o en el extranjero;
+
+XIII. Proponer a la persona titular de la Comandancia del Ejército medidas orientadas al desarrollo cualitativo del Ejército en aspectos educativos, culturales, científicos, tecnológicos y humanísticos;
+
+XIV. Revisar la gestión de los sistemas informáticos del Ejército, de conformidad con las directivas de la persona titular de la Comandancia del Ejército y demás disposiciones jurídicas aplicables, y
+
+XV. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomiende la persona titular de la Comandancia del Ejército.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+ARTÍCULO 19 SEXIES.- Las direcciones generales de Infantería, de Caballería, de Artillería, del Arma Blindada, de Ingenieros, de Policía Militar, y de Defensas Rurales, son órganos administrativos que están adscritas a la Comandancia del Ejército y tienen a su cargo las atribuciones que les señala este Reglamento.
 
 ### CAPÍTULO VI. De la Comandancia de la Fuerza Aérea
 
-### CAPÍTULO I
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 20.
 
-La Comandancia de la Fuerza Aérea es el órgano técnico-operativo responsable de materializar las acciones de seguridad y defensa en el espacio aéreo nacional, para contribuir al cumplimiento de las misiones generales de las Fuerzas Armadas.
+La Comandancia de la Fuerza Aérea es responsable de administrar y desarrollar a dicha fuerza armada, para materializar las acciones que le sean encomendadas en el ámbito de las operaciones aéreas, que permitan contribuir al cumplimiento de las misiones generales del Ejército y Fuerza Aérea.
 
-El Comandante de la Fuerza Aérea será un General de División de la Fuerza Aérea, Piloto Aviador en el activo, con Maestría en Administración Militar para la Seguridad y Defensa Nacionales o su equivalente que se imparte en la Secretaría de Marina, quien será responsable de organizar, adiestrar, operar y administrar la fuerza armada a su mando, de conformidad con las directivas de la Secretaría.
+La persona titular de la Comandancia de la Fuerza Aérea debe tener el grado de General de División de la Fuerza Aérea Piloto Aviador en el activo, con maestría en Administración Militar para la Seguridad y Defensa Nacionales o su equivalente que se imparte en la Secretaría o la Secretaría de Marina, y es responsable de organizar, adiestrar y administrar la fuerza armada a su mando, de conformidad con las directivas de la Secretaría.
 
 ###### ARTÍCULO 21.
 
@@ -557,35 +793,73 @@ Corresponden a la Comandancia de la Fuerza Aérea las atribuciones siguientes:
 
 I. Planear, controlar, coordinar, ejercer el mando y evaluar las actividades de las unidades, dependencias e instalaciones de la Fuerza Aérea, conforme a las disposiciones legales aplicables y las directivas que emita el General Secretario;
 
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+I Bis. Participar en la planeación, ejecución, administración y supervisión del sistema de adiestramiento militar de la Fuerza Aérea, así como en la actualización y generación de la doctrina militar de la Fuerza Aérea;
+
 II. Acordar con el General Secretario el despacho de los asuntos de su competencia;
 
 III. Desempeñar las comisiones y funciones especiales que le confiera el General Secretario, e informarle sobre el desarrollo de las mismas;
 
-IV. Recibir en acuerdo ordinario a los titulares de las unidades, dependencias e instalaciones de la Fuerza Aérea, y en acuerdo extraordinario a otros servidores públicos de la Fuerza Aérea y de la Secretaría;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
-V. Proponer al General Secretario la división militar del espacio aéreo del territorio nacional;
+IV. Recibir en acuerdo ordinario a las personas titulares de los órganos administrativos que tenga adscritos y en acuerdo extraordinario a otras personas servidoras públicas de la Fuerza Aérea y de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+V. Proponer al General Secretario adecuaciones a la división militar del espacio aéreo nacional y a la distribución de las unidades, dependencias e instalaciones de la Fuerza Aérea;
 
 VI. Asesorar al General Secretario en lo relacionado con la defensa civil y en asuntos de su competencia;
 
-VII. Proponer al General Secretario medidas orientadas a la mejor organización y funcionamiento de la Fuerza Aérea;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
-VIII. Controlar y coordinar la intervención de la Fuerza Aérea en auxilio de la población civil en casos de necesidades públicas, conforme a las directivas que emita el General Secretario;
+VII. Proponer al General Secretario medidas para mejorar la organización y funcionamiento de la Fuerza Aérea, incluso de aspectos administrativos y logísticos;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+VIII. Asesorar al General Secretario, en lo relacionado, con el despliegue de la Fuerza Aérea en auxilio de la población civil en caso de necesidades públicas y cuando se vea afectada su seguridad y patrimonio por desastres naturales y antropogénicos;
 
 IX. Someter a consideración del General Secretario, por conducto de las áreas competentes, los anteproyectos de presupuesto y de programas diversos relativos a la Fuerza Aérea;
 
-X. Controlar y evaluar el funcionamiento de las direcciones de los servicios de la Fuerza Aérea;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
-XI. Someter a consideración del General Secretario los movimientos del personal de Generales, dentro del ámbito de su competencia; además del personal Diplomado de Estado Mayor Aéreo y del personal de Generales, Jefes y Oficiales que se proponga para prestar sus servicios en el Estado Mayor de la Defensa Nacional, Estado Mayor Presidencial, Cuerpo de Guardias Presidenciales, Instituciones Educativas Militares y Cuerpos Especiales;
+X. Controlar y evaluar el funcionamiento de las direcciones que tenga adscritas;
 
-XII. Autorizar los movimientos del personal de Jefes, Oficiales y Tropa de su competencia; con excepción del personal Diplomado de Estado Mayor Aéreo y del personal de Generales, Jefes y Oficiales que se proponga para prestar sus servicios en el Estado Mayor de la Defensa Nacional, Estado Mayor de la Fuerza Aérea, Estado Mayor Presidencial, Cuerpo de Guardias Presidenciales, Instituciones Educativas Militares y Cuerpos Especiales;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
-XIII. Organizar y controlar las reservas de la Fuerza Aérea, en coordinación con la unidad administrativa correspondiente de la Secretaría;
+XI. Someter a consideración del General Secretario, por conducto del Estado Mayor Conjunto, los movimientos del personal de la categoría de Generales que pertenezca a la Fuerza Aérea; del personal De Estado Mayor, y del personal de la categoría de Generales, Jefes y Oficiales que se proponga para prestar sus servicios en el Estado Mayor Conjunto, el Estado Mayor de la Fuerza Aérea, las instituciones educativas militares y cuerpos especiales;
 
-XIV. Mantener enlace en asuntos de su competencia con organismos gubernamentales y privados, de conformidad con las directivas que emita el General Secretario;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
-XV. Proporcionar información, datos o cooperación técnica en asuntos de su competencia que le sea requerida por organismos gubernamentales y privados, de acuerdo con las políticas establecidas a este respecto;
+XII. Autorizar los movimientos del personal de la categoría de Jefes, Oficiales y Tropa que pertenezca a la Fuerza Aérea, con excepción del personal a que se refieren los artículos 18, fracción XXI Bis, y 28, fracción XVI, de este Reglamento;
 
-XVI. Formular dictámenes e informes que le sean requeridos por autoridades competentes, de conformidad con las directivas que emita el General Secretario;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XIII. Organizar y controlar las reservas de la Fuerza Aérea, en coordinación con la Dirección General competente de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XIV. Mantener enlace en asuntos de su competencia con entes públicos y privados, de conformidad con las directivas que emita el General Secretario;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XV. Proporcionar información, datos o cooperación técnica en asuntos de su competencia que le sea requerida por entes públicos y privados, de acuerdo con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XV Bis. Participar y desarrollar las actividades correspondientes para representar a la Fuerza Aérea en diversos foros bilaterales y multilaterales en las materias de su competencia con países con los que el Estado mexicano tiene relaciones diplomáticas;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XV Ter. Participar en mecanismos de coordinación y cooperación en temas de interés común para las Fuerzas Armadas para fomentar su interoperabilidad;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XV Quater. Supervisar que la actuación de los órganos administrativos que tenga adscritos cumplan con las disposiciones jurídicas y evaluar dicha actuación, así como vigilar que elaboren y mantengan permanentemente actualizados sus respectivos manuales de organización y funcionamiento;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XVI. Elaborar informes que le sean requeridos por las autoridades competentes, de conformidad con las directivas que emita el General Secretario y demás disposiciones jurídicas aplicables;
 
 XVII. Suscribir los documentos relativos al ejercicio de sus facultades y aquéllos que le sean señalados por delegación;
 
@@ -597,7 +871,9 @@ XIX. Las demás que le confieran las disposiciones legales y reglamentarias, as�
 
 El Estado Mayor de la Fuerza Aérea es el órgano técnico auxiliar inmediato del Comandante de la misma.
 
-El Jefe del Estado Mayor de la Fuerza Aérea será un General de División de la Fuerza Aérea, Piloto Aviador en el activo, con Maestría en Administración Militar para la Seguridad y Defensa Nacionales o su equivalente que se imparte en la Secretaría de Marina, quien será responsable de coordinar, dirigir y supervisar los trabajos que desempeñe este órgano y aquéllos que le asigne el Comandante de la Fuerza Aérea.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+La persona titular de la Jefatura del Estado Mayor de la Fuerza Aérea debe tener el grado de General de División de la Fuerza Aérea, Piloto Aviador en activo, con maestría en Administración Militar para la Seguridad y Defensa Nacionales o su equivalente que se imparte en la Secretaría o de la Secretaría de Marina, y es responsable de coordinar, dirigir y supervisar los trabajos que desempeñe el Estado Mayor de la Fuerza Aérea y aquellos asuntos que le encomiende la persona titular de la Comandancia de la Fuerza Aérea.
 
 ###### ARTÍCULO 23.
 
@@ -611,7 +887,9 @@ III. Mantener el enlace con organismos gubernamentales y privados en asuntos de 
 
 IV. Asesorar sobre el establecimiento de aerovías e instalaciones aeroportuarias de aeronavegación, en asuntos de su competencia;
 
-V. Proponer medidas orientadas a la mejor organización, adiestramiento y operación de las unidades, dependencias e instalaciones de la Fuerza Aérea;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+V. Proponer a la persona titular de la Comandancia de la Fuerza Aérea las medidas para mejorar la organización, adiestramiento, doctrina y operación de las unidades, dependencias e instalaciones de la Fuerza Aérea;
 
 VI. Proponer soluciones para satisfacer las necesidades logísticas de la Fuerza Aérea;
 
@@ -619,13 +897,21 @@ VII. Proporcionar elementos de juicio de carácter jurídico que faciliten la to
 
 VIII. Participar en la elaboración de los proyectos de iniciativas de ley o decreto legislativo, reglamentos, decretos, acuerdos y demás instrumentos jurídicos en asuntos de su competencia;
 
-IX. Elaborar y mantener actualizados los planes de su competencia orientados a garantizar la defensa exterior y seguridad interior del país, dentro del marco de la Defensa Nacional;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+IX. Elaborar y mantener actualizados los planes de su competencia;
 
 X. Participar en la formulación de los anteproyectos de presupuesto y de programas diversos para el logro de los objetivos de la Fuerza Aérea;
 
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+X Bis. Elaborar el desglosado de plazas presupuestales global del personal perteneciente a la Fuerza Aérea, para cubrir las necesidades en sus unidades, dependencias e instalaciones, así como mantenerlo actualizado;
+
 XI. Preparar los informes periódicos de las actividades de la Fuerza Aérea;
 
-XII. Controlar, asesorar y tramitar lo relacionado con la administración de los recursos humanos y materiales de la Fuerza Aérea, así como aquéllos pertenecientes al Ejército que se le asignen;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XII. Controlar, asesorar y tramitar lo relacionado con la administración de los recursos humanos y materiales de la Fuerza Aérea;
 
 XIII. Coordinar la asistencia de personal de la Fuerza Aérea a cursos en el país o en el extranjero;
 
@@ -635,21 +921,33 @@ XV. Revisar la gestión de la informática de la Fuerza Aérea, de conformidad c
 
 XVI. Las demás que le confieran las disposiciones legales y reglamentarias, así como el Comandante de la Fuerza Aérea.
 
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 24.
 
-Las Direcciones de los Servicios de la Fuerza Aérea son órganos administrativos que dependen de la Comandancia de la misma y tienen a su cargo la dirección, manejo y verificación de los asuntos militares y técnicos de la Fuerza Aérea.
+Las direcciones adscritas a la Fuerza Aérea son órganos administrativos que dependen de la Comandancia de la Fuerza Aérea y tienen a su cargo la dirección, manejo y verificación de los asuntos militares y técnicos de dicha Fuerza.
 
-Los Directores serán Generales o Coroneles en el activo, Diplomados de Estado Mayor Aéreo o con estudios a nivel de licenciatura, procedentes del Servicio correspondiente para cada una de las especialidades de la Fuerza Aérea.
+Las personas titulares de las direcciones adscritas a la Fuerza Aérea deben tener el grado de Generales en activo, De Estado Mayor o con estudios a nivel de licenciatura, procedentes del Arma o Servicio correspondiente para cada una de las especialidades de la Fuerza Aérea.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 25.
 
-Corresponden a las Direcciones de los Servicios de la Fuerza Aérea las atribuciones genéricas siguientes:
+Corresponden a las direcciones adscritas a la Fuerza Aérea las atribuciones genéricas siguientes:
 
-I. Satisfacer las necesidades de vida y operación de las unidades, dependencias e instalaciones de la Fuerza Aérea, por medio del apoyo técnico, administrativo y logístico;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+I. Satisfacer las necesidades materiales y de operación de las unidades, dependencias e instalaciones de la Fuerza Aérea, por medio del apoyo técnico, administrativo y logístico;
 
 II. Controlar técnica y administrativamente a las unidades, dependencias e instalaciones de la Fuerza Aérea;
 
-III. Planear, programar, coordinar, supervisar y evaluar el desempeño de los servicios a su cargo;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+III. Planear, programar, coordinar, supervisar y evaluar el desempeño del Arma o Servicio a su cargo;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+III Bis. Elaborar el desglosado de plazas presupuestales global del personal perteneciente a la Fuerza Aérea, para cubrir las necesidades en sus unidades, dependencias e instalaciones, así como mantenerlo actualizado;
 
 IV. Asesorar técnica y administrativamente en asuntos de su competencia al Comandante de la Fuerza Aérea y a otros servidores públicos de la Secretaría;
 
@@ -675,15 +973,39 @@ XIV. Proponer, coordinar y supervisar programas y actividades de adiestramiento 
 
 XV. Las demás que le confieran las disposiciones jurídicas aplicables y el Comandante de la Fuerza Aérea.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 26.
 
-Corresponden a las Direcciones de los Servicios de la Fuerza Aérea, las atribuciones específicas siguientes:
+Corresponden a las Direcciones adscritas a la Fuerza Aérea las atribuciones específicas siguientes:
 
-I. Dirección del Servicio Meteorológico:
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+I. Dirección de Pilotos Aviadores:
+
+A. Mantener permanentemente actualizados sus procedimientos de funcionamiento;
+
+B. Establecer una base de datos sistematizada del personal a su cargo para agilizar la toma de decisiones;
+
+C. Llevar el control y proponer a la Comandancia de la Fuerza Aérea modificaciones al sistema de adiestramiento del personal de pilotos aviadores;
+
+D. Elaborar el profesiograma del personal de pilotos aviadores, con los cursos dentro y fuera del Sistema Educativo Militar;
+
+E. Proponer el reencuadramiento del personal de pilotos aviadores, de conformidad con las disposiciones jurídicas aplicables, y
+
+F. Difundir conocimientos especializados sobre el Arma de Piloto Aviador, a través de los medios que se estimen pertinentes;
+
+> <small>(ADICIONADO [N. DE E. REUBICADO ESTE PÁRRAFO], D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+I Bis. Dirección del Servicio Meteorológico:
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
 A. Proporcionar y difundir información meteorológica, y
 
-B. Establecer coordinación en asuntos de su competencia, con organismos gubernamentales y civiles.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+B. Establecer coordinación en asuntos de su competencia, con entes públicos y privados para mantener informado al personal del Ejército y Fuerza Aérea, sobre las condiciones meteorológicas y climatológicas;
 
 II. Dirección de Control Militar de Vuelo:
 
@@ -713,13 +1035,11 @@ A. Controlar el mantenimiento y la evacuación del material electrónico de la F
 
 B. Proponer las bases técnicas para la adquisición de material aéreo electrónico.
 
-### CAPÍTULO II. De los Órganos del Fuero de Guerra y Servicios Periciales
-
-> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2016)</small>
+### CAPÍTULO I
 
 ## TÍTULO CUARTO. De las Direcciones Generales de la Secretaría
 
-### CAPÍTULO III. De la Unidad de Asuntos Jurídicos
+### CAPÍTULO II. De los Órganos del Fuero de Guerra y Servicios Periciales
 
 > <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2016)</small>
 
@@ -767,13 +1087,19 @@ XIV. Controlar técnica y administrativamente sus recursos humanos, animales y m
 
 XV. Intervenir en la selección para el ingreso, bajas y retiros, así como en los movimientos, licencias, promociones, reclasificaciones, recompensas, condecoraciones, veteranizaciones, y en la formulación y actualización del escalafón y ruta profesional del personal a su cargo;
 
-XVI. Autorizar los movimientos del personal de Mayores, Oficiales y Tropa de su respectiva arma o servicio; con excepción del personal Diplomado de Estado Mayor, Diplomado de Estado Mayor Aéreo, Médicos Cirujanos, Cirujanos Dentistas, Licenciados en Derecho y del personal de Generales, Jefes y Oficiales que se proponga para prestar sus servicios en el Estado Mayor de la Defensa Nacional, Estado Mayor Presidencial, Cuerpo de Guardias Presidenciales, Instituciones Educativas Militares, Cuerpos Especiales y los titulares de los servicios de alimentación;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XVI. Autorizar los movimientos del personal de la categoría de Mayores, Oficiales y Tropa que pertenezca a su respectiva arma o servicio, previo acuerdo del General Secretario, por conducto del Estado Mayor Conjunto, con excepción del personal a que se refieren los artículos 18, fracción XXI Bis, y 21, fracción XII, de este Reglamento y de las personas titulares de los servicios de alimentación;
 
 XVII. Prever que el personal de Oficiales y Jefes no permanezca más de tres años en una sola adscripción;
 
 XVIII. Llevar un registro organizado del personal auxiliar por grado, antigüedad y especialidad;
 
 XIX. Elaborar los perfiles del personal a su cargo;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XIX Bis. Elaborar el desglosado de plazas presupuestales global del personal que controla administrativamente, para cubrir las necesidades en sus unidades, dependencias e instalaciones así como mantenerlo actualizado;
 
 XX. Autorizar la asistencia a diversos eventos por parte del personal a su cargo;
 
@@ -935,7 +1261,9 @@ III. Proponer la creación de nuevos pelotones de defensas rurales y la reubicac
 
 IV. Elaborar y proponer programas de instrucción cívica para incrementar la moral y los conocimientos del personal de los Cuerpos de Defensas Rurales;
 
-V. Remitir anualmente al Estado Mayor, para su aprobación, el programa de adiestramiento al que se sujetarán los Cuerpos de Defensas Rurales;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+V. Remitir anualmente al Estado Mayor Conjunto, para su aprobación, el programa de adiestramiento al que se sujetarán los Cuerpos de Defensas Rurales;
 
 VI. Autorizar las altas, bajas, reclasificaciones, cambios de encuadramiento y reingresos del personal rural, de conformidad con las directivas que se expidan;
 
@@ -1129,7 +1457,9 @@ El Director General de Sanidad será un General Médico Cirujano en el activo.
 
 Corresponden a la Dirección General de Sanidad las atribuciones siguientes:
 
-I. Proponer programas encaminados a conservar y recuperar la salud del personal de la Secretaría, mediante acciones de atención médico-quirúrgica integral, así como los relacionados con la medicina veterinaria;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+I. Proponer programas encaminados a conservar y recuperar la salud del personal de la Secretaría, mediante acciones de atención médico-quirúrgica integral;
 
 II. Planear, coordinar y evaluar en los términos de la legislación aplicable, la administración y operación del servicio, de conformidad con las políticas, objetivos y prioridades que establezca la Secretaría;
 
@@ -1153,13 +1483,45 @@ XI. Proponer acciones de asistencia social en asuntos de su competencia;
 
 XII. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2014)
 
-XIII. Intervenir y dictaminar técnicamente en la cría, remonta, adquisición y desecho de ganado caballar, mular y de otras especies, formulando las estadísticas médico-zootécnicas, así como las cartas epizoóticas y bromatológicas;
+XIII. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2023)
 
-XIV. Llevar a cabo la inspección sanitaria de los alimentos de origen animal y otros, estableciendo la composición y gramaje de las raciones;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+XIV. Llevar a cabo la inspección sanitaria de los alimentos que se proporcionan al personal militar, así como establecer la composición y gramaje de dichos alimentos, en coordinación con el personal que controla administrativamente las direcciones generales de Veterinaria y Remonta y de Intendencia;
 
 XV. Proporcionar, previa autorización del General Secretario, la información y cooperación técnica del servicio que sea requerida por otras Secretarías de Estado, y
 
 XVI. Coordinar y supervisar las actividades para la certificación de los escalones del servicio, por el Consejo de Salubridad General, conforme a las normas oficiales mexicanas.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+ARTÍCULO 48 BIS.- La Dirección General de Veterinaria y Remonta es el órgano administrativo encargado de organizar, coordinar y dirigir al personal militar en activo del Servicio de Veterinaria y Remonta, así como supervisar el estado de salud y situación del ganado y de otros animales a cargo de la Secretaría.
+
+La persona titular de la Dirección General de Veterinaria y Remonta debe ser militar de arma o servicio en el activo con la jerarquía señalada en la ley.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+ARTÍCULO 48 TER.- Corresponde a la Dirección General de Veterinaria y Remonta las atribuciones siguientes:
+
+I. Proponer programas encaminados a conservar y recuperar la salud del ganado y otros animales de la Secretaría, mediante acciones preventivas y curativas;
+
+II. Administrar la operación del Servicio de Veterinaria y Remonta, de conformidad con las políticas, objetivos y prioridades que establezca la Secretaría;
+
+III. Verificar que el personal del Servicio de Veterinaria y Remonta proporcione atención médica oportuna y adecuada al ganado y a otros animales de la Secretaría;
+
+IV. Dictaminar sobre la compra, alta, baja y desecho del ganado y demás animales de la Secretaría, en coordinación con la Dirección General de Administración;
+
+V. Promover actividades de educación para la salud animal, en particular las enfermedades transmisibles de los animales a los humanos;
+
+VI. Promover la celebración de convenios con instituciones educativas civiles y asociaciones médico veterinarias, para la capacitación y actualización del personal del Servicio de Veterinaria y Remonta;
+
+VII. Adquirir, almacenar, controlar, abastecer mantener y evacuar el equipo, medicamentos y material de tipo veterinario;
+
+VIII. Intervenir y dictaminar técnicamente en la cría, remonta, adquisición y desecho de ganado caballar, mular y de otras especies de la Secretaría;
+
+IX. Llevar a cabo la inspección sanitaria de los alimentos de origen animal, en coordinación con el personal que controla administrativamente las direcciones generales de Sanidad y de Intendencia, y
+
+X. Proporcionar, previa autorización del General Secretario, la información requerida por otras dependencias y entidades de la Administración Pública Federal, respecto al ganado de la Secretaría.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE AGOSTO DE 2014)</small>
 
@@ -1391,7 +1753,9 @@ XVI. Proponer la integración de comités para la elaboración y adecuación de 
 
 La Dirección General de Informática es el órgano técnico administrativo que tiene a su cargo proporcionar información sistematizada en forma rápida, oportuna y confiable, para apoyar la toma de decisiones de la Secretaría; y de las actividades relacionadas con el abastecimiento, mantenimiento y evacuación de los materiales informáticos.
 
-El Director General de Informática será un General Ingeniero en Comunicaciones y Electrónica en el activo.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+La persona titular de la Dirección General de Informática debe tener el grado de General Ingeniero en Computación e Informática en activo.
 
 ###### ARTÍCULO 58.
 
@@ -1789,39 +2153,7 @@ El Director General de Adiestramiento será un General procedente de Arma en el 
 
 ###### ARTÍCULO 76.
 
-Corresponden a la Dirección General de Adiestramiento las atribuciones siguientes:
-
-I. Desarrollar el proceso de planeación, ejecución, administración, evaluación y supervisión del sistema de adiestramiento militar, bajo un enfoque operativo;
-
-II. Materializar la Directiva General de Adiestramiento del Ejército y Fuerza Aérea;
-
-III. Administrar el Centro Nacional de Adiestramiento, y dirigir las actividades de adiestramiento a través de los jefes de los centros de adiestramiento del Ejército y Fuerza Aérea, en todos los niveles de la organización;
-
-IV. Coordinar con los Comandantes de la Fuerza Aérea y de Región Militar, Cuerpos Especiales y otros organismos, la creación y adecuación de los centros de adiestramiento;
-
-V. Elaborar la estimación de adiestramiento del Ejército y Fuerza Aérea, en coordinación con el Estado Mayor;
-
-VI. Elaborar, adecuar y actualizar los esquemas de instrucción y evaluación correspondientes a las tareas y misiones de adiestramiento, en cada nivel orgánico, en coordinación con la Comandancia de la Fuerza Aérea, las Direcciones Generales de las Armas y Servicios, las Comandancias de los Cuerpos Especiales y otros organismos;
-
-VII. Certificar por conducto del Centro Nacional de Adiestramiento la cuarta y quinta fases del adiestramiento de los Mandos, Estados Mayores y organismos participantes;
-
-VIII. Consolidar los informes de adiestramiento para el Alto Mando, en coordinación con el Estado Mayor;
-
-IX. Verificar el establecimiento y conservación de las pistas de reacción de tiro, en coordinación con los comandantes, directores y jefes de los centros de adiestramiento del Ejército y Fuerza Aérea;
-
-X. Proponer e implementar las acciones para fortalecer la organización e infraestructura del adiestramiento de las Fuerzas Armadas de tierra y aire;
-
-XI. Proporcionar el apoyo psicopedagógico y otros que se requieran para reforzar el adiestramiento;
-
-XII. Coordinar con la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, la capacitación docente de instructores;
-
-XIII. Vincular el adiestramiento y la educación militar en coordinación con la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea;
-
-XIV. Proponer los cursos para efectuar estudios a nivel nacional y en el extranjero, relacionados con el adiestramiento;
-
-XV. Recomendar la aplicación de adelantos científicos y tecnológicos para optimizar el adiestramiento, y
-
-XVI. Realizar actividades de investigación y desarrollo del adiestramiento militar.
+(DEROGADO, D.O.F. 6 DE OCTUBRE DE 2023)
 
 ###### ARTÍCULO 77.
 
@@ -1855,15 +2187,19 @@ X. Promover e instrumentar la formación integral de los miembros del Ejército 
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE JUNIO DE 2016)</small>
 
-### CAPÍTULO ÚNICO. De las Suplencias de los Servidores Públicos de la Secretaría
+### CAPÍTULO III. De la Unidad de Asuntos Jurídicos
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 79.
 
 La organización y funcionamiento de los Órganos del Fuero de Guerra y Servicios Periciales se establecen en el Código de Justicia Militar y Código Militar de Procedimientos Penales, además de los reglamentos y manuales respectivos.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2016)</small>
+
+### CAPÍTULO ÚNICO. De las Suplencias de los Servidores Públicos de la Secretaría
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 80.
 
@@ -1915,17 +2251,21 @@ XVII. Coordinar la publicación en el Diario Oficial de la Federación de los ac
 
 El General Secretario será suplido en sus ausencias por el Subsecretario y, a falta de éste, por el Oficial Mayor.
 
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 82.
 
-El Subsecretario de la Defensa Nacional será suplido en sus ausencias temporales por el Oficial Mayor, y a falta de éste, por el servidor público que designe el General Secretario.
+Las personas titulares de la Subsecretaría de la Defensa Nacional y de la Oficialía Mayor serán suplidas en sus ausencias temporales por las personas titulares de sus respectivas coordinaciones generales.
 
 ###### ARTÍCULO 83.
 
 El Inspector y Contralor General será suplido en sus ausencias temporales por el Subinspector.
 
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 84.
 
-El Jefe del Estado Mayor será suplido en sus ausencias temporales por el Subjefe del organismo de mayor grado y, en igualdad de jerarquía, el de más antigüedad.
+La persona titular de la Jefatura del Estado Mayor Conjunto será suplido en sus ausencias temporales por la persona titular de la Subjefatura del Estado Mayor Conjunto de mayor grado y, en igualdad de jerarquía, el de más antigüedad.
 
 ###### ARTÍCULO 85.
 
@@ -2004,3 +2344,17 @@ PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicac
 SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
 
 TERCERO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
+
+D.O.F. 6 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA DEFENSA NACIONAL”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+Tercero. Se derogan todas las disposiciones administrativas que se opongan al presente decreto.
+
+Cuarto. Las referencias que se realicen en otros reglamentos, decretos, acuerdos, manuales y demás disposiciones administrativas respecto del Estado Mayor de la Defensa Nacional, se entenderán realizadas al Estado Mayor Conjunto de la Defensa Nacional.
+
+Quinto. Los asuntos que se encuentren pendientes de resolución a la entrada en vigor de este decreto, que conforme al mismo deban pasar de un órgano administrativo a otro u otros, continuarán su trámite y serán resueltos por aquel o aquellos a las que este ordenamiento les atribuya la competencia respectiva.
