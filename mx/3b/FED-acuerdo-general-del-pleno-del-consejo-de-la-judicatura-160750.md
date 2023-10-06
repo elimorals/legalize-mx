@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-160750"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2022-10-27"
-last_updated: "2023-09-07"
+last_updated: "2023-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160750&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2022-10-17"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL PARA PREVENIR LA VIOLENCIA LABORAL Y MEJORAR EL AMBIENTE DE TRABAJO EN EL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2023.
 
 Acuerdo publicado en el Número 24 del Diario Oficial de la Federación, el jueves 27 de octubre de 2022.
 
@@ -421,11 +421,17 @@ La jornada de trabajo para las personas servidoras públicas del Consejo se regi
 
 Las personas servidoras públicas deberán atender asuntos fuera de dicho horario en casos extraordinarios, dentro de los que destacan aquéllos en que el órgano de su adscripción deba cubrir el esquema de guardia para la atención de asuntos urgentes o deba dar seguimiento a asuntos urgentes dentro del esquema conocido como “guardia baja”.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISTINTAS DISPOSICIONES DEL DIVERSO PARA PREVENIR LA VIOLENCIA LABORAL Y MEJORAR EL AMBIENTE DE TRABAJO EN EL PROPIO CONSEJO, EN RELACIÓN CON EL TELETRABAJO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 22.
 
-Modalidades de trabajo. Cuando así lo permita la naturaleza de las funciones inherentes al cargo que cada persona servidora pública desempeña, el trabajo podrá desarrollarse mediante un esquema híbrido que combine las labores presenciales con el teletrabajo, respetando en todo momento lo previsto en el artículo que antecede. En estos casos, la proporción del teletrabajo no deberá superar el cuarenta por ciento de sus labores quincenales.
+Modalidades de trabajo. Cuando así lo permita la naturaleza de las funciones inherentes al cargo que cada persona servidora pública desempeña, con excepción de las personas titulares de los órganos jurisdiccionales y de las áreas administrativas, el trabajo podrá desarrollarse mediante un esquema híbrido que combine las labores presenciales con el teletrabajo, respetando en todo momento lo previsto en el artículo que antecede. En estos casos, la proporción del teletrabajo no deberá superar el cuarenta por ciento de sus labores quincenales.
 
 El porcentaje señalado podrá modificarse por la instancia competente, cuando se presente una emergencia de contingencia sanitaria o algún evento de fuerza mayor o caso fortuito.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISTINTAS DISPOSICIONES DEL DIVERSO PARA PREVENIR LA VIOLENCIA LABORAL Y MEJORAR EL AMBIENTE DE TRABAJO EN EL PROPIO CONSEJO, EN RELACIÓN CON EL TELETRABAJO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+Dicho porcentaje también podrá modificarse, en casos particulares, de conformidad con el procedimiento previsto en el artículo 25 Ter de este Acuerdo.
 
 No será considerado teletrabajo aquel que se realice de forma ocasional o esporádica.
 
@@ -452,6 +458,36 @@ III. Por caso fortuito o fuerza mayor; y
 IV. En caso de contingencia sanitaria.
 
 En cualquier momento, la persona servidora pública podrá regresar al esquema totalmente presencial. Lo anterior podrá resultar de una solicitud de la propia persona interesada, por la falta de acreditación de la capacitación para el teletrabajo o por instrucciones justificadas de la persona titular, ante un desempeño inadecuado en la modalidad de teletrabajo, en función de las evaluaciones que se diseñen para tal efecto o de la falta de satisfacción de las metas y objetivos trazados, mismos que deberán alinearse al Manual de Puestos y considerar las funciones inherentes a cada cargo.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISTINTAS DISPOSICIONES DEL DIVERSO PARA PREVENIR LA VIOLENCIA LABORAL Y MEJORAR EL AMBIENTE DE TRABAJO EN EL PROPIO CONSEJO, EN RELACIÓN CON EL TELETRABAJO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 25 Bis.
+
+Supuestos de teletrabajo para las personas titulares de los órganos jurisdiccionales y de las áreas administrativas. Las personas titulares de los órganos jurisdiccionales y de las áreas administrativas desempeñarán, en su totalidad, sus funciones presencialmente en su lugar de trabajo, con excepción de aquellos casos plenamente justificados que se autoricen por el Pleno.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISTINTAS DISPOSICIONES DEL DIVERSO PARA PREVENIR LA VIOLENCIA LABORAL Y MEJORAR EL AMBIENTE DE TRABAJO EN EL PROPIO CONSEJO, EN RELACIÓN CON EL TELETRABAJO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 25 Ter.
+
+Procedimiento para la procedencia del teletrabajo para personas titulares o ampliación del porcentaje de labores en esta modalidad. La solicitud deberá presentarse a la DGDHIGAI, quien evaluará, dentro de los diez días hábiles siguientes, la procedencia de un esquema de teletrabajo para personas titulares de órganos jurisdiccionales y áreas administrativas, o la ampliación del porcentaje previsto en el artículo 22, primer párrafo, para las personas servidoras públicas diversas a éstas, de acuerdo con las circunstancias de cada caso.
+
+Cumplido el plazo anterior, las evaluaciones se presentarán, previo visto bueno de su superior jerárquico, al Pleno tratándose de las solicitudes de teletrabajo de las personas titulares, y a la Comisión de Administración respecto de las solicitudes de ampliación del porcentaje referido en el párrafo precedente, lo anterior para su respectiva aprobación caso por caso.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISTINTAS DISPOSICIONES DEL DIVERSO PARA PREVENIR LA VIOLENCIA LABORAL Y MEJORAR EL AMBIENTE DE TRABAJO EN EL PROPIO CONSEJO, EN RELACIÓN CON EL TELETRABAJO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 25 Quater.
+
+Atribuciones de la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, en materia de teletrabajo. La DGDHIGAI será la encargada, en materia de teletrabajo, de lo siguiente:
+
+I. Someter a consideración del Pleno los lineamientos en materia de teletrabajo;
+
+II. Emitir recomendaciones a fin de dar cumplimiento a las medidas relacionadas con el teletrabajo;
+
+III. Resolver, previo visto bueno de la Secretaría General de la Presidencia, las incidencias presentadas entre las y los titulares de los órganos jurisdiccionales y áreas administrativas y el personal, relacionadas con el teletrabajo;
+
+IV. Informar semestralmente al Pleno, previo visto bueno de su superior jerárquico, las incidencias atendidas en materia de teletrabajo, a fin de aportar elementos para la adopción, en su caso, de las acciones que correspondan; y
+
+V. Presentar, previo acuerdo con la Secretaría General de la Presidencia, las propuestas a las instancias competentes para la mejora en el desarrollo de las actividades en materia de teletrabajo.
 
 ###### Artículo 26.
 
@@ -495,9 +531,11 @@ I. Permitir conciliar la vida personal, familiar y laboral; y
 
 II. Priorizar en este esquema a personas lactantes, cuando en el órgano o área no existan zonas de lactancia, así como a quienes desempeñen roles de cuidados o crianza en sus hogares, debidamente documentados.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISTINTAS DISPOSICIONES DEL DIVERSO PARA PREVENIR LA VIOLENCIA LABORAL Y MEJORAR EL AMBIENTE DE TRABAJO EN EL PROPIO CONSEJO, EN RELACIÓN CON EL TELETRABAJO, D.O.F. 6 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 30.
 
-Teletrabajo por situaciones especiales. Se podrá privilegiar el esquema de teletrabajo cuando se trate de personas servidoras públicas que presenten dificultades en su movilidad por su condición de salud.
+Teletrabajo por situaciones especiales. Se podrá privilegiar el esquema de teletrabajo cuando se trate de personas servidoras públicas que presenten dificultades en su movilidad por su condición de salud. Las personas titulares de los órganos jurisdiccionales y de las áreas administrativas deberán hacer del conocimiento esta circunstancia en el escrito de solicitud de teletrabajo correspondiente, conforme a lo dispuesto en el artículo 25 Ter de este Acuerdo General.
 
 ###### Artículo 31.
 
@@ -843,7 +881,7 @@ NOVENO. Se instruye a las direcciones generales de Tecnologías de la Informaci�
 
 DÉCIMO. Se instruye a Visitaduría Judicial la implementación de las medidas necesarias para la supervisión del cumplimiento de lo relativo a la asignación de las vacaciones a que se refiere el Título Segundo del presente Acuerdo General.
 
-DECIMOPRIMERO. Se da vista al Comité de Trabajo a Distancia para que, en colaboración con la Dirección General de Asuntos Jurídicos y dentro del plazo de cuatro meses, contados a partir de la entrada en vigor de este Acuerdo General, someta a consideración del Pleno los lineamientos en materia de teletrabajo, a que se refiere el Capítulo Tercero del Título Segundo de este Acuerdo General.
+DECIMOPRIMERO. (DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISTINTAS DISPOSICIONES DEL DIVERSO PARA PREVENIR LA VIOLENCIA LABORAL Y MEJORAR EL AMBIENTE DE TRABAJO EN EL PROPIO CONSEJO, EN RELACIÓN CON EL TELETRABAJO, D.O.F. 6 DE OCTUBRE DE 2023)
 
 DECIMOSEGUNDO. Se instruye a la Unidad de Prevención, y Combate a la Violencia Laboral, y a las áreas competentes para presentar para aprobación al Pleno del Consejo, dentro del plazo de diez meses, contados a partir de la creación de la Unidad, el diagnóstico a que se refiere el Título Tercero de este Acuerdo General.
 
@@ -924,3 +962,19 @@ OCTAVO. El órgano jurisdiccional que se encuentre gozando (sic) su periodo vaca
 NOVENO. Se instruye a la Dirección General de Tecnologías de la Información y a la Dirección General de Gestión Judicial del Consejo de la Judicatura Federal, para que a más tardar a los dos meses después de la entrada en vigor del presente Acuerdo, realicen los ajustes necesarios en el Sistema Integral de Seguimiento de Expedientes y en el Portal de Servicios en Línea del Poder Judicial de la Federación, a efecto de que las partes que pretendan presentar una promoción electrónica dirigida a un Juzgados (sic) de Distrito que se encuentre gozando de su periodo vacacional conforme al calendario, sean informadas que únicamente se dará trámite si corresponde a los supuestos de la Guardia Vacacional, en caso contrario, será atendida hasta el regreso de actividades del órgano jurisdiccional, así como para que se informe que no corren plazos ni términos durante el periodo vacacional de cada juzgado en asuntos que no son competencia de la referida Guardia.
 
 DÉCIMO. Se instruye a la Dirección General de Comunicación Social del Consejo de la Judicatura Federal para que realice las campañas necesarias para dar plena difusión al contenido del presente Acuerdo y el calendario anexo entre los integrantes de la sociedad y el foro jurídico para su pleno conocimiento.
+
+D.O.F. 6 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISTINTAS DISPOSICIONES DEL DIVERSO PARA PREVENIR LA VIOLENCIA LABORAL Y MEJORAR EL AMBIENTE DE TRABAJO EN EL PROPIO CONSEJO, EN RELACIÓN CON EL TELETRABAJO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Aquellas personas titulares de órganos jurisdiccionales o de áreas administrativas que, por causa justificada, se encuentren desarrollando sus funciones en teletrabajo, deberán dar aviso, dentro de los cinco días hábiles a la entrada en vigor del presente Acuerdo General, a la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, la cual integrará una lista provisional que se hará del conocimiento del Pleno hasta en tanto se determine la aprobación definitiva, caso por caso, del esquema de trabajo correspondiente.
+
+CUARTO. Se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Federal, por el que se crea el Comité Técnico de Trabajo a Distancia del propio Consejo.
+
+QUINTO. Se instruye a la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales para que, en colaboración con la Dirección General de Asuntos Jurídicos, dentro del plazo de tres meses, contados a partir de la entrada en vigor de este Acuerdo General, someta a consideración del Pleno los lineamientos en materia de teletrabajo, a que se refiere el artículo 25 Quater, fracción I, de este instrumento normativo.
+
+SEXTO. Se instruye a la Dirección General de Asuntos Jurídicos para que, en un plazo de dos meses, contados a partir de la entrada en vigor de este Acuerdo General, someta a consideración del Pleno la propuesta de adición del artículo 164 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, por el que se expide el similar que reglamenta la organización y funcionamiento del propio Consejo; y reforma y deroga diversas disposiciones de otros acuerdos generales, a fin de que se adicione en dicho precepto la atribución de la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales contenida en el diverso Acuerdo General del Pleno del Consejo de la Judicatura Federal para prevenir la violencia laboral y mejorar el ambiente de trabajo en el propio Consejo.
