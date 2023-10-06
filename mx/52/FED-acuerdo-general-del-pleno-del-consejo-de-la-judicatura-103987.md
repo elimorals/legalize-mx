@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2023-09-07"
+last_updated: "2023-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2023.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -831,9 +831,11 @@ Artículo 22 octies. En el Consejo se incorporará la perspectiva de género de 
 
 Artículo 22 nonies. Para la incorporación de la perspectiva de género del personal con cargos administrativos, se adoptarán las siguientes medidas:
 
-I. Todo el personal administrativo, incluyendo el de la defensoría pública federal, deberá acreditar de forma obligatoria el “Curso Género como Herramienta para la Igualdad” (“Curso Básico de Género”) y el “Curso para generar espacios libres de violencia”.
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL PROGRAMA DE SENSIBILIZACIÓN INTEGRAL EN MATERIA DE GÉNERO Y ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
-II. Ambos cursos deberán acreditarse en un plazo de tres años a la entrada en vigor de la presente disposición, salvo causa justificada cuya viabilidad será determinada por la Comisión de Administración. En caso de no hacerlo, no podrán ser consideradas para ningún puesto de ascenso o promoción.
+I. Todo el personal administrativo, incluyendo el de la defensoría pública federal, deberá participar de forma obligatoria en el Programa de sensibilización integral en Materia de Género y Espacios Libres de Violencia, en los términos que establezca la Escuela Judicial.
+
+II. (DEROGADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL PROGRAMA DE SENSIBILIZACIÓN INTEGRAL EN MATERIA DE GÉNERO Y ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 6 DE OCTUBRE DE 2023)
 
 ### CAPÍTULO TERCERO. PERSONAL DE NUEVO INGRESO EN LOS ÓRGANOS JURISDICCIONALES
 
@@ -969,9 +971,7 @@ Los servidores públicos de nuevo ingreso, tienen la obligación de proporcionar
 
 En todos los casos de movimientos de personal los titulares de órganos jurisdiccionales y áreas administrativas, deberán verificar que los candidatos propuestos a ocupar una plaza vacante, cumplan con los requisitos previstos en el perfil del puesto que establece el Manual General de Puestos del Consejo de la Judicatura Federal.
 
-> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA OBLIGATORIEDAD DEL CURSO GÉNERO COMO HERRAMIENTA PARA LA IGUALDAD Y DEL CURSO PARA GENERAR ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 23 DE NOVIEMBRE DE 2022)</small>
-
-Adicionalmente, las personas servidoras públicas de nuevo ingreso tendrán hasta seis meses para cumplir con la acreditación de los cursos establecidos en el artículo 22 Nonies de este Acuerdo. La acreditación de los cursos constituye un requisito para que se otorgue el nombramiento indefinido.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL PROGRAMA DE SENSIBILIZACIÓN INTEGRAL EN MATERIA DE GÉNERO Y ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 6 DE OCTUBRE DE 2023)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CARTILLA DEL SERVICIO MILITAR NACIONAL, D.O.F. 17 DE NOVIEMBRE DE 2022)</small>
 
@@ -14580,3 +14580,17 @@ D.O.F. 7 DE SEPTIEMBRE DE 2023.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 6 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL PROGRAMA DE SENSIBILIZACIÓN INTEGRAL EN MATERIA DE GÉNERO Y ESPACIOS LIBRES DE VIOLENCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Escuela Federal de Formación Judicial será la encargada de emitir el Programa de sensibilización integral en Materia de Género y Espacios Libres de Violencia y de difundirlo a todas las personas servidoras públicas de áreas administrativas y con cargos jurisdiccionales del Poder Judicial de la Federación.
+
+CUARTO. Respecto a las personas que previo a la entrada en vigor del presente Acuerdo se encuentren inscritos en el Curso Género como Herramienta para la Igualdad y en el Curso para generar espacios libres de violencia, deberán concluirlos para que la Escuela Federal de Formación Judicial les emita únicamente una constancia de participación.
+
+QUINTO. Las personas servidoras públicas deberán cumplir con la obligatoriedad de participar en el Curso Género como Herramienta para la Igualdad y en el Curso para generar espacios libres de violencia, en tanto se da a conocer el Programa de Sensibilización integral en Materia de Género y Espacios Libres de Violencia.
