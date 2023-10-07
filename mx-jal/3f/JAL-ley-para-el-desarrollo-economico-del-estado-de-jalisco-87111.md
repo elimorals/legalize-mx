@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-economico-del-estado-de-jalisco-87111"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2022-11-08"
+last_updated: "2023-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2023.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -237,7 +237,9 @@ XVII. Incrementar el bienestar y la calidad de vida de los habitantes del Estado
 
 XVIII. Impulsar la adaptación de sistemas de gestión de calidad en las empresas y en las dependencias gubernamentales establecidas en el estado de Jalisco;
 
-XIX. Promover sistemas de apoyo financiero y crediticio acordes con las condiciones necesarias de las micro, pequeña y mediana empresas;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XIX. Promover sistemas de apoyo financiero y crediticio acordes con las condiciones necesarias de las micro, pequeña, mediana y grandes empresas;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
 
@@ -251,13 +253,17 @@ XXI. Promover apoyos económicos y de capacitación en materia de artesanía, de
 
 XXII. Promover la cultura de paz en el sector económico del estado de Jalisco;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-XXIII. Establecer mecanismos de desarrollo económico con perspectiva de género para lograr una inclusión económica plena; e
+XXIII. Establecer mecanismos de desarrollo económico con perspectiva de género para lograr una inclusión económica plena;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-XXIV. Identificar los incentivos adecuados para el desarrollo y fortalecimiento de las industrias creativas, como apoyos económicos y de capacitación en la materia, de manera directa o con la participación de otras instancias gubernamentales competentes, organismos de la sociedad civil, de la iniciativa privada ya sean nacionales o internacionales.
+XXIV. Identificar los incentivos adecuados para el desarrollo y fortalecimiento de las industrias creativas y del ecosistema de innovación, ciencia y tecnología, como apoyos económicos y de capacitación en la materia, de manera directa o con la participación de otras instancias gubernamentales competentes, organismos de la sociedad civil, de la iniciativa privada ya sean nacionales o internacionales; y
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XXV. Establecer los mecanismos tendientes a fortalecer el ecosistema de innovación, ciencia y tecnología, así como su cadena productiva.
 
 ### Capítulo II. De las Actividades Sujetas a la Promoción y el Apoyo para el Desarrollo Económico
 
@@ -331,13 +337,17 @@ XI. Participen en la conservación y mejoramiento del patrimonio cultural o ambi
 
 XII. Generen espacios y acciones que impulsen la cultura de la paz;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-XIII. Garanticen la generación de por lo menos un veinte por ciento de nuevos empleos a personas de grupos vulnerables por proyecto productivo, en los términos de lo que establece el Código de Asistencia Social del Estado; o
+XIII. Garanticen la generación de por lo menos un veinte por ciento de nuevos empleos a personas de grupos vulnerables por proyecto productivo, en los términos de lo que establece el Código de Asistencia Social del Estado;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-XIV. Que, en estado de emergencia económica, garanticen la creación o mantenimiento del empleo en el Estado.
+XIV. Que, en estado de emergencia económica, garanticen la creación o mantenimiento del empleo en el Estado; o
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XV. Garanticen el crecimiento del ecosistema de innovación, ciencia y tecnología, así como la capacitación especializada de los recursos humanos.
 
 ###### Artículo 9.
 
@@ -1470,3 +1480,13 @@ P.O. 8 DE NOVIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28818/LXIII/22 QUE REFORMA LOS ARTÍCULOS 6, 7 Y 8 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 7 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29250/LXIII/23 DEL CONGRESO DEL ESTADO, QUE REFORMA DIVERSAS DISPOSICIONES EN MATERIA DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Titular del Poder Ejecutivo deberá realizar las adecuaciones reglamentarias para dar cumplimiento al presente decreto dentro de los 180 días posteriores a su entrada en vigor.
+
+TERCERO. El Titular del Poder Ejecutivo deberá prever las adecuaciones administrativas y presupuestales para dar cumplimiento a este decreto en el anteproyecto del Presupuesto de Egresos para el ejercicio fiscal 2024 del Estado de Jalisco.
