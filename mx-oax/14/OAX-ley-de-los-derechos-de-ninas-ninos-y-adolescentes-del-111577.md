@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2023-03-04"
+last_updated: "2023-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 7 DE OCTUBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2023 (ABROGADA).
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -2756,3 +2758,19 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 7 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El Sistema Local de Protección deberá tomar protesta de Ley a los integrantes del mismo a más tardar dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
+
+TERCERO. En un plazo no mayor a ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado emitirá el Reglamento de la Ley de Niñas, Niños y Adolescentes para el Estado de Oaxaca.
+
+CUARTO. Se abroga la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca, publicada en el Periódico Oficial del Gobierno del Estado el dieciséis de diciembre de dos mil quince.
+
+QUINTO. Se abroga la Ley Estatal para el Fomento del Derecho de Niñas, Niños y Adolescentes a una Paternidad Responsable, publicada en el Periódico Oficial del Gobierno del Estado el primero de diciembre de dos mil veintiuno.
+
+SEXTO. En un plazo no mayor a ciento veinte días contados a partir de la entrada en vigor del presente Decreto, la Procuraduría Estatal de Protección deberá crear y actualizar el Registro Estatal de Agresores Sexuales de Niñas, Niños y Adolescentes.
