@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2023-08-05"
+last_updated: "2023-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -41,11 +41,11 @@ LEY ESTATAL DE SALUD
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto reglamentar el derecho a la protección de la salud y establece las bases y modalidades para el acceso a los Servicios de Salud proporcionados por el Estado y la concurrencia de éste y sus municipios en materia de Salubridad Local, en términos del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, del artículo 12 de la Constitución Política del Estado Libre y Soberano de Oaxaca, y de la Ley General de Salud, siendo de aplicación obligatoria en el Estado.
+La presente Ley es de orden público e interés social y tiene por objeto reglamentar el derecho a la protección de la salud y establece las bases y modalidades para el acceso a los Servicios de Salud proporcionados por el Estado y la concurrencia de éste y sus municipios en materia de Salubridad Local, en términos del artículo 4° de la Constitución Política de los Estados Unidos Mexicanos, del artículo 12 de la Constitución Política del Estado Libre y Soberano de Oaxaca, la Ley General de Salud y la Ley General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia, siendo de aplicación obligatoria en el Estado.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -155,13 +155,13 @@ XXV.- Reconocer y promover la participación activa de las personas que practiqu
 
 XXVI.- Procurar que las personas indígenas reciban atención médica, información y capacitación en materia de salud, así como las acciones de prevención de enfermedades en su propia lengua;
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE OCTUBRE DE 2023)</small>
 
 XXVII.- Disponer de personal médico hablante de lengua indígena en los establecimientos de salud ubicados dentro de los pueblos y comunidades indígenas, para garantizar el acceso a los servicios mediante un consentimiento informado basado en la pertinencia cultural;
 
-> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE OCTUBRE DE 2023)</small>
 
-XXVIII.- La prevención, atención y control de la diabetes; y
+XXVIII.- La coordinación para la implementación de la Ley General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia; y,
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE AGOSTO DE 2019)</small>
 
@@ -313,13 +313,17 @@ XV.- Impulsar la permanente actualización de las disposiciones legales en mater
 
 XVI.- Promover e incorporar enfoques con perspectiva de género a las estrategias, campañas de información, y demás programas en el marco de sus atribuciones para contribuir a la igualdad entre mujeres y hombres en el acceso al derecho a la protección de la salud, incluyendo neoplasias que afectan la salud sexual y reproductiva del hombre y de la mujer;
 
-> <small>(REFORMADA Y REUBICADA], P.O. 15 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-XVII.- Diseñar, promover e impulsar políticas públicas para prevenir, combatir y erradicar la muerte materna, obesidad y la desnutrición, y
+XVII.- Diseñar, promover e impulsar políticas públicas para prevenir, combatir y erradicar la muerte materna, obesidad y la desnutrición;
 
-> <small>(REFORMADA Y REUBICADA], P.O. 15 DE ABRIL DE 2023)</small>
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-XVIII.- Las demás atribuciones, afines a las anteriores que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+XVIII.- Coadyuvar con las dependencias federales competentes en el cumplimiento de lo dispuesto en la Ley General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia, así como para implementar a nivel local la Rey de Apoyo contra el Cáncer en la Infancia y Adolescencia, el Registro Estatal de Cáncer en la Infancia y Adolescencia y el Consejo Estatal para la Prevención y el Tratamiento del Cáncer en la Infancia y la Adolescencia; y,
+
+> <small>(REFORMADA Y REUBICADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+XIX.- Las demás atribuciones, afines a las anteriores que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -553,13 +557,13 @@ IX.- La promoción del mejoramiento de la nutrición;
 
 X.- La asistencia social a los grupos más vulnerables;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE OCTUBRE DE 2023)</small>
 
 XI.- La atención a las víctimas de violencia intrafamiliar y de abandono;
 
-> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2023)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE OCTUBRE DE 2023)</small>
 
-XII.- La atención a las personas adultas mayores, incluidas la atención geriátrica y gerontológica, así como la atención especializada a quienes tengan alguna discapacidad funcional y psicológica; y
+XII.- La prevención y atención médica de las enfermedades auditivas y visuales; y
 
 XIII.- Las demás que establezcan otras disposiciones legales aplicables.
 
@@ -584,6 +588,70 @@ La Secretaría de Salud a través de los Servicios de Salud de Oaxaca pondrán a
 II.- Que los establecimientos de los sectores público, social y privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a los preceptos legales aplicables.
 
 III.- Que se asegure la adecuada distribución y comercialización de los medicamentos e insumos para los servicios de salud de la entidad.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 31 BIS.- La Secretaría de Salud, en el marco de sus atribuciones y conforme lo dispuesto por la Ley General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia, deberá:
+
+I. Establecer la coordinación con el Centro Nacional para la Salud de la Infancia y la Adolescencia.
+
+II. Promover la creación y funcionamiento del Consejo Estatal para la Prevención y el Tratamiento del Cáncer en la Infancia y la Adolescencia;
+
+III. Implementar la Red Estatal de Apoyo contra el Cáncer en la Infancia y Adolescencia;
+
+IV. Crear el Registro Estatal de Cáncer en la Infancia y Adolescencia; y
+
+V. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de sus objetivos.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 31 TER.- El Consejo Estatal para la Prevención y el Tratamiento del Cáncer en la Infancia y la Adolescencia, será un órgano consultivo e instancia permanente de coordinación y concertación de acciones de los sectores público, social y privado en materia de investigación, diagnóstico y tratamiento integral de cáncer detectado entre la infancia y adolescencia del Estado de Oaxaca.
+
+El Consejo Estatal expedirá los lineamientos para su funcionamiento o reglas de operación del Consejo. Además, expedirá lineamientos específicos.
+
+Para el cumplimiento de sus funciones se coordinará con el Consejo Nacional y coadyuvará en el cumplimiento de las atribuciones de este, en los términos dispuestos en la Ley General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 31 QUÁTER.- El Consejo Estatal para para (sic) la Prevención y el Tratamiento del Cáncer en la Infancia y la Adolescencia estará integrado de la siguiente manera:
+
+I. Titular de la Secretaría de Salud en el Estado, quien además lo presidirá;
+
+II. Titular de la Subdirección General de los Servicios de Salud de Oaxaca;
+
+III. Titular del Hospital de la Niñez Oaxaqueña Dr. Guillermo Zárate Mijangos, y;
+
+IV. Las y los representantes del Órgano de Operación Administrativa Desconcentrada Estatal Oaxaca (IMSS).
+
+V. La persona representante del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; y
+
+VI. La persona representante del IMSS Bienestar.
+
+La persona que presida el Consejo podrá invitar con el carácter de vocales a las instituciones u organizaciones con presencia en el Estado, públicas o privadas, de carácter médico, científico o académico de reconocido prestigio y con amplios conocimientos en la materia, así como a las organizaciones de la sociedad civil que realicen actividades relacionadas con las funciones del Consejo.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 31 QUINQUIES.- La Secretaría hará uso de la infraestructura y personal existente a fin de que todas las unidades de salud de primer nivel, se integren a la Red Estatal de Apoyo Contra el Cáncer en la Infancia y Adolescencia, la cual, a su vez, se integrará a la Red Nacional de Apoyo Contra el Cáncer en la Infancia y Adolescencia. (se tiene que establecer en el funcionamiento del Consejo)
+
+La Red Estatal a que hace referencia el párrafo anterior, deberá:
+
+I. Registrar a las organizaciones de asistencia social, públicas y privadas que brinden apoyo a niños, niñas y adolescentes con Cáncer en el Estado;
+
+II. Brindar asesoría a padres y madres de familia de niñas, niños y adolescentes con cáncer, respecto al funcionamiento del Registro Estatal y Nacional de Cáncer en la Infancia y Adolescencia, así como la manera de acceder a las prestaciones de los servicios de salud correspondientes;
+
+III. Las demás que deriven de la Ley General, de la General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia, la Ley Estatal de Salud, el Consejo y demás que designe la Secretaría.
+
+En las unidades de salud de primer nivel, deberán designarse a trabajadores sociales de entre el personal adscrito a la misma, quienes serán capacitados para cumplir con las obligaciones establecidas en la Ley General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 31 SEXIES.- La Secretaría de Salud en coordinación con el Consejo Estatal para la Prevención y el Tratamiento del Cáncer en la Infancia y la Adolescencia, implementarán el Registro Estatal de Cáncer en la Infancia y la Adolescencia, con el propósito de llevar en tiempo real un registro sobre el diagnóstico, seguimiento y evolución del tratamiento del paciente y que permita una atención de calidad y la realización de estudios científicos, conforme a los lineamientos que para tal efecto emita la Red Nacional de Cáncer en la Infancia y Adolescencia.
+
+La información que obre en el Registro Estatal, nutrirá el Registro Nacional de Cáncer en la Infancia y Adolescencia, cumpliendo para ello los lineamientos emitidos por el Centro Nacional.
+
+El Consejo Estatal expedirá los lineamientos para su funcionamiento o reglas de operación del Consejo. Además, expedirá lineamientos específicos.
+
+Para el cumplimiento de sus funciones se coordinará con el Consejo Nacional y coadyuvará en el cumplimiento de las atribuciones de este, en los términos dispuestos en la Ley General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia.
 
 ### CAPITULO II. ATENCION MEDICA
 
@@ -4176,3 +4244,19 @@ P.O. 5 DE AGOSTO DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 7 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1544.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XI Y SE ADICIONA LA FRACCIÓN XII RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 29 DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO. Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca.
+
+P.O. 7 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1551.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 1, LA FRACCIÓN XXVII DE LA LETRA A DEL ARTÍCULO 4 Y LA FRACCIÓN XVII DEL ARTÍCULO 7; SE ADICIONA LA FRACCIÓN XXVIII RECORRIENDOSE EN SU ORDEN LA SUBSECUENTE DE LA LETRA A DEL ARTÍCULO 4, LA FRACCIÓN XVIII RECORRIENDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 7, LOS ARTÍCULOS 31 BIS, 31 TER, 31 QUÁTER, 31 QUINQUIES y 31 SEXIES DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca.
