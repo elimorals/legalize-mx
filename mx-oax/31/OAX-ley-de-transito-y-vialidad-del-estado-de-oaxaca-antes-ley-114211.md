@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-y-vialidad-del-estado-de-oaxaca-antes-ley-11421
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2023-09-23"
+last_updated: "2023-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -929,6 +929,10 @@ XI. Circular con pasajero entre el manubrio y el conductor que impidan la maniob
 
 XII. Llevar carga fuera de los lugares destinados por el fabricante, que impidan la correcta conducción de la motocicleta, así como cargas que excedan los volúmenes permitidos.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+Cuando el conductor de la motocicleta infrinja las fracciones IV y X de este artículo, será sancionado en términos del artículo 92 y 93 de esta Ley.
+
 ###### Artículo 55.
 
 Las motocicletas con motores de cilindrada menor a los 100 centímetros cúbicos no podrán circular en las vías rápidas, vías controladas y autopistas urbanas.
@@ -1658,3 +1662,11 @@ P.O. 23 DE SEPTIEMBRE DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 7 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1542.- MEDIANTE EL CUAL ADICIONA EL SEGUNDO PÁRRAFO AL ARTÍCULO 54 DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El Poder Ejecutivo del Estado y las autoridades municipales contarán con 60 días naturales a partir de la publicación del presente Decreto para adecuar sus reglamentos de tránsito conforme a lo aquí dispuesto.
