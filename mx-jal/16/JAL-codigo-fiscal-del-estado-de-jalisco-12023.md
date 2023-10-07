@@ -4,7 +4,7 @@ identifier: "JAL-codigo-fiscal-del-estado-de-jalisco-12023"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-16"
-last_updated: "2023-06-10"
+last_updated: "2023-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO FISCAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2023.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 16 de diciembre de 1997.
 
@@ -241,13 +241,13 @@ II. El Secretario de la Hacienda Pública;
 
 III. El Secretario de Administración;
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-IV. El Subsecretario de Política Presupuestal y Egresos;
+IV. El Director General de Depósito y Custodia Vehicular;
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-V. El Director General Egresos;
+V. La Tesorería General;
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
@@ -293,9 +293,13 @@ XV. El Director de Visitas Domiciliarias "1 ";
 
 XVI. El Director de Visitas Domiciliarias "2"
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-XVII. El Director de Gabinete, Programación y Dictámenes;
+XVII. El Director de Gabinete y Dictámenes;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XVII Bis. El Director de Programación;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2021)</small>
 
@@ -313,7 +317,9 @@ XX. la persona titular de la Coordinación de Fiscalización Estratégica; y
 
 XXI. La persona titular de la Jefatura del Servicio Estatal Tributario de Jalisco.
 
-La Secretaría de Administración será considerada autoridad fiscal para determinar y liquidar los adeudos que se generen por servicio de guarda y custodia de vehículos, mercancía u objetos varios, en los depósitos a su cargo, la implementación del procedimiento administrativo de ejecución se realizará por las autoridades fiscales de la Secretaría de la Hacienda Pública.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+La Secretaría de Administración será considerada autoridad fiscal para determinar, liquidar y ejecutar los adeudos que se generen por servicio de guarda y custodia de vehículos, mercancía u objetos varios, en los depósitos a su cargo.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
 
@@ -1487,6 +1493,10 @@ Asimismo, el Gobernador del Estado, estará facultado para que, mediante acuerdo
 
 Los acuerdos que al respecto se dicten, determinarán los sujetos que gozarán de los estímulos, la región o las ramas de actividades favorecidas, así como los requisitos que deban satisfacerse y el período de vigencia del beneficio.
 
+> <small>(REFORMADO [N. DE E ADICIONADO], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+El Secretario de Administración previo acuerdo administrativo, podrá conceder plazos para el pago de créditos fiscales, condonar total o parcialmente los recargos y los accesoriosde (sic) los adeudos que se generen por servicio de guarda y custodia de vehículos, mercancía u objetos varios que se encuentren bajo su resguardo en los depósitos administrados y autorizados por la Secretaría de Administración.
+
 ###### Artículo 81.
 
 La solicitud de condonación de multas, que no tendrá el carácter de recurso, sólo podrá hacerse valer cuando las resoluciones que las impongan, sean definitivas.
@@ -2332,6 +2342,12 @@ Para efectuar las clausuras que señala este artículo y el anterior, deberá re
 ###### Artículo 129.
 
 No satisfecho un crédito fiscal dentro del plazo que para el efecto señalen las leyes fiscales, se exigirá su pago mediante el procedimiento administrativo de ejecución.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 129 Bis.
+
+El procedimiento administrativo de ejecución previsto en este Título respecto de los adeudos generados por la prestación del servicio de guarda y custodia de vehículos, mercancía u objetos varios, que se encuentren en los depósitos vehiculares a cargo de la Secretaría de Administración, será desahogado por ésta a través de la Dirección General de Deposito y Custodia Vehicular.
 
 ###### Artículo 130.
 
@@ -3578,3 +3594,11 @@ La asignación de personal que integre el Servicio Estatal Tributario de Jalisco
 ###### ARTÍCULO DÉCIMO TERCERO.
 
 Las personas servidoras públicas de base que se encuentran prestando servicios en la Subsecretaría de Ingresos, cuyas atribuciones sean asumidas por el Servicio Estatal Tributario de Jalisco a la entrada en vigor del presente decreto, en ninguna forma resultarán afectados en los derechos adquiridos con motivo de su relación laboral, conservando ante su transición al nuevo órgano desconcentrado la misma calidad, sus derechos en los términos de la normatividad aplicable, subrogándose al Servicio Estatal Tributario de Jalisco, como nuevo empleador en todos los derechos y obligaciones derivados de esa relación laboral y aquellos consagrados en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria, o en las Condiciones Generales de Trabajo establecidas en las condiciones generales de trabajo.
+
+P.O. 7 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29252/LXIII/23 DEL CONGRESO DEL ESTADO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO; DEL CÓDIGO FISCAL DEL ESTADO DE JALISCO, ASÍ COMO DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2023”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco."
+
+Segundo. La Secretaría de Administración, a través de la Dirección General de Depósito y Custodia Vehicular, deberá emitir la Norma Técnica para la implementación de las reformas a la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente decreto.
