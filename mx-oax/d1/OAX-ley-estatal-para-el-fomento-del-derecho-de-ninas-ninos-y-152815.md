@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-para-el-fomento-del-derecho-de-ninas-ninos-y-152815
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-01"
-last_updated: "2021-12-01"
+last_updated: "2023-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY ESTATAL PARA EL FOMENTO DEL DERECHO DE NIÑAS, NIÑOS Y ADOLESCENTES A UNA PATERNIDAD RESPONSABLE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 7 DE OCTUBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ESTATAL PARA EL FOMENTO DEL DERECHO DE NIÑAS, NIÑOS Y ADOLESCENTES A UNA PATERNIDAD RESPONSABLE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2023 (ABROGADA).
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2021.
 
@@ -200,3 +202,21 @@ TERCERO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxac
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 22 de Octubre de 2021.- Dip. Arsenio Lorenzo Mejía García, Presidente.- Dip. Arcelia López Hernández, Vicepresidenta.- Dip. Rocío Machuca Rojas, Secretaría.- Dip. Maritza Escarlet Vásquez Guerra, Secretaría - Rúbricas.”
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 4 de Noviembre de 2021. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Ing. Francisco Javier García López.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1545.- MEDIANTE EL CUAL EXPIDE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El Sistema Local de Protección deberá tomar protesta de Ley a los integrantes del mismo a más tardar dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
+
+TERCERO. En un plazo no mayor a ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado emitirá el Reglamento de la Ley de Niñas, Niños y Adolescentes para el Estado de Oaxaca.
+
+CUARTO. Se abroga la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca, publicada en el Periódico Oficial del Gobierno del Estado el dieciséis de diciembre de dos mil quince.
+
+QUINTO. Se abroga la Ley Estatal para el Fomento del Derecho de Niñas, Niños y Adolescentes a una Paternidad Responsable, publicada en el Periódico Oficial del Gobierno del Estado el primero de diciembre de dos mil veintiuno.
+
+SEXTO. En un plazo no mayor a ciento veinte días contados a partir de la entrada en vigor del presente Decreto, la Procuraduría Estatal de Protección deberá crear y actualizar el Registro Estatal de Agresores Sexuales de Niñas, Niños y Adolescentes.
