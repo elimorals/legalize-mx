@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-promocion-de-inversiones-en-el-estado-de-jalisco-87
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2022-06-16"
+last_updated: "2023-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2023.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -457,9 +457,9 @@ Corresponde al Consejo del Sistema Estatal de Promoción de Inversiones autoriza
 
 Se consideran proyectos de alto impacto todas las inversiones productivas que, por la cuantía de los incentivos susceptibles de obtención, requieran ser resueltos por el Consejo del Sistema Estatal de Promoción de Inversiones, en los términos del artículo anterior.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-Se clasifican, asimismo, como proyectos de alto impacto, todas las inversiones productivas o proyectos de infraestructura que, independientemente de su monto o del tamaño de los incentivos que sea susceptible de recibir, se consideren imprescindibles para la consolidación de alguna cadena productiva relevante en el Estado, para detonar el desarrollo económico o la creación de empleos en algún municipio o región que se considere prioritario por parte del Consejo Estatal de Promoción Económica de Jalisco, el Consejo Estatal para la Competitividad, y demás agencias estatales de desarrollo económico, o para favorecer la incursión de la planta productiva jalisciense en algún sector productivo que el Consejo del Sistema Estatal de Promoción de Inversiones, la Secretaría, el Plan Estatal de Desarrollo o los instrumentos de planeación derivados de éste consideren estratégicos para el desarrollo económico de la entidad.
+Se clasifican, asimismo, como proyectos de alto impacto, todas las inversiones productivas o proyectos de infraestructura que, independientemente de su monto o del tamaño de los incentivos que sea susceptible de recibir, se consideren imprescindibles para la consolidación de alguna cadena productiva relevante en el Estado, así como los que fortalezcan el ecosistema de innovación, ciencia y tecnología, además de la capacitación especializada de la cadena productiva, para detonar el desarrollo económico o la creación de empleos en algún municipio o región que se considere prioritario por parte del Consejo Estatal de Promoción Económica de Jalisco, el Consejo Estatal para la Competitividad, y demás agencias estatales de desarrollo económico, o para favorecer la incursión de la planta productiva jalisciense en algún sector productivo que el Consejo del Sistema Estatal de Promoción de Inversiones, la Secretaría, el Plan Estatal de Desarrollo o los instrumentos de planeación derivados de éste consideren estratégicos para el desarrollo económico de la entidad.
 
 ###### Artículo 38.
 
@@ -726,3 +726,13 @@ P.O. 16 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28787/LXIII/22 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2, 3, 4, 6, 8, 9, 12, 24, 26, 54, 62 Y 63 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO Y LOS ARTÍCULOS 8, 9 Y 31 DE LA LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 7 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29250/LXIII/23 DEL CONGRESO DEL ESTADO, QUE REFORMA DIVERSAS DISPOSICIONES EN MATERIA DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+SEGUNDO. El Titular del Poder Ejecutivo deberá realizar las adecuaciones reglamentarias para dar cumplimiento al presente decreto dentro de los 180 días posteriores a su entrada en vigor.
+
+TERCERO. El Titular del Poder Ejecutivo deberá prever las adecuaciones administrativas y presupuestales para dar cumplimiento a este decreto en el anteproyecto del Presupuesto de Egresos para el ejercicio fiscal 2024 del Estado de Jalisco.
