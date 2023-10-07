@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-compras-gubernamentales-enajenaciones-y-contratacion-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-27"
-last_updated: "2023-04-18"
+last_updated: "2023-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2023.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 27 de octubre de 2016.
 
@@ -2155,9 +2155,21 @@ VI. La adquisición y transferencia de tecnología que generen competitividad en
 
 VII. Promover una cultura de solidaridad y difundir los beneficios de la aportación cinco al millar que permita el cumplimiento del objeto del Fondo.
 
-VIII. Apoyar, en coordinación con las autoridades, en la adquisición de insumos para la salud pública de los jaliscienses; y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-IX. Promover una cultura de solidaridad y difundir los beneficios de la aportación cinco al millar que permita el cumplimiento del objeto del Fondo.
+VIII. Apoyar, en coordinación con las autoridades, en la adquisición de insumos para la salud pública de los jaliscienses;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+IX. Generar estrategias, apoyos, programas e incentivos que impulsen e incrementen las ventajas competitivas del Estado, para fomentar la creación, permanencia y crecimiento de empresas;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+X. Promover, y generar estrategias y acciones para fortalecer el ecosistema de innovación, ciencia y tecnología en cumplimiento de la política en la materia; y
+
+> <small>(ADICIONADA, [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN IX] P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XI. Promover una cultura de solidaridad y difundir los beneficios de la aportación cinco al millar que permita el cumplimiento del objeto del Fondo.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
 
@@ -2412,3 +2424,13 @@ P.O. 18 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29174/LXIII/23 QUE REFORMA EL ARTÍCULO 28 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 7 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29250/LXIII/23 DEL CONGRESO DEL ESTADO, QUE REFORMA DIVERSAS DISPOSICIONES EN MATERIA DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Titular del Poder Ejecutivo deberá realizar las adecuaciones reglamentarias para dar cumplimiento al presente decreto dentro de los 180 días posteriores a su entrada en vigor.
+
+TERCERO. El Titular del Poder Ejecutivo deberá prever las adecuaciones administrativas y presupuestales para dar cumplimiento a este decreto en el anteproyecto del Presupuesto de Egresos para el ejercicio fiscal 2024 del Estado de Jalisco.
