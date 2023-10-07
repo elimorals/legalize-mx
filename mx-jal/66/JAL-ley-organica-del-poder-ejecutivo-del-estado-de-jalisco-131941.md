@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2023-07-06"
+last_updated: "2023-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2023.
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -743,15 +743,21 @@ XXXII. Solicitar a las entidades estatales, municipales, instituciones y particu
 
 XXXIII. Aprobar los estándares tecnológicos tendientes a obtener la seguridad de la información en las dependencias y entidades de la Administración Pública del Estado;
 
-XXXIV. Prestar los servicios de resguardo y custodia, de aquellos bienes que les sean remitidos en depósito legal por autoridades federales, estatales o municipales;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2019)</small>
+XXXIV. Prestar los servicios de resguardo y custodia, de aquellos bienes que les sean remitidos en depósito legal por autoridades federales, estatales o municipales; ya sea por sí misma o a través de terceros mediante el otorgamiento de una autorización;
 
-XXXV. Determinar y liquidar los adeudos que se generen por servicio de guarda y custodia de vehículos, mercancía u objetos varios, en los depósitos a su cargo; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2023)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE FEBRERO DE 2019)</small>
+XXXV. Revocar autorizaciones emitidas a terceros para prestar los servicios de resguardo y custodia, de aquellos bienes que le sean remitidos en depósito legal por parte de autoridades federales, estatales o municipales;
 
-XXXVI. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XXXVI. Determinar y liquidar los adeudos que se generen por servicio de guarda y custodia de vehículos, mercancía u objetos varios, en los depósitos a su cargo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XXXVII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
 ###### Artículo 20.
 
@@ -3010,3 +3016,11 @@ P.O. 6 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29203/LXIII/23 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA LA LEY ORGÁNICA DEL PODER EJECUTIVO Y LA LEY DE PATRIMONIO CULTURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “EI Estado de Jalisco”.
+
+P.O. 7 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29252/LXIII/23 DEL CONGRESO DEL ESTADO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO; DEL CÓDIGO FISCAL DEL ESTADO DE JALISCO, ASÍ COMO DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2023”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco."
+
+Segundo. La Secretaría de Administración, a través de la Dirección General de Depósito y Custodia Vehicular, deberá emitir la Norma Técnica para la implementación de las reformas a la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente decreto.
