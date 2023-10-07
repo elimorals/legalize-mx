@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-libre-y-soberano-de-jalisco-142912"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2023-08-03"
+last_updated: "2023-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2023.
 
 Ley publicada en la Edición Especial al Número 50 Bis del Periódico Oficial del Estado de Jalisco, el viernes 15 de mayo de 2020.
 
@@ -137,7 +137,9 @@ Se fomentará el desarrollo integral del sistema nervioso con el fin de consegui
 
 La obligatoriedad de la educación superior corresponde al Estado en los términos dispuestos por la fracción X del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y las leyes en la materia.
 
-Además de impartir educación en los términos establecidos en la Constitución Política del Estado Libre y Soberano de Jalisco, la autoridad educativa estatal apoyará la investigación e innovación científica, humanística y tecnológica, y alentará el fortalecimiento y la difusión de la cultura nacional y universal, en los términos que las leyes en la materia determinen.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+Además de impartir educación en los términos establecidos en la Constitución Política del Estado Libre y Soberano de Jalisco, la autoridad educativa estatal apoyará la investigación e innovación científica, humanística y tecnológica, fomentará programas extraescolares de reforzamiento de la educación bilingüe e intercultural y alentará el fortalecimiento y la difusión de la cultura nacional y universal, en los términos que las leyes en la materia determinen.
 
 ### Capítulo III. De la educación en el estado de Jalisco
 
@@ -345,13 +347,17 @@ X. Acciones de colaboración y coordinación con el Sistema de Salud;
 
 XI. Programas de robótica preferentemente mediante alternativas del uso de material reciclado o que no afecte al medio ambiente como materia prima de los proyectos, pudiendo elegir la metodología que facilite la aplicación de esta;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-XII. Programas de fomento a la educación financiera; y
+XII. Programas de fomento a la educación financiera;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2023)</small>
 
-XIII. Las demás que tiendan al bienestar individual y social.
+XIII. Programas de fortalecimiento en educación tecnológica e ingenierías; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XIV. Las demás que tiendan al bienestar individual y social.
 
 Facultades del Poder Ejecutivo Estatal
 
@@ -401,13 +407,21 @@ XVI. Brindar cursos a los docentes y al personal que labora en los planteles de 
 
 XVII. Impulsar dentro del Sistema Educativo Estatal la educación emocional en alumnos y docentes, que contribuyan a la salud mental;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-XVIII. Elaborar, promover y vigilar la aplicación de los protocolos para prevenir, detectar y actuar en casos de abuso sexual infantil o acoso y maltrato escolar en todos los planteles de educación básica en el estado; y
+XVIII. Elaborar, promover y vigilar la aplicación de los protocolos para prevenir, detectar y actuar en casos de abuso sexual infantil o acoso y maltrato escolar en todos los planteles de educación básica en el estado;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2023)</small>
 
-XIX. Las demás que otras disposiciones legales así dispongan.
+XIX. Implementar programas de fortalecimiento docente con perspectiva en desarrollo tecnológico y de innovación;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XX. Generar la infraestructura necesaria para impulsar la transformación digital y el desarrollo tecnológico; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XXI. Las demás que otras disposiciones legales así dispongan.
 
 ## Título Segundo. Del Sistema Educativo Estatal
 
@@ -688,6 +702,10 @@ Uso de las nuevas tecnologías de la información, comunicación, conocimiento y
 ###### Artículo 39.
 
 El desarrollo tecnológico y la innovación, asociados a la actualización, a la excelencia educativa y a la expansión de las fronteras del conocimiento se apoyará en las nuevas tecnologías de la información, comunicación, conocimiento y aprendizaje digital, mediante el uso de plataformas de acceso abierto.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+Los programas extraescolares de reforzamiento de la educación bilingüe e intercultural, para los educandos del tipo de educación secundaria y media superior, deberán estar encaminados hacia su inclusión laboral, así como en beneficio de su desarrollo personal y profesional.
 
 El desarrollo de actividades de enseñanza, aprendizaje, evaluación, gestión, actualización, capacitación, así como la infraestructura educativa y demás acciones relacionadas con la educación en Jalisco, deberán estar encaminadas y apuntar a funcionar, de manera permanente, bajo un modelo mixto, que combine la modalidad presencial y la virtual, apoyándose, de manera responsable y con fines pedagógicos, de tecnologías de información, comunicación y conocimiento, incluyendo: plataformas para la gestión de aprendizaje, repositorios de recursos educativos abiertos, bibliotecas digitales de acceso abierto, herramientas de colaboración y producción de recursos digitales, y aquellas otras que contribuyan a la excelencia e innovación educativa.
 
@@ -1047,6 +1065,10 @@ Se buscará el uso responsable con fines pedagógicos y máximo provecho de las 
 
 La autoridad educativa estatal procurará que el empleo de dispositivos electrónicos y digitales en el interior de los planteles educativos se realice para fines estrictamente pedagógicos y bajo la supervisión docente.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+La autoridad educativa local impulsará programas extraescolares de reforzamiento de educación bilingüe e intercultural, que se impartirán en el tipo de educación secundaria y media superior, a través de una metodología dinámica, interactiva y práctica, con la intención de interrelacionar a los educandos con el idioma inglés, en un contexto real, amigable y cotidiano.
+
 Capacitación de maestras y maestros para desarrollar habilidades en el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital
 
 ###### Artículo 62.
@@ -1171,9 +1193,17 @@ VII. Participar de los procesos que se deriven en los planteles educativos como 
 
 VIII. Participar en los procesos de otorgamiento de becas y demás apoyos económicos priorizando a los educandos que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
 
-IX. Participar en los Comités Escolares de Administración Participativa en los términos de las disposiciones respectivas; y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-X. Los demás que sean reconocidos en la Constitución Política de los Estados Unidos Mexicanos, esta Ley y demás disposiciones aplicables.
+IX. Participar en los Comités Escolares de Administración Participativa en los términos de las disposiciones respectivas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+X. Recibir clases extraescolares de reforzamiento de la educación bilingüe e intercultural, en el tipo de educación secundaria y media superior; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XI. Los demás que sean reconocidos en la Constitución Política de los Estados Unidos Mexicanos, esta Ley y demás disposiciones aplicables.
 
 La autoridad educativa estatal establecerá los mecanismos que contribuyan a su formación integral, tomando en cuenta los contextos sociales, territoriales, económicos, lingüísticos y culturales específicos en la elaboración y aplicación de las políticas educativas en sus distintos tipos y modalidades.
 
@@ -2672,3 +2702,13 @@ P.O. 3 DE AGOSTO DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
 
 SEGUNDO. La Secretaría de Educación, conforme a la suficiencia presupuestal asignada, instrumentará las acciones establecidas en la presente Ley.
+
+P.O. 7 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29250/LXIII/23 DEL CONGRESO DEL ESTADO, QUE REFORMA DIVERSAS DISPOSICIONES EN MATERIA DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+SEGUNDO. El Titular del Poder Ejecutivo deberá realizar las adecuaciones reglamentarias para dar cumplimiento al presente decreto dentro de los 180 días posteriores a su entrada en vigor.
+
+TERCERO. El Titular del Poder Ejecutivo deberá prever las adecuaciones administrativas y presupuestales para dar cumplimiento a este decreto en el anteproyecto del Presupuesto de Egresos para el ejercicio fiscal 2024 del Estado de Jalisco.
