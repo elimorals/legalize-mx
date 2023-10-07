@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-161219"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2022-12-01"
-last_updated: "2022-12-01"
+last_updated: "2023-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2023
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2023.
 
 Ley publicada en la Sección IV del Número 49 del Periódico Oficial del Estado de Jalisco, el jueves 1 de diciembre de 2022.
 
@@ -1777,6 +1777,12 @@ autobuses en las instalaciones de la antigua
 
 estación central de autotransporte: $206.00
 
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XXXVII. Los servicios de grúa en sus modos de arrastre, arrastre y salvamento, serán conforme a las tarifas siguientes:
+
+> <small>[N. DE E. VEÁSE TARIFAS EN EL P.O. DE 7 DE OCTUBRE DE 2023, PÁGINAS DE LA 15 A LA 16.]</small>
+
 ###### Artículo 24.
 
 Se cancelará la tarjeta de circulación con que se haya dotado al vehículo automotor y eléctrico, cuando exista cambio de propietario, domicilio, número de motor, color, o por cualquier otra circunstancia que implique reposición de dicha tarjeta.
@@ -1837,7 +1843,9 @@ III. A los vehículos de servicio particular adaptados para personas con discapa
 
 IV. Quedan exentas del pago de los derechos a que se refiere el presente artículo:
 
-a) Las personas físicas propietarias de vehículos que hayan sido objeto de robo o producto de secuestro, en el Estado de Jalisco, recuperados por cualquier autoridad y asegurados en los depósitos administrados por la Secretaría de Administración. De darse el cambio de propietario después de haberse cometido y denunciado el robo, no aplicará la exención mencionada en este inciso; y
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+a) Las personas físicas propietarias de vehículos.que (sic) hayan sido objeto de robo o producto de secuestro, en el Estado de Jalisco, recuperados por cualquier autoridad y asegurados en los depósitos administrados y autorizados por la Secretaría de Administración. De darse el cambio de propietario después de haberse cometido y denunciado el robo, también aplicará la exención mencionada en este inciso; y
 
 b) Las personas propietarias de vehículos, que no tengan responsabilidad en el hecho de tránsito terrestre en el que se vean involucrados, de acuerdo a la determinación de la autoridad competente;
 
@@ -1845,7 +1853,9 @@ c) Las personas físicas propietarias de los bienes que son sujetos al procedimi
 
 d) Tratándose de instituciones de asistencia social privada, legalmente reconocidas por la Secretaría del Sistema de Asistencia Social, siempre y cuando las causas que motiven la detención del vehículo no sean imputables a sus empleados o por delito culposo.
 
-La exención para los incisos que anteceden aplicará hasta 15 días hábiles posteriores a la fecha de liberación del vehículo, mercancía u objeto de que se trate, que se encontraban en los depósitos administrados por la Secretaría de Administración. Una vez transcurrido dicho plazo, quedará sin efectos la exención, generándose la obligación de pago del derecho en los términos de este artículo.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+La exención para los incisos que anteceden aplicará hasta 45 días hábiles posteriores a la fecha de liberación del vehículo, mercancía u objeto de que se trate, que se encontraban en los depósitos administradosy (sic) autorizados por la Secretaría de Administración. Una vez transcurrido dicho plazo, quedará sin efectos la exención, generándose la obligación de pago del derecho en los términos de este artículo.
 
 En el caso de que los propietarios de bienes puestos en depósito que adeuden 180 días o más por servicios de guarda y custodia, sin que hayan efectuado el pago de las contraprestaciones establecidas en el presente artículo, la Secretaría de Administración procederá a formular la liquidación correspondiente. Los propietarios de bienes deberán efectuar el pago dentro de los quince días siguientes a la fecha en que haya surtido efecto la notificación de la misma.
 
@@ -3466,3 +3476,13 @@ JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29252/LXIII/23 DEL CONGRESO DEL ESTADO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ÓRGANICA (SIC) DEL PODER EJECUTIVO; DEL CÓDIGO FISCAL DEL ESTADO DE JALISCO, ASÍ COMO DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2023”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco.”
+
+Segundo. La Secretaría de Administración, a través de la Dirección General de Depósito y Custodia Vehicular, deberá emitir la Norma Técnica para la implementación de las reformas a la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente decreto.
