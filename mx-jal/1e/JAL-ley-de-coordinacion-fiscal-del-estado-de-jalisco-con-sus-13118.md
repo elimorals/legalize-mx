@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "2023-09-02"
+last_updated: "2023-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,6 +25,8 @@ state: "JAL"
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE OCTUBRE DE 2023.]</small>
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -230,13 +232,9 @@ b) El 30% informado y determinado a la Entidad por la Secretaría de Hacienda y 
 
 Los municipios podrán celebrar el convenio referido en el párrafo anterior durante los meses comprendidos de enero a abril, debiendo estar vigente antes del 1º de mayo del año en el que se lleve a cabo el cálculo.
 
-> <small>[N. DE E. EL CONTENIDO DEL PRESENTE PÁRRAFO ES IDÉNTICO AL CONTENIDO DEL TERCER PÁRRAFO DEL INCISO B, VÉASE PUBLICACIÓN OFICIAL DE FECHA 30 DE OCTUBRE DE 2021.]</small>
+> <small>(F. DE E., P.O. 7 DE OCTUBRE DE 2023)</small>
 
 La distribución del 30% del excedente se realizará conforme la siguiente fórmula:
-
-> <small>[N. DE E. EL CONTENIDO DEL PRESENTE PÁRRAFO ES IDÉNTICO AL CONTENIDO DEL SEGUNDO PÁRRAFO DEL INCISO B, VÉASE PUBLICACIÓN OFICIAL DE FECHA 30 DE OCTUBRE DE 2021.]</small>
-
-La distribución del 30% del excedente se realizará conforme la siguiente fórmula: (sic)
 
 > <small>[N. DE E. VÉASE FÓRMULA EN LA SECCIÓN VIII DEL P.O. DE 30 DE OCTUBRE DE 2021, PÁGINA 4.]</small>
 
@@ -819,3 +817,9 @@ P.O. 2 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29241/LXIII/23 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 5 Y 7 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS".]
 
 ÚNICO. Para la elaboración de coeficientes de distribución para el ejercicio fiscal 2024 el presente Decreto entrara en vigor al día siguiente de su publicación. El resto de las disposiciones aprobadas surtirán efectos a partir del 01 de enero de 2024.
+
+P.O. 7 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO 224/LXIII/23 LEGISLATIVO QUE APRUEBA LA ACLARACIÓN DEL ERROR A LA MINUTA 29122/LXIII/23 (SIC)".]
+
+Único. Publíquese la presente aclaración de error de minuta del Decreto 29122/LXIII/23 (SIC) en el Periódico Oficial "El Estado de Jalisco".
