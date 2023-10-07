@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-tecnologico-jose-mario-molina-116227
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-08-23"
-last_updated: "2023-05-23"
+last_updated: "2023-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116227&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "JAL"
 
 LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y HENRÍQUEZ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2023.
 
-Ley publicada en el número 17 de la Sección III, del Periódico Oficial del Estado de Jalisco el martes 23 de agosto de 2016.
+Ley publicada en el número 17 de la Sección III del Periódico Oficial del Estado de Jalisco, el martes 23 de agosto de 2016.
 
 Jorge Aristóteles Sandoval Díaz, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto
 
@@ -43,21 +43,31 @@ LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y HENRÍQUEZ
 
 ### Capítulo I. Disposiciones Generales
 
-###### Artículo 1º.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-La presente Ley tiene por objeto crear el Instituto Tecnológico del Estado de Jalisco, como organismo público descentralizado del Gobierno del Estado con personalidad jurídica y patrimonio propio, el cual tiene la finalidad de prestar el servicio de educación superior tecnológica en el Estado de Jalisco.
+###### Artículo 1°.
+
+La presente Ley tiene por objeto crear el Instituto Tecnológico José Mario Molina Pasquel y Henríquez como organismo público descentralizado del Gobierno del Estado de Jalisco, con personalidad jurídica y patrimonio propios, el cual tiene la finalidad de prestar el servicio de educación superior tecnológica en el Estado de Jalisco.
+
+Para fines de posicionamiento o de marca, el Instituto podrá usar indistintamente los nombres "Tecnológico Superior de Jalisco" o "Tecnológico Mario Molina".
 
 ###### Artículo 2º.
 
 El Instituto está sectorizado a la Secretaría de Innovación, Ciencia y Tecnología.
 
-###### Artículo 3º.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-En todo lo no previsto en la presente Ley, se estará a lo dispuesto por el Reglamento Interno del Instituto Tecnológico Mario Molina, sin perjuicio de los demás ordenamientos legales aplicables.
+###### Artículo 3°.
 
-###### Artículo 4º.
+En todo lo no previsto en la presente Ley, se estará a lo dispuesto por el Reglamento Interno del Instituto Tecnológico José Mario Molina Pasquel y Henríquez, sin perjuicio de los demás ordenamientos legales aplicables.
 
-La sede oficial y el domicilio del Instituto Tecnológico Mario Molina están en el área metropolitana de Guadalajara, conforme a las necesidades de desarrollo del Estado y en función de su disponibilidad presupuestal, dicho Instituto podrá establecer unidades académicas o extensiones en los municipios de Jalisco, así como representaciones en otras entidades de la República Mexicana o de otros países, atendiendo a los convenios que celebre con instituciones similares tanto mexicanas como extranjeras.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 4°.
+
+La sede oficial y el domicilio del Instituto se ubica en el Área Metropolitana de Guadalajara del Estado de Jalisco.
+
+Conforme a las necesidades de desarrollo del estado y en función de su disponibilidad presupuestal, el Instituto podrá establecer unidades académicas, extensiones, centros de educación a distancia, y centros regionales de formación e investigación en los municipios de Jalisco, así como representaciones en otras entidades de la República Mexicana o de otros países, atendiendo a los convenios que celebre con instituciones similares tanto mexicanas como extranjeras.
 
 ###### Artículo 5º.
 
@@ -69,15 +79,55 @@ II. Autoridad educativa estatal: la Secretaría de Innovación, Ciencia y Tecnol
 
 III. Director General: el titular del Instituto, representante legal y responsable de su administración y correcto funcionamiento;
 
-IV. Estudiante: aquella persona que, habiendo cumplido con los requisitos de admisión y de permanencia, se encuentren oficialmente inscritos en alguno de los programas educativos autorizados;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-V. Instituto: el Instituto Tecnológico José Mario Molina Pasquel y Henríquez o Instituto Tecnológico Mario Molina;
+IV. Alumno: Aquella persona que, habiendo cumplido con los requisitos de admisión y de permanencia, se encuentre oficialmente inscrito en alguno de los programas educativos autorizados;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+V. Instituto: el Instituto Tecnológico José Mario Molina Pasquel y Henríquez;
 
 VI. Junta de Gobierno: el órgano máximo de gobierno del Instituto;
 
-VII. Libertad académica: condición indispensable para la actualización del conocimiento, la cual supone que tanto en el proceso de enseñanza y aprendizaje como en los programas de investigación científica y tecnológica, se analizarán todas las corrientes de pensamiento y posturas ideológicas, epistemológicas y metodológicas, sin adoptar o imponer a sus integrantes una en particular. Será obligatorio que se cumpla cabalmente con los planes y programas de estudio, investigación y difusión elaborados en los términos y por los organismos que establece esta ley; y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-VIII. Sistema: el conjunto de Institutos Tecnológicos descentralizados del país, considerados en los Convenio Estado-Federación.
+VII. Libertad académica: condición indispensable para la actualización del conocimiento, la cual supone que, tanto en el proceso de enseñanza y aprendizaje como en los programas de investigación científica y tecnológica, se analizarán todas las corrientes de pensamiento y posturas ideológicas, epistemológicas y metodológicas, sin adoptar o imponer a sus integrantes una en particular. Será obligatorio que se cumpla cabalmente con los planes y programas de estudio, investigación y difusión elaborados en los términos y por los organismos que establece esta ley;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+VIII. Sistema: el conjunto de Institutos Tecnológicos descentralizados del país, considerados en los Convenio Estado-Federación;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+IX. Innovación educativa: es una forma de entender la gestión del conocimiento, que requiere del fomento de la capacidad creativa del aprendizaje;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+X. Ley: Ley Orgánica del Instituto Tecnológico José Mario Molina Pasquel y Henríquez;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XI. Reglamento Interno: el Reglamento Interno del Instituto Tecnológico José Mario Molina Pasquel y Henríquez;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XII. Vinculación: es el conjunto de estrategias y actividades sistemáticas que tienen como objeto articular al Instituto con otras instituciones mexicanas o extranjeras, ya sea del sector público o privado, a fin de planear concertar, financiar y desarrollar programas académicos, de investigación aplicada, transferencia de tecnología, difusión científica o extensión de los servicios del Instituto;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XIII. Unidad Académica: espacio administrado por el Instituto en el cual se pueden ofrecer cualquiera de los servicios que este brinde;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XIV. Extensión Académica: espacio académico administrado por la Dirección General del Instituto o alguna de sus Unidades Académicas, en los (sic) cuales pueden ofrecerse a la comunidad programas educativos en cualquiera de las modalidades educativas;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XV. Centro de Educación a Distancia: espacio académico dedicado a ofrecer a la comunidad programas educativos en la modalidad mixta o a distancia con mediación (sic) tecnología; y
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XVI. Centros Regionales de Formación e Investigación: espacios propios o en asociación con diversas organizaciones o entidades públicas en donde se desarrollan actividades de educación continua, de investigación, de transferencia de tecnología u otras, objeto del instituto.
 
 ###### Artículo 6º.
 
@@ -97,21 +147,51 @@ III. Extender los beneficios de la ciencia y de la tecnología hacia la sociedad
 
 IV. Promover entre los miembros de su comunidad académica una formación armónica y equilibrada;
 
-V. Participar en el proceso de creación, conservación, renovación y transmisión de la cultura de la ciencia y la tecnología; y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-VI. Los demás que señalen las leyes y reglamentos aplicables.
+V. Participar en el proceso de creación, conservación, renovación y transmisión de la cultura de la ciencia, la tecnología y la innovación;
 
-###### Artículo 8º.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2023)</small>
 
-Son fines del Instituto promover el bienestar de los habitantes del Estado de Jalisco, contribuir al desarrollo social, económico y cultural de la comunidad, así como la conservación y aprovechamiento sostenible de sus recursos naturales.
+VI. Impulsar las capacidades especializadas que requieren las cadenas productivas del ecosistema tecnológico; y
 
-El Instituto aplicará los principios de solidaridad, justicia y democracia entre todos los integrantes de su comunidad y en su relación con la sociedad.
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+VII. Los demás que señalen las leyes y reglamentos aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 8°.
+
+Son fines del Instituto:
+
+I. Promover el bienestar de los habitantes del estado de Jalisco;
+
+II. Contribuir al desarrollo social, económico, cultural y tecnológico de la comunidad;
+
+III. Promover la conservación y aprovechamiento sostenible de sus recursos naturales;
+
+IV. Aplicar los principios de solidaridad, justicia y democracia entre todos los integrantes de su comunidad y en su relación con la sociedad;
+
+V. Impulsar mediante su oferta y ampliación de la cobertura, la excelencia, equidad y pertinencia educativas;
+
+VI. Formar de manera integral profesionistas capacitados para responder a las necesidades productivas y sociales, en el marco de los valores humanos, que les permitan integrar los avances científicos y tecnológicos al desarrollo humano propio y de la sociedad;
+
+VII. Promover la investigación tecnológica y humanista para fortalecer el conocimiento;
+
+VIII. Establecer vinculación y convenios con aquellas instituciones con las que pueda ofrecer conjuntamente sus servicios, generando las condiciones de soporte tecnológico necesario;
+
+IX. Actualizar permanentemente a sus egresados y profesionales en el ámbito tecnológico, e
+
+X. Impulsar para la proyección de su actividad educativa, estrategias de participación y concertación con los sectores público, privado y social, con eficiencia y sentido social basada en las necesidades productivas de su área de influencia.
 
 ###### Artículo 9º.
 
 El Instituto tiene las siguientes atribuciones:
 
-I. Impartir educación científica y tecnológica de nivel licenciatura, maestría y doctorado, así como especialidades y diferentes modalidades de educación continua;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+I. Impartir educación superior tecnológica en todos sus niveles, modalidades y opciones educativas, así como las diferentes modalidades de educación continua y programas para el fortalecimiento a la innovación;
 
 II. Realizar investigación científica y tecnológica que atienda a las necesidades del desarrollo regional, estatal y nacional, que deberá además ser pertinente en concordancia con el estado del arte y de la técnica;
 
@@ -123,13 +203,65 @@ V. Impulsar la cultura de la innovación científica y tecnológica a través de
 
 VI. Desarrollar estudios, proyectos y programas en las áreas de su competencia que contribuyan a mejorar la productividad de las organizaciones públicas, privadas y sociales, así como elevar la calidad de vida;
 
-VII. Prestar servicios de asesoría, elaboración de proyectos, desarrollo de prototipos y capacitación técnica a los sectores público, social y privado;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-VIII. Organizar, fomentar y realizar programas y actividades relacionadas con la creación artística y extensión de los beneficios de la cultura que propicien el avance del conocimiento y el desarrollo;
+VII. Prestar servicios de consultoría y asesoría, elaboración de proyectos, desarrollo de prototipos, programas o actividades de transferencia tecnológica, capacitación general y capacitación técnica a los sectores público, social y privado;
 
-IX. Promover y fomentar la cultura de respeto y uso del sistema de propiedad intelectual, para la innovación y trasferencia de tecnología; y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-X. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+VIII. Organizar, fomentar y realizar programas y actividades relacionadas con la creación artística y extensión de los beneficios de la cultura que propicien el avance del conocimiento y el desarrollo. Así mismo, organizar y realizar programas y actividades relacionadas con el cuidado de la salud y el bienestar físico;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+IX. Promover y fomentar la cultura de respeto y uso del sistema de propiedad intelectual, para la innovación y trasferencia de tecnología;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+X. Desarrollar programas para la mejora y perfeccionamiento de los conocimientos, habilidades y competencias de su personal;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XI. Realizar actividades de internacionalización para el beneficio de toda su comunidad académica;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XII. Promover esquemas de becas y alternativas de financiamiento para permitir el acceso a la educación superior a personas en condiciones de vulnerabilidad y a personas con capacidades sobresalientes;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XIII. Expedir títulos, certificados, diplomas, reconocimientos, constancias, distinciones especiales y demás documentos inherentes a sus funciones;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XIV. Emitir opinión técnica para la revalidación y equivalencias de estudios realizados en otras instituciones educativas nacionales y extranjeras, de conformidad con la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XV. Administrar y acrecentar su patrimonio conforme a lo establecido en la Ley de Educación Superior del Estado de Jalisco y en esta Ley, expidiendo las disposiciones internas que lo regulen;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XVI. Impulsar y promover en el Sistema Educativo Estatal el uso y adopción de tecnologías de información y comunicación;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XVII. Realizar actividades que resulten en una efectiva vinculación con el sector empresarial;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XVIII. Realizar actividades para la actualización permanente de sus egresados y de los profesionales en el ámbito tecnológico;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XIX. Impulsar y fortalecer los programas de vinculación laboral y del talento especializado dentro del ecosistema de innovación, ciencia y tecnología;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XX. Desarrollar y mejorar una bolsa de trabajo innovadora para impulsar la inserción de sus alumnos y egresados en el mercado laboral; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XXI. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
 ### Capítulo III. De la Estructura y Organización
 
@@ -143,11 +275,21 @@ I. Junta de Gobierno;
 
 II. Dirección General;
 
-III. Órgano de Control; y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-IV. Unidades Académicas: campus, centros regionales de formación e investigación y extensiones.
+III. Órgano Interno de Control;
 
-La Junta de Gobierno podrá establecer consejos consultivos, como instancias de opinión y consulta en el ámbito de las atribuciones del Instituto.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+IV. Unidades Académicas, Extensiones Académicas, Centros de Educación a Distancia y Centros Regionales de Formación e Investigación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+V. La estructura administrativa, técnica y de operación que establezca su Reglamento Interno y la normatividad aplicable de conformidad con su presupuesto.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+La Junta de Gobierno, cuando lo considere necesario para apoyar el cumplimiento del objeto del Instituto, podrá establecer, patronatos, consejos consultivos y demás cuerpos colegiados como instancias de apoyo, opinión y consulta, y emitirá los reglamentos correspondientes para su operación.
 
 #### Sección Segunda. De la Junta de Gobierno
 
@@ -169,7 +311,9 @@ a) Secretaría de la Hacienda Pública;
 
 b) Secretaría de Desarrollo Económico;
 
-c) El área competente en materia de educación superior de la Secretaría de Innovación, Ciencia y Tecnología;
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+c) La persona titular de la Subsecretaría de Educación Superior de la Secretaría de Innovación, Ciencia y Tecnología;
 
 d) Dos representaciones del Poder Ejecutivo Federal, designados por la Secretaría de Educación Pública;
 
@@ -187,53 +331,87 @@ Asistirán a las sesiones de la Junta de Gobierno con voz, pero sin voto:
 
 a) El Director General del Instituto; y
 
-b) El Comisario que será el representante de la Contraloría del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+b) La persona titular del Órgano Interno de Control.
 
 El cargo de miembro de la Junta de Gobierno es honorífico y, por lo tanto, no será remunerado.
 
-Los miembros de la Junta de Gobierno no podrán ser designados en otros cargos de dirección dentro del Instituto sino hasta que hayan transcurrido, como mínimo, dos años de su separación de la misma.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 12.
 
-Todos los miembros de la Junta de Gobierno asistirán a las sesiones con derecho a voz y voto, salvo el Secretario Técnico quien sólo tendrá derecho a voz. El Comisario Público concurrirá a dichas sesiones únicamente con derecho a voz.
+Todos los miembros de la Junta de Gobierno asistirán a las sesiones con derecho a voz y voto, salvo las personas titulares de la Secretaría Técnica, la Dirección General del Instituto y del Órgano Interno de Control, quienes concurrirán a dichas sesiones únicamente con derecho a voz.
 
-En caso de ausencia del Presidente a alguna sesión de la Junta de Gobierno, el Secretario de Innovación, Ciencia y Tecnología, presidirá la sesión en los términos de la presente Ley.
+En caso de empate la persona que preside tendrá voto de calidad.
 
-Los miembros titulares podrán designar a sus suplentes, quienes tendrán las mismas prerrogativas que el propietario. El suplente del Secretario de Innovación, Ciencia y Tecnología no podrá suplir las ausencias del Presidente de la Junta de Gobierno, sino mediante acuerdo del Gobernador del Estado.
+En caso de ausencia del Presidente a alguna sesión de la Junta de Gobierno, presidirá la sesión la persona titular de la Subsecretaría de Educación Superior de la Secretaría de Innovación, Ciencia y Tecnología, o quien el Presidente designe en caso de ausencia de ambos.
+
+Los miembros titulares podrán designar únicamente a una persona como suplente, quienes tendrán las mismas prerrogativas que el propietario.
+
+Los suplentes a que se hace referencia en el párrafo anterior, no podrán a su vez nombrar suplentes, es decir, no podrán delegar dicha representación por ningún motivo.
 
 ###### Artículo 13.
 
 La Junta de Gobierno tendrá las atribuciones siguientes:
 
-I. Determinar las políticas y lineamientos generales para el debido funcionamiento de la institución;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-II. Aprobar los reglamentos, estatutos, acuerdos y demás disposiciones necesarias para hacer efectivas las atribuciones que esta ley le confiere al Instituto;
+I. Determinar y aprobar las políticas y lineamientos generales para el debido funcionamiento del instituto; así como los instrumentos de planeación correspondientes, y demás normatividad aplicable;
 
-III. Conocer, discutir, aprobar y, en su caso, proponer a la autoridad educativa federal los programas educativos y proyectos académicos que se sometan a su consideración;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-IV. Aprobar las políticas, bases y lineamientos generales para la contratación de servicios, adquisiciones, arrendamientos y otros rubros similares, conforme a la ley;
+II. Aprobar el Reglamento Interno, otros reglamentos, estatutos, acuerdos y demás disposiciones necesarias para hacer efectivas las atribuciones que esta ley le confiere al Instituto;
 
-V. Aprobar la creación de unidades académicas y representaciones del Instituto;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-VI. Crear los órganos colegiados, comisiones académicas, administrativas y de planeación, las cuales funcionarán como órganos auxiliares de la Junta de Gobierno, para el estudio o trámite de los asuntos que les sean encomendados, mismas que estarán integradas con personal del Instituto;
+III. Conocer, discutir, aprobar y, en su caso, proponer a la autoridad educativa federal o autoridad educativa estatal los programas educativos y proyectos académicos que se sometan a su consideración;
 
-VII. Crear los Consejos Consultivos Regionales compuestos por miembros destacados de la comunidad académica, así como de representantes de los sectores público, privado y social para que emitan opiniones que favorezcan el vocacionamiento regional en las unidades académicas;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-VIII. Examinar, discutir y, en su caso, aprobar el anteproyecto del presupuesto anual de ingresos y el correspondiente a egresos, sus adecuaciones, organigrama y su plantilla de personal y el clasificador por objeto del gasto;
+IV. Aprobar las políticas, bases y lineamientos generales para la contratación de servicios, adquisiciones, arrendamientos y operaciones afines, conforme a lo establecido por las leyes aplicables al caso concreto;
 
-IX. Aprobar anualmente, previo informe del Órgano de Control, los dictámenes de las auditorías practicadas, los estados financieros del organismo y autorizar la publicación de los mismos;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-X. Conocer y, en su caso, aprobar los informes que deberá presentar el Director General del Instituto;
+V. Aprobar, vía Reglamento Interno, la creación de unidades académicas del Instituto;
 
-XI. Proponer a las autoridades competentes, la apertura, modificación o cierre de programas académicos en sus distintos niveles y modalidades;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-XII. Revalidar y otorgar equivalencias de estudios de conformidad con lo establecido por las Autoridades Educativas, así como por el Sistema, procurando facilitar el tránsito de los estudiantes inscritos en instituciones de este tipo;
+VI. Crear, modificar y en su caso extinguir los órganos colegiados, comisiones académicas, administrativas y de planeación, las cuales funcionarán como órganos auxiliares de la Junta de Gobierno, para el estudio o trámite de los asuntos que les sean encomendados, mismas que estarán integradas con personal del Instituto;
 
-XIII. Aprobar la suscripción de los actos jurídicos a nombre del organismo, que afecten su patrimonio inmobiliario, constituyan deuda o trasciendan el periodo constitucional del Gobernador del Estado en turno, sin perjuicio de la autorización que corresponda al Congreso del Estado, en su caso;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+VII. Crear, modificar y en su caso extinguir los Consejos Consultivos Regionales que se integrarán por miembros destacados de la comunidad académica, así como de representantes de los sectores público, privado y social con la finalidad de que emitan opiniones que contribuyan a favorecer el vocacionamiento regional en las unidades académicas;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+VIII. Examinar, discutir y, en su caso, aprobar el anteproyecto del presupuesto anual de ingresos y egresos del Instituto, así como su presupuesto anual de operación, sus adecuaciones, su organigrama, su plantilla de personal, su programa anual de adquisiciones y el clasificador por objeto del gasto;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+IX. Aprobar anualmente, previo informe del Órgano Interno de Control, los dictámenes de las auditorías practicadas, los estados financieros del Instituto y autorizar y ordenar la publicación de los mismos;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+X. Conocer y, en su caso, aprobar los informes que deberá presentar el Director General del Instituto, así como la matriz de Indicadores de Resultados y evaluar el cumplimiento de resultados y avances en sus objetivos;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XI. Aprobar las gestiones necesarias para la apertura o en su caso, el cierre de programas académicos en sus distintos niveles, modalidades y opciones;
+
+XII. (DEROGADA, P.O. 7 DE OCTUBRE DE 2023)
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XIII. Aprobar la suscripción de los actos jurídicos a nombre del Instituto que afecten su patrimonio inmobiliario, constituyan deuda o trasciendan el periodo constitucional del Gobernador del Estado en turno, sin perjuicio de la autorización que corresponda al Congreso del Estado, en su caso;
 
 XIV. Conocer el informe que rinda el Director General sobre la celebración de los contratos y convenios de los que el Instituto sea parte;
 
-XV. Autorizar las licencias que solicite el Director General del Instituto y, en su caso, nombrar al interino;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XV. Autorizar las licencias que solicite el Director General del Instituto, y en su caso nombrar un Director General Interino para este periodo;
 
 XVI. Designar a los integrantes del patronato del Instituto;
 
@@ -241,19 +419,53 @@ XVII. Designar y remover, a propuesta del Director General, a los Directores de 
 
 XVIII. Establecer las aportaciones de cooperación y recuperación por los proyectos y contratos que celebre el Instituto con organismos públicos, sociales y privados;
 
-XIX. Establecer un programa de becas para alumnos de escasos recursos, así como un programa (sic) otros estímulos al desempeño académico, deportivo y artístico con arreglo a la normatividad aplicable;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-XX. Establecer un programa de promoción académica, en base al desempeño de investigación científica tecnológica, ligados a los resultados en generación de Propiedad Intelectual y transferencia de tecnología; y
+XIX. Establecer a propuesta del Director General, un programa de becas para alumnos de escasos recursos, así como un programa (sic) otros estímulos al desempeño académico, deportivo y artístico para los alumnos, conforme a la normatividad aplicable;
 
-XXI. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XX. Establecer un programa de promoción académica con base al desempeño de investigación científica y tecnológica aplicada, ligado a los resultados de generación de propiedad intelectual y transferencia de tecnología en beneficio del Instituto.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XXI. Conocer y, en su caso, aprobar el Plan General de Desarrollo del Instituto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XXII. Estudiar, y en su caso, aprobar la introducción de los sistemas de gestión que le presente el Director General;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XXIII. Analizar y en su caso aprobar las propuestas formuladas por el Director General para otorgar distinciones, grados honoríficos y reconocimientos a las personalidades que, por sus aportaciones al desarrollo de la educación y la competitividad del Estado y al Instituto; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XXIV. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 14.
 
-Las sesiones de la Junta de Gobierno son ordinarias y extraordinarias. La Junta de Gobierno sesionará ordinariamente tres veces por año y de forma extraordinaria cuantas veces sea necesario.
+Las sesiones de la Junta de Gobierno son ordinarias y extraordinarias. La Junta de Gobierno sesionará ordinariamente, al menos cuatro veces por año y de forma extraordinaria cuantas veces sea necesario.
+
+La Junta de Gobierno podrá sesionar válidamente a distancia por video conferencia y/o con algunos de sus miembros de los (sic) Junta de Gobierno de forma presencial, se realizará empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología, que permita, por lo menos:
+
+a) La identificación visual plena de sus integrantes;
+
+b) La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+c) Dejar registro audiovisual de la sesión, votaciones y sus acuerdos; y
+
+d) En las sesiones en que la totalidad de los participantes sea empleando medios telemáticos, el registro de asistencia y votaciones será nominalmente.
+
+En las sesiones a distancia, el Instituto deberá garantizar que la herramienta digital implementada cuente con la debida seguridad en el desarrollo de la sesión no presencial, a fin de evitar cualquier intervención externa que ponga en riesgo la transmisión o difusión de la sesión o de su contenido.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 15.
 
-La Junta de Gobierno funciona en pleno y sesionará válidamente con la asistencia de cinco de sus integrantes, entre los cuales se deberá encontrar invariablemente el Presidente de la Junta de Gobierno o quien haga sus veces.
+La Junta de Gobierno funcionará en pleno y sesionará válidamente con la asistencia de la mitad más uno de sus integrantes, entre los cuales se deberá encontrar invariablemente el Presidente de la Junta de Gobierno o quien haga sus veces.
 
 ###### Artículo 16.
 
@@ -263,11 +475,21 @@ Las resoluciones se tomarán por mayoría simple de sus miembros presentes, es d
 
 La convocatoria a las sesiones ordinarias se realizará con un mínimo de diez días de anticipación, y a las sesiones extraordinarias se realizará, por lo menos, con veinticuatro horas de antelación.
 
-Cuando no se integre el quórum, se emitirá una segunda convocatoria para llevar a cabo la sesión en un plazo máximo de tres días hábiles siguientes a la fecha en que no se llevó a cabo la primera reunión. En segunda convocatoria, el quórum legal se establecerá con los integrantes de la Junta que asistan a la sesión.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-La convocatoria a las sesiones de la Junta de Gobierno se realizará a través de su Secretaría Técnica a petición del Presidente. En la convocatoria se deberá señalar el lugar, la fecha, la hora, el tipo de sesión y el orden del día. Asimismo, la convocatoria deberá acompañarse de los documentos necesarios para análisis y comprensión de los temas a tratar en la sesión.
+Cuando no se integre el quórum legal para las sesiones ordinarias, se emitirá una segunda convocatoria para llevar a cabo la sesión en un plazo máximo de tres días hábiles siguientes a la fecha en que no se llevó a cabo la sesión. En segunda convocatoria, el quórum legal se establecerá con los integrantes de la Junta que asistan a la sesión.
 
-Se podrán emplear, por acuerdo de la Junta de Gobierno, plataformas electrónicas y medios digitales para correr traslado de los asuntos a sus miembros, incluyendo la notificación de las convocatorias a las sesiones.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+Cuando no se integre el quórum legal para las sesiones extraordinarias, se emitirá una segunda convocatoria para llevar a cabo la sesión en un plazo máximo de ocho horas siguientes. En segunda convocatoria, el quórum legal se establecerá con los integrantes de la Junta que asistan a la sesión.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+La convocatoria a las sesiones de la Junta de Gobierno se realizará por el Presidente de ésta o a través de su Secretaría Técnica a petición del Presidente de la Junta de Gobierno. En la convocatoria se deberá señalar el lugar, la fecha, la hora, el tipo de sesión y el orden del día. Asimismo, la convocatoria deberá acompañarse de los documentos y en su caso los archivos necesarios para el análisis y comprensión de los temas a tratar en la sesión.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+Se podrán emplear plataformas electrónicas y medios digitales para correr traslado de los asuntos a sus miembros, incluyendo la notificación de las convocatorias a las sesiones.
 
 ###### Artículo 18.
 
@@ -275,47 +497,25 @@ El funcionamiento de la Junta de Gobierno y de sus sesiones se establecerá con 
 
 #### Sección Tercera. Del Órgano de Control
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 19.
 
-El Órgano de Control del Instituto es responsable de vigilar el manejo y la aplicación de los recursos públicos, así como evaluar tanto su desempeño general como el de sus funciones en particular. El órgano se integra por un Comisario Público titular y su suplente, mismos que son designados por el Contralor del Estado.
+El Instituto tendrá un órgano interno de control en términos de lo dispuesto por la Ley de Entidades Paraestatales del Estado de Jalisco, el cual deberá contar con oficinas en las instalaciones del mismo.
 
-El Órgano de Control depende administrativamente del Director General, pero gozará de autonomía en el ejercicio de sus atribuciones.
+El funcionamiento y atribuciones del órgano interno de control del Instituto, se sujetará a las disposiciones que determine la Contraloría del Estado.
 
 ###### Artículo 20.
 
-Para la realización de su encargo, el Órgano de Control tiene las siguientes atribuciones:
-
-I. Vigilar la administración y utilización del patrimonio del Instituto, así como los recursos ordinarios y extraordinarios que por cualquier título obtenga este organismo;
-
-II. Dictaminar y opinar tanto sobre el desempeño administrativo como sobre los asuntos de carácter patrimonial y financiero del Instituto;
-
-III. Formular y ordenar la realización del programa de auditorías permanentes y específicas a las distintas instancias del Instituto;
-
-IV. Vigilar la actualización del registro del patrimonio del Instituto, así como de los expedientes correspondientes a los bienes que obren en dicho registro;
-
-V. Promover el mejoramiento de la gestión del Instituto, a través de la evaluación tanto del desempeño como de los sistemas y procedimientos de control;
-
-VI. Presentar a la Junta de Gobierno y al Director General los informes resultantes de las auditorías y evaluaciones realizados; y
-
-VII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+(DEROGADO, P.O. 7 DE OCTUBRE DE 2023)
 
 ###### Artículo 21.
 
-Las evaluaciones y auditorías que realice el Órgano de Control se realizarán conforme a los métodos y lineamientos establecidos por órganos y autoridades competentes.
-
-La Junta de Gobierno, el Director General y las demás áreas del Instituto deberán proporcionar la información que les soliciten los comisarios y facilitar las diligencias de inspección y vigilancia que se realicen.
+(DEROGADO, P.O. 7 DE OCTUBRE DE 2023)
 
 ###### Artículo 22.
 
-Para ser Comisario Público titular o suplente, además de los requisitos establecidos en la Ley, se requiere cumplir con los siguientes:
-
-I. Contar, por lo menos, con título de licenciatura en carreras afines a Contabilidad, Finanzas o Derecho;
-
-II. Acreditar experiencia profesional en el área de Contabilidad, Finanzas o Derecho;
-
-III. No ser miembro de la Junta de Gobierno del Instituto ni ser empleado adscrito al mismo en el momento de la designación. Los miembros de la Junta de Gobierno y los directivos del Instituto no podrán ser designados Comisario Público titular o suplente sino hasta que hayan transcurrido, como mínimo, dos años de su separación del cargo que ostentaron en el Instituto; y
-
-IV. Ser persona de amplia solvencia moral y de buena fama profesional.
+(DEROGADO, P.O. 7 DE OCTUBRE DE 2023)
 
 #### Sección Cuarta. De la Dirección General
 
@@ -333,29 +533,47 @@ Para ser Director General se requiere cumplir con los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Ser mayor de treinta y menor de setenta años;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-III. Contar, por lo menos, con el grado de maestría con experiencia directiva, docente o en la administración de instituciones de educación superior de cuando menos cinco años;
+II. Contar con cuando menos treinta años cumplidos al momento de su designación;
 
-IV. No ser miembro de la Junta de Gobierno al momento de su designación; y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-V. Ser persona de amplia solvencia moral y de buena fama profesional.
+III. Contar, por lo menos, con el grado de maestría en alguna área relacionada con la ciencia y la tecnología y con al menos cinco años de experiencia directiva y docente en instituciones de educación superior tecnológicas;
+
+IV. (DEROGADA, P.O. 7 DE OCTUBRE DE 2023)
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+V. Ser persona de amplia solvencia moral y contar con amplio prestigio profesional y académico.
 
 ###### Artículo 26.
 
 Para el desempeño de su encomienda, el Director General tendrá las atribuciones siguientes:
 
-I. Orientar y dirigir la operación del Instituto hacia el cumplimiento de sus objetivos, planes y programas académicos, administrativos y financieros, así como promover la adecuada administración de las diferentes unidades académicas y administrativas internas;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-II. Asistir y participar en las sesiones de la Junta de Gobierno en su carácter de Secretario Técnico, con derecho a voz;
+I. Orientar y dirigir la operación del Instituto hacia el cumplimiento de sus fines, objetivos, planes y programas académicos, administrativos y financieros, así como promover la adecuada administración de las diferentes unidades y extensiones académicas, centros de educación a distancia, y centros regionales de formación e investigación y unidades administrativas internas;
 
-III. Proponer a la Junta de Gobierno los proyectos de planes de desarrollo, programas operativos y aquellos de carácter especial que sean necesarios para el cumplimiento de los fines, objetivos y programas del Instituto;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-IV. Proponer a la Junta de Gobierno los proyectos de reglamentos, manuales de organización, modificaciones de estructuras orgánicas y funcionales para su aprobación;
+II. Asistir y participar en las sesiones de la Junta de Gobierno, con derecho a voz;
 
-V. Presentar a la Junta de Gobierno para su evaluación y aprobación, el anteproyecto del presupuesto anual de ingresos y egresos del Instituto, su plantilla de personal y el clasificador por objeto del gasto;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-VI. Presentar cuatrimestralmente a la Junta de Gobierno, un informe de los estados financieros, del avance programático presupuestal, del cumplimiento de los acuerdos tomados en sesiones anteriores y de los avances de los programas de inversión; así como de las actividades desarrolladas por el Instituto para su discusión y, en su caso, aprobación;
+III. Proponer a la Junta de Gobierno para su aprobación los proyectos de planes de desarrollo, programas operativos y aquellos de carácter especial que sean necesarios para el cumplimiento de los fines, objetivos y programas del Instituto;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+IV. Proponer a la Junta de Gobierno los proyectos de reglamentos, políticas de aplicación general, manuales de organización, modificaciones de estructuras orgánicas y funcionales para su aprobación;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+V. Presentar a la Junta de Gobierno para su evaluación y aprobación, el anteproyecto del presupuesto anual de ingresos y egresos del Instituto, así como su presupuesto anual de operación, su plantilla de personal, su programa anual de adquisiciones y el clasificador por objeto del gasto, así como sus modificaciones y adecuaciones correspondientes;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+VI. Presentar trimestralmente a la Junta de Gobierno, un informe de los estados financieros, del avance programático presupuestal, del cumplimiento de los acuerdos tomados en sesiones anteriores y de los avances de los programas de inversión; así como de las actividades desarrolladas por el Instituto para su discusión y, en su caso, aprobación;
 
 VII. Establecer, controlar y actualizar el registro del patrimonio del Instituto, así como mantener actualizados los expedientes correspondientes a los bienes que obren en dicho registro;
 
@@ -363,43 +581,69 @@ VIII. Someter a la aprobación de la Junta de Gobierno, el informe anual de acti
 
 IX. Representar legalmente al Instituto, ante las autoridades administrativas, judiciales y del trabajo, con todas las facultades generales y las especiales que requieran cláusula especial conforme a la ley. Estará investido de poder general para pleitos, cobranzas y para actos de administración; podrá, a su vez, otorgar poderes generales o especiales para pleitos y cobranzas y revocarlos;
 
-X. Celebrar convenios, contratos y acuerdos con dependencias o entidades de la administración pública federal, estatal o municipal, con organismos del sector social y privado, nacional y extranjero, así como con personas físicas o jurídicas, para la ejecución de las acciones en materia de política educativa, sujetándose a las reglas generales que para tal efecto fije la Junta de Gobierno y las disposiciones legales aplicables;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE OCTUBRE DE 2023)</small>
 
-XI. Nombrar, promover y remover a los servidores del Instituto, así como a su personal académico y administrativo, con excepción de los que sean facultad de la Junta de Gobierno;
+Del mismo modo tendrá la facultad de certificar documentos que obren en los archivos del Instituto en original, facultad que podrá ser delegada en uno o varios de los servidores públicos adscritos a la Dirección General, así como de sus Unidades Académicas;
 
-XII. Establecer los programas de capacitación necesarios para elevar el nivel académico y profesional del personal, directivo, académico y administrativo;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-XIII. Proponer a la Junta de Gobierno el monto de las aportaciones de cooperación y recuperación por los proyectos y contratos que celebre con organismos públicos, sociales y privados;
+X. Celebrar los convenios, contratos y acuerdos necesarios con otras instituciones estatales, nacionales o internacionales para el cumplimiento del objeto y fines del Instituto, sujetándose a las reglas generales que para tal efecto fije la Junta de Gobierno y las disposiciones legales aplicables;
 
-XIV. Ejecutar conjuntamente con las autoridades competentes, los planes y programas de estudios que se impartan en los grados académicos y modalidades que ofrezca el Instituto;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-XV. Proponer a la autoridad educativa competente, previa aprobación de la Junta de Gobierno, las actualizaciones que, en su opinión, deban hacerse al nivel educativo, planes y programas de estudio;
+XI. Nombrar, promover y remover a los servidores públicos del Instituto, así como a su personal académico y administrativo, conforme a las disposiciones legales y reglamentarias aplicables, con excepción de los que sean facultad de la Junta de Gobierno;
 
-XVI. Proponer a la Junta de Gobierno los requisitos y procedimientos de selección, de ingreso y permanencia de los alumnos y del personal académico del Instituto;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-XVII. Proponer a la Junta de Gobierno los requisitos y procedimientos del programa de promoción académica, en base al desempeño de investigación científica tecnológica, ligados a los resultados en generación de propiedad intelectual y transferencia de tecnología;
+XII. Establecer los programas de capacitación necesarios para elevar el nivel académico y profesional del personal, directivo, académico y administrativo, conforme a las disposiciones legales y reglamentarias aplicables;
 
-XVIII. Impulsar estrategias de participación y concertación con los sectores público, privado y social, para la realización de actividades productivas con un alto nivel de eficacia y sentido social;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XIII. Proponer a la Junta de Gobierno para su aprobación las políticas, tabuladores y demás instrumentos necesarios para celebrar convenios con organismos públicos, sociales y privados para la generación de ingresos propios;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XIV. Establecer los mecanismos de evaluación periódica del desempeño académico y profesional del personal del Instituto;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XV. Proponer a la autoridad educativa competente, previa aprobación de la Junta de Gobierno, la creación de nuevos programas educativos o la supresión de programas educativos, conforme a la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XVI. Proponer a la Junta de Gobierno, para su aprobación, los requisitos y procedimientos de selección, de ingreso, permanencia y egreso de los alumnos, conforme a la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XVII. Asegurar que los planes y programas de estudios que se impartan en el Instituto, cumplan con la malla curricular y modalidades aprobadas por la Autoridad Educativa Federal;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XVIII. Establecer contratos y convenios con organismos públicos y privados para la generación de ingresos propios;
 
 XIX. Administrar el patrimonio del Instituto con sujeción al marco legal; y
 
 XX. Las demás que le otorguen los ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 27.
 
-Para el desempeño de sus funciones, la Dirección General tendrá las unidades administrativas de apoyo siguientes:
+Para el desempeño de sus funciones, la Dirección General tendrá las unidades administrativas y direcciones de apoyo que se establezcan en su Reglamento Interno, de acuerdo a su presupuesto de egresos.
 
-I. Dirección Académica;
+I. (DEROGADA, P.O. 7 DE OCTUBRE DE 2023)
 
-II. Dirección de Administración y Finanzas;
+II. (DEROGADA, P.O. 7 DE OCTUBRE DE 2023)
 
-III. Dirección de Vinculación Productiva; y
+III. (DEROGADA, P.O. 7 DE OCTUBRE DE 2023)
 
-IV. Las demás que se autoricen en el presupuesto de egresos.
+IV. (DEROGADA, P.O. 7 DE OCTUBRE DE 2023)
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 28.
 
-El Reglamento Interno del Instituto y sus manuales administrativos precisarán las responsabilidades, atribuciones y la participación en los procesos de las unidades administrativas señaladas en el artículo anterior.
+El Reglamento Interno del Instituto y sus manuales administrativos precisarán las responsabilidades, atribuciones y la participación en los procesos de sus unidades administrativas.
 
 #### Sección Quinta. De las Unidades Académicas
 
@@ -407,7 +651,9 @@ El Reglamento Interno del Instituto y sus manuales administrativos precisarán l
 
 Las Unidades Académicas son los planteles educativos distribuidos en el territorio del Estado de Jalisco, a través de los cuales el Instituto realiza sus actividades y cumple con su objeto y fines sociales.
 
-Al frente de cada Unidad Académica estará un Director que depende orgánicamente del Director General y que será su representante ante las autoridades, la comunidad académica, los estudiantes y la sociedad de la región en la que tenga su sede.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+Al frente de cada Unidad Académica estará un Director que depende orgánicamente del Director General y que será su representante ante las autoridades, la comunidad académica, los alumnos y la sociedad de la región en la que tenga su sede.
 
 ###### Artículo 30.
 
@@ -459,13 +705,17 @@ El Reglamento Interno del Instituto, así como sus manuales administrativos resp
 
 ### Capítulo I. De los Programas Educativos
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 35.
 
-Los estudios que imparte el Instituto comprenden programas educativos de licenciatura y posgrado, así como las demás modalidades que integren el nivel de educación superior tecnológica.
+Los estudios que imparte el Instituto comprenden programas educativos de licenciatura y posgrado, así como las demás modalidades que integren el nivel de educación superior tecnológica y demás referidas en la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 36.
 
-El Instituto podrá ofrecer también cursos de extensión académica, de lenguas extranjeras, de verano, así como cualquier otro tipo de modalidad que no tenga por objeto la obtención de un título profesional o un grado académico, durante los periodos ordinarios y extraordinarios, de acuerdo con el calendario oficial.
+El Instituto podrá ofrecer también cursos de extensión académica, de lenguas extranjeras, de verano o de invierno, así como cualquier otro tipo de modalidad que no tenga por objeto la obtención de un título profesional o un grado académico, durante los periodos ordinarios y extraordinarios, de acuerdo con el calendario oficial.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
@@ -499,13 +749,17 @@ Los estudios de maestría suponen la actualización teórica de los estudiantes 
 
 El doctorado es el grado académico más alto que otorga el Instituto y tiene como finalidad preparar profesionistas para el ejercicio de la docencia, la realización de investigaciones científicas, así como la producción y actualización del conocimiento.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 42.
 
-A los estudiantes que cursen y acrediten íntegramente los planes y programas de estudio que ofrece el Instituto y cumplan con los requisitos para su titulación, se les extenderá la acreditación o título correspondiente, de conformidad con la normatividad de la materia.
+A los alumnos que cursen y acrediten íntegramente los planes y programas de estudio que ofrece el Instituto y cumplan con los requisitos para su titulación, se les extenderá la acreditación, título o grado correspondiente, de conformidad con la normatividad de la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 43.
 
-El Instituto podrá impartir cursos de actualización, capacitación, nivelación, de extensión académica y de educación continua, entre otros. Estos cursos no forman parte de los programas educativos del Instituto y no serán reconocidos con un título profesional o con un grado académico.
+El Instituto podrá impartir cursos de idiomas, formación para la vida, actualización, capacitación, nivelación, de extensión académica y de educación continua, entre otros. Estos cursos no forman parte de los programas educativos del Instituto y no serán reconocidos con un título profesional o con un grado académico.
 
 El Instituto otorgará la constancia o el diploma correspondiente a quienes acrediten su participación y cumplan con los requisitos que establezca su convocatoria.
 
@@ -515,27 +769,39 @@ El reconocimiento y la revalidación de estudios en los títulos, grados y calid
 
 ### Capítulo II. De la Infraestructura y Servicios de Apoyo
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 45.
 
-El Instituto contará con infraestructura y servicios de apoyo para sus funciones sustantivas. La infraestructura y los servicios de apoyo serán los siguientes:
+El Instituto contará con infraestructura y servicios de apoyo para sus funciones sustantivas. La infraestructura y los servicios de apoyo podrán ser entre otros los siguientes:
 
-I. Biblioteca y Centro de Documentación, que se encargará del servicio de préstamo de libros, acceso a bases de datos y otros recursos;
+I. Aulas;
 
-II. Laboratorios y talleres con equipamiento;
+II. Oficinas;
 
-III. Salas de trabajo;
+III. Bibliotecas y Centros de Documentación, que se encargarán del servicio de préstamo de libros, acceso a bases de datos y otros recursos;
 
-IV. Plataformas digitales y servicios de cómputo;
+IV. Laboratorios y talleres con equipamiento;
 
-V. Un programa de enseñanza de idiomas;
+V. Salas de trabajo;
 
-VI. Instalaciones y servicios deportivos; y
+VI. Baños dignos;
 
-VII. Las demás que establezca la Junta de Gobierno.
+VII. Conectividad digital;
+
+VIII. Plataformas digitales y servicios de cómputo;
+
+IX. Cafeterías, áreas verdes y áreas de convivencia;
+
+X. Instalaciones y servicios deportivos; y
+
+XI. Las demás que establezca la Junta de Gobierno, o que apruebe y que cuenten con el financiamiento suficiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 46.
 
-Los servicios de apoyo que ofrece el Instituto a sus estudiantes, egresados, personal académico y administrativo, podrán extenderse al público en general, con arreglo a esta Ley y al Reglamento que para el efecto expida la Junta de Gobierno.
+Los servicios de apoyo que ofrece el Instituto a sus alumnos, egresados, personal académico y administrativo, podrán extenderse al público en general, con arreglo a esta Ley y al Reglamento que para el efecto expida la Junta de Gobierno.
 
 Los particulares ajenos al Instituto que soliciten los servicios descritos en el artículo anterior deberán cubrir los derechos de uso que determine la Junta de Gobierno.
 
@@ -663,7 +929,9 @@ I. Los bienes muebles e inmuebles, los archivos escolares académicos y administ
 
 II. Los ingresos que obtenga por los servicios que preste en el cumplimiento de su objeto, los cuales serán administrados por el Instituto, de conformidad a su presupuesto de egresos;
 
-III. Las aportaciones, subsidios y apoyos que le otorguen los gobiernos federal, estatal y municipal, así como los organismos del sector social o privado que coadyuven a su funcionamiento;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+III. Los recursos presupuestales que en su favor se establezcan, las aportaciones, subsidios y apoyos que le otorguen los gobiernos federal, estatal y municipal, así como los organismos del sector social o privado que coadyuven a su funcionamiento;
 
 IV. Los legados y donaciones otorgados en su favor y los fideicomisos en que se le señale como fideicomisaria;
 
@@ -677,15 +945,11 @@ VII. Los demás ingresos que por cualquier otro título legal ingresen al patrim
 
 Los ingresos que genere el Instituto por la realización de actividades ligadas a desarrollo de proyectos científicos tecnológicos, prestación de servicios, asesoría y capacitación técnica se consideran recursos autogenerados, los cuales se destinarán primeramente a gastos operativos realizados para la consecución del mismo, equipamiento de la institución, así como para el pago de honorarios y servicios profesionales de las personas que participaron y se estipularon en los términos del contrato. Se deberá contemplar en todo contrato a que se refiere este artículo el porcentaje que se destinará a la Institución por uso de instalaciones.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 66.
 
-Los ingresos propios que genere el Instituto conforme al artículo anterior, se destinarán a los rubros que a continuación se indican y en el orden en que para tal efecto se enlistan:
-
-I. Equipamiento y sustitución de equipo obsoleto del Instituto;
-
-II. Proyectos de investigación y capacitación del personal del instituto; o
-
-III. Gastos de operación y mantenimiento del Instituto y sus Unidades Académicas.
+Los ingresos propios que genere el Instituto conforme al artículo anterior, se regirán conforme a lo establecido por la Ley de Educación Superior de Jalisco y lo especificado en el reglamento de ingresos propios del Instituto.
 
 ###### Artículo 67.
 
@@ -695,9 +959,11 @@ En caso de explotación de la propiedad intelectual los inventores, creadores o 
 
 La Junta de Gobierno deberá autorizar el reglamento que contenga los lineamientos a que se refiere la materia contenida en los artículos 65 y 67 de esta ley, así como aquellos que por su naturaleza deban incluirse para su armonización, equilibrio y beneficio de toda la comunidad académica y personal del Instituto.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 68.
 
-Los bienes inmuebles propiedad del Instituto sólo podrán ser enajenados, previa autorización del Congreso del Estado.
+Los bienes inmuebles que forman parte del patrimonio del Instituto son inalienables, inembargables e imprescriptibles, por lo que en ningún caso podrá constituirse gravamen sobre ellos y sólo podrán ser enajenados, previa autorización del Congreso del Estado.
 
 ### Capítulo II. Del Patronato del Instituto
 
@@ -742,6 +1008,56 @@ II. Gozar de buena fama pública y reconocido prestigio personal;
 III. No haber sido condenado por delito doloso; y
 
 IV. No estar inhabilitado para ejercer la función pública.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+### Capítulo III. Órganos Colegiados y auxiliares
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 72.
+
+Podrán establecerse diferentes Órganos Colegiados académicos y administrativos, entre los cuales se pueden enumerar los siguientes:
+
+I. Académicos:
+
+a) Comité Académico;
+
+b) Comité para el Reglamento de Ingreso, Permanencia y Promoción del Personal Académico;
+
+c) Comité de Revalidación y Equivalencia de Estudios;
+
+d) Comité Institucional de Tutorías; y
+
+e) Los demás que determine el Director General.
+
+II. Administrativos:
+
+a) Comisión de Escalafón;
+
+b) Comité de Ética, Conducta y Prevención de Conflictos de Interés;
+
+c) Comisión de Disciplina;
+
+d) Comité de Control Interno Institucional;
+
+e) Grupo Interdisciplinario de Archivo;
+
+f) Comité de Transparencia;
+
+g) Comisión Mixta de Capacitación y Adiestramiento;
+
+h) Unidad de Igualdad de Género;
+
+i) Comisión Mixta de Seguridad e Higiene; y
+
+j) Los demás que determine la Junta de Gobierno.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 73.
+
+Cada Órgano Colegiado deberá tener la estructura, atribuciones y forma de operar que señale la normatividad correspondiente, adaptada a la estructura de trabajo en red propia del Instituto, y emitida por la Junta de Gobierno.
 
 ## TRANSITORIOS
 
@@ -908,3 +1224,13 @@ P.O. 23 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 7 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29250/LXIII/23 DEL CONGRESO DEL ESTADO, QUE REFORMA DIVERSAS DISPOSICIONES EN MATERIA DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Titular del Poder Ejecutivo deberá realizar las adecuaciones reglamentarias para dar cumplimiento al presente decreto dentro de los 180 días posteriores a su entrada en vigor.
+
+TERCERO. El Titular del Poder Ejecutivo deberá prever las adecuaciones administrativas y presupuestales para dar cumplimiento a este decreto en el anteproyecto del Presupuesto de Egresos para el ejercicio fiscal 2024 del Estado de Jalisco.
