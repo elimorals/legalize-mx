@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-que-crea-al-organismo-publico-descentralizado-1397
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-12-28"
-last_updated: "2023-05-23"
+last_updated: "2023-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA QUE CREA AL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO PLATAFORMA ABIERTA DE INNOVACIÓN Y DESARROLLO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2023.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 2019.
 
@@ -117,9 +117,17 @@ VIII. Fungir como centro capacitador y evaluador de competencias, conforme a las
 
 IX. Expedir títulos, certificados, diplomas, constancias, distinciones especiales y demás documentos inherentes a sus funciones;
 
-X. Promover el fortalecimiento de la cultura de transparencia y rendición de cuentas, en su ámbito de competencia; y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-XI. Las demás que le señale la presente ley y otras disposiciones legales y reglamentarias aplicables.
+X. Promover el fortalecimiento de la cultura de transparencia y rendición de cuentas, en su ámbito de competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XI. Impulsar programas de enseñanza enfocado al desarrollo de competencias y habilidades para los empleos y demandas de la era digital; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XII. Las demás que le señale la presente ley y otras disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 8.
 
@@ -330,3 +338,13 @@ P.O. 23 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO (SIC) NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 7 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29250/LXIII/23 DEL CONGRESO DEL ESTADO, QUE REFORMA DIVERSAS DISPOSICIONES EN MATERIA DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+SEGUNDO. El Titular del Poder Ejecutivo deberá realizar las adecuaciones reglamentarias para dar cumplimiento al presente decreto dentro de los 180 días posteriores a su entrada en vigor.
+
+TERCERO. El Titular del Poder Ejecutivo deberá prever las adecuaciones administrativas y presupuestales para dar cumplimiento a este decreto en el anteproyecto del Presupuesto de Egresos para el ejercicio fiscal 2024 del Estado de Jalisco.
