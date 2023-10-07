@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ciencia-desarrollo-tecnologico-e-innovacion-del-102735"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-09"
-last_updated: "2023-05-23"
+last_updated: "2023-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2023.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 9 de octubre de 2014.
 
@@ -61,17 +61,21 @@ IV. Consejo Consultivo: Órgano Auxiliar de la Secretaría de Innovación, Cienc
 
 V. Consejo Directivo: Consejo Directivo del Consejo Estatal de Ciencia y Tecnología de Jalisco;
 
-VI. Fondo Estatal: Fondo Estatal de Ciencia y Tecnología de Jalisco;
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-VII. Ley: Ley de Ciencia, Desarrollo Tecnológico e Innovación del Estado de Jalisco;
+VI. Ecosistema de innovación, ciencia y tecnología: el conjunto de actores, instituciones, programas, normatividad e infraestructura que a través de técnicas avanzadas de producción y operaciones con tecnologías inteligentes contribuyen al crecimiento económico y social de Jalisco a través de empleo, producción, capacitación y vinculación local, regional, nacional e internacional;
 
-VIII. Programa Sectorial: Programa Sectorial de Innovación, Ciencia y Tecnología para el Desarrollo;
+VII. Fondo Estatal: Fondo Estatal de Ciencia y Tecnología de Jalisco;
 
-IX. Secretaría: Secretaría de Innovación, Ciencia y Tecnología del Poder Ejecutivo del Estado de Jalisco;
+VIII. Ley: Ley de Ciencia, Desarrollo Tecnológico e Innovación del Estado de Jalisco;
 
-X. Sociedad de la Información y el conocimiento: Es aquella sociedad con capacidad para generar, apropiar y utilizar el conocimiento para atender las necesidades de su desarrollo y construir su futuro, convirtiendo la creación y transferencia del conocimiento en herramienta de su propio beneficio; y
+IX. Programa Sectorial: Programa Sectorial de Innovación, Ciencia y Tecnología para el Desarrollo;
 
-XI. Tecnologías de la Información y la Comunicación: Es el conjunto de recursos, procedimientos y técnicas usadas en el procesamiento, almacenamiento y transmisión de información y del conocimiento.
+X. Secretaría: Secretaría de Innovación, Ciencia y Tecnología del Poder Ejecutivo del Estado de Jalisco;
+
+XI. Sociedad de la Información y el conocimiento: Es aquella sociedad con capacidad para generar, apropiar y utilizar el conocimiento para atender las necesidades de su desarrollo y construir su futuro, convirtiendo la creación y transferencia del conocimiento en herramienta de su propio beneficio; y
+
+XII. Tecnologías de la Información y la Comunicación: Es el conjunto de recursos, procedimientos y técnicas usadas en el procesamiento, almacenamiento y transmisión de información y del conocimiento.
 
 ###### Artículo 3.
 
@@ -87,7 +91,9 @@ I. Definir los criterios en los que se basará el Gobierno del Estado para impul
 
 II. Contribuir a la generación de una sociedad del conocimiento que propicie de manera dinámica, integral y permanente el bienestar económico, social y ambiental del Estado;
 
-III. Promover una nueva cultura del conocimiento, la creatividad y la innovación tecnológica, que fortalezca e impulse el desarrollo de la sociedad jalisciense;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+III. Promover la cultura del conocimiento, la innovación, la creatividad, el desarrollo y la innovación tecnológica, que fortalezca e impulse el desarrollo de las cadenas productivas del sector científico y tecnológico;
 
 IV. Fomentar la vinculación de los sectores académico, científico y social con el sector productivo, y favorecer la formación de empresas y de profesionistas especializados en facilitar dicho proceso;
 
@@ -105,9 +111,17 @@ IX. Crear y regular el funcionamiento del Consejo Estatal de Ciencia y Tecnolog�
 
 X. Determinar los instrumentos y apoyos mediante los cuales el Gobierno Estatal cumplirá con su obligación de alentar las actividades científicas, tecnológicas, de innovación y desarrollo del conocimiento;
 
-XI. Crear y regular el Fondo Estatal de Ciencia y Tecnología; y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-XII. Crear el Premio Estatal de Innovación, Ciencia y Tecnología;
+XI. Crear y regular el Fondo Estatal de Ciencia y Tecnología;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XII. Crear el Premio Estatal de Innovación, Ciencia y Tecnología; y
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XIII. Potencializar la profesionalización y las capacidades especializadas en innovación y alta tecnología en Jalisco.
 
 ### Capítulo II. Bases Generales Para el Desarrollo de una Sociedad Basada en el Conocimiento
 
@@ -141,15 +155,15 @@ V. La promoción de la divulgación de conocimientos y sus impactos, con el prop
 
 VI. La política estatal de impulso al conocimiento preverá áreas prioritarias, proyectos estratégicos y apoyos a largo plazo a la investigación científica, incluyendo la humanística, el desarrollo y la innovación tecnológica, con el propósito de garantizar el fortalecimiento del potencial humano, la creación de instituciones científicas, el mejoramiento y modernización de la enseñanza de la ciencia, la integración de la ciencia en la cultura de los jaliscienses, la creación de infraestructuras y el fomento de capacidades;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-VII. Las políticas, instrumentos y criterios con los que el Gobierno del Estado impulse el conocimiento, deberán buscar el mayor efecto benéfico en la enseñanza y el aprendizaje de la ciencia, la tecnología y la innovación, en la calidad de la educación en todos los niveles, e incentivará la participación y desarrollo de nuevas generaciones de investigadores y tecnólogos, procurando incluir la robótica preferentemente mediante alternativas del uso de material reciclado o que no afecte al medio ambiente como materia prima de los proyectos;
+VII. Las políticas, instrumentos y criterios con los que el Gobierno del Estado impulse el conocimiento, deberán buscar el mayor efecto benéfico en la enseñanza y el aprendizaje de la ciencia, la tecnología y la innovación, en la calidad de la educación en todos los niveles, incentivando la educación bilingüe y la participación y desarrollo de nuevas generaciones de investigadores y tecnólogos, procurando incluir la robótica preferentemente mediante alternativas del uso de material reciclado o que no afecte al medio ambiente como materia prima de los proyectos;
 
 VIII. El Gobierno del Estado, de conformidad con lo dispuesto por esta ley, debe participar en el otorgamiento de recursos económicos y financieros para el desarrollo del conocimiento, considerándolo como inversión para el mejoramiento de la calidad de vida y el desarrollo económico del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-IX. La promoción a través de incentivos y mecanismos de fomento, para que el sector privado realice inversiones crecientes en la generación de conocimiento de amplio impacto económico, social y ambiental;
+IX. La promoción a través de incentivos, mecanismos de fomento y capacitación, para que el sector privado realice inversiones crecientes en la generación de conocimiento, ciencia y tecnología de amplio impacto económico, social, tecnológico y ambiental;
 
 X. La vinculación entre el conocimiento y el sector productivo público y privado deberá contribuir al desarrollo científico y tecnológico del Estado, permitiendo incursionar en nuevas líneas de trabajo y formar recursos humanos de alta calidad;
 
@@ -171,9 +185,25 @@ XVIII. Las políticas, instrumentos y criterios con las que el gobierno estatal 
 
 XIX. La selección de instituciones, programas, proyectos y personas destinatarios de los apoyos, se realizará mediante procedimientos competitivos, eficientes, equitativas (sic) y públicos, sustentados en méritos y caridad, así como orientadas a un claro sentido de responsabilidad social que favorezcan al desarrollo del Estado;
 
-XX. Las personas físicas o jurídicas que reciban apoyo, deberán rendir un informe de sus actividades y resultados, mismos que serán evaluados periódicamente, tomándose en cuenta para el otorgamiento de apoyos posteriores; y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-XXI. Los proyectos de ciencia, tecnología y de innovación deberán estar orientados por un criterio de desarrollo sustentable, considerando en todo momento el respeto a los ecosistemas, el cuida de (sic) medio ambiente y en general el acatamiento de las normas y criterios ecológicos.
+XX. Las personas físicas o jurídicas que reciban apoyo, deberán rendir un informe de sus actividades y resultados, mismos que serán evaluados periódicamente, tomándose en cuenta para el otorgamiento de apoyos posteriores;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XXI. Los proyectos de ciencia, tecnología y de innovación deberán estar orientados por un criterio de desarrollo sustentable, considerando en todo momento el respeto a los ecosistemas, el cuidado del medio ambiente y en general el acatamiento de las normas y criterios ecológicos;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XXII. El desarrollo de capacitación especializada que fortalezca el ecosistema de innovación, ciencia y tecnología;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XXIII. El impulso de la generación y desarrollo de propuestas, modelos y soluciones innovadoras a los retos globales, a través del desarrollo de capacidades especializadas en materia digital y tecnológica; y
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XXIV. El desarrollo y fortalecimiento del emprendimiento científico y tecnológico, y la cadena productiva del sector tecnológico, procurando el posicionamiento y competitividad del Estado a nivel internacional.
 
 ###### Artículo 7.
 
@@ -191,7 +221,9 @@ V. Las demás facultades que señalen esta Ley y otras disposiciones legales apl
 
 ###### Artículo 8.
 
-1. La Secretaría tiene como objetivo generar, con el acuerdo y colaboración de todos los sectores, la transformación de las capacidades de la población para crear una sociedad del conocimiento, que integre plenamente la cultura digital al desarrollo incluyente, económico, social y humano, para lo cual deberá:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+1. La Secretaría tiene como objetivo generar, con el acuerdo y colaboración de todos los sectores, la transformación de las capacidades de la población para crear una sociedad del conocimiento, que integre plenamente el ecosistema de innovación, ciencia y tecnología al desarrollo incluyente, económico, social y humano, para lo cual deberá:
 
 I. Conjuntar instituciones públicas y privadas, recursos, políticas, planes, programas y acciones, que permitan la construcción, permanencia y consolidación del Estado de Jalisco como sede de la Sociedad del Conocimiento;
 
@@ -205,9 +237,17 @@ V. Reducir la disparidad entre quienes tienen acceso real a las tecnologías de 
 
 VI. Fomentar la implantación de puntos y centros de acceso público a Internet, en todos los municipios y localidades de la entidad;
 
-VII. Promover el establecimiento de centros y parques para la investigación e innovación y de tecnologías de la información y la comunicación; y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-VIII. Fomentar la investigación para el desarrollo de nuevas tecnologías de la información y el conocimiento.
+VII. Promover el establecimiento de centros y parques para la investigación e innovación y de tecnologías de la información y la comunicación;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+VIII. Fomentar la investigación para el desarrollo de nuevas tecnologías de la información y el conocimiento; e
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+IX. Impulsar el desarrollo, profesionalización y capacidades especializadas del ecosistema de innovación, ciencia y tecnología.
 
 ###### Artículo 9.
 
@@ -257,21 +297,37 @@ VI. Las demás atribuciones que señalen esta Ley y otras disposiciones legales 
 
 I. Robustecer la infraestructura destinada (sic) la divulgación de la ciencia, tecnología y la innovación con el objeto de poner a disposición de la sociedad la información actualizada y de calidad sobre ciencia tecnología e innovación en el estado.
 
-II. Impulsar la creación de programas y espacios formativos, recreativos e interactivos, con la finalidad de desarrollar en la población, en general, el interés por la formación científica, tecnológica y de innovación; y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-III. Promover la producción de materiales, cuya finalidad sea la divulgación del conocimiento científico, tecnológico y la innovación.
+II. Impulsar la creación de programas y espacios formativos, recreativos e interactivos, con la finalidad de desarrollar en la población, en general, el interés por la formación científica, tecnológica y de innovación;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+III. Promover la producción de materiales, cuya finalidad sea la divulgación del conocimiento científico, tecnológico y la innovación;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+IV. Potencializar el ecosistema de innovación, ciencia y tecnología en la Entidad, con perspectiva de desarrollo incluyente, económico, social y humano; y
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+V. Promover las condiciones que fortalezcan las capacidades de la cadena productiva del sector tecnológico en el Estado.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 13.
 
-1. Los centros de investigación en las instituciones de educación media superior y superior ayudaran a través de sus investigadores y docentes en actividades de divulgación enseñanza científica y tecnológica sin perjuicio de sus ámbitos de autonomía a fin de promover el desarrollo sustentable del Estado a través de la promoción de la cultura científica.
+1. Los centros de investigación en las instituciones de educación media superior y superior ayudarán, a través de sus investigadores y docentes, en actividades de divulgación, enseñanza científica y tecnológica sin perjuicio de sus ámbitos de autonomía a fin de promover y fortalecer el ecosistema de innovación, ciencia y tecnología, así como el desarrollo sustentable del Estado a través de la promoción de la cultura científica.
 
 ###### Artículo 14.
 
 1. El Poder Ejecutivo del Estado debe promover, a través de la Secretaria de Innovación, Ciencia y Tecnología y la Secretaria de Educación, el diseño y aplicación de métodos y programas para la enseñanza y fomento de la ciencia tecnología e innovación en todos los niveles educación.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 15.
 
-1. La vinculación debe procurarse multidisciplinaria e interdisciplinaria que busca la coordinación de acciones en materia de ciencia, tecnología, innovación y humanidades, tomando en cuenta las demandas y necesidades de los sectores público, académico, privado, y social de la entidad, y la orientación del trabajo de la infraestructura estatal hacia la generación y avance del conocimiento científico, tecnológico, innovador y humanístico.
+1. La vinculación debe procurarse multidisciplinaria e interdisciplinaria que busca la coordinación de acciones en materia de ciencia, tecnología, innovación y humanidades, tomando en cuenta las demandas y necesidades de los sectores público, académico, privado, y social de la entidad, nacional y global, así como la orientación del trabajo de la infraestructura estatal hacia la generación y avance del conocimiento científico, tecnológico, innovador y humanístico.
 
 ### Capítulo IV. Del Programa Sectorial de Innovación, Ciencia y Tecnología para el Desarrollo
 
@@ -305,7 +361,9 @@ d) Formación de investigadores, tecnólogos y profesionistas altamente especial
 
 e) Vinculación entre ciencia, tecnología, innovación, desarrollo del conocimiento y sectores productivos;
 
-f) Difusión del conocimiento científico, tecnológico, innovación y desarrollo del conocimiento;
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+f) Difusión del conocimiento, tecnológico, innovación y desarrollo del conocimiento para el fortalecimiento y especialización de los sectores productivos;
 
 g) Vinculación de las instituciones públicas y privadas para la realización de las actividades científicas y tecnológicas
 
@@ -325,17 +383,21 @@ V. Los mecanismos de evaluación y seguimiento de resultados y avances del Progr
 
 1. Se considera de interés público y utilidad social las actividades de modernización, innovación y desarrollo tecnológico, por lo que los centros de investigación científica y tecnológica del sector público, de conformidad con la normatividad aplicable y los convenios que al efecto se firmen, incluirán entre sus prioridades el desarrollo y apoyo a las actividades productivas, preferentemente a las de carácter estratégico, del Estado de Jalisco.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 21.
 
-1. En la aplicación de los instrumentos y apoyos previstos en la presente ley, el Gobierno del Estado dará especial atención a los proyectos que tiendan a la modernización, innovación y desarrollo tecnológico de la micro, pequeña y mediana empresa.
+1. En la aplicación de los instrumentos y apoyos previstos en la presente ley, el Gobierno del Estado dará especial atención a los proyectos que tiendan al impulso y consolidación del sector tecnológico, así como a la modernización, innovación y desarrollo tecnológico de la micro, pequeña, mediana y grande empresa.
 
 ###### Artículo 22.
 
 1. Entre las acciones permanentes que debe ejecutar la Secretaría de Innovación, Ciencia y Tecnología, y cuya consecución deberá ser garantizada con los recursos, el personal y la infraestructura adecuada, se encuentran la asesoría, capacitación y prestación de servicios que propicien el uso intensivo de conocimiento y tecnología en los procesos productivos, la promoción de la metrología, así como el establecimiento de normas de calidad y la certificación.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 23.
 
-1. De conformidad con la disponibilidad de recursos y en el marco del Programa, el Gobierno del Estado podrá establecer una partida especial, así como otra clase de incentivos, expresamente orientados a apoyar la modernización, innovación y desarrollo tecnológico de la micro, pequeña y mediana empresa.
+1. De conformidad con la disponibilidad de recursos y en el marco del Programa, el Gobierno del Estado podrá establecer una partida especial, así como otra clase de incentivos, expresamente orientados a apoyar el crecimiento del ecosistema de innovación, ciencia y tecnología en Jalisco y la modernización, innovación y desarrollo tecnológico de la micro, pequeña, mediana y grande empresa.
 
 ### Capítulo VI. Del Consejo Consultivo de la Secretaria de Innovación Ciencia y Tecnología
 
@@ -503,9 +565,17 @@ VII. Fomentar y fortalecer las investigaciones básicas, tecnológicas y aplicad
 
 VIII. Impulsar y promover entre los ayuntamientos de la entidad y los integrantes del Consejo Directivo del COECYTJAL, en beneficio de los jaliscienses, el acceso libre a una conexión de Internet;
 
-IX. Promover el registro y la protección de la propiedad intelectual en todos los sectores económicos y sociales; y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-X. Las demás funciones que se le fijen mediante la presente ley, o sean inherentes al cumplimiento de sus fines de acuerdo con el programa de trabajo que sea aprobado por el Consejo Directivo.
+IX. Promover el registro y la protección de la propiedad intelectual en todos los sectores económicos y sociales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+X. Impulsar la formación de profesionales y capacidades de alta especialización científica y tecnológica que fortalezcan el sector de innovación y alta tecnología; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+XI. Las demás funciones que se le fijen mediante la presente ley, o sean inherentes al cumplimiento de sus fines de acuerdo con el programa de trabajo que sea aprobado por el Consejo Directivo.
 
 ###### Artículo 34.
 
@@ -523,9 +593,17 @@ V. Las personas físicas o jurídicas que reciban apoyo, deberán rendir un info
 
 VI. En el fomento de la investigación científica, tecnológica, de innovación y desarrollo del conocimiento se procurará evitar la duplicidad de esfuerzos y acciones;
 
-VII. El COECYTJAL procurará que los resultados de la investigación científica y tecnológica beneficien a todas las regiones del estado y estratos de la población para que contribuyan a su desarrollo y alcancen mejores niveles de vida, y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
 
-VIII. Los proyectos de ciencia, tecnología y de innovación que apoye el COECYTJAL, deberán estar orientados por los criterios de desarrollo sustentable, considerando en todo momento el respeto a los ecosistemas, el cuidado del medio ambiente y en general el acatamiento de las normas y criterios ecológicos.
+VII. El COECYTJAL procurará que los resultados de la investigación científica y tecnológica beneficien a todas las regiones del estado y estratos de la población para que contribuyan a su desarrollo y alcancen mejores niveles de vida;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+VIII. Los proyectos de ciencia, tecnología y de innovación que apoye el COECYTJAL, deberán estar orientados por los criterios de desarrollo sustentable, considerando en todo momento el respeto a los ecosistemas, el cuidado del medio ambiente y en general el acatamiento de las normas y criterios ecológicos; y
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+IX. La capacitación especializada se orientará a fortalecer el ecosistema de innovación, ciencia y tecnología del Estado.
 
 ###### Artículo 35.
 
@@ -801,7 +879,9 @@ Instrumentos de Apoyo a la Investigación Científica, el Desarrollo Tecnológic
 
 ###### Artículo 49.
 
-1. Las autoridades del artículo 5° de esta ley deben fomentar el desarrollo de la investigación científica, desarrollo tecnológico, la innovación y el desarrollo del conocimiento a través de los siguientes instrumentos y apoyos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE OCTUBRE DE 2023)</small>
+
+1. Las autoridades del artículo 5º de esta ley deben fomentar el desarrollo de la investigación científica, desarrollo tecnológico, la innovación, el desarrollo del conocimiento y la formación de capacidades y profesionales altamente especializados, a través de los siguientes instrumentos y apoyos:
 
 > <small>(REFORMADA, P.O. 15 DE MAYO DE 2021)</small>
 
@@ -867,7 +947,9 @@ I. El desarrollo de proyectos de investigación científica, tecnológica, de in
 
 II. La adquisición o desarrollo de equipo, instrumentos y materiales;
 
-III. El otorgamiento de apoyo a la formación y capacitación de recursos humanos altamente especializados que no excedan el término de dos años;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+
+III. El otorgamiento de apoyo a la formación y capacitación de recursos humanos altamente especializados;
 
 IV. La realización de proyectos de modernización, innovación y desarrollo tecnológicos;
 
@@ -1062,3 +1144,13 @@ P.O. 23 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO (SIC) NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 7 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29250/LXIII/23 DEL CONGRESO DEL ESTADO, QUE REFORMA DIVERSAS DISPOSICIONES EN MATERIA DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Titular del Poder Ejecutivo deberá realizar las adecuaciones reglamentarias para dar cumplimiento al presente decreto dentro de los 180 días posteriores a su entrada en vigor.
+
+TERCERO. El Titular del Poder Ejecutivo deberá prever las adecuaciones administrativas y presupuestales para dar cumplimiento a este decreto en el anteproyecto del Presupuesto de Egresos para el ejercicio fiscal 2024 del Estado de Jalisco.
