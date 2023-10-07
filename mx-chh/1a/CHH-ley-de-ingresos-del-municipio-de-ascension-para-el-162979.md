@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-del-municipio-de-ascension-para-el-162979"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2022-12-31"
-last_updated: "2022-12-31"
+last_updated: "2023-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=162979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE INGRESOS DEL MUNICIPIO DE ASCENSIÓN, CHIHUAHUA PARA EL EJERCICIO FISCAL DEL AÑO 2023
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2023.
 
 Ley publicada en el Anexo al No. 105 del Periódico Oficial del Estado de Chihuahua, el sábado 31 de diciembre de 2022.
 
