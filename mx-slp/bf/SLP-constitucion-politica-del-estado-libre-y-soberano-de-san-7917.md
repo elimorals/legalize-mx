@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2023-09-29"
+last_updated: "2023-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2023.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -2299,6 +2299,10 @@ En caso de que el Congreso rechace la propuesta, el Gobernador del Estado presen
 
 El Fiscal General sólo podrá ser removido por el titular del Poder Ejecutivo del Estado, por las causas graves que establezca la ley, la remoción podrá ser objetada por el voto de cuando menos las dos terceras partes de los miembros del Congreso del Estado, dentro de un plazo de diez días hábiles posteriores a que el Ejecutivo haga de su conocimiento la remoción, en cuyo caso, el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso del Estado no se pronuncia al respecto, se entenderá que no existe objeción y podrá el Ejecutivo iniciar el procedimiento de la elección del nuevo titular de la Fiscalía en términos de los párrafos anteriores.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2023)</small>
+
+En caso de que la persona titular de la Fiscalía General fallezca, se ausente definitivamente, o presente renuncia ante el Congreso del Estado, declarada la vacante por este último, dará aviso al Ejecutivo del Estado para que en un término de treinta días naturales, envíe propuesta de terna de profesionistas para que dé entre éstos, en un término de treinta días y por el voto de cuando menos las dos terceras partes de las diputadas y los diputados presentes en la sesión correspondiente, se elija a quien ocupará el cargo por el tiempo para el que fue electa la persona que se está supliendo.
+
 Para efecto de lo dispuesto en los párrafos anteriores de este artículo, si el Congreso del Estado se encontrare en receso, la Diputación Permanente lo convocará de inmediato a periodo extraordinario.
 
 Las ausencias temporales del Fiscal General se suplirán en los términos que determine la ley.
@@ -3676,5 +3680,13 @@ P.O. 29 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0838.- SE ADICIONA PÁRRAFO AL ARTÍCULO 15, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0846.- SE ADICIONA PÁRRAFO AL ARTÍCULO 122 BIS, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
