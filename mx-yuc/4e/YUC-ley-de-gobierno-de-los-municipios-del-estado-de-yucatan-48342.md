@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2023-09-29"
+last_updated: "2023-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE OCTUBRE DE 2023.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -1275,11 +1275,17 @@ IV.- Vigilar la ejecución de los planes y programas, y
 
 V.- Regular de manera conjunta y coordinada con el Estado, y con otros Municipios, las zonas de conurbación.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 9 DE OCTUBRE DE 2023)</small>
+
+E) De igualdad de género:
+
 > <small>(REFORMADO, D.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
-E) De igualdad entre mujeres y hombres y acceso de las mujeres a una vida libre de violencia:
-
 Cumplir con las atribuciones establecidas en la Ley para la Igualdad entre Mujeres y Hombres del Estado de Yucatán, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Yucatán, la Ley que regula a las Instancias Municipales de las Mujeres en el Estado de Yucatán, y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 9 DE OCTUBRE DE 2023)</small>
+
+Procurar adoptar el uso del lenguaje incluyente así como del lenguaje no sexista en toda la administración pública municipal, y en los servicios públicos que se brindan a la ciudadanía. Lo anterior, conforme a los reglamentos, manuales, guías y protocolos que emitan las autoridades competentes al respecto.
 
 ###### Artículo 42.
 
@@ -4434,3 +4440,19 @@ Los ayuntamientos de los municipios que no cuenten con infraestructura y persona
 Artículo Tercero. De las vacantes
 
 Las instancias municipales de las mujeres a que se refiere este decreto deberán cumplir, en la ocupación de sus puestos de nueva creación y las vacantes, lo dispuesto en (sic) párrafo segundo del artículo 80 de la Ley de Gobierno de los Municipios del Estado de Yucatán.
+
+D.O. 9 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECETO 682/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN Y LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATÁN, EN MATERIA DE LENGUAJE INCLUYENTE Y NO SEXISTA, PARA NOMBRAR A MUJERES Y HOMBRES EN EL QUEHACER PÚBLICO COMPETENTE”.]
+
+Entrada en vigor
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía en lo que se opongan al presente Decreto.
+
+Obligación Normativa
+
+Artículo Tercero. La persona Titular del Poder Ejecutivo del Estado deberá modificar el Reglamento del Código de la Administración Pública de Yucatán, en un plazo no mayor a ciento ochenta días, contado a partir de la entrada en vigor de este Decreto.
