@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1133
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-04"
-last_updated: "2020-12-09"
+last_updated: "2023-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE OCTUBRE DE 2023.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 4 de marzo de 2016.
 
@@ -65,21 +65,29 @@ I. Consejo estatal: el Consejo Estatal para la Igualdad entre Mujeres y Hombres.
 
 II. Igualdad sustantiva: el acceso al mismo trato, oportunidades, goce o ejercicio de los derechos humanos, en donde lo que se prioriza son los resultados, los cuales carecen de desigualdades y son libres de discriminación.
 
-III. Ley general: la Ley General para la Igualdad entre Mujeres y Hombres.
+> <small>(ADICIONADA, D.O. 9 DE OCTUBRE DE 2023)</small>
 
-IV. Programa especial: el Programa Especial para la Igualdad entre Mujeres y Hombres.
+III. Lenguaje incluyente: modo de expresión oral, escrita y visual que contribuye al reconocimiento de la diversidad de identidades que componen la sociedad en función del principio de igualdad y no discriminación, así como del respeto a los derechos humanos de todas las personas, evitando definirlas a partir de sus características o condiciones personales.
+
+> <small>(ADICIONADA, D.O. 9 DE OCTUBRE DE 2023)</small>
+
+IV. Lenguaje no sexista: conjunto de expresiones de la comunicación humana que tienen por objeto visibilizar a las personas independientemente de su sexo o género, evitando las generalizaciones, así como el uso de estereotipos de género que las sometan, excluyan, discriminen o denigren.
+
+V. Ley general: la Ley General para la Igualdad entre Mujeres y Hombres.
+
+VI. Programa especial: el Programa Especial para la Igualdad entre Mujeres y Hombres.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE JULIO DE 2019)</small>
 
-V. Secretaría: la Secretaría de las Mujeres.
+VII. Secretaría: la Secretaría de las Mujeres.
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], D.O. 31 DE JULIO DE 2019)</small>
 
-VI. Sistema estatal: el Sistema Estatal para la Igualdad entre Mujeres y Hombres.
+VIII. Sistema estatal: el Sistema Estatal para la Igualdad entre Mujeres y Hombres.
 
 > <small>(ADICIONADA, D.O. 31 DE JULIO DE 2019)</small>
 
-VII. Transversalidad: el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres la realización de acciones, las modificaciones a la legislación vigente, la implementación de políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas.
+IX. Transversalidad: el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres la realización de acciones, las modificaciones a la legislación vigente, la implementación de políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas.
 
 ###### Artículo 3.
 
@@ -1008,3 +1016,19 @@ De conformidad con la normatividad jurídica, administrativa y presupuestaria co
 Artículo tercero. Derogación expresa.
 
 Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones del presente decreto.
+
+D.O. 9 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 682/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN Y LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATÁN, EN MATERIA DE LENGUAJE INCLUYENTE Y NO SEXISTA, PARA NOMBRAR A MUJERES Y HOMBRES EN EL QUEHACER PÚBLICO COMPETENTE”.]
+
+Entrada en vigor
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía en lo que se opongan al presente Decreto.
+
+Obligación Normativa
+
+Artículo Tercero. La persona Titular del Poder Ejecutivo del Estado deberá modificar el Reglamento del Código de la Administración Pública de Yucatán, en un plazo no mayor a ciento ochenta días, contado a partir de la entrada en vigor de este Decreto.
