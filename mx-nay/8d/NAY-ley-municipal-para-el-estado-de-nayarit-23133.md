@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2023-09-25"
+last_updated: "2023-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -91,9 +91,7 @@ XII.- Gasto no etiquetado: las erogaciones que realizan los Municipios con cargo
 
 XIII.- Gasto total: La totalidad de las erogaciones aprobadas en el presupuesto de egresos, con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las operaciones que darían lugar a la duplicidad en el registro del gasto;
 
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2020)</small>
-
-XIII Bis.- Gran Plan: Gran Plan Estatal de Desarrollo con visión estratégica de largo plazo;
+XIII Bis.- (DEROGADA, P.O. 9 DE OCTUBRE DE 2023)
 
 XIV.- Ingresos de libre disposición: los ingresos municipales y las participaciones federales, así como los recursos que, en su caso, reciban del Fondo de Estabilización de los ingresos del Estado y cualquier otro recurso que no esté destinado a un fin específico;
 
@@ -117,13 +115,25 @@ XIX.- Percepciones extraordinarias: los estímulos, reconocimientos, recompensas
 
 XX.- Percepciones ordinarias: los pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular como contraprestación por el desempeño de sus labores cotidianas en los Municipios y sus dependencias y entidades, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado para el ejercicio fiscal;
 
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-XX Bis.- Planes Municipales: Planes Municipales de Desarrollo con un escenario al menos de 25 años;
+XX Bis.- Plan Municipal de Desarrollo: Documento de planeación trianual de los Municipios;
 
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2023)</small>
 
-XX Ter.- Programas de Gobierno: Instrumentos de planeación municipal que contienen los objetivos, estrategias y metas que sirvan de base para las actividades del Poder Ejecutivo de los municipios;
+XX Ter.- Plan Estatal de Desarrollo: Es el documento rector en el que se define la visión sexenal del Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2023)</small>
+
+XX Quater.- Plan Estratégico: Es el documento rector en el que se define la visión estratégica a largo plazo de las distintas políticas para el desarrollo integral del Estado de Nayarit; que contendrá una proyección de al menos 25 años;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2023)</small>
+
+XX. Quintus.- Plan Estratégico Municipal: documento rector en el que se define la visión estratégica a largo plazo de las distintas políticas para el desarrollo integral del municipio; que contendrá una proyección de al menos 25 años;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE OCTUBRE DE 2023)</small>
+
+XX. Sextus.- Programas de Gobierno: Instrumentos de planeación municipal que contienen los objetivos, estrategias y metas que sirvan de base para las actividades de los municipios;
 
 XXI.- Reestructuración: la celebración de actos jurídicos que tengan por objeto modificar las condiciones originalmente pactadas en un financiamiento;
 
@@ -299,11 +309,11 @@ Asimismo, promoverán que la educación básica se imparta en idioma español y 
 
 Para los efectos de los párrafos anteriores, los Ayuntamientos expedirán normas de carácter general, en el ámbito de su competencia.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 18.
 
-Los Planes Municipales y los Programas de Gobierno, deberán contener proyectos y acciones tendientes al crecimiento y bienestar de los pueblos indígenas a que hace referencia el artículo anterior, respetando sus formas de organización, producción y comercio.
+Los Planes Municipales, los Planes Estratégicos Municipales y los Programas de Gobierno, deberán contener proyectos y acciones tendientes al crecimiento y bienestar de los pueblos indígenas a que hace referencia el artículo anterior, respetando sus formas de organización, producción y comercio.
 
 ### CAPÍTULO IV. De la participación social
 
@@ -773,9 +783,9 @@ d) Autorizar, de conformidad a las disposiciones legales aplicables, los emprés
 
 e) Participar en el ámbito de su competencia, de conformidad con las leyes federales y estatales de la materia, y en coordinación con la federación y el estado, en la planeación y regularización del desarrollo de los centros urbanos involucrados en procesos de conurbación;
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-f) Elaborar a través de los Institutos Municipales de Planeación, los Planes Municipales que deberán contener los objetivos y estrategias con una visión de por lo menos 25 años, estableciendo sistemas continuados de control y evaluación de estos y de los Programas de Gobierno y aquellos derivados de los mismos; asimismo, dictar los acuerdos que correspondan para cumplir con los objetivos, estrategias y líneas de acción derivados del Plan Nacional de Desarrollo y del Gran Plan, en lo correspondiente al municipio, y participar en la formulación de programas de desarrollo regional, que deberán estar en concordancia con los planes generales en la materia;
+f) Elaborar a través de los Institutos Municipales de Planeación, los Planes Municipales y Planes Estratégicos Municipales, estableciendo sistemas continuados de control y evaluación de estos y de los Programas de Gobierno y aquellos derivados de los mismos; asimismo, dictar los acuerdos que correspondan para cumplir con los objetivos, estrategias y líneas de acción derivados del Plan Nacional de Desarrollo, del Plan Estratégico y del Plan Estatal de Desarrollo, en lo correspondiente al municipio, y participar en la formulación de programas de desarrollo regional, que deberán estar en concordancia con los planes generales en la materia;
 
 g) Promover la gestión de las actividades productivas del municipio, estimulando y organizando el desarrollo de la agricultura, ganadería, pesca, turismo, industria, minería y de otras actividades que propicien la ocupación y prosperidad de sus habitantes;
 
@@ -1755,9 +1765,9 @@ IV.- Los organismos auxiliares podrán aceptar y administrar recursos económico
 
 V.- Las funciones y obligaciones principales de los organismos auxiliares, serán:
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-a) Contribuir al cumplimiento del Plan Nacional de Desarrollo, del Gran Plan, de los Planes Municipales, así como de los Programas de Gobierno y aquellos derivados de los mismos;
+a) Contribuir al cumplimiento del Plan Nacional de Desarrollo, del Plan Estatal de Desarrollo, del Plan Estratégico, de los Planes Municipales, de los Planes Estratégicos Municipales, así como de los Programas de Gobierno y aquellos derivados de los mismos;
 
 b) Impulsar la colaboración y participación de los habitantes en todos los aspectos del desarrollo municipal;
 
@@ -2097,9 +2107,9 @@ XX.- Vigilar y controlar las oficinas recaudadoras, estableciendo un sistema pú
 
 XXI.- Formular y presentar los estados financieros y complementarios y sus respetivos auxiliares, al término del periodo de gobierno municipal, para ser entregados a las personas que ocupen la Presidencia y la Sindicatura, acompañando al inventario el archivo, libros y relación de pasivos y deudores, formándose para tal efecto cuatro tantos, mismos que serán entregados al Ayuntamiento, al Congreso del Estado, por conducto de la Auditoría Superior del Estado, al archivo de la Tesorería y a la o el Tesorero saliente, de manera respectiva;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-XXII.- Elaborar anualmente los anteproyectos de Ley de Ingresos y Presupuesto de Egresos; así como su clasificador por objeto de gasto, conforme lo establecido en la presente Ley, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con los Planes Municipales y los Programas de Gobierno derivados de los mismos. El anteproyecto propuesto deberá contribuir a un balance presupuestario sostenible;
+XXII.- Elaborar anualmente los anteproyectos de Ley de Ingresos y Presupuesto de Egresos; así como su clasificador por objeto de gasto, conforme lo establecido en la presente Ley, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con los Planes Municipales, Planes Estratégicos Municipales y los Programas de Gobierno derivados de los mismos. El anteproyecto propuesto deberá contribuir a un balance presupuestario sostenible;
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2017)</small>
 
@@ -2345,9 +2355,9 @@ III.- Determinar y proponer los elementos que permitan la adecuación e integrac
 
 IV.- Promover mecanismos de participación permanente para integrar y unificar los planteamientos de las dependencias y entidades de la administración pública municipal, así como los correspondientes a las representaciones sindicales, en la instrumentación del servicio civil de carrera;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-V.- Estudiar y emitir las recomendaciones necesarias para asegurar la congruencia de normas, sistemas y procedimientos del servicio civil de carrera, con los instrumentos de los Planes Municipales y los Programas de Gobierno;
+V.- Estudiar y emitir las recomendaciones necesarias para asegurar la congruencia de normas, sistemas y procedimientos del servicio civil de carrera, con los instrumentos de los Planes Municipales, Planes Estratégicos Municipales y los Programas de Gobierno;
 
 VI.- Evaluar periódicamente los resultados de las acciones orientadas a la creación y fortalecimiento del servicio civil de carrera; y
 
@@ -2363,11 +2373,11 @@ En la aplicación del presente capítulo se atenderá, en lo conducente, lo disp
 
 Ayuntamientos
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 125.
 
-Los Ayuntamientos vigilarán que los servicios públicos se presten en igualdad de condiciones para todos los habitantes del municipio, en forma permanente, general, uniforme, continua, y de acuerdo con sus respectivos Planes Municipales y Programas de Gobierno;
+Los Ayuntamientos vigilarán que los servicios públicos se presten en igualdad de condiciones para todos los habitantes del municipio, en forma permanente, general, uniforme, continua, y de acuerdo con sus respectivos Planes Municipales, Planes Estratégicos Municipales y Programas de Gobierno.
 
 ###### ARTICULO 126.
 
@@ -3151,9 +3161,9 @@ Para el desempeño de sus funciones, el Ayuntamiento aprobará las disposiciones
 
 Las dependencias y entidades municipales, en el proceso de planeación que realicen de sus adquisiciones, arrendamientos y servicios, deberán:
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-I. Sujetarse a los objetivos, estrategias y líneas de acción contenidos en los Planes Municipales, los Programas de Gobierno y aquellos derivados de los mismos y que, en su caso, les corresponda ejecutar;
+I. Sujetarse a los objetivos, estrategias y líneas de acción contenidos en los Planes Municipales, Planes Estratégicos Municipales, los Programas de Gobierno y aquellos derivados de los mismos y que, en su caso, les corresponda ejecutar;
 
 II. Ajustarse a los objetivos y metas de sus correspondientes programas y presupuestos;
 
@@ -3191,11 +3201,11 @@ TÍTULO DECIMOSEGUNDO
 
 ### CAPÍTULO ÚNICO. De la Ley de Ingresos y del Presupuesto de Egresos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 197.
 
-La iniciativa de Ley de Ingresos y el proyecto de Presupuesto de Egresos se deberán elaborar conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberán ser congruentes con el Gran Plan, los Planes Municipales, los Programas de Gobierno, y aquellos derivados de los mismos; e incluirán cuando menos objetivos anuales, estrategias y metas.
+La iniciativa de Ley de Ingresos y el proyecto de Presupuesto de Egresos se deberán elaborar conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberán ser congruentes con el Plan Estatal de Desarrollo, el Plan Estratégico, los Planes Municipales, los Planes Estratégicos Municipales, los Programas de Gobierno, y aquellos derivados de los mismos; e incluirán cuando menos objetivos anuales, estrategias y metas.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -3509,15 +3519,13 @@ TÍTULO DECIMOCUARTO
 
 ### CAPÍTULO I. De la Planeación Municipal
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 208.
 
-Los Planes Municipales contendrán los objetivos y estrategias sectoriales, especiales y regionales para el desarrollo del municipio por un periodo de al menos 25 años, y deberán ser evaluados y actualizados en el penúltimo año de la administración en turno, en concordancia con el Plan Nacional de Desarrollo y el Gran Plan.
+Los Planes Estratégicos Municipales contendrán los objetivos y estrategias sectoriales, especiales y regionales para el desarrollo del municipio por un periodo de al menos 25 años, y deberán ser evaluados y actualizados en el penúltimo año de la administración en turno, en concordancia con el Plan Nacional de Desarrollo y el Plan Estratégico.
 
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2020)</small>
-
-Las propuestas de los Planes Municipales serán elaboradas por los Institutos Municipales de Planeación, y deberán ser aprobadas por sus Juntas de Gobierno y por los Ayuntamientos.
+Las propuestas de los Planes Municipales y los Planes Estratégicos Municipales serán elaboradas por los Institutos Municipales de Planeación, y deberán ser aprobadas por sus Juntas de Gobierno y por los Ayuntamientos.
 
 > <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2020)</small>
 
@@ -3525,13 +3533,17 @@ Las propuestas de los Planes Municipales serán elaboradas por los Institutos Mu
 
 El Sistema Municipal de Planeación del Desarrollo Urbano y el Ordenamiento Territorial contendrá los objetivos y estrategias de uso y ocupación del suelo, así como la estrategia general de usos, reservas, destinos y provisiones de conformidad con la Ley de la materia.
 
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 208 Ter.
 
-Los Programas de Gobierno deberán precisar objetivos, estrategias y prioridades que sirvan de base a las actividades de la administración pública municipal, de forma que aseguren el cumplimiento de los Planes Municipales; contendrán aquellas previsiones de recursos asignados para los fines que se persiguen, determinarán los instrumentos y las responsabilidades de su ejecución, supervisión y evaluación, así como el conjunto de actividades económicas, sociales y culturales a que estén destinados los programas respectivos, con base en los lineamientos del Plan Nacional de Desarrollo, del Gran Plan y los Planes Municipales.
+Los Programas de Gobierno deberán precisar objetivos, estrategias y prioridades que sirvan de base a las actividades de la administración pública municipal, de forma que aseguren el cumplimiento de los Planes Municipales y los Planes Estratégicos Municipales; contendrán aquellas previsiones de recursos asignados para los fines que se persiguen, determinarán los instrumentos y las responsabilidades de su ejecución, supervisión y evaluación, así como el conjunto de actividades económicas, sociales y culturales a que estén destinados los programas respectivos, con base en los lineamientos del Plan Nacional de Desarrollo, del Plan Estatal de Desarrollo, del Plan Estratégico y de los Planes Estratégicos Municipales.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2020)</small>
 
 Los Programas de Gobierno deberán elaborarse y presentarse para su examen y aprobación, dentro de un plazo de 90 días contados a partir de la fecha de toma de posesión de los Ayuntamientos respectivos; en los términos que dispone la Ley de Planeación del Estado de Nayarit y su vigencia no excederá del período constitucional que les corresponde.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2020)</small>
 
 Los Programas de Gobierno indicarán los proyectos que deriven del mismo.
 
@@ -3541,17 +3553,19 @@ Los Programas de Gobierno indicarán los proyectos que deriven del mismo.
 
 La planeación municipal se desarrollará en base a la metodología de la planeación estratégica, entendiéndose como tal, el conjunto de elementos metodológicos y normativos que permite la ordenación sistemática de acciones, que apoya las actividades para fijar objetivos, metas y estrategias a mediano y largo plazo, asignar recursos, responsabilidades y tiempos de ejecución, así como coordinar acciones y evaluar resultados.
 
-Los Planes Municipales y los Programas de Gobierno deberán contener como mínimo, un análisis de sus fortalezas, oportunidades, debilidades y amenazas; la misión y visión institucional; los objetivos estratégicos alineados al Plan Nacional de Desarrollo y al Gran Plan; las acciones y proyectos; unidades responsables de su ejecución; su cronograma de ejecución, así como los indicadores de impacto o de gestión. Lo anterior, con independencia de los requisitos que se establecen en la ley.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2023)</small>
+
+Los Planes Municipales, los Planes Estratégicos Municipales y los Programas de Gobierno deberán contener como mínimo, un análisis de sus fortalezas, oportunidades, debilidades y amenazas; la misión y visión institucional; los objetivos estratégicos alineados al Plan Nacional de Desarrollo, al Plan Estatal de Desarrollo y al Plan Estratégico; las acciones y proyectos; unidades responsables de su ejecución; su cronograma de ejecución, así como los indicadores de impacto o de gestión. Lo anterior, con independencia de los requisitos que se establecen en la ley;
 
 La evaluación del desempeño se realizará por la Contraloría Municipal, para ello verificará el grado de cumplimiento de objetivos y metas, con base en indicadores estratégicos y de gestión que permitan identificar la eficiencia, economía, eficacia y calidad de la administración pública municipal, así como el impacto social del ejercicio del gasto público y, en su caso, las medidas pertinentes para alcanzar las metas y objetivos programados.
 
 Para la elaboración de todos los instrumentos de planeación municipal, los Institutos Municipales de Planeación deberán asegurar la participación plena de la sociedad, a través de los Consejos Consultivos Ciudadanos Municipales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 210.
 
-Las disposiciones aplicables al contenido de los Planes Municipales y los Programas de Gobierno, deberán sujetarse a los elementos siguientes:
+Las disposiciones aplicables al contenido de los Planes Municipales, Planes Estratégicos Municipales y los Programas de Gobierno, deberán sujetarse a los elementos siguientes:
 
 I.- Especificación de objetivos, procedimientos, recursos financieros y estudios de carácter técnico, con indicación de programas que deben realizarse;
 
@@ -3589,11 +3603,11 @@ Los municipios pueden coordinarse entre sí para solucionar y atender necesidade
 
 ### CAPÍTULO II. Institutos Municipales de Planeación
 
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 211 Bis.
 
-Los Institutos Municipales de Planeación son Organismos Públicos Descentralizados de la Administración Pública Municipal, con personalidad jurídica y patrimonio propios, tienen por objeto formular, dar seguimiento y evaluar los Planes Municipales, Programas de Gobierno y aquellos derivados de los mismos, de manera democrática y propiciando la participación ciudadana, auspiciando en todo momento a través de ellos la modernización, innovación y desarrollo del municipio; promoviendo el crecimiento socioeconómico sustentable, atendiendo al carácter metropolitano de sus funciones económicas, sociales, culturales y de servicios administrativos.
+Los Institutos Municipales de Planeación son Organismos Públicos Descentralizados de la Administración Pública Municipal, con personalidad jurídica y patrimonio propios, tienen por objeto formular, dar seguimiento y evaluar los Planes Municipales, Planes Estratégicos Municipales, Programas de Gobierno y aquellos derivados de los mismos, de manera democrática y propiciando la participación ciudadana, auspiciando en todo momento a través de ellos la modernización, innovación y desarrollo del municipio; promoviendo el crecimiento socioeconómico sustentable, atendiendo al carácter metropolitano de sus funciones económicas, sociales, culturales y de servicios administrativos.
 
 > <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2020)</small>
 
@@ -4634,3 +4648,19 @@ P.O. 25 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 116 Y EL ARTÍCULO 118 DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 9 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. Los Ayuntamientos del Estado, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto deberán realizar las reformas y adecuaciones al marco normativo que resulte necesario, a fin de armonizarlos al presente Decreto.
+
+En tanto se expiden las disposiciones normativas conducentes, se aplicará el marco normativo vigente en todo aquello que no se oponga al contenido del presente Decreto.
+
+CUARTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán su despacho de conformidad con las disposiciones vigentes al momento de su inicio.
+
+QUINTO. Comuníquese el presente Decreto a los veinte Ayuntamientos del Estado, para los efectos conducentes.
