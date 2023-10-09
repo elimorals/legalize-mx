@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2022-10-18"
+last_updated: "2023-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -277,9 +277,9 @@ IV. Cumplir y hacer cumplir las políticas, acuerdos, órdenes, circulares y dem
 
 V. Fijar, dirigir y controlar las políticas de la Dependencia a su cargo, así como programar, coordinar y evaluar, en los términos de la legislación aplicable, las actividades de las entidades del sector que le corresponda coordinar;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE MAYO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2023)</small>
 
-VI. Proponer el anteproyecto de presupuesto de egresos de la Dependencia a su cargo y de las entidades del sector correspondiente, conforme a lo establecido en la Ley de Presupuestación, Contabilidad y Gasto Público de la Administración del Gobierno del Estado de Nayarit, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el Gran Plan Estatal de Desarrollo con visión estratégica de largo plazo, el Programa de Gobierno y los programas derivados de estos, remitiéndolos a la Secretaría de Administración y Finanzas, y en el caso de los proyectos de inversión a la Secretaría de Desarrollo Sustentable con la oportunidad que se solicite.
+VI. Proponer el anteproyecto de presupuesto de egresos de la Dependencia a su cargo y de las entidades del sector correspondiente, conforme a lo establecido en la Ley de Presupuestación, Contabilidad y Gasto Público de la Administración del Gobierno del Estado de Nayarit, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el Plan Estratégico, el Plan Estatal de Desarrollo y los programas derivados de estos, remitiéndolos a la Secretaría de Administración y Finanzas, y en el caso de los proyectos de inversión a la Secretaría de Desarrollo Sustentable con la oportunidad que se solicite.
 
 El anteproyecto propuesto deberá contribuir a un balance presupuestario sostenible.
 
@@ -819,7 +819,9 @@ VI. Coordinar con las Dependencias y Entidades la integración de los informes d
 
 VII. Establecer el proyecto definitivo de asignación presupuestal y las estrategias financieras para su cumplimiento en coordinación con la Secretaría de Administración y Finanzas y el Instituto de Planeación, asegurando su coherencia con el Sistema Estatal de Planeación;
 
-VIII. Solicitar y procesar la información que deberán remitir las Dependencias y Entidades de la Administración Pública Estatal, respecto al destino y resultado de las asignaciones que a cada una corresponda; a efecto de verificar que las mismas cumplan con los objetivos y prioridades del Gran Plan Estatal de Desarrollo con visión estratégica de largo plazo y los Programas de Gobierno;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
+
+VIII. Solicitar y procesar la información que deberán remitir las Dependencias y Entidades de la Administración Pública Estatal, respecto al destino y resultado de las asignaciones que a cada una corresponda; a efecto de verificar que las mismas cumplan con los objetivos y prioridades del Plan Estatal de Desarrollo, Plan Estratégico y los Programas de Gobierno;
 
 IX. Analizar y proponer al Gobernador los proyectos de leyes, decretos, reglamentos, convenios y demás disposiciones, que permitan realizar una mejor programación presupuestal, y un mejor desempeño en la gestión de la inversión estratégica del Estado;
 
@@ -1525,7 +1527,9 @@ f). Promover la democracia sindical y el acceso a la contratación colectiva.
 
 IV. Procurar el equilibrio entre los factores de la producción de conformidad con las disposiciones legales aplicables;
 
-V. Elaborar y desarrollar programas para el trabajo y el empleo, de acuerdo con el Programa de Gobierno y el Gran Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
+
+V. Elaborar y desarrollar programas para el trabajo y el empleo, de acuerdo con el Plan Estatal de Desarrollo y el Plan Estratégico;
 
 VI. Realizar los programas y acciones necesarias para impulsar el incremento de la productividad y calidad en el trabajo en los sectores productivos;
 
@@ -2439,11 +2443,11 @@ Estos organismos interinstitucionales podrán crearse por ley o por decreto o ac
 
 Del desarrollo, control y evaluación.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 67.
 
-Las entidades, para su desarrollo y operación, deberán sujetarse a la Ley de la Administración Pública Paraestatal, a la Ley de Planeación, a las demás leyes y reglamentos aplicables, al Gran Plan Estatal de Desarrollo de al menos a 25 años, al Programa de Gobierno y a los programas sectoriales y regionales que deriven de los mismos, a las directrices que en materia de programación y evaluación fijen las dependencias competentes, a los lineamientos generales que en materia de gasto y financiamiento establezcan las Secretarías de Administración y Finanzas y para la Honestidad y Buena Gobernanza, así como a las políticas que defina el coordinador de sector.
+Las entidades, para su desarrollo y operación, deberán sujetarse a la Ley de la Administración Pública Paraestatal, a la Ley de Planeación, a las demás leyes y reglamentos aplicables, al Plan Estratégico, de al menos a 25 años, al Plan Estatal de Desarrollo y a los programas sectoriales y regionales que deriven de los mismos, a las directrices que en materia de programación y evaluación fijen las dependencias competentes, a los lineamientos generales que en materia de gasto y financiamiento establezcan las Secretarías de Administración y Finanzas y para la Honestidad y Buena Gobernanza, así como a las políticas que defina el coordinador de sector.
 
 > <small>(REFORMADO PRIMER PÁRRAAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
@@ -2948,3 +2952,19 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Dentro del plazo de sesenta días contados a partir de la entrada en vigor del presente Decreto, deberán realizarse las modificaciones a la normatividad que resulte necesaria para su correcta implementación.
 
 TERCERO. Se derogan todas aquellas disposiciones que se contrapongan a lo establecido en el presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. El Poder Ejecutivo Estatal en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto deberán realizar las reformas y adecuaciones al marco normativo que resulte necesario, a fin de armonizarlos al presente Decreto.
+
+En tanto se expiden las disposiciones normativas conducentes, se aplicará el marco normativo vigente en todo aquello que no se oponga al contenido del presente Decreto.
+
+CUARTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán su despacho de conformidad con las disposiciones vigentes al momento de su inicio.
+
+QUINTO. Comuníquese el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos conducentes.
