@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-planeacion-del-estado-de-nayarit-136930"
 country: "mx"
 rank: "ley"
 publication_date: "2019-05-29"
-last_updated: "2023-04-04"
+last_updated: "2023-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PLANEACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2023.
 
 Ley publicada en la Sección Cuarta al Número 104 del Periódico Oficial del Estado de Nayarit, el miércoles 29 de mayo de 2019.
 
@@ -95,9 +95,9 @@ V. Institutos Municipales: Los Institutos Municipales de Planeación en la Entid
 
 VI. Ley: La Ley de Planeación del Estado de Nayarit;
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-VII. Plan Estatal de Desarrollo con visión estratégica: es el documento rector en el que se define la visión estratégica a largo plazo de las distintas políticas para el desarrollo integral del Estado de Nayarit;
+VII. Plan Estratégico: es el documento en el que se define la visión estratégica a largo plazo de las distintas políticas para el desarrollo integral del Estado de Nayarit; que contendrá una proyección de al menos 25 años;
 
 VIII. Secretaría: La Secretaría de Desarrollo Sustentable;
 
@@ -105,13 +105,21 @@ VIII. Secretaría: La Secretaría de Desarrollo Sustentable;
 
 IX. SIGEE: Sistema de Geografía, Estadística y Evaluación del Estado de Nayarit;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-X. Sistema de Planeación: El Sistema Estatal de Planeación, y
+X. Sistema de Planeación: El Sistema Estatal de Planeación;
 
-> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-XI. Agenda Digital: La prevista en la Ley de Gobierno Digital para el Estado de Nayarit.
+XI. Agenda Digital: La prevista en la Ley de Gobierno Digital para el Estado de Nayarit;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2023)</small>
+
+XII. Plan Estatal de Desarrollo: Es el documento rector en el que se define la visión sexenal del Gobierno del Estado, y
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2023)</small>
+
+XIII. Plan Municipal de Desarrollo: Documento de planeación trianual de los Municipios.
 
 ###### Artículo 3.
 
@@ -177,7 +185,7 @@ b) Los institutos municipales.
 
 II. De participación:
 
-a) Consejo General de Participación Ciudadana para el Desarrollo del Estado de Nayarit;
+a) (DEROGADO, P.O. 9 DE OCTUBRE DE 2023)
 
 b) Los Consejos Consultivos Ciudadanos Regionales, y
 
@@ -193,9 +201,11 @@ II. Definir los objetivos, estrategias, metas, acciones e indicadores para el de
 
 III. Dar seguimiento y evaluar la ejecución de los instrumentos del sistema de planeación en los ámbitos estatal y municipal, respectivamente, así como recomendar acciones de mejora para los instrumentos del Sistema de Planeación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 9.
 
-El Consejo General de Participación Ciudadana para el desarrollo del Estado de Nayarit, los Consejos Consultivos Ciudadanos Regionales y los Consejos Consultivos Ciudadanos Municipales tendrán por objeto:
+Los Consejos Consultivos Ciudadanos Regionales y los Consejos Consultivos Ciudadanos Municipales para el desarrollo del Estado de Nayarit, tendrán por objeto:
 
 I. Promover la planeación del desarrollo del Estado, de las regiones y de los municipios, buscando la congruencia entre los sistemas de planeación nacional, estatal y municipal, y de los instrumentos de planeación que de ellos deriven, y
 
@@ -269,7 +279,9 @@ X. Coordinar el Sistema de Planeación, el Proceso de Participación Ciudadana y
 
 XI. Coordinar y establecer las acciones para la formulación, la instrumentación, el control y la evaluación de los instrumentos de Planeación en el Estado;
 
-XII. Expedir a través del Consejo General de Participación Ciudadana para el Desarrollo del Estado de Nayarit y los Consejos Consultivos Ciudadanos Regionales, la convocatoria de consulta pública para la participación de los sectores público, social y privado, con el fin de que emitan sus propuestas para la formulación de los instrumentos de planeación;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
+
+XII. Expedir a través de los Consejos Consultivos Ciudadanos Regionales, la convocatoria de consulta pública para la participación de los sectores público, social y privado, con el fin de que emitan sus propuestas para la formulación de los instrumentos de planeación;
 
 XIII. Coordinar con las Dependencias, Entidades y Ayuntamientos, la realización, actualización, seguimiento y evaluación de los instrumentos de Planeación;
 
@@ -283,7 +295,7 @@ XVI. Apoyar a los Ayuntamientos, a solicitud de estos, en la formulación, capac
 
 XVII. Fungir como órgano de consulta en materia de planeación del desarrollo del Estado ante el gobierno federal, estatal y municipal;
 
-XVIII. Propiciar la integración de los sectores social y privado en el Consejo General de Participación Ciudadana para el Desarrollo del Estado de Nayarit;
+XVIII. (DEROGADA, P.O. 9 DE OCTUBRE DE 2023)
 
 XIX. Evaluar los resultados del proceso de planeación y del ejercicio presupuestal, en apoyo a la Secretaría;
 
@@ -311,6 +323,10 @@ XXIII. EMITIR EN SU CASO EL DICTAMEN DE PROCEDENCIA DE FRACCIONAMIENTOS, Y
 
 XXIV. LAS DEMÁS QUE LE OTORGUE LA JUNTA DE GOBIERNO, LAS LEYES, LOS REGLAMENTOS Y DEMÁS DISPOSICIONES APLICABLES.
 
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE OCTUBRE DE 2023)</small>
+
+XXV. Las demás que le otorgue la Junta de Gobierno, las Leyes, los Reglamentos y demás disposiciones aplicables.
+
 ###### Artículo 16.
 
 El IPLANAY Contará con los siguientes órganos de gobierno:
@@ -329,25 +345,37 @@ Además, el IPLANAY contará con una Unidad de Transparencia y un Órgano de Con
 
 La Junta de Gobierno del IPLANAY, es la máxima autoridad del organismo y se integrará por:
 
-I. El Presidente, que será electo de entre los siete ciudadanos a que se refiere la fracción II de este artículo;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-II. Siete vocales, miembros de la sociedad civil organizada, a propuesta de organismos cupulares empresariales, académicos y de la sociedad civil, de los cuales uno lo presidirá;
+I. El Presidente, será el titular del Poder Ejecutivo del Estado o la persona que este designe;
 
-III. El Gobernador del Estado y cuatro vocales, titulares de las Dependencias coordinadoras de sector que el Gobernador determine;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-IV. El titular de la Secretaría de la Contraloría, y
+II. Cuatro vocales, miembros de la sociedad civil organizada, a propuesta de organismos cupulares empresariales, académicos y de la sociedad civil;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
+
+III. Cinco vocales, de las Dependencias coordinadoras de sector que el titular del Poder Ejecutivo determine;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
+
+IV. El titular de la Secretaría para la Honestidad y Buena Gobernanza, y
 
 V. El Director General del IPLANAY, quien fungirá como Secretario Técnico.
 
 Las personas a que se refieren las fracciones IV y V, solo tendrán derecho a voz.
 
-Cuando el Gobernador del Estado, asista a la reunión de la Junta de Gobierno, presidirá la sesión y el Presidente ocupará cargo de vocal.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-Los integrantes no podrán nombrar representante alguno para cumplir sus funciones dentro de la Junta de Gobierno.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-Los integrantes de la fracción II durarán en su encargo cuatro años, debiendo ser reelectos por otro periodo tres de los vocales, asegurando que la sustitución no coincida con los cambios de gobierno.
+Los integrantes señalados en la fracción III podrán nombrar representante para cumplir las funciones dentro de la Junta de Gobierno.
 
-El Presidente sólo podrá durar en su encargo un periodo de cuatro años.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2023)</small>
+
+Los integrantes de la fracción II durarán en su encargo cuatro años y podrán ser reelectos por otro periodo dos de los vocales, asegurando que la sustitución no coincida con los cambios de gobierno.
+
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 9 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 18.
 
@@ -545,7 +573,9 @@ En cuanto a la integración, organización y funcionamiento de los Institutos Mu
 
 El Poder Ejecutivo del Estado, a través del IPLANAY, convocará a los integrantes de los otros Poderes del Estado y a los Municipios, en el proceso de planeación a efecto de evaluar y, en su caso, incorporar sus propuestas para el desarrollo de la Entidad.
 
-El Poder Ejecutivo del Estado y los Ayuntamientos conducirán la planeación del desarrollo a través del IPLANAY y los Institutos Municipales con la colaboración del Consejo General de Participación Ciudadana para el Desarrollo del Estado de Nayarit y los Consejos Consultivos Ciudadanos Municipales, de conformidad con lo dispuesto en la presente Ley, en la Ley Municipal para el Estado de Nayarit y las demás disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2023)</small>
+
+El Poder Ejecutivo del Estado y los Ayuntamientos conducirán la planeación del desarrollo a través del IPLANAY y los Institutos Municipales con la colaboración de los Consejos Consultivos Ciudadanos Municipales, de conformidad con lo dispuesto en la presente Ley, en la Ley Municipal para el Estado de Nayarit y las demás disposiciones legales aplicables.
 
 ###### Artículo 34.
 
@@ -561,75 +591,55 @@ La Secretaría contará con atribuciones para la vinculación del IPLANAY y la i
 
 La Secretaría de Administración y Finanzas, en materia de planeación, tendrá las siguientes atribuciones:
 
-I. Participar en la elaboración del Gran Plan y Programas de Gobierno, con el objeto de definir las líneas de la política financiera, fiscal y crediticia;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-II. Proyectar y calcular los ingresos del Gobierno del Estado, considerando las necesidades de recursos y la utilización del crédito público en la ejecución del Gran Plan y los Programas de Gobierno;
+I. Participar en la elaboración del Plan Estatal de Desarrollo, Plan Estratégico y Programas de Gobierno, con el objeto de definir las líneas de la política financiera , fiscal y crediticia;
 
-III. Cuidar que la operación en que se involucre el crédito público, se apegue a los objetivos y prioridades del Gran Plan y los Programas de Gobierno;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
+
+II. Proyectar y calcular los ingresos del Gobierno del Estado, considerando las necesidades de recursos y la utilización del crédito público en la ejecución del Plan Estatal de Desarrollo, Plan Estratégico y los Programas de Gobierno;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
+
+III. Cuidar que la operación en que se involucre el crédito público, se apegue a los objetivos y prioridades del Plan Estatal de Desarrollo, Plan Estratégico y los Programas de Gobierno;
 
 IV. Establecer la coordinación de los programas de orden financiero y administrativo del Gobierno del Estado, con los de la administración pública federal y de los municipios de la Entidad;
 
-V. Tomar en cuenta los efectos de las políticas fiscal, financiera y crediticia, y de precios y tarifas de los servicios públicos proporcionados por el Gobierno del Estado y los Ayuntamientos, para el logro de los objetivos y prioridades del Gran Plan y Programas de Gobierno, y
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
+
+V. Tomar en cuenta los efectos de las políticas fiscal, financiera y crediticia, y de precios y tarifas de los servicios públicos proporcionados por el Gobierno del Estado y los Ayuntamientos, para el logro de los objetivos y prioridades del Plan Estatal de Desarrollo, Plan Estratégico y Programas de Gobierno, y
 
 VI. Aquellas que el titular del Poder Ejecutivo del Estado determine y las que establezcan las disposiciones aplicables.
 
-> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 37.
 
-Corresponde a la Secretaría de la Contraloría General del Estado y a las Contralorías Municipales, el control, vigilancia y evaluación del desempeño de los recursos destinados a la consecución de los objetivos y prioridades del Sistema de Planeación, disponiendo las medidas necesarias para su aplicación de conformidad con las atribuciones que la Ley le confiere.
+Corresponde a la Secretaría para la Honestidad y Buena Gobernanza y a las Contralorías Municipales, el control, vigilancia y evaluación del desempeño de los recursos destinados a la consecución de los objetivos y prioridades del Sistema de Planeación, disponiendo las medidas necesarias para su aplicación de conformidad con las atribuciones que la Ley le confiere.
 
 Asimismo, vigilará y supervisará que los recursos federales transferidos al Estado y los que éste transfiere a su vez a los Municipios, en los términos que ordena la Ley o dispongan los convenios relativos, se apliquen con apego a la normatividad administrativa y técnica.
 
-La coordinación de las acciones de evaluación general de las instancias de Gobierno, competerá a un organismo desconcentrado de la Secretaría de la Contraloría General.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2023)</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2023)</small>
 
 ### CAPÍTULO VII. CONSEJO GENERAL DE PARTICIPACIÓN CIUDADANA PARA EL DESARROLLO DEL ESTADO DE NAYARIT
 
 ###### Artículo 38.
 
-El Consejo General de Participación Ciudadana para el Desarrollo del Estado de Nayarit, es un órgano consultivo del Sistema Estatal de Planeación.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2023)
 
 ###### Artículo 39.
 
-El Consejo General de Participación Ciudadana para el Desarrollo del Estado de Nayarit, será la instancia superior de coordinación de todo el sistema de participación ciudadana, y se integrará por:
-
-I. El Consejo Consultivo Ciudadano del IPLANAY;
-
-II. Los Consejos Consultivos Ciudadanos Regionales;
-
-III. Los Consejos Sectoriales;
-
-IV. Los Consejos Especiales, y
-
-V. Los Consejos Consultivos Ciudadanos de los Institutos Municipales.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2023)
 
 ###### Artículo 40.
 
-Son atribuciones del Consejo General de Participación Ciudadana para el Desarrollo del Estado de Nayarit las siguientes:
-
-I. Participar en el proceso de elaboración de los Instrumentos de Planeación;
-
-II. Fungir como órgano de consulta en los procesos de diagnóstico, planeación, seguimiento y evaluación de los instrumentos de planeación;
-
-III. Implementar mecanismos de consulta y participación social en los procesos de planeación;
-
-IV. Vigilar el cumplimiento de las acciones de difusión en materia de planeación;
-
-V. Realizar propuestas relativas al desarrollo del Estado;
-
-VI. Impulsar la planeación regional con la participación de los Consejos Consultivos Ciudadanos de los Institutos Municipales en congruencia con los objetivos, metas y estrategias de los Instrumentos de Planeación;
-
-VII. Establecer las comisiones de trabajo necesarias para el cumplimiento de sus funciones;
-
-VIII. Promover la celebración de convenios tendientes a orientar los esfuerzos para lograr los objetivos del desarrollo integral de la entidad;
-
-IX. Propiciar vínculos de coordinación con otras estructuras de planeación estatales para el desarrollo de los Estados, a fin de intercambiar programas y proyectos para el desarrollo sustentable de las regiones interestatales, y
-
-X. Las demás que establezca esta Ley, su Reglamento y otras disposiciones jurídicas aplicables.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2023)
 
 ###### Artículo 41.
 
-Para la integración y funcionamiento de los Consejos Consultivos Ciudadanos Municipales, Regionales, Sectoriales y Especiales deberán observarse los criterios de pluralidad, representatividad y especialidad.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2023)
 
 ### CAPÍTULO VIII. REGIONES, CONURBACIONES Y ZONAS METROPOLITANAS
 
@@ -647,7 +657,9 @@ II. Proponer, promover y apoyar técnicamente las acciones e inversiones derivad
 
 III. Dar seguimiento y evaluar los resultados e impactos de los instrumentos de planeación, y
 
-IV. Conformar los Consejos Consultivos Ciudadanos Regionales, de conurbación o metropolitanos que serán de carácter consultivo y formarán parte del Consejo General de Participación Ciudadana para el Desarrollo del Estado de Nayarit.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
+
+IV. Conformar los Consejos Consultivos Ciudadanos Regionales, de conurbación o metropolitanos que serán de carácter consultivo.
 
 ### CAPÍTULO IX. PLANES Y PROGRAMAS
 
@@ -655,13 +667,15 @@ IV. Conformar los Consejos Consultivos Ciudadanos Regionales, de conurbación o 
 
 El Sistema de Planeación contará al menos con los siguientes instrumentos de Planeación para el Estado:
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-I. Plan Estatal de Desarrollo con visión estratégica de largo plazo;
+I. Plan Estatal de Desarrollo;
 
 II. Plan Estatal en materia de Asentamientos Humanos, Desarrollo Urbano y Ordenamiento Ecológico Territorial;
 
-III. (DEROGADA, P.O. 4 DE ABRIL DE 2023)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2023)</small>
+
+III. Plan Estratégico;
 
 IV. Programas de desarrollo regional y/o metropolitano;
 
@@ -675,7 +689,9 @@ VII. Programas presupuestarios anuales.
 
 Los Municipios contarán al menos con los siguientes instrumentos de planeación:
 
-I. Plan Municipal de Desarrollo con un escenario al menos de 25 años;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
+
+I. Plan Municipal de Desarrollo;
 
 II. Sistema Municipal de Planeación del Desarrollo Urbano y el Ordenamiento Ecológico Territorial;
 
@@ -685,13 +701,17 @@ III. Programa de Gobierno con vigencia equivalente al periodo de gobierno de la 
 
 IV. Programas de inversión derivados, parciales, sectoriales, especiales o Institucionales;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-V. Programas presupuestarios anuales, y
+V. Programas presupuestarios anuales;
 
-> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-VI. La Agenda Digital Municipal.
+VI. La Agenda Digital Municipal, y
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2023)</small>
+
+VII. Plan Estratégico Municipal.
 
 > <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
 
@@ -743,13 +763,17 @@ Los programas de los municipios indicarán los programas sectoriales, especiales
 
 Los programas referidos en el artículo anterior, se aprobarán por las Juntas de Gobierno de los institutos municipales y por los Ayuntamientos, respectivamente.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 54.
 
-Los programas sectoriales, especiales, regionales e institucionales tendrán vigencia equivalente al periodo de gobierno de la administración estatal o municipal que los apruebe, deberán estar alineados con el Gran Plan y los municipales de desarrollo y ser actualizados de acuerdo al plan de trabajo que el IPLANAY e Institutos Municipales establezcan para el Sistema de Planeación.
+Los programas sectoriales, especiales, regionales e institucionales tendrán vigencia equivalente al periodo de gobierno de la administración estatal o municipal que los apruebe, deberán estar alineados con el Plan Estatal de Desarrollo, y Planes Municipales de Desarrollo y ser actualizados de acuerdo al plan de trabajo que el IPLANAY e Institutos Municipales establezcan para el Sistema de Planeación.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 55.
 
-Los programas sectoriales se sujetarán a los objetivos, metas y estrategias del Gran Plan y del Programa de Gobierno estatal y municipal, y regirán el desempeño de las dependencias y entidades de la administración pública estatal y municipal comprendidas en el sector de que se trate.
+Los programas sectoriales se sujetarán a los objetivos, metas y estrategias del Plan Estatal de Desarrollo, Plan Estratégico y del Programa de Gobierno estatal y municipal correspondiente, y regirán el desempeño de las dependencias y entidades de la administración pública estatal y municipal comprendidas en el sector de que se trate.
 
 ###### Artículo 56.
 
@@ -837,9 +861,11 @@ La participación ciudadana para la elaboración y actualización de los planes 
 
 El IPLANAY establecerá los mecanismos, criterios, términos y condiciones a que deberán someterse los procesos de participación ciudadana.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 70.
 
-El Poder Ejecutivo del Estado y los Ayuntamientos, emitirán los lineamientos que determinen la organización para la participación social en el Consejo General de Participación Ciudadana para el Desarrollo del Estado de Nayarit y los Consejos Consultivos Ciudadanos Municipales, respectivamente, a través de los Institutos de Planeación.
+El Poder Ejecutivo del Estado y los Ayuntamientos, emitirán los lineamientos que determinen la organización para la participación social en los Consejos Consultivos Ciudadanos Municipales, respectivamente, a través de los Institutos de Planeación.
 
 ###### Artículo 71.
 
@@ -950,3 +976,25 @@ P.O. 4 DE ABRIL DE 2023.
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el (sic)
 
 (sic) Periódico Oficial Órgano del Gobierno del Estado de Nayarit
+
+P.O. 9 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE PLANEACIÓN DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. El Poder Ejecutivo Estatal y los Ayuntamientos del Estado, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto deberán realizar las reformas y adecuaciones al marco normativo que resulte necesario, a fin de armonizarlos al presente Decreto.
+
+En tanto se expiden las disposiciones normativas conducentes, se aplicará el marco normativo vigente en todo aquello que no se oponga al contenido del presente Decreto.
+
+CUARTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán su despacho de conformidad con las disposiciones vigentes al momento de su inicio.
+
+QUINTO. La Junta de Gobierno se instalará en un término de treinta días hábiles contados a partir de la entrada en vigor del presente Decreto, para ello, se deberá de desarrollar el siguiente procedimiento:
+
+a. El Instituto de Planeación de Nayarit IPLANAY emitirá convocatoria pública en un plazo no mayor a diez días hábiles contados a partir de la entrada en vigor del presente Decreto, para la designación de los cuatro vocales ciudadanos, señalados en la fracción II del artículo 17 del presente Decreto.
+
+b. La Convocatoria deberá ser publicada en medios electrónicos y establecerá las etapas correspondientes con los plazos siguientes: diez días hábiles para recibir propuestas, cinco días hábiles para realizar la evaluación y cinco días hábiles para emitir resultados.
+
+SEXTO. Comuníquese el presente Decreto, al Titular del Poder Ejecutivo Estatal, al Instituto de Planeación de Nayarit y a los veinte Ayuntamientos del Estado, para los efectos conducentes.
