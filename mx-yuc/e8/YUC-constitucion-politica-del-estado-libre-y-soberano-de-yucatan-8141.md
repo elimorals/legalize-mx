@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2023-09-29"
+last_updated: "2023-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE OCTUBRE DE 2023.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -52,6 +52,10 @@ Todas las personas en el Estado de Yucatán gozarán de los derechos humanos rec
 > <small>(ADICIONADO, D.O. 26 DE JULIO DE 2013)</small>
 
 Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución Federal, los Tratados Internacionales de la materia y esta Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
+
+> <small>(ADICIONADO, D.O. 9 DE OCTUBRE DE 2023)</small>
+
+El Estado reconoce que todas las personas son iguales ante la ley.
 
 > <small>(ADICIONADO, D.O. 7 DE AGOSTO DE 2009)</small>
 
@@ -1061,13 +1065,17 @@ L.- Designar por el voto de las dos terceras partes de sus miembros presentes en
 
 LI.- Designar y, en su caso, remover al Fiscal General del Estado conforme al procedimiento dispuesto en esta Constitución;
 
-> <small>(ADICIONADA, D.O. 21 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, D.O. 9 DE OCTUBRE DE 2023)</small>
 
-LII.- Designar y, en su caso, remover a la persona Titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, conforme al procedimiento previsto en esta Constitución, y
+LII.- Designar y, en su caso, remover a la persona Titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, conforme al procedimiento previsto en esta Constitución;
+
+> <small>(ADICIONADA, D.O. 9 DE OCTUBRE DE 2023)</small>
+
+LIII.- Designar y, en su caso, remover a la persona Titular de la Secretaría Técnica de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, conforme al procedimiento previsto en la ley orgánica de esta última, y
 
 > <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
 
-LIII.- Las demás que le confiera la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ella emanen.
+LIV.- Las demás que le confiera la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ella emanen.
 
 > <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
@@ -2400,6 +2408,14 @@ La persona Titular de la Agencia de Inteligencia Patrimonial y Económica del Es
 La persona Titular no podrá tener otro empleo, cargo o comisión, en los sectores público, social o privado, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia.
 
 El presupuesto de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán no podrá ser disminuido respecto al del año inmediato anterior y se incrementará anualmente, al menos, conforme al resultado de la inflación general anual registrada para el mes de diciembre del año anterior, publicado por el Instituto Nacional de Estadística y Geografía en la primera quincena del mes de enero del año de su elaboración, sin exceder del 10% del presupuesto total asignado a la agencia en comento en el año anterior.
+
+> <small>(ADICIONADO, D.O. 9 DE OCTUBRE DE 2023)</small>
+
+La Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán contará con una secretaría técnica, cuya persona titular se encargará de brindar apoyo y asesoría técnica a la persona titular de la agencia, para la resolución de los asuntos de su competencia, en términos de lo que establezca su ley orgánica.
+
+> <small>(ADICIONADO, D.O. 9 DE OCTUBRE DE 2023)</small>
+
+La persona Titular de la Secretaría Técnica de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, será designada por el Congreso del Estado y durará en el cargo quince años, contados a partir de la fecha en la que rinda el compromiso constitucional respectivo, al término del cual no podrá ser ratificada para un segundo período. Para ocupar el cargo, deberá cumplir con los requisitos y el procedimiento que establezca la Ley Orgánica de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán.
 
 (REUBICADO [N. DE E. ANTES TÍTULO SÉPTIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
 
@@ -5722,3 +5738,39 @@ Los ayuntamientos de los municipios que no cuenten con infraestructura y persona
 Artículo Tercero. De las vacantes
 
 Las instancias municipales de las mujeres a que se refiere este decreto deberán cumplir, en la ocupación de sus puestos de nueva creación y las vacantes, lo dispuesto en (sic) párrafo segundo del artículo 80 de la Ley de Gobierno de los Municipios del Estado de Yucatán.
+
+D.O. 9 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 682/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN Y LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATÁN, EN MATERIA DE LENGUAJE INCLUYENTE Y NO SEXISTA, PARA NOMBRAR A MUJERES Y HOMBRES EN EL QUEHACER PÚBLICO COMPETENTE”.]
+
+Entrada en vigor
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía en lo que se opongan al presente Decreto.
+
+Obligación Normativa
+
+Artículo Tercero. La persona Titular del Poder Ejecutivo del Estado deberá modificar el Reglamento del Código de la Administración Pública de Yucatán, en un plazo no mayor a ciento ochenta días, contado a partir de la entrada en vigor de este Decreto.
+
+D.O. 9 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 684/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN Y SE EMITE LA LEY ORGÁNICA DE LA AGENCIA DE INTELIGENCIA PATRIMONIAL Y ECONÓMICA DEL ESTADO DE YUCATÁN".]
+
+Entrada en vigor
+
+Artículo Primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Reglamento interior
+
+Artículo Segundo. La Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán deberá expedir su reglamento interior dentro de un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Toma de protesta de la persona designada titular de la agencia
+
+Artículo Tercero. El Congreso del Estado deberá notificar a la persona designada titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, dentro de un plazo de treinta días hábiles, contado a partir de la entrada en vigor de este decreto a fin de rendir el compromiso constitucional.
+
+Nombramiento de quien ocupe la Secretaría Técnica
+
+Artículo Cuarto. La persona titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, dentro de un plazo de treinta días hábiles, contado a partir de la rendición del compromiso constitucional, deberá iniciar el procedimiento para nombrar a la persona titular de la Secretaría Técnica en los términos establecidos en el presente decreto.
