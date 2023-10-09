@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-del-poder-legislativo-del-estado-de-yucatan-768
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-04"
-last_updated: "2023-04-21"
+last_updated: "2023-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE OCTUBRE DE 2023.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 4 de octubre de 2010.
 
@@ -505,9 +505,15 @@ Para la conducción y desarrollo de las sesiones fuera del recinto legislativo s
 
 ### CAPÍTULO III. De los Proyectos y Reformas de Leyes, Decretos y Resoluciones del Congreso
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 16.
 
-El derecho de iniciar leyes y decretos, corresponde a los sujetos relacionados en el artículo 35 de la Constitución Política del Estado de Yucatán. De igual forma, tendrán derecho de retirar su iniciativa, el o los autores de la misma mediante escrito signado, siempre que no hubiere sido dictaminado.
+El derecho de iniciar leyes y decretos, corresponde a los sujetos relacionados en el artículo 35 de la Constitución Política del Estado de Yucatán. De igual forma, tendrán derecho de retirar su iniciativa, quien o quienes la hayan suscrito, mediante escrito signado, siempre que no hubiere sido dictaminado.
+
+> <small>(ADICIONADO, D.O. 9 DE OCTUBRE DE 2023)</small>
+
+Las iniciativas deberán estar redactadas en términos claros, utilizando correctamente el lenguaje incluyente así como el lenguaje no sexista.
 
 > <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
@@ -1525,7 +1531,9 @@ IX.- Rendir previo Acuerdo con el Presidente del Congreso, los informes previos 
 
 X.- Verificar que se redacten las actas de las sesiones públicas en los términos establecidos en esta Ley y en su reglamento, y entregarlas para su revisión, a la Mesa Directiva;
 
-XI.- Revisar los proyectos de Ley, Decreto o Acuerdo, comunicaciones y demás documentos que se expida, así como de aquellos cuya impresión se acuerde, procurando su adecuada redacción, bajo la supervisión de la Mesa Directiva;
+> <small>(REFORMADA, D.O. 9 DE OCTUBRE DE 2023)</small>
+
+XI.- Revisar los proyectos de Ley, Decreto o Acuerdo, comunicaciones y demás documentos que se expidan, así como de aquellos cuya impresión se acuerde, procurando su adecuada redacción, así como la correcta utilización de lenguaje incluyente y lenguaje no sexista, bajo la supervisión de la Mesa Directiva;
 
 XII.- Auxiliar a los secretarios de la Mesa Directiva en la elaboración de las actas de las sesiones;
 
@@ -1773,9 +1781,15 @@ El Director General de Administración y Finanzas deberá cubrir los requisitos 
 
 #### Sección Única. De la Comunicación Social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 78.
 
-El Poder Legislativo informará de los asuntos resueltos por sus órganos, con el fin de difundir entre habitantes del Estado sus alcances y beneficios para contribuir a la formación de una opinión pública responsable.
+El Poder Legislativo informará de los asuntos resueltos por sus órganos, con el fin de difundir entre las y los habitantes del Estado sus alcances y beneficios para contribuir a la formación de una opinión pública responsable.
+
+> <small>(ADICIONADO, D.O. 9 DE OCTUBRE DE 2023)</small>
+
+Conforme a lo anterior, la Unidad de Comunicación Social del Poder Legislativo observará en todo momento, el uso adecuado del lenguaje incluyente y del lenguaje no sexista, en toda clase de comunicación que de éste Poder emane.
 
 ###### Artículo 79.
 
@@ -2116,3 +2130,19 @@ Artículo primero. Este decreto entrará en vigor el día de su publicación en 
 Armonización legislativa
 
 Artículo segundo. El Congreso del estado realizará las reformas necesarias para armonizar la legislación del estado a lo previsto en este decreto en un plazo de ciento ochenta días naturales, contados a partir de su entrada en vigor.
+
+D.O. 9 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 682/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN Y LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATÁN, EN MATERIA DE LENGUAJE INCLUYENTE Y NO SEXISTA, PARA NOMBRAR A MUJERES Y HOMBRES EN EL QUEHACER PÚBLICO COMPETENTE”.]
+
+Entrada en vigor
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía en lo que se opongan al presente Decreto.
+
+Obligación Normativa
+
+Artículo Tercero. La persona Titular del Poder Ejecutivo del Estado deberá modificar el Reglamento del Código de la Administración Pública de Yucatán, en un plazo no mayor a ciento ochenta días, contado a partir de la entrada en vigor de este Decreto.
