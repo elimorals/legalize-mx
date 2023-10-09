@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-sistema-de-geografia-estadistica-y-evaluacion-del-10652
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-27"
-last_updated: "2020-10-15"
+last_updated: "2023-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL SISTEMA DE GEOGRAFÍA, ESTADÍSTICA Y EVALUACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2023.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 27 de diciembre de 2014.
 
@@ -67,9 +67,7 @@ I. Actividades: Las relativas al diseño, captación, producción, actualizació
 
 II. Comité: El Comité Estatal de Información Estadística y Geográfica;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2020)</small>
-
-III. Gran Plan: Gran Plan Estatal de Desarrollo con visión estratégica de largo plazo;
+III. (DEROGADA, P.O. 9 DE OCTUBRE DE 2023)
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2020)</small>
 
@@ -103,9 +101,13 @@ X. Levantamiento Aerofotográfico: Técnica que, mediante fotografías aéreas v
 
 XI. Levantamiento Geodésico: El conjunto de procedimientos y operaciones de campo y gabinete, destinado a determinar las coordenadas geodésicas de puntos sobre el terreno considerando la curvatura de la Tierra, elegidos y demarcados con respecto al sistema de referencia en uso;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-XII. Programa de Gobierno: El Programa de Gobierno del Estado;
+XII. Plan Estatal de Desarrollo: Es el documento rector en el que se define la visión sexenal del Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2023)</small>
+
+XII Bis. Plan Estratégico: Es el documento rector en el que se define la visión estratégica a largo plazo de las distintas políticas para el desarrollo integral del Estado de Nayarit; que contendrá una proyección de al menos 25 años;
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
 
@@ -171,9 +173,9 @@ VI. Poner a disposición del Sistema Nacional la información estadística y geo
 
 VII. Promover la capacitación técnica de las Unidades y la cultura del uso de la información estadística y geográfica;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-VIII. Elaborar y someter a la aprobación del Comité, el Programa Estatal, asegurando su inclusión en el Gran Plan y Programa de Gobierno y la congruencia con los programas establecidos por el Sistema Nacional;
+VIII. Elaborar y someter a la aprobación del Comité, el Programa Estatal, asegurando su inclusión en el Plan Estratégico y en el Plan Estatal de Desarrollo y la congruencia con los programas establecidos por el Sistema Nacional;
 
 IX. Ejecutar los acuerdos y disposiciones que en su caso dicte el Gobernador en relación al objeto de esta ley;
 
@@ -185,9 +187,9 @@ XII. Solicitar a las Unidades la información que éstas obtengan en el ámbito 
 
 XIII. Promover los levantamientos aerofotográficos, geodésicos y de información cartográfica que sea necesaria, para el cumplimiento del objeto de esta ley;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-XIV. Coordinarse con las Unidades en la realización de estudios e investigaciones que permitan conocer la realidad sociodemográfica, educativa, económica, ambiental, así como del gobierno, seguridad y justicia, para apoyar la ejecución y evaluación de las políticas y estrategias del Gran Plan y Programa de Gobierno;
+XIV. Coordinarse con las Unidades en la realización de estudios e investigaciones que permitan conocer la realidad sociodemográfica, educativa, económica, ambiental, así como del gobierno, seguridad y justicia, para apoyar la ejecución y evaluación de las políticas y estrategias del Plan Estratégico y del Plan Estatal de Desarrollo;
 
 XV. Realizar la denuncia o querella ante la instancia correspondiente por mala utilización de la información;
 
@@ -319,9 +321,9 @@ II. Definir al interior de su estructura orgánica, el o los enlaces que serán 
 
 III. Proporcionar en tiempo y forma al Instituto, la información que éste solicite;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-IV. Colaborar en la integración de un sistema de indicadores de gestión que permita el diseño, seguimiento y evaluación del Gran Plan y Programa de Gobierno;
+IV. Colaborar en la integración de un sistema de indicadores de gestión que permita el diseño, seguimiento y evaluación del Plan Estratégico y del Plan Estatal de Desarrollo;
 
 V. Elaborar, sujetándose a la normatividad y disponibilidad presupuestaria los anteproyectos de presupuesto anual para la realización de los trabajos estadísticos y geográficos de su competencia;
 
@@ -371,9 +373,9 @@ Así también institucionalizar y operar un esquema coordinado con las Unidades 
 
 El Sistema tendrá como objetivos específicos:
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-I. Proveer la información necesaria para el diseño, seguimiento y evaluación del Gran Plan y Programa de Gobierno, así como de programas y proyectos ejecutados por las dependencias del Gobierno del Estado y los municipios;
+I. Proveer la información necesaria para el diseño, seguimiento y evaluación del Plan Estratégico y del Plan Estatal de Desarrollo, así como de programas y proyectos ejecutados por las dependencias del Gobierno del Estado y los municipios;
 
 II. Mantener, mejorar y actualizar la información estadística y geográfica del Estado;
 
@@ -511,9 +513,9 @@ El Programa Estatal se publicará en el Periódico Oficial, Órgano del Gobierno
 
 El Programa Estatal, cumplirá con los siguientes lineamientos:
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-I. Será elaborado cada seis años formando parte de los programas sectoriales, regionales y especiales del Programa de Gobierno derivado del Gran Plan, con el Programa de Gobierno y en congruencia con el Programa Nacional de Estadística y Geografía, debiendo evaluarse y actualizarse al final de cada gestión del Gobierno Estatal o cuando se modifique el Programa Nacional aludido;
+I. Será elaborado cada seis años formando parte de los programas sectoriales, regionales y especiales del Plan Estatal de Desarrollo derivado del Plan Estratégico, con el Programa de Gobierno y en congruencia con el Programa Nacional de Estadística y Geografía, debiendo evaluarse y actualizarse al final de cada gestión del Gobierno Estatal o cuando se modifique el Programa Nacional aludido;
 
 II. Establecerá el conjunto de proyectos y actividades a ser realizados por las Unidades durante cada periodo del Gobierno Estatal, en congruencia con el Programa Nacional de Estadística y Geografía en lo relativo al contenido temático de la información correspondiente a los subsistemas;
 
@@ -770,3 +772,19 @@ P.O. 15 DE OCTUBRE DE 2020.
 PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del Nayarit.
 
 SEGUNDO. El Titular del Poder Ejecutivo del Estado, deberá realizar las modificaciones al Reglamento de la presente Ley dentro del término de ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE GEOGRAFÍA, ESTADÍSTICA Y EVALUACIÓN DEL ESTADO DE NAYARIT".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. El Poder Ejecutivo Estatal en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto deberán realizar las reformas y adecuaciones al marco normativo que resulte necesario, a fin de armonizarlos al presente Decreto.
+
+En tanto se expiden las disposiciones normativas conducentes, se aplicará el marco normativo vigente en todo aquello que no se oponga al contenido del presente Decreto.
+
+CUARTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán su despacho de conformidad con las disposiciones vigentes al momento de su inicio.
+
+QUINTO. Comuníquese el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos conducentes.
