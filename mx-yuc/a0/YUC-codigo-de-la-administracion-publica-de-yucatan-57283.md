@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2023-06-28"
+last_updated: "2023-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE OCTUBRE DE 2023.
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -433,9 +433,11 @@ VIII.- Los demás que dispongan otras leyes.
 
 Artículo 26 bis. La titularidad de la Secretaría de las Mujeres deberá recaer, preferentemente, en una mujer, quien deberá, además de cumplir con los requisitos previstos en el artículo anterior de este Código, acreditar conocimientos y experiencia en materia de igualdad entre mujeres y hombres, equidad de género y prevención de violencia contra las mujeres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 27.
 
-A los titulares de las dependencias les corresponde el despacho de los siguientes asuntos:
+A las y los titulares de las dependencias les corresponde el despacho de los siguientes asuntos:
 
 I.- Desempeñar las funciones y obligaciones que el Gobernador del Estado y el presente Código les establezcan;
 
@@ -505,9 +507,13 @@ XXIII.- Garantizar el uso eficiente de los recursos al interior de su dependenci
 
 XXIV.- Participar en el Sistema de Gabinete Sectorizado y ejecutar los acuerdos y resoluciones que se tomen en el seno del mismo, y
 
+> <small>(ADICIONADA, D.O. 9 DE OCTUBRE DE 2023)</small>
+
+XXV.- Promover la adopción del lenguaje incluyente y del lenguaje no sexista al interior de su dependencia, en la comunicación propia y en la que las y los servidores públicos bajo su supervisión entablen con la ciudadanía, así como en los servicios públicos que se brindan a través de la dependencia a su cargo. Lo anterior, conforme a los reglamentos, manuales, guías y protocolos que emitan las autoridades competentes al respecto.
+
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
-XXV.- Los demás que dispongan las leyes, reglamentos, convenios de colaboración administrativa celebrados o que se celebren, relativos a la dependencia a su cargo.
+XXVI.- Los demás que dispongan las leyes, reglamentos, convenios de colaboración administrativa celebrados o que se celebren, relativos a la dependencia a su cargo.
 
 > <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
@@ -773,9 +779,9 @@ XLIII.- Reintegrar a la Tesorería de la Federación las transferencias etiqueta
 
 XLIV.- Ejercer las atribuciones que le correspondan de conformidad con lo establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley General de Contabilidad Gubernamental, y
 
-> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O. 9 DE OCTUBRE DE 2023)</small>
 
-XLV.- Definir las políticas y los lineamientos del Poder Ejecutivo y coordinar el desempeño de las dependencias y entidades en materia de comunicación social, de conformidad con la legislación aplicable.
+XLV.- Definir las políticas y los lineamientos del Poder Ejecutivo y coordinar el desempeño de las dependencias y entidades en materia de comunicación social, así como promover que las dependencias y entidades conforme a los reglamentos, manuales, guías y protocolos que emitan las autoridades competentes al respecto, puedan adoptar un lenguaje incluyente y lenguaje no sexista en toda la administración pública estatal y en la comunicación que las personas funcionarias entablen de manera pública con la ciudadanía.
 
 ### CAPÍTULO III. De la Consejería Jurídica
 
@@ -1713,7 +1719,9 @@ XXIX.- Conducir, conforme a las bases de coordinación que establezcan los comit
 
 XXX.- Implementar las políticas de coordinación que promuevan los comités coordinadores de los sistemas Nacional y Estatal Anticorrupción, en materia de combate a la corrupción en la Administración Pública estatal, y
 
-XXXI.- Emitir el código de ética de los servidores públicos del estado y las reglas de Integridad para el ejercicio de la función pública.
+> <small>(REFORMADA, D.O. 9 DE OCTUBRE DE 2023)</small>
+
+XXXI.- Emitir el código de ética de las y los servidores públicos del estado y las reglas de Integridad para el ejercicio de la función pública, el cual deberá contener las acciones necesarias que propicien en todo momento el respeto en la comunicación pública que las personas servidoras públicas entablen con la ciudadanía, así como el uso adecuado del lenguaje incluyente y del lenguaje no sexista a través de los medios de comunicación tradicionales y digitales como las diversas plataformas y redes sociales, de conformidad a los reglamentos, manuales, guías y protocolos que emitan las autoridades competentes al respecto.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], D.O. 14 DE OCTUBRE DE 2015)</small>
 
@@ -3728,3 +3736,19 @@ Artículo primero. Este decreto entrará en vigor al día siguiente de su public
 Clausula derogatoria
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan a este decreto.
+
+D.O. 9 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 682/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN Y LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATÁN, EN MATERIA DE LENGUAJE INCLUYENTE Y NO SEXISTA, PARA NOMBRAR A MUJERES Y HOMBRES EN EL QUEHACER PÚBLICO COMPETENTE".]
+
+Entrada en vigor
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía en lo que se opongan al presente Decreto.
+
+Obligación Normativa
+
+Artículo Tercero. La persona Titular del Poder Ejecutivo del Estado deberá modificar el Reglamento del Código de la Administración Pública de Yucatán, en un plazo no mayor a ciento ochenta días, contado a partir de la entrada en vigor de este Decreto.
