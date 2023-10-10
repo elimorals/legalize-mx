@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2023-10-06"
+last_updated: "2023-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE OCTUBRE DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -130,6 +130,10 @@ XIX. Relación afectiva o de hecho: Aquella en la que se comparte una relación 
 
 XX. Tipos de violencia: Los distintos daños que puede ocasionar la violencia contra las mujeres;
 
+> <small>(ADICIONADA, G.O. 10 DE OCTUBRE DE 2023)</small>
+
+XX Bis. Servicios reeducativos: Procesos mediante los cuales se trabaja con las personas agresoras de manera individual o colectiva, con el objetivo de erradicar las creencias de supremacía masculina, las prácticas machistas y aquellas conductas que posibilitan, justifican y sostienen el ejercicio de las violencias contra las mujeres en cualquiera de sus tipos y modalidades;
+
 XXI. Tribunal: El Tribunal Superior de Justicia de la Ciudad de México;
 
 XXII. Víctima: La mujer de cualquier edad que sufra algún tipo de violencia;
@@ -184,7 +188,9 @@ II. Contar con protección inmediata y efectiva por parte de las autoridades cua
 
 Incluyendo para efectos de prevención de riesgo de sufrir algún acto de violencia sexual, el que exista un Registro PÚBLICO de Personas Agresoras Sexuales, en los términos y bajo las características que señale la normatividad aplicable;
 
-III. Recibir información veraz y suficiente que les permita decidir sobre las opciones de atención;
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2023)</small>
+
+III. Recibir información veraz y suficiente que les permita decidir sobre las opciones de atención, así como la orientación, atención y de ser necesario, la canalización oportuna por parte de las autoridades;
 
 IV. Contar con asesoría y representación jurídica gratuita y expedita;
 
@@ -334,7 +340,9 @@ V. Violencia Docente: Es aquella que puede ocurrir cuando se daña la autoestima
 
 La violencia docente se sanciona de acuerdo con lo establecido en los artículos 131, 148 Bis, 179 y 181 Ter del Código Penal para el Distrito Federal;
 
-VI. Violencia en la Comunidad: Es aquella cometida de forma individual o colectiva, que atenta contra su seguridad e integridad personal y que puede ocurrir en el barrio, en los espacios públicos o de uso común, de libre tránsito o en inmuebles públicos propiciando su discriminación, marginación o exclusión social;
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2023)</small>
+
+VI. Violencia en la Comunidad: Es aquella cometida de forma individual o colectiva, que atenta contra su seguridad e integridad personal y que puede ocurrir en el barrio, en los espacios públicos o de uso común, de libre tránsito, en inmuebles públicos o medios de transporte público, propiciando su discriminación, marginación o exclusión social;
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
 
@@ -564,9 +572,9 @@ Se crea el Registro PÚBLICO de Personas Agresoras Sexuales de la Ciudad de Méx
 
 Corresponde a las dependencias, órganos, entidades de la Ciudad de México y a las Alcaldías:
 
-> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2023)</small>
 
-I. Capacitar y especializar a su personal en materia de derechos humanos de las mujeres con apego a los lineamientos establecidos por la Secretaría de las Mujeres;
+I. Capacitar y especializar a las personas servidoras públicas en materia de derechos humanos de las mujeres, igualdad y perspectiva de género, con apego a los lineamientos establecidos por la Secretaría de las Mujeres;
 
 II. Difundir las campañas informativas sobre los tipos y modalidades de la violencia contra las mujeres, así como de las instituciones que atienden a las víctimas;
 
@@ -690,7 +698,9 @@ VII. Las demás que le señalen las disposiciones legales.
 
 La Secretaría de Educación, Ciencia, Tecnología e Innovación, deberá:
 
-I. Formular, coordinar y ejecutar políticas, programas y acciones de promoción de los derechos humanos de las mujeres;
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2023)</small>
+
+I. Formular, coordinar y ejecutar políticas, programas y acciones de promoción de los derechos humanos de las mujeres, y de prevención de todas las formas de violencia contra las mujeres, adolescentes y niñas.
 
 II. Generar acciones y mecanismos que favorezcan el desarrollo de las potencialidades de las mujeres en todas las etapas del proceso educativo;
 
@@ -790,15 +800,21 @@ IV. Las demás que le señalen las disposiciones legales aplicables y el Reglame
 
 El Sistema para el Desarrollo Integral de la Familia de la Ciudad de México deberá:
 
-I. Diseñar y promover campañas de información de prevención de la violencia contra las mujeres;
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2023)</small>
+
+I. Diseñar y promover campañas de información de prevención de la violencia contra las niñas, adolescentes y mujeres;
+
+> <small>(ADICIONADA, G.O. 10 DE OCTUBRE DE 2023)</small>
+
+I Bis. Diseñar y promover campañas de información sobre las nuevas masculinidades con perspectiva de género y protección de los derechos humanos para la prevención de la violencia a través de los procesos educativos y socioculturales;
 
 II. Desarrollar campañas de difusión sobre los servicios que brinda;
 
 III. Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres;
 
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2023)</small>
 
-IV. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social de la persona agresora de violencia sexual; siempre y cuando exista un modelo de abordaje psicoterapéutico debidamente probado en sus beneficios y alcances y supervisado por la Secretaria de las Mujeres; y
+IV. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social de la persona agresora de violencia sexual o cualquier otro tipo de violencia; siempre y cuando exista un modelo de abordaje psicoterapéutico debidamente probado en sus beneficios y alcances y supervisado por la Secretaría de las Mujeres;
 
 > <small>(ADICIONADA, G.O. 14 DE OCTUBRE DE 2020)</small>
 
@@ -822,7 +838,9 @@ La Secretaría de Seguridad Ciudadana deberá:
 
 I. Elaborar e implementar en coordinación con la Fiscalía, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva, así como a aquellas donde residan un mayor número de personas inscritas en el Registro;
 
-II. Generar mecanismos de prevención, detección y canalización de las mujeres víctimas de violencia;
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2023)</small>
+
+II. Generar y participar en la creación de mecanismos y protocolos de prevención, atención, detección y canalización de las mujeres víctimas de violencia en cualquier ambiente, en coordinación (sic) aquellas instancias y/o dependencias que sean competentes en la materia y en apego a la normativa aplicable en la materia;
 
 > <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
 
@@ -845,6 +863,10 @@ IV Quáter. Expedir los mecanismos que permitan inscribir, acceder, rectificar, 
 > <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
 
 V. Realizar, en coordinación con la Secretaría de las Mujeres campañas de prevención del delito, en función de los factores de riesgo que atañen a las mujeres, incluyendo los de carácter sexual, y las consultas al Registro;
+
+> <small>(ADICIONADA, G.O. 10 DE OCTUBRE DE 2023)</small>
+
+V Bis. Implementar en los Centros Penitenciarios, Centro de Sanciones Administrativas y de Integración Social, Centros Especializados y acción cívica, Centros de Reinserción Social, servicios reeducativos especializados en masculinidades no violentas, con perspectiva de género y de protección de los derechos humanos, con el objetivo de erradicar las creencias de supremacía masculina, las prácticas machistas y aquellas conductas que posibilitan, justifican y sostienen el ejercicio de las violencias contra las mujeres en cualquiera de sus tipos y modalidades;
 
 > <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1088,6 +1110,10 @@ IV. Proporcionar atención en salud reproductiva de las mujeres, en especial de 
 
 V. Diseñar y ejecutar programas especializados para atender a mujeres víctimas de violencia con necesidades de salud mental, en los (sic) Casas de Emergencia y Centros de Refugio; y
 
+> <small>(ADICIONADA, G.O. 10 DE OCTUBRE DE 2023)</small>
+
+V Bis. Capacitar al personal al interior de sus instancias de atención sobre las dinámicas de la violencia vicaria a efecto de concientizarles sobre la importancia de brindar a las madres la información sobre el estado de salud de sus hijas e hijos, así como personas con discapacidad o en situación de dependencia, sin necesidad de orden judicial, sujetándose a las disposiciones y la normatividad interna en materia de Salud, y
+
 VI. Las demás que le atribuyan otras leyes y el Reglamento de la presente Ley.
 
 ###### Artículo 37.
@@ -1290,9 +1316,13 @@ La Secretaría de las Mujeres y las 16 Alcaldías, deberán actuar de forma coor
 
 Con este propósito podrán celebrar convenios o proyectos de coinversión con las organizaciones de la sociedad civil especializadas en los temas de competencia, para el diseño, concertación de acciones y programas de financiamiento y apoyo a las Casas de Emergencia o Centros de Refugio.
 
-> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2023)</small>
 
-Las Alcaldías deberán contemplar en su Plan de Egresos de cada año lo establecido en la presente ley para la instalación progresiva, operatividad y/o el mantenimiento de la o las respectivas Casas de Emergencia. Los Centros de Refugio se sujetarán a las disposiciones de financiamiento y concertación de acciones establecidas en la presente ley y demás normativa aplicable.
+Las Alcaldías podrán celebrar convenios de colaboración y coordinación con diversas dependencias e instituciones del gobierno de la Ciudad de México, para garantizar que, en el proceso de instalación de las Casas de emergencia, se cuente con el personal suficiente y debidamente capacitado para atender a las mujeres víctimas de violencia, sus hijas e hijos, de acuerdo con lo establecido en la presente Ley y el Modelo Único de Atención.
+
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2023)</small>
+
+Las Alcaldías deberán contemplar en su Plan de Egresos de cada año lo establecido en la presente ley para la instalación progresiva, operatividad y/o el mantenimiento de la o las respectivas Casas de Emergencia. El recurso público designado deberá considerar la capacitación y especialización en temas de género, derechos humanos y prevención de la violencia contra las mujeres del personal que laborará en las Casas de Emergencia.
 
 El Congreso de la Ciudad de México deberá considerar lo establecido por la presente ley para la asignación de recursos a las Alcaldías en cada ejercicio fiscal.
 
@@ -1720,9 +1750,17 @@ III. Prohibición al agresor de enajenar o gravar de cualquier forma bienes de l
 
 IV.- Obligación alimentaría provisional e inmediata, y
 
-> <small>(ADICIONADA, G.O. 19 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2023)</small>
 
-V. Recuperación y entrega inmediata de las niñas, niños y adolescentes menores de 18 años de la víctima y/o personas incapaces que requieran cuidados especiales.
+V. Recuperación y entrega inmediata de las hijas, hijos, personas menores de 18 años y/o personas que requieran cuidados especiales, a las mujeres víctimas de cualquier tipo (sic) violencia.
+
+> <small>(ADICIONADA, G.O. 10 DE OCTUBRE DE 2023)</small>
+
+VI. Restablecimiento inmediato de las convivencias de las hijas o hijos con su progenitora.
+
+> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2023)</small>
+
+Las personas juzgadoras deberán recibir por cualquier medio las solicitudes de medidas en materia civil y familiar, incluidas las que se presentan por escrito, decretando a favor de las mujeres la medida por la situación de violencia que están viviendo.
 
 ###### Artículo 72.
 
@@ -2171,3 +2209,19 @@ G.O. 6 DE OCTUBRE DE 2023.
 PRIMERO. Remítase el presente decreto a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 10 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XX BIS AL ARTÍCULO 3, UNA FRACCIÓN I BIS AL ARTÍCULO 24, UNA FRACCIÓN V BIS AL ARTÍCULO 25, UN PÁRRAFO TERCERO AL ARTÍCULO 53 RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES; Y SE MODIFICA LA FRACCIÓN III DEL ARTÍCULO 5, LA FRACCIÓN VI DEL ARTÍCULO 7, LAS FRACCIONES I Y IV DEL ARTÍCULO 24, LA FRACCIÓN II DEL ARTÍCULO 25, Y EL PÁRRAFO TERCERO DEL ARTÍCULO 53, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 10 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN V BIS AL ARTÍCULO 36, LA FRACCIÓN VI Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 71; SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 15, LA FRACCIÓN I DEL ARTÍCULO 19, Y LA FRACCIÓN V DEL ARTÍCULO 71, TODAS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México, y
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
