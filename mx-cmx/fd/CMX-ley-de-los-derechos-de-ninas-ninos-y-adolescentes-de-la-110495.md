@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2023-06-12"
+last_updated: "2023-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE OCTUBRE DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -273,6 +273,10 @@ XXXIV. Medidas de protección especial: Conjunto de acciones, programas y activi
 > <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2021)</small>
 
 XXXV. Órgano Jurisdiccional: Los juzgados o tribunales de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 10 DE OCTUBRE DE 2023)</small>
+
+XXXV Bis. Orfandad: La situación de desamparo en que se encuentra una niña, niño o adolescente cuando la madre, padre, o ambos, han fallecido;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
@@ -1276,9 +1280,15 @@ XVIII. Fomentar, promover y proteger la práctica de lactancia materna como medi
 
 En todos los casos que proporcionen los servicios de salud se respetará el derecho a la intimidad de niñas, niños y adolescentes y a un trato digno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 48.
 
-Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias y de conformidad con las disposiciones aplicables, deberán garantizar el derecho a la seguridad social.
+Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias y de conformidad con las disposiciones aplicables, deberán garantizar el derecho y acceso a la seguridad social.
+
+> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2023)</small>
+
+Se dará prioridad de acceso a las políticas públicas de seguridad social a las niñas, niños y adolescentes en situación de orfandad, víctimas indirectas de la comisión de algún delito en términos de la Ley de Víctimas para la Ciudad de México; o con motivo de una Declaración Especial de ausencia respecto de sus progenitores o cuidadores en los términos de la Ley de la materia.
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2017)</small>
 
@@ -1390,7 +1400,9 @@ IV. Establecer las condiciones necesarias para fortalecer la calidad educativa, 
 
 V. Administrar los recursos destinados a la educación pública en la Ciudad de México para garantizar la educación de calidad de niñas, niños y adolescentes;
 
-VI. Establecer acciones afirmativas para garantizar el derecho a la educación de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria, entorno familiar o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales;
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2023)</small>
+
+VI. Establecer acciones afirmativas para garantizar el derecho a la educación de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria, de orfandad, entorno familiar o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales;
 
 VII. Prestar servicios educativos en condiciones de normalidad mínima, entendida ésta como el conjunto de condiciones indispensables que deben cumplirse en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje de los educandos;
 
@@ -1398,7 +1410,9 @@ VIII. Implementar mecanismos para la atención, canalización y seguimiento de l
 
 IX. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
 
-X. Establecer mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite en los centros educativos;
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2023)</small>
+
+X. Establecer mecanismos para la prevención, atención y canalización para eliminar y erradicar los casos de maltrato, perjuicio, daño, agresión, abuso, acoso y/o violencia sexual o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite en (sic) dentro y fuera de los centros educativos;
 
 XI. Se elaboren protocolos de actuación sobre situaciones de acoso o violencia escolar para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
 
@@ -2889,5 +2903,29 @@ G.O. 12 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VI Y SE ADICIONA UNA FRACCIÓN VI BIS AL ARTÍCULO 59 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO".]
 
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 10 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 58 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 10 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 48 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 10 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXXV BIS AL ARTÍCULO 4 Y SE MODIFICA LA FRACCIÓN VI DEL ARTÍCULO 58, AMBOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
