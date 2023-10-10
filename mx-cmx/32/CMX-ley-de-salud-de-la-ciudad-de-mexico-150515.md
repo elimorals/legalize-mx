@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-de-la-ciudad-de-mexico-150515"
 country: "mx"
 rank: "ley"
 publication_date: "2021-08-09"
-last_updated: "2023-08-04"
+last_updated: "2023-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150515&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2021-08-06"
 
 LEY DE SALUD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE OCTUBRE DE 2023.
 
 Ley publicada en el No. 657 de la Gaceta Oficial de la Ciudad de México, el lunes 9 de agosto de 2021.
 
@@ -1228,6 +1228,10 @@ III. Fomentar la salud individual y colectiva por medio de políticas sanitarias
 
 IV. Alentar en las personas la generación de una conciencia informada y responsable sobre la importancia del autocuidado de la salud;
 
+> <small>(ADICIONADA, G.O. 10 DE OCTUBRE DE 2023)</small>
+
+IV BIS. Realizar campañas de concientización sobre los riesgos de la automedicación;
+
 V. Intensificar los procesos de educación para la salud por medio de la información y motivación de la población para que adopten medidas destinadas a mejorar la salud y evitar los factores y comportamientos de riesgo que les permitan tener control sobre su propia salud;
 
 VI. Establecer medidas para el diagnóstico temprano, por medio del examen preventivo periódico y pruebas de tamizaje en población determinada y asintomática, con el fin de modificar los indicadores de morbilidad y mortalidad;
@@ -2058,6 +2062,10 @@ Toda persona es disponente de los órganos y tejidos de su cuerpo y podrá donar
 
 La donación se realizará mediante consentimiento expreso y consentimiento tácito. La donación por consentimiento expreso deberá constar por escrito y podrá ser amplia cuando se refiera a la disposición total del cuerpo o limitada cuando sólo se otorgue respecto de determinados componentes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE OCTUBRE DE 2023)</small>
+
+La donación expresa, cuando corresponda a mayores de edad con capacidad jurídica, no podrá ser revocada por terceros, pero el donante podrá revocar su consentimiento en cualquier momento, sin responsabilidad de su parte.
+
 El consentimiento tácito sólo aplicará para la donación de órganos y tejidos una vez que se confirme la pérdida de la vida del donante y sólo podrán extraerse estos cuando se requieran para fines de trasplantes. Habrá consentimiento tácito del donante cuando no haya manifestado su negativa a que su cuerpo o componentes sean utilizados para trasplantes, siempre y cuando se obtenga también el consentimiento de cualquiera de las siguientes personas: el o la cónyuge, la concubina, el concubinario, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante, aplicando ese orden de prelación, en caso de que se encontrara una o más personas presentes de las señaladas.
 
 El escrito por el que la persona exprese no ser donador podrá ser privado o público y deberá estar firmado por éste; o bien, la negativa expresa podrá constar en alguno de los documentos públicos que para este propósito determine la Secretaría en coordinación con las autoridades competentes. La Secretaría, a través de los órganos respectivos, hará del conocimiento a las autoridades del Registro Nacional de Trasplantes los documentos o personas que han expresado su voluntad de no ser donadores en los términos del presente Capítulo.
@@ -2070,11 +2078,37 @@ Está prohibido el comercio de órganos y tejidos de seres humanos. La donación
 
 Sólo en caso de que la pérdida de la vida del donante esté relacionada con la investigación de un hecho que la ley señale como delito, se dará intervención al Ministerio Público y a la autoridad judicial, para la extracción de órganos y tejidos, de conformidad a las disposiciones legales aplicables.
 
-La Secretaría coadyuvará ante las autoridades respectivas para que los trámites que se deriven del párrafo anterior se realicen de manera ágil a efecto de que, de ser el caso, se disponga de los órganos y tejidos.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE OCTUBRE DE 2023)</small>
+
+Una vez que el Ministerio Público tome conocimiento de la investigación y con base en lo determinado por los lineamientos y normativa interna de la Fiscalía General de Justicia de la Ciudad de México, podrá objetar la donación a efecto de salvaguardar la investigación y la protección a víctimas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE OCTUBRE DE 2023)</small>
+
+En caso de no objetar la donación, el Ministerio Público deberá realizar las diligencias correspondientes, que permitan proceder con la disposición de órganos y tejidos ante las autoridades correspondientes, procurando su preservación, dentro de los parámetros temporales establecidos en la Norma Oficial Mexicana.
+
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2023)</small>
+
+La Secretaría coadyuvará ante las autoridades respectivas para que los trámites que se establecen en este artículo se realicen de manera ágil a efecto de que, de ser el caso, se disponga de los órganos y tejidos.
 
 ###### Artículo 141.
 
 La cultura de donación de órganos y tejidos es de interés público. El Gobierno implementará programas permanentes destinados a fomentar la donación de órganos y tejidos, en coordinación con el Centro Nacional de Trasplantes. La Secretaría promoverá con las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías que integran la Administración Pública de la Ciudad de México, los poderes legislativo y judicial, así como los órganos autónomos, en el ámbito de sus respectivas competencias, mecanismos para impulsar el fomento a la cultura de la donación al momento de la realización de trámites públicos o la obtención de documentos oficiales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE OCTUBRE DE 2023)</small>
+
+La Secretaría empleará el formato establecido por el Centro Nacional de Trasplantes como documento público en el que la ciudadanía podrá manifestar su consentimiento expreso para ser donadores de órganos y tejidos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE OCTUBRE DE 2023)</small>
+
+La Secretaría empleará el formato establecido por el Centro Nacional de Trasplantes como documento público en el que los ciudadanos podrán revocar su consentimiento expreso para ser donadores de órganos y tejidos, lo anterior, en relación con lo establecido por el artículo 138 de la presente Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE OCTUBRE DE 2023)</small>
+
+La Secretaría en coordinación con las dependencias, órganos desconcentrados, alcaldías y entidades que integran la administración pública de la Ciudad de México, así como los órganos de gobierno y autónomos, establecerá (sic) mecanismos para que en la realización de trámites públicos y la obtención de documentos oficiales se fomente la cultura de la donación y que a su vez, la ciudadanía mediante el formato correspondiente manifieste expresamente si desean ser donadores de órganos y tejidos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE OCTUBRE DE 2023)</small>
+
+La secretaría en coordinación con el Órgano gubernamental que tenga por objeto diseñar, coordinar, supervisar y evaluar las políticas relacionadas con la gestión de datos, el gobierno abierto, el gobierno digital, así como la mejora regulatoria y simplificación administrativa del Gobierno de la Ciudad de México establecerá mecanismos para que en la realización de trámites públicos y la obtención de documentos oficiales realizados de forma digital se fomente la cultura de la donación y los ciudadanos mediante el formato correspondiente manifiesten expresamente si desean ser donadores de órganos y tejidos.
 
 ###### Artículo 142.
 
@@ -2861,3 +2895,23 @@ PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 SEGUNDO.- El presente decreto entrará en vigor en (sic) 1 de julio del año 2024, en tanto se asigna el presupuesto correspondiente a la Secretaría de Salud para sufragar los costos e impactos presupuestales de esta medida.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+G.O. 10 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN IV BIS AL ARTÍCULO 57 DE LA LEY DE SALUD DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 10 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 138, 140 Y 141 DE LA LEY DE SALUD DE LA CIUDAD DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase a la Jefatura de Gobierno para efectos de su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial de la Ciudad de México.
