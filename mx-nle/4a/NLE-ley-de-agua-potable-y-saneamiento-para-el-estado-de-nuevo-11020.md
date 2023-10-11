@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-agua-potable-y-saneamiento-para-el-estado-de-nuevo-11020
 country: "mx"
 rank: "ley"
 publication_date: "1997-10-03"
-last_updated: "2023-07-17"
+last_updated: "2023-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de octubre de 1997.
 
@@ -58,6 +58,10 @@ Para los efectos de esta Ley, se entenderá por:
 a) Agua para uso doméstico: Los volúmenes de agua potable destinada a satisfacer las necesidades de los residentes de las viviendas.
 
 b) Agua potable: El agua de uso doméstico, comercial, de servicios o industrial que reúne los requisitos establecidos en la norma oficial mexicana.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+b Bis) Agua residual tratada: Aquella que mediante procesos individuales o combinados de tipo físicos, químicos, biológicos u otros, se han adecuado para hacerlas aptas para su reuso en servicios al público.
 
 c) Alcantarillado o drenaje sanitario: Medios de descarga y conducción de las aguas residuales, con excepción de las aguas pluviales.
 
@@ -745,6 +749,84 @@ Las sanciones que correspondan por las infracciones previstas en esta Ley se imp
 
 En los términos de esta Ley, y para efectos de cobro, las multas a que se refiere el presente Artículo tendrán carácter fiscal; para su recuperación se observará lo dispuesto en el Artículo 45 de esta ley.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+### CAPITULO XII BIS. DEL TRATAMIENTO DE AGUAS RESIDUALES Y SU REÚSO
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 61 BIS.- Corresponde al Organismo Público denominado "Servicios de Agua y Drenaje de Monterrey", I.P.D., a través de las diversas unidades administrativas de la Institución, en coordinación con dependencias y entidades correspondientes, los siguientes servicios:
+
+I. Vigilar y coordinar el crecimiento integral y coordinado de los sistemas de tratamiento y utilización de agua residual tratada en el territorio del Estado;
+
+II. Elaborar los estudios y proyectos ejecutivos de las obras de infraestructura de plantas de tratamiento de aguas residuales que le sean solicitados, de acuerdo a los procedimientos aplicables;
+
+III. Garantizar el óptimo desempeño de las diversas unidades e instalaciones de tratamiento de aguas residuales de su competencia y vigilar la calidad del agua tratada de las plantas de tratamiento, ya sean públicas o privadas;
+
+IV. Promover y supervisar la venta de agua tratada, mediante redes de distribución, garzas o pipas, para uso de riego de áreas verdes o procesos industriales y/o comerciales, preservando el agua potable para consumo de la población;
+
+V. Dirigir la política de venta de agua residual tratada, a fin de concretar su reúso y aumentar el número de usuarios de dicho recurso;
+
+VI. Desarrollar los planes adecuados para la ampliación de las redes de distribución de agua residual tratada para el servicio de los usuarios públicos y privados, particularmente para el riego de áreas verdes, procesos industriales, comerciales y de servicio que lo permita, misma que deberá estar plenamente identificada con el color morado;
+
+VII. Fomentar la difusión de los beneficios del uso de agua residual tratada y los diversos tipos de actividades de la sociedad en las que puede ser utilizada;
+
+VIII. Las que expresamente se le otorguen por esta Ley y demás disposiciones que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 61 BIS 1.- Corresponde a los Organismos encargados del servicio público de agua potable y saneamiento realizar el tratamiento de aguas residuales, así como a los particulares en los términos previstos en la presente Ley. El tratamiento de aguas residuales deberá cumplir con las disposiciones contenidas en las Normas Oficiales Mexicanas y las normas ambientales del Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 61 BIS 2.- La Secretaría de Medio Ambiente del Estado, en coordinación con los Organismos encargados del servicio público de agua potable y saneamiento, llevarán un inventario de las descargas de aguas residuales que se vierten en sistemas de drenaje y alcantarillado de su competencia, así como los permisos de descarga que en su caso se otorguen.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 61 BIS 3.- Corresponde a los usuarios no domésticos que efectúen descargas de aguas residuales a las redes de drenaje y alcantarillado, cumplir con lo estipulado en las Normas Oficiales Mexicanas correspondientes y con las normas ambientales del Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 61 BIS 4.- Se prohíbe descargar a los cuerpos de agua, a las redes de drenaje y alcantarillado, así como a los ecosistemas acuáticos en el territorio del Estado, residuos sólidos urbanos, de manejo especial o peligrosos, conforme a las disposiciones de esta Ley, de las normas ambientales del Estado y demás que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 61 BIS 5.- En los sistemas de tratamiento de aguas residuales particulares, invariablemente se deberán considerar y realizar los proyectos para el manejo y disposición final de lodos, en los términos de las disposiciones respectivas. Asimismo, se deberán construir las trampas de sólidos y las desnatadoras de grasas que se requieran para cumplir con las condiciones especiales de descarga que determine el Organismo prestador del servicio.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 61 BIS 6.- La Secretaría de Medio Ambiente del Estado, conjunta o separadamente con el Organismo Operador del servicio público de agua potable y saneamiento, promoverán la difusión entre la población, de programas y acciones de control y prevención para evitar la contaminación, el ahorro y el uso eficiente del agua potable, así como el reúso de las aguas residuales procedentes de las plantas de tratamiento si su calidad así lo permite de acuerdo con la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 61 BIS 7.- Los Organismos encargados del servicio público de agua potable y saneamiento, desarrollaran infraestructura mediante inversiones públicas o privadas que permita a los ciudadanos el aprovechamiento de las aguas residuales tratadas, donde así se justifique técnica, económica y ambientalmente.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+ARTÍCULO 61 BIS 8.- Es obligatorio utilizar agua residual tratada, previa solicitud de factibilidad del servicio solicitada al organismo operador, donde exista la infraestructura necesaria y la calidad del agua se encuentre dentro de los límites establecidos por las Normas Oficiales Mexicanas aplicables, en los casos siguientes:
+
+I.- Para las actividades de limpieza de instalaciones, parque vehicular y en los establecimientos industriales, comerciales y de servicios, así como en las instalaciones del sector público, para el riego de áreas verdes públicas;
+
+II.- Para los sistemas industriales de enfriamiento, lavado y procesos productivos que no requieran necesariamente agua potable, conforme a las normas y especificaciones técnicas aplicables;
+
+III.- Para las obras en construcciones, así como para la construcción de terracerías y la compactación de suelos;
+
+IV.- Para el lavado de vehículos a nivel comercial;
+
+V.- Para la agricultura;
+
+VI.- Para hidrantes contra incendios;
+
+VII.- Para fuentes públicas de ornato;
+
+VIII.- Áreas verdes de campos deportivos;
+
+IX.- Riego de terrenos particulares;
+
+X.- En la industria, en edificios corporativos, escuelas públicas y privadas y en oficinas públicas y privadas y giros mercantiles: se deberá utilizar agua residual tratada para la limpieza y aseo de áreas de servicios, en mingitorios y muebles sanitarios; y
+
+XI.- En los demás casos previstos en este y en otras disposiciones aplicables.
+
 ### CAPITULO XIII. RECURSOS ADMINISTRATIVOS
 
 ###### ARTICULO 62.
@@ -872,3 +954,21 @@ P.O. 17 DE JULIO DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
 
 SEGUNDO.- Para los efectos del Artículo 15, Servicios de Agua y Drenaje de Monterrey deberá emitir los lineamientos correspondientes para la colaboración entre autoridades municipales y el organismo operador estatal a más tardar 180 (ciento ochenta) días naturales posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 11 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 421. SE ADICIONA LA FRACCIÓN B BIS) AL ARTÍCULO 3, Y UN CAPITULO XII BIS Y LOS ARTÍCULOS 61 BIS, 61 BIS 1, 61 BIS 2, 61 BIS 3, 61 BIS 4, 61 BIS 5, 61 BIS 6, 61 BIS 7 Y 61 BIS 8 TODOS A LA LEY DE AGUA POTABLE Y SANEAMIENTO DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 126 BIS 1, SE ADICIONA UNA FRACCIÓN IV BIS AL ARTÍCULO 3, SE ADICIONA UN CAPÍTULO I BIS AL TÍTULO TERCERO, CONTENIENDO LOS ARTÍCULOS 121 BIS, 121 BIS 1, 121 BIS 2, 121 BIS 3, 121 BIS 4, 121 BIS 5, 121 BIS 6, 121 BIS 7, 121 BIS 8, 121 BIS 9, 121 BIS 10 Y UNA FRACCIÓN XXI AL ARTÍCULO 126 BIS 1, TODOS DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- El Estado y los municipios tendrán un término de 120 días para hacer las adecuaciones correspondientes a sus reglamentos para adecuarlos a las obligaciones emanadas del presente Decreto.
+
+TERCERO.- Para las obligaciones emanadas del artículo 121 Bis 3 del presente Decreto, el Estado y los municipios, en el ejercicio fiscal inmediato siguiente a la aprobación del mismo, destinarán los recursos necesarios para su debido cumplimiento.
+
+CUARTO.- Se respetarán los derechos adquiridos en títulos de concesión para extracción de aguas subterráneas hasta que éstos expiren, una vez concluida la vigencia de la concesión, las empresas e instalaciones señaladas en la fracción XXI del artículo 126 BIS 1, deberán transitar al modelo de uso de agua residual tratada.
+
+QUINTO.- Durante los primeros dieciocho meses de entrada en vigor del presente decreto las empresas e instalaciones de extracción pétrea señaladas en la fracción XXI del artículo 126 BIS 1, deberán de utilizar aguas residuales tratadas en al menos un 50% de los procesos descritos en dicha fracción, al término de dicho plazo, el uso del agua residual tratada será del 100%.
+
+Las empresas de extracción pétrea ubicadas fuera del área metropolitana de Monterrey y cuyas características de producción las obliguen, de acuerdo a lo establecido en la fracción XXI del artículo 126 BIS 1, a transitar al modelo de uso de agua residual tratada, dispondrán de un periodo de dos años después de la entrada en vigor del presente decreto para cumplir con lo establecido en el citado artículo.
+
+SEXTO.- Se derogan las disposiciones normativas que contravengan el presente Decreto.
