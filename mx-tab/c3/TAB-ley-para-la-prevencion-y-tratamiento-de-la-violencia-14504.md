@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-la-prevencion-y-tratamiento-de-la-violencia-14504"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-15"
-last_updated: "2017-07-05"
+last_updated: "2023-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY PARA LA PREVENCIÓN Y TRATAMIENTO DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 15 de mayo de 1999.
 
@@ -55,13 +55,17 @@ Para los efectos de esta Ley se entiende por:
 
 I. CONSEJO: El Consejo para la Prevención y Tratamiento de la Violencia Intrafamiliar;
 
-II. DIF ESTATAL: Al Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+II. DIF ESTATAL: Al Organismo Descentralizado Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco;
 
 III. GENERADORES DE VIOLENCIA INTRAFAMILIAR: Quienes realicen o induzcan a cometer actos de maltrato físico, verbal, psicoemocional o sexual hacia las personas con las que tengan algún vínculo familiar, o que estén bajo su tutela, custodia o deber de cuidado.
 
 IV. LEY: La Ley para la Prevención y Tratamiento de la Violencia Intrafamiliar;
 
-V. MINISTERIO PÚBLICO: Al Ministerio Público del Fuero Común;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+V. FISCAL: Al Fiscal del Ministerio Público del Fuero Común;
 
 VI. RECEPTORES DE VIOLENCIA INTRAFAMILIAR: Las personas que sufren el maltrato físico, verbal, psicoemocional o sexual en su esfera biopsicosexual; y
 
@@ -81,15 +85,23 @@ D) MALTRATO SEXUAL: Al patrón de conducta consistente en actos u omisiones reit
 
 VIII. FAMILIA EN RIESGO DE VIOLENCIA INTRAFAMILIAR: La constituida por dos o más personas, que de acuerdo a sus antecedentes y actual calidad de vida tienen mayor probabilidad de ejercer los actos relacionados con la violencia intrafamiliar, en detrimento de los otros integrantes de la familia.
 
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+IX. Procuraduría Estatal: Procuraduría Estatal de Protección de la Familia y de los Derechos de las Niñas, Niños y Adolescentes.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 3.
 
-La aplicación de la presente Ley corresponde al Titular del Poder Ejecutivo del Estado, al DIF Estatal por conducto de la procuraduría de la Defensa del menor y la Familia, y a los Ayuntamientos en sus respectivos ámbitos de competencia, por conducto de los DIF municipales.
+La aplicación de la presente Ley corresponde al Titular del Poder Ejecutivo del Estado, al DIF Estatal por conducto de la Procuraduría Estatal y a los Ayuntamientos en sus respectivos ámbitos de competencia, por conducto de los DIF municipales.
 
-Para el desempeño de sus funciones la Procuraduría de la Defensa del Menor y la Familia contará con el apoyo y colaboración de la Procuraduría General de Justicia y del Poder Judicial del Estado.
+Para el desempeño de sus funciones la Procuraduría Estatal, contará con el apoyo y colaboración de la Fiscalía General del Estado y del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 4.
 
-Corresponde al Ministerio Público la investigación de los hechos de carácter delictivo, quien contará con la colaboración del DIF ESTATAL a través de la Procuraduría de la Defensa del Menor y la Familia, mediante valoraciones psicológicas e informes de trabajo social, los cuales validará el órgano investigador como medio de prueba para la determinación jurídica correspondiente.
+Corresponde al Fiscal la investigación de los hechos de carácter delictivo, quien contará con la colaboración del DIF ESTATAL a través de la Procuraduría Estatal mediante valoraciones psicológicas e informes de trabajo social, los cuales validará el órgano investigador como medio de prueba para la determinación jurídica correspondiente.
 
 ## TÍTULO SEGUNDO
 
@@ -101,21 +113,31 @@ Se crea el Consejo para la Prevención y Tratamiento de la Violencia Intrafamili
 
 I. Un Presidente Honorario que será el Gobernador del Estado;
 
-II. Un Presidente Ejecutivo que será la Presidenta del Patronato del DIF ESTATAL;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2023)</small>
 
-III. Un Secretario que será el Director General del Sistema Estatal para el Desarrollo Integral de la Familia.
+II. Un Presidente Ejecutivo que será la Presidenta Honoraria del Sistema DIF ESTATAL;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+III. Un Secretario que será el titular de la Coordinación General del Sistema Estatal para el Desarrollo Integral de la Familia.
 
 IV. El titular de la Secretaría de Salud;
 
-V. El titular de la Procuraduría de la Defensa del Menor y la Familia;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2023)</small>
 
-VI. El titular de la Secretaría de Seguridad Pública;
+V. El titular de la Procuraduría Estatal;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+VI. El titular de la Secretaría de Seguridad y Protección Ciudadana de Tabasco;
 
 VII. El titular de la Secretaría de Gobierno;
 
 VIII. El titular de la Secretaría de Educación;
 
-IX. El titular de la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+IX. El titular de la Fiscalía General del Estado;
 
 X. El Comisionado Estatal de Arbitraje Médico;
 
@@ -221,9 +243,11 @@ El tratamiento a quienes incurran en actos de violencia intrafamiliar, se basar�
 
 Se podrá hacer extensivo el tratamiento en instituciones públicas a quienes cuenten con sentencia ejecutoriada relacionada con eventos de violencia intrafamiliar, a solicitud de la autoridad jurisdiccional, de acuerdo con las facultades que tiene conferidas el Juez Penal o Familiar, o bien a solicitud del propio interesado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 13.
 
-Corresponde a la Procuraduría de la Defensa del Menor y la Familia:
+Corresponde a la Procuraduría Estatal:
 
 I. Iniciar y llevar registros de actas administrativas de aquellos actos que de conformidad con la presente Ley, se consideren violencia intrafamiliar y que sean hechos de su conocimiento;
 
@@ -251,7 +275,9 @@ I. Promover la convivencia armónica familiar en los hogares donde exista violen
 
 II. Otorgar atención necesaria en las unidades de salud a los receptores de violencia intrafamiliar en coordinación con las instancias competentes;
 
-III. Detectar en la consulta externa los casos concretos de violencia intrafamiliar y dar aviso a la Procuraduría de la Defensa del Menor y la Familia;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+III. Detectar en la consulta externa los casos concretos de violencia intrafamiliar y dar aviso a la Procuraduría Estatal;
 
 IV. Promover que se proporcione la atención correspondiente a los receptores de violencia intrafamiliar en las diversas instituciones que se encuentren comprendidas en esta Ley o de especialistas en la materia, con las actitudes idóneas para este propósito, de conformidad con la presente Ley, llevando el registro de éstos;
 
@@ -265,13 +291,17 @@ VII. Promover acciones y programas de protección social a los receptores de vio
 
 VIII. Las demás que le asigne el Consejo, con base en la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 15.
 
-Corresponde a la Procuraduría General de Justicia del Estado:
+Corresponde a la Fiscalía General del Estado:
 
 I. La persecución de los delitos del orden común, cometidos en el Estado de Tabasco, que sean resultado de violencia intrafamiliar;
 
-II. Proteger los intereses de los menores e incapaces, así como los individuales y sociales en general, en los términos que determinen las leyes;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+II. Proteger los intereses de las Niñas, los Niños y Adolescentes e incapaces, así como los individuales y sociales en general, en los términos que determinen las leyes;
 
 III. Otorgar protección jurídica a las personas que resulten víctimas de violencia intrafamiliar;
 
@@ -291,15 +321,19 @@ X. Ejecutar programas orientados a la prevención y tratamiento de la violencia 
 
 XI. La demás que acuerde el Consejo, con base en la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 16.
 
-Corresponde a la Secretaría de Seguridad Pública, las siguientes funciones:
+Corresponde a la Secretaría de Seguridad y Protección Ciudadana de Tabasco, las siguientes funciones:
 
 I. Intervenir con elementos especializados en la prevención de la violencia intrafamiliar;
 
 II. Hacer llegar los diversos citatorios a que hace alusión el artículo 13, fracción II de esta Ley a los presuntos generadores de violencia intrafamiliar;
 
-III. Auxiliar a la Procuraduría de la Defensa del Menor y la Familia para el cumplimiento de las medidas de apremio;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+III. Auxiliar a la Procuraduría Estatal para el cumplimiento de las medidas de apremio;
 
 IV. Incluir en su programa de formación policiaca, capacitación sobre violencia intrafamiliar;
 
@@ -343,59 +377,81 @@ Los órganos jurisdiccionales a través de sus titulares, y una vez que conozcan
 
 ### CAPÍTULO ÚNICO. DEL SEGUIMIENTO A LAS DENUNCIAS DE VIOLENCIA INTRAFAMILIAR
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 20.
 
-Cuando la Procuraduría de la Defensa del Menor y la Familia conozca de un caso de violencia intrafamiliar, procederá a evaluar física y emocionalmente a las personas receptoras de tal violencia y someterá a los generadores a una terapia psicológica, basada en modelos reeducativos, a fin de mejorar las relaciones familiares.
+Cuando la Procuraduría Estatal conozca de un caso de violencia intrafamiliar, procederá a evaluar física y emocionalmente a las personas receptoras de tal violencia y someterá a los generadores a una terapia psicológica, basada en modelos reeducativos, a fin de mejorar las relaciones familiares.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 21.
 
-Cuando el Ministerio Público conozca de un asunto relacionado con violencia intrafamiliar, lo hará del conocimiento de la Procuraduría de la Defensa del menor y la Familia, para que ésta brinde al receptor o receptores el tratamiento psicológico que se requiera.
+Cuando el Fiscal conozca de un asunto relacionado con violencia intrafamiliar, lo hará del conocimiento de la Procuraduría Estatal, para que ésta brinde al receptor o receptores el tratamiento psicológico que se requiera.
 
-Cuando la Procuraduría de la Defensa del Menor y la Familia conozca directamente de un caso de violencia intrafamiliar que pueda ser constitutivo de delito, lo hará del conocimiento del Ministerio Público, remitiéndole los documentos o pruebas de que disponga.
+Cuando la Procuraduría Estatal conozca directamente de un caso de violencia intrafamiliar que pueda ser constitutivo de delito, lo hará del conocimiento del Fiscal, remitiéndole los documentos o pruebas de que disponga.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 22.
 
-Cuando el Ministerio Público lo estime pertinente, solicitará a la Procuraduría de la Defensa del Menor y la Familia, los dictámenes psicológicos y de trabajo social, para la integración de una averiguación previa relacionada con casos de violencia intrafamiliar.
+Cuando el Fiscal lo estime pertinente, solicitará a la Procuraduría Estatal, los dictámenes psicológicos y de trabajo social, para la integración de una averiguación previa relacionada con casos de violencia intrafamiliar.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 23.
 
-La Procuraduría de la Defensa del Menor y la Familia, una vez aplicado el tratamiento especializado a que se refiere el artículo 21 de esta ley, determinará si el receptor puede seguir integrado al seno familiar, en caso contrario, realizará las acciones pertinentes para brindar seguridad física y mental al receptor, solicitando su separación al Juez como medida cautelar.
+La Procuraduría Estatal, una vez aplicado el tratamiento especializado a que se refiere el Artículo 21 de esta ley, determinará si el receptor puede seguir integrado al seno familiar, en caso contrario, realizará las acciones pertinentes para brindar seguridad física y mental al receptor, solicitando su separación al Juez como medida cautelar.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 24.
 
-En los casos en que un receptor menor de edad o incapaz, víctima de maltrato, de abandono o en cualquiera otra circunstancia, se presente ante el Ministerio Público, éste deberá intervenir otorgando la más amplia protección que en derecho proceda y que requiera, debiendo dar aviso a la Procuraduría de la Defensa del Menor y la Familia para su atención y representación legal.
+En los casos en que un receptor menor de edad o incapaz, víctima de maltrato, de abandono o en cualquiera otra circunstancia, se presente ante el Fiscal, éste deberá intervenir otorgando la más amplia protección que en derecho proceda y que requiera, debiendo dar aviso a la Procuraduría Estatal para su atención y representación legal.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 25.
 
-Cuando los menores o incapaces, abandonados o maltratados, que sean acogidos por el DIF ESTATAL en calidad de expósitos, en los términos que señala la Ley del Sistema Estatal de Asistencia Social, y que por causas o motivos debidamente fundados no puedan reintegrarse a su seno familiar, quedarán bajo tutela y custodia del DIF Estatal, que procurará la adopción de los menores en las formas y términos establecidos por el Código Civil y de Procedimientos Civiles para el Estado de Tabasco.
+Cuando las Niñas, los Niños y los Adolescentes o incapaces, abandonados o maltratados, que sean acogidos por el DIF ESTATAL en calidad de expósitos, en los términos que señala la Ley del Sistema Estatal de Asistencia Social, y que por causas o motivos debidamente fundados no puedan reintegrarse a su seno familiar, quedarán bajo tutela y custodia del DIF Estatal, que procurará la adopción de los menores en las formas y términos establecidos por el Código Civil y de Procedimientos Civiles para el Estado de Tabasco.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 26.
 
-Queda prohibido a cualquier unidad de las instituciones que protegen a los menores y que tengan conocimiento de asuntos en los que sean señalados menores como presuntos infractores o víctimas de delitos, la publicación que propicie su identificación, así como el dar a conocer documentos y datos registrados captados con motivo de hechos o investigaciones practicadas por el Ministerio Público.
+Queda prohibido a cualquier unidad de las instituciones que protegen a las Niñas, los Niños y los Adolescentes y que tengan conocimiento de asuntos en los que sean señalados menores como presuntos infractores o víctimas de delitos, la publicación que propicie su identificación, así como el dar a conocer documentos y datos registrados captados con motivo de hechos o investigaciones practicadas por el Fiscal.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 27.
 
-Sólo a petición u orden expresa, fundada y motivada por la autoridad persecutora de delitos, administrativa o judicial competente, así como el Consejo Tutelar para Menores Infractores del Estado, se podrá acceder a proporcionar información y entregar constancias o certificaciones sobre datos y documentos que obren en el archivo de la institución relacionados con menores de edad y víctimas de delitos o presuntos infractores.
+Sólo a petición u orden expresa, fundada y motivada por la autoridad persecutora de delitos, administrativa o judicial competente, así como el Consejo Tutelar para Menores Infractores del Estado, se podrá acceder a proporcionar información y entregar constancias o certificaciones sobre datos y documentos que obren en el archivo de la institución relacionados con las Niñas, los Niños y los Adolescentes y víctimas de delitos o presuntos infractores.
 
 ###### ARTÍCULO 28.
 
 En la aplicación de esta Ley se promoverá y vigilará la observancia de los derechos de los receptores, por parte de las autoridades responsables procurando siempre la correcta aplicación de los medios legales y materiales pertinentes para prevenir cualquier violación a los mismos y en su caso, para restituirlos en el goce y ejercicio de sus derechos, sin perjuicio de las sanciones administrativas, penales o civiles que procedan.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 29.
 
-Cuando el padre o la madre sustraiga a sus menores hijos de la custodia de quien legalmente la ejerce, éste podrá acudir a la Procuraduría de la Defensa del Menor y la Familia, a efecto de que esta Institución realice labores de trabajo social y en caso necesario terapias psicológicas, a fin de solucionar el problema.
+Cuando el padre o la madre sustraiga a sus menores hijos de la custodia de quien legalmente la ejerce, éste podrá acudir a la Procuraduría Estatal, a efecto de que esta Institución realice labores de trabajo social y en caso necesario terapias psicológicas, a fin de solucionar el problema.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 30.
 
-Es responsabilidad de los centros educativos, hospitales, clínicas, centros de salud públicos y privados, consultorios particulares y demás centros de atención de la salud física y mental, informar a la Procuraduría de la Defensa del Menor y la Familia la sospecha del maltrato de las víctimas de la violencia intrafamiliar y en caso de que ésta se confirme, iniciar la rehabilitación del generador de tal violencia con asesoría del DIF ESTATAL.
+Es responsabilidad de los centros educativos, hospitales, clínicas, centros de salud públicos y privados, consultorios particulares y demás centros de atención de la salud física y mental, informar a la Procuraduría Estatal la sospecha del maltrato de las víctimas de la violencia intrafamiliar y en caso de que ésta se confirme, iniciar la rehabilitación del generador de tal violencia con asesoría del DIF ESTATAL.
 
 ## TÍTULO QUINTO
 
 ### CAPÍTULO I. DEL PROCEDIMIENTO CONCILIATORIO
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 31.
 
-Las partes en un conflicto de violencia intrafamiliar podrán resolver sus diferencias mediante el procedimiento de conciliación ante la Procuraduría de la Defensa del Menor y la Familia, excepto aquellas controversias que versen sobre acciones o derechos del estado civil irrenunciables o delitos que se persigan de oficio.
+Las partes en un conflicto de violencia intrafamiliar podrán resolver sus diferencias mediante el procedimiento de conciliación ante la Procuraduría Estatal, excepto aquellas controversias que versen sobre acciones o derechos del estado civil irrenunciables o delitos que se persigan de oficio.
 
 ###### ARTÍCULO 32.
 
@@ -407,9 +463,11 @@ Al iniciarse la audiencia, el conciliador procederá a buscar la avenencia entre
 
 Si las partes llegan a la conciliación se celebrará un convenio que será firmado por quienes intervengan en él.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 34.
 
-De no lograrse la conciliación, la Procuraduría de la Defensa del Menor y la Familia continuará con el procedimiento que concluirá con una resolución, que será de carácter vinculatorio y exigible para ambas partes.
+De no lograrse la conciliación, la Procuraduría Estatal continuará con el procedimiento que concluirá con una resolución, que será de carácter vinculatorio y exigible para ambas partes.
 
 ###### ARTÍCULO 35.
 
@@ -431,7 +489,9 @@ Cuando alguna de las partes incumpla con las obligaciones y deberes establecidos
 
 Se consideran infracciones a la presente Ley:
 
-I. El no asistir sin causa justificada a los citatorios de la Procuraduría de la Defensa del Menor y la Familia que se señalan en el artículo 13, fracción II de la presente Ley;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+I. El no asistir sin causa justificada a los citatorios de la Procuraduría Estatal que se señalan en el Artículo 13, fracción II de la presente Ley;
 
 II. El incumplimiento al convenio derivado del procedimiento de conciliación;
 
@@ -439,7 +499,9 @@ III. El incumplimiento a la resolución de la conciliación a la que se sometier
 
 IV. Los actos de violencia intrafamiliar señalados en el artículo 2 de la presente Ley, que no estén previstos como infracción o como delito por otros ordenamientos legales; y
 
-V. Negarse al tratamiento psicológico determinado por la Procuraduría de la Defensa del Menor y la Familia y demás profesionistas que auxilien a esta Institución.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+V. Negarse al tratamiento psicológico determinado por la Procuraduría Estatal y demás profesionistas que auxilien a esta Institución.
 
 ###### ARTÍCULO 38.
 
@@ -461,15 +523,19 @@ II. Arresto hasta por 36 horas.
 
 En caso de reincidencia se duplicará la multa que se hubiere impuesto.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 40.
 
-La Procuraduría de la Defensa del Menor y la Familia, antes de decretar una medida de apremio o una sanción deberá cerciorarse que el infractor fue debidamente notificado del citatorio o, en su caso de la resolución.
+La Procuraduría Estatal, antes de decretar una medida de apremio o una sanción deberá cerciorarse que el infractor fue debidamente notificado del citatorio o, en su caso de la resolución.
 
 ### CAPITULO III. DE LOS RECURSOS
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 41.
 
-La resolución y sanciones que emita la Procuraduría de la Defensa del Menor, podrán ser impugnadas mediante el Recurso de Revisión, mismo que deberá interponerse dentro del término de tres días naturales, siguientes al de la notificación del acto que se impugne.
+La resolución y sanciones que emita la Procuraduría Estatal, podrán ser impugnadas mediante el Recurso de Revisión, mismo que deberá interponerse dentro del término de tres días naturales, siguientes al de la notificación del acto que se impugne.
 
 ###### ARTÍCULO 42.
 
@@ -518,3 +584,11 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 11 DE OCTUBRE DE 2023.
+
+> <small>[N. DE E. DECRETO 168.- POR EL QUE “SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN II Y V; 3; 4; 5, FRACCIONES II, III, V, VI Y IX; 13, PÁRRAFO PRIMERO; 14, FRACCIÓN III; 15, FRACCIÓN II; 16, FRACCIÓN III; 20; 21; 22; 23; 24; 25; 26; 27; 29; 30; 31; 34; 37, FRACCIÓN I Y V; 40 Y 41. SE ADICIONA LA FRACCIÓN IX, AL ARTÍCULO 2; TODOS DE LA LEY PARA LA PREVENCIÓN Y TRATAMIENTO DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE TABASCO”.]</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
