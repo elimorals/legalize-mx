@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-juventud-para-el-estado-de-nuevo-leon-62363"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-28"
-last_updated: "2023-01-16"
+last_updated: "2023-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de julio de 2008.
 
@@ -166,6 +166,10 @@ Los derechos y garantías de los jóvenes, son inherentes a la condición de per
 La presente Ley establece de manera enunciativa y no limitativa los derechos de la juventud que deberán estar garantizados por el Estado y las Dependencias competentes a las que se refiere este ordenamiento, siendo los siguientes:
 
 l. El derecho a la vida;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+I Bis. Derecho a ejercer su libre pensamiento y albedrio en relación de su proyecto de vida, cuando no se contraponga con cualquier otro ordenamiento legal, así como cualquier obligación legal que tengan los padres, madres o quien tenga la guardia y custodia legal de los menores.
 
 II. El derecho a la no discriminación;
 
@@ -844,3 +848,9 @@ P.O. 16 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 281. SE ADICIONA UNA FRACCIÓN XIII BIS AL ARTÍCULO 37 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN”.]
 
 UNICO.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 432. SE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 6 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
