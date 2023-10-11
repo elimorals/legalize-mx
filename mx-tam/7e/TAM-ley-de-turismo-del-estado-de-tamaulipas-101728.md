@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2023-02-09"
+last_updated: "2023-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -95,7 +95,9 @@ I. Actividades Turísticas: Las que realizan las personas durante sus viajes y e
 
 II. Atlas Turístico de México: En términos de la Ley General, es el registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos nacionales, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo;
 
-III. Atlas Turístico de Tamaulipas: El registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo, con que cuenta el Estado;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+III. Atlas Turístico de Tamaulipas: El registro sistemático de carácter público de todos los bienes, recursos naturales, gastronómicos y culturales que puedan constituirse en atractivos turísticos, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo, con que cuenta el Estado;
 
 IV. Comisión: La Comisión Ejecutiva de Turismo del Estado de Tamaulipas;
 
@@ -140,6 +142,10 @@ XXII. Secretaría: La Secretaría de Turismo del Estado de Tamaulipas;
 XXIII. SECTUR: Secretaría de Turismo de la Administración Pública Federal;
 
 XXIV. Servicios Turísticos: Los dirigidos a atender las solicitudes de los turistas a cambio de una contraprestación, en apego con lo dispuesto por esta Ley y su Reglamento;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+XXIV Bis. Turismo Gastronómico: Es aquel que tiene como objetivo que el turista conozca y experimente de la diversidad culinaria del Estado a través de la promoción de los platillos típicos, productos alimenticios locales, asistencia a eventos gastronómicos, mercados populares, restaurantes, locales y lugares específicos para su degustación;
 
 XXV. Turismo Social: Actividad encaminada a que los habitantes de cualquier nivel socioeconómico puedan participar de los beneficios de la actividad turística, en condiciones adecuadas de economía, seguridad y comodidad;
 
@@ -615,6 +621,28 @@ ARTÍCULO 44 QUÁTER.
 
 Los Municipios destinarán una partida de su presupuesto anual para promover la prestación del Turismo Accesible.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+## TÍTULO QUINTO TER. DEL TURISMO GASTRONÓMICO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+### CAPÍTULO ÚNICO. DEL TURISMO GASTRONÓMICO
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+ARTÍCULO 44 QUINQUIES.
+
+El turismo gastronómico es la actividad turística que comprende la visita a comunidades y regiones del Estado, con el fin de probar la cocina tradicional del lugar y/o realizar actividades relacionadas con la gastronomía.
+
+El Estado, los municipios y demás dependencias, podrán realizar acciones con los sectores social y privado para el fomento del turismo gastronómico integrándolo a la oferta turística estatal.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+ARTÍCULO 44 SEXIES.
+
+La Secretaría podrá fomentar con la concurrencia de los sectores público, social y privado, el turismo gastronómico en ferias, en la cual participen todas y cada una de las regiones de la entidad, con la finalidad de difundir y promover las tradiciones gastronómicas del Estado.
+
 ## TÍTULO SEXTO. DE LA PROMOCIÓN Y FOMENTO DEL TURISMO
 
 ### CAPÍTULO I. DE LA PROMOCIÓN TURÍSTICA
@@ -626,10 +654,6 @@ Los Municipios destinarán una partida de su presupuesto anual para promover la 
 ## TÍTULO OCTAVO. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS Y DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ### CAPÍTULO ÚNICO. DEL REGISTRO ESTATAL Y EL SISTEMA DE INFORMACIÓN TURÍSTICA
-
-## TÍTULO NOVENO. DE LA PRESTACIÓN DE LOS SERVICIOS TURÍSTICOS
-
-### CAPÍTULO I. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS TURISTAS
 
 ###### ARTÍCULO 45.
 
@@ -669,7 +693,7 @@ VII. Cualquier otra actividad cuya finalidad sea la comunicación persuasiva par
 
 En la Promoción Turística y material promocional que edite la Secretaría, se dará preferencia a aquellos prestadores de servicios turísticos que en sus productos, servicios e instalaciones, así como en sus materiales gráficos y audiovisuales utilicen la marca turística de Tamaulipas.
 
-### CAPÍTULO II. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO I. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS TURISTAS
 
 ###### ARTÍCULO 50.
 
@@ -729,9 +753,9 @@ II. Simplificar y, en su caso, adecuar los trámites de procedimientos que incid
 
 III. Cuando dichos trámites deban cumplirse en varias unidades administrativas de una misma dependencia, ésta adoptará las medidas para establecer una sola ventanilla para su atención y despacho.
 
-## TÍTULO DÉCIMO. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+## TÍTULO NOVENO. DE LA PRESTACIÓN DE LOS SERVICIOS TURÍSTICOS
 
-### CAPÍTULO ÚNICO. DE LA PRESTACIÓN DE SERVICIOS TURÍSTICOS
+### CAPÍTULO II. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### ARTÍCULO 55.
 
@@ -829,11 +853,11 @@ III. Se negará su renovación de inscripción al mismo.
 
 8. Los Módulos cumplirán con aquellos requisitos establecidos para los Centros de Información, que sean acordes a su dimensión física.
 
+### CAPÍTULO ÚNICO. DE LA PRESTACIÓN DE SERVICIOS TURÍSTICOS
+
+## TÍTULO DÉCIMO. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+
 ### CAPÍTULO ÚNICO. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
-
-## TÍTULO UNDÉCIMO. DE LA VERIFICACIÓN, SANCIONES Y RECURSO DE REVISIÓN
-
-### CAPÍTULO ÚNICO. DE LA VERIFICACIÓN, SANCIONES Y RECURSO DE REVISIÓN
 
 ###### ARTÍCULO 69.
 
@@ -880,6 +904,8 @@ VII. Proporcionar al prestador de servicios turísticos los datos de entrada, pe
 > <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 VIII. Cualquier otra que contemple la Ley General, la Ley, su Reglamento u otras disposiciones aplicables.
+
+### CAPÍTULO ÚNICO. DE LA VERIFICACIÓN, SANCIONES Y RECURSO DE REVISIÓN
 
 ###### ARTÍCULO 71.
 
@@ -954,6 +980,8 @@ ARTICULO 72 BIS.
 ARTÍCULO 72 TER.
 
 En caso de que el prestador del servicio turístico incumpla con uno de los servicios ofrecidos o pactados o con la totalidad de los mismos, tendrá la obligación de rembolsar, bonificar o compensar la suma correspondiente por el pago del servicio incumplido, o bien podrá prestar otro servicio de las mismas características o equivalencia al que hubiere incumplido, a elección del turista.
+
+## TÍTULO UNDÉCIMO. DE LA VERIFICACIÓN, SANCIONES Y RECURSO DE REVISIÓN
 
 ###### ARTÍCULO 73.
 
@@ -1158,6 +1186,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 9 DE FEBRERO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-519 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 50 BIS A LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-646 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
