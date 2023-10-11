@@ -4,7 +4,7 @@ identifier: "TAB-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-65486"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-20"
-last_updated: "2022-10-12"
+last_updated: "2023-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
 
 Ley publicada en el Suplemento C del Periódico Oficial del Estado de Tabasco, el sábado 20 de diciembre de 2008.
 
@@ -219,9 +219,23 @@ VI. Instalar refugios con ubicación secreta para las Víctimas y sus hijas e hi
 
 VIII (SIC). Las establecidas en esta Ley, su reglamento y demás disposiciones aplicables.
 
-#### SECCIÓN SEGUNDA. DE LA VIOLENCIA LABORAL O ESCOLAR
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 11 DE OCTUBRE DE 2023)</small>
 
-#### SECCIÓN TERCERA. DE LA VIOLENCIA EN LA COMUNIDAD
+#### SECCIÓN PRIMERA BIS. VIOLENCIA EN EL NOVIAZGO
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 10 Bis.
+
+La violencia en el noviazgo son todos los actos realizados por una de las partes en contra de la otra, dentro de una relación sentimental, con fines matrimoniales o no, durante la cual, se presenten ataques intencionales de tipo sexual, físico o psicológico, con el objeto de controlar, someter y obligar a la persona a realizar diversos actos en contra de su voluntad.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 10 Ter.
+
+El Gobierno del Estado y los Ayuntamientos prevendrán este tipo de violencia de manera transversal implementando, en lo conducente, los modelos a que se refiere el artículo 10 y las demás que sean necesarias.
+
+#### SECCIÓN SEGUNDA. DE LA VIOLENCIA LABORAL O ESCOLAR
 
 ###### Artículo 11.
 
@@ -257,7 +271,7 @@ IV. Para los efectos de la fracción anterior, deberán sumarse las quejas anter
 
 V. Proporcionar atención psicológica y legal especializada y gratuita quien sea víctima de violencia de género.
 
-#### SECCIÓN CUARTA. DE LA VIOLENCIA DE SERVIDORES PÚBLICOS
+#### SECCIÓN TERCERA. DE LA VIOLENCIA EN LA COMUNIDAD
 
 ###### Artículo 15.
 
@@ -281,9 +295,7 @@ III. El establecimiento de un banco de datos sobre las órdenes de protección y
 
 IV. Implementar políticas públicas tendientes a garantizar espacios públicos libres de violencia.
 
-#### SECCIÓN CUARTA BIS. DE LA VIOLENCIA POLÍTICA
-
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+#### SECCIÓN CUARTA. DE LA VIOLENCIA DE SERVIDORES PÚBLICOS
 
 ###### Artículo 17.
 
@@ -305,7 +317,9 @@ III. La aplicación de la Perspectiva de Género.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE AGOSTO DE 2020)</small>
 
-#### SECCIÓN QUINTA. DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
+#### SECCIÓN CUARTA BIS. DE LA VIOLENCIA POLÍTICA
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 19 Bis.
 
@@ -367,9 +381,7 @@ XXII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de da
 
 La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
 
-#### SECCIÓN SEXTA. DE LA VIOLENCIA DIGITAL Y MEDIÁTICA
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2021)</small>
+#### SECCIÓN QUINTA. DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
 
 ###### Artículo 20.
 
@@ -426,6 +438,10 @@ b) Diseñar e instrumentar políticas públicas integrales que eviten la comisi�
 c) Verificar los hechos y la publicidad de la verdad.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN SEXTA. DE LA VIOLENCIA DIGITAL Y MEDIÁTICA
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 23 Bis.
 
@@ -1556,3 +1572,11 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 TERCERO. Las acciones contenidas en el artículo 31 Quater y que concurren con las "medidas de apoyo" establecidas en la Ley de Atención a Víctimas del Estado de Tabasco, se implementarán conforme a lo establecido en dicha Ley.
 
 CUARTO. Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria de los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+P.O. 11 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 167 POR EL QUE “SE ADICIONA LA SECCIÓN PRIMERA BIS, DENOMINADA VIOLENCIA EN EL NOVIAZGO, CONFORMADA POR LOS ARTÍCULOS 10 BIS Y 10 TER, A LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
