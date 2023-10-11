@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-121
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-17"
-last_updated: "2023-07-05"
+last_updated: "2023-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el miércoles 17 de mayo de 2017.
 
@@ -435,9 +435,17 @@ c) Rescindir de sus labores; y
 
 d) Que sea obligado a realizar labores o acciones específicas que atenten contra su dignidad humana.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE MARZO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE OCTUBRE DE 2023)</small>
 
-VI. Las demás que señalen esta Ley y otras disposiciones aplicables.
+VI. Vigilar, inspeccionar y promover para que los centros de trabajo públicos y privados, de cualquier actividad y tamaño, integren, implementen y ejecuten dentro de sus procesos de gestión y de recursos humanos, prácticas para la igualdad laboral de las y los trabajadores, con base a la Norma Mexicana NMX-R-025-SCFI-2015;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+VII. Otorgar un reconocimiento a los centros de trabajo públicos o privados que lleven a cabo programas o medidas para prevenir la discriminación mediante prácticas, políticas o instrumentos con base a la Norma Mexicana NMX-R-025-SCFI-2015; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE OCTUBRE DE 2023)</small>
+
+VIII. Las demás que señalen esta Ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 21.
 
@@ -1143,7 +1151,9 @@ El Consejo enviará la resolución a la Secretaría de Gobierno, a la persona en
 
 El Consejo podrá imponer a los Entes Públicos, servidoras o servidores públicos o particulares que resulten responsables, la adopción de las siguientes medidas administrativas para prevenir, combatir y eliminar la discriminación:
 
-I. La impartición, con cargo al Ente Público responsable, de cursos o talleres que promuevan el derecho a la no discriminación y la igualdad de oportunidades;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+I. La impartición, con cargo al Ente Público responsable, de cursos o talleres que promuevan el derecho a la no discriminación y la igualdad de oportunidades, con base a la Norma Mexicana NMX-R-025-SCFI-2015;
 
 II. La fijación de carteles donde se señale que en ese establecimiento o asociación se realizaron hechos, actos, omisiones o prácticas discriminatorias, o mediante los que se promueva la igualdad y la no discriminación;
 
@@ -1330,5 +1340,11 @@ P.O. 31 DE MARZO DE 2023.
 P.O. 5 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 408. SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 4 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+P.O. 11 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 426. SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 20; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 94 Y SE ADICIONAN LAS FRACCIONES VII Y VIII AL ARTÍCULO 20 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
