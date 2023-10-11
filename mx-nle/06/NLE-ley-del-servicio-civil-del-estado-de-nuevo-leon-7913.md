@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "2022-06-10"
+last_updated: "2023-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -117,7 +117,19 @@ Todos los trabajadores de las dependencias que funcionan en cooperación entre l
 
 Todos los trabajadores que prestan sus servicios al Gobierno del Estado y a los Municipios, deberán de ser de nacionalidad mexicana, y sólo podrán ser substituídos por extranjeros cuando no existan mexicanos técnicos que puedan desarrollar eficientemente el servicio de que se trata. La substitución será decidida por el C. Gobernador del Estado, Jefe del Depto. respectivo, Ayuntamiento o Presidente Municipal que corresponda, oyendo antes a la Organización representativa del interés profesional de los trabajadores al servicio del Estado y de los Ayuntamientos; y en caso de desacuerdo entre ellos, se estará a lo que resuelva el Tribunal de Arbitraje.
 
-> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE OCTUBRE DE 2023)</small>
+
+Acorde a lo establecido en la Ley de los Derechos de las Personas Adultas Mayores en el Estado de Nuevo León, esta Ley garantiza a los adultos mayores la igualdad de oportunidades en el acceso al trabajo que les permita un ingreso propio y desempeñarse en forma productiva tanto tiempo como lo deseen, así como a recibir protección de las disposiciones de esta Ley.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+El Gobierno del Estado y de los Municipios respetarán el derecho de los adultos mayores a ser contratados e incorporarse como Servidores Públicos en cualquiera de los Tres Poderes del Estado o los Municipios. Los entes públicos mencionados formularán y ejecutarán acciones específicas, las cuales deberán garantizar que al menos el 2 -dos (sic) por ciento del total de la plantilla laboral de la administración pública sea destinado a la contratación de personas adultas mayores.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+Las autoridades mencionadas realizarán las acciones necesarias para impulsar la contratación de personas adultas mayores en los términos establecidos en este artículo, y para ello deberán utilizar fuentes de información accesible sobre los empleos en el sector público.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 11 DE OCTUBRE DE 2023)</small>
 
 Todos los trabajadores que presten sus servicios a cualquiera de los tres poderes del Gobierno del Estado y los ayuntamientos, cursarán capacitación en materia de igualdad de género entre mujeres y hombres, así como no violencia contra las mujeres, con arreglo a los Lineamientos que cada uno expida.
 
@@ -1236,3 +1248,15 @@ P.O. 10 DE JUNIO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La persona Titular del Poder Ejecutivo y los Ayuntamientos contarán con un plazo de 90 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del presente Decreto.
+
+P.O. 11 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 423. SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 6 Y SE ADICIONA UN TERCERO, CUARTO Y QUINTO PÁRRAFO AL ARTÍCULO 6, TODOS DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+SEGUNDO.- Las personas Titulares de los Poderes Ejecutivo, Legislativo y Judicial y los Ayuntamientos contarán con un plazo de 120 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del mismo.
+
+TERCERO.- Las acciones que realicen el Gobierno del Estado y los Municipios, así como sus dependencias y entidades de la administración pública que correspondan para dar cumplimiento al presente Decreto deberán ajustarse en todo momento a lo señalado en los artículos 10, 13 y 14, según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones y el uso de recursos excedentes.
+
+CUARTO.- En el caso de que una persona adulta mayor se incorpore como funcionario público en los términos de la presente Ley y tenga una discapacidad de acuerdo con la Ley para la Protección de los Derechos de las Personas con Discapacidad, deberá tomarse en consideración dentro del porcentaje del dos por ciento, de la plantilla laboral previsto en la fracción IV del artículo 22 de dicha Ley.
