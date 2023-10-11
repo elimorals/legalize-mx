@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2023-07-01"
+last_updated: "2023-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -2298,6 +2298,14 @@ IX.- Determinar y exigir el cumplimiento de las normas, instalaciones y equipos 
 La inobservancia de tales normas impedirá a la autoridad municipal otorgar el permiso de construcción o funcionamiento respectivos y, en su caso, la facultará para ordenar la suspensión de la obra o la clausura del local hasta en tanto no se cumplan los requisitos de seguridad exigibles; y
 
 X.- Las demás que le otorguen las leyes, reglamentos y manuales de organización.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 71 BIS.- La persona titular de la Dirección de Obras Públicas Municipales de aquellos municipios que cuenten con centros poblacionales con una concentración igual o superior a los cien mil habitantes, deberá elaborar un padrón con modalidad anual que contenga las especificaciones referentes a las obras de pavimentación de calles y avenidas ubicadas dentro de los límites del Municipio de su correspondencia, que hayan sido objeto de una reparación parcial o total, mediante el cual se informen las circunstancias de tales obras.
+
+Este padrón deberá ser concluido a más tardar el 30 de abril del año posterior al ejercicio fiscal que corresponda.
+
+De existir irregularidades dentro del referido padrón, deberán denunciarse en los términos legales correspondientes, según la naturaleza de la irregularidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
@@ -5787,7 +5795,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 1 DE JULIO DE 2023.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXVII/RFLEY/0583/2023 VIII P.E. POR EL QUE “SE REFORMA EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NO. LXVI/RFLEY/0732/2020 VIII P.E.”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXVII/RFLEY/0583/2023 VIII P.E. POR EL QUE "SE REFORMA EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NO. LXVI/RFLEY/0732/2020 VIII P.E.".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -5804,3 +5812,9 @@ Lo previsto en los artículos 272 i, numeral 4); 301 BIS y 301 TER, en relación
 ###### ARTÍCULO CUARTO.
 
 Para la aplicación de las disposiciones previstas en el artículo 104 del presente Decreto, el factor de competitividad se deberá calcular con la votación recibida en la conformación de distritos vigentes del proceso electoral o elección por el que opten los partidos políticos, coaliciones o candidaturas comunes.
+
+P.O. 11 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFCOD/0613/2023 I P.O., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 71 BIS AL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
