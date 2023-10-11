@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2023-09-22"
+last_updated: "2023-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -121,9 +121,9 @@ d) Económica: cualquier acción u omisión que afecte la supervivencia económi
 
 e) Sexual: cualquier acción que degrade o dañe el cuerpo, la integridad y libertad sexuales de la mujer. Dicha acción comprende cualquier afectación a la dignidad, integridad, libertad y seguridad;
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE OCTUBRE DE 2023)</small>
 
-f) Obstétrica: toda acción u omisión que ejerza el personal médico o de salud, que dañe, lastime, denigre o cause la muerte durante el embarazo, parto o puerperio, expresada en:
+f) Obstétrica: toda acción u omisión que ejerza el personal médico o de salud, que dañe, lastime, denigre o cause la muerte durante el embarazo, parto o puerperio, que puede expresarse, entre otras, en las siguientes conductas:
 
 I. La negligencia en su atención propiciada por la falta de un trato humanizado;
 
@@ -136,6 +136,18 @@ IV. El uso de métodos anticonceptivos o esterilización sin que medie el consen
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
 V. El obstaculizar sin causa médica justificada el apego precoz del niño o niña con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+VI. Practicar procedimientos innecesarios, tales como cortes, revisiones u obligar a la mujer a parir en posición supina y con las piernas levantadas, existiendo los medios necesarios para la realización del parto vertical;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+VII. Proporcionar los servicios médicos sin perspectiva de género, o sin respeto por la autonomía reproductiva, independencia, pudor o dignidad de las mujeres, mediante prácticas tales como solicitar sin existir necesidad urgente, la autorización de terceras personas para la realización de procedimientos médicos o permitir que estas decidan respecto de los derechos sexuales y reproductivos de la mujer; y
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+VIII. Usar el parto como recurso didáctico formativo, sin el consentimiento consciente, informado y expreso de la mujer.
 
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
 
@@ -1572,6 +1584,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 22 DE SEPTIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-632 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 8 TER, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-644 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO ÚNICO, Y SE ADICIONAN LAS FRACCIONES VI, VII Y VIII, TODOS DEL INCISO F), DEL ARTÍCULO 3, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
 
 ###### ARTÍCULO ÚNICO.
 
