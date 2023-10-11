@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2023-06-15"
+last_updated: "2023-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -122,6 +122,10 @@ III. Actividad de explotación y aprovechamiento de materiales no reservados a l
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
 IV. Aguas residuales: Las aguas de composición variada provenientes de las descargas de usos público urbano, doméstico, industrial, comercial, de servicios, agrícola, pecuario, de las plantas de tratamiento y en general, de cualquier uso, así como la mezcla de ellas;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+IV Bis. Agua residual tratada: Aquella que mediante procesos individuales o combinados de tipo físicos, químicos, biológicos u otros, se han adecuado para hacerlas aptas para su reuso en servicios al público.
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
@@ -2101,11 +2105,115 @@ VIII. La reutilización de aguas residuales tratadas en el riego de áreas verde
 
 IX. La coordinación con las autoridades Federales competentes en la regulación y aprovechamiento de los pozos de agua de uso.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+### CAPÍTULO I BIS. DEL REUSO DE AGUAS RESIDUALES
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 121 Bis.
+
+El tratamiento de aguas residuales y su reúso deberán cumplir con las disposiciones contenidas en las Normas Oficiales Mexicanas.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 121 Bis 1.
+
+El Gobierno del Estado en conjunto con los Municipios y en cumplimiento de los criterios ambientales establecidos en la presente Ley y las leyes generales en la materia, promoverán el reúso de las aguas residuales que se descarguen en el sistema de drenaje o las que resulten de los procesos de tratamiento, los cuales se ajustarán a los términos establecidos en las Normas Oficiales Mexicanas.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 121 Bis 2.
+
+El Gobierno del Estado en conjunto con los Municipios promoverán en el territorio de Nuevo León el desarrollo de la infraestructura que permita el mayor aprovechamiento de las aguas residuales tratadas.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 121 Bis 3.
+
+El Estado y los municipios, deberán utilizar aguas residuales tratadas, libres de patógenos y de compuestos tóxicos que cumplan con las Normas Oficiales Mexicanas o en su caso con aguas pluviales en los términos y condiciones técnicas que determine la Comisión Estatal de Agua Potable y Saneamiento siempre y cuando haya disponibilidad para los siguientes servicios:
+
+I. Riego de áreas verdes en vía pública;
+
+II. Riego de Jardines y parques públicos;
+
+III. Llenado de canales y de lagos recreativos;
+
+IV. Abrevaderos de vida silvestre;
+
+V. Recarga de Acuíferos mediante pozos de inyección o estanques de infiltración, previo cumplimiento de las Normas Oficiales Mexicanas de calidad de agua potable y especificaciones que fije la autoridad competente en función del origen de las aguas residuales y del uso potencial del acuífero subterráneo.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 121 Bis 4.
+
+Las industrias deberán priorizar el uso de aguas residuales tratadas o en su caso aguas pluviales, considerando en todo momento las disposiciones legales y las Normas Oficiales Mexicanas, en las siguientes actividades:
+
+I. En todos aquellos procesos y giros industriales y comerciales que no requieran el uso de agua potable;
+
+II. Con fines de equipamiento, enfriamiento de motores calderas, limpieza de áreas de servicio y utilización en mingitorios y muebles sanitarios; y
+
+III. En la limpieza de las instalaciones.
+
+Las industrias que emplean agua potable en el proceso de elaboración de sus productos deberán contar con los tratamientos del agua residual cuando así lo determinen las autoridades, para permitir su reutilización dentro de la misma industria en los diferentes usos, siempre considerando las Normas Oficiales Mexicanas, y las Leyes Federales y Locales reglamentarias en materia de calidad y reúso de las aguas residuales, así como de Protección al medio ambiente.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 121 Bis 5.
+
+Los giros mercantiles, de servicios, de recreación y centros comerciales, emplearan el uso de aguas residuales tratadas o pluviales, considerando en todo momento las disposiciones legales y las Normas Oficiales Mexicanas, siempre y cuando haya disponibilidad, en las siguientes actividades:
+
+I. La limpieza de instalaciones y parque vehicular;
+
+II. Riego de áreas verdes;
+
+III. Auto lavados;
+
+III (SIC). Sistemas contra incendios; y
+
+IV. Construcción, ampliación, rehabilitación o mejoramiento de inmuebles.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 121 Bis 6.
+
+Para el caso de la agricultura y ganadería se priorizará el uso de aguas residuales tratadas, libres de patógenos y de compuestos tóxicos o aguas pluviales que cumplan con las Normas Oficiales Mexicanas, para los siguientes casos:
+
+I. Riego de parcelas rurales y semiurbanas de cultivos;
+
+II. Riego de terrenos de productos agrícolas que se consumen crudos que no requieren preparación para su consumo;
+
+III. Riego de terrenos de cultivo de forrajes y pastura; y
+
+IV. Limpieza de animales y las áreas destinadas a su habitación.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 121 Bis 7.
+
+En la industria, giros mercantiles, edificios corporativos, escuelas públicas y privadas, en oficinas públicas y privadas y hospitales, se utilizará preferentemente agua residual tratada, siempre y cuando haya disponibilidad, para la limpieza y aseo de áreas de servicios, en mingitorios y muebles sanitarios.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 121 Bis 8.
+
+Los consumos de agua potable en instalaciones de hospedaje, alojamiento, baños públicos y centros de deporte que cuenten con vestidores y regaderas, el propietario deberá abocarse a la instalación de dispositivos ahorradores.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 121 Bis 9.
+
+El uso del agua en fuentes y ornamentaciones públicas o privadas, será por medio de un sistema de recirculación y tratamiento del agua, debiendo instalar el propietario o poseedor del predio, en un lugar visible, la información de la procedencia de las aguas, en su caso, la leyenda "no apta para consumo humano", y señalará también los periodos de cambio del líquido y su servicio.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 121 Bis 10.
+
+En las nuevas construcciones o edificaciones deberán usarse los materiales avalados por las Normas Oficiales Mexicanas aplicables, que al respecto garanticen su resistencia, duración y funcionamiento adecuado a que serán sometidas las líneas de conducción, medidor, cisterna o tinaco, y los muebles sanitarios o de limpieza que se tengan en el predio, así como en materia de ahorro del agua.
+
+De igual forma, en las nuevas construcciones o edificaciones se buscará que cuenten con la instalación de sistemas alternativos de uso de agua pluvial, formando una red de agua residual tratada y pluvial, la cual, se empleará en todos aquellos usos que no se requieran el uso de agua potable, en los términos del presente Capitulo y de las leyes aplicables en la materia.
+
 ### CAPÍTULO II. APROVECHAMIENTO SUSTENTABLE DEL SUELO Y SUS RECURSOS
-
-### CAPÍTULO III. APROVECHAMIENTO DE MATERIALES NO RESERVADOS A LA FEDERACIÓN
-
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 122.
 
@@ -2143,7 +2251,9 @@ V. Los planes sectoriales estatales y municipales.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO III. APROVECHAMIENTO DE MATERIALES NO RESERVADOS A LA FEDERACIÓN
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 124.
 
@@ -2197,6 +2307,14 @@ Para prevenir, controlar y disminuir las emisiones fugitivas de polvos y otros c
 
 I. Desde el inicio de los trabajos se deberá llevar una bitácora, la cual se podrá llevar de manera electrónica, que permanecerá en el lugar en el que se realiza el aprovechamiento, estando a disposición de los inspectores de la Secretaría. En dicha bitácora se deberán anotar, además de los generales de quienes extraigan y/o aprovechen sustancias no reservadas a la federación, las observaciones pertinentes en relación con el proceso, medidas de seguridad, volúmenes diarios de extracción, problemas y soluciones que se presenten, incidentes y acciones de trabajo, actividades de restauración, mantenimiento de los equipos, cambios de frente de explotación autorizados, y en general, la información técnica necesaria para escribir la memoria de proceso;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE OCTUBRE DE 2023)</small>
+
+En dicha bitácora se deberá de incluir un documento que indique cuáles serán las fuentes de las que se conseguirá agua residual tratada para utilizarla en sus procesos y para cumplir con las demás disposiciones de la presente ley; y presentar un listado de todos los procesos que lleven a cabo en los que deba utilizarse agua, en el cual se deberá incluir un aproximado de las cantidades de líquido requeridas para llevarlos a cabo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE OCTUBRE DE 2023)</small>
+
+Asimismo, será obligatorio que la cantidad de aguas residuales tratadas disponibles sea equivalente o superior a la cantidad de agua estimada que requieren aquellos procesos para prevenir, controlar y disminuir las emisiones fugitivas de polvos y otros contaminantes en los términos de la norma ambiental aplicable.
+
 II. Asegurar el abastecimiento de agua para realizar el aprovechamiento, de lo contrario toda actividad de aprovechamiento deberá suspenderse;
 
 III. En contingencia atmosférica apegarse a las medidas de reducción establecidas en el Programa de Respuesta a Contingencias Atmosféricas correspondientes. Así como de abstenerse de efectuar voladuras durante los periodos en que la Secretaria emita la alerta, o por causa justificada así lo disponga;
@@ -2238,6 +2356,24 @@ XVIII. En el interior del inmueble se deberá restringir preferentemente el trá
 XIX. Ubicar el área de mantenimiento de vehículos lo más retirada posible, de las áreas de apilamiento de materiales y de las áreas sin pavimentar; y
 
 XX. Establecer un sistema de control de carga del camión que transporta el producto final del aprovechamiento fuera del inmueble del que se extrajo, verificando que su carga no exceda de los límites de su capacidad, y que éstos porten una lona o cubierta, debidamente instalada, que evite su derramamiento o esparcimiento durante su transportación.
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+XXI. Hacer uso obligatorio de aguas residuales tratadas, en las empresas e instalaciones de extracción pétreas ubicadas en los municipios que integran el Área Metropolitana.
+
+A efecto de la fracción XXI, aquellas empresas de extracción pétrea que se encuentren fuera del área metropolitana de Monterrey, el uso de agua residual tratada será obligatorio cuando la producción total de materiales reportados en la Cédula de Operación Anual sea igual o mayor a 500,000 toneladas.
+
+Si en alguna área de extracción pétrea se cuenta con dos o más bancos a menos de 10 kilómetros de distancia entre sí, deberá sumar su producción y, si las mismas son iguales o superiores a 500,000 toneladas, también se verán obligadas a cumplir con el modelo de agua residual tratada, las empresas independientemente de su razón social podrán coordinarse para desarrollar infraestructura en conjunto.
+
+Lo anterior aplica para los procesos obligatorios destinados a prevenir, controlar y disminuir las emisiones fugitivas de polvos y otros contaminantes, en las actividades de explotación y/o aprovechamiento de materiales no reservados a la Federación.
+
+En caso de que el Estado por alguna causa ajena a la empresa de extracción pétrea se viese imposibilitado para satisfacer la demanda de agua residual tratada, la obligación de la presente fracción será temporalmente suspendida, hasta en tanto se tenga la factibilidad del servicio por parte del Estado.
+
+Para que se dé el supuesto descrito en el párrafo anterior, el Estado deberá de hacer un comunicado oficial.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXI, P.O. 11 DE OCTUBRE DE 2023]</small>
+
+Todos los costos relacionados a cumplir con lo establecido en la presente fracción correrán a cargo de la empresa de extracción pétrea.
 
 > <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
@@ -2359,7 +2495,7 @@ La Secretaría vigilará que las personas físicas o morales responsables de la 
 
 ## TÍTULO CUARTO. PROTECCIÓN AL AMBIENTE
 
-### CAPÍTULO II. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN A LA ATMÓSFERA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 128.
 
@@ -2385,7 +2521,7 @@ La Secretaría, en el ámbito estatal, implementará lo relativo al registro de 
 
 En el ámbito de su competencia, la Secretaría deberá establecer los mecanismos y procedimientos necesarios con el propósito de que los interesados realicen un solo trámite, en aquellos casos en que para la operación y funcionamiento de establecimientos industriales, comerciales o de servicios, se requiera obtener diversos permisos, licencias o autorizaciones que deban ser otorgados por la propia dependencia estatal.
 
-### CAPÍTULO III. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA Y DE LOS ECOSISTEMAS ACUÁTICOS
+### CAPÍTULO II. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN A LA ATMÓSFERA
 
 #### SECCIÓN I. DISPOSICIONES GENERALES
 
@@ -2625,7 +2761,7 @@ La Secretaría podrá otorgar permisos, autorizaciones y acreditaciones a fabric
 
 Para prevenir y reducir la emisión de contaminantes a la atmósfera, la Secretaría promoverá ante las autoridades municipales competentes, programas de ordenamiento vial y de agilización del tránsito vehicular, especialmente en las horas de mayor incidencia de tráfico vehicular.
 
-### CAPÍTULO IV. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO, Y DE LOS MATERIALES RESTRINGIDOS
+### CAPÍTULO III. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA Y DE LOS ECOSISTEMAS ACUÁTICOS
 
 ###### Artículo 155.
 
@@ -2749,7 +2885,7 @@ El Estado se coordinará con las autoridades federales competentes, para realiza
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE ENERO DE 2018)</small>
 
-### CAPÍTULO V. MANEJO Y GESTIÓN INTEGRAL DE LOS RESIDUOS
+### CAPÍTULO IV. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO, Y DE LOS MATERIALES RESTRINGIDOS
 
 ###### Artículo 166.
 
@@ -2811,9 +2947,7 @@ En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del
 
 Procederá la clausura definitiva del establecimiento, en caso de cometer la misma infracción por tercera ocasión.
 
-### CAPÍTULO VI. ACTIVIDADES QUE NO SEAN CONSIDERADAS COMO ALTAMENTE RIESGOSAS
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+### CAPÍTULO V. MANEJO Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
 ###### Artículo 169.
 
@@ -3025,9 +3159,9 @@ Queda prohibida la acumulación a cielo abierto de llantas o neumáticos nuevos 
 
 La contravención a lo dispuesto en este artículo, será objeto de sanción, para el depositante de llantas o neumáticos nuevos o previamente utilizados y para quienes a título legítimo o de hecho tenga la disposición del predio, indistintamente, de conformidad con lo dispuesto en la presente Ley.
 
-### CAPÍTULO VII. PREVENCIÓN Y CONTROL DEL RUIDO, VIBRACIONES, OLORES PERJUDICIALES, ENERGÍA TÉRMICA Y LUMÍNICA Y LA CONTAMINACIÓN VISUAL
+### CAPÍTULO VI. ACTIVIDADES QUE NO SEAN CONSIDERADAS COMO ALTAMENTE RIESGOSAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 182.
 
@@ -3073,9 +3207,9 @@ I. Cuando las actividades que no sean consideradas como altamente riesgosas est�
 
 II. Tratándose de actividades relacionadas con los servicios públicos municipales, comercios u otros servicios de su competencia, en términos de lo dispuesto en la presente Ley y demás ordenamientos aplicables.
 
-### CAPÍTULO VIII. CONTINGENCIAS AMBIENTALES
+### CAPÍTULO VII. PREVENCIÓN Y CONTROL DEL RUIDO, VIBRACIONES, OLORES PERJUDICIALES, ENERGÍA TÉRMICA Y LUMÍNICA Y LA CONTAMINACIÓN VISUAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 187.
 
@@ -3147,9 +3281,9 @@ VIII (SIC). Contravengan esta Ley u otros ordenamientos aplicables a la materia.
 
 Los Municipios deberán incorporar en sus bandos de policía y buen gobierno y reglamentos, disposiciones que regulen obras, actividades y elementos publicitarios, a fin de evitar el deterioro del paisaje rural y urbano, y evitar la contaminación visual procurando crear una imagen armónica de los centros de población.
 
-### CAPÍTULO IX. PRESTADORES DE SERVICIOS EN MATERIA AMBIENTAL
+### CAPÍTULO VIII. CONTINGENCIAS AMBIENTALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2022)</small>
 
 ###### Artículo 191.
 
@@ -3203,7 +3337,9 @@ c) Tendientes a reducir la circulación de todo tipo de vehículos que utilicen 
 
 VI. Las sanciones contempladas en la Ley a personas físicas y morales que hagan caso omiso de las medidas de contingencia ambiental.
 
-### CAPÍTULO I. PARTICIPACIÓN SOCIAL
+### CAPÍTULO IX. PRESTADORES DE SERVICIOS EN MATERIA AMBIENTAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 195.
 
@@ -3253,9 +3389,7 @@ La Secretaría establecerá los lineamientos y procedimientos para incorporar al
 
 ## TÍTULO QUINTO. PARTICIPACIÓN SOCIAL Y ACCESO A LA INFORMACIÓN AMBIENTAL
 
-### CAPÍTULO II. CONSEJOS DE PARTICIPACIÓN CIUDADANA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+### CAPÍTULO I. PARTICIPACIÓN SOCIAL
 
 ###### Artículo 202.
 
@@ -3275,9 +3409,9 @@ VI. Promover foros de consulta sobre temas de interés para la comunidad; y
 
 VII. Concertar acciones e inversiones en beneficio de la conservación de la biodiversidad y la preservación del equilibrio ecológico con los sectores social y privado.
 
-### CAPÍTULO III. SISTEMA ESTATAL DE INFORMACIÓN AMBIENTAL Y DE RECURSOS NATURALES
+### CAPÍTULO II. CONSEJOS DE PARTICIPACIÓN CIUDADANA
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 203.
 
@@ -3285,9 +3419,9 @@ En el ámbito estatal, la Secretaría contará con un Consejo de Participación 
 
 Los Municipios, en el ámbito de su jurisdicción territorial, podrán contar con un Consejo Ciudadano de Protección al Ambiente y Recursos Naturales, con carácter de órgano auxiliar y consultivo para los Ayuntamientos, que será incluyente, plural y de carácter honorífico, representativo de la sociedad civil, el cual se regulará de conformidad con las disposiciones que establezcan los ordenamientos municipales correspondientes.
 
-### CAPÍTULO IV. DENUNCIA CIUDADANA
+### CAPÍTULO III. SISTEMA ESTATAL DE INFORMACIÓN AMBIENTAL Y DE RECURSOS NATURALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 204.
 
@@ -3299,9 +3433,9 @@ El Sistema también será integrado por la información relativa a las visitas d
 
 La Secretaría reunirá informes y documentos relevantes que resulten de las actividades científicas, académicas, trabajos técnicos o de cualquier otra índole en materia ambiental y de protección o aprovechamiento sustentable de recursos naturales, realizados sobre el Estado, por personas físicas o morales, nacionales o extranjeras, los que serán remitidos al Sistema Estatal de Información Ambiental y Recursos Naturales.
 
-### CAPÍTULO I. INSPECCION Y VIGILANCIA
+### CAPÍTULO IV. DENUNCIA CIUDADANA
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 205.
 
@@ -3433,9 +3567,9 @@ Quien reciba información ambiental de las autoridades competentes, será respon
 
 ## TÍTULO SEXTO. INSPECCIÓN Y VIGILANCIA, MEDIDAS DE SEGURIDAD, SANCIONES Y RECURSO DE INCONFORMIDAD
 
-### CAPÍTULO II. MEDIDAS DE SEGURIDAD
+### CAPÍTULO I. INSPECCION Y VIGILANCIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 216.
 
@@ -3547,7 +3681,7 @@ Cuando se detecte alguna presunta irregularidad de competencia federal, y la Sec
 
 La autoridad responsable deberá de hacer del conocimiento de la autoridad que haya detectado la irregularidad en primera instancia, las actuaciones subsecuentes, hasta su conclusión.
 
-### CAPÍTULO III. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO II. MEDIDAS DE SEGURIDAD
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
@@ -3567,7 +3701,9 @@ V. La neutralización o cualquier acción análoga que impida que objetos, mater
 
 Las medidas de seguridad ordenadas por las autoridades competentes en caso de riesgo, son de inmediata ejecución, tienen carácter preventivo y en su caso correctivas, se aplicarán sin perjuicio de las sanciones que en su caso correspondan, por las infracciones cometidas. Dichas medidas tendrán la duración estrictamente necesaria para la corrección de las irregularidades respectivas y deberán ser notificadas por escrito al infractor para su inmediata ejecución.
 
-### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
+### CAPÍTULO III. SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 232.
 
@@ -3777,7 +3913,7 @@ Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en es
 
 Los Municipios, en la esfera de su competencia, regularán las sanciones administrativas que correspondan por violaciones a los bandos y reglamentos que expidan para tal efecto, en concordancia con lo dispuesto en esta Ley.
 
-### CAPÍTULO V. DEL DAÑO AMBIENTAL
+### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
 
 ###### Artículo 244.
 
@@ -3927,7 +4063,7 @@ Para tal efecto, deberán interponer el recurso administrativo de inconformidad 
 
 En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta ley, serán nulas y no producirán efecto legal alguno, y los servidores públicos responsables serán sancionados conforme a lo dispuesto en la legislación en la materia. Dicha nulidad podrá ser exigida por medio del recurso a que se establece en el presente Capítulo.
 
-### CAPÍTULO VI. DELITOS AMBIENTALES
+### CAPÍTULO V. DEL DAÑO AMBIENTAL
 
 ###### Artículo 258.
 
@@ -3964,6 +4100,8 @@ Cuando por infracción a las disposiciones de esta Ley y demás ordenamientos ap
 ###### Artículo 263.
 
 Las personas físicas o morales son responsables de los daños y perjuicios en materia ambiental que cause su personal en el ejercicio de sus funciones. No podrá repetirse contra subordinados que hayan actuado obedeciendo órdenes de sus superiores.
+
+### CAPÍTULO VI. DELITOS AMBIENTALES
 
 ###### Artículo 264.
 
@@ -4344,3 +4482,21 @@ SEGUNDO. Para el cumplimiento al presente Decreto, los concesionarios deberán i
 TERCERO. Los municipios dispondrán de un plazo de hasta 180 días posteriores a la entrada en vigor del presente decreto, para homologar su reglamentación con el fin de cumplir lo preceptuado por dicho decreto.
 
 CUARTO. Se deroga cualquier disposición en lo que se oponga al presente decreto.
+
+P.O. 11 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 421. SE ADICIONA LA FRACCIÓN B BIS) AL ARTÍCULO 3, Y UN CAPITULO XII BIS Y LOS ARTÍCULOS 61 BIS, 61 BIS 1, 61 BIS 2, 61 BIS 3, 61 BIS 4, 61 BIS 5, 61 BIS 6, 61 BIS 7 Y 61 BIS 8 TODOS A LA LEY DE AGUA POTABLE Y SANEAMIENTO DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 126 BIS 1, SE ADICIONA UNA FRACCIÓN IV BIS AL ARTÍCULO 3, SE ADICIONA UN CAPÍTULO I BIS AL TÍTULO TERCERO, CONTENIENDO LOS ARTÍCULOS 121 BIS, 121 BIS 1, 121 BIS 2, 121 BIS 3, 121 BIS 4, 121 BIS 5, 121 BIS 6, 121 BIS 7, 121 BIS 8, 121 BIS 9, 121 BIS 10 Y UNA FRACCIÓN XXI AL ARTÍCULO 126 BIS 1, TODOS DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- El Estado y los municipios tendrán un término de 120 días para hacer las adecuaciones correspondientes a sus reglamentos para adecuarlos a las obligaciones emanadas del presente Decreto.
+
+TERCERO.- Para las obligaciones emanadas del artículo 121 Bis 3 del presente Decreto, el Estado y los municipios, en el ejercicio fiscal inmediato siguiente a la aprobación del mismo, destinarán los recursos necesarios para su debido cumplimiento.
+
+CUARTO.- Se respetarán los derechos adquiridos en títulos de concesión para extracción de aguas subterráneas hasta que éstos expiren, una vez concluida la vigencia de la concesión, las empresas e instalaciones señaladas en la fracción XXI del artículo 126 BIS 1, deberán transitar al modelo de uso de agua residual tratada.
+
+QUINTO.- Durante los primeros dieciocho meses de entrada en vigor del presente decreto las empresas e instalaciones de extracción pétrea señaladas en la fracción XXI del artículo 126 BIS 1, deberán de utilizar aguas residuales tratadas en al menos un 50% de los procesos descritos en dicha fracción, al término de dicho plazo, el uso del agua residual tratada será del 100%.
+
+Las empresas de extracción pétrea ubicadas fuera del área metropolitana de Monterrey y cuyas características de producción las obliguen, de acuerdo a lo establecido en la fracción XXI del artículo 126 BIS 1, a transitar al modelo de uso de agua residual tratada, dispondrán de un periodo de dos años después de la entrada en vigor del presente decreto para cumplir con lo establecido en el citado artículo.
+
+SEXTO.-Se derogan las disposiciones normativas que contravengan el presente Decreto.
