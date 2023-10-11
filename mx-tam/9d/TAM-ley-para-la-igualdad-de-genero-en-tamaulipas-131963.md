@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-igualdad-de-genero-en-tamaulipas-131963"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-06"
-last_updated: "2023-06-06"
+last_updated: "2023-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
 
 Ley publicada al Número 147 del Periódico Oficial del Estado de Tamaulipas, el jueves 6 de diciembre de 2018.
 
@@ -244,6 +244,10 @@ d) Restringir, impedir o vedar el acceso a la educación y las instituciones del
 e) Realizar jornadas nocturnas de trabajo; y
 
 f) Realizar labores que la expongan al contacto con agentes infectocontagiosos o la inhalación de sustancias tóxicas volátiles, o laborar en áreas donde existan emanaciones radioactivas o se tenga contacto con sustancias, materiales o fluidos explosivos o peligrosos.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+4. Por motivo de lactancia, se prohíbe la realización de conductas que restrinjan, impidan, obstaculicen, condicionen, limiten o nieguen el derecho al libre desarrollo de la lactancia, así como el derecho al trabajo.
 
 ###### Artículo 12.
 
@@ -1018,6 +1022,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 6 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-583 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS Y LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-645 MEDIANTE EL CUAL SE ADICIONA UN NUMERAL 4, AL ARTÍCULO 11, DE LA LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
