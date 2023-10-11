@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-propiedad-en-condominio-de-inmuebles-para-el-estado-1212
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-02"
-last_updated: "2017-05-02"
+last_updated: "2023-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el martes 2 de mayo de 2017.
 
@@ -663,7 +663,11 @@ XI.- El establecimiento de medidas provisionales en los casos de ausencia tempor
 
 XII.- La determinación de criterios para el uso de las Áreas y Bienes de Uso Común, especialmente para aquéllas que deban destinarse exclusivamente a personas con discapacidad, ya sean Condóminos o cualquier ocupante;
 
-XIII.- Determinar, en su caso, las medidas y limitaciones para poseer animales tanto en las Unidades de Propiedad Privativa como en las Áreas y Bienes de Uso Común;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+XIII.- Determinar, en su caso, las medidas y limitaciones para poseer animales tanto en las Unidades de Propiedad Privada como en las Áreas y Bienes de Uso Común.
+
+En las Unidades de Propiedad Privada no se podrá prohibir la tenencia o posesión de animales de compañía que por sus características físicas no representan un riesgo a la salud ni la integridad de las personas; y se ajuste a lo establecido en la Ley de Protección y Bienestar Animal para la Sustentabilidad del Estado de Nuevo León.
 
 XIV.- La determinación de criterios para asuntos que requieran para su aprobación un porcentaje mayor de respaldo en caso de votación;
 
@@ -840,3 +844,11 @@ MANUEL FLORENTINO GONZÁLEZ FLORES
 EL C. SECRETARIO DE DESARROLLO SUSTENTABLE
 
 ROBERTO RUSSILDI MONTELLANO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 368. SE TIENEN POR RECIBIDAS EN TIEMPO Y FORMA LAS OBSERVACIONES AL DECRETO NÚMERO 368, POR EL QUE SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 45 DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
