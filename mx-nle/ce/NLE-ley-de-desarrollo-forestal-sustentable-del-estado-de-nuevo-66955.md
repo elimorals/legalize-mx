@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-forestal-sustentable-del-estado-de-nuevo-6695
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-07"
-last_updated: "2022-10-26"
+last_updated: "2023-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 7 de febrero de 2009.
 
@@ -1473,6 +1473,26 @@ XII. Las demás que establezcan la normatividad aplicable en materia de Manejo d
 
 XIII. Los mecanismos y fuentes de financiamiento requeridos para su implementación y actualización.
 
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+XIV. La salud y seguridad humana como máxima prioridad en las acciones de prevención, detección y combate de incendios forestales;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+XV. La protección de la vida, bienes y propiedades de la comunidad;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+XVI. La interacción entre el cambio climático, la cubierta vegetal y los regímenes de incendios;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+XVII. El manejo del fuego de forma ambientalmente responsable para asegurar la sostenibilidad de los ecosistemas;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+XVIII. Instituir acciones de rescate con participación ciudadana en zonas siniestradas por incendios forestales.
+
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 87 Bis 6.
@@ -2296,3 +2316,9 @@ TERCERO.- El Ejecutivo Estatal, como presidente del Consejo Estatal Forestal, de
 CUARTO.- Una vez establecido formalmente el Comité Estatal de Manejo del Fuego, este deberá de llevar a cabo las acciones conducentes para la elaboración y validación del Primer Programa Estatal de Manejo del Fuego en un plazo de 180 días hábiles siguientes a la entrada en vigor del presente Decreto, el cual deberá de publicarse en el Periódico Oficial del Estado.
 
 QUINTO.- El Congreso del Estado contemplará en el Presupuesto de Egresos para el ejercicio fiscal 2023, la asignación y garantía de la suficiencia presupuestal para cumplir con las disposiciones previstas en el presente Decreto.
+
+P.O. 11 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 435 POR EL QUE “SE ADICIONAN LAS FRACCIONES XIV, XV, XVI, XVII Y XVIII DEL ARTÍCULO 87 BIS 5 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación
