@@ -4,7 +4,7 @@ identifier: "NLE-codigo-penal-para-el-estado-de-nuevo-leon-7411"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-26"
-last_updated: "2023-06-16"
+last_updated: "2023-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de marzo de 1990.
 
@@ -2047,9 +2047,9 @@ A) EL USO DE SUSTANCIAS PSICOACTIVAS, TOXICAS O QUE CONTENGAN ESTUPEFACIENTES O 
 
 B) LA EBRIEDAD.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
 
-C) EL TABAQUISMO;
+C) EL TABAQUISMO, O EL USO DE DISPOSITIVOS INHALANTES QUE CONTENGAN NICOTINA.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -7292,5 +7292,11 @@ P.O. 7 DE JUNIO DE 2023.
 P.O. 16 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 402. SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 367 DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+P.O. 11 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 425. SE REFORMA EL INCISO C), DE LA FRACCIÓN III DEL ARTÍCULO 196 DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
