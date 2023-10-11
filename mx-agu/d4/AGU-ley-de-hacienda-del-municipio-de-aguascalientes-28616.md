@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "2023-03-28"
+last_updated: "2023-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES -- ANTES LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES, PARA EL EJERCICIO FISCAL DE 1986 --
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -1331,21 +1333,31 @@ La prestación de este servicio apareja un derecho que deberá liquidarse en la 
 
 #### SECCION UNICA
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
 ###### ARTICULO 110.
 
-Son contribuyentes de este Derechos, las personas físicas o morales, que detenten, cualquiera que sea su título, el predio o la construcción objeto de la prestación del servicio de agua potable.
+Son sujetos de este derecho, los usuarios, personas físicas o morales, que detenten, cualquiera que sea su título, el predio o la construcción objeto de la prestación de los servicios públicos de agua potable.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 111.
 
-Para los efectos de esta Ley, se considera objeto del servicio de agua potable, todo predio o construcción en que haya sido instalado. Las personas que sucesivamente detenten el predio o construcción, se consideran deudores de la Hacienda Pública del Municipio, en los casos en que se suscite morosidad en el pago de Derechos respectivo.
+Para los efectos de esta Ley, se considera objeto del servicio público de agua potable: la operación, administración, mantenimiento y rehabilitación de la infraestructura necesaria que incluya la captación de aguas superficiales y/o subterráneas, su potabilización, conducción y distribución y se causarán independientemente de los derechos de conexión estipulados en la Ley de Ingresos Municipal, para el Ejercicio Fiscal que corresponda.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 112.
 
-La prestación del servicio de agua potable deberá solicitarse en la forma y términos que prevenga el Bando Municipal mediante la celebración del contrato de prestación de servicios, con la implicaciones previstas por la Ley.
+La prestación del servicio de agua potable deberá solicitarse en la forma y términos que prevenga el Reglamento que crea el Organismo Público Descentralizado "Modelo Integral de Aguas de Aguascalientes" y demás ordenamientos jurídicos aplicables.
+
+Los Derechos a que se refiere este capítulo, se pagarán conforme a las cuotas que en cada caso fije el Congreso del Estado en la Ley de Ingresos para el Municipio de Aguascalientes del año que corresponda. Las cuotas se actualizarán mensualmente en términos de lo que disponga la citada Ley de Ingresos la cual también fijará el plazo para su pago.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 113.
 
-Los propietarios, poseedores, arrendatarios o encargados del predio o establecimiento, se considerarán depositarios del aparato medidor de consumo de agua potable y como tales, están obligados a guardar de él en los términos previene la Ley, sin perjuicio de la responsabilidad objetiva que se les pueda fincar.
+Los propietarios, poseedores, arrendatarios o encargados del predio o establecimiento, tendrán el carácter de depositarios del aparato medidor de consumo de agua potable y como tales, están obligados a guardar de él en los términos que previene el Reglamento que crea el Organismo Público Descentralizado "Modelo Integral de Aguas de Aguascalientes" y demás ordenamientos jurídicos aplicables, sin perjuicio de la responsabilidad objetiva que se les pueda fincar.
 
 ###### ARTICULO 114.
 
@@ -1353,29 +1365,43 @@ Los propietarios o poseedores, cualquiera que sea su título, de un predio o con
 
 Los notarios o funcionarios públicos con injerencia en operaciones jurídicas de traslado de dominio, no deberán autorizarlo sin que previamente se muestre el recibo de pago por el servicio de agua potable.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 115.
 
-Las personas físicas o morales, que en los términos de Bando Municipal, estén obligadas a solicitar la prestación del servicio de agua potable, deberán hacerlo en la forma y términos que al efecto disponga el Secretario de Finanzas y surtirá los efectos de contrato de prestación de servicios, con las implicaciones jurídicas del caso. Debiendo además, liquidar previamente en la Comisión de Agua Potable y Alcantarillado, lo señalado en el artículo 15 de la Ley de Ingresos.
+Las personas físicas o morales, que en los términos de la ley, estén obligadas a solicitar la prestación del servicio de agua potable, deberán hacerlo en la forma y términos que al efecto disponga el organismo operador del servicio público y surtirá los efectos de contrato de prestación de servicios, con las implicaciones jurídicas del caso, sujetándolo al pago de los derechos previstos en la Ley de Ingresos para el Municipio de Aguascalientes del año que corresponda.
 
-### CAPITULO V. De Servicios por la Conexión de Albañales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+### CAPITULO V. De Servicios de Alcantarillado Sanitario y Tratamiento de Aguas Residuales
 
 #### SECCION UNICA
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
 ###### ARTICULO 116.
 
-Por el servicio que preste el Municipio para la conexión de albañales de los predios con las tuberías de saneamiento o atarjeas en la vía pública, se causarán independientemente de los derechos de conexión estipulados en la Ley de Ingresos Municipal, derechos equivalentes al costo del servicio, que comprenderá el valor de los materiales empleados y la mano de obra.
+Son sujetos de este derecho, el propietario y/o poseedor del predio cuyo albañal deba conectarse a la red de alcantarillado y saneamiento de aguas residuales.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 117.
 
-Es contribuyente de los derechos a que se refiere el artículo anterior, el propietario y/o poseedor del predio cuyo albañal deba ser conectado con la atarjea; en caso de que lo haga una persona distinta del propietario y/o poseedor del predio, éstos deberán manifestar su consentimiento.
+Se consideran objeto de este derecho, la prestación de los siguientes servicios públicos:
+
+I. Servicio de alcantarillado sanitario, que comprende las actividades de operación, administración y rehabilitación de la infraestructura necesaria para la colección, bombeo, conducción y alejamiento de aguas residuales a través de una red especial.
+
+El derecho previsto en el párrafo anterior, se causará independientemente de los derechos de conexión estipulados en la Ley de Ingresos para el Municipio de Aguascalientes del año que corresponda; y
+
+II. Servicio de tratamiento de aguas residuales que comprende la operación, administración, mantenimiento y rehabilitación de la infraestructura necesaria para el tratamiento de aguas residuales y lodos mediante la cual se remueven y reducen las cargas contaminantes.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 118.
 
-Los Derechos a que se refiere este capítulo, se causarán conforme a las cuotas que en cada caso fije el Municipio, teniendo en cuenta el costo de los materiales y la mano de obra y deberán de pagarse en la Comisión de Agua Potable y Alcantarillado antes de que se preste el servicio.
+Los Derechos a que se refiere este capítulo, se causarán conforme a las cuotas que en cada caso fije el Congreso del Estado en la Ley de Ingresos para el Municipio de Aguascalientes del año que corresponda, y deberán de pagarse ante el organismo operador del agua potable. Las cuotas se actualizarán mensualmente en términos de lo que disponga la citada Ley de Ingresos la cual también fijará el plazo para su pago.
 
-Los mencionados Derechos se causarán sin perjuicio de los que correspondan por la reparación del pavimento, los cuales deberán ser pagados también por el contribuyente antes de que se preste el servicio, en la misma Comisión de Agua Potable y Alcantarillado de acuerdo a lo que para tal fin dispone la Ley de Ingresos del Municipio.
+Los mencionados Derechos se causarán sin perjuicio de los que correspondan por la reparación del pavimento, los cuales deberán ser pagados también por el contribuyente antes de que se preste el servicio ante el organismo operador de acuerdo con lo que para tal fin dispone la Ley de Ingresos para el Municipio de Aguascalientes del año que corresponda.
 
 ### CAPITULO VI. De Servicios Prestados a Predios sin Bardear
 
@@ -1949,7 +1975,7 @@ El presente Decreto entrará en vigor el día 01 de enero de 2020.
 
 P.O. 31 DE DICIEMBRE DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 454.- LEY DE INGRESOS DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2021”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 454.- LEY DE INGRESOS DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2021".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2040,3 +2066,23 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Una vez publicado en el Periódico Oficial, el H. Ayuntamiento de Aguascalientes, tendrán un plazo de 90 días para dar máxima publicidad al presente Decreto, a través de los medios de comunicación radiofónicos, televisivos, periódicos, internet o cualquier otro que sea conveniente para dar a conocer a la población del Municipio de Aguascalientes de manera clara y precisa las reformas del presente Decreto.
+
+P.O. 11 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 433.- SE REFORMA LA LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia el día 22 de octubre del 2023, sin perjuicio de lo establecido en los siguientes transitorios.
+
+###### ARTÍCULO SEGUNDO.
+
+Las transferencias y asignaciones que le corresponden al Modelo Integral de Aguas de Aguascalientes, previstas en el artículo 1º de la Ley de Ingresos del Municipio de Aguascalientes, Aguascalientes, para el Ejercicio Fiscal del Año 2023, tendrán vigencia al día siguiente de la publicación del presente Decreto en el Periódico Oficial del Estado, por lo que dicho organismo descentralizado podrá disponer de tales recursos a partir de ese momento.
+
+###### ARTÍCULO TERCERO.
+
+Las tarifas aplicables para el periodo comprendido entre el 22 de octubre al 31 de diciembre de 2023, no serán actualizadas mensualmente, por lo que en ese periodo serán vigentes las señaladas en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los créditos fiscales derivados de servicios públicos prestados por la Comisión Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes, que al 21 de octubre de 2023 no se hayan cubierto, deberán ser pagados al Modelo Integral de Aguas de Aguascalientes.
