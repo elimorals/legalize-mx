@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-160360"
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-28"
-last_updated: "2023-07-29"
+last_updated: "2023-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 28 de septiembre de 2022.
 
@@ -2287,7 +2287,9 @@ b) El resultado de la operación señalada en el inciso anterior constituye el f
 
 2. El setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
 
-c) Las cantidades que en su caso, se determinen para cada partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+c) Las cantidades que, en su caso, se determinen para cada partido, serán entregadas en ministraciones mensuales dentro de los primeros diez días hábiles de cada mes conforme al calendario presupuestal que se apruebe anualmente.
 
 d) Cada partido político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba para el desarrollo de las actividades específicas, a que se refiere la fracción III de este artículo.
 
@@ -5932,3 +5934,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. De conformidad con las disposiciones que este Decreto modifica, el Consejo Estatal Electoral y de Participación Ciudadana, podrá emitir los acuerdos o lineamientos que considere necesarios para realizar actos referentes al proceso electoral con anticipación al inicio del mismo, a fin de garantizar su cumplimiento, observando las disposiciones contenidas en la legislación general en materia electoral; la Ley Electoral del Estado de San Luis Potosí; y los acuerdos que en su caso emita el Instituto Nacional Electoral.
 
 TERCERO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 12 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0849.- SE REFORMA EL INCISO C) EN LA FRACCIÓN I DEL ARTÍCULO 156, DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
