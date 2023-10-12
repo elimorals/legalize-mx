@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2023-07-08"
+last_updated: "2023-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "TAM"
 ---
 # LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-(NOTA 1: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL OCHO DE JULIO DE DOS MIL VEINTITRÉS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -417,9 +415,9 @@ Para los efectos del párrafo anterior se requerirá presentar solicitud por esc
 
 ###### ARTICULO 24.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
-1. En términos de lo dispuesto en el artículo 40 de la Constitución Política del Estado, los grupos parlamentarios, las fracciones parlamentarias y las representaciones partidistas constituyen las diversas formas de agrupación por afiliación partidista hacia el interior del Congreso del Estado, a través de las cuales se impulsan los entendimientos y convergencias para alcanzar acuerdos que permitan el cumplimiento de las funciones constitucionales que correspondan al Poder Legislativo.
+1. En términos de lo dispuesto en el artículo 40 de la Constitución Política del Estado, los grupos parlamentarios, las fracciones parlamentarias, las representaciones partidistas o bien quien ostente el cargo por la vía independiente, constituyen las diversas formas de agrupación por afiliación partidista y representación hacia el interior del Congreso del Estado, a través de las cuales se impulsan los entendimientos y convergencias para alcanzar acuerdos que permitan el cumplimiento de las funciones constitucionales que correspondan al Poder Legislativo.
 
 2. El grupo parlamentario se integra por lo menos con tres diputados y solo habrá uno por cada partido político que cuente con legisladores en el Congreso.
 
@@ -469,31 +467,27 @@ c) Nombre del diputado que haya sido designado como coordinador del grupo parlam
 
 3. UNO DE LOS DOS DIPUTADOS QUE INTEGRAN LA FRACCIÓN PARLAMENTARIA, PARTICIPARÁ CON LA REPRESENTACIÓN DE LA MISMA EN LA INTEGRACIÓN DE LA JUNTA DE GOBIERNO Y LA JUNTA DE COORDINACIÓN POLÍTICA, TENIENDO DERECHO A VOZ Y VOTO.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+###### ARTICULO 26.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+1. La Diputada o Diputado que sea único en cuanto a la representación de algún partido político o bien quien ostente el cargo por la vía independiente, por sí solo constituirá una representación partidista, al igual que los grupos parlamentarios y las fracciones parlamentarias forman parte de la Junta de Gobierno y de la Junta de Coordinación Política, teniendo derecho a voz y voto.
+
+(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
 
-###### ARTICULO 26.
+2. EN LO CONDUCENTE OBSERVARÁ LAS DISPOSICIONES INHERENTES A LOS GRUPOS PARLAMENTARIOS RESPECTO DE SU CONSTITUCIÓN E INTEGRACIÓN A LA JUNTA DE GOBIERNO Y A LA JUNTA DE COORDINACIÓN POLÍTICA.
 
-1. El diputado que sea único en cuanto a la representación de algún partido político, por si solo constituirá una representación partidista, que al igual que los grupos parlamentarios y las fracciones parlamentarias forman parte de la Junta de Gobierno y de la Junta de Coordinación Política, teniendo derecho a voz y voto.
-
-2. En lo conducente observará las disposiciones inherentes a los grupos parlamentarios respecto de su constitución e integración a la Junta de Gobierno y a la Junta de Coordinación Política.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 27.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+1. En términos de la representación de cada grupo parlamentario, fracción parlamentaria, representación partidista, sin partido e independiente, la Junta de Gobierno acordará la asignación de recursos y locales adecuados a cada uno de ellos. Adicionalmente a esas asignaciones, esta Junta de Gobierno dispondrá una subvención mensual para cada forma de organización partidista, integrada por una suma fija de carácter general y otra variable, en función del número de diputadas y diputados.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
+2. Las subvenciones que se asignen a los grupos parlamentarios, fracciones parlamentarias, representaciones partidistas, sin partido e independientes se incorporará a la cuenta pública del Congreso, correspondiente.
 
-1. EN TÉRMINOS DE LA REPRESENTACIÓN DE CADA GRUPO PARLAMENTARIO, FRACCIÓN PARLAMENTARIA O REPRESENTACIÓN PARTIDISTA, LA JUNTA DE GOBIERNO ACORDARÁ LA ASIGNACIÓN DE RECURSOS Y LOCALES ADECUADOS A CADA UNO DE ELLOS. ADICIONALMENTE A ESAS ASIGNACIONES, ESTA JUNTA DE GOBIERNO DISPONDRÁ UNA SUBVENCIÓN MENSUAL PARA CADA FORMA DE ORGANIZACIÓN PARTIDISTA, INTEGRADA POR UNA SUMA FIJA DE CARÁCTER GENERAL Y OTRA VARIABLE, EN FUNCIÓN DEL NÚMERO DE DIPUTADOS.
-
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
-
-2. Las subvenciones que se asignen a los grupos parlamentarios, fracciones parlamentarias y representaciones partidistas se incorporará a la cuenta pública del Congreso, correspondiente.
-
-3. La ocupación de las curules en el Salón de Sesiones se hará de forma que los integrantes de cada grupo parlamentario y fracciones parlamentarias queden ubicados en una misma área, buscándose que sus integrantes se sienten en forma contigua. La asignación definitiva de las curules que correspondan a las formas de organización partidista estará a cargo de la Mesa Directiva del Congreso. En todo caso, los coordinadores representantes de los grupos parlamentarios, fracciones parlamentarias y representaciones partidistas, formularán proposiciones de ubicación y la Mesa Directiva del Congreso resolverá lo conducente.
+3. La ocupación de las curules en el Salón de Sesiones se hará de forma que los integrantes de cada grupo parlamentario y fracciones parlamentarias queden ubicados en una misma área, buscándose que sus integrantes se sienten en forma contigua. La asignación definitiva de las curules que correspondan a las formas de organización partidista estará a cargo de la Mesa Directiva del Congreso. En todo caso, las y los coordinadores representantes de los grupos parlamentarios, fracciones parlamentarias, representaciones partidistas, sin partido e independientes, formularán proposiciones de ubicación y la Mesa Directiva del Congreso resolverá lo conducente.
 
 (NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -611,11 +605,13 @@ g) Las demás que deriven de esta ley y de los ordenamientos de la actividad par
 
 ### CAPITULO CUARTO. DE LA JUNTA DE COORDINACION POLITICA
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
-
 ###### ARTICULO 29.
 
-1. La Junta de Coordinación Política se integra con los coordinadores o coordinadoras de cada grupo parlamentario, con los representantes de las fracciones parlamentarias, y las o los titulares de las representaciones partidistas.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+1. La Junta de Coordinación Política se integra con las y los coordinadores de cada grupo parlamentario, con las y los representantes de las fracciones parlamentarias, con las y los titulares de las representaciones partidistas y las y los que ostenten el cargo por la vía independiente.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
 
 2. Será Presidente o Presidenta de la Junta por la duración de la Legislatura, el Coordinador o Coordinadora del Grupo Parlamentario del partido político que haya obtenido más votos o que haya ganado más distritos de mayoría en el Estado, en la elección correspondiente a la Legislatura en turno.
 
@@ -1133,11 +1129,9 @@ e) De Asuntos Patrimoniales y Municipales.
 
 3. Si por causa extraordinaria el Congreso suspende sus sesiones o culmina el periodo ordinario sin haber electo a la Diputación Permanente, actuará como tal la última Mesa Directiva del Congreso.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 4 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-4. EL GRUPO PARLAMENTARIO DEL PARTIDO QUE HAYA OBTENIDO MÁS VOTOS O QUE HAYA GANADO MÁS DISTRITOS DE MAYORÍA EN EL ESTADO, EN LA ELECCIÓN CORRESPONDIENTE EN LA LEGISLATURA EN TURNO, CONTARÁ CON CUATRO DE LOS SIETE DIPUTADOS QUE CONFORMAN LA DIPUTACIÓN PERMANENTE, EL GRUPO PARLAMENTARIO QUE TENGA LA SEGUNDA MAYORÍA CONTARÁ CON DOS DIPUTADOS EN SU INTEGRACIÓN, EL SÉPTIMO DIPUTADO CORRESPONDERÁ A CUALQUIER OTRO GRUPO PARLAMENTARIO QUE NO CORRESPONDA A LA SEGUNDA FUERZA O, EN SU CASO, DE NO EXISTIR OTROS GRUPOS PARLAMENTARIOS, CORRESPONDE A CUALQUIER FORMA DE AGRUPACIÓN O REPRESENTACIÓN PARTIDISTA QUE SE DETERMINE INCLUIR EN LA PROPUESTA CON BASE EN LOS ACUERDOS QUE SE PRODUZCAN PARA ESE EFECTO EN LA JUNTA DE GOBIERNO Y PRIVILEGIANDO EN SU CASO LA QUE TENGA UN MAYOR NÚMERO DE INTEGRANTES; BAJO ÉSTE ÚLTIMO CRITERIO, LOS SUPLENTES SE INTEGRARÁN DE LA SIGUIENTE MANERA, UNO PARA CADA UNO DE LOS GRUPOS PARLAMENTARIOS, QUIENES ACTUARÁN EN SUPLENCIA DE CUALQUIERA DE LOS MIEMBROS PROPIETARIOS DE LA DIPUTACIÓN PERMANENTE; EN CASO DE QUE AÚN PERSISTA LA NECESIDAD DE DESIGNAR A UN SUPLENTE Y NO HAYA GRUPOS PARLAMENTARIOS PARA ASIGNAR, LE CORRESPONDERÁ A CUALQUIER FORMA DE AGRUPACIÓN O DE REPRESENTACIÓN PARTIDISTA, QUE SE DETERMINE, CON BASE EN LOS ACUERDOS CONDUCENTES AL INTERIOR DE LA JUNTA DE GOBIERNO.
+4. El Grupo Parlamentario del partido que haya obtenido más votos o que haya ganado más distritos de mayoría en el Estado, en la elección correspondiente en la legislatura en turno, contará con cuatro de los siete integrantes que conforman la Diputación Permanente, el Grupo Parlamentario que tenga la segunda mayoría contará con dos miembros en su integración, el séptimo Diputado o Diputada corresponderá a cualquier otro grupo parlamentario que no corresponda a la segunda fuerza o, en su caso, de no existir otros grupos parlamentarios, corresponde a cualquier forma de agrupación o representación partidista, sin partido e independiente que se determine incluir en la propuesta con base en los acuerdos que se produzcan para ese efecto en la Junta de Gobierno y privilegiando en su caso la que tenga un mayor número de integrantes; bajo este último criterio, los suplentes se integrarán de la siguiente manera, uno para cada uno de los grupos parlamentarios, quienes actuarán en suplencia de cualquiera de los miembros propietarios de la Diputación Permanente; en caso de que aún persista la necesidad de designar a un suplente y no haya Grupos Parlamentarios para asignar, le corresponderá a cualquier forma de agrupación o de representación partidista, sin partido e independiente que se determine, con base en los acuerdos conducentes al interior de la Junta de Gobierno.
 
 (NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 5 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -2689,7 +2683,9 @@ f) Si así lo desea el servidor público compareciente, contará con 5 minutos a
 
 g) EL PRESIDENTE DE LA MESA DIRECTIVA, DE LA DIPUTACIÓN PERMANENTE O DE LA COMISIÓN HARÁ USO DE LA PALABRA PARA EXPRESAR UN AGRADECIMIENTO INSTITUCIONAL A LA PRESENCIA DEL SERVIDOR PÚBLICO ESTATAL.
 
-4. Los diputados sin partido que deseen participar en la comparecencia serán considerados en el procedimiento a que se refiere el párrafo 2 de este artículo y, en caso de seguirse lo dispuesto por el párrafo 3, dichos diputados formularán la solicitud correspondiente a su participación al órgano en el cual se vaya a desarrollar la propia comparecencia.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+4. Las diputadas y/o diputados sin partido e independientes que deseen participar en la comparecencia serán considerados en el procedimiento a que se refiere el numeral 2 de este artículo y, en caso de seguirse lo dispuesto por el numeral 3, dichas diputadas y/o diputados formularán la solicitud correspondiente a su participación al órgano en el cual se vaya a desarrollar la propia comparecencia.
 
 ###### ARTICULO 131.
 
@@ -2861,11 +2857,9 @@ f) El dictamen final a que hace referencia el inciso que antecede, será sometid
 
 11. El nombramiento del Titular de la Fiscalía Especializada en Combate a la Corrupción, se sujetará al siguiente procedimiento:
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL INCISO a) DEL NUMERAL 11 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-a) CUANDO SE GENERE LA VACANTE, O A MÁS TARDAR 60 DÍAS ANTES DE LA CONCLUSIÓN DEL PERIODO PARA EL QUE FUE ELECTO, LA JUNTA DE GOBIERNO DEL CONGRESO DEL ESTADO EMITIRÁ UNA CONVOCATORIA PÚBLICA, CON BASE EN LOS REQUISITOS ESTABLECIDOS EN LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, A EFECTO DE QUE PARTICIPEN LOS CIUDADANOS QUE CUMPLAN CON ÉSTOS Y QUE ESTÉN EN APTITUD DE SER CONSIDERADOS PARA OCUPAR EL CARGO.
+a) Cuando se genere la vacante, o a más tardar 60 días antes de la conclusión del periodo para el que fue electo, la Junta de Gobierno emitirá una convocatoria pública, con base en los requisitos establecidos en la Ley Orgánica de la Fiscalía General de Justicia del Estado de Tamaulipas, a efecto de que participen las y los ciudadanos que cumplan con estos y que estén en aptitud de ser consideradas y/o considerados para ocupar el cargo.
 
 b) La convocatoria considerará las etapas y procedimientos para la designación correspondiente, ordenando su publicación en el Periódico Oficial del Estado, en la página de internet del Congreso, y preferentemente en dos diarios de circulación en la Entidad.
 
@@ -4192,3 +4186,19 @@ La integración de las comisiones ordinarias, especiales y comités conformadas 
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el contenido del presente Decreto.
+
+P.O. 12 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-652 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 12 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-654 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 134, NUMERAL 11, INCISO A) DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
