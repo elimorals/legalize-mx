@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2023-09-08"
+last_updated: "2023-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2023.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -1569,9 +1569,9 @@ VI. La víctima haya sido incomunicada, o privada de su libertad, cualquiera que
 
 VII. El cuerpo de la víctima sea expuesto de cualquier forma, depositado, o arrojado en un lugar público.
 
-> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
-Este delito se sancionará con una pena de veinte a cincuenta años de prisión, y sanción pecuniaria de dos mil a cinco mil días del valor de la unidad de medida y actualización. Cuando la víctima sea niña o adolescente se aumentará la cuarta parte de la pena que corresponda, en observancia a lo previsto en el artículo 90 de este Código.
+Este delito se sancionará con una pena de cuarenta a sesenta años de prisión, y sanción pecuniaria de cuatro mil a seis mil días del valor de la unidad de medida y actualización. Cuando la víctima sea niña o adolescente se aumentará la cuarta parte de la pena que corresponda, en observancia a lo previsto en el artículo 90 de este Código.
 
 Además de las sanciones señaladas en el presente artículo, el sujeto activo perderá los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 
@@ -2091,9 +2091,9 @@ Este delito se sancionará con una pena de tres a ocho años de prisión, sanci�
 
 Comete el delito de violación quien, por medio de la violencia física o moral, realice cópula con una persona de cualquier sexo.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
-Este delito se sancionará con una pena de ocho a dieciséis años de prisión y sanción pecuniaria de ochocientos a mil seiscientos días del valor de la unidad de medida y actualización, más la reparación del daño.
+Este delito se sancionará con una pena de ocho a veinte años de prisión y sanción pecuniaria de ochocientos a dos mil días del valor de la unidad de medida y actualización, más la reparación del daño.
 
 ###### ARTÍCULO 172.
 
@@ -2103,25 +2103,29 @@ La pena a que se refiere el artículo anterior se aplicará si la violación fue
 
 Se sancionará con las mismas penas que establece el artículo 171 de éste Código a quien:
 
-I. Realice cópula con persona menor de catorce años de edad;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+I. Realice cópula con persona menor de dieciocho años de edad;
 
 II. Realice cópula con persona que no tenga capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, sea cual fuere el sexo de la víctima, o
 
-III. Con fines lascivos introduzca por vía anal o vaginal cualquier elemento o instrumento distinto al miembro viril en persona menor de catorce años o persona que no tenga capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, sea cual fuere el sexo de la víctima.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+III. Con fines lascivos introduzca por vía anal o vaginal cualquier elemento o instrumento distinto al miembro viril en persona menor de dieciocho años o persona que no tenga capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, sea cual fuere el sexo de la víctima.
 
 Si se ejerciere violencia física o moral, el mínimo y el máximo de la pena se aumentará hasta en una mitad.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 174.
 
-Se considera también como violación y se sancionará con pena de ocho a dieciséis años de prisión y sanción pecuniaria de ochocientos a mil seiscientos días del valor del valor de la unidad de medida y actualización, a quien por la vía vaginal o anal introduzca cualquier elemento o instrumento distinto al miembro viril, por medio de la violencia física o moral, sea cual fuera el sexo del ofendido.
+Se considera también como violación y se sancionará con pena de ocho a veinte años de prisión y sanción pecuniaria de ochocientos a dos mil días del valor del valor (sic) de la unidad de medida y actualización, a quien por la vía vaginal o anal introduzca cualquier elemento o instrumento distinto al miembro viril, por medio de la violencia física o moral, sea cual fuera el sexo del ofendido.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 175.
 
-Si en la violación intervienen dos o más personas se les impondrá una pena de diez a dieciocho años de prisión y sanción pecuniaria de mil a mil ochocientos días del valor de la unidad de medida y actualización, más la reparación del daño.
+Si en la violación intervienen dos o más personas se les impondrá una pena de diez a veintidós años de prisión y sanción pecuniaria de mil a dos mil días del valor de la unidad de medida y actualización, más la reparación del daño.
 
 ###### ARTÍCULO 176.
 
@@ -2145,9 +2149,9 @@ Para los efectos de este Título se entiende por cópula la introducción del mi
 
 Comete el delito de abuso sexual quien, sin el consentimiento de una persona ejecuta en ella, o la hace ejecutar un acto erótico sexual, sin el propósito directo de llegar a la cópula.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
-Este delito se sancionará de dos a cinco años de prisión y sanción pecuniaria de doscientos a quinientos días del valor de la unidad de medida y actualización.
+Este delito se sancionará de seis a diez años de prisión y sanción pecuniaria de doscientos a quinientos días del valor de la unidad de medida y actualización.
 
 Será calificado el delito de abuso sexual, y se aumentará la pena prevista en el párrafo anterior, en una mitad más, si se comete en los siguientes casos:
 
@@ -2163,7 +2167,9 @@ V. Cuando se haya suministrado a la víctima alguna sustancia tóxica que le imp
 
 En el caso de que el infractor tenga parentesco por consanguinidad o civil con el ofendido, perderá además la patria potestad o la tutela, en los casos en que la ejerciera sobre la víctima.
 
-Cuando el delito fuere cometido en el desempeño de un cargo o empleo público, o utilice los medios que su profesión le proporcione, además de la pena de prisión, será destituido del cargo que ocupa y suspendido por el termino de dos años en el ejercicio de su profesión.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+Cuando el delito fuere cometido en el desempeño de un cargo o empleo público, o utilice los medios que su profesión le proporcione, además de la pena de prisión, será destituido del cargo que ocupa y suspendido por el término de dos años en el ejercicio de su profesión.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2016)</small>
 
@@ -5676,6 +5682,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE SEPTIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0828.- SE ADICIONA (SIC) PÁRRAFO AL ARTÍCULO 283, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0850.- SE REFORMAN LOS ARTÍCULOS 135 EN SU PÁRRAFO NOVENO, 171 EN SU PÁRRAFO SEGUNDO, 173 EN SUS FRACCIONES I Y III, 174, 175 Y 178 EN SUS PÁRRAFOS SEGUNDO Y ÚLTIMO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
