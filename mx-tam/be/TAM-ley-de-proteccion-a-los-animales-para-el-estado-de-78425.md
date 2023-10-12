@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-los-animales-para-el-estado-de-78425"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-16"
-last_updated: "2023-09-22"
+last_updated: "2023-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2010.
 
@@ -65,7 +65,9 @@ VII. Promover y apoyar la creación y funcionamiento de asociaciones cuyo fin se
 
 Las autoridades del Estado de Tamaulipas y la sociedad en general reconocen los siguientes principios:
 
-I. Toda persona tiene la obligación de proteger a los animales;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+I. Toda persona tiene la obligación de respetar la vida y la integridad de los animales como seres sintientes, así como brindarles un trato digno;
 
 II. Ningún ser humano puede exterminar a los animales o explotarlos para ejecutar trabajos más allá de aquellos que por sus características de especie puedan realizar;
 
@@ -145,57 +147,61 @@ I Bis. Adopción: Contrato celebrado, sin fines de lucro, entre un adoptante y u
 
 I Ter. Adoptante: Propietario de un animal de compañía de origen no comercial, que voluntariamente decide responsabilizarse de su custodia y atención de manera responsable al suscribir un contrato de adopción con alguna organización de carácter civil, dependencia oficial o privada. Para efectos de esta Ley, los adoptantes tendrán el tratamiento y la calidad de propietarios;
 
-II. Animales domésticos: Las especies que se crían bajo el cuidado del ser humano, así como la fauna silvestre que se adapta a la vida del hombre sin constituir peligro;
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+II. Animales: Seres vivos no humanos, pluricelulares, sintientes, conscientes, constituidos por diferentes tejidos, con un sistema nervioso especializado que les permita moverse y reaccionar de manera coordinada ante los estímulos;
+
+III. Animales domésticos: Las especies que se crían bajo el cuidado del ser humano, así como la fauna silvestre que se adapta a la vida del hombre sin constituir peligro;
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2023)</small>
 
-III. Animal abandonado: El que queda sin el cuidado o protección de sus propietarios o poseedores, poniendo en riesgo su integridad física o vida, así como los que deambulen libremente por la vía pública sin placa de identidad u otra forma de identificación, y sus descendencias;
+IV. Animal abandonado: El que queda sin el cuidado o protección de sus propietarios o poseedores, poniendo en riesgo su integridad física o vida, así como los que deambulen libremente por la vía pública sin placa de identidad u otra forma de identificación, y sus descendencias;
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2023)</small>
 
-III Bis. Animal adiestrado: Los animales que son entrenados por personas debidamente autorizadas por autoridad competente, mediante programas cuyo fin es modificar su comportamiento con el objeto de que estos realicen funciones de vigilancia, protección, guardia, detección de estupefacientes, armas y explosivos, acciones de búsqueda y rescate de personas, terapia, asistencia, entretenimiento y demás acciones análogas;
+IV Bis. Animal adiestrado: Los animales que son entrenados por personas debidamente autorizadas por autoridad competente, mediante programas cuyo fin es modificar su comportamiento con el objeto de que estos realicen funciones de vigilancia, protección, guardia, detección de estupefacientes, armas y explosivos, acciones de búsqueda y rescate de personas, terapia, asistencia, entretenimiento y demás acciones análogas;
 
 > <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
 
-IV. Animal guía: Los animales complementarios o que son utilizados para o en apoyos terapéuticos o adiestrados para ayudar al desarrollo de las personas con alguna discapacidad;
+V. Animal guía: Los animales complementarios o que son utilizados para o en apoyos terapéuticos o adiestrados para ayudar al desarrollo de las personas con alguna discapacidad;
 
-V. Animal para monta, carga o tiro: Los animales que son utilizados por el ser humano para realizar alguna actividad en el desarrollo de su trabajo y que reditúe beneficios económicos a su propietario, poseedor o encargado;
+VI. Animal para monta, carga o tiro: Los animales que son utilizados por el ser humano para realizar alguna actividad en el desarrollo de su trabajo y que reditúe beneficios económicos a su propietario, poseedor o encargado;
 
-VI. Autoridad Municipal: La dependencia de la administración municipal encargada de la preservación del equilibrio ecológico y la protección al ambiente;
+VII. Autoridad Municipal: La dependencia de la administración municipal encargada de la preservación del equilibrio ecológico y la protección al ambiente;
 
-VII. Bienestar animal: Respuesta fisiológica y de comportamiento adecuado de los animales para enfrentar o sobrellevar el entorno;
+VIII. Bienestar animal: Respuesta fisiológica y de comportamiento adecuado de los animales para enfrentar o sobrellevar el entorno;
 
-VIII. Centros de control animal: Los centros públicos destinados para la captura y sacrificio humanitario de animales abandonados, centros antirrábicos y demás que realicen acciones análogas;
+IX. Centros de control animal: Los centros públicos destinados para la captura y sacrificio humanitario de animales abandonados, centros antirrábicos y demás que realicen acciones análogas;
 
-IX. Centro de cría o criadero: Sitio en el que se facilita la cohabitación de dos ejemplares de la misma o de diferente raza o especie y de diferente sexo, con fines de reproducción para explotación comercial;
+X. Centro de cría o criadero: Sitio en el que se facilita la cohabitación de dos ejemplares de la misma o de diferente raza o especie y de diferente sexo, con fines de reproducción para explotación comercial;
 
-X. Comisión de Vida Silvestre: La Comisión Estatal para la Conservación y el Aprovechamiento Económico de la Vida Silvestre del Estado de Tamaulipas;
+XI. Comisión de Vida Silvestre: La Comisión Estatal para la Conservación y el Aprovechamiento Económico de la Vida Silvestre del Estado de Tamaulipas;
 
-XI. Comisión: Comisión Estatal de Protección a los Animales;
+XII. Comisión: Comisión Estatal de Protección a los Animales;
 
-XII. Condiciones adecuadas: Las condiciones de trato digno y respetuoso que esta Ley establece, así como las referencias que al respecto determinan las normas oficiales mexicanas y las normas zoológicas para el Estado de Tamaulipas;
+XIII. Condiciones adecuadas: Las condiciones de trato digno y respetuoso que esta Ley establece, así como las referencias que al respecto determinan las normas oficiales mexicanas y las normas zoológicas para el Estado de Tamaulipas;
 
-XIII. Crueldad: El acto de brutalidad, sádico o zoofílico contra cualquier animal;
+XIV. Crueldad: El acto de brutalidad, sádico o zoofílico contra cualquier animal;
 
-XIV. Insensibilización: Acción con la que se induce rápidamente a un animal a un estado en el que no sienta dolor;
+XV. Insensibilización: Acción con la que se induce rápidamente a un animal a un estado en el que no sienta dolor;
 
-XV. Instrumentos económicos: Los estímulos fiscales, financieros e instrumentos de mercado que expidan las autoridades del Estado de Tamaulipas en las materias de la presente Ley;
+XVI. Instrumentos económicos: Los estímulos fiscales, financieros e instrumentos de mercado que expidan las autoridades del Estado de Tamaulipas en las materias de la presente Ley;
 
-XVI. Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación;
+XVII. Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación;
 
-XVII. Fondo: Fondo para la Protección de los Animales del Estado de Tamaulipas;
+XVIII. Fondo: Fondo para la Protección de los Animales del Estado de Tamaulipas;
 
-XVIII. Maltrato: Todo hecho, acto u omisión consciente o inconsciente que pueda ocasionar dolor, sufrimiento, o que ponga en peligro la vida del animal o que afecte gravemente su salud, así como la sobre explotación de su trabajo;
+XIX. Maltrato: Todo hecho, acto u omisión consciente o inconsciente que pueda ocasionar dolor, sufrimiento, o que ponga en peligro la vida del animal o que afecte gravemente su salud, así como la sobre explotación de su trabajo;
 
-XIX. Mascota: Animal de compañía;
+XX. Mascota: Animal de compañía;
 
-XX. Sacrificio humanitario: El sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida, sin dolor ni sufrimiento innecesario, empleando métodos físicos o químicos, atendiendo a las normas oficiales mexicanas y las normas zoológicas para el Estado de Tamaulipas;
+XXI. Sacrificio humanitario: El sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida, sin dolor ni sufrimiento innecesario, empleando métodos físicos o químicos, atendiendo a las normas oficiales mexicanas y las normas zoológicas para el Estado de Tamaulipas;
 
-XXI. Sufrimiento: El padecimiento o dolor innecesario por daño físico a cualquier animal;
+XXII. Sufrimiento: El padecimiento o dolor innecesario por daño físico a cualquier animal;
 
-XXII. Trato humanitario: Conjunto de medidas realizadas por las personas para evitar dolor innecesario o angustia a los animales durante su posesión o propiedad, crianza, captura, adiestramiento, traslado, exhibición, cuarentena, comercialización, aprovechamiento cinegético, entretenimiento o sacrificio; y
+XXIII. Trato humanitario: Conjunto de medidas realizadas por las personas para evitar dolor innecesario o angustia a los animales durante su posesión o propiedad, crianza, captura, adiestramiento, traslado, exhibición, cuarentena, comercialización, aprovechamiento cinegético, entretenimiento o sacrificio; y
 
-XXIII. Vivisección: Abrir vivo a un animal.
+XXIV. Vivisección: Abrir vivo a un animal.
 
 ### CAPITULO II. COMPETENCIA
 
@@ -1524,6 +1530,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 22 DE SEPTIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-628 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-574 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
