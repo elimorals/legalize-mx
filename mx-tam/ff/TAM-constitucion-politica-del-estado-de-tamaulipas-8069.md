@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2022-11-18"
+last_updated: "2023-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2023.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -329,9 +329,13 @@ V. La libertad de información y, en particular de sus ciudadanos para asuntos p
 
 Para garantizar el derecho de acceso a la información y de protección de datos personales en posesión de los sujetos obligados establecidos en la presente fracción, el Estado contará con un organismo autónomo, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, el cual regirá su funcionamiento y actuación conforme a los principios y bases establecidos en el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública y en la Ley que para tales efectos deberá expedir el Congreso del Estado de Tamaulipas.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE OCTUBRE DE 2023)</small>
 
-VI. El derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, saludable, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de la Federación, las entidades federativas y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines; y
+VI. El derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, saludable, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de la Federación, las entidades federativas y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+El derecho humano de acceso al agua será promovido permanentemente entre la población, lo que en todo tiempo implicará acciones y políticas para el respeto y fomento del uso adecuado del agua, incluyendo como prioridad el uso racional y eficiente de este recurso;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
 
@@ -441,9 +445,9 @@ II. A contribuir para todos los gastos públicos de la manera proporcional y equ
 
 III. A prestar auxilio a las autoridades, cuando para ello sean legalmente requeridos.
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2023)</small>
 
-IV. A recibir educación en la forma prevista por el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y por las leyes en la materia, conforme los planes, programas y reglamentos que se expidan por las autoridades educativas.
+IV. A recibir educación en la forma prevista por el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y por las leyes en la materia, conforme los planes, programas y reglamentos que se expidan por las autoridades educativas;
 
 > <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
 
@@ -453,9 +457,13 @@ VI. Asistir los días y horas designados por el Ayuntamiento del Municipio en qu
 
 VII. (DEROGADA, P.O. 22 DE OCTUBRE DE 2019)
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2023)</small>
 
-VIII. A respetar y cuidar el patrimonio natural del Estado y hacer uso de los recursos naturales susceptibles de apropiación sin afectar el desarrollo sustentable del Estado en los términos que dispongan las leyes. En las mismas se preverá que ninguna persona podrá ser obligada a llevar a cabo actividades que puedan ocasionar el deterioro del medio ambiente, así como que quien realice actividades que afecten el medio ambiente está obligado a prevenir, minimizar y reparar los daños que se caucen (sic), asumiéndose con cargo a su patrimonio las erogaciones que requieran las tareas de restauración.
+VIII. A respetar y cuidar el patrimonio natural del Estado y hacer uso de los recursos naturales susceptibles de apropiación sin afectar el desarrollo sustentable del Estado en los términos que dispongan las leyes. En las mismas se preverá que ninguna persona podrá ser obligada a llevar a cabo actividades que puedan ocasionar el deterioro del medio ambiente, así como que quien realice actividades que afecten el medio ambiente está obligado a prevenir, minimizar y reparar los daños que se causen, asumiéndose con cargo a su patrimonio las erogaciones que requieran las tareas de restauración; y
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+IX. A respetar la vida y la integridad de los animales como seres sintientes, así como a brindarles un trato digno.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -5362,3 +5370,19 @@ P.O. 18 DE NOVIEMBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-574 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-605 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO ÚNICO, Y SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN VI, AL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
