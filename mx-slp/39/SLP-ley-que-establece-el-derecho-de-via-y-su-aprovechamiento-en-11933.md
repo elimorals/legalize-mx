@@ -4,7 +4,7 @@ identifier: "SLP-ley-que-establece-el-derecho-de-via-y-su-aprovechamiento-en-119
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-20"
-last_updated: "2018-07-11"
+last_updated: "2023-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY QUE ESTABLECE EL DERECHO DE VÍA Y SU APROVECHAMIENTO EN LAS VÍAS TERRESTRES DE COMUNICACIÓN ESTATAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2023.
 
 Ley publicada en el Número Extraordinario Número Anexo del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de septiembre de 1997.
 
@@ -373,9 +373,11 @@ Deberá contener asimismo, la expresión sencilla de los agravios que a su juici
 
 Recibido el recurso el Ejecutivo Estatal, radicará el expediente y se cerciorará de que se hayan satisfecho los requisitos establecidos en el artículo anterior, en caso contrario prevendrá el recurrente para que subsane la omisión de que se trate, lo que debe hacer en un término de cinco días hábiles, contados a partir de la notificación del acuerdo respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2023)</small>
+
 ###### ARTICULO 45.
 
-Subsanada la omisión y, en su caso, previa calificación y desahogo de las probanzas aprobadas, dentro de los diez días hábiles siguientes al de radicación resolverá en definitiva lo conducente, confirmando, modificando o revocando el acuerdo o resolución recurrida; la resolución que se pronuncie podrá ser impugnada ante el Tribunal de lo Contencioso Administrativo.
+Subsanada la omisión y, en su caso, previa calificación y desahogo de las probanzas aprobadas, dentro de los diez días hábiles siguientes al de radicación resolverá en definitiva lo conducente, confirmando, modificando o revocando el acuerdo o resolución recurrida; la resolución que se pronuncie podrá ser impugnada ante el Tribunal Estatal de Justicia Administrativa.
 
 En lo conducente a la valoración y desahogo de las pruebas se estará a lo previsto en el Código de Procedimientos Civiles del Estado.
 
@@ -440,3 +442,11 @@ P.O. 11 DE JULIO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 12 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0847.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 45, DE LA LEY QUE ESTABLECE EL DERECHO DE VÍA Y SU APROVECHAMIENTO EN LAS VÍAS TERRESTRES DE COMUNICACIÓN ESTATAL”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones anteriores sobre la materia, en lo que se opongan a lo establecido por el presente Decreto.
