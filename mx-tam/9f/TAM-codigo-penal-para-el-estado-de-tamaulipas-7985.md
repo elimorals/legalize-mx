@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2023-09-22"
+last_updated: "2023-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1505,9 +1505,9 @@ La prescripción producirá su efecto, aunque no la invoque el acusado.
 
 La autoridad la hará valer de oficio, sea cual fuere el estado del procedimiento.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
-Si el delito se hubiese cometido en contra de una persona menor de dieciocho años de edad, el plazo para la prescripción comenzará a correr a partir del día en que la víctima cumpla la mayoría de edad, excepto cuando se trate de los delitos previstos en los artículos 192, 194 Bis, 194 Ter, 198 Bis, 199, 267, 270, 273 y 276 septies de este Código, los cuales serán imprescriptibles.
+Si el delito se hubiese cometido en contra de una persona menor de dieciocho años de edad, el plazo para la prescripción comenzará a correr a partir del día en que la víctima cumpla la mayoría de edad, excepto cuando se trate de los delitos previstos en los artículos 192, 194-Bis, 194-Ter, 198 Bis, 198 Bis 1, 199, 267, 270, 273, 276 Septies y 337 Bis de este Código, los cuales serán imprescriptibles.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2022)</small>
 
@@ -2340,6 +2340,14 @@ El delito de corrupción de menores, sólo se sancionará cuando se consumen los
 ARTICULO 198 BIS.- Comete el delito de pederastia quien se aproveche de la confianza, subordinación o superioridad que tiene sobre un menor de dieciocho años, derivada de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente, religiosa, laboral, médica, cultural, doméstica o de cualquier índole y ejecute, obligue, induzca o convenza a ejecutar cualquier acto sexual, con o sin su consentimiento.
 
 Al responsable de este delito se le aplicará una sanción de nueve a dieciocho años de prisión y multa de setecientas cincuenta a dos mil doscientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 198 BIS 1.- Comete el delito de cohabitación forzada de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, quien obligue, coaccione, induzca, solicite, gestione u oferte a una o varias de estas personas a unirse informal o consuetudinariamente, con o sin su consentimiento, con alguien de su misma condición o con persona mayor de dieciocho años de edad, con el fin de convivir en forma constante y equiparable a la de un matrimonio.
+
+Al responsable de este delito se le impondrá pena de ocho a quince años de prisión y de mil a dos mil quinientos días multa.
+
+La pena prevista en el párrafo anterior se aumentará hasta en una mitad, en su mínimo y en su máximo, si la víctima perteneciere a algún pueblo o comunidad indígena o afromexicana.
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2023)</small>
 
@@ -3697,9 +3705,11 @@ ARTICULO 276 BIS.- Comete el delito de hostigamiento sexual quien, valiéndose d
 
 ARTICULO 276 TER.- Comete el delito de acoso sexual quien con respecto a una persona con la que no exista relación de subordinación, lleve a cabo conductas verbales, físicas o ambas, relacionadas con la sexualidad que la pongan en riesgo o la dejen en estado de indefensión.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
-ARTICULO 276 QUATER.- Al responsable del delito de hostigamiento sexual se le impondrán de seis meses a dos años de prisión y multa de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización y será punible cuando se ocasione un daño o perjuicio en la posición laboral, docente, doméstica o de cualquier naturaleza que se derive de la subordinación de la persona agredida.
+ARTICULO 276 quater.- Al responsable del delito de hostigamiento sexual se le impondrán de uno a tres años de prisión y multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización y será punible con independencia de que se ocasione un daño o perjuicio en la posición laboral, docente, doméstica o de cualquier naturaleza que se derive de la subordinación de la persona agredida.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 Al responsable del delito de acoso sexual se le impondrá una pena de seis meses a un año de prisión y multa de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
@@ -3715,11 +3725,17 @@ ARTICULO 276 SEXIES.- Si el sujeto pasivo del delito de hostigamiento o acoso se
 
 ### CAPITULO IV BIS. VIOLACION A LA INTIMIDAD
 
+[N. DE . VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 12 DE OCTUBRE DE 2023, PÁGINA 11.]
+
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 276 Septies.
 
 Comete el delito de violación a la intimidad, el que revele, difunda, publique o exhiba mediante correo electrónico, mensajes telefónicos, redes sociales o por cualquier otro medio, imágenes, audio o video de contenido íntimo, erótico o sexual de una persona, sin contar con el consentimiento de la víctima.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+Se equiparará al delito de violación a la intimidad y se sancionará con la misma pena a quien sustraiga u obtenga de dispositivos de almacenamiento físico o virtual, cualquier imagen, vídeo, texto o audios de contenido íntimo, erótico o sexual, sin la autorización o consentimiento de la víctima.
 
 Al responsable del delito de violación a la intimidad, se le impondrá una pena de cuatro a ocho años de prisión y multa de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización.
 
@@ -3727,7 +3743,19 @@ Cuando el sujeto pasivo sea menor de edad o incapaz, se estará a lo dispuesto e
 
 Este delito, sólo será perseguido por querella de la parte ofendida, salvo que se trate de las personas descritas en el párrafo anterior, en cuyo caso se procederá de oficio.
 
-En el supuesto de que el sujeto activo tenga relación de parentesco por consanguinidad, afinidad o civil, o haya estado unida a él en virtud de una relación sentimental, con la víctima y ofendido, la pena se incrementará hasta en una tercera parte.
+> <small>(ADICIONADO CON SUS INCISOS, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+Las penas se aumentarán hasta en una tercera parte cuando:
+
+a) El delito sea cometido por el ex cónyuge o por persona con la que esté, o haya estado unida a la víctima y ofendido por alguna relación sentimental o de afectividad;
+
+b) EI sujeto activo tenga relación de parentesco por consanguinidad, afinidad o civil; y
+
+c) En el ámbito laboral sea cometido por el superior jerárquico de la víctima o compañero de trabajo.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+Si se tratare de un servidor público adicionalmente será destituido e inhabilitado para ocupar empleo, cargo o comisión públicos por el mismo plazo del cumplimiento de la pena a que fuere condenado.
 
 (REUBICADO, ANTES CAPÍTULO IV, P.O. 19 DE OCTUBRE DE 2010)
 
@@ -7292,6 +7320,30 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 22 DE SEPTIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-628 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-655 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO QUINTO, Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y SÉPTIMO, RECORRIENDO EN SU ORDEN NATURAL LOS SUBSECUENTES, AL ARTÍCULO 276 SEPTIES, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-656 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 126, PÁRRAFO CUARTO; Y SE ADICIONA UN ARTÍCULO 198 BIS 1, AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-658 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 276 QUATER, PÁRRAFO PRIMERO, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
