@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2022-11-08"
+last_updated: "2023-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -445,13 +445,17 @@ c) Titular del Sistema para el Desarrollo Integral de la Familia del Estado.
 
 d) Titular de la Secretaría de Desarrollo Social y Regional.
 
-e) Titular de la Delegación del Instituto Nacional para las Personas Adultas Mayores.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+e) Un representante del Instituto Nacional para las Personas Adultas Mayores.
 
 f) Titular de la Dirección del Instituto Estatal de Educación para Adultos.
 
 g) Titular de la Secretaría de Finanzas.
 
-h) Presidencia de la Comisión de Derechos Humanos, Equidad y Género del Congreso del Estado.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+h) Presidencias de las comisiones de, Derechos Humanos; y Salud y Asistencia Social del Congreso del Estado.
 
 i) Las presidencias de las comisiones de grupos vulnerables de los ayuntamientos, que representen a cada una de las cuatro regiones del Estado.
 
@@ -479,11 +483,13 @@ o) titular de la Secretaría del Trabajo.
 
 p) titular del Instituto Potosino del Deporte.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
-q) Tres personas adultas mayores, conforme a lo establecido en el reglamento de la presente Ley, y avaladas por del (sic) Delegado del INAPAM; y el Presidente del Consejo.
+q) Cuatro personas adultas mayores, y que por su experiencia en la materia, puedan contribuir con el objeto del Consejo; que serán electas de manera equitativa en cuanto a género por el Presidente del Consejo.
 
-r) Dos representantes de organismos no gubernamentales dedicados a la atención de las personas adultas mayores, que serán designadas entre ellos mismos.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+r) Dos representantes de organismos no gubernamentales dedicados a la atención de las personas adultas mayores, propuestas por el Presidente del Consejo y designadas por el Consejo.
 
 > <small>(ADICIONADO, P.O. 20 DE MAYO DE 2021)</small>
 
@@ -493,15 +499,17 @@ s) Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígen
 
 t) Titular de la Procuraduría de la Defensa de las Personas Adultas Mayores.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
-Las vocalías a que se refiere (sic) los incisos q) y r) de esta fracción, durarán en su encargo tres años, contados a partir de la fecha de su designación; y podrán ser reelectas para un solo periodo.
+Las vocalías a que se refiere (sic) los incisos q) y r) de esta fracción, durarán en su encargo tres años, contados a partir de la fecha de su designación; y podrán ser reelectas hasta la conclusión del periodo de la administración del Poder Ejecutivo en el que fueron nombrados.
 
 ###### ARTICULO 13.
 
 Los miembros del Consejo Interinstitucional Gerontológico no percibirán remuneración, emolumento o gratificación alguna, por el ejercicio de su cargo, y todos los integrantes contarán con voz y voto. Teniendo el voto de calidad la Presidencia.
 
-Cada propietario del Consejo designará a su respectivo suplente, informándolo por escrito a la Presidencia, observándose la misma formalidad en caso de sustitución. Las suplencias cuentan con voz y voto durante su representación.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+Cada propietario del Consejo designará a su respectivo suplente, informándolo por escrito a la Presidencia, observándose la misma formalidad en caso de sustitución, con excepción de la representación ciudadana descrita en la fracción III inciso q) del artículo 12 de este ordenamiento quienes también serán designados con las características y formalidades de los titulares. Las suplencias cuentan con voz y voto durante su representación.
 
 En todo tiempo, la Presidencia del Consejo podrá invitar a participar, con voz, pero sin voto, a todas aquéllas personas e instituciones privadas o de interés público, y representantes de ayuntamientos, que considere idóneas para el cumplimiento de los objetivos del Consejo.
 
@@ -1340,3 +1348,11 @@ P.O. 8 DE NOVIEMBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 12 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0848.- SE REFORMAN LOS ARTÍCULOS 12 EN SU FRACCIÓN III INCISOS E), H), Q) Y R) Y EN SU PÁRRAFO ÚLTIMO Y 13 EN SU PÁRRAFO SEGUNDO, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
