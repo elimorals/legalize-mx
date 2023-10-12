@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2023-07-13"
+last_updated: "2023-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -79,9 +79,9 @@ V.- El disfrute de servicios de salud de calidad en todas sus formas y niveles, 
 
 VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud;
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2023)</small>
 
-VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud;
+VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud, valorando a los recursos humanos como sujetos protagonistas de la construcción y consolidación de un Sistema de Salud para el Bienestar;
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
@@ -669,9 +669,15 @@ V.- Establecer en sus bandos y reglamentos municipales, las normas y disposicion
 
 VI.- Auxiliar a la (sic) autoridades sanitarias federales y estatales en el cumplimiento de sus funciones;
 
-VII.- Ejercer el control sanitario de los establecimientos y servicios referidos en los incisos del K) al O) de la fracción II del artículo 3° de esta ley; y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2023)</small>
 
-VIII.- Las demás que sean necesarias para el cumplimiento de sus funciones.
+VII.- Ejercer el control sanitario de los establecimientos y servicios referidos en los incisos del K) al O) de la fracción II del artículo 3° de esta ley;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+VIII.- Realizar campañas de fumigación para prevenir, controlar y erradicar las enfermedades transmitidas por vector. En el ámbito de sus atribuciones y de conformidad a lo que se refiere en el artículo 76, párrafos primero y segundo, y fracción VI, de esta ley; y
+
+IX.- Las demás que sean necesarias para el cumplimiento de sus funciones.
 
 La Secretaría tomará el control sanitario de los establecimientos y servicios referidos en los incisos del K) al O) de la fracción II del artículo 3° de esta ley, cuando el Ayuntamiento las incumpla o esté en riesgo la salud de la población.
 
@@ -1495,7 +1501,7 @@ Todo establecimiento industrial que cuente con servicios médicos en sus instala
 
 ### CAPITULO II. DE LAS ENFERMEDADES TRANSMISIBLES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
 ## TITULO OCTAVO. DE LA PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
@@ -1519,9 +1525,9 @@ La Secretaría de Salud realizará acciones de inspección directa en los establ
 
 ### CAPITULO IV. DE LOS ACCIDENTES
 
-###### ARTICULO 76.
+###### ARTÍCULO 76.
 
-La Secretaría, en coordinación con las autoridades sanitarias federales, elaborará programas y campañas temporales o permanentes para el control o erradicación de enfermedades e infecciones transmisibles que constituyan un riesgo para la salud a la población.
+La Secretaría, en coordinación con las autoridades sanitarias federales, y en su caso las municipales, elaborarán programas y campañas temporales o permanentes para el control o erradicación de enfermedades e infecciones transmisibles que constituyan un riesgo para la salud a la población.
 
 Asimismo, realizarán actividades de vigilancia epidemiológica, prevención y control de las enfermedades transmisibles, siguientes:
 
@@ -3940,6 +3946,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 13 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-598 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2° BIS; Y 2° TER, FRACCIÓN III DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-659 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2°, FRACCIÓN VII; 13, FRACCIÓN VII; Y 76, PÁRRAFO PRIMERO; Y SE ADICIONA UNA FRACCIÓN VIII, RECORRIENDO EN SU ORDEN NATURAL LA SUBSECUENTE AL ARTÍCULO 13, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
