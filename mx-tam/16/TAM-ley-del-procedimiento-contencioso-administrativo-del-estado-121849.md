@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-procedimiento-contencioso-administrativo-del-estado-121
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-08"
-last_updated: "2019-12-18"
+last_updated: "2023-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2023.
 
 Ley publicada en el Anexo al Número 69 del Periódico Oficial del Estado de Tamaulipas, el jueves 8 de junio de 2017.
 
@@ -609,9 +609,11 @@ En los demás casos, el particular justificará en su petición las razones por 
 
 La solicitud de las medidas cautelares, se podrá presentar en cualquier tiempo, hasta antes de que se dicte sentencia definitiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 35.
 
-El acuerdo que admita el incidente de petición de medidas cautelares, deberá emitirse dentro de las cuarenta y ocho horas siguientes a su interposición; en dicho acuerdo se ordenará correr traslado a quien se impute el acto administrativo o los hechos objeto de la controversia, pidiéndole un informe que deberá rendir en un plazo de setenta y dos horas siguientes a aquél en que surta efectos la notificación del acuerdo respectivo.
+El acuerdo que admita el incidente de petición de medidas cautelares, deberá emitirse dentro de las veinticuatro horas siguientes a su interposición; en dicho acuerdo se ordenará correr traslado a quien se impute el acto administrativo o los hechos objeto de la controversia, pidiéndole un informe que deberá rendir en un plazo de cuarenta y ocho horas siguientes a aquél en que surta efectos la notificación del acuerdo respectivo.
 
 Si no se rinde el informe o si éste no se refiere específicamente a los hechos que le impute el promovente, dichos hechos se tendrán por ciertos. En el acuerdo a que se refiere el párrafo anterior, el Magistrado resolverá sobre las medidas cautelares previas que se le hayan solicitado.
 
@@ -665,9 +667,13 @@ a) La solicitud podrá ser formulada en la demanda o en escrito diverso presenta
 
 b) Se tramitará por cuerda separada, bajo la responsabilidad del Magistrado;
 
-c) El Magistrado deberá proveer sobre la suspensión provisional de la ejecución, dentro de las cuarenta y ocho horas siguientes a la presentación de la solicitud; y
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
-d) El Magistrado requerirá a la autoridad demandada un informe relativo a la suspensión definitiva, el que se deberá rendir en el término de setenta y dos horas siguientes a aquél en que surta efectos la notificación del acuerdo respectivo. Vencido el término, con el informe o sin él, el Magistrado resolverá lo que corresponda, dentro de los cinco días siguientes;
+c) El Magistrado deberá proveer sobre la suspensión provisional de la ejecución, dentro de las veinticuatro horas siguientes a la presentación de la solicitud; y
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+d) El Magistrado requerirá a la autoridad demandada un informe relativo a la suspensión definitiva, el que se deberá rendir en el término de cuarenta y ocho horas siguientes a aquél en que surta efectos la notificación del acuerdo respectivo. Vencido el término, con el informe o sin él, el Magistrado resolverá lo que corresponda, dentro de los cinco días siguientes.
 
 IV. Mientras no se dicte sentencia definitiva en el juicio, el Magistrado podrá modificar o revocar la resolución que haya concedido o negado la suspensión definitiva, cuando ocurra un hecho superveniente que lo justifique; y
 
@@ -1021,7 +1027,9 @@ c) Declarar la nulidad del acto o resolución administrativa de carácter genera
 
 d) Reconocer la existencia de un derecho subjetivo y condenar al ente público estatal o municipal al pago de una indemnización por los daños y perjuicios causados por sus servidores públicos.
 
-Si la sentencia obliga a la autoridad a realizar un determinado acto o iniciar un procedimiento, conforme a lo dispuesto en la fracción III, deberá cumplirse en un plazo de cuatro meses, contados a partir de que la sentencia quede firme.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+Si la sentencia obliga a la autoridad a realizar un determinado acto o iniciar un procedimiento, conforme a lo dispuesto en la fracción III del presente artículo, deberá cumplirse en un plazo de dos meses, contados a partir de que la sentencia quede firme.
 
 Dentro del mismo término deberá emitir la resolución definitiva, aun cuando, tratándose de asuntos fiscales, hayan transcurrido los plazos señalados en los artículos 48-A y 67 del Código Fiscal del Estado de Tamaulipas.
 
@@ -1079,9 +1087,13 @@ a) Tratándose de la incompetencia, la autoridad competente podrá iniciar el pr
 
 b) Si tiene su causa en un vicio de forma de la resolución impugnada, ésta se puede reponer subsanando el vicio que produjo la nulidad; en el caso de nulidad por vicios del procedimiento, éste se puede reanudar reponiendo el acto viciado y a partir del mismo.
 
-En ambos casos, la autoridad demandada cuenta con un plazo de cuatro meses para reponer el procedimiento y dictar una nueva resolución definitiva, aún cuando hayan transcurrido los plazos señalados en los artículos 48-A y 67 del Código Fiscal del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
-En el caso previsto en el párrafo anterior, cuando sea necesario realizar un acto de autoridad en el extranjero o solicitar información a terceros para corroborar datos relacionados con las operaciones efectuadas con los contribuyentes, en el plazo de cuatro meses no se contará el tiempo transcurrido entre la petición de la información o de la realización del acto correspondiente y aquél en el que se proporcione dicha información o se realice el acto. Igualmente, cuando en la reposición del procedimiento se presente alguno de los supuestos a que se refiere el tercer párrafo del artículo 48-A del Código Fiscal del Estado de Tamaulipas, tampoco se contará dentro del plazo de cuatro meses el periodo por el que se suspende el plazo para concluir las visitas domiciliarias o las revisiones de gabinete, previsto en dicho párrafo, según corresponda.
+En ambos casos, la autoridad demandada cuenta con un plazo de dos meses para reponer el procedimiento y dictar una nueva resolución definitiva, aún cuando hayan transcurrido los plazos señalados en los artículos 48-A y 67 del Código Fiscal del Estado de Tamaulipas.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+
+En el caso previsto en el párrafo anterior, cuando sea necesario realizar un acto de autoridad en el extranjero o solicitar información a terceros para corroborar datos relacionados con las operaciones efectuadas con los contribuyentes, en el plazo de dos meses no se contará el tiempo transcurrido entre la petición de la información o de la realización del acto correspondiente y aquél en el que se proporcione dicha información o se realice el acto. Igualmente, cuando en la reposición del procedimiento se presente alguno de los supuestos a que se refiere el tercer párrafo del artículo 48-A del Código Fiscal del Estado de Tamaulipas, tampoco se contará dentro del plazo de dos meses el periodo por el que se suspende el plazo para concluir las visitas domiciliarias o las revisiones de gabinete, previsto en dicho párrafo, según corresponda.
 
 Si la autoridad tiene facultades discrecionales para iniciar el procedimiento o para dictar una nueva resolución en relación con dicho procedimiento, podrá abstenerse de reponerlo, siempre que no afecte al particular que obtuvo la nulidad de la resolución impugnada.
 
@@ -1628,3 +1640,11 @@ P.O. 18 DE DICIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor el primero de enero de 2020, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 12 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-651 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 35, PÁRRAFO PRIMERO; 38, FRACCIÓN III, INCISOS C) Y D); 65, PÁRRAFO SEGUNDO; Y 70, FRACCIÓN I, PÁRRAFOS SEGUNDO Y TERCERO, DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
