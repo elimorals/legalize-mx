@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2023-03-24"
+last_updated: "2023-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE OCTUBRE DE 2023.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1157,7 +1157,9 @@ XXXII. Participación Ciudadana;
 
 XXXIII. Asuntos Internacionales;
 
-XXXIV. Transparencia, Acceso a la Información Pública, Protección de Datos Personales y de Combate a la Corrupción.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2023)</small>
+
+XXXIV. Transparencia, Acceso a la Información Pública y Protección de Datos Personales;
 
 > <small>(ADICIONADA, G.G. 8 DE ENERO DE 2018)</small>
 
@@ -1166,6 +1168,10 @@ XXXV. Comisión de Familia y Desarrollo Humano.
 > <small>(ADICIONADA, G.G. 13 DE AGOSTO DE 2021)</small>
 
 XXXVI. Comisión Para las Declaratorias de Alerta de Violencia de Género contra las Mujeres por Feminicidio y Desaparición.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2023)</small>
+
+XXXVII. Para el Combate a la Corrupción.
 
 > <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
 
@@ -2672,3 +2678,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 La entrega de los estímulos correspondientes, estará sujeta a contar con la suficiencia presupuestal respectiva, así como atenderá a los criterios que en su momento emita la Junta de Coordinación Política de la Legislatura del Estado de México.
+
+G.G. 13 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 191.- POR EL QUE SE REFORMA LA FRACCIÓN XXXIV DEL ARTÍCULO 69; Y SE ADICIONA LA FRACCIÓN XXXVII AL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y SE REFORMA LA FRACCIÓN XXXIV DEL ARTÍCULO 13 A; SE ADICIONA LA FRACCIÓN XXXVII AL ARTÍCULO 13 A; Y SE DEROGAN LOS INCISOS E) Y F) DE LA FRACCIÓN XXXIV DEL ARTÍCULO 13 A DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por este Decreto.
