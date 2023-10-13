@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-a-la-vivienda-del-estado-de-san-luis-potosi-3931
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-13"
-last_updated: "2018-10-02"
+last_updated: "2023-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE FOMENTO A LA VIVIENDA DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CERTEZA PATRIMONIAL Y VIVIENDA SOCIAL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 13 DE OCTUBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FOMENTO A LA VIVIENDA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2023 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de mayo de 2004.
 
@@ -554,3 +556,41 @@ P.O. 2 DE OCTUBRE DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 13 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0853.- SE EXPIDE LA LEY DE CERTEZA PATRIMONIAL Y VIVIENDA SOCIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se abroga la Ley de Fomento a la Vivienda del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado “Plan de San Luis” mediante Decreto Legislativo número 96, con fecha 13 de mayo de 2004, así como sus reformas publicadas el 20 de septiembre de 2012, 22 de abril de 2014 y 02 de octubre de 2018.
+
+TERCERO. Se abroga el Decreto Legislativo 261, publicado en el Periódico Oficial del Estado “Plan de San Luis” el 8 de enero de 2002.
+
+CUARTO. Con la entrada en vigor de la presente norma, se extinguen los organismos públicos descentralizados denominados Instituto de Vivienda del Estado de San Luis Potosí y Promotora del Estado de San Luis Potosí.
+
+La Oficialía Mayor y la Secretaría de Finanzas, contarán con un plazo de noventa días para iniciar el procedimiento de liquidación formal de los organismos que se extinguen.
+
+QUINTO. Los recursos económicos, humanos, presupuesto asignado, créditos, bienes muebles e inmuebles y, en general, el patrimonio que actualmente pertenece al Instituto de Vivienda del Estado de San Luis Potosí, pasará a formar parte del INREVIS.
+
+SEXTO. Los recursos económicos, presupuesto asignado, créditos, bienes muebles e inmuebles y, en general, el patrimonio que actualmente pertenece a la Promotora del Estado de San Luis Potosí, pasará a formar parte del patrimonio del INREVIS.
+
+El personal de la extinta Promotora del Estado, será liquidado o en su caso readscrito a otras dependencias o entidades del Poder Ejecutivo del Estado.
+
+SÉPTIMO. Para los efectos del artículo anterior, el INREVIS deberá informar a las dependencias competentes de todos los bienes muebles e inmuebles que constituyan su patrimonio inicial, en un plazo no mayor de noventa días a partir de su instalación y operación.
+
+OCTAVO. El Titular del Poder Ejecutivo del Estado, con la entrada en vigor de esta Ley, convocará en un término no mayor a noventa días, a la instalación formal del Consejo de Administración del INREVIS, en el que se le dé cuenta del alcance legal de este Decreto y propondrá ante el mismo para su designación a la persona titular de la Dirección General.
+
+NOVENO. Los asuntos en trámite, que se encuentren pendientes de concluir por parte de las extintas Promotora del Estado de San Luis Potosí, e Instituto de Vivienda del Estado de San Luis Potosí, serán terminados por el INREVIS.
+
+DÉCIMO. Los recursos presupuestales y financieros correspondientes a los organismos que se extinguen, a excepción del capítulo 1000, de la extinta Promotora del Estado de San Luis Potosí, se asignarán al Instituto de Regularización y Vivienda Social del Estado de San Luis Potosí, de acuerdo con el Presupuesto de Egresos del Estado que se haya autorizado a los organismos que se extinguen, sin necesidad de reformar dicho ordenamiento.
+
+DÉCIMO PRIMERO. Los juicios pendientes de resolución, promovidos ante autoridades judiciales, administrativas, del trabajo o cualquier otra, en las que figuren como parte, la extinta Promotora del Estado de San Luis Potosí y el extinto Instituto de Vivienda del Estado de San Luis Potosí, que no hayan causado Estado, se continuarán substanciando por parte del INREVIS, de conformidad con las atribuciones y normas aplicables hasta su conclusión, sin necesidad de emitir pronunciamiento especial al respecto.
+
+DÉCIMO SEGUNDO. En aquellas leyes, reglamentos y demás normas, en las que se haga referencia a la extinta Promotora del Estado de San Luis Potosí y el extinto Instituto de Vivienda del Estado de San Luis Potosí, se entenderán referidas al Instituto de Regularización y Vivienda Social del Estado de San Luis Potosí, hasta en tanto no se realicen las reformas correspondientes.
+
+DÉCIMO TERCERO. EL Reglamento Interno del INREVIS, deberá expedirse en un término no mayor de ciento ochenta días, siguientes a la instalación formal del Consejo de Administración.
+
+DÉCIMO CUARTO. El INREVIS, en coordinación con la Oficialía Mayor, realizará un inventario de aquellos bienes asignados a la extinta Promotora del Estado de San Luis Potosí y el extinto Instituto de Vivienda del Estado de San Luis Potosí.
+
+DÉCIMO QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
