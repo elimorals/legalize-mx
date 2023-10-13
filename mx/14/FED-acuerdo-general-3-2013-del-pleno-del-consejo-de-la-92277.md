@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2023-09-29"
+last_updated: "2023-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE OCTUBRE DE 2023.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -1351,7 +1351,29 @@ VII. Ter. Tercer Tribunal Laboral Federal de asuntos individuales en el Estado d
 
 VIII. Tribunal Laboral Federal de asuntos individuales en el Estado de San Luis Potosí, con sede en San Luis Potosí;
 
-IX. Tribunal Laboral Federal de asuntos individuales en el Estado de Tabasco, con sede en Villahermosa;
+> <small>(REFORMADA POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 23/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2023)</small>
+
+IX. Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Tabasco, con sede en Villahermosa;
+
+> <small>(ADICIONADA POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 23/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2023)</small>
+
+IX. Bis. Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Tabasco, con sede en Villahermosa;
+
+> <small>(ADICIONADA POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 23/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2023)</small>
+
+IX. Ter. Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de Tabasco, con sede en Villahermosa;
+
+> <small>(ADICIONADA POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 23/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2023)</small>
+
+IX. Quater. Cuarto Tribunal Laboral Federal de asuntos individuales en el Estado de Tabasco, con sede en Villahermosa;
+
+> <small>(ADICIONADA POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 23/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2023)</small>
+
+IX. Quinquies. Quinto Tribunal Laboral Federal de asuntos individuales en el Estado de Tabasco, con sede en Villahermosa;
+
+> <small>(ADICIONADA POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 23/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2023)</small>
+
+IX. Sexies. Sexto Tribunal Laboral Federal de asuntos individuales en el Estado de Tabasco, con sede en Villahermosa;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
 
@@ -1739,9 +1761,9 @@ IV. Los Tribunales Laborales Federales de asuntos individuales en el Estado de M
 
 V. El Tribunal Laboral Federal de asuntos individuales en el Estado de México, con residencia en Naucalpan tendrá jurisdicción en los municipios de Aculco, Apaxco, Atizapán de Zaragoza, Coacalco de Berriozábal, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Chapa de Mota, Ecatepec de Morelos, Huehuetoca, Hueypoxtla, Huixquilucan, Isidro Fabela, Jaltenco, Jilotepec, Jilotzingo, Melchor Ocampo, Naucalpan de Juárez, Nextlalpan, Nicolás Romero, Polotitlán, Tonanitla, Soyaniquilpan de Juárez, Teoloyucan, Tepotzotlán, Tequixquiac, Timilpan, Tlalnepantla de Baz, Tultepec, Tultitlán, Villa del Carbón, Zumpango, Acolman, Amecameca, Atenco, Atlautla, Axapusco, Ayapango, Cocotitlán, Chalco, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Ecatzingo, Ixtapaluca, Juchitepec, La Paz, Nezahualcóyotl, Nopaltepec, Otumba, Ozumba, Papalotla, San Martín de las Pirámides, Tecámac, Temamatla, Temascalapa, Tenango del Aire, Teotihuacán, Tepetlaoxtoc, Tepetlixpa, Texcoco, Tezoyuca, Tlalmanalco y Valle de Chalco Solidaridad;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 23/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2023)</small>
 
-VI. El Tribunal Laboral Federal de asuntos individuales en el Estado de Tabasco tendrá jurisdicción únicamente en los municipios que comprenden a dicha entidad federativa;
+VI. Los Tribunales Laborales Federales de asuntos individuales en el Estado de Tabasco, con sede en Villahermosa, tendrán jurisdicción únicamente en los municipios que comprenden a dicha entidad federativa;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO 3/2013 EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA TERCERA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 3 DE OCTUBRE DE 2022)</small>
 
@@ -8923,7 +8945,7 @@ SÉPTIMO. Quedan sin efecto las disposiciones dictadas con anterioridad, en lo q
 
 D.O.F. 15 DE DICIEMBRE DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 32/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL JUZGADO CUARTO DE DISTRITO EN EL ESTADO DE CHIAPAS, CON RESIDENCIA EN TAPACHULA, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN EL ESTADO Y RESIDENCIA INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 32/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL JUZGADO CUARTO DE DISTRITO EN EL ESTADO DE CHIAPAS, CON RESIDENCIA EN TAPACHULA, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADO DE DISTRITO EN EL ESTADO Y RESIDENCIA INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
 
 PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su aprobación.
 
@@ -10730,3 +10752,21 @@ TERCERO. El Cuarto Tribunal Laboral Federal de asuntos individuales en el Estado
 CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, dotará al Cuarto Tribunal Laboral Federal de asuntos individuales en el Estado de Guanajuato, con sede en Guanajuato, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
 
 QUINTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones a la configuración del Sistema Integral de Gestión de Expedientes, al sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio, además del Cuarto Tribunal Federal de asuntos individuales en el Estado de Guanajuato, con sede en Guanajuato, al Primer, Segundo y Tercer Tribunales Laborales Federales de asuntos individuales en el Estado de Guanajuato, con sede en Guanajuato.
+
+D.O.F. 13 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 23/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL TRIBUNAL LABORAL FEDERAL DE ASUNTOS INDIVIDUALES EN EL ESTADO DE TABASCO, CON SEDE EN VILLAHERMOSA; A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL PRIMER, SEGUNDO, TERCER, CUARTO, QUINTO Y SEXTO TRIBUNALES LABORALES FEDERALES DE ASUNTOS INDIVIDUALES EN EL ESTADO DE TABASCO, CON SEDE EN VILLAHERMOSA, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y DISTRIBUCIÓN DE ASUNTOS; DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTARÁ SERVICIO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los Tribunales Laborales Federales de asuntos individuales a que se refiere el presente Acuerdo General, deberán publicar avisos en lugares visibles para conocimiento del público, en relación con el inicio de sus funciones de manera individual.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, dotarán al Primer, Segundo, Tercer, Cuarto, Quinto y Sexto Tribunales Laborales Federales de asuntos individuales en el Estado de Tabasco, con sede en Villahermosa y a la Oficina de Correspondencia Común que les brindará servicio de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+QUINTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio a los mencionados Tribunales Laborales Federales de asuntos individuales.
+
+SEXTO. La Dirección General de Gestión Judicial, en coordinación con la Dirección General de Tecnologías de la Información, instrumentarán los cambios necesarios en el sistema de cómputo de la oficina de correspondencia común y del Sistema Integral de Gestión de Expedientes, para trasladar los expedientes electrónicos de los asuntos en trámite, del Tribunal de origen que correspondan al Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Tabasco, con sede en Villahermosa, al Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Tabasco, con sede en Villahermosa, al Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de Tabasco, con sede en Villahermosa, al Cuarto Tribunal Laboral Federal de asuntos individuales en el Estado de Tabasco, con sede en Villahermosa, al Quinto Tribunal Laboral Federal de asuntos individuales en el Estado de Tabasco, con sede en Villahermosa y al Sexto Tribunal Laboral Federal de asuntos individuales en el Estado de Tabasco, con sede en Villahermosa.
+
+SÉPTIMO. Con el objeto de llevar a cabo adecuadamente la recepción, distribución y registro de los asuntos en trámite, se declaran inhábiles pero laborales los días comprendidos del 16 al 20 de octubre de 2023, por lo que no correrán plazos y términos; sin perjuicio de que se recibirán asuntos nuevos y promociones, a los cuales se les dará registro conforme al orden y fecha de recepción.
