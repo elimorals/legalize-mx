@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2023-05-19"
+last_updated: "2023-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE OCTUBRE DE 2023.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -605,21 +605,31 @@ d). Generar las condiciones y los acuerdos para establecer una red o asociacione
 
 e) Las demás que le confiera la Junta de Coordinación Política, la Presidencia de la Legislatura y la Diputación Permanente.
 
-> <small>(ADICIONADA, G.G. 14 DE JULIO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 13 DE OCTUBRE DE 2023)</small>
 
-XXXIV. La Comisión de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y de Combate a la Corrupción, conocerá de los temas e iniciativas siguientes:
+XXXIV. La Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, conocerá de los temas e iniciativas siguientes:
+
+> <small>(ADICIONADO, G.G. 14 DE JULIO DE 2015)</small>
 
 a) De las iniciativas de ley, decreto o acuerdo relacionadas con la transparencia.
 
+> <small>(ADICIONADO, G.G. 14 DE JULIO DE 2015)</small>
+
 b) De las iniciativas de ley, decreto o acuerdo relacionadas con el acceso a la información pública.
+
+> <small>(ADICIONADO, G.G. 14 DE JULIO DE 2015)</small>
 
 c) De las iniciativas de ley, decreto o acuerdo relacionadas con la protección de datos personales.
 
+> <small>(ADICIONADO, G.G. 14 DE JULIO DE 2015)</small>
+
 d) Con los asuntos legislativos vinculados a la transparencia, el acceso a la información pública y protección de datos personales;
 
-e) De las iniciativas de ley, decreto o acuerdo relacionadas con el Combate a la Corrupción;
+e) (DEROGADO, G.G. 13 DE OCTUBRE DE 2023)
 
-f) De las iniciativas de ley, decreto o acuerdo relacionadas con la rendición de cuentas;
+f) (DEROGADO, G.G. 13 DE OCTUBRE DE 2023)
+
+> <small>(ADICIONADO, G.G. 14 DE JULIO DE 2015)</small>
 
 g) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
@@ -708,6 +718,20 @@ d.- Del seguimiento, implementación y cumplimiento de las acciones que le compe
 e.- Del proceso de armonización de las leyes relacionadas con el problema de la desaparición forzada de personas y la desaparición cometida por particulares;
 
 f.- Los demás asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.G. 13 DE OCTUBRE DE 2023)</small>
+
+XXXVII. La Comisión Legislativa Para el Combate a la Corrupción, conocerá de los temas, las iniciativas y los trabajos legislativos que se citan de manera enunciativa, más no limitativa, siguientes:
+
+a) De las iniciativas de ley, decreto o acuerdo, relacionadas con el combate a la corrupción;
+
+b) De las iniciativas de ley, decreto o acuerdo, relacionadas a la rendición de cuentas;
+
+c) De la evaluación, seguimiento y en su caso comparecencia de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción;
+
+d) Del proceso de armonización de las leyes relacionadas con el combate a la corrupción; y
+
+e) Los demás asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2024)</small>
 
@@ -3148,3 +3172,13 @@ G.G. 19 DE MAYO DE 2023.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 13 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 191.- POR EL QUE SE REFORMA LA FRACCIÓN XXXIV DEL ARTÍCULO 69; Y SE ADICIONA LA FRACCIÓN XXXVII AL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y SE REFORMA LA FRACCIÓN XXXIV DEL ARTÍCULO 13 A; SE ADICIONA LA FRACCIÓN XXXVII AL ARTÍCULO 13 A; Y SE DEROGAN LOS INCISOS E) Y F) DE LA FRACCIÓN XXXIV DEL ARTÍCULO 13 A DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por este Decreto.
