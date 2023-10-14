@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-presupuesto-y-responsabilidad-hacendaria-del-848
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2023-08-05"
+last_updated: "2023-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -49,13 +49,13 @@ LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
 La presente Ley es de orden público, y tiene por objeto reglamentar los artículos 53 fracción VII, 59 fracciones XXI, XXI Bis, 61, 99, 114, 137 y 138 de la Constitución Política del Estado Libre y Soberano de Oaxaca, en materia de programación, presupuestación, aprobación, ejercicio, control y evaluación de los ingresos y egresos públicos.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-Los Ejecutores de gasto estarán obligados a cumplir las disposiciones de esta Ley así como observar que la administración de los recursos públicos se realice con base en criterios de legalidad, eficiencia, eficacia, economía, transparencia, honestidad, racionalidad, austeridad, control, rendición de cuentas y equidad de género.
+Los Ejecutores de gasto estarán obligados a cumplir las disposiciones de esta Ley, de la Ley Estatal de Austeridad Republicana, así como observar que la administración de los recursos públicos se realice con base en criterios de legalidad, eficiencia, eficacia, economía, transparencia, honestidad, racionalidad, austeridad, control, rendición de cuentas y equidad de género.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca fiscalizará el estricto cumplimiento de las disposiciones de esta Ley por parte de los ejecutores de gasto, conforme a la competencia que le confieren la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Constitución Política del Estado Libre y Soberano de Oaxaca y la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca y demás disposiciones aplicables.
+La Auditoría Superior fiscalizará el estricto cumplimiento de las disposiciones de esta Ley por parte de los ejecutores de gasto, conforme a la competencia que le confieren la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Constitución Política del Estado Libre y Soberano de Oaxaca y la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca y demás disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
@@ -121,9 +121,9 @@ XII Bis. Criterios Generales de Política Económica: El documento enviado por e
 
 XIII. Capítulo de gasto: Es el mayor nivel de agregación que identifica el conjunto homogéneo y ordenado de los bienes y servicios requeridos por los Ejecutores de gasto.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-XIV. Contraloría: Secretaría de la Contraloría y Transparencia Gubernamental;
+XIV. Secretaría de Honestidad: Secretaría de Honestidad, Transparencia y Función Pública;
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
@@ -265,9 +265,9 @@ XLVII. Ley de Ingresos: la Ley de Ingresos del Estado de Oaxaca para el ejercici
 
 XLVIII. Órganos Autónomos: los entes de derecho público de carácter estatal con patrimonio y personalidad jurídica, con autonomía en el ejercicio de sus funciones y en su administración, creadas por disposición expresa de la Constitución Política del Estado Libre y Soberano de Oaxaca a las que se asignen recursos de ramos autónomos del Presupuesto de Egresos;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-XLVIII Bis. Órgano Fiscalizador: El Órgano Superior de Fiscalización del Estado de Oaxaca;
+XLVIII Bis. Auditoría Superior: La Auditoría Superior de Fiscalización del Estado de Oaxaca;
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
@@ -373,13 +373,15 @@ LXX. Unidad responsable: Para efectos presupuestales los Poderes Legislativo y J
 
 Los conceptos utilizados en la presente Ley que requieran ser precisados y que no se encuentren incluidos en este apartado, deberán incluirse en el Reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 3.
 
-La interpretación de esta Ley para efectos administrativos y exclusivamente en el ámbito de competencia del Ejecutivo Estatal corresponde a la Secretaría y a la Contraloría en el ámbito de su respectiva competencia. La Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley General de Contabilidad Gubernamental, la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca, y el Código Fiscal para el Estado de Oaxaca serán supletorios de esta Ley en lo conducente.
+La interpretación de esta Ley para efectos administrativos y exclusivamente en el ámbito de competencia del Ejecutivo Estatal corresponde a la Secretaría y a la Contraloría en el ámbito de su respectiva competencia. La Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley General de Contabilidad Gubernamental, la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca, el Código Fiscal para el Estado de Oaxaca y la Ley Estatal de Austeridad Republicana, serán supletorios de esta Ley en lo conducente.
 
-Las dependencias, entidades, órganos auxiliares del Gobernador del Estado y los órganos auxiliares de colaboración deberán observar las disposiciones generales que emitan la Secretaría y la Contraloría, en el ámbito de su respectiva competencia, para dar correcta aplicación a lo dispuesto en esta Ley y el Reglamento. En el caso de los Poderes Legislativo y Judicial y de los Órganos Autónomos, sus respectivas Unidades de administración deberán establecer las disposiciones generales correspondientes.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+Las dependencias, entidades, órganos auxiliares del Gobernador del Estado y los órganos auxiliares de colaboración deberán observar las disposiciones generales que emitan la Secretaría y la Secretaría de Honestidad, en el ámbito de su respectiva competencia, para dar correcta aplicación a lo dispuesto en esta Ley y el Reglamento. En el caso de los Poderes Legislativo y Judicial y de los Órganos Autónomos, sus respectivas Unidades de administración deberán establecer las disposiciones generales correspondientes.
 
 Las disposiciones generales a que se refiere el párrafo anterior deberán publicarse en el Periódico Oficial del Estado.
 
@@ -1235,15 +1237,15 @@ A su vez, las Unidades de administración de cada dependencia y entidad deberán
 
 ### CAPÍTULO I. DEL EJERCICIO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 40.
 
-Las Unidades de Administración de los Ejecutores de gasto serán responsables de la administración por resultados; para ello deberán cumplir con oportunidad y eficiencia las metas y objetivos previstos en su programa operativo anual, conforme a lo dispuesto en esta Ley, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y las demás disposiciones aplicables.
+Las Unidades de Administración de los Ejecutores de gasto serán responsables de la administración por resultados; para ello deberán cumplir con oportunidad y eficiencia las metas y objetivos previstos en su programa operativo anual, conforme a lo dispuesto en esta Ley, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley Estatal de Austeridad Republicana y las demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-Con base en lo anterior, la Contraloría establecerá los controles presupuestarios necesarios para constatar y vigilar que los resultados y medidas presupuestarias promuevan un ejercicio más eficiente y eficaz del gasto público, así como una efectiva rendición de cuentas. Las dependencias y entidades se sujetarán a los controles presupuestarios establecidos en dichos instrumentos, conforme al marco jurídico aplicable a sus presupuestos aprobados y a las medidas que determine la Secretaría, en los términos del Reglamento.
+Con base en lo anterior, la Secretaría de Honestidad, establecerá los controles presupuestarios necesarios para constatar y vigilar que los resultados y medidas presupuestarias promuevan un ejercicio más eficiente y eficaz del gasto público, así como una efectiva rendición de cuentas. Las dependencias y entidades se sujetarán a los controles presupuestarios establecidos en dichos instrumentos, conforme al marco jurídico aplicable a sus presupuestos aprobados y a las medidas que determine la Secretaría, en los términos del Reglamento.
 
 Las dependencias y entidades deberán publicar un extracto de sus compromisos de resultados y trimestralmente los resultados de desempeño en sus páginas electrónicas de internet.
 
@@ -1251,15 +1253,15 @@ Las dependencias y entidades deberán publicar un extracto de sus compromisos de
 
 Los Ejecutores de gasto deberán contar con sistemas de control presupuestario que promuevan la programación, presupuestación, ejecución, registro e información del gasto de conformidad con los criterios establecidos en el párrafo segundo del artículo 1 de esta Ley, así como que contribuyan al cumplimiento de los objetivos y metas aprobados en el Presupuesto de Egresos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE OCTUBRE DE 2023)</small>
 
-El control presupuestario en las dependencias y entidades se sujetará a las políticas y disposiciones generales que determine la Contraloría. Las dependencias y entidades, con base en dichas políticas y disposiciones, realizarán las siguientes acciones:
+El control presupuestario en las dependencias y entidades se sujetará a las políticas y disposiciones generales que determine la Secretaría de Honestidad. Las dependencias y entidades, con base en dichas políticas y disposiciones, realizarán las siguientes acciones:
 
 I. Los titulares de las dependencias y entidades vigilarán la forma en que las estrategias básicas y los objetivos de control presupuestario sean conducidas y alcanzados. Asimismo, deberán atender los informes que en materia de control y auditoría les sean turnados y vigilarán y se responsabilizarán de la implantación de las medidas preventivas y correctivas a que hubiere lugar;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-II. Las Unidades de administración establecerán las medidas de implementación de control presupuestario que fueren necesarias; tomarán las acciones correspondientes para corregir las deficiencias detectadas y presentarán a la Contraloría informes trimestrales sobre el cumplimiento de los objetivos del sistema de control, su funcionamiento y programas de mejoramiento, y
+II. Las Unidades de administración establecerán las medidas de implementación de control presupuestario que fueren necesarias, tomarán las acciones correspondientes para corregir las deficiencias detectadas y presentarán a la Contraloría informes trimestrales sobre el cumplimiento de los objetivos del sistema de control, su funcionamiento y programas de mejoramiento, y
 
 III. Los servidores públicos responsables del sistema que controla las operaciones presupuestarias en la dependencia o entidad correspondiente, responderán dentro del ámbito de sus respectivas facultades.
 
@@ -1583,39 +1585,27 @@ Los Poderes Legislativo y Judicial y los Órganos Autónomos, a través de sus r
 
 ### CAPÍTULO CUARTO. DE LA AUSTERIDAD Y DISCIPLINA PRESUPUESTARIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 57.
 
-Los Ejecutores de gasto, en el ejercicio de sus respectivos presupuestos, deberán establecer medidas para racionalizar el gasto corriente, sin afectar el cumplimiento de las metas de los programas aprobados en el Presupuesto de Egresos.
+Los Ejecutores de gasto, en el ejercicio de sus respectivos presupuestos, están obligados a cumplir las disposiciones de esta Ley, y de la Ley Estatal de Austeridad Republicana, observando en todo tiempo que se realicen con base en los criterios de legalidad, eficiencia, eficacia, económica, transparencia, honestidad, racionalidad y rendición de cuentas.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-El Ejecutivo Estatal, por conducto de la Secretaría, Administración y Contraloría, de acuerdo con la información de desempeño reportada, establecerá un programa de mediano plazo para promover la eficiencia y eficacia en la gestión pública de la Administración Pública Estatal, a través de acciones que modernicen y mejoren la prestación de los servicios públicos, promuevan la productividad en el desempeño de las funciones de las dependencias y entidades, y reduzcan gastos de operación. Dichas acciones deberán orientarse a lograr mejoras continuas de mediano plazo que permitan, como mínimo, medir con base anual su progreso.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-Las dependencias y entidades deberán cumplir con los compromisos e indicadores del desempeño de las medidas que se establezcan en el programa a que se refiere el párrafo anterior. Dichos compromisos deberán formalizarse por los titulares de las dependencias y entidades, y el avance en su cumplimiento se reportará en los informes trimestrales.
+La auditoría superior, fiscalizará el estricto cumplimiento de las disposiciones de esta Ley por parte de los ejecutores del gasto, conforme a la competencia que le confiere la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Constitución Política del Estado Libre y Soberano de Oaxaca, la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca, la Ley Estatal de Austeridad Republicana y demás disposiciones aplicables.
 
 ###### Artículo 58.
 
-Los Ejecutores de gasto podrán realizar contrataciones de prestación de servicios de asesoría, consultoría, estudios e investigaciones, siempre y cuando:
-
-a) Cuenten con recursos para dichos fines en el Presupuesto de Egresos;
-
-b) Las personas físicas y morales que presten los servicios no desempeñen funciones iguales o equivalentes a las del personal de plaza presupuestaria;
-
-c) Las contrataciones de servicios profesionales sean indispensables para el cumplimiento de los programas autorizados;
-
-d) Se especifiquen los servicios profesionales a contratar; y
-
-e) Se apeguen a lo establecido en el Presupuesto de Egresos y las demás disposiciones generales aplicables.
+(DEROGADO, P.O. 14 DE OCTUBRE DE 2023)
 
 ###### Artículo 59.
 
-Los titulares de los Ejecutores de gasto autorizarán las erogaciones por concepto de gastos de orden social, congresos, convenciones, exposiciones, seminarios, espectáculos culturales o cualquier otro tipo de foro o evento análogo, en los términos del Reglamento de esta Ley.
-
-Los Ejecutores de gasto deberán integrar expedientes que incluyan, entre otros, los documentos con los que se acredite la contratación u organización requerida, la justificación del gasto, los beneficiarios, los objetivos y programas a los que se dará cumplimiento.
+(DEROGADO, P.O. 14 DE OCTUBRE DE 2023)
 
 ### CAPÍTULO QUINTO. DE LOS SERVICIOS PERSONALES
 
@@ -1755,9 +1745,9 @@ La recepción de los recursos federales por parte de las Entidades conlleva la o
 
 Las Entidades que reciban transferencias de recursos federales deberán registrar el ejercicio presupuestal en el sistema electrónico a que hace referencia el artículo 66 de la Ley, no obstante que atendiendo a la Ley de Coordinación Fiscal los recursos se hubieran recibido con anticipación.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-Las Dependencias y Entidades receptoras de recursos federales estarán obligadas a la retención y entero de los recursos destinados a la Contraloría y Órgano Superior de Fiscalización.
+Las Dependencias y Entidades receptoras de recursos federales estarán obligadas a la retención y entero de los recursos destinados a la Secretaría de Honestidad y Auditoría Superior.
 
 Las asignaciones presupuestales aprobadas en el Presupuesto de Egresos a los Poderes Legislativo y Judicial, y Órganos Autónomos se ministrarán en las partidas presupuestales indicadas en los programas operativos anuales y de conformidad con sus calendarios de presupuesto.
 
@@ -2003,13 +1993,17 @@ V. Las evaluaciones, en la medida de lo posible, deberán incluir información d
 
 VI. Deberán dar seguimiento a la atención de las recomendaciones que se emitan derivado de las evaluaciones correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 84.
 
-La Secretaría y la Contraloría, en el ámbito de sus respectivas competencias, verificarán periódicamente, al menos cada trimestre, los resultados de recaudación y de ejecución de los programas y presupuestos de las dependencias y entidades, con base en el sistema de evaluación del desempeño, entre otros, para identificar la eficiencia, eficacia, economía, transparencia y honradez en la Administración Pública Estatal y el impacto social del ejercicio del gasto público, así como aplicar las medidas conducentes. Igual obligación y para los mismos fines, tendrán las dependencias, respecto de sus entidades coordinadas.
+La Secretaría y la Secretaría de Honestidad, en el ámbito de sus respectivas competencias, verificarán periódicamente, al menos cada trimestre, los resultados de recaudación y de ejecución de los programas y presupuestos de las dependencias y entidades, con base en el sistema de evaluación del desempeño, entre otros, para identificar la eficiencia, eficacia, economía, transparencia y honradez en la Administración Pública Estatal y el impacto social del ejercicio del gasto público, así como aplicar las medidas conducentes. Igual obligación y para los mismos fines, tendrán las dependencias, respecto de sus entidades coordinadas.
 
 El sistema de evaluación del desempeño a que se refiere el párrafo anterior será obligatorio para los Ejecutores de gasto. Dicho sistema incorporará indicadores para evaluar los resultados presentados en los informes trimestrales, enfatizando en la calidad de los bienes y servicios públicos, la satisfacción del ciudadano y el cumplimiento de los criterios establecidos en el párrafo segundo del artículo 1 de esta Ley.
 
-La Secretaría y la Contraloría emitirán las disposiciones para la aplicación y evaluación de los referidos indicadores en las dependencias y entidades; los Poderes Legislativo, Judicial y los Órganos Autónomos emitirán sus respectivas disposiciones por conducto de sus Unidades de administración.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+La Secretaría y la Secretaría de Honestidad emitirán las disposiciones para la aplicación y evaluación de los referidos indicadores en las dependencias y entidades; los Poderes Legislativo, Judicial y los Órganos Autónomos emitirán sus respectivas disposiciones por conducto de sus Unidades de administración.
 
 Los indicadores del sistema de evaluación del desempeño deberán formar parte del Presupuesto de Egresos e incorporar sus resultados en el Informe de Avance de Gestión y Cuenta Pública, explicando en forma detallada las causas de las variaciones y su correspondiente efecto económico.
 
@@ -2027,17 +2021,17 @@ Los registros contables se llevarán con base acumulativa en apego estricto de l
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 86.
 
-Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la presente Ley, su Reglamento y demás disposiciones generales en la materia, serán sancionados de conformidad con lo previsto en la Ley General de Responsabilidades Administrativas, Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca y demás disposiciones aplicables en términos del Título Séptimo de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la presente Ley, su Reglamento y demás disposiciones generales en la materia, serán sancionados de conformidad con lo previsto en la Ley General de Responsabilidades Administrativas, Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, la Ley Estatal de Austeridad Republicana y demás disposiciones aplicables en términos del Título Séptimo de la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 87.
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca ejercerá la competencia que, conforme a la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca y las demás disposiciones aplicables, le correspondan en materia de responsabilidades.
+La Auditoría Superior ejercerá la competencia que, conforme a la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca y las demás disposiciones aplicables, le correspondan en materia de responsabilidades.
 
 ###### Artículo 88.
 
@@ -2065,9 +2059,9 @@ X. Realicen acciones u omisiones que deliberadamente generen subejercicios por u
 
 XI. Cuando por un acto u omisión se evite el reintegro de recursos no ejercidos a la Secretaría o en su caso a la Tesorería de la Federación en los plazos señalados por esta Ley, Ley Federal de Presupuesto y Responsabilidad Hacendaría y su Reglamento y las demás disposiciones generales aplicables;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-XII. Infrinjan las disposiciones generales que emitan la Secretaría, Administración, la Contraloría y el Órgano Superior de Fiscalización del Estado de Oaxaca, en el ámbito de sus respectivas competencias.
+XII. Infrinjan las disposiciones generales que emitan la Secretaría, Administración, la Secretaría de Honestidad y Auditoría Superior, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 89.
 
@@ -2312,5 +2306,13 @@ P.O. 5 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1484.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 2 DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 14 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1560.- MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 1, LA FRACCIÓN XLVIII BIS DEL ARTÍCULO 2, LOS ARTÍCULOS 3, 40, 57, EL PÁRRAFO TERCERO DEL ARTÍCULO 70, LOS ARTÍCULOS 84, 86, 87, Y LA FRACCIÓN XII DEL ARTÍCULO 88; Y SE DEROGAN LOS ARTÍCULOS 58 Y 59 DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
