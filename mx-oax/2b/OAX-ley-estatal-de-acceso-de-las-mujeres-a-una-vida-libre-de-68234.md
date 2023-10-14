@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2023-02-25"
+last_updated: "2023-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -207,9 +207,9 @@ Se entenderá que las acciones u omisiones se basan en elementos de género, cua
 
 Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y esta Ley; puede ser perpetrada indistintamente por agentes estatales, servidores públicos, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-VIII. La violencia simbólica: Es la que se ejerce a través de patrones estereotipados, mensajes, valores, iconos o signos que trasmiten y reproducen dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad, implica una reproducción en cubierta y sistemática difícil de distinguir y percibir.
+VIII. La violencia simbólica: Es la que se ejerce a través de patrones estereotipados, mensajes, valores, Iconos o signos que transmiten y reproducen dominación, cosificación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad, implica una reproducción encubierta y sistemática, difícil de distinguir y percibir.
 
 IX. (DEROGADA, P.O. 20 DE AGOSTO DE 2022)
 
@@ -475,13 +475,13 @@ Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o
 
 Se entenderá por Tecnologías de la Información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
 
-> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 17 Ter.
 
-Violencia mediática es todo acto a través de cualquier medio de comunicación, que de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.
+Violencia mediática es todo acto a través de cualquier medio de comunicación, que de manera directa o indirecta promueva la violencia simbólica, estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.
 
-La violencia mediática se ejerce por cualquier persona física o moral, que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atentan contra la igualdad.
+La violencia mediática se ejerce por cualquier persona física o moral, que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atentan contra la igualdad y la dignidad.
 
 > <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2022)</small>
 
@@ -613,17 +613,25 @@ Alerta de violencia de género es el conjunto de acciones gubernamentales de eme
 
 ### Capítulo Quinto. De las Ordenes de Protección a favor de la Víctima
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 24.
 
-Las órdenes de protección son actos de urgente aplicación en función del interés superior de la víctima, son fundamentalmente precautorias y cautelares, sin que sean condicionadas a la iniciación de una denuncia o de un proceso judicial para su emisión, deberán otorgarse de oficio o a petición de la víctima o víctima indirecta, por las autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres o niñas, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
+Las órdenes de protección son actos de urgente aplicación en función del interés superior de la (sic) víctimas, son fundamentalmente precautorias y cautelares, sin que sean condicionadas a la iniciación de una denuncia o de un proceso judicial o administrativo para su emisión, deberán otorgarse de oficio o a petición de la víctima o víctima indirecta, por las autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres o niñas, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
 El Ministerio Público y el Síndico Municipal, bajo su más estricta responsabilidad, ordenarán la implementación de las órdenes de protección idóneas, para salvaguardar la integridad de las mujeres y niñas que se encuentren viviendo cualquier tipo de violencia de género.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
 El Síndico Municipal, una vez que emita las órdenes de protección o emergencia preventivas, hará del conocimiento del Ministerio Público dentro de las veinticuatro horas siguientes, los hechos y el tipo de órdenes otorgadas, para que este asuma sus facultades constitucionales y legales, como representante de la víctima o víctimas.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
 Las órdenes de protección, podrán ser de naturaleza colectiva a fin de prevenir un daño irreparable contra las mujeres debido a su vínculo con una organización, grupo o comunidad de personas determinadas o determinables.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
 En materia de violencia política contra las mujeres en razón de género, el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca y el Tribunal Electoral del Estado de Oaxaca, podrán solicitar a las autoridades competentes el otorgamiento de las órdenes o medidas de protección y reparación, contenidas en el artículo 341 BIS y 341 TER de la Ley de Instituciones y Procedimientos Electorales de Oaxaca y esta Ley.
 
@@ -2808,3 +2816,23 @@ P.O. 25 DE FEBRERO DE 2023.
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 14 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1557.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 24 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1558.- MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN VIII DEL ARTÍCULO 7 Y EL ARTICULO 17 TER DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan derogadas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto en el presente Decreto.
