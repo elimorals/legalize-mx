@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-igualdad-entre-mujeres-y-hombres-para-el-estado-de-68771
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-25"
-last_updated: "2023-03-04"
+last_updated: "2023-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 25 de abril de 2009.
 
@@ -224,6 +224,10 @@ I. Implementar programas y política de Igualdad, en concordancia con las polít
 II. Coadyuvar con las autoridades federales y estatales, en la consolidación de los Programas Nacional y Estatal en materia de igualdad entre mujeres y hombres;
 
 III. Diseñar, formular y aplicar campañas de concientización que promuevan los principios rectores de la presente Ley; y
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta fracción, deberá estar desprovisto de estereotipos establecidos en función del sexo de las personas;
 
 IV. Fomentar la participación social, política, ciudadana y económica dirigida a lograr la igualdad entre mujeres y hombres.
 
@@ -567,13 +571,21 @@ V. Fomentar la participación igualitaria y sin discriminación para el proceso 
 
 VI. Asegurar que en todos los Reglamentos de trabajo en el sector público, privado y educativo se prohíba toda forma de acoso y hostigamiento sexual, y se promueva el respeto a la dignidad de las mujeres;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-VII. Asegurar que se sancione todo despido por embarazo o maternidad, de conformidad con la legislación que corresponda, y;
+VII. Asegurar que se sancione administrativamente todo despido por embarazo o maternidad, con independencia de las sanciones que establezcan las leyes aplicables;
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
 VIII. Garantizar la implementación de mecanismos que promuevan la participación e integración equilibrada e igualitaria entre mujeres y hombres en los cargos de elección popular.
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+IX. Promover la participación y representación paritaria entre mujeres y hombres dentro de las estructuras de los partidos políticos; y
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+X. Fomentar la participación paritaria y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en el servicio civil de carrera de los poderes Ejecutivo, Legislativo y Judicial.
 
 ### CAPÍTULO TERCERO. DE LA IGUALDAD DE ACCESO Y EL PLENO DISFRUTE DE LOS DERECHOS SOCIALES
 
@@ -930,3 +942,23 @@ P.O. 4 DE MARZO DE 2023.
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 14 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1555.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII Y SE ADICIONA LAS FRACCIONES IX Y X AL ARTÍCULO 28 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1556.- MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN III DEL ARTÍCULO 12 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente.
