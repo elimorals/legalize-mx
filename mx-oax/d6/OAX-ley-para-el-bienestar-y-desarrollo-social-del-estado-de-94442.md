@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-bienestar-y-desarrollo-social-del-estado-de-94442"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-18"
-last_updated: "2023-07-29"
+last_updated: "2023-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY PARA EL BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE OAXACA -- ANTES LEY DE DESARROLLO SOCIAL PARA EL ESTADO --
 
-LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE OAXACA
+LEY PARA EL BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 18 de mayo de 2013.
 
@@ -35,15 +35,19 @@ DECRETO 1983
 
 LA SEXAGÉSIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, APRUEBA:
 
-LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE OAXACA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+LEY PARA EL BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE OAXACA
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPÍTULO I. DE LA NATURALEZA Y OBJETO DE LA LEY
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de la presente Ley son de orden público, de interés social y de observancia general en todo el Estado de Oaxaca y tiene como finalidad promover, proteger y garantizar el pleno ejercicio de los derechos sociales de los oaxaqueños y residentes del Estado, mediante una política integral de desarrollo social y humano.
+Las disposiciones de la presente Ley son de orden público, de interés social y de observancia general en todo el Estado de Oaxaca y tiene como finalidad promover, proteger y garantizar el pleno ejercicio de los derechos sociales de los oaxaqueños y residentes del Estado, mediante una política integral de bienestar y desarrollo social.
 
 ###### Artículo 2.
 
@@ -83,7 +87,7 @@ XVI. Fomentar el sector social de la economía;
 
 XVII. Establecer los criterios y mecanismos de coordinación de las acciones entre el Gobierno Federal, Estatal y Municipal, a fin de vigilar que los recursos públicos asignados al desarrollo social y humano se apliquen y ejerzan con eficiencia, eficacia, honradez, oportunidad, transparencia y equidad;
 
-XVIII. Establecer los criterios para determinar las comunidades, municipios o asociación de éstos en regiones o micro regiones de atención prioritaria; en el caso de los pueblos indígenas, la identidad o la auto adscripción será criterio fundamental para la constitución o atención microregional;
+XVIII. (DEROGADA, P.O. 14 DE OCTUBRE DE 2023)
 
 XIX. Impulsar el desarrollo social sustentable y equilibrado en todas las regiones del Estado, dando preponderancia al impulso del desarrollo económico de las zonas de atención prioritaria en el Estado;
 
@@ -121,7 +125,7 @@ XI. CONEVAL: Consejo Nacional de Evaluación de la Política de Desarrollo Socia
 
 XII. Consejo Estatal: El Consejo Estatal de Desarrollo Social y Humano;
 
-XIII. Consejo Microrregional: El Consejo de Desarrollo Micro regional;
+XIII. (DEROGADA, P.O. 14 DE OCTUBRE DE 2023)
 
 XIV. Constitución Política del Estado: Constitución Política del Estado Libre y Soberano de Oaxaca;
 
@@ -195,9 +199,9 @@ XLVII. Secretaria de Contraloría: Secretaria de Contraloría y Transparencia Gu
 
 XLVIII. Secretaría Federal: La Secretaria de Bienestar, del Ejecutivo Federal;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-XLIX. Secretaría: A la Secretaría de Bienestar del Estado de Oaxaca;
+XLIX. Secretaría: A la Secretaría de Bienestar, Tequio e Inclusión;
 
 L. Sector Social: Grupos, sociedades, cooperativas, ejidos, organismos de la sociedad civil, instituciones de asistencia privada y asociaciones civiles sin fines de lucro, con objeto social establecido bajo principios de equidad social y productividad;
 
@@ -221,7 +225,9 @@ La aplicación de la presente Ley corresponde al Ejecutivo del Estado por conduc
 
 La interpretación de esta Ley se hará conforme a los criterios gramatical, sistemático y funcional; a falta de estos, conforme a los principios generales del derecho, atendiendo a su finalidad y los principios rectores del desarrollo social. La Constitución del Estado Libre y Soberano de Oaxaca, la Ley de Planeación del Estado, la Ley de Responsabilidades de los Servidores Públicos del Estado de Oaxaca así como la Ley General de Desarrollo Social serán de aplicación supletoria a la presente Ley.
 
-### CAPÍTULO III. DE LOS DERECHOS SOCIALES Y LOS SUJETOS DEL DESARROLLO SOCIAL Y HUMANO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+### CAPÍTULO III. DE LOS DERECHOS SOCIALES Y LOS SUJETOS DE BIENESTAR Y DESARROLLO SOCIAL
 
 ###### Artículo 6.
 
@@ -255,21 +261,25 @@ XII. El derecho a una vida libre de violencia.
 
 XIII. El derecho a la movilidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 7.
 
-Es sujeto de desarrollo social y por lo tanto susceptible de ser considerado beneficiario de las políticas de desarrollo social y humano establecidas en esta Ley, toda persona residente en el territorio del Estado y que se encuentre en condiciones de vulnerabilidad por su bajo índice de desarrollo social y humano.
+Es sujeto de bienestar y por lo tanto susceptible de ser considerado beneficiario de las políticas de bienestar y desarrollo social establecidas en esta Ley, toda persona residente en el territorio del Estado y que se encuentre en condiciones de vulnerabilidad por su bajo índice de desarrollo social y humano.
 
 Los beneficiarios podrán acceder a los programas y acciones siempre y cuando se sujeten a los principios rectores de la política estatal y municipal, además de cumplir los lineamientos que establezcan las reglas de operación de cada programa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 8.
 
-Para efectos de la presente Ley, los grupos o sectores que merecen especial atención en materia de desarrollo social y humano, a través de la elaboración, ejecución, seguimiento y evaluación de los programas como política estatal y municipal, son los siguientes:
+Para efectos de la presente Ley, los grupos o sectores que merecen especial atención en materia de bienestar y desarrollo social, a través de la elaboración, ejecución, seguimiento y evaluación de los programas como política estatal y municipal, son los siguientes:
 
 I. Las comunidades, municipios, regiones, microrregiones o asociación de estos, que por sus características e índices de pobreza, marginación o de desarrollo social y humano, constituyan zonas de atención prioritaria; además las que teniendo los aspectos considerados, presenten conflictos sociales o agrarios;
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-II. La población indígena, niñas y niños, adolescentes, mujeres en particular las madres solteras, adultos mayores, migrantes, familias de personas migrantes oaxaqueñas, personas con discapacidad, personas en condiciones de pobreza alimentaria y/o patrimonial o aquellos que se encuentren en situación de vulnerabilidad social; y
+II. La población indígena, afromexicana, niñas y niños, adolescentes, mujeres en particular jefas de familia, personas adultas mayores, juventudes, migrantes, familias de personas migrantes oaxaqueñas, personas con discapacidad, personas en condiciones de pobreza alimentaria y/o patrimonial o aquellos que se encuentren en situación de vulnerabilidad social; y
 
 III. Los individuos o grupos que lo requieran según condiciones de desastre, dinámica geográfica y social del Estado.
 
@@ -333,9 +343,11 @@ El Gobierno del Estado podrá convenir con los Ayuntamientos la integración de 
 
 ### CAPÍTULO V. DE LAS POLÍTICAS DE DESARROLLO SOCIAL Y HUMANO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 15.
 
-Las políticas estatales, regionales, microrregionales y municipales para el desarrollo social y humano, en concordancia con las políticas nacionales en la materia, se sujetarán a los siguientes principios:
+Las políticas estatales, regionales, y municipales para el bienestar y desarrollo social, en concordancia con las políticas nacionales en la materia, se sujetarán a los siguientes principios:
 
 I. Autogestión: Implica la recuperación del control de su calidad de vida, la conducción de su desarrollo, por parte de los ciudadanos y comunidades;
 
@@ -371,7 +383,9 @@ XV. Solidaridad: colaboración entre personas, grupos sociales y ámbitos de gob
 
 XVI. Subsidiaridad: reconocimiento, aprovechamiento y complementación de las capacidades individuales y colectivas existentes en la comunidad, con el propósito de que las personas y comunidades reduzcan sus niveles de dependencia hacia los agentes externos y aumenten así el grado de control sobre las decisiones que les afectan para su desarrollo integral;
 
-XVII. Sustentabilidad: Implica la preservación del equilibrio ecológico, la protección del ambiente y el aprovechamiento de recursos naturales, para mejorar la calidad de vida y la productividad de las personas, sin comprometer la permanencia, estabilidad y viabilidad de los ecosistemas, de las regiones, microrregiones y municipios;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+XVII. Sustentabilidad: Implica la preservación del equilibrio ecológico, la protección del ambiente y el aprovechamiento de recursos naturales, para mejorar la calidad de vida y la productividad de las personas, sin comprometer la permanencia, estabilidad y viabilidad de los ecosistemas, de las regiones y municipios;
 
 XVIII. Territorialidad: Se refiere a la planeación y ejecución de la política social desde un enfoque socio-espacial en el que en el ámbito territorial confluyen, se articulan y complementan las diferentes políticas y programas y donde se incorpora la gestión del territorio como componente del desarrollo social y de la articulación de éste con las políticas de desarrollo regional;
 
@@ -473,41 +487,55 @@ La planeación para el desarrollo social del estado, es el proceso a través del
 
 La planeación deberá vincular la operación e instrumentación de los programas específicos con los objetivos generales establecidos en el Programa Estatal de Desarrollo Social. En ella participarán los grupos sociales involucrados, a través de un proceso de consulta pública impulsada por las dependencias y entidades de la Administración, conforme a lo dispuesto en la Constitución Política del Estado, la Ley de Planeación del Estado de Oaxaca y el Plan Estatal de Desarrollo de Oaxaca vigente, debiendo incluir las políticas Municipales de desarrollo social y las demás disposiciones en la materia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 21.
 
-El Ejecutivo del Estado como responsable de elaborar la planeación en política de desarrollo social y humano, con apego a la Ley de Planeación, atenderá los criterios del INEGI, COESPO, CONEVAL e indicadores de pobreza y marginación elaborados por los organismos estatales, nacionales e internacionales. La planeación se realizará fundamentalmente por las siguientes instituciones e instancias:
+El Ejecutivo del Estado como responsable de elaborar la planeación en política de bienestar y desarrollo social, con apego a la Ley de Planeación, atenderá los criterios del INEGI, COESPO, CONEVAL e indicadores de pobreza y marginación elaborados por los organismos estatales, nacionales e internacionales. La planeación se realizará fundamentalmente por las siguientes instituciones e instancias:
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-I. Secretaría de Bienestar del Estado;
+I. Secretaría de Bienestar, Tequio e Inclusión;
 
-II. Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+II. Secretaría de Infraestructura y Comunicaciones;
 
 III. Secretaría de Finanzas;
 
-IV. Secretaria General de Gobierno;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-V. Secretaría de Asuntos Indígenas;
+IV. Secretaría de Gobierno
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+V. Secretaría de Interculturalidad, Pueblos y Comunidades Indígenas y Afromexicanas;
 
 > <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
 
 VI. Dirección General de Población de Oaxaca;
 
-VII. Comisión Estatal de Desarrollo Social y Humano; y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-VIII. El Consejo Consultivo de Desarrollo Social y Humano.
+VII. Comisión Estatal de bienestar y desarrollo social; y
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+VIII. El Consejo Consultivo de bienestar y desarrollo social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 22.
 
-La planeación del desarrollo social incluirá los programas sectoriales de las dependencias del Poder Ejecutivo que guarden relación con el desarrollo social; los institucionales regionales y especiales en esta materia; el Programa Sectorial de Desarrollo Social; y el Plan Estatal de Desarrollo.
+La planeación del desarrollo social incluirá los programas sectoriales de las dependencias del Poder Ejecutivo que guarden relación con el desarrollo social; los institucionales regionales y especiales en esta materia; el Programa Sectorial de Bienestar; y el Plan Estatal de Desarrollo.
 
 La misma obligación tendrán los Ayuntamientos en lo conducente, respecto de los Programas Municipales derivados de los planes de Gobierno Municipal y planes Municipales de desarrollo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 23.
 
-El Plan Sectorial de Desarrollo Social contendrá:
+El Plan Sectorial de Bienestar contendrá:
 
 I. El diagnóstico situacional que en esta materia guarda Oaxaca, así como, la identificación de los problemas a superar desde el ámbito sectorial y por grupos de población;
 
@@ -591,7 +619,9 @@ El Estado realizará programas con financiamiento exclusivamente propio, en aque
 
 El presupuesto asignado, deberá contemplar como prioritario la atención de los siguientes rubros:
 
-I. El cumplimiento de los Objetivos de Desarrollo del Milenio;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+I. El cumplimiento de los Objetivos de Desarrollo Sostenible;
 
 II. El abatimiento de las manifestaciones de la pobreza multidimensional;
 
@@ -651,11 +681,11 @@ Las reglas de operación del Fideicomiso serán aprobadas por el Consejo Estatal
 
 El Ejecutivo del Estado y los municipios, podrán convenir acciones entre sí y con el Gobierno Federal, en términos de la Ley General en la materia, para destinar recursos y la ejecución de programas especiales de desarrollo social.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 35.
 
-La Secretaría de Bienestar del Estado, deberá publicar en el Periódico Oficial del Gobierno del Estado de Oaxaca el Programa Operativo de Desarrollo Social los primeros 15 días de enero de cada ejercicio gubernamental.
+La Secretaría de Bienestar, Tequio e Inclusión, deberá publicar en el Periódico Oficial del Gobierno del Estado de Oaxaca el Programa Operativo de Bienestar y Desarrollo Social dentro de los primeros treinta días naturales de cada ejercicio gubernamental.
 
 ###### Artículo 36.
 
@@ -781,9 +811,11 @@ El Consejo conocerá los resultados de las evaluaciones y Auditorías que remita
 
 ### CAPÍTULO VII. DE LAS ZONAS DE ATENCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 50.
 
-Las zonas de atención para efecto de implementar los programas de desarrollo social y humano en el Estado, se clasifican en tres tipos:
+Las zonas de atención para efecto de implementar los programas de bienestar y desarrollo social en el Estado, se clasifican en tres tipos:
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -791,13 +823,17 @@ I. Zonas de atención prioritaria. Son áreas o regiones de carácter predominan
 
 II. Zonas de atención inmediata. Son áreas o regiones de carácter· predominantemente rural o urbano, que además de las condiciones antes señaladas, presenten conflictos sociales, agrarios o de otra índole que requiere atención urgente a través de los programas de desarrollo social y humano previsto en esta Ley; y
 
-III. Zonas indígenas con identidad en desarrollo. Son las asociaciones al interior de las comunidades y los municipios o entre estos últimos, que presenten las características descritas en los párrafos anteriores, unidas por su identidad cultural en busca de mecanismos y programas para un desarrollo sustentable, con identidad y de pleno respeto al medio ambiente.
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+III. Zonas indígenas y afromexicanas con identidad en desarrollo. Son las formas de organización al interior de las comunidades y los municipios o entre estos últimos, que presenten las características descritas en los párrafos anteriores, unidas por su identidad cultural en busca de mecanismos y programas para un desarrollo sustentable, con identidad y de pleno respeto al medio ambiente.
 
 ###### Artículo 51.
 
 El Ejecutivo Estatal a través de la Comisión, revisará, delimitará y evaluará anualmente las localidades que integran las zonas de atención prioritaria, de atención inmediata o indígenas con identidad en desarrollo, haciendo las adecuaciones o ajustes necesarios, conforme a la propuesta que le formule la Comisión y autoridades.
 
-La Secretaría anualmente emitirá un diagnóstico de la situación del Estado, en materia de desarrollo social y humano, refiriendo los requerimientos relativos a las zonas de atención prioritaria, atención inmediata e indígenas con identidad en desarrollo.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+La Secretaría anualmente emitirá un diagnóstico de la situación del Estado, en materia de bienestar y desarrollo social, refiriendo los requerimientos relativos a las zonas de atención prioritaria, atención inmediata e indígenas y afromexicanas con identidad en desarrollo.
 
 ###### Artículo 52.
 
@@ -829,9 +865,11 @@ Para la determinación de una zona de atención prioritaria o de una zona de ate
 
 Para la conformación de las zonas indígenas con identidad en desarrollo, además de los criterios anteriores, se tomará en cuenta el criterio de afinidad cultural o de auto adscripción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 55.
 
-La declaratoria de las zonas de atención prioritaria, atención inmediata indígena con identidad en desarrollo, que conforme a esta Ley se determine, será independiente de la que establezca el Gobierno Federal.
+La declaratoria de las zonas de atención prioritaria, atención inmediata de los pueblos indígenas y afromexicanos, que conforme a esta Ley se determine, será independiente de la que establezca el Gobierno Federal.
 
 La Secretaría, una vez hecha la declaratoria y publicada en el Periódico Oficial del Gobierno del Estado, deberá gestionar ante la dependencia federal competente la incorporación o modificación de la declaratoria federal, con el fin de que la determinación que dicha declaratoria haga de las de zonas de atención en el territorio del Estado, corresponda a los requerimientos e índices estatales.
 
@@ -881,17 +919,23 @@ V. Fomentar proyectos de desarrollo social, procurando la participación de orga
 
 VI. Realizar las gestiones necesarias a fin de que se instalen en el Estado empresas que generen empleo y bienestar
 
-## TÍTULO SEGUNDO. DEL SISTEMA ESTATAL DE COORDINACIÓN PARA EL DESARROLLO SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+## TÍTULO SEGUNDO. DEL SISTEMA ESTATAL DE COORDINACIÓN PARA EL BIENESTAR
 
 ### CAPÍTULO I. DEL OBJETO E INTEGRACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 59.
 
-El Sistema Estatal de Coordinación para el Desarrollo Social, es un mecanismo permanente de concurrencia, colaboración, coordinación y concertación del Ejecutivo Estatal, los Ayuntamientos, así como los sectores social y privado, que tiene por objeto:
+El Sistema Estatal de Coordinación para el Bienestar, es un mecanismo permanente de concurrencia, colaboración, coordinación y concertación del Ejecutivo Estatal, los Ayuntamientos, así como los sectores social y privado, que tiene por objeto:
 
 I. Dar sustento institucional a la Política Social del Estado, como una sola voluntad de gobierno y sociedad para trasformar las condiciones de carencias en que vive o amplios sectores de la población;
 
-II. Coordinar el proceso de planeación, en sus niveles institucional, global, sectorial, regional, microrregional y municipal, de las políticas, programas y acciones de los sectores público, social y privado, para impulsar el desarrollo social y la superación de la pobreza en la entidad de manera armónica, coordinada, complementaria y convenida, evitando la desarticulación, duplicidad y dispersión de esfuerzos;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+II. Coordinar el proceso de planeación, en sus niveles institucional, global, sectorial, regional, y municipal, de las políticas, programas y acciones de los sectores público, social y privado, para impulsar el bienestar, el desarrollo social y la superación de la pobreza en la entidad de manera armónica, coordinada, complementaria y convenida, evitando la desarticulación, duplicidad y dispersión de esfuerzos;
 
 III. Establecer las bases de coordinación entre las dependencias y entidades federales, estatales y municipales en la formulación, ejecución e instrumentación de programas, acciones e inversiones en materia de desarrollo social;
 
@@ -909,11 +953,15 @@ IX. Concentrar la información relativa a las obras y acciones planeadas y reali
 
 X. Las demás que sean necesarias para el cumplimiento de los objetivos de la presente Ley.
 
-### CAPÍTULO II. DE LAS AUTORIDADES RESPONSABLES DEL DESARROLLO SOCIAL Y SU COMPETENCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+### CAPÍTULO II. DE LAS AUTORIDADES RESPONSABLES DE BIENESTAR, DESARROLLO SOCIAL Y SU COMPETENCIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 60.
 
-Son autoridades responsables del desarrollo social en el Estado:
+Son autoridades responsables de bienestar y el desarrollo social en el Estado:
 
 I. La Federación a través de sus delegaciones;
 
@@ -999,123 +1047,191 @@ XII. Establecer mecanismos de participación social en los programas;
 
 XIII. Las que le señale esta Ley, su Reglamento y demás disposiciones aplicables.
 
-### CAPÍTULO III. DEL COMITÉ ESTATAL DE DESARROLLO SOCIAL Y HUMANO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+### CAPÍTULO III. DEL COMITÉ ESTATAL DE BIENESTAR Y DESARROLLO SOCIAL
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 63.
 
-El Comité Estatal de Desarrollo Social y Humano será la instancia de coordinación de las acciones del Ejecutivo Estatal para garantizar la integralidad en el diseño y ejecución de la política de desarrollo social y humano, con la participación, en su caso, de los gobiernos municipales.
+El Comité Estatal de Bienestar y Desarrollo Social será la instancia de coordinación de las acciones del Ejecutivo Estatal para garantizar la integralidad en el diseño y ejecución de la política de bienestar y desarrollo social, con la participación, en su caso, de los gobiernos municipales.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 64.
 
-El Comité Estatal tiene como objetivo impulsar, orientar, coordinar, proponer, dar seguimiento a las políticas, planes, programas y acciones de desarrollo social y humano a cargo de las dependencias estatales y municipales, sin menoscabo de la autonomía y las atribuciones del Municipio previstas por la Constitución Política de los Estados Unidos Mexicanos y la propia del Estado de Oaxaca.
+El Comité Estatal tiene como objetivo impulsar, orientar, coordinar, proponer, dar seguimiento a las políticas, planes, programas y acciones de bienestar y desarrollo social a cargo de las dependencias estatales y municipales, sin menoscabo de la autonomía y las atribuciones del Municipio previstas por la Constitución Política de los Estados Unidos Mexicanos y la propia del Estado de Oaxaca.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 65.
 
-El Comité Estatal de Desarrollo buscará los siguientes objetivos:
+El Comité Estatal de Bienestar y Desarrollo Social buscará los siguientes objetivos:
 
-I. Proponer políticas públicas de desarrollo social y humano bajo los criterios de integralidad y transversalidad;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-II. Proponer criterios para la planeación de las políticas y programas de desarrollo social y humano en los ámbitos estatal, regional y municipal;
+I. Proponer políticas públicas (sic) bienestar y desarrollo social bajo los criterios de integralidad y transversalidad;
 
-III. Recomendar medidas orientadas a hacer compatibles las decisiones vinculadas con la política de desarrollo social y humano y la política económica del Estado;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-IV. Determinar las zonas de atención prioritaria, zonas de atención inmediata y las zonas indígenas con identidad en desarrollo, con base a la propuesta que formule la Secretaría y someterlas a consideración del Ejecutivo Estatal;
+II. Proponer criterios para la planeación de las políticas y programas de bienestar y desarrollo social en los ámbitos estatal, regional y municipal;
 
-V. Promover mecanismos que garanticen la integralidad y correspondencia entre las políticas estatal y federal de desarrollo social y humano;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-VI. Opinar y dar seguimiento a la ejecución del programa estatal de desarrollo social y humano, de los programas sectoriales, regionales, institucionales y especiales en la materia;
+III. Recomendar medidas orientadas a hacer compatibles las decisiones vinculadas con la política de bienestar y desarrollo social y la política económica del Estado;
 
-VII. Acordar los criterios de suscripción en los convenios de coordinación entre los gobiernos estatal y federal, y de estos con los municipios, en materia de desarrollo social y humano;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-VIII. Aprobar las reglas de operación que deban regir la participación social a propuesta de la Secretaría;
+IV. Determinar las zonas de atención prioritaria, zonas de atención inmediata y las zonas indígenas y afromexicanas con identidad en desarrollo, con base a la propuesta que formule la Secretaría y someterlas a consideración del Ejecutivo Estatal;
 
-IX. Opinar sobre las partidas y montos del gasto social a integrar en el Presupuesto de Egresos del Estado;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-X. Analizar y proponer esquemas alternativos de financiamiento para los programas de desarrollo social y humano a fin de superar la pobreza y marginación;
+V. Promover mecanismos que garanticen la integralidad y correspondencia entre las políticas estatal y federal de bienestar y desarrollo social;
 
-XI. Proponer programas especiales para los rubros del desarrollo social y humano que no sean atendidos por alguna de las dependencias del Gobierno federal, estatal y municipal;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+VI. Opinar y dar seguimiento a la ejecución del programa estatal de bienestar y desarrollo social, de los programas sectoriales, regionales, institucionales y especiales en la materia;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+VII. Acordar los criterios de suscripción en los convenios de coordinación entre los gobiernos estatal y federal, y de estos con los municipios, en materia de bienestar y desarrollo social;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+VIII. Aprobar la normatividad que deba regir la participación social a propuesta de la Secretaría;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+IX. Emitir la opinión técnica sobre las partidas y montos del gasto social a integrar en el Presupuesto de Egresos del Estado;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+X. Analizar y proponer esquemas alternativos de financiamiento para los programas de bienestar y desarrollo social a fin de superar la pobreza y marginación;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+XI. Proponer programas especiales para los rubros del bienestar y desarrollo social que no sean atendidos por alguna de las dependencias del Gobierno federal, estatal y municipal;
 
 XII. Proponer la coordinación entre las dependencias del Estado, que realicen acciones en materia de asistencia social;
 
-XIII. Sugerir las acciones necesarias y convenientes para el funcionamiento adecuado del sistema estatal de desarrollo social y humano;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-XIV. Asesorar a los municipios en materia de desarrollo social y humano; y
+XIII. Sugerir las acciones necesarias y convenientes para el funcionamiento adecuado del sistema estatal de bienestar y desarrollo social;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+XIV. Emitir recomendaciones en materia de bienestar y desarrollo social a los municipios, y
 
 XV. El Comité se sujetará a los ordenamientos de esta Ley y reglamentos aplicables en la materia.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 66.
 
 El Comité Estatal estará integrado por:
 
-I. Un Coordinador General, que será el Titular de la Secretaría, no pudiendo delegar en otra persona esta función;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-II. Un Secretario Técnico, que será designado por el Titular de la Secretaría, quien auxiliará en todas las tareas al Coordinador General, y sólo contará con derecho a voz;
+I. Una Coordinación General, que recaerá en la persona Titular de la Secretaría, no pudiendo delegar en otra persona esta función;
 
-III. Los representantes de las Dependencias o Entidades del Gobierno Federal, que desarrollen programas y acciones que incidan en el Desarrollo Social del Estado;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+II. Una Secretaría Técnica, que será designada por la persona Titular de la Secretaría, quien auxiliará en todas las tareas a la Coordinación General, y sólo contará con derecho a voz;
 
-IV. Los titulares de las Secretarías de: Finanzas y Planeación, Salud, Desarrollo Agropecuario, Pesca y Acuacultura, Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, Economía y Turismo;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-V. El Contralor del Estado de Oaxaca;
+III. Una representación de la Secretaría de Bienestar del Gobierno Federal;
 
-VI. El Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+IV. Las personas titulares de las Secretarías de: Finanzas, Salud, Fomento Agroalimentario y Desarrollo Rural, Medio Ambiente, Biodiversidad, Energías y Sostenibilidad, Desarrollo Económico, Educación Pública, las Mujeres, Honestidad, Transparencia y Función Pública;
 
-VII. El Director General de Población de Oaxaca;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+V. La persona titular del Instituto de Planeación para el Bienestar;
 
-VIII. La Titular de la Secretaría de las Mujeres de Oaxaca;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+VI. La persona titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca;
 
-IX. El Titular de la Coordinación Estatal de Protección Civil de Oaxaca;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-X. Representantes de las Instituciones Educativas; especialistas en la materia, y
+VII. La persona titular de la Dirección General de Población de Oaxaca;
 
-XI. Un representante de cada Consejo Microrregional.
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+VIII. La persona titular de la Coordinación de Planeación y Evaluación para el Desarrollo Social de Oaxaca;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+IX. La persona titular de la Coordinación Estatal de Protección Civil y Gestión de Riesgos;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+X. La persona titular de la Dirección General de Caminos Bienestar, y
+
+XI. (DEROGADA, P.O. 14 DE OCTUBRE DE 2023)
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 67.
 
-La Comisión Estatal de Desarrollo Social y Humano, se reunirá cada cuatro meses, a convocatoria del Coordinador General, quien deberá notificar con una anticipación de cinco días hábiles a la celebración de cada sesión.
+El Comité Estatal de Bienestar y Desarrollo social, se reunirá de manera ordinaria dos veces al año, a convocatoria de la Coordinación General, quien deberá notificar con una anticipación de cinco días hábiles a la celebración de cada sesión.
 
-### CAPÍTULO IV. DEL GABINETE ESPECIALIZADO EN DESARROLLO SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+### CAPÍTULO IV. DEL GABINETE ESPECIALIZADO DE BIENESTAR Y DESARROLLO SOCIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 68.
 
-En consonancia con el artículo 58 de la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca, se instalará el Gabinete Especializado en Desarrollo Social, con el fin de establecer una mayor coordinación de operación del quehacer gubernamental.
+En consonancia con el artículo 58 de la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca, se instalará el Gabinete Especializado en Bienestar y Desarrollo Social, con el fin de establecer una mayor coordinación de operación del quehacer gubernamental.
 
 I. Establecer medidas orientadas a hacer compatibles las decisiones vinculadas con las políticas sociales;
 
 II. Dar seguimiento a la ejecución de los programas y proyectos, así como, definir las líneas de acción para garantizar el logro de los objetivos de la Política Estatal.
 
-### CAPÍTULO IV (SIC). DEL CONSEJO CONSULTIVO DE DESARROLLO SOCIAL Y HUMANO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+### CAPÍTULO IV (SIC). DEL CONSEJO CONSULTIVO DE BIENESTAR Y DESARROLLO SOCIAL
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 69.
 
-El Consejo Consultivo de Desarrollo Social y Humano es una instancia de consulta, opinión, asesoría, vinculación y coordinación para la concepción, planeación, elaboración y aplicación de todos los programas sociales y en general de la política de desarrollo social y humano en el Estado.
+El Consejo Consultivo de bienestar y desarrollo social, es una instancia de consulta, opinión, asesoría, vinculación y coordinación para la concepción, planeación, elaboración y aplicación de todos los programas sociales y en general de la política de bienestar y desarrollo social en el Estado.
 
 ###### Artículo 70.
 
 El Consejo Consultivo estará integrado por:
 
-I. Un Presidente que será el titular de la Secretaría;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-II. Un Secretario Técnico designado por el Presidente;
+I. Una Presidenta o Presidente que será el titular de la Secretaría;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+II. Una Secretaria o Secretario Técnico designado por la Presidenta o Presidente;
 
 III. El número de especialistas que la Comisión determinen respecto a los temas relacionados con el desarrollo social y humano de las instituciones públicas de educación superior;
 
-IV. Dos especialistas en los temas relacionados con el desarrollo social y humano, así como integrantes de organizaciones sociales; y (sic)
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+IV. Dos especialistas en los temas relacionados con el bienestar y desarrollo social, así como integrantes de organizaciones sociales.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 71.
 
-Los especialistas se integrarán al Consejo mediante convocatoria que emita el Comité a cada una de las instituciones públicas de educación superior del Estado, mismas que designarán al especialista en la materia de acuerdo a su régimen de gobierno interno, durarán en su comisión tres años, tendrán carácter honorario y podrán ser ratificados para un nuevo periodo trianual, total o parcialmente.
+Los especialistas se integrarán al Consejo mediante convocatoria que emita el Comité a cada una de las instituciones públicas de educación superior del Estado, mismas que designarán al especialista en la materia de acuerdo a su régimen de gobierno interno, durarán en su comisión tres años, tendrán carácter honorario y podrán ser ratificados para un nuevo periodo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 72.
 
-(sic) Comisión deberá cuidar que los especialistas sean designados en base a sus conocimientos en las siguientes áreas:
+La Comisión deberá cuidar que los especialistas sean designados en base a sus conocimientos en las siguientes áreas:
 
 I. Educación pública;
 
@@ -1125,31 +1241,49 @@ III. Desarrollo urbano y servicios públicos;
 
 IV. Marginación y pobreza;
 
-V. Derechos humanos y grupos vulnerables;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-VI. Pueblos y comunidades indígenas;
+V. Derechos humanos y grupos en situación de vulnerabilidad;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+VI. Pueblos y comunidades indígenas y afromexicanas;
 
 VII. Productividad y empleo; y
 
 VIII. Infraestructura social.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 73.
 
 El Consejo tendrá las siguientes funciones:
 
-I. Proponer al Comité la realización de estudios e investigaciones específicas, sobre los niveles de desarrollo social y humano, detectando las zonas marginadas que requieran mayores apoyos;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-II. Revisar el diseño de la política de desarrollo social y humano así como el programa estatal en la materia y proponer adecuaciones, adiciones o modificaciones;
+I. Proponer al Comité la realización de estudios e investigaciones específicas, sobre los niveles de bienestar y desarrollo social, detectando las zonas marginadas que requieran mayores apoyos;
 
-III. Revisar la congruencia de los programas estatales y municipales de desarrollo social y humano, proponiendo mecanismos de coordinación para mejorar su vinculación con la participación social;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-IV. Conocer y revisar las evaluaciones anuales del programa estatal de desarrollo (sic) y humano, para proponer mejoras en la aplicación de políticas y programas para el desarrollo social y humano;
+II. Revisar el diseño de la política de bienestar y desarrollo social, así como el programa estatal en la materia y proponer sus adecuaciones, adiciones o modificaciones;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+III. Revisar la congruencia de los programas estatales y municipales de bienestar y desarrollo social, proponiendo mecanismos de coordinación para mejorar su vinculación con la participación social;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+IV. Conocer y revisar las evaluaciones anuales del programa estatal de desarrollo (sic) y humano, para proponer mejoras en la aplicación de políticas y programas para el bienestar y desarrollo social;
 
 V. Proponer al titular del Poder Ejecutivo del Estado los temas que por su importancia merecen ser sometidos a consulta pública;
 
-VI. Proponer y propiciar la colaboración y concertación de organismos públicos y privados, nacionales y extranjeros en el desarrollo social y humano, y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-VII. Asesorar al titular del Poder Ejecutivo, y en su caso, en materia de desarrollo social y humano, para la implementación de acciones de vinculación y cooperación entre Gobierno y sociedad.
+VI. Proponer y propiciar la colaboración y concertación de organismos públicos y privados, nacionales y extranjeros en el bienestar y desarrollo social, y
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+VII. Asesorar al titular del Poder Ejecutivo en materia de bienestar y desarrollo social, para la implementación de acciones de vinculación y cooperación entre Gobierno y sociedad.
 
 ### CAPÍTULO V. DE LOS FOROS CONSULTIVOS DE DESARROLLO SOCIAL
 
@@ -1179,133 +1313,29 @@ VII. Recomendar la realización de auditorías a programas prioritarios cuando e
 
 Los Foros se realizarán dos veces por año y serán convocados por la Secretaría, procurarán la mayor participación de las organizaciones sociales, civiles, asistenciales y empresariales de la Entidad.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE OCTUBRE DE 2023)</small>
+
 ### CAPÍTULO VI. DE LOS CONSEJOS DE DESARROLLO MICRORREGIONAL
 
 ###### Artículo 77.
 
-Los Consejos Microrregionales son una plataforma institucional permanente de diálogo y deliberación. Refuerzan la participación de los agentes económicos y sociales en la vida económica y social, reafirmando su papel en el desarrollo del Estado Social y Democrático de Derecho.
-
-Por otra parte, responden a la legítima aspiración de los agentes económicos y sociales de que sus opiniones y planteamientos se oigan a la hora de adoptar el Gobierno decisiones que puedan afectar a los intereses que les son propios.
+(DEROGADO, P.O. 14 DE OCTUBRE DE 2023)
 
 ###### Artículo 78.
 
-Son funciones de los Consejos Microrregionales, las siguientes:
-
-I. Acordar, en forma consensuada, acciones, estrategias, programas y políticas que impulsen el desarrollo microrregional;
-
-II. Impulsar el mejoramiento en los rubros de ingreso, infraestructura de comunicación, creación de fuentes de empleo; rezago educativo, personas con primaria y/o secundaria incompleta, analfabetismo; acceso a la salud, esperanza de vida, mortalidad infantil, mortalidad materna; acceso a seguridad social; vivienda, pisos de tierra, muros y techos de material endeble, hacinamiento; servicios básicos, agua potable, saneamiento y electricidad; acceso a la alimentación, diversidad cultural y equidad de género;
-
-III. Servir de cauce de participación y diálogo de los interlocutores sociales en el debate de asuntos económicos y sociales;
-
-IV. Solicitar a las instancias correspondientes datos, informes y documentos obrantes en los mismos, especificando el asunto para la elaboración de los estudios que tenga que llevar a cabo, así como, para la emisión de informes o propuestas;
-
-V. Emitir opinión sobre los criterios y líneas generales del Presupuesto del Gobierno del Estado de Oaxaca, que le será remitido por la Secretaria;
-
-VI. Emitir opinión sobre cualquier cuestión relacionada con la política económica y social que le someta la Secretaria y/o los miembros del Consejo;
-
-VII. Elaborar y hacer público un informe anual sobre la situación socioeconómica de la microrregión y un Programa Anual de Acciones para Mejorar las Condiciones Socioeconómicas de la Microrregión;
-
-VIII. Proporcionar criterios a las diferentes autoridades municipales en la elaboración y discusión del Plan de Desarrollo Municipal;
-
-IX. Realizar propuestas de proyectos u obras civiles que vayan en pro del desarrollo económico y social de la microrregión y sus habitantes;
-
-X. Contribuir en los procesos del diagnóstico y planificación participativa de políticas sectoriales;
-
-XI. Conocer y emitir opinión sobre las transferencias de fondos de los Gobiernos federal y del Estado a los Gobiernos Municipales;
-
-XII. Dar seguimiento y evaluar los resultados e impactos de las políticas públicas en el desarrollo microrregional, y
-
-XIII. Las que le señalen la presente Ley y demás disposiciones normativas.
+(DEROGADO, P.O. 14 DE OCTUBRE DE 2023)
 
 ###### Artículo 79.
 
-Los Consejos Microrregionales se integrarán en el ámbito territorial que defina la Secretaría bajo criterios que hará públicos y concertará con las autoridades y ciudadanos involucrados y/o interesados.
+(DEROGADO, P.O. 14 DE OCTUBRE DE 2023)
 
 ###### Artículo 80.
 
-La composición deberá reflejar y garantizar la representatividad de los diferentes actores sociales y formas organizativas administrativas del territorio de la microrregión, así como la participación de las mujeres.
-
-Serán integrantes del Consejo Microrregional:
-
-I. Los presidentes municipales de los Ayuntamientos que comprenda la microrregión;
-
-II. Un representante de las agencias municipales de la microrregión;
-
-III. Un representante de las instancias municipales de la Mujer;
-
-IV. Un representante de la Secretaría, quien fungirá como secretario técnico y coordinará la participación efectiva de las dependencias estatales relacionadas con el desarrollo de la microrregión;
-
-V. Un representante, al menos, de las dependencias federales relacionadas con el desarrollo de la microrregión;
-
-VI. Un representante de las organizaciones civiles relacionadas con el desarrollo de la microrregión;
-
-VII. Un representante, al menos, de las organizaciones sociales relacionadas con el desarrollo de la microrregión;
-
-VIII. Un representante de las instituciones de asistencia privada, relacionadas con el desarrollo de la microrregión;
-
-IX. Un representante, al menos, de las organizaciones comunitarias funcionales, relacionadas con el desarrollo de la microrregión;
-
-X. Un representante de las organizaciones empresariales del estado;
-
-XI. Un representante de los colegios de profesionistas del estado;
-
-XII. Una representación del Congreso del Estado, y
-
-XIII. Un representante de las instituciones de educación superior del estado.
-
-En razón a que no existen instancias representativas únicas, la designación de los miembros del Consejo Microrregional que fungen como representantes de sectores a que se refiere el párrafo anterior, se hará por invitación de la Secretaría, tomando en cuenta las propuestas realizadas por escrito, por las redes de organizaciones civiles, organizaciones sociales, instituciones de asistencia privada, instituciones de educación superior, organismos empresariales y el Congreso del Estado o, cuando no existan solicitudes formales, por invitación escrita a desempeñar ese papel en el Consejo.
+(DEROGADO, P.O. 14 DE OCTUBRE DE 2023)
 
 ###### Artículo 81.
 
-Los órganos del Consejo son los siguientes: El Pleno, las Comisiones de Trabajo y el Secretario Técnico.
-
-I. El Pleno es el órgano superior de decisión y formación de la voluntad del Consejo. Le competen las siguientes funciones:
-
-a) Elaborar, debatir y aprobar los planes, informes, resoluciones y dictámenes, cuya emisión es competencia del Consejo Microrregional, y
-
-b) La elaboración del Reglamento de Organización y Funcionamiento del Consejo
-
-Microrregional y su aprobación por mayoría absoluta.
-
-El Pleno se reunirá en sesión ordinaria al menos una vez cada trimestre.
-
-Podrá así mismo, reunirse con carácter extraordinario, a convocatoria del Secretario Técnico o de la totalidad de los miembros de cada una de las partes representadas en el Consejo Microrregional.
-
-El quórum para la válida celebración de sus sesiones será de 50% más uno, de sus miembros, en primera convocatoria y de 33% en segunda convocatoria.
-
-II. El Pleno creará Comisiones de Trabajo, con el número de miembros que determine prudente. Las Comisiones ejercerán las funciones que les delegue el Pleno y deberán sesionar al menos una vez al mes.
-
-Son Comisiones de Trabajo de carácter permanente, las siguientes:
-
-a) Indicadores de la medición oficial de la pobreza, elaborada por el CONEVAL y de los Objetivos de Desarrollo del Milenio;
-
-b) Proyectos de Desarrollo Económico;
-
-c) Programas Sociales;
-
-d) Programas Federales;
-
-e) Deporte y Cultura;
-
-f) Medio Ambiente;
-
-g) Asuntos Agrarios;
-
-h) Caminos, Carreteras y Conectividad, e
-
-i) Igualdad de Género.
-
-III. El Secretario Técnico será un representante de la Secretaría del Estado y sus funciones serán:
-
-a) Convocar las sesiones y moderar el desarrollo de los debates;
-
-b) Formular el orden del día de las reuniones;
-
-c) Ordenar la publicación de los acuerdos del Consejo Microrregional, disponer su cumplimiento y elaborar las actas;
-
-d) Programar las actuaciones del Consejo Microrregional, fijar el calendario de actividades del Pleno y de las Comisiones de Trabajo y coordinar los trabajos, y
-
-e) Hacer posible que expertos, técnicos, asesores o personalidades participen en los debates del Pleno con voz pero sin voto.
+(DEROGADO, P.O. 14 DE OCTUBRE DE 2023)
 
 ### CAPÍTULO VI (SIC). DE LOS CONVENIOS PARA EL DESARROLLO SOCIAL ENTRE EL ESTADO Y LOS MUNICIPIOS
 
@@ -1381,7 +1411,9 @@ III. Reconocer públicamente las acciones que lleven a cabo la (sic) Organizacio
 
 IV. Dar seguimiento a las acciones y cumplimiento de responsabilidades de la sociedad organizada que manejen o administren recursos públicos para el Desarrollo Social en la Entidad.
 
-## TÍTULO QUINTO (SIC). PROGRAMAS DE DESARROLLO SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+## TÍTULO QUINTO (SIC). PROGRAMAS PARA EL BIENESTAR
 
 ### CAPÍTULO I. DE LOS PROGRAMAS
 
@@ -1389,13 +1421,15 @@ IV. Dar seguimiento a las acciones y cumplimiento de responsabilidades de la soc
 
 El beneficiario de alguno de los programas Estatales que a continuación se establecen, no podrá gozar de los beneficios a ser atendido por otro programa Estatal, Federal o Municipal, que tenga características u objetivos similares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 85.
 
-La Política Estatal de Desarrollo Social y humano debe incluir, cuando menos, las siguientes vertientes que se traducirán en programas sociales:
+La Política Estatal de Bienestar y desarrollo social, debe incluir cuando menos, las siguientes vertientes que se traducirán en programas sociales:
 
-> <small>(REFORMADA, P.O. 29 DE JULIO 2023)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-I. Pensión Alimentaria para Adultos Mayores de sesenta y cinco años del Estado de Oaxaca.
+I. Pensión no contributiva a favor de las personas adultas mayores en los términos del artículo 4 de la Constitución Federal;
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
@@ -1407,23 +1441,31 @@ IV. Apoyo a personas con discapacidad.
 
 V. Prevención de cáncer cérvico uterino.
 
-VI. Impulso a jefas de familia desempleadas.
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+VI. Impulso a las mujeres Jefas de Familia;
 
 VII. Unidades y caravanas de servicios gratuitos.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JULIO 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE OCTUBRE DE 2023)</small>
 
-### CAPÍTULO II. PENSIÓN ALIMENTARIA PARA ADULTOS MAYORES DEL ESTADO DE OAXACA
+VIII. Inclusión económica y productiva para las juventudes.
 
-> <small>(REFORMADO, P.O. 29 DE JULIO 2023)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+### CAPÍTULO II. PENSIÓN NO CONTRIBUTIVA A FAVOR DE LAS PERSONAS ADULTAS MAYORES
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 86.
 
-Tiene por objeto reconocer, proteger y garantizar el derecho que tienen todas las personas mayores de sesenta y cinco años, a recibir una pensión alimentaria.
+Tiene por objeto reconocer, proteger y garantizar el derecho que tienen todas las personas adultas mayores en los términos del artículo 4 de la Constitución Federal.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 87.
 
-Las personas adultas mayores residentes en el Estado de Oaxaca, que no cuenten con recursos económicos suficientes para allegarse de una alimentación adecuada, o el sustento diario, tienen derecho a recibir una pensión alimentaria de manera mensual por la cantidad y el tiempo que fije el Comité Estatal de Desarrollo Social y Humano del Estado.
+Las personas adultas mayores residentes en el Estado de Oaxaca, que no cuenten con recursos económicos suficientes para allegarse de una alimentación adecuada, o el sustento diario, tienen derecho a recibir una pensión no contributiva.
 
 ###### Artículo 88.
 
@@ -1551,7 +1593,9 @@ Los servicios de salud realizarán campañas intensas de prevención, detección
 
 La Secretaría publicará oportunamente la calendarización de las campañas.
 
-### CAPÍTULO VII. IMPULSO A JEFAS DE FAMILIA DESEMPLEADAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+### CAPÍTULO VII. IMPULSO A MUEJRES (SIC) JEFAS DE FAMILIA
 
 ###### Artículo 110.
 
@@ -1586,6 +1630,22 @@ Los defensores de oficio del Gobierno del Estado, se incluirán en las caravanas
 ###### Artículo 115.
 
 El Ejecutivo Estatal garantizará los servicios y la calidad de los mismos con personal capacitado, esto en coordinación con las dependencias de la administración pública estatal que corresponda.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+### CAPÍTULO VIII BIS. INCLUSIÓN ECONÓMICA Y PRODUCTIVA DE LAS JUVENTUDES
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 115 Bis.
+
+El Ejecutivo del Estado a través de la Secretaría promoverá, planeará y ejecutará programas a favor de la inclusión económica y productiva a favor de las personas jóvenes.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 115 Ter.
+
+Será objetivo de los programas que las personas jóvenes cuenten con mecanismos de gestión productiva y financiera para que inicien o fortalezcan sus actividades productivas y de servicios en lo individual o a través de grupos solidarios, que les permita su desarrollo económico y social.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -1742,3 +1802,19 @@ PRIMERO. Se derogan todas aquellas disposiciones legales y reglamentarias del ma
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 14 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1566.- MEDIANTE EL CUAL SE REFORMA EL NOMBRE DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE OAXACA EXPEDIDA MEDIANTE DECRETO NÚMERO 1983 DE LA SEXAGÉSIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, PARA AHORA DENOMINARSE LEY PARA EL BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE OAXACA, ASIMISMO, SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE REFERENCIA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El Titular del Poder Ejecutivo modificará el reglamento de esta Ley, así como como (sic) el reglamento interno de la secretaría en un plazo no mayor de 90 días naturales a partir de su entrada en vigor.
+
+TERCERO. En un plazo de 30 días naturales, contados a partir de la entrada en vigor del presente Decreto, deberán quedar constituidos e instalados el Comité Estatal de Bienestar y Desarrollo Social y El Consejo Consultivo de Bienestar y Desarrollo Social.
+
+CUARTO. La Secretaría de Finanzas deberá revisar la distribución de los fondos relativos a los Programas para el Bienestar establecidos en el Título Quinto de la presente Ley en un plazo no mayor a 90 días y, en su caso, recomendar las modificaciones que se consideren pertinentes.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SEXTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
