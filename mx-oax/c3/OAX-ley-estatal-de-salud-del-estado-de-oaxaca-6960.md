@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2023-10-07"
+last_updated: "2023-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -317,13 +317,17 @@ XVI.- Promover e incorporar enfoques con perspectiva de género a las estrategia
 
 XVII.- Diseñar, promover e impulsar políticas públicas para prevenir, combatir y erradicar la muerte materna, obesidad y la desnutrición;
 
-> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-XVIII.- Coadyuvar con las dependencias federales competentes en el cumplimiento de lo dispuesto en la Ley General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia, así como para implementar a nivel local la Rey de Apoyo contra el Cáncer en la Infancia y Adolescencia, el Registro Estatal de Cáncer en la Infancia y Adolescencia y el Consejo Estatal para la Prevención y el Tratamiento del Cáncer en la Infancia y la Adolescencia; y,
+XVIII. Coadyuvar con las dependencias federales competentes en el cumplimiento de lo dispuesto en la Ley General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia, así como para implementar a nivel local la Red de Apoyo contra el Cáncer en la Infancia y Adolescencia, el Registro Estatal de Cáncer en la Infancia y Adolescencia y el Consejo Estatal para la Prevención y el Tratamiento del Cáncer en la Infancia y Adolescencia;
 
-> <small>(REFORMADA Y REUBICADA, P.O. 15 DE ABRIL DE 2023)</small>
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-XIX.- Las demás atribuciones, afines a las anteriores que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+XIX. Promover y apoyar la lactancia materna exclusiva y la alimentación complementaria oportuna y adecuada con la lactancia materna continua; y
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+XX. Las demás atribuciones, afines a las anteriores que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen las disposiciones generales aplicables.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -971,9 +975,9 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I.- Para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de 5 años;
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de edad y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil;
+II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y amamantamiento, incentivando a que la leche materna sea el alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de edad y en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil, para lo cual impulsarán la creación de espacios de lactancia adecuados para que las mujeres puedan amamantar o extraer su leche para alimentar a su hija o hijo en los horarios que así lo requieran.
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
@@ -1009,13 +1013,17 @@ III.- La vigilancia de actividades ocupacionales que puedan poner el peligro la 
 
 IV.- Los programas de prevención del maltrato infantil y de la violencia intrafamiliar;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-V.- La atención de los menores de 6 años, para que reciban la adecuada estimulación temprana de acuerdo con las normas técnicas que para tal efecto expida la Secretaria de Salud con el objetivo de potenciar sus capacidades de cognición, actividad motriz y el lenguaje; y
+V.- La atención de los menores de 6 años, para que reciban la adecuada estimulación temprana de acuerdo con las normas técnicas que para tal efecto expida la Secretaría de Salud con el objetivo de potenciar sus capacidades de cognición, actividad motriz y el lenguaje;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE NOVIEMBRE DE 2019)</small>
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-VI.- Los demás que coadyuven a la salud infantil.
+VI.- La lactancia materna, para lo cual impulsarán la creación de espacios dignos, higiénicos y cálidos dentro de sus instalaciones, para que las madres puedan amamantar a sus hijas e hijos o en su caso extraer su leche y conservarla para suministrarla posteriormente; y
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+
+VII. Las demás que coadyuven a la salud infantil.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -4256,6 +4264,14 @@ SEGUNDO: El presente decreto entrará en vigor al día siguiente de su publicaci
 P.O. 7 DE OCTUBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1551.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 1, LA FRACCIÓN XXVII DE LA LETRA A DEL ARTÍCULO 4 Y LA FRACCIÓN XVII DEL ARTÍCULO 7; SE ADICIONA LA FRACCIÓN XXVIII RECORRIENDOSE EN SU ORDEN LA SUBSECUENTE DE LA LETRA A DEL ARTÍCULO 4, LA FRACCIÓN XVIII RECORRIENDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 7, LOS ARTÍCULOS 31 BIS, 31 TER, 31 QUÁTER, 31 QUINQUIES y 31 SEXIES DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca.
+
+P.O. 14 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1559.- MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN XVIII DEL ARTÍCULO 7, LA FRACCIÓN II DEL ARTICULO 59 Y LA FRACCIÓN V DEL ARTÍCULO 60; SE ADICIONA LA FRACCIÓN XIX AL ARTÍCULO 7 RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE Y LA FRACCIÓN VI RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 60 DE LA LEY ESTATAL DE SALUD”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
