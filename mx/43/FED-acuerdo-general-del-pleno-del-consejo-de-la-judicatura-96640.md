@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2023-09-07"
+last_updated: "2023-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE OCTUBRE DE 2023.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -1861,9 +1861,7 @@ IV. Presentar informes periódicos en materia de recursos humanos conforme a los
 
 V. Coordinar y presentar de manera oportuna las licencias que se concedan a los servidores públicos administrativos del Consejo, en los términos previstos por las disposiciones aplicables;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
-
-VI. Proponer para autorización a la Comisión de Administración las prórrogas de nombramiento que por tiempo determinado o indefinido soliciten los titulares de las áreas administrativas, respecto del personal de su adscripción;
+VI. (DEROGADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL TRÁMITE DE PRÓRROGA DE LOS NOMBRAMIENTOS, D.O.F. 16 DE OCTUBRE DE 2023)
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
@@ -7560,3 +7558,13 @@ OCTAVO. El órgano jurisdiccional que se encuentre gozando su periodo vacacional
 NOVENO. Se instruye a la Dirección General de Tecnologías de la Información y a la Dirección General de Gestión Judicial del Consejo de la Judicatura Federal, para que a más tardar a los dos meses después de la entrada en vigor del presente Acuerdo, realicen los ajustes necesarios en el Sistema Integral de Seguimiento de Expedientes y en el Portal de Servicios en Línea del Poder Judicial de la Federación, a efecto de que las partes que pretendan presentar una promoción electrónica dirigida a un Juzgados de Distrito que se encuentre gozando de su periodo vacacional conforme al calendario, sean informadas que únicamente se dará trámite si corresponde a los supuestos de la Guardia Vacacional, en caso contrario, será atendida hasta el regreso de actividades del órgano jurisdiccional, así como para que se informe que no corren plazos ni términos durante el periodo vacacional de cada juzgado en asuntos que no son competencia de la referida Guardia.
 
 DÉCIMO. Se instruye a la Dirección General de Comunicación Social del Consejo de la Judicatura Federal para que realice las campañas necesarias para dar plena difusión al contenido del presente Acuerdo y el calendario anexo entre los integrantes de la sociedad y el foro jurídico para su pleno conocimiento.
+
+D.O.F. 16 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL TRÁMITE DE PRÓRROGA DE LOS NOMBRAMIENTOS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los asuntos que a la entrada en vigor del presente Acuerdo estén en trámite, deberán concluirse con las disposiciones con las que fueron iniciados.
