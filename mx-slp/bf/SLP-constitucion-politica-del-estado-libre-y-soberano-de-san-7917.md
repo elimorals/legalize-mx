@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2023-10-09"
+last_updated: "2023-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2023.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -851,25 +851,27 @@ El máximo de Diputados por ambos principios que puede alcanzar un partido polí
 
 Sólo serán asignados Diputados por el sistema de representación proporcional a los partidos políticos que cumplan con los requisitos que señale la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 46.
 
-Para ser Diputado se requiere:
+Para ser diputada o diputado se requiere:
 
-I.- Ser ciudadano potosino en ejercicio de sus derechos;
+I. Ser ciudadana o ciudadano potosino en ejercicio de sus derechos;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2008)</small>
+II. Tener la calidad de potosina o potosino por nacimiento, con residencia efectiva en el Estado no menor de seis meses inmediatos anteriores al día de la elección y, si es por vecindad, la residencia efectiva inmediata anterior al día de la elección deberá ser no menor de tres años, a partir de la adquisición de aquella;
 
-II.- Tener la calidad de potosino por nacimiento con residencia efectiva en el Estado no menor de seis meses inmediatos anteriores al día de la elección y, si se trata de potosino por vecindad, la residencia efectiva inmediata anterior al día de la elección deberá ser no menor de tres años, a partir de la adquisición de la calidad de vecino;
+III. No tener una multa firme pendiente de pago, o que encontrándose sub júdice no esté garantizada en los términos de las disposiciones legales aplicables, que haya sido impuesta por responsabilidad con motivo de los cargos públicos que hubiere desempeñado en la administración federal, estatal o municipal; y no haber sido condenado por sentencia firme por la comisión de delitos dolosos que hayan ameritado pena de prisión;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2008)</small>
+IV. Tener dieciocho años cumplidos al día de la elección, y
 
-III.- No tener una multa firme pendiente de pago, o que encontrándose sub júdice no esté garantizada en los términos de las disposiciones legales aplicables, que haya sido impuesta por responsabilidad con motivo de los cargos públicos que hubiere desempeñado en la administración federal, estatal o municipal; y no haber sido condenado por sentencia firme por la comisión de delitos dolosos que hayan ameritado pena de prisión; y
+V. No estar en alguno de los siguientes supuestos:
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
 
-IV.- Tener dieciocho años cumplidos al día de la elección.
+b) Tener sentencia condenatoria que haya causado estado por los delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
+
+c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1329,37 +1331,31 @@ Ninguna ley tiene carácter obligatorio si no ha sido publicada con dicha formal
 
 El ejercicio del Poder Ejecutivo se deposita en un solo individuo que se denomina Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí. Su elección será directa y en los términos que disponga la Ley Electoral del Estado, salvo los casos previstos en la presente Constitución.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 73.
 
-Para ser Gobernador del Estado se requiere:
+Para ser Gobernador o Gobernadora del Estado se requiere:
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+I. Ser ciudadana o ciudadano potosino en pleno goce de sus derechos;
 
-I.- Ser mexicano por nacimiento y ciudadano potosino en pleno goce de sus derechos;
+II. Si se tiene la calidad de potosino o potosina por nacimiento, contar con una residencia efectiva no menor de un año inmediato anterior al día de la elección y, si es por vecindad, la residencia efectiva deberá ser no menor de cinco años contados a partir de la adquisición de esa;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+III. No estar en el servicio activo del ejército Nacional, a menos que se separe de su encargo por lo menos un año antes del día de la elección;
 
-II.- Si se tiene la calidad de potosino por nacimiento, contar con una residencia efectiva no menor de un año inmediato anterior al día de la elección y, si se trata de potosino por vecindad, la residencia efectiva deberá ser no menor de cinco años contados a partir de la adquisición de vecino;
+IV. No ser titular de Secretaría o Subsecretaría de Estado; de la Fiscalía General del Estado, o de presidencia municipal, a menos de que se separe de su encargo cuando menos ciento veinte días antes del día de la elección;
 
-III.- (DEROGADA, P.O. 27 DE AGOSTO DE 2020)
+V. No tener una multa firme pendiente de pago, o que encontrándose sub júdice no esté garantizada en los términos de las disposiciones legales aplicables, que haya sido impuesta por responsabilidad con motivo de los cargos públicos que hubiere desempeñado en la administración federal, estatal o municipal;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+VI. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación establecida en la Ley Reglamentaria del artículo 130 de la Constitución Política de los Estados Unidos Mexicanos, y
 
-IV.- No estar en el servicio activo del Ejército Nacional, a menos que se separe de su encargo por lo menos un año antes del día de la elección;
+VII. No estar en alguno de los siguientes supuestos:
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2017)</small>
+a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
 
-V.- No ser Secretario o Subsecretario de Estado, Fiscal General del Estado, o Presidente Municipal, a menos de que se separe de su encargo cuando menos ciento veinte días antes del día de la elección;
+b) Tener sentencia condenatoria que haya causado estado por los delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
-
-VI.- No tener una multa firme pendiente de pago, o que encontrándose sub júdice no esté garantizada en los términos de las disposiciones legales aplicables, que haya sido impuesta por responsabilidad con motivo de los cargos públicos que hubiere desempeñado en la administración federal, estatal o municipal; y no haber sido condenado por sentencia firme por la comisión de delitos dolosos que hayan ameritado pena de prisión, y
-
-> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 1996)</small>
-
-VII.- No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación establecida en la Ley Reglamentaria del artículo 130 de la Constitución Política de los Estados Unidos Mexicanos.
+c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1811,7 +1807,7 @@ Sólo las y los supernumerarios que ejerzan como numerarios formarán parte del 
 
 Los nombramientos de las y los magistrados supernumerarios serán por seis años y podrán ser designados, por una sola vez, para un período igual, sin perjuicio de que sean propuestos por el Ejecutivo para ser nombrados numerarios.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2023)</small>
 
 ### CAPÍTULO III. De los Jueces y Tribunales
 
@@ -1819,27 +1815,27 @@ Los nombramientos de las y los magistrados supernumerarios serán por seis años
 
 ###### ARTÍCULO 99.
 
-Para ser Magistrado del Supremo Tribunal de Justicia se requiere:
+Para ser Magistrado o Magistrada del Supremo Tribunal de Justicia se requiere:
 
-I.- Ser mexicano por nacimiento, y ciudadano potosino en pleno ejercicio de sus derechos políticos y civiles;
+I. Ser ciudadana o ciudadano potosino en pleno ejercicio de sus derechos políticos y civiles;
 
-II.- (DEROGADA, P.O. 27 DE AGOSTO DE 2020)
+II. Tener al día de su nombramiento, título profesional de licenciatura en derecho, abogada o abogado, con una antigüedad mínima de diez años, expedido por autoridad o institución legalmente facultada para ello y acreditar el ejercicio profesional por el mismo tiempo;
 
-III.- Tener al día de su nombramiento, título profesional de licenciado en derecho con una antigüedad mínima de diez años, expedido por autoridad o institución legalmente facultada para ello y acreditar el ejercicio profesional por el mismo tiempo;
+III. Gozar de buena reputación y no haber sido condenado por delito que haya ameritado pena privativa de libertad de más de un año; pero, si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-IV.- Gozar de buena reputación y no haber sido condenado por delito que haya ameritado pena privativa de libertad de más de un año; pero, si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+IV. Haber residido en el Estado durante los dos años anteriores al día de su nombramiento;
 
-V.- Haber residido en el Estado durante los dos años anteriores al día de su nombramiento; y
+V. No haber sido titular de Secretaría de Despacho o su equivalente; de la Fiscalía General del Estado; diputado o diputada local, o titular de presidencia municipal, en el año inmediato anterior al día de su nombramiento. Para ser titular de magistratura supernumeraria deberán cumplirse los mismos requisitos, y
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2017)</small>
+VI. No estar en alguno de los siguientes supuestos:
 
-VI.- No haber ocupado el cargo de Secretario de Despacho o su equivalente, Fiscal General del Estado, Diputado local, o Presidente Municipal, en el año inmediato anterior al día de su nombramiento.
+a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
 
-Para ser Magistrado supernumerario deberán cumplirse los mismos requisitos.
+b) Tener sentencia condenatoria que haya causado estado por los delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
 
-> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2005)</small>
+c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios.
 
-Los nombramientos de los magistrados deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia; o que se hayan distinguido por su honorabilidad, competencia y antecedentes en el ejercicio de la profesión del derecho.
+Los nombramientos de las magistradas y los magistrados deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia; o que se hayan distinguido por su honorabilidad, competencia y antecedentes en el ejercicio de la profesión del derecho.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2001,7 +1997,7 @@ No se hará pago alguno que no esté previsto en la Ley del Presupuesto de Egres
 
 ### CAPÍTULO II. De los Requisitos para ser Miembro del Ayuntamiento, Concejo Municipal o Delegado
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 114.
 
@@ -2189,25 +2185,23 @@ Los Ayuntamientos podrán someter a plebiscito los actos que por su trascendenci
 
 ###### ARTÍCULO 117.
 
-Para ser miembro del Ayuntamiento, Concejo o Delegado Municipal, se requiere:
+Para ser miembro del Ayuntamiento, Concejo, o titular de delegación municipal, se requiere:
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+I. Ser ciudadana o ciudadano potosino en pleno goce de sus derechos;
 
-I.- Ser ciudadano potosino en pleno goce de sus derechos;
+II. Ser originaria u originario del municipio y con un año por lo menos de residencia efectiva en el mismo, inmediata anterior al día de la elección o designación, en su caso; o ser vecina o vecino del mismo, con residencia efectiva de tres años inmediata anterior al día de la elección, o designación;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+III. No tener una multa firme pendiente de pago, o que encontrándose sub júdice no esté garantizada en los términos de las disposiciones legales aplicables, que haya sido impuesta por responsabilidad con motivo de los cargos públicos que hubiere desempeñado en la administración federal, estatal o municipal; y no haber sido condenado por sentencia firme por la comisión de delitos dolosos que hayan ameritado pena de prisión;
 
-II.- Ser originario del municipio y con un año, por lo menos, de residencia efectiva en el mismo, inmediata anterior al día de la elección o designación, en su caso; o ser vecino del mismo, con residencia efectiva de tres años inmediata anterior al día de la elección, o designación;
+IV. En el caso de la reelección, no tener sanción grave firme, por el manejo de los recursos públicos durante el periodo de responsabilidad que concluye, y
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+V. No estar en alguno de los siguientes supuestos:
 
-III.- No tener una multa firme pendiente de pago, o que encontrándose sub júdice no esté garantizada en los términos de las disposiciones legales aplicables, que haya sido impuesta por responsabilidad con motivo de los cargos públicos que hubiere desempeñado en la administración federal, estatal o municipal; y no haber sido condenado por sentencia firme por la comisión de delitos dolosos que hayan ameritado pena de prisión, y
+a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+b) Tener sentencia condenatoria que haya causado estado por los delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
 
-IV.- En el caso de la reelección, no tener sanción grave firme, por el manejo de los recursos públicos durante el periodo de responsabilidad que concluye.
-
-Los Síndicos reunirán además los requisitos previstos en la ley orgánica respectiva.
+c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -3688,5 +3682,13 @@ P.O. 9 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0846.- SE ADICIONA PÁRRAFO AL ARTÍCULO 122 BIS, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0854.- SE REFORMAN LOS ARTÍCULOS 46, 73, 99 Y 117, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
