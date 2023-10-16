@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "2023-10-11"
+last_updated: "2023-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -2086,3 +2086,19 @@ Las tarifas aplicables para el periodo comprendido entre el 22 de octubre al 31 
 ###### ARTÍCULO CUARTO.
 
 Los créditos fiscales derivados de servicios públicos prestados por la Comisión Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes, que al 21 de octubre de 2023 no se hayan cubierto, deberán ser pagados al Modelo Integral de Aguas de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2023)</small>
+
+###### ARTÍCULO QUINTO.
+
+Las personas físicas o morales que al inicio de vigencia del presente Decreto cuenten con toma de derivación para abastecimiento de agua y descarga a la red de alcantarillado, recibirán los servicios de agua potable, alcantarillado sanitario, drenaje y saneamiento por parte del Organismo Público Descentralizado Modelo Integral de Aguas de Aguascalientes, sin necesidad de formalizar contrato o realizar la solicitud referida en los artículos 112 y 115 de la Ley de Hacienda del Municipio de Aguascalientes, Aguascalientes, siempre que cumplan con las demás obligaciones previstas en la citada Ley de Hacienda, la Ley de Ingresos para el municipio de Aguascalientes del año que corresponda, el Reglamento que crea el Organismo Público Descentralizado “Modelo Integral de Aguas de Aguascalientes” y la Ley de Agua para el Estado de Aguascalientes, por tanto, la relación entre esas personas usuarias y el organismo público descentralizado se regirá exclusivamente por las disposiciones normativas en cita. No obstante, si dichas personas lo desean, podrán formalizar contrato o realizar solicitud, sin que tales documentos puedan alterar la relación descrita.
+
+La falta de formalización de los contratos o de las solicitudes que se mencionan en el párrafo anterior, no impedirá que el Modelo Integral de Aguas de Aguascalientes realice las acciones que refiere el artículo 123 de la Ley de Agua para el Estado de Aguascalientes, o las previstas en alguna otra disposición de dicha ley, del Reglamento que crea el Organismo Público Descentralizado “Modelo Integral de Aguas de Aguascalientes” y demás normatividad aplicable.
+
+P.O. 16 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 474.- SE ADICIONA UN ARTÍCULO QUINTO TRANSITORIO AL DECRETO 433 APROBADO POR LA LXV LEGISLATURA DEL CONGRESO DEL ESTADO DE AGUASCALIENTES, POR EL QUE SE REALIZAN DIVERSAS REFORMAS A LA LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES, Y A LA LEY DE INGRESOS DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES, PARA EL EJERCICIO FISCAL 2023”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia a partir del día 22 de octubre del 2023.
