@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2023-10-06"
+last_updated: "2023-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE OCTUBRE DE 2023.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -701,7 +701,9 @@ Las disposiciones de este Capítulo son de observancia general en el Consejo, co
 
 El nombramiento del personal de mandos superiores de las áreas administrativas que sean designados por el Pleno, será indefinido desde el inicio de su cargo o por el periodo que éste determine, con excepción de los supuestos establecidos en las disposiciones aplicables.
 
-El nombramiento inicial del personal de confianza de las áreas administrativas, no podrá exceder del término de seis meses ni ser menor de tres meses, con excepción de los casos señalados en el párrafo anterior y en el artículo 19, último párrafo, de este Acuerdo, y de aquel que se expida en favor del servidor público que cubra algún tipo de licencia, ocupe una plaza temporal, o que la propuesta de nombramiento contenga características especiales, las cuales deberán ser informadas por escrito a la Dirección General de Recursos Humanos, estando debidamente fundadas y motivadas.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL TRÁMITE DE PRÓRROGA DE LOS NOMBRAMIENTOS, D.O.F. 16 DE OCTUBRE DE 2023)</small>
+
+El nombramiento inicial del personal de confianza de las áreas administrativas, no podrá exceder del término de seis meses ni ser menor de tres meses, con excepción de los casos señalados en el párrafo anterior y en el artículo 19 de este Acuerdo, y de aquel que se expida en favor de la persona servidora pública que cubra algún tipo de licencia, ocupe una plaza temporal, o que la propuesta de nombramiento contenga características especiales, las cuales deberán ser informadas por escrito a la Dirección General de Recursos Humanos, estando debidamente fundadas y motivadas.
 
 ###### Artículo 18.
 
@@ -735,19 +737,19 @@ El Consejo evitará concentrar relaciones familiares cuando se trate de la trans
 
 La o el titular del órgano jurisdiccional o área administrativa que designe en cualquier cargo a personas que tengan relación familiar con otro titular de área administrativa o de órgano jurisdiccional, deberá dar aviso de esa circunstancia a la Dirección General de Recursos Humanos. La omisión genera responsabilidad administrativa en términos de la normatividad aplicable.
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL TRÁMITE DE PRÓRROGA DE LOS NOMBRAMIENTOS, D.O.F. 16 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 19.
 
-La Dirección General de Recursos Humanos pondrá a consideración de la Comisión de Administración, la prórroga de nombramiento por tiempo indefinido cuando:
+Si la persona servidora pública con una antigüedad en el puesto de seis meses, causa baja por renuncia o por fin de nombramiento, y la persona titular del área administrativa solicita se le extienda nuevo nombramiento en el mismo puesto, se elaborará de forma indefinida, siempre y cuando no exista interrupción entre ambos nombramientos.
 
-I. El titular del área administrativa correspondiente, previo al término del nombramiento inicial, así lo solicite, o
-
-II. Transcurran seis meses continuos de nombramiento en el mismo puesto y el titular respectivo solicite su renovación, aun cuando dicha petición sea por tiempo determinado.
-
-Si el servidor público con una antigüedad en el puesto de seis meses, causa baja por renuncia o por fin de nombramiento, y el titular del área administrativa le extiende nuevo nombramiento en el mismo puesto, se elaborará de forma indefinida, siempre y cuando no exista interrupción entre ambos nombramientos.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL TRÁMITE DE PRÓRROGA DE LOS NOMBRAMIENTOS, D.O.F. 16 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 20.
 
-Los nombramientos y prórrogas del personal adscrito a las Secretarías Técnicas de las Comisiones Permanentes, no se someterán a consideración de la Comisión de Administración, siempre y cuando tengan el visto bueno del Consejero presidente de la Comisión correspondiente.
+Los nombramientos del personal adscrito a las Secretarías Técnicas de las Comisiones Permanentes, no se someterán a consideración de la Comisión de Administración, siempre y cuando tengan el visto bueno de la Consejera o Consejero presidente de la Comisión correspondiente.
+
+Las prórrogas serán tramitadas por la Dirección General de Recursos Humanos siempre y cuando cumplan con lo señalado en el párrafo anterior.
 
 ###### Artículo 21.
 
@@ -14594,3 +14596,13 @@ TERCERO. La Escuela Federal de Formación Judicial será la encargada de emitir 
 CUARTO. Respecto a las personas que previo a la entrada en vigor del presente Acuerdo se encuentren inscritos en el Curso Género como Herramienta para la Igualdad y en el Curso para generar espacios libres de violencia, deberán concluirlos para que la Escuela Federal de Formación Judicial les emita únicamente una constancia de participación.
 
 QUINTO. Las personas servidoras públicas deberán cumplir con la obligatoriedad de participar en el Curso Género como Herramienta para la Igualdad y en el Curso para generar espacios libres de violencia, en tanto se da a conocer el Programa de Sensibilización integral en Materia de Género y Espacios Libres de Violencia.
+
+D.O.F. 16 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL TRÁMITE DE PRÓRROGA DE LOS NOMBRAMIENTOS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los asuntos que a la entrada en vigor del presente Acuerdo estén en trámite, deberán concluirse con las disposiciones con las que fueron iniciados.
