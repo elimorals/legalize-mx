@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-jose-de-gracia-aguascalientes-71233"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-14"
-last_updated: "2023-05-01"
+last_updated: "2023-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2023.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 14 de diciembre de 2009.
 
@@ -1825,13 +1825,13 @@ XXVII. Coordinar el Departamento de Atención Ciudadana.
 
 XXVIII. Las demás que señalen las leyes, el presente código, la reglamentación municipal o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2023)</small>
 
-ARTÍCULO 143 A.- Al frente de la Jefatura de Gabinete habrá un profesionista, que se denominará Jefe de Gabinete, servidor público que será nombrado por el Presidente Municipal.
+ARTÍCULO 143 A.- Al frente de la Coordinación General de Gabinete, Planeación y Cooperación habrá un profesionista, que se denominará Coordinador General de Gabinete, Planeación y Cooperación; servidor público que será nombrado por el Presidente Municipal.
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2023)</small>
 
-ARTÍCULO 143 B.- Para ser Jefe de Gabinete de San José de Gracia, se deberán reunir los siguientes requisitos:
+ARTÍCULO 143 B.- Para ser Coordinador General de Gabinete, Planeación y Cooperación de San José de Gracia, se deberán reunir los siguientes requisitos:
 
 I. Ser ciudadano en pleno uso de sus derechos políticos y civiles y ser vecino del Municipio de San José de Gracia;
 
@@ -1841,13 +1841,13 @@ III. Ser persona de reconocida solvencia moral, tener un modo honesto de vivir y
 
 IV. No estar inhabilitado para desempeñar cargo, empleo o comisión pública;
 
-V. No haber sido sentenciado por delito intencional que merezca pena privativa de libertad; y
+V. No haber sido sentenciado por delito intencional que merezca pena privativa de libertad; y,
 
 VI. No haber sido sancionado administrativamente por actos de violencia de género, de violencia familiar o discriminación.
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2023)</small>
 
-ARTÍCULO 143 C.- Corresponde al Jefe de Gabinete el ejercicio de las siguientes facultades:
+ARTÍCULO 143 C.- Corresponde al Coordinador General de Gabinete, Planeación y Cooperación el ejercicio de las siguientes facultades:
 
 I. Colaborar con las dependencias de la Administración Pública Municipal, en la instrumentación, supervisión y control de los presupuestos de ingresos y egresos, en el ámbito de su competencia;
 
@@ -1859,11 +1859,25 @@ IV. Conducir la política del Presidente en la coordinación de la Administraci�
 
 V. Administrar los recursos humanos, financieros y materiales asignados a la Jefatura de Gabinete, con sujeción a las políticas y normatividad que determine el Presidente;
 
-VI. Proponer al Presidente los proyectos de reglamentos, códigos, sus reformas y adiciones que resulten necesrios para el correcto funcionamiento de la Administración Pública Municipal;
+VI. Proponer al Presidente los proyectos de reglamentos, códigos, sus reformas y adiciones que resulten necesarias para el correcto funcionamiento de la Administración Pública Municipal.
 
-VII. Monitorear los avances en el cumplimiento de los objetivos prioritarios de la administración pública municipal; y
+VII. Monitorear los avances en el cumplimiento de los objetivos prioritarios de la administración pública municipal;
 
-VIII. Las demás que con (sic) le confieran otras disposiciones legales y reglamentarias o le otorgue el Presidente.
+VIII. Implementar los sistemas de monitoreo del Desempeño Institucional y el de Gestión de la Calidad del Mejoramiento de la Gestión del Municipio;
+
+IX. Aportar al H. Ayuntamiento los elementos oportunos para la toma de decisiones estratégicas;
+
+X. Apoyar a los titulares de las dependencias de la Administración Pública Municipal en gestiones al interior y exterior del gobierno municipal para desahogar instrucciones y asuntos encomendados por el Presidente Municipal, en el ámbito de su competencia;
+
+XI. Proponer al Presidente Municipal una agenda de cooperación intermunicipal e internacional productiva que tenga repercusión en el desarrollo de los proyectos estratégicos;
+
+XII. Desarrollar planes y proyectos estratégicos a corto, mediano y largo plazo para el gobierno, identificando prioridades y metas para el desarrollo del Municipio;
+
+XIII. Facilitar la cooperación y la coordinación con otros gobiernos, organizaciones internacionales y actores externos en asuntos de interés común, como la cooperación para el desarrollo, acuerdos comerciales o temas de seguridad;
+
+XIV. Formular, coordinar, conducir y evaluar la política de planeación estratégica para el desarrollo del municipio, en términos de la normatividad aplicable y de conformidad con los objetivos, estrategias, lineamientos, políticas y prioridades del PDM y los que determine el Presidente Municipal; y
+
+XV. Las demás que le confieran otras disposiciones legales y reglamentarias o le otorgue el Presidente Municipal.
 
 ###### ARTÍCULO 144.
 
@@ -15048,5 +15062,13 @@ P.O. 1 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA".]
 
 PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación (sic) el Periódico Oficial.
+
+P.O. 16 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación (sic) el Periódico Oficial.
