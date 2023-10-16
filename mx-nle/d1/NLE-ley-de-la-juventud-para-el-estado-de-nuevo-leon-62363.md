@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-juventud-para-el-estado-de-nuevo-leon-62363"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-28"
-last_updated: "2023-10-11"
+last_updated: "2023-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de julio de 2008.
 
@@ -77,13 +77,21 @@ VI. Programa: al Programa Estatal de la Juventud;
 
 VII. Institutos: a los Institutos Municipales o a los órganos encargados de la juventud en los municipios;
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2023)</small>
 
-VIII. Derechos de los jóvenes: los reconocidos, en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales en que el Estado Mexicano sea parte, en esta Ley y en los demás ordenamientos jurídicos vigentes; y
+VIII. Derechos de los jóvenes: los reconocidos, en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales en que el Estado Mexicano sea parte, en esta Ley y en los demás ordenamientos jurídicos vigentes;
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2023)</small>
 
-IX. Desarrollo Integral: El proceso sistemático económico, social, cultural y político que garantiza el mejoramiento constante del bienestar de toda la población, sobre las bases de la participación activa, libre y significativa en el desarrollo y la distribución justa de los beneficios que de él deriven;
+IX. Desarrollo Integral: El proceso sistemático económico, social, cultural y político que garantiza el mejoramiento constante del bienestar de toda la población, sobre las bases de la participación activa, libre y significativa en el desarrollo y la distribución justa de los beneficios que dé el deriven; y
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2023)</small>
+
+X. Trabajo Digno o Decente: Se entiende por trabajo digno o decente aquel en el que se respeta plenamente la dignidad humana del trabajador; en el cual no deberá existir discriminación por origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, condición migratoria, opiniones, preferencias sexuales o estado civil; cuente con acceso a la seguridad social y se percibe un salario remunerador; se reciba capacitación continua para el incremento de la productividad con beneficios compartidos, y se cuenta con condiciones óptimas de seguridad e higiene para prevenir riesgos de trabajo.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN X, P.O. 16 DE OCTUBRE DE 2023]</small>
+
+El trabajo digno o decente también incluye el respeto irrestricto a los derechos colectivos de los trabajadores, tales como la libertad de asociación, autonomía, el derecho de huelga y de contratación colectiva.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -183,7 +191,9 @@ V. El derecho a la salud y a la asistencia social;
 
 VI. El derecho a la educación;
 
-VII. El derecho a un trabajo digno;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2023)</small>
+
+VII. El derecho a un trabajo digno o decente y un salario justo e igualitario;
 
 VIII. El derecho al descanso y tiempo de esparcimiento;
 
@@ -492,6 +502,12 @@ El Ejecutivo promoverá a través de las instancias correspondientes en coordina
 ###### Artículo 28.
 
 Los jóvenes tienen derecho a vivir esta etapa de su vida con calidad, creatividad, vitalidad e impregnada de valores que contribuyan a su pleno desarrollo y expresión de su potencialidad y capacidad humana.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 28 Bis.
+
+Los jóvenes tienen el derecho al trabajo, así como la percepción de un salario justo, digno e igualitario en el desempeño de un trabajo igual, en puesto, jornada y condiciones de eficiencia, en un mismo centro de trabajo, y no ser objeto de ningún tipo de discriminación laboral, por razón de su edad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2021)</small>
 
@@ -852,5 +868,11 @@ UNICO.- El presente Decreto entrara en vigor al día siguiente al de su publicac
 P.O. 11 DE OCTUBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 432. SE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 6 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+P.O. 16 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 433. SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 6, SE ADICIONAN LA FRACCIÓN X AL ARTÍCULO 2 Y EL ARTÍCULO 28 BIS DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
