@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-las-mujeres-149628"
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-06-01"
-last_updated: "2021-06-01"
+last_updated: "2023-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149628&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-12-04"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LAS MUJERES.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2023.
 
 Estatuto publicado en el Número 1 del Diario Oficial de la Federación, el martes 1 de junio de 2021.
 
@@ -45,25 +45,43 @@ El presente Estatuto Orgánico tiene por objeto establecer las bases de organiza
 
 Para los efectos de este ordenamiento se entiende por:
 
-I. Acciones afirmativas: Son las medidas especiales, específicas y de carácter temporal, a favor de personas o grupos en situación de discriminación, cuyo objetivo es corregir situaciones patentes de desigualdad en el disfrute o ejercicio de derechos y libertades, aplicables mientras subsistan dichas situaciones. Se adecuarán a la situación que quiera remediarse, deberán ser legítimas y respetar los principios de justicia y proporcionalidad.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-II. Consejo Consultivo: Consejo Consultivo del Instituto Nacional de las Mujeres.
+I. Acciones afirmativas: Son las medidas especiales, específicas y de carácter temporal, a favor de personas o grupos en situación de discriminación, cuyo objetivo es corregir o compensar situaciones estructurales de desigualdad en el disfrute o ejercicio de derechos y libertades. Se adecuarán a la situación que quiera remediarse, y serán legítimas, siempre que supongan una forma razonable, objetiva y proporcionada de combatir la discriminación de facto y se dejen de emplear una vez conseguida una igualdad sustantiva sostenible;
 
-III. Consejo Social: Consejo Social del Instituto Nacional de las Mujeres.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+II. Consejo Consultivo: Consejo Consultivo del Instituto Nacional de las Mujeres y órgano auxiliar del Instituto;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+III. Consejo Social: Consejo Social del Instituto Nacional de las Mujeres y órgano auxiliar del Instituto;
 
 IV. Estatuto: Estatuto Orgánico del Instituto Nacional de las Mujeres.
 
-V. Junta de Gobierno: Junta de Gobierno del Instituto Nacional de las Mujeres.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-VI. Género: Concepto que refiere a los valores, atributos, roles y representaciones que la sociedad asigna a mujeres y hombres
+V. Género: Concepto que refiere a los valores, atributos, roles y representaciones que la sociedad asigna a mujeres y hombres;
 
-VII. Igualdad sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-VIII. Igualdad de género: Concepto que refiere al principio conforme al cual hombres y mujeres acceden con justicia e igualdad al uso, control y beneficios de los bienes y servicios de la sociedad, incluyendo aquellos socialmente valorados, oportunidades y recompensas, con la finalidad de lograr la participación igualitaria de las mujeres en la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar. Implica la eliminación de toda forma de discriminación en cualquiera de los ámbitos de la vida, que se genere por razones de género.
+VI. Igualdad sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
 
-IX. Institucionalización: Es el proceso mediante el cual las demandas de las mujeres por la igualdad sustantiva se insertan en los procesos y procedimientos regulares y pasan a formar parte de las normas de las instituciones.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-X. Instituto: Instituto Nacional de las Mujeres.
+VII. Igualdad de género: Concepto que refiere al principio conforme al cual hombres y mujeres acceden con justicia e igualdad al uso, control y beneficios de los bienes y servicios de la sociedad, incluyendo aquellos socialmente valorados, oportunidades y recompensas, con la finalidad de lograr la participación igualitaria de las mujeres en la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar. Implica la eliminación de toda forma de discriminación en cualquiera de los ámbitos de la vida, que se genere por razones de género;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+VIII. Institucionalización: Es el proceso mediante el cual las demandas de las mujeres por la igualdad sustantiva se insertan en los procesos y procedimientos regulares y pasan a formar parte de las normas de las instituciones;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+IX. Instituto: Instituto Nacional de las Mujeres;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+X. Junta de Gobierno: Junta de Gobierno del Instituto Nacional de las Mujeres y máximo órgano de administración del Instituto;
 
 XI. Ley: Ley del Instituto Nacional de las Mujeres.
 
@@ -87,9 +105,11 @@ XX. Transversalidad: Es el proceso que permite garantizar la incorporación de l
 
 XXI. Unidad Administrativa: Área del Instituto a la que se le confieren atribuciones específicas en el presente ordenamiento, que tiene funciones propias que la distinguen de las demás dentro de la Institución.
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 4.
 
-El Instituto, por medio de sus unidades administrativas, direcciones generales y órganos auxiliares, planeará y conducirá sus actividades conforme a los objetivos, estrategias y programas establecidos en el marco de la Ley General de Planeación, el Plan Nacional de Desarrollo y las políticas y programas que determinen las disposiciones jurídicas aplicables. La información, datos y la cooperación técnica que requieran las unidades administrativas, deberá estar a disposición de cualquiera de los Órganos que integran el mismo.
+El Instituto, a través de la Junta de Gobierno, el Consejo Consultivo, el Consejo Social y sus unidades administrativas, planeará y conducirá sus actividades conforme a los objetivos, estrategias, líneas de acción y demás elementos previstos en el Plan Nacional de Desarrollo y los programas que deriven de este, en los tratados internacionales suscritos por México y en las demás disposiciones jurídicas aplicables. La información, datos y la cooperación técnica que realicen las unidades administrativas, deberá estar a disposición de cualquiera de los órganos que integran el Instituto.
 
 ###### Artículo 5.
 
@@ -111,27 +131,43 @@ I. Definir las directrices, características y elementos que deben contener las 
 
 II. Proponer, promover, coordinar y difundir actividades que incorporen la perspectiva de género, estableciendo los vínculos necesarios para el cumplimiento de su objeto.
 
-III. Intervenir en el diseño de los programas y proyectos del Ejecutivo Federal, a fin de incorporar la perspectiva de género; coadyuvar con los gobiernos estatales y municipales en el diseño de los programas de igualdad de género, no violencia y protección de los derechos humanos de las mujeres, adolescentes y niñas y promover el fortalecimiento de las instituciones en cuestiones de género.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-IV. Promover la elaboración y ejecución de programas en el sector público, orientados a fomentar la igualdad de oportunidades, no discriminación contra las mujeres y protección de los derechos humanos de las mujeres, adolescentes y niñas.
+III. Intervenir en el diseño de los programas y proyectos del Ejecutivo Federal, a fin de incorporar la perspectiva de género en la Administración Pública Federal; coadyuvar con los gobiernos estatales y municipales en el diseño de los programas de igualdad de género, no violencia y protección de los derechos humanos de las mujeres, adolescentes y niñas y promover el fortalecimiento de la perspectiva de género en las instituciones del Estado mexicano, incluyendo los órganos constitucionales autónomos;
 
-V. Fungir como órgano de consulta de los sectores público, social y privado en materia de perspectiva de género, igualdad entre mujeres y hombres y protección de los derechos humanos de las mujeres y las niñas.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-VI. Celebrar convenios con los sectores privado, público y social, necesarios para la mejor consecución de sus objetivos.
+IV. Promover la elaboración y ejecución de programas en el sector público, orientados a fomentar la igualdad sustantiva y los derechos humanos de las mujeres, adolescentes y niñas;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+V. Fungir como órgano de consulta de los sectores público, social y privado en materia de perspectiva de género, igualdad sustantiva y derechos humanos de las mujeres, adolescentes y niñas;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+VI. Celebrar convenios y acuerdos con los sectores privado, público y social, nacionales e internacionales, necesarios para la mejor consecución de sus objetivos;
 
 VII. Promover el cumplimiento de los acuerdos internacionales aprobados por la Cámara de Senadores, así como de los instrumentos internacionales y regionales en materia de igualdad de género y derechos humanos de las mujeres y asesorar a los sectores privado, público y social en la materia.
 
-VIII. Realizar estudios y organizar un sistema de capacitación en materia de perspectiva e igualdad de género y protección de los derechos humanos de las mujeres, adolescentes y niñas.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+VIII. Realizar y promover la elaboración de estudios e investigaciones en materia de igualdad de género y de derechos humanos de las mujeres, adolescentes y niñas, así como asesorar e implementar capacitaciones en la materia;
 
 IX. Coordinarse con organizaciones gubernamentales y no gubernamentales a fin de cumplir con los objetivos generales y específicos del Instituto.
 
 X. Adquirir, poseer, usar y enajenar los bienes muebles e inmuebles necesarios para el cumplimiento de sus fines.
 
-XI. Establecer enlaces de intercambio de información con las entidades federativas, respecto a la incorporación de la perspectiva e igualdad de género en sus políticas públicas.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-XII. Coadyuvar en la generación e integración de la información estadística con perspectiva de género para el diseño de las políticas públicas que reduzcan y eliminen las desigualdades entre mujeres y hombres.
+XI. Establecer enlaces de intercambio de información con las entidades federativas, respecto a la incorporación de la perspectiva de género y la igualdad sustantiva en sus políticas públicas;
 
-XIII. Evaluar la información presentada por las dependencias y entidades, sobre los avances obtenidos por las políticas públicas con perspectiva e igualdad de género.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+XII. Promover y coadyuvar en la generación e integración de la información estadística desagregada por sexo y con perspectiva de género para el diseño de las políticas públicas que reduzcan y eliminen las desigualdades entre mujeres y hombres y posibiliten la identificación de las condiciones sociales, políticas, económicas y culturales de las mujeres, en los distintos ámbitos de la sociedad;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+XIII. Evaluar la información presentada por las dependencias y entidades, sobre los avances obtenidos por las políticas públicas con perspectiva de género y en favor de la igualdad sustantiva;
 
 XIV. Identificar aquellos casos en que las leyes federales o locales no tutelen la igualdad y diseñar propuestas de iniciativas legislativas con perspectiva de género, tendientes a lograr la igualdad sustantiva de mujeres y hombres.
 
@@ -209,9 +245,13 @@ VI. Las demás que sean necesarias para el desarrollo de las sesiones.
 
 La Junta de Gobierno, además de las facultades que le confieren la Ley del Instituto Nacional de las Mujeres, la Ley Federal de las Entidades Paraestatales y su Reglamento y las demás disposiciones jurídicas aplicables, tendrá las siguientes atribuciones:
 
-I. Aprobar la convocatoria bajo la cual serán elegidas las integrantes de los órganos auxiliares del Instituto, y publicarla seis meses antes de que concluya el encargo de las que se encuentran en funciones.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-II. Elegir de entre las participantes de la convocatoria a las personas que integrarán los órganos auxiliares, seleccionándose una por cada entidad federativa.
+I. Aprobar la convocatoria bajo la cual serán elegidas las integrantes de los órganos auxiliares del Instituto, y publicarla al menos tres meses antes de que concluya el encargo de las que se encuentran en funciones;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+II. Elegir de entre las participantes de la convocatoria a las mujeres que integrarán los órganos auxiliares, favoreciendo la diversidad y representatividad de las mujeres de los diferentes sectores de la sociedad, así como sus contribuciones en favor de la igualdad sustantiva;
 
 III. Designar ocho Vocales Propietarias por cada órgano auxiliar, ante la Junta de Gobierno, tomando en cuenta la propuesta que realice la Presidencia del Instituto en coordinación con los órganos auxiliares.
 
@@ -233,7 +273,9 @@ III. La convocatoria para quienes integren la Junta de Gobierno, será notificad
 
 IV. En dichas sesiones se abordarán únicamente los asuntos que se incluyan en el orden del día para su autorización o aprobación, así como los de conocimiento; cualquier asunto que por causa superveniente no se desahogue en la sesión correspondiente, podrá tratarse en la sesión inmediata siguiente o extraordinaria, atendiendo a la importancia del mismo.
 
-V. En todas las sesiones se dará cuenta del seguimiento de los acuerdos y se asentará su desarrollo en el acta respectiva.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+V. En todas las sesiones ordinarias se dará cuenta del seguimiento de los acuerdos y se asentará su desarrollo en el acta respectiva;
 
 VI. Para el caso de que alguna persona integrante de la Junta de Gobierno quiera tratar un punto en asuntos generales, deberá solicitarlo a la Secretaría Técnica con al menos 24 horas de anticipación a la sesión.
 
@@ -255,9 +297,21 @@ La estructura de los órganos auxiliares estará integrada por una consejera pre
 
 ### CAPÍTULO III DE LA ORGANIZACIÓN DE LOS ÓRGANOS AUXILIARES
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 18.
 
-La organización de los órganos auxiliares se establecerá por las propias integrantes en el proyecto de reglamentación que se someta a la aprobación de la Junta de Gobierno; lo anterior en concordancia con lo que establece la Ley, el presente Estatuto y los demás ordenamientos legales relacionados, el cual deberá contener por lo menos lo siguiente: los requisitos y condiciones para las sesiones de trabajo, los derechos y deberes de sus integrantes, la mecánica de deliberación interna, las votaciones y adopción de acuerdos, los supuestos de medidas disciplinarias al interior de sus consejos, así como las conductas que serán causa de la propuesta para la remoción del cargo de consejera, así como de otras representaciones adquiridas en esa calidad, por el incumplimiento en su reglamentación interna y en las demás disposiciones aplicables.
+La organización de los órganos auxiliares se establecerá por sus propias integrantes en el proyecto de reglamentación que se someta a la aprobación de la Junta de Gobierno.
+
+Dicha reglamentación deberá construirse en concordancia con la Ley, el presente Estatuto, el Código de Conducta del Instituto y los demás ordenamientos legales relacionados, y deberá contener, por lo menos, lo siguiente:
+
+I. Los requisitos y condiciones para las sesiones de trabajo;
+
+II. Los derechos y deberes de sus integrantes;
+
+III. La mecánica de deliberación interna, las votaciones y adopción de acuerdos, y
+
+IV. Los supuestos de medidas disciplinarias al interior de sus consejos, así como las conductas que sean causa de la propuesta para la remoción del cargo de consejera u otras representaciones adquiridas en esa calidad, por el incumplimiento de la propia reglamentación interna y las demás disposiciones que resulten aplicables.
 
 ###### Artículo 19.
 
@@ -289,11 +343,17 @@ El Consejo Social colaborará con el Instituto en los casos siguientes:
 
 I. Promover la participación de la sociedad civil en las estrategias, acciones o programas implementados en el marco de la Política Nacional en Materia de Igualdad entre Mujeres y Hombres.
 
-II. Recibir propuestas y recomendaciones específicas de la sociedad sobre la operación y funcionamiento de los programas en favor de la igualdad de género, derechos humanos de las mujeres y las niñas y en su caso los proyectos que contribuyan al mejoramiento de los mismos, presentándolos al Instituto.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-III. Recoger y evaluar las opiniones de las organizaciones de la sociedad civil cuyo objeto sea el fomento de la igualdad de género, respecto del impacto de las estrategias implementadas en la Política Nacional en Materia de Igualdad entre Mujeres y Hombres y demás programas relacionados con la igualdad de género ejecutados por el Instituto, para presentarlo ante éste.
+II. Recibir propuestas y recomendaciones específicas de la sociedad sobre la operación y funcionamiento de los programas en favor de la igualdad sustantiva, derechos humanos de las mujeres, las adolescentes y las niñas, así como proyectos que contribuyan al mejoramiento de aquellos, para, en caso de estimarlo oportuno, presentarlos al Instituto;
 
-IV. Proponer, a través de la Secretaría Técnica, los mecanismos que propicien el fortalecimiento y actualización de los sistemas de información desagregados por género.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+III. Recoger y evaluar las opiniones de las organizaciones de la sociedad civil cuyo objeto sea el fomento de la igualdad sustantiva, respecto del impacto de las estrategias implementadas en la Política Nacional en Materia de Igualdad entre Mujeres y Hombres y los programas relacionados con la igualdad de género ejecutados por el Instituto, para, en caso de estimarlo oportuno, presentarlas al Instituto;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+IV. Proponer, a través de la Secretaría Técnica, los mecanismos que propicien el fortalecimiento y actualización de los sistemas de información desagregados al menos, por género y rangos etarios, y
 
 V. Integrar y presentar anualmente a la Junta de Gobierno, un informe destacando los logros alcanzados.
 
@@ -315,35 +375,53 @@ III. Proponer estrategias para incorporar la perspectiva de género en los proce
 
 IV. Proponer la estrategia transversal de género en el marco del Plan Nacional de Desarrollo y promover, conjuntamente con las dependencias y entidades de la Administración Pública Federal, el Programa Nacional para la Igualdad entre Mujeres y Hombres.
 
-V. Suscribir acuerdos de colaboración, convenios de concertación, cooperación y coordinación con organismos gubernamentales, no gubernamentales, nacionales e internacionales, para el desarrollo de proyectos que beneficien a las mujeres, adolescentes y niñas en materia de igualdad y una vida libre de violencia.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-VI. Fortalecer vínculos permanentes con el Congreso Federal, Congresos Estatales, Congreso de la Ciudad de México, y Poderes Judiciales, Federal y Estatales, que garanticen el acceso igualitario y no discriminatorio al desarrollo y respeto de los derechos humanos de las mujeres, adolescentes y niñas, así como realizar actos que deriven de los mismos.
+V. Suscribir acuerdos y convenios de colaboración, concertación, cooperación y coordinación con organismos gubernamentales, no gubernamentales, nacionales, regionales e internacionales, para el desarrollo de proyectos que beneficien a las mujeres, las adolescentes y las niñas en materia de igualdad sustantiva y derecho a una vida libre de violencia;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+VI. Fortalecer vínculos permanentes con los órganos depositarios de los poderes legislativo y judicial en los ámbitos federal y de las entidades federativas, para promover la igualdad sustantiva y los derechos humanos de las mujeres, adolescentes y niñas, así como realizar actos que deriven de los mismos;
 
 VII. Impulsar la generación de información relevante con enfoque de género en las instituciones, órdenes de gobierno y organismos autónomos, para la agenda de género nacional.
 
-VIII. Promover que el Estado mexicano garantice los derechos humanos de las mujeres y de las niñas asentados en el marco jurídico mexicano y en los instrumentos internacionales suscritos por México.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-IX. Promover el reconocimiento y ejercicio de los derechos humanos de las mujeres y las niñas, así como su visibilización en la esfera pública, privada y social para lograr la igualdad sustantiva entre mujeres y hombres.
+VIII. Promover que el Estado mexicano garantice los derechos humanos de las mujeres, las adolescentes y las niñas reconocidos en el marco jurídico nacional y en los instrumentos internacionales suscritos por México;
 
-X. Promover, difundir y publicar obras relacionadas con el quehacer institucional, que contribuya al conocimiento de los derechos humanos de las mujeres y las niñas.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+IX. Promover el reconocimiento y ejercicio de los derechos humanos de las mujeres, las adolescentes y las niñas, así como su visibilización en la esfera pública, privada y social para lograr la igualdad sustantiva entre mujeres y hombres;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+X. Promover, difundir y publicar obras relacionadas con el quehacer institucional, que contribuyan al conocimiento de los derechos humanos de las mujeres, las adolescentes y las niñas y la igualdad sustantiva;
 
 XI. Instrumentar la difusión y la promoción del cumplimiento de los tratados internacionales en materia de derechos humanos de las mujeres y las niñas, suscritos por el Estado mexicano.
 
 XII. Representar legalmente al Instituto, administrar y celebrar todo tipo de actos e instrumentos inherentes al objeto y funcionamiento del mismo.
 
-XIII. Sustituir o revocar poderes generales o especiales otorgados en favor de las personas servidoras públicas del Instituto.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-XIV. Representar al Gobierno Federal ante los gobiernos estatales y municipales, organizaciones privadas, sociales y organismos internacionales en materia de igualdad y no discriminación de las mujeres y las niñas en el ámbito de sus funciones y competencias.
+XIII. Otorgar, revocar o modificar poderes generales o especiales a las personas servidoras públicas del Instituto;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+XIV. Representar al Gobierno Federal ante los gobiernos estatales y municipales, organizaciones privadas, sociales y organismos internacionales en materia igualdad sustantiva y derechos humanos de las mujeres, las adolescentes y las niñas, en el ámbito de sus funciones y competencias;
 
 XV. Coordinar, con el apoyo de la Secretaria Ejecutiva, las acciones que se deriven de la Ley General para la Igualdad entre Mujeres y Hombres, así como expedir las reglas para la organización y funcionamiento del Sistema Nacional para la Igualdad entre Mujeres y Hombres y, en su caso, las medidas de vinculación con otros sistemas de carácter nacional o local.
 
 XVI. Proponer a la Junta de Gobierno del Instituto las medidas y estrategias para el cumplimiento de la Política Nacional en Materia de Igualdad entre Mujeres y Hombres.
 
-XVII. Aprobar las estrategias de capacitación y formación de las y los servidores públicos en materia de igualdad y derechos humanos de las mujeres y las niñas.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+XVII. Aprobar las estrategias de capacitación y formación de las y los servidores públicos en materia de igualdad y derechos humanos de las mujeres, las adolescentes y las niñas;
 
 XVIII. Fungir como Secretaria Ejecutiva del Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
 
-XIX. Difundir la cultura de respeto a los derechos humanos de las mujeres, adolescentes y niñas, así como promover que las instancias de procuración de justicia garanticen el acceso a la justicia de mujeres y niñas.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+XIX. Difundir la cultura de respeto a los derechos humanos de las mujeres, adolescentes y niñas, así como promover que las instancias de procuración de justicia garanticen el acceso a la justicia de las mujeres, las adolescentes y las niñas;
 
 XX. Conducir las acciones de coordinación y funcionamiento del Sistema Nacional para la Igualdad entre Mujeres y Hombres, a fin de promover, encauzar y dar seguimiento a la Política Nacional en Materia de Igualdad entre Mujeres y Hombres.
 
@@ -351,19 +429,27 @@ XXI. Promover la incorporación de la perspectiva de género en todas las polít
 
 XXII. Establecer vínculos de colaboración con las instancias administrativas que se ocupen de los asuntos de las mujeres en las entidades federativas para promover y apoyar, en su caso, las políticas, programas y acciones en materia de igualdad de género.
 
-XXIII. Participar y organizar reuniones y eventos para el intercambio de experiencias e información tanto de carácter nacional como internacional en materia de igualdad, no violencia, no discriminación y protección de los derechos humanos de las mujeres y las niñas y demás temas conforme a la legislación vigente
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-XXIV. Promover y fomentar la cultura de la no violencia y no discriminación contra las mujeres y las niñas, así como la igualdad entre mujeres y hombres, para el ejercicio pleno de los derechos de las mujeres y las niñas y su participación igualitaria en la vida política, cultural, económica y social del país y el fortalecimiento de la democracia.
+XXIII. Participar y organizar reuniones y eventos para el intercambio de experiencias e información tanto de carácter nacional como internacional en materia de igualdad sustantiva, no violencia, no discriminación y protección de los derechos humanos de las mujeres, las adolescentes y las niñas y otros temas afines, conforme a la legislación vigente;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+XXIV. Promover y fomentar la cultura de la no violencia y no discriminación contra las mujeres, las adolescentes y las niñas, así como la igualdad entre mujeres y hombres, para el ejercicio pleno de los derechos de las mujeres y las niñas y su participación igualitaria en la vida política, cultural, económica y social del país y el fortalecimiento de la democracia;
 
 XXV. Proponer a la Junta de Gobierno el nombramiento o remoción de la Secretaria Ejecutiva, así como de los dos primeros niveles del funcionariado del Instituto, la fijación de sueldos y demás prestaciones, conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el propio órgano y nombrar al resto del personal administrativo del Instituto.
 
-XXVI. Autorizar el otorgamiento de aportaciones internacionales por parte del Instituto a Organismos Internacionales y Regionales que tengan por objeto promover los derechos de las mujeres, adolescentes y niñas y apoyar la igualdad de género.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+XXVI. Autorizar el otorgamiento de aportaciones del Instituto a organismos internacionales y regionales, que tengan por objeto promover los derechos humanos de las mujeres, adolescentes y niñas y apoyar la igualdad sustantiva;
 
 XXVII. Designar a la persona que funja como suplente dentro de las Comisiones, Grupos, Comités, y Órganos colegiados y no colegiados, en los cuales participa el Instituto, en el marco de la normatividad aplicable.
 
 XXVIII. Promover el cumplimiento de las obligaciones estipuladas al Instituto en otros ordenamientos legales.
 
-XXIX. Autorizar las comisiones nacionales e internacionales de las y los titulares de las unidades administrativas adscritas a presidencia, atendiendo los procedimientos establecidos para dicho fin.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+XXIX. Autorizar las comisiones nacionales e internacionales de las y los titulares de las unidades administrativas del Instituto, así como las internacionales del personal adscrito a dichas unidades, atendiendo los procedimientos establecidos para dicho fin, y
 
 XXX. Emitir políticas específicas y actos para el debido funcionamiento del Instituto.
 
@@ -429,9 +515,13 @@ XXV. Las demás que le confieran las disposiciones jurídicas en la materia.
 
 Las personas titulares de las Direcciones Generales y Coordinaciones del Instituto, tendrán las siguientes atribuciones:
 
-I. Coordinar la elaboración del anteproyecto de presupuesto de su unidad administrativa y de las unidades bajo su adscripción, asegurando su alineación conforme a sus atribuciones.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-II. Coordinar acciones necesarias con las unidades administrativas del Instituto, para el cumplimiento de sus atribuciones y el logro de sus objetivos.
+I. Coordinar la elaboración del anteproyecto de presupuesto de la unidad administrativa a la que se encuentra adscrita y de las unidades bajo su adscripción, asegurando su alineación al Plan Nacional de Desarrollo, los programas que deriven de este, los tratados internacionales suscritos por México y a las demás disposiciones jurídicas aplicables, en el marco de sus atribuciones;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+II. Coordinar, con las otras unidades administrativas del Instituto, las acciones necesarias para el cumplimiento de sus atribuciones y el logro de sus objetivos, así como el impulso de políticas públicas y acciones con enfoque interseccional dirigidas a las mujeres, las adolescentes y las niñas en su diversidad, también en el ámbito de sus respectivas atribuciones;
 
 III. Dirigir las acciones para integrar los datos de los informes institucionales, nacionales e internacionales, en el ámbito de su competencia, a fin de contribuir a la rendición de cuentas y al cumplimiento de sus obligaciones.
 
@@ -443,13 +533,17 @@ VI. Asegurar que el ejercicio del gasto de su unidad administrativa y de las uni
 
 VII. Participar en las acciones de mejora de la gestión que se implementen en el Instituto, conforme a los lineamientos que se emitan para tal fin.
 
-VIII. Proponer la suscripción de los contratos, convenios y demás instrumentos jurídicos que sean de su competencia, someterlos a revisión de la Coordinación de Asuntos Jurídicos y, en caso de resultar procedentes, llevar a cabo su formalización.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+VIII. Proponer a la Secretaría Ejecutiva la suscripción de los contratos, convenios y demás instrumentos jurídicos que sean de su competencia; someterlos a revisión jurídica de la Coordinación de Asuntos Jurídicos, y, en caso de resultar procedentes, llevar a cabo su formalización y posterior seguimiento, de conformidad con los lineamientos emitidos para tal fin;
 
 IX. Participar en las comisiones, grupos, comités, órganos colegiados y no colegiados, internos o externos, en que sea parte o se le designe.
 
 X. Colaborar activamente en las actividades que se incluyan en el Programa Interno de Protección Civil del Instituto y designar dentro de su personal quiénes participarán en aquellas acciones que se establezcan en caso de contingencia.
 
-XI. Asegurar que las solicitudes de información en materia de Transparencia y Acceso a la Información Pública, se atiendan con oportunidad y apego a los ordenamientos aplicables.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+XI. Asegurar que las solicitudes de información de su competencia, en materia de transparencia y acceso a la información pública, se atiendan con oportunidad y apego a los ordenamientos aplicables;
 
 XII. Expedir copias certificadas de los documentos que obren en los archivos de la unidad administrativa a su cargo y las que estén bajo su adscripción.
 
@@ -483,7 +577,9 @@ VIII. Desarrollar estrategias de coordinación interinstitucional para la progra
 
 IX. Proponer, en el marco del Sistema Nacional para la Igualdad entre Mujeres y Hombres, estrategias y mecanismos para la incorporación de la perspectiva de género en los presupuestos públicos para la protección de los derechos económicos, sociales, políticos y culturales de las mujeres, bajo los criterios de transversalidad, federalismo y fortalecimiento de los vínculos entre los tres poderes del Estado, en los términos de la normatividad aplicable.
 
-X. Promover en el ámbito público y privado el establecimiento de medidas que contribuyan a la corresponsabilidad entre la vida laboral, personal y familiar de mujeres y hombres.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+X. Promover en el ámbito público y privado el establecimiento de medidas que contribuyan a la corresponsabilidad entre la vida laboral, personal y familiar de mujeres y hombres, en el marco del Sistema Nacional de Cuidados.
 
 XI. Contribuir al establecimiento de vínculos de colaboración con las instancias administrativas que se ocupen de los asuntos de las mujeres en el ámbito federal, estatal y municipal para promover y apoyar las políticas en materia de igualdad entre mujeres y hombres.
 
@@ -505,7 +601,9 @@ II. Auxiliar a la Presidencia en su función de Secretaria Ejecutiva del Sistema
 
 III. Diseñar acciones afirmativas para la contención de la violencia feminicida en el marco del Programa Nacional para la Igualdad entre Mujeres y Hombres.
 
-IV. Implementar y dar seguimiento a la ejecución del programa PROEQUIDAD.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+IV. Implementar y dar seguimiento a la ejecución del Fondo para el Bienestar y el Avance de las Mujeres;
 
 V. Promover la creación de unidades de atención y protección a las víctimas de violencia prevista en la legislación correspondiente, así como canalizar a las víctimas a las unidades referidas.
 
@@ -571,7 +669,9 @@ XIV. Las demás que le confieran las disposiciones jurídicas en la materia.
 
 La persona Titular de la Unidad de Administración y Finanzas, tendrá las siguientes atribuciones:
 
-I. Programar, organizar, dirigir y dar seguimiento a las acciones en materia administrativa, de recursos humanos, financieros, materiales, servicios generales, de tecnologías de la información y comunicaciones, así como las que correspondan a las Unidades Administrativas que tenga a su cargo, conforme a las disposiciones normativas aplicables en la materia.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+I. Programar, organizar, dirigir y dar seguimiento a las acciones en materia administrativa, de recursos humanos, financieros, materiales, servicios generales, de tecnologías de la información y comunicaciones, conforme a las disposiciones normativas aplicables en la materia.
 
 II. Ejercer la representación legal del Instituto en términos de las leyes aplicables y administrar los bienes muebles e inmuebles del Instituto.
 
@@ -579,7 +679,9 @@ III. Participar conjuntamente con la Secretaría Ejecutiva, en la coordinación 
 
 IV. Coordinar el proceso anual de programación, presupuestación, contabilidad y operación financiera, así como el control y seguimiento del ejercicio del gasto y el registro contable de las unidades administrativas del Instituto, conforme a las disposiciones normativas aplicables.
 
-V. Someter a consideración de la Presidencia el proyecto de presupuesto anual y el calendario de gasto de las unidades administrativas del Instituto, así como la Cuenta de la Hacienda Pública Federal, de conformidad con las disposiciones aplicables.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+V. Someter a consideración de la Presidencia el anteproyecto de presupuesto anual del Instituto, su calendario y la parte que le corresponde de la Cuenta de la Hacienda Pública Federal, de conformidad con las disposiciones aplicables;
 
 VI. Establecer e implementar políticas, reglas, lineamientos, procedimientos y programas para la adquisición, arrendamiento, enajenación y contratación de bienes y servicios, así como para la gestión de recursos humanos, materiales, financieros, de tecnologías de la información y comunicaciones, y de servicios generales.
 
@@ -595,13 +697,15 @@ XI. Analizar, proponer y someter a consideración de la persona Titular de la Pr
 
 XII. Suscribir, modificar y/o rescindir, con apoyo de la Coordinación de Asuntos Jurídicos, los instrumentos jurídicos en el ámbito de su competencia, que determinen obligaciones al Instituto o afecten su presupuesto.
 
-XIII. Presidir los comités de adquisiciones, arrendamientos y servicios, mejora regulatoria interna y los demás órganos colegiados que señalen las disposiciones jurídicas, de acuerdo con su ámbito de su (sic) competencia.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+XIII. Presidir los comités de adquisiciones, arrendamientos y servicios, mejora regulatoria interna, comité de ética y los demás órganos colegiados cuyo objeto estén en el ámbito de su competencia, de conformidad con las disposiciones jurídicas aplicables;
 
 XIV. Coordinar la implementación del Programa Interno de Protección Civil para el personal, instalaciones, bienes e información del Instituto, así como emitir el protocolo necesario para su operación, desarrollo y vigilancia.
 
 XV. Coordinar con las unidades administrativas, la planeación y operación de los servicios de tecnologías de información y comunicación, conforme a la normatividad aplicable.
 
-XVI. Coordinar las funciones de la Unidad de Transparencia del Instituto, conforme a las disposiciones jurídicas aplicables.
+XVI. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2023)
 
 XVII. Las demás que le confieran las disposiciones jurídicas en la materia.
 
@@ -687,7 +791,9 @@ I. Fungir como órgano de asesoría y consulta del Instituto en temas jurídicos
 
 II. Ejecutar el estudio, planeación y despacho de los asuntos jurídicos que le sean turnados y que se encuentren a cargo del Instituto.
 
-III. Autorizar y coordinar la estrategia para la atención de las resoluciones del Poder Judicial de la Federación y de las entidades federativas en las que se ordene actuación y/o medidas al Instituto, en colaboración con otras unidades responsables.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+III. Autorizar y coordinar la estrategia para la atención y sustanciación de asuntos contenciosos ante autoridades judiciales, administrativas o del trabajo, así como desahogar todo tipo de requerimientos que soliciten los organismos constitucionales autónomos y/o autoridades de cualquier otra naturaleza, en representación y defensa de los intereses del Instituto, en colaboración con las unidades administrativas competentes;
 
 IV. Elaborar, en coordinación con las unidades responsables del Instituto, las opiniones jurídicas que se soliciten al Instituto, respecto a las actividades de orden legislativo del H. Congreso de la Unión y Congresos Locales.
 
@@ -695,9 +801,11 @@ V. Promover, coordinar y definir las acciones de armonización legislativa en lo
 
 VI. Validar y coordinar la revisión jurídica y la elaboración de los convenios o acuerdos de colaboración generales y específicos en el ámbito nacional e internacional, con dependencias y entidades de la Administración Pública Federal, estatal, municipal, instituciones académicas, organizaciones civiles y organismos internacionales.
 
-VII. Revisar y validar en sus aspectos jurídicos, los contratos que celebre el Instituto con los proveedores para la adquisición de bienes y prestación de servicios que el Instituto requiere para su operación, debiendo emitir su opinión jurídica y normativa respecto de la procedencia y legalidad de su contenido.
+VII. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2023)
 
-VIII. Dictaminar en sus aspectos jurídicos los convenios derivados de los programas del Instituto, debiendo emitir su opinión jurídica y normativa respecto de la procedencia y legalidad de su contenido.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+VIII. Validar en sus aspectos jurídicos los convenios y contratos derivados de los programas federales del Instituto;
 
 IX. Representar al Instituto ante los órganos competentes en materia de derechos humanos y coordinar con otras áreas responsables del Instituto:
 
@@ -715,7 +823,9 @@ XI. Coordinar las actuaciones, planear las estrategias a seguir y desahogar cual
 
 XII. Elaborar los informes respectivos en los juicios de amparo e interponer toda clase de recursos o medios de impugnación, así como actuar en los juicios en que el Instituto sea parte e intervenir en el cumplimiento de las resoluciones respectivas.
 
-XIII. Revisar y validar, dentro del ámbito de su competencia, las respuestas en materia de transparencia que emita la unidad responsable del Instituto.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+XIII. Coordinar las funciones de la Unidad de Transparencia del Instituto bajo su adscripción, conforme a las disposiciones jurídicas aplicables;
 
 XIV. Tramitar los registros de propiedad intelectual del Instituto con los insumos y el apoyo de las unidades administrativas.
 
@@ -725,9 +835,11 @@ XVI. Elaborar, validar y presentar las denuncias y querellas que legalmente proc
 
 XVII. Realizar el dictamen jurídico de la substanciación de procedimientos judiciales y administrativos en los que el Instituto sea parte, para salvaguardar los intereses de éste, previa solicitud por escrito del área involucrada.
 
-XVIII. Revisar jurídicamente, validar y suscribir los contratos en materia laboral del Instituto.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-XIX. Establecer vínculos de colaboración con las áreas encargadas de los mecanismos estatales y municipales para el adelanto de las mujeres.
+XVIII. Revisar jurídicamente y validar los contratos en materia laboral del Instituto;
+
+XIX. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2023)
 
 XX. Las demás que le confieran las disposiciones jurídicas en la materia.
 
@@ -751,9 +863,9 @@ Las ausencias de la persona Titular del Órgano Interno de Control y de las pers
 
 Las ausencias serán suplidas de la siguiente manera, con independencia de lo señalado por el artículo 12, penúltimo párrafo, de la Ley:
 
-I. En la Junta de Gobierno, las personas titulares de las Secretarías de Estado, Procuraduría, organismos descentralizados, representantes de la Suprema Corte de Justicia de la Nación, Consejo de la Judicatura Federal y Congreso de la Unión, serán suplidos en sus ausencias por las personas que funjan como servidores públicos que en cada caso designen y que sean de nivel jerárquico inmediato inferior al que ocupen las personas vocales Titulares, sin menoscabo de su representatividad al emitir su voto.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-Cada Consejera vocal propietaria designará de entre las integrantes del Consejo al que pertenezca, a su suplente.
+I. En la Junta de Gobierno, las personas vocales serán suplidas en sus ausencias por las personas que en cada caso designen en los términos establecidos en la Ley;
 
 II. La persona Titular de la Presidencia será suplida por la persona Titular de la Secretaría Ejecutiva, o bien, por la persona Titular de la Dirección General que designe por escrito la Presidencia.
 
@@ -768,3 +880,13 @@ Primero.- El presente Estatuto Orgánico entrará en vigor al día siguiente de 
 Segundo.- Se derogan las disposiciones internas de carácter administrativo que se opongan a lo previsto por este Estatuto Orgánico.
 
 Ciudad de México, a 4 de diciembre de 2019.- Con fundamento en lo dispuesto por los artículos 13, fracción XI y 16, fracciones IV y V de la Ley del Instituto Nacional de las Mujeres.- Presidenta del Instituto, Doctora Nadine Flora Gasman Zylbermann.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 17 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LAS MUJERES, PUBLICADO EL 1 DE JUNIO DE 2021”.]
+
+Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan las disposiciones internas de carácter administrativo que se opongan a lo previsto en este Acuerdo.
