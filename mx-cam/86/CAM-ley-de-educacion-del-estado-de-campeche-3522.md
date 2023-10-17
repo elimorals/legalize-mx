@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2023-03-22"
+last_updated: "2023-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -277,7 +277,9 @@ VII. Integrar el Sistema Estatal de Formación, Actualización y Superación de 
 
 a) Ofrecer oportunidades permanentes para el perfeccionamiento y la superación profesional de los docentes en servicio, que incluyan diversas modalidades de cobertura;
 
-b) Actualizar y consolidar los conocimientos científicos y humanísticos, así como las competencias didácticas de los profesores en servicio;
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2023)</small>
+
+b) Actualizar y consolidar los conocimientos científicos y humanísticos, así como las competencias didácticas de los profesores en servicio, donde se considere a la persona humana como el principio y fin de todas las instituciones basado en los ideales de justicia social, bienestar, libertad, emancipación, inclusión e igualdad; donde se propicie la convivencia social y étnica y el respeto a los derechos humanos, evitando todo tipo de discriminación;
 
 c) Ofrecer programas formativos de dirección, administración y gestión pedagógica para el personal con funciones de dirección y de supervisión escolar;
 
@@ -1550,3 +1552,11 @@ P.O. 22 DE MARZO DE 2023.
 Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 17 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 265 POR EL QUE “SE REFORMA EL INCISO B) DE LA FRACCIÓN VII DEL ARTÍCULO 12 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
