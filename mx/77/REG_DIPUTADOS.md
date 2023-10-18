@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2023-03-07"
+last_updated: "2023-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE OCTUBRE DE 2023.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -3970,6 +3970,308 @@ VI. Los lineamientos y directrices que se seguirán para mejorar el desempeño d
 
 En caso de que un proyecto de dictamen corresponda a comisiones unidas, la comisión que encabeza el turno será la encargada de realizar el acuerdo señalado en el numeral anterior.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+## TITULO DECIMO PRIMERO. De las Sesiones Semipresenciales en casos de excepción
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+### CAPITULO I. Del Objeto
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 289.
+
+1. Las disposiciones del Título Décimo Primero tienen por objeto normar el ejercicio de las funciones de la Cámara de Diputados, con pleno respeto al cumplimiento de los derechos y obligaciones de las diputadas y los diputados, garantizando el ejercicio efectivo de la actividad parlamentaria que se desarrolla en el Pleno, en los órganos de gobierno, en las comisiones legislativas y en los comités en modalidad semipresencial.
+
+2. Para que el Pleno de la Cámara de Diputados, las comisiones, los comités, los órganos de gobierno y los demás órganos legislativos puedan ejercer sus funciones de manera semipresencial, la Plataforma Digital permitirá y habilitará la participación a las diputadas y los diputados, con las medidas de ciberseguridad que garanticen su adecuado funcionamiento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+### CAPITULO II. Voces y Significados
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 290.
+
+1. Las funciones de la Cámara de Diputados en modalidad semipresencial serán reguladas por la Constitución Política de los Estados Unidos Mexicanos, la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y por este Reglamento. También serán aplicables de manera supletoria los acuerdos que los órganos de gobierno emitan para las sesiones en esta modalidad.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 291.
+
+1. Para efectos del presente Título se utilizarán las voces y significados siguientes:
+
+I. Quórum: Es el número mínimo de diputadas y diputados requerido para que el Pleno, las comisiones, los comités y demás órganos legislativos puedan abrir sus sesiones y reuniones respectivamente, así como para realizar votaciones nominales. Este número equivale a la mitad más uno del total de sus integrantes y cuya concurrencia podrá ser física o de manera telemática por medio de la Plataforma Digital correspondiente. El quórum de los órganos de gobierno se alcanzará de manera ponderada, en términos de lo dispuesto por la Ley Orgánica y conforme a sus disposiciones internas;
+
+II. Plataforma Digital para el registro de asistencia, votación y videoconferencia: Es el medio electrónico habilitado para dispositivos digitales, mediante el cual las diputadas y los diputados podrán concurrir y registrar su asistencia a las sesiones del Pleno, de comisiones y de comités, el sentido de su voto por medio de una validación biométrica y podrán ejercer su derecho y obligación para participar en las sesiones del Pleno, comisiones, comités y demás órganos legislativos de manera telemática;
+
+III. Reunión semipresencial: La asamblea de los órganos de gobierno o de las comisiones, comités, órganos legislativos y juntas directivas de estos últimos, de la Cámara de Diputados, en la que el quórum se alcanza con la concurrencia física o de manera telemática por medio de la Plataforma Digital correspondiente;
+
+IV. Sesión semipresencial: La asamblea de las diputadas y los diputados de la Cámara en Pleno, en la que el quórum se alcanza con la concurrencia física o de manera telemática por medio de la Plataforma Digital correspondiente, y
+
+V. Votación Económica en Sesión Semipresencial: Es el voto que emiten las diputadas y los diputados respecto de los asuntos sometidos a su consideración por la Presidencia de la Mesa Directiva.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+### CAPITULO III. De la Modalidad Semipresencial
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 292.
+
+1. Las sesiones semipresenciales serán así citadas por la Presidencia de la Mesa Directiva, con aprobación de la Junta de Coordinación Política.
+
+2. En caso de que exista algún impedimento para que las diputadas y los diputados se reúnan o sesionen en el Recinto Legislativo, los órganos de gobierno habilitarán sedes alternas para desahogar el trabajo legislativo de manera semipresencial, con la finalidad de salvaguardar la seguridad de las y los trabajadores, empleados y funcionarios públicos de la Cámara de Diputados y asegurar el ejercicio de las funciones constitucionales, legales y reglamentarias de ésta.
+
+3. A estas sedes asistirá el personal de la Secretaría General y de la Secretaría de Servicios Parlamentarios indispensable, para atender los requerimientos técnicos suficientes para el desarrollo de las sesiones del Pleno y reuniones de comisiones, comités y demás órganos legislativos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+### CAPITULO IV. Del Orden del Día, de las Sesiones del Pleno y Votaciones
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 293.
+
+1. La Presidencia de la Mesa Directiva, atendiendo a lo establecido en el calendario de sesiones que emita la Conferencia para la Dirección y Programación de los Trabajos Legislativos, podrá convocar a sesiones semipresenciales del Pleno, con la finalidad de desahogar los asuntos enlistados en el Orden del día de las mismas.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 294.
+
+1. En el Orden del día de las sesiones, publicado en la Gaceta Parlamentaria, se encontrará el enlace para el ingreso de las diputadas y los diputados a la Plataforma Digital de videoconferencia para que participen de manera telemática. La contraseña de acceso respectiva será remitida mediante correos institucionales o la aplicación móvil que acuerden los órganos de gobierno.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 295.
+
+1. Las diputadas y los diputados podrán concurrir, de manera física o telemática, a las sesiones o reuniones del Pleno u órganos de gobierno, comisiones o comités en que participen.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 296.
+
+1. Para la conducción de las sesiones, los integrantes de la Mesa Directiva estarán presentes en el Salón de Sesiones a lo largo de toda su duración, garantizarán siempre la presencia mínima de la Presidencia, las tres Vicepresidencias y las Secretarías. Las Vicepresidencias actuarán en el orden que fueron elegidas.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 297.
+
+1. El registro de asistencia será tomado mediante el pase de lista de las diputadas y los diputados en la Plataforma Digital o los dispositivos instalados en las curules para el registro de asistencia o votación. Dicho registro se cerrará en los términos reglamentarios. La Plataforma Digital de asistencia se abrirá, al menos, noventa minutos antes de la sesión. Una vez que la Presidencia de la Mesa Directiva verifique el quórum, en los distintos sistemas electrónicos, abrirá la sesión.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 298.
+
+1. El registro de asuntos para integrar el Orden del día de las sesiones se llevará a cabo en los términos reglamentarios. Para esto, la Mesa Directiva discutirá y aprobará la propuesta que le formule la Junta de Coordinación Política para integrar el Orden del día, en términos del artículo 21 de la Ley Orgánica.
+
+2. Para facilitar la inscripción de asuntos, la misma podrá realizarse por correo electrónico en la dirección oficial de la Junta de Coordinación Política, hasta las 13:00 horas del día anterior a la sesión, a través del correo institucional de las personas acreditadas previamente por cada grupo parlamentario, ante la Junta de Coordinación Política.
+
+3. La Junta de Coordinación Política, mediante acuerdo, podrá proponer la inclusión de un asunto en el Orden del día que no se encuentre originalmente en éste, en términos del artículo 35 de la Ley Orgánica. Para ello, deberá hacer la solicitud a la Presidencia quien ordenará que el asunto se publique en la Gaceta Parlamentaria y en los monitores de las curules en forma electrónica. Posteriormente, se consultará al Pleno, en votación económica, en los términos que establece este Título, si autoriza la inclusión del asunto.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 299.
+
+1. La Presidencia de la Mesa Directiva dictará el trámite y el turno correspondiente de los asuntos listados en el Orden del día de las sesiones. Las comunicaciones se listarán en el Orden del día y solo se publicarán en la Gaceta Parlamentaria, salvo lo que determine la Mesa Directiva.
+
+2. A efecto de no extender la duración de la sesión más allá de lo estrictamente necesario, las iniciativas de ley o decreto registradas serán turnadas a las comisiones, salvo las que soliciten expresamente los grupos parlamentarios para que se mantengan en el Orden del día de la próxima sesión. La Junta de Coordinación Política podrá proponer a la Mesa Directiva que haya cuando menos una ronda para su presentación en tribuna. Las diputadas y los diputados podrán remitir por escrito sus intervenciones para su inserción en el Diario de los Debates y su difusión podrá darse a través del Canal del Congreso en los términos del Acuerdo que emita la Junta de Coordinación Política; así mismo, no se permitirán las intervenciones iniciales y finales de asuntos no registrados en el Orden del día.
+
+3. Tratándose de la discusión de los asuntos determinados en el Orden del día, las intervenciones en tribuna se ajustarán estrictamente al tiempo que otorgue la Mesa Directiva, con base en lo establecido en el presente Título; así como en los acuerdos emitidos por la Mesa Directiva o por la Conferencia para la Dirección y Programación de los Trabajos Legislativos.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 300.
+
+1. La Presidencia de la Mesa Directiva determinará, con la aprobación de la Junta de Coordinación Política, la modalidad presencial o semipresencial de la sesión.
+
+2. Los asuntos que requieran la aprobación por mayoría calificada, así como los nombramientos y ratificaciones de funcionarios que sean facultad exclusiva de la Cámara, se desahogarán en sesiones presenciales.
+
+3. Los decretos o acuerdos internos para cargos electivos de la Cámara de Diputados se desahogarán en sesiones presenciales.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 301.
+
+1. La discusión y votación de los asuntos en el Pleno se regirá bajo el siguiente procedimiento:
+
+I. Todos los proyectos de ley o de decreto que consten de un solo artículo, se podrán discutir y votar, en lo general y en lo particular, en un solo acto.
+
+II. La presidencia de la comisión dictaminadora, o quien dicho órgano determine, tendrá el uso de la palabra para fundamentar el proyecto hasta por cinco minutos.
+
+III. La fijación de postura de cada uno de los grupos parlamentarios en cada asunto, será hasta por cinco minutos, en orden creciente de acuerdo a su representatividad en la Cámara. El plazo para registrar reservas se cerrará cuando concluya la fijación de posturas por los grupos parlamentarios, salvo que se discuta un dictamen como resultado de la modificación al Orden del día, en cuyo caso, las reservas se presentarán con la debida oportunidad. En esta etapa no habrá moción de pregunta al orador. En caso de que la diputada o diputado no se encuentre físicamente en el Salón de Sesiones, la reserva que presente deberá ser firmada por el Coordinador, Coordinadora o quien sea designado para tal efecto.
+
+IV. Concluida la fijación de posturas, se abrirá la discusión en lo general con intervenciones alternadas, hasta con seis oradoras y oradores en contra y seis a favor, procurando incluir a todos los grupos parlamentarios. En caso de haber más personas registradas, se consultará a la Asamblea, en votación económica, si se considera suficientemente discutido el asunto. Si la Asamblea lo autoriza, se abrirán hasta dos rondas de tres en contra y tres a favor. La Mesa Directiva determinará el número de preguntas que se puede realizar, a quien se encuentre en uso de la palabra desde la tribuna.
+
+V. Si en alguno de los proyectos a discusión se registran reservas, la Presidencia hará el anuncio en el momento procesal oportuno y se procederá de la siguiente forma:
+
+a) Se dará la palabra al proponente de la reserva, hasta por cinco minutos, para exponer las razones que la sustenten.
+
+b) Concluida esta intervención, se consultará a la Asamblea en votación económica si se admite a discusión la reserva. Si se admite, pasará a discusión. Si se desecha, el artículo reservado se votará en términos del dictamen.
+
+c) En la discusión de la reserva, podrán hacer uso de la palabra tres oradoras y oradores en contra y tres a favor, hasta por cinco minutos. En caso de haber más personas registradas, se consultará a la Asamblea, en votación económica, conforme a los términos previstos en este Título, si la reserva está suficientemente discutida. Si la Asamblea lo autoriza, se abrirán hasta dos rondas de dos en contra y dos a favor. La Mesa Directiva determinará el número de preguntas que se puede realizar a quien esté en uso de la palabra desde la tribuna.
+
+d) Concluida la discusión de la reserva, se consultará a la Asamblea, en votación económica, si se acepta la misma. En caso afirmativo, se incorporará la reserva al texto del dictamen para su votación en lo particular. Si no se acepta, se desechará y el artículo se votará en los términos del dictamen.
+
+VI. En caso de que se abra a discusión un acuerdo de órgano de gobierno o una proposición con punto de acuerdo calificada por el Pleno de urgente u obvia resolución, el debate se realizará conforme al artículo 113 de este Reglamento y, posteriormente, se someterán a votación. Estas proposiciones se votarán en los términos previstos en el presente Título.
+
+VII. La Mesa Directiva podrá acordar la modalidad específica de debate para algún tema en particular.
+
+2. En la discusión en lo general y en lo particular de los asuntos, podrán presentarse las mociones a que se refiere el artículo 114 de este Reglamento.
+
+3. La Presidencia de la Mesa Directiva instruirá que todas las intervenciones y discursos que se remitan por escrito sean integrados, sin excepción, al Diario de los Debates de la sesión.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+### CAPITULO V. Presencia durante la Sesión
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 302.
+
+1. El quórum para abrir la sesión se alcanzará con la concurrencia de, al menos, la mitad más uno de las diputadas y los diputados integrantes de la Cámara, ya sea que registren su asistencia en el Salón de Sesiones o de manera telemática, en ambos casos a través de la Plataforma Digital establecida para tal efecto.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 303.
+
+1. En las sesiones semipresenciales, podrán asistir al Salón de Sesiones las diputadas y los diputados que así lo decidan.
+
+2. Durante la sesión, las diputadas y los diputados que concurran de manera telemática deberán mantener siempre abierto su sistema de video mientras participan en el debate. Su micrófono solo será habilitado cuando intervengan en el debate de los asuntos a discusión.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+### CAPITULO VI. De las Votaciones
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 304.
+
+1. En las sesiones semipresenciales las votaciones serán económicas y nominales.
+
+2. Se votarán de manera económica los asuntos de trámite que establece el Reglamento, así como los acuerdos de los órganos de gobierno, salvo aquellos que se establezcan en votación nominal.
+
+3. Se votarán de manera nominal los proyectos de ley o decreto.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 305.
+
+1. La votación económica se realizará consultando a las diputadas y los diputados de la Asamblea, que concurran de manera física.
+
+2. En caso de que la Secretaría de la Mesa Directiva o la Coordinación de un Grupo Parlamentario manifieste tener duda, la Presidencia de ésta solicitará que se repita la votación. Si persistiere la duda por parte de dicha Secretaría o lo solicite un Coordinador, Coordinadora o la persona que se designe para tales efectos ante la Junta de Coordinación Política, se verificará la votación de manera nominal en el tablero electrónico.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 306.
+
+1. La votación nominal se realizará de la siguiente forma:
+
+I. Se harán los avisos a los que se refiere el artículo 144, numeral 2 de este Reglamento.
+
+II. Se abrirá el Sistema Electrónico hasta por diez minutos, para que voten las diputadas y los diputados presentes en el Salón de Sesiones a través de la tableta instalada en las curules y aquellos que concurran de manera telemática a través de la Plataforma Digital.
+
+III. Transcurrido el tiempo señalado en la fracción anterior, se ordenará el cierre del sistema. Sólo procederá el voto de viva voz para las diputadas y los diputados que se encuentren en el Salón de Sesiones.
+
+IV. Realizado lo anterior, la Secretaría dará cuenta a la Presidencia del resultado de la votación y se realizará la declaración correspondiente.
+
+V. Anunciado el resultado de una votación, ésta no podrá modificarse por ningún motivo, si alguna diputada o diputado aludiera que no tuvo oportunidad de pronunciarse, la Presidencia hará mención de su presencia, a efecto de que quede constancia de su asistencia en el Diario de los Debates.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 307.
+
+1. Durante el proceso de votación se otorgarán todas las facilidades materiales que las diputadas y los diputados requieran para movilizarse hacia el Salón de Sesiones y para la emisión de la asistencia y votación en la Plataforma Digital.
+
+2. Las diputadas y los diputados, al utilizar la Plataforma Digital fuera del Recinto Legislativo, deberán asegurarse de contar con una conexión óptima a Internet, tanto para agilizar la emisión de su voto, como para concurrir a las sesiones o reuniones respectivas, según sea el caso.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+### CAPITULO VII. De la Plataforma Digital
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 308.
+
+1. La Plataforma Digital es el medio electrónico habilitado para dispositivos digitales, mediante el cual las diputadas y los diputados podrán registrar su asistencia a las sesiones del Pleno, comisiones y comités, el sentido de su voto, por medio de una validación biométrica y podrán ejercer su derecho y obligación para participar en las sesiones del Pleno, comisiones, comités y demás órganos legislativos de manera telemática.
+
+2. La Secretaría General instalará una mesa de ayuda para solucionar y atender los requerimientos de las diputadas y los diputados y éstos puedan acceder y utilizar adecuadamente la Plataforma Digital.
+
+3. En caso de falla técnica generalizada en la Plataforma Digital de videoconferencia o en la Plataforma Digital de asistencia y votación, la Presidencia de la Mesa Directiva podrá decretar un receso con la finalidad de que las áreas especializadas revisen las mismas, una vez que funcionen correctamente, se reanudará la sesión.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 309.
+
+1. La Plataforma Digital que se utilice será definida por los órganos de gobierno, a propuesta de las áreas de informática de la Cámara de Diputados, y será la Mesa Directiva quien supervise su operación y funcionamiento.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 310.
+
+1. Cada diputada y diputado tendrá asignada una cuenta institucional para acceder a la Plataforma Digital que facilite y garantice, a través de audio y video en tiempo real, la constatación de su presencia, así como el ejercicio de su derecho al uso de la palabra en los debates y al voto en las sesiones a distancia.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 311.
+
+1. La Secretaría General, en auxilio a la Mesa Directiva, brindará el apoyo técnico a través de las áreas competentes en materia de informática. Asimismo, generará las claves de acceso correspondientes para las diputadas y los diputados mismas que se les proporcionarán el día previo a cada sesión. De igual forma, proporcionará las claves de acceso al personal técnico-informático encargado de la transmisión de la sesión y demás que sea necesario para el correcto funcionamiento y operación de la Plataforma Digital empleada.
+
+2. Se implementará la utilización de una Firma Electrónica, para que las diputadas y los diputados que concurran de manera telemática signen los dictámenes y acuerdos de órganos de gobierno correspondientes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+### CAPITULO VIII. De las Reuniones de Órganos de Gobierno, Comisiones y Comités
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 312.
+
+1. Los órganos de gobierno, las comisiones ordinarias, comités y demás órganos legislativos, así como sus Juntas Directivas podrán realizar en todo momento y, a convocatoria de su respectiva Presidencia, con el acuerdo de su Junta Directiva, sus reuniones en la modalidad semipresencial, con el quórum establecido en el presente Reglamento, ya sea que las diputadas y los diputados concurran de manera física al lugar donde se cite la reunión o de forma telemática utilizando la Plataforma Digital.
+
+2. Las convocatorias a reuniones ordinarias o extraordinarias deberán publicarse en la Gaceta Parlamentaria y se remitirán por vía electrónica al correo institucional de la diputada y del diputado que conformen la comisión o comité u órgano legislativo respectivo, con la anticipación que establece el Reglamento.
+
+3. En caso de que una diputada o un diputado concurra de manera telemática, lo comunicará por vía electrónica al Presidente de la comisión o comité u órgano legislativo, para que le sea proporcionada la contraseña de acceso a la reunión por vía telemática.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 313.
+
+1. La votación de los dictámenes que se aborden en la reunión respectiva se realizará mediante firma autógrafa para las diputadas y los diputados que concurran de manera física a la misma, y mediante la Plataforma Digital para los que concurran de manera telemática, garantizando, en todo momento, la inclusión de las Firmas Electrónicas al dictamen que en cualquier sentido se vote, mismas que deberán adjuntarse al dictamen que se remita a la Mesa Directiva y se publique en la Gaceta Parlamentaria. De toda asistencia y votación la Secretaría Técnica de la comisión o comité u órgano legislativo generará un registro electrónico para debida constancia en la propuesta de acta que realice la Secretaría de la Junta Directiva.
+
+2. Las Secretarías Técnicas elaborarán un reporte de resultados de las votaciones, en donde consten los votos registrados presencialmente, los emitidos por medio de la Plataforma Digital y, en su caso, los que se emitan de viva voz, cuando ésta no se pueda utilizar por las diputadas y los diputados que concurran de manera remota, así como el sentido de cada voto. Cada asunto que se remita a la Mesa Directiva deberá contar con el mismo para poder ser procesado.
+
+3. Las Secretarías Técnicas videograbarán las reuniones, que se celebren por la Plataforma Digital de videoconferencia, a efecto de contar con un respaldo de la participación, asistencia y registro de la emisión del voto de sus integrantes y, de esta manera darle certeza jurídica a las mismas. Una copia de la videograbación se entregará a la brevedad a la Mesa Directiva, como parte del expediente del asunto legislativo correspondiente.
+
+4. En caso de que una diputada o un diputado no pueda pasar lista mediante la Plataforma Digital instalada en su teléfono móvil, inmediatamente lo hará del conocimiento de la Secretaría de la Junta Directiva, a efecto de que, con el apoyo de la Secretaría Técnica, registre su asistencia.
+
+5. La Plataforma Digital para el registro de asistencia y votación se abrirá hasta por diez minutos, para recabar las votaciones nominales.
+
+6. En caso de fallas en la Plataforma Digital, las Presidencias de las comisiones observarán lo dispuesto por el numeral 3 del artículo 308 del presente Reglamento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+### CAPITULO IX. Medidas Complementarias
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 314.
+
+1. De las sesiones semipresenciales del Pleno a distancia y los trabajos que en las mismas se desarrollen, se generarán expedientes respectivos con acta, versión estenográfica, reportes de asistencia y votaciones, testigos electrónicos, toda la documentación procesada y Diario de los Debates y, de igual forma, serán objeto de difusión y transmisión por el Canal del Congreso y los canales de comunicación de la propia Cámara.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 315.
+
+1. Los registros de asistencia, votación y participación por la Plataforma Digital se realizarán con el apoyo de las herramientas tecnológicas disponibles que atiendan mejor las necesidades de las diputadas o los diputados, el Pleno y sus órganos, siempre procurando su óptimo estado de funcionamiento.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 316.
+
+1. Cualquier situación no prevista en este Título, será resuelta por acuerdo de los órganos de gobierno, el cual será sometido a la consideración del Pleno de la Cámara.
+
 ## TRANSITORIOS
 
 Primero. El presente Reglamento entrará en vigor a partir del primero de enero de 2011.
@@ -4271,3 +4573,13 @@ D.O.F. 7 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN LOS NUMERALES 5, 6 Y 7 AL ARTÍCULO 77 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS, EN MATERIA DE INICIATIVAS CONSTITUCIONALES Y NORMAS SECUNDARIAS”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN TÍTULO DÉCIMO PRIMERO AL REGLAMENTO DE LA CÁMARA DE DIPUTADOS, EN MATERIA DE SESIONES Y REUNIONES SEMIPRESENCIALES”.]
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Reglamento para la Contingencia Sanitaria, que la Cámara de Diputados aplicará en las Sesiones Ordinarias y Extraordinarias durante el Tercer Año Legislativo de la LXIV Legislatura, publicado en el Diario Oficial de la Federación, el 2 de septiembre del 2020.
+
+Tercero. Se abroga el Reglamento que la Cámara de Diputados aplicará durante las situaciones de emergencia y la contingencia sanitaria, en las Sesiones Ordinarias y Extraordinarias durante la LXV Legislatura, publicado en el Diario Oficial de la Federación el 3 de septiembre del 2021.
