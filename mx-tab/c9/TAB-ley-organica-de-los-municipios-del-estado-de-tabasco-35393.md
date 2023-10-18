@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2021-07-21"
+last_updated: "2023-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -553,11 +553,17 @@ LVI. Proporcionar a los integrantes de pueblos o comunidades indígenas que no h
 
 LVII. Convocar a consulta popular, bajo la modalidad de plebiscito o referéndum en los términos establecidos en la Constitución Política Local y las disposiciones aplicables;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2023)</small>
 
-LVIII. Designar a los delegados, subdelegados, jefes de sector y jefes de sección de conformidad con lo establecido por el artículo 103 de la presente Ley; y
+LVIII. Designar a los delegados, subdelegados, jefes de sector y jefes de sección de conformidad con lo establecido por el artículo 103 de la presente Ley;
 
-LIX. Las demás que la Constitución federal, la particular del Estado, la presente Ley y otras disposiciones jurídicas aplicables le señalen.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2023)</small>
+
+LIX. Emitir lineamientos y/o directrices para la contratación de servicios u obra pública que abonen al desarrollo sustentable y la mitigación del cambio climático, alineados a la política nacional y estatal en materia de cambio climático; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE OCTUBRE DE 2023)</small>
+
+LX. Las demás que la Constitución federal, la particular del Estado, la presente Ley y otras disposiciones jurídicas aplicables le señalen.
 
 ### CAPÍTULO IV. Facultades y Obligaciones de los Ayuntamientos en Materia Indígena
 
@@ -4014,3 +4020,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
 
 TERCERO. Los delegados, subdelegados, jefes de sector y jefes de sección que fueron electos para el período 2019-2022, concluirán sus cargos conforme al período para el cual fueron electos, y una vez concluidos entrarán en funciones los delegados y subdelegados designados conforme al artículo 103 que se reforma mediante el presente Decreto.
+
+P.O. 18 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 171 POR EL QUE “SE REFORMA EL ARTÍCULO 29, FRACCIONES LVIII Y LIX; Y SE ADICIONA LA FRACCIÓN LX, AL ARTÍCULO 29 DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los Concejos Municipales o Ayuntamientos de los municipios del Estado de Tabasco, dentro de un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, realizarán las adecuaciones reglamentarias y administrativas conducentes para dar cumplimiento a lo establecido en el Decreto.
