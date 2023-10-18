@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-instituto-de-credito-para-los-trabajadores-al-6640"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-04"
-last_updated: "2022-07-06"
+last_updated: "2023-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL INSTITUTO DE CRÉDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -423,11 +423,15 @@ XI. Ordenar visitas de verificación a fin de comprobar, mediante la exhibición
 
 XII. Determinar la cantidad que, por concepto de cuota o aportación, el ente obligado no haya enterado al Instituto respecto de sus afiliados, cuando reporte ingresos diversos a los reales;
 
-> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2023)</small>
 
-XIII. Analizar el resultado de los estudios actuariales y proponer al Consejo Directivo, las modificaciones estructurales y administrativas necesarias, y
+XIII. Analizar el resultado de los estudios actuariales y proponer al Consejo Directivo, las modificaciones estructurales y administrativas necesarias; y,
 
 XIV. Determinar las medidas necesarias para asegurar que los afiliados, acreditados y entes obligados cumplan las obligaciones y se respeten sus derechos establecidos en la presente Ley, su Reglamento y demás normativa aplicable.
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2023)</small>
+
+XV. Presentar denuncias, formular querellas, así como ejercitar y desistirse de acciones judiciales aún las del juicio de amparo y formular y absolver posiciones, en contra de los entes obligados que no enteren las cuotas al referido instituto, dentro del término establecido; pudiendo delegarla mediante oficio a la persona o personas que resulten necesarias, dando cuenta del ejercicio de esta facultad al Consejo Directivo. Debiendo ejecutar de conformidad con los procedimientos establecidos por la normativa interna aplicable.
 
 > <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
 
@@ -1016,3 +1020,15 @@ CUARTA. En el caso de la existencia previa de una declaratoria por presunción d
 QUINTA. Las personas titulares del Tribunal Superior de Justicia del Estado de Morelos, el Poder Ejecutivo del Estado de Morelos, así como de los organismos autónomos a los que se refiere esta ley, contarán con un plazo de 180 días para adecuar las disposiciones reglamentarias que correspondan, a efecto de cumplir y armonizarlas con las disposiciones contenidas en la presente ley.
 
 SEXTA. Todas las autoridades que intervienen en la aplicación de la presente ley deberán capacitarse conforme a este procedimiento de Declaración Especial de Ausencia, para garantizar de manera adecuada una protección eficaz del derecho.
+
+P.O. 18 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS VEINTINUEVE.- POR EL QUE SE ADICIONA UNA FRACCIÓN XV AL ARTÍCULO 18 DE LA LEY DEL INSTITUTO DE CRÉDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad” órgano de difusión del Gobierno del Estado de Morelos.
