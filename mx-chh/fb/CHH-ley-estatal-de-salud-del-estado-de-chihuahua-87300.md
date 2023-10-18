@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2023-07-29"
+last_updated: "2023-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2023.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -835,9 +835,9 @@ La salud reproductiva, en sus actividades, debe incluir la información y orient
 
 La atención materno-infantil comprende las siguientes acciones:
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2023)</small>
 
-I.- La atención a la mujer en edad reproductiva previo al embarazo, durante el embarazo, el parto y el puerperio, que (sic) será prioritaria, y el Estado, a través de las instituciones públicas de salud, llevará a cabo las acciones para cumplir con este derecho fundamental.
+I.- La atención integral y multidisciplinaria a la mujer en edad reproductiva previo al embarazo, durante el embarazo, el parto y el puerperio, que será prioritaria, incluyendo en los casos de muerte perinatal o neonatal, y el Estado a través de las instituciones públicas de salud, llevará a cabo las acciones para cumplir con este derecho fundamental.
 
 II.- La atención del niño y la vigilancia de su crecimiento y desarrollo.
 
@@ -867,9 +867,15 @@ VII.- Fomentar que en los hospitales públicos y privados que presten servicios 
 
 La Secretaría impulsará la participación de los sectores social y privado, así como de la sociedad en general, para el fortalecimiento de los servicios de salud en materia de atención materno-infantil, así como de lactancia materna, para tal efecto, promoverá la creación de redes de apoyo, con la finalidad de facilitar el acceso de las familias a información en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 68.
 
-En los servicios de salud se promoverá la organización institucional de comités de prevención de la morbi-mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
+En los servicios de salud se promoverá la organización institucional de comités de prevención de la morbi-mortalidad materna, perinatal, neonatal e infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2023)</small>
+
+Así mismo, se proporcionará capacitación al personal de salud, respecto de los protocolos de atención específicos para las madres y padres en caso de muerte perinatal o neonatal.
 
 ###### Artículo 69.
 
@@ -882,6 +888,10 @@ En la organización y operación de los servicios de salud destinados a la atenc
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2021)</small>
 
 Asimismo, se establecerán acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, con el objeto de que la leche materna sea alimento preponderante durante los primeros seis meses, y complementario hasta avanzado el segundo año de vida, además, se impulsará la instalación de lactarios en los centros de trabajo de los sectores público y privado.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2023)</small>
+
+En los casos de muerte perinatal o neonatal, se implementará un protocolo de atención específico para las madres y padres de familia, además de un seguimiento psicológico para favorecer su recuperación emocional. Así mismo, se procurará contar con un área específica para la recuperación de las madres en duelo gestacional, durante su estancia hospitalaria.
 
 ###### Artículo 71.
 
@@ -1085,7 +1095,9 @@ Las personas, agrupaciones, asociaciones y las dependencias e instituciones que 
 
 La Secretaría fomentará la recuperación y valoración de las prácticas y conocimientos de la cultura y tradiciones de los pueblos y comunidades, relacionados con la protección a la salud, para lo cual:
 
-I.- Establecerá programas de capacitación de las prácticas y conocimientos tradicionales, cuando sean comprobados científicamente.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2023)</small>
+
+I.- Establecerá programas de capacitación intercultural de las prácticas y conocimientos tradicionales, cuando sean comprobados científicamente.
 
 II.- Dará seguimiento a la aplicación de las prácticas y conocimientos tradicionales para el cuidado de la salud en los pueblos y comunidades.
 
@@ -4050,6 +4062,22 @@ El Ejecutivo Estatal deberá emitir las disposiciones reglamentarias y Normas T�
 P.O. 29 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFLEY/0571/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD MENTAL DEL ESTADO DE CHIHUAHUA, LEY ESTATAL DE SALUD Y LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVII/RFLEY/0602/2023 XI P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 88, FRACCIÓN I, DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0611/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD”.]
 
 ###### ARTÍCULO ÚNICO.
 
