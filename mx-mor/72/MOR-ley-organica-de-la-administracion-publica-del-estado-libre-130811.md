@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-libre-1308
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-10-04"
-last_updated: "2021-09-09"
+last_updated: "2023-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el jueves 4 de octubre de 2018.
 
@@ -335,7 +335,7 @@ XV. Promover que la gestión de las Secretarías, Dependencias y Entidades de la
 
 XVI. Proponer al Gobernador del Estado las políticas en materia de comunicación e imagen en el Estado;
 
-XVII. Administrar y operar las concesiones y licencias que sobre operación y explotación de medios masivos de comunicación obtenga el Poder Ejecutivo;
+XVII. (DEROGADA, P.O. 18 DE OCTUBRE DE 2023)
 
 XVIII. Diseñar y planear estrategias y campañas integrales de comunicación social e imagen;
 
@@ -345,11 +345,15 @@ XX. Supervisar y autorizar la elaboración de materiales gráficos de difusión 
 
 XXI. Coordinarse en la organización de las giras y eventos especiales del Gobernador del Estado;
 
-XXII. Promover y difundir eventos deportivos, recreativos y sociales en el Estado, en coordinación con los programados por otras unidades administrativas;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2023)</small>
+
+XXII. Promover y difundir eventos deportivos, recreativos y sociales en el estado, en coordinación con los programados por otras unidades administrativas, sin perjuicio del ámbito de competencia del Instituto Morelense de Radio y Televisión;
 
 XXIII. Planear y dirigir las campañas de difusión estatal y la política editorial que apruebe el Gobernador del Estado;
 
-XXIV. Participar en la impresión y reproducción de materiales educativos, libros, boletines, folletos, audiovisuales y cualquier otro instrumento análogo requerido por la administración pública estatal, en los términos legales respectivos;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2023)</small>
+
+XXIV. Participar conforme a la normativa aplicable en la impresión y reproducción de materiales educativos, libros, boletines, folletos, audiovisuales y cualquier otro instrumento análogo requerido por la administración pública estatal, en medios diversos al Instituto Morelense de Radio y Televisión;
 
 XXV. Realizar acciones de divulgación para posicionar la imagen institucional de los Poderes del Estado y los ayuntamientos, así como establecer una relación fluida y transparente con los medios de comunicación;
 
@@ -989,9 +993,17 @@ XLII. Proporcionar, en coordinación con los Municipios, información y orientac
 
 XLIII. Establecer y operar un sistema de atención de quejas del turista;
 
-XLIV. Apoyar y estimular la formación de asociaciones, patronatos, comités y demás organismos que auspicien el turismo social y de personas con algún tipo de discapacidad; o bien para apoyar los proyectos turísticos en el medio rural, y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2023)</small>
 
-XLV. Proponer estrategias y líneas de acción orientadas al cumplimiento de los objetivos de las entidades que le estén sectorizadas, así como vigilar, controlar y proponer en relación con los asuntos encomendados a las mismas.
+XLIV. Apoyar y estimular la formación de asociaciones, patronatos, comités y demás organismos que auspicien el turismo social y de personas con algún tipo de discapacidad; o bien para apoyar los proyectos turísticos en el medio rural;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2023)</small>
+
+XLV. Proponer estrategias y líneas de acción orientadas al cumplimiento de los objetivos de las entidades que le estén sectorizadas, así como vigilar, controlar y proponer en relación con los asuntos encomendados a las mismas; y,
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2023)</small>
+
+XLVI. Coordinar la prestación del servicio de radiodifusión concesionado al estado, observando los principios y objetivos que establece la constitución y demás normativa de la materia.
 
 ###### Artículo 32.
 
@@ -1962,5 +1974,15 @@ La Junta Local de Conciliación y Arbitraje del Estado de Morelos durante el tie
 DÉCIMA. El Poder Ejecutivo Estatal deberá realizar los actos jurídicos y administrativos necesarios e idóneos, para dotar de los recursos humanos, materiales y financieros que resulten necesarios para el cumplimiento del objeto del Centro de Conciliación Laboral, conforme a la suficiencia presupuestal correspondiente.
 
 DÉCIMA PRIMERA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al contenido del presente Decreto.
+
+P.O. 18 DE OCTUBRE DE 2023.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO MIL CUATROCIENTOS VEINTE POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS”.]</small>
+
+PRIMERA. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente decreto.
+
+TERCERA. El titular del Poder Ejecutivo estatal en un plazo de 90 días hábiles deberá en su caso efectuar las reformas que derivan del presente instrumento al Decreto por el que se adecúa la naturaleza jurídica, estructura orgánica y funciones del Sistema Morelense de Radio y Televisión, para establecerse como organismo público descentralizado denominado Instituto Morelense de Radio y Televisión, publicado en el Periódico Oficial “Tierra y Libertad”, número 5088 el 08 de mayo de 2013.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 146, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA”.]
