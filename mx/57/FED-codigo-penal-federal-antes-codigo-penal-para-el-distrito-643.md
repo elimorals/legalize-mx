@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2023-05-08"
+last_updated: "2023-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -27,7 +27,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE OCTUBRE DE 2023.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -1593,15 +1593,17 @@ Cuando la ley no prevenga otra cosa, la acción penal que nazca de un delito que
 
 Pero una vez llenado el requisito de procedibilidad dentro del plazo antes mencionado, la prescripción seguirá corriendo según las reglas para los delitos perseguibles de oficio.
 
-> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
 
-ARTICULO 107 bis.- El término de prescripción de los delitos previstos en el Título Octavo del Libro Segundo de este Código cometidos en contra de una víctima menor de edad, comenzará a correr a partir de que ésta cumpla la mayoría de edad.
+ARTICULO 107 bis.- El término de prescripción de los delitos previstos en el Título Octavo del Libro Segundo de este Código cometidos en contra de una víctima persona menor de dieciocho años, comenzará a correr a partir de que ésta cumpla la mayoría de edad, con excepción de los delitos previstos en los artículos 200, 201, 202, 203, 203 Bis, 204 y 209 Bis de este Código, que serán imprescriptibles.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
 En el caso de aquellas personas que no tengan la capacidad de comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, correrá a partir del momento en que exista evidencia de la comisión de esos delitos ante el Ministerio Público.
 
-> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
 
-En los casos de los delitos contra la libertad y el normal desarrollo psicosexual, así como los previstos en la Ley para prevenir y sancionar la Trata de Personas, que hubiesen sido cometidos en contra de una persona menor de dieciocho años de edad, se observarán las reglas para la prescripción de la acción penal contenidas en este capítulo, pero el inicio del cómputo de los plazos comenzará a partir del día en que la víctima cumpla la mayoría de edad.
+En los casos de los delitos contra la libertad y el normal desarrollo psicosexual, así como los previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, que hubiesen sido cometidos en contra de una persona menor de dieciocho años de edad, se observarán las reglas para la prescripción de la acción penal contenidas en este capítulo, pero el inicio del cómputo de los plazos comenzará a partir del día en que la víctima cumpla la mayoría de edad, con excepción de los delitos previstos en los artículos 261, 262 y 266 de este Código, que serán imprescriptibles.
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
@@ -3041,11 +3043,11 @@ Al responsable de este delito se le impondrá prisión de ocho a quince años y 
 
 (DEROGADO, D.O.F. 27 DE NOVIEMBRE DE 2007)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 205
 
-bis. Serán imprescriptibles las sanciones señaladas en los artículos 200, 201, 204 y 209 Quáter. Asimismo, las sanciones señaladas en dichos artículos se aumentarán al doble de la que corresponda cuando el autor tuviere para con la víctima, alguna de las siguientes relaciones:
+bis. Serán imprescriptibles las sanciones señaladas en los artículos 200, 201, 202, 203, 203 Bis, 204 y 209 Bis de este Código. Asimismo, las sanciones señaladas en dichos artículos se aumentarán al doble de la que corresponda cuando el autor tuviere para con la víctima, alguna de las siguientes relaciones:
 
 > <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2007)</small>
 
@@ -3091,9 +3093,9 @@ j) Quien esté ligado con la víctima por un lazo afectivo o de amistad, de grat
 
 En los casos de los incisos a), b), c) y d) además de las sanciones señaladas, los autores del delito perderán la patria potestad, tutela o curatela, según sea el caso, respecto de todos sus descendientes, el derecho a alimentos que pudiera corresponderle por su relación con la víctima y el derecho que pudiera tener respecto de los bienes de ésta.
 
-> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
 
-En los casos de los incisos e), f) y h) además de las sanciones señaladas, se castigará con destitución e inhabilitación para desempeñar el cargo o comisión o cualquiera otro de carácter público o similar, hasta por un tiempo igual a la pena impuesta.
+En los casos de los incisos e), f) y h) si la persona activa del delito fuere servidora o servidor público o ministra o ministro de culto religioso, además de las sanciones señaladas, se castigará con destitución e inhabilitación para desempeñar el cargo o comisión o cualquiera otro de carácter público o similar, hasta por un tiempo igual a la pena impuesta.
 
 > <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2007)</small>
 
@@ -4709,11 +4711,13 @@ También se considera abuso sexual cuando se obligue a la víctima a observar un
 
 Si se hiciera uso de violencia, física o psicológica, la pena se aumentará en una mitad más en su mínimo y máximo.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 261.
 
-A quien cometa el delito de abuso sexual en una persona menor de quince años de edad o en persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de seis a trece años de prisión y hasta quinientos días multa.
+A quien cometa el delito de abuso sexual en una persona menor de dieciocho años de edad o en persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de seis a trece años de prisión y hasta quinientos días multa.
+
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2012)</small>
 
 Si se hiciera uso de violencia, la pena se aumentará en una mitad más en su mínimo y máximo.
 
@@ -4759,17 +4763,17 @@ Este delito se perseguirá por querella de parte ofendida.
 
 Se equipara a la violación y se sancionará de ocho a treinta años de prisión:
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2023)</small>
 
-I.- Al que sin violencia realice cópula con persona menor de quince años de edad;
+I.- Al que sin violencia realice cópula con persona menor de dieciocho años de edad;
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
 II.- Al que sin violencia realice cópula con persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo; y
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2023)</small>
 
-III.- Al que sin violencia y con fines lascivos introduzca por vía anal o vaginal cualquier elemento o instrumento distinto del miembro viril en una persona menor de quince años de edad o persona que no tenga capacidad de comprender el significado del hecho, o por cualquier causa no pueda resistirlo, sea cual fuere el sexo de la víctima.
+III.- Al que sin violencia y con fines lascivos introduzca por vía anal o vaginal cualquier elemento o instrumento distinto del miembro viril en una persona menor de dieciocho años de edad o persona que no tenga capacidad de comprender el significado del hecho, o por cualquier causa no pueda resistirlo, sea cual fuere el sexo de la víctima.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
@@ -4790,6 +4794,10 @@ IV.- El delito fuere cometido por la persona que tiene al ofendido bajo su custo
 > <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2018)</small>
 
 V. El delito fuere cometido previa suministración de estupefacientes o psicotrópicos a la víctima, en contra de su voluntad o sin su conocimiento.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 266 TER.- Serán imprescriptibles las sanciones señaladas en los artículos 261, 262 y 266 de este Código.
 
 > <small>(DEROGADA SU DENOMINACIÓN, D.O.F. 21 DE ENERO DE 1991)</small>
 
@@ -8518,3 +8526,11 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
 
 Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto en el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+D.O.F. 18 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL FEDERAL, EN MATERIA DE IMPRESCRIPTIBILIDAD DEL EJERCICIO DE LA ACCIÓN PENAL Y DE SANCIONES DE LOS DELITOS SEXUALES COMETIDOS CONTRA PERSONAS MENORES DE DIECIOCHO AÑOS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
