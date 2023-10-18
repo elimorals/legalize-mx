@@ -4,7 +4,7 @@ identifier: "LGCFD"
 country: "mx"
 rank: "ley_general"
 publication_date: "2013-06-07"
-last_updated: "2022-12-20"
+last_updated: "2023-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94515&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCFD"
 
 LEY GENERAL DE CULTURA FÍSICA Y DEPORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE OCTUBRE DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de junio de 2013.
 
@@ -112,13 +112,17 @@ X. El desarrollo y la práctica del deporte debe realizarse observando sus bases
 
 XI. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte;
 
-> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2023)</small>
 
-XII. La existencia de una adecuada cooperación a nivel internacional es necesaria para el desarrollo equilibrado y universal de la cultura física y deporte, y
+XII. La existencia de una adecuada cooperación a nivel internacional es necesaria para el desarrollo equilibrado y universal de la cultura física y deporte;
 
-> <small>(ADICIONADA, D.O.F. 25 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2023)</small>
 
-XIII. Fomentar actitudes solidarias, propiciar la cultura de paz, de la legalidad y la no violencia en cualquier tipo de sus manifestaciones.
+XIII. Fomentar actitudes solidarias, propiciar la cultura de paz, de la legalidad y la no violencia en cualquier tipo de sus manifestaciones, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2023)</small>
+
+XIV. La igualdad sustantiva entre mujeres y hombres y la no discriminación por razón de género.
 
 ###### Artículo 4.
 
@@ -2211,3 +2215,9 @@ D.O.F. 20 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 13 DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 3 DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
