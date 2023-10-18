@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-rural-integral-sustentable-para-el-estado-877
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-17"
-last_updated: "2023-02-08"
+last_updated: "2023-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2023.
 
 Ley publicada en Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 17 de marzo de 2012.
 
@@ -87,6 +87,14 @@ VI. Promover e impulsar programas y acciones que favorezcan a la agricultura, so
 
 VII. Implementar acciones que incentiven, contribuyan y fomenten que los productos que se originan dentro del Estado, sean preferidos en su consumo por la población de la Entidad, para lo cual se deberán establecer vínculos comerciales y estratégicos tendentes a lograr este objetivo.
 
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2023)</small>
+
+VIII. Preservar y fomentar la producción de pesticidas, abonos y demás productos orgánicos y de origen natural para favorecer la agricultura, así como los cultivos básicos producidos de manera tradicional.
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2023)</small>
+
+IX. Preservar, reconocer y fomentar las prácticas de cultivo tradicionales, respetando al medio ambiente.
+
 ###### Artículo 6.
 
 Para los efectos de esta Ley se entenderá por:
@@ -100,6 +108,10 @@ III. Administración de Riesgos. Es el proceso realizado por la Secretaría, con
 IV. Agentes de la Sociedad Rural. Personas físicas o morales del sector social y privado que participan de forma directa en el desarrollo económico y social de las comunidades rurales del Estado.
 
 V. Alimentos Básicos y Estratégicos. Respectivamente, aquellos así calificados por su importancia en la alimentación de la mayoría de la población o por su relevancia en la economía de los productores del campo o de la industria.
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2023)</small>
+
+V Bis. Agricultura o cultivo tradicional: Prácticas de manejo que han evolucionado a lo largo de los siglos para crear métodos agrícolas adaptados al medio ambiente local y a las condiciones culturales.
 
 VI. Arbitraje. Procedimiento en virtud del cual un tercero imparcial y capacitado, denominado el mediador, facilita a los participantes en una disputa a comunicarse adecuadamente, y promueve la negociación entre ellos con el fin de lograr una solución parcial o total aceptable a las partes involucradas en el conflicto.
 
@@ -289,9 +301,13 @@ XXIV. Coadyuvar, en coordinación con las autoridades competentes y los producto
 
 XXV. Coadyuvar con las autoridades competentes en materia de sanidad animal y vegetal.
 
-> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2023)</small>
 
-XXVI. Las demás que la presente Ley y otros ordenamientos legales aplicables señalen.
+XXVI. Incentivar la práctica de agricultura o cultivo tradicional que respete al medio ambiente, atendiendo a la viabilidad de acuerdo con las zonas de producción de pequeños productores y productoras, autoconsumo y subsistencia.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE OCTUBRE DE 2023)</small>
+
+XXVII. Las demás que la presente Ley y otros ordenamientos legales aplicables señalen.
 
 > <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
 
@@ -317,7 +333,13 @@ VIII. Incentivar la realización de estudios técnicos que permitan conocer las 
 
 IX. Celebrar acuerdos y convenios de coordinación, cooperación y concertación con los Órdenes de Gobierno e Instituciones de toda índole, en materia de desarrollo rural sustentable.
 
-X. Las demás que conforme a esta Ley y su Reglamento, le correspondan.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2023)</small>
+
+X. Impulsar la producción agrícola o cultivo tradicional con métodos productivos de acuerdo a las zonas geográficas, sociales, económicas y culturales.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE OCTUBRE DE 2023)</small>
+
+XI. Las demás que conforme a esta Ley y su Reglamento le correspondan.
 
 ###### Artículo 11.
 
@@ -410,6 +432,10 @@ XVIII. Impulso a los programas de protección civil para la prevención, auxilio
 XIX. Impulso a proyectos estratégicos.
 
 XX. Fortalecimiento y apoyo a los programas y acciones implementados por los municipios en el sector rural.
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2023)</small>
+
+XXI. El fomento a la investigación, capacitación, difusión y aplicación de las prácticas de agricultura o cultivo tradicional de acuerdo con las zonas geográficas, sociales, económicas y culturales.
 
 ###### Artículo 19.
 
@@ -1798,5 +1824,13 @@ P.O. 8 DE FEBRERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. LXVII/RFLEY/0335/2022 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 5, LA FRACCIÓN VII, DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE PARA EL ESTADO DE CHIHUAHUA".]
 
 ###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0612/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
