@@ -4,7 +4,7 @@ identifier: "LGDLPI"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-03-13"
-last_updated: "2022-04-28"
+last_updated: "2023-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29246&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDLPI"
 
 LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE OCTUBRE DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 13 de marzo de 2003.
 
@@ -158,9 +158,9 @@ XIII. Establecer políticas, acciones y vías para proteger y preservar el uso d
 
 XIV. Propiciar y fomentar que los hablantes de las lenguas indígenas nacionales participen en las políticas que promuevan los estudios que se realicen en los diversos órdenes de gobierno, espacios académicos y de investigación, y
 
-> <small>(ADICIONADA, D.O.F. 6 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2023)</small>
 
-XV. Instrumentar las medidas necesarias para que en los municipios indígenas del país, las señales informativas de nomenclatura oficial así como sus topónimos, sean inscritos en español y en las lenguas originarias de uso en el territorio.
+XV. Instrumentar las medidas necesarias para que en los municipios en donde al menos un 20% de la población hable una lengua indígena, las señales informativas de nomenclatura oficial, así como sus topónimos, sean inscritos en español y en las lenguas indígenas de uso en el territorio.
 
 ### Capítulo IV. DEL INSTITUTO NACIONAL DE LENGUAS INDÍGENAS
 
@@ -383,3 +383,9 @@ Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que 
 Tercero. El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
 
 Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+D.O.F. 18 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 13 DE LA LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
