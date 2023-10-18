@@ -4,7 +4,7 @@ identifier: "FED-reglamento-que-la-camara-de-diputados-aplicara-durante-las-1509
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-09-03"
-last_updated: "2021-09-03"
+last_updated: "2023-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150945&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2021-09-01"
 ---
 # REGLAMENTO QUE LA CAMARA DE DIPUTADOS APLICARA DURANTE LAS SITUACIONES DE EMERGENCIA Y LA CONTINGENCIA SANITARIA EN LAS SESIONES ORDINARIAS Y EXTRAORDINARIAS DURANTE LA LXV LEGISLATURA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE ADICIONA UN TÍTULO DÉCIMO PRIMERO AL REGLAMENTO DE LA CÁMARA DE DIPUTADOS, EN MATERIA DE SESIONES Y REUNIONES SEMIPRESENCIALES, PUBLICADO EN EL D.O.F. DE 18 DE OCTUBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO QUE LA CÁMARA DE DIPUTADOS APLICARÁ DURANTE LAS SITUACIONES DE EMERGENCIA Y LA CONTINGENCIA SANITARIA EN LAS SESIONES ORDINARIAS Y EXTRAORDINARIAS DURANTE LA LXV LEGISLATURA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE OCTUBRE DE 2023 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 3 de septiembre de 2021.
 
@@ -322,3 +324,15 @@ Primero. El presente Reglamento entrará en vigor el día de su publicación en 
 Segundo. En caso de ser necesario y considerando la gravedad de la situación de emergencia, la Mesa Directiva y la Junta de Coordinación Política, podrán suscribir acuerdos relativos a la suspensión de plazos y términos legales señalados en la normatividad de esta Soberanía.
 
 SALÓN DE SESIONES DE LA CÁMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNIÓN.- Ciudad de México, a 1 de septiembre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 18 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN TÍTULO DÉCIMO PRIMERO AL REGLAMENTO DE LA CÁMARA DE DIPUTADOS, EN MATERIA DE SESIONES Y REUNIONES SEMIPRESENCIALES”.]
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Reglamento para la Contingencia Sanitaria, que la Cámara de Diputados aplicará en las Sesiones Ordinarias y Extraordinarias durante el Tercer Año Legislativo de la LXIV Legislatura, publicado en el Diario Oficial de la Federación, el 2 de septiembre del 2020.
+
+Tercero. Se abroga el Reglamento que la Cámara de Diputados aplicará durante las situaciones de emergencia y la contingencia sanitaria, en las Sesiones Ordinarias y Extraordinarias durante la LXV Legislatura, publicado en el Diario Oficial de la Federación el 3 de septiembre del 2021.
