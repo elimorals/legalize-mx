@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2023-05-15"
+last_updated: "2023-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NAY"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE FEBRERO DE 2024 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -3461,13 +3463,17 @@ Las visitas ocasionales o intermitentes, no interrumpen el término de referenci
 
 VII.- Por la entrega que hagan los padres al sistema para el Desarrollo Integral de la Familia del Estado de Nayarit a través del Consejo Estatal de Adopciones o a una institución de asistencia privada legalmente autorizada para ello, para que sean dados en adopción, conforme al procedimiento fijado por el Código de Procedimientos Civiles;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2023)</small>
 
-VIII.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor de edad, y
+VIII. Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor de edad;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2023)</small>
 
-IX.- Cuando el que la ejerza incurra en actos de violencia familiar, castigo corporal y humillante en contra del menor de edad en grado suficiente para determinar la pérdida de tal derecho.
+IX. Cuando el que la ejerza incurra en actos de violencia familiar, castigo corporal y humillante en contra del menor de edad en grado suficiente para determinar la pérdida de tal derecho, y
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2023)</small>
+
+X. Cuando el que la ejerza sea condenado por sentencia firme por el delito de feminicidio cometido en contra de la madre de las niñas, niños y adolescentes sujetos a la patria potestad, así como por el delito de violación en contra de cualquiera de ellos.
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
@@ -3511,17 +3517,21 @@ III. Sentencia condenatoria que la imponga como pena;
 
 IV. Incumplimiento de obligaciones alimentarias por más de noventa días sin causa justificada; suspensión que quedará sin efecto, cuando se acredite ante el juez, que se ha regularizado el cumplimiento de dicha obligación, debiendo hacer además un depósito igual a las mensualidades que incumplió;
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2023)</small>
 
-V. La realización de actos de manipulación hacia los hijos que impidan, menoscaben o destruyan los vínculos afectivos con el otro ascendiente, o
+V. La realización de actos de manipulación hacia los hijos que impidan, menoscaben o destruyan los vínculos afectivos con el otro ascendiente;
 
 > <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 VI. No permitir que se lleven a cabo las convivencias decretadas por autoridad competente o en convenio aprobado judicialmente.
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, P.O. 2 DE DICIEMBRE DE 2022]</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2023)</small>
 
-En consecuencia, el juzgador ordenará a través de medida cautelar o en sentencia definitiva el cambio de la guardia y custodia de los menores a cargo de quien comparta la patria potestad, considerando la opinión de la o el menor, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+En consecuencia, el juzgador ordenará a través de medida cautelar o en sentencia definitiva el cambio de la guardia y custodia de los menores a cargo de quien comparta la patria potestad, considerando la opinión de la o el menor, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, y
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2023)</small>
+
+VII. Cuando exista auto de vinculación a proceso dictado por el delito de violación o feminicidio en el que la víctima sea la madre de las niñas, niños o adolescentes sujetos a patria potestad, siempre que a consideración fundada y motivada del juez se ponga en peligro su integridad física y emocional.
 
 ###### Artículo 440.
 
@@ -16818,3 +16828,9 @@ Segundo. La Ley de Ingresos para el Estado Libre y Soberano de Nayarit, para el 
 Tercero. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán su despacho de conformidad con las disposiciones vigentes al momento de su inicio.
 
 Cuarto. Se derogan todas aquellas disposiciones que se contrapongan a lo establecido en el presente Decreto.
+
+P.O. 18 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT, EN MATERIA DE PÉRDIDA Y SUSPENSIÓN DE PATRIA POTESTAD".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
