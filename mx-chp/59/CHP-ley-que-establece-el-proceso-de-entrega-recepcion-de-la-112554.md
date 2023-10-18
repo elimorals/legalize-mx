@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-el-proceso-de-entrega-recepcion-de-la-112554"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2015-12-31"
+last_updated: "2023-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY QUE ESTABLECE EL PROCESO DE ENTREGA RECEPCION DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE ESTABLECE EL PROCESO DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 18 DE OCTUBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE ESTABLECE EL PROCESO DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2023 (ABROGADA).
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el jueves 31 de diciembre de 2015.
 
@@ -614,3 +616,21 @@ Dado en el Salón de Sesiones del Honorable Congreso del Estado Libre y Soberano
 De conformidad con la fracción I del artículo 44 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas, a los 22 días del mes de diciembre del año dos mil quince.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 007 LEY QUE ESTABLECE EL PROCESO DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga la Ley que establece el Proceso de Entrega Recepción de la Administración Pública del Estado de Chiapas, publicada mediante Decreto número 049, en el Periódico Oficial 217, Tercera Sección, de fecha 31 de diciembre de 2015.
+
+Artículo Tercero.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+Artículo Cuarto.- En caso de existir controversias o situaciones no previstas en la presente Ley, el titular del Órgano Estatal de Control resolverá lo conducente.
+
+Artículo Quinto.- Los procedimientos y recursos administrativos que actualmente se encuentren en trámite, se seguirán llevando a cabo hasta su total conclusión por las autoridades y disposiciones vigentes, con anterioridad a la entrada en vigor de la presente Ley.
+
+Artículo Sexto.- Los Organismos Públicos, en el ámbito de sus atribuciones, coadyuvarán en las acciones que resulten necesarias para su debido cumplimento.
