@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-contingencia-sanitaria-que-la-camara-de-1439
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-09-02"
-last_updated: "2020-09-02"
+last_updated: "2023-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143975&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2020-09-01"
 ---
 # REGLAMENTO PARA LA CONTINGENCIA SANITARIA QUE LA CAMARA DE DIPUTADOS APLICARA EN LAS SESIONES ORDINARIAS Y EXTRAORDINARIAS DURANTE EL TERCER AÑO LEGISLATIVO DE LA LXIV LEGISLATURA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS, EN MATERIA DE SESIONES Y REUNIONES SEMIPRESENCIALES, PUBLICADO EN EL D.O.F. DE 18 DE OCTUBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE ADICIONA UN TÍTULO DÉCIMO PRIMERO AL REGLAMENTO DE LA CÁMARA DE DIPUTADOS, EN MATERIA DE SESIONES Y REUNIONES SEMIPRESENCIALES, PUBLICADO EN EL D.O.F. DE 18 DE OCTUBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO PARA LA CONTINGENCIA SANITARIA QUE LA CÁMARA DE DIPUTADOS APLICARÁ EN LAS SESIONES ORDINARIAS Y EXTRAORDINARIAS DURANTE EL TERCER AÑO LEGISLATIVO DE LA LXIV LEGISLATURA.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE OCTUBRE DE 2023 (ABROGADO).
 
 Reglamento publicado en la Edición Vespertina del Número 4 del Diario Oficial de la Federación, el miércoles 2 de septiembre de 2020.
 
@@ -320,3 +320,15 @@ Primero. El presente Reglamento entrará en vigor el día de su publicación en 
 Segundo. La Mesa Directiva y la Junta de Coordinación Política propondrán al Pleno un acuerdo para determinar los plazos suspendidos a causa de la contingencia que deberán reanudarse.
 
 SALÓN DE SESIONES DE LA CÁMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNIÓN.- Ciudad de México, a 1 de septiembre de 2020.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Rúbrica.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 18 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN TÍTULO DÉCIMO PRIMERO AL REGLAMENTO DE LA CÁMARA DE DIPUTADOS, EN MATERIA DE SESIONES Y REUNIONES SEMIPRESENCIALES”.]
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Reglamento para la Contingencia Sanitaria, que la Cámara de Diputados aplicará en las Sesiones Ordinarias y Extraordinarias durante el Tercer Año Legislativo de la LXIV Legislatura, publicado en el Diario Oficial de la Federación, el 2 de septiembre del 2020.
+
+Tercero. Se abroga el Reglamento que la Cámara de Diputados aplicará durante las situaciones de emergencia y la contingencia sanitaria, en las Sesiones Ordinarias y Extraordinarias durante la LXV Legislatura, publicado en el Diario Oficial de la Federación el 3 de septiembre del 2021.
