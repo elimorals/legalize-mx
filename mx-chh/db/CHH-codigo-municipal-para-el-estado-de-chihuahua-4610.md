@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2023-10-11"
+last_updated: "2023-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2023.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -651,9 +651,11 @@ Las sesiones de los Ayuntamientos serán presididas por la persona titular de la
 
 El recinto del Ayuntamiento es inviolable. Toda fuerza pública, está impedida para tener acceso al mismo, salvo con el permiso de la persona titular de la Presidencia Municipal, en cuyo caso estará a cargo de ésta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2023)</small>
+
 ###### ARTICULO 22.
 
-El Ayuntamiento como órgano deliberante, deberá resolver los asuntos de su competencia colegiadamente y al efecto, celebrará sesiones públicas ordinarias o extraordinarias; previo acuerdo de la mayoría de sus integrantes, las sesiones podrán ser privadas cuando así se justifique.
+El Ayuntamiento como órgano deliberante, deberá resolver los asuntos de su competencia colegiadamente y, al efecto, celebrará sesiones públicas ordinarias o extraordinarias, mismas que procurarán transmitirse en vivo y, en su caso, estar disponibles desde su portal oficial de internet, en algún medio electrónico o plataforma digital a su alcance. Previo acuerdo de la mayoría de sus integrantes, las sesiones podrán ser privadas cuando así se justifique.
 
 Las sesiones ordinarias se celebrarán periódicamente en las fechas y lugar que para tal efecto se establezcan en la primera sesión de Cabildo de cada nueva gestión. Habrá por lo menos, dos sesiones ordinarias cada mes.
 
@@ -1983,9 +1985,9 @@ La persona titular de la Secretaría de la Presidencia Municipal, lo será del A
 
 Son atribuciones de la persona titular de la Secretaría del Ayuntamiento:
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2023)</small>
 
-I.- Concurrir a todas las sesiones del Ayuntamiento, únicamente con voz informativa y levantar las actas al terminar cada una de ellas; Así mismo, por acuerdo de la mayoría de las personas titulares de las Regidurías, convocar a sesiones ordinarias, cuando la persona titular de la Presidencia Municipal no lo haga sin causa justificada;
+I.- Concurrir a todas las sesiones del Ayuntamiento, únicamente con voz informativa y levantar las actas al terminar cada una de ellas, además de prever, en su caso, todo lo necesario para su transmisión en vivo. Así mismo, por acuerdo de la mayoría de las personas titulares de las Regidurías, convocar a sesiones ordinarias, cuando la persona titular de la Presidencia Municipal no lo haga sin causa justificada;
 
 > <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
@@ -5795,7 +5797,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 1 DE JULIO DE 2023.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXVII/RFLEY/0583/2023 VIII P.E. POR EL QUE "SE REFORMA EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NO. LXVI/RFLEY/0732/2020 VIII P.E.".]
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXVII/RFLEY/0583/2023 VIII P.E. POR EL QUE “SE REFORMA EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NO. LXVI/RFLEY/0732/2020 VIII P.E.”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -5818,3 +5820,11 @@ P.O. 11 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFCOD/0613/2023 I P.O., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 71 BIS AL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFCOD/0624/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 22, PÁRRAFO PRIMERO; Y 63, FRACCIÓN I; AMBOS DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
