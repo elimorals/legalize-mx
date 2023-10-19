@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-90-2017-por-el-que-se-expide-el-protocolo-de-124873"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-12-18"
-last_updated: "2017-12-18"
+last_updated: "2023-10-19"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124873&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-11-27"
 ---
 # ACUERDO 90/2017 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACION POLICIAL DE LA SECRETARIA DE SEGURIDAD PUBLICA DE LA CIUDAD DE MEXICO EN MATERIA DE JUSTICIA CIVICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL PROTOCOLO GENERAL DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO, PUBLICADO EN EL AVISO DE LA LIGA ELECTRÓNICA EN LA G.O. DE 19 DE OCTUBRE DE 2023, EL PRESENTE PROTOCOLO HA QUEDADO SIN EFECTOS.]</small>
+
 PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DE LA CIUDAD DE MÉXICO EN MATERIA DE JUSTICIA CÍVICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 19 DE OCTUBRE DE 2023 (SIN EFECTOS).
 
 Protocolo publicado en la Gaceta Oficial de la Ciudad de México, el lunes 18 de diciembre de 2017.
 
@@ -403,3 +405,25 @@ V. La Secretaría enviará documento por vía oficial a la Dirección Ejecutiva 
 ### CAPÍTULO VIII. MANEJO DE DATOS PERSONALES
 
 8.1 Las y los integrantes de la Policía de la Ciudad de México deberán resguardar los datos personales tanto del infractor, así como del ofendido o del denunciante, según corresponda, y no podrán hacerlos del conocimiento de terceros, salvo para efectos del registro de la detención en el sistema establecido para tal efecto y ante el Juez cuando se presente ante éste a la persona detenida.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 19 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “PROTOCOLO GENERAL DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El Protocolo de Actuación Policial de la Secretaría de Seguridad Ciudadana de la Ciudad de México entrará en vigor a los 180 días naturales de haberse publicado el Aviso por el que sea dada (sic) a conocer su expedición, en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se dejan sin efectos, el ACUERDO 52/2013 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL PARA LA DETENCIÓN DE ADOLESCENTES EN CONFLICTO CON LA LEY, publicado en la Gaceta Oficial del Distrito Federal el 25 de julio de 2013; ACUERDO 13/2014 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN DE LA UNIDAD POLICIAL MIXTA PARA LA ATENCIÓN MULTIDISCIPLINARIA A NIÑAS, NIÑOS, ADOLESCENTES Y JÓVENES EN MANIFESTACIONES, CONCENTRACIONES, EVENTOS CULTURALES, SOCIALES Y DEPORTIVOS, publicado en la Gaceta Oficial del Distrito Federal el 11 de marzo de 2014; ACUERDO 3/2016 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL PARA LA REALIZACIÓN DE DETENCIONES EN EL MARCO DEL SISTEMA PENAL ACUSATORIO, publicado en la Gaceta Oficial de la Ciudad de México el 05 de abril de 2016; ACUERDO 4/2016 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL PARA LA PRESERVACIÓN DEL LUGAR DE LOS HECHOS O DEL HALLAZGO Y CADENA DE CUSTODIA, publicado en la Gaceta Oficial de la Ciudad de México el 05 de abril de 2016; ACUERDO 14/2016 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DE LA CIUDAD DE MÉXICO, EN MATERIA DE SOLICITUDES DE APOYO O AUXILIO DE LA FUERZA PÚBLICA PARA LA EJECUCIÓN DE MANDAMIENTOS Y/O DILIGENCIAS, publicado en la Gaceta Oficial de la Ciudad de México el 25 de mayo de 2016; ACUERDO 53/2017 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DE LA CIUDAD DE MÉXICO, PARA LA ATENCIÓN DE PERSONAS CON CONDUCTAS SUICIDAS EN LA VÍA PÚBLICA E INSTALACIONES DEL SISTEMA DE TRANSPORTE COLECTIVO, publicado en la Gaceta Oficial de la Ciudad de México el 04 de agosto de 2017, ACUERDO 90/2017 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DE LA CIUDAD DE MÉXICO EN MATERIA DE JUSTICIA CÍVICA, publicado en la Gaceta Oficial de la Ciudad de México el 18 de diciembre de 2017 y el ACUERDO 55/2018 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DE LA CIUDAD DE MÉXICO PARA PRESERVAR LOS DERECHOS HUMANOS DE LAS PERSONAS QUE PERTENEZCAN A LA POBLACIÓN LÉSBICO, GAY, BISEXUAL, TRANSGÉNERO, TRANSEXUAL, TRAVESTI E INTERSEXUAL (LGBTTTI), publicado en la Gaceta Oficial de la Ciudad de México el 27 de septiembre de 2018.
+
+TERCERO. Se instruye a las Subsecretarías de Operación Policial, de Control de Tránsito, de Desarrollo Institucional, de Participación Ciudadana y Prevención del Delito, de Inteligencia e Investigación Policial, a la Oficialía Mayor, a la Dirección General de la Policía Auxiliar, a la Dirección General de la Policía Bancaria e Industrial y demás Unidades Administrativas y Unidades Administrativas Policiales de esta Dependencia, para que en el ámbito de sus atribuciones, provean lo necesario para la implementación del presente Protocolo y la actualización de la normativa institucional.
+
+CUARTO. La Universidad de la Policía de la Ciudad de México será la instancia encargada de diseñar e instrumentar la estrategia de capacitación y actualización de los cursos dirigidos al personal policial de la Ciudad de México, necesarios para la implementación del presente Protocolo, así como generar los mecanismos necesarios con la Policía Auxiliar y Policía Bancaria e Industrial, que garantice la homologación de los procesos de profesionalización.
+
+QUINTO. Se instruye a la Universidad de la Policía de la Ciudad de México a que, en el lapso que comprende a partir del siguiente día de la publicación del Aviso por el que sea dado a conocer el presente Protocolo y, hasta un día antes de su entrada en vigor, realice la capacitación del personal policial de la Secretaría de Seguridad Ciudadana para la implementación del Protocolo.
+
+SEXTO. Las Unidades Administrativas Policiales, así como la Dirección General de Asuntos Jurídicos, la Dirección General de Derechos Humanos y la Dirección General de Asuntos Internos, conforme al ámbito de sus atribuciones, verificarán el debido cumplimiento del presente Protocolo.
+
+SÉPTIMO. Se instruye a la Dirección General de Carrera Policial a que, en el lapso que comprende a partir del siguiente día de la publicación del Aviso por el que se da a conocer el presente Protocolo y, hasta un día antes de su entrada en vigor, desarrolle un mecanismo de control, supervisión y monitoreo que contemple indicadores sobre la aplicación y cumplimiento de las disposiciones normativas sobre derechos humanos conforme a lo previsto en el presente instrumento, así como de los conocimientos sobre los procedimientos de actuación policial.
+
+OCTAVO. Se instruye a la Dirección Ejecutiva de Comunicación Social a realizar la difusión del Protocolo General de Actuación Policial de la Secretaría de Seguridad Ciudadana de la Ciudad de México en el sitio web oficial de la Dependencia y los medios institucionales respectivos.
