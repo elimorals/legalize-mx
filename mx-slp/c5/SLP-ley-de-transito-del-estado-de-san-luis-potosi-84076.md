@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2023-09-29"
+last_updated: "2023-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2023.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -907,6 +907,10 @@ En los casos de vehículos que se dejen abandonados en estos establecimientos po
 
 Asimismo, deberán establecer medidas de seguridad tanto en el interior como en el exterior del terreno que ocupen, cuidando de prevenir cualquier contingencia física o ambiental.
 
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2023)</small>
+
+Los propietarios de los vehículos bajo resguardo y los propietarios de lotes, depósitos o pensiones vehiculares en el Estado, serán corresponsables de la afectación ambiental que ocasione el vehículo.
+
 ###### ARTICULO 60.
 
 Las autoridades judiciales y administrativas, estales y municipales, deberán proporcionar a la Secretaría, dentro de los diez días siguientes, la información de aquellos vehículos sujetos a embargo, decomiso, aseguramiento, o levantamiento de gravámenes, presentando el número de registro, el número de identificación vehicular o, en su defecto, número de serie, así como el documento que acredite el levantamiento del embargo o aseguramiento, para su inclusión en el padrón estatal de vehículos.
@@ -919,19 +923,19 @@ Los vehículos que hayan sido puestos en depósito podrán ser entregados cuando
 
 Además de lo anterior, se deberá proporcionar comprobante oficial de haber cubierto ante la autoridad, el pago correspondiente al prestador del servicio; para tales efectos, la tarifa se considerará por día completo; si no llegara a completarse el día se cobrará de manera proporcional por fracción de hora.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2023)</small>
+
 ###### ARTICULO 62.
 
-Cuando existan en depósito vehículos que sean considerados como chatarra, o equiparables a esta categoría, previo dictamen emitido por perito valuador o por autoridad competente, los prestadores de servicio deberán solicitar a la Secretaría, para que requiera al propietario del vehículo que lo recoja y pague el adeudo correspondiente; otorgándosele un plazo de cuarenta y cinco días hábiles, apercibiéndolo de que, al no hacerlo, se podrán promover las diligencias legales necesarias para que el bien se saque a remate, conforme al Código de Procedimientos Civiles para el Estado de San Luis Potosí; a fin de recuperar el importe que los servicios de depósito hubieren ocasionado; mediante reciclaje del vehículo, más no de su reutilización, lo cual deberá constar mediante la certificación correspondiente, misma que será enterada a la Secretaría, o a la autoridad competente, para la baja definitiva del vehículo.
+Cuando existan en depósito vehículos que sean considerados como chatarra, o equiparables a esta categoría, de conformidad con (sic) artículo 6°, fracción XXXIX, de esta ley, que no sean parte de un procedimiento jurisdiccional o administrativo sub judice; previo dictamen emitido por perito en la materia o que representen una afectación física o ambiental, previa opinión por escrito expedida conforme a su competencia, por la Secretaría o la Secretaría de Ecología y Gestión Ambiental del Estado, se procederá en los siguiente términos:
 
-Los fondos obtenidos del remate se distribuirán de la siguiente forma:
+I. La Secretaría notifica al propietario del vehículo para que en el plazo de 30 días hábiles contados a partir del día en que surta efectos la notificación, realice los trámites inherentes a la devolución o liberación, así como las acciones que puedan derivar de la opinión que emitan las dependencias citadas en el párrafo anterior;
 
-I. Del monto del remate el prestador del servicio tomará lo correspondiente al pago del depósito, después de que la autoridad haya deducido los derechos que a ella correspondan;
+II. Si se desconoce la identidad, o el domicilio del propietario o legítimo poseedor del vehículo depositado, la notificación se hará por edictos que se publicarán en el Periódico Oficial del Estado, y uno de los diarios de mayor circulación en el Estado, por tres veces consecutivas con un intervalo de diez días naturales entre cada publicación; para que en un plazo de treinta días hábiles contados a partir de la notificación, realice los trámites inherentes a la devolución o liberación, así como las acciones que puedan derivar de la opinión que emitan las dependencias citadas en el párrafo primero de este artículo, y
 
-II. La autoridad no podrá, en ningún caso, obtener más del cincuenta por ciento del monto que resulte del remate;
+III. Transcurrido (sic) los plazos señalados en las fracciones anteriores sin que se hayan llevado a cabo los trámites para la devolución o liberación del vehículo, así como las acciones que puedan derivar de la opinión que emitan las dependencias en comento, la Secretaría deberá de contar con una empresa especializada en la destrucción vehicular, que compruebe experiencia en la materia y demuestre haber ejecutado proyectos relacionados con gobierno federal.
 
-III. Cuando habiéndose repartido la cantidad obtenida por el remate faltare algún porcentaje para cubrir el total de la obligación ante la autoridad, o ante el prestador del servicio, el faltante se condonará a favor del dueño del vehículo, y
-
-IV. Siempre que exista algún remanente, éste será devuelto al propietario del vehículo.
+Llevada a cabo la destrucción, la Secretaría, realizará la venta por kilo ferroso, cuyos ingresos serán destinados a la ejecución de políticas públicas en beneficio de la población.
 
 ###### ARTICULO 63.
 
@@ -1960,6 +1964,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 29 DE SEPTIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0844.- SE ADICIONA EL ARTÍCULO 74 BIS, A LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0855.- SE ADICIONA (SIC) PÁRRAFO CUARTO AL ARTÍCULO 59; Y REFORMA EL ARTÍCULO 62 DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
