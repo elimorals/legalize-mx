@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-educacion-para-el-estado-de-tlaxcala-143221"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-26"
-last_updated: "2023-02-24"
+last_updated: "2023-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 26 de mayo de 2020.
 
@@ -265,7 +265,11 @@ II. Motivar un diálogo continuo entre las humanidades, las artes, la ciencia, l
 
 III. Robustecer el tejido social para evitar la corrupción, a través de la honestidad y la integridad, así mismo proteger la naturaleza, promover el desarrollo social, ambiental, económico; favorecer la generación de capacidades productivas y fomentar una oportuna y justa distribución del ingreso;
 
-IV. Combatir las causas de discriminación y violencia en el Estado, especialmente en contra de la niñez y las mujeres, y
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2023)</small>
+
+IV. Combatir la discriminación y la violencia, en cualquiera de sus manifestaciones, especialmente en contra de la niñez y las mujeres.
+
+Entre las medidas que se implementarán, se podrá incluir la impartición de talleres y actividades extracurriculares específicas, inculcando el respeto a los derechos humanos, y
 
 V. Participar y fortalecer la construcción de las relaciones sociales, económicas y culturales como principal respeto de los derechos humanos.
 
@@ -2444,3 +2448,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 242.- SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 15 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan el contenido de este Decreto.
