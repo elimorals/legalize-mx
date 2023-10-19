@@ -4,7 +4,7 @@ identifier: "JAL-codigo-electoral-del-estado-de-jalisco-antes-codigo-62461"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-05"
-last_updated: "2023-07-20"
+last_updated: "2023-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -9126,3 +9126,43 @@ PRIMERO. El presente decreto entrará en vigor el día de su publicación en el 
 (NOTA: EL 24 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 180/2023, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A PARTIR DE QUE HAYA CONCLUIDO EL PROCESO ELECTORAL 2023-2024 EN ESA ENTIDAD FEDERATIVA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 SEGUNDO. El presente decreto para su difusión, se debe traducir AL MENOS, a las lenguas WIXARITARI Y NÁHUATL. En el mismo sentido, deberá ser traducido a lengua de señas utilizado predominantemente en el estado de Jalisco, al sistema de escritura braille y a través de pictogramas.
+
+P.O. 19 DE OCTUBRE DE 2023.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL “COMUNICADO OFICIAL EN CUMPLIMIENTO AL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO 29235/LXIII/23”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+JUAN ENRIQUE IBARRA PEDROZA, SECRETARIO GENERAL DE GOBIERNO, con fundamento en los artículos 17 fracción V, XIII y XXI de la Ley Orgánica del Poder Ejecutivo; así como 1°, 2°, 4° y 6° de la Ley del Periódico Oficial "El Estado de Jalisco" y 1°, 3° y 4° de su Reglamento, para el debido cumplimiento del ARTÍCULO TRANSITORIO SEGUNDO del Decreto 29235/LXIII/23 mediante el cual se reformaron y adicionaron diversas disposiciones del Código Electoral del Estado de Jalisco:
+
+PRIMERO. Publíquese en el Periódico Oficial "El Estado de Jalisco" el texto del Decreto 29235/LXIII/23 en las siguientes lenguas:
+
+a) Wixaritari.
+
+b) Náhuatl.
+
+c) Purépecha.
+
+d) Mixteco.
+
+Se instruye a la Comisión Estatal Indígena para efectos de que difunda el contenido de dichas publicaciones, ante las respectivas autoridades indígenas y autoridades tradicionales más representativas.
+
+SEGUNDO. Publíquese en la página oficial de internet del Gobierno del Estado, así como en sus redes sociales oficiales, el contenido del Decreto 29235/LXIII/23 en lengua de señas, misma que estará disponible a través del siguiente vínculo de internet:
+
+https://youtu.be/qFx0oGq7I0w
+
+Se instruye a la Subsecretaría de Derechos Humanos para que, por conducto de la Dirección de Inclusión a Personas con Discapacidad, difunda el contenido de dicha publicación ante las respectivas organizaciones de la sociedad civil que tenga registradas.
+
+TERCERO. La Subsecretaría de Derechos Humanos tendrá a disposición de cualquier persona interesada, para su consulta, el contenido impreso en escritura braille del Decreto 29235/LXIII/23.
+
+Asimismo, la Subsecretaría de Derechos Humanos tendrá el archivo correspondiente en formatos .brf y .dxb, para su descarga a través de los siguientes vínculos de internet:
+
+https://sgg.jalisco.gob.mx/api/documents/1812/Codigo_electoral.brf
+
+https://sgg.jalisco.gob.mx/api/documents/1813/Version_2_Codigo_electoral.dxb
+
+Se instruye a la Subsecretaría de Derechos Humanos para que, por conducto de la Dirección de Inclusión a Personas con Discapacidad, difunda el contenido de dicho documento y en formatos .brf y .dxb ante las correspondientes organizaciones de la sociedad civil que tenga registradas.
+
+CUARTO. Publíquese en el Periódico Oficial "El Estado de Jalisco" el texto del Decreto 29235/LXIII/23 a través de pictogramas.
+
+Se instruye a la Subsecretaría de Derechos Humanos para que, por conducto de la Dirección de Inclusión a Personas con Discapacidad, difunda el contenido de dicha publicación ante las correspondientes organizaciones de la sociedad civil que tenga registradas.
+
+SEXTO (SIC). Hágase del conocimiento del Poder Legislativo, así como del Instituto Electoral y de Participación Ciudadana, ambos del Estado de Jalisco, la publicación oficial del presente Comunicado, para los efectos legales correspondientes.
