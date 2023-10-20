@@ -4,7 +4,7 @@ identifier: "LDCMPME"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-30"
-last_updated: "2019-08-13"
+last_updated: "2023-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26811&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDCMPME"
 
 LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE OCTUBRE DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 2002.
 
@@ -226,11 +226,17 @@ VI. Enfocar estrategias y proyectos de modernización, innovación y desarrollo 
 
 VII. Propiciar nuevos instrumentos de apoyo a las MIPYMES considerando las tendencias internacionales de los países con los que México tenga mayor interacción;
 
-VIII. Contar con mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las MIPYMES, y
+> <small>(REFORMADA, D.O.F. 20 DE OCTUBRE DE 2023)</small>
 
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2017)</small>
+VIII. Contar con mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las MIPYMES;
 
-IX. Promover que las dependencias y entidades de la Administración Pública Federal y sus delegaciones en las Entidades Federativas realicen la planeación de sus adquisiciones de bienes, contratación de servicios y realización de obra pública para destinarlas a las MIPYMES de manera gradual, hasta alcanzar un mínimo del 35%, conforme a la normativa aplicable.
+> <small>(REFORMADA, D.O.F. 20 DE OCTUBRE DE 2023)</small>
+
+IX. Promover que las dependencias y entidades de la Administración Pública Federal y sus delegaciones en las Entidades Federativas realicen la planeación de sus adquisiciones de bienes, contratación de servicios y realización de obra pública para destinarlas a las MIPYMES de manera gradual, hasta alcanzar un mínimo del 35%, conforme a la normativa aplicable, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE OCTUBRE DE 2023)</small>
+
+X. Fomentar la inserción de las actividades productivas y servicios de los pueblos y comunidades indígenas y afromexicanas a nivel regional, estatal y municipal.
 
 > <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2017)</small>
 
@@ -589,3 +595,9 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 Segundo.- Dentro del término de 180 días posterior a la entrada en vigor del presente Decreto, el Ejecutivo Federal deberá realizar las reformas que se requieran al Reglamento de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.
 
 En tanto no se realicen las modificaciones a las que se refiere el párrafo anterior, respecto a las facultades y obligaciones del Instituto Nacional del Emprendedor, continuarán aplicándose las mismas en lo que no contravengan al presente Decreto.
+
+D.O.F. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 10 DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
