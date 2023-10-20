@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2023-06-22"
+last_updated: "2023-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,25 @@ state: "MEX"
 ---
 # LEY DE SEGURIDAD DEL ESTADO DE MEXICO
 
-LEY DE INGRESOS DEL SAN MUNICIPIO DE SAN MIGUEL AMATLÁN, BENEMÉRITO DISTRITO DE IXTLÁN DE JUÁREZ, OAXACA, PARA EL EJERCICIO FISCAL 2025.
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE OCTUBRE DE 2023 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
-TEXTO ORIGINAL.
+LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-Ley publicada en la Séptima Sección del Número 8 del Periódico Oficial del Estado de Oaxaca, el sábado 22 de febrero de 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 2023.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
+
+ERUVIEL AVILA VILLEGAS, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
+
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
+
+DECRETO NÚMERO 360
+
+LA H. "LVII" LEGISLATURA DEL ESTADO DE MÉXICO
+
+DECRETA:
+
+LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -59,11 +71,11 @@ Las acciones en el ejercicio de la función de seguridad pública tendrán como 
 
 Las referencias contenidas en esta Ley en materia de seguridad pública, deberán interpretarse de manera que contribuyan al objeto y fines de la seguridad ciudadana.
 
-> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 3.
 
-Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional y se regirán por los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos previstos en la Constitución Federal, debiendo fomentar la participación ciudadana en términos de Ley y demás normas aplicables.
+Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional y se regirán por los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos previstos en la Constitución Federal, debiendo fomentar la participación ciudadana y la rendición de cuentas en términos de ley.
 
 ###### Artículo 4.
 
@@ -425,9 +437,13 @@ XXXVI. Instruir la realización de acciones relativas para la administración, a
 
 XXXVII. Efectuar la emisión de dictámenes para la adquisición, remplazo y ampliación de sistemas tecnológicos y de comunicaciones; y
 
+> <small>(ADICIONADA, G.G. 20 DE OCTUBRE DE 2023)</small>
+
+XXXVIII. Realizar en conjunto con las instituciones del sistema educativo del Estado de México públicas o privadas, el seguimiento y evaluación constante de acciones que impliquen la revisión e inspección de mochilas o bolsos al ingreso, durante su estancia o al salir, de los planteles escolares. Así como también implementar programas en materia de seguridad escolar en las instituciones públicas o privadas.
+
 > <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-XXXVIII. Las demás que establezcan la Constitución Estatal, la Ley General, esta Ley y demás ordenamientos de la materia, así como las que le confiera el Gobernador del Estado.
+XXXIX. Las demás que establezcan la Constitución Estatal, la Ley General, esta Ley y demás ordenamientos de la materia, así como las que le confiera el Gobernador del Estado.
 
 B. En materia de reinserción social:
 
@@ -759,29 +775,9 @@ Los instrumentos jurídicos sobre criterios y protocolos de operación, investig
 
 ###### Artículo 28.
 
-El pago de los derechos a que se refiere esta sección, debe hacerse previo a la expedición de las certificaciones y constancias y se pagará conforme a las siguientes cuotas:
+El Consejo Estatal determinará los mecanismos idóneos y las herramientas informáticas necesarias para el buen funcionamiento del Sistema Estatal, así como las formas en que los servidores públicos de las instituciones de seguridad pública podrán acceder al mismo y las medidas de seguridad y restricción de la información.
 
-CONCEPTO CUOTA
-
-EN PESOS
-
-(NOTA: EL 8 DE DICIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 39/2025, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE DICIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-I. COPIAS DE DOCUMENTOS EXISTENTES EN
-
-LOS ARCHIVOS MUNICIPALES POR HOJA 100.00
-
-II. Expedición de certificados de residencia,
-
-origen, dependencia económica de morada conyugal,
-
-de situación fiscal actual o pasada, de contribuyentes
-
-inscritos en la Tesorería Municipal. 150.00
-
-III. Certificación de la superficie de un predio 300.00
-
-IV. Certificaciones de la ubicación de un inmueble 300.00
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 29.
 
@@ -913,7 +909,9 @@ I. Titular de la Zona Militar de la Secretaría de la Defensa Nacional a la que 
 
 II. Un representante de la Comisión Nacional de Seguridad;
 
-III. Delegado de la Procuraduría General de la República; y
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+III. Delegado de la Fiscalía General de la República;
 
 IV. Delegado del Instituto Nacional de Migración.
 
@@ -1035,7 +1033,9 @@ XVIII. Deberán invitarse a las instancias federales a través de un representan
 
 a) Secretaría de la Defensa Nacional;
 
-b) Policía Federal;
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+b) Guardia Nacional;
 
 c) Secretaría de Marina;
 
@@ -1095,23 +1095,31 @@ Las reglas para el desarrollo de las sesiones de los Consejos Intermunicipales, 
 
 ###### Artículo 50.
 
-Se considera multas por faltas administrativas que cometan los ciudadanos a su bando de policía y gobierno por los siguientes conceptos.
+Son atribuciones de los Consejos Intermunicipales:
 
-CONCEPTO CUOTA EN PESOS
+I. Ejecutar los acuerdos y resoluciones del Consejo Estatal, en el ámbito de sus respectivas competencias;
 
-(NOTA: EL 8 DE DICIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 39/2025, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE DICIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+II. Proponer los instrumentos y políticas públicas integrales, sistemáticas, continuas y evaluables, tendientes a cumplir los fines de la seguridad pública, a fin de que sean discutidas y eventualmente incluidas en el Programa Estatal, por conducto de su Presidente;
 
-I. ESCÁNDALO EN LA VÍA PÚBLICA 350.00
+III. Evaluar las políticas y acciones de seguridad pública en el ámbito de su competencia;
 
-II. Grafiti 400.00
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-III. Tirar basura en la vía pública 250.00
+IV. Emitir acuerdos para la efectiva coordinación de las Instituciones de Seguridad Pública pertenecientes a los municipios que formen parte de cada Consejo Intermunicipal;
 
-IV. Inasistencia a tequio 350.00
+V. Hacer propuestas para el buen funcionamiento del Sistema Estatal, a fin de que sean sometidas a consideración del Consejo Estatal, por conducto de su Presidente;
 
-V. Inasistencias a asambleas 350.00
+VI. Promover la implementación de políticas públicas y programas en materia de atención y protección a víctimas del delito;
 
-VI. Dejar heces de animales en la vía pública 300.00
+VII. Promover la homologación y desarrollo de los modelos ministerial, policial y pericial en las Instituciones de Seguridad Pública a su cargo, y evaluar sus avances, de conformidad con las leyes respectivas;
+
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Promover el establecimiento de unidades de consulta y participación de la comunidad en las Instituciones de Seguridad Pública pertenecientes a los municipios que formen parte de cada Consejo Intermunicipal;
+
+IX. Expedir su Estatuto orgánico en los términos de esta Ley y los acuerdos que adopte el Consejo Estatal; y
+
+X. Las demás que establezcan esta Ley, otras disposiciones jurídicas y las que sean necesarias para cumplir los fines de la seguridad pública.
 
 ###### Artículo 51.
 
@@ -1233,9 +1241,13 @@ C. Invitados Permanentes
 
 I. Un representante de la Secretaría de la Defensa Nacional;
 
-II. Un representante de la Policía Federal;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-III. Un representante de la Procuraduría General de la República;
+II. Un representante de la Guardia Nacional.
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+III. Un representante de la Fiscalía General de la República;
 
 > <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -2199,9 +2211,11 @@ ag) Las demás que establezca esta Ley y otras disposiciones aplicables.
 
 Los policías adscritos a unidades de investigación deberán cumplir todas las obligaciones; los policías adscritos a las unidades de prevención y reacción las previstas del inciso a) al inciso v) del presente artículo, salvo que exista requerimiento expreso del Ministerio Público de cumplir alguna prevista en los ulteriores incisos, caso en el que deberá cumplir cualquiera de estas obligaciones bajo su conducción y mando.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 101.
 
-Siempre que se use la fuerza pública, se hará de manera racional, congruente, oportuna y con respeto a los derechos humanos. Para tal efecto, los elementos de las Instituciones Policiales deberán apegarse a los protocolos, las disposiciones normativas y administrativas aplicables.
+Siempre que se use la fuerza pública, se hará de manera racional, congruente, oportuna y con respeto a los derechos humanos. Para tal efecto, los elementos de las Instituciones Policiales deberán apegarse a la Ley Nacional sobre el Uso de la Fuerza, a los protocolos, las disposiciones normativas y administrativas aplicables.
 
 ###### Artículo 102.
 
@@ -2411,6 +2425,8 @@ IV. Por las demás causas que establezcan las disposiciones aplicables.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 125.
 
 (DEROGADO, G.G. 20 DE SEPTIEMBRE DE 2018)
@@ -2463,7 +2479,7 @@ IV. Por las demás causas que establezcan las disposiciones aplicables.
 
 ###### Artículo 134.
 
-El Desarrollo Policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí que comprenden la Carrera Policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los Integrantes de las Instituciones Policiales, y tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos; elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios a que se refiere esta Ley.
+El Desarrollo Policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí que comprenden la Carrera Policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los Integrantes de las Instituciones Policiales y tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos; elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales referidos en el artículo 3 de la presente Ley. El Desarrollo Policial se basará en la doctrina policial civil.
 
 ###### Artículo 135.
 
@@ -2480,6 +2496,10 @@ I. Investigación: a través de sistemas homologados de recolección, clasificac
 II. Prevención: tendiente a prevenir la comisión de delitos e infracciones administrativas, así como acciones de inspección, vigilancia y vialidad en su circunscripción; y
 
 III. Reacción: a fin de garantizar, mantener y restablecer el orden y la paz públicos.
+
+> <small>(ADICIONADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV. Proximidad social: es una actividad auxiliar a las funciones de prevención, a través de la proactividad y la colaboración con otros actores sociales, bajo una política de colaboración interna e interinstitucional que fortalezca la gobernabilidad local.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -2545,11 +2565,7 @@ La o el Titular de la Secretaría establecerá los protocolos de actuación de l
 
 En el ejercicio de facultades de investigación preventiva, se aplicarán las técnicas especiales que establezcan las disposiciones aplicables conforme a los protocolos antes referidos.
 
-(NOTA: EL 17 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2018, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE FEBRERO DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
-
-LA INFORMACIÓN CONTENIDA EN LOS PROTOCOLOS DE ACTUACIÓN POLICIAL SERÁ CONSIDERADA COMO INFORMACIÓN CONFIDENCIAL, POR LO QUE QUEDA PROHIBIDA SU DIFUSIÓN O PUBLICACIÓN POR CUALQUIER MEDIO.
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ### CAPÍTULO QUINTO. DE LA CONCLUSIÓN DEL SERVICIO DE LOS ELEMENTOS DE LAS INSTITUCIONES POLICIALES
 
@@ -2563,9 +2579,13 @@ Los fines de la Carrera Policial son:
 
 I. Garantizar el desarrollo institucional y asegurar la estabilidad en el empleo, con base en un esquema proporcional y equitativo de remuneraciones y prestaciones para los integrantes de las Instituciones Policiales;
 
-II. Promover la responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización de los recursos de las Instituciones Policiales;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-III. Fomentar la vocación de servicio y el sentido de pertenencia, mediante la motivación y el establecimiento de un adecuado sistema de promociones que permita satisfacer las expectativas de desarrollo profesional y reconocimiento de los integrantes de las Instituciones Policiales;
+II. Promover la proximidad social, responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización de los recursos de las Instituciones Policiales;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+III. Fomentar la doctrina policial civil y la vocación de servicio y el sentido de pertenencia mediante la motivación y el establecimiento de un adecuado sistema de promociones que permita satisfacer las expectativas de desarrollo profesional y reconocimiento de los integrantes de las Instituciones Policiales;
 
 IV. Instrumentar e impulsar la capacitación y profesionalización permanente de los integrantes de las Instituciones Policiales para asegurar la lealtad institucional en la prestación de los servicios; y
 
@@ -3319,9 +3339,9 @@ El Titular de la Unidad de Asuntos Internos será designado y removido librement
 
 Para ser Titular de la Unidad de Asuntos Internos, se requiere:
 
-(NOTA: EL 17 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE FEBRERO DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-I. Ser ciudadano mexicano POR NACIMIENTO en pleno ejercicio de sus derechos civiles y políticos;
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
 II. Tener cuando menos treinta años de edad el día de su designación;
 
@@ -4073,9 +4093,9 @@ El titular de la Rectoría de la Universidad será designado y removido libremen
 
 Para ser Rector de la Universidad, se requiere:
 
-(NOTA: EL 17 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE FEBRERO DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-I. Ser ciudadano mexicano POR NACIMIENTO en pleno ejercicio de sus derechos civiles y políticos;
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
 II. Tener cuando menos treinta años de edad al día de su designación;
 
@@ -4149,37 +4169,51 @@ Los derechos y obligaciones de las y los alumnos, para el ingreso, permanencia, 
 
 ## TÍTULO DÉCIMO. DE LAS RESPONSABILIDADES
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 265.
 
-Se sancionará con prisión de uno a cuatro años y de cien a seiscientos días multa, al servidor público que, de manera dolosa, ilícita y reiterada, se abstenga de proporcionar la información a que esté obligado, al Secretario Ejecutivo, en los términos de esta Ley.
+Se sancionará con prisión de uno a cuatro años y multa de cien a seiscientas Unidades de Medida y Actualización, al servidor público que, de manera dolosa, ilícita y reiterada, se abstenga de proporcionar la información a que esté obligado, al Secretario Ejecutivo, en los términos de esta Ley.
+
+> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 Al servidor público responsable se le impondrá, además, la destitución e inhabilitación por un plazo igual al de la pena impuesta, para desempeñarse en otro empleo, puesto, cargo o comisión en el servicio público.
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 266.
 
-Se sancionará con dos a ocho años de prisión y de quinientos a mil días multa, a quien:
+Se sancionará con dos a ocho años de prisión y multa de quinientas a mil Unidades de Medida y Actualización a quien:
+
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 I. Ingrese dolosamente al Sistema Estatal previsto en esta Ley, sin tener derecho a ello o, teniéndolo, ingrese a sabiendas información errónea, que dañe o que pretenda dañar en cualquier forma la información, las bases de datos o los equipos o sistemas que las contengan;
 
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
 II. Divulgue de manera ilícita información clasificada del Sistema Estatal a que se refiere esta Ley;
+
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 III. Estando autorizado para acceder al Sistema Estatal a que se refiere esta Ley, indebidamente obtenga, copie o utilice información;
 
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
 IV. Inscriba o registre en la Base de Datos de Personal de Instituciones de Seguridad Pública del Sistema Estatal prevista en esta Ley, como integrante de una Institución de Seguridad Pública a persona que no cuente con la certificación exigible conforme a la Ley, o a sabiendas de que la certificación es ilícita; y
+
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 V. Asigne nombramiento de policía, ministerio público o perito oficial a persona que no haya sido certificada y registrada en los términos de esta Ley.
 
+> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
 Si el responsable es o hubiera sido servidor público de las Instituciones de Seguridad Pública, se impondrá hasta una mitad más de la pena correspondiente, además de la inhabilitación por un plazo igual al de la pena de prisión impuesta para desempeñarse como servidor público, y en su caso, la destitución.
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 267.
 
-Se sancionará con cinco a doce años de prisión y de doscientos a ochocientos días multa, a quien falsifique el Certificado a que se refiere la presente Ley, lo altere, comercialice o use a sabiendas de su ilicitud.
+Se sancionará con cinco a doce años de prisión y multa de doscientas a ochocientas Unidades de Medida y Actualización, a quien falsifique el Certificado a que se refiere la presente Ley, lo altere, comercialice o use a sabiendas de su ilicitud.
 
 > <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -4187,11 +4221,17 @@ Se sancionará con cinco a doce años de prisión y de doscientos a ochocientos 
 
 Al servidor público de una institución de seguridad pública estatal o municipal, que a causa de su negligencia le roben, extravíe, dañe, altere, sustraiga o entregue a un tercero, oculte o desaparezca, fuera de los casos de revisión o de los previstos en las normas aplicables, los bienes, equipos y armas de fuego que les hayan asignado para el ejercicio de sus funciones, se le aplicarán las penas siguientes:
 
-I. De radios o aparatos de comunicación, fornituras o cualquier otro bien o equipo: de seis meses a un año de prisión y de cien a doscientos días multa;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-II. De arma corta: de uno a cuatro años de prisión y de doscientos a cuatrocientos días multa;
+I. De radios o aparatos de comunicación, fornituras o cualquier otro bien o equipo: de seis meses a un año de prisión y multa de cien a doscientas Unidades de Medida y Actualización;
 
-III. De arma larga: de dos a seis años de prisión y de trescientos a quinientos días multa; y
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+II. De arma corta: de uno a cuatro años de prisión y multa de doscientas a cuatrocientas Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+III. De arma larga: de dos a seis años de prisión y multa de trescientas a quinientas Unidades de Medida y Actualización, y
 
 IV. El pago de la reparación del daño en favor de la institución de seguridad pública que haya otorgado las asignaciones o resguardos correspondientes.
 
@@ -4698,3 +4738,31 @@ SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan
 TERCERO. Las dependencias encargadas de aplicar la reforma, realizarán en el presente ejercicio fiscal, una reconducción o ajustes necesarios a su presupuesto, a efecto de poder llevar a cabo su implementación.
 
 Para ejercicios presupuestales posteriores, las dependencias del Gobierno Estatal asignarán la cantidad de recursos que consideren necesarios con base en sus estadísticas, para continuar la aplicación de la presente reforma, debiendo establecer en el Presupuesto de Egresos, un apartado específico de recurso y el destino de estos.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 196.- POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 30, LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 41; SE ADICIONAN LAS FRACCIONES XXV, XXVI Y XXVII AL ARTÍCULO 41 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 184, LA FRACCIÓN II DEL ARTÍCULO 185; SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 184, LAS FRACCIONES VII Y VIII AL ARTÍCULO 185 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO, SE ADICIONA LA FRACCIÓN XXXV RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 13 DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, SE ADICIONA LA FRACCIÓN XXXVIII RECORRIÉNDOSE LA SUBSECUENTE AL APARTADO A DEL ARTÍCULO 16 DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor a los 30 días hábiles de la publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. La Secretaría de Educación y la Secretaría de Seguridad en coordinación con la Comisión de Derechos Humanos del Estado de México contarán con cuarenta y cinco días hábiles posteriores a la entrada en vigor de este Decreto, para la expedición del Protocolo de operativos o programas que impliquen la revisión o inspección de mochilas o bolsos de niñas, niños y adolescentes.
+
+CUARTO. Las autoridades educativas, deberán contar con carta firmada por los padres de familia, tutores o quienes ejerzan la patria potestad de los educandos, en la cual manifiestan su autorización para la revisión de mochilas o bolsos. Así mismo, se llevarán a cabo reuniones informativas y de participación con los educandos respecto de los objetivos del Protocolo, a efecto de ejecutar las acciones y medidas en términos de lo establecido en el artículo 2 de la Ley General de los Derechos de Niñas, Niños y Adolescentes para salvaguardar los derechos y principios contenidos en la misma.
