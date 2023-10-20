@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2023-10-13"
+last_updated: "2023-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 2023.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -269,9 +269,13 @@ XIII. Abstenerse de introducir armas al recinto legislativo;
 
 XIV. Abstenerse de hacer uso de recursos públicos para fines proselitistas;
 
-> <small>(REFORMADA, G.G. 19 DE AGOSTO DEL 2003)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 20 DE OCTUBRE DE 2023)</small>
 
-XV. Las demás que les señale la Constitución, la ley y el reglamento.
+XV. Rendir a la sociedad un informe anual de actividades legislativas, y de gestión, dentro de los dos primeros meses posteriores a la conclusión del año legislativo inmediato anterior, del cual deberá enviar una copia a la Secretaría de Asuntos Parlamentarios, para su publicación en la Gaceta Parlamentaria; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 20 DE OCTUBRE DE 2023)</small>
+
+XVI. Las demás que les señale la Constitución, la ley y el reglamento.
 
 ### CAPITULO IV. DE LAS ATRIBUCIONES DE LA LEGISLATURA
 
@@ -2688,3 +2692,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por este Decreto.
+
+G.G. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 192.- POR EL QUE SE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 29 Y SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 29 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y SE REFORMA EL INCISO K) DEL ARTÍCULO 147 BIS Y SE ADICIONA EL INCISO L) AL ARTÍCULO 147 BIS DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Los informes de actividades legislativas correspondientes al Segundo y Tercer Año de Ejercicio Constitucional de la “LXI” Legislatura del Estado de México, podrán rendirse de manera conjunta en el mes de agosto del año 2024.
