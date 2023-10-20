@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-seguridad-para-el-estado-de-queretaro-114902"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-30"
-last_updated: "2022-06-10"
+last_updated: "2023-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2023.
 
 Ley publicada en Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -247,13 +247,21 @@ II. Articular acciones interinstitucionales con las autoridades y auxiliares del
 
 III. Propiciar la participación ciudadana;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
 
-IV. Garantizar el enfoque de género y el respeto a los Derechos Humanos; y
+IV. Garantizar el enfoque de género y el respeto a los Derechos Humanos;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
 
-V. Compartir información con el SIU.
+V. Compartir información con el SIU;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+VI. Gestionar y obtener la Firma Electrónica Avanzada en el ejercicio de sus funciones, de conformidad a la normatividad en la materia; y
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+VII. Las demás que se establezcan en las disposiciones jurídicas aplicables.
 
 ###### Artículo 11.
 
@@ -1386,3 +1394,13 @@ El Director General del organismo público descentralizado denominado Centro de 
 ###### ARTÍCULO SÉPTIMO.
 
 La Secretaría de Finanzas del Poder Ejecutivo del Estado, realizará las adecuaciones presupuestales conforme a la disponibilidad financiera con que cuente para el presente ejercicio fiscal, a fin de dotar de los recursos materiales y financieros que permitan al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro el cumplimiento de la presente Ley.
+
+P.O. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE QUERÉTARO, DE LA LEY QUE CREA EL CENTRO DE INFORMACIÓN Y ANÁLISIS PARA LA SEGURIDAD DE QUERÉTARO, DE LA LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Querétaro, "La Sombra de Arteaga".
