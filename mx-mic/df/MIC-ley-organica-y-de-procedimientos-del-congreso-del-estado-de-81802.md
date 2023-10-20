@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2023-08-18"
+last_updated: "2023-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2023.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -3641,9 +3641,11 @@ Una vez aprobado un dictamen se remitirá la Minuta con proyecto de Ley o de Dec
 
 La publicación de leyes y decretos deberá hacerse inmediatamente en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 274.
 
-Se considera aprobado por el Ejecutivo del Estado, toda Ley o Decreto que no sea devuelto con observaciones al Congreso, dentro de los diez días hábiles siguientes a la fecha en que lo reciba.
+Se considera aprobada por el Titular del Poder Ejecutivo del Estado, toda Minuta con proyecto de Ley o Decreto que no sea devuelta con observaciones al Congreso, dentro de los quince días hábiles siguientes a su recepción.
 
 ###### ARTÍCULO 275.
 
@@ -4688,3 +4690,11 @@ P.O. 18 DE AGOSTO DE 2023.
 Primero. El presente Decreto entrará en vigor al momento de su aprobación, conforme a lo dispuesto en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 430.- ARTÍCULO PRIMERO.- SE REFORMA EL ARTÍCULO 37 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA EL ARTÍCULO 274 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado, al Concejo Mayor de Cherán así como al Concejo Municipal de Penjamillo, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
