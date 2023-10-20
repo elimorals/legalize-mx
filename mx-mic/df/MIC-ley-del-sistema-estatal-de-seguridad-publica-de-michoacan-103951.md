@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-sistema-estatal-de-seguridad-publica-de-michoacan-10395
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-11"
-last_updated: "2022-09-26"
+last_updated: "2023-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2023.
 
 Ley publicada en la Décima Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de diciembre de 2014.
 
@@ -515,53 +515,57 @@ XIV. Realizar análisis estadísticos que coadyuven al diseño e implementación
 
 XV. Implementar y generar las estadísticas de la materia;
 
-XVI. Establecer los indicadores del desempeño de las instituciones de Seguridad Pública;
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2023)</small>
 
-XVII. Promover la participación ciudadana en la evaluación y seguimiento de los indicadores señalados en la fracción anterior en coordinación con el Consejo de Participación Ciudadana;
+XVI. Desarrollar un sistema de recopilación de información, que concentre estadísticas, investigaciones y estudios sobre las diversas manifestaciones de la violencia en contra de las personas que ejercen el periodismo y la defensa de los derechos humanos, con perspectiva de género;
 
-XVIII. Llevar a cabo la evaluación de las políticas, estrategias y acciones del Sistema e informar al Consejo para su publicación;
+XVII. Establecer los indicadores del desempeño de las instituciones de Seguridad Pública;
 
-XIX. Realizar la medición de la percepción ciudadana en materia de Seguridad Pública;
+XVIII. Promover la participación ciudadana en la evaluación y seguimiento de los indicadores señalados en la fracción anterior en coordinación con el Consejo de Participación Ciudadana;
 
-XX. Formular y dar a conocer a las instituciones de Seguridad Pública, de conformidad con los criterios de distribución aprobados por el Consejo, los lineamientos de programación y presupuestación, para la asignación y ejercicio de los recursos de los fondos de Seguridad Pública;
+XIX. Llevar a cabo la evaluación de las políticas, estrategias y acciones del Sistema e informar al Consejo para su publicación;
 
-XXI. Supervisar, en coordinación con las demás instancias competentes, la correcta aplicación de los recursos de los fondos de Seguridad Pública;
+XX. Realizar la medición de la percepción ciudadana en materia de Seguridad Pública;
 
-XXII. Coadyuvar con la Auditoría Superior de Michoacán y demás instancias de fiscalización, proporcionando la información con que cuente respecto del ejercicio de los recursos, de los fondos de ayuda estatal y federal, así como del cumplimiento de esta Ley;
+XXI. Formular y dar a conocer a las instituciones de Seguridad Pública, de conformidad con los criterios de distribución aprobados por el Consejo, los lineamientos de programación y presupuestación, para la asignación y ejercicio de los recursos de los fondos de Seguridad Pública;
 
-XXIII. Verificar que los fondos de seguridad federal y estatal sean depositados en los fideicomisos y fondos respectivos y que el ejercicio de los mismos se realice con toda oportunidad, y de encontrar alguna irregularidad, dar vista inmediatamente a la autoridad correspondiente;
+XXII. Supervisar, en coordinación con las demás instancias competentes, la correcta aplicación de los recursos de los fondos de Seguridad Pública;
 
-XXIV. Presentar quejas o denuncias ante las autoridades competentes por el incumplimiento de la Ley, los acuerdos y demás disposiciones aplicables;
+XXIII. Coadyuvar con la Auditoría Superior de Michoacán y demás instancias de fiscalización, proporcionando la información con que cuente respecto del ejercicio de los recursos, de los fondos de ayuda estatal y federal, así como del cumplimiento de esta Ley;
 
-XXV. Colaborar con las instituciones de Seguridad Pública, para fortalecer y hacer eficientes los mecanismos de coordinación, en especial, en el impulso de las carreras ministerial, policial, pericial y el programa rector de profesionalización;
+XXIV. Verificar que los fondos de seguridad federal y estatal sean depositados en los fideicomisos y fondos respectivos y que el ejercicio de los mismos se realice con toda oportunidad, y de encontrar alguna irregularidad, dar vista inmediatamente a la autoridad correspondiente;
 
-XXVI. Concentrar y resguardar la información de los elementos de Seguridad Pública, de los prestadores de servicios auxiliares de Seguridad Pública y privada, de armas y municiones, así como de los vehículos registrados, licencias de conducir, placas vehiculares y las demás que deban ser incorporadas al Sistema Nacional de Información de Seguridad Pública;
+XXV. Presentar quejas o denuncias ante las autoridades competentes por el incumplimiento de la Ley, los acuerdos y demás disposiciones aplicables;
 
-XXVII. Coordinar y supervisar el registro de las licencias oficiales colectivas de portación de armas de fuego, autorizadas a las instituciones de Seguridad Pública y Privada;
+XXVI. Colaborar con las instituciones de Seguridad Pública, para fortalecer y hacer eficientes los mecanismos de coordinación, en especial, en el impulso de las carreras ministerial, policial, pericial y el programa rector de profesionalización;
 
-XXVIII. Integrar, coordinar y supervisar el Registro de Armamento y Equipo de las corporaciones de Seguridad Pública municipales;
+XXVII. Concentrar y resguardar la información de los elementos de Seguridad Pública, de los prestadores de servicios auxiliares de Seguridad Pública y privada, de armas y municiones, así como de los vehículos registrados, licencias de conducir, placas vehiculares y las demás que deban ser incorporadas al Sistema Nacional de Información de Seguridad Pública;
 
-XXIX. Dotar, supervisar y garantizar el adecuado funcionamiento del equipo para el debido ejercicio de la función policial;
+XXVIII. Coordinar y supervisar el registro de las licencias oficiales colectivas de portación de armas de fuego, autorizadas a las instituciones de Seguridad Pública y Privada;
 
-XXX. Expedir certificaciones o constancias, que acrediten a las personas que hayan causado alta o baja en el Registro Estatal de Seguridad Pública y Privada;
+XXIX. Integrar, coordinar y supervisar el Registro de Armamento y Equipo de las corporaciones de Seguridad Pública municipales;
 
-XXXI. Brindar seguimiento al funcionamiento de los consejos municipales e intermunicipales y participar en comisiones, foros o grupos de trabajo relacionados con Seguridad Pública, y dar seguimiento a los acuerdos emanados de los mismos, en el ámbito de competencia del Secretariado Ejecutivo;
+XXX. Dotar, supervisar y garantizar el adecuado funcionamiento del equipo para el debido ejercicio de la función policial;
 
-XXXII. Elaborar e integrar, de conformidad con las disposiciones y lineamientos vigentes, los programas de trabajo que, derivados del Plan Estatal de Desarrollo y el Programa, queden a cargo del Secretariado;
+XXXI. Expedir certificaciones o constancias, que acrediten a las personas que hayan causado alta o baja en el Registro Estatal de Seguridad Pública y Privada;
 
-XXXIII. Someter a aprobación del Gobierno del Estado, previo dictamen del Consejo y de la Secretaría de Finanzas y Administración, los Programas de Trabajo y de Presupuestos Anuales del Secretariado;
+XXXII. Brindar seguimiento al funcionamiento de los consejos municipales e intermunicipales y participar en comisiones, foros o grupos de trabajo relacionados con Seguridad Pública, y dar seguimiento a los acuerdos emanados de los mismos, en el ámbito de competencia del Secretariado Ejecutivo;
 
-XXXIV. Vincular el Consejo con los Centros de Protección Ciudadana para establecer mecanismos de cooperación y coadyuvar en materia de seguridad pública;
+XXXIII. Elaborar e integrar, de conformidad con las disposiciones y lineamientos vigentes, los programas de trabajo que, derivados del Plan Estatal de Desarrollo y el Programa, queden a cargo del Secretariado;
 
-XXXV. Elaborar en coordinación con Instituciones de Seguridad Pública y presentar al Consejo los programas y proyectos en materia de infraestructura y equipamiento;
+XXXIV. Someter a aprobación del Gobierno del Estado, previo dictamen del Consejo y de la Secretaría de Finanzas y Administración, los Programas de Trabajo y de Presupuestos Anuales del Secretariado;
 
-XXXVI. Seguimiento y recopilación de información y documentación para la conformación de los expedientes técnicos de proyectos de obras y servicios de acuerdo con las guías técnicas del Sistema Nacional e informar a las autoridades competentes;
+XXXV. Vincular el Consejo con los Centros de Protección Ciudadana para establecer mecanismos de cooperación y coadyuvar en materia de seguridad pública;
 
-XXXVII. Tener la representación del Consejo, cuando así lo determine el Presidente;
+XXXVI. Elaborar en coordinación con Instituciones de Seguridad Pública y presentar al Consejo los programas y proyectos en materia de infraestructura y equipamiento;
 
-XXXVIII. Asistir y participar en aquellas invitaciones que le realicen en materia de seguridad pública e informar de su resultado al Consejo; y,
+XXXVII. Seguimiento y recopilación de información y documentación para la conformación de los expedientes técnicos de proyectos de obras y servicios de acuerdo con las guías técnicas del Sistema Nacional e informar a las autoridades competentes;
 
-XXXIX. Las demás que le otorga esta Ley y demás disposiciones normativas aplicables, así como las que le encomiende el Consejo o su Presidente.
+XXXVIII. Tener la representación del Consejo, cuando así lo determine el Presidente;
+
+XXXIX. Asistir y participar en aquellas invitaciones que le realicen en materia de seguridad pública e informar de su resultado al Consejo; y,
+
+XL. Las demás que le otorga esta Ley y demás disposiciones normativas aplicables, así como las que le encomiende el Consejo o su Presidente.
 
 ### CAPÍTULO TERCERO. PROGRAMA ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -1935,23 +1939,27 @@ IV. Acreditar que ha concluido los estudios que el reglamento señale;
 
 V. Aprobar los cursos de formación, capacitación y profesionalización;
 
-VI. Aprobar los procesos de evaluación de control de confianza;
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2023)</small>
 
-VII. Aprobar las evaluaciones del desempeño;
+VI. Aprobar los cursos de formación, capacitación y profesionalización en materia de derechos humanos, y con perspectiva de género;
 
-VIII. Participar en los procesos de promoción o ascenso que se convoquen, conforme a las disposiciones aplicables;
+VII. Aprobar los procesos de evaluación de control de confianza;
 
-IX. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+VIII. Aprobar las evaluaciones del desempeño;
 
-X. No padecer alcoholismo crónico;
+IX. Participar en los procesos de promoción o ascenso que se convoquen, conforme a las disposiciones aplicables;
 
-XI. Someterse a exámenes para comprobar el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+X. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
-XII. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
+XI. No padecer alcoholismo crónico;
 
-XIII. No ausentarse del servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días dentro de un término de treinta días; y,
+XII. Someterse a exámenes para comprobar el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
-XIV. Las demás que establezcan las disposiciones legales aplicables.
+XIII. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
+
+XIV. No ausentarse del servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días dentro de un término de treinta días; y,
+
+XV. Las demás que establezcan las disposiciones legales aplicables.
 
 ###### Artículo 142.
 
@@ -2071,43 +2079,79 @@ VIII. Cumplimiento de los deberes establecidos en esta Ley.
 
 ### CAPÍTULO DÉCIMO. ACADEMIAS E INSTITUTOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 157.
 
-El Estado operará academias o institutos que serán responsables de aplicar los programas rectores de profesionalización que tendrán, entre otras, las siguientes funciones:
+El Estado deberá instalar y operar academias o institutos que serán responsables de aplicar los programas rectores de profesionalización que tendrán, entre otras, las siguientes funciones:
 
 I. Aplicar los procedimientos homologados del Sistema;
 
 II. Capacitar en materia de derechos humanos, investigación científica y técnica a los servidores públicos;
 
-III. Proponer y desarrollar los programas de investigación académica en materia ministerial, pericial y policial, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE OCTUBRE DE 2023)</small>
 
-IV. Proponer las etapas, niveles de escolaridad y grados académicos de la Profesionalización;
+III. Capacitar en materia de derechos humanos y con perspectiva de género;
 
-V. Promover y prestar servicios educativos a sus respectivas Instituciones;
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN III], P.O. 20 DE OCTUBRE DE 2023)</small>
 
-VI. Aplicar las estrategias para la profesionalización de los aspirantes y servidores públicos;
+IV. Proponer y desarrollar los programas de investigación académica en materia ministerial, pericial y policial, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
 
-VII. Proponer y aplicar los contenidos de los planes y programas para la formación de los servidores públicos a que se refiere el Programa Rector;
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN IV], P.O. 20 DE OCTUBRE DE 2023)</small>
 
-VIII. Garantizar la equivalencia de los contenidos mínimos de planes y programas de Profesionalización;
+V. Proponer las etapas, niveles de escolaridad y grados académicos de la Profesionalización;
 
-IX. Revalidar equivalencias de estudios de la profesionalización;
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN V], P.O. 20 DE OCTUBRE DE 2023)</small>
 
-X. Colaborar en el diseño y actualización de políticas y normas para el reclutamiento y selección de aspirantes y vigilar su aplicación;
+VI. Promover y prestar servicios educativos a sus respectivas Instituciones;
 
-XI. Realizar los estudios para detectar las necesidades de capacitación de los Servidores Públicos y proponer los cursos correspondientes;
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VI], P.O. 20 DE OCTUBRE DE 2023)</small>
 
-XII. Proponer y, en su caso, publicar las convocatorias para el ingreso a las academias e institutos;
+VII. Aplicar las estrategias para la profesionalización de los aspirantes y servidores públicos;
 
-XIII. Tramitar los registros, autorizaciones y reconocimiento de los planes y programas de estudio ante las autoridades competentes;
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VII], P.O. 20 DE OCTUBRE DE 2023)</small>
 
-XIV. Expedir constancias de las actividades para la profesionalización que impartan;
+VIII. Proponer y aplicar los contenidos de los planes y programas para la formación de los servidores públicos a que se refiere el Programa Rector;
 
-XV. Proponer la celebración de convenios con Instituciones educativas nacionales y extranjeras, públicas y privadas, con objeto de brindar formación académica de excelencia a los servidores públicos;
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VIII], P.O. 20 DE OCTUBRE DE 2023)</small>
 
-XVI. Supervisar que los aspirantes e integrantes de las instituciones de Seguridad Pública se sujeten a los manuales de las academias e institutos; y,
+IX. Garantizar la equivalencia de los contenidos mínimos de planes y programas de profesionalización;
 
-XVII. Las demás que establezcan las disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN IX], P.O. 20 DE OCTUBRE DE 2023)</small>
+
+X. Revalidar equivalencias de estudios de la profesionalización;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN X], P.O. 20 DE OCTUBRE DE 2023)</small>
+
+XI. Colaborar en el diseño y actualización de políticas y normas para el reclutamiento y selección de aspirantes y vigilar su aplicación;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XI], P.O. 20 DE OCTUBRE DE 2023)</small>
+
+XII. Realizar los estudios para detectar las necesidades de capacitación de los Servidores Públicos y proponer los cursos correspondientes;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XII], P.O. 20 DE OCTUBRE DE 2023)</small>
+
+XIII. Proponer y, en su caso, publicar las convocatorias para el ingreso a las academias e institutos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XIII], P.O. 20 DE OCTUBRE DE 2023)</small>
+
+XIV. Tramitar los registros, autorizaciones y reconocimiento de los planes y programas de estudio ante las autoridades competentes;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XIV], P.O. 20 DE OCTUBRE DE 2023)</small>
+
+XV. Expedir constancias de las actividades para la profesionalización que impartan;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XV], P.O. 20 DE OCTUBRE DE 2023)</small>
+
+XVI. Proponer la celebración de convenios con Instituciones educativas nacionales y extranjeras, públicas y privadas, con objeto de brindar formación académica de excelencia a los servidores públicos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XVI], P.O. 20 DE OCTUBRE DE 2023)</small>
+
+XVII. Supervisar que los aspirantes e integrantes de las instituciones de Seguridad Pública se sujeten a los manuales de las academias e institutos; y,
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XVII], P.O. 20 DE OCTUBRE DE 2023)</small>
+
+XVIII. Las demás que establezcan las disposiciones legales aplicables.
 
 ###### Artículo 158.
 
@@ -2396,3 +2440,11 @@ SEGUNDO. El Poder Ejecutivo del Estado de Michoacán, la Titular del Secretariad
 TERCERO. La elaboración del Programa Estatal de Seguridad Pública se apegará en los Ejes Estratégicos, Programas y Subprogramas con Prioridad Nacional aprobados por el Consejo Nacional de Seguridad Pública, así como a dar impulso al Modelo Nacional de Policía y Justicia Cívica.
 
 CUARTO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación respectiva.
+
+P.O. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 437.- ARTÍCULO PRIMERO.- SE ADICIONA UN TERCER PÁRRAFO RECORRIÉNDOSE EN ORDEN LOS SUBSECUENTES AL ARTÍCULO 8° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE ADICIONA LA FRACCIÓN XVI Y SE RECORREN LAS SUBSECUENTES DEL ARTÍCULO 28; LA FRACCIÓN VI Y SE RECORREN LAS SUBSECUENTES DEL ARTÍCULO 141; Y, SE REFORMA EL ARTÍCULO 157, TODOS DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO.- ARTÍCULO TERCERO.- SE REFORMAN LOS ARTÍCULOS 19, FRACCIÓN III Y 31 DE LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS”.]
+
+PRIMERO. Remítase el presente Decreto a los Ayuntamientos del Estado, al Concejo Mayor de Cherán y al Concejo Municipal de Penjamillo, para que emita el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
