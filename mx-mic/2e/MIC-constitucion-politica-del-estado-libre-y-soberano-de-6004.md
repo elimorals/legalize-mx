@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2022-07-13"
+last_updated: "2023-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2023.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -59,7 +59,7 @@ Las normas relativas a los derechos humanos se interpretarán de conformidad con
 
 Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 20 DE OCTUBRE DE 2023)</small>
 
 La mujer y el hombre son iguales ante la ley. Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
@@ -84,6 +84,10 @@ Toda persona tiene derecho al acceso, disposición y saneamiento de agua para co
 Toda persona podrá ejercer el derecho de petición ante las autoridades del Estado y sus municipios, siempre que está se formule por escrito de manera pacífica y respetuosa; a toda petición deberá recaer un acuerdo por escrito de la autoridad a quien se haya dirigido, la cual tiene la obligación de hacerlo conocer en breve término al peticionario.
 
 Este derecho podrá ser ejercido por vía electrónica, correo postal, mensajería o telégrafo o en los medios y casos en que las autoridades así lo determinen.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+La movilidad es el derecho humano a trasladarse y a disponer de un sistema de movilidad de calidad, suficiente y accesible que, en condiciones de igualdad y sostenibilidad, permita el desplazamiento de personas, bienes y mercancías, el cual deberá contribuir al ejercicio y garantía de los demás derechos humanos, por lo que las personas serán el centro del diseño y del desarrollo de los planes, programas, estrategias y acciones en la materia.
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2020)</small>
 
@@ -228,6 +232,10 @@ Son derechos de los ciudadanos votar y ser votados en las elecciones populares e
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 Toda persona tendrá derecho a expresar sus ideas, las cuales no serán objeto de ninguna inquisición judicial o administrativa, de conformidad a lo previsto en la Constitución Federal. El derecho de réplica será ejercido en los términos dispuestos por la Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+A fin de garantizar el derecho a difundir información y a la defensa de los derechos humanos, el Estado implementará un conjunto de mecanismos y medidas para garantizar la vida, integridad, libertad y seguridad de las personas que ejerzan el periodismo, la libertad de expresión y la defensa de los derechos humanos, con el fin de inhibir los factores de riesgo que favorezcan las agresiones o daño a la integridad física o psicológica de estas.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO CON SUS FRACCIONES], P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -410,6 +418,10 @@ La ciudad de Morelia es la residencia habitual de los Poderes, y éstos no podr�
 ###### Artículo 19.
 
 Se deposita el ejercicio del Poder Legislativo en una asamblea que se denominará: Congreso del Estado de Michoacán de Ocampo.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+El Congreso del Estado se regirá por los principios de transparencia, de rendición de cuentas y de parlamento abierto, en términos de su ley orgánica.
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -595,11 +607,11 @@ El primer nombre corresponde a las resoluciones que versen sobre materia de inte
 
 Las resoluciones administrativas del Congreso tendrán el carácter de acuerdos.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 35.
 
-Las sesiones del Congreso serán públicas o secretas, según lo determine su Ley Orgánica.
+Las sesiones del Congreso serán de conformidad a lo que determine su Ley Orgánica.
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -635,37 +647,29 @@ Las iniciativas presentadas por el Gobernador del Estado o por el Supremo Tribun
 
 En caso de que exista una crisis evidente en temas de derechos humanos, el Gobernador podrá presentar en cualquier momento, hasta dos iniciativas preferentes que correspondan a tal problemática, por cada año legislativo. Cada iniciativa con el carácter preferente, deberá ser discutida y votada por el Pleno del Congreso del Estado en un plazo máximo de treinta días naturales.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 37.
 
 Las iniciativas de ley o decreto se sujetarán a los siguientes trámites:
 
-I.- El dictamen de comisión será leído una o dos veces en los términos que prevenga el reglamento de debates;
+I. El dictamen de comisión será leído una o dos veces en los términos que establezca el reglamento de debates;
 
-II.- La discusión del dictamen se hará el día que señale el Presidente del Congreso, y agotada aquélla, se hará la declaración de que hay lugar a votar;
+II. La discusión del dictamen se llevará a cabo en la fecha que sea agendado en el orden del día, el cual deberá ser aprobado por el Pleno;
 
-III.- La aprobación deberá hacerse por mayoría absoluta del número de diputados presentes; o por las dos terceras partes cuando así lo exija esta Constitución;
+III. El dictamen deberá ser aprobado o desechado por mayoría absoluta del número de diputados presentes, o por las dos terceras partes cuando así lo exija esta Constitución;
 
-IV.- Aprobado un proyecto, se remitirá al Ejecutivo, quien, si no tuviere observaciones que hacer, lo publicará inmediatamente;
+IV. Aprobado un dictamen, se remitirá la Minuta con proyecto de ley o de decreto al Titular del Poder Ejecutivo, quien, si no tuviere observaciones que hacer, la publicará inmediatamente;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2016)</small>
+V. Se considerará aprobada por el Titular del Poder Ejecutivo, toda Minuta con proyecto de ley o de decreto que no sea devuelta con observaciones dentro de los quince días hábiles siguientes a su recepción; vencido este plazo, procederá a su promulgación y publicación inmediata;
 
-V.- Se considerará aprobado por el Poder Ejecutivo todo proyecto no devuelto con observaciones dentro de los quince días hábiles siguientes a su recepción; vencido este plazo, procederá a su promulgación y publicación inmediata.
+VI. La Minuta con proyecto de ley o de decreto, desechada en todo o en parte por el Titular del Poder Ejecutivo, será devuelta, con sus observaciones al Congreso y deberá ser discutida nuevamente por éste, pudiendo el Titular del Poder Ejecutivo mandar su orador, para lo cual se le dará aviso previo; y,
 
-VI.- El proyecto de ley o decreto, desechado en todo o en parte por el Ejecutivo, será devuelto, con sus observaciones al Congreso y deberá ser discutido nuevamente por éste, pudiendo el Ejecutivo mandar su orador, para lo cual se le dará aviso previo, y
+VII. Si la Minuta con proyecto de ley o de decreto, fuese confirmada por las dos terceras partes del número total de los diputados presentes, volverá al Titular del Poder Ejecutivo para su promulgación y publicación inmediata.
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2016)</small>
+Toda iniciativa o proyecto de ley o decreto que fuere desechado por el Congreso no podrá presentarse otra vez en el mismo año legislativo.
 
-VII.- Si el proyecto fuese confirmado por las dos terceras partes del número total de los diputados presentes, volverá al Ejecutivo para su promulgación y su publicación inmediata.
-
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
-
-Toda iniciativa o proyecto de ley que fuere desechado por el Congreso no podrá presentarse otra vez en el mismo año legislativo.
-
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2016)</small>
-
-Para efectos de las fracciones IV, V y VII de este artículo, se entenderá por inmediata la publicación del proyecto de ley o decreto aprobado, que no podrá exceder de un plazo mayor a quince días naturales. Si transcurrido este plazo la ley o decreto aprobado no fuera publicado, será considerado promulgado y el Presidente de la Mesa Directiva del Congreso del Estado ordenará al Titular del Periódico Oficial del Estado su publicación, sin que se requiera refrendo alguno.
+Para efectos de las fracciones IV, V y VII de este artículo, se entenderá por inmediata la publicación del proyecto de ley o decreto, que no podrá exceder de un plazo mayor a diez días hábiles. Si transcurrido el plazo la Minuta con proyecto de ley o decreto aprobado no fuera publicada, será considerada promulgada la ley o decreto y el Presidente de la Mesa Directiva del Congreso del Estado ordenará al Titular del Periódico Oficial del Estado su publicación, sin que se requiera refrendo alguno.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1577,7 +1581,9 @@ También son jueces de primera instancia los especializados en justicia penal pa
 
 La resolución de las diferencias o los conflictos entre trabajadores y patrones que no sea competencia del Tribunal Laboral del Poder Judicial de la Federación, estará a cargo de los juzgados en materia laboral del Poder Judicial del Estado.
 
-La Ley determinará el número de éstos y su residencia; sus integrantes deberán de contar con capacidad y experiencia en materia laboral. Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+La Ley determinará el número de éstos y su residencia; sus integrantes deberán de contar con capacidad y experiencia en materia laboral. Sus sentencias y resoluciones se dictarán con perspectiva de género y deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
 
@@ -1663,9 +1669,9 @@ IV.- No haber sido sentenciado por delitos (sic) doloso.
 
 Ninguna persona podrá hacerse justicia por sí misma ni ejercer violencia para reclamar su derecho.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2023)</small>
 
-Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial; cuidando que los procedimientos y los términos establecidos por la ley hagan eficaz esta garantía. Su servicio será gratuito.
+Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa, imparcial y con perspectiva de género; cuidando que los procedimientos y los términos establecidos por la ley hagan eficaz esta garantía. Su servicio será gratuito.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -1743,19 +1749,25 @@ Artículo 94 bis.- Los organismos autónomos contarán con un órgano de control
 
 #### SECCION I. Del Tribunal de Justicia Administrativa
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 95.
 
-El Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo, será órgano autónomo, independiente en sus resoluciones y de jurisdicción plena en materia administrativa con sujeción a los principios de igualdad, publicidad, audiencia y legalidad. Se integrará por cinco magistrados, de entre los cuales uno será su Presidente electo por sus pares, en los términos que disponga la ley.
+El Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo, será órgano autónomo, independiente en sus resoluciones y de jurisdicción plena en materia administrativa con sujeción a los principios de igualdad, publicidad, audiencia, legalidad y perspectiva de género. Se integrará por cinco magistrados, de entre los cuales uno será su Presidente electo por sus pares, en los términos que disponga la Ley.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 Tendrá competencia para dirimir y resolver, las controversias que se susciten por actos u omisiones de naturaleza administrativa o fiscal entre el Poder Ejecutivo, los ayuntamientos, los organismos autónomos, las entidades u organismos descentralizados o desconcentrados, estatales o municipales y los particulares.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 Asimismo, será el órgano competente para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como graves y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al patrimonio de los entes públicos; así como imponer sanciones a servidores públicos y particulares que incumplan gravemente en resoluciones del organismo garante en materia de acceso a la información y protección de datos personales.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
 Para ser Magistrado del Tribunal de Justicia Administrativa, se deberán satisfacer los mismos requisitos que señala esta Constitución para ser designado Magistrado del Supremo Tribunal de Justicia del Estado. El Poder Legislativo elegirá a los magistrados por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, mediante convocatoria pública y observando el principio de paridad de género. Los magistrados tendrán un periodo constitucional de cinco años en el ejercicio del cargo y podrán ser reelectos hasta en dos ocasiones. Al término de su periodo cesaran en sus funciones.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 El Congreso del Estado conocerá de las quejas en contra de los magistrados, podrá privarlos de su encargo, por las mismas causas que señala el artículo 77 de esta Constitución y determinará su retiro forzoso de conformidad con el artículo 78 de esta Constitución.
 
@@ -1839,23 +1851,39 @@ El Consejero Presidente y los Consejeros Electorales del órgano superior de dir
 
 #### SECCION V. Del Tribunal Electoral del Estado
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2023)</small>
 
-Artículo 98 A.- Se establecerá un sistema de medios de impugnación, en los términos que señale esta Constitución y la Ley, de los que conocerá el organismo público previsto en el artículo anterior y el Tribunal Electoral del Estado. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+Artículo 98 A.- Se establecerá un sistema de medios de impugnación, en los términos que señale esta Constitución y la Ley, de los que conocerá el organismo público previsto en el artículo anterior y el Tribunal Electoral del Estado. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad y se dictarán con perspectiva de género.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 En materia electoral, la interposición de los recursos, en ningún caso produce efectos suspensivos del acto o resolución impugnado.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
 El Tribunal Electoral del Estado será órgano permanente, autónomo y máxima autoridad jurisdiccional electoral.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 El Tribunal Electoral cubrirá en su desempeño, además de lo que determine la Ley, las actividades relativas al fomento de la cultura de la legalidad en materia de justicia electoral y participación ciudadana, consistentes en tareas de capacitación, investigación y difusión.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
 El Pleno del Tribunal Electoral declarará la legalidad y validez de la elección de Gobernador del Estado, una vez resueltos, en su caso, los medios de impugnación que se hubieren interpuesto en contra de la misma.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 El Tribunal Electoral del Estado se organizará en los términos que señale la ley de la materia.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
 El Tribunal Electoral del Estado funcionará en Pleno con cinco magistrados, quienes serán electos por un período de siete años conforme a lo previsto en la Constitución Política de los Estados Unidos Mexicanos y la normatividad de la materia.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
 Deberá sesionar por lo menos una vez al mes y todas sus determinaciones serán tomadas por mayoría. En el caso de las sesiones de resolución jurisdiccional serán siempre públicas, en los términos que establezca la Ley.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 Las personas que cubran las vacantes temporales de alguno de los magistrados que integran el Tribunal, deberán satisfacer los mismos requisitos que para ser magistrado electoral, conforme al procedimiento que se establezca en la ley de la materia.
 
@@ -2303,9 +2331,9 @@ Cuando a juicio del ayuntamiento respectivo sea necesario, podrán celebrar conv
 
 Las controversias que se susciten entre los ayuntamientos o entre éstos y el Gobierno del Estado, con motivo de los convenios que se celebren en materia de servicios públicos, se dirimirán conforme a lo que establezca la Ley.
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
 
-VI.- Formular, aprobar, administrar y difundir la zonificación y planes de desarrollo urbano municipal;
+VI. Formular, evaluar, aprobar, administrar, y difundir la zonificación y planes de desarrollo urbano municipal, así como los planes en materia de movilidad y seguridad vial de conformidad con la normatividad correspondiente;
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
 
@@ -2391,11 +2419,11 @@ La administración pública, fuera de la cabecera municipal, estará a cargo de 
 
 El cargo de Presidente, Síndico y Regidores es obligatorio y sólo podrá renunciarse por causa grave que califique el Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 126.
 
-Los ayuntamientos distribuirán entre los regidores la atención de los servicios municipales, en comisiones unitarias permanentes, las que emitirán dictámenes en todo caso para que el pleno de aquellos dicte los acuerdos convenientes y oportunos. La ejecución de tales acuerdos estará a cargo de los presidentes municipales. Los regidores no tendrán mando directo sobre los empleados municipales.
+Los ayuntamientos distribuirán entre los regidores la atención de los servicios municipales, en comisiones colegiadas permanentes, las que emitirán dictámenes en todo caso para que el pleno de aquellos dicte los acuerdos convenientes y oportunos. La ejecución de tales acuerdos estará a cargo de los presidentes municipales. Los regidores no tendrán mando directo sobre los empleados municipales.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2001)</small>
 
@@ -4082,3 +4110,55 @@ P.O. 13 DE JULIO DE 2022.
 PRIMERO. Remítase el presente Decreto a los Ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo,
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 364.-ARTÍCULO ÚNICO.- SE REFORMA EL ARTÍCULO 126 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado, al Concejo Mayor de Cherán y al Concejo Ciudadano de Penjamillo, Michoacán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 383.- ARTÍCULO ÚNICO.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 19; Y, SE REFORMA EL ARTÍCULO 35 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Remítase el presente Decreto a los Ayuntamientos del Estado, al Concejo Mayor de Cherán y al Concejo Municipal de Penjamillo, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 447.- ARTÍCULO ÚNICO.- SE ADICIONA UN NOVENO PÁRRAFO AL ARTÍCULO 2°; Y, SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO."
+
+PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado, al Concejo Mayor de Cherán así como al Concejo Municipal de Penjamillo, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 437.- ARTÍCULO PRIMERO.- SE ADICIONA UN TERCER PÁRRAFO RECORRIÉNDOSE EN ORDEN LOS SUBSECUENTES AL ARTÍCULO 8° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE ADICIONA LA FRACCIÓN XVI Y SE RECORREN LAS SUBSECUENTES DEL ARTÍCULO 28; LA FRACCIÓN VI Y SE RECORREN LAS SUBSECUENTES DEL ARTÍCULO 141; Y, SE REFORMA EL ARTÍCULO 157, TODOS DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO.- ARTÍCULO TERCERO.- SE REFORMAN LOS ARTÍCULOS 19, FRACCIÓN III Y 31 DE LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS”.]
+
+PRIMERO. Remítase el presente Decreto a los Ayuntamientos del Estado, al Concejo Mayor de Cherán y al Concejo Municipal de Penjamillo, para que emita el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 430.- ARTÍCULO PRIMERO.- SE REFORMA EL ARTÍCULO 37 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA EL ARTÍCULO 274 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado, al Concejo Mayor de Cherán así como al Concejo Municipal de Penjamillo, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 431.- ARTÍCULO ÚNICO.- SE REFORMA EL ARTÍCULO 1º, CUARTO PÁRRAFO; 86 BIS, PÁRRAFO SEGUNDO; 92, PÁRRAFO SEGUNDO; 95, PÁRRAFO PRIMERO; Y, 98-A, PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado, al Concejo Mayor de Cherán así como al Concejo Municipal de Penjamillo, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. Notifíquese a los Poderes Ejecutivo y Judicial, al Tribunal de Justicia Administrativa del Estado de Michoacán, Tribunal Electoral del Estado de Michoacán, Tribunal de Conciliación y Arbitraje en el Estado de Michoacán, y Junta Local de Conciliación y Arbitraje del Estado de Michoacán, para su conocimiento y debido cumplimiento.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a las reformas establecidas en el presente Decreto.
