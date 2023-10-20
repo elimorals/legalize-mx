@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2023-06-22"
+last_updated: "2023-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,15 @@ state: "MEX"
 ---
 # LEY DE EDUCACION DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE OCTUBRE DE 2023 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 2023.
 
-Ley publicada en la Sección Cuarta de la Gaceta del Estado de México, el viernes 6 de mayo de 2011.
+Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el viernes 6 de mayo de 2011.
 
 ENRIQUE PEÑA NIETO, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
 
@@ -2569,11 +2573,13 @@ Son derechos de quienes ejercen la patria potestad o la tutela:
 
 I. Obtener inscripción en escuelas públicas para que sus hijos o pupilos menores de edad, que satisfagan los requisitos aplicables, reciban la educación preescolar, la primaria, la secundaria y la media superior;
 
-> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, G.G. 20 DE OCTUBRE DE 2023)</small>
 
-II. Participar con las autoridades de la escuela en la que estén inscritos sus hijos o pupilos menores de edad, en cualquier problema relacionado con la educación de éstos, a fin de que, en conjunto se aboquen a su solución;
+II. Participar efectivamente con las autoridades de las instituciones educativas en la que estén inscritos sus hijas, hijos o pupilos menores de edad, en cualquier problema relacionado con la educación de éstos, a fin de que, en conjunto, se aboquen a su solución;
 
-III. Colaborar con las autoridades escolares para la superación de los educandos y en el mejoramiento de los establecimientos educativos;
+> <small>(REFORMADA, G.G. 20 DE OCTUBRE DE 2023)</small>
+
+III. Colaborar con las autoridades escolares, las veces que sean necesarias, para la superación de los educandos y en el mejoramiento de los establecimientos educativos;
 
 IV. Formar parte de las asociaciones de padres de familia y de los consejos de participación social a que se refiere el capítulo anterior;
 
@@ -2617,6 +2623,10 @@ XIV. Conocer el presupuesto asignado a cada escuela, así como su aplicación y 
 
 XV. Presentar quejas, ante las autoridades educativas correspondientes sobre el desempeño de docentes, directores, supervisores y asesores técnico pedagógicos de sus hijos o pupilos menores de edad y las condiciones de la escuela a la que asisten.
 
+> <small>(ADICIONADA, G.G. 20 DE OCTUBRE DE 2023)</small>
+
+XVI. Conocer la situación académica y conducta de sus hijas, hijos o pupilos en la vida escolar, así como otorgar su consentimiento informado para la revisión de sus mochilas o bolsos.
+
 (REUBICADO [N. DE E. ANTES ARTÍCULO 139], G.G. 25 DE ABRIL DE 2014)
 
 ###### Artículo 185.
@@ -2627,7 +2637,9 @@ Son obligaciones de quienes ejercen la patria potestad o la tutela:
 
 I. Hacer que sus hijas, hijos o pupilos menores de edad reciban la educación preescolar, primaria, secundaria y media superior.
 
-II. Apoyar el proceso educativo de sus hijas, hijos o pupilos;
+> <small>(REFORMADA, G.G. 20 DE OCTUBRE DE 2023)</small>
+
+II. Participar efectivamente en el proceso educativo de sus hijas, hijos o pupilos menores de edad, al revisar su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo al acudir a los llamados de las autoridades educativas o escolares;
 
 III. Colaborar con las instituciones educativas en las que estén inscritos sus hijas, hijos o pupilos, en las actividades que dichas instituciones realicen;
 
@@ -2636,6 +2648,14 @@ IV. Informar a las autoridades educativas los cambios que se presenten en la con
 V. Inculcar que sus hijas, hijos o pupilos respeten a los educadores, así como las normas de convivencia del centro educativo; y
 
 VI. Hacer del conocimiento de la autoridad educativa del plantel, las irregularidades cometidas por el personal administrativo o académico, que ocasionen perjuicios, daños o cambios emocionales en los educandos.
+
+> <small>(ADICIONADA, G.G. 20 DE OCTUBRE DE 2023)</small>
+
+VII. Revisar periódicamente las mochilas y bolsos de los educandos a su ingreso de las instituciones de educación pública o privada a efecto de prevenir cualquier introducción de objetos o sustancias prohibidas y con ello prevenir cualquier tipo de violencia;
+
+> <small>(ADICIONADA, G.G. 20 DE OCTUBRE DE 2023)</small>
+
+VIII. Participar en los procedimientos que impliquen la revisión de mochilas o bolsos de sus hijas, hijos o pupilos menores de edad en las instituciones de educación pública o privada.
 
 ### CAPÍTULO DÉCIMO PRIMERO. DE LAS INFRACCIONES, LAS SANCIONES Y DEL RECURSO ADMINISTRATIVO
 
@@ -3158,3 +3178,15 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 196.- POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 30, LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 41; SE ADICIONAN LAS FRACCIONES XXV, XXVI Y XXVII AL ARTÍCULO 41 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 184, LA FRACCIÓN II DEL ARTÍCULO 185; SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 184, LAS FRACCIONES VII Y VIII AL ARTÍCULO 185 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO, SE ADICIONA LA FRACCIÓN XXXV RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 13 DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, SE ADICIONA LA FRACCIÓN XXXVIII RECORRIÉNDOSE LA SUBSECUENTE AL APARTADO A DEL ARTÍCULO 16 DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO".
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor a los 30 días hábiles de la publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría de Educación y la Secretaría de Seguridad en coordinación con la Comisión de Derechos Humanos del Estado de México contarán con cuarenta y cinco días hábiles posteriores a la entrada en vigor de este Decreto, para la expedición del Protocolo de operativos o programas que impliquen la revisión o inspección de mochilas o bolsos de niñas, niños y adolescentes.
+
+CUARTO. Las autoridades educativas, deberán contar con carta firmada por los padres de familia, tutores o quienes ejerzan la patria potestad de los educandos, en la cual manifiestan su autorización para la revisión de mochilas o bolsos. Así mismo, se llevarán a cabo reuniones informativas y de participación con los educandos respecto de los objetivos del Protocolo, a efecto de ejecutar las acciones y medidas en términos de lo establecido en el artículo 2 de la Ley General de los Derechos de Niñas, Niños y Adolescentes para salvaguardar los derechos y principios contenidos en la misma.
