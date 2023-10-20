@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-firma-electronica-avanzada-para-el-estado-de-153642"
 country: "mx"
 rank: "ley"
 publication_date: "2022-01-07"
-last_updated: "2022-11-29"
+last_updated: "2023-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153642&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 7 de enero de 2022.
 
@@ -90,6 +90,10 @@ II. Actuaciones electrónicas: Las notificaciones, citatorios, emplazamientos, r
 III. Acuse de Recibo Electrónico: El mensaje de datos que se emite o genera a través de sistemas de información, para acreditar de manera fehaciente la fecha y hora de recepción de documentos electrónicos relacionados con los actos establecidos por la Ley;
 
 IV. Autoridad Certificadora: La Unidad de Firma Electrónica Avanzada que, conforme a las disposiciones jurídicas, tendrá reconocida esta calidad y contará con las facultades y la infraestructura tecnológica para la emisión, administración y registro de Certificados digitales, así como para proporcionar servicios relacionados con los mismos;
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+Tendrán carácter de Autoridad Certificadora, el Centro de Información y Análisis para la Seguridad de Querétaro y la Fiscalía General del Estado de Querétaro.
 
 V. Buzón Digital Estatal: medio de comunicación oficial incorporado a los portales de Internet de las dependencias, entidades y órganos, a través del cual se comunicará a los particulares o interesados cualquiera de las actuaciones o información materia de procedimientos electrónicos.
 
@@ -441,11 +445,17 @@ VI. Verificar la validez y estatus de su Certificado.
 
 ### Capítulo Cuarto. De las Autoridades Certificadoras
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 32.
 
-La autoridad certificadora en el Estado será la Unidad de Firma Electrónica Avanzada, debiendo observarse lo establecido en la fracción IV, del artículo 4 de la presente Ley, así como en su caso lo dispuesto en la Ley de Firma Electrónica Avanzada.
+Será Autoridad Certificadora en el Estado, en términos de las disposiciones aplicables:
+
+I. La Unidad de Firma Electrónica Avanzada:
+
+II. El Centro de Información y Análisis para la Seguridad de Querétaro y la Fiscalía General del Estado de Querétaro; y
+
+III. Las autoridades señaladas con dicho carácter en la Ley de Firma Electrónica Avanzada.
 
 ###### Artículo 33.
 
@@ -686,3 +696,13 @@ Artículo Décimo Sexto. Los procedimientos iniciados por las autoridades con an
 Artículo Décimo Séptimo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
 
 Artículo Décimo Octavo. Lo dispuesto en el Capítulo Quinto del Título Tercero de la Ley de Firma Electrónica Avanzada para el Estado de Querétaro, se implementará una vez que los actos o actuaciones que se pretendan incorporar al uso de la Oficialía de Partes Digital y del Buzón Digital Estatal se encuentren digitalizados, así como que se cuente con los mecanismos de interconexión e interoperabilidad en los sistemas de trámites electrónicos que permitan su adecuada incorporación y uso, conforme al Reglamento de dicha Ley, las bases, lineamientos y demás disposiciones generales que al efecto se expidan.
+
+P.O. 20 DE OCTUBRE DE 2023.
+
+> <small>[N. DE E. TRANSITOROS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE QUERÉTARO, DE LA LEY QUE CREA EL CENTRO DE INFORMACIÓN Y ANÁLISIS PARA LA SEGURIDAD DE QUERÉTARO, DE LA LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO”.]</small>
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Articulo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Querétaro, "La Sombra de Arteaga".
