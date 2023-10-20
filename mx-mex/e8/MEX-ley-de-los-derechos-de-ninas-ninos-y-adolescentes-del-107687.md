@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2023-06-22"
+last_updated: "2023-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE OCTUBRE DE 2023 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 2023.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -551,7 +553,9 @@ II. Conocer de las acciones educativas y de prevención que realicen las autorid
 
 III. Sensibilizar a la comunidad, mediante la divulgación de material que prevenga la comisión de acoso, violencia escolar y/o delitos en agravio de las y los educandos. Así como de elementos que fomenten la protección de los derechos humanos.
 
-IV. Propiciar la colaboración de maestros y padres de familia en los programas para la prevención, detección, atención y erradicación del acoso y la violencia escolar, a fin de salvaguardar la integridad y educación plena de las y los educandos.
+> <small>(REFORMADA, G.G. 20 DE OCTUBRE DE 2023)</small>
+
+IV. Propiciar la colaboración activa y permanente de directivos, maestros, padres de familia y la comunidad educativa, en el diseño, elaboración y ejecución de programas orientados a la prevención, detección, atención y erradicación del acoso y la violencia escolar, a fin de salvaguardar la integridad física de las y los educandos, en entornos de paz a través de la integración de subcomités que elaboren el Manual de Seguridad Escolar para cada uno de los centros educativos.
 
 V. Estimular, promover y apoyar actividades extraescolares que complementen y respalden la formación de los educandos, dentro de una cultura libre de violencia y respeto a los derechos humanos.
 
@@ -731,9 +735,13 @@ Las niñas, niños y adolescentes con discapacidad tienen derecho en todo moment
 
 Niñas, niños y adolescentes tienen derecho a una educación de calidad y libre de violencia que contribuya al conocimiento de sus derechos, que garantice el respeto a su dignidad humana, el pleno y armonioso desarrollo de sus potencialidades y personalidad, y fortalezca el respeto a los derechos humanos, en los términos del artículo 3 de la Constitución Federal, la Constitución Estatal, la Ley General de Educación, la Ley de Educación del Estado de México, los tratados internacionales y demás disposiciones aplicables.
 
-Quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de las demás personas que por razón de sus funciones o actividades tengan bajo su cuidado, niñas, niños o adolescentes, en proporción a su responsabilidad, tendrán derecho a intervenir en la educación que habrá de darse a las niñas, niños y adolescentes.
+> <small>(REFORMADO, G.G. 20 DE OCTUBRE DE 2023)</small>
 
-Las autoridades estatales, en el ámbito de sus respectivas competencias garantizarán la consecución de una educación de calidad y la igualdad en el acceso y permanencia en la misma, por lo cual deberán:
+Los padres de familia o quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de las demás personas que por razón de sus funciones o actividades tengan bajo su cuidado, niñas, niños o adolescentes, en proporción a su responsabilidad, tendrán derecho a intervenir de manera activa en la educación que habrá de darse a las niñas, niños y adolescentes, así como en programas, acciones o actividades relacionadas con la seguridad al interior de los planteles educativos, durante el ingreso, permanencia o al salir de los mismos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 20 DE OCTUBRE DE 2023)</small>
+
+Las autoridades estatales, en el ámbito de sus respectivas competencias garantizarán la consecución de la seguridad escolar, una educación de calidad y la igualdad en el acceso y permanencia en la misma, por lo cual deberán:
 
 I. Proporcionar la atención educativa que niñas, niños y adolescentes requieran para su pleno desarrollo, por lo cual, los programas respectivos deberán considerar la edad, madurez, circunstancias particulares y tradiciones culturales, para prepararlos para la vida con un espíritu crítico, reflexivo y analítico.
 
@@ -788,6 +796,22 @@ XXII. Fomentar el interés por la ciencia y las actitudes que estimulen la inves
 XXIII. Establecer medidas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas y faciliten su reingreso al sistema educativo estatal.
 
 XXIV. Inculcar en niñas, niños y adolescentes el respeto a la patria y sus símbolos.
+
+> <small>(ADICIONADA, G.G. 20 DE OCTUBRE DE 2023)</small>
+
+XXV. Implementar acciones, y programas que prevengan que se introduzcan armas, estupefacientes o demás sustancias similares, así como también objetos prohibidos que pongan en riesgo la integridad física y psicológica de los educandos y comunidad escolar de instituciones públicas o privadas en general;
+
+Toda acción o programa, que implique la revisión o inspección de mochilas o bolsos de niñas, niños y adolescentes por parte de las autoridades educativas, que tengan como objetivo garantizar la integridad física de los educandos de instituciones públicas o privadas deberán de ser justificadas y proporcionales, así mismo los educandos y padres de familia manifestarán de forma expresa, libre e informada su consentimiento de dichas acciones o programas;
+
+> <small>(ADICIONADA, G.G. 20 DE OCTUBRE DE 2023)</small>
+
+XXVI. Elaborar, dar seguimiento y en su caso actualizar en coordinación con la Comisión de Derechos Humanos del Estado de México el Protocolo para la ejecución de programas o acciones que impliquen la revisión o inspección de mochilas o bolsos con el objetivo de preservar la seguridad al interior de las instituciones de educación pública o privada, para lo cual se tomará en cuenta el irrestricto respeto a los derechos humanos de los educandos y demás integrantes de la comunidad escolar;
+
+Se entiende por seguridad escolar al conjunto de condiciones, medidas y acciones enfocadas al desarrollo del autocuidado y a la prevención de riesgos que pongan en peligro la vida, la salud y en general la integridad física de las niñas, niños y adolescentes miembros de la comunidad educativa de instituciones públicas o privadas.
+
+> <small>(ADICIONADA, G.G. 20 DE OCTUBRE DE 2023)</small>
+
+XXVII. Realizar en conjunto con las autoridades facultadas para ello, el seguimiento y evaluación constante de acciones, proyectos y programas en materia de seguridad escolar a efecto de mitigar la comisión de delitos y riesgos en las instituciones públicas y privadas.
 
 ###### Artículo 42.
 
@@ -2394,3 +2418,15 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 196.- POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 30, LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 41; SE ADICIONAN LAS FRACCIONES XXV, XXVI Y XXVII AL ARTÍCULO 41 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 184, LA FRACCIÓN II DEL ARTÍCULO 185; SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 184, LAS FRACCIONES VII Y VIII AL ARTÍCULO 185 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO, SE ADICIONA LA FRACCIÓN XXXV RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 13 DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, SE ADICIONA LA FRACCIÓN XXXVIII RECORRIÉNDOSE LA SUBSECUENTE AL APARTADO A DEL ARTÍCULO 16 DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor a los 30 días hábiles de la publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. La Secretaría de Educación y la Secretaría de Seguridad en coordinación con la Comisión de Derechos Humanos del Estado de México contarán con cuarenta y cinco días hábiles posteriores a la entrada en vigor de este Decreto, para la expedición del Protocolo de operativos o programas que impliquen la revisión o inspección de mochilas o bolsos de niñas, niños y adolescentes.
+
+CUARTO. Las autoridades educativas, deberán contar con carta firmada por los padres de familia, tutores o quienes ejerzan la patria potestad de los educandos, en la cual manifiestan su autorización para la revisión de mochilas o bolsos. Así mismo, se llevarán a cabo reuniones informativas y de participación con los educandos respecto de los objetivos del Protocolo, a efecto de ejecutar las acciones y medidas en términos de lo establecido en el artículo 2 de la Ley General de los Derechos de Niñas, Niños y Adolescentes para salvaguardar los derechos y principios contenidos en la misma.
