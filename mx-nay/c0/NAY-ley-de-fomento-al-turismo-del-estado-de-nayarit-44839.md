@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-fomento-al-turismo-del-estado-de-nayarit-44839"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-04"
-last_updated: "2022-07-14"
+last_updated: "2023-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE FOMENTO AL TURISMO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2023.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Gobierno del Estado de Nayarit, el miércoles 4 de mayo de 2005.
 
@@ -115,6 +115,10 @@ Para los efectos de esta Ley, se considera como:
 
 I. Consejo: El Consejo Consultivo Estatal de Turismo;
 
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+I Bis. Conferencia: Conferencia Estatal de Directores de Turismo de Nayarit;
+
 II. Consejo Municipal: Los Consejos Consultivos Municipales de Turismo en el Estado;
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
@@ -133,9 +137,17 @@ VII. Secretaría: La Secretaría de Turismo del Estado de Nayarit;
 
 VIII. Turismo Sustentable.- Aquél que cumple con dar un uso sustentable a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos; aquel que respeta la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos naturales, culturales, sus valores tradicionales y arquitectónicos; y aquel, que asegura el desarrollo de las actividades económicas viables, que obtengan beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida de sus habitantes; con equilibrio entre economía-sociedad-ambiente, garantizando la funcionalidad ecosistémica;
 
-IX. Turista: La persona que temporalmente viaja fuera de su lugar de residencia habitual y que utiliza o disfruta dentro del estado algún servicio turístico referido en la presente ley, y
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
 
-X. Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio nacional, claramente ubicadas y delimitadas geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico y que se establecen mediante declaratoria específica emitida en los términos de la Ley General de Turismo.
+IX. Turista: La persona que temporalmente viaja fuera de su lugar de residencia habitual y que utiliza o disfruta dentro del estado algún servicio turístico referido en la presente ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE OCTUBRE DE 2023)</small>
+
+X. UMA: A la Unidad de Medida y Actualización, considerando su valor diario en términos del artículo 26 Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE OCTUBRE DE 2023)</small>
+
+XI. Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio nacional, claramente ubicadas y delimitadas geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico y que se establecen mediante declaratoria específica emitida en los términos de la Ley General de Turismo.
 
 > <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
 
@@ -155,9 +167,17 @@ V. Empresas que ofrezcan actividades de ecoturismo;
 
 VI. Organizadores de congresos, convenciones, ferias, exposiciones y reuniones de grupos de trabajo o capacitación que generen flujos de Turismo;
 
-VII. Las personas o empresas que realicen actividades educativas y culturales que atiendan preponderantemente al turista, y
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
 
-VIII. Las personas o empresas que presten servicios turísticos en cualquiera de sus modalidades.
+VII. Las personas o empresas que realicen actividades educativas y culturales que atiendan preponderantemente al turista;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+VIII. Las personas o empresas que presten servicios turísticos en cualquiera de sus modalidades, y
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+IX. Las personas o empresas que presten el servicio de alojamiento o albergue temporal en la modalidad de renta de casas, departamentos o demás modalidades, en forma total o parcial, destinado al uso habitacional, en los que se ofrezca alojamiento en habitación de manera temporal y flexible ofrecido a través de plataformas digitales.
 
 > <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
 
@@ -211,7 +231,9 @@ III. Coadyuvar en las acciones de los sectores social y privado para la prestaci
 
 IV. Diseñar y ejecutar el Plan Rector sectorial en materia Turística, en los términos de esta Ley y su Reglamento;
 
-V. Llevar el registro y control de los prestadores de servicios turísticos considerados en esta ley y expedir la Cédula Estatal de calidad turística;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+V. Llevar el registro y control de los prestadores de servicios turísticos considerados en esta ley y expedir la Cédula Estatal de calidad e imagen turística;
 
 VI. Suscribir convenios de colaboración con otras dependencias y entidades públicas, con los sectores social y privado, para la realización de programas y acciones específicas relativas al objeto de esta ley;
 
@@ -243,7 +265,9 @@ XVI. Promover la señalización turística en las vías públicas y las carreter
 
 XVII. Recibir quejas y sugerencias sobre la prestación de servicios turísticos en el estado y coadyuvar con los Ayuntamientos, en el propósito de mejorar la protección al turista;
 
-XVIII. Imponer las sanciones administrativas que esta ley señale sin perjuicio de las previstas en otros ordenamientos;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+XVIII. Verificar el cumplimiento de la Ley e imponer sanciones a los Prestadores de Servicios Turísticos, derivado de la omisión e incumplimiento de las obligaciones establecidas en esta Ley;
 
 XIX. Coordinar el programa sectorial, turístico, que se sujetará a lo previsto en el Plan Estatal de Desarrollo, cumpliendo con las tareas que le correspondan en el marco de la Ley de Planeación del Estado de Nayarit y en congruencia con el Plan Nacional de Desarrollo y el programa sectorial de turismo nacional, y (sic)
 
@@ -323,67 +347,121 @@ X. Conocer oportunamente los proyectos de desarrollo turístico que lleve a cabo
 
 XI. Las demás contenidas en esta Ley y en otras disposiciones legales y reglamentarias aplicables.
 
-> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2023)</small>
 
-ARTICULO 11 A.- Los prestadores de servicios turísticos tendrán las siguientes obligaciones:
+ARTICULO 11 A.- Son obligaciones de los prestadores de servicios turísticos:
 
-I. Prestar servicios sin violentar las disposiciones establecidas en esta Ley y en la normatividad vigente;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
 
-II. Anunciar en los lugares de acceso al establecimiento sus precios, tarifas y los servicios que éstos incluyen;
+I. Observar estrictamente las disposiciones de esta Ley, la Ley General de Turismo y demás ordenamientos legales que normen su actividad;
 
-III. Informar sobre el lugar de destino turístico, las condiciones del viaje, la estancia y el costo del servicio a los turistas, de manera previa a la contratación;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
 
-IV. Cumplir con las medidas de seguridad en materia de protección civil que emitan las autoridades;
+II. Colaborar con las distintas autoridades en la materia, en la optimización de la actividad turística;
 
-V. Cumplir los precios, tarifas, promociones, reservaciones, y demás prestaciones y servicios acordados, en los términos anunciados, ofrecidos y convenidos;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
 
-VI. Implantar el sistema de quejas de Turistas en términos de lo que establezca el reglamento de esta Ley;
+III. Proporcionar un trato adecuado a los turistas, brindándoles facilidades a las personas con discapacidad, personas pertenecientes a pueblos originarios y adultos mayores para su acceso y desplazamiento, así como instalaciones sanitarias aprobadas y ubicaciones preferenciales que aseguren su evacuación en caso de alguna contingencia;
 
-VII. Garantizar el acceso a las instalaciones y trato equitativo a las personas con discapacidad, a los indígenas, personas de la tercera edad y demás individuos que se consideren parte de un grupo vulnerable;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
 
-VIII. Mantener sus instalaciones en óptimas condiciones de servicio, seguridad e higiene, de acuerdo a la normatividad aplicable;
+IV. Cumplir con los servicios, precios, tarifas y promociones en los términos anunciados, ofrecidos o acordados con independencia del medio de difusión utilizado para los efectos;
 
-IX. Proporcionar la información que en términos de esta Ley, le requiera la Secretaría o los municipios;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
 
-X. Informar oportunamente a los turistas para prevenir actividades que degraden o pongan en peligro los ecosistemas, así como hacer del conocimiento de la autoridad competente de los daños ocasionados en su caso;
+V. Proporcionar la información que, en términos de esta Ley, le requiera la Secretaría o los municipios, con el objetivo de generar la estadística turística del Estado, esta información estará integrada por:
 
-XI. Inscribirse en el Registro Estatal de Turismo y obtener la cédula de calidad turística respectiva;
+a) Afluencia turística;
 
-XII. Atender la normatividad y las recomendaciones que formulen las autoridades competentes en materia de seguridad y protección civil;
+b) Derrama económica;
 
-XIII. Respetar los usos y costumbres de los turistas, siempre que éstos no sean contrarios a las leyes;
+c) Estadía promedio;
 
-XIV. Coadyuvar a la preservación del medio ambiente y los recursos turísticos de conformidad con esta Ley y demás legislación de la materia;
+d) Perfil socioeconómico del Turista o Visitante;
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+e) Gasto promedio;
 
-XV. Procurar la buena imagen de los servicios turísticos que presten;
+f) Tendencias del sector, y
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+g) Cualquier información turística que requiera la Secretaría en los términos y condiciones que disponga, a efecto de elaborar indicadores oportunos, confiables y objetivos, que aporten a mejorar las condiciones del Estado.
 
-XVI. Prestar servicios atendiendo lo establecido en la presente Ley, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como la Ley General de Vida Silvestre, y demás legislación en la materia, y
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+VI. Inscribirse en el Registro Estatal de Turismo y tramitar, obtener y actualizar la Cédula Estatal de Calidad e Imagen Turística respectiva en los términos y condiciones que la Secretaría disponga, a efecto de que sus servicios puedan operar con plenitud en territorio Nayarita;
 
-XVII. Las demás que establezcan esta Ley y otras disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MARZO DE 2012)</small>
+VII. Exhibir en lugar visible la Cédula Estatal de Calidad e Imagen Turística;
 
-### CAPÍTULO II. De los Consejos Consultivos
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+VIII. Facilitar el acceso a las instalaciones del lugar en que se presenten los Servicios Turísticos al personal autorizado por la Secretaría para la práctica de las diligencias previstas en esta Ley;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+IX. Cumplir con los Servicios Turísticos en los términos contratados o pactados;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+X. Denunciar de forma inmediata ante la autoridad competente, todo acto u omisión, vinculado a la comisión de hechos probablemente delictuosos o probables violaciones a derechos humanos en los que resulten afectados los turistas o visitantes;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+XI. Actuar con previsión en el uso y cuidado del Patrimonio Turístico, recursos naturales o el medio ambiente;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+XII. Exhibir en un lugar accesible y visible los precios, tarifas y servicios ofertados;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+XIII. Capacitar de forma permanente y continua al personal a su cargo con el objeto de mejorar la calidad de los servicios que prestan;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+XIV. Establecer protocolos de seguridad y primeros auxilios, en términos de lo que dispongan las autoridades competentes de la materia;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+XV. Implementar las medidas de seguridad tendientes a la protección y seguridad del patrimonio de los turistas o visitantes en los establecimientos y lugares donde presten sus servicios;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+XVI. Enterar el efectivo cumplimiento del pago al impuesto sobre el hospedaje a la autoridad fiscal, en los términos y condiciones que dispongan, los instrumentos normativos y la Ley de Hacienda del Estado de Nayarit;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE OCTUBRE DE 2023)</small>
+
+XVII. Prestar servicios atendiendo lo establecido en la presente Ley, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como la Ley General de Vida Silvestre, y demás legislación en la materia;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+XVIII. Acatar las resoluciones emitidas por la Secretaría en materia turística;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+XIX. Cumplir con los convenios o acuerdos que celebre la Secretaría, con instancias estatales o federales, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE OCTUBRE DE 2023)</small>
+
+XX. Las demás que establezcan esta Ley y otras disposiciones legales y reglamentarias aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+### CAPÍTULO II. De los Consejos Consultivos y de la conferencia
 
 > <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
 
 #### Sección Primera. Consejo Consultivo Estatal de Turismo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 12.
 
-El Consejo es un órgano de consulta de la Secretaría, que tendrá por objeto proponer la formulación de las estrategias y acciones de coordinación de las dependencias y entidades de la administración pública, con el fin de lograr un desarrollo integral y sustentable de las actividades turísticas en el estado, utilizando entre otros mecanismos foros de consulta y memorias publicadas.
+El Consejo es un órgano de consulta de la Secretaría, que tendrá por objeto proponer la formulación de las estrategias y acciones de coordinación de las dependencias y entidades de la administración pública estatal, con el fin de lograr un desarrollo integral y sustentable de las actividades turísticas en el estado, utilizando entre otros mecanismos foros de consulta y memorias publicadas.
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2023)</small>
 
-El Consejo será presidido por el Titular del Ejecutivo del Estado, y estará integrado por aquellos que éste determine, incluyendo al Titular de la Secretaría, y por los Presidentes Municipales conforme lo dispuesto en el reglamento de la presente ley.
+El Consejo será presidido por el Titular del Ejecutivo del Estado, y estará integrado por aquellos que éste determine, el Titular de la Secretaría, y por los Presidentes Municipales conforme lo dispuesto en el reglamento de la presente ley.
 
 > <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
@@ -415,31 +493,49 @@ Podrán ser invitados al Consejo Municipal con derecho a voz, representantes de 
 
 El Ayuntamiento deberá emitir las disposiciones reglamentarias correspondientes al funcionamiento del Consejo Municipal e instrumentar mecanismos eficaces para lograr que las instituciones y los diversos sectores de la sociedad del Municipio tengan la posibilidad de presentar propuestas y proyectos en la materia.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+#### Sección Tercera. De la Conferencia Estatal de Directores de Turismo de Nayarit
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 15 A.- La Conferencia, es un órgano colegiado de la Secretaría, que tiene por objeto dirigir las políticas, estrategias, programas y regulaciones establecidas con el fin de determinar las actividades y acciones de conservación, protección, aprovechamiento, investigación, producción de bienes y servicios, restauración, capacitación, recreación y demás actividades relacionadas con el desarrollo turístico integral en los municipios de nuestro Estado.
+
+La Conferencia, será presidida por el titular de la Secretaría y estará integrada por veinte vocales, quienes serán los titulares de las Direcciones Municipales de Turismo o la persona que estos designen, quienes tendrán el cargo jerárquico inmediatamente inferior; quedando sujetos a las regulaciones especificas contenidas en su reglamentación interior, a las normas legales, además de las disposiciones normativas y reglamentarias que resulten aplicables.
+
+Por indicaciones de la persona titular de la presidencia de la Conferencia, podrán ser invitados al órgano colegiado, con derecho a voz pero no voto, los representantes de instituciones públicas federales, locales o municipales, privadas, sociales, asociaciones y sociedades jurídicamente reconocidas relacionadas al turismo, así al sector académico, entre otras que puedan hacer aportaciones a los temas que se traten.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 15 B.- Serán obligaciones de los integrantes de la Conferencia:
+
+I. Dar seguimiento a los proyectos y programas que establezca la persona titular de la Presidencia de la Conferencia, de conformidad con la Ley;
+
+II. Asistir mínimo en un 70 % de las reuniones de la Conferencia generando propuestas de valor, ejecutando acciones conforme a los programas establecidos, para lograr participar en ferias y eventos nacionales e internacionales.
+
+De no cumplir con la asistencia mínima, podrá ser acreedor a las sanciones administrativas señaladas en la Ley General de Responsabilidades Administrativas;
+
+III. Cumplir con lo establecido en la presente Ley, así como con las políticas públicas de competencia, las cuales permitirán desarrollar el destino e imagen en materia turística;
+
+IV. Efectuar los programas y proyectos asignados a su municipio por parte del titular de la Presidencia de la Conferencia;
+
+V. Gestionar la asignación de presupuesto en materia turística, para llevar a cabo planes y proyectos con la Secretaría de Turismo del Estado, y
+
+VI. Las demás que establezcan esta Ley y otras disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 15 C.- La reglamentación interna de la Conferencia, contendrá las disposiciones correspondientes a sus atribuciones y funcionamiento, alcances, con el objeto de propiciar el desarrollo integral de los municipios y sus comunidades.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MARZO DE 2012)</small>
-
-#### Sección Primera. Planeación Turística
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
 ### CAPÍTULO III. De la Planeación Turística, Cadenas Productivas y del Ordenamiento Turístico del Territorio
 
 > <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
 
-#### Sección Segunda. Plan Rector Sectorial en materia de Turismo
+#### Sección Primera. Planeación Turística
 
-> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
-
-ARTICULO 17 A.- El Plan Rector Sectorial en materia de Turismo será de largo plazo y contendrá, cuando menos:
-
-I. Los objetivos, estrategias y metas en materia de fomento y desarrollo turístico;
-
-II. Las acciones a realizar para cumplir con los objetivos y metas establecidas, y
-
-III. Las etapas de evaluación y demás elementos que se establezcan en el Reglamento.
-
-En la elaboración del Plan Rector Sectorial en materia de Turismo participarán los Prestadores de Servicios Turísticos, las cámaras empresariales legalmente constituidas que funcionen en el Estado, universidades, y demás instituciones públicas y privadas relacionadas a la materia turística que convoque la Secretaría.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 16.
 
@@ -464,6 +560,22 @@ III. Garantizar el acceso y trato equitativo de toda persona a las diferentes mo
 La planeación turística será acorde a lo establecido en el Plan Estatal de Desarrollo y tenderá a fomentar el desarrollo turístico sustentable.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE MARZO DE 2012)</small>
+
+#### Sección Segunda. Plan Rector Sectorial en materia de Turismo
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
+
+ARTICULO 17 A.- El Plan Rector Sectorial en materia de Turismo será de largo plazo y contendrá, cuando menos:
+
+I. Los objetivos, estrategias y metas en materia de fomento y desarrollo turístico;
+
+II. Las acciones a realizar para cumplir con los objetivos y metas establecidas, y
+
+III. Las etapas de evaluación y demás elementos que se establezcan en el Reglamento.
+
+En la elaboración del Plan Rector Sectorial en materia de Turismo participarán los Prestadores de Servicios Turísticos, las cámaras empresariales legalmente constituidas que funcionen en el Estado, universidades, y demás instituciones públicas y privadas relacionadas a la materia turística que convoque la Secretaría.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE MARZO DE 2012)</small>
 
 #### Sección Tercera. Programa Sectorial Turístico
 
@@ -563,9 +675,9 @@ El Programa de Ordenamiento preverá las disposiciones necesarias para la coordi
 
 La Secretaría promoverá la participación de organizaciones sociales y empresariales, instituciones académicas, de investigación y demás personas interesadas en la materia, para la elaboración, ejecución, vigilancia y evaluación del Programa de Ordenamiento.
 
-> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2023)</small>
 
-ARTICULO 17 G.- El Consejo podrá emitir sugerencias y observaciones a la Secretaría para la formulación del Programa de Ordenamiento.
+ARTICULO 17 G.- La Conferencia podrá emitir sugerencias y observaciones a la Secretaría para la formulación del Programa de Ordenamiento.
 
 > <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
 
@@ -897,29 +1009,45 @@ ARTICULO 24 G.- La Secretaría impulsará la capacitación de los prestadores de
 
 ARTICULO 24 H.- La Secretaría promoverá el desarrollo de infraestructura y equipamiento de las zonas rurales declaradas con potencial turístico, que contribuyan al fomento y desarrollo de la actividad turística; lo anterior estará sujeto a la disponibilidad de los recursos aprobados en el Presupuesto de Egresos del Gobierno del Estado.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2023)</small>
 
-### CAPÍTULO VII. Facultades de los Ayuntamientos en Materia Turística
+### CAPÍTULO VII. Facultades y Obligaciones de los Ayuntamientos en Materia Turística
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 25.
 
-Los Ayuntamientos, en el ámbito de sus respectivas competencias, tendrán en materia de turismo las siguientes facultades:
+Los Ayuntamientos, por conducto de los titulares de las direcciones municipales de turismo o sus áreas correspondientes, en el ámbito de sus respectivas competencias, tendrán en materia de turismo las siguientes facultades:
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
 I. Elaborar, promover y ejecutar programas de desarrollo turístico municipal acordes al Programa Sectorial Estatal Turístico;
 
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
 II. Celebrar acuerdos de coordinación y convenios de colaboración para el desarrollo y la promoción turística con las autoridades federales, estatales y de otros municipios del Estado en materia de Turismo, para la implementación de proyectos y programas turísticos;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
 III. Aplicar los instrumentos de política turística que les sean atribuidos por las leyes locales, así como la planeación, programación, fomento y desarrollo de la actividad turística en bienes y áreas de competencia municipal, en las materias que no estén expresamente atribuidas a la Secretaría o al Poder Ejecutivo Federal;
 
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
 IV. Formular, ejecutar y evaluar el Programa Municipal de Turismo, el cual considerará las directrices previstas en el Plan Rector y el Programa Sectorial Turístico;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
 V. Promover, planear y ejecutar obras de infraestructura para el desarrollo de las actividades turísticas;
 
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
 VI. Gestionar ante las autoridades federales y estatales, los sistemas de financiamiento e inversión, para la creación de la infraestructura necesaria en las zonas turísticas;
 
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
 VII. Establecer el Consejo Consultivo Municipal de Turismo que tendrá por objeto coordinar, proponer y formular las estrategias y acciones de la administración pública municipal, con el fin de lograr un desarrollo integral de la actividad turística en el Municipio;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
 VIII. Concertar con los sectores privado y social, las acciones tendientes a detonar programas a favor de la actividad turística;
 
@@ -927,33 +1055,119 @@ VIII. Concertar con los sectores privado y social, las acciones tendientes a det
 
 IX. Impulsar las actividades turísticas, en el ámbito de su competencia, en las zonas rurales y de desarrollo turístico sustentable, fomentando la inversión, el empleo y el ordenamiento territorial, conservando sus recursos naturales en beneficio de la población;
 
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
 X. Participar en los programas locales de ordenamiento turístico del territorio;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
 XI. Participar en el diseño, instrumentación, ejecución y evaluación de los programas locales de investigación para el desarrollo turístico;
 
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
 XII. Formular y conducir la política municipal de información y difusión en materia turística;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
 XIII. Coadyuvar en la instrumentación de las acciones de promoción de las actividades y destinos turísticos con que cuenta el municipio;
 
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
 XIV. Promover el impulso de las micro, pequeñas y medianas empresas turísticas;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
 XV. Participar en los programas de prevención y atención de emergencias y desastres, así como en acciones para la gestión integral de los riesgos, conforme a las políticas y programas de protección civil que al efecto se establezcan;
 
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
 XVI. Operar módulos de información y orientación al turista;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
 XVII. Recibir y canalizar las quejas de los turistas, para su atención ante la autoridad competente;
 
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
 XVIII. Atender los asuntos que en materia de planeación, programación, fomento y desarrollo de la actividad turística les conceda esta Ley u otros ordenamientos legales en concordancia con ella y que no estén otorgados expresamente al Ejecutivo Federal o al Estado;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
 XIX. Emitir opinión ante la Secretaría, en aquellos casos en que la inversión concurra en proyectos de desarrollo turístico o en el establecimiento de servicios turísticos dentro de su territorio;
 
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
 XX. Planificar el uso del suelo, el ordenamiento urbano y territorial, el equipamiento y regulación en las zonas y áreas con potencial turístico, así como en los asentamientos dedicados a las actividades turísticas;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
 XXI. Presentar ante la Secretaría de Turismo Federal, proyectos de declaratoria de zonas de desarrollo turístico sustentable, de acuerdo al procedimiento y requisitos que establezca el reglamento de la Ley General de Turismo;
 
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
 XXII. Entregar a la Secretaría los datos económicos y estadísticos que generen en materia de Turismo; y
 
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
 XXIII. Las demás previstas en esta Ley y su reglamento.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 25 A.- Los Ayuntamientos, por conducto de los titulares de las direcciones municipales de turismo o sus áreas correspondientes, tendrán en materia de turismo las siguientes obligaciones:
+
+I. Tener un representante en la Conferencia Estatal de Directores de Turismo de Nayarit, quien será el titular de la Dirección Municipal de Turismo o la persona que este designe, debiendo tener el cargo jerárquico inmediatamente inferior, su labor consistirá en proponer al Titular de la Conferencia, las acciones correspondientes a lograr un desarrollo integral de la actividad turística en su municipio;
+
+II. Trabajar en la implementación, coordinación y ejecución de las políticas, programas, proyectos y estrategias que establezca la Secretaría;
+
+III. Promover y brindar las facilidades en el ámbito de su competencia para que los Prestadores de Servicios Turísticos, cumplan con la obtención de la Cédula Estatal de Calidad e Imagen Turística;
+
+IV. Implementar en coordinación con la Secretaría, los criterios conceptuales, directrices, metodologías y estrategias para la elaboración de productos turísticos regionales diferenciados, competitivos y de valor agregado que respondan a la vocación de los destinos y se encuentren alineados a las políticas y prioridades del Estado;
+
+V. Operar módulos de información turística de forma permanente, en los lugares de mayor afluencia turística;
+
+VI. Aplicar y observar el cumplimiento de las disposiciones en materia turística, que dicten las leyes, reglamentos o acuerdos Federales, Estatales y Municipales;
+
+VII. Organizar las efemérides vinculadas con la cultura, dando significado a conmemoraciones representativas del Estado y su municipio;
+
+VIII. Generar contenido fotográfico y audiovisual para la conformación del acervo del municipio de competencia, y remitirlo a la Secretaría;
+
+IX. Proponer a la Secretaría rutas rurales y artesanales, para el desarrollo turístico del municipio;
+
+X. Generar propuestas de participación en tianguis, ferias, congresos y eventos turísticos, responsabilizándose de su participación;
+
+XI. Instrumentar con la Secretaría, las acciones de promoción de las actividades y destinos turísticos de su municipio;
+
+XII. Atender y dar seguimiento, a los programas y proyectos de intervención estratégica que la Secretaría promueva, mismos que tienen por objeto incentivar el desarrollo y fortalecimiento de cadenas productivas y de valor en los destinos turísticos;
+
+XIII. Generar reportes mensuales al titular de la Secretaría, con la información referente a los trabajos realizados y el seguimiento de los programas, proyectos, estrategias y políticas que han realizado en coordinación con la Secretaría;
+
+XIV. Desarrollar y ejecutar modelos integrales de gestión de destinos turísticos y pueblos mágicos, bajo criterios de sustentabilidad, competitividad, transversalidad y productividad, con el objetivo de consolidar al turismo como opción de desarrollo y fuente de bienestar social;
+
+XV. Coordinar los trabajos con la Secretaría, para promover los programas que contribuyan al desarrollo integral de los destinos que posea el municipio, así como generar las condiciones para la obtención de titularidades, como la Zona Turística de Alto Impacto y/o Zona de Desarrollo Turístico Sustentable, conforme a las disposiciones jurídicas aplicables;
+
+XVI. Colaborar con las autoridades competentes en los destinos turísticos, en materia de seguridad y auxilio a los turistas nacionales y extranjeros, para proteger su integridad y patrimonio;
+
+XVII. Advertir y proponer al Titular de la Secretaría las acciones que puedan dar solución a la problemática identificada en materia turística;
+
+XVIII. Fomentar la participación de las comunidades receptoras en el desarrollo turístico de su localidad, particularmente en el diseño y operación de proyectos productivos turísticos;
+
+XIX. Atender el cuidado y preservación del patrimonio cultural, histórico y natural de los destinos turísticos del municipio, en coordinación con las autoridades competentes;
+
+XX. Definir, en coordinación con la Dirección General de Desarrollo y Operación Turística de la Secretaría, las estrategias orientadas a difundir la cultura turística en los destinos turísticos;
+
+XXI. Asegurar el ejercicio adecuado y mantenimiento a las mejoras que genera la Secretaría a los municipios para el desarrollo adecuado de los destinos turísticos;
+
+XXII. Identificar las necesidades de señalización en las vías de acceso a los destinos turísticos de gran afluencia e informar a la Secretaría para la gestión ante las instancias correspondientes;
+
+XXIII. Coadyuvar con los comités ciudadanos que tengan enfoque en materia turística, como es el caso del Comité de Pueblo Mágico y el Consejo Consultivo Municipal, dando seguimiento a las gestiones articuladas;
+
+XXIV. Gestionar la capacitación, actualización y profesionalización de los prestadores de servicios turísticos de las organizaciones y empresas de los sectores público, social y privado;
+
+XXV. Requerir a los prestadores de servicios turísticos, el cumplimiento de sus obligaciones establecidas en la Ley, así como de la Ley General de Turismo, las Normas Oficiales Mexicanas, las Normas Estatales, reglamentaciones y demás disposiciones jurídicas aplicables, en caso de incumplimiento, se deberá dar vista a la Secretaría a la inmediatez posible, para que esta pueda aplicar la sanción correspondiente;
+
+XXVI. Coordinar el seguimiento, actualización y obtención de la ocupación hotelera de los destinos turísticos de su competencia, verificando que la información estadística sea veraz y confiable, y
+
+XXVII. Las demás previstas en esta Ley y su reglamento.
 
 ###### ARTICULO 26.
 
@@ -974,6 +1188,10 @@ Para que una extensión geográfica determinada, o una población o parte de és
 ###### ARTICULO 29.
 
 Los Ayuntamientos establecerán en sus Bandos Municipales, normas tendientes a la protección, conservación y mantenimiento de las poblaciones que sean declaradas culturalmente típicas que deberán referirse por lo menos a: anuncios, avisos, carteles, hilos telegráficos, telefónico, conductores de energía eléctrica, aparatos sonoros, establecimientos de garajes, sitios de automóviles, expendios de gasolinas y lubricantes, kioscos, templetes, juegos, puestos y toda construcción permanente o provisional que pueda demeritar la apariencia típica o tradicional del lugar.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+Para lo anterior, la Secretaría podrá realizar recomendaciones a los Ayuntamientos con el fin de fortalecer los estándares de calidad de los productos y servicios que ofrecen al visitante, a efecto de mejorar la percepción del turista que arriba al Estado de Nayarit.
 
 ### CAPÍTULO VIII. Inversión Turística
 
@@ -1027,11 +1245,13 @@ III. Cuando dichos trámites deban cumplirse en varias unidades administrativas 
 
 La Secretaría organizará el Registro Estatal de Turismo, como un instrumento para la estadística, regulación y control tanto de los prestadores de servicios turísticos previstos en esta ley y disposiciones que de ella emanen, como de los apoyos y estímulos que se les otorguen. Para tal efecto, la Secretaría recabará la opinión de los Ayuntamientos a fin de que coadyuven en su implementación, actualización y control.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
 ###### ARTICULO 36.
 
-Los prestadores de servicios turísticos para poder recibir los apoyos y estímulos previstos en esta ley, tienen la obligación de inscribirse en el Registro Estatal de Turismo en los términos que prevea el reglamento respectivo, y cumplir con los requisitos para expedirle su cédula estatal de calidad turística. En el caso de inversionistas con nuevos proyectos turísticos que soliciten apoyos y estímulos, deberán registrarse y cumplir con las normas respectivas para extenderles la cédula de calidad turística.
+Los prestadores de servicios turísticos para poder recibir los apoyos y estímulos previstos en esta ley, tienen la obligación de inscribirse en el Registro Estatal de Turismo en los términos que prevea el reglamento respectivo, y cumplir con los requisitos para expedirle su Cédula Estatal de Calidad e Imagen Turística. En el caso de inversionistas con nuevos proyectos turísticos que soliciten apoyos y estímulos, deberán registrarse y cumplir con las normas respectivas para extenderles la Cédula Estatal de Calidad e Imagen Turística.
 
-La inscripción es voluntaria para aquellos prestadores de servicios turísticos no sujetos a competencia federal.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE OCTUBRE DE 2023)</small>
 
 ### CAPÍTULO X. Protección al Turista
 
@@ -1039,7 +1259,7 @@ La inscripción es voluntaria para aquellos prestadores de servicios turísticos
 
 ### CAPÍTULO XI. De la Verificación
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2023)</small>
 
 ### CAPÍTULO XII. Sanciones y Recursos
 
@@ -1103,15 +1323,29 @@ La denuncia podrá presentarse también por conducto de las Representaciones de 
 
 ###### ARTICULO 41.
 
-Es facultad de la Secretaría realizar visitas de verificación a los Prestadores de Servicios Turísticos, a efecto de constatar el debido cumplimiento de las obligaciones a su cargo establecidas en esta Ley, en su reglamento y en las normas oficiales mexicanas, así como coordinarse con las autoridades fiscales a efecto de que los prestadores de servicios turísticos informen sobre el efectivo cumplimiento al pago del Impuesto al Hospedaje.
+La Secretaría estará facultada para realizar visitas de verificación a los prestadores de servicios turísticos con el objeto de constatar el debido cumplimiento de sus obligaciones establecidas en esta Ley, su Reglamento y, demás normas estatales que resulten aplicables, así como coordinarse con las autoridades fiscales a efecto de que los prestadores de servicios turísticos informen sobre el efectivo cumplimiento al pago del Impuesto al Hospedaje.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+Para lo anterior, se auxiliará de Verificadores Turísticos debidamente acreditados con identificaciones oficiales.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+Asimismo, y previa la suscripción de los acuerdos de coordinación con la instancia federal correspondiente, la Secretaría podrá realizar una verificación integral en materia turística, asegurando el cumplimiento de las disposiciones vigentes, interviniendo para regularizar a los Prestadores de Servicios Turísticos. En caso de desacato, se procederá en términos de los artículos 49 y 50 de esta Ley.
 
 ###### ARTICULO 42.
 
 La Secretaría y la Procuraduría Federal de Protección al Consumidor evitarán duplicaciones en sus programas de verificación para lo cual establecerán las bases de coordinación correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
 ###### ARTICULO 43.
 
-Las visitas de verificación que efectúe la Secretaría se rigen por ésta Ley y se practicarán en días y horas hábiles, por personal autorizados (sic) que exhiba identificación vigente y la orden de verificación respectiva, la que deberá ser expedida por la autoridad competente y en la que claramente se especifiquen las disposiciones cuyo cumplimiento habrá de verificarse y la manera de hacerse. Sin embargo, podrán practicarse visitas en días y horas inhábiles, en aquellos casos en que el tipo y la naturaleza de los servicios turísticos así lo requieran, pero dentro del horario de funcionamiento autorizado para el establecimiento.
+Las visitas de verificación que efectúe la Secretaría a través de los verificadores turísticos, los cuales deberán acreditarse con identificación vigente y la orden por escrito de verificación respectiva fundada y motivada, la que deberá ser expedida por la autoridad competente y en la que deberán precisarse la fecha, lugar o zona, comunidad, domicilio y ubicación precisa de los Prestadores de Servicios Turísticos que habrán de verificarse, el objeto de la visita, aspectos a verificar, nombre y firma de la autoridad competente que emite la orden, y el nombre del Verificador Turístico.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+Las visitas de verificación se realizarán en días y horas hábiles, sin embargo, podrán practicarse visitas en días y horas inhábiles, en aquellos casos en que el tipo y la naturaleza de los servicios turísticos así lo requieran, pero dentro del horario de funcionamiento autorizado para el establecimiento.
 
 ###### ARTICULO 44.
 
@@ -1155,25 +1389,65 @@ Los procedimientos y actos administrativos que dicten o ejecuten las autoridades
 
 Contra los actos y resoluciones administrativas que dicten o ejecuten las autoridades estatales y municipales, en aplicación del presente ordenamiento y el reglamento que de él emane, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de Justicia Administrativa, conforme a las disposiciones de la Ley de Justicia y Procedimientos Administrativos para el Estado de Nayarit.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
 ###### ARTICULO 49.
 
-El Ejecutivo del Estado y los Ayuntamientos en lo que corresponda, podrá imponer las siguientes sanciones:
+La Secretaría podrá imponer a los Prestadores de Servicios Turísticos, que no cumplan con lo establecido en la presente ley u omitan alguna disposición obligatoria, las siguientes sanciones:
 
 I. Amonestación;
 
 II. Multa;
 
-III. Clausura temporal;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
 
-IV. Clausura definitiva;
+III. Clausura temporal del establecimiento donde se preste el servicio, hasta que cumpla con las obligaciones de la Ley;
 
-V. Cancelación de la Cédula Estatal de Calidad Turística.
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+IV. Cancelación de la Cédula Estatal de Calidad e Imagen Turística;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+V. Reposición del servicio turístico, y
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+VI. Imposibilidad de participar en incentivos, estímulos, premios y reconocimientos que otorga la Secretaría.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 49 A.- Se sancionará a los Prestadores de Servicios Turísticos que contravengan las disposiciones contenidas en el artículo 11 A, de la presente Ley, en los términos siguientes:
+
+I. Amonestación a quienes realicen los actos u omisiones descritos en las fracciones I, II, III, IV, VIII, XII y XIII.
+
+II. Multa de 10 a 300 veces la Unidad de Medida y Actualización, a quienes realicen los actos u omisiones establecidos en las fracciones V, VI, VII, IX, X, XI, XIV, XV, XVI, XVII XVIII, y XIX; así como por reincidir en las infracciones establecidas en las fracciones I, II, III, IV, VIII, IX y XII.
+
+III. Cancelación de la Cédula Estatal de Calidad e Imagen Turística, y multa de 50 a 500 veces la Unidad de Medida y Actualización, a quienes reincidan en los actos u omisiones establecidos en las fracciones IV, VI, IX y X.
+
+IV. Procederá la Clausura temporal, además de la multa establecida en la fracción III del presente artículo, a quienes reincidan en los actos u omisiones establecidas en las fracciones VIII, X, XII, XIV, XV y XVIII.
+
+V. Además de las sanciones previstas en las fracciones II, III y IV del presente artículo, procederá la Reposición del Servicio Turístico al Turista o Visitante afectado, consistente en el reembolso, bonificación o compensación, por un tanto igual y hasta el doble de la suma correspondiente al servicio incumplido, así como los gastos y costas que en su caso pudieran generarse; a quienes realicen los actos u omisiones descritos en las fracciones IX y XV.
+
+Las sanciones establecidas en el presente artículo, se aplicarán, sin perjuicio de otras sanciones que correspondan por violaciones a las leyes y ordenamientos federales, estatales y municipales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 50.
 
-La forma de determinar las sanciones previstas en el artículo anterior, así como los supuestos y procedimientos de aplicación serán conforme a lo establecido en la Ley de Justicia y Procedimientos Administrativos.
+Las autoridades estatales y municipales y, en general, cualquier servidor público o particular que no cumpla con las obligaciones que esta Ley les impone, serán sancionados de acuerdo con la Ley General de Responsabilidades Administrativas, sin menoscabo de las acciones penales, civiles o cualquier otra que se derive de su incumplimiento.
 
-Los Ayuntamientos están facultados para imponer sanciones por violaciones a esta ley y disposiciones que de ella emanen, en los términos de la Ley Municipal y los reglamentos municipales respectivos.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+Para la determinación del monto de las multas en UMA, se tomará en consideración, el tipo de servicio turístico de que se trate, su categoría y ubicación, así como los precios y tarifas que tengan establecidos.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+Se entiende por reincidencia, el incumplimiento de obligaciones por dos o más ocasiones, dentro de un periodo de seis meses.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+Las infracciones que los prestadores de servicios turísticos cometan a lo dispuesto en la Ley General y a las disposiciones que deriven de ella, serán sancionadas por la Secretaría atendiendo a los convenios de coordinación que se celebren con el Ejecutivo Federal a que se refiere esta Ley.
 
 ## TRANSITORIOS
 
@@ -1228,3 +1502,19 @@ P.O. 14 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO AL TURISMO DEL ESTADO DE NAYARIT, EN MATERIA DE FOMENTO AL TURISMO RURAL”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE NAYARIT”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- En un plazo no mayor a ciento veinte días hábiles contados a partir de la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado de Nayarit, deberá realizar las adecuaciones especificas contenidas en su reglamentación interior, en normas legales y demás disposiciones normativas que resulten aplicables, de conformidad con el presente Decreto.
+
+TERCERO.- La Secretaría de Turismo, a partir de la entrada en vigor del presente Decreto, en un plazo no mayor de ciento veinte días naturales, deberá instalar la Conferencia Estatal de Directores de Turismo.
+
+CUARTO.- Los veinte Ayuntamientos del Estado de Nayarit, a partir de la entrada en vigor del presente Decreto, en un plazo no mayor de ciento veinte días naturales, deberán realizar las reformas y adecuaciones a los reglamentos, a fin de armonizarlos con lo dispuesto en el presente Decreto.
+
+QUINTO.- Los procedimientos que a la entrada en vigor del presente Decreto que se encuentren en trámite o en proceso de ejecución continuarán rigiéndose hasta su conclusión conforme a la norma vigente con la que se iniciaron.
+
+SEXTO.- Comuníquese el presente Decreto a los veinte Ayuntamientos del Estado de Nayarit, para los efectos legales conducentes.
