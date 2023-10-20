@@ -4,7 +4,7 @@ identifier: "LGSM"
 country: "mx"
 rank: "ley_general"
 publication_date: "1934-08-04"
-last_updated: "2022-12-27"
+last_updated: "2023-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=578&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -26,7 +26,7 @@ abbreviation: "LGSM"
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE OCTUBRE DE 2023.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el sábado 4 de agosto de 1934.
 
@@ -160,9 +160,17 @@ X.- La manera de hacer la distribución de las utilidades y pérdidas entre los 
 
 XI.- El importe del fondo de reserva;
 
-XII.- Los casos en que la sociedad haya de disolverse anticipadamente, y
+> <small>(REFORMADA, D.O.F. 20 DE OCTUBRE DE 2023)</small>
 
-XIII.- Las bases para practicar la liquidación de la sociedad y el modo de proceder a la elección de los liquidadores, cuando no hayan sido designados anticipadamente.
+XII.- Los casos en que la sociedad haya de disolverse anticipadamente;
+
+> <small>(REFORMADA, D.O.F. 20 DE OCTUBRE DE 2023)</small>
+
+XIII.- Las bases para practicar la liquidación de la sociedad y el modo de proceder a la elección de los liquidadores, cuando no hayan sido designados anticipadamente, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE OCTUBRE DE 2023)</small>
+
+XIV.- Las reglas para la celebración de las Asambleas de Socios y de los órganos de administración, siendo que los estatutos podrán contemplar que unas y otras podrán celebrarse de forma presencial o mediante el uso de medios electrónicos, ópticos o de cualquier otra tecnología, que permitan la participación de la totalidad o una parte de los asistentes por dichos medios en la asamblea o junta de que se trate, siempre y cuando la participación sea simultánea y se permita la interacción en las deliberaciones de una forma funcionalmente equivalente a la reunión presencial. En todo caso, sean presenciales o mediante el uso de medios electrónicos, ópticos o de cualquier otra tecnología, en todas las Asambleas de Socios y de los órganos de administración se deberá contar con mecanismos o medidas que permitan el acceso, la acreditación de la identidad de los asistentes, así como, en su caso, del sentido de su voto, y se genere la evidencia correspondiente.
 
 Todos los requisitos a que se refiere este artículo y las demás reglas que se establezcan en la escritura sobre organización y funcionamiento de la sociedad constituirán los estatutos de la misma.
 
@@ -570,6 +578,10 @@ Cuando no aparezca hecha la designación de los gerentes, se observará lo dispu
 
 Las resoluciones de los gerentes se tomarán por mayoría de votos, pero si el contrato social exige que obren conjuntamente, se necesitará la unanimidad, a no ser que la mayoría estime que la sociedad corre grave peligro con el retardo, pues entonces podrá dictar la resolución correspondiente.
 
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 2023)</small>
+
+Las resoluciones de los gerentes podrán tomarse mediante el uso de medios electrónicos, ópticos o de cualquier otra tecnología si así lo establecen los estatutos sociales.
+
 ###### ARTICULO 76.
 
 Los administradores que no hayan tenido conocimiento del acto o que hayan votado en contra, quedarán libres de responsabilidad.
@@ -622,17 +634,31 @@ Todo socio tendrá derecho a participar en las decisiones de las asambleas, goza
 
 Las asambleas se reunirán en el domicilio social, por lo menos una vez al año, en la época fijada en el contrato.
 
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 2023)</small>
+
+No se entenderá que una asamblea se realiza fuera del domicilio social por el sólo hecho de utilizarse medios electrónicos, ópticos o de cualquier otra tecnología.
+
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 2023)</small>
+
+Adicionalmente, los socios podrán celebrar asambleas fuera del domicilio social, siempre y cuando la totalidad de los socios lo aprueben y adicionalmente exista la posibilidad de utilizar medios electrónicos, ópticos o de cualquier otra tecnología. Para dichas asambleas, en este caso, se deberá señalar en el acta de asamblea, el domicilio en el cual se llevó a cabo la asamblea respectiva.
+
 ###### ARTICULO 81.
 
 Las asambleas serán convocadas por los gerentes; si no lo hicieren, por el Consejo de Vigilancia, y a falta u omisión de éste, por los socios que representen más de la tercera parte del capital social.
 
-Salvo pacto en contrario, las convocatorias se harán por medio de cartas certificadas con acuse de recibo, que deberán contener la orden del día y dirigirse a cada socio por lo menos, con ocho días de anticipación a la celebración de la asamblea.
+> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 2023)</small>
+
+Las convocatorias se harán por medio de la publicación de un aviso en el sistema electrónico establecido por la Secretaría de Economía conforme a lo dispuesto en el artículo 50 Bis del Código de Comercio, deberán contener la orden del día y estar firmadas por quien las realiza y se publicarán con la anticipación que fijen los estatutos o en su defecto, con ocho días de anticipación a la celebración de la asamblea.
 
 ###### ARTICULO 82.
 
 El contrato social podrá consignar los casos en que la reunión de la asamblea no sea necesaria, y en ellos se remitirá a los socios, por carta certificada con acuse de recibo, el texto de las resoluciones o decisiones, emitiéndose el voto correspondiente por escrito.
 
 Si así lo solicitan los socios que representen más de la tercera parte del capital social, deberá convocarse a la asamblea, aun cuando el contrato social sólo exija el voto por correspondencia.
+
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 2023)</small>
+
+Si así lo establecen los estatutos, las asambleas se podrán llevar a cabo mediante el uso de medios electrónicos, ópticos o de cualquier otra tecnología a fin de que la totalidad de los participantes en la asamblea o una parte de ellos pueda asistir.
 
 ###### ARTICULO 83.
 
@@ -1112,6 +1138,10 @@ Para que el Consejo de Administración funcione legalmente deberá asistir, por 
 
 En los estatutos se podrá prever que las resoluciones tomadas fuera de sesión de consejo, por unanimidad de sus miembros tendrán, para todos los efectos legales, la misma validez que si hubieren sido adoptadas en sesión de consejo, siempre que se confirmen por escrito.
 
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 2023)</small>
+
+Asimismo, en los estatutos se podrá prever que las sesiones del consejo de administración se puedan llevar a cabo mediante el uso de medios electrónicos, ópticos o de cualquier otra tecnología, tal y como si se tratara de sesiones del Consejo presenciales, pudiendo darse la participación de parte o todos los asistentes presencialmente o por medios electrónicos, ópticos o de cualquier otra tecnología teniendo la misma validez unas y otras.
+
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 144.
@@ -1382,9 +1412,21 @@ La Asamblea General de Accionistas es el Organo Supremo de la Sociedad; podrá a
 
 En los estatutos se podrá prever que las resoluciones tomadas fuera de asamblea, por unanimidad de los accionistas que representen la totalidad de las acciones con derecho a voto o de la categoría especial de acciones de que se trate, en su caso, tendrán, para todos los efectos legales, la misma validez que si hubieren sido adoptadas reunidos en asamblea general o especial, respectivamente, siempre que se confirmen por escrito. En lo no previsto en los estatutos serán aplicables en lo conducente, las disposiciones de esta ley.
 
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 2023)</small>
+
+Asimismo, en los estatutos se podrá prever asimismo que las asambleas de accionistas se puedan llevar a cabo mediante el uso de medios electrónicos, ópticos o de cualquier otra tecnología, tal y como si se tratara de asambleas de accionistas presenciales, pudiendo darse la participación de parte o todos los asistentes presencialmente o por medios electrónicos, ópticos o de cualquier otra tecnología teniendo la misma validez unas y otras.
+
 ###### ARTICULO 179.
 
 Las Asambleas Generales de Accionistas son ordinarias y extraordinarias. Unas y otras se reunirán en el domicilio social, y sin este requisito serán nulas, salvo caso fortuito o de fuerza mayor.
+
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 2023)</small>
+
+No se entenderá que una Asamblea de Accionistas se realiza fuera del domicilio social por el sólo hecho de utilizarse medios electrónicos, ópticos o de cualquier otra tecnología.
+
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 2023)</small>
+
+Asimismo, sin necesidad de existir caso fortuito o fuerza mayor, los accionistas podrán celebrar asambleas fuera del domicilio social, siempre y cuando la totalidad de los accionistas lo aprueben y adicionalmente exista la posibilidad de utilizar medios electrónicos, ópticos o de cualquier otra tecnología para dichas asambleas, en este caso, se deberá señalar en el acta de asamblea, el domicilio en el cual se llevó a cabo la asamblea respectiva.
 
 ###### ARTICULO 180.
 
@@ -1454,11 +1496,11 @@ II.- Cuando las asambleas celebradas durante ese tiempo no se hayan ocupado de l
 
 Si el Administrador o Consejo de Administración, o los Comisarios se rehusaren a hacer la convocatoria, o no la hicieren dentro del término de quince días desde que hayan recibido la solicitud, ésta se formulará ante el Juez competente para que haga la convocatoria, previo traslado de la petición al Administrador o Consejo de Administración y a los Comisarios. El punto se decidirá siguiéndose la tramitación establecida para los incidentes de los juicios mercantiles.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 186.
 
-La convocatoria para las asambleas generales deberá hacerse por medio de la publicación de un aviso en el sistema electrónico establecido por la Secretaría de Economía con la anticipación que fijen los estatutos, o en su defecto, quince días antes de la fecha señalada para la reunión. Durante todo este tiempo estará a disposición de los accionistas, en las oficinas de la sociedad, el informe a que se refiere el enunciado general del artículo 172.
+La convocatoria para las asambleas generales deberá hacerse por medio de la publicación de un aviso en el sistema electrónico establecido por la Secretaría de Economía con la anticipación que fijen los estatutos, o en su defecto, quince días antes de la fecha señalada para la reunión. Durante todo este tiempo estará a disposición de los accionistas, en las oficinas de la sociedad, o en su defecto, en el medio electrónico, óptico o de cualquier otra tecnología que se determine para tal efecto en los estatutos de la sociedad, el informe a que se refiere el enunciado general del artículo 172.
 
 ###### ARTICULO 187.
 
@@ -1492,9 +1534,11 @@ No podrán ser mandatarios los Administradores ni los Comisarios de la sociedad.
 
 Salvo estipulación contraria de los estatutos, las Asambleas Generales de Accionistas serán presididas por el Administrador o por el Consejo de Administración, y a falta de ellos, por quien fuere designado por los accionistas presentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE OCTUBRE DE 2023)</small>
+
 ###### ARTICULO 194.
 
-Las actas de las Asambleas Generales de Accionistas se asentarán en el libro respectivo y deberán ser firmadas por el Presidente y por el Secretario de la Asamblea, así como por los Comisarios que concurran. Se agregarán a las actas los documentos que justifiquen que las convocatorias se hicieron en los términos que esta Ley establece.
+Las actas de las Asambleas Generales de Accionistas se asentarán en el libro respectivo y deberán ser firmadas ya sea con firma autógrafa o electrónica, por el Presidente y por el Secretario de la Asamblea, así como por los Comisarios que concurran. Se agregarán a las actas los documentos que justifiquen que las convocatorias se hicieron en los términos que esta Ley establece.
 
 > <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
@@ -2467,3 +2511,15 @@ D.O.F. 27 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE DA A CONOCER EL FACTOR DE ACTUALIZACIÓN A LOS INGRESOS TOTALES ANUALES DE UNA SOCIEDAD POR ACCIONES SIMPLIFICADA CONFORME A LO DISPUESTO EN EL ARTÍCULO 260 DE LA LEY GENERAL DE SOCIEDADES MERCANTILES”.]
 
 ÚNICO. El presente Acuerdo entrará en vigor el 1 de enero de 2023.
+
+D.O.F. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SOCIEDADES MERCANTILES”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las personas morales constituidas con anterioridad a la entrada en vigor de este Decreto podrán incorporar a sus estatutos las disposiciones reformadas mediante el presente Decreto.
+
+Tercero.- Las reformas al segundo párrafo del artículo 81 entrarán en vigor en un plazo de seis meses contados a partir de su publicación en el Diario Oficial de la Federación.
+
+Cuarto.- Las sociedades constituidas antes de la reforma referida en el artículo tercero transitorio, deberán sujetarse a dicha disposición publicando las convocatorias en el sistema electrónico establecido por la Secretaría de Economía conforme a lo dispuesto en el artículo 50 Bis del Código de Comercio con los requisitos establecidos en dicha reforma, independientemente de que sus estatutos contemplen que se realizarán por otro medio.
