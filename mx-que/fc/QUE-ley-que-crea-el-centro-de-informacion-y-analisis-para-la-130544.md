@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-crea-el-centro-de-informacion-y-analisis-para-la-130544
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-17"
-last_updated: "2022-06-10"
+last_updated: "2023-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE CREA EL CENTRO DE INFORMACIÓN Y ANÁLISIS PARA LA SEGURIDAD DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 17 de agosto de 2018.
 
@@ -104,6 +104,10 @@ El Centro tendrá las atribuciones siguientes:
 I. Administrar la operación, comando, monitoreo y control del sistema estatal de video vigilancia, que consta del equipamiento de monitoreo inteligente, las unidades móviles de monitoreo y las telecomunicaciones incluyendo su ubicación georreferenciada;
 
 II. Regular la utilización y lineamientos de operación de las videocámaras para grabar o captar imágenes con o sin sonidos, por los cuerpos de seguridad de la entidad;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+II Bis. Fungir como Autoridad Certificadora, a través del Sistema Informático Único (SIU), en términos de las disposiciones aplicables;
 
 III. Establecer los lineamientos y estándares aplicables para los prestadores de servicio de seguridad privada que efectúen labores de video vigilancia con la finalidad de garantizar la compatibilidad tecnológica que permita su integración al sistema estatal de videovigilancia;
 
@@ -592,3 +596,13 @@ El Director General del organismo público descentralizado denominado Centro de 
 ###### ARTÍCULO SÉPTIMO.
 
 La Secretaría de Finanzas del Poder Ejecutivo del Estado, realizará las adecuaciones presupuestales conforme a la disponibilidad financiera con que cuente para el presente ejercicio fiscal, a fin de dotar de los recursos materiales y financieros que permitan al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro el cumplimiento de la presente Ley.
+
+P.O. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE QUERÉTARO, DE LA LEY QUE CREA EL CENTRO DE INFORMACIÓN Y ANÁLISIS PARA LA SEGURIDAD DE QUERÉTARO, DE LA LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Querétaro, “La Sombra de Arteaga”.
