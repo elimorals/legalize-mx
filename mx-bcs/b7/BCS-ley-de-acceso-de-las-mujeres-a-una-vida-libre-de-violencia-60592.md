@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6059
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-31"
-last_updated: "2023-05-30"
+last_updated: "2023-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2023.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de marzo de 2008.
 
@@ -239,15 +239,11 @@ IV. Incluir como parte de la sentencia, la condena al agresor a participar en se
 
 #### SECCIÓN SEGUNDA. VIOLENCIA LABORAL Y DOCENTE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 22 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 6°.
 
-Violencia Laboral y Docente: Se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad económica y seguridad de la víctima, e impide su desarrollo y atenta contra la igualdad.
-
-> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2014)</small>
-
-Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el acoso o el hostigamiento sexual.
+Violencia Laboral y Docente: Se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión en abuso de poder que daña la autoestima, salud física, psicológica y emocional, la integridad, la libertad económica y seguridad de la víctima, e impide su desarrollo y atenta contra la igualdad. Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el acoso o el hostigamiento sexual.
 
 > <small>(REFORMADO, B.O. 22 DE JUNIO DE 2017)</small>
 
@@ -1816,3 +1812,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publi
 SEGUNDO.- Hasta en tanto se cree el Registro Nacional de Obligaciones Alimentarias y para dar cumplimiento a la fracción V del Artículo 31 a que se refiere este Decreto, el Poder Judicial del Estado de Baja California Sur, deberá expedir la constancia de no ser deudor alimentario declarado judicialmente moroso.
 
 TERCERO.- La Dirección General del Sistema Penitenciario, deberá expedir la constancia de no contar con sentencia firme a la persona que pretenda ser registrada en una candidatura de elección popular, o ser nombrada para empleo, cargo o comisión en el servicio público, por los delitos a que se refiere la fracción IV del artículo 31 de la Constitución Política del Estado Libre y Soberano de Baja California Sur.
+
+B.O. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2953 SE REFORMA EL ARTÍCULO 6 DE LA LEY (SIC) ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
