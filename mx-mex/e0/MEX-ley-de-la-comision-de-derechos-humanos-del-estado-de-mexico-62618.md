@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-comision-de-derechos-humanos-del-estado-de-mexico-626
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-14"
-last_updated: "2023-06-22"
+last_updated: "2023-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE OCTUBRE DE 2023 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 2023.
 
 Ley publicada en la Gaceta de Gobierno del Estado de México, el jueves 14 de agosto de 2008.
 
@@ -227,9 +229,15 @@ XXXIII. Implementar el uso estratégico de las tecnologías de la información p
 
 XXXIV. Certificar en materia de derechos humanos a las y los Defensores Municipales de Derechos Humanos, con base en los criterios específicos determinados por la Comisión, cumpliendo con los principios de transparencia y máxima publicidad en los resultados.
 
+> <small>(ADICIONADA, G.G. 20 DE OCTUBRE DE 2023)</small>
+
+XXXV. Elaborar el Protocolo para la ejecución de programas, acciones o cualquier política pública que impliquen la revisión de mochilas o bolsos dentro del horario establecido por parte de la institución educativa; con el propósito de mitigar cualquier riesgo que ponga en peligro la vida, la salud y en general la integridad de las niñas, niños y adolescentes inscritos en el sistema educativo del Estado de México.
+
+Para efectos del párrafo anterior, se deberá coordinar con las instituciones públicas federales, estatales o municipales facultadas para ello.
+
 > <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
 
-XXXV. Las demás que sean necesarias para el cumplimiento de sus objetivos, que se deriven de esta Ley y demás ordenamientos legales.
+XXXVI. Las demás que sean necesarias para el cumplimiento de sus objetivos, que se deriven de esta Ley y demás ordenamientos legales.
 
 > <small>(REFORMADO, G.G. 24 DE JUNIO DE 2015)</small>
 
@@ -1550,3 +1558,15 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 196.- POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 30, LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 41; SE ADICIONAN LAS FRACCIONES XXV, XXVI Y XXVII AL ARTÍCULO 41 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 184, LA FRACCIÓN II DEL ARTÍCULO 185; SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 184, LAS FRACCIONES VII Y VIII AL ARTÍCULO 185 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO, SE ADICIONA LA FRACCIÓN XXXV RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 13 DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, SE ADICIONA LA FRACCIÓN XXXVIII RECORRIÉNDOSE LA SUBSECUENTE AL APARTADO A DEL ARTÍCULO 16 DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor a los 30 días hábiles de la publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. La Secretaría de Educación y la Secretaría de Seguridad en coordinación con la Comisión de Derechos Humanos del Estado de México contarán con cuarenta y cinco días hábiles posteriores a la entrada en vigor de este Decreto, para la expedición del Protocolo de operativos o programas que impliquen la revisión o inspección de mochilas o bolsos de niñas, niños y adolescentes.
+
+CUARTO. Las autoridades educativas, deberán contar con carta firmada por los padres de familia, tutores o quienes ejerzan la patria potestad de los educandos, en la cual manifiestan su autorización para la revisión de mochilas o bolsos. Así mismo, se llevarán a cabo reuniones informativas y de participación con los educandos respecto de los objetivos del Protocolo, a efecto de ejecutar las acciones y medidas en términos de lo establecido en el artículo 2 de la Ley General de los Derechos de Niñas, Niños y Adolescentes para salvaguardar los derechos y principios contenidos en la misma.
