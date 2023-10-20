@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2023-06-22"
+last_updated: "2023-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 2023.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -2615,13 +2615,19 @@ Se reconoce acción popular para denunciar ante el ayuntamiento, ante el Órgano
 
 ### CAPITULO CUARTO. De la Contraloría Municipal
 
+> <small>(REFORMADO, G.G. 20 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 110.
 
-Las funciones de contraloría interna estarán a cargo del órgano que establezca el Ayuntamiento.
+La contraloría municipal es el órgano interno de control encargado de promover, evaluar y fortalecer el buen funcionamiento del control interno, competente para aplicar las leyes en materia de responsabilidades de los servidores públicos.
+
+> <small>(REFORMADO, G.G. 20 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 111.
 
-La contraloría municipal tendrá un titular denominado Contralor, quien será designado por el ayuntamiento a propuesta del presidente municipal.
+La contraloría estará a cargo de una persona titular denominada Contralora o Contralor, la cual será nombrada por acuerdo de Cabildo de entre una terna de ciudadanas y ciudadanos propuestos por la Presidenta o Presidente Municipal y dependerá jerárquicamente del mismo.
+
+Para dichos efectos, el Cabildo emitirá una convocatoria pública y corresponderá a la Presidenta o Presidente Municipal la evaluación de las personas aspirantes, así como la formulación de la terna que se someterá a la consideración del Cabildo, el cual deberá designar en un plazo no mayor a ocho días, a la persona titular de la contraloría municipal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
@@ -5800,3 +5806,13 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 200.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 110 Y 111 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El proceso de designación de la Contralora o Contralor Municipal al que hace referencia el presente Decreto, deberá realizarse durante los primeros treinta días posteriores al inicio del periodo constitucional del Ayuntamiento respectivo.
