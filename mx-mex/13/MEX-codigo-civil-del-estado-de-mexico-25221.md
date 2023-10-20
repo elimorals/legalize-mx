@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2023-06-22"
+last_updated: "2023-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 2023.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -1687,15 +1687,23 @@ Violencia como causa de nulidad del matrimonio
 
 I. Que importe peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
 
-II. Que se cause al contrayente, a sus parientes en línea recta sin limitación de grado, sus colaterales dentro del segundo grado, o a su tutor;
+> <small>(REFORMADA, G.G. 20 DE OCTUBRE DE 2023)</small>
 
-III. Que haya subsistido al tiempo de celebrarse el matrimonio.
+II. Que se cause al contrayente, a sus parientes en línea recta sin limitación de grado, o sus colaterales dentro del segundo grado;
+
+> <small>(REFORMADA, G.G. 20 DE OCTUBRE DE 2023)</small>
+
+III. Que haya subsistido ésta al tiempo de celebrarse el matrimonio, o durante cualquier momento previo al mismo.
+
+> <small>(REFORMADO, G.G. 20 DE OCTUBRE DE 2023)</small>
 
 Legitimación y plazo para deducir la nulidad por violencia
 
 ###### Artículo 4.
 
-71.- La acción de nulidad del matrimonio por violencia, sólo puede deducirse por el cónyuge agraviado, dentro de los sesenta días desde que cesó la misma.
+71.- La acción de nulidad del matrimonio por violencia podrá deducirse sólo por parte del cónyuge agraviado dentro de un periodo de un año, desde que cesó la misma.
+
+Cuando la violencia subsista al momento de demandar la nulidad, el juez dictará de forma oficiosa las medidas de protección contra la violencia familiar.
 
 > <small>(REFORMADO, G.G. 1 DE NOVIEMBRE DE 2022)</small>
 
@@ -18724,3 +18732,11 @@ Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capit
 Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
 
 Toluca de Lerdo, México, a 12 de junio de 2023.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO, LIC. ALFREDO DEL MAZO MAZA.- RÚBRICA.- EL SECRETARIO GENERAL DE GOBIERNO, LUIS FELIPE PUENTE ESPINOSA.- RÚBRICA.
+
+G.G. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 194.- POR EL QUE SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 4.70 Y EL ARTÍCULO 4.71 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
