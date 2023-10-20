@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2023-06-22"
+last_updated: "2023-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 2023.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -199,11 +199,17 @@ c) Los que auxilien a quienes han intervenido en el hecho delictuoso, después d
 
 Las personas jurídicas colectivas serán responsables penalmente de los delitos previstos en este Código, y en las leyes especiales cuando:
 
-I. Sean cometidos en su nombre, en su provecho, o exclusivo beneficio, a través de sus representantes, apoderados legales o administradores de hecho o de derecho.
+> <small>(REFORMADA, G.G. 20 DE OCTUBRE DE 2023)</small>
 
-II. Sean sometidas a la autoridad de los representantes, apoderados legales o administradores mencionados en la fracción anterior, que realicen un hecho que la ley señale como delito, por no haberse ejercido sobre ellas el debido control que corresponda al ámbito organizacional que deba atenderse, según las circunstancias del caso, y la conducta se realice con motivo de actividades sociales, por cuenta, provecho, o exclusivo beneficio de la persona jurídica colectiva.
+I. Sean cometidos en su nombre, y en su beneficio directo o indirecto, o a través de los medios que ellas proporcionen, cuando se haya determinado que además existió inobservancia del debido control en su organización, por sus representantes, apoderados legales o administradores de hecho o de derecho.
 
-Se podrá ejercer la acción penal en contra de las personas jurídicas colectivas con excepción de las instituciones estatales, independientemente de la acción penal que pudiera ejercer contra las personas físicas involucradas en el delito cometido.
+> <small>(REFORMADA, G.G. 20 DE OCTUBRE DE 2023)</small>
+
+II. Sean cometidos, por cuenta y en beneficio directo o indirecto de las mismas, por quienes, estando subordinados o sometidos a la autoridad de las personas físicas mencionadas en la fracción anterior, cometan el delito por falta de supervisión, vigilancia y control de la persona jurídica indebidamente organizada, atendidas las concretas circunstancias del caso.
+
+> <small>(REFORMADO, G.G. 20 DE OCTUBRE DE 2023)</small>
+
+Lo anterior, con independencia de la responsabilidad penal en que puedan incurrir los representantes, apoderados legales o administradores de hecho o de derecho de las personas jurídicas colectivas.
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -236,6 +242,64 @@ La intervención decretada por autoridad judicial, podrá afectar a la totalidad
 La intervención judicial se podrá modificar o suspender en todo momento, previo informe del interventor y del Ministerio Público. El interventor tendrá derecho a acceder a todas las instalaciones y locales de la empresa o persona jurídica, así como a recibir cuanta información estime necesaria para el ejercicio de sus funciones. La legislación aplicable determinará los aspectos relacionados con las funciones del interventor y su retribución respectiva.
 
 La sanción impuesta a la persona jurídica colectiva de acuerdo a este Código y demás leyes aplicables, no extingue la responsabilidad civil en que pueda incurrir ésta.
+
+> <small>(ADICIONADO, G.G. 20 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 11 Quáter.
+
+Las disposiciones relativas a la responsabilidad penal de las personas jurídicas no serán aplicables a instituciones públicas.
+
+No obstante, cuando estas sean utilizadas por una persona física para cometer un delito será sancionada por el delito o delitos cometidos. Lo anterior también será aplicable a los fundadores como administradores o representantes que se aprovechen de alguna institución estatal o municipal para eludir alguna responsabilidad penal.
+
+> <small>(ADICIONADO, G.G. 20 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 11 Quinquies.
+
+Para los efectos de lo previsto por este Código y en artículo 421 del Código Nacional de Procedimientos Penales, a las personas jurídicas podrá imponérseles alguna o varias de las penas o medidas de seguridad, cuando hayan sido declaradas responsables penalmente respecto de alguno o algunos de los siguientes delitos:
+
+I. Quebrantamiento de sellos, previsto en los artículos 124 y 124 Bis;
+
+II. Fraude procesal, previsto en el artículo 165 Bis;
+
+III. Falsificación de documentos, previsto en los artículos 167, 168, 169 y 170;
+
+IV. Delitos en contra del desarrollo urbano, previsto en el artículo 189;
+
+V. Delitos contra el consumo, previsto en los artículos 199, 200 y 201;
+
+VI. Delitos contra la Economía Pecuaria, previsto en los artículos 201 Bis, 201 Ter, 201 Quater y 201 Quinquies;
+
+VII. Delitos contra el Trabajo y la Previsión Social, previsto en los artículos 202 y 203;
+
+VIII. De las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, previsto en el artículo 204;
+
+IX. Utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, previsto en los artículos 206 y 207;
+
+X. Discriminación, previsto en el artículo 211;
+
+XI. Delito contra el ambiente, previsto en los artículos 228, 228 Bis, 229, 230, 231, 232 y 233;
+
+XII. Delitos contra la Flora y la Fauna Silvestre, previsto en el artículo 235;
+
+XIII. Extorsión, previsto en el artículo 266;
+
+XIV. Abuso de confianza, previsto en los artículos 302 y 303;
+
+XV. Fraude, previsto en los artículos 305, 306 y 307;
+
+XVI. Despojo, previsto en el artículo 308;
+
+XVII. Daño en los bienes, previsto en los artículos 309, 310 y 311;
+
+XVIII. Cohecho, previsto en el artículo 346;
+
+XIX. Trata de personas, previsto en el artículo 268 Bis;
+
+XX. Privación de libertad, previsto en el artículo 258;
+
+XXI. Robo, previsto en los artículos; 287, 288, 291 y 292, y
+
+XXII. En los demás casos expresamente previstos en la legislación aplicable.
 
 ###### Artículo 12.
 
@@ -925,7 +989,9 @@ III. Robo de vehículo;
 
 IV. Robo a casa habitación;
 
-V. (DEROGADA, G.G. 3 DE FEBRERO DE 2017)
+> <small>(REFORMADA [N. DE. ADICIONADA], G.G. 20 DE OCTUBRE DE 2023)</small>
+
+V. Abuso sexual;
 
 VI. Lesiones que se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar;
 
@@ -4165,9 +4231,33 @@ Comete el delito de abuso sexual:
 
 I. Quien ejecute en una persona un acto erótico o sexual sin su consentimiento y sin el propósito de llegar a la cópula o a quien lo realice en su presencia o haga ejecutarlo para sí o en otra persona. A quien cometa este delito, se le impondrá pena de dos a cuatro años de prisión y de doscientos a cuatrocientos días multa.
 
+> <small>(ADICIONADO, G.G. 20 DE OCTUBRE DE 2023)</small>
+
+La reparación de los daños y perjuicios ocasionados deberá ser integral.
+
 > <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 II. Quien ejecute en una persona menor de edad o que no tenga la capacidad de comprender las cosas o de resistir al hecho, un acto erótico o sexual sin el propósito de llegar a la cópula o a quien lo realice en su presencia o haga ejecutarlo para sí o en otra persona. A quien cometa este delito, se le impondrá pena de ocho a quince años de prisión y de quinientos a mil días multa.
+
+> <small>(ADICIONADO, G.G. 20 DE OCTUBRE DE 2023)</small>
+
+La reparación de los daños y perjuicios ocasionados deberá ser integral.
+
+> <small>(ADICIONADO, G.G. 20 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 270 Bis.
+
+Las penas previstas para el abuso sexual se aumentarán hasta en una tercera parte en su mínimo y máximo, cuando:
+
+I. Se hiciere uso de la violencia física o moral;
+
+II. El delito fuere cometido por uno de los cónyuges, por un ascendiente contra su descendiente, por éste contra aquél, por un hermano contra otro, por el tutor en contra de su pupilo o por el padrastro, madrastra, concubina, concubinario, amasio o amasia en contra del hijastro o hijastra. Además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que la ejerciere sobre la víctima;
+
+III. Cuando el delito sea cometido por quienes tengan o hayan tenido relación con la víctima por motivos laborales, docentes, médicos, domésticos, religiosos o cualquier otro que implique confianza o subordinación. Además de la pena de prisión, si el delito es contra una persona menor de edad, el condenado será destituido del cargo o empleo, inhabilitado o suspendido hasta por el término de cinco años en el ejercicio de su profesión, independientemente de las sanciones a que se haga acreedor, y
+
+IV. Cuando el ofendido tenga alguna discapacidad, que limite las actividades de su vida diaria e impida su desarrollo individual y social.
+
+Es obligación de quien ejerza la patria potestad de las niñas, niños y adolescentes, hacer del conocimiento o denunciar ante las instancias competentes, cualquier presunto caso de abuso sexual en su contra.
 
 ### CAPITULO IV. VIOLACION
 
@@ -7578,3 +7668,21 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 197.- POR EL QUE SE REFORMAN LAS FRACCIONES I Y II Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 11 BIS; SE ADICIONAN LOS ARTÍCULOS 11 QUÁTER Y 11 QUINQUIES DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 201.- POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 69; SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I, UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 270 Y EL ARTÍCULO 270 BIS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
