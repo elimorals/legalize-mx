@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-judicial-del-estado-de-yucatan-77499"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-24"
-last_updated: "2023-06-28"
+last_updated: "2023-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE OCTUBRE DE 2023.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de noviembre de 2010.
 
@@ -377,7 +377,7 @@ XIV.- Remitir a los Poderes Legislativo y Ejecutivo del Estado, los informes sob
 
 XV.- Aprobar el anteproyecto anual de Presupuesto de Egresos del Tribunal Superior de Justicia del Estado, y remitirlo al Consejo de la Judicatura para su inclusión en el proyecto de Presupuesto del Poder Judicial, con la anticipación que permita su remisión oportuna acorde a la Constitución Política del Estado de Yucatán;
 
-XVI.- Fijar las bases para la evaluación de desempeño sobre la actuación profesional y ética de los magistrados, y realizar dicha evaluación acorde a ellas, para efectos del último párrafo del artículo 66 de la Constitución Política del Estado;
+XVI.- (DEROGADA, D.O. 20 DE OCTUBRE DE 2023)
 
 XVII.- Determinar la creación de áreas necesarias para mejorar la impartición de justicia, acorde con lo establecido en esta Ley y lo permita el presupuesto del Tribunal;
 
@@ -553,9 +553,9 @@ Conformación de las Salas
 
 Las Salas del Tribunal Superior de Justicia del Estado podrán ser Colegiadas o Unitarias. En los casos en que las circunstancias lo ameriten, podrán ser regionales. Su conformación, jurisdicción y competencia por materia y territorio será fijada mediante acuerdos generales que dicte el Pleno.
 
-> <small>(ADICIONADO, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O. 20 DE OCTUBRE DE 2023)</small>
 
-Las salas colegiadas siempre estarán formadas por tres magistrados.
+Las salas colegiadas se integrarán con un número impar de personas magistradas.
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -567,21 +567,33 @@ Las salas, según su materia y la legislación aplicable, conocerán de apelacio
 
 En la materia laboral, el Pleno determinará mediante acuerdos generales la sala o salas competentes para conocer de los conflictos competenciales y de las recusaciones que las partes promuevan contra los secretarios instructores o los titulares de los Tribunales Laborales conforme a la Ley Federal del Trabajo.
 
-> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 4 DE MAYO DE 2022)</small>
 
 Toma de decisiones en Sala Colegiada
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 43.
 
-Las resoluciones de las Salas Colegiadas se tomarán por unanimidad o mayoría de votos de las magistradas y los magistrados presentes, quienes solo se abstendrán de votar cuando tengan excusa o impedimento legal. La Magistrada o Magistrado que disintiere de la mayoría deberá formular voto particular que se insertará al final de la ejecutoria respectiva si fuere presentado dentro de los cinco días siguientes a la fecha del acuerdo. En caso de que no se presente el voto particular, por escrito, en el plazo señalado en este artículo, se tendrá por no formulado para los efectos de la ejecutoria respectiva.
+Las resoluciones de los asuntos jurisdiccionales de las salas colegiadas se tomarán por unanimidad o mayoría de votos de las personas magistradas presentes que sesionarán, para esos efectos, en número impar, quienes solo se abstendrán de votar cuando tengan excusa o impedimento legal. La persona magistrada que disintiere de la mayoría, ya sea en el sentido del fallo, o en las consideraciones, deberá formular voto particular o voto concurrente, según corresponda, que se insertará al final de la ejecutoria respectiva si fuere presentado dentro de los cinco días siguientes a la fecha del acuerdo. En caso de que no se presente el voto particular o el concurrente, por escrito, en el plazo señalado en este artículo, se tendrá por no formulado para los efectos de la ejecutoria respectiva.
+
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
 
 Las sesiones y resoluciones de las Salas Colegiadas serán públicas, salvo las excepciones establecidas en la Constitución Federal, en la local y en las leyes correspondientes y cuando así lo determinen las Magistradas y Magistrados, por mayoría simple, en los casos en que a su juicio así lo exija la moral o el interés público.
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+
 Las sesiones de las Salas colegiadas serán públicas y deberán transmitirse, así como difundirse por las plataformas digitales y redes sociales oficiales del Tribunal, resguardando en todo momento los datos personales o sensibles de las partes involucradas en los asuntos que se discutan.
+
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
 
 Las resoluciones de las Salas colegiadas serán públicas, salvo excepciones establecidas en la Constitución Federal, en la local y en las leyes correspondientes y cuando así lo determinen, por mayoría simple, las Magistradas y Magistrados presentes en la sesión, en los casos en los que, a su juicio, así lo exija la moral o el interés público.
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+
 Las magistradas y los magistrados listarán los asuntos que se resolverán en su orden en sesión. Los proyectos desechados o retirados para mejor estudio deberán discutirse en un plazo menor a quince días, no pudiendo retirarse un mismo negocio por más de una vez.
+
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
 
 La lista se fijará en los estrados del tribunal, identificando los asuntos, el día y la hora de inicio de la sesión, y el orden en que se discutirán.
 
@@ -1533,7 +1545,9 @@ VI.- Aprobar el presupuesto de egresos correspondiente al Consejo de la Judicatu
 
 VII.- Nombrar y remover al personal del Centro Estatal de Solución de Controversias;
 
-VIII.- Integrar el proyecto de Presupuesto de Egresos del Poder Judicial y enviarlo al Titular del Poder Ejecutivo del Estado, a más tardar el 15 de octubre de cada año;
+> <small>(REFORMADA, D.O. 20 DE OCTUBRE DE 2023)</small>
+
+VIII.- Autorizar el Presupuesto de Egresos del Poder Judicial y enviarlo al Congreso del Estado de Yucatán para su aprobación, dentro de los 5 días naturales siguientes a la fecha de presentación del Presupuesto de Egresos del Gobierno del Estado por parte de la persona titular del Poder Ejecutivo Estatal al Congreso del Estado de Yucatán, según corresponda en términos de la fracción XIV, del artículo 55 de la Constitución Política del Estado de Yucatán;
 
 IX.- Ejercer el presupuesto de egresos del Poder Judicial a su cargo;
 
@@ -1603,7 +1617,7 @@ Quórum para sesionar
 
 ###### Artículo 116.
 
-El Presidente del Consejo de la Judicatura tendrá las facultades y obligaciones siguientes:
+La persona titular de la Presidencia del Consejo de la Judicatura tendrá las facultades y obligaciones siguientes:
 
 I.- Representar oficialmente al Consejo de la Judicatura;
 
@@ -1633,11 +1647,17 @@ XI.- Someter al Pleno del Consejo de la Judicatura el informe de actividades adm
 
 XII.- Comunicar al Tribunal Superior de Justicia de las renuncias y licencias que hayan tramitado los Jueces para separarse de su cargo;
 
-XIII.- Someter, anualmente y de manera oportuna, al Pleno del Consejo el proyecto del Presupuesto de Egresos del Poder Judicial del Estado, y ser el conducto para remitir al Poder Ejecutivo, a más tardar el día quince del mes de octubre, a fin de que éste considere su incorporación al proyecto de Presupuesto de Egresos del Estado;
+> <small>(REFORMADA, D.O. 20 DE OCTUBRE DE 2023)</small>
 
-XIV.- Llevar la firma y representación legal del Fondo Auxiliar para la Administración de Justicia del Estado de Yucatán, de manera conjunta con el Titular de éste, y
+XIII.- Someter, anualmente y de manera oportuna, al Pleno del Consejo el proyecto del Presupuesto de Egresos del Poder Judicial del Estado, y una vez autorizado, ser el conducto para remitirlo al Congreso del Estado de Yucatán, a más tardar dentro de los 5 días naturales siguientes a la fecha de presentación del Presupuesto de Egresos del Gobierno del Estado por parte de la persona titular del Poder Ejecutivo Estatal al Congreso del Estado de Yucatán, según corresponda en términos de la fracción XIV, del artículo 55 de la Constitución Política del Estado de Yucatán, a fin de que éste lo apruebe;
 
-XV.- Las demás que expresamente establezcan esta Ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, D.O. 20 DE OCTUBRE DE 2023)</small>
+
+XIV.- Designar a cuando menos dos personas Consejeras de la Judicatura y a las personas servidoras públicas del Poder Judicial que deberán comparecer ante el Congreso del Estado para rendir las aclaraciones o informes que sean solicitados con relación al Presupuesto de Egresos del Poder Judicial;
+
+XV.- Llevar la firma y representación legal del Fondo Auxiliar para la Administración de Justicia del Estado de Yucatán, de manera conjunta con el Titular de éste, y
+
+XVI.- Las demás que expresamente establezcan esta Ley y otras disposiciones aplicables.
 
 > <small>(ADICIONADO SU EPÍGRAFE, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
@@ -1661,7 +1681,11 @@ VI.- Las demás que expresamente establezcan esta Ley y otras disposiciones lega
 
 ### CAPÍTULO III. Del Presidente del Consejo de la Judicatura
 
-Facultades y obligaciones del Presidente
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE OCTUBRE DE 2023)</small>
+
+Facultades y obligaciones de la persona titular de la Presidencia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 118.
 
@@ -2251,9 +2275,9 @@ La ausencia por vacaciones del Secretario de Acuerdos será suplida por el Secre
 
 En el caso de las salas con competencia en sistema penal acusatorio en materias penal y de justicia para adolescentes, los secretarios de acuerdos quedarán autorizados, durante el período de suspensión de labores del Poder Judicial, para acordar las medidas especiales para asegurar la regularidad y buena fe en el proceso, y en los actos preparatorios administrativos, para la celebración de las audiencias relativas al sistema de justicia penal acusatorio y de ejecución de sanciones y medidas de seguridad que devengan de los medios de impugnación remitidos, facultándolos para acordar desde cuestiones preparatorias por la admisibilidad de los recursos remitidos, y la propia admisibilidad y, en su caso, convocar a los magistrados en caso de urgencia, así como para dar contestación a los requerimientos o solicitudes que efectúen las diversas autoridades a las salas, incluyendo los relativos al juicio de amparo.
 
-> <small>(ADICIONADO, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O. 20 DE OCTUBRE DE 2023)</small>
 
-Las disposiciones de este artículo se aplicarán en el caso de las ausencias accidentales simultáneas de los tres magistrados integrantes de las salas colegiadas o de los magistrados de las salas Unitarias.
+Las disposiciones de este artículo se aplicarán en el caso de las ausencias accidentales simultáneas de las personas magistradas integrantes de las salas colegiadas o de las personas magistradas de las salas unitarias.
 
 Licencias
 
@@ -2998,3 +3022,19 @@ D.O. 28 DE JUNIO DE 2023.
 Artículo único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 687/2023 POR EL QUE SE MODIFICA LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, EN MATERIA DE ARMONIZACIÓN".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Obligación normativa
+
+Artículo segundo. El Tribunal Superior de Justicia y el Consejo de la Judicatura del Poder Judicial del Estado deberán expedir o actualizar, según corresponda, su normativa interna para armonizarla a las disposiciones de este Decreto, dentro del plazo de 180 días naturales contados a partir del día siguiente a su entrada en vigor.
+
+Cláusula derogatoria
+
+Artículo tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
