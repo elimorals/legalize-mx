@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2023-10-13"
+last_updated: "2023-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 2023.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1877,7 +1877,13 @@ i) Las convocatorias y el orden del día de las reuniones de las Comisiones y lo
 
 j) Los informes que comunique por escrito a la Legislatura el Gobernador del Estado de su salida al extranjero o su ausencia de la entidad hasta por quince días, en donde informe de las acciones realizadas;
 
-k) Los demás documentos que envíen a la Directiva de la Legislatura, cuando lo estime necesario.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 20 DE OCTUBRE DE 2023)</small>
+
+k) Los informes anuales sobre la actividad legislativa y de gestión, que presenten las y los diputados; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], G.G. 20 DE OCTUBRE DE 2023)</small>
+
+l) Los demás documentos que envíen a la Directiva de la Legislatura, cuando lo estime necesario.
 
 ### CAPITULO XIV. DE LAS DEPENDENCIAS DEL PODER LEGISLATIVO
 
@@ -3183,13 +3189,15 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por este Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 226 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
+G.G. 20 DE OCTUBRE DE 2023.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 192.- POR EL QUE SE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 29 Y SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 29 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y SE REFORMA EL INCISO K) DEL ARTÍCULO 147 BIS Y SE ADICIONA EL INCISO L) AL ARTÍCULO 147 BIS DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-P.O. 29 DE ABRIL DE 2025.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Los informes de actividades legislativas correspondientes al Segundo y Tercer Año de Ejercicio Constitucional de la “LXI” Legislatura del Estado de México, podrán rendirse de manera conjunta en el mes de agosto del año 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 212 POR EL QUE SE REFORMAN LOS ARTÍCULOS 169 BIS Y 205 BIS CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499”.]
 
