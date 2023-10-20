@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-proteccion-de-personas-defensoras-de-derechos-13062
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-14"
-last_updated: "2023-09-25"
+last_updated: "2023-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2023.
 
 Ley publicada en la Décima Sección al Número 54 del Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, el martes 14 de agosto de 2018.
 
@@ -281,7 +281,9 @@ I. Monitorear los riesgos y agresiones contra periodistas y personas defensoras 
 
 II. Coordinar con las instancias estatales y municipales correspondientes la implementación de Medidas de Protección Extraordinaria para personas en situación de riesgo;
 
-III. Apoyar al Mecanismo Federal en la implementación de Medidas de Protección Extraordinaria, mediante un procedimiento de reacción rápida en casos de urgencia cuando se detecten situaciones de riesgo graves;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+
+III. Apoyar al Mecanismo Federal en la implementación de Medidas de Protección Extraordinaria, mediante un procedimiento de reacción rápida en caso de riesgo;
 
 IV. Seguimiento y supervisión puntual de las medidas implementadas por el Mecanismo Federal en las que se tenga participación estatal;
 
@@ -433,9 +435,11 @@ VII. Ejecute conductas ilícitas haciendo uso de los medios físicos y humanos d
 
 VIII. Cause daño intencionalmente a los medios de protección físicos y humanos asignados para su protección.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 31.
 
-Las Medidas Preventivas y de Protección Extraordinaria podrán ser retiradas por decisión de la Unidad en caso de que el beneficiario realice un uso indebido de las mismas de manera deliberada y reiterada.
+Las Medidas Preventivas y de Protección Extraordinaria sólo podrán ser retiradas por decisión de la Unidad en caso de que el beneficiario realice un uso indebido de las mismas de manera deliberada y reiterada.
 
 ###### Artículo 32.
 
@@ -588,3 +592,11 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo, para su publicaci�
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 20 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 437.- ARTÍCULO PRIMERO.- SE ADICIONA UN TERCER PÁRRAFO RECORRIÉNDOSE EN ORDEN LOS SUBSECUENTES AL ARTÍCULO 8° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE ADICIONA LA FRACCIÓN XVI Y SE RECORREN LAS SUBSECUENTES DEL ARTÍCULO 28; LA FRACCIÓN VI Y SE RECORREN LAS SUBSECUENTES DEL ARTÍCULO 141; Y, SE REFORMA EL ARTÍCULO 157, TODOS DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO.- ARTÍCULO TERCERO.- SE REFORMAN LOS ARTÍCULOS 19, FRACCIÓN III Y 31 DE LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS”.]
+
+PRIMERO. Remítase el presente Decreto a los Ayuntamientos del Estado, al Concejo Mayor de Cherán y al Concejo Municipal de Penjamillo, para que emita el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
