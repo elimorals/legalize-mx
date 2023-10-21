@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-fiscalia-general-del-estado-de-oaxaca-110305
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-10-06"
-last_updated: "2023-04-01"
+last_updated: "2023-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 6 de octubre de 2015.
 
@@ -63,9 +63,7 @@ I. Agencia de Investigación: A la Agencia Estatal de Investigaciones;
 
 II. Centro: Al Centro de Evaluación y Control de Confianza del Estado de Oaxaca;
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2018)</small>
-
-III. Consejo Local: Al Consejo Local de Profesionalización del Servicio Profesional de Carrera de la Fiscalía General;
+III. (DEROGADA, P.O. 21 DE OCTUBRE DE 2023)
 
 IV. Constitución Federal: A la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -114,6 +112,10 @@ XV. Reglamento del Servicio: Al Reglamento del Servicio Profesional de Carrera d
 > <small>(ADICIONADA, P.O. 24 DE ENERO DE 2018)</small>
 
 XVI. Servicio: Al Servicio Profesional de Carrera de la Fiscalía General del Estado de Oaxaca que comprende a los Agentes del Ministerio Público, a los policías de investigación de la Agencia de Investigación, a los Peritos y a los Facilitadores.
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+XVII. A la Central de Inteligencia: a la Central de Inteligencia Criminal.
 
 ###### Artículo 3.
 
@@ -173,7 +175,9 @@ VI. Administrar, suministrar, intercambiar, sistematizar, consultar, analizar y 
 
 VII. Atender la regulación que prevé la Ley General, la Ley Estatal y la presente Ley Orgánica respecto al Servicio;
 
-VIII. Formar y actualizar a sus servidores públicos para la investigación y persecución de los delitos de su competencia; así como implementar un Servicio de agentes del Ministerio Público, de policías de investigación y de peritos;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+VIII. Formar y actualizar a sus servidores públicos para la investigación y persecución de los delitos de su competencia; así como implementar un Servicio de agentes del Ministerio Público, facilitadores, de policías de investigación y de peritos;
 
 IX. Desarrollar e instrumentar un sistema de medidas de protección para sus servidores públicos y de las personas cuya salvaguarda sea relevante con motivo de las funciones de aquéllos;
 
@@ -539,11 +543,13 @@ XXI. Las demás que le confieran otras legislaciones generales, nacionales, fede
 
 ### CAPÍTULO V. DE LA SUPLENCIA Y REPRESENTACIÓN DEL FISCAL GENERAL
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 12.
 
 El Fiscal General será suplido en sus excusas, ausencias o faltas temporales por el Vicefiscal que determine el Reglamento. Ante la excusa, ausencia o falta temporal de éste, será suplido por los demás servidores públicos en los términos previstos en el Reglamento.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
 
 Los demás servidores públicos que integran la Fiscalía General, serán suplidos en sus excusas, ausencias o faltas temporales en los términos previstos en el Reglamento.
 
@@ -605,11 +611,131 @@ Durante la investigación y el proceso penal el Ministerio Público conservará 
 
 Los servidores públicos que contravengan lo dispuesto en el presente artículo serán sujetos de responsabilidad administrativa y/o penal.
 
-### CAPÍTULO I. DE LAS BASES GENERALES DE ORGANIZACIÓN
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+### CAPITULO VII. DE LA CENTRAL DE INTELIGENCIA CRIMINAL
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 19 Bis.
+
+La Central de Inteligencia Criminal de la Fiscalía General del Estado de Oaxaca, se adscribe directamente al mando del Fiscal General del Estado de Oaxaca y tiene como objetivo detectar las estructuras patrimoniales y económicas de la delincuencia, lograr una mayor eficiencia en la investigación y persecución de los delitos en general y particularmente aquellos cometidos por hechos de corrupción, encubrimiento, delitos cometidos por servidores públicos, robo de vehículos, recursos de procedencia ilícita, delitos contra la salud, secuestro, extorsión y trata de personas y en el aseguramiento y la extinción de dominio de los bienes destinados a estos fines ilícitos, de acuerdo a lo establecido en el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 19 Ter.
+
+La Central de Inteligencia Criminal de la Fiscalía General del Estado de Oaxaca, contará con las siguientes atribuciones:
+
+I. Generar, recabar, analizar y consolidar cualquier tipo de información relacionada con la comisión de algún delito y en particular aquella información fiscal , patrimonial y financiera relacionada con conductas que pudieran estar vinculadas con la comisión de los mismos;
+
+II. Emitir lineamientos y jerarquizar, por niveles de riesgo, la información que obtengan;
+
+III. Diseñar y establecer métodos y procedimientos de recolección, procesamiento, análisis y clasificación de la información que obtenga y que se hace referencia en la fracción I de este artículo;
+
+IV. Proponer al Fiscal General del Estado de Oaxaca, la celebración de convenios de colaboración con las instituciones y entidades financieras, empresas, asociaciones, sociedades, corredurías públicas, organismos centralizados, descentralizados, desconcentrados a nivel federal , estatal o municipal, así como organismos autónomos en los diversos órdenes de gobierno y demás agentes económicos en materia de información sobre operaciones en las que pudiera detectarse indicios de la posible comisión o participación en su comisión de actos delictivos, la intervención de la delincuencia organizada en la posible comisión o participación en su comisión de actos delictivos o que tengan por finalidad ocultar el origen ilícito de los bienes vinculados a actividades delictivas;
+
+V. Requerir a las unidades administrativas, órganos desconcentrados, descentralizados, delegaciones y entidades de la Administración Pública Estatal, Federal o Municipal, que proporcionen la información y documentación necesaria para el ejercicio de las atribuciones que se le confieren;
+
+VI. Solicitar a las autoridades competentes la realización de auditorías extraordinarias, en los casos de sospecha de la comisión de algún delito; ,
+
+VII. Colaborar en la investigación y persecución de los delitos con base en los análisis de la información que sea de su conocimiento;
+
+VIII. Ser el enlace entre las autoridades administrativas, órganos desconcentrados, delegaciones y entidades de la Administración Pública Estatal y Municipal, así como con las diversas dependencias y entidades de la Administración Pública Federal y de otras entidades federativas en los asuntos de su competencia, para el intercambio de información; así como negociar, celebrar e implementar acuerdos con esas instancias;
+
+IX. Coordinarse con las autoridades competentes para la práctica de los actos de investigación y fiscalización que resulten necesarios con motivo del ejercicio de sus facultades;
+
+X. Llevar el registro, inventario y control administrativo de los bienes que se encuentren bajo medidas cautelares, sujetos a cualquier investigación por la probable comisión de un hecho que la ley señale como delito o sujetos al procedimiento de extinción de dominio, en los términos de esta ley;
+
+XI. Recabar informes de los depositarios de los bienes a que refiere la fracción X del presente artículo y en su caso, requerir al Ministerio Público para que realice las promociones conducentes ante la autoridad Judicial con relación a la depositaría y administración de los mismos;
+
+XII. Someter a consideración del Fiscal un informe sobre los resultados de sus labores, que podrá servir de base para que se informe a la Legislatura; observando lo dispuesto en esta ley y demás normas aplicables en materia de transparencia, acceso a la información y manejo de datos personales; y
+
+XIII. Las demás que le confieren las disposiciones legales aplicables y que determine el Fiscal General del Estado de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 19 Quater.
+
+Al frente de la Central de Inteligencia Criminal de la Fiscalía General del Estado de Oaxaca, habrá un Titular el cual tendrá atribuciones siguientes:
+
+I. Atender el despacho de los asuntos de su competencia conforme a los principios rectores de la Fiscalía General del Estado de Oaxaca y los descritos por la Constitución Política del Estado Libre y Soberano de Oaxaca en el artículo 144 D respecto del Ministerio Público y la normatividad aplicable;
+
+II. Dirigir, organizar, planear y llevar a cabo las acciones pertinentes en el ejercicio de las facultades, competencias y funciones de la Central de Inteligencia Criminal de la Fiscalía General del Estado de Oaxaca;
+
+III. Dirigir, organizar y supervisar al personal adscrito a la Central de Inteligencia Criminal de la Fiscalía General del Estado de Oaxaca;
+
+IV. Supervisar las actuaciones de investigación;
+
+V. Supervisar la actuación de los Agentes del Ministerio Público Especializados, durante la preparación de la acción y durante el procedimiento de extinción de dominio en términos de la Ley Nacional de Extinción de Dominio;
+
+VI. Implementar mecanismos de coordinación y colaboración con distintas autoridades, en el ámbito de su competencia, previa autorización del Fiscal General del Estado de Oaxaca;
+
+VII. Desistirse de la acción y de la pretensión respecto de ciertos bienes objeto de la extinción de dominio en cualquier momento, antes de que se dicte sentencia definitiva, previa autorización de Fiscal General del Estado de Oaxaca; y
+
+VIII. Las demás que establezcan las disposiciones legales aplicables y el Fiscal General del Estado de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+Artículo 19 Quínquies.- El Titular de la Central de Inteligencia Criminal de la Fiscalía General del Estado de Oaxaca, deberá cumplir con los siguientes requisitos:
+
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
+
+II. Tener cuando menos veintiocho años cumplidos al día de la designación;
+
+III. Contar con título de licenciado en derecho y cédula profesional legalmente expedidos;
+
+IV. Tener cuando menos cinco años de ejercicio profesional;
+
+V. Sujetarse a los procedimientos de evaluación de control de confianza a que se refiere el artículo 48 de la presente Ley y del presente Reglamento;
+
+VI. No estar sujeto a proceso penal, ni haber sido condenado por sentencia ejecutoriada como responsable de un delito doloso o culposo siempre y cuando este último haya sido calificado como grave;
+
+VII. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público en los términos de las disposiciones aplicables;
+
+VIII. Contar con experiencia en materia de Extinción de Dominio, Operaciones con Recursos de Procedencia Ilícita y Financiamiento al Terrorismo; y
+
+IX. Los que señale el Reglamento y las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 19 Sexies.
+
+·La Central de Inteligencia Criminal de la Fiscalía General del Estado de Oaxaca, estará integrada por:
+
+a) La o el Titular de la Central;
+
+b) Las o los Agentes del Ministerio Público;
+
+c) Agentes del Ministerio Público Especializados en materia Extinción de Dominio, quienes intervendrán en el procedimiento en los términos de la ley de materia y demás disposiciones aplicables;
+
+d) Analistas de Información, quienes deberán cumplir con los requisitos para ser Agentes Estatales de Investigación establecidos en esta Ley, en la inteligencia que preferentemente se integrarán aquellas personas con enseñanza superior, en las carreras de Estadística, Matemáticas, Contaduría, Derecho con capacitación en Derecho Fiscal y en materia de Extinción de Dominio; y
+
+e) El personal necesario para el eficaz desempeño de la Central, quienes serán designados por el Fiscal General del Estado de Oaxaca.
+
+Las y los servidores públicos comisionados a la Central, deberán guardar estricta confidencialidad de la información sobre la cual tengan conocimiento o acceso, quedando estrictamente prohibido reproducir, divulgar, comunicar, transmitir, grabar, almacenar, utilizar, revelar, apoderarse o usar parcial o totalmente en cualquier forma o medio, la información confidencial para un propósito distinto para el que fue solicitado o en beneficio propio o de tercero. El incumplimiento a la presente disposición implicará responsabilidad penal o administrativa según sea el caso.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 19 Septies.
+
+Los agentes del Ministerio Público Especializados en materia de extinción de dominio tendrán las atribuciones generales siguientes:
+
+I. Preparar la acción de extinción de dominio, debiendo practicar las diligencias necesarias para obtener las pruebas que acrediten la existencia de los hechos ilícitos, así como para la identificación de los bienes materiales de la acción de extinción de dominio;
+
+II. Solicitar apoyo y colaboración de las diversas áreas del personal de la Fiscalía General del Estado de Oaxaca para el eficaz desempeño de sus funciones;
+
+III. Coadyuvar en determinados actos de investigación con el Agente del Ministerio Público en las carpetas de investigación relacionadas con los delitos competencia del Fuero Común y aquellos establecidos en el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos;
+
+IV. Ejercer acción de extinción de dominio;
+
+V. Informar al Fiscal General del Estado de Oaxaca, sobre los procedimientos de extinción de dominio; y
+
+VI. Las demás que determine Fiscal General del Estado de Oaxaca y otros instrumentos jurídicos aplicables.
 
 ## TÍTULO SEGUNDO. DE LAS BASES GENERALES DE ORGANIZACIÓN Y DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
 
-### CAPÍTULO II. DEL PERSONAL DE LA FISCALÍA GENERAL
+### CAPÍTULO I. DE LAS BASES GENERALES DE ORGANIZACIÓN
 
 ###### Artículo 20.
 
@@ -625,9 +751,11 @@ La Fiscalía Anticorrupción mantendrá un sistema de especialización, coordina
 
 El Reglamento, el Reglamento del Servicio, así como los Acuerdos, Convenios, Reglas, Protocolos y Manuales se publicarán en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 21.
 
-Para el despacho de los asuntos que competen a la Fiscalía General y al Ministerio Público conforme a las disposiciones aplicables, el Fiscal General se auxiliará de:
+Para el despacho de los asuntos que competen a la Fiscalía General y al Ministerio Público conforme a las disposiciones aplicables, la o el Fiscal General se auxiliará de:
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2018)</small>
 
@@ -673,13 +801,17 @@ XI. Las fiscalías;
 
 XII. Las unidades administrativas u operativas, y
 
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+XIII. La Central de Inteligencia Criminal;
+
 > <small>(ADICIONADA, P.O. 24 DE ENERO DE 2018)</small>
 
-XIII. Las demás áreas que se prevean en el Reglamento y demás disposiciones aplicables.
+XIV. Las demás áreas que se prevean en el Reglamento y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2023)</small>
 
-Para el nombramiento de las personas titulares de las áreas señaladas en las fracciones que anteceden, el o la titular de la Fiscalía General deberá observar el principio de paridad de género, así mismo, deberá generar mecanismos para establecer la paridad de género entre hombres y mujeres, en las convocatorias para formar parte del Servicio Profesional de Carrera Ministerial, Policial y Pericial.
+Para el nombramiento de las personas titulares de las áreas señaladas en las fracciones que anteceden, el o la titular de la Fiscalía General deberá observar el principio de paridad de género, así mismo, deberá generar mecanismos para establecer la paridad de género entre hombres y mujeres, en las convocatorias para formar parte del Servicio Profesional de Carrera Ministerial, Policial, Pericial y como Facilitadores.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
 
@@ -689,13 +821,13 @@ El Reglamento y los instrumentos que emanen de éste establecerán las vicefisca
 
 Asimismo, el Reglamento y los instrumentos que emanen regularán todo lo concerniente a la organización y funcionamiento de las fiscalías especializadas en Materia de Combate a la Corrupción y en Delitos Electorales, la Agencia de Investigación, los Institutos de la Fiscalía General, la Oficialía Mayor, la Contraloría Interna, y la Visitaduría General.
 
-### CAPÍTULO III. DE LAS RELACIONES ADMINISTRATIVAS Y LABORALES CON LA FISCALÍA GENERAL
+### CAPÍTULO II. DEL PERSONAL DE LA FISCALÍA GENERAL
 
 ###### Artículo 22.
 
 Los acuerdos por los cuales se disponga la creación o adscripción de fiscalías, vicefiscalías, direcciones, unidades administrativas u operativas y demás áreas administrativas, se publicarán en el Periódico Oficial del Gobierno del Estado.
 
-### CAPÍTULO IV. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
+### CAPÍTULO III. DE LAS RELACIONES ADMINISTRATIVAS Y LABORALES CON LA FISCALÍA GENERAL
 
 ###### Artículo 23.
 
@@ -731,13 +863,15 @@ La Fiscalía General contará con agentes del Ministerio Público, policías de 
 
 Los agentes del Ministerio Público, los policías de investigación, peritos y facilitadores, podrán ser de designación especial y no ser miembros del Servicio, en términos del capítulo VII del presente Título.
 
-### CAPÍTULO V. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
+### CAPÍTULO IV. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
 
 ###### Artículo 28.
 
 Las relaciones jurídicas entre la Fiscalía General, los agentes del Ministerio Público, los policías de investigación y los peritos que formen parte del Servicio, serán de carácter administrativo y se regirán por lo dispuesto en la fracción XIII apartado B del artículo 123 de la Constitución Federal, en la Ley General, en la presente Ley Orgánica, en el Reglamento del Servicio y en las demás disposiciones aplicables.
 
-Si la separación o remoción del Servicio fuera injustificada, la Fiscalía General sólo estará obligada a pagar indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+Si la separación o remoción del Servicio fuera injustificada, la Fiscalía General sólo estará obligada a pagar indemnización de hasta un máximo de tres meses y demás prestaciones a que tenga derecho hasta por el máximo de un año, sin que en ningún caso proceda su reincorporación.
 
 > <small>(ADICIONADO, P.O. 24 DE ENERO DE 2018)</small>
 
@@ -749,7 +883,7 @@ En atención a la naturaleza de las funciones que tiene a su cargo la Fiscalía 
 
 Las relaciones jurídicas entre la Fiscalía General y el personal a que se refiere este artículo serán de carácter laboral, por lo que cualquier controversia relacionada con la protección al salario y los beneficios de seguridad social que se suscite con motivo de dicha relación será resuelta por las instancias competentes, conforme a las disposiciones aplicables.
 
-### CAPÍTULO VI. DE LA CAPACITACIÓN, FORMACIÓN ÉTICA Y PROFESIONAL DEL PERSONAL DE CONFIANZA
+### CAPÍTULO V. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
 
 ###### Artículo 30.
 
@@ -763,15 +897,25 @@ Los servidores públicos de confianza de la Fiscalía General estarán sujetos a
 
 Los ámbitos de competencia de los órganos sancionadores de la Fiscalía General son:
 
-I. La Contraloría Interna estará encargada de vigilar el manejo adecuado conforme a las disposiciones aplicables de los recursos humanos, materiales, financieros, el patrimonio, el presupuesto y los fondos de la Fiscalía General, las adquisiciones, arrendamientos y contrataciones de bienes, servicios y obras públicas; así como investigar, en su caso, las irregularidades que detecte en el ejercicio de sus atribuciones, en términos del Reglamento;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2023)</small>
 
-II. La Visitaduría General estará encargada de iniciar, investigar, substanciar y resolver los procedimientos administrativos en contra del personal de confianza y de los miembros del Servicio conforme a las disposiciones aplicables y el Reglamento. Asimismo, estará encargada de llevar la acusación del procedimiento previsto en el Capítulo IX del Título Tercero de la presente Ley Orgánica en contra de los miembros del Servicio, en términos del Reglamento del Servicio, y
+I. La Contraloría Interna estará encargada de vigilar el manejo adecuado conforme a las disposiciones aplicables de los recursos humanos, materiales, financieros, el patrimonio, el presupuesto y los fondos de la Fiscalía General, las adquisiciones, arrendamientos y contrataciones de bienes, servicios y obras públicas; así como investigar, en su caso, las irregularidades que detecte en el ejercicio de sus atribuciones, en términos del Reglamento, pudiendo sancionar a quienes realicen actos u omisiones en detrimento de los recursos de la Fiscalía General en los términos de la normatividad aplicable.
 
-III. El Consejo Local por conducto de la comisión respectiva estará encargada de substanciar y resolver el procedimiento previsto en el Capítulo IX del Título Tercero de la presente Ley Orgánica en contra de los miembros del Servicio, en términos del Reglamento del Servicio.
+Del mismo modo será la Contraloría Interna la instancia facultada para investigar, substanciar y resolver lo relativo a los procedimientos de responsabilidad administrativa contra los servidores públicos de confianza de la Fiscalía General y conforme a las disposiciones de la presente Ley Orgánica, el Reglamento, la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, la Ley General de Responsabilidades Administrativas y las demás aplicables en la materia, así como para recibir, analizar y seguir en su caso el procedimiento respectivo de conformidad con las disposiciones aplicables, sobre las declaraciones patrimoniales y de intereses que presenten todos los servidores públicos de la Fiscalía General;
 
-### CAPÍTULO VII. DE LA DESIGNACIÓN ESPECIAL
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2023)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE ENERO DE 2018)</small>
+II. La Visitaduría General estará encargada de iniciar, investigar, substanciar y resolver los procedimientos administrativos en contra de los miembros del Servicio conforme a las disposiciones aplicables del procedimiento previsto en el Capítulo IX del Título Tercero de la presente Ley Orgánica y el Reglamento.
+
+III. (DEROGADA, P.O. 21 DE OCTUBRE DE 2023)
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+Para efectos de los procedimientos seguidos ante los órganos sancionadores, podrán realizarse todo tipo de notificaciones a través del correo electrónico ofrecido por las partes, en los términos que determinen las disposiciones aplicables a cada procedimiento.
+
+### CAPÍTULO VI. DE LA FORMACIÓN INTEGRAL Y DE LA EDUCACIÓN EN DERECHOS HUMANOS
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 32.
 
@@ -785,27 +929,39 @@ Los agentes del Ministerio Público, los policías de investigación, los perito
 
 El incumplimiento de las obligaciones a que se refiere este capítulo, dará lugar a los procedimientos y a las sanciones que correspondan conforme a esta Ley Orgánica y a las disposiciones aplicables.
 
-### CAPÍTULO I. BASES GENERALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+### CAPÍTULO VII. DE LA DESIGNACIÓN ESPECIAL
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE ENERO DE 2018)</small>
 
 ###### Artículo 34.
 
-En la capacitación, formación ética y profesional del personal de confianza de la Fiscalía General, se estará a lo dispuesto en la Ley General, el Programa Rector de Profesionalización y demás disposiciones aplicables.
+En la formación integral y la educación en derechos humanos del personal de la Fiscalía General, se estará a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, los documentos internacionales en materia de derechos humanos, la Ley General, la Ley Estatal, el Programa Rector de Profesionalización y demás disposiciones aplicables.
 
-El Fiscal General podrá emitir los instrumentos jurídicos y administrativos que regulen la capacitación y formación ética y profesional del personal de confianza de la Fiscalía General, conforme a sus necesidades pero siempre respetando las disposiciones que al respecto contiene la Ley General, la Ley Estatal y el Programa Rector antes citado.
+La formación integral y educación en derechos humanos estará a cargo de un órgano con autonomía técnica y de gestión, facultado para diseñar e implementar actividades académicas, de investigación, de difusión, editoriales u cualquier otra que resulte necesaria para lograr el objetivo de desarrollar saberes, competencias, actitudes y buenas prácticas en materia de justicia penal y derechos humanos en el personal de la Fiscalía General.
+
+El Fiscal General podrá emitir los instrumentos jurídicos y administrativos que regulen la formación integral y en derechos humanos de la Fiscalía General.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 35.
 
-La universalidad, interdependencia, indivisibilidad, pluriculturalidad, progresividad, buena fe, autonomía, certeza, legalidad, objetividad, lealtad, imparcialidad, eficacia, honradez, profesionalismo y respeto a los derechos humanos, serán principios rectores en la capacitación, formación, superación, actualización y del desempeño del personal de confianza de la Fiscalía General.
+La formación integral y educación en derechos humanos se basará en el enfoque diferencial, la perspectiva de género, la interseccionalidad, la interculturalidad, los derechos de las infancias, la perspectiva de orientación sexual e identidades de género y el respeto de los derechos de los grupos de atención prioritaria. Estos enfoques son enunciativos, no limitativos.
 
-### CAPÍTULO II. DE LOS REQUISITOS DE INGRESO Y PERMANENCIA
+Del mismo modo, se regirá por los principios de universalidad, interdependencia, no discriminación, progresividad, buena fe, autonomía, certeza, legalidad, objetividad, lealtad, imparcialidad, eficacia, honradez, profesionalismo.
+
+### CAPÍTULO I. BASES GENERALES
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE ENERO DE 2018)</small>
 
 ###### Artículo 36.
 
 Tratándose de personas con amplia experiencia profesional, el Fiscal General, de conformidad con el Reglamento, podrá, en casos excepcionales, llevar a cabo la designación especial de agentes del Ministerio Público, policías de investigación de la Agencia de Investigación, peritos y facilitadores.
 
-Se entiende por designación especial, el nombramiento que hace el Fiscal General de los elementos antes señalados, dispensando la convocatoria en su caso, así como el requisito de concurso de ingreso y selección, debiendo satisfacer los demás requisitos que refieren los artículos 44, 45 y 46 de la presente Ley Orgánica para ingresar al Servicio, respectivamente.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+Se entiende por designación especial, el nombramiento que hace el Fiscal General de los elementos antes señalados, dispensando la convocatoria en su caso, así como el requisito de concurso de ingreso y selección, debiendo satisfacer los demás requisitos que refieren los artículos 44, 45, 46 y 46 Bis de la presente Ley Orgánica para ingresar al Servicio, respectivamente.
 
 Las personas nombradas por designación especial no serán consideradas como miembros del Servicio.
 
@@ -819,7 +975,9 @@ En cualquier momento se podrán dar por terminados los efectos del nombramiento 
 
 El número de agentes del Ministerio Público, policías de investigación de la Agencia de Investigación, peritos y facilitadores por designación especial será el estrictamente necesario para atender los requerimientos del servicio de la Fiscalía General.
 
-En todo caso, la designación especial no podrá exceder del plazo de un año.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+En todo caso, la designación especial no podrá exceder del plazo de un año, tiempo durante el cual se integrará y preparará el expediente personal para su inmediato ingreso al servicio profesional de carrera en caso de ser necesario, si al término del plazo del nombramiento por designación especial no se considera al elemento con aptitudes para permanecer en la institución ni pertenecer al servicio profesional de carrera, la Fiscalía General se podrá reservar el derecho de emitir otro nombramiento o prorrogar el ya existente sin perjuicio alguno de los derechos de la persona que se trate.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
 
@@ -831,7 +989,7 @@ Previo al ingreso como agente del Ministerio Público, como policía de investig
 
 ## TÍTULO TERCERO. DEL SERVICIO PROFESIONAL DE CARRERA
 
-### CAPÍTULO III. DE LOS PROCEDIMIENTOS DE EVALUACIÓN
+### CAPÍTULO II. DE LOS REQUISITOS DE INGRESO Y PERMANENCIA
 
 ###### Artículo 40.
 
@@ -863,7 +1021,9 @@ III. La Conclusión comprenderá las causas ordinarias y extraordinarias de la m
 
 El Servicio se sujetará a las bases siguientes:
 
-I. Tendrá carácter obligatorio y permanente y abarcará los aspectos que conforman a las etapas, de las cuales se encargará el Consejo Local, sin perjuicio de que se establezcan mecanismos de coadyuvancia con instituciones públicas o privadas;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+I. Tendrá carácter obligatorio y permanente y abarcará los aspectos que conforman a las etapas, de las cuales se encargará la Dirección del Servicio Profesional de Carrera, sin perjuicio de que se establezcan mecanismos de coadyuvancia con instituciones públicas o privadas;
 
 II. Se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, lealtad, confidencialidad, honradez y respeto a los derechos reconocidos en la Constitución Federal, los Tratados Internacionales ratificados por el Estado mexicano y la Constitución Estatal;
 
@@ -877,13 +1037,15 @@ VI. Buscará generar el sentido de pertenencia institucional, y
 
 VII. Contará con el Sistema (sic) Información y Seguimiento de los miembros del Servicio y sus respectivas carreras.
 
-### CAPÍTULO IV. DEL CERTIFICADO Y REGISTRO DE LOS ASPIRANTES Y DE LOS SERVIDORES PÚBLICOS
+### CAPÍTULO III. DE LOS PROCEDIMIENTOS DE EVALUACIÓN
 
 ###### Artículo 44.
 
 Para ingresar y permanecer como Agente del Ministerio Público, se requiere:
 
-I. Para ingresar:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE OCTUBRE DE 2023)</small>
+
+I. Para Ingresar:
 
 a. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
 
@@ -921,9 +1083,9 @@ m. No tener parentesco con el Fiscal General; y
 
 n. No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien, tramite el descuento correspondiente.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 1 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2023)</small>
 
-ñ. Los demás requisitos que establezca el Reglamento del Servicio, el Consejo Local y las disposiciones aplicables.
+ñ. Los demás requisitos que establezca el Reglamento del Servicio, la Dirección del Servicio Profesional de Carrera y las disposiciones aplicables.
 
 II. Para permanecer:
 
@@ -941,11 +1103,15 @@ f. No ausentarse del Servicio sin causa justificada por más de tres días dentr
 
 g. No incurrir en actos u omisiones que afecten la prestación del Servicio; y
 
-h. Los demás requisitos que establezca el Reglamento del Servicio, el Consejo Local y las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+h. Los demás requisitos que establezca el Reglamento del Servicio, la Dirección del Servicio Profesional de Carrera y las disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 45.
 
-Para ingresar o permanecer como Policía de Investigación se requiere:
+Para ingresar y permanecer como Policía de Investigación, se requiere:
 
 I. Para ingresar:
 
@@ -977,9 +1143,9 @@ l. No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras q
 
 m. No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien, tramite el descuento correspondiente.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 1 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2023)</small>
 
-n. Los demás requisitos que establezca el Reglamento del Servicio, el Consejo Local y las disposiciones aplicables.
+n. Los demás requisitos que establezca el Reglamento del Servicio, la Dirección del Servicio Profesional de Carrera y las disposiciones aplicables
 
 II. Para permanecer:
 
@@ -997,11 +1163,15 @@ f. No ausentarse del Servicio sin causa justificada por más de tres días dentr
 
 g. No incurrir en actos u omisiones que afecten la prestación del Servicio; y
 
-h. Los demás requisitos que establezca el Reglamento del Servicio, el Consejo Local y las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+h. Los demás requisitos que establezca el Reglamento del Servicio, la Dirección del Servicio Profesional de Carrera y las disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 46.
 
-Para ingresar y permanecer como Perito se requiere:
+Para ingresar y permanecer como Perito, se requiere:
 
 I. Para ingresar:
 
@@ -1031,11 +1201,13 @@ k. No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras q
 
 l. No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien, tramite el descuento correspondiente.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 1 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2023)</small>
 
-m. Los demás requisitos que establezca el Reglamento del Servicio, el Consejo Local y las disposiciones aplicables.
+m. Los demás requisitos que establezca el Reglamento del Servicio, la Dirección del Servicio Profesional de Carrera y las disposiciones aplicables
 
-III. (sic) Para permanecer:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE OCTUBRE DE 2023)</small>
+
+II. Para permanecer:
 
 a. Acreditar los programas de profesionalización de formación continua y capacitación respectiva, para el ejercicio de las funciones que le correspondan conforme a las disposiciones aplicables;
 
@@ -1051,7 +1223,9 @@ f. No ausentarse del Servicio sin causa justificada por más de tres días dentr
 
 g. No incurrir en actos u omisiones que afecten la prestación del Servicio; y
 
-h. Los demás requisitos que establezca el Reglamento del Servicio, el Consejo Local y las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+h. Los demás requisitos que establezca el Reglamento del Servicio, la Dirección del Servicio Profesional de Carrera y las disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 24 DE ENERO DE 2018)</small>
 
@@ -1085,9 +1259,9 @@ j. No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras q
 
 k. No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien, tramite el descuento correspondiente.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 1 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2023)</small>
 
-l. Los demás requisitos que establezca el Reglamento del Servicio, el Consejo Local y las disposiciones aplicables.
+l) (sic) Los demás requisitos que establezca el Reglamento del Servicio, la Dirección del Servicio Profesional de Carrera y las disposiciones aplicables
 
 II. Para permanecer:
 
@@ -1105,9 +1279,11 @@ f. No ausentarse del Servicio sin causa justificada por más de tres días dentr
 
 g. No incurrir en actos u omisiones que afecten la prestación del Servicio, y
 
-h. Los demás requisitos que establezca el Reglamento del Servicio, el Consejo Local y las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2023)</small>
 
-### CAPÍTULO V. DE LA PROFESIONALIZACIÓN
+h) (sic) Los demás requisitos que establezca el Reglamento del Servicio, la Dirección del Servicio Profesional de Carrera y las disposiciones aplicables.
+
+### CAPÍTULO IV. DEL CERTIFICADO Y REGISTRO DE LOS ASPIRANTES Y DE LOS SERVIDORES PÚBLICOS
 
 ###### Artículo 47.
 
@@ -1169,7 +1345,7 @@ Se considera información confidencial por contener datos personales, la conteni
 
 Los miembros del Servicio que no aprueben los procedimientos de evaluación referidos en este capítulo, dejarán de prestar sus servicios en la Fiscalía General, previo desahogo del procedimiento que establece el Capítulo IX del presente Título.
 
-### CAPÍTULO VI. DE LA CONCLUSIÓN DEL SERVICIO
+### CAPÍTULO V. DE LA PROFESIONALIZACIÓN
 
 ###### Artículo 57.
 
@@ -1229,7 +1405,7 @@ IV. Por las demás causas que establezcan las demás disposiciones aplicables.
 
 El Centro que cancele algún Certificado deberá hacer la anotación respectiva en el Registro Nacional de Personal de Seguridad Pública a que alude la Ley General, sin perjuicio de que se realice otro registro correspondiente en el Sistema de Información y Seguimiento de la Fiscalía General.
 
-### CAPÍTULO VII. DEL CONSEJO LOCAL DE PROFESIONALIZACIÓN
+### CAPÍTULO VI. DE LA CONCLUSIÓN DEL SERVICIO
 
 ###### Artículo 66.
 
@@ -1243,7 +1419,7 @@ Los miembros del Servicio están obligados a participar en los programas de prof
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE ENERO DE 2018)</small>
 
-### CAPÍTULO VIII. DEL RÉGIMEN DISCIPLINARIO
+### CAPÍTULO VII. DEL CONSEJO LOCAL DE PROFESIONALIZACIÓN
 
 ###### Artículo 68.
 
@@ -1267,31 +1443,39 @@ b) Remoción por incurrir en causas de responsabilidad a que hace referencia est
 
 Al concluir el Servicio, el integrante del mismo deberá entregar al servidor designado para tal efecto, toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia mediante acta de entrega recepción.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 70.
 
-Los miembros del Servicio que hayan alcanzado las edades límite para la permanencia, previstas en las disposiciones que los rijan, podrán ser reubicados, a consideración del Consejo Local, en otras áreas de los servicios de la propia Fiscalía General.
+Los miembros del Servicio que hayan alcanzado las edades límite para la permanencia, previstas en las disposiciones que los rijan, podrán ser reubicados, a propuesta de la Dirección del Servicio Profesional de Carrera y a consideración de la Oficialía Mayor, en otras áreas de los servicios de la propia Fiscalía General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 71.
 
-En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la separación o remoción es injustificada, la Fiscalía General sólo estará obligada a la indemnización y al otorgamiento de las prestaciones a que tenga derecho dicha persona, sin que en ningún caso proceda su reincorporación al Servicio, de conformidad con el artículo 123, Apartado B, fracción XIII, de la Constitución Federal.
+En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la separación o remoción es injustificada, la Fiscalía General sólo estará obligada a la indemnización de hasta por tres meses y al otorgamiento de las prestaciones a que tenga derecho dicha persona de hasta por un año, sin que en ningún caso proceda su reincorporación al Servicio, de conformidad con el artículo 123, Apartado B, fracción XIII, de la Constitución Federal.
 
 Tal circunstancia será inscrita en el Registro Nacional de Personal de Seguridad Pública a que hace referencia la Ley General, así como en el Sistema de Información y Seguimiento de la Fiscalía General.
 
-### CAPÍTULO IX. DEL PROCEDIMIENTO ANTE EL CONSEJO LOCAL
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+### CAPÍTULO VIII. DEL RÉGIMEN DISCIPLINARIO
 
 ###### Artículo 72.
 
-El Consejo Local será la instancia colegiada encargada de normar, conocer y resolver toda controversia que se suscite en relación con el Servicio y su régimen disciplinario, en términos del Reglamento del Servicio y las demás disposiciones aplicables.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2023)
 
 ###### Artículo 73.
 
-La organización, operación y funcionamiento del Consejo Local serán determinados por el Reglamento del Servicio. Asimismo se establecerán las comisiones y áreas administrativas que deban auxiliar al Consejo Local en el desempeño de sus funciones.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2023)
 
 ###### Artículo 74.
 
-Además de las funciones que se otorguen al Consejo Local en términos del artículo anterior, dicha instancia será competente a través de la comisión respectiva para substanciar y resolver el procedimiento de separación o remoción de los miembros del Servicio a que alude el presente Título de conformidad con el Reglamento del Servicio.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2023)
 
-### CAPÍTULO I. DEL PATRIMONIO
+### CAPÍTULO IX. DEL PROCEDIMIENTO ANTE LA VISITADURÍA GENERAL
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2023)</small>
 
 #### SECCIÓN I. DE LOS DERECHOS Y OBLIGACIONES DE LOS MIEMBROS DEL SERVICIO
 
@@ -1301,7 +1485,9 @@ Los miembros del Servicio tendrán los derechos siguientes:
 
 I. Participar en los programas de profesionalización correspondientes, así como en aquellos que se acuerden con otras instituciones académicas, nacionales y del extranjero, que tengan relación con sus funciones, sujeto a las disposiciones presupuestales y a las necesidades del Servicio;
 
-II. Sugerir al Consejo Local las medidas que estimen pertinentes para el mejoramiento del Servicio, por conducto de sus representantes;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+II. Sugerir a la Dirección del Servicio Profesional de Carrera las medidas que estimen pertinentes para el mejoramiento del Servicio, por conducto de sus representantes;
 
 III. Percibir prestaciones acordes con las características de sus funciones y niveles de responsabilidad y riesgo en el desempeño de las mismas, de conformidad con el presupuesto de la Fiscalía General y las disposiciones aplicables;
 
@@ -1421,9 +1607,11 @@ IV. Remoción del cargo.
 
 Cuando se impongan las sanciones a los miembros del Servicio deberá realizarse la anotación respectiva en el Registro Nacional de Personal de Seguridad Pública a que alude la Ley General, sin perjuicio de que se realice otro registro correspondiente en el Sistema de Información y Seguimiento de la Fiscalía General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 81.
 
-Las sanciones serán impuestas por el Consejo Local a través de la comisión respectiva que determine el Reglamento del Servicio. Dicha imposición se realizará considerando los factores siguientes:
+Las sanciones serán impuestas por la Visitaduría General. Dicha imposición se realizará considerando los factores siguientes:
 
 I. Gravedad de la infracción;
 
@@ -1473,29 +1661,33 @@ Los arrestos administrativos consisten en la limitación deambulatoria de un mie
 
 Los términos, formas y condiciones de las faltas leves, así como de la imposición de correcciones disciplinarias serán determinados en el Reglamento del Servicio.
 
-### CAPÍTULO II. DEL PRESUPUESTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+### CAPÍTULO I. DEL PATRIMONIO
 
 ###### Artículo 84.
 
-El procedimiento que se instaure a los miembros del Servicio por incumplimiento a los requisitos de permanencia para efectos de su separación en el encargo, o por infracción al régimen disciplinario para efectos de la imposición de la sanción correspondiente, se seguirá de la siguiente manera:
+El procedimiento que se instaure contra los miembros del Servicio por incumplimiento a los requisitos de permanencia para efectos de su separación en el encargo, o por infracción al régimen disciplinario para efectos de la imposición de la sanción correspondiente, se seguirá de la siguiente manera:
 
-I. La Visitaduría General deberá presentar queja fundada y motivada ante la comisión respectiva del Consejo Local, en la cual deberá señalar el requisito de permanencia que presuntamente haya sido incumplido por el miembro del Servicio, adjuntando los documentos y demás pruebas que considere pertinentes;
+I. La Visitaduría General podrá iniciar el mismo en razón de queja, denuncia o investigación que arroje como resultado la probable falta de cuando menos un requisito de permanencia o una probable infracción al régimen disciplinario por el miembro del Servicio de que se trate, adjuntando los documentos y demás pruebas que considere pertinentes;
 
-II. La comisión respectiva del Consejo Local notificará la queja al miembro del Servicio de que se trate y lo citará a una audiencia, para que manifieste lo que a su derecho convenga, adjuntando los documentos y demás elementos probatorios que estime procedentes;
+II. La Visitaduría General notificará la queja, denuncia o resultado de la investigación al miembro del Servicio de que se trate y lo citará a una audiencia, para que manifieste lo que a su derecho convenga, adjuntando los documentos y demás elementos probatorios que estime procedentes;
 
-III. El Consejo Local a través de la comisión respectiva podrá suspender provisionalmente a dicho servidor público en tanto se resuelve lo conducente;
+III. La Visitaduría General podrá suspender provisionalmente a dicho servidor público en tanto se resuelve lo conducente;
 
-IV. Iniciada la audiencia, se llevará a cabo la dilación probatoria, se presentarán los alegatos correspondientes y agotadas las demás diligencias correspondientes, el Consejo Local a través de la comisión respectiva resolverá sobre la queja respectiva imponiendo, en su caso, la sanción que corresponda; y
+IV. Iniciada la audiencia, se llevará a cabo el ofrecimiento y desahogo probatorio sin más limitación que la de que las pruebas hayan sido obtenidas lícitamente, y con pleno respeto a los derechos humanos, solo estará excluida la confesional a cargo de las partes por absolución de posiciones, se presentarán los alegatos correspondientes y agotadas las demás diligencias correspondientes, la Visitaduría General resolverá sobre el procedimiento respectivo, emitiendo la resolución correspondiente donde valore todas las pruebas con relación al hecho o hechos objeto del proceso, en la cual se determinará sobre la existencia o inexistencia de elementos para sancionar conforme al Reglamento del Servicio; y
 
-V. Contra la resolución de la comisión respectiva del Consejo Local no procederá recurso administrativo alguno.
+V. Contra la resolución y la sanción impuesta por la Visitaduría General no procederá recurso administrativo alguno.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 85.
 
-El procedimiento a que se refiere el artículo anterior será substanciado por el Consejo Local a través de la comisión respectiva en los términos y formas que determine el Reglamento del Servicio.
+El procedimiento a que se refiere el artículo anterior será substanciado por la Visitaduría General hasta su resolución lo que incluye la imposición o no de sanción alguna en los términos y formas que determine el Reglamento del Servicio.
 
 ## TÍTULO CUARTO. DEL PATRIMONIO, PRESUPUESTO Y FONDOS DE LA FISCALÍA GENERAL
 
-### CAPÍTULO III. DE LOS FONDOS
+### CAPÍTULO II. DEL PRESUPUESTO
 
 ###### Artículo 86.
 
@@ -1539,9 +1731,7 @@ X. Los demás que determinen las disposiciones aplicables.
 
 Las multas impuestas por la Fiscalía General tendrán la naturaleza de créditos fiscales y serán enviadas para su cobro a la Secretaría de Finanzas del Estado de Oaxaca, quien una vez efectuado el mismo entregará las cantidades respectivas a la Institución, la cual podrá destinar dichos recursos para cubrir sus gastos de operación e inversión.
 
-### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS Y OFENDIDOS DEL DELITO
-
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+### CAPÍTULO III. DE LOS FONDOS
 
 ###### Artículo 88.
 
@@ -1555,7 +1745,9 @@ El ejercicio del presupuesto de la Fiscalía General se ejercerá en términos d
 
 El presupuesto de la Fiscalía General será utilizado para gasto corriente, proyectos de inversión, adquisición de bienes, servicios e inmuebles, así como en los demás fines que sean necesarios para el adecuado ejercicio de sus atribuciones, facultades y funciones.
 
-### CAPÍTULO II. DE LOS SERVIDORES PÚBLICOS QUE EJERCEN FUNCIONES DE AGENTES DEL MINISTERIO PÚBLICO
+### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS Y OFENDIDOS DEL DELITO
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 91.
 
@@ -1577,9 +1769,15 @@ IV. Con los recursos que ingresen a la Fiscalía General por concepto de título
 
 V. Con las multas derivadas de las sanciones interpuestas conforme el Reglamento del Servicio;
 
-VI. Con los recursos que le correspondan de conformidad con las disposiciones aplicables, que causen abandono vinculados con la comisión de delitos, así como los decomisados, y
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2023)</small>
 
-VII. Con los demás recursos que establezcan las disposiciones aplicables.
+VI. Con los recursos que le correspondan de conformidad con las disposiciones aplicables, que causen abandono vinculados con la comisión de delitos, así como los decomisados,
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+VII. Con los recursos que le correspondan por el cobro de derechos, contribuciones de mejora, productos, aprovechamientos, multas y pagos resarcitorios que determine la normatividad aplicable en la materia, y
+
+VIII. Con los demás recursos que establezcan las disposiciones aplicables.
 
 ###### Artículo 93.
 
@@ -1607,11 +1805,13 @@ En el caso de que conforme a las disposiciones aplicables a la Fiscalía General
 
 ## TÍTULO QUINTO. DISPOSICIONES COMPLEMENTARIAS
 
-### CAPÍTULO III. DEL CONSEJO CONSULTIVO CIUDADANO
+### CAPÍTULO II. DE LOS SERVIDORES PÚBLICOS QUE EJERCEN FUNCIONES DE AGENTES DEL MINISTERIO PÚBLICO
 
 ###### Artículo 95.
 
 La Fiscalía General podrá otorgar atención inmediata o especializada a las víctimas o personas ofendidas del delito, según sea el caso. Para tales efectos, su actuación observará la pertinencia cultural y se regirá de acuerdo a los lineamientos que expida la Comisión Ejecutiva Estatal conforme a las disposiciones aplicables.
+
+### CAPÍTULO III. DEL CONSEJO CONSULTIVO CIUDADANO
 
 ###### Artículo 96.
 
@@ -1655,13 +1855,25 @@ IV. Los directores que establezca el Reglamento;
 
 V. Los fiscales;
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2023)</small>
 
-VI. Los jefes de unidades operativas; y
+VI. Los jefes de Unidades operativas;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+VII. La Contraloría General;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+VIII. La Visitaduría General;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2023)</small>
+
+IX. La persona titular de la Central de Inteligencia Criminal; y
 
 > <small>(ADICIONADA, P.O. 24 DE ENERO DE 2018)</small>
 
-VII. Los demás servidores públicos que determine el Reglamento.
+X. Los demás servidores públicos que determine el Reglamento.
 
 ###### Artículo 98.
 
@@ -1846,3 +2058,17 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1562.- MEDIANTE EL CUAL REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. La Fiscalía General del Estado de Oaxaca tendrá un plazo de dos años contado a partir de la entrada en vigor del presente Decreto para regularizar los nombramientos y situación de empleo público del personal que cuenten con un nombramiento por designación especial en términos del artículo 38 de la presente Ley y las disposiciones Reglamentarias conducentes.
+
+CUARTO. Los procesos que los órganos sancionadores de la Fiscalía General del Estado de Oaxaca hubieren iniciado hasta antes de la presente reforma se sustanciarán conforme a la normatividad vigente al momento de su inicio, el Reglamento de la Ley Orgánica de la Fiscalía General del Estado para efectos de los procedimientos seguidos ante los órganos sancionadores, deberá prever las áreas necesarias para garantizar la legalidad de los procesos sancionadores.
+
+QUINTO. El Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Oaxaca así como el Reglamento del Servicio Profesional de Carrera de la Fiscalía General del Estado de Oaxaca conforme a la estructura prevista en el presente Decreto, deberá modificarse por el Fiscal General dentro de los ciento veinte días naturales siguientes al de la entrada en vigor del presente Decreto, debiendo publicarse en el Periódico Oficial del Gobierno del Estado de Oaxaca.
