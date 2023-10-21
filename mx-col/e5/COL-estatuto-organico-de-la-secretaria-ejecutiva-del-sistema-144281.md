@@ -4,7 +4,7 @@ identifier: "COL-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-144281
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-09-19"
-last_updated: "2020-09-19"
+last_updated: "2023-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2023.
 
 Estatuto publicado en el Número 65 del Periódico Oficial del Estado de Colima, el sábado 19 de septiembre de 2023.
 
@@ -593,9 +593,11 @@ La Unidad y el Comité de Transparencia, se regirán por lo dispuesto en la Ley 
 
 ### CAPÍTULO ÚNICO. DE LAS SUPLENCIAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 35.
 
-En los casos de ausencia temporal, los servidores públicos adscritos a la Secretaría Ejecutiva serán suplidos en los términos siguientes:
+En los casos de ausencia temporal o definitiva, los servidores públicos adscritos a la Secretaría Ejecutiva serán suplidos en los términos siguientes:
 
 I. La ausencia del Secretario Técnico será suplida por el Titular de la Unidad de Riesgos y Política Pública, por el Titular de la Unidad de Servicios Tecnológicos y Plataforma Digital Nacional, por el Director General de Asuntos Jurídicos y por el Director General de Administración, en ese orden.
 
@@ -620,3 +622,13 @@ Los casos no previstos en el presente Estatuto serán resueltos por la Junta de 
 ÚNICO. El presente Estatuto Orgánico entrará en vigor al día de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 Colima, Colima a 30 de enero del 2020. La Secretaria Técnica de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, Mtra. Ma. Teresa Trejo Gutiérrez. Quien certifica y da fe. Firma.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 35 DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE COLIMA.]
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Publíquese el presente acuerdo en las páginas de internet de la Secretaría Ejecutiva y las propias de los integrantes del Sistema.
