@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-becas-y-credito-educativo-del-estado-12611
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-29"
-last_updated: "2023-07-13"
+last_updated: "2023-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY DEL INSTITUTO DE BECAS Y CREDITO EDUCATIVO DEL ESTADO DE SONORA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE OCTUBRE DE 2023 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL INSTITUTO DE BECAS Y CRÉDITO EDUCATIVO DEL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2023.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL B.O. EL 23 DE OCTUBRE DE 2023 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 13 DE JULIO DE 2023.]</small>
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 29 de enero de 2018.
 
@@ -671,7 +671,7 @@ Dentro de las disposiciones y criterios que al efecto se determinen en el reglam
 
 Dentro de las disposiciones y criterios que se determinen en el reglamento, manuales y convocatoria, se deberá privilegiar el aspecto socioeconómico y de grupos vulnerables para el otorgamiento de becas y estímulos formativos.
 
-> <small>(REFORMADO, B.O. 13 DE JULIO DE 2023)</small>
+> <small>(ADICIONADO, [N. DE E. REFORMADO], B.O. 13 DE JULIO DE 2023)</small>
 
 La única instancia autorizada del Gobierno del Estado para el otorgamiento de becas y estímulos educativos, así como de becas y estímulos formativos será el Instituto, y éstas no pueden ser otorgadas a través de planes o programas ni servidores públicos distintos a los autorizados por esta Ley, los reglamentos y manuales respectivos.
 
