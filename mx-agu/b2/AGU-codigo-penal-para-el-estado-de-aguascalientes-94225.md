@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2023-10-04"
+last_updated: "2023-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1057,11 +1057,15 @@ IV. El hecho se haya cometido aprovechándose de la prestación de un servicio d
 
 En los casos a que se refieren las Fracciones I a IV, se aplicará al responsable de 20 a 40 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 98.
 
-Homicidio en riña, en vindicación y por móviles de piedad. Si el Homicidio Doloso se cometiera en Riña, se aplicará al responsable de 4 a 10 años de prisión y multa de 15 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, tomándose en cuenta, para la individualización de las penas, si el responsable tuvo el carácter de provocado o provocador. En caso de que el responsable tenga el carácter de provocado, la pena de prisión establecida se disminuirá en una tercera parte, en lo que se refiere a su mínimo y a su máximo.
+Homicidio en riña, en vindicación y por móviles de piedad. Si el Homicidio Doloso se cometiera en Riña, se aplicará al responsable de 6 a 12 años de prisión y multa de 30 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, tomándose en cuenta, para la individualización de las penas, si el responsable tuvo el carácter de provocado o provocador. En caso de que el responsable tenga el carácter de provocado, la pena de prisión establecida se disminuirá en una tercera parte, en lo que se refiere a su mínimo y a su máximo.
 
-La misma punibilidad establecida en este Artículo se aplicará a quien cometa el Homicidio Doloso:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE OCTUBRE DE 2023)</small>
+
+Se aplicará la punibilidad de 4 a 10 años de prisión, multa de 15 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, al responsable de Homicidio Doloso previsto en las dos fracciones siguientes:
 
 I. En vindicación próxima de una ofensa grave causada al responsable, a su cónyuge, concubino, ascendientes, descendientes o hermanos; y
 
@@ -2687,6 +2691,14 @@ III. Se utilice para ello algún bien público; o
 
 IV. Posea o porte, uno o varios equipos o artefactos que permitan la intervención, escucha o transmisión de datos con respeto a canales de comunicación oficiales de Instituciones del Sistema Estatal de Seguridad Publica.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+ARTÍCULO 178 C (SIC).- Portación de Armas Prohibidas. La portación de armas prohibidas consiste en portar, fabricar, comercializar o acopiar, sin un fin lícito, armas químicas, instrumentos u objetos punzantes, cortantes, contundentes, punzo-cortantes, punzo-contundentes y/o corto-contundentes que solo puedan ser utilizados para agredir y que no tengan aplicación en actividades laborales, domésticas, deportivas, recreativas o cuya naturaleza sea la defensa.
+
+Al responsable de Portación de Armas Prohibidas se le aplicarán de 6 meses a 4 años de prisión y de 25 a 250 días multa, así como el decomiso de la misma.
+
+Para efectos del presente artículo se entiende por acopio la detentación de tres o más instrumentos u objetos de aquellos a que se refiere el primer párrafo de este artículo.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2017)</small>
 
 ### CAPÍTULO XII. Tipos Penales Protectores de la Confidencialidad, la Intimidad de la Información y la Identidad de la Persona
@@ -2763,13 +2775,29 @@ I. La interrupción total o parcial que se haga de cualquier forma a los servici
 
 II. La retención de cualquier vehículo destinado al servicio público de transporte de jurisdicción local, sin orden previa de autoridad;
 
-III. La destrucción, inutilización, o cambio de sentido o de lugar de una señal establecida para la seguridad de las vías de comunicación o medios de transporte; o
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2023)</small>
 
-IV. La violación por dos o más veces de la Ley de Vialidad en lo que se refiere a exceso de velocidad.
+III. La destrucción, inutilización o cambio de sentido o de lugar de una señal establecida para la seguridad de las vías de comunicación o medios de transporte;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+IV. La violación por dos o más veces de la Ley de Vialidad en lo que se refiere a exceso de velocidad; o
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+V. La colocación en las vialidades, de instrumentos u objetos que impidan la movilidad de medios de locomoción utilizados por las Instituciones de Seguridad Pública, la Guardia Nacional y/o las Fuerzas Armadas.
 
 Para la adecuada aplicación de la presente figura típica, se entiende por vías de comunicación, las de tránsito destinadas habitualmente al uso público, sea quien fuere el propietario y cualquiera que fuere el medio de locomoción que se utilice en ellas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE OCTUBRE DE 2023)</small>
+
+Para efectos de este artículo, quedan excluidas las Instituciones de Seguridad Pública, la Guardia Nacional y las Fuerzas Armadas, que en el ejercicio de sus funciones empleen los instrumentos u objetos señalados en la fracción V del presente artículo.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 23 DE OCTUBRE DE 2023)</small>
+
 Al responsable de Ataques a las Vías de Comunicación y a los Medios de Transporte Dolosos se le aplicarán de 6 meses a 4 años de prisión y de 10 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 23 DE OCTUBRE DE 2023)</small>
 
 Si para la ejecución de los hechos descritos en este Artículo se utilizan materias explosivas o incendiarias, la punibilidad será de 1 a 6 años de prisión y de 15 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
@@ -3894,3 +3922,27 @@ P.O. 4 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 426.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Estado de Aguascalientes.
+
+P.O. 23 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 423.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
+
+P.O. 23 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 427.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
