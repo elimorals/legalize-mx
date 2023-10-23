@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2023-06-05"
+last_updated: "2023-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -1667,6 +1667,10 @@ Cuando la materia de una iniciativa corresponda total o parcialmente a la compet
 
 Las demás promociones presentadas por los Titulares de los Poderes Ejecutivo y Judicial o por los Ayuntamientos, de asuntos sobre los que el Congreso del Estado tiene facultad de conocer y emitir resolución, conforme al Artículo 27 de la Constitución del Estado, seguirán el mismo trámite que las iniciativas de leyes.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+ARTÍCULO 122 BIS.- Las iniciativas que propongan modificaciones a esta Ley, su reglamento o a alguna otra reglamentación interna, que sea exclusiva de este Poder Legislativo, sólo podrán referirse a la normatividad que sugieran reformar.
+
 ### CAPÍTULO III. LOS DICTÁMENES
 
 ###### ARTÍCULO 123.
@@ -1846,6 +1850,14 @@ Para estos efectos, las notificaciones de la reforma que el Congreso del Estado 
 II. Cada Ayuntamiento deberá emitir su voto dentro de los quince días hábiles siguientes a la recepción de la minuta respectiva y comunicarlo al Congreso del Estado por escrito, acompañando el acta de la sesión de cabildo correspondiente, donde conste la aceptación o rechazo de dicho órgano colegiado; en caso de no hacerlo, dentro del plazo mencionado, conforme a la certificación que realice el Secretario General del Congreso y publique en el Periódico Oficial del Estado, se entenderá que acepta la reforma; y
 
 III. Una vez recibidos los votos aprobatorios de la mayoría absoluta de los Ayuntamientos o transcurrido el plazo respectivo, la Mesa Directiva del Pleno o la Diputación Permanente en su caso, formularán la declaratoria de que la modificación es parte de la Constitución del Estado, y será enviada al Titular del Poder Ejecutivo para su promulgación y publicación.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+Estas iniciativas deberán presentarse por separado de cualquier otra iniciativa que proponga modificaciones a disposiciones de legislación secundaria. Cuando exista una correlación entre iniciativas, porque una de éstas modifique disposiciones de la Constitución del Estado y la otra, normas secundarias, la relación que éstas guarden, deberá señalarse en los argumentos que sustenten ambas iniciativas, como parte de los elementos indispensables a que se refiere el artículo 112 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+En el caso de iniciativas que impliquen modificaciones a la Ley y a la normatividad reglamentaria de este Poder Legislativo, se presentarán de manera separada a las constitucionales.
 
 ### CAPÍTULO V. LA DESIGNACIÓN DE LOS TITULARES DE LOS ÓRGANOS INTERNOS DE CONTROL DE LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS
 
@@ -2402,3 +2414,11 @@ P.O. 5 DE JUNIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de la publicación de su Declaratoria respectiva en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 476.- SE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
