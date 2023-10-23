@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-161515"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-12-20"
-last_updated: "2023-04-03"
+last_updated: "2023-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2023.
 
 Código publicado en el Número 70 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 20 de diciembre de 2020.
 
@@ -3543,6 +3543,10 @@ Será requisito entre otros para que en su caso se otorgue permiso para urbaniza
 
 También se requerirá la aprobación de la mayoría de los colonos, la cual se obtendrá mediante un proceso de consulta, realizado con las formalidades jurídicas apropiadas, bajo la supervisión del Municipio.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+Para obtener las autorizaciones a que se refiere este artículo, la organización vecinal deberá presentar un proyecto de video vigilancia que coadyuve con las tareas de seguridad pública que cumpla con los lineamientos establecidos por la Secretaría de Seguridad Pública conforme a lo dispuesto por la Ley de Video Vigilancia del Estado de Aguascalientes, con excepción de los condominios y fraccionamientos habitacionales urbanos de interés social.
+
 ###### ARTÍCULO 251.
 
 Cuando exista incumplimiento por parte de los colonos a las disposiciones contenidas en este Código, el Código Municipal, al Reglamento respectivo y otras disposiciones jurídicas aplicables o al permiso para la urbanización cerrada, este se podrá revocar por parte del Municipio respectivo.
@@ -4847,9 +4851,17 @@ b).- Relación de todos los fraccionamientos, condominios y desarrollos inmobili
 
 c).- Constancia de no adeudo del impuesto a la propiedad raíz del predio objeto de la solicitud; y;
 
-d).- Certificado de libertad de gravamen con fecha de expedición no mayor a 1 mes anterior a la solicitud; y
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2023)</small>
 
-XVI.- En caso de que sea sustituida una parte del área de donación, se deberá presentar la propuesta de dotación de equipamiento urbano y de infraestructura conforme a lo dispuesto en este Código, proporcionando a detalle el dictamen que lo justifique, el proyecto ejecutivo del mismo, su costo y el programa de obra, con las especificaciones que determine el Municipio respectivo;
+d).- Certificado de libertad de gravamen con fecha de expedición no mayor a 1 mes anterior a la solicitud;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+XVI.- En caso de que sea sustituida una parte del área de donación, se deberá presentar la propuesta de dotación de equipamiento urbano y de infraestructura conforme a lo dispuesto en este Código, proporcionando a detalle el dictamen que lo justifique, el proyecto ejecutivo del mismo, su costo y el programa de obra, con las especificaciones que determine el Municipio respectivo; y
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+XVII.- Proyecto de video vigilancia que cumpla con los lineamientos establecidos por la Secretaría de Seguridad Pública en términos de la Ley de Video Vigilancia del Estado de Aguascalientes, con excepción de los condominios y fraccionamientos habitacionales urbanos de interés social.
 
 > <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
 
@@ -4995,7 +5007,9 @@ c).- Sistema de alcantarillado y saneamiento;
 
 d).- Especificaciones de los pavimentos, banquetas, guarniciones y placas de nomenclatura; y
 
-e).- Sistema de electrificación y alumbrado público;
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+e).- Sistema de electrificación, alumbrado público y de video vigilancia;
 
 VII.- Opiniones técnicas del proyecto;
 
@@ -9270,3 +9284,19 @@ P.O. 3 DE ABRIL DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 424.- SE REFORMAN LA LEY DE SEGURIDAD PRIVADA DEL ESTADO DE AGUASCALIENTES; Y, EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Seguridad Pública del Estado y la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes, deberán llevar a cabo las acciones jurídicas y administrativas necesarias para el cumplimiento del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Con el inicio de la vigencia del presente Decreto, quedan sin efectos todas aquellas disposiciones que se opongan al mismo.
