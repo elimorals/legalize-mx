@@ -4,7 +4,7 @@ identifier: "NLE-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-133997
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-02-08"
-last_updated: "2019-02-08"
+last_updated: "2023-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "NLE"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2023.
 
 Estatuto publicado en el Número 17 del Periódico Oficial del Estado de Nuevo León, el viernes 8 de febrero de 2019.
 
@@ -180,7 +180,9 @@ VII. Autorizar de acuerdo con las leyes aplicables, las políticas, bases y prog
 
 VIII. Aprobar la estructura básica de la organización de la Secretaría Ejecutiva, así como las modificaciones que procedan a la misma, en lo que se refiere a las remuneraciones de los funcionarios de la dependencia, el Órgano de Gobierno se sujetará al tabulador de remuneraciones para los servidores públicos de la Administración Pública del Estado que emita el Gobierno del Estado de Nuevo León, correspondiéndole al Secretario Técnico la categoría de Secretario, al Coordinador Ejecutivo la categoría de Subsecretario y a los Titulares de las Direcciones y de la Unidad de Transparencia la categoría de Director de Área;
 
-IX. A propuesta del Secretario Técnico, nombrar y remover a los servidores públicos de la Secretaría Ejecutiva que ocupen los cargos de los dos primeros niveles jerárquicos inferiores a dicho funcionario, así como aprobar la fijación de sus sueldos, prestaciones y conceder licencias a los servidores públicos mencionados.; (sic)
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+IX. A propuesta del Secretario Técnico, o bien de manera directa cuando sea justificado nombrar y remover a los servidores públicos de la Secretaría Ejecutiva que ocupen los cargos de los dos primeros niveles jerárquicos inferiores a dicho funcionario, así como aprobar la fijación de sus sueldos, prestaciones y conceder licencias a los servidores públicos mencionados.; (sic)
 
 X. Analizar y aprobar, en su caso, los informes periódicos que rinda el Secretario Técnico;
 
@@ -344,6 +346,8 @@ XXVIII. Las que señalen las otras Leyes, Reglamentos, Decretos, Acuerdos y dem�
 
 ### CAPITULO V. DEL COORDINADOR EJECUTIVO
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 24.
 
 Para el desahogo de los asuntos de su competencia, el Coordinador Ejecutivo contará con las siguientes facultades:
@@ -382,7 +386,11 @@ XVI. Señalar indicadores de gestión a evaluar y establecer los lineamientos pa
 
 XVII. Coordinar las acciones de las diversas Direcciones en los programas y acciones.
 
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2023)</small>
+
 XVIII. Coordinar reuniones con la estructura general y presidirlas en ausencia del Secretario Técnico.
+
+En los casos de ausencia del Secretario Técnico, actuar como encargado del despacho de la Secretaría Ejecutiva del Sistema Estadal Anticorrupción, asumiendo las atribuciones, facultades y obligaciones que la ley y el presente estatuto orgánico confieren a dicho cargo, así como las que de manera especial o temporal determine expresamente el Órgano de Gobierno.
 
 XIX. Propiciar y facilitar la comunicación y coordinación entre las dependencias y entidades de gobierno con la Secretaría Ejecutiva;
 
@@ -634,9 +642,11 @@ La Unidad y el Comité de Transparencia, se regirán por lo dispuesto en la Ley 
 
 ### CAPÍTULO ÚNICO. DE LAS SUPLENCIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 40.
 
-En los casos de ausencia temporal, los servidores públicos adscritos a la Secretaría Ejecutiva serán suplidos en los términos siguientes:
+En los casos de ausencia temporal o definitiva, los servidores públicos adscritos a la Secretaría Ejecutiva serán suplidos en los términos siguientes:
 
 I. La ausencia del Secretario Técnico será suplida por el Coordinador Ejecutivo.
 
@@ -699,3 +709,13 @@ Presidente de la Comisión de Transparencia y Acceso a la información del Estad
 LIC. MARIO TREVIÑO MARTÍNEZ
 
 Magistrado de la Sala Especializada en materia de Responsabilidades Administrativas del Estado de Nuevo León.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DICTAMEN DE REFORMA POR MODIFICACIÓN AL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO: La presente reforma entrará en vigor y surtirá plenos efectos al momento de su aprobación.
+
+SEGUNDO: Publíquese para su difusión y conocimiento en el Periódico Oficial del Estado.
