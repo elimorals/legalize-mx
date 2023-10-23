@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-161551"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2022-12-31"
-last_updated: "2023-02-03"
+last_updated: "2023-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2023
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Número 72 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el sábado 31 de diciembre de 2022.
 
@@ -50,6 +50,8 @@ LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2
 En el Ejercicio Fiscal del año 2023, la Hacienda Pública del Estado percibirá los ingresos provenientes de los conceptos y en las cantidades estimadas en pesos que se indican a continuación:
 
 > <small>[N. DE E. VÉASE TABLA EN LA SEGUNDA SECCIÓN DEL P.O. DE 31 DE DICIEMBRE DE 2022, PÁGINAS DE LA 2 A LA 7.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 23 DE OCTUBRE DE 2023, PÁGINAS DE LA 9 A LA 10.]</small>
 
 El desglose de los ingresos para el Ejercicio Fiscal 2023 no contempla los conceptos y los numerales correspondientes a Cuotas y Aportaciones de Seguridad Social, Contribuciones de Mejoras; Transferencias, Asignaciones, Subsidios y Subvenciones, y Pensiones y Jubilaciones; establecidos en el Catálogo del Clasificador por Rubro de Ingresos en virtud de que no son aplicables para los ingresos que establece esta Ley.
 
@@ -387,6 +389,8 @@ XVII. a XXXII. ...
 
 > <small>[N. DE E. VÉASE TABLA COMPLETA EN LA SEGUNDA SECCIÓN DEL P.O. DE 31 DE DICIEMBRE DE 2022, PÁGINAS DE LA 31 A LA 119.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LAS TABLAS EN LA PRIMERA SECCIÓN DEL P.O. DE 23 DE OCTUBRE DE 2023, PÁGINA 10.]</small>
+
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
 ### CAPÍTULO ÚNICO. Del Gobierno Central
@@ -494,6 +498,8 @@ Por los aprovechamientos provenientes de los Órganos Autónomos, se observarán
 Por los Ingresos por Ventas de Bienes, Prestación de Servicios y Otros Ingresos provenientes de las Entidades Paraestatales, Organismos Descentralizados, Órganos Desconcentrados y Autónomos, se observarán las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA EN LA SEGUNDA SECCIÓN DEL P.O. DE 31 DE DICIEMBRE DE 2022, PÁGINAS DE LA 125 A LA 174.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 23 DE OCTUBRE DE 2023, PÁGINA 10.]</small>
 
 ## TÍTULO SÉPTIMO. INGRESOS DERIVADOS DE FINANCIAMIENTO
 
@@ -708,6 +714,18 @@ P.O. 27 DE FEBRERO DE 2013.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 425.- SE REFORMA LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2023".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 ###### ARTÍCULO SEGUNDO.
 
