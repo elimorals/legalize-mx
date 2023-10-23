@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-privada-del-estado-de-aguascalientes-31499"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-26"
-last_updated: "2022-10-31"
+last_updated: "2023-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 26 de mayo de 2003.
 
@@ -43,33 +43,69 @@ LEY DE SEGURIDAD PRIVADA DEL ESTADO DE AGUASCALIENTES
 
 Las disposiciones de la presente Ley son de orden público e interés general y tienen por objeto regular a los prestadores de servicios de seguridad privada que operen en el Estado.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
-
-###### Artículo 2º.
-
-Corresponde al Ejecutivo del Estado la aplicación de esta Ley, a través de la Secretaría de Seguridad Pública.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 2°.
 
-Corresponde al Ejecutivo del Estado la aplicación de esta Ley, a través de la Secretaría General del Gobierno.
+Corresponde a la persona titular del Poder Ejecutivo del Estado de Aguascalientes la aplicación de la presente Ley a través de la Secretaría, teniendo los siguientes fines:
+
+I. La regulación y registro de los prestadores de servicios, así como del personal directivo, administrativo, operativo y técnico;
+
+II. La prevención de actividades ilícitas que pudieran cometerse y que se vinculen a la prestación de servicios de seguridad privada;
+
+III. El establecimiento de bases de coordinación con los tres órdenes de Gobierno y los prestadores de servicios de seguridad privada, para lograr en beneficio de la colectividad las mejores condiciones en materia de seguridad pública;
+
+IV. La estructuración de un banco de datos que permita la detección de factores criminógenos a través de la observación de conductas, que el prestador de servicios ponga en conocimiento de la Secretaría;
+
+V. El establecimiento de un sistema de capacitación, evaluación, certificación y verificación de los prestadores de servicios, de su personal directivo, administrativo, operativo y técnico, así como de la infraestructura relacionada con las actividades y servicios de seguridad privada, en el ámbito de su competencia y con base a la normatividad aplicable;
+
+VI. La consolidación de un régimen que privilegie la función de supervisión y vigilancia preventiva, a fin de otorgar certidumbre a quien recibe el servicio de seguridad privada y se proporcionen los mecanismos necesarios que permitan al personal de la Secretaría el desarrollo de sus funciones;
+
+VII. La aplicación de políticas, lineamientos y acciones, mediante la suscripción de convenios y demás instrumentos jurídicos con autoridades competentes de la Federación, de los Estados y de los Municipios, para la mejor organización, funcionamiento, regulación y control de los servicios de seguridad privada, así como la homologación de los criterios, requisitos y obligaciones en esta materia, respetando la distribución de competencias, a fin de garantizar que los servicios de seguridad privada se realicen en las mejores condiciones de eficiencia y certeza en beneficio del prestatario;
+
+Para efectos del presente artículo, las disposiciones de esta Ley se aplicarán atendiendo lo establecido por la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Ley Federal de Armas de Fuego y Explosivos, la Ley Federal de Seguridad Privada, la Constitución Política del Estado de Aguascalientes, la Ley del Sistema Estatal de Seguridad Pública de Aguascalientes, la Ley Orgánica de la Administración Pública Estatal de Aguascalientes, la Ley de Movilidad del Estado de Aguascalientes, así como las demás disposiciones jurídicas y normativas aplicables a la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 3°.
 
-Para los efectos de esta Ley se entenderá por:
+Para efectos de la presente Ley se entenderá por:
 
-I. Autorización: al permiso otorgado por la Secretaría a una persona física o moral, para prestar los servicios de seguridad privada en el Estado;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2023)</small>
 
-II. Ley: a la Ley de Seguridad Privada;
+I. Autorización: al permiso otorgado por la Secretaría a una persona física o moral, para prestar los servicios de seguridad privada en el Estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2023)</small>
 
-III. Secretaría: a la Secretaría de Seguridad Pública;
+II. Ley: a la Ley de Seguridad Privada del Estado de Aguascalientes;
 
-IV. Instituto: al Instituto Estatal de Seguridad Pública de Aguascalientes;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2023)</small>
 
-V. C 4: al Centro Estatal de Telecomunicaciones; y
+III. Secretaría: a la Secretaría de Seguridad Pública del Estado de Aguascalientes;
 
-VI. Prestadores del Servicio: a las personas físicas o morales que presten servicios de seguridad privada;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+IV. Universidad: a la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+V. C5i: al Centro de Comando, Control, Comunicación, Cómputo y Coordinación “Seguridad-Inteligencia-Tecnología”;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+VI. Prestadores del Servicio: a las personas físicas o morales que tengan autorización para prestar servicios de seguridad privada;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+VII. Personal Operativo: a las personas cuyo trabajo está directamente relacionado con la vigilancia, custodia, cuidado y protección de personas, de bienes muebles o valores, su traslado, investigaciones y localización de bienes o cualquiera de los referidos con alguna de las modalidades reguladas por esta Ley, excepto aquellas personas cuyas labores sean de dirección o supervisión técnica o administrativa;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+VIII. Registro Estatal: al Registro Estatal de los Prestadores de Servicios, Personal y Equipo de Seguridad Privada; y
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+IX. Registro Nacional: al Registro Nacional de Empresas, Personal y Equipo de Seguridad Privada.
 
 ###### Artículo 4°.
 
@@ -97,45 +133,65 @@ VIII. Las personas físicas o morales, que realicen actividades de video vigilan
 
 IX. En general, toda persona física o moral que realice actividades similares y auxiliares relacionadas con la Seguridad Pública.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+Los prestadores de servicios se regirán, además, de lo establecido en la presente Ley, por los principios previstos en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 5°.
 
-Corresponde a la Secretaría:
+Son atribuciones de la Secretaría:
 
-I. Autorizar el permiso y llevar el registro de los prestadores del servicio;
+I. Recibir las solicitudes y emitir constancia de autorización para prestar servicios de seguridad privada en el Estado;
 
-II. Supervisar que los prestadores del servicio cumplan con las disposiciones de esta Ley y demás ordenamientos jurídicos aplicables a los servicios de seguridad privada prestados en el Estado;
+II. Emitir la constancia de revalidación o modificación, así como resolver sobre la suspensión o revocación de la autorización para prestar los servicios de seguridad privada en el Estado, de conformidad con los requisitos que al efecto se establezcan en la presente Ley;
 
-III. Comprobar que el personal operativo esté debidamente capacitado;
+III. Substanciar los procedimientos y aplicar las sanciones por la violación de las disposiciones de esta Ley y demás ordenamientos jurídicos aplicables;
 
-IV. Atender las quejas y denuncias por presuntas infracciones a esta Ley, a través de las unidades administrativas que al efecto se creen;
+IV. Llevar el Registro Estatal, así como su actualización, a través del C5i y en términos de la presente Ley;
 
-V. Substanciar los procedimientos y aplicar las sanciones por la violación a las disposiciones de esta Ley y demás ordenamientos jurídicos aplicables;
+V. Supervisar y verificar que los prestadores del servicio y personal operativo cumplan con las disposiciones de esta Ley y demás ordenamientos legales aplicables;
 
-VI. Denunciar al Ministerio Público los hechos presuntamente delictivos de que tenga conocimiento en el ejercicio de las atribuciones que le confiere esta Ley;
+VI. Implementar acciones que permitan instrumentar los planes y programas de capacitación y adiestramiento que autorice o imparta la Secretaría para los prestadores de servicio y personal operativo, en coordinación con la Universidad y demás personal autorizado para tal efecto;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2019)</small>
+VII. Establecer, operar y mantener actualizada la información que alimenta al Registro Nacional, en los términos establecidos por la normatividad aplicable;
 
-VII. Ordenar y practicar visitas de inspección a los prestadores de servicios;
+VIII. Comprobar que el personal operativo se encuentre debidamente capacitado y certificado, concertar con el prestador de servicios la instrumentación y modificación de sus planes y programas de capacitación y adiestramiento, en coordinación con las autoridades y demás personal autorizado para tal efecto;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2019)</small>
+IX. Ejecutar las sanciones que procedan, por el incumplimiento de las disposiciones previstas en esta Ley, en el ámbito de su competencia;
 
-VIII. Establecer un sistema de evaluación, certificación y verificación, del prestador de servicios, personal operativo, así como de la infraestructura relacionada con las actividades y servicios de seguridad privada, que lleven a cabo conforme a la presente Ley; y
+X. Realizar las consultas de antecedentes policiales, respecto del personal directivo, administrativo y operativo de los prestadores de servicio;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE JULIO DE 2019)</small>
+XI. Llevar el control de las altas y bajas de vehículos, radiocomunicación, aditamentos de seguridad, armamento, comando canino y demás equipo utilizado para la prestación del servicio;
 
-IX. Las demás que le confiere esta Ley y otros ordenamientos jurídicos aplicables.
+XII. Atender y dar seguimiento ante las autoridades competentes, a las quejas que interponga la ciudadanía en general, en contra del prestador de servicios;
+
+XIII. Promover, ante la autoridad competente, el inicio de las carpetas de investigación contra personas físicas o morales que se encuentren prestando servicios de seguridad privada, sin la autorización correspondiente;
+
+XIV. Inscribir el cuestionario de identificación fotográfico y dactiloscópico del personal directivo, administrativo y operativo;
+
+XV. Establecer un sistema de evaluación, certificación y verificación del prestador de servicios, personal operativo, así como de la infraestructura relacionada con las actividades y servicios de seguridad privada, que se lleven a cabo conforme a la presente Ley; y
+
+XVI. Las demás que le confiere la presente Ley y otros ordenamientos jurídicos y normativos aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 6°.
 
-Corresponde al Instituto el ejercicio de las siguientes atribuciones:
+Corresponde a la Universidad el ejercicio de las siguientes atribuciones:
 
 I. Impartir cursos de formación, actualización y especialización del personal operativo;
 
-II. Expedir al personal operativo la constancia de acreditación de los cursos de instrucción, capacitación o adiestramiento, en los casos en que estos sean impartidos por el Instituto;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+II. Expedir al personal operativo la constancia de acreditación de los cursos de instrucción, capacitación o adiestramiento, en los casos en que estos sean impartidos por la Universidad;
 
 III. Coordinarse con la Secretaría en la elaboración de los planes y programas de capacitación y adiestramiento y registrarlos en la Secretaría del Trabajo y Previsión Social;
 
-IV. Gestionar ante la Secretaría del Trabajo y Previsión Social, su autorización y registro como institución encargada de la capacitación y adiestramiento del personal operativo, así como el registro y autorización del personal docente del propio Instituto;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+IV. Gestionar ante la Secretaría del Trabajo y Previsión Social, su autorización y registro como institución encargada de la capacitación y adiestramiento del personal operativo, así como el registro y autorización del personal docente de la propia Universidad;
 
 V. Certificar los planes y programas de los instructores o capacitadores particulares en materia de seguridad privada;
 
@@ -153,9 +209,11 @@ XI. Concertar con los prestadores del servicio acuerdos para la instrumentación
 
 XII. Las demás que le confieran las disposiciones legales y reglamentarias aplicables y las que sean necesarias para cumplir con sus facultades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 7°.
 
-Corresponde al C4 el ejercicio de las siguientes atribuciones:
+Corresponde al C5i el ejercicio de las siguientes atribuciones:
 
 I. Mantener actualizado el padrón del personal operativo que realice funciones de seguridad privada en el Estado;
 
@@ -163,7 +221,9 @@ II. Mantener actualizado el registro del armamento, vehículos y equipo asignado
 
 III. Expedir, a costa del prestador del servicio, la cédula de registro al personal operativo, la cual será de uso obligatorio; y
 
-IV. Las demás que le confieran las disposiciones legales y reglamentarias aplicables y las que sean necesarias para cumplir con sus facultades.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+IV. Las demás necesarias para llevar el Registro, así como las que le confieran las disposiciones legales y reglamentarias aplicables para tal efecto.
 
 ### CAPITULO SEGUNDO. De la Autorización y Revalidación
 
@@ -173,25 +233,33 @@ Se prohibe prestar servicios de seguridad privada en el Estado, si previamente n
 
 I. Ser de nacionalidad mexicana, en el caso de personas morales demostrar que se encuentran constituidos conforme a las leyes mexicanas;
 
-II. Solicitar por escrito la autorización para una o más de las siguientes modalidades de servicio:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE OCTUBRE DE 2023)</small>
 
-a). Seguridad, protección y custodia de personas;
+II. Presentar solicitud por escrito ante la Secretaría, señalando la o las modalidades en que pretendan prestar el servicio, siendo las siguientes:
 
-b). Seguridad, protección y vigilancia de lugares y establecimientos;
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2023)</small>
 
-c). Seguridad y custodia de bienes o valores, incluyendo su traslado;
+a). Seguridad, protección y custodia de personas: consiste en la protección, custodia, salvaguarda, defensa de la vida y de la integridad corporal de personas;
 
-d). Sistema de alarmas;
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2023)</small>
 
-e). Investigación privada;
+b). Seguridad, protección y vigilancia de lugares y establecimientos: consiste en la prestación permanente o eventual de servicios de custodia, vigilancia, cuidado y protección de lugares o establecimientos públicos o privados, llevando el control de accesos y salidas de personas o de bienes;
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2023)</small>
 
-f). Seguridad, protección y vigilancia interna;
+c). Seguridad y custodia de bienes o valores, incluyendo su traslado: consiste en la prestación de servicios de custodia, vigilancia, cuidado y protección de bienes muebles o valores, así como de su traslado;
 
-> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2023)</small>
 
-g). Video vigilancia.
+d). Sistemas de alarmas, video vigilancia y monitoreo electrónico: consistente en la instalación, reparación, monitoreo y control de sistemas de alarmas, video vigilancia, vigilancia satelital en vehículos, casas, oficinas, empresas y en todo tipo de lugares que se quiera proteger o vigilar, así como recibir y administrar las señales enviadas a la central de monitoreo por los sistemas, tanto a las autoridades correspondientes como a los usuarios de los sistemas y equipos, así como a los prestatarios;
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+e). Investigación privada: consistente en la realización de indagaciones que sean necesarias para la obtención y aportación de información, localización de personas y sus actividades y aportando lícitamente pruebas sobre conductas o hechos privados, sin vulnerar derechos de personas o invadir la competencia de autoridades.
+
+f). (DEROGADO, P.O. 23 DE OCTUBRE DE 2023)
+
+g). (DEROGADO, P.O. 23 DE OCTUBRE DE 2023)
 
 El diseño, fabricación, reparación, instalación, mantenimiento, supervisión o comercialización de equipos, dispositivos, aparatos, servicios, sistemas o procedimientos técnicos especializados aplicables en alguna de las anteriores modalidades serán prestados con las autorizaciones otorgadas por las autoridades competentes en los términos de los ordenamientos que resulten aplicables;
 
@@ -199,11 +267,17 @@ El diseño, fabricación, reparación, instalación, mantenimiento, supervisión
 
 III. Anexar a la Solicitud:
 
-a). Copia Certificada del acta de nacimiento, o acta constitutiva así como de las modificaciones a sus estatutos, si es persona moral;
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2023)</small>
 
-b). Copia Certificada de la acreditación del representante legal y de los socios en el caso de las personas morales;
+a). Copia Certificada del acta de nacimiento, o acta constitutiva, así como de las últimas modificaciones, si es persona moral;
 
-c). Copia Certificada de la Cédula del Registro Federal de Contribuyentes;
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+b). Copia Certificada de la acreditación del representante legal y de las personas que integran la sociedad;
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+c). Impresión de la Cédula del Registro Federal de Contribuyentes;
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2019)</small>
 
@@ -221,7 +295,9 @@ g). Copia certificada del Reglamento y manual o instructivo operativo aplicable 
 
 h). Formato de la credencial que expedirá el prestador de servicios al personal operativo;
 
-i). Relación detallada de los socios, del personal directivo, administrativo y operativo, conteniendo nombre completo, sexo, fecha y lugar de nacimiento, Registro Federal de Contribuyentes, domicilio desglosado, número de la cartilla del Servicio Nacional Militar, Clave de Elector, clave de la Cédula Única de Registro de Población y grado de estudios;
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+i). Relación detallada de los socios, del personal directivo, administrativo y operativo, conteniendo nombre completo, sexo, fecha y lugar de nacimiento, Registro Federal de Contribuyentes, domicilio desglosado, número de la cartilla del Servicio Nacional Militar, Clave de Elector, Clave Única de Registro de Población y grado de estudios; dichos datos contenidos deberán de coincidir con la información reportada en la documentación requerida;
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2019)</small>
 
@@ -249,9 +325,9 @@ n). Documentos idóneos que acrediten el domicilio de la matriz y en su caso de 
 
 o). Constancia expedida por la Institución competente o los capacitadores internos o externos de la empresa de seguridad privada, que acredite la capacitación y adiestramiento del personal operativo;
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2023)</small>
 
-p). En el caso de prestar servicios con autorización de la Secretaría de Seguridad Pública Federal, deberán presentar dicha autorización;
+p). En el caso de prestar servicios con autorización de la Secretaría de Seguridad y Protección Ciudadana del Gobierno Federal, deberán presentar dicha autorización;
 
 > <small>(ADICIONADO, P.O. 8 DE JULIO DE 2019)</small>
 
@@ -267,9 +343,23 @@ s). Tratándose de prestadores de servicios que operen en la modalidad prevista 
 
 IV. La solicitud debe de contener cuando menos el órgano administrativo al que va dirigido, nombre, denominación o razón social de quien o quienes promuevan, en su caso, de su representante legal, nacionalidad, señalar domicilio en la ciudad de Aguascalientes para oír y recibir notificaciones, así como el nombre de la persona o personas autorizadas para recibirlas, domicilio principal y en su caso, el domicilio de las sucursales, la petición que se formula indicando la modalidad o modalidades, lo hechos o razones que dan motivo a la petición, la protesta de no haberle sido cancelada ni al interesado, ni a los socios en su caso, una autorización anterior para prestar el servicio de seguridad privada por cualquiera de las autoridades estatales o federales, lugar y fecha, firma del interesado o de su representante legal o en su caso, la huella digital.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+Si la persona peticionaria de la autorización no acompaña a su solicitud los requisitos completos señalados en la presente Ley, la Secretaría dentro de los diez días hábiles siguientes a la presentación de la misma, prevendrá al interesado para que en un plazo improrrogable de diez días hábiles, subsane las omisiones o deficiencias que en su caso presente la solicitud; transcurrido dicho plazo sin que el interesado haya subsanado las omisiones o deficiencias de la solicitud, ésta se desechará de plano.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+Una vez cubiertos todos los requisitos, la Secretaría emitirá el diagnóstico correspondiente, señalando si es procedente otorgar la autorización solicitada.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+La persona solicitante contará con un término de treinta días hábiles para exhibir ante la Secretaría los originales correspondientes del pago de derechos respecto a la autorización otorgada para la prestación de servicios de seguridad privada, que contenga la Ley de Ingresos del Estado del ejercicio fiscal correspondiente; en caso de no presentar oportunamente el pago de derechos en el término establecido, la Secretaría hará constar esa circunstancia y ordenará archivar el expediente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 9°.
 
-Ningún elemento en activo de los Cuerpos de Seguridad Pública, ya sean de la Federación, Estados o Municipios o que haya sido destituido o cesado de dichos cuerpos, podrá ser socio o propietario por sí o por interpósita persona del prestador de servicios de seguridad privada, ni desempeñarse como personal directivo, administrativo u operativo de los prestadores de servicio.
+Ninguna persona que funja como elemento operativo en activo de los Cuerpos de Seguridad Pública, ya sean de la Federación, Estados o Municipios o que haya sido destituida o cesada de dichos cuerpos, podrá ser socia o propietaria por sí o por interpósita persona del prestador de servicios de seguridad privada, ni desempeñarse como personal directivo, administrativo u operativo de los prestadores de servicio.
 
 Las personas físicas o morales que hubieren sido prestadores de servicios con autorización de la Federación o de algún Estado y que ésta les haya sido cancelada, así como los trabajadores operativos de los prestadores del servicio que se les haya rescindido su relación laboral por alguna causa grave a consideración de la Secretaría, no podrán ser socio o propietario por sí o por interpósita persona como prestador de servicios de seguridad privada, ni desempeñarse como personal directivo, administrativo u operativo de los prestadores de servicio.
 
@@ -277,13 +367,15 @@ Las personas físicas o morales que hubieren sido prestadores de servicios con a
 
 En caso de resultar procedente la expedición de la autorización, la Secretaría contará con treinta días hábiles para comunicarlo al interesado y previo el pago de los derechos correspondientes, que señalan las. leyes fiscales y financieras del Estado, otorgarla. Si la solicitud presentada no cumple con los requisitos señalados en el artículo anterior, dentro del mismo plazo, la Secretaría prevendrá al solicitante, señalando un plazo improrrogable de cinco días hábiles, para subsanar las deficiencias, en el supuesto de que en el término señalado no se subsane la irregularidad, la Secretaría resolverá que se tiene por no presentada dicha solicitud. Si transcurrido el plazo de treinta días hábiles, no existiere respuesta de la Secretaría, se entenderá negada la autorización.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 11.
 
-La autorización que se otorgue es intransferible y especificará los datos generales del titular, tales como el nombre o razón social, en su caso, el nombre del representante legal y el nombre de los socios, el domicilio desglosado, la modalidad que se autoriza, los límites o condiciones de operación, el número de registro, la fecha de expedición y la fecha de expiración.
+La autorización que se otorgue mediante resolución emitida por la Secretaría, será personal e intransferible y contendrá los datos, tales como el nombre o razón social, en su caso, el nombre del representante legal y el nombre de los socios, el número de autorización, modalidades que se autorizan y condiciones a que se sujeta la prestación de los servicios de seguridad privada.
 
-La vigencia de la autorización será de un año, y podrá ser revalidada por el mismo tiempo en los términos establecidos en esta Ley, la cual habrá de hacerse del conocimiento de los Ayuntamientos del Estado.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2023)</small>
+
+La vigencia será de un año a partir de la fecha de autorización y para ello se expedirá la respectiva constancia, misma que puede ser revalidada por el mismo tiempo en los términos establecidos en esta Ley, la cual habrá de hacerse del conocimiento de los Ayuntamientos del Estado.
 
 ###### Artículo 12.
 
@@ -802,3 +894,19 @@ P.O. 31 DE OCTUBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 424.- SE REFORMAN LA LEY DE SEGURIDAD PRIVADA DEL ESTADO DE AGUASCALIENTES; Y, EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Seguridad Pública del Estado y la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes, deberán llevar a cabo las acciones jurídicas y administrativas necesarias para el cumplimiento del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Con el inicio de la vigencia del presente Decreto, quedan sin efectos todas aquellas disposiciones que se opongan al mismo.
