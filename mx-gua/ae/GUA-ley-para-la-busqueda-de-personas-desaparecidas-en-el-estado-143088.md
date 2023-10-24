@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-busqueda-de-personas-desaparecidas-en-el-estado-143
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-03"
-last_updated: "2020-06-03"
+last_updated: "2023-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA BÚSQUEDA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
 
 Ley publicada en la segunda parte del Número 111 del Periódico Oficial del Estado de Guanajuato, el miércoles 3 de junio de 2020.
 
@@ -171,13 +171,11 @@ XIV. Verdad: el derecho de conocer con certeza lo sucedido y recibir informació
 
 Además de los antes mencionados, también serán principios rectores para la búsqueda de personas desaparecidas los aprobados por el Comité Contra la Desaparición Forzada, de la Organización de las Naciones Unidas.
 
-(NOTA: EL 18 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 184/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE JUNIO DE 2020, FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 182, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-Supletoriedad
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 5.
 
-En todo lo no previsto en la presente Ley, son aplicables supletoriamente las disposiciones establecidas en LA LEY GENERAL DE VÍCTIMAS, LOS TRATADOS INTERNACIONALES DE LOS QUE EL ESTADO MEXICANO SEA PARTE, EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, el Código Penal del Estado de Guanajuato, el Código Civil para el Estado de Guanajuato y el Código de Procedimientos Civiles para el Estado de Guanajuato.
+En todo lo no previsto en la presente Ley, son aplicables supletoriamente las disposiciones establecidas en el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
 Uso de los datos personales
 
@@ -407,9 +405,9 @@ Para ser titular se requiere:
 
 I. Ser mexicano en pleno uso y goce de sus derechos políticos y civiles en los términos de la Constitución Política de los Estados Unidos Mexicanos;
 
-(NOTA: EL 18 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 184/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE MAYO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
 
-II. NO HABER SIDO CONDENADO POR LA COMISIÓN DE UN DELITO DOLOSO O INHABILITADO COMO SERVIDOR PÚBLICO;
+II. No haber sido condenado por la comisión de delitos de privación de la libertad, secuestro, trata de personas y acecho;
 
 III. Contar con título profesional;
 
@@ -1870,3 +1868,11 @@ DIEGO SINHUE RODRÍGUEZ VALLEJO
 EL SECRETARIO DE GOBIERNO
 
 LUIS ERNESTO AYALA TORRES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 222. SE REFORMA LA FRACCIÓN II Y SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 29 DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL ESTADO Y MUNICIPIOS DE GUANAJUATO; SE REFORMAN LAS FRACCIONES V DE LOS ARTÍCULOS 8, 11, 13, 15, 17 Y LA FRACCIÓN III DEL ARTÍCULO 66 DE LA LEY DE JUSTICIA CÍVICA DEL ESTADO DE GUANAJUATO; SE DEROGAN LAS FRACCIONES VIII DEL ARTÍCULO 11; VII DEL ARTÍCULO 21 Y LA V DEL ARTÍCULO 23 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO; SE REFORMAN EL ARTÍCULO 5 Y LA FRACCIÓN II DEL ARTÍCULO 26 DE LA LEY PARA LA BÚSQUEDA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE GUANAJUATO; SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 23 DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE GUANAJUATO; Y SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 89 Y LA FRACCIÓN III DEL ARTÍCULO 169 Y, SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 165, DE LA LEY DE VÍCTIMAS DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
