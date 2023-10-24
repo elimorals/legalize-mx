@@ -4,7 +4,7 @@ identifier: "COA-ley-de-condecoraciones-y-reconocimientos-del-congreso-del-13557
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-09"
-last_updated: "2022-04-08"
+last_updated: "2023-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135575&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE CONDECORACIONES Y RECONOCIMIENTOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 9 de abril de 2019.
 
@@ -55,9 +55,11 @@ Se entiende por condecoración: al galardón que puede materializarse a través 
 
 Se entiende por reconocimiento: al galardón que puede materializarse en un diploma o placa grabada, en razón de acciones específicas que por su importancia y trascendencia sean motivo de reconocimiento por parte de la Legislatura y que pueden ser entregadas en cualquier momento del ejercicio constitucional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 4.
 
-Los acreedores a las condecoraciones y reconocimientos previstos por esta Ley, serán personas físicas nacidas o avecindadas en el Estado de Coahuila de Zaragoza o bien personas morales, que tengan domicilio en la entidad o que desarrollen sus actividades en la misma.
+Las personas acreedoras a las condecoraciones y reconocimientos previstos por esta Ley, serán personas físicas nacidas o avecindadas en el Estado de Coahuila de Zaragoza o bien personas morales, que tengan domicilio en la entidad o que desarrollen sus actividades en la misma. Tratándose de personas físicas, podrán ser reconocidas en vida o post mortem.
 
 No podrán ser acreedoras a estas condecoraciones las personas físicas que ostenten la titularidad de los poderes ejecutivo, legislativo o judicial, secretarios de ramo o titulares de los órganos constitucionales autónomos estatales o federales, miembros de los ayuntamientos, personas con cargos de dirección en los partidos políticos así como directores, coordinadores, presidentes o similares de instituciones o centros que reciban y operen con financiamiento público, a excepción de las organizaciones de la sociedad civil.
 
@@ -189,29 +191,31 @@ Este reconocimiento podrá concederse en vida o post-mortem.
 
 De las Postulaciones.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 15.
 
-Cada Comisión de acuerdo con su materia, será la encargada del conocimiento, trámite y dictamen que proponga a la persona ante la Legislatura para el otorgamiento de las condecoraciones establecidas en la presente Ley. En el caso de que dos o más comisiones se consideren competentes para conocer de alguna de las condecoraciones podrán trabajar en Comisiones Unidas.
+La Junta de Gobierno será la encargada de expedir la convocatoria en la que se incluyan las condiciones y términos para el otorgamiento de las condecoraciones y reconocimientos.
 
-La Oficialía Mayor, será el órgano auxiliar para que las comisiones cumplan con sus funciones, y será la responsable de llevar los registros de las personas condecoradas con las anotaciones correspondientes y el archivo respectivo.
+La Oficialía Mayor será el órgano responsable de recibir y registrar las candidaturas que se presenten, turnándolos a las comisiones correspondientes para su conocimiento, trámite y dictamen. También será responsable de llevar los registros de las personas condecoradas con las anotaciones correspondientes y el archivo respectivo.
+
+Cada Comisión de acuerdo con su materia, será la encargada de conocer y analizar los expedientes, y elaborar el dictamen que proponga a la persona ante el Pleno para el otorgamiento de las condecoraciones establecidas en la presente Ley. En el caso de que dos o más comisiones se consideren competentes para conocer de alguna de las condecoraciones podrán trabajar en Comisiones Unidas.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 16.
 
-Para el cumplimiento de sus funciones, la Comisión tendrá las atribuciones siguientes:
+Para el cumplimiento de sus funciones, las comisiones tendrán las atribuciones siguientes:
 
-I. Formular y publicar las convocatorias en las que se fijarán las condiciones y términos para el otorgamiento de las condecoraciones y reconocimientos.
+I. Dictaminar las candidaturas para premiación, formulando las proposiciones que a su juicio deban someterse al Pleno;
 
-II. Recibir y registrar candidaturas;
+II. Escuchar la opinión y recibir la asesoría para el cumplimiento de sus fines;
 
-III. Dictaminar las candidaturas para premiación, formulando las proposiciones que a su juicio deban someterse al Pleno;
+III. Remitir a quien ocupe la Presidencia de la Mesa Directiva, los dictámenes de propuestas para el otorgamiento de la condecoración o reconocimiento, para que se integren al proyecto del orden del día de la sesión en que habrán de discutirse;
 
-IV. Escuchar la opinión y recibir la asesoría para el cumplimiento de sus fines;
+IV. Resolver cualquier punto no previsto en las convocatorias que expida en los términos de esta Ley; y
 
-V. Remitir a quien ocupe la Presidencia de la Mesa Directiva, los dictámenes de propuestas para el otorgamiento de la condecoración o reconocimiento, para que se integren al proyecto del orden del día de la sesión en que habrán de discutirse;
-
-VI. Resolver cualquier punto no previsto en las convocatorias que expida en los términos de esta Ley; y
-
-VII. Las demás que resulten necesarias para el otorgamiento de las condecoraciones o reconocimientos que corresponden de acuerdo con esta Ley y otras disposiciones aplicables.
+V. Las demás que resulten necesarias para el otorgamiento de las condecoraciones o reconocimientos que corresponden de acuerdo con esta Ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 17.
 
@@ -219,9 +223,11 @@ La Comisión correspondiente, podrá auxiliarse, para el análisis de las propue
 
 ### CAPÍTULO IV. Del Procedimiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 18.
 
-El Congreso del Estado, por conducto de la Comisión correspondiente, emitirá dentro del primer periodo ordinario de sesiones del año de la premiación, la convocatoria para proponer candidaturas, invitando a las organizaciones civiles, los colegios de profesionistas, las universidades, los medios de comunicación y a la sociedad en general, en los siguientes términos:
+El Congreso del Estado, por conducto de la Junta de Gobierno, emitirá en el último año de la legislatura la convocatoria para proponer candidaturas, invitando a las organizaciones civiles, los colegios de profesionistas, las universidades, los medios de comunicación y a la sociedad en general, en los siguientes términos:
 
 I. Deberán registrar ante la Oficialía Mayor del Congreso la propuesta de candidatura, a obtener alguna de las condecoraciones o reconocimientos establecidos en esta Ley;
 
@@ -237,9 +243,11 @@ V. La Comisión correspondiente emitirá el dictamen respectivo, que deberá de 
 
 Los expedientes de las candidaturas se integrarán por la Oficialía Mayor, quien llevará un registro de los mismos.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 20.
 
-Las sesiones de las comisiones en las que se delibere sobre a quien deba otorgarse las condecoraciones o reconocimientos serán privadas. La sesión del Pleno del Congreso del Estado en las que se discutan y voten los dictámenes de la Comisión se celebrarán en el segundo periodo ordinario de sesiones del año de la premiación.
+Las sesiones de las comisiones en las que se delibere sobre a quién deba otorgarse las condecoraciones o reconocimientos serán privadas. La sesión del Pleno del Congreso del Estado en las que se discutan y voten los dictámenes de la Comisión se celebrarán en el mismo año que se expida la convocatoria.
 
 ###### ARTÍCULO 21.
 
@@ -249,9 +257,11 @@ Una vez aprobados los dictámenes por el Pleno, los acuerdos respectivos serán 
 
 El Congreso del Estado, por sí o a propuesta de la Comisión correspondiente, podrá declarar desierta una o varias de las categorías.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 23.
 
-Los ganadores de las condecoraciones sólo podrán obtenerla una vez en cada categoría y no podrán participar en más de una categoría por convocatoria.
+Las personas ganadoras de las condecoraciones sólo podrán obtenerla una vez en cada categoría y no podrán participar en más de una categoría por convocatoria.
 
 ###### ARTÍCULO 24.
 
@@ -306,5 +316,13 @@ P.O. 8 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 213.- SE REFORMA LA FRACCIÓN IX Y SE ADICIONAN LA FRACCIÓN X AL ARTÍCULO 5, LA SECCIÓN IX "CONDECORACIÓN AL MÉRITO A LA SALUD" CON EL ARTÍCULO 14 BIS, AL CAPÍTULO II "DE LAS CONDECORACIONES Y RECONOCIMIENTOS", DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 522.- SE REFORMAN, LA DENOMINACIÓN DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS DEL ESTADO DE COAHUILA, EL PRIMER PÁRRAFO DEL ARTÍCULO 4, LOS ARTÍCULOS 15 Y 16, EL PRIMER PÁRRAFO DEL ARTÍCULO 18, LOS ARTÍCULOS 20 Y 23 DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
