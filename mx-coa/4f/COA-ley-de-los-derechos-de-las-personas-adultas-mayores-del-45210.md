@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2021-02-12"
+last_updated: "2023-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -795,9 +795,13 @@ XII. Promover la observancia y el cumplimiento de las disposiciones contenidas e
 
 XIII. Promover los programas y acciones públicas que garanticen la alimentación y nutrición adecuada de las personas adultas mayores que se encuentren en situación de vulnerabilidad.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE OCTUBRE DE 2023)</small>
+
+XIV. Procurar el mayor acceso posible a nuevas habilidades tecnológicas digitales para las personas adultas mayores.
+
 > <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2016)</small>
 
-XIV. Las demás que resulten de la aplicación de la presente Ley y de los demás ordenamientos legales y reglamentarios aplicables en la materia.
+XV. Las demás que resulten de la aplicación de la presente Ley y de los demás ordenamientos legales y reglamentarios aplicables en la materia.
 
 ###### Artículo 41.
 
@@ -1788,3 +1792,9 @@ P.O. 12 DE FEBRERO DE 2021.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan, las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 524.- SE REFORMA LA FRACCIÓN XIV, RECORRIÉNDOSE LA ACTUAL A UNA NUEVA FRACCIÓN XV DEL ARTÍCULO 40, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
