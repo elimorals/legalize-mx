@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "2021-07-19"
+last_updated: "2023-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -113,7 +113,9 @@ XIII.- La salud ocupacional, en los términos del Artículo 123 de la Constituci
 
 XIV.- La prevención y el control de enfermedades transmisibles y accidentes;
 
-XV.- La prevención y el control de las enfermedades no transmisibles;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+
+XV.- La prevención y el control de las enfermedades no transmisibles y sindemias;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
@@ -527,7 +529,9 @@ Para los efectos del derecho a la protección de la salud, se consideran servici
 
 I.- La educación para la salud, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias del ambiente;
 
-II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+
+II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes, sindemias y de los accidentes;
 
 III.- La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias;
 
@@ -1857,15 +1861,19 @@ Las autoridades sanitarias determinarán los casos en que se deba proceder a la 
 
 ### CAPITULO III. Enfermedades no Transmisibles
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2023)</small>
+
 ###### ARTICULO 127.
 
-Las autoridades sanitarias del Estado, realizarán actividades de prevención y control de las enfermedades no transmisibles que las propias autoridades sanitarias determinen.
+Las autoridades sanitarias del Estado, realizarán actividades de prevención y control de las enfermedades no transmisibles y sindemias que las propias autoridades sanitarias determinen.
 
 ###### ARTICULO 128.
 
 El ejercicio de la acción de prevención y control de las enfermedades no transmisibles comprenderá una o más de las siguientes medidas, según el caso de que se trate:
 
-I.- La detección oportuna de las enfermedades no transmisibles y la evaluación del riesgo de contraerlas;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+
+I.- La detección oportuna de las enfermedades no transmisibles, sindemias y la evaluación del riesgo de contraerlas;
 
 II.- La divulgación de medidas higiénicas para el control de los padecimientos;
 
@@ -1875,9 +1883,11 @@ IV.- La realización de estudios epidemiológicos; y
 
 V.- Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2023)</small>
+
 ###### ARTICULO 129.
 
-Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
+Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles y sindemias, en los términos de los reglamentos que al efecto se expidan.
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
@@ -3712,3 +3722,9 @@ P.O. 19 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 330 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 34 QUÁTER A LA LEY DE SALUD DEL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor a los ciento ochenta días posteriores al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 24 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 226. SE REFORMAN LOS ARTÍCULOS 3 FRACCIÓN XV, 28 FRACCIÓN II, 127, 128 FRACCIÓN I Y 129 DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
