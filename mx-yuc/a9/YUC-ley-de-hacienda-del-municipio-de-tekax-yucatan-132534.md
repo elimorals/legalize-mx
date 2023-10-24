@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-tekax-yucatan-132534"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-29"
-last_updated: "2023-01-18"
+last_updated: "2023-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE TEKAX DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 18 DE ENERO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE OCTUBRE DE 2023.
 
 Ley publicada en el Suplemento II del Diario Oficial del Estado de Yucatán, el sábado 29 de diciembre de 2018.
 
@@ -1377,7 +1375,7 @@ PERIODO CARGO %
 
 #### Sección tercera. Uso y aprovechamiento de panteones públicos
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, D.O. 24 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 100.
 
@@ -1385,91 +1383,127 @@ Cuotas
 
 Por el uso y aprovechamiento de los panteones del dominio público municipal se pagarán derechos, conforme a las siguientes cuotas:
 
-PANTEÓN GENERAL
+I. Panteón general
 
-I. Por el uso temporal a tres años de bóvedas:
+a) Por el uso temporal a tres años de bóvedas:
 
-a) En las secciones A, B, C, J y K: 11 UMA
+1. En las secciones A, B, C, J y K: 11 UMA
 
-b) En las secciones D y L: 13 UMA
+2. En las secciones D y L: 13 UMA
 
-c) En las secciones E, F, G, M, N y O: 18 UMA
+3. En las secciones E, F, G, M, N y O: 18 UMA
 
-d) En las secciones H, I, P, Q, R y S: 22 UMA
+4. En las secciones H, I, P, Q, R y S: 22 UMA
 
-e) En sección A Premium 27 UMA
+5. En sección A premium 27 UMA
 
-II. Por el uso a perpetuidad de bóvedas:
+b) Por el uso a perpetuidad de bóvedas:
 
-a) En las secciones A, B, C, J y K: 45 UMA
+1. En las secciones A, B, C, J y K: 43 UMA
 
-b) En las secciones D y L: 55 UMA
+2. En las secciones D y L: 52 UMA
 
-c) En las secciones E, F, G, M, N y O: 75 UMA
+3. En las secciones E, F, G, M, N y O: 72 UMA
 
-d) En las secciones H, I, P, Q, R y S: 90 UMA
+4. En las secciones H, I, P, Q, R y S: 87 UMA
 
-e) En sección A Premiun 100 UMA
+5. En sección A premium 100 UMA
 
-III. Por el uso a perpetuidad de osarios: 40 UMA
+c) Por el uso a perpetuidad de osarios: 40 UMA
 
-PANTEON CON JARDÍN
+II. Extensión panteón general
 
-IV. Por el uso temporal a tres años de bóvedas:
+a) Bóvedas a perpetuidad:
 
-a) En las secciones 12. 13, 14 11 UMA
+1. Zona a $ 9,800.00
 
-b) En las secciones 10, 11 13 UMA
+2. Zona b $ 8,000.00
 
-c) En las secciones 7, 8, 9: 18 UMA
+3. Zona c $ 7,200.00
 
-d) En las secciones 2, 3, 4, 5, 6 22 UMA
+4. Zona d $ 6,500.00
 
-e) En sección 1 27 UMA
+5. Zona e $ 5,200.00
 
-V. Por el uso a perpetuidad de bóvedas:
+6. Zona f $ 7,200.00
 
-a) En las secciones 12. 13, 14 45 UMA
+b) Bóvedas en fosa común: Préstamo o renta a 2 años
 
-b) En las secciones 10, 11 55 UMA
+1. Zona g $ 2,200.00
 
-c) En las secciones 7, 8, 9: 75 UMA
+c) Nichos a perpetuidad:
 
-d) En las secciones 2, 3, 4, 5, 6 90 UMA
+1. Zona a $ 4,900.00
 
-e) En sección 1 100 UMA
+2. Zona b $ 4,000.00
 
-VI. Por el uso a perpetuidad de osarios: 40 UMA
+3. Zona c $ 3,600.00
 
-EXTENSIÓN DEL PANTEÓN CON JARDÍN
+4. Zona d $ 3,250.00
 
-VII. Por el uso temporal a tres años de bóvedas:
+5. Zona e $ 2,600.00
 
-a) En las secciones XIII, XIV Y XV 11 UMA
+6. Zona f $ 3,600.00
 
-b) En las secciones IX, X, XI, XII. 13 UMA
+d) Nichos en fosa común: préstamo o renta a 2 años
 
-c) En las secciones V, VI, VII Y VIII 18 UMA
+1. Zona g $ 2,200.00
 
-d) En las secciones II, III, IV 22 UMA
+III. Panteón jardín
 
-e) En sección I 27 UMA
+a) Por el uso temporal a tres años de bóvedas:
 
-VIII. Por el uso temporal mayor a tres años de bóvedas:
+1. En las secciones 12, 13, 14 11 UMA
 
-a) En las secciones XIII, XIV Y XV 45 UMA
+2. En las secciones 10 y 11 13 UMA
 
-b) En las secciones IX, X, XI, XII. 55 UMA
+3. En las secciones 7, 8, 9 18 UMA
 
-c) En las secciones V, VI, VII Y VIII 75 UMA
+4. En las secciones 2, 3, 4, 5, 6 22 UMA
 
-d) En las secciones II, III, IV 90 UMA
+5. En sección 1 27 UMA
 
-e) En sección I 100 UMA
+b) Por el uso a perpetuidad de bóvedas:
 
-> <small>(F. DE E., D.O. 18 DE ENERO DE 2023)</small>
+1. En las secciones 12. 13, 14 45 UMA
 
-IX. Por el uso a perpetuidad de osarios: 40 UMA
+2. En las secciones 10, 11, 55 UMA
+
+3. En las secciones 7, 8, 9: 75 UMA
+
+4. En las secciones 2, 3, 4, 5, 6 90 UMA
+
+5. En sección 1 100 UMA
+
+c) Por el uso a perpetuidad de osarios: 40 UMA
+
+IV. Extensión del panteón jardín
+
+a) Por el uso temporal a tres años de bóvedas:
+
+1. En las secciones XIII, XIV Y XV 11 UMA
+
+2. En las secciones IX, X, XI, XII. 13 UMA
+
+3. En las secciones V, VI, VII Y VIII 18 UMA
+
+4. En las secciones II, III, IV 22 UMA
+
+5. En sección I 27 UMA
+
+b) Por el uso temporal a tres años de bóvedas:
+
+1. En las secciones XIII, XIV Y XV 45 UMA
+
+2. En las secciones IX, X, XI, XII. 55 UMA
+
+3. En las secciones V, VI, VII Y VIII 75 UMA
+
+4. En las secciones II, III, IV 90 UMA
+
+5. En sección I 100 UMA
+
+c) Por el uso a perpetuidad de osarios: 40 UMA
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -2213,6 +2247,22 @@ Sujetos obligados
 
 Son sujetos de los derechos a que se refiere esta sección, las personas físicas o morales que soliciten y obtengan las licencias de funcionamiento de establecimientos comerciales o permisos temporales para la ejecución de las actividades previstas en esta sección, o que realicen por cuenta propia o ajena las mismas actividades referidas y que dan motivo al pago de derechos.
 
+> <small>(ADICIONADO, D.O. 24 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 128 Bis.
+
+Objeto de los derechos
+
+Son objeto de los derechos a que se refiere esta sección, los siguientes:
+
+I. Las licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+II. Las licencias para instalación de anuncios de toda índole, conforme a la reglamentación municipal correspondiente.
+
+III. Los permisos de construcción, reconstrucción, ampliación, demolición de inmuebles; de fraccionamientos; construcción de pozos y albercas; ruptura de banquetas, empedrados o pavimento.
+
+IV. Otros tipos de permisos y autorizaciones de tipo eventual que se señalen en la ley de ingresos del municipio.
+
 ###### Artículo 129.
 
 Responsables solidarios
@@ -2225,7 +2275,7 @@ Clausura
 
 Los establecimientos comerciales que no cuenten con licencia de funcionamiento vigente podrán ser clausurados por la autoridad municipal.
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, D.O. 24 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 131.
 
@@ -2233,39 +2283,47 @@ Cuotas para giros relacionados con la venta de bebidas alcohólicas
 
 Por el otorgamiento de licencias de funcionamiento de establecimientos o locales cuyos giros comprendan la venta de bebidas alcohólicas, sea en envase cerrado o para consumo en el mismo lugar, se pagarán derechos conforme a las siguientes cuotas:
 
-Giro Veces la unidad de medida y actualización
+Giro Veces la unidad de
 
-I.- Licorería 700
+medida y actualización
 
-II.- Expendio de cerveza 500
+I. Cantinas y bares 350
 
-III.- Tienda de autoservicio tipo A 450
+II. Centros nocturnos y discotecas 500
 
-IV.- Tienda de auto servicio tipo B 450
+III. Centros recreativos, deportivos y clubes sociales 400
 
-V.- Centros nocturnos 750
+IV. Expendios de cerveza 300
 
-VI.- Cantinas 600
+V. Hoteles y hostales 350
 
-VII.- Bares 600
+VI. Licorería 400
 
-VIII.- Discotecas y/o Antros 750
+VII. Minisúper 350
 
-IX.- Restaurantes 600
+VIII. Pizzería 200
 
-X.- Restaurantes de lujo 700
+IX. Restaurante 300
 
-XI.- Restaurantes de lujo donde se
+X. Restaurante de lujo 400
 
-realicen juegos con apuestas y sorteos 800
+XI. Restaurante de lujo donde se realicen
 
-XII.- Centros recreativos, deportivos
+juegos con apuestas y sorteos 500
 
-y clubes sociales 350
+XII. Salón de bailes y eventos sociales 300
 
-XIII.- Video- bar 250
+XIII. Supermercados que comercialicen
 
-> <small>(REFORMADO, D.O. 29 DE ABRIL DE 2022)</small>
+cerveza, vinos o licores 400
+
+XIV. Tienda de autoservicio tipo A 400
+
+XV. Tienda de autoservicio tipo B 350
+
+XVI. Vinatería 400
+
+> <small>(REFORMADO, D.O. 24 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 132.
 
@@ -2273,69 +2331,119 @@ Revalidación anual
 
 Por el otorgamiento de la revalidación anual de licencias para el funcionamiento de los establecimientos referidos en el artículo anterior, se pagará una cuota:
 
-Giro Veces la unidad de medida y actualización
+Giro Veces la unidad de
 
-I. Licorerías 175
+medida y actualización
 
-II. Expendio de cerveza 100
+I. Cantinas y bares 140
 
-III. Tienda de autoservicio tipo A 100
+II. Centros nocturnos y discotecas 200
 
-IV. Tienda de autoservicio Tipo B 100
+III. Centros recreativos, deportivos y
 
-V. Centro Nocturno 200
+clubes sociales 160
 
-VI. Cantinas 100
+IV. Expendios de cerveza 120
 
-VII. Bares 100
+V. Hoteles y hostales 140
 
-VIII. Discotecas y/o Antro 100
+VI. Licorería 160
 
-IX. Restaurantes de lujo 100
+VII. Minisúper 140
 
-X. Restaurantes de lujo donde
+VIII. Pizzería 80
 
-se realicen juegos con apuestas
+IX. Restaurante 120
 
-y sorteos 150
+X. Restaurante de lujo 160
 
-XI. Restaurantes 100
+XI. Restaurante de lujo donde se realicen
 
-XII. Centros Recreativos, Deportivos
+juegos con apuestas y sorteos 200
 
-y Clubes sociales 50
+XII. Salón de bailes y eventos sociales 120
 
-XIII. Video-Bar 100
+XIII. Supermercados que comercialicen
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+cerveza, vinos o licores 160
+
+XIV. Tienda de autoservicio tipo A 160
+
+XV. Tienda de autoservicio tipo B 140
+
+XVI. Vinatería 160
+
+> <small>(REFORMADO, D.O. 24 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 133.
 
-Cuotas por otros giros comerciales
+Cuotas por otros giros comerciales.
 
-Por el otorgamiento de licencias de funcionamiento de establecimientos o locales comerciales se pagarán derechos conforme a las siguientes cuotas:
+Por el otorgamiento de licencias de funcionamiento de establecimiento o locales comerciales se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA EN EL D.O. 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 65 A LA 86.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 24 DE OCTUBRE DE 2023, PÁGINAS DE LA 6 A LA 37.]</small>
 
-II (SIC).- Giros de alto riesgo
-
-I.- Laboratorios; talleres de herrería: 20 UMA
-
-IV (SIC). Bodegas de todo tipo; establecimientos para la compraventa de materiales de construcción; minisúper; plantas purificadoras de agua: 50 UMA
-
-V. Clínicas; fábricas y maquiladoras de hasta veinte empleados; hospitales; hostales; hoteles; moteles: 100 UMA
-
-VI. Fábricas y maquiladoras de hasta cincuenta empleados; gaseras; gasolineras; y tiendas de artículos de electrodomésticos, muebles y línea blanca; 250 UMA
-
-VII. Fábricas y maquiladoras de más de cincuenta empleados; supermercados; tienda departamental; 500 UMA
-
-El cobro de derechos por el otorgamiento o revalidación de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales comerciales o de servicios sin expendio de bebidas alcohólicas antes mencionado, estará condicionado a que previamente comprueben que tengan realizados los pagos de todos los impuestos y derechos inherentes al giro comercial de que se trate incluyendo los que sobre el inmueble recaiga tal como lo es el impuesto predial en cuyo supuesto la que se expida, tendrá una vigencia máxima de hasta un año natural el (sic) iniciara en la fecha de expedición y terminará la misma fecha del mes del año siguiente; con salvedad de aquellas que fueran expedidas durante el último año del ejercicio fiscal del periodo constitucional de la administración municipal en turno, en cuyo caso su vigencia será hasta el último día de funciones de dicha administración municipal que la expidió, el cobro a que se hace referencia en el presente artículo será de acuerdo a las tarifas antes mencionado (sic).
+El cobro de derechos por el otorgamiento o revalidación de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales comerciales o de servicios sin expendio de bebidas alcohólicas antes mencionado, estará condicionado a que previamente comprueben que tengan realizados los pagos de todos los impuestos y demás derechos inherentes al giro comercial de que se trate incluyendo los que sobre el inmueble recaiga tal como los (sic) es el impuesto predial en cuyo supuesto la (sic) que se expida, tendrá una vigencia máxima de hasta un año natural e iniciará en la fecha de expedición y terminará la misma fecha del mes del año siguiente; con salvedad de aquellas que fueran expedidas durante el último año del ejercicio fiscal del periodo constitucional de la administración municipal en turno, en cuyo caso su vigencia será hasta el último día de funciones de dicha administración municipal que la expidió, el cobro a que se hace referencia en el presente artículo será de acuerdo con las tarifas antes mencionadas.
 
 ###### Artículo 134.
 
 Revalidación annual (sic)
 
 Por el otorgamiento de la revalidación anual de licencias para el funcionamiento de los establecimientos referidos en el artículo anterior, se pagará una cuota equivalente al 50% de lo establecido para la expedición de la primera licencia de funcionamiento.
+
+> <small>(ADICIONADO, D.O. 24 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 134 Bis.
+
+Para la obtención de la licencia por exhibición publicitaria y propaganda, se estará a lo siguiente:
+
+Son objeto de este derecho la infraestructura instalada así como la estructura fijada a un inmueble en la cual sean expuestos anuncios publicitarios, así como los anuncios publicitarios que intervengan la imagen urbana. Para efectos de este artículo, intervienen la imagen urbana los anuncios que no siendo expuestos en una infraestructura instalada o en una estructura fijada a un inmueble, se encuentren fijados a éste de modo que si se separare del mismo no fuere perceptible por los transeúntes de la vía pública a través del sentido de la vista en el lugar en el que se ubicare.
+
+Son responsables del pago de este derecho los propietarios de los predios o los poseedores de los mismos en los cuales se encontrare la infraestructura o la estructura en la que se exponga el anuncio publicitario. Asimismo, se considerarán solidariamente responsables del pago del derecho, recargos y multas que correspondan, las personas físicas o morales cuya marca, comercio o industria, profesión, servicio o actividad sea difundida públicamente, con o sin intermediarios de la actividad publicitaria.
+
+La licencia se autorizará exclusivamente para el inmueble en donde se encuentre la estructura en la cual se exponga el anuncio publicitario.
+
+El área de la infraestructura instalada o de la estructura fijada será determinada por la superficie de la publicidad, expresada en metros cuadrados en la cual se ha plasmado un anuncio, delimitada por un rectángulo imaginario o determinado que incluye la colocación de letras, palabras, logotipos, símbolos, diseños, colores identificatorios, marcos, contramarcos, adornos, cubiertas, planos, lonas, cabinas, módulos, placas, pantallas o similares;
+
+Se entiende por anuncio publicitario toda leyenda, inscripción, dibujo, colores identificatorios, imagen, emisión de sonidos, música y todo otro elemento similar, cuyo fin sea la difusión pública de marcas, productos, eventos, actividades, empresas o cualquier otro objeto de o con carácter esencialmente comercial o lucrativo, para los efectos señalados con anterioridad, estableciéndose los siguientes tipos de publicidad:
+
+I. La publicidad, propaganda escrita o gráfica, perceptible desde la vía pública, con fines lucrativos o comerciales; II. La publicidad y propaganda que se hace en el interior de locales destinados al público, tales como, cines, teatros, comercios, galerías, centros comerciales, campos de deportes y demás sitios con acceso al público;
+
+El derecho para la expedición de la licencia por exhibición publicitaria y propaganda tendrá una vigencia de un año e iniciará en la fecha de su expedición y terminará la misma fecha del mes del año siguiente; con salvedad de aquellas que fueran expedidos (sic) durante el último ejercicio fiscal del periodo constitucional de la administración municipal en turno, en cuyo caso su vigencia será hasta el último día de funciones de la administración municipal que la expidió, el cobro a que se hace referencia en el presente artículo será de acuerdo a las tarifas antes mencionadas. Asimismo el derecho de licencia por exhibición publicitaria y propaganda podrá tener una vigencia temporal de seis meses contados a partir de la fecha de su expedición.
+
+Salvo casos especiales, para el análisis y la inspección realizada con motivo de la solicitud para la emisión de la licencia por exhibición publicitaria y propaganda, deberá requerirse y obtener la autorización previa del Ayuntamiento y cuando corresponda, registrar la misma en el padrón respectivo, sin perjuicio de cumplimentar el procedimiento y requisitos que al efecto se establezca.
+
+Toda exhibición publicitaria y de propaganda efectuada en forma de pantalla, cartelera y medios similares, deberán contener en el ángulo superior derecho el número de autorización municipal que los autoriza.
+
+Por la renovación de la licencia por exhibición publicitaria y propaganda se pagará una cuota equivalente al 50% de los derechos vigentes establecidos para la solicitud de emisión de la correspondiente licencia. Para la renovación de la mencionada licencia se contará con el plazo de un año contado a partir de la fecha de su vencimiento, transcurrido el término anterior, se tendrá que pagar el derecho íntegramente.
+
+No se emitirá, o no se renovará en su caso, la licencia por exhibición publicitaria y propaganda:
+
+I. Cuando los datos proporcionados por el solicitante resulten falsos y con base a ellos se hubiera solicitado la licencia.
+
+II. Cuando se le hubiese ordenado al titular de la licencia trabajos de conservación y limpieza y no los realice dentro del plazo señalado.
+
+III. Cuando la infraestructura o la estructura se encuentren ubicados (sic) en lugar diferente al señalado en la solicitud de Licencia.
+
+IV. Cuando la licencia sea transferida por su titular a una tercera persona sin conocimiento y anuencia de la Dirección de Administración, Finanzas y Tesorería; Desarrollo Urbano y la Dirección de Protección Civil.
+
+V. Cuando la Autoridad lo determine por causas de interés público o beneficio colectivo.
+
+VI. Cuando los anuncios no se coloquen o instalen dentro de los 90 días naturales contados a partir de la fecha de la emisión de la licencia.
+
+VII. En los casos de reincidencia del Titular de la licencia en la comisión de infracciones al reglamento aplicable o la comisión de una infracción distinta relacionada con la misma infraestructura o estructura.
+
+En el caso que se actualice alguna de las prohibiciones establecidas en este artículo, se procederá conforme a lo dispuesto en su reglamentación aplicable.
+
+Previo a la emisión de la licencia por exhibición publicitaria y propaganda, se deberán realizar las diligencias previstas en los incisos a) y b) sujetándose a las tarifas mencionadas en la siguiente tabla:
+
+a) Por el análisis de la documentación adjunta a la solicitud de emisión de la licencia por exhibición publicitaria y propaganda 4 UMAS
+
+b) Por la verificación de la infraestructura o estructura objeto del derecho para la emisión de la licencia por exhibición publicitaria y propaganda 2.60 UMAS por metro cuadrado
+
+Si derivado del análisis a la documentación y la verificación realizada por la autoridad municipal, se cumpliere con todos los requisitos, el solicitante pagará por la emisión de la licencia por exhibición publicitaria y propaganda el importe equivalente a 10 UMAS.
+
+Cuando la infraestructura o la estructura estuviere adaptada para la exhibición de anuncios iluminados o luminosos el derecho contemplado en este artículo se incrementará en un cincuenta por ciento (50%), en caso de que la adaptación posibilitare la animación del anuncio se incrementarán en un veinte por ciento (20%) más. Si la infraestructura o la estructura permitiere que la exhibición publicitaria y propaganda fuera realizada por medios electrónicos, de Proyección y/o Audiovisuales y/o similares se incrementará en un cien por ciento (100%).
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -2369,71 +2477,35 @@ El pago de las cuotas no condiciona el ejercicio
 
 El pago de las cuotas por los derechos a que se refiere esta sección no condiciona el ejercicio de las actividades comerciales, industriales o de prestación de servicios.
 
-#### Sección décima primera. Permisos para instalar anuncios
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 24 DE OCTUBRE DE 2023)</small>
+
+#### Sección décima primera. Permiso de factibilidad para la instalación de estructuras
 
 ###### Artículo 137.
 
-Sujetos obligados
-
-Son sujetos de los derechos a que se refiere esta sección, las personas físicas o morales que soliciten y obtengan los permisos para instalar los anuncios.
+(DEROGADO, D.O. 24 DE OCTUBRE DE 2023)
 
 ###### Artículo 138.
 
-Responsables solidarios
-
-Son responsables solidarios del pago de los derechos a que se refiera esta sección, los propietarios de los bienes inmuebles o muebles donde se instalen los anuncios.
+(DEROGADO, D.O. 24 DE OCTUBRE DE 2023)
 
 ###### Artículo 139.
 
-Cuotas y tarifas
+(DEROGADO, D.O. 24 DE OCTUBRE DE 2023)
 
-Por el otorgamiento de permisos para instalar anuncios en bienes muebles e inmuebles, se pagarán derechos conforme a las siguientes cuotas y tarifas:
-
-I. Instalación de anuncios de propaganda o publicidad en inmuebles o en mobiliario urbano por el periodo de un año, por metro cuadrado: 0.60 UMA
-
-II. Instalación de anuncios de propaganda o publicidad en establecimientos del centro histórico por el periodo de un año, por metro cuadrado: 1.00 UMA
-
-III. Instalación de anuncios de propaganda o publicidad transitorios en inmuebles o en mobiliario urbano, por metro cuadrado:
-
-a) De 1 a 7 días naturales: 0.15 UMA
-
-b) De 8 a 15 días naturales: 0.25 UMA
-
-c) De 16 a 30 días naturales: 0.40 UMA
-
-IV. Instalación de anuncios de propaganda o publicidad en vehículos de transporte público por el periodo de un año, por metro cuadrado: 1.50 UMA
-
-V. Instalación de anuncios de proyección óptica, por el periodo de un año, por metro cuadrado: 2.00 UMA
-
-VI. Instalación de anuncios, difundidos a través de medios electrónicos, por el periodo de un año, por metro cuadrado: 1.50 UMA
-
-VII. Por la instalación de anuncios de propaganda o publicidad en inmuebles o en mobiliario urbano iluminados con luz neón, por el periodo de un año, por metro cuadrado: 1.10 UMA
-
-VIII. Instalación de anuncios inflables suspendidos en el aire, por el periodo de un año, por elemento: 2.00 UMA
-
-IX. Instalación de anuncios figurativos o volumétricos, por el periodo de un año, por elemento: 3.10 UMA
-
-X. Por la difusión de propaganda o publicidad impresa en volantes o folletos, por cada mil unidades: 0.15 UMA
-
-XI. Por la difusión de propaganda o publicidad asociada a música o sonido, por día: 0.20 UMA
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, D.O. 24 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 139 Bis.
 
-Antenas de Inspección
+Antenas de inspección
 
-TASA POR INSPECCIÓN Y VERIFICACIÓN.- Por los servicios destinados a verificar la conservación y el mantenimiento de cada estructura, soporte de antenas de telefonía, antenas de radiofrecuencia, radiodifusión y tele y radiocomunicaciones y sus equipos complementarios.
+El municipio podrá cobrar por los servicios que preste por la verificación del estado de conservación y mantenimiento de cada estructura o infraestructura destinada al soporte de antenas de telefonía, radiofrecuencia, radiodifusión, telecomunicaciones y radiocomunicaciones, así como a sus equipos complementarios.
 
-La tasa se abonará por cada antena y estructura de soporte autorizada.
+Son responsables del pago de este derecho, las personas físicas o morales autorizadas para la instalación de antenas y sus estructuras de soporte, así como también quienes usufructúen con la misma.
 
-Son responsables de esta tasa y estarán obligados al pago, las personas físicas o jurídicas permisionarias de las instalaciones de antenas y sus estructuras de soporte como así también quienes usufructúen con la misma.
+El pago del derecho por verificación se hará efectivo en el tiempo y forma, como a continuación se establece:
 
-El pago de la tasa por inspección se hará efectivo en el tiempo y forma, que a continuación se establece:
-
-I. Por cada emplazamiento de estructura de antenas de telefonía y sus equipos complementarios, por año con vencimiento en Marzo. 400 UMA
-
-II. Por cada emplazamiento de estructuras de tipo no convencional que no exceda los 15 metros, por año. 200 UMA
+I. Por la verificación del estado de conservación y mantenimiento de estructura de antenas de telefonía y sus equipos complementarios, por año con vencimiento en marzo 400 UMA.
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -2475,7 +2547,27 @@ V. Adornos navideños, anuncios y adornos para fiestas cívicas nacionales o par
 
 VI. Anuncios de eventos culturales o educativos organizados por instituciones que no persigan propósitos de lucro.
 
-#### Sección décima segunda. Desarrollo urbano
+> <small>(ADICIONADO, D.O. 24 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 140 Bis.
+
+Factibilidad de las antenas
+
+El municipio podrá cobrar por los servicios que preste por el estudio y análisis de planos, documentación técnica, informes, inspección, así como también por los demás servicios administrativos, técnicos o especiales que deban prestarse para el otorgamiento de la factibilidad de localización y permiso de instalación de antenas y estructuras de soporte de las mismas. Idéntico tratamiento se establece para el emplazamiento de los denominados "WICAPS" consistente en radiobases compactas de telefonía de reducido tamaño.
+
+Están obligados al pago de este derecho a que se refiere este artículo, las personas físicas o morales solicitantes de la factibilidad de localización y habilitación, los propietarios y/o administradores de las antenas y sus estructuras de soporte y/o los propietarios del predio donde se hallen instaladas las mismas, en forma solidaria como así también quienes usufructúen con la misma.
+
+El pago de la tasa por la factibilidad de localización y permiso de instalación, deberá efectuarse en forma previa al otorgamiento del permiso
+
+Se deberá abonar el derecho, por cada antena y/o estructura de soporte, por la que se requiera el otorgamiento de la factibilidad de localización y permiso de instalación, conforme con lo establecido a continuación:
+
+Factibilidad de localización:
+
+I. Por cada emplazamiento de estructura de antenas de telefonía y sus equipos complementarios, por única vez 325 UMA
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 24 DE OCTUBRE DE 2023)</small>
+
+#### Sección décima segunda. Desarrollo Urbano
 
 ###### Artículo 141.
 
@@ -2489,7 +2581,7 @@ Responsables solidarios
 
 Son responsables solidarios del pago de los derechos previstos en esta sección, los propietarios, fideicomitentes, mientras el fiduciario no transmitiera la propiedad del inmueble; los fideicomisarios cuando estuvieren en posesión o uso del inmueble, los adquirentes de un inmueble por cualquier título, aun cuando no se hubiere otorgado a su favor la escritura definitiva de compraventa y los responsables de la obra.
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, D.O. 24 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 143.
 
@@ -2497,71 +2589,521 @@ Cuotas y tarifas
 
 Por los servicios que preste el ayuntamiento en materia de desarrollo urbano, por conducto de las unidades administrativas competentes, se pagarán derechos conforme a las siguientes cuotas y tarifas:
 
-I. Por la expedición de los análisis de factibilidad de uso de suelo para:
+I.- Por la expedición de los análisis de factibilidad de uso de suelo para:
 
-> <small>[N. DE E. VÉASE TABLA EN EL D.O. 30 DE DICIEMBRE DE 2022, PÁGINA 89.]</small>
+Concepto Costo en UMAS
 
-II. Por la expedición de Licencias de uso de suelo para:
+a. Establecimientos con venta de
 
-> <small>[N. DE E. VÉASE TABLAS EN EL D.O. 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 89 A LA 91.]</small>
+bebidas alcohólicas en envase cerrado 20.00
 
-III. Por la expedición de la constancia de alineamiento de bienes inmuebles, por cada metro lineal:
+b. Establecimientos con venta de bebidas
 
-> <small>[N. DE E. VÉASE TABLAS EN EL D.O. 30 DE DICIEMBRE DE 2022, PÁGINA 91.]</small>
+alcohólicas para consumo en el mismo lugar 20.00
 
-III (SIC). Por la expedición de Licencias de construcción:
+c. Para industrias, locales comerciales,
 
-> <small>[N. DE E. VÉASE TABLAS EN EL D.O. 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 91 A LA 93.]</small>
+centros comerciales, equipamiento, bodegas e
 
-V (SIC). Por la expedición de constancia de término de obra:
+infraestructura, giros comerciales categoría 1, 2 y 3 4.30
 
-> <small>[N. DE E. VÉASE TABLAS EN EL D.O. 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 93 A LA 95.]</small>
+d. Para industrias, locales comerciales,
 
-VI. Por visitas de inspección:
+centros comerciales, equipamiento, bodegas e
 
-> <small>[N. DE E. VÉASE TABLAS EN EL D.O. 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 95 A LA 96.]</small>
+infraestructura, giros comerciales categoría 4 y 5 5.80
 
-VII. Por expedición de licencia de urbanización, por cada metro cuadrado de vía pública: 0.0200 UMA
+e. Para industrias, locales comerciales,
 
-VIII. Por validación de planos, por cada plano: 0.2500 UMA
+centros comerciales, equipamiento, bodegas e
 
-IX. Por revisiones previas de los proyectos:
+infraestructura, Giros comerciales alto impacto,
 
-a) Por segunda revisión de proyecto de gasolinera o estación de servicio: 2.64 UMA
+similar o no contemplado en los incisos c) y d) 7.00
 
-b) Por segunda revisión de proyecto cuya superficie sea mayor a 1,000 m²: 2.64 UMA
+f. Para casa-habitación unifamiliar 1.00
 
-c) Por segunda revisión de proyecto distinto a los comprendidos a) o b): 1.30 UMA
+g. Para casa-habitación unifamiliar ubicada
 
-d) A partir de la tercera revisión de un proyecto de gasolinera o estación de servicio: 5.25 UMA
+en zonas de reserva de crecimientos 2.50
 
-e) A partir de la tercera revisión de un proyecto cuya superficie cubierta sea menor de 500 m²: 2.00 UMA
+h. Para instalación de infraestructura en
 
-f) A partir de la tercera de un proyecto cuya superficie sea mayor de 500 M² y hasta 1,000 m²: 4.00 UMA
+bienes inmuebles propiedad del municipio o
 
-g) A partir de la tercera de un proyecto cuya superficie sea mayor a 1,000 m²: 5.25 UMA
+en la vía pública, excepto las que se señalan
 
-X. Por revisiones previas de proyectos de lotificación de fraccionamientos:
+en los incisos j) y k) 9.00
 
-a) Por segunda revisión: 2.00 UMA
+i. Para la instalación de infraestructura aérea
 
-b) A partir de la tercera revisión, con una superficie:
+consistente en cableado o líneas de transmisión
 
-1. De hasta 10,000 m² 3.30 UMA
+a expedición de las que fueren propiedad
 
-2. De 10,001 hasta 50,000 m² 6.60 UMA
+de Comisión Federal deElectricidad (sic) 9.00
 
-3. De 50,001 hasta 200,000 m² 10 UMA
+j. Para instalación de torre de comunicación 18
 
-4. Mayor de 200,000 m² 13 UMA
+k. Para la instalación de gasolinera o
 
-Obra Pública
+estación de servicio 30
 
-I.- Por participar en licitación pública estatal de obra pública $3,750.00
+l. Para establecimiento de bancos de
 
-II.- Por participar en licitaciones de invitación a cuando menos 3 personas de obra públicas (sic) $1,950.00
+explotación de materiales 30
 
-III.- Inscripción al padrón de contratistas de obra pública $750.00
+m. Desarrollos inmobiliarios que por
+
+sus características físicas o su
+
+régimen de la propiedad se constituyan
+
+en fraccionamientos o división de lotes
+
+rurales o rústicos 15
+
+n. Desarrollos inmobiliarios que por sus
+
+características físicas o su régimen
+
+de la propiedad se constituyan en
+
+fraccionamientos o división de lotes urbanos 30
+
+ñ. Para establecimiento con giro
+
+comercial diferente a los mencionados
+
+en los incisos de esta fracción 0.9
+
+II.- Por la expedición de Licencias de uso de suelo para:
+
+a) Casa - habitación - vivienda unifamiliar Tipo A (Área techada)
+
+Concepto Costo en UMAS
+
+De hasta 80 m2 2.00
+
+De 81 hasta 160 m2 2.30
+
+De 161 hasta 250 m2 2.60
+
+Mayor de 251 2.90
+
+b) Casa - habitación - vivienda unifamiliar Tipo B (Área techada)
+
+Concepto Costo en UMAS
+
+De hasta 80 m2 3.00
+
+De 81 hasta 160 m2 3.30
+
+De 161 hasta 250 m2 3.60
+
+Mayor de 251 3.90
+
+c) Desarrollos inmobiliarios que por sus características físicas o su régimen de la propiedad se constituyan en fraccionamientos o división de lotes, con una superficie:
+
+Concepto Costo en UMAS
+
+De hasta 1,000 m2 35.00
+
+De 1,001 hasta 5,000 m2 40.00
+
+De 5,001 hasta 20,000 m2 65.00
+
+Mayor de 20,000 m2 95.00
+
+d) Industrias, locales comerciales, centros comerciales, equipamiento, bodegas e infraestructura y demás desarrollos que no se comprendan en los incisos A) y c), con una superficie:
+
+Concepto Costo en UMAS
+
+De hasta 50 m2 2.00
+
+De 51 hasta 200 m2 10.00
+
+De 201 hasta 500 m2 25.00
+
+De 501 hasta 5,000 m2 48.00
+
+Mayor de 5,000 m2 95.00
+
+e) Giros comerciales especiales (Impacto alto)
+
+Giro comercial Costo en UMAS
+
+Gasolinera o estación de servicio 620.00
+
+Casino 1500.00
+
+Funeraria 80.00
+
+Crematorio 150.00
+
+Sala de fiestas cerrada 150.00
+
+Hotel mayor a treinta habitaciones 175.00
+
+Torre de telecomunicaciones
+
+de una estructura monopolar
+
+para colocación de antena celular
+
+de una base de concreto o
+
+adición de cualquier equipo de
+
+telecomunicación sobre una
+
+torre alta tensión o sobre
+
+infraestructura existente 275.00
+
+Establecimientos con venta
+
+de bebidas alcohólicas en
+
+envase cerrado 130.00
+
+Establecimientos con venta de
+
+bebidas alcohólicas para consumo
+
+en el mismo lugar 130.00
+
+Gasera 620.00
+
+Granja porcícola / ganadera /
+
+avícola / agropecuario 350.00
+
+Fábricas y maquiladoras de
+
+hasta 50 empleados 120.00
+
+Fábricas y maquiladoras de
+
+más de 50 empleados 150.00
+
+Centros bancarios, instituciones
+
+financieras, bancos 120.00
+
+Agencia de automóviles 200.00
+
+III.- Por la expedición de la constancia de alineamiento de bienes inmuebles, por cada metro lineal:
+
+Concepto UMA POR ML
+
+a) Alineamiento
+
+casa habitación // lotes
+
+sin construcción 0.1
+
+b) Alineamiento comercios al
+
+por menor y de baja categoría 0.12
+
+c) Alineamiento comercios, industrias 0.18
+
+IV.- Por la expedición de Licencias de construcción:
+
+a. Por la expedición de licencia para construcciones de TIPO A de casa habitación, por cada metro cuadrado, de trabajos con una superficie
+
+UMA X M2
+
+HASTA 60M2 0.06
+
+HASTA 120M2 0.08
+
+HASTA 240M2 0.1
+
+MÁS DE 240M2 0.12
+
+b. Por la expedición de licencia para construcciones TIPO B de casa habitación, por cada metro cuadrado, de trabajos con una superficie
+
+UMA X M2
+
+HASTA 60M2 0.1
+
+HASTA 120M2 0.12
+
+HASTA 240M2 0.14
+
+MÁS DE 240M2 0.16
+
+c. Por la expedición de licencia para construcciones de TIPO A de industrias, comercios, bodegas de almacenamiento, centros de distribución, por cada metro cuadrado, de trabajos con una superficie
+
+UMA X M2
+
+HASTA 50M2 0.12
+
+HASTA 100M2 0.14
+
+HASTA DE 200M2 0.16
+
+MÁS DE 200M2 0.18
+
+d. Por la expedición de licencia para construcciones de TIPO B de industrias, comercios, bodegas de almacenamiento, centros de distribución, por cada metro cuadrado, de trabajos con una superficie
+
+UMA X M2
+
+HASTA 50M2 0.14
+
+HASTA 100M2 0.16
+
+HASTA DE 200M2 0.18
+
+MÁS DE 200M2 0.2
+
+e. Por la expedición de licencia para construcción, que permita la instalación de una torre de comunicación, de una estructura monopolar para la colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente, por cada unidad
+
+UMA X UNIDAD
+
+1 630
+
+f. Por la expedición de la licencia de construcción de bardas, por cada metro lineal, hasta dos metros de altura
+
+UMA X UNIDAD
+
+1 0.07
+
+g. Por la expedición de la licencia para demoliciones o desmantelamientos de construcciones o edificaciones TIPO A, por cada metro cuadrado
+
+UMA X UNIDAD
+
+1 0.07
+
+h. Por la expedición de la licencia para demoliciones o desmantelamientos de construcciones o edificaciones TIPO B, por cada metro cuadrado
+
+UMA X UNIDAD
+
+1 0.09
+
+i. Por la expedición de la licencia de demolición o desmantelamiento de bardas, por cada metro lineal
+
+UMA X UNIDAD
+
+1 0.04
+
+V.- Por la expedición de constancia de termino de obra:
+
+a. Por la expedición de licencia para construcciones de TIPO A de casa habitación, por cada metro cuadrado, de trabajos con una superficie
+
+UMA X M2
+
+HASTA 60M2 0.021
+
+HASTA 120M2 0.024
+
+HASTA 240M2 0.035
+
+MÁS DE 240M2 0.042
+
+b. Por la expedición de licencia para construcciones TIPO B de casa habitación, por cada metro cuadrado, de trabajos con una superficie
+
+UMA X M2
+
+HASTA 60M2 0.035
+
+HASTA 120M2 0.042
+
+HASTA 240M2 0.049
+
+MÁS DE 240M2 0.056
+
+c. Por la expedición de licencia para construcciones de TIPO A de industrias, comercios, bodegas de almacenamiento, centros de distribución, por cada metro cuadrado, de trabajos con una superficie
+
+UMA X M2
+
+HASTA 50M2 0.042
+
+HASTA 100M2 0.049
+
+HASTA DE 200M2 0.056
+
+MÁS DE 200M2 0.063
+
+d. Por la expedición de licencia para construcciones de TIPO B de industrias, comercios, bodegas de almacenamiento, centros de distribución, por cada metro cuadrado, de trabajos con una superficie
+
+UMA X M2
+
+HASTA 50M2 0.049
+
+HASTA 100M2 0.056
+
+HASTA DE 200M2 0.063
+
+MÁS DE 200M2 0.7
+
+e. Por la expedición de licencia para construcción, que permita la instalación de una torre de comunicación, de una estructura monopolar para la colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente, por cada unidad
+
+UMA X UNIDAD
+
+1 125
+
+f. Por la expedición de la licencia de construcción de bardas, por cada metro lineal, hasta dos metros de altura
+
+UMA X UNIDAD
+
+1 0.0245
+
+g. Por la expedición de la licencia para demoliciones o desmantelamientos de construcciones o edificaciones TIPO A, por cada metro cuadrado
+
+UMA X UNIDAD
+
+1 0.0245
+
+h. Por la expedición de la licencia para demoliciones o desmantelamientos de construcciones o edificaciones TIPO B, por cada metro cuadrado
+
+UMA X UNIDAD
+
+1 0.0315
+
+i. Por la expedición de la licencia de demolición o desmantelamiento de bardas, por cada metro lineal
+
+UMA X UNIDAD
+
+1 0.015
+
+VI.- Por visitas de inspección:
+
+Concepto UMA POR ML
+
+a. Para verificación de alineamiento 0.50
+
+b. Para expedición (sic) permisos de
+
+construcción, factibilidad de uso
+
+de suelo y licencia de uso de
+
+suelo de casa habitación
+
+Tipo A y Tipo B y giro comercial
+
+de bajo impacto 3
+
+c. Verificación de construcción
+
+de fosas séptica (sic) 4
+
+d. Para expedición (sic) permisos de
+
+construcción, factibilidad de
+
+uso de suelo y licencia de
+
+uso de suelo de comercios
+
+de giro comercial de alto impacto 6
+
+e. Verificación para anuencia de
+
+venta de bebidas alcohólicas 6
+
+f. Construcciones o edificaciones
+
+distintas a los incisos a), b), c) y d) 6.6
+
+g. Recepción o término de obra de
+
+infraestructura urbana 6
+
+h. Verificación de factibilidad de
+
+fraccionamientos, lotificación
+
+rústica y/o urbana 10
+
+i. Verificación de obra de
+
+infraestructura urbana 10
+
+j. Otras verificaciones no contempladas
+
+en los incisos anteriores 8
+
+VII.- Por expedición de licencia de urbanización, por cada metro cuadrado de vía pública: 0.0200 UMA
+
+VIII.- Por validación de planos, por cada plano: 0.2500 UMA
+
+IX.- Por revisiones previas de los proyectos:
+
+a. Por cada revisión de proyecto
+
+de gasolinera o estación de servicio: 2.64 UMA
+
+b. Por revisión de proyecto cuya
+
+superficie sea mayor a 1,000 m2: 2.64 UMA
+
+c. Por revisión de proyecto
+
+distinto a los comprendidos
+
+a) o b): 1.30 UMA
+
+d. A partir de la segunda revisión
+
+de un proyecto cuya superficie
+
+cubierta sea menor de 500 m2: 2.00 UMA
+
+e. A partir de la segunda de
+
+un proyecto cuya superficie sea
+
+mayor de 500 M2 y hasta 1,000 m2: 4.00 UMA
+
+f. A partir de la segunda de un
+
+proyecto cuya superficie sea
+
+mayor a 1,000 m2: 5.25 UMA
+
+g. Por revisión de estudios de
+
+impacto ambiental, vial y urbano 4.00 UMA
+
+X.- Por revisiones previas de proyectos de lotificación de fraccionamientos:
+
+a) Por revisión: 2.00 UMA
+
+b) Por revisión, con una superficie:
+
+1. De hasta 10,000 m2 3.30 UMA
+
+2. De 10,001 hasta 50,000 m2 6.60 UMA
+
+3. De 50,001 hasta 200,000 m2 10 UMA
+
+4. Mayor de 200,000 m2 13 UMA
+
+XI.- Otros servicios o licencias
+
+UMA
+
+a) Constancia de Urbanización 5 UMA
+
+b) Constancia de Cédula Urbana 5 UMA
+
+c) Constancia de vivienda existente 2 UMA
+
+d) Constancia de cumplimiento
+
+del Reglamento de Imagen Urbana 3 UMA
+
+e) Expedición o supervisión
+
+de construcciones por día 8 UMA
+
+f) Factibilidad de anuncios
+
+publicitarios 3 UMA
 
 ###### Artículo 144.
 
@@ -3632,3 +4174,19 @@ Artículo Primero.- Este decreto entrará en vigor el día siguiente de su publi
 Artículo Segundo.- El H. Ayuntamiento de Dzidzantún, para percibir aprovechamientos vía infracciones por faltas administrativas, deberá contar con los reglamentos municipales respectivos, que establecerán los montos de las sanciones correspondientes.
 
 Artículo Tercero.- La Ley de Hacienda del Municipio de Tixpéual, deroga el artículo primero transitorio por el que se modificó dicha Ley, mediante Decreto 449/2021 publicado en el Diario Oficial del Gobierno del Estado el 31 de diciembre de 2021.
+
+D.O. 24 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 688/2023 QUE MODIFICA LA LEY DE HACIENDA DEL MUNICIPIO DE TEKAX, YUCATÁN, EN MATERIA DE ACTUALIZACIÓN DE CUOTAS Y TARIFAS DE DERECHOS".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Adecuación normativa
+
+Artículo segundo. El H. Ayuntamiento del Municipio de Tekax, Yucatán, durante el ejercicio fiscal 2023, deberá de realizar las adecuaciones normativas correspondientes en los términos establecidos en el presente decreto a partir de su entrada en vigor.
+
+Cláusula derogatoria
+
+Artículo tercero. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan a este decreto.
