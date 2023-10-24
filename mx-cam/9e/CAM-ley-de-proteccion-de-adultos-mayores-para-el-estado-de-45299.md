@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-de-adultos-mayores-para-el-estado-de-45299"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-28"
-last_updated: "2023-07-26"
+last_updated: "2023-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 28 de junio de 2005.
 
@@ -205,9 +205,17 @@ VII. De acceso y desplazamiento:
 
 a) Disfrutar, preferentemente de los servicios públicos de estacionamiento vehicular;
 
-b) Facilitar el acceso y desplazamiento en el interior de espacios laborales, comerciales y recreativos; y
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2023)</small>
 
-c) Contar con asientos preferentes en los establecimientos que prestan servicios al público y en los servicios de autotransporte de pasajeros.
+b. Facilitar el acceso y desplazamiento en el interior de espacios laborales, comerciales y recreativos;
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2023)</small>
+
+c. Contar con asientos preferentes en los establecimientos que prestan servicios al público y en los servicios de autotransporte de pasajeros; y
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2023)</small>
+
+d. A tener una atención preferente en los establecimientos públicos y privados que presten servicios al público.
 
 > <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
@@ -896,3 +904,11 @@ P.O. 26 DE JULIO DE 2023.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 24 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 266 POR EL QUE "SE REFORMAN LOS INCISOS B Y C Y, SE ADICIONA UN INCISO D A LA FRACCIÓN VII DEL ARTÍCULO 5 DE LA LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
