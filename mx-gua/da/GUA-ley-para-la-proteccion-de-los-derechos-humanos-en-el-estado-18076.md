@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado-180
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-26"
-last_updated: "2022-04-05"
+last_updated: "2023-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
 
 Ley Publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 26 de septiembre del 2000.
 
@@ -203,9 +203,7 @@ VI.- No ser o haber sido dirigente de partido político o asociación política 
 
 VII.- No desempeñar cargo o empleo público al momento de asumir el cargo; ni actividad que se contraponga a las funciones propias de su encomienda, excepción hecha de los de carácter docente; y
 
-(REUBICADA, P.O. 20 DE JULIO DE 2018)
-
-VIII.- No haber sido condenado por delito doloso.
+VIII.- (DEROGADA, P.O. 24 DE OCTUBRE DE 2023)
 
 > <small>(REFORMADO, P.O. 20 DE JULIO DE 2018)</small>
 
@@ -383,9 +381,7 @@ V. No ser o haber sido dirigente de partido político o asociación política a 
 
 VI.- No desempeñar cargo o empleo público al momento de asumir el cargo; ni actividad que se contraponga a las funciones propias de su encomienda, excepción hecha de los de carácter docente; y
 
-(REUBICADA, P.O. 20 DE JULIO DE 2018)
-
-VII.- No haber sido condenado por delito doloso.
+VII.- (DEROGADA, P.O. 24 DE OCTUBRE DE 2023)
 
 ###### Artículo 22.
 
@@ -425,7 +421,7 @@ III.- Contar con título de Abogado o Licenciado en Derecho, expedido por instit
 
 IV.- Ser de reconocida buena fama; y
 
-V.- No haber sido condenado por delito doloso.
+V.- (DEROGADA, P.O. 24 DE OCTUBRE DE 2023)
 
 ### Capítulo Sexto. De la Secretaría General
 
@@ -617,9 +613,15 @@ Se regirán por los principios de inmediatez, concentración y celeridad y se pr
 
 Las investigaciones que realice la Procuraduría sobre presuntas violaciones a derechos humanos deberán manejarse con sigilo y discreción.
 
+(REFOMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2023)
+
 ###### Artículo 33.
 
-Toda persona podrá presentar quejas o denuncias por presuntas violaciones a los derechos humanos ante la Procuraduría.
+Toda persona, por sí o mediante representante legal, podrá presentar quejas o denuncias por presuntas violaciones a los derechos humanos ante la Procuraduría.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2023)</small>
+
+Cualquier organización cuyo objeto principal sea la defensa de los derechos humanos, podrá acudir ante la Procuraduría a denunciar presuntas violaciones de derechos humanos.
 
 ###### Artículo 34.
 
@@ -699,11 +701,15 @@ V.- Informar a las personas quejosas o agraviadas, de la situación que guarda l
 
 VI.- Efectuar todas las demás acciones que conforme a derecho juzguen convenientes, para el mejor conocimiento del asunto.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 45.
 
-El Procurador o los Subprocuradores podrán solicitar a las autoridades competentes, que se tomen todas las medidas necesarias para evitar la consumación irreparable de las presuntas violaciones de derechos humanos denunciadas, reclamadas, iniciadas oficiosamente o la producción de daños de difícil reparación de las personas afectadas, así como solicitar su modificación cuando cambien las situaciones que las justificaron.
+El Procurador o los Subprocuradores podrán solicitar a las autoridades competentes, que se tomen todas las medidas cautelares o providencias precautorias que estimen necesarias para evitar la consumación irreparable de las presuntas violaciones de derechos humanos denunciadas, reclamadas, iniciadas oficiosamente o la producción de daños de difícil reparación de las personas afectadas, así como solicitar su modificación cuando cambien las situaciones que las justificaron.
 
-La autoridad a quien se solicitó la medida, deberá informar su aceptación o no, en un término no mayor de veinticuatro horas.
+Las medidas cautelares o providencias precautorias tienen por objeto conservar o restituir a la persona en el goce de sus derechos humanos.
+
+La autoridad a quien se solicitó la medida deberá informar de su aceptación o no, en un término no mayor de veinticuatro horas, informando en su caso las acciones, o bien la abstención de continuar realizando las presuntas violaciones y agregando la evidencia que lo acredite.
 
 ### Capítulo Segundo. De las Notificaciones
 
@@ -733,9 +739,11 @@ La Procuraduría podrá recabar de oficio todas aquellas pruebas que se estimen 
 
 De conformidad con lo establecido en la presente Ley, las autoridades o servidores públicos de carácter estatal o municipal, involucrados en asuntos de la competencia de la Procuraduría o que por razón de sus funciones o actividades puedan proporcionar información pertinente, deberán cumplir en sus términos con las peticiones o requerimientos de ésta.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 51.
 
-Cuando las autoridades o servidores públicos a los que se les solicite información o documentos, afirmen que estos tienen carácter confidencial, lo comunicarán de inmediato, manifestando las razones para así considerarlo. En este supuesto, la Procuraduría tendrá la facultad de hacer la calificación definitiva sobre la reserva y solicitar que se le proporcione la información o documentos, los que manejará en la más estricta confidencialidad.
+La Procuraduría tendrá acceso a la información reservada o confidencial en los supuestos de violaciones graves a derechos humanos o delitos de lesa humanidad cuando resulte indispensable para la investigación. El acceso se dará de conformidad a lo establecido en las leyes de la materia y con las prevenciones que para su protección las mismas establecen. Dicha información deberá ser mantenida con ese carácter y no estará disponible en el expediente, salvo en los casos que sobreviniera la desclasificación de dicha información por el sujeto obligado.
 
 ###### Artículo 52.
 
@@ -1070,3 +1078,27 @@ P.O. 5 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 67 MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 17, RECORRIÉNDOSE LOS SUBSECUENTES DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 24 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 218. SE REFORMA EL ARTÍCULO 51 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 24 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 220. SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 33, DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 24 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 221. SE REFORMA EL ARTÍCULO 45 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 24 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 222. SE REFORMA LA FRACCIÓN II Y SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 29 DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL ESTADO Y MUNICIPIOS DE GUANAJUATO; SE REFORMAN LAS FRACCIONES V DE LOS ARTÍCULOS 8, 11, 13, 15, 17 Y LA FRACCIÓN III DEL ARTÍCULO 66 DE LA LEY DE JUSTICIA CÍVICA DEL ESTADO DE GUANAJUATO; SE DEROGAN LAS FRACCIONES VIII DEL ARTÍCULO 11; VII DEL ARTÍCULO 21 Y LA V DEL ARTÍCULO 23 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO; SE REFORMAN EL ARTÍCULO 5 Y LA FRACCIÓN II DEL ARTÍCULO 26 DE LA LEY PARA LA BÚSQUEDA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE GUANAJUATO; SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 23 DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE GUANAJUATO; Y SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 89 Y LA FRACCIÓN III DEL ARTÍCULO 169 Y, SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 165, DE LA LEY DE VÍCTIMAS DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
