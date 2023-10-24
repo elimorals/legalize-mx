@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-e-inclusion-de-las-personas-con-94481"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2023-06-27"
+last_updated: "2023-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -94,6 +94,10 @@ XIV. Educación Inclusiva. Aquella que propicia la inclusión y participación d
 XV. Estenografía proyectada. Oficio y técnica de transcribir un monólogo o un diálogo oral de manera simultánea a su desenvolvimiento y, a la vez, proyectar el texto resultante por medios electrónicos visuales;
 
 XVI. Estimulación temprana. Atención brindada a niños y niñas de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales, afectivas y de socialización, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+
+XVI. Bis. Formato de Lectura Fácil: Texto complementario al principal redactado en un lenguaje simple, directo, cotidiano y personalizado, con tipografía clara y tamaño accesible, la cual puede utilizar ejemplos para su mejor comprensión y está libre de tecnicismo y conceptos abstractos;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
 
@@ -415,9 +419,9 @@ VIII. Promover medidas a efecto de que las obligaciones laborables no interrumpa
 
 IX. Promover en las empresas del Estado el desarrollo personal y educativo de sus trabajadores, a través de implementación de cursos, talleres o canalización al sector educativo, además de otorgar constancias o reconocimientos a fin de que su desarrollo sea acreditado.
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
 
-X. Impulsar la difusión de oportunidades de empleo en el Estado, mediante el uso de fuentes de información accesibles y la tecnología adecuada a los diferentes tipos de discapacidad.
+X. Impulsar la difusión de oportunidades de empleo en el Estado, mediante el uso de fuentes de información accesibles en formato de lectura fácil y la tecnología adecuada a los diferentes tipos de discapacidad.
 
 ###### Artículo 19°.
 
@@ -687,9 +691,11 @@ El Sistema para el Desarrollo Integral de la Familia y Protección de Derechos d
 
 Las personas físicas o morales que tengan interés en brindar este servicio se sujetarán a las disposiciones que para tal efecto se emitan.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 49°.
 
-Las personas con discapacidad tienen derecho a la libertad de expresión y opinión; incluida la libertad de recabar, recibir y facilitar información mediante cualquier forma de comunicación que les facilite una participación e integración en igualdad de condiciones que el resto de la población.
+Las personas con discapacidad tienen derecho a la libertad de expresión y opinión; incluida la libertad de recabar, recibir y facilitar información mediante cualquier forma de comunicación que les facilite una participación e integración en igualdad de condiciones que el resto de la población. Para tales efectos, las autoridades competentes, facilitaran de manera oportuna y sin costo adicional, la información dirigida al público en general, accesibles, en formato de lectura fácil y con las tecnologías adecuadas a los diferentes tipos de discapacidad;
 
 ###### Artículo 50°.
 
@@ -801,9 +807,11 @@ Las personas con discapacidad tendrán derecho a recibir un trato digno y apropi
 
 El Estado, en coordinación con la Federación, promoverá al interior de la estructura orgánica de sus respectivas instituciones de administración e impartición de justicia, la disponibilidad de los recursos de comunicación, ayudas técnicas y humanas necesarias para el acceso equitativo de las personas con discapacidad a su jurisdicción.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 63°.
 
-Las instituciones de administración e impartición de justicia contarán con peritos especializados en las diversas discapacidades, apoyo de intérpretes de lengua de señas mexicana, y lenguas indígenas, así como la emisión de documentos en sistema de escritura braille.
+Las instituciones de administración e impartición de justicia contarán con peritos especializados en las diversas discapacidades, apoyo de intérpretes de lengua de señas mexicana y lenguas indígenas, así como la emisión de documentos en sistema de escritura braille y formato de lectura fácil.
 
 ###### Artículo 64°.
 
@@ -1414,3 +1422,9 @@ P.O. 27 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 479.- SE ADICIONAN LAS FRACCIONES XII, XIII Y XIV RECORRIÉNDOSE LA ULTERIOR A UNA FRACCIÓN XV, DEL ARTÍCULO 6 DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 523.- SE ADICIONA LA FRACCIÓN XVI BIS AL ARTÍCULO 2, ASIMISMO, SE REFORMAN LA FRACCIÓN X DEL ARTÍCULO 18 Y LOS ARTÍCULOS 49 Y 63, DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
