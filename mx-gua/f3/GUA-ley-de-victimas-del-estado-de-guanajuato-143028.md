@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-victimas-del-estado-de-guanajuato-143028"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-27"
-last_updated: "2023-03-09"
+last_updated: "2023-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE VÍCTIMAS DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 27 de mayo de 2020.
 
@@ -1115,7 +1115,9 @@ Para ser presidente de la Comisión se requiere:
 
 I. Ser ciudadano mexicano;
 
-II. No haber sido condenado por la comisión de un delito doloso o inhabilitado como servidor público;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+
+II. No haber sido condenado por la comisión de delitos de privación de la libertad, secuestro, trata de personas y acecho;
 
 III. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en sociedad civil o académicas relacionadas con la materia de esta Ley, por lo menos en los dos años previos a su designación;
 
@@ -2221,7 +2223,7 @@ II. Ser licenciado en derecho o su equivalente con cédula profesional;
 
 III. Aprobar los exámenes de ingreso y oposición que aplique la Comisión; y
 
-IV. No haber sido condenado por delito doloso con sanción privativa de libertad.
+IV. (DEROGADA, P.O. 24 DE OCTUBRE DE 2023)
 
 Asignación del Asesor Jurídico por la Comisión
 
@@ -2251,7 +2253,9 @@ I. Ser ciudadano mexicano y estar en pleno ejercicio de sus derechos;
 
 II. Acreditar experiencia de tres años en el ejercicio de la abogacía, relacionada especialmente, con las materias afines a sus funciones; y poseer, al día de la designación, título y cédula profesional de licenciado en derecho, expedido por la autoridad o institución legalmente facultada para ello con antigüedad mínima de cinco años computada al día de su designación; y
 
-III. Gozar de buena reputación, prestigio profesional y no haber sido condenado por delito doloso con sanción privativa de libertad.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+
+III. Gozar de buena reputación y prestigio profesional.
 
 Atribuciones del Director General de la Asesoría Jurídica
 
@@ -2330,3 +2334,9 @@ P.O. 9 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 188, POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES AL ARTÍCULO 8 DE LA LEY DE VÍCTIMAS DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 24 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 222. SE REFORMA LA FRACCIÓN II Y SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 29 DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL ESTADO Y MUNICIPIOS DE GUANAJUATO; SE REFORMAN LAS FRACCIONES V DE LOS ARTÍCULOS 8, 11, 13, 15, 17 Y LA FRACCIÓN III DEL ARTÍCULO 66 DE LA LEY DE JUSTICIA CÍVICA DEL ESTADO DE GUANAJUATO; SE DEROGAN LAS FRACCIONES VIII DEL ARTÍCULO 11; VII DEL ARTÍCULO 21 Y LA V DEL ARTÍCULO 23 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO; SE REFORMAN EL ARTÍCULO 5 Y LA FRACCIÓN II DEL ARTÍCULO 26 DE LA LEY PARA LA BÚSQUEDA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE GUANAJUATO; SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 23 DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE GUANAJUATO; Y SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 89 Y LA FRACCIÓN III DEL ARTÍCULO 169 Y, SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 165, DE LA LEY DE VÍCTIMAS DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
