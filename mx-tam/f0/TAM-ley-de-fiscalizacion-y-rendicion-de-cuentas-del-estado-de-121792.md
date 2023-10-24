@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12179
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-02"
-last_updated: "2023-08-23"
+last_updated: "2023-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
 
 Ley publicada en el Anexo al Extraordinario del Periódico Oficial del Estado de Tamaulipas, el viernes 2 de junio de 2017.
 
@@ -1069,13 +1069,19 @@ Durante el ejercicio de su encargo no podrá formar parte de ningún partido pol
 
 El Auditor podrá ser removido por el Congreso por las causas graves a que se refiere esta ley, con la misma votación requerida para su nombramiento, así como por las causas y conforme a los procedimientos previstos en el Título XI de la Constitución. Si esta situación se presenta estando en receso el Congreso, la Comisión Permanente podrá convocar a un período extraordinario para que resuelva en torno a dicha remoción.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 88.
 
-Durante el receso del Congreso, el Auditor Especial que corresponda conforme al Reglamento Interior de la Auditoría, ejercerá el cargo hasta en tanto se designe al Auditor en el siguiente período de sesiones.
+En cualquier caso que se genere la vacante, el Congreso deberá realizar las acciones necesarias y pertinentes de forma inmediata para llevar a cabo la designación correspondiente.
+
+De no obtenerse la votación requerida para la designación del Auditor, la Junta de Gobierno podrá designar de manera provisional a un Auditor Interino, quien tendrá las mismas facultades y obligaciones conferidas al Auditor, y que ocupará el cargo hasta en tanto se realice la designación correspondiente por al menos las dos terceras partes de los miembros presentes del Congreso.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 89.
 
-El Auditor será suplido en sus ausencias temporales por los Auditores Especiales, en el orden que señale el Reglamento Interior de la Auditoría. En caso de falta definitiva, la Comisión dará cuenta al Congreso para que designe, en términos de esta ley, a quien ocupará la titularidad de la Auditoría.
+La Comisión, al generarse la vacante, a la brevedad, dará cuenta al Congreso para que designe a quien ocupará la titularidad de la Auditoría en los términos señalados en el artículo anterior y las leyes en la materia.
 
 ###### Artículo 90.
 
@@ -1288,3 +1294,19 @@ P.O. 23 DE AGOSTO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
+
+P.O. 24 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-678 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 88 Y 89 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un término de 15 días naturales, la Auditoría Superior del Estado, deberá realizar las modificaciones correspondientes a su reglamento interno, a fin de homologarlo con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
