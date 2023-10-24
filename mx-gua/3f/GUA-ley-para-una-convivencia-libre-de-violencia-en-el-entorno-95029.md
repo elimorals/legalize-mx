@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-una-convivencia-libre-de-violencia-en-el-entorno-95029
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-02"
-last_updated: "2022-10-28"
+last_updated: "2023-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95029&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA UNA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 2 de julio de 2013.
 
@@ -99,7 +99,9 @@ XII. Secretaría: La Secretaría de Educación de Guanajuato;
 
 XIII. Suplantación de Identidad: El acto de hacerse pasar por otra persona de la Comunidad Educativa y, en su nombre, hacer comentarios ofensivos o participaciones por cualquier medio físico o virtual, que cause un perjuicio a alguna de las personas previstas en el artículo 24 de esta Ley, valiéndose de la identidad o información propiedad del receptor de violencia; y
 
-XIV. Violencia escolar: Todo acto u omisión que de manera reiterada agreda física, psicoemocional, patrimonial o sexualmente a un niño, niña o adolescente, así como el uso intencional de la fuerza física o emocional, ya sea en grado de amenaza o efectivo, que tenga como finalidad causar lesiones, daños emocionales, trastornos del desarrollo o privaciones, realizados en el entorno escolar ya sea en instituciones educativas públicas o particulares.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE OCTUBRE DE 2023)</small>
+
+XIV. Violencia escolar: Todo acto u omisión que implique agresión física, psicoemocional, patrimonial o sexualmente a un niño, niña o adolescente, así como el uso intencional de la fuerza física o emocional, ya sea en grado de amenaza o efectivo, que tenga como finalidad causar lesiones, daños emocionales, trastornos del desarrollo o privaciones, realizados en el entorno escolar ya sea en instituciones educativas públicas o particulares.
 
 También se considera violencia escolar, las acciones que se realicen a través de cualquier tipo de comunicación escrita, electrónica o a través de imágenes y videos que pretenda dañar la dignidad y honor.
 
@@ -902,3 +904,7 @@ P.O. 28 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 103 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN VI, RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 20 DE LA LEY PARA UNA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS".]
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 24 DE OCTUBRE DE 2023.
+
+> <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
