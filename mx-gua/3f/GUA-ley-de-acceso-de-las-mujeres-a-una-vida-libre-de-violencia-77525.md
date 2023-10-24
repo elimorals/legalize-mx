@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2023-08-10"
+last_updated: "2023-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -197,9 +197,13 @@ VIII. Violencia obstétrica: Es toda acción u omisión por parte del personal m
 
 IX. Violencia feminicida: es la forma extrema de violencia de género contra las mujeres, las adolescentes y las niñas, producto de la violación de sus derechos humanos y del ejercicio abusivo del poder, en los ámbitos público y privado, que puede conllevar impunidad social y del Estado. Se manifiesta a través de conductas discriminatorias o misóginas que afectan gravemente la integridad, la seguridad, la libertad personal y el libre desarrollo de las mujeres, las adolescentes y las niñas, que ponen en riesgo sus vidas o culminan en muertes violentas como el feminicidio, el suicidio y el homicidio, u otras formas de muertes evitables;
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
 
-X. Violencia política: es la acción u omisión que, en el ámbito político, público o privado, tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político-electorales de una mujer, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o función del poder público y se manifiesta en presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas o privación de la libertad o de la vida en razón de género; y
+X. Violencia política contra las mujeres en razón de género: Es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo;
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por personas servidoras públicas, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados o representantes de los mismos, medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
 > <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
@@ -231,29 +235,59 @@ XVI. Violencia vicaria: Es cualquier acción u omisión ejercida contra una muje
 
 XVII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2023)</small>
 
-Formas de comisión
+Formas de expresión
 
 ###### Artículo 5 Bis.
 
-A quien dolosamente realice acciones u omisiones que configuren violencia política en razón de género en los términos de la fracción X del artículo anterior, acorde a los supuestos siguientes:
+La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
 
-I. Imponer la realización de actividades distintas a las atribuciones inherentes a su cargo o función;
+I. Incumplir las disposiciones jurídicas estatales, nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
 
-II. Restringir injustificadamente la realización de acciones o actividades inherentes a su cargo o función pública;
+II. Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
 
-III. Proporcionar información o documentación incompleta o errónea con el objeto de impedir el ejercicio pleno de los derechos político-electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
+III. Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
 
-IV. Ocultar información o documentación con el objeto de limitar o impedir el ejercicio de sus derechos político-electorales o inducir al ejercicio indebido de sus atribuciones;
+IV. Proporcionar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa o incompleta, que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones;
 
-V. Proporcionar o difundir información con la finalidad de impedir o limitar el ejercicio de los derechos político-electorales, o impedir el ejercicio de sus atribuciones o facultades.
+V. Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso;
 
-VI. Impedir o restringir su incorporación, toma de protesta o acceso al cargo o función pública para el cual ha sido nombrada o elegida;
+VI. Proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, incompleta o imprecisa, que induzca al incorrecto ejercicio de sus atribuciones;
 
-VII. Impedir o restringir su reincorporación al cargo o función pública posterior en los casos de licencias, permisos o derechos conforme a las disposiciones aplicables; y
+VII. Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
 
-VIII. Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos por razón de género.
+VIII. Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales;
+
+IX. Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
+
+X. Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
+
+XI. Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
+
+XII. Impedir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
+
+XIII. Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
+
+XIV. Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
+
+XV. Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia, permisos o derechos conforme a las disposiciones aplicables;
+
+XVI. Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
+
+XVII. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
+
+XVIII. Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
+
+XIX. Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
+
+XX. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
+
+XXI. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad, o
+
+XXII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
 
 Ámbitos de violencia
 
@@ -917,7 +951,13 @@ VIII. Ser valoradas y educadas libres de estereotipos de comportamiento y práct
 
 IX. En los casos de violencia familiar, las mujeres que tengan hijas o hijos podrán acudir a los refugios con éstos; y
 
-X. Los demás señalados en esta Ley y otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE OCTUBRE DE 2023)</small>
+
+X. Las mujeres que tengan hijas, hijos y en su caso, personas que dependan de ellas, podrán acudir a los refugios con estas, en los términos de la presente ley; y
+
+(REUBICADA, P.O. 24 DE OCTUBRE DE 2023)
+
+XI. Los demás señalados en esta Ley y otras disposiciones legales.
 
 Obligatoriedad para la existencia de refugios
 
@@ -941,7 +981,9 @@ I. Aplicar el Programa Estatal;
 
 II. Velar por la seguridad de las víctimas que se encuentren en ellos;
 
-III. Permitir la permanencia de las víctimas con sus hijas o hijos, en su caso;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+
+III. Permitir la permanencia de las víctimas con sus hijas, hijos y, en su caso, personas que dependan de ellas en los términos de la presente ley;
 
 IV. Proporcionar gratuitamente la atención necesaria a las víctimas para su recuperación física y psicológica, que les permita participar plenamente en la vida pública, social y privada;
 
@@ -955,17 +997,21 @@ VIII. Realizar las acciones inherentes a la prevención, protección y atención
 
 Seguridad y especialización
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 33.
 
-Los refugios deberán ser lugares seguros para las víctimas, sus hijas o hijos, por lo que no se podrá proporcionar su ubicación a personas no autorizadas para acudir a ellos.
+Los refugios deberán ser lugares seguros para las víctimas, sus hijas, hijos y, en su caso, personas que dependan de ellas en los términos de la presente ley, por lo que no se podrá proporcionar su ubicación a personas no autorizadas para acudir a ellos.
 
 Funcionarán con una estrategia que incluya la formación, especialización y actualización permanente de todo el personal que los integra. Los refugios deberán contar con personal especializado en la atención de las víctimas. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo de violencia.
 
 Servicios brindados
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 34.
 
-Los refugios deberán prestar a las víctimas y, en su caso, a sus hijas o hijos los siguientes servicios especializados y gratuitos:
+Los refugios deberán prestar a las víctimas y, en su caso, a sus hijas, hijos y personas que dependan de ellas en los términos de la presente ley, los siguientes servicios especializados y gratuitos:
 
 I. Hospedaje;
 
@@ -989,11 +1035,13 @@ IX. Capacitación, para que puedan adquirir conocimientos para el desempeño de 
 
 X. Bolsa de trabajo, con la finalidad de que puedan tener una actividad laboral remunerada en caso de que lo soliciten.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2023)</small>
+
 Atención a víctimas
 
 ###### Artículo 35.
 
-Los refugios contarán con áreas de atención de emergencia para estancias de las víctimas y, en su caso, hijas e hijos, hasta por setenta y dos horas.
+Los refugios contarán con áreas de atención de emergencia para estancias de las víctimas y, en su caso, hijas, hijos y personas que dependan de ellas en los términos de la presente ley, hasta por setenta y dos horas.
 
 Permanencia de las víctimas
 
@@ -1704,3 +1752,17 @@ P.O. 10 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 215, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 5, FRACCIÓN VI DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 24 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 223. SE REFORMAN LOS ARTÍCULOS 5 FRACCIÓN X; Y, 5 BIS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 24 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO 224. SE REFORMAN LOS ARTÍCULOS 29, FRACCIÓN X; 32, FRACCIÓN III; 33 PRIMER PÁRRAFO; 34 Y 35, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Las autoridades correspondientes deberán integrar de manera progresiva en su presupuesto, los recursos para el cumplimiento de (sic) presente.
