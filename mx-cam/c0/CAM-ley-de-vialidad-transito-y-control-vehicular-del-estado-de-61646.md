@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-vialidad-transito-y-control-vehicular-del-estado-de-6164
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-09"
-last_updated: "2022-07-12"
+last_updated: "2023-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 9 de junio de 2008.
 
@@ -171,13 +171,17 @@ XVIII. Instrumentar en coordinación con otras dependencias y con los Municipios
 
 XIX. Implementar campañas de educación vial específica dirigidas a los conductores de motocicletas y bicicletas, para observar las disposiciones de vialidad a que se refiere el presente ordenamiento y su reglamento, con el propósito de evitar accidentes que pongan en riesgo la vida de las personas.
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
 
-XX. Difundir entre los peatones las disposiciones de vialidad orientadas a la cultura de prevención de accidentes en la vía pública, a fin de ser observadas en todas las vialidades.
+XX. Difundir entre los peatones las disposiciones de vialidad orientadas a la cultura de prevención de accidentes en la vía pública, a fin de ser observadas en todas las vialidades;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE OCTUBRE DE 2023)</small>
 
-XXI. Las demás que le confiera esta Ley y los reglamentos que de ella emanen.
+XXI. Realizar operativos para la inspección y/o verificación de los signos vitales básicos de los conductores que transiten por la red carretera a cargo del Estado de Campeche, en coordinación con la Secretaría de Salud y la Secretaría de Protección Civil de la Administración Pública del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE OCTUBRE DE 2023)</small>
+
+XXII. Las demás que le confiera esta Ley y los reglamentos que de ella emanen.
 
 ###### Artículo 11.
 
@@ -1576,3 +1580,13 @@ PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes a 
 SEGUNDO.- El Poder Ejecutivo del Estado hará las adecuaciones reglamentarias que correspondan en un plazo de noventa días contados a partir de la entrada en vigor del presente decreto.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 24 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 267 POR EL QUE "SE REFORMAN LAS FRACCIONES XX Y XXI Y SE ADICIONA LA FRACCIÓN XXII AL ARTÍCULO 10 DE LA LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Poder Ejecutivo del Estado deberá prever para el siguiente ejercicio fiscal recursos humanos, materiales y financieros suficientes para el cumplimiento de este decreto.
+
+Tercero.- Se deroga cualquier disposición de igual o menor jerarquía que contravenga el presente decreto.
