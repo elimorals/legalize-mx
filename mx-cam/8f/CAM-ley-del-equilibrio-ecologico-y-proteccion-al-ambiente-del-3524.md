@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-3524"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-22"
-last_updated: "2022-06-27"
+last_updated: "2023-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "CAM"
 ---
 # LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE CAMPECHE
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 235, POR EL CUAL SE EXPIDE EL CÓDIGO PENAL DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 20 DE JULIO DE 2012, SE DEROGAN LOS TIPOS PENALES CONTENIDOS EN LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CAMPECHE.]
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 235, POR EL CUAL SE EXPIDE EL CÓDIGO PENAL DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 20 DE JULIO DE 2012, SE DEROGAN LOS TIPOS PENALES CONTENIDOS EN LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CAMPECHE.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 22 de junio de 1994.
 
@@ -417,9 +417,9 @@ II.- Los ecosistemas y sus elementos deben ser aprovechados racionalmente de man
 
 III.- Las autoridades del Estado, las de los Municipios y los particulares deben asumir la responsabilidad de la preservación, conservación y restauración del equilibrio ecológico y la protección al ambiente;
 
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 1997)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
 
-III Bis.- Quien realice obras o actividades que afecten o puedan afectar al ambiente, está obligado a prevenir, minimizar o reparar los daños que cause, así como a asumir los costos que dicha afectación implique. Asimismo debe incentivarse a quien proteja el ambiente y aproveche de manera sustentable los recursos naturales;
+III Bis. Quien haga uso de los recursos naturales, realice obras o actividades que de manera directa o indirecta afecten o puedan afectar al ambiente, tiene la obligación de prevenir, minimizar o reparar los daños ambientales que cause, así como a asumir los costos que dicha afectación implique. Asimismo, debe incentivarse a quien proteja el ambiente y aproveche de manera sustentable los recursos naturales;
 
 IV.- La responsabilidad respecto al equilibrio ecológico, comprende tanto las condiciones presentes como las que determinarán la calidad de vida de las futuras generaciones;
 
@@ -439,9 +439,19 @@ X.- En el ejercicio de la (sic) atribuciones que las leyes confieran al Estado y
 
 XI.- Toda persona tiene derecho a disfrutar de un ambiente adecuado para su desarrollo, salud y bienestar. Las autoridades del Estado y de sus Municipios, en los términos de ésta y otras leyes, tomarán las medidas para garantizar ese derecho;
 
-XII.- El control y la prevención de la contaminación ambiental, el adecuado aprovechamiento de los elementos naturales y el mejoramiento del entorno natural en los asentamientos humanos, son factores fundamentales para elevar la calidad de vida de la población; y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+
+XII. El control y la prevención de la contaminación ambiental, el adecuado aprovechamiento de los elementos naturales y el mejoramiento del entorno natural en los asentamientos humanos, son factores fundamentales para elevar la calidad de vida de la población;
 
 XIII.- Las actividades que se lleven a cabo dentro del territorio del Estado no afectarán el equilibro ecológico de otros Estados o zonas de jurisdicción federal.
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+
+XIV. La erradicación de la pobreza es parte fundamental e inalienable para alcanzar el desarrollo sustentable; y
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+
+XV. La participación de las comunidades, así como de los pueblos indígenas es vital en las tareas de protección de los ecosistemas, su prevención de degradación, en el aprovechamiento sustentable de los recursos naturales y la salvaguarda de la biodiversidad, para su correcta inclusión se atenderá a lo dispuesto en la presente ley y otros ordenamientos aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 1997)</small>
 
@@ -2132,3 +2142,11 @@ P.O. 27 DE JUNIO DE 2022.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 24 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 268 POR EL QUE “SE REFORMAN LAS FRACCIONES III BIS Y XII Y SE ADICIONAN LAS FRACCIONES XIV Y XV AL ARTÍCULO 15 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
