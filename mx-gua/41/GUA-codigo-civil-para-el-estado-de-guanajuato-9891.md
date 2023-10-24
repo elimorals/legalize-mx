@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2023-07-11"
+last_updated: "2023-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -679,9 +679,9 @@ Si al dar aviso del fallecimiento de una niña o niño, no ha sido registrado su
 
 Cuando se trate de parto múltiple, se levantará un acta por cada uno de los nacidos, en las que además de los requisitos que señala el artículo 66 de este Código, se harán constar las particularidades que los distingan y el orden de su nacimiento, según las noticias que proporcione el médico, el cirujano, la partera o las personas que hayan asistido el parto.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2023)</small>
 
-### Capítulo III. De las anotaciones de reconocimiento de hijos
+### Capítulo III. De las anotaciones de reconocimiento de hijos y de la expedición de la nueva acta de nacimiento
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 1982)</small>
 
@@ -741,13 +741,13 @@ VI. Firmas del reconocedor, de las personas que otorgan su consentimiento y del 
 
 Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se omitirá lo señalado en las fracciones V y VI de este artículo.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2023)</small>
 
 ###### Art. 87-A.
 
-Asentada la anotación de reconocimiento, el Oficial del Registro Civil correspondiente al expedir en lo subsecuente copia autorizada del acta de nacimiento, asentará en ésta los apellidos que le correspondan, los datos de ambos padres y abuelos, así como cualquier otro dato que deba contener el acta de nacimiento y que deriven del reconocimiento, sin que se incluya en ella la anotación de reconocimiento.
+A partir de la anotación de reconocimiento, el Oficial del Registro Civil correspondiente deberá expedir nueva acta con los datos que deriven del reconocimiento.
 
-Sin menoscabo de que a solicitud de parte se expida certificación de la anotación de reconocimiento.
+La anotación correspondiente al reconocimiento quedará reservada y no se publicará ni expedirá constancia alguna que haga mención al reconocimiento, salvo a solicitud de la persona titular del acta, de quien ejerza la patria potestad, de quien haya efectuado el reconocimiento u otorgado su consentimiento para la realización del acto, o autoridad ministerial o judicial.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -3059,7 +3059,13 @@ III. Por declaración expresa contenida en una escritura pública;
 
 IV. Por testamento;
 
-V. Por confesión judicial directa y expresa.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+
+V. Por confesión judicial directa y expresa; o
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+
+VI. Por resolución judicial.
 
 ###### Art. 426.
 
@@ -17754,3 +17760,11 @@ P.O. 11 DE JULIO DE 2023.
 Inicio de vigencia
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 24 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO 227. SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO CUARTO; EL ARTÍCULO 87-A; Y LA FRACCIÓN V DEL ARTÍCULO 425 Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 425 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El Poder Ejecutivo del Estado contará con un término de treinta días a partir de la publicación del presente decreto en el Periódico Oficial del Gobierno del Estado para la adecuación reglamentaria correspondiente.
