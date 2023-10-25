@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-universidad-autonoma-de-nuevo-leon-7933"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1971-06-07"
-last_updated: "1971-06-07"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 7 de junio de 1971.
 
@@ -109,7 +109,13 @@ XIII.- Asesorar al Gobierno del Estado de Nuevo León, en la coordinación y sup
 
 XIV.- Asesorar al Gobierno del Estado de Nuevo León en problemas de índole técnica, científica o artística, a solicitud del Ejecutivo.
 
-XV.- Las demás que se deriven de esta Ley, el Estatuto General y los Reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE OCTUBRE DE 2023)</small>
+
+XV.- Establecer convenios con los titulares del Gobierno del Estado y los Municipios para otorgar becas al 100% a partir del nivel medio superior y superior, y hasta concluir sus estudios a los hijos de los servidores públicos encargados de las instituciones de seguridad pública fallecidos en el cumplimiento de su deber.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE OCTUBRE DE 2023)</small>
+
+XVI.- Las demás que se deriven de esta Ley, el Estatuto General y los Reglamentos.
 
 ## TITULO TERCERO. ESTRUCTURA
 
@@ -462,3 +468,11 @@ El Secretario General de Gobierno
 LIC. JULIO CAMELO MARTINEZ
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 437. SE REFORMA LA FRACCIÓN XV Y SE ADICIONA UNA FRACCIÓN XVI AL ARTÍCULO 5 DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
