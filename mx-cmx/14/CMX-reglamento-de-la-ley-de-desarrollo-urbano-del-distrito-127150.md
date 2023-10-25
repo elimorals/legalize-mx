@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-desarrollo-urbano-del-distrito-127150"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-03-15"
-last_updated: "2023-03-21"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127150&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-03-05"
 
 REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE OCTUBRE DE 2023.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el jueves 15 de marzo de 2018.
 
@@ -56,6 +56,10 @@ Además de las definiciones establecidas en el artículo 3 de la Ley de Desarrol
 
 I. Área libre: Porción de un predio en donde no se permite la construcción, la incorporación de techumbres, cubiertas, volados o cornisas, a partir del nivel de banqueta, según lo establecido en los Certificados Únicos de Zonificación de Uso de Suelo, los Certificados Únicos de Zonificación de Uso de Suelo Digitales y los Certificados de Acreditación de Uso del Suelo por Derechos Adquiridos;
 
+> <small>(ADICIONADA, G.O. 25 DE OCTUBRE DE 2023)</small>
+
+I Bis. Alcaldía: órgano político administrativo en cada demarcación territorial;
+
 II. Área libre permeable: Porción del predio que permite la infiltración de agua pluvial al subsuelo, conforme a lo señalado en los Programas;
 
 III. Audiencia: Acto en donde la autoridad recibe el testimonio de la ciudadanía de manera amplia, simultánea y en igualdad de condiciones a través del contacto directo con los interesados sobre un tema en particular o sobre una acción de gobierno propuesta en los términos establecidos en la Ley de Desarrollo Urbano del Distrito Federal;
@@ -70,11 +74,19 @@ VII. CEA: Comisión de Evaluación de Asentamientos Humanos Irregulares;
 
 VIII. Centro Histórico: Centro Histórico de la Ciudad de México;
 
-IX. Certificado de Zonificación: Son los Certificados Únicos de Zonificación de Uso del Suelo;
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2023)</small>
 
-X. Certificado de Zonificación Digital: Son los Certificados Únicos de Zonificación de Uso del Suelo Digitales;
+IX. Certificado Único de Zonificación de Uso del Suelo: documento público en el que constan las disposiciones normativas específicas para un predio o inmueble determinado que se establece en los instrumentos de planeación de Desarrollo Urbano. Este documento no crea derechos de propiedad, posesión, ni prejuzga sobre ellos, del mismo modo no constituye permiso, autorización o licencia alguna;
 
-XI. Certificado por Derechos Adquiridos: Son los Certificados de Acreditación de Uso del Suelo por Derechos Adquiridos
+X. (DEROGADA, G.O. 25 DE OCTUBRE DE 2023)
+
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2023)</small>
+
+XI. Certificado de Acreditación de Uso del Suelo por Derechos Adquiridos: documento público que tiene por objeto reconocer los derechos de uso del suelo y superficie de uso que por el aprovechamiento legítimo y continuo tienen las personas propietarias o causahabientes de un bien inmueble, en su totalidad o en unidades identificables de éste, con anterioridad a la entrada en vigor del Programa Parcial de Desarrollo Urbano o del Programa Delegacional de Desarrollo Urbano que los prohibió;
+
+> <small>(ADICIONADA, G.O. 25 DE OCTUBRE DE 2023)</small>
+
+XI Bis. Certificado de Uso del Suelo por Reconocimiento de Actividad: documento público a través del cual se reconoce la actividad que se ejerce en un inmueble, de conformidad con lo previsto en el artículo 15 Bis de este Reglamento;
 
 XII. Coeficiente de ocupación del suelo (COS): Es la resultante de restar a la superficie total del predio, el Área libre;
 
@@ -114,6 +126,10 @@ XXIX. Normas de Sustentabilidad: Medidas, criterios y requerimientos ambientales
 
 XXX. Plan Maestro: Es una herramienta de planeación urbana de carácter estratégico, dirigido a la creación de condiciones ideales para el desarrollo y la gestión urbana o de actuación sobre un área delimitada dentro de la Ciudad de México, que relaciona e integra todas las acciones de intervención sobre el territorio, basado en un Modelo Territorial y de Gestión específicos;
 
+> <small>(ADICIONADA, G.O. 25 DE OCTUBRE DE 2023)</small>
+
+XXX. Bis. Plataforma Digital: Sistema Informático desarrollado por la Agencia Digital de Innovación Pública, a través de la cual se realizan los trámites establecidos en la Ley y este Reglamento;
+
 XXXI. Potencial de desarrollo: Es la intensidad de construcción permitida por la zonificación asignada a un predio, la cual se expresa en metros cuadrados de construcción en relación al CUS;
 
 XXXII. Potencial de desarrollo excedente: Es la intensidad de construcción permitida por la zonificación asignada a un predio, la cual se expresa en metros cuadrados de construcción en relación al CUS, que no está desarrollada y que es susceptible de transferir;
@@ -131,6 +147,14 @@ XXXVII. Relotificación: Modificación en la configuración de dos o más predio
 XXXVIII. Reserva del Sistema de Transferencia de Potencialidad: Intensidad de construcción no desarrollada y susceptible de transferir, previa determinación de los inmuebles o zonas que cuentan con este potencial; y
 
 XXXIX. Restauración: Es el conjunto de obras tendientes a la conservación de un elemento o inmueble afecto al patrimonio cultural urbano.
+
+> <small>(ADICIONADO, G.O. 25 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 4 Bis.
+
+Los trámites a que se refiere este Reglamento deberán presentarse por medio de la Plataforma Digital.
+
+Toda persona servidora pública está obligada a realizar los trámites administrativos establecidos en la Ley y este Reglamento utilizando la Plataforma Digital. Asimismo, deberán garantizar la prestación del servicio a través de la Ventanilla Única, de manera presencial para las personas que así lo soliciten.
 
 ## TÍTULO SEGUNDO. DE LOS PROGRAMAS Y DE LAS ÁREAS DE GESTIÓN ESTRATÉGICA
 
@@ -392,7 +416,9 @@ VII. La Secretaría solicitará la publicación de la Resolución definitiva por
 
 VIII. Publicada en la Gaceta Oficial de la Ciudad de México la Resolución Definitiva para el Cambio de Uso del Suelo, la Secretaría la inscribirá en el Registro de los Planes y Programas;
 
-IX. Una vez inscrita la Resolución Definitiva para el Cambio de Uso del Suelo en el Registro de los Planes y Programas, el interesado podrá solicitar el Certificado de Zonificación; y
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2023)</small>
+
+IX. Una vez inscrita la Resolución Definitiva para el Cambio de Uso del Suelo en el Registro de los Planes y Programas, el interesado podrá solicitar el Certificado Único de Zonificación de Uso del Suelo; y
 
 X. Concluido el trámite la Secretaría lo notificará al Órgano Político Administrativo correspondiente, al interesado y al Registro Público de la Propiedad para que éste lleve a cabo la inscripción, previo pago de derechos correspondientes a cargo del interesado.
 
@@ -566,15 +592,21 @@ II. Autorizar con su firma y el sello correspondiente las inscripciones y/o anot
 
 El Certificador es el servidor público facultado para emitir los Certificados de Zonificación y los Certificados por Derechos Adquiridos, estos últimos conjuntamente con el titular del Registro de los Planes y Programas y, en su caso, emitir las improcedencias de los mismos, sin perjuicio del ejercicio directo por parte del titular de la Dirección General de Administración Urbana por conducto del Registro de los Planes y Programas; así como emitir las correcciones procedentes a los Certificados de Zonificación Digitales, las cuales se realizarán de forma impresa, atendiendo a lo previsto en el Título Sexto, Capítulo Uno, “De los Procedimientos para la Corrección de Actos Administrativos”, del presente Reglamento; también se encarga de optimizar el Sistema Centro de Información Urbana para el Desarrollo y Administración de la Ciudad de México (CiudadMx).
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 21.
 
-Las solicitudes del Certificado de Zonificación o Certificado por Derechos Adquiridos deben presentarse en el Área de Atención Ciudadana de la Secretaría. Este tipo de solicitudes, en los casos establecidos en el artículo 11 de la Ley podrán ser realizadas también por los Notarios Públicos ante el Área de Atención Ciudadana en mención.
+Las solicitudes del Certificado Único de Zonificación de Uso del Suelo o Certificado de Acreditación de Uso del Suelo por Derechos Adquiridos, podrán presentarse por medio de la Plataforma Digital, así como de manera presencial ante la Ventanilla Única de la Secretaría para las personas que así lo soliciten. Asimismo, los Notarios Públicos podrán realizar dichas solicitudes conforme a lo previsto en el artículo 11 de la Ley.
 
 La Secretaría, una vez recibidas las solicitudes, emitirá las resoluciones respectivas.
 
-El Certificado de Zonificación, el Certificado de Zonificación Digital o el Certificado por Derechos Adquiridos formará parte de la escritura traslativa de dominio que se emita ante Notario, quien deberá agregar al apéndice de la escritura respectiva el Certificado correspondiente y adicionar copia del mismo al testimonio que presente para su inscripción ante el Registro Público de la Propiedad.
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2023)</small>
 
-El Certificado de Zonificación, el Certificado de Zonificación Digital o el Certificado por Derechos Adquiridos que emita la Secretaría, deberá contener el máximo potencial, es decir: zonificación, superficie de área libre, superficie de desplante, superficie máxima de construcción y usos del suelo permitidos, así como la enunciación de todas aquellas normas de ordenación aplicables al inmueble; señalando en su caso las Normas que requieran Dictamen emitido por la Secretaría, el cual deberá solicitarse ante el Área de Atención Ciudadana en esa dependencia, previo al Registro de la Manifestación de Construcción.
+El Certificado Único de Zonificación de Uso del Suelo o el Certificado de Acreditación de Uso del Suelo por Derechos Adquiridos formará parte de la escritura traslativa de dominio que se emita ante Notario, quien deberá agregar al apéndice de la escritura respectiva el Certificado correspondiente y adicionar copia del mismo al testimonio que presente para su inscripción ante el Registro Público de la Propiedad.
+
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2023)</small>
+
+El Certificado Único de Zonificación de Uso del Suelo deberá contener el máximo potencial, es decir: zonificación, superficie de área libre, superficie de desplante, superficie máxima de construcción y usos del suelo permitidos, así como la enunciación de todas aquellas normas de ordenación aplicables al inmueble; señalando en su caso las Normas que requieran Dictamen emitido por la Secretaría, el cual deberá solicitarse ante la Ventanilla Única de esa dependencia, previo al Registro de la Manifestación de Construcción. El Certificado de Acreditación de Uso del Suelo por Derechos Adquiridos que emita la Secretaría deberá contener el uso y la superficie acreditada.
 
 ###### Artículo 22.
 
@@ -628,9 +660,11 @@ La base del SIG soportará las capas de información referente a la zonificació
 
 El SIG podrá ser consultado a través de los módulos que la Secretaría disponga para ello, en los Órganos Político Administrativos y en visualizador vía Internet, permitiendo al usuario consultar la base de datos para conocer la zonificación, las normas aplicables y los usos del suelo correspondientes al Órgano Político Administrativo o Colonia de que se trate. La consulta es gratuita y se podrá realizar desde cualquier equipo conectado a la red.
 
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 29.
 
-El documento que emita el SIG tiene carácter informativo, por lo que carecerá de validez jurídica. En caso de que el usuario requiera contar con el Certificado de Zonificación Digital, que emite la Secretaría a través del Sistema, deberá efectuar previamente su pago, conforme a lo establecido en el Código Fiscal de la Ciudad de México.
+El documento que emita el SIG tiene carácter informativo, por lo que carecerá de validez jurídica.
 
 ###### Artículo 30.
 
@@ -660,9 +694,11 @@ IV. Normas particulares por área de aplicación de los Programas; y
 
 V. Normas de Ordenación sobre vialidad.
 
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 33.
 
-Cuando los Programas establezcan para un mismo predio una o más normas de ordenación, será optativo para el propietario o poseedor del mismo elegir cualquiera de ellas, manifestándolo de forma expresa en el trámite que realice con base en el Certificado de Zonificación y Certificado de Zonificación Digital obtenido.
+Cuando los Programas establezcan para un mismo predio una o más normas de ordenación, será optativo para el propietario o poseedor del mismo elegir cualquiera de ellas, manifestándolo de forma expresa en el trámite que realice con base en el Certificado Único de Zonificación de Uso del Suelo obtenido.
 
 ###### Artículo 34.
 
@@ -1856,7 +1892,9 @@ b) Copia del carnet de registro vigente del perito;
 
 c) Copia certificada del poder otorgado al Perito Responsable de la Explotación de Yacimiento Pétreo para que lo represente ante el Gobierno de la Ciudad de México en todo lo relacionado con la explotación del yacimiento para el cual hubiera otorgado su responsiva profesional;
 
-d) Certificado de Zonificación o Certificado de Zonificación Digital vigente;
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2023)</small>
+
+d) Certificado Único de Zonificación de Uso del Suelo;
 
 e) Libro de Bitácora para su autorización;
 
@@ -2020,27 +2058,43 @@ Todas las sesiones del Consejo deberán constar en versión estenográfica y en 
 
 ### CAPÍTULO IV. DE LA PUBLICITACIÓN VECINAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 156.
 
-Las disposiciones de la Ley en materia del procedimiento de publicitación vecinal, se sujetarán a las siguientes reglas para su exacto cumplimiento:
+Las disposiciones de la Ley en materia del procedimiento de publicitación vecinal se sujetarán a las siguientes reglas para su exacto cumplimiento:
 
 I. Se materializará en proyectos concretos que cuenten con los requisitos establecidos en la fracción III del artículo 94 Quater de la Ley, previamente a la presentación de las solicitudes de registro de manifestaciones de construcción en sus modalidades B o C conforme a lo que establece el artículo 53 del Reglamento de Construcciones para el Distrito Federal;
 
-II. Para efectos de lo señalado en la fracción anterior, el interesado en registrar una manifestación de construcción en sus modalidades B o C, deberá previamente integrar los requisitos a que se refiere la fracción III del artículo 94 Quater de la Ley e ingresarlos ante la Ventanilla Única del Órgano Político Administrativo que corresponda, junto con el formato de la Constancia de Publicitación Vecinal, así como de la Manifestación de Construcción de que se trate, para cumplir con el procedimiento de publicitación vecinal;
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2023)</small>
 
-III. Agotado el procedimiento a que se refiere la fracción III del artículo 94 Quater de la Ley, el Órgano Político Administrativo correspondiente, en los supuestos a que se refiere la fracción XI del mismo artículo, otorgará en un plazo máximo de 5 días hábiles contados a partir de que concluyan los 15 días hábiles del periodo de publicitación vecinal, la Constancia de Publicitación Vecinal y procederá de inmediato y en el mismo acto al registro de la manifestación de construcción solicitada, sin necesidad de mediar solicitud o promoción adicional por parte del interesado. En caso de que la Constancia no sea emitida en el plazo señalado, se entenderá como concedida;
+II. La solicitud de la Constancia de Publicitación Vecinal se deberá ingresar a través de la Plataforma Digital junto con el trámite de registro de Manifestación de Construcción en su modalidad B o C ó, en su caso, realizar la referida solicitud ante la Alcaldía correspondiente o la Secretaría, en términos de lo establecido por la fracción II del artículo 94 Quater de la Ley.
 
-IV. Tratándose del supuesto a que se refiere la fracción XII del artículo 94 Quater de la Ley, el Órgano Político Administrativo correspondiente emitirá una resolución fundada y motivada que notificará personalmente al interesado una vez concluido el procedimiento a que se refiere la fracción X del mismo artículo, pero sin rebasar en ningún caso el plazo máximo de 20 días hábiles contados a partir de que concluya el procedimiento de publicitación;
+La Plataforma asignará y notificará el trámite de la Constancia de Publicitación Vecinal y la Manifestación de Construcción, en la modalidad de que se trate a la Alcaldía correspondiente o a la Secretaría cuando el predio en que se pretende realizar el proyecto se ubique en dos o más demarcaciones territoriales, así como respecto de los proyectos de vivienda social, popular y sustentable, promovidos por el Gobierno de la Ciudad de México.
 
-V. Las manifestaciones de inconformidad que se presenten ante los Órganos Político Administrativos como parte del procedimiento de Publicitación Vecinal, deberán señalar expresamente las presuntas irregularidades o infracciones que involucren la obra sujeta a procedimiento y acreditar el nexo causal existente entre la posible infracción o irregularidad aducida y el patrimonio afectado del inconforme, o entre dichas infracciones o irregularidades y su modo de vida, de conformidad con lo señalado en las fracciones VII y IX del artículo 94 Quater de la Ley;
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2023)</small>
+
+III. La Constancia de Publicitación Vecinal se otorgará, a través de la Plataforma Digital, en un plazo máximo de 5 días hábiles, contados a partir de que concluyan los 15 días hábiles del periodo de publicitación vecinal, tratándose de los supuestos de la fracción XI del artículo 94 Quater de la Ley.
+
+Se habilitará en el mismo acto el registro de la Manifestación de Construcción solicitada y se notificará a la persona interesada vía electrónica o, en su caso, se le notificará personalmente en la ventanilla. En caso de que la Constancia de Publicitación Vecinal no sea emitida en el plazo señalado, se entenderá como concedida, siempre y cuando no se hubieran presentado manifestaciones de inconformidad conforme a lo previsto en las fracciones VI, VII y IX del artículo 94 Quater de la Ley.
+
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2023)</small>
+
+IV. Tratándose del supuesto de la fracción XII del artículo 94 Quater de la Ley, una vez concluido el procedimiento a que se refiere la fracción X del citado artículo, se emitirá una resolución fundada y motivada, que se notificará a la persona interesada sin rebasar el plazo máximo de 20 días hábiles a partir de que concluya el procedimiento de publicitación vecinal.
+
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2023)</small>
+
+V. Las manifestaciones de inconformidad que se presenten ante las Alcaldías o ante la Secretaría, como parte del procedimiento de Publicitación Vecinal, deberán señalar expresamente las presuntas irregularidades o infracciones que involucren la obra sujeta a procedimiento y acreditar la relación existente entre la posible infracción o irregularidad aducida y el patrimonio afectado de la persona inconforme, o entre dichas infracciones o irregularidades y su modo de vida, de conformidad con lo señalado en las fracciones VII y IX del artículo 94 Quater de la Ley;
 
 VI. Una vez obtenida la Constancia de Publicitación Vecinal, no será necesaria nuevamente su expedición para el mismo predio, siempre y cuando no varíen las condiciones en que fue expedida; y
 
 VII. Para efectos de lo señalado en la fracción VI del artículo 94 Quater de la Ley, se entenderá como zona donde se encuentre el predio o inmueble sujeto al procedimiento de publicitación vecinal, la colonia respectiva, por lo que estarán legitimados para presentar manifestaciones de inconformidad los ciudadanos vecinos que acrediten tener su domicilio en la misma colonia donde se localice el predio o inmueble sujeto al procedimiento, esta condición se acreditará mediante la credencial para votar con fotografía o mediante identificación oficial y la constancia de residencia expedida por la autoridad del Órgano Político Administrativo competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 157.
 
-El Órgano Político Administrativo desechará por improcedente la manifestación de inconformidad cuando verse contra:
+La Alcaldía o la Secretaría, según corresponda, desechará por improcedente la manifestación de inconformidad cuando verse contra:
 
 I. Actos que no afecten los intereses legítimos del promovente;
 
@@ -2054,101 +2108,107 @@ IV. Cuando el recurso sea interpuesto fuera del término previsto por la Ley.
 
 ### CAPÍTULO I. DE LOS CERTIFICADOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 158.
 
-Los certificados de zonificación se clasifican en:
+Los Certificados que establece este Reglamento se tramitarán a través de la Plataforma Digital en las siguientes modalidades:
 
-I. Certificado Único de Zonificación de Uso del Suelo. Es el documento público impreso en hoja de papel seguridad en el que se hacen constar las disposiciones específicas que para un predio o inmueble determinado establecen los instrumentos de planeación de desarrollo urbano. Este documento no crea derechos de propiedad o posesión, no prejuzga sobre ellos, ni constituye permiso, autorización o licencia alguna;
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2023)</small>
 
-II. Certificado Único de Zonificación de Uso del Suelo Digital. Es el documento público en el que se hacen constar las disposiciones específicas que para un predio o inmueble determinado establecen los instrumentos de planeación de desarrollo urbano, cuya solicitud y expedición se realizará en medios electrónicos. Este documento no crea derechos de propiedad, posesión, ni prejuzga sobre ellos ni constituye permiso, autorización o licencia alguna.
+I. Certificado Único de Zonificación de Uso del Suelo. La expedición del Certificado Único de Zonificación de Uso del Suelo será inmediata a través de la Plataforma Digital, excepto cuando se requiera la aplicación normativa derivada de Polígonos de Actuación, Dictamen de Aplicación Normativa, Sistemas de Transferencia de Potencialidades, Planes Maestros y otros instrumentos de desarrollo aplicables de conformidad con la Ley. Este documento no crea derechos de propiedad o posesión, no prejuzga sobre ellos, ni constituye permiso, autorización o licencia alguna
 
-> <small>(REFORMADO, G.O. 22 DE JULIO DE 2020)</small>
+Este Certificado tendrá una vigencia de uno o dos años, a elección de la persona solicitante, en relación con el pago de derechos que realice.
 
-La vigencia de los certificados señalados en las fracciones I y II será permanente siempre y cuando se realice el pago anual de la contribución respectiva, conforme lo prevea el Código Fiscal de la Ciudad de México. La vigencia no estará sujeta a esta condición en (sic) tratándose de los certificados únicos de zonificación que contemplen la aplicación de la Norma General de Ordenación 26 "Norma para impulsar y facilitar la construcción de vivienda de interés social y popular en suelo urbano".
+El certificado permanecerá vigente siempre y cuando se realicen los pagos anuales de derechos correspondientes por la expedición del certificado contemplados en el Código Fiscal de la Ciudad de México dentro de los quince días hábiles previos a la conclusión de su vigencia. El certificado no continuará vigente cuando se modifique el uso o la superficie del inmueble o en aquellos casos en que se modifiquen las disposiciones de los Programas Delegacionales o Parciales de Desarrollo Urbano aplicables.
 
-> <small>(REFORMADO, G.O. 22 DE JULIO DE 2020)</small>
+El Certificado Único de Zonificación de Uso del Suelo será válido y vigente ante cualquier autoridad, siempre y cuando se exhiba junto con los comprobantes de pago respectivos; para lo cual la Secretaría, en coordinación con la Secretaría de Administración y Finanzas, implementará los mecanismos de identificación de los pagos anuales correspondientes respecto del certificado de que se trate.
 
-De igual manera, perderán su vigencia si se modificare el uso y superficie solicitado del inmueble, o si hubiere modificaciones a los Programas Parciales de Desarrollo Urbano o Delegacionales de Desarrollo Urbano que entren en vigor.
+Los Certificados Únicos de Zonificación de Uso del Suelo expedidos para predios destinados a obra pública federal o local, así como para vivienda de interés social o popular financiada con recursos públicos federales o locales tendrán la vigencia que dure la obra.
 
-III. Certificado de Acreditación de Uso del Suelo por Derechos Adquiridos. Es el documento público que tiene por objeto reconocer los derechos de uso del suelo y superficie de uso que por el aprovechamiento legítimo y continuo tienen los propietarios, poseedores o causahabientes de un bien inmueble, en su totalidad o en unidades identificables de éste, con anterioridad a la entrada en vigor del Programa Parcial de Desarrollo Urbano o del Programa Delegacional de Desarrollo Urbano que los prohibió.
+Una vez ejercido el Certificado Único de Zonificación de Uso del Suelo no es necesario que se tramiten otros adicionales, salvo que se cambie el uso o superficie, o bien, que se requiera para un trámite o actividades diversas al ejercido con el mismo.
 
-La vigencia de este Certificado será permanente, sin embargo la Secretaría en cualquier momento podrá solicitar a la autoridad competente se lleve a cabo una verificación para constatar la continuidad del uso acreditado. Los derechos adquiridos prescribirán al momento en que se deje de ejercer el uso de que se trate, salvo que sea acreditado que la continuidad se vio interrumpida por causas ajenas a la voluntad de los propietarios, poseedores o causahabientes del bien inmueble de conformidad a lo dispuesto en el artículo 161 del Reglamento.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 25 DE OCTUBRE DE 2023)</small>
 
-Los propietarios, poseedores, o sus causahabientes podrán solicitar el reconocimiento de los derechos adquiridos respecto de los usos del suelo, que de manera legítima y continua han aprovechado en relación a un bien inmueble en su totalidad, o en unidades identificables de éste, siempre y cuando se encuentre en alguno de los siguientes supuestos:
+II. Certificado de Acreditación de Uso del Suelo por Derechos Adquiridos. La vigencia del Certificado de Acreditación de Uso del Suelo por Derechos Adquiridos será permanente; sin embargo, la Secretaría en cualquier momento podrá solicitar a la autoridad competente se lleve a cabo una verificación con el fin de constatar la continuidad del uso acreditado. Los derechos adquiridos prescribirán al momento en que se deje de ejercer el uso de que se trate, salvo que sea acreditado que la continuidad se vio interrumpida por causas ajenas a la voluntad de las personas propietarias o causahabientes del bien inmueble de conformidad con lo dispuesto en el artículo 161 del Reglamento.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 25 DE OCTUBRE DE 2023)</small>
+
+Las personas propietarias o sus causahabientes podrán solicitar el reconocimiento de los derechos adquiridos respecto de los usos del suelo que de manera legítima y continua han aprovechado en relación a un bien inmueble en su totalidad o en unidades identificables de éste, siempre y cuando se encuentre en alguno de los siguientes supuestos:
 
 a) Para usos cuyo aprovechamiento se haya iniciado con anterioridad a la entrada en vigor de los planes parciales de desarrollo urbano aprobados y publicados en el Diario Oficial de la Federación del año 1982; o
 
 b) Para usos permitidos en los planes o Programas Parciales de Desarrollo Urbano que se hayan aprobado y publicado en el Diario Oficial de la Federación el 17 de mayo de 1982 y hasta antes de la entrada en vigor de los Programas vigentes y cuyo aprovechamiento se haya iniciado en dicho periodo.
 
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2023)</small>
+
+III. Certificado de Uso del Suelo por Reconocimiento de Actividad. Será expedido en términos del artículo 15 Bis del presente Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 159.
 
-Cuando el solicitante cumpla con los requisitos previstos en cada caso por el artículo 160 de este Reglamento, el Registro de los Planes y Programas expedirá los certificados a que se refiere el presente artículo en los siguientes plazos:
+Cuando una persona solicite los certificados previstos en las fracciones I o II del artículo 158 de este Reglamento y cumpla con los requisitos correspondientes previstos en el artículo 160 de este Reglamento, el Registro de Planes y Programas expedirá el certificado correspondiente en los siguientes plazos:
 
-a) Dentro de los 3 días hábiles posteriores a la presentación de la solicitud del Certificado Único de Zonificación de Uso del Suelo;
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2023)</small>
 
-b) De forma inmediata en la presentación del Certificado Único de Zonificación de Uso del Suelo Digital; y
+a) Dentro de los 3 días hábiles posteriores a la presentación de la solicitud del Certificado Único de Zonificación de Uso del Suelo que requieran la aplicación normativa;
+
+b) (DEROGADO, G.O. 25 DE OCTUBRE DE 2023)
 
 c) Dentro de los 40 días hábiles posteriores a la presentación de la solicitud del Certificado de Acreditación de Uso de Suelo por Derechos Adquiridos.
 
-Cuando por así requerirse, el Registro de los Planes y Programas solicite opinión de la autoridad competente, de conformidad con la Ley de Procedimiento Administrativo del Distrito Federal, o bien solicite la verificación del uso de suelo de un inmueble para determinar la continuidad, o se prevenga al solicitante, el plazo para la expedición de los certificados establecido en el inciso inmediato anterior empezará a correr a partir del día siguiente al en que se reciba la respuesta o desahogo correspondiente.
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2023)</small>
+
+Cuando por así requerirse, el Registro de Planes y Programas solicite opinión de la autoridad competente, y de conformidad con la Ley de Procedimiento Administrativo de la Ciudad de México, solicite la verificación del uso de suelo de un inmueble para determinar la continuidad o se prevenga al solicitante, el plazo para la expedición de los certificados establecidos en los incisos anteriores empezará a correr a partir del día siguiente al en que se reciba la respuesta o desahogo correspondiente.
+
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 160.
 
-Los interesados en obtener los certificados previstos en el Reglamento, deben presentar su solicitud debidamente firmada ante el Área de Atención Ciudadana de la Secretaría, anexando los siguientes requisitos:
+Las personas interesadas en obtener los certificados previstos en las fracciones I y II del artículo 158 de este Reglamento deberán presentar su solicitud anexando en la Plataforma Digital los siguientes documentos en archivo digital o, en caso de presentarlo en la ventanilla única, en formato físico:
 
-I. Para el Certificado Único de Zonificación de Uso del Suelo, la solicitud deberá contener:
+a) Documento de identificación oficial vigente;
 
-a) Formato oficial contenido en el Manual de Trámites y Servicios al Público del Distrito Federal;
+b) Documento con el que se acredite la personalidad, conforme a la Ley de Procedimiento Administrativo de la Ciudad de México; y
 
-b) Recibo de pago de derechos conforme al Código Fiscal de la Ciudad de México;
+c) Boleta predial, no anterior a 12 meses de la presentación de la solicitud y/o propuesta de declaración de valor catastral.
 
-c) Identificación oficial vigente y copia;
+Los predios ubicados en suelo de conservación, ejidales o comunales que no presenten número de cuenta predial deberán presentar documentos que permitan identificar la ubicación y superficie del inmueble que se trate, así como croquis de localización, señalando referencias conocidas o de importancia;
 
-d) Boleta predial, no anterior a 12 meses de la presentación de la solicitud;
+d) Recibo de pago de derechos conforme al Código Fiscal de la Ciudad de México; y
 
-Los predios ubicados en suelo de conservación, ejidales o comunales que no cuenten con número de cuenta predial, deberán presentar documentos que permitan identificar la ubicación y superficie del inmueble que se trate, así como croquis de localización, señalando referencias conocidas o de importancia; y
+e) Acreditar el interés jurídico conforme a la Ley de Procedimiento Administrativo de la Ciudad de México en el caso del Certificado señalado en la fracción II del artículo 158.
 
-e) En caso que existan inconsistencias en la ubicación y/o superficie del predio entre lo indicado en la boleta predial y el Sistema Centro de Información Urbana para el Desarrollo y Administración de la Ciudad de México (CiudadMx), se deberá presentar copia de cualquiera de los siguientes documentos: testimonio de la escritura pública, licencia de fusión, subdivisión o relotificación, constancia de alineamiento y número oficial vigente o cualquier otro instrumento jurídico y/o administrativo emitido por autoridad competente, que permita identificar la ubicación y superficie del predio.
+Adicional a lo anterior, se deberán presentar documentos específicos por cada modalidad de certificado conforme a lo siguiente:
 
-Para inmuebles que sean propiedad de la Administración Pública, debe presentarse constancia de exención de pago de impuesto predial vigente y documento oficial que ampare la ubicación y superficie del predio.
+I. La solicitud para el Certificado Único de Zonificación de Uso del Suelo deberá contener además lo siguiente:
 
-II. Para la obtención del Certificado Único de Zonificación de Uso del Suelo Digital, el usuario deberá ingresar al Portal de la Secretaría, en el sitio que para tal efecto se habilite, los siguientes datos:
+a) Para inmuebles que sean propiedad de la Administración Pública debe presentarse constancia de exención de pago de impuesto predial vigente y/o documento oficial que ampare la ubicación y superficie del predio.
 
-a) Nombre completo del solicitante, tipo y número de identificación oficial;
+En caso que existan inconsistencias en la ubicación y/o superficie del predio entre lo establecido en la boleta predial y el Sistema de Información Geográfica (CiudadMx), presentar copia de cualquiera de los siguientes documentos: testimonio de la escritura pública, licencia de fusión, subdivisión o relotificación, o cualquier otro instrumento jurídico y/o administrativo vigente emitido por la autoridad competente, que permita identificar la ubicación y/o superficie del predio.
 
-b) Número de cuenta predial del inmueble de interés;
+II. Para obtener el Certificado de Acreditación de Uso del Suelo por Derechos Adquiridos, la solicitud deberá cumplir con lo siguiente:
 
-c) Número de folio del pago de derechos correspondiente; y
+a) Demostrar el origen legítimo del (los) uso(s). Para ello deberá comprobar el (los) uso(s) y la(s) superficie(s) a acreditar, presentando original y copia para su cotejo de alguno de los siguientes documentos:
 
-III. Para obtener Certificado de Acreditación de Uso del Suelo por Derechos Adquiridos, la solicitud deberá contener:
+i. Licencia de Construcción y/o Manifestación de Construcción, acompañado de sus respectivos planos arquitectónicos;
 
-a) Formato oficial contenido en el Manual de Trámites y Servicios al Público del Distrito Federal;
+ii. Manifestación de Construcción;
 
-b) Comprobante de pago de los derechos correspondientes al trámite, expedido por la Tesorería de la Ciudad de México, conforme a lo establecido en el Código Fiscal de la Ciudad de México;
+iii. Aviso de Terminación de Obra y Autorización de Uso y Ocupación;
 
-c) Acreditación de la personalidad conforme a la Ley de Procedimiento Administrativo del Distrito Federal;
+iv. Declaración de apertura que contenga el sello de recepción de la Alcaldía correspondiente, en la que conste el uso y superficie por acreditar;
 
-d) Propuesta de declaración de valor catastral y/o pago del impuesto predial (boleta predial), no anterior a 12 meses de la fecha de presentación, que indique explícitamente los datos manifestados en la solicitud.
+v. Licencia de Funcionamiento en la que conste el uso y superficie por acreditar, debidamente revalidada;
 
-En el caso de inmuebles ubicados en suelo de conservación, ejidales o comunales que no cuenten con boleta predial, deberán presentar documentos públicos que acrediten la posesión y/o regularización, así como ubicación y superficie del inmueble que se trate (anexar croquis en el que se ubique el predio, señalando referencias conocidas o de importancia);
+vi. Licencia, Constancia y/o Certificado de Zonificación o expedida(o) de conformidad con los planes y/o Programas en el momento de su expedición, donde el (los) uso (s) se encontraba(n) permitidos al inicio de operaciones y, de manera obligada, el documento oficial con el que fue ejercido el uso del suelo;
 
-e) Para demostrar el origen legítimo del (los) uso(s), se deberá presentar cualquiera de los siguientes documentos que señalen el (los) uso(s) y la(s) superficie(s) a acreditar, en original y copia para su cotejo:
+vii. Cédula de microindustria; o
 
-1. Licencia de construcción y/o Manifestación de Construcción, acompañado de sus respectivos planos arquitectónicos;
+viii. Escritura pública que ampare el uso y superficie por acreditar, misma que deberá acompañarse del avalúo que como apéndice formó parte de la misma, anterior a la entrada en vigor del Plan o Programa que prohibió el uso;
 
-2. Manifestación o aviso de terminación de obra y autorización de uso y ocupación;
-
-3. Declaración de apertura con sello de recepción de la autoridad del Órgano Político Administrativo correspondiente, en la que conste el uso y superficie por acreditar;
-
-4. Licencia de funcionamiento en la que conste el uso y superficie por acreditar, debidamente revalidada;
-
-5. Licencia, constancia y/o Certificado de Zonificación o Certificado de Zonificación Digital expedida(o), de conformidad con los planes y/o Programas, en el momento de su expedición, donde el (los) uso (s) se encontraban permitidos al inicio de operaciones, y de manera obligada el documento oficial con el que fue ejercido el uso del suelo;
-
-6. Cédula de micro industria;
-
-7. Escritura pública que ampare el uso y superficie por acreditar, anterior a la entrada en vigor del Plan o Programa que prohibió el uso;
-
-f) Para demostrar la continuidad y aprovechamiento del (los) uso (s), se deberá presentar cualesquiera de los siguientes documentos que señalen el (los) uso(s) y domicilio, con los cuales se deberá comprobar una continuidad ininterrumpida:
+b) Demostrar la continuidad y aprovechamiento del (los) uso (s) mediante cualquiera de los siguientes documentos que señalen el (los) uso(s) y domicilio, con los cuales se deberá comprobar una continuidad ininterrumpida:
 
 1. Boletas prediales en las que conste el uso por acreditar, expedidas por la Tesorería de la Ciudad de México;
 
@@ -2158,11 +2218,15 @@ f) Para demostrar la continuidad y aprovechamiento del (los) uso (s), se deberá
 
 4. Visto Bueno de Seguridad y Operación;
 
-5. Licencia sanitaria;
+5. Licencia sanitaria; o
 
-6. Formatos de liquidación de cuotas obrero-patronales del Instituto Mexicano del Seguro Social;
+6. Formatos de liquidación de cuotas obrero-patronales del Instituto Mexicano del Seguro Social.
 
-Contar con un Certificado por Derechos Adquiridos no será suficiente para sustituir la construcción de un edificio existente al presentar a registro una manifestación de construcción referida en el artículo 53 del Reglamento de Construcciones para el Distrito Federal, será necesario tramitar ante la Secretaría un dictamen en el que haga constar la existencia del inmueble y su sustitución parcial o total del inmueble.
+Los documentos solicitados para la emisión del Certificado de Acreditación de Uso del Suelo por Derechos Adquiridos que se enlistan en la fracción II de este artículo se tendrán que presentar en original para su cotejo o, en su caso, en copia certificada, para lo cual, la persona interesada deberá presentarse en la Ventanilla Única de la Secretaría dentro de los 3 días hábiles siguientes a la presentación de la solicitud en la Plataforma Digital. Así mismo, previo a la emisión del Certificado de Acreditación de Uso del Suelo por Derechos Adquiridos, la Secretaría podrá allegarse de todo tipo de elementos probatorios que considere necesarios para corroborar la continuidad y aprovechamiento del (los) uso (s) señalados por la persona interesada.
+
+Cuando la solicitud para cualquiera de las modalidades de Certificado de Uso del Suelo previstas en las fracciones I o II del artículo 158 de este Reglamento no cumpla con los requisitos se prevendrá por una sola vez a la persona interesada a través del medio en el que se haya solicitado para que dentro del término de 5 días hábiles siguientes a la notificación de dicha prevención subsane la falta o irregularidad de su solicitud.
+
+En el supuesto de que en el término señalado no se subsane la irregularidad, se tendrá por no presentada la solicitud, quedando a salvo el derecho de volver a presentarla.
 
 ###### Artículo 161.
 
@@ -2176,27 +2240,29 @@ Los propietarios o poseedores conservarán dichos derechos adquiridos, pero no p
 
 #### SECCIÓN PRIMERA. DE LAS LICENCIAS DE FUSIÓN Y SUBDIVISIÓN
 
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 162.
 
 La licencia de fusión o de subdivisión se expedirá de conformidad con el siguiente procedimiento:
 
-I. La solicitud debe presentarse en el Área de Atención Ciudadana del Órgano Político Administrativo correspondiente o de la Secretaría cuando sea el caso;
+I. La solicitud debe presentarse a través de la Plataforma Digital, en caso de cumplir los requisitos que señala el presente artículo, la Alcaldía o la Secretaría, según corresponda conforme a lo previsto en el artículo 169 del presente Reglamento, notificará la resolución al solicitante a través del medio en el que se haya solicitado en un plazo de 5 días contados a partir de la fecha de recepción de la solicitud;
 
-II. De cumplir los requisitos que señala el presente artículo, el Órgano Político Administrativo notificará la resolución al solicitante en un plazo de 5 días contados a partir de la fecha de recepción de la solicitud;
+II. En caso de ser aprobada la solicitud y una vez que el interesado reciba la notificación a que se refiere la fracción anterior, presentará a través de la Plataforma Digital la siguiente documentación:
 
-III. En caso de ser aprobada la solicitud y una vez que el interesado reciba la notificación a que se refiere la fracción anterior, presentará el avalúo comercial del predio o predios de que se trate, que se aplicará sobre el valor de la superficie del predio, tomando en cuenta la metodología de valor residual dinámico o estático, en condiciones de mayor y mejor uso por efecto de la autorización correspondiente, conforme al Manual de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria, debiendo cumplir con el Formato Único de Avalúos del Sistema Integral de Gestión y Actualización de Predial (SIGAPred), y firmado por un perito valuador autorizado o registrado en el padrón de la Tesorería de la Ciudad de México;
+a) Avalúo comercial del predio o predios de que se trate, que se aplicará sobre el valor de la superficie del predio, tomando en cuenta la metodología de valor residual dinámico o estático, en condiciones de mayor y mejor uso por efecto de la autorización correspondiente, conforme al Manual de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria, debiendo cumplir con el Formato Único de Avalúos del Sistema Integral de Gestión y Actualización de Predial (SIGAPred), y firmado por un perito valuador autorizado o registrado en el padrón de la Tesorería de la Ciudad de México; y
 
-IV. El interesado deberá presentar el comprobante de pago de los derechos establecidos en el Código Fiscal de la Ciudad de México, en un plazo de 30 días hábiles. En caso contrario, la solicitud se tendrá por no presentada;
+b) Comprobante de pago de los derechos establecidos en el Código Fiscal de la Ciudad de México.
 
-V. El Órgano Político Administrativo expedirá la licencia de fusión o de subdivisión en un plazo de 2 días contados a partir de la fecha de recepción del o de los avalúos y del comprobante de pago de la solicitud. En el caso de operaciones de subdivisión sujetas a realizar la Donación que se establece en este Reglamento, dicha circunstancia deberá ser manifestada por el Órgano Político Administrativo en la Licencia que expida; y
+Dichos documentos deberán presentarse en un plazo de 15 días hábiles, en caso contrario, la solicitud se tendrá por no presentada, quedando a salvo el derecho de volver a presentarla.
 
-VI. Una vez que se expida la licencia de la fusión o subdivisión, éstas deberán protocolizarse en escritura pública dentro de los 180 días posteriores a aquél en que se expida, asimismo el o los propietarios tendrán la obligación de notificar al Órgano Político Administrativo; de lo contrario, quedará sin efecto. En su caso, el notario público que protocolice la licencia queda obligado a observar que se haya realizado la Donación que se establece en este Reglamento.
+III. La Alcaldía o la Secretaría, según corresponda, expedirá a través de la Plataforma Digital, la licencia de fusión o de subdivisión en un plazo de 5 días hábiles contados a partir de la fecha de recepción del o los avalúos y del comprobante de pago de la solicitud. En el caso de operaciones de subdivisión sujetas a realizar la Donación que se establece en este Reglamento, dicha circunstancia deberá ser asentada en la Licencia expedida; y
 
-En el supuesto que el propietario no cumpla con la obligación de elevar a escritura pública la fusión o subdivisión dentro del término establecido, estará obligado a iniciar de nueva cuenta el trámite para la obtención de otra licencia.
+IV. Una vez que se expida la licencia de fusión o subdivisión, éstas deberán protocolizarse en escritura pública dentro de los 180 días posteriores a aquél en que se expida; asimismo, las personas propietarias tendrán la obligación de notificar a la Alcaldía o la Secretaría, según corresponda, de lo contrario quedará sin efecto. En su caso, el notario público que protocolice la licencia queda obligado a observar que se haya realizado la Donación que se establece en el presente Reglamento.
 
-> <small>(REFORMADO, G.O. 27 DE JULIO DE 2021)</small>
+En el supuesto que la persona propietaria no cumpla con la obligación de elevar a escritura pública la fusión o subdivisión dentro del término establecido, estará obligada a iniciar de nueva cuenta el trámite para la obtención de otra licencia.
 
-Esta licencia podrá ser revalidada hasta por dos ocasiones, para lo cual debe presentarse el Aviso correspondiente dentro de los 15 días hábiles anteriores a su vencimiento. El Órgano Político Administrativo registrará la revalidación, que tendrá una vigencia de 180 días hábiles a partir de su expedición para ser debidamente protocolizada.
+Esta licencia podrá ser prorrogada hasta por dos ocasiones, para lo cual debe presentarse el Aviso correspondiente dentro de los 15 días hábiles anteriores a su vencimiento. La Alcaldía o la Secretaría, en su caso, registrará la prórroga, misma que tendrá una vigencia de 180 días hábiles a partir de su expedición para ser debidamente protocolizada.
 
 ###### Artículo 163.
 
@@ -2234,13 +2300,21 @@ II. Rectificar linderos y/o superficie de predios colindantes como resultado de 
 
 La expedición de la licencia de relotificación se sujetará al procedimiento siguiente:
 
-I. Los propietarios presentarán la solicitud al Órgano Político Administrativo correspondiente acompañada del proyecto de relotificación;
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2023)</small>
 
-II. El Órgano Político Administrativo, previa opinión de la Secretaría, evaluará el proyecto;
+I. Las personas propietarias presentarán la solicitud a través de la Plataforma Digital, acompañada del proyecto de relotificación;
 
-III. La resolución será emitida por el titular del Órgano Político Administrativo correspondiente en 30 días hábiles contados a partir de que se presente el proyecto;
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2023)</small>
 
-IV. Una vez que se notifique la resolución ante (sic) mencionada, el Órgano Político Administrativo expedirá la licencia, previo pago de los derechos establecidos en el Código Fiscal de la Ciudad de México, dentro de un término de 3 días hábiles contados a partir del día siguiente al que se exhiba el comprobante de pago correspondiente.
+II. La Alcaldía correspondiente, previa opinión de la Secretaría, evaluará el proyecto;
+
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2023)</small>
+
+III. La resolución será emitida por el titular de la Alcaldía correspondiente en 30 días hábiles contados a partir de que se presente el proyecto, misma que será notificada a la persona promovente a través del medio en el que se haya solicitado;
+
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2023)</small>
+
+IV. Una vez que se notifique la resolución antes mencionada la persona interesada presentará, a través de la Plataforma Digital, el comprobante de pago de derechos establecidos en el Código Fiscal de la Ciudad de México y a partir de ese momento la Alcaldía contará con un término de 3 días hábiles para expedir la licencia correspondiente.
 
 V. Los Órganos Político Administrativos deben remitir a la Secretaría cada 30 días naturales una copia certificada de las licencias de relotificación que expidan; y
 
@@ -2248,17 +2322,19 @@ VI. Los involucrados en el proyecto deberán comparecer ante el notario público
 
 Iniciado el procedimiento de relotificación, se suspenderán los procedimientos de expedición de licencias o manifestaciones que se estén tramitando hasta que se expida la licencia de relotificación.
 
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 167.
 
-Cuando se trate de relotificar predios ubicados en suelo urbano que no impliquen la modificación de la vía pública y cuya superficie total sea como máximo de diez veces la del lote mínimo determinado en los Programas para la zona de que se trate, se seguirá el siguiente procedimiento:
+Cuando se trate de relotificar predios ubicados en suelo urbano que no impliquen la modificación de la vía pública y cuya superficie total sea como máximo de diez veces del lote mínimo determinado en los Programas para la zona de que se trate, se seguirá el siguiente procedimiento:
 
-I. Los propietarios presentarán la solicitud al Órgano Político Administrativo correspondiente acompañada del proyecto de relotificación;
+I. Los propietarios presentarán la solicitud a través de la Plataforma Digital, acompañada del proyecto de relotificación;
 
-II. El Órgano Político Administrativo recibirá la solicitud, y previa opinión de la Secretaría, evaluará el proyecto;
+II. La Alcaldía correspondiente recibirá la solicitud y, previa opinión de la Secretaría, evaluará el proyecto;
 
-III. El Órgano Político Administrativo correspondiente, en un plazo no mayor de 15 días hábiles, notificará a los interesados si es procedente o improcedente el otorgamiento de la licencia; y
+III. La Alcaldía correspondiente, en un plazo no mayor de 15 días hábiles, notificará a las personas interesadas a través del medio en el que se haya solicitado, si es procedente o improcedente el otorgamiento de la licencia; y
 
-IV. En caso de ser procedente, el Órgano Político Administrativo expedirá la licencia en un plazo de 3 días hábiles, previo pago de derechos realizado por el solicitante conforme al Código Fiscal de la Ciudad de México.
+IV. En caso de ser procedente el otorgamiento de la licencia, la persona interesada presentará, a través de la Plataforma Digital, el comprobante de pago de derechos establecido en el Código Fiscal de la Ciudad de México, y a partir de eso, la Alcaldía contará con un término de 3 días hábiles para expedir la licencia correspondiente.
 
 ###### Artículo 168.
 
@@ -2272,9 +2348,11 @@ Podrá ser revalidada ante el Órgano Político Administrativo hasta por dos oca
 
 #### SECCIÓN ÚNICA. DE LA EXPEDICIÓN DE LAS LICENCIAS
 
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 169.
 
-Las licencias previstas en este Reglamento serán expedidas previo pago de los derechos establecidos en el Código Fiscal de la Ciudad de México. En los Órganos Político Administrativos se expedirán dichas licencias, con excepción de las relativas a la explotación de minas, canteras o yacimientos pétreos, además de aquellas licencias que se refieran a los inmuebles que estén situados en territorio de dos o más demarcaciones territoriales de la Ciudad de México, las cuales serán expedidas exclusivamente por la Secretaría.
+Las licencias previstas en este Reglamento serán expedidas a través de la Plataforma Digital, previo pago de los derechos establecidos en el Código Fiscal de la Ciudad de México. Las Alcaldías expedirán dichas licencias, con excepción de las relativas a la explotación de minas, canteras o yacimientos pétreos, además de aquellas licencias que se refieran a los inmuebles que estén situados en territorio de dos o más demarcaciones territoriales de la Ciudad de México, las cuales serán expedidas exclusivamente por la Secretaría.
 
 ###### Artículo 170.
 
@@ -2661,3 +2739,21 @@ G.O. 21 DE MARZO DE 2023.
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. La Agencia Digital de Innovación Pública de la Ciudad de México tendrá un plazo de 180 días hábiles a partir de la entrada en vigor del presente Decreto, para desarrollar la Plataforma Digital mediante la cual se realizará la gestión de los trámites a que se refiere este decreto. Mientras tanto, se continuará con la presentación de dichos trámites en la forma en la que hasta ahora se gestionan.
+
+CUARTO. Las modificaciones que correspondan a cada trámite entrarán en vigor para cada uno a partir de su liberación en la Plataforma Digital. Dicha liberación se dará a conocer en el portal de la Agencia Digital de Innovación Pública.
+
+QUINTO. La Secretaría de Administración y Finanzas, en coordinación con la Secretaría de Desarrollo Urbano y Vivienda, deberán implementar los mecanismos de identificación de los pagos anuales correspondientes respecto del certificado de que se trate.
+
+SEXTO. En tanto se realizan las modificaciones al Código Fiscal de la Ciudad de México correspondientes al pago de los derechos por los trámites objeto de la presente reforma, cuando el Certificado Único de Zonificación de Uso del Suelo se tramite por una vigencia de 2 años se deberá cubrir el doble del monto previsto en el referido Código Fiscal vigente por concepto dicho concepto. Tratándose del pago de derechos del Certificado de Acreditación de Uso del Suelo por Derechos Adquiridos emitido a través de la Plataforma Digital, el monto a cubrir será el correspondiente al previsto en el referido Código vigente para dicho certificado en su modalidad presencial.
+
+SÉPTIMO.- Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
