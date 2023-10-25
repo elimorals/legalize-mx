@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2023-08-02"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -2201,7 +2201,7 @@ Comete el delito de turismo sexual quien promueva, publicite, invite, facilite o
 
 ### CAPITULO II. ABIGEATO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 163.
 
@@ -2269,37 +2269,41 @@ A quien se apodere de una cosa mueble ajena, con ánimo de dominio, sin consenti
 
 I. De seis meses a un año de prisión, de quince a noventa días de trabajo en favor de la comunidad, así como de diez a cincuenta días-multa, cuando el valor de la cosa no exceda de veinte veces el salario mínimo, o no sea posible determinar su valor;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-II. De dos a cuatro años de prisión y de cincuenta a ciento veinte días-multa cuando el valor de la cosa exceda de veinte pero no de doscientas cincuenta veces el salario mínimo;
+II. De dos a cuatro años de prisión y de cincuenta a ciento veinte días-multa cuando el valor de la cosa exceda de veinte, pero no de doscientas cincuenta veces el salario mínimo;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-III. De cuatro a diez años de prisión y de ciento veinte a cuatrocientos días-multa cuando el valor de la cosa exceda de doscientas cincuenta pero no de seiscientas cincuenta veces el salario mínimo; y
+III. De cuatro a diez años de prisión y de ciento veinte a cuatrocientos días-multa cuando el valor de la cosa exceda de doscientas cincuenta, pero no de seiscientas cincuenta veces el salario mínimo; y
 
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
 IV. De diez a catorce años de prisión y de cuatrocientos a seiscientos días-multa cuando el valor de la cosa exceda de seiscientas cincuenta veces el salario mínimo.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-No se castigará al que sin emplear engaño ni medios violentos, se apodere por una sola vez de los objetos estrictamente indispensables para satisfacer sus necesidades personales o familiares del momento.
+No se castigará al que, sin emplear engaño ni medios violentos, se apodere por una sola vez de los objetos estrictamente indispensables para satisfacer sus necesidades personales o familiares del momento.
 
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-ARTICULO 174 BIS.- A quien se apodere de frutos producto de las plantas, con ánimo de dominio y sin tener el consentimiento de quien legalmente lo pueda otorgar, ya sea en el lugar en que se cultiven, produzcan, almacenen o estén pendientes de recolectar o ya recolectados; y se sancionará:
+Se agravará hasta con una mitad más la (sic) penas previstas en las fracciones que contempla este artículo, con independencia de las calificativas que contiene el artículo 176 de este ordenamiento, a la persona o personas que se apoderen de cosas muebles ajenas que sean instrumentos o maquinarias de labranza, cosecha, espigado, empacado o transporte de frutos o productos agrícolas, de los postes, alambres o mallas utilizados como cercas en el sector agropecuario, sin que se cuente con el consentimiento de quien legalmente lo pueda otorgar.
 
-I.- Con prisión de seis meses a tres años y multa de uno a diez días de salario, si el importe de los frutos robados no excede de la suma de treinta días de salario.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-II.- Con prisión de uno a cinco años y multa de cinco a cincuenta días de salario, si el importe de los frutos robados excede de la suma de treinta días de salario, pero no de doscientos;
+ARTICULO 174 BIS.- A quien se apodere de frutos o productos de las plantas o árboles, con ánimo de dominio y sin tener el consentimiento de quien legalmente lo pueda otorgar, ya sea en el lugar en que se cultiven, produzcan, almacenen o estén pendientes de recolectar o ya recolectados, se sancionará:
 
-III.- Con prisión de tres a ocho años y multa de quince a ciento cincuenta días de salario si el importe de los frutos robados excede del valor de doscientos días de salario.
+I.- Con prisión de un año a cuatro años y multa de uno a diez días de salario, si el importe de los frutos o productos robados no excede de la suma de treinta días de salario.
+
+II.- Con prisión de dos a cinco años y multa de cinco a cincuenta días de salario, si el importe de los frutos o productos robados excede de la suma de treinta días de salario, pero no de doscientos;
+
+III.- Con prisión de cuatro a nueve años y multa de quince a ciento cincuenta días de salario si el importe de los frutos o productos robados excede del valor de doscientos días de salario.
 
 No se aplicará sanción en los casos siguientes:
 
 I. Cuando sin engaños ni medios violentos, se apodere una sola vez de los frutos estrictamente indispensables para satisfacer su imperiosa necesidad de alimentación personal o familiar del momento, y
 
-II. Cuando el valor de los frutos robados no rebase de diez veces el salario mínimo vigente, sea restituido por el responsable espontáneamente y pague éste todos los daños y perjuicios, siempre y cuando no se haya ejecutado el robo de frutos por medio de violencia.
+II. Cuando el valor de los frutos robados no rebase de diez veces el salario mínimo vigente, sea restituido por el responsable espontáneamente y pague éste todos los daños y perjuicios, siempre y cuando no se haya ejecutado el robo de frutos o productos por medio de violencia.
 
 ###### ARTICULO 175.
 
@@ -2457,13 +2461,9 @@ III. Al que asuma, suplante, se apropie o utilice a través de internet, cualqui
 
 ###### ARTICULO 179.
 
-Al que se apodere de una o más cabezas de ganado equino, bovino, caprino, ovino, porcino o sus híbridos, sin consentimiento de quien legalmente pueda disponer de las mismas, se le impondrán de cinco a veinte años de prisión y de noventa a mil quinientos días multa.
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
+Al que se apodere de una o más cabezas de ganado equino, bovino, caprino, ovino, porcino o sus híbridos, de una o más colonias de abejas en un apiario, sin consentimiento de quien legalmente pueda disponer de las mismas, se le impondrán de cinco a veinte años de prisión y de noventa a mil quinientos días multa.
 
 Quien se apodere de cualquier otra especie pecuaria no comprendida en el párrafo anterior, será sancionado de conformidad con el presente delito.
-
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2016)</small>
 
 El juez deberá ordenar el decomiso de los bienes que fueren utilizados como medio o instrumento para la comisión del ilícito.
 
@@ -3040,6 +3040,10 @@ A quien cometa el delito de feminicidio se le impondrán de cuarenta a setenta a
 En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
 
 Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+La pena se agravará hasta en una tercera parte, sin que pueda exceder la máxima establecida en este código, cuando la víctima sea menor de dieciocho años, adulta mayor, se encuentre embarazada, tenga alguna discapacidad, así como cuando el delito se cometa frente a sus hijas o hijos.
 
 En caso de que un servidor público retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia, se estará a lo dispuesto en el Título Vigésimo Primero, denominado Delitos Cometidos Contra la Procuración y Administración de Justicia.
 
@@ -5710,3 +5714,35 @@ El presente Decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL DOSCIENTOS CUARENTA Y NUEVE POR EL CUAL SE ADICIONA EL TERCER PÁRRAFO AL ARTÍCULO 174, Y SE REFORMAN LOS ARTÍCULOS 174 BIS Y 179 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente decreto al titular del Poder Ejecutivo del Estado para su publicación de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente decreto.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL DOSCIENTOS CINCUENTA Y UNO.- POR EL QUE SE ADICIONA UN CUARTO PÁRRAFO Y SE RECORRE EL SUBSECUENTE DEL ARTÍCULO 213 QUINTUS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al gobernador constitucional del estado para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos, como se dispone en los artículos 44, 70, fracción XVII, inciso a), y 147 de la Constitución Política del Estado Libre y Soberano de Morelos
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al contenido del presente Decreto.
