@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-entrega-recepcion-de-la-administracion-publica-para-8419
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-14"
-last_updated: "2023-02-08"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE MORELOS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de diciembre de 2011.
 
@@ -182,6 +182,10 @@ B. En el Poder Legislativo
 a) El Diputado o funcionario saliente;
 
 b) Los Diputados de la Comisión Instaladora o los funcionarios designados por las Secretarías: General, de Servicios Legislativos y Parlamentarios y de Administración y Finanzas del Congreso y, en su caso el funcionario entrante;
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+c) Un representante de la Entidad Superior de Auditoria y Fiscalización que la Ley establezca;
 
 III.- En los Municipios:
 
@@ -738,3 +742,13 @@ PRIMERA. Remítase el presente decreto al Gobernador Constitucional del Estado, 
 SEGUNDA. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al contenido del presente decreto.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO MIL DOSCIENTOS CINCUENTA Y DOS POR EL QUE SE ADICIONA EL INCISO C), DEL APARTADO B DE LA FRACCIÓN II DEL ARTÍCULO 11 DE LA LEY DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE MORELOS Y SUS MUNICIPIOS".]</small>
+
+PRIMERO.- Remítase el presente decreto al titular del Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad" órgano oficial de difusión del Gobierno del estado de Morelos, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión de Gobierno del Estado.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
