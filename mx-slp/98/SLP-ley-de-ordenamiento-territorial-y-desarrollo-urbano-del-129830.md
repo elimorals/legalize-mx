@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129830"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-17"
-last_updated: "2023-06-15"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de julio de 2018.
 
@@ -837,11 +837,19 @@ LIX. Resolver los recursos que sean interpuestos contra sus resoluciones de conf
 
 LX. Expedir y actualizar los Reglamentos municipales y demás disposiciones técnicas y administrativas para la aplicación de la presente Ley, considerando en ellos los fenómenos naturales a que se refiere la Ley del Sistema de Protección Civil del Estado de San Luis Potosí;
 
-LXI. Procurar que los instrumentos de planeación municipal en cualquiera de sus escalas, y los proyectos ejecutivos en todas la etapas de su proceso, se elaboren por especialistas en el tema correspondiente, y
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-LXII. Las demás que les señale esta Ley y otras disposiciones jurídicas federales y estatales.
+LXI. Procurar que los instrumentos de planeación municipal en cualquiera de sus escalas, y los proyectos ejecutivos en todas la (sic) etapas de su proceso, se elaboren por especialistas en el tema correspondiente;
 
-Los municipios ejercerán sus atribuciones en materia de planeación y administración del ordenamiento territorial y desarrollo urbano, a través del Instituto de Planeación Municipal, en su caso, y de la Dirección Municipal de Desarrollo Urbano, respectivamente, con la vigilancia y evaluación de los Cabildos, de conformidad con las lo (sic) disposiciones de la presente Ley.
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+LXII. Proteger y asegurar el cumplimiento de los derechos humanos relativos al ordenamiento territorial y al desarrollo urbano, de manera transversal e inclusiva, agrupados en la igualdad de acceso a infraestructuras, equipamientos, áreas verdes y servicios públicos de calidad; el derecho a la vivienda adecuada; el derecho a participar de las plusvalías, el derecho a vivir en un medio ambiente seguro y sano; el derecho a disfrutar de los espacios naturales, al patrimonio cultural y natural; y el uso sostenible de los recursos naturales, garantizando un desarrollo equilibrado económico, social y ambiental; y un sistema territorial integrado, ordenado, incluyente, resiliente y seguro, centrado en los derechos individuales y colectivos de las personas, pueblos y comunidades, con especial enfoque en aquellas que, por su identidad, género, condición de edad, discapacidad y situación de vulnerabilidad han sido excluidas del desarrollo territorial, y
+
+LXIII. Las demás que les señale esta Ley y otras disposiciones jurídicas federales y estatales.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+Los municipios ejercerán sus atribuciones en materia de planeación y administración del ordenamiento territorial y desarrollo urbano, a través del Instituto de Planeación Municipal, en su caso, y de la Dirección Municipal de Desarrollo Urbano o su equivalente, respectivamente, con la vigilancia y evaluación de los Cabildos, de conformidad con las disposiciones de la presente Ley.
 
 ### Capítulo VII. Coordinación y Concertación
 
@@ -7008,3 +7016,11 @@ P.O. 15 DE JUNIO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0858.- SE REFORMA EL ARTÍCULO 18 EN SU FRACCIÓN LXI Y EN SU ÚLTIMO PÁRRAFO; Y ADICIONA UNA FRACCIÓN AL MISMO ARTÍCULO 18, ÉSTA COMO LXII, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
