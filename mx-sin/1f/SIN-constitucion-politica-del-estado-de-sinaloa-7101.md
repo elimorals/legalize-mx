@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2023-08-11"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -383,9 +383,21 @@ IV. Preservar y enriquecer sus lenguas, conocimientos y todos los elementos que 
 
 V. Conservar y mejorar el hábitat y preservar la integridad de sus tierras en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución;
 
-VI. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en la Constitución Federal y en las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquellos que corresponden a las áreas estratégicas, en términos de la Constitución Política de los Estados Unidos Mexicanos. Para estos efectos las comunidades podrán asociarse en términos de ley; y
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-VII. Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus costumbres y especificidades culturales respetando los preceptos de la Constitución Política de los Estados Unidos Mexicanos y los previstos en esta Constitución. Las y los indígenas tienen en todo tiempo el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua y cultura.
+VI. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en la Constitución Federal y en las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquellos que corresponden a las áreas estratégicas, en términos de la Constitución Política de los Estados Unidos Mexicanos. Para estos efectos las comunidades podrán asociarse en términos de ley;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+VII. Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus costumbres y especificidades culturales respetando los preceptos de la Constitución Política de los Estados Unidos Mexicanos y los previstos en esta Constitución. Las y los indígenas tienen en todo tiempo el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua y cultura; y
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+VIII. Elegir, en los municipios con población indígena reconocida y declarada como pueblos y comunidades indígenas del Estado en la legislación respectiva, representantes ante los Ayuntamientos, observando el principio de paridad de género conforme a las normas aplicables.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VIII, P.O. 25 DE OCTUBRE DE 2023]</small>
+
+De conformidad con el artículo 115, fracción I, de la Constitución Federal, los representantes de los pueblos y comunidades indígenas no son integrantes de los Ayuntamientos. Su elección se realizará de acuerdo con sus normas, procedimientos y prácticas tradicionales, sin que les sean aplicables las reglas a las que se sujetan los procesos electorales locales.
 
 La ley establecerá las características de libre determinación y autonomía que mejor expresen las situaciones y aspiraciones de los pueblos indígenas en cada Municipio, así como las normas para el reconocimiento de las comunidades indígenas como entidades de interés público.
 
@@ -4796,3 +4808,13 @@ SEGUNDO. Se derogan todas las disposiciones que contravengan lo establecido en e
 TERCERO. En un plazo no mayor a los treinta días naturales siguientes a la entrada en vigor del presente Decreto, el H. Congreso del Estado de Sinaloa deberá realizar las adecuaciones correspondientes a la legislación estatal, con la finalidad de armonizar conforme al presente Decreto.
 
 CUARTO. Notifíquese a los Ayuntamientos para su aprobación, en los términos de lo dispuesto por el artículo 159 de la Constitución Política del Estado de Sinaloa.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 569 DEL H. CONGRESO DEL ESTADO.- POR EL QUE REFORMAN LAS FRACCIONES VI Y VII DEL QUINTO PÁRRAFO DE LA BASE A DEL ARTÍCULO 13 BIS; Y SE ADICIONA LA FRACCIÓN VIII A LA BASE A DEL QUINTO PÁRRAFO DEL ARTÍCULO 13 BIS, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Los Ayuntamientos con representación indígena deberán facilitar los elementos y recursos materiales que se requieran para el desempeño de las actividades esenciales e indispensables del representante indígena.
+
+TERCERO. En un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, este H. Congreso deberá llevar a cabo las reformas que se deriven del mismo.
