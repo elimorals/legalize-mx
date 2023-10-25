@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2023-10-12"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -771,13 +771,103 @@ Si el delito por el que se impuso la publicación de sentencia fue cometido por 
 
 El confinamiento consiste en la obligación de residir en determinado lugar y no salir de él.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
 ###### ARTICULO 58.
 
-Cuando algún miembro o representante de una persona jurídica, sociedad, corporación o empresa de cualquier clase, con excepción de las instituciones del Estado, cometa un delito con los medios que para tal objeto las mismas entidades les proporcionen, de modo que resulte cometido a nombre o bajo el amparo de la representación social o en beneficio de ella, el Juez podrá, con audiencia de la persona moral, aplicar las sanciones previstas en el inciso i) del Artículo 45.
+Para los efectos de lo previsto en el Capítulo II, Título X, del Libro Segundo del Código Nacional de Procedimientos Penales, a las personas jurídicas podrán imponérseles algunas o varias de las consecuencias jurídicas cuando hayan intervenido en la comisión de los siguientes delitos de este Código:
+
+I.- Atentados a la soberanía del Estado, previsto en el artículo 143;
+
+II.- Atentados contra los bienes fundamentales del Estado y sus municipios, previsto en el artículo 157 Quáter;
+
+III.- Ataques a las vías de comunicación y utilización indebida de los sistemas de auxilio a la población, previsto en el artículo 172;
+
+IV.- Expendio ilícito de bebidas alcohólicas, previsto en el artículo 189 Bis;
+
+V.- Impartición ilícita de educación, previsto en el artículo 189 Ter;
+
+VI.- Corrupción, pornografía, prostitución sexual de menores e incapaces y pederastia, previstos en los artículos 192, 194 Bis, 194 Ter y 198 Bis;
+
+VII.- Lenocinio, previsto en el artículo 199;
+
+VIII.- Comercialización del agua, previsto en el artículo 204;
+
+IX.- Acceso ilícito a sistemas y equipos de informática, previsto en los artículos 207 Bis, 207 Ter, 207 Quáter, 207 Quinquies y 207 Sexies;
+
+X.- Cohecho, previsto en el artículo 216;
+
+XI.- Peculado, previsto en el artículo 218;
+
+XII.- Tráfico de influencia, previsto en el artículo 228;
+
+XIII.- Enriquecimiento ilícito, previsto en el artículo 230;
+
+XIV.- Responsabilidad profesional, previsto en los artículos 235 y 241;
+
+XV.- Falsificación y uso de documentos públicos o privados, previsto en los artículos 250 y 251 Bis;
+
+XVI.- Falsedad en declaraciones y en informes dados a una autoridad, previsto en los artículos 254, 254 Bis, 255 y 257;
+
+XVII.- Robo de identidad, previsto en el artículo 263 Bis;
+
+XVIII.- Amenazas, discriminación y cobranza extrajudicial ilegal, previstos en los artículos 305, 307, 309 Bis y 309 Ter;
+
+XIX.- Manipulación genética, prevista en el artículo 328 Septies;
+
+XX.- Aborto, previsto en los artículos 356 y 358;
+
+XXI.- Privación ilegal de libertad y de otras garantías, previsto en los artículos 388 y 390;
+
+XXII.- Privación de libertad con fines sexuales, previsto en el artículo 390 Bis;
+
+XXIII.- Ciberacoso, previsto en el artículo 390 Ter;
+
+XXIV.- Fraude, previsto en los artículos 417, 418, 420 y 421 Bis;
+
+XXV.- Usura, previsto en el artículo 422;
+
+XXVI.- Extorsión, previsto en el artículo 426;
+
+XXVII.- Despojo de cosas inmuebles o de aguas, previsto en el artículo 427;
+
+XXVIII.- Encubrimiento, previsto en los artículos 439 y 441;
+
+XXIX.- Operaciones con recursos de procedencia ilícita, previsto en el artículo 443 Bis;
+
+XXX.- Encubrimiento por receptación, previsto en el artículo 443 Ter;
+
+XXXI.- Delitos cometidos por fraccionadores, previsto en el artículo 454;
+
+XXXII.- Delitos contra el medio ambiente y los recursos naturales, previsto en los artículos 459 y 461;
+
+XXXIII.- Contaminación de aguas, previsto en el artículo 464;
+
+XXXIV.- Substracción del suelo, previsto en el artículo 466; y
+
+XXXV.- Sustracción, apropiación del agua y otros delitos relacionados, previstos en los artículos 476, 477, 478, 479, 480 y 481.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 59.
 
-La suspensión de la Sociedad paraliza para el futuro, por todo el tiempo que dure la condena, toda nueva operación respecto a los fines para que fue constituída, sin perjuicio de cumplir con las obligaciones contraídas con anterioridad, y realizar los actos de administración necesarios para su conservación.
+Para los efectos del artículo 422 del Código Nacional de Procedimientos Penales, se estará a los siguientes límites de punibilidad para las consecuencias jurídicas de las personas jurídicas:
+
+a).- Suspensión de actividades, por un plazo de entre seis meses a seis años;
+
+b).- Clausura de locales y establecimientos, por un plazo de entre seis meses a seis años;
+
+c).- Prohibición de realizar en el futuro las actividades en cuyo ejercicio se haya cometido o participado en su comisión, por un plazo de entre seis meses a diez años;
+
+d).- Inhabilitación temporal consistente en la suspensión de derechos para participar de manera directa o por interpósita persona en procedimientos de contratación o celebrar contratos regulados por la Ley de Adquisiciones para la Administración Pública del Estado de Tamaulipas y sus Municipios, así como por la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Tamaulipas, por un plazo de entre seis meses a seis años; y
+
+e).- Intervención judicial para salvaguardar los derechos de los trabajadores o de los acreedores en un plazo de entre seis meses a seis años.
+
+La intervención judicial podrá afectar a la totalidad de la organización o limitarse a alguna de sus instalaciones, secciones o unidades de negocio. Se determinará exactamente el alcance de la intervención y quién se hará cargo de la misma, así como los plazos en que deberán realizarse los informes de seguimiento para el órgano judicial. La intervención judicial se podrá modificar o suspender en todo momento previo informe del interventor y del Ministerio Público. El interventor tendrá derecho a acceder a todas las instalaciones y locales de la empresa o persona jurídica, así como a recibir cuanta información estime necesaria para el ejercicio de sus funciones. La legislación aplicable determinará los aspectos relacionados con las funciones del interventor y su retribución respectiva.
+
+(NOTA: EL 17 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 221/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE OCTUBRE DE 2023, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 65-664, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+EN TODOS LOS SUPUESTOS PREVISTOS EN EL ARTÍCULO 422 DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, las sanciones podrán atenuarse hasta en una cuarta parte, si con anterioridad al hecho que se les imputa, las personas jurídicas contaban con un órgano de control permanente, encargado de verificar el cumplimiento de las disposiciones legales aplicables para darle seguimiento a las políticas internas de prevención delictiva y que hayan realizado antes o después del hecho que se les imputa, la disminución del daño provocado por el hecho típico.
 
 ###### ARTICULO 60.
 
@@ -785,11 +875,11 @@ Las personas morales a que se refiere el artículo 58, aun después de disueltas
 
 ###### ARTICULO 61.
 
-La intervención consiste en remover a los administradores de la persona jurídica, encargando su función, temporalmente, a un interventor designado por el Juez, intervención que cesará cuando los órganos de la empresa substituyan a las personas que habían cometido el hecho delictuoso. El Juez, en su caso, convocará a la celebración de las asambleas o reuniones señaladas por la Ley.
+(DEROGADO, P.O. 25 DE OCTUBRE DE 2023)
 
 ###### ARTICULO 62.
 
-El juez podrá prohibir a las personas jurídicas la realización de determinadas operaciones, según lo amerite el caso, y lo resolverá en sentencia.
+(DEROGADO, P.O. 25 DE OCTUBRE DE 2023)
 
 ###### ARTICULO 63.
 
@@ -7344,6 +7434,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 12 DE OCTUBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-658 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 276 QUATER, PÁRRAFO PRIMERO, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-664 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 58 Y 59; Y SE DEROGAN LOS ARTÍCULOS 61 Y 62, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
