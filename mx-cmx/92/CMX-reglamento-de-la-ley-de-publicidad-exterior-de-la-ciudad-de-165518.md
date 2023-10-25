@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-publicidad-exterior-de-la-ciudad-de-165
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-04-11"
-last_updated: "2023-04-11"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165518&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2023-03-24"
 
 REGLAMENTO DE LA LEY DE PUBLICIDAD EXTERIOR DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Reglamento publicado en el Número 1081 de la Gaceta Oficial de la Ciudad de México, el martes 11 de abril de 2023.
 
@@ -122,7 +122,9 @@ Queda prohibida la instalación de luz led tipo neón en medios publicitarios, s
 
 Las personas titulares de las Licencias, Permisos y Autorizaciones de los medios publicitarios que se señalan a continuación, deberán:
 
-I. En autosoportados y muros ciegos de colindancia que cuenten con aprobación para su permanencia; cambio de modalidad y/o reubicación; tapiales, vallas, carteleras publicitarias en muro ciego de planta baja; medio publicitario de información cívico cultural y tótems, colocar una placa en la parte baja de la cartelera que abarque el 5% del área del medio publicitario que contenga:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 25 DE OCTUBRE DE 2023)</small>
+
+I. En autosoportados y muros ciegos de colindancia que cuenten con aprobación para su permanencia; cambio de modalidad y/o reubicación; tapiales, vallas, carteleras publicitarias en muro ciego de planta baja; medio publicitario de información cívico cultural y tótems, colocar una placa debajo de la cartelera cuya dimensión equivalga al 3% del área de exhibición del medio publicitario que contenga:
 
 a) Logo de la empresa publicista cuya proporción sea de por lo menos el 20% de la placa;
 
@@ -256,7 +258,9 @@ III. Requerir el retiro de los medios publicitarios instalados en contravención
 
 IV. Realizar las acciones administrativas pertinentes para lograr el retiro de los medios publicitarios señalados en el numeral anterior, tales como avisos comunicados, circulares o cualquier otro;
 
-V. Suscribir los instrumentos jurídicos que se requieran con motivo de las atribuciones con las que cuente en la materia; y
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2023)</small>
+
+V. Suscribir los instrumentos jurídicos que se requieran con motivo de las atribuciones con las que cuente en la materia, así como celebrar convenios con otras instituciones del Gobierno; y
 
 VI. Las demás que le sean encomendadas por la persona titular de la Secretaría para la aplicación de la Ley, el presente Reglamento y lo dispuesto por otros ordenamientos aplicables en la materia.
 
@@ -890,7 +894,9 @@ La luminosidad deberá medirse de forma perpendicular al medio publicitario, a u
 
 En los medios publicitarios con pantalla electrónica queda prohibido:
 
-a) La exhibición de videos o animaciones con duración menor a 10 segundos;
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2023)</small>
+
+a) La exhibición de videos o animaciones.
 
 b) Que contengan sonido;
 
@@ -1009,6 +1015,10 @@ XIV. Firma del Director Responsable de Obra o Corresponsable en Seguridad Estruc
 Tratándose de medios publicitarios denominativos masivos se deberá ingresar una sola solicitud.
 
 La documentación señalada en el presente artículo deberá contener la firma autógrafa de la persona solicitante y exhibirse además en formato electrónico.
+
+> <small>(ADICIONADO, G.O. 25 DE OCTUBRE DE 2023)</small>
+
+La Secretaría continuará con la tramitación de las solicitudes de Licencia aún en los supuestos en los que no se haya presentado el recibo de pago de derechos, pero emitirá una prevención a la persona promovente previo a la emisión de la Licencia para que exhiba el recibo correspondiente. En los casos en los que no se atienda la prevención se dará por concluido el trámite.
 
 ###### Artículo 70.
 
@@ -1422,6 +1432,12 @@ Previo a la aplicación de alguna de las sanciones consideradas en el presente R
 
 Para la aplicación de las sanciones se tomarán en cuenta los elementos previstos en la Ley de Procedimiento Administrativo aplicable en la Ciudad de México.
 
+> <small>(ADICIONADO, G.O. 25 DE OCTUBRE DE 2023)</small>
+
+Artículo 101 BIS. La Secretaría podrá solicitar la colaboración, así como suscribir convenios con otras instituciones de Gobierno para hacer efectivas las determinaciones o cualquier otro tipo de acto jurídico en materia de publicidad que dicten las autoridades Administrativas o jurisdiccionales de la Ciudad de México, tales como medidas cautelares, de seguridad y sanciones, entre otras.
+
+Las personas que se encuentren inscritas en el Registro de Publicistas podrán acordar con la Secretaría el retiro, a título gratuito, de los medios publicitarios que no se encuentren en el Catálogo Oficial o que se encuentren instalados de manera ilegal.
+
 ###### Artículo 102.
 
 De conformidad con lo previsto en el Título Cuarto de la Ley de Procedimiento Administrativo de la Ciudad de México, las personas a quiénes se les imponga alguna de las sanciones previstas en el presente Reglamento, podrán a su elección, interponer el recurso de inconformidad o intentar el juicio de nulidad ante el Tribunal de Justicia de (sic) Administrativa de la Ciudad de México.
@@ -1439,3 +1455,15 @@ CUARTO.- La Secretaría de Movilidad de la Ciudad de México contará con un té
 QUINTO.- La permanencia de medios publicitarios denominativos autosoportados prevista en el artículo 33 del Reglamento de la Ley de Publicidad Exterior de la Ciudad de México, deberá tramitarse dentro de los seis meses contados a partir del día siguiente a (sic) fecha de entrada en vigor del mismo.
 
 Dado en la sede de la Jefatura de Gobierno de la Ciudad de México, a los 24 días del mes de marzo de 2023.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE GOBIERNO, MARTÍ BATRES GUADARRAMA.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZALES ESCOBAR.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, CARLOS ALBERTO ULLOA PÉREZ.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS - FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 6, 13, 63, 69; Y SE ADICIONA EL ARTÍCULO 101 BIS DEL REGLAMENTO DE LA LEY DE PUBLICIDAD EXTERIOR DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Las referencias a anuncios realizadas en el Código Fiscal de la Ciudad de México y en otros ordenamientos se entenderán hechas a los medios publicitarios considerados como tales en la Ley de Publicidad Exterior de la Ciudad de México.
