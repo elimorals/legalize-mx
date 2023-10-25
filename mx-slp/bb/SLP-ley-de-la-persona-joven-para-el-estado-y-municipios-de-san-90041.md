@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-persona-joven-para-el-estado-y-municipios-de-san-9004
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-20"
-last_updated: "2023-02-09"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de octubre de 2012.
 
@@ -93,17 +93,21 @@ I. Autoridades: organismos e instituciones públicas encargados de la aplicació
 
 II. Consejo: Consejo de Participación Juvenil, Seguimiento y Evaluación;
 
-III. Identidades juveniles: conjunto de elementos culturales, económicos, sociales y simbólicos a través de los cuales la persona joven construye y define su pertenencia en la sociedad, y las acciones que realiza para constituirse en sujeto dentro de ella;
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-IV. Instituto: Instituto Potosino de la Juventud;
+III. Consejo Municipal: Consejo Ciudadano Juvenil Municipal;
 
-V. Ley: Ley de la Persona Joven para el Estado y Municipios de San Luis Potosí;
+IV. Identidades juveniles: conjunto de elementos culturales, económicos, sociales y simbólicos a través de los cuales la persona joven construye y define su pertenencia en la sociedad, y las acciones que realiza para constituirse en sujeto dentro de ella;
 
-VI. Participación Política: actividad orientada en forma ideológica a la toma decisiones de las personas jóvenes para alcanzar ciertos objetivos;
+V. Instituto: Instituto Potosino de la Juventud;
 
-VII. Progresividad: elemento inherente a la obligación que tienen autoridades y, en su caso, particulares, para realizar todas aquellas acciones previstas y emanadas en la presente Ley, tratados internacionales y demás disposiciones jurídicas aplicables, el cual consiste en adoptar medidas hasta el máximo de sus recursos disponibles, a efecto de que se llegue a cumplir cabalmente con tales obligaciones, y
+VI. Ley: Ley de la Persona Joven para el Estado y Municipios de San Luis Potosí;
 
-VIII. PROJUVE: Programa Integral para el Desarrollo de la Juventud.
+VII. Participación Política: actividad orientada en forma ideológica a la toma decisiones de las personas jóvenes para alcanzar ciertos objetivos;
+
+VIII. Progresividad: elemento inherente a la obligación que tienen autoridades y, en su caso, particulares, para realizar todas aquellas acciones previstas y emanadas en la presente Ley, tratados internacionales y demás disposiciones jurídicas aplicables, el cual consiste en adoptar medidas hasta el máximo de sus recursos disponibles, a efecto de que se llegue a cumplir cabalmente con tales obligaciones, y
+
+IX. PROJUVE: Programa Integral para el Desarrollo de la Juventud.
 
 ###### ARTICULO 6.
 
@@ -637,9 +641,13 @@ VII. Generar las políticas públicas para la atención de la juventud y la prev
 
 VIII. Establecer una Instancia municipal de Juventud, misma que, desde la perspectiva municipal será el área especializada en atender a dicho sector, a la par de trabajar en coordinación con el Instituto para establecer programas y acciones que permitan un desarrollo integral de la juventud;
 
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+IX. Constituir el Consejo Municipal de seguimiento de políticas públicas en materia de juventud;
+
 > <small>(ADICIONADA [N. DE E. CON SUS INCISOS Y PÁRRAFOS], P.O. 9 DE JULIO DE 2020)</small>
 
-IX. Constituir un consejo ciudadano de seguimiento de políticas públicas en materia de juventud, que tendrá por objeto:
+X. Constituir un consejo ciudadano de seguimiento de políticas públicas en materia de juventud, que tendrá por objeto:
 
 a) Participar con la instancia municipal de la juventud, mediante la presentación de propuestas y opiniones, en el diseño e implementación de las políticas públicas dirigidas a las personas jóvenes, así como en su seguimiento y evaluación.
 
@@ -653,7 +661,25 @@ El consejo ciudadano será honorífico por lo cual sus integrantes no percibirá
 
 El consejo ciudadano actuará de forma colegiada bajo la dirección de un presidente que será electo por sus integrantes. Para el desarrollo de sus actividades se requerirá la presencia de la mitad más uno de sus integrantes, y para la validez de sus acuerdos se requerirá el voto de la mayoría de sus integrantes presentes, en caso de empate el presidente tendrá voto de calidad, y
 
-X. Las demás que le otorgue esta Ley y demás ordenamientos aplicables.
+XI. Las demás que le otorgue esta Ley y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 49 BIS. El Consejo Municipal es el órgano de consulta que instrumenta e impulsa una política de juventud que permita incorporar a las y los jóvenes en el desarrollo integral del Municipio, y tiene por objeto:
+
+I. Participar con la instancia municipal de la juventud, en la presentación de propuestas y opiniones, para el diseño e implementación de las políticas públicas dirigidas a las personas jóvenes, así como en su seguimiento y evaluación;
+
+II. Formular observaciones, opiniones y recomendaciones para la adecuación o modificación de los planes y programas implementados en materia de juventud, y
+
+III. Recabar la opinión de las personas jóvenes de la municipalidad, respecto de las políticas públicas implementadas en materia de juventud, y presentarlas para su conocimiento al titular de la instancia municipal de la juventud, generando, en su caso, las propuestas correspondientes.
+
+El consejo municipal se integrará por veinte consejeras y consejeros propietarios; y veinte consejeras y consejeros suplentes; que deben ser personas jóvenes mayores de edad, atendiendo a los principios de paridad de género, igualdad, y no discriminación, serán seleccionadas por el Cabildo de conformidad con la convocatoria pública que al efecto emita, misma que deberá ser difundida ampliamente entre la población del Municipio.
+
+El consejo municipal será honorífico por lo que sus integrantes no percibirán retribución, emolumento o compensación alguna; y se desempeñarán por un período improrrogable de dos años.
+
+El Consejo Municipal deberá instalarse en un plazo no mayor a 120 días naturales al inicio de la administración municipal; una vez instalado, la instancia municipal de la juventud dará vista al Instituto para actualizar la base de datos de los consejos municipales.
+
+El Consejo Municipal actuará de forma colegiada bajo la dirección de una presidenta o presidente que se elegirá por quienes lo conforman. Para el desarrollo de sus actividades se requerirá la presencia de la mitad más uno de sus miembros, y para la validez de sus acuerdos se requerirá el voto de la mayoría de sus integrantes presentes, en caso de empate la persona que preside tendrá voto de calidad.
 
 ###### ARTICULO 50.
 
@@ -949,13 +975,19 @@ XIV. Realizar e incentivar estudios e investigaciones de la problemática y cara
 
 XV. Fungir como representante del Ejecutivo del Estado en materia de la juventud, ante los ámbitos de gobierno federal y municipal, organizaciones privadas, sociales y organismos internacionales; así como en foros, convenciones, encuentros y demás reuniones en las que el Titular del Ejecutivo solicite su participación;
 
-XVI. Promover campañas para la difusión de los derechos de las personas jóvenes en el Estado de San Luis Potosí, y
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
+XVI. Promover campañas para la difusión de los derechos de las personas jóvenes en el Estado de San Luis Potosí;
 
-XVII. Concertar acuerdos y convenios de colaboración y coordinación con la Dirección General de Ejecución de Medidas para Menores, adscrita a la Secretaría de Seguridad y Protección Ciudadana, para la implementación de los mecanismos de ejecución de medidas de orientación y protección de los jóvenes menores, y
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-XVIII. Las demás que señalen otras disposiciones legales y el Reglamento.
+XVII. Concertar acuerdos y convenios de colaboración y coordinación con la Dirección General de Ejecución de Medidas para Menores, adscrita a la Secretaría de Seguridad y Protección Ciudadana, para la implementación de los mecanismos de ejecución de medidas de orientación y protección de los jóvenes menores;
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+XVIII. Realizar el padrón del Consejo Municipal, el cual deberá estar actualizado anualmente, y
+
+XIX. Las demás que señalen otras disposiciones legales y el Reglamento.
 
 ### CAPITULO II. DE LA ESTRUCTURA ORGANICA DEL INSTITUTO
 
@@ -1141,9 +1173,15 @@ XXI. Las demás que le asigne este ordenamiento, la Junta Directiva y otras disp
 
 ### CAPITULO IV. DEL CONSEJO DE PARTICIPACION JUVENIL, EVALUACION Y SEGUIMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
 ###### ARTICULO 79.
 
-El Consejo de Participación Juvenil, Evaluación y Seguimiento tiene las siguientes facultades y obligaciones:
+El Consejo de Participación Juvenil, Evaluación y Seguimiento es un órgano colegiado, ciudadano, plural, e incluyente, conformado por jóvenes que residan en el Estado, encargado de representar a la juventud en el diseño y revisión de las políticas públicas en el Estado, con el fin de mejorarlas.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE OCTUBRE DE 2023)</small>
+
+El Consejo tendrá las siguientes facultades y obligaciones:
 
 I. Participar en el diseño, evaluación y vigilancia del PROJUVE;
 
@@ -1153,19 +1191,29 @@ III. Formular sugerencias a los poderes públicos sobre la situación y la probl
 
 IV. Colaborar con la Dirección y la Junta Directiva en la realización de estudios, emisión de informes y otras actividades relacionadas con la problemática e intereses de las juventudes que les sean solicitados, o acuerde realizar por propia iniciativa;
 
-V. Proponer las medidas que considere adecuadas para mejorar la calidad de vida de las personas jóvenes y fomentar su participación en la vida pública, y
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-VI. Coadyuvar con la Dirección General en el fomento de la participación y el asociacionismo juvenil, promoviendo estrategias para el fortalecimiento de los colectivos juveniles.
+V. Proponer las medidas que considere adecuadas para mejorar la calidad de vida de las personas jóvenes y fomentar su participación en la vida pública;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+VI. Coadyuvar con la Dirección General en el fomento de la participación y el asociacionismo juvenil, promoviendo estrategias para el fortalecimiento de los colectivos juveniles, y
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+VII. Trabajar coordinadamente con los Consejos Municipales para recabar opiniones respecto de las políticas públicas implementadas en materia de juventud, para informar, recomendar y proponer un continuo mejoramiento a la Dirección General y a la Junta Directiva.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 80.
 
-El Consejo estará formado por veinte consejeros propietarios, y veinte consejeros suplentes, todas y todos, personas jóvenes que se encuentren desarrollando un trabajo de impacto comunitario; los que serán elegidos mediante convocatoria pública.
+Para ser integrante del Consejo se requiere:
 
-Adicionalmente se establecerán los siguientes requisitos exigidos a las personas jóvenes candidatos para su elección:
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-I. Ser ciudadano mexicano, nacido en San Luis Potosí;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+I. Tener ciudadanía potosina;
 
 II. Tener entre 12 a 29 años;
 
@@ -1380,3 +1428,11 @@ P.O. 9 DE FEBRERO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis “.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente Decreto.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0857.- SE REFORMAN LOS ARTÍCULOS 68 SUS FRACCIONES XVI Y XVII, 79 SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES V Y VI, 8o EN SU PÁRRAFO PRIMERO Y EN SU FRACCIÓN I; ADICIONA A Y LOS ARTÍCULOS 5 UNA FRACCIÓN, ÉSTA COMO III, 49 UNA FRACCIÓN, ÉSTA COMO IX, 49 BIS, 68 UNA FRACCIÓN, ÉSTA COMO XVIII Y 79 EL PÁRRAFO SEGUNDO Y LA FRACCIÓN VII; Y DEROGA DEL ARTÍCULO 8o EL PÁRRAFO SEGUNDO, DE LA LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
