@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-la-juventud-35835"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2022-06-10"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -161,7 +161,9 @@ XVII. Promover, procurar y velar, en el ámbito de su competencia, que los jóve
 
 XVIII. Diseñar, en la esfera de su competencia, estrategias tendientes a prevenir, atender y erradicar la violencia entre los jóvenes y el abuso hacia ellos, así como para combatir las prácticas de violación a sus derechos;
 
-XIX. Fomentar, en coordinación con las instancias competentes, la formulación e implementación de programas preventivos, de tratamiento y de rehabilitación en materia de adicciones, así como en educación sexual y salud reproductiva, entre otros;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+XIX. Fomentar, en coordinación con las instancias competentes, la formulación e implementación de programas preventivos, de tratamiento y de rehabilitación en materia de adicciones, así como en educación sexual, salud reproductiva y salud mental entre otros;
 
 XX. Promover la participación de los jóvenes en proyectos productivos del sector público y privado;
 
@@ -660,3 +662,9 @@ P.O. 10 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 156. SE REFORMA POR MODIFICACIÓN LAS FRACCIONES V Y VI, Y SE ADICIONA UNA FRACCIÓN VII, DEL ARTÍCULO 4 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA POR MODIFICACIÓN LA FRACCIÓN VI Y SE ADICIONA UNA FRACCIÓN VII DEL ARTÍCULO 4 Y POR ADICIÓN DE UN CAPÍTULO QUINTO DE LA LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 428. SE REFORMAN LAS FRACCIONES II, VII, VIII DEL ARTÍCULO 15, LOS ARTÍCULOS 16, 25 Y 37; Y SE ADICIONA LAS FRACCIONES IX Y X AL ARTÍCULO 15, TODOS DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN LA FRACCIÓN XIX DEL ARTÍCULO 5 DE LA LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
