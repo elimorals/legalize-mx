@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-fiscalia-general-del-estado-de-michoacan-134
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-02-19"
-last_updated: "2019-02-19"
+last_updated: "2023-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Ley publicada en la Octava Sección al Número 89 del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 19 de febrero de 2019.
 
@@ -550,6 +550,10 @@ XXVI. Resolver los casos de duda que se susciten con motivo de la interpretació
 XXVII. Participar en la administración del Fondo Auxiliar de la Fiscalía, así como emitir las disposiciones aplicables, respecto de la constitución y administración de fondos que le competan, en los términos de esta ley;
 
 XXVIII. Instruir o autorizar al personal de la Fiscalía General para colaborar con otras autoridades en el desempeño de una o varias funciones, siempre y cuando sean compatibles con las que correspondan a la Fiscalía General. El personal autorizado, en los términos antes señalados, no quedará, por este hecho, comisionado con las autoridades a quienes auxilie;
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+Además, instruirá lo necesario para prestar los servicios de la Fiscalía en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes de manera permanente, destinando recursos humanos y materiales suficientes para ello;
 
 XXIX. Conceder y revocar licencias al personal de la Fiscalía General, en los términos de los ordenamientos aplicables;
 
@@ -1180,3 +1184,23 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN>>.- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 18 dieciocho días del mes de febrero de 2019 dos mil diecinueve.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.-ING SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- ING. PASCUAL SIGALA PÁEZ.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 465.-ARTÍCULO PRIMERO.- SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 90 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN.- ARTÍCULO SEGUNDO.- SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XXVIII DEL ARTÍCULO 30 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MICHOACÁN.- ARTÍCULO TERCERO.- SE REFORMAN LOS ARTÍCULOS 70, 71, 73 Y 77, SE ADICIONA EL CAPÍTULO XXX BIS DENOMINADO: CENTROS DE ATENCIÓN Y JUSTICIA PARA NIÑAS, NIÑOS Y ADOLESCENTES, Y LOS ARTÍCULOS 89 BIS, 89 TER Y 89 QUÁTER A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO CUARTO.- SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 37 DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO QUINTO.- SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 9° DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEXTO.-. (SIC) SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 13 DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO.- ARTÍCULO SÉPTIMO.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 6° DE LA LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE MICHOACÁN".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. La Secretaría de Gobierno coordinará los trabajos interinstitucionales a efecto de que el Centro de Atención y Justicia para Niñas, Niños y Adolescentes de la ciudad de Morelia comience a operar a más tardar dentro de los 180 días naturales siguientes a 1a entrada en vigor del presente Decreto. El Gobernador del Estado deberá designar al Director General a la entrada en funciones de este Centro, que será el encargado de la administración general de todos aquellos Centros al interior del Estado conforme se disponga en los lineamientos de coordinación a que alude el siguiente transitorio.
+
+Se deberán emitir lineamientos de coordinación que acuerden los titulares de los poderes, organismos autónomos, entidades y dependencias que forman parte del Centro, mismos que serán publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, sin menoscabo de la normatividad reglamentaria que se expida por cada autoridad para su personal y funciones.
+
+Para tal efecto y conforme al principio de prioridad de la niñez y adolescencia, se autoriza a los poderes Ejecutivo y Judicial de Michoacán, así como a las autoridades y organismos autónomos referidos en el presente Decreto, realizar las modificaciones conducentes en materia administrativa, reglamentaria y presupuestaria para dar cumplimiento al presente Decreto.
+
+El Consejo del Poder Judicial y el Titular del Poder Ejecutivo del Estado de Michoacán y su Secretaría de Gobierno, dispondrán realizar las adecuaciones reglamentarias, administrativas y presupuestales necesarias para la adscripción de los Centros de Atención y Justicia para Niñas, Niños y Adolescentes en dicha dependencia. Igualmente, la Fiscalía General de Justicia, la Comisión Estatal de los Derechos Humanos, la Comisión Estatal de Atención a Víctimas y Ayuntamientos, todos del Estado de Michoacán de Ocampo, así como las secretarías de Seguridad Pública y de Salud del Gobierno del Estado y el Sistema Estatal DIF realizarán las adecuaciones reglamentarias, administrativas y presupuestales necesarias para prestar sus servicios en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes, conforme al presente Decreto.
+
+Tercero. Conforme al principio de prioridad de la niñez y adolescencia, el Congreso del Estado de Michoacán, en el Presupuesto de Egresos inmediato posterior a la entrada en vigor del presente Decreto, al menos deberá destinar los recursos necesarios para la operación y funcionamiento de un Centro de Atención y Justicia para Niñas, Niños y Adolescentes en cada distrito judicial en el Estado. Los organismos autónomos y las autoridades vinculadas por el presente Decreto, también incluirán en su proyecto de Presupuesto los recursos necesarios.
+
+Lo anterior, no será impedimento para que dichos Centros comiencen a operar conforme al artículo segundo transitorio del presente Decreto, con los recursos con que cuenten los poderes Ejecutivo y Judicial y los organismos autónomos a la fecha.
