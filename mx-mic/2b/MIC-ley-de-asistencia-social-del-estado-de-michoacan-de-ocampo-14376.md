@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-asistencia-social-del-estado-de-michoacan-de-ocampo-1437
 country: "mx"
 rank: "ley"
 publication_date: "1987-05-14"
-last_updated: "2023-09-25"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 14 de mayo de 1987.
 
@@ -213,7 +213,9 @@ II. Apoyar el desarrollo de la familia y de la comunidad;
 
 III. Realizar acciones de apoyo educativo, para la integración social y de capacitación para el trabajo, a los sujetos de la asistencia social;
 
-IV. Promover e impulsar el sano crecimiento físico, mental y social de la niñez;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+IV. Promover e impulsar el sano crecimiento físico, mental y social de la niñez. Una de las acciones, para este fin, será prestar sus servicios de manera permanente en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes, destinando recursos humanos y materiales suficientes para ello;
 
 V. Atender las funciones de auxilio que realicen las instituciones de beneficencia privada con sujeción a lo que disponga la Ley relativa;
 
@@ -666,3 +668,21 @@ P.O. 25 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 443 POR EL QUE "SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 5° DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 465 POR EL QUE “SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 9° DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. La Secretaría de Gobierno coordinará los trabajos interinstitucionales a efecto de que el Centro de Atención y Justicia para Niñas, Niños y Adolescentes de la ciudad de Morelia comience a operar a más tardar dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto. El Gobernador del Estado deberá designar al Director General a la entrada en funciones de este Centro, que será el encargado de la administración general de todos aquellos Centros al interior del Estado conforme se disponga en los lineamientos de coordinación a que alude el siguiente transitorio.
+
+Se deberán emitir lineamientos de coordinación que acuerden los titulares de los poderes, organismos autónomos, entidades y dependencias que forman parte del Centro, mismos que serán publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, sin menoscabo de la normatividad reglamentaria que se expida por cada autoridad para su personal y funciones.
+
+Para tal efecto y conforme al principio de prioridad de la niñez y adolescencia, se autoriza a los poderes Ejecutivo y Judicial de Michoacán, así como a las autoridades y organismos autónomos referidos en el presente Decreto, realizar las modificaciones conducentes en materia administrativa, reglamentaria y presupuestaria para dar cumplimiento al presente Decreto.
+
+El Consejo del Poder Judicial y el Titular del Poder Ejecutivo del Estado de Michoacán y su Secretaría de Gobierno, dispondrán realizar las adecuaciones reglamentarias, administrativas y presupuestales necesarias para la adscripción de los Centros de Atención y Justicia para Niñas, Niños y Adolescentes en dicha dependencia. Igualmente, la Fiscalía General de Justicia, la Comisión Estatal de los Derechos Humanos, la Comisión Estatal de Atención a Víctimas y Ayuntamientos, todos del Estado de Michoacán de Ocampo, así como las secretarías de Seguridad Pública y de Salud del Gobierno del Estado y el Sistema Estatal DIF realizarán las adecuaciones reglamentarias, administrativas y presupuestales necesarias para prestar sus servicios en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes, conforme al presente Decreto.
+
+Tercero. Conforme al principio de prioridad de la niñez y adolescencia, el Congreso del Estado de Michoacán, en el Presupuesto de Egresos inmediato posterior a la entrada en vigor del presente Decreto, al menos deberá destinar los recursos necesarios para la operación y funcionamiento de un Centro de Atención y Justicia para Niñas, Niños y Adolescentes en cada distrito judicial en el Estado. Los organismos autónomos y las autoridades vinculadas por el presente Decreto, también incluirán en su proyecto de Presupuesto los recursos necesarios.
+
+Lo anterior, no será impedimento para que dichos Centros comiencen a operar conforme al artículo segundo transitorio del presente Decreto, con los recursos con que cuenten los poderes Ejecutivo y Judicial y los organismos autónomos a la fecha.
