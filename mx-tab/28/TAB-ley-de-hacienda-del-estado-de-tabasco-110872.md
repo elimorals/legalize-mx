@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-110872"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-30"
-last_updated: "2022-12-28"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 2015.
 
@@ -6121,6 +6121,12 @@ en el Centro de Investigaciones de la Cultura
 
 Olmeca y Maya, por mes. 118.36 UMA
 
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+XX. Con la finalidad de promover el Registro correspondiente, se fijan las siguientes tarifas:
+
+a) Inscripción al Padrón Estatal de Artesanas y Artesanos: 0.00 UMA.
+
 El buen uso y cuidado de los bienes objeto de los servicios prestados por la Secretaría de Cultura, será responsabilidad de los solicitantes de los mismos; al finalizar la prestación del servicio la Secretaría de Cultura, a través de la unidad competente verificará el estado de los bienes, con la finalidad de constatar que no existan daños, deterioros o detrimentos distintos a los causados por el paso del tiempo. Dicha verificación se practicará en presencia del contribuyente y deberá estar debidamente circunstanciada, cumpliendo con las formalidades establecidas en el derecho común para las inspecciones judiciales.
 
 Para el caso en que existan daños, deterioros o detrimentos distintos a los causados por el paso del tiempo, estarán a cargo del contribuyente.
@@ -8806,3 +8812,19 @@ Tabasco, para
 el ejercicio 2023.
 
 A partir del 1 de febrero de 2023, a los licenciatarios que no efectúen el pago del refrendo antes señalado, se les aplicará lo establecido en la Ley que Regula la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco y su Reglamento, sin perjuicio de los recargos, actualizaciones, gastos de ejecución y honorarios que en su caso se generen, de conformidad con el Código Fiscal del Estado de Tabasco.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 172 POR EL QUE "SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 98-C, DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor a los 180 días a partir de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+TERCERO. La persona titular del Poder Ejecutivo del Estado, expedirá el Reglamento de la presente Ley en un plazo no mayor a 180 días a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Cuando en otras disposiciones legales se dé una denominación distinta a alguna Dependencia o entidad cuyas funciones quedan establecidas en la Ley de Fomento y Protección Artesanal del Estado de Tabasco, se entenderán concedidas para su ejercicio a la Dependencia que determine esa Ley.
+
+QUINTO. En tanto se expiden los nuevos ordenamientos, que regulen aspectos sustantivos y adjetivos de este mandato, seguirán aplicándose en lo conducente en todo lo que no se opongan a la Ley de Fomento y Protección Artesanal del Estado de Tabasco, las disposiciones legales, tanto reglamentarias como administrativas que regulaban los actos previstos en la Ley que se expide.
+
+SEXTO. La Secretaría, con el auxilio del Instituto para el Fomento de las Artesanías de Tabasco, contará con seis meses posteriores a la publicación de la Ley de Fomento y Protección Artesanal del Estado de Tabasco, para la elaboración del Padrón Estatal de Artesanas y Artesanos.
