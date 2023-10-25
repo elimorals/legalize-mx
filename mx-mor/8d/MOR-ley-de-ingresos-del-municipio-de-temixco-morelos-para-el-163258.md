@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ingresos-del-municipio-de-temixco-morelos-para-el-163258
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2023-01-02"
-last_updated: "2023-01-02"
+last_updated: "2023-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=163258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE INGRESOS DEL MUNICIPIO DE TEMIXCO, MORELOS, PARA EL EJERCICIO FISCAL DEL 01 DE ENERO AL 31 DE DICIEMBRE DE 2023
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE COCTUBRE DE 2023.
 
 Ley publicada en la Segunda Sección Extraordinaria del Periódico Oficial del Estado de Morelos, el lunes 2 de enero de 2023.
 
