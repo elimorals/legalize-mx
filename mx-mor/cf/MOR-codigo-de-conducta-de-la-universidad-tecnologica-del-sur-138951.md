@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-universidad-tecnologica-del-sur-138951
 country: "mx"
 rank: "codigo"
 publication_date: "2019-08-07"
-last_updated: "2019-08-08"
+last_updated: "2023-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLOGICA DEL SUR DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TERCERA TRANSITORIA DEL CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLÓGICA DEL SUR DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 25 DE OCTUBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLÓGICA DEL SUR DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 8 DE AGOSTO DE 2019 NO APLICA AL ARTICULADO DEL NÚMERO 5732 PUBLICADO EN EL P.O. DE 7 DE AGOSTO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023 (ABROGADO).
 
 Código publicado al Número 5732 en el Periódico Oficial del Estado de Morelos, el miércoles 7 de agosto de 2019.
 
@@ -638,3 +638,15 @@ LIC. KARLA FABIOLA TOLEDO BETANCOURT
 RÚBRICAS.
 
 ESTA HOJA DE FIRMAS CORRESPONDE AL CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLÓGICA DEL SUR DEL ESTADO DE MORELOS, CON FECHA 31 DE JULIO DE 2019.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLÓGICA DEL SUR DEL ESTADO DE MORELOS".]
+
+PRIMERA. El presente Código de Conducta de la Universidad Tecnológica del Sur del Estado de Morelos, entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial “Tierra y Libertad”.
+
+SEGUNDA. El presente ordenamiento es de observancia obligatoria para todas las personas que desempeñen un empleo, cargo o comisión en la Universidad Tecnológica del Sur del Estado de Morelos.
+
+TERCERA. Se abroga el Código de Conducta de la Universidad Tecnológica del Sur del Estado de Morelos publicado en el Periódico Oficial “Tierra y Libertad”, número 5732 de fecha siete de agosto del año dos mil diecinueve.
