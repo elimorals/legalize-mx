@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-salud-del-estado-de-tabasco-71585"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-12"
-last_updated: "2022-10-01"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SALUD DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de diciembre de 2009.
 
@@ -35,7 +35,9 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA QUINCUAGÉSIMA NOVENA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES CONFERIDAS POR EL ARTÍCULO 36, FRACCIONES I Y IX DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO, Y EN BASE A LOS SIGUIENTES:
 
-ANTECEDENTES.
+ANTECEDENTES
+
+[...]
 
 Ha tenido a bien expedir el siguiente:
 
@@ -741,7 +743,9 @@ La acción popular podrá ejercitarse por cualquier persona, con el sólo señal
 
 La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-I. La atención integral de la mujer durante el embarazo, el parto y el puerperio, incluyendo la atención psicológica que requiera;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+I. La atención integral de la mujer durante el embarazo, el parto y el puerperio, incluyendo los casos en los que haya muerte fetal o perinatal;
 
 II. La atención del niño y la vigilancia de su crecimiento, desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas, y en su caso atención, que incluya la aplicación de la prueba del tamiz ampliado, y su salud visual;
 
@@ -765,9 +769,11 @@ La Secretaría de Salud revisará anualmente la política pública a que se refi
 
 Todas las mujeres en Tabasco tienen derecho a la atención institucional del parto, independientemente de la condición de afiliación o su capacidad de pago, es obligación de todas las instituciones de salud pública o privada en el Estado, prestar servicios médicos a las madres que acudan en periodo expulsivo o con complicaciones graves del embarazo, parto o puerperio. Si las condiciones lo permiten, una vez admitidas y evaluadas, podrán ser trasladadas al servicio de salud que les corresponda.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 60.
 
-En los servicios de salud se promoverá la organización institucional de los comités de prevención de la mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
+En los servicios de salud se promoverá la organización institucional de los comités de prevención de la mortalidad materna, fetal, perinatal e infantil, a efecto de conocer, registrar, sistematizar y evaluar el problema y adoptar las medidas conducentes, en términos que establezca la Secretaría de Salud.
 
 ###### ARTÍCULO 61.
 
@@ -779,23 +785,47 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I. Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
-II. Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil; y
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-III. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de cinco años.
+II. Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil;
+
+En casos de muerte fetal o perinatal, las mujeres tendrán derecho a recibir información suficiente, clara, oportuna y veraz, así como la orientación necesaria tanto de los procesos de inhibición fisio o farmacológica de la lactancia;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+III. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de cinco años; y
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+IV. Acciones para la atención integral de la muerte fetal y perinatal, a fin de garantizar el trato digno, el respeto y la protección de los derechos humanos y el bienestar físico, psíquico y emocional de las mujeres.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV, P.O. 25 DE OCTUBRE DE 2023.]</small>
+
+Las autoridades sanitarias, de acuerdo con su disponibilidad presupuestaria, capacitarán al personal profesional, auxiliar y técnico de la salud para abordar integralmente, con sentido ético, respetuoso y humanitario, la muerte fetal y perinatal.
 
 ###### ARTÍCULO 63.
 
 Las autoridades sanitarias, educativas y laborales en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
 
-I. Los programas para padres destinados a promover la atención materno-infantil;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+I. Los programas para madres y padres destinados a promover la atención materno-infantil;
 
 II. Las actividades recreativas de esparcimiento y culturales destinados a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
 III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
 
-IV. Acciones relacionadas con la educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excretas; y
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-V. Las demás que coadyuven a la salud materno-infantil.
+IV. Acciones relacionadas con la educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excretas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE OCTUBRE DE 2023)</small>
+
+V. Acciones para abordar con sentido ético, respetuoso y humanitario, la muerte fetal y perinatal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE OCTUBRE DE 2023)</small>
+
+VI. Las demás que coadyuven a la salud materno-infantil.
 
 ###### ARTÍCULO 64.
 
@@ -4208,3 +4238,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- En ejercicio de sus atribuciones y obligaciones, la Secretaría de Salud deberá realizar las gestiones necesarias para destinar recursos para el cumplimiento gradual de las disposiciones del presente Decreto y para los años sucesivos solicitar que se incluyan en su presupuesto las partidas correspondientes.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 173 POR EL QUE “SE REFORMAN: LOS ARTÍCULOS 58, FRACCIÓN I; 60; 62 FRACCIONES II Y III; 63 FRACCIONES I, IV Y V; Y SE ADICIONAN: LA FRACCIÓN IV, AL ARTÍCULO 62; Y LA FRACCIÓN VI AL ARTÍCULO 63; TODOS DE LA LEY DE SALUD DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El correspondiente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
