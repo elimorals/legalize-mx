@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-juventud-para-el-estado-de-nuevo-leon-62363"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-28"
-last_updated: "2023-10-16"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de julio de 2008.
 
@@ -401,9 +401,9 @@ Las políticas y programas de fomento a la salud, tendrán por objeto:
 
 I. Garantizar la atención médica para todos los jóvenes a través de los organismos correspondientes, creando programas especiales para aquellos que no sean derechohabientes, y se encuentren en condiciones de vulnerabilidad, con problemas de alcoholismo, fármacodependencia, problemas psicológicos e infecciones de transmisión sexual;
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-II. Promover campañas de prevención de adicciones, de orientación de salud sexual y reproductiva, detección oportuna de enfermedades y la eliminación del abuso o violencia sexual;
+II. Promover campañas de prevención de adicciones, de orientación de salud sexual y reproductiva, incluyendo información sobre embarazos no planeados, no deseados o en condiciones de riesgo, detección oportuna de enfermedades y la eliminación del abuso o violencia sexual;
 
 III. Fomentar prácticas de autocuidado enfocadas a la prevención de enfermedades;
 
@@ -413,21 +413,29 @@ V. Promover el establecimiento de unidades especializadas de atención a la viol
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-VI.- Promover en general la atención integral de la salud;
+VI. Promover en general la atención integral de la salud;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-VII.- Promover que los responsables de los Centros de Salud, hospitales, Centros Quirúrgicos públicos o privados, brinden asistencia inmediata a los jóvenes lesionados o enfermos en caso de urgencia; y
+VII. Promover que los responsables de los Centros de Salud, hospitales, Centros Quirúrgicos públicos o privados, brinden asistencia inmediata a los jóvenes lesionados o enfermos en caso de urgencia;
 
-> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-VIII.- Fomentar el acceso a programas de orientación, atención psicológica y prevención del suicidio, con la finalidad de evitar este tipo de conductas; además de canalizar a quien lo requiera a la Secretaría de Salud para recibir tratamiento necesario.
+VIII. Fomentar el acceso a programas de orientación, atención psicológica y prevención del suicidio, con la finalidad de evitar este tipo de conductas; además de canalizar a quien lo requiera a la Secretaría de Salud para recibir tratamiento necesario;
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2021)</small>
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+IX. Promover campañas relacionadas a la difusión y fortalecimiento de la salud mental; y
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+X. Promover que en los centros de salud públicos se entreguen de manera gratuita preservativos y anticonceptivos; que se diseñen e impartan cursos de salud sexual y reproductiva y las consecuencias y riesgos de los embarazos no planeados, no deseados o en condiciones de riesgo.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 16.
 
-El Ejecutivo promoverá y establecerá a través del Instituto y las instancias correspondientes, políticas y mecanismos que garanticen el acceso expedito de los jóvenes a los servicios de información, orientación y atención relacionados con el ejercicio de sus derechos sexuales reproductivos, y desarrollará acciones que divulguen información referente a temáticas de salud prioritarias para los jóvenes, como adicciones, enfermedades de transmisión sexual, nutrición, salud pública, entre otras; con la finalidad de formar una juventud más responsable.
+Ejecutivo promoverá y establecerá a través del Instituto y las instancias correspondientes, políticas y mecanismos que garanticen el acceso expedito de los jóvenes a los servicios de información, orientación y atención relacionados con el ejercicio de sus derechos sexuales reproductivos, y desarrollará acciones que divulguen información referente a temáticas de salud prioritarias para los jóvenes, como adicciones, enfermedades de transmisión sexual, nutrición, salud pública, salud mental, embarazos no planeados, no deseados o en condiciones de riesgo, entre otras; con la finalidad de formar una juventud más responsable.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -485,9 +493,11 @@ Los jóvenes tienen derecho a recibir, analizar, sistematizar y difundir informa
 
 Los jóvenes tienen el derecho a ser informados debidamente en materia de sexualidad; los riesgos de las enfermedades de transmisión sexual, la salud reproductiva y la planificación familiar.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 25.
 
-Los jóvenes tienen el derecho a ser informados debidamente acerca de los efectos y daños irreversibles a la salud que producen el alcohol, el tabaco y las drogas, y sobre qué hacer para evitar su consumo.
+Los jóvenes tienen el derecho a ser informados debidamente acerca de los efectos y daños irreversibles a la salud física y mental que producen el alcohol, el tabaco y las drogas, y sobre qué hacer para evitar su consumo.
 
 ###### Artículo 26.
 
@@ -551,7 +561,9 @@ I. Ser protegidos de los riesgos de la calle y recibir la atención y orientaci�
 
 II. Recibir orientación de las instituciones públicas o privadas que atienda esta problemática, para solucionar sus problemas de sobrevivencia, seguridad personal y, salvaguarda de sus derechos que rebasen sus capacidades propias de solución;
 
-III. Tener acceso a los servicios de educación y a la capacitación para el trabajo;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+III. Tener acceso, al ingreso, reingreso y la permanencia a los servicios de educación, y a la capacitación para el trabajo;
 
 IV. Recibir información y orientación para la protección de sus derechos;
 
@@ -595,11 +607,29 @@ Las jóvenes en estado de embarazo tendrán derecho a asistir a la escuela y no 
 
 Asimismo, se les otorgará la información necesaria para evitar subsecuentes embarazos no deseados, mediante las medidas preventivas que le resulten más convenientes facilitándoles el acceso a ellas.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+### CAPÍTULO III BIS. ACCIONES PARA CONTRARRESTAR LA DESERCIÓN ESCOLAR DE LOS JÓVENES EN SITUACIÓN DE VULNERABILIDAD
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 34 Bis.
+
+Para contrarrestar la deserción escolar de los jóvenes en situación de vulnerabilidad, el Estado establecerá acciones específicas en coordinación con el Instituto de la Juventud, la Secretaría de Educación y la Secretaría de Igualdad e Inclusión, así como con los municipios y las instancias correspondientes, en las que se deberán observar los siguientes aspectos:
+
+I. Se buscará la implementación de programas que garanticen el acceso, el reingreso y la permanencia en el sistema educativo en el Estado, enfocados a contrarrestar el analfabetismo y erradicar la deserción escolar;
+
+II. Canalizar la situación de cada joven, para que se otorguen los apoyos a los requerimientos específicos de aquellos que desertaron del sistema educativo y que se encuentren en desventaja social, para establecer una política de reingreso y que se garantice su permanencia;
+
+III. Acciones tendientes a contrarrestar desventaja social, como pobreza, indigencia, marginación, situación de calle, analfabetismo, discapacidad, exclusión social y étnica de los jóvenes que desertaron del sistema educativo;
+
+IV. Para las familias de los jóvenes que por cuestión económica hayan desertado de sus estudios, y que se encuentren en aquellas localidades aisladas y zonas urbanas, identificadas con alta vulnerabilidad, el Estado llevará a cabo las acciones de atención y asistencia personalizada, en relación a asistencia jurídica, económica, social, médica, psicológica, educativa, laboral y cualquier otro aspecto que mejore su calidad de vida y puedan permanecer activos en el sistema educativo; y
+
+V. Las demás actividades que permitan ampliar la calidad y la cobertura de las acciones y programas que ayuden a contrarrestar la deserción escolar en los jóvenes en situación de vulnerabilidad.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2022)</small>
 
 ### CAPÍTULO IV. DE LAS POLÍTICAS DE PROMOCIÓN DE LA EQUIDAD Y DE LA CULTURA DE LA PAZ
-
-### CAPÍTULO V. DEL PROGRAMA ESTATAL DE LA JUVENTUD
 
 ###### Artículo 35.
 
@@ -631,9 +661,7 @@ IV. El reconocimiento de la dignidad humana y el valor inherente a los derechos 
 
 V. Promover mecanismos de resolución de controversias mediante negociación y mediación ante alguna problemática social.
 
-### CAPÍTULO VI. DE LOS INSTITUTOS MUNICIPALES DE LA JUVENTUD
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+### CAPÍTULO V. DEL PROGRAMA ESTATAL DE LA JUVENTUD
 
 ###### Artículo 36.
 
@@ -675,9 +703,9 @@ e) Fomentar la no discriminación de las y los jóvenes en áreas laborales.
 
 VII. Sistema de becas e intercambios académicos nacionales y extranjeros que promuevan, apoyen y fortalezcan el desarrollo educativo de los jóvenes;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-VIII. Lineamientos y acciones que permitan generar y divulgar información referente a temáticas de salud de interés y prioritarias para la juventud, como las adicciones, VIH/SIDA, infecciones de transmisión sexual, nutrición y salud pública y comunitaria;
+VIII. Lineamientos y acciones que permitan generar y divulgar información referente a temáticas de salud de interés y prioritarias para la juventud, como las adicciones, VIH/SIDA, infecciones de transmisión sexual, nutrición, salud mental y salud pública y comunitaria;
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -713,13 +741,17 @@ XVII. La creación, promoción y apoyo de un sistema de información que permita
 
 XVIII. Programas, acciones y mecanismos para que los jóvenes con discapacidad puedan llegar a ser autosuficientes, cuyo objetivo sea su participación activa en la comunidad y a la vez garanticen el impulso de sus proyectos innovadores y emprendedores;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-XIX. Lineamientos que permitan asegurar el cuidado y asistencia que se solicite para el joven con discapacidad, tomando en cuenta la situación económica de sus padres o de quienes ejerzan la patria potestad o custodia; y
+XIX. Lineamientos que permitan asegurar el cuidado y asistencia que se solicite para el joven con discapacidad, tomando en cuenta la situación económica de sus padres o de quienes ejerzan la patria potestad o custodia;
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE OCTUBRE DE 2023)</small>
 
-XX. Todos los demás contemplados por esta Ley y que sean necesarios para el desarrollo y bienestar de la juventud.
+XX. Acciones para contrarrestar la deserción escolar de los jóvenes en situación de vulnerabilidad, las que deberán ajustarse a lo establecido en el artículo 34 BIS de esta Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE OCTUBRE DE 2023)</small>
+
+XXI. Todos los demás contemplados por esta Ley y que sean necesarios para el desarrollo y bienestar de la juventud.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -745,9 +777,9 @@ Todos los programas, acciones y actividades implementadas por las instancias gub
 
 El Instituto deberá realizar la elaboración, evaluación y actualización del Programa Estatal de Juventud cada tres años, debiéndose publicar en el Periódico Oficial del Estado.
 
-### CAPÍTULO VII. DE LAS SANCIONES
+### CAPÍTULO VI. DE LOS INSTITUTOS MUNICIPALES DE LA JUVENTUD
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 38.
 
@@ -764,6 +796,10 @@ Los municipios podrán participar en la elaboración, revisión y seguimiento de
 Los municipios podrán crear Consejos Juveniles Municipales de carácter honorífico, a efectos de dar seguimiento a lo señalado en el párrafo anterior, así como promover políticas públicas que beneficien a los jóvenes en su respectivo territorio.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO VII. DE LAS SANCIONES
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 40.
 
@@ -876,3 +912,17 @@ P.O. 16 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 433. SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 6, SE ADICIONAN LA FRACCIÓN X AL ARTÍCULO 2 Y EL ARTÍCULO 28 BIS DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 428. SE REFORMAN LAS FRACCIONES II, VII, VIII DEL ARTÍCULO 15, LOS ARTÍCULOS 16, 25 Y 37; Y SE ADICIONA LAS FRACCIONES IX Y X AL ARTÍCULO 15, TODOS DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN LA FRACCIÓN XIX DEL ARTÍCULO 5 DE LA LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 430. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 31, LAS FRACCIONES XIX Y XX DEL ARTÍCULO 37; SE ADICIONA UN CAPÍTULO III BIS DENOMINADO “ACCIONES PARA CONTRARRESTAR LA DESERCIÓN ESCOLAR DE LOS JÓVENES EN SITUACIÓN DE VULNERABILIDAD”; MISMO QUE CONTIENE UN ARTÍCULO 34 BIS; UNA FRACCIÓN XXI AL ARTÍCULO 37, TODOS A LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero: El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+Segundo: Para el cumplimiento del presente decreto, se realizará de acuerdo con la capacidad presupuestal del Poder Ejecutivo al momento de su aprobación.
