@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-cambio-climatico-para-el-estado-de-tamaulipas-122184"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-20"
-last_updated: "2021-03-04"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122184&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Ley publicada en el Anexo al Número 73 del Periódico Oficial del Estado Libre y Soberano de Tamaulipas, el martes 20 de junio de 2017.
 
@@ -655,9 +655,17 @@ XX. Generar y sistematizar la información de parámetros climáticos, biológic
 
 XXI. Establecer nuevas áreas naturales protegidas, corredores biológicos, y otras modalidades de conservación y zonas prioritarias de conservación ecológica para que se facilite el intercambio genético y se favorezca la adaptación natural de la biodiversidad al cambio climático, a través del mantenimiento e incremento de la cobertura vegetal nativa, de los humedales y otras medidas de manejo;
 
-XXII. Realizar diagnósticos de vulnerabilidad en el sector energético y desarrollar los programas y estrategias integrales de adaptación; e
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-XXIII. Incorporar en las licencias, autorizaciones y permisos que se expidan un porcentaje de áreas verdes en zonas urbanas o fraccionamientos.
+XXII. Realizar diagnósticos de vulnerabilidad en el sector energético y desarrollar los programas y estrategias integrales de adaptación;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+XXIII. Incorporar en las licencias, autorizaciones y permisos que se expidan un porcentaje de áreas verdes en zonas urbanas o fraccionamientos; e
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+XXIV. Implementar las acciones necesarias para la instalación de capacitaciones obligatorias de todas y todos los servidores públicos en materia de medio ambiente, con perspectiva de desarrollo sostenible y con especial énfasis en cambio climático.
 
 ###### ARTÍCULO 20.
 
@@ -1386,3 +1394,15 @@ P.O. 4 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-663 MEDIANTE EL CUAL SE ADICIONAN LA FRACCIÓN XIV BIS AL ARTÍCULO 4; Y EL NUMERAL 4 AL ARTÍCULO 72, DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS; Y SE REFORMAN LAS FRACCIONES XXII Y XXIII; Y SE ADICIONA LA FRACCIÓN XXIV AL ARTÍCULO 19, DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las capacitaciones obligatorias de todas y todos los servidores públicos en materia de medio ambiente, con perspectiva de desarrollo sostenible y con especial énfasis en cambio climático, se implementarán de manera progresiva de conformidad a la capacidad presupuestal, técnica y operativa de las dependencias y municipios.
