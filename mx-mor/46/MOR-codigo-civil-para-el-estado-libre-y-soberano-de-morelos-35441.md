@@ -4,7 +4,7 @@ identifier: "MOR-codigo-civil-para-el-estado-libre-y-soberano-de-morelos-35441"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "2023-05-31"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el 13 de octubre de 1993.
 
@@ -10949,9 +10949,15 @@ IMPOSIBILIDAD DE CONTINUAR LA PRESTACION DE SERVICIOS. Siempre que un profesioni
 
 Respecto de los abogados se observará además lo dispuesto en el artículo 2036 de este Ordenamiento.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
 ###### ARTICULO 2061.
 
-RESPONSABILIDAD DEL PROFESIONISTA. El que preste servicios profesionales sólo es responsable, hacia las personas a quienes sirve, por ineptitud o dolo, sin perjuicio de las penas que merezca en caso de delito.
+RESPONSABILIDAD DEL PROFESIONISTA. El que preste servicios profesionales sólo es responsable, hacia las personas a quienes sirve, por negligencia, impericia o dolo, sin perjuicio de las penas que merezca en caso de delito.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 2061 BIS.- PRESCRIPCION DE LA PRETENSION PARA EXIGIR DAÑOS POR RESPONSABILIDAD DEL PROFESIONISTA. La pretensión para exigir la reparación de los daños causados en el caso de responsabilidad del profesionista prescribe en dos años contados a partir de que se tenga conocimiento del daño.
 
 ### CAPITULO III. DEL CONTRATO DE OBRA A PRECIO ALZADO
 
@@ -13946,3 +13952,13 @@ El presente decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente decreto.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL DOSCIENTOS CUARENTA Y OCHO POR EL QUE SE REFORMA EL ARTÍCULO 2061 Y ADICIONA EL ARTÍCULO 2061 BIS, DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERO. Remítase el presente decreto al titular del Poder Ejecutivo del Estado para su publicación de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente decreto.
