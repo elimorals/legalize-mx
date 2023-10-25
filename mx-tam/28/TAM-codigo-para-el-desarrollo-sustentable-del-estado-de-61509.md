@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2023-05-02"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
@@ -166,6 +166,10 @@ XIII. Criterios ecológicos: Los lineamientos de carácter obligatorio estableci
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
 XIV. Daño ambiental: La alteración relevante que modifique negativamente el medio ambiente, sus recursos, el equilibrio de los ecosistemas, la salud humana o los bienes o valores ambientales colectivos;
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+XIV Bis. Desarrollo Sostenible: El proceso capaz de satisfacer las necesidades de las generaciones presentes sin comprometer la capacidad de las generaciones futuras de satisfacer las suyas;
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
@@ -1666,6 +1670,10 @@ V. El uso racional del agua por las industrias, establecimientos comerciales y d
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 3. La Secretaría impulsará y participará en la celebración de convenios con particulares, ejidatarios, instituciones académicas y de investigación, clubes y demás asociaciones que no persigan fines de lucro, con objeto de llevar a cabo programas para el estudio, conservación, restauración y desarrollo de especies de fauna y flora silvestres, en los ranchos y ejidos cinegéticos y en los centros de rehabilitación de fauna que al efecto se establezcan.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+4. La Secretaría impulsará y participará en la capacitación obligatoria de todas y todos los servidores públicos en materia de medio ambiente, con perspectiva de desarrollo sostenible y con especial énfasis en cambio climático.
 
 ### CAPITULO II. DEL AGUA
 
@@ -5462,3 +5470,15 @@ Las disposiciones de la presente reforma entrarán en vigencia, para los entes s
 ###### ARTÍCULO CUARTO.
 
 Las disposiciones de la presente reforma entrarán en vigor a partir del 1 de enero de 2024.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65-663 MEDIANTE EL CUAL SE ADICIONAN LA FRACCIÓN XIV BIS AL ARTÍCULO 4; Y EL NUMERAL 4 AL ARTÍCULO 72, DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS; Y SE REFORMAN LAS FRACCIONES XXII Y XXIII; Y SE ADICIONA LA FRACCIÓN XXIV AL ARTÍCULO 19, DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las capacitaciones obligatorias de todas y todos los servidores públicos en materia de medio ambiente, con perspectiva de desarrollo sostenible y con especial énfasis en cambio climático, se implementarán de manera progresiva de conformidad a la capacidad presupuestal, técnica y operativa de las dependencias y municipios.
