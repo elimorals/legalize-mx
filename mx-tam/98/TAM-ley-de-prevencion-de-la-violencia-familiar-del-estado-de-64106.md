@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-prevencion-de-la-violencia-familiar-del-estado-de-64106"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-24"
-last_updated: "2023-06-06"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 24 de junio de 2008.
 
@@ -73,7 +73,9 @@ Son especies de la violencia familiar las siguientes:
 
 I. Maltrato físico: Es todo acto de agresión intencional, que se ejerce sobre el cuerpo de la víctima y es producido mediante la fuerza física o el empleo de cualquier objeto capaz de producir una lesión interna, externa o ambas.
 
-El maltrato físico puede darse en una variedad de manifestaciones que van desde el pellizco o jalón de cabellos, hasta ocasionar lesiones graves con pérdida de órganos, afectación a las capacidades mental o motriz, o la pérdida de alguna parte del cuerpo de la víctima, sin importar si se produjeron con manos, pies, u objetos tales como cinturones, utensilios domésticos o instrumentos cortantes, punzo-cortantes o punzo-contundentes, armas o instrumentos para sujetar o cualquier otro objeto, así como inmovilizar o causar daño a la integridad física de otra persona mediante su sometimiento y control;
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+El maltrato físico puede darse en una variedad de manifestaciones que van desde el pellizco o jalón de cabellos, hasta ocasionar lesiones graves con pérdida de órganos, afectación a las capacidades mental o motriz, o la pérdida de alguna parte del cuerpo de la víctima, sin importar si se produjeron con manos, pies, u objetos tales como cinturones, utensilios domésticos o instrumentos cortantes, punzo-cortantes o punzo-contundentes, ácido o sustancias corrosivas, cáustica, irritante, tóxica, inflamable o cualquier otra sustancia, armas o instrumentos para sujetar o cualquier otro objeto, así como inmovilizar o causar daño a la integridad física de otra persona mediante su sometimiento y control;
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -594,6 +596,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 6 DE JUNIO DE 2023
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-667 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3, INCISO B), DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES; Y 3, FRACCIÓN I, PÁRRAFO SEGUNDO, DE LA LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
