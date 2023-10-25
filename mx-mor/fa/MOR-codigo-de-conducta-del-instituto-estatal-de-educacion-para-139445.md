@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-del-instituto-estatal-de-educacion-para-1394
 country: "mx"
 rank: "codigo"
 publication_date: "2019-08-21"
-last_updated: "2019-08-21"
+last_updated: "2023-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO ESTATAL DE EDUCACION PARA ADULTOS DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DEL INSTITUTO ESTATAL DE EDUCACIÓN PARA ADULTOS, PUBLICADO EN EL P.O. DE 25 DE OCTUBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO ESTATAL DE EDUCACIÓN PARA ADULTOS DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el miércoles 21 de agosto de 2019.
 
@@ -330,3 +332,17 @@ Cuernavaca, Morelos; ocho de octubre del dos mil diecinueve.
 LIC. EDUARDO KENJI UCHIDA GARCÍA
 
 DIRECTOR GENERAL JURÍDICO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL INSTITUTO ESTATAL DE EDUCACIÓN PARA ADULTOS”.]
+
+PRIMERA.- El presente Código de Conducta del Instituto Estatal de Educación para Adultos, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA.- Se abroga el Código de Conducta del Instituto Estatal de Educación para Adultos, publicado en el Periódico Oficial “Tierra y Libertad”, Número Cinco Mil Setecientos Treinta y Seis, de fecha veintiuno de agosto del año dos mil diecinueve, asimismo, se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente código de conducta.
+
+TERCERA.- Una vez publicado en el Periódico Oficial “Tierra y Libertad”, el presente instrumento deberá publicarse en la página oficial de internet del Instituto Estatal de Educación para Adultos.
+
+CUARTA.- El Instituto Estatal de Educación para Adultos, a través de la Coordinación de Administración y Finanzas dará a conocer a las personas obligadas, la existencia y contenido del presente código de conducta.
