@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2023-06-23"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -143,7 +143,9 @@ Los tipos de violencia contra las mujeres son:
 
 I. Psicológica: el proveniente del acto u omisión que trascienda a la integridad emocional o la estabilidad psicológica de la mujer, que causen a la víctima depresión, aislamiento, devaluación de su autoestima e incluso, el suicidio, en base al dictamen emitido por los peritos en la materia;
 
-II. Física: El acto que causa daño corporal no accidental a la mujer, usando la fuerza física o algún otro medio que pueda provocar o no lesiones ya sean internas, externas o ambas, en base al dictamen emitido por los especialistas en la materia;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+II. Física: El acto que causa daño corporal no accidental a la mujer, usando la fuerza física o algún tipo de arma, objeto, ácido o sustancia corrosiva, cáustica, irritante, tóxica o inflamable o cualquier otra sustancia que, en determinadas condiciones, pueda provocar o no lesiones ya sean internas, externas, o ambas, en base al dictamen emitido por los especialistas en la materia;
 
 III. Sexual: El acto que degrada o daña la sexualidad de la víctima; atentando contra su libertad, dignidad e integridad física configurando una expresión de abuso de poder que presupone la supremacía del agresor sobre la mujer, denigrándola y considerándola como de menor valía o como objeto; en base al dictamen emitido por los especialistas en la materia;
 
@@ -209,9 +211,13 @@ u) Cualesquiera otras formas análogas que lesionen o sean susceptibles de daña
 
 La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE OCTUBRE DE 2023)</small>
 
-VII. Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden culminar en homicidio y otras formas de muerte violenta de mujeres;
+VII. Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos y del ejercicio abusivo del poder, tanto en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que se manifiestan a través de odio, discriminación y que ponen en riesgo sus vidas o culminan en muertes violentas como el feminicidio, el suicidio y el homicidio, u otras formas de muertes evitables y en conductas que afectan gravemente la integridad, la seguridad, la libertad personal y el libre desarrollo de las mujeres, las adolescentes y las niñas.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+En los casos de feminicidio se aplicarán las sanciones previstas en la legislación penal sustantiva.
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
@@ -311,11 +317,11 @@ Para los efectos de esta Ley y en correlación con las leyes aplicables, la viol
 
 La violencia laboral y docente, es la que se ejerce por las personas que tienen un vínculo laboral, docente o similar a éstos con la víctima, independientemente de la relación jerárquica, y consiste en un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad o seguridad de la víctima, impide su desarrollo y atenta contra su derecho a la igualdad. Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño; también incluye el acoso o el hostigamiento sexual.
 
-> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 10.
 
-Constituye violencia laboral: la negativa ilegal a contratar a la Victima o a respetar su permanencia o condiciones generales de trabajo; así como la percepción de un salario menor en el desempeño de un trabajo igual, en puesto, jornada y condiciones de eficiencia, en un mismo centro de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, las conductas referidas en la Ley Federal del Trabajo, la explotación, el impedimento u omisión a las mujeres de ejercer el período de lactancia de dos reposos extraordinarios por día, de media hora cada uno y hasta por seis meses previsto en la Ley y todo tipo de discriminación por su género.
+Constituye violencia laboral: la negativa ilegal a contratar a la Victima o a respetar su permanencia o condiciones generales de trabajo; así como la percepción de un salario menor en el desempeño de un trabajo igual, en puesto, jornada y condiciones de eficiencia, en un mismo centro de trabajo; la descalificación del trabajo realizado, o la exclusión para acceder a puestos directivos; la negativa injustificada de afiliación y participación en organizaciones sindicales u análogas; las amenazas, la intimidación, las humillaciones, las conductas referidas en la Ley Federal del Trabajo, la explotación, el impedimento u omisión a las mujeres de ejercer el período de lactancia de dos reposos extraordinarios por día, de media hora cada uno y hasta por seis meses previsto en la Ley; así como la distinción, exclusión o restricción en contra de una mujer embarazada que vulnere, o tenga por objeto vulnerar sus derechos del producto o de su bebé, o pongan en riesgo la vida, salud tanto de la madre como del desarrollo del producto o del bebé; el impedimento de regresar al trabajo después del embarazo y todo tipo de discriminación por su género.
 
 ###### Artículo 11.
 
@@ -2200,3 +2206,15 @@ P.O. 23 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 394. SE REFORMA POR ADICIÓN DEL CAPÍTULO XI DENOMINADO DE LA MANUTENCIÓN, QUE CONTIENE LOS ARTÍCULOS 64, 65 Y 66 A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 424. SE REFORMA EL ARTÍCULO 10 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 440. SE REFORMAN LAS FRACCIONES II Y VII DEL ARTÍCULO 6, Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN VII DEL ARTÍCULO 6, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+ÚNICO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación.
