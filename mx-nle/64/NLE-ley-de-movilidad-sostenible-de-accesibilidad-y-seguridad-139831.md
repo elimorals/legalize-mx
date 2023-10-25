@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-movilidad-sostenible-de-accesibilidad-y-seguridad-139831
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-08"
-last_updated: "2023-01-24"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 8 de enero de 2020.
 
@@ -274,6 +274,10 @@ LII. Ruta: Recorrido o trayecto determinado que realizan las unidades de transpo
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
 
 LIII. Secretaria: Secretaria de Movilidad y Planeación Urbana;
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+LIII Bis. Sensibilización de género: Diseño, instrumentación y ejecución de programas y políticas públicas que atiendan la problemática de las desigualdades e inequidades de género;
 
 LIV. Servicios Auxiliares del Transporte: Aquel que se presta previa autorización del Instituto por medios alternos, entre los que se encuentran los de tracción humana, eléctrica, mecánica o de combustión interna;
 
@@ -1513,15 +1517,21 @@ Los conductores de este servicio de transporte deberán de cumplir mínimo con l
 
 I. Licencia de conducir vigente del tipo "E" que establezca el Instituto;
 
-II. Acreditar de inicio y cada dos años, exámenes toxicológicos, los resultados de laboratorio tendrán validez para acreditación, por diez días hábiles, contados a partir de la fecha en la cual fueron expedidos;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+II. Acreditar de inicio y cada año, exámenes toxicológicos, dichos exámenes anuales se realizarán sin previo aviso, los resultados de laboratorio tendrán validez para acreditación, por diez días hábiles, contados a partir de la fecha en la cual fueron expedidos;
 
 III. Carta de No antecedentes Penales, para lo que, deberán entregar y enviar al Instituto, copias simples del acta de nacimiento, de la clave única de registro de población y de una identificación oficial vigente, para gestionar la carta de no antecedentes penales correspondiente, ante la autoridad competente, misma que será gratuita para el conductor;
 
-> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-IV. Capacitarse vía internet conforme a la convocatoria del Instituto. En caso de no aprobar la evaluación de dicha capacitación se deberá llevar la misma de manera presencial; y
+IV. Capacitarse vía internet de forma anual conforme a la convocatoria del Instituto. En caso que el conductor se vea involucrado en hechos de transito deberán (sic) tomar el curso de manera presencial, al igual que de no aprobar la evaluación de dicha capacitación se deberán (sic) llevar la misma de manera presencial.
 
-V. Capacitarse en talleres informativos en materia de acoso sexual, violencia de género, trata de personas y seguridad vial, mismos que serán impartidos por el Instituto.
+El Instituto deberá promover cursos gratuitos periódicamente en materia de seguridad vial y cultura vial a fin de reforzar los conocimientos para la prevención de hechos de transito;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+V. Capacitarse en talleres informativos en materia de acoso sexual, violencia de género, trata de personas, cultura vial y seguridad vial, mismos que serán impartidos por el Instituto.
 
 ###### Artículo 80.
 
@@ -1561,7 +1571,9 @@ Todo conductor que se desempeñe dentro del Servicio de Taxis deberá cumplir co
 
 I. Licencia de conducir vigente del tipo "E" que establezca el Instituto;
 
-II. Acreditar de inicio y cada dos años, exámenes toxicológicos, los resultados de laboratorio tendrán validez para acreditación, por diez días hábiles, contados a partir de la fecha en la cual fueron expedidos;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+II. Acreditar de inicio y cada dos años, exámenes toxicológicos, dichos exámenes anuales se realizarán sin previo aviso, los resultados de laboratorio tendrán validez para acreditación, por diez días hábiles, contados a partir de la fecha en la cual fueron expedidos;
 
 III. Carta de No antecedentes Penales, para lo que, deberán entregar y enviar al Instituto, copias simples del acta de nacimiento, de la clave única de registro de población y de una identificación oficial vigente, para gestionar la carta de no antecedentes penales correspondiente, ante la autoridad competente, misma que será gratuita para el conductor;
 
@@ -1569,11 +1581,15 @@ IV. Comprobante de domicilio, el cual deberá coincidir con el señalado en la l
 
 V. Registro Federal de contribuyentes;
 
-VI. Capacitarse vía internet conforme a la convocatoria del Instituto. En caso de no aprobar la evaluación de dicha capacitación se deberá llevar la misma de manera presencial; y
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+VI. Capacitarse vía internet de forma anual conforme a la convocatoria del Instituto. En caso de que el conductor se vea involucrado en hechos de transito deberán tomar el curso de manera presencial, al igual que de no aprobar la evaluación de dicha capacitación se deberá llevar la misma de manera presencial.; (sic) y
 
 VII. Estar dado de alta ante el Servicio de Administración Tributaria.
 
-El Instituto establecerá los contenidos de la Capacitación los cuales deberán contener cuando menos los temas de acoso sexual, violencia de género, trata de personas, seguridad vial, primeros auxilios y derechos humanos, mismos que serán impartidos por el Instituto.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+El Instituto establecerá los contenidos de la Capacitación los cuales deberán contener cuando menos los temas de acoso sexual, violencia de género, trata de personas, seguridad vial, cultura vial, primeros auxilios y derechos humanos, mismos que serán impartidos por el Instituto.
 
 El Instituto no podrá exigir cursos, exámenes y demás requisitos no contemplados en esta Ley.
 
@@ -1681,7 +1697,9 @@ II. Entregar y enviar al Instituto, copias simples del acta de nacimiento, de la
 
 III. Entregar al Instituto, certificado de cobertura dado por una compañía de seguros autorizada para operar en México, que demuestre y justifique que la empresa de redes de transporte cuenta con un seguro de cobertura de responsabilidad civil, frente a los usuarios del transporte ejecutivo con chofer y en favor de terceros, en sus personas o bienes, con motivo de cualquier contingencia que pudiera surgir durante la prestación de este servicio; y
 
-IV. Garantizar que sus socios conductores asistan a talleres informativos en materia de acoso sexual y violencia de género, trata de personas y seguridad vial, mismos que serán impartidos por las propias Empresas de Redes de Transporte, con apoyo de expertos.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+IV. Garantizar que sus socios conductores asistan a talleres informativos en materia de acoso sexual y violencia de género, trata de personas, seguridad vial, y sensibilización de género, mismos que serán impartidos por las propias Empresas de Redes de Transporte, con apoyo de expertos.
 
 El Instituto una vez reunidos los requisitos anteriores, en coordinación con las empresas de Redes de Transporte, entregará un Visto Bueno, a cada uno de los conductores que hayan cumplido con los mismos.
 
@@ -1707,9 +1725,9 @@ I. Contar como mínimo con licencia de conducir vigente tipo chofer, expedida po
 
 II. Acreditar de inicio y cada dos años, exámenes toxicológicos realizados en algún laboratorio especializado en la materia en el Estado de Nuevo León, los resultados de laboratorio tendrán validez para acreditación, por diez días hábiles, contados a partir de la fecha en la cual fueron expedidos;
 
-> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-III. Capacitarse vía internet conforme a la convocatoria de las Empresas de Redes de Transporte. En caso de no aprobar la evaluación de dicha capacitación se deberá llevar la misma de manera presencial;
+III. Capacitarse vía internet en al menos seguridad vial y sensibilización de género, así como aquellos otros aspectos que se determine conforme a la convocatoria de las Empresas de Redes de Transporte. En caso de no aprobar la evaluación de dicha capacitación se deberá llevar la misma de manera presencial.
 
 IV. Entregar copia simple de acta de nacimiento;
 
@@ -3198,3 +3216,11 @@ P.O. 24 DE ENERO DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los responsables del SETRA contarán con un plazo de un año contado a partir de la entrada en vigor del presente Decreto para adecuar sus unidades a los lineamientos que establece el presente Decreto.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 431. SE REFORMAN LAS FRACCIONES II, IV, Y V DEL ARTÍCULO 79, LAS FRACCIONES II, VI, Y VII DEL ARTÍCULO 85, LA FRACCIÓN IV DEL ARTÍCULO 99, ASÍ COMO LA FRACCIÓN III DEL ARTÍCULO 102, Y SE ADICIONA LA FRACCIÓN LIII. BIS. DEL ARTÍCULO 8, TODOS DE LA LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Las Autoridades sujetas al presente Decreto tendrán un plazo máximo de 180 días a la entrada en vigor del presente Decreto para adecuar los lineamientos, reglamentos y demás disposiciones aplicables.
