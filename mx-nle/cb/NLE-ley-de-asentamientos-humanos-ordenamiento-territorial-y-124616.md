@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-asentamientos-humanos-ordenamiento-territorial-y-124616"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-27"
-last_updated: "2023-06-15"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el lunes 27 de noviembre de 2017.
 
@@ -3929,6 +3929,18 @@ XI. Las obras y previsiones necesarias para facilitar el acceso, circulación y 
 
 XII. La habilitación, equipamiento y arbolado de áreas verdes o recreativas, camellones, y banquetas de concreto, conforme a los lineamientos que señale la autoridad municipal correspondiente en la autorización del proyecto urbanístico presentado por el fraccionador;
 
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+XII Bis. En caso de contar con estacionamiento con cajones en hilera sencilla al aire libre, deberá plantarse un árbol nativo por cada dos cajones.
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+XII Bis I. En caso de contar con estacionamiento con cajones en hilera doble al aire libre, deberá plantarse un árbol nativo por cada cuatro cajones.
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+XII Bis II. Cuando el estacionamiento se ubique en zona de azotea, el arbolado nativo se cubrirá con macetones en la proporción y cantidad estipulada en las dos fracciones anteriores.
+
 XIII. Las redes generales para la telefonía y televisión por cable, las cuales deberán ser subterráneas;
 
 XIV. Las obras de urbanización mencionadas anteriormente, deberán ejecutarse conforme al proyecto ejecutivo urbanístico y calendario de obra que se acuerde con la Autoridad Municipal, y no podrá excederse de cinco años a partir de la fecha de autorización, pudiéndose solicitar una prórroga para su cumplimiento; y
@@ -7720,3 +7732,9 @@ SEGUNDO. Para el cumplimiento al presente Decreto, los concesionarios deberán i
 TERCERO. Los municipios dispondrán de un plazo de hasta 180 días posteriores a la entrada en vigor del presente decreto, para homologar su reglamentación con el fin de cumplir lo preceptuado por dicho decreto.
 
 CUARTO. Se deroga cualquier disposición en lo que se oponga al presente decreto.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 438. SE ADICIONAN LAS FRACCIONES XII BIS, XII BIS I Y XII BIS II AL ARTÍCULO 208 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto, entrará en vigor el día siguiente al de su publicación.
