@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-juventud-para-el-estado-de-nuevo-leon-62363"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-28"
-last_updated: "2023-10-16"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,237 +21,207 @@ state: "NLE"
 ---
 # LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEON
 
-LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN
+LEY DE INGRESOS DEL ESTADO DE TAMAULIPAS PARA EL EJERCICIO FISCAL DE 2012
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2023.
+TEXTO ORIGINAL.
 
-Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de julio de 2008.
+Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 20 de diciembre de 2011.
 
-EL C. JOSÉ NATIVIDAD GONZÁLEZ PARÁS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, A TODOS SUS HABITANTES HAGO SABER:
+EGIDIO TORRE CANTÚ, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
-Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
+Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
 
-D E C R E T O
+Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
-Núm. 251
+LA SEXAGÉSIMA PRIMERA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 58 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL; Y 119 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
-Artículo Único.- La Septuagésima Primer Legislatura crea la Ley de la Juventud para el Estado de Nuevo León, para quedar en los siguientes términos:
+D E C R E T O No. LXI-197
 
-LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN
+MEDIANTE EL CUAL SE EXPIDE LA LEY DE INGRESOS DEL ESTADO DE TAMAULIPAS PARA EL EJERCICIO FISCAL DE 2012.
+
+LEY DE INGRESOS DEL ESTADO DE TAMAULIPAS PARA EL EJERCICIO FISCAL DE 2012.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### Artículo 1.
+###### ARTÍCULO 1.
 
-Las disposiciones de esta Ley son de orden público, de interés social y de observancia general en el Estado de Nuevo León y su aplicación corresponde en el ámbito de su competencia al Ejecutivo estatal y los gobiernos municipales.
+En el ejercicio fiscal para el año 2012, el Gobierno del Estado de Tamaulipas percibirá los ingresos provenientes de los conceptos y en las cantidades estimadas que a continuación se enumeran:
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+Miles de pesos
 
-Tiene por objeto establecer principios rectores de las políticas públicas que contribuyan al desarrollo integral de los jóvenes, conforme a sus necesidades generales y principalmente garantizar el ejercicio de los derechos de éstos así como impulsar su desarrollo integral.
+I IMPUESTOS 1,361, 792
 
-###### Artículo 2.
+IMPUESTO SOBRE LOS INGRESOS 28,186
 
-Para efectos de esta Ley se entiende por:
+Sobre Honorarios 11,779
 
-I. Ejecutivo: Al Ejecutivo del Estado de Nuevo León;
+Sobre Juegos Permitidos 16,407
 
-II. Jóvenes: A todas las personas hombres y mujeres comprendidas entre los 12 y 29 años de edad;
+IMPUESTO SOBRE EL PATRIMONIO 150,242
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+Sobre Tenencia o Uso de vehículos 100,000
 
-III. Joven Trabajador de Primer Empleo: joven trabajador mujer u hombre que no tenga registro previo de aseguramiento en el régimen obligatorio ante el Instituto Mexicano del Seguro Social, por no haber prestado en forma permanente o eventual un servicio remunerado, personal y subordinado a un patrón;
+Sobre Actos y Operaciones Civiles 50,242
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+IMPUESTO SOBRE NÓMINAS Y ASIMILABLES 1, 168,134
 
-IV. Juventud: al conjunto de las y los jóvenes;
+Sobre Remuneraciones al Trabajo Personal Subordinado 1, 168,134
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+ACCESORIOS 15,230
 
-V. Instituto: al Instituto Estatal de la Juventud del Estado de Nuevo León;
+Accesorios 15,230
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+II. DERECHOS 1, 305,464
 
-VI. Programa: al Programa Estatal de la Juventud;
+DERECHOS POR PRESTACIÓN DE SERVICIOS 1, 305,464
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+Servicios Generales 19,221
 
-VII. Institutos: a los Institutos Municipales o a los órganos encargados de la juventud en los municipios;
+Servicios de Registro 327,600
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2023)</small>
+Servicios prestados por Autoridades Educativas 5,943
 
-VIII. Derechos de los jóvenes: los reconocidos, en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales en que el Estado Mexicano sea parte, en esta Ley y en los demás ordenamientos jurídicos vigentes;
+Servicios Catastrales 665
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2023)</small>
+Servicios para el Control Vehicular 725,269
 
-IX. Desarrollo Integral: El proceso sistemático económico, social, cultural y político que garantiza el mejoramiento constante del bienestar de toda la población, sobre las bases de la participación activa, libre y significativa en el desarrollo y la distribución justa de los beneficios que dé el deriven; y
+Servicios de Prevención y Control de la Contaminación
 
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2023)</small>
+del Medio Ambiente 3,316
 
-X. Trabajo Digno o Decente: Se entiende por trabajo digno o decente aquel en el que se respeta plenamente la dignidad humana del trabajador; en el cual no deberá existir discriminación por origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, condición migratoria, opiniones, preferencias sexuales o estado civil; cuente con acceso a la seguridad social y se percibe un salario remunerador; se reciba capacitación continua para el incremento de la productividad con beneficios compartidos, y se cuenta con condiciones óptimas de seguridad e higiene para prevenir riesgos de trabajo.
+Servicios de Administración y Control del Desarrollo
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN X, P.O. 16 DE OCTUBRE DE 2023]</small>
+Urbano 500
 
-El trabajo digno o decente también incluye el respeto irrestricto a los derechos colectivos de los trabajadores, tales como la libertad de asociación, autonomía, el derecho de huelga y de contratación colectiva.
+De Cooperación 120
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+Servicios Diversos 176,892
 
-###### Artículo 3.
+Servicios prestados por Autoridades de Salud 10,400
 
-Para garantizar el cumplimiento de los derechos reconocidos a los jóvenes en esta Ley (sic) observarán los siguientes principios:
+Accesorios 35,538
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
+III PRODUCTOS 104,589
 
-I. Corresponsabilidad: deberá involucrar a los miembros de la familia, tutores o quienes ejerzan la patria potestad, según el caso, a los jóvenes, al gobierno y a los demás sectores de la sociedad en la resolución de los problemas que aquejan a la juventud;
+PRODUCTO DE TIPO CORRIENTE 104,589
 
-II. Equidad: en el acceso y disfrute de los derechos para el desarrollo integral de los jóvenes;
+IV APROVECHAMIENTOS 1,149.729
 
-III. Igualdad: Los jóvenes pueden acceder al desarrollo integral en igualdad de condiciones;
+APROVECHAMIENTOS DE TIPO CORRIENTE 1, 149,729
 
-IV. Inclusión: las políticas públicas tomarán en cuenta las (sic) diversidad de los grupos que integran al sector de los jóvenes;
+Por Incentivos derivados del Convenio de Colaboración
 
-V. No discriminación: motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
+Administrativa en materia Fiscal Federal 1,041.928
 
-VI. Participación: las políticas públicas en materia de juventud serán diseñadas e implementadas con la participación de este sector;
+Impuesto sobre Tenencia o Uso de Vehículos 66,013
 
-VII. Respeto: reconocimiento a la diversidad cultural y de pensamiento;
+Impuesto sobre Automóviles Nuevos 128,252
 
-VIII. Solidaridad: deberá fomentarse el apoyo y la colaboración entre los jóvenes y en sus relaciones con otros grupos sociales, con la finalidad de fortalecer los vínculos de unidad y de desarrollo;
+9/11 del IEPS sobre Ventas de Diesel y Gasolina 631.318
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+Otros Incentivos 216,345
 
-IX. Transversalidad: que consiste en la elaboración y ejecución de estrategias, programas y acciones coordinadas o conjuntas en materia de juventud, entre dependencias y entidades de la Administración Pública Federal, órganos constitucionales autónomos, órganos con autonomía legal, gobierno del Estado, y de los Municipios, en el ámbito de sus respectivas competencias.
+Otros Aprovechamientos 50,000
 
-En el ejercicio de la transversalidad además del Estado y los Municipios, se buscara la participación de los sectores privado y social;
+Accesorios 57,801
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+V PARTICIPACIONES, APORTACIONES Y CONVENIOS 28, 170,837
 
-X. Universalidad: Todos los jóvenes gozan de los mismos derechos. Se buscará invariablemente el beneficio de la generalidad de los jóvenes, sin exclusión ni discriminación alguna motivada por cualquiera de los actos a que se refiere este artículo; y
+PARTICIPACIONES 12, 153,959
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+Fondo General de Participaciones 10, 443,890
 
-XI. Cultura de la Paz: Conjunto de valores, actitudes y comportamientos que rechazan la violencia y previenen los conflictos, tratando de atacar sus causas para solucionar problemas mediante el diálogo y la negociación entre las personas y los grupos sociales.
+Fondo de Fomento Municipal 522,739
+
+Impuesto Especial de Producción y Servicios 294,468
+
+Fondo de Compensación del ISAN 80,696
+
+Fondo de Fiscalización 484,780
+
+Fondo de Extracción de Hidrocarburos 327,386
+
+APORTACIONES 14, 401,569
+
+Fondo de Aportaciones Para la Educación Básica
+
+y Normal 8, 837,586
+
+Fondo de Aportaciones Para los Servicios de Salud 2, 087,469
+
+Fondo de Aportaciones Para la Infraestructura Social:
+
+Para la Infraestructura Social Municipal 550,134
+
+Para la Infraestructura Social Estatal 75,872
+
+Fondo de Aportaciones Para el Fortalecimiento
+
+de los Municipios 1, 472,600
+
+Fondo de Aportaciones Múltiples:
+
+Para la Asistencia Social 167,479
+
+Fondo de Aportaciones Para la Educación Tecnológica y de Adultos:
+
+Para la Educación Tecnológica (CONALEP) 125,619
+
+Para la Educación de Adultos (ITEA) 58,912
+
+Fondo de Aportaciones para la Seguridad Pública
+
+de los Estados y del D.F. 271,925
+
+Fondo de Aportaciones para el Fortalecimiento de las
+
+Entidades Federativas 753,973
+
+CONVENIOS 1, 615,309
+
+PROGRAMAS, CONVENIOS Y REASIGNACIONES 1, 615,309
+
+Caminos y Puentes Federales 37,745
+
+Apoyo Federal Universidad Autónoma de Tamaulipas 1, 470,685
+
+Apoyo SEP a ITACE 74,321
+
+Alimentación de Reos Federales 32,558
+
+VI INGRESOS DERIVADOS DE FINANCIAMIENTOS 0
+
+ENDEUDAMIENTO INTERNO 0
+
+TOTAL 32, 092,411
+
+###### ARTÍCULO 2.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, establecerá cuotas de los productos, así como el destino de los mismos; en el caso de organismos públicos descentralizados, se percibirán sus ingresos con base a las autorizaciones efectuadas en términos y condiciones de la ley o decreto de su creación.
+
+###### ARTÍCULO 3.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, queda autorizado para fijar o modificar los aprovechamientos que se cobrarán por el uso o aprovechamiento de bienes de dominio público del Estado.
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
-###### Artículo 4.
+###### ARTÍCULO 4.
 
-La juventud de Nuevo León tiene las siguientes obligaciones:
-
-I. Respetar y vigilar el cumplimiento de la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, en concordancia con el respeto irrestricto de los derechos de los demás grupos y segmentos de la sociedad;
-
-II. Asumir el proceso de su propia formación, a través de la convivencia pacífica, la tolerancia, la democracia y el compromiso social;
-
-III. Actuar con respeto hacia los derechos de las personas, grupos y segmentos de la sociedad a través de la cultura de la paz, la tolerancia, la democracia y el compromiso social;
-
-IV. Procurar y promover el cuidado y protección de los espacios públicos;
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
-
-V. Procurar y promover las acciones necesarias para el mejoramiento de las condiciones de vida en la entidad;
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
-
-VI. Participar y procurar mantenerse informada de la toma de decisiones del Instituto y de instancias correspondientes que involucren temas de juventud; y
-
-> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
-
-VII. Colaborar, participar e involucrarse en las acciones de desarrollo sostenible que promueva el Instituto de la juventud y las diversas autoridades gubernamentales.
+El Ejecutivo del Estado está facultado para conceder participaciones en multas, recargos, rezagos, cobranzas y sobre el aumento de ingresos, al personal oficial que intervenga en la vigilancia, control, liquidación y recaudación de gravámenes propios del Estado.
 
 ### CAPÍTULO III. DE LOS DERECHOS DE LOS JÓVENES
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
-###### Artículo 5.
+###### ARTÍCULO 5.
 
-Los derechos y garantías de los jóvenes, son inherentes a la condición de persona, y por consiguiente, son de orden público, indivisibles e irrenunciables. Los jóvenes gozarán, sin restricción alguna, del derecho a la protección efectiva del Estado para el ejercicio y defensa de los derechos consagrados en esta Ley, así como los derechos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado Libre y Soberano de Nuevo León, Tratados Internacionales de los que México sea parte, leyes, reglamentos y demás ordenamientos jurídicos vigentes.
+Se faculta al Ejecutivo del Estado para que, por conducto de la Secretaría de Finanzas, conceda reducciones en los accesorios causados de las contribuciones estatales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+###### ARTÍCULO 6.
 
-###### Artículo 6.
-
-La presente Ley establece de manera enunciativa y no limitativa los derechos de la juventud que deberán estar garantizados por el Estado y las Dependencias competentes a las que se refiere este ordenamiento, siendo los siguientes:
-
-l. El derecho a la vida;
-
-> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2023)</small>
-
-I Bis. Derecho a ejercer su libre pensamiento y albedrio en relación de su proyecto de vida, cuando no se contraponga con cualquier otro ordenamiento legal, así como cualquier obligación legal que tengan los padres, madres o quien tenga la guardia y custodia legal de los menores.
-
-II. El derecho a la no discriminación;
-
-III. El derecho a vivir en condiciones de bienestar y a un desarrollo psicofísico;
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
-
-IV. El derecho a ser protegido en su integridad y libertad, contra el maltrato físico, psicológico, abuso o violencia sexual;
-
-V. El derecho a la salud y a la asistencia social;
-
-VI. El derecho a la educación;
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2023)</small>
-
-VII. El derecho a un trabajo digno o decente y un salario justo e igualitario;
-
-VIII. El derecho al descanso y tiempo de esparcimiento;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
-
-IX. El derecho a la libertad de pensamiento, opinión, creencias y a una cultura propia;
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
-
-X. El derecho a la participación política y social en la toma de decisiones;
-
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2021)</small>
-
-X Bis. Derecho a ser escuchado y tomado en cuenta en la toma de decisiones;
-
-XI. El derecho al bienestar social;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
-
-XII. El derecho de acceso a la información;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
-
-XIII. El derecho a la libre asociación y organización juvenil;
-
-XIV. El derecho de acceso y disfrute de los servicios y beneficios socio-económicos, políticos, culturales, informativos, de desarrollo y de convivencia que les permitan construir una vida Plena en el Estado; y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE DICIEMBRE DE 2015)</small>
-
-XV. El derecho de Acceso a la procuración e impartición de Justicia.
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
-
-XVI. El derecho a contar con espacios públicos para ser utilizados en el desarrollo integral de los jóvenes;
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
-
-XVII. El derecho al honor, intimidad y propia imagen;
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
-
-XVIII. El Derecho a formar parte de una familia;
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
-
-XIX. El derecho de igualdad de género;
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
-
-XX. El Derecho de libertad de expresión;
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
-
-XXI. El Derecho de cultura y deporte;
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
-
-XXII. Los demás que señale esta Ley y otros ordenamientos.
+En los casos de prórroga para el pago de créditos fiscales, se causarán recargos al 1.8% mensual sobre saldos insolutos durante el año de 2012.
 
 ###### Artículo 7.
 
@@ -771,43 +741,17 @@ El incumplimiento de esta Ley será sancionado de acuerdo a la Ley de Responsabi
 
 ## TRANSITORIO
 
-Artículo Único.- La presente Ley entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO ÚNICO.
 
-Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado. Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su capital, a los veinticinco días del mes de junio de 2008.
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero del 2012.
 
-PRESIDENTA: DIP. JUANA AURORA CAVAZOS CAVAZOS; DIP. SECRETARIO: NOÉ TORRES MATA; DIP. SECRETARIA: LAURA PAULA LÓPEZ SÁNCHEZ.- Rúbricas.-
+SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 14 de diciembre del año 2011.- DIPUTADO PRESIDENTE.- DANIEL SAMPAYO SÁNCHEZ.- Rúbrica.- DIPUTADA SECRETARIA.- ROSA ICELA ARIZOCA.- Rúbrica.- DIPUTADO SECRETARIO.- JOSÉ RAMÓN GÓMEZ LEAL.- Rúbrica."
 
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los 01 días del mes de julio del año 2008.
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NUEVO LEÓN
+Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los quince días del mes de diciembre del año dos mil once.
 
-JOSÉ NATIVIDAD GONZÁLEZ PARÁS
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 30 DE MARZO DE 2010.
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 27 DE DICIEMBRE DE 2010.
-
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Segundo.- El Ejecutivo del Estado deberá realizar las modificaciones que correspondan al Reglamento de la Ley de Fomento a la Inversión y al Empleo en el Estado de Nuevo León, en un plazo de noventa días naturales contados desde el día de la entrada en vigor del presente Decreto.
-
-P.O. 27 DE JUNIO DE 2012.
-
-Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 26 DE JUNIO DE 2013.
-
-Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 28 DE NOVIEMBRE DE 2014.
-
-Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 14 DE DICIEMBRE DE 2015.
+ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- El SECRETARIO GENERAL DE GOBIERNO.- MORELOS CANSECO GÓMEZ.- Rúbrica.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 021. POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN”.]
 
