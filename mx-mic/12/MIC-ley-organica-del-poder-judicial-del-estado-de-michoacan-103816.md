@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-de-michoacan-103816"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-03"
-last_updated: "2023-07-05"
+last_updated: "2023-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 3 de diciembre de 2014.
 
@@ -1311,7 +1311,9 @@ XVII. Cumplir con sus atribuciones en materia de bienes asegurados, objetos del 
 
 XVIII. Solicitar al Congreso la destitución del Magistrado que se encuentre en los supuestos del artículo 77 de la Constitución. Para este efecto el Consejo allegará al Congreso los elementos que fundamenten y motiven su petición;
 
-XIX. Determinar el número y, en su caso, especialización por materia de los juzgados de Primera Instancia en cada uno de los distritos y regiones judiciales, de conformidad con sus posibilidades presupuestarias;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+XIX. Determinar el número y, en su caso, especialización por materia de los juzgados de Primera Instancia en cada uno de los distritos y regiones judiciales, así como en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes, de conformidad con sus posibilidades presupuestarias;
 
 XX. Nombrar, adscribir y readscribir a los jueces de primera instancia de conformidad con los requisitos, procedimientos y criterios establecidos en esta ley y en la Constitución, así como determinar el procedimiento para cubrir sus faltas temporales o absolutas;
 
@@ -2420,3 +2422,21 @@ P.O. 5 DE JULIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El Poder Judicial del Estado de Michoacán deberá armonizar su reglamentación en un término no mayor a 90 noventa días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 465 POR EL QUE “SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 90 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO MICHOACÁN”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. La Secretaría de Gobierno coordinará los trabajos interinstitucionales a efecto de que el Centro de Atención y Justicia para Niñas, Niños y Adolescentes de la ciudad de Morelia comience a operar a más tardar dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto. El Gobernador del Estado deberá designar al Director General a la entrada en funciones de este Centro, que será el encargado de la administración general de todos aquellos Centros al interior del Estado conforme se disponga en los lineamientos de coordinación a que alude el siguiente transitorio.
+
+Se deberán emitir lineamientos de coordinación que acuerden los titulares de los poderes, organismos autónomos, entidades y dependencias que forman parte del Centro, mismos que serán publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, sin menoscabo de la normatividad reglamentaria que se expida por cada autoridad para su personal y funciones.
+
+Para tal efecto y conforme al principio de prioridad de la niñez y adolescencia, se autoriza a los poderes Ejecutivo y Judicial de Michoacán, así como a las autoridades y organismos autónomos referidos en el presente Decreto, realizar las modificaciones conducentes en materia administrativa, reglamentaria y presupuestaria para dar cumplimiento al presente Decreto.
+
+El Consejo del Poder Judicial y el Titular del Poder Ejecutivo del Estado de Michoacán y su Secretaría de Gobierno, dispondrán realizar las adecuaciones reglamentarias, administrativas y presupuestales necesarias para la adscripción de los Centros de Atención y Justicia para Niñas, Niños y Adolescentes en dicha dependencia. Igualmente, la Fiscalía General de Justicia, la Comisión Estatal de los Derechos Humanos, la Comisión Estatal de Atención a Víctimas y Ayuntamientos, todos del Estado de Michoacán de Ocampo, así como las secretarías de Seguridad Pública y de Salud del Gobierno del Estado y el Sistema Estatal DIF realizarán las adecuaciones reglamentarias, administrativas y presupuestales necesarias para prestar sus servicios en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes, conforme al presente Decreto.
+
+Tercero. Conforme al principio de prioridad de la niñez y adolescencia, el Congreso del Estado de Michoacán, en el Presupuesto de Egresos inmediato posterior a la entrada en vigor del presente Decreto, al menos deberá destinar los recursos necesarios para la operación y funcionamiento de un Centro de Atención y Justicia para Niñas, Niños y Adolescentes en cada distrito judicial en el Estado. Los organismos autónomos y las autoridades vinculadas por el presente Decreto, también incluirán en su proyecto de Presupuesto los recursos necesarios.
+
+Lo anterior, no será impedimento para que dichos Centros comiencen a operar conforme al artículo segundo transitorio del presente Decreto, con los recursos con que cuenten los poderes Ejecutivo y Judicial y los organismos autónomos a la fecha.
