@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2023-01-20"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -244,6 +244,24 @@ El Reglamento Interior del Ayuntamiento normará pormenorizadamente lo relativo 
 ###### Artículo 26.
 
 El Ayuntamiento en ningún caso podrá desempeñar, como cuerpo colegiado, las funciones de Presidente Municipal, ni éste, por sí solo, las que correspondan al Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 26 Bis.
+
+En los municipios con población reconocida y declarada como pueblos y comunidades indígenas en la Ley que Establece el Catálogo de Pueblos y Comunidades Indígenas del Estado de Sinaloa, el Cabildo emitirá una convocatoria con la finalidad de invitarlos a elegir, de acuerdo con sus normas, procedimientos y prácticas tradicionales, un representante ante el Ayuntamiento.
+
+Cada comunidad indígena podrá contar con un representante ante el Ayuntamiento. Igualmente, los integrantes de un pueblo indígena pueden decidir contar con un solo representante para todas sus comunidades; y de manera excepcional, siempre que se haya fundado y motivado debidamente en la convocatoria, ya sea porque las comunidades indígenas se encuentran dispersas en el territorio del municipio o para asegurar la funcionalidad y la operatividad del Ayuntamiento, se podrá determinar que la representatividad ante el mismo será por pueblo indígena.
+
+La convocatoria deberá expedirse entre el segundo domingo de enero y el 31 de ese mes del año siguiente al de la elección del Ayuntamiento, en la forma y términos que éste determine y sea aprobada por el cabildo; tendrá que publicarse, con su respectiva traducción, en los lugares más visibles y concurridos por las y los integrantes de los pueblos y comunidades indígenas.
+
+La elección del representante indígena deberá ser verificada por el Ayuntamiento. La voluntad del pueblo o comunidad indígena y de sus integrantes será plasmada en un acta.
+
+La representación deberá ser reconocida por el Ayuntamiento electo a más tardar el 15 de febrero del año que corresponda. Dicho reconocimiento tiene un carácter registral, más no constitutivo.
+
+El representante indígena tendrá el derecho a voz en las sesiones de Cabildo; a ser convocado oportunamente a las mismas cuando se discutan asuntos de interés para la comunidad o pueblo correspondiente; y a tener conocimiento previo de los asuntos a tratar, mediante los comunicados correspondientes del orden de asuntos a discutir.
+
+El representante indígena sólo podrá ser removido o privado de la facultad de representación por el pueblo o comunidad que los designó. En estos casos, el pueblo o comunidad indígena deberá informar al Ayuntamiento de la remoción de su representante, para que emita una nueva convocatoria.
 
 ### CAPÍTULO III. DE LAS FACULTADES Y OBLIGACIONES DE LOS AYUNTAMIENTOS
 
@@ -2094,3 +2112,13 @@ P.O. 20 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 379 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA Y DE LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 591 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE ADICIONA EL ARTÍCULO 26 BIS A LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. En un plazo de sesena (sic) días naturales los Ayuntamientos con población reconocida y declarada como pueblos y comunidades indígenas en la Ley que Establece el Catálogo de Pueblos y Comunidades Indígenas del Estado de Sinaloa, deberán emitir las modificaciones a las disposiciones reglamentarias que deriven del presente Decreto.
+
+TERCERO. Los Ayuntamientos con representación indígena deberán facilitar los elementos y recursos materiales que se requieran para el desempeño de las actividades esenciales e indispensables del representante indígena.
