@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "2023-10-11"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -277,6 +277,10 @@ Las mujeres tendrán los mismos derechos y las mismas obligaciones que los hombr
 
 Las mujeres disfrutarán de un mes de Licencia de Maternidad antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo. En caso de parto prematuro o cuando así lo requiera por decisión propia, la mujer trabajadora tendrá derecho a que se acumule su Licencia de Maternidad posterior del parto, el lapso de licencia que no hizo efectivo antes del mismo, de modo de completar los tres meses.
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+Para las mujeres trabajadoras en estado de gestación, en los casos de embarazos de alto riesgo o cuando sea recomendado por el médico que las atiende, bajo el correspondiente certificado médico, el superior jerárquico de la trabajadora deberá dar prioridad a que realicen trabajo a distancia fomentando el uso de las tecnologías de la información y la comunicación, para el desempeño laboral de la trabajadora, sin disminución salarial y demás percepciones económicas complementarias.
+
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Art. 24 Bis.
@@ -451,13 +455,19 @@ Se entenderá como centros de atención, a aquellos espacios, cualquiera que sea
 
 XVII.- Otorgar permiso de ausencia laboral por motivo de luto a causa del fallecimiento de algún familiar dentro del primer grado por consanguinidad o afinidad, por un plazo mínimo de 3 días hábiles y máximo de 5 días hábiles con goce de sueldo a las personas trabajadoras. Estos días serán aquellos inmediatos al deceso.
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-XVIII.- Una vez al año, otorgar permiso de un día con goce de sueldo a las mujeres trabajadoras, para realizarse estudios médicos preventivos de cáncer de mama y cervicouterino, y
+XVIII.- Una vez al año, otorgar permiso de un día con goce de sueldo a las mujeres trabajadoras, para realizarse estudios médicos preventivos de cáncer de mama y cervicouterino.
 
-> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-XIX.- Otorgar permisos de ausencia laboral por motivos de asuntos escolares relacionados con sus hijos o hijas menores de edad, previa justificación, hasta por cuatro horas, los cuales no podrán exceder de cuatro permisos durante el año escolar. Se podrá compensar la ausencia con un tiempo igual de trabajo efectivo, previo acuerdo entre la persona trabajadora y su superior jerárquico.
+XIX.- Otorgar permisos de ausencia laboral por motivos de asuntos escolares relacionados con sus hijos o hijas menores de edad, previa justificación, hasta por cuatro horas, los cuales no podrán exceder de cuatro permisos durante el año escolar. Se podrá compensar la ausencia con un tiempo igual de trabajo efectivo, previo acuerdo entre la persona trabajadora y su superior jerárquico, e
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+XX.- Implementar un protocolo, de común acuerdo con los trabajadores, para prevenir la discriminación por razones de género y la atención de casos de violencia, acoso u hostigamiento sexual.
+
+Dichos protocolos deberán incluir procedimientos ágiles, claros y precisos para sancionar las conductas previstas en esta fracción, así como otorgar las facilidades necesarias a las y los trabajadores quienes denuncien, ante las autoridades competentes.
 
 ### CAPITULO QUINTO. De las obligaciones de los funcionarios y trabajadores
 
@@ -1260,3 +1270,15 @@ SEGUNDO.- Las personas Titulares de los Poderes Ejecutivo, Legislativo y Judicia
 TERCERO.- Las acciones que realicen el Gobierno del Estado y los Municipios, así como sus dependencias y entidades de la administración pública que correspondan para dar cumplimiento al presente Decreto deberán ajustarse en todo momento a lo señalado en los artículos 10, 13 y 14, según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones y el uso de recursos excedentes.
 
 CUARTO.- En el caso de que una persona adulta mayor se incorpore como funcionario público en los términos de la presente Ley y tenga una discapacidad de acuerdo con la Ley para la Protección de los Derechos de las Personas con Discapacidad, deberá tomarse en consideración dentro del porcentaje del dos por ciento, de la plantilla laboral previsto en la fracción IV del artículo 22 de dicha Ley.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 427 SE REFORMAN LAS FRACCIONES XVI Y XIX DEL ARTÍCULO 36 Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 24 Y UNA FRACCIÓN X AL ARTÍCULO 36, TODOS DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Las personas Titulares de los Tres Poderes Ejecutivo, Legislativo y Judicial; y los Ayuntamientos contarán con un plazo de 90 días hábiles a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del mismo.
