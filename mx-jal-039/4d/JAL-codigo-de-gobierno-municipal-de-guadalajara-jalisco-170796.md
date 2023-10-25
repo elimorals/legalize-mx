@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2023-09-27"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 27 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 25 DE OCTUBRE DE 2023.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -5453,9 +5453,17 @@ XVIII. Proponer y colaborar con las dependencias competentes, en las actividades
 
 XIX. Supervisar, evaluar, mantener y restaurar los monumentos, esculturas, bustos, placas y elementos de ornato, patrimonio del Municipio, en coordinación con las demás dependencias municipales competentes;
 
-XX. Coadyuvar en la preservación del patrimonio cultural y artístico del Municipio; y
+> <small>(REFORMADA, G.M. 25 DE OCTUBRE DE 2023)</small>
 
-XXI. Promover la difusión del patrimonio y tradiciones culturales y artísticas del Municipio.
+XX. Coadyuvar en la preservación del patrimonio cultural y artístico del Municipio;
+
+> <small>(REFORMADA, G.M. 25 DE OCTUBRE DE 2023)</small>
+
+XXI. Promover la difusión del patrimonio y tradiciones culturales y artísticas del Municipio; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 25 DE OCTUBRE DE 2023)</small>
+
+XXII. Validar y llevar un registro de los artistas urbanos, músicos, estatuas vivientes, personas vestidas con botargas o caracterizadas y demás expresiones culturales análogas a las mencionadas, que fueran puestos a su consideración por parte de la Comisión Dictaminadora de la Zona de Intervención Especial del Centro Histórico.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -8494,6 +8502,16 @@ G.M. 27 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DE “REFORMAS AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]
 
 Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicadas las presentes reformas, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE “REFORMAS AL REGLAMENTO PARA EL FUNCIONAMIENTO DE GIROS COMERCIALES, INDUSTRIALES Y DE PRESTACIÓN DE SERVICIOS EN EL MUNICIPIO DE GUADALAJARA Y AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]
+
+Primero. Publíquese las presentes reformas en la Gaceta Municipal de Guadalajara.
 
 Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
