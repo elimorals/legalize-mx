@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-142887"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-14"
-last_updated: "2023-06-15"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de mayo de 2020.
 
@@ -125,13 +125,17 @@ Se entiende por servicios educativos los que, en el ámbito de sus atribuciones,
 
 I. Contribuir a la formación del pensamiento crítico, a la transformación y al crecimiento solidario de la sociedad, enfatizando el trabajo en equipo y el aprendizaje colaborativo;
 
-II. Propiciar un diálogo continuo entre las humanidades, las artes, la ciencia, la tecnología y la innovación como factores del bienestar y la transformación social;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+II. Propiciar un diálogo continuo entre las humanidades, las artes, la ciencia, la seguridad, la psicología, la tecnología y la innovación como factores del bienestar y la transformación social;
 
 III. Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad, además de proteger la naturaleza, impulsar el desarrollo en lo social, ambiental, económico, así como favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
 
 IV. Combatir las causas de discriminación y violencia en las diferentes regiones del Estado, especialmente la que se ejerce contra la niñez y las mujeres, y
 
-V. Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+V. Alentar la construcción de relaciones sociales, económicas, culturales y prevenir las conductas antisociales para un bien social con base en el respeto de los derechos humanos.
 
 ###### ARTÍCULO 11.
 
@@ -141,7 +145,9 @@ I. La identidad y el sentido de pertenencia como potosina y potosino, además de
 
 II. La responsabilidad ciudadana, sustentada en valores como la honestidad, la justicia, la solidaridad, la reciprocidad, la lealtad, la libertad, entre otros;
 
-III. La participación activa en la transformación de la sociedad, al emplear el pensamiento crítico a partir del análisis, la reflexión, el diálogo, la conciencia histórica, el humanismo y la argumentación para el mejoramiento de los ámbitos social, cultural y político;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+III. La participación activa en la transformación de la sociedad, al emplear el pensamiento crítico a partir del análisis, la reflexión, el diálogo, la psicología, la conciencia histórica, el humanismo y la argumentación para el mejoramiento de los ámbitos social, cultural y político;
 
 > <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
@@ -2168,3 +2174,11 @@ P.O. 15 DE JUNIO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0859.- SE REFORMAN LOS ARTÍCULOS 10 EN SUS FRACCIONES II Y V Y 11 EN SU FRACCIÓN III, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
