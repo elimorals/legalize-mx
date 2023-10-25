@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-servicio-civil-del-estado-de-morelos-17928"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2022-07-06"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
@@ -841,9 +841,13 @@ La violación a estas disposiciones, será considerada como despido injustificad
 
 Artículo 55 C.- Las madres, durante los seis meses siguientes al vencimiento de la incapacidad, para alimentar a sus hijos, disfrutarán de un descanso extraordinario de una hora.
 
-> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-Artículo 55 D.- Los cónyuges o concubinarios, por concepto de paternidad y con el propósito de ayudar a la madre en las tareas posteriores al parto o adopción, disfrutarán de un período de quince días naturales con goce de salario integro; al efecto, el área de recursos humanos de la entidad en que preste sus servicios, reglamentará las medidas de comprobación, vigilancia y control necesarias para el cumplimiento del fin.
+Artículo 55 D.- Los cónyuges o concubinarios, por concepto de paternidad y con el propósito de ayudar a la madre en las tareas posteriores al parto o adopción, disfrutarán de un período de quince días hábiles con goce de salario íntegro; al efecto, el área de recursos humanos de la entidad en que preste sus servicios, reglamentará las medidas de comprobación, vigilancia y control necesarias para el cumplimiento del fin.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+Artículo 55 E.- En caso de parto prematuro o cuando así lo requiera por decisión propia de la trabajadora, previa autorización escrita de un médico de una institución de salud oficial o particular cuando decida la trabajadora atenderse externamente, y tomando en cuenta la opinión del patrón o patrones según sea el caso, así como la naturaleza del trabajo que desempeñe, tendrá derecho a transferir de una a cuatro de las seis semanas de licencia por maternidad previas al parto para después del mismo; en caso de que los hijos hayan nacido con cualquier tipo de discapacidad o requieran atención médica hospitalaria, el descanso podrá ser de hasta ocho semanas posteriores al parto, previa presentación del certificado médico correspondiente.
 
 (NOTA 1: EL 8 DE NOVIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 89/2008, 90/2008, 91/2008 Y 92/2008, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE DICIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -1828,3 +1832,27 @@ CUARTA. En el caso de la existencia previa de una declaratoria por presunción d
 QUINTA. Las personas titulares del Tribunal Superior de Justicia del Estado de Morelos, el Poder Ejecutivo del Estado de Morelos, así como de los organismos autónomos a los que se refiere esta ley, contarán con un plazo de 180 días para adecuar las disposiciones reglamentarias que correspondan, a efecto de cumplir y armonizarlas con las disposiciones contenidas en la presente ley.
 
 SEXTA. Todas las autoridades que intervienen en la aplicación de la presente ley deberán capacitarse conforme a este procedimiento de Declaración Especial de Ausencia, para garantizar de manera adecuada una protección eficaz del derecho.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS VEINTISIETE.- POR EL CUAL SE REFORMA EL ARTÍCULO 55 D DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL TRESCIENTOS VEINTIOCHO POR EL CUAL SE ADICIONA UN ARTÍCULO 55 E, A LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS".]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
