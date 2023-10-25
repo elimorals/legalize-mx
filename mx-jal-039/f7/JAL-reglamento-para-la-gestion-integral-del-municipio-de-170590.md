@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-la-gestion-integral-del-municipio-de-170590"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-07-15"
-last_updated: "2023-07-26"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 26 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 25 DE OCTUBRE DE 2023.
 
 Reglamento publicado en el Suplemento de la Gaceta Municipal del Estado de Guadalajara, el viernes 15 de julio de 2016.
 
@@ -2941,6 +2941,26 @@ VII. Construcción, ampliación y/o remodelación de obras de infraestructura ur
 
 VIII. Las edificaciones de cualquier uso que cuenten con más de dos sótanos o que dentro del predio a edificar se localicen mantos freáticos y se solicite la autorización para la construcción de cajones de estacionamiento sobre rasante, sin que dicha superficie se compute para el cálculo del CUS e ICUS.
 
+> <small>(ADICIONADO, G.M. 25 DE OCTUBRE DE 2023)</small>
+
+Artículo 183 bis. Cuando las personas físicas o jurídicas tengan interés en la realización de acciones urbanísticas que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, no causen o puedan causar desequilibrios ecológicos, y que no se trate de acciones previstas en los supuestos del artículo anterior, estas no requerirán de la obtención del Dictamen en Materia de Impacto Ambiental.
+
+En estos casos, los interesados deberán dar aviso por escrito a la Dirección de Medio Ambiente para que esta evalúe la procedencia del mismo y, en su caso, resolverá, en un término de diez días, mediante un acto declarativo que se limitará a certificar el hecho o situación jurídica antes referida. En caso contrario, la Dirección notificará al interesado de manera fundada y motivada las razones de la improcedencia de su pretensión.
+
+Lo anterior, sin perjuicio de los permisos, licencias, autoridades y concesiones que los interesados deban gestionar en los términos de la legislación que resulte aplicable, y de conformidad con las normas oficiales mexicanas en materia ambiental.
+
+> <small>(ADICIONADO, G.M. 25 DE OCTUBRE DE 2023)</small>
+
+Artículo 183 ter. Cuando se pretende realizar modificaciones al proyecto después de emitida la autorización en materia de impacto, el interesado deberá presentar su solicitud a la Dirección de Medio Ambiente, para que esta, en un plazo no mayor a diez días, la evalúe y resuelva:
+
+I. Aprobar las modificaciones en los términos propuestos respecto del contenido de la autorización otorgada, por ajustarse a los parámetros de las regularizaciones aplicables;
+
+II. Aprobar las modificaciones respecto a la autorización otorgada imponiendo las condiciones adicionales que resulten necesarias para la realización de la obra actividad de que se trata;
+
+En este caso, dichas condiciones deberán ser notificadas al promovente en un plazo máximo de veinte días; y
+
+III. Determinar si las modificaciones propuestas requieren de la presentación de un nuevo estudio de Impacto Ambiental o, en su caso, Aviso de No Requerimiento en Materia de Impacto Ambiental.
+
 ###### Artículo 184.
 
 (DEROGADO, G.M. 24 DE ABRIL DE 2017)
@@ -5400,6 +5420,16 @@ Segundo. El presente ordenamiento entrará en vigor treinta días posteriores a 
 Tercero. Una vez publicado el presente ordenamiento, remítase mediante oficio un tanto del mismo al Congreso del Estado de Jalisco, para los efectos ordenados en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
 
 G.M. 26 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA”.]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicadas las presentes reformas, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 25 DE OCTUBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA”.]
 
