@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-prevencion-y-seguridad-escolar-del-estado-y-96420"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2023-05-17"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el sábado 12 de octubre de 2013.
 
@@ -699,6 +699,10 @@ IV. Establecer, en coordinación con la autoridad del ramo, programas permanente
 
 13. Mecanismos alternativos de solución de controversias en materia de seguridad y prevención escolar;
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+14. Emitir recomendaciones de seguridad y de prevención en el traslado a la escuela y regreso a casa;
+
 V. Vigilar la limpieza e higiene del plantel educativo a su cargo;
 
 VI. Promover el consumo de alimentos nutritivos;
@@ -968,3 +972,11 @@ P.O. 17 DE MAYO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0856.- SE REFORMA EL ARTÍCULO 29 EN SU FRACCIÓN IV EL NUMERAL 13; Y ADICIONA AL MISMO ARTÍCULO 29 EN SU FRACCIÓN IV EL NUMERAL 14, DE LA LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
