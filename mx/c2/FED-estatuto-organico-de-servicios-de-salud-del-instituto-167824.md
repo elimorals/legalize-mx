@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-servicios-de-salud-del-instituto-167824"
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-09-13"
-last_updated: "2023-09-27"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167824&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,6 +22,8 @@ issue_date: "2023-07-31"
 ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE SEPTIEMBRE DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 25 DE OCTUBRE DE 2023.]</small>
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 13 de septiembre de 2023.
 
@@ -881,13 +883,17 @@ VI. Contribuir en la normatividad de proyectos de investigación operativa, rela
 
 VII. Consolidar la gestión (sic) los trámites para la obtención de avisos de funcionamiento y licencias sanitarias de las unidades de salud de primer, segundo y tercer nivel de atención, con los niveles de conducción de IMSS-BIENESTAR y autoridades sectoriales correspondientes.
 
-VIII. Validar las necesidades a partir de anteproyectos conceptuales en materia de remodelación, adquisición o construcción de obras físicas, equipo médico y mobiliario, para la prestación de servicios en unidades de salud de primer, segundo y tercer nivel de acuerdo con el análisis técnico médico definido en colaboración con las Coordinaciones de Infraestructura y Equipamiento Médico y Proyectos Especiales.
+> <small>(F. DE E., D.O.F. 25 DE OCTUBRE DE 2023)</small>
+
+VIII. Validar las necesidades a partir de anteproyectos conceptuales en materia de remodelación, adquisición o construcción de obras físicas, equipo médico y mobiliario, para la prestación de servicios en unidades de salud de primer, segundo y tercer nivel de acuerdo con el análisis técnico médico definido en colaboración con las coordinaciones adscritas a la Unidad de Infraestructura.
 
 IX. Representar a la Unidad de Atención a la Salud como área técnico-médica en los comités o grupos de trabajo, donde se realice la gestión y seguimiento de los proyectos de inversión de infraestructura y equipamiento de las unidades del primero, segundo y tercer nivel de atención de IMSS-BIENESTAR.
 
 X. Acordar con las Unidades de Administración y Finanzas y de Infraestructura, los requerimientos de contratación, adquisición o arrendamiento según corresponda, de acuerdo con las necesidades identificadas de recurso humano, obras físicas, equipo médico y mobiliario del primero, segundo y tercer nivel de IMSS-BIENESTAR, previa validación de las Coordinaciones de Unidades de Primer Nivel, Unidades de Segundo Nivel, de Hospitales de Alta Especialidad y Programas Especiales y de Enfermería.
 
-XI. Colaborar con las Coordinaciones de Infraestructura y Equipamiento Médico y Proyectos Especiales en el desarrollo de instrumentos de planeación de obra de unidades médicas y modelos de infraestructura/equipamiento.
+> <small>(F. DE E., D.O.F. 25 DE OCTUBRE DE 2023)</small>
+
+XI. Colaborar con las coordinaciones adscritas a la Unidad de Infraestructura en el desarrollo de instrumentos de planeación de obra de unidades médicas y modelos de infraestructura/equipamiento.
 
 XII. Instrumentar estrategias de ampliación de cobertura que mejoren la accesibilidad de los servicios de promoción, prevención y atención en el primer, segundo y tercer nivel de IMSS-BIENESTAR a partir de los Estudios de Regionalización Operativa y las Redes Integradas de Servicios de Salud.
 
@@ -1751,9 +1757,11 @@ XIV. Coordinar el diseño y producción de materiales editoriales, gráficos, au
 
 ### CAPÍTULO I. DE LA VIGILANCIA, CONTROL Y EVALUACIÓN DE IMSS-BIENESTAR
 
+> <small>(F. DE E., D.O.F. 25 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 58.
 
-El Órgano de Vigilancia de IMSS-BIENESTAR, estará integrado por una persona Comisaria o Comisario Público propietario y un suplente, designados por la Secretaría de la Función Pública, quienes ejercerán las funciones asignadas conforme lo prevén los artículos 60 de la Ley Federal de las Entidades Paraestatales, 16 y 17 del Decreto de Creación, así como las demás disposiciones legales aplicables, conforme a lo previsto en el artículo 36 del Reglamento Interior de la Secretaría de la Función Pública. Entre estas atribuciones se encuentran las siguientes:
+El Órgano de Vigilancia de IMSS-BIENESTAR, estará integrado por una persona Comisaria o Comisario Público propietario y un suplente, designados por la Secretaría de la Función Pública, quienes ejercerán las funciones asignadas conforme lo prevén los artículos 60 de la Ley Federal de las Entidades Paraestatales, 16 y 17 del Decreto de Creación, así como las demás disposiciones legales aplicables, conforme a lo previsto en los artículos 91 y 92 del Reglamento Interior de la Secretaría de la Función Pública. Entre estas atribuciones se encuentran las siguientes:
 
 I. Vigilar que la administración de los recursos y funcionamiento de IMSS-BIENESTAR se realicen de acuerdo con lo que dispongan los programas y presupuestos aprobados.
 
@@ -2274,3 +2282,9 @@ D.O.F. 27 DE SEPTIEMBRE DE 2023.
 PRIMERO. La presente adición entrará en vigor al día siguiente de su aprobación por la Junta de Gobierno.
 
 SEGUNDO. La presente adición deberá ser publicada en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DE LA “NOTA ACLARATORIA AL ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR), PUBLICADO EL 13 DE SEPTIEMBRE DE 2023”.]
+
+ÚNICO. Las presentes aclaraciones entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
