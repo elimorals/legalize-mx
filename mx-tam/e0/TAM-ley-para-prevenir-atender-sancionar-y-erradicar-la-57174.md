@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2023-10-11"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -107,9 +107,9 @@ Los tipos de violencia contra las mujeres son:
 
 a) Psicológica: cualquier acción u omisión que provoque un daño o alteración en la estabilidad psicológica de la mujer. Dicha acción u omisión comprende cualesquiera conducta o conductas que produzcan depresión, aislamiento, deterioro de la autoestima o propensión al suicidio de la mujer;
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-b) Física: cualquier acción u omisión que produzca un daño en la mujer, provocado por la utilización de fuerza física o algún objeto capaz de provocar una lesión interna, externa o ambas;
+b) Física: cualquier acción u omisión que produzca un daño en la mujer, provocado por la utilización de fuerza física o algún objeto arma, ácido o sustancias corrosivas, cáustica, irritante, tóxica, inflamable o cualquier otra sustancia capaz de provocar una lesión interna, externa o ambas;
 
 c) Patrimonial: cualquier acción u omisión que afecte la supervivencia de la mujer. Dicha acción u omisión comprende cualquier conducta o conductas que produzcan la afectación de bienes de la mujer destinados a satisfacer sus propias necesidades, incluyéndose los daños a los bienes comunes o propios de la mujer;
 
@@ -1592,6 +1592,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 11 DE OCTUBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-644 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO ÚNICO, Y SE ADICIONAN LAS FRACCIONES VI, VII Y VIII, TODOS DEL INCISO F), DEL ARTÍCULO 3, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-667 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 3, INCISO B), DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES; Y 3, FRACCIÓN I, PÁRRAFO SEGUNDO, DE LA LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
