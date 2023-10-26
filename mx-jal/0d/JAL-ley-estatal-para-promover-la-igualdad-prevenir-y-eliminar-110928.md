@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-promover-la-igualdad-prevenir-y-eliminar-11092
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2023-07-18"
+last_updated: "2023-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2023.
 
 Ley publicada en la Sección LXIV del Periódico Oficial del Estado de Jalisco, el jueves 17 de diciembre de 2015.
 
@@ -499,7 +499,9 @@ IV. Promover y garantizar el uso de intérprete en el caso de las personas con d
 
 V. Promover que en las unidades del sistema de salud y de seguridad social del Estado reciban regularmente atención integral, la detección, estimulación temprana, orientación, rehabilitación, tratamiento y medicamentos para las diferentes discapacidades, a fin de mantener y aumentar su capacidad funcional y su calidad de vida;
 
-VI. Promover el otorgamiento de beneficios y descuentos especiales para el acceso a centros turísticos, de entretenimiento, recreación, cultura y deporte; así como a los servicios de transporte aéreo, terrestre y marítimo; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+VI. Promover el otorgamiento de beneficios y descuentos especiales para el acceso a centros turísticos, de entretenimiento, recreación, cultura y deporte; así como a los servicios de transporte aéreo, terrestre y marítimo. En el caso de las personas que requieran acompañamiento, esta medida se extenderá a la persona cuidadora primaria cuando ésta lo acompañe y se trate de un servicio público o en instalaciones de la administración pública estatal; y
 
 VII. Fomentar y garantizar el respeto a los espacios reservados para aquellas personas con movilidad reducida.
 
@@ -1026,3 +1028,11 @@ P.O. 18 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29210/LXIII/23 QUE ADICIONA EL ARTÍCULO 31 BIS DE LA LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO, EN MATERIA DE ENFERMEDADES CRÓNICA DEGENERATIVAS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+P.O. 26 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29249/LXIII/23 DEL CONGRESO DEL ESTADO, QUE REFORMA EL ARTÍCULO 27 DE LA LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. El ejecutivo del estado dispondrá 120 días para implementar las medidas y acciones necesarias y realizar las adecuaciones presupuestales, reglamentarias y operativas que deriven del presente decreto.
