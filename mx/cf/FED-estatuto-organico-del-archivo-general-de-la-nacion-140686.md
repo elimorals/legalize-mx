@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-archivo-general-de-la-nacion-140686"
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-02-05"
-last_updated: "2021-09-29"
+last_updated: "2023-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140686&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2020-01-09"
 ---
 # ESTATUTO ORGANICO DEL ARCHIVO GENERAL DE LA NACION
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 29 DE SEPTIEMBRE DE 2021 EN: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/AGN/Acuerdo_Normativo_01_2023.pdf]</small>
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 26 DE OCTUBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DE LA NACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE OCTUBRE DE 2023 (ABROGADO).
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 5 de febrero de 2020.
 
@@ -1732,3 +1734,27 @@ Por lo anterior, el que suscribe, Carlos Enrique Ruiz Abreu, Director General de
 https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf
 
 www.dof.gob.mx/2021/AGN/Reforma_Estatuto_Organico_Archivo_General_Nacion.pdf
+
+D.O.F. 26 DE OCTUBRE DE 2023.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL “AVISO MEDIANTE EL CUAL SE DA A CONOCER EL ACUERDO NORMATIVO 01/2023 QUE APRUEBA EL ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DE LA NACIÓN”.]</small>
+
+AVISO MEDIANTE EL CUAL SE DA A CONOCER EL ACUERDO NORMATIVO 01/2023 QUE APRUEBA EL ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DE LA NACIÓN
+
+Se da a conocer la aprobación del Acuerdo Normativo 01/2023, que aprueba el Estatuto Orgánico del Archivo General de la Nación, el cual tiene por objeto regular la estructura y funcionamiento de esta Entidad, mismo que puede consultarse en los siguientes enlaces; y para todos los efectos jurídicos a que haya lugar:
+
+https://www.gob.mx/cms/uploads/attachment/file/851403/Estatuto_Org_nico_AGN.pdf
+
+www.dof.gob.mx/2023/AGN/Acuerdo_Normativo_01_2023.pdf
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DE LA NACIÓN”.]
+
+Primero. El presente instrumento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la entrada en vigor del presente instrumento, se abroga el Estatuto Orgánico del Archivo General de la Nación publicado el 05 de febrero de 2020 en el Diario Oficial de la Federación y todas sus reformas.
+
+Tercero. La persona titular de la Subdirección de Recursos Humanos deberá gestionar los ajustes orgánicos, ante las instancias gubernamentales competentes, dentro de los tres meses contados a partir de la entrada en vigor del presente instrumento.
+
+Cuarto. La persona titular de la Subdirección de Recursos Humanos deberá avisar a las personas servidoras públicas del Archivo General de la Nación sobre el cambio en la denominación de sus respectivas plazas, sus Unidades y Áreas administrativas de adscripción y el parámetro normativo que regula su actividad, durante la siguiente quincena a la entrada en vigor del presente instrumento.
+
+Quinto. Con la entrada en vigor del presente acuerdo, el Archivo General de la Nación reconoce como propias todas las obligaciones y prerrogativas que deriven de los instrumentos consensuales suscritos por la Coordinación de Memoria Histórica y Cultural de México de la Oficina de la Presidencia de la República, en materia de derecho a la memoria nacional.
