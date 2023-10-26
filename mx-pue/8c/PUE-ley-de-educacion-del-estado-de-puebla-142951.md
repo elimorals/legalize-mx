@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-142951"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-18"
-last_updated: "2023-06-02"
+last_updated: "2023-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Estado de Puebla, el lunes 18 de mayo de 2020.
 
@@ -207,15 +207,29 @@ a) Extenderá sus beneficios sin discriminación alguna, de conformidad con lo d
 
 b) Tendrá especial énfasis en el estudio de la realidad y las culturas locales y nacionales;
 
-II. Inclusiva, eliminando toda forma de discriminación y exclusión, así como las demás condiciones estructurales que se convierten en barreras al aprendizaje y la participación, por lo que:
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
 
-a) Atenderá las capacidades, circunstancias, necesidades, estilos y ritmos de aprendizaje de las y los educandos;
+II. Inclusiva, equitativa y de excelencia eliminando toda forma de discriminación y exclusión, garantizando la igualdad de trato, así como las demás condiciones estructurales que se convierten en barreras al aprendizaje y la participación, por lo que:
 
-b) Eliminará las distintas barreras al aprendizaje y a la participación que enfrentan cada uno de las y los educandos, para lo cual las autoridades educativas, en el ámbito de su competencia, adoptarán medidas en favor de la accesibilidad y los ajustes razonables;
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2023)</small>
 
-c) Proveerá de los recursos técnicos-pedagógicos y materiales necesarios para los servicios educativos, y
+a) Atenderá las capacidades, circunstancias, necesidades, estilos y ritmos de aprendizaje de las y los educandos, con instalaciones adecuadas y ajustando los materiales de aprendizaje;
 
-d) Establecerá la educación especial disponible para todos los tipos, niveles, modalidades y opciones educativas, la cual se proporcionará en condiciones necesarias, a partir de la decisión y previa valoración por parte de las y los educandos, madres y padres de familia, tutoras o tutores, personal docente y, en su caso, por una condición de salud;
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+b) Eliminará las distintas barreras al aprendizaje y a la participación que enfrentan cada uno de las y los educandos, para lo cual las autoridades educativas, en el ámbito de su competencia, adoptarán medidas en favor de la accesibilidad y los ajustes razonables, con la adaptación de planes de estudio para hacerlos pertinentes, flexibles y atentos a las necesidades de los distintos educandos;
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+c) Proveerá de los recursos técnicos-pedagógicos y materiales necesarios para los servicios educativos,
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+d) Establecerá la educación especial disponible para todos los tipos, niveles, modalidades y opciones educativas, la cual se proporcionará en condiciones necesarias, a partir de la decisión y previa valoración por parte de las y los educandos, madres y padres de familia, tutoras o tutores, personal docente y, en su caso, por una condición de salud, y
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+e) Se brindará capacitación a las y los docentes para detectar las necesidades de aprendizaje de las y los educandos, considerando los diversos tipos de discapacidad.
 
 III. Pública, al ser impartida y administrada por el Estado, por lo que:
 
@@ -271,7 +285,9 @@ I. Contribuir al desarrollo integral y permanente de las y los educandos, para q
 
 II. Promover el respeto irrestricto de la dignidad humana, como valor fundamental e inalterable de la persona y de la sociedad, a partir de una formación humanista que contribuya a la mejor convivencia social en un marco de respeto por los derechos de todas las personas y la integridad de las familias, el aprecio por la diversidad y la corresponsabilidad con el interés general;
 
-III. Inculcar el enfoque de derechos humanos y de igualdad sustantiva, y promover el conocimiento, respeto, disfrute y ejercicio de todos los derechos, con el mismo trato y oportunidades para las personas;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+III. Inculcar el enfoque de derechos humanos, de igualdad sustantiva y de inclusión, promover el conocimiento, respeto, disfrute y ejercicio de todos los derechos, con el mismo trato y oportunidades para las personas;
 
 IV. Fomentar el amor a la Patria, el aprecio por sus culturas, el conocimiento de su historia y el compromiso con los valores, símbolos patrios, las instituciones nacionales, estatales y municipales;
 
@@ -319,7 +335,9 @@ V. Inculcará los conceptos y principios del desarrollo sostenible, las ciencias
 
 VI. Será equitativa, al favorecer el pleno ejercicio del derecho a la educación de todas las personas, para lo cual combatirá las desigualdades socioeconómicas, regionales, de capacidades y de género, respaldará a estudiantes en condiciones de vulnerabilidad social y ofrecerá a todas y todos los educandos una educación pertinente que asegure su acceso, tránsito, permanencia y, en su caso, egreso oportuno en los servicios educativos;
 
-VII. Será inclusiva, al tomar en cuenta las diversas capacidades, circunstancias, necesidades, estilos y ritmos de aprendizaje de las y los educandos, y así eliminar las distintas barreras al aprendizaje y a la participación, para lo cual adoptará medidas en favor de la accesibilidad y los ajustes razonables;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+VII. Será inclusiva y equitativa al tomar en cuenta las diversas capacidades, circunstancias, necesidades, estilos y ritmos de aprendizaje de las y los aspirantes y educandos, y así eliminar las distintas barreras al acceso al aprendizaje y a la participación, para lo cual adoptará métodos de enseñanza, enfoques, estructuras y con estrategias en educación que corresponda a las necesidades de los educandos, entre otras medidas en favor de la accesibilidad y los ajustes razonables;
 
 VIII. Será intercultural, al promover la convivencia armónica entre personas y comunidades sobre la base del respeto a sus diferentes concepciones, opiniones, tradiciones, costumbres y modos de vida y del reconocimiento de sus derechos, en un marco de inclusión social;
 
@@ -379,7 +397,9 @@ X. Las instituciones de educación superior a las que la ley otorga autonomía;
 
 XI. Los planes y programas de estudio;
 
-XII. Los muebles e inmuebles, servicios o instalaciones destinados a la prestación del servicio público de educación;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+XII. Los muebles e inmuebles, servicios o instalaciones destinados a la prestación del servicio público de educación en todos sus tipos, niveles y modalidades, adecuadas que cuenten con las características necesarias, para brindar una educación inclusiva de excelencia, a personas con discapacidad, en atención a la suficiencia presupuestaria;
 
 XIII. Los Consejos, Comités y demás órganos que se conformen de acuerdo con las disposiciones aplicables, y
 
@@ -412,6 +432,10 @@ De acuerdo con las necesidades educativas específicas de la población, podrá 
 ###### ARTÍCULO 21.
 
 La educación en sus distintos tipos, niveles, modalidades y opciones educativas responderá a la diversidad lingüística, regional, sociocultural y biocultural; así como de la población rural dispersa y grupos migratorios, además de las características y necesidades de los distintos sectores de la población del Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+En todo caso, el Sistema Educativo Estatal, promoverá la inclusión e integración de las personas con discapacidad.
 
 ### CAPÍTULO II. DEL TIPO DE EDUCACIÓN BÁSICA
 
@@ -725,11 +749,11 @@ En coordinación con la autoridad educativa federal, adoptará medidas para que,
 
 ### CAPÍTULO VIII. DE LA EDUCACIÓN INCLUSIVA
 
-(NOTA: EL 25 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 131/2020 Y SU ACUMULADA 186/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 51.
 
-La educación inclusiva se refiere al conjunto de acciones orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de todas y todos los educandos, al eliminar prácticas de discriminación, exclusión y segregación.
+La educación inclusiva se refiere al conjunto de acciones orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de todas y todos los educandos, al eliminar prácticas de discriminación, estigmatización, estereotipos, exclusión y segregación, sobre la base de igualdad de oportunidades.
 
 La educación inclusiva se basa en la valoración de la diversidad, adaptando el sistema para responder con equidad a las características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje de todos y cada uno de las y los educandos.
 
@@ -739,23 +763,35 @@ La educación inclusiva se basa en la valoración de la diversidad, adaptando el
 
 Las instituciones de educación especial, deberán ser atendidas por personal profesional especializado y multidisciplinario, para cumplir eficazmente con los propósitos de esta educación.
 
-(NOTA: EL 25 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 131/2020 Y SU ACUMULADA 186/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 53.
 
-La educación inclusiva tiene como finalidad favorecer el aprendizaje de todas y todos los educandos en los tipos y niveles educativos, con énfasis en los que están excluidos, marginados o en riesgo de estarlo. Para tal efecto, las acciones de la Secretaría en la materia buscarán:
+La educación inclusiva y equitativa tiene como finalidad favorecer el aprendizaje de todas y todos los educandos en todos los tipos, niveles y modalidades educativos, con énfasis en los que están excluidos, marginados o en riesgo de estarlo. Para tal efecto, las acciones de la Secretaría en la materia buscarán:
 
 I. Favorecer el máximo logro de aprendizaje de las y los educandos con respeto a su dignidad, derechos humanos y libertades fundamentales, reforzando su autoestima y aprecio por la diversidad humana;
 
-II. Desarrollar al máximo la personalidad, los talentos y la creatividad de las y los educandos;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+II. Desarrollar al máximo la personalidad, los talentos y la creatividad de las y los educandos, así como sus aptitudes físicas y mentales;
 
 III. Favorecer la plena participación de las y los educandos, su educación y garantizar la continuidad de sus estudios en la educación obligatoria;
 
-IV. Instrumentar acciones para que ninguna persona quede excluida del Sistema Educativo Estatal por motivos de origen étnico o nacional, creencias religiosas, convicciones éticas o de conciencia, sexo, orientación sexual o de género, así como por sus características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje, entre otras;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
 
-V. Realizar los ajustes razonables en función de las necesidades de las personas y otorgar los apoyos necesarios para facilitar su formación, y
+IV. Instrumentar acciones para que ninguna persona quede excluida del Sistema Educativo Estatal por motivos de origen étnico o nacional, creencias religiosas, convicciones éticas o de conciencia, sexo, orientación sexual, género, así como por sus características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje, entre otras;
 
-VI. Proporcionar a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida diaria que favorezcan su convivencia cotidiana e inclusión laboral, a fin de propiciar su participación plena y en condiciones equitativas en la educación y en la sociedad.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+V. Realizar los ajustes razonables en función de las necesidades de las personas y otorgar los apoyos necesarios para facilitar su formación;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+VI. Proporcionar a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida diaria que favorezcan su convivencia cotidiana e inclusión laboral, a fin de propiciar su participación plena y en condiciones equitativas en la educación y en la sociedad, y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+VII. Reconocer la diversidad y promover la participación superando los obstáculos que dificultan el aprendizaje y la participación de todos, centrándose en el bienestar y el éxito de las personas con discapacidad, con una cultura de no discriminación.
 
 (NOTA: EL 25 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 131/2020 Y SU ACUMULADA 186/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -775,9 +811,17 @@ IV. Establecer un sistema de diagnóstico temprano y atención especializada par
 
 V. Garantizar la formación de todo el personal docente para que, en el ámbito de sus competencias, contribuyan a identificar y eliminar las barreras para el aprendizaje y la participación, y preste los apoyos que las y los educandos requieran;
 
-VI. Garantizar la satisfacción de las necesidades básicas de aprendizaje de las y los educandos con alguna discapacidad, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva, y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
 
-VII. Promover actitudes, prácticas y políticas incluyentes para la eliminación de las barreras del aprendizaje en todos los actores sociales involucrados en educación.
+VI. Garantizar la satisfacción de las necesidades de aprendizaje de las y los educandos con alguna discapacidad, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+VII. Promover actitudes, prácticas y políticas incluyentes para la eliminación de las barreras del aprendizaje en todos los actores sociales involucrados en educación, y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+VIII. Fomentar la toma de conciencia sobre la discapacidad y el uso de modos, medios y formatos de comunicación aumentativos y alternativos y de técnicas y materiales educativos para apoyar a las personas con discapacidad.
 
 (NOTA: EL 25 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 131/2020 Y SU ACUMULADA 186/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -791,11 +835,21 @@ II. Facilitar la adquisición y el aprendizaje de la Lengua de Señas Mexicana d
 
 III. Asegurar que las y los educandos ciegos, sordos o sordociegos reciban educación en los lenguajes y los modos y medios de comunicación más apropiados a las necesidades de cada persona y en entornos que permitan alcanzar su máximo desarrollo académico, productivo y social;
 
-IV. Asegurar que se realicen ajustes razonables para las personas con discapacidad;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
 
-V. Proporcionar a las y los educandos con aptitudes sobresalientes la atención que requieran de acuerdo con sus capacidades, intereses y necesidades, y
+IV. Asegurar que se proporcionen los apoyos necesarios y/o se realicen los ajustes razonables para las personas con discapacidad;
 
-VI. Promover la prestación del servicio de transporte a quienes así lo requieran.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+V. Proporcionar a las y los educandos con aptitudes sobresalientes la atención que requieran de acuerdo con sus capacidades, intereses y necesidades;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+VI. Promover la prestación del servicio de transporte a quienes así lo requieran, y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+VII. Fomentar a través de talleres, actividades culturales y deportivas una cultura de respeto, solidaridad, empatía y colaboración hacia las personas con discapacidad.
 
 (NOTA: EL 25 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 131/2020 Y SU ACUMULADA 186/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -1051,7 +1105,9 @@ La Secretaría desarrollará actividades de información y orientación para las
 
 Las empresas a que se refiere la fracción XII del Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos están obligadas a establecer y sostener escuelas cuando el número de educandos que las requiera sea mayor de veinte. Estos planteles quedarán bajo la dirección administrativa de la autoridad educativa estatal.
 
-Las escuelas que se establezcan en cumplimiento de la obligación prevista en el párrafo anterior contarán con edificio, instalaciones accesibles y demás elementos necesarios para realizar su función, en los términos que señalen las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+Las escuelas que se establezcan en cumplimiento de la obligación prevista en el párrafo anterior contarán con edificio, instalaciones accesibles y adecuadas para personas con discapacidad, y demás elementos necesarios para realizar su función, en los términos que señalen las disposiciones aplicables.
 
 El sostenimiento de dichas escuelas comprende la obligación patronal de proporcionar las aportaciones para la remuneración del personal y las prestaciones que dispongan las leyes y reglamentos, que no serán inferiores a las que otorgue la autoridad educativa local en igualdad de circunstancias.
 
@@ -1133,9 +1189,11 @@ Dentro de las escuelas queda prohibida la distribución y comercialización de l
 
 Las autoridades educativas estatal y municipales promoverán ante las autoridades correspondientes, la prohibición de la venta de alimentos con bajo valor nutritivo y alto contenido calórico en las inmediaciones de los planteles escolares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 87.
 
-La Secretaría establecerá las bases para fomentar estilos de vida saludables que prevengan, atiendan y contrarresten, en su caso, el sobrepeso y la obesidad entre las y los educandos, como la activación física, el deporte escolar, la educación física, los buenos hábitos nutricionales, entre otros. En materia de la promoción de la salud escolar, la Secretaría considerará las Normas Oficiales Mexicanas respectivas.
+La Secretaría establecerá las bases para fomentar estilos de vida saludables que prevengan, atiendan y contrarresten, en su caso, el sobrepeso y la obesidad, así como trastornos de la conducta alimentaria, entre las y los educandos, como la activación física, el deporte escolar, la educación física, los buenos hábitos nutricionales, entre otros. En materia de la promoción de la salud escolar, la Secretaría considerará las Normas Oficiales Mexicanas respectivas.
 
 El gobierno del Estado de Puebla, dispondrá las medidas para que los certificados médicos de las y los educandos que se requieran para sus trámites escolares se emitan sin costo alguno.
 
@@ -1153,7 +1211,9 @@ La Secretaría, de acuerdo con la suficiencia presupuestal, impulsará programas
 
 En la impartición de educación para menores de dieciocho años, la Secretaría en coordinación con otras áreas de gobierno, tomará medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad y derechos, y que la aplicación de la disciplina escolar sea compatible con su edad, de conformidad con los lineamientos que para tal efecto se establezcan.
 
-Los docentes y el personal que labora en los planteles de educación deberán estar capacitados por parte de las autoridades educativas para tomar las medidas que aseguren la protección, el cuidado de las y los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, así como protegerlos contra toda forma de maltrato, violencia, perjuicio, daño, agresión, abuso, trata o explotación sexual o laboral.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+Los docentes y el personal que labora en los planteles de educación deberán estar capacitados por parte de las autoridades educativas para tomar las medidas que aseguren la protección, el cuidado de las y los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, así como protegerlos contra toda forma de maltrato, violencia, perjuicio, daño, agresión, abuso, trata, explotación, sexual o laboral.
 
 > <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
 
@@ -1327,9 +1387,11 @@ Los planteles educativos constituyen un espacio fundamental para el proceso de e
 
 Con el acuerdo de las autoridades, madres y padres de familia, tutoras o tutores y la comunidad, en la medida de sus posibilidades, funcionarán como un centro de aprendizaje comunitario, donde además de educar a niñas, niños, adolescentes y jóvenes, se integrará a las familias y a la comunidad para colaborar en grupos de reflexión, de estudio y de información sobre su entorno, así como para la instalación y funcionamiento de huertos y/o viveros escolares, y el destino de una superficie de suelo para compostas de residuos orgánicos, cuando sus condiciones lo permitan, entre otras actividades interactivas con el medio ambiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2023)</small>
+
 ###### ARTÍCULO 105.
 
-Los muebles e inmuebles destinados a la educación impartida por las autoridades educativas estatal y municipales y por los particulares con autorización o con reconocimiento de validez oficial de estudios en el Estado de Puebla, así como los servicios e instalaciones necesarios para proporcionar educación, forman parte del Sistema Educativo Estatal.
+Los muebles e inmuebles destinados a la educación impartida por las autoridades educativas estatal y municipales, de acuerdo a la suficiencia presupuestaria y por los particulares con autorización o con reconocimiento de validez oficial de estudios en el Estado de Puebla, en todos sus tipos, niveles y modalidades, así como los servicios e instalaciones necesarios, para proporcionar educación inclusiva, forman parte del Sistema Educativo Estatal.
 
 Dichos muebles e inmuebles deberán cumplir con los requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad, resiliencia, pertinencia, integralidad, accesibilidad, inclusividad e higiene, incorporando los beneficios del desarrollo de la ciencia y la innovación tecnológica, para proporcionar educación de excelencia, con equidad e inclusión, conforme a los lineamientos que para tal efecto emita la autoridad educativa federal.
 
@@ -1613,7 +1675,9 @@ En el caso de que en el Estado de Puebla se presente un mayor rezago educativo, 
 
 Son derechos de quienes ejercen la patria potestad o la tutela:
 
-I. Obtener inscripción en escuelas públicas para que sus hijas, hijos o pupilos menores de dieciocho años, que satisfagan los requisitos aplicables, reciban la educación preescolar, primaria, secundaria, media superior y, en su caso, la inicial, en concordancia con los espacios disponibles para cada tipo educativo;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+I. Obtener inscripción en escuelas públicas para que sus hijas, hijos o pupilos menores de dieciocho años, que satisfagan los requisitos aplicables, reciban la educación preescolar, primaria, secundaria, media superior y, en su caso, la inicial, sin ningún tipo de discriminación de manera inclusiva y equitativa, en concordancia con los espacios disponibles para cada tipo educativo;
 
 II. Participar activamente con las autoridades de la escuela en la que estén inscritos sus hijas, hijos o pupilos menores de dieciocho años, en cualquier problema relacionado con la educación de éstos, a fin de que, en conjunto, se aboquen a su solución;
 
@@ -1845,7 +1909,9 @@ Las autorizaciones y los reconocimientos de validez oficial de estudios se otorg
 
 I. Con personal docente que acredite la preparación adecuada para impartir educación;
 
-II. Con instalaciones que satisfagan las condiciones higiénicas, de seguridad, de protección civil, pedagógicas y de accesibilidad que la autoridad otorgante determine, en coadyuvancia con las autoridades competentes, conforme a los términos previstos en las disposiciones aplicables, y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+II. Con instalaciones que satisfagan las condiciones higiénicas, de seguridad, de protección civil, pedagógicas, de accesibilidad e inclusión, que la autoridad otorgante determine, en coadyuvancia con las autoridades competentes, conforme a los términos previstos en las disposiciones aplicables; y
 
 III. Con planes y programas de estudio que la autoridad otorgante considere procedentes, en el caso de educación distinta de la inicial, preescolar, primaria, secundaria, normal, y demás para la formación de maestros de educación básica.
 
@@ -1867,9 +1933,9 @@ I. Cumplir con lo dispuesto en el artículo 3o. de la Constitución Política de
 
 II. Cumplir con los planes y programas de estudio que las autoridades educativas competentes hayan determinado o considerado procedentes y mantenerlos actualizados;
 
-III. Otorgar becas que cubran la impartición del servicio educativo, las cuales no podrán ser inferiores al cinco por ciento del total de alumnos inscritos en cada plan y programa de estudios con autorización o reconocimiento de validez oficial de estudios, las cuales distribuirá por nivel educativo y su otorgamiento o renovación no podrá condicionarse a la aceptación de ningún crédito, gravamen, servicio o actividad extracurricular a cargo del becario.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
 
-El otorgamiento de un porcentaje mayor de becas al señalado en la presente fracción será decisión voluntaria de cada particular. Las becas podrán consistir en la exención del pago total o parcial de las cuotas de inscripción o de colegiaturas que haya establecido el particular. Corresponde a la Secretaría la asignación de las becas a las que se refiere esta fracción, con la finalidad de contribuir al logro de la equidad educativa; para tal efecto atenderá los lineamientos que emita la autoridad educativa federal mediante los cuales se realizará dicha asignación en comités en los que participaran representantes de las instituciones de particulares que impartan educación en los términos de la presente Ley;
+III. Otorgar becas que cubran la impartición del servicio educativo, las cuales no podrán ser inferiores al cinco por ciento del total de alumnos inscritos en cada plan y programa de estudios con autorización o reconocimiento de validez oficial de estudios, las cuales distribuirá por tipo y nivel educativo y su otorgamiento o renovación no podrá ser discriminatorio y excluyente o condicionarse a la aceptación de ningún crédito, gravamen, servicio o actividad extracurricular a cargo del becario. El otorgamiento de un porcentaje mayor de becas al señalado en la presente fracción será decisión voluntaria de cada particular. Las becas podrán consistir en la exención del pago total o parcial de las cuotas de inscripción o de colegiaturas que haya establecido el particular. Corresponde a la Secretaría la asignación de las becas a las que se refiere esta fracción, con la finalidad de contribuir al logro de la equidad e inclusión educativa; para tal efecto atenderá los lineamientos que emita la autoridad educativa federal mediante los cuales se realizará dicha asignación en comités en los que participarán representantes de las instituciones de particulares que impartan educación en los términos de la presente Ley
 
 IV. Cumplir los requisitos previstos en el artículo 143 de esta Ley;
 
@@ -1925,7 +1991,9 @@ XIII. Administrar a las y los educandos, sin previa prescripción médica y cons
 
 XIV. Promover en las y los educandos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes;
 
-XV. Expulsar, segregar o negarse a prestar el servicio educativo a personas con discapacidad o que presenten problemas de aprendizaje; obligar a las y los educandos a someterse a tratamientos médicos para condicionar su aceptación o permanencia en el plantel, o bien, presionar de cualquier manera a sus madres y padres de familia, tutoras o tutores para que se los realicen, salvo causa debidamente justificada a juicio de las autoridades educativas;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+XV. Expulsar, aislar, segregar, discriminar, negarse a realizar la inscripción o a prestar el servicio educativo a personas con discapacidad o que presenten problemas de aprendizaje, u omitir llevar a cabo los ajustes razonables y acciones afirmativas que posibiliten su inclusión; obligar a las y los educandos a someterse a tratamientos médicos para condicionar su aceptación o permanencia en el plantel, o bien, presionar de cualquier manera a sus madres y padres de familia, tutoras o tutores para que se los realicen, salvo causa debidamente justificada a juicio de las autoridades educativas;
 
 XVI. Incumplir con las medidas correctivas o precautorias derivadas de las visitas;
 
@@ -2096,3 +2164,13 @@ P.O. 2 DE JUNIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El cumplimiento del presente Decreto, estará sujeto a la suficiencia presupuestaria, que se determine en el ejercicio fiscal correspondiente.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
