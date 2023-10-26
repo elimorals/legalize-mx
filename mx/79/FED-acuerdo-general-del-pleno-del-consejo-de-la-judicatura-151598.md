@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-151598"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-10-08"
-last_updated: "2021-10-08"
+last_updated: "2023-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151598&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2021-09-30"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA LOS CONCURSOS DE OPOSICION PARA LA DESIGNACION DE VISITADORAS JUDICIALES B]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL PROCEDIMIENTO DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE PERSONAS VISITADORAS JUDICIALES B, PUBLICADO EN EL D.O.F. DE 26 DE OCTUBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE VISITADORAS JUDICIALES B
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE OCTUBRE DE 2023 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 8 de octubre de 2021.
 
@@ -634,3 +636,17 @@ QUINTO. Se instruye a las Direcciones Generales de Tecnologías de la Informaci�
 SEXTO. Atendiendo a la situación sanitaria por COVID-19 que prevalezca en esos momentos en el país la aplicación del cuestionario y el desarrollo del caso práctico podrá llevarse a cabo por medios electrónicos, resguardando en todo momento la secrecía de los mismos.
 
 EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece el procedimiento y lineamientos generales para los concursos de oposición para la designación de Visitadoras Judiciales B, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de 22 de septiembre de 2021, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Jorge Antonio Cruz Ramos, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé y Loretta Ortiz Ahlf.- Ciudad de México, a 30 de septiembre de 2021.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL PROCEDIMIENTO DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE PERSONAS VISITADORAS JUDICIALES B”]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; en el Sistema Integral del Seguimiento de Expedientes; en el Sistema Integral de Gestión de Expedientes; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet, y en la página web https://escuelajudicial.cjf.gob.mx/.
+
+TERCERO. Se abrogan el Acuerdo General 79/2008 del Pleno del Consejo de la Judicatura Federal, que fija las bases para los concursos de oposición para la designación de Visitadores Judiciales “B”, publicado el 27 de noviembre de 2008 en el Diario Oficial de la Federación y el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece el procedimiento y lineamientos generales para los concursos de oposición para la designación de Visitadoras Judiciales “B", publicado en el Diario Oficial de la Federación el 8 de octubre de 2021; y
+
+CUARTO. Se instruye notificar a la Secretaría Ejecutiva de Vigilancia, a las Direcciones Generales de Tecnologías de la Información; de Comunicación Social y Vocería; y de Recursos Humanos, así como a la Escuela Federal de Formación Judicial para que, en el ámbito de sus atribuciones, den cumplimiento a lo establecido en el presente Acuerdo.
