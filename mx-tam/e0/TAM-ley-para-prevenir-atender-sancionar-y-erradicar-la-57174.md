@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2023-10-25"
+last_updated: "2023-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -1079,7 +1079,9 @@ b) diseñar, con una visión transversal, la política integral con perspectiva 
 
 c) promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
 
-d) diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los centros de trabajo;
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+d) diseñar campañas y difundir materiales que fomenten lugares de trabajo seguros y armoniosos, en los que se promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los centros de trabajo, así como el acoso y hostigamiento sexual;
 
 e) orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres;
 
@@ -1184,6 +1186,36 @@ a) Promover la cultura de la no violencia en el marco del ejercicio de los derec
 b) Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales; y
 
 c) Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 20 Ter.
+
+1. Al Poder Judicial del Estado le corresponde:
+
+I. Colaborar y promover la capacitación y especialización de las personas juzgadoras y defensoras públicas sobre los derechos de las mujeres en su diversidad y la igualdad de género;
+
+II. Implementar y aplicar los protocolos para juzgar con perspectiva de género, aun cuando las partes no lo soliciten, a fin de verificar si existe una situación de violencia o vulnerabilidad que, por cuestiones de género, impida impartir justicia de manera completa e igualitaria, tomando en cuenta los siguientes elementos:
+
+a) Identificar si existen situaciones de poder que por cuestiones de género den cuenta de un desequilibrio entre las partes de la controversia;
+
+b) Deliberar los hechos y valorar las pruebas desechando cualquier estereotipo o prejuicio de género, a fin de visualizar las situaciones de desventaja provocadas por condiciones de sexo o género;
+
+c) En caso de que el material probatorio no sea suficiente para aclarar la situación de violencia, vulnerabilidad o discriminación por razones de género, ordenar las pruebas necesarias para visibilizar dichas situaciones;
+
+d) En caso de detectarse ante una situación de desventaja por cuestiones de género, cuestionar la neutralidad del derecho aplicable, así como evaluar el impacto diferenciado de la solución propuesta para buscar una resolución justa e igualitaria de acuerdo al contexto de desigualdad por condiciones de género;
+
+e) Aplicar los estándares de derechos humanos de todas las personas involucradas, especialmente de las niñas, niños y adolescentes; y
+
+f) Evitar el uso de lenguaje basado en estereotipos o prejuicios, por lo que debe procurarse un lenguaje incluyente con el objeto de asegurar un acceso a la justicia sin discriminación por motivos de género.
+
+III. Garantizar que se publiquen todas las decisiones de los juzgados y tribunales de la entidad;
+
+IV. Promover la cultura de denuncia y que la información sobre los recursos legales a los que tienen derecho, se encuentren a la disposición de las mujeres víctimas de violencia de género en formatos accesibles;
+
+V. Garantizar que todos los casos de violencia contra las mujeres se investiguen eficazmente y se castigue a los responsables; y
+
+VI. Las demás que le confieran esta Ley u otros ordenamientos aplicables.
 
 ### Capítulo VI. De la atención y refugio para víctimas
 
@@ -1600,6 +1632,22 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 25 DE OCTUBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-667 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 3, INCISO B), DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES; Y 3, FRACCIÓN I, PÁRRAFO SEGUNDO, DE LA LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO.65-668 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 17 BIS, INCISO D), DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-672 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 20 TER, A LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES; Y SE ADICIONA LA FRACCIÓN VI BIS, AL ARTÍCULO 4°, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO”.]
 
 ###### ARTÍCULO ÚNICO.
 
