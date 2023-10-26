@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2023-08-23"
+last_updated: "2023-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -112,6 +112,10 @@ V.- Diligenciar o mandar diligenciar exhortos, despachos y requisitorias procede
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2023)</small>
 
 VI.- Proporcionar a las autoridades competentes los informes que éstas pidan cuando así proceda conforme a la ley;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+VI Bis.- Juzgar con perspectiva de género e incorporarla de forma transversal, progresiva y equitativa en el desempeño de sus atribuciones, programas y acciones;
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2023)</small>
 
@@ -4473,13 +4477,13 @@ P.O. 23 DE AGOSTO DE 2023.
 
 El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 236.- ARTÍCULO ÚNICO.- SE REFORMA LA FRACCIÓN II DEL PRIMER PÁRRAFO DEL ARTÍCULO 69, LA FRACCIÓN II DEL ARTÍCULO 72, LAS FRACCIONES IV Y V DEL ARTICULO 73 Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 73 Y EL ARTÍCULO 73 BIS A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+P.O. 26 DE OCTUBRE DE 2023.
 
-###### ARTICULO ÚNICO.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-672 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 20 TER, A LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES; Y SE ADICIONA LA FRACCIÓN VI BIS, AL ARTÍCULO 4°, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO”.]
 
-.- (sic) El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO ÚNICO.
 
-P.O. 25 DE MARZO DE 2019.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 346.- ARTÍCULO PRIMERO. SE REFORMAN Y DEROGAN DIVERSOS ARTÍCULOS A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES; ARTÍCULO SEGUNDO. SE DEROGA EL INCISO Y) DEL INCISO 312) CORRESPONDIENTE AL INCISO 3) DE LA FRACCIÓN I DEL ARTÍCULO 10 DE LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2020.- ARTÍCULO TERCERO. SE EXTINGUE EL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DENOMINADO "RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE AGUASCALIENTES".]
 
