@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-cambio-climatico-para-el-estado-de-tamaulipas-122184"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-20"
-last_updated: "2023-10-25"
+last_updated: "2023-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122184&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2023.
 
 Ley publicada en el Anexo al Número 73 del Periódico Oficial del Estado Libre y Soberano de Tamaulipas, el martes 20 de junio de 2017.
 
@@ -849,6 +849,10 @@ a) Desarrollar acciones y promover el desarrollo y la instalación de infraestru
 
 b) Implementar procesos de mejora, en la prestación de servicios, principalmente en el manejo integral de residuos sólidos urbanos y tratamiento de aguas residuales, dirigidos a la reducción y captura de emisiones de gases de efecto invernadero.
 
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+Para ello, se contará con la solidaridad de las personas, haciendo conciencia del daño que provoca a los seres vivos, la contaminación que originan los residuos, así como el destino inadecuado que se le da a los mismos; absteniéndose de tirarlos en la vía pública.
+
 V. Reducción de emisiones en el sector de procesos industriales:
 
 a) Desarrollar programas para incentivar la eficiencia energética en las actividades de los procesos industriales;
@@ -1406,3 +1410,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las capacitaciones obligatorias de todas y todos los servidores públicos en materia de medio ambiente, con perspectiva de desarrollo sostenible y con especial énfasis en cambio climático, se implementarán de manera progresiva de conformidad a la capacidad presupuestal, técnica y operativa de las dependencias y municipios.
+
+P.O. 26 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-669 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN IV, DEL ARTÍCULO 25, DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
