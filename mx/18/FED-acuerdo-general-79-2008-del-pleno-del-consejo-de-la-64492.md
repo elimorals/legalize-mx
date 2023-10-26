@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-79-2008-del-pleno-del-consejo-de-la-64492"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-11-27"
-last_updated: "2022-03-14"
+last_updated: "2023-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64492&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-11-26"
 ---
 # ACUERDO GENERAL 79/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES PARA LOS CONCURSOS DE OPOSICION PARA LA DESIGNACION DE VISITADORES JUDICIALES "B"
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL PROCEDIMIENTO DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE PERSONAS VISITADORAS JUDICIALES B, PUBLICADO EN EL D.O.F. DE 26 DE OCTUBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL 79/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES PARA LOS CONCURSOS DE OPOSICION PARA LA DESIGNACION DE VISITADORES JUDICIALES "B"
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE OCTUBRE DE 2023 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de noviembre de 2008.
 
@@ -680,3 +682,15 @@ QUINTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal deb
 SEXTO. El cambio en la vigencia del certificado digital de la FIREL surtirá efecto a partir del 16 de marzo de 2022.
 
 SÉPTIMO. Las consultas a que se refiere el artículo 46 Ter del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, serán recibidas a través del Sistema de Gestión Documental (SIGDOC) a partir del 16 de marzo de 2022. Se instruye a las direcciones generales de Estrategia y Transformación Digital y Tecnologías de la Información la realización de todas las acciones necesarias para implementar la conexión de los órganos jurisdiccionales con la Secretaría Ejecutiva de Creación de Nuevos Órganos, a través del referido Sistema.
+
+D.O.F. 26 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL PROCEDIMIENTO DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE PERSONAS VISITADORAS JUDICIALES B”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; en el Sistema Integral del Seguimiento de Expedientes; en el Sistema Integral de Gestión de Expedientes; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet, y en la página web https://escuelajudicial.cjf.gob.mx/.
+
+TERCERO. Se abrogan el Acuerdo General 79/2008 del Pleno del Consejo de la Judicatura Federal, que fija las bases para los concursos de oposición para la designación de Visitadores Judiciales “B”, publicado el 27 de noviembre de 2008 en el Diario Oficial de la Federación y el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece el procedimiento y lineamientos generales para los concursos de oposición para la designación de Visitadoras Judiciales “B", publicado en el Diario Oficial de la Federación el 8 de octubre de 2021; y
+
+CUARTO. Se instruye notificar a la Secretaría Ejecutiva de Vigilancia, a las Direcciones Generales de Tecnologías de la Información; de Comunicación Social y Vocería; y de Recursos Humanos, así como a la Escuela Federal de Formación Judicial para que, en el ámbito de sus atribuciones, den cumplimiento a lo establecido en el presente Acuerdo.
