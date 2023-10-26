@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2023-08-23"
+last_updated: "2023-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -112,6 +112,10 @@ V.- Diligenciar o mandar diligenciar exhortos, despachos y requisitorias procede
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2023)</small>
 
 VI.- Proporcionar a las autoridades competentes los informes que éstas pidan cuando así proceda conforme a la ley;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+VI Bis.- Juzgar con perspectiva de género e incorporarla de forma transversal, progresiva y equitativa en el desempeño de sus atribuciones, programas y acciones;
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2023)</small>
 
@@ -4472,3 +4476,11 @@ P.O. 23 DE AGOSTO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-672 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 20 TER, A LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES; Y SE ADICIONA LA FRACCIÓN VI BIS, AL ARTÍCULO 4°, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
