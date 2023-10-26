@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2023-06-13"
+last_updated: "2023-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -547,9 +547,9 @@ I.- Organizar las oficinas y departamentos encargados de la administración y se
 
 II.- Iniciar leyes o decretos ante el Congreso del Estado para los asuntos de sus respectivas localidades.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE OCTUBRE DE 2023)</small>
 
-III.- Formular, aprobar, homologar con las leyes estatales o generales con las que se vinculen y mantener actualizados los bandos de policía y buen gobierno, reglamentos y demás disposiciones administrativas de observancia general necesarios para la organización y funcionamiento de la administración y de los servicios municipales a su cargo y en todo caso expedir los reglamentos referentes a espectáculos públicos, pavimentación, limpieza, alumbrado público, rastros, mercados y centrales de abasto, panteones, vías públicas, nomenclatura de calles, parques, paseos, jardines, ornato de calles, inspección y vigilancia de construcciones de particulares, salones de baile, juegos permitidos, comercio ambulante, hospitales, casas de cuna, centros de atención y cuidado infantil, siempre que no sean materia de competencia de otra autoridad.
+III.- Formular, aprobar, homologar con las leyes estatales o generales con las que se vinculen y mantener actualizados los bandos de policía y buen gobierno, reglamentos y demás disposiciones administrativas de observancia general necesarios para la organización y funcionamiento de la administración y de los servicios municipales a su cargo y en todo caso expedir los reglamentos referentes a espectáculos públicos, pavimentación, limpieza, alumbrado público, rastros, mercados y centrales de abasto, panteones, vías públicas, nomenclatura de calles, parques, paseos, jardines, ornato de calles, inspección y vigilancia de construcciones de particulares, salones de baile, juegos permitidos, comercio ambulante, hospitales, casas de cuna, centros de atención, cuidado infantil y del sistema anticorrupción, siempre que no sean materia de competencia de otra autoridad.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2022)</small>
 
@@ -574,6 +574,10 @@ En tratándose de la expedición de los reglamentos referentes a nomenclatura de
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2023)</small>
 
 Los bandos y reglamentos deberán contener de manera enunciativa, más no limitativa, las medidas para la igualdad sustantiva y no discriminación y sólo podrán entrar en vigor una vez que hayan sido aprobados por la mayoría de los miembros del Ayuntamiento; previa consulta pública, que podrá realizarse a través de su página oficial electrónica y su publicación en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+Asimismo, tratándose de los reglamentos para establecer el sistema anticorrupción, deberán contener los principios, las bases generales, políticas públicas, acciones y procedimientos para la prevención, detección y sanción de faltas administrativas, actos y hechos de corrupción, la coordinación entre todas las instancias encargadas de la prevención y el combate a la corrupción; y las formas de coadyuvar con las autoridades competentes en la fiscalización y control de recursos públicos en el ámbito municipal.
 
 Para tal efecto, los Ayuntamientos remitirán los bandos y reglamentos al Ejecutivo Estatal para que ordene su publicación, quien podrá negarla si advierte que en los mismos se contienen disposiciones contrarias a la Constitución General de la República, a la Constitución Política del Estado, o a las Leyes que de ellas emanen. En este caso, el Ejecutivo enviará las observaciones al Congreso para que resuelva y proponga al Ayuntamiento, en su caso, las modificaciones conducentes. Hechas las correcciones se remitirán nuevamente al Ejecutivo para su publicación. Si el Congreso, considera infundados los argumentos del Ejecutivo, lo declarará así y le enviará dichos bandos o reglamentos para su publicación.
 
@@ -1183,9 +1187,11 @@ XVI.- De Grupos Vulnerables.
 
 XVII.- De Derechos Humanos.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE MARZO DE 2021)</small>
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2023)</small>
 
-XVIII.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
+XVIII.- De Anticorrupción.
+
+XIX.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
 
 Para tal efecto, podrán encomendarse dos o más comisiones a cada munícipe.
 
@@ -7028,6 +7034,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 13 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-588 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-670 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III, PÁRRAFO PRIMERO, Y SE ADICIONA UN PÁRRAFO OCTAVO A LA MISMA, RECORRIÉNDOSE EL SUBSECUENTE EN SU ORDEN NATURAL, DEL ARTÍCULO 49; Y SE ADICIONA LA FRACCIÓN XVIII, RECORRIÉNDOSE LA ACTUAL EN SU ORDEN NATURAL, AL ARTÍCULO 64 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
