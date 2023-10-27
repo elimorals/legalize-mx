@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2023-06-22"
+last_updated: "2023-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE OCTUBRE DE 2023.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1467,7 +1467,17 @@ XV. Proponer a la Secretaría de Salud del Gobierno Federal y al Centro Nacional
 
 XVI. Proponer a la Secretaría de Salud acuerdos de colaboración interinstitucional en materia de trasplantes;
 
-XVII. Las demás que se determinen en los acuerdos de coordinación respectivos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 27 DE OCTUBRE DE 2023)</small>
+
+XVII. Coordinar con el Gobierno del Estado de México y los 125 municipios el impulso de campañas de información con la finalidad de fortalecer la cultura de donación de órganos y tejidos;
+
+> <small>(ADICIONADA, G.G. 27 DE OCTUBRE DE 2023)</small>
+
+XVIII. Generar una constante vinculación con el Centro Nacional de Trasplantes para agilizar los trámites de donación de órganos y tejidos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 27 DE OCTUBRE DE 2023)</small>
+
+XIX. Las demás que se determinen en los acuerdos de coordinación respectivos.
 
 ###### Artículo 2.
 
@@ -18942,3 +18952,15 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 27 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 206.- POR EL QUE SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 2.23; SE ADICIONAN LAS FRACCIONES XVIII Y XIX AL ARTÍCULO 2.23 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Para cumplir con el contenido de este Decreto se deberán contemplar los recursos necesarios en el Presupuesto para el año que corresponda.
+
+CUARTO. El Ejecutivo Estatal realizará las modificaciones reglamentarias necesarias en un plazo de 180 días contados a partir de la publicación del presente Decreto para dar operatividad a su contenido.
