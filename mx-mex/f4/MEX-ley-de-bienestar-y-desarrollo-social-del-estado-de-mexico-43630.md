@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-bienestar-y-desarrollo-social-del-estado-de-mexico-43630
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2023-10-20"
+last_updated: "2023-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 27 DE OCTUBRE DE 2023.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno, el viernes 31 de diciembre de 2004.
 
@@ -217,11 +217,11 @@ XXIX. Población en situación de calle: A aquellas personas que viven desvincul
 
 ### CAPITULO II. DE LOS DERECHOS SOCIALES
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 27 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 4.
 
-Son considerados derechos sociales: la educación, la salud, el trabajo, la alimentación segura, la vivienda, el disfrute de un medio ambiente sano, la seguridad social y los relativos a la no discriminación en los términos de la Constitución Política de los Estados Unidos Mexicanos.
+Son considerados derechos sociales: la educación, la salud, el trabajo, la alimentación segura, nutritiva y de calidad, la vivienda, el disfrute de un medio ambiente sano, la seguridad social y los relativos a la no discriminación en los términos de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### CAPITULO III. DE LA APLICACION Y LOS SUJETOS DEL DESARROLLO SOCIAL
 
@@ -1176,6 +1176,14 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 G.G. 20 DE OCTUBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 202.- POR EL QUE SE ADICIONA LA FRACCIÓN II BIS AL ARTÍCULO 12 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 27 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 207.- POR EL QUE SE REFORMA EL ARTÍCULO 4 DE LA LEY DEL DESARROLLO SOCIAL DEL ESTADO DE MÉXICO”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
