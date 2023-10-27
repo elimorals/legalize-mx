@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-149709"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-06-07"
-last_updated: "2023-03-02"
+last_updated: "2023-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149709&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,9 @@ abbreviation: "LOPJF"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
 
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DE LA LEY GENERAL DE PARTIDOS POLÍTICOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, Y SE EXPIDE LA LEY GENERAL DE LOS MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL DOS DE MARZO DE DOS MIL VEINTITRÉS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE OCTUBRE DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 7 de junio de 2021.
 
@@ -2062,7 +2060,7 @@ En caso de vacante definitiva se nombrará a un nuevo magistrado o una nueva mag
 
 En los casos de elecciones extraordinarias la Sala Regional con competencia territorial en donde hayan de celebrarse resolverá las impugnaciones que pudieren surgir durante las mismas.
 
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO QUINTO A ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO QUINTO A ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
 
 > <small>(ADICIONADO, D.O.F. 2 DE MARZO DE 2023)</small>
 
@@ -2738,7 +2736,7 @@ La jurisprudencia del Tribunal Electoral será obligatoria en todos los casos pa
 
 La jurisprudencia del Tribunal Electoral se interrumpirá y dejará de tener carácter obligatorio, siempre y cuando haya un pronunciamiento en contrario por mayoría de cinco votos de las y los miembros de la Sala Superior. En la resolución respectiva se expresarán las razones en que se funde el cambio de criterio, el cual constituirá jurisprudencia cuando se den los supuestos previstos por las fracciones I y III del artículo 214 de esta Ley.
 
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/.)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE MARZO DE 2023)</small>
 
@@ -2746,7 +2744,7 @@ La jurisprudencia del Tribunal Electoral se interrumpirá y dejará de tener car
 
 LA JURISPRUDENCIA Y DECLARACIONES DE VALIDEZ O INVALIDEZ DE NORMAS GENERALES DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN SERÁ OBLIGATORIA PARA EL TRIBUNAL ELECTORAL.
 
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/.)
 
 > <small>(ADICIONADO, D.O.F. 2 DE MARZO DE 2023)</small>
 
@@ -2760,7 +2758,7 @@ DE LAS DENUNCIAS DE CONTRADICCIÓN DE CRITERIOS DEL TRIBUNAL ELECTORAL
 
 De conformidad con lo previsto por el artículo 99 de la Constitución Política de los Estados Unidos Mexicanos y la fracción VI del artículo 10 de esta Ley, cuando una Sala del Tribunal Electoral sustente un criterio sobre la inconstitucionalidad de algún acto o resolución o sobre la interpretación de un precepto de la Constitución Política de los Estados Unidos Mexicanos, y dicho criterio pueda ser contradictorio con uno sostenido por las Salas o el Pleno de la Suprema Corte de Justicia de la Nación, cualquiera de los Ministros o Ministras, las Salas o las partes, podrán denunciar la contradicción, para que el Pleno de la Suprema Corte de Justicia de la Nación decida en definitiva cuál criterio debe prevalecer.
 
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/.)
 
 > <small>(ADICIONADO, D.O.F. 2 DE MARZO DE 2023)</small>
 
@@ -2809,6 +2807,10 @@ Las y los servidores del Tribunal que sean destituidos podrán apelar tal decisi
 ###### Artículo 224.
 
 El Poder Judicial de la Federación se auxiliará para el mejor desempeño de sus funciones de un fondo económico para el mejoramiento de la administración de justicia y administrar los recursos financieros que integren el mismo.
+
+> <small>(ADICIONADO, D.O.F. 27 DE OCTUBRE DE 2023)</small>
+
+En el ámbito del Poder Judicial de la Federación, no podrán ser creados ni mantenerse en operación otros fondos o fideicomisos adicionales al mencionado anteriormente.
 
 ### CAPÍTULO II. DE LA INTEGRACIÓN
 
@@ -3011,3 +3013,21 @@ Vigésimo Octavo. Las normas establecidas en los artículos 11 bis, párrafo 1, 
 Vigésimo Noveno. Se abrogan todos los acuerdos o resoluciones emitidos por la autoridad electoral que vulneren el derecho a la libertad de expresión o al libre ejercicio periodístico.
 
 Trigésimo. Para efectos de lo dispuesto en el numeral 1 del artículo 11 Bis de la Ley General de Instituciones y Procedimientos Electorales, se computará el inicio del ciclo de las postulaciones a las gubernaturas y jefatura de gobierno de las entidades federativas a partir de la elección de 2024.
+
+D.O.F. 27 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 224 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los órganos del Poder Judicial de la Federación que funjan como fideicomitentes deberán coordinarse con las instituciones que funjan como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos que no se ajusten a lo que establece el segundo párrafo del artículo 224 de la Ley Orgánica del Poder Judicial de la Federación y dar por terminados los mandatos correspondientes, con la finalidad de que en el plazo máximo de ciento veinte días hábiles posteriores a la entrada en vigor del presente Decreto, se suscriban los convenios de extinción o terminación respectivamente, en términos de las disposiciones aplicables.
+
+Tercero.- Las obligaciones derivadas de los instrumentos jurídicos que por razón del presente Decreto se extinguen o terminan, serán atendidas con los recursos que correspondan de los propios fideicomisos, de conformidad con las obligaciones contractuales y disposiciones aplicables, salvaguardando los derechos que correspondan.
+
+Cuarto.- Los recursos remanentes, así como los productos y aprovechamientos derivados de los mismos, independientemente del ejercicio fiscal en que se hayan originado y que formen parte de los instrumentos jurídicos que por razón del presente Decreto se extinguen o terminan, deberán enterarse en términos del artículo 12 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria a las unidades administrativas con funciones de tesorería en los órganos que conforman al Poder Judicial de la Federación, las que a su vez, deberán enterar la totalidad de dichos recursos a la Tesorería de la Federación al término del plazo señalado en el artículo segundo transitorio del presente Decreto.
+
+Quinto.- Los recursos a que se refiere el transitorio anterior deberán ser concentrados por concepto de aprovechamientos en la Tesorería de la Federación y se destinarán por la Secretaría de Hacienda y Crédito Público a los programas que permitan cumplir con el Plan Nacional de Desarrollo.
+
+El Poder Judicial de la Federación, a través de sus órganos competentes, deberá publicar un informe individual, desagregado y pormenorizado por cada instrumento extinto a través del presente Decreto, en el cual se indiquen los montos enterados a la Tesorería de la Federación en términos del transitorio inmediato anterior, en observancia a los principios de transparencia, rendición de cuentas, acceso a la información pública, máxima publicidad y conexos previstos en la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal de Presupuesto y Responsabilidad Hacendaria y la Ley Federal de Transparencia y Acceso a la Información Pública.
+
+El Poder Judicial de la Federación, a través de sus órganos competentes contará con un plazo máximo de siete días hábiles para publicar el informe al que se refiere el párrafo inmediato anterior contados a partir del día siguiente al que se realice el entero correspondiente a la Tesorería de la Federación.
