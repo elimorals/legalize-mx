@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-patronato-de-la-feria-nacional-de-san-marcos-24534"
 country: "mx"
 rank: "ley"
 publication_date: "1991-01-06"
-last_updated: "2023-04-17"
+last_updated: "2023-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL PATRONATO DE LA FERIA NACIONAL DE SAN MARCOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2023.
 
 Ley publicada en el Suplemento al Número 1 del Periódico Oficial del Estado de Aguascalientes, el 6 de enero de 1991.
 
@@ -49,9 +49,11 @@ El Patronato de la Feria Nacional de San Marcos es un organismo público, descen
 
 Para todos los efectos legales, el Patronato tiene personalidad jurídica, patrimonio propio y domicilio en la ciudad de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2023)</small>
+
 ###### ARTICULO 3o.
 
-Es objeto del Patronato la organización, fomento y comercialización de la Feria Nacional de San Marcos.
+Es objeto del Patronato la organización, fomento y comercialización de la Feria Nacional de San Marcos; y a lo largo del año toda clase de ferias, eventos y espectáculos en el Estado de Aguascalientes.
 
 ###### ARTICULO 4o.
 
@@ -117,9 +119,9 @@ Todos los integrantes del Patronato tendrán derecho a voz y voto en las sesione
 
 Son facultades y obligaciones del Patronato:
 
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 1999)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2023)</small>
 
-I.- Organizar cada año la Feria Nacional de San Marcos y ejecutar el programa general de festejos, cuidando en todo el prestigio y las buenas costumbres del Estado, para lo cual restringirá la venta exclusiva de bebidas embriagantes y dará proridad (sic) al fomento de nuestras tradiciones culturales;
+I.- Organizar cada año la Feria Nacional de San Marcos y ejecutar el programa general de festejos, cuidando en todo el prestigio y las buenas costumbres del Estado, para lo cual restringirá la venta exclusiva de bebidas embriagantes y dará prioridad al fomento de nuestras tradiciones culturales, y a lo largo del año toda clase de ferias, eventos y espectáculos en el Estado de Aguascalientes;
 
 II.- Aprobar la concertación de préstamos para el financiamiento de las actividades del Patronato;
 
@@ -147,15 +149,25 @@ XI.- Vigilar que las empresas que proporcionen diversión y esparcimiento a la n
 
 XII.- Fijar las tarifas, gravámenes o exenciones en su caso, que sean de la competencia del Estado o del Municipio de Aguascalientes y que deban aplicarse por servicios y otros espectáculos que se relacionen directamente con la Feria;
 
-XIII.- Recaudar las cantidades que correspondan por los conceptos a que se refieren las fracciones X y XII de este Artículo;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2023)</small>
+
+XIII.- Recaudar las cantidades que le correspondan por los conceptos a que se refieren las fracciones X y XII del presente Artículo, y en su caso, desahogar los procedimientos administrativos y jurisdiccionales para su cobro.
 
 > <small>(REFORMADA, P.O. 3 DE ENERO DE 1999)</small>
 
 XIV.- Informar por escrito al Ejecutivo Estatal, al Congreso del Estado y al H. Ayuntamiento Municipal de Aguascalientes, quince días antes del programa general de la Feria Nacional de San Marcos y dentro de los noventa días siguientes de la culminación de la Feria, de los resultados económicos alcanzados;
 
-XV.- Administrar, en general, todo lo concerniente a la Feria; y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2023)</small>
 
-XVI.- Formular su Reglamento Interior.
+XV.- Administrar, en general, todo lo concerniente a la Feria o de las otras ferias, eventos o espectáculos en el Estado que organice a lo largo del año;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2023)</small>
+
+XVI.- Formular y proponer para su aprobación a su Órgano de Gobierno el Reglamento Interior de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2023)</small>
+
+XVII.- A lo largo del año organizar, fomentar y comercializar otras ferias, eventos y espectáculos en el Estado de Aguascalientes.
 
 ###### ARTICULO 11.
 
@@ -185,13 +197,19 @@ XI.- Establecer los métodos que permitan un óptimo aprovechamiento de los bien
 
 XII.- Tomar las medidas pertinentes a fin de que las funciones del Patronato se realicen de manera articulada, congruente y eficaz;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE OCTUBRE DE 2023)</small>
+
 XIII.- Proponer el nombramiento del personal técnico y administrativo necesario, la fijación de sueldos y demás prestaciones conforme al presupuesto del Patronato; y
 
-XIV.- Establecer los sistemas de control necesarios para alcanzar las metas y objetivos propuestos.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2023)</small>
+
+XIV.- Establecer los sistemas de control necesarios para alcanzar las metas y objetivos propuestos, siempre y cuando se encuentren apegados a la legislación correspondiente.
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 12.
 
-El Secretario y el Tesorero del Patronato tendrán las facultades y obligaciones que señale el Reglamento Interior del propio Patronato.
+El Secretario y el Tesorero del Patronato, participarán con voz y voto en las sesiones del Patronato, tendrán las facultades y obligaciones que señale el Reglamento Interior del propio Patronato.
 
 ###### ARTICULO 13.
 
@@ -207,9 +225,11 @@ El Municipio de Aguascalientes otorgará al Patronato un descuento del 15% en el
 
 El órgano de vigilancia del Patronato estará integrado por un Comisario Público propietario y un suplente, designados por la Contraloría General del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2023)</small>
+
 ###### ARTICULO 15.
 
-El Comisario Público evaluará el desempeño general y por funciones del Patronato; realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente, prestaciones e inversión; y en general, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría General del Gobierno del Estado le asigne específicamente conforme a la Ley.
+El Comisario Público evaluará el desempeño general y por funciones del Patronato; realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente, prestaciones e inversión; y en general, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría del Estado le asigne específicamente conforme a la Ley; así mismo participará en las sesiones del Patronato con voz.
 
 ###### ARTICULO 16.
 
@@ -326,3 +346,19 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 El Titular del Poder Ejecutivo tendrá un plazo de quince días hábiles contados a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones que resulten necesarias al Reglamento del Patronato de la Feria Nacional de San Marcos.
+
+P.O. 27 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 501.- SE REFORMA LA LEY DEL PATRONATO DE LA FERIA NACIONAL DE SAN MARCOS”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+El Patronato dentro de los 90 días posteriores al inicio de vigencia del presente Decreto realizará las adecuaciones reglamentarias necesarias.
+
+###### ARTICULO TERCERO.
+
+Con la entrada en vigor del presente Decreto quedan sin efecto todas aquellas disposiciones legales que se opongan.
