@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-962
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-15"
-last_updated: "2023-05-12"
+last_updated: "2023-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2023.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 15 de octubre de 2013.
 
@@ -2459,9 +2459,23 @@ X. Implementar un registro de quejas, recomendaciones y cualquier procedimiento 
 
 XI. Coordinar, cuando le sea turnada, la atención, registro y respuesta de las solicitudes de medidas precautorias o cautelares necesarias para prevenir la violación de Derechos Humanos dictadas a las dependencias y entidades del Poder Ejecutivo por jueces, consejos y organismos públicos defensores de los derechos humanos nacionales e internacionales, llevando a cabo el seguimiento correspondiente;
 
-XII. Ejercer las atribuciones que le correspondan a la Secretaría previstas en la Ley para Prevenir, A tender y Erradicar la Discriminación en el Estado de Guanajuato; y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2023)</small>
 
-XIII. Establecer y coordinar los mecanismos de atención de las atribuciones, compromisos y obligaciones en materia de Derechos Humanos a cargo de la Secretaría, previstas en la normatividad estatal.
+XII. Ejercer las atribuciones que le correspondan a la Secretaría previstas en la Ley para Prevenir, Atender y Erradicar la Discriminación en el Estado de Guanajuato;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2023)</small>
+
+XIII. Emitir las órdenes de protección administrativa que le correspondan a la Secretaría, de oficio o a petición de parte, de conformidad con lo previsto por la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Guanajuato, su reglamento y el presente Reglamento;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2023)</small>
+
+XIV. Coordinar la implementación, ejecución y supervisión de las órdenes de protección emitidas de conformidad con la fracción que antecede;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2023)</small>
+
+XV. Coordinarse, en su caso, con las demás autoridades administrativas competentes en la emisión de órdenes de protección administrativas para garantizar su ejecución y cumplimiento, de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Guanajuato y su reglamento; y
+
+XVI. Establecer y coordinar los mecanismos de atención de las atribuciones, compromisos y obligaciones en materia de Derechos Humanos a cargo de la Secretaría, previstas en la normatividad estatal.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE MARZO DE 2016)</small>
 
@@ -3356,3 +3370,19 @@ Artículo Primero. El presente Decreto Gubernativo entrará en vigencia al día 
 Actualización del Manual de Organización
 
 Artículo Segundo. La Secretaría de Gobierno, dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto Gubernativo, deberá actualizar su Manual de Organización General, publicado en el Periódico Oficial del Gobierno del Estado número 148, Segunda Parte, del 24 de julio de 2020.
+
+P.O. 27 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 160 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Lineamientos
+
+Artículo Segundo. El Consejo Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, emitirá los lineamientos para el registro, emisión, ejecución, seguimiento y supervisión de las órdenes de protección, previstos en el artículo 50 Ter del Artículo Primero del presente Decreto Gubernativo, dentro de los treinta días hábiles siguientes a su entrada en vigor.
+
+Transferencia
+
+Artículo Tercero. La Fiscalía General del Estado de Guanajuato, proporcionará al Instituto para las Mujeres Guanajuatenses, en el término de noventa días naturales contados a partir de la entrada en vigor del presente Decreto, los documentos, registros, archivos y demás información generada en términos de lo dispuesto en el artículo 24 del Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Guanajuato objeto de la reforma, hasta antes de su entrada en vigencia, a efecto de que el Instituto para las Mujeres Guanajuatenses continúe con la sistematización de la información correspondiente al modelo de erradicación.
