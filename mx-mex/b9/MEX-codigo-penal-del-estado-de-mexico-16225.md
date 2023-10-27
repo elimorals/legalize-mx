@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2023-10-20"
+last_updated: "2023-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE OCTUBRE DE 2023.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -2467,6 +2467,12 @@ IV. Se equipara a la usurpación de funciones públicas la prestación de servic
 
 Si en este delito tuviere intervención cualquier servidor público del ámbito educativo, la pena aplicable se aumentará de una a dos terceras partes de las que correspondan por el delito cometido y se le impondrá además la destitución e inhabilitación para desempeñar empleo, cargo o comisión públicos.
 
+> <small>(ADICIONADA, G.G. 27 DE OCTUBRE DE 2023)</small>
+
+V. Al servidor público que, en ejercicio de sus funciones, coadyuve, a un tercero para que éste simule ser parte de la institución pública que representa.
+
+La conducta antes descrita se sancionará de conformidad con lo establecido por el párrafo segundo, de la fracción II, del presente artículo; y aumentará en una mitad cuando los servidores públicos sean los encargados de la seguridad pública.
+
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
 El delito contenido en el presente artículo se perseguirá de oficio.
@@ -2690,6 +2696,16 @@ II. Cuando se trata de donaciones y compraventas realizadas entre parientes, en 
 > <small>(ADICIONADA, G.G. 16 DE JUNIO DE 2016)</small>
 
 III. Cuando se incurra en lo previsto en los párrafos tercero y cuarto del artículo que antecede y antes de que el ministerio público formule imputación, se regularice su incumplimiento ante la autoridad competente y se repare el daño causado.
+
+> <small>(ADICIONADO, G.G. 27 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 190 Bis.
+
+A quien realice la ilegítima sustracción, apoderamiento, comercialización, detentación o posesión del equipamiento o mobiliario urbano, se le impondrá una pena de dos a cuatro años de prisión y hasta mil veces la Unidad de Medida y Actualización.
+
+Para efectos del presente artículo se entenderá por mobiliario urbano los elementos complementarios al equipamiento urbano, ya sean fijos, móviles, permanentes o temporales, ubicados en la vía pública o en espacios públicos formando parte de la imagen de la Ciudad, los que, según su función, se aplican para el descanso, comunicación, información, necesidades fisiológicas, comercio, seguridad, higiene, servicio, jardinería, así como aquellos otros muebles que determinen la Secretaría de Desarrollo Urbano e Infraestructura, o su equivalente.
+
+En el caso de tapas de registro o rejillas de alcantarillado propiedad gubernamental se aumentará la pena hasta en una mitad.
 
 SUBTITULO SEGUNDO
 
@@ -4817,7 +4833,7 @@ I. Cuando sin emplear la violencia, alguien se apodera por una sola vez de los o
 
 II. Cuando el valor de lo robado no exceda de veinte veces el valor diario de la Unidad de Medida y Actualización vigente, se restituya el bien espontáneamente por el sujeto activo, se paguen los daños y perjuicios ocasionados, no se ejecute con alguna de las circunstancias a que se refieren las fracciones II a V del artículo 290 de este código y aún no tome conocimiento del delito la autoridad.
 
-III. Cuando se cometa por un ascendiente en contra de su descendiente o viceversa, por un cónyuge contra el otro, por el concubinario contra la concubina o viceversa o por el adoptante contra el adoptado o viceversa; y
+III. (DEROGADA, G.G. 27 DE OCTUBRE DE 2023)
 
 IV. (DEROGADA, G.G. 20 DE AGOSTO DE 2013)
 
@@ -4837,13 +4853,13 @@ I. El robo a que se refieren los artículos 288 fracciones I, II y III y 291, si
 
 II. El robo a que se refieren los artículos 289 fracciones I, II, III y VI; 290 fracciones VII, VIII, IX, X y XI, siempre que no concurra alguna de las circunstancias a que se refieren las fracciones I, II, III, IV, V, VI y XVIII de este último artículo y que el sujeto activo sea primodelincuente; circunstancias que deberán verificarse fehacientemente, con los elementos necesarios, entre otros, los antecedentes penales que obren en los archivos correspondientes, por el Ministerio Público Investigador o por la autoridad judicial, en su caso;
 
-> <small>(REFORMADA, G.G. 1 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, G.G. 27 DE OCTUBRE DE 2023)</small>
 
-III. Cuando se cometa por el suegro contra el yerno o nuera o viceversa, por el padrastro o madrastra contra su hijastro o hijastra o viceversa o por parientes consanguíneos hasta el cuarto grado;
+III. Cuando sean cometidos por un ascendiente, descendiente, cónyuge, parientes por consanguinidad hasta el segundo grado, adoptante o adoptado, concubina o concubinario, parientes, por afinidad, hasta el segundo grado.
 
-> <small>(ADICIONADA, G.G. 1 DE ABRIL DE 2004)</small>
+Respecto a la persona que intervenga en la comisión del delito con los sujetos a que se refiere esta fracción.
 
-IV. Respecto a la persona que intervenga en el robo cometido por un ascendiente en contra de su descendiente o viceversa, por un cónyuge contra el otro, por el concubinario contra la concubina o viceversa y por el adoptante contra el adoptado o viceversa y sea ajeno a ellos.
+IV. (DEROGADA, G.G. 27 DE OCTUBRE DE 2023)
 
 ### CAPITULO IV. FRAUDE
 
@@ -4891,15 +4907,13 @@ Al que cometa cualquiera de las conductas señaladas en las fracciones anteriore
 
 ###### Artículo 300.
 
-No será punible el delito de abigeato cuando sea cometido por un ascendiente en contra de su descendiente, o por éste contra aquél, por un cónyuge contra el otro, por el concubinario contra la concubina o por ésta contra aquél o por el adoptante contra el adoptado o por éste contra aquél.
+(DEROGADO, G.G. 27 DE OCTUBRE DE 2023)
+
+> <small>(REFORMADO, G.G. 27 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 301.
 
-El delito de abigeato es perseguible por querella del ofendido, en los siguientes casos:
-
-I. Cuando se cometa por el suegro o suegra contra el yerno o nuera o por éstos contra aquéllos, por el padrastro o madrastra contra su hijastro o hijastra o por éstos contra aquéllos o por parientes consanguíneos hasta el cuarto grado; y
-
-II. Respecto a la persona que intervenga en el abigeato cometido por un ascendiente en contra de su descendiente o por éste contra aquél, por un cónyuge contra el otro, por el concubinario contra la concubina o por ésta contra aquél o por el adoptante contra el adoptado o por éste contra aquél y sea ajena a ellos.
+Es aplicable al delito de abigeato, en lo conducente, lo dispuesto en la fracción III del artículo 295.
 
 ### CAPITULO IV BIS. FRAUDE FAMILIAR
 
@@ -7686,3 +7700,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+
+G.G. 27 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 205.- POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 295 Y EL ARTÍCULO 301; SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 176 Y EL ARTÍCULO 190 BIS; SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 293 Y LA FRACCIÓN IV DEL ARTÍCULO 295 Y EL ARTÍCULO 300 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se deroga toda disposición, de igual o menor jerarquía, contraria al presente Decreto.
