@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-prevencion-social-de-la-violencia-y-la-116896"
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-10"
-last_updated: "2023-04-15"
+last_updated: "2023-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 10 de junio de 2016.
 
@@ -193,9 +193,17 @@ I. El mejoramiento y regulación del desarrollo urbano, rural, ambiental y el di
 
 II. La vigilancia respetando los derechos a la intimidad y a la privacidad;
 
-III. Medidas administrativas encaminadas a disminuir la disponibilidad de medios comisivos o facilitadores del delito y la violencia; y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2023)</small>
 
-IV. La aplicación de estrategias para prevenir la repetición de casos de victimización.
+III. Medidas administrativas encaminadas a disminuir la disponibilidad de medios comisivos del delito y la violencia;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+IV. La aplicación de estrategias para prevenir la recepción de casos de victimización; y
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+V. La recuperación de espacios públicos, con la participación de la comunidad.
 
 ###### Artículo 10.
 
@@ -644,3 +652,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1592.- MEDIANTE EL CUAL FORMAN LAS FRACCIONES III Y IV, Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 9 DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA EN EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del Honorable Congreso del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor, a partir del día siguiente a su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca.
