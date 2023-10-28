@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2023-10-14"
+last_updated: "2023-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE ENERO DE 2024 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -593,19 +595,9 @@ II.- Que los establecimientos de los sectores público, social y privado dedicad
 
 III.- Que se asegure la adecuada distribución y comercialización de los medicamentos e insumos para los servicios de salud de la entidad.
 
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2023)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE OCTUBRE DE 2023)</small>
 
-ARTICULO 31 BIS.- La Secretaría de Salud, en el marco de sus atribuciones y conforme lo dispuesto por la Ley General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia, deberá:
-
-I. Establecer la coordinación con el Centro Nacional para la Salud de la Infancia y la Adolescencia.
-
-II. Promover la creación y funcionamiento del Consejo Estatal para la Prevención y el Tratamiento del Cáncer en la Infancia y la Adolescencia;
-
-III. Implementar la Red Estatal de Apoyo contra el Cáncer en la Infancia y Adolescencia;
-
-IV. Crear el Registro Estatal de Cáncer en la Infancia y Adolescencia; y
-
-V. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de sus objetivos.
+ARTICULO 31 BIS.- En la prescripción de medicamentos se utilizarán las denominaciones genéricas de los medicamentos incluidos en el Cuadro Básico de Insumos para el primer nivel o en el Catálogo de Insumos para el segundo y tercer nivel, conforme a lo establecido en la Ley General de Salud, el Reglamento de Insumos para la Salud y el Reglamento de la Ley General de Salud en Materia de Prestación de Servicios de Atención Médica.
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2023)</small>
 
@@ -4276,3 +4268,11 @@ P.O. 14 DE OCTUBRE DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca.
+
+P.O. 28 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1589.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 31 BIS A LA LEY ESTATAL DE SALUD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca.
