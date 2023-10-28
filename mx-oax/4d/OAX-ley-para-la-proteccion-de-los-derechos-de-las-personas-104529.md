@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-los-derechos-de-las-personas-104529"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2023-09-23"
+last_updated: "2023-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2023.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de diciembre de 2014.
 
@@ -331,9 +331,11 @@ e) Participar en la vida educativa, cívica, cultural, deportiva y recreativa de
 
 f) Conocer sus derechos y participar en el ámbito familiar y comunitario.
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2023)</small>
 
-g) Recibir capacitación necesaria sobre el uso de las nuevas tecnologías de la información y comunicación, y
+g) A la alfabetización digital, entendida como la enseñanza y aprendizaje de conceptos y habilidades básicas para interactuar mediante el uso de las tecnologías de la información y la comunicación para que las personas adultas mayores puedan utilizarlas en su vida cotidiana y desarrollar nuevas oportunidades sociales y económicas para ellos, sus familias y comunidades, así como garantizar su inclusión.
+
+Las autoridades estatales y municipales, en el ámbito de sus competencias, garantizarán el acceso y ejercicio de este derecho.
 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
 
@@ -1054,6 +1056,16 @@ TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del p
 P.O. 23 DE SEPTIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1532.- MEDIANTE EL CUAL SE REFORMAN EL INCISO B) DE LA FRACCIÓN IV Y EL INCISO H) DE LA FRACCIÓN VI DEL ARTÍCULO 9, Y LA FRACCIÓN V DEL ARTÍCULO 14; SE ADICIONAN EL INCISO D) A LA FRACCIÓN VIII DE (SIC) ARTÍCULO 9, Y UN TERCER PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 12, TODOS DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1586.- MEDIANTE EL CUAL REFORMA EL INCISO G) DE LA FRACCIÓN VI DEL ARTÍCULO 9, DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
