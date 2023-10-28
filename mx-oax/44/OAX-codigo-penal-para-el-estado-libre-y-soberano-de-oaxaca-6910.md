@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2023-09-23"
+last_updated: "2023-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -1517,6 +1517,44 @@ IV.- De a conocer por cualquier medio a quien no tenga derecho, documentos, regi
 
 Si el responsable es o hubiera sido servidor público de las instituciones de seguridad pública, se impondrá hasta una mitad más de la pena correspondiente, además, la inhabilitación por un plazo igual al de la pena de prisión impuesta para desempeñarse como servidor público en cualquier orden de gobierno, y en su caso, la destitución.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+### CAPITULO VIII.
+
+Delitos contra actos de investigación, actividades de seguridad pública y del estado.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+165 Quater.- Comete el delito contra actos de investigación, actividades de seguridad pública y del Estado, quien incurra en cualquiera de las conductas descritas en las siguientes fracciones:
+
+I.- Aceche, vigile, espíe, por medio de sí o vehículo aéreo no tripulado para reconocimiento aéreo, para obtener o proporcionar información, sobre las actividades oficiales o personales que realicen o pretendan realizar los servidores públicos de las Instituciones de Seguridad Pública y procuración de justicia con la finalidad de entorpecer o evitar el cumplimiento de sus funciones u ocasionarles un daño a dichas instituciones o servidores públicos o beneficiar actividades delictivas;
+
+II.- Aceche o vigile en cualquier lugar o realice cualquier acto, obtenga y proporcione información tendiente a evitar la captura de alguna persona por ejecución de orden judicial o detención en flagrancia;
+
+III.- Quien utilice uno o más instrumentos en forma de abrojos, cuchillas, erizos, estrellas, púas o picos ponchallantas, fabricados de cualquier material que por su resistencia o contundencia, dañe o impida el paso de vehículos particulares u oficiales tendiente a evitar la captura de alguna persona por ejecución de orden judicial o detención en flagrancia. Cuando la conducta se cometa en contra de elementos de las fuerzas armadas o de seguridad pública o de sus equipos motores o muebles, se aumentará la penalidad dos terceras partes;
+
+IV.- Quien posea o porte, en su persona, en el vehículo en el que se encuentre o se le relacione con éste, en su domicilio o en el lugar donde se le capture, uno o más aparatos o equipos de comunicación de cualquier tipo, que hubieren sido contratados con documentación falsa, o de terceros sin su conocimiento, o utilizados sin la autorización de éstos;
+
+V.- Posea o porte, en su persona, en el vehículo en el que se encuentre o se le relacione con éste, en su domicilio o en el lugar donde se le capture, uno o varios equipos o artefactos que permitan la intervención, escucha o transmisión de datos con respecto a canales de comunicación oficiales o de comunicaciones privadas, equipos tácticos de intervención y análisis de comunicaciones de cualquier tipo sin causa justificada;
+
+VI.- Posea porte, en su persona, en el vehículo en el que se encuentre o se le relacione con éste, en su domicilio o en el lugar donde se le capture, uno o varios equipos o artefactos para inhibir o bloquear señal de usuarios móviles tales como: llamadas de celular, mensajes de texto, señales de posicionamiento GPS, servicios de datos, redes de Wi-Fi, entre otras, tendiente a evitar la captura de alguna persona por ejecución de orden judicial, detención en flagrancia o beneficiar actos ilícitos;
+
+VII.- Posea o porte, en su persona, en el vehículo en que se encuentre o se le relacione con éste, en su domicilio o en el lugar donde se le capture, una o varias identificaciones ajenas, así como alteradas o falsas sin causa justificada o que beneficie actos ilícitos;
+
+VIII.- Posea, en su persona, en el vehículo en que se encuentre o se le relacione con éste, en su domicilio o en el lugar donde se le capture, uno o más de los siguientes objetos: prendas de vestir, insignias, distintivos, equipos o condecoraciones correspondientes a instituciones policiales, ministeriales o militares de cualquier índole o que simulen la apariencia de los utilizados por éstas, sin estar facultado para ello. Igual sanción se impondrá a todos los participantes, cuando dos o más personas incurren en dos o más de los supuestos descritos en esta fracción, si no es posible determinar quién posea dichos objetos;
+
+IX.- Posea de cualquier manera uno o varios escritos o mensajes como autor, destinario o remitente producidos por cualquier medio que tengan relación con algún grupo o actividades delictivas y que atente contra actos de investigación, o actividades de seguridad pública;
+
+X.- Al que en pandilla o dentro de una asociación delictuosa o banda, aceche, vigile o realice las funciones de obtener información o comunicar a la agrupación delictiva dicha información sobre la ubicación, acciones, actividades, movimientos, operativos o en general, las labores de los elementos de seguridad pública o de las fuerzas armadas, con la finalidad de obstaculizar o impedir su actuación; o bien, con la finalidad de facilitar o permitir la realización de algún delito por un tercero;
+
+XI.- Quien dañe, altere o impida el adecuado funcionamiento o monitoreo de cámaras de vigilancia en la vía pública o establecimientos con acceso al público, instaladas para ser utilizadas por las instituciones de seguridad pública tendiente a evitar la captura de alguna persona por ejecución de orden judicial, detención en flagrancia; y
+
+XII.- Ingrese, altere, acceda o difunda información de las Instituciones de Seguridad Pública para atentar contra actos de investigación, o actividades de seguridad pública.
+
+A quién incurra en las conductas descritas en el presente artículo se le aplicará una sanción de siete a quince años de prisión y multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
+
+Las penas a las que se refiere el presente artículo, se aumentarán hasta en una mitad de la que corresponda por el delito cometido, cuando para su perpetración se utilice a uno o varios menores de edad; o cuando el responsable sea un servidor público o haya tenido tal carácter dentro de los cinco años anteriores a la comisión de la conducta delictiva.
+
 ### CAPITULO I.
 
 Ataques a las vías de comunicación.
@@ -1561,6 +1599,10 @@ Si en el vehículo que se incendie no se halla persona alguna, la sanción será
 
 173 Bis.- Al que fuera de los casos previstos por la ley intervenga la comunicación telefónica de terceras personas, se le aplicará prisión de uno a cinco años y de cien a doscientos días de multas.
 
+## TITULO TERCERO.
+
+Delitos en materia de vías de comunicación y correspondencia.
+
 ### CAPITULO II.
 
 Violación de correspondencia.
@@ -1574,10 +1616,6 @@ II.- Al que indebidamente intercepte una comunicación escrita que no esté diri
 175.- No se considera que obran delictuosamente los padres que abran o intercepten las comunicaciones escritas dirigidas a sus hijos menores de edad, y los tutores respecto de las personas que se hallen bajo su dependencia, y los cónyuges entre sí.
 
 176.- La disposición del artículo 166 no comprende la correspondencia que circule por la estafeta, respecto de la cual se observará lo dispuesto en la legislación Federal.
-
-## TITULO TERCERO.
-
-Delitos en materia de vías de comunicación y correspondencia.
 
 ### CAPITULO I.
 
@@ -1599,6 +1637,10 @@ Al que desobedezca, no acate, incumpla o infrinja una orden de protección o med
 
 182.- Cuando la ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumará el delito de desobediencia cuando se hubieren agotado los medios de apremio.
 
+## TITULO CUARTO.
+
+Delitos contra la autoridad.
+
 ### CAPITULO II.
 
 Oposición a que se ejecute alguna obra o trabajo público.
@@ -1608,10 +1650,6 @@ Oposición a que se ejecute alguna obra o trabajo público.
 184.- Cuando el delito se cometa por varias personas, de común acuerdo, la pena será de tres meses a un año de prisión, si solo se hiciere una simple oposición material sin violencia a las personas. Habiéndola, podrá aumentarse la pena hasta dos años de prisión.
 
 A las penas de que trata este artículo y el que precede, se podrá agregar una multa de cien a mil pesos, cuando no hubiere lugar a reparación del daño.
-
-## TITULO CUARTO.
-
-Delitos contra la autoridad.
 
 ### CAPITULO III.
 
@@ -1661,6 +1699,10 @@ Si la distribución gratuita de dichos productos lo realizará algún servidor o
 
 Si estas conductas se llevaran a cabo durante o inmediatamente después de que las autoridades competentes hayan emitido formalmente alguna declaratoria de emergencia ya sea por desastre natural, crisis sanitaria o de cualquier otra índole la sanción se aumentará en una mitad.
 
+## TITULO QUINTO.
+
+Delitos contra la salud.
+
 ### CAPITULO II.
 
 Contagio y propagación de enfermedades.
@@ -1676,10 +1718,6 @@ I.- Al que intencionalmente propague cualquiera otra enfermedad sean cuales fuer
 II.- Al que intencionalmente propague una epizootia o una plaga o parásitos o gérmenes nocivos a los cultivos agrícolas o forestales.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2015)</small>
-
-## TITULO QUINTO.
-
-Delitos contra la salud.
 
 ### CAPITULO III.
 
@@ -1821,6 +1859,12 @@ Cuando la terapia de conversión se hiciere contra persona menor de dieciocho a�
 
 > <small>(ADICIONADO, P.O.22 DE MAYO DE 2021)</small>
 
+## TITULO SEXTO.
+
+Delitos contra la dignidad y el desarrollo de las personas menores de edad o de quienes no tienen la capacidad para comprender el significado del hecho.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
+
 ### CAPITULO IV. (SIC). Pederastia
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O.22 DE MAYO DE 2021)</small>
@@ -1860,12 +1904,6 @@ I. Si el sujeto activo se valiese de la función pública, la profesión u ofici
 II. Si el sujeto activo del delito tiene parentesco por consanguinidad o afinidad hasta en el cuarto grado, o parentesco civil, o habite ocasional o permanentemente en el mismo domicilio con la víctima o tenga una relación sentimental o de confianza con el sujeto pasivo, o sea tutor o curador de la víctima. Además, en su caso, perderá la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, el derecho de alimentos que le correspondiere por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta; y
 
 III. Si el sujeto activo es ministro de un culto religioso.
-
-## TITULO SEXTO.
-
-Delitos contra la dignidad y el desarrollo de las personas menores de edad o de quienes no tienen la capacidad para comprender el significado del hecho.
-
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
 
 ### CAPITULO UNICO.
 
@@ -1911,6 +1949,10 @@ Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confian
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
+## TITULO SEPTIMO.
+
+Revelación de secretos.
+
 ### CAPITULO I BIS.. Delitos contra la administración de justicia, cometidos por servidores públicos
 
 > <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
@@ -1941,9 +1983,11 @@ A quien cometa los delitos previstos en las fracciones I, IV, V, VI y VII, se le
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-## TITULO SEPTIMO.
+## TITULO OCTAVO.
 
-Revelación de secretos.
+Delitos por hechos de corrupción.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
 ### CAPITULO II.
 
@@ -2038,12 +2082,6 @@ I.- Genere y utilice información falsa o alterada, respecto de los rendimientos
 II.- Cuando estando legalmente obligado a entregar a una autoridad información sobre los rendimientos o beneficios que obtenga, la oculte.
 
 Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión y de treinta a cien días multa.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
-
-## TITULO OCTAVO.
-
-Delitos por hechos de corrupción.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -2385,6 +2423,10 @@ III.- Al que procurándose los verdaderos sellos, punsones (sic) y marcas, haga 
 
 IV.- Al que a sabiendas hiciere uso de los sellos o de algún otro de los objetos falsos de que habla el artículo anterior y las fracciones anteriores de éste.
 
+## TITULO NOVENO.
+
+Responsabilidad Profesional.
+
 ### CAPITULO II.
 
 Falsificación de documentos en general.
@@ -2445,10 +2487,6 @@ VI.- El que a sabiendas gestione, obtenga o haga uso para sí o para otro, de un
 
 VII.- Al que obligue o coaccione a algún trabajador a firmar documentos en blanco, o de cualquier otro tipo que impliquen renuncia de los derechos del trabajador, o le imponga obligaciones a éste, con el fin de menoscabarlos o anularlos, ya sea que el trabajador labore en una empresa o institución pública o privada. En los casos que el patrón o empleador sea un servidor público, además de la sanción estipulada en el artículo 226 de este Código, se le destituirá del cargo.
 
-## TITULO NOVENO.
-
-Responsabilidad Profesional.
-
 ### CAPITULO III.
 
 Falsedad en declaraciones judiciales o en informes dados a una Autoridad.
@@ -2495,6 +2533,10 @@ II.- Al que para eludir la práctica de una diligencia judicial, o una notificac
 
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
+## TITULO DECIMO.
+
+Falsedad.
+
 ### CAPITULO IV BIS
 
 De la Suplantación de Identidad.
@@ -2538,10 +2580,6 @@ Las penas previstas en este artículo se impondrán con independencia de las que
 (ADICIONADO, P.O. 29 DE FEBRERO DE 2020) (REUBICADO [N. DE E. ANTES ARTÍCULO 232 BIS B], P.O. 28 DE AGOSTO DE 2021)
 
 232 Bis C.- Los delitos comprendidos en este capítulo serán perseguidos por querella de parte ofendida o legítimo representante.
-
-## TITULO DECIMO.
-
-Falsedad.
 
 ### CAPITULO V.
 
@@ -3707,25 +3745,27 @@ III. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 1998)
 
 I.- Al que altere, modifique o cambie de cualquier forma los datos o partes de identificación de un vehículo, o de la documentación que lo identifique o acredite su propiedad;
 
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2023)</small>
 
-II.- Al que enajene o trafique de cualquier forma un vehículo robado;
+II.- Al que enajene o trafique decualquier (sic) forma un vehículo robado que se encuentre alterado en sus numerales de identificación;
 
 (REFORMADA, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
 
 III.- Al que desmantele algún vehículo robado o comercialice conjunta o separadamente sus partes, y
 
-(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2023)</small>
 
-IV.- A quien después de la ejecución del robo de un vehículo y sin haber participado en él, adquiera, posea, comercialice, pignore, reciba, traslade, use u oculte el vehículo o partes de éste, con conocimiento de esta circunstancia.
+IV.- Al que con intención adquiera, posea, comercialice, pignore, reciba, traslade, use u oculte un vehículo de motor que este alterado en sus numerales de identificación; y
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+V.- Al que con ánimo de apoderarse de un vehículo de motor por medio de la expedición u otorgamiento de un cheque sin fondos, realización de una transferencia rechazada o por cualquier otro medio de comercialización electrónica que no concrete el pago se apodere de este.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 Cuando los objetos o productos del delito de robo de vehículo se relacionan con el giro comercial del tenedor o receptor, si éste es comerciante o sin serlo se encuentra en posesión de dos o más de los mismos, se tendrá por acreditado que existe conocimiento de que provienen de un ilícito.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
-
-Si el que recibió en venta, prenda o bajo cualquier otro concepto el vehículo o partes de éste, sin haber participado en el delito de robo de vehículo y no adoptó las precauciones indispensables para cerciorarse de su procedencia o para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, se le impondrán las penas previstas en el artículo anterior, en la proporción correspondiente al delito culposo.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2023)</small>
 
 > <small>(REFORMADO (N. DE E. REPUBLICADO], P.O. 26 DE FEBRERO DE 2000)</small>
 
@@ -3734,6 +3774,14 @@ En el caso de que cualquiera de las conductas anteriores se realice sobre dos o 
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)</small>
 
 Si el sujeto activo de los dos delitos anteriormente descritos perteneció o pertenece a instituciones de seguridad pública o privada, de procuración o impartición de justicia o simule serlo, se aumentará en una mitad del mínimo y máximo de las penas señaladas.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+La pena se agravará en un tercio cuando además de lo establecido en las fracciones II y IV del presente numeral, el apoderamiento del vehículo devenga de actos ilícitos tipificados en el presente Código.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+Se entenderá que un vehículo de motor está alterado en sus numerales de identificación cuando estos se encuentren remarcados, limados, injertados o se realicen desprendimientos de éstos para ocultar su número original o tratar de ocultarlo.
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2008)</small>
 
@@ -3871,6 +3919,12 @@ II. De 6 meses a 2 años de prisión y multa de 50 a 150 veces el valor diario d
 
 369 Sexies.- Los delitos señalados de los artículos 369 Ter al 369 Quinquies se perseguirán de oficio.
 
+## TITULO DECIMO OCTAVO (SIC).
+
+Delitos contra la libertad y violación de otras garantías.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
 ### CAPITULO II.
 
 Abigeato.
@@ -3966,12 +4020,6 @@ VI. Se realice por algún individuo que simule o sea miembro de alguna corporaci
 VII. Se ejecute por personas que utilicen armas de fuego o explosivos en su comisión o para darse a la fuga después de consumado el delito.
 
 375.- Sin en la comisión del delito de abigeato, se ejecutan otros delitos, se aplicarán las reglas de acumulación.
-
-## TITULO DECIMO OCTAVO (SIC).
-
-Delitos contra la libertad y violación de otras garantías.
-
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
 
 ### CAPITULO III.
 
@@ -4100,6 +4148,10 @@ XII.- Al fabricante empresario, contratista constructor de una obra cualquiera, 
 XIII.- Al vendedor de materiales de construcción o cualquiera especie que habiendo recibido el precio de los mismos no los entregare en la cantidad o en la calidad convenida;
 
 XIV.- Al fiador que enajene o grave los bienes raíces cuyas inscripciones de propiedad estén anotadas, conforme lo dispone el Código Civil, y de la operación resulta la insolvencia del citado fiador.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+Se aplicará de ocho a catorce años de prisión y multa de treinta a ciento veinte días, al que acuda a cualquier tipo de negocio, centro de trabajo, tienda, casa u otro lugar para cobrar en dinero o especie, un interés excesivo para sí u otra persona, ya sea física o moral derivado de un préstamo, o lo realice por medios electrónicos, ejerciendo amenazas o cualquier tipo de violencia.
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
 
@@ -4321,9 +4373,9 @@ Reglas Comunes.
 
 ### CAPITULO I. Violencia familiar
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2023)</small>
 
-404.- Violencia familiar, es toda acción u omisión, dirigida a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica, sexual, o contra los derechos reproductivos, dentro o fuera del domicilio familiar, cuyo activo tenga o haya tenido relación de parentesco por consanguinidad, afinidad, legal, concubinato, noviazgo, relaciones de convivencia o mantenga o haya mantenido una relación similar con la víctima.
+404.- Violencia familiar, es toda acción u omisión, dirigida a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica, sexual, o contra los derechos reproductivos, cuyo activo tenga o haya tenido relación de parentesco por consanguinidad, afinidad, legal, concubinato, noviazgo, relaciones de convivencia o mantenga o haya mantenido una relación similar con la víctima.
 
 > <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
 
@@ -4561,26 +4613,6 @@ Este delito se perseguirá por querella.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-### CAPITULO V. Violencia Política
-
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
-
-412 TER.- Violencia Política es toda acción u omisión realizada por sí o a través de terceros que cause daño físico, psicológico, económico o sexual en contra de una o varias personas y/o de cualquier miembro de su familia, para restringir, suspender, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos-electorales o de las prerrogativas inherentes a un cargo público, o inducirla u obligarla a tomar decisiones de la misma índole en contra de su voluntad.
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-412 QUÁTER.- A quien cometa el delito de Violencia Política se impondrá prisión de dos a seis años y de cien a doscientas veces el valor diario de la unidad de medida y actualización.
-
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2019)</small>
-
-Si la conducta descrita en el artículo anterior se comete en contra de una o varias mujeres, se agrava la pena de tres a ocho años de prisión y de ciento cincuenta a doscientas veces el valor diario de la unidad de medida y actualización.
-
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2019)</small>
-
-Este delito se perseguirá de oficio.
-
-> <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2016)</small>
-
 ###### ARTÍCULO 388 Bis.
 
 Al que por cualquier sustancia o medio, realice inscripciones, dibujos, manchas, signos, símbolos, códigos, mensajes, figuras y pintas de todo tipo que alteren o modifiquen la forma original del bien mueble o inmueble de dominio público o privado, sin consentimiento del propietario o del representante legal o de quien legalmente posea la cosa, se le impondrá además de la reparación del daño, multa de treinta a trescientas veces el valor de la Unidad de Medida y Actualización vigente o prisión de seis meses a tres años.
@@ -4623,6 +4655,26 @@ IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
 
+### CAPITULO V. Violencia Política
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
+
+412 TER.- Violencia Política es toda acción u omisión realizada por sí o a través de terceros que cause daño físico, psicológico, económico o sexual en contra de una o varias personas y/o de cualquier miembro de su familia, para restringir, suspender, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos-electorales o de las prerrogativas inherentes a un cargo público, o inducirla u obligarla a tomar decisiones de la misma índole en contra de su voluntad.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+412 QUÁTER.- A quien cometa el delito de Violencia Política se impondrá prisión de dos a seis años y de cien a doscientas veces el valor diario de la unidad de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2019)</small>
+
+Si la conducta descrita en el artículo anterior se comete en contra de una o varias mujeres, se agrava la pena de tres a ocho años de prisión y de ciento cincuenta a doscientas veces el valor diario de la unidad de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2019)</small>
+
+Este delito se perseguirá de oficio.
+
+> <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2016)</small>
+
 ### CAPÍTULO ÚNICO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2021)</small>
@@ -4663,6 +4715,10 @@ Cuando no sean comprobables el salario o los ingresos del deudor, la Jueza o el 
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
 
+## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
+
 ### CAPITULO PRIMERO. De la Crueldad Animal y la Agonía
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
@@ -4702,10 +4758,6 @@ La sanción a que se hace mención en el párrafo anterior, se incrementará en 
 Incurre en responsabilidad penal, asimismo, quien asista como espectador a cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, a sabiendas de esta circunstancia. En dichos casos se impondrá un tercio de la pena prevista en este artículo.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
-
-## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPITULO SEGUNDO. De la Privación de la Vida
 
@@ -5961,7 +6013,17 @@ P.O.22 DE MAYO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2457.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 122 BIS, ADICIONA LA DENOMINACIÓN DELITO DEL CAPÍTULO IV "PEDERASTIA”, AL TÍTULO SEXTO DEL LIBRO SEGUNDO; REFORMA DEL ARTÍCULO 202; SE ADICIONAN LAS FRACCIONES IV Y V, Y SE DEROGAN LOS PÁRRAFOS TERCERO Y QUINTO DEL ARTÍCULO 241, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+ÚNICO (SIC).- El presente Decreto entrará en vigor al día siguiente de su publicación Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+SEGUNDO. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+TERCERO. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la Legislación vigente en el momento en que la misma haya quedado firme.
 
 P.O. 5 DE JUNIO DE 2021.
 
@@ -6150,3 +6212,31 @@ P.O. 23 DE SEPTIEMBRE DE 2023.
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1563.- MEDIANTE EL CUAL ADICIONA EL CAPÍTULO VIII DENOMINADO "DELITOS CONTRA ACTOS DE INVESTIGACIÓN, ACTIVIDADES DE SEGURIDAD PÚBLICA Y DEL ESTADO” AL TÍTULO SEGUNDO “DELITOS CONTRA LA SEGURIDAD PUBLICA” ASÍ COMO SE ADICIONA EL ARTÍCULO 165 QUÁTER; SE REFORMAN LAS FRACCIONES II Y IV, SE DEROGA EL PÁRRAFO TERCERO, SE ADICIONAN LA FRACCIÓN V, ASÍ COMO LOS PÁRRAFOS SEXTO y SÉPTIMO RECORRIÉNDOSE EL SUBSECUENTE DEL ARTÍCULO 357 BIS; Y SE ADICIONA UN SEGUNDO PÁRRAFO RECORRIÉNDOSE EL SUBSECUENTE DEL ARTÍCULO 381 TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1564.- MEDIANTE EL CUAL ADICIONAN LOS ARTÍCULOS TRANSITORIOS SEGUNDO Y TERCERO AL DECRETO 2457 APROBADO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas las disposiciones jurídicas de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1565.- MEDIANTE EL CUAL REFORMAN EL ARTÍCULO 404 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca.
