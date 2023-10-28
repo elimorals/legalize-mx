@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-donacion-y-trasplantes-de-organos-tejidos-y-108463"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-19"
-last_updated: "2015-05-19"
+last_updated: "2023-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA El ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 19 de mayo de 2015.
 
@@ -131,7 +131,9 @@ II. Asegurar el respeto a la voluntad de los individuos que expresamente hayan d
 
 III. Organizar en coordinación con el Consejo, las actividades y procedimientos que se requieran para los trasplantes, su funcionamiento y debido cumplimiento;
 
-IV. Trabajar coordinadamente con otras dependencias a nivel federal, así como estatal para la promoción y difusión de la donación;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+IV. Diseñar, promover, difundir e implementar políticas públicas para fomentar la cultura de la donación de órganos, tejidos o células humanas en coordinación con las dependencias federales, con las entidades y dependencias de la administración pública estatal, órganos desconcentrados y autónomos, el poder legislativo, poder judicial y los ayuntamientos, desde el ámbito de sus respectivas atribuciones y competencias;
 
 V. Realizar campañas permanentes de promoción y difusión, para la credencialización en el Estado de donadores, en conjunto con el Consejo;
 
@@ -1814,3 +1816,13 @@ Tlalixtac de Cabrera, Centro, Oax., 21 de abril del 2015.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1591.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN IV DEL ARTÍCULO 6 DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca.
