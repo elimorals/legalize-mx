@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-reconocimiento-y-atencion-de-los-derechos-de-110525
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-31"
-last_updated: "2021-10-16"
+last_updated: "2023-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2023.
 
 Ley publicada en la Onceava Sección del Periódico Oficial del Estado de Oaxaca, el sábado 31 de octubre de 2015.
 
@@ -223,13 +223,25 @@ XVII. A que la Administración Pública Estatal a través del Instituto de Capac
 
 XVIII. Defender la unidad Familiar, promover la no separación de las familias por motivos de migración o por su condición de refugiado, salvo los casos en los que se acredite fehacientemente ser necesaria para garantizar el interés superior de la niñez y la adolescencia.
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2023)</small>
 
-XIX. A no ser separados en virtud de su condición migratoria, y en su defecto, a ser reunificados de ser posible de forma inmediata, y así respetar sus derechos a la unidad familiar; y
+XIX. A solicitar y recibir información clara, oportuna y veraz sobre sus derechos.
 
-> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2023)</small>
 
-XX. Las demás que le reconozcan y le confieran las normas aplicables.
+XX. A evitar cualquier tipo de esclavitud o forma de opresión, incluido el matrimonio servil, la explotación de trabajo infantil, la explotación de trabajo doméstico, el trabajo forzado y la explotación sexual.
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+XXI. A denunciar cualquier forma de explotación, dominación o circunstancia que vulnere sus derechos.
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+XXII. A ser protegidos contra la persecución, hostigamiento y detenciones arbitrarias.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE OCTUBRE DE 2023)</small>
+
+XXIII. Las demás que le reconozcan y le confieran las normas aplicables.
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS Y PARTICULARES
 
@@ -986,3 +998,9 @@ P.O. 16 DE OCTUBRE DE 2021.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1588.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XIX Y SE ADICIONAN LAS FRACCIONES XX, XXI, XXII Y XXIII AL ARTÍCULO 8 DE LA LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
