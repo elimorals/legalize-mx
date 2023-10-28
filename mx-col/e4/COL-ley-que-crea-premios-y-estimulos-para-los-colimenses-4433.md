@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-premios-y-estimulos-para-los-colimenses-4433"
 country: "mx"
 rank: "ley"
 publication_date: "1967-10-14"
-last_updated: "2023-09-02"
+last_updated: "2023-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de octubre de 1967.
 
@@ -41,11 +41,11 @@ DECRETO No. 145
 
 LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 1o.
 
-Se crean en el Estado de Colima, de manera permanente, para entregar las siguientes Insignias, a las distintas personas que, por su destacada labor, han sobresalido en sus respectivos ámbitos:
+Se crean en el Estado de Colima, de manera permanente, para entregar a hombres y mujeres por su destacada labor en los diferentes ámbitos, las siguientes insignias:
 
 > <small>(REFORMADA, P.O. 17 DE MAYO DE 2014)</small>
 
@@ -176,6 +176,10 @@ b) Investigación en Psicología. Se otorgará a quien se haya distinguido profe
 c) Ejercicio Profesional de la Psicología. Se otorgará a quien se haya distinguido en el libre ejercicio de la profesión, trabajo en empresas y organizaciones; y
 
 d) Servicios a la Comunidad. Se otorgará a quien se haya distinguido profesionalmente en actividades de la participación y el trabajo desarrollado en comunidades rurales, zonas marginadas y/o a favor de cualquier grupo vulnerado.
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+XIV.- El Premio Estatal a la Gastronomía Tradicional “María Dolores Márquez Amezcua”, se otorgará a personas y/o organizaciones que se hayan distinguido por la trayectoria y aportaciones a la difusión de la comida tradicional, replicando el manejo de ingredientes, procedimientos, técnicas y presentación que contribuyan a la cultura culinaria del Estado.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2013)</small>
 
@@ -411,6 +415,16 @@ La Comisión de Educación, Cultura, Ciencia y Tecnología, en conjunto con la C
 
 Para determinar a la persona merecedora de dicho reconocimiento, se integrará un Comité por un representante de la Comisión de Educación, Cultura, Ciencia y Tecnología, un representante de la Comisión de Salud y Deporte ambas del Congreso del Estado, y un representante de la Secretaría de Salud del Gobierno del Estado, que se encargará de revisar y calificar la idoneidad de cada una de las personas propuestas; siendo las Comisiones Legislativas citadas, las encargadas de elaborar y presentar el dictamen al Pleno del Congreso.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 14.
+
+El Premio Estatal a la Gastronomía Tradicional “María Dolores Márquez Amezcua” se entregará en el marco del Día Estatal de la Gastronomía Tradicional Colimense a celebrarse preferentemente el 19 de noviembre de cada año, en sesión solemne.
+
+Para tal efecto la Comisión de Educación, Cultura, Ciencia y Tecnología del H. Congreso del Estado, expedirá la convocatoria respectiva durante el mes de octubre de cada anualidad, mismo en el que se establecerán las bases y se definirá la integración de un Comité Calificador. Dicha convocatoria deberá dársele máxima publicidad.
+
+El Premio comprenderá las categorías encaminadas a distinguir a personas por su trayectoria en el manejo de alimentos tradicionales y/o organización cuyo desempeño destaque la difusión y preservación de las artes culinarias tradicionales del Estado.
+
 TRANSITORIOS:
 
 ###### Artículo 1o.
@@ -514,3 +528,11 @@ P.O. 2 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 340.- POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 1º, ASÍ COMO, SU FRACCIÓN SEGUNDA, Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 2, DE LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 28 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 359.- POR EL QUE SE REFORMA EL ARTÍCULO 1º, ADICIONANDO AL MISMO LA FRACCIÓN XIV Y SE ADICIONA EL ARTÍCULO 14 A LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Colima.
