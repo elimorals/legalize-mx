@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2023-07-22"
+last_updated: "2023-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2023.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -297,7 +297,9 @@ La prisión preventiva no podrá exceder del tiempo que como máximo de pena fij
 
 Toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención.
 
-C. De la víctima o del ofendido:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE OCTUBRE DE 2023)</small>
+
+C. De los derechos de la víctima o del ofendido:
 
 I. Recibir asesoría jurídica; ser informado de los derechos que en su favor establece la Constitución; y, cuando lo solicite, ser informado del desarrollo del procedimiento penal;
 
@@ -315,9 +317,9 @@ IV. Que se le repare el daño. En los casos en que sea procedente, el Ministerio
 
 La Ley fijará procedimientos ágiles para ejecutar las sentencias en materia de reparación del daño;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE OCTUBRE DE 2023)</small>
 
-V. Al resguardo de sus (sic) identidad y otros datos personales en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos de violación, trata de personas o secuestro; y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
+V. Al resguardo de su identidad y otros datos personales en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos de índole sexual, trata de personas o secuestro; y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
 
 El Ministerio Público deberá garantizar la protección de víctimas, ofendidos, testigos y en general todas los sujetos que intervengan en el proceso. Los jueces deberán vigilar el buen cumplimiento de esta obligación;
 
@@ -353,6 +355,10 @@ Las sentencias que pongan fin a los procedimientos orales deberán ser explicada
 
 El Estado garantizará la existencia de un servicio de defensoría pública de calidad para la población y asegurarán las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los Agentes del Ministerio Público.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+Las autoridades que conozcan del proceso o procedimiento están obligadas a corroborar la adecuada asistencia técnica de las partes, bastando para tal efecto hacer constar la consulta a la página de internet oficial de las dependencias que autoricen la capacidad para desempeñar el ejercicio de la profesión que consigna tanto a defensores como a peritos que deban contar con cédula profesional para intervenir válidamente. Queda prohibido limitar esta certificación remitiéndose únicamente a registros internos.
+
 > <small>(ADICIONADO, P.O. 23 DE MARZO DE 2018)</small>
 
 Siempre que no se afecte la igualdad entre las partes, el debido proceso u otros derechos en los juicios o procedimientos seguidos en forma de juicio, las autoridades deberán privilegiar la solución del conflicto sobre los formalismos procedimentales.
@@ -367,6 +373,10 @@ Las partes tendrán el derecho de solicitar a su costa la expedición de copias 
 
 A ninguna persona podrá impedirse que se dedique a la profesión, industria, comercio o trabajo que le acomode, siendo lícitos. El ejercicio de esta libertad solo podrá vedarse por determinación judicial, cuando se ataquen los derechos de tercero, o por resolución gubernativa, dictada en los términos que marque la ley, cuando se ofendan los derechos de la sociedad. Nadie puede ser privado del producto de su trabajo, sino por resolución judicial.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+Mujeres y hombres percibirán la misma remuneración por una misma actividad laboral, por lo que para trabajo igual debe corresponder salario igual, garantizando en todo caso, el principio de no discriminación laboral. Las autoridades del Estado en el ámbito de sus competencias vigilarán el cumplimiento de dichos principios.
+
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 Ni la Ley, ni las autoridades reconocerán algún pacto, convenio o contrato que menoscabe la libertad de cualquier persona, ya sea por causa de trabajo, de educación o voto religioso; ni los que impliquen renuncia de cualquiera de los derechos humanos o de beneficio de derecho en asuntos en que el Estado debe intervenir, para garantizar los intereses sociales.
@@ -379,9 +389,9 @@ Queda prohibida la utilización del trabajo de los menores de quince años, los 
 
 En el Estado nadie podrá desempeñar trabajos personales sin la justa retribución y sin su pleno consentimiento, salvo el trabajo impuesto como pena por la Autoridad Judicial, el cual se ajustará a lo dispuesto en las fracciones l y II del artículo 123 de la Constitución General de la República.
 
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2023)</small>
 
-Toda persona tiene derecho a una alimentación suficiente, nutricionalmente adecuada, sana y culturalmente aceptable para llevar una vida activa y saludable. A fin de evitar las enfermedades de origen alimentario, el Estado deberá implementar las medidas que propicien la adquisición de buenos hábitos alimenticios entre la población, fomentará la producción y el consumo de alimentos con alto valor nutricional y apoyará en esta materia a los sectores más vulnerables de la población.
+Toda persona tiene derecho a una alimentación suficiente, accesible, nutricionalmente adecuada, sana y culturalmente aceptable y con alimentos inocuos para llevar una vida activa y saludable. A fin de evitar las enfermedades de origen alimentario, el Estado deberá implementar las medidas que propicien la adquisición de buenos hábitos alimenticios entre la población, fomentará la producción y el consumo de alimentos con alto valor nutricional y apoyará en esta materia a los sectores más vulnerables de la población. Así mismo, el Estado desarrollará políticas públicas que contribuyan al impulso de la producción agropecuaria para garantizar la autosuficiencia, soberanía y seguridad alimentaria.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
 
@@ -391,9 +401,11 @@ Toda persona tiene derecho a la cultura física y a la práctica del deporte. Co
 
 Las autoridades de los municipios y comunidades preservarán el tequio como expresión de solidaridad según los usos de cada pueblo y comunidad indígenas. Los tequios encaminados a la realización de obras de beneficio común, derivados de los acuerdos de las asambleas, de las autoridades municipales y de las comunitarias de cada pueblo y comunidad indígena, podrán ser considerados por la ley como pago de contribuciones municipales; la ley determinará las autoridades y procedimientos tendientes a resolver las controversias que se susciten con motivo de la prestación del tequio.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 1571 PUBLICADO EN EL PERIÓDICO OFICIAL EL 28 DE OCTUBRE DE 2023, SE ADVIERTE QUE EL CONTENIDO DE LA REFORMA AL SÉPTIMO PÁRRAFO CORRESPONDE AL PÁRRAFO OCTAVO DE ESTE ARTÍCULO]</small>
 
-En el ámbito territorial del Estado Libre y Soberano de Oaxaca, toda persona tiene derecho a la protección de la salud, este implicará la participación de todos los órganos de poder público, para que en la medida de sus competencias hagan funcional este derecho fundamental. La Ley definirá las bases y modalidades para el acceso a los servicios de salud. Establecerá la participación del Gobierno del Estado en materia de salubridad general concurrente, atendiendo a lo dispuesto por la Legislación Sanitaria Federal. Asimismo, definirá la competencia del Estado y de los Municipios en materia de salubridad local. La Ley garantizará la extensión progresiva, cuantitativa y cualitativa de los servicios de Salud, con el objeto de garantizar la atención integral a la población oaxaqueña que no cuenta con seguridad social.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+En el ámbito territorial del Estado Libre y Soberano de Oaxaca, toda persona tiene derecho a la protección de la salud física y mental, este implicará la participación de todos los órganos de (sic) poder público, para que en la medida de sus competencias hagan funcional este derecho fundamental. La Ley definirá las bases y modalidades para el acceso a los servicios de salud. Establecerá la participación del Gobierno del Estado en materia de salubridad general concurrente, atendiendo a lo dispuesto por la Legislación Sanitaria Federal. Asimismo, definirá la competencia del Estado y de los Municipios en materia de salubridad local. La Ley garantizará la extensión progresiva, cuantitativa y cualitativa de los servicios de Salud, con el objeto de garantizar la atención integral a la población oaxaqueña que no cuenta con seguridad social.
 
 > <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
 
@@ -426,6 +438,10 @@ Todas las personas serán sujetos de iguales derechos y obligaciones ante la ley
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 Toda mujer tiene derecho a una vida libre de violencia por razón de género y condición social, tanto en el ámbito público como en el privado. En los términos que la ley señale, el Poder Ejecutivo del Estado y los Gobiernos Municipales se coordinarán para establecer un Sistema Estatal que asegure el acceso de las mujeres a este derecho.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+Para contraer matrimonio en Oaxaca, las personas obligatoriamente necesitan haber cumplido dieciocho años de edad. Se prohíbe cualquier otro tipo de unión equivalente de hecho o de derecho con personas menores de edad. Así mismo, los usos, tradiciones o costumbres, no serán justificación para realizar esta práctica.
 
 (REFORMADO, P.O. 26 DE JULIO DE 2008) (F. DE E., P.O. 16 DE AGOSTO DE 2008)
 
@@ -503,6 +519,10 @@ e).- A no ser separado del hogar, sino en los casos excepcionales que las leyes 
 
 f).- Ser escuchado en los procesos jurisdiccionales o administrativos.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+g) A no ser coaccionado o presionado, para contraer matrimonio o cualquier otro tipo de unión equivalente de hecho o de derecho.
+
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 Las personas adultas mayores tienen derecho a un albergue decoroso e higiénico y a la atención y cuidado de su salud, alimentación y debido esparcimiento por parte de sus familiares en los términos establecidos en la Ley. Se atenderán los derechos y necesidades específicas de las personas adultas mayores en el contexto con los pueblos y comunidades indígenas y afromexicanas. En los casos en que sus familias no puedan hacerse cargo de ellos el Estado procurará albergues decorosos e higiénicos para su atención.
@@ -511,9 +531,11 @@ Las personas adultas mayores tienen derecho a un albergue decoroso e higiénico 
 
 El Estado promoverá lo necesario para que la población tenga acceso a una vivienda digna, a la asistencia médica y social, a la recreación y al deporte. En la asistencia médica y social se dará prioridad a los menores, a las personas de la tercera edad y discapacitados.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 1575 PUBLICADO EN EL PERIÓDICO OFICIAL EL 28 DE OCTUBRE DE 2023, SE ADVIERTE QUE EL CONTENIDO DE LA REFORMA AL PÁRRAFO TRIGÉSIMO SEGUNDO CORRESPONDE AL PÁRRAFO TRIGÉSIMO CUARTO DE ESTE ARTÍCULO]</small>
 
-Todo persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios culturales. El Estado garantizará su cumplimiento y promoverá el derecho a la creación y formación artística; la diversidad cultural de las personas, pueblos y comunidades indígenas y afromexicanas; la vinculación entre cultura y desarrollo sustentable; y la difusión y protección del patrimonio cultural, fomentando la participación social.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+Toda persona tiene derecho al acceso a la cultura, a la libertad de creación y expresión artística y al disfrute de los bienes y servicios culturales y artísticos. El Estado garantizará su cumplimiento y promoverá el derecho al acceso, a la creación y formación artística; la diversidad cultural de las personas, pueblos y comunidades indígenas y afromexicanas; la vinculación entre cultura, arte y desarrollo sustentable; y la difusión y protección del patrimonio cultural, fomentando la participación social.
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
@@ -833,7 +855,7 @@ En caso de que el Congreso rechace la totalidad de la terna propuesta, el Gobern
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2023)</small>
 
-El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del organismo descentralizado; tener título de licenciado en derecho, registrado ante la Dirección General de Profesiones de la Secretaría de Educación Publica, que no haya ocupado un cargo en algún partido politico, ni haya sido candidato a ocupar un cargo público de elección popular en los tres años anteriores a la designación; que goce de buena reputación y no haya sido condenado por delito doloso y mediante resolución firme por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia. Asimismo, deberá cumplir los requisitos que establezca la ley. Desempeñará su encargo por un periodo de seis años y podrá ser reelecto por una sola ocasión. En caso de falta absoluta, el sustituto será nombrado para concluir el período respectivo. Sólo podrá ser removido por causa grave y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúe en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia.
+El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del organismo descentralizado; tener título de licenciado en derecho, registrado ante la Dirección General de Profesiones de la Secretaría de Educación Publica, que no haya ocupado un cargo en algún partido político, ni haya sido candidato a ocupar un cargo público de elección popular en los tres años anteriores a la designación; que goce de buena reputación y no haya sido condenado por delito doloso y mediante resolución firme por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia. Asimismo, deberá cumplir los requisitos que establezca la ley. Desempeñará su encargo por un periodo de seis años y podrá ser reelecto por una sola ocasión. En caso de falta absoluta, el sustituto será nombrado para concluir el período respectivo. Sólo podrá ser removido por causa grave y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúe en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia.
 
 (REUBICADO, P.O. 30 DE JUNIO DE 2015)
 
@@ -1533,9 +1555,9 @@ Las Magistradas y Magistrados del Tribunal Superior de Justicia, la Secretaria o
 
 Para los efectos de esta última disposición se consideran también como militares en servicio activo, los jefes y oficiales de las fuerzas de seguridad pública del Estado, cualesquiera que sea su denominación.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2023)</small>
 
-La Secretaria o Secretario General del Tribunal Estatal Electoral; la persona Titular de la Auditoría Superior de Fiscalización del Estado de Oaxaca y los Auditores Especiales; los titulares del Instituto de Acceso a la Información Pública y Protección de Datos Personales de Oaxaca; la Presidenta o Presidente, las Consejeras y los Consejeros, la Visitadora o el Visitador General y la Secretaria Ejecutiva o Secretario Ejecutivo de !a Defensoría de los Derechos Humanos del Pueblo de Oaxaca, así como las Magistradas y Magistrados del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, no podrán ser electas o electos para ningún cargo de elección popular, sino hasta después de transcurridos dos años de haberse separado de su cargo.
+La Secretaria o Secretario General del Tribunal Estatal Electoral; la Auditora o Auditor y las subauditoras y subauditores del Órgano de Fiscalización del Estado; los titulares del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca; la Presidenta o Presidente, las Consejeras y los Consejeros, la Visitadora o el Visitador General y la Secretaria Ejecutiva o Secretario Ejecutivo de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, así como las Magistradas y Magistrados del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, no podrán ser electas o electos para ningún cargo de elección popular, sino hasta después de transcurridos dos años de haberse separado de su cargo.
 
 ###### ARTICULO 36.
 
@@ -2123,9 +2145,9 @@ LXVIII. Aprobar, mediante el voto de la mayoría de los diputados presentes, el 
 
 LXIX. Expedir la Ley del Sistema Estatal de Combate a la Corrupción del Estado de Oaxaca.
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2023)</small>
 
-LXX. Elegir al titular del Centro de Conciliación Laboral del Estado de Oaxaca, conforme al artículo 21 Bis de esta Constitución, así como a los integrantes del Instituto de Acceso a la Información Pública y Protección de Datos Personales, conforme al artículo 114 apartado C, de esta Constitución y a su Contralor.
+LXX. Elegir al titular del Centro de Conciliación Laboral del Estado de Oaxaca, conforme al artículo 21 Bis de esta Constitución, así como a los integrantes del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, conforme al artículo 114 apartado C, de esta Constitución y a su Contralor.
 
 > <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -2165,7 +2187,7 @@ La Legislatura no podrá dejar de señalar la retribución que corresponda a un 
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2020)</small>
 
-En todo caso, dicho señalamiento deberá respetar las bases previstas en el artículo 138 de esta Constitución y demás disposiciones legales aplicables, quedando obligados todos los ejecutores del gasto púbico a entregar cualquier información que les solicite el Congreso del Estado o la Comisión Permanente de Presupuesto y Programación, relativa a las remuneraciones por servicios personales, los tabuladores de sueldos y salarios y toda información que generen o tengan a su cargo referente a las adscripciones, percepciones, deducciones y retenciones del personal contratado en todas las modalidades de pago.
+En todo caso, dicho señalamiento deberá respetar las bases previstas en el artículo 138 de esta Constitución y demás disposiciones legales aplicables, quedando obligados todos los ejecutores del gasto púbico (sic) a entregar cualquier información que les solicite el Congreso del Estado o la Comisión Permanente de Presupuesto y Programación, relativa a las remuneraciones por servicios personales, los tabuladores de sueldos y salarios y toda información que generen o tengan a su cargo referente a las adscripciones, percepciones, deducciones y retenciones del personal contratado en todas las modalidades de pago.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -2337,7 +2359,7 @@ Los servidores públicos estatales y municipales, así como, cualquier entidad, 
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2023)</small>
 
-La persona titular de la Auditoría Superior de Fiscalización del Estado de Oaxaca será electa por el Congreso, con el voto de las dos terceras partes de sus miembros. Para ser Auditor se requerirá contar con experiencia de cinco años en materia de control de fiscalización, auditaría gubernamental y de responsabilidades. La ley determinará el procedimiento para su elección. Durará en su encargo siete años, pudiendo ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente por las causas graves que la ley señala con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Titulo Séptimo de esta Constitución. Así mismo, no podrá ser titular o auditor especial la persona que haya sido condenada mediante resolución firme por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales; o estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pagó, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia.
+La persona titular de la Auditoría Superior de Fiscalización del Estado de Oaxaca será electa por el Congreso, con el voto de las dos terceras partes de sus miembros. Para ser Auditor se requerirá contar con experiencia de cinco años en materia de control de fiscalización, auditoría gubernamental y de responsabilidades. La ley determinará el procedimiento para su elección. Durará en su encargo siete años, pudiendo ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente por las causas graves que la ley señala con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Séptimo de esta Constitución. Así mismo, no podrá ser titular o auditor especial la persona que haya sido condenada mediante resolución firme por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales; o estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
 
@@ -3015,7 +3037,7 @@ Una vez aprobado el Presupuesto de Egresos del Estado, las erogaciones previstas
 
 ###### ARTICULO 100.
 
-La Ley Orgánica del Poder Judicial del Estado determinará el funcionamiento del mismo, garantizará la independencia de las Magistradas y los Magistrados, las Juezas y los Jueces en el ejercicio de sus funciones y establecerá las condiciones para el ingreso, formación y permanencia de sus servidoras o servidores públicos, garantizando en todo momento el principio de paridad entre mujeres y hombres; y, si esto no fuere posible, atendiendo a que el número de nombramientos a expedir sea impar, será lo más cercano al equilibro numérico en todos los casos.
+La Ley Orgánica del Poder Judicial del Estado determinará el funcionamiento del mismo, garantizará la independencia de las Magistradas y los Magistrados, las Juezas y los Jueces en el ejercicio de sus funciones y establecerá las condiciones para el ingreso, formación y permanencia de sus servidoras o servidores públicos, garantizando en todo momento el principio de paridad entre mujeres y hombres; y, si esto no fuere posible, atendiendo a que el número de nombramientos a expedir sea impar, será lo más cercano al equilibro (sic) numérico en todos los casos.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
 
@@ -3263,7 +3285,7 @@ El cargo de Jueza o Juez de Primera Instancia es renunciable, por causa justific
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2021)</small>
 
-ARTICULO 111 BIS. El Poder Judicial contará con juzgados en materia laboral ubicados en los principales centros de población del territorio oaxaqueños; serán los encargados de impartir justicia cuando existan controversias derivadas de las diferencias o los conflictos entre trabajadores y patrones, que no sea competencia del Tribunal Laboral del Poder Judicial de la Federación conforme a la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
+ARTICULO 111 BIS. El Poder Judicial contará con juzgados en materia laboral ubicados en los principales centros de población del territorio oaxaqueños (sic); serán los encargados de impartir justicia cuando existan controversias derivadas de las diferencias o los conflictos entre trabajadores y patrones, que no sea competencia del Tribunal Laboral del Poder Judicial de la Federación conforme a la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
 
 Para ser Juez de lo laboral, se deberán reunir los requisitos que señale la Ley Orgánica del Poder Judicial; este cargo es renunciable, por causa justificada, que calificará el Tribunal Superior de Justicia, ante quien se presentará la renuncia.
 
@@ -3337,7 +3359,7 @@ i) En los municipios indígenas, además de lo establecido en los incisos anteri
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2023)</small>
 
-j) No haber sido condenada e condenado mediante resolución firme por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia.
+j) No haber sido condenada o condenado mediante resolución firme por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -3571,7 +3593,7 @@ C. EL ÓRGANO GARANTE DE ACCESO A LA INFORMACIÓN PÚBLICA, TRANSPARENCIA, PROTE
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
 
-El Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, es un órgano autónomo del Estado, especializado, independiente, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de salvaguardar el ejercicio de su presupuesto y determinar su organización interna, responsable de salvaguardar el ejercicio de los derechos de acceso a la información pública, a la protección de datos personales y garantizar la observancia de las normas y principios de buen gobierno, en los términos que establezca la ley.
+El Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, es un órgano autónomo del Estado, especializado, independiente, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de salvaguardar el ejercicio de los derechos de acceso a la información pública, a la protección de datos personales y garantizar la observancia de las normas y principios de buen gobierno, en los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
 
@@ -3579,7 +3601,7 @@ Sesionará colegiadamente y públicamente, se regirá por los principios de cert
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
 
-Su pleno estará integrado por un Comisionado Presidente y cuatro Comisionados ciudadanos; serán designados por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, atendiendo a la idoneidad, experiencia y honorabilidad, así como, a los principios de pluralidad, paridad de género, independencia, profesionalismo y no discriminación; durarán en el cargo cinco años, sin posibilidad de reelección y serán sustituidos individualmente en forma escalonada en los términos que determine (sic) las leyes en la materia. La Presidencia del Consejo General será rotativa cada 2 años.
+Su pleno estará integrado por un Comisionado Presidente y cuatro Comisionados ciudadanos; serán designados por el voto de las dos terceras partes de los diputados presentes del Congreso de (sic) Estado, atendiendo a la idoneidad, experiencia y honorabilidad, así como, a los principios de pluralidad, paridad de género, independencia, profesionalismo y no discriminación; durarán en el cargo cinco años, sin posibilidad de relección (sic) y serán sustituidos individualmente en forma escalonada en los términos que determine (sic) las leyes en la materia. La Presidencia del Consejo General será rotativa cada 2 años.
 
 El nombramiento podrá ser objetado por el Gobernador del Estado, en un plazo de diez días hábiles. Si el Gobernador no objetare el nombramiento dentro de dicho plazo, ocupará el cargo de Comisionado, la persona nombrada por el Congreso del Estado.
 
@@ -4049,9 +4071,9 @@ Las declaraciones y resoluciones del Congreso del Estado son inatacables.
 
 El Sistema Estatal de Combate a la Corrupción es la instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2023)</small>
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior de Fiscalización del Estado de Oaxaca; de la Fiscalía Especializada en Combate a la Corrupción, de la Secretaría de la Contraloría y Transparencia Gubernamental; del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca; Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Oaxaca, así como un representante del Consejo de la Judicatura y otro del Consejo de Participación Ciudadana;
+I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior de Fiscalización del Estado de Oaxaca; de la Fiscalía Especializada en Combate a la Corrupción, de la Secretaría de la Contraloría y Transparencia Gubernamental; del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca; del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, así como un representante del Consejo de la Judicatura y otro del Consejo de Participación Ciudadana;
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2021)</small>
 
@@ -4165,9 +4187,9 @@ La educación seguirá las normas que sean precisadas en la Constitución Genera
 
 La educación que imparta el Estado tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria y la conciencia de la solidaridad internacional, en la independencia y la justicia. Es un deber del Estado que la educación sea universal e inclusiva, con la finalidad de evitar toda forma de discriminación, exclusión o condiciones estructurales que se conviertan en barreras al aprendizaje y la participación.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2023)</small>
 
-La educación de los alumnos para ser integral comprenderá además, la enseñanza de la historia, la geografía, la ecología y los valores tradicionales de cada región étnica y en general del Estado, se fomentará la impartición de conocimientos aplicables a la transformación política, social y económica para beneficio de los oaxaqueños.
+La educación de los alumnos para ser integral comprenderá además de la enseñanza de la historia, la geografía, la ecología y los valores tradicionales de cada región étnica y en general del Estado; la prevención de cualquier tipo de violencia y la perspectiva de género. Así mismo, se fomentará la impartición de conocimientos aplicables a la transformación política, social, económica y cultural para beneficio de los oaxaqueños.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -4226,6 +4248,10 @@ Los trabajadores al servicio de los Poderes del Estado y sus Ayuntamientos, tend
 Toda persona tiene derecho al trabajo y para tal efecto, el Estado promoverá políticas de creación de empleos y establecerá condiciones para que sus habitantes puedan acceder a un trabajo digno, honesto, decente, bien remunerado y socialmente útil, para sufragar a sus propias necesidades y a las de sus familias.
 
 Estas políticas deberán ser principalmente orientadas con perspectiva de género y sin discriminación, además las instituciones educativas deberán brindar mayores oportunidades a los jóvenes para su primer empleo e inserción laboral.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE OCTUBRE DE 2023)</small>
+
+El Estado garantizará el derecho a la igualdad salarial entre hombres y mujeres. Todas las autoridades, en el ámbito de sus respectivas competencias y de conformidad con las leyes que resulten aplicables, implementarán acciones para avanzar de manera progresiva hacia la justicia remunerativa.
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2019)</small>
 
@@ -5673,7 +5699,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente hábil de su p
 
 P.O. 4 DE MAYO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 633.- MEDIANTE EL CUAL SE DEJA SIN EFECTO EL DECRETO 1539, EXPEDIDO CON FECHA 31 DE JULIO DEL AÑO 2018, PUBLICADO EN EL EXTRA DEL PERIÓDICO OFICIAL DEL ESTADO EL 01 DE AGOSTO DEL AÑO 2018, POR EL CUAL FUE APROBADA LA REFORMA A LA FIGURA DE LA JUNTA DE ADMINISTRACIÓN, VIGILANCIA Y DISCIPLINA DEL PODER JUDICIAL. QUEDANDO SUBSISTENTE LA FIGURA DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO; Y EL PROCEDIMIENTO LEGILATIVO QUE DIO LUGAR AL MISMO A PARTIR DE LA RECEPCIÓN DE LA INICIATIVA EN LA COMISIÓN PERMANENTE DE ESTUDIOS CONSTITUCIONALES; Y EN EJERCICIO DE LAS FACULTADES CONSTITUCIONALES Y LEGALES, CON QUE ESTÁ INVESTIDA LA COMISIÓN DE ESTUDIOS CONSTITUCIONALES DEL HONORABLE CONGRESO DEL ESTADO, UNA VEZ QUE RECEPCIONE EN LA COMISIÓN LA INICIATIVA A LA REFORMA A LA CONSTITUCIÓN DEL ESTADO MATERIA DEL PRESENTE, DEBERÁ REALIZARSE EL TRÁMITE LEGISLATIVO OBSERVANDO EL ARTÍCULO 67 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 633.- MEDIANTE EL CUAL SE DEJA SIN EFECTO EL DECRETO 1539, EXPEDIDO CON FECHA 31 DE JULIO DEL AÑO 2018, PUBLICADO EN EL EXTRA DEL PERIÓDICO OFICIAL DEL ESTADO EL 01 DE AGOSTO DEL AÑO 2018, POR EL CUAL FUE APROBADA LA REFORMA A LA FIGURA DE LA JUNTA DE ADMINISTRACIÓN, VIGILANCIA Y DISCIPLINA DEL PODER JUDICIAL. QUEDANDO SUBSISTENTE LA FIGURA DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO; Y EL PROCEDIMIENTO LEGISLATIVO QUE DIO LUGAR AL MISMO A PARTIR DE LA RECEPCIÓN DE LA INICIATIVA EN LA COMISIÓN PERMANENTE DE ESTUDIOS CONSTITUCIONALES; Y EN EJERCICIO DE LAS FACULTADES CONSTITUCIONALES Y LEGALES, CON QUE ESTÁ INVESTIDA LA COMISIÓN DE ESTUDIOS CONSTITUCIONALES DEL HONORABLE CONGRESO DEL ESTADO, UNA VEZ QUE RECEPCIONE EN LA COMISIÓN LA INICIATIVA A LA REFORMA A LA CONSTITUCIÓN DEL ESTADO MATERIA DEL PRESENTE, DEBERÁ REALIZARSE EL TRÁMITE LEGISLATIVO OBSERVANDO EL ARTÍCULO 67 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación.
 
@@ -5683,7 +5709,7 @@ TERCERO.- Con copia certificada del Decreto que se expida, notifíquese al Juzga
 
 P.O. 15 DE MAYO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 602.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSITUTICIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 602.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -5979,7 +6005,7 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno E
 
 P.O. 13 DE FEBRERO DE 2021.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1794.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN LXX DEL ARTÍCULO 59; LA FRACCIÓN XXVII DEL ARTÍCULO 79; LA FRACCIÓN XVI DEL ARTÍCULO 80; EL PRIMER PÁRRAFO DEL ARTÍCULO 99; EL PRIMER PÁRRAFO DEL ARTÍCULO 102; LA DENOMINACIÓN DE LA SECCIÓN QUINTA DE LOS JUZGADOS EN MATERIA LABORAL DEL CAPÍTULO IV DEL TÍTULO CUARTO; EL ARTÍCULO 111 BIS; SE ADICIONA EL ARTÍCULO 21 BIS; Y SE DEROGA EL APARTADO B DEL ARTÍCULO 114, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERAN DE OAXACA",]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1794.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN LXX DEL ARTÍCULO 59; LA FRACCIÓN XXVII DEL ARTÍCULO 79; LA FRACCIÓN XVI DEL ARTÍCULO 80; EL PRIMER PÁRRAFO DEL ARTÍCULO 99; EL PRIMER PÁRRAFO DEL ARTÍCULO 102; LA DENOMINACIÓN DE LA SECCIÓN QUINTA DE LOS JUZGADOS EN MATERIA LABORAL DEL CAPÍTULO IV DEL TÍTULO CUARTO; EL ARTÍCULO 111 BIS; SE ADICIONA EL ARTÍCULO 21 BIS; Y SE DEROGA EL APARTADO B DEL ARTÍCULO 114, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA",]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
@@ -6489,7 +6515,7 @@ SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 
 P.O. 13 DE NOVIEMBRE DE 2021.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2796.- MEDIANTE EL CUAL SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 116 DE LA CONSTITUCIÓN POLÍTÍCA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2796.- MEDIANTE EL CUAL SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 116 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
@@ -6639,10 +6665,64 @@ QUINTO. Una vez que entre en vigor el presente Decreto, dejarán de surtir efect
 
 SEXTO. A partir del inicio de vigencia del presente Decreto, el Titular del Poder Ejecutivo realizará la designación de las personas que han de integrar el Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, debiendo ratificar dichas designaciones el Honorable Congreso del Estado, en términos de lo establecido en los artículos 59 fracción XXVIII Bis, 79 fracción X y 114 QUÁTER de esta Constitución.
 
-SÉPTIMO. El Honrable Congreso del Estado, deberá emitir la Ley Orgánica del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, dentro del plazo de sesenta días naturales posteriores a la publicación del presente Decreto, misma que deberá comprender las reformas aprobadas en el presente Decreto.
+SÉPTIMO. El Honrable (sic) Congreso del Estado, deberá emitir la Ley Orgánica del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, dentro del plazo de sesenta días naturales posteriores a la publicación del presente Decreto, misma que deberá comprender las reformas aprobadas en el presente Decreto.
 
 Hasta en tanto se emitan las nuevas disposiciones, los nuevos integrantes del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, deberán apegar sus funciones en lo que corresponda a la legislación vigente.
 
 OCTAVO. La reestructuración y trasferencias de los recursos humanos, financieros y materiales del Tribunal de Justicia Administrativa del Estado de Oaxaca para dar paso a la instalación del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, deberá contemplarse dentro de la Ley Orgánica del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca.
 
 NOVENO. El Honorable Congreso del Estado deberá realizar las acciones necesarias para que, a partir del 2024, se asigne el presupuesto de egresos al Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, reasignando los recursos que le correspondían al Tribunal de Justicia Administrativa del Estado de Oaxaca, con el objeto de que se implemente correctamente el presente Decreto y se otorgue su autonomía constitucional.
+
+P.O. 28 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1568.- MEDIANTE EL CUAL ADICIONA UN PÁRRAFO DIECISÉIS RECORRIENDOSE LOS SUBSECUENTES y UN INCISO g) AL PÁRRAFO VEINTINUEVE DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1569.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 35, LA FRACCIÓN LXX DEL ARTÍCULO 59, Y LA FRACCIÓN I DEL ARTÍCULO 120 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1570.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL APARTADO C Y EL PRIMER PÁRRAFO DE LA FRACCIÓN V AMBOS DEL ARTÍCULO 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1571.- MEDIANTE EL CUAL REFORMA EL SÉPTIMO PÁRRAFO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1572.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1573.- MEDIANTE EL CUAL ADICIONA UN PÁRRAFO CUARTO Y SE RECORREN LOS SUBSECUENTES DEL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1574.- MEDIANTE EL CUAL ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 12 RECORRIENDOSE LOS SUBSECUENTES Y UN TERCER PÁRRAFO AL ARTÍCULO 129 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1575.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO TRIGÉSIMO TERCERO DEL ARTÍCULO 12 Y LA FRACCIÓN XXXIX DEL ARTÍCULO 59 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1576.- MEDIANTE EL CUAL REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 126 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
