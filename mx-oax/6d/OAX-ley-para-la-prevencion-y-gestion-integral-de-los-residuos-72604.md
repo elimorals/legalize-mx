@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-72604
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-18"
-last_updated: "2023-04-22"
+last_updated: "2023-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2023.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 18 de julio de 2009.
 
@@ -987,7 +987,9 @@ La SEMAEDESO, en coordinación con los Ayuntamientos interesados, instrumentará
 
 ###### Artículo 68.
 
-Las dependencias y entidades de los Gobiernos estatal y municipales, así como los órganos autónomos, establecerán en sus oficinas y dependencias sistemas de manejo ambiental, los cuales tendrán por objeto prevenir y minimizar la generación de residuos sólidos urbanos, su manejo responsable y su reutilización y reciclaje.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+Las dependencias y entidades de los Gobiernos estatal y municipales, así como los órganos autónomos, establecerán en sus oficinas y dependencias sistemas de manejo ambiental, los cuales tendrán por objeto prevenir y minimizar la generación de residuos sólidos urbanos, su manejo responsable y su reutilización y reciclaje, debiendo para tal efecto, instalar contenedores para la colocación clasificada y diferenciada de residuos orgánicos e inorgánicos.
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2021)</small>
 
@@ -1700,6 +1702,14 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 P.O. 22 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1228.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 45 DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1587.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 68 DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
