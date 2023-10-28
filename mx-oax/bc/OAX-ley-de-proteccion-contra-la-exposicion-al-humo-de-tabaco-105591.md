@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco-105591
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-23"
-last_updated: "2020-01-18"
+last_updated: "2023-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 23 de enero de 2015.
 
@@ -82,6 +82,10 @@ X. Establecimientos mercantiles: Los locales ubicados en inmuebles donde una per
 XI. Fomento Sanitario: Conjunto de medidas gubernamentales orientadas a promover y divulgar el cumplimiento de las disposiciones sanitarias a través de acciones voluntarias o de convencimiento;
 
 XII. Fumar: Acto de inhalar y exhalar humo de un producto de tabaco e incluye el hecho de estar en posesión o control de un producto de tabaco en combustión que genere emisiones;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+XII Bis. Fumador pasivo: Es la persona que inhala involuntariamente el humo de tabaco;
 
 XIII. Humo de tabaco: Se refiere a las emisiones que se desprenden del extremo ardiente del cigarrillo o cualquier producto de tabaco resultado de su combustión, generalmente en combinación con el humo exhalado por el fumador, que afecta a la salud de las personas;
 
@@ -219,7 +223,9 @@ III. Llevar a cabo campañas para la detección temprana del fumador, diseño de
 
 IV. La orientación a la población sobre los riesgos a la salud por el consumo de tabaco;
 
-V. Realizar en conjunto con la iniciativa privada campañas permanentes de información, concientización y difusión para prevenir el uso y consumo de tabaco; y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2023)</small>
+
+V. Realizar en conjunto con la iniciativa privada campañas permanentes de información, concientización y difusión para prevenir el uso y consumo de tabaco, así como sobre los efectos del humo de tabaco en los fumadores pasivos; y
 
 VI. Las demás que le otorgue la presente Ley y demás disposiciones jurídicas aplicables.
 
@@ -658,3 +664,11 @@ P.O. 18 DE ENERO DE 2020.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1590.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN V DEL ARTÍCULO 5, SE ADICIONA LA FRACCIÓN XII BIS AL ARTÍCULO 2 DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN DE HUMO DE TABACO DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca.
