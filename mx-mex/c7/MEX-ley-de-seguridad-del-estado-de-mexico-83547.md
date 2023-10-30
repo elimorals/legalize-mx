@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2023-10-20"
+last_updated: "2023-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE SEGURIDAD DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE OCTUBRE DE 2023 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO EL 30 DE OCTUBRE DE 2023.]</small>
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -4763,6 +4763,8 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 
 SEGUNDO. El presente Decreto entrará en vigor a los 30 días hábiles de la publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
-TERCERO. La Secretaría de Educación y la Secretaría de Seguridad en coordinación con la Comisión de Derechos Humanos del Estado de México contarán con cuarenta y cinco días hábiles posteriores a la entrada en vigor de este Decreto, para la expedición del Protocolo de operativos o programas que impliquen la revisión o inspección de mochilas o bolsos de niñas, niños y adolescentes.
+> <small>(F. DE E., G.G. 30 DE OCTUBRE DE 2023)</small>
+
+TERCERO. La Secretaría de Educación, Ciencia, Tecnología e Innovación y la Secretaría de Seguridad en coordinación con la Comisión de Derechos Humanos del Estado de México contarán con cuarenta y cinco días hábiles posteriores a la entrada en vigor de este Decreto, para la expedición del Protocolo de operativos o programas que impliquen la revisión o inspección de mochilas o bolsos de niñas, niños y adolescentes.
 
 CUARTO. Las autoridades educativas, deberán contar con carta firmada por los padres de familia, tutores o quienes ejerzan la patria potestad de los educandos, en la cual manifiestan su autorización para la revisión de mochilas o bolsos. Así mismo, se llevarán a cabo reuniones informativas y de participación con los educandos respecto de los objetivos del Protocolo, a efecto de ejecutar las acciones y medidas en términos de lo establecido en el artículo 2 de la Ley General de los Derechos de Niñas, Niños y Adolescentes para salvaguardar los derechos y principios contenidos en la misma.
