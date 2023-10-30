@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-academico-de-programas-de-posgrado-de-la-escuela-159
 country: "mx"
 rank: "reglamento"
 publication_date: "2022-07-04"
-last_updated: "2022-07-04"
+last_updated: "2023-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159241&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ TEXTO OBTENIDO DEL ENLACE ELECTRÓNICO http://data.eap.cdmx.gob.mx/ut/2022/image
 
 REGLAMENTO ACADÉMICO DE PROGRAMAS DE POSGRADO DE LA ESCUELA DE ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 30 DE OCTUBRE DE 2023.
 
 Reglamento publicado en el número 886 la Gaceta Oficial Ciudad de México, el lunes 4 de julio de 2022.
 
@@ -114,13 +114,15 @@ VII. Maestría: programa de posgrado dirigido a la formación de personas servid
 
 VIII. Matrícula: clave de identificación que se asigna a la persona que ha sido admitida a un programa de posgrado impartido por la Escuela.
 
-IX. Matriculación: asignación de una matrícula en la que se formaliza la inscripción en un programa académico de la persona aspirante que cumplió los requisitos y aprobó el proceso de admisión, de conformidad con lo establecido en el Reglamento y la convocatoria correspondiente.
+IX. (DEROGADA, G.O. 30 DE OCTUBRE DE 2023)
 
 X. Modalidad: forma de impartición de los programas académicos de la Escuela (presencial, semipresencial o a distancia).
 
 XI. Monitoreo: facilitación y supervisión del desarrollo de las sesiones de los programas de posgrado.
 
-XII. Persona aspirante: persona servidora pública y aspirante a serlo de la Ciudad de México, del gobierno federal, de los gobiernos estatales y municipales, que obtuvo su clave única de registro para participar en el proceso de admisión a un programa de posgrado.
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2023)</small>
+
+XII. Persona aspirante: persona servidora pública y aspirante a serlo del Gobierno de la Ciudad de México, del gobierno federal, de los gobiernos estatales y municipales, que obtuvo su clave única de registro para participar en el proceso de admisión a un programa de posgrado.
 
 XIII. Persona especialista: persona que participa en un programa de posgrado con la impartición de contenidos del programa de estudio y/o con la evaluación del aprendizaje de las personas participantes, bajo el modelo educativo de la Escuela.
 
@@ -164,7 +166,9 @@ II. Título de la licenciatura.
 
 III. Cédula profesional de licenciatura.
 
-IV. Se deroga.
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2023)</small>
+
+IV. Oficio de autorización, firmado por su superior jerárquico, para asistir a las sesiones del programa de posgrado que se encuentre cursando.
 
 V. Currículum vitae.
 
@@ -232,19 +236,27 @@ La Escuela podrá celebrar convenios de colaboración para incorporar o asociars
 
 Dicho instrumento jurídico deberá contener, entre otras cosas, una cláusula que regule la emisión del documento correspondiente a la actividad académica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 18.
 
-Los programas de posgrado no tendrán cuota de recuperación para las personas servidoras públicas hasta el nivel de subdirector u homólogo de la Ciudad de México.
+Los programas de posgrado no tendrán cuota de recuperación para las personas servidoras públicas que desempeñen un empleo, cargo o comisión hasta el nivel de subdirector u homólogo en la Administración Pública Centralizada, Descentralizada y Paraestatal de la Ciudad de México.
 
-Las personas servidoras públicas de la Ciudad de México que desempeñen un cargo a partir de Director de área u homólogo deberán cubrir una cuota de recuperación que será determinada para cada uno de los programas de posgrado.
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2023)</small>
 
-Las personas servidoras públicas que desempeñen un empleo, cargo o comisión en el gobierno federal o en cualquiera de los gobiernos de las diversas Entidades Federativas deberán cubrir una cuota de recuperación que será determinada para cada uno de los programas de posgrado.
+Las personas servidoras públicas que presten sus servicios en el Gobierno de la Ciudad de México y que tengan una percepción mayor al nivel de subdirector u homólogo, deberán cubrir una cuota de recuperación que será determinada para cada uno de los programas de posgrado en el respectivo aviso que emita la Dirección General.
+
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2023)</small>
+
+Las personas servidoras públicas que no se encuentren en el supuesto del primer párrafo del presente artículo, deberán cubrir una cuota de recuperación que será determinada para cada uno de los programas de posgrado en el respectivo aviso que emita la Dirección General.
 
 Las personas aspirantes a personas servidoras públicas deberán cubrir una cuota de recuperación que será determinada para cada uno de los programas de posgrado.
 
 Previo a la emisión de la convocatoria para dar inicio al programa de posgrado, la Dirección General determinará la cuota correspondiente que deben cubrir las personas participantes para su ingreso, tomando en cuenta los elementos a que se refieren los párrafos anteriores. Asimismo, establecerá la periodicidad en el pago de las cuotas. Los ingresos así obtenidos, deberán informarse a la Junta de Gobierno de la Escuela.
 
-La participación en los programas de posgrado requiere del compromiso de las personas participantes para cumplir con lo establecido en el presente Reglamento y las convocatorias que se emitan, así como cumplir con las cargas académicas derivadas de estos, concluir el programa de posgrado y obtener el grado correspondiente.
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2023)</small>
+
+La participación en los programas de posgrado requieren del compromiso de las personas participantes para cumplir con lo establecido en el presente Reglamento y las convocatorias que se emitan, así como cumplir con las cargas académicas derivadas de éstos, concluir el programa de posgrado y obtener el grado correspondiente.
 
 Las cuotas de recuperación que se desprendan de la expedición de cualquier documento académico derivado de cursar un Programa de posgrado estarán sujetos a los criterios que para tal efecto establezca la Dirección General de la Escuela.
 
@@ -280,9 +292,11 @@ Las especialidades tienen como antecedente académico un título de licenciatura
 
 El objetivo general de las Maestrías es formar personas servidoras que profundicen en el estudio, análisis y tratamiento de problemas y que propongan alternativas innovadoras para la función pública para contribuir a la buena administración.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 25.
 
-Las maestrías tienen como antecedente académico un título de licenciatura. Se integran con un mínimo de 75 créditos equivalentes a un total de 1,200 horas de trabajo académico, de las cuales, un mínimo de 300 horas, deben ser bajo la conducción de una persona especialista de conformidad con la normatividad vigente expedida por la Secretaría de Educación Pública.
+Las maestrías tienen como antecedente académico un título de licenciatura. Se integran con un mínimo de 75 créditos equivalentes a un total de 1,200 horas de trabajo académico, de las cuales, un mínimo de 400 horas para el caso de la Maestría en Gestión Pública para la Buena Administración y 470 horas para la Maestría en Gestión Integral del Riesgo de Desastres, deben ser bajo la conducción de una persona especialista de conformidad con la normatividad vigente expedida por la Secretaría de Educación Pública.
 
 En el caso de contar con el grado de especialidad se requieren 30 créditos que representan un total de 480 horas de trabajo académico, de las cuales, un mínimo de 120 horas, deben ser bajo la conducción de un especialista, de conformidad con la normatividad vigente expedida por la Secretaría de Educación Pública.
 
@@ -348,7 +362,9 @@ El número máximo de personas participantes en un programa de posgrado será es
 
 La proporción mayoritaria será para personas que laboren en la Administración Pública Centralizada y Paraestatal y de las alcaldías de la Ciudad de México.
 
-La Escuela se reserva el derecho de posponer o cancelar el inicio de un programa de posgrado, en caso de que no se reúnan los requisitos que se establezcan en la convocatoria correspondiente.
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2023)</small>
+
+La Escuela se reserva el derecho de posponer o cancelar el inicio de un programa de posgrado, en caso de que no se reúnan los requisitos que se establezcan en la convocatoria correspondiente o por falta de suficiencia presupuestal.
 
 ###### Artículo 32.
 
@@ -370,23 +386,29 @@ Los datos personales que la Escuela reciba con motivo del ingreso, desarrollo, e
 
 La primera sesión de un programa de posgrado consistirá en la presentación de la Escuela, del programa de estudio, del Reglamento y los criterios generales de evaluación y acreditación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 36.
 
-La asistencia a todas las actividades presenciales de un programa de posgrado es obligatoria. Para tener derecho a presentar la evaluación final de cada módulo, las personas participantes deberán contar con una asistencia mínima del 80% en cada uno de ellos.
+La asistencia a todas las actividades presenciales, semipresenciales, a distancia o en modalidad híbrida de un programa de posgrado es obligatoria. Para tener derecho a presentar la evaluación final de cada módulo, las personas participantes deberán contar con una asistencia mínima del 80% del total de las sesiones de cada uno de ellos.
 
 La persona participante podrá presentar la justificación por escrito y firmada bajo protesta de decir verdad, sólo respecto a dos inasistencias y tres retardos en cada módulo. En caso de enfermedad que merite su ausencia por un periodo que exceda las justificaciones permitidas, deberá presenta el justificante médico correspondiente, quedando a consideración de la Dirección de Formación la determinación que estime procedente.
 
 La persona participante deberá presentar el justificante correspondiente en la sesión inmediata posterior a su inasistencia.
 
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 37.
 
-En caso que, la persona participante indique no contar con la solvencia suficiente para cubrir la cuota correspondiente, podrá solicitar su baja temporal del programa de posgrado conforme a lo establecido en el artículo 60.
+En caso de que, la persona participante indique no contar con la solvencia suficiente para cubrir la cuota correspondiente, podrá solicitar su baja temporal del programa de posgrado conforme a lo establecido en el artículo 60.
+
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 38.
 
-El registro de entrada comenzará diez minutos antes de la hora de inicio de la sesión y durará hasta veinte minutos después de dicha hora, tras lo cual se considerará retardo. El registro de la asistencia se hará en dos momentos, uno de entrada y otro de salida. En ambos casos registrará la hora.
+El registro de entrada comenzará diez minutos antes de la hora de inicio de la sesión y durará hasta veinte minutos después de dicha hora, tras lo cual se considerará retardo, el ingreso posterior a los veinte minutos se considerará falta. El registro de la asistencia se hará en dos momentos, uno de entrada y otro de salida. En ambos casos se registrará la hora.
 
-Es obligación de las personas participantes estar presentes durante el desarrollo de la sesión, de lo contrario, la Dirección de Formación podrá aplicar las amonestaciones señaladas en el artículo 44 del presente reglamento.
+> <small>(DEROGADO, G.O. 30 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 39.
 
@@ -434,25 +456,53 @@ Son obligaciones de las personas participantes en un programa de posgrado:
 
 I. Asistir a las sesiones.
 
-II. Comprometerse a completar de manera satisfactoria la totalidad del programa de posgrado.
+> <small>(ADICIONADA CON LOS PÁRRAFOS QUE LA INTEGRAN, G.O. 30 DE OCTUBRE DE 2023)</small>
 
-III. Conducirse de manera respetuosa con la comunidad académica de la Escuela.
+II. Es obligación de las personas participantes estar presentes durante el desarrollo de la sesión, de lo contrario, la Dirección de Formación podrá aplicar las amonestaciones señaladas en el artículo 44 del presente reglamento.
 
-IV. Cumplir con la normatividad del programa de posgrado que cursa.
+En el caso de que la modalidad de impartición de contenidos temáticos sea a distancia, obliga a la persona participante al intercambio de audio e imagen, siendo su entera responsabilidad asegurarse de contar con acceso a internet y ancho de banda suficiente, así como del equipo adecuado y capacidad técnica de éste.
 
-V. Hacer uso responsable de la infraestructura de la Escuela y de las sedes alternas en las que se imparta el programa de posgrado. En su caso, resarcir los daños y perjuicios de los que resulte responsable.
+Será indispensable que en cada sesión los participantes tengan su cámara encendida o abierta, a fin de acreditar su presencia. Esta última condición es inexcusable, y su incumplimiento podrá ser motivo de las amonestaciones señaladas en el artículo 44 del presente reglamento.
 
-VI. Las demás que resulten indispensables en su proceso de formación.
+(REUBICADA, G.O. 30 DE OCTUBRE DE 2023)
+
+III. Comprometerse a completar de manera satisfactoria la totalidad del programa de posgrado.
+
+(REUBICADA, G.O. 30 DE OCTUBRE DE 2023)
+
+IV. Conducirse de manera respetuosa con la comunidad académica de la Escuela.
+
+(REUBICADA, G.O. 30 DE OCTUBRE DE 2023)
+
+V. Cumplir con la normatividad del programa de posgrado que cursa.
+
+(REUBICADA, G.O. 30 DE OCTUBRE DE 2023)
+
+VI. Hacer uso responsable de la infraestructura de la Escuela y de las sedes alternas en las que se imparta el programa de posgrado. En su caso, resarcir los daños y perjuicios de los que resulte responsable.
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2023)</small>
+
+VII. Cubrir en tiempo y forma las cuotas de recuperación correspondientes para el curso de los programas de posgrado.
+
+(REUBICADA, G.O. 30 DE OCTUBRE DE 2023)
+
+VIII. Las demás que resulten indispensables en su proceso de formación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 43.
 
-Los participantes de los programas de posgrado estarán obligados a presentar un documento actualizado que compruebe la situación laboral al inicio de cada módulo a fin de comprobar su continuidad laboral.
+Los participantes de los programas de posgrado estarán obligados a presentar un documento actualizado que compruebe la situación laboral al inicio de cada módulo y hasta cinco días posteriores a su inicio a fin de comprobar su continuidad laboral; en caso de no actualizar su estatus laboral, la persona participante deberá cubrirla cuota de recuperación correspondiente, entendiéndose como persona aspirante a servidor público.
 
 En caso que la persona participante termine la relación laboral o concluya la vigencia de su contratación bajo el régimen de honorarios asimilables a salarios, estará obligada a dar aviso a la Dirección de Formación, en un plazo que no deberá exceder de 15 días hábiles a partir de su baja. No obstante, la Dirección de Formación en cualquier momento podrá verificar la situación laboral vigente de las personas participantes mediante la solicitud del documento que compruebe su situación laboral.
 
-En el supuesto de que la persona participante deje de ser servidor público de la Ciudad de México sólo podrá continuar sus estudios sin costo hasta su total conclusión, si su porcentaje de avance en el programa es igual o mayor del 50% del total de sesiones programadas, siempre y cuando el promedio general de su posgrado sea de un mínimo de 9, en caso de que el promedio sea menor, deberá cubrir la cuota que para tales efectos se haya determinado, conforme a los criterios establecidos por la Dirección General de la Escuela.
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2023)</small>
 
-Si el porcentaje de avance es menor del 50%, la persona participante que dejó de ser servidor público de la Ciudad de México podrá continuar sus estudios cubriendo la cuota de recuperación que para tales efectos se haya determinado, conforme a los criterios establecidos por la Dirección General de la Escuela.
+En el supuesto de que la persona participante deje de ser persona servidora pública del Gobierno de la Ciudad de México sólo podrá continuar sus estudios sin costo hasta su total conclusión, si su porcentaje de avance en el programa es igual o mayor del 50% del total de sesiones programadas, siempre y cuando el promedio general de su posgrado sea de un mínimo de 90, en caso de que el promedio sea menor, deberá cubrir la cuota que para tales efectos se haya determinado, conforme a los criterios establecidos por la Dirección General de la Escuela.
+
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2023)</small>
+
+Si el porcentaje de avance es menor del 50%, la persona participante que dejó de ser persona servidora pública en el Gobierno de la Ciudad de México deberá cubrir la cuota de recuperación que para tales efectos se haya determinado, conforme a los criterios establecidos por la Dirección General de la Escuela.
 
 ### CAPÍTULO III. DE LAS AMONESTACIONES
 
@@ -464,11 +514,17 @@ I. Amonestación verbal preventiva. Explicar de manera personal la contravenció
 
 II. Amonestación escrita. En caso de reincidencia y posterior a la amonestación verbal preventiva se procederá a hacer del conocimiento de la persona participante, una amonestación escrita por la contravención, conminándola a no repetirla y conducirse de conformidad a lo establecido en el presente Reglamento.
 
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2023)</small>
+
+III. La persona participante causará baja definitiva del programa de posgrado que se encuentre cursando, si cuenta con dos o más amonestaciones escritas.
+
 ### CAPÍTULO IV. DE LA DIRECCIÓN DE FORMACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 45.
 
-En el marco de lo establecido en el Estatuto Orgánico, la Dirección de Formación tendrá a cargo de la coordinación académica de los programas de posgrado conforme a las funciones siguientes:
+Para la impartición de los programas de posgrado la Dirección de Formación se auxiliará de una Coordinación Académica conforme a las funciones siguientes:
 
 a) Planear, integrar y dirigir las actividades de los programas de posgrado.
 
@@ -540,7 +596,9 @@ VI. Contar con retroalimentación por parte de la Dirección de Formación sobre
 
 VII. Hacer uso de la biblioteca de la Escuela.
 
-VIII. Percibir la contraprestación salarial correspondiente a la actividad académica realizada, salvo el caso de personas funcionarias públicas que participen como invitadas.
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2023)</small>
+
+VIII. Percibir el pago por la prestación de sus servicios correspondientes a la actividad académica realizada, salvo el caso de los especialistas que participen como invitadas.
 
 ###### Artículo 49.
 
@@ -548,7 +606,9 @@ Son obligaciones de las personas especialistas:
 
 I. Impartir las sesiones que sean convenidas con la Dirección de Formación, considerando temas, contenidos y metodología establecidos en los planes y programas de estudios.
 
-II. Enviar a la Dirección de Formación con oportunidad los materiales utilizados para las sesiones, los cuales son, entre otros, secuencia didáctica, presentación, bibliografía y actividades de aprendizaje.
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2023)</small>
+
+II. Enviar a la Dirección de Formación con tres días naturales de anticipación los materiales utilizados para las sesiones, los cuales son, entre otros, secuencia didáctica, presentaciones, bibliografía, rúbrica de evaluación y actividades de aprendizaje.
 
 III. Diseñar los contenidos de las sesiones a impartir.
 
@@ -574,6 +634,10 @@ XIII. Acudir a las reuniones que convoque la Dirección de Formación a efecto d
 
 XIV. Emitir y presentar ante la Dirección de Formación las actas de calificaciones con las firmas correspondientes a las actividades que haya desarrollado.
 
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2023)</small>
+
+XV. Cuando el programa de posgrado se imparta a distancia, deberá colocar en la plataforma educativa utilizada por la Escuela, las calificaciones que correspondan a cada participante en todas y cada una de las actividades académicas a efecto de que, la persona participante conozca la evaluación emitida así como la retroalimentación en su desempeño académico.
+
 ## TÍTULO CUARTO. DE LA EVALUACIÓN Y DE LA ACREDITACIÓN DE LOS PARTICIPANTES Y DE LOS PROGRAMAS DE POSGRADO
 
 ### CAPÍTULO I. DE LA EVALUACIÓN DE LOS PARTICIPANTES
@@ -596,17 +660,25 @@ I. Sin Derecho (SD): se asignará la calificación "SD" cuando la persona partic
 
 II. No Presentó (NP): la calificación "NP" podrá asignarse cuando la persona participante no haya presentado la evaluación final del módulo. Será equivalente a una calificación numérica de 1 en la escala de 0 a 100 para propósitos de cálculo de promedio.
 
-III. Fraude Académico (FA): cuando la persona participante incurra en conductas que pongan en duda su honestidad académica conforme a lo señalado en la fracción I del artículo 55 del presente Reglamento y dichas conductas sean acreditadas fehacientemente por los especialistas y notificadas a la Dirección de Formación, la calificación "FA" será equivalente a una calificación numérica de 1 en la escala de 0 a 100 para propósitos de cálculo del promedio y el caso deberá hacerse del conocimiento de la Dirección de Formación, quien emitirá el dictamen correspondiente.
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2023)</small>
 
-IV. Acreditado (A): la calificación Acreditado se asignará cuando la persona participante cumpla en el trabajo final de titulación con los criterios de evaluación establecidos por la Dirección de Formación.
+III. Fraude Académico (FA): cuando la persona participante incurra en conductas que pongan en duda su honestidad académica y dichas conductas sean acreditadas fehacientemente por los especialistas y notificadas a la Dirección de Formación, la calificación "FA" será equivalente a una calificación numérica de 1 en la escala de 0 a 100 para propósitos de cálculo del promedio y el caso deberá hacerse del conocimiento de la Dirección de Formación, quien emitirá el dictamen correspondiente.
 
-V. No Acreditado (NA): la calificación No Acreditado se asignará cuando la persona participante no cumpla en el trabajo final de titulación con los criterios de evaluación establecidos por la Dirección de Formación.
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2023)</small>
+
+IV. Acreditado (A): la calificación Acreditado se asignará cuando la persona participante, al final de un módulo, obtenga una calificación igual o mayor a 80/100, de acuerdo con lo establecido en el artículo 51 del presente Reglamento, o cuando cumpla en el trabajo final de titulación con los criterios de evaluación establecidos por la Dirección de Formación.
+
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2023)</small>
+
+V. No Acreditado (NA): la calificación No Acreditado se asignará cuando la persona participante obtenga, al final de un módulo, una calificación menor a 80/100, en relación al artículo 51 del presente Reglamento, o cuando no cumpla en el trabajo final de titulación con los criterios de evaluación establecidos por la Dirección de Formación.
 
 ### CAPÍTULO II. DE LA ACREDITACIÓN DE LOS PARTICIPANTES
 
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 53.
 
-En caso de que la persona participante no alcanzara la calificación mínima para acreditar un módulo, tendrá una segunda oportunidad para aprobarlo. Para ello, deberá entregar un trabajo de recuperación en los términos que se establezcan en los Lineamientos específicos, dentro de los primeros diez días hábiles después de haber recibido su evaluación. Lo anterior, sólo podrá solicitarse en un máximo de dos ocasiones durante la totalidad de los módulos que conforman un programa de posgrado.
+En caso de que la persona participante no alcanzara la calificación mínima para acreditar un módulo, tendrá una segunda oportunidad para aprobarlo presentando una evaluación extraordinaria en los términos que se establezcan por la Dirección de Formación, dentro de los tres días naturales siguientes a que le sea notificada su boleta de calificaciones. Lo anterior, sólo podrá solicitarse en un máximo de dos ocasiones durante la totalidad de los módulos que conforman un programa de posgrado.
 
 ###### Artículo 54.
 
@@ -684,17 +756,21 @@ Para incorporarse al programa de posgrado del que haya sido dada de baja tempora
 
 ###### Artículo 61.
 
-La Dirección de Formación podrá determinar la baja definitiva de una persona participante de un programa de posgrado cuando incurra en fraude académico.
+(DEROGADO, G.O. 30 DE OCTUBRE DE 2023)
 
 ###### Artículo 62.
 
 Son causas que ameritan la baja definitiva del programa de posgrado:
 
-I. Reincidir en actos de fraude académico entendidos como aquel acto de uso o transcripción de textos, gráficos o ilustraciones, sin dar el crédito de autoría o señalar la fuente originaria en los trabajos escritos tales como actividades de aprendizaje, trabajos finales modulares, el trabajo para la obtención de grado u otro que surja en el marco del programa de posgrado en cuestión.
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2023)</small>
+
+I. Incurrir en actos de fraude académico entendidos como aquel acto de uso o transcripción de textos, gráficos o ilustraciones, sin dar el crédito de autoría o señalar la fuente originaria en los trabajos escritos tales como actividades de aprendizaje, trabajos finales modulares, el trabajo para la obtención de grado u otro que surja en el marco del programa de posgrado en cuestión.
 
 II. Suplantar o permitir ser suplantado en el cumplimiento de sus obligaciones.
 
-III. Reincidir en acciones de deshonestidad académica, tales como: copiar, modificar o alterar un examen ya calificado; hurtar o traficar con exámenes; falsificar información o datos; contratar a terceros para realizar un proyecto, tarea o trabajo; intentar sobornar o amenazar a una persona especialista, y cualquier otro acto fraudulento en las actividades, evaluaciones o acreditación del programa de posgrado en beneficio de la persona participante.
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2023)</small>
+
+III. Incurrir en acciones de deshonestidad académica, tales como: copiar, modificar o alterar un examen ya calificado; hurtar o traficar con exámenes; falsificar información o datos; contratar a terceros para realizar un proyecto, tarea o trabajo; intentar sobornar o amenazar a una persona especialista, y cualquier otro acto fraudulento en las actividades, evaluaciones o acreditación del programa de posgrado en beneficio de la persona participante.
 
 IV. Falsificar documentos oficiales o utilizar documentos oficiales falsificados.
 
@@ -708,17 +784,25 @@ VIII. Incumplir de forma recurrente con las obligaciones descritas en el present
 
 IX. Hacer uso de las actividades académicas, instalaciones y/o cualquier imagen de la Escuela con fines de proselitismo o propaganda electoral.
 
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2023)</small>
+
+X. Incumplir con el pago de dos o más cuotas de recuperación por concepto del programa de posgrado que la persona participante se encuentre cursando en esta Escuela, enunciadas en el artículo 18 del presente Reglamento.
+
 La Dirección de Formación notificará de la baja definitiva a la persona participante por el medio que estime pertinente conforme a las circunstancias específicas.
 
 Las bajas definitivas podrán operar en cualquier momento durante el desarrollo del programa de posgrado.
 
+> <small>(ADICIONADO, G.O. 30 DE OCTUBRE DE 2023)</small>
+
+En caso de baja definitiva por cualquiera de las causas previstas anteriormente, la persona participante no contará con derecho a revalidar las materias y/o módulos cursados en esta Escuela; debiendo, en su caso, volver a participar en la convocatoria correspondiente, para los programas de posgrado ofertados por esta Institución.
+
 ### CAPÍTULO IV. DEL REINGRESO
+
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 63.
 
-Se considera participante de reingreso a toda aquella persona que estuvo inscrita en alguno de los
-
-(sic) posgrado que imparte la Escuela, si decide reanudar o continuar sus estudios. El participante de reingreso tiene el derecho de revalidar los estudios cursados con anterioridad y acreditar exclusivamente los módulos no cursados.
+Se considera participante de reingreso a toda aquella persona que estuvo inscrita en alguno de los programas de posgrado que imparte la Escuela, que haya causado o solicitado baja temporal, si decide reanudar o continuar sus estudios. El participante de reingreso tiene el derecho de revalidar los estudios cursados con anterioridad, siempre y cuando éstos hayan sido acreditados; de lo contrario deberá recursar aquellos no acreditados y presentar los no cursados.
 
 ###### Artículo 64.
 
@@ -741,3 +825,19 @@ Ciudad de México a diecisiete de junio del año dos mil veintidós.
 Dr. Hegel Cortés Miranda
 
 Director General de la Escuela de Administración Pública de la Ciudad de México
+
+G.O. 30 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁN SER CONSULTADAS LAS REFORMAS DEL REGLAMENTO ACADÉMICO DE PROGRAMAS DE POSGRADO DE LA ESCUELA DE ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. - Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México y en la página electrónica de la Escuela de Administración Pública de la Ciudad de México.
+
+SEGUNDO. - Las reformas al Reglamento Académico de Programas de Posgrado de la Escuela de Administración Pública de la Ciudad de México, entraran en vigor una vez aprobadas por la Junta de Gobierno de la Escuela de Administración Pública de la Ciudad de México.
+
+TERCERO. - El responsable de mantener visible y permanente el enlace electrónico del presente aviso es el Ing. David Arriaga González, Jefe de Unidad Departamental de Tecnologías de Información y Comunicaciones dependiente de la Escuela de Administración Pública de la Ciudad de México, con número telefónico 51307190 EXT- 5317
+
+## TRANSITORIOS
+
+Primero. - Las reformas al presente reglamento entrarán en vigor una vez aprobadas por la Junta de Gobierno de la Escuela de Administración Pública de la Ciudad de México.
+
+Segundo. - Publíquese en la Gaceta Oficial de la Ciudad de México, así como en la página electrónica de la Escuela de Administración Pública de la Ciudad de México.
