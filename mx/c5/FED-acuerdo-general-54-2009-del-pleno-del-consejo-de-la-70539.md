@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-54-2009-del-pleno-del-consejo-de-la-70539"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-10-26"
-last_updated: "2022-03-14"
+last_updated: "2023-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70539&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-09-30"
 
 ACUERDO GENERAL 54/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO AUXILIAR DE LA DÉCIMA REGIÓN, CON RESIDENCIA EN SALTILLO, COAHUILA, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2023.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 26 de octubre de 2009.
 
@@ -55,27 +55,39 @@ En consecuencia, con fundamento en los artículos constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL 15/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 26/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2023)</small>
 
-PRIMERO. CONFORMACION, COMPETENCIA y DENOMINACION. Se crea el Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila de Zaragoza, conformado por cuatro tribunales colegiados de Circuito auxiliares y tres juzgados de Distrito auxiliares, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias.
+PRIMERO. CONFORMACION, COMPETENCIA y DENOMINACION. Se crea el Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila de Zaragoza, conformado por tres tribunales colegiados de Circuito auxiliares y un juzgado de Distrito auxiliar, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias.
+
+> <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL 15/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE MAYO DE 2012)</small>
 
 Los tribunales colegiados se denominarán:
 
+> <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL 15/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE MAYO DE 2012)</small>
+
 Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Décima Región.
+
+> <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL 15/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE MAYO DE 2012)</small>
 
 Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Décima Región.
 
+> <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL 15/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE MAYO DE 2012)</small>
+
 Tercer Tribunal Colegiado de Circuito del Centro Auxiliar de la Décima Región.
 
-Cuarto Tribunal Colegiado de Circuito del Centro Auxiliar de la Décima Región.
+> <small>(DEROGADO SEXTO PÁRRAFO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 26/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2023)</small>
+
+> <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL 15/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE MAYO DE 2012)</small>
 
 Los juzgados de Distrito se denominarán:
 
+> <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL 15/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE MAYO DE 2012)</small>
+
 Juzgado Primero de Distrito del Centro Auxiliar de la Décima Región.
 
-Juzgado Segundo de Distrito del Centro Auxiliar de la Décima Región.
+> <small>(DEROGADO NOVENO PÁRRAFO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 26/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2023)</small>
 
-Juzgado Tercero de Distrito del Centro Auxiliar de la Décima Región.
+> <small>(DEROGADO DÉCIMO PÁRRAFO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 26/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2023)</small>
 
 SEGUNDO. INICIO DE FUNCIONES Y DOMICILIO. El Pleno del Consejo de la Judicatura Federal determinará la fecha de inicio de funciones, así como la ubicación de los órganos jurisdiccionales que integrarán el Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila.
 
@@ -206,3 +218,13 @@ QUINTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal deb
 SEXTO. El cambio en la vigencia del certificado digital de la FIREL surtirá efecto a partir del 16 de marzo de 2022.
 
 SÉPTIMO. Las consultas a que se refiere el artículo 46 Ter del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, serán recibidas a través del Sistema de Gestión Documental (SIGDOC) a partir del 16 de marzo de 2022. Se instruye a las direcciones generales de Estrategia y Transformación Digital y Tecnologías de la Información la realización de todas las acciones necesarias para implementar la conexión de los órganos jurisdiccionales con la Secretaría Ejecutiva de Creación de Nuevos Órganos, a través del referido Sistema.
+
+D.O.F. 31 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 26/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS SEGUNDO Y TERCERO DE DISTRITO, Y DEL CUARTO TRIBUNAL COLEGIADO DE CIRCUITO, TODOS DEL CENTRO AUXILIAR DE LA DÉCIMA REGIÓN, CON RESIDENCIA EN SALTILLO, COAHUILA DE ZARAGOZA; Y QUE REFORMA Y DEROGA DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las Secretarías Ejecutivas de Administración, y de Creación de Nuevos Órganos; la Coordinación de Administración Regional; la Dirección General de Gestión Judicial, la Dirección General de Estadística Judicial; y la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo.
