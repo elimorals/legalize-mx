@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-pensiones-y-prestaciones-sociales-para-los-21479"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-21"
-last_updated: "2023-09-01"
+last_updated: "2023-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 21 de mayo de 2001.
 
@@ -623,11 +623,11 @@ Cuando un pensionista por incapacidad física o mental recupere sus facultades, 
 
 En la concesión de pensiones por incapacidad física o mental transitoria no será necesario que el trabajador cause baja en el servicio, pues podrá otorgarse aunque esté disfrutando de la licencia temporal correspondiente.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2023)</small>
 
-###### ARTICULO 68.
+###### ARTÍCULO 68.
 
-Se establece un seguro de salud para la familia proporcionado por una institución de seguridad social en favor de los jubilados y pensionados por la Dirección de Pensiones, a fin de que reciban la asistencia médica, quirúrgica, farmacéutica y hospitalaria que sea necesaria en caso de enfermedad, derecho que se hace extensivo a la esposa o concubina de cada derechohabiente. Para tal efecto, las instituciones de la administración pública estatal, o municipal en su caso, cubrirán las cuotas correspondientes.
+Se establece un seguro de salud para la familia proporcionado por una institución de seguridad social en favor de los jubilados y pensionados por la Dirección de Pensiones, a fin de que reciban la asistencia médica, quirúrgica, farmacéutica y hospitalaria que sea necesaria en caso de enfermedad, derecho que se hace extensivo al cónyuge, concubina o concubino de cada derechohabiente. Para tal efecto, las instituciones de la administración pública estatal, o municipal en su caso, cubrirán las cuotas correspondientes.
 
 ### CAPITULO VI. DE LAS PENSIONES A LOS FAMILIARES DE LOS TRABAJADORES
 
@@ -2488,3 +2488,11 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
+
+P.O. 31 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0862.- SE REFORMA EL ARTÍCULO 68, DE LA LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
