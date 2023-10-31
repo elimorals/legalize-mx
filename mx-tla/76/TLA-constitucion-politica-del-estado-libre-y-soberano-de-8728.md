@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2023-09-19"
+last_updated: "2023-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -943,9 +943,9 @@ Las oficinas públicas deberán facilitar el cumplimiento de estas obligaciones.
 
 Una de las labores fundamentales del Congreso es la recepción, análisis y glosa de los informes que rindan los poderes Ejecutivo y Judicial bajo los términos siguientes:
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2023)</small>
 
-La persona titular del Poder del Poder Ejecutivo Estatal deberá rendir ante el Congreso del Estado, por escrito, un informe sobre la situación general que guarde la administración pública, dentro de los primeros cinco días del mes de diciembre de cada año; en el último año de gobierno, el informe de referencia se presentará en los primeros cinco días del mes de agosto.
+Dentro de los primeros cinco días del mes de diciembre de cada año, la persona titular del Poder Ejecutivo del Estado presentará ante el Congreso Local, por escrito, de manera impresa y en formato digital, el informe anual sobre la situación que guardan los diversos ramos de la administración pública estatal. En el año en que cambie la titularidad del Poder Ejecutivo, la Gobernadora o el Gobernador saliente presentará el informe en los primeros cinco días del mes de agosto, y la Gobernadora o el Gobernador entrante lo hará en los primeros cinco días del mes de diciembre; en ambos casos, el informe se referirá solo al lapso intraanual que corresponda.
 
 A más tardar el día quince del mes de enero de cada año, el presidente del Tribunal Superior de Justicia, entregará por escrito al Congreso, un informe anual sobre las actividades del Poder Judicial; para lo cual podrá comparecer ante el Congreso del Estado.
 
@@ -1101,13 +1101,29 @@ XIII. Discutir, aprobar o modificar, en su caso, el presupuesto de egresos que p
 
 XIV. Determinar las participaciones que correspondan a los municipios de los impuestos federales y estatales;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2023)</small>
 
-XV. Expedir leyes que regulen las relaciones de trabajo entre los poderes del Estado, los municipios, organismos autónomos y los organismos paraestatales con sus trabajadores, con base en lo dispuesto por los artículos 115 y 123 de la Constitución Política de los Estados Unidos Mexicanos, así como las relativas al sistema de seguridad social de que deban gozar éstos. Para tal efecto se creará un Tribunal de Conciliación y Arbitraje, con autonomía técnica para emitir sus resoluciones y patrimonio propio, dotado de plena jurisdicción para conocer de los conflictos individuales y colectivos de carácter laboral y de seguridad social, integrado con tres magistrados. Un magistrado designado por el sindicato mayoritario de los trabajadores de los poderes públicos, municipios, o ayuntamientos; un Magistrado designado por los poderes públicos, municipios o ayuntamientos, y un Magistrado tercer árbitro que fungirá como presidente y que será propuesto en terna por el titular del Ejecutivo del Estado y designado por los dos Magistrados anteriores.
+XV. Expedir leyes que regulen las relaciones de trabajo entre los poderes del Estado, los municipios, organismos autónomos y los organismos paraestatales con sus trabajadores, con base en lo dispuesto por los artículos 115 y 123 de la Constitución Política de los Estados Unidos Mexicanos, así como las relativas al sistema de seguridad social de que deban gozar éstos. Para tal efecto se creará un Tribunal de Conciliación y Arbitraje, con autonomía técnica para emitir sus resoluciones y patrimonio propio, dotado de plena jurisdicción para conocer de los conflictos individuales y colectivos de carácter laboral y de seguridad social, integrado con tres magistraturas. Un Magistrado o Magistrada que designe la organización sindical de los trabajadores de los poderes públicos, municipios, o ayuntamientos, es decir, el que tenga la mayoría de las personas servidoras públicas agremiadas; un Magistrado o Magistrada que se nombre por los poderes públicos, municipios o ayuntamientos, y un Magistrado o Magistrada tercer árbitro que fungirá como Presidente y que se designe por la persona titular del Poder Ejecutivo del Estado.
 
-El Magistrado Presidente designado para integrar el Tribunal de Conciliación y Arbitraje del Estado, deberá cumplir con los mismos requisitos exigibles para ser nombrado Magistrado del Tribunal Superior de Justicia del Estado, pero además contar con experiencia profesional acreditable en materia de derecho laboral burocrático. Los Magistrados del Tribunal durarán en su encargo seis años y podrán ser ratificados para un periodo igual.
+La persona titular de la magistratura que ocupe la Presidencia del Tribunal de Conciliación y Arbitraje del Estado deberá cumplir con los requisitos exigibles para ser nombrado Magistrado del Tribunal Superior de Justicia del Estado, pero además contar con experiencia profesional en materia de derecho laboral.
 
-El procedimiento para la designación de los Magistrados integrantes del Tribunal de Conciliación y Arbitraje será el que establezca la Ley Laboral de los Servidores Públicos del Estado de Tlaxcala y sus Municipios.
+El procedimiento para la designación de la persona titular de la magistratura representante patronal de los poderes públicos, municipios o ayuntamientos, será el siguiente:
+
+a) Quien ostente la titularidad del Poder Ejecutivo pondrá una terna a consideración de los poderes públicos, municipios o ayuntamientos, acompañando los documentos necesarios para acreditar que quienes integren la terna cumplan los requisitos establecidos en el artículo 90 de la Ley Laboral de los Servidores Públicos del Estado de Tlaxcala y sus municipios;
+
+b) En el improrrogable término de tres días hábiles, contados a partir de la fecha de recepción de la terna, los poderes públicos, municipios o ayuntamientos procederán a la elección de la persona titular de la Magistratura;
+
+c) En caso de que los representantes no efectúen la designación en el término señalado en el inciso que antecede, fungirá como titular de la Magistratura representante patronal de los poderes públicos, municipios o ayuntamientos, la persona que nombre la persona titular del Poder Ejecutivo del Estado, e
+
+d) Si los representantes rechazaran la terna, dentro del término concedido para resolver, la persona titular del Poder Ejecutivo remitirá una segunda terna y se repetirá el procedimiento, por única ocasión; en tal virtud, si los representantes de los poderes, municipios o ayuntamientos no hicieran la designación en el término respectivo, o nuevamente rechazaran la terna, la persona titular del Poder Ejecutivo del Estado efectuará el nombramiento.
+
+Las designaciones a que se refiere esta fracción se harán antes del quince de diciembre del año anterior a su entrada en funciones.
+
+Los magistrados del Tribunal de Conciliación y Arbitraje, durarán en su encargo seis años y podrán ser ratificados hasta por un periodo igual.
+
+Las personas que ocupen la titularidad de las magistraturas del Tribunal de Conciliación y Arbitraje del Estado no ejercerán ese cargo por más de doce años.
+
+Al finalizar su encargo, quien haya ejercido el cargo de titular de alguna Magistratura del Tribunal de Conciliación y Arbitraje del Estado, durante por lo menos seis años, tendrá derecho a un haber de retiro y no podrá ejercer actos de representación legal o litigio, en aquellos temas relacionados con la función que haya desempeñado.
 
 > <small>(ADICIONADA, P.O. 26 DE ENERO DE 2021)</small>
 
@@ -1137,13 +1153,17 @@ c) Designar al titular del Órgano de Fiscalización Superior, por el voto de la
 
 d) Expedir leyes en materia de contabilidad gubernamental que regirán la contabilidad pública y la presentación homogénea de información financiera, de ingresos y egresos, así como patrimonial, para los poderes del Estado, entidades, organismos autónomos y municipios, a fin de garantizar su armonización contable a nivel estatal;
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2023)</small>
 
-e) Evaluar el desempeño del Órgano de Fiscalización Superior, para lo cual recibirá y sancionará el Programa Operativo Anual; así como un informe trimestral sobre la evolución de sus trabajos de fiscalización, e
+e) Evaluar el desempeño del Órgano de Fiscalización Superior, para lo cual recibirá y sancionará el Programa Operativo Anual; así como un informe trimestral sobre la evolución de sus trabajos de fiscalización;
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2023)</small>
 
-f) Expedir la ley que regule la organización y facultades del Órgano de Fiscalización Superior.
+f) Expedir la ley que regule la organización y facultades del Órgano de Fiscalización Superior, e
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2023)</small>
+
+g) Designar por el voto de las dos terceras partes de los integrantes del Congreso, a la persona titular de la Contraloría Interna del Órgano de Fiscalización Superior, a propuesta de la Junta de Coordinación y Concertación Política.
 
 XVIII. Aprobar o no los convenios que el Gobernador pretenda celebrar con los Estados circunvecinos, respecto de las cuestiones de límites y someter tales convenios a la ratificación del Congreso de la Unión;
 
@@ -1169,17 +1189,15 @@ XXV. Instruir al organismo público local electoral, para que proceda a efectuar
 
 XXVI. Nombrar al Procurador General de Justicia del Estado;
 
-(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE MAYO DE 2021) (F. DE E., P.O. 1 DE ABRIL DE 2022)
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2023)</small>
 
-XXVII. Nombrar, evaluar y, en su caso, ratificar a los magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, sujetándose a los términos que establezca esta Constitución y la Ley Orgánica del Poder Legislativo del Estado, salvaguardando en los procesos, los principios de excelencia, objetividad, imparcialidad, profesionalismo, acceso a la información, publicidad, equidad, paridad de género e independencia del Poder Judicial del Estado.
+XXVII. Designar, evaluar y, en su caso, ratificar a las magistradas y a los magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, sujetándose a los términos que establezca esta Constitución y la Ley Orgánica del Poder Legislativo del Estado, salvaguardando en los procesos, los principios de excelencia, objetividad, imparcialidad, profesionalismo, acceso a la información, publicidad, equidad, paridad de género e independencia del Poder Judicial del Estado.
 
-(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 18 DE JULIO DE 2017) (F. DE E., P.O. 1 DE ABRIL DE 2022)
+En el procedimiento referido en el párrafo anterior, se deberá observar lo siguiente:
 
-En el procedimiento referido en el párrafo que antecede se deberán observar las bases siguientes:
+a) Las personas titulares de las magistraturas del Tribunal Superior de Justicia podrán ser ratificadas hasta por un periodo igual. El Congreso, con la aprobación de las dos terceras partes del total de las diputadas y los diputados que integren la Legislatura, y previa opinión del Consejo de la Judicatura sobre el desempeño de la Magistrada o el Magistrado correspondiente, resolverá sobre su ratificación, con anticipación de noventa días naturales a la fecha en que expire el plazo de ejercicio;
 
-a) Una vez cumplido el plazo para el que fueron designados, los Magistrados podrán ser ratificados por un periodo igual. El Congreso con la aprobación de las dos terceras partes del total de los diputados que integren la Legislatura y previa opinión del Consejo de la Judicatura sobre el desempeño del Magistrado correspondiente, resolverá sobre la ratificación o remoción, con anticipación de noventa días naturales a la fecha en que expire el plazo de ejercicio;
-
-b) En caso de que exista la necesidad de designar a un nuevo o nuevos Magistrados, se atenderá lo dispuesto en los artículos 83, 84 y 84 Bis de esta Constitución y en la Ley Orgánica del Poder Legislativo del Estado;
+b) En caso de que se requiera de la designación de una nueva persona titular de alguna Magistratura, se atenderá lo dispuesto en los artículos 83, 84 y 97 Bis de esta Constitución y en la Ley Orgánica del Poder Legislativo del Estado;
 
 XXVIII. Elegir a los miembros del Consejo Consultivo de la Comisión Estatal de Derechos Humanos;
 
@@ -1259,13 +1277,17 @@ LIX. Nombrar a los Comisionados del Instituto de Acceso a la Información Públi
 
 LX. Expedir las leyes necesarias para la coordinación del Sistema Estatal Anticorrupción a que se refiere el artículo 112 Bis de esta Constitución;
 
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2023)</small>
+
+LXI. Designar, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los Órganos Autónomos reconocidos en esta Constitución, que ejerzan recursos del Presupuesto de Egresos del Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2023)</small>
+
+LXII. Determinar con relación al otorgamiento de haberes de retiro, a favor de las personas que hayan ejercido la titularidad de alguna Magistratura del Tribunal Superior de Justicia del Estado, del Tribunal de Conciliación y Arbitraje del Estado y del Tribunal Electoral de Tlaxcala, conforme a lo dispuesto en esta Constitución y en la ley, y
+
 > <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
 
-LXI. Designar, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los Órganos Autónomos reconocidos en esta Constitución, que ejerzan recursos del Presupuesto de Egresos del Estado, y
-
-> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
-
-LXII. Las demás que le confiere esta Constitución y las leyes.
+LXIII. Las demás que le confiere esta Constitución y las leyes.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -1455,7 +1477,9 @@ Cada Titular de la Administración Pública centralizada y descentralizada, ser�
 
 Para ser Secretario de Gobierno, deben reunirse los requisitos siguientes:
 
-I. Ser mexicano por nacimiento y tlaxcalteca en pleno ejercicio de sus derechos, con una residencia mínima en el Estado de siete años anteriores al día de la designación;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2023)</small>
+
+I. Tener nacionalidad mexicana y estar en pleno ejercicio de sus derechos, con una residencia, domicilio o vecindad, de cuando menos tres años anteriores al día de la designación;
 
 II. Tener treinta años cumplidos, cuando menos, al día de la designación, y
 
@@ -1477,11 +1501,11 @@ El Secretario de Gobierno quedará encargado del despacho durante las ausencias 
 
 El Secretario de Gobierno, o a falta de éste el Oficial Mayor y el Secretario del Ejecutivo a cuyo ramo corresponda el asunto, firmarán los Reglamentos, Decretos y Acuerdos que el Gobernador diere en uso de sus facultades y sin este requisito no serán obedecidos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 70.
 
-Son facultades y obligaciones del Gobernador:
+Son facultades y obligaciones de la persona titular del Poder Ejecutivo del Estado:
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -1507,9 +1531,9 @@ V. Pedir a la Comisión Permanente que convoque al Congreso a sesiones extraordi
 
 VI. Concurrir al Congreso cuando lo juzgue conveniente para sostener alguna iniciativa que él mismo haya presentado o enviar un representante para tales efectos;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2023)</small>
 
-VII. Rendir por escrito al Congreso del Estado, el informe sobre la situación general que guardan los diversos rubros de la administración pública, dentro de los primeros cinco días del mes de diciembre de cada año. En el último año de gobierno, el informe se presentará en los primeros quince días del mes de agosto;
+VII. Rendir por escrito, de manera impresa y en formato digital, al Congreso del Estado, el informe anual sobre la situación general que guardan los diversos rubros de la administración pública, dentro de los primeros cinco días del mes de diciembre de cada año. En el año en que cambie la titularidad del Poder Ejecutivo, la Gobernadora o el Gobernador saliente presentará el informe en los primeros cinco días del mes de agosto, y la Gobernadora o el Gobernador entrante lo hará en los primeros cinco días del mes de diciembre; en ambos casos, el informe se referirá solo al lapso intraanual que corresponda;
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -1547,9 +1571,7 @@ XV. Decretar la expropiación por causa de utilidad pública;
 
 XVI. Imponer gubernativamente las sanciones administrativas que determinen las Leyes y Reglamentos;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
-
-XVII. Conceder indulto, reducción, conmutación y demás beneficios que en materia de readaptación social de sentenciados establezca la Ley;
+XVII. (DEROGADA, P.O. 31 DE OCTUBRE DE 2023)
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -1781,6 +1803,14 @@ La administración, vigilancia y disciplina del Poder Judicial, estará a cargo 
 
 Los magistrados del Tribunal Superior de Justicia durarán en el cargo seis años y podrán ser ratificados, previa evaluación en términos de lo establecido por esta Constitución. Elegirán de entre ellos a un presidente que durará en su encargo dos años y podrá ser reelecto por una sola vez. Solo podrán ser removidos de sus cargos, por el Congreso del Estado por faltas u omisiones graves en el desempeño de sus funciones; por incapacidad física o mental; por sanción impuesta en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado, o por haber cumplido sesenta y cinco años.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2023)</small>
+
+Ninguna Magistrada o Magistrado podrá permanecer más de doce años en su encargo.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2023)</small>
+
+Al finalizar su encargo, quien haya ejercido el cargo de titular de alguna Magistratura del Tribunal Superior de Justicia del Estado, durante por lo menos seis años, tendrá derecho a un haber de retiro y no podrá ejercer actos de representación legal o litigio, en aquellos temas relacionados con la función que haya desempeñado.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 80.
@@ -2001,29 +2031,21 @@ Los Jueces del orden civil, familiar, penal, ejecución de sanción, administrac
 
 Los Jueces del orden civil, familiar, penal, ejecución de sanción, administración de justicia para adolescentes, mercantil y laboral podrán ser removidos de su cargo por el Consejo de la Judicatura, considerando la opinión del Pleno del Tribunal Superior de Justicia, de conformidad con el procedimiento para la aplicación de sanciones contemplado en la ley que determine las responsabilidades y sanciones de los servidores públicos; por incapacidad física o mental o por haber cumplido sesenta y cinco años.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(DEROGADO, P.O. 31 DE OCTUBRE DE 2023)</small>
 
 ### CAPITULO II. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2021)</small>
-
-ARTICULO 84 BIS.- El Tribunal de Justicia Administrativa del Estado de Tlaxcala, es un organismo público especializado, dotado de plena autonomía, con personalidad jurídica y patrimonio propio, será independiente de cualquier autoridad y tendrá su residencia en la ciudad de Tlaxcala de Xicohténcatl. La Ley establecerá su presupuesto, organización, funcionamiento, procedimientos y, en su caso, los recursos contra sus resoluciones. Tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre la administración pública estatal y municipal con los particulares y será el órgano competente para imponer, en los términos que disponga la ley, las sanciones a los servidores públicos estatales y municipales por responsabilidad administrativa grave, a los particulares que incurran en actos vinculados con faltas administrativas graves; así como para fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública Estatal o Municipal, o bien, al patrimonio de los entes públicos estatales o municipales, en los términos que establezca la legislación correspondiente.
-
-El Tribunal de Justicia Administrativa del Estado de Tlaxcala, se integrará por tres Magistrados, electos por el voto de las dos terceras partes del total de los integrantes de la Legislatura del Congreso del Estado. Tendrá autonomía presupuestaria, el Congreso del Estado aprobará el presupuesto a propuesta del Presidente del Tribunal de Justicia Administrativa, para su inclusión en el proyecto de Presupuesto del Estado. Asimismo, el Tribunal deberá expedir su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento.
-
-Para ser Magistrado de este Tribunal se deberá contar con experiencia en materia de derecho administrativo y fiscal de al menos cinco años previos a la designación, satisfacer los requisitos que se señalan en el artículo 83 de la presente Constitución y su designación será para un periodo de seis años. No se podrá ocupar el cargo como propietario en forma consecutiva, ni discontinua, por más de dicho periodo. Si un Magistrado llega a la edad de setenta años, cesará en sus funciones y tendrá derecho a un haber por retiro. Los Magistrados sólo podrán ser removidos de sus cargos por las causas graves que establezca la ley.
-
-Previo a su designación, los magistrados deberán aprobar los exámenes públicos de oposición, que se efectúen conforme a la Ley, ante el Pleno del Congreso, quien nombrará a los miembros del Jurado, respectivamente, el que estará integrado básicamente por académicos e investigadores preferentemente ajenos al Estado. Para la práctica de esos exámenes, deberá expedirse, respectivamente, con un mes de anticipación, una convocatoria dirigida a todos los abogados de la Entidad debidamente publicitada en tres periódicos de mayor circulación, conteniendo el nombre de los sinodales.
+ARTICULO 84 BIS.- (DEROGADO, P.O. 31 DE OCTUBRE DE 2023)
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO III. DEL CONSEJO DE LA JUDICATURA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 85.
 
-El Consejo de (sic) Judicatura es un órgano del Poder Judicial con independencia técnica de gestión y para emitir sus resoluciones, encargado de la vigilancia y administración de los recursos del Poder Judicial; se integrará por cinco consejeros, para quedar como sigue:
+El Consejo de la Judicatura es un órgano del Poder Judicial con independencia técnica de gestión y para emitir sus resoluciones, encargado de la vigilancia y administración de los recursos del Poder Judicial; se integrará por cinco consejeros, para quedar como sigue:
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -2061,9 +2083,7 @@ Los consejeros, serán designados en términos de la presente Constitución y, a
 
 El Consejo de la Judicatura será responsable de implementar el sistema de carrera judicial, con auxilio del instituto de capacitación de la judicatura, bajo los principios de legalidad, excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género; nombrará y removerá a los servidores públicos del Poder Judicial con excepción de los magistrados, asimismo les concederá licencia y resolverá sobre la renuncia que presenten, en los términos que establezca la Ley.
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
-
-La administración, vigilancia y disciplina en el Tribunal de Justicia Administrativa del Estado corresponderán a una Comisión del Consejo de la Judicatura.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 31 DE OCTUBRE DE 2023)</small>
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -2485,6 +2505,10 @@ El órgano jurisdiccional local en materia electoral conocerá en única instanc
 
 El órgano jurisdiccional local en materia electoral se compondrá de tres magistrados, actuarán en forma colegiada, permanecerán en su encargo durante siete años, y serán electos por la Cámara de Senadores, en los términos que determine la ley de la materia.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2023)</small>
+
+Al finalizar su encargo, quien haya ejercido el cargo de titular de alguna Magistratura del órgano jurisdiccional local en materia electoral, durante la totalidad del periodo de su nombramiento, tendrá derecho a un haber de retiro y no podrá ejercer actos de representación legal o litigio, en aquellos temas relacionados con la función que haya desempeñado.
+
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO III. DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE TLAXCALA
@@ -2525,7 +2549,19 @@ El titular de la Comisión y los integrantes del Consejo Consultivo durarán en 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ABRIL DE 2016)</small>
 
-### CAPITULO I. DESARROLLO Y PLANEACION
+### CAPITULO IV. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 97 BIS.- El Tribunal de Justicia Administrativa del Estado de Tlaxcala es un órgano jurisdiccional, dotado de plena autonomía, con personalidad jurídica y patrimonio propio, será independiente de cualquier autoridad y tendrá su residencia en la Ciudad de Tlaxcala de Xicohténcatl. La Ley establecerá su presupuesto, organización, funcionamiento, procedimientos y, en su caso, los recursos contra sus resoluciones.
+
+Tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre la administración pública estatal y municipal con los particulares y será el órgano competente para imponer, en los términos que disponga la ley, las sanciones a los servidores públicos estatales y municipales por responsabilidad administrativa grave, a los particulares que incurran en actos vinculados con faltas administrativas graves; así como para fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública Estatal o Municipal, o bien, al patrimonio de los entes públicos estatales o municipales, en los términos que establezca la legislación correspondiente.
+
+El Tribunal de Justicia Administrativa del Estado de Tlaxcala se integrará por tres magistraturas, cuyas personas titulares serán electas por el voto de las dos terceras partes del total de los integrantes de la Legislatura del Congreso del Estado. Tendrá autonomía presupuestaria, el Congreso del Estado aprobará el presupuesto a propuesta del Presidente del Tribunal de Justicia Administrativa, para su inclusión en el proyecto de Presupuesto del Estado. Asimismo, el Tribunal deberá expedir su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento.
+
+Para ser Magistrada o Magistrado de este Tribunal se deberá contar con experiencia en materia de derecho administrativo y fiscal de al menos cinco años previos a la designación, satisfacer los requisitos que se señalan en el artículo 83 de la presente Constitución y su designación será para un periodo de seis años con posibilidad de reelección hasta por un periodo igual al que fueron designados. No se podrá ocupar el cargo como propietario en forma consecutiva, ni discontinua, por más de dicho periodo. Si una Magistrada o Magistrado llega a la edad de setenta años, cesará en sus funciones y tendrá derecho a un haber por retiro. Las y los Magistrados solo podrán ser removidos de sus cargos por las causas graves que establezca la ley.
+
+Previo a su designación, las magistradas y los magistrados deberán aprobar los exámenes públicos de oposición que se efectúen conforme a la Ley, ante el Pleno del Congreso, quien nombrará a los miembros del Jurado, el que estará integrado básicamente por académicos e investigadores preferentemente ajenos al Estado. Para la práctica de esos exámenes, deberá expedirse, con un mes de anticipación, una convocatoria dirigida a todos los abogados de la Entidad, debidamente publicitada en tres periódicos impresos de circulación diaria en el Estado, conteniendo el nombre de los sinodales.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -2557,23 +2593,23 @@ Los comisionados durarán en su encargo siete años y serán electos de manera e
 
 El Instituto contará con un Consejo Consultivo, conformado por cinco Consejeros, que durarán en su cargo cuatro años. En la integración del Consejo se preferirá la inclusión de personas con experiencia en materia de transparencia y acceso a la información así como, en general, de derechos humanos. La ley establecerá lo relativo a la instalación del Consejo Consultivo, su estructura y funcionamiento; sus facultades, atribuciones y deberes jurídicos, así como las de sus integrantes; el procedimiento de designación de los consejeros, la forma de suplirlos durante sus ausencias y el espacio físico que el Consejo Consultivo ocupará.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2023)</small>
+
+### CAPITULO I. DESARROLLO Y PLANEACION
+
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO II. DE LAS FINANZAS PUBLICAS
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
-### CAPITULO UNICO. DEL ORGANO DE FISCALIZACION SUPERIOR
-
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
-
 ## TITULO IX. DE LA ECONOMIA Y LAS FINANZAS DEL ESTADO
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-### CAPITULO I. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+### CAPITULO UNICO. DEL ORGANO DE FISCALIZACION SUPERIOR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 98.
 
@@ -2613,35 +2649,9 @@ Los planes de desarrollo estatal como los municipales, se orientarán para logra
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-### CAPITULO II. DEL SISTEMA ESTATAL ANTICORRUPCION
+### CAPITULO I. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
-
-ARTICULO 112 BIS.- El Sistema Anticorrupción del Estado de Tlaxcala es la instancia de coordinación entre las autoridades estatales y municipales competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos en el Estado. Participará, colaborará y asistirá en sus funciones al Sistema Nacional Anticorrupción, en los términos previstos por la ley.
-
-Para el cumplimiento de su objeto, el Sistema Anticorrupción del Estado de Tlaxcala se sujetará a las siguientes bases mínimas:
-
-I. Contará con un Comité Coordinador que estará integrado por los titulares del Órgano de Fiscalización Superior , de la Fiscalía Especializada en Combate a la Corrupción, de la Contraloría del Ejecutivo, del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado; el Magistrado Presidente del Tribunal de Justicia Administrativa; así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado y por un representante del Comité de Participación Ciudadana, quien lo presidirá.
-
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
-
-II. El Comité de Participación Ciudadana deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción, bajo el principio de paridad de género, en los términos que establezca la Ley.
-
-III. Corresponderá al Comité Coordinador, en los términos que determine la ley:
-
-a) El establecimiento de mecanismos de coordinación entre las autoridades estatales, municipales y federales;
-
-b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
-
-c) La determinación de los mecanismos de suministros, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes del estado y sus municipios;
-
-d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades del estado y sus municipios en materia de fiscalización y control de los recursos públicos;
-
-e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
-
-Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como el mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas, en los términos previstos en la ley.
-
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 101.
 
@@ -2673,6 +2683,12 @@ b) Por lo que se refiere a los municipios, será en un porcentaje no mayor al qu
 
 No se podrán contratar nuevos créditos si existen adeudos derivados de este concepto.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 101 BIS.- Los haberes de retiro que se otorguen a las personas que hayan ocupado la titularidad de alguna Magistratura, en los supuestos en que se amerite el otorgamiento de esa prestación, se pagarán con cargo al presupuesto del poder público o ente al que estuvieran adscritas al concluir su encargo.
+
+En el procedimiento para determinar el haber de retiro a otorgar, se tomará en consideración la disponibilidad presupuestaria del poder público o ente de que se trate.
+
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 102.
@@ -2699,9 +2715,35 @@ La Hacienda Pública ejercerá la facultad económico-coactiva para hacer efecti
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-### CAPITULO I. DE LA REFORMA
+### CAPITULO II. DEL SISTEMA ESTATAL ANTICORRUPCION
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+ARTICULO 112 BIS.- El Sistema Anticorrupción del Estado de Tlaxcala es la instancia de coordinación entre las autoridades estatales y municipales competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos en el Estado. Participará, colaborará y asistirá en sus funciones al Sistema Nacional Anticorrupción, en los términos previstos por la ley.
+
+Para el cumplimiento de su objeto, el Sistema Anticorrupción del Estado de Tlaxcala se sujetará a las siguientes bases mínimas:
+
+I. Contará con un Comité Coordinador que estará integrado por los titulares del Órgano de Fiscalización Superior , de la Fiscalía Especializada en Combate a la Corrupción, de la Contraloría del Ejecutivo, del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado; el Magistrado Presidente del Tribunal de Justicia Administrativa; así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado y por un representante del Comité de Participación Ciudadana, quien lo presidirá.
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
+
+II. El Comité de Participación Ciudadana deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción, bajo el principio de paridad de género, en los términos que establezca la Ley.
+
+III. Corresponderá al Comité Coordinador, en los términos que determine la ley:
+
+a) El establecimiento de mecanismos de coordinación entre las autoridades estatales, municipales y federales;
+
+b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
+
+c) La determinación de los mecanismos de suministros, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes del estado y sus municipios;
+
+d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades del estado y sus municipios en materia de fiscalización y control de los recursos públicos;
+
+e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+
+Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como el mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas, en los términos previstos en la ley.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 104.
 
@@ -2773,9 +2815,9 @@ Durante el ejercicio de su encargo, el Auditor de Fiscalización Superior no pod
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JULIO DE 2017)</small>
 
-### CAPITULO II. DE LA INVIOLABILIDAD DE LA CONSTITUCION
+### CAPITULO I. DE LA REFORMA
 
-> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 107.
 
@@ -2884,6 +2926,10 @@ Los servidores públicos están obligados a pagar los daños y perjuicios que ca
 Las entidades públicas a las que pertenezcan los servidores a que se refiere el Artículo 107 de esta Constitución, serán responsables de los daños y perjuicios que causen aquéllos, en los términos que la Ley prevenga.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+### CAPITULO II. DE LA INVIOLABILIDAD DE LA CONSTITUCION
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 ###### ARTICULO 113.
 
@@ -4092,3 +4138,19 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO CUARTO.
 
 El Congreso del Estado deberá efectuar las reformas y adecuaciones necesarias a la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Tlaxcala y sus Municipios, en un término improrrogable de 180 días contados a partir del día siguiente al de la publicación del presente Decreto.
+
+P.O. 31 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 247.- REFORMAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 44; LA FRACCIÓN XV, LOS INCISOS E) Y F) DE LA FRACCIÓN XVII Y LAS FRACCIONES XXVII Y LXI DEL ARTÍCULO 54; LA FRACCIÓN I DEL PÁRRAFO CUARTO DEL ARTÍCULO 67, EL ARTÍCULO 70 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 85; SE ADICIONAN UN INCISO G) A LA FRACCIÓN XVII Y UNA FRACCIÓN LXII, RECORRIÉNDOSE LA ACTUAL, AL ARTÍCULO 54; LOS PÁRRAFOS NOVENO Y DÉCIMO AL ARTÍCULO 79, UN PÁRRAFO OCTAVO AL APARTADO B DEL PÁRRAFO VIGÉSIMO PRIMERO DEL ARTÍCULO 95, UN CAPÍTULO IV DENOMINADO "DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA", AL TÍTULO VIII; UN ARTÍCULO 97 BIS Y UN ARTÍCULO 101 BIS; Y SE DEROGAN LA FRACCIÓN XVII DEL ARTÍCULO 70, EL CAPÍTULO II, DENOMINADO "DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA", DEL TÍTULO VI; EL ARTÍCULO 84 BIS Y EL PÁRRAFO SEXTO DEL ARTÍCULO 85, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA" ]
+
+###### ARTÍCULO PRIMERO.
+
+En términos de lo previsto por el artículo 120 párrafo primero de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos de los municipios del Estado de Tlaxcala, para los efectos conducentes.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que contravengan el contenido de este Decreto.
