@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2023-10-20"
+last_updated: "2023-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE OCTUBRE DE 2023.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -937,25 +937,41 @@ XLVI. Promover la ejecución municipal de programas de dignificación, calidad y
 
 XLVII. Las demás que señalen las leyes y otras disposiciones legales.
 
-> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 32.
 
-Para ocupar las titularidades de la Secretaría, la Tesorería, la Dirección de Obras Públicas, de Desarrollo Económico, de Turismo, de Ecología, de Desarrollo Urbano, de Desarrollo Social, de las Mujeres, de la Coordinación General Municipal de Mejora Regulatoria, de la Coordinación Municipal de Protección Civil, de las unidades administrativas y de los organismos auxiliares, se deberán satisfacer los siguientes requisitos:
+Para ocupar los cargos de Secretario; Tesorero; Director de Obras Públicas, de Desarrollo Económico, Director de Turismo, Coordinador General Municipal de Mejora Regulatoria, Ecología, Desarrollo Urbano, de Desarrollo Social, de las Mujeres, del Campo o equivalentes, titulares de las unidades administrativas, de Protección Civil y de los organismos auxiliares se deberán satisfacer los siguientes requisitos:
+
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2022)</small>
 
 I. Ser persona ciudadana del Estado, en pleno uso de sus derechos;
 
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2022)</small>
+
 II. No estar inhabilitada o inhabilitado para desempeñar cargo, empleo, o comisión pública;
+
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2022)</small>
 
 III. Contar con título profesional o acreditar experiencia mínima de un año en la materia, ante la o el Presidente o el Ayuntamiento, cuando sea el caso, para el desempeño de los cargos que así lo requieran;
 
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2022)</small>
+
 IV. Contar con certificación de competencia laboral en la materia del cargo que se desempeñará, expedida por institución con reconocimiento de validez oficial. Este requisito deberá acreditarse dentro de los seis meses siguientes a la fecha en que inicien sus funciones;
+
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2022)</small>
 
 V. No estar condenada o condenado por sentencia ejecutoriada por el delito de violencia política contra las mujeres en razón de género;
 
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2022)</small>
+
 VI. No estar inscrito en el Registro de Deudores Alimentarios Morosos en el Estado, ni en otra entidad federativa, y
 
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2022)</small>
+
 VII. No estar condenada o condenado por sentencia ejecutoriada por delitos de violencia familiar, contra la libertad sexual o de violencia de género.
+
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
 
 Vencido el plazo a que se refiere la fracción IV, la o el Presidente Municipal informará al Cabildo sobre el cumplimiento de dicha certificación laboral para que, en su caso, el Ayuntamiento tome las medidas correspondientes respecto de aquellos servidores públicos que no hubiesen cumplido.
 
@@ -1979,6 +1995,10 @@ VIII. La Coordinación Municipal de Protección Civil o equivalente.
 
 IX. La Dirección de las Mujeres o equivalente.
 
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2023)</small>
+
+X. Dirección del Campo o equivalente, preferentemente en los municipios cuyas características geográficas, territoriales, sociales, culturales, políticas y económicas sean predominantemente inherentes al ámbito rural.
+
 > <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2020)</small>
 
 ###### Artículo 87 Bis.
@@ -1988,6 +2008,12 @@ En los municipios que de acuerdo a la Ley de Derechos y Cultura Indígena del Es
 La Dirección de Asuntos Indígenas, estará a cargo de una persona que preferentemente hable y escriba alguna de las lenguas indígenas propias de la región. Esta designación a propuesta del Presidente Municipal, deberá ser ratificada por el cabildo.
 
 El Director realizará las funciones y ejercerá las atribuciones específicas que señale el Reglamento Interno correspondiente.
+
+> <small>(ADICIONADO, G.G. 31 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 87 Ter.
+
+En los municipios que cuenten con vocación productiva agrícola pecuaria, acuícola y pesquera y/o agroindustrial, de acuerdo a lo establecido en el Libro Noveno del Código Administrativo del Estado de México, los ayuntamientos podrán contar con una Dirección del Campo o su equivalente, misma que será la encargada de fomentar el desarrollo rural de las actividades agrícolas, pecuarias, acuícolas, forestales, pesquera, agroindustriales, y de la sanidad, comercialización, infraestructura e investigación relativa a dichas actividades.
 
 ###### Artículo 88.
 
@@ -2516,6 +2542,14 @@ XVII. Las demás que le sean conferidas por la o el Presidente Municipal o por e
 Artículo 96 Quindecies.- La persona titular de la Dirección de las Mujeres, además de los requisitos establecidos en el artículo 32 de esta Ley, deberá contar con título profesional en el área de las ciencias sociales o afines y conocimiento amplio del contexto en el municipio correspondiente.
 
 Además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie funciones, la certificación de competencia laboral en temas de prevención, atención integral y erradicación de la violencia contra las niñas, adolescentes y mujeres, en igualdad sustantiva o materias afines, expedida por el Instituto de Administración Pública del Estado de México, el Instituto Hacendario del Estado de México o alguna institución con reconocimiento de validez oficial, que asegure los conocimientos y habilidades para desempeñar el cargo.
+
+> <small>(ADICIONADO, G.G. 31 DE OCTUBRE DE 2023)</small>
+
+Artículo 96 Sexdecies.- La persona titular de la Dirección del Campo o equivalente, preferentemente contara con estudios de Ingeniería en agronomía con las siguientes atribuciones:
+
+I. Fomentar el desarrollo rural de las actividades agrícolas, pecuarias, acuícolas, forestales, pesquera, agroindustriales, y de la sanidad por acuerdo del Ayuntamiento en coordinación con las autoridades estatales y federales correspondientes, establecidas en la ley de la materia. Así como realizar la programación y ejecución de asesorías y servicios relacionados; y
+
+II. Las demás que les señalen las disposiciones aplicables.
 
 ### CAPITULO TERCERO. De la Hacienda Pública Municipal
 
@@ -5816,3 +5850,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. El proceso de designación de la Contralora o Contralor Municipal al que hace referencia el presente Decreto, deberá realizarse durante los primeros treinta días posteriores al inicio del periodo constitucional del Ayuntamiento respectivo.
+
+G.G. 31 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 208.- POR EL QUE SE REFORMA EL ARTÍCULO 32; Y SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 87, EL ARTÍCULO 87 TER Y EL ARTÍCULO 96 SEXDECIES A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese este Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se derogan todas las disposiciones de menor o igual jerarquía que contravengan lo dispuesto por el presente Decreto.
