@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-para-la-educacion-1387
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-10-18"
-last_updated: "2019-10-18"
+last_updated: "2023-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138774&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-09-19"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL PARA LA EDUCACION DE LOS ADULTOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL PARA LA EDUCACIÓN DE LOS ADULTOS, PUBLICADO EN EL D.O.F. DE 31 DE OCTUBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL PARA LA EDUCACIÓN DE LOS ADULTOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2023 (ABROGADO).
 
 Estatuto publicado en el Diario Oficial de la Federación, el viernes 18 de octubre de 2019.
 
@@ -758,3 +760,17 @@ El presente Estatuto Orgánico del Instituto Nacional para la Educación de los 
 En cumplimiento al Acuerdo SO/II-19/09, R, dictado en la Segunda Sesión Ordinaria de 2019 de la Junta de Gobierno del Instituto Nacional para la Educación de los Adultos, y con fundamento en los artículos 15, antepenúltimo párrafo, y 58, fracción VIII de la Ley Federal de las Entidades Paraestatales; así como el artículo 13, fracción VIII del Decreto por el que se reforma el diverso por el que se crea el Instituto Nacional para la Educación de los Adultos, el suscrito Director General del citado organismo público descentralizado procede a tramitar la publicación del presente Estatuto Orgánico en el Diario Oficial de la Federación.
 
 Ciudad de México, a 19 de septiembre de 2019.- El Director General del Instituto Nacional para la Educación de los Adultos, Rodolfo Héctor Lara Ponte.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 31 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL PARA LA EDUCACIÓN DE LOS ADULTOS”.]
+
+PRIMERO.- El presente Estatuto Orgánico surtirá efectos al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Instituto Nacional para la Educación de los Adultos, publicado en el Diario Oficial de la Federación el 18 de octubre de 2019.
+
+TERCERO.- Las Unidades Administrativas con facultades nuevas o distintas que aparecen en el presente Estatuto Orgánico y que tienen competencia en asuntos que anteriormente correspondían a otras Unidades, se harán cargo de los mismos, continuarán su substanciación o dictarán las resoluciones respectivas.
+
+CUARTO.- La implementación del presente Estatuto Orgánico será con cargo al presupuesto autorizado al INEA, por lo que no se requerirán recursos adicionales en el presente ejercicio fiscal, ni se incrementará su presupuesto regularizable.
