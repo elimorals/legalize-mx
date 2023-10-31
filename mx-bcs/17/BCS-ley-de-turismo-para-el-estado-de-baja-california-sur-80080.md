@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-turismo-para-el-estado-de-baja-california-sur-80080"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-20"
-last_updated: "2023-09-30"
+last_updated: "2023-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2023.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California, el lunes 20 de diciembre de 2010.
 
@@ -132,6 +132,10 @@ IX.- Programa: El Programa Estatal de Turismo del Estado de Baja California Sur;
 X.- Programa de Ordenamiento Turístico: El instrumento programático cuya finalidad es lograr el aprovechamiento ordenado y sustentable de los recursos turísticos del Estado mediante la vinculación y articulación de la política turística con las normas e instrumentos en materia de asentamientos humanos y desarrollo urbano, así como de protección al ambiente y equilibrio ecológico;
 
 XI.- Promoción: Las acciones de publicidad y difusión que por cualquier medio se realicen, respecto de la información especializada, actividades, destinos, atractivos y servicios que Baja California Sur ofrece en el sector turístico;
+
+> <small>(ADICIONADA, B.O. 31 DE OCTUBRE DE 2023)</small>
+
+XI Bis.- Pueblo Mágico: Localidad que a través del tiempo y ante la modernidad ha conservado su valor y herencia histórica, cultural y la manifiesta en diversas expresiones a través de su patrimonio tangible e intangible irremplazable, y que cuenta con el nombramiento otorgado por la Secretaría de Turismo Federal;
 
 XII.- Registro Nacional: El Registro Nacional de Turismo que establece la Ley General;
 
@@ -274,6 +278,10 @@ IX.- Coordinarse con la Secretaría del Trabajo y Previsión Social, a efecto de
 X.- Coadyuvar con las Secretarías de Salud y de Seguridad Pública, así como con la Dirección de Protección Civil, en la implementación de medidas para la protección de la integridad física de las y los turistas;
 
 XI.- Promover ante la Secretaría de Educación Pública y el Instituto de Cultura Estatal, acciones tendientes a generar una cultura del buen trato al turista;
+
+> <small>(ADICIONADA, B.O. 31 DE OCTUBRE DE 2023)</small>
+
+XI Bis.- Promover la participación del Estado en programas turísticos en conjunto con otras entidades federativas para la difusión de los valores artísticos, culturales, históricos y arqueológicos, especialmente de las comunidades que cuenten con la categoría de Pueblo Mágico, a nivel nacional e internacional;
 
 XII.- Colaborar con las autoridades aeroportuarias y marítimas, en materia de seguridad;
 
@@ -1152,3 +1160,9 @@ B.O. 30 DE SEPTIEMBRE DE 2023.
 ## [N. DE E.TRANSITORIO DEL “DECRETO 2948 SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 5 Y 27 DE LA LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2956 SE ADICIONA UNA FRACCIÓN XI BIS A LOS ARTÍCULOS 5 Y 7 DE LA LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+Único. - El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
