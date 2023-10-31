@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2023-07-13"
+last_updated: "2023-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -389,9 +389,9 @@ VIII. La disponibilidad de medicamentos y otros insumos esenciales para la salud
 
 IX. La promoción del mejoramiento de la nutrición;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2023)</small>
 
-X. La asistencia social a los grupos más vulnerables;
+X. La asistencia social a los grupos más vulnerables y, de estos, de manera especial, a los pertenecientes a las comunidades indígenas;
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2730,3 +2730,11 @@ P.O. 13 DE JULIO DE 2023.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 31 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 269 POR EL QUE "SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 26 DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE".]
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales y reglamentarias del marco normativo local en lo que se opongan al presente decreto.
