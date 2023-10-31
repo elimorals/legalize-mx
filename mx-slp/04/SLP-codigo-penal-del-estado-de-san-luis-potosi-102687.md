@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2023-10-12"
+last_updated: "2023-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2023.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2747,6 +2747,10 @@ En el caso de tentativa de robo, cuando no fuera posible determinar su monto, se
 
 Cuando lo robado sean bienes de valor científico, artístico, histórico, religioso o cultural cuya preservación sea de interés social, se impondrá una pena de tres a doce años de prisión y sanción pecuniaria de trescientos a mil doscientos días del valor de la unidad de medida y actualización.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2023)</small>
+
+Cuando el robo sea cometido en bienes pertenecientes a una institución educativa, u hospitalaria, se impondrá la misma pena que señala el párrafo anterior, con independencia del valor de los bienes sustraídos, y se perseguirá de oficio, al ser bienes de utilidad pública.
+
 ###### ARTÍCULO 218.
 
 Será calificado el robo cuando:
@@ -2797,17 +2801,21 @@ XV. Se cometa en el interior de una unidad del servicio público de transporte d
 
 XVI. Se cometa utilizando de cualquier forma una unidad del servicio público de transporte de pasajeros o de cualquiera que preste un servicio similar;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2023)</small>
 
-XVII. El objeto robado sea un vehículo de motor, y
+XVII. El objeto robado sea un vehículo de motor;
 
 > <small>(ADICIONADO [N. DE E. REFORMADO ESTE PÁRRAFO], P.O. 15 DE JUNIO DE 2023)</small>
 
 XVIII. Se cometa en la vía pública, o espacios abiertos que permitan el acceso al público.
 
-> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN VIII], P.O. 15 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2023)</small>
 
-Para los efectos de esta fracción se considera vía pública: calles, banquetas, brechas, pasajes, camellones, andadores peatonales, isletas u otras vías reservadas a los transeúntes.
+Para los efectos de esta fracción se considera vía pública: calles, banquetas, brechas, pasajes, camellones, andadores peatonales, isletas u otras vías reservadas a los transeúntes, y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2023)</small>
+
+XIX. El objeto del apoderamiento sea maquinaria, insumos o equipos para la engorda de ganado o la producción de leche; alimento para ganado; insumos o equipo agrícola; forestal o frutícola, cometido en la huerta, parcela, heredad, sembradío, invernadero o en cualquier otro lugar, dentro del inmueble en que se realice la actividad agrícola, forestal o frutícola.
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2023)</small>
 
@@ -5692,5 +5700,21 @@ P.O. 12 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0850.- SE REFORMAN LOS ARTÍCULOS 135 EN SU PÁRRAFO NOVENO, 171 EN SU PÁRRAFO SEGUNDO, 173 EN SUS FRACCIONES I Y III, 174, 175 Y 178 EN SUS PÁRRAFOS SEGUNDO Y ÚLTIMO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0860.- SE ADICIONA AL ARTÍCULO 217 EL PÁRRAFO SEGUNDO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0861.- SE REFORMA EL ARTÍCULO 218 EN SUS FRACCIONES XVII Y XVIII EN SU PÁRRAFO SEGUNDO; Y ADICIONA AL MISMO ARTÍCULO 218 LA FRACCIÓN XIX, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a los treinta días hábiles posteriores de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
