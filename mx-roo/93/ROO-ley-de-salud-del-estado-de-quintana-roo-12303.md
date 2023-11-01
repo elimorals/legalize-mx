@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-salud-del-estado-de-quintana-roo-12303"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2023-05-31"
+last_updated: "2023-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE SALUD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -649,9 +649,17 @@ VIII.- La disponibilidad de medicamentos y otros insumos esenciales para la salu
 
 IX.- La promoción del mejoramiento de la nutrición;
 
-X.- La asistencia social a los grupos más vulnerables, y
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2023)</small>
 
-XI.- La demás que establezca esta Ley o disposiciones legales a aplicables.
+X. La asistencia social a los grupos más vulnerables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2023)</small>
+
+XI. Garantizar la atención domiciliaria a los adultos mayores sin capacidad de trasladarse, personas con discapacidad, mujeres embarazadas sin control prenatal y enfermos con cuidados paliativos, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE NOVIEMBRE DE 2023)</small>
+
+XII. Las demás que establezca esta Ley o disposiciones legales a (sic) aplicables.
 
 ###### ARTICULO 30.
 
@@ -4046,3 +4054,11 @@ P.O. 31 DE MAYO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 107 POR EL QUE SE REFORMAN LAS FRACCIONES X Y XI DEL ARTÍCULO 29; Y SE ADICIONA LA FRACCIÓN XII Al ARTÍCULO 29 DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
