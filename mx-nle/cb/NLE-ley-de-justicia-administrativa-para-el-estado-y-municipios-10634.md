@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-administrativa-para-el-estado-y-municipios-1063
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2022-05-13"
+last_updated: "2023-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "NLE"
 ---
 # LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEON - ANTES LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE NUEVO LEON -
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: EL 17 DE MAYO DE 2023, SE PUBLICÓ EN LA “GACETA LEGISLATIVA DEL H. CONGRESO DEL ESTADO DE NUEVO LEÓN” EL DECRETO 350 DE LA LXXVI LEGISLATURA DEL CONGRESO DEL ESTADO DE DICHA ENTIDAD; EL CUAL, AÚN NO HA SIDO PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, POR LO QUE AÚN NO HA SIDO COMPILADO Y SISTEMATIZADO.]
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
 
@@ -1487,6 +1489,10 @@ En la sentencia se podrán examinar en su conjunto los agravios, causales de imp
 
 Cuando en la sentencia se decrete el sobreseimiento del juicio o se reconozca la validez del acto o resolución impugnado, y en autos esté plenamente acreditada la falsedad de alguno de los hechos narrados bajo protesta de decir verdad en la demanda, o se advierta que el juicio fue promovido con el propósito de retrasar la solución del asunto del que emana el acto o resolución impugnado, de entorpecer la ejecución de éste o de obstaculizar la legal actuación de la autoridad; el Magistrado impondrá a la parte actora o a su representante, en su caso, a su abogado o a ambos, una multa equivalente al monto previsto en el Artículo 31, fracción II de esta Ley, sin perjuicio de la responsabilidad de otra índole que pudiera resultarles al respecto.
 
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2023)</small>
+
+Cuando el Órgano Jurisdiccional conozca de un asunto en el cual las resoluciones y actuaciones judiciales en las que sean parte o versen sobre una persona con alguna diversidad funcional intelectual o en situación de vulnerabilidad, deberá emitir adjunto a las sentencias, resoluciones, autos y acuerdos emitidos dentro del proceso judicial, una versión de las mismas en formato de lectura fácil, bajo un lenguaje simple y directo, en el que se eviten tecnicismos o conceptos abstractos, mediante el uso de ejemplos, empleando un lenguaje cotidiano, personificando el texto, con una tipografía clara y un tamaño accesible.
+
 ###### Artículo 88.
 
 La sentencia definitiva podrá:
@@ -2886,3 +2892,11 @@ P.O. 13 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 129. SE REFORMA EL PÁRRAFO PRIMERO Y SE DEROGA EL PÁRRAFO CUARTO DEL ARTÍCULO 64 DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 384. SE TIENEN POR RECIBIDAS EN TIEMPO Y FORMA LAS OBSERVACIONES AL DECRETO NÚMERO 384. POR EL QUE SE REFORMA POR ADICIÓN DE UN SEXTO PÁRRAFO EL ARTÍCULO 87 DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO Y LOS MUNICIPIOS DE NUEVO LEÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación.
