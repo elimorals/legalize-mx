@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2023-06-21"
+last_updated: "2023-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2023.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -259,7 +259,9 @@ II. Concluida esta fase se revisarán las listas de las personas que hayan sido 
 
 La ley determinará los requisitos que deban cubrir los integrantes del Consejo Consultivo y demás elementos que contendrá la convocatoria correspondiente.
 
-Tratándose del Titular de la Comisión Estatal de los Derechos Humanos, deberá contar con experiencia y suficientes conocimientos en materia de derechos humanos.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2023)</small>
+
+Tratándose de la persona titular de la Comisión Estatal de los Derechos Humanos, deberá contar con experiencia y suficientes conocimientos en materia de derechos humanos, así como estar en pleno ejercicio de sus derechos.
 
 El titular de la presidencia de la Comisión Estatal de los Derechos Humanos presentará anualmente al Congreso del Estado de Tabasco un informe escrito de actividades. Al efecto comparecerá durante el mes de diciembre del año de que se trate en los términos que disponga la ley.
 
@@ -361,21 +363,23 @@ V.- Asociarse individual y libremente para tomar parte en forma pacífica en los
 
 VI.- Iniciar leyes, en los términos y con los requisitos que señalen esta Constitución y la Ley del Congreso. La autoridad electoral tendrá las facultades que en esta materia le otorgue la ley.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2023)</small>
 
-###### ARTICULO 8°.
+###### Artículo 8.
 
-Los derechos de los ciudadanos se suspenden:
+Los derechos de la ciudadanía se suspenden:
 
-I.- Por falta de cumplimiento, sin causa justificada, de las obligaciones señaladas en el artículo sexto de esta Constitución. Tal suspensión durará un año y se impondrá sin perjuicio de otras penas que por el mismo hecho señalen las leyes;
+I. Por falta de cumplimiento, sin causa justificada, de las obligaciones señaladas en el artículo sexto de esta Constitución. Tal suspensión durará un año y se impondrá sin perjuicio de otras penas que por el mismo hecho señalen las leyes;
 
-II.- (DEROGADA, P.O. 7 DE JULIO DE 2012)
+II. Por sentencia ejecutoriada que imponga como pena esa suspensión;
 
-III.- (DEROGADA, P.O. 7 DE JULIO DE 2012)
+III. Por tener sentencia firme por la comisión dolosa de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; o por ser declarada como persona deudora alimentaria morosa.
 
-IV.- Por sentencia ejecutoriada que lo inhabilite para el ejercicio de esos derechos; y
+En los supuestos de esta fracción, la persona no podrá ser registrada como candidata para cualquier cargo de elección popular, ni ser nombrada para empleo, cargo o comisión en el servicio público.
 
-V.- En los demás casos que las leyes señalen.
+Las leyes fijarán los supuestos en que se pierdan, suspendan y rehabiliten los derechos ciudadanos; y
+
+IV. En los demás casos que las leyes señalen.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
@@ -751,13 +755,17 @@ El Gobernador del Estado no podrá ser electo, durante el periodo de su encargo,
 
 No ser titular de alguno de los organismos autónomos, ni titular de alguno de los organismos descentralizados o desconcentrados de la Administración Pública Estatal, a menos que se separe definitivamente de sus funciones noventa días naturales antes de la fecha de la elección.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2023)</small>
 
-No ser Magistrado, ni Secretario del Tribunal Electoral, Juez Instructor, ni Consejero Presidente o Consejero Electoral en los Consejos Estatal, Distritales o Municipales del Instituto Electoral y de Participación Ciudadana, ni Secretario Ejecutivo, Contralor General, Director o personal profesional directivo del propio Instituto, salvo que se hubieren separado de su encargo, de manera definitiva, dos años antes de la fecha de la elección; y
+No ser Magistrado, ni Secretario del Tribunal Electoral, Juez Instructor, ni Consejero Presidente o Consejero Electoral en los Consejos Estatal, Distritales o Municipales del Instituto Electoral y de Participación Ciudadana, ni Secretario Ejecutivo, Contralor General, Director o personal profesional directivo del propio Instituto, salvo que se hubieren separado de su encargo, de manera definitiva, dos años antes de la fecha de la elección;
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2023)</small>
 
-V.- No ser ministro de culto religioso alguno.
+V.- No ser ministro o ministra de culto religioso alguno; y
+
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2023)</small>
+
+VI.- Estar en pleno ejercicio de sus derechos.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 26 DE AGOSTO DE 2021)</small>
 
@@ -1425,11 +1433,17 @@ IV.- No ser titular de alguna dependencia de la Administración Pública del Est
 
 No ser titular de alguno de los organismos descentralizados u órganos desconcentrados de la Administración Pública Estatal, a menos que se separe definitivamente de sus funciones ciento veinte días naturales antes de la fecha de la elección;
 
-No ser Magistrado, ni Secretario del Tribunal Electoral, Juez Instructor, ni Consejero Presidente o Consejero Electoral en los Consejos Estatal, Distritales o Municipales del Instituto Electoral y de Participación Ciudadana, ni Secretario Ejecutivo, Contralor General, Director o personal profesional directivo del propio Instituto, salvo que se hubieren separado de su encargo, de manera definitiva, dos años antes del día de la elección; y
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+No ser Magistrado, ni Secretario del Tribunal Electoral, Juez Instructor, ni Consejero Presidente o Consejero Electoral en los Consejos Estatal, Distritales o Municipales del Instituto Electoral y de Participación Ciudadana, ni Secretario Ejecutivo, Contralor General, Director o personal profesional directivo del propio Instituto, salvo que se hubieren separado de su encargo, de manera definitiva, dos años antes del día de la elección;
 
-V.- No estar comprendido dentro de alguna de las incapacidades del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2023)</small>
+
+V.- No estar comprendido dentro de alguna de las incapacidades del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos; y
+
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2023)</small>
+
+VI.- Estar en pleno ejercicio de sus derechos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1819,13 +1833,17 @@ III.- Poseer el día de la designación, con antigüedad mínima de diez años, 
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2023)</small>
 
-V.- Haber residido en el país durante los dos años anteriores al día de la designación; y
+V.- Haber residido en el país durante los dos años anteriores al día de la designación;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2023)</small>
 
-VI.- No haber sido en la entidad, Secretario o equivalente de la Administración Pública, Fiscal General del Estado de Tabasco, Senador, Diputado federal o Diputado local, durante el año previo al día de su elección.
+VI.- No haber sido en la entidad, Secretario o equivalente de la Administración Pública, Fiscal General del Estado de Tabasco, Senador, Diputado federal o Diputado local, durante el año previo al día de su elección; y
+
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2023)</small>
+
+VII.- Estar en pleno ejercicio de sus derechos.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
 
@@ -2119,17 +2137,25 @@ d) No tener antecedentes penales;
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
 
-e). Tener dieciocho años cumplidos;
+e) Tener dieciocho años cumplidos;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
 
-f).- No ser titular en alguna de las dependencias de la Administración Pública Estatal, Fiscal General del Estado de Tabasco; o titular de Organismos Autónomos, Magistrado del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, ni del Tribunal de Conciliación y Arbitraje; Presidente Municipal, Sindico o Regidor; Secretario de Ayuntamiento o titular de alguna de las dependencias, entidades o direcciones de la propia administración municipal; ni servidor público federal con rango de Director General o superior, a menos que permanezca separado definitivamente de sus funciones desde noventa días naturales antes de la fecha de la elección;
+f) No ser titular en alguna de las dependencias de la Administración Pública Estatal, Fiscal General del Estado de Tabasco; o titular de Organismos Autónomos, Magistrado del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, ni del Tribunal de Conciliación y Arbitraje; Presidente Municipal, Sindico o Regidor; Secretario de Ayuntamiento o titular de alguna de las dependencias, entidades o direcciones de la propia administración municipal; ni servidor público federal con rango de Director General o superior, a menos que permanezca separado definitivamente de sus funciones desde noventa días naturales antes de la fecha de la elección;
 
 No ser titular de alguna de las entidades u organismos descentralizados o desconcentrados de la Administración Pública Estatal, a menos que se separe definitivamente de sus funciones noventa días naturales antes de la fecha de la elección;
 
-No ser Magistrado, Juez Instructor, ni Secretario del Tribunal Electoral, ni Consejero Presidente o Consejero Electoral en los Consejos Estatal, Distritales o Municipales del Instituto Electoral y de Participación Ciudadana, ni Secretario Ejecutivo, Contralor General, Director o personal profesional directivo del propio Instituto, salvo que se hubieren separado de su encargo, de manera definitiva, dos años antes del día de la elección; y
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2023)</small>
 
-g) Los demás requisitos que exijan las Leyes correspondientes.
+No ser Magistrado, Juez Instructor, ni Secretario del Tribunal Electoral, ni Consejero Presidente o Consejero Electoral en los Consejos Estatal, Distritales o Municipales del Instituto Electoral y de Participación Ciudadana, ni Secretario Ejecutivo, Contralor General, Director o personal profesional directivo del propio Instituto, salvo que se hubieren separado de su encargo, de manera definitiva, dos años antes del día de la elección;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE NOVIEMBRE DE 2023)</small>
+
+g) Estar en pleno ejercicio de sus derechos; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 1 DE NOVIEMBRE DE 2023)</small>
+
+h) Los demás requisitos que exijan las Leyes correspondientes.
 
 XII.- Las relaciones de trabajo entre el Estado, los Municipios y sus Trabajadores, se regirán por las Leyes vigentes basadas en lo dispuesto en el artículo 123 de la Constitución Federal y sus disposiciones reglamentarias.
 
@@ -2301,9 +2327,9 @@ Todo servidor público del Estado o de los municipios y los entes públicos en a
 
 Todos los servidores públicos, conforme a sus respectivas facultades y obligaciones, serán responsables por violaciones que cometan en contra de la Constitución Política de los Estados Unidos Mexicanos, de esta Constitución, de las leyes federales y locales que de ellas emanen, así como por el manejo indebido de fondos y recursos públicos y la deuda pública del Estado y de los Municipios.
 
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2023)</small>
 
-Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses ante las autoridades competentes y en los términos que determine la ley. Asimismo deberán presentar su declaración fiscal anual, conforme lo disponga la legislación de la materia.
+Todas las personas dedicadas al servicio público a que se refiere el presente artículo estarán obligados (sic) a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses ante las autoridades competentes y en los términos que determine la ley. Asimismo, deberán presentar su declaración fiscal anual, conforme lo disponga la legislación de la materia, y estar en pleno ejercicio de sus derechos.
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
 
@@ -3788,3 +3814,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
 TERCERO. Para efecto de dar cumplimiento a lo ordenado en el presente Decreto, el Ejecutivo Estatal, en concurrencia con los Ayuntamientos de la entidad y demás autoridades que con motivo de sus atribuciones tengan competencia en la materia, deberán llevar a cabo oportunamente los trabajos y acciones necesarias, a fin de determinar con la mayor exactitud posible, los asentamientos de personas afromexicanas, el número de sus integrantes y su ubicación por comunidad y municipio para proponer al Congreso del Estado el reconocimiento expreso de los mismos y la adecuación de las leyes secundarias locales en las que incidan.
+
+P.O. 1 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 174 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 4, PÁRRAFO DÉCIMO TERCERO; 8; 15, FRACCIONES IV PÁRRAFO CUARTO Y V; 44, FRACCIONES IV PÁRRAFO TERCERO Y V; 57, FRACCIONES V Y VI; 64, FRACCIÓN XI, INCISOS F) PÁRRAFO TERCERO Y G); Y 66, PÁRRAFO CUARTO; SE ADICIONAN LA FRACCIÓN VI AL ARTÍCULO 15; LA FRACCIÓN VI AL ARTÍCULO 44; LA FRACCIÓN VII AL ARTÍCULO 57; Y EL INCISO H) A LA FRACCIÓN XI DEL ARTÍCULO 64; TODOS DÉ LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
