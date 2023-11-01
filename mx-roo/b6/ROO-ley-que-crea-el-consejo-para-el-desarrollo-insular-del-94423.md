@@ -4,7 +4,7 @@ identifier: "ROO-ley-que-crea-el-consejo-para-el-desarrollo-insular-del-94423"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-22"
-last_updated: "2015-05-15"
+last_updated: "2023-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY QUE CREA EL CONSEJO PARA EL DESARROLLO INSULAR DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 22 de mayo de 2013.
 
@@ -59,43 +59,45 @@ I.- Islas: Extensión natural de tierra rodeada de agua, que se encuentra sobre 
 
 II.- Consejo: Consejo para el Desarrollo Insular del Estado Libre y Soberano de Quintana Roo.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 4.
 
 El Consejo estará integrado por:
 
-I.- Un Presidente, que será el Gobernador del Estado;
+I.- Una presidencia, que será la persona Titular del Poder Ejecutivo del Estado;
 
-II.- Los Presidentes Municipales de Lázaro Cárdenas, Isla Mujeres y Cozumel;
+II.- Las personas Titulares de los Ayuntamientos de los Municipios de Lázaro Cárdenas, Isla Mujeres y Cozumel;
 
-> <small>(REFORMADA, P. O. 15 DE MAYO DE 2015)</small>
+III.- La persona Titular de la Secretaría Técnica, que será la persona Titular de la Secretaría de Finanzas y Planeación;
 
-III.- Un Secretario Técnico, que será el Secretario de Finanzas y Planeación;
+IV.- Siete vocales, que serán:
 
-> <small>(REFORMADA, P. O. 15 DE MAYO DE 2015)</small>
+a. La persona Titular de la Secretaría de Turismo;
 
-IV.- Cinco vocales, que serán:
+b. La persona Titular de la Secretaría de Bienestar;
 
-a) El Secretario de Turismo;
+c. La persona Titular de la Dirección General de la Administración Portuaria Integral de Quintana Roo;
 
-b) El Secretario de Desarrollo Social e Indígena;
+d. La persona Titular de la Secretaría de Ecología y Medio Ambiente;
 
-e) El Director General de la Administración Portuaria Integral;
+e. La persona legisladora que presida la Comisión de Planeación y Desarrollo Económico del Poder Legislativo;
 
-d) El Secretario de Ecología y Medio Ambiente;
+f. La persona legisladora que presida la Comisión de Medio Ambiente y Cambio Climático del Poder Legislativo, y
 
-e) El Presidente de la Comisión de Planeación y Desarrollo Económico del Poder Legislativo, y
+g. La persona legisladora que presida la Comisión de Desarrollo Urbano Sustentable y Asuntos Metropolitanos del Poder Legislativo.
 
-> <small>(REFORMADA, P. O. 15 DE MAYO DE 2015)</small>
+V. Una Persona representante de la sociedad civil y una persona representante de la iniciativa privada por cada municipio, a invitación de las personas titulares de los Ayuntamientos de los municipios de Lázaro Cárdenas, Isla Mujeres y Cozumel que duraran en el cargo 2 años.
 
-V.- Un representante de la sociedad civil y un representante de la iniciativa privada por cada municipio, a invitación de los presidentes municipales de Lázaro Cárdenas, Isla Mujeres y Cozumel que durarán en el cargo 2 años.
-
-Por cada vocal se podrá nombrar a un representante de nivel jerárquico inferior, a fin de que éstos los suplan cuando así se requiera. En ausencia del Presidente del Consejo, el Secretario Técnico asumirá sus funciones. Los cargos serán honoríficos y no remunerados.
+Por cada persona vocal se podrá nombrar a una persona representante de nivel jerárquico inferior, a fin de que éste le supla cuando así se requiera. En ausencia de la persona Titular del Consejo, la persona titular de la Secretaría Técnica asumirá sus funciones. Los cargos serán honoríficos y no remunerados.
 
 ###### Artículo 5.
 
 Corresponderá al Consejo las siguientes atribuciones:
 
-I.- Impulsar los estudios que sustenten las bases que permitan definir las políticas, en apoyo al desarrollo integral de las regiones insulares y al mejoramiento de las condiciones de vida de sus habitantes;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2023)</small>
+
+I.- Impulsar el principio de precaución en los estudios que sustenten las bases que permitan definir las políticas, en apoyo al desarrollo integral de las regiones insulares y al mejoramiento de las condiciones de vida de sus habitantes;
 
 > <small>(REFORMADA, P. O. 15 DE MAYO DE 2015)</small>
 
@@ -111,11 +113,15 @@ V.- Promover y fortalecer las formas de organización propias de las comunidades
 
 VI.- Impulsar la organización participativa al interior de las regiones insulares;
 
-VII.- Establecer con el gobierno Estatal y los gobiernos Municipales la adecuada coordinación de políticas y acciones que son objeto de esta ley;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2023)</small>
+
+VII.- Establecer con el gobierno Estatal y los gobiernos Municipales la inclusión en el plan estatal de desarrollo y en los planes municipales de desarrollo acciones focalizadas al desarrollo insular;
 
 VIII.- Celebrar convenios de colaboración con instituciones y organismos nacionales y multinacionales para el desarrollo y fortalecimiento de sus atribuciones;
 
-IX.- Fomentar el acceso a fuentes alternas de financiamiento para la implementación de planes, programas y proyectos de impacto en las regiones insulares;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2023)</small>
+
+IX.- Gestionar ante la Secretaría de Finanzas y Planeación el presupuesto para la implementación de planes, programas y proyectos de impacto y atención en las regiones insulares;
 
 X.- Aprobar su Reglamento Interior; y
 
@@ -171,9 +177,11 @@ El Consejo funcionará válidamente con la asistencia de cuando menos, la mitad 
 
 El Consejo sesionará, en forma ordinaria por lo menos, cuatro veces al año; y en forma extraordinaria, cuando se necesario para tratar asuntos que por su importancia o urgencia lo ameriten.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 10.
 
-Los diagnósticos en relación a la problemática social, económica y cultural de las comunidades insulares, así como los proyectos de políticas públicas y proyectos de programas que elabore el Consejo, serán remitidos por el Presidente a la Secretaría de Planeación y Desarrollo Regional, a efecto de ser analizados, y en su caso, considerados en la formulación e integración del Plan Estatal de Desarrollo y los programas regionales, sectoriales, institucionales y especiales en el Estado.
+Los diagnósticos en relación a la problemática ambiental, social, económica y cultural de las comunidades insulares, así como los proyectos de políticas públicas y proyectos de programas que elabore el Consejo, serán remitidos por la Presidencia a la Secretaría de Finanzas y Planeación, a efecto de ser analizados, y en su caso, considerados en la formulación e integración del Plan Estatal de Desarrollo y los programas regionales, sectoriales, institucionales y especiales en el Estado.
 
 ARTÍCULOS TRANSITORIOS:
 
@@ -212,3 +220,11 @@ ING. ANDRES FLORENTINO RUIZ MORCILLO
 P. O. 15 DE MAYO DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 1 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 108 POR EL QUE SE REFORMAN: EL ARTÍCULO 4; LAS FRACCIONES I, VII Y IX DEL ARTÍCULO 5 Y EL ARTÍCULO 10, DE LA LEY QUE CREA EL CONSEJO PARA EL DESARROLLO INSULAR DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
