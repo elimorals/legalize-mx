@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2023-05-29"
+last_updated: "2023-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -466,6 +466,10 @@ Los datos personales, imágenes y las videograbaciones únicamente se conservar�
 Además de lo establecido en el artículo anterior, el municipio procurará otorgar las medidas de vigilancia y seguridad necesarias de los grupos de personas que recorren en vehículos o camiones a los estadios o lugares en donde se celebren competencias deportivas, así como establecer estrategias para que estos recorridos no entorpezcan la vialidad.
 
 La Seguridad Pública tendrá la obligación de brindar las facilidades necesarias para la realización de desfiles, caravanas, manifestaciones, peregrinaciones o cualquier otro tipo de concentración humana de carácter político, religioso, deportivo, recreativo o social con finalidad lícita que puedan originar conflictos viales o alterar el orden público. Los organizadores de los eventos señalados para efecto de que se les pueda brindar dichas facilidades darán aviso por escrito a la autoridad Municipal con al menos 3 días hábiles antes del inicio de su celebración, de lo cual se llevará registro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE NOVIEMBRE DE 2023)</small>
+
+Los elementos de las corporaciones de Seguridad Pública deberán en todo momento observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario y de limitar ilegalmente las acciones o manifestaciones en vías o espacios públicos, que, en ejercicio de sus derechos constitucionales, con carácter pacífico y respetando el derecho al libre tránsito de los demás, realice la población.
 
 > <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
 
@@ -2315,67 +2319,129 @@ XIV. Los demás que les confieran las Leyes y reglamentos de la materia.
 
 #### SECCIÓN QUINTA. DE LAS CONDUCTAS PROHIBIDAS
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 158.
 
-Son conductas prohibidas y sujetas a la imposición de las sanciones las siguientes:
+Son conductas prohibidas y sujetas a la imposición de (sic) sanciones las siguientes:
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 I. Presentarse después del horario señalado para el inicio del servicio o comisión sin causa justificada;
 
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
 II. Tomar parte activa en calidad de participante en manifestaciones, mítines u otras reuniones de carácter público de igual naturaleza, así como realizar o participar de cualquier forma, por causa propia o por solidaridad con causa ajena, en cualquier movimiento o huelga, paro o actividad similar que implique o pretenda la suspensión o disminución del servicio;
+
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2023)</small>
+
+II. Bis.- Realizar conductas arbitrarias o limitar ilegalmente las acciones o manifestaciones en vías o espacios públicos, que en ejercicio de sus derechos constitucionales con carácter pacífico y respetando el derecho al libre tránsito de los demás, realice la población.
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 III. Rendir informes falsos a sus superiores respecto de los servicios o comisiones que le fueren encomendados;
 
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
 IV. Actuar fuera del ámbito de su competencia y jurisdicción, salvo órdenes expresas de la autoridad competente;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 V. Valerse de su investidura para cometer cualquier acto ilícito;
 
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
 VI. Cometer cualquier acto de indisciplina en el servicio o fuera de él;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 VII. Desobedecer las órdenes emanadas de las autoridades judiciales;
 
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
 VIII. Expedir órdenes cuya ejecución constituya un delito. Tanto el subalterno que las cumpla como el superior que las expida serán responsables conforme a la Ley;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 IX. Permitir la participación de personas que se ostenten como policías sin serlo, en actividades que deban ser desempeñadas por miembros de las instituciones policiales;
 
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
 X. Ser omiso en el desempeño del servicio en el cuidado y protección de los menores de edad, adultos mayores, enfermos, débiles o incapaces y que en razón de ello se coloquen en una situación de riesgo, amenaza o peligro;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 XI. Poner en libertad a los probables responsables de algún delito o infracción administrativa, sin haberlos puesto a disposición del Ministerio Público o de la autoridad competente, según el caso;
 
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
 XII. Solicitar o recibir regalos o dádivas de cualquier especie, así como aceptar ofrecimiento o promesa, por acciones u omisiones del servicio y, en general, realizar cualquier acto de corrupción;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 XIII. Presentarse o desempeñar su servicio o comisión bajo los efectos de alguna droga o enervante, en estado de ebriedad completa o incompleta, con aliento alcohólico, ingiriendo bebidas alcohólicas; así como presentarse uniformado en casas de prostitución o centros de vicio y otros análogos a los anteriores, sin justificación en razón del servicio;
 
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
 XIV. Realizar colecta de fondos o rifas durante el servicio;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 XV. Vender, empeñar, facilitar a un tercero el armamento que se le proporcione para la prestación del servicio;
 
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
 XVI. Ejercer sus atribuciones sin portar el uniforme y las insignias correspondientes, salvo que ello obedezca a un mandato expreso de la autoridad competente y que por la naturaleza de la orden recibida así lo requiera;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 XVII. Participar en actos públicos en los cuales se denigre a la Institución, a los Poderes del Estado o a las Instituciones jurídicas que rigen en el País;
 
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
 XVIII. Faltar a su servicio sin permiso o causa que lo justifique;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 XIX. Cometer faltas graves a los principios de actuación previstos en la presente Ley y a las normas de disciplina que se establezcan en la institución policial a la que pertenezca, evidenciando con ello una notoria deslealtad al servicio;
 
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
 XX. Actuar deshonestamente en el desempeño de sus funciones o cometer cualquier acto que atente contra la moral y el orden público;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 XXI. Portar cualquiera de los objetos que lo acrediten como elemento policial: el arma de cargo, equipo, uniforme, insignias u (sic) identificaciones sin la autorización correspondiente fuera del servicio, horario, misión o comisión a la que se le haya designado;
 
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
 XXII. Abandonar sin causa justificada el servicio o comisión que se le haya asignado, sin dar aviso de ello a sus superiores o abstenerse de recibirlo sin razón alguna;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 XXIII. Ser negligente, imprudente o descuidado en el desempeño de sus funciones, colocando en riesgo, peligro o amenaza a las personas, compañeros, sus bienes y derechos;
 
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
 XXIV. Disponer para uso propio o ajeno el armamento, equipo, uniforme, insignias, identificaciones y demás objetos que lo acrediten como elemento policial, en perjuicio de terceras personas;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 XXV. Incitar en cualquier forma a la comisión de delitos o infracciones administrativas;
 
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
 XXVI. Incurrir en desacato injustificado a las órdenes emitidas por sus superiores;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 XXVII. Proceder negligentemente en el apoyo a las víctimas del delito, no cerciorándose que reciban la atención adecuada y oportuna por parte de las instituciones correspondientes, si con ello se le causa un grave daño o perjuicio a su integridad física;
 
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
 XXVIII. Alterar de manera negligente o intencional las evidencias, objetos, instrumentos, bienes, vestigios o efectos del delito cometido, sin perjuicio de su consignación ante la autoridad correspondiente;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 XXIX. Mostrar un comportamiento discriminatorio en perjuicio de personas en razón de su sexo, preferencia sexual, raza, condición física, edad, nacionalidad, condición social, económica, religiosa o étnica;
 
@@ -3982,3 +4048,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Estado y los Municipios a partir de la entrada en vigor del presente Decreto, tendrán un plazo no mayor a 90 días para realizar las modificaciones necesarias a sus Reglamentos conforme a la presente reforma.
+
+P.O. 1 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 383. SE TIENE POR RECIBIDAS EN TIEMPO Y FORMA LAS OBSERVACIONES REALIZADAS AL DECRETO NO. 383 DE FECHA 3 DE MAYO DEL 2023, QUE CONTIENE INICIATIVA DE REFORMA AL ARTÍCULO 32 BIS 1, Y SE ADICIONA UNA FRACCIÓN II BIS AL ARTÍCULO 158 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
