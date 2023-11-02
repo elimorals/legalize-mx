@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-tribunal-de-justicia-administrativa-del-124638
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-11-09"
-last_updated: "2022-09-08"
+last_updated: "2023-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 9 de noviembre de 2017.
 
@@ -159,9 +159,11 @@ El Tribunal está representado por el Presidente que tendrá las atribuciones pr
 
 Será Presidente y titular de la Sala Superior el Magistrado designado en primer lugar, durará en el cargo el periodo por el que fue designado Magistrado.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 15.
 
-El Presidente del Tribunal rendirá por escrito, ante el Congreso del Estado, en el mes de febrero de cada año, un informe dando cuenta de la marcha del Tribunal, de los principales criterios formulados en sus decisiones, y de las sanciones impuestas a servidores públicos y particulares, así como del fincamiento de indemnizaciones y sanciones pecuniarias derivadas de daños y perjuicios a la Hacienda Pública o al patrimonio de los entes públicos.
+El Presidente del Tribunal rendirá por escrito, ante el Congreso del Estado, un informe, de conformidad con lo establecido en la Ley Orgánica del Congreso del Estado de Durango, dando cuenta de la marcha del Tribunal, de los principales criterios formulados en sus decisiones, y de las sanciones impuestas a servidores públicos y particulares, así como del fincamiento de indemnizaciones y sanciones pecuniarias derivadas de daños y perjuicios a la Hacienda Pública o al patrimonio de los entes públicos.
 
 ###### ARTÍCULO 16.
 
@@ -1042,3 +1044,11 @@ P.O. 8 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 161.- POR EL QUE SE REFORMA EL ARTÍCULO 57 DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE DURANGO".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+P.O. 2 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 432 QUE CONTIENE REFORMAS AL ARTÍCULO 15 DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
