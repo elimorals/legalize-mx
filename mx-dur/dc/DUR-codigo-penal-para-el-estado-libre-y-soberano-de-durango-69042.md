@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2023-06-18"
+last_updated: "2023-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -307,7 +307,7 @@ VII. Bigamia;
 
 VIII. Cometidos en el ejercicio de la profesión, responsabilidad profesional y técnica;
 
-IX. Contra la seguridad de la subsistencia familiar;
+IX. (DEROGADA, P.O. 2 DE NOVIEMBRE DE 2023)
 
 X. Chantaje;
 
@@ -1911,9 +1911,9 @@ Si la víctima es menor de edad, adulta mayor, embarazada o con discapacidad, as
 
 En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2023)</small>
 
-Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluídos los de carácter sucesorio.
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima y los hijos en común que hubiere entre esta y aquél, incluidos los de carácter sucesorio, garantizando el interés superior de la niñez en términos de lo previsto por la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
 ### CAPÍTULO IV. ABORTO
 
@@ -2253,6 +2253,10 @@ Si entre el activo y el pasivo de la violación existiera un vínculo matrimonia
 
 Se sancionará con las mismas penas a quien introduzca por vía vaginal o anal cualquier elemento, instrumento o cualquier parte del cuerpo humano, distinto al pene, por medio de la violencia o sin el consentimiento de la víctima.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE NOVIEMBRE DE 2023)</small>
+
+Si existe suministro previo de estupefacientes o psicotrópicos que inhiban la voluntad de la víctima, las penas previstas en este artículo se aumentarán en una mitad.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 177.
@@ -2263,7 +2267,9 @@ I. Realice cópula con persona menor de catorce años de edad o con persona que 
 
 II. Introduzca por vía anal o vaginal cualquier elemento, instrumento o cualquier parte del cuerpo humano distinto del pene en una persona menor de catorce años de edad o persona que no tenga capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo.
 
-Si se ejerciera violencia, las penas previstas se aumentarán en una mitad.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2023)</small>
+
+Si se ejerciera violencia, o si existiera suministro previo de estupefacientes o psicotrópicos que inhiban la voluntad de la víctima, las penas previstas se aumentarán en una mitad.
 
 > <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2017)</small>
 
@@ -4209,11 +4215,15 @@ Las mismas penas se impondrán a aquel que teniendo la obligación de dar alimen
 
 Para que el perdón concedido por el ofendido o su representante puede (sic) producir efectos, el responsable deberá pagar todas las cantidades que hubiese dejado de ministrar por concepto de alimentos en los términos que señale el Código Civil vigente en el Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE NOVIEMBRE DE 2023)</small>
+
+Respecto de los cónyuges se perseguirá a petición de la parte agraviada. El delito de incumplimiento de obligaciones alimentarias respecto de las niñas, niños, adolescentes y personas adultas mayores se perseguirá de oficio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 298.
 
-Al que se coloque en estado de insolvencia con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá pena de uno a tres años de prisión y multa de setenta y dos a doscientas dieciséis veces la Unidad de Medida y Actualización.
+Al que se coloque en estado de insolvencia con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá pena de dos a cuatro años de prisión y multa de ciento cuarenta y cuatro a doscientas ochenta y ocho veces la Unidad de Medida y Actualización.
 
 La autoridad judicial resolverá la aplicación del producto del trabajo que realice el sujeto activo a la satisfacción de las obligaciones alimentarias omitidas o incumplidas.
 
@@ -6994,5 +7004,29 @@ P.O. 18 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 390.- POR EL CUAL SE ADICIONA EL ARTICULO 340 TER AL CODIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO.”]
 
 PRIMERO.- El presente decreto entrará en vigor en día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 428 QUE CONTIENE REFORMAS A LOS ARTÍCULOS 176 Y 177 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en el presente decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 429 QUE CONTIENE REFORMAS AL ARTÍCULO 147 BIS DEL CÓDIGO PENAL DEL ESTADO LIBRE (SIC) SOBERANO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 431 QUE CONTIENE REFORMAS A LOS ARTÍCULOS 20 BIS, 297 Y 298 TODOS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
