@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2023-05-07"
+last_updated: "2023-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -1255,11 +1255,11 @@ La Secretaría buscará lograr la equidad en el ámbito geográfico, atendiendo 
 
 La Secretaría actuará para mejorar la equidad entre instituciones educativas, superando las condiciones de las escuelas rurales y elevando la calidad de las escuelas públicas. Asimismo, el Gobierno del Estado, promoverá el aseguramiento de la equidad en el trato presupuestal que Durango recibe de la Federación frente a otras entidades federativas, considerando las necesidades educativas de la población y especialmente, de nuestra población en desventaja, incluyendo a las personas con discapacidad.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTICULO 77.
 
-La Secretaría instrumentará Programas Educativos de Apoyo, dirigidos de manera preferente, a los grupos sociales y regiones con mayor rezago educativo, que enfrenten condiciones económicas, culturales y sociales de desventaja o a personas con problemas de discapacidad mental o física. En la aplicación de estos Programas, tendrán prioridad los educandos de 6 a 15 años de edad. Igualmente desarrollará de manera permanente, programas especializados, a fin de prevenir y atender casos de cualquier tipo de maltrato entre los estudiantes, evitando el acoso y la discriminación escolar.
+La Secretaría instrumentará Programas Educativos de Apoyo, dirigidos de manera preferente, a los grupos sociales y regiones con mayor rezago educativo, que enfrenten condiciones económicas, culturales y sociales de desventaja o a personas con problemas de discapacidad mental o física. En la aplicación de estos Programas, tendrán prioridad los educandos de 6 a 15 años de edad. Igualmente desarrollará de manera permanente, programas especializados, a fin de detectar, prevenir y atender cualquier expresión de violencia, evitando el acoso y la discriminación escolar.
 
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2019)</small>
 
@@ -1339,11 +1339,11 @@ La Secretaría gestionará ante y convendrá con las instancias federales o muni
 
 Para garantizar la continuidad del servicio educativo, la Secretaría realizará los cambios de adscripción de maestros conforme a la Ley General del Servicio Profesional Docente y demás disposiciones aplicables, y hará la sustitución oportuna del recurso humano respectivo.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTICULO 85.
 
-El Gobierno del Estado reglamentará la prestación del servicio social de estudiantes, de tal manera que éste se oriente fundamentalmente a apoyar la educación, la salud y el bienestar social de regiones y grupos sociales en desventaja.
+El Gobierno del Estado reglamentará la prestación del servicio social de estudiantes, de tal manera que éste se oriente fundamentalmente a apoyar la educación, la salud, la integridad y el bienestar social de regiones y grupos sociales en desventaja y de la población en general.
 
 > <small>(ADICIONADO, P.O. 29 DE MARZO DE 2020)</small>
 
@@ -1887,7 +1887,13 @@ XI. Establecer los lineamientos para la expedición de títulos profesionales;
 
 XII. Suministrar información para actualizar el sistema de información de la educación superior, de consulta pública, de apoyo a los procesos de planeación y evaluación a que se refiere el artículo 61 de la Ley General de Educación Superior, y
 
-XIII. Las demás que con tal carácter establezcan esta Ley, la Ley General de Educación Superior y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2023)</small>
+
+XIII. Formular y desarrollar estrategias para la detección, prevención, atención y seguimiento de cualquier expresión de violencia o maltrato escolar en contra de los educandos, y
+
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2023)</small>
+
+XIV. Las demás que con tal carácter establezcan esta Ley, la Ley General de Educación Superior, y otras disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
@@ -2389,9 +2395,9 @@ Son derechos de quienes ejercen la patria potestad o la tutela:
 
 I.- Obtener inscripción en escuelas públicas para que sus hijas, hijos o pupilos menores de edad, que satisfagan los requisitos aplicables, reciban la educación preescolar, la primaria, la secundaria y la media superior;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2023)</small>
 
-II.- Participar con las autoridades de la escuela en la que estén inscritos sus hijos o pupilos menores de edad, en cualquier problema relacionado con la educación de éstos, a fin de que, en conjunto, se aboquen a su solución;
+II.- Participar con las autoridades de la escuela en la que estén inscritos sus hijos o pupilos menores de edad, en cualquier problema relacionado con la educación de éstos, así como, en la formación y desarrollo de estrategias para la detección, prevención, atención y seguimiento de cualquier expresión de violencia o maltrato escolar, a fin de que, en conjunto, se aboquen a su solución;
 
 III.- Denunciar ante las autoridades educativas competentes el incumplimiento del Artículo 89 de esta Ley en perjuicio de sus hijos o pupilos;
 
@@ -3232,3 +3238,19 @@ P.O. 7 DE MAYO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan el presente decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 433 QUE CONTIENE REFORMAS AL ARTÍCULO 28 DE LA LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente proyecto de decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 434 QUE CONTIENE REFORMA AL PRIMER PÁRRAFO DEL ARTÍCULO 77; SE ADICIONA LA FRACCIÓN XIII Y ESTA PASA A OCUPAR EL NUMERAL CONSECUTIVO CON LA FRACCIÓN XIV AL ARTÍCULO 135 QUATER; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 170, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente proyecto de decreto.
