@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-el-ejercicio-de-las-profesiones-en-el-estado-de-34396"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-24"
-last_updated: "2021-05-20"
+last_updated: "2023-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,2303 +21,847 @@ state: "DUR"
 ---
 # LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE DURANGO
 
-LEY DE MOVILIDAD, TRANSPORTE Y SEGURIDAD VIAL DEL ESTADO DE MORELOS
+LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2023.
 
-Ley publicada en el número 6493 extraordinario del Periódico Oficial del Estado de Morelos, el martes 25 de noviembre de 2025.
+Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de Agosto de 2003.
 
-Al margen superior izquierdo un escudo del estado de Morelos que dice: “TIERRA Y LIBERTAD”. LA TIERRA VOLVERÁ A QUIENES LA TRABAJAN CON SUS MANOS.- y un logotipo que dice: MORELOS.- LA TIERRA QUE NOS UNE.- GOBIERNO DEL ESTADO 2024-2030.
+EL CIUDADANO LICENCIADO ANGEL SERGIO GUERRERO MIER, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A SUS HABITANTES, SABED:
 
-MARGARITA GONZÁLEZ SARAVIA CALDERÓN, GOBERNADORA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
+QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
-La Quincuagésima Sexta Legislatura del Congreso del Estado Libre y Soberano de Morelos, en ejercicio de la facultad que le otorga la fracción II del artículo 40 de la Constitución Política del Estado Libre y Soberano de Morelos, aprobó al tenor de lo siguiente:
+Con fecha 22 de marzo del año 2000 y 13 de mayo del presente año, fueron presentadas Iniciativas de Decreto, una por los integrantes de la Fracción Parlamentaria del Partido Acción Nacional; y otra enviada por el Titular del Poder Ejecutivo, que contienen: "LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE DURANGO"; las cuales fueron turnadas a la Comisión de Educación integrada por los CC. Diputados: Gabino Rutiaga Fierro, Víctor Joel Martínez Martínez, Adrián Valles Martínez, Sergio Carrillo Arciniega, y Jorge Herrera Delgado, Presidente, Secretario y Vocales respectivamente, mismos que emitieron su dictamen favorable con base en los siguientes:
 
-Los integrantes de la Comisión de Puntos Constitucionales y Legislación, presentaron a consideración del Pleno el dictamen con proyecto por el que se expide LA LEY DE MOVILIDAD, TRANSPORTE Y SEGURIDAD VIAL DEL ESTADO DE MORELOS, en los siguientes términos:
+CONSIDERANDOS:
 
-[...]
+PRIMERO.- El artículo 5 de la Constitución Política de los Estados Unidos Mexicanos, establece que la Ley determinará en cada Estado cuáles son las profesiones que necesitan título para su ejercicio, las condiciones que deben llenarse para obtenerlo y las autoridades que han de expedirlo; por su parte, el Artículo 4 de la Constitución Política del Estado Libre y Soberano de Durango, faculta al Congreso Local a expedir la Ley que determine cuáles son las profesiones que requieren título para su ejercicio, las condiciones que deban llenarse para obtenerlo y las autoridades facultadas para expedirlo; en tal virtud, en nuestra entidad federativa actualmente se encuentra en vigor la Ley de Profesiones que fue aprobada mediante Decreto No. 30, de fecha 28 de abril de 1987, y publicado en el Periódico Oficial del Estado No. 45 en fecha 4 de junio del mismo año, que regula lo relativo al registro, expedición de cédulas y/o títulos profesionales y, en general, todo lo referente al ejercicio de las diversas profesiones, así como lo relacionado a los colegios de profesionistas, el ejercicio profesional, el servicio social de estudiantes y las sanciones por incumplimiento a la misma Ley.
 
-Por lo anteriormente expuesto y fundado, esta LVI Legislatura del Congreso del Estado, ha tenido a bien expedir la siguiente:
+SEGUNDO.- Dado el crecimiento demográfico y él desarrollo económico en el ámbito local, existe una creciente demanda educativa en diversas áreas, por lo que las distintas instituciones competentes en la materia, han implantado nuevas profesiones, en tal sentido, se requiere adecuar el marco legal vigente, que regula el ejercicio de las profesiones en nuestra Entidad, el cual ha quedado rebasado por la dinámica social, ya que la actual Ley de Profesiones data desde hace 16 años, período en el que justamente se han presentado con mayor celeridad los cambios económicos, políticos, sociales y, desde luego, en el ámbito educativo, por lo que se requiere contar con un marco jurídico acorde con la realidad que prevalece para que sea eficiente y eficaz.
 
-LEY DE MOVILIDAD, TRANSPORTE Y SEGURIDAD VIAL DEL ESTADO DE MORELOS
+TERCERO.- Los nuevos tiempos de modernidad requieren de nuevas y mejores perspectivas tecnológicas y científicas que impulsen por un lado, el crecimiento de la economía y el desarrollo social; y por otra, la interacción del Estado y la comunidad para mejorar la calidad de vida de los mexicanos a través de la adquisición de mayores conocimientos y el otorgamiento de servicios profesionales y técnicos que faciliten esa modernidad y los avances científicos y tecnológicos que apresuren nuestra marcha hacia mejores estadios de bienestar.
 
-###### ARTÍCULO ÚNICO.
+CUARTO.- Las iniciativas presentadas, contienen la propuesta para la creación de una nueva ley en materia de profesiones, con la finalidad de precisar aspectos que contribuyan al perfeccionamiento del desempeño de las distintas profesiones: El presente precisa que la ley es del orden público e interés social en lo referente al ejercicio profesional; la misma, tiene por objeto establecer cuáles son las instituciones autorizadas para expedir títulos profesionales, determinar las profesiones que requieren cédula profesional para su ejercicio, las autoridades que deben expedir el título respectivo y el procedimiento para el registro de los mismos; establece además las atribuciones de la Dirección Estatal de Profesiones, la promoción, actualización académica y superación del ejercicio profesional, a través de la certificación y mecanismos de concertación entre el Gobierno, la sociedad y los profesionistas; asimismo, establece los lineamientos para la organización y supervisión de los colegios de profesionistas, así como sus facultades y obligaciones; otro aspecto importante es el capítulo relativo a aquellas profesiones que requieren título para su ejercicio. En relación al propio ejercicio profesional, se pretende que el mismo se ejerza con mayor grado de profesionalismo y responsabilidad; se observa además el ejercicio profesional de los extranjeros, sujetándose a los convenios y tratados internacionales; se plasman los derechos y obligaciones de los profesionistas. Capítulo importante es el referente a los pasantes, contemplándose los requisitos para la práctica profesional de los mismos; otro aspecto que sobresale es el servicio social de los estudiantes de educación media superior, técnico superior, terminal, bivalente y superior, con la finalidad de que el mismo sea prestado en comunidades de escasos recursos, instituciones públicas y privadas, a través de asesoría, consultas, aportación de datos o ejecución de trabajos de su profesión, con la vigilancia y aprobación de la Dirección de Profesiones.
 
-Se expide la Ley de Movilidad, Transporte y Seguridad Vial del Estado de Morelos, para quedar como a continuación se indica:
+QUINTO.- Por otra parte, se establece un capítulo relativo a los colegios de profesionistas, contemplando los derechos y obligaciones de los mismos. Cabe hacer mención que se incluye la figura del arbitraje para aquellos casos de inconformidad de un cliente por los servicios profesionales prestados, pudiendo acudir ante los órganos jurisdiccionales competente o someterse al procedimiento arbitral, para lo cual se contemplan los mecanismos y la forma de llevarse a cabo, con la finalidad de dar certeza jurídica, credibilidad y transparencia al desempeño del ejercicio profesional.
 
-LEY DE MOVILIDAD, TRANSPORTE Y SEGURIDAD VIAL DEL ESTADO DE MORELOS
+SEXTO.- De igual manera, se contempla un capítulo referente a las instituciones autorizadas para expedir títulos profesionales y grados académicos, observando los tratados internacionales y la globalización en que vivimos actualmente; también se contempla un capítulo en el que se plasman las faltas, responsabilidades y sanciones en materia de profesiones. Finalmente, cabe destacar los medios de defensa en contra del procedimiento para la imposición de las sanciones propiamente dichas, instituyéndose el recurso de reconsideración, destacando que la Ley que se contiene en el presente, pretende que el ejercicio profesional en nuestro Estado se preste de acuerdo a las necesidades que demanda la colectividad.
 
-## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
+SEPTIMO.- También se establecen rubros importantes tales como los relativos a las responsabilidades y sanciones derivadas del ejercicio profesional, puntualizando que el incumplimiento de las obligaciones que la Ley señale a los profesionistas serán dictaminadas por la Dirección de Profesiones o, en su caso, el procedimiento respectivo; por otro lado, se contempla un capítulo específico en relación con los recursos que se podrán interponer en contra de las resoluciones que dicten las autoridades administrativas en materias de profesiones y responsabilidades.
 
-### CAPÍTULO I. DEL OBJETO, PRINCIPIOS Y ÁMBITO DE APLICACIÓN
+OCTAVO.- La dinámica social, la globalización en general, los Tratados de Libre Comercio suscritos por nuestro país y los Acuerdos derivados de los mismos, imponen la necesidad de que en materia de profesiones, se disponga de instrumentos legales que permitan profesionalizar al más alto nivel la prestación de los servicios que demanda no sólo la comunidad nacional, sino la internacional, por lo que nuestro país y desde luego nuestra entidad federativa, debe establecer como estrategias fundamentales acciones que coadyuven a ser competitivos y así lograr el desarrollo en igualdad de condiciones, por lo que los profesionistas mexicanos deberán estar debidamente capacitados y actualizados para estar en posibilidades de acceder e incidir en el desarrollo de nuestro país, de ahí la trascendencia de contar con una Ley acorde con la realidad y las condiciones en que vivimos actualmente los mexicanos.
 
-###### Artículo 1.
+NOVENO.- Por último, es importante mencionar el interés y trabajo realizado por la Comisión, por dotar a nuestra entidad federativa de una nueva Ley de Profesiones que responda a las necesidades de la sociedad, habiendo solicitado para ello la opinión de los Presidentes de los Colegios de Profesionistas, mismas que sirvieron de fundamento para enriquecer el presente, que hoy se somete a la consideración de esta Honorable Asamblea, ya que los mismos expresaron las inquietudes, experiencias y preocupaciones de los profesionistas de las distintas ramas para que el ejercicio profesional sea más eficiente y la sociedad se vea beneficiada al contar con un instrumento jurídico que garantice transparencia y credibilidad quienes lo prestan como a quienes lo reciben.
 
-La presente Ley es de orden público, interés social y de observancia general en todo el territorio del estado de Morelos, cuyo objeto es establecer las bases, principios y directrices para planear, regular, gestionar, supervisar y evaluar la movilidad de las personas y el transporte de bienes y mercancías, así como los servicios relacionados, garantizando el derecho humano a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
+Con base en los anteriores Considerandos, esta H. LXII Legislatura del Estado, expide el siguiente:
 
-###### Artículo 2.
+DECRETO No. 267
 
-La interpretación de esta Ley corresponde al Ejecutivo del Estado, a través de la Coordinación General de Movilidad y Transporte, y a los Ayuntamientos, en el ámbito de sus respectivas competencias, favoreciendo en todo tiempo la protección más amplia a la vida y la integridad de las personas, de conformidad con los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que el Estado Mexicano sea parte, la Ley General de Movilidad y Seguridad Vial, y la Ley de Procedimiento Administrativo para el Estado de Morelos.
+LA HONORABLE SEXÁGESIMA SEGUNDA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DEL ESTADO DE DURANGO, EN USO DE SUS FACULTADES QUE LE CONFIERE AL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA LOCAL, NOMBRE DEL PUEBLO, DECRETA:
 
-###### Artículo 3.
+LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE DURANGO
 
-Para los efectos de esta Ley, además de las definiciones contenidas en la Ley General de Movilidad y Seguridad Vial, se entenderá por:
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-I. Ayuntamientos, a los 36 Ayuntamientos que conforman el Estado Libre y Soberano de Morelos;
+###### ARTÍCULO 1.
 
-II. Bicimoto eléctrica ligera, al vehículo de dos o tres ruedas provisto de un motor de baja potencia, que puede operar de dos formas: con un motor eléctrico auxiliar que únicamente asiste el pedaleo del conductor, desactivándose al dejar de pedalear o al alcanzar una velocidad determinada; o bien, como un motor de combustión interna de hasta 50 cm3 o eléctrico que permite la propulsión autónoma del vehículo mediante un acelerador, con una velocidad máxima limitada por diseño, cuya potencia nominal no excede los límites establecidos en las Normas Oficiales Mexicanas, y que por diseño no desarrolla velocidades superiores a las establecidas para vehículos de movilidad personal;
+La presente Ley es de orden público e interés social en lo relativo al ejercicio profesional en el Estado de Durango, regirá en la Entidad, en asuntos del orden común o en actividades reguladas por una ley federal, cuando el asunto sea de jurisdicción concurrente y conozca de él la autoridad local.
 
-III. Bloque Estratégico de Actuación, a la categorización del Estado de un sistema de transporte público, que combina su nivel de integración y su modelo de gestión, y que sirve como base para definir las acciones prioritarias de mejora, de conformidad con la política nacional de transporte público colectivo urbano;
+El cumplimiento de las obligaciones impuestas por la presente Ley, no exceptúa a los profesionistas de satisfacer otras que se les imponga por alguna Ley Estatal o Federal.
 
-IV. Concesión, al acto administrativo, mediante el cual la autoridad competente otorga a una persona física o moral el derecho y la obligación de prestar un servicio público de transporte de pasajeros o de carga, utilizando en su caso bienes del dominio público, bajo las condiciones, modalidades, tarifas y estándares de calidad y seguridad en términos de la presente Ley, su Reglamento y el título de concesión respectivo;
+###### ARTÍCULO 2.
 
-V. Coordinación General, a la Coordinación General de Movilidad y Transporte del Estado de Morelos;
+La presente Ley tiene por objeto:
 
-VI. Coordinador General, a la persona titular de la Coordinación General de Movilidad y Transporte;
+I. Establecer cuales son las instituciones autorizadas para expedir títulos a sus egresados, así como las obligaciones que se tienen ante la Dirección Estatal de Profesiones;
 
-VII. Consejo Estatal, al Consejo Estatal de Movilidad y Transporte del Estado de Morelos;
+II. Determinar las profesiones que requieren cédula profesional para su ejercicio en el Estado, las autoridades que deben expedir el título respectivo y el procedimiento para el registro de los mismos;
 
-VIII. Consejos Municipales, a los Consejos Municipales de Movilidad y Transporte;
+III. Establecer las atribuciones de la Dirección Estatal de Profesiones;
 
-IX. Corredor de Transporte, al eje vial o conjunto de ellos en los cuales se ordena la prestación del servicio de transporte público bajo esquemas operativos, empresariales y de infraestructura unificados, con el fin de mejorar la eficiencia, seguridad y calidad del servicio;
+IV. Promover la actualización académica y superación del ejercicio profesional mediante la certificación y mecanismos de concertación entre el Gobierno del Estado, la sociedad y los profesionistas, a través de sus organizaciones con la intención de que el ejercicio profesional responda a niveles de excelencia y calidad;
 
-X. Depósito Vehicular, al lugar público o concesionado destinado al resguardo de los vehículos retirados de la circulación por infracciones a esta Ley y su Reglamento, o por diversas causas legales, entendiéndose para los efectos de esta Ley como sinónimo de corralón;
+V. Normar la intervención de los Colegios de Profesionistas en las actividades listadas en la presente Ley;
 
-XI. Desarrollo Orientado al Transporte, al modelo de planificación y diseño urbano que busca crear comunidades compactas, de usos mixtos, peatonales y con una alta calidad de vida, estructuradas alrededor de estaciones de transporte público de alta capacidad;
+VI. Establecer los lineamientos para la organización y supervisión de los colegios de profesionistas, así como de sus facultades y obligaciones;
 
-XII. Empresa de Redes de Transporte o ERT, a la persona moral cuyo objeto es la intermediación, promoción o administración de plataformas y aplicaciones informáticas para la contratación del servicio de transporte privado de pasajeros;
+VII. Establecer los mecanismos de acción para el proceso del registro profesional;
 
-XIII. Estado, al Estado Libre y Soberano de Morelos;
+VIII. Establecer un padrón público profesional;
 
-XIV. Esquema de Integración, al grado de interacción entre los elementos físicos, operacionales, tarifarios y de información de un sistema de transporte, que determinan la experiencia de viaje de la persona usuaria;
+IX. Observar las condiciones y requisitos para la prestación del servicio social de los estudiantes y profesionistas conforme a lo que establece el artículo 5 Constitucional;
 
-XV. Estrategia Estatal, a la Estrategia Estatal de Movilidad, Transporte y Seguridad Vial;
+X. Determinar los derechos y obligaciones de los profesionistas; y
 
-XVI. Evaluación de Factibilidad en Materia de Movilidad, al documento técnico y jurídico expedido por la Coordinación General, que determina el cumplimiento de los objetivos y principios de esta Ley y que es de carácter obligatorio para toda construcción, ampliación o modificación de un desarrollo o infraestructura que por su naturaleza pueda generar impactos significativos en la movilidad;
+XI. Determinar las infracciones y sanciones en que se incurre por incumplimiento a los preceptos establecidos en esta Ley y los recursos para combatir las resoluciones que las impongan.
 
-XVII. Inteligencia Artificial del Vehículo, al conjunto de sistemas y algoritmos avanzados incorporados en un vehículo que le permiten percibir su entorno, procesar información, tomar decisiones y ejecutar acciones de conducción de manera autónoma o semi-autónoma, con el objetivo de optimizar la seguridad y eficiencia de la movilidad;
+###### ARTÍCULO 3.
 
-XVIII. Ley General, a la Ley General de Movilidad y Seguridad Vial;
+Para los efectos de esta Ley se entiende por:
 
-XIX. Manual de Diseño de Calles, al instrumento técnico y normativo de carácter obligatorio que establece los criterios, estándares, especificaciones y lineamientos para el diseño y construcción de la infraestructura vial. Su finalidad es garantizar que las calles sean seguras, accesibles, incluyentes y funcionales para todas las personas usuarias, priorizando de acuerdo con la jerarquía de la movilidad y los principios de diseño universal y calle completa;
+I. Secretaría: A la Secretaría de Educación del Estado de Durango;
 
-XX. Modelo de Gestión, al grado de participación y responsabilidad de la autoridad pública en la planeación, operación, regulación y financiamiento de los servicios de transporte;
+II. Dirección: La Dirección Estatal de Profesiones;
 
-XXI. Modelo de Gestión Objetivo, al esquema de administración y evaluación de los servicios de movilidad, transporte y seguridad vial, basado en el cumplimiento de metas e indicadores cuantificables y predefinidos con base en su modalidad. Este modelo se enfoca en la medición de resultados (como puntualidad, frecuencia, cobertura, reducción de siniestros, satisfacción del usuario) en lugar de únicamente en los procesos, permitiendo una evaluación transparente del desempeño y la mejora continua del sistema;
+III. Dirección General: Dirección General de Profesiones;
 
-XXII. Modificación vehicular, a la alteración, conversión, adaptación o cambio en la estructura, sistemas o componentes físico-mecánicos de un vehículo que difiera de las especificaciones originales del fabricante. Incluye de manera enunciativa y no limitativa, la sustitución de partes sustantivas, la instalación de aditamentos o dispositivos especiales, y cualquier cambio que afecte sus dimensiones, capacidad, seguridad o emisiones contaminantes;
+IV. Ley: Ley para el Ejercicio de las Profesiones en el Estado de Durango;
 
-XXIII. Micromovilidad, a la modalidad de transporte enfocada en trayectos cortos dentro de entornos urbanos, que utiliza vehículos ligeros de uso personal o compartido. Su propulsión puede ser por esfuerzo humano (como bicicletas, patinetas y patines) o mediante un motor eléctrico de baja potencia. En su variante eléctrica, estos vehículos se caracterizan por una velocidad máxima de diseño que no excede los 25 km/h, posicionándose como una alternativa sostenible al transporte motorizado convencional;
+V. Reglamento: El Reglamento que corresponda a la presente Ley;
 
-XXIV. Movilidad Eléctrica, al conjunto de sistemas, tecnologías, infraestructuras y servicios orientados al desplazamiento de personas y bienes mediante el uso de vehículos propulsados, total o parcialmente, por uno o más motores eléctricos, cuya energía se almacena en dispositivos a bordo, como baterías recargables, incluyendo vehículos destinados al servicio público con propulsión eléctrica, como autobuses, vagonetas y bicitaxis eléctricos, los cuales deben cumplir con los estándares de seguridad, accesibilidad y eficiencia para el servicio que prestan; motocicletas, automóviles y vehículos de carga ligeros o pesados que utilizan motorización eléctrica;
+VI. Instituciones Educativas: A las que se refiere el artículo 58 de esta Ley, ya sean públicas o privadas;
 
-XXV. Nivel de Servicio, a la medida de desempeño que representa la calidad del servicio de cada uno de los modos de movilidad, con base en factores como tiempo de viaje, comodidad, seguridad y costo;
+VII. Profesionista: Toda persona física que obtenga un título en los niveles de profesional técnico, técnico superior, licenciatura, postgrado, expedido por las Instituciones educativas debidamente autorizadas o reconocidas por las autoridades competentes;
 
-XXVI. Periódico Oficial, al Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos;
+VIII. Perito Profesional: Al profesionista que posee discernimientos y habilidades especiales para juzgar sobre la aplicación de conocimientos o tecnologías especificas y amparar con su firma o rendir un dictamen que da fe de ello ante la autoridad.
 
-XXVII. Observatorios Ciudadanos de Movilidad y Seguridad Vial, a los espacios de participación, deliberación y consulta entre la sociedad civil, especialistas, academia y autoridades. Su objetivo es el estudio, investigación, evaluación y propuesta de políticas públicas, programas y acciones en la materia; así como la capacitación a la comunidad y la difusión de información para mejorar la movilidad y la seguridad vial desde una perspectiva ciudadana y técnica;
+IX. Título Profesional: El documento expedido por las instituciones con autorización o reconocimiento de validez oficial de estudios, conforme a los requisitos que establezca la presente ley, y las demás disposiciones aplicables, una vez que se ha comprobado haber cursado y aprobado los estudios correspondientes;
 
-XXVIII. Padrón Único de Movilidad y Transporte, al instrumento de registro público y administrativo que integra, organiza, controla y actualiza la información relativa a las concesiones, permisos, autorizaciones, vehículos, bases, operadores y demás elementos que conforman el servicio de transporte en todas sus modalidades. Su objetivo es brindar certeza jurídica, facilitar el control y supervisión por parte de la autoridad y permitir la consulta pública de la información no confidencial;
+X. Cédula Profesional: El documento expedido por la Dirección General a favor del profesionista que previamente ha registrado su título, teniendo efectos de patente a nivel nacional que se otorga para el ejercicio profesional;
 
-XXIX. Plan Integral de Movilidad Urbana Sustentable o PIMUS, a la herramienta de planeación estratégica a largo plazo que tiene como objetivo principal guiar el desarrollo de la movilidad en un área urbana o metropolitana hacia formas más sostenibles. Se basa en un diagnóstico exhaustivo y la participación ciudadana para proponer un conjunto coordinado de acciones que mejoren la accesibilidad, la seguridad vial y la calidad de vida, al tiempo que reducen la congestión, las emisiones contaminantes y el impacto ambiental del transporte;
+XI. Colegios de Profesionistas: Las asociaciones civiles formadas por profesionistas de una misma rama del conocimiento, agrupados voluntariamente y debidamente registradas en la Dirección;
 
-XXX. Plataformas Digitales de Transporte, a la modalidad de servicio de transporte que, a través de aplicaciones informáticas, sistemas de comunicación, o plataformas digitales y tecnológicas, conectan a usuarios que demandan un servicio de movilidad con conductores u operadores que ofrecen dicho servicio. Este concepto incluye tanto el transporte de personas como el de bienes, mercancías y entregas a domicilio;
+XII. Federación de Profesionistas: Es la unión de dos o mas Colegios de Profesionistas que representan la defensa de los intereses profesionales de una o diferentes especialidades;
 
-XXXI. Proceso de Planeación, al proceso de ordenación racional y sistemática de acciones que, a través del diagnóstico, la definición de objetivos, estrategias y metas, garantiza el ejercicio del derecho a la movilidad. Su fin es alinear las políticas públicas, programas e inversiones para conformar un sistema de movilidad y seguridad vial que sea seguro, accesible, eficiente, sostenible, inclusivo y de calidad;
+XIII. Servicio Social Estudiantil: El que deben prestar los estudiantes en los niveles medio superior y superior para poder obtener el documento que acredite su conclusión de estudios profesionales;
 
-XXXII. Programa Sectorial de Movilidad, al instrumento de planeación derivado de la Estrategia Estatal, enfocado en atender las necesidades específicas de subsectores como el transporte de carga, el transporte turístico, la movilidad no motorizada o la gestión de estacionamientos;
+XIV. Servicio Social Profesional: El que deben prestar los profesionistas en términos del artículo 5º Constitucional;
 
-XXXIII. Red Vial Primaria, al conjunto de vías cuya función principal es facilitar los flujos de tránsito de largo recorrido entre las principales zonas generadoras de viajes dentro de una zona urbana o entre Ayuntamientos del Estado. Su gestión y regulación será competencia primordial de la Coordinación General;
+XV. Certificación: Proceso que realiza el Consejo de certificación y acreditación del colegio de la disciplina correspondiente que consiste en la evaluación de conocimientos y habilidades del profesionista y que se acredita por el certificado expedido por el propio Consejo de acuerdo con las normas de calidad emitidas por el propio consejo;
 
-XXXIV. Registro Estatal de Movilidad, al conjunto de registros administrados por la Coordinación General, que incluye el de licencias y permisos de conducir, el Registro Público del Transporte, el de siniestros de tránsito y el de Empresas de Redes de Transporte;
+XVI. Acreditación: Proceso para dar reconocimiento a las escuelas y a sus programas educacionales que se cumplan con las normas de calidad convenidas;
 
-XXXV. Registro Público del Transporte, al instrumento a cargo de la Coordinación General que contiene el censo de concesiones, permisos, vehículos, rutas, itinerarios, bases y operadores del servicio de transporte público y privado en el Estado;
+XVII. Actualización: Adquisición periódica de conocimientos y habilidades teóricas y prácticas, que obtienen los profesionistas para estar al día en los avances científicos y tecnológicas en las disciplinas y especialidades y en su interrelación con los demás factores que intervienen en la vida individual y social; y
 
-XXXVI. Reglamento, al Reglamento de la presente Ley;
+XVIII. Domicilio profesional: El lugar donde habitualmente se desempeñe el ejercicio profesional.
 
-XXXVII. Revisión físico-mecánica, al procedimiento de inspección y evaluación periódica y obligatoria para los vehículos (revista vehicular), especialmente los del servicio de transporte. Tiene por objeto verificar y constatar que cumplen con las condiciones de seguridad, operatividad, control de emisiones, y demás especificaciones técnicas y normativas aplicables. Incluye la inspección de sistemas mecánicos (frenos, suspensión), eléctricos, de seguridad (cinturones, carrocería), de accesibilidad, así como la cromática e identidad gráfica autorizada;
+###### ARTÍCULO 4.
 
-XXXVIII. Señalización, al conjunto integrado de dispositivos, marcas y señales viales que indican la geometría de las vías, sus acotamientos, las velocidades máximas, la dirección de tránsito, la preferencia de paso, así como sus bifurcaciones, cruces y pasos a nivel. Su objetivo es prevenir, regular y guiar la circulación de personas y vehículos, garantizando su adecuada visibilidad y comprensión para todos los usuarios de la vía;
+La aplicación y vigilancia de esta Ley corresponde al Ejecutivo del Estado, a través de la Secretaria y a las demás autoridades competentes en los términos de Ley.
 
-XXXIX. Servicio Público, a la actividad técnica, de interés general y utilidad pública, regulada y supervisada por el Estado, encaminada a satisfacer la necesidad colectiva de desplazamiento de personas y bienes. Debe ser prestado de forma continua, uniforme, regular y accesible, garantizando condiciones de seguridad, calidad y eficiencia para todos los usuarios, de acuerdo con la pirámide de la jerarquía de la movilidad y los principios de esta Ley;
+###### ARTÍCULO 5.
 
-XL. Siniestro Vial, todo evento o hecho de tránsito en la vía pública o privada que produce daños materiales, lesiones o la muerte a personas, derivado del uso o la interacción de vehículos, peatones o ciclistas;
+A falta de disposición expresa en esta Ley, se aplicará supletoriamente la Ley Reglamentaria del artículo 5 de la Constitución Política de los Estados Unidos Mexicanos.
 
-XLI. Sistema Estatal, al Sistema Estatal de Movilidad, Transporte y Seguridad Vial;
+### CAPÍTULO II. DE LAS PROFESIONES QUE REQUIEREN TÍTULO PARA SU EJERCICIO
 
-XLII. Sistemas de Retención Infantil, a los dispositivos de seguridad certificados para limitar la movilidad del cuerpo de personas menores de doce años, a fin de disminuir el riesgo de lesiones en caso de colisión;
+###### ARTÍCULO 6.
 
-XLIII. Soluciones Basadas en la Naturaleza, a las acciones para proteger, gestionar de forma sostenible y restaurar los ecosistemas naturales o modificados, que abordan los desafíos de la movilidad, como la gestión de aguas pluviales y la reducción de islas de calor, de manera efectiva y adaptativa, proporcionando simultáneamente beneficios para el bienestar humano y la biodiversidad;
+Las profesiones que necesitan Título y Cédula Profesional para su ejercicio, considerando el nivel de estudios son las siguientes:
 
-XLIV. Supervisión Operativa, al conjunto de actos de inspección, vigilancia y control realizados en la vía pública por personal autorizado, con el fin de verificar el cumplimiento de las disposiciones de esta Ley, su Reglamento y demás normativa aplicable. Comprende la revisión documental, las condiciones de los vehículos, la correcta prestación del servicio de transporte y el cumplimiento de las normas de tránsito y seguridad vial;
+I. En el Nivel Medio Superior: Técnicos en las diversas ramas previstas por las instituciones educativas del Sistema Educativo Nacional en sus modalidades bivalente y terminal y técnico superior.
 
-XLV. Tarjeta de Circulación, al instrumento público, en formato físico o digital, expedido por la Coordinación General, que funge como el documento oficial de identificación de un vehículo motorizado en todas sus modalidades. Su propósito fundamental es acreditar que el vehículo ha cumplido con los requisitos de registro y control vehicular, autorizándolo legalmente para transitar en las vías públicas;
+II. En el Nivel de Educación Superior:
 
-XLVI. Transporte de Pasajeros Especializado, al que se presta para satisfacer necesidades particulares de grupos específicos, tales como estudiantes, personal de empresas o turistas, bajo un contrato específico y sin ofrecerse al público en general;
+a) La Licenciatura en sus diversas ramas y especialidades;
 
-XLVII. Tumbaburros o Mataburros, a los accesorios frontales o traseros, fijos o desmontables, no originales de fábrica, instalados en vehículos automotores, diseñados para proteger la carrocería del vehículo, pero que, por su estructura o material, incrementan el riesgo de lesiones graves o fatales a peatones, ciclistas y ocupantes de otros vehículos en caso de colisión.
+b) La especialidad;
 
-XLVIII. UMA, a la Unidad de Medida y Actualización vigente en la Entidad;
+c) La maestría;
 
-XLIX. VCA, al vehículo automotor eléctrico que, mediante un sistema de inteligencia artificial, sensores, cámaras y sistemas de geolocalización, es capaz de operar y desplazarse de forma segura sin la intervención de un conductor humano a bordo, correspondiendo a un nivel de automatización 4 o 5 de la clasificación de la Sociedad de Ingenieros Automotrices (SAE) o su equivalente internacional;
+d) El Doctorado; y
 
-L. Vehículo eléctrico, al vehículo cuyo desplazamiento es impulsado por uno o más motores eléctricos;
+Las demás profesiones o especialidades que se reconozcan oficialmente como carreras completas en los planes de estudio en las instituciones de educación superior legalmente autorizadas en el Estado de Durango, la Federación o por las entidades federativas, sujetos a la reciprocidad del lugar de residencia del profesionista en los términos del artículo 121 de la Constitución General de la República.
 
-LI. Vía Recreativa, al programa que consiste en la restricción temporal de la circulación de vehículos motorizados en ciertas vías públicas, con el fin de destinarlas de forma exclusiva al esparcimiento, la actividad física y la convivencia social de peatones y ciclistas, y
+El listado de las profesiones que requieren título o grado académico para su ejercicio, podrá ser incrementado previo dictamen de la Dirección, oyendo la opinión del Comité Técnico de la profesión de mayor similitud al de la actividad profesional que se pretenda incorporar, mediante decreto del Titular del Poder Ejecutivo Estatal.
 
-LII. Violencias Contra las Mujeres, a cualquier acción u omisión, basada en su género, que les cause daño o sufrimiento en el espacio público o en los sistemas de movilidad y transporte.
+Además las profesiones mencionadas en los Tratados Internacionales de los que México es parte.
 
-###### Artículo 4.
+###### ARTÍCULO 7.
 
-Son autoridades en materia de movilidad, transporte y seguridad vial en el estado de Morelos, en el ámbito de sus respectivas competencias:
+Para obtener título profesional en sus diferentes niveles es indispensable acreditar que se ha cumplido con los requisitos académicos previstos en las leyes aplicables o en las disposiciones que para tal efecto expidan las instituciones educativas autorizadas.
 
-I. La Persona Titular del Poder Ejecutivo Estatal;
+###### ARTÍCULO 8.
 
-II. El Sistema Estatal de Movilidad, Transporte y Seguridad Vial;
+El Titular del Poder Ejecutivo de Estado, previo dictamen de la Secretaria y escuchando a los Colegios de profesionistas, expedirá los reglamentos que regirán los ámbitos de acción de cada profesión y las condiciones para su ejercicio.
 
-III. La Coordinación General de Movilidad y Transporte;
+### CAPÍTULO III. DEL EJERCICIO PROFESIONAL
 
-IV. Los Ayuntamientos;
+###### ARTÍCULO 9.
 
-V. Las Secretarías de Gobierno, Infraestructura, Salud, Administración y Finanzas, Mujeres, Seguridad Pública y Protección Ciudadana, y Desarrollo Sustentable, todas del Poder Ejecutivo Estatal, como autoridades coadyuvantes, y
+Se entiende por ejercicio profesional, para los efectos de esta Ley la realización habitual a título oneroso o gratuito de todo acto, o la prestación de cualquier servicio propio de cada profesión, aunque sólo se trate de simple consulta o de la ostentación de carácter de profesionistas a través de tarjetas, consulta, anuncios, placas, insignias o de cualquier otra forma.
 
-VI. Las demás que se señalen en esta Ley y otros ordenamientos jurídicos.
+No se considera ejercicio profesional cualquier acto realizado en los casos graves con propósito de auxilio inmediato.
 
-La Coordinación General, será un órgano dotado con autonomía técnica y operativa, especializado en la planeación, regulación, supervisión y evaluación del Sistema Estatal.
+###### ARTÍCULO 10.
 
-###### Artículo 5.
+Para ejercer en el Estado de Durango, el profesionista deberá cumplir con los siguientes requisitos:
 
-Las Secretarías, Dependencias y Organismos Auxiliares de la Administración Pública Estatal y Municipal cuyas atribuciones se relacionen con el desarrollo urbano, obras públicas, el medio ambiente, la seguridad pública, mujeres, la salud y hacienda, actuarán como autoridades coadyuvantes y deberán coordinarse con la Coordinación General para el cumplimiento de los objetivos de esta Ley.
+I. Estar en pleno goce de sus derechos civiles; y
 
-### CAPÍTULO II. DE LAS AUTORIDADES EN MATERIA DE MOVILIDAD Y SUS ATRIBUCIONES GENERALES
+II. Poseer cédula profesional debidamente registrada o la autorización correspondiente.
 
-###### Artículo 6.
+###### ARTÍCULO 11.
 
-Las autoridades competentes, en el ejercicio de sus atribuciones, deberán garantizar en todo momento la aplicación de los principios rectores establecidos en esta Ley, con un enfoque de derechos humanos y perspectiva de género.
+Las personas que sin tener cédula profesional legalmente expedida, ejerzan algunas de las profesiones establecidas en el artículo 6 del presente ordenamiento, incurrirán en las sanciones que establece la Ley aplicable.
 
-###### Artículo 7.
+Las autoridades judiciales y las que conozcan de asuntos contenciosos-administrativos, rechazarán la intervención en calidad de patronos o asesores técnicos a los que no tengan cédula profesional a excepción de las personas morales quienes podrán ser representados por sus órganos de representación.
 
-El Estado y los Ayuntamientos podrán celebrar convenios de coordinación para la ejecución de proyectos en materia de movilidad, transporte y seguridad vial, particularmente en zonas metropolitanas o conurbadas.
+El mandato por asunto judicial o contencioso-administrativo determinado, sólo podrá ser otorgado a favor del profesionista con cédula profesional debidamente registrada en los términos de esta Ley.
 
-###### Artículo 8.
+###### ARTÍCULO 12.
 
-Los Ayuntamientos podrán celebrar convenios de coordinación con el Poder Ejecutivo Estatal, a través de la Coordinación General, para la gestión coordinada de funciones operativas.
+El ejercicio profesional en el Estado de Durango excepcionalmente podrá realizarse conforme a lo que previamente se encuentre convenido con el gobierno federal o los de otras entidades federativas.
 
-### CAPÍTULO III. DE LAS ATRIBUCIONES DE LA PERSONA TITULAR DEL PODER EJECUTIVO ESTATAL
+###### ARTÍCULO 13.
 
-###### Artículo 9.
+El ejercicio profesional de los extranjeros en el Estado de Durango, estará sujeto a lo establecido en las leyes vigentes, sujetándose a las condiciones y términos legales establecidos en los convenios y tratados internacionales celebrados por el estado mexicano con el país de que se trate.
 
-Corresponde a la Persona Titular del Poder Ejecutivo Estatal:
+###### ARTÍCULO 14.
 
-I. Presidir el Sistema Estatal de Movilidad, Transporte y Seguridad Vial;
+Quienes se ostenten como profesionistas ante alguna autoridad en el Estado, deberán acreditarlo mediante la presentación de la cédula profesional o la autorización provisional, en caso contrario, el servidor público que le atienda deberá rechazar de plano su intervención. Tratándose de extranjeros, deberán además cumplir lo dispuesto en el artículo anterior.
 
-II. Formular y conducir la política estatal en la materia, de conformidad con los principios y objetivos de esta Ley;
+###### ARTÍCULO 15.
 
-III. Expedir el Reglamento de la presente Ley y los demás ordenamientos jurídicos necesarios para su debida aplicación;
+Son derechos de los profesionistas que ejerzan en el Estado, además de los establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la particular del Estado, en las leyes y reglamentos que de ellas emanen, los siguientes:
 
-IV. Celebrar convenios de coordinación con la Federación, con otras Entidades Federativas y con los Ayuntamientos del Estado para la implementación de acciones y programas en materia de movilidad y seguridad vial;
+I. Cobrar justa remuneración por la prestación de sus servicios profesionales conforme a lo que se establezca por acuerdo con el cliente o patrón o por lo que determine el arancel correspondiente; o por lo que señale la costumbre de acuerdo a la importancia de los trabajos prestados; o la remuneración que determine juez competente previo el procedimiento correspondiente;
 
-V. Otorgar, revocar, renovar, modificar o suspender las concesiones para la prestación del Servicio de Transporte Público y Privado, en cualquiera de sus modalidades, por sí o a través de la Coordinación General, desahogando el procedimiento respectivo citado en la presente Ley y su Reglamento, y
+II. Asociarse libremente en los términos del artículo 9º de la Constitución Política de los Estados Unidos Mexicanos, en cualquiera de los Colegios legalmente registrados por la Dirección;
 
-VI. Las demás que le confiera la Constitución Política del Estado Libre y Soberano de Morelos y demás normativa legal aplicable.
+III. Participar en los cursos de actualización profesional que impartan las instituciones de educación superior o los colegios de profesionistas;
 
-###### Artículo 10.
+IV. Obtener la certificación de conocimientos después de la titulación en un tiempo no mayor a la duración de los estudios realizados por medio del consejo o del colegio que corresponda a la rama del profesionista; y
 
-El Poder Ejecutivo Estatal, a través de la Coordinación General, ejercerá la rectoría sobre el Sistema de Movilidad, Transporte y Seguridad Vial en el Estado, garantizando una visión integral y coordinada.
+V. Los demás que se encuentren determinados por la presente Ley, su Reglamento y demás disposiciones aplicables en la materia.
 
-###### Artículo 11.
+###### ARTÍCULO 16.
 
-El Poder Ejecutivo Estatal promoverá y garantizará la asignación de recursos suficientes en el proyecto de Presupuesto de Egresos correspondiente que remita al Congreso del Estado para el cumplimiento de los objetivos y programas derivados de la presente Ley.
+Son obligaciones de los profesionistas que ejerzan en el Estado:
 
-###### Artículo 12.
+I. Actuar con legalidad, honestidad, imparcialidad, ética, conservar la dignidad y el decoro profesional y eficacia en el desempeño de los servicios profesionales que preste;
 
-El Poder Ejecutivo Estatal, a través de la autoridad competente, será responsable de la política de comunicación social en materia de movilidad, transporte y seguridad vial, promoviendo campañas permanentes de sensibilización y cultura vial.
+II. Aplicar sus conocimientos científicos, recursos técnicos y destreza al servicio de su cliente o empleador;
 
-###### Artículo 13.
+III. Guardar el secreto profesional respecto a la información que maneje por tal motivo, salvo los informes legales que deban rendir ante las autoridades competentes;
 
-La Persona Titular del Poder Ejecutivo Estatal podrá delegar en la Coordinación General las facultades que estime pertinentes para la eficiente administración de la movilidad, el transporte y la seguridad vial, de conformidad con las disposiciones legales aplicables.
+IV. Abstenerse de cualquier acto u omisión en el desempeño de su trabajo que cause perjuicios a las personas a quienes presten sus servicios, o vaya en contra del interés de la sociedad;
 
-###### Artículo 14.
+V. Señalar en su publicidad o papelería profesional: su nombre completo; la profesión o postgrado que ostenta; el número de su cédula profesional o autorización expedida por la Dirección y, en su caso, el Colegio de Profesionistas al que pertenece;
 
-La Coordinación General será la responsable de planear, regular, organizar, gestionar, supervisar, evaluar y sancionar en materia de movilidad, transporte y seguridad vial en el Estado.
+VI. Exhibir su título y copia certificada de la cédula profesional en lugar visible, en su domicilio profesional;
 
-Así mismo, tendrá la naturaleza jurídica de un Organismo Público Descentralizado, conforme lo establecido en su Decreto de creación.
+VII. Cumplir con las estipulaciones de esta Ley y su Reglamento; y
 
-###### Artículo 15.
+VIII. Las demás disposiciones legales y reglamentarias aplicables en la materia.
 
-Corresponde a la Coordinación General, además de las atribuciones establecidas en el Decreto de creación y su Estatuto Orgánico, las siguientes:
+###### ARTÍCULO 17.
 
-I. Elaborar y proponer para aprobación del Sistema Estatal, la Estrategia Estatal;
+La responsabilidad en que incurra un profesionista en el desempeño del ejercicio profesional será siempre individual y no afectará al colegio de profesionistas al que pertenezca.
 
-II. Fungir como Secretaría Técnica del Sistema Estatal y presidir el Consejo Estatal;
+###### ARTÍCULO 18.
 
-III. Integrar y administrar el componente de información del Sistema Estatal, denominado como Sistema Estatal de Información de Movilidad, Transporte y Seguridad Vial;
+Las autoridades judiciales correspondientes, dentro de los treinta días siguientes al que haya causado ejecutoria la sentencia en la cual condenen a algún profesionista, inhabilitándolo o suspendiéndolo en el ejercicio de su profesión, deberán remitir copia certificada de la misma a la Dirección y ésta deberá comunicarlo al colegio de profesionistas al que se encuentre afiliado el sentenciado, si pertenece a alguna.
 
-IV. Otorgar, renovar, modificar, suspender o revocar las concesiones y permisos para la prestación del servicio de transporte público y privado;
+### CAPÍTULO IV. DE LOS PASANTES
 
-V. Expedir, renovar, suspender o cancelar las licencias y permisos para conducir en todas sus modalidades;
+###### ARTÍCULO 19.
 
-VI. Establecer y operar los centros de evaluación y certificación para la obtención de licencias;
+Para efectos de esta Ley, se considerarán pasantes:
 
-VII. Realizar o supervisar las revisiones físico-mecánicas de los vehículos de transporte público y privado;
+I. A los estudiantes inscritos regularmente en el último año de su carrera profesional o a todos aquellos a quienes las instituciones universitarias o de enseñanza superior reconozcan oficialmente ese carácter; y
 
-VIII. Regular, registrar y supervisar a las Empresas de Redes de Transporte;
+II. A los que, habiendo terminado sus estudios profesionales, no hayan presentado el examen profesional.
 
-IX. Diseñar e implementar, en coordinación con las autoridades competentes, los operativos de supervisión y vigilancia del transporte y de seguridad vial;
+###### ARTÍCULO 20.
 
-X. Determinar y autorizar las tarifas del transporte público, y previo estudio técnico, el cual será revisado anualmente;
+El Ejecutivo del Estado, por conducto de la Dirección, podrá extender autorización temporal hasta por tres meses, prorrogable por una sola vez, a los pasantes de las diversas profesiones para ejercer la práctica respectiva.
 
-XI. Elaborar y proponer proyectos de infraestructura vial y de transporte público sostenible;
+###### ARTÍCULO 21.
 
-XII. Brindar asistencia técnica a los Ayuntamientos en la materia de Movilidad, Transporte y Seguridad Vial;
+Para autorizar en su caso, la práctica profesional de los pasantes, se requerirá:
 
-XIII. Diseñar, implementar y administrar la Ventanilla Única Digital de Movilidad y Transporte, a través de la cual se podrán realizar todos los trámites y servicios a cargo de la Coordinación General, incluyendo la expedición de licencias, el pago de derechos y multas, y los trámites relativos a concesiones y permisos en todas sus modalidades, con el fin de agilizar los procesos y combatir la corrupción, y
+I.- Que sean mayores de edad;
 
-XIV. Las demás que le confieran esta Ley, su Reglamento y otros ordenamientos.
+II.- Ser de reconocida buena conducta;
 
-Además de las atribuciones previstas, podrá celebrar convenios de colaboración con entidades públicas y privadas, emitir lineamientos técnicos en el ámbito de su competencia y proponer a las autoridades competentes la constitución de fideicomisos públicos o privados y fungir como autoridad rectora del modelo Ruta-Empresa.
+III.- Que actúen bajo la dirección o vigilancia de un profesional con título registrado conforme a las prevenciones legales; y
 
-###### Artículo 16.
+IV.- Las demás que establezca el reglamento.
 
-La Coordinación General podrá autorizar, de forma temporal y en zonas geográficas delimitadas, la implementación de proyectos piloto o espacios de prueba controlados y temporalmente delimitados, para probar nuevas tecnologías, modelos de negocio o servicios de movilidad no previstos explícitamente en esta Ley. El Reglamento establecerá las bases y requisitos para la autorización y evaluación de dichos proyectos, garantizando en todo momento la seguridad de las personas usuarias y la protección del interés público.
+### CAPÍTULO V. DEL SERVICIO SOCIAL
 
-###### Artículo 17.
+###### ARTÍCULO 22.
 
-La Coordinación General para la aplicación de la presente Ley y su Reglamento, podrá emitir los manuales, guías, lineamientos y normas técnicas que considere necesarias.
+Todos los estudiantes, de Educación Media Superior, técnico, técnico superior, terminal, bivalente, y superior, deberán prestar el servicio social obligatorio.
 
-###### Artículo 18.
+###### ARTÍCULO 23.
 
-La Coordinación General será la encargada de administrar el Fondo Estatal de Movilidad y Seguridad Vial, observando para ello la normativa aplicable y en coordinación con la instancia competente, asegurando que sus recursos se destinen a los fines establecidos en esta Ley y su Reglamento.
+Se entiende por servicio social las actividades que se realicen de manera individual, con carácter temporal, por los estudiantes, a que se refiere el artículo anterior con el propósito de brindar un beneficio social a la población así como de apoyo a la ciencia, la técnica y la cultura.
 
-### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LA COORDINACIÓN GENERAL
+###### ARTÍCULO 24.
 
-###### Artículo 19.
+Será exigible para los estudiantes a que se refiere la presente Ley, como requisito previo para otorgar el título profesional prestar un servicio social de 480 horas, computadas en un período no menor de seis meses ni mayor de dos años, éste se realizará según la naturaleza de la profesión y de las necesidades sociales, acorde a los planes de preparación profesional.
 
-La Coordinación General coordinará las acciones de los Observatorios Ciudadanos de Movilidad, Transporte y Seguridad Vial, proveyendo la información y el apoyo logístico para su adecuado funcionamiento.
+###### ARTÍCULO 25.
 
-###### Artículo 20.
+Todos los estudiantes a que hace mención el artículo 22 de esta Ley, están obligados a prestar su servicio social, siendo las instituciones educativas las encargadas de su cumplimiento, conforme a sus planes de estudio y a lo dispuesto en la presente Ley.
 
-Corresponde a los Ayuntamientos, en el ámbito de su jurisdicción territorial, sin perjuicio de las atribuciones concurrentes de la Coordinación General:
+###### ARTÍCULO 26.
 
-I. Formular, aprobar y ejecutar sus Programas Municipales de Movilidad, Transporte y Seguridad Vial, en congruencia con la Estrategia Estatal;
+La Secretaria a través de la Dirección y en coordinación con las instituciones educativas, podrán celebrar convenios con las instituciones del gobierno federal, estatal y municipal para la prestación del servicio social correspondiente.
 
-II. Expedir y mantener actualizados sus reglamentos de tránsito, los cuales deberán estar homologados con las disposiciones mínimas de seguridad vial establecidas en esta Ley;
+###### ARTÍCULO 27.
 
-III. Regular, gestionar y controlar el tránsito de vehículos y peatones en las vías públicas de su competencia;
+Cuando el servicio social requiera de la dedicación total de las actividades del estudiante, la remuneración en ningún caso será menor al salario mínimo.
 
-IV. Instalar y dar mantenimiento a la señalización vial y a los dispositivos de control de tránsito en su jurisdicción;
+###### ARTÍCULO 28.
 
-V. Autorizar la ubicación y el diseño de paradas, bases, sitios y terminales de transporte público, previo dictamen de factibilidad de la Coordinación General;
+Los estudiantes podrán prestar los servicios de índole social en comunidades de escasos recursos, instituciones públicas, privadas o donde la Dirección lo determine a través de asesoría, consultas, aportación de datos o ejecución de trabajos de su profesión, con la vigilancia y aprobación de la misma.
 
-VI. Planear, diseñar y construir la infraestructura para la movilidad peatonal y ciclista en las vías de su competencia;
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2021)</small>
 
-VII. Determinar y administrar los espacios para estacionamiento en la vía pública, incluyendo los destinados a personas con discapacidad;
+Las instituciones de nivel superior promoverán, de conformidad con su normatividad interna, la donación altruista de sangre, lo que podrá conmutarse en forma parcial por horas del servicio social estudiantil.
 
-VIII. Aplicar las sanciones por las infracciones a sus reglamentos de tránsito;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE NOVIEMBRE DE 2023)</small>
 
-IX. Participar en el Sistema Estatal y en el Consejo Estatal, e instalar y operar su propio Consejo Municipal, de conformidad con el Reglamento de esta Ley, y
+Además, se permitirá conmutar el servicio social a los estudiantes de instituciones educativas con carreras o especialidades en ciencias de la salud, mediante capacitación o impartición de cursos, pláticas o talleres para el conocimiento y aplicación de los primeros auxilios, en favor de estudiantes de cualquier institución educativa de cualquier nivel y del personal de la administración pública, tanto Estatal como municipal y a los trabajadores del Poder Legislativo y del Poder Judicial.
 
-X. Las demás que les confiera esta Ley y otros ordenamientos.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE NOVIEMBRE DE 2023)</small>
 
-###### Artículo 21.
+Para efectos de lo mencionado en el párrafo anterior, las instituciones académicas podrán realizar convenios de colaboración entre ellas, con los entes públicos mencionados y con la dirección estatal y las direcciones municipales de protección civil.
 
-Los Ayuntamientos, a través de sus áreas competentes, serán los primeros respondientes en la atención de siniestros de tránsito ocurridos en vías de su jurisdicción, debiendo aplicar los protocolos correspondientes y alimentar la Base de Datos Única de Siniestralidad, cuya integración, administración y operación recaerá en la Coordinación General, conforme a los artículos 48 y 49 de esta Ley.
+### CAPÍTULO VI. DE LOS COLEGIOS DE PROFESIONISTAS
 
-### CAPÍTULO V. DE LAS ATRIBUCIONES DE LOS AYUNTAMIENTOS
+SECCIÓN A
 
-###### Artículo 22.
+DE LOS DERECHOS Y OBLIGACIONES DE LOS COLEGIOS
 
-En materia de desarrollo urbano, los Ayuntamientos serán responsables de autorizar los proyectos de edificación y urbanización, exigiendo el cumplimiento de los Estudios de Impacto de Movilidad y las Evaluaciones de Factibilidad a que se refiere esta Ley.
+###### ARTÍCULO 29.
 
-###### Artículo 23.
+Los profesionistas de una misma rama que cuenten con cédula profesional, pueden organizarse y constituirse para el ejercicio de sus derechos y defensa de sus intereses de carácter profesional, en asociaciones de profesionistas, en los términos de esta Ley y su reglamento.
 
-Los Ayuntamientos promoverán la creación de cuerpos de policía de tránsito especializados, con capacitación en gestión de la movilidad, seguridad vial, perspectiva de género y atención a víctimas.
+###### ARTÍCULO 30.
 
-###### Artículo 24.
+Por cada licenciatura, profesional, técnica, técnica superior especialidad, maestría o doctorado, podrán constituirse en el Estado una o varias asociaciones de profesionistas.
 
-Los Ayuntamientos podrán celebrar convenios entre sí para la gestión coordinada de la movilidad en zonas conurbadas, con el apoyo técnico de la Coordinación General.
+###### ARTÍCULO 31.
 
-###### Artículo 25.
+Toda asociación de profesionistas que en el Estado se constituya contraviniendo las disposiciones constitucionales y legales, no podrá utilizar la denominación de "Colegio", ni será reconocida ni registrada por la Dirección.
 
-Es facultad de los Ayuntamientos regular los servicios de estacionamiento en la vía pública, incluyendo la implementación de sistemas de parquímetros.
+Las asociaciones de profesionistas a nivel licenciatura, técnico, técnico superior, profesional, especialidad, maestría o doctorado, constituidas en los términos del Código Civil, adoptarán el nombre que elijan pero que denote la rama profesional de que se trate, y siempre deberán de iniciar con la palabra "Colegio". Cada colegio podrá tener secciones locales regidas en igual forma que la anterior.
 
-###### Artículo 26.
+Todo profesionista, cumpliendo con los requisitos que exijan las leyes y los reglamentos aplicables, tendrá derecho a formar parte del Colegio de Profesionistas los mismos decidirán sobre la admisión de sus miembros conforme a lo que establezcan sus estatutos; en caso de rechazo, deberán de informarlo por escrito al solicitante mediante acuerdo debidamente fundado y motivado.
 
-La gestión de la movilidad bajo esta Ley tendrá como máxima la protección de la vida y la integridad física de las personas, transitando hacia una visión de cero muertes y lesiones graves por siniestros de tránsito.
+No se podrá autorizar que dos Colegios de profesionistas se ostenten con el mismo nombre o razón social en el Estado.
 
-###### Artículo 27.
+###### ARTÍCULO 32.
 
-La planeación, diseño, implementación y evaluación de la política pública de movilidad, transporte y seguridad vial en el Estado y sus Ayuntamientos se regirán por los siguientes principios:
+Cuando sean varios los colegios de profesionistas de una misma rama del conocimiento, cada uno de ellos designará por mayoría al representante a que se refiere el artículo 62 de esta Ley; en caso de empate, será la Dirección la que elija a las personas designadas, quienes deberán representar al colegio de que se trate.
 
-I. Accesibilidad, garantizar el acceso pleno en igualdad de condiciones, con dignidad y autonomía a todas las personas al espacio público, infraestructura, servicios y vehículos, eliminando barreras físicas, culturales y económicas;
+###### ARTÍCULO 33.
 
-II. Calidad del servicio, garantizar que los sistemas, infraestructura, servicios y vehículos cuenten con los requerimientos y condiciones para su óptimo funcionamiento;
+Para constituir y obtener el registro de un colegio de profesionistas ante la Dirección, deberán cumplir con lo siguiente:
 
-III. Confiabilidad, dar certeza en los tiempos de recorrido, horarios de operación y puntos de abordaje y descenso, para una planeación efectiva de los viajes;
+I. Reunir los requisitos establecidos en el Código Civil vigente relativos a las asociaciones civiles; y
 
-IV. Cuidado colectivo, incorporar transversalmente la dimensión del cuidado colectivo en el sistema de transporte público, para atender las necesidades de los traslados vinculados al cuidado;
+II. Para los efectos del registro del colegio, deberán presentar los siguientes requisitos:
 
-V. Diseño universal, establecer que todos los componentes de los sistemas de movilidad deben seguir criterios de diseño universal para incluir a todas las personas;
+a. Testimonio de la escritura pública de protocolización del acta constitutiva y de los estatutos o reglamentos que los rijan, así como una copia simple de ambos documentos;
 
-VI. Eficiencia, maximizar los desplazamientos ágiles y asequibles, optimizando los recursos ambientales, económicos y tecnológicos;
+b. Un directorio de sus miembros conteniendo copia simple de la cédula profesional así como sus datos personales;
 
-VII. Equidad e Inclusión, reconocer condiciones y aspiraciones diferenciadas para lograr el ejercicio de iguales derechos y oportunidades;
+c. Relación de socios que integran el consejo directivo;
 
-VIII. Habitabilidad, generar condiciones para que las vías cumplan con las funciones de movilidad y creación de espacio público de calidad;
+d. Permiso expedido por la Secretaría de Relaciones Exteriores;
 
-IX. Innovación Tecnológica, incorporar nuevos modelos de gestión y mecanismos de operación e integración para un funcionamiento óptimo;
+e. Programa anual de actividades a realizar que incluya lo relativo al programa de servicio social profesional;
 
-X. Justicia Social, garantizar el acceso equitativo y universal a la movilidad y seguridad vial para todas las personas, priorizando a los grupos en situación de vulnerabilidad y considerando al transporte público como un instrumento fundamental para reducir las desigualdades sociales, asegurar la dignidad humana, promover el bien común y la solidaridad, y facilitar el ejercicio pleno de todos los derechos humanos interrelacionados con la movilidad;
+f. Acreditar una membresía mínima de cincuenta asociados. En aquellos (sic) profesiones en las que en toda la entidad no existiere el número de profesiones requerido, se constituirá con el número existente; y
 
-XI. Legalidad, regular la planeación, diseño y operación en un marco que garantice el debido ejercicio del derecho a la movilidad;
+g. Los demás que le sean solicitados por la Dirección.
 
-XII. Movilidad Activa, promover ciudades caminables, así como el uso de la bicicleta y otros modos de transporte no motorizados;
+###### ARTÍCULO 34.
 
-XIII. Multimodalidad, ofrecer múltiples modos y servicios de transporte articulados e integrados entre sí;
+Los Colegios de Profesionistas constituidos de acuerdo con los requisitos anteriores, tendrán el carácter de personas morales con todos los derechos, obligaciones y atribuciones que señala la Ley respectiva. Asimismo, el Estado les reconocerá personalidad jurídica propia.
 
-XIV. Participación, establecer mecanismos para la participación activa de la sociedad en todo el ciclo de la política pública;
+###### ARTÍCULO 35.
 
-XV. Perspectiva de género, eliminar las causas de la desigualdad y promover la igualdad entre mujeres y hombres;
+La capacidad de los colegios para poseer, adquirir y administrar bienes raíces, se ajustará a lo previsto en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias.
 
-XVI. Progresividad, garantizar que el derecho a la movilidad y sus derechos relacionados estén en constante evolución;
+###### ARTÍCULO 36.
 
-XVII. Rectoría del Estado, construir y consolidar instituciones sólidas, transparentes y eficientes, responsables de garantizar el acceso a servicios de transporte público;
+Las Federaciones y los Colegios de Profesionistas serán ajenos a toda actividad de carácter político y religioso y elaborarán sus estatutos y reglamentos sin contravenir las disposiciones de la presente Ley y su reglamento, depositando un ejemplar en la propia Dirección.
 
-XVIII. Seguridad Vial y Visión Cero, proteger la vida y la integridad física de las personas bajo el principio de que toda muerte o lesión grave por siniestros de tránsito es prevenible, adoptando un Enfoque de Sistemas Seguros que reconoce la falibilidad humana y diseña un sistema que minimice las consecuencias de los errores;
+###### ARTÍCULO 37.
 
-XIX. Sostenibilidad financiera y ambiental, lograr sistemas de transporte con sostenibilidad financiera a partir de la gestión responsable de los recursos y la diversificación de las fuentes de ingreso, promoviendo una movilidad de bajas emisiones, y
+Los Colegios de Profesionistas tienen los siguientes derechos:
 
-XX. Transparencia y rendición de cuentas, garantizar la máxima publicidad y acceso a la información relacionada con la movilidad y la seguridad vial.
+I. Proponer, en materia de profesiones ante la Dirección, la expedición de leyes, reglamentos y sus reformas en los términos de la Ley de la materia;
 
-###### Artículo 28.
+II. Proponer la expedición de normas relativas a los aranceles profesionales;
 
-La planeación, el diseño, la construcción, la operación, la gestión y la presupuestación de la infraestructura y los servicios de movilidad en el Estado y sus Ayuntamientos deberán favorecer en todo momento a las personas y sus necesidades, garantizando la prioridad en el uso y disposición de las vías, de acuerdo con la siguiente jerarquía:
+III. Promover y participar en los programas de actualización profesional;
 
-I. Personas peatonas, con un enfoque equitativo y diferenciado en razón de género, edad, así como para personas con discapacidad y movilidad limitada;
+IV. Promover la creación y fortalecimiento de relaciones con otros Colegios de Profesionistas, ya sea locales, nacionales o internacionales, y fomentar programas de colaboración entre sí;
 
-II. Personas ciclistas y personas usuarias de vehículos de movilidad personal no motorizados;
+V. Proponer en coordinación con la Dirección a las autoridades judiciales y administrativas, las listas de peritos profesionales, cuyos servicios serán preferidos por aquellas, en virtud de sus características y desempeño profesional;
 
-III. Personas usuarias y prestadoras del servicio de transporte público de pasajeros, con un enfoque equitativo y diferenciado;
+VI. Modificar, cuando sea necesario, los estatutos del colegio, dando aviso a la Dirección;
 
-IV. Personas prestadoras de servicios de transporte y distribución de bienes, mercancías y servicios de transporte privado intermediados por plataformas tecnológicas, y
+VII. Gestionar la obtención de créditos pecuniarios en beneficio de su asociación, a efecto de ofrecer mejores servicios directos a la comunidad, y para la realización de actividades académicas, de investigación o de intercambio;
 
-V. Personas usuarias de vehículos motorizados particulares.
+VIII. Colaborar en la elaboración de los planes de estudios profesionales, cuando le sea solicitado por la autoridad competente;
 
-### CAPÍTULO VI. DE LOS PRINCIPIOS RECTORES DE LA MOVILIDAD Y LA POLÍTICA PÚBLICA
+IX. Constituir, en su caso Federaciones de Colegios de Profesionistas de una o diferentes especialidades en los términos de las leyes de la materia y del reglamento respectivo; y
 
-###### Artículo 29.
+X. Los demás que le otorguen esta Ley y las demás disposiciones legales y reglamentarias aplicables.
 
-Los vehículos de emergencia, tales como ambulancias, vehículos de bomberos, protección civil y vehículos policiales, tendrán prioridad de paso sobre los demás vehículos y personas usuarias de la vía cuando circulen con las señales luminosas y audibles en funcionamiento. Las personas conductoras y las personas transeúntes deberán cederles el paso.
+###### ARTÍCULO 38.
 
-###### Artículo 30.
+Los Colegios de Profesionistas tienen las siguientes obligaciones:
 
-La gestión de la seguridad vial en el Estado se basará en el Enfoque de Sistemas Seguros.
+I. Nombrar a un representante ante la Dirección y las demás autoridades en el Estado cuando sea necesario;
 
-Los factores de riesgo concurrentes en la seguridad vial se tomarán bajo el Enfoque de Sistemas Seguros, siendo los siguientes:
+II. Vigilar, en coordinación con la Dirección, que el ejercicio profesional y actividad de sus miembros se realice apegado a derecho, dentro del más alto plano legal, ético y moral, denunciando a las autoridades competentes, las violaciones a los dispositivos legales en que incurran por tal motivo;
 
-I. Velocidades elevadas: Circular rápido aumenta el riesgo y la gravedad de los siniestros;
+III. Fungir como árbitro en los conflictos entre los profesionistas y sus clientes, cuando éstos acuerden someterse al arbitraje, conforme lo establecido en esta Ley;
 
-II. Infraestructura deficiente: Calles mal diseñadas, poca señalización o pasos peatonales inseguros facilitan errores y accidentes;
+IV. Fomentar la cultura general y profesional de sus miembros;
 
-III. Condiciones del vehículo: Fallas mecánicas o autos inseguros incrementan el peligro ante errores humanos;
+V. Prestar la más amplia colaboración al poder público como cuerpos consultivos;
 
-IV. Comportamientos inseguros: Manejar distraído, cansado, bajo efectos de alcohol o drogas, y a efecto de no poner en riesgo vidas, se deberá exigir:
+VI. Expulsar, por acuerdo de la Asamblea General y de conformidad a sus estatutos a los profesionistas que tengan afiliados, que cometan actos que deshonren su profesión y por ende a su agrupación, debiendo de otorgársele al afectado su derecho de audiencia y defensa, desahogando todas las pruebas que se estime conveniente con estricto apego a derecho ;
 
-a) El uso de cinturones de seguridad;
+VII. En caso de que sea decretada la expulsión deberá informar de inmediato a la Dirección;
 
-b) Sistemas de retención infantil, y
+VIII. Establecer y aplicar sanciones a los miembros que incurran en faltas en el cumplimiento de sus deberes profesionales o gremiales;
 
-c) cascos para motociclistas.
+IX. Establecer conforme a la Ley, los mecanismos que les permitan allegarse de fondos para su subsistencia, la realización de sus objetivos y fines esenciales, así como la constitución de su propio patrimonio;
 
-V. No respetar las reglas de tránsito: Ignorar semáforos, límites de velocidad o reglas para peatones y ciclistas multiplica los riesgos.
+X. Colaborar con los Poderes Públicos en consultas profesionales, así como en la investigación científica y técnica siempre que para ello fueren requeridos;
 
-Se deben reconocer y garantizar los derechos de las víctimas de siniestros de tránsito, en especial el derecho a la asistencia, protección, atención, verdad, justicia, reparación integral, debida diligencia y los demás derechos de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que el Estado Mexicano sea parte, la Ley General de Víctimas, así como la Ley de Víctimas del Estado de Morelos.
+XI. Admitir como miembros exclusivamente profesionistas con cédula profesional, en los casos de las profesiones a que se refiere el artículo 6 del presente ordenamiento;
 
-Los factores de riesgo deberán ser tomados en cuenta con base en evidencia y conocimiento local e internacional, para lo cual se debe establecer sistemas de seguimiento, información, documentación y control de lo relativo a la seguridad de los sistemas de movilidad.
+XII. Efectuar todo aquello que tienda a la superación profesional de sus miembros o a un mejor servicio de la comunidad, así como lo que determinen otros ordenamientos legales aplicables;
 
-Las acciones de concertación son necesarias entre los sectores público, privado y social con enfoque multisectorial, a través de mecanismos eficientes y transparentes de participación.
+XIII. Establecer o aplicar sanciones contra los profesionistas que falten al cumplimiento de su deber, siempre que no se trate de actos u omisiones que deban sancionarse por autoridades previamente establecidas y en consideración al caso; y
 
-## TÍTULO SEGUNDO. DE LA GOBERNANZA Y LA PARTICIPACIÓN CIUDADANA
+XIV.- Los demás que establezca esta Ley y su reglamento así como otras disposiciones legales aplicables.
 
-###### Artículo 31.
+###### ARTÍCULO 39.
 
-Se crea el Sistema Estatal como un mecanismo de coordinación, liderazgo y toma de decisiones estratégicas entre las autoridades estatales y municipales, para la formulación, ejecución, seguimiento y evaluación de la política pública en la materia. Este Sistema establecerá canales de interacción permanente para la articulación de la política pública en la materia con la participación de los sectores social, privado y académico.
+Los Colegios de Profesionistas elaborarán su propio Código de Ética Profesional que orientará la conducta de los profesionistas en sus relaciones con la sociedad, las instituciones, sus socios, sus clientes, superiores, subordinados y sus colegas. Este código regulará su desempeño profesional ajustándolo a los más elevados valores humanos, científicos y morales; y constituirá un compromiso social de los profesionistas con la sociedad. Un ejemplar del Código de Ética se deberá enviar a la Dirección, para su registro.
 
-###### Artículo 32.
+###### ARTÍCULO 40.
 
-El Sistema Estatal estará integrado por:
+La Dirección podrá suspender o cancelar el registro de las asociaciones de profesionistas, mediante resolución debidamente fundada y motivada, cuando éstas incumplan con las leyes, reglamentos, demás disposiciones aplicables, sus estatutos o por resolución judicial.
 
-I. La Persona Titular del Poder Ejecutivo Estatal quien la presidirá por sí o por la persona que ésta designe;
+SECCIÓN B
 
-II. La persona titular de la Jefatura de la Oficina de la Gubernatura del Estado;
+DEL ARBITRAJE
 
-III. La persona titular de la Coordinación General quien fungirá como Secretaría Técnica;
+###### ARTÍCULO 41.
 
-IV. La persona titular de la Secretaría de Seguridad y Protección Ciudadana del Poder Ejecutivo Estatal;
+En caso de que el cliente se inconforme por los servicios profesionales prestados, para hacer valer sus derechos, podrá acudir ante los órganos jurisdiccionales competentes o someterse al arbitraje en los términos de esta Ley.
 
-V. La persona titular de la Secretaría de Administración y Finanzas del Poder Ejecutivo Estatal;
+###### ARTÍCULO 42.
 
-VI. La persona titular de la Secretaría de Desarrollo Agropecuario del Poder Ejecutivo Estatal;
+El procedimiento arbitral no interrumpirá los términos para la prescripción de cualquier acción legal.
 
-VII. La persona titular de la Secretaría de Infraestructura del Poder Ejecutivo Estatal;
+###### ARTÍCULO 43.
 
-VIII. La persona titular de la Secretaría de Bienestar del Poder Ejecutivo Estatal, y
+Será árbitro el colegio que designen de común acuerdo las partes de la rama de la profesión de que se trate.
 
-IX. La persona titular de la Presidencia Municipal de cada Ayuntamiento del Estado de Morelos, o la persona designada por ésta.
+###### ARTÍCULO 44.
 
-El Sistema Estatal podrá invitar a participar a otras autoridades de movilidad que se consideren necesarias, así como a aquellas que se estime pertinentes para el debido cumplimiento del objeto de la presente Ley, quienes contarán con voz, pero sin voto.
+El compromiso arbitral deberá constar en escritura pública o privada o mediante acta firmada ante dos testigos, debiendo entregarse un ejemplar a cada una de las partes.
 
-Los cargos de las personas integrantes del Sistema Estatal serán honoríficos, su organización y funcionamiento se detallarán en el Reglamento de la Ley y demás disposiciones normativas aplicables.
+###### ARTÍCULO 45.
 
-###### Artículo 33.
+No puede comprometerse en arbitraje un asunto cuando una de las partes sea un menor y los demás casos en que lo prohiba expresamente algún ordenamiento legal.
 
-El Sistema Estatal tendrá las siguientes atribuciones:
+###### ARTÍCULO 46.
 
-I. Formular, aprobar, evaluar y publicar la Estrategia Estatal;
+Una vez contraído el compromiso arbitral no podrá ser revocado sino por el consentimiento unánime de las partes.
 
-II. Emitir los lineamientos para su organización y funcionamiento, garantizando mecanismos de participación ciudadana efectivos;
+###### ARTÍCULO 47.
 
-III. Establecer las bases de diseño, planeación, operación y evaluación de las políticas públicas estatales en materia de Movilidad, Transporte y Seguridad Vial;
+El compromiso arbitral produce las excepciones de incompetencia y litispendencia si durante el se promueve acción legal ante un tribunal ordinario.
 
-IV. Proponer los criterios técnicos para la homologación de los reglamentos de tránsito municipales, de conformidad con la normativa aplicable;
+###### ARTÍCULO 48.
 
-V. Promover la celebración de convenios de coordinación entre el Estado y los Ayuntamientos y entre Ayuntamientos, para la gestión de la movilidad y la seguridad vial;
+El compromiso arbitral, designará el negocio o negocios que se sujeten al juicio arbitral, el nombre del colegio que fungirá como arbitro, así como el nombre de los árbitros.
 
-VI. Analizar y, en su caso, aprobar las metodologías para la realización de estudios de impacto de movilidad y auditorías de seguridad vial, y
+Si faltare el primer elemento, el compromiso es nulo de pleno derecho, sin necesidad de previa declaración judicial.
 
-VII. Las demás que le confiera esta Ley y demás normativa aplicable.
+Cuando no se contenga el nombre de los árbitros, se entiende que se reservan el derecho para hacerlo, con la intervención del Colegio.
 
-###### Artículo 34.
+###### ARTÍCULO 49.
 
-Se crea el Consejo Estatal como un órgano de carácter consultivo, deliberativo y de participación ciudadana, auxiliar del Sistema Estatal y de la Coordinación General.
+Los árbitros sólo son recusables por las causas que lo fueren los jueces, en los términos de lo que disponga la legislación común. Cuando quienes funjan como árbitro tengan conocimiento de que existe una causa para excusarse, deberán hacerlo del conocimiento de las partes; para los efectos de la sustitución, si ello fuere posible, en caso de que ésta ya no fuere posible y el árbitro no se hubiese excusado, será responsable civilmente de los daños y perjuicios que le fueren imputables, sin perjuicio de lo que disponga la legislación penal.
 
-###### Artículo 35.
+El árbitro que faltare a la obligación contenida en este artículo, quedará impedido definitivamente para fungir como tal en ésta y en cualquier otra materia.
 
-El Consejo Estatal sesionará de forma ordinaria al menos una vez cada seis meses, y de forma extraordinaria las veces que se estimen necesarias por convocatoria de su Presidente o una tercera parte de las personas integrantes. Sus sesiones serán públicas y sus acuerdos se registrarán en actas, de conformidad con lo que establezca la normativa aplicable.
+###### ARTÍCULO 50.
 
-El Consejo Estatal estará integrado por:
+Siempre que haya de sustituirse un árbitro, se suspenderán los términos durante el tiempo que transcurra para hacer el nuevo nombramiento.
 
-a) Con voz y voto:
+###### ARTÍCULO 51.
 
-I. La persona titular de la Coordinación General, quien lo presidirá;
+Los árbitros decidirán, según las reglas de derecho, a menos que en la cláusula respectiva se les encomendara la amigable composición o el fallo en conciencia.
 
-II. La persona titular de la Unidad Operativa de Transporte Público, Privado y Particular de la Coordinación General, o la persona que éste designe, quien fungirá como Secretaría Técnica, y
+###### ARTÍCULO 52.
 
-III. Una persona representante de cada uno de los Consejos Municipales, que será la persona titular de la Presidencia Municipal o la persona que éste designe.
+Los Colegios de Profesionistas deberán integrar un Comité para la evaluación y designación de los profesionistas que fungirán como árbitros en su Colegio, quiénes deberán cumplir con los requisitos de probidad, imparcialidad y de prestigio reconocido en el ejercicio de su profesión.
 
-b) Con voz, pero sin voto:
+###### ARTÍCULO 53.
 
-I. Una persona representante de instituciones de educación superior y centros de investigación con experiencia en la materia;
+La lista de árbitros deberá registrarse ante la Dirección, para efectos de publicidad y difusión.
 
-II. Una persona representante de colegios de profesionistas relacionados con la ingeniería, la arquitectura y el urbanismo;
+###### ARTÍCULO 54.
 
-III. Una persona representante de organizaciones de la sociedad civil dedicadas a la movilidad peatonal, ciclista, de personas con discapacidad y a la seguridad vial;
+De la lista registrada las partes designarán al árbitro o árbitros al que sujetarán el procedimiento, en todo caso la designación recaerá en uno o en tres árbitros.
 
-IV. Una persona representante de las cámaras empresariales en el Estado, y
+###### ARTÍCULO 55.
 
-V. Una persona representante de concesionarios y permisionarios de las distintas modalidades del transporte por región.
+Las partes en el compromiso arbitral fijarán las reglas convencionales a que se sujetará el arbitraje prevaleciendo en éstas el principio de economía procesal.
 
-Los cargos en el Consejo Estatal serán honoríficos, su organización y funcionamiento se regulará en el Reglamento.
+###### ARTÍCULO 56.
 
-###### Artículo 36.
+Salvo lo dispuesto en el compromiso arbitral, en el laudo podrá condenarse al pago de los gastos del arbitraje, así como, el pago de daños y perjuicios.
 
-El Consejo Estatal tendrá las siguientes atribuciones:
+El laudo deberá estar debidamente fundado y motivado.
 
-I. Emitir opiniones y recomendaciones sobre la Estrategia Estatal y los programas que de ella emanen;
+###### ARTÍCULO 57.
 
-II. Analizar y proponer soluciones a las problemáticas de movilidad, transporte y seguridad vial en el Estado;
+Notificado el laudo se procederá a su ejecución en los términos de la legislación común aplicable.
 
-III. Promover la participación ciudadana y la cultura de la movilidad;
+### CAPÍTULO VII. DE LAS INSTITUCIONES AUTORIZADAS PARA EXPEDIR
 
-IV. Dar seguimiento al cumplimiento de los objetivos de esta Ley, y
+TÍTULOS PROFESIONALES Y GRADOS ACADÉMICOS
 
-V. Fungir como instancia de mediación en los conflictos que surjan entre los distintos actores de la movilidad.
+###### ARTÍCULO 58.
 
-###### Artículo 37.
+Las instituciones educativas autorizadas para expedir títulos profesionales, de acuerdo con sus respectivos ordenamientos, son todas las instituciones educativas que formen parte del Sistema Educativo Nacional, que ofrecen carreras de nivel técnico, técnico superior, licenciatura, estudios de especialización, maestría y/o doctorado de la:
 
-Cada uno de los Ayuntamientos del Estado deberá instalar su respectivo Consejo Municipal, como instancia de consulta y participación a nivel local.
+I. Federación y del Estado;
 
-Dichos Consejos estarán presididos por la persona titular de la Presidencia Municipal o la persona que ésta designe al efecto, e integrados de forma honorífica por representantes de la sociedad local.
+II. Sus organismos descentralizados;
 
-Su integración, organización y funcionamiento se regulará en el Reglamento.
+III. Particulares con reconocimiento de validez oficial de estudios;
 
-###### Artículo 38.
+IV. De educación superior que la ley otorga autonomía; y
 
-Los Consejos Municipales tendrán, en su ámbito territorial, funciones análogas a las del Consejo Estatal, enfocadas en la problemática local o municipal, y servirán como el principal canal de comunicación y coordinación con las autoridades municipales y la Coordinación General, debiendo promover también sus Observatorios Ciudadanos Municipales de Movilidad, Transporte y Seguridad Vial.
+V. Particulares con incorporación de estudios.
 
-### CAPÍTULO IV. DEL OBSERVATORIO CIUDADANO ESTATAL DE MOVILIDAD, TRANSPORTE Y SEGURIDAD VIAL
+Los títulos profesionales, expedidos por instituciones que no formen parte del Sistema Educativo Nacional, no tendrán validez ni se registrarán sin la previa revalidación de estudios, conforme a lo dispuesto por las leyes aplicables.
 
-###### Artículo 39.
+Las instituciones extranjeras a las cuales las autoridades federales, reconozcan validez a los estudios que se curse en ellas, y cuyos planes de estudio cuenten con el reconocimiento de validez oficial en sus propios países, observando lo relativo a la legislación federal y a los tratados internacionales al respecto.
 
-Se crea el Observatorio Ciudadano Estatal de Movilidad, Transporte y Seguridad Vial como instancia autónoma de participación ciudadana, de carácter consultivo. Se integrará de manera honorífica por personas representantes de instituciones académicas, colegios de profesionistas, organizaciones de la sociedad civil y del sector empresarial. Su objeto es el análisis, monitoreo, evaluación y generación de opiniones técnicas y recomendaciones sobre las políticas públicas en la materia para fortalecer la transparencia y la rendición de cuentas.
+Las instituciones de educación superior en el Estado que impartan enseñanza en los niveles de licenciatura y postgrado, deben informar a la Dirección respecto de los títulos que expidan y proporcionarle los datos que la misma le solicite.
 
-###### Artículo 40.
+###### ARTÍCULO 59.
 
-El Observatorio Ciudadano Estatal de Movilidad, Transporte y Seguridad Vial, tendrá las siguientes atribuciones:
+Los títulos, en sus diferentes tipos, niveles o denominaciones, o grados académicos, se expedirán a favor de las personas que hayan cumplido con esta Ley y demás disposiciones que rijan en materia de educación, bajo las siguientes denominaciones:
 
-I. Dar seguimiento a la implementación de la Estrategia Estatal y a la incidencia de siniestros de tránsito;
+I.- Título de técnico, a quien haya concluido estudios de tipo medio superior, nivel terminal;
 
-II. Establecer, de entre sus personas integrantes, quien fungirá como órgano técnico de apoyo para el seguimiento de los acuerdos y resoluciones que se emitan;
+II.- Titulo de Técnico Superior, a quien haya concluido estudios de tipo técnico superior; y
 
-III. Solicitar a las autoridades competentes, a través de la Coordinación General, la información pública necesaria para sus análisis, la cual deberá ser entregada en formatos de datos abiertos;
+III.- Los estudios de tipo superior comprenden los siguientes niveles:
 
-IV. Emitir opiniones técnicas no vinculantes sobre proyectos de infraestructura y programas de movilidad;
+a) Título de licenciatura, a quien acredite haber terminado estudios de tipo superior;
 
-V. Publicar una opinión técnica anual sobre el estado de la movilidad y la seguridad vial en Morelos, la cual será presentada ante el Congreso del Estado y la Persona Titular del Poder Ejecutivo Estatal;
+b) Título o diploma de especialidad, a quien haya realizado estudios especiales posteriores a la licenciatura;
 
-VI. Fomentar la deliberación pública informada sobre los retos de la movilidad en el Estado;
+c) Título de maestría, a quien haya concluido estudios de tipo superior posteriores a la licenciatura; y
 
-VII. Formular propuestas y recomendaciones a las autoridades competentes;
+d) Título de doctorado, a quien haya terminado estudios de tipo superior, posteriores a la maestría.
 
-VIII. Difundir información y conocimiento para fortalecer la cultura de la movilidad y la seguridad vial, y
+###### ARTÍCULO 60.
 
-IX. Fomentar la transparencia y la rendición de cuentas.
+Las instituciones de educación media superior y superior establecidas o que se establezcan en el Estado, conforme a los términos de esta Ley, están obligados, en materia de profesiones, a:
 
-La organización y funcionamiento del Observatorio Ciudadano Estatal de Movilidad, Transporte y Seguridad Vial se regulará en el Reglamento y demás normativa aplicable.
+I. Inscribirse en la Dirección, la cual expedirá la constancia respectiva en la que se expresará claramente:
 
-## TÍTULO TERCERO. DE LOS INSTRUMENTOS DE PLANEACIÓN Y GESTIÓN
+a) El nombre de la institución;
 
-### CAPÍTULO I. DE LA PLANEACIÓN, PROGRAMACIÓN Y PROYECCIÓN
+b) La fecha de su expedición; y
 
-###### Artículo 41.
+c) El tipo, niveles y generalidades que la Dirección le solicite respecto a la educación que imparta.
 
-La planeación de la movilidad en el Estado será un proceso continuo, estratégico y participativo, orientado a la consolidación de un sistema integrado de movilidad que garantice la accesibilidad universal y la seguridad de las personas.
+II. Proporcionar a la Dirección:
 
-###### Artículo 42.
+a) Acta constitutiva o decreto de creación;
 
-La Estrategia Estatal será el instrumento rector de la planeación en la materia. Tendrá una visión de largo plazo de al menos veinte años y establecerá los objetivos, metas, indicadores y líneas de acción prioritarias. Deberá ser formulada por el Sistema Estatal, con la participación del Consejo Estatal y actualizada al menos cada seis años.
+b) Acuerdo de autorización, incorporación o reconocimiento de validez oficial de estudios;
 
-###### Artículo 43.
+c) Planes de estudio;
 
-La Estrategia Estatal deberá ser congruente con los planes de desarrollo urbano, de ordenamiento territorial y de protección al ambiente, contendrá, como mínimo lo siguiente:
+d) Reglamento general de la institución que incluya lineamientos para la prestación del servicio social y opciones de titulación;
 
-I. Un diagnóstico exhaustivo de la situación de la movilidad, el transporte y la seguridad vial en el Estado y un diagnóstico de las brechas existentes;
+e) Formatos originales cancelados de la documentación que se le extienda al profesionistas (sic); y
 
-II. Una cartera de programas y proyectos estratégicos, priorizados con base en su impacto social, accesibilidad, de seguridad y sostenibilidad; que incluya movilidad del cuidado y perspectiva de género, y un programa de acción para atender las necesidades de desplazamiento de las mujeres y de las personas que realizan tareas de cuidado, así como para prevenir y erradicar la violencia de género en el transporte y el espacio público;
+f) La demás información que sea solicitada.
 
-III. Los mecanismos de financiamiento y las fuentes de recursos para su ejecución, y
+III. Cuando establezcan nuevas carreras o cursos, en cualquier nivel, deberán informar por escrito a la Dirección con antelación al de su iniciación;
 
-IV. El sistema de seguimiento y evaluación de sus metas e indicadores.
+IV. Informar anualmente los nombres de las personas que hayan concluido sus estudios y a los que se les haya expedido título profesional; y
 
-###### Artículo 44.
+V. Promover en sus planes de estudios el análisis de la legislación aplicable en materia de profesiones, a fin de que todo graduado esté debidamente informado acerca de las obligaciones y derechos que conlleva el ejercicio profesional.
 
-Los Ayuntamientos elaborarán sus Programas Municipales de Movilidad, Transporte y Seguridad Vial y el Plan Integral de Movilidad Urbana Sustentable (PIMUS) en concordancia con su entorno, según corresponda, los cuales deberán estar alineados a la Estrategia Estatal y a sus respectivos planes de desarrollo urbano, los cuales deberán incluir los subprogramas que determine el Reglamento.
+### CAPÍTULO VIII. DE LA DIRECCIÓN ESTATAL DE PROFESIONES
 
-###### Artículo 45.
+###### ARTÍCULO 61.
 
-Cuando una zona metropolitana o conurbación involucre a dos o más Ayuntamientos del Estado, la Coordinación General, en conjunto con los Ayuntamientos involucrados, formulará Programas Metropolitanos de Movilidad. Dichos programas establecerán las políticas, proyectos y mecanismos de coordinación para la gestión integrada de la movilidad y el transporte en el territorio compartido. Los Programas de Movilidad, Transporte y Seguridad Vial, deberán contener, de manera enunciativa más no limitativa, los siguientes subprogramas:
+La Dirección es una dependencia de la Secretaría de Educación del Estado de Durango, encargada de la vigilancia del ejercicio profesional; asimismo es el organismo de conexión entre el Estado y los Colegios de Profesionistas, y responsable de la correcta aplicación de la presente Ley.
 
-I. De infraestructura y movilidad peatonal y no motorizada;
+###### ARTÍCULO 62.
 
-II. De reordenamiento y mejora del transporte público;
+La Dirección formará comisiones técnicas consultivas de cada una de las profesiones, que se encargarán de estudiar y dictaminar sobre los asuntos de su competencia. Cada comisión estará integrada por representantes de la Secretaría, de Instituciones Educativas de Nivel medio superior, superior, técnico, técnico superior, nivel postgrado y un representante por cada uno de los colegios de profesionistas, los cuales deberán ser nombrados por el o los colegios respectivos, hasta integrar un grupo de 3 a 5 miembros por cada comisión. Serán atribuciones de las comisiones técnicas consultivas las marcadas en el reglamento respectivo.
 
-III. De gestión del tránsito y seguridad vial;
+###### ARTÍCULO 63.
 
-IV. De administración de estacionamientos en vía pública y fuera de ella, y
+La Dirección tendrá las facultades y obligaciones siguientes:
 
-V. De logística y transporte de carga urbana.
+I. Llevar el registro y dar seguimiento al funcionamiento de los colegios de profesionistas, extendiendo a su favor la constancia respectiva;
 
-###### Artículo 46.
+II. Supervisar el funcionamiento de los colegios de profesionistas y suspender y cancelar su registro por las causas señaladas en esta Ley, previo el procedimiento de audiencia y defensa contemplado en el Reglamento;
 
-La Coordinación General, a través de las unidades administrativas que determine su Reglamento, brindará asesoría técnica a los Ayuntamientos que así lo soliciten para la elaboración de sus programas, estudios y proyectos en la materia.
+III. Vigilar el debido cumplimiento del servicio social profesional en coordinación con los profesionistas;
 
-### CAPÍTULO II. DEL SISTEMA ESTATAL DE INFORMACIÓN DE MOVILIDAD, TRANSPORTE Y SEGURIDAD VIAL
+IV. Llevar el registro de las instituciones de educación superior que expidan título, diploma o grado académico, respecto a los estudios que en las mismas se hayan cursado; así como de los planes de estudio de las carreras, especialidades, maestrías, o doctorados que en éstas se lleven;
 
-###### Artículo 47.
+V. Cancelar el registro de los títulos, diplomas o grado (sic) académicos a que se refiere esta Ley, en cumplimiento de sentencia ejecutoriada dictada por autoridad judicial competente;
 
-La Coordinación General será responsable de integrar, administrar y operar el Sistema Estatal de Información de Movilidad, Transporte y Seguridad Vial en coadyuvancia con la Agencia de Transformación Digital Estatal. Este Sistema concentrará, estandarizará y publicará la información e indicadores para la planeación, gestión y evaluación de la política pública.
+VI. Otorgar la autorización provisional a los estudiantes para ejercer en los términos del artículo 20 de esta ley, previo el pago de derechos correspondientes;
 
-###### Artículo 48.
+VII. Expedir constancias de actualización y práctica profesional, acreditadas por los colegios de profesionistas previo el pago de los derechos correspondientes;
 
-El Sistema Estatal de Información de Movilidad, Transporte y Seguridad Vial se integrará, al menos, por los siguientes registros:
+VIII. Promover la unificación del nombre de las distintas carreras profesionales y de postgrado que se cursen en el Estado, así como orientar con la participación de los colegios de profesionistas, en la distribución de la matrícula de los estudios superiores cuando le sea solicitado;
 
-I. Registro Público del Transporte, que incluye las siguientes modalidades: Transporte Público, Transporte Privado y Transporte Particular;
+IX. Podrá efectuar a través de su personal capacitado, inspecciones a los lugares de trabajo de los que se ostenten como profesionistas, a efecto de comprobar que cuentan con los requisitos y autorizaciones legales correspondientes en la materia, con apego a las prevenciones contenidas en el artículo 16 Constitucional;
 
-II. Registro Estatal de Licencias y Permisos de Conducir, incluyendo seguros asociados y puntos;
+X. Pedir informes a los colegios de profesionistas respecto al ejercicio profesional de sus afiliados;
 
-III. Registro de Infracciones, incluyendo reincidencia y responsabilidad en siniestros viales cometidos bajo el influjo de alcohol o drogas;
+XI. Elaborar, organizar y actualizar permanentemente, el Padrón de Profesionistas en el Estado.
 
-IV. Registro Estatal del Archivo de Expedientes de Trámites en todas sus modalidades y Correspondencia relativa a la Coordinación General;
+Para tal efecto la Dirección contará con el apoyo de los colegios de profesionistas, de las autoridades estatales y municipales y de las instituciones de educación superior pública y privadas. Podrá también solicitar apoyo a las autoridades federales;
 
-V. Base de Datos Única de Siniestralidad Vial con el registro georreferenciado de siniestros de tránsito, con datos detallados sobre ubicación, tipo de vehículos, características de las víctimas, factores de riesgo concurrentes (velocidad, alcohol) y cinemática del trauma;
+XIV. Aplicar las sanciones en materia de profesiones conforme a las disposiciones legales aplicables, así como resolver los recursos que promuevan en el ámbito de su competencia;
 
-VI. Datos del primer respondiente y de la atención médica prehospitalaria por cada siniestro;
+XV. Ordenar la publicación en el Periódico Oficial del Estado y en los diarios de mayor circulación cuando lo considere conveniente, de las resoluciones y comunicaciones en materia de profesiones;
 
-VII. Encuestas de movilidad origen-destino, incluyendo la movilidad del cuidado;
+XIV. Ordenar a los Colegios de Profesionistas la publicación del Código de Ética Profesional respectivo, en el Periódico Oficial del Gobierno del Estado;
 
-VIII. Registro de Empresas de Redes de Transporte (ERT), sus vehículos y conductores;
+XV. Ordenar anualmente, la publicación en el Periódico Oficial del Estado de la lista completa de los profesionistas que fueron registrados y autorizados para el ejercicio profesional durante el año anterior;
 
-IX. Registro de permisos de carga en la modalidad público, privado y particular;
+XVI. Proporcionar información respecto al registro, expedición de cédulas, constancias o autorizaciones que lleva a cabo la Dirección a quien demuestre interés jurídico;
 
-X. Registro de gestión de validaciones y Constancias de Identidad Vehicular;
+XVII. Recopilar datos relacionados con las instituciones de educación superior, de enseñanza normal, de profesional técnica, y colegios de profesionistas, sobre regulación, apoyo, organización y control del ejercicio profesional en la República Mexicana y en el Extranjero;
 
-XI. Registro de gestión de validaciones de las Pólizas de Seguros emitidos por las aseguradoras y Fondos de Garantía;
+XVIII. Llevar memoria, de los profesionistas que residan en el Estado, aún cuando declaren no ejercer su profesión en el mismo;
 
-XII. Registro de certificaciones de revisión físico-mecánica, y
+XIX. Llevar la estadística del ejercicio profesional en el Estado;
 
-XIII. La implementación e inventario de la infraestructura vial, peatonal y ciclista.
+XX. Vigilar que la publicidad profesional se realice con los requisitos que establece la presente Ley, su Reglamento, y demás disposiciones aplicables;
 
-###### Artículo 49.
+XXI. Hacer del conocimiento del Ministerio Público de los actos y omisiones que puedan ser constitutivos de delito, en que incurran quienes se ostenten como profesionistas;
 
-La Base de Datos Única de Siniestralidad Vial será alimentada por la Secretaría de Seguridad y Protección Ciudadana del Poder Ejecutivo Estatal, las policías de tránsito municipales y la Fiscalía General del Estado. Contendrá para cada siniestro, y como mínimo, la siguiente información georreferenciada:
+XXII. Promover la celebración de convenios de colaboración, con instituciones de educación superior, profesional técnica o de enseñanza normal, para efecto de participar en programas de becas y actividades tendientes a lograr la titulación, registro y autorización en forma expedita; y
 
-I. Ubicación, fecha, hora y clasificación del siniestro vial;
+XXIII. Las demás que se encuentren establecidas en esta Ley y su reglamento y en otras disposiciones legales aplicables.
 
-II. Número y tipo de vehículos involucrados;
+###### ARTÍCULO 64.
 
-III. Número de personas lesionadas y fallecidas, desagregadas por tipo de persona usuaria y características sociodemográficas;
+El pago de derechos por la expedición de autorizaciones y constancias a que se refiere el artículo anterior, se hará conforme lo señale la legislación fiscal aplicable.
 
-IV. Causas probables del siniestro, incluyendo factores de riesgo como velocidad, alcohol o distracción, y
+### CAPÍTULO IX. DE LAS FALTAS, RESPONSABILIDADES Y SANCIONES
 
-V. Características de la vía y del entorno.
+EN MATERIA DE PROFESIONES
 
-###### Artículo 50.
+###### ARTÍCULO 65.
 
-Las autoridades estatales y municipales competentes tienen la obligación de recabar y remitir a la Coordinación General, de forma periódica y estandarizada, la información necesaria para mantener actualizado el Sistema Estatal de Información. La Coordinación General celebrará convenios con la Fiscalía General del Estado, la Secretaría de Salud, la Secretaría de Seguridad y Protección Ciudadana del Poder Ejecutivo Estatal y los Ayuntamientos para garantizar el flujo constante y estandarizado de información para alimentar la Base de Datos Única de Siniestralidad Vial.
+Las responsabilidades y sanciones por las infracciones administrativas a esta Ley serán dictaminadas por la Dirección en los términos de la legislación aplicable en la materia.
 
-###### Artículo 51.
+Los delitos que cometan los profesionistas en el ejercicio de la profesión, serán castigados por las autoridades competentes, conforme a lo dispuesto en la legislación penal aplicable.
 
-La información contenida en el Sistema Estatal de Información de Movilidad, Transporte y Seguridad Vial, que no sea considerada como reservada o confidencial en términos de la legislación en materia de transparencia, será de acceso público y se publicará en un portal de datos abiertos.
+Se concede acción popular para denunciar a quienes sin título legalmente expedido o sin autorización, ejerzan cualquier profesión de las reguladas por esta Ley.
 
-###### Artículo 52.
+###### ARTÍCULO 66.
 
-La Coordinación General, con la participación del Consejo Estatal, definirá y publicará un Sistema de Indicadores Clave de Desempeño (KPIs) para evaluar el cumplimiento de los objetivos de la Estrategia Estatal. Estos indicadores medirán, al menos, la reducción de siniestros, los tiempos de viaje, la calidad del servicio de transporte público, la satisfacción de las personas usuarias y el cambio modal hacia la movilidad sostenible. Los resultados de estos indicadores serán públicos, de fácil acceso y se actualizarán de forma semestral en el portal de datos abiertos del portal de la Coordinación General. El Observatorio Ciudadano de Movilidad y Seguridad Vial utilizará estos indicadores como base para la elaboración de su opinión técnica anual y podrá emitir recomendaciones para la mejora del desempeño.
+Serán consideradas como infracciones a esta Ley:
 
-### CAPÍTULO III. DE LOS INSTRUMENTOS DE GESTIÓN DE LA DEMANDA Y EL IMPACTO EN LA MOVILIDAD
+I. De las instituciones educativas:
 
-###### Artículo 53.
+a). Fungir como institución educativa sin la autorización correspondiente.
 
-La Coordinación General, en coordinación con los Ayuntamientos, podrá proponer y establecer zonas de tránsito controlado o de bajas emisiones en áreas urbanas de alta demanda de viajes, con el fin de priorizar la seguridad vial, la movilidad activa, el transporte público y reducir el volumen de vehículos contaminantes o de alto riesgo, de conformidad con lo establecido en el Reglamento.
+b). Impartir cursos, talleres, diplomados y enseñanza, sin contar con los registros respectivos;
 
-###### Artículo 54.
+c). Expedir títulos profesionales sin contar con el registro de la Dirección; y
 
-Las disposiciones para la operación de las zonas a que se refiere el artículo anterior podrán incluir, de manera enunciativa más no limitativa:
+d). Modificar o alterar los planes de estudio sin la autorización correspondiente.
 
-I. Restricciones de circulación por horario, día, tipo de vehículo o nivel de emisiones contaminantes;
+II. De los profesionistas:
 
-II. Tarifas por acceso o congestionamiento, cuyos ingresos se destinarán al Fondo Estatal de Movilidad y Seguridad Vial, y
+a) Ostentarse como profesionista sin serlo y realizar actos propios de alguna de las profesiones señaladas en el artículo 6 de esta Ley;
 
-III. Sistemas de control y vigilancia automatizados para verificar el cumplimiento de las disposiciones.
+b) Ejercer la profesión habiéndosele decretado judicialmente la suspensión para tal efecto;
 
-###### Artículo 55.
+c) No señalar en su publicidad o papelería profesional su nombre completo, la profesión que ostenta y postgrado en su caso, y el número de la cédula profesional en su caso o la autorización respectiva; y
 
-El Poder Ejecutivo Estatal y los Ayuntamientos, en el ámbito de sus respectivas competencias, podrán implementar instrumentos económicos, fiscales y tarifarios para incentivar el uso de modos de transporte sostenibles y desincentivar el uso del vehículo particular motorizado, como la política de Desarrollo Orientado al Transporte (DOT).
+d) No exhibir el título y cédula profesional en lugar visible en su domicilio profesional.
 
-###### Artículo 56.
+III. De las Asociaciones de Profesionistas:
 
-Estarán sujetos a la obtención de una Evaluación de Factibilidad en Materia de Movilidad, previo a la licencia de construcción municipal, todos aquellos proyectos, obras y actividades, públicos o privados, que por su magnitud y características puedan alterar significativamente los patrones de movilidad o la seguridad vial. La Evaluación de Factibilidad en Materia de Movilidad será emitida por la Coordinación General, previo análisis del estudio presentado por el promovente, de acuerdo con el procedimiento y los criterios que se establezcan en el Reglamento.
+a) Utilizar en su denominación la expresión "Colegio de" por alguna agrupación de profesionistas que no esté expresamente autorizada para ello conforme a esta Ley; y
 
-El Reglamento establecerá los umbrales y tipologías de proyectos sujetos a esta disposición, incluyendo, de manera enunciativa más no limitativa:
+b) No observar las obligaciones que esta Ley les impone.
 
-I. Desarrollos habitacionales de más de 50 viviendas;
+###### ARTÍCULO 67.
 
-II. Centros comerciales, educativos, hospitalarios o de oficinas con una superficie construida mayor a 2,500 m2;
+Las sanciones por incumplimiento a la presente Ley, son:
 
-III. Zonas y parques industriales, y
+I. La amonestación;
 
-IV. Cualquier otra edificación que implique una concurrencia masiva de personas o vehículos.
+II. La multa;
 
-###### Artículo 57.
+III. La suspensión del ejercicio profesional;
 
-El Estudio de Impacto de Movilidad que el promovente presente para sustentar la solicitud de la Evaluación de Factibilidad en Materia de Movilidad, deberá ser elaborado por un especialista en la materia y contener, como mínimo:
+IV. La suspensión temporal a las instituciones educativas y asociaciones;
 
-I. Diagnóstico de las condiciones de movilidad preexistentes en el área de influencia;
+V. La cancelación definitiva de la cédula profesional; y
 
-II. Estimación de la generación y atracción de viajes por modo de transporte;
+VI. La cancelación del registro de colegios de profesionistas o instituciones educativas.
 
-III. Análisis del impacto sobre la capacidad de la red vial y del servicio de transporte público;
+###### ARTÍCULO 68
 
-IV. Análisis de impacto sobre la seguridad vial de peatones, ciclistas y demás personas usuarias, y
+La amonestación consiste en la advertencia que la Dirección hace al profesionista, a las instituciones educativas, asociaciones y colegios de profesionistas, explicando las consecuencias de la infracción.
 
-V. Propuesta detallada y presupuestada de medidas de mitigación.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
-### CAPÍTULO VII. DE LA JERARQUÍA DE LA MOVILIDAD Y EL ENFOQUE DE SISTEMAS SEGUROS
+###### ARTÍCULO 69.
 
-###### Artículo 58.
+La multa consiste en el pago de una cantidad de dinero ante la Recaudación de Rentas del domicilio del infractor, la cual no podrá ser menor del importe de 20 veces la Unidad de Medida y Actualización ni mayor de 500. El cobro de las multas se hará conforme al procedimiento Administrativo de Ejecución.
 
-Las medidas de mitigación deberán estar dirigidas a reducir y compensar el impacto generado, pudiendo incluir, según la escala del proyecto:
+###### ARTÍCULO 70.
 
-I. A escala local, mejora de banquetas, construcción de cruces peatonales seguros, conectividad con ciclovías existentes y mejora de paradas de transporte público, y
+La suspensión consiste en la inhabilitación por mandato judicial para el ejercicio profesional por un término no mayor de dos años y se aplicará en casos y faltas graves o reincidencias.
 
-II. A escala de corredor o ciudad, aportaciones en obra o económicas para financiar proyectos de transporte masivo, ciclovías, sistemas de bicicletas públicas, o programas de gestión de la velocidad.
+###### ARTÍCULO 71.
 
-###### Artículo 59.
+La cancelación de la cédula profesional consiste en la inhabilitación definitiva para el ejercicio profesional, y se decretará solamente en casos de faltas graves, según su magnitud.
 
-Se crea el Fondo Estatal de Movilidad y Seguridad Vial, administrado por la Coordinación General, el cual operará en términos de la normativa aplicable y de conformidad con los lineamientos que en su momento expida la autoridad competente. A dicho fondo se destinarán los recursos derivados de multas por infracciones estatales a esta Ley. Sus recursos se emplearán exclusivamente para financiar los proyectos y programas previstos en esta Ley. Los recursos derivados de multas serán recaudados por la autoridad fiscal del Estado, la cual deberá enterarlos íntegramente a dicho Fondo en los términos que establezcan los convenios de colaboración correspondientes.
+###### ARTÍCULO 72
 
-## TÍTULO CUARTO. DE LA MODERNIZACIÓN Y TRANSFORMACIÓN DEL TRANSPORTE PÚBLICO
+La cancelación del registro del colegio de profesionistas, se decretará cuando el número de miembros es inferior al mínimo previsto por esta Ley y cuando la organización incurra en reiteradas violaciones a esta Ley, siempre y cuando se acrediten fehacientemente.
 
-### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES DEL SERVICIO PÚBLICO
+Para los efectos de la primera parte de este precepto, cuando el número de miembros de un colegio bajare del mínimo que señala la Ley, la Dirección le concederá un término no mayor de tres meses para que lo complete. Transcurrido el plazo sin haberlo logrado se cancelará el registro.
 
-###### Artículo 60.
+###### ARTÍCULO 73.
 
-El servicio de transporte público es una función de utilidad pública e interés general, cuya rectoría corresponde al Poder Ejecutivo Estatal. Su prestación deberá garantizar el desplazamiento o movilidad de la población, de manera segura, accesible, continua, eficiente, de calidad y con tarifas justas, conforme a los estudios técnicos correspondientes.
+La cancelación del registro de instituciones educativas, se decretará en los casos previstos en esta Ley, su reglamento y la demás legislación aplicable en la materia.
 
-### CAPÍTULO I. DEL SISTEMA ESTATAL
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
-###### Artículo 61.
+###### ARTÍCULO 74.
 
-La rectoría del servicio de transporte público corresponde al Poder Ejecutivo Estatal, quien la ejercerá a través de la Coordinación General, con las facultades de planeación, regulación, gestión, supervisión, evaluación y sanción establecidas en esta Ley y su Reglamento.
+Cuando una persona ostente como pasante o profesionista sin serlo, y realice actos propios de una actividad profesional de las referidas en el artículo 6 de esta Ley, no tendrá derecho a percibir honorarios. La contravención a lo dispuesto en el párrafo anterior, se sancionara con una multa hasta por el equivalente a 500 veces la Unidad de Medida y Actualización.
 
-###### Artículo 62.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
-El servicio de transporte público de pasajeros se clasifica en colectivo e individual. El servicio colectivo puede ser:
+###### ARTÍCULO 75.
 
-I. Colectivo, operado en paraderos o estaciones fijas y sistemas de pago centralizado;
+Cuando se compruebe que existió falsedad en los documentos que presentaron los profesionistas para su inscripción y registro ante la Dirección, se efectuara la cancelación del mismo y se revocara la autorización para el ejercicio profesional, independientemente de las sanciones penales a las que se haga acreedor, se la (sic) impondrá por aparte (sic) de la Dirección una multa hasta por el equivalente a 500 veces la Unidad de Medida y Actualización.
 
-II. Convencional, operado con autobuses, combis o tipo panel en rutas definidas, con base de llegada y salida, paradas intermedias, tarifas autorizadas y horarios fijos, y
+La Dirección deberá de efectuar la denuncia correspondiente ante el Ministerio Público.
 
-III. Servicio individual, es aquel que se presta sin itinerario ni horario fijo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
-### CAPÍTULO II. DEL RÉGIMEN DE LAS CONCESIONES DE TRANSPORTE PÚBLICO Y LOS MODELOS DE GESTIÓN
+###### ARTÍCULO 76.
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES COMUNES
+Queda prohibido el uso de la expresión "Colegio" a las agrupaciones o asociaciones de profesionistas constituidas en el Estado, que no hayan sido reconocidas y debidamente registradas ante la Dirección en los términos de esta Ley. A quienes infrinjan esta disposición, la Dirección no les autorizará por ningún concepto en el término de 5 años el funcionamiento de agrupación profesional alguna y se les impondrá una multa hasta por el equivalente a 400 veces la Unidad de Medida y Actualización.
 
-###### Artículo 63.
+En tratándose de las agrupaciones, la sanción se impondrá en forma solidaria para cada una de las personas que la integran.
 
-La prestación del servicio de transporte público en sus modalidades de colectivo, individual de pasajeros (taxi) y de carga, requerirá de una concesión, mediante la cual la Persona Titular del Poder Ejecutivo Estatal, a través de la Coordinación General, confiere a una persona física o moral el derecho para la prestación de dicho servicio, en los términos y condiciones que establecen esta Ley, su Reglamento y el título respectivo.
+###### ARTÍCULO 77.
 
-###### Artículo 64.
+Los profesionistas serán responsables en los términos del Código Civil del Estado.
 
-El otorgamiento de concesiones se realizará mediante licitación pública, asegurando los principios de legalidad, transparencia, competencia y libre concurrencia.
+###### ARTÍCULO 78.
 
-Las bases de todo concurso deberán privilegiar a ciudadanos morelenses, garantizando la calidad, la seguridad, la accesibilidad, la eficiencia y la sostenibilidad de las propuestas.
+Para la imposición de sanciones por comisión de faltas a esta Ley siempre se tomarán en cuenta las circunstancias en que fueron cometidas, la gravedad y consecuencias de las mismas así como el prestigio profesional y la situación económica del infractor.
 
-En ningún caso podrán otorgarse más de tres concesiones del servicio de transporte público, registradas a nombre de una sola persona, aun cuando se trate de una modalidad distinta.
+### CAPÍTULO X. DEL PROCEDIMIENTO PARA LA IMPOSICIÓN
 
-### CAPÍTULO II. DEL CONSEJO ESTATAL
+DE LAS SANCIONES Y DEL RECURSO DE RECONSIDERACIÓN
 
-###### Artículo 65.
+###### ARTÍCULO 79.
 
-La convocatoria para la licitación pública deberá contener, como mínimo:
+La Dirección, al tener conocimiento de algún hecho u omisión que infrinja las disposiciones de esta Ley, y si considera que se ha cometido algún delito, hará la denuncia correspondiente ante el Ministerio Público; si se trata de faltas, lo hará del conocimiento del infractor para que dentro de un plazo de cinco días hábiles, contados a partir del día siguiente en que sea notificada, comparezca a exponer lo que a su interés convenga, pudiendo ofrecer pruebas por escrito.
 
-I. El objeto de la licitación, incluyendo la descripción de las rutas o corredores;
+Transcurrido el plazo indicado, la Dirección, señalará fecha y lugar para que tenga verificativo la audiencia de desahogo de pruebas.
 
-II. Los requisitos de carácter técnico, financiero, legal y administrativo que deberán cumplir los interesados;
+El día señalado para la audiencia, la Dirección, recibirá las pruebas ofrecidas y los alegatos que produzcan las partes, y a más tardar; siete días después, dictará la resolución que corresponda debidamente fundada y motivada, misma que se notificará a las partes.
 
-III. La declaratoria de necesidad y el estudio técnico que justifique el otorgamiento de la concesión;
+Si el plazo señalado en el párrafo anterior resultare insuficiente para dictar resolución, podrá ampliarse hasta por siete días más.
 
-IV. Los criterios de evaluación de las propuestas, especificando la ponderación de cada uno;
+###### ARTÍCULO 80.
 
-V. El plazo y lugar para la adquisición de las bases y la presentación de propuestas, y
+La Dirección tendrá las más amplias facultades para allegarse de oficio de los elementos probatorios que estime necesario, conforme a derecho, para obtener el mejor conocimiento de los asuntos sometidos a su resolución, y deberán de apegarse a los procedimientos que establece esta Ley, su Reglamento y demás disposiciones aplicables.
 
-VI. Las garantías que deberán otorgarse.
+###### ARTÍCULO 81.
 
-El procedimiento de la licitación correspondiente se llevará a cabo conforme a la Ley de la materia.
+Contra las resoluciones dictadas por la Dirección, podrá interponerse por escrito recurso de reconsideración ante la misma, la cual deberá resolver dentro de los diez días hábiles siguientes a la recepción.
 
-###### Artículo 66.
+###### ARTÍCULO 82.
 
-La concesión podrá otorgarse hasta por un plazo máximo de diez años, o el plazo que mejor se ajuste al proyecto de movilidad correspondiente, tomando en cuenta la vida útil de las unidades vehiculares que se pretendan incorporar al servicio autorizado.
+El plazo para interponer el recurso de reconsideración será de diez días hábiles a partir de la fecha en que surta efectos la notificación de la resolución administrativa impugnada.
 
-Las concesiones se podrán renovar por un plazo igual, siempre que el concesionario:
+###### ARTÍCULO 83.
 
-I. Lo solicite a la Coordinación General con antelación a su vencimiento, en términos de lo dispuesto en el Reglamento;
+El recurso de reconsideración deberá presentarse por escrito, cumpliendo los siguientes requisitos:
 
-II. Haya cumplido con todas las obligaciones estipuladas en esta Ley, su Reglamento y el título de concesión, y
+I. Precisar el acto o resolución impugnado;
 
-III. Exista una evaluación favorable de su desempeño por parte de la Coordinación General, que garanticen la calidad y seguridad del servicio.
+II. Señalar la fecha en que se le notificó;
 
-###### Artículo 67.
+III. Mencionar de manera expresa y clara los hechos en que se funde la impugnación y los agravios que le cause la resolución impugnada; y
 
-Las concesiones son intransferibles, salvo los supuestos que esta Ley expresamente establece, cualquier acto que implique la cesión, gravamen, enajenación o transferencia de los derechos derivados de una concesión sin la autorización expresa y por escrito de la Coordinación General, será nulo de pleno derecho y causa de revocación. El procedimiento para la transmisión de derechos se regulará en el Reglamento.
+IV. Los preceptos presuntamente violados.
 
-###### Artículo 68.
+###### ARTÍCULO 84.
 
-Será nula de pleno derecho toda concesión otorgada en contravención a las disposiciones de esta Ley, particularmente si:
+La omisión de cualquiera de los requisitos mencionados en el artículo anterior, o cuando sea notoriamente improcedente por haber fenecido el plazo legal para su presentación, dará lugar al desechamiento del recurso.
 
-I. Se otorga sin seguir el procedimiento de licitación pública, salvo en los casos de excepción debidamente fundados y motivados que prevea la Ley de la materia;
+###### ARTÍCULO 85.
 
-II. Es otorgada por una autoridad incompetente;
+La Dirección, al resolver el recurso, podrá:
 
-III. Se basa en información o documentos falsos presentados por el solicitante, y
+I. Sobreseerlo;
 
-IV. Cualquier otra causal prevista en las leyes respectivas.
+II. Confirmar la resolución impugnada; y
 
-###### Artículo 69.
+III. Revocar total o parcialmente la resolución impugnada.
 
-Las concesiones se extinguen por las causas y bajo los procedimientos establecidos en esta Ley y su Reglamento, incluyendo, entre otras:
+###### ARTÍCULO 86.
 
-I. Vencimiento del plazo de vigencia;
+Procede el sobreseimiento:
 
-II. Renuncia del titular;
+I. Cuando el inconforme se desista expresamente del recurso;
 
-III. Desaparición del objeto o finalidad de la concesión;
+II. Cuando hayan cesado los efectos de la resolución impugnada; y
 
-IV. Resolución judicial;
+III. Cuando el inconforme fallezca.
 
-V. Caducidad en los siguientes casos:
+###### ARTÍCULO 87.
 
-a) Por no iniciar la prestación del servicio dentro del plazo fijado en la concesión;
+La resolución que resuelva el recurso deberá estar debidamente fundada y motivada, ocupándose de todos y cada uno de los motivos de inconformidad hechos valer por el recurrente, examinando en su conjunto los agravios, a fin de resolver la cuestión efectivamente planteada.
 
-b) Por muerte de la persona titular, y
+###### ARTÍCULO 88.
 
-c) Por carecer de instalaciones, equipo y accesorios exigidos por la presente Ley y su Reglamento y demás normativa legal aplicable.
+La interposición del recurso suspenderá la ejecución de las sanciones pecuniarias si el infractor garantiza el interés fiscal.
 
-VI. Revocación.
+###### ARTÍCULO 89.
 
-El procedimiento para la extinción de las concesiones se regulará en el Reglamento.
+En el procedimiento administrativo de imposición de sanciones por faltas cometidas a esta Ley, son admisibles todas las pruebas que autoriza el Código de Procedimientos Civiles del Estado, excepto la confesión en tratándose de autoridad.
 
-###### Artículo 70.
+###### ARTÍCULO 90.
 
-La Coordinación General podrá revocar la concesión, previo derecho de audiencia al titular, por las causas graves siguientes:
+En la tramitación del recurso previsto en esta Capítulo, así como en el procedimiento para imponer sanciones, serán aplicables supletoriamente las disposiciones del Código de Procedimientos Civiles para el Estado de Durango.
 
-I. Prestar el servicio en condiciones distintas a las autorizadas, afectando la seguridad de los usuarios;
-
-II. Interrumpir el servicio de forma total o parcial sin causa justificada;
-
-III. Ceder, gravar o transferir la concesión o sus derechos sin autorización expresa;
-
-IV. No mantener vigentes las pólizas de seguro requeridas;
-
-V. Dejar de cumplir con las obligaciones inherentes a la concesión o con las condiciones y modalidades dadas para la prestación del servicio;
-
-VI. Realizar cobros por conceptos no establecidos o mayores a los estipulados en la normativa legal;
-
-VII. Acumular sanciones por infracciones graves de manera reiterada, conforme a lo previsto en el Reglamento, y
-
-VIII. Las demás que se establezcan en el título de concesión.
-
-El procedimiento para la revocación de la concesión se regulará en el Reglamento.
-
-###### Artículo 71.
-
-El título de concesión deberá contener, además de los requisitos generales que establezca el Reglamento, como mínimo, lo siguiente:
-
-I. El nombre completo de la persona física o moral concesionaria, así como datos fiscales;
-
-II. La descripción precisa de la modalidad de concesión autorizada;
-
-III. La vigencia de la concesión, y
-
-IV. Derechos, obligaciones y demás particularidades.
-
-#### SECCIÓN SEGUNDA. DE LA CONCESIÓN PARA EL SERVICIO DE TRANSPORTE PÚBLICO COLECTIVO MODELO RUTA-EMPRESA
-
-###### Artículo 72.
-
-La Coordinación General realizará un diagnóstico por región de transporte público colectivo para determinar su bloque estratégico de actuación actual. Con base en ello, establecerá un modelo de gestión objetivo y un plan maestro de transición para migrar de esquemas de concesión individual a modelos de gestión ruta-empresa, cuenca de servicio o corredores, según corresponda.
-
-###### Artículo 73.
-
-La concesión para el servicio de transporte público colectivo en rutas, corredores o cuencas de servicio se otorgará exclusivamente a personas morales constituidas bajo el modelo de gestión ruta-empresa, cuenca de servicio o corredores, el otorgamiento de éstas será preferentemente a los actuales concesionarios del transporte público, en términos de la normativa aplicable. Queda prohibido el otorgamiento de nuevas concesiones individuales para esta modalidad.
-
-###### Artículo 74.
-
-La Coordinación General elaborará y publicará un Plan Maestro de Transición que definirá las etapas, incentivos y plazos para la migración de las rutas operadas bajo esquemas individuales al modelo de gestión ruta-empresa, cuenca de servicio o corredores.
-
-Dicho Plan deberá incluir, como mínimo:
-
-I. El diagnóstico operativo y financiero de cada ruta o sistema (bloque estratégico de actuación);
-
-II. La agrupación de concesionarios individuales existentes en una nueva persona moral para que participen con preferencia en la licitación de su ruta, siempre que acrediten el cumplimiento de los requisitos técnicos, financieros y administrativos, y
-
-III. El procedimiento a seguir en la licitación pública correspondiente.
-
-###### Artículo 75.
-
-El título de concesión deberá contener, además de los requisitos generales que establezca el Reglamento, como mínimo, lo siguiente:
-
-I. El nombre y razón social de la persona moral concesionaria;
-
-II. La descripción precisa de la ruta, corredor o cuenca de servicio, incluyendo itinerarios, horarios y frecuencias;
-
-III. La descripción detallada y características de la flota vehicular autorizada, la cual deberá cumplir con las normas de seguridad, accesibilidad y bajas emisiones, así como de identidad vehicular y cromática establecidas en el Reglamento y en las normas técnicas correspondientes;
-
-IV. Un plan de negocio que garantice la sostenibilidad financiera de la operación;
-
-V. Un programa de mantenimiento preventivo y correctivo de la flota, con indicadores de cumplimiento;
-
-VI. Un programa gradual de sustitución de la flota vehicular por unidades de bajas o cero emisiones, preferentemente eléctricas, de conformidad con las metas establecidas en la Estrategia Estatal y las Normas Oficiales Mexicanas. La Coordinación General podrá establecer incentivos para acelerar esta transición;
-
-VII. Un esquema de remuneración para los concesionarios que se establecerá preferentemente con base en kilómetros programados efectivamente recorridos y cumplidos, con indicadores de desempeño, y que podrá complementarse con incentivos por calidad y eficiencia del servicio. Dicho esquema deberá garantizar los derechos laborales de los operadores, eliminando la competencia por el pasaje;
-
-VIII. Un plan de seguridad vial y de capacitación continúa para todo el personal, enfocado en la prevención de siniestros y la atención a usuarios;
-
-IX. La obligación de instalar y mantener en funcionamiento los sistemas tecnológicos para el recaudo centralizado, geolocalización, conteo de pasajeros y video vigilancia que determine la Coordinación General;
-
-X. Las tarifas autorizadas y sus reglas de aplicación;
-
-XI. La concesión podrá otorgarse hasta por un plazo máximo de diez años, o el plazo que mejor se ajuste al proyecto de movilidad correspondiente, tomando en cuenta la vida útil de las unidades vehiculares que se pretendan incorporar al servicio autorizado, así como las reglas para su renovación;
-
-XII. La obligación de solicitar a sus operadores la aprobación de los exámenes teóricos, prácticos, psicofísicos y toxicológicos correspondientes ante las instituciones autorizadas por la Coordinación General en términos de su Reglamento, y
-
-XIII. Las obligaciones en materia de seguros, las causales de revocación, cancelación y terminación.
-
-#### SECCIÓN TERCERA. DE LA CONCESIÓN PARA EL SERVICIO DE TRANSPORTE PÚBLICO INDIVIDUAL (TAXI)
-
-###### Artículo 76.
-
-La concesión para el servicio de transporte público individual (taxi) podrá ser otorgada a personas físicas. La concesión se vinculará a un único vehículo que cumpla con las especificaciones técnicas, de seguridad, de identidad vehicular y cromática establecidas en el Reglamento y en las normas técnicas correspondientes.
-
-###### Artículo 77.
-
-El título de concesión para el servicio de transporte público individual, deberá especificar:
-
-I. La zona o área geográfica de operación autorizada;
-
-II. La obligación de utilizar un taxímetro digital gestionada a través de una aplicación tecnológica autorizada, dicha aplicación deberá calcular la tarifa de forma electrónica y facilitar el cobro mediante efectivo o medios electrónicos, a elección del usuario;
-
-III. Las características de la cromática, insignias y número de identificación del vehículo;
-
-IV. Las obligaciones relativas a la operación en bases, sitios o, en su caso, a través de plataformas digitales autorizadas;
-
-V. La obligación de contar con los equipos de seguridad y comunicación que la Coordinación General determine;
-
-VI. La obligación de solicitar a sus operadores la aprobación de los exámenes teóricos, prácticos, psicofísicos y toxicológicos correspondientes ante las instituciones autorizadas por la Coordinación General en términos de su Reglamento, y
-
-VII. Un programa gradual de sustitución de la unidad vehicular por una unidad de bajas o cero emisiones, preferentemente eléctrica, de conformidad con las metas establecidas en la Estrategia Estatal y las Normas Oficiales Mexicanas. La Coordinación General podrá establecer incentivos para acelerar esta transición.
-
-#### SECCIÓN CUARTA. DE LA CONCESIÓN PARA EL SERVICIO DE TRANSPORTE PÚBLICO DE CARGA
-
-###### Artículo 78.
-
-La concesión para el servicio de transporte público de carga se otorgará a personas físicas o morales y se clasificará, al menos, en:
-
-I. Carga General, para el transporte de mercancías que no requieren condiciones especiales de manejo, y
-
-II. Carga Especializada, para el transporte de materiales o residuos peligrosos, objetos indivisibles de gran peso o volumen, o mercancías que requieran condiciones controladas como refrigeración.
-
-### CAPÍTULO III. DE LOS CONSEJOS MUNICIPALES
-
-###### Artículo 79.
-
-El título de concesión para el servicio de carga, además de lo común, deberá establecer:
-
-I. La clasificación de la carga autorizada (general o especializada);
-
-II. Las características y especificaciones técnicas del vehículo o flota autorizada, que cumpla con las especificaciones técnicas, de seguridad, de identidad vehicular y cromática establecidas en el Reglamento y en las normas técnicas correspondientes, de conformidad con las Normas Oficiales Mexicanas aplicables en materia de peso, dimensiones y seguridad;
-
-III. Las rutas, horarios y zonas de operación permitidas, así como las restricciones para la circulación en áreas urbanas;
-
-IV. La obligación de solicitar a sus operadores la aprobación de los exámenes teóricos, prácticos, psicofísicos y toxicológicos correspondientes ante las instituciones autorizadas por la Coordinación General en términos de su Reglamento, y
-
-V. La obligación de contar con seguros de cobertura amplia para daños a terceros, a la infraestructura vial y por riesgo ambiental, especialmente en el caso de carga especializada.
-
-### CAPÍTULO III. DEL SERVICIO DE TRANSPORTE PÚBLICO COMPLEMENTARIO LOCAL
-
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
-
-###### Artículo 80.
-
-Se reconoce el servicio de transporte público complementario local como una modalidad prestada en vehículos de baja capacidad, como mototaxis y bicitaxis, cuya finalidad es atender las necesidades de movilidad de primer y último tramo. Su operación se autorizará exclusivamente en zonas específicas donde el servicio colectivo convencional no sea técnica o financieramente viable, y su función será alimentar las rutas de este último, sin competir con ellas.
-
-Para la cual se deberán observar los criterios siguientes:
-
-I. Principio de Complementariedad. Entendiéndose como un servicio alimentador y de proximidad, cuya función es conectar a los usuarios desde zonas de baja densidad poblacional o difícil acceso, hacia las vías primarias donde operan las rutas con itinerarios autorizados de transporte público colectivo. Dicho servicio no podrá prestarse dentro de los derroteros autorizados para Transporte Público Colectivo;
-
-II. Registro vehicular de mototaxis y bicitaxis y límite de permisos. En cada uno de los polígonos de operación se realizará el censo vehicular correspondiente de los mototaxis y bicitaxis existentes, para la creación de un registro estatal a cargo de la Coordinación General. Ninguna autoridad podrá otorgar nuevos permisos o altas que incrementen el número total de unidades registradas en términos del Reglamento y demás normativa aplicable, y
-
-III. Determinación de Polígonos y Estudios Técnicos de Operación. La Coordinación General es la única autoridad facultada para autorizar, modificar o negar la operación del servicio de mototaxis o bicitaxis en coordinación con los municipios, en términos del Reglamento y demás normativa aplicable.
-
-###### Artículo 81.
-
-La prestación de este servicio requerirá de un permiso anual de operación expedido por la Coordinación General previo acuerdo de operación con los Ayuntamientos en donde se autorice dicha modalidad de transporte público. Este permiso no constituye una concesión de transporte público individual (taxi) y no otorga los mismos derechos ni está sujeto al mismo régimen. El permiso será de carácter personal, intransferible y estará vinculado a un único vehículo y a un operador específico. Su otorgamiento estará supeditado a la disponibilidad definida en los estudios técnicos que realice la Coordinación General para cada zona de servicio.
-
-#### SECCIÓN SEGUNDA. DE LA OPERACIÓN Y SUS REGLAS
-
-###### Artículo 82.
-
-La Coordinación General, previa opinión técnica del Ayuntamiento correspondiente, publicará en el Periódico Oficial “Tierra y Libertad”, los acuerdos que definan los polígonos o zonas de servicio autorizadas para esta modalidad. Queda estrictamente prohibida la operación de mototaxis y bicitaxis fuera de su zona de servicio autorizada, así como su circulación en vías primarias, corredores de transporte público y vías de acceso controlado. El Reglamento establecerá las sanciones por el incumplimiento de esta disposición, que podrán incluir la revocación del permiso.
-
-###### Artículo 83.
-
-La tarifa para esta modalidad será establecida por la Coordinación General con base en los estudios de costos de operación para cada zona. Dicha tarifa deberá estar visible en todo momento para el usuario. La Coordinación General promoverá e incentivará la incorporación de sistemas de pago electrónico en estas unidades. El Reglamento podrá establecer la obligatoriedad de contar con aditamentos tecnológicos para el cobro, como terminales bancarias o sistemas de pago mediante códigos QR, como requisito para el refrendo del permiso en las zonas que por su desarrollo así lo ameriten.
-
-#### SECCIÓN TERCERA. DE LOS VEHÍCULOS Y SU VERIFICACIÓN
-
-###### Artículo 84.
-
-Los vehículos autorizados para este servicio (mototaxis y bicitaxis) deberán cumplir con las normas técnicas que emita la Coordinación General, las cuales especificarán, como mínimo:
-
-I. Características de seguridad estructural, que garantice la estabilidad, con una cabina o carrocería que proteja a los pasajeros;
-
-II. Capacidad máxima, la cual no podrá exceder de tres a cuatro pasajeros, según cada caso, además del operador;
-
-III. Equipamiento de seguridad, sistema de frenos eficiente, luces reglamentarias (delanteras, traseras, direccionales y de freno), espejos retrovisores y cinturones de seguridad para todas las plazas de pasajeros, y
-
-IV. Identidad vehicular y cromática, deberán portar placa y engomado vehicular, tarjeta de circulación física o digital, cuyos requisitos para su emisión y vigencia estarán establecidos en el Reglamento de esta Ley, así como cromática con un número de identificación, el permiso visible o insignia que los identifique claramente como prestadores de servicio autorizado en su zona y tener a la vista la tarifa autorizada por la Coordinación General para la zona de servicio.
-
-###### Artículo 85.
-
-Los vehículos adscritos a esta modalidad deberán someterse a una revisión físico-mecánica periódica establecida en el Reglamento, como requisito indispensable para el refrendo de su permiso anual de operación.
-
-Dicha revisión será realizada en los centros de verificación autorizados por la Coordinación General y evaluará, al menos, el correcto funcionamiento del sistema de frenos, suspensión, dirección, luces, llantas, identidad vehicular y cromática, así como la integridad estructural del vehículo, de conformidad con la normativa aplicable.
-
-#### SECCIÓN CUARTA. DE LOS OPERADORES
-
-###### Artículo 86.
-
-Para operar un vehículo de transporte público complementario local, la persona operadora deberá contar con una licencia de conducir de tipo "Motociclista" (Tipo B) y, adicionalmente, obtener una Certificación de Aptitud expedida por la Coordinación General. La simple portación de la licencia de motociclista no autoriza por sí misma la prestación del servicio. El Reglamento establecerá que la obtención de la Certificación de Aptitud requerirá, además, aprobar los exámenes teóricos, prácticos, psicofísicos y toxicológicos correspondientes ante las instituciones autorizadas por la Coordinación General, y un curso específico de capacitación, en términos de su Reglamento.
-
-###### Artículo 87.
-
-La capacitación para los operadores de esta modalidad, será requisito para la Certificación de Aptitud, deberá incluir, como mínimo:
-
-I. Conocimiento de la normativa de tránsito y de las reglas específicas de su zona de operación;
-
-II. Manejo a la defensiva y percepción del riesgo, enfocado en las vulnerabilidades de su vehículo;
-
-III. Nociones básicas de mecánica para la detección de fallas, y
-
-IV. Protocolos de atención al usuario, con énfasis en perspectiva de género y atención a personas con discapacidad.
-
-### CAPÍTULO IV. DE LOS DERECHOS Y OBLIGACIONES DE LAS PERSONAS CONCESIONARIAS
-
-###### Artículo 88.
-
-Son derechos de las personas concesionarias:
-
-I. Prestar el servicio de transporte público en los términos y condiciones establecidos en el título de concesión;
-
-II. Cobrar a las personas usuarias la tarifa autorizada por la Coordinación General;
-
-III. Proponer modificaciones a las condiciones de operación del servicio, las cuales deberán ser evaluadas y, en su caso, autorizadas por la Coordinación General, y
-
-IV. Las demás que establezca esta Ley y su Reglamento.
-
-###### Artículo 89.
-
-Son obligaciones de las personas concesionarias:
-
-I. Prestar el servicio de manera continua, uniforme, regular, segura y eficiente;
-
-II. Cumplir con los derroteros, itinerarios, horarios y frecuencias autorizadas;
-
-III. Utilizar únicamente vehículos que cumplan con las especificaciones técnicas, de seguridad, accesibilidad y ambientales establecidas en la normatividad aplicable y que estén debidamente registrados;
-
-IV. Contratar y mantener vigente una póliza de seguro de responsabilidad civil por daños a terceros y de seguro de vida y gastos médicos para las personas usuarias o Fondo de Garantía, con la cobertura mínima que establezca el Reglamento;
-
-V. Mantener la flota vehicular en óptimas condiciones físico-mecánicas, de seguridad y de higiene, realizando el mantenimiento preventivo y correctivo que corresponda de conformidad con lo estipulado en el Reglamento de esta Ley. La Coordinación General realizará evaluaciones periódicas a los programas de revisión físico-mecánicas y podrá adoptar las medidas necesarias conducentes en todas sus modalidades pudiendo fijar normas técnicas acorde a las necesidades para garantizar el servicio de transporte público;
-
-VI. Instalar en los vehículos, el rastreador del Sistema de Posicionamiento Global, que deberá contar cuando menos con los siguientes servicios:
-
-a) Plataforma para consulta vía web;
-
-b) Localización en tiempo real;
-
-c) Alerta por exceder el límite de velocidad;
-
-d) Geocercas;
-
-e) Reproducción histórica de movimientos con 60 días de anterioridad;
-
-f) Acceso ilimitado a la plataforma;
-
-g) Creación de subcuentas para poder acceder a la plataforma;
-
-h) Auto-reporte de posicionamiento cada minuto, y
-
-i) Las demás que considere la Coordinación General instalar.
-
-VII. Garantizar que todas las personas operadoras cuenten con licencia de conducir vigente del tipo apropiado y con la certificación de capacidades expedida por la Coordinación General;
-
-VIII. Capacitar y profesionalizar de manera continua a su personal, especialmente en temas de seguridad vial, derechos humanos, perspectiva de género, prevención de la violencia y acoso sexual contra las mujeres en el trasporte público, atención a personas con discapacidad y primeros auxilios;
-
-IX. Brindar un trato digno y respetuoso a todas las personas usuarias;
-
-X. Proporcionar a la Coordinación General toda la información que ésta les requiera para la integración del Sistema Estatal de Información de Movilidad, Transporte y Seguridad Vial;
-
-XI. Instalar y mantener en funcionamiento los equipos de geolocalización, contadores de pasajeros, cámaras de video vigilancia y sistemas de pago electrónico centralizado que determine la Coordinación General en el Reglamento;
-
-XII. Realizar todos los trámites conducentes en relación a su concesión ante la Coordinación General, de conformidad con lo estipulado en el Reglamento de esta Ley;
-
-XIII. Reportar al Sistema Estatal de Información de Movilidad, Transporte y Seguridad Vial, con la periodicidad que determine la Coordinación General, los datos sobre su operación, incluyendo kilómetros recorridos, pasajeros transportados, incidentes de seguridad y siniestros de tránsito;
-
-XIV. Contar con protocolos de actuación para la prevención y atención de casos de acoso sexual y otras formas de violencia de género a bordo de las unidades y en la infraestructura asociada, en coordinación con las autoridades de seguridad y de atención a mujeres;
-
-XV. Asegurar que al menos un porcentaje de su flota vehicular, que será determinado por la Coordinación General, cumpla con criterios de accesibilidad universal para personas con discapacidad motriz, visual y auditiva, y
-
-XVI. Cumplir con las demás disposiciones de esta Ley, su Reglamento y el título de concesión.
-
-### CAPÍTULO V. DE LA TRANSFERENCIA DE DERECHOS
-
-###### Artículo 90.
-
-En caso de fallecimiento, incapacidad permanente o declaración de ausencia de una persona física titular de una concesión otorgada bajo regímenes anteriores a esta Ley, los derechos de la misma podrán transmitirse a la persona beneficiaria designada o, en su defecto, a quien acredite el mejor derecho sucesorio, siempre que el beneficiario cumpla con los requisitos para ser concesionario en el plazo que fije la Coordinación General.
-
-###### Artículo 91.
-
-El procedimiento para la transferencia de derechos de las concesiones en todas sus modalidades será regulado en el Reglamento, garantizando la continuidad del servicio y la seguridad jurídica de los interesados.
-
-## TÍTULO QUINTO. DEL TRANSPORTE PRIVADO, DE CARGA Y EMPRESAS DE REDES DE TRANSPORTE
-
-### CAPÍTULO I. DEL SERVICIO DE TRANSPORTE PRIVADO
-
-###### Artículo 92.
-
-El servicio de transporte privado es aquel que realizan personas físicas o morales para satisfacer sus necesidades particulares de movilidad, sin que se ofrezca al público en general ni se cobre una contraprestación directa por el servicio, salvo los casos previstos en esta Ley.
-
-###### Artículo 93.
-
-El servicio de transporte privado requerirá de un permiso expedido por la Coordinación General y se clasifica en las siguientes modalidades:
-
-I. De personal, el que prestan las empresas para el traslado de sus empleados entre sus domicilios y los centros de trabajo;
-
-II. Escolar, el que prestan las instituciones educativas para el traslado de sus estudiantes entre sus domicilios y los planteles. Este servicio deberá cumplir con los más altos estándares de seguridad y será objeto de una regulación específica y estricta en el Reglamento;
-
-III. Turístico, el que se presta para el traslado de personas con fines recreativos, culturales o de esparcimiento a sitios de interés en el Estado;
-
-IV. De servicios funerarios, el que se realiza para el traslado de féretros y deudos. Para obtener el permiso de la Coordinación General, el solicitante deberá acreditar, además de los requisitos de esta Ley, contar con las autorizaciones y cumplir con la normatividad emitida por las autoridades sanitarias competentes;
-
-V. De servicios de emergencia, el que prestan las ambulancias y vehículos de atención médica de instituciones públicas o privadas;
-
-VI. De mensajería y paquetería, el que se presta para la recolección, envío y entrega de paquetes y correspondencia, y
-
-VII. De traslado de valores, el que se realiza en vehículos blindados y con características de seguridad específicas para el transporte de dinero y objetos de valor.
-
-###### Artículo 94.
-
-Para obtener un permiso de transporte privado o registro anual de operación de transporte privado de pasajeros, según corresponda, los solicitantes deberán acreditar la propiedad, posesión o tenencia de los vehículos, contar con las pólizas de seguro de responsabilidad civil por daños a terceros vigentes, así como un contrato de prestación de servicios con la institución o empresa correspondiente en su caso; los vehículos deberán cumplir con las especificaciones técnicas, de seguridad, de identidad vehicular para circular establecidas en el Reglamento y en las Normas Técnicas correspondientes de operación para cada modalidad, conforme al Cálculo del Factor de Capacidad Operativa y Demanda, emitido por la Coordinación General, en términos de los estudios técnicos correspondientes.
-
-###### Artículo 95.
-
-Los vehículos destinados al transporte escolar y de personal deberán someterse a una revisión físico-mecánica anual de seguridad, la cual se enfocará en el estado de los sistemas de frenos, suspensión, dirección, llantas, luces y estructura del vehículo, y contar con dispositivos de control de velocidad, así como con personal operador debidamente certificado.
-
-### CAPÍTULO II. DEL SERVICIO DE TRANSPORTE DE CARGA
-
-###### Artículo 96.
-
-El servicio de transporte de carga consiste en el traslado de bienes y mercancías en el territorio del Estado. La regulación de los permisos de carga, tendrá por objeto garantizar la seguridad vial, proteger la infraestructura, mitigar los impactos ambientales y ordenar su circulación.
-
-###### Artículo 97.
-
-El servicio de transporte de carga que se estipule en el Reglamento se clasifica en:
-
-I. Público, el que se presta a terceros a cambio de una contraprestación, y podrá ser de carga general o especializada. Requerirá de una concesión expedida por la Coordinación General, y
-
-II. Privado, el que realizan las empresas para transportar sus propias mercancías o insumos como parte de su cadena productiva, en vehículos cuyo peso bruto vehicular no exceda las 3.5 toneladas. Requerirá de un permiso expedido por la Coordinación General.
-
-###### Artículo 98.
-
-La Coordinación General, en coordinación con los Ayuntamientos, en el ámbito de sus respectivas atribuciones, podrá establecer:
-
-I. Rutas y horarios específicos para la circulación de vehículos de carga, especialmente los de grandes dimensiones o los que transportan materiales peligrosos;
-
-II. Zonas de acceso restringido para proteger áreas habitacionales, centros históricos y zonas ambientalmente sensibles, y
-
-III. Puntos logísticos, de transferencia y de descanso para optimizar la distribución de mercancías y mejorar las condiciones laborales de las personas operadoras.
-
-###### Artículo 99.
-
-Los vehículos de carga deberán cumplir con las Normas Oficiales Mexicanas en materia de peso, dimensiones, condiciones físico-mecánicas y baja emisión de contaminantes. La Coordinación General y las autoridades municipales podrán realizar operativos de verificación para constatar su cumplimiento.
-
-A efecto de lo anterior, la Coordinación General emitirá las disposiciones normativas aplicables para la clasificación, tonelaje límite y requisitos de contar con una concesión Estatal, o en su caso, permiso de carácter privado, conforme a la capacidad de carga pesada especializada superior a las 3.5 toneladas.
-
-###### Artículo 100.
-
-El transporte de materiales y residuos peligrosos se regirá por la legislación federal en la materia y por las disposiciones adicionales de seguridad que establezca la Coordinación General y las autoridades de protección civil del Estado.
-
-Asimismo, para garantizar la seguridad vial estatal y prevenir riesgos asociados a la alta velocidad en el transporte de materiales con potencial peligroso, es obligatoria la instalación y mantenimiento de un Sistema de Limitación de Velocidad o gobernador electrónico, en todos los vehículos que presten el servicio de transporte de:
-
-I. Sustancias, materiales o residuos peligrosos, incluyendo, de forma enunciativa mas no limitativa, gas licuado de petróleo (Gas LP), gas natural comprimido (GNC), explosivos, materiales inflamables, corrosivos o radioactivos, y
-
-II. Carga especializada o sobredimensionada cuyo peso, dimensiones o naturaleza incrementen significativamente el riesgo de accidentes graves o daños colaterales.
-
-Para efecto de lo señalado en las fracciones anteriores, la Coordinación General establecerá las disposiciones normativas correspondientes, los requisitos técnicos, homologación, procedimientos de certificación, calibración y verificación periódica obligatoria de los Sistemas de Limitación de Velocidad.
-
-### CAPÍTULO III. DEL SERVICIO DE TRANSPORTE PRIVADO CONTRATADO A TRAVÉS DE EMPRESAS DE REDES DE TRANSPORTE (ERT)
-
-###### Artículo 101.
-
-El servicio regulado en este Capítulo es una modalidad de transporte privado, distinto del servicio público de taxi, cuya contratación se realiza exclusivamente a través de la intermediación de una Empresa de Redes de Transporte mediante herramientas tecnológicas. Su prestación por parte de particulares requerirá que tanto la ERT como el vehículo y la persona conductora estén debidamente registrados y autorizados por la Coordinación General.
-
-###### Artículo 102.
-
-La Coordinación General es la autoridad facultada para regular, registrar, supervisar, fiscalizar y sancionar la prestación de este servicio, con el objetivo de garantizar la seguridad de las personas usuarias, la calidad del servicio, la equidad en el mercado y la protección de los datos personales.
-
-###### Artículo 103.
-
-Para obtener y mantener el Registro anual de operación, toda ERT deberá cumplir, como mínimo, con los siguientes requisitos:
-
-I. Estar legalmente constituida como persona moral en México, tener su domicilio fiscal en el país y estar inscrita en el Registro Federal de Contribuyentes;
-
-II. Contar con un registro y padrón electrónico, permanentemente actualizado, de todos los vehículos y personas conductoras afiliadas que presten servicio en el Estado, el cual deberá ser interoperable con el Sistema Estatal de Información;
-
-III. Establecer mecanismos de control y filtros de seguridad rigurosos para la selección y permanencia de las personas conductoras, incluyendo la verificación de antecedentes no penales por delitos dolosos, sexuales o de alto impacto, y la aplicación de exámenes toxicológicos;
-
-IV. Contratar y mantener vigente una póliza de seguro de cobertura amplia que ampare la responsabilidad civil por daños a terceros, así como los gastos médicos y la vida de las personas ocupantes del vehículo y de terceros, con cobertura desde que el conductor acepta el viaje y hasta que el último pasajero desciende del vehículo;
-
-V. Transparentar a la persona usuaria, antes de la contratación del viaje, la tarifa estimada y sus componentes, la ruta sugerida, así como la identificación plena del vehículo y la persona conductora;
-
-VI. Implementar mecanismos tecnológicos que permitan a la persona usuaria compartir la información de su viaje en tiempo real y contar con un botón digital de pánico en la aplicación, conectado directamente a los servicios de emergencia y seguridad pública del Estado;
-
-VII. Proporcionar a la Coordinación General y a las autoridades de seguridad pública, acceso a un módulo de consulta o interfaz de programación de aplicaciones (API) seguro, para la consulta de información, así como remitir de forma periódica la información estadística disociada de los viajes realizados; o elegir la modalidad de adherirse a la aplicación estatal de prestación de servicios digitales de transporte privado mediante la interfaz de programación de Aplicaciones (API) seguro, registrador de datos de eventos (Caja Negra), bajo el esquema regulatorio emitido en el Reglamento para tal efecto;
-
-VIII. Contar con un esquema de capacitación continua y certificada para sus conductores; especialmente en temas de seguridad vial, derechos humanos, perspectiva de género, prevención de la violencia y acoso sexual contra las mujeres, atención a personas con discapacidad y primeros auxilios;
-
-IX. La ERT deberá realizar una aportación periódica al Fondo Estatal de Movilidad y Seguridad Vial, equivalente a un porcentaje no menor al 1.5% del valor de cada viaje realizado en el territorio estatal, en términos de la Ley General de Hacienda del Estado de Morelos y demás normativa aplicable;
-
-X. Designar un representante legal con domicilio y poder amplio en el estado de Morelos para todos los efectos legales y notificaciones, y
-
-XI. Cubrir anualmente el pago de derechos por la explotación del Registro de operación, cuyo monto se establecerá en la Ley General de Hacienda del Estado de Morelos.
-
-###### Artículo 104.
-
-Los vehículos utilizados para la prestación de este servicio deberán cumplir con:
-
-I. Estar inscritos en el Registro Estatal de Movilidad y contar con un distintivo de identificación expedido por la Coordinación General;
-
-II. Portar placas de circulación del estado de Morelos y tarjeta de circulación física o digital, cuyos requisitos para su emisión, modalidad y vigencia estarán establecidos en el Reglamento;
-
-III. No exceder los diez años de antigüedad al momento de su alta inicial en la plataforma;
-
-IV. Contar con un mínimo de cuatro puertas, cinturones de seguridad para todas las plazas, frenos ABS y bolsas de aire frontales;
-
-V. Contar con un seguro de cobertura amplia que especifique su uso para servicio de transporte privado de pasajeros, con validez desde que el conductor acepta el viaje y hasta que el último pasajero desciende;
-
-VI. Aprobar la verificación vehicular y la inspección físico-mecánica de seguridad que determine la normativa aplicable, y
-
-VII. Las demás que se establezcan en el Reglamento.
-
-###### Artículo 105.
-
-Las personas que conduzcan vehículos para una ERT deberán:
-
-I. Contar con una licencia de conducir tipo "Chofer", expedida por la Coordinación General;
-
-II. Aprobar los exámenes teóricos, prácticos, psicofísicos y toxicológicos correspondientes ante las instituciones autorizadas por la Coordinación General en términos de su Reglamento;
-
-III. No tener antecedentes penales por delitos dolosos, sexuales, contra la salud o de alto impacto. La ERT será responsable de verificar esta condición de forma semestral;
-
-IV. Acreditar haber recibido capacitación en materia de; seguridad vial, derechos humanos, perspectiva de género, prevención de la violencia y acoso sexual contra las mujeres, atención a personas con discapacidad y primeros auxilios, y
-
-V. Estar inscritas en el registro de la ERT y en el Padrón Estatal de Conductores de ERT.
-
-###### Artículo 106.
-
-La Coordinación General integrará y administrará el Padrón Estatal de Conductores de ERT. Las empresas podrán consultar este Padrón antes de dar de alta a un nuevo conductor y deberán reportar cualquier baja o sanción impuesta.
-
-###### Artículo 107.
-
-Queda estrictamente prohibido a los prestadores de este servicio:
-
-I. Hacer base, sitio o utilizar la vía pública para ofrecer el servicio de manera directa;
-
-II. Recoger pasajeros en la vía pública que no hayan contratado el servicio previamente a través de la aplicación tecnológica;
-
-III. Utilizar los carriles exclusivos o confinados para el transporte público, y
-
-IV. Habilitar pagos por medios distintos a los autorizados en la plataforma, salvo disposición expresa de la Coordinación General.
-
-###### Artículo 108.
-
-Las aplicaciones de las ERT que operen en el Estado deberán contar con un botón digital de pánico adscrito al vehículo, de fácil acceso, que al ser activado por el usuario o por el conductor envíe una alerta en tiempo real al centro de monitoreo de la ERT y, simultáneamente, al Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo (C5) del Estado, compartiendo la geolocalización inmediata generada por la aplicación en el dispositivo móvil del usuario o del conductor, en su caso. La Coordinación General, en colaboración con las ERT y autoridades de seguridad, elaborará un protocolo detallado de integración tecnológica que será evaluado de forma periódica y actualizada progresivamente. Este protocolo deberá establecer estándares técnicos, requisitos de interoperabilidad y plazos de implementación, realizando pruebas piloto para garantizar su eficacia y la respuesta coordinada en emergencias.
-
-### CAPÍTULO IV. DEL SERVICIO DE TRANSPORTE EN VEHÍCULOS CON SISTEMA DE CONDUCCIÓN AUTOMATIZADA
-
-###### Artículo 109.
-
-Se regula la autorización, operación y supervisión del servicio de transporte de pasajeros prestado a través de Empresas de Redes de Transporte (ERT) que utilicen Vehículos de Conducción Automatizada (VCA) que, mediante un sistema de inteligencia artificial, sensores, cámaras y sistemas de geolocalización, son capaces de operar y desplazarse de forma segura sin la intervención de un conductor humano a bordo, correspondiendo a un nivel de automatización 4 o 5 de la clasificación de la Sociedad de Ingenieros Automotrices (SAE) o su equivalente internacional.
-
-###### Artículo 110.
-
-Ninguna ERT podrá operar un VCA en el Estado sin una autorización expresa de la Coordinación General, contar con un registro anual de operación y padrón electrónico, el cual deberá ser interoperable con el Sistema Estatal de Información y estar debidamente registrada en el Padrón de Empresas de ERT, para lo cual deberá acreditar, como mínimo, lo siguiente:
-
-I. Certificación de Seguridad, presentar un certificado emitido por un organismo nacional o internacional reconocido que valide la seguridad, fiabilidad y funcionalidad del sistema de conducción autónoma en entornos urbanos complejo;
-
-II. Dominio de Diseño Operacional (ODD), definir y documentar claramente las condiciones geográficas, climáticas y de infraestructura vial bajo las cuales el VCA puede operar de forma segura, y obtener la aprobación de la Coordinación General para dicho dominio;
-
-III. Plan de Ciberseguridad, implementar un protocolo robusto para proteger los sistemas del vehículo contra accesos no autorizados, hackeos o interferencias maliciosas que pongan en riesgo la seguridad, y
-
-IV. Registrador de Datos de Eventos (Caja Negra), cada VCA deberá estar equipado con un dispositivo inviolable que registre continuamente los parámetros de operación, datos de los sensores y las decisiones del sistema de inteligencia artificial, especialmente los momentos previos, durante y posteriores a un siniestro vial.
-
-###### Artículo 111.
-
-Los VCA para la prestación de este servicio deberán cumplir con:
-
-I. Estar inscritos en el Registro Estatal de Movilidad y contar con un holograma o insignia distintiva de identificación expedido por la Coordinación General;
-
-II. Portar placas de circulación del estado de Morelos y tarjeta de circulación física o digital, cuyos requisitos para su emisión, modalidad y vigencia estarán establecidos en el Reglamento de esta Ley;
-
-III. No exceder los 7 años de antigüedad al momento de su alta inicial en la plataforma;
-
-IV. Contar con un mínimo de cuatro puertas, cinturones de seguridad para todas las plazas, frenos ABS y bolsas de aire frontales;
-
-V. Contar con un seguro de cobertura amplia que especifique su uso para servicio de transporte por plataforma, con validez desde que el conductor acepta el viaje y hasta que el último pasajero desciende, y
-
-VI. Aprobar la verificación vehicular y la revisión físico-mecánica de seguridad que determine la normativa aplicable.
-
-###### Artículo 112.
-
-Las ERT que operen VCA tendrán las siguientes obligaciones indelegables:
-
-I. Seguridad Vial:
-
-a) Garantizar que la programación de la Inteligencia Artificial del vehículo cumpla y priorice estrictamente el reglamento de tránsito, incluyendo límites de velocidad, señales, semáforos y el respeto a la prioridad de peatones y ciclistas, y
-
-b) Asegurar que los sistemas de sensores y cámaras sean capaces de detectar y reaccionar de forma segura ante imprevistos, como la presencia de vehículos de emergencia, obras en la vía o comportamientos erráticos de otros usuarios de la vía.
-
-II. Seguridad del Usuario y Ciudadanía, las ERT que utilicen VCA deberán proporcionar a la Coordinación General y a las autoridades de seguridad pública, acceso a un módulo de consulta o interfaz de programación de aplicaciones (API) seguro, para la consulta en tiempo real de información de viajes en curso para fines de seguridad e investigación, así como remitir de forma periódica la información estadística disociada de los viajes realizados; o elegir la modalidad de adherirse a la aplicación estatal de prestación de servicios digitales de transporte privado mediante la Interfaz de Programación de Aplicaciones (API) seguro, bajo el esquema regulatorio emitido en el Reglamento para tal efecto;
-
-III. Comunicación y Asistencia Remota, cada VCA deberá contar con un sistema de comunicación de audio y video bidireccional, claramente señalizado, que permita al usuario contactar de inmediato a un centro de control con operadores humanos las 24 horas del día para resolver dudas o reportar emergencias;
-
-IV. Botón de Emergencia, el vehículo deberá incluir un botón de pánico físico o digital de fácil acceso que, al ser activado, notifique al centro de control de la ERT y, simultáneamente, a los servicios de emergencia públicos (911), transmitiendo la ubicación en tiempo real, y
-
-V. Monitoreo Interno, el habitáculo será monitoreado por una cámara de video con el único fin de garantizar la seguridad del pasajero y registrar evidencia en caso de un incidente. Se deberá notificar a la persona usuaria de esta medida de forma clara antes de iniciar el viaje, asegurando el tratamiento de los datos conforme a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Morelos.
-
-###### Artículo 113.
-
-La ERT será responsable conforme a los siguientes supuestos:
-
-I. Responsabilidad Primaria, la ERT será la responsable primaria, objetiva y solidaria por cualquier daño, perjuicio o lesión que se genere a los usuarios, peatones, ciclistas, o a bienes públicos y privados, como consecuencia de la operación, acción u omisión de sus VCA. Esta responsabilidad subsistirá independientemente de las fallas del software, hardware o de la inteligencia artificial. La ERT podrá ser sancionada en términos de lo dispuesto en la presente Ley, su Reglamento y demás normativa aplicable.
-
-II. Seguro de Cobertura Amplia y Especializada, las ERT deberán contratar y mantener vigente una póliza de seguro de cobertura amplia especial para vehículos autónomos, cuyo monto mínimo será determinado por la Coordinación General en el Reglamento. Dicha póliza deberá cubrir, sin excepción ni deducible para el afectado:
-
-a) Daños a terceros en sus bienes y personas;
-
-b) Gastos médicos de los ocupantes y de cualquier tercero afectado, y
-
-c) Responsabilidad civil, legal y moral derivada del incidente.
-
-###### Artículo 114.
-
-Los servicios prestados mediante VCA se sujetarán de manera enunciativa más no limitativa a lo siguiente:
-
-I. Se sujetarán estrictamente a la estructura de tarifas, factores de cobro (distancia, tiempo, tarifa dinámica) y topes máximos autorizados por la Coordinación General para el servicio de transporte en ERT;
-
-II. La aplicación deberá informar al usuario de manera clara y previa a la confirmación del viaje que el servicio será prestado por un Vehículo de Conducción Automatizada;
-
-III. Integración de Sistemas de Cobro: Las ERT deberán garantizar que sus sistemas de cobro para viajes en VCA sean plenamente compatibles e integrables con cualquier plataforma o sistema de supervisión y control que la Coordinación General determine, a fin de permitir la auditoría y verificación del cumplimiento normativo, y
-
-IV. Deberán realizar una aportación periódica al Fondo Estatal de Movilidad y Seguridad Vial, equivalente a un porcentaje no menor al 1.5% del valor de cada viaje realizado en el territorio estatal, en términos de la Ley General de Hacienda del Estado de Morelos y demás normativa aplicable.
-
-## TÍTULO SEXTO. DE LA MICROMOVILIDAD
-
-### CAPÍTULO I. DE LA REGULACIÓN
-
-###### Artículo 115.
-
-Se reconoce la micromovilidad como una modalidad de transporte personal que utiliza vehículos ligeros, de baja velocidad, propulsados por energía humana o eléctrica. Esto incluye, de manera enunciativa, bicicletas de pedaleo asistido y vehículos de movilidad personal como patinetas (scooters) eléctricos.
-
-La regulación de esta modalidad busca fomentar su uso seguro como complemento al transporte público y alternativa al vehículo particular, priorizando siempre la seguridad de sus usuarios y la convivencia armónica con los peatones.
-
-###### Artículo 116.
-
-La circulación de los vehículos de micromovilidad se sujetará a las siguientes bases, que serán detalladas en el Reglamento:
-
-I. Reglas de Circulación, deberán circular preferentemente por la infraestructura ciclista y, en su ausencia, por el arroyo vehicular. Queda prohibida su circulación por banquetas y por carriles centrales de vías de acceso controlado;
-
-II. Equipamiento de Seguridad, los usuarios deberán portar casco de seguridad certificado. Los vehículos deberán contar con sistema de frenos, luces y aditamentos reflejantes, y
-
-III. Servicios de Alquiler (Sistemas de Micromovilidad Compartida), las personas morales que operen sistemas de micromovilidad compartida sin anclaje requerirán de un permiso de operación expedido por la Coordinación General. El Reglamento establecerá los requisitos para dicho permiso, incluyendo la definición de zonas de operación, el número máximo de unidades, las obligaciones de mantenimiento, la disposición de seguros y el correcto ordenamiento de los vehículos en el espacio público.
-
-## TÍTULO SÉPTIMO. DE LA INFRAESTRUCTURA PARA LA MOVILIDAD
-
-### CAPÍTULO I. DE LOS PRINCIPIOS DE DISEÑO VIAL Y CALLES COMPLETAS
-
-###### Artículo 117.
-
-La planeación, diseño, construcción, mantenimiento y operación de la infraestructura vial en el Estado se realizarán con base en el principio de diseño universal y la jerarquía de la movilidad, con el objetivo de crear calles seguras, inclusivas, accesibles, habitables y funcionales para todas las personas.
-
-###### Artículo 118.
-
-Toda vía pública nueva, así como toda intervención de rehabilitación o mantenimiento mayor en vías existentes, deberá diseñarse bajo el concepto de Calle Completa, que consiste en la redistribución del espacio vial para dar cabida segura y eficiente a todos los modos de movilidad y transporte.
-
-###### Artículo 119.
-
-Los proyectos de calle completa deberán incluir, según corresponda a las características de la vía:
-
-I. Banquetas amplias, continuas, accesibles, con superficies uniformes, libres de obstáculos y con elementos de accesibilidad universal;
-
-II. Cruces peatonales seguros a nivel de la calle, bien iluminados, señalizados y con tiempos semafóricos suficientes;
-
-III. Infraestructura ciclista segregada, continua y conectada a la red;
-
-IV. Carriles exclusivos o preferentes para el transporte público;
-
-V. Diseño geométrico y dispositivos para la gestión y pacificación de la velocidad vehicular, y
-
-VI. Mobiliario urbano, vegetación y sistemas de drenaje sostenible.
-
-###### Artículo 120.
-
-Desincentivar la construcción de puentes peatonales. La infraestructura peatonal existente deberá ser progresivamente sustituida o adaptada para garantizar su accesibilidad y permeabilidad.
-
-###### Artículo 121.
-
-La Coordinación General, en conjunto con las autoridades competentes en infraestructura y obras públicas, expedirá y mantendrá actualizado el Manual de Diseño de Calles para el Estado de Morelos, de observancia obligatoria para los proyectos de infraestructura vial estatales y municipales.
-
-### CAPÍTULO II. DE LA INFRAESTRUCTURA PARA LA MOVILIDAD CICLISTA
-
-###### Artículo 122.
-
-La Coordinación General y los Ayuntamientos, en el ámbito de sus competencias, planearán y desarrollarán una red de infraestructura ciclista segura, conectada, coherente, confortable y directa, en conjunto con las autoridades competentes en infraestructura y obras públicas.
-
-###### Artículo 123.
-
-Los proyectos de infraestructura ciclista deberán cumplir con los siguientes criterios:
-
-I. Seguridad, segregación física del tránsito motorizado en vías con velocidades superiores a 30 km/h; diseño de intersecciones seguras e iluminación adecuada;
-
-II. Continuidad, las ciclovías deberán formar una red coherente y conectada, sin interrupciones abruptas, que vincule los principales centros generadores de viajes;
-
-III. Coherencia, la red ciclista deberá estar claramente señalizada y balizada, ser de fácil comprensión y permitir trayectos directos y lógicos, y
-
-IV. Comodidad, pavimentos en buen estado, anchos suficientes para permitir el rebase seguro, y pendientes adecuadas.
-
-###### Artículo 124.
-
-Toda nueva edificación de uso comercial, de servicios, educativa o pública, así como las terminales y estaciones principales de transporte público, deberán contar con estacionamientos para bicicletas seguros, de fácil acceso y en un número proporcional a su capacidad, conforme lo determine el Reglamento.
-
-### CAPÍTULO III. DE LAS AUDITORÍAS E INSPECCIONES DE INFRAESTRUCTURA
-
-###### Artículo 125.
-
-Las autoridades estatales y municipales deberán realizar Auditorías de Seguridad Vial a los proyectos de infraestructura nueva en todas sus etapas (planeación, diseño y construcción) y a la red vial existente, para identificar y corregir proactivamente las condiciones de riesgo.
-
-###### Artículo 126.
-
-Las auditorías de seguridad vial deberán ser realizadas por personal técnico certificado y sus resultados serán públicos. Las recomendaciones emitidas deberán ser atendidas por la autoridad responsable del proyecto o de la vía, la cual deberá justificar técnicamente cualquier desviación.
-
-## TÍTULO OCTAVO. DE LA SEGURIDAD VIAL
-
-### CAPÍTULO I. DE LA GESTIÓN DE LA VELOCIDAD
-
-###### Artículo 127.
-
-El exceso de velocidad es un factor de riesgo primordial en la severidad de los siniestros de tránsito. Salvo que la señalización vial indique un límite inferior, las velocidades máximas de circulación en el estado de Morelos para vehículos motorizados en las vías de jurisdicción estatal y municipal serán:
-
-I. 20 km/h en zonas de alta vulnerabilidad, tales como entornos escolares, de hospitales, asilos, albergues y casas hogar;
-
-II. 30 km/h en calles secundarias y calles terciarias dentro de áreas urbanas;
-
-III. 50 km/h en avenidas primarias sin acceso controlado;
-
-IV. 80 km/h en carriles centrales de vías de acceso controlado y en tramos de carreteras estatales que atraviesen zonas urbanas;
-
-V. 80 km/h en carreteras estatales fuera de zonas urbanas;
-
-VI. 50 km/h como velocidad máxima de operación en cualquiera de los accesos a una intersección, independientemente de la naturaleza de la vía, para garantizar la gestión segura en puntos de conflicto, y
-
-VII. Para las vías de jurisdicción federal, se aplicarán los límites de velocidad que determine la legislación federal en la materia.
-
-###### Artículo 128.
-
-Las autoridades municipales deberán adecuar sus reglamentos de tránsito a los límites de velocidad establecidos en el artículo anterior. Se podrán utilizar dispositivos de gestión y pacificación del tránsito, de acuerdo con los manuales de diseño vial aplicables.
-
-###### Artículo 129.
-
-Ninguna intersección, independientemente de la naturaleza de la vía, podrá tener una velocidad de operación mayor a 50 km/h en cualquiera de sus accesos.
-
-### CAPÍTULO II. DE LA PREVENCIÓN DE FACTORES DE RIESGO
-
-###### Artículo 130.
-
-Queda estrictamente prohibido conducir cualquier tipo de vehículo bajo los efectos del alcohol o de sustancias psicoactivas. Para tal efecto, se establecen los siguientes límites:
-
-I. Para cualquier persona conductora de un vehículo automotor particular, la concentración de alcohol en sangre no deberá ser igual o superior a 0.5 gramos de alcohol por litro de sangre (g/L) o su equivalente de 0.25 miligramos por litro (mg/L) en aire espirado;
-
-II. Para personas conductoras de motocicletas, la concentración de alcohol en sangre no deberá ser igual o superior a 0.2 g/dL o su equivalente de 0.1 mg/L en aire espirado, y
-
-III. Para personas conductoras de vehículos destinados al transporte público de pasajeros, de carga, escolar o de emergencia, se establece una política de cero tolerancia.
-
-###### Artículo 131.
-
-Las autoridades de seguridad pública estatales y municipales tienen la facultad y la obligación de realizar pruebas de alcoholemia de manera aleatoria y permanente a través de puntos de control conocidos como alcoholímetros.
-
-###### Artículo 132.
-
-Queda prohibido a la persona conductora manipular teléfonos celulares o cualquier otro dispositivo electrónico o de comunicación, salvo que se utilice un sistema de manos libres instalado de fábrica o como accesorio fijo en el vehículo.
-
-###### Artículo 133.
-
-Es obligatorio para todas las personas que viajan en un vehículo motorizado el uso del cinturón de seguridad en todas las plazas.
-
-###### Artículo 134.
-
-Toda persona menor de doce años o con una estatura inferior a 1.35 metros deberá viajar en los asientos traseros del vehículo, utilizando un sistema de retención infantil debidamente certificado y adecuado a su edad, peso y talla.
-
-### CAPÍTULO III. DE LA SEGURIDAD EN MOTOCICLETAS
-
-###### Artículo 135.
-
-Las personas que conduzcan o viajen en una motocicleta deberán utilizar en todo momento un casco de seguridad certificado, que cumpla con la Norma Oficial Mexicana aplicable o estándares internacionales equivalentes, debidamente abrochado y ajustado.
-
-###### Artículo 136.
-
-Queda prohibido transportar en motocicleta a un número de personas que exceda la capacidad de diseño del vehículo. En ningún caso se podrá transportar a menores de doce años, o a personas que no puedan sujetarse por sí mismas de forma segura o que no alcancen a apoyar firmemente los pies en los estribos o posapiés.
-
-###### Artículo 137.
-
-Las personas conductoras de motocicletas deberán circular en todo momento con las luces delanteras y traseras encendidas y utilizar un carril completo, quedando prohibido circular entre carriles o entre vehículos en movimiento.
-
-###### Artículo 138.
-
-Todas las motocicletas que circulen en el Estado deberán contar con una placa de matrícula vigente y visible de circulación del Estado de Morelos y tarjeta de circulación física o digital, cuyos requisitos para su emisión estarán establecidos en el Reglamento de esta Ley. La Coordinación General promoverá, en coordinación con las autoridades de seguridad pública, operativos para verificar el cumplimiento de esta disposición.
-
-### CAPÍTULO IV. DE LA VERIFICACIÓN DE LAS CONDICIONES FÍSICO-MECÁNICAS Y ESTÁNDARES DE VEHÍCULOS
-
-###### Artículo 139.
-
-Todo vehículo destinado al servicio de transporte público, privado, particular, de carga, de ERT o VCA, deberá someterse a una revisión anual de sus condiciones físico-mecánicas en los centros autorizados por la Coordinación General o bien en las delegaciones habilitadas para tal efecto. Dicha verificación será requisito indispensable para la renovación de la tarjeta de circulación cuya emisión podrá ser física o digital, su modalidad y demás requisitos del refrendo anual, así como los requerimientos para su registro en el Sistema Estatal de Información de Movilidad, Transporte y Seguridad Vial, y su circulación en el estado serán establecidos en el Reglamento. Es responsabilidad de los propietarios de vehículos proporcionar información completa, veraz y correcta para la adecuada integración y registro de sus unidades en el Registro Público Vehicular (REPUVE).
-
-Dicha revisión se enfocará en el estado de los sistemas de frenos, suspensión, dirección, llantas, luces y estructura del vehículo. La Coordinación General, estará facultada para los siguientes preceptos:
-
-I. En coordinación con las autoridades competentes, implementar operativos para la supervisión de peso y dimensiones de los vehículos de carga en las vías de jurisdicción estatal, a fin de prevenir daños a la infraestructura y reducir riesgos de siniestralidad, y
-
-II. A través de sus inspectores o supervisores, tendrá la facultad de retirar de la circulación de forma inmediata y remitir al depósito vehicular a cualquier unidad de transporte público que presente fallas sustanciales que pongan en riesgo la seguridad de las personas usuarias, o que no acrediten la documentación correspondiente al momento de la revisión, de conformidad con lo establecido en el Reglamento de esta Ley, sin perjuicio de las sanciones que correspondan a la persona concesionaria.
-
-###### Artículo 140.
-
-Los vehículos particulares estarán sujetos a la revisión de condiciones físico-mecánicas en los términos y con la periodicidad que determinen los programas, el Reglamento y la normativa aplicable en la materia.
-
-###### Artículo 141.
-
-Las flotillas tanto de vehículos privados como públicos serán objeto de un impulso significativo por parte de la Coordinación General, el cual podrá materializarse, entre otros, a través de programas de incentivos para la renovación de flota, o el diseño de acciones públicas específicas que promuevan la adquisición de vehículos con altos estándares de eficiencia energética y seguridad vial, con el propósito de fomentar un parque vehicular que cumpla con criterios rigurosos de eficiencia energética, control efectivo de emisiones contaminantes y altos estándares de seguridad vial.
-
-Este impulso se basará estrictamente en las disposiciones establecidas por las Normas Oficiales Mexicanas vigentes, así como en otras normativas y regulaciones aplicables, sin dejar de lado la incorporación de las mejores prácticas y tecnologías reconocidas a nivel internacional en materia de movilidad sostenible y seguridad vehicular. Para asegurar el cumplimiento de estos objetivos, durante las revisiones físico-mecánicas periódicas, se deberá verificar que las flotillas cuenten con dispositivos y sistemas específicos que garanticen el cumplimiento de los estándares técnicos y de seguridad correspondientes.
-
-En estricta observancia, los requerimientos se presentarán de la siguiente manera:
-
-I. En el caso de vehículos ligeros, será obligatorio la instalación y correcto funcionamiento de sistemas avanzados como el control electrónico de estabilidad, que ayuda a prevenir pérdidas de control en situaciones críticas. Además, los vehículos deben cumplir estrictamente con los estándares de protección en impactos frontales, laterales, laterales de poste, y contar con sistemas de protección diseñados para salvaguardar la integridad de peatones. Todo ello debe estar respaldado por un desempeño general en seguridad que garantice la protección integral de todos los usuarios de la vía, incluyendo conductores, pasajeros y transeúntes;
-
-II. Para los vehículos pesados, se exige la incorporación de tecnologías avanzadas de asistencia inteligente a la conducción, orientadas a la prevención de accidentes y mejora de la seguridad vial. Entre estas, destacan sistemas como el frenado autónomo de emergencia, que permite detener el vehículo automáticamente ante situaciones de riesgo; la asistencia de control de velocidad, que ayuda a mantener velocidades seguras y adecuadas; así como la asistencia para evitar desviaciones involuntarias de carril, lo que mejora sustancialmente el control y la estabilidad durante el manejo, y
-
-III. En cuanto al transporte específico de niñas y niños, se establecerá la obligación de contar con sistemas de anclaje robustos y certificados para la correcta instalación de sistemas de retención infantil. Además, los vehículos deben estar equipados con sistemas de retención infantil adecuados para las diferentes edades y tamaños, complementados con cinturones de seguridad de tres puntos que aseguren una correcta sujeción y protección durante el viaje.
-
-###### Artículo 142.
-
-Todos los vehículos motorizados nuevos que se comercialicen en el estado de Morelos deberán cumplir con los dispositivos y estándares de seguridad vehicular establecidos en las Normas Oficiales Mexicanas vigentes y aplicables. La Coordinación General realizará campañas informativas sobre el desempeño de seguridad de los distintos modelos vehiculares.
-
-###### Artículo 143.
-
-Queda prohibido instalar o utilizar en los vehículos, dispositivos como "tumbaburros" o "mataburros", que por su diseño incrementen la severidad de las lesiones a peatones, ciclistas u ocupantes de otros vehículos en caso de siniestro, salvo en aquellos vehículos de emergencia o seguridad pública debidamente autorizados por la Coordinación General.
-
-## TÍTULO NOVENO. DE LAS LICENCIAS Y PERMISOS PARA CONDUCIR
-
-### CAPÍTULO I. DISPOSICIONES GENERALES Y CLASIFICACIÓN
-
-###### Artículo 144.
-
-Para conducir cualquier vehículo motorizado en la vía pública del estado de Morelos es indispensable contar con una licencia o permiso de conducir vigente, expedido por la Coordinación General o por cualquier otra autoridad competente de la Federación o de las Entidades Federativas, que corresponda al tipo de vehículo que se conduce.
-
-###### Artículo 145.
-
-Las licencias y permisos de conducir son documentos personales e intransferibles que acreditan la aptitud y los conocimientos de una persona para operar un vehículo motorizado. La Coordinación General es la única autoridad en el Estado facultada para su expedición.
-
-###### Artículo 146.
-
-Las licencias de conducir se clasificarán de acuerdo con el tipo de vehículo y servicio, al menos en las siguientes categorías:
-
-I. Tipo A – Automovilista, para conducir vehículos de uso particular que no excedan las 3.5 toneladas de peso bruto vehicular;
-
-II. Tipo B – Motociclista, para conducir motocicletas de uso particular, motos de plataformas de ERT, vehículos de micromovilidad, mototaxis, bicitaxis y triciclos automotores de uso particular;
-
-III. Tipo C - Chofer de Transporte Privado, para conducir vehículos de uso privado de más de 3.5 toneladas de peso bruto vehicular, o aquellos que presten servicio privado de carga o de personal, vehículos de plataformas de ERT;
-
-IV. Tipo D - Chofer de Transporte Público, para conducir vehículos destinados al servicio de transporte público de pasajeros, ya sea colectivo o individual, y
-
-V. Tipo E - Chofer de Transporte de Carga, para conducir vehículos destinados al servicio de transporte público o privado de carga de más de 3.5 toneladas, o que transporten materiales o residuos peligrosos.
-
-###### Artículo 147.
-
-Las licencias que expida la Coordinación General podrán ser impresas en material plástico o de forma digital, mediante aplicaciones tecnológicas, mismas que permitirán la acreditación de las habilidades y requisitos correspondientes para la conducción del tipo de vehículo de que se trate y tendrán plena validez en territorio nacional. El Reglamento establecerá las subcategorías, modalidades, vigencias y los requisitos específicos para cada tipo de licencia.
-
-### CAPÍTULO II. DE LA EXPEDICIÓN, RENOVACIÓN Y CERTIFICACIÓN
-
-###### Artículo 148.
-
-Para la expedición por primera vez de cualquier tipo de licencia o permiso de conducir, la persona solicitante deberá acreditar los requisitos siguientes:
-
-I. Ser mayor de edad, salvo en los casos de permisos para menores que establezca el Reglamento, y
-
-II. Presentar y aprobar un examen de valoración integral que demuestre su aptitud, conocimientos y habilidades para la conducción del tipo de vehículo correspondiente. Este examen constará de al menos:
-
-a) Una evaluación teórica sobre los contenidos de esta Ley y su Reglamento pertinentes al tipo de vehículo y servicio, la señalización vial y los primeros auxilios;
-
-b) Una evaluación de pericia y habilidades prácticas de conducción en simulador de tránsito real controlado, diferenciada por tipo de vehículo. Para tal efecto, la Coordinación General deberá contar con las herramientas tecnológicas habilitadas para la aplicación de la evaluación o certificar centros evaluadores con los dispositivos requeridos, y
-
-c) Una evaluación psicofísica que certifique su aptitud visual, auditiva y motriz.
-
-III. Los exámenes para la obtención de licencias de conducir serán diferenciados según el tipo de vehículo y servicio;
-
-a) Para la licencia de Motociclista Tipo – B, el examen práctico deberá realizarse en simulador de circuito cerrado que evalúe la pericia en maniobras de baja velocidad, frenado de emergencia y esquive de obstáculos. Para tal efecto, la Coordinación General deberá contar con las herramientas tecnológicas habilitadas para la aplicación de la evaluación o certificar centros evaluadores con los dispositivos requeridos, y
-
-b) Para las licencias de Tipo C – Chofer de Transporte Privado, Tipo D – Chofer de Transporte Público y Tipo E – Chofer de Carga, el proceso incluirá, además de los exámenes teórico, práctico y psicofísico, la aprobación de un curso de capacitación obligatoria y la obtención de un Certificado de Idoneidad.
-
-IV. Cumplir con los demás requisitos de identificación y domicilio que establezca el Reglamento.
-
-Las personas con discapacidad pueden obtener su licencia en igualdad de condiciones, previa acreditación de los requisitos aplicables en la materia. La Coordinación General realizará las acciones conducentes para garantizar su procedencia.
-
-###### Artículo 149.
-
-La Coordinación General establecerá los centros de evaluación y certificación para la aplicación de los exámenes, los cuales podrán ser operados directamente por la autoridad o a través de terceros debidamente acreditados y supervisados, para garantizar su imparcialidad y rigor técnico. La evaluación teórica para la obtención de cualquier tipo de licencia deberá incluir un módulo específico sobre la vulnerabilidad de peatones y ciclistas, y las responsabilidades del conductor de vehículo motorizado frente a ellos, de acuerdo con la pirámide de la jerarquía de la movilidad.
-
-El curso de capacitación obligatoria a que se refiere el inciso b) de la fracción III, del artículo anterior, deberá tener una duración mínima de 12 horas e incluirá, al menos, los siguientes temas:
-
-I. Normativa en materia de movilidad y tránsito;
-
-II. Manejo preventivo y defensivo y percepción del riesgo;
-
-III. Mecánica básica para la detección de fallas;
-
-IV. Derechos humanos, perspectiva de género y protocolos de actuación ante casos de acoso o violencia;
-
-V. Atención a personas usuarias, con especial énfasis en personas con discapacidad y movilidad limitada, y
-
-VI. Primeros auxilios y actuación como primer respondiente en siniestros de tránsito.
-
-###### Artículo 150.
-
-Para la renovación de cualquier licencia de conducir, la persona solicitante deberá presentar una evaluación psicofísica y acreditar que no cuenta con sanciones por infracciones graves pendientes de cumplir, de acuerdo con la información del saldo de puntos de su licencia contenidos en el Registro Estatal de Movilidad.
-
-###### Artículo 151.
-
-Para la renovación de las licencias Tipo C – Chofer de Transporte Privado para ERT, Tipo D – Chofer de Transporte Público o Tipo E – Chofer de Carga, el solicitante deberá, además de los requisitos del artículo anterior, acreditar haber cursado y aprobado un curso de actualización en materia de normatividad de tránsito, seguridad vial, derechos humanos, accesibilidad y perspectiva de género, con la periodicidad que establezca el Reglamento.
-
-###### Artículo 152.
-
-La Coordinación General expedirá un certificado de idoneidad a las personas conductoras que aprueben el curso de capacitación obligatoria estipulada en el Reglamento. Dicho certificado será requisito indispensable para la obtención de las licencias Tipo B (en su modalidad de operación de plataformas de Empresas de Redes de Transporte), Tipo C – Chofer de Transporte Privado, Tipo D – Chofer de Transporte Público y Tipo E – Chofer de Carga.
-
-### CAPÍTULO III. DEL PERMISO DE CONDUCIR PARA MENORES DE EDAD
-
-###### Artículo 153.
-
-La Coordinación General podrá expedir un permiso de conducir provisional a personas mayores de dieciséis años y menores de dieciocho, siempre que cumplan con los siguientes requisitos:
-
-I. Acreditar un curso de capacitación y manejo en una escuela certificada por la Coordinación General;
-
-II. Aprobar el examen de valoración integral a que se refiere el artículo 151 de esta Ley;
-
-III. Presentar una carta aval firmada por el padre, madre o tutor legal, quien se obliga solidariamente por cualquier daño o perjuicio que el menor cause a terceros en la conducción del vehículo, y
-
-IV. Contar con una póliza de seguro de cobertura amplia para el vehículo que conducirá.
-
-###### Artículo 154.
-
-El permiso para menores de edad sólo autorizará la conducción de vehículos particulares tipo A y motocicletas tipo B. Tendrá una vigencia máxima de un año, al término de este periodo deberán de tramitar de nuevo su expedición, estará sujeto a restricciones de horario y circulación que se establecerán en el Reglamento, tales como la prohibición de conducir durante la noche.
-
-### CAPÍTULO IV. DEL SISTEMA DE PUNTOS DE LA LICENCIA DE CONDUCIR
-
-###### Artículo 155.
-
-Se establece el sistema de puntos para las licencias de conducir. A cada licencia se le asignará un saldo de puntos inicial, el cual se irá reduciendo por la comisión de determinadas infracciones.
-
-###### Artículo 156.
-
-El Reglamento de esta Ley establecerá el tabulador de puntos que se reducirán por cada tipo de infracción, así como el procedimiento para su aplicación y notificación al titular de la licencia.
-
-###### Artículo 157.
-
-La acumulación de un número determinado de infracciones o la pérdida total de los puntos será causa de suspensión o cancelación de la licencia, de acuerdo con lo que establezca el Reglamento. La reincidencia en la conducción bajo los efectos del alcohol será causa de cancelación definitiva de la licencia.
-
-## TÍTULO DÉCIMO. DE LOS DERECHOS Y OBLIGACIONES DE LAS PERSONAS USUARIAS
-
-### CAPÍTULO I. DE LOS DERECHOS GENERALES DE LAS PERSONAS USUARIAS
-
-###### Artículo 158.
-
-Todas las personas usuarias de los sistemas de movilidad y transporte en el estado de Morelos tienen derecho a desplazarse por la vía pública en condiciones de seguridad, accesibilidad, comodidad, higiene y eficiencia. Las autoridades, en el ámbito de su competencia, son responsables de garantizar el ejercicio pleno de estos derechos.
-
-###### Artículo 159.
-
-En todo proceso de carácter administrativo, penal o civil derivado de un siniestro de tránsito, las víctimas directas e indirectas gozarán, como mínimo, de los siguientes derechos:
-
-I. Recibir atención médica y psicológica de emergencia, de manera integral, gratuita y expedita;
-
-II. Recibir información, orientación y asesoría jurídica para tomar decisiones informadas;
-
-III. Garantizar el respeto a su dignidad, privacidad e intimidad, evitando la revictimización, y
-
-IV. Acceder a los mecanismos de reparación integral del daño, en los términos de la Ley Estatal de Víctimas y demás disposiciones aplicables, considerando sus condiciones de vulnerabilidad.
-
-###### Artículo 160.
-
-Las autoridades competentes, en el ámbito de sus respectivas atribuciones, deberán emitir los protocolos de actuación necesarios para garantizar los derechos de las víctimas, los cuales serán de observancia obligatoria para las personas servidoras públicas.
-
-### CAPÍTULO II. DE LOS DERECHOS ESPECÍFICOS POR TIPO DE PERSONA USUARIA
-
-###### Artículo 161.
-
-Son derechos de las personas transeúntes:
-
-I. Disponer de vías y espacios públicos seguros, accesibles y diseñados para su uso, con banquetas libres de obstáculos, rampas, cruces seguros y alumbrado público adecuado;
-
-II. Tener preferencia de paso en todas las intersecciones y zonas de cruce, debidamente señalizadas, y
-
-III. Contar con el tiempo suficiente en los semáforos peatonales para cruzar las vías de manera segura, considerando las diferentes capacidades de la población.
-
-###### Artículo 162.
-
-Son derechos de las personas ciclistas y usuarias de vehículos de movilidad personal no motorizados:
-
-I. Circular por las vías públicas de manera segura, ocupando un carril completo;
-
-II. Disponer de una red de infraestructura ciclista segura, conectada y continua;
-
-III. Contar con espacios de estacionamiento seguros y suficientes en los centros generadores de viajes, y
-
-IV. Ser respetadas en su prioridad de paso por los vehículos motorizados.
-
-###### Artículo 163.
-
-Son derechos de las personas usuarias del transporte público:
-
-I. Recibir un servicio de calidad, con unidades limpias, seguras y en buen estado mecánico;
-
-II. Ser tratadas con dignidad, respeto y amabilidad por parte de las personas operadoras y demás personal del servicio;
-
-III. Conocer de manera clara y accesible las rutas, horarios, frecuencias y tarifas del servicio;
-
-IV. Pagar la tarifa autorizada y recibir el cambio exacto o bien realizar su pago a través del sistema de pago electrónico centralizado;
-
-V. Acceder a los descuentos y exenciones tarifarias a los que tengan derecho, como personas adultas mayores, estudiantes y personas con discapacidad estipuladas en el Reglamento;
-
-VI. Viajar con seguridad, contando con los seguros de vida y gastos médicos correspondientes;
-
-VII. Disponer de asientos preferentes para personas con discapacidad, personas adultas mayores, mujeres embarazadas o con infantes en brazos;
-
-VIII. Que las unidades cumplan con los horarios y frecuencias establecidas, y
-
-IX. Presentar quejas y denuncias por la mala calidad del servicio y recibir una respuesta oportuna de la autoridad.
-
-### CAPÍTULO III. DE LAS OBLIGACIONES DE LAS PERSONAS USUARIAS
-
-###### Artículo 164.
-
-Son obligaciones de todas las personas usuarias de la vía:
-
-I. Acatar las disposiciones de esta Ley, su Reglamento y los señalamientos de tránsito;
-
-II. Respetar la jerarquía de la movilidad y ceder el paso a los usuarios que tengan preferencia;
-
-III. Comportarse de manera que no se obstaculice, ponga en riesgo o cause daño a otras personas o a la infraestructura pública, y
-
-IV. Hacer uso responsable y consciente del espacio público, calles, infraestructura vial y señalamientos. La falta a esta disposición será sancionada de conformidad con lo establecido en el reglamento de esta Ley.
-
-###### Artículo 165.
-
-Son obligaciones de las personas transeúntes:
-
-I. Cruzar las vías por las esquinas, los pasos peatonales o los puentes y túneles destinados para tal fin;
-
-II. Utilizar las banquetas y espacios peatonales, absteniéndose de caminar por la superficie de rodamiento vehicular, y
-
-III. Atender las señales de los semáforos y de los agentes de tránsito.
-
-###### Artículo 166.
-
-Son obligaciones de las personas usuarias del transporte público:
-
-I. Pagar la tarifa correspondiente;
-
-II. Abstenerse de realizar actos que pongan en riesgo la seguridad de los demás pasajeros o de la persona operadora;
-
-III. No dañar, pintar o maltratar las unidades o la infraestructura del servicio;
-
-IV. Ceder los asientos preferentes a quien los necesite, y
-
-V. No fumar, ingerir bebidas alcohólicas o consumir sustancias psicoactivas a bordo de las unidades.
-
-## TÍTULO DÉCIMO PRIMERO. DE LA EDUCACIÓN, CULTURA VIAL Y CAPACITACIÓN
-
-### CAPÍTULO I. DEL PROGRAMA ESTATAL DE EDUCACIÓN Y CULTURA VIAL
-
-###### Artículo 167.
-
-La Coordinación General, en coordinación con los Ayuntamientos y con el Instituto de la Educación Básica del Estado de Morelos y las instituciones de educación media superior y superior, diseñará e implementará el Programa Estatal de Educación y Cultura Vial. La Coordinación General colaborará con la autoridad educativa estatal para incorporar contenidos de movilidad, transporte y seguridad vial en los planes y programas de estudio de todos los niveles educativos, desde la educación básica hasta la media superior. La educación en esta materia deberá, como mínimo:
-
-I. Desarrollar la percepción del riesgo y la comprensión de sus factores;
-
-II. Fomentar el conocimiento y respeto por las normas de tránsito y la señalización vial;
-
-III. Priorizar la protección de las personas usuarias más vulnerables, conforme a la jerarquía de la movilidad;
-
-IV. Promover la elección de modos de desplazamiento sostenibles, seguros y saludables, y
-
-V. Informar sobre los derechos y obligaciones de cada persona usuaria de la vía.
-
-###### Artículo 168.
-
-El Programa Estatal de Educación y Cultura Vial tendrá los siguientes componentes mínimos:
-
-I. La inclusión de contenidos transversales sobre seguridad vial, movilidad sostenible, pirámide de la jerarquía de la movilidad y convivencia en el espacio público en los planes y programas de estudio de la educación básica y media superior;
-
-II. La realización de campañas permanentes de comunicación y sensibilización, a través de medios masivos y digitales, con pertinencia cultural y lingüística a toda la población sobre los principales factores de riesgo vial;
-
-III. La oferta de cursos y talleres de ciclismo urbano, seguridad para motociclistas y manejo preventivo, abiertos a la ciudadanía, y
-
-IV. La promoción de actividades lúdicas y recreativas, como las vías recreativas, que fomenten una cultura de movilidad activa y segura.
-
-###### Artículo 169.
-
-Los contenidos educativos a que se refiere la fracción I del artículo anterior deberán, como mínimo, desarrollar en los estudiantes la percepción del riesgo, el conocimiento de la normatividad, el respeto por las personas usuarias más vulnerables y la promoción de modos de desplazamiento sostenibles.
-
-###### Artículo 170.
-
-Las campañas de comunicación deberán utilizar mensajes claros, basados en evidencia, con pertinencia cultural y lingüística, y con un enfoque de derechos humanos y perspectiva de género, visibilizando los riesgos diferenciados que enfrentan los grupos en situación de vulnerabilidad.
-
-###### Artículo 171.
-
-Las autoridades estatales y municipales, en el ámbito de su competencia, promoverán entre sus empleados y las personas usuarias, estrategias para un uso reducido del automóvil en sus desplazamientos cotidianos, para contribuir a disminuir la congestión vial, la contaminación del aire y las emisiones de gases de efecto invernadero, así como a mejorar la eficiencia del sistema de movilidad, la seguridad vial, el entorno urbano y la calidad de vida de las personas usuarias de la vía.
-
-### CAPÍTULO II. DE LA FORMACIÓN Y CAPACITACIÓN PROFESIONAL
-
-###### Artículo 172.
-
-La Coordinación General promoverá la capacitación y certificación continúa del personal directivo, técnico, y profesional, tanto del sector público como privado, involucrado en la planeación, diseño, operación y evaluación de la infraestructura y los servicios de movilidad, transporte y seguridad vial.
-
-###### Artículo 173.
-
-La Coordinación General, en colaboración con las autoridades competentes, establecerá las bases para la creación e implementación de un Servicio Profesional de Carrera para su personal técnico y operativo. Este servicio se fundamentará en el mérito, la honradez, la capacidad y la experiencia, con el propósito de garantizar la profesionalización, imparcialidad, especialización y continuidad en la gestión pública de la movilidad, el transporte y la seguridad vial. De esta forma, se asegura que la toma de decisiones técnicas responda a criterios objetivos y no a coyunturas políticas o periodos de gobierno.
-
-###### Artículo 174.
-
-Las autoridades de seguridad pública y tránsito estatal y municipal deberán incluir en sus programas de formación inicial y continua, módulos especializados en:
-
-I. Aplicación de la presente Ley y su Reglamento;
-
-II. Actuación como primer respondiente en siniestros de tránsito, con base en protocolos homologados;
-
-III. Protocolos de atención a víctimas con perspectiva de género y derechos humanos, y
-
-IV. Gestión del tránsito para la pacificación y protección de personas usuarias vulnerables.
-
-###### Artículo 175.
-
-La Coordinación General establecerá un Programa de Certificación para instructores de manejo y para las instituciones y escuelas de manejo que operen en el Estado, a fin de garantizar la calidad de la formación que imparten de conformidad con lo establecido en el Reglamento.
-
-###### Artículo 176.
-
-Los concesionarios y permisionarios del servicio de transporte público y de carga tendrán la obligación de garantizar la capacitación continua de su personal operador, en los términos que establece esta Ley y su Reglamento.
-
-###### Artículo 177.
-
-Las ERT deberán implementar un programa permanente de capacitación para sus conductores afiliados, enfocado en seguridad vial, normatividad local y prevención de la violencia de género, cuyo cumplimiento será verificado por la Coordinación General, en los términos que establece esta Ley y su Reglamento.
-
-###### Artículo 178.
-
-La Coordinación General celebrará convenios con instituciones de educación superior para fomentar la creación de programas académicos de licenciatura y posgrado especializados en materia de movilidad, transporte y seguridad vial.
-
-## TÍTULO DÉCIMO SEGUNDO. DE LA VERIFICACIÓN, INFRACCIONES Y SANCIONES
-
-### CAPÍTULO I. DE LA VERIFICACIÓN Y SUPERVISIÓN
-
-###### Artículo 179.
-
-La Coordinación General en colaboración con las autoridades federales y municipales, en el ámbito de sus respectivas competencias, serán las encargadas de vigilar y verificar el cumplimiento de las disposiciones de esta Ley y su Reglamento.
-
-###### Artículo 180.
-
-La Coordinación General, a través de su personal debidamente acreditado, realizará actos de inspección y vigilancia para verificar que los servicios de transporte público, de carga y de ERT cumplan con las condiciones de seguridad, calidad, documentación y demás obligaciones establecidas.
-
-Dichos actos se realizarán mediante supervisiones y operativos en vía pública y las visitas de verificación domiciliarias que se estimen convenientes. El área correspondiente de la Coordinación General actuará en el ámbito estatal con funciones de vigilancia, inspección, control y reporte operativo.
-
-###### Artículo 181.
-
-Para los efectos de esta Ley, se entenderá como supervisores al personal autorizado de la Coordinación General, quienes tendrán a su cargo las atribuciones siguientes:
-
-I. Vigilar el exacto cumplimiento de las disposiciones de la presente Ley, su Reglamento y demás ordenamientos aplicables;
-
-II. Vigilar las condiciones de seguridad, comodidad e higiene de las terminales, paradas, sitios y demás servicios auxiliares del transporte;
-
-III. La vigilancia y revisión de los vehículos destinados al Servicio de Transporte, que circulen en la infraestructura carretera del Estado;
-
-IV. Revisar la documentación necesaria que deben portar los operadores del transporte en los vehículos para la prestación del servicio;
-
-V. Practicar inspecciones a los vehículos del servicio de transporte del Estado;
-
-VI. Ejecutar operativos de inspección, vigilancia y control, de conformidad con los planes y programas autorizados;
-
-VII. Elaborar las boletas de infracciones a los conductores de los vehículos del Servicio de Transporte Público y Privado cuando se infrinja alguna disposición a la presente Ley o su Reglamento;
-
-VIII. Hacer del conocimiento de la autoridad competente hechos o conductas que se presuman constitutivos de algún delito;
-
-IX. Coordinarse con autoridades municipales, estatales o federales para la ejecución de acciones conjuntas de supervisión, y
-
-X. Las demás que le confiera la presente Ley y su Reglamento.
-
-###### Artículo 182.
-
-Las autoridades de seguridad pública y vialidad, tanto del Estado como de sus Ayuntamientos, en estricta observancia, realizarán los actos de vigilancia y supervisión que garanticen el cumplimiento de la normativa de tránsito por parte de todas las personas usuarias. El ejercicio de estas facultades deberá apegarse a los principios rectores de la Ley General, asegurando que toda intervención y sanción sea objetiva, proporcional y transparente, en concordancia con lo dispuesto por el mismo ordenamiento y en el Reglamento de esta Ley.
-
-La vigilancia se enfocará de manera prioritaria en aquellas conductas de riesgo que atentan directamente contra la seguridad vial y la vida, como el exceso de velocidad, la conducción bajo los efectos del alcohol y el uso de distractores. Esta vigilancia se aplicará sin distinción, en estricto respeto a los derechos humanos y a la jerarquía de la movilidad establecida en la presente Ley.
-
-###### Artículo 183.
-
-El personal que realice funciones de verificación e inspección deberá:
-
-I. Estar debidamente identificado, portar en todo momento su uniforme, identificación oficial vigente y oficio de comisión;
-
-II. Actuar con legalidad, objetividad, imparcialidad, profesionalismo y con estricto apego a los protocolos establecidos, respetando en todo momento los derechos humanos de las personas;
-
-III. Elaborar actas circunstanciadas de sus intervenciones, debidamente firmadas y sustentadas con evidencia documental o digital;
-
-IV. Abstenerse de recibir cualquier tipo de dádiva, beneficio, gratificación o contraprestación indebida;
-
-V. Reportar de inmediato cualquier irregularidad detectada a su superior jerárquico;
-
-VI. Cumplir estrictamente con los protocolos y lineamientos operativos que establezca la Coordinación General, y
-
-VII. Someterse a evaluaciones periódicas de desempeño.
-
-###### Artículo 184.
-
-La ciudadanía podrá denunciar ante la Coordinación General o la autoridad municipal correspondiente cualquier acto de abuso de autoridad, extorsión o violación a los derechos humanos por parte del personal de verificación, supervisión, inspección o de tránsito.
-
-###### Artículo 185.
-
-Las personas físicas y morales están obligadas a proporcionar a los supervisores nombrados para tal efecto por la autoridad competente, previa acreditación como tales, los informes, documentos y datos que sean necesarios para el ejercicio de sus funciones.
-
-### CAPÍTULO II. DE LAS INFRACCIONES Y MEDIDAS DE SEGURIDAD
-
-###### Artículo 186.
-
-Se considera infracción a toda acción u omisión que contravenga las disposiciones de esta Ley y su Reglamento y todas aquellas que de ella emanen.
-
-###### Artículo 187.
-
-Cuando una persona conductora cometa una infracción a las normas de tránsito, el agente de la policía de tránsito competente deberá elaborar el acta de infracción correspondiente, la cual deberá estar debidamente fundada y motivada, y notificarla al infractor, entregando una copia de la misma.
-
-###### Artículo 188.
-
-La Coordinación General y los Ayuntamientos podrán emplear sistemas y equipos tecnológicos, como cinemómetros (radares de velocidad) y sistemas de fotodetección, para constatar la comisión de infracciones, particularmente las relacionadas con los límites de velocidad y el respeto a la luz roja del semáforo. El Reglamento establecerá los protocolos para su operación y la notificación de las sanciones derivadas.
-
-###### Artículo 189.
-
-Como medida de seguridad para salvaguardar la vida y la integridad de las personas, las autoridades competentes podrán retirar un vehículo de la circulación por casusas graves y remitirlo a un depósito vehicular además de los que se señalen en el Reglamento de la Ley, en los siguientes casos:
-
-I. Cuando la persona conductora presente una concentración de alcohol en sangre o aire espirado superior a la permitida, y no se encuentre un acompañante en condiciones de conducir;
-
-II. Cuando el vehículo no cuente con placas de matrícula o permiso de circulación vigente, o utilice placas metálicas de identificación en vehículo distinto al autorizado;
-
-III. Cuando el vehículo sea ostensiblemente contaminante o presente fallas mecánicas evidentes o condiciones físico-mecánicas que pongan visiblemente en riesgo la seguridad vial y la del usuario;
-
-IV. Por prestar el servicio de transporte público sin la concesión o permiso correspondiente;
-
-V. Por abandonar el vehículo en la vía pública;
-
-VI. Por estacionarse en un lugar prohibido que obstruya gravemente la circulación o un espacio destinado a servicios de emergencia o para personas con discapacidad;
-
-VII. Por carecer de las pólizas de seguro de responsabilidad civil por daños a terceros o fondo de garantía que establece la Ley;
-
-VIII. Cuando el operador del transporte público haya agotado sus puntos en su licencia de conducir;
-
-IX. Por alterar en cualquier forma el diseño, estructura, capacidad y construcción original de los vehículos destinados al servicio de transporte público, sin autorización expresa y por escrito de la Coordinación General, y
-
-X. Cuando se interrumpa total o parcialmente una vía pública o bien se invadan oficinas públicas como medio de presión a las autoridades con los vehículos del Servicio de Transporte Público, Privado o Carga.
-
-###### Artículo 190.
-
-Los supervisores, en ejercicio de su responsabilidad, podrán retener en garantía de pago de las infracciones por conceptos de violación a la presente Ley y su Reglamento, cualquiera de los elementos de circulación.
-
-###### Artículo 191.
-
-En caso de que un supervisor detecte un vehículo operando Servicios de Transporte Público concesionado o sin concesión, Servicios de Transporte Privado o de Carga, relacionado en hechos que puedan ser constitutivos de delitos, tendrá la obligación de ponerlo a disposición del Ministerio Público o autoridad correspondiente, conjuntamente con su operador, para el deslinde de responsabilidad correspondiente.
-
-###### Artículo 192.
-
-El procedimiento para la liberación de los vehículos remitidos al depósito vehicular se establecerá en el Reglamento, y requerirá, como mínimo, el pago de la multa correspondiente y de los derechos por los servicios de arrastre y resguardo, cuyas tarifas serán aplicables conforme a las disposiciones normativas aplicables.
-
-### CAPÍTULO III. DE LAS SANCIONES
-
-###### Artículo 193.
-
-Las infracciones de carácter general a la presente Ley y su Reglamento serán sancionadas de acuerdo con su gravedad. Las sanciones podrán consistir en:
-
-I. Amonestación verbal o escrita;
-
-II. Multa, expresada en Unidades de Medida y Actualización (UMA);
-
-III. Retiro de puntos de la licencia de conducir;
-
-IV. Suspensión de la licencia de conducir;
-
-V. Cancelación definitiva de la licencia de conducir;
-
-VI. Suspensión de la concesión o permiso de transporte;
-
-VII. Revocación de la concesión o permiso de transporte, y
-
-VIII. Retiro del vehículo de la circulación.
-
-###### Artículo 194.
-
-El Reglamento de esta Ley contendrá el tabulador de infracciones y sanciones, clasificando las faltas en leves, graves y muy graves, de acuerdo al nivel de riesgo que generan para la seguridad vial.
-
-###### Artículo 195.
-
-Se considerarán, al menos, como infracciones muy graves, y se sancionarán con las multas más altas y la reducción de puntos en la licencia, las siguientes conductas:
-
-I. Conducir con una concentración de alcohol o bajo el influjo de sustancias psicoactivas superior a la permitida;
-
-II. Exceder en más de 20 km/h los límites de velocidad establecidos;
-
-III. Prestar el servicio de transporte público sin concesión;
-
-IV. No respetar la luz roja del semáforo o la señal de alto;
-
-V. Circular en carriles a contraflujo o en los exclusivos para el transporte público, y
-
-VI. No utilizar el cinturón de seguridad o los sistemas de retención infantil.
-
-###### Artículo 196.
-
-Adicionalmente, se sancionará a los operadores, permisionarios y concesionarios del Transporte Público, de acuerdo con el tabulador respectivo detallado en el Reglamento de esta Ley, por las siguientes conductas:
-
-I. Por no mostrar la tarifa autorizada en lugar visible del vehículo;
-
-II. Cuando el vehículo no reúna las condiciones adecuadas en su estado físico interior y exterior, y en su sistema mecánico o electrónico, a juicio de la autoridad competente;
-
-III. Por hacer uso de la vía pública para el establecimiento de terminales no autorizadas, o que estas causen molestias a los habitantes o establecimientos aledaños;
-
-IV. Por no señalar en la unidad el número económico o el número de la ruta asignada, o por no acatar la cromática asignada por la Coordinación General;
-
-V. Cuando el operador del transporte público no porte el uniforme de trabajo durante el servicio;
-
-VI. Cuando el operador del transporte no tenga a la vista de los usuarios el original de su gafete de operador;
-
-VII. Cuando el operador no acate las normas de tránsito, horarios, frecuencias e itinerarios;
-
-VIII. Por aplicar tarifas no autorizadas;
-
-IX. Por comportamiento indebido y falta de cortesía con el público;
-
-X. Por abastecer combustible con el motor encendido o con pasajeros a bordo;
-
-XI. Por tolerar que viajen personas en los estribos o en lugares no destinados para ello;
-
-XII. Por circular con las puertas abiertas o no extremar las precauciones al abrirlas;
-
-XIII. Por no disponer de asientos reservados para personas con discapacidad, mujeres embarazadas o adultos mayores, y
-
-XIV. Por accionar equipos con sonido estridente dentro de los vehículos.
-
-###### Artículo 197.
-
-Se sancionará con multa de entre cien y trescientas veces el valor diario de la Unidad de Medida y Actualización, al que preste el servicio en cualquiera de sus modalidades careciendo de concesión, permiso o con placas de identificación de Transporte Públicoen (sic) vehículo distinto al autorizado. En caso de reincidencia, la multa ascenderá a entre trescientas y quinientas veces el valor diario de la Unidad de Medida y Actualización. Para garantizar el pago de esta sanción, la autoridad del transporte deberá retener en garantía el vehículo en el que se cometió la infracción.
-
-###### Artículo 198.
-
-La reincidencia en la comisión de infracciones graves en un periodo de un año será causa de suspensión de la licencia de conducir. La reincidencia en la conducción bajo los efectos del alcohol será causa de cancelación definitiva de la licencia.
-
-###### Artículo 199.
-
-Se procederá a la suspensión del gafete de operador en los siguientes casos:
-
-I. Por treinta días:
-
-a) Cuando opere un vehículo con la certificación no vigente;
-
-b) Cuando se presenten más de dos quejas de personas usuarias dentro de un periodo de noventa días naturales por no dar cambio exacto, o por ofender o discriminar a las y los pasajeros, y
-
-a) (sic) Cuando se presenten más de dos quejas de usuarios dentro de un periodo de noventa días naturales por no aplicar la exención de pago o descuentos correspondientes.
-
-II. Por sesenta días:
-
-I. Por reincidencia en las acciones del numeral anterior en un periodo de sesenta días, y
-
-II. Cuando no permita que le realicen el examen toxicológico en el tiempo, lugar y forma establecidos.
-
-III. Por noventa días:
-
-a) Por acumular tres infracciones a los ordenamientos de tránsito en un período de treinta días, y
-
-b) Por agredir física o verbalmente a los supervisores del transporte o cualquier otro funcionario de la Coordinación General.
-
-###### Artículo 200.
-
-Procede la cancelación definitiva del gafete de operador en los casos siguientes:
-
-I. Por violar en forma reiterada y sistemática las disposiciones de esta Ley o su Reglamento, no obstante que se hayan aplicado sanciones de amonestación, multa y suspensión;
-
-II. Por haber sido suspendido su gafete en dos ocasiones por cualquiera de los motivos señalados en el artículo anterior;
-
-III. Por abandono del vehículo o de persona en caso de accidente;
-
-IV. Por conducir bajo el influjo de bebidas alcohólicas o el efecto de enervantes o psicotrópicos;
-
-V. Por permitir el uso del gafete de operador a una persona distinta al titular, y
-
-VI. Por entregar documentos falsos para la obtención del gafete de operador.
-
-El operador del transporte, cuyo gafete haya sido cancelado, no tendrá derecho a que se le devuelva o renueve.
-
-###### Artículo 201.
-
-El producto de las multas impuestas por las autoridades estatales, en el ejercicio de sus respectivas facultades de imposición y recaudación, deberá destinarse a la constitución del Fondo Estatal de Movilidad y Seguridad Vial, cuyos recursos se aplicarán exclusivamente a acciones de mejora de la infraestructura peatonal y ciclista, equipamiento para la seguridad vial, y programas de educación y cultura de la movilidad.
-
-Los Municipios, en caso de estimarlo procedente, podrán constituir un Fondo con características similares al estatal.
-
-###### Artículo 202.
-
-Se considerarán circunstancias agravantes en la comisión de infracciones de tránsito, y darán lugar a la imposición de las sanciones más altas, las siguientes:
-
-I. Que el infractor sea operador de un vehículo de transporte público de pasajeros o de carga;
-
-II. Que la infracción haya sido causa directa de un siniestro de tránsito con resultado de lesiones graves o muerte;
-
-III. Que el infractor se dé a la fuga tras cometer la infracción o participar en un siniestro, y
-
-IV. Transportar a un menor de doce años en el asiento del copiloto o sin su sistema de retención infantil correspondiente.
-
-###### Artículo 203.
-
-Sin perjuicio de las sanciones aplicables a la persona operadora, la persona concesionaria del servicio de transporte público será sancionada cuando sus vehículos o personal incurran en infracciones graves o muy graves de manera reiterada, o cuando se acredite que la infracción se debió a una omisión en sus obligaciones de mantenimiento, capacitación o supervisión.
-
-###### Artículo 204.
-
-La conducción de cualquier vehículo motorizado, así como los VCA que no cuenten con una póliza de seguro de responsabilidad civil por daños a terceros vigente será considerada una infracción grave. El vehículo podrá ser retirado de la circulación como medida de seguridad hasta que se acredite la contratación del seguro.
-
-## TÍTULO DÉCIMO TERCERO. DEL USO DE TECNOLOGÍAS PARA LA TRANSPARENCIA Y EL CONTROL DE LA SUPERVISIÓN OPERATIVA
-
-### CAPÍTULO I. DEL USO DE EQUIPOS DE GRABACIÓN AUDIOVISUAL EN LABORES DE SUPERVISIÓN OPERATIVA
-
-###### Artículo 205.
-
-Se regula el uso, almacenamiento y acceso a los sistemas de grabación de audio y video portátiles (cámaras corporales) y los instalados en vehículos oficiales (cámaras en patrullas), utilizados por el personal de supervisión operativa. Su finalidad es transparentar la actuación de la autoridad, prevenir actos de corrupción, fortalecer la confianza ciudadana, así como generar un acervo probatorio que proteja la integridad y la actuación legal tanto de los ciudadanos como del personal operativo durante sus funciones.
-
-###### Artículo 206.
-
-El uso de los equipos de grabación audiovisual se regirá en todo momento por los siguientes principios:
-
-I. Legalidad, su uso se limitará estrictamente a las finalidades previstas en este ordenamiento y la normativa aplicable;
-
-II. Necesidad y Proporcionalidad, la grabación se realizará únicamente cuando sea necesaria para el cumplimiento de las funciones de supervisión y seguridad vial, siendo la medida idónea para alcanzar los fines perseguidos;
-
-III. Transparencia y Notificación, el personal operativo deberá informar a los ciudadanos que están siendo grabados al inicio de cualquier interacción, siempre que las circunstancias lo permitan y no ponga en riesgo la seguridad del operativo. Las patrullas con sistemas de grabación deberán contar con señalética visible que así lo indique;
-
-IV. Confidencialidad y Privacidad, la información obtenida será tratada como confidencial. Se garantizará la protección de los datos personales y el derecho a la privacidad de las personas que intervengan, conforme a la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Morelos, y
-
-V. Integridad y No Alteración, se implementarán los mecanismos tecnológicos necesarios para asegurar que las grabaciones no puedan ser editadas, alteradas o eliminadas por personal no autorizado, garantizando la cadena de custodia digital.
-
-### CAPÍTULO II. DE LA OPERACIÓN DE LOS SISTEMAS DE GRABACIÓN
-
-###### Artículo 207.
-
-El personal de Supervisión Operativa adscrito a la Unidad Operativa de Transporte Público, Privado y Particular de la Coordinación General, que porte una cámara corporal tiene la obligación de activarla al inicio de toda interacción con la ciudadanía derivada de sus funciones, incluyendo, de manera enunciativa más no limitativa:
-
-I. Revisiones a unidades de transporte público o mercantil;
-
-II. Entrevistas con operadores, concesionarios o usuarios;
-
-III. Procedimientos de aplicación de infracciones o sanciones, y
-
-IV. Atención a siniestros de tránsito o situaciones de conflicto.
-
-La grabación deberá continuar de manera ininterrumpida hasta la conclusión de la interacción o el procedimiento. El personal podrá desactivar la cámara durante periodos de descanso, en conversaciones privadas con otros compañeros que no se relacionen con un procedimiento en curso, o en situaciones donde se requiera proteger la intimidad de víctimas vulnerables, debiendo justificar la desactivación en su informe de actividades.
-
-###### Artículo 208.
-
-Los sistemas de grabación audiovisual instalados en las patrullas se activarán de forma automática al encender el vehículo o las señales luminosas y sonoras de emergencia (torreta). Estos sistemas capturarán imágenes y audio del exterior del vehículo para documentar el contexto de las operaciones, así como del interior del habitáculo en la zona destinada a personas puestas a disposición, para garantizar el respeto a sus derechos humanos durante el traslado. La grabación de audio en la cabina de los supervisores solo se activará durante un procedimiento oficial o interacción directa con la ciudadanía, para proteger las conversaciones privadas del personal.
-
-### CAPÍTULO III. DE LA GESTIÓN, RESGUARDO Y ACCESO A LA INFORMACIÓN
-
-###### Artículo 209.
-
-Al finalizar el turno, las grabaciones serán transferidas de forma automática y encriptada a un servidor seguro y centralizado, bajo la responsabilidad del área de Supervisión Operativa adscrita a la Unidad Operativa de Transporte Público, Privado y Particular de la Coordinación General. Las grabaciones se conservarán por un periodo mínimo de noventa días naturales. Aquellas que formen parte de una investigación, queja, procedimiento administrativo o proceso judicial, se conservarán hasta la total conclusión del mismo. Transcurrido el plazo, el material será eliminado de forma permanente y segura, conforme a los protocolos establecidos.
-
-###### Artículo 210.
-
-El acceso a las grabaciones estará estrictamente restringido y sólo se autorizará mediante solicitud fundada y motivada para los siguientes fines:
-
-I. Servir como elemento de prueba en investigaciones sobre quejas o denuncias por presuntos actos de corrupción, abuso de autoridad o cualquier otro acto contrario a los principios de actuación policial o cuando lo solicite la autoridad competente;
-
-II. Constituir un medio de defensa para el personal operativo frente a acusaciones infundadas;
-
-III. Fines de capacitación y mejora continua, previa disociación de los datos personales de los ciudadanos que aparezcan en las imágenes, y
-
-IV. Aportar pruebas en procedimientos administrativos o judiciales, a solicitud de la autoridad competente.
-
-Queda estrictamente prohibido el uso de las grabaciones para fines de vigilancia general, para buscar de manera aleatoria infracciones disciplinarias menores del personal o para cualquier fin distinto a los establecidos en este artículo.
-
-###### Artículo 211.
-
-Es responsabilidad del supervisor portar, cuidar y operar correctamente el equipo asignado, así como reportar de inmediato cualquier falla técnica.
-
-La obstrucción intencional del lente o micrófono, la no activación deliberada de la cámara o micrófono durante una interacción obligatoria, así como la manipulación, daño o destrucción del equipo o las grabaciones, se sancionará conforme al régimen de responsabilidades aplicable, sin perjuicio de las responsabilidades penales que pudieran derivarse.
-
-## TÍTULO DÉCIMO CUARTO. DE LOS MEDIOS DE DEFENSA
-
-### CAPÍTULO I. DE LOS MEDIOS DE IMPUGNACIÓN
-
-###### Artículo 212.
-
-Las personas afectadas por los actos y resoluciones de las autoridades de movilidad y transporte emitidos con fundamento en esta Ley y su Reglamento, podrán interponer el recurso de revisión o, en su caso, promover el juicio contencioso administrativo, en los términos que establece la Ley de Justicia Administrativa del Estado de Morelos.
-
-###### Artículo 213.
-
-El recurso de revisión se interpondrá por escrito ante la misma autoridad que emitió el acto, dentro de los quince días hábiles siguientes a su notificación. Deberá expresar los agravios que el acto recurrido causa al promovente y ofrecer las pruebas que considere pertinentes.
-
-###### Artículo 214.
-
-La interposición del recurso suspenderá la ejecución del acto impugnado, particularmente en lo que se refiere al cobro de multas, siempre y cuando se garantice en los términos previstos en el Código Fiscal para el Estado de Morelos. No se suspenderá la ejecución de sanciones que impliquen la cancelación de licencias o concesiones, o el retiro de vehículos por causas graves de seguridad vial.
-
-###### Artículo 215.
-
-La autoridad resolverá el recurso de revisión en un plazo no mayor a treinta días hábiles contados a partir de la interposición del mismo, confirmando, modificando o revocando el acto impugnado. La resolución que recaiga al recurso será la que ponga fin al procedimiento en la vía administrativa.
-
-DISPOSICIONES TRANSITORIAS
-
-PRIMERA. Remítase la presente Ley a la Persona Titular del Poder Ejecutivo Estatal, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-SEGUNDA. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
-
-TERCERA. Se abroga la Ley de Transporte del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad", número 5172, del 26 de marzo de 2014, y se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a la presente Ley.
-
-CUARTA. La Persona Titular del Poder Ejecutivo Estatal deberá expedir el Reglamento de la presente Ley en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley.
-
-QUINTA. El Sistema Estatal y el Consejo Estatal de Movilidad, Transporte y Seguridad Vial, así como el Observatorio Ciudadano Estatal, deberán quedar formalmente instalados en un plazo no mayor a ciento veinte días naturales, contados a partir de la entrada en vigor de la presente Ley.
-
-SEXTA. Los Ayuntamientos del estado de Morelos deberán crear, adecuar o modificar sus respectivos Reglamentos de Movilidad, Transporte y Seguridad Vial a las disposiciones de la presente Ley, en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley.
-
-SÉPTIMA. La Coordinación General de Movilidad y Transporte, deberá expedir y mantener actualizado el Manual de Diseño de Calles para el Estado de Morelos, en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley.
-
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2026)</small>
-
-OCTAVA. Las concesiones, permisos y autorizaciones otorgados con anterioridad a la entrada en vigor de la presente Ley continuarán vigentes en los términos en que fueron expedidos, acreditando estar debidamente regularizados en sus trámites, pero sus titulares que así lo deseen, podrán ajustarse a las obligaciones de transición, operación, seguridad y equipamiento que establece el nuevo ordenamiento en los plazos que fije el Reglamento.
-
-NOVENA. Los procedimientos y recursos administrativos iniciados con anterioridad a la entrada en vigor de esta Ley se seguirán tramitando y se resolverán conforme a las disposiciones vigentes al momento de su inicio.
-
-DÉCIMA. Las disposiciones contenidas en la presente Ley que para su implementación requieran la erogación de recursos financieros, se realizarán conforme a la suficiencia presupuestal con que cuente la Coordinación General.
-
-DÉCIMA PRIMERA. Respecto a la atribución conferida a la Coordinación General en el artículo 15, fracción VI, de esta Ley, que faculta el establecimiento y operación de centros de evaluación y certificación para la obtención de licencias, la Coordinación General, en coordinación con la Secretaría de Administración y Finanzas del Poder Ejecutivo Estatal y demás autoridades competentes, deberá:
-
-I. Realizar, en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor de la presente Ley, un análisis exhaustivo de factibilidad administrativa, técnica y presupuestal para el establecimiento y operación de dichos centros, y
-
-II. Con base en el análisis referido, elaborar e implementar, en un plazo no mayor a treinta días naturales, un programa de implementación gradual que garantice la adecuada asignación de recursos humanos, materiales y financieros, así como la infraestructura tecnológica necesaria para asegurar la plena operatividad de los centros de evaluación y certificación.
-
-Lo anterior, conforme a la suficiencia presupuestal que al efecto autorice la Secretaría de Administración y Finanzas del Poder Ejecutivo Estatal, en términos de la normativa aplicable.
-
-DÉCIMA SEGUNDA. La Coordinación General deberá elaborar y publicar, en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor de la presente Ley, el Plan Maestro de Transición referido en el Artículo 74. Dicho Plan definirá las etapas, los incentivos y los plazos para la migración de las rutas operadas bajo esquemas de concesión individual a los modelos de gestión de ruta-empresa, cuenca de servicio o corredores, en congruencia con los principios de eficiencia, seguridad y sostenibilidad que rigen esta Ley.
-
-DÉCIMA TERCERA. Las concesiones de transporte público otorgadas bajo el modelo hombre-camión que se encuentren vigentes a la fecha de entrada en vigor de la presente Ley podrán continuar operando en las mismas condiciones establecidas en sus títulos originales, existiendo la posibilidad de organizarse, quienes así lo deseen, bajo la modalidad ruta-empresa, con la finalidad de obtener economías en la adquisición, administración, mantenimiento y operación del parque vehicular, y con ello, lograr la mejoría sustantiva en los estándares de calidad y mejoramiento constante del sistema de transporte público.
-
-DÉCIMA CUARTA. A partir de la primera renovación posterior a la entrada en vigor de esta Ley, cada concesión que se renueve deberá incorporar gradualmente ciertos estándares y requisitos de manera progresiva y escalonada, con el fin de asegurar que el servicio evolucione hacia los nuevos estándares de calidad y eficiencia para la gestión de la movilidad sostenible.
-
-DÉCIMA QUINTA. En un plazo no mayor a noventa días naturales a partir de la entrada en vigor de la presente Ley, la Coordinación General deberá establecer y publicar en el Periódico Oficial "Tierra y Libertad" los lineamientos y la periodicidad del Programa de Certificación para instructores de manejo e instituciones y escuelas de manejo a que se refiere el Artículo 176 de esta Ley, garantizando la continua actualización y estandarización de la formación impartida en materia de movilidad y seguridad vial en el Estado.
-
-Poder Legislativo del Estado de Morelos, Sesión Ordinaria de Pleno del día trece de noviembre de dos mil veinticinco.
-
-Diputadas y Diputados integrantes de la Mesa Directiva del Congreso del Estado de Morelos. Dip. Isaac Pimentel Mejía, presidente. Dip. Guillermina Maya Rendón, secretaria. Dip. Alberto Sánchez Ortega, secretario. Rúbricas.
-
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en la residencia del Poder Ejecutivo, Palacio de Gobierno, en la ciudad de Cuernavaca, capital del estado de Morelos, a los veinticuatro días del mes de noviembre del dos mil veinticinco.
-
-“SUFRAGIO EFECTIVO. NO REELECCIÓN”
-
-GOBERNADORA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
-
-MARGARITA GONZÁLEZ SARAVIA CALDERÓN
-
-SECRETARIO DE GOBIERNO
-
-EDGAR ANTONIO MALDONADO CEBALLOS
-
-RÚBRICAS.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 23 DE ABRIL DE 2026.
-
-> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO MIL CIENTO SETENTA POR EL QUE SE REFORMA LA DISPOSICIÓN TRANSITORIA OCTAVA DE LA LEY DE MOVILIDAD, TRANSPORTE Y SEGURIDAD VIAL DEL ESTADO DE MORELOS".]</small>
-
-PRIMERA. Remítase el presente decreto a la Persona Titular del Poder Ejecutivo Estatal, para los efectos de lo dispuesto por los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-SEGUNDA. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
-
-TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente decreto.
-
-CUARTA. Se instruye a la Coordinación General de Movilidad y Transporte para que, en el ámbito de su competencia, realice las adecuaciones administrativas y reglamentarias necesarias para instrumentar los mecanismos de adhesión voluntaria previstos en la presente reforma, garantizando en todo momento la continuidad en la prestación del servicio público.
+T R A N S I T O R I O S :
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2384,3 +928,19 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 528.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 28 DE LA LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 433 QUE CONTIENE REFORMAS AL ARTÍCULO 28 DE LA LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente proyecto de decreto.
