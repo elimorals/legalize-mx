@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-fiscalia-especializada-en-combate-a-la-12291
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-07-16"
-last_updated: "2023-03-19"
+last_updated: "2023-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Número 57 del Periódico Oficial del Estado de Durango, el domingo 16 de julio de 2017.
 
@@ -145,7 +145,9 @@ XI. Expedir los acuerdos, circulares, instructivos, manuales de organización, d
 
 XII. Proponer el Anteproyecto de Presupuesto Anual de Egresos de la Fiscalía Especializada al Congreso del Estado, para su análisis, discusión y, en su caso, aprobación;
 
-XIV. Comparecer y presentar ante el Congreso del Estado un informe anual en el mes de septiembre sobre el estado que guardan los asuntos a su cargo y los resultados alcanzados en materia de combate a la corrupción, de igual forma lo hará cuando sea requerido para informar sobre asuntos a su cargo;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2023)</small>
+
+XIV. Comparecer y presentar ante el Congreso del Estado un informe anual, de conformidad con lo establecido en la Ley Orgánica del Congreso del Estado de Durango, sobre el estado que guardan los asuntos a su cargo y los resultados alcanzados en materia de combate a la corrupción, de igual forma lo hará cuando sea requerido para informar sobre asuntos a su cargo.
 
 XV. Designar y remover libremente a los Vice-Fiscales.
 
@@ -840,3 +842,11 @@ P.O. 19 DE MARZO DE 2023.
 PRIMERO. - El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. - Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 432 QUE CONTIENE REFORMAS AL ARTÍCULO 15 DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
