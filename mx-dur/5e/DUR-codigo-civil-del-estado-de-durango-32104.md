@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2023-06-18"
+last_updated: "2023-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2023.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -1757,7 +1757,15 @@ ART. 304.- El obligado a dar alimento cumple la obligación asignando una pensi�
 
 ART. 305.-El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de algún cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2023)</small>
+
 ART. 306.- Los alimentos han de ser proporcionados: a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
+
+En ese sentido el Juez determinará en la resolución judicial, una cantidad en porcentaje respecto de los ingresos del deudor alimentario, de tal manera que el monto respectivo a la pensión alimenticia, incremente automáticamente, conforme aumenten los ingresos del deudor alimentario.
+
+Del mismo modo, en el caso de que la pensión se encuentre establecida en los términos del artículo 306-2, la cantidad tendrá un incremento automático de manera anual, mínimo al equivalente del aumento porcentual del salario mínimo general vigente en el Estado. El Juez cuidará el cumplimiento de estas disposiciones tomando las medidas necesarias para ello.
+
+En caso de incumplirse con lo anterior, podrá exigirse por el acreedor alimentario en cualquier momento el pago retroactivo de alimentos en relación con dicha diferencia.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 2020)</small>
 
@@ -11408,5 +11416,13 @@ P.O. 18 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 391.- POR EL CUAL SE ADICIONA UN ARTICULO 717 BIS Y SE REFORMAN LOS ARTICULOS 717, 724, 725 Y 735 DEL CODIGO CIVIL DEL ESTADO DE DURANGO”.]
 
 PRIMERO.- El presente decreto entrará en vigor en día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 430 QUE CONTIENE REFORMAS AL ARTÍCULO 306 DEL CÓDIGO CIVIL VIGENTE EN EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
