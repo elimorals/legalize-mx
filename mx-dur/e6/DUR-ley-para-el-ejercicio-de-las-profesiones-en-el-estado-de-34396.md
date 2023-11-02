@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-el-ejercicio-de-las-profesiones-en-el-estado-de-34396"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-24"
-last_updated: "2021-05-20"
+last_updated: "2023-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de Agosto de 2003.
 
@@ -312,6 +312,14 @@ Los estudiantes podrán prestar los servicios de índole social en comunidades d
 > <small>(ADICIONADO, P.O. 20 DE MAYO DE 2021)</small>
 
 Las instituciones de nivel superior promoverán, de conformidad con su normatividad interna, la donación altruista de sangre, lo que podrá conmutarse en forma parcial por horas del servicio social estudiantil.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE NOVIEMBRE DE 2023)</small>
+
+Además, se permitirá conmutar el servicio social a los estudiantes de instituciones educativas con carreras o especialidades en ciencias de la salud, mediante capacitación o impartición de cursos, pláticas o talleres para el conocimiento y aplicación de los primeros auxilios, en favor de estudiantes de cualquier institución educativa de cualquier nivel y del personal de la administración pública, tanto Estatal como municipal y a los trabajadores del Poder Legislativo y del Poder Judicial.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE NOVIEMBRE DE 2023)</small>
+
+Para efectos de lo mencionado en el párrafo anterior, las instituciones académicas podrán realizar convenios de colaboración entre ellas, con los entes públicos mencionados y con la dirección estatal y las direcciones municipales de protección civil.
 
 ### CAPÍTULO VI. DE LOS COLEGIOS DE PROFESIONISTAS
 
@@ -928,3 +936,11 @@ P.O. 20 DE MAYO DE 2021.
 PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 433 QUE CONTIENE REFORMAS AL ARTÍCULO 28 DE LA LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente proyecto de decreto.
