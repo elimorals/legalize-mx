@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2023-10-27"
+last_updated: "2023-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE NOVIEMBRE DE 2023.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -6247,11 +6247,15 @@ También podrán registrarse de manera individual, como Brigadistas Voluntarios,
 
 Las Unidades Internas de Protección Civil, son la primera instancia de actuación, ante el inminente impacto de un agente perturbador, responsable de informar a la autoridad especializada en materia de protección civil.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 6.
 
-18.- Las unidades internas deberán elaborar programas de protección civil que fomenten la educación de la prevención y los conocimientos básicos que permitan el aprendizaje de medidas de autoprotección y de auxilio, se presentarán para su registro ante la Secretaría General de Gobierno a través de la Coordinación General de Protección Civil y Gestión Integral del Riesgo.
+18.- Las unidades internas deberán elaborar programas de protección civil que fomenten la cultura de la prevención y proporcionen los conocimientos básicos que permitan el aprendizaje de medidas de autoprotección y de auxilio, los cuales se presentarán para su registro ante la Secretaría General de Gobierno a través de la Coordinación General de Protección Civil y Gestión Integral del Riesgo.
+
+> <small>(ADICIONADO, G.G. 3 DE NOVIEMBRE DE 2023)</small>
+
+Las unidades internas podrán vincularse con los Comités Ciudadanos con el objetivo de coordinar acciones que permitan ejecutar los planes de emergencia establecidos en los programas de protección civil, de manera segura y en armonía con las comunidades en las que se encuentren ubicados.
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -12697,6 +12701,10 @@ b) Infraestructura Vial Local.- La integrada por pasos vehiculares, avenidas, ca
 
 VI. Publicidad Exterior.- Toda forma de difusión de mensajes mediante el uso de anuncios, carteles o cualquier otro medio de comunicación visual o auditiva que para su instalación requieran el concurso de diversos elementos, tales como estructuras, soportes, cartelera, pantalla, equipamientos u otros, que siempre serán considerados como una unidad integral y estén colocados o instalados dentro del derecho de vía y puedan ser observados o escuchados desde la infraestructura vial primaria sea de cuota, libre de peaje o de uso restringido y local incluyendo sus elementos complementarios;
 
+> <small>(ADICIONADO, G.G. 3 DE NOVIEMBRE DE 2023)</small>
+
+a) Publicidad Sexista.- Todo contenido publicitario que utilice la imagen de la mujer con carácter vejatorio o discriminatorio.
+
 > <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
 
 VI Bis. Responsable de un Inmueble.- Persona física o jurídica colectiva que tenga la propiedad, posesión, administración, disposición, uso o disfrute de un bien inmueble y permita la instalación de un anuncio con o sin estructura en su interior, dentro del derecho de vía; quien será responsable solidario en los términos del capítulo tercero de este Libro;
@@ -13119,6 +13127,12 @@ X. Los demás lugares que expresamente prohíban otras disposiciones jurídicas 
 
 Ante la instalación de publicidad exterior en contravención a lo establecido por el presente artículo, podrá proceder la demolición y el retiro de la publicidad exterior a costa del infractor.
 
+> <small>(ADICIONADO, G.G. 3 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 17.
+
+35 Bis.- El contenido de los medios publicitarios será acorde al marco legal de la libertad de expresión, coadyuvando para que los medios publicitarios omitan contenidos que atenten contra la dignidad de las personas, vulneren los derechos humanos y difundan mensajes sexistas.
+
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 17.
@@ -13149,14 +13163,6 @@ La violación al presente artículo será sancionada en los términos del artíc
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-###### Artículo 17.
-
-38.- El otorgamiento de una concesión sobre las comunicaciones de jurisdicción local es facultad del Ejecutivo del Estado, sujeta siempre a las necesidades públicas.
-
-Las disposiciones reglamentarias aplicables y la Secretaría, mediante disposiciones de carácter general, fijarán los requisitos que se deben satisfacer para el otorgamiento de las concesiones a que se refiere el párrafo anterior.
-
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2017)</small>
-
 ## TITULO TERCERO. De las Concesiones, Permisos y Dictámenes
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
@@ -13164,6 +13170,14 @@ Las disposiciones reglamentarias aplicables y la Secretaría, mediante disposici
 ### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+38.- El otorgamiento de una concesión sobre las comunicaciones de jurisdicción local es facultad del Ejecutivo del Estado, sujeta siempre a las necesidades públicas.
+
+Las disposiciones reglamentarias aplicables y la Secretaría, mediante disposiciones de carácter general, fijarán los requisitos que se deben satisfacer para el otorgamiento de las concesiones a que se refiere el párrafo anterior.
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 17.
 
@@ -13247,13 +13261,13 @@ La Secretaría establecerá mediante disposiciones administrativas de carácter 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-###### Artículo 17.
-
-42.- Las concesiones se otorgarán hasta por un plazo de treinta años y se podrá ampliar o disminuir, aún antes de que concluya el plazo otorgado originalmente; en caso de que se amplíe, no podrá exceder de otros treinta años.
+### CAPITULO SEGUNDO. Del plazo
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. Del plazo
+###### Artículo 17.
+
+42.- Las concesiones se otorgarán hasta por un plazo de treinta años y se podrá ampliar o disminuir, aún antes de que concluya el plazo otorgado originalmente; en caso de que se amplíe, no podrá exceder de otros treinta años.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13307,6 +13321,10 @@ III. La obligación del concesionario para renovar, conservar y mantener en buen
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO TERCERO. De las obligaciones de los concesionarios y permisionarios
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 17.
 
 46.- Son obligaciones de los concesionarios y permisionarios de la infraestructura vial y de los sistemas de transporte masivo y teleférico:
@@ -13354,10 +13372,6 @@ b) Presentar aviso por la terminación de la obra, con el objeto de que la autor
 c) Solicitar y justificar mediante el estudio correspondiente cualquier modificación a las cuotas de peaje, conforme a las bases de la concesión.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
-
-### CAPITULO TERCERO. De las obligaciones de los concesionarios y permisionarios
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 17.
 
@@ -13505,6 +13519,10 @@ La garantía podrá constituirse por un lapso que en ningún caso comprenderá l
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO CUARTO. De la terminación y revocación
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 17.
 
 55.- Las concesiones y permisos terminan por:
@@ -13528,10 +13546,6 @@ VIII. Por sustitución del titular, para incorporarse a un nuevo sistema de pres
 IX. Las demás causas que se establezcan en la concesión, permiso o en el reglamento de la materia.
 
 La terminación de la concesión o el permiso no exime a su titular de las responsabilidades contraídas durante su vigencia en el Gobierno Estatal y con terceros.
-
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
-
-### CAPITULO CUARTO. De la terminación y revocación
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13575,13 +13589,13 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-###### Artículo 17.
-
-58.- Se emitirán las evaluaciones técnicas de impacto en materia vial, tratándose de los casos a que se refiere el artículo 5.35 de este Código, para lo cual, podrán utilizarse las tecnologías de la información, medios y plataformas tecnológicas respectivas.
+### CAPITULO QUINTO. De las evaluaciones técnicas de factibilidad
 
 > <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
 
-### CAPITULO QUINTO. De las evaluaciones técnicas de factibilidad
+###### Artículo 17.
+
+58.- Se emitirán las evaluaciones técnicas de impacto en materia vial, tratándose de los casos a que se refiere el artículo 5.35 de este Código, para lo cual, podrán utilizarse las tecnologías de la información, medios y plataformas tecnológicas respectivas.
 
 > <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
 
@@ -13621,12 +13635,6 @@ III. El dictamen de procedencia para licencia de construcción en caso de constr
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-###### Artículo 17.
-
-64.- La Junta de Caminos del Estado de México es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto la planeación, programación, presupuestación, ejecución, conservación, mantenimiento y administración de la infraestructura vial primaria libre de peaje y de uso restringido.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)</small>
-
 ## TITULO CUARTO. De los Organismos Descentralizados y el Registro Estatal de Comunicaciones
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
@@ -13634,6 +13642,12 @@ III. El dictamen de procedencia para licencia de construcción en caso de constr
 ### CAPITULO PRIMERO. De la Junta de Caminos del Estado de México
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+64.- La Junta de Caminos del Estado de México es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto la planeación, programación, presupuestación, ejecución, conservación, mantenimiento y administración de la infraestructura vial primaria libre de peaje y de uso restringido.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)</small>
 
 ###### Artículo 17.
 
@@ -13741,15 +13755,15 @@ Los ingresos del Organismo, así como los productos e instrumentos financieros a
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO SEGUNDO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
+
+> <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 17.
 
 70.- El Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México, es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto coordinar los programas y acciones relacionados con la infraestructura vial de cuota; efectuar investigaciones y estudios que permitan, al Gobierno del Estado, sustentar las solicitudes de concesiones o permisos ante las autoridades federales en materia aeroportuaria; construir, rehabilitar conservar y dar mantenimiento a aeródromos, rampas de despegue y aterrizaje de aerostatos, aeronaves ultraligeras u otras análogas, con o sin motor; aeropistas y helipuertos así como administrar, operar y explotarlos en los términos que dispongan las leyes aplicables, los títulos de concesión respectivos o los contratos que se firmen para la prestación de esos servicios a terceros.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
-
-### CAPITULO SEGUNDO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
-
-> <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 17.
 
@@ -13845,15 +13859,15 @@ Los ingresos del Sistema, así como los productos e instrumentos financieros aut
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE FEBRERO DE 2013)</small>
 
+### CAPÍTULO TERCERO. Del Sistema de Transporte Masivo y Teleférico del Estado de México
+
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 17.
 
 76.- El Sistema de Transporte Masivo y Teleférico del Estado de México, es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto la planeación, la coordinación de los programas y acciones relacionados con la infraestructura y operación de los sistemas de transporte de alta capacidad y teleférico, las estaciones de transferencia modal y las de origen-destino e intermedias que se requieren para el eficiente funcionamiento del teleférico, así como efectuar investigaciones y estudios que permitan al Gobierno del Estado sustentar las solicitudes de concesiones o permisos ante las autoridades federales para la administración, operación, explotación y, en su caso, construcción de transporte de alta capacidad en territorio estatal.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
-
-### CAPÍTULO TERCERO. Del Sistema de Transporte Masivo y Teleférico del Estado de México
-
-> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 17.
 
@@ -13965,15 +13979,15 @@ Los ingresos del Sistema, así como los productos e instrumentos financieros aut
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO CUARTO. Del registro estatal de comunicaciones
+
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 17.
 
 82.- El Registro Estatal de Comunicaciones tiene por objeto integrar la información relacionada con la infraestructura vial y los sistemas de transporte masivo y teleférico.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
-
-### CAPITULO CUARTO. Del registro estatal de comunicaciones
-
-> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 17.
 
@@ -13993,13 +14007,13 @@ El Registro Estatal de Comunicaciones será público, deberá estar disponible e
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-###### Artículo 17.
-
-84.- Independientemente de las medidas de seguridad impuestas, la autoridad podrá aplicar las sanciones que correspondan en términos del presente Título.
+## TITULO QUINTO. De las Medidas de Seguridad, Infracciones y Sanciones
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-## TITULO QUINTO. De las Medidas de Seguridad, Infracciones y Sanciones
+###### Artículo 17.
+
+84.- Independientemente de las medidas de seguridad impuestas, la autoridad podrá aplicar las sanciones que correspondan en términos del presente Título.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -18964,3 +18978,19 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Para cumplir con el contenido de este Decreto se deberán contemplar los recursos necesarios en el Presupuesto para el año que corresponda.
 
 CUARTO. El Ejecutivo Estatal realizará las modificaciones reglamentarias necesarias en un plazo de 180 días contados a partir de la publicación del presente Decreto para dar operatividad a su contenido.
+
+G.G. 3 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 209.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 6.18 Y SE ADICIONA UN SEGUNDO PÁRRAFO RECORRIÉNDOSE EL SUBSECUENTE AL ARTÍCULO 6.18 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 3 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 210.- POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 7, EL ARTÍCULO 51 PARA SER ARTÍCULO 50, EL ARTÍCULO 52 PARA SER ARTÍCULO 51, EL ARTÍCULO 52 BIS PARA SER ARTÍCULO 51 BIS, LOS CAPÍTULOS II Y III DEL TÍTULO QUINTO PARA SER CAPÍTULOS III Y IV RESPECTIVAMENTE; Y SE ADICIONAN LAS FRACCIONES VII Y VIII AL ARTÍCULO 7, EL CAPÍTULO II AL TÍTULO QUINTO CON EL ARTÍCULO 52 A LA LEY DE ACCESO DE LAS MUJES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 10; Y SE ADICIONAN LAS FRACCIONES XX, XXI Y XXII AL ARTÍCULO 10 DE LA LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO, Y SE ADICIONA UN INCISO A) A LA FRACCIÓN VI DEL ARTÍCULO 17.4 Y EL ARTÍCULO 17.35 BIS AL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
