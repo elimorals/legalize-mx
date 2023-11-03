@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2023-10-06"
+last_updated: "2023-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE NOVIEMBRE DE 2023.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -881,6 +881,10 @@ En estos casos, el juzgador individualizará la pena tomando como base el nuevo 
 En ningún caso se podrán rebasar los extremos previstos en este Código.
 
 Lo previsto en el párrafo anterior no es aplicable para la reparación del daño ni la sanción económica.
+
+> <small>(ADICIONADO, G.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+Cuando sean empleadas aeronaves pilotadas a distancia, o tecnologías de video vigilancia para la comisión de un delito, las penas previstas en el tipo penal que se trate se aumentarán en una mitad.
 
 > <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
 
@@ -6653,6 +6657,14 @@ SEGUNDO.- El presente Decreto entrara´ en vigor al día siguiente de su publica
 G.O. 6 DE OCTUBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO 345 BIS Y SE ADICIONA EL ARTÍCULO 346 BIS, AMBOS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 3 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 224 (SIC) DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
 
 Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
