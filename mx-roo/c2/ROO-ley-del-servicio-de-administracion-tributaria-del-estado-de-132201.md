@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-servicio-de-administracion-tributaria-del-estado-de-132
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2021-07-16"
+last_updated: "2023-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
 
@@ -153,9 +153,11 @@ En adición a las asignaciones para cubrir su gasto ordinario, el SATQ recibirá
 
 V. Podrá contratar y tener el uso de cuentas bancarias para el manejo y administración exclusiva de los recursos que le sean asignados por la SEFIPLAN, debiendo hacer la rendición de cuentas correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 10.
 
-El SATQ tiene las atribuciones normativas, de política tributaria, asistencia al contribuyente, recaudación, fiscalización, jurídicas, organización e informática, siguientes:
+El SATQ tiene las atribuciones normativas, de política tributaria, asistencia al contribuyente, recaudación, fiscalización, jurídicas, organización e informática, de colaboración en investigación de delitos, siguientes:
 
 I. Celebrar acuerdos interinstitucionales y convenios en el ámbito de su competencia;
 
@@ -232,6 +234,10 @@ XXVII. Emitir las resoluciones por las que se determine la responsabilidad solid
 XXVIII. Revisar los dictámenes formulados por contadores públicos que tengan repercusión para efectos fiscales o se relacionen con el cumplimiento de obligaciones estatales o federales, en los términos de las leyes y de los convenios de coordinación fiscal federal o convenios con los municipios;
 
 XXIX. Informar a la autoridad competente de los hechos que tenga conocimiento con motivo de sus actuaciones y que puedan constituir delitos fiscales o delitos de los servidores públicos en el desempeño de sus funciones, de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+El SATQ, a través de la Unidad de Inteligencia Financiera, deberá elaborar informes, diagnósticos técnicos contables, presentar avisos y denuncias ante la Fiscalía Especializada en Combate a los Delitos de Operaciones con recursos de procedencia ilícita de la Fiscalía General del Estado de Quintana Roo, en los casos de hechos que tenga conocimiento con motivo del ejercicio de sus funciones, los cuales se consideren susceptibles de relacionarse con el Delito de operación con recursos de procedencia ilícita, así como coadyuvar con el ministerio público en la investigación de este delito.
 
 XXX. Otorgar y revocar los registros para emitir dictámenes en materia de contribuciones estatales, así como imponer las sanciones que procedan a quienes emitan los mismos en contravención a las disposiciones legales y reglamentarias aplicables;
 
@@ -478,6 +484,10 @@ II. Administrar y representar legalmente al SATQ, para lo cual tendrá, en todo 
 Tendrá las facultades de actos de dominio para enajenar bienes o derechos del SATQ, previa autorización de la Junta de Gobierno en términos de lo establecido en la presente Ley, el Reglamento y demás disposiciones aplicables.
 
 III. Promover toda clase de juicios en materia civil, mercantil, administrativo, del trabajo, fiscal y de amparo, contestando las demandas y actuando en el juicio de amparo cuando el acto reclamado derive del SATQ e interponer toda clase de recursos que procedan, desistirse incluso en el juicio de amparo y las que sean necesarias para llevar a cabo el objeto del SATQ, Así mismo, formular las denuncias, querellas y declaratorias ante las autoridades del ministerio público del orden federal o del fuero común, cuando la hacienda pública estatal haya sufrido o pudo sufrir perjuicio, en los casos de hechos que tenga conocimiento con motivo de la substanciación de los asuntos a que se refiere este artículo, así como coadyuvar en los supuestos anteriores con el ministerio público y presentar denuncias respecto de los hechos que puedan constituir delitos de los servidores públicos del SATQ.
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+III Bis. Elaborar, a través de la Unidad de Inteligencia Financiera, informes, diagnósticos técnicos contables, presentar avisos y denuncias ante la Fiscalía Especializada en Combate a los Delitos de Operaciones con recursos de procedencia ilícita de la Fiscalía General del Estado de Quintana Roo, en los casos de hechos que tenga conocimiento con motivo del ejercicio de sus funciones, los cuales se consideren susceptibles de relacionarse con el Delito de operación con recursos de procedencia ilícita establecido en el Código Penal para el Estado Libre y Soberano de Quintana Roo, así como coadyuvar con el ministerio público;
 
 IV. Elaborar el presupuesto de egresos del SATQ conjuntamente con los titulares de las áreas responsables, en apego a las reglas generales presupuestarias de cada ejercicio, emitidas por la SEFIPLAN, la Ley de Presupuesto y Gasto Público del Estado de Quintana Roo, Ley de Disciplina Financiera de las Entidades Federativas y de los Municipios, Ley General de Contabilidad Gubernamental y demás disposiciones aplicables, que atienda los requerimientos de gestión operativa y permita el cumplimiento de los objetivos y metas programados, realizando la justificación y gestión de aprobación ante la Junta de Gobierno y de la SEFIPLAN.
 
@@ -892,3 +902,13 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 123 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO, DE LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE QUINTANA ROO Y DEL CÓDIGO FISCAL DEL ESTADO DE QUINTANA ROO; EN MATERIA DE INVESTIGACIÓN Y PERSECUCIÓN DE DELITOS DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA (LAVADO DE ACTIVOS)”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Las asignaciones presupuestales que se requieran para la operación y puesta en marcha de la Unidad de Inteligencia Financiera del Servicio de Administración Tributaria del Estado de Quintana Roo, serán con cargo al presupuesto aprobado para el año 2023 y deberán hacerse las previsiones presupuestales para los ejercicios fiscales subsecuentes.
+
+TERCERO. Se derogan todas las disposiciones que resulten contrarías al presente Decreto.
