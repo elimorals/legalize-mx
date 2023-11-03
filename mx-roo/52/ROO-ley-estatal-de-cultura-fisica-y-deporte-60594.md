@@ -4,7 +4,7 @@ identifier: "ROO-ley-estatal-de-cultura-fisica-y-deporte-60594"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-11"
-last_updated: "2021-04-15"
+last_updated: "2023-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ESTATAL DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Número 19 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 11 de marzo de 2008.
 
@@ -45,11 +45,11 @@ LEY ESTATAL DE CULTURA FÍSICA Y DEPORTE
 
 ### Capítulo Único. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 1.
 
-La presente ley es de orden público y observancia general en todo el Estado de Quintana Roo, misma que reglamenta el derecho a la cultura física y deporte reconocido en el artículo 4° de la Constitución Política de los Estados Unidos Mexicanos, y el artículo 13 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, correspondiendo su aplicación en forma concurrente al Ejecutivo Estatal, por conducto de la Comisión para la Juventud y el Deporte de Quintana Roo y los organismos e instituciones municipales del Deporte, así como los sectores social y privado, en los términos que prevén.
+La presente Ley es de orden público y observancia general en todo el Estado de Quintana Roo, misma que reglamenta el derecho a la cultura física y deporte reconocido en el artículo 4° de la Constitución Política de los Estados Unidos Mexicanos, y el artículo 13 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, correspondiendo su aplicación en forma concurrente al Ejecutivo Estatal, por conducto de la Comisión del Deporte de Quintana Roo y los organismos e instituciones municipales del Deporte, así como los sectores social y privado, en los términos que prevén.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
@@ -153,7 +153,9 @@ II. COEDE: Los Consejos Estatales del Deporte Estudiantil;
 
 III. Ley: La Ley Estatal de Cultura Física y Deporte;
 
-IV. Organismo Rector de la Cultura Física y el Deporte en el Estado: La Comisión para la Juventud y el Deporte de Quintana Roo;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+IV. CODEQ: La Comisión del Deporte de Quintana Roo;
 
 V. Programa: El Programa Estatal de Cultura Física y Deporte;
 
@@ -163,13 +165,21 @@ VI. REEDE: El Registro Estatal de Cultura Física y Deporte;
 
 VII. Reglamento: El Reglamento de la Ley Estatal de Cultura Física y Deporte;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-VIII. SEQ: La Secretaría de Educación del Estado de Quintana Roo;
+VIII. Reglamento Interior: El Reglamento Interior de la Comisión del Deporte de Quintana Roo;
 
-IX. SIEDE: El Sistema Estatal de Cultura Física y Deporte, y
+(REPUBLICADA Y REUBICADA ANTES FRACCIÓN VIII, P.O. 3 DE NOVIEMBRE DE 2023)
 
-X. SINADE: El Sistema Nacional de Cultura Física y Deporte.
+IX. SEQ: La Secretaría de Educación del Estado de Quintana Roo;
+
+(REPUBLICADA Y REUBICADA ANTES FRACCIÓN IX, P.O. 3 DE NOVIEMBRE DE 2023)
+
+X. SIEDE: El Sistema Estatal de Cultura Física y Deporte, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN X], P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+XI. SINADE: El Sistema Nacional de Cultura Física y Deporte.
 
 > <small>(REFORMADO, P.O. 30 DE MARZO DE 2016)</small>
 
@@ -219,13 +229,17 @@ XI. Evento Deportivo con fines de espectáculo: Cualquier evento deportivo en el
 
 XII. Evento Deportivo Masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-XIII. Recreación Física: Actividad física realizada con fines lúdicos que permiten la utilización positiva del tiempo libre, y
+XIII. Recreación Física: Actividad física realizada con fines lúdicos que permiten la utilización positiva del tiempo libre;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-XIV. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo.
+XIV. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo; y
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+XV. Turismo deportivo: Es el viaje temporal que realiza una o varias personas, fuera de su lugar de residencia habitual y que tiene como principal motivación practicar algún deporte o presenciar algún evento deportivo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MARZO DE 2016)</small>
 
@@ -255,23 +269,29 @@ Se encargará de una mayor eficacia, promoción, fomento y estímulo de la cultu
 
 El SIEDE es un órgano colegiado que estará integrado por las Dependencias, Organismos e Instituciones públicas y privadas, Sociedades, Asociaciones Estatales y Consejos Estatales del Deporte Estudiantil reconocidos por esta Ley, que en sus respectivos ámbitos de actuación tienen como objetivo generar las acciones, financiamientos y programas necesarios para la coordinación, fomento, ejecución, apoyo, promoción, difusión y desarrollo de la activación física, la cultura física y el deporte, así como el óptimo aprovechamiento de los recursos humanos, financieros y materiales.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 7.
 
-La Coordinación General del Sistema Estatal de Cultura Física y Deporte estará a cargo del Organismo de la Cultura Física y el Deporte en el Estado.
+La Coordinación General del Sistema Estatal de Cultura Física y Deporte estará a cargo de la CODEQ.
 
 ###### Artículo 8.
 
 Conforme a los lineamientos que establece el Sistema Estatal de Cultura Física y Deporte, se elaborará un programa rector que asegure la uniformidad y congruencia de las acciones e instituciones que participan en el fomento de la actividad físico-deportiva. Este programa deberá considerar la participación de los Municipios y la sociedad en general, además de formularse con apego al SlNADE.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 9.
 
-Entre las instituciones, organismos y dependencias públicas y privadas que se integran oficialmente al SIEDE, son los siguientes:
+El SIEDE estará conformado por las dependencias, instituciones, organismos públicos y privados, siguientes:
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
 I.- La SEQ;
 
-II.- El Organismo Rector de la Cultura Física y el Deporte en el Estado;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+II.- La CODEQ;
 
 > <small>(REFORMADA, P.O. 30 DE MARZO DE 2016)</small>
 
@@ -323,53 +343,61 @@ VI. Las demás que le otorgue esta ley u otros ordenamientos legales.
 
 En las acciones antes mencionadas, se deberá garantizar que se realicen bajo los principios de igualdad, paridad de género y perspectiva de género.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-### Capítulo I Bis. Del Organismo Rector de la Cultura Física y el Deporte
+### Capítulo I Bis. De la Comisión del Deporte de Quintana Roo
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-#### Sección Primera. Del Subcomité Especial de Recreación, Deporte y Juventud
+#### Sección Primera. Del Objeto y Atribuciones
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 12 Bis.
 
-La actuación de la Administración Pública Estatal en el ámbito de la cultura física y del deporte, corresponde y será ejercida directamente, por un organismo descentralizado de la administración Pública Estatal del Estado de Quintana Roo, que sera el conductor de la Política Estatal en estas materias, quien contará con personalidad jurídica y patrimonio propio.
+La actuación de la Administración Pública Estatal, así como la conducción de la Política Pública en el ámbito de Cultura Física y del Deporte, corresponde a la Comisión del Deporte de Quintana Roo, que será un organismo descentralizado de la administración Pública Estatal, sectorizado a la Secretaría de Educación, con personalidad jurídica y patrimonio propio.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+La CODEQ tendrá su sede en la Capital del Estado y podrá contar con las unidades administrativas y de representación necesarias en toda la circunscripción del Estado, para el cumplimiento de su objeto, de conformidad con el presupuesto que le sea autorizado.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 12 Ter.
 
-El Gobierno del Estado a través del Organismo Rector de la Cultura Física y el Deporte y las Unidades Administrativas Municipales de Cultura Física y Deporte que forman parte del Sistema Estatal del Deporte, procurarán destinar recursos presupuestarios crecientes, para apoyar la ejecución del programa estatal y municipal en base al deporte, así como los estímulos y apoyos, para la construcción, el mantenimiento y conservación de las instalaciones deportivas de la Entidad y sus municipios.
+El Gobierno del Estado a través de la CODEQ y las Unidades Administrativas Municipales de Cultura Física y Deporte que forman parte del Sistema Estatal del Deporte, procurarán destinar recursos presupuestarios crecientes, para apoyar la ejecución del programa estatal y municipal con base en el deporte, así como los estímulos y apoyos, para la construcción, el mantenimiento y conservación de las instalaciones deportivas de la Entidad y sus municipios.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-###### Artículo 12 Quáter.
+###### Articulo 12 Quáter.
 
-El Organismo Rector de la Cultura Física y el Deporte en el Estado, conjuntamente con la Secretaría de Educación, promoverá la elaboración de un programa, que sumado a la asignatura de educación física que se imparta en el nivel de educación básica, incremente la carga horaria para la realizacion de actividades deportivas para los estudiantes y con ello coadyuvar en la formación y desarrollo integral del educando, en los términos establecidos en el reglamento.
+La CODEQ, conjuntamente con la Secretaría de Educación, promoverá la elaboración de un programa, que sumado a la asignatura de educación física que se imparta en el nivel de educación básica, incremente la carga horaria para la realización de actividades deportivas para las personas estudiantes y con ello coadyuvar en la formación y desarrollo integral del educando, en los términos establecidos en el reglamento y el Reglamento Interior.
 
-El Organismo Rector de la Cultura Física y el Deporte en el Estado, coordinará las acciones que el SIEDE determine, en el ejercicio de sus funciones, para dar cumplimiento al artículo anterior, al Reglamento y a las reglas para la organización y el funcionamiento del mismo, las que remitirá al Titular del Poder Ejecutivo para su expedición.
+La CODEQ, coordinará las acciones que el SIEDE determine, en el ejercicio de sus funciones, para dar cumplimiento al artículo anterior, al Reglamento, Reglamento interior y a las reglas para la organización y el funcionamiento del mismo, las que remitirá la persona Titular del Poder Ejecutivo para su expedición.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 12 Quinquies.
 
-El Organismo Rector de la Cultura Física y el Deporte en el Estado, tiene las siguientes atribuciones:
+La Comisión del Deporte de Quintana Roo, tiene las siguientes atribuciones:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO [N. DE E.ESTE PÁRRAFO], P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-I. Proponer, dirigir, ejecutar, evaluar y vigilar la política estatal de cultura física, así como del deporte en todas sus manifestaciones, incorporando principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres.
+I. Conducir, asesorar y vigilar la política estatal en materia de cultura física, así como del deporte en todas sus manifestaciones, incorporando principios de igualdad de trato, oportunidades y paridad entre mujeres y hombres;
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2023)</small>
 
 Garantizar la aplicación de los principios de igualdad, paridad de género y perspectiva de género en la política estatal de cultura física, así como del deporte en todas sus manifestaciones.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+
 Para efectos de esta fracción se entenderán como manifestaciones del deporte, el deporte social y el deporte de rendimiento;
 
 II. Celebrar acuerdos, convenios, contratos y bases con las autoridades Federales, Estatales y Municipales, a fin de promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y programas tendientes a la promoción, fomento, estímulo, incentivo y desarrollo de la cultura física y el deporte en todas sus manifestaciones;
 
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
 III. Integrar en coordinación con la SEQ, el Programa Estatal de Cultura Física y Deporte;
 
-IV. Convocar al SIEDE, con la participación que corresponda al sector público y a los sectores social y privado;
+IV. (DEROGADA, P.O. 3 DE NOVIEMBRE DE 2023)
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
 
@@ -379,87 +407,335 @@ VI. Coordinar acciones con las Dependencias y Entidades de la Administración P�
 
 VII. Promover el desarrollo de los programas de formación, capacitación, actualización y los métodos de certificación en materia de cultura física y deporte, promoviendo y apoyando la inducción de la cultura física y el deporte en los planes y programas educativos;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-VIII. Promover en coordinación con la CONADE la capacitación y certificación de directivos, deportistas, entrenadores, jueces, árbitros y técnicos, incorporando principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres;
+VIII. Promover la formación, capacitación, actualización y certificación en materia de cultura física y deporte, promoviendo y apoyando la inducción de la cultura física y el deporte en los planes y programas educativos;
 
-IX. Promover, fomentar y gestionar ante las instancias correspondientes en el ambito estatal, el otorgamiento de estímulos fiscales a los sectores social y privado derivado de las acciones que estos sectores desarrollen a favor de la cultura física y el deporte;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-X. Fomentar y promover la construcción, conservación, adecuación, uso y mejoramiento de instalaciones destinadas a la cultura física y deporte de cada uno de los municipios de la entidad;
+IX. Promover y fomentar en el ámbito estatal, el otorgamiento de estímulos fiscales a los sectores social y privado derivado de las acciones que estos sectores desarrollen a favor de la cultura física y el deporte;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-XI. Formular, conducir y evaluar la política de cultura física y deporte estatal, garantizando la aplicación de los principios de igualdad, paridad de género y perspectiva de género;
+X. Promover y ejecutar la construcción, adecuación, conservación y aprovechamiento óptimo de la infraestructura para la cultura física y el deporte, de acuerdo a las Normas Oficiales y demás disposiciones aplicables.
+
+XI. (DEROGADA, P.O. 3 DE NOVIEMBRE DE 2023)
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
 
 XII. Diseñar y aplicar los instrumentos y programas de política para la cultura física y deporte estatal, en concordancia y sin contravenir la Política Nacional de Cultura Física y Deporte, vinculándolos con los programas nacional, estatales, regionales, municipales y delegaciones, así como su respectivo Plan Estatal de Desarrollo;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+XIII. (DEROGADA, P.O. 3 DE NOVIEMBRE DE 2023)
 
-XIII. Diseñar, aplicar y evaluar el Programa Estatal de Cultura Física y Deporte incorporando principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres;
+XIV. (DEROGADA, P.O. 3 DE NOVIEMBRE DE 2023)
 
-XIV. Celebrar convenios o acuerdos de coordinación y colaboración con la CONADE y con los Municipios, en materia de cultura física y deporte;
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
 
 XV. Integrar el SIEDE, para promover y fomentar el desarrollo de la cultura física y deporte;
 
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
 XVI. Establecer, operar y mantener actualizado el Registro Estatal de Cultura Física y Deporte en coordinación con el Registro Nacional de Cultura Física y Deporte;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
 
 XVII. Promover la participación de los sectores social y privado para el desarrollo de la activación física, la cultura física y el deporte;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-XVIII. Supervisar que las Asociaciones Deportivas Estatales y Organismos Afines realicen sus actividades conforme a sus respectivos estatutos, reglamentos y demás ordenamientos aplicables, incorporando principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres;
+XVIII. Supervisar que la actuación de las Sociedades y Asociaciones Deportivas Estatales y Organismos Afines, se apegue a los principios y directrices de esta Ley, procurando la igualdad de trato, oportunidades y paridad entre mujeres y hombres;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+XIX. (DEROGADA, P.O. 3 DE NOVIEMBRE DE 2023)
 
-XIX. Verificar y asegurar que los estatutos, reglamentos y demás reglamentos deportivos que expidan las Asociaciones Deportivas Estatales y, en su caso, los Organismos Afines, contengan con toda claridad, entre otros aspectos, los derechos y obligaciones de sus miembros asociados, deportistas y órganos de gobierno y representación, así como los procedimientos disciplinarios y sanciones aplicables, incorporando principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres;
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
 
 XX. Emitir opinión en la formulación de los programas deportivos de las Asociaciones Deportivas Estatales;
 
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
 XXI. Fijar criterios para que dentro de los programas en los que se establezca la práctica de actividades de cultura física, recreación, rehabilitación o deporte dentro de la entidad, se ofrezcan las medidas de seguridad necesarias, de acuerdo con las Normas Oficiales Mexicanas y demás disposiciones que para tal efecto expida la Dependencia con competencia en la materia;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
 
 XXII. Diseñar y establecer los criterios para asegurar la uniformidad y congruencia entre los programas de cultura física y deporte del sector público estatal y la asignación de los recursos para los mismos fines;
 
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
 XXIII. Promover e incrementar con las previsiones presupuestales existentes, los fondos y fideicomisos ya sean públicos o privados, que en materia de cultura física y deporte se constituyan, con el objeto de organizar la participación de los sectores social y privado, a efecto de contribuir al desarrollo deportivo del Estado;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
 
 XXIV. Impulsar la cultura física, la recreación, la rehabilitación y el deporte entre la población en general, como medio para la prevención del delito;
 
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
 XXV. Acercar el deporte a todos los escolares de Quintana Roo priorizando los procesos formativos y pedagógicos, sin ceñirse únicamente a la competición y selección;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
 
 XXVI. Fomentar y hacer llegar las disciplinas deportivas en las comunidades indígenas, brindando el apoyo en material deportivo e instalaciones necesarias para su desarrollo en cada una de las comunidades que así lo requieran;
 
-XXVII. Formular programas para promover la cultura física y deporte entre las personas con discapacidad;
+XXVII. (DEROGADA, P.O. 3 DE NOVIEMBRE DE 2023)
 
-XXVIII. Celebrar todos aquellos contratos y convenios que le permitan cumplir con el objeto para el cual fue creado;
+XXVIII. (DEROGADA, P.O. 3 DE NOVIEMBRE DE 2023)
 
-XXIX. Promoverá los mecanismos de concertación y firmas de convenio con las instituciones públicas y privadas que integran el sector salud con la finalidad de promover programas de atención y servicio médico para todo deportista que lo requiera;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+XXIX. Promoverá la concertación de instrumentos Jurídicos y/o Administrativos con las instituciones públicas y privadas que integran el sector salud con la finalidad de promover programas de atención y servicio médico para toda persona deportista que lo requiera;
 
-XXX. informará a quien lo solicite y establecerá transparentemente lo consistente a los estímulos otorgados a los deportistas;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2023)</small>
+XXX. Transparentar toda información relativa a los estímulos otorgados a las y las personas deportistas;
 
-XXXI. Promover el deporte femenino, favoreciendo la efectiva apertura de las disciplinas deportivas a las mujeres y niñas, mediante el desarrollo de programas específicos en todas las etapas de la vida y en todos los niveles, incluidos los de responsabilidad y decisión, y,
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-XXXII. Las demás que esta Ley u otras disposiciones legales o reglamentarias determinen.
+XXXI. Promover el deporte femenino, favoreciendo la efectiva apertura de las disciplinas deportivas a las mujeres y niñas, mediante el desarrollo de programas específicos en todas las etapas de la vida y en todos los niveles, incluidos los de responsabilidad y decisión;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+XXXII. Promover coordinadamente con la Secretaría de Turismo del Estado, Ayuntamientos y los organismos públicos, los sectores social y privado relacionados con la cultura física y el deporte, el impulso al turismo deportivo;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+XXXIII. Realizar, promover y difundir estudios, estadísticas e investigaciones sobre el deporte;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+XXXIV. Impulsar la realización de eventos de activación física, deportivos y de capacitación o certificación, dirigidos a la población en general y/o a las personas deportistas;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+XXXV. Colaborar con el sector profesional de deporte en el Estado de Quintana Roo, así como aquellos grupos con fines deportivos, pertenecientes a instituciones educativas medio - superior de índole público o privado; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XXXII], P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+XXXVI. Las demás que esta Ley u otras disposiciones legales o reglamentarias determinen.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 12 Sexies.
+
+La CODEQ tendrá como objeto incentivar la activación física, la recreación deportiva como actividad humana, que contribuya a mejorar la sociedad a través de planes, programas, proyectos, actividades y entrenamiento profesional en materia deportiva, así como, dar seguimiento, continuidad y profesionalización del deporte de alto rendimiento a fin de que los atletas se consoliden en las diversas disciplinas deportivas, con miras a competencias de índole municipal, estatal, regional, nacional o internacional, a fin de elevar los niveles de competitividad deportiva de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 12 Septies.
+
+La administración y dirección de la CODEQ, contará con una persona Titular con las funciones de Dirección General quien se denominará con el cargo de Presidente o Presidenta, quien ejecutará las decisiones y acuerdos que adopte la Junta Directiva, pudiendo delegar, discrecionalmente, aquellas facultades y obligaciones que considere convenientes, para una mejor distribución y desarrollo de los trabajos encomendados, en las personas servidoras públicas subalternas que seleccione, sin perder por dicha delegación, la posibilidad de su ejercicio directo cuando lo juzgue necesario.
+
+Para el cumplimiento de su objeto y ejercicio de sus atribuciones, la CODEQ contará con los siguientes órganos de gobierno y dirección:
+
+I. La Junta Directiva; y
+
+II. La Presidencia.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 12 Octies.
+
+La CODEQ contará con el personal que se requieran (sic) para el cumplimiento de su objeto, de conformidad con el presupuesto autorizado y las disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+#### Sección Segunda. Del Patrimonio de la Comisión del Deporte de Quintana Roo
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 12 Novies.- El Patrimonio de la CODEQ estará constituido por:
+
+I. Los recursos que conforme al Presupuesto de Egresos le sean asignados;
+
+II. Los bienes muebles e inmuebles que le asigne el Poder Ejecutivo Estatal, el Gobierno Federal y los Municipios, así como los que le aporten otras instituciones públicas o privadas, nacionales e internacionales;
+
+III. Las aportaciones, participaciones, subsidios y apoyos que le otorguen el Gobierno Federal, Gobiernos Estatales y Municipales, así como de los sectores productivos de bienes y servicios privados y sociales, tendientes a apoyar el desarrollo del deporte;
+
+IV. Los bienes, derechos y demás recursos que adquiera a través de cualquier título o medio legal;
+
+V. Las regalías y demás ingresos que obtenga por concesiones asignadas y de los bienes de su propiedad;
+
+VI. Los recursos derivados de fideicomisos e impuestos especiales, municipales o estatales, enfocados al impulso y sostenimiento de los programas de atención al deporte;
+
+VII. Las donaciones, herencias, legados y demás aportaciones de particulares, instituciones y organismos públicos nacionales y extranjeros;
+
+VIII. Los ingresos propios obtenidos por las actividades que realice en el ejercicio de sus atribuciones y en cumplimiento de sus objetivos, así como la prestación de Servicios, y
+
+IX. Los demás bienes, servicios, derechos y aprovechamientos que le fijen las leyes y reglamentos, y lo que provengan de otros fondos y aportaciones legalmente establecidas.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 12 Décies.- Los bienes muebles e inmuebles que formen parte del patrimonio de la CODEQ, son inembargables e imprescriptibles y se sujetarán a lo dispuesto por la Ley del Patrimonio del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 12 Undécies. El régimen fiscal de la CODEQ se sujetará a lo dispuesto en las leyes de la materia considerando en todo momento su naturaleza eminentemente social. Los ingresos y los bienes de su propiedad, así como los actos, acuerdos, contratos y convenios en que intervenga, estarán exentos de impuestos y derechos estatales o municipales en términos de la legislación aplicable, por otra parte, gozará de todos los beneficios y prerrogativas que conceden las Leyes Federales o las Entidades Educativas para actividades afines a la educación.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+#### Sección Tercera. De la Junta Directiva
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 12 Duodécies.- La Junta Directiva, es el Órgano Máximo de Gobierno y decisión de la CODEQ, se regirá por lo señalado en esta Ley y el Reglamento Interior y estará integrada de la forma siguiente:
+
+I. Presidencia. Que será ocupada por la persona Titular de la Secretaría de Educación.
+
+II. Diez vocalías, distribuidas de la manera siguiente:
+
+a) La persona Titular de la Secretaría de Finanzas y Planeación;
+
+b) La persona Titular de la Secretaría de Salud;
+
+c) La persona Titular de la Secretaría de Bienestar;
+
+d) La persona Titular de Secretaría de Turismo;
+
+e) La persona Titular del Instituto Quintanarroense de la Juventud, y
+
+f) Cinco personas Deportistas destacadas, que serán seleccionadas por el Consejo de Personas Deportistas Destacadas.
+
+El nombramiento de las personas integrantes propietarias o suplentes de la Junta Directiva será honorífico, por lo tanto, no recibirán retribución alguna por el desempeño de sus funciones.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 12 Ter décies.- La Junta Directiva se auxiliará y podrá coordinarse para el correcto desempeño de sus facultades con:
+
+I. Una Secretaría Técnica, que será ocupada por la persona Titular de la Presidencia de la CODEQ, que será la encargada de llevar los asuntos referentes a las sesiones, quien podrá participar con voz pero sin voto. Su asistencia no se considerará para efectos de quorum requerido para sesionar, y
+
+II. Una Comisaría Pública, que será ocupada por la persona Titular de la Secretaría de la Contraloría, quien podrá designar a su suplente y participará también con voz, pero sin voto. Su asistencia no se considerará para efectos del quorum requerido para sesionar.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 12 Quater décies.- Cada persona integrante de la Junta Directiva designará por escrito ante la Presidencia, a quien fungirá como suplente, la cual deberá tener, preferentemente, el nivel jerárquico inmediato inferior.
+
+A quienes se designe como suplentes, actuarán en las sesiones como integrantes, ante las ausencias de sus Titulares, contando con las facultades suficientes para toma de decisiones y acuerdos.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 12 Quinquies décies.- Las personas integrantes de la Junta Directiva permanecerán en su encargo hasta en tanto no sean removidos, en los términos que establece el Reglamento de la Ley de Entidades de la Administración Pública Paraestatal.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 12 Sexies décies. Las sesiones de la Junta Directiva se regirán por lo dispuesto en la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo y el Reglamento de la Ley de Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo y podrán ser ordinarias y extraordinarias.
+
+Para las sesiones ordinarias y extraordinarias que se celebren, se determinará como lugar oficial las instalaciones de la CODEQ, en caso de efectuarse en otra sede diferente deberá precisarse en la convocatoria que para tal efecto se expida.
+
+La Junta Directiva podrá invitar a sus sesiones a quienes estime que con sus opiniones pudieran coadyuvar en la realización del objeto de la CODEQ; los que tendrán voz, pero no voto.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 12 Septies décies.- La Junta Directiva celebrará, cuando menos cuatro sesiones ordinarias al año y las extraordinarias que sean necesarias, a solicitud de su Presidencia.
+
+Las sesiones y los acuerdos que tome la H. Junta Directiva serán válidas con la asistencia o anuencia de, cuando menos, cincuenta por ciento más uno, de sus personas integrantes.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 12 Octies décies.- La Junta Directiva, además de las atribuciones establecidas en la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo, tendrá las atribuciones indelegables siguientes:
+
+I. Emitir las políticas y lineamientos generales de la CODEQ, así como aprobar sus programas y proyectos de presupuestos o sus modificaciones, en términos de la legislación aplicable;
+
+II. Aprobar los estados financieros de la CODEQ, previo informe de las personas comisarias y dictamen de las personas auditoras externas;
+
+III. Aprobar, de acuerdo con las leyes y reglamentos aplicables, las políticas, bases y programas generales que regulen convenios, contratos, pedidos o acuerdos que debe celebrar la CODEQ en materia de obra pública, adquisiciones, arrendamientos, concesiones y prestación de servicios relacionados con bienes muebles e inmuebles;
+
+IV. Aprobar el proyecto de Reglamento Interior de la CODEQ;
+
+V. Aprobar la estructura orgánica y administrativa de la CODEQ, así como sus modificaciones y autorizar su gestión y trámite ante las instancias normativas para su autorización y vigencia;
+
+VI. Aprobar los manuales de organización y procedimiento de la CODEQ;
+
+VII. Revisar y aprobar, en su caso, los informes que rinda la Presidencia de la CODEQ;
+
+VIII. Aprobar la designación y remoción de los dos primeros niveles de las personas servidoras públicas de la CODEQ;
+
+IX. Coordinar la evaluación periódica de las actividades de la CODEQ;
+
+X. Aprobar con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios que se hagan y verificar que los mismos sean aplicados, y
+
+XI. Aprobar la cancelación de adeudos a cargo de terceros y a favor de la CODEQ, cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Finanzas y Planeación por medio de la Secretaría de Educación.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+#### Sección Cuarta. De las facultades de la Presidencia de la CODEQ
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 12 Novies décies.- La persona Titular de la Presidencia de la CODEQ será designada y removida libremente por la persona Titular del Poder Ejecutivo del Estado y deberá cumplir con los requisitos previstos en el artículo 95 de la Constitución Política del Estado Libre y Soberano de Quintana Roo y artículo 28 de la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 12 Vicies.- Quien ocupe la Presidencia de la CODEQ tendrá las facultades siguientes:
+
+I. Representar técnica, administrativa y legalmente a la CODEQ ante cualquier autoridad, institución oficial, descentralizada o personas particulares con las más amplias facultades como persona apoderada legal para pleitos y cobranzas, así como actos de dominio y administración, con las facultades especiales y generales que de acuerdo con la Ley requieran autorización o cláusula especial, conforme a lo previsto a las leyes aplicables a la Entidad, en este ordenamiento y en su Reglamento Interior;
+
+II. Formular querellas y otorgar perdón dentro del marco de representación legal;
+
+III. Celebrar toda clase de actos, contratos, convenios y demás documentos inherentes a su objeto;
+
+IV. Ejecutar, instrumentar y vigilar el cumplimiento de los acuerdos de la Junta Directiva;
+
+V. Informar a la Junta Directiva, el resultado de la ejecución de los acuerdos tomados;
+
+VI Proporcionar a las personas deportistas y atletas destacadas medios educativos, científicos, tecnológicos, culturales y artísticos, útiles escolares, becas, incentivos o apoyos económicos;
+
+VII. Proponer, dirigir, ejecutar y evaluar la política estatal de cultura física y del deporte en todas sus manifestaciones, incorporando principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres;
+
+VIII. Planear, coordinar y evaluar el funcionamiento de la CODEQ;
+
+IX. Formular programas para promover la cultura física y deporte entre las personas con discapacidad;
+
+X. Vigilar y supervisar la elaboración anual del proyecto de presupuesto de ingresos y egresos, y someterlo a la aprobación de la Junta Directiva para su análisis y aprobación y trámite correspondiente;
+
+XI. Proponer a la Junta Directiva en su caso, el nombramiento y la remoción de las personas Servidoras Públicas de la CODEQ que ocupen puestos de Coordinación o Dirección;
+
+XII. Nombrar y remover al demás personal técnico y administrativo que se requiera para el funcionamiento de la CODEQ;
+
+XIII. Formular y presentar ante la Junta Directiva periódicamente los estados financieros, balances e informes que permitan conocer el estado administrativo, operativo y de desempeño de la CODEQ, con las metas alcanzadas;
+
+XIV. Proponer a la Junta Directiva, los proyectos de leyes, decretos, reglamentos y acuerdos sobre los asuntos de competencia de la CODEQ;
+
+XV. Impulsar la consolidación de los fideicomisos, concesiones, permisos, y todo lo relativo para el patrimonio propio de la CODEQ, derivado a incentivar y hacer partícipes a la iniciativa privada, publica y los demás entes jurídicos que con motivo de su fin apoyen al deporte y aun no sean así se pueda regular fiscalmente, para el propósito que sean creadas;
+
+XVI. Convocar a las Sesiones del SIEDE, con la participación que corresponda al sector público y a los sectores social y privado;
+
+XVII. Promover en coordinación con la CONADE la capacitación y certificación de personas directivas, deportistas, entrenadoras, jueces, árbitras y técnicas, incorporando principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres;
+
+XVIII. Gestionar ante las instancias correspondientes en el ámbito estatal, el otorgamiento de estímulos fiscales a los sectores social y privado derivado de las acciones que estos sectores desarrollen a favor de la cultura física y el deporte;
+
+XIX. Supervisar que las Asociaciones y Sociedades Deportivas Estatales y Organismos Afines realicen sus actividades conforme a sus respectivos estatutos, reglamentos y demás ordenamientos aplicables, incorporando principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres;
+
+XX. Verificar y asegurar que los estatutos, reglamentos y demás instrumentos en materia deportiva que expidan las Sociedades y Asociaciones Deportivas Estatales y, en su caso, los Organismos Afines, contengan con toda claridad, entre otros aspectos, los derechos y obligaciones de sus miembros asociados, deportistas y órganos de gobierno y representación, así como los procedimientos disciplinarios y sanciones aplicables, incorporando mecanismos para prevención, denuncia y atención de los casos de violencia o discriminación, así como principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres, y
+
+XXI. Las demás que le confiera la Junta Directiva, la Ley, el Reglamento, su Reglamento Interior y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+#### Sección Quinta. De la vigilancia y control de la CODEQ
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 12 Vicies semel.- La CODEQ contará con un órgano de vigilancia, que se ejercerá a través de una Comisaría Pública Propietaria, cargo que será ocupado por la persona Titular de la Secretaría de la Contraloría, quien a su vez, podrá designar a una persona suplente, participará en las sesiones de la H. Junta Directiva con voz, pero sin voto, sin que su comparecencia implique su conformidad con los acuerdos adoptados y tendrá las facultades que le otorga la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 12 Vicies Bis.- La Comisaría Pública Propietaria, evaluará el desempeño general de la CODEQ, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le asigne específicamente conforme a la ley. Para el cumplimiento de lo anterior, la H. Junta Directiva y la Presidencia de la CODEQ, deberán proporcionar toda información que al efecto solicite la Comisaría Pública Propietaria.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 12 Vicies Ter.- Las facultades de la Comisaría Pública Propietaria serán las establecidas en la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo y en el Reglamento Interior de la Secretaría de la Contraloría.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 12 Vicies Quater.- La CODEO contará con un Órgano Interno de Control cuyo Titular será designado por la Secretaría de la Contraloría del Estado, quién dependerá jerárquica y funcionalmente de ésta y será responsable de verificar el adecuado cumplimiento del objeto, objetivos y atribuciones, así como de mantener el control interno de la CODEQ. Asimismo, tendrá como función apoyar la política de control interno y toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales y, fiscalizar el correcto manejo de los recursos públicos.
+
+El Órgano Interno de Control ejercerá sus facultades y atribuciones de conformidad con lo previsto en la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, así como, el Reglamento Interior de la Secretaría de la Contraloría y demás disposiciones legales aplicables.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE MARZO DE 2016)</small>
-
-#### Sección Segunda. De las Unidades Administrativas Municipales de Cultura Física y Deporte
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2019)</small>
-
-#### Sección Tercera. De las Bases de Coordinación, Colaboración y Concertación
-
-#### Sección Cuarta. De la Comisión Estatal de Apelación y Arbitraje del Deporte
-
-#### Sección Primera. De las Asociaciones y Sociedades Deportivas Estatales
 
 ### Capítulo II. Del Sector Público
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 30 DE MARZO DE 2016)</small>
 
-#### Sección Segunda. De las Asociaciones Deportivas Estatales
+#### Sección Primera. Del Subcomité Especial de Recreación, Deporte y Juventud
 
 ###### Artículo 13.
 
@@ -471,11 +747,13 @@ El Subcomité Especial de Recreación, Deporte y Juventud, como integrante del S
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2019)</small>
 
-#### Sección Tercera. De otras Asociaciones y Sociedades
+#### Sección Segunda. De las Unidades Administrativas Municipales de Cultura Física y Deporte
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 15.
 
-Cada Municipio contará, de conformidad con sus ordenamientos, con unidades administrativas municipales de cultura física y deporte, que en coordinación con el Organismo Rector de la Cultura Física y el Deporte, promueva, estimule y fomente el desarrollo de la cultura física y deporte estableciendo para ello, sistemas de cultura física y deporte en sus respectivos ámbitos de competencia.
+Cada Municipio contará, de conformidad con sus ordenamientos, con unidades administrativas municipales de cultura física y deporte, que en coordinación con la CODEQ promueva, estimule y fomente el desarrollo de la cultura física y deporte estableciendo para ello, sistemas de cultura física y deporte en sus respectivos ámbitos de competencia.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 3 DE JUNIO DE 2019)</small>
 
@@ -521,9 +799,13 @@ VI. Promover la participación de los sectores social y privado para el desarrol
 
 VII. Las demás que señale la Ley General, la presente Ley, su Reglamento y los demás ordenamientos aplicables.
 
+#### Sección Tercera. De las Bases de Coordinación, Colaboración y Concertación
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 19.
 
-La Administración Pública Estatal a través del Organismo Rector de la Cultura Física y el Deporte en el Estado, ejercerá las funciones que le son atribuidas por esta ley, para ello, se coordinará con los Municipios y, en su caso, concertará acciones con el sector social y privado que puedan afectar directa y manifiestamente los intereses generales de la cultura física y el deporte en el ámbito estatal.
+La Administración Pública Estatal a través de la CODEQ, ejercerá las funciones que le son atribuidas por esta ley, para ello, se coordinará con los Municipios y, en su caso, concertará acciones con el sector social y privado que puedan afectar directa y manifiestamente los intereses generales de la cultura física y el deporte en el ámbito estatal.
 
 > <small>(REFORMADO, P.O. 30 DE MARZO DE 2016)</small>
 
@@ -587,6 +869,8 @@ X. Las autoridades del Estado y de los municipios, capacitarán a los cuerpos po
 
 XI. La Ley de Seguridad Pública del Estado, deberá establecer lo conducente para la más eficaz prestación del servicio de seguridad pública entre el Estado y sus municipios, para garantizar el desarrollo pacífico de los eventos deportivos, que se realicen en la jurisdicción estatal y municipal.
 
+#### Sección Cuarta. De la Comisión Estatal de Apelación y Arbitraje del Deporte
+
 ###### Artículo 22.
 
 La Comisión Estatal de Apelación y Arbitraje de Deporte es un órgano cuyo objeto es mediar o fungir como árbitro en las controversias que pudieran suscitarse entre deportistas, entrenadores y directivos, con la organización y competencia que esta ley establece, dotado de plena jurisdicción y autonomía para dictar sus acuerdos y resoluciones e independiente de las autoridades administrativas.
@@ -605,21 +889,33 @@ III. Conceder la suspensión provisional y en su caso definitiva, del acto impug
 
 Cuando el impugnante no sea autoridad, entidad u organismo deportivo, la CEAAD podrá efectuar la suplencia en la deficiencia de la queja:
 
-IV. Imponer correcciones disciplinarias y medidas de apremio a todas aquellas personas físicas o morales, organismos y entidades deportivas por conducto de sus titulares que se nieguen a acatar o que no acaten en sus términos, los acuerdos, decisiones y resoluciones emitidos por la propia CEAAD; y,
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-V. Las demás que establezcan la presente ley y otras disposiciones reglamentarias.
+IV. Imponer correcciones disciplinarias y medidas de apremio a todas aquellas personas físicas o morales, organismos y entidades deportivas por conducto de sus titulares que se nieguen a acatar o que no acaten en sus términos, los acuerdos, decisiones y resoluciones emitidos por la propia CEAAD;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+V. Realizar acciones para la prevención de la violencia de género y la discriminación que pudieran suscitarse entre deportistas, entrenadores y directivos;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+VI. Conocer, atender y sancionar, en el ámbito de su competencia, las conductas de violencia de género o discriminación que se susciten entre personas deportistas, entrenadoras y directivas, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN V], P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+VII. Las demás que establezcan la presente Ley y otras disposiciones reglamentarias.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 24.
 
-La CEAAD será integrada por un pleno, el que a su vez se integrará por su presidente y cuatro miembros titulares con sus respectivos suplentes. La SEQ designará al presidente y a los miembros titulares a propuesta del Titular del Organismo Rector de la Cultura Física y del Deporte en el Estado.
+La CEAAD será integrada por un pleno, el que a su vez se integrará por una presidencia y cuatro personas integrantes titulares con sus respectivos suplentes. La SEQ designará a la presidencia y las personas integrantes titulares a propuesta de la persona Titular de la CODEQ.
 
-De los cinco miembros integrantes del Pleno, tres de ellos deberán ser Licenciados en Derecho, y los otros dos, Licenciados en Educación Física y Deportes. Los cinco titulares y sus suplentes deberán gozar de reconocido prestigio y calidad moral.
+De las cinco personas integrantes del Pleno, tres de ellas deberán tener licenciatura en Derecho, y las otras dos, Licenciatura en Educación Física y Deportes.
 
-El Presidente y los miembros titulares de la CEAAD, durarán tres años en su encargo pudiendo ser ratificados por un periodo más.
+Las personas cinco titulares y sus suplentes deberán gozar de reconocido prestigio y calidad moral. La persona que ocupe la Presidencia y las personas titulares de la CEAAD, durarán tres años en su encargo pudiendo ser ratificadas por un periodo más.
 
-Los cargos de los integrantes del pleno serán honoríficos.
+Los cargos de las personas integrantes del pleno serán honoríficos.
 
 ###### Artículo 25.
 
@@ -637,9 +933,13 @@ En ausencia del Presidente, en cualquiera de las sesiones, asumirá sus funcione
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 30 DE MARZO DE 2016)</small>
 
+#### Sección Primera. De las Asociaciones y Sociedades Deportivas Estatales
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 27.
 
-Serán registradas por el Organismo Rector de la Cultura Física y el Deporte en el Estado como asociaciones deportivas estatales, las personas morales, cualquiera que sea su estructura, denominación y naturaleza jurídica, que conforme a su objeto social promuevan, practiquen o contribuyan al desarrollo del deporte sin fines preponderantemente económicos.
+Serán registradas por la CODEQ como Sociedades y Asociaciones Deportivas Estatales, las personas morales, cualquiera que sea su estructura, denominación y naturaleza jurídica, que conforme a su objeto social promuevan, practiquen o contribuyan al desarrollo del deporte sin fines preponderantemente económicos.
 
 ###### Artículo 28.
 
@@ -647,9 +947,17 @@ El Estado reconocerá y estimulará las acciones de organización y promoción d
 
 En el ejercicio de sus respectivas funciones en materia de cultura física y deporte, los sectores público, social y privado, se sujetarán en todo momento, a los principios de colaboración responsable entre todos los interesados.
 
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 28 Bis.
+
+Es obligación para las Asociaciones y Sociedades Deportivas Estatales, la igualdad de trato y oportunidades, entre hombres y mujeres, así como garantizar el principio de paridad de género en el acceso a sus órganos de gobierno y representación.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 29.
 
-Serán registradas por el Organismo Rector de la Cultura Física y el Deporte en el Estado como sociedades deportivas estatales, las personas morales, cualquiera que sea su naturaleza jurídica, estructura o denominación, que conforme o su objeto social promuevan, practiquen o contribuyan al desarrollo del deporte con fines preponderantemente económicos.
+Serán registradas por la CODEQ como sociedades deportivas estatales, las personas morales, cualquiera que sea su naturaleza jurídica, estructura o denominación, que conforme o su objeto social promuevan, practiquen o contribuyan al desarrollo del deporte con fines preponderantemente económicos.
 
 ###### Artículo 30.
 
@@ -663,15 +971,17 @@ III. Asociaciones estatales.
 
 Para los fines y propósitos de la presente ley se reconoce la participación de los COEDE dentro de la fracción III de este artículo, para incrementar la práctica deportiva de los estudiantes y elevar su nivel de rendimiento físico.
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-Los COEDE son asociaciones civiles, constituidas por universidades públicas o privadas, tecnológicos y normales del país, y cualquier institución educativa pública o privada de educación básica, media o superior que tienen por objeto coordinar, de acuerdo con las autoridades educativas competentes los programas emanados del Organismo Rector de la Cultura Física y el Deporte en el Estado entre la comunidad estudiantil de sus respectivos niveles, a las cuales se les reconoce el carácter de Asociaciones Deportivas.
+Los COEDE son asociaciones civiles, constituidas por universidades públicas o privadas, tecnológicos y normales del país, y cualquier institución educativa pública o privada de educación básica, media o superior que tienen por objeto coordinar, de acuerdo con las autoridades educativas competentes los programas emanados de la CODEQ y el Deporte en el Estado entre la comunidad estudiantil de sus respectivos niveles, a las cuales se les reconoce el carácter de Sociedades y Asociaciones Deportivas Estatales.
 
 Para los efectos de este artículo, se reconoce al deporte en todas sus modalidades y categorías, incluyendo al desarrollado por el sector estudiantil, al deporte para personas con capacidades diferentes y al deporte para personas adultas mayores.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 31.
 
-Para efecto de que el Organismo Rector de la Cultura Física y el Deporte en el Estado otorgue el registro correspondiente como asociaciones o sociedades deportivas estatales, éstas deberán cumplir con los requisitos establecidos en la presente ley.
+Para efecto de que la CODEQ otorgue el registro correspondiente como asociaciones o sociedades deportivas estatales, éstas deberán cumplir con los requisitos establecidos en la presente ley.
 
 ###### Artículo 32.
 
@@ -683,17 +993,23 @@ Las personas físicas y morales que se encuentren en el supuesto previsto en el 
 
 Las Asociaciones y Sociedades Deportivos, deberán observar los lineamientos que se señalan en el Artículo 39 de esta ley.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 34.
 
-La integración de los Delegaciones Deportivas que representen al Estado en competiciones regionales y nacionales, se hará coordinadamente entre el Organismo Rector de la Cultura Física y el Deporte en el Estado y las Asociaciones y Sociedades Deportivas.
+La integración de las Delegaciones Deportivas que representen al Estado en competiciones regionales y nacionales, se hará coordinadamente entre la CODEQ y las Asociaciones y Sociedades Deportivas Estatales.
+
+#### Sección Segunda. De las Asociaciones Deportivas Estatales
 
 ###### Artículo 35.
 
 Las Asociaciones Deportivos estatales regularán su estructura interna y funcionamiento a través de sus estatutos sociales, de acuerdo con los principios de democracia y representatividad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 36.
 
-Las acciones, de las Asociaciones Deportivas Estatales debidamente reconocidas en términos de la presente ley, que además de sus propias atribuciones, ejerzan como delegación, funciones públicas de carácter administrativo, actuando en este caso como agentes colaboradores del Gobierno Estatal, serán consideradas de utilidad pública. Además de las actividades propias de gobierno, administración, gestión, organización y reglamentación de las especialidades que correspondan a cada una de sus disciplinas deportivas y ejercerán bajo la coordinación del Organismo Rector de la Cultura Física y el Deporte en el Estado, las siguientes funciones públicas de carácter administrativo:
+Las acciones, de las Sociedades y Asociaciones Deportivas Estatales debidamente reconocidas en términos de la presente ley, que además de sus propias atribuciones, ejerzan como delegación, funciones públicas de carácter administrativo, actuando en este caso como agentes colaboradores del Gobierno Estatal, serán consideradas de utilidad pública. Además de las actividades propias de gobierno, administración, gestión, organización y reglamentación de las especialidades que correspondan a cada una de sus disciplinas deportivas y ejercerán bajo la coordinación de la CODEQ, las siguientes funciones públicas de carácter administrativo.
 
 I. Calificar y organizar, en su caso, las actividades y competiciones deportivas oficiales;
 
@@ -719,59 +1035,89 @@ II. La existencia de competiciones de ámbito estatal con un número significati
 
 III. Representar mayoritariamente una especialidad deportiva en el Estado;
 
-IV. Prever en sus estatutos la facultad del Organismo Rector de la Cultura Física y el Deporte en el Estado de la fiscalización de la correcta aplicación y ejercicio de los recursos públicos, así como evaluar los resultados de la aplicación de programas;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+IV. Prever en sus estatutos las condiciones siguientes:
+
+a) La igualdad de trato y oportunidades, entre hombres y mujeres, así como garantizar el principio de paridad de género en el acceso a sus Órganos de Gobierno y representación;
+
+b) Prever la existencia y obligatoriedad de un protocolo para la prevención, denuncia y atención de los casos de violencia de género o discriminación que se presente en sus Asociaciones o Sociedades Deportivas Estatales, y
+
+c) La facultad de la CODEQ de la fiscalización de la correcta aplicación y ejercicio de los recursos públicos, así como evaluar los resultados de la aplicación de programas.
 
 V. Contar con la afiliación a una Federación Deportiva Nacional reconocida por la Confederación Deportiva Mexicana;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-VI. Estar reconocida conforme a la presente ley, y
+VI. Estar reconocida conforme a la presente ley;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-VII. Entregar al Organismo Rector de Cultura Física y Deporte en el Estado, así como a la Confederación Deportiva Mexicana, constancia de su afiliación a su Federación.
+VII. Entregar a la CODEQ, así como a la Confederación Deportiva Mexicana, constancia de su afiliación a su Federación, y
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+VIII. Contar con un protocolo para la prevención, denuncia y atención de los casos de violencia de género o discriminación que se presente en sus Asociaciones o Sociedades Deportivas Estatales.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 40.
 
-Las Asociaciones Deportivos Estatales, para ser sujetos de los apoyos y estímulos que en su caso acuerde el Ejecutivo Estatal, deberán estar registradas como tales ante el Organismo Rector de la Cultura Física y el Deporte en el Estado y cumplir con todo lo previsto en la presente ley, el Programa Estatal de Cultura Física y Deporte, las obligaciones que se les imponga como integrantes del SIEDE, y demás disposiciones aplicables en materia presupuestaria, incluyendo el Decreto de Presupuesto de Egresos Estatal que anualmente expida el Congreso Estatal, siempre y cuando cumplan con la entrega del programa operativo anual, en tiempo y forma, ante el Organismo Rector de la Cultura Física y del Deporte en el Estado a fin de que sea integrado en el Presupuesto de Egresos para el ejercicio presupuestal del año siguiente.
+Las Sociedades y Asociaciones Deportivas Estatales, para ser sujetas de los apoyos y estímulos que en su caso acuerde el Ejecutivo Estatal, deberán estar registradas como tales ante la CODEQ y cumplir con todo lo previsto en la presente ley, el Programa Estatal de Cultura Física y Deporte, las obligaciones que se les imponga como integrantes del SIEDE, y demás disposiciones aplicables en materia presupuestaria, incluyendo el Decreto de Presupuesto de Egresos Estatal que anualmente expida el Congreso Estatal, siempre y cuando cumplan con la entrega del programa operativo anual, en tiempo y forma, ante la CODEQ a fin de que sea integrado en el Presupuesto de Egresos para el ejercicio presupuestal del año siguiente.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 41.
 
-Las Asociaciones Deportivas Estatales serán las únicas facultadas para convocar a competiciones realizadas bajo la denominación de "Campeonato Estatal" con estricto apego a los estatutos y reglamentos aplicables, y de acuerdo a los criterios que fije el Organismo Rector de la Cultura Física y el Deporte en el Estado.
+Las Sociedades y Asociaciones Deportivas Estatales serán las únicas facultadas para convocar a competiciones realizadas bajo la denominación de "Campeonato Estatal" con estricto apego a los estatutos y reglamentos aplicables, y de acuerdo a los criterios que fije la CODEQ.
 
 ###### Artículo 42.
 
 Para la realización de competiciones deportivas oficiales nacionales dentro del territorio estatal, las Asociaciones Deportivas Estatales, tienen la obligación de registrarlas ante el Organismo Rector de Cultura Física y Deporte en el Estado, respetando en todo momento el procedimiento y requisitos que para tal efecto prevea el reglamento de la presente ley.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 43.
 
-El Organismo Rector de la Cultura Física y el Deporte en el Estado en estricto respeto a los principios de auto organización que resultan compatibles con la vigilancia y protección de los intereses públicos, podrá llevar a cabo acciones de supervisión y evaluación en la aplicación de los recursos a ellas asignados.
+La CODEQ en estricto respeto a los principios de auto organización que resultan compatibles con la vigilancia y protección de los intereses públicos, podrá llevar a cabo acciones de supervisión y evaluación en la aplicación de los recursos a ellas asignados.
+
+#### Sección Tercera. De otras Asociaciones y Sociedades
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 44.
 
-Las personas morales, cualquiera que sea su naturaleza jurídica, estructura y denominación que conforme a su objeto social, promuevan la práctica o contribuyan al desarrollo de la activación física y la recreación deportiva en el Estado, serán inscritas en el REEDE por el Organismo Rector de la Cultura Física y el Deporte en el Estado como asociaciones recreativa-deportivas, cuando no persigan fines preponderantemente económicos o como sociedades recreativa-deportivas cuando su actividad se realice con fines de lucro.
+Las personas morales, cualquiera que sea su naturaleza jurídica, estructura y denominación que, conforme a su objeto social, promuevan la práctica o contribuyan al desarrollo de la activación física y la recreación deportiva en el Estado, serán inscritas en el REEDE por la CODEQ como asociaciones recreativa- deportivas, cuando no persigan fines preponderantemente económicos o como sociedades recreativa- deportivas cuando su actividad se realice con fines de lucro.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 45.
 
-Las personas morales, cualquiera que sea su naturaleza jurídica, estructura y denominación que conforme a su objeto social desarrollen, promuevan o contribuyan a la rehabilitación en el campo de la Cultura Física-Deportiva y el Deporte en el Estado, serán inscritas en el REEDE por el Organismo Rector de la Cultura Física y el Deporte en el Estado como Asociaciones de Deporte en la Rehabilitación, cuando no persigan fines preponderantemente económicos o como Sociedades de Deporte en la Rehabilitación cuando su actividad se realice con fines de lucro.
+Las personas morales; cualquiera que sea su naturaleza jurídica, estructura y denominación que conforme a su objeto social desarrollen, promuevan o contribuyan a la rehabilitación en el campo de la Cultura Física-Deportiva y el Deporte en el Estado, serán inscritas en el REEDE por la CODEQ como Asociaciones de Deporte en la Rehabilitación, cuando no persigan fines preponderantemente económicos o como Sociedades de Deporte en la Rehabilitación cuando su actividad se realice con fines de lucro.
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 46.
 
-Las personas morales, cualquiera que sea su naturaleza jurídica, estructura y denominación que conforme a su objetivo promuevan o contribuyan a la investigación, estudio, análisis, enseñanza y fomento de la cultura física y el deporte en el Estado, serán inscritos en el REEDE por el Organismo Rector de la Cultura Física y el Deporte en el Estado, como asociaciones de cultura física deportiva, cuando no persigan fines preponderantemente económicos o como sociedades de cultura física deportiva, cuando su actividad se realice con fines de lucro.
+Las personas morales, cualquiera que sea su naturaleza jurídica, estructura y denominación que conforme a su objetivo promuevan o contribuyan a la investigación, estudio, análisis, enseñanza y fomento de la cultura física y el deporte en el Estado, serán inscritos en el REEDE la CODEQ, como asociaciones de cultura física deportiva, cuando no persigan fines preponderantemente económicos o como sociedades de cultura física deportiva, cuando su actividad se realice con fines de lucro.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 47.
 
-Para efecto de que el Organismo Rector de la Cultura Física y el Deporte en el Estado, otorgue el registro correspondiente como asociaciones o sociedades de las descritas en los Artículos 44, 45 y 46, éstas deberán cumplir con el trámite previsto por el Reglamento de esta Ley.
+Para efecto de que la CODEQ, otorgue el registro correspondiente como asociaciones o sociedades de las descritas en los Artículos 44, 45 y 46, éstas deberán cumplir con el trámite previsto por el Reglamento de esta Ley.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 48.
 
-En el caso de que desaparecieran las condiciones o motivaciones que dieron lugar al registró de una asociación o sociedad de las reconocidas por esto ley, o que el Organismo Rector de la Cultura Física y el Deporte en el Estado, estime que existe incumplimiento de los objetivos para los cuales fue creada, se seguirá el trámite que prevé el reglamento de la presente ley, para la revocación del registro inicial.
+En el caso de que desaparecieran las condiciones o motivaciones que dieron lugar al registró de una asociación o sociedad de las reconocidas por esto (sic) ley, o que la CODEQ, estime que existe incumplimiento de los objetivos para los cuales fue creada, se seguirá el trámite que prevé el reglamento de la presente ley, para la revocación del registro inicial.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 49.
 
-Cualquier ente de los reconocidos en esta Ley que reciba recursos públicos, deberá presentar un informe semestral sobre la aplicación de los mismos y estará sujeto a las auditorías financieras y evaluaciones que determine el organismo rector de la cultura física y el deporte en el Estado.
+Cualquier ente de los reconocidos en esta Ley que reciba recursos públicos, deberá propiciar la igualdad de trato y oportunidades, entre hombres y mujeres, así como garantizar el principio de paridad de género en el acceso a sus órganos de gobierno y representación, así como presentar un informe semestral sobre la aplicación de los mismos y estará sujeto a las auditorías financieras y evaluaciones que determine la CODEQ.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MARZO DE 2016)</small>
 
@@ -805,33 +1151,43 @@ La planificación y construcción de instalaciones para la cultura física y el 
 
 Los integrantes del SIEDE promoverán acciones para el uso óptimo de las instalaciones deportivas públicas.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 55.
 
-El Organismo Rector de la Cultura Física y el Deporte en el Estado, coordinará con los Municipios y los sectores social y privado el adecuado mantenimiento, conservación y uso óptimo de las instalaciones de cultura física y deporte y emitirá para ello los lineamientos correspondientes.
+La CODEQ, coordinará con los Municipios y los sectores social y privado el adecuado mantenimiento, conservación y uso óptimo de las instalaciones de cultura física y deporte y emitirá para ello los lineamientos correspondientes.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 56.
 
-El Organismo Rector de la Cultura Física y el Deporte en el Estado, formulará las normas y criterios requeridos en materia de instalaciones deportivo-recreativas, deportivas, del deporte en la rehabilitación y activación física deportiva.
+La CODEQ, formulará las normas y criterios requeridos en materia de instalaciones deportivo- recreativas, deportivas, del deporte en la rehabilitación y activación física deportiva.
 
-El Organismo Rector de la Cultura Física y el Deporte en el Estado, constituirá los fondos, fideicomisos o cualquier otro instrumento financiero que permita el transparente manejo de los recursos estatales que para este objeto se destinen y que del uso de las instalaciones se obtengan.
+La CODEQ, constituirá los fondos, fideicomisos o cualquier otro instrumento financiero que permita el transparente manejo de los recursos estatales que para este objeto se destinen y que del uso de las instalaciones se obtengan.
 
 ###### Artículo 57.
 
 En los términos de los convenios de coordinación y colaboración respectivos, los municipios inscribirán sus instalaciones destinadas a la cultura, física y el deporte al REEDE, previa solicitud de los responsables o administradores de cualquier instalación de cultura física o deporte, con la finalidad de contar con la información actualizada que permita la planeación estatal.
 
-El Organismo Rector de la Cultura Física y el Deporte en el Estado, podrá solicitar a las autoridades correspondientes que se suspenda total o parcialmente el uso o construcción de cualquier instalación deportiva que no cumpla con los requisitos mínimos de operación señalados en la norma oficial mexicana, cumpliendo el procedimiento que para ese propósito prevea el reglamento de esta ley.
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+La CODEQ, podrá solicitar a las autoridades correspondientes que se suspenda total o parcialmente el uso o construcción de cualquier instalación deportiva que no cumpla con los requisitos mínimos de operación señalados en la norma oficial mexicana, cumpliendo el procedimiento que para ese propósito prevea el reglamento de esta ley.
 
 ###### Artículo 58.
 
 Las instalaciones destinadas a la cultura física y el deporte deberán proyectarse, construirse, operarse y administrarse en el marco de la normatividad aplicable, privilegiando la sana y pacífica convivencia, de manera que impidan o limiten al máximo las posibles acciones de violencia o conductas antisociales.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 59.
 
-El Organismo Rector de la Cultura Física y el Deporte en el Estado, promoverá ante las diversas instancias de Gobierno la utilización concertada de laboratorios, centros de salud, parques, plazas y demás espacios o instalaciones públicas en apoyo a la cultura física y el deporte.
+La CODEQ, promoverá ante las diversas instancias de Gobierno la utilización concertada de laboratorios, centros de salud, parques, plazas y demás espacios o instalaciones públicas en apoyo a la cultura física y el deporte.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 60.
 
-En el uso de las instalaciones a que se refiere este Capítulo, con fines de espectáculo, deberán tomarse las providencias necesarias y respetarse los programas y calendarios deportivos previamente establecidos y se deberá fijar una fianza suficiente que garantice la reparación de los daños que se pudieran ocasionar, el monto de la fianza será determinado por el Organismo Rector de la Cultura Física y el Deporte en los niveles municipal y estatal.
+En el uso de las instalaciones a que se refiere este Capítulo, con fines de espectáculo, deberán tomarse las providencias necesarias y respetarse los programas y calendarios deportivos previamente establecidos y se deberá fijar una fianza suficiente que garantice la reparación de los daños que se pudieran ocasionar, el monto de la fianza será determinado por la CODEQ.
 
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 2016)</small>
 
@@ -845,43 +1201,53 @@ Las autoridades municipales, serán competentes para verificar el cumplimiento d
 
 ### Capítulo III. De la Enseñanza, Investigación y Difusión
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 61.
 
-El Organismo Rector de la Cultura Física y el Deporte en el Estado, en coordinación con la SEQ, promoverá e impulsará la enseñanza, investigación, difusión y desarrollo tecno deportivo y la aplicación de los conocimientos científicos en materia de cultura física y deporte, así como la construcción de centros de enseñanza y capacitación de estas actividades.
+La CODEQ, en coordinación con la SEQ, promoverá e impulsará la enseñanza, investigación, difusión y desarrollo tecno deportivo y la aplicación de los conocimientos científicos en materia de cultura física y deporte, así como la construcción de centros de enseñanza y capacitación de estas actividades.
 
 ###### Artículo 62.
 
 En el desarrollo de la investigación y conocimientos científicos, deberán participar los integrantes del SIEDE quienes podrán asesorarse de universidades públicas o privadas y otras instituciones de educación superior en el Estado de acuerdo a los lineamentos que para éste fin se establezcan en el reglamento de la presente ley.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 63.
 
-El Organismo Rector de la Cultura Física y el Deporte en el Estado, participará en la elaboración de programas de capacitación en actividades de cultura física y deporte con las dependencias y entidades de la Administración Pública Estatal Y Municipal, Organismos Públicos, Sociales y Privados, Estatales y Nacionales para el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos deportivos. En los citados programas, se deberá contemplar la capacitación respecto a la atención de las personas con algún tipo de discapacidad.
+La CODEQ, participará en la elaboración de programas de capacitación en actividades de cultura física y deporte con las dependencias y entidades de la Administración Pública Estatal y Municipal, Organismos Públicos, Sociales y Privados, Estatales y Nacionales para el establecimiento de escuelas y centros de educación y capacitación para la formación de personas profesionales y técnicas deportivas. En los citados programas, se deberá contemplar la capacitación respecto a la atención de las personas con algún tipo de discapacidad.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 64.
 
-El Organismo Rector de la Cultura Física y el Deporte en el Estado, promoverá y gestionará conjuntamente con las Asociaciones Deportivas Estatales la formación, capacitación, actualización y certificación de recursos humanos para la enseñanza y práctica de actividades de cultura física y deporte. Para tal efecto, emitirá los lineamientos necesarios en los que se determine el procedimiento de acreditación considerando lo dispuesto por la Ley de Educación del Estado de Quintana Roo.
+La CODEQ, promoverá y gestionará conjuntamente con las Sociedades y Asociaciones Deportivas Estatales la formación, capacitación, actualización y certificación de recursos humanos para la enseñanza y práctica de actividades de cultura física y deporte. Para tal efecto, emitirá los lineamientos necesarios en los que se determine el procedimiento de acreditación considerando lo dispuesto por la Ley de Educación del Estado de Quintana Roo.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE MARZO DE 2016)</small>
 
 ### Capítulo IV. De las Ciencias Aplicadas
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 65.
 
-El Organismo Rector de la Cultura Física y el Deporte en el Estado, en coordinación con la SE, promoverá el desarrollo e investigación en las áreas de medicina deportiva, biomecánica, control del dopaje, psicología del deporte, nutrición y demás ciencias aplicadas, más las que se requieran para la práctica óptima de la cultura física y el deporte.
+La CODEQ, en coordinación con la SEQ, promoverá el desarrollo e investigación en las áreas de medicina deportiva, biomecánica, control del dopaje, psicología del deporte, nutrición y demás ciencias aplicadas, más las que se requieran para la práctica óptima de la cultura física y el deporte.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 66.
 
-El Organismo Rector de la Cultura Física y el Deporte en el Estado, coordinará las acciones necesarias a fin de que los integrantes del SIEDE obtengan los beneficios que por el desarrollo e investigación en estas ciencias se adquieran.
+La CODEQ, coordinará las acciones necesarias a fin de que los integrantes del SIEDE obtengan los beneficios que por el desarrollo e investigación en estas ciencias se adquieran.
 
 ###### Artículo 67.
 
 Los deportistas integrantes del SIEDE durante la realización de eventos deportivos oficiales tendrán derecho a recibir atención médica elemental. Para tal efecto, las autoridades deportivas estatales y municipales promoverán los mecanismos de concertación con las instituciones públicas o privadas que integran el sector salud.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 68.
 
-Los deportistas y los entrenadores que integran el padrón de deportistas de alto rendimiento dentro del REEDE, así como aquellos considerados como talentos deportivos que integren preselecciones y selecciones estatales, deberán contar con un seguro de vida y gastos médicos que proporcionará el Organismo Rector de la Cultura Física y el Deporte en el Estado, así como incentivos económicos con base a los resultados obtenidos. El procedimiento correspondiente quedará establecido en el reglamento de la presente ley.
+Las personas deportistas y personas entrenadoras que integran el padrón de personas deportistas de alto rendimiento dentro del REEDE, así como aquellas personas consideradas como talentos deportivos que integren preselecciones y selecciones estatales, deberán contar con un seguro de vida y gastos médicos que proporcionará la CODEQ, así como incentivos económicos con base a los resultados obtenidos. El procedimiento correspondiente quedará establecido en el reglamento de la presente ley.
 
 ###### Artículo 69.
 
@@ -899,15 +1265,17 @@ Las instancias correspondientes verificarán y certificarán que los laboratorio
 
 ### Capítulo V. Del Estímulo al Desempeño en la Cultura Física y el Deporte
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 72.
 
-Corresponde al Organismo Rector de la Cultura Física y el Deporte en el Estado, a las unidades administrativas municipales de cultura física y deporte y a las dependencias de los sectores público y privado, en el ámbito de sus respectivas competencias, ayudar, subvencionar y otorgar reconocimientos a los deportistas, profesionistas en deporte y organismos de cultura física y deporte, ajustándose a lo dispuesto en la presente ley y su reglamento y, en su caso, en las convocatorias correspondientes.
+Corresponde a la CODEQ, a las unidades administrativas municipales de cultura física y deporte y a las dependencias de los sectores público y privado, en el ámbito de sus respectivas competencias, ayudar, subvencionar y otorgar reconocimientos a las personas deportistas, profesionistas en deporte y la CODEQ, ajustándose a lo dispuesto en la presente Ley y su reglamento y, en su caso, en las convocatorias correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 73.
 
-Los estímulos a que se refiere el presente Capítulo y que se otorguen con cargo al presupuesto del Organismo Rector de la Cultura Física y el Deporte en el Estado, tendrán como finalidad el cumplimiento de alguno de los siguientes objetivos:
+Los estímulos a que se refiere el presente Capítulo y que se otorguen con cargo al presupuesto de la CODEQ, tendrán como finalidad el cumplimiento de alguno de los siguientes objetivos:
 
 I. Apoyar los programas de las asociaciones deportivas estatales;
 
@@ -929,17 +1297,23 @@ VI. Promover con las instituciones educativas la participación en los programas
 
 VII. Contribuir a elevar el desarrollo deportivo de los Estados y los Municipios de nuestro entorno histórico y cultural en respuesta a tratados o convenios de cooperación entre Estados y Federación, y
 
-VIII. Realizar cualquier actividad que contribuya al desarrollo de las competencias deportivas que de acuerdo con la legislación vigente correspondan al Organismo Rector de la Cultura Física y el Deporte en el Estado.
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+VIII. Realizar cualquier actividad que contribuya al desarrollo de las competencias deportivas que de acuerdo con la legislación vigente correspondan a la CODEQ.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 74.
 
-Los candidatos a obtener estímulos y apoyos a que se refiere este capítulo, deberán satisfacer además de los requisitos que establezca el reglamento de la presente ley, los siguientes:
+Las personas candidatas a obtener estímulos y apoyos a que se refiere este capítulo, deberán satisfacer además de los requisitos que establezca el reglamento de la presente ley, los siguientes:
 
 I. Formar parte del SIEDE a través de su registro en el REEDE; y.
 
 II. Ser propuestos por la Asociación Deportiva Estatal correspondiente o de acuerdo a lo que se establezca en la convocatoria correspondiente.
 
-El trámite y demás requisitos para ser acreedores de los estímulos a que se refiere este Capítulo, se especificarán en el Reglamento de la presente Ley y su otorgamiento y goce estará sujeto al estricto cumplimiento de las disposiciones antes mencionadas, a los reglamentos técnicos y deportivos de su disciplina deportiva, así como a las bases que establezca el Ejecutivo Estatal por conducto del Organismo Rector de la Cultura Física y el Deporte en el Estado.
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+El trámite y demás requisitos para ser personas acreedoras de los estímulos a que se refiere este Capítulo, se especificarán en el Reglamento de la presente Ley y su otorgamiento y goce estará sujeto al estricto cumplimiento de las disposiciones antes mencionadas, a los reglamentos técnicos y deportivos de su disciplina deportiva, así como a las bases que establezca el Ejecutivo Estatal por conducto de la CODEQ.
 
 ###### Artículo 75.
 
@@ -967,9 +1341,11 @@ III. El sometimiento a las actuaciones de comprobación y de control financiero 
 
 IV. Facilitar cuanta información les sea requerida por las autoridades de la administración pública estatal.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 77.
 
-Las personas físicas y morales, así como las agrupaciones que hubieren contribuido al desarrollo de la cultura física y el deporte estatal, podrán obtener reconocimiento por parte del Organismo Rector de la Cultura Física y el Deporte en el Estado, así como en su caso, estímulos en dinero o en especie previo cumplimiento de los requisitos que para tal efecto se establezcan.
+Las personas físicas y morales, así como las agrupaciones que hubieren contribuido al desarrollo de la cultura física y el deporte estatal, podrán obtener reconocimiento por parte de la CODEQ, así como en su caso, estímulos en dinero o en especie previo cumplimiento de los requisitos que para tal efecto se establezcan.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2019)</small>
 
@@ -1011,27 +1387,45 @@ XIII. Contar con las instalaciones deportivas adecuadas y en buen estado en todo
 
 XIV. Estar informado acerca de las convocatorias para estímulos y apoyos deportivos que se entreguen por el Organismo Rector de la Cultura Física y Deporte en el Estado, así como de los municipios.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 77 Ter.
 
-Son obligaciones del deportista:
+Son obligaciones de la persona deportista:
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
 
 I. Desempeñar eficaz y adecuadamente su actividad física y deportiva, a fin de construir un ejemplo para la niñez, la juventud y la sociedad quintanarroense;
 
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
 II. Cumplir cabalmente con los estatutos y reglamentos de su deporte o especialidad;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
 
 III. En caso de estar comprendido entre quienes reciban estímulos o apoyos, en dinero o en especie por parte del Estado o municipios, cumplir con los entrenamientos respectivos y asistir a las competencias de distintos niveles, al ser requerido;
 
-IV. Comunicar inmediatamente y por escrito, al Organismo Rector de Cultura Física y Deporte en el Estado, cuando tenga interés de formar parte en las organizaciones o clubes deportivos profesionales, tratándose de deportistas menores de 18 años inscritos en el registro estatal de deporte;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+IV. Comunicar inmediatamente y por escrito, a la CODEQ, cuando tenga interés de formar parte en las organizaciones o clubes deportivos profesionales, tratándose de personas deportistas menores de 18 años inscritos en el registro estatal de deporte;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
 
 V. Representar a su municipio, estado y país en cualquier evento deportivo a que fuere convocado;
 
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
 VI. Asistir a las reuniones, premiaciones y estímulos a los que fuere convocado;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
 
 VII. Cuidar y vigilar el adecuado mantenimiento de las instalaciones en que practique su deporte, para que éstas se conserven en buen estado;
 
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
 VIII. Fomentar la práctica del deporte en todas las formas y medios a su alcance, y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
 
 IX. Las demás que le sean señaladas por la presente ley y su reglamento.
 
@@ -1049,25 +1443,33 @@ Se entenderá por dopaje en el deporte, la administración a los deportistas o l
 
 Se entenderá por clases y grupos farmacológicos de agentes o métodos de dopaje, las prohibidas por las Organizaciones Deportivas Internacionales y que figuren en las listas que para tal efecto publique la CONADE, de conformidad con lo dispuesto por la Comisión Médica del Comité Olímpico Internacional y la Agencia Mundial Antidopaje.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 80.
 
-El Organismo Rector de la Cultura Física y el Deporte en el Estado, promoverá la creación de un Comité Estatal Antidopaje, involucrando para tal efecto, a todas aquellas instancias públicas o privadas que a través de sus respectivas competencias puedan formar porte de dicho Comité.
+La CODEQ, promoverá la creación de un Comité Estatal Antidopaje, involucrando para tal efecto, a todas aquellas instancias públicas o privadas que a través de sus respectivas competencias puedan formar porte (sic) de dicho Comité.
 
 ###### Artículo 81.
 
 El Comité Estatal Antidopaje será, junto con las Asociaciones Deportivas Estatales, la instancia responsable de conocer de los resultados, controversias e irregularidades en las normas y procedimientos que surjan de los controles dentro y fuera de competición a que sean sometidos los deportistas en el territorio estatal.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 82.
 
-Cuando se determinen casos de dopaje dentro o fuera de competición, las Asociaciones Deportivas Estatales cuyos atletas hayan resultado positivos, tendrán la obligación de hacer del conocimiento del Organismo Rector de la Cultura Física y el Deporte en el Estado, dichos resultados.
+Cuando se determinen casos de dopaje dentro o fuera de competición, las Sociedades y Asociaciones Deportivas Estatales cuyas personas atletas hayan resultado positivos, tendrán la obligación de hacer del conocimiento de la CODEQ, dichos resultados.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 83.
 
-El Organismo Rector de la Cultura Física y el Deporte en el Estado, conjuntamente con las autoridades estatales y municipales del sector salud y los integrantes del SIEDE, promoverá e impulsará las medidas de prevención y control del uso de sustancias y de la práctica de los métodos reglamentarios.
+La CODEQ, conjuntamente con las autoridades estatales y municipales del sector salud y las personas integrantes del SIEDE, promoverá e impulsará las medidas de prevención y control del uso de sustancias y de la práctica de los métodos reglamentarios.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 84.
 
-Se establece la obligación de contar con la Cartilla Oficial De Control Médico que expedirá el Organismo Rector de la Cultura Física y el Deporte en el Estado a los deportistas que integran las selecciones estatales, el padrón de alto rendimiento y talentos deportivos dentro del REEDE. Los requisitos para el otorgamiento de lo cartilla mencionada en el presente artículo, se establecerán en el reglamento de la presente ley.
+Se establece la obligación de contar con la Cartilla Oficial de Control Médico que expedirá de (sic) la CODEQ a las personas deportistas que integran las selecciones estatales, el padrón de alto rendimiento y talentos deportivos dentro del REEDE. Los requisitos para el otorgamiento de lo (sic) cartilla mencionada en el presente artículo, se establecerán en el reglamento de la presente ley.
 
 ###### Artículo 85.
 
@@ -1111,11 +1513,11 @@ Los deportistas que participen dentro del deporte profesional, se regirán por l
 
 Los deportistas profesionales que integren preselecciones y selecciones estatales, que involucren oficialmente la representación del Estado en competiciones nacionales, gozarán de los mismos derechos e incentivos establecidos dentro de esta ley, para los deportistas de alto rendimiento.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 94.
 
-El Organismo Rector de la Cultura Física y el Deporte en el Estado, coordinará y promoverá la integración de Comisiones Estatales de Deporte Profesional, misma (sic) que se integrarán al Registro Estatal de la Cultura Física y Deporte del SIEDE de acuerdo a lo establecido en el Reglamento de esta Ley.
+La CODEQ, coordinará y promoverá la integración de Comisiones Estatales de Deporte Profesional, misma (sic) que se integrarán al Registro Estatal de la Cultura Física y Deporte del SIEDE de acuerdo a lo establecido en el Reglamento de esta Ley.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE MARZO DE 2016)</small>
 
@@ -1125,7 +1527,9 @@ El Organismo Rector de la Cultura Física y el Deporte en el Estado, coordinará
 
 En la celebración de espectáculos públicos o privados, eventos, cursos, talleres o seminarios en materia de cultura física y/o deporte, sus promotores tienen la obligación de asegurar la integridad de los asistentes y la prevención de la violencia.
 
-Para dar cumplimiento a lo dispuesto en el párrafo anterior, además de lo previsto en el reglamento de la presente ley y en los lineamentos correspondientes que para el efecto expido el Organismo Rector de la Cultura Física y el Deporte en el Estado, se deberá ajustar a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+Para dar cumplimiento a lo dispuesto en el párrafo anterior, además de lo previsto en el reglamento de la presente Ley y en los lineamentos correspondientes que para el efecto expido (sic) la CODEQ, se deberá ajustar a lo siguiente:
 
 I. Procurar que se movilicen servicios de policía preventiva suficientes para afrontar las manifestaciones de violencia en el lugar del evento o sus inmediaciones, así como a lo largo de las vías de tránsito utilizadas por los espectadores;
 
@@ -1165,7 +1569,9 @@ La aplicación de las disposiciones previstas en este Capítulo, se realizará s
 
 Las disposiciones previstas en este Capítulo, serán aplicables a todos los eventos deportivos, sin perjuicio de dar cumplimiento a otros ordenamientos en el ámbito estatal y municipal.
 
-El Organismo Rector de la Cultura Física y el Deporte en el Estado podrá asesorar en la materia, dentro del ámbito de su competencia, a los organizadores de eventos deportivos cuando así lo requieran.
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+La CODEQ podrá asesorar en la materia, dentro del ámbito de su competencia, a las personas organizadoras de eventos deportivos cuando así lo requieran.
 
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 2016)</small>
 
@@ -1187,59 +1593,93 @@ VI. La facilitación de medios técnicos, económicos, materiales o tecnológico
 
 VII. Las que establezca la presente Ley, su Reglamento y demás ordenamientos aplicables.
 
-> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 100 Quater.
 
-El Organismo Rector de la Cultura Física y el Deporte en el Estado será el encargado de elaborar y conducir las políticas generales contra la violencia en el deporte.
+La CODEQ será la encargada de elaborar y conducir las políticas generales contra la violencia en el deporte.
 
-El Organismo Rector de la Cultura Física y el Deporte en el Estado podrá solicitar la participación de dependencias o entidades de la Administración Pública Estatal, a fin de colaborar, apoyar y desarrollar planes y estudios que aporten eficacia a las acciones encaminadas en la prevención de la violencia en el deporte. Asimismo, podrán participar personas destacadas en el ámbito del deporte.
+La CODEQ podrá solicitar la participación de dependencias o entidades de la Administración Pública Estatal, a fin de colaborar, apoyar y desarrollar planes y estudios que aporten eficacia a las acciones encaminadas en la prevención de la violencia en el deporte. Asimismo, podrán participar personas destacadas en el ámbito del deporte.
 
-Será obligación del Organismo Rector de la Cultura Física y el Deporte en el Estado, la elaboración de un Programa Anual de Trabajo para la Prevención de la Violencia en Eventos Deportivos.
+Será obligación de la CODEQ, la elaboración de un Programa Anual de Trabajo para la Prevención de la Violencia en Eventos Deportivos.
 
-> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 100 Quinquies.
 
-Las atribuciones del Organismo Rector de la Cultura Física y el Deporte en el Estado en materia de prevención de la violencia en el deporte, serán:
+Las atribuciones de la CODEQ en materia de prevención de la violencia en el deporte, serán:
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2016)</small>
 
 I. Promover e impulsar acciones de prevención contra la violencia en el deporte;
 
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2016)</small>
+
 II. Fomentar, coordinar y realizar campañas de divulgación y de sensibilización en contra de la violencia, con el fin de conseguir que el deporte sea un referente de integración y convivencia social;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2016)</small>
 
 III. Asesorar, dentro del ámbito de su competencia siempre que lo requieran, a los organizadores de aquellos eventos o espectáculos deportivos en los que razonablemente se prevea la posibilidad de actos violentos;
 
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2016)</small>
+
 IV. Coadyuvar con las dependencias encargadas de la seguridad pública y la protección civil del Estado y los Municipios que estén involucradas en la realización de eventos deportivos;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2016)</small>
 
 V. Establecer los lineamientos que permitan llevar a cabo los acuerdos o convenios de colaboración entre el Estado y los municipios, en la materia, los requisitos y normas mínimas que deben cumplir las instalaciones donde se lleven a cabo eventos deportivos, sin perjuicio de las establecidas por Protección Civil, y las medidas que se consideren necesarias para la prevención de la violencia en los eventos deportivos;
 
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2016)</small>
+
 VI. Fomentar programas y campañas de divulgación en contra de la violencia y la discriminación a fin de retribuir los valores de integración y convivencia social del deporte;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2016)</small>
 
 VII. Emitir recomendaciones y orientar a los miembros del SIEDE sobre la implementación de medidas tendientes a erradicar la violencia y la discriminación en el desarrollo de sus actividades y la celebración de eventos deportivos;
 
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2016)</small>
+
 VIII. Brindar asesoría a quien lo solicite, en materia de prevención de la violencia en el deporte que se susciten en los eventos que se celebren con motivo de éste;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2016)</small>
 
 IX. Realizar estudios e informes sobre las causas y los efectos de la violencia en el deporte que se susciten en los eventos de esta materia;
 
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2016)</small>
+
 X. Conformar y publicar la estadística estatal sobre la violencia en el deporte;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2016)</small>
 
 XI. Informar a las autoridades competentes sobre los riesgos de los eventos deportivos y coadyuvar en la implementación de las medidas necesarias para la protección de personas, instalaciones o bienes, y
 
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2016)</small>
+
 XII. Las demás que se establezcan en esta Ley, su Reglamento y demás ordenamientos aplicables.
 
-> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 100 Sexies.
 
-Dentro de los lineamientos que emita el Organismo Rector de la Cultura Física y el Deporte en el Estado a que se refiere el artículo anterior deberán regularse, en lo concerniente al acceso a los eventos deportivos, entre otras medidas:
+Dentro de los lineamientos que emita la CODEQ a que se refiere el artículo anterior deberán regularse, en lo concerniente al acceso a los eventos deportivos, entre otras medidas:
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2016)</small>
 
 I. La introducción de armas, elementos cortantes, punzantes, contundentes u objetos susceptibles de ser utilizados como tales, mismos que puedan poner en peligro la integridad física de los deportistas, entrenadores, directivos, árbitros y de espectadores o asistentes en general;
 
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2016)</small>
+
 II. El ingreso y utilización de petardos, bombas de estruendo, bengalas, fuegos de artificio u objetos análogos;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2016)</small>
 
 III. La introducción de banderas, carteles, pancartas, mantas o elementos gráficos que atenten contra la moral, la sana convivencia o inciten a la violencia, así como cualquier elemento que impida la plena identificación de los espectadores o aficionados en general;
 
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2016)</small>
+
 IV. El establecimiento de espacios determinados, de modo permanente o transitorio, para la ubicación de las porras o grupos de animación empadronados por los clubes o equipos y registrados ante su respectiva Asociación Deportiva Estatal, y
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2016)</small>
 
 V. El ingreso de bebidas alcohólicas, estupefacientes, psicotrópicos, estimulantes o sustancias análogas; así como de personas que se encuentren bajo los efectos de las mismas.
 
@@ -1249,17 +1689,19 @@ V. El ingreso de bebidas alcohólicas, estupefacientes, psicotrópicos, estimula
 
 Quienes en su carácter de asistente o espectador acudan a la celebración de un evento deportivo deberán:
 
-I. Acatar las disposiciones normativas relacionadas con la cultura física y la prevención y erradicación de la violencia en el deporte, así como de las diversas modalidades de los eventos deportivos contenidas en la presente Ley, su Reglamento y las que emita el Organismo Rector de la Cultura Física y el Deporte en el Estado, así como las de la localidad en donde se lleven a cabo, y
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+I. Acatar las disposiciones normativas relacionadas con la cultura física y la prevención y erradicación de la violencia en el deporte, así como de las diversas modalidades de los eventos deportivos contenidas en la presente Ley, su Reglamento y las que emita la CODEQ, así como las de la localidad en donde se lleven a cabo; y
 
 II. Cumplir con las indicaciones señaladas por el organizador, mismas que deberán contener las causas por las que se pueda impedir su entrada a las instalaciones donde se llevará a cabo dicho espectáculo.
 
 Con estricto respeto a las disposiciones y procedimientos previstos en las leyes u ordenamientos en materia de responsabilidades administrativas, civiles y penales aplicables de carácter estatal y municipal, los asistentes o espectadores que cometan actos que generen violencia u otras acciones sancionables al interior o en las inmediaciones de los espacios destinados a la realización de la cultura física, el deporte y en las que se celebren eventos deportivos en cualquiera de sus modalidades, serán sujetos a la aplicación de la sanción correspondiente conforme a los ordenamientos referidos por la autoridad competente.
 
-> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 100 Octies.
 
-Los deportistas, entrenadores, técnicos, directivos y demás personas, en el ámbito de la disciplina deportiva, deberán actuar conforme a las disposiciones y lineamientos que para prevenir y erradicar la violencia en el deporte emita el Organismo Rector de la Cultura Física y el Deporte en el Estado así como los establecidos en las disposiciones reglamentarias y estatutarias emitidas por las Asociaciones Deportivas Estatales respectivas.
+Las personas deportistas, entrenadoras, técnicas, directivas y demás personas, en el ámbito de la disciplina deportiva, deberán actuar conforme a las disposiciones y lineamientos que para prevenir y erradicar la violencia en el deporte emita la CODEQ, así como los establecidos en las disposiciones reglamentarias y estatutarias emitidas por las Sociedades y Asociaciones Deportivas Estatales respectivas.
 
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 2016)</small>
 
@@ -1269,17 +1711,35 @@ Los integrantes del SIEDE, podrán revisar continuamente sus disposiciones regla
 
 Asimismo, brindarán las facilidades y ayuda necesarias a las autoridades responsables de la aplicación de las disposiciones y lineamientos correspondientes para la prevención de la violencia en el deporte, a fin de conseguir su correcta y adecuada implementación.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-### Capítulo Único. De las Infracciones y Sanciones
+### CAPÍTULO X. Del Consejo Estatal de Personas Deportistas Destacadas
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 100 Décies.- El Consejo Estatal de Personas Deportistas destacadas, estará integrado por dieciséis deportistas, que serán personas representantes de los municipios que conforman el Estado, los (sic) cuales se hayan destacado por su participación constante y activa en las diversas actividades afines al objeto de la CODEQ.
+
+Se nombrarán, observando el principio de paridad de género, por la persona Titular del Poder Ejecutivo, a propuesta de la Presidencia de la CODEQ y su nombramiento durará un año, pudiendo prorrogarse una sola vez, hasta por un año más.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 100 Undécies.- El cargo de las personas integrantes del Consejo Estatal de Personas Deportistas Destacadas será honorífico, por lo que no recibirán retribución económica alguna por el desempeño de sus funciones.
+
+El Consejo Estatal de Personas Deportistas Destacadas nombrará, de entre sus personas integrantes, a cinco personas quienes fungirán como representantes de este Consejo, ante la Junta Directiva de la CODEQ.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MARZO DE 2016)</small>
 
 ## Título Cuarto. Infracciones y Sanciones
 
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 2016)</small>
 
+### Capítulo Único. De las Infracciones y Sanciones
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 101.
 
-La aplicación de sanciones administrativas por infracciones a esta ley, su reglamento y demás disposiciones que de ello emanen, corresponderá al, Organismo Rector de la Cultura Física y el Deporte en el Estado.
+La aplicación de sanciones administrativas por infracciones a esta ley, su reglamento y demás disposiciones que de ello emanen, corresponderá a la CODEQ.
 
 ###### Artículo 102.
 
@@ -1295,7 +1755,9 @@ En el ámbito de la justicia deportiva, la aplicación de sanciones por infracci
 
 I. Las asociaciones deportivas estatales, las asociaciones y sociedades deportivas estatales, recreativo-deportivas, del deporte en la rehabilitación y de cultura física-deportiva;
 
-II. Al Organismo Rector de la Cultura Física y el Deporte en el Estado, así como a los Sistemas Municipales de Cultura Física y Deporte; y,
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+II. La CODEQ, así como a los Sistemas Municipales de Cultura Física y Deporte, y
 
 III. A los directivos, jueces, árbitros y organizadores.
 
@@ -1464,3 +1926,33 @@ P.O. 15 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 105 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ESTATAL DE CULTURA FÍSICA Y DEPORTE”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 3 DE NOVIEMBRE DE 2023.
+
+> <small>[N. DE E. TRANSITORIOS EL “DECRETO NÚMERO: 121 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE CULTURA FÍSICA Y DEPORTE; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD DE GÉNERO ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUINTANA ROO; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. La persona Titular del Poder Ejecutivo del Estado contará con un plazo de un año contados (sic) a partir de la entrada en vigor del presente decreto, para realizar las adecuaciones correspondientes a las disposiciones reglamentarias y demás normatividad complementaria en la materia.
+
+En tanto, se adecúan las disposiciones reglamentarias seguirán aplicándose los reglamentos y demás normatividad que se encuentren vigentes en todo lo que no se oponga al presente decreto.
+
+TERCERO. la Junta Directiva contará con un término de ciento ochenta días hábiles para emitir el Reglamento Interno de la CODEQ.
+
+CUARTO. Los derechos, obligaciones, activos, pasivos, concesiones y demás ingresos de cualquier naturaleza que corresponden a la Comisión para la Juventud y el Deporte de Quintana Roo, creada por Decreto el 20 de marzo de 2002, publicado en el Periódico Oficial del Estado de Quintana Roo, serán asumidos y atendidos por la Comisión del Deporte de Quintana Roo.
+
+QUINTO. Los recursos humanos, materiales y financieros, así como los expedientes, el archivo, el inmobiliario y en general los demás bienes de esta naturaleza e inventario que correspondan a la Comisión para la Juventud y el Deporte de Quintana Roo, deberán ser transferidos a la Comisión del Deporte de Quintana Roo.
+
+SEXTO. La Secretaría de Finanzas y Planeación y la Secretaría de la Contraloría serán responsables del proceso de transferencia de los recursos mencionados en el artículo quinto transitorio, por lo que proveerán y acordarán lo necesario para dar cumplimento al presente Decreto.
+
+SÉPTIMO. Los compromisos, programas y procedimientos administrativos y/o legales que, en materia de deporte, correspondían a la Comisión para la Juventud y el Deporte de Quintana Roo, a la entrada en vigor del presente Decreto serán transferidos y asumidos por la Comisión del Deporte de Quintana Roo.
+
+OCTAVO. Las referencias establecidas en los ordenamientos jurídicos, reglamentos, decretos, acuerdos, reglas de operación y en general cualquier disposición que mencione a la Comisión para la Juventud y el Deporte de Quintana Roo, se entenderán a la Comisión del Deporte del Estado de Quintana Roo, que se enuncia en el presente Decreto.
+
+NOVENO. El personal adscrito a la Comisión para la Juventud y el Deporte de Quintana Roo, en aplicación de este Decreto, en ninguna forma resultarán afectados en sus derechos y prestaciones laborales que hayan adquirido con motivo de su relación laboral con la Administración Pública Estatal.
+
+DÉCIMO. La Secretaría de Finanzas y Planeación deberá de realizar los ajustes y previsiones necesarios tendientes a que el presupuesto otorgado a la Comisión para la Juventud y el Deporte de Quintana Roo para el presente ejercicio fiscal 2023, sea transferido a la Comisión del Deporte de Quintana Roo.
+
+DÉCIMO PRIMERO. Las Sociedades y Asociaciones Deportivas en el Estado contarán con un plazo de 1 año, contado a partir de la publicación del presente Decreto, para adecuar sus estatutos, normativa interna y emitir los instrumentos que prevé la presente reforma.
+
+DÉCIMO SEGUNDO. Se derogan todas aquellas otras disposiciones de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
