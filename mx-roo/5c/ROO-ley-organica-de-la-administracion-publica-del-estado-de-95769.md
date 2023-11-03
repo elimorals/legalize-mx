@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2023-07-13"
+last_updated: "2023-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -721,9 +721,13 @@ LII. Establecer los criterios y lineamientos para regular la elaboración de las
 
 LIII. Normar, administrar y mantener actualizado el padrón de proveedores de bienes y servicios del Gobierno del Estado en términos de lo previsto en la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles del Estado de Quintana Roo.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-LIV. Las demás que le encomienden expresamente las leyes y reglamentos.
+LIV. Requerir, obtener, concentrar, analizar, consolidar, generar y disponer con fines de inteligencia, información fiscal, financiera, patrimonial, económica, civil y cualquier otra que se estime necesaria para coadyuvar en la prevención y combate de los delitos fiscales y de operaciones con recursos de procedencia ilícita en el Estado, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+LV. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -2408,3 +2412,13 @@ P.O. 13 DE JULIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 123 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO, DE LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE QUINTANA ROO Y DEL CÓDIGO FISCAL DEL ESTADO DE QUINTANA ROO; EN MATERIA DE INVESTIGACIÓN Y PERSECUCIÓN DE DELITOS DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA (LAVADO DE ACTIVOS)".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Las asignaciones presupuestales que se requieran para la operación y puesta en marcha de la Unidad de Inteligencia Financiera del Servicio de Administración Tributaria del Estado de Quintana Roo, serán con cargo al presupuesto aprobado para el año 2023 y deberán hacerse las previsiones presupuestales para los ejercicios fiscales subsecuentes.
+
+TERCERO. Se derogan todas las disposiciones que resulten contrarias al presente Decreto.
