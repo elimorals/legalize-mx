@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-7104
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-06"
-last_updated: "2023-06-16"
+last_updated: "2023-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 6 de noviembre de 2009.
 
@@ -347,9 +347,9 @@ II. Revisar permanentemente las políticas de prevención, atención, sanción y
 
 III. Favorecer el cambio de los roles de género en la sociedad, para crear mayores condiciones de igualdad;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-IV. Impulsar acciones que aseguren la igualdad de acceso de mujeres y hombres a la alimentación, la educación, la cultura, la seguridad social y la salud;
+IV. Impulsar acciones que aseguren la igualdad de acceso de mujeres y hombres a la alimentación, la educación, la cultura, el deporte, la seguridad social y la salud;
 
 > <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -393,9 +393,13 @@ VI. Garantizar que la educación en todos sus niveles se realice bajo el princip
 
 VII. Asegurar el acceso igualitario a los programas sociales, de salud, culturales, deportivos, científicos y académicos implementados por el Estado y la Federación dentro del territorio estatal;
 
-VIII. Promover la equidad de género entre mujeres y hombres en el acceso igualitario para la práctica del deporte amateur y profesional;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-IX. Impulsar la paridad genérica en la integración de los órganos de gobierno o su equivalente, en las instituciones de educación técnica y superior en el Estado; y
+VIII. Fomentar la cultura física y el deporte en niñas, adolescentes y mujeres, promoviendo y garantizando el acceso igualitario para la práctica del deporte amateur y profesional;
+
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
+IX. Impulsar la paridad de género en la integración de los órganos de gobierno o su equivalente, en las instituciones de educación técnica y superior en el Estado, así como en las instituciones, Asociaciones y Sociedades Deportivas; y
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -743,13 +747,17 @@ VI. Establecer el seguimiento y evaluación de las acciones contempladas en esta
 
 ### CAPÍTULO II. DE LA POLÍTICA ESTATAL DE IGUALDAD
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 35.
 
-La Política Estatal de Igualdad deberá establecer las acciones conducentes para lograr la igualdad sustantiva entre mujeres y hombres en los ámbitos: jurídico, económico, político, social, cultural, acceso a la justicia, seguridad pública, comunitario y familiar.
+La Política Estatal de Igualdad deberá establecer las acciones conducentes para lograr la igualdad sustantiva entre mujeres y hombres en los ámbitos: jurídico, económico, político, social, cultural, deportivo, acceso a la justicia, seguridad pública, comunitario y familiar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 36.
 
-La Política Estatal de Igualdad que desarrolle el Ejecutivo Estatal deberá observar los siguientes lineamientos:
+La Política Estatal de Igualdad que desarrolle el Poder Ejecutivo Estatal deberá observar los siguientes lineamientos:
 
 I. Garantizar que la planeación presupuestal incorpore el desarrollo de la perspectiva de género, la transversalidad, y prevea el cumplimiento de los programas, proyectos, acciones y convenios para la igualdad sustantiva entre mujeres y hombres;
 
@@ -759,9 +767,9 @@ II. Promover la igualdad de acceso a la justicia y el pleno disfrute de los dere
 
 III. Promover el empoderamiento de las mujeres;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-IV. Fomentar el cumplimiento del principio de igualdad entre mujeres y hombres en todos los ámbitos de la vida: económico, político, de salud, social y cultural;
+IV. Fomentar el cumplimiento del principio de igualdad entre mujeres y hombres en todos los ámbitos de la vida: económico, político, de salud, social, cultural y deportivo;
 
 V. Asegurar la eliminación de la discriminación generada por estereotipos establecidos en función del sexo;
 
@@ -803,9 +811,9 @@ XVII. Incluir en la formulación, desarrollo y evaluación de políticas, estrat
 
 XVIII. Promover que, en las prácticas de comunicación social de las dependencias de la Administración Pública Estatal, así como en los medios masivos de comunicación electrónicos e impresos, se eliminen el uso de estereotipos sexistas y discriminatorios e incorporen un lenguaje incluyente;
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-XIX. Fomentar el desarrollo, participación y reconocimiento de las mujeres en las diferentes disciplinas deportivas, así como en la vida deportiva, y
+XIX. Fomentar la cultura física y la práctica del deporte en Niñas, Adolescentes y Mujeres, garantizando su adecuado desarrollo, participación y reconocimiento en las diferentes disciplinas deportivas, y
 
 > <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2023)</small>
 
@@ -1136,3 +1144,11 @@ P.O. 16 DE JUNIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 121 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE CULTURA FÍSICA Y DEPORTE; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD DE GÉNERO ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUINTANA ROO; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas otras disposiciones de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
