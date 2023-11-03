@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2023-06-22"
+last_updated: "2023-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -213,7 +213,17 @@ IV. Violencia Económica: Es toda acción u omisión de la persona agresora que 
 
 V. La Violencia Sexual: Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la Víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto, y
 
-VI. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 3 DE NOVIEMBRE DE 2023)</small>
+
+VI. Violencia Simbólica: Es cualquier acto u omisión que produzca un daño o menoscabo a través de patrones estereotipados, mensajes, valores, íconos o signos, transmita y reproduzca dominación, cosificación, desigualdad y discriminación en las relaciones, sociales en los ámbitos público y privado, naturalizando la subordinación;
+
+> <small>(ADICIONADA, G.G. 3 DE NOVIEMBRE DE 2023)</small>
+
+VII. Violencia mediática: Es cualquier acto que a través de la publicación o difusión de mensajes e imágenes estereotipados a través de cualquier medio de comunicación que promueva la explotación de mujeres o sus imágenes, legitimando la desigualdad de trato o construya patrones socioculturales reproductores de desigualdad o generadores de violencia;
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VI], G.G. 3 DE NOVIEMBRE DE 2023)</small>
+
+VIII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 ## TÍTULO TERCERO. MODALIDADES DE LA VIOLENCIA
 
@@ -1325,7 +1335,9 @@ El Ejecutivo Estatal propondrá en el Presupuesto de Egresos del Estado, asignar
 
 DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS NIÑAS, ADOLESCENTES Y MUJERES.
 
-### CAPÍTULO II. DE LA COMPETENCIA DEL PODER JUDICIAL
+### CAPÍTULO II. DE LA COMPETENCIA DEL PODER LEGISLATIVO
+
+> <small>(ADICIONADO, G.G. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 39.
 
@@ -1819,33 +1831,23 @@ XVII. Invocar los principios establecidos en el marco nacional e internacional d
 
 XVIII. Las demás que le atribuya la Ley.
 
+> <small>(REFORMADO EN SU NUMERACIÓN [N. DE E. ANTES ARTÍCULO 51], G.G. 3 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 50.
-
-(DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
-
-###### Artículo 51.
 
 Corresponde a la Fiscalía General de Justicia del Estado de México:
 
 I. Garantizar mecanismos expeditos, sin dilación en la procuración de justicia para asegurar el acceso de las mujeres a la justicia plena;
 
-II. (DEROGADA, G.G. 18 DE MARZO DE 2011)
-
-> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+II. Se deroga.
 
 III. Realizar estudios, formular y ejecutar lineamientos sobre la procuración y el acceso de las niñas, adolescentes y mujeres a la justicia;
-
-> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
 IV. Promover de manera permanente la formación, especialización y actualización en materia de Derechos Humanos de las mujeres a Agentes del Ministerio Público y de todo el personal encargado de la procuración de justicia, así como coadyuvar en la formación de la Policía Municipal, en materia de Derechos Humanos de las niñas, adolescentes y mujeres con perspectiva de género;
 
 V. Incorporar la perspectiva de género como eje transversal en todos los cursos y especializaciones que se impartan en la formación profesional del personal encargado de la impartición de justicia;
 
 VI. Garantizar la seguridad jurídica, la integridad física, la protección de datos personales y la salvaguarda de los bienes de las víctimas;
-
-> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
 VII. Promover la promoción, la difusión y el respeto de los Derechos Humanos de las niñas, adolescentes y mujeres;
 
@@ -1859,21 +1861,13 @@ XI. Proporcionar a las víctimas información objetiva que les permita reconocer
 
 XII. Vigilar que el Ministerio Público no someta a procedimientos de conciliación, mediación y/o cualquier otro alternativo a la víctima con la persona agresora, en los términos establecidos en el artículo 56 fracción III de la presente Ley;
 
-> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
-
 XIII. Vigilar que el Ministerio Público solicite y/o ejecute de manera obligatoria y a quien corresponda, las órdenes de protección y de emergencia a favor de la víctima, con independencia de que éstas se encuentren en proceso jurisdiccional o procedimiento administrativo;
-
-> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
 XIV. Integrar en el Banco Estatal de Datos e Información sobre Casos de Violencia los informes sobre la violencia contra las niñas, adolescentes y mujeres;
 
 XV. Coordinar, dirigir y administrar las órdenes de protección y los informes sobre las circunstancias en que se da la ejecución de éstas, para efectos de rendir informes al Banco Estatal de Información de la Violencia contra las Mujeres;
 
-> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
-
 XVI. Dictar las medidas para que las niñas, adolescentes y mujeres víctimas rindan su declaración en espacios apropiados que preserven su dignidad, integridad y libertad;
-
-> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
 
 XVII. Otorgar a la víctima copia certificada de la investigación iniciada con motivo de violencia y de las actuaciones de la misma;
 
@@ -1889,15 +1883,9 @@ XXII. Retener y custodiar las armas de fuego, punzocortantes y/o punzocontundent
 
 XXIII. Solicitar en forma obligatoria en el pliego de consignación, la reparación del daño a favor de la víctima, de acuerdo a las formas establecidas en la Ley y garantizar su cumplimiento y ejecución;
 
-> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
-
 XXIV. Crear procedimientos internos especializados para que la víctima de violencia perpetrada por cualquier servidor público en ejercicio de sus funciones, pueda denunciar con independencia de cualquier otro procedimiento jurídico que la víctima haya iniciado; en el proceso de selección del personal para la atención en materia de esta Ley, se vigilará que no sea contratada ninguna persona con antecedentes de violencia contra las niñas, adolescentes y mujeres;
 
-> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
-
 XXV. Crear la Visitaduría contra la Violencia de Género, que deberá estar integrada por representantes de las unidades administrativas de la Institución y de organizaciones no gubernamentales, relacionadas con este tema, así como por representantes de instituciones académicas, cuya línea de investigación se enfoque a la violencia de género; el propósito central de la Visitaduría será dar a conocer a la ciudadanía las acciones en materia de procuración de justicia, evaluar políticas públicas preventivas, detectar experiencias exitosas y prácticas erróneas, y emitir recomendaciones y darles seguimiento. Para tal efecto, el Procurador deberá expedir el acuerdo de creación respectivo, en el que se establecerán las disposiciones necesarias para su correcto funcionamiento;
-
-> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
 XXVI. Promover el respeto, la defensa y la vigencia de los Derechos Humanos de las niñas, adolescentes y mujeres y garantizar la seguridad de quienes denuncian;
 
@@ -1905,11 +1893,9 @@ XXVII. Celebrar convenios de cooperación, coordinación y concertación en la m
 
 XXVIII. Las demás previstas para el cumplimiento de la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO EN SU NUMERACIÓN [N. DE E. ANTES ARTÍCULO 52], G.G. 3 DE NOVIEMBRE DE 2023)</small>
 
-### CAPÍTULO III. DE LA COMPETENCIA DE LOS MUNICIPIOS
-
-###### Artículo 52.
+###### Artículo 51.
 
 Corresponde a la Secretaría de Seguridad:
 
@@ -1933,23 +1919,35 @@ IX. Celebrar convenios de cooperación, coordinación y concertación en la mate
 
 X. Las demás previstas para el cumplimiento de la presente Ley.
 
-> <small>(ADICIONADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO EN SU NUMERACIÓN [N. DE E. ANTES ARTÍCULO 52 BIS], G.G. 3 DE NOVIEMBRE DE 2023)</small>
 
-###### Artículo 52 Bis.
+###### Artículo 51 Bis.
 
 Corresponde al Instituto Electoral del Estado de México:
 
 I. Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
 
-II. Incorporar la perspectiva de género al realizar los monitoreos de medios de comunicación electrónicos e impresos, públicos y privados, durante el período de precampaña y campaña electoral, o antes si así lo solicita un partido político,
+II. Incorporar la perspectiva de género al realizar los monitoreos de medios de comunicación electrónicos e impresos, públicos y privados, durante el período de precampaña y campaña electoral, o antes si así lo solicita un partido político;
 
 III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género;
 
 IV. Las demás previstas para el cumplimiento de la presente Ley y otros ordenamientos.
 
-### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 3 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+### CAPÍTULO III. DE LA COMPETENCIA DEL PODER JUDICIAL
+
+###### Artículo 52.
+
+Corresponde al Poder Legislativo del Estado de México:
+
+I. Revisar cada año, la presente ley, con la finalidad de promover las iniciativas y reformas que correspondan, para garantizar el pleno cumplimiento de la ley;
+
+II. Procurar un adecuado presupuesto para el desarrollo de políticas, programas y acciones para que las mujeres accedan a una vida libre de violencia.
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO II], G.G. 3 DE NOVIEMBRE DE 2023)</small>
+
+### CAPITULO IV. DE LA COMPETENCIA DE LOS MUNICIPIOS
 
 ###### Artículo 53.
 
@@ -1971,9 +1969,11 @@ IV. Coordinar, dirigir y administrar las órdenes y medidas de protección y los
 
 V. Las demás que le confiera esta Ley u otros ordenamientos aplicables.
 
-### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS DE VIOLENCIA
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO III], G.G. 3 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MAYO DE 2022)</small>
+### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 54.
 
@@ -2052,6 +2052,10 @@ XVII. Proporcionar a la Secretaría de Seguridad información actualizada sobre 
 XVIII. Las demás previstas en esta Ley y en otras disposiciones legales aplicables.
 
 ## TÍTULO SEXTO. DE LA ATENCIÓN A VÍCTIMAS Y DE LOS REFUGIOS
+
+### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS DE VIOLENCIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MAYO DE 2022)</small>
 
 ###### Artículo 55.
 
@@ -2692,3 +2696,11 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 3 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 210.- POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍULO 7, EL ARTÍCULO 51 PARA SER ARTÍCULO 50, EL ARTÍCULO 52 PARA SER ARTÍCULO 51, EL ARTÍCULO 52 BIS PARA SER ARTÍCULO 51 BIS, LOS CAPÍTULOS II Y II DEL TÍTULO QUINTO PARA SER CAPÍTULOS III Y IV RESPECTIVAMENTE; Y SE ADICIONAN LAS FRACCIONES VII Y VIII AL ARTÍCULO 7, EL CAPÍTULO II AL TÍTULO QUINTO CON EL ARTÍCULO 52 A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 10; Y SE ADICIONAN LAS FRACCIONES XX, XXI Y XXII AL ARTÍCULO 10 DE LA LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO, Y SE ADICIONA UN INCISO A) A LA FRACCIÓN VI DEL ARTÍCULO 17.4 Y EL ARTICULO 17.35 BIS AL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO. Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
