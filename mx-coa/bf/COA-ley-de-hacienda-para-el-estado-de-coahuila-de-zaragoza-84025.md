@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-84025"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-25"
-last_updated: "2022-12-27"
+last_updated: "2023-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ NOTA: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRE
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -377,9 +377,11 @@ Es base de este impuesto, el monto total de las erogaciones realizadas por conce
 
 TASA
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTICULO 24.
 
-La tasa correspondiente al Impuesto Sobre Nóminas, será el 2% sobre el monto total de las erogaciones gravadas por este impuesto.
+La tasa correspondiente al Impuesto Sobre Nóminas, será el 3% sobre el monto total de las erogaciones gravadas por este impuesto.
 
 PAGO
 
@@ -5208,3 +5210,13 @@ El presente Decreto entrará en vigor el día primero de enero de dos mil veinti
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 563.- SE REFORMA EL ARTÍCULO 24, DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrara en vigor el día primero de enero de dos mil veinticuatro.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
