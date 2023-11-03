@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-juventud-del-estado-libre-y-soberano-de-quintana-9394
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-09"
-last_updated: "2021-12-08"
+last_updated: "2023-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93948&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el 9 de abril de 2013.
 
@@ -463,11 +463,13 @@ El Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de su competenc
 
 #### SECCIÓN XVI. DEL DERECHO AL DEPORTE
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 32 Quinquies.
 
-Los jóvenes tienen el derecho a practicar cualquier deporte que favorezca su desarrollo físico integral. Para tal fin, las autoridades competentes en apego a la Ley Estatal de Cultura Física y Deporte y la Ley de Infraestructura Física Educativa del Estado de Quintana Roo, llevarán a cabo la promoción y gestión necesaria para el desarrollo de la cultura física y el deporte, así como el acceso a infraestructura.
+Las personas jóvenes tienen el derecho a practicar cualquier deporte que favorezca su desarrollo físico integral. Para tal fin, las autoridades competentes en apego a la Ley Estatal de Cultura Física y Deporte y la Ley de Infraestructura Física Educativa del Estado de Quintana Roo, llevarán a cabo la promoción y gestión necesaria para el desarrollo de la cultura física y el deporte, así como el acceso a infraestructura
+
+El Estado a través del Programa Institucional de la Juventud, deberá contener acciones dirigidas a fomentar la cultura física y el deporte entre la población joven, así como prever campañas de difusión sobre los beneficios que trae consigo la práctica cotidiana de actividades físicas y deportivas.
 
 ### CAPÍTULO II. DEBERES DE LOS JÓVENES
 
@@ -1310,3 +1312,9 @@ P.O. 8 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 169, POR EL QUE SE ADICIONA UN SEGUNDO TRANSITORIO Y SE REFORMA LA NUMERACIÓN DEL TRANSITORIO ÚNICO, QUEDANDO COMO PRIMERO, AMBOS DEL DECRETO NÚMERO 153 POR EL QUE SE REFORMAN LOS ARTÍCULOS 63, 65 Y 66, Y SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 64 DE LA LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, EXPEDIDO POR LA H. XVI LEGISLATURA DEL ESTADO”.]
 
 ÚNICO. El presente Decreto se turnará para su publicación en el Periódico Oficial del Estado de Quintana Roo, y entrará en vigor al mismo tiempo o una vez que esté vigente el Decreto Número 153 de la XVI Legislatura del Estado.
+
+P.O. 3 DE NOVIEMBRE DE 2023.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas otras disposiciones de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
