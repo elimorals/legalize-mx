@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2023-08-16"
+last_updated: "2023-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "VER"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MARZO DE 2024 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE NOVIEMBRE DE 2023.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -143,23 +145,19 @@ Los adolescentes a quienes se les atribuya la comisión o participación en un h
 
 En cada caso, las medidas de orientación, protección y tratamiento que se impongan a los adolescentes deberán ser racionales y proporcionales al hecho realizado y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades, atendiendo en todo momento a la protección integral y al interés superior de la niñez. El proceso en materia de justicia para adolescentes será acusatorio y oral, en el que se observará la garantía del debido proceso legal. El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad. Los niños y las niñas menores de doce años sólo serán sujetos de asistencia social.
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 5. El Estado tiene una composición pluricultural y multiétnica sustentada originalmente en sus pueblos indígenas. La ley promoverá y protegerá el desarrollo de sus lenguas, culturas, usos y costumbres, recursos y formas específicas de organización social; y garantizará a sus integrantes el acceso efectivo a la jurisdicción del Estado. En los juicios y procedimientos en que aquéllos sean parte, se tomarán en cuenta sus prácticas y costumbres en los términos que establezca la ley.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 5.
 
-EL ESTADO TIENE UNA COMPOSICIÓN PLURICULTURAL Y DIVERSIDAD ÉTNICA SUSTENTADA ORIGINALMENTE EN SUS PUEBLOS INDÍGENAS Y SUS DIFERENTES EXPRESIONES LINGÜÍSTICAS. LA LEY PROMOVERÁ Y PROTEGERÁ EL DESARROLLO DE SUS LENGUAS, CULTURAS, USOS Y COSTUMBRES, RECURSOS Y FORMAS ESPECÍFICAS DE ORGANIZACIÓN SOCIAL; Y GARANTIZARÁ A SUS INTEGRANTES EL ACCESO EFECTIVO A LA JURISDICCIÓN DEL ESTADO. EN LOS JUICIOS Y PROCEDIMIENTOS EN QUE AQUÉLLOS SEAN PARTE, SE TOMARÁN EN CUENTA SUS PRÁCTICAS Y COSTUMBRES EN LOS TÉRMINOS QUE ESTABLEZCA LA LEY OTORGANDO LA GARANTÍA MÁS AMPLIA EN EL ACCESO A LA JUSTICIA Y PARTICIPACIÓN CIUDADANA.
+El Estado tiene una composición pluricultural y diversidad étnica sustentada originalmente en sus pueblos indígenas y sus diferentes expresiones lingüísticas. La ley promoverá y protegerá el desarrollo de sus lenguas, culturas, usos y costumbres, recursos y formas específicas de organización social; y garantizará a sus integrantes el acceso efectivo a la jurisdicción del Estado. En los juicios y procedimientos en que aquéllos sean parte, se tomarán en cuenta sus prácticas y costumbres en los términos que establezca la ley otorgando la garantía más amplia en el acceso a la justicia y participación ciudadana.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 Los pueblos indígenas tienen derecho a la libre determinación dentro del marco constitucional. La expresión concreta de ésta es la autonomía de las comunidades indígenas en los términos establecidos por la ley.
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(ADICIONADO, G.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADO, G.O. 22 DE JUNIO DE 2020)</small>
-
-LOS PUEBLOS INDÍGENAS TIENEN DERECHO A PARTICIPAR PLENAMENTE EN LA VIDA POLÍTICA, ECONÓMICA, SOCIAL Y CULTURAL DEL ESTADO.
+Los pueblos indígenas tienen derecho a participar plenamente en la vida política, económica social y cultural del Estado.
 
 > <small>(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -4134,5 +4132,13 @@ G.O. 16 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 487 QUE REFORMA EL PÁRRAFO SÉPTIMO Y QUE ADICIONA LOS PÁRRAFOS OCTAVO Y NOVENO, CON EL CORRIMIENTO DEL ACTUAL OCTAVO A DÉCIMO, AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ”.]
 
 PRIMERO. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 3 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 494 QUE REFORMA EL PÁRRAFO PRIMERO Y QUE ADICIONA UN PÁRRAFO TERCERO, CON EL CORRIMIENTO DE LOS SUBSECUENTES, DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
