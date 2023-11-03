@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-igualdad-de-trato-y-oportunidades-entre-mujeres-y-76530"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-06"
-last_updated: "2023-06-22"
+last_updated: "2023-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 6 de septiembre de 2010.
 
@@ -229,7 +229,21 @@ XVII. Difundir información sobre los diversos aspectos relacionados con la igua
 
 XVIII. Proponer los lineamientos generales en materia de igualdad al Ejecutivo, para la elaboración del Plan Estatal de Desarrollo; y
 
-XIX. Las demás que sean necesarias para el cumplimiento de su objeto.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 3 DE NOVIEMBRE DE 2023)</small>
+
+XIX. Promover acciones que contribuyan a erradicar toda discriminación, basada en estereotipos de género;
+
+> <small>(ADICIONADA, G.G. 3 DE NOVIEMBRE DE 2023)</small>
+
+XX. Coadyuvar para que los medios de comunicación transmitan una imagen igualitaria plural en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y omitan lenguaje sexista e imágenes estereotipadas;
+
+> <small>(ADICIONADA, G.G. 3 DE NOVIEMBRE DE 2023)</small>
+
+XXI. Vigilar que el contenido de la publicidad institucional a través de la cual se difundan las campañas a que se refiere esta Ley, omitan contenidos que atenten contra la dignidad de las personas, vulneren los derechos humanos y difundan mensajes sexistas;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 3 DE NOVIEMBRE DE 2023)</small>
+
+XXII. Las demás que sean necesarias para el cumplimiento de su objeto.
 
 ###### Artículo 11.
 
@@ -786,3 +800,11 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 3 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 210.- POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 7, EL ARTÍCULO 51 PARA SER ARTÍCULO 50, EL ARTÍCULO 52 PARA SER ARTÍCULO 51, EL ARTÍCULO 52 BIS PARA SER ARTÍCULO 51 BIS, LOS CAPÍTULOS II Y III DEL TÍTULO QUINTO PARA SER CAPÍTULOS III Y IV RESPECTIVAMENTE; Y SE ADICIONAN LAS FRACCIONES VII Y VIII AL ARTÍCULO 7, EL CAPÍTULO II AL TÍTULO QUINTO CON EL ARTÍCULO 52 A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 10; Y SE ADICIONAN LAS FRACCIONES XX, XXI Y XXII AL ARTÍCULO 10 DE LA LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO, Y SE ADICIONA UN INCISO A) A LA FRACCIÓN VI DEL ARTÍCULO 17.4 Y EL ARTÍCULO 17.35 BIS AL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese este Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
