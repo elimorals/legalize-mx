@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107615"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-18"
-last_updated: "2023-08-12"
+last_updated: "2023-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 18 de abril de 2015.
 
@@ -474,6 +474,10 @@ Las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas
 ###### Artículo 18.
 
 Niñas, niños y adolescentes deberán disfrutar de una vida plena en condiciones acordes a su dignidad y en condiciones que garanticen su desarrollo integral.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+
+Las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas competencias, contribuirán a generar las condiciones necesarias para que niñas, niños y adolescentes, cuenten con opciones y actividades que eviten el trabajo antes de la edad mínima de quince años, prevista en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables, así como las peores formas de trabajo infantil, o favorezcan su desincorporación del trabajo, así también, que propicien su desarrollo integral y el ejercicio pleno de sus derechos.
 
 ###### Artículo 19.
 
@@ -1527,9 +1531,9 @@ XII. Evitar conductas que puedan vulnerar el ambiente de respeto y generar viole
 
 XIII. Considerar la opinión y preferencia de las niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O.4 DE NOVIEMBRE DE 2023)</small>
 
-XIV. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación; y
+XIV. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación, procurando fomentar el manejo responsable de las redes sociales, con la finalidad de garantizar el sano desarrollo integral de las niñas, niños y adolescentes; y
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
 
@@ -3224,3 +3228,19 @@ P.O. 12 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 335.- POR EL QUE SE ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 4; LA FRACCIÓN XXVI AL ARTÍCULO 119, REFORMÁNDOSE LAS FRACCIONES XXIV, XXV DEL MISMO ARTÍCULO, ASÍ COMO LA FRACCIÓN I DEL ARTÍCULO 108 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 4 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 357.- POR EL QUE SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 102 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 4 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 358.- POR EL QUE SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 18 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
