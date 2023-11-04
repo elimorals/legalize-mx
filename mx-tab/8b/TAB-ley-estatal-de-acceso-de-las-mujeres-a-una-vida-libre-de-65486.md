@@ -4,7 +4,7 @@ identifier: "TAB-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-65486"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-20"
-last_updated: "2023-10-11"
+last_updated: "2023-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Suplemento C del Periódico Oficial del Estado de Tabasco, el sábado 20 de diciembre de 2008.
 
@@ -183,7 +183,9 @@ IV. Violencia económica.- Es toda acción u omisión del agresor que afecta la 
 
 V. Violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima, y que por tanto atenta contra su libertad, seguridad e integridad física. Es una expresión de abuso de poder que implica la supremacía de un sexo sobre otro al denigrarlo y concebirlo como objeto; y
 
-VI. (DEROGADA, P.O. 17 DE AGOSTO DE 2020)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2023)</small>
+
+VI. Violencia Simbólica: Toda acción u omisión que a través de patrones estereotipados, mensajes, valores, íconos o signos, transmita y reproduzca dominación, cosificación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad.
 
 > <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2017)</small>
 
@@ -1576,6 +1578,14 @@ CUARTO. Las obligaciones que se generen con motivo de la entrada en vigor del pr
 P.O. 11 DE OCTUBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO 167 POR EL QUE “SE ADICIONA LA SECCIÓN PRIMERA BIS, DENOMINADA VIOLENCIA EN EL NOVIAZGO, CONFORMADA POR LOS ARTÍCULOS 10 BIS Y 10 TER, A LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 176 POR EL QUE “SE REFORMA LA FRACCIÓN VI AL ARTÍCULO 8, DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
