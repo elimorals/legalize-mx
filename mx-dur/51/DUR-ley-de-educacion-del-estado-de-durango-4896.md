@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2023-11-02"
+last_updated: "2023-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -485,7 +485,21 @@ II y IV de este artículo, de acuerdo con las necesidades regionales y estatales
 
 VI.- Celebrar convenios con la autoridad educativa federal y con las autoridades educativas de los Estados de la República, para coordinar los servicios educativos conforme a la Ley General de Educación; así como celebrar convenios con organismos educativos internacionales, en los términos de la legislación aplicable;
 
-VII.- Determinar y formular los Planes y Programas de Estudio correspondientes a los servicios educativos referidos en la fracción V de este artículo, por sí o concurrentemente con la autoridad educativa federal;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE NOVIEMBRE DE 2023)</small>
+
+VII.- Determinar y formular los Planes y Programas de Estudio correspondientes a los servicios educativos referidos en la fracción V de este artículo, por sí o concurrentemente con la autoridad educativa federal.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2023)</small>
+
+En la elaboración de los planes y programas de estudio a los que se refiere este artículo se incluirá información acorde al grupo de edad al que se dirige en torno a los temas de: suicidio, drogas y adicciones, abuso sexual, acoso escolar o bullying y tolerancia y respeto a los grupos de la diversidad sexual.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2023)</small>
+
+Así mismo se deben establecer las acciones preventivas y de respuesta ante dichos fenómenos, esto con el objetivo de propiciar una cultura social y de buenos valores a los educandos.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2023)</small>
+
+En el adiestramiento para prevenir y eliminar el suicidio en niñas, niños y adolescentes se debe coadyuvar con las autoridades pertinentes en la materia, así mismo realizar campañas de prevención en los planes escolares, en todos los niveles de enseñanza.
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
@@ -709,15 +723,17 @@ f) El Estado promoverá la participación de las Organizaciones de la Sociedad C
 
 g) Las demás que sean necesarias para el cumplimiento de la presente Ley,
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2023)</small>
 
-LIII.- La Secretaría procurará la promoción de la investigación y el desarrollo de la ciencia y la tecnología, y fomentará su enseñanza, diseminación en acceso abierto y su divulgación, cuando el conocimiento científico sea financiado con recursos públicos o que haya utilizado infraestructura pública en su realización sin perjuicio de los derechos de propiedad intelectual correspondientes y de la información que, por razón de su naturaleza o decisión del autor deba reservarse, y
+LIII.- La Secretaría procurará la promoción de la investigación y el desarrollo de la ciencia y la tecnología, y fomentará su enseñanza, diseminación en acceso abierto y su divulgación, cuando el conocimiento científico sea financiado con recursos públicos o que haya utilizado infraestructura pública en su realización sin perjuicio de los derechos de propiedad intelectual correspondientes y de la información que, por razón de su naturaleza o decisión del autor deba reservarse,
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2023)</small>
 
-LIV.- Coordinarse con las autoridades sanitarias a efecto de establecer y difundir los protocolos de salud y prevención de enfermedades, mediante capacitación a padres de familia, personal administrativo y docente y alumnos sobre la aplicación de los protocolos establecidos y las prácticas de higiene escolar.
+LIV.- Coordinarse con las autoridades sanitarias a efecto de establecer y difundir los protocolos de salud y prevención de enfermedades, mediante capacitación a padres de familia, personal administrativo y docente y alumnos sobre la aplicación de los protocolos establecidos y las prácticas de higiene escolar. Así como la instalación de comités escolares de salud e higiene, integrados por personal de la institución, padres de familia y alumnos, que tendrán por objeto formular los planes de implementación y seguimiento de los protocolos y prevención de la salud que establezcan las autoridades, y
 
-Así como la instalación de comités escolares de salud e higiene, integrados por personal de la institución, padres de familia y alumnos, que tendrán por objeto formular los planes de implementación y seguimiento de los protocolos y prevención de la salud que establezcan las autoridades.
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2023)</small>
+
+LV.- Realizar convenios con Universidades Públicas y Privadas, para que sus alumnos en el área de Psicología y Trabajo Social presten servicio social estudiantil en escuelas públicas de educación básica, con la intención de promover acciones de prevención en materia de salud mental de la comunidad escolar, así como de prevención de la conducta suicida.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2023)</small>
 
@@ -811,11 +827,17 @@ IV.- Motivar y desarrollar en los educadores, aptitudes y competencias para hace
 
 V.- Proporcionar, en la medida de lo posible, a los docentes interesados, oportunidades de interrelacionarse con educadores de alto nivel profesional mexicanos y extranjeros;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2023)</small>
 
-VI.- Fomentar en los educadores, cualidades, aptitudes y capacidades que les permitan tener una comprensión crítica de los problemas locales, nacionales e internacionales; y
+VI.- Fomentar en los educadores, cualidades, aptitudes y capacidades que les permitan tener una comprensión crítica de los problemas locales, nacionales e internacionales;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE NOVIEMBRE DE 2023)</small>
 
 VII.- Fomentar en los educadores, una educación cívica activa que comprenda no solo una visión local y nacional, sino una dimensión internacional de la sociedad; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2023)</small>
+
+VIII.- Propiciar y promover entre los educadores las acciones de planeación del uso del material didáctico, útiles escolares y libros de texto, procurando el mínimo de desplazamientos y la menor carga posible en favor de la salud e integridad de los estudiantes.
 
 > <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -1663,6 +1685,10 @@ El Sistema Estatal de Formación, Actualización, Capacitación y Superación Pr
 
 La Secretaría, de conformidad con la Ley General de Educación, propondrá las adaptaciones o modificaciones a los Planes y Programas de Estudio establecidos por la SEP, enriqueciéndolos con aspectos que atiendan a las necesidades regionales del Estado de Durango.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2023)</small>
+
+Así mismo los planes y programas de estudio se adecuarán con las bases necesarias de acuerdo a las situaciones que se presentan en el Estado, atendiendo los criterios de racionalidad y objetividad.
+
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 118.
@@ -1932,6 +1958,10 @@ V. Proponer y diseñar estrategias para hacer efectiva la obligatoriedad de la e
 VI. Proponer criterios generales para la creación de nuevas instituciones públicas y programas educativos apegándose a las políticas de educación superior;
 
 VII. Realizar y solicitar estudios de factibilidad y de pertinencia de la apertura de nuevas instituciones públicas, planes y programas de estudios, así como nuevas modalidades y opciones educativas;
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2023)</small>
+
+Dichas modalidades serán adecuadas para atender las necesidades tanto sociales como psicológicas de los educandos, a fin de mejorar constantemente los sistemas de enseñanzas hacia el alumnado.
 
 VIII. Realizar los estudios necesarios que permitan identificar las necesidades de docencia, investigación, extensión y difusión de la cultura en la entidad;
 
@@ -3254,3 +3284,27 @@ P.O. 2 DE NOVIEMBRE DE 2023.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente proyecto de decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 436 POR EL QUE SE ADICIONA UN SEGUNDO, TERCERO Y CUARTO PÁRRAFO A LA FRACCIÓN VII DEL ARTÍCULO 21, UN SEGUNDO PÁRRAFO AL ARTÍCULO 117 Y UN SEGUNDO PÁRRAFO A LA FRACCIÓN VII DEL ARTÍCULO 135 SEXIES, DE LA LEY DE EDUCACIÓN PARA EL (SIC) ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente proyecto de decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 437 QUE CONTIENE REFORMA AL ARTÍCULO 26 DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 438 POR EL QUE SE REFORMAN LAS FRACCIONES LIII Y LIV Y SE ADICIONA LA FRACCIÓN LV AL ARTÍCULO 21 DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se contravengan al contenido del presente decreto.
