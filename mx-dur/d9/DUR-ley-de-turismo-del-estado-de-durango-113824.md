@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-turismo-del-estado-de-durango-113824"
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2023-05-28"
+last_updated: "2023-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE TURISMO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial de Estado de Durango, el jueves 3 de marzo de 2016.
 
@@ -165,17 +165,19 @@ XXII. Turismo Cultural. Aquella actividad que tiene por objetivo primordial dar 
 
 XXIII. Turismo Alternativo. Toda actividad recreativa basada en el estudio, apreciación y contacto con la naturaleza y las expresiones culturales de las regiones del Estado, con una actitud y compromiso de conocer, respetar, disfrutar y participar en la preservación de los recursos naturales y culturales;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2023)</small>
 
-XXIV. Turismo de Convenciones. Toda aquella actividad que se concentra en difundir las bondades del Estado de Durango como sede competitiva para el desarrollo de eventos regionales, nacionales e internacionales de diversos grupos tales como: asociaciones, empresas, grupos de profesionistas, de escuelas, deportivos, de aficionados, de asuntos religiosos y de celebraciones familiares como bodas, aniversarios, entre muchos otros;
-
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
-
-XXV. Turismo de Cinematografía. Toda actividad relacionada al Estado de Durango en la que se distingue por su historia, forjados con el esfuerzo, entusiasmo y pasión de hombres y mujeres, que han hecho de Durango “La Tierra del Cine”;
+XXIV. Turismo Astronómico: Toda actividad turística que comprende el desplazamiento de personas, para realizar actividades relacionadas con la observación de cuerpos celestes, fenómenos astronómicos y en las que se aprovechen los recursos naturales, paisajísticos y/o elementos patrimoniales asociados a la astronomía, de manera sustentable;
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
 
-XXVI. Dentro de esta vertiente se impulsa la llegada de viajeros a Durango para la realización de producciones audiovisuales que incluyen spots comerciales, series, telenovelas, documentales, video clips y por supuesto, películas;
+XXV. Turismo de Convenciones. Toda aquella actividad que se concentra en difundir las bondades del Estado de Durango como sede competitiva para el desarrollo de eventos regionales, nacionales e internacionales de diversos grupos tales como: asociaciones, empresas, grupos de profesionistas, de escuelas, deportivos, de aficionados, de asuntos religiosos y de celebraciones familiares como bodas, aniversarios, entre muchos otros;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2023)</small>
+
+XXVI. Turismo de Cinematografía. Toda actividad relacionada al Estado de Durango en la que se distingue por su historia, forjados con el esfuerzo, entusiasmo y pasión de hombres y mujeres, que han hecho de Durango “La Tierra del Cine”.
+
+Dentro de esta vertiente se impulsa la llegada de viajeros a Durango para la realización de producciones audiovisuales que incluyen spots comerciales, series, telenovelas, documentales, video clips y por supuesto, películas;
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
@@ -737,33 +739,41 @@ I. Promover, en coordinación con las Dependencias del ramo, el rescate y preser
 
 II. Impulsar la restauración y divulgación del patrimonio histórico, gastronómico, artístico y cultural, así como la preservación y potenciación de los recursos naturales que constituyan un atractivo turístico;
 
-III. Promover la participación del Estado en los programas turísticos que conjunten a varias entidades federativas, suscribiendo al efecto los convenios necesarios para la difusión de los valores artísticos, históricos y arqueológicos del Estado, a nivel nacional e internacional;
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2023)</small>
 
-IV. Celebrar convenios de coordinación, con el sector productivo turístico, a efecto de llevar a cabo, la capacitación de los trabajadores, con fines de mejorar el servicio, enfocado a dar cursos de historiografía básica de la entidad, así como el conocimiento de los núcleos turísticos más significativos, recorridos, distancias, vías de comunicación, en síntesis sobre el conocimiento general de la geografía del Estado;
+III. Promover el turísmo astronómico y fomentar el cuidado de las zonas naturales donde se realice.
 
-V. Propiciar e incrementar todas las celebraciones tradicionales y folklóricas propias del Estado;
+IV. Promover la participación del Estado en los programas turísticos que conjunten a varias entidades federativas, suscribiendo al efecto los convenios necesarios para la difusión de los valores artísticos, históricos y arqueológicos del Estado, a nivel nacional e internacional;
 
-VI. Promocionar, en coordinación con la Dirección Estatal de Ferias, Espectáculos y Exposiciones de Durango, las actividades y festejos con motivo de la conmemoración del aniversario de la fundación de la Ciudad Victoria de Durango y de la Entidad;
+V. Celebrar convenios de coordinación, con el sector productivo turístico, a efecto de llevar a cabo, la capacitación de los trabajadores, con fines de mejorar el servicio, enfocado a dar cursos de historiografía básica de la entidad, así como el conocimiento de los núcleos turísticos más significativos, recorridos, distancias, vías de comunicación, en síntesis, sobre el conocimiento general de la geografía del Estado;
 
-VII. Incentivar y apoyar el desarrollo de la industria cinematográfica, promoviendo a Durango como zona geográficamente idónea para locaciones y filmaciones;
+VI. Propiciar e incrementar todas las celebraciones tradicionales y folklóricas propias del Estado;
 
-VIII. Impulsar la diversificación y/o mejoramiento de las conexiones de líneas aéreas y terrestres;
+VII. Promocionar, en coordinación con la Dirección Estatal de Ferias, Espectáculos y Exposiciones de Durango, las actividades y festejos con motivo de la conmemoración del aniversario de la fundación de la Ciudad Victoria de Durango y de la Entidad;
 
-IX. Promover la realización y la participación de los miembros del sector, en ferias y exposiciones turísticas, orientadas a difundir los atractivos de la Entidad y presentar la oferta turística local a los prestadores de servicios nacionales e internacionales;
+VIII. Incentivar y apoyar el desarrollo de la industria cinematográfica, promoviendo a Durango como zona geográficamente idónea para locaciones y filmaciones;
 
-X. Crear un banco de imágenes del Estado, organizado por destino y mantenerlo actualizado;
+IX. Impulsar la diversificación y/o mejoramiento de las conexiones de líneas aéreas y terrestres;
 
-XI. Promover y coordinar la participación del Estado en eventos oficiales de promoción turística nacionales e internacionales, tales como ferias, tianguis, seminarios y exposiciones;
+X. Promover la realización y la participación de los miembros del sector, en ferias y exposiciones turísticas, orientadas a difundir los atractivos de la Entidad y presentar la oferta turística local a los prestadores de servicios nacionales e internacionales;
 
-XII. Desarrollar e implementar un plan de mercadotecnia que identifique el mercado de la Entidad, así como los segmentos de mayor potencial, permitiendo con ello direccionar mejor los esfuerzos y recursos destinados a la promoción;
+XI. Crear un banco de imágenes del Estado, organizado por destino y mantenerlo actualizado;
 
-XIII. Promover en el mercado nacional e internacional la imagen y la marca “Durango”. La Secretaría podrá declarar obligatoria la inclusión del nombre “Durango”, y de los logotipos y lemas que se establezcan, en las campañas de promoción impulsadas por empresas y asociaciones turísticas llevadas a cabo con recursos públicos, así como en aquellos medios impresos, electrónicos o sobre el parque vehicular de las dependencias y entidades de la Administración Pública Estatal; y
+XII. Promover y coordinar la participación del Estado en eventos oficiales de promoción turística nacionales e internacionales, tales como ferias, tianguis, seminarios y exposiciones;
 
-XIV. Elaborar y difundir material especializado de información turística, así como artículos promocionales.
+XIII. Desarrollar e implementar un plan de mercadotecnia que identifique el mercado de la Entidad, así como los segmentos de mayor potencial, permitiendo con ello direccionar mejor los esfuerzos y recursos destinados a la promoción;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2023)</small>
+
+XIV. Promover en el mercado nacional e internacional la imagen y la marca “Durango”. La Secretaría podrá declarar obligatoria la inclusión del nombre “Durango”, y de los logotipos y lemas que se establezcan, en las campañas de promoción impulsadas por empresas y asociaciones turísticas llevadas a cabo con recursos públicos, así como en aquellos medios impresos, electrónicos o sobre el parque vehicular de las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2023)</small>
+
+XV. Elaborar y difundir material especializado de información turística, así como artículos promocionales; y
 
 > <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-XV. Coordinarse con la Dirección de Transportes del Estado, para diseñar, actualizar, promover y difundir en las distintas modalidades del transporte público, un mapa de ruta y accesibilidad en lugares públicos de interés turístico; para lo cual podrá emplear tecnologías de la información y comunicación.
+XVI. Coordinarse con la Dirección de Transportes del Estado, para diseñar, actualizar, promover y difundir en las distintas modalidades del transporte público, un mapa de ruta y accesibilidad en lugares públicos de interés turístico; para lo cual podrá emplear tecnologías de la información y comunicación.
 
 ###### Artículo 42.
 
@@ -1256,6 +1266,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 28 DE MAYO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 375.- POR EL CUAL SE REFORMA LA FRACCION XXII DEL ARTICULO 6; SE REFORMAN LAS FRACCIONES III Y IV, Y SE ADICIONA UNA FRACCION V, DEL ARTÍCULO 14, TODAS A LA LEY DE TURISMO DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 439 SE ADICIONAN LAS FRACCIONES XXIV AL ARTÍCULO 4, RECORRIÉNDOSE LAS FRACCIONES SUBSECUENTES HASTA LA XXVI Y III AL ARTÍCULO 41, RECORRIÉNDOSE LAS FRACCIONES SUBSECUENTES; SE REFORMAN LA ANTERIOR FRACCIÓN XXVI DEL ARTÍCULO 4 PASANDO A SER AHORA UN SEGUNDO PÁRRAFO, Y LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 41, TODOS DE LA LEY DE TURISMO DEL ESTADO DE DURANGO".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
