@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-el-ejercicio-de-las-profesiones-en-el-estado-de-34396"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-24"
-last_updated: "2023-11-02"
+last_updated: "2023-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de Agosto de 2003.
 
@@ -289,9 +289,11 @@ Todos los estudiantes, de Educación Media Superior, técnico, técnico superior
 
 Se entiende por servicio social las actividades que se realicen de manera individual, con carácter temporal, por los estudiantes, a que se refiere el artículo anterior con el propósito de brindar un beneficio social a la población así como de apoyo a la ciencia, la técnica y la cultura.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 24.
 
-Será exigible para los estudiantes a que se refiere la presente Ley, como requisito previo para otorgar el título profesional prestar un servicio social de 480 horas, computadas en un período no menor de seis meses ni mayor de dos años, éste se realizará según la naturaleza de la profesión y de las necesidades sociales, acorde a los planes de preparación profesional.
+Sera exigible para los estudiantes a que se refiere la presente Ley, como requisito previo para otorgar el título profesional prestar un servicio social de 480 horas, computadas en un periodo no menor de seis meses ni mayor de dos años, este se realizara según la naturaleza de la profesión y de las necesidades sociales, acorde a los planes de preparación profesional y de igual forma será equiparado a experiencia profesional sin que ello implique un vínculo laboral.
 
 ###### ARTÍCULO 25.
 
@@ -940,6 +942,14 @@ SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en 
 P.O. 2 DE NOVIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 433 QUE CONTIENE REFORMAS AL ARTÍCULO 28 DE LA LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente proyecto de decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 435 POR EL QUE SE LE REFORMA EL ARTÍCULO 24 DE LA LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE DURANGO”.]
 
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
