@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2023-08-18"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -181,9 +181,9 @@ XXI.- El programa contra la drogadicción;
 
 XXII.- El programa contra el tabaquismo;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-XXIII.- La prevención, orientación, control y vigilancia en materia de nutrición, sobrepeso, obesidad, diabetes y otros trastornos de la conducta alimentaria, así como las enfermedades cardiovasculares.
+XXIII.- La prevención, orientación, control y vigilancia en materia de nutrición, sobrepeso, obesidad, diabetes tipo 1, diabetes tipo 2 o diabetes gestacional, de conformidad con la Norma Oficial Mexicana respectiva y otros trastornos de la conducta alimentaria, así como las enfermedades cardiovasculares;
 
 > <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
 
@@ -663,9 +663,9 @@ IV. Paliativas, que incluyen el cuidado integral para preservar la calidad de vi
 
 La atención materno infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-I.- La atención de la mujer y persona gestante durante el embarazo, el parto y el puerperio en razón de la condición de vulnerabilidad en que se encuentra la mujer y la persona gestante, y el producto;
+I.- La atención de la mujer y persona gestante durante el embarazo, el parto y el puerperio en razón de la condición de vulnerabilidad en que se encuentra la mujer y la persona gestante, y el producto, de manera integral, libre de violencia y con perspectiva intercultural, incluyendo la atención psicológica que requiera;
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
 
@@ -757,23 +757,27 @@ I.- Procedimientos que permitan la participación activa de la familia en la pre
 
 II.- Acciones de orientación y vigilancia institucional, y en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA ], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de cinco años;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-IV.- Programas permanentes dirigidos principalmente a las mujeres embarazadas o madres de recién nacidos, con el fin de proporcionarles información suficiente y comprensible sobre las ventajas de la leche materna, así como la instrucción necesaria para el aprendizaje de las técnicas de la lactancia materna; y,
+IV.- Programas permanentes dirigidos principalmente a las mujeres embarazadas o madres de recién nacidos, con el fin de proporcionarles información suficiente y comprensible sobre las ventajas de la leche materna, así como la instrucción necesaria para el aprendizaje de las técnicas de la lactancia materna;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-V.- Al menos un banco de leche humana en alguno de sus establecimientos de salud que cuente con servicios neonatales.
+V.- Al menos un banco de leche humana en alguno de sus establecimientos de salud que cuente con servicios neonatales; y,
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+VI. Las acciones institucionales para identificar, prevenir y erradicar la violencia obstétrica.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 La Secretaría de Salud, emitirá los criterios de operación del banco de leche humana, y de manera progresiva, deberá prever su funcionamiento, en por lo menos tres municipios del Estado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 El Instituto de Servicios de Salud Pública del Estado, deberá proporcionar los recursos materiales y humanos necesarios para el funcionamiento de los bancos de leche humana, que en su caso se instalen.
 
@@ -2145,9 +2149,33 @@ ARTÍCULO 106 BIS.- Las autoridades sanitarias, promoverán en el Estado, el pro
 
 I.- La prevención de las enfermedades cardiovasculares, obesidad y diabetes, mediante la facilitación de indicadores de las medidas básicas a toda persona interesada.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 II.- La detección y tratamiento de las enfermedades cardiovasculares, obesidad y diabetes.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+III.- La autoridad sanitaria brindara la atención médica según corresponda a los diferentes tipos y subtipos de diabetes, procurando el derecho a la insulina, según la disponibilidad presupuestal, procurando en la prestación del servicio de salud una diferenciación de la atención en cada una de las etapas incluyendo la prevención, identificación de factores de riesgo, detección, diagnóstico, tratamiento, control y vigilancia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+IV.- La diabetes tipo 1 tendrá carácter prioritario y por consiguiente la autoridad sanitaria garantizará que la población que sufre de ese padecimiento sea debidamente atendida encargándose de:
+
+A) Vigilar, coordinar y promover que los estudios, programas, acciones y demás medidas sean de manera permanente.
+
+B) Fomentar, promover, concientizar, desarrollar campañas de difusión y sensibilización para la sociedad relacionadas con la enfermedad.
+
+C) Normar el desarrollo de los programas y actividades de Educación en la materia relacionadas con la enfermedad.
+
+D) Incorporar en sus presupuestos de manera clara e identificable los recursos que se destinen a programas específicos y prioritarios de atención integral a la diabetes tipo 1.
+
+E) Desarrollo e investigación permanente y sistemática sobre tratamientos de la enfermedad.
+
+F) Establecer un sistema de comunicación constante y de seguimiento médico de las personas que se detecten con diabetes tipo 1.
+
+G) Las demás necesarias para asegurar el acceso a mejor tratamiento, protegiendo el derecho a la salud de las personas que tengan ese padecimiento.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 La autoridad sanitaria en el ámbito de su competencia y conforme a su disponibilidad financiera, vigilará el cumplimiento y aplicación de estas medidas en sectores vulnerables especialmente en niñas y niños menores de 12 años, en las instituciones educativas de los niveles básicos y media superior de conformidad a lo dispuesto en las Normas Oficiales Mexicanas.
 
@@ -4096,3 +4124,17 @@ P.O. 18 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 267 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 45 TER A LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 297 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, SE APRUEBA LA REFORMA QUE ADICIONA EL CAPÍTULO XIII VIOLENCIA OBSTÉTRICA Y EL ARTÍCULO 160 SEXTIES AL LIBRO SEGUNDO PARTE ESPECIAL AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA; SE APRUEBA LA REFORMA A LOS ARTÍCULOS 22 Y 23 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 307 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4 Y 106 BIS DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma de Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El poder Ejecutivo por conducto de la Secretaría de Salud, realizará las previsiones presupuestales necesarias para el ejercicio fiscal posterior inmediato a la entrada en vigor de la presente reforma.
