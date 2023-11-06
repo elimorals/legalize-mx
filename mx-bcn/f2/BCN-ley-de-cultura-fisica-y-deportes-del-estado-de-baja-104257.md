@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-cultura-fisica-y-deportes-del-estado-de-baja-104257"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2023-08-25"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Baja California, el miércoles 31 de diciembre de 2014.
 
@@ -75,9 +75,9 @@ VIII.- Fomentar, ordenar y regular a las Asociaciones y Sociedades Deportivas y 
 
 IX.- Diseñar, aplicar y difundir políticas públicas para reconocer, incentivar y premiar a deportistas Bajacalifornianos que hayan destacado en el ámbito local, nacional e internacional, así como a entrenadores, jueces, árbitros, profesionistas de las ciencias aplicadas y demás especialistas que contribuyen al desarrollo de la cultura física y el deporte del Estado;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-X.- Promover las medidas preventivas necesarias para erradicar la violencia, así como la implementación de sanciones a quienes la ejerzan, lo anterior sin perjuicio de las responsabilidades penales y civiles a que haya lugar, y reducir los riesgos en la práctica de actividades físicas, recreativas o deportivas que pudieran derivarse del doping, así como de otros métodos no reglamentarios;
+X.- Promover las medidas preventivas necesarias para erradicar la violencia de género en la práctica del deporte, así como la implementación de sanciones a quienes la ejerzan, lo anterior sin perjuicio de las responsabilidades penales y civiles a que haya lugar, y reducir los riesgos en la práctica de actividades físicas, recreativas o deportivas que pudieran derivarse del doping, así como de otros métodos no reglamentarios;
 
 XI.- Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente;
 
@@ -283,9 +283,9 @@ XXII.- Otorgar estímulos y reconocimientos a deportistas de alta calidad y mér
 
 XXIII.- Operar, administrar y aplicar los recursos federales a su cargo conforme a los lineamientos establecidos en la Ley General y en su Reglamentación;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-XXIV.- Impulsar y promover la cultura física y la práctica del deporte entre la población en general, incluyendo políticas dirigidas a niñas, niños y adolescentes, personas con discapacidad, personas adultas mayores y actividades físicas autóctonas y tradicionales;
+XXIV.- Impulsar y promover la cultura física y la práctica del deporte entre la población en general con perspectiva de género, incluyendo políticas dirigidas a niñas, niños y adolescentes, mujeres, personas con discapacidad, personas adultas mayores y actividades físicas autóctonas y tradicionales;
 
 XXV.- Vigilar y asegurar a través del COEVED que los procesos electorales en los órganos de gobierno y representación de las Asociaciones Deportivas Estatales y Organismos Afines, en atención a sus funciones que como agentes colaboradores del Gobierno Estatal les son delegadas, se realicen con estricto cumplimiento de las disposiciones legales y estatutarias vigentes;
 
@@ -2162,3 +2162,9 @@ P.O. 25 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 266 MEDIANTE EL CUAL APRUEBA LA REFORMA AL ARTÍCULO 108 DE LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA".]
 
 Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 300 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LA FRACCIÓN X DEL ARTÍCULO 4 Y LA FRACCIÓN XXIV DEL ARTÍCULO 14 DE LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
