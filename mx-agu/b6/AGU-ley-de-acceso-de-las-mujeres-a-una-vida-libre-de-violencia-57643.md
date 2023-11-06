@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2023-08-07"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -195,13 +195,21 @@ XIX. La difusión o publicación a través de cualquier medio tecnológico, de i
 
 XX. La Captura, Producción, Manipulación o Alteración de Imágenes o grabaciones, con la finalidad de llevar a cabo las acciones señaladas en la fracción anterior, o de acosar, hostigar, intimidar o amenazar a mujeres por cualquier medio;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-XXI. Violencia vicaria; y
+XXI. Violencia vicaria;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-XXII. Todas aquellas que de alguna forma denigren la dignidad de la mujer
+XXII. La violencia mediática;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+XXIII. La violencia simbólica; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+XXIV. Todas aquellas que de alguna forma denigren la dignidad de la mujer.
 
 ###### Artículo 4°.
 
@@ -333,31 +341,25 @@ VIII. Violencia Política en contra de las Mujeres en razón de Género: Es toda
 
 IX. Violencia Digital: Es la que se produce cuando una persona provoca, realiza o amenaza con realizar cualquier tipo de violencia contra una o más mujeres, utilizando cualquier medio tecnológico, vulnerando principalmente su dignidad, libertad y desarrollo psicosexual;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-X. Violencia Vicaria. La violencia Vicaria consiste en la acción u omisión dirigida hacia las hijas y/o los hijos de la víctima, cometida por quien mantenga o haya mantenido una relación de hecho, concubinato o matrimonio con la misma, y que le cause un daño o afectación física, psicoemocional o económica, con el objeto de romper el vínculo filial parental.
+X. Violencia Vicaria: Es aquella que se realiza contra una mujer a través de un acto u omisión que genere afectación o daño físico, psicológico, emocional, patrimonial o de cualquier otra índole por medio de amenazas o violencia ejercida a un descendente, ascendente o dependiente económico de la víctima;
 
-Se manifiesta a través de diversas conductas, entre otras:
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-a) Amenazar con causar daño a las hijas e hijos;
+XI. Violencia mediática: Es todo acto a través de cualquier medio de comunicación que, de manera directa o indirecta, promueva mensajes, valores, iconos o signos, estereotipados sexistas, transmita y reproduzca dominación, cosificación, desigualdad y discriminación, naturalizando la subordinación de la mujer en la sociedad, promueva la explotación de mujeres o sus imágenes, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres;
 
-b) Amenazar con ocultar, retener, o sustraer a hijas e hijos fuera de su domicilio o de su lugar habitual de residencia;
+La violencia mediática se puede ejercer por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atenten contra la autoestima, salud, integridad, libertad y seguridad de las mujeres, adolescentes y niñas, que impidan su desarrollo y que atenta contra la igualdad y dignidad;
 
-c) Utilizar a las hijas y/o los hijos para obtener información respecto de la madre;
+Para efectos del presente artículo se entenderá por Medios de Comunicación aquellos instrumentos, canales o formas de transmisión de la información como la prensa, radio, televisión, cine, internet, redes sociales, entre otros, los cuales son utilizados para procesar, administrar y compartir la información;
 
-d) Promover, incitar o fomentar que las hijas y/o los hijos ejerzan cualquier tipo de violencia en contra de la madre;
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-e) Ejercer actos de violencia psicológica que descalifiquen la figura materna afectando el vínculo materno filial;
+XII. Violencia Simbólica: La que, a través de patrones estereotipados, mensajes, valores, iconos o signos, transmita y reproduzca dominación, cosificación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad; y
 
-f) Ocultar, retener o sustraer a hijas o hijos, así como a familiares o personas allegadas;
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-g) Interponer acciones legales con base en hechos falsos o inexistentes, en contra de las mujeres, para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas y/o los hijos en común; y
-
-h) Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y a sus hijas e hijos.
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE ENERO DE 2023)</small>
-
-XI. Cualesquiera otras formas análogas que, por acción u omisión, lesionen o sean susceptibles de lesionar la dignidad, integridad o libertad de las mujeres.
+XIII. Cualesquiera otras formas análogas que, por acción u omisión, lesionen o sean susceptibles de lesionar la dignidad, integridad o libertad de las mujeres.
 
 ###### Artículo 9°.
 
@@ -371,13 +373,17 @@ II. En el laboral y docente;
 
 III. En el social;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-IV. En el de las instituciones y en servicio público; y
+IV. En los medios de comunicación;
 
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-V. En espacios públicos.
+V. En el de las instituciones y servicio público; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+VI. En espacios públicos.
 
 ###### Artículo 10.
 
@@ -698,6 +704,10 @@ Artículo 30 octies.- Por ninguna circunstancia las autoridades previstas en el 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2021)</small>
 
 Artículo 30 nonies.- A ninguna mujer o niña y sus hijas e hijos en situación de violencia, que solicite orden de protección se le podrá requerir que acredite su situación migratoria, ni cualquier otro elemento que impida su derecho al acceso a la justicia y la protección.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 30 decies.- Tratándose de violencia mediática o digital, para garantizar la integridad de la víctima, la o el Ministerio Público, la jueza o el juez, ordenaran de manera inmediata, las medidas de protección necesarias, atendiendo a lo dispuesto en el Artículo 20 Sexies de la Ley General.
 
 ### CAPÍTULO V. Del Sistema Estatal para la Erradicación de la Violencia de Género Contra las Mujeres
 
@@ -1960,3 +1970,11 @@ P.O. 7 DE AGOSTO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 460.- SE REFORMA Y ADICIONA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
