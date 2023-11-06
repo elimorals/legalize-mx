@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-89548"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-31"
-last_updated: "2022-11-11"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 31 de agosto de 2012.
 
@@ -61,11 +61,11 @@ Es obligación de todas las autoridades del Estado, en colaboración con los dem
 
 Queda prohibida toda discriminación motivada por el origen étnico, nacional o regional, el género, la edad, las capacidades diferentes, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias, orientación sexual, identidad y expresiones de género, el estado civil, el trabajo desempeñado, las costumbres, la raza, las ideologías o creencias, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 6.
 
-Para los efectos de esta ley se entiende por discriminación toda distinción, exclusión o restricción que, basada en el origen étnico, nacional o regional, el género, la edad, las capacidades diferentes, la condición social o económica, las condiciones de salud, el embarazo, la lengua, la religión, las opiniones, las preferencias, orientación sexual, identidad y expresiones de género, el estado civil, el trabajo desempeñado, las costumbres, la raza, las ideologías o creencias, o cualquier otra, tenga por efecto impedir, menoscabar o anular el reconocimiento o el ejercicio de los derechos y libertades fundamentales de las personas, y la igualdad real de oportunidades de los individuos.
+Para los efectos de esta ley se entiende por discriminación toda distinción, exclusión o restricción que, basada en el origen étnico, nacional o regional, el género, la edad, por condición de discapacidad, la condición social o económica, las condiciones de salud física o mental, el embarazo, la lengua, la religión, las opiniones, las preferencias, el estado civil, el trabajo desempeñado, las costumbres, la raza, las ideologías o creencias, o cualquier otra, tenga por efecto impedir, menoscabar o anular el reconocimiento o el ejercicio de los derechos y libertades fundamentales de las personas y la igualdad real de oportunidades de los individuos.
 
 Se considera discriminatoria toda ley o acto que, siendo de aplicación idéntica para todas las personas, produzca consecuencias perjudiciales para las personas en situación de vulnerabilidad.
 
@@ -317,9 +317,11 @@ i) Negar la prestación de servicios de salud física y mental, así como cualqu
 
 j) Ofender, ridiculizar, hostigar o promover la violencia en su contra a través de mensajes e imágenes en los medios de comunicación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 19.
 
-Ninguna autoridad estatal o municipal, autoridad, servidor público, persona física o moral, realizará actos o desplegará conductas que discriminen a persona alguna por padecer cualquier tipo de enfermedad, incluyendo, entre otras, las conductas siguientes:
+Ninguna autoridad estatal o municipal, servidor público, persona física o moral, realizará actos o desplegará conductas que discriminen a persona alguna por padecer cualquier tipo de enfermedad física o mental, incluyendo entre otras, las conductas siguientes:
 
 a) Explotar o dar un trato abusivo o degradante;
 
@@ -341,9 +343,25 @@ i) Negar el acceso o separar de los centros educativos públicos o privados en c
 
 j) Restringir su participación en actividades deportivas, recreativas o culturales;
 
-k) Aplicar cualquier tipo de uso o costumbre que atente contra su dignidad e integridad; y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-l) Ofender, ridiculizar, hostigar o promover la violencia en su contra a través de mensajes o imágenes en los medios de comunicación.
+k) Aplicar cualquier tipo de uso o costumbre que atente contra su dignidad e integridad;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+l) Ofender, ridiculizar, hostigar o promover la violencia en su contra a través de mensajes o imágenes en los medios de comunicación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+m) Negar la prestación de servicios financieros a personas por motivo de su condición de salud física o mental;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+n) Difundir sin consentimiento de la persona agraviada información sobre su condición y antecedentes de salud física o mental, o sobre cualquier otro dato personal sensible; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+o) Estigmatizar y negar derechos a personas por cualquier condición o antecedente de salud física o mental.
 
 ###### Artículo 20.
 
@@ -696,3 +714,9 @@ P.O. 11 DE NOVIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 159 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 309 MEDIANTE EL CUAL SE APRUEBA (SIC) LAS REFORMAS A LOS ARTÍCULOS 6 Y 19 DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
