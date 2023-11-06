@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2023-07-07"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA PARLAMENTARIA: 7 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA PARLAMENTARIA: 6 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -267,9 +267,9 @@ II.- Durante el primer período de sesiones del inicio de una Legislatura, cada 
 
 III.- La Agenda Legislativa Básica será consensuada y acordada por los integrantes de la Junta de Coordinación Política antes de concluir el primer período de sesiones de inicio de la Legislatura, para ser incorporada al Plan;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-IV.- La Junta de Coordinación Política deberá incorporar al Plan, las propuestas de las Direcciones y Unidades Auxiliares del Congreso, así como del Órgano de Fiscalización Superior del Estado, para la mejora continua de sus funciones y servicios mediante la optimización de sus estructuras y organización técnica de los recursos materiales y humanos disponibles, antes de concluir el primer período de sesiones del inicio de la legislatura;
+IV.- La Junta de Coordinación Política deberá incorporar al Plan, las propuestas de las Direcciones y Unidades Auxiliares del Congreso, así como de la Auditoría Superior del Estado, para la mejora continua de sus funciones y servicios mediante la optimización de sus estructuras y organización técnica de los recursos materiales y humanos disponibles, antes de concluir el primer período de sesiones del inicio de la legislatura;
 
 > <small>(REFORMADA, P.O. 10 DE JULIO DE 2015)</small>
 
@@ -345,9 +345,11 @@ XIII.- Las demás que le confiere la Constitución Local, esta Ley, sus Reglamen
 
 ### CAPITULO II. DE LOS DERECHOS DE LOS DIPUTADOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTICULO 18.
 
-Son derechos de los Diputados:
+Son derechos de las y los Diputados:
 
 I.- Elegir y ser electos para integrar los órganos de dirección y de trabajo del Congreso del Estado;
 
@@ -363,9 +365,9 @@ V.- Contar con la credencial e insignia que los acredite como Diputados de la Le
 
 VI.- Percibir la dieta que les corresponde de conformidad con el Presupuesto de Egresos del Poder Legislativo, presupuesto que no podrá contemplar ni ser modificado para cubrir compensaciones extraordinarias o de cualquier otra denominación durante o por conclusión de su mandato Constitucional;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-VII.- Recibir por lo menos tres días antes de la discusión en Comisiones y en el Pleno, los Proyectos de Dictámenes, los Dictámenes de las Comisiones y opiniones de las Direcciones, Unidades Auxiliares o del Órgano de Fiscalización Superior según le corresponda su análisis de conformidad con el objeto de debate;
+VII.- Recibir por lo menos tres días antes de la discusión en Comisiones y en el Pleno, los Proyectos de Dictámenes, los Dictámenes de las Comisiones y opiniones de las Direcciones, Unidades Auxiliares o de la Auditoría Superior del Estado según le corresponda su análisis de conformidad con el objeto de debate;
 
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
@@ -1139,13 +1141,17 @@ Para el cumplimiento de las atribuciones señaladas en el artículo que antecede
 
 (DEROGADO, P.O. 25 DE NOVIEMBRE DE 2016)
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTICULO 65.
 
 Corresponde a la Comisión de Hacienda y Presupuesto el conocimiento, estudio y dictamen de los siguientes asuntos:
 
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2012)</small>
+
 I.- De Estudio Legislativo, los relacionados con la Hacienda y Administración Pública Federal, Estatal o Municipal que en materia fiscal señale la Constitución Local del Estado, otras disposiciones legales o por acuerdo del Pleno del Congreso;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2012)</small>
 
 II.- De Orden Presupuestal v (sic) Crédito Público, el conocimiento, estudio y Dictamen de los siguientes asuntos:
 
@@ -1153,7 +1159,9 @@ II.- De Orden Presupuestal v (sic) Crédito Público, el conocimiento, estudio y
 
 2.- Transferencia, ampliación, creación o supresión de partidas en los Presupuestos de Egresos de las Entidades que deban ser aprobados por el Congreso del Estado;
 
-3.- Financiamientos concertados o celebrados entre las Entidades o entre éstas con terceros, comprendidos en la Ley de Deuda Pública del Estado de Baja California;
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+3. Financiamientos y obligaciones concertados o celebrados entre las Entidades o entre éstas con terceros, comprendidos en el artículo 117, Fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos, en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y en la legislación local que rige la materia;
 
 4.- Celebración de contratos, convenios, o actos que afecten cualquier aspecto de la situación presupuestal de las Entidades, cuando sus efectos excedan del período de Gobierno del Ejecutivo del Estado;
 
@@ -1165,6 +1173,8 @@ II.- De Orden Presupuestal v (sic) Crédito Público, el conocimiento, estudio y
 
 8.- Los demás asuntos relacionados que le encomiende el Congreso en esta materia y que requieran la elaboración de dictamen o de estudio.
 
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2012)</small>
+
 III.- De Orden Hacendario, el conocimiento, estudio y dictamen de los siguientes asuntos:
 
 1.- Iniciativas de Leyes de Ingresos del Gobierno del Estado o de los Municipios;
@@ -1175,45 +1185,33 @@ III.- De Orden Hacendario, el conocimiento, estudio y dictamen de los siguientes
 
 4.- Iniciativas de Ley y de reformas a las Leyes, así como los Decretos o Acuerdos para la creación, liquidación, escisión o fusión de Entidades del Ejecutivo del Estado y de los Ayuntamientos;
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-Para el cumplimiento de sus atribuciones, la Comisión de Hacienda y Presupuesto, solicitará al Órgano de Fiscalización Superior, el estudio, análisis y opinión de los asuntos que le encomiende, así como la elaboración de los proyectos de dictamen que le correspondan, en los términos de este artículo.
+Para el cumplimiento de sus atribuciones, la Comisión de Hacienda y Presupuesto, solicitará a la Auditoría Superior del Estado, el estudio, análisis y opinión de los asuntos que le encomiende, así como la elaboración de los proyectos de dictamen que le correspondan, en los términos de este artículo.
 
-(REFORMADO, P.O. 10 DE FEBRERO DE 2012) (REPUBLICADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2016)
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTICULO 66.
 
 Corresponde a la Comisión de Fiscalización del Gasto Público el conocimiento, estudio y dictamen de los siguientes asuntos:
 
-I.- De Cuenta Pública:
+I. De Cuenta Pública: Revisar, analizar y dictaminar la Cuenta Pública Anual de las Entidades Fiscalizadas, con base en los informes correspondientes a que se refiere la Ley de la materia;
 
-a).- El conocimiento, estudio y dictamen del Informe de Resultados de la Fiscalización Superior de la Cuenta Pública Anual de las Entidades fiscalizables, previstas en la Ley de Fiscalización Superior para el Estado de Baja California.
+II. De Orden Patrimonial: Supervisar el inventario y control de los bienes muebles e inmuebles del Gobierno del Estado, organismos descentralizados, paraestatales y todos aquellos sujetos a fiscalización por el Congreso del Estado.
 
-II.- De Orden Patrimonial:
+III. En los términos de la fracción XIII del artículo 27 de la Constitución Política del Estado de Baja California: Vigilar, coordinar, evaluar el funcionamiento y desempeño de la Auditoría Superior del Estado, así como proponer las políticas de organización y funcionamiento que deban regularla;
 
-a).- Supervisar el inventario y control de los bienes muebles e inmuebles del Gobierno del Estado, organismos descentralizados, paraestatales y todos aquellos sujetos a fiscalización por el Congreso del Estado.
+IV. Proponer a la Comisión de Legislación y Puntos Constitucionales, las políticas, manuales de organización y funciones de la propia Comisión de Fiscalización del Gasto Público para incorporarse a los Reglamentos de la presente Ley;
 
-III.- En los términos de la fracción XIII del artículo 27 de la Constitución Política del Estado de Baja California;
+V. Conocer y enviar a la Comisión de Administración y Finanzas el proyecto de presupuesto anual de la Auditoría Superior del Estado, cuidando que el monto que se formule sea suficiente para que dicha Auditoría cumpla con las atribuciones que establece la Ley de la materia;
 
-a).- Vigilar, coordinar y evaluar el funcionamiento del Órgano de Fiscalización Superior, así como proponer las políticas de organización y funcionamiento que deban regular a dicho Órgano;
+VI. Vigilar y evaluar el avance presupuestal y programático de la Auditoría Superior del Estado; y,
 
-IV.- Proponer a la Comisión de Legislación y Puntos Constitucionales, las políticas, manuales de organización y funciones de la propia Comisión de Fiscalización para incorporarse a los Reglamentos de la presente Ley;
+VII. Presentar a la Junta de Coordinación Política, las propuestas de nombramiento o remoción de la persona Titular de la Auditoría Superior del Estado.
 
-V.- Conocer y enviar a la Comisión de Administración y Finanzas el proyecto de presupuesto anual del Órgano de Fiscalización Superior, cuidando que el monto que se formule sea suficiente para que dicho Órgano cumpla con las atribuciones que establece la Ley de Fiscalización Superior para el Estado de Baja California;
+Para el cumplimiento de sus atribuciones, la Comisión de Fiscalización del Gasto Público, ordenará a la Auditoría Superior del Estado el estudio, análisis y opinión de los asuntos que le encomiende, así como el conocimiento, estudio y elaboración de los anteproyectos de dictamen con motivo del resultado de la fiscalización la Cuenta Pública Anual de las Entidades Fiscalizadas, previstas en la Ley de la materia.
 
-VI.- Vigilar y evaluar el avance presupuestal y programático del Órgano de Fiscalización Superior; y,
-
-VII.- Presentar a la Junta de Coordinación Política, las propuestas de nombramiento o remoción del Titular del Órgano de Fiscalización Superior.
-
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
-
-Para el cumplimiento de sus atribuciones, la Comisión de Fiscalización del Gasto Público, ordenará al Órgano de Fiscalización Superior el estudio, análisis y opinión de los asuntos que le encomiende, así como el conocimiento, estudio y elaboración de los anteproyectos de dictamen con motivo del resultado de la fiscalización (sic) la Cuenta Pública Anual de las Entidades Fiscalizables, previstas en la Ley de Fiscalización Superior de los Recursos Públicos para el estado de Baja California y sus municipios.
-
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
-
-En ningún caso la Comisión de Fiscalización del Gasto Público podrá dictaminar una cuenta pública sin el Informe de Resultados a que se refieren los artículos 59 y 60 de la Ley de Fiscalización Superior de los Recursos Públicos para el estado de Baja California y sus municipios.
-
-La Comisión de Fiscalización del Gasto Público podrá solicitar al Instituto de Opinión Ciudadana, Estudios Económicos y Sociales el estudio, análisis y opinión de los asuntos que le encomiende.
+En ningún caso la Comisión de Fiscalización del Gasto Público podrá dictaminar una Cuenta Pública sin el Informe correspondiente a que se refiere la Ley de la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2015)</small>
 
@@ -1543,33 +1541,39 @@ El desempeño de las atribuciones y obligaciones de la Dirección de Consultorí
 
 #### SECCIÓN VI. DE LA UNIDAD DE CONTRALORÍA INTERNA
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTICULO 81.
 
-La Unidad de Contraloría Interna es un órgano dependiente del Pleno del Congreso del Estado, que tiene a su cargo las funciones de control y evaluación del desempeño de las Direcciones y Unidades Auxiliares y del Órgano de Fiscalización Superior, así como la atención de quejas, investigación, substanciación, calificación de las faltas administrativas de los servidores públicos adscritos a los mismos, y en su caso, la resolución de los procedimientos de responsabilidad administrativa que le corresponda en los términos previstos en la Ley.
+La Unidad de Contraloría Interna es un órgano dependiente del Pleno del Congreso del Estado, que tiene a su cargo las funciones de control y evaluación del desempeño de las Direcciones, Unidades Auxiliares y de la Auditoría Superior del Estado, así como la atención de quejas y denuncias, investigación, substanciación, calificación de las faltas administrativas de las y los servidores públicos adscritos a los mismos, y en su caso, la resolución de los procedimientos de responsabilidad administrativa que le corresponda en los términos previstos en las leyes de la materia. Asimismo, la Unidad de Contraloría Interna tendrá a su encargo la substanciación de los procedimientos de reclamación de indemnización por responsabilidad patrimonial señalados en la Ley de la materia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-ARTICULO 81 BIS.- En el desempeño de sus funciones, la Unidad de Contraloría Interna contará con el apoyo y la colaboración de los Titulares de las Direcciones y Unidades Auxiliares y del Órgano de Fiscalización Superior.
+ARTICULO 81 BIS.- En el desempeño de sus funciones, la Unidad de Contraloría Interna contará con el apoyo y la colaboración de las personas Titulares de las Direcciones y Unidades Auxiliares del Congreso y de la Auditoría Superior del Estado.
 
-La Unidad de Contraloría Interna deberá rendir informe de actividades a la Mesa Directiva por lo menos dos veces al año.
+La persona Titular de la Unidad podrá designar dentro de su estructura orgánica a las y los servidores públicos que fungirán como autoridades investigadora, substanciadora y en su caso resolutora respectivamente, en donde la función de la Autoridad Substanciadora, en ningún caso podrá ser ejercida por una Autoridad investigadora, conforme a lo dispuesto en la ley de la materia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2016)</small>
+La persona Titular de la Unidad de Contraloría Interna deberá rendir informe de actividades a la Mesa Directiva por lo menos dos veces al año.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ARTICULO 81 TER.- Corresponde a la Unidad de Contraloría Interna, el despacho de los siguientes asuntos:
 
-I. Recibir y registrar las declaraciones patrimoniales que deban presentar los Diputados, servidores públicos de las Direcciones y Unidades Auxiliares y del Órgano de Fiscalización Superior del Congreso y, verificar las investigaciones que fueren pertinentes de acuerdo con las Leyes y Reglamentos;
+I. A través de los medios electrónicos correspondientes, recibir y registrar las declaraciones patrimoniales y de intereses que deban presentar las y los Diputados y demás personas servidoras públicas del Congreso del Estado y de la Auditoría Superior, en términos de la Ley respectiva; así como verificar la evolución patrimonial de las y los servidores públicos de acuerdo con las Leyes y demás ordenamientos legales aplicables;
 
-II. Conocer e investigar los actos, omisiones o conductas de los servidores públicos de las Direcciones y Unidades Auxiliares y del Órgano de Fiscalización Superior del Congreso, para constituir responsabilidades administrativas, aplicar las sanciones que correspondan en los términos que señale (sic) las leyes de la materia, y en su caso, hacer las denuncias correspondientes ante el Ministerio Público prestándole para tal efecto la colaboración que le fuere requerida;
+II. Conocer e investigar los actos, omisiones o conductas de las y los servidores públicos de las Direcciones y Unidades Auxiliares del Congreso del Estado y de las áreas homologas de la Auditoría Superior del Estado, así como de los particulares señalados en la Ley respectiva, para constituir responsabilidades administrativas, así como aplicar las sanciones que correspondan en los términos que señale las leyes de la materia, y en su caso, hacer las denuncias correspondientes ante la fiscalía Especializada en Combate a la Corrupción o ante otras autoridades competentes, prestándole para tal efecto la colaboración que le fuere requerida;
 
 III. Atender las quejas o denuncias que se presenten con motivo del incumplimiento de las obligaciones de los servidores públicos del Congreso del Estado;
 
-IV. Desarrollar las tareas de revisión, inspección y auditoría interna del ejercicio del presupuesto de egresos del Congreso del Estado;
+IV. Establecer y operar los sistemas de información y bases de datos, mediante medios físicos y electrónicos que garanticen una recepción y seguimiento efectivo de las quejas o denuncias que procedan en el ámbito de su competencia;
 
-V. Proponer a la Comisión de Administración y Finanzas, las políticas, manuales de organización y funciones de las Direcciones y Unidades Auxiliares, que permitan optimizar y eficientar los recursos humanos y materiales, así como la calidad de los servicios que se prestan;
+V. Desarrollar las tareas de revisión, inspección y auditoría interna del ejercicio del presupuesto de egresos del Congreso del Estado;
 
-VI. Las demás, que le señale el Reglamento y la Ley en la materia.
+VI. Proponer a la Comisión de Administración y Finanzas, las políticas, manuales de organización y funciones de las Direcciones y Unidades Auxiliares, que permitan optimizar y eficientar los recursos humanos y materiales, así como la calidad de los servicios que se prestan;
+
+VII. Intervenir en los procedimientos de entrega y recepción del Congreso del Estado y Auditoría Superior del Estado, conforme al Reglamento y a la Ley de la materia;
+
+VIII. Las demás, que le señale el Reglamento y la Ley en la materia.
 
 El desempeño de las atribuciones de la Unidad de Contraloría Interna estará bajo la vigilancia y control de la Mesa Directiva. Corresponde a la Junta de Coordinación Política realizar ante el pleno del Congreso la propuesta de nombramiento correspondiente.
 
@@ -2519,19 +2523,19 @@ Los servidores públicos que no concurran a las sesiones correspondientes, se ha
 
 Para la designación de los Servidores Públicos que por disposición Constitucional o Legal le corresponda realizar al Poder Legislativo, se atenderá al procedimiento previsto en el Reglamento, excepto en los casos en que dicho procedimiento se encuentre regulado por otro ordenamiento legal.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA SU DENOMINACIÓN], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-## TÍTULO OCTAVO
+## TITULO OCTAVO. DE HERRAMIENTAS DE LA TRANSPARENCIA Y RENDICIÓN DE CUENTAS DEL PODER LEGISLATIVO
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-### CAPÍTULO PRIMERO. DECLARACIÓN PATRIMONIAL
+### CAPITULO PRIMERO. DECLARACIÓN PATRIMONIAL Y DE INTERÉSES
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTICULO 168.
 
-Tienen la obligación de presentar su declaración de situación patrimonial en los plazos que la Ley de la materia lo señale, bajo protesta de decir verdad, los Diputados, los Titulares de las Direcciones y Unidades Auxiliares, el Auditor Superior de Fiscalización del Estado, los Coordinadores, Jefes de Departamento, Auditores y Analistas.
+Tienen la obligación de presentar su declaración de situación patrimonial y de intereses, bajo protesta de decir verdad, las y los Diputados, las y los Titulares de las Direcciones y Unidades Auxiliares, la persona Titular de la Auditoría Superior del Estado, y demás personas servidoras públicas del Poder Legislativo conforme a las modalidades y plazos que señala la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
@@ -3222,3 +3226,13 @@ PRIMERO. La presente reforma entrará en vigor al momento de su aprobación por 
 SEGUNDO. En un plazo que no deberá exceder de 30 días naturales a partir de la entrada en vigor del presente Decreto, el Departamento de Informática en coordinación con la Dirección de Procesos Parlamentarios, deberán realizar las modificaciones señaladas en el presente decreto en el Portal de Internet del Congreso del Estado y mantener su actualización.
 
 TERCERO. Publíquese la presente reforma en el Periódico Oficial del Estado, para los efectos legales conducentes.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 310 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 37 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; 5, 10, 11, 12, 14, 17, 18, 19, 20, 22, 25, 26, 33, 44, 46, 47, 50, 51, 52, 53, 54, 55, 57, 58, 64, 77, 79, 86, 94, 97, 98, 100, 110 Y ADICIONA LOS ARTÍCULOS 19 BIS Y 26 BIS A LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS; 82 DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA; 16 QUATER, 18, 65, 66, 81, 81 BIS Y 81 TER DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LA REFORMA QUE ADICIONA EL ARTÍCULO 63 TER A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La Unidad de Contraloría Interna del Congreso del Estado tendrá un plazo de 60 días hábiles para la implementación del sistema de información a que se refiere la fracción IV del artículo 81 TER.
+
+TERCERO.- El Congreso del Estado realizará mesas de trabajo, a fin de analizar y en su momento expedir el Reglamento de Entrega y Recepción de los asuntos y recursos públicos del Poder Legislativo del Estado, señalado en la fracción VII del artículo 81 TER.
