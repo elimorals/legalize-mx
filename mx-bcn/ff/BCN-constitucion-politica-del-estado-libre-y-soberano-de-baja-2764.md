@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2023-08-25"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -1559,21 +1559,15 @@ h) Promover, derivado de sus investigaciones, las responsabilidades que sean pro
 
 Los Poderes del Estado y los sujetos de fiscalización proporcionarán auxilio a la Auditoría Superior del Estado para el ejercicio de sus funciones.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-VIII.- La Auditoría Superior del Estado entregará los informes de resultados de las revisiones de las Cuentas Públicas al Congreso del Estado en los términos y plazos que establece la Ley de la materia, mismos que tendrán carácter público y tendrán el contenido que determine la Ley; estos últimos incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoría Superior del Estado, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
+VIII.- La Auditoría Superior del Estado entregará el Informe General y los informes Individuales de las revisiones de las Cuentas Públicas al Congreso del Estado en los términos y plazos que establece la Ley de la materia, mismos que tendrán carácter público y tendrán el contenido que determine la Ley; estos últimos incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoría Superior del Estado, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
 
-La Auditoría Superior del Estado dará a conocer a las entidades fiscalizadas, de manera previa a la presentación de los informes individuales de auditoria, la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Auditoría Superior del Estado para la elaboración de los informes individuales de auditoría, para este efecto, se sujetará a las siguientes bases:
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-a).- Enviará a las entidades fiscalizadas, par (sic) conducto del Auditor Superior del Estado, los informes individuales de auditoría que les corresponda (sic), a más tardar a los 10 días hábiles posteriores a que haya sido entregado el informe individual de auditoria respectivo al Congreso del Estado, mismos que contendrán las recomendaciones y acciones que correspondan para que, en un plazo de hasta 30 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes, en caso de no hacerlo se harán acreedores a las sanciones establecidas en (sic) Ley. Lo anterior, no aplicará a las promociones de responsabilidades ante el Tribunal Estatal de Justicia Administrativa, las cuales se sujetarán a los procedimientos y términos que establezca la Ley;
+La Auditoría Superior del Estado dará a conocer a las entidades fiscalizadas, de manera previa a la presentación de los informes individuales de auditoría, la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Auditoría Superior del Estado para la elaboración de los informes individuales de auditoría, en los términos que disponga la ley de la materia.
 
-b).- Deberá pronunciarse en un plazo de 120 días hábiles sobre las respuestas emitidas par (sic) las entidades fiscalizadas, en caso de no hacerlo, se tendrán par (sic) atendidas las recomendaciones y acciones promovidas;
-
-c).- En el caso de las recomendaciones, las entidades fiscalizadas deberán precisar ante la Auditoría Superior del Estado las mejoras realizadas, las acciones emprendidas o, en su caso, justificar su improcedencia;
-
-d).- Entregará al Congreso del Estado, en los plazos y términos que señale la Ley, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes a cada uno de los informes individuales de auditoria que haya presentado en los términos de esta fracción. En dicho informe, el cual tendrá carácter público, la Auditoría Superior del Estado incluirá los montos efectivamente resarcidos a la Hacienda Pública o al patrimonio de los entes públicos, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal Estatal de Justicia Administrativa.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
 
@@ -5744,3 +5738,13 @@ PRIMERO.- Aprobada la presente reforma por el Pleno del Congreso del Estado, rem
 SEGUNDO.- Cumplido el trámite previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, procédase a realizar la declaración de incorporación constitucional correspondiente, y remítase el presente Decreto para su publicación en el Periódico Oficial del Estado de Baja California.
 
 TERCERO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 310 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 37 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; 5, 10, 11, 12, 14, 17, 18, 19, 20, 22, 25, 26, 33, 44, 46, 47, 50, 51, 52, 53, 54, 55, 57, 58, 64, 77, 79, 86, 94, 97, 98, 100, 110 Y ADICIONA LOS ARTÍCULOS 19 BIS Y 26 BIS A LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS; 82 DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA; 16 QUATER, 18, 65, 66, 81, 81 BIS Y 81 TER DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LA REFORMA QUE ADICIONA EL ARTÍCULO 63 TER A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Aprobada que sea la presente reforma, túrnese a los Ayuntamientos del Estado para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Agotado el proceso legislativo correspondiente y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
