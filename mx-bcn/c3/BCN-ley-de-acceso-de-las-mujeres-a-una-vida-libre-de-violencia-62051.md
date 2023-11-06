@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2023-10-06"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -289,9 +289,9 @@ IV. Violencia Económica.- Es toda acción u omisión del Agresor que afecta la 
 
 V. Violencia Sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física, incluyéndose la exhibición del cuerpo de la mujer en imágenes privadas o comerciales que inciten a realizar actividades de índole sexual. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-VI. Violencia Obstétrica.- Toda conducta, acción u omisión que ejerza el personal de salud, de manera directa o indirecta, y que afecte a las mujeres durante los procesos de embarazo, parto o puerperio, mediante un trato deshumanizado, omisión de atención oportuna y eficaz, prácticas sin consentimiento como esterilización o realizar cesárea sin motivo;
+VI. Violencia Obstétrica.- Toda conducta, acción u omisión que ejerza el personal de salud de manera directa o indirecta, y que afecte a las mujeres durante los procesos de embarazo, parto o puerperio, mediante la apropiación del cuerpo y procesos reproductivos de las mujeres que se expresa en un trato deshumanizador, omisión de atención oportuna y eficaz, abuso de medicalización y patologización de los procesos naturales, prácticas sin consentimiento como esterilización o realizar cesárea sin motivo, o cualquier otra que tenga como resultado la pérdida de autonomía y capacidad de decidir libremente sobre su cuerpo y sexualidad, impactando la calidad de vida de las mujeres;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2020)</small>
 
@@ -1902,3 +1902,9 @@ P.O. 6 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 294 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 18, 19, 20, 22 Y 23, ASÍ COMO LA MODIFICACIÓN EN LA IDENTIFICACIÓN DEL CAPÍTULO II PARA DENOMINARSE “DEL ÓRGANO DE GOBIERNO” Y DEL CAPÍTULO III PARA DENOMINARSE “DE LA PERSONA TITULAR DEL CENTRO” Y SE ADICIONAN LOS ARTÍCULOS 4 BIS, 4 TER Y 24 A LA LEY QUE CREA EL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 297 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, SE APRUEBA LA REFORMA QUE ADICIONA EL CAPITULO XIII VIOLENCIA OBSTÉTRICA Y EL ARTÍCULO 160 SEXTIES AL LIBRO SEGUNDO PARTE ESPECIAL AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA; SE APRUEBA LA REFORMA A LOS ARTÍCULOS 22 Y 23 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
