@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-161515"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-12-20"
-last_updated: "2023-10-23"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Código publicado en el Número 70 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 20 de diciembre de 2020.
 
@@ -7139,9 +7139,17 @@ XIX. La creación de programas de apoyo para las familias que se encuentren en z
 
 XX. La accesibilidad y movilidad de la vivienda para las personas con discapacidad y adultos mayores;
 
-XXI. La promoción de la construcción, el mejoramiento y la consolidación de la vivienda rural; y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-XXII. Fomentar la oferta de vivienda en renta o temporal.
+XXI. La promoción de la construcción, el mejoramiento y la consolidación de la vivienda rural;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+XXII. Fomentar la oferta de vivienda en renta o temporal; y
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+XXIII. Garantizar la seguridad estructural de la vivienda.
 
 ###### ARTÍCULO 617.
 
@@ -7517,9 +7525,11 @@ VI. La observancia de los criterios para evitar la contaminación del suelo y de
 
 El Consejo Estatal fomentará la participación de los sectores público, social y privado en esquemas de financiamiento dirigidos al desarrollo y aplicación de ecotecnologías y de nuevas tecnologías en vivienda y saneamiento, principalmente de bajo costo y alta productividad, que cumplan con parámetros de certificación y con los principios de una vivienda digna y decorosa. Asimismo, promoverá que las tecnologías sean acordes con los requerimientos sociales, regionales y a las características propias de la población, estableciendo mecanismos de investigación y experimentación tecnológicas.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 657.
 
-El Consejo Estatal promoverá que las autoridades municipales expidan y apliquen sus reglamentos de construcción y demás disposiciones que contengan los requisitos técnicos que garanticen la seguridad estructural, habitabilidad y sustentabilidad de toda y vivienda, y que definan los responsables y las responsabilidades de los diferentes agentes que intervienen en cada etapa del proceso de producción de vivienda.
+El Consejo Estatal promoverá que las autoridades municipales expidan y apliquen sus reglamentos de construcción y demás disposiciones que contengan los requisitos técnicos que garanticen la calidad, seguridad estructural, habitabilidad y sustentabilidad de toda vivienda, y que definan los responsables y las responsabilidades de los diferentes agentes que intervienen en cada etapa del proceso de producción de vivienda.
 
 ###### ARTÍCULO 658.
 
@@ -9300,3 +9310,11 @@ La Secretaría de Seguridad Pública del Estado y la Universidad de la Policía 
 ###### ARTÍCULO TERCERO.
 
 Con el inicio de la vigencia del presente Decreto, quedan sin efectos todas aquellas disposiciones que se opongan al mismo.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 454.- SE REFORMA EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
