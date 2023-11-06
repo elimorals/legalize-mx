@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-administrativas-del-estado-de-baja-122
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-07"
-last_updated: "2023-07-28"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Número Especial al Periódico Oficial del Estado de Baja California, el lunes 7 de agosto de 2017.
 
@@ -600,6 +600,12 @@ Cometerá desacato el servidor público que, tratándose de requerimientos o res
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2023)</small>
 
 Artículo 63 BIS. Será responsable de atentar contra el desarrollo urbano y los asentamientos humanos, la persona servidora o servidor público que, contraviniendo el Atlas de Riesgos o los planes o programas de desarrollo urbano expedidos en términos de las leyes aplicables, expida licencia, permiso, autorización, constancia o dictamen para realizar cualquier tipo de construcción, obra de infraestructura, equipamiento urbano, acción de urbanización o asentamientos humanos.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 63 TER. La persona servidora pública que incumpla o retrase la entrega de los Informes de Avance de Gestión de la Entidad Fiscalizada, en los plazos, términos y formas previstas en la legislación; o en su caso, oculte, destruya, altere, deforme, inutilice total o parcialmente la información y documentación que integra estos informes.
+
+Asimismo, la persona servidora pública que incumpla o retrase la entrega de la Cuenta Pública de la Entidad Fiscalizada, en los plazos, términos y formas previstas en la legislación; o en su caso, oculte, destruya, altere, deforme, inutilice total o parcialmente la información y documentación que integra la Cuenta Pública.
 
 ###### Artículo 64.
 
@@ -1882,3 +1888,9 @@ P.O. 28 DE JULIO DE 2023.
 ## N. DE E. TRANSITORIO DEL “DECRETO NO. 254 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 5, 9, 15, 20, 21, 24, 35, 46, 48, 54, 69, 75, DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA ADICIÓN DE UN ARTÍCULO 63 BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 310 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 37 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; 5, 10, 11, 12, 14, 17, 18, 19, 20, 22, 25, 26, 33, 44, 46, 47, 50, 51, 52, 53, 54, 55, 57, 58, 64, 77, 79, 86, 94, 97, 98, 100, 110 Y ADICIONA LOS ARTÍCULOS 19 BIS Y 26 BIS A LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS; 82 DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA; 16 QUÁTER, 18, 65, 66, 81, 81 BIS Y 81 TER DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LA REFORMA QUE ADICIONA EL ARTÍCULO 63 TER A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
