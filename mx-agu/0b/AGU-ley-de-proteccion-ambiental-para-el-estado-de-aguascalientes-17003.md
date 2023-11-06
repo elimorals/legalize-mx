@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2023-05-15"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -1325,65 +1325,91 @@ El Estado y los Municipios deberán Implementar una agenda que permita el desarr
 
 Con el objeto de formular, establecer y aplicar medidas, disposiciones y lineamientos que constituyan el proceso formativo de educación ambiental, el Gobierno del Estado contará con un órgano de consulta, asesoría y evaluación social y académica, el cual se denominará Comisión Estatal de Educación Ambiental, y tendrá las siguientes funciones:
 
-I. Formular, establecer, aplicar y expedir el Programa de Educación Ambiental del Estado de Aguascalientes, el cual deberá ser acorde con la política ambiental, el desarrollo sostenible y las necesidades actuales; debiendo gozar también de información ademada y actualizada, de un profundo sentido humano y de amplios criterios éticos que permitan comprender y aplicar los paradigmas axiológicos, sociales y culturales de nuestros días;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-II. Revisar anualmente el Programa de Educación Ambiental del Estado y, en caso de ser necesario, modificarlo, replantearlo, reformularlo o reformarlo, parcial o totalmente;
+I. Formular, establecer, aplicar y expedir el Programa de Educación Ambiental del Estado de Aguascalientes, el cual deberá ser acorde con la política ambiental, el desarrollo sostenible y las necesidades actuales que afectan al Estado y los Municipios;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+II. Revisar anualmente el Programa de Educación Ambiental del Estado, en caso de ser necesario, modificarlo parcial o totalmente;
 
 III. Ser el vínculo entre la sociedad, el gobierno y el sector académico especializado;
 
-IV. Promover y fomentar la participación ciudadana en el análisis del Programa de Educación Ambiental del Estado; y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-V. Evaluar y dar seguimiento al Programa de Educación Ambiental y a los organismos e instituciones que deban acatarlo y aplicarlo.
+IV. Promover y fomentar la participación multidisciplinaria de las dependencias y entidades federativas, estatales y municipales, sector empresarial, así como del organismo de la sociedad civil, sector educativo, colegios de profesionistas en el análisis del Programa de Educación Ambiental del Estado;
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-###### ARTÍCULO 59.
+V. Evaluar y dar seguimiento al Programa de Educación Ambiental y a los organismos e instituciones que deban considerar y aplicarlo.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+VI. Sugerir al Instituto de Educación de Aguascalientes cambios en el contenido de las publicaciones y materiales didácticos estatales en materia educación ambiental.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 59.
 
 La Comisión Estatal de Educación Ambiental estará integrada por:
 
-I. Un Presidente, que será el Director General del Instituto de Educación de Aguascalientes;
+I. Presidente, quien será la persona Titular del Instituto de Educación de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+II. Secretario Técnico, quien será la persona Titular de la Secretaría de Sustentabilidad, Medio Ambiente y Agua;
 
-II. Un Secretario Técnico, que será el Secretario de Sustentabilidad, Medio Ambiente y Agua;
+III. Vocales, quienes serán los representantes de los siguientes sectores:
 
-III. Un Secretario de Actas, que será quien designe el Director General del Instituto de Educación de Aguascalientes;
+|A) Dependencias y entidades de la Administración Pública Federal:
 
-IV. Vocales, quienes serán los representantes de los siguientes sectores:
+1. Representante de SEMARNAT;
 
-A. Gubernamental: Un representante de las siguientes instancias:
+2. Representante de SEDATU;
 
-a) Secretaría de Medio Ambiente y Recursos Naturales;
+3. Representante de CONAGUA;
 
-b) Procuraduría Federal de Protección al Ambiente;
+4. Representante de PROFEPA;
 
-c) Comisión Nacional del Agua;
+B) Un representante de cada una de las dependencias y entidades estatales:
 
-d) Secretaría de Desarrollo Social Federal;
+1. Titular de la Secretaria de Desarrollo Social;
 
-e) Comisión de Medio Ambiente y Recursos Naturales del Honorable Congreso del Estado;
+2. Titular de PROESPA;
 
-f) (DEROGADO, P.O. 25 DE DICIEMBRE DE 2017)
+3. Titular de la Secretaria de Desarrollo Rural y Agroempresarial;
 
-g) Cada Ayuntamiento.
+C) Del Poder Legislativo:
 
-B. Empresarial:
+1. Diputado (a) Presidente de la Comisión de Medio Ambiente y Recursos Naturales del Honorable Congreso del Estado;
 
-a) Cinco representantes de Cámaras empresariales, preferentemente CANACINTRA, CANACO, COPARMEX.
+2. Diputado (a) Presidente de la Comisión Educación y Cultura del Honorable Congreso del Estado;
 
-C. Académico:
+D) Un representante de las áreas que atienden temas ambientales y/o similares de cada ayuntamiento del Estado;
 
-a) Un representante de cada Institución de Educación Superior en el Estado.
+E) Un representante de cada una de las cámaras empresariales en el Estado, con previos conocimientos en materia ambiental;
 
-D. No gubernamental:
+F) Un representante de cada organismo de la sociedad civil en materia ambiental y/o que atienden la educación ambiental;
 
-a) Cuatro representantes de organizaciones no gubernamentales de tipo ecológico-ambiental;
+G) Un representante de cada Colegio de Profesionistas en el Estado de las siguientes especialidades, con previos conocimientos en materia ambiental:
 
-b) Cinco representantes de colegios de profesionistas, sin importar el área a la que se enfoque su formación y experiencia profesional. Aunque, por las especiales demandas intelectuales y académicas que representa la protección ambiental, deberá darse preferencia a biólogos, urbanistas, arquitectos, abogados, ingenieros agrónomos y civiles.
+1. Abogados,
 
-E. Social:
+2. Arquitectura,
 
-a) Cuatro representantes de la Sociedad de Padres de Familia del Estado de Aguascalientes.
+3. Biología,
+
+4. Economistas,
+
+5. Ingenieros Agrónomos,
+
+6. Ingenieros Civiles,
+
+7. Ingeniero Urbanista, y
+
+8. Sociología,
+
+H) Un representante de cada Universidad Pública y Universidades Privadas, así como Profesional Técnico con previos conocimientos en materia ambiental, e
+
+I) Un representante de la Sociedad de Padres de Familia del Estado de Aguascalientes, con previos conocimientos en materia ambiental.
 
 Los representantes se integrarán a la Comisión por invitación expresa del Ejecutivo del Estado.
 
@@ -1393,11 +1419,19 @@ Los representantes se integrarán a la Comisión por invitación expresa del Eje
 
 Cuando así lo requiera, la Comisión podrá invitar a instancias o personalidades reconocidas y capacitadas para participar en el análisis de algún tema específico del programa.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 61.
 
-La Comisión funcionará conforme a lo que establece el Reglamento Interno, que ella misma expida.
+La comisión ejercerá atribuciones y facultades que señale el Reglamento Interno que expida sin perjuicio de otras dependencias a fines.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+ARTÍCULO 61 BIS.- La Comisión Estatal se reunirá con la periodicidad que se señale en el Reglamento Interior, por lo menos dos sesiones ordinarias anuales y sesiones extraordinarias cuantas veces sean necesarias.
+
+La propia Comisión Estatal sesionara válidamente con la asistencia de por lo menos la mitad más uno de los miembros y siempre que la mayoría de los asistentes sean representantes de la Administración Pública.
+
+Las resoluciones se tomarán por mayoría de los miembros presentes teniendo el Presidente voto de calidad para el caso de empate.
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -4098,3 +4132,11 @@ P.O. 15 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 335.- REFORMA A LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES".]
 
 ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 455.- SE REFORMA Y ADICIONA LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- La Comisión Estatal de Educación Ambiental deberá integrarse e instalarse antes de que transcurran 90 días posteriores a la vigencia del presente Decreto en el Periódico Oficial del Estado de Aguascalientes.
