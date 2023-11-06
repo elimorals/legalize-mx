@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-gasto-publico-y-responsabilidad-104146"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2022-12-31"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el miércoles 31 de diciembre de 2014.
 
@@ -229,6 +229,10 @@ XL.- Gasto no etiquetado: Las erogaciones que realizan los Ejecutores de Gasto c
 
 XLI.- Gasto Público: Gasto total que comprende la totalidad de las erogaciones previstas en el Presupuesto de Egresos, a cargo de los Ejecutores de Gasto del Estado y, en su caso, de los Municipios. El Gasto Público incluye los recursos que erogan los sujetos de la Ley con recursos que provienen de reasignaciones realizadas por el Gobierno Federal o por el Estado a través de contratos, convenios, acuerdos y demás instrumentos jurídico-administrativos que determinen su naturaleza y destino;
 
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+XLI-A.- Igualdad Sustantiva: es el acceso al mismo trato y oportunidades, para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales; reconociendo a mujeres y hombres como pares desde el paradigma de la equivalencia humana;
+
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 XLII.- Impacto Presupuestal: Es el costo total por ejercicio fiscal que generaría para el erario público la aplicación de reformas o nuevas leyes, decretos, reglamentos, convenios y demás documentos análogos;
@@ -286,6 +290,10 @@ LV.- Percepciones extraordinarias: Los estímulos, reconocimientos, recompensas,
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 LVI.- Percepciones ordinarias: Los pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular como contraprestación por el desempeño de sus labores cotidianas al servicio de los sujetos a que se refiere el Artículo 2° de esta Ley, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado para el ejercicio fiscal;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+LVI-A.- Perspectiva de Género: Enfoque o herramienta que permite identificar y atender el fenómeno de la desigualdad e inequidad entre mujeres y hombres.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -419,9 +427,11 @@ El Consejo de Armonización Contable del Estado de Aguascalientes, de acuerdo co
 
 ### CAPÍTULO I. De la Programación y Presupuestación del Gasto Público
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 7°.
 
-El proceso de programación y presupuestación tiene como finalidad orientar el Gasto Público hacia los objetivos, metas y estrategias contenidos en los planes de desarrollo y los programas que de éstos se derivan, garantizando con ello el uso eficiente de los recursos públicos en cada uno de los Programas Presupuestarios que desarrollen los Ejecutores de Gasto.
+El proceso de programación y presupuestación tiene como finalidad orientar el Gasto Público hacia los objetivos, metas y estrategias contenidos en los planes de desarrollo y los programas que de éstos se derivan, debiendo incluir los principios de igualdad sustantiva y perspectiva de género y garantizando con ello el uso eficiente de los recursos públicos, en cada uno de los Programas Presupuestarios que desarrollen los Ejecutores de Gasto.
 
 ###### Artículo 8°.
 
@@ -430,6 +440,12 @@ La Programación es la fase donde se definen, ordenan y jerarquizan los Programa
 ###### Artículo 9°.
 
 La Presupuestación es la fase de asignación de los recursos financieros, humanos y materiales, para su aplicación al cumplimiento de los Programas Presupuestarios y demás programas.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 9° Bis.
+
+Los sujetos obligados de la presente Ley, llevarán a cabo la planeación, el diseño, programación, ejecución y evaluación del presupuesto, en el ámbito de su competencia, en cumplimiento a los principios de perspectiva de género e igualdad sustantiva.
 
 ###### Artículo 10.
 
@@ -495,11 +511,17 @@ III.- La evaluación de los avances logrados en el cumplimiento de los objetivos
 
 IV.- Los resultados de la Evaluación del Desempeño, conforme al Sistema de Evaluación del Desempeño previsto en esta Ley;
 
-(REPUBLICADA, P.O. 29 DE DICIEMBRE DE 2021)
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-V.- La situación económica y financiera nacional y, la propia del Estado; y
+V.- La situación económica y financiera nacional y, la propia del Estado;
 
-VI.- La interrelación que en su caso exista con los acuerdos y convenios de concertación y coordinación con el Gobierno Federal, los Municipios y los sectores privado y social.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+VI.- La interrelación que en su caso exista con los acuerdos y convenios de concertación y coordinación con el Gobierno Federal, los Municipios y los sectores privado y social; y
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+VII.- Los principios de igualdad sustantiva y perspectiva de género.
 
 ###### Artículo 13.
 
@@ -513,9 +535,17 @@ III.- Los Programas Presupuestarios;
 
 IV.- Los resultados de la Evaluación del Desempeño de los Programas Presupuestarios, conforme al Sistema de Evaluación del Desempeño previsto en esta Ley;
 
-V.- La situación económica y financiera nacional, y la propia del Estado de Aguascalientes, así como del Municipio de que se trate; y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-VI.- Las políticas financieras, fiscales y crediticias que establezcan las Tesorerías, así como las bases, lineamientos y normas que determine sobre los procesos de planeación, programación y elaboración anual de los presupuestos de egresos de los Municipios.
+V.- La situación económica y financiera nacional, y la propia del Estado de Aguascalientes, así como del Municipio de que se trate;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+VI.- Las políticas financieras, fiscales y crediticias que establezcan las Tesorerías, así como las bases, lineamientos y normas que determine sobre los procesos de planeación, programación y elaboración anual de los presupuestos de egresos de los Municipios; y
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+VII.- Los principios de igualdad sustantiva y perspectiva de género.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
@@ -565,7 +595,9 @@ V.- Un estudio actuarial de las pensiones de sus trabajadores, el cual como mín
 
 VI.- En su caso, las previsiones de gasto necesarias para hacer frente a los compromisos de pago que se deriven de los contratos de Asociación Público-Privada celebrados o por celebrarse durante el siguiente ejercicio fiscal.
 
-Las Leyes de Ingresos y los Presupuestos de Egresos del Estado deberán ser congruentes con los Criterios Generales de Política Económica y las estimaciones de las participaciones y Transferencias federales etiquetadas que se incluyan no deberán exceder a las previstas en la iniciativas de la Ley de Ingresos de la Federación y en el proyecto de Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+Las Leyes de Ingresos y los Presupuestos de Egresos del Estado deberán formularse conforme a los principios de igualdad sustantiva y perspectiva de género y ser congruentes con los Criterios Generales de Política Económica y las estimaciones de las participaciones y Transferencias federales etiquetadas que se incluyan no deberán exceder a las previstas en la (sic) iniciativas de la Ley de Ingresos de la Federación y en el proyecto de Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2018)</small>
 
@@ -613,6 +645,14 @@ Los Anteproyectos de Presupuesto del Estado se elaborarán por las unidades resp
 
 Estará a cargo de la SEPLADE concertar, coordinar, instaurar y evaluar, los programas de inversión, de desarrollo social y productivo, que se realicen con los recursos estatales o federales. Estará a cargo de la SEPLADE concertar, coordinar, instaurar y evaluar, los programas de inversión, de desarrollo social y productivo, que se realicen con los recursos estatales o federales.
 
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 19 Bis.
+
+Los sujetos obligados de la presente ley, impulsarán la igualdad sustantiva entre mujeres y hombres a través de la incorporación de la perspectiva de género, en la planeación, diseño, elaboración, ejecución, seguimiento y evaluación del presupuesto a través de las unidades responsables de la ejecución del gasto.
+
+Las y los titulares de las dependencias y entidades, u órganos serán responsables de que se ejecuten con eficiencia, eficacia, efectividad, igualdad sustantiva y perspectiva de género las acciones previstas en sus respectivos programas y presupuestos.
+
 ### CAPÍTULO II. De la Formulación del Presupuesto de Egresos
 
 ###### Artículo 20.
@@ -641,7 +681,9 @@ c) Descripción clara de la política de gasto público, la cual deberá mostrar
 
 II.- Clasificaciones de los gastos;
 
-III.- Descripción de los Programas Presupuestarios;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+III.- Descripción de los Programas Presupuestarios elaborados conforme a los principios de igualdad sustantiva y perspectiva de género;
 
 IV.- Los tabuladores para la remuneración de los servidores públicos, la indicación de las plazas presupuestadas que incluye y la remuneración integrada mensual y anual que les corresponda;
 
@@ -1359,11 +1401,11 @@ Los recursos económicos de que dispongan los Ejecutores de Gasto serán sujetos
 
 La Evaluación del Desempeño que se realice en los términos de esta Ley, se efectuará sin perjuicio de lo que establezcan otras disposiciones legales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 61.
 
-La SEPLADE en el ámbito estatal y, tratándose de los municipios, las COMUPLA, serán las instancias técnicas de evaluación a que se refiere el segundo párrafo del Artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y tendrán como propósito propiciar que los recursos económicos se asignen en los respectivos presupuestos con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
+La SEPLADE en el ámbito estatal y, tratándose de los municipios, las COMUPLA, serán las instancias técnicas de evaluación a que se refiere el segundo párrafo del Artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y tendrán como propósito propiciar que los recursos económicos se asignen en los respectivos presupuestos con eficiencia, eficacia, economía, igualdad sustantiva, perspectiva de género, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
@@ -1822,3 +1864,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Cualquier referencia hecha a la SEPLAPDE en otros ordenamientos legales se entenderá hecha a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes (SEPLADE).
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 450.- SE REFORMA Y ADICIONA LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
