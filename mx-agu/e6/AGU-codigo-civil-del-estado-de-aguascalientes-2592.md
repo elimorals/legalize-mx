@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2023-06-19"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -3621,7 +3621,9 @@ El objeto de la tutela es la guarda de la persona y bienes de los que no estando
 
 Tienen incapacidad natural y legal:
 
-I.- Los menores de edad;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+I.- Las niñas, niños y adolescentes;
 
 > <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
 
@@ -3773,9 +3775,9 @@ Si por un nombramiento condicional de tutor, o por algún otro motivo, faltare t
 
 El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo, aplicándose a esta tutela lo dispuesto en los artículos anteriores.
 
-### CAPITULO III.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-DE LA TUTELA LEGITIMA DE LOS MENORES.
+### CAPITULO III.. DE LA TUTELA LEGITIMA DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### Artículo 504.
 
@@ -3833,9 +3835,9 @@ A falta de tutor testamentario y de persona que con arreglo a los artículos ant
 
 El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
 
-### CAPITULO V.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DEPOSITADOS EN ESTABLECIMIENTOS DE BENEFICENCIA.
+### CAPITULO V.. DE LA TUTELA LEGITIMA DE NIÑAS, NIÑOS Y ADOLESCENTES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DEPOSITADOS EN ESTABLECIMIENTOS DE BENEFICENCIA
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
 
@@ -4177,23 +4179,45 @@ El tutor que entre a la administración de los bienes sin que se haya nombrado c
 
 El tutor está obligado:
 
-I.- A alimentar y educar al incapacitado;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-II.- A destinar de preferencia los recursos del incapacitado a la curación de sus enfermedades o a su regeneración si es un ebrio consuetudinario o abusa habitualmente de las drogas enervantes;
+I.- A alimentar y educar al pupilo;
 
-III.- A formar inventario solemne y circunstanciado de cuanto constituye el patrimonio del incapacitado, dentro del término que el juez designe, con intervención del curador y del mismo incapacitado si goza de discernimiento y ha cumplido dieciséis años de edad.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+II.- A destinar de preferencia los recursos del pupilo a la curación de sus enfermedades o a su regeneración si es un ebrio consuetudinario o abusa habitualmente de las drogas enervantes;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+III.- A formar inventario solemne y circunstanciado de cuanto constituya el patrimonio del pupilo, dentro del término que el juez designe, con intervención del curador y del pupilo.
 
 El término para formar el inventario no podrá ser mayor de tres meses;
 
-IV.- A administrar el caudal de los incapacitados.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-El pupilo será consultado para los actos importantes de la administración, cuando es capaz de discernimiento y mayor de dieciséis años; la falta de consulta no surte efectos contra tercero.
+IV.- A asistir al pupilo en la administración de sus bienes. El tutor apoyará al pupilo en actos de administración observando, en los casos que corresponda, lo dispuesto en la fracción VII del presente artículo y las disposiciones aplicables de la Ley General de los Derechos de las Niñas, Niños y Adolescentes, así como de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+El pupilo será consultado para los actos importantes de la administración.
 
 La administración de los bienes que el pupilo ha adquirido con su trabajo, le corresponde a él y no al tutor;
 
-V.- A representar al incapacitado, en juicio y fuera de él, en todos los actos civiles con excepción del matrimonio, del reconocimiento de hijos, del testamento y de otros estrictamente personales;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-VI.- A solicitar oportunamente la autorización judicial para todo lo que legalmente no puede hacer sin ella.
+V.- A representar al pupilo, en juicio y fuera de él, en todos los actos civiles con excepción del matrimonio, del reconocimiento de hijos, del testamento y de otros estrictamente personales;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+VI.- A solicitar oportunamente la autorización judicial para todo lo que legalmente no pueda hacer sin ella;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+VII.- A asistir al pupilo en la toma de decisiones, sin sustituir su voluntad; y
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+VIII.- A observar el interés superior de la niñez en la toma de decisiones sobre asuntos que atañen a niñas, niños o adolescentes bajo su tutela.
 
 ###### Artículo 561.
 
@@ -17640,3 +17664,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentarias que se opongan al mismo.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 467.- SE REFORMA Y ADICIONA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
