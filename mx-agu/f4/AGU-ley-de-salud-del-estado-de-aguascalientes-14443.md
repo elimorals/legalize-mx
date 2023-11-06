@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2023-10-27"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -920,6 +920,28 @@ Los usuarios tendrán derecho a obtener prestaciones de salud oportunas y de cal
 ARTICULO 57 BIS.- Las mujeres embarazadas sin control prenatal, adultos mayores, enfermos postrados o terminales, las personas en situación de abandono, así como personas con discapacidad imposibilitados para acudir a una unidad de salud, podrán recibir los servicios de salud a través del programa El Médico en Tu Casa, a través de las instituciones médicas que cuenten con el programa.
 
 Para efectos de lo señalado en el presente artículo se entenderá por persona en situación de abandono, aquella que por su situación social o familiar viven abandonadas por sus familiares en su domicilio y son apoyados por algún vecino o cualquier persona.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+ARTICULO 57 TER.- Los usuarios tienen derecho a decidir libremente sobre la aplicación de los procedimientos diagnósticos y terapéuticos ofrecidos. En caso de urgencia o que el usuario se encuentre en estado de incapacidad transitoria o permanente, la autorización para proceder será otorgada por el familiar que lo acompañe o su representante legal. En caso de no ser posible lo anterior, el prestador de servicios de salud procederá de inmediato para preservar la vida y salud del usuario, dejando constancia en el expediente clínico.
+
+Los usuarios de los servicios públicos de salud en general, contarán con facilidades para acceder a una segunda opinión.
+
+El consentimiento informado constituye el núcleo del derecho a la salud, tanto desde la perspectiva de la libertad individual como de las salvaguardas para el disfrute del mayor estándar de salud.
+
+El consentimiento informado es la conformidad expresa de una persona, manifestada por escrito, para la realización de un diagnóstico o tratamiento de salud.
+
+Todos los prestadores de servicios de salud, públicos o privados, están obligados a comunicar a la persona, de manera accesible, oportuna y en lenguaje comprensible, la información veraz y completa, incluyendo los objetivos, los posibles beneficios y riesgos esperados y las alternativas de tratamiento, para asegurar que los servicios se proporcionen sobre la base del consentimiento libre e informado.
+
+Una vez garantizada la comprensión de la información a través de los medios y apoyos necesarios, la población usuaria de los servicios de salud tiene el derecho de aceptarlos o rechazarlos.
+
+En situaciones en las que una persona no pueda dar su consentimiento para un tratamiento en un momento específico por ningún medio, no exista un documento de voluntad anticipada y su salud se encuentre en tal estado que, si el tratamiento no se administra de inmediato, su vida estaría expuesta a un riesgo inminente o su integridad física a un daño irreversible, el prestador de servicios de salud procederá de inmediato para preservar la vida y salud del usuario, dejando constancia en el expediente clínico, otorgando informe justificado a los Comités de Ética y a la autoridad judicial competente.
+
+En el caso de las niñas, niños y adolescentes, sus padres fungirán como sus representantes, y constituye una obligación por parte de los prestadores de servicios de atención a la salud implementar los apoyos y ajustes razonables, adecuados a su edad para que su voluntad y preferencias sean tomadas en cuenta en la determinación del tipo de intervenciones encaminadas a garantizar su recuperación y bienestar.
+
+Se entenderá como ajustes razonables a las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales.
+
+No se entenderá que la persona no puede dar su consentimiento cuando se estime que está en un error o que no tiene conciencia de lo que hace.
 
 ###### ARTICULO 58.
 
@@ -4563,33 +4585,13 @@ Para el cumplimiento del presente Decreto, se deberán llevar a cabo a través d
 
 Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 23/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL TERCER TRIBUNAL UNITARIO DEL DECIMOPRIMER CIRCUITO, CON RESIDENCIA EN MORELIA, MICHOACÁN; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS DEL CIRCUITO INDICADO”.]
+P.O. 6 DE NOVIEMBRE DE 2023.
 
-PRIMERO. El presente Acuerdo entrará en vigor el uno de noviembre de dos mil diecisiete, con excepción de lo previsto en el Transitorio TERCERO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 465.- SE ADICIONA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES".]
 
-SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+###### ARTÍCULO ÚNICO.
 
-TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
-
-Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
-
-CUARTO. Se reforma el numeral SEGUNDO, fracción XI, número 2, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Distritos y Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. …
-
-I. a X. …
-
-XI. …
-
-1. …
-
-2. Tres tribunales unitarios con sede en Morelia.
-
-3. …
-
-XII. a XXXII. …”
-
-D.O.F. 31 DE OCTUBRE DE 2017.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 27/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL SEXTO TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA TERCERA REGIÓN, CON RESIDENCIA EN MORELIA, MICHOACÁN, Y SU TRANSFORMACIÓN EN TERCER TRIBUNAL COLEGIADO EN MATERIAS ADMINISTRATIVA Y DE TRABAJO DEL DECIMOPRIMER CIRCUITO, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES, Y A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DE LA SEMIESPECIALIZACIÓN Y CIRCUITO INDICADOS".]
 
