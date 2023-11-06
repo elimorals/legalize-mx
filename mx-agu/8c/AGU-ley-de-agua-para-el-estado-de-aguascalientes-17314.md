@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2023-06-01"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 1 DE JUNIO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -177,9 +175,21 @@ IV. La gestión integral del agua y el fomento de cultura relativa a su cuidado 
 
 V. La prestación del servicio doméstico del agua tendrá preferencia en la distribución de este recurso respecto del resto de los usos previstos en esta Ley;
 
-VI. La contaminación de los recursos hídricos conllevará la responsabilidad de restaurar su calidad, conforme a la normatividad aplicable, por lo que la autoridad estará expedita para prevenir y sancionar las acciones y omisiones que puedan tener efectos nocivos sobre la calidad y disponibilidad del agua; y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-VII. Las autoridades implementarán las acciones necesarias para que el desarrollo de los centros urbanos se realice promoviendo el ordenamiento territorial y los mecanismos necesarios para proporcionar los servicios públicos, procurando en todo momento el equilibrio hídrico de conformidad con esta Ley.
+VI. La contaminación de los recursos hídricos conllevará la responsabilidad de restaurar su calidad, conforme a la normatividad aplicable, por lo que la autoridad estará expedita para prevenir y sancionar las acciones y omisiones que puedan tener efectos nocivos sobre la calidad y disponibilidad del agua;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+VII. Las autoridades implementarán las acciones necesarias para que el desarrollo de los centros urbanos se realice promoviendo el ordenamiento territorial y los mecanismos necesarios para proporcionar los servicios públicos, procurando en todo momento el equilibrio hídrico de conformidad con esta Ley;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+VIII. Las autoridades en el ámbito de su competencia, procurarán la reutilización e incremento de la captación del agua de lluvia en todo el territorio estatal; y
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+IX. La política hídrica estatal deberá garantizar la seguridad hídrica, entendida esta como la capacidad institucional y de la ciudadanía para salvaguardar el acceso sostenible a cantidades adecuadas y de calidad aceptable del agua para sostener los medios de vida y garantizar el desarrollo económico.
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
@@ -747,9 +757,13 @@ I. Doméstico;
 
 II. Comercial y de servicios;
 
-III. Industrial;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-IV. Agrícola y pecuario; y
+III. Agrícola y pecuario;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+IV. Industrial; y
 
 V. Los demás que determinen las autoridades del agua.
 
@@ -2646,3 +2660,15 @@ P.O. 13 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 343.- REFORMA DE LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Aguascalientes.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 456.- SE REFORMA Y ADICIONA LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciaría su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
