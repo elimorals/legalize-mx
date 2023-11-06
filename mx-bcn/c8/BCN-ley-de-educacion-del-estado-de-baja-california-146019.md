@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-146019"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2023-09-08"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección X del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -91,9 +91,9 @@ La autoridad educativa estatal y municipal, prestarán servicios educativos con 
 
 Para tal efecto realizarán entre otras, las siguientes acciones:
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-I. ESTABLECER POLÍTICAS INCLUYENTES, TRANSVERSALES Y CON PERSPECTIVA DE GÉNERO, PARA OTORGAR BECAS, APOYOS Y ESTÍMULOS ECONÓMICOS QUE PRIORICEN A LOS EDUCANDOS DE EXCELENCIA ACADÉMICA O CON ALGUNA DISCAPACIDAD Y ESTUDIANTES DESTACADOS EN LA CULTURA, DEPORTE O QUE ENFRENTEN CONDICIONES SOCIOECONÓMICAS QUE LES IMPIDAN EJERCER SU DERECHO A LA EDUCACIÓN BÁSICA Y MEDIA SUPERIOR;
+I. Establecer políticas incluyentes, transversales y con perspectiva de género, para otorgar becas, apoyos y estímulos económicos que prioricen a los educandos de excelencia académica o con alguna discapacidad y estudiantes destacados en la cultura, deporte o que enfrenten condiciones socioeconómicas que les impidan ejercer su derecho a la educación básica y media superior;
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
 
@@ -195,13 +195,15 @@ III. Modalidades, la escolarizada, no escolarizada y mixta, y
 
 IV. Opciones educativas, las que se determinen para cada nivel educativo en los términos de esta Ley y las disposiciones que de ella deriven, entre las que se encuentran la educación abierta y a distancia.
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO ANTEPENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-ADEMÁS DE LO ANTERIOR, SE CONSIDERAN PARTE DEL SISTEMA EDUCATIVO ESTATAL LA FORMACIÓN PARA EL TRABAJO, LA EDUCACIÓN PARA PERSONAS ADULTAS, LA EDUCACIÓN FÍSICA, LA EDUCACIÓN ARTÍSTICA E INDÍGENA, LA EDUCACIÓN AMBIENTAL, EDUCACIÓN INCLUSIVA Y LA EDUCACIÓN TECNOLÓGICA.
+Además de lo anterior, se consideran parte del Sistema Educativo Estatal la formación para el trabajo, la educación para personas adultas, la educación física, la educación artística e indígena, la educación ambiental, educación inclusiva y la educación tecnológica.
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-LA EDUCACIÓN ESPECIAL BUSCARÁ LA EQUIDAD Y LA INCLUSIÓN, LA CUAL DEBERÁ ESTAR DISPONIBLE PARA TODOS LOS TIPOS, NIVELES, MODALIDADES Y OPCIONES EDUCATIVAS ESTABLECIDAS EN ESTA LEY.
+La educación especial buscará la equidad y la inclusión, la cual deberá estar disponible para todos los tipos, niveles, modalidades y opciones educativas establecidas en esta Ley.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 De acuerdo con las necesidades educativas específicas de la población, podrá impartirse educación comunitaria con programas o contenidos particulares para ofrecerle una oportuna atención.
 
@@ -209,13 +211,15 @@ De acuerdo con las necesidades educativas específicas de la población, podrá 
 
 La educación en sus distintos tipos, niveles, modalidades y opciones educativas responderá a la diversidad lingüística, regional, sociocultural y biocultural del Estado, así como de la población rural dispersa y grupos migratorios, además de las características y necesidades de los distintos sectores de la población del Estado.
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 12.
 
-La educación física, artística e idioma inglés como materias permanentes y obligatorias al desarrollo armónico e integral del individuo en el proceso escolar, se aplicarán todos los niveles de educación básica y media superior, sin distinción alguna por motivos de discapacidad.
+La educación física, artística e idioma inglés como materias permanentes y obligatorias al desarrollo armónico e integral del individuo en el proceso escolar, se aplicarán (sic) todos los niveles de educación básica y media superior, sin distinción alguna por motivos de discapacidad.
 
 ### Capítulo II. Del tipo de Educación Básica
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN P.O. DE 6 DE NOVIEMBRE DE 2023, PÁGINA 57.]</small>
 
 ###### Artículo 13.
 
@@ -225,13 +229,13 @@ Los servicios que comprende este tipo de educación, entre otros, son:
 
 I. Inicial escolarizada y no escolarizada;
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-II. PREESCOLAR GENERAL, INDÍGENA Y COMUNITARIO;
+II. Preescolar general, indígena y comunitario;
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-III. PRIMARIA GENERAL, INDÍGENA Y COMUNITARIA;
+III. Primaria general, indígena y comunitaria;
 
 IV. Secundaria, entre las que se encuentran la general, técnica, comunitaria o las modalidades regionales autorizadas por la autoridad educativa federal;
 
@@ -239,15 +243,13 @@ V. Secundaria para trabajadores, y
 
 VI. Telesecundaria.
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO ANTEPENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-DE MANERA ADICIONAL, SE CONSIDERARÁN AQUELLOS PARA IMPARTIR EDUCACIÓN ESPECIAL, INCLUIDOS LOS CENTROS DE ATENCIÓN MÚLTIPLE Y LOS CENTRO DE ATENCIÓN INFANTIL (CAI), QUE SON LOS QUE ATIENDEN A NIÑOS Y NIÑAS DE 0 A 3 AÑOS EDAD.
+De manera adicional, se considerarán aquellos para impartir educación especial, incluidos los Centros de Atención Múltiple y los Centro (sic) de Atención Infantil (CAI), que son los que atienden a niños y niñas de 0 a 3 años edad.
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-DE MANERA ADICIONAL, SE CONSIDERARÁN AQUELLOS PARA IMPARTIR EDUCACIÓN ESPECIAL, INCLUIDOS LOS CENTROS DE ATENCIÓN MÚLTIPLE Y LOS CENTRO (SIC) DE ATENCIÓN INFANTIL (CAI), QUE SON LOS QUE ATIENDEN A NIÑOS Y NIÑAS DE 0 A 3 AÑOS EDAD.
-
-La autoridad educativa estatal a través del área que determine será la responsable de la aplicación de los programas y guías metodológicas oficiales en cada una de sus áreas, en los diferentes niveles educativos.
+La autoridad educativa estatal a través del área que determine, será la responsable de la aplicación de los programas y guías metodológicas oficiales en cada una de sus áreas, en los diferentes niveles educativos.
 
 ###### Artículo 14.
 
@@ -355,7 +357,7 @@ La educación superior tiene como propósito formar profesionistas e investigado
 
 Tratándose de instituciones educativas particulares de tipo superior con reconocimiento estatal de validez oficial de estudios, con el propósito de impulsar la mejora continua en la calidad de los servicios educativos que brindan, la categoría de Institución de Excelencia, de conformidad con la reglamentación que para tal efecto expida el Ejecutivo Estatal.
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 24.
 
@@ -397,41 +399,45 @@ El desarrollo tecnológico y la innovación, asociados a la actualización, a la
 
 ### Capítulo VI. De la Educación Indígena
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 31.
 
-En el Estado se garantizará el ejercicio de los derechos educativos, culturales y lingüísticos a todas las personas, pueblos y comunidades indígenas o afromexicanas, migrantes y jornaleros agrícolas. Las acciones educativas de las autoridades respectivas contribuirán al conocimiento, aprendizaje, reconocimiento, valoración, preservación y desarrollo tanto de la tradición oral y escrita indígena, como de las lenguas indígenas del Estado como medio de comunicación, de enseñanza, objeto y fuente de conocimiento.
+El Estado garantizará el ejercicio de los derechos en materia de educación, cultura y lengua a todas las personas, pueblos y comunidades indígenas, así como afromexicanas.
 
-La educación indígena debe atender las necesidades educativas de las personas, pueblos y comunidades indígenas con pertinencia cultural y lingüística; además de basarse en el respeto, promoción y preservación del patrimonio histórico y las culturas del Estado.
+Las acciones en materia educativa de las autoridades respectivas contribuirán al conocimiento, aprendizaje, reconocimiento, valoración, revitalización, preservación y desarrollo de las lenguas indígenas, en su forma oral y escrita, como medio de comunicación, de enseñanza, objeto y fuente de conocimiento.
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+La educación indígena debe atender las necesidades educativas con enfoque intercultural plurilingüe con equidad e inclusión; de los niveles inicial, preescolar, primaria, secundaria y media superior con pertinencia cultural, social, lingüística, tradiciones, usos y costumbres, basada en el respeto a la cosmovisión, promoción, preservación y revitalización del patrimonio cultural e histórico de los pueblos y comunidades indígenas, así como afromexicanas que radican en el estado.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 32.
 
-Las autoridades educativas del Estado consultarán de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales nacionales e internacionales en la materia, cada vez que prevea medidas en materia educativa, relacionadas con los pueblos y comunidades indígenas o afromexicanas, respetando su autodeterminación en los términos del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
+Las autoridades educativas del Estado consultarán de buena fe, de manera previa, libre e informada, de acuerdo con las disposiciones legales nacionales e internacionales en la materia, cada vez que prevean medidas en materia educativa, relacionadas con los pueblos y comunidades indígenas, así como afromexicanas, respetando su autodeterminación en los términos del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 33.
 
-En materia de educación indígena, las autoridades educativas estatal y municipal podrán realizar lo siguiente, entre otras acciones:
+En materia de educación indígena, las autoridades educativas estatal y municipal mediante una estructura especializada deberá realizar lo siguiente, entre otras acciones:
 
-I. Fortalecer las escuelas de educación indígena, los centros educativos integrales y albergues escolares indígenas, en especial en lo concerniente a la infraestructura escolar, los servicios básicos y la conectividad;
+I. Fortalecer y dotar escuelas de educación indígena, centros educativos integrales y albergues escolares indígenas, con infraestructura necesaria para que, de manera enunciativa y no limitativa, puedan desarrollar sus usos y costumbres, ceremonias, artesanías, medicina tradicional, huertos, deportes, practicas socioculturales, juegos autóctonos, actividades físicas organizadas y artísticas, con equipamiento óptimo y tecnológico, acorde al contexto de cada comunidad, bibliotecas escolares, garantizando la equidad de todos los centros educativos.
 
-II. Desarrollar programas educativos que reconozcan la herencia cultural de los pueblos y comunidades indígenas o afromexicanas, y promover la valoración de distintas formas de producir, interpretar y transmitir el conocimiento, las culturas, saberes, lenguajes y tecnologías;
+II. Desarrollar programas y proyectos educativos que integren los saberes comunitarios y prácticas socioculturales de los pueblos y comunidades indígenas así como afromexicanas y que se reconozca la herencia cultural, cosmovisión, trabajo colectivo a favor de la comunidad indígena, respeto a la naturaleza, vestimenta originaria, lenguas indígenas, usos y costumbres, materiales didácticos y lúdicos en lenguas indígenas, medicina tradicional, artesanías, que sirvan de apoyo para los contextos de diversidad cultural y lingüísticos y de educación física.
 
-III. Elaborar, editar, mantener actualizados, distribuir y utilizar materiales educativos, entre ellos libros de texto gratuitos, en las diversas lenguas de las etnias que pueblan el Estado;
+III. Elaborar, actualizar, distribuir material educativo, didáctico, multimedia, lúdico, libros de texto gratuitos en las diversas lenguas indígenas, de los pueblos y comunidades, así como afromexicanas que viven en el Estado;
 
-IV. Fortalecer las instituciones públicas de formación docente, en especial las normales bilingües interculturales, la adscripción de los docentes en las localidades y regiones lingüísticas a las que pertenecen, así como impulsar programas de formación, actualización y certificación de maestras y maestros en las lenguas de las etnias que pueblan el Estado;
+IV. Fortalecer las instituciones públicas de formación docente, con una visión intercultural plurilingüe, donde se dé a conocer la cosmovisión de la diversidad cultural del Estado y del país, en los usos y costumbres, lenguas, formas de convivir, de elegir a representantes, que sirvan de herramienta, para la formación, actualización y certificación de maestras y maestros de las diferentes etnias y afromexicanas que viven en el Estado; involucrando a las instituciones de educación superior en la generación de una oferta educativa acorde a las necesidades formativas de docentes indígenas;
 
-V. Tomar en consideración, en las opiniones que emitan para la elaboración de los planes y programas de estudio, los sistemas de conocimientos de las comunidades indígenas y afromexicanas, para favorecer la recuperación cotidiana de las diferentes expresiones y prácticas culturales de cada pueblo en la vida escolar;
+V. Tomar en consideración las aportaciones que emitan los docentes de escuelas indígenas, así como los padres de familia y sabios de los pueblos y comunidades indígenas y afromexicanas para la elaboración de planes y programas de estudio, que permitan la preservación de su cosmovisión y cosmogonía, respetando los usos y costumbres;
 
-VI. Crear mecanismos y estrategias para incentivar el acceso, permanencia, tránsito, formación y desarrollo de los educandos con un enfoque intercultural y plurilingüe;
+VI. Elaborar mecanismos y estrategias, para que el educando pueda formarse, desarrollarse, con un enfoque intercultural, plurilingüe con respeto a sus usos y costumbres;
 
-VII. Establecer esquemas de coordinación entre las diferentes instancias de gobierno para asegurar que existan programas de movilidad e intercambio, nacional e internacional, dando especial apoyo a estudiantes de las comunidades indígenas o afromexicanas, en un marco de inclusión y enriquecimiento de las diferentes culturas, y
+VII. Establecer convenios de colaboración y coordinación entre las diferentes instancias educativas y gubernamentales para que existan programas de intercambio, nacional e internacional, donde se apoye a estudiantes y personal educativo de comunidades indígenas y afromexicanas, respetando sus usos y costumbres, permitiendo la inclusión y enriquecimiento de la diversidad de culturas;
 
-VIII. Impulsar la vinculación con las autoridades educativas de los Estados Unidos de América y demás países que tengan presencia industrial, comercial o de cualquier otra actividad empresarial en el Estado, para la formación de maestros y alumnos bilingües y binacionales.
+VIII. Impulsar la vinculación con las autoridades educativas de los Estados Unidos de América y de otros países con presencia industrial, comercial y empresarial en el Estado, para la formación de maestros y alumnos indígenas y afromexicanas bilingües y binacionales, mediante becas o estímulos para ello; y,
+
+IX. Garantizar la participación, formación y actualización de personas con conocimiento de la lengua y cultura indígena y afromexicana para que formen parte de la modalidad educativa indígena en el Estado.
 
 ### Capítulo VII. De la Educación Humanista
 
@@ -487,15 +493,15 @@ III. Impulsar programas y prácticas en materia de respeto y cuidado del medio a
 
 ### Capítulo VIII. De la Educación Inclusiva
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 37.
 
 La educación inclusiva se refiere al conjunto de acciones orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de todos los educandos, al eliminar prácticas de discriminación, exclusión y segregación.
 
-La educación inclusiva se basa en la valoración de la diversidad, adaptando el sistema para responder con equidad a las características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje de todos y cada uno de los educandos.
+La educación inclusiva se basa en la valoración de la diversidad, adaptando el sistema para responder con equidad a las características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje de todos y cada uno de los educandos, así como eliminar cualquier forma de exclusión, discriminación y cualquier condición que se erija en una barrera al aprendizaje y la participación.
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 38.
 
@@ -509,33 +515,31 @@ III. Favorecer la plena participación de los educandos, su educación y facilit
 
 IV. Instrumentar acciones para que ninguna persona quede excluida del Sistema Educativo Estatal por motivos de origen étnico o nacional, creencias religiosas, convicciones éticas, de conciencia o ideológicas, sexo, orientación sexual o de género, así como por sus características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje, entre otras;
 
-V. Realizar los ajustes razonables en función de las necesidades de las personas y otorgar los apoyos necesarios para facilitar su formación, libre desarrollo e integración en su entorno, y
+V. Realizar los ajustes razonables en función de las necesidades de las personas y otorgar los apoyos necesarios para facilitar su formación, libre desarrollo e integración en su entorno mediante el uso de la tecnología en salón de clase; y,
 
-VI. Proporcionar a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida, que favorezcan su inclusión laboral, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad.
+VI. Proporcionar a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida, que favorezcan su inclusión laboral, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad, con capacitación del docente y demás personal, incluyendo en las cartas descriptivas la metodología a aplicar a personas con discapacidad.
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 39.
 
 En la aplicación de esta Ley, se garantizará el derecho a la educación a los educandos con condiciones especiales transitorias o definitivas, aptitudes sobresalientes o que enfrenten barreras para el aprendizaje y la participación.
 
-Las autoridades educativas del Estado en el ámbito de su competencia y de conformidad a los criterios orientadores para la prestación de los servicios de educación especial que emita la autoridad educativa federal, para atender a los educandos con capacidades, circunstancias, necesidades, estilos y ritmo de aprendizaje diversos, realizará lo siguiente:
-
-I. Prestar educación especial en condiciones necesarias, previa decisión y valoración por parte de los educandos, madres y padres de familia o tutores, personal docente y, en su caso, derivados por una condición de salud, para garantizar el derecho a la educación de los educandos que enfrentan barreras para el aprendizaje y la participación;
+I. Prestar educación especial en condiciones necesarias, con personal docente capacitado, auxiliares de aulas, previa decisión y valoración por parte de los educandos, madres y padres de familia o tutores, personal docente y en su caso, derivados por una condición de salud, para garantizar el derecho a la educación de los educandos que enfrentan barreras para el aprendizaje y la participación;
 
 II. Ofrecer formatos accesibles para prestar educación especial, procurando en la medida de lo posible su incorporación a todos los servicios educativos, sin que esto cancele su posibilidad de acceder al servicio escolarizado;
 
-III. Prestar educación especial para apoyar a los educandos con alguna discapacidad o aptitudes sobresalientes en los niveles de educación obligatoria;
+III. Prestar educación especial para apoyar a los educandos con alguna discapacidad o aptitudes sobresalientes en los niveles de educación preescolar, primaria, secundaria y media superior;
 
 IV. Establecer un sistema de diagnóstico temprano y atención especializada para la eliminación de barreras para el aprendizaje y la participación;
 
-V. Garantizar la formación de todo el personal docente para que, en el ámbito de sus competencias, contribuyan a identificar y eliminar las barreras para el aprendizaje y la participación, y preste los apoyos que los educandos requieran;
+V. Garantizar la formación de todo el personal docente para que, en el ámbito de sus competencias, contribuyan a identificar y eliminar las barreras para el aprendizaje y la participación, y preste los apoyos que los educandos requieran en colaboración de auxiliares de aula;
 
-VI. Garantizar la satisfacción de las necesidades básicas de aprendizaje de los educandos con alguna discapacidad, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva, y
+VI. Garantizar la satisfacción de las necesidades básicas de aprendizaje de los educandos con alguna discapacidad, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva; y,
 
 VII. Promover actitudes, prácticas y políticas incluyentes para la eliminación de las barreras del aprendizaje en todos los actores sociales involucrados en educación.
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 40.
 
@@ -547,19 +551,15 @@ II. Facilitar la adquisición y el aprendizaje de la Lengua de Señas dependiend
 
 III. Asegurar que los educandos ciegos, sordos o sordociegos reciban educación en los lenguajes y los modos y medios de comunicación más apropiados a las necesidades de cada persona y en entornos que permitan alcanzar su máximo desarrollo académico, productivo y social;
 
-IV. Asegurar que se realicen ajustes razonables para las personas con discapacidad, y
+IV. Asegurar que se realicen ajustes razonables para las personas con discapacidad, en relación a la infraestructura de las aulas, tecnología, y todo el equipamiento necesario para que puedan integrarse; y,
 
 V. Proporcionar a los educandos con aptitudes sobresalientes la atención que requieran de acuerdo con sus capacidades, intereses y necesidades.
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 41.
 
-En el Sistema Educativo Estatal se atenderán las disposiciones en materia de accesibilidad señaladas en la presente Ley, la Ley General de Educación, la Ley General para la Inclusión de las Personas con Discapacidad, Reglamento de la Ley General para la Inclusión de las Personas con Discapacidad, la Ley Federal para Prevenir y Eliminar la Discriminación, la Ley para las Personas con Discapacidad en (sic) Estado de Baja California, Ley para Prevenir y Erradicar el Acoso Escolar para el Estado de Baja California y en las demás normas aplicables.
-
-Las autoridades educativas estatal y municipal promoverá (sic) y apoyarán la creación de huertos escolares en todas las escuelas de educación básica y media superior tanto en zonas rurales como urbanas, a fin de que los alumnos obtengan una herramienta para la autoproducción alimentaria, tanto en sus planteles escolares como en sus hogares.
-
-Tratándose de las escuelas rurales o dentro de núcleos de población ejidal que cuenten con parcela escolar, estás podrán celebrar convenios con la Secretaria de Integración y Bienestar Social para proporcionar alimentos con el fin de dar cumplimiento a los artículos 8º, VI, inciso b) de la Constitución Política del Estado Libre y Soberano del Estado de Baja California, y 3º, fracción XVI, inciso B) de la Ley de Desarrollo Social para el Estado de Baja California.
+En el Sistema Educativo Estatal se atenderán las disposiciones en materia de accesibilidad señaladas en la presente Ley, la Ley General de Educación, la Ley General para la Inclusión de las Personas con Discapacidad, Reglamento de la Ley General para la Inclusión de las Personas con Discapacidad, la Ley Federal para Prevenir y Eliminar la Discriminación, la Ley para las Personas con Discapacidad en Estado de Baja California, Ley para Prevenir y Erradicar el Acoso Escolar para el Estado de Baja California y en las demás normas aplicables.
 
 ### Capítulo IX. De la Educación para Personas Adultas
 
@@ -603,9 +603,9 @@ VI. Fomentar la manifestación de actividades positivas, individuales y grupales
 
 VII. Incrementar las actividades sociales favorables de respeto, cooperación y confianza en los demás mediante las actividades físicas grupales que promuevan su integración al medio y su relación interpersonal;
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-VIII. INCLUIR EN LA MEDIDA DE SUS POSIBILIDADES A LAS Y LOS ALUMNOS QUE CUENTAN CON ALGUNA DISCAPACIDAD CON LA FINALIDAD DE INTEGRARLOS AL MEDIO Y PROMOVER LAS RELACIONES INTERPERSONALES, Y
+VIII. Incluir en la medida de sus posibilidades a las y los alumnos que cuentan con alguna discapacidad con la finalidad de integrarlos al medio y promover las relaciones interpersonales; y,
 
 IX. Promover de (sic) la práctica de estilos de vida saludables en los educandos, con la finalidad de que las instituciones educativas públicas y privadas promuevan la práctica del deporte y actividades físicas en sus planteles educativos.
 
@@ -613,11 +613,11 @@ Para ser docente de educación física, se requiere haber obtenido el título de
 
 ### Capítulo XI. De la Formación para el Trabajo
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 46.
 
-LA FORMACIÓN PARA EL TRABAJO DEBERÁ ESTAR ENFOCADA EN LA ADQUISICIÓN DE CONOCIMIENTOS, HABILIDADES, DESTREZAS Y ACTITUDES, QUE PERMITAN A LA PERSONA DESEMPEÑAR UNA ACTIVIDAD PRODUCTIVA, MEDIANTE ALGUNA OCUPACIÓN O ALGÚN OFICIO CALIFICADO. SE REALIZARÁ PONIENDO ESPECIAL ATENCIÓN A LAS PERSONAS CON DISCAPACIDAD CON EL FIN DE DESARROLLAR CAPACIDADES PARA SU INCLUSIÓN LABORAL.
+La formación para el trabajo deberá estar enfocada en la adquisición de conocimientos, habilidades, destrezas y actitudes, que permitan a la persona desempeñar una actividad productiva, mediante alguna ocupación o algún oficio calificado. Se realizará poniendo especial atención a las personas con discapacidad con el fin de desarrollar capacidades para su inclusión laboral.
 
 Para la acreditación de conocimientos, habilidades, destrezas y capacidades -intermedios o terminales- de manera parcial y acumulativa, independientemente de la forma en que hayan sido adquiridos, se estará al régimen de certificación establecido por la autoridad educativa federal en términos de la Ley General de Educación, así como a los lineamientos generales que para tales efectos emita.
 
@@ -835,6 +835,18 @@ La información del expediente al que se refiere este artículo se proporcionar�
 
 Las autoridades educativas del Estado, en el ámbito de sus respectivas competencias, ofrecerán servicios de orientación educativa, de trabajo social y de psicología desde la educación básica hasta la educación superior, de acuerdo con la suficiencia presupuestal y a las necesidades de cada plantel, a fin de fomentar una conciencia crítica que perfile a los educandos en la selección de su formación a lo largo de la vida para su desarrollo personal y contribuir al bienestar de sus comunidades.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+Asimismo, las autoridades educativas del Estado, en coordinación con la Secretaría de Salud del Estado, deberán emitir programas o protocolos de promoción, prevención y abordaje de la salud mental de las y los estudiantes, mismos que se deberán revisar y actualizar periódicamente conforme el plazo que las autoridades determinen, el cual no podrá ser mayor de cinco años.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+El personal docente deberá recibir cursos de capacitación sobre el contenido de los programas o protocolos de salud mental por médicos especialistas calificados para impartir los cursos, que les permita obtener conocimientos mínimos de actuación en situaciones donde la o el estudiante requiera apoyo respecto su salud mental.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+Las áreas especializadas en psicología a que se refiere el artículo 73 de esta Ley, coadyuvarán con los centros escolares que así lo soliciten, en la capacitación y/o aplicación del programa o protocolos de salud mental.
+
 ### Capítulo II. Del Fomento de Estilos de Vida Saludables en el Entorno Escolar
 
 ###### Artículo 68.
@@ -849,9 +861,11 @@ Dentro de las escuelas queda prohibida la distribución y comercialización de l
 
 Las autoridades educativas estatal y municipal promoverán ante las autoridades correspondientes, la prohibición de la venta de alimentos con bajo valor nutritivo y alto contenido calórico en las inmediaciones de los planteles educativos, así como la emisión de los lineamientos correspondientes a fin de que en las escuelas públicas de educación básica del Estado se entreguen desayunos calientes diarios, en términos de lo previsto en la Constitución Política del Estado Libre y Soberano de Baja California.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 70.
 
-Las autoridades educativas estatal y municipal establecerán las bases para fomentar estilos de vida saludables que prevengan, atiendan y contrarresten, en su caso, el sobrepeso y la obesidad entre los educandos, como la activación física, el deporte escolar, la educación física, los buenos hábitos nutricionales, entre otros. En materia de la promoción de la salud escolar, las autoridades educativas estatal y municipal considerarán las Normas Oficiales Mexicanas respectivas.
+Las autoridades educativas estatal y municipal establecerán las bases para fomentar estilos de vida saludables que prevengan, atiendan y contrarresten, en su caso, el sobrepeso y la obesidad entre los educandos, como la activación física, el deporte escolar, la educación física, los buenos hábitos nutricionales, entre otros. En materia de la promoción de la salud escolar, las autoridades educativas estatal y municipal considerarán las Normas Oficiales Mexicanas respectivas; así como los programas o protocolos que se emitan relacionados con la salud mental de las y los estudiantes.
 
 ###### Artículo 71.
 
@@ -887,11 +901,11 @@ El cabal cumplimiento de esta disposición estará sujeta a la planeación o dis
 
 Los psicólogos y demás personal que se contrate para desempeñarse en las áreas especializadas en psicología tendrán la categoría de trabajadores de confianza adscritos a las autoridades educativas estatal y municipal o a los organismos descentralizados que imparten educación en el Estado.
 
-> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 73 Bis.
 
-Con la finalidad de preservar la salud y estabilidad psicoemocional de niñas, niños y adolescentes en nivel básico y medio superior, la Secretaría de Educación en coordinación con la Secretaría de Salud del Estado, en el marco de sus respectivas competencias, promoverán la implementación de acciones, programas o protocolos de actuación tendientes a prevenir, detectar, identificar y canalizar necesidades especiales en niñas, niños y adolescentes.
+Con la finalidad de preservar la salud mental de niñas, niños, adolescentes y jóvenes en nivel básico y medio superior, la Secretaría de Educación en coordinación con la Secretaría de Salud del Estado, en el marco de sus respectivas competencias, implementarán acciones, programas o protocolos de actuación tendientes a prevenir, detectar, identificar y canalizar necesidades especiales en niñas, niños y adolescentes y jóvenes.
 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 2023)</small>
 
@@ -973,9 +987,9 @@ La autoridad educativa estatal y la autoridad educativa municipal que impartan e
 
 Para el ingreso, la promoción en la función y en el servicio, así como para el otorgamiento de reconocimientos, del ejercicio docente en instituciones públicas del Estado en educación básica y media superior, se estará a lo dispuesto por (sic) Ley General del Sistema para la Carrera de las Maestras y los Maestros.
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-EN EL CASO DE LOS DOCENTES DE EDUCACIÓN INDÍGENA QUE NO TENGAN LICENCIATURA COMO NIVEL MÍNIMO DE FORMACIÓN, DEBERÁN PARTICIPAR EN LOS PROGRAMAS DE CAPACITACIÓN QUE DISEÑE LA AUTORIDAD EDUCATIVA ESTATAL Y CERTIFICAR SU BILINGÜISMO EN LA LENGUA INDÍGENA QUE CORRESPONDA Y EL ESPAÑOL.
+En el caso de los docentes de educación indígena que no tengan licenciatura como nivel mínimo de formación, deberán participar en los programas de capacitación que diseñe la autoridad educativa estatal y certificar su bilingüismo en la lengua indígena que corresponda y el español.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
@@ -1019,9 +1033,9 @@ Asimismo, impulsarán los proyectos pedagógicos y de desarrollo de la docencia 
 
 Las personas egresadas de las instituciones formadoras de docentes del Estado contarán con el conocimiento de diversos enfoques pedagógicos y didácticos que les permita atender las necesidades de aprendizaje de las niñas, los niños, adolescentes y jóvenes.
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-EN LOS PLANES Y PROGRAMAS DE ESTUDIO DE LAS INSTITUCIONES FORMADORAS DE DOCENTES, SE PROMOVERÁ EL DESARROLLO DE COMPETENCIAS EN EDUCACIÓN INICIAL Y CON ENFOQUE DE INCLUSIÓN PARA TODOS LOS TIPOS EDUCATIVOS; ASIMISMO, SE CONSIDERARÁN MODELOS DE FORMACIÓN DOCENTE ESPECIALIZADA EN LA EDUCACIÓN ESPECIAL QUE ATIENDAN LOS DIVERSOS TIPOS DE DISCAPACIDAD.
+En los planes y programas de estudio de las instituciones formadoras de docentes, se promoverá el desarrollo de competencias en educación inicial y con enfoque de inclusión para todos los tipos educativos; asimismo, se considerarán modelos de formación docente especializada en la educación especial que atiendan los diversos tipos de discapacidad.
 
 ###### Artículo 85.
 
@@ -1093,11 +1107,11 @@ Todos los planteles educativos, públicos o privados, deben cumplir con las norm
 
 En la educación que impartan los particulares con autorización o con reconocimiento de validez oficial de estudios, debe demostrarse además el cumplimiento de las obligaciones señaladas en el artículo 147, fracción II de la Ley General de Educación.
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 91.
 
-LA AUTORIDAD EDUCATIVA TANTO ESTATAL COMO MUNICIPAL ATENDERÁN DE MANERA PRIORITARIA LAS ESCUELAS QUE, POR ESTAR EN LOCALIDADES AISLADAS, ZONAS URBANAS MARGINADAS O CON ALTOS ÍNDICES DE POBREZA, RURALES Y COMUNIDADES INDÍGENAS, TENGAN MAYOR POSIBILIDAD DE REZAGO O ABANDONO ESCOLAR, ESTABLECIENDO CONDICIONES FÍSICAS Y DE EQUIPAMIENTO QUE PERMITAN PROPORCIONAR EDUCACIÓN CON EQUIDAD E INCLUSIÓN EN DICHAS LOCALIDADES.
+La autoridad educativa tanto estatal como municipal atenderán de manera prioritaria las escuelas que, por estar en localidades aisladas, zonas urbanas marginadas o con altos índices de pobreza, rurales y comunidades indígenas, tengan mayor posibilidad de rezago o abandono escolar, estableciendo condiciones físicas y de equipamiento que permitan proporcionar educación con equidad e inclusión en dichas localidades.
 
 En materia de inclusión se realizarán acciones, de manera gradual, orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de todos los educandos que mejoren las condiciones de la infraestructura física del inmueble escolar.
 
@@ -1301,9 +1315,9 @@ IV. En coordinación con la Secretaría de Salud del Estado, promoverán y organ
 
 V. Contribuir a reducir las condiciones sociales adversas que influyan en la educación, a través de proponer acciones específicas para su atención;
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-VI. LLEVAR A CABO LAS ACCIONES DE PARTICIPACIÓN, COORDINACIÓN Y DIFUSIÓN NECESARIAS PARA LA PROTECCIÓN CIVIL Y LA EMERGENCIA ESCOLAR, CONSIDERANDO LAS CARACTERÍSTICAS Y NECESIDADES DE LAS PERSONAS CON DISCAPACIDAD, ASÍ COMO EL DESARROLLO DE PLANES PERSONALES DE EVACUACIÓN QUE CORRESPONDAN CON EL ATLAS DE RIESGOS DE LA LOCALIDAD EN QUE SE ENCUENTREN;
+VI. Llevar a cabo las acciones de participación, coordinación y difusión necesarias para la protección civil y la emergencia escolar, considerando las características y necesidades de las personas con discapacidad, así como el desarrollo de planes personales de evacuación que correspondan con el Atlas de Riesgos de la localidad en que se encuentren;
 
 VII. Promover cooperativas con la participación de la comunidad educativa, las cuales tendrán un compromiso para fomentar estilos de vida saludables en la alimentación de los educandos. Su funcionamiento se apegará a los criterios de honestidad, integridad, transparencia y rendición de cuentas en su administración. La autoridad educativa estatal emitirá los lineamientos para su operación, de conformidad con las disposiciones aplicables;
 
@@ -1317,9 +1331,9 @@ En caso de incumplimiento de alguna de las obligaciones a las que se refiere est
 
 En cada municipio del Estado de Baja California, se podrá instalar y operar un Consejo Municipal de Participación Escolar en la Educación, integrado por las autoridades municipales, asociaciones de madres y padres de familia, maestras y maestros. Este consejo, ante el ayuntamiento y la autoridad educativa respectiva, podrá:
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-I. GESTIONAR EL MEJORAMIENTO DE LOS SERVICIOS EDUCATIVOS, LA CONSTRUCCIÓN Y AMPLIACIÓN DE ESCUELAS PÚBLICAS, TOMANDO EN CUENTA LAS NECESIDADES DE ACCESIBILIDAD PARA LAS PERSONAS CON DISCAPACIDAD, Y DEMÁS PROYECTOS DE DESARROLLO EDUCATIVO EN EL MUNICIPIO;
+I. Gestionar el mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas, tomando en cuenta las necesidades de accesibilidad para las personas con discapacidad, y demás proyectos de desarrollo educativo en el municipio;
 
 II. Estimular, promover y apoyar actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos y sociales;
 
@@ -1369,7 +1383,7 @@ Los medios de comunicación masiva, de conformidad con el marco jurídico que le
 
 La autoridad educativa estatal promoverá, ante las autoridades competentes, las acciones necesarias para dar cumplimiento al párrafo anterior, con apego a las disposiciones legales aplicables.
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 115.
 
@@ -1523,9 +1537,9 @@ XIII. Administrar a los educandos, sin previa prescripción médica y consentimi
 
 XIV. Promover en los educandos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes;
 
-(NOTA: EL 12 DE AGOSTO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-XV. EXPULSAR, SEGREGAR O NEGARSE A PRESTAR EL SERVICIO EDUCATIVO A PERSONAS CON DISCAPACIDAD O QUE PRESENTEN PROBLEMAS DE APRENDIZAJE; OBLIGAR A LOS EDUCANDOS A SOMETERSE A TRATAMIENTOS MÉDICOS PARA CONDICIONAR SU ACEPTACIÓN O PERMANENCIA EN EL PLANTEL, O BIEN, PRESIONAR DE CUALQUIER MANERA A SUS MADRES Y PADRES DE FAMILIA O TUTORES PARA QUE SE LOS REALICEN, SALVO CAUSA DEBIDAMENTE JUSTIFICADA A JUICIO DE LAS AUTORIDADES EDUCATIVAS;
+XV. Expulsar, segregar o negarse a prestar el servicio educativo a personas con discapacidad o que presenten problemas de aprendizaje; obligar a los educandos a someterse a tratamientos médicos para condicionar su aceptación o permanencia en el plantel, o bien, presionar de cualquier manera a sus madres y padres de familia o tutores para que se los realicen, salvo causa debidamente justificada a juicio de las autoridades educativas;
 
 XVI. Incumplir con las medidas correctivas o precautorias derivadas de las visitas;
 
@@ -1768,3 +1782,19 @@ P.O. 8 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 80 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 295 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6, 10, 12, 13, 24, 31, 32, 33, 37, 38, 39, 40, 41, 45, 46, 80, 84, 91, 109, 110, 115 Y 126 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Remítase copia certificada del presente Dictamen para que obre como legalmente corresponda dentro de la Acción de Inconstitucionalidad 18/2021.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 308 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 12 Y 18 DE LA LEY DE SALUD MENTAL DEL ESTADO DE BAJA CALIFORNIA, ASI MISMO SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 67, 70 Y 73 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las autoridades educativas del Estado en un plazo de seis meses contados a partir de la vigencia del presente Decreto, actualizarán y/o emitirán los programas o protocolos de promoción, prevención y abordaje de la salud mental de los estudiantes.
