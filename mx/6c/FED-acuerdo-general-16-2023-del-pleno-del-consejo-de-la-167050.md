@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-16-2023-del-pleno-del-consejo-de-la-167050"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2023-07-14"
-last_updated: "2023-07-14"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167050&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-07-05"
 
 ACUERDO GENERAL 16/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA MEDIDA DE AUXILIO TEMPORAL POR PARTE DE LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE AGUASCALIENTES Y QUERÉTARO AL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2023.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 14 de julio de 2023.
 
@@ -63,7 +63,9 @@ ACUERDO
 
 Se habilita a los Centros de Justicia Penal Federal en los Estados de Aguascalientes y Querétaro como auxiliares del Centro de Justicia Penal Federal en el Estado de Guanajuato, para que conozcan de los asuntos siguientes:
 
-I. Las audiencias iniciales e intermedias sin persona detenida, que se encuentran agendadas y pendientes por celebrar en el Centro de Justicia Penal Federal en el Estado de Guanajuato, con residencia en la ciudad del mismo nombre, atendiendo a la distribución de los órganos de amparo, conforme al siguiente esquema:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 30/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE NOVIEMBRE DE 2023)</small>
+
+I. Las audiencias iniciales e intermedias sin persona detenida, que se encuentran pendientes por celebrar en el Centro de Justicia Penal Federal en el Estado de Guanajuato, con residencia en la ciudad del mismo nombre, atendiendo a la distribución de los órganos de amparo, conforme al siguiente esquema:
 
 CJPF auxiliares Asuntos provenientes de los municipios del estado
 
@@ -83,7 +85,9 @@ Yuriria, Jaral del Progreso, Comonfort, Tarandacuao,
 
 Apaseo el Grande y Celaya.
 
-II. Todos los asuntos de nuevo ingreso en la etapa de control que provengan de los municipios precisados en este artículo, serán tramitados y las audiencias correspondientes desahogadas en su totalidad por los Centros de Justicia auxiliares.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 30/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE NOVIEMBRE DE 2023)</small>
+
+II. Todos aquellos asuntos de nuevo ingreso que provengan de los municipios precisados en este artículo cuyo conocimiento corresponda al juez de control, serán tramitados y las audiencias correspondientes desahogadas en su totalidad por los Centros de Justicia auxiliares.
 
 Los Tribunales Colegiados de Apelación que fungen como Tribunales de Alzada en los Centros de Justicia Penal Federal en los Estados de Aguascalientes y Querétaro conocerán de los recursos que se interpongan contra las determinaciones y resoluciones emitidas en los asuntos provenientes de los municipios señalados en este artículo, respectivamente.
 
@@ -170,3 +174,13 @@ QUINTO. La persona administradora del Centro de Justicia Penal Federal en el Est
 SEXTO. Las personas administradoras de los Centros de Justicia Penal Federal en los Estados de Guanajuato, Querétaro y Aguascalientes deberán fijar avisos en lugar visible en relación con la medida objeto del presente Acuerdo.
 
 EL MAGISTRADO JOSÉ ALFONSO MONTALVO MARTÍNEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 16/2023, del Pleno del Consejo de la Judicatura Federal, relativo a la medida de auxilio temporal por parte de los Centros de Justicia Penal Federal en los estados de Aguascalientes y Querétaro al Centro de Justicia Penal Federal en el estado de Guanajuato, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de 21 de junio de 2023, por unanimidad de votos de los señores Consejeros: Presidenta Ministra Norma Lucía Piña Hernández, Bernardo Bátiz Vázquez, Eva Verónica de Gyvés Zárate, Lilia Mónica López Benítez y Sergio Javier Molina Martínez.- Ciudad de México, a 5 de julio de 2023.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 30/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 16/2023, RELATIVO A LA MEDIDA DE AUXILIO TEMPORAL POR PARTE DE LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE AGUASCALIENTES Y QUERÉTARO AL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE GUANAJUATO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
