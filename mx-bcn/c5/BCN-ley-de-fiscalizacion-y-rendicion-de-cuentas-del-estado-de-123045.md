@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12304
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-11"
-last_updated: "2023-03-03"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123045&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección I al Número 37 del Periódico Oficial del Estado de Baja California, el viernes 11 de agosto de 2017.
 
@@ -125,17 +125,25 @@ XXI. Órgano Constitucional Autónomo: Son los órganos creados inmediata y fund
 
 XXII. Órgano Interno de Control: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los Entes Públicos, así como de la investigación, substanciación y, en su caso, de sancionar las faltas administrativas que le competan en los términos previstos en la legislación aplicable en materia de responsabilidades administrativa (sic);
 
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+XXII BIS. Perspectiva de Género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
+
 XXIII. Presupuesto de Egresos: El Presupuesto de Egresos de cada uno de los Entes Públicos, del ejercicio fiscal correspondiente;
 
 XXIV. Proceso concluido: Aquél que las Entidades reporten como tal, en el Informe de Avance de Gestión Financiera, con base en el gasto devengado, y/o pagado, conforme a la Ley General de Contabilidad Gubernamental y las demás disposiciones aplicables;
 
-XXV. Programas: Los señalados en la Ley de Planeación para el Estado de Baja California, en la Ley de Presupuesto y Ejercicio del Gasto Público del Estado y los contenidos en el Presupuesto de Egresos, con base en los cuales las Entidades Fiscalizadas realizan sus actividades en cumplimiento de sus atribuciones y se presupuesta el gasto público;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+XXV. Programas: Los señalados en la Ley de Planeación para el Estado de Baja California, en la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California y los contenidos en el Presupuesto de Egresos, con base en los cuales las Entidades Fiscalizadas realizan sus actividades en cumplimiento de sus atribuciones y se presupuesta el gasto público;
 
 XXVI. Programa Operativo Anual: El documento que sustenta el Presupuesto de Egresos de los Entes Públicos y que convierte los lineamientos de la Planeación Estatal y Municipal económica y social, en objetivos, resultados y metas concretas, señalando responsables de cada Programa, estableciendo indicadores para medir su costo, beneficios y tiempo para su ejecución;
 
 XXVII. Recursos Públicos: Los ingresos, independientemente de su origen; egresos y patrimonio que recaudan, administran y ejercen las Entidades Fiscalizadas, así como los derechos y obligaciones propiedad de las mismas;
 
-XXVIII. Reuniones de Trabajo: Es la reunión realizada con las Entidades Fiscalizadas, sus servidores públicos o quienes dejaron de serlo, terceros, y la Auditoría Superior del Estado en el proceso de fiscalización;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+XXVIII. Reunión: La o las reuniones realizadas con las Entidades Fiscalizadas, sus servidores públicos o quienes dejaron de serlo, terceros, y la Auditoría Superior del Estado en el proceso de fiscalización, así como para conocer directamente el ejercicio de sus funciones;
 
 XXIX. Servidores públicos: Los señalados en la Constitución y en la legislación aplicable en materia de responsabilidades administrativas;
 
@@ -183,7 +191,9 @@ Los servidores públicos, así como cualquier entidad, persona física o moral, 
 
 De no proporcionar la información, los responsables serán sancionados en los términos de la presente Ley, con independencia de lo que prevea la legislación aplicable en materia de responsabilidades administrativas y, en su caso, en términos de la legislación penal aplicable.
 
-Cuando esta Ley no prevea plazo, la Auditoría Superior del Estado podrá fijarlo y no será inferior a diez días hábiles ni mayor a quince días hábiles, contados a partir del día siguiente a que haya surtido efectos la notificación correspondiente.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+Cuando esta Ley no prevea plazo, la Auditoría Superior del Estado podrá fijarlo y no será inferior a cinco días hábiles ni mayor a quince días hábiles, contados a partir del día siguiente de su notificación.
 
 Derivado de la complejidad de los requerimientos de información formulados por la Auditoría Superior del Estado, las Entidades Fiscalizadas podrán solicitar por escrito fundado, un plazo mayor para atenderlo; la Auditoría Superior del Estado determinará si lo concede por un término que no deberá exceder de cinco días hábiles, sin que pueda prorrogarse de modo alguno.
 
@@ -193,7 +203,9 @@ Las personas a que se refiere este artículo deberán acompañar a la informaci�
 
 La Auditoría Superior del Estado podrá imponer multas, conforme a lo siguiente:
 
-I. Cuando no se atiendan los requerimientos a que refiere el artículo precedente, o bien obstaculicen la actividad fiscalizadora, salvo que exista disposición legal o mandato judicial que lo impida, o por causas ajenas a su responsabilidad, la Auditoría Superior del Estado podrá imponer:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+I. Cuando no se atiendan, o se atiendan de forma incompleta o fuera del plazo otorgado, los requerimientos a que refiere el artículo precedente, o bien obstaculicen la actividad fiscalizadora, salvo que exista disposición legal o mandato judicial que lo impida, o por causas ajenas a su responsabilidad, la Auditoría Superior del Estado podrá imponer:
 
 a) A los servidores públicos y las personas físicas una multa mínima de ciento cincuenta a una máxima de dos mil veces el valor diario de la Unidad de Medida y Actualización;
 
@@ -201,11 +213,19 @@ b) Tratándose de personas morales, públicas o privadas, la multa consistirá e
 
 II. Se aplicarán las multas previstas en este artículo a los terceros que hubieran firmado contratos para explotación de bienes públicos o recibido en concesión o subcontratado obra pública, administración de bienes o prestación de servicios mediante cualquier título legal con las entidades fiscalizadas, cuando no entreguen la documentación e información que les requiera la Auditoría Superior del Estado;
 
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+II BIS. Cuando no se presente la Cuenta Pública y/o los Informes de Avance de Gestión al Congreso, en los plazos y términos que establece esta Ley, se aplicará a la persona titular de la Entidad Fiscalizada, una multa por cada omisión, que consistirá en un mínimo de ciento cincuenta a mil veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+II TER. Cuando no se atienda el requerimiento de información a que hace mención el artículo 77 de esta Ley, se aplicará a la persona titular del Órgano Interno de Control, una multa por cada omisión, que consistirá en un mínimo de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización;
+
 III. La reincidencia se sancionará con una multa hasta del doble de la impuesta anteriormente, sin perjuicio de que persista la obligación de atender el requerimiento respectivo;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-IV. Las multas establecidas en esta Ley tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida. La Secretaría de Hacienda del Estado se encargará de hacer efectivo su cobro en términos del Código Fiscal del Estado, y de las demás disposiciones aplicables;
+IV. Las multas establecidas en esta Ley tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida. La Secretaría de Hacienda del Estado se encargará de hacer efectivo su cobro en términos del Código Fiscal del Estado de Baja California, y de las demás disposiciones aplicables;
 
 V. Para imponer la multa que corresponda, la Auditoría Superior del Estado, debe oír previamente al presunto infractor y tener en cuenta sus condiciones económicas, así como la gravedad de la infracción cometida y en su caso, elementos atenuantes, su nivel jerárquico y la necesidad de evitar prácticas tendientes a contravenir las disposiciones contenidas en esta Ley; y,
 
@@ -215,9 +235,15 @@ VI. Las multas que se impongan en términos de este artículo son independientes
 
 La Auditoría Superior del Estado celebrará los convenios y/o mecanismos de colaboración con la Secretaría de Hacienda del Estado, para que los ingresos derivados de estas multas se reintegren a la Auditoría Superior del Estado, los cuales serán destinados a propiciar el desarrollo institucional y mejora continua del mismo, conforme a su Plan de Desarrollo Institucional, y en ningún caso podrá destinarse al pago de sueldos, salarios o incentivos económicos.
 
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+La Auditoría Superior del Estado, a través de la persona Titular, podrá emitir el reglamento para normar el procedimiento relativo a la imposición de las multas descritas en este artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 12.
 
-La negativa a entregar información a la Auditoría Superior del Estado, así como los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora será sancionada conforme a la legislación aplicable en materia de responsabilidades administrativa (sic) y la ley penal aplicable.
+La negativa a entregar o proporcionar de forma incompleta información a la Auditoría Superior del Estado, así como los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora será sancionada conforme a la legislación aplicable en materia de responsabilidades administrativa y la ley penal aplicable.
 
 Cuando los servidores públicos y las personas físicas y morales, públicas o privadas aporten información falsa, serán sancionados penalmente conforme a las disposiciones legales que regulan la materia.
 
@@ -229,9 +255,11 @@ Cuando los servidores públicos y las personas físicas y morales, públicas o p
 
 El Informe de Avance de Gestión Financiera deberá ser integrado en los mismos términos de la Cuenta Pública a que se refiere el artículo 19 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 14.
 
-La información a que se refiere el artículo anterior deberá ser presentada de forma impresa, en dispositivos electrónicos de almacenamiento de datos de uso común o a través de medios remotos de comunicación electrónica en los términos que lo regule la ley de la materia, y de conformidad con los lineamientos de carácter general que en su caso se establezcan por la Auditoría Superior del Estado.
+La información a que se refiere el artículo anterior deberá ser presentada de forma impresa y en dispositivos electrónicos de almacenamiento de datos de uso común o a través de medios electrónicos en los términos que lo regule la ley de la materia, y de conformidad con los lineamientos de carácter general que en su caso se establezcan por la Auditoría Superior del Estado.
 
 ###### Artículo 15.
 
@@ -241,15 +269,23 @@ La documentación original comprobatoria y justificatoria del ingreso y gasto p�
 
 En los casos en que las Entidades Fiscalizadas incumplan con lo dispuesto en el artículo anterior se aplicará lo dispuesto en los artículos 11 y 12 de esta Ley.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 17.
 
-Las Entidades Fiscalizadas deberán remitir al Congreso los Informes de Avance de Gestión Financiera por los trimestres primero, segundo y tercero de cada año, a más tardar el último día hábil de los meses de abril, julio y octubre del ejercicio en curso, respectivamente, con cifras y datos mensuales y acumulados al último día del último mes del trimestre que se informa y que corresponderán a la Cuenta Pública del año en curso. La información correspondiente al cuarto trimestre se considerará incluida en la Cuenta Pública del ejercicio de que se trate.
+Las Entidades Fiscalizadas deberán remitir al Congreso los Informes de Avance de Gestión Financiera por los trimestres primero, segundo y tercero de cada año, a más tardar el último día hábil de los meses de abril, julio y octubre del ejercicio en curso, respectivamente, con cifras y datos mensuales y acumulados al último día del último mes del trimestre que se informa y que corresponderán a la Cuenta Pública del año en curso.
 
-Transcurridos los plazos señalados en el párrafo anterior sin que se hubieren remitido los Informes de Avance de Gestión Financiera, se procederá conforme a lo establecido en el artículo anterior.
+La información correspondiente al cuarto trimestre deberá enviarse por separado, en la misma fecha de la entrega de la Cuenta Pública del ejercicio de que se trate.
+
+Transcurridos los plazos señalados en el párrafo primero de este artículo, sin que se hubieren remitido los Informes de Avance de Gestión Financiera, el Congreso del Estado, (sic) través de la Presidencia de la Comisión, instruirá a la Auditoría Superior del Estado, requerir su entrega en un término de tres días hábiles siguientes a la fecha de notificación del oficio de requerimiento, de no presentarse el informe correspondiente en este plazo, se aplicará la multa prevista en el Artículo 11 de esta Ley; con independencia de las sanciones administrativas y penales que, en los términos de las leyes en dichas materias, resulten aplicables.
+
+La no presentación de los Informes de Avance de Gestión será considerada una falta administrativa grave en términos de la legislación aplicable en materia de responsabilidades administrativas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 18.
 
-La Auditoría Superior del Estado podrá auditar los conceptos reportados trimestralmente en el correspondiente Informe de Avance de Gestión Financiera como procesos concluidos, así como la parte ejecutada de los procesos no concluidos. Para el efecto, la Auditoría Superior del Estado, podrá realizar reuniones de trabajo, para la revisión de los resultados preliminares en los términos de esta Ley.
+La Auditoría Superior del Estado podrá auditar los conceptos reportados trimestralmente en el correspondiente Informe de Avance de Gestión Financiera como procesos concluidos, así como la parte ejecutada de los procesos no concluidos. Para el efecto, la Auditoría Superior del Estado, realizará reuniones con las Entidades Fiscalizadas para la revisión de los resultados de la cuenta pública en los términos de esta Ley.
 
 En lo procedente, los resultados de la fiscalización a que se refiere el presente artículo deberán incorporarse a los Informes Individuales derivado de la fiscalización de la Cuenta Pública del ejercicio de que se trate.
 
@@ -259,21 +295,35 @@ Para los efectos de lo señalado anteriormente, la Auditoría Superior del Estad
 
 ### CAPÍTULO II. De la Fiscalización de la Cuenta Pública
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 19.
 
-La Cuenta Pública se integrará en términos de lo dispuesto en la Ley General de Contabilidad Gubernamental, Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California, y demás disposiciones aplicables en la materia, y deberá presentarse en los términos establecidos en el artículo 14 de la presente Ley, al Congreso a más tardar el 30 de abril del año siguiente del ejercicio fiscal correspondiente. Sólo se podrá ampliar el plazo de presentación, en un término que no deberá exceder de treinta días naturales, cuando medie solicitud del Gobernador del Estado o de los Presidentes Municipales, según corresponda, suficientemente justificada a juicio del Congreso; una vez concluido el término anterior o la prórroga concedida, si el titular del Ente Público no la remitió, podrá aplicársele alguna de las multas previstas en el artículo 11 de esta Ley, con independencia de las sanciones administrativas y penales que en los términos de las leyes en dichas materias, resulten aplicables.
+La Cuenta Pública se integrará en términos de lo dispuesto en la Ley General de Contabilidad Gubernamental, Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California, y demás disposiciones aplicables en la materia, y deberá presentarse de forma impresa y en dispositivos electrónicos de almacenamiento de datos de uso común o a través de medios electrónicos, al Congreso a más tardar el 30 de abril del año siguiente del ejercicio fiscal correspondiente.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+Cuando la presentación de la Cuenta Pública y de los Informes de Avance de Gestión Financiera sea incompleta o no se integre en términos de lo dispuesto en la Ley General de Contabilidad Gubernamental, Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California, y demás disposiciones aplicables en la materia, se aplicará la multa prevista en el Artículo 11 de esta Ley.
 
-Adicionalmente, el Titular de la Secretaría de Hacienda del Estado y las Tesorerías Municipales, respectivamente, deberán integrar y enviar al Congreso la Cuenta Pública consolidada, correspondiente al ejercicio fiscal anterior, de conformidad con las reglas que emita el Consejo Nacional de Armonización Contable.
-
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+Adicionalmente, la persona Titular de la Secretaría de Hacienda del Estado y las Tesorerías Municipales, respectivamente, deberán integrar y enviar al Congreso la Cuenta Pública consolidada, correspondiente al ejercicio fiscal anterior, de conformidad con las reglas que emita el Consejo Nacional de Armonización Contable.
 
 Para efectos de lo dispuesto en el párrafo anterior de este artículo, las Entidades Paraestatales, los Órganos Constitucionales Autónomos y los Poderes del Estado, deberán entregar a la Secretaría de Hacienda del Estado, y las Entidades Paramunicipales a las Tesorerías Municipales, a más tardar en el mes de marzo, la información y documentación que deban presentar en su respectiva Cuenta Pública.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
-
 La Secretaría de Hacienda del Estado y las Tesorerías Municipales, respectivamente, podrán emitir reglas o criterios a las que se sujetarán los Entes Públicos, para cumplir con la consolidación de la Cuenta Pública.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 19 Bis.
+
+Cuando no se presente la Cuenta Pública de la Entidad Fiscalizada en los plazos descritos en el artículo anterior, el Congreso del Estado, (sic) través de la Presidencia de la Comisión, instruirá a la Auditoría Superior del Estado, requerir su entrega en un término de tres días hábiles siguientes a la fecha de notificación del oficio de requerimiento, de no presentarse en este plazo, se aplicará la multa prevista en el Artículo 11 de esta Ley; con independencia de las sanciones administrativas y penales que, en los términos de las leyes en dichas materias, resulten aplicables.
+
+Sólo se podrá ampliar el plazo de presentación de la Cuenta Pública, en un término que no deberá exceder de quince días naturales, cuando medie solicitud previa al vencimiento del plazo de presentación, por parte de la persona titula (sic) del Poder Ejecutivo del Estado, las Presidencias Municipales y personas Titulares de los Órganos Constitucionalmente Autónomos, misma que deberá estar suficientemente justificada a juicio del Congreso, quien a través de la Presidencia de la Comisión emitirá la respuesta y el plazo que, en su caso, considere pertinente otorgar.
+
+En este supuesto, la Auditoría Superior del Estado contará, con el mismo tiempo adicional para presentar el Informe Individual correspondiente.
+
+Una vez concluido el plazo otorgado por la Comisión, si la persona titular de la Entidad Fiscalizada no remitió la Cuenta Pública correspondiente, se aplicará la multa prevista en el Artículo 11 de esta Ley; con independencia de las sanciones administrativas y penales que, en los términos de las leyes en dichas materias, resulten aplicables.
+
+La no presentación de la Cuenta Pública será considerada una falta administrativa grave en términos de la legislación aplicable en materia de responsabilidades administrativas.
+
+No será impedimento para que la Auditoría Superior del Estado realice su función de fiscalización superior, si la Cuenta Pública no está integrada y disponible en los plazos y requisitos señalados.
 
 ###### Artículo 20.
 
@@ -287,9 +337,13 @@ a) Realizar auditorías del desempeño de los Programas, verificando la eficienc
 
 b) Si se cumplieron las metas de los indicadores aprobados en el Presupuesto de Egresos, y si dicho cumplimiento tiene relación con el Plan Estatal de Desarrollo, los Planes Municipales de Desarrollo respectivos y los programas sectoriales correspondientes; y,
 
-c) Si se cumplieron los objetivos de los Programas y las metas de gasto que promuevan la igualdad entre mujeres y hombres.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-III. Promover las acciones o denuncias correspondientes para la imposición de las sanciones administrativas y penales por las faltas graves que se adviertan derivado de sus auditorías e investigaciones, así como dar vista a las autoridades competentes, cuando detecte la comisión de faltas administrativas no graves, para que continúen la investigación respectiva y promuevan la imposición de las sanciones que procedan; y,
+c) Si se cumplieron los objetivos de los Programas y las metas de gasto que promuevan la Perspectiva de Género.
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+III. Promover las acciones o denuncias correspondientes para la imposición de las sanciones administrativas y penales por las faltas graves que se adviertan derivado de sus auditorías e investigaciones, así como dar vista a las autoridades competentes, cuando detecte la probable comisión de faltas administrativas no graves, para que inicien, o en su caso, continúen la investigación respectiva y promuevan la imposición de las sanciones que procedan; y,
 
 IV. Las demás que formen parte de la fiscalización de la Cuenta Pública o de la revisión del cumplimiento de los objetivos de los Programas establecidos.
 
@@ -315,7 +369,9 @@ c) Si los recursos provenientes de financiamientos y obligaciones se obtuvieron 
 
 Las observaciones que, en su caso, emita la Auditoría Superior del Estado, derivado de la Fiscalización Superior, podrán derivar en:
 
-I. Acciones y previsiones, incluyendo solicitudes de aclaración, pliegos de observaciones, informes de presunta responsabilidad administrativa, promociones del ejercicio de la facultad de comprobación fiscal, promociones de responsabilidad administrativa sancionatoria, denuncias de hechos ante la Fiscalía Especializada y denuncias de juicio político; y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+I. Acciones: Solicitudes de aclaración, pliegos de observaciones, informes de presunta responsabilidad administrativa, promociones del ejercicio de la facultad de comprobación fiscal, promociones de responsabilidad administrativa sancionatoria, denuncias de hechos ante la Fiscalía Especializada y denuncias de juicio político; y,
 
 II. Recomendaciones.
 
@@ -455,23 +511,43 @@ En caso de que la auditoría pueda ser continuada por la vía presencial, esta s
 
 En el mismo sentido, el cambio de una auditoría presencial a una digital podrá realizarse en cualquier tiempo fundando y motivando debidamente la determinación.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 25.
 
-Durante la práctica de auditorías, la Auditoría Superior del Estado podrá convocar a las Entidades Fiscalizadas, sus servidores públicos o a quienes dejaron de serlo, a reuniones de trabajo, para la revisión de los resultados preliminares.
+La Auditoría Superior del Estado notificará por escrito a las Entidades Fiscalizadas, los resultados con observaciones que derivan de la revisión de la Cuenta Pública respectiva, a través de la Cédula de Resultados Finales y Observaciones Preliminares.
 
-La Auditoría Superior del Estado podrá grabar en audio o video, cualquiera de las reuniones de trabajo y audiencias previstas en esta Ley, previo consentimiento por escrito de la o las personas que participen o a solicitud de la Entidad Fiscalizada, para integrar el archivo electrónico correspondiente.
+Las Entidades Fiscalizadas en un plazo de hasta quince días hábiles contados a partir del día siguiente de la notificación de la Cédula de Resultados Finales y Observaciones Preliminares, deberán entregar por escrito y en dispositivos electrónicos de almacenamiento de datos de uso común o en medios electrónicos, a la Auditoría Superior del Estado, las argumentaciones y documentación para la aclaración y justificación de las observaciones que derivan de la revisión de la Cuenta Pública.
+
+La falta de respuesta de las Entidades Fiscalizadas dentro del plazo señalado en el párrafo anterior, traerá como consecuencia que la Auditoría Superior del Estado proceda a la emisión del Informe Individual respectivo.
+
+La Auditoría Superior del Estado notificará por escrito mediante Cédula de Resultados Finales a las Entidades Fiscalizadas el resultado de la revisión de la Cuenta Pública, de manera previa a la fecha de presentación de los Informes Individuales.
+
+Si la Auditoría Superior del Estado no encuentra observaciones, no se sujetará a lo previsto en los párrafos siguientes de este artículo.
+
+La Auditoría Superior del Estado deberá analizar y valorar las justificaciones, aclaraciones y demás información y documentación presentada por las Entidades Fiscalizadas, dentro de un término que no podrá exceder de quince días hábiles, salvo los casos debidamente justificados, hasta por un periodo igual, para determinar la procedencia de rectificar o ratificar los resultados con observaciones.
+
+La Auditoría Superior del Estado citará por escrito, con por lo menos cinco días hábiles de anticipación, a las Entidades Fiscalizadas a la Reunión de Pre-cierre para dar a conocer el análisis en relación con la continuidad de los resultados con observaciones descritos en el párrafo que antecede, y cuando proceda, sobre posibles sugerencias de aclaración, todo ello contenido en la Cédula de Análisis de la Información presentada por la Entidad.
+
+A esta reunión deberá asistir la persona titular de la Entidad Fiscalizada, o bien la o las personas servidoras públicas que designe por escrito, quienes podrán acompañarse de quienes dejaren de serlo, siempre que guarden relación con la cuenta pública; la inasistencia no justificada de la Entidad Fiscalizada por quien legalmente la represente, constituirá la aceptación de la Cédula de Análisis de Información presentada por la Entidad; lo que traerá como consecuencia que se pierda el derecho de presentar cualquier información adicional para la aclaración y justificación de las observaciones y se procederá a la emisión del Informe Individual; de esta reunión se levantará el acta correspondiente.
+
+Las Entidades Fiscalizadas que asistan a esta reunión tendrán hasta quince días hábiles contados a partir del día de la celebración de la misma, para presentar por escrito y en dispositivos electrónicos de almacenamiento de datos de uso común o por medios electrónicos, a la Auditoría Superior del Estado, la información adicional que estime pertinente para la aclaración y justificación de las observaciones que persistan.
+
+Este será el último plazo para que las Entidades Fiscalizadas presenten información para aclarar y justificar las observaciones que derivan de la revisión de la Cuenta Pública, el cual no será prorrogable bajo ninguna circunstancia.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 26.
 
-La Auditoría Superior del Estado, de manera previa a la fecha de presentación de los Informes Individuales, dará a conocer a las Entidades Fiscalizadas la parte que les corresponda de los resultados finales de las auditorías y las observaciones preliminares que se deriven de la revisión de la Cuenta Pública, a efecto de que dichas entidades presenten las justificaciones y aclaraciones que correspondan.
+Una vez concluido el procedimiento previsto en el artículo 25 de esta Ley, la Auditoría Superior del Estado, deberá analizar y valorar la información adicional presentada por la Entidad Fiscalizada para determinar, en un plazo que no deberá exceder de treinta días hábiles, las observaciones no aclaradas que deriven de la revisión de la Cuenta Pública y la clasificación de las observaciones en acciones y recomendaciones, las cuales se darán a conocer mediante el pronunciamiento respectivo, previamente al Informe Individual correspondiente.
 
-A las reuniones en las que se dé a conocer a las Entidades Fiscalizadas la parte que les corresponda de los resultados y observaciones preliminares que se deriven de la revisión de la Cuenta Pública, se les citará por lo menos con diez días hábiles de anticipación remitiendo con la misma anticipación a las Entidades Fiscalizadas los resultados y las observaciones preliminares de las auditorías practicadas, en las reuniones si la Entidad Fiscalizada estima necesario presentar información adicional, podrá solicitar a la Auditoría Superior del Estado un plazo de hasta siete días hábiles más para su exhibición. En dichas reuniones las Entidades Fiscalizadas podrán presentar las justificaciones y aclaraciones que estimen pertinentes. Adicionalmente, la Auditoría Superior del Estado podrá conceder un plazo de hasta cinco días hábiles para que presenten argumentaciones adicionales y documentación soporte, misma que deberán ser valoradas por esta última para la elaboración de los Informes Individuales.
+La Auditoría Superior del Estado citará por escrito, por lo menos con cinco días hábiles de anticipación, a la persona Titular de la Entidad Fiscalizada para que, por sí o por la o las personas servidoras públicas que designe por escrito, acuda a una reunión final donde le dará a conocer el pronunciamiento respectivo y se levantará el acta correspondiente. Ante la inasistencia no justificada de la Entidad Fiscalizada por quien legalmente la represente, se tendrá por notificada a la misma del pronunciamiento respectivo.
 
-Una vez que la Auditoría Superior del Estado valore las justificaciones, aclaraciones y demás información a que hacen referencia los párrafos anteriores, podrá determinar la procedencia de eliminar, rectificar o ratificar los resultados y las observaciones preliminares que les dio a conocer a las Entidades Fiscalizadas, para efectos de la elaboración definitiva de los Informes Individuales.
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-En caso de que la Auditoría Superior del Estado, considere que las Entidades Fiscalizadas no aportaron elementos suficientes para atender las observaciones preliminares correspondientes, deberá incluir en el apartado específico de los informes individuales, una síntesis de las justificaciones, aclaraciones y demás información presentada por dichas entidades.
+###### Artículo 26 Bis.
 
-Lo previsto en los párrafos anteriores, se realizará sin perjuicio de que la Auditoría Superior del Estado convoque a las reuniones de trabajo que estime necesarias durante las auditorías correspondientes, para la revisión de los resultados preliminares.
+La Auditoría Superior del Estado podrá grabar en audio o video, cualquiera de las reuniones y audiencias previstas en esta Ley, previo consentimiento por escrito de la o las personas que participen o a solicitud de la Entidad Fiscalizada, para integrar el expediente electrónico correspondiente.
 
 ###### Artículo 27.
 
@@ -505,7 +581,9 @@ Los servidores públicos de la Auditoría Superior del Estado deberán guardar e
 
 Las actuaciones dentro del procedimiento de fiscalización superior se practicarán en días y horas hábiles.
 
-El Auditor Superior del Estado determinará los días hábiles y aquellos en que no hubiere labores en las oficinas de la Auditoría Superior del Estado, mediante calendario que se emitirá durante los primeros treinta días naturales del ejercicio fiscal, mismo que se dará a conocer en su portal institucional de internet.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+Son días hábiles todos los del año, excepto los sábados, domingos y aquellos en que no hubiere labores en las oficinas de la Auditoría Superior del Estado, o los que se indiquen en los acuerdos expedidos por la persona Titular de la Auditoría Superior del Estado; los cuales se darán a conocer en su portal institucional de internet y serán la base para el cómputo de los plazos que establece esta Ley.
 
 Se entenderá como horas hábiles las que median desde las ocho hasta las quince horas.
 
@@ -587,9 +665,11 @@ Los dictámenes que emitan los profesionales externos contratados por las Entida
 
 ### CAPÍTULO IV. Del contenido del Informe General y su análisis
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 44.
 
-La Auditoría Superior del Estado tendrá un plazo de doce meses, contados a partir de la fecha de la presentación de la Cuenta Pública, para rendir el Informe General correspondiente al Congreso, por conducto de la Comisión, mismo que tendrá carácter público.
+La Auditoría Superior del Estado tendrá un plazo de hasta 30 días hábiles posteriores al plazo a que se refiere el primer párrafo del artículo 46 de la presente Ley, para rendir el Informe General correspondiente al Congreso, por conducto de la Comisión, mismo que tendrá carácter público.
 
 En aquellos casos en que a la Auditoría Superior del Estado no le fuere suficiente el plazo señalado en el párrafo que antecede, podrá solicitar a la Comisión una prórroga no mayor a treinta días naturales, para concluir la entrega del Informe General en cita, expresando los razonamientos que funden y motiven su petición.
 
@@ -619,15 +699,21 @@ VI. La demás información que se considere necesaria.
 
 ### CAPÍTULO V. De los Informes Individuales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 46.
 
-La Auditoría Superior del Estado entregará los Informes Individuales de auditoría al Congreso, por conducto de la Comisión, dentro de los doce meses siguientes a la presentación de la Cuenta Pública correspondiente.
+La Auditoría Superior del Estado entregará los Informes Individuales de auditoría al Congreso, por conducto de la Comisión, a más tardar en el mes de mayo del año siguiente a la presentación de la Cuenta Pública correspondiente.
 
-Los Informes Individuales podrán presentarse en los meses de septiembre y noviembre siguientes a la presentación de la cuenta pública, y en abril del año siguiente, sin que exceda del plazo previsto en el párrafo anterior.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+Los Informes Individuales podrán presentarse en los meses de septiembre y noviembre siguientes a la presentación de la cuenta pública, y en mayo del año siguiente, sin que exceda del plazo previsto en el párrafo anterior.
 
 Lo anterior sin perjuicio de que se puedan presentar conforme se generen.
 
-El Congreso del Estado remitirá copia del dictamen de los Informes Individuales al Comité Coordinador y al Comité de Participación Ciudadana, del sistema estatal anticorrupción.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+El Congreso del Estado remitirá copia de los dictámenes de Cuenta Pública de las Entidades Fiscalizadas al Comité Coordinador y al Comité de Participación Ciudadana, del Sistema Estatal Anticorrupción.
 
 ###### Artículo 47.
 
@@ -637,7 +723,9 @@ I. Los criterios de selección, el objetivo, el alcance, los procedimientos de a
 
 II. Los nombres de los servidores públicos de la Auditoría Superior del Estado a cargo de realizar la auditoría;
 
-III. El cumplimiento, en su caso, de la Ley General de Contabilidad Gubernamental, Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, legislación local en materia de financiamientos y obligaciones, Ley de Ingresos, Presupuesto de Egresos, la Ley de Coordinación Fiscal del Estado de Baja California, y demás disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+III. El cumplimiento, en su caso, de la Ley General de Contabilidad Gubernamental y las disposiciones que de ella emanen, Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, legislación local en materia de financiamientos y obligaciones, Ley de Ingresos, Presupuesto de Egresos, la Ley de Coordinación Fiscal del Estado de Baja California, y demás disposiciones legales aplicables;
 
 IV. Los resultados de la fiscalización efectuada;
 
@@ -645,7 +733,9 @@ V. Las observaciones, recomendaciones, acciones, con excepción de los informes 
 
 VI. Un apartado específico en cada una de las auditorías realizadas donde se incluyan una síntesis de las justificaciones y aclaraciones que, en su caso, las Entidades Fiscalizadas hayan presentado en relación con los resultados y las observaciones que se les hayan hecho durante las revisiones.
 
-Asimismo, considerará en su caso, el cumplimiento de los objetivos de aquellos Programas que promuevan la igualdad entre mujeres y hombres, así como la erradicación de la violencia y cualquier forma de discriminación de género.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+Asimismo, considerará en su caso, el cumplimiento de los objetivos de aquellos Programas que promuevan la Perspectiva de Género, así como la erradicación de la violencia y cualquier forma de discriminación de género.
 
 Los Informes Individuales a que hace referencia el presente capítulo tendrán el carácter de públicos, y se mantendrán en el portal institucional de internet de la Auditoría Superior del Estado, en formatos abiertos conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
 
@@ -667,9 +757,11 @@ En dicho informe se dará a conocer el número de pliegos de observaciones emiti
 
 ### CAPÍTULO VI. De las Acciones y Recomendaciones derivadas de la Fiscalización
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 50.
 
-El Titular de la Auditoría Superior del Estado enviará a las Entidades Fiscalizadas, dentro de un plazo de diez días hábiles siguientes a que haya sido entregado al Congreso, a través de la Comisión, el Informe Individual que contenga las acciones y las recomendaciones que les correspondan, para que, en un plazo de treinta días hábiles, presenten la información y realicen las consideraciones pertinentes.
+La persona Titular de la Auditoría Superior del Estado enviará a las Entidades Fiscalizadas, dentro de un plazo de diez días hábiles siguientes a que haya sido entregado al Congreso, a través de la Comisión, el Informe Individual que contenga las acciones y las recomendaciones que les correspondan.
 
 Con la notificación del Informe Individual a las Entidades Fiscalizadas quedarán formalmente promovidas y notificadas las acciones y recomendaciones contenidas en dicho informe, salvo en los casos del informe de presunta responsabilidad administrativa y de las denuncias penales y de juicio político, los cuales se notificarán a los presuntos responsables en los términos de las leyes que rigen los procedimientos respectivos.
 
@@ -687,33 +779,43 @@ IV. A través del informe de presunta responsabilidad administrativa, la Auditor
 
 En caso de que la Auditoría Superior del Estado determine la existencia de daños o perjuicios, o ambos a la Hacienda Pública o al patrimonio de los Entes Públicos, que deriven de faltas administrativas no graves, procederá en los términos de la legislación aplicable en materia de responsabilidades administrativas;
 
-V. Por medio de las promociones de responsabilidad administrativa, dará vista a los Órganos Internos de Control cuando detecte posibles responsabilidades administrativas no graves, para que continúen la investigación respectiva y, en su caso, inicien el procedimiento sancionador correspondiente en los términos de la legislación aplicable en materia de responsabilidades administrativas;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+V. Por medio de las promociones de responsabilidad administrativa, dará vista a los Órganos Internos de Control cuando detecte posibles responsabilidades administrativas no graves, para que inicien o continúen la investigación respectiva y, en su caso, inicien el procedimiento sancionador correspondiente en los términos de la legislación aplicable en materia de responsabilidades administrativas;
 
 VI. Mediante las denuncias de hechos, hará del conocimiento de la Fiscalía Especializada, la posible comisión de hechos delictivos, y
 
 VII. Por medio de la denuncia de juicio político, hará del conocimiento del Congreso la presunción de actos u omisiones de los servidores públicos a que se refieren los artículos 92 y 93 de la Constitución, legislación aplicable en materia de responsabilidades administrativas, que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, a efecto de que se substancie el procedimiento y resuelva sobre la responsabilidad política correspondiente.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 52.
 
-La Auditoría Superior del Estado deberá pronunciarse en un plazo de ciento veinte días hábiles, contados a partir de su recepción, sobre las respuestas emitidas por las Entidades Fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las acciones y recomendaciones.
+En la reunión a que se refiere el artículo 26 de esta Ley, la Auditoría Superior del Estado analizará con las Entidades Fiscalizadas las observaciones que dan motivo a las recomendaciones que contendrá el Informe Individual. Las Entidades Fiscalizadas a través de sus representantes o enlaces suscribirán conjuntamente con el personal de las áreas auditoras correspondientes de la Auditoría Superior del Estado, las actas en las que consten los términos de las recomendaciones que, en su caso, sean acordadas, los mecanismos y plazos para su atención. La Auditoría Superior del Estado, podrá emitir recomendaciones en los casos en que no logre acuerdos con las Entidades Fiscalizadas, las cuales deberán ser atendidas por éstas.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 53.
 
-Antes de emitir sus recomendaciones, la Auditoría Superior del Estado analizará con las entidades fiscalizadas las observaciones que dan motivo a las mismas. En las reuniones de resultados preliminares y finales las Entidades Fiscalizadas a través de sus representantes o enlaces suscribirán conjuntamente con el personal de las áreas auditoras correspondientes de la Auditoría Superior del Estado, las actas en las que consten los términos de las recomendaciones que, en su caso, sean acordadas y los mecanismos para su atención. Lo anterior, sin perjuicio de que la Auditoría Superior del Estado, podrá emitir recomendaciones en los casos en que no logre acuerdos con las Entidades Fiscalizadas.
+La información, documentación o consideraciones aportadas por las Entidades Fiscalizadas para atender las recomendaciones en los plazos convenidos en la reunión a que se refiere el artículo 26 de esta Ley, deberán precisar las mejoras realizadas y las acciones emprendidas. En caso contrario, deberán justificar la improcedencia de lo recomendado o las razones por los cuales no resulta factible su implementación.
 
-La información, documentación o consideraciones aportadas por las Entidades Fiscalizadas para atender las recomendaciones en los plazos convenidos, deberán precisar las mejoras realizadas y las acciones emprendidas. En caso contrario, deberán justificar la improcedencia de lo recomendado o las razones por los (sic) cuales no resulta factible su implementación.
+La falta de atención a las recomendaciones acordadas o emitidas, sin causa justificada, dará lugar a las responsabilidades administrativas correspondientes. La Auditoría Superior del Estado podrá emitir las disposiciones que estime necesarias al respecto.
 
-Dentro de los treinta días hábiles posteriores a la conclusión del plazo a que se refiere el artículo que antecede, la Auditoría Superior del Estado, enviará al Congreso a través de la Comisión un reporte final sobre las recomendaciones correspondientes a la Cuenta Pública en revisión, detallando la información a que se refiere el párrafo anterior.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 54.
 
-La Auditoría Superior del Estado, podrá promover, en cualquier momento en que cuente con los elementos necesarios, el informe de presunta responsabilidad administrativa ante el Tribunal; así como la denuncia de hechos ante la Fiscalía Especializada, la denuncia de juicio político ante el Congreso, o los informes de presunta responsabilidad administrativa ante el Órgano Interno de Control competente, en los términos de esta Ley.
+La Auditoría Superior del Estado, podrá promover, en cualquier momento en que cuente con los elementos necesarios, las acciones previstas en el artículo 51 de esta Ley, a través de sus Unidades Administrativas competentes.
 
-### CAPÍTULO VII. De la conclusión de la revisión de la Cuenta Pública
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+### CAPÍTULO VII. De la conclusión de la revisión de la Cuenta Pública por el Congreso del Estado
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 55.
 
-La Comisión realizará un análisis de los Informes Individuales, el cual someterá al Pleno del Congreso. En su caso podrá realizar un análisis de los Informes Específicos y del Informe General correspondiente.
+La Comisión realizará la revisión, análisis, evaluaciones y dictaminación de la Cuenta Pública de las Entidades Fiscalizadas con base en los Informes Individuales y en su caso en los Informes Específicos y el Informe General correspondiente.
 
 El análisis de la Comisión podrá incorporar aquellas sugerencias que juzgue conveniente y que haya hecho la Auditoría Superior del Estado, para modificar disposiciones legales que pretendan mejorar la gestión financiera y el desempeño de las entidades fiscalizadas.
 
@@ -723,19 +825,23 @@ En aquellos casos en que la Comisión detecte errores en el Informe General o bi
 
 La Comisión podrá formular recomendaciones a la Auditoría Superior del Estado, las cuales serán incluidas en las conclusiones sobre el Informe General.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 57.
 
-La Comisión después de analizar y hacer las aclaraciones o las recomendaciones respectivas, someterá a votación del pleno el dictamen correspondiente de conformidad con lo establecido en el artículo 22 de la Constitución.
+La Comisión después de analizar y hacer las aclaraciones o las recomendaciones respectivas, someterá a votación del pleno el dictamen de Cuenta Pública correspondiente de conformidad con lo establecido en el artículo 22 de la Constitución.
 
-El dictamen deberá contar con el análisis pormenorizado de su contenido y estar sustentado en conclusiones técnicas del Informe General y en su caso, recuperando las discusiones técnicas realizadas en la Comisión, para ello acompañará a su dictamen, en un apartado de antecedentes, el análisis realizado por la Comisión.
+El dictamen deberá contar con el análisis pormenorizado de su contenido y estar sustentado en conclusiones técnicas del Informe Individual y en su caso, recuperando las discusiones técnicas realizadas en la Comisión, para ello acompañará a su dictamen, en un apartado de antecedentes, el análisis realizado por la Comisión.
 
-La aprobación del dictamen no suspende el trámite de las acciones promovidas por la Auditoría Superior del Estado, mismas que seguirán el procedimiento previsto en esta Ley.
+La dictaminación de la Cuenta Pública de la Entidad Fiscalizada, no modifica los Informes Individuales de Auditoria correspondientes, ni suspende las acciones promovidas por la Auditoría Superior del Estado, mismas que seguirán el procedimiento previsto en esta Ley y demás aplicables.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 58.
 
-El Congreso publicará en su portal institucional de Internet, un extracto del contenido del dictamen a que se refiere este Capítulo, asimismo, lo remitirá al Poder Ejecutivo Estatal para su publicación en el Periódico Oficial del Estado, dentro del plazo de quince días naturales contados a partir de la fecha de emisión de su dictamen.
+El Congreso publicará en su portal institucional de Internet, los dictámenes a que se refiere este Capítulo, asimismo, remitirá al Poder Ejecutivo Estatal para su publicación en el Periódico Oficial del Estado, los resolutivos de dichos dictámenes dentro del plazo de quince días naturales contados a partir de la fecha de emisión de su dictamen.
 
-En el mismo plazo, la Auditoría Superior del Estado deberá publicar los informes referidos en el presente capítulo, en su portal institucional de Internet.
+La Auditoría Superior del Estado deberá publicar los informes individuales referidos en el presente capítulo, en su portal institucional de Internet, dentro del plazo de tres días hábiles siguientes a que haya sido notificado a la Entidad Fiscalizada.
 
 ### CAPÍTULO VIII. De la Fiscalización del Cumplimiento de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios
 
@@ -789,7 +895,9 @@ Las denuncias que se presenten deberán estar fundadas con documentos y evidenci
 
 El escrito de denuncia podrá presentarse de forma presencial o a través de medios electrónicos y deberá contar, como mínimo, con los siguientes elementos:
 
-I. El ejercicio en que se presentan los presuntos hechos irregulares; y,
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+I. El ejercicio en que se presentaron los presuntos hechos irregulares; y,
 
 II. Descripción de los presuntos hechos irregulares.
 
@@ -897,11 +1005,17 @@ La unidad administrativa a cargo de la substanciación, deberá ser distinta de 
 
 Para efectos de lo previsto en el párrafo anterior, el Reglamento Interior de la Auditoría Superior del Estado, deberá considerar, la existencia de la unidad administrativa de investigaciones, así como la unidad administrativa substanciadora.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 77.
 
-Los Órganos Internos de Control deberán informar a la Auditoría Superior del Estado, dentro de los treinta días hábiles siguientes de recibido el informe de presunta responsabilidad administrativa, el número de expediente con el que se inició la investigación o procedimiento respectivo.
+Los Órganos Internos de Control deberán informar a la Auditoría Superior del Estado, dentro de los treinta días hábiles siguientes de recibida la vista a que se refiere la fracción V del artículo 51 de esta Ley, el número de expediente con el que se inició la investigación o procedimiento respectivo.
 
 Asimismo, los Órganos Internos de Control deberán informar a la Auditoría Superior del Estado de la resolución definitiva que se determine o recaiga a sus promociones, dentro de los diez días hábiles posteriores a que se notifique dicha resolución.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+La falta de presentación, sin causa justificada, de la información señalada en este artículo, dará lugar a un requerimiento por parte de la Auditoría Superior del Estado para que, dentro de los cinco días hábiles siguientes al día de la notificación del requerimiento, el Órgano Interno de Control presente la información solicitada, de lo contrario se aplicará la multa prevista en el artículo 11 de esta Ley.
 
 ###### Artículo 78.
 
@@ -913,7 +1027,9 @@ La Auditoría Superior del Estado, en los términos de la Ley General del Sistem
 
 La tramitación del recurso de reconsideración, en contra de las multas impuestas por la Auditoría Superior del Estado, se sujetará a las disposiciones siguientes:
 
-I. Se iniciará mediante escrito que deberá presentarse ante la Auditoría Superior del Estado dentro del término de quince días hábiles contados a partir del día siguiente a que surta efectos la notificación de la multa, el cual contendrá lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+I. Se iniciará mediante escrito que deberá presentarse ante la Auditoría Superior del Estado dentro del término de quince días hábiles contados a partir del día siguiente a la notificación de la multa, el cual contendrá lo siguiente:
 
 a) La mención de la unidad administrativa que impuso la multa, el nombre y firma autógrafa o huella dactilar del recurrente, o en su caso de quien deba hacerlo en su nombre y representación, requisito sin el cual no se dará trámite al recurso;
 
@@ -993,9 +1109,9 @@ I. Ser el conducto de comunicación entre el Congreso, y la Auditoría Superior 
 
 II. Recibir de la Mesa Directiva del Congreso, los Informes de Avance de Gestión Financiera y las Cuentas Públicas de los Entes Públicos y turnarla a la Auditoría Superior del Estado para su revisión y fiscalización;
 
-> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-III. Presentar al Pleno del Congreso, el análisis de los Informes Individuales, con base a los criterios vigentes para dictaminar las cuentas públicas de las entidades fiscalizadas y en su caso, los correspondientes de los Informes Específicos y del Informe General, y sus conclusiones tomando en cuenta las probables opiniones, que en su caso pudieran hacer las otras comisiones del Congreso;
+III. Presentar al Pleno del Congreso, los Dictámenes de las Cuentas Públicas de las Entidades Fiscalizadas, con base a los criterios vigentes para dictaminar las cuentas públicas de las Entidades Fiscalizadas y en su caso, los correspondientes a los Informes Específicos y General;
 
 IV. Analizar el programa anual de auditorías de la Cuenta Pública y conocer el programa estratégico y Programa Operativo Anual de actividades que para el debido cumplimiento de sus funciones y atribuciones, elabore la Auditoría Superior del Estado, así como sus modificaciones, y evaluar su cumplimiento.
 
@@ -1033,9 +1149,9 @@ XIII. Invitar a la sociedad civil organizada a que participe como observadores o
 
 XIV. Promover la realización de ejercicios de contraloría social en los que se articule a la población con las Entidades Fiscalizadas;
 
-> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-XV. Citar a los titulares de los Órganos Internos de Control para conocer de los avances de las acciones en relación con las observaciones de los dictámenes de cuenta pública;
+XV. Citar a las personas titulares de las Entidades Fiscalizadas y de los Órganos Internos de Control para conocer de los avances de las acciones en relación con las observaciones de los dictámenes de cuenta pública;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE FEBRERO DE 2022)</small>
 
@@ -1045,7 +1161,7 @@ XVI. Generar, modificar y ratificar los criterios para dictaminar las cuentas p�
 
 XVII. Solicitar a la Unidad de Contraloría Interna del Congreso, el inicio de revisiones especiales a las áreas de la Auditoría Superior del Estado, para efectos de vigilancia y evaluación del desempeño; y,
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 XVIII. Las demás que establezcan esta Ley y demás disposiciones legales aplicables.
 
@@ -1129,9 +1245,11 @@ XI. Presentar sus declaraciones de intereses, patrimonial y fiscal, previo a su 
 
 XII. Haber destacado por su contribución en materia de fiscalización, de rendición de cuentas, prevención, investigación, detección y combate a la corrupción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 94.
 
-El Titular de la Auditoría Superior del Estado, tendrá las siguientes atribuciones:
+La persona Titular de la Auditoría Superior del Estado, tendrá las siguientes atribuciones:
 
 I. Representar a la Auditoría Superior del Estado, ante las Entidades Fiscalizadas, autoridades federales, estatales y municipales, ya sean administrativas o jurisdiccionales, y demás personas físicas y morales, públicas o privadas;
 
@@ -1155,7 +1273,9 @@ VIII. Expedir aquellas normas y disposiciones que esta Ley le confiere a la Audi
 
 Asimismo, expedir las Reglas de carácter general aplicables a los procesos de fiscalización superior por medios electrónicos, así como la normatividad relativa a los protocolos de seguridad que para tal efecto se implementen. La información y documentación así obtenida, tendrá para todos los efectos legales, pleno valor probatorio.
 
-IX. Participar, cuando sea electo, en el Comité Rector del Sistema Nacional de Fiscalización;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+IX. Participar, cuando sea electo, en el Comité Rector del Sistema Nacional de Fiscalización y presidir de forma dual con la persona Titular de la Secretaría de Honestidad y Función Pública del Poder Ejecutivo del Estado, el Comité Rector del Sistema Estatal de Fiscalización, ejerciendo las atribuciones que correspondan al respecto;
 
 X. Ser el enlace entre la Auditoría Superior del Estado, el Congreso y sus comisiones;
 
@@ -1173,13 +1293,15 @@ XVI. Formular y entregar al Congreso, por conducto de la Comisión, los Informes
 
 XVII. Autorizar, previa denuncia, la revisión durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores conforme lo establecido en la presente Ley;
 
-XVIII. Concertar y celebrar, en los casos que estime necesario, convenios con las entidades fiscalizadas y sus Órganos Internos de Control, con el propósito de apoyar y hacer más eficiente la fiscalización, sin detrimento de su facultad fiscalizadora, la que podrá ejercer de manera directa; así como convenios de colaboración con los organismos nacionales que agrupen a entidades de fiscalización superior homólogas o con éstas directamente, con el sector privado y con colegios de profesionales, instituciones académicas e instituciones de reconocido prestigio;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+XVIII. Concertar y celebrar, en los casos que estime necesario, convenios con las entidades fiscalizadas y sus Órganos Internos de Control, con el propósito de apoyar y hacer más eficiente la fiscalización, sin detrimento de su facultad fiscalizadora, la que podrá ejercer de manera directa; así como convenios de colaboración con los organismos nacionales que agrupen a entidades de fiscalización superior homólogas o con éstas directamente, con entes públicos federales y de las Entidades Federativas, el sector privado y con colegios de profesionales, instituciones académicas e instituciones de reconocido prestigio;
 
 XIX. Dar cuenta comprobada al Congreso, a través de la Comisión, de la aplicación de su presupuesto aprobado, dentro de los treinta primeros días del mes siguiente al que corresponda su ejercicio;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-XX. Solicitar a la Secretaría de Hacienda, el cobro de las multas que se impongan en los términos de esta Ley;
+XX. Solicitar a la Secretaría de Hacienda, el cobro de las multas que se impongan en los términos de esta Ley y celebrar los convenios que se requieran para tal efecto;
 
 XXI. Instruir la presentación de las denuncias penales o de juicio político que procedan, como resultado de las irregularidades detectadas con motivo de la fiscalización, con apoyo en los dictámenes técnicos respectivos, de conformidad con las disposiciones legales aplicables;
 
@@ -1237,21 +1359,25 @@ II. Utilizar en beneficio propio o de terceros la documentación e información 
 
 III. Dejar de determinar sin causa justificada, las bases de las responsabilidades en el ámbito de su competencia y en los casos previstos en la Ley, y disposiciones reglamentarias, cuando deban establecerse como consecuencia de las revisiones e investigaciones que en el ejercicio de sus atribuciones realice;
 
-IV. Ausentarse de sus labores por más de diez días naturales, sin mediar autorización de la Comisión;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+IV. Ausentarse de sus labores por más de diez días naturales, sin mediar autorización de la Comisión o causa justificada;
 
 V. Abstenerse de presentar dentro de los términos de la presente Ley, sin causa justificada, los Informes Individuales y el Informe General;
 
 VI. Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia o que exista en la Auditoría Superior del Estado, con motivo del ejercicio de sus atribuciones;
 
-VII. Aceptar la injerencia de los partidos políticos en el ejercicio de sus funciones y de esta circunstancia, conducirse con parcialidad en el proceso de revisión de las Cuentas Públicas y en los procedimientos de fiscalización e imposición de sanciones a que se refiere esta Ley; y,
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+VII. Aceptar la injerencia de los partidos políticos en el ejercicio de sus funciones y de esta circunstancia, conducirse con parcialidad en el proceso de revisión de las Cuentas Públicas y en los procedimientos de fiscalización e imposición de multas y sanciones a que se refiere esta Ley; y,
 
 VIII. Incurrir en cualquiera de las conductas consideradas faltas administrativas graves, en los términos de la legislación aplicable en materia de responsabilidades administrativa (sic), así como la inobservancia de lo previsto en el artículo 3 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 98.
 
 El Congreso dictaminará sobre la existencia de los motivos de la remoción del Titular de la Auditoría Superior del Estado por causas graves de responsabilidad, y deberá dar derecho de audiencia al afectado. La remoción requerirá del voto de las dos terceras partes de los miembros del Congreso.
-
-El subauditor general, el auditor especial de fiscalización, titulares, directores, subdirectores, jefes de departamento, y demás servidores públicos podrán ser removidos por las causas graves a que se refieren las fracciones III del artículo 96 y II, III, VI, VII y VIII del artículo 97 de esta Ley, por el Titular de la Auditoría Superior del Estado.
 
 ###### Artículo 99.
 
@@ -1261,7 +1387,9 @@ El Titular de la Auditoría Superior del Estado sólo estará obligado a absolve
 
 La Auditoría Superior del Estado contará con un servicio fiscalizador de carrera, debiendo emitir para ese efecto un estatuto que deberá publicarse en el Periódico Oficial del Estado de Baja California.
 
-El personal de la Auditoría Superior del Estado, contará con los conocimientos y la experiencia profesional que se requiera para desempeñar el cargo público encomendado, de conformidad con la estructura que establezca esta Ley y el Reglamento Interior, así como los catálogos de puestos y funciones que para el efecto se emitan. Asimismo conforme a las bases que se emitan, deberán sujetarse y aprobar los procesos de evaluación y control de confianza que se determinen, para lo cual el Auditor Superior del Estado podrá celebrar los convenios que sean necesarios con las instituciones públicas o privadas encargadas de su aplicación.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+El personal de la Auditoría Superior del Estado, contará con los conocimientos y la experiencia profesional que se requiera para desempeñar el cargo público encomendado, de conformidad con la estructura que establezca esta Ley y el Reglamento Interior, así como los catálogos de puestos, funciones, y demás disposiciones que para el efecto se emitan. Asimismo, conforme a las bases que se emitan, deberán sujetarse y aprobar los procesos de evaluación y control de confianza que se determinen, para lo cual el Auditor Superior del Estado podrá celebrar los convenios que sean necesarios con las instituciones públicas o privadas encargadas de su aplicación.
 
 ###### Artículo 101.
 
@@ -1348,6 +1476,10 @@ Dichas opiniones, solicitudes o denuncias podrán presentarse por medios electr�
 ###### Artículo 110.
 
 La Auditoría Superior del Estado, conservará en su poder los Informes Individuales, el Informe General y los Informes Específicos y la documentación soporte de los mismos, derivados de la revisión de las Cuentas Públicas, durante un plazo de siete años, contado a partir de la fecha en que haya sido publicado en el Periódico Oficial del Estado el dictamen correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+La documentación a que se refiere el párrafo anterior, se conservará de conformidad con las leyes aplicables, privilegiándose el uso de expedientes electrónicos o digitales.
 
 ###### Artículo 111.
 
@@ -1454,3 +1586,17 @@ TERCERO. Las disposiciones previstas en el Articulo 24 TER de la presente Ley, r
 CUARTO. Las auditorías presenciales iniciadas antes de la entrada en vigor de la presente reforma se concluirán bajo la misma modalidad.
 
 QUINTO. El Congreso del Estado homologará y armonizará la Ley Orgánica del Poder Legislativo del Estado de Baja California, a fin de permitir la recepción, por medios electrónicos de las denuncias a que se refiere la presente Ley, dentro del plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor de las presentes reformas.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 310 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 37 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; 5, 10, 11, 12, 14, 17, 18, 19, 20, 22, 25, 26, 33, 44, 46, 47, 50, 51, 52, 53, 54, 55, 57, 58, 64, 77, 79, 86, 94, 97, 98, 100, 110 Y ADICIONA LOS ARTÍCULOS 19 BIS Y 26 BIS A LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS; 82 DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA; 16 QUATER, 18, 65, 66, 81, 81 BIS Y 81 TER DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LA REFORMA QUE ADICIONA EL ARTÍCULO 63 TER A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO.- Las presentes reformas aplicarán para el proceso de fiscalización de la cuenta pública correspondiente al ejercicio fiscal dos mil veintitrés y subsecuentes.
+
+TERCERO.- El proceso de fiscalización de la cuenta pública correspondiente al ejercicio fiscal dos mil veintidós y los demás asuntos que se encuentren en trámite o en proceso de ejercicios fiscales anteriores, continuarán tramitándose hasta su conclusión en los términos de la normatividad vigente hasta antes de la entrada en vigor de las presentes reformas.
+
+CUARTO.- La Auditoría Superior del Estado contará con 180 días para emitir el reglamento para normar el procedimiento relativo a la imposición de las multas descritas en el artículo 11 de la presente Ley.
+
+QUINTO.- La reforma al artículo 17 será aplicable para la entrega del Informe de Avance de Gestión Financiera relativa al Cuarto Trimestre del ejercicio fiscal dos mil veintitrés y subsecuentes.
