@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco-96004"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-20"
-last_updated: "2019-01-18"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 20 de septiembre de 2013.
 
@@ -83,6 +83,8 @@ V.- Los titulares de los órganos de control interno de las diferentes oficinas 
 
 VI.- Los titulares de los Poderes del Estado de Baja California, de las dependencias y entidades de la Administración Pública Estatal y de los Órganos con autonomía constitucional, así como los Presidentes Municipales, y los titulares de los organismos descentralizados de los municipios, auxiliados por el área administrativa correspondiente.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 4.
 
 Para los efectos de la presente Ley se entenderá por:
@@ -117,9 +119,17 @@ XIV.- Sitio de concurrencia colectiva: Al que independientemente si es abierto o
 
 XV.- Tabaco: A la planta "Nicotina tabacum" y sus sucedáneos, en su forma natural o modificada, en las diferentes presentaciones, que se utilicen para ser fumado, chupado, mascado o utilizado como rapé;
 
-XVI.- Vehículos de transporte público: A aquel destinado para el transporte público de personas, transporte oficial, de personal y escolar;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-XVII.- Verificador: A la persona facultada por la autoridad competente para realizar funciones de vigilancia y actos tendientes a lograr el cumplimiento de esta Ley.
+XVI.- UMA: A la Unidad de Medida y Actualización, conforme su valor fijado anualmente por el Instituto Nacional de Estadística y Geografía;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+XVII.- Vehículos de transporte público: A aquel destinado para el transporte público de personas, transporte oficial, de personal y escolar;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+XVIII.- Verificador: A la persona facultada por la autoridad competente para realizar funciones de vigilancia y actos tendientes a lograr el cumplimiento de esta Ley.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DE LOS SERVIDORES PÚBLICOS
 
@@ -273,7 +283,9 @@ Es obligación de los propietarios, administradores, responsables o quien obteng
 
 Los usuarios y clientes de tales lugares están obligados a observar lo establecido en el párrafo anterior.
 
-Aquellos establecimientos mercantiles que deseen contar con un espacio para fumar, deberán ubicarlo al aire libre de acuerdo con las características descritas en el artículo 4, fracción III de esta ley, además, deberán estar completamente separadas e incomunicadas de los espacios 100% libres de humo de tabaco, no ser paso forzoso de las personas y ubicarse a la distancia que establezca el Reglamento que se derive de la presente Ley, de cualquier puerta, ventana o vano que comunique con los espacios libres de humo de tabaco. Los espacios para fumar en exteriores no podrán ubicarse sobre las aceras o cualquier otro espacio de uso público.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+Aquellos establecimientos mercantiles que deseen contar con un espacio para fumar, deberán ubicarlo al aire libre de acuerdo con las características descritas en el artículo 4, fracción III de esta ley, además, deberán estar completamente separadas e incomunicadas de los espacios 100% libres de humo de tabaco, no ser paso forzoso de las personas y ubicarse a la distancia que establezca el Reglamento que se derive de la presente Ley, de cualquier puerta, ventana o vano que comunique con los espacios libres de humo de tabaco. Los espacios para fumar en exteriores no podrán ubicarse sobre las aceras o cualquier otro espacio de uso público, y deberán contar con ceniceros exteriores para depósito de los filtros o colillas y demás residuos de productos del tabaco, a fin de evitar su impacto en el medio ambiente y la salud de las personas.
 
 Los espacios al aire libre para fumar descritos en el párrafo anterior, deberán estar señalizados conforme a lo establecido en el Reglamento de la presente Ley y demás normatividad aplicable.
 
@@ -291,7 +303,9 @@ Los mecanismos y procedimientos que garanticen la eficacia en la aplicación de 
 
 En los edificios, establecimientos industriales e instalaciones de los Órganos de Gobierno y los Órganos Autónomos del Estado de Baja California y sus Municipios, que cuenten con espacios al aire libre se podrá fumar siempre y cuando estas no sean lugares de paso forzoso y se ubiquen a la distancia que establezca el Reglamento de la presente Ley de los espacios 100% libres de humo de tabaco, no se consideren como sitios de concurrencia colectiva, y existan las condiciones físicas que aseguren que el humo del tabaco derivado de su práctica no invada las entradas y los espacios cerrados de trabajo o que sean de acceso al público. En caso de duda, será la Secretaría de Salud la que determine si se presentan las condiciones físicas que aseguren que el humo de tabaco no invade los espacios 100% libres de humo de tabaco.
 
-Los propietarios, administradores, responsables o quien obtenga algún provecho del uso de los lugares a que se hace referencia en el presente artículo, colocarán señalamientos que indiquen la ubicación de los espacios en que se permita fumar, que siempre deberán ser al aire libre, y se dará información que advierta de los daños a la salud que ocasiona el consumo del tabaco y los beneficios de abandonar el tabaquismo.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+Las y los propietarios, administradores, responsables o quien obtenga algún provecho del uso de los lugares a que se hace referencia en el presente artículo, colocarán señalamientos que indiquen la ubicación de los espacios en que se permita fumar, que siempre deberán ser al aire libre, y se dará información que advierta de los daños a la salud que ocasiona el consumo del tabaco y los beneficios de abandonar el tabaquismo. Los espacios destinados para fumar, deberán colocar ceniceros exteriores para depósito de los filtros o colillas y demás residuos de productos del tabaco, a fin de evitar su impacto en el medio ambiente y la salud de las personas.
 
 ###### Artículo 20.
 
@@ -447,15 +461,17 @@ III. La calidad de reincidencia del infractor; y
 
 IV. El beneficio obtenido por el infractor como resultado de la conducta.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 41.
 
 Para la imposición de las sanciones económicas, se observará lo siguiente:
 
-I. Multa equivalente de diez a cien veces el salario mínimo diario general vigente en el Estado de Baja California, a las personas que fumen en lugares o sitios prohibidos;
+I. Multa equivalente de diez a cien veces el valor de la Unidad de Medida y Actualización, a las personas que fumen en lugares o sitios prohibidos;
 
-II. Multa equivalente de mil hasta cuatro mil veces el salario mínimo diario general vigente en el Estado de Baja California, a los propietarios, administradores o responsables de los espacios 100% libres de humo de tabaco, por permitir, tolerar o autorizar que se fume en el interior de los mismos.
+II. Multa equivalente de mil hasta cuatro mil veces el valor de la Unidad de Medida y Actualización, a las y los propietarios, administradores o responsables de los espacios 100% libres de humo de tabaco, por permitir, tolerar o autorizar que se fume en el interior de los mismos;
 
-III.- Multa equivalente de cuatro mil hasta diez mil veces el salario mínimo diario general vigente en el Estado de Baja California, a las personas que cometan infracciones consideradas como graves, conforme a lo dispuesto en el Artículo 42 de esta Ley.
+III. Multa equivalente de cuatro mil hasta diez mil veces el valor de la Unidad de Medida y Actualización, a las personas que cometan infracciones consideradas como graves, conforme a lo dispuesto en el Artículo 42 de esta Ley.
 
 ###### Artículo 42.
 
@@ -481,9 +497,11 @@ VII.- La venta de tabaco en cualquiera de sus modalidades a niñas, niños y ado
 
 VIII.- Adulterar, falsificar, contaminar, alterar cualquier producto de tabaco para su venta, comercialización o distribución en cualquier modalidad, así como su almacenamiento y/o transporte.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 43.
 
-Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por diez mil veces el salario mínimo general vigente en el Estado de Baja California.
+Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por diez mil veces el valor de la Unidad de Medida y Actualización.
 
 ###### Artículo 44.
 
@@ -538,3 +556,9 @@ P.O. 18 DE ENERO DE 2018.
 ## N. DE E. TRANSITORIO DEL “DECRETO NO. 287 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 15; SE REFORMA EL ARTÍCULO 16; SE ADICIONA UN PÁRRAFO AL ARTÍCULO 38 Y SE ADICIONA LA FRACCIÓN VII Y VIII AL ARTÍCULO 42, TODOS DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DEL TABACO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado Baja California.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 305 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 4, 17, 19, 41 Y 43 DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
