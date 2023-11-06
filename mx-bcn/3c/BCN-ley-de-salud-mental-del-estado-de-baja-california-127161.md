@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-mental-del-estado-de-baja-california-127161"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-23"
-last_updated: "2022-09-19"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD MENTAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Baja California, el viernes 23 de febrero de 2018.
 
@@ -199,21 +199,27 @@ V. Llevar a cabo los convenios de coordinación necesarios con los Municipios de
 
 VI. Implementar estrategias de coordinación y supervisión de índole institucional con los prestadores de servicios de salud mental del sector público, social y privado, con la finalidad de generar convenios y acciones de coordinación para la prevención, diagnóstico oportuno, tratamiento y rehabilitación, además, de garantizar la calidad en la prestación de los servicios de salud mental y adicciones;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-VII. Brindar, a través de una línea telefónica de ayuda psicológica y de intervención en crisis, atención en tiempo real y contribuir a estabilizar a los pacientes, mientras se canaliza a una terapia psicológica presencial; y,
+VII. Brindar, a través de una línea telefónica de ayuda psicológica y de intervención en crisis, atención en tiempo real y contribuir a estabilizar a los pacientes, mientras se canaliza a una terapia psicológica presencial;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-VIII. Las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población.
+VIII. La realización de programas para la prevención del suicidio a causa de trastornos mentales y del comportamiento, preferentemente en niñas, niños y adolescentes; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+IX. Las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población.
 
 ###### Artículo 11.
 
 La Secretaría y el Instituto buscará dar prioridad a la niñez, adolescencia, juventud, mujeres en condiciones de embarazo y puerperio, menopausia, adultos mayores, hombres con afecciones mentales y personas que se encuentran en situación de calle, de emergencia o desastre.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 12.
 
-La Secretaría de Educación y Bienestar Social, fomentará y llevará a cabo acciones de coordinación con la Secretaría de Educación Pública Federal, para que en los centros escolares de educación inicial y básica en el sector público, se contemple lo siguiente:
+La Secretaría de Educación, fomentará y llevará a cabo acciones de coordinación con la Secretaría de Educación Pública Federal, para que, en los centros escolares de educación inicial y básica en el sector público, se contemple lo siguiente:
 
 I. Contar con personal capacitado y actualizado en la materia de psicología, pedagogía infantil y educación escolar con el objetivo de identificar un posible trastorno mental que presenten niñas o niños, debiéndolos canalizar a algún Módulo de Atención Mental o Centro Hospitalario, así como informar a sus padres o tutor y dar la orientación correspondiente;
 
@@ -221,7 +227,13 @@ II. Aplicar programas relacionados con salud mental infantil para que sean incor
 
 III. Proporcionar material informativo básico en salud mental a los padres o tutores con la finalidad de identificar algún tipo de trastorno en el menor y aplicar las medidas preventivas en un primer momento.
 
-La Secretaría de Educación, deberá coordinarse con las instituciones de educación privada, a efecto de que se apliquen las acciones señaladas en el artículo anterior.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+La Secretaría de Educación, deberá coordinarse con las instituciones de educación privada, a efecto de que se apliquen las acciones señaladas en el presente artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+Asimismo, la Secretaría de Educación en coordinación con la Secretaría de Salud, implementará acciones similares a las previstas en las fracciones anteriores, respecto a la salud mental de los estudiantes de nivel medio superior.
 
 ###### Artículo 13.
 
@@ -285,29 +297,47 @@ XVIII. Las demás que le otorgue la presente Ley y otras disposiciones legales a
 
 Del Consejo Estatal De Salud Mental
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN P.O. DE 06 DE NOVIEMBRE DE 2023, PÁGINAS 118 Y 119.]</small>
+
 ###### Artículo 18.
 
 El Consejo Estatal de Salud Mental de Baja California, es un órgano de consulta, análisis y asesoría para el desarrollo de planes, programas y proyectos que en materia de salud mental aplique el Gobierno federal y estatal y será integrado por:
 
-I. El Gobernador del Estado, quien lo Presidirá;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-II. El Titular de la Secretaría de Salud, que asumirá la vicepresidencia;
+I. La persona titular del Poder Ejecutivo del Estado, quien lo Presidirá;
 
-III. El Director General del Instituto de Psiquiatría del Estado de Baja California, quien fungirá como Secretario Técnico, con voz pero sin voto
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-IV. El Titular de la Secretaría de Seguridad Pública;
+II. La persona titular de la Secretaría de Salud, que asumirá la vicepresidencia;
 
-V. El Titular de la Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-VI. El Titular de la Secretaría de Educación; y
+III. La persona titular de la Dirección General del Instituto de Psiquiatría del Estado de Baja California, quien fungirá como Secretario Técnico, con voz pero sin voto; y,
 
-VII. El Titular de la Secretaría de Hacienda.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-Los integrantes asistirán a las reuniones del Consejo, los cuales podrán nombrar a un suplente quien deberá tener como cargo mínimo un nivel inmediato inferior al del titular.
+IV. Las personas titulares de las siguientes dependencias del Estado:
 
-La Secretaría invitará a formar parte del Consejo de manera permanente, a un representante de los órganos colegiados de los gremios de profesionales de Salud Mental en el Estado, del Colegio Estatal de Salud Pública, de la Universidad de Baja California así como de Organizaciones Civiles que tengan amplia y reconocida experiencia en el tema. Los integrantes del Consejo tendrán derecho a voz y voto.
+a) Secretaría de Seguridad Ciudadana;
 
-Serán invitados permanentes del Consejo, los Presidentes de las Comisiones de Salud, Justicia y Derechos Humanos, Atención a Grupos Vulnerables de la Sociedad y Asuntos de Equidad y Género del Congreso del Estado de Baja California
+b) Secretaría de Bienestar;
+
+c) Secretaría de Educación; y,
+
+d) Secretaría de Hacienda.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+Las y los integrantes asistirán a las reuniones del Consejo, los cuales podrán nombrar a una persona suplente quien deberá tener como cargo mínimo un nivel inmediato inferior al de la persona titular.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+La Secretaría invitará a formar parte del Consejo de manera permanente, a una persona representante de los órganos colegiados de los gremios de profesionales de Salud Mental en el Estado, del Colegio Estatal de Salud Pública, de la Universidad Autónoma de Baja California así como de Organizaciones Civiles que tengan amplia y reconocida experiencia en el tema. Las y los integrantes del Consejo tendrán derecho a voz y voto.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+Serán invitados permanentes del Consejo, las y los diputados que presidan las Comisiones de Salud, Justicia, Igualdad de Género y Juventudes, así como las comisiones que se instalen en materia de Derechos Humanos, Atención a Grupos Vulnerables de la Sociedad y Asuntos de Equidad y Género del Congreso del Estado de Baja California.
 
 A las sesiones podrán asistir como invitados, personas expertas en materia de salud mental, de los sectores público, social y privado que el pleno del Consejo considere para emitir opiniones, aportar información, o apoyar acciones sobre el tema que se defina. El Reglamento determinará los lineamientos de operación del Consejo.
 
@@ -416,3 +446,17 @@ P.O. 19 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 132 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 10 DE LA LEY DE SALUD MENTAL DEL ESTADO DE BAJA CALIFORNIA, ASIMISMO SE REFORMA AL ARTÍCULO 30 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. Las presentes reformas entraran en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 306 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 10 DE LA LEY DE SALUD MENTAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 308 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 12 Y 18 DE LA LEY DE SALUD MENTAL DEL ESTADO DE BAJA CALIFORNIA, ASÍ MISMO SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 67, 70 Y 73 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las autoridades educativas del Estado en un plazo de seis meses contados a partir de la vigencia del presente Decreto, actualizarán y/o emitirán los programas o protocolos de promoción, prevención y abordaje de la salud mental de los estudiantes.
