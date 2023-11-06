@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-prevencion-de-la-violencia-familiar-para-3296
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-04"
-last_updated: "2018-10-19"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección I, del Periódico Oficial de Baja California, el viernes 4 de julio de 2003.
 
@@ -63,37 +63,39 @@ IV. Económico: toda omisión por la cual no se logre cubrir las necesidades bá
 
 V. Verbal: toda palabra o series de palabras proferidas con las cuales se busque menoscabar la integridad moral de la víctima.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 3.
 
 Son autoridades responsables de la aplicación de esta Ley:
 
-I. El Ejecutivo del Estado por conducto de:
+I.- El Ejecutivo del Estado por conducto de:
 
 a) La Secretaría General de Gobierno;
 
-b) La Procuraduría General de Justicia;
+b) La Secretaría de Seguridad Ciudadana;
 
-c) La Secretaría de Seguridad Pública;
+c) La Secretaría de Salud;
 
-d) La Secretaría de Salud;
+d) Secretaría de Inclusión Social e Igualdad de Género;
 
-e) La Secretaría de Desarrollo Social;
+e) La Secretaría de Educación;
 
-f) La Secretaría de Educación y Bienestar Social;
+f) Dirección de Comunicación Social;
 
-g) La Dirección de Comunicación Social;
+g) El Instituto de la Mujer;
 
-h) El Instituto de la Mujer;
+h) El Instituto de la Juventud;
 
-i) El Instituto de la Juventud;
+i) El Sistema para el Desarrollo Integral de la Familia;
 
-j) El Sistema Estatal para el Desarrollo Integral de la Familia;
+j) La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado,
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+II. Los ayuntamientos; y,
 
-k) La Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia, y
+III. La Fiscalía General del Estado.
 
-II. Los ayuntamientos.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 4.
 
@@ -115,19 +117,19 @@ VII. Miembros de la Familia: Aquellas personas que conforman o conformaron una f
 
 VIII. Ley: A la Ley de Atención y Prevención de la Violencia Familiar para el Estado de Baja California;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-IX. Procuraduría: La Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia en el Estado;
+IX. Procuraduría: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado;
 
 X. Programa: Al Programa para la Atención y Prevención de la Violencia Familiar, y
 
 XI. Consejo: Al Consejo para la Atención y Prevención de la Violencia Familiar en el Estado de Baja California.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 5.
 
-La presente Ley reconoce como derechos de la víctima de la violencia familiar la atención y prevención; y del generador de la misma la atención integral que deban recibir, conforme a esta Ley, sin menoscabo de los derechos establecidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Baja California, la legislación civil y penal de la entidad y demás ordenamientos que tengan por objeto proteger los derechos de la mujer, de personas menores de dieciocho años de edad, de personas que no tienen la capacidad para comprender el significado del hecho, de los adultos mayores de sesenta años de edad y personas con capacidades diferentes, así como la organización, desarrollo y armonía del orden familiar.
+La presente Ley reconoce como derechos de la víctima de la violencia familiar la atención y prevención; y del generador de la misma la atención integral que deban recibir, conforme a esta Ley, sin menoscabo de los derechos establecidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Baja California, la legislación civil y penal de la entidad y demás ordenamientos que tengan por objeto proteger los derechos de la mujer, de niñas, niños y adolescentes, de personas que no tienen la capacidad para comprender el significado del hecho, de las personas adultas mayores de sesenta años de edad y personas con condición de discapacidad, así como la organización, desarrollo y armonía del orden familiar.
 
 ###### ARTÍCULO 6.
 
@@ -139,35 +141,37 @@ La aplicación de esta Ley no afectará el ejercicio de los derechos que corresp
 
 Se crea el Consejo como órgano de apoyo, evaluación, coordinación y concertación en materia de atención y prevención de la violencia familiar en el Estado. El Consejo tendrá carácter honorario.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 8.
 
 El Consejo se integrará por:
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+I. Una Presidencia, encabezada por la persona titular de la Procuraduría;
 
-I. Un Presidente, que será el titular de la Procuraduría;
+II. Una Secretaría, encabezada por la persona titular de la Fiscalía General del Estado;
 
-II. Un Secretario, que será el titular de la Procuraduría General de Justicia;
-
-III. Seis Vocales, que serán los titulares o representantes de:
+III. Seis Vocales, que serán las personas titulares o representantes de:
 
 a) La Secretaría General de Gobierno;
 
-b) La Secretaría de Educación y Bienestar Social;
+b) La Secretaría de Educación;
 
-c) La Secretaría de Desarrollo Social;
+c) La Secretaría de Inclusión Social e Igualdad de Género;
 
 d) La Secretaría de Salud;
 
-e) La Secretaría de Seguridad Pública;
+e) La Secretaría de Seguridad Ciudadana;
 
-f) El Instituto de la Mujer, y
+f) El Instituto de la Mujer; y,
 
-IV. Un representante por cada municipio, que será electo por el Ejecutivo Estatal mediante insaculación, a propuesta de los ciudadanos y organizaciones civiles que realicen actividades tendientes a la atención y prevención de la violencia familiar.
+IV. Una persona representante por cada municipio, que será electa por la persona Titular del Ejecutivo Estatal mediante insaculación, a propuesta de las y los ciudadanos y organizaciones civiles que realicen actividades tendientes a la atención y prevención de la violencia familiar.
 
-Podrán ser invitados a las reuniones del Consejo, los presidentes del Congreso del Estado o del Tribunal Superior de Justicia, respectivamente, así como los servidores públicos, investigadores o representantes de las instituciones públicas o privadas que estén relacionadas con el objeto y materia de esta Ley.
+Podrán ser invitadas a las reuniones del Consejo, la Presidencia del Congreso del Estado o del Tribunal Superior de Justicia, respectivamente, así como el personal del servicio público, las y los investigadores o representantes de las instituciones públicas o privadas que estén relacionadas con el objeto y materia de esta Ley.
 
-El Consejo designará un Secretario Técnico, quien tendrá las facultades y obligaciones establecidas en el Reglamento Interno.
+El Consejo designará una Secretaría Técnica, que tendrá las facultades y obligaciones establecidas en el Reglamento Interno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 9.
 
@@ -181,9 +185,9 @@ II. Fomentar la coordinación, concertación, colaboración e información entre
 
 III. Vigilar la aplicación y cumplimiento del Programa;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-IV. Promover la capacitación y sensibilización de los operadores del sistema judicial, del personal profesional auxiliar, del policial, del sistema de salud y en general, de cualquiera que preste servicios en materia de violencia familiar, a efecto de mejorar la atención a las víctimas que requieran de su intervención;
+IV. Promover la capacitación y sensibilización de las personas operadoras del sistema judicial, del personal profesional auxiliar, del policial, del sistema de salud y en general, de cualquiera que preste servicios en materia de violencia familiar, a efecto de mejorar la atención a las víctimas que requieran de su intervención, con base en los principios de igualdad de género y no discriminación;
 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
 
@@ -197,7 +201,9 @@ VI. Difundir los contenidos de esta Ley y de los derechos en materia de violenci
 
 VII. Gestionar con los medios de comunicación, a fin de que participen en la difusión de los programas, de campañas públicas encaminadas a sensibilizar y concientizar a la población sobre el problema de violencia familiar y, de las medidas de atención y prevención de la violencia familiar, y
 
-VIII. Proponer al Ejecutivo del Estado el proyecto de Reglamento Interno.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+VIII. Proponer a la Persona Titular del Ejecutivo del Estado el proyecto de Reglamento Interno;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2018)</small>
 
@@ -207,17 +213,23 @@ IX. Proponer ante los Municipios las políticas públicas de prevención basadas
 
 El Consejo deberá sesionar en forma ordinaria por lo menos una vez cada dos meses, y de manera extraordinaria cuando lo estime necesario.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 11.
 
-Los integrantes del Consejo tendrán voz y voto en las sesiones y asuntos, mientras que los invitados únicamente el derecho a voz.
+Las personas integrantes del Consejo tendrán voz y voto en las sesiones y asuntos, mientras que las y los invitados únicamente el derecho a voz.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 12.
 
-Los integrantes del Consejo enunciados en el Artículo 8, fracción IV, de esta Ley durarán tres años en su ejercicio.
+Las personas integrantes del Consejo enunciados en el Artículo 8, fracción IV, de esta Ley durarán tres años en su ejercicio.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 13.
 
-La organización y el funcionamiento del Consejo, así como las facultades y suplencias de los integrantes, se establecerán en el Reglamento Interno.
+La organización y el funcionamiento del Consejo, así como las facultades y suplencias de las personas integrantes, se establecerán en el Reglamento Interno.
 
 ### CAPÍTULO TERCERO. PROGRAMA PARA LA ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR
 
@@ -231,11 +243,11 @@ Se invitará a las diversas organizaciones de la sociedad civil que tengan por o
 
 El programa tendrá carácter anual y su ejecución se ajustará a la disponibilidad presupuestal, así como a las disposiciones y lineamientos que sobre el particular dicten las autoridades competentes.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 15.
 
-El Programa, deberá ser aprobado por el Ejecutivo del Estado y los ayuntamientos en el ámbito de sus respectivas competencias y se dará a conocer al Poder Legislativo por medio de la Comisión que le corresponda.
+El Programa, deberá ser aprobado por la persona Titular del Ejecutivo del Estado y los ayuntamientos en el ámbito de sus respectivas competencias y se dará a conocer al Poder Legislativo por medio de la Comisión que le corresponda.
 
 ###### ARTÍCULO 16.
 
@@ -271,27 +283,29 @@ III. Se abstendrá de asumir patrones estereotipados de comportamientos o práct
 
 IV. Se basará en modelos psicoterapéuticos específicos para personas con perfiles definidos y contendrá acciones susceptibles de evaluación.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 20.
 
-La atención se podrá hacer extensiva en instituciones públicas a quienes cuenten con ejecutoria relacionada con eventos de violencia familiar, a solicitud de la autoridad jurisdiccional de acuerdo con las facultades que tiene conferidas el juez penal, familiar, o especializado para adolescentes; o bien, a solicitud del propio interesado.
+La atención se podrá hacer extensiva en instituciones públicas a quienes cuenten con ejecutoria relacionada con eventos de violencia familiar, a solicitud de la autoridad jurisdiccional de acuerdo con las facultades que tiene conferidas la o el juez especializado en violencia familiar contra las mujeres, penal, familiar, o especializado para adolescentes; o bien, a solicitud de la persona interesada.
 
 ###### ARTÍCULO 21.
 
 La atención será proporcionada por personal especializado y en la medida de lo posible de forma multidisciplinaria.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 22.
 
-Los órganos jurisdiccionales a través de sus titulares, y una vez que conozcan de juicios o procesos, en donde se desprenda que existe violencia familiar, podrán solicitar a las instituciones debidamente registradas en la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia la realización de estudios o investigaciones, o bien que emitan informes o dictámenes respecto de procesos psicoterapéuticos de generadores y víctimas de la violencia familiar, cuando sea necesario para allegarse elementos al emitir sentencia o en general le sean de utilidad, conforme a los Códigos de Procedimientos Civiles y Penales para el Estado de Baja California y demás leyes aplicables.
+Los órganos jurisdiccionales a través de las personas titulares, y una vez que conozcan de juicios o procesos, en donde se desprenda que existe violencia familiar, podrán solicitar a las instituciones debidamente registradas en la Procuraduría de Protección de Niñas, Niños y Adolescentes la realización de estudios o investigaciones, o bien que emitan informes o dictámenes respecto de procesos psicoterapéuticos de generadores y víctimas de la violencia familiar, cuando sea necesario para allegarse elementos al emitir sentencia o en general le sean de utilidad, conforme a los Códigos de Procedimientos Civiles y Penales para el Estado de Baja California y demás leyes aplicables.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 23.
 
-La atención en materia de violencia familiar se proporcionará a través de las autoridades enunciadas en el Artículo 3, fracción I, incisos b) y k).
+La atención en materia de violencia familiar se proporcionará a través de las autoridades enunciadas en el Artículo 3, fracción I, inciso j) y fracción III.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 24.
 
@@ -301,7 +315,9 @@ I. Prestar en forma gratuita los servicios de atención psicológica, legal, edu
 
 II. Cuidar que la atención, sea especializada, con personal capacitado y mediante procedimientos que cuiden la dignidad humana;
 
-III. Vigilar que la asistencia proporcionada este libre de prejuzgar sexo, raza, condición socioeconómica, religión o credo, nacionalidad o de cualquier otro tipo;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+III. Vigilar que la asistencia proporcionada esté libre de prejuzgar sexo, orientación o preferencia sexual, raza, condición socioeconómica, de discapacidad, religión o credo, nacionalidad o de cualquier otro tipo;
 
 IV. Hacer del conocimiento del Ministerio Público aquellos casos de violencia familiar que pudieran constituir un delito que se persiga de oficio;
 
@@ -319,9 +335,11 @@ X. Llevar un registro de las instituciones públicas, privadas y organismos soci
 
 XI. Las demás que le señalen ésta u otras leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 25.
 
-Corresponde a la Procuraduría General de Justicia, para el debido cumplimiento de esta Ley:
+Corresponde a la Fiscalía General del Estado, para el debido cumplimiento de esta Ley:
 
 > <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
@@ -341,21 +359,33 @@ IV. Llevar el registro de los delitos que se cometan como consecuencia de violen
 
 La prevención de la violencia familiar estará orientada a propiciar una cultura que favorezca y coadyuve a crear un marco de libertad e igualdad entre las personas que integran la familia, eliminando las causas y patrones que generan y refuerzan la violencia familiar con el propósito de erradicarla, mediante la promoción de valores a través de la elaboración y ejecución de políticas públicas.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 27.
 
 Se establecen como políticas públicas de prevención las siguientes:
 
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 I. Promoción del estudio e investigación de las causas y consecuencias de la violencia familiar, y con base en los resultados, adopción de las actuaciones necesarias para su erradicación;
 
-II. Impulso del proceso de modificación de patrones socio-culturales de conducta de hombres y mujeres bajo la perspectiva de genero, incluyendo el diseño de programas de educación apropiados a todos los niveles, para contrarrestar prejuicios, costumbres y practicas basadas en la supuesta superioridad o inferioridad de los géneros;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-III. Impulso a la formación de promotores comunitarios cuya función básica sea estimular el programa parea (sic) la atención y prevención de la violencia familiar;
+II. Impulso del proceso de modificación de patrones socio-culturales de conducta de hombres y mujeres bajo la perspectiva de género, incluyendo el diseño de programas de educación apropiados a todos los niveles, para contrarrestar prejuicios, costumbres y prácticas basadas en la supuesta superioridad o inferioridad de los géneros;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+III. Impulso a la formación de personas promotoras comunitarias cuya función básica sea estimular el programa para la atención y prevención de la violencia familiar;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 IV. Promoción de estrategias de capacitación y difusión para el conocimiento, detección y prevención de la violencia familiar,
 
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 V. Diseño de programas de capacitación para servidores públicos y de los organismos sociales que participen en la protección de las víctimas de la violencia familiar, a efecto de que su labor se sujete a los lineamientos de esta Ley, y
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 VI. Elaboración de las estadísticas correspondientes que permitan conocer la diversa información que se pueda registrar en materia de Violencia Familiar.
 
@@ -371,41 +401,31 @@ El personal de las instituciones públicas o privadas relacionadas con la violen
 
 La capacitación tendrá una estrategia multiplicadora y deberá estar dirigida a la sensibilización y compresión de la complejidad y multicausalidad de la violencia familiar, a la reflexión de cómo pueden perfeccionarse las propuestas de atención y fortalecimiento del compromiso de servicio acorde al objeto de esta Ley.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 30.
 
-Los organismos sociales, las autoridades, dependencias e instituciones señaladas en la Ley, deberán coordinarse en forma eficiente, rápida e imparcial a través de convenios de colaboración o mediante los mecanismos legales conducentes, a efecto de instrumentar y ejecutar las políticas públicas de prevención que prevé esta Ley. Asimismo deberán coordinarse, considerando la disponibilidad presupuestaria, para la realización de campañas de difusión e información a los habitantes del Estado sobre los programas de atención, asistencia y prevención de la violencia familia (sic), debiendo priorizar el interés superior del menor y la familia.
+Los organismos sociales, las autoridades, dependencias e instituciones señaladas en la Ley, deberán coordinarse en forma eficiente, rápida e imparcial a través de convenios de colaboración o mediante los mecanismos legales conducentes, a efecto de instrumentar y ejecutar las políticas públicas de prevención que prevé esta Ley. Asimismo, deberán coordinarse, considerando la disponibilidad presupuestaria, para la realización de campañas de difusión e información a las y los habitantes del Estado sobre los programas de atención, asistencia y prevención de la violencia familia (sic), debiendo priorizar el interés superior de la niñez y la familia.
 
 ### CAPÍTULO SEXTO. PROCEDIMIENTO CONCILIATORIO Y SU SEGUIMIENTO
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
 ###### ARTÍCULO 31.
 
-La Procuraduría, a instancia de las partes en conflicto de violencia familiar, podrá resolver sus diferencias a través del procedimiento conciliatorio previsto por el CAPITULO VII, de la Ley de Protección y Defensa de los Derechos de las personas menores de dieciocho años de edad y la familia en el Estado de Baja California.
+(DEROGADO, P.O. 6 DE NOVIEMBRE DE 2023)
 
 ###### ARTÍCULO 32.
 
-El seguimiento del procedimiento conciliatorio tiene por finalidad:
-
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
-I. Verificar el cumplimiento de los compromisos establecidos en los convenios de conciliación, en caso de incumplimiento se impondrá la sanción prevista en el CAPITULO VIII, de la Ley de Protección y Defensa de los Derechos de las personas menores de dieciocho años de edad y la Familia en el Estado de Baja California;
-
-II. Vigilar que el generador de la violencia familiar se someta a la atención especializada psicoterapéutica reeducativa integral convenida, y
-
-III. Gestionar ante la autoridad jurisdiccional competente la ejecución forzosa del convenio en caso de incumplimiento, sin perjuicio de imponer la sanción que corresponda.
+(DEROGADO, P.O. 6 DE NOVIEMBRE DE 2023)
 
 ### CAPÍTULO SÉPTIMO. PROCEDIMIENTO PARA APLICAR SANCIONES
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 33.
 
-La Procuraduría impondrá las sanciones previstas en el Capítulo VIII de la Ley de Protección y Defensa de los Derechos de las personas menores de dieciocho años de edad y la Familia en el Estado de Baja California, cuando se cometa alguna de las infracciones previstas en dicho ordenamiento.
+La Procuraduría impondrá las sanciones previstas en el Título Séptimo de la Ley de Protección y Defensa de los Derechos de las Niñas, Niños y Adolescentes del Estado de Baja California, cuando se cometa alguna de las infracciones previstas en dicho ordenamiento.
 
-Las sanciones impuestas por la Procuraduría serán independientes de las previstas en el convenio respectivo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE OCTUBRE DE 2007)</small>
 
@@ -413,9 +433,9 @@ Las sanciones impuestas por la Procuraduría serán independientes de las previs
 
 Las sanciones se determinarán tomando en cuenta los elementos siguientes:
 
-I. La falta de interés para sujetarse al procedimiento conciliatorio;
+I. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2023)
 
-II. El incumplimiento al convenio establecido;
+II. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2023)
 
 III. Los daños que se hayan producido o puedan producirse en la salud de las victimas de la violencia familiar;
 
@@ -423,21 +443,21 @@ IV. Las condiciones personales y socioeconómicas del generador de la violencia 
 
 V. El carácter o condición de reincidente del generador de la violencia familiar.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
 ###### ARTÍCULO 35.
 
-La Procuraduría, para la imposición de las sanciones deberá citar al infractor a una audiencia para que manifieste lo que a su derecho convenga y, en la misma el conciliador determinará la sanción.
+(DEROGADO, P.O. 6 DE NOVIEMBRE DE 2023)
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 36.
 
-La Procuraduría, sin perjuicio de la sanción, apercibirá al infractor para que no reincida en la comisión de las infracciones que prevé en el Capítulo VIII, de la Ley de Protección y Defensa de los Derechos de las personas menores de dieciocho años de edad y la familia en el Estado de Baja California, haciéndole saber las consecuencias legales de su conducta.
+La Procuraduría, sin perjuicio de la sanción, apercibirá al infractor para que no reincida en la comisión de las infracciones que prevé en el Título Séptimo de la Ley de Protección y Defensa de los Derechos de las Niñas, Niños y Adolescentes del Estado de Baja California, haciéndole saber las consecuencias legales de su conducta.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 37.
 
-La autoridad podrá abstenerse de sancionar al infractor, por una sola vez, cuando lo ameriten los antecedentes y circunstancias del infractor o, en su caso, cuando se aporten elementos que justifiquen a juicio de la autoridad la falta a la audiencia de conciliación o el incumplimiento del convenio.
+La autoridad podrá abstenerse de sancionar a la persona infractora, por una sola vez, cuando lo ameriten los antecedentes y circunstancias de la persona infractora.
 
 ###### ARTÍCULO 38.
 
@@ -449,11 +469,11 @@ El monto de las sanciones se destinará a la ejecución del Programa.
 
 La facultad de aplicar las sanciones económicas prescribe en seis meses, plazo que contará a partir del día siguiente a aquél en que se hubiere cometido la infracción.
 
-> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 40.
 
-El incumplimiento de las obligaciones, facultades o funciones que por omisión o comisión, hagan las autoridades consideradas como competentes en la aplicación de esta Ley, serán sancionadas en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, con independencia de los supuestos normativos que en materia penal pueda actualizar su conducta.
+El incumplimiento de las obligaciones, facultades o funciones que, por omisión o comisión, hagan las autoridades consideradas como competentes en la aplicación de esta Ley, serán sancionadas en los términos de la Ley de Responsabilidades Administrativas del Estado de Baja California, con independencia de los supuestos normativos que en materia penal pueda actualizar su conducta.
 
 ## TRANSITORIOS
 
@@ -564,3 +584,9 @@ P.O. 19 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 268 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN I DEL ARTÍCULO 2 DE LA LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 296 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3, 4, 5, 8, 9, 11, 12, 13, 15, 20, 22, 23, 24, 25, 27, 30, 33, 36, 37 Y 40 Y SE DEROGAN LOS ARTÍCULOS 31, 32 Y LAS FRACCIONES I Y II DEL ARTÍCULO 34 Y EL ARTÍCULO 35 DE LA LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en Vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
