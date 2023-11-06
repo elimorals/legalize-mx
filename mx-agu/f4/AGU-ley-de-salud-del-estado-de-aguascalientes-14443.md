@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2023-10-27"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -920,6 +920,28 @@ Los usuarios tendrán derecho a obtener prestaciones de salud oportunas y de cal
 ARTICULO 57 BIS.- Las mujeres embarazadas sin control prenatal, adultos mayores, enfermos postrados o terminales, las personas en situación de abandono, así como personas con discapacidad imposibilitados para acudir a una unidad de salud, podrán recibir los servicios de salud a través del programa El Médico en Tu Casa, a través de las instituciones médicas que cuenten con el programa.
 
 Para efectos de lo señalado en el presente artículo se entenderá por persona en situación de abandono, aquella que por su situación social o familiar viven abandonadas por sus familiares en su domicilio y son apoyados por algún vecino o cualquier persona.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+ARTICULO 57 TER.- Los usuarios tienen derecho a decidir libremente sobre la aplicación de los procedimientos diagnósticos y terapéuticos ofrecidos. En caso de urgencia o que el usuario se encuentre en estado de incapacidad transitoria o permanente, la autorización para proceder será otorgada por el familiar que lo acompañe o su representante legal. En caso de no ser posible lo anterior, el prestador de servicios de salud procederá de inmediato para preservar la vida y salud del usuario, dejando constancia en el expediente clínico.
+
+Los usuarios de los servicios públicos de salud en general, contarán con facilidades para acceder a una segunda opinión.
+
+El consentimiento informado constituye el núcleo del derecho a la salud, tanto desde la perspectiva de la libertad individual como de las salvaguardas para el disfrute del mayor estándar de salud.
+
+El consentimiento informado es la conformidad expresa de una persona, manifestada por escrito, para la realización de un diagnóstico o tratamiento de salud.
+
+Todos los prestadores de servicios de salud, públicos o privados, están obligados a comunicar a la persona, de manera accesible, oportuna y en lenguaje comprensible, la información veraz y completa, incluyendo los objetivos, los posibles beneficios y riesgos esperados y las alternativas de tratamiento, para asegurar que los servicios se proporcionen sobre la base del consentimiento libre e informado.
+
+Una vez garantizada la comprensión de la información a través de los medios y apoyos necesarios, la población usuaria de los servicios de salud tiene el derecho de aceptarlos o rechazarlos.
+
+En situaciones en las que una persona no pueda dar su consentimiento para un tratamiento en un momento específico por ningún medio, no exista un documento de voluntad anticipada y su salud se encuentre en tal estado que, si el tratamiento no se administra de inmediato, su vida estaría expuesta a un riesgo inminente o su integridad física a un daño irreversible, el prestador de servicios de salud procederá de inmediato para preservar la vida y salud del usuario, dejando constancia en el expediente clínico, otorgando informe justificado a los Comités de Ética y a la autoridad judicial competente.
+
+En el caso de las niñas, niños y adolescentes, sus padres fungirán como sus representantes, y constituye una obligación por parte de los prestadores de servicios de atención a la salud implementar los apoyos y ajustes razonables, adecuados a su edad para que su voluntad y preferencias sean tomadas en cuenta en la determinación del tipo de intervenciones encaminadas a garantizar su recuperación y bienestar.
+
+Se entenderá como ajustes razonables a las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales.
+
+No se entenderá que la persona no puede dar su consentimiento cuando se estime que está en un error o que no tiene conciencia de lo que hace.
 
 ###### ARTICULO 58.
 
@@ -4562,3 +4584,11 @@ Para el cumplimiento del presente Decreto, se deberán llevar a cabo a través d
 ###### ARTÍCULO DÉCIMO TERCERO.
 
 Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 465.- SE ADICIONA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
