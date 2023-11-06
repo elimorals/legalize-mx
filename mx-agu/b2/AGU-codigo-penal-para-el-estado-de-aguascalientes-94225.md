@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2023-10-23"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -95,9 +95,15 @@ En caso de delitos cometidos en contra de niñas, niños y adolescentes siempre 
 
 ### CAPÍTULO I. Ámbitos de Aplicación de la Ley Penal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 7o.
 
-Validez personal. El contenido de las figuras típicas descritas en este Código obliga a todos los habitantes del Estado de Aguascalientes, sin excepción alguna, sean nacionales o extranjeros, residentes o transeúntes.
+Validez personal. El contenido de las figuras típicas descritas en este Código obliga a todos los habitantes del Estado de Aguascalientes, sin excepción alguna, sean nacionales o extranjeros, residentes o transeúntes, así como a las personas jurídicas nacionales o extranjeras residentes en el Estado, en cuanto a las figuras típicas que les son aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+Para los efectos de este Código, todas las referencias que los ordenamientos aplicables en materia penal hagan al término de personas jurídicas o equivalentes, se entenderá que se refieren también a las personas morales.
 
 ###### ARTÍCULO 8o.
 
@@ -141,9 +147,11 @@ Delito instantáneo, permanente y continuado. El delito es Instantáneo cuando s
 
 ### CAPÍTULO II. Conducta
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 13.
 
-La conducta y nexo. Sólo serán considerados inculpados del hecho punible las personas físicas.
+La conducta y nexo. Tanto las personas físicas como las personas jurídicas podrán ser imputadas por los hechos punibles previstos en el presente Código, pero las segundas únicamente por aquellos tipos penales previstos en el artículo 21 A de este mismo ordenamiento
 
 La conducta penalmente relevante puede ser de acción u omisión en las que medie voluntad.
 
@@ -229,9 +237,115 @@ Son aplicables los que se fundan en circunstancias objetivas, si los demás auto
 
 Ausencia de conducta. No existe conducta cuando se provoca un resultado de afectación o de puesta en peligro concreto por fuerza física irresistible, impedimento físico, movimientos reflejos o cualquier otro caso en que haya ausencia de voluntad del inculpado.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 21.
 
-Responsabilidad de personas colectivas. Cuando algún integrante o representante de una persona jurídica colectiva, con excepción de las instituciones del Estado, facilite los medios para la comisión de un hecho punible, de modo que éste resulte cometido a su nombre, bajo su amparo o en beneficio de ella, los tribunales, con la audiencia del representante legal de aquélla, aplicarán las medidas jurídicas previstas para el efecto por este Código, sin perjuicio de la responsabilidad individual por el o los hechos delictivos cometidos.
+Responsabilidad de personas jurídicas. Las personas jurídicas serán penalmente responsables con excepción de las Instituciones del Estado, de los delitos cometidos a su nombre, por su cuenta, en su beneficio o a través de los medios que estas proporcionen, cuando se haya determinado que además existió inobservancia del debido control en su organización, con independencia de responsabilidad penal en que puedan incurrir sus representantes o administradores de hecho o de derecho.
+
+La persona jurídica quedará excluida de responsabilidad penal si demuestra que cuenta con un debido control en su organización, a partir de los siguientes supuestos:
+
+I. Que ha adoptado y ejecutado con eficacia, antes de la comisión del delito algún modelo de organización, gestión y prevención del delito acorde a su naturaleza, el volumen de sus operaciones y su objeto social;
+
+II. Que cuenta con un órgano encargado de la supervisión y seguimiento para el cumplimiento del modelo de organización, gestión y prevención del delito con facultades suficientes y preferentemente autónomo; y
+
+III. Que los hechos punibles por los que esté siendo investigada o imputada no se produjeron por una omisión deliberada o negligente de las funciones de supervisión y seguimiento, o bien, porque se haya dejado de aplicar debidamente el modelo de organización, gestión y prevención o no se haya actualizado suficientemente a nuevas formas de funcionamiento, giros sociales o comerciales o no se haya adecuado a cambios normativos generales.
+
+Los modelos de organización, gestión y prevención del delito, para poder ser considerados como una forma de exclusión de la responsabilidad penal para la persona jurídica, deberán estar diseñados e implementados al menos con las siguientes características:
+
+a) Identificar y abarcar todos los giros, operaciones y actividades susceptibles de generar actos u omisiones que se encuentren considerados en la ley como figuras típicas punibles;
+
+b) Contemplar procedimientos, lineamientos, protocolos, códigos o cualquier otra norma interna para el adecuado funcionamiento de las actividades desarrolladas por la organización;
+
+c) Disponer de modelos de gestión de los recursos financieros que permitan evitar o prevenir la comisión de delitos o conductas que puedan ser consideradas como operaciones con recursos de procedencia ilícita o cualquiera otra contemplada como actos de corrupción;
+
+d) Contar con algún esquema que permita a los órganos de supervisión y vigilancia conocer y anticiparse a los posibles riesgos y formas de comisión de conductas consideradas en la ley como delitos;
+
+e) Adoptar sistemas de control disciplinario para aplicar consecuencias tanto positivas como negativas al cumplimiento e incumplimiento de los miembros de la organización respecto de la normatividad interna implementada; y
+
+f) Promover la actualización constante de los protocolos y normas internas de la organización, así como de los modelos de supervisión y control, que mantengan la eficacia del modelo organizacional.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+ARTÍCULO 21 A.- Las personas jurídicas únicamente podrán ser sujetos procesales de investigación e imputación penal por los hechos que la ley señala como delito consumados o tentados, siguientes:
+
+I. Homicidio doloso y culposo;
+
+II. Feminicidio;
+
+III. Aborto doloso y culposo;
+
+IV. Lesiones dolosas y culposas;
+
+V. Hostigamiento sexual;
+
+VI. Atentados al pudor;
+
+VII. Corrupción de menores e incapaces;
+
+VIII. Pornografía infantil o de incapaces;
+
+IX. Violación y Violación equiparada;
+
+X. Fecundación artificial indebida;
+
+XI. Tráfico de menores;
+
+XII. Privación Ilegal de la libertad;
+
+XIII. Desaparición forzada de personas;
+
+XIV. Robo, robo equiparado, robo calificado;
+
+XV. Abigeato, abigeato equiparado y abigeato calificado;
+
+XVI. Abuso de confianza;
+
+XVII. Fraude;
+
+XVIII. Usura;
+
+XIX. Extorsión;
+
+XX. Despojo;
+
+XXI. Daño en las cosas doloso y culposo;
+
+XXII. Atentados al desarrollo urbano ordenado;
+
+XXIII. Responsabilidad profesional médica;
+
+XXIV. Responsabilidad médica asistencial;
+
+XXV. Quebrantamiento de sellos;
+
+XXVI. Cohecho;
+
+XXVII. Peculado;
+
+XXVIII. Tráfico de influencia;
+
+XXIX. Encubrimiento;
+
+XXX. Revelación de secretos;
+
+XXXI. Acceso informático indebido;
+
+XXXII. Suplantación de identidad;
+
+XXXIII. Violación a la intimidad personal;
+
+XXXIV. Ataques a las vías de comunicación y medios de transporte, doloso y culposo;
+
+XXXV. Defraudación fiscal;
+
+XXXVI. Atentados al equilibrio ecológico doloso y culposo;
+
+XXXVII. Discriminación;
+
+XXXVIII. Asedio laboral; o
+
+XXXIX. Atentados a la salud pública.
 
 ### CAPÍTULO III. Tipicidad
 
@@ -715,11 +829,15 @@ ARTÍCULO 73 A.- Tratamiento Psicológico.- El tratamiento psicológico consiste
 
 El tratamiento psicológico no deberá exceder de la pena de prisión que hubiere sido impuesta, o de las medidas de Tratamiento en Libertad o Semilibertad precisadas en este Código.
 
-### CAPÍTULO XIII. Medidas de Seguridad Aplicables a Personas Jurídicas Colectivas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+### CAPÍTULO XIII. Consecuencias Jurídicas Aplicables a Personas Jurídicas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 74.
 
-Medidas aplicables. Cuando en la comisión del hecho delictivo se hubiere utilizado como medio o instrumento a una persona jurídica colectiva, se aplicarán a esta última las siguientes medidas de seguridad:
+Consecuencias jurídicas. Cuando una persona jurídica cometa un hecho delictivo, se le aplicarán las siguientes consecuencias jurídicas:
 
 I. Intervención;
 
@@ -733,9 +851,11 @@ V. Remoción de funcionarios; y
 
 VI. Multa y Reparación de Daños y Perjuicios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 75.
 
-Forma de aplicación de las medidas. Las Medidas de Seguridad señaladas en el Artículo anterior, se aplicarán de la siguiente forma:
+Forma de aplicación de las consecuencias jurídicas. Las consecuencias jurídicas señaladas en el artículo anterior, se aplicarán de la siguiente forma:
 
 I. Intervención de sus órganos de representación, con las atribuciones que al Interventor confiere la ley aplicable a la materia, sin que su duración pueda exceder de dos años;
 
@@ -751,7 +871,9 @@ IV. Prohibición de hasta diez años para realizar determinados actos u operacio
 
 V. Remoción de sus funcionarios, solo por el tiempo indispensable para sustituirlos conforme a la ley de la materia.
 
-Con relación a la multa y al pago de reparación de daños y perjuicios, se estará a lo dispuesto por este Código, respecto a lo señalado para las personas físicas, con las adecuaciones correspondientes tratándose de personas colectivas, en tratándose de la multa.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+Con relación a la multa y al pago de reparación de daños y perjuicios se estará a lo dispuesto por este Código respecto a lo señalado para las personas físicas con las adecuaciones correspondientes tratándose de personas jurídicas en caso de multa.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE AGOSTO DE 2017)</small>
 
@@ -993,9 +1115,9 @@ Se considerará que existen razones de género cuando se acredite cualquiera de 
 
 I. Exista o haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, noviazgo, amistad o cualquier otra relación de hecho;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-II. Exista o haya existido entre el activo y la víctima una relación laboral, escolar, docente o cualquiera otra que implique confianza, subordinación o superioridad;
+II. Exista o haya existido entre el activo y la víctima una relación laboral, escolar, docente, política o cualquiera otra que implique confianza, subordinación o superioridad;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
@@ -1005,7 +1127,9 @@ III. La víctima presente signos de violencia sexual de cualquier tipo o su cad�
 
 IV. A la víctima se le hayan infligido lesiones, mutilaciones o signos de haber sufrido tortura, previas o posteriores a la privación de la vida;
 
-V. Existan antecedentes o actos de amenazas, violencia o lesiones de cualquier tipo por parte del sujeto activo contra la víctima;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+V. Existan antecedentes o actos que establezcan que el sujeto activo ha cometido amenazas, acoso, lesiones, violencia familiar, laboral, escolar, política, o de cualquier otro tipo en contra de la víctima;
 
 VI. El cuerpo de la víctima sea expuesto, depositado o arrojado en lugar público;
 
@@ -1019,43 +1143,27 @@ IX. La víctima se hubiere encontrado en estado de gravidez.
 
 X. Cuando el sujeto activo abuse de su cargo público para la comisión del delito.
 
-A quién cometa el delito de feminicidio se sancionará con prisión de cuarenta a sesenta años, de 500 a 1000 días multa así como el pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+A quien cometa el delito de feminicidio se sancionará con prisión de cuarenta a sesenta años, de 500 a 1000 días multa, así como el pago total de la reparación de los daños y perjuicios ocasionados. La pena de prisión se aumentará en una tercera parte más respecto de los mínimos y máximos indicados, cuando la víctima sea menor de 16 años de edad o tenga 60 años o más.
 
 Se impondrá además de la pena, la pérdida de derechos con respecto a la víctima y ofendidos, incluidos los de carácter sucesorio.
 
 Cuando la víctima tenga hijos menores de edad que queden en la orfandad, el responsable deberá indemnizar en concepto de reparación del daño a los representantes de los menores con el doble de la indemnización a que alude el artículo 58 del presente Código.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-Cuando en los hechos no concurran las razones de género previstas en el presente Artículo, al que dolosamente prive de la vida a una mujer por cualquier medio, se le impondrán de 8 a 20 años de prisión y de 25 a 250 días multa, así como el pago total de la reparación de los daños y perjuicios ocasionados. Lo anterior salvo que:
+Cuando en los hechos no concurran las razones de género previstas en el presente Artículo, al que dolosamente prive de la vida a una mujer por cualquier medio, se le impondrán de 8 a 20 años de prisión y de 25 a 250 días multa, así como el pago total de la reparación de los daños y perjuicios ocasionados. Lo anterior salvo lo previsto en el artículo 107 de este Código, en relación con el delito de homicidio doloso considerado como calificado.
 
-I. Se cometan con:
+I. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2023)
 
-a) Premeditación;
+II. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2023)
 
-b) Ventaja;
+III. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2023)
 
-c) Alevosía;
+IV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2023)
 
-d) Traición; o
-
-e) Brutal ferocidad;
-
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2022)</small>
-
-II. La víctima sea menor de 15 años de edad;
-
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2022)</small>
-
-III. La víctima se dedique al ejercicio de las labores periodísticas, y el resultado se provoque con motivo del ejercicio de su profesión; o
-
-> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2022)</small>
-
-IV. El hecho se haya cometido aprovechándose de la prestación de un servicio de transporte público, privado o contratado a través de plataformas tecnológicas, se cuente o no con autorización legal para ello.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2022)</small>
-
-En los casos a que se refieren las Fracciones I a IV, se aplicará al responsable de 20 a 40 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2023)</small>
 
@@ -1157,37 +1265,47 @@ d) Traición; o
 
 e) Brutal ferocidad.
 
-II. Cuando la víctima sea menor de 15 años de edad;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+II. Cuando la víctima sea menor de 16 años de edad o tenga 60 años o más.
 
 III. Cuando la víctima se dedique al ejercicio de las labores periodísticas, y el resultado se provoque con motivo del ejercicio de su profesión;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-IV. Cuando se cometa con discriminación a razón de alguna característica especifica de la persona como la condición social o económica; vinculación, pertenencia o relación con un grupo social definido; origen étnico o social; la nacionalidad o lugar de origen; el color de la piel o cualquier otra característica genética; lengua; sexo o género; religión; edad; opiniones; discapacidad; condiciones de salud; apariencia física; orientación sexual; estado civil o, la ocupación o actividad laboral;
+IV. El hecho se haya cometido aprovechándose de la prestación de un servicio de transporte público, privado o contratado a través de plataformas tecnológicas, se cuente o no con autorización legal para ello;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-V. Cuando el responsable tenga o haya tenido relación de pareja o de carácter conyugal, sea pariente consanguíneo o civil en línea recta, ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo, civil o afín hasta el cuarto grado, con la víctima;
+V. La víctima se haya encontrado en un estado de indefensión, entendiéndose este como la situación de desprotección real o incapacidad que imposibilite su defensa, ya sea por la dificultad de comunicación para recibir auxilio, por razón de la distancia a un lugar habitado o por que exista algún impedimento físico o material para solicitar el auxilio.
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-VI. Cuando la víctima esté sujeta a patria potestad, tutela, curatela o custodia del responsable
+VI. Cuando se cometa con discriminación a razón de alguna característica específica de la persona como la condición social o económica; vinculación, pertenencia o relación con un grupo social definido; origen étnico o social; nacionalidad o lugar de origen; color de la piel; lengua; sexo o género; religión; edad; opiniones; discapacidad; condiciones de salud; apariencia física; orientación sexual; estado civil; ocupación o actividad laboral;
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-VII. Cuando las lesiones se hayan cometido por mutilación, con sustancias corrosivas o hayan sido en los órganos genitales o glándulas mamarias de la víctima;
+VII. Cuando el responsable tenga o haya tenido relación de pareja o de carácter conyugal, sea pariente consanguíneo o civil en línea recta, ascendente o descendente sin limitación de grado, pariente colateral consanguíneo, civil o afín hasta el cuarto grado, con la victima;
 
 > <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2023)</small>
 
 VIII. Cuando la víctima sea una persona integrante de alguna de las Instituciones de Seguridad Pública, o de sus corporaciones auxiliares de acuerdo con la Ley del Sistema Estatal de Seguridad Pública de Aguascalientes, y el resultado se provoque con motivo del ejercicio de sus funciones.
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2023)</small>
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-En el caso de Homicidio Doloso Calificado a que se refieren las fracciones I, II, III y VIII, se aplicará al responsable de 15 a 40 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados. En el caso de las Fracciones IV a la VI se aplicará al responsable de 20 a 50 años de prisión, de 500 a 1000 días de multa y pago total de la reparación de los daños y perjuicios ocasionados.
+IX. Cuando la víctima esté sujeta a patria potestad, tutela, curatela o custodia del responsable; o
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2023)</small>
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-Si las lesiones dolosas son calificadas, la punibilidad establecida en el artículo 104 se aumentará hasta en dos terceras partes en sus mínimos y máximos, en tratándose de los supuestos de las fracciones V, VI, VII y VIII del presente artículo.
+X. Cuando las lesiones se hayan cometido por mutilación, con sustancias corrosivas o hayan sido en los órganos genitales o glándulas mamarias de la víctima.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+En el caso de homicidio doloso calificado a que se refieren las fracciones I, II, III y VIII se aplicará al responsable de 15 a 40 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados. En el caso de las fracciones IV, V, VI, VII y IX se aplicará al responsable de 20 a 50 años de prisión, de 500 a 1000 días de multa y pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+Si las lesiones dolosas son calificadas, la punibilidad establecida en el artículo 104 de este código, se aumentará hasta en dos terceras partes en sus mínimos y máximos, en tratándose de los supuestos de las fracciones VI, VII, VIII, IX y X del presente artículo.
 
 ###### ARTÍCULO 108.
 
@@ -1209,11 +1327,11 @@ Traición. Existe Traición cuando el inculpado provoca el resultado de lesión,
 
 Brutal ferocidad. Existe Brutal Ferocidad, cuando el inculpado provoca el resultado lesivo sin causa o motivo que lo explique, o por una causa móvil notoriamente desproporcionada.
 
-> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 113.
 
-Existe discriminación cuando se acredite que los actos del inculpado son motivados por ideologías basadas en la superioridad, aborrecimiento, intolerancia, rechazo, desprecio, humillación o cualquier otro acto que estigmatice o segregue a la víctima, por alguna de las características específicas de la persona descritas en la fracción IV del artículo 107.
+Existe discriminación cuando se acredite que los actos del inculpado son motivados por ideologías basadas en la superioridad, aborrecimiento, intolerancia, rechazo, desprecio, humillación o cualquier otro acto que estigmatice o segregue a la víctima, por alguna de las características específicas de la persona descritas en la fracción VI del artículo 107 de este Código.
 
 ### CAPÍTULO II. Tipos Penales Protectores de la Libertad Sexual, la Seguridad Sexual, el Normal Desarrollo Físico y Psicosexual, y el Libre Desarrollo de la Personalidad
 
@@ -3946,3 +4064,23 @@ El presente Decreto iniciara su vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 462.- SE REFORMA Y ADICIONA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Aquellos procedimientos judiciales, que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 464.- SE REFORMA Y ADICIONA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
