@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2023-02-03"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -1411,23 +1411,35 @@ El desarrollo policial es un conjunto integral de procesos y normas debidamente 
 
 Las relaciones jurídicas entre las Instituciones Policiales y sus integrantes se rigen por la fracción XIII, apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la presente Ley, la Ley reglamentaria del Artículo 21 Constitucional y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 61.
 
-Las Instituciones Policiales en el Estado, para el mejor cumplimiento de sus objetivos, desarrollarán las siguientes funciones:
+Las Instituciones Policiales en el Estado, para el mejor cumplimiento de sus objetivos, desarrollarán, cuando menos, las siguientes funciones:
 
-I. Investigación de hechos que puedan ser constitutivos de delitos, a través de sistemas homologados de recolección, clasificación, registro, análisis y evaluación de información;
+I. Investigación, que será aplicable ante:
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+a) La preservación de la escena de un hecho probablemente delictivo;
 
-II. Prevención de delitos e infracciones administrativas en los respectivos ámbitos de competencia, mediante acciones de inspección, vigilancia y vialidad en su circunscripción;
+b) La petición del Ministerio Público para la realización de actos de investigación de los delitos, debiendo actuar bajo el mando y conducción de éste;
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+c) Los actos que se deban realizar de forma inmediata; o
 
-III. Reacción, a fin de garantizar, mantener y restablecer el orden y la paz públicos; y
+d) La comisión de un delito en flagrancia.
 
-> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2018)</small>
+II. Prevención, que será la encargada de prevenir la comisión de delitos e infracciones administrativas en los respectivos ámbitos de competencia, y realizar las acciones de inspección, vigilancia y vialidad en su circunscripción;
 
-IV. Actuarán en colaboración con las autoridades que conforman el Sistema Local de Protección de los Derechos de las Niñas, Niños y Adolescentes, de tal manera que levantarán informes acerca de las situaciones en que exista un riesgo inminente contra la vida, integridad personal o libertad de niñas, niños y adolescentes y los reportarán de inmediato a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes, para que se realicen los procedimientos legales correspondientes.
+III. Proximidad social, como una actividad auxiliar a las funciones de prevención, a través de la proactividad y la cooperación con otros actores sociales, bajo una política de comunicación y colaboración interna e interinstitucional que fortalezca la gobernabilidad local y promueva la mediación, como procedimiento voluntario para solucionar pacíficamente conflictos derivados de molestias y problemáticas de la convivencia comunitaria que no constituyan delitos; y
+
+IV. Reacción, que será la encargada de garantizar, mantener y restablecer el orden y la paz públicos.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 61 A.- Adicional a lo previsto en el artículo que antecede, las Instituciones Policiales tanto del Estado como de los Municipios, en el ámbito de sus competencias deberán:
+
+I. Actuar en colaboración con las autoridades que conforman el Sistema Local de Protección de los Derechos de las Niñas, Niños y Adolescentes, de tal manera que levantarán informes acerca de las situaciones en que exista un riesgo inminente contra la vida, integridad personal o libertad de niñas, niños y adolescentes y los reportarán de inmediato a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes, para que se realicen los procedimientos legales correspondientes; y
+
+II. Realizar las acciones necesarias para el cumplimiento de las disposiciones de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
 
@@ -2886,3 +2898,11 @@ A partir de la publicación del Presente Decreto, todas las menciones realizadas
 ###### ARTÍCULO DECIMO CUARTO.
 
 Lo no previsto en el presente decreto, será regulado por la Secretaría de Finanzas, Secretaría de Administración y la Contraloría del Estado, de conformidad con las facultades que las leyes les confieren.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 461.- SE REFORMA LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
