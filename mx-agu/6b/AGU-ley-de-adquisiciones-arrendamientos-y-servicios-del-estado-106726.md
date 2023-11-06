@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-1067
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-23"
-last_updated: "2022-12-31"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106726&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de marzo de 2015.
 
@@ -604,6 +604,14 @@ Las contrataciones de adquisiciones, arrendamientos de bienes muebles o prestaci
 Tratándose de adquisiciones de madera, muebles y suministros de oficina de este material, deberán requerirse certificados otorgados por terceros, previamente registrados ante la Secretaría de Sustentabilidad, Medio Ambiente y Agua, que garanticen el manejo sustentable de los bosques de donde proviene la madera de dichas adquisiciones.
 
 En las adquisiciones de papel para uso de oficina, éste deberá contener un mínimo de cincuenta por ciento de fibras de material reciclado, o de fibras naturales no derivadas de la madera, o de materias primas provenientes de aprovechamientos forestales manejados de manera sustentable en el territorio nacional, que se encuentren certificadas conforme a lo dispuesto en el párrafo anterior, o de sus combinaciones y elaborados en procesos con blanqueado libre de cloro.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+En las adquisiciones de pilas o baterías eléctricas, se deberán adquirir exclusivamente dispositivos recargables, que permiten su uso en múltiples ocasiones, con las excepciones siguientes:
+
+I.- Cuando se trate de dispositivos que por sus características técnicas o de utilización se encuentran disponibles en el mercado solamente en modalidades no recargables o de un solo uso.
+
+II.- Cuando los dispositivos de un solo uso sean absolutamente indispensables para la operación de alguna dependencia u organismo que tenga a su cargo la seguridad pública, protección civil, combate de incendios o la atención de urgencias médicas, siempre que se justifique plenamente la situación específica por la que se requiere adquirir temporalmente este tipo de dispositivos.
 
 ###### Artículo 41.
 
@@ -1678,3 +1686,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Cualquier referencia hecha a la SEPLAPDE en otros ordenamientos legales se entenderá hecha a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes (SEPLADE).
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 459.- SE ADICIONA LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
