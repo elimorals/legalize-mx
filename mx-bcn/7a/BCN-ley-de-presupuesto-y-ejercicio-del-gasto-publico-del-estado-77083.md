@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-y-ejercicio-del-gasto-publico-del-estado-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2022-06-03"
+last_updated: "2023-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -1067,9 +1067,9 @@ b. Programas y proyectos de inversión; e
 
 c. Indicadores de resultados.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-La información concerniente al cuarto trimestre del ejercicio de que se trate, deberá enviarse junto con la Cuenta Pública, a más tardar el treinta de abril del año siguiente del ejercicio fiscal correspondiente.
+La información concerniente al cuarto trimestre del ejercicio de que se trate, deberá enviarse por separado, en la misma fecha de la entrega de la Cuenta Pública del ejercicio de que se trate, a más tardar el treinta de abril del año siguiente del ejercicio fiscal correspondiente.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
 
@@ -1500,3 +1500,9 @@ P.O. 3 DE JUNIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 310 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 37 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; 5, 10, 11, 12, 14, 17, 18, 19, 20, 22, 25, 26, 33, 44, 46, 47, 50, 51, 52, 53, 54, 55, 57, 58, 64, 77, 79, 86, 94, 97, 98, 100, 110 Y ADICIONA LOS ARTÍCULOS 19 BIS Y 26 BIS A LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS; 82 DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA; 16 QUATER, 18, 65, 66, 81, 81 BIS Y 81 TER DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LA REFORMA QUE ADICIONA EL ARTÍCULO 63 TER A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
