@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-familia-para-el-estado-de-baja-california-84489"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-30"
-last_updated: "2022-02-11"
+last_updated: "2023-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 30 de diciembre de 2011.
 
@@ -41,11 +41,15 @@ LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 1.
 
 Las disposiciones contenidas por esta Ley son de orden público, de interés social y de observancia general en todo el Estado y Municipios de Baja California y, tienen por objeto:
 
-I. Garantizar los derechos que esta Ley reconoce a la familia como primera institución social y civil en el Estado de Baja California;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+I. Garantizar los derechos que esta Ley reconoce a la familia en cualquiera de sus formas, como primera institución social y civil en el Estado de Baja California;
 
 > <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
@@ -59,13 +63,13 @@ III. Definir los principios e instrumentos para su protección, promoción y des
 
 IV. Establecer los lineamientos generales para el diseño y la implementación de programas y políticas públicas que fortalezcan y que promuevan a la familia como institución básica de la sociedad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-V. Promover el derecho a la igualdad entre mujeres y hombres en el reparto equilibrado de las responsabilidades familiares, y
+V. Promover el derecho a la igualdad entre la pareja en el reparto equilibrado de las responsabilidades familiares; y,
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-VI. Asegurarse que de (sic) las niñas, niños adolescentes se desarrollen en una ambiente seguro y respetuoso de sus derechos humanos.
+VI. Asegurarse que las niñas, niños adolescentes se desarrollen en una (sic) ambiente seguro y respetuoso de sus derechos humanos.
 
 ###### ARTÍCULO 2.
 
@@ -107,11 +111,11 @@ El Estado implementará políticas públicas adecuadas para la promoción y gene
 
 Corresponde a las autoridades judiciales en el ámbito de su competencia, asegurar a las niñas, niños y adolescentes, la protección y el ejercicio de sus derechos y la toma de medidas necesarias para su bienestar respetando el interés superior de la niñez, debiendo obligarse a propiciar el crecimiento saludable y armonioso, tanto en el ámbito físico, como en el psicoemocional de la o el menor.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 8.
 
-La familia y el Estado son corresponsables solidarios en la defensa y promoción del bien común y del bien de cada persona que los integra. El Estado deberá promover el conocimiento, comprensión y concientización sobre las responsabilidades compartidas del matrimonio y de la familia; alentando la participación del hombre y la mujer en igualdad de condiciones en cuanto a las responsabilidades domésticas, incluidas la crianza de las y los hijos.
+La familia y el Estado son corresponsables solidarios en la defensa y promoción del bien común y del bien de cada persona que los integra. El Estado deberá promover el conocimiento, comprensión y concientización sobre las responsabilidades compartidas del matrimonio, concubinato, y las diversas formas de integración de la familia; alentando la participación en igualdad de condiciones en cuanto a las responsabilidades domésticas, incluidas en su caso la crianza de las y los hijos.
 
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
@@ -133,9 +137,11 @@ A falta de disposiciones de esta Ley, se aplicarán supletoriamente las normas e
 
 El Estado y la sociedad respetarán y promoverán la dignidad, la justa independencia, la intimidad, la estabilidad, la integridad, la solidaridad, la seguridad y la autonomía de cada uno de los integrantes de la familia.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 12.
 
-Toda familia tiene derecho a la promoción de su unidad, estabilidad, integridad, y a la conciliación entre el trabajo y la vida familiar, así como al esparcimiento. La Sociedad y el Estado deben coadyuvar a la sana convivencia familiar, atendiendo de manera especial las problemáticas propias de la dinámica familiar, las condiciones sociales en que se desarrolla, estableciendo el marco jurídico que impida la violencia o abuso físico o emocional, cualquier forma de discriminación u otras problemáticas destructoras de su unión e integración.
+Toda familia tiene derecho a la promoción de su unidad, estabilidad, integridad, y a la conciliación entre el trabajo y la vida familiar, así como al esparcimiento. La Sociedad y el Estado deben coadyuvar a la sana convivencia familiar, atendiendo de manera especial las problemáticas propias de la dinámica familiar, las condiciones sociales en que se desarrolla, estableciendo el marco jurídico que impida la violencia psicológica, física, patrimonial, económica, sexual, cualquier forma de discriminación u otras problemáticas destructoras de su unión e integración.
 
 ###### ARTÍCULO 13.
 
@@ -149,9 +155,11 @@ Los integrantes de la familia tienen derecho, por si o mediante asociaciones con
 
 La familia tiene derecho a ser reconocida como agente fundamental del desarrollo social y económico, a tener acceso a condiciones que le aseguren un nivel de vida digno, a constituir su propio Patrimonio, así como a asociarse u organizarse con otras para lograr objetivos en común.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 16.
 
-La familia tiene derecho a tener acceso a condiciones de vida que favorezcan la salud y el bienestar de sus integrantes. El Estado promoverá las condiciones sociales, económicas y jurídicas para establecer de manera subsidiaria y en su caso complementaria condiciones de acceso a la alimentación, educación, vivienda y servicios de salud, así como a la protección social para todas aquellas familias que se encuentren en condiciones de vulnerabilidad; particularmente promoverá acciones propicias para una maternidad sana y parto seguro, atención medica tanto para la madre como para el nonato, implementará acciones para facilitar el derecho de las familias al buen desarrollo de sus hijos, envejecimiento en plenitud y atención a las personas con discapacidad, evitando cualquier forma de discriminación que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas y las familias.
+La familia tiene derecho a tener acceso a condiciones de vida que favorezcan la salud y el bienestar de sus integrantes. El Estado promoverá las condiciones sociales, económicas y jurídicas para establecer de manera subsidiaria y en su caso complementaria condiciones de acceso a la alimentación, educación, vivienda y servicios de salud, así como a la protección social para todas aquellas familias que se encuentren en condiciones de vulnerabilidad; particularmente promoverá acciones propicias para una maternidad sana y parto seguro, atención medica tanto para la madre o persona gestante como para el nonato, implementará acciones para facilitar el derecho de las familias al buen desarrollo de sus hijas e hijos, envejecimiento en plenitud y atención a las personas con discapacidad, evitando cualquier forma de discriminación que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas y las familias.
 
 ###### ARTÍCULO 17.
 
@@ -259,13 +267,17 @@ INSTITUCIONES PARA EL FORTALECIMIENTO DE LA PERSPECTIVA DE FAMILIA.
 
 DEL INSTITUTO ESTATAL DE LA FAMILIA.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 32.
 
-Se crea el Instituto Estatal de la Familia, como Organismo Ciudadano, que tendrá a su cargo diseñar, promover, difundir y evaluar las políticas públicas y las acciones con perspectiva de familia que contribuyan a consolidar la unidad y la estabilidad de la familia.
+Se crea el Instituto Estatal de la Familia, como Organismo Ciudadano, que tendrá a su cargo diseñar, promover, difundir y evaluar las políticas públicas y las acciones con perspectiva de familia que contribuyan a consolidar la unidad y la estabilidad de la familia, y establecer medidas que fomenten la corresponsabilidad familiar.
 
 ###### ARTÍCULO 33.
 
 Las dependencias de la Administración Pública Estatal colaboraran con el Instituto en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 34.
 
@@ -275,9 +287,19 @@ I.- Apoyar en el diseño, implementación y evaluación de políticas públicas 
 
 II.- En el ámbito de su competencia, emitir recomendaciones a las dependencias del Estado y Municipios tendientes a promover y proteger los derechos, y obligaciones fundamentales de la familia y de cada uno de sus integrantes;
 
-III.- Promover la orientación de los programas actuales del Estado hacia una perspectiva de familia; y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-IV.- Emitir recomendaciones dirigidas a las autoridades Estatales y Municipales, Organismos Constitucionalmente Autónomos, así como a todo tipo de organizaciones de la sociedad civil y sectores económicos, sociales y productivos, en relación con el proceso de implementación de las políticas públicas en materia de familia.
+III.- Promover la orientación de los programas actuales del Estado hacia una perspectiva de familia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+IV.- Promover la orientación de los programas actuales del estado en materia de igualdad y corresponsabilidad familiar entre quienes integran la familia; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+V.- Emitir recomendaciones dirigidas a las autoridades Estatales y Municipales, Organismos Constitucionalmente Autónomos, así como a todo tipo de organizaciones de la sociedad civil y sectores económicos, sociales y productivos, en relación con el proceso de implementación de las políticas públicas en materia de familia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 35.
 
@@ -285,13 +307,17 @@ Para el eficiente y eficaz cumplimiento de sus objetivos, el Instituto tendrá e
 
 I.- Formular, vigilar y evaluar un Programa Estatal de Política Familiar integrado al Plan Estatal de Desarrollo;
 
-II.- Promover, proteger y difundir los derechos, obligaciones, principios y valores de la familia, reconociendo la importancia de la corresponsabilidad entre los miembros de esta y, en particular, la fortaleza derivada de que padre y madre coexistan como figuras centrales;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+II.- Promover, proteger y difundir los derechos, obligaciones, principios y valores de la familia, reconociendo la importancia de la corresponsabilidad entre los miembros de esta y, en particular, la fortaleza de cada uno de sus integrantes;
 
 III.- Diseñar la metodología necesaria para analizar la eficacia de las políticas, acciones y decisiones de la Administración Pública Estatal a favor de la familia, con especial atención en lo que corresponde a la aplicación y optimización de los recursos, así como recomendar e informar las adecuaciones necesarias para el mejor funcionamiento de las mismas;
 
 IV.- Presentar a la consideración del Congreso del Estado la formulación, diseño y análisis de proyectos de carácter legislativo relacionados con la familia y sus integrantes, a fin de asegurar el marco jurídico que garantice el desarrollo y fortalecimiento de la familia;
 
-V. Elaborar programas de capacitación para los funcionarios y Servidores Públicos que tengan a su cargo la elaboración de políticas, acciones y planes en materia de política familiar o que de alguna forma incidan en la familia;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+V.- Elaborar programas de capacitación para el funcionariado y personas servidoras públicas que tengan a su cargo la elaboración de políticas, acciones y planes en materia de política familiar o que de alguna forma incidan en la familia;
 
 VI.- Actuar como órgano de consulta del Congreso del Estado, del Gobernador del Estado, de dependencias de la Administración Pública Estatal, Municipal y de Organizaciones de la Sociedad Civil cuyos objetivos se relacionen con la política pública para la familia;
 
@@ -303,17 +329,19 @@ VIII.- Fomentar la realización de eventos académicos y programas educativos co
 
 IX.- Diseñar, proponer y promover a la sociedad, a los Municipios y a las dependencias de (sic) Administración Pública Estatal, programas que, desde una perspectiva de familia, contribuyan a:
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-a) La Educación y la formación integral de los hijos, libre de estereotipos y cualquier tipo de discriminación, que promueva y fomente los valores y principios fundamentales de la familia;
+a) La Educación y la formación integral de los hijos e hijas, libre de estereotipos de género y cualquier tipo de discriminación, que promueva y fomente los valores y principios fundamentales de la familia;
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-b) La formación de las madres y los padres de familia para la educación de sus hijos;
+b) La formación de las madres y los padres de familia para la educación de sus hijos e hijas;
 
 c) Propiciar las condiciones de salud de la familia que impulsen el sano desarrollo físico, afectivo, mental y social;
 
-d) La formación integral de los jóvenes, proyectando estrategias que permitan mayores oportunidades de estudio y de empleo, capacitación y asesoría para el trabajo, cuidado de la salud y lucha en contra del vandalismo, las adicciones y el alcoholismo;
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+d) La formación integral de las y los jóvenes, proyectando estrategias que permitan mayores oportunidades de estudio y de empleo, capacitación y asesoría para el trabajo, cuidado de la salud y lucha en contra del vandalismo, las adicciones y el alcoholismo, desde una perspectiva de juventudes;
 
 e) Impulsar programas para promover el desarrollo y protección integral de la mujer, particularmente en su condición de Mujer Jefa de Familia;
 
@@ -323,7 +351,9 @@ f) Incentivar acciones y programas para promover la conciliación entre la vida 
 
 g) Propiciar la igualdad de derechos, oportunidades y responsabilidades para mujeres y hombres dentro y fuera de la familia;
 
-h) Integrar a los adultos mayores y a las personas con discapacidad a su familia y a la sociedad;
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+h) Integrar a las personas adultas mayores y a las personas con discapacidad a su familia y a la sociedad;
 
 i) Prevenir y erradicar conductas delictivas y adictivas en el ámbito familiar;
 
@@ -331,17 +361,25 @@ i) Prevenir y erradicar conductas delictivas y adictivas en el ámbito familiar;
 
 j) Promover los medios alternos de resolución de conflictos familiares, para propiciar la familia como base de la sociedad, con excepción de los relacionados con violencia familiar;
 
-k) Dar a conocer la responsabilidad y alcances del matrimonio;
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
-l) Motivar a los empresarios a ser, con actividades concretas, instrumentos positivos para el fortalecimiento de la familia y su bienestar común;
+k) Dar a conocer la responsabilidad y alcances del matrimonio, el concubinato y las uniones de hecho;
 
-m) Difundir difusión de prácticas exitosas que beneficien a la familia.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+l) Motivar a las y los empresarios a ser, con actividades concretas, instrumentos positivos para el fortalecimiento de la familia y su bienestar común;
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+m) Difundir difusión de prácticas exitosas que beneficien a la diversidad de las familias.
 
 X.- Apoyar y asesorar a las dependencias de la Administración Pública Estatal y Municipal respecto a los trabajos, acciones y programas que podrán implementarse en forma conjunta por el Estado y los Municipios a favor de la mejora de las condiciones de vida de la familia;
 
 XI.- Celebrar y suscribir convenios o acuerdos de apoyo y colaboración con organismos públicos, sociales y privados, Estatales, Nacionales e Internacionales para unir y compartir esfuerzos en el desarrollo de programas y proyectos acordes a los objetivos específicos del Instituto;
 
-XII.- Realizar y promover el análisis y la investigación de la situación de la familia para el diseño de políticas públicas en favor de la familia;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+XII.- Realizar y promover el análisis y la investigación de la situación de la familia para el diseño de políticas públicas en favor de los diversos tipos de familias;
 
 XIII.- Crear y mantener un sistema de información que permita obtener, procesar, intercambiar y difundir información actualizada en relación con la situación de la familia en el Estado, generando un banco de datos de consulta impresa y electrónica;
 
@@ -462,3 +500,9 @@ P.O. 11 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 75 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA, LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA, LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA, CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA Y LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 299 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 1, 8, 12, 16, 32, 34 Y 35 DE LA LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
