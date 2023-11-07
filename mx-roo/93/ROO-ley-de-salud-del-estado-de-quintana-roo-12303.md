@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-salud-del-estado-de-quintana-roo-12303"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2023-11-01"
+last_updated: "2023-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE SALUD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -859,19 +859,23 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPITULO V. ATENCION MATERNO-INFANTIL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTICULO 56.
 
-El objeto del presente capítulo es la protección materno-infantil y la promoción de la salud materna, que abarca el período que va del embarazo, parto y puerperio, así como el periodo de lactancia, en razón de la condición de vulnerabilidad en que se encuentra la mujer, el producto, el recién nacido y el niño pequeño.
+El objeto del presente Capítulo es la protección materno-infantil y la promoción de la salud materna, que abarca el período que va del pre embarazo, embarazo, parto y puerperio, así como el periodo de lactancia, en razón de la condición de vulnerabilidad en que se encuentra la mujer o persona gestante, el producto, el recién nacido y el niño pequeño.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2023)</small>
 
-La atención materno-infantil tiene carácter prioritario, motivará al cumplimiento de los derechos reproductivos de la mujer, la no violencia obstétrica y los derechos de la niñez y comprende las siguientes acciones:
+La atención materno-infantil tiene carácter prioritario, involucra el cumplimiento de los derechos reproductivos de la mujer o persona gestante, así como de los derechos de la niñez.
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2023)</small>
 
-I. La atención integral de la mujer durante el embarazo, el parto y el puerperio, así como el periodo de lactancia, incluyendo la atención psicológica que requiera;
+La atención materno-infantil a que refiere el presente artículo deberá brindarse con respeto y empatía garantizando la no violencia obstétrica en contra de las mujeres o personas gestantes y comprenderá las siguientes acciones:
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2023)</small>
+
+I.- La atención integral de la mujer durante el pre embarazo, embarazo, el parto y el puerperio, así como el periodo de la lactancia incluyendo la atención psicológica que requiera.
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
@@ -898,6 +902,14 @@ Toda mujer embarazada, tiene derecho a obtener servicios de salud en los términ
 Los servicios de salud a que hace referencia el artículo 34 de la presente Ley, prestarán atención expedita a las mujeres embarazadas que presenten una urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, en las unidades con capacidad para la atención de urgencias obstétricas, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
 
 De igual forma, deberá proveerse, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil, cuando existan condiciones que impidan la lactancia materna, indicadas por el médico.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2023)</small>
+
+###### ARTICULO 56 Ter.
+
+Por violencia obstétrica se entiende, toda acción u omisión intencional por parte del personal de salud, que dañe, lastime o denigre a la mujer o persona gestante durante el pre embarazo, embarazo o parto, así como la negligencia en su atención médica que se exprese en un trato deshumanizado, en un abuso de medicalización y patologización de los procesos naturales, trayendo consigo pérdida de autonomía y capacidad de decidir libremente sobre sus cuerpos y sexualidad; considerando como tales, la omisión de la atención oportuna y eficaz de las emergencias obstétricas y practicar el parto por vía de cesárea, existiendo condiciones para el parto natural, sin obtener el consentimiento voluntario, expreso e informado de la mujer o persona gestante;
+
+La comisión de la presente conducta será sancionada conforme a las disposiciones de la presente Ley, independientemente de las sanciones penales que resulten procedentes en términos del Código Penal para el Estado Libre y Soberano de Quintana Roo.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2022)</small>
 
@@ -932,6 +944,10 @@ II. Bis.- Al menos un banco de leche humana en alguno de sus establecimientos de
 Los servicios que presten los bancos de leche serán gratuitos y accederán a dichos servicios la madre, el padre, el tutor o quienes ejerzan la patria potestad, siendo obligación, de las instancias estatales y municipales, en el ámbito de sus respectivas competencias, promover la donación de leche humana, para abastecer a los bancos de leche.
 
 III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarréicos y las infecciones respiratorias agudas de los menores de 5 años.
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2023)</small>
+
+IV.- Comités para la vigilancia, prevención y erradicación de la violencia obstétrica que cuenten con mecanismos de medición de avances y resultados.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2022)</small>
 
@@ -4058,6 +4074,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 1 DE NOVIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 107 POR EL QUE SE REFORMAN LAS FRACCIONES X Y XI DEL ARTÍCULO 29; Y SE ADICIONA LA FRACCIÓN XII Al ARTÍCULO 29 DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 111 POR EL QUE SE REFORMAN: LOS PÁRRAFOS PRIMERO Y SEGUNDO, ASÍ COMO LA FRACCIÓN I DEL ARTÍCULO 56; Y SE ADICIONAN: EL PÁRRAFO TERCERO AL ARTÍCULO 56, EL ARTÍCULO 56 TER Y LA FRACCIÓN IV AL ARTÍCULO 59, TODOS DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
