@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2023-11-03"
+last_updated: "2023-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -1201,11 +1201,11 @@ En los demás casos, la acción penal prescribirá en dos años.
 
 ARTICULO 78 BIS.- Cuando se trate de los delitos previstos en los artículos 127, 129, 129 BIS, 129 TER, 130, 130 BIS, 130 TER, 176, 191, 192 BIS, 192 TER, 192 QUÁTER, 193 y 194 de este Código, cometidos en contra de menores de edad, la acción penal será imprescriptible.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTICULO 78
 
-Bis.- Cuando se trate de los delitos previstos en los Artículos 127, 129, 130, 130 Bis, 130 Ter, 176, 191, 192 Bis, 192 Ter, 192 Quáter, 193 y 194 de este Código, cometidos en contra de menores de edad, la acción penal será imprescriptible.
+TER.- Será imprescriptible la acción penal respecto del delito de feminicidio previsto por el artículo 89-Bis de este Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -1301,9 +1301,13 @@ Se impondrá prisión de veinticinco a cincuenta años y de mil quinientos a tre
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 6 DE ABRIL DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2023)</small>
 
-ARTICULO 89 BIS.- Comete delito de feminicidio, el que dolosamente prive de la vida a una mujer por razones de género. Se le impondrá prisión de veinticinco a cincuenta años y de mil quinientos a tres mil días multa.
+###### ARTICULO 89
+
+BIS.- Comete el delito de feminicidio, el que dolosamente prive de la vida a una mujer por razones de género. Se le impondrá prisión de treinta a cincuenta años y de mil quinientos a tres mil días multa.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 Existen razones de género cuando se presente cualquiera de los siguientes supuestos:
 
@@ -1325,79 +1329,53 @@ VII. Que haya existido entre el activo y la víctima una relación sentimental, 
 
 VIII. Que la víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida.
 
-Además de la sanción anterior el sujeto activo perderá todos los derechos con relación a la víctima, incluido los de carácter sucesorio.
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2023)</small>
 
-En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+IX. Cuando la muerte haya sido provocada por lesiones hechas mediante el uso de cualquier sustancia corrosiva, ácida o agente físico.
 
-En la configuración del delito, no es necesario que se acredite la personalidad misógina del inculpado.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2023)</small>
+
+Además de la sanción anterior, el sujeto activo perderá todos los derechos con relación a la víctima, incluido los de carácter sucesorio. En su caso, también perderá todo derecho con relación a los hijos de la víctima, garantizando el interés superior de la niñez en términos de la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
-ARTICULO 89 TER.- Se impondrán de dos a cinco años de prisión, de mil a cinco mil días multa y destitución e inhabilitación del cargo o comisión de cinco a diez años, al servidor público que con motivo de sus funciones y atribuciones tenga a su cargo la investigación o impartición de justicia del delito señalado en el artículo anterior y realice cualquiera de las siguientes conductas:
+En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
 
-I. Omita realizar las diligencias y actuaciones correspondientes para integrar la carpeta de investigación, en los términos que establecen el Código Penal para el Estado Libre y Soberano de Quintana Roo y el Código Nacional de Procedimientos Penales, sin causa justificada;
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
-II. Efectúe actos de discriminación, coacción e intimidación, contra el denunciante u ofendido del delito, o;
+En la configuración del delito, no es necesario que se acredite la personalidad misógina del inculpado.
 
-III. Retarde o entorpezca intencionalmente o por negligencia la procuración o administración de justicia, sin causa justificada.
-
-###### Artículo 89
-
-Ter.- .
-
-I.- Omita realizar las diligencias y actuaciones correspondientes a la integración de la averiguación previa en los términos que establecen el Código Penal para el Estado Libre y Soberano de Quintana Roo y el Código de Procedimientos Penales para el Estado Libre y Soberano de Quintana Roo, sin causa justificada;
-
-II.- .
-
-III.- .
-
-SEGUNDO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
-
-P.O. 30 DE NOVIEMBRE DE 2012.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
-
-P.O. 5 DE DICIEMBRE DE 2012.
-
-PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
-
-SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
-
-P.O. 7 DE DICIEMBRE DE 2012.
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTICULO 89
 
-TER.- Se impondrán de dos a cinco años de prisión, de mil a cinco mil días multa y destitución e inhabilitación del cargo o comisión de cinco a diez años, al servidor público que con motivo de sus funciones y atribuciones conozca del delito señalado en el artículo anterior y realice cualquiera de las siguientes conductas:
+BIS 1.- La pena correspondiente al delito de feminicidio se agravará hasta en una mitad más cuando concurra cualquiera de las siguientes circunstancias:
 
-I.- Omita realizar las diligencias y actuaciones correspondientes para integrar la carpeta de investigación, en los términos que establecen el Código Penal para el Estado Libre y Soberano de Quintana Roo y el Código Procesal Penal para el Estado Libre y Soberano de Quintana Roo, sin causa justificada;
+I. Cuando la víctima sea niña, adolescente, adulta mayor, indígena, estuviera embarazada o tuviera una discapacidad;
 
-II.- Efectúe actos de discriminación, coacción e intimidación, contra el denunciante u ofendido del delito; o
+II. Cuando el sujeto activo sea una persona servidora pública y haya cometido la conducta valiéndose de esta condición;
 
-III.- Intencionalmente, realice prácticas dilatorias en la procuración o administración de justicia, sin causa justificada.
+III. Si el delito fuere cometido por dos o más personas, y
 
-###### Artículo 89
+IV. Si el delito fuere cometido en presencia de personas con quienes la víctima tuviere vínculo de parentesco por consanguinidad, afinidad civil o una relación afectiva o sentimental de hecho, a sabiendas de esta relación.
 
-Ter.- .
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2023)</small>
 
-I.- Omita realizar las diligencias y actuaciones correspondientes a la integración de la averiguación previa en los términos que establecen el Código Penal para el Estado Libre y Soberano de Quintana Roo y el Código de Procedimientos Penales para el Estado Libre y Soberano de Quintana Roo, sin causa justificada;
+###### ARTICULO 89
 
-II.- .
+TER.- Se impondrán de dos a cinco años de prisión, de mil a cinco mil días multa y destitución e inhabilitación del cargo o comisión de cinco a diez años, al servidor público que con motivo de sus funciones y atribuciones tenga a su cargo la investigación o impartición de justicia de los delitos señalados en los artículos 89-Bis, 104-Bis y realice cualquiera de las siguientes conductas:
 
-III.- .
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-SEGUNDO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+I. Omita realizar las diligencias y actuaciones correspondientes para integrar la carpeta de investigación, en los términos que establecen el Código Penal para el Estado Libre y Soberano de Quintana Roo y el Código Nacional de Procedimientos Penales, sin causa justificada;
 
-P.O. 30 DE NOVIEMBRE DE 2012.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+II. Efectúe actos de discriminación, coacción e intimidación, contra el denunciante u ofendido del delito, o;
 
-P.O. 5 DE DICIEMBRE DE 2012.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
-
-SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
-
-P.O. 7 DE DICIEMBRE DE 2012.
+III. Retarde o entorpezca intencionalmente o por negligencia la procuración o administración de justicia, sin causa justificada.
 
 ###### ARTICULO 90.
 
@@ -1538,6 +1516,16 @@ A quien cause lesiones a otra persona por su condición de género se le impondr
 ###### ARTICULO 104.
 
 Las lesiones previstas en el Artículo 99 se perseguirán por querella de parte ofendida. Asimismo se perseguirán por querella las lesiones que sean causadas culposamente al ascendiente, descendiente, hermano, cónyuge, adoptante o adoptado, con excepción de las previstas en el Artículo 108 y siempre que el agente no se encuentre voluntariamente bajo el efecto de bebidas embriagantes, estupefacientes o sustancias que produzcan efectos similares sin que medie prescripción médica, o bien que no se diere a la fuga o auxiliare a la víctima u ofendido del delito.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2023)</small>
+
+###### ARTICULO 104
+
+BIS.- A quien por si o por interpósita persona, con la intención de infligir lesión que genere cualquier clase de daño permanente o deje huella material en el cuerpo de una persona, utilizando cualquier sustancia corrosiva, ácida o agente físico que genere alteración en la salud o integridad física de la víctima, se le sancionará con una pena de 10 a 15 años de prisión y de trescientos a setecientos días multa.
+
+En los casos donde la conducta descrita en el párrafo anterior se realice con el objetivo de privar de la vida o producir un daño irremediable a la mujer por razón de género, se considerará tentativa de feminicidio.
+
+Cuando la conducta descrita en el primer párrafo provoque resección parcial o total en las mamas, alteración en el aparato genital, en las funciones de reproducción sexual o atente contra el ejercicio de la autonomía sexual, cause alguna deformidad o daño permanente en algún órgano interno, externo o ambos, provoque daños en extremidades, entorpezca, debilite u ocasione la pérdida parcial o total del oído, vista, habla o incapacidad permanente para trabajar, las penas se duplicarán.
 
 ### CAPITULO VI. DELITOS DE PELIGRO PARA LA VIDA O LA SALUD DE LAS PERSONAS
 
@@ -2280,6 +2268,10 @@ VII.- En local comercial abierto al público;
 > <small>(ADICIONADA, P.O. 24 DE JULIO DE 2015)</small>
 
 VIII.- En agravio de bienes que pertenezcan o estén destinados al servicio educativo, en escuelas o instituciones educativas de carácter público o privado que cuenten con reconocimiento de validez oficial, o en inmuebles destinados a prestar un servicio educativo.
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2023)</small>
+
+IX.- Haciendo uso de objetos o réplicas de armas que por sus características físicas simulen la apariencia de ser armas auténticas o se perciban como tales, con la finalidad de someter, intimidar, amenazar o amagar, con causar daño al sujeto pasivo.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
 
@@ -4861,6 +4853,30 @@ P.O. 30 DE MAYO DE 2012.
 
 PRIMERO.- En el caso de las Averiguaciones Previas que deba iniciar la Procuraduría de Justicia del Estado, con motivo de la persecución del delito de feminicidio, antes de la vigencia del nuevo Código Procesal para el Estado Libre y Soberano de Quintana Roo, se aplicará la fracción I del Artículo 89 Ter, conforme al siguiente texto:
 
+###### Artículo 89
+
+Ter.- .
+
+I.- Omita realizar las diligencias y actuaciones correspondientes a la integración de la averiguación previa en los términos que establecen el Código Penal para el Estado Libre y Soberano de Quintana Roo y el Código de Procedimientos Penales para el Estado Libre y Soberano de Quintana Roo, sin causa justificada;
+
+II.- .
+
+III.- .
+
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE NOVIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 5 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 7 DE DICIEMBRE DE 2012.
+
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
@@ -5308,3 +5324,19 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las asignaciones presupuestales que se requieran para la operación y puesta en marcha de la Unidad de Inteligencia Financiera del Servicio de Administración Tributaria del Estado de Quintana Roo, serán con cargo al presupuesto aprobado para el año 2023 y deberán hacerse las previsiones presupuestales para los ejercicios fiscales subsecuentes.
 
 TERCERO. Se derogan todas las disposiciones que resulten contrarias al presente Decreto.
+
+P.O. 7 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 110 POR EL QUE SE ADICIONA LA FRACCIÓN IX DEL ARTÍCULO 145-BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 114 POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 89-BIS, EL PRIMER PÁRRAFO DEL ARTÍCULO 89-TER; Y SE ADICIONAN LOS ARTÍCULOS 78-TER, LA FRACCIÓN IX AL ARTÍCULO 89-BIS, 89-BIS 1 Y EL ARTÍCULO 104-BIS, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
