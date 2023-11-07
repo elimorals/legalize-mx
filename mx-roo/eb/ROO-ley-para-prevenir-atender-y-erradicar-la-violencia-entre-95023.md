@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-prevenir-atender-y-erradicar-la-violencia-entre-95023"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-19"
-last_updated: "2019-08-09"
+last_updated: "2023-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA ENTRE ESTUDIANTES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Número 46 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 19 de junio de 2013.
 
@@ -845,13 +845,21 @@ IV. Transferencia a otra escuela: Baja definitiva de la escuela donde se encuent
 
 Cuando la gravedad de la violencia entre estudiantes, tenga consecuencias penales, se procederá conforme al Modelo Único de Atención Integral, dando parte a la autoridad competente.
 
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2023)</small>
+
+Los directores de los centros escolares, o en su caso la máxima autoridad de los centros escolares, serán los primeramente responsables de aplicar previo informe, la sanción o sanciones correspondientes al autor o copartícipe, previstas en el artículo 46 de la presente ley, según sea el caso.
+
 ### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS PARA EL PERSONAL ESCOLAR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 48.
 
-El personal escolar se hará acreedor a una sanción cuando:
+El personal docente, administrativo, directivo o de supervisión escolar, se hará acreedor a sanciones cuando:
 
-I. Tolere o consienta la violencia en el entorno escolar;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2023)</small>
+
+I. Tolere, consienta, participe o fomente el acoso o violencia en el entorno escolar;
 
 II. Tolere o consiente por parte de personal directivo de un centro educativo, que maestros o personal de apoyo realicen conductas de acoso o violencia en contra de los estudiantes por cualquier medio;
 
@@ -861,17 +869,25 @@ IV. Cometa otra acción u omisión contrarias a este ordenamiento; y
 
 V. Cuando se viole la confidencialidad de los datos contenidos en los expedientes de los estudiantes generadores de violencia y coparticipes y de los receptores de violencia en el entorno escolar.
 
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2023)</small>
+
+VI. Cuando oculte o proporcione información falsa sobre hechos de acoso o violencia escolar que se hayan suscitado en el plantel; a los padres o tutores de los generadores o receptores de acoso o violencia escolar.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 49.
 
-Para el personal escolar que incumpla con las disposiciones establecidas en esta Ley se prevén las sanciones establecidas en el artículo 57 de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+El personal escolar que incumpla con las disposiciones establecidas en esta Ley será sancionado de acuerdo con las disposiciones jurídicas aplicables de la Ley General de Responsabilidades Administrativas.
 
-El procedimiento para el fincamiento de sanciones administrativas para el personal escolar que incumpla con esta Ley, será el establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado.
+El procedimiento para el fincamiento de sanciones administrativas para el personal escolar que incumpla con esta Ley será sancionado de acuerdo con las disposiciones jurídicas establecidas en la Ley General de Responsabilidades Administrativas.
 
 ### CAPÍTULO III. DEL RECURSO DE REVOCACIÓN
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 50.
 
-Para los efectos de este capítulo se estará a lo dispuesto por el artículo 77 de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Para los efectos de este Capítulo, el recurso de revocación será de acuerdo con las disposiciones jurídicas establecidas en la Ley General de Responsabilidades Administrativas.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -924,3 +940,11 @@ P.O. 9 DE AGOSTO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan al presente Decreto.
+
+P.O. 7 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 112 POR EL QUE SE REFORMAN: EL PRIMER PÁRRAFO Y LA FRACCIÓN I DEL ARTÍCULO 48, EL ARTÍCULO 49 Y EL ARTÍCULO 50; Y SE ADICIONAN: UN SEGUNDO PÁRRAFO AL ARTÍCULO 47 Y LA FRACCIÓN VI AL ARTÍCULO 48, TODOS DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA ENTRE ESTUDIANTES DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
