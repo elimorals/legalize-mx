@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-137
 country: "mx"
 rank: "codigo"
 publication_date: "2019-07-03"
-last_updated: "2019-07-03"
+last_updated: "2023-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LAS Y LOS SERVIDORES PUBLICOS DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 7 DE NOVIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2023 (DEROGADO).
 
 Código publicado en el número 80 del Periódico Oficial del Estado de Tamaulipas, el miércoles 3 de julio de 2023.
 
@@ -949,3 +951,27 @@ XXXIV. Tráfico de Influencias: Cuando alguna servidora pública o algún servid
 XXXV. Valores: Características que distinguen la actuación de las y los servidores públicos tendentes a lograr la credibilidad y el fortalecimiento de las instituciones públicas y del servicio público.
 
 > <small>[N. DE E. VÉASE ANEXO “FORMATO FCEC-1” EN EL P.O. DE 3 DE JULIO DE 2019, PÁGINA 21.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Conducta entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Código de Conducta y Prevención de Conflictos de Interés del Instituto Registral y Catastral del Estado de Tamaulipas, publicado en el Periódico Oficial del Estado Número 80, Tomo CXLIV, el día 3 de julio de 2019.
+
+###### ARTÍCULO TERCERO.
+
+Los casos no previstos en este Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos del Instituto Registral y Catastral del Estado de Tamaulipas, serán resueltos por el Comité de Ética, Conducta y Prevención de Conflictos de Interés del Instituto Registral y Catastral, a propuesta de su presidente o presidenta.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos administrativos que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Código, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron tales procedimientos.
+
+ARTÍCULO TERCERO (SIC). Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Código de Conducta.
