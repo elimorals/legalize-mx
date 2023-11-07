@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-464-de-educacion-del-estado-libre-y-soberano-de-1447
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-23"
-last_updated: "2020-10-23"
+last_updated: "2023-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 23 de octubre de 2020.
 
@@ -627,7 +627,15 @@ VIII. El pensamiento crítico, como una capacidad de identificar, analizar, cues
 
 IX. El logro de los educandos de acuerdo con sus capacidades, circunstancias, necesidades, estilos y ritmo de aprendizaje diversos;
 
-X. Los conocimientos, habilidades motrices y creativas, a través de la activación física, la práctica del deporte y la educación física vinculadas con la salud, la cultura, la recreación y la convivencia en comunidad;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2023)</small>
+
+X. Los conocimientos y la fomentación de la educación que permita desarrollar habilidades motrices y habilidades creativas, mediante la práctica de:
+
+a) Actividad física y deportiva
+
+b) Formación nutricional
+
+Que tenga como finalidad contribuir a la salud, la cultura, la recreación, y la convivencia en comunidad, dentro de las escuelas y sus entornos, con pleno respeto al interés superior de la niñez y sus derechos a la recreación, a la integridad física y a la participación colectiva en dichas actividades.
 
 XI. La apreciación y creación artística, a través de conocimientos conceptuales y habilidades creativas para su manifestación en diferentes formas, y
 
@@ -1545,7 +1553,9 @@ Las autorizaciones y los reconocimientos de validez oficial de estudios se otorg
 
 I. Con personal docente que acredite la preparación adecuada para impartir educación, conforme al plan de estudios, asignaturas y nivel educativo;
 
-II. Con planteles cuyas instalaciones satisfagan las condiciones higiénicas, de seguridad, de protección civil, pedagógicas y de accesibilidad que la autoridad otorgante determine, en coadyuvancia con las autoridades competentes, conforme a los términos previstos en las disposiciones aplicables, y
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2023)</small>
+
+II. Con planteles cuyas instalaciones satisfagan las condiciones higiénicas, de seguridad, de protección civil, pedagógicas, de accesibilidad e inclusión que la autoridad otorgante determine, en coadyuvancia con las autoridades competentes, conforme a los términos previstos en las disposiciones aplicables, y
 
 III. Con planes y programas de estudio que la autoridad educativa estatal considere procedentes, en el caso de educación distinta de la inicial, preescolar, primaria, secundaria, normal, y demás para la formación de maestros de educación básica.
 
@@ -1631,7 +1641,9 @@ XIII. Administrar medicamentos a los educandos, sin previa prescripción médica
 
 XIV. Promover en los educandos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes;
 
-XV. Expulsar, segregar o negarse a prestar el servicio educativo a personas con discapacidad o que presenten problemas de aprendizaje;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2023)</small>
+
+XV. Expulsar, segregar, discriminar o negarse a prestar el servicio educativo a personas con discapacidad o que presenten problemas de aprendizaje; u omitir realizar acciones que sean necesarias para garantizar su inclusión.
 
 XVI. obligar a los educandos a someterse a tratamientos médicos para condicionar su aceptación o permanencia en el plantel, o bien, presionar de cualquier manera a sus madres o padres de familia, tutoras o tutores para que se los realicen, salvo causa debidamente justificada a juicio de las autoridades educativas;
 
@@ -1788,3 +1800,25 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 480 POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 53 DE LA LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto al Poder Ejecutivo del Estado, para su conocimiento y los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página web y el canal oficial del Congreso para su conocimiento en general.
+
+P.O. 7 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 482 POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 132 Y LA FRACCIÓN XV DEL ARTÍCULO 137 DE LA LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto al Poder Ejecutivo del Estado, para su conocimiento y los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página web y el canal oficial del Congreso para su conocimiento en general.
