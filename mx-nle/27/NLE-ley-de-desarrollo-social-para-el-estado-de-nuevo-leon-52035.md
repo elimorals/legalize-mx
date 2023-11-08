@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-social-para-el-estado-de-nuevo-leon-52035"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-16"
-last_updated: "2022-12-09"
+last_updated: "2023-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2006.
 
@@ -213,9 +213,17 @@ VIII. Impulsar prioritariamente la prestación de servicios públicos en las com
 
 IX. Fomentar la participación de instituciones y asociaciones civiles, académicas y de investigación en la planeación, ejecución y evaluación de la Política Municipal de Desarrollo Social;
 
-X. Vigilar que los recursos públicos que se destinan al desarrollo social se ejerzan con honradez, transparencia y equidad; y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2023)</small>
 
-XI. Las demás que señalen las disposiciones legales aplicables.
+X. Vigilar que los recursos públicos que se destinan al desarrollo social se ejerzan con honradez, transparencia y equidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2023)</small>
+
+XI. Realizar de manera periódica la actualización del diagnóstico de los problemas en materia de desarrollo social por conducto de la dependencia o entidad que designe; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE NOVIEMBRE DE 2023)</small>
+
+XII. Las demás que señalen las disposiciones legales aplicables.
 
 ## TÍTULO III. DE LA POLÍTICA DE DESARROLLO SOCIAL Y SU EVALUACIÓN
 
@@ -243,6 +251,10 @@ II. Las mujeres, niñas, niños, adolescentes, adultos mayores, personas con dis
 
 Las acciones y programas derivados de la Política de Desarrollo Social se formularán, instrumentarán, ejecutarán y evaluarán atendiendo las necesidades básicas de las personas y estarán enfocados a todas las dimensiones del desarrollo humano y social para ampliar el acceso a los recursos públicos, privados y sociales que promuevan condiciones de igualdad de oportunidades para satisfacer el bienestar social.
 
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2023)</small>
+
+En caso de las comunidades indígenas y afromexicanas se deberá observar en todo momento el respeto a sus costumbres, su lengua y sus necesidades, de conformidad con la Ley de los Derechos de las Personas Indígenas y Afromexicanas en el Estado de Nuevo León.
+
 ###### Artículo 13.
 
 La Política de Desarrollo Social promoverá y estimulará la participación ciudadana para la creación de redes comunitarias que posibiliten la cohesión social e impulsen programas de bienestar y superación de la pobreza, así como de investigación y evaluación.
@@ -266,6 +278,10 @@ Para la evaluación de resultados, de manera invariable los programas sociales d
 ###### Artículo 17.
 
 Los resultados de la evaluación deberán reflejar los objetivos sociales de los programas, así como las metas y acciones de la Política Estatal de Desarrollo Social.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2023)</small>
+
+Dichos resultados deberán ser presentados en un informe anual ante el Congreso del Estado, por parte del Titular del Ejecutivo del Estado, en el cual también deberá contemplar el listado de las zonas de atención prioritaria dentro de las comunidades indígenas y afromexicanas, rancherías y municipios que se encuentren en situación de pobreza y pobreza extrema, marginación y exclusión, así como aquellos que han modificado el índice e indicadores en esta materia, con la finalidad de identificar sus necesidades específicas y así instrumentar los programas y acciones necesarias para su combate.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JUNIO DE 2022)</small>
 
@@ -296,6 +312,10 @@ IV. Las reglas de operación y términos de referencia para la implementación, 
 ###### Artículo 19 Bis.
 
 El Estado y los Municipios podrán implementar campañas de difusión con el objeto de informar a la población del contenido, reglas de operación y beneficios de los programas de desarrollo social que se apliquen en el Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2023)</small>
+
+Cuando se trate de comunidades indígenas y afromexicanas se procurará que la información esté traducida en la lengua específica de dicha comunidad.
 
 ### CAPÍTULO II. DE LA PARTICIPACIÓN CIUDADANA
 
@@ -461,9 +481,17 @@ Para efectos de la presente Ley se consideran como grupos o sectores que merecen
 
 I. Las regiones, municipios, microrregiones, polígonos y zonas de atención prioritaria e inmediata que muestren altos índices de marginación respecto de los objetivos de la política de desarrollo social;
 
-II. La población que se encuentre en situación de pobreza o vulnerabilidad; y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2023)</small>
 
-III. Los grupos ubicados en polígonos y zonas de riesgo considerando criterios demográficos y geofísicos para la definición de estrategias de prevención y atención a la población, con énfasis en aquellos asentamientos precarios y vulnerables que se encuentran bajo riesgo de desastres.
+II. La población que se encuentre en situación de pobreza o vulnerabilidad;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2023)</small>
+
+III. Los grupos ubicados en polígonos y zonas de riesgo considerando criterios demográficos y geofísicos para la definición de estrategias de prevención y atención a la población, con énfasis en aquellos asentamientos precarios y vulnerables que se encuentran bajo riesgo de desastre; y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2023)</small>
+
+IV. Las comunidades indígenas y afromexicanas asentadas en el Estado.
 
 ###### Artículo 41.
 
@@ -666,3 +694,17 @@ P.O. 9 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 272. SE REFORMAN LAS FRACCIONES VII Y VIII Y SE ADICIONAN LAS FRACCIONES IX, X, XI Y XII AL ARTÍCULO 5º, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periodo (sic) Oficial del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 366. SE TIENE POR RECIBIDAS EN TIEMPO Y FORMA LAS OBSERVACIONES AL DECRETO NÚMERO 366, POR EL QUE SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 40, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 12; UN SEGUNDO PÁRRAFO AL ARTÍCULO 17; UN SEGUNDO PÁRRAFO AL ARTÍCULO 19 BIS; Y UNA FRACCIÓN IV AL ARTÍCULO 40, TODOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+SEGUNDO.- Para dar cumplimiento a las obligaciones emanadas del presente Decreto, estas se realizarán acorde a las capacidades financieras del Gobierno del Estado y se tomarán en cuenta en el Presupuesto de Egresos del ejercicio fiscal correspondiente.
+
+P.O. 8 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 457. SE REFORMAN LAS FRACCIONES X Y XI DEL ARTÍCULO 8, Y SE ADICIONA UNA FRACCIÓN XII AL ARTÍCULO 8; TODOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO: El presente Decreto entrará en vigor el día siguiente al de su publicación.
