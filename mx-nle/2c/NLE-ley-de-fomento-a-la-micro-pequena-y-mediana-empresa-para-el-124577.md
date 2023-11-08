@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-micro-pequena-y-mediana-empresa-para-el-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2022-10-26"
+last_updated: "2023-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -291,13 +291,17 @@ IV. La integración y fortalecimiento de las Cadenas Globales de Valor y Agrupam
 
 V. El desarrollo de proveedores, almacenistas e intermediarios;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2023)</small>
 
-VI. Promoción de las MIPYMES a nivel nacional e internacional; y
+VI. Promoción de las MIPYMES a nivel nacional e internacional.
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2023)</small>
 
-VII. Cursos y capacitaciones en donde se genere una conciencia tributaria y se informe sobre temas fiscales y de seguridad social.
+VII. Cursos y capacitaciones en donde se genere una conciencia tributaria y se informe sobre temas fiscales y de seguridad social; y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2023)</small>
+
+VIII. Promover el desarrollo de las MIPYMES, Empresas Emergentes o Startups del Estado para que sus productos o servicios generados tengan oportunidad de comercializarse en grandes cadenas comerciales y en empresas de mayor tamaño; para ello, se deberá observar lo dispuesto por el artículo 21, fracción IV, inciso c) de la presente Ley.
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2019)</small>
 
@@ -738,3 +742,11 @@ P.O. 26 DE OCTUBRE DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La persona Titular del Poder Ejecutivo y el Consejo Estatal de Fomento a la Micro, Pequeña y Mediana Empresa contarán (sic) con un plazo de 90 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del mismo.
+
+P.O. 8 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 455. SE REFORMAN LAS FRACCIONES VI Y VII AL ARTÍCULO 12; Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 12, TODOS DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- La persona Titular del Poder Ejecutivo y del Consejo Estatal de Fomento a la Micro, Pequeña y Mediana Empresa contará con un plazo de 90 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del mismo.
