@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2023-10-12"
+last_updated: "2023-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -281,9 +281,9 @@ b) A la plena inclusión laboral en los organismos públicos y privados;
 
 VI. A la seguridad social;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2023)</small>
 
-VII. A la protección por parte de la comunidad, la familia y la sociedad, así como por parte del estado contra toda forma de explotación y discriminación;
+VII. Al respeto de su dignidad y condiciones propias de su edad, lo que implica el derecho a recibir un trato digno, preferencial y apropiado a sus necesidades, en cualquier instancia gubernamental o del sector privado a la que acudan a realizar trámites, gestionar o pagar servicios o cualquiera otra actividad en la que requieran atención por parte de personas servidoras públicas o personas trabajadoras de otras instancias, o cuando sean parte en cualquier procedimiento judicial o administrativo que los involucre;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
@@ -309,9 +309,9 @@ XII. Al libre desplazamiento en espacios de uso público, y en espacios privados
 
 XIII. A la atención preferente en espacios de uso público, y en espacios privados de uso público;
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2023)</small>
 
-XIV. A recibir asesoría jurídica en materia familiar;
+XIV. A recibir asesoría jurídica en cualquier asunto legal en que la persona adulta mayor tenga interés jurídico o sea parte; a través de la Procuraduría de la Defensa de las Personas Adultas Mayores del Estado, la Defensoría Social, y las demás dependencias y entidades que prestan servicios jurídicos gratuitos en el Estado;
 
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
@@ -1354,5 +1354,13 @@ P.O. 12 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0848.- SE REFORMAN LOS ARTÍCULOS 12 EN SU FRACCIÓN III INCISOS E), H), Q) Y R) Y EN SU PÁRRAFO ÚLTIMO Y 13 EN SU PÁRRAFO SEGUNDO, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0865.- SE REFORMA EL ARTÍCULO 6° EN SUS FRACCIONES VII Y XIV, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
