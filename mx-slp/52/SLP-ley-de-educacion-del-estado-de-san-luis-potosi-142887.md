@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-142887"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-14"
-last_updated: "2023-10-25"
+last_updated: "2023-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de mayo de 2020.
 
@@ -131,11 +131,17 @@ II. Propiciar un diálogo continuo entre las humanidades, las artes, la ciencia,
 
 III. Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad, además de proteger la naturaleza, impulsar el desarrollo en lo social, ambiental, económico, así como favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
 
-IV. Combatir las causas de discriminación y violencia en las diferentes regiones del Estado, especialmente la que se ejerce contra la niñez y las mujeres, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+IV. Combatir las causas de discriminación y violencia en las diferentes regiones del Estado, especialmente la que se ejerce contra la niñez y las mujeres;
 
-V. Alentar la construcción de relaciones sociales, económicas, culturales y prevenir las conductas antisociales para un bien social con base en el respeto de los derechos humanos.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2023)</small>
+
+V. Alentar la construcción de relaciones sociales, económicas, culturales y prevenir las conductas antisociales para un bien social con base en el respeto de los derechos humanos, y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2023)</small>
+
+VI. Combatir las desigualdades generadas por los roles y estereotipos de género, desde una perspectiva de género.
 
 ###### ARTÍCULO 11.
 
@@ -2180,5 +2186,13 @@ P.O. 25 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0859.- SE REFORMAN LOS ARTÍCULOS 10 EN SUS FRACCIONES II Y V Y 11 EN SU FRACCIÓN III, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0866.- SE REFORMA EL ARTÍCULO 10 EN SUS FRACCIONES IV Y V; Y ADICIONA AL MISMO ARTÍCULO 10 LA FRACCIÓN VI, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
