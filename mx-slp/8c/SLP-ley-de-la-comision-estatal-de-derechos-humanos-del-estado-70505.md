@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2023-09-08"
+last_updated: "2023-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -485,7 +485,9 @@ Una vez que el Congreso del Estado haya sido informado por la Comisión respecto
 
 El Congreso del Estado hará la designación de la persona titular de la Presidencia de la Comisión, mediante un proceso de selección abierto, claro, transparente y oportuno, que deberá seguir los siguientes lineamientos mínimos:
 
-I. La Comisión de Derechos Humanos, Equidad y Género de la Legislatura en turno, realizará convocatoria pública abierta, al menos cuatro meses antes del término del encargo de la Presidencia;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2023)</small>
+
+I. La Comisión de Derechos Humanos de la Legislatura en turno, realizará convocatoria pública abierta, al menos cuatro meses antes del término del encargo de la Presidencia;
 
 II. En la convocatoria deberán definirse de manera clara:
 
@@ -577,11 +579,15 @@ VII. Distribuir y delegar sus atribuciones a los servidores públicos de la Comi
 
 VIII. Elaborar políticas públicas, proyectos y programas, y opiniones sobre la legislación vigente bajo el principio de perspectiva de género;
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE NOVIEMBRE DE 2023)</small>
 
-IX. Rendir, ante el Honorable Congreso del Estado, por conducto de la Comisión de Derechos Humanos, Equidad y Género, en reunión pública de comisión, un informe por escrito y en forma personal, dentro de los primeros dos meses del año, el cual será remitido a los tres poderes del Estado, los organismos constitucionales autónomos y, difundido a la población en general.
+IX. Rendir, ante el Honorable Congreso del Estado, por conducto de la Comisión de Derechos Humanos, en reunión pública de Comisión, un informe por escrito y en forma personal, dentro de los primeros dos meses del año, el cual será remitido a los tres poderes del Estado, los organismos constitucionales autónomos y, difundido entre la población en general.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2014)</small>
 
 El informe deberá contener como mínimo lo siguiente: indicadores acerca de la situación de las víctimas de violaciones de derechos humanos, incluyendo un reporte sobre los patrones que encuentre; y un diagnóstico sobre violaciones a los derechos económicos, sociales, culturales y ambientales que haya encontrado.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2014)</small>
 
 En todo tiempo la Comisión garantizara la difusión del informe;
 
@@ -687,7 +693,9 @@ IX. No ser funcionario público en el momento de su designación.
 
 El Congreso del Estado realizará la designación de las personas que conformen el Consejo, mediante un proceso de selección abierto, claro, transparente y oportuno, que deberá seguir los lineamientos mínimos siguientes:
 
-I. La Comisión de Derechos Humanos, Equidad y Género, realizará convocatoria pública abierta, al menos cuatro meses antes del término del encargo de las personas que integren el Consejo saliente;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2023)</small>
+
+I. La Comisión de Derechos Humanos del Congreso del Estado, realizará convocatoria pública abierta, al menos cuatro meses antes del término del encargo de las personas que integren el Consejo saliente;
 
 II. En la convocatoria deberán definirse de manera clara:
 
@@ -2026,3 +2034,11 @@ P.O. 8 DE SEPTIEMBRE DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0868.- SE REFORMAN LOS ARTÍCULOS 30 EN SU FRACCIÓN I, 33 EN SU FRACCIÓN IX EL PRIMER PÁRRAFO Y 42 EN SU FRACCIÓN I, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
