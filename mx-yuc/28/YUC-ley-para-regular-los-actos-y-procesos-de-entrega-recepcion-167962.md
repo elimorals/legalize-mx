@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-regular-los-actos-y-procesos-de-entrega-recepcion-1679
 country: "mx"
 rank: "ley"
 publication_date: "2023-09-26"
-last_updated: "2023-09-26"
+last_updated: "2023-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "YUC"
 ---
 # LEY PARA REGULAR LOS ACTOS Y PROCESOS DE ENTREGA-RECEPCION DE LA ADMINISTRACION PUBLICA ESTATAL DEL ESTADO DE YUCATAN
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE NOVIEMBRE DE 2023 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA REGULAR LOS ACTOS Y PROCESOS DE ENTREGA-RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL ESTADO DE YUCATÁN EL 10 DE NOVIEMBRE DE 2023.]</small>
 
 Ley publicada en la Edición Vespertina del Diario Oficial de Yucatán, el martes 26 de septiembre de 2023.
 
@@ -797,7 +797,9 @@ IV. Las demás que se requieran para el cumplimiento de todas las fases de infor
 
 Facultades y obligaciones de las personas comisionadas de la administración entrante
 
-Las personas comisionadas de la administración saliente tendrán las siguientes facultades y obligaciones:
+> <small>(F. DE E., D.O. 10 DE NOVIEMBRE DE 2023)</small>
+
+Las personas comisionadas de la administración entrante tendrán las siguientes facultades y obligaciones:
 
 I. Asistir a las sesiones de la comisión de transición en las cuales podrán exponer sus dudas a las personas titulares de las dependencias y entidades, sobre los recursos, proyectos y programas que se expongan.
 
