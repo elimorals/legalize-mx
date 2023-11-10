@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-8648
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-03"
-last_updated: "2022-12-21"
+last_updated: "2023-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE LA AGENCIA DE MOVILIDAD Y MODALIDADES DE TRANSPORTE PÚBLICO PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 3 de marzo de 2012.
 
@@ -1010,6 +1010,10 @@ III. Servicio de transporte a demanda. Es aquel destinado al traslado de persona
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2022)</small>
 
 A través de estas tecnologías los usuarios del servicio suscriben su aceptación electrónica a términos y condiciones de uso o documento similar, los cuales deberán ser publicados en la aplicación a través de la cual el operador del servicio bajo demanda presta el servicio, conteniendo el aviso de privacidad; con posibilidad de seleccionar libremente el tipo de vehículo, acceso y realizar el pago bajo las modalidades de pago establecidas por cada plataforma, así como la facturación. La tarifa será acordada por una o ambas partes, sin intervención de autoridad competente.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2023)</small>
+
+Podrá ser considerado servicio de transporte a demanda también, cuando los vehículos de servicio de transporte público o especializado que cuenten con concesión o permiso, presten el servicio de traslado de personas de un punto a otro, a través de plataformas digitales con sistemas de posicionamiento global y plataformas tecnológicas, registradas por empresas especializadas en aplicaciones de movilidad; en dicho caso, los concesionarios independientemente de los derechos y obligaciones establecidos para su concesión o permiso, tendrán los derechos y obligaciones establecidas en el Título Tercero Bis de la presente Ley.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
@@ -2405,9 +2409,9 @@ En caso de que resulte procedente la reasignación de la concesión, el solicita
 
 Los concesionarios y permisionarios deberán refrendar de forma anual, ante la Agencia, los derechos respectivos, bajo las condiciones y montos que se establezcan en las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2023)</small>
 
-Se prohíbe prestar un servicio de transporte distinto al amparado por el título que ampara la actividad autorizada.
+Se prohíbe prestar un servicio de transporte distinto al amparado por el título que ampara la actividad autorizada, a excepción de los vehículos que presten servicios a través de plataformas digitales con sistemas de posicionamiento global y plataformas tecnológicas, registradas por empresas especializadas en aplicaciones de movilidad.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2022)</small>
 
@@ -4500,3 +4504,13 @@ Artículo Décimo Quinto. El Programa Estatal de Transporte 2021-2027 publicado 
 Artículo Décimo Sexto. Todas las referencias al Programa Estatal de Transporte 2021-2027 publicado en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” en fecha 5 de septiembre de 2022, se entenderán hechas al Programa Estatal de Transporte Público en materia de Movilidad.
 
 Artículo Décimo Séptimo. A partir de la entrada en vigor de la presente Ley, todas las referencias en otros ordenamientos legales a la Ley de Movilidad para el Transporte del Estado de Querétaro se entenderán hechas a la Ley de la Agencia de Movilidad y Modalidades de Transporte Público para el Estado de Querétaro.
+
+P.O. 10 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE LA AGENCIA DE MOVILIDAD Y MODALIDADES DE TRANSPORTE PÚBLICO PARA EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga (sic) a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
