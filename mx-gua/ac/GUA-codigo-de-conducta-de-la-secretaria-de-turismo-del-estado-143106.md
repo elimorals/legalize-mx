@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-conducta-de-la-secretaria-de-turismo-del-estado-14310
 country: "mx"
 rank: "codigo"
 publication_date: "2020-06-05"
-last_updated: "2020-06-05"
+last_updated: "2023-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE TURISMO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Guanajuato, el viernes 5 de junio de 2020.
 
@@ -92,6 +92,10 @@ CONTENIDO
 10.13. Regla de comportamiento digno.
 
 10.14. Revisión y modificación del código de conducta.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2023)</small>
+
+10.15. Mecanismo de divulgación
 
 11. Sanciones.
 
@@ -503,6 +507,14 @@ En caso de que, una vez llevada a cabo la revisión, el Comité Interno de la Se
 
 Para la modificación o actualización del presente Código de Conducta, el Comité Interno de la Secretaría formulará la propuesta correspondiente, misma que se compartirá al Órgano Interno de Control, para su aprobación, quien en su caso podrá formular observaciones o recomendaciones a las propuestas presentadas.
 
+> <small>(ADICIONADO. P.O. 10 DE NOVIEMBRE DE 2023)</small>
+
+10.15. MECANISMO DE DIVULGACIÓN
+
+El presente Código de Conducta deberá difundirse entre las personas servidoras públicas a través de acciones que desarrolle el Comité Interno de la Secretaría.
+
+El Comité Interno de la Secretaría deberá informar a las personas servidoras públicas de la Secretaría, la obligación de conocer, respetar, cumplir y hacer cumplir los ordenamientos establecidos (sic) el contenido del presente Código de Conducta, el Código de Ética del Poder Ejecutivo del Estado del Estado (sic) de Guanajuato y la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, así como también hacerlo del conocimiento a las personas que se incorporen a la Secretaría.
+
 11. SANCIONES
 
 En caso de incumplimiento a lo previsto en el presente Código de Conducta se aplicará lo establecido en la Ley de Responsabilidades Administrativas para el Estado de Guanajuato y demás disposiciones jurídicas aplicables.
@@ -524,3 +536,11 @@ Aprobó el Órgano Interno de Control de la Secretaría de Turismo
 C.P. Velia Dávila Villarruel
 
 Encargada de la Titularidad del Órgano Interno de Control de la Secretaría de Turismo
+
+P.O. 10 DE NOVIEMBRE DE 2023.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ÚNICO DE VIGENCIA DEL “ACUERDO MODIFICATORIO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE TURISMO DEL ESTADO DE GUANAJUATO POR EL QUE SE ADICIONA EL APARTADO 10.15 AL LISTADO DEL CONTENIDO” QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Vigencia
+
+Único. El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
