@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-tramite-y-sustanciacion-de-quejas-y-166651"
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-06-12"
-last_updated: "2023-09-08"
+last_updated: "2023-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166651&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2023-05-30"
 
 REGLAMENTO PARA EL TRÁMITE Y SUSTANCIACIÓN DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACIÓN DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE NOVIEMBRE DE 2023.
 
 Reglamento publicado en el No. 1124 de la Gaceta Oficial de la Ciudad de México, el lunes 12 de junio de 2023.
 
@@ -1492,9 +1492,11 @@ El Sistema de Registro será diseñado y administrado por el Instituto Nacional;
 
 El Sistema de Registro contendrá las funciones necesarias para que se puedan capturar todos los elementos requeridos para su conformación, en el que se administrará la información procesada y capturada por el Instituto, en los términos previstos en los Lineamientos de Registro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 95.
 
-La Secretaría Ejecutiva, a través de la Dirección, designará al personal encargado para operar el Sistema de Registro, informándose de la designación al Instituto Nacional para las acciones señaladas en los Lineamientos de Registro.
+La Secretaría Ejecutiva, a través de la Unidad Técnica, designará al personal encargado para operar el Sistema de Registro, informándose de la designación al Instituto Nacional para las acciones señaladas en los Lineamientos de Registro.
 
 El personal designado del Instituto para operar el Sistema de Registro deberá atender los Lineamientos de Registro, así como las determinaciones que emita el Instituto Nacional y este Instituto.
 
@@ -1673,3 +1675,21 @@ SEXTO. Publíquese el presente Acuerdo y su Anexo en la página de Internet www.
 SÉPTIMO. Se instruye a la Secretaría Ejecutiva a efecto de que informe a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, dentro del plazo de veinticuatro horas, respecto del cumplimiento dado a su sentencia dictada en el expediente SUP-JE-1437/2023.
 
 > <small>[N. DE E. VÉASE ANEXO EN LA G.O. DE 8 DE SEPTIEMBRE DE 2023, PÁGINAS DE LA 84 A LA 120.]</small>
+
+G.O. 13 DE NOVIEMBRE DE 2023.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 95 DEL REGLAMENTO PARA EL TRÁMITE Y SUSTANCIACIÓN DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACIÓN DEL MISMO INSTITUTO. [IECM/ACU-CG-106/2023]" QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueba el contenido de la reforma al “Reglamento para el Trámite y Sustanciación de Quejas y Procedimientos de Investigación del Instituto Electoral de la Ciudad de México”, en términos de la parte considerativa del presente Acuerdo.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se instruye a la Secretaría Ejecutiva para que realice las acciones conducentes con la finalidad de actualizar los convenios de colaboración interinstitucional suscritos con motivo del registro público local de personas sancionadas por violencia política en razón de género.
+
+CUARTO. Se instruye a la Secretaría Ejecutiva para que comunique, mediante circular, el contenido del presente Acuerdo a las Direcciones Ejecutivas, Unidades Técnicas, Contraloría Interna y Órganos Desconcentrados del Instituto Electoral, para su observancia y aplicación en el ámbito de su competencia.
+
+QUINTO. Publíquese el presente Acuerdo en los estrados de oficinas centrales, en los estrados electrónicos y, para mayor difusión, en los estrados de las oficinas de las treinta y tres Direcciones Distritales de este Instituto Electoral.
+
+SEXTO. Remítase el presente Acuerdo a la Gaceta Oficial de la Ciudad de México para su publicación.
+
+SÉPTIMO. Publíquese el presente Acuerdo (sic) la página de Internet www.iecm.mx; realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la citada página electrónica y difúndase la misma en las redes sociales en que este Instituto participa.
