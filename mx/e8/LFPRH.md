@@ -4,7 +4,7 @@ identifier: "LFPRH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2006-03-30"
-last_updated: "2022-02-27"
+last_updated: "2023-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49841&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFPRH"
 
 LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de marzo de 2006.
 
@@ -68,9 +68,9 @@ II. Adecuaciones presupuestarias: las modificaciones a las estructuras funcional
 
 III. Ahorro presupuestario: los remanentes de recursos del presupuesto modificado una vez que se hayan cumplido las metas establecidas;
 
-> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-III Bis. Anexos Transversales: anexos del Presupuesto donde concurren Programas Presupuestarios, componentes de éstos y/o Unidades Responsables, cuyos recursos son destinados a obras, acciones y servicios vinculados con el desarrollo de los siguientes sectores: Igualdad entre Mujeres y Hombres; Atención de Niños, Niñas y Adolescentes; Desarrollo Integral de los Pueblos y Comunidades Indígenas; Desarrollo de los Jóvenes; Programa Especial Concurrente para el Desarrollo Rural Sustentable; Programa de Ciencia, Tecnología e Innovación; Estrategia Nacional para la Transición Energética y el Aprovechamiento Sustentable de la Energía; Atención a Grupos Vulnerables; y los Recursos para la Mitigación de los efectos del Cambio Climático;
+III Bis. Anexos Transversales: anexos del Presupuesto donde concurren Programas Presupuestarios, componentes de éstos y/o Unidades Responsables, cuyos recursos son destinados a obras, acciones y servicios vinculados con el desarrollo de los siguientes sectores: Igualdad entre Mujeres y Hombres; Atención de Niños, Niñas y Adolescentes; Desarrollo Integral de los Pueblos y Comunidades Indígenas; Desarrollo de los Jóvenes; Programa Especial Concurrente para el Desarrollo Rural Sustentable; Programa de Ciencia, Tecnología e Innovación; Estrategia Nacional para la Transición Energética y el Aprovechamiento Sustentable de la Energía; Atención a Grupos Vulnerables; los Recursos para la Mitigación de los efectos del Cambio Climático; y Anticorrupción;
 
 IV. Auditoría: la Auditoría Superior de la Federación;
 
@@ -674,9 +674,9 @@ Los calendarios de presupuesto deberán comunicarse por la Secretaría a las dep
 
 Los calendarios a que se refiere el párrafo anterior deberán ser en términos mensuales.
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-La Secretaría deberá elaborar los calendarios de presupuesto, en términos mensuales, de los Anexos Transversales a que se refiere el artículo 41, fracción II, incisos j), o), p), q), r), s), t), u), y v) de esta Ley y deberá publicarlos en el Diario Oficial de la Federación a más tardar 15 días hábiles posteriores a la publicación del Presupuesto en el propio Diario Oficial de la Federación.
+La Secretaría deberá elaborar los calendarios de presupuesto, en términos mensuales, de los Anexos Transversales a que se refiere el artículo 41, fracción II, incisos j), o), p), q), r), s), t), u), v) y w) de esta Ley y deberá publicarlos en el Diario Oficial de la Federación a más tardar 15 días hábiles posteriores a la publicación del Presupuesto en el propio Diario Oficial de la Federación.
 
 > <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
 
@@ -1080,6 +1080,10 @@ u) Las previsiones de gasto que correspondan a la Mitigación de los efectos del
 
 v) Las previsiones de gasto que correspondan a la Atención de Niños, Niñas y Adolescentes;
 
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+w) Las previsiones de gasto que correspondan a la prevención, detección, investigación y sanción de hechos de corrupción, así como a las acciones de fiscalización y control de recursos públicos;
+
 III. Los anexos informativos, los cuales contendrán:
 
 a) La metodología empleada para determinar la estacionalidad y el volumen de la recaudación por tipo de ingreso, así como la utilizada para calendarizar el gasto según su clasificación económica;
@@ -1088,9 +1092,9 @@ a) La metodología empleada para determinar la estacionalidad y el volumen de la
 
 b) La distribución del presupuesto de las dependencias y entidades por unidad responsable y al nivel de desagregación de capítulo y concepto de gasto;
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-c) La metodología, factores, variables y fórmulas utilizadas para la elaboración de los Anexos Transversales a los que se refieren los incisos j), o), p), q), r), s), t), u) y v) de la fracción anterior, estableciendo con claridad los porcentajes o cuotas que del presupuesto de los Programas Presupuestarios y/o de las Unidades Responsables son considerados para la integración de dichos Anexos. En caso de que existan modificaciones en la metodología con respecto a la utilizada en el ejercicio fiscal anterior, se deberá incluir un apartado donde se explique y justifique plenamente el motivo de dichas modificaciones, y
+c) La metodología, factores, variables y fórmulas utilizadas para la elaboración de los Anexos Transversales a los que se refieren los incisos j), o), p), q), r), s), t), u), v) y w) de la fracción anterior, estableciendo con claridad los porcentajes o cuotas que del presupuesto de los Programas Presupuestarios y/o de las Unidades Responsables son considerados para la integración de dichos Anexos. En caso de que existan modificaciones en la metodología con respecto a la utilizada en el ejercicio fiscal anterior, se deberá incluir un apartado donde se explique y justifique plenamente el motivo de dichas modificaciones, y
 
 d) La demás información que contribuya a la comprensión de los proyectos a que se refiere este artículo así como la que solicite la Cámara de Diputados a través de la Comisión de Presupuesto y Cuenta Pública y, en su caso, el Centro de Estudios de las Finanzas Públicas.
 
@@ -2138,9 +2142,9 @@ Asimismo, deberán reportarse los juicios ganados y perdidos por el Servicio de 
 
 iii) La evolución del gasto público, incluyendo el gasto programable y no programable; su ejecución conforme a las clasificaciones a que se refiere el artículo 28 de esta Ley, los principales resultados de los programas y proyectos. Asimismo, se incorporará la información relativa a las disponibilidades de los ejecutores de gasto, así como de los fondos y fideicomisos sin estructura orgánica;
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-iv) La evolución del gasto público previsto en los Anexos Transversales a los que se refiere el artículo 41, fracción II, incisos j), o), p), q), r), s), t), u) y v) de esta Ley.
+iv) La evolución del gasto público previsto en los Anexos Transversales a los que se refiere el artículo 41, fracción II, incisos j), o), p), q), r), s), t), u), v) y w) de esta Ley.
 
 c) Un informe que contenga la evolución detallada de la deuda pública en el trimestre, incluyendo los montos de endeudamiento interno neto, el canje o refinanciamiento de obligaciones del Erario Federal, en los términos de la Ley General de Deuda Pública, y el costo total de las emisiones de deuda pública interna y externa.
 
@@ -2192,9 +2196,9 @@ La Secretaría presentará al Congreso de la Unión los datos estadísticos y la
 
 La información que la Secretaría proporcione al Congreso de la Unión deberá ser completa y oportuna. En caso de incumplimiento procederán las responsabilidades que correspondan.
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-La Cuenta Pública deberá contener los resultados del ejercicio del Presupuesto establecido en los Anexos Transversales a los que se refiere el artículo 41, fracción II, incisos j), o), p), q), r), s), t), u) y v) de esta Ley, en los mismos términos y el mismo grado de desagregación en los que se presente la evolución del gasto público al que hace referencia el sub inciso iv), inciso b) fracción I del presente artículo.
+La Cuenta Pública deberá contener los resultados del ejercicio del Presupuesto establecido en los Anexos Transversales a los que se refiere el artículo 41, fracción II, incisos j), o), p), q), r), s), t), u), v) y w) de esta Ley, en los mismos términos y el mismo grado de desagregación en los que se presente la evolución del gasto público al que hace referencia el subinciso iv), inciso b) fracción I del presente artículo.
 
 > <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
 
@@ -2829,3 +2833,9 @@ D.O.F. 27 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 23 Y 25 DE LA LEY GENERAL DE PARTIDOS POLÍTICOS Y UN ARTÍCULO 19 TER A LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA, CON EL FIN DE INCLUIR EL ANEXO TRANSVERSAL ANTICORRUPCIÓN”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
