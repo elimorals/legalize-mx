@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-fiscalia-general-del-estado-de-140047"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-01-20"
-last_updated: "2022-09-30"
+last_updated: "2023-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de enero del 2020.
 
@@ -373,23 +373,41 @@ a) En Combate a la Corrupción;
 
 b) En Delitos Electorales;
 
-c) En Materia de Tortura;
+c) (DEROGADO, P.O. 13 DE NOVIEMBRE DE 2023)
 
 d) En Materia de Trata de Personas;
 
-e) En Materia de Desaparición y Localización de Personas;
+e) (DEROGADO, P.O. 13 DE NOVIEMBRE DE 2023)
 
-f) En Investigación de Delitos de Alto Impacto;
+f) (DEROGADO, P.O. 13 DE NOVIEMBRE DE 2023)
 
 III. Fiscalías Regionales;
 
 IV. Agencia Estatal de Investigación Criminal, que integra las siguientes unidades:
 
-a) Comisaría General de la Policía de Investigación;
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2023)</small>
 
-b) Investigación Pericial; y
+a) Comisaría General de la Policía de Investigación Criminal;
 
-d) (sic) Análisis de Información;
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+b) Centro Estatal de Inteligencia y Política Criminal:
+
+1. Unidad de Análisis y Contexto para Atender la Violencia Feminicida;
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+c) Fiscalía Especializada en Materia de Tortura;
+
+> <small>(REFORMADO,P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+d) Fiscalía Especializada en Investigación de Delitos de Alto Impacto:
+
+1. De Unidad Ciberdelitos; y
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+e) Fiscalía Especializada en Materia de Desaparición y Localización de Personas.
 
 V. Unidades Auxiliares Sustantivas:
 
@@ -397,7 +415,7 @@ a) Apoyo en Litigio Estratégico; y
 
 VI. Unidades Auxiliares Adjetivas:
 
-a) Política Institucional;
+a) (DEROGADO, P.O. 13 DE NOVIEMBRE DE 2023);
 
 b) Coordinación del Centro de Justicia para Mujeres;
 
@@ -595,9 +613,9 @@ LVIII. Proporcionar los traductores e intérpretes necesarios para salvaguardar 
 
 LIX. Las demás que le señalen esta Ley, los reglamentos que de ella emanen y las demás disposiciones jurídicas relativas y aplicables.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2023)</small>
 
-El Fiscal General ejercerá las atribuciones y las facultades previstas en este artículo por sí o por conducto del servidor público que determine, salvo las señaladas por las fracciones de la XLVI (sic) la LVI y las demás prescritas con tal calidad por otras disposiciones aplicables, las cuales tendrán el carácter de indelegables.
+El Fiscal General ejercerá las atribuciones y las facultades previstas en este artículo por sí o por conducto del servidor público que determine, salvo las señaladas por las fracciones de la XLVI a la LVI y las demás prescritas con tal calidad por otras disposiciones aplicables, las cuales tendrán el carácter de indelegables.
 
 ### CAPÍTULO III. Vicefiscalías
 
@@ -1055,9 +1073,17 @@ V. Requerir el envío de las carpetas de investigación o las causas penales que
 
 VI. Informar a la Comisión Nacional de Búsqueda, a la Comisión Estatal de Búsqueda y a cualquier otra instancia que corresponda sobre la localización o identificación de personas;
 
-VII. Localizar a las familias de las personas localizadas e identificadas; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE NOVIEMBRE DE 2023)</small>
 
-VIII. Las demás que se señalen en el reglamento de la presente Ley y en otras disposiciones legales aplicables.
+VII. Autorizar las solicitudes de colaboración que formulen los Agentes del Ministerio Público, de acuerdo con los convenios relativos, dirigidas a la Fiscalía General de la República y a las fiscalías generales o a sus equivalentes de otras Entidades Federativas;
+
+> <small>(REFORMADA [REPUBLICADA Y REUBICADA ANTES FRACCIÓN VII], P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+VIII. Localizar a las familias de las personas localizadas e identificadas; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VIII], P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+IX. Las demás que se señalen en el reglamento de la presente Ley y en otras disposiciones legales aplicables.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1103,15 +1129,23 @@ ARTÍCULO 40 C. La Fiscalía General contará con una Agencia Estatal de Investi
 
 La Agencia Estatal de Investigación Criminal tendrá la calidad orgánica y jerárquica de una Vicefiscalía, misma que corresponderá igualmente a la persona designada como su titular; se integrará por Personal Sustantivo Básico o personal adjetivo que se requiera para el ejercicio y cumplimiento de sus atribuciones, facultades y obligaciones.
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2023)</small>
 
-ARTÍCULO 40 D. La Agencia Estatal de Investigación Criminal tendrá a su adscripción las siguientes Unidades Auxiliares Sustantivas:
+ARTÍCULO 40 D. La Agencia Estatal de Investigación Criminal tendrá a su adscripción las siguientes Unidades:
 
-I. Comisaría General de la Policía de Investigación;
+I. Comisaría General de la Policía de Investigación Criminal;
 
-II. Investigación Pericial; y
+II. Centro Estatal de Inteligencia y Política Criminal;
 
-III. Análisis de Información.
+a) Unidad de Análisis y Contexto para Atender la Violencia Feminicida;
+
+III. Fiscalía Especializada en Materia de Tortura;
+
+IV. Fiscalía Especializada en Investigación de Delitos de Alto Impacto;
+
+a) Unidad Auxiliar Sustantiva de Ciberdelitos; y
+
+V. Fiscalía Especializada en Materia de Desaparición y Localización de Personas.
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1123,7 +1157,9 @@ Además de los requisitos establecidos en el artículo 14 de la presente Ley, la
 
 ARTÍCULO 40 F. En el ámbito de su competencia, además de las previstas en el artículo 15 de la presente Ley, corresponde a la persona titular de la Agencia Estatal de Investigación Criminal, el ejercicio y cumplimiento de las siguientes atribuciones, facultades, deberes y obligaciones específicas:
 
-I. Definir, instrumentar y evaluar las políticas y los mecanismos que orientan el adecuado desarrollo de las funciones de los servicios periciales, de Policía de Investigación y de análisis de información necesarios;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+I. Definir, instrumentar y evaluar las políticas y los mecanismos que orientan el adecuado desarrollo de las funciones de los servicios periciales, de Policía de Investigación, de análisis de información, inteligencia y política criminal necesarios;
 
 II. Coordinar el intercambio de información con instancias de procuración de justicia y seguridad pública, estatal y municipal, para el diseño y ejecución de programas, estrategias y acciones para el combate a los delitos que sean competencia de la Fiscalía General;
 
@@ -1211,21 +1247,27 @@ XVII. Los demás que se establezcan en la presente Ley, su reglamento y las disp
 
 (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
-#### SECCIÓN SEGUNDA. Comisaría General de la Policía de Investigación
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+#### SECCIÓN SEGUNDA. Comisaría General de la Policía de Investigación Criminal
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 45.
 
-La Comisaría General de la Policía de Investigación será la encargada de coordinar la ejecución de los actos de investigación de los hechos presuntamente constitutivos de delito y de todos aquellos que, bajo su mando y conducción, le encomiende el Ministerio Público, en términos de lo dispuesto por los artículos 21 de la Constitución Federal, 59 y 60 de la Constitución Local.
+La Comisaría General de la Policía de Investigación Criminal será la encargada de coordinar la ejecución de los actos de investigación de los hechos presuntamente constitutivos de delito y de todos aquellos que, bajo su mando y conducción, le encomiende el Ministerio Público, en términos de lo dispuesto por los artículos 21 de la Constitución Federal, 59 y 60 de la Constitución Local.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 46.
 
-Además de los requisitos establecidos en el artículo 42 de la presente Ley, la persona titular de la Comisaría General de la Policía de Investigación deberá haber acreditado los cursos de formación policial a los que refiere la Ley General de Seguridad Pública, al momento de su designación, y cualquier otro requisito que se establezca en el reglamento de la presente Ley.
+Además de los requisitos establecidos en el artículo 42 de la presente Ley, la persona titular de la Comisaría General de la Policía de Investigación Criminal deberá haber acreditado los cursos de formación policial a los que refiere la Ley General de Seguridad Pública, al momento de su designación, y cualquier otro requisito que se establezca en el reglamento de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 47.
 
-Corresponde a la persona titular de la Comisaría General de la Policía de Investigación, además de las señaladas en el artículo 43 de la presente Ley, el ejercicio y cumplimiento de las siguientes atribuciones, facultades, deberes y obligaciones específicas:
+Corresponde a la persona titular de la Comisaría General de la Policía de Investigación Criminal, además de las señaladas en el artículo 43 de la presente Ley, el ejercicio y cumplimiento de las siguientes atribuciones, facultades, deberes y obligaciones específicas:
 
 I. Cumplir con los acuerdos y lineamientos establecidos por el Sistema Nacional de Seguridad Pública, en el ámbito de su competencia;
 
@@ -1313,25 +1355,39 @@ V. Asesorar, auxiliar y apoyar en la capacitación de los servidores públicos d
 
 VI. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
 
-#### SECCIÓN QUINTA. Análisis de Información
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+#### SECCIÓN QUINTA. Centro Estatal de Inteligencia y Política Criminal
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 54.
 
-La Unidad Auxiliar Sustantiva de Análisis de Información tendrá a su cargo el establecimiento y el control de los procesos de generación, sistematización, análisis, suministro, intercambio, consulta, explotación, transferencia, integración, administración, preservación y protección de datos relativos al fenómeno criminal en el Estado, con el propósito de integrar el Sistema de Información Criminal y coadyuvar, principalmente, en la investigación de los hechos presuntamente constitutivos de delito y en la integración de la estadística en materia de seguridad pública y de procuración de justicia.
+La Unidad Auxiliar Sustantiva denominada Centro Estatal de Inteligencia y Política Criminal en materia de análisis de información e inteligencia tendrá a su cargo el establecimiento y el control de los procesos de generación, sistematización, análisis, suministro, intercambio, consulta, explotación, transferencia, integración, administración, preservación y protección de datos relativos al fenómeno criminal en el Estado, con el propósito de integrar el Sistema de Información Criminal y coadyuvar, principalmente, en la investigación de los hechos presuntamente constitutivos de delito y en la integración de la estadística en materia de seguridad pública y de procuración de justicia.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+Asimismo, en materia de política institucional y criminológica tendrá a su cargo la elaboración y la formulación de políticas, planes y programas en materia de las atribuciones que son propias de la Institución del Ministerio Público; la implementación de las acciones, generales y específicas, necesarias para su estratégico funcionamiento, conforme a lo previsto por la presente ley.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 55.
 
-Además de los requisitos establecidos en el artículo 42 de la presente Ley, la persona titular de la Unidad Auxiliar Sustantiva de Análisis de Información deberá acreditar que cuenta con preparación y conocimiento académicos en materia de criminología o en cualquier disciplina afín, y deberá cubrir cualquier otro requisito que se establezca en el reglamento de la presente Ley.
+Además de los requisitos establecidos en el artículo 42 de la presente Ley, la persona titular de la Unidad Auxiliar Sustantiva denominada Centro Estatal de Inteligencia y Política Criminal deberá acreditar que cuenta con preparación y conocimiento académicos en materia de criminología o en cualquier disciplina afín, así como preparación y conocimiento académicos en materia de políticas públicas, y deberá cubrir cualquier otro requisito que se establezca en el reglamento de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 56.
 
-Corresponde a la persona titular de la Unidad Auxiliar Sustantiva de Análisis de Información, además de las señaladas en el artículo 43 de la presente Ley, el ejercicio y cumplimiento de las siguientes atribuciones, facultades, deberes y obligaciones específicas:
+Corresponde a la persona titular de la Unidad Auxiliar Sustantiva denominada Centro Estatal de Inteligencia y Política Criminal, además de las señaladas en el artículo 43 de la presente Ley, el ejercicio y cumplimiento de las siguientes atribuciones, facultades, deberes y obligaciones específicas:
 
 I. Integrar, administrar, resguardar, alimentar y mantener actualizado el Sistema de Información Criminal;
 
 II. Establecer y controlar los procesos de generación, sistematización, análisis, suministro, intercambio, consulta, preservación, explotación, transferencia, integración, administración, preservación y protección de los datos con los que habrá de conformarse el Sistema de Información Criminal;
 
-III. Colaborar con la Fiscalía General en el ejercicio de la pretensión punitiva del Estado que le es propia, con la investigación pericial y con las labores de la Comisaría General de la Policía de Investigación, en el esclarecimiento y la investigación de los hechos presuntamente constitutivos de delito, mediante el análisis, la evaluación y el procesamiento de los datos que integran el Sistema de Información Criminal;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+III. Colaborar con la Fiscalía General en el ejercicio de la pretensión punitiva del Estado que le es propia, con la investigación pericial y con las labores de la Comisaría General de la Policía de Investigación Criminal en el esclarecimiento y la investigación de los hechos presuntamente constitutivos de delito, mediante el análisis, la evaluación y el procesamiento de los datos que integran el Sistema de Información Criminal;
 
 IV. Analizar la información relativa a la criminalidad en el Estado, con el propósito de detectar patrones relativos a las circunstancias espaciales, temporales, modales, personales y ambientales en las que ocurren los hechos presuntamente constitutivos de delito que se hacen del conocimiento de la Fiscalía General, y de integrar la información estadística relativa a la tendencia, los índices y la frecuencia tanto de la criminalidad como de la reincidencia, genérica y específica, en el Estado;
 
@@ -1339,9 +1395,45 @@ V. Realizar estudios estadísticos y analizar la información relativa a la crim
 
 VI. Realizar estudios estadísticos de percepción de la violencia y diagnósticos situacionales sobre la criminalidad en el Estado;
 
-VII. Colaborar con la Unidad Auxiliar Adjetiva de Política Institucional en la integración y formulación de las políticas públicas en materia de procuración de justicia; y
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2023)</small>
 
-VIII. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
+VII. Colaborar con el resto de las Unidades en la integración y formulación de las políticas públicas en materia de procuración de justicia;
+
+> <small>(REFORMADA [N.DE E. ADICIONADA], P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+VIII. Formular, evaluar y proponer al Fiscal General por conducto de su jerarquía las políticas públicas que habrán de implementarse en materia de las atribuciones propias de la Institución del Ministerio Público, basados en la información que integra el Sistema de Información Criminal, con el propósito de mejorar los resultados de su ejercicio;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+IX. Proponer al Fiscal General por conducto de su jerarquía la integración estratégica de todos y cada uno de los elementos y factores que integran la estructura orgánica de la Fiscalía General y del personal que se requiera para la implementación de las políticas, planes, programas y acciones necesarias para el mejoramiento del ejercicio de las atribuciones que son propias a la Institución del Ministerio Público; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VIII], P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+X. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+ARTÍCULO 56 A. El Centro Estatal de Inteligencia y Política Criminal contará con la Unidad de Análisis y Contexto para Atender la Violencia Feminicida.
+
+La Unidad de Análisis y Contexto para Atender la Violencia Feminicida es la unidad responsable de llevar a cabo el análisis antropológico, sociológico, psicosocial, criminalístico, criminológico y legal que permita conocer los contextos donde se comenten (sic) los delitos de Feminicidios y de homicidios dolosos en agravio de mujeres, así como en su caso otros delitos vinculados a la violencia de género, cuando así se requiera para los primeros, con un enfoque diferenciado para investigar las causas y consecuencias inherentes a la violencia contra las niñas y mujeres motivadas por razones de género.
+
+Corresponde a la persona titular de la Unidad de Análisis y Contexto para Atender la Violencia Feminicida, el ejercicio y cumplimiento de las siguientes atribuciones, facultades, deberes y obligaciones específicas:
+
+I. Recabar y analizar información ministerial, policial y pericial de hechos y datos sobre los fenómenos delictivos de su competencia en agravio de niñas y mujeres;
+
+II. Elaborar informes de contexto que permitan develar patrones de delito, prácticas y modus operandi, perfiles de los victimarios, mapas de localización, concentración y tipología delictiva, así como mapas de vínculos de alta complejidad que identifiquen tendencias en la actividad criminal;
+
+III. Incorporar a la investigación ministerial los elementos sociológicos, antropológicos y de criminología que se requieran, a fin de fortalecer las investigaciones en el ámbito de su competencia;
+
+IV. Coadyuvar en la elaboración de mapeos y georreferenciación de delitos vinculados a la violencia de género contra las niñas y mujeres;
+
+V. Elaborar diagnósticos periódicos, que permitan conocer sistemáticamente las características y patrones de violencia de género contra las niñas y mujeres;
+
+VI. Proponer por conducto de los canales institucionales posibles líneas de acciones derivadas del análisis y sistematización de la información producida por la Unidad, dirigidas a instituciones externas con fines de la prevención de los delitos motivados por razones de género y violencia feminicida; y
+
+VII. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
+
+Los resultados de los estudios de contexto llevados a cabo por la Unidad de Análisis y Contexto para Atender la Violencia Feminicida, podrán ser utilizados para el diseño de acciones estratégicas para la investigación y persecución de los delitos contra las niñas y mujeres víctimas de desaparición forzada y desaparición cometida por particulares.
 
 ###### ARTÍCULO 57.
 
@@ -1361,17 +1453,43 @@ VI. La información del Registro Nacional de Mecanismos Alternativos de Solució
 
 VII. La información de los mapas geodelictivos del Estado; y
 
-VIII. Cualquier otra información que se considere pertinente y necesaria para el cumplimiento de los objetivos del Sistema de Información Criminal, de conformidad con lo dispuesto por el Fiscal General, la Unidad Auxiliar Adjetiva de Política Institucional, el reglamento de la presente Ley y las demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2023)</small>
 
-Para la integración del Sistema de Información Criminal, la Unidad Auxiliar Sustantiva de Análisis de Información deberá coordinarse con las instancias, órganos y dependencias que correspondan, a fin de obtener la información a la que refiere el presente artículo.
+VIII. Cualquier otra información que se considere pertinente y necesaria para el cumplimiento de los objetivos del Sistema de Información Criminal, de conformidad con lo dispuesto por el Fiscal General, la Agencia Estatal de Investigación Criminal, el reglamento de la presente Ley y las demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+Para la integración del Sistema de Información Criminal, la Unidad Auxiliar Sustantiva denominada Centro Estatal de Inteligencia y Política Criminal deberá coordinarse con las instancias, órganos y dependencias que correspondan, a fin de obtener la información a la que se refiere el presente artículo.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+#### SECCIÓN SEXTA. De Ciberdelitos
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+ARTÍCULO 57 A. La Unidad Auxiliar Sustantiva de Ciberdelitos adscrita a la Fiscalía Especializada en Investigación de Delitos de Alto Impacto, proveerá la gestión y supervisión de investigaciones cuya comisión del hecho presuntamente constitutivo del delito sea través del uso de funciones o elementos cibernéticos, para tal efecto combatirá las organizaciones criminales operando en o mediante el internet, con un enfoque policial especializado de investigación.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+ARTÍCULO 57 B. Además de los requisitos establecidos en el artículo 42 de la presente Ley, la persona titular de la Unidad Auxiliar Sustantiva de Ciberdelitos deberá acreditar que cuenta con preparación y conocimiento académicos en materia policial especializada de investigación de ciberdelitos o en cualquier disciplina afín, y deberá cubrir cualquier otro requisito que se establezca en el reglamento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+ARTÍCULO 57 C. Corresponde a la persona titular de la Unidad Auxiliar Sustantiva de Ciberdelitos, además de las señaladas en el artículo 43 de la presente Ley, el ejercicio y cumplimiento de las siguientes atribuciones, facultades, deberes y obligaciones específicas:
+
+I. Colaborar con el Instituto de Formación Profesional para el desarrollo de modelos formativos dirigidos al personal de la Fiscalía General, en términos de su competencia;
+
+II. Proveer el apoyo técnico a las Unidades de la Fiscalía General para la investigación de los delitos cometidos a través funciones o elementos cibernéticos;
+
+III. Participar en estudios y su desarrollo en el área de investigaciones cibernéticas, además de los relacionados con el Sistema de Información Criminal; y
+
+IV. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPÍTULO VI], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-#### SECCIÓN PRIMERA. Disposiciones Comunes
-
 ### CAPÍTULO VII. Unidades Auxiliares Adjetivas
 
-#### SECCIÓN SEGUNDA. Política Institucional
+#### SECCIÓN PRIMERA. Disposiciones Comunes
 
 ###### ARTÍCULO 58.
 
@@ -1437,29 +1555,23 @@ XVII. Los demás que se establezcan en la presente Ley, su reglamento y las disp
 
 (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
-#### SECCIÓN TERCERA. Coordinación del Centro de Justicia para Mujeres
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+#### SECCIÓN SEGUNDA. Política Institucional
 
 ###### ARTÍCULO 62.
 
-La Unidad Auxiliar Adjetiva de Política Institucional tendrá a su cargo la elaboración y la formulación de políticas, planes y programas en materia de las atribuciones que son propias de la Institución del Ministerio Público; la implementación de las acciones, generales y específicas, necesarias para su funcionamiento, y tanto el enlace como la vinculación de la Fiscalía General con la Fiscalía General de la República, el Poder Legislativo, el Poder Ejecutivo, los Municipios en el Estado, la Comisión Estatal de Derechos Humanos, la sociedad civil organizada y otras instancias a las que les ataña la prevención, la investigación y la persecución de los hechos presuntamente constitutivos de delito; el procedimiento y la ejecución penal; la vigilancia en el cumplimiento de los principios fundamentales del sistema jurídico, de la legalidad y de las formalidades esenciales del procedimiento, y la observancia estricta, la salvaguarda y la protección de los derechos humanos.
+(DEROGADO, P.O. 13 DE NOVIEMBRE DE 2023)
 
 ###### ARTÍCULO 63.
 
-Además de los requisitos establecidos en el artículo 59 de la presente Ley, la persona titular de la Unidad Auxiliar Adjetiva de Política Institucional deberá acreditar que cuenta con preparación y conocimiento académicos en materia de políticas públicas, y deberá cubrir cualquier otro requisito que se establezca en el reglamento de la presente Ley.
+(DEROGADO, P.O. 13 DE NOVIEMBRE DE 2023)
 
 ###### ARTÍCULO 64.
 
-Corresponde a la persona titular de la Unidad Auxiliar Adjetiva de Política Institucional, además de las señaladas en el artículo 60 de la presente Ley, el ejercicio y cumplimiento de las siguientes atribuciones, facultades, deberes y obligaciones específicas:
+(DEROGADO, P.O. 13 DE NOVIEMBRE DE 2023)
 
-I. Formular, evaluar y proponer al Fiscal General las políticas públicas que habrán de implementarse en materia de las atribuciones propias de la Institución del Ministerio Público, basadas en la información proporcionada por la Unidad Auxiliar Sustantiva de Análisis de Información y en la que integra el Sistema de Información Criminal, con el propósito de mejorar los resultados de su ejercicio;
-
-II. Proponer al Fiscal General la integración estratégica de todos y cada uno de los elementos y factores que integran la estructura orgánica de la Fiscalía General y del personal que se requiera para la implementación de las políticas, planes, programas y acciones necesarias para el mejoramiento del ejercicio de las atribuciones que son propias a la Institución del Ministerio Público;
-
-III. Proponer la celebración de convenios de colaboración y de acuerdos con dependencias de los tres órdenes de gobierno, organismos constitucionales autónomos, organismos públicos autónomos, instituciones educativas y con la sociedad civil organizada, con base en la información proporcionada por la Unidad Auxiliar Sustantiva de Análisis de Información y la que integra el Sistema de Identificación Criminal, que sirvan para optimizar el trabajo y los resultados en el ejercicio de las atribuciones que corresponden a la Institución del Ministerio Público; y
-
-IV. Las demás que se establezcan en el reglamento de la presente Ley y en las disposiciones que sean relativas y aplicables.
-
-#### SECCIÓN CUARTA. Oficialía Mayor
+#### SECCIÓN TERCERA. Coordinación del Centro de Justicia para Mujeres
 
 ###### ARTÍCULO 65.
 
@@ -1495,9 +1607,9 @@ El ejercicio y cumplimiento de las atribuciones, facultades, deberes y obligacio
 
 El personal que preste atención directa a las personas que acudan como usuarias del Centro de Justicia para Mujeres deberá ser del sexo femenino, salvo aquellas excepciones que estén debidamente justificadas por la naturaleza de su función. El resto del personal que labore y opere en las áreas, oficinas, unidades organizativas, jefaturas o direcciones del Centro de Justicia para Mujeres podrá ser tanto del sexo masculino como del sexo femenino, indistintamente, siempre que acrediten tener el perfil y los conocimientos necesarios para desempeñar las funciones que se le encomienden, salvo en el caso particular expresamente prescrito por el artículo 66 de la presente Ley.
 
-#### SECCIÓN QUINTA. Archivo
+#### SECCIÓN CUARTA. Oficialía Mayor
 
-#### SECCIÓN SEXTA. Innovación, Planeación y Desarrollo Tecnológico
+#### SECCIÓN QUINTA. Archivo
 
 ###### ARTÍCULO 70.
 
@@ -1541,7 +1653,7 @@ XIV. Promover y fortalecer la rendición de cuentas, la transparencia, la vigila
 
 XV. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
 
-#### SECCIÓN SÉPTIMA. Instituto de Formación Profesional
+#### SECCIÓN SEXTA. Innovación, Planeación y Desarrollo Tecnológico
 
 ###### ARTÍCULO 73.
 
@@ -1575,7 +1687,7 @@ IX. Elaboración de un informe anual de las actividades realizadas por la Unidad
 
 X. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
 
-#### SECCIÓN OCTAVA. Unidad de Transparencia
+#### SECCIÓN SÉPTIMA. Instituto de Formación Profesional
 
 ###### ARTÍCULO 76.
 
@@ -1608,6 +1720,40 @@ VII. Alimentar y actualizar los bancos de datos nacionales a los que deba aporta
 VIII. Aplicar técnicas científicas y analíticas especializadas a la infraestructura tecnológica, con el propósito de identificar, preservar, analizar y presentar ante la autoridad jurisdiccional, la información digital que sirva como prueba para el esclarecimiento de los hechos presuntamente constitutivos de delito y la resolución de los procedimientos por los que éstos se sustancien; y
 
 IX. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
+
+#### SECCIÓN OCTAVA. Unidad de Transparencia
+
+###### ARTÍCULO 79.
+
+El Instituto de Formación Profesional tendrá a su cargo el establecimiento, la operación y la evaluación tanto de los Programas Rectores de Profesionalización, como de los programas de capacitación y de formación de los servidores públicos de la Fiscalía General y de los que aspiren a ingresar a ella.
+
+###### ARTÍCULO 80.
+
+Además de los requisitos establecidos en el artículo 59 de la presente Ley, la persona titular del Instituto de Formación Profesional deberá acreditar que cuenta con experiencia mínima de tres años en la docencia o en la coordinación académica, así como también deberá cubrir cualquier otro requisito que se establezca en el reglamento de la presente Ley.
+
+###### ARTÍCULO 81.
+
+Corresponde a la persona titular del Instituto de Formación Profesional, además de las señaladas en el artículo 60 de la presente Ley, el ejercicio y cumplimiento de las siguientes atribuciones, facultades, deberes y obligaciones específicas:
+
+I. Proponer, evaluar, revisar e implementar los programas de capacitación y de formación de los servidores públicos de la Fiscalía General, procurando que sus contenidos sean adecuados, pertinentes e idóneos para el desempeño de sus funciones, y vigilando tanto su cumplimiento como su eficiencia terminal;
+
+II. Proponer, evaluar, revisar e implementar los programas, las políticas, los lineamientos y las normas que corresponden al Servicio Profesional de Carrera, con base en la escolaridad y los grados académicos que correspondan al grado de profesionalización requerido en cada una de las etapas que lo conforman;
+
+III. Proponer y publicar las convocatorias que correspondan a los procedimientos de ingreso a la Fiscalía General;
+
+IV. Apoyar, incentivar, impulsar y fomentar entre los servidores públicos de la Fiscalía General, la investigación académica y científica en las áreas del derecho, la criminología, las ciencias forenses, las ciencias policiales y cualquiera otra rama del conocimiento relacionada con el ejercicio de las funciones propias de la Fiscalía General; proponiendo y desarrollando los planes y programas que correspondan, y gestionando los recursos necesarios para tales propósitos;
+
+V. Llevar a cabo los programas de posgrado y especialización de los servidores públicos;
+
+VI. Tramitar los registros, autorizaciones y el reconocimiento de los planes y programas de estudio;
+
+VII. Expedir reconocimientos, constancias y certificados en la materia;
+
+VIII. Proponer los programas y las actividades necesarias para el intercambio de experiencias, conocimientos y avances tecnológicos, con otras instituciones de procuración de justicia y de seguridad pública, sean éstas nacionales o extranjeras;
+
+IX. Proponer la celebración de convenios con instituciones académicas, públicas o privadas, nacionales o extranjeras, que sirvan para que la capacitación y la formación profesional de los servidores públicos de la Fiscalía General sea de la mejor calidad y responda a los estándares internacionales; y
+
+X. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
 
 #### SECCIÓN NOVENA. Centro de Evaluación y Control de Confianza
 
@@ -1653,40 +1799,6 @@ VI.- Los demás que establezcan las normas aplicables.
 
 ARTÍCULO 84 D. Las cuestiones relativas al Centro de Evaluación y Control de Confianza así como a las evaluaciones que realice, serán determinadas en el reglamento correspondiente.
 
-###### ARTÍCULO 79.
-
-El Instituto de Formación Profesional tendrá a su cargo el establecimiento, la operación y la evaluación tanto de los Programas Rectores de Profesionalización, como de los programas de capacitación y de formación de los servidores públicos de la Fiscalía General y de los que aspiren a ingresar a ella.
-
-###### ARTÍCULO 80.
-
-Además de los requisitos establecidos en el artículo 59 de la presente Ley, la persona titular del Instituto de Formación Profesional deberá acreditar que cuenta con experiencia mínima de tres años en la docencia o en la coordinación académica, así como también deberá cubrir cualquier otro requisito que se establezca en el reglamento de la presente Ley.
-
-###### ARTÍCULO 81.
-
-Corresponde a la persona titular del Instituto de Formación Profesional, además de las señaladas en el artículo 60 de la presente Ley, el ejercicio y cumplimiento de las siguientes atribuciones, facultades, deberes y obligaciones específicas:
-
-I. Proponer, evaluar, revisar e implementar los programas de capacitación y de formación de los servidores públicos de la Fiscalía General, procurando que sus contenidos sean adecuados, pertinentes e idóneos para el desempeño de sus funciones, y vigilando tanto su cumplimiento como su eficiencia terminal;
-
-II. Proponer, evaluar, revisar e implementar los programas, las políticas, los lineamientos y las normas que corresponden al Servicio Profesional de Carrera, con base en la escolaridad y los grados académicos que correspondan al grado de profesionalización requerido en cada una de las etapas que lo conforman;
-
-III. Proponer y publicar las convocatorias que correspondan a los procedimientos de ingreso a la Fiscalía General;
-
-IV. Apoyar, incentivar, impulsar y fomentar entre los servidores públicos de la Fiscalía General, la investigación académica y científica en las áreas del derecho, la criminología, las ciencias forenses, las ciencias policiales y cualquiera otra rama del conocimiento relacionada con el ejercicio de las funciones propias de la Fiscalía General; proponiendo y desarrollando los planes y programas que correspondan, y gestionando los recursos necesarios para tales propósitos;
-
-V. Llevar a cabo los programas de posgrado y especialización de los servidores públicos;
-
-VI. Tramitar los registros, autorizaciones y el reconocimiento de los planes y programas de estudio;
-
-VII. Expedir reconocimientos, constancias y certificados en la materia;
-
-VIII. Proponer los programas y las actividades necesarias para el intercambio de experiencias, conocimientos y avances tecnológicos, con otras instituciones de procuración de justicia y de seguridad pública, sean éstas nacionales o extranjeras;
-
-IX. Proponer la celebración de convenios con instituciones académicas, públicas o privadas, nacionales o extranjeras, que sirvan para que la capacitación y la formación profesional de los servidores públicos de la Fiscalía General sea de la mejor calidad y responda a los estándares internacionales; y
-
-X. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
-
-#### SECCIÓN PRIMERA. Disposiciones Generales
-
 ###### ARTÍCULO 82.
 
 La Unidad de Transparencia tendrá a su cargo la difusión, divulgación, solicitud, integración, concentración, actualización, conservación, protección y sistematización de la información relativa a la Fiscalía General, con el objeto de dar cumplimiento a las obligaciones que le corresponden en materia de transparencia y de ponerla a disposición de los particulares, en los términos prescritos por la Ley General de Transparencia y la Ley Estatal de Transparencia.
@@ -1701,7 +1813,9 @@ Corresponde a la persona titular de la Unidad de Transparencia, además de las s
 
 I. Proteger y fomentar el ejercicio del Derecho Humano de Acceso a la Información, en todas las formas en las que éste se manifiesta;
 
-II. Coordinarse con la Unidad Auxiliar Sustantiva de Análisis de la Información; con las Unidades Auxiliares Adjetivas de Política Institucional, Archivo, Innovación, Planeación y Desarrollo Tecnológico, la Oficialía Mayor y la Coordinación del Centro de Justicia para Mujeres; y, en general, con cualquiera de los elementos y factores que integran la estructura orgánica de la Fiscalía General, con el propósito de dar cumplimiento con las obligaciones que le son propias en materia de transparencia;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+II. Coordinarse con la Unidad Auxiliar Sustantiva denominada Centro Estatal de Inteligencia y Política Criminal; con las Unidades Auxiliares Adjetivas de Archivo, Innovación, Planeación y Desarrollo Tecnológico, la Oficialía Mayor y la Coordinación del Centro de Justicia para Mujeres; y, en general, con cualquiera de los elementos y factores que integran la estructura orgánica de la Fiscalía General, con el propósito de dar cumplimiento con las obligaciones que le son propias en materia de transparencia;
 
 III. Divulgar, a través de los medios de difusión de la Fiscalía General y en términos de lo dispuesto tanto por la Ley General de Transparencia como por la Ley Estatal de Transparencia, la siguiente información:
 
@@ -1727,7 +1841,7 @@ VII. Las demás que le encomiende el Fiscal General y que se establezcan en las 
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE FEBRERO DE 2021)</small>
 
-#### SECCIÓN SEGUNDA. Agentes del Ministerio Público Especializados en el Sistema Integral de Justicia Penal para Adolescentes
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
 ## TÍTULO CUARTO. ÓRGANO INTERNO DE CONTROL Y VIGILANCIA
 
@@ -1747,9 +1861,9 @@ I. Ser ciudadano mexicano;
 
 II. Contar con título profesional de cualquier carrera afín con las materias de responsabilidades administrativas, de control y vigilancia o de fiscalización de recursos, con cinco años de ejercicio profesional y con experiencia en las mencionadas materias;
 
-(NOTA: EL 16 DE MARZO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 112/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE MARZO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2023)</small>
 
-III. NO HABER SIDO CONDENADO POR DELITO DOLOSO;
+III. No haber sido condenado por delito de los previstos como protectores de la administración pública, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia;
 
 IV. Haber acreditado los procesos de evaluación y control de confianza;
 
@@ -1863,7 +1977,7 @@ En el caso de la comisión de hechos presuntamente constitutivos de faltas admin
 
 ### CAPÍTULO I. Agentes del Ministerio Público
 
-#### SECCIÓN TERCERA. Agentes del Ministerio Público Especializados en Materia de Acceso de las Mujeres a una Vida Libre de Violencia
+#### SECCIÓN SEGUNDA. Agentes del Ministerio Público Especializados en el Sistema Integral de Justicia Penal para Adolescentes
 
 ###### ARTÍCULO 97.
 
@@ -1881,9 +1995,9 @@ I. Recibir, en términos de las disposiciones aplicables, las denuncias o querel
 
 II. Ejercitar y proseguir la acción penal, mediante la realización de todos los actos necesarios para su acreditación, resolución y ejecución, en términos de lo dispuesto por el Código Penal, el Código Nacional y la Ley de Ejecución;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2023)</small>
 
-III. Coordinar a través de la Agencia Estatal de Investigación Criminal, las funciones de la Comisaría General de la Policía de Investigación, de las Unidades Auxiliares Sustantivas de Investigación Pericial y de Análisis de Información, de las instituciones policiales y del resto de los auxiliares, en la investigación de los hechos presuntamente constitutivos de delito; ordenándoles y solicitándoles la práctica y la realización de todos los actos pertinentes, idóneos y necesarios para ello, en términos de lo dispuesto en la Constitución Federal, la Constitución Local, el Código Nacional y las demás normas aplicables;
+III. Coordinar a través de la Agencia Estatal de Investigación Criminal, las funciones de la Comisaría General de la Policía de Investigación Criminal, de las Unidades Auxiliares Sustantivas denominadas de Investigación Pericial y Centro Estatal de Inteligencia y Política Criminal, de las instituciones policiales y del resto de los auxiliares, en la investigación de los hechos presuntamente constitutivos de delito; ordenándoles y solicitándoles la práctica y la realización de todos los actos pertinentes, idóneos y necesarios para ello, en términos de lo dispuesto en la Constitución Federal, la Constitución Local, el Código Nacional y las demás normas aplicables;
 
 IV. Ordenar el registro de documentos, registros y repositorios de información, físicos o digitales, públicos o privados; de lugares, vehículos y personas, o de cualquier otro elemento en el que puedan encontrarse indicios, huellas, vestigios, evidencias, objetos, instrumentos o productos de los hechos presuntamente constitutivos de delito que se investiguen, siempre que no se requiera mandamiento judicial para tales efectos, de conformidad con lo prescrito por el Código Nacional;
 
@@ -1959,7 +2073,7 @@ Los Agentes del Ministerio Público serán adscritos a las diversas áreas que i
 
 En casos excepcionales y tomando en consideración las necesidades del servicio y la disponibilidad presupuestal de la Fiscalía General, el Fiscal General podrá nombrar Agentes del Ministerio Público de designación especial, quienes deberán satisfacer los requisitos de ingreso establecidos en la Ley General de Seguridad Pública, con excepción de los que correspondan al procedimiento de formación inicial, serán ajenos al Servicio Profesional de Carrera y no podrán durar más de cinco años en su encargo.
 
-#### SECCIÓN CUARTA. Auxiliares del Ministerio Público
+#### SECCIÓN TERCERA. Agentes del Ministerio Público Especializados en Materia de Acceso de las Mujeres a una Vida Libre de Violencia
 
 ###### ARTÍCULO 102.
 
@@ -1977,7 +2091,7 @@ Asimismo, el Fiscal General podrá nombrar Agentes del Ministerio Público Espec
 
 Las atribuciones, facultades, deberes y obligaciones que corresponden a los Agentes del Ministerio Público, en términos de la presente Ley y de las demás disposiciones relativas, se entenderán igualmente aplicables a los Agentes del Ministerio Público Especializados en el Sistema Integral de Justicia Penal para Adolescentes, sin perjuicio de las previsiones específicas establecidas por las disposiciones especiales de la materia y siempre que no se opongan a ellas.
 
-#### SECCIÓN PRIMERA. Disposiciones Generales
+#### SECCIÓN CUARTA. Auxiliares del Ministerio Público
 
 ###### ARTÍCULO 105.
 
@@ -1995,7 +2109,7 @@ Asimismo, el Fiscal General podrá nombrar Agentes del Ministerio Público Espec
 
 Las atribuciones, facultades, deberes y obligaciones que corresponden a los Agentes del Ministerio Público, en términos de la presente Ley y de las demás disposiciones relativas, se entenderán igualmente aplicables a los Agentes del Ministerio Público Especializados en Acceso de las Mujeres a una Vida Libre de Violencia, sin perjuicio de las previsiones específicas establecidas por las disposiciones especiales de la materia y siempre que no se opongan a ellas.
 
-#### SECCIÓN SEGUNDA. Agentes de la Policía de Investigación Especializados en el Sistema Integral de Justicia Penal para Adolescentes
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
 ###### ARTÍCULO 108.
 
@@ -2003,7 +2117,9 @@ Son auxiliares de la Institución del Ministerio Público y de los Agentes del M
 
 I. Directos, y por ende, integrantes de la Fiscalía General:
 
-a) Los Agentes de la Comisaría General de la Policía de Investigación;
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+a) Los Agentes de la Comisaría General de la Policía de Investigación Criminal; y
 
 b) Los peritos adscritos a la Unidad Auxiliar Sustantiva de Investigación Pericial;
 
@@ -2035,7 +2151,7 @@ En la investigación de hechos presuntamente constitutivos de delito, la Unidad 
 
 ### CAPÍTULO II. Agentes de la Policía de Investigación
 
-#### SECCIÓN TERCERA. Agentes de la Policía de Investigación Especializados en Materia de Acceso de las Mujeres a una Vida Libre de Violencia
+#### SECCIÓN SEGUNDA. Agentes de la Policía de Investigación Especializados en el Sistema Integral de Justicia Penal para Adolescentes
 
 ###### ARTÍCULO 110.
 
@@ -2048,6 +2164,10 @@ Las personas a las que se les otorgue el nombramiento de Agente de la Policía d
 ###### ARTÍCULO 112.
 
 Los Agentes de la Policía de Investigación actuarán bajo el mando y la conducción de la Institución del Ministerio Público, quien además controlará la legalidad y la constitucionalidad de su actuación; y su conducta se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos consagrados en la Constitución Federal, en los instrumentos jurídicos internacionales que México ha suscrito, en la Constitución Local y en las leyes generales que de ellos emanan.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+Durante el desarrollo de las labores de investigación táctica de los hechos presuntamente constitutivos de los delitos, los Agentes de la Policía de Investigación se apoyarán de los Peritos y del personal del Centro Estatal de Inteligencia y Política Criminal que a ella acudan, siendo los responsables de coordinar su operación conforme al mando y la conducción de la Institución del Ministerio Público.
 
 ###### ARTÍCULO 113.
 
@@ -2107,15 +2227,17 @@ XXVI. Mantener en reserva toda la información que posea en razón del ejercicio
 
 XXVII. Las demás que se establezcan en el reglamento de la presente Ley, en los demás ordenamientos jurídicos aplicables y por parte de sus superiores jerárquicos.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 114.
 
-Los Agentes de la Policía de Investigación serán adscritos a los diversos elementos y factores que integran la estructura orgánica de la Fiscalía General o la Comisaría General de la Policía de Investigación, por la persona titular de esta última o por el Fiscal General, atendiendo a las necesidades del servicio y a la disponibilidad presupuestal, de conformidad con las disposiciones aplicables.
+Los Agentes de la Policía de Investigación serán adscritos a los diversos elementos y factores que integran la estructura orgánica de la Fiscalía General o la Comisaría General de la Policía de Investigación Criminal, por la persona titular de esta última o por el Fiscal General, atendiendo a las necesidades del servicio y a la disponibilidad presupuestal, de conformidad con las disposiciones aplicables.
 
 ###### ARTÍCULO 115.
 
 En casos excepcionales y tomando en consideración las necesidades del servicio y la disponibilidad presupuestal de la Fiscalía General, el Fiscal General podrá nombrar Agentes de la Policía de Investigación de designación especial, quienes deberán satisfacer los requisitos de ingreso establecidos en la Ley General de Seguridad Pública, con excepción de los que correspondan al procedimiento de formación inicial, serán ajenos al Servicio Profesional de Carrera y no podrán durar más de cinco años en su encargo.
 
-#### SECCIÓN PRIMERA. Obligaciones e Incompatibilidades
+#### SECCIÓN TERCERA. Agentes de la Policía de Investigación Especializados en Materia de Acceso de las Mujeres a una Vida Libre de Violencia
 
 ###### ARTÍCULO 116.
 
@@ -2133,7 +2255,7 @@ Asimismo, el Fiscal General podrá nombrar Agentes de la Policía de Investigaci
 
 Las atribuciones, facultades, deberes y obligaciones que corresponden a los Agentes de la Policía de Investigación, en términos de la presente Ley y de las demás disposiciones relativas, se entenderán igualmente aplicables a los Agentes de la Policía de Investigación Especializados en el Sistema Integral de Justicia Penal para Adolescentes, sin perjuicio de las previsiones específicas establecidas por las disposiciones especiales de la materia y siempre que no se opongan a ellas.
 
-#### SECCIÓN SEGUNDA. Impedimentos, Excusas y Recusaciones
+#### SECCIÓN PRIMERA. Obligaciones e Incompatibilidades
 
 ###### ARTÍCULO 119.
 
@@ -2221,9 +2343,7 @@ II. Contar con titulo profesional en cualquier área del conocimiento, de prefer
 
 III. Tener conocimientos académicos, comprobables mediante los diplomas, certificaciones, títulos o cédulas que correspondan, en materia de justicia restaurativa, justicia alternativa, mediación, conciliación o en cualquier disciplina afín, y un ejercicio profesional mínimo de tres años en las mencionadas materias;
 
-(NOTA: EL 16 DE MARZO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 112/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE MARZO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-IV. NO HABER SIDO CONDENADO, POR SENTENCIA FIRME, POR LA COMISIÓN DE ALGÚN DELITO DOLOSO, NI ESTAR SUJETO A UN PROCESO PENAL;
+IV. (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2023)
 
 V. No estar suspendido o inhabilitado por resolución firme como servidor público, en los términos de las normas aplicables;
 
@@ -2279,9 +2399,7 @@ En el caso de que las licencias sin goce de sueldo estén motivadas por razones 
 
 ### CAPÍTULO II. Obligaciones, Impedimentos y Responsabilidades
 
-#### SECCIÓN TERCERA. Responsabilidades
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+#### SECCIÓN SEGUNDA. Impedimentos, Excusas y Recusaciones
 
 ###### ARTÍCULO 135.
 
@@ -2349,7 +2467,9 @@ VII. Ejercer ni desempeñar las funciones de apoderado judicial, síndico, admin
 
 VIII. Ejercer ni desempeñar las funciones de depositario judicial, salvo en causa propia, de su cónyuge, concubina o concubinario, de sus ascendientes o descendientes, de sus hermanos o de su adoptante o adoptado.
 
-#### SECCIÓN PRIMERA. Disposiciones Generales
+#### SECCIÓN TERCERA. Responsabilidades
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 137.
 
@@ -2387,7 +2507,7 @@ VII. Si el Fiscal General encuentra infundada e improcedente la recusación, el 
 
 Desde el momento en que se interponga la recusación, el Agente del Ministerio Público o el Perito de que se trate suspenderá el asunto y se abstendrá de actuar en él, salvo en el caso de que sea necesario llevar a cabo diligencias urgentes que no admitan dilación y las de mero trámite.
 
-#### SECCIÓN SEGUNDA. Disposiciones Básicas
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
 ###### ARTÍCULO 140.
 
@@ -2463,7 +2583,7 @@ El régimen de suplencias de los servidores públicos de la Fiscalía General, d
 
 ### CAPÍTULO IV. Servicio Profesional de Carrera
 
-#### SECCIÓN TERCERA. Ingreso, Desarrollo y Permanencia
+#### SECCIÓN SEGUNDA. Disposiciones Básicas
 
 ###### ARTÍCULO 152.
 
@@ -2485,7 +2605,7 @@ V. Garantizar la autonomía y la imparcialidad en el ejercicio y el cumplimiento
 
 VI. Dar continuidad a las políticas, los planes, los programas y a las acciones, generales y específicas, formuladas e implementadas en materia de las atribuciones inmanentes a la Institución del Ministerio Público, con el propósito de alcanzar las metas planteadas en ellos, y proseguir con aquellas que colaboren con la función de la seguridad pública.
 
-#### SECCIÓN CUARTA. Estímulos y Reconocimientos
+#### SECCIÓN TERCERA. Ingreso, Desarrollo y Permanencia
 
 ###### ARTÍCULO 154.
 
@@ -2551,7 +2671,7 @@ La Fiscalía General contará con un programa de profesionalización, cuyas cara
 
 Se encuentren sujetos o no al régimen del Servicio Profesional de Carrera, todos los servidores públicos de la Fiscalía General estarán obligados a aprobar las evaluaciones de control y confianza, del desempeño y de competencias profesionales prescritas en la presente Ley, así como también deberán ajustarse al sistema de profesionalización establecido en la misma y en las demás disposiciones aplicables.
 
-#### SECCIÓN QUINTA. Terminación del Servicio
+#### SECCIÓN CUARTA. Estímulos y Reconocimientos
 
 ###### ARTÍCULO 159.
 
@@ -2603,7 +2723,7 @@ V. Acceder a los programas de capacitación, actualización, especialización, c
 
 VI. Los demás que señalen otras disposiciones legales aplicables, así como todos aquellos que sean inherentes al ejercicio del empleo, cargo o comisión que se ejerce.
 
-#### SECCIÓN SEXTA. Comisión del Servicio Profesional de Carrera
+#### SECCIÓN QUINTA. Terminación del Servicio
 
 ###### ARTÍCULO 164.
 
@@ -2613,7 +2733,7 @@ Los servidores públicos de la Fiscalía General que destaquen por su asistencia
 
 Los servidores públicos de la Fiscalía General que contribuyan a mejorar los servicios prestados y las funciones que corresponden a la Fiscalía General; que aporten a esta o a la sociedad innovaciones relevantes, o que hayan realizado acciones que den testimonio de su valor, de su eficacia o de su eficiencia en el ejercicio de las funciones propia (sic) de su empleo, cargo o comisión; o que demuestren un notorio interés por el servicio a favor de la comunidad, podrán ser galardonados con el otorgamiento del reconocimiento al que hubiera lugar, en términos del reglamento del Servicio Profesional de Carrera o en las demás disposiciones aplicables.
 
-#### SECCIÓN SÉPTIMA. Comisión de Honor y Justicia
+#### SECCIÓN SEXTA. Comisión del Servicio Profesional de Carrera
 
 ###### ARTÍCULO 166.
 
@@ -2657,6 +2777,8 @@ Para efectos del presente artículo, se entenderá que la causa de terminación 
 
 Las solicitudes de reincorporación al Servicio Profesional de Carrera se analizarán y, en su caso, concederán con arreglo a lo que establezca esta Ley, su reglamento y las demás disposiciones aplicables, siempre que el motivo de terminación del servicio haya sido por causas distintas a la rescisión, separación o remoción.
 
+#### SECCIÓN SÉPTIMA. Comisión de Honor y Justicia
+
 ###### ARTÍCULO 172.
 
 La Comisión del Servicio Profesional de Carrera es un órgano colegiado que tiene por objeto la regulación, el control y la administración de todas las etapas que conforman el Servicio Profesional de Carrera, así como la ejecución de todas las acciones, generales y específicas, que le son inherentes; y estará integrado por las siguientes personas:
@@ -2697,11 +2819,15 @@ La Comisión de Honor y Justicia es un órgano colegiado que tiene por objeto ap
 
 I. El Fiscal General, quien la presidirá;
 
-II. La persona designada como titular de la Comisaría General de la Policía de Investigación, quien tendrá el carácter de vocal;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+II. La persona designada como titular de la Comisaría General de la Policía de Investigación Criminal quien tendrá el carácter de vocal;
 
 III. La persona designada como Visitador General, quien tendrá el carácter de vocal;
 
-IV. Un Agente (sic) Investigación designado por el Fiscal General, mediante el método de insaculación, quien tendrá el carácter de vocal; y
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+IV. Un Agente de Investigación designado por el Fiscal General, mediante el método de insaculación, quien tendrá el carácter de vocal;
 
 V. Un Secretario Técnico, que será designado libremente por el Fiscal General, de entre el personal que integra la Fiscalía General.
 
@@ -2904,3 +3030,11 @@ Hasta en tanto no sean expedidas las disposiciones reglamentarias a las que refi
 ###### ARTÍCULO TERCERO.
 
 Las referencias o menciones realizados (sic) en otros ordenamientos legales a las Vicefiscalía de Investigación, de Litigación y/o Jurídica se (sic) deberán entenderse realizadas a las Vicefiscalías de Investigación del Delito, Jurídica y de Litigación Penal; y de Control Regional, según corresponda, en tanto dichos ordenamientos sean actualizados para corresponder con las denominaciones del presente Decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 463.- SE REFORMA LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
