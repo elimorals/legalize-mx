@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-instituciones-y-procedimientos-electorales-de-la-1218
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-07"
-last_updated: "2023-06-02"
+last_updated: "2023-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121814&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2017-06-06"
 ---
 # CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MEXICO -- ANTES CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL --
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE NOVIEMBRE DE 2023 EN EL G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 2 DE JUNIO DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 13 DE NOVIEMBRE DE 2023.]</small>
 
 Código publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de junio de 2017.
 
@@ -218,57 +218,57 @@ II. Actos Anticipados de Precampaña. Son las expresiones que se realicen bajo c
 
 No se considerarán Actos Anticipados de Precampaña las actividades que desarrollen las personas titulares de cualquier puesto de elección popular que pretendan optar por contender en los procesos internos partidistas para buscar la reelección o cualquiera de sus colaboradores remunerados con recursos públicos siempre y cuando en dichos actos no se pronuncien expresiones proselitistas, propuestas de precampaña o cualquier expresión en el sentido del párrafo anterior.
 
-> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
+(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE JUNIO DE 2023) (F. DE E., G.O. 13 DE NOVIEMBRE DE 2023)
 
-II Bis. Campañas negativas: Cualquier acto realizado mediante el uso de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales, plataformas de internet o cualquier medio tecnológico, por el que se obtenga, exponga, distribuya, difunda, exhiba, reproduzca, transmita o comparta información falsa que atente contra el honor, reputación, integridad, dignidad, intimidad, vida privada de un candidato, dirigida a influir de manera negativa en las preferencias electorales de los ciudadanos;
+II Bis. Bloques de competitividad. Mecanismo por el que se garantiza la paridad de género en las postulaciones en igualdad de condiciones de las personas de género femenino y masculino. Para las candidaturas a las diputaciones al Congreso de la Ciudad de México, el Instituto deberá dividir la totalidad de los distritos uninominales en 3 bloques de competitividad por partido o coalición electoral; alto, intermedio y bajo, cada uno integrado por 11 distritos uninominales. Para las candidaturas a ocupar la titularidad de las alcaldías, el Instituto deberá dividir las 16 demarcaciones en 3 bloques de competitividad; el bloque competitivo contará con 6 candidaturas a las alcaldías, el bloque intermedio y bajo contarán con 5 candidaturas a las alcaldías, respectivamente.
 
-> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
+(ADICIONADA, G.O. 2 DE JUNIO DE 2023) (F. DE E., G.O. 13 DE NOVIEMBRE DE 2023)
 
-II Bis (sic). Estado de postración. Es un abatimiento por enfermedad o aflicción, es decir, que una persona no es capaz de hacer ciertas actividades o movilizarse por su cuenta de forma permanente derivado de alguna discapacidad certificada médicamente.
+II Ter. Campañas negativas: Cualquier acto realizado mediante el uso de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales, plataformas de internet o cualquier medio tecnológico, por el que se obtenga, exponga, distribuya, difunda, exhiba, reproduzca, transmita o comparta información falsa que atente contra el honor, reputación, integridad, dignidad, intimidad, vida privada de un candidato, dirigida a influir de manera negativa en las preferencias electorales de los ciudadanos;
+
+(ADICIONADA, G.O. 2 DE JUNIO DE 2023) (F. DE E., G.O. 13 DE NOVIEMBRE DE 2023)
+
+II Quáter. Estado de postración. Es un abatimiento por enfermedad o aflicción, es decir, que una persona no es capaz de hacer ciertas actividades o movilizarse por su cuenta de forma permanente derivado de alguna discapacidad certificada médicamente.
 
 Para tal efecto, deberá garantizarse, conforme a los principios rectores de la materia electoral y bajo supervisión y vigilancia de los partidos políticos, un mecanismo previo a la jornada electoral que permita el ejercicio del voto de dichas personas ciudadanas. Los votos serán abiertos y computados hasta la etapa correspondiente, el domingo de la elección.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE JUNIO DE 2023)</small>
+(REFORMADA, G.O. 29 DE JULIO DE 2020) (F. DE E., G.O. 13 DE NOVIEMBRE DE 2023)
 
-III. Bloques de competitividad. Mecanismo por el que se garantiza la paridad de género en las postulaciones en igualdad de condiciones de las personas de género femenino y masculino. Para las candidaturas a las diputaciones al Congreso de la Ciudad de México, el Instituto deberá dividir la totalidad de los distritos uninominales en 3 bloques de competitividad por partido o coalición electoral; alto, intermedio y bajo, cada uno integrado por 11 distritos uninominales. Para las candidaturas a ocupar la titularidad de las alcaldías, el Instituto deberá dividir las 16 demarcaciones en 3 bloques de competitividad; el bloque competitivo contará con 6 candidaturas a las alcaldías, el bloque intermedio y bajo contarán con 5 candidaturas a las alcaldías, respectivamente.
+III. Paridad de género. Es el principio constitucional que ordena el acceso al mismo trato y oportunidades, para el reconocimiento, goce o ejercicio de los derechos político electorales. El derecho de igualdad política entre mujeres y hombres, se garantiza con la integración cualitativa y cuantitativa del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación, en forma horizontal y vertical.
 
-> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+(ADICIONADA, G.O. 29 DE JULIO DE 2020) (F. DE E., G.O. 13 DE NOVIEMBRE DE 2023)
 
-IV. Paridad de género. Es el principio constitucional que ordena el acceso al mismo trato y oportunidades, para el reconocimiento, goce o ejercicio de los derechos político electorales. El derecho de igualdad política entre mujeres y hombres, se garantiza con la integración cualitativa y cuantitativa del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación, en forma horizontal y vertical.
+IV. Paridad de género horizontal. Obligación que tienen los partidos políticos de postular en igualdad de porcentajes a los géneros femenino y masculino que encabezan las fórmulas de diputaciones, alcaldías o planillas para las concejalías en todos los distritos electorales de la ciudad de México.
 
-> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+(ADICIONADA [N. DE E. REFORMADA], G.O. 29 DE JULIO DE 2020) (F. DE E., G.O. 13 DE NOVIEMBRE DE 2023)
 
-V. Paridad de género horizontal. Obligación que tienen los partidos políticos de postular en igualdad de porcentajes a los géneros femenino y masculino que encabezan las fórmulas de diputaciones, alcaldías o planillas para las concejalías en todos los distritos electorales de la ciudad de México.
+V. Violencia Política. Son las acciones, conductas y omisiones que transgreden las normas electorales y/o los derechos político electorales de la ciudadanía en procesos democráticos o fuera de ellos, cometidas por una persona o un grupo, que tienen por objeto o resultado, sesgar, condicionar, restringir, impedir, menoscabar, anular, obstaculizar, excluir o afectar el reconocimiento, goce y/o ejercicio de derechos políticos o de las prerrogativas inherentes a un cargo público lesionar la legalidad y certeza de las elecciones; dañar la integridad institucional y/o realizar fraude a la ley.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 29 DE JULIO DE 2020)</small>
+(ADICIONADA, G.O. 29 DE JULIO DE 2020) (F. DE E., G.O. 13 DE NOVIEMBRE DE 2023)
 
-VI. Violencia Política. Son las acciones, conductas y omisiones que transgreden las normas electorales y/o los derechos político electorales de la ciudadanía en procesos democráticos o fuera de ellos, cometidas por una persona o un grupo, que tienen por objeto o resultado, sesgar, condicionar, restringir, impedir, menoscabar, anular, obstaculizar, excluir o afectar el reconocimiento, goce y/o ejercicio de derechos políticos o de las prerrogativas inherentes a un cargo público lesionar la legalidad y certeza de las elecciones; dañar la integridad institucional y/o realizar fraude a la ley.
-
-> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
-
-VII. Violencia Política de Género. Son las acciones, conductas, y omisiones que violentan, transgreden normas electorales o derechos político electorales de la ciudadanía en procesos democráticos, electorales, de participación ciudadana o fuera de ellos, que conllevan un elemento discriminador por razones de género, como pueden ser patrones, roles, identidades, estereotipos, relaciones asimétricas de poder, condiciones de vulnerabilidad, exclusión, diferenciación no justificada o negación del reconocimiento de la igualdad de derechos y dignidad de todas las personas por cualquiera de las características inherentes a la condición humana.
+VI. Violencia Política de Género. Son las acciones, conductas, y omisiones que violentan, transgreden normas electorales o derechos político electorales de la ciudadanía en procesos democráticos, electorales, de participación ciudadana o fuera de ellos, que conllevan un elemento discriminador por razones de género, como pueden ser patrones, roles, identidades, estereotipos, relaciones asimétricas de poder, condiciones de vulnerabilidad, exclusión, diferenciación no justificada o negación del reconocimiento de la igualdad de derechos y dignidad de todas las personas por cualquiera de las características inherentes a la condición humana.
 
 Estas acciones u omisiones son ejercidas en contra de cualquier persona, particularmente en contra de aquellas en situación de vulnerabilidad, y tienen por objeto o resultado sesgar, condicionar, impedir, restringir, menoscabar, anular, obstaculizar, excluir o afectar el reconocimiento, goce y/o ejercicio de derechos político electorales o de las prerrogativas inherentes a un cargo público.
 
-> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+(ADICIONADA, G.O. 29 DE JULIO DE 2020) (F. DE E., G.O. 13 DE NOVIEMBRE DE 2023)
 
-VIII. La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+VII. La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
 Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
 Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y la Ley De Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
-> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+(REFORMADA, G.O. 29 DE JULIO DE 2020) (F. DE E., G.O. 13 DE NOVIEMBRE DE 2023)
 
-IX. Principio democrático. El que garantiza que sobre la voluntad del pueblo en la elección por mayoría no deberá prevalecer interés o principio alguno, se atenderá a lo que resulte de la elección libre de cada ciudadano a través de los votos depositados en las urnas por las candidatas o candidatos a cargos de elección popular.
+VIII. Principio democrático. El que garantiza que sobre la voluntad del pueblo en la elección por mayoría no deberá prevalecer interés o principio alguno, se atenderá a lo que resulte de la elección libre de cada ciudadano a través de los votos depositados en las urnas por las candidatas o candidatos a cargos de elección popular.
 
-> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+(ADICIONADA, G.O. 29 DE JULIO DE 2020) (F. DE E., G.O. 13 DE NOVIEMBRE DE 2023)
 
-X. Principio de Igualdad y no discriminación. Todas las personas gozarán de los derechos humanos, cuya interpretación se realizará favoreciendo en todo tiempo a las personas la protección más amplia. Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, la orientación sexual, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+IX. Principio de Igualdad y no discriminación. Todas las personas gozarán de los derechos humanos, cuya interpretación se realizará favoreciendo en todo tiempo a las personas la protección más amplia. Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, la orientación sexual, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+(REFORMADA, G.O. 2 DE JUNIO DE 2023) (F. DE E., G.O. 13 DE NOVIEMBRE DE 2023)
 
-XI. Plataforma electoral. Es aquella que para cada proceso electoral deben presentar los partidos políticos nacionales o locales, así como las candidatas y candidatos sin partido, en la que dan a conocer sus planes, programas de gobierno, políticas y presupuestos.
+X. Plataforma electoral. Es aquella que para cada proceso electoral deben presentar los partidos políticos nacionales o locales, así como las candidatas y candidatos sin partido, en la que dan a conocer sus planes, programas de gobierno, políticas y presupuestos.
 
 ###### Artículo 5.
 
@@ -286,9 +286,19 @@ Para los efectos de lo dispuesto por el párrafo octavo del artículo 134 de la 
 
 En la Ciudad de México, son derechos de las ciudadanas y de los ciudadanos:
 
-> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+(REFORMADA, G.O. 2 DE JUNIO DE 2023) (F. DE E., G.O. 13 DE NOVIEMBRE DE 2023)
 
-I. Votar y participar en las elecciones federales, locales, consultas populares y demás mecanismos e instrumentos de participación ciudadana conforme lo dispuesto por este Código y demás disposiciones aplicables. Las ciudadanas y ciudadanos de la Ciudad de México residentes en el extranjero, tendrán derecho a emitir su voto en la elección para la Jefatura de Gobierno, en los términos que determinen la Constitución Federal, las Leyes Generales y este Código;
+I. Votar y participar en las elecciones federales, locales, consultas populares y demás mecanismos e instrumentos de participación ciudadana conforme lo dispuesto por este Código y demás disposiciones aplicables.
+
+> <small>(F. DE E., G.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+Las ciudadanas y ciudadanos de la Ciudad de México residentes en el extranjero, tendrán derecho a emitir su voto en la elección para la Jefatura de Gobierno y para las personas Diputadas y Diputados Locales exclusivamente para el caso de candidatos a Diputada o Diputado Migrante, de conformidad con lo dispuesto en la Constitución Federal, las Leyes Generales, la Constitución Local, y este Código;
+
+> <small>(F. DE E., G.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+Las personas en estado de postración con credencial de elector de la Ciudad de México, tendrán a salvo sus derechos para ejercer su voto en los términos mencionados en el primer párrafo de esta fracción.
+
+> <small>(F. DE E., G.O. 13 DE NOVIEMBRE DE 2023)</small>
 
 Las personas que se encuentren sujetas a prisión preventiva sin sentencia firme tienen derecho a emitir su voto en la elección para la Jefatura de Gobierno, las diputaciones del Congreso, Alcaldías y presupuesto participativo en la Ciudad de México.
 
@@ -762,9 +772,9 @@ I. Cociente natural: es el resultado de dividir la votación local emitida entre
 
 II. Cociente de distribución: Es el resultado de dividir la votación ajustada entre el número de Diputaciones de representación proporcional que quedan por asignar, una vez verificado el límite máximo de sobrerrepresentación, en los términos de este Código;
 
-> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+(REFORMADA, G.O. 2 DE JUNIO DE 2023) (F. DE E., G.O. 13 DE NOVIEMBRE DE 2023)
 
-III. Lista “A”: Relación de diecisiete fórmulas de candidaturas a las diputaciones: persona propietaria y suplente del mismo género, listados en orden de prelación alternando fórmulas de género distinto de manera sucesiva, a elegir por el principio de representación proporcional, de las cuales 4 deberán estar integradas por personas jóvenes de 18 hasta 35 años cumplidos al día de la elección y al menos una fórmula integrada por personas pertenecientes a los grupos de atención prioritaria enunciados en la Constitución Política de la Ciudad de México y que cumplan con los requisitos de elegibilidad.
+III. Lista “A”: Relación de diecisiete fórmulas de candidaturas a las diputaciones: persona propietaria y suplente del mismo género, listados en orden de prelación alternando fórmulas de género distinto de manera sucesiva, a elegir por el principio de representación proporcional, de las cuales 4 deberán estar integradas por personas jóvenes de 18 hasta 35 años cumplidos al día de la elección y al menos una fórmula integrada por personas pertenecientes a los grupos de atención prioritaria enunciados en la Constitución local, así como en el artículo 14 párrafo segundo del presente Código y que cumplan con los requisitos de elegibilidad.
 
 Será derecho exclusivo de los partidos políticos conforme a su facultad de autodeterminación elegir el género con el que iniciará su lista “A”.
 
