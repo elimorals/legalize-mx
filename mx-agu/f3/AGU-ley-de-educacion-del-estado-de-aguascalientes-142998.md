@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2023-11-06"
+last_updated: "2023-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -665,9 +665,17 @@ XX. Promover la transparencia en las escuelas públicas y particulares en las qu
 
 XXI. Instrumentar un sistema accesible a los ciudadanos y docentes para la presentación y seguimiento de quejas y sugerencias respecto del servicio público educativo;
 
-XXII. Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias, y
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2023)</small>
 
-XXIII. Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
+XXII. Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+XXIII. Desarrollar y promover en el ámbito de su competencia protocolos para la prevención, detección, atención oportuna y seguimiento de riesgos de salud física y mental de los educandos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+XXIV. Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
 
 El Ejecutivo Federal y el gobierno de la entidad federativa podrán celebrar convenios para coordinar o unificar las actividades educativas a que se refiere esta Ley, con excepción de aquellas que, con carácter exclusivo, les confieren los artículos 113 y 114 de la Ley General de Educación.
 
@@ -2346,3 +2354,11 @@ P.O. 6 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 466.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
 
 Artículo Único.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 449.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
