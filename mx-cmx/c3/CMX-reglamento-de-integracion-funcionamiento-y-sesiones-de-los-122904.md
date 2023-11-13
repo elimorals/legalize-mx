@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-integracion-funcionamiento-y-sesiones-de-los-1229
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-17"
-last_updated: "2022-11-11"
+last_updated: "2023-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122904&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-08-04"
 
 REGLAMENTO DE INTEGRACIÓN, FUNCIONAMIENTO Y SESIONES DE LOS CONSEJOS DISTRITALES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE NOVIEMBRE DE 2023.
 
 Reglamento publicado en el Número 135 de la Gaceta Oficial de la Ciudad de México, el jueves 17 de agosto de 2017.
 
@@ -646,11 +646,11 @@ Las personas integrantes de los Consejos Distritales deberán señalar a la Pres
 
 Para las sesiones virtuales y mixtas, las convocatorias y notificaciones se realizarán a través de los correos electrónicos proporcionados.
 
-> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 13 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 17.
 
-El día y hora fijado para la sesión, se reunirán las personas integrantes del Consejo Distrital, en el domicilio y/o plataforma digital precisados en la convocatoria respectiva. La Presidencia del Consejo Distrital declarará el inicio de la sesión del Consejo Distrital, una vez que la Secretaría del Consejo haya pasado lista de asistencia y verificado la existencia del quórum requerido para sesionar, de conformidad con lo señalado en el Código.
+El día y hora fijado para la sesión, se reunirán las personas integrantes del Consejo Distrital, en el domicilio y/o plataforma digital precisados en la convocatoria respectiva. Una vez que la Secretaría del Consejo haya pasado lista de asistencia de dichas personas y verificado la existencia del quórum requerido para sesionar, la Presidencia del Consejo Distrital declarará el inicio de la sesión del Consejo Distrital, de conformidad con lo señalado en el Código.
 
 > <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
@@ -1118,15 +1118,17 @@ Dentro de las veinticuatro horas siguientes al término de la sesión, la Presid
 
 La Presidencia del Consejo Distrital enviará a la Secretaría Ejecutiva, de manera inmediata, una nota informativa a través de la Dirección de Organización, cuyo contenido, temas o puntos a informar serán determinados por la persona titular de esta última.
 
+> <small>(REFORMADO, G.O. 13 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 63.
 
 La Presidencia de la Comisión Distrital elaborará un proyecto de minuta por cada sesión celebrada, la cual será presentada a sus integrantes para recibir sus observaciones en la sesión ordinaria siguiente.
 
-> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+Las minutas contendrán los datos de la sesión, la lista de asistencia y los asuntos tratados y una vez aprobadas, serán firmadas al calce y al margen por las personas integrantes de la respectiva Comisión Distrital que hayan asistido a dicha sesión.
 
-Las minutas contendrán los datos de la sesión, la lista de asistencia y los asuntos tratados y, una vez aprobadas, serán firmadas al calce y al margen por las personas integrantes de la respectiva Comisión Distrital.
+En caso de que alguna persona Consejera Distrital no haya asistido por cualquier causa a la sesión de la que se haga referencia en la minuta, podrá abstenerse de aprobarla, por lo que se excusará en la intervención en el respectivo punto del orden del día.
 
-Los formatos y guías para la elaboración de las minutas serán elaborados por la Secretaría Ejecutiva con el apoyo de la Dirección (sic) Organización.
+Si ocurriese que alguna persona Consejera Distrital hubiere asistido a la sesión a la que hace referencia la minuta, pero por cualquier causa no hubiere podido presentarse a la sesión en la que se apruebe, podrá firmarla con posterioridad; o bien, si su ausencia es definitiva, se omitirá la firma, se asentará en la minuta.
 
 > <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
@@ -1637,3 +1639,19 @@ TERCERO. Publíquese el presente Acuerdo y su Anexo de manera inmediata a su apr
 CUARTO. Publíquese el presente Acuerdo y su Anexo en la Página de Internet www.iecm.mx; realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la citada página electrónica y difúndase la misma en las redes sociales en que este Instituto participa.
 
 QUINTO. Remítase el presente Acuerdo y su Anexo a la Gaceta Oficial de la Ciudad de México para su publicación.
+
+G.O. 13 DE NOVIEMBRE DE 2023.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL POR EL CUAL SE APRUEBAN DIVERSAS REFORMAS AL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES, Y AL REGLAMENTO DE INTEGRACIÓN, FUNCIONAMIENTO Y SESIONES DE LOS CONSEJOS DISTRITALES, AMBOS DEL MISMO INSTITUTO. [IECM/ACU-CG-105/2023]".]</small>
+
+PRIMERO. Se aprueba el contenido de las reformas y adiciones al "Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral de la Ciudad de México" y al "Reglamento de Integración, Funcionamiento y Sesiones de los Consejos Distritales del Instituto Electoral de la Ciudad de México", en términos de la parte considerativa del presente Acuerdo y de conformidad con el Anexo que lo acompaña, el cual forma parte integral del mismo.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al momento de su aprobación y su Anexo al día siguiente de su publicación en la Gaceta Oficial.
+
+TERCERO. Se instruye a la Secretaría Ejecutiva para que comunique, mediante circular, el contenido del presente Acuerdo a las Direcciones Ejecutivas, Unidades Técnicas, Contraloría Interna y Órganos Desconcentrados del Instituto Electoral, para su observancia y aplicación en el ámbito de su competencia.
+
+CUARTO. Publíquese el presente Acuerdo y su Anexo en los estrados de las oficinas centrales, en los estrados electrónicos y para mayor difusión, en los estrados de las oficinas de las treinta y tres Direcciones Distritales de este Instituto Electoral.
+
+QUINTO. Remítase el presente Acuerdo y su Anexo a la Gaceta Oficial de la Ciudad de México, para su publicación.
+
+SEXTO. Publíquese el presente Acuerdo y su Anexo en la página de internet www.iecm.mx; realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la citada página electrónica y difúndase la misma en las redes sociales en que este Instituto participa.
