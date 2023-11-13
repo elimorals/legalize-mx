@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-sesiones-del-consejo-general-y-comisiones-del-122
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-16"
-last_updated: "2023-09-04"
+last_updated: "2023-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122872&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-08-04"
 
 REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE NOVIEMBRE DE 2023.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 16 de agosto de 2017.
 
@@ -796,7 +796,7 @@ En caso de empate, la Presidencia del Consejo General tendrá voto de calidad.
 
 Los asuntos contenidos en el orden del día serán discutidos y, en su caso, votados, salvo cuando el propio Consejo General acuerde, mediante votación, posponer la discusión o votación de algún asunto en particular, así como su devolución para su adecuación y posterior presentación al Consejo General.
 
-> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 13 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 36.
 
@@ -805,6 +805,18 @@ A solicitud de alguna persona integrante del Consejo General se podrá dividir l
 Posteriormente, se tomará la votación en lo particular sobre los puntos restantes.
 
 En caso de que existiera más de un proyecto de acuerdo o resolución, la Secretaría del Consejo tomará la votación para cada uno de ellos en el orden en que hayan sido presentados.
+
+Se entiende que un Acuerdo o Resolución es objeto de engrose cuando, durante su análisis y deliberación en el desahogo del punto del orden del día, se proponga realizar modificaciones o argumentaciones que cambien el sentido original del proyecto sometido a consideración del Consejo General y sea aprobado en tales términos.
+
+La Secretaría del Consejo, una vez tomada la votación deberá manifestar en forma precisa si, de acuerdo con el sentido de ésta, debe llevarse a cabo su engrose.
+
+De proceder el engrose, se llevará a cabo la votación tomando en cuenta los razonamientos que sustenten las modificaciones o argumentaciones distintas al sentido original del proyecto.
+
+La Secretaría del Consejo, a través de la instancia ejecutiva o técnica generadora, realizará el engrose con posterioridad a su aprobación conforme a lo siguiente:
+
+a) Se apegará al sentido resultante de la votación, considerando las propuestas formuladas durante la sesión y, en su caso, las presentadas por escrito.
+
+b) Se auxiliará del órgano colegiado para su elaboración, en un plazo que no exceda de setenta y dos horas.
 
 ###### Artículo 37.
 
@@ -1254,6 +1266,20 @@ La Presidencia de la Comisión deberá remitir a la Presidencia del Consejo Gene
 
 En el supuesto de que la Presidencia de la Comisión no asista a la sesión a la que haya convocado, o se ausente definitivamente de la sesión, ésta será presidida por la Consejera o el Consejero Electoral que siga en la prelación establecida en el acuerdo de integración de la Comisión de que se trate.
 
+> <small>(ADICIONADO, G.O. 13 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 58 Bis.
+
+En el caso de que a las sesiones de la Comisión de Quejas a las que se haya convocado, no puedan asistir dos de las personas Consejeras Electorales integrantes, podrá convocarse a la persona Consejera Electoral que corresponda de la lista de suplencias que a continuación se indica, única y exclusivamente cuando se traten asuntos de extrema urgencia que requieran atención inmediata.
+
+Para efectos del párrafo anterior, la Secretaría Ejecutiva elaborará y controlará una lista, ordenada alfabéticamente, de personas Consejeras Electorales que podrán ser convocadas para suplir las ausencias mencionadas. Cuando el orden de la lista de suplencias se agote, se volverá a comenzar.
+
+La Secretaría Técnica de la Comisión de Quejas, solicitará a la Secretaría Ejecutiva, le indique cuál persona Consejera Electoral es la que sigue en la lista de suplencias, a efecto de convocarla en tiempo y forma.
+
+En caso de que la persona consejera que sigue en la lista no tenga posibilidades de fungir como integrante suplente, así lo indicará y se procederá a convocar a la que le sigue en la lista y su turno quedará subsistente para una subsecuente ocasión.
+
+La lista de suplencias a que alude el presente artículo se integrará de conformidad con las disposiciones contenidas en el artículo 78 del Código.
+
 > <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 59.
@@ -1264,11 +1290,13 @@ La Presidencia de la Comisión, cuando resulte procedente, incluirá el asunto s
 
 ### CAPÍTULO IV. Del Inicio y Desarrollo de las Sesiones
 
-> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 13 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 60.
 
-En el día y hora fijado para la sesión se reunirán de manera presencial, virtual o mixta, las personas integrantes de la Comisión; la Presidencia de la Comisión declarará el inicio de la sesión, previa verificación de asistencia y certificación del quórum por parte de la Secretaría Técnica.
+En el día y hora fijado para la sesión se reunirán de manera presencial, virtual o mixta, las personas integrantes de la Comisión; la Presidencia de la Comisión declarará el inicio de la sesión, previa verificación de la asistencia de dichas personas y certificación del quórum por parte de la Secretaría Técnica.
+
+En caso de que asistan a la sesión personas invitadas, la Secretaría Técnica dará cuenta de ello, incluyéndolas en una lista de asistencia anexa a la minuta correspondiente.
 
 ###### Artículo 61.
 
@@ -1320,19 +1348,23 @@ Los informes, dictámenes, programas de trabajo anuales, acuerdos o proyectos de
 
 ### CAPÍTULO V. De las Minutas de las Sesiones
 
-> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 13 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 67.
 
-De cada sesión de las Comisiones se elaborará una minuta que contendrá la fecha de la sesión, la modalidad en que se llevará a cabo, es decir, presencial, virtual o mixta y, en su caso, lugar o plataforma de celebración, hora de inicio y conclusión, la lista de asistencia, los puntos del orden del día, una síntesis de las intervenciones, la denominación e identificación de las determinaciones adoptadas y el sentido del voto de las personas integrantes de la Comisión.
+De cada sesión de las Comisiones se elaborará una minuta que contendrá la fecha de la sesión, la modalidad en que se llevó a cabo, es decir, presencial, virtual o mixta y, en su caso, lugar o plataforma de celebración, hora de inicio y conclusión, la lista de asistencia, incluidas las personas invitadas; los puntos del orden del día, una síntesis de las intervenciones, la denominación e identificación de las determinaciones adoptadas y el sentido del voto de las personas integrantes de la Comisión.
 
-> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 13 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 68.
 
-La Presidencia de la Comisión deberá incluir en el orden del día de la siguiente Sesión Ordinaria, un punto relativo a la aprobación de la minuta de la sesión anterior.
+La Presidencia de la Comisión deberá incluir en el orden del día de la siguiente Sesión Ordinaria, un punto relativo a la aprobación de las minutas de las sesiones anteriores, ya sean ordinarias, extraordinarias y/o urgentes.
 
-La minuta será firmada por las personas Consejeras Electorales que hayan asistido a la sesión que se hace referencia en la misma.
+La minuta será firmada sólo por las personas Consejeras Electorales que hayan asistido a la sesión a la que se hace referencia en dicha minuta.
+
+En caso de que alguna persona Consejera Electoral no haya asistido por cualquier causa a las sesiones de las que se hagan referencia en las minutas, podrá abstenerse de aprobarlas, por lo que se excusará en la intervención en el respectivo punto del orden del día.
+
+Si ocurriese que alguna persona Consejera Electoral hubiere asistido a las sesiones a las que hacen referencia las minutas, pero por cualquier causa no hubiere podido presentarse a la sesión en la que se aprueben, podrá firmarlas con posterioridad; o bien, si su ausencia es definitiva, se asentará esa razón en la minuta.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
@@ -1364,9 +1396,11 @@ Para el funcionamiento de las sesiones de las Comisiones Unidas se aplicarán la
 
 ### CAPÍTULO VII. De los Comités
 
+> <small>(REFORMADO, G.O. 13 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 73.
 
-Los Comités son los órganos especiales y técnicos creados por acuerdo del Consejo General. Los Comités se regirán por las disposiciones que para su funcionamiento emitan cada uno de ellos, de conformidad con lo establecido en el Código y por la normativa que rige al Instituto Electoral.
+Los Comités son los órganos especiales y técnicos creados por acuerdo del Consejo General. Los Comités se regirán por las disposiciones que, para su funcionamiento, determinen emitir cada uno de ellos, de conformidad con lo establecido en el Código y por la normativa que rige al Instituto Electoral.
 
 ## TRANSITORIOS
 
@@ -1443,3 +1477,19 @@ CUARTO. Remítase el presente Acuerdo a la Gaceta Oficial de la Ciudad de Méxic
 QUINTO. Publíquese el presente Acuerdo de manera inmediata a su aprobación en los estrados de oficinas centrales, en los estrados electrónicos y para mayor difusión, en los estrados de las oficinas de las treinta y tres Direcciones Distritales del Instituto Electoral.
 
 SEXTO. Publíquese el presente Acuerdo en la página de internet www.iecm.mx; realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejero General en el apartado de Transparencia de la citada página electrónica y difúndase la misma en las redes sociales en que este Instituto participa.
+
+G.O. 13 DE NOVIEMBRE DE 2023.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO IECM/ACU-CG-105/2023 QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueba el contenido de las reformas y adiciones al “Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral de la Ciudad de México” y al “Reglamento de Integración, Funcionamiento y Sesiones de los Consejos Distritales del Instituto Electoral de la Ciudad de México”, en términos de la parte considerativa del presente Acuerdo y de conformidad con el Anexo que lo acompaña, el cual forma parte integral del mismo.
+
+SEGUNDO. El presente Acuerdo entrará en Vigor al momento de su aprobación y su Anexo al día siguiente de su publicación en la Gaceta Oficial.
+
+TERCERO. Se instruye a la Secretaría Ejecutiva para que comunique, mediante circular, el contenido del presente Acuerdo a las Direcciones Ejecutivas, Unidades Técnicas, Contraloría Interna y Órganos Desconcentrados del Instituto Electoral, para su observancia y aplicación en el ámbito de su competencia.
+
+CUARTO. Publíquese el presente Acuerdo y su Anexo en los estrados de las oficinas centrales, en los estrados electrónicos y para mayor difusión, en los estrados de las oficinas de las treinta y tres Direcciones Distritales de este Instituto Electoral.
+
+QUINTO. Remítase el presente Acuerdo y su Anexo a la Gaceta Oficial de la Ciudad de México, para su publicación.
+
+SEXTO. Publíquese el presente Acuerdo y su Anexo en la página de internet www.iecm.mx; realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la citada página electrónica y difúndase la misma en las redes sociales en que este Instituto participa.
