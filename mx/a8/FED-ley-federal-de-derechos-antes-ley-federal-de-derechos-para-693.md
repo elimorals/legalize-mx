@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2023-05-03"
+last_updated: "2023-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE NOVIEMBRE DE 2023.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 27 DE DICIEMBRE DE 2022.
 
@@ -643,15 +643,13 @@ Los extranjeros a los que se les autorice la condición de estancia bajo los sup
 
 No se pagarán derechos por servicios migratorios por el cotejo de documentos para la realización de trámites migratorios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTICULO 18-A.
 
-Los ingresos que se obtengan por la recaudación del derecho establecido en la fracción I del artículo 8o. de la presente Ley, por lo que se refiere a los Visitantes sin permiso para realizar actividades remuneradas que ingresen al país con fines turísticos, se destinarán en un 20% al Instituto Nacional de Migración para mejorar los servicios que en materia migratoria proporciona, y el 80% restante se destinará, en los términos señalados en el párrafo siguiente, para la planeación, estudios, proyectos e inversión en infraestructura a cargo de la entidad paraestatal de la Administración Pública Federal cuyo objeto sea la administración, operación y prestación de servicios aeroportuarios, aeronáuticos, ferroviarios, turísticos, culturales, entre otros de diversa índole, así como para los programas que permitan la ejecución, operación, administración, contratación de bienes y servicios, adquisición de bienes, construcción, mantenimiento, modernización y aprovechamiento de los proyectos y de la infraestructura a cargo de dicha entidad.
+Los ingresos que se obtengan por la recaudación del derecho relativo al visitante sin permiso para realizar actividades remuneradas que ingresen al país con fines turísticos, a que se refiere el artículo 8o., fracción I, de esta Ley, se destinarán al fideicomiso público federal sin estructura que constituya la empresa de participación estatal mayoritaria, sectorizada a la Secretaría de la Defensa Nacional, denominada Tren Maya, S.A. de C.V., en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, para el pago de la operación, prestación de servicios, administración, explotación, construcción, planeación, adquisición, proyectos o programas, arrendamiento, obra complementaria, equipamiento, instalación, estudio, proyecto e inversión en infraestructura, entre otros, relacionados con el objeto social de la citada entidad paraestatal.
 
-> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
-
-La entidad paraestatal, a que se refiere el párrafo que antecede, aportará los recursos equivalentes al 80% de los ingresos que se obtengan por la recaudación del derecho referido, al fideicomiso público federal sin estructura que constituya dicha entidad, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -4141,6 +4139,8 @@ recintos fiscalizados, así como en los retornos
 
 respectivos $222.90 $223.00
 
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
 IV.- En el caso de operaciones de importación
 
 y exportación de mercancías exentas de los
@@ -4153,15 +4153,21 @@ importadas o exportadas definitivamente; de
 
 importaciones o exportaciones temporales para
 
-retornar en el mismo estado, así como en el de
+retornar en el mismo estado; de las operaciones
 
-las operaciones aduaneras que amparen
+aduaneras que amparen mercancías que de
 
-mercancías que de conformidad con las
+conformidad con las disposiciones aplicables no
 
-disposiciones aplicables no tengan valor en
+tengan valor en aduana, así como de importación
 
-aduana, por cada operación. $407.82 $408
+y exportación de mercancías en las que, de
+
+conformidad con los tratados internacionales, no
+
+deban aplicarse cargos o derechos sobre el valor
+
+que éstas tengan, por cada operación $407.82
 
 V.- En las operaciones de exportación $408.92 $409
 
@@ -5197,19 +5203,11 @@ Por la recepción y estudio de la solicitud, dictaminación y, en su caso, la ap
 
 #### SECCION SEXTA. Competencia Económica
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTICULO 77.
 
-Por la recepción, estudio y trámite de cada notificación de concentración a que se refiere la Ley Federal de Competencia Económica, cualquiera que sea la resolución que emita la Comisión Federal de Competencia Económica, se pagarán derechos conforme a la cuota de
-
-Cuota
-
-Sin ajuste Con ajuste
-
-$227,240.86 $227,241
+Por la recepción, estudio y trámite de cada notificación de concentración a que se refiere la Ley Federal de Competencia Económica, cualquiera que sea el acuerdo o resolución que emita la Comisión Federal de Competencia Económica que ponga fin al procedimiento, se pagarán derechos conforme a la cuota de $227,240.86
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -7233,19 +7231,9 @@ No se pagarán los derechos a que se refiere este artículo cuando los servicios
 
 #### SECCION SEPTIMA. Registro Público Marítimo Nacional y Servicios a la Marina Mercante
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
-
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
 ###### ARTICULO 162.
 
-Por la expedición de certificados de inscripción y no inscripción en el Registro Público Marítimo Nacional se pagará la cuota de
-
-Cuota
-
-Sin ajuste Con ajuste
-
-$640.22 $640
+(DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
 ###### ARTICULO 163.
 
@@ -7255,235 +7243,33 @@ $640.22 $640
 
 (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
 ###### ARTICULO 165.
 
-Por la solicitud, análisis y, en su caso, resolución de trámites a cargo de la Secretaría de Comunicaciones y Transportes en sus funciones de autoridad en materia de marina mercante, se pagarán derechos conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
-
-II.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-III.- Por la expedición de autorización para la permanencia de artefactos navales y permiso para servicio de dragado en zonas marinas mexicanas, por unidad de arqueo bruto o fracción de registro internacional:
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-a).- Hasta 500 unidades de arqueo
-
-bruto $12.6257
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-b).- De 500.01 hasta 1,000 unidades de arqueo
-
-bruto $10.4386
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-c).- De 1,000.01 hasta 5,000 unidades de arqueo
-
-bruto $8.6731
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-d).- De 5,000.01 hasta 15,000 unidades de arqueo
-
-bruto $6.5023
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-e).- De 15,000.01 en adelante $4.3311
-
-IV.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
-
-V.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-VI. Por la expedición del permiso de navegación para embarcaciones mercantes extranjeras de carga en general, o mixto incluyendo el de pasajeros, por unidad de arqueo bruto o fracción de registro internacional:
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-a).- Hasta 500 unidades de arqueo bruto $47.24 $47
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-b).- De 500.01 hasta 1,000 unidades de arqueo
-
-bruto $39.15 $39
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-c).- De 1,000.01 hasta 5,000 unidades de arqueo
-
-bruto $32.82 $33
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-d).- De 5,000.01 hasta 15,000 unidades de arqueo
-
-bruto $24.65 $25
-
-> <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
-
-e).- De 15,000.01 en adelante $16.39 $16
-
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-VII. Por la expedición del permiso especial para servicio de
-
-pasajeros a partir de 2 unidades de arqueo bruto, por unidad
-
-de arqueo bruto o fracción $11.13 $11
-
-VIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
-
-IX. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
-
-X.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
-
-XI. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
-
-XII.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
-
-XIII.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
+(DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
 ###### ARTICULO 165-A.
 
 (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
 ###### ARTICULO 166.
 
-No pagarán los derechos a que se refiere el artículo 165 de esta Ley, las embarcaciones o artefactos navales siguientes:
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-I.- Las dedicadas exclusivamente a fines humanitarios o científicos.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-II.- Las pertenecientes al Gobierno Federal, que estén dedicadas a servicios oficiales.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+(DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
 ###### ARTICULO 167.
 
-Por el estudio y trámite de la solicitud y, en su caso, expedición, prórroga, renovación, modificación, ampliación o cesión de concesiones, permisos o autorizaciones para el uso o aprovechamiento de obras marítimo portuarias; así como para la prestación de servicios portuarios en las vías generales de comunicación por agua, se pagará el derecho de solicitud correspondiente, conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- Concesión de bienes sujetos al régimen
-
-de dominio público de la Federación, destinados
-
-a la administración portuaria integral o a la
-
-construcción, operación y explotación de
-
-terminales marinas e instalaciones portuarias $78,629.47 $78,629
-
-II.- Permiso para la prestación de servicios
-
-portuarios o para la construcción y uso de
-
-embarcaderos, atracaderos, botaderos y
-
-demás similares en las vías generales de
-
-comunicación por agua $19,972.72 $19,973
-
-III.- Autorización para la construcción de
-
-obras marítimas y de dragado $62,651.27 $62,651
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+(DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
 ###### ARTICULO 168.
 
-No pagarán los derechos a que se refiere el artículo anterior:
-
-I.- Las Instituciones que se dediquen a la investigación oceanográfica.
-
-II.- Las escuelas de preparación y capacitación de personal técnico para la explotación del mar.
-
-III.- Los hospitales de beneficencia pública.
-
-IV.- Las instalaciones de señales marítimas y maniobras de rescate.
+(DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
 ###### ARTICULO 168-A.
 
 (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
 ###### ARTICULO 168-B.
 
-Por otorgar permisos, o la renovación de éstos, para la explotación de embarcaciones en servicio de navegación de cabotaje, se pagará anualmente el derecho de servicio de navegación de cabotaje, por cada embarcación conforme a las cuotas siguientes:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-I.- Cruceros turísticos:
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-a).- Embarcaciones de pasajeros, de hasta 499.99 unidades
-
-de arqueo bruto, equipadas para brindar servicios de
-
-pernocta, descanso y recreativos a bordo y en puerto $22,253.31 $22,253
-
-b).- Embarcaciones de 500 hasta 1,000
-
-unidades de arqueo bruto $46,529.62 $46,530
-
-c).- Embarcaciones de 1,000.01 hasta
-
-5,000.00 unidades de arqueo bruto $61,703.54 $61,704
-
-d).- Embarcaciones de más de 5,000.01
-
-unidades de arqueo bruto $71,818.71 $71,819
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-II.- Transporte de pasajeros en navegación de cabotaje:
-
-a).- Embarcaciones cuya capacidad sea
-
-hasta 3.5 unidades de arqueo bruto $988.97 $989
-
-b).- Embarcaciones mayores a 3.5 y menores
-
-de 500 unidades de arqueo bruto $1,977.95 $1,978
-
-c).- Embarcaciones de 500 o más unidades
-
-de arqueo bruto $3,955.89 $3,956
-
-III. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
-
-IV. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
+(DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
 ###### ARTICULO 168-C.
 
@@ -7541,113 +7327,17 @@ IV. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
 ###### ARTICULO 171.
 
-Por la expedición y en su caso reposición de los siguientes documentos, se pagará el derecho correspondiente, conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-II.- Títulos profesionales al Personal de la
-
-marina mercante nacional, tanto de cubierta
-
-como de máquinas $1,330.12 $1,330
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-III.- Certificados de competencia para mandar
-
-embarcaciones, tanto en el departamento de
-
-cubierta como en el de máquinas $886.55 $887
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-IV.- Certificados de competencia especial para
-
-mandar o laborar en buques especializados $1,773.77 $1,774
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-V.- Documento oficial para poder ejercer como tripulante en la categoría inmediata superior a bordo de las embarcaciones mercantes mexicanas:
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-a).- Personal subalterno, para ejercer un cargo
-
-que requiera certificado de competencia $886.55 $887
-
-b).- Personal titulado $1,330.12 $1,330
-
-VI.- Expedición de refrendos de títulos a
-
-oficialidad de la marina mercante $664.77 $665
-
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-VII.- Por la expedición de la autorización para
-
-prestar el servicio de pilotaje $996.81 $997
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+(DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
 ###### ARTICULO 171-A.
 
-Por la autorización para ejercer como Agente Naviero Consignatario de Buques, Agente Naviero General o Agente Naviero Protector, se pagará el derecho de agente naviero, conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-I.- Por la expedición de la autorización de Agente Naviero Consignatario de Buques en:
-
-a).- Navegación de Altura $11,806.75 $11,807
-
-b).- Navegación de Cabotaje $8,432.97 $8,433
-
-c).- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
-
-d).- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
-
-II.- Por la expedición de la autorización para
-
-actuar como Agente Naviero General o Agente
-
-Naviero Protector $24,009.33 $24,009
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+(DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
 ###### ARTICULO 171-B.
 
-Por la solicitud, análisis y, en su caso, la expedición de la autorización, certificado o su renovación, para ejercer como institución educativa particular o como instructor en instituciones educativas particulares, se pagarán derechos conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I. Para ejercer como institución educativa
-
-particular, o su renovación $14,706.05 $14,706
-
-II. Para ejercer como instructor en instituciones
-
-educativas particulares, o su renovación $1,469.38 $1,469
+(DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
 ###### ARTICULO 171-C.
 
@@ -9126,6 +8816,10 @@ XIV. Licencia para el ejercicio
 profesional de extranjeros al
 
 amparo de tratados internacionales $483.91 $484
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+Por el registro del título de técnico o profesional técnico expedido por instituciones del sistema educativo nacional que impartan educación del tipo medio superior, así como por la expedición de la cédula profesional respectiva, se pagará el 30% del monto señalado en las fracciones IV y IX del presente artículo.
 
 ###### ARTICULO 185-A.
 
@@ -10743,13 +10437,9 @@ V. De más de 200 hectáreas $13,229.45 $13,229
 
 Cuando la solicitud se refiera a terrenos incendiados que requieran de un dictamen especial, se pagará adicionalmente el 20% de las cuotas establecidas en las fracciones anteriores.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
-
 ###### ARTICULO 194-N.
 
-Por la recepción, evaluación y, en su caso, la autorización de plantación forestal comercial en terrenos preferentemente forestales, en superficies mayores a 800 hectáreas, se pagará la cuota de $9,351.85 $9,352
+(DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
@@ -14149,6 +13839,142 @@ El pago que deba realizarse a la autoridad competente por los servicios anterior
 
 29.- Por el análisis de la solicitud y, en su caso, expedición del permiso de vertimiento en las zonas marinas mexicanas, se pagará el derecho conforme a la cuota de $22,818.74 $22,819
 
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+###### ARTICULO 195-Z
+
+30. Por la expedición de certificados de inscripción y no inscripción en el Registro Público Marítimo Nacional se pagará la cuota de $669.03
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+###### ARTICULO 195-Z
+
+31. Por la solicitud, análisis y, en su caso, resolución de trámites a cargo de la Secretaría de Marina, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Por la expedición de autorización para la permanencia de artefactos navales y permiso para servicio de dragado en zonas marinas mexicanas, por unidad de arqueo bruto o fracción de registro internacional:
+
+a). Hasta 500 unidades de arqueo bruto $13.1939
+
+b). De 500.01 hasta 1,000 unidades de arqueo bruto $10.9083
+
+c). De 1,000.01 hasta 5,000 unidades de arqueo bruto $9.0634
+
+d). De 5,000.01 hasta 15,000 unidades de arqueo bruto $6.7949
+
+e). De 15,000.01 unidades de arqueo bruto en adelante $4.5260
+
+II. Por la expedición del permiso de navegación para embarcaciones mercantes extranjeras de carga en general, o mixto incluyendo el de pasajeras y pasajeros, por unidad de arqueo bruto o fracción de registro internacional:
+
+a). Hasta 500 unidades de arqueo bruto $49.37
+
+b). De 500.01 hasta 1,000 unidades de arqueo bruto $40.91
+
+c). De 1,000.01 hasta 5,000 unidades de arqueo bruto $34.30
+
+d). De 5,000.01 hasta 15,000 unidades de arqueo bruto $25.76
+
+e). De 15,000.01 unidades de arqueo bruto en adelante $17.13
+
+III. Por la expedición del permiso especial para servicio de pasajeras y pasajeros a partir de 2 unidades de arqueo bruto, por unidad de arqueo bruto o fracción $11.63
+
+No pagarán los derechos a que se refiere este artículo, las embarcaciones o artefactos navales siguientes:
+
+I. Las dedicadas exclusivamente a fines humanitarios o científicos.
+
+II. Las pertenecientes al Gobierno Federal, que estén dedicadas a servicios oficiales.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+###### ARTICULO 195-Z
+
+32. Por el estudio y trámite de la solicitud y, en su caso, expedición, prórroga, renovación, modificación, ampliación o cesión de concesiones, permisos o autorizaciones para el uso o aprovechamiento de obras marítimo portuarias, así como para la prestación de servicios portuarios en las vías generales de comunicación por agua, se pagará el derecho de solicitud correspondiente, conforme a las siguientes cuotas:
+
+I. Concesión de bienes sujetos al régimen de dominio público de la Federación destinados a la administración portuaria integral o a la construcción, operación y explotación de terminales, marinas e instalaciones portuarias $82,167.80
+
+II. Permiso para la prestación de servicios portuarios o para la construcción y uso de embarcaderos, atracaderos, botaderos y demás similares en las vías generales de comunicación por agua $20,871.49
+
+III. Autorización para la construcción de obras marítimas y de dragado $65,470.58
+
+No pagarán los derechos a que se refiere este artículo:
+
+I. Las Instituciones que se dediquen a la investigación oceanográfica.
+
+II. Las escuelas de preparación y capacitación de personal técnico para la explotación del mar.
+
+III. Los hospitales de beneficencia pública.
+
+IV. Las instalaciones de señales marítimas y maniobras de rescate.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+###### ARTICULO 195-Z
+
+33. Por otorgar permisos para la explotación de embarcaciones en servicio de navegación de cabotaje, o su renovación, se pagará anualmente el derecho correspondiente por cada embarcación, conforme a las cuotas siguientes:
+
+I. Cruceros turísticos:
+
+a). Embarcaciones de pasajeras y pasajeros, de hasta 499.99 unidades de arqueo bruto, equipadas para brindar servicios de pernocta, descanso y recreativos a bordo y en puerto $23,254.71
+
+b). Embarcaciones de 500 hasta 1,000 unidades de arqueo bruto $48,623.45
+
+c). Embarcaciones de 1,000.01 hasta 5,000.00 unidades de arqueo bruto $64,480.20
+
+d). Embarcaciones de más de 5,000.01 unidades de arqueo bruto $75,050.55
+
+II. Transporte de pasajeras y pasajeros en navegación de cabotaje:
+
+a). Embarcaciones cuya capacidad sea hasta 3.5 unidades de arqueo bruto $1,033.47
+
+b). Embarcaciones mayores a 3.5 y menores de 500 unidades de arqueo bruto $2,066.96
+
+c). Embarcaciones de 500 o más unidades de arqueo bruto $4,133.91
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+###### ARTICULO 195-Z
+
+34. Por el estudio de la solicitud y, en su caso, la expedición o reposición de los siguientes documentos, se pagará el derecho correspondiente, conforme a las siguientes cuotas:
+
+I. Títulos profesionales al personal de la marina mercante nacional, tanto de cubierta como de máquinas $1,389.98
+
+II. Certificados de competencia para mandar embarcaciones, tanto en el departamento de cubierta como en el de máquinas $926.44
+
+III. Certificados de competencia especial para mandar o laborar en buques especializados $1,853.59
+
+IV. Documento oficial para poder ejercer como tripulante en la categoría inmediata superior a bordo de las embarcaciones mercantes mexicanas:
+
+a). Personal subalterno, para ejercer un cargo que requiera certificado de competencia $926.44
+
+b). Personal titulado $1,389.98
+
+V. Expedición de refrendos de títulos a oficialidad de la marina mercante $694.68
+
+VI. Por la expedición de la autorización para prestar el servicio de pilotaje $1,041.67
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+###### ARTICULO 195-Z
+
+35. Por la autorización para ejercer como Agente Naviero Consignatario de Buques, Agente Naviero General o Agente Naviero Protector, se pagará el derecho de agente naviero, conforme a las siguientes cuotas:
+
+I. Por la expedición de la autorización de Agente Naviero Consignatario de Buques en:
+
+a). Navegación de Altura $12,338.05
+
+b). Navegación de Cabotaje $8,812.45
+
+II. Por la expedición de la autorización para actuar como Agente Naviero General o Agente Naviero Protector $25,089.75
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+###### ARTICULO 195-Z
+
+36. Por la solicitud, análisis y, en su caso, la expedición de la autorización, certificado o su renovación, para ejercer como institución educativa particular o como instructor o instructora en instituciones educativas particulares, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Para ejercer como institución educativa particular, o su renovación $15,367.82
+
+II. Para ejercer como instructor o instructora en instituciones educativas particulares, o su renovación $1,535.50
+
 ## TITULO II. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE ENERO DE 2002)</small>
@@ -14941,29 +14767,43 @@ Al monto total del derecho que resulte por el ejercicio de que se trate en los t
 
 ### CAPITULO VII. Aeropuertos
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTICULO 219.
 
-Aeropuertos y Servicios Auxiliares está obligado al pago de derechos por el uso, goce o explotación de los aeropuertos federales.
+Las personas titulares de asignaciones y concesiones a que se refiere la Ley de Aeropuertos, así como los organismos descentralizados, que lleven a cabo la administración, operación, conservación, explotación y, en su caso, construcción de aeropuertos federales, están obligados al pago de derechos por el uso, goce o explotación de los aeropuertos federales.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTICULO 220.
 
-Aeropuertos y Servicios Auxiliares determinará el derecho, por cada ejercicio fiscal, aplicando la tasa del 5% a la suma de los ingresos brutos por servicios aeroportuarios, complementarios y comerciales, señalados en la Ley de Aeropuertos y su Reglamento, conforme a sus estados financieros dictaminados.
-
-Tratándose de servicios complementarios, por lo que se refiere al suministro de combustible, la base para el cálculo del derecho será el ingreso bruto obtenido por el servicio de abastecimiento y/o succión de combustible.
+Las personas titulares de asignaciones a que se refiere la Ley de Aeropuertos y los organismos descentralizados, a que se refiere este capítulo, determinarán el derecho, por cada ejercicio fiscal, aplicando la tasa del 5% a la suma de los ingresos brutos por servicios aeroportuarios, complementarios y comerciales, señalados en la Ley de Aeropuertos y su Reglamento, conforme a sus estados financieros dictaminados.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
+Tratándose de servicios complementarios, por lo que se refiere al suministro de combustible, la base para el cálculo del derecho será el ingreso bruto obtenido por el servicio de abastecimiento y/o succión de combustible.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+###### ARTICULO 220-A.
+
+Las personas titulares de concesiones a que se refiere la Ley de Aeropuertos, determinarán el derecho, por cada ejercicio fiscal, aplicando la tasa del 9% a la suma de los ingresos brutos por servicios aeroportuarios, complementarios y comerciales, señalados en la Ley de Aeropuertos y su Reglamento, conforme a sus estados financieros dictaminados.
+
+Los ingresos que se obtengan por la recaudación de este derecho se concentrarán en la Tesorería de la Federación y se destinarán a las secretarías de la Defensa Nacional y de Marina para el fortalecimiento del sistema aeroportuario bajo su coordinación, a través de los fideicomisos públicos federales sin estructura que se constituyan para tal fin, en términos de la Ley de Presupuesto y Responsabilidad Hacendaria y su Reglamento. Dichas secretarías fungirán como unidades responsables, respectivamente, de los fideicomisos a que se refiere el presente párrafo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTICULO 221.
 
-Aeropuertos y Servicios Auxiliares efectuará pagos provisionales bimestrales a más tardar los días 17 de los meses de marzo, mayo, julio, septiembre y noviembre del mismo ejercicio fiscal y enero del siguiente, mediante declaración que presentará en las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público. El pago provisional por el derecho de uso, goce o explotación de los aeropuertos federales se calculará considerando los ingresos brutos obtenidos durante el bimestre inmediato anterior, por los conceptos señalados en el artículo anterior.
+Los sujetos a que se refiere el artículo 219 de esta Ley, efectuarán pagos provisionales bimestrales a más tardar los días 17 de los meses de marzo, mayo, julio, septiembre y noviembre del mismo ejercicio fiscal y enero del siguiente mediante declaración que presentarán en las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público. El pago provisional por el derecho de uso, goce o explotación de los aeropuertos federales se calculará considerando los ingresos brutos obtenidos durante el bimestre inmediato anterior, por los conceptos señalados en los artículos 220 y 220-A de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 El derecho del ejercicio, deducidos los pagos provisionales bimestrales, se pagará mediante declaración que se presentará ante las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público, dentro de los tres meses siguientes al cierre del ejercicio fiscal.
 
-Cuando resulte saldo a favor para Aeropuertos y Servicios Auxiliares, dicho saldo podrá acreditarlo contra los pagos provisionales del derecho que resulte a su cargo, por los ejercicios subsecuentes al que se declara, hasta agotarse.
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+Cuando resulte saldo a favor para los sujetos a que se refiere el primer párrafo de este artículo podrán acreditarlo contra los pagos provisionales del derecho que resulte a su cargo, por los ejercicios subsecuentes al que se declara, hasta agotarse.
 
 ###### ARTICULO 221-A.
 
@@ -15083,7 +14923,9 @@ El contribuyente podrá optar por adicionar a la cuota prevista en el artículo 
 
 Como facilidad administrativa, la Secretaría de Hacienda y Crédito Público, publicará en el Diario Oficial de la Federación, a más tardar el último día del segundo mes del ejercicio fiscal que corresponda, las cuotas aplicables al trasvase durante dicho ejercicio.
 
-Para los efectos de este artículo se considerará trasvase, el uso, explotación o aprovechamiento de aguas nacionales trasladadas de una cuenca a una distinta con la que no haya conexión natural, que realiza el Estado, así como los asignatarios y concesionarios, mediante obras de infraestructura hidráulica, para concesionarlas, asignarlas, usarlas, aprovecharlas y explotarlas en un lugar distinto a la cuenca de extracción, y que para los fines de la presente Ley pueden ser:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+Para los efectos de este artículo se considerará trasvase, el uso, explotación o aprovechamiento de aguas nacionales conducidas de una cuenca hidrológica a otra mediante obras de infraestructura hidráulica, que para los fines de la presente Ley pueden ser:
 
 a). Directo: El que realizan los asignatarios y concesionarios con autorización de la Comisión Nacional del Agua.
 
@@ -16123,13 +15965,17 @@ Las personas físicas y las morales que usen o aprovechen el espacio aéreo y, e
 
 Este derecho se pagará anualmente dentro de los meses de enero a marzo del año de que se trate.
 
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+En el caso de autorizaciones para uso temporal de bandas de frecuencias del espectro radioeléctrico a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión, el pago de los derechos deberá efectuarse dentro de los tres meses siguientes al otorgamiento de la autorización correspondiente.
+
 No pagarán el derecho que se establece en este Capítulo las empresas de radio y televisión que estén obligadas a retener el impuesto por servicios expresamente declarados de interés público por Ley, en los que intervengan empresas concesionarias de bienes del dominio directo de la nación.
 
 Aquellos concesionarios o permisionarios u otros usuarios de servicios de telecomunicaciones, que hayan contratado la operación de frecuencias o bandas de frecuencias con concesionarios que hayan obtenido frecuencias o bandas de frecuencias mediante licitación pública y que estén autorizados para la prestación del servicio de provisión de capacidad para el establecimiento de enlaces microondas de punto a punto, punto a multipunto o para la prestación del servicio de acceso inalámbrico, fijo o móvil, así como para la prestación del servicio de televisión o radio restringido u otros servicios, estarán exentos del pago de la cuota de derechos correspondiente a las frecuencias contratadas.
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-Las instituciones de asistencia médica o de beneficencia o de prevención y atención de accidentes y desastres, no contribuyentes del impuesto sobre la renta y los usuarios de las frecuencias que se autoricen durante las visitas al país de jefes de estado y misiones diplomáticas extranjeras, cuyas autorizaciones sean gestionadas por conducto de las embajadas en el país o por la Secretaría de Relaciones Exteriores, siempre que acrediten dichas circunstancias, estarán exentas del pago del derecho por el uso del espectro radioeléctrico previsto en esta sección. Asimismo, quedan exentas del pago de derechos previsto en esta sección, las bandas de uso oficial otorgadas a las Entidades Federativas y Municipios, dedicadas a actividades de prevención y atención de accidentes, desastres, seguridad pública, seguridad nacional, salud, seguridad social, protección del ambiente y educación.
+Las instituciones de asistencia médica o de beneficencia o de prevención y atención de accidentes y desastres no contribuyentes del impuesto sobre la renta y las personas usuarias de las frecuencias que se autoricen durante las visitas al país de jefes de estado y misiones diplomáticas extranjeras, cuyas autorizaciones sean gestionadas por conducto de las embajadas en el país o por la Secretaría de Relaciones Exteriores, siempre que acrediten dichas circunstancias, estarán exentas del pago del derecho por el uso del espectro radioeléctrico previsto en este capítulo. Asimismo, quedan exentas del pago de derechos previsto en este capítulo, las concesiones de uso público otorgadas a las Entidades Federativas y Municipios, dedicadas a actividades de prevención y atención de accidentes, desastres, seguridad pública, seguridad nacional, salud, seguridad social, protección del ambiente y educación.
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -17855,51 +17701,51 @@ Para los efectos del artículo 2o. de la Ley de Coordinación Fiscal, no se incl
 
 Están obligados a pagar el derecho por uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, las personas físicas o morales que descarguen en forma permanente, intermitente o fortuita aguas residuales en ríos, cuencas, cauces, vasos, aguas marinas y demás depósitos o corrientes de agua, así como los que descarguen aguas residuales en los suelos o las infiltren en terrenos que sean bienes nacionales o que puedan contaminar el subsuelo o los acuíferos, en términos de lo dispuesto en esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-El pago del derecho a que se refiere este artículo no exime a los responsables de las descargas de aguas residuales de cumplir con los límites máximos permisibles establecidos en las Normas Oficiales Mexicanas y con las condiciones particulares de sus descargas, de conformidad con la Ley de Aguas Nacionales.
+El pago del derecho a que se refiere este artículo no exime a los responsables de las descargas de aguas residuales de cumplir con los límites permisibles establecidos en las Normas Oficiales Mexicanas y con las condiciones particulares de sus descargas, de conformidad con la Ley de Aguas Nacionales.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTICULO 277.
 
-Para los efectos del presente Capítulo se consideran:
+Para los efectos del presente capítulo se consideran las definiciones contenidas en la Ley de Aguas Nacionales, su Reglamento o la Norma Oficial Mexicana aplicable a los límites permisibles de contaminantes en las descargas de aguas residuales en cuerpos receptores propiedad de la Nación.
 
-I. Acuífero: Cualquier formación geológica o conjunto de formaciones geológicas hidráulicamente conectados entre si, por las que circulan o se almacenan aguas del subsuelo que puedan ser extraídas para su explotación, uso o aprovechamiento y cuyos límites laterales y verticales se definen convencionalmente para fines de evaluación, manejo y administración de las aguas nacionales del subsuelo.
+I. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
-II. Aguas residuales: Las aguas de composición variada provenientes de las descargas municipales y no municipales, tales como las industriales, comerciales, de servicios, agrícolas, pecuarias, domésticas, incluyendo fraccionamientos y, en general, de cualquier otro uso, así como la mezcla de ellas. Cuando el contribuyente no separe en la descarga de agua residual el agua que no tiene este carácter, toda la descarga se considerará de agua residual para los efectos de esta Ley.
+II. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
-III. Aguas Costeras: Las aguas de los mares territoriales en la extensión y términos que fija el derecho internacional; así como las aguas marinas interiores, las lagunas y esteros que se comuniquen permanente o intermitentemente con el mar.
+III. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
-IV. Carga de Contaminante: La cantidad de un contaminante expresada en unidades de masa sobre unidad de tiempo, aportada en una descarga de aguas residuales.
+IV. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
-V. Cuerpo Receptor: Las corrientes, depósitos naturales de agua, ríos, aguas costeras, suelo, estuarios, humedales naturales, embalses, cauces o bienes nacionales donde se descargan aguas residuales, así como los terrenos en donde se infiltran o inyectan dichas aguas, cuando puedan contaminar el suelo, subsuelo o los acuíferos.
+V. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
-VI. Demanda Química de Oxígeno: La medida del oxígeno consumido por la oxidación de la materia orgánica e inorgánica en una prueba específica.
+VI. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
-VII. Descarga: La acción de verter, infiltrar, depositar o inyectar aguas residuales a un cuerpo receptor en forma continua, intermitente o fortuita.
+VII. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
-VIII. Embalse Artificial: El vaso de formación artificial que se origina por la construcción de un bordo o cortina y que es alimentado por uno o varios ríos o agua subterránea o pluvial.
+VIII. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
-IX. Embalse Natural: El vaso de formación natural que es alimentado por uno o varios ríos o agua subterránea o pluvial.
+IX. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
-X. Estuario: El tramo del curso de agua, bajo la influencia de las mareas, que se extiende desde la línea de costa hasta el punto donde la concentración de cloruros en el agua es de 250 miligramos por litro.
+X. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
-XI. Humedales Naturales: Las zonas de transición entre los sistemas acuáticos y terrestres que constituyen áreas de inundación temporal o permanente, sujetas o no a la influencia de mareas, como pantanos, ciénegas y marismas, cuyos límites los constituyen el tipo de vegetación hidrófila de presencia permanente o estacional; las áreas donde el suelo es predominantemente hídrico, y las áreas lacustres o de suelos permanentemente húmedos, originados por la descarga natural de acuíferos.
+XI. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
-XII. Límite Máximo Permisible: El valor o rango asignado a un parámetro, el cual no debe ser excedido en la descarga de aguas residuales.
+XII. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
-XIII. Población: El número de habitantes indicado en el Censo General de Población y Vivienda más reciente.
+XIII. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
-XIV. Río: La corriente de agua natural, perenne o intermitente, que desemboca a otras corrientes o a un embalse natural o artificial, o al mar.
+XIV. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
-XV. Sólidos Suspendidos Totales: La concentración de partículas que son retenidas en un medio filtrante de microfibra de vidrio, con un diámetro de poro de 1.5 micrómetros o su equivalente.
+XV. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
-XVI. Suelo: El material no consolidado compuesto por partículas inorgánicas, materia orgánica, agua, aire y organismos, que comprende desde la capa superior terrestre hasta diferentes niveles de profundidad.
+XVI. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
-XVII. Uso Consuntivo: El volumen de agua de una calidad determinada que se consume al llevar a cabo una actividad específica, el cual se determina como la diferencia del volumen de una calidad determinada que se extrae, menos el volumen de una calidad también determinada que se descarga, y que se señalan en el título respectivo.
+XVII. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
-XVIII. Uso Doméstico: La aplicación de agua nacional para el uso particular de las personas y del hogar, riego de sus jardines y de árboles de ornato, incluyendo el abrevadero de animales domésticos que no constituya una actividad lucrativa, cuyo servicio se preste en términos del inciso a), de la fracción III, del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+XVIII. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2023)
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -17908,6 +17754,10 @@ XVIII. Uso Doméstico: La aplicación de agua nacional para el uso particular de
 El derecho a que se refiere este capítulo se calculará conforme al volumen descargado durante el trimestre; los contribuyentes efectuarán la lectura del aparato de medición durante el último día hábil del trimestre de que se trate y de la lectura realizada se disminuirá la lectura efectuada el último día del trimestre anterior, sobre el volumen resultante se aplicará la cuota que corresponda, de conformidad con lo señalado en el artículo 277-B.
 
 Los contribuyentes deberán contar en cada una de las descargas de aguas residuales con aparatos de medición volumétricos que instale la Comisión Nacional del Agua; para tales efectos, deberán permitir el acceso y brindar las facilidades y apoyos necesarios al personal de dicha Comisión para que los instalen, los verifiquen y realicen la toma de las lecturas correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+Cuando la persona contribuyente no separe en la descarga de agua residual el agua que no tiene este carácter, toda la descarga se considerará de agua residual para los efectos de esta Ley.
 
 Sin perjuicio de la consulta directa de los medidores instalados por la Comisión Nacional del Agua, los contribuyentes podrán consultar vía Internet, en el transcurso del trimestre que corresponda, el estado que guardan sus volúmenes descargados, de conformidad con el procedimiento que al efecto señale el Servicio de Administración Tributaria mediante reglas de carácter general.
 
@@ -17953,7 +17803,13 @@ El monto del derecho a pagar será enterado por el contribuyente en los término
 
 Los contribuyentes a que se refieren las fracciones I y III del artículo 277-B de esta Ley, podrán acreditar contra el derecho del trimestre a su cargo la cantidad que resulte de aplicar el siguiente procedimiento:
 
-I. Se deberán obtener las concentraciones de contaminantes de la descarga del contribuyente de sólidos suspendidos totales y demanda química de oxígeno, expresadas en miligramos por litro, mediante el muestreo y análisis a que se refiere el artículo 278-B de esta Ley.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+I. Se deberán obtener las concentraciones de contaminantes de la descarga de sólidos suspendidos totales, demanda química de oxígeno y carbono orgánico total, expresadas en miligramos por litro, mediante el muestreo y análisis a que se refiere el artículo 278-B de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+Si los cloruros son mayores o iguales a 1,000 miligramos por litro, se obtendrán las concentraciones de carbono orgánico total, en lugar de la demanda química de oxígeno.
 
 II. A la concentración del contaminante, característica correspondiente a la actividad que generó la descarga del contribuyente prevista en la tabla siguiente, se le disminuirá la concentración del contaminante obtenida del análisis a que se refiere la fracción anterior.
 
@@ -18187,11 +18043,13 @@ Los reportes que presente el responsable de la descarga estarán basados en dete
 
 III. En el Procedimiento del Muestreo de las Descargas, se entenderá por:
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-a).- Muestra Compuesta: La que resulta de mezclar el número de muestras simples, según lo indicado en la tabla de frecuencia de muestreo. Para conformar la muestra compuesta, el volumen de cada una de las muestras simples deberá ser proporcional al caudal de la descarga en el momento de su toma.
+a).- Muestra Compuesta: La que resulta de mezclar el número de muestras simples, según lo indicado en la tabla de número e intervalo de muestras simples. Para conformar la muestra compuesta, el volumen de cada una de las muestras simples deberá ser proporcional al caudal de la descarga en el momento de su colecta.
 
-Tabla A.- Frecuencia de Muestreo
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+Tabla A.- Número e intervalo de muestras simples
 
 Horas por día que opera Número de muestras Intervalo entre toma de
 
@@ -18211,9 +18069,9 @@ Mayor que 12 y hasta 18 6 2 3
 
 Mayor que 18 y hasta 24 6 3 4
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-b).- Muestra Simple: La que se tome en el punto de descarga, de manera continua, en día normal de operación durante el tiempo necesario para completar, cuando menos, un volumen suficiente para que se lleven a cabo los análisis necesarios para conocer su composición, aforando el caudal descargado en el sitio y en el momento del muestreo.
+b).- Muestra Simple: La que se colecta por el signatario autorizado en el punto señalado en el permiso de descarga, de manera continua, en día normal de operación, que refleje cuantitativa y cualitativamente el o los procesos más representativos de las actividades que generan la descarga, durante el tiempo necesario para completar, cuando menos, un volumen suficiente para que se lleven a cabo los análisis necesarios para conocer su composición, aforando el caudal descargado en el sitio y en el momento del muestreo.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -18225,53 +18083,65 @@ VMSi = volumen de cada una de las muestras simples "i", litros.
 
 VMC = volumen de cada muestra compuesta necesario para realizar la totalidad de los análisis de laboratorio requeridos, litros.
 
-Qi = caudal medido en la descarga en el momento de tomar la muestra simple, litros por segundo.
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-Qt = ?Qi hasta Qn, litros por segundo.
+Qi = caudal medido en la descarga en el momento de colectar la muestra simple, en litros por segundo.
+
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+Qt = ?Qi hasta Qn, en litros por segundo.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 c).- Parámetro: Variable que se utiliza como referencia para determinar la calidad física, química y biológica del agua.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-d). Promedio Diario: El valor que resulta del análisis de una muestra compuesta.
+d). Promedio Diario (PD): El valor que resulta del análisis de una muestra compuesta o el resultado del promedio ponderado en función del caudal o de la media geométrica o del promedio aritmético, según corresponda al parámetro.
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-e). Promedio Mensual: El valor que resulta de calcular el promedio ponderado en función del caudal, de los valores que resulten del análisis de al menos dos muestras compuestas promedio diario.
+e). Promedio Mensual (PM): El valor que resulta de calcular el promedio ponderado en función del caudal, de los valores que resulten del análisis de al menos dos muestras compuestas (Promedio Diario) colectadas en un mismo mes. Los caudales que se deben considerar para el citado promedio ponderado serán el resultado del promedio aritmético de los caudales de las muestras simples que conforman cada una de las muestras compuestas.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 IV.- El muestreo, análisis y reporte de la calidad de las descargas, se efectuará como a continuación se indica:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-A).- Método de Muestreo: El método que se deberá llevar a cabo al efectuar la toma de muestras, así como los términos y forma de hacerlas, son los indicados en la Norma Mexicana NMX-AA-003-1980 Aguas Residuales-Muestreo, publicada en el Diario Oficial de la Federación el 25 de Marzo de 1980.
+a). Método de Muestreo: El método que se deberá llevar a cabo al efectuar la colecta de muestras, así como los términos y forma de hacerlas, son los indicados en la Norma Mexicana NMX-AA-003-1980 Aguas Residuales-Muestreo.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-B).- Frecuencias del Muestreo y Análisis, y del Reporte de Datos: La frecuencia de muestreo y análisis y de reporte será de acuerdo al tamaño de población en el caso de efluentes municipales, y en el caso de descargas no municipales, de acuerdo a la carga de contaminantes, según se indica en las tablas de efluentes municipales y de efluentes no municipales, respectivamente.
+b). Frecuencia de informe de resultados de muestreo y análisis: La frecuencia de muestreo y análisis corresponderá al tamaño de población en el caso de descargas municipales, y en el caso de descargas no municipales, a la carga de contaminantes, según se indica en las tablas de descargas municipales y no municipales, respectivamente.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-Tabla B. Efluentes Municipales
+Se entiende por carga de contaminante la cantidad de éste expresada en unidades de masa sobre unidad de tiempo, aportada en una descarga de aguas residuales.
 
-(VÉASE ARCHIVO ANEXO)
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-Tabla C. Efluentes no Municipales
+Tabla B. Descargas Municipales
 
 (VÉASE ARCHIVO ANEXO)
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-Los parámetros a ser considerados en el muestreo y análisis, así como en el reporte de datos son los que se indican en el presente Capítulo.
+Tabla C. Descargas no Municipales
 
-C).- Cálculo de los Valores: En el muestreo y análisis y reporte de datos del parámetro o parámetros requeridos, se debe considerar el valor del promedio mensual de acuerdo a la definición dada en este procedimiento, y debe considerar días hábiles de actividad o producción normal.
+(VÉASE ARCHIVO ANEXO)
 
-El muestreo y análisis del parámetro o parámetros requeridos en la frecuencia indicada en las tablas de efluentes municipales y de efluentes no municipales, debe considerar:
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+Los parámetros a ser considerados en el muestreo y análisis, así como en el informe de resultados son los que se indican en el presente capítulo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+c). Cálculo de los Valores: En el informe de resultados de muestreo y análisis del parámetro o parámetros requeridos, se debe considerar el valor del promedio mensual de acuerdo con la definición dada en este procedimiento, así como los días hábiles de actividad o producción normal.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+El muestreo y análisis del parámetro o parámetros requeridos en la frecuencia indicada en las tablas de descargas municipales y de descargas no municipales, debe considerar:
 
 1.- Para la frecuencia mensual, el promedio mensual del parámetro o parámetros en el mes.
 
@@ -18285,27 +18155,25 @@ El reporte de los resultados del muestreo y análisis del parámetro o parámetr
 
 El reporte del trimestre, para la frecuencia mensual de muestreo y análisis, será el promedio aritmético de los valores que resulten del análisis de cada mes.
 
-> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 El cumplimiento de lo anterior, es sin menoscabo de la observancia a las disposiciones legales y normativas aplicables en materia de descargas de aguas residuales a cuerpos de aguas nacionales y bienes públicos inherentes.
 
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-D) Método de Prueba: Para la toma de muestras y la determinación de los valores y concentraciones de los parámetros establecidos en este procedimiento, se deberá aplicar el método de prueba indicado en esta fracción y en las normas oficiales mexicanas y normas mexicanas, correspondientes.
+d). Método de Prueba: Para la colecta de muestras y la determinación de los valores y concentraciones de los parámetros establecidos en este procedimiento, se deberá aplicar el método de prueba indicado en esta fracción y en las Normas Oficiales Mexicanas, normas mexicanas y estándares correspondientes.
 
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-V. Para cada descarga el contribuyente determinará, conforme al promedio de las muestras tomadas, la concentración promedio de contaminantes en miligramos por litro, conforme al procedimiento de muestreo de descargas establecido en este artículo.
+V. Para cada descarga el contribuyente determinará, conforme al promedio de las muestras colectadas, la concentración promedio de contaminantes en miligramos por litro, conforme al procedimiento de muestreo de descargas establecido en este artículo.
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-VI. En caso de que el agua de abastecimiento registre alguna concentración promedio mensual, se podrá restar de la concentración de la descarga, siempre y cuando lo acredite ante la Comisión Nacional del Agua, a través de un análisis de calidad del agua efectuado por un laboratorio acreditado ante la entidad autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua.
+VI. En caso de que el agua clara o de primer uso de abastecimiento registre concentración de algún contaminante en Promedio Mensual, se podrá restar de la concentración de la descarga, a excepción de los parámetros: temperatura, pH, toxicidad aguda, color verdadero, escherichia coli, enterococos fecales y huevos de helmintos, siempre y cuando lo acredite ante la Comisión Nacional del Agua, a través de un análisis de calidad del agua efectuado por un laboratorio acreditado ante la entidad autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria, a través de al menos dos análisis Promedio Diario de calidad del agua efectuados, realizados en términos de lo dispuesto en este artículo.
 
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-El informe referido en el párrafo anterior podrá ser presentado dentro del primer trimestre del ejercicio de que se trate y será válido durante dicho ejercicio. En caso de ser solicitado con posterioridad al plazo antes señalado el informe será válido a partir del momento en que se presente.
+Los informes de resultados de muestreo y análisis de agua de abastecimiento referidos en el párrafo anterior realizados en un mismo mes serán válidos para los informes de resultados de muestreo y análisis de aguas residuales realizados en el trimestre al que corresponda el citado mes.
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -18313,13 +18181,19 @@ La Comisión Nacional del Agua estará facultada para revisar la veracidad de lo
 
 VII. (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-VIII. Los laboratorios acreditados ante la entidad autorizada por la Secretaría de Economía y aprobados por la Comisión Nacional del Agua, deberán de informar trimestralmente a dicha Comisión de los resultados de los análisis efectuados en ese periodo a los contribuyentes a que se refiere el presente Capítulo.
+VIII. Los laboratorios acreditados ante la entidad autorizada por la Secretaría de Economía y aprobados por la Comisión Nacional del Agua, deberán informar trimestralmente a dicha Comisión de los resultados de los análisis efectuados en ese periodo a los contribuyentes a que se refiere el presente capítulo, de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 En caso de que la Comisión Nacional del Agua determine que los laboratorios no cumplieron con las obligaciones establecidas en este artículo notificará el incumplimiento al laboratorio y lo apercibirá de que en caso de reincidencia quedará sin efectos la aprobación que le otorgó, de conformidad con lo dispuesto en la Ley Federal de Procedimiento Administrativo.
 
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
 Los laboratorios a que se refiere este artículo serán responsables de la veracidad y exactitud de los datos e información suministrados en los reportes a que se refiere este artículo y responderán solidariamente del pago del derecho a que se refiere este Capítulo y del derecho por uso, explotación o aprovechamiento de aguas nacionales a cargo de los contribuyentes respecto de los cuales se haya indebidamente aplicado el acreditamiento, exención o descuento con motivo del reporte emitido por el laboratorio.
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 Para determinar la responsabilidad solidaria a los laboratorios a que se refiere este artículo, la autoridad fiscal llevará a cabo el procedimiento a que se refiere el artículo 42, fracción II, del Código Fiscal de la Federación.
 
@@ -18337,9 +18211,9 @@ Los contribuyentes del derecho por el uso o aprovechamiento de bienes del domini
 
 (VÉASE ARCHIVO ANEXO)
 
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-El programa de acciones referido en el párrafo anterior, tendrá como fin mejorar la calidad de las aguas residuales, ya sea mediante cambios en los procesos productivos o para el control o tratamiento de las descargas, a fin de no rebasar los límites máximos permisibles establecidos en esta Ley, y mantener o mejorar la calidad de sus descargas de aguas residuales.
+El programa de acciones referido en el párrafo anterior, tendrá como fin mejorar la calidad de las aguas residuales, ya sea mediante cambios en los procesos productivos o para el control o tratamiento de las descargas, a fin de no rebasar los límites permisibles establecidos en esta Ley, y mantener o mejorar la calidad de sus descargas de aguas residuales.
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -18389,9 +18263,9 @@ El monto a acreditar deberá asentarse en la declaración trimestral definitiva,
 
 No estarán obligados al pago del derecho federal a que se refiere el presente Capítulo:
 
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-I.- Los contribuyentes cuya descarga de aguas residuales del trimestre no rebase los límites máximos permisibles establecidos en las siguientes tablas o, en su caso, en las condiciones particulares de descarga que la Comisión Nacional del Agua emita conforme a la declaratoria de clasificación del cuerpo de las aguas nacionales que corresponda, publicada en el Diario Oficial de la Federación a que se refiere el artículo 87 de la Ley de Aguas Nacionales.
+I.- Los contribuyentes cuya descarga de aguas residuales del trimestre no rebase los límites permisibles establecidos en las siguientes tablas o, en su caso, en las condiciones particulares de descarga que la Comisión Nacional del Agua emita conforme a la declaratoria de clasificación del cuerpo de las aguas nacionales que corresponda, publicada en el Diario Oficial de la Federación a que se refiere el artículo 87 de la Ley de Aguas Nacionales.
 
 (VÉASE ARCHIVO ANEXO)
 
@@ -18435,11 +18309,13 @@ Cuando las personas físicas o morales para el cumplimiento de la obligación le
 
 Las personas físicas o morales que contraten o utilicen los servicios mencionados, serán solidariamente responsables con las empresas que traten aguas residuales, por el pago del derecho.
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTICULO 282-C.
 
-Los contribuyentes que cuenten con planta de tratamiento de aguas residuales y aquéllos que en sus procesos productivos hayan realizado acciones para mejorar la calidad de sus descargas y éstas, sean de una calidad igual o superior a la establecida en la Norma Oficial Mexicana NOM-127-SSA1-1994, podrán gozar de un 30% de descuento en el pago del derecho por uso o aprovechamiento de aguas nacionales a que se refiere el Capítulo VIII, del Título II de esta Ley. Este beneficio se aplicará únicamente a los aprovechamientos de aguas nacionales que generen la descarga de aguas residuales, siempre y cuando los contribuyentes cumplan con las disposiciones de la Ley de Aguas Nacionales, su Reglamento y esta Ley.
+Las personas contribuyentes que cuenten con planta de tratamiento de aguas residuales y aquéllas que en sus procesos productivos hayan realizado acciones para mejorar la calidad de sus descargas y éstas sean de una calidad igual o superior a la establecida en la Norma Oficial Mexicana NOM-127-SSA1-2021, Agua para Uso y Consumo Humano. Límites Permisibles de la Calidad del Agua, pagarán el 70% del monto que corresponda al derecho por uso o aprovechamiento de aguas nacionales a que se refiere el Capítulo VIII, del Título Segundo de esta Ley. Este beneficio se aplicará únicamente a los aprovechamientos de aguas nacionales que generen la descarga de aguas residuales, siempre y cuando las personas contribuyentes cumplan con las disposiciones de la Ley de Aguas Nacionales, su Reglamento y esta Ley.
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 El porcentaje de descuento se aplicará al monto del derecho a que se refiere el Capítulo VIII del Título II de esta Ley sin incluir el que corresponda al uso consuntivo del agua. En este caso, a la declaración del pago del derecho por uso o aprovechamiento de aguas nacionales, se deberán acompañar los resultados de la calidad del agua, emitidos por un laboratorio acreditado ante la entidad de acreditamiento autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua.
 
@@ -18567,11 +18443,11 @@ Para efectos del presente Capítulo, la Comisión Nacional del Agua está facult
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTICULO 288.
 
-Están obligados al pago del derecho por el acceso a los museos, monumentos y zonas arqueológicas propiedad de la Federación, las personas que tengan acceso a las mismas, conforme a las siguientes cuotas:
+Están obligados al pago del derecho por el acceso a los museos, monumentos, sitios y zonas arqueológicas propiedad de la Federación, las personas que tengan acceso a las mismas, conforme a las siguientes cuotas:
 
 Categoría I: $91.62 $90
 
@@ -18595,15 +18471,25 @@ Categoría III:
 
 Museo Regional Histórico de Aguascalientes; Museo de las Misiones Jesuitas; Zona Arqueológica Chicanná; Zona Arqueológica Xpuhil; Museo Casa Carranza; Ex-Convento de Actopan; Zona Arqueológica Calixtlahuaca; Museo Virreinal de Acolman; Zona Arqueológica Santa Cecilia Acatitlán (con museo); Zona Arqueológica de San Bartolo Tenayuca (con museo); Zona Arqueológica Tingambato; Museo Casa de Juárez; Museo Histórico de la No Intervención; Museo del Valle de Tehuacán; Museo de la Evangelización; Fuerte de Guadalupe; Zona Arqueológica El Rey; Zona Arqueológica Oxtankah; Museo Regional de Sonora; Zona Arqueológica de Cempoala (con museo); Museo de Artes e Industrias Populares; Museo Tuxteco; Zona Arqueológica de Labná; Zona Arqueológica de Sayil; Zona Arqueológica Gruta de Balankanché; Zona Arqueológica de Chacmultún; Zona Arqueológica Gruta de Loltún; Zona Arqueológica de Oxkintok; Museo Regional de Nayarit; Museo Arqueológico de Campeche; Museo Regional Potosino; Museo Casa de Allende; Museo Regional Michoacano; Zona Arqueológica La Venta (con museo); Zona Arqueológica la Campana; Zona Arqueológica San Felipe Los Alzati; Zona Arqueológica Chalcatzingo; Zona Arqueológica Ixtlán del Río-Los Toriles; Zona Arqueológica el Meco; Zona Arqueológica el Vallecito; Museo Regional Baja California Sur; Museo Arqueológico Camino Real Hecelchacán; Museo de las Estelas Mayas Baluarte de la Soledad; Museo Histórico Reducto San José El Alto "Armas y Marinería"; Zona Arqueológica de Balamkú; Zona Arqueológica de Hochob; Zona Arqueológica de Santa Rosa Xtampak; Zona Arqueológica El Tigre; Zona Arqueológica el Chanal; Museo Arqueológico del Soconusco; Museo Ex-Convento Agustino de San Pablo; Museo de Guillermo Spratling; Ex-Convento de San Andrés Epazoyucan; Museo Arqueológico de Ciudad Guzmán; Zona Arqueológica Los Melones; Monumento Histórico Capilla de Tlalmanalco; Ex-Convento de Oxtotipac; Museo de Sitio Casa de Morelos; Zona Arqueológica de Ihuatzio; Zona Arqueológica Huandacareo La Nopalera; Zona Arqueológica Tres Cerritos; Museo Histórico del Oriente de Morelos; Zona Arqueológica Las Pilas; Zona Arqueológica Coatetelco (con museo); Ex-Convento y Templo de Santiago, Cuilapan; Zona Arqueológica de Dainzu; Zona Arqueológica Lambityeco; Capilla de Teposcolula; Ex-Convento de Yanhuitlán; Zona Arqueológica de Zaachila Ex-Convento de Tecali; Museo del Arte Religioso de Santa Mónica; Zona Arqueológica de Yohualichan; Casa del Dean; Ex-Convento de San Francisco, Tecamachalco; Ex-Convento de San Francisco Huaquechula; Zona Arqueológica de Toluquilla; Zona Arqueológica de Malpasito; Zona Arqueológica Tizatlán (con museo); Zona Arqueológica de Tres Zapotes (con museo); Sitio Arqueológico Quiahuiztlan; Zona Arqueológica Mayapán; Zona Arqueológica de Acanceh; Zona Arqueológica Ruinas de Ake; Zona Arqueológica Chalchihuites; Museo Arqueológico de Mazatlán; Museo de la Estampa Ex Convento de Santa María Magdalena Cuitzeo; Casa de Hidalgo, Dolores Hidalgo, Gto.; Pinacoteca del Estado Juan Gamboa Guzmán; Zona Arqueológica de Tenam Puente; Zona Arqueológica Las Ranas; Zona Arqueológica de Muyil; Sitio Arqueológico de Tamtoc; Sitio Arqueológico Lagartero; Sitio Arqueológico La Ferrería; Sitio Arqueológico Boca de Potrerillos; Zona de Monumentos Arqueológicos El Cerrito; Sitio Arqueológico de Pomoná; Sitio Arqueológico de Cuyuxquihui; Sitio Arqueológico de Izapa; Sitio Arqueológico de Tehuacalco; Sitio Arqueológico de Xlapak; y Monumento Inmueble Histórico Museo Nacional de las Culturas del Mundo.
 
-El pago de este derecho deberá hacerse previamente al ingreso a los museos, monumentos y zonas arqueológicas a que se refiere este artículo.
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+El pago de este derecho deberá hacerse previamente al ingreso a los museos, monumentos, sitios y zonas arqueológicas a que se refiere este artículo.
 
 Las cuotas de los derechos señalados en el presente artículo, se ajustarán para su pago a múltiplos de $5.00. Para efectuar este ajuste, las cuotas aumentarán o disminuirán, según sea el caso, a la unidad de ajuste más próxima. Cuando la cuota se encuentre a la misma distancia de dos unidades de ajuste, se disminuirá a la unidad inmediata anterior.
 
-> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
-No pagarán el derecho a que se refiere este artículo, las personas mayores de 60 años, menores de 13 años, jubiladas, pensionadas, personas con discapacidad, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Instituto Nacional de Antropología e Historia, para realizar estudios afines a los museos, monumentos y zonas arqueológicas a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho, los visitantes nacionales y extranjeros residentes en México que accedan a los museos, monumentos y zonas arqueológicas los domingos.
+No pagarán el derecho a que se refiere este artículo, las personas mayores de 60 años, menores de 13 años, jubiladas, pensionadas, con discapacidad, docentes y estudiantes en activo, así como pasantes o dedicadas a la investigación que cuenten con permiso del Instituto Nacional de Antropología e Historia, para realizar estudios afines a los museos, monumentos, sitios y zonas arqueológicas a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho, los visitantes nacionales y extranjeros residentes en México que accedan a los museos, monumentos, sitios y zonas arqueológicas los domingos.
 
 Lo dispuesto en el párrafo anterior no será aplicable para las categorías previstas en el presente artículo, en las visitas después del horario normal de operación.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+Las personas que pertenezcan a comunidades indígenas ubicadas en municipios colindantes a sitios y zonas arqueológicas a que se refiere el presente artículo, no pagarán el derecho por su acceso, siempre que acrediten su domicilio en dichos municipios con una identificación oficial vigente.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+
+Las personas guías de turistas, en el ejercicio de su actividad profesional, debidamente acreditadas por la Secretaría de Turismo Federal, estarán exentos del pago del derecho por el acceso a los museos, monumentos, sitios y zonas arqueológicas a que se refiere el presente artículo.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
@@ -23946,3 +23832,51 @@ Tercero.- La derogación de la fracción IV del artículo 43 de la Ley General d
 Cuarto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables de su aplicación, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos para el presente ejercicio fiscal ni en subsecuentes.
 
 Quinto.- A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan a su contenido, comprendidas en leyes secundarias, reglamentos, acuerdos y cualquier otra de carácter administrativo.
+
+D.O.F. 13 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DERECHOS".]
+
+Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2024, salvo:
+
+I. La modificación al artículo 18-A de la Ley Federal de Derechos, que entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Dentro de los 60 días hábiles siguientes a la entrada en vigor de la modificación al artículo 18-A de la Ley Federal de Derechos, se deberá constituir el fideicomiso público federal señalado en el mismo artículo.
+
+Las erogaciones que se generen con motivo de la entrada en vigor de la reforma al citado artículo, se realizarán con cargo a los presupuestos autorizados a los ejecutores de gasto responsables de su aplicación, por lo que no se autorizarán recursos adicionales para tales efectos para el presente ejercicio fiscal ni subsecuentes.
+
+II. El Transitorio Segundo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos y de la Ley General de Turismo, publicado en el Diario Oficial de la Federación el 3 de mayo de 2023, que se deroga a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+III. La modificación al artículo 49 de la Ley Federal de Derechos, que entrará en vigor a partir del 30 de diciembre de 2023.
+
+IV. Los límites permisibles correspondientes a color verdadero y toxicidad aguda (UT) previstos en la tabla contenida en la fracción I del artículo 282 de la Ley Federal de Derechos, que entrarán en vigor a partir del 11 de marzo de 2026.
+
+Segundo. Durante el año 2024, en materia de derechos se aplicarán las siguientes disposiciones:
+
+I. Las entidades financieras sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores a que se refiere el artículo 29-D de la Ley Federal de Derechos vigente para el ejercicio fiscal de 2024, con excepción de las instituciones de banca múltiple, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere el citado artículo 29-D, podrán pagar la cuota que de conformidad con las disposiciones vigentes en el ejercicio fiscal de 2023 hubieren optado por pagar para el referido ejercicio fiscal, más el 4.5% de dicha cuota. En ningún caso los derechos a pagar para el ejercicio fiscal de 2024 por concepto de inspección y vigilancia, podrán ser inferiores a la cuota mínima establecida para cada sector para el ejercicio fiscal de 2024, conforme a lo previsto en el propio artículo 29-D.
+
+Las entidades financieras a que se refiere el artículo 29-D, fracciones I, III, V, VI, VIII, IX, XI, XIII, XV, XVIII y XIX de la Ley Federal de Derechos que se hayan constituido en el ejercicio fiscal de 2023, podrán optar por pagar la cuota mínima correspondiente para el ejercicio fiscal de 2024 conforme a las citadas fracciones del artículo 29-D, en lugar de pagar el derecho por concepto de inspección y vigilancia en términos de lo dispuesto en tales fracciones de la referida Ley.
+
+Tratándose de las casas de bolsa, para determinar la cuota mínima correspondiente al ejercicio fiscal de 2024 para los efectos de la opción a que se refieren los párrafos anteriores, se considerará como capital mínimo requerido para funcionar como casa de bolsa el equivalente en moneda nacional a tres millones de unidades de inversión.
+
+II. Las instituciones de banca múltiple a que se refiere el artículo 29-D, fracción IV de la Ley Federal de Derechos, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere dicha fracción, podrán optar por pagar la cuota que de conformidad con las disposiciones vigentes en el ejercicio fiscal de 2023 hubieren optado por pagar para dicho ejercicio fiscal, más el 10% del resultado de la suma de los incisos a) y b) de la propia fracción IV del citado artículo 29-D. En ningún caso los derechos a pagar podrán ser inferiores a la cuota mínima establecida para dicho sector para el ejercicio fiscal de 2024, conforme a lo previsto en la mencionada fracción IV del artículo 29-D.
+
+Las entidades financieras a que se refiere el párrafo anterior que se hayan constituido en el ejercicio fiscal de 2023, podrán optar por pagar la cuota mínima para el ejercicio fiscal de 2024 conforme a la citada fracción del referido artículo 29-D, en lugar de pagar el derecho por concepto de inspección y vigilancia en términos de lo dispuesto en dicha fracción.
+
+III. Las bolsas de valores a que se refiere el artículo 29-E, fracción III de la Ley Federal de Derechos vigente para el ejercicio fiscal de 2024, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere el citado artículo 29-E, fracción III, podrán optar por pagar la cantidad equivalente en moneda nacional que resulte de multiplicar 1% por su capital contable. En caso de ejercer la opción a que se refiere la presente fracción, las bolsas de valores deberán estarse a lo dispuesto por el artículo 29-K, fracción II de la Ley Federal de Derechos.
+
+IV. Cuando los contribuyentes ejerzan la opción de pagar los derechos por concepto de inspección y vigilancia en los términos previstos en las fracciones I, II y III de este artículo y realicen el pago anual durante el primer trimestre del ejercicio fiscal de 2024, no les será aplicable el descuento del 5% establecido en la fracción I del artículo 29-K de la Ley Federal de Derechos.
+
+V. Para los efectos de lo dispuesto en los artículos 244, 244-A, 244-B, 244-E, 244-E-1, 244-G, 244-H, 244-I y 244-J de la Ley Federal de Derechos, las cuotas previstas en dichas disposiciones no se actualizarán de conformidad con el párrafo cuarto del artículo 1o. de la citada Ley, durante el ejercicio fiscal de 2024.
+
+Las personas concesionarias de las bandas de frecuencias del espectro radioeléctrico sujetas al pago de los derechos mencionados en el párrafo anterior, deberán pagar durante el ejercicio fiscal de 2024, los derechos vigentes correspondientes al ejercicio fiscal de 2023.
+
+Tercero. Las personas contribuyentes que estén obligadas al pago del derecho por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, a que se refiere el Capítulo XIV del Título II de la Ley Federal de Derechos, que cuenten con un Programa vigente para el Cumplimiento de la Norma Oficial Mexicana NOM-001-SEMARNAT-2021, de conformidad con los "Lineamientos que establecen las Disposiciones administrativas de carácter general para la presentación de los programas para el cumplimiento establecidos en el artículo cuarto transitorio de la Norma Oficial Mexicana NOM-001-SEMARNAT-2021, Que establece los límites permisibles de contaminantes en las descargas de aguas residuales en cuerpos receptores propiedad de la nación", publicados en el Diario Oficial de la Federación el 5 de diciembre de 2022, que tenga como finalidad mejorar la calidad de las descargas de sus aguas residuales, ya sea mediante la modificación de sus instalaciones y/o procesos productivos para el control o tratamiento de sus descargas, a fin de no rebasar dichos límites, no estarán obligados al pago del derecho por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, siempre y cuando cumplan además de lo comprometido en el Programa, con los límites y parámetros establecidos en las siguientes Tablas:
+
+> <small>[N. DE E. VÉANSE TABLAS EN EL D.O.F. DE 13 DE NOVIEMBRE DE 2023, PÁGINAS DE LA 67 A LA 68.]</small>
+
+Para tales efectos, las personas contribuyentes deberán medir el volumen en cada punto de descarga que hayan registrado en el Programa para el Cumplimiento a que se refiere el primer párrafo de este artículo, en términos del artículo 277-A de la Ley Federal de Derechos y acompañar a la declaración del trimestre respectivo el reporte que emita un laboratorio acreditado ante la entidad autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua, de conformidad con el artículo 278-B de la referida Ley, donde se acredite que la calidad de la descarga se efectúa en términos de los límites máximos permisibles de las tablas en referencia.
+
+En caso de incumplimiento a los compromisos establecidos en el Programa para el Cumplimiento correspondiente en términos de los Lineamientos a que se refiere el primer párrafo de este Transitorio, las personas contribuyentes estarán obligados a efectuar el pago de los derechos por el uso y aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, a que se refiere el Capítulo XIV del Título II de la Ley Federal de Derechos, con las actualizaciones y recargos correspondientes, generados a partir de la fecha en que se aplicó el beneficio fiscal a que se refiere este artículo.
+
+Cuarto. Para efectos de lo establecido en el artículo 220-A de esta Ley, las secretarías de la Defensa Nacional y de Marina deberán realizar las acciones respectivas para que se constituyan los fideicomisos públicos federales, dentro de los 60 días hábiles siguientes a la entrada en vigor del mencionado artículo.
