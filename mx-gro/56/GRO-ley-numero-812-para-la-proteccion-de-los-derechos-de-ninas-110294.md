@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-812-para-la-proteccion-de-los-derechos-de-ninas-1102
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-09"
-last_updated: "2016-05-17"
+last_updated: "2023-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "GRO"
 ---
 # LEY NUMERO 812 PARA LA PROTECCION DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY NÚMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2023.
 
-Ley publicada en el Periódico Oficial del Estado de Guerreo, el viernes 09 de octubre de 2015.
+Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 09 de octubre de 2015.
 
 LEY NÚMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO.
 
@@ -35,7 +37,9 @@ Que el H. Congreso Local, se ha servido comunicarme que,
 
 LA SEXAGÉSIMA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
 
-C O N S I D E R A N D O…
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto en los artículos 61 fracción I de la Constitución Política Local y 8 fracción I de la Ley Orgánica del Poder Legislativo en vigor, el Honorable Congreso del Estado, decreta y expide la siguiente:
 
@@ -199,7 +203,13 @@ XXXVII. Sistema Estatal de Protección Integral: El Sistema de Protección Integ
 
 XXXVIII. Sistemas Municipales de Protección Integral: Los Sistemas de Protección Integral de Niñas, Niños y Adolescentes de cada uno de los Municipios del Estado de Guerrero;
 
-XXXIX. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2023)</small>
+
+XXXIX. Trastornos del Aprendizaje: Dificultad específica y persistente que interfiere en el aprendizaje de habilidades académicas; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE NOVIEMBRE DE 2023)</small>
+
+XL. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
 
 ###### Artículo 5.
 
@@ -789,9 +799,15 @@ XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que 
 
 XIX. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente, y;
 
-XX. Establecer y mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación.
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2023)</small>
 
-Las autoridades educativas del Estado, deberán las adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
+XX. Establecer y mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación, y
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+
+XXI. Adoptar medidas para responder a las necesidades de niñas, niños y adolescentes, de tal manera que se posibilite su desarrollo progresivo e integral, conforme a sus capacidades y habilidades personales. Las madres, padres, tutores, maestros y cuidadores, atenderán los trastornos del aprendizaje.
+
+Las autoridades educativas del Estado, deberán las (sic) adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
 
 ###### Artículo 56.
 
@@ -1994,3 +2010,13 @@ P.O. 17 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 199 POR EL QUE SE REFORMAN LAS FRACCIONES IX; X; XI; XII; XIII; XIV; XV; XVI; XVII Y XVIII; EL SEGUNDO PÁRRAFO; Y SE ADICIONAN LAS FRACCIONES XIX; XX Y XXI DEL ARTÍCULO 128 DE LA LEY NÚMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO”.]
 
 ÚNICO.- El presente Decreto entrara en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 477 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO, PARA LA DETECCIÓN, PREVENCIÓN Y ATENCIÓN A LOS TRASTORNOS DEL APRENDIZAJE".]
+
+PRIMERO.- El presente Decreto entrará en vigor a los diez días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Comuníquese al Ejecutivo del Estado para los efectos legales conducentes.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado y en la Página Web Oficial de este Honorable Congreso, para su conocimiento general.
