@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5644
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2023-07-17"
+last_updated: "2023-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -211,9 +211,15 @@ La violencia mediática se ejerce por cualquier persona física o moral que util
 
 X. Violencia Vicaria: Cualquier acto u omisión cometido por parte de quien mantenga o haya mantenido una relación afectiva o sentimental con la víctima y que tenga por objeto por sí o por interpósita persona infligir a los hijos e hijas de ésta un daño, menoscabo o sufrimiento de cualquier naturaleza con el propósito de causarle una afectación o daño físico, psicológico, emocional, patrimonial o de cualquier otra índole a la víctima;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2023)</small>
 
-XI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+XI. Violencia Química: Es aquella que pretende causar daño físico irreversible que lastime, altere y/o cause alguna discapacidad, mediante la acción de arrojar ácido o sustancia corrosiva, cáustica, irritante, tóxica o inflamable o cualquier otra sustancia que, en determinadas condiciones, pueda provocar lesiones ya sean internas, externas, o ambas.
+
+Dicha acción envuelve una carga simbólica, porque con esta el agresor pretende causar de forma deliberada y permanente dolor, sufrimiento o humillación a la víctima, causándole daños físicos, psicológicos y emocionales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE NOVIEMBRE DE 2023)</small>
+
+XII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ## TÍTULO SEGUNDO. MODALIDADES DE LA VIOLENCIA EN CONTRA DE LAS MUJERES
 
@@ -1268,3 +1274,11 @@ P.O. 17 DE JULIO DE 2023.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 14 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 271 POR EL QUE "SE REFORMA LA FRACCIÓN XI Y SE ADICIONA LA FRACCIÓN XII DEL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente decreto.
