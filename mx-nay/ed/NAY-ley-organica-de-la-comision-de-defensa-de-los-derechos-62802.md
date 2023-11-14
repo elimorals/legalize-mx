@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-comision-de-defensa-de-los-derechos-62802"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-08-16"
-last_updated: "2023-05-02"
+last_updated: "2023-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -435,13 +435,13 @@ VI.- La Comisión de Justicia y Derechos Humanos podrá solicitar la documentaci
 
 VII.- La Comisión de Justicia y Derechos Humanos convocará a los participantes que hayan cumplido los requisitos de ley, para practicarles una entrevista, bajo las condiciones y modalidades que dicte mediante acuerdo de trámite;
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2023)</small>
 
-VIII.- Un vez agotado lo anterior, la Comisión de Justicia y Derechos Humanos deberá emitir su dictamen, dentro de los diez días hábiles siguientes a la realización de la última entrevista, en el que formulará la propuesta de un candidato;
+VIII.- Una vez agotado lo anterior, la Comisión de Justicia y Derechos Humanos deberá emitir su dictamen conclusivo del procedimiento, dentro de los diez días hábiles siguientes a la realización de la última entrevista, en el que formulará la propuesta de las y los candidatos que son los idóneos para ocupar el cargo;
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2023)</small>
 
-IX.- En caso de no aprobarse el candidato sometido a consideración de la Cámara de Diputados o de la Diputación Permanente, la propuesta será desechada y se devolverá a la Comisión de Justicia y Derechos Humanos, para que atendiendo las razones expuestas, emita un nuevo dictamen dentro del término de cinco días con una nueva propuesta, y
+IX.- De las propuestas realizadas por la Comisión de Justicia y Derechos Humanos, el Pleno del Congreso del Estado o la Diputación Permanente, designará a la persona que ocupe la Presidencia de la Comisión, por el voto de las dos terceras partes de las y los Diputados presentes, y
 
 > <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2012)</small>
 
@@ -1756,3 +1756,9 @@ P.O. 2 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT, EN MATERIA DE ARCHIVOS".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 14 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LAS FRACCIONES VIII Y IX DEL ARTÍCULO 23 DE LA LEY ORGÁNICA DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
