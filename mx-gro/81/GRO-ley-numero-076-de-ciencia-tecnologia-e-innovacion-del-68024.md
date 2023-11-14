@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-076-de-ciencia-tecnologia-e-innovacion-del-68024"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-03"
-last_updated: "2009-04-03"
+last_updated: "2023-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 076 DE CIENCIA, TECNOLOGIA E INNOVACION DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 3 de abril de 2009.
 
@@ -639,9 +639,11 @@ V. Órgano de vigilancia.
 
 La administración del COCYTIEG estará a cargo de la Junta Directiva y del Director General, que gozarán de plena autonomía de gestión en los términos de la Ley Número 690 de Entidades Paraestatales del Estado de Guerrero.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 56.
 
-La máxima autoridad del Consejo será la Junta Directiva, la cual estará integrada por diecisiete miembros permanentes, quienes serán:
+La máxima autoridad del Consejo será la Junta Directiva, la cual estará integrada por veintiún miembros permanentes, quienes serán:
 
 I. El Gobernador del Estado, quien será el Presidente de la Junta Directiva;
 
@@ -659,13 +661,23 @@ VII. El Secretario de Salud;
 
 VIII. El Secretario de Desarrollo Rural;
 
-IX. Nueve Consejeros:
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+
+IX. Trece Consejeros:
 
 a) El Rector de la Universidad Autónoma de Guerrero;
 
-b) Un representante del sector productivo; y
+b) El Director General del Instituto Tecnológico en Guerrero;
 
-c) Siete representantes del sector académico.
+c) El Rector de la Universidad Politécnica del Estado de Guerrero;
+
+d) El Rector de la Universidad Intercultural del Estado de Guerrero;
+
+e) El Coordinador en Guerrero de las Universidades para el Bienestar.
+
+f) Un representante del sector productivo; y
+
+g) Siete representantes del sector académico
 
 En caso de ausencia del Gobernador del Estado en su carácter de Presidente de la Junta Directiva, éste será suplido por el Secretario de Educación Guerrero.
 
@@ -972,3 +984,17 @@ EL SECRETARIO DE EDUCACIÓN GUERRERO.
 LIC. JOSÉ LUÍS GONZÁLEZ DE LA VEGA OTERO.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 481 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO Y LA FRACCIÓN IX DEL ARTÍCULO 56 DE LA LEY NÚMERO 076 DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto al Poder Ejecutivo del Estado, para su conocimiento y los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+CUARTO.- Publíquese el presente Decreto en la gaceta, la página web y en el canal de televisión oficial del Congreso del Estado.
