@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-838-de-atencion-a-los-migrantes-del-estado-de-152056
 country: "mx"
 rank: "ley"
 publication_date: "2021-10-15"
-last_updated: "2021-10-15"
+last_updated: "2023-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 838 DE ATENCIÓN A LOS MIGRANTES DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Número 83 del Periódico Oficial del Estado de Guerrero, el viernes 15 de octubre de 2021.
 
@@ -87,15 +87,23 @@ VI. Secretaría: La Secretaría de Migrantes y Asuntos Internacionales;
 
 ### CAPÍTULO II. Derechos de los Migrantes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 5.
 
-El Estado reconocerá, promoverá y garantizará a los migrantes y sus familias, el ejercicio pleno de sus derechos conforme a lo establecido por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Guerrero, los instrumentos internacionales en la materia de los cuales el Estado Mexicano sea parte y demás disposiciones jurídicas aplicables.
+El Estado reconocerá, promoverá y garantizará a los migrantes y sus familias, el ejercicio pleno de sus derechos sin discriminación alguna, conforme a lo establecido por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Guerrero, los instrumentos internacionales en la materia, de los cuales el Estado Mexicano sea parte y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+
+Para niños, niñas y adolescentes migrantes se garantizará el interés superior del menor, la perspectiva de género, así como los derechos y principios establecidos en la Ley General de los Derechos de Niñas, Niños y Adolescentes; los tratados y convenios internacionales.
 
 ###### Artículo 6.
 
 Sin detrimento de lo establecido en otras disposiciones jurídicas, la persona migrante tiene derecho a:
 
-I. Ser respetados sus derechos y libertades fundamentales, a la igualdad y no discriminación por motivos de raza, color, sexo religión, edad, idioma, género, discapacidades, condiciones de salud, estado civil, posición social o económica o cualquier otra condición;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+
+I. Ser respetados sus derechos y libertades fundamentales, a la igualdad y no discriminación por motivos de raza, color, sexo religión, edad, idioma, género, discapacidades, condiciones de salud, estado civil, posición social o económica o cualquier otra condición ya sea física o psicológica;
 
 II. La vida y a la seguridad jurídica;
 
@@ -103,7 +111,9 @@ III. Contar con una calidad de vida adecuada que le asegure la salud, alimentaci
 
 IV. Organizarse en asociaciones, clubes que fortalezcan la identidad, los lazos culturales y sociales, que contribuyan a procesos de economía social y desarrollo integral de las personas;
 
-V. Recibir asistencia de las autoridades del Estado en caso de repatriación voluntaria y forzosa; así como para el traslado de cadáveres de un familiar fallecido fuera del Estado;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+
+V. Recibir asistencia de la Secretaría y demás autoridades del Estado en caso de repatriación voluntaria o forzosa; así como para el traslado de cadáveres de un familiar fallecido fuera del Estado;
 
 VI. Ser protegidos contra cualquier daño físico, psicológico o moral y de todo modo de tortura, pena o trato cruel, inhumano o degradante en relación a su condición de migrante;
 
@@ -111,17 +121,25 @@ VII. El acceso a los servicios que presta la Coordinación Técnica del Registro
 
 VIII. A acceder a los beneficios de las acciones, apoyos o programas gubernamentales a que se refiere esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 7.
 
-El Estado garantizará a la persona migrante el derecho de acceso a la procuración e impartición de justicia, respetando en todo momento el debido proceso, así como a presentar quejas en materia de derechos humanos, de conformidad con las disposiciones contenidas en la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
+El Estado garantizará a la persona migrante el derecho de acceso a la procuración e impartición de justicia, respetando en todo momento el debido proceso, el interés superior del menor, así como a presentar quejas en materia de derechos humanos, de conformidad con las disposiciones contenidas en la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
 
-Cuando el migrante, no hable o no entienda el idioma español, se le nombrará de oficio un traductor o intérprete que tenga conocimiento de su lengua.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
 
-Cuando el migrante sea sordo y sepa leer y escribir, se le interrogará por escrito o por medio de un intérprete. En caso contrario, se designará como intérprete a una persona que pueda entenderlo.
+Cuando el migrante, no hable o no entienda el idioma español, se le nombrará de oficio un traductor o intérprete, en su caso, se permitirá la participación de la persona con quien se sienta identificado y que tenga conocimiento de su lengua.
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+
+Cuando el migrante presente discapacidad auditiva y sepa leer y escribir, se le interrogará por escrito o por medio de un intérprete. En caso contrario, se designará como intérprete a una persona que pueda entenderlo.
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 8.
 
-La Secretaría deberá establecer un Programa de atención a las personas Jornaleras Agrícolas Migrantes, que contemple su situación migratoria laboral, información sobre el lugar donde desempeñará su labor de jornalero, para su seguimiento, atención y protección de sus derechos humanos.
+La Secretaría deberá establecer y difundir un Programa de atención a las personas Jornaleras Agrícolas Migrantes, que contemple su situación migratoria laboral, información sobre el lugar donde desempeñará su labor de jornalero, para su seguimiento, atención y protección de sus derechos humanos.
 
 ###### Artículo 9.
 
@@ -187,7 +205,9 @@ IV. Fomentar el respeto y protección de los derechos humanos y la atención int
 
 V. Fortalecer la coordinación del Gobierno del Estado con el Gobierno Federal y los municipios para el desarrollo de proyectos, esquemas innovadores de participación y corresponsabilidad para la atención y protección de los migrantes;
 
-VI. Suscribir convenios con organizaciones de la sociedad civil, dependencias y entidades de la administración pública federal, estatal y municipal, para la formulación y ejecución de programas y acciones orientados a atender en forma coordinada a los migrantes;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+
+VI. Suscribir convenios con organizaciones nacionales, locales e internacionales, de la sociedad civil, dependencias y entidades de la administración pública federal, estatal y municipal, para la formulación y ejecución de programas y acciones orientados a atender en forma coordinada a los migrantes;
 
 VII. Diseñar e implementar, conjuntamente con la Comisión de los Derechos Humanos, las acciones que garanticen el acceso inmediato de los migrantes a los servicios y programas de atención operados por dicha comisión;
 
@@ -199,7 +219,9 @@ X. Efectuar consultas y encuestas relacionadas con el fenómeno de la migración
 
 XI. Operar el programa estatal;
 
-XII. Promover y fomentar, en coordinación con dependencias y entidades federales, estatales o municipales, acciones de orientación y educación a la población, referente a la problemática que representa el fenómeno de la migración;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+
+XII. Promover y fomentar en coordinación con dependencias y entidades federales, estatales, municipales, acciones de orientación y educación a la población, referente a la problemática que representa el fenómeno de la migración;
 
 XIII. Reconocer el mérito y altruismo de las personas, físicas o morales, que participan en los programas de atención a migrantes, mediante la expedición de las constancias correspondientes;
 
@@ -208,6 +230,8 @@ XIV. Fomentar la constitución de asociaciones, organismos o grupos de apoyo que
 XV. Establecer acciones que tengan como objetivo generar datos estadísticos de la población migratoria, que permitan generar políticas de atención prioritaria;
 
 XVI. Promover políticas públicas en materia de respeto de derechos humanos, principalmente laborales, y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE NOVIEMBRE DE 2023)</small>
 
 XVII. Las demás que le confieran las disposiciones jurídicas aplicables en la materia.
 
@@ -231,15 +255,17 @@ Los programas y recursos destinados a la atención de migrantes será considerad
 
 ### CAPÍTULO SEGUNDO. Consejo Consultivo de Atención a Migrantes
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES PRIMER Y SEGUNDO PÁRRAFOS], P.O. 14 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 17.
 
-El Consejo Consultivo de Atención a Migrantes del Estado de Guerrero, es un órgano colegiado de participación y consulta, encargado de opinar, proponer y asesorar a la Secretaría en la planeación y elaboración de las políticas públicas, a través de la colaboración intersecretarial y los diversos órganos de la administración pública estatal, para garantizar el derecho a la movilidad humana, principalmente de las personas migrantes y sus familias guerrerenses.
-
-Estará integrado por:
+El Consejo Consultivo de Atención a Migrantes del Estado de Guerrero, es un órgano colegiado de participación y consulta, encargado de opinar, proponer y asesorar a la Secretaría en la planeación y elaboración de las políticas públicas, a través de la colaboración intersecretarial y los diversos órganos de la administración pública estatal, para garantizar el derecho a la movilidad humana, principalmente de las personas migrantes y sus familias guerrerenses. Estará integrado por:
 
 I. Un Presidente que será el titular de la Secretaría General de Gobierno;
 
-II. Un Secretario Ejecutivo que será el titular de la Secretaría de Atención a Migrantes y Asuntos Internacionales;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+
+II. Un Secretario Ejecutivo que será la persona titular de la Secretaría de los Migrantes y Asuntos Internacionales;
 
 III. Cuatro Presidentes Municipales de los Municipios con mayor índice de migración, de acuerdo al Registro Estatal de Migrantes con que cuente la Secretaría;
 
@@ -247,25 +273,47 @@ IV. Diez vocales que serán las personas titulares de:
 
 a) Secretaría de Salud;
 
-b) Secretaría de Seguridad Pública;
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
 
-c) Fiscalía General del Estado;
+b) Secretaría de Educación Guerrero;
 
-d) Secretaría de Trabajo y Previsión Social;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE NOVIEMBRE DE 2023)</small>
 
-e) Secretaría de Desarrollo y Bienestar;
+c) Secretaría de Seguridad Pública;
 
-f) Sistema para el Desarrollo Integral de la Familia;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE NOVIEMBRE DE 2023)</small>
 
-g) Secretaría de Asuntos Indígenas y Afromexicanos;
+d) Fiscalía General del Estado;
 
-h) Dos representantes de clubes u organizaciones de Migrantes o sus equivalentes legalmente constituidos, y
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
 
-i) Comisión de los Derechos Humanos del Estado.
+e) Secretaría del Trabajo y Previsión Social;
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+
+f) Secretaría de Bienestar;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE NOVIEMBRE DE 2023)</small>
+
+g) Sistema para el Desarrollo Integral de la Familia;
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+
+h) Secretaría para el Desarrollo de las Comunidades y Pueblos Indígenas y Afromexicanos;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE NOVIEMBRE DE 2023)</small>
+
+i) Dos representantes de clubes u organizaciones de Migrantes o sus equivalentes legalmente constituidos, y
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE NOVIEMBRE DE 2023)</small>
+
+j) Comisión de los Derechos Humanos del Estado.
 
 Cada integrante del Consejo podrá designar a su suplente quien deberá ser de nivel jerárquico inferior inmediato.
 
-El Presidente podrá invitar a las sesiones del Consejo a representantes de la Secretaría de Relaciones exteriores y del Instituto Nacional de Migración del Gobierno Federal, así como de instituciones públicas o privadas federales, estatales o municipales, que guarden relación con el objeto del Consejo, quienes participarán solamente con derecho a voz. En todo caso, se deberá invitar a representantes.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+
+El presidente podrá invitar a las sesiones del Consejo a representantes de la Secretaría de Relaciones Exteriores y del Instituto Nacional de Migración del Gobierno Federal, así como de instituciones públicas o privadas, federales, estatales, municipales y Organizaciones Internacionales que guarden relación con el objeto del Consejo, quienes participarán solamente con derecho a voz.
 
 ###### Artículo 18.
 
@@ -480,3 +528,15 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 478 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 838 DE ATENCIÓN A LOS MIGRANTES DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales correspondientes.
+
+TERCERO. Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, en el Portal electrónico y en el canal de televisión oficial de esta soberanía, para conocimiento general y efectos legales procedentes.
