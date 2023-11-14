@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2023-07-13"
+last_updated: "2023-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE NOVIEMBRE DE 2023.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -254,6 +254,10 @@ Los habitantes del Estado, por su condición política, se consideran como sonor
 > <small>(ADICIONADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 En el Estado de Sonora, toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
+
+> <small>(ADICIONADO, B.O. 14 DE NOVIEMBRE DE 2023)</small>
+
+El español es el idioma oficial del estado de Sonora y, adicionalmente, se reconoce a la Lengua de Señas Mexicana como lengua oficial y parte del patrimonio lingüístico sonorense. El estado y los municipios, en el ámbito de sus competencias, garantizarán que las personas con discapacidad auditiva reciban educación en Lengua de Señas Mexicana y promoverán su utilización en todo el territorio estatal.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -4456,3 +4460,11 @@ El Congreso del Estado deberá armonizar el marco jurídico en la materia para a
 ###### ARTÍCULO TERCERO.
 
 El Poder Ejecutivo del Estado deberá implementar de manera gradual el sistema universal de becas a que se refiere la presente Ley, sujetándose a metas de corto, mediano y largo plazo, a efecto de garantizar el equilibrio y balance sostenible de las finanzas públicas del Estado.
+
+B.O. 14 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DE LA “LEY NÚMERO 86, QUE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 8° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
