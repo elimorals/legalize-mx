@@ -4,7 +4,7 @@ identifier: "LGCC"
 country: "mx"
 rank: "ley_general"
 publication_date: "2012-06-06"
-last_updated: "2022-05-11"
+last_updated: "2023-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88121&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCC"
 
 LEY GENERAL DE CAMBIO CLIMÁTICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 6 de junio de 2012.
 
@@ -93,6 +93,10 @@ II. Adaptación: Medidas y ajustes en sistemas humanos o naturales, como respues
 > <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2014)</small>
 
 III. Atlas de riesgo: Documento dinámico cuyas evaluaciones de riesgo en asentamientos humanos, regiones o zonas geográficas vulnerables, consideran los actuales y futuros escenarios climáticos.
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2023)</small>
+
+III Bis. Atlas Nacional de Vulnerabilidad al Cambio Climático: Conjunto estructurado y sistemático de mapas que muestran la vulnerabilidad ante el cambio climático y orientan la realización de estrategias dentro del proceso de planeación y adaptación.
 
 IV. Cambio climático: Variación del clima atribuido directa o indirectamente a la actividad humana, que altera la composición de la atmósfera global y se suma a la variabilidad natural del clima observada durante períodos comparables.
 
@@ -216,9 +220,9 @@ II. Elaborar, coordinar y aplicar los instrumentos de política previstos por es
 
 III. Formular, conducir y publicar, con la participación de la sociedad, la Estrategia Nacional, el Programa, y las contribuciones determinadas a nivel nacional, así como llevar a cabo su instrumentación, seguimiento y evaluación;
 
-> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2023)</small>
 
-IV. Elaborar, actualizar, publicar y aplicar el atlas nacional de riesgo y la Política Nacional de Adaptación, y emitir los criterios para la elaboración de los atlas de riesgo estatales;
+IV. Elaborar, actualizar, publicar y aplicar el Atlas Nacional de Riesgo y la Política Nacional de Adaptación, y emitir los criterios para la elaboración de los atlas de riesgo de las entidades federativas, considerando la información del Atlas Nacional de Vulnerabilidad al Cambio Climático;
 
 V. Establecer procedimientos para realizar consultas públicas a la sociedad en general, los sectores público y privado, con el fin de formular la Estrategia Nacional y el Programa;
 
@@ -360,7 +364,9 @@ XI. Promover la participación corresponsable de la sociedad en la adaptación y
 
 XII. Elaborar e integrar, en colaboración con el INECC, la información de las categorías de fuentes emisoras de su jurisdicción, para su incorporación al Inventario Nacional de Emisiones y en su caso, integrar el inventario estatal de emisiones, conforme a los criterios e indicadores elaborados por la federación en la materia;
 
-XIII. Elaborar, publicar y actualizar el atlas estatal de riesgo, en coordinación con sus municipios o delegaciones, conforme a los criterios emitidos por la federación;
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2023)</small>
+
+XIII. Elaborar, publicar y actualizar los atlas de riesgo de su competencia, con información proporcionada por el Atlas Nacional de Riesgo y el Atlas Nacional de Vulnerabilidad al Cambio Climático, en coordinación con sus municipios o demarcaciones territoriales, conforme a los criterios emitidos por la federación;
 
 XIV. Establecer las bases e instrumentos para promover el fortalecimiento de capacidades institucionales y sectoriales para enfrentar al cambio climático;
 
@@ -622,9 +628,15 @@ XXVI. Publicar libros, publicaciones periódicas, catálogos, manuales, artícul
 
 XXVII. Participar en la difusión de la información científica ambiental entre los sectores productivos, gubernamentales y sociales;
 
-XXVIII. Funcionar como laboratorios de referencia en materia de análisis y calibración de equipos de medición de contaminantes atmosféricos, residuos peligrosos, así como en la detección e identificación de organismos genéticamente modificados, y
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2023)</small>
 
-XXIX. Ejercer las atribuciones que expresamente le confieran otras leyes como organismo público descentralizado y las que se determinen en su Estatuto Orgánico.
+XXVIII. Funcionar como laboratorios de referencia en materia de análisis y calibración de equipos de medición de contaminantes atmosféricos, residuos peligrosos, así como en la detección e identificación de organismos genéticamente modificados;
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2023)</small>
+
+XXIX. Elaborar, actualizar, publicar y difundir el Atlas Nacional de Vulnerabilidad al Cambio Climático, y
+
+XXX. Ejercer las atribuciones que expresamente le confieran otras leyes como organismo público descentralizado y las que se determinen en su Estatuto Orgánico.
 
 ### CAPÍTULO II. DE LA COORDINACIÓN DE EVALUACIÓN
 
@@ -764,7 +776,13 @@ IX. El aprovechamiento sustentable en los distritos de desarrollo rural;
 
 X. El establecimiento y conservación de las áreas naturales protegidas y corredores biológicos;
 
-XI. La elaboración de los atlas de riesgo;
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2023)</small>
+
+X Bis. La elaboración y actualización del Atlas Nacional de Vulnerabilidad al Cambio Climático;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2023)</small>
+
+XI. La elaboración y actualización de los atlas de riesgo tomando en consideración la información del Atlas Nacional de Vulnerabilidad al Cambio Climático;
 
 XII. La elaboración y aplicación de las reglas de operación de programas de subsidio y proyectos de inversión;
 
@@ -784,11 +802,13 @@ XVIII. La infraestructura estratégica en materia de abasto de agua, servicios d
 
 Las dependencias y entidades de la administración pública federal centralizada y paraestatal, las entidades federativas y los municipios, en el ámbito de sus competencias, implementarán acciones para la adaptación conforme a las disposiciones siguientes:
 
-I. Elaborar y publicar los atlas de riesgo que consideren los escenarios de vulnerabilidad actual y futura ante el cambio climático, atendiendo de manera preferencial a la población más vulnerable y a las zonas de mayor riesgo, así como a las islas, zonas costeras y deltas de ríos;
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2016)</small>
+I. Elaborar y publicar los atlas de riesgo que consideren los escenarios de vulnerabilidad actual y futura ante el cambio climático, tomando en consideración la información del Atlas Nacional de Vulnerabilidad al Cambio Climático, atendiendo de manera preferencial a la población más vulnerable y a las zonas de mayor riesgo, así como a las islas, zonas costeras y deltas de ríos;
 
-II. Utilizar la información contenida en los atlas de riesgo para la elaboración de los planes de desarrollo urbano, reglamentos de construcción y ordenamiento territorial de las entidades federativas y municipios; y para prevenir y atender el posible desplazamiento interno de personas provocado por fenómenos relacionados con el cambio climático.
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2023)</small>
+
+II. Utilizar la información contenida tanto en los atlas de riesgo como en el Atlas Nacional de Vulnerabilidad al Cambio Climático, para la elaboración de los planes de desarrollo urbano, reglamentos de construcción y ordenamiento territorial de las entidades federativas, los municipios; y para prevenir y atender el posible desplazamiento interno de personas provocado por fenómenos relacionados con el cambio climático;
 
 III. Proponer e impulsar mecanismos de recaudación y obtención de recursos, para destinarlos a la protección y reubicación de los asentamientos humanos más vulnerables ante los efectos del cambio climático;
 
@@ -2031,3 +2051,9 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
 
 Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+D.O.F. 15 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE CAMBIO CLIMÁTICO”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
