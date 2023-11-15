@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-del-135186
 country: "mx"
 rank: "ley"
 publication_date: "2019-03-29"
-last_updated: "2021-07-02"
+last_updated: "2023-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Décima Tercera Sección al Número 17 del Periódico Oficial del Estado de Michoacán, el viernes 29 de marzo de 2019.
 
@@ -67,15 +67,21 @@ La Auditoría Superior de Michoacán revisará, fiscalizará y evaluará la gest
 
 La Auditoría Superior de Michoacán, la Comisión Inspectora de la Auditoría Superior de Michoacán y el Congreso, deberán guardar reserva de sus actuaciones y observaciones hasta la presentación del Informe General Ejecutivo o, en su caso, en los términos del artículo 8° de la Constitución del Estado. Quienes infrinjan lo anterior serán sancionados conforme a lo dispuesto en la normatividad en materia de responsabilidades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 3.
 
-Para los efectos de esta ley se entenderá por:
+Para los efectos de esta Ley se entenderá por:
 
 I. Auditor Superior: El titular de la Auditoría Superior de Michoacán;
 
 II. Auditoría Superior: Auditoría Superior de Michoacán;
 
 III. Comisión: La Comisión Inspectora de la Auditoría Superior de Michoacán;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+III Bis. Comité: Comité de Dirección de la Auditoría Superior de Michoacán;
 
 IV. Comunidades o consejos indígenas y ciudadanos: Todas aquellas comunidades, consejos indígenas o ciudadanos que derivado de una resolución jurisdiccional hayan accedido a la transferencia y manejo directo de sus recursos públicos;
 
@@ -121,6 +127,10 @@ XXIV. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Est
 
 XXV. Recursos públicos: Fondos, valores, numerario o recursos bajo el manejo, custodia o aplicación de las Entidades;
 
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+XXV Bis. Reglamento: Reglamento Interior de la Auditoría Superior de Michoacán;
+
 XXVI. Servidores públicos: Los señalados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado y la normatividad general y estatal en materia de responsabilidades administrativas;
 
 XXVII. Tribunal de Justicia Administrativa: Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo;
@@ -128,6 +138,10 @@ XXVII. Tribunal de Justicia Administrativa: Tribunal de Justicia Administrativa 
 XXVIII. Unidad: La Unidad de Evaluación y Control de la Comisión; y,
 
 XXIX. Unidad de Medida y Actualización: La referencia económica en su valor diario establecido por el Instituto Nacional de Estadística y Geografía, para determinar la cuantía del pago de las obligaciones y supuestos previstos en la presente ley.
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+XXX. Normatividad secundaria, los manuales, normas técnicas, lineamientos o disposiciones secundarias que expida la Auditoría Superior acordes a la presente Ley y los reglamentos, con la aprobación de la Comisión.
 
 ### CAPÍTULO II. INTEGRACIÓN Y ORGANIZACIÓN
 
@@ -157,15 +171,35 @@ De acuerdo a las necesidades y a su presupuesto, la Auditoría Superior contará
 
 Para ser Auditor Superior deberán cumplirse los requisitos siguientes:
 
-I. Ser mexicano y tener mínimo treinta y cinco años cumplidos al inicio de su gestión;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
 
-II. Deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades;
+I. Ser mexicano y tener mínimo treinta y cinco años cumplidos al inicio de su gestión, en pleno ejercicio de sus derechos políticos y civiles;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+II. Deberá contar con experiencia de cinco años en materia de control, fiscalización y de responsabilidades;
 
 III. Poseer al día del nombramiento, título y cédula profesional debidamente registrados en las carreras de Contaduría Pública, Administración, Economía, Derecho o área afín;
 
 IV. Otorgar fianza administrativa ante el Congreso por el importe que las disposiciones normativas determinen para el cumplimiento de sus funciones; y,
 
 V. No haber sido condenado mediante sentencia ejecutoriada por delito doloso que amerite pena privativa de la libertad.
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+VI. No pertenecer al estado eclesiástico ni ser ministro de algún culto religioso, a menos de que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+VII. No haber sido Titular del Poder Ejecutivo Estatal; Secretario de Estado; Fiscal General del Estado; Diputado Local; Magistrado de cualquier Tribunal; titular o en su caso comisionado de algún órgano constitucionalmente autónomo; dirigente de algún partido político; delegado, tesorero y titular de las administraciones o finanzas en la administración pública estatal o municipal; durante los tres años previos al de su nombramiento;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+VIII. No tener parentesco de consanguinidad o afinidad hasta el tercer grado, con los titulares de los Poderes o sus Secretarios; y,
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+IX. No haber sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público ni removido por causa grave.
 
 ###### Artículo 6.
 
@@ -193,11 +227,21 @@ IV. Concluido el plazo anterior y dentro de los cinco días hábiles siguientes 
 
 V. La persona designada para ocupar el cargo protestará ante el Pleno del Congreso.
 
-El Auditor Superior durará en su encargo siete años. Será electo y removido en los términos y por las causas previstas en la Constitución, en la normatividad aplicable a las responsabilidades administrativas y en la presente ley.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+El Auditor Superior durará en su encargo siete años. Será electo y removido en los términos y por las causas previstas en la Constitución, en la normatividad aplicable a las responsabilidades administrativas y en la presente Ley.
+
+(REPUBLICADO, P.O. 15 DE NOVIEMBRE DE 2023)
 
 Los auditores especiales durarán en su encargo cinco años y serán designados de forma escalonada.
 
-En ningún caso el Auditor Superior y los auditores especiales podrán reelegirse para el mismo cargo.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+En ningún caso el Auditor Superior y los Auditores Especiales podrán reelegirse para el mismo cargo.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+Los Auditores Especiales y Titular de la Unidad de Evaluación y Control, serán designados por el Congreso bajo el mismo procedimiento de elección del Auditor Superior.
 
 ###### Artículo 9.
 
@@ -208,6 +252,10 @@ I. Análisis curricular, que será ponderado de acuerdo con la materia del cargo
 II. Examen de conocimientos, cuyos resultados atendiendo al principio de máxima publicidad, serán públicos, mediante un proceso transparente, donde se garantice la inmediatez de los resultados y cuyos reactivos de evaluación serán creados por instituciones de educación superior, colegios de profesionistas y organizaciones de la sociedad civil; y,
 
 III. Comparecencia ante el órgano dictaminador, la cual será evaluada tomando en cuenta la organización en su presentación, el conocimiento del tema, y su capacidad de respuesta en las réplicas.
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+IV. Presentar carta de no conflicto de intereses.
 
 La ponderación de cada etapa será proporcional y acumulativa, sirviendo de referencia para la designación de los servidores públicos señalados.
 
@@ -221,13 +269,17 @@ II. Absolver posiciones, siempre y cuando se formulen por medio de oficio expedi
 
 III. Elaborar el proyecto de presupuesto anual de la Auditoría Superior y remitirlo al Congreso, a través de la Comisión para su revisión, modificación y aprobación;
 
-IV. Elaborar y aprobar los reglamentos y disposiciones normativas necesarias para el ejercicio de las funciones y atribuciones de la Auditoría Superior. Todo reglamento y disposición normativa deberá ser publicado en el Periódico Oficial;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+IV. Elaborar los proyectos de reglamentos y disposiciones normativas secundarias necesarias para el ejercicio de las funciones y atribuciones de la Auditoría Superior, los cuales, previa autorización del Comité de Dirección, serán remitidos a la Comisión, para su revisión y aprobación, y posterior publicación en el Periódico Oficial;
 
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2020)</small>
 
 V. Elaborar y presentar ante la Comisión Inspectora de la Auditoría Superior de Michoacán, los lineamientos para requerir, tramitar, recibir, registrar, aplicar y determinar los montos de las fianzas a los servidores públicos que recauden, ejerzan, administren, controlen, manejen o custodien recursos públicos, en los términos de esta Ley;
 
-VI. Elaborar el Programa Operativo Anual de la Auditoría Superior, estableciendo indicadores suficientes para evaluar su desempeño;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+VI. Elaborar en coordinación con la Auditoría Especial de Normatividad el Programa Operativo Anual de la Auditoría Superior, estableciendo indicadores suficientes para evaluar su desempeño; para su posterior aprobación del Comité;
 
 VII. Presentar al Comité de Dirección de la Auditoría Superior, en el mes de noviembre de cada año, el proyecto de plan anual de fiscalización del siguiente ejercicio fiscal. Dicho plan deberá publicarse en su página oficial de internet;
 
@@ -251,7 +303,9 @@ XVI. Encabezar la administración del Fondo de conformidad a lo que establece su
 
 XVII. Presidir el Comité de Dirección de la Auditoría Superior;
 
-XVIII. Emitir la normatividad secundaria necesaria para el cumplimiento de sus atribuciones de fiscalización, que deberán observar las Entidades y los servidores públicos de la Auditoría Superior, conforme a las leyes y reglamentos que expida el Congreso, previa autorización de la Comisión, los cuales deberán ser publicados en el Periódico Oficial;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+XVIII. Presentar la normatividad secundaría aprobada por el Comité para autorización de la Comisión, misma que deberán observar las Entidades y los servidores públicos de la Auditoría Superior, conforme a las leyes y reglamentos que expida el Congreso, una vez publicados en el Periódico Oficial;
 
 XIX. Verificar que los expedientes dentro de los cuales no se hayan presentado informes de presunta responsabilidad administrativa o promociones de responsabilidad administrativa ante el Tribunal de Justicia Administrativa o ante los órganos internos de control, respectivamente, sean archivados;
 
@@ -284,6 +338,44 @@ II. Fiscalización Estatal; y,
 III. Fiscalización Municipal.
 
 En caso de falta definitiva, la Comisión dará cuenta al Congreso para que designe, en términos de esta ley, al Auditor que concluirá el encargo. La Comisión deberá ser notificada por cualquier servidor público de la Auditoría Superior que tenga conocimiento fundado de la falta definitiva.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 11 A. Corresponde a la Auditoría Especial de Normatividad el ejercicio de las atribuciones siguientes:
+
+I. Elaborar los proyectos de normativa que requiera la Auditoría Superior para el cumplimiento de sus atribuciones;
+
+II. Elaborar en coordinación con las auditorias especiales el proyecto del plan anual de fiscalización del ejercicio fiscal correspondiente;
+
+III. Elaborar los informes que deba rendir la Auditoría Superior de Michoacán a la Comisión, excepto el Informe Individual de las entidades fiscalizadas;
+
+IV. Ser parte integrante del Comité; y,
+
+V. Las demás que le confiera la Ley, el reglamento, los manuales administrativos y el Auditor Superior.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 11 B. Corresponde a la Auditoría Especial de Fiscalización Estatal las atribuciones siguientes:
+
+I. Fiscalizar la Cuenta Pública de la Hacienda Estatal;
+
+II. Elaborar los Informes Individuales derivados de las auditorías practicadas;
+
+III. Ser parte integrante del Comité; y,
+
+IV. Las demás que le confiera la Ley, el reglamento, los manuales administrativos y el Auditor Superior.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 11 C. Corresponde a la Auditoría Especial de Fiscalización Municipal, las atribuciones siguientes:
+
+I. Fiscalizar la Cuenta Pública de la Hacienda Pública Municipal;
+
+II. Elaborar los Informes Individuales derivados de las auditorías practicadas;
+
+III. Ser parte integrante del Comité; y,
+
+IV. Las demás que le confiera la normativa aplicable, Ley, el reglamento, los manuales administrativos y el Auditor Superior.
 
 ###### Artículo 12.
 
@@ -387,9 +479,13 @@ XVIII. Expedir constancias, copias simples o certificadas de los documentos obte
 
 XIX. Operar y desarrollar el Servicio Civil de Carrera, para la profesionalización de la fiscalización bajo los procedimientos de reclutamiento, contratación, capacitación, promoción y evaluación permanente;
 
-XX. Entregar a la Comisión a través de la Unidad, trimestralmente los informes sobre el gasto de su presupuesto, y mensualmente sobre los estados financieros del Fondo y sobre la contratación de profesionales externos especializados;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
 
-XXI. Auditar obras públicas, comprendiendo la revisión legal, ocular, paramétrica, de congruencia y contable de las obras que se seleccionen, abarcando el cumplimiento de los programas anuales o multianuales, de los planes de desarrollo, que los procesos de planeación, programación, presupuestación, adjudicación, contratación, enajenación, la correcta aplicación del presupuesto asignado, ejecución, finiquito y destino de las obras públicas y demás inversiones públicas, que la ejecución de obras bajo la modalidad de administración directa y de servicios relacionados se hayan ajustado a la legalidad;
+XX. Entregar a la Comisión trimestralmente los informes sobre el gasto de su presupuesto, y mensualmente sobre los estados financieros del Fondo y sobre la contratación de profesionales externos especializados;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+XXI. Auditar la obra pública de acuerdo a la normatividad aplicable;
 
 XXII. Fiscalizar bienes adquiridos y servicios contratados por las Entidades fiscalizadas para comprobar si los procesos de adjudicación y contratación, así como la aplicación de los recursos de las inversiones y los gastos autorizados se ejercieron en los términos de las disposiciones legales aplicables;
 
@@ -491,7 +587,9 @@ Son funciones del Comité de Dirección, las siguientes:
 
 I. Aprobar el proyecto de plan anual de fiscalización y coordinar la participación de los titulares de las diferentes áreas encargadas de realizar auditorías, visitas e inspecciones, así como conocer de los avances y resultados al seguimiento de estas acciones de fiscalización;
 
-II. Planear la aplicación y recibir los informes de la aplicación del Fondo, de conformidad con las disposiciones contenidas en la reglamentación respectiva;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+II. Planear la ejecución y recibir un informe mensual de la aplicación del Fondo, de conformidad con las disposiciones contenidas en la reglamentación respectiva;
 
 III. Garantizar la capacitación y profesionalización del personal de la Auditoría Superior, así como de la aplicación de los programas y acciones en esta materia;
 
@@ -503,7 +601,17 @@ VI. Colaborar en la elaboración y aprobación, cuando así esté facultado, de 
 
 VII. Implementar el servicio civil de carrera; y,
 
-VIII. Revisar y coadyuvar en la elaboración del proyecto del Programa Operativo Anual de la Auditoría Superior.
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+VIII. Revisar y coadyuvar en la elaboración del proyecto del Programa Operativo Anual de la Auditoría Superior, así como su aprobación;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+IX. El estudio, análisis y aprobación de la normativa secundaria necesaria para el ejercicio de las funciones y atribuciones de la Auditoría Superior; y,
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+X. Coadyuvar en la elaboración del proyecto del presupuesto anual de la Auditoría Superior, así como su aprobación.
 
 ###### Artículo 22.
 
@@ -563,7 +671,9 @@ XII. Ordenar a la Unidad la práctica de auditorías a la Auditoría Superior;
 
 XIII. Aprobar los indicadores que utilizará la Unidad para la evaluación del desempeño de la Auditoría Superior y, en su caso, los elementos metodológicos que sean necesarios para dicho efecto y los indicadores de la Unidad;
 
-XIV. Conocer el Reglamento Interior de la Auditoría Superior;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+XIV. Conocer para su revisión y aprobación, las modificaciones al reglamento interior de la Auditoría Superior de Michoacán;
 
 XV. Analizar la información en materia de fiscalización superior, de contabilidad y auditoría gubernamentales y de rendición de cuentas, y podrá solicitar la comparecencia de servidores públicos vinculados con los resultados de la fiscalización;
 
@@ -855,6 +965,16 @@ Para los procesos de fiscalización, la Auditoría Superior podrá solicitar inf
 
 La Auditoría Superior emitirá la normatividad secundaria aplicable a los procesos de fiscalización por medios electrónicos o digitales, así como la normatividad relativa a los protocolos de seguridad que para tal efecto se implementen. La información y documentación así obtenida, tendrá para todos los efectos legales, pleno valor probatorio.
 
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 48 Bis (SIC). Los servidores públicos sujetos de fiscalización en el ámbito Estatal, Municipal, Órganos Desconcentrados y/o Descentralizados Estatales o Municipales, deberán:
+
+I. Dentro de los treinta días naturales siguientes a la toma de posesión del cargo respectivo, señalar domicilio procesal en la ciudad de Morelia, Michoacán, a efecto de recibir notificaciones personales donde se les notificarán los resultados de las auditorías, revisiones a las cuentas públicas de la entidad auditable, el inicio del procedimiento de investigación, el inicio del procedimiento de substanciación, y en su caso, la remisión de expediente a la autoridad sancionadora que corresponda;
+
+II. Cuando concluyan el encargo que les fue conferido, dentro del término de treinta días naturales siguientes, deberán señalar nuevo domicilio en la capital del estado o ratificar el domicilio previamente designado, para los efectos señalados en la fracción anterior; y,
+
+III. Ante la omisión de señalar domicilio a que se refiere la fracción I, o de incumplir con lo establecido en la fracción que antecede, o en el supuesto de señalar un domicilio ficticio, todas las notificaciones se harán a través de los estrados y en la página de internet oficial de la Auditoría Superior de Michoacán, las cuales se tendrán por hechas y surtirán los efectos legales correspondientes al día siguiente al de su publicación.
+
 > <small>(ADICIONADO, P.O. 2 DE JULIO DE 2021)</small>
 
 ###### Artículo 48 Ter.
@@ -917,7 +1037,9 @@ La Auditoría Superior deberá incluir en el apartado específico de los informe
 
 Las auditorías que se efectúen en los términos de esta ley se practicarán por el personal expresamente comisionado para el efecto por la Auditoría Superior o mediante la contratación de despachos o profesionales independientes habilitados por la misma. Lo anterior, con excepción de aquellas auditorías en las que se maneje información en materia de seguridad pública, así como tratándose de investigaciones relacionadas con responsabilidades administrativas, las cuales serán realizadas directamente por la Auditoría Superior.
 
-En el caso de despachos o profesionales independientes, previamente a su contratación, la Auditoría Superior deberá cerciorarse y recabar la manifestación por escrito de éstos de no encontrarse en conflicto de intereses con las Entidades fiscalizadas ni con la propia Auditoría.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+En el caso de despachos o profesionales independientes, previamente a su contratación, la Auditoría Superior deberá cerciorarse y recabar la manifestación por escrito de éstos de no encontrarse en conflicto de intereses con las entidades fiscalizadas ni con la propia Auditoría, además de que esté contemplada en el Plan Anual de Fiscalización del ejercicio correspondiente y contar con la disponibilidad presupuestaria.
 
 Asimismo, los servidores públicos de la Auditoría Superior y los despachos o profesionales independientes tendrán la obligación de abstenerse de conocer asuntos referidos a las Entidades fiscalizadas en las que hubiesen prestado servicios, de cualquier índole o naturaleza, o con los que hubieran mantenido cualquier clase de relación contractual durante el periodo que abarque la revisión de que se trate, o en los casos en que tengan conflicto de interés en los términos previstos en la normatividad en materia de responsabilidades administrativas.
 
@@ -1374,3 +1496,13 @@ P.O. 2 DE JULIO DE 2021.
 Primero. El presente Decreto entrará en vigor al día siguiente al de su aprobación. Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. La Auditoría Superior de Michoacán realizará y adecuará las disposiciones normativas correspondientes, a fin de poner en funcionamiento el sistema informático para los procesos de fiscalización a través de medios electrónicos y digitales, dentro del plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 15 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 450 POR EL QUE “SE ADICIONAN LAS FRACCIONES III BIS, XXV BIS Y XXX AL ARTÍCULO 3; SE REFORMAN LAS FRACCIONES I Y II Y SE ADICIONAN LAS FRACCIONES VI, VII, VIII Y IX AL ARTÍCULO 5; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 8; SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 9; SE REFORMAN LAS FRACCIONES IV, VI Y XVIII DEL ARTÍCULO 10; SE ADICIONAN LOS ARTÍCULOS 11 A, 11 B Y 11 C; SE REFORMAN LAS FRACCIONES XX Y XXI DEL ARTÍCULO 16; SE REFORMAN LAS FRACCIONES II Y VIII; Y, SE ADICIONAN LAS FRACCIONES IX Y X AL ARTÍCULO 21; SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 25; SE ADICIONA EL ARTÍCULO 48 BIS; Y, SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 54, TODOS DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Notifíquese el presente Decreto al Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. Notifíquese el presente Decreto a la Auditoría Superior de Michoacán, para que una vez entrado en vigor, emita en el término de 90 días naturales un nuevo Reglamento Interior de la Auditoría Superior de Michoacán.
