@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-intereses-1293
 country: "mx"
 rank: "codigo"
 publication_date: "2018-05-09"
-last_updated: "2018-05-09"
+last_updated: "2023-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERESES DE LA SECRETARIA DE ADMINISTRACION DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA DE ADMINISTRACIÓN DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 15 DE NOVIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA DE ADMINISTRACIÓN DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2023 (DEROGADO).
 
 Código publicado en el Número 56 del Periódico Oficial, el miércoles 9 de mayo de 2018.
 
@@ -320,3 +322,29 @@ Valores: Características que distinguen la actuación de los servidores públic
 Cd. Victoria, Tam., a 24 de enero de 2018.
 
 ATENTAMENTE.- EL SECRETARIO DE ADMINISTRACIÓN DEL ESTADO DE TAMAULIPAS.- LIC. JESUS ANTONIO NADER NASRALLAH.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA DE ADMINISTRACIÓN DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Conducta entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Código de Conducta y Prevención de Conflictos de Interés de la Secretaría de Administración del Estado de Tamaulipas, publicado en el Periódico Oficial del Estado Número 56, Tomo CXLIII, el día 9 de mayo de 2018.
+
+###### ARTÍCULO TERCERO.
+
+Los casos no previstos en este Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos de la Secretaría de Administración del Gobierno del Estado de Tamaulipas, serán resueltos por el Comité de Ética, Conducta y Prevención de Conflictos de Interés de la Secretaría de Administración, a propuesta de su presidente o presidenta.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos administrativos que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Código, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron tales procedimientos.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Código.
