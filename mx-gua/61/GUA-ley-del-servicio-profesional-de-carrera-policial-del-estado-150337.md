@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-servicio-profesional-de-carrera-policial-del-estado-150
 country: "mx"
 rank: "ley"
 publication_date: "2021-07-19"
-last_updated: "2023-10-24"
+last_updated: "2023-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL ESTADO Y MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Segundo Parte al Número 142 del Periódico Oficial del Estado de Guanajuato, el lunes 19 de julio de 2021.
 
@@ -148,6 +148,14 @@ Quienes formen parte del Servicio tendrán los siguientes derechos:
 I. Percibir un salario remunerador conforme a su rango y el presupuesto que corresponda;
 
 II. Gozar de las prestaciones, así como recibir oportuna atención médica y el tratamiento adecuado, cuando sufran lesiones en el cumplimiento del deber, en la institución pública o privada más cercana al lugar de los hechos y contar con un seguro de vida;
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+En el caso de las mujeres, tendrán derecho durante el período de gravidez a ser cambiadas de su área de adscripción a otra distinta, con el fin de no poner en riesgo su salud y la del producto; así como a que les sea garantizado el derecho humano a la lactancia materna y acceder a acciones integrales que garanticen su salud reproductiva y seguimiento gestacional.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+Los derechos referidos en el párrafo anterior surten efectos a partir del aviso de gravidez que realice la integrante de la institución de seguridad pública a su superior jerárquico.
 
 III. Estar recluidos en áreas especiales para el personal de la policía, en los casos en que sean sujetos a prisión;
 
@@ -780,3 +788,17 @@ P.O. 24 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 222. SE REFORMA LA FRACCIÓN II Y SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 29 DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL ESTADO Y MUNICIPIOS DE GUANAJUATO; SE REFORMAN LAS FRACCIONES V DE LOS ARTÍCULOS 8, 11, 13, 15, 17 Y LA FRACCIÓN III DEL ARTÍCULO 66 DE LA LEY DE JUSTICIA CÍVICA DEL ESTADO DE GUANAJUATO; SE DEROGAN LAS FRACCIONES VIII DEL ARTÍCULO 11; VII DEL ARTÍCULO 21 Y LA V DEL ARTÍCULO 23 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO; SE REFORMAN EL ARTÍCULO 5 Y LA FRACCIÓN II DEL ARTÍCULO 26 DE LA LEY PARA LA BÚSQUEDA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE GUANAJUATO; SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 23 DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE GUANAJUATO; Y SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 89 Y LA FRACCIÓN III DEL ARTÍCULO 169 Y, SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 165, DE LA LEY DE VÍCTIMAS DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 15 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 230. MEDIANTE EL QUE SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO A LA FRACCIÓN II DEL ARTÍCULO 10 DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL ESTADO Y MUNICIPIOS DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. En el caso de la integrante de la institución de seguridad pública que al momento de entrada en vigor del presente Decreto se encuentre en estado de gravidez, le será aplicable el derecho al cambio de adscripción.
+
+Artículo Tercero. El cambio de adscripción al que acceda la integrante de la institución de seguridad pública en estado de gravidez no implicará la disminución en sus percepciones, ni afectará sus derechos laborales.
+
+Artículo Cuarto. Las instituciones de seguridad pública tendrán un plazo de 180 días a partir de la entrada en vigor del presente Decreto para realizar las previsiones o adecuaciones normativas necesarias para dar cumplimiento a las obligaciones previstas en el presente Decreto.
+
+Artículo Quinto. Las autoridades correspondientes deberán integrar de manera progresiva en su presupuesto, los recursos para el cumplimiento del presente Decreto.
