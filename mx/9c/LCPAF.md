@@ -4,7 +4,7 @@ identifier: "LCPAF"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-22"
-last_updated: "2020-12-01"
+last_updated: "2023-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LCPAF"
 ---
 # LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de diciembre de 1993.
 
@@ -151,6 +153,10 @@ VII. (DEROGADA, D.O.F. 4 DE ENERO DE 1999)
 VIII. Establecer las bases generales de regulación tarifaria.
 
 Las motocicletas deberán pagar el 50 por ciento del peaje que paguen los automóviles, y
+
+> <small>(ADICIONADO, D.O.F. 15 DE NOVIEMBRE DE 2023)</small>
+
+Los permisionarios del servicio de autotransporte federal de pasajeros, con apego en la ley y en su normatividad interna, podrán ofrecer el 50 por ciento de descuento a estudiantes de educación media superior y superior, durante todo el año, y
 
 IX. Las demás que señalen otras disposiciones legales aplicables.
 
@@ -389,6 +395,12 @@ Es de utilidad pública la construcción, conservación y mantenimiento de los c
 En el caso de compra venta, ésta podrá llevarse a cabo a través de los interesados, por cuenta de la Secretaría.
 
 Los terrenos y aguas nacionales así como los materiales existentes en ellos, podrán ser utilizados para la construcción, conservación y mantenimiento de los caminos y puentes conforme a las disposiciones legales.
+
+> <small>(ADICIONADO, D.O.F. 15 DE NOVIEMBRE DE 2023)</small>
+
+ARTICULO 22 BIS.- Para el diseño de nuevas construcciones de caminos, carreteras y autopistas, así como en la modernización de las existentes, la Secretaría, observando la protección y conservación de los ecosistemas, deberá contemplar, en su diseño y en su plan de conservación, la implantación de pasos de fauna.
+
+Para los efectos del presente artículo se entenderá como pasos de fauna a las estructuras transversales a un camino, carretera o autopista con el objetivo de habilitar el paso seguro de fauna silvestre a los hábitat fragmentados por la construcción de dichas vías de comunicación.
 
 ###### ARTICULO 23.
 
@@ -1157,3 +1169,17 @@ D.O.F. 1 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 36 DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN TERCER PÁRRAFO A LA FRACCIÓN VIII DEL ARTÍCULO 5o. DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 22 BIS A LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL”.]
+
+Primero.- El presente Decreto entrará en vigor a los 90 días naturales siguientes al día de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Titular del Ejecutivo Federal, por conducto de la Secretaría de Infraestructura, Comunicaciones y Transportes deberá modificar la norma N-LEG-3/07 correspondiente al libro legislación parte 3, "Ejecución de obras", en un plazo no mayor de 90 días naturales, contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación.
