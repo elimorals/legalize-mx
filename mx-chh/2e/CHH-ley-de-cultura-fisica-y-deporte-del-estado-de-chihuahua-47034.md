@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cultura-fisica-y-deporte-del-estado-de-chihuahua-47034"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-19"
-last_updated: "2023-08-02"
+last_updated: "2023-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 2005.
 
@@ -1541,9 +1541,9 @@ En el desarrollo de la investigación y conocimientos científicos, deberán par
 
 El Instituto participará en la elaboración de programas de capacitación en actividades de activación física, cultura física y deporte con las dependencias y entidades de la Administración Pública Estatal y Municipal, organismos públicos, sociales y privados, estatales y nacionales, para el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la cultura física y deporte.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
 
-En los citados programas, se deberá contemplar la capacitación respecto a la atención de las personas con algún tipo de discapacidad.
+En los citados programas, se deberá contemplar la capacitación respecto a la atención de las personas con algún tipo de discapacidad; así como de la prevención y control en materia de desnutrición, obesidad, sobrepeso y trastornos de la conducta alimentaria, con la finalidad de promover una imagen corporal positiva.
 
 ###### Artículo 86.
 
@@ -2526,3 +2526,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Para los efectos previstos en el presente Decreto, la autoridad estatal y las autoridades municipales, relativos a la capacitación y equipamiento, llevarán a cabo las medidas organizativas, presupuestales y en su caso reglamentarias, durante el resto del presente ejercicio fiscal 2023; en lo que resultare necesario.
+
+P.O. 15 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVII/RFLEY/0622/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
