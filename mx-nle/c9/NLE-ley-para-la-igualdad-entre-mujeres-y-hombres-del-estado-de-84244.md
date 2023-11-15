@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-8424
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-26"
-last_updated: "2019-10-18"
+last_updated: "2023-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de diciembre de 2011.
 
@@ -107,9 +107,21 @@ I. La Ley del Instituto Estatal de las Mujeres;
 
 II. La Ley de Acceso de las Mujeres a una Vida Libre de Violencia;
 
-III. La Ley que Crea la Comisión Estatal de Derechos Humanos; y
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
 
-IV. Los contenidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados, convenciones e instrumentos internacionales de los que México sea parte ratificados por el Senado, la legislación federal, la Constitución Política del Estado Libre y Soberano de Nuevo León y la legislación de la Entidad.
+III.- La Ley que Crea la Comisión Estatal de Derechos Humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+IV. Ley para Prevenir y Eliminar la Discriminación en el Estado de Nuevo León;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+V. Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Nuevo León; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN IV], P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+VI. Los contenidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados, convenciones e instrumentos internacionales de los que México sea parte ratificados por el Senado, la legislación federal, la Constitución Política del Estado Libre y Soberano del Estado de Nuevo León y la legislación de la Entidad.
 
 ## TÍTULO II. DE LAS AUTORIDADES E INSTITUCIONES
 
@@ -393,7 +405,9 @@ VIII. Secretaría de Salud;
 
 IX. Secretaría de Desarrollo Económico;
 
-X. Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+X. Secretaría de Igualdad e Inclusión;
 
 XI. Secretaría del Trabajo;
 
@@ -1124,3 +1138,9 @@ P.O. 18 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 171. SE REFORMA EL ARTÍCULO 19 FRACCIÓN V DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 15 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 370. SE TIENEN POR RECIBIDAS EN TIEMPO Y FORMA LAS OBSERVACIONES AL DECRETO NÚMERO 370, POR EL QUE SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 7 Y LA FRACCIÓN X DEL ARTÍCULO 26, Y SE ADICIONAN LAS FRACCIONES V Y VI AL ARTÍCULO 7, TODOS DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
