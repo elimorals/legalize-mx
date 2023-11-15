@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-16157
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2022-12-22"
-last_updated: "2023-04-27"
+last_updated: "2023-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161575&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL 2023
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Décima Tercera Sección al Núm. 91 del Periódico Oficial del Estado de Michoacán, el jueves 22 de diciembre de 2022.
 
@@ -3395,6 +3395,14 @@ IX. Los demás que considere necesarios el Instituto Registral y Catastral del E
 
 OCTAVO. Previo al cumplimiento de los requisitos que establece la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo y su Reglamento para tal efecto, así como el pago del derecho correspondiente, durante todo el Ejercicio Fiscal 2023, se podrán otorgar licencias de vigencia permanente de automovilista y motociclista, mismas que se podrán expedir de manera digital. El monto del derecho a pagar por las citadas licencias será de $2,500.00 (Dos mil quinientos pesos 00/100 M.N.), para las clasificaciones de automovilista y motociclista. El presente incentivo tendrá vigencia durante todo el Ejercicio Fiscal 2023.
 
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+OCTAVO BIS. En el período comprendido del quince de noviembre al quince de diciembre de dos mil veintitrés, en materia de Derechos por los Servicios de Expedición y Renovación de Licencias para Conducir Vehículos Automotores establecidos en el artículo 21 de esta Ley, se autoriza lo siguiente:
+
+A) Se otorgará, a través de la Secretaría de Seguridad Pública y en coordinación con la Secretaría de Finanzas y Administración, un subsidio del 50% en el pago de la renovación de Licencias de Conducir, en aquellos casos donde se acredite ante dichas secretarías, que la Licencia de Conducir contenga alguna irregularidad desde su expedición. Para ser sujeto del subsidio que se otorga, el contribuyente deberá acudir de manera presencial a cualquiera de las Administraciones y Receptorías de Rentas del Estado, presentar en original su Licencia de Conducir, permitir que se realice la verificación por parte del personal adscrito a tales Secretarías y realizar el pago del 50% correspondiente a la clasificación y temporalidad que elija.
+
+B) Se otorgará, a través de la Secretaría de Finanzas y Administración, un subsidio del 50% correspondiente a la clasificación y temporalidad que elija el contribuyente, a quienes por primera vez, por renovación o por reposición, soliciten la expedición de licencia de conducir tipo automovilista, chofer, motociclista o chofer del servicio público, así como a quienes soliciten la sustitución de licencia de conducir cuando haya sido expedida por autoridades de otra Entidad Federativa, siendo requisitos por parte del contribuyente, la presentación de escrito libre con la manifestación de interés en recibir el beneficio del subsidio de pago de derechos y que no exista multa y/o infracción en su contra.
+
 NOVENO. Para efecto de lo señalado en la Ley de Ingresos contenida en el presente Decreto, cuando esta haga mención del refrendo anual de circulación, la Secretaría de Finanzas y Administración, de acuerdo a las disposiciones legales aplicables, emitirá las reglas de carácter general que correspondan.
 
 DÉCIMO. Las facultades de coordinación de recaudación de ingresos, reservadas a la Subsecretaría de Ingresos a través de las oficinas recaudadoras del Estado, serán transferidas al Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, cuando se constituya como un órgano desconcentrado de la Secretaría de Finanzas y Administración, una vez que entre en vigor la Ley del Servicio de Administración Tributaria del Estado de Michoacán de Ocampo.
@@ -3430,3 +3438,9 @@ P.O. 27 DE ABRIL DE 2023.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Notifíquese al Poder Ejecutivo del Estado Estado (sic) y a la Secretaría de Finanzas y Administración del Gobierno del Estado, para sus efectos conducentes.
+
+P.O. 15 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 474 POR EL QUE "SE ADICIONA UN ARTÍCULO TRANSITORIO OCTAVO BIS A LA LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL 2023".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
