@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-jovenes-del-estado-de-michoacan-de-ocampo-81518"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-24"
-last_updated: "2023-07-07"
+last_updated: "2023-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS JÓVENES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la quinta sección del Periódico Oficial del Estado de Michoacán, el martes 24 de mayo de 2011.
 
@@ -521,9 +521,29 @@ II. Proponer al Consejo Regional la elaboración de estudios y proyectos orienta
 
 III. Promover la organización e integración de los jóvenes en el desarrollo de sus municipios, mediante su capacitación y participación;
 
-IV. Integrar un registro de todas las organizaciones juveniles dentro de su municipio, mismo que formará parte del Registro Estatal de Organismos y Asociaciones Juveniles, y que deberán entregar al Consejo Estatal; y,
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
 
-V. Proponer políticas públicas en materia de jóvenes dentro del Plan Municipal de Desarrollo.
+IV. Integrar un registro de todas las organizaciones juveniles dentro de su municipio, mismo que formará parte del Registro Estatal de Organismos y Asociaciones Juveniles, y que deberán entregar al Consejo Estatal;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+V. Proponer políticas públicas en materia de jóvenes dentro del Plan Municipal de Desarrollo;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+VI. Recibir información sobre la implementación de las políticas, planes y programas dirigidos a la juventud;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+VII. Promover la divulgación de los derechos y deberes de la juventud, y ser vocero de sus intereses e inquietudes;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+VIII. Ser un interlocutor entre las autoridades municipales y los jóvenes del municipio; y,
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+IX. Las demás que otorgue la Ley.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
 
@@ -674,5 +694,15 @@ P.O. 7 DE JULIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El Gobierno del Estado a través del Instituto contará con un máximo de noventa días hábiles para elaborar y publicar las reglas de operación así como los lineamientos de los programas que se generen por la publicación del presente Decreto.
+
+TERCERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos legales correspondientes.
+
+P.O. 15 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 451 POR EL QUE "SE REFORMAN LAS FRACCIONES IV Y V; Y, SE ADICIONAN LAS FRACCIONES VI, VII, VIII Y IX AL ARTÍCULO 31 DE LA LEY DE LOS JÓVENES DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese a los 111 Ayuntamientos, al Concejo Mayor de Cherán y al Concejo Municipal de Penjamillo, para que informen a sus Consejos Juveniles Municipales.
 
 TERCERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos legales correspondientes.
