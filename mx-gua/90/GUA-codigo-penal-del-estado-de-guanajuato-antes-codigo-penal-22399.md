@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2023-04-24"
+last_updated: "2023-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE ABRIL DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2023.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -1503,7 +1501,7 @@ A quien ejerciendo la patria potestad o la tutela infiera lesiones a los menores
 
 ### CAPÍTULO IV. FEMINICIDIO
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 152.
 
@@ -1553,7 +1551,13 @@ En el caso a que se refiere la fracción VII, además de las punibilidades previ
 
 ###### Artículo 153
 
-a.- Habrá feminicidio cuando la víctima del homicidio sea mujer y la privación de la vida se cometa por razones de género, considerándose que existen éstas, cuando ocurra alguno de los siguientes supuestos en agravio de la víctima:
+a.- Comete feminicidio quien prive de la vida a una mujer por razón de género.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+Se considera que existe razón de género cuando concurra cualquiera de las siguientes circunstancias en agravio de la víctima:
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2013)</small>
 
 I.- Que haya sido incomunicada;
 
@@ -1561,7 +1565,11 @@ I.- Que haya sido incomunicada;
 
 II.- Que presente signos de violencia sexual, aún respecto del cadáver;
 
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2013)</small>
+
 III.- Que haya sido vejada;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2013)</small>
 
 IV.- Que se le hayan infligido lesiones o mutilaciones, infamantes o degradantes aún respecto del cadáver;
 
@@ -1569,13 +1577,21 @@ IV.- Que se le hayan infligido lesiones o mutilaciones, infamantes o degradantes
 
 V.- Que haya (sic) existido amenazas, acoso, lesiones o violencia en el ámbito familiar, laboral, político o escolar o cualquier otro que implique supra o subordinación del sujeto activo en contra de ella;
 
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+VI.- Que exista o haya existido con el activo relación íntima, sentimental, de convivencia, de confianza, de noviazgo, de parentesco, de matrimonio, de concubinato, laboral o docente;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+VII.- Que se incinere o desmiembre su cuerpo;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+VIII.- Que el cuerpo sea depositado o arrojado en letrinas, fosas sépticas, basureros, o fosas clandestinas; o
+
 > <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
 
-VI.- Que exista o haya existido con el activo relación íntima, de convivencia, de confianza, noviazgo, parentesco, matrimonio o concubinato o relación análoga; o
-
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
-
-VII.- Que su cuerpo sea expuesto o exhibido.
+IX.- Que su cuerpo sea expuesto o exhibido.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2014)</small>
 
@@ -1585,9 +1601,13 @@ Al responsable de feminicidio se le impondrá de treinta a sesenta años de pris
 
 Si concurre con el mismo u otro delito, se acumularán las penas que por cada uno se impongan. La de prisión no podrá exceder de setenta años.
 
-> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
 
-Si la víctima del delito fuese menor de edad las penas previstas en este artículo se incrementarán hasta en una tercera parte, sin rebasar el límite máximo previsto en el párrafo anterior.
+Se impondrá de cuarenta a setenta años de prisión y de cuatrocientos a setecientos días multa si la víctima del delito fuese menor de dieciocho años de edad, adulta mayor, persona con discapacidad o estuviese embarazada; cuando el sujeto activo sea servidor público y que valiéndose de tal condición cometa la conducta; o cuando el feminicidio se cometa en presencia de los ascendientes o descendientes de la víctima o de cualquier persona menor de dieciocho años de edad.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+El sujeto activo perderá todos los derechos con relación a la víctima y los hijos sobre los que aquel tenga obligaciones, incluidos los de carácter sucesorio.
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2014)</small>
 
@@ -4432,6 +4452,14 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente a su p
 P.O. 20 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 193 MEDIANTE EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 99 B Y LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 262; Y SE DEROGA EL TERCER PÁRRAFO DEL ARTÍCULO 262 DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 15 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 228. MEDIANTE EL QUE SE REFORMAN EL ACTUAL PÁRRAFO PRIMERO, PASANDO ADEMÁS A SER PRIMERO Y SEGUNDO PÁRRAFOS, RECORRIÉNDOSE EN SU ORDEN LOS ACTUALES PÁRRAFOS SEGUNDO, TERCERO, Y CUARTO; PARA QUEDAR COMO TERCERO, CUARTO Y QUINTO; LA FRACCIÓN VI; Y EL ACTUAL PÁRRAFO CUARTO QUE PASA COMO QUINTO PÁRRAFO; Y SE ADICIONAN LAS FRACCIONES VII Y VIII, RECORRIÉNDOSE LA ACTUAL FRACCIÓN VII PARA QUEDAR COMO FRACCIÓN IX; Y UN SEXTO PÁRRAFO, TODOS DEL ARTÍCULO 153-A DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
