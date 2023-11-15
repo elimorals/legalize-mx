@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2023-10-18"
+last_updated: "2023-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -915,17 +915,23 @@ La prestación de servicios de salud a los escolares, se efectuará de conformid
 
 ### CAPÍTULO VIII. ATENCIÓN A LA SALUD DE LOS MENORES Y ADOLESCENTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
 ### CAPÍTULO IX. ATENCIÓN A LA SALUD DE LA MUJER
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2017)</small>
 
 ###### Artículo 73.
 
-Se reconoce el derecho de los menores al disfrute del más alto nivel posible de salud y servicios para el tratamiento de enfermedades y la rehabilitación.
+Se reconoce el derecho de las niñas, niños y adolescentes al disfrute del más alto nivel posible de salud y servicios para el tratamiento de enfermedades y la rehabilitación.
 
-La atención a la salud de los menores es de carácter prioritario, teniendo como objetivo general mejorar sus actuales niveles de salud, mediante la integración y desarrollo de programas de prevención y control de las enfermedades que más frecuentemente pueden afectarlos, comprendiendo las siguientes acciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE NOVIEMBRE DE 2023)</small>
 
-I.- La atención al niño y la vigilancia de su crecimiento y desarrollo.
+La atención a la salud de las niñas, niños y adolescentes es de carácter prioritario, teniendo como objetivo general mejorar sus actuales niveles de salud, mediante la integración y desarrollo de programas de prevención y control de las enfermedades que más frecuentemente pueden afectarlos, comprendiendo las siguientes acciones:
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+I.- La atención a niñas, niños y adolescentes y la vigilancia de su crecimiento y desarrollo.
 
 II.- Promoción de un esquema básico de vacunación oportuno y gratuito, de cobertura estatal.
 
@@ -935,13 +941,19 @@ IV.- La prevención y control de las enfermedades más frecuentes.
 
 V.- La educación para su salud.
 
-VI.- Asegurar la prestación de la asistencia médica y las condiciones sanitarias necesarias a todos los menores, haciendo hincapié en el desarrollo de la atención primaria de salud.
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
 
-VII.- Combatir las enfermedades y mal nutrición en el marco de la atención primaria de la salud, promoviendo la aplicación de tecnologías de fácil acceso y el suministro de alimentos nutritivos adecuados y agua potable, teniendo en cuenta los peligros y riesgos de contaminación del medio ambiente.
+VI.- Asegurar la prestación de la asistencia médica y las condiciones sanitarias necesarias a todas las niñas, niños y adolescentes, haciendo hincapié en el desarrollo de la atención primaria de salud.
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+VII.- Combatir la desnutrición, obesidad, sobrepeso y trastornos de conducta alimentaria mediante la promoción de una alimentación equilibrada, el consumo de agua potable, el fomento del ejercicio físico, e impulsar programas de prevención e información sobre estos temas.
 
 VIII.- Adoptar las medidas eficaces y apropiadas posibles para abolir las prácticas tradicionales que sean perjudiciales para la salud.
 
-IX.- La atención de los problemas en el área de la comunicación humana y de la psicología en el niño, como grupo prioritario y en situación de vulnerabilidad.
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+IX.- La atención de los problemas en el área de la comunicación humana y de la psicología en las niñas, niños y adolescentes, como grupo prioritario y en situación de vulnerabilidad.
 
 ### CAPÍTULO X. ATENCIÓN AL ADULTO JOVEN, ADULTO Y ADULTO MAYOR
 
@@ -1979,7 +1991,9 @@ VI.- Recomendar las dietas y los procedimientos que conduzcan al consumo efectiv
 
 VII.- Atender preferentemente a grupos vulnerables.
 
-VIII.- Promover campañas de difusión sobre las necesidades nutricionales básicas.
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+VIII.- Promover campañas de difusión sobre las necesidades nutricionales básicas e imagen corporal positiva.
 
 IX.- Promover la participación de los organismos públicos y privados cuyas atribuciones tengan relación con la materia.
 
@@ -1999,7 +2013,9 @@ La prevención y el control del sobrepeso y obesidad se basan en las siguientes 
 
 I.- La educación integral en nutrición.
 
-II.- La promoción de hábitos saludables.
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+II.- La promoción de hábitos saludables y prevención de trastornos alimenticios.
 
 III.- La detección oportuna y el control del sobrepeso y obesidad.
 
@@ -2023,9 +2039,11 @@ III.- La inocuidad de los alimentos.
 
 IV.- El fomento de la lactancia.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 189.
 
-La promoción de hábitos saludables tiene por objeto dar a conocer, de manera permanente, los programas y estrategias de prevención y control del sobrepeso y obesidad, mediante la distribución de folletos informativos, principalmente en todos los niveles educativos; así mismo, el uso de medios masivos de comunicación, con el objeto de mantener informados a los diversos sectores de la población.
+La promoción de hábitos saludables tiene por objeto dar a conocer, de manera amplia y permanente, los programas y estrategias de prevención y control en materia de desnutrición, obesidad, sobrepeso y trastornos de la conducta alimentaria, así como de fomento y adopción social de hábitos de alimentación y nutricionales correctos, mediante campañas informativas dirigidas a los diversos sectores de la población, teniendo como prioridad el interés superior de la niñez sobre cualquier otro.
 
 ###### Artículo 190.
 
@@ -4080,5 +4098,13 @@ P.O. 18 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0611/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD”.]
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0622/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
