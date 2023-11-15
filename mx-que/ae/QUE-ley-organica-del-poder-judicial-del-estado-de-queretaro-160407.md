@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-160407"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-09-30"
-last_updated: "2022-12-27"
+last_updated: "2023-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el No. 70 del Periódico Oficial del Estado de Querétaro, el viernes 30 de septiembre de 2022.
 
@@ -613,7 +613,9 @@ Las Salas resolverán colegiadamente lo siguiente:
 
 I. Las resoluciones definitivas de la competencia de las Salas Civil y Familiar; y,
 
-II. Las sentencias competencia de la Sala Penal, el reconocimiento de inocencia, anulación de sentencia, así como los autos de formal prisión respecto de procesos que se sigan por delitos graves y vinculación a proceso por delitos que ameriten prisión preventiva oficiosa.
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+II. Las sentencias competencia de la Sala Penal, el reconocimiento de inocencia y anulación de sentencia.
 
 Los asuntos de competencia de las Salas que no se ajusten a lo establecido por las dos fracciones del presente artículo, podrán ser resueltos unitariamente.
 
@@ -2970,3 +2972,15 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley
 
 Artículo Tercero. Remítase al Titular del Poder del Poder (sic) Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 15 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 58 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+La reforma al artículo 58, fracción II, materia de la presente Ley, se aplicará a los recursos de apelación promovidos con posterioridad a la entrada en vigor de la misma.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Querétaro, “La Sombra de Arteaga”.
