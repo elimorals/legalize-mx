@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-trabajadores-al-servicio-del-estado-de-michoacan-636
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-08"
-last_updated: "2023-06-26"
+last_updated: "2023-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 8 de agosto de 1983.
 
@@ -370,6 +370,10 @@ b) Atención médica, quirúrgica, farmacéutica y hospitalaria, en los casos de
 c) Jubilación y pensión por invalidez, vejez o muerte; y,
 
 d) Asistencia médica y medicinas para los familiares del trabajador en los términos de los convenios que se celebren con las instituciones de seguridad social;
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+Incurrirán en faltas administrativas graves los servidores públicos que no enteren las aportaciones de seguridad social independientemente de las sanciones civiles y penales que le correspondan de conformidad con las leyes de la materia, las cuales serán sancionadas en términos de la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo y de la Ley General de Responsabilidades Administrativas.
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
@@ -969,6 +973,10 @@ El Tribunal contará con un Secretario de Acuerdos, Actuarios y el personal que 
 
 El Secretario deberá tener la licenciatura en derecho, con experiencia acreditable en materia laboral.
 
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+La designación y/o nombramiento del personal jurídico y de confianza se basará en el mérito, la igualdad de género, la igualdad de oportunidades, la imparcialidad y la no discriminación, con la finalidad de distribuir de manera paritaria entre hombres y mujeres los cargos y puestos.
+
 ###### ARTICULO 95.
 
 El Tribunal nombrará, removerá o suspenderá a sus trabajadores en los términos de esta Ley. Los gastos que origine el funcionamiento del Tribunal serán cubiertos por el Estado consignándose en el Presupuesto de Egresos del mismo.
@@ -1310,3 +1318,19 @@ P.O. 26 DE JUNIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, para su conocimiento y los efectos legales correspondientes
+
+P.O. 15 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 454.- ARTÍCULO ÚNICO.- SE ADICIONA UN ÚLTIMO PÁRRAFO A LA FRACCIÓN V DEL ARTÍCULO 35 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS”.]
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, para su conocimiento y los efectos legales correspondientes.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 15 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 455.- ARTÍCULO ÚNICO.- SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 94 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS”.]
+
+PRIMERO. Remítase del presente Decreto al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, para su conocimiento y los efectos legales correspondientes.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
