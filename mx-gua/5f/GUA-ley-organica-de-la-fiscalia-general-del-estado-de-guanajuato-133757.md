@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-de-la-fiscalia-general-del-estado-de-guanajuato-13
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-02-15"
-last_updated: "2022-07-21"
+last_updated: "2023-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Tercera Parte al Número 34 del Periódico Oficial del Estado de Guanajuato, el viernes 15 de febrero de 2019.
 
@@ -195,19 +195,23 @@ II. Las siguientes Fiscalías:
 
 a) Fiscalías Regionales;
 
-b) Fiscalía Especializada en Combate a la Corrupción;
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
 
-c) Fiscalía Especializada en Investigación de Delitos de Alto Impacto;
+b) Fiscalías Especializadas en Investigación de Delitos cometidos en contra de Mujeres por Razones de Género;
 
-d) Fiscalía Especializada en Investigación de Delitos de Desaparición Forzada y Desaparición cometida por particulares;
+c) Fiscalía Especializada en Combate a la Corrupción;
 
-e) Fiscalía Especial para la Investigación de Delitos de Tortura;
+d) Fiscalía Especializada en Investigación de Delitos de Alto Impacto;
 
-f) Fiscalía Especializada en Investigación de Delitos Electorales;
+e) Fiscalía Especializada en Investigación de Delitos de Desaparición Forzada y Desaparición cometida por particulares;
 
-g) Fiscalía Especializada en materia de Derechos Humanos; y
+f) Fiscalía Especial para la Investigación de Delitos de Tortura;
 
-h) Las demás que establezca la reglamentación correspondiente;
+g) Fiscalía Especializada en Investigación de Delitos Electorales;
+
+h) Fiscalía Especializada en materia de Derechos Humanos; y
+
+i) Las demás que establezca la reglamentación correspondiente;
 
 III. La AIC, a la cual se adscribirán:
 
@@ -251,7 +255,9 @@ XV. Las demás áreas que deriven de la Ley y del marco reglamentario.
 
 Asimismo, la Fiscalía General tendrá a su cargo la administración, dirección y coordinación del Centro de Justicia para las Mujeres del Estado de Guanajuato.
 
-Las Fiscalías Regionales tendrán a su cargo los Módulos de Atención Primaria, las Direcciones y Jefaturas Ministeriales correspondientes, las Unidades de Asesoría Jurídica Penal a Víctimas y Ofendidos del Delito, las Unidades de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso y las Unidades Especializadas de Investigación.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+Las Fiscalías Regionales tendrán a su cargo los Módulos de Atención Primaria, las Direcciones y Jefaturas Ministeriales correspondientes, las Unidades de Asesoría Jurídica Penal a Víctimas y Ofendidos del Delito, las Unidades de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso y las respectivas Fiscalías y Unidades Especializadas de Investigación.
 
 La Fiscalía Especializada en materia de Derechos Humanos tendrá a su cargo, entre otras áreas, a la Coordinación de Atención a Víctimas y Ofendidos del Delito.
 
@@ -466,6 +472,14 @@ Fiscalías Especializadas
 ###### Artículo 25.
 
 Las Fiscalías Especializadas se abocarán a la competencia establecida en la presente Ley y su reglamentación, y tendrán competencia para ejercer sus atribuciones en todo el Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+
+Fiscalías Especializadas en Investigación de Delitos cometidos en contra de Mujeres por Razones de Género
+
+###### Artículo 25 Bis.
+
+Las Fiscalías Especializadas en Investigación de Delitos cometidos en contra de Mujeres por Razones de Género tienen por objeto investigar, a través de un enfoque multidisciplinario e integral, sustentado en la perspectiva de género, los delitos contra mujeres cometidos por su condición o por razones de género, conforme al marco jurídico aplicable y políticas institucionales.
 
 Fiscalía Especializada en Combate a la Corrupción
 
@@ -1966,3 +1980,19 @@ P.O. 21 DE JULIO DE 2022.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo segundo. Para dar cumplimiento al presente decreto la integración y designación paritaria de géneros habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+P.O. 15 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 229. MEDIANTE EL QUE SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 10; Y SE ADICIONAN AL ARTÍCULO 10, FRACCIÓN II, EL INCISO B), RECORRIÉNDOSE LOS ACTUALES INCISOS EN SU ORDEN, ASÍ COMO EL ARTÍCULO 25 BIS, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Ajustes reglamentarios
+
+Artículo Segundo. La Fiscalía General del Estado, dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, deberá realizar los ajustes correspondientes a su Reglamento Interior.
+
+Previsiones presupuestales
+
+Artículo Tercero. A partir del ejercicio fiscal 2024, la Ley del Presupuesto General de Egresos del Estado de Guanajuato deberá incluir los recursos necesarios destinados al cumplimiento de las disposiciones del presente Decreto.
