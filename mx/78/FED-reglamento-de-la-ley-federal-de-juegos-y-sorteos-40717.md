@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-juegos-y-sorteos-40717"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-17"
-last_updated: "2013-10-23"
+last_updated: "2023-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40717&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-09-13"
 
 REGLAMENTO DE LA LEY FEDERAL DE JUEGOS Y SORTEOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE NOVIEMBRE DE 2023.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 17 de septiembre de 2004.
 
@@ -35,17 +35,21 @@ REGLAMENTO DE LA LEY FEDERAL DE JUEGOS Y SORTEOS
 
 ### CAPÍTULO I. OBJETO, AUTORIDADES Y DEFINICIONES
 
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 1.
 
-El presente ordenamiento tiene por objeto reglamentar las disposiciones de la Ley Federal de Juegos y Sorteos, para la autorización, control, vigilancia e inspección de los juegos cuando en ellos medien apuestas, así como del sorteo en todas sus modalidades, con excepción de los sorteos que celebre la Lotería Nacional para la Asistencia Pública.
+El presente ordenamiento tiene por objeto reglamentar las disposiciones de la Ley Federal de Juegos y Sorteos, para la autorización, control, vigilancia e inspección de los juegos cuando en ellos medien apuestas, así como del sorteo en todas sus modalidades, con excepción de los sorteos que celebre la Lotería Nacional.
 
-Las actividades materia del presente Reglamento son de competencia del ámbito federal.
+Las actividades materia del presente Reglamento son de competencia del ámbito federal, previstas en el artículo 2 de la Ley Federal de Juegos y Sorteos.
 
 ###### ARTÍCULO 2.
 
 Corresponde a la Secretaría de Gobernación la interpretación administrativa y la aplicación de las disposiciones de la Ley Federal de Juegos y Sorteos, así como las de este Reglamento.
 
-Las actividades relativas a juegos con apuestas y sorteos que no estén expresamente contempladas en la Ley y el presente Reglamento, serán resueltas, en cada caso, por la Secretaría de Gobernación conforme a lo dispuesto por dichos ordenamientos y demás disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+Las actividades relativas a juegos con apuestas y sorteos que no estén expresamente contempladas en la Ley y el presente reglamento, están prohibidas.
 
 > <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
 
@@ -59,13 +63,17 @@ Para la imposición de sanciones administrativas previstas en la Ley y en el pre
 
 Las autoridades federales, cooperarán en sus respectivos ámbitos de competencia para hacer cumplir las determinaciones que dicten las autoridades de la Secretaría de Gobernación de conformidad con las leyes y este Reglamento, cuando para ello fueren requeridas.
 
-Las autoridades de las entidades federativas, de los municipios y de las delegaciones del Distrito Federal cooperarán con la Secretaría de Gobernación, conforme a lo dispuesto en el artículo 10 de la Ley Federal de Juegos y Sorteos.
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+Las autoridades de las entidades federativas, de los municipios y de las alcaldías de la Ciudad de México deben cooperar con la Secretaría de Gobernación, conforme a lo dispuesto en el artículo 10 de la Ley Federal de Juegos y Sorteos.
 
 ###### ARTÍCULO 3.
 
 Para los efectos de este Reglamento, en lo sucesivo se entenderá por:
 
-I. Apuesta: Monto susceptible de apreciarse en moneda nacional que se arriesga en un juego contemplado por la Ley y regulado por el presente Reglamento con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada deberá de ser superior a ésta;
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+I. Apuesta: Monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los permitidos en el artículo 2 de la Ley Federal de Juegos y Sorteos y regulado por el presente reglamento con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada debe ser superior a ésta;
 
 > <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2012)</small>
 
@@ -73,9 +81,15 @@ I. BIS. Azar: Casualidad a que se fía el resultado de un juego, el cual es comp
 
 II. Beneficiario: Persona física que sin tener necesariamente el carácter de titular de una acción o parte social de la sociedad permisionaria, recibe a través de cualquier figura jurídica, los frutos producidos por la explotación de un permiso otorgado en los términos de la Ley y este Reglamento y ejerce finalmente, directa o indirectamente, el control de la permisionaria, además de los derechos corporativos de accionista o titular de parte social, a través de quienes son los titulares, y tiene en los hechos la posibilidad de influir o tomar decisiones de la permisionaria o, en su caso, de recibir los beneficios;
 
-III. Boleto: Documento o registro electrónico autorizado que acredita al portador o titular el derecho de participar en un juego con apuesta o sorteo y garantiza sus derechos, según sea el caso, los cuales deberán estar impresos en el mismo documento o bien contenidos en el sistema en donde se resguarden los registros;
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+III. Boleto: Documento o registro electrónico autorizado que acredita al portador o titular el derecho de participar en un juego con apuesta o sorteo previsto en el artículo 2 de la Ley Federal de Juegos y Sorteos y garantiza sus derechos, según sea el caso, los cuales deberán estar impresos en el mismo documento o bien contenidos en el sistema en donde se resguarden los registros;
 
 IV. Concentración: Procedimiento auxiliar de seguridad para los participantes, a cargo del organizador, que consiste en reunir previamente a la celebración de un sorteo los talones de los boletos participantes, en los términos fijados en el permiso correspondiente;
+
+> <small>(ADICIONADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+IV BIS. Consejo Consultivo: al Consejo Consultivo de Juegos y Sorteos;
 
 > <small>(REFORMADA, D.O.F. 19 DE OCTUBRE DE 2012)</small>
 
@@ -91,17 +105,23 @@ IX. Evento: Acontecimiento en el que se llevan a cabo actividades relativas a la
 
 X. Inspectores: Servidores públicos a través de quienes la Secretaría ejerce sus facultades, en los términos de la Ley, el presente Reglamento y demás disposiciones aplicables;
 
-XI. Juego con apuesta: Juegos de todo orden en que se apuesta, previstos en la Ley y este Reglamento, autorizados por la Secretaría;
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+XI. Juegos con apuesta: Aquéllos señalados en el artículo 2 de la Ley y autorizados por la Secretaría;
 
 XII. Ley: Ley Federal de Juegos y Sorteos;
 
 XII. BIS. (DEROGADA, D.O.F. 23 DE OCTUBRE DE 2013)
 
-XIII. Operador: Sociedad mercantil con la cual el permisionario puede contratar o asociarse para explotar su permiso, en términos de lo dispuesto en este Reglamento;
+XIII. (DEROGADA, D.O.F. 16 DE NOVIEMBRE DE 2023)
 
 XIV. Órgano Técnico de Consulta: Asociaciones civiles legalmente constituidas, que por su especialización y experiencia en materia de hipódromos, galgódromos, frontones o carreras de caballos en escenarios temporales son consultados por la Secretaría para el otorgamiento de los permisos correspondientes a su especialidad. Los órganos técnicos de consulta deberán registrarse ante la Secretaría de conformidad con los criterios y normas de carácter general emitidos por la misma;
 
 XV. Parimutuo: Modalidad de apuesta en juegos o participación en sorteos de símbolos o números en que las posturas de los apostadores o participantes se acumulan en un fondo para repartir su monto entre los ganadores, una vez descontado un porcentaje que retiene el permisionario y que ha sido establecido previamente en el reglamento interno del permisionario;
+
+> <small>(ADICIONADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+XV BIS. Participación: Aquélla así denominada en el artículo 5 de la Ley, que consiste en un aprovechamiento que el permisionario debe cubrir ante la autoridad federal competente respecto de los productos obtenidos por éste, derivados de los permisos otorgados por la Secretaría para la realización de juegos con apuestas y sorteos;
 
 XVI. Permisionario: Persona física o moral a quien la Secretaría otorga un permiso para llevar a cabo alguna actividad en materia de juegos con apuestas y sorteos permitida por la Ley y el presente Reglamento;
 
@@ -109,7 +129,7 @@ XVII. Permiso: Acto administrativo emitido por la Secretaría, que permite a una
 
 XVIII. Premio: Retribución en efectivo o en especie que obtiene el ganador de un juego con apuestas o sorteo;
 
-XIX. Salario mínimo: Salario mínimo general diario vigente en el Distrito Federal;
+XIX. (DEROGADA, D.O.F. 16 DE NOVIEMBRE DE 2023)
 
 XX. Secretaría: Secretaría de Gobernación;
 
@@ -127,15 +147,17 @@ XXVI. Sorteo instantáneo: Modalidad de sorteo en la que se ofertan boletos con 
 
 XXVII. Sorteo sin venta de boletos: Modalidad de sorteo en la que el carácter de participante se obtiene a título gratuito por el solo hecho de adquirir un bien, contratar un servicio o incluso por recibir sin contraprestación un boleto o comprobante de participación;
 
-> <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2013)</small>
-
-XXVII. BIS. Sorteo de números o símbolos a través de máquinas: Actividad en la que el participante, a través de un artefacto o dispositivo de cualquier naturaleza, sujeto al azar, realiza una apuesta, mediante la inserción de un billete, moneda, ficha o cualquier dispositivo electrónico de pago u objeto similar, con la finalidad de obtener un premio;
+XXVII BIS. (DEROGADA, D.O.F. 16 DE NOVIEMBRE DE 2023)
 
 XXVIII. Trampa: Ardid, estratagema, maquinación o truco con el que una o varias personas engañan, inducen o pretenden engañar a los participantes, al permisionario o al público en general, en el desarrollo o resultado de un juego con apuesta o sorteo;
 
-> <small>(REFORMADA, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+> <small>(ADICIONADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
 
-XXIX. Unidad de Gobierno: Unidad administrativa de la Subsecretaría de Gobierno de la Secretaría de Gobernación, y
+XXVIII BIS. UMA: Unidad de Medida y Actualización que señala la fracción III, del artículo 2 de la Ley para Determinar el Valor de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+XXIX. Unidad de Gobierno: Unidad administrativa de la Secretaría de Gobernación, y
 
 XXX. Valor de la emisión: Monto total cuantificado en dinero, del valor nominativo de los comprobantes de participación en un sorteo.
 
@@ -165,13 +187,17 @@ VII. No cumplan con el reglamento interno del establecimiento, previamente aprob
 
 El permisionario es responsable de las infracciones que se cometan con motivo de la realización de un evento autorizado en los términos de la Ley y el presente Reglamento.
 
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 7.
 
-Sólo podrán realizarse, operarse u organizarse juegos con apuestas y sorteos previo permiso por escrito expedido por la Secretaría, en los términos de la Ley y este Reglamento.
+Sólo podrán realizarse, operarse u organizarse juegos con apuestas y sorteos previstos en el artículo 2 de la Ley, previo permiso por escrito expedido por la Secretaría y conforme este reglamento.
+
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 8.
 
-Las participaciones a que se refiere el artículo 5 de la Ley serán determinadas por la Secretaría al momento de la expedición de los permisos, de conformidad con las disposiciones aplicables.
+Las participaciones a que se refiere el artículo 5 de la Ley, serán determinadas por la Secretaría, a partir de los lineamientos que ésta emita y conforme al tipo de permiso de que se trate.
 
 > <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
 
@@ -211,7 +237,9 @@ Los permisionarios no podrán otorgar crédito, directa o indirectamente, a los 
 
 Quedan prohibidas las máquinas tragamonedas en cualquiera de sus modalidades.
 
-Se entiende por máquina tragamonedas todo dispositivo, a través del cual el usuario, sujeto a la destreza, realiza una apuesta, mediante la inserción de dinero, ficha, dispositivo electrónico o cualquier objeto de pago, con la finalidad de obtener un premio no determinado de antemano.
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+Se entiende por máquina tragamonedas todo dispositivo a través del cual la persona usuaria juega con apuesta, mediante la inserción de dinero en efectivo o cualquier otra forma de pago con la finalidad de obtener un premio.
 
 > <small>(ADICIONADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
 
@@ -259,21 +287,33 @@ El Consejo Consultivo estará integrado por los siguientes miembros e invitados 
 
 A. Miembros:
 
-I. El Subsecretario de Gobierno, quien lo presidirá;
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
 
-II. El Titular de la Unidad de Gobierno, quien suplirá al presidente en caso de ausencia. En este supuesto, el Subsecretario designará al suplente del Titular de la Unidad de Gobierno, y
+I. La persona titular de la Unidad de Gobierno, quien lo presidirá;
 
-> <small>(REFORMADA, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
 
-III. El Titular de la Unidad General de Asuntos Jurídicos o el suplente que designe.
+II. La persona titular de la Unidad de Administración y Finanzas, y
+
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+III. La persona titular de la Unidad General de Asuntos Jurídicos.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+Los miembros a que se refiere este apartado A, pueden designar a una persona suplente, quien deberá tener el nivel jerárquico inferior inmediato al de ellos.
 
 B. Invitados permanentes:
 
 I. El Titular del Órgano Interno de Control en la Secretaría, y
 
-II. Tres miembros de la sociedad civil que se hayan destacado en el ámbito empresarial, educativo o de investigación económica, designados por el Titular de la Secretaría.
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
 
-Las decisiones del Consejo se tomarán por mayoría de votos. En caso de empate, el presidente tendrá voto de calidad. El Titular de la Dirección fungirá como secretario técnico con voz pero sin voto y no podrá fungir como suplente de cualquier miembro del Consejo.
+II. Tres personas integrantes de la sociedad civil que se hayan destacado en el ámbito empresarial, académico o de investigación económica, designados por la persona titular de la Unidad de Gobierno.
+
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+Las decisiones del Consejo Consultivo se tomarán por mayoría de votos. En caso de empate, la persona presidente tendrá voto de calidad. La persona titular de la Dirección fungirá como persona secretaria técnica con voz pero sin voto y no podrá fungir como suplente de cualquier miembro del Consejo Consultivo.
 
 Los invitados permanentes contarán sólo con voz.
 
@@ -289,9 +329,13 @@ I. Los permisos otorgados y sus modificaciones;
 
 II. Las sanciones que imponga la Secretaría con motivo de la aplicación de la Ley y este Reglamento;
 
-III. La identidad de los permisionarios y de los operadores que contraten, incluyendo, en su caso, la de las personas físicas o morales que los conformen hasta el último accionista o beneficiario;
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
 
-IV. La identidad de los funcionarios y empleados de primer nivel de cada permisionario y de su operador u operadores;
+III. La identidad de las personas permisionarias incluyendo la de las personas físicas o morales que los conformen hasta la última persona accionista o beneficiaria;
+
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+IV. La identidad de las personas con cargos directivos y personas empleadas de primer nivel de cada persona permisionaria;
 
 V. La identidad de las personas que presten servicios profesionales vinculados al corretaje y cruce de apuestas en los establecimientos autorizados;
 
@@ -301,7 +345,9 @@ VII. Datos y estadísticas sobre la actividad nacional de juegos con apuestas y 
 
 VIII. Los estados financieros trimestrales y anuales de los permisionarios de juegos con apuestas, cuando corresponda;
 
-IX. Los procedimientos de sanción administrativa en curso en materia de juegos con apuestas y sorteos, incluidos aquellos que se encuentren en litigio judicial, así como cualquier procedimiento legal ejercido en contra del permisionario, sus operadores, accionistas o beneficiarios;
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+IX. Los procedimientos de sanción administrativa en curso en materia de juegos con apuestas y sorteos, incluidos aquellos que se encuentren en litigio judicial, así como cualquier procedimiento legal ejercido en contra de la persona permisionaria, accionistas o beneficiarias;
 
 X. Las resoluciones que adopte el Consejo Consultivo;
 
@@ -309,9 +355,11 @@ XI. La relativa a los Órganos Técnicos de Consulta en materia de Hipódromos, 
 
 XII. La que determine la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 18.
 
-La Dirección podrá difundir la información contenida en la Base de Datos en el sitio de Internet de la Secretaría desarrollado para tal efecto, con estricto apego a las disposiciones de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y su Reglamento.
+La Dirección podrá difundir la información contenida en la Base de Datos en el sitio de Internet de la Secretaría desarrollado para tal efecto, con estricto apego a las disposiciones aplicables en materia de Transparencia y Acceso a la Información.
 
 ###### ARTÍCULO 19.
 
@@ -321,9 +369,11 @@ La Dirección mantendrá debidamente actualizada la Base de Datos y señalará c
 
 ### CAPÍTULO I. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 20.
 
-La Secretaría podrá otorgar permisos para celebrar los juegos con apuestas y sorteos a que se refiere la Ley y el presente Reglamento a los solicitantes conforme a lo siguiente:
+La Secretaría podrá otorgar permisos para celebrar los juegos con apuestas y sorteos a que se refiere el artículo 2 de la Ley y el presente reglamento a los solicitantes conforme a lo siguiente:
 
 > <small>(REFORMADA, D.O.F. 23 DE OCTUBRE DE 2013)</small>
 
@@ -335,9 +385,13 @@ III. Para la apertura y operación del cruce de apuestas en carreras de caballos
 
 IV. Para organizar sorteos, a personas físicas y morales constituidas conforme a las leyes de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
 
-El permiso a que se refiere la fracción I de este artículo deberá otorgarse únicamente con relación a un establecimiento. Por ningún motivo podrán operar diversos establecimientos bajo un mismo permiso.
+Los permisos señalados en el presente artículo deben otorgarse únicamente con relación a un evento o establecimiento. Por ningún motivo podrán operar diversos establecimientos bajo un mismo permiso.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+Los cambios de ubicación de algún establecimiento requieren un nuevo permiso ante la Secretaría.
 
 ###### ARTÍCULO 21.
 
@@ -355,9 +409,21 @@ b) Declarar, bajo protesta de decir verdad, que no ha sido procesado ni condenad
 
 IV. Tratándose de personas morales:
 
-a) Exhibir testimonio o copia certificada de su acta constitutiva debidamente inscrita en el Registro Público de la Propiedad y del Comercio que corresponda o del instrumento jurídico de su creación, por el que se acredite que se encuentra debidamente constituida conforme a las leyes de los Estados Unidos Mexicanos, y
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
 
-b) Acreditar la representación legal de la solicitante, mediante poder otorgado ante fedatario público o el instrumento jurídico en que consten las facultades de representación.
+a) Exhibir testimonio o copia certificada de su acta constitutiva debidamente inscrita en el Registro Público de la Propiedad y del Comercio que corresponda o del instrumento jurídico de su creación, por el que se acredite que se encuentra debidamente constituida conforme a las leyes de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+b) Acreditar la representación legal de la solicitante, mediante poder otorgado ante fedatario público o el instrumento jurídico en que consten las facultades de representación;
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+c) Señalar nombre, nacionalidad, domicilio y adjuntar copia de identificación oficial con fotografía de cada uno (sic) de las personas socias o accionistas de alguna de las sociedades que conformen a la persona moral solicitante, y
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+d) Presentar declaración bajo protesta de decir verdad, de las personas socias o accionistas, que no han sido condenados por delito doloso de índole patrimonial, fiscal ni relacionado con la delincuencia organizada o de operaciones con recursos de procedencia ilícita.
 
 V. Exhibir a la Secretaría una fianza que garantice el cumplimiento del pago de los premios, así como su base de cálculo, salvo que se trate de instituciones públicas o de aquellas que se encuentren eximidas conforme a las leyes respectivas, y
 
@@ -417,13 +483,19 @@ e) Reporte de crédito emitido por una sociedad de información crediticia debid
 
 V. Balances generales, estados de resultados, de origen y aplicación de recursos y de variaciones en el capital contable por los últimos cinco años o desde la fecha de constitución de la sociedad solicitante, y notas respectivas de estos documentos, debidamente auditados y dictaminados por contador público independiente registrado ante la Secretaría de Hacienda y Crédito Público;
 
-VI. Estudio que justifique la ubicación geográfica y viabilidad financiera del establecimiento que se pretende instalar y explotar. El estudio de viabilidad financiera deberá efectuarse por los primeros diez años de operación del negocio y deberá respaldar todas las cifras y proyecciones con los supuestos de trabajo considerados en dicho período de análisis y especificar el número de empleos a generar;
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
 
-VII. Manifestar por escrito la ubicación exacta del lugar en que se pretenda instalar el establecimiento;
+VI. Estudio que justifique la ubicación geográfica y viabilidad financiera del establecimiento que se pretende instalar y explotar. El estudio de viabilidad financiera debe efectuarse por los primeros diez años de operación del negocio y respaldar todas las cifras y proyecciones con los supuestos de trabajo considerados en dicho período de análisis;
+
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+VII. Manifestar por escrito la ubicación exacta del lugar en que se pretenda instalar el establecimiento y el nombre comercial que se utilizará;
 
 VIII. Señalar la modalidad jurídica conforme a la cual la sociedad solicitante tenga o pretenda obtener la legítima posesión o propiedad del inmueble en que se instale el establecimiento;
 
-IX. Documentación que acredite que el solicitante cuenta con la opinión favorable de la entidad federativa, ayuntamiento o autoridad delegacional que corresponda para la instalación del establecimiento cuyo permiso se solicita;
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+IX. Documentación que acredite que el solicitante cuenta con la opinión favorable de la entidad federativa, ayuntamiento o alcaldía que corresponda para la instalación del establecimiento cuyo permiso se solicita;
 
 X. Programa general de operación y funcionamiento del establecimiento, que deberá incluir por lo menos el plan de operación, programa de controles y cronograma de actividades, desde el punto de vista técnico y de las apuestas;
 
@@ -433,11 +505,27 @@ XII. Manual de organización de la sociedad solicitante, el cual deberá incluir
 
 XIII. Mecánica de operación del sistema de apuestas, mecanismos de control de las mismas y reglas del juego con apuestas que se ofrezca al público, especificados en forma detallada. Deberá precisarse la infraestructura informática, el sistema de seguridad tecnológica e informática, así como las políticas de soporte técnico a utilizar;
 
-XIV. Acreditar experiencia en la operación del cruce de apuestas u organización del sorteo de que se trate o, en su defecto, identificar y acreditar la experiencia del operador que, en su caso, tendría a su cargo el funcionamiento u organización del establecimiento. En este último supuesto, deberá solicitarse la autorización a que se refiere el artículo 30 de este Reglamento;
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
 
-XV. Proyecto de programa de divulgación de las actividades a realizar en el establecimiento, así como de aquéllas tendentes al fomento de la actividad para la que se solicita el permiso, y
+XIV. Acreditar experiencia en la operación del cruce de apuestas u organización del sorteo de que se trate;
 
-XVI. Proyecto del reglamento de operación del establecimiento.
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+XV. Proyecto de programa de divulgación de las actividades a realizar en el establecimiento, así como de aquéllas tendentes al fomento de la actividad para la que se solicita el permiso;
+
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+XVI. Proyecto del reglamento de operación del establecimiento, y
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+XVII. Proyección de la plantilla laboral que contenga:
+
+a) Número de empleos a generar;
+
+b) Tipo de relación de trabajo, y
+
+c) Condiciones de trabajo.
 
 ###### ARTÍCULO 23.
 
@@ -467,7 +555,9 @@ I. Tratándose de personas morales, aquellos a que se refieren los artículos 22
 
 II. Tratándose de personas físicas, aquellos a que se refieren los artículos 22, fracciones VII y XVI, y 24 fracciones II, III, IV y V del presente Reglamento.
 
-Además de la información y documentación a que se refieren las fracciones anteriores, el solicitante deberá presentar copia certificada de las autorizaciones que, en sus respectivos ámbitos de competencia, hayan expedido las autoridades de la entidad federativa y del municipio o delegación, para la construcción, instalación u operación del establecimiento.
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+Además de la información y documentación a que se refieren las fracciones anteriores, la persona solicitante debe presentar copia certificada de las autorizaciones que, en sus respectivos ámbitos de competencia, hayan expedido las autoridades de la entidad federativa y del municipio o alcaldía, para la construcción, instalación u operación del establecimiento.
 
 ###### ARTÍCULO 26.
 
@@ -501,7 +591,7 @@ La Secretaría podrá otorgar permiso para la instalación de centros de apuesta
 
 Los permisionarios para la organización de juegos con cruce de apuestas en hipódromos, galgódromos, frontones, así como para la operación de centros de apuestas remotas y salas de sorteos de números o símbolos, deberán cumplir las siguientes obligaciones:
 
-I. Obtener autorización de la Secretaría para efectuar cambios de ubicación de los establecimientos donde se celebren las actividades autorizadas en el permiso otorgado, así como informar a la Secretaría del cambio de domicilio social del permisionario;
+I. (DEROGADA, D.O.F. 16 DE NOVIEMBRE DE 2023)
 
 II. Entregar a la Secretaría estados financieros trimestrales y anuales, dentro de los 20 días hábiles posteriores al cierre del trimestre y dentro de los seis meses posteriores al cierre del año fiscal a reportar, respectivamente. Los estados financieros trimestrales deberán presentarse firmados por el director general de la empresa y los anuales deberán estar auditados y dictaminados por contador público independiente registrado ante la Secretaría de Hacienda y Crédito Público;
 
@@ -531,43 +621,25 @@ XI. Incorporar en los estatutos de la sociedad permisionaria todas las disposici
 
 XII. Establecer que la administración de la sociedad permisionaria se realizará de acuerdo con las prácticas aceptadas en materia financiera, por un consejo de administración en el cual al menos el 25% de sus miembros deberán ser consejeros independientes;
 
-XIII. Mantener vigente durante el periodo del permiso una fianza emitida por institución autorizada por un monto que garantice el pago de los premios no pagados durante un período de 60 días de operación promedio anual. Dicha fianza deberá exhibirse ante la Secretaría dentro de los primeros tres días de su vigencia, acompañada del estudio que haya servido de base para realizar el cálculo de las apuestas o sorteos y, en su caso, deberá considerar el monto de los premios no pagados reportados en los estados financieros auditados del ejercicio inmediato anterior, y
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
 
-XIV. Las demás que establezca la Ley y este Reglamento.
+XIII. Mantener vigente durante el período del permiso una fianza emitida por institución autorizada por un monto que garantice el pago de los premios no pagados durante un período de 60 días de operación promedio anual. Dicha fianza debe exhibirse ante la Secretaría dentro de los primeros tres días de su vigencia, acompañada del estudio que haya servido de base para realizar el cálculo de las apuestas o sorteos y, en su caso, considerar el monto de los premios no pagados reportados en los estados financieros auditados del ejercicio inmediato anterior;
 
-Las disposiciones a que se refiere este artículo deberán reproducirse en los estatutos sociales de las sociedades mercantiles permisionarias, así como en los convenios o contratos que celebren por este motivo los permisionarios y operadores, y en el permiso respectivo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+XIV. Actualizar, en los primeros diez días de cada año, la información y documentación respecto de las relaciones laborales que se mantienen con el personal que opera el establecimiento, y
 
-Los permisionarios serán responsables de que sus operadores cumplan con lo dispuesto en las fracciones II, IV, V Bis, IX, XI y XII del presente artículo.
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+XV. Las demás que establezca la Ley y este reglamento.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 30.
 
-El permisionario deberá solicitar autorización a la Secretaría para explotar su permiso en unión de un operador mediante algún tipo de asociación en participación, prestación de servicios o convenio de cualquier otra naturaleza, mediante solicitud a la cual deberá acompañar:
-
-I. Copia firmada del proyecto del convenio o instrumento jurídico que se pretenda celebrar, en virtud del cual el operador actuará con ese carácter;
-
-II. La información y documentación a que se refieren las fracciones I, II, III y IV del artículo 22 de este Reglamento, respecto del operador, y
-
-III. Declaración del operador en el sentido de que se obliga con la Secretaría a cumplir con lo establecido en la Ley y el Reglamento, así como a:
-
-> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
-
-a) No ceder los derechos del convenio o contrato a terceros;
-
-> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
-
-b) No cambiar su composición accionaria en el primero y subsecuentes niveles hasta el último tenedor o beneficiario, a menos de que informe a la Secretaría en los términos de la fracción VII del artículo 29 de este Reglamento, y
-
-> <small>(ADICIONADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
-
-c) No celebrar ningún convenio que permita a un tercero la operación del establecimiento.
-
-La Secretaría no autorizará el convenio o instrumento a que se refiere el presente artículo, cuando por virtud del mismo el operador asuma el control corporativo o administrativo de la sociedad permisionaria o se constituya en beneficiario último de ésta.
-
-La Secretaría inscribirá en la Base de Datos de Juegos y Sorteos a los operadores que hayan sido autorizados para actuar como tales, debiendo expedir las constancias respectivas a los operadores que lo soliciten.
-
-La declaración a que se refiere la fracción III de este artículo deberá transcribirse en el convenio que celebren la permisionaria y el operador.
+(DEROGADO, D.O.F. 16 DE NOVIEMBRE DE 2023)
 
 ###### ARTÍCULO 31.
 
@@ -599,9 +671,9 @@ IX. Los demás elementos contemplados en las leyes aplicables, este Reglamento y
 
 La vigencia de los permisos que otorgue la Secretaría para los juegos con apuestas y sorteos a que se refieren la Ley y este Reglamento se ajustará a lo siguiente:
 
-> <small>(REFORMADA, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
 
-I. Los permisos para la apertura y operación del cruce de apuestas en hipódromos, galgódromos, frontones, centros de apuestas remotas y salas de sorteos de números o símbolos tendrán una vigencia mínima de un año y máxima de 25 años;
+I. Los permisos para la apertura y operación del cruce de apuestas en hipódromos, galgódromos, frontones, centros de apuestas remotas y salas de sorteos de números o símbolos tendrán una vigencia mínima de un año y máxima de 15 años;
 
 II. Los permisos para la apertura y operación del cruce de apuestas en ferias regionales, en peleas de gallos y en carreras de caballos en escenarios temporales, tendrán una vigencia máxima de 28 días o el equivalente a la duración de la temporada autorizada;
 
@@ -627,11 +699,11 @@ IV. Concurso mercantil, disolución, liquidación o extinción del permisionario
 
 El permisionario que pretenda cancelar o de cualquier manera suspender el juego con apuestas o sorteo de que se trate, deberá obtener autorización expresa de la Secretaría, la que se otorgará siempre y cuando no se afecten derechos de terceros y sin perjuicio del cumplimiento de las obligaciones y responsabilidades que se hayan generado como consecuencia de la cancelación o suspensión.
 
-> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 36.
 
-No podrán participar en sorteos las personas que sean los organizadores o empleados de los permisionarios u operadores, que se encuentren involucrados en la producción de los boletos o en la celebración del evento en el que se determinen los boletos premiados.
+No podrán participar en sorteos las personas organizadoras o empleadas de permisionarias que se encuentren involucradas en la producción de los boletos o en la celebración del evento en el que se determinen los boletos premiados.
 
 ###### ARTÍCULO 37.
 
@@ -747,7 +819,9 @@ En el permiso se señalará un plazo razonable para el inicio de operaciones del
 
 Hipódromo es el escenario o lugar en el que de manera permanente o temporal se realizan carreras de caballos. Comprende la pista, gradas y todas las demás instalaciones que, directa o indirectamente, integran la unidad física mediante la cual se proporcionan los elementos muebles e inmuebles para la preparación, desarrollo y evaluación de las carreras así como las áreas donde se realicen actividades complementarias del espectáculo.
 
-Los hipódromos en su operación, independientemente de las disposiciones de este Reglamento, estarán sujetos a los usos y costumbres de la industria a nivel nacional e internacional y aceptados por los participantes.
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+Los hipódromos en su operación, están sujetos a las disposiciones que determinen este reglamento y la Secretaría.
 
 ###### ARTÍCULO 51.
 
@@ -765,7 +839,9 @@ El permisionario requerirá de la autorización de la Secretaría para la celebr
 
 Galgódromo es el escenario en el que de manera permanente o temporal se realizan carreras de galgos. Comprende la pista, gradas y todas las demás instalaciones que, directa o indirectamente, integran la unidad física mediante la cual se proporcionan los elementos muebles e inmuebles para la preparación, desarrollo y evaluación de las carreras, así como las áreas donde se realicen actividades complementarias del espectáculo.
 
-Los galgódromos en su operación, independientemente de las disposiciones de este Reglamento, estarán sujetos a los usos y costumbres de la industria a nivel nacional e internacional y aceptados por los participantes.
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+Los galgódromos, en su operación, están sujetos a las disposiciones de este reglamento y las que determine la Secretaría.
 
 ###### ARTÍCULO 54.
 
@@ -805,15 +881,19 @@ El permisionario podrá designar al intendente del frontón, quien deberá conta
 
 #### SECCIÓN I. DE LAS FERIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 59.
 
-Las ferias son eventos regionales temporales que tienen como objetivo la promoción de la actividad económica, turística, agropecuaria o de otra naturaleza, autorizados expresamente por el gobierno de la entidad federativa y por la autoridad municipal o delegacional correspondiente, realizados una sola vez al año con duración mínima de 21 y máxima de 28 días naturales.
+Las ferias son eventos regionales temporales que tienen como objetivo la promoción de la actividad económica, turística, agropecuaria o de otra naturaleza, autorizados expresamente por el gobierno de la entidad federativa y por la autoridad del municipio o la alcaldía correspondiente, realizados una sola vez al año con duración mínima de 21 y máxima de 28 días naturales.
 
 No se consideran ferias las celebraciones locales temporales que realice una población con objeto de festejar eventos cívicos, sociales o religiosos de la localidad, aunque cuenten con la aprobación de las autoridades competentes para su instalación y que se realicen anualmente en cada plaza o comunidad por un plazo menor o igual a 28 días.
 
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 60.
 
-La Secretaría otorgará permiso para la operación del cruce de apuestas en ferias, considerando la opinión del titular del poder u órgano ejecutivo de la entidad federativa de que se trate, así como de la autoridad municipal o delegacional que corresponda, para que el solicitante pueda operar el cruce de apuestas.
+La Secretaría debe otorgar el permiso para la operación del cruce de apuestas en ferias, considerando la opinión de la persona titular del poder u órgano ejecutivo de la entidad federativa de que se trate, así como de la autoridad del municipio o la alcaldía que corresponda, para que la persona solicitante pueda operar el cruce de apuestas.
 
 ###### ARTÍCULO 61.
 
@@ -843,9 +923,11 @@ En las ferias está prohibida la realización de cualquier otro espectáculo con
 
 Para que en una feria se lleve a cabo el cruce de apuestas a que se refiere el artículo anterior, deberá contarse con las instalaciones adecuadas para el correcto funcionamiento y conducción de los juegos correspondientes.
 
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 65.
 
-Las disposiciones del presente Reglamento no menoscaban ni relevan las atribuciones de las autoridades estatales, locales y municipales o delegacionales, en materia de seguridad pública, por lo que hace al desarrollo de las ferias.
+Las disposiciones del presente reglamento no menoscaban ni relevan las atribuciones de las autoridades estatales, locales y municipales o de las alcaldías, en materia de seguridad pública, por lo que hace al desarrollo de las ferias.
 
 #### SECCIÓN II. DE LAS CARRERAS DE CABALLOS EN ESCENARIOS TEMPORALES
 
@@ -915,9 +997,11 @@ Se entiende por centro de apuestas remotas, también conocidos como libros forá
 
 Los centros de apuestas remotas podrán instalarse en la misma ubicación en que se localicen las salas de sorteos de números o símbolos.
 
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 78.
 
-El permisionario deberá solicitar autorización a la Secretaría, al menos con 15 días de antelación, para la realización de eventos especiales o promocionales por verificarse en los centros de apuestas remotas.
+La persona permisionaria debe solicitar autorización a la Secretaría, al menos con 30 días de antelación, para la realización de eventos especiales o promocionales por verificarse en los centros de apuestas remotas.
 
 ###### ARTÍCULO 79.
 
@@ -1019,19 +1103,23 @@ IV. Sorteos en sistemas de comercialización;
 
 V. Sorteos de símbolos o números;
 
-> <small>(REFORMADA, D.O.F. 23 DE OCTUBRE DE 2013)</small>
-
-VI. Sorteos de números o símbolos a través de máquinas, y
+VI. (DEROGADA, D.O.F. 16 DE NOVIEMBRE DE 2023)
 
 > <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2013)</small>
 
 VII. Sorteos transmitidos por medios de comunicación masiva.
 
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+Para efectos del presente artículo, no pueden interpretarse como sorteos los juegos de apuesta con naipes o equiparable en todas sus modalidades, dados, ruletas y máquinas tragamonedas.
+
 ###### ARTÍCULO 92.
 
 Sin perjuicio de lo dispuesto por el artículo 20, fracción IV de este Reglamento, se podrán otorgar permisos para la celebración de sorteos a:
 
-I. Las dependencias y entidades de la Administración Pública Federal, de los Estados, del Distrito Federal, de los municipios y de los órganos político administrativos del Distrito Federal;
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+I. Las dependencias y entidades de la Administración Pública Federal, de las entidades federativas, de los municipios y de las alcaldías de la Ciudad de México;
 
 II. Partidos políticos nacionales y agrupaciones políticas nacionales, observando para ello, además de lo dispuesto en la Ley y este Reglamento, lo previsto en la legislación electoral federal. Tratándose de partidos políticos y agrupaciones políticas que cuenten con registro únicamente ante autoridades de las entidades federativas, deberán sujetarse, además, a lo dispuesto en las leyes electorales locales, y
 
@@ -1089,7 +1177,9 @@ I. Por tómbola;
 
 II. Por formación de números;
 
-III. De acuerdo a la terminación de los números premiados en un sorteo de la Lotería Nacional para la Asistencia Pública, o
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+III. De acuerdo con la terminación de los números premiados en un sorteo de la Lotería Nacional, o
 
 IV. Mediante sistemas informáticos que, con su adecuada aplicación, determinen al azar los números premiados.
 
@@ -1131,9 +1221,11 @@ El inspector y el permisionario o su representante suscribirán en presencia de 
 
 En los sorteos que se celebren en territorio nacional y cuyos participantes sean captados a través de Internet o de la red telefónica, se deberá otorgar un número de folio de participante. En ambos casos, después de haber adquirido la participación, los participantes deberán tener acceso vía Internet, para consulta e impresión, a una constancia de su número de folio y de los derechos que les correspondan en el sorteo.
 
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 105.
 
-El valor mínimo de cada uno de los premios que deberán ser entregados bajo la presencia del inspector será el equivalente a 1,500 días de salario mínimo.
+El valor mínimo de cada uno de los premios que deben ser entregados bajo la presencia de la persona inspectora debe ser el equivalente a 1,500 UMA a valor diario.
 
 ###### ARTÍCULO 106.
 
@@ -1181,7 +1273,9 @@ La Secretaría deberá señalar en el permiso que expida al permisionario la can
 
 Para obtener permiso para organizar sorteos instantáneos con venta de boletos, además de cumplir los requisitos a que se refiere el Capítulo I del Título Segundo del presente Reglamento, se deberá:
 
-I. Señalar el nombre, domicilio y teléfono de los representantes autorizados por el permisionario ante quienes se pueda exigir el pago de premios que no puedan cubrir los distribuidores en el Distrito Federal o en los estados donde se pretendan distribuir los boletos del sorteo. Esta información deberá imprimirse en el boleto o comprobante de participación, así como el domicilio en que se ubica la Dirección, y
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+I. Señalar el nombre, domicilio y teléfono de las personas representantes autorizadas por la permisionaria ante quienes se pueda exigir el pago de premios que no puedan cubrir las personas distribuidoras en las entidades federativas donde se pretendan distribuir los boletos del sorteo. Esta información debe imprimirse en el boleto o comprobante de participación, así como el domicilio en que se ubica la Dirección, y
 
 II. Cumplir con los requerimientos que de manera general determine la Secretaría, previa opinión del Consejo Consultivo, sobre los mecanismos de elaboración, control de venta y validación de boletos, para asegurar la total confidencialidad de la información y la posibilidad real de verificación.
 
@@ -1337,7 +1431,9 @@ Las irregularidades que llegaren a ocurrir durante la realización de los evento
 
 El sorteo de símbolos tipo lotería mexicana tradicional podrá ser autorizado para llevarse a cabo en las instalaciones de una feria o en una celebración local.
 
-No será necesario el permiso de la Secretaría cuando el costo de participación por persona y por juego no exceda la cantidad equivalente al 50% del salario mínimo general diario vigente en el Distrito Federal.
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+No será necesario el permiso de la Secretaría cuando el costo de participación por persona y por juego no exceda la cantidad equivalente al valor diario de una UMA.
 
 #### SECCIÓN III. SORTEO DE NÚMEROS CONOCIDO COMO RIFAS DE NÚMEROS
 
@@ -1361,25 +1457,11 @@ V. Designar a un responsable de la correcta conducción y transparencia del sort
 
 ### CAPÍTULO VIII. DE LOS SORTEOS DE NÚMEROS O SÍMBOLOS A TRAVÉS DE MÁQUINAS
 
-> <small>(ADICIONADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+ARTÍCULO 137 BIS.- (DEROGADO, D.O.F. 16 DE NOVIEMBRE DE 2023)
 
-ARTÍCULO 137 BIS. La Secretaría podrá autorizar la realización de sorteos de números o símbolos a través de máquinas cuando se cumplan los siguientes requisitos:
+ARTÍCULO 137 TER.- (DEROGADO, D.O.F. 16 DE NOVIEMBRE DE 2023)
 
-I. Ser permisionario en términos de lo establecido en la fracción I del artículo 20 de este Reglamento;
-
-II. Acreditar que las máquinas correspondientes han sido fabricadas en territorio nacional o legalmente importadas;
-
-III. Presentar la relación de máquinas que se pretenden instalar en cada establecimiento con las especificaciones que determine la Secretaría, y
-
-IV. Estar al corriente en el cumplimiento de las obligaciones que derivan de la Ley y del presente Reglamento.
-
-> <small>(ADICIONADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
-
-ARTÍCULO 137 TER. Los permisionarios que obtengan la autorización a que se refiere el presente Capítulo podrán realizar sorteos durante la vigencia de su permiso.
-
-> <small>(ADICIONADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
-
-ARTÍCULO 137 QUÁTER. Los permisionarios deberán mantener actualizada, de forma permanente, la relación a que se refiere la fracción III del artículo 137 Bis del presente Reglamento, la cual deberán remitir a la Dirección de forma trimestral.
+ARTÍCULO 137 QUÁTER. - (DEROGADO, D.O.F. 16 DE NOVIEMBRE DE 2023)
 
 ## TÍTULO QUINTO. DEL CONTROL Y VIGILANCIA
 
@@ -1447,7 +1529,9 @@ XIV. Señalar al organizador los riesgos y desórdenes que puedan presentarse en
 
 XV. Firmar los boletos, contraseñas, cupones o cualquier otro comprobante que permita identificar al ganador y mediante el cual pueda reclamar el premio;
 
-XVI. Para los premios superiores a 1,500 salarios mínimos, anotar el número de factura que ampare la propiedad de cada uno de los premios si se trata de bienes muebles y, si es el caso de inmuebles, el número de la escritura, nombre, número y domicilio del notario público o, en su caso, precisar estos datos respecto de la notaría en donde se llevará a cabo el trámite;
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+XVI. Para los premios superiores a 1,500 UMA a valor diario, anotar el número de factura que ampare la propiedad de cada uno de los premios si se trata de bienes muebles y, si es el caso de inmuebles, el número de la escritura, nombre, número y domicilio del notario público o, en su caso, precisar estos datos respecto de la notaría en donde se lleve a cabo el trámite;
 
 XVII. Evitar la entrega de premios a menores de edad, debiendo hacerlo únicamente a sus padres o tutores, previa comprobación de su personalidad mediante los documentos idóneos con los que acrediten esa calidad, así como a través de las identificaciones respectivas. En los casos en que se requiera facturación o escrituración, ésta deberá hacerse a nombre del menor;
 
@@ -1535,9 +1619,11 @@ XIV. Las demás que les impongan las disposiciones aplicables y la Secretaría p
 
 Los inspectores, en el ejercicio de sus funciones, se sujetarán, en lo conducente, a la Ley Federal de Procedimiento Administrativo. En todo caso, el oficio de comisión respectivo deberá expresar el nombre de la persona respecto de la cual se ordena la inspección; el lugar que debe inspeccionarse, así como el periodo, vigencia y el fin que se persiga con ella.
 
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 146.
 
-La Secretaría ejercerá la vigilancia de los eventos que se celebren bajo el patrocinio de las entidades paraestatales destinadas a la asistencia pública, mediante la designación de los inspectores correspondientes, a excepción de la Lotería Nacional para la Asistencia Pública.
+La Secretaría ejercerá la vigilancia de los eventos que se celebren bajo el patrocinio de las entidades paraestatales destinadas a la asistencia pública, mediante la designación de las personas inspectoras correspondientes, a excepción de la Lotería Nacional.
 
 ### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
 
@@ -1577,7 +1663,9 @@ Se consideran infracciones graves del permisionario y serán sancionadas con rev
 
 I. Cuando incumpla con el objeto o con cualesquiera otro de los términos y condiciones establecidos en el permiso;
 
-II. Tratándose de permisionarios para la organización de juegos con apuesta en hipódromos, galgódromos, frontones, así como para la operación de centros de apuestas remotas y salas de sorteos de números, cuando incurran en incumplimiento de las obligaciones que les impone el artículo 29, así como por el incumplimiento de las condiciones de la autorización a que se refiere el artículo 30 del presente Reglamento;
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2023)</small>
+
+II. Tratándose de personas permisionarias, para la organización de juegos con apuesta en hipódromos, galgódromos, frontones, así como para la operación de centros de apuestas remotas y salas de sorteos de números, cuando incurran en incumplimiento de las obligaciones que les impone el artículo 29 de este reglamento;
 
 III. Cuando la información proporcionada a la Secretaría para la obtención del permiso resulte falsa;
 
@@ -1642,3 +1730,27 @@ D.O.F. 23 DE OCTUBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Gobernación, por lo que no requerirá de ampliaciones presupuestales adicionales y no se incrementará su presupuesto regularizable para el presente ejercicio fiscal y los subsecuentes. Cualquier modificación a su estructura orgánica se realizará mediante movimientos compensados conforme a las disposiciones aplicables.
+
+D.O.F. 16 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY FEDERAL DE JUEGOS Y SORTEOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, no se otorgarán nuevos permisos para la apertura de establecimientos diversos a las hipótesis previstas en el presente reglamento.
+
+Los permisos de establecimientos que se encuentren en funcionamiento actualmente que incluyan actividades no consideradas en el presente Decreto se respetarán en sus términos, siempre que no excedan la vigencia prevista en el artículo 33, fracción I, de este Reglamento. De exceder este plazo, la vigencia del permiso se entenderá de quince años improrrogables, contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+No se otorgarán prórrogas de permisos relacionados con actividades diversas a las señaladas al presente Decreto.
+
+TERCERO. Las personas permisionarias que cuenten con autorizaciones para la apertura y operación de establecimientos que no estén funcionando a la entrada en vigor del presente Decreto podrán solicitar su apertura siempre y cuando se ajusten a lo dispuesto en el presente reglamento.
+
+CUARTO. Los derechos de las personas operadoras respecto de establecimientos que actualmente se encuentran en funcionamiento continuarán surtiendo sus efectos hasta la conclusión de la vigencia de los permisos que originaron, sin incluir sus prórrogas.
+
+Quedarán sin efectos las autorizaciones de las personas operadoras que no se encuentren explotando o administrando un establecimiento en funcionamiento a la entrada en vigor del presente Decreto.
+
+QUINTO. La Secretaría contará con un plazo de 60 días hábiles para emitir y publicar en el Diario Oficial de la Federación los lineamientos a que se refiere el artículo 8 del presente reglamento.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Gobernación, por lo que no requerirá de ampliaciones presupuestales adicionales y no se incrementará su presupuesto regularizable para el presente ejercicio fiscal. Cualquier modificación a su estructura orgánica se realizará mediante movimientos compensados conforme a las disposiciones aplicables.
+
+SÉPTIMO. Se derogan todas aquellas disposiciones legales, administrativas y reglamentarias que sean contrarias a lo establecido en el presente Decreto.
