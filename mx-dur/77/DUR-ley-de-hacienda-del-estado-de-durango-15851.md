@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2022-12-27"
+last_updated: "2023-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -754,6 +754,10 @@ VI. Las embarcaciones dedicadas a la pesca comercial;
 VII. Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga, y
 
 VIII. Las aeronaves con más de veinte pasajeros, destinadas al aerotransporte al público en general.
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2023)</small>
+
+IX. Los vehículos incorporados o que se vayan a incorporar al Programa de Emplacamiento Exprés, únicamente por cuanto hace a su vigencia, de conformidad a lo dispuesto por el artículo 60 BIS.
 
 Los tenedores o usuarios de los vehículos a que se refiere este artículo, para gozar del beneficio que el mismo establece, al momento de solicitarlo deberán comprobar ante las Oficinas Recaudadoras que se encuentran comprendidos en dichos supuestos.
 
@@ -3023,21 +3027,73 @@ licencia de chofer de servicio público o
 
 particular. 3
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2023)</small>
+
+ARTICULO 60 BIS. Se implementará desde el sexto bimestre del año 2023 hasta el 14 de septiembre del año 2028, el Programa de Emplacamiento Exprés, destinado a personas morales y personas físicas propietarios de vehículos que estén dados de alta en otras entidades federativas y cuya residencia o domicilio se ubique fuera del territorio estatal de Durango, que cuenten con un mínimo de 500 unidades y que realicen actividades en los siguientes rubros:
+
+a) Arrendamiento para el sector turismo y el sector público.
+
+b) Empresas con flotillas vehiculares de más de 500 unidades.
+
+c) Plataformas digitales para el servicio de transporte de pasajeros.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2023)</small>
+
+ARTICULO 60 TER. Los derechos por los servicios que presta el Estado en el Programa de Emplacamiento Exprés, relacionados con los servicios de control vehicular, deberán ser cubiertos con una cuota representada en base a la UMA diaria o fracción de la misma, según el tipo de persona moral o persona física que lo solicite, en los términos siguientes:
+
+SERVICIO DE CONTROL VEHICULAR
+
+UMA
+
+I. El servicio por control en la dotación inicial de placas,
+
+tarjeta de circulación y engomado; reposición, canje o
+
+replaqueo, causará un derecho que deberá ser cubierto
+
+al Estado, en los términos siguientes:
+
+1.- Automóviles, camionetas, camiones y autobuses
+
+para uso particular. 48
+
+2.- Automóviles de transporte de pasajeros para uso
+
+en aplicaciones digitales. 48
+
+3.- Camiones de carga, grúas, automóviles, camionetas
+
+y autobuses de pasajeros, integrantes de flotillas
+
+empresariales; o, destinados al arrendamiento en el
+
+sector turismo o en el sector público. 48
+
+4.- Remolques, tractores y similares, excepto agrícolas. 48
+
+5.- Motocicletas, motonetas y similares. 20
+
+II. Los derechos que se causen por refrendo al servicio de control vehicular para aquellos vehículos que cuenten con juego de placas y tarjeta de circulación, dados de alta en el Programa de Emplacamiento Exprés, estarán exentos de este pago durante la vigencia del propio programa, de conformidad a lo establecido en el artículo 60 Bis de esta Ley.
+
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 61.
 
 Los derechos por canje de placas de circulación; refrendo anual; ratificación anual de concesiones, permisos o autorizaciones; explotación de permisos de ruta anual; expedición de tarjetas de circulación y engomados, deberán pagarse dentro de los primeros tres meses de cada año de calendario, en las oficinas autorizadas que corresponda, en las formas oficiales que apruebe la Secretaría de Finanzas y de Administración. Si se elige la opción de pago vía Internet en línea, el derecho se tendrá por pagado una vez que sea registrado por el sistema y valorado por la autoridad respectiva.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2023)</small>
+
+Los derechos por incorporación al Programa de Emplacamiento Exprés, para personas morales que no tengan su domicilio en el territorio estatal, se pagarán directamente en el portal de internet que para el efecto se habilite, ello, previa validación de la información proporcionada de los vehículos a emplacar.
+
 ###### ARTICULO 62.
 
 Tratándose de vehículos nuevos o usados que no cuenten con placas de circulación, deberán efectuar el pago de los derechos correspondientes dentro del plazo de 15 días, contados a partir de la fecha de adquisición del vehículo.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTICULO 63.
 
-El pago extemporáneo de los derechos a que se refiere el Artículo 61 de esta Ley causarán recargos por falta de pago oportuno a la tasa que fije anualmente la Ley de Ingresos del Estado.
+El pago extemporáneo de los derechos a que se refiere el artículo 61 de esta Ley, causará recargos por falta de pago oportuno a la tasa que fije anualmente la Ley de Ingresos del Estado, a excepción de los derechos a que se refiere el Programa de Emplacamiento Exprés.
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
 
@@ -4406,3 +4462,13 @@ PRIMERO. Para efectos de las Secciones III y IV, referente a los Impuestos De la
 SEGUNDO El presente Decreto entrará en vigor en el Estado de Durango, el día 1 de enero del 2023, previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 TERCERO. Se derogan las disposiciones que se opongan a la presente Ley.
+
+P.O. 16 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 483 POR EL CUAL SE REFORMA EL ARTÍCULO 63; SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 44 BIS 4; UN SEGUNDO PÁRRAFO AL ARTÍCULO 61, ASÍ COMO LOS NUMERALES 60 BIS Y 60 TER, DE LA LEY DE HACIENDA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Dentro de los tres días posteriores a la publicación en el Periódico Oficial del Gobierno del Estado, la Secretaría de Finanzas y de Administración, deberá publicar los Lineamientos Operativos del Programa del Emplacamiento Exprés.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
