@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2023-05-03"
+last_updated: "2023-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2023.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -2757,6 +2757,10 @@ V. Al que requerido por la autoridad, no proporcione la información de que disp
 
 VI. No procure por los medios lícitos que tenga a su alcance y sin riesgo para su persona, impedir la consumación de los delitos que se sabe van a cometerse o se están cometiendo, salvo que tenga obligación de afrontar el riesgo, en cuyo caso se estará a lo previsto en este artículo o en otras normas aplicables.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2023)</small>
+
+No constituirían encubrimiento las conductas de abogados y defensores, realizadas en ejercicio de su profesión o en cumplimiento de su encomienda.
+
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 221.
@@ -2769,9 +2773,13 @@ Se impondrán de uno a tres años de prisión y multa de setenta y dos a doscien
 
 Se impondrán de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro veces el valor de la Unidad de Medida y Actualización, y destitución de su empleo, cargo o comisión, al servidor público a quien se le haya hecho ofrecimiento o promesa de dinero o de cualquier otra dádiva, con el propósito de realizar cohecho y que no lo haga del conocimiento del Ministerio Público.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 223.
 
-Estarán exentos de las penas impuestas a los encubridores, quien oculte al autor de un hecho calificado por la ley como delito o impida que se investigue, siempre que el sujeto tenga la calidad de defensor, ascendiente o descendiente consanguíneo en línea recta o colateral hasta el cuarto grado, por adopción, por afinidad hasta el segundo grado, cónyuge, concubina o concubinario o persona ligada con el sujeto activo por amor, respeto, gratitud o estrecha amistad.
+Estará exento de las penas previstas para los encubridores, quien oculte al autor de un hecho calificado por la ley como delito o impida que se investigue, siempre que el sujeto tenga la calidad de ascendiente o descendiente consanguíneo, en línea recta o colateral, hasta el cuarto grado; por adopción o por afinidad hasta el segundo grado; cónyuge, concubina, concubina o persona ligada con el sujeto activo por amor, respeto, gratitud o estrecha amistad.
+
+Lo dispuesto en el párrafo anterior no será aplicable cuando se trate de los delitos de homicidio doloso o feminicidio, previstos y sancionados en los artículos 224, 228, 229, 229 Bis y 229 Ter del presente Código.
 
 ## TÍTULO SEXTO. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
@@ -5908,3 +5916,15 @@ En un plazo de ciento veinte días naturales, el Tribunal Superior de Justicia d
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido que refiere el presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 249.- SE REFORMA EL ARTÍCULO 223, Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 220, AMBOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al contenido de este Decreto.
