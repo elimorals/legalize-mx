@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-secretaria-de-seguridad-ciudadana-141
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-02-25"
-last_updated: "2022-12-01"
+last_updated: "2023-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141716&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-02-21"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE NOVIEMBRE DE 2023.
 
 Reglamento publicado en el Número 290 de la Gaceta Oficial de la Ciudad de México, el martes 25 de febrero de 2020.
 
@@ -114,6 +114,10 @@ d) Dirección Ejecutiva de Comunicación Social.
 
 e) Dirección Ejecutiva de la Unidad de Transparencia.
 
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+f) Dirección General de Derechos Humanos.
+
 II. Unidades Administrativas Policiales:
 
 A) Coordinaciones Generales
@@ -123,6 +127,10 @@ a) Coordinación General de la Unidad de Estrategia Táctica y Operaciones Espec
 b) Dirección General de Atención Inmediata a Casos de Alto Impacto.
 
 c) Dirección General de Operaciones de Reacción e Intervención Inmediata.
+
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+d) Dirección General de Servicios Aéreos.
 
 B) Direcciones Generales
 
@@ -214,7 +222,7 @@ c) Dirección General de Operación de Tránsito.
 
 I. Unidades Administrativas:
 
-a) Dirección General de Derechos Humanos.
+a) (DEROGADO, G.O. 17 DE NOVIEMBRE DE 2023)
 
 b) Dirección General de Participación Ciudadana.
 
@@ -272,7 +280,7 @@ i) Dirección Ejecutiva de Comunicaciones
 
 j) Dirección Ejecutiva de Enlace Institucional.
 
-k) Dirección Ejecutiva de Servicios Aéreos.
+k) (DEROGADO, G.O. 17 DE NOVIEMBRE DE 2023)
 
 > <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2021)</small>
 
@@ -300,9 +308,7 @@ I. Unidades Administrativas:
 
 a) Dirección Ejecutiva de Rendición de Cuentas.
 
-> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2021)</small>
-
-a) Bis. Dirección Ejecutiva de Administración y Finanzas del Sistema Penitenciario
+a) Bis. (DEROGADO, G.O. 17 DE NOVIEMBRE DE 2023)
 
 b) Dirección General de Desarrollo Organizacional y Administrativo.
 
@@ -354,6 +360,10 @@ IV. Ordenar y supervisar las líneas de investigación, acciones y operaciones p
 
 V. Determinar los lineamientos para la planeación, obtención, procesamiento y aprovechamiento de la información que genere la Secretaría, a fin de establecer los sistemas de información de la Institución;
 
+> <small>(ADICIONADA, G.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+V Bis. Promover la cultura de respeto a los Derechos Humanos al interior de la Secretaría y en las relaciones de su personal con los particulares, así como atender, por conducto de la Unidad Administrativa correspondiente, las recomendaciones de las Comisiones de Derechos Humanos, tanto nacional como de la Ciudad de México;
+
 VI. Establecer mecanismos para la atención integral a víctimas u ofendidos del delito, coordinándose con las autoridades competentes en la materia;
 
 VII. Establecer los lineamientos conforme a los cuales la Secretaría proporcionará informes, datos y cooperación técnica y operativa a dependencias, entidades, municipios y demás instituciones públicas que lo soliciten;
@@ -379,6 +389,10 @@ XIV. Aprobar el anteproyecto de presupuesto de egresos de la Secretaría;
 XV. Certificar copias de los documentos que obren en el archivo a su cargo;
 
 XVI. Suscribir las autorizaciones para la participación de servidores públicos de la Secretaría en actos o ante instancias internacionales, cuando se haga en representación de la misma y con cargo a su presupuesto;
+
+> <small>(ADICIONADA, G.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+XVI Bis. Fungir como enlace institucional con el área encargada de conducir la acción internacional del Gobierno de la Ciudad de México;
 
 XVII. Otorgar con sujeción a las disposiciones aplicables, la representación de la Secretaría ante autoridades jurisdiccionales o administrativas, federales o locales, en procedimientos en que la misma sea parte;
 
@@ -560,15 +574,17 @@ II. Diseñar y desarrollar acciones que tiendan a fomentar la cultura de partici
 
 III. Instrumentar programas conjuntos con las Dependencias competentes en el ámbito social del Gobierno de la Ciudad de México, para coadyuvar en el logro de los objetivos del Programa de Gobierno;
 
-IV. Establecer mecanismos institucionales de coordinación con los Gobiernos Federal, Estatales, Municipales y con órganos político-administrativos, a fin de realizar acciones en el ámbito de competencia de la Secretaría en materia de participación ciudadana, derechos humanos, prevención del delito, salud, deporte, cultura y recreación, así como servicios de auxilio a la población en casos de siniestros, emergencias y desastres, entre otros;
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+IV. Establecer mecanismos institucionales de coordinación con los Gobiernos Federal, Estatales, Municipales y con las Alcaldías, a fin de realizar acciones en el ámbito de competencia de la Secretaría en materia de participación ciudadana, prevención del delito, salud, deporte, cultura y recreación, así como servicios de auxilio a la población en casos de siniestros, emergencias y desastres, entre otros;
 
 V. Asistir, participar y colaborar con el Consejo Ciudadano para la Seguridad Ciudadana y Procuración de Justicia de la Ciudad de México;
 
-VI. Promover el intercambio de experiencias, colaboración y apoyo con entidades federativas e Instituciones nacionales e internacionales de carácter público, social o privado, respecto de la participación ciudadana, los derechos humanos y la prevención del delito, en materia de seguridad ciudadana;
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+VI. Promover el intercambio de experiencias, colaboración y apoyo con entidades federativas e instituciones nacionales e internacionales de carácter público, social o privado, respecto de la participación ciudadana y la prevención del delito, en materia de seguridad ciudadana;
 
-VI Bis. Asistir, participar y colaborar como enlace institucional con el área encargada de conducir la acción internacional del Gobierno de la Ciudad de México, para coordinar las acciones de carácter internacional en las que participe la Secretaría;
+VI Bis. (DEROGADA, G.O. 17 DE NOVIEMBRE DE 2023)
 
 VII. Establecer programas de coordinación con los sectores público, social y privado, así como con la comunidad, con el objeto de destacar la importancia de la participación ciudadana en la denuncia para la preservación de la seguridad ciudadana en todos los ámbitos, así como el combate a la impunidad y la corrupción;
 
@@ -580,9 +596,11 @@ IX. Establecer líneas de acción para el funcionamiento de las áreas de atenci
 
 IX Bis. Diseñar e implementar estrategias, de manera coordinada con las instancias competentes de los tres órdenes de gobierno y con la iniciativa privada para la protección y atención integral de las personas turistas, en materia de seguridad, así como para la generación de acciones de vinculación interinstitucional con prestadores de servicios turísticos de la Ciudad;
 
-X. Promover una cultura de respeto a los Derechos Humanos al interior de la Secretaría, así como atender las recomendaciones de las Comisiones de Derechos Humanos, Nacional y de la Ciudad de México;
+X. (DEROGADA, G.O. 17 DE NOVIEMBRE DE 2023)
 
-XI. Establecer estrategias que promuevan la vinculación de la Secretaría con organismos empresariales, cámaras, organizaciones no gubernamentales, líderes de opinión, centros académicos, asociaciones y con la ciudadanía en general, relativas a las acciones, planes y programas de participación ciudadana, derechos humanos, prevención del delito, y de servicios para proporcionar auxilio a la población en caso de siniestros, emergencias y desastres;
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+XI. Establecer estrategias que promuevan la vinculación de la Secretaría con organismos empresariales, cámaras, organizaciones no gubernamentales, líderes de opinión, centros académicos, asociaciones y con la ciudadanía en general, relativas a las acciones, planes y programas de participación ciudadana, prevención del delito, y de servicios para proporcionar auxilio a la población en caso de siniestros, emergencias y desastres;
 
 XII. Coordinar los programas de servicios de auxilio a la población en casos de siniestros, emergencias y desastres;
 
@@ -736,7 +754,9 @@ XXXI. Coordinar y supervisar el apoyo brindado por otras Unidades Administrativa
 
 XXXII. Planear, coordinar y aplicar semanalmente la evaluación del desempeño a los mandos policiales medios y superiores de la Secretaría;
 
-XXXIII. Coordinar con las áreas competentes las operaciones aeronáuticas de la Secretaría, y
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+XXXIII. Coordinar las operaciones tecnológicas de la Secretaría en materia de inteligencia e investigación, y
 
 XXXIV. Las demás que le atribuya la normatividad vigente.
 
@@ -872,9 +892,7 @@ XI. Promover los servicios de obra, mantenimiento y conservación de bienes mueb
 
 XII. Suscribir los convenios, contratos y acuerdos para sustentar actos de administración;
 
-> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
-
-XII Bis. Coordinar las acciones en materia de recursos humanos, financieros y materiales, así como de mantenimiento, desarrollo organizacional y rendición de cuentas del Sistema Penitenciario;
+XII Bis. (DEROGADA, G.O. 17 DE NOVIEMBRE DE 2023)
 
 XIII. Establecer las acciones de mejoramiento administrativo en las áreas que integran la Secretaría;
 
@@ -1182,6 +1200,36 @@ V. Instrumentar acciones que promuevan la cultura de la Transparencia, y la Prot
 
 VI. Las demás que le atribuya la normatividad vigente.
 
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 23 Bis.
+
+Son atribuciones de la Dirección General de Derechos Humanos:
+
+I. Diseñar e instrumentar programas de capacitación para asegurar que el personal de la Secretaría tenga conocimiento y respeto de la legislación en materia de derechos humanos, así como requerir a las unidades administrativas y unidades administrativas policiales que designen personal para que participen en dichos procesos de capacitación;
+
+II. Fomentar y difundir la cultura del respeto a los Derechos Humanos al interior de la Secretaría y al exterior en las relaciones del personal con particulares;
+
+III. Emitir opinión técnica en los asuntos de su competencia, cuando le sea solicitada por las personas titulares de las diversas áreas que integran a la Secretaría;
+
+IV. Fungir como enlace institucional con los Organismos Constitucionales Autónomos defensores de derechos humanos, en el ámbito nacional y de la Ciudad de México, para el intercambio de información y experiencias en la materia;
+
+V. Establecer los mecanismos para la presentación de quejas y denuncias por posibles violaciones a los derechos humanos imputables a personas servidoras públicas adscritas a la Secretaría, y solicitar la presencia del personal señalado como probable responsable para que proporcione los datos e información que se estimen necesarios, así como proponer alternativas de solución y realizar el seguimiento del procedimiento que corresponda hasta la conclusión de la queja o denuncia;
+
+VI. Mantener coordinación permanente con las distintas unidades administrativas que integran y colaboran con la Subsecretaría del Sistema Penitenciario, para obtener la información necesaria que permita atender las quejas interpuestas por familiares, defensores, visitantes o por las personas privadas de la libertad en los Centros Penitenciarios, así como las interpuestas directamente ante los Organismos Constitucionales Autónomos defensores de derechos humanos.
+
+VII. Establecer un sistema de registro y clasificación de quejas, conciliaciones y recomendaciones emitidas por violaciones a derechos humanos en los que estén involucradas personas servidoras públicas adscritas a la Secretaría, así como proporcionar la información correspondiente que sea solicitada por las diferentes áreas de la misma, en el ámbito de su competencia, para la atención de solicitudes o propuestas de ascensos, condecoraciones, estímulos y recompensas;
+
+VIII. Atender los requerimientos y solicitudes de la Comisión Nacional de los Derechos Humanos, de la Comisión de Derechos Humanos de la Ciudad de México y demás Organismos Defensores de Derechos Humanos;
+
+IX. Vigilar y evaluar el seguimiento para el cumplimiento de las recomendaciones emitidas por las Comisiones de Derechos Humanos, nacional y local, que hayan sido aceptadas por la Secretaría, para lo cual requerirá la intervención e información necesaria a las unidades administrativas o unidades administrativas policiales correspondientes;
+
+X. Participar en el intercambio de experiencias con entidades federativas e instituciones nacionales e internacionales de carácter público o privado, respecto de los derechos humanos en la función policial;
+
+XI. Constatar y supervisar que, en el ejercicio de sus funciones, el personal policial garantice el respeto de los derechos humanos, y en su caso, emitir las recomendaciones verbales y/o escritas que estime conducentes, y
+
+XII. Las demás que le atribuya la normativa vigente.
+
 ###### Artículo 24.
 
 Son atribuciones de la Coordinación General de la Unidad de Estrategia Táctica y Operaciones Especiales:
@@ -1191,6 +1239,10 @@ I. Coordinar y ejecutar las decisiones de la persona titular de la Secretaría, 
 II. Efectuar el análisis de los planes y estrategias de los operativos a realizar, para verificar que contengan las acciones que garanticen su óptimo desarrollo;
 
 III. Establecer mecanismos de coordinación con autoridades de seguridad pública Federal, Estatales y Municipales para la planeación y operación de programas, acciones y operativos conjuntos, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, G.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+III Bis. Dirigir las operaciones aéreas policiales, así como supervisar los planes y programas en materia aeronáutica;
 
 IV. Realizar el diagnóstico de zonas de conflicto social y riesgo, para crear criterios de prevención y actuación;
 
@@ -1259,6 +1311,30 @@ XII. Proponer estrategias y políticas para garantizar la adecuada atención a l
 XIII. Evaluar las novedades diarias relacionadas al personal, material y servicios que se desarrollan en las unidades bajo su mando, debiendo así mismo rendir el informe correspondiente a su superior jerárquico, y
 
 XIV. Las demás que le atribuya la normatividad vigente.
+
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 26 Bis.
+
+Son atribuciones de la Dirección General de Servicios Aéreos:
+
+I. Coordinar las operaciones aéreas policiales en aspectos de seguridad, vialidad, emergencias, contingencias y ambulancia aérea;
+
+II. Determinar criterios, políticas y lineamientos de operación, mantenimiento, capacitación y administración de las operaciones aéreas policiales;
+
+III. Diseñar planes y programas de las operaciones aéreas policiales, en aspectos de seguridad, vialidad, contingencias y de ambulancia aérea;
+
+IV. Coordinar la supervisión del taller de mantenimiento aeronáutico con la finalidad de cumplir con las disposiciones y requerimientos establecidos por las leyes, reglamentos y normas oficiales en materia de aeronáutica civil;
+
+V. Diseñar e instrumentar criterios y políticas de operación para el funcionamiento del centro de capacitación y adiestramiento aeronáutico;
+
+VI. Dar seguimiento a los procedimientos establecidos en el manejo de los recursos para el funcionamiento de los helicópteros de la Secretaría;
+
+VII. Coordinar las acciones aeronáuticas de la Secretaría en apego a las disposiciones y protocolos vigentes aplicables en la materia;
+
+VIII. Establecer mecanismos de coordinación y comunicación en materia de seguridad, vialidad y ambulancia aérea, con otras instituciones competentes en la materia, y
+
+IX. Las demás que le atribuya la normativa vigente.
 
 ###### Artículo 27.
 
@@ -1492,33 +1568,7 @@ XI. Las demás que le atribuya la normatividad vigente.
 
 ###### Artículo 36.
 
-Son atribuciones de la Dirección General de Derechos Humanos:
-
-I. Diseñar e instrumentar programas de capacitación y estudios para asegurar que el personal de la Secretaría tenga conocimiento y respeto de la legislación en materia de Derechos Humanos;
-
-II. Fomentar y difundir una cultura de respeto a los Derechos Humanos al interior de la Secretaría;
-
-III. Emitir opinión técnica en los asuntos de su competencia, cuando le sea solicitada por las personas titulares de las diversas áreas que integran a la Secretaría;
-
-IV. Fungir como enlace institucional con los Organismos Constitucionales Autónomos defensores de derechos humanos, en el ámbito nacional y de la Ciudad de México, para el intercambio de información y experiencias en la materia;
-
-V. Facilitar la presentación de quejas y denuncias por violaciones a los derechos humanos, imputables a servidores públicos de la Secretaría, así como proponer alternativas de solución y realizar el seguimiento del procedimiento que corresponda hasta su conclusión;
-
-> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
-
-V Bis. Mantener coordinación permanente con las distintas Unidades Administrativas que integran y colaboran con la Subsecretaría de Sistema Penitenciario, para obtener la información necesaria a fin de atender las quejas interpuestas por familiares, defensores, visitantes o de las personas privadas de la libertad en los Centros Penitenciarios;
-
-VI. Establecer un sistema de registro y clasificación de quejas, conciliaciones y recomendaciones por violaciones a derechos humanos en los que estén involucrados servidores públicos de la Secretaría, así como informar a las áreas que, en el ámbito de su competencia, soliciten la información correspondiente para ascensos, condecoraciones, estímulos y recompensas;
-
-VII. Atender los requerimientos y solicitudes de la Comisión Nacional de Derechos Humanos, de la Comisión de Derechos Humanos de la Ciudad de México y de Organismos Defensores de Derechos Humanos;
-
-VIII. Vigilar y evaluar el cumplimiento de las recomendaciones emitidas por las Comisiones de Derechos Humanos, y que hayan sido aceptadas por la Secretaría;
-
-IX. Participar en el intercambio de experiencias con entidades federativas e instituciones nacionales e internacionales de carácter público o privado, respecto de los derechos humanos;
-
-X. Constatar que, en el ejercicio de sus funciones, el personal policial garantice el respeto y protección de los derechos humanos, proporcionando la orientación que corresponda, y
-
-XI. Las demás que le atribuya la normatividad vigente.
+(DEROGADO, G.O. 17 DE NOVIEMBRE DE 2023)
 
 ###### Artículo 37.
 
@@ -2018,7 +2068,9 @@ XVII. Implementar y operar una base de datos conformada con información sustant
 
 XVIII. Consultar las bases de datos que contenga la Plataforma de Seguridad Ciudadana, para los efectos del ámbito de su competencia,
 
-XIX. Apoyar los operativos de revisión en puntos estratégicos con la utilización de tecnologías móviles que permitan detectar probables hechos delictivos en el ámbito de su competencia;
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+XIX. Apoyar los operativos policiales con la utilización de tecnologías móviles, vehículos aéreos no tripulados y los sistemas de seguridad asociados a ellos;
 
 XX. Colaborar con las diferentes áreas de la Secretaría en el desarrollo de operativos de prevención y, en el ámbito de su competencia, combate del delito mediante la obtención de información gráfica y video gráfica, con tecnologías de vanguardia;
 
@@ -2322,25 +2374,7 @@ VIII. Las demás que le atribuya la normativa vigente.
 
 ###### Artículo 56.
 
-Son atribuciones de la Dirección Ejecutiva de Servicios Aéreos:
-
-I. Coordinar las operaciones aéreas policiales en aspectos de seguridad, vialidad, emergencias, contingencias y ambulancia aérea;
-
-II. Determinar criterios, políticas y lineamientos de operación, mantenimiento, capacitación y administración de las operaciones aéreas policiales;
-
-III. Diseñar planes y programas de las operaciones aéreas policiales en aspectos de seguridad, vialidad, contingencias y de ambulancia aérea;
-
-IV. Coordinar la supervisión del taller de mantenimiento aeronáutico con la finalidad de cumplir con las disposiciones y requerimientos establecidos por las leyes, reglamentos y normas oficiales en materia de aeronáutica civil;
-
-V. Diseñar e instrumentar criterios y políticas de operación para el funcionamiento del centro de capacitación y adiestramiento aeronáutico;
-
-VI. Dar seguimiento a los procedimientos establecidos en el manejo de los recursos para el funcionamiento de las aeronaves de la Secretaría;
-
-VII. Coordinar las acciones aeronáuticas de la Secretaría, en apego a las disposiciones y protocolos vigentes aplicables en la materia;
-
-VIII. Establecer mecanismos de coordinación y comunicación en materia de seguridad, vialidad y ambulancia aérea, con otras instituciones competentes en la materia, y
-
-IX. Las demás que le atribuya la normatividad vigente.
+(DEROGADO, G.O. 17 DE NOVIEMBRE DE 2023)
 
 > <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2021)</small>
 
@@ -2586,55 +2620,9 @@ VI. Difundir a las áreas de la Secretaría las acciones que se establezcan deri
 
 VII. Las demás que le atribuya la normatividad vigente.
 
-> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2021)</small>
-
 ###### Artículo 57 Bis.
 
-Son atribuciones de la Dirección Ejecutiva de Administración y Finanzas del Sistema Penitenciario:
-
-I. Coadyuvar en la programación y participar en la administración de los recursos humanos y materiales, así como en los recursos financieros destinados a los gastos por servicios personales y materiales del Sistema Penitenciario, conforme a las políticas, lineamientos, criterios y normas aplicables en la materia;
-
-II. Auxiliar en los actos necesarios para el cierre del ejercicio anual, de conformidad con los plazos legales y criterios emitidos por la autoridad competente;
-
-III. Coordinar la integración de los datos que se requieran para presentar sus informes trimestrales de avance programático presupuestal y la información para la elaboración de la Cuenta Pública;
-
-IV. Participar en el registro de las erogaciones realizadas;
-
-V. Vigilar la administración y disposición de los recursos autogenerados que sean captados a través de la producción de bienes y servicios en los talleres industriales del Sistema Penitenciario,
-
-VI. Coadyuvar en la coordinación, integración y tramitación de los programas que consignen inversión, así como dar seguimiento a su ejecución;
-
-VII. Elaborar el registro sobre el control financiero del gasto, en cuanto a pago de nómina del personal de base y confianza, así como a los prestadores de servicios profesionales, bajo el régimen de honorarios o cualquier otra forma de contratación en el Sistema Penitenciario;
-
-VIII. Participar en la formulación, instrumentación y evaluación del programa anual de Modernización Administrativa;
-
-IX. Elaborar, de acuerdo a las disposiciones jurídicas y administrativas aplicables, las estrategias para formular el Programa Anual de Adquisiciones, Arrendamientos y Servicios, de conformidad con las políticas y programas del Sistema Penitenciario, así como supervisar su aplicación; y coordinar la recepción, guarda, suministro y control de los bienes muebles del Sistema Penitenciario, y la asignación y baja de los mismos;
-
-X. Instrumentar, de conformidad con la normatividad aplicable, los procesos de licitaciones públicas para la adquisición de bienes, arrendamiento de bienes inmuebles y contratación de servicios en el Sistema Penitenciario que establezca la Ley de Adquisiciones, así como sus procedimientos de excepción;
-
-XI. Coadyuvar para la adquisición de bienes, contratación de servicios y arrendamiento de bienes inmuebles, que realiza el Sistema Penitenciario, observando al efecto las disposiciones jurídicas y administrativas aplicables;
-
-XII. Aplicar al interior del Sistema Penitenciario las políticas, normas, sistemas, procedimientos y programas en materia de administración y desarrollo del personal, de organización, de sistemas administrativos, servicios generales, de la información que se genere en el ámbito de su competencia, de conformidad con las disposiciones jurídicas y administrativas aplicables;
-
-XIII. Coadyuvar, en el ámbito de su competencia, en la vigilancia de la actuación de las diversas comisiones que se establezcan al interior del Sistema Penitenciario;
-
-XIV. Realizar las acciones que permitan instrumentar al interior del Sistema Penitenciario el Servicio Público de Carrera, así como vigilar el cumplimiento de las disposiciones jurídicas y administrativas aplicables;
-
-XV. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como los demás actos jurídicos de carácter administrativo o de cualquier otra índole que se requiera, dentro del ámbito de su competencia, para el buen desempeño del Sistema Penitenciario;
-
-XVI. Participar en la supervisión de la ejecución de obras de mantenimiento, remodelación y reparación de los bienes que requiera el Sistema Penitenciario, así como opinar sobre la contratación de los servicios generales, de conformidad con lo que señalen las disposiciones jurídicas y administrativas aplicables;
-
-XVII. Opinar sobre la contratación conforme a la normatividad en materia de adquisiciones y de obras públicas, para la adecuada operación del Sistema Penitenciario;
-
-XVIII. Participar en la planeación y coordinar la prestación de servicios de apoyo que requiera el Sistema Penitenciario;
-
-XIX. Certificar los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo;
-
-XX. Elaborar el programa interno de protección civil de los inmuebles del patrimonio inmobiliario que ocupan el Sistema Penitenciario;
-
-XXI. Atender, tramitar y autorizar las solicitudes de los servicios de traslado, viáticos y demás erogaciones relacionadas con las comisiones oficiales nacionales e internacionales encomendadas al Sistema Penitenciario, en el marco de la normatividad aplicable en la materia, y
-
-XXII. Las demás que le atribuya la normatividad vigente.
+(DEROGADO, G.O. 17 DE NOVIEMBRE DE 2023)
 
 ###### Artículo 58.
 
@@ -2740,59 +2728,43 @@ XVIII. Supervisar la prestación de los servicios de intendencia a efecto de man
 
 XIX. Las demás que le atribuya la normatividad vigente.
 
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 61.
 
 Son atribuciones de la Dirección General de Finanzas:
 
-I. Coordinar la integración del Anteproyecto de Presupuesto de Egresos y del Programa Operativo Anual de la Secretaría, así como acordar su gestión ante la Secretaría de Administración y Finanzas, previo visto bueno del superior jerárquico;
+I. Coordinar la integración del Programa Operativo Anual y del Anteproyecto de Presupuesto de Egresos de la Secretaría e instruir su gestión ante la Secretaría de Administración y Finanzas, previo visto bueno del superior jerárquico para posteriormente ser presentado a consideración de la persona titular de la Secretaría;
 
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+II. Vigilar el ejercicio del gasto, así como establecer medidas para su control y aplicación conforme a la normativa vigente en la materia;
 
-II. Informar a las Unidades Administrativas correspondientes, la normatividad, políticas y criterios generales emitidos para ejercer el presupuesto autorizado anualmente a la Secretaría;
+III. Analizar la documentación soporte sobre el ejercicio del gasto que radiquen las unidades administrativas de la Secretaría;
 
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+IV. Acordar la procedencia para el otorgamiento de suficiencia presupuestal, para la atención de las solicitudes de las unidades administrativas de la Secretaría;
 
-III. Establecer controles auxiliares relacionados con el presupuesto autorizado, modificado, comprometido, devengado y ejercido de la Secretaría;
+V. Coordinar con las unidades administrativas de la Secretaría las gestiones para el cierre del ejercicio presupuestal anual;
 
-IV. Coordinar la elaboración y gestión de las adecuaciones presupuestales necesarias para modificar el presupuesto asignado a la Secretaría, en atención a la operación de las Unidades Administrativas de la misma;
+VI. Registrar la información presupuestaria, bancaria y financiera de las diversas operaciones realizadas por la Secretaría, en los sistemas y/o plataformas que correspondan conforme a la normativa aplicable;
 
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+VII. Dirigir la integración de la Cuenta Pública y de los informes de avance trimestral que la normativa señale y someterlos a consideración del superior jerárquico;
 
-V. Ordenar la realización de informes en materia presupuestal;
+VIII. Coordinar las acciones para la integración y seguimiento de los reportes de ingresos y egresos derivados de la captación de los ingresos de aplicación automática y emitir lineamientos para su administración;
 
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+IX. Resguardar y custodiar los documentos que soportan el compromiso, devengo y ejercicio del gasto con cargo al presupuesto autorizado a la Secretaría;
 
-VI. Establecer criterios para el análisis de la documentación soporte sobre el ejercicio del gasto que radique en las Unidades Administrativas y Unidades Administrativas Policiales de la Secretaría;
+X. Disponer las acciones necesarias para gestionar la adecuación presupuestal ante la Secretaría de Administración y Finanzas respecto del presupuesto de la Secretaría, en atención a la operación de las unidades administrativas de la misma;
 
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+XI. Emitir Lineamientos que al interior de la Secretaría regulen el ejercicio del gasto;
 
-VII. Establecer Lineamientos para la captación de información programático-presupuestal de la Secretaría, para efectos de la integración de la Cuenta Pública y de los informes de avance trimestral que la normatividad señale y someterlos a consideración del superior jerárquico;
+XII. Regular y administrar la operación de los recursos captados en las tiendas de los centros penitenciarios, así como del Fondo de Ahorro y Reparación del Daño de las Personas Privadas de la Libertad;
 
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+XIII. Proponer los programas presupuestarios y sus indicadores de desempeño, así como darles seguimiento y evaluar su grado de cumplimiento;
 
-VIII. Coordinar las acciones para la integración y seguimiento de los reportes de ingresos y egresos derivados de la captación de los ingresos de aplicación automática;
+XIV. Emitir opinión respecto del impacto presupuestal o financiero que podría generar la firma o aceptación de instrumentos propuestos por distintas unidades administrativas de la Secretaría;
 
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+XV. Autorizar la contratación y pago de servicios profesionales bajo el régimen de honorarios asimilados a salarios; y
 
-IX. Ordenar la guarda y custodia de los documentos que soportan el compromiso, devengo y ejercicio del gasto registrado en el Sistema de Planeación de Recursos Gubernamentales administrado por la Secretaría de Administración y Finanzas, con cargo al presupuesto autorizado a la Dependencia;
-
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
-
-X. Instruir el otorgamiento de las suficiencias presupuestales, en atención a las solicitudes de las Unidades Administrativas de la Secretaría;
-
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
-
-XI. Emitir Lineamientos para la captación de información necesaria para el seguimiento de los programas presupuestarios asignados a la Secretaría;
-
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
-
-XII. Coordinar el registro para el trámite de pago de los compromisos devengados por la Dependencia en el Sistema de Planeación de Recursos Gubernamentales administrado por la Secretaría de Administración y Finanzas;
-
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
-
-XIII. Gestionar y suscribir los documentos inherentes a la contratación y pago de servicios profesionales bajo el régimen de honorarios asimilados a salarios, y realizar el registro y control de la documentación que con tal motivo deba rendirse o tramitarse ante diversas instancias de la Administración Pública de la Ciudad de México, y
-
-XIV. Las demás que le atribuya la normatividad vigente.
+XVI. Las demás que le atribuya la normativa vigente.
 
 ### CAPÍTULO VII. DE LA POLICÍA AUXILIAR Y LA POLICÍA BANCARIA E INDUSTRIAL
 
@@ -2965,3 +2937,17 @@ CUARTO. Los recursos humanos, materiales, técnicos, tecnológicos y financieros
 QUINTO. Los asuntos competencia de la Dirección General de la Comisión de Honor y Justicia, seguirán siendo tramitados y resueltos por la Dirección General de los Órganos Colegiados de Honor y Justicia conforme a la normativa vigente al inicio del procedimiento.
 
 SEXTO. La Secretaría actualizará sus manuales en los plazos que establezcan los Lineamientos para el Registro de los Manuales Administrativos y Específicos de Operación de la Administración Pública de la Ciudad de México.
+
+G.O. 17 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Los asuntos que con la entrada en vigor del presente Decreto se encuentren en trámite en las Unidades Administrativas y/o Unidades Administrativas Policiales respecto de las cuales se deroguen o modifiquen atribuciones, serán atendidos y resueltos por aquellas a las que son transferidas.
+
+CUARTO. Los recursos humanos, materiales, técnicos y financieros de las Unidades Administrativas que se extinguen, por virtud de este Decreto, se transferirán a las Unidades Administrativas y a las Unidades Administrativas Policiales que asumen sus atribuciones, en los términos y condiciones que establezcan las disposiciones jurídicas y administrativas aplicables.
+
+QUINTO. La Secretaría actualizará sus manuales en los plazos que establezcan los Lineamientos para el Registro de los Manuales Administrativos y Específicos de Operación de la Administración Pública de la Ciudad de México.
