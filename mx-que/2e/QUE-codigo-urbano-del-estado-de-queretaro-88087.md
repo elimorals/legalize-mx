@@ -4,7 +4,7 @@ identifier: "QUE-codigo-urbano-del-estado-de-queretaro-88087"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-05-31"
-last_updated: "2022-05-21"
+last_updated: "2023-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "QUE"
 
 CÓDIGO URBANO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 31 de mayo de 2012.
 
@@ -117,9 +117,17 @@ IX. Garantizar la seguridad de las personas mediante la delimitación de zonas d
 
 X. Asegurar la accesibilidad universal;
 
-XI. La conservación, restauración, mejoramiento y recuperación del patrimonio urbano, arqueológico, histórico, cultural y arquitectónico en el Estado, previo permiso y bajo la dirección del Instituto Nacional de Antropología e Historia, de conformidad con la Ley Federal sobre Monumentos, Zonas Arqueológicos, Artísticos e Históricos; y
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2023)</small>
 
-XII. La reubicación de la población asentada en zonas de riesgo, derechos de vía y zonas de restricción, en superficies o predios aptos para el desarrollo urbano.
+XI. La conservación, restauración, mejoramiento y recuperación del patrimonio urbano, arqueológico, histórico, cultural y arquitectónico en el Estado, previo permiso y bajo la dirección del Instituto Nacional de Antropología e Historia, de conformidad con la Ley Federal sobre Monumentos, Zonas Arqueológicos, Artísticos e Históricos;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+XII. La reubicación de la población asentada en zonas de riesgo, derechos de vía y zonas de restricción, en superficies o predios aptos para el desarrollo urbano; y
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+XIII. La promoción y el cumplimiento de la Ley y la efectiva protección de los derechos humanos, relacionados con el ordenamiento territorial de los asentamientos humanos, el desarrollo urbano y la vivienda.
 
 ###### Artículo 3.
 
@@ -141,9 +149,11 @@ La dependencia o entidad correspondiente, intervendrá en los procedimientos y j
 
 El Poder Ejecutivo del Estado, en coordinación con los Municipios, definirá las acciones inherentes a la planeación, el desarrollo urbano y el ordenamiento territorial en el ámbito de su competencia.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 6.
 
-El Poder Ejecutivo del Estado y los Municipios de la Entidad, podrán celebrar convenios sobre la planeación y administración del desarrollo urbano, tendientes a fortalecer la capacidad administrativa y financiera de estos últimos y a impulsar la capacidad productiva y cultural de sus habitantes, de acuerdo con el equilibrio regional del desarrollo urbano.
+El Poder Ejecutivo del Estado y los Municipios de la Entidad promoverán, dentro del ámbito de su competencia, políticas en materia de infraestructura y equipamiento urbano, dotación de servicios públicos, gestión del suelo y accesibilidad universal.
 
 ###### Artículo 7.
 
@@ -177,7 +187,9 @@ VII. Participar, en coordinación con los municipios correspondientes, en la for
 
 VIII. Promover la ordenación de los procesos de conurbación entre los Municipios de la Entidad;
 
-IX. Publicar los programas en materia de desarrollo urbano y ordenamiento territorial;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+IX. Formular, expedir, administrar y modificar los programas en materia de desarrollo urbano y ordenamiento territorial, así como vigilar y evaluar su cumplimiento, de conformidad con las disposiciones aplicables;
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
@@ -193,7 +205,9 @@ XIV. Aplicar a la propiedad las modalidades que establece este ordenamiento;
 
 XV. Promover la ejecución de las obras necesarias para el desarrollo urbano;
 
-XVI. Promover acciones de planeación urbana y de los desarrollos inmobiliarios tendientes a la integración social de los habitantes;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+XVI. Coordinar, planear, ejecutar evaluar y promover las acciones de planeación urbana y de los desarrollos inmobiliarios tendientes a la integración social de los habitantes;
 
 XVII. Dictar las medidas necesarias a que deben sujetarse las áreas y predios no urbanizables por tratarse de regiones históricas, arqueológicas, agrícolas, mineras, forestales o de otra índole, de conformidad con los programas sectoriales de desarrollo urbano y el ordenamiento del territorio, de conformidad con las disposiciones federales de cada materia;
 
@@ -201,9 +215,15 @@ XVIII. Emitir estudios técnicos referentes a las obras de infraestructura urban
 
 XIX. Intervenir en la formulación de los programas sectoriales municipales de desarrollo urbano a petición de los Municipios;
 
-XX. Aplicar y hacer cumplir el presente ordenamiento y las demás disposiciones que regulen la materia; y
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2023)</small>
 
-XXI. Las demás que le atribuyan las leyes y disposiciones administrativas aplicables.
+XX. Aplicar y hacer cumplir el presente ordenamiento y las demás disposiciones que regulen la materia;
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+XXI. Crear y opera (sic) el Consejo para el Ordenamiento Territorial y Desarrollo Urbano del Estado de Querétaro, en términos de la Ley General de Asentamientos Humanos y las demás disposiciones jurídicas aplicables; y
+
+XXII. Las demás que le atribuyan las leyes y disposiciones administrativas aplicables.
 
 ###### Artículo 10.
 
@@ -215,7 +235,9 @@ II. Celebrar con el Estado, la Federación, otras Entidades Federativas u otros 
 
 III. Proponer a la Legislatura del Estado la fundación de centros de población dentro de los límites de su jurisdicción;
 
-IV. Prever lo referente a inversiones y acciones que tiendan a conservar, mejorar y regular el crecimiento de los centros de población;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+IV. Prever lo referente a inversiones y acciones que tiendan a conservar, mejorar y regular el crecimiento de los centros de población, así como para la adquisición de reservas territoriales;
 
 V. La zonificación de su territorio, a través de la elaboración y ejecución de los diversos programas sectoriales en materia de desarrollo urbano;
 
@@ -287,11 +309,15 @@ XIII. Promover la organización de asociaciones de colonos y observatorios urban
 
 XIV. Actuar como conciliador o árbitro, a solicitud de las partes, en los conflictos que se presenten en las colonias y desarrollos inmobiliarios de su Municipio;
 
-XV. Determinar el destino de las áreas de equipamiento urbano;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+XV. Determinar el destino de las áreas de equipamiento urbano, con base en los estudios técnicos correspondientes.
 
 XVI. Autorizar, por conducto de su área encargada del desarrollo urbano, las fusiones y las subdivisiones de predios;
 
-XVII. Vigilar que en los desarrollos inmobiliarios que no les hubieren sido entregados, los responsables de los mismos, presten en forma adecuada los servicios de infraestructura y el adecuado mantenimiento de las obras de urbanización al que se encuentran obligados conforme a este ordenamiento y la demás normatividad aplicable;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+XVII. Recibir los desarrollos inmobiliarios, y en su caso, vigilar que los responsables de los mismos, presten en forma adecuada los servicios de infraestructura y el adecuado mantenimiento de las obras de urbanización, al que se encuentran obligados conforme a este ordenamiento y la demás normatividad aplicable, cuando aún no se haya formalizado su entrega-recepción para su municipalización.
 
 XVIII. Otorgar, en los términos de los reglamentos municipales correspondientes, la aprobación del uso del suelo para la ubicación y construcción de las instalaciones de los servicios públicos concesionados, la cual deberá sujetarse al Programa Estatal de Desarrollo Urbano y al correspondiente Programa Municipal de Desarrollo Urbano;
 
@@ -807,19 +833,31 @@ II. La delimitación de la Subregión, Zona Metropolitana o Zona Conurbada que c
 
 III. El órgano u organismo encargado de la elaboración, ejecución, control y evaluación del Programa;
 
-IV. La participación que en su caso tendrá el Poder Ejecutivo del Estado; y
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2023)</small>
 
-V. El proceso para su elaboración, modificación o cancelación, debiendo establecer la forma en que participará la ciudadanía de conformidad con la Ley General de Asentamientos Humanos y este Código.
+IV. La participación que en su caso tendrá el Poder Ejecutivo del Estado;
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+V. El procedimiento para que, cuando exista la necesidad de prestar un servicio público metropolitano o conurbado de manera común, se resuelva lo conducente; y
+
+VI. El proceso para su elaboración, modificación o cancelación, debiendo establecer la forma en que participará la ciudadanía de conformidad con la Ley General de Asentamientos Humanos y este Código.
 
 ###### Artículo 56.
 
 En la planeación y ordenación de zonas metropolitanas o conurbadas, las autoridades correspondientes podrán tomar en cuenta lo siguiente:
 
-I. Una instancia de coordinación de autoridades;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2023)</small>
 
-II. Una instancia que promueva la participación ciudadana, consultiva y deliberativa; y
+I. Una comisión de ordenamiento metropolitano conurbado, con carácter permanente e integrada por el Presidente Municipal de cada municipio involucrado, y será presidida por el titular de la Secretaría, la que fungirá como mecanismo de coordinación institucional y de concertación de acciones e inversiones con los sectores de la sociedad;
 
-III. Una instancia de carácter técnico e interés público, bajo la figura de un Instituto de Planeación, que tendrá el carácter de permanente, cuya conformación, organización, funciones y facultades, estarán previstas en su instrumento de creación y demás normatividad aplicable.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+II. Un consejo consultivo de desarrollo metropolitano o conurbado, que se integrará en términos de lo establecido en el convenio de creación, con perfectiva (sic) de género, por representantes del Estado y los municipios de que se trate, así como representantes de agrupaciones sociales legalmente constituidas, colegios de profesionistas, instituciones académicas y expertos en la materia. Promoverá los procesos de consulta pública e interinstitucional; o
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+III. Una instancia de carácter técnico o interés público, bajo la figura de un Instituto de Planeación Metropolitana o Conurbada, que tendrá el carácter de permanente, cuya conformación, organización, funciones y facultades, estarán previstas en su instrumento de creación y demás normatividad aplicable.
 
 ###### Artículo 57.
 
@@ -1677,11 +1715,59 @@ Este procedimiento se estará a lo dispuesto en el artículo 186 del presente C�
 
 En los desarrollos inmobiliarios podrán constituirse Comités de Vigilancia Vecinal, los que tendrán los derechos y obligaciones que se establezcan en el Reglamento Municipal, que al efecto expida el Ayuntamiento que corresponda.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+### Capítulo Primero Bis
+
+De las formas de Garantizar Obligaciones por los fraccionadores y/o desarrolladores y su efectividad.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 151 Bis.
+
+Los fraccionadores y desarrolladores constituirán garantías suficientes, con la finalidad de asegurar el cumplimiento de las obligaciones previstas en la presente Ley, a través de cualquiera de las formas que se señalan a continuación:
+
+I. Garantía Hipotecaria;
+
+II. Garantía Prendaria;
+
+III. Depósito de dinero constituido ante la Tesorería Municipal;
+
+IV. Carta de crédito irrevocable, expedida por institución de crédito autorizada;
+
+V. Embargo precautorio de bienes muebles tangibles e inmuebles, excepto predios rústicos, así como negociaciones;
+
+VI. Obligación solidaría asumida por terceros que comprueben su idoneidad y solvencia; y
+
+VII. Cualquier otro instrumento, que en su caso, autorice el Municipio en el ámbito de su competencia.
+
+En la constitución de la garantía, deberán observarse las disposiciones específicas aplicables a cada tipo de garantía, y las previstas para la obligación principal que deba garantizarse.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 151 Ter.
+
+La fijación de la garantía deberá satisfacer los requisitos de fundamentación y motivación, la cual deberá ser suficiente a la ejecución de obra.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 151 Quáter.
+
+Vencido el plazo de licencias, permisos o autorizaciones; y si las obras no estuvieran entregadas al Municipio, se harán efectivas las garantías a través del procedimiento administrativo de ejecución, previsto en el Código Fiscal del Estado de Querétaro.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 151 Quinquies.
+
+Los Municipios ordenarán la cancelación o liberación de la garantía otorgada, cuando el desarrollador haya ejecutado las obras de utilidad pública y de servicios conforme a la licencia otorgada.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 151 Sexies.
+
+La garantía podrá disminuirse o sustituirse por una menor, en la misma proporción en que se cumpla con las obligaciones del fraccionador y/o desarrollador.
+
 ### Capítulo Segundo. De la Infraestructura, Equipamiento y Servicios Urbanos en los Desarrollos Inmobiliarios
-
-### Capítulo Tercero. De las Transmisiones Gratuitas en los Desarrollos Inmobiliarios
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 152.
 
@@ -1741,7 +1827,9 @@ IV. Andadores o calles con retorno. Son vías de acceso a la vivienda con muy ba
 
 El arroyo y dimensiones de la vialidad serán determinados según la carga vehicular o el desarrollo potencial de la zona, asegurando una estructura vial que permita el traslado de personas y bienes utilizando diferentes medios de transporte.
 
-### Capítulo Cuarto. De las Obras de Urbanización e Infraestructura
+### Capítulo Tercero. De las Transmisiones Gratuitas en los Desarrollos Inmobiliarios
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 156.
 
@@ -1861,7 +1949,7 @@ La escritura que señale las áreas materia de la transmisión gratuita, no caus
 
 Los propietarios de los desarrollos inmobiliarios, tendrán obligación de urbanizar las áreas materia de la transmisión gratuita, en los términos y especificaciones de la autorización de licencia para ejecución de obras de urbanización correspondiente.
 
-### Capítulo Quinto. De la Fusión y Subdivisión de Predios
+### Capítulo Cuarto. De las Obras de Urbanización e Infraestructura
 
 ###### Artículo 160.
 
@@ -1903,7 +1991,7 @@ Tratándose de la enajenación de un desarrollo inmobiliario, ya sea en forma to
 
 El adquirente, deberá solicitar al Municipio que corresponda el reconocimiento administrativo de la causahabiencia, a través del Acuerdo del Ayuntamiento correspondiente; el que deberá ser publicado en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga" e inscrito en el Registro Público de la Propiedad y del Comercio.
 
-### Capítulo Sexto. De los Fraccionamientos y sus Características
+### Capítulo Quinto. De la Fusión y Subdivisión de Predios
 
 ###### Artículo 166.
 
@@ -2019,7 +2107,7 @@ No se autorizará la fusión de lotes, unidades privativas o condominios que per
 
 Para el caso de ampliación de etapa de un desarrollo inmobiliario, en la modalidad de fraccionamiento en superficie colindante al desarrollo, se estará a lo dispuesto en el artículo 150 de este ordenamiento.
 
-### Capítulo Séptimo. Del Condominio
+### Capítulo Sexto. De los Fraccionamientos y sus Características
 
 ###### Artículo 178.
 
@@ -2217,13 +2305,17 @@ En caso de incumplimiento la autoridad competente hará efectivo el instrumento 
 
 En caso de que la garantía se otorgue a través de hipoteca, la escritura en la que se constituya no causará el pago por derechos de inscripción en el Registro Público de la Propiedad y el Comercio.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 199.
 
-Concluida la totalidad de las obras establecidas en la licencia de ejecución de obras de urbanización y recibidas a satisfacción por el Municipio respectivo, la fianza citada en el artículo anterior será cancelada por la autoridad competente previa solicitud del desarrollador.
+Concluida la totalidad de las obras establecidas en la licencia de ejecución de obras de urbanización y recibidas a satisfacción por el Municipio respectivo, la garantía será cancelada por la autoridad competente previa solicitud del desarrollador.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 200.
 
-La autorización para venta de lotes, tendrá la misma vigencia que la establecida en la licencia de ejecución de obras de urbanización; en caso de prórroga podrá modificarse el monto de la fianza establecida para garantizar la ejecución de las obras de urbanización atendiendo a las condiciones técnicas y jurídicas que prevalezcan a la fecha.
+La autorización para venta de lotes, tendrá la misma vigencia que la establecida en la licencia de ejecución de obras de urbanización; en caso de prórroga deberá modificarse la garantía establecida para responder por la ejecución de las obras de urbanización atendiendo a las condiciones técnicas y jurídicas que prevalezcan a la fecha.
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
@@ -2283,11 +2375,13 @@ Una vez efectuadas las reparaciones por el desarrollador y recibido aviso de ell
 
 Si de la inspección a que se refiere el artículo 205 de este Código, resulta que las obras y servicios del fraccionamiento se encuentran funcionando en forma óptima y fueron ejecutadas conforme a las autorizaciones respectivas, se procederá al cierre de la bitácora de las obras de urbanización, haciéndose constar lo anterior en el acta respectiva.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 208.
 
-Cerrada la bitácora, el Municipio correspondiente iniciará el proceso para la emisión del acuerdo de cabildo relativo a la entrega y recepción de obras de urbanización, en el que se establecerá la obligación del desarrollador de otorgar a favor del Municipio, fianza para garantizar los vicios ocultos de las obras de urbanización por el término de un año contado a partir de la fecha de entrega y recepción del fraccionamiento.
+Cerrada la bitácora, el Municipio correspondiente iniciará el proceso para la emisión del acuerdo de cabildo relativo a la entrega y recepción de obras de urbanización, en el que se establecerá la obligación del desarrollador de otorgar a favor del Municipio, garantía para cubrir los vicios ocultos de las obras de urbanización por el término de un año contado a partir de la fecha de entrega y recepción del fraccionamiento.
 
-La fianza será del diez por ciento del presupuesto total de las obras de urbanización del fraccionamiento, más su actualización. Cumplido el plazo de garantía sin que se hubieren presentado vicios ocultos, se procederá a la cancelación de ésta, previa solicitud hecha por el desarrollador.
+La garantía será del diez por ciento del presupuesto total de las obras de urbanización del fraccionamiento, más su actualización. Cumplido el plazo de garantía sin que se hubieren presentado vicios ocultos, se procederá a la cancelación de ésta, previa solicitud hecha por el desarrollador
 
 ###### Artículo 209.
 
@@ -2299,7 +2393,21 @@ Concluido dicho plazo, sin que se haya realizado la entrega del fraccionamiento,
 
 A partir de la fecha de entrega, la autoridad municipal se hará cargo de la operación de las obras y servicios del fraccionamiento, así como de la prestación de los servicios de vigilancia, limpia y mantenimiento de áreas verdes, en su caso. El organismo operador de los servicios de agua potable y drenaje, se hará cargo de la operación de los mismos.
 
-### Capítulo Octavo. De los Conjuntos Habitacionales y Comerciales
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 210 Bis.
+
+Corresponderá a cada Municipio en el ámbito de su competencia, vigilar el proceso de entrega-recepción de obras de urbanización de los Fraccionamientos, de conformidad con los Planes o Programas de desarrollo urbano, preservando el equilibrio ecológico, la protección al medio ambiente, garantizando la conectividad y movilidad, otorgando los servicios dignos para el sano desarrollo de la sociedad y las demás que le señalen las disposiciones en la materia.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 210 Ter.
+
+Los desarrolladores podrán solicitar la entrega-recepción de los Fraccionamientos autorizados de manera total, parcial o por servicio.
+
+En el ámbito interno, cada Municipio regirá los procedimientos de entrega-recepción previstos en este Código, la Ley en la materia y los reglamentos que cada Municipio apruebe.
+
+### Capítulo Séptimo. Del Condominio
 
 #### Sección Primera. Disposiciones Generales
 
@@ -2395,7 +2503,9 @@ b) Atendiendo a su uso:
 
 6. Mixtos de usos compatibles. Son aquéllos en donde la unidad de propiedad privativa, se destina a dos o más usos de los señalados en los incisos anteriores.
 
-II. La obligatoriedad de que los desarrolladores presenten póliza de fianza o garantía, para responder de la ejecución y conclusión de la construcción y urbanización, la cual deberá ser clara en los montos y términos, mismos que serán determinados por la autoridad competente;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+II. La obligatoriedad de que los desarrolladores presenten garantía, para responder de la ejecución y conclusión de la construcción y urbanización, la cual deberá ser clara en los montos y términos, mismos que serán determinados por la autoridad competente;
 
 III. La obligatoriedad de que se señalen en la Declaratoria los plazos para el cumplimiento de las obligaciones de la misma;
 
@@ -2697,7 +2807,9 @@ c) El uso general del condominio y el particular de cada unidad de propiedad pri
 
 d) Los bienes de propiedad común, sus medidas y colindancias, usos y datos que permitan su plena identificación;
 
-IV. Los datos de identificación de la póliza de fianza, para responder de la ejecución y conclusión de la construcción y urbanización. El monto de la fianza y los términos de la misma serán determinados por la autoridad competente;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+IV. Los datos de identificación de la garantía, para responder de la ejecución y conclusión de la construcción y urbanización. El monto y tipo de garantía serán determinados por la autoridad competente;
 
 V. La obligación de los condóminos de aportar las cuotas que determine la Asamblea para el mantenimiento y administración del condominio, así como para la constitución del fondo de reserva correspondiente;
 
@@ -2721,17 +2833,11 @@ Al apéndice de la escritura, se agregarán el plano general, los planos de cada
 
 Para que el desarrollador obtenga autorización para la venta de unidades privativas deberá presentar el avance de obra de urbanización, misma que deberá tener por lo menos un treinta por ciento de avance respecto del presupuesto autorizado.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 242.
 
-Dentro de los sesenta días siguientes a la emisión de la autorización para venta de unidades privativas del condominio, por parte de la autoridad municipal correspondiente, el desarrollador deberá constituir garantía ante dicha autoridad, la cual, a juicio de ésta podrá consistir en:
-
-I. Fianza emitida por compañía autorizada a favor de la autoridad municipal correspondiente, por el valor total de las obras de urbanización que falten por ejecutar, calculado al tiempo de su terminación en el condominio, etapa, sección o fase, más un treinta por ciento para garantizar la construcción de aquéllas en el plazo que se fije;
-
-II. Hipoteca sobre inmuebles distintos de los que queden sujetos al régimen de propiedad en condominio, que basten para garantizar los montos o porcentajes previstos en este artículo; y
-
-III. Depósito en efectivo por el diez por ciento del presupuesto total de las obras de urbanización.
+Dentro de los sesenta días siguientes a la emisión de la autorización para venta de unidades privativas del condominio, por parte de la autoridad municipal correspondiente, el desarrollador deberá constituir garantía ante dicha autoridad, en los términos de este Código.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
@@ -2811,13 +2917,13 @@ Si de la inspección a que se refiere el artículo anterior, se advierten desper
 
 Una vez efectuadas las reparaciones por el desarrollador y recibido aviso de ello, se procederá nuevamente a la inspección general, en términos de lo previsto en esta sección.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 250.
 
-Si de la inspección a que se refiere esta Sección, resulta que las obras y servicios del condominio se encuentran funcionando en forma óptima y fueron ejecutadas conforme a las autorizaciones respectivas, se procederá al cierre de la bitácora de las obras de urbanización, lo que se hará constar en el acta respectiva; procediendo la autoridad municipal correspondiente a emitir dictamen técnico aprobatorio de las obras de construcción y urbanización, en su caso, el cual establecerá la obligación del desarrollador de otorgar a favor de la Asamblea de condóminos, en un plazo de sesenta días naturales, fianza para garantizar los vicios ocultos de las obras de urbanización por el término de dos años, contados a partir de la fecha de entrega y recepción del condominio.
+Si de la inspección a que se refiere esta Sección, resulta que las obras y servicios del condominio se encuentran funcionando en forma óptima y fueron ejecutadas conforme a las autorizaciones respectivas, se procederá al cierre de la bitácora de las obras de urbanización, lo que se hará constar en el acta respectiva; procediendo la autoridad municipal correspondiente a emitir dictamen técnico aprobatorio de las obras de construcción y urbanización, en su caso, el cual establecerá la obligación del desarrollador de otorgar a favor de la Asamblea de condóminos, en un plazo de sesenta días naturales, una garantía que ampare los vicios ocultos de las obras de urbanización por el término de dos años, contados a partir de la fecha de entrega y recepción del condominio.
 
-La fianza será del diez por ciento del presupuesto total de las obras de urbanización del condominio, más su actualización. Cumplido el plazo de garantía sin que se hubieren presentado vicios ocultos, se procederá a la cancelación de ésta, previa solicitud hecha por el desarrollador.
+La carta de crédito irrevocable será del diez por ciento del presupuesto total de las obras de urbanización del condominio, más su actualización. Cumplido el plazo de garantía sin que se hubieren presentado vicios ocultos, se procederá a la cancelación de ésta, previa solicitud hecha por el desarrollador.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
@@ -2831,11 +2937,11 @@ Emitido el dictamen técnico aprobatorio de la ejecución de obras de construcci
 
 La Asamblea general, a partir de la fecha de recepción de las obras de construcción y urbanización, se hará cargo de la operación y mantenimiento de las obras y servicios del condominio.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 253.
 
-En caso de existir vicios ocultos en las obras de urbanización, conforme al dictamen que emita la autoridad competente o perito autorizado en la materia, la Asamblea de condóminos podrá determinar las acciones legales que correspondan para hacer efectiva la fianza a que se refiere el artículo 250 de este Código.
+En caso de existir vicios ocultos en las obras de urbanización, conforme al dictamen que emita la autoridad competente o perito autorizado en la materia, la Asamblea de condóminos podrá determinar las acciones legales que correspondan para hacer efectiva la garantía a que se refiere el artículo 250 de este Código.
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2018)</small>
 
@@ -3621,7 +3727,7 @@ La decisión que resuelva el conflicto, será formalizada por las partes en form
 
 En caso de que el desarrollador no pueda realizar las obras de urbanización en el plazo autorizado, podrá solicitar a la autoridad municipal correspondiente por escrito, la prórroga por el tiempo que considere necesario, exponiendo los motivos que le asistan; debiendo dictarse resolución en un término no mayor a treinta días hábiles, contados a partir del siguiente al en que fue recibida la solicitud.
 
-### Capítulo Primero. Disposiciones Generales
+### Capítulo Octavo. De los Conjuntos Habitacionales y Comerciales
 
 ###### Artículo 311.
 
@@ -3639,11 +3745,11 @@ Para los desarrollos inmobiliarios a que se refiere este Capítulo, que hayan si
 
 La modificación de un conjunto habitacional o comercial se sujetará a lo dispuesto en el presente Código, considerando las características y condiciones físicas existentes.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 315.
 
-La modificación de los conjuntos habitacionales o comerciales estará sujeta al dictamen técnico de la autoridad competente y a la ubicación del conjunto habitacional; contendrá las acciones que tendrán que llevarse a cabo por parte de los organismos operadores de los sistemas de infraestructura y viabilidad, del cumplimiento de fianzas y áreas de transmisión gratuita, debiéndose formalizar en escritura pública e inscribir en el Registro Público de la Propiedad y del Comercio.
+La modificación de los conjuntos habitacionales o comerciales estará sujeta al dictamen técnico de la autoridad competente y a la ubicación del conjunto habitacional; contendrá las acciones que tendrán que llevarse a cabo por parte de los organismos operadores de los sistemas de infraestructura y viabilidad, del cumplimiento de garantías y áreas de transmisión gratuita, debiéndose formalizar en escritura pública e inscribir en el Registro Público de la Propiedad.
 
 ###### Artículo 316.
 
@@ -3655,7 +3761,7 @@ La autoridad estatal y municipal, no expedirá autorización alguna para la edif
 
 ## Título Cuarto. De las Construcciones
 
-### Capítulo Segundo. Del Dictamen de Uso de Suelo, Licencias de Construcción, Riesgos y Vulnerabilidad Urbana, Vía Pública y Contexto de Imagen Urbana
+### Capítulo Primero. Disposiciones Generales
 
 ###### Artículo 318.
 
@@ -3683,7 +3789,7 @@ El Municipio en que se vaya a realizar la construcción, previo a otorgar la lic
 
 La autoridad competente podrá autorizar la poda y tala de árboles en áreas públicas o privadas, siempre que sean coincidentes con las disposiciones contenidas en la Ley Forestal Sustentable del Estado de Querétaro, su Reglamento y demás disposiciones legales aplicables.
 
-### Capítulo Tercero. De los Anuncios
+### Capítulo Segundo. Del Dictamen de Uso de Suelo, Licencias de Construcción, Riesgos y Vulnerabilidad Urbana, Vía Pública y Contexto de Imagen Urbana
 
 #### Sección Primera. Del Informe y Dictamen de Uso de Suelo
 
@@ -3943,7 +4049,7 @@ I. Calidad visual, para garantizar que la estructura urbana y sus elementos sean
 
 II. Eficiencia y funcionalidad, consistente en que los criterios, normas y regulaciones en materia de imagen y diseño urbanos, deberán tender a las soluciones adecuadas para la operación y funcionamiento de los centros de población.
 
-### Capítulo Primero. Disposiciones Generales
+### Capítulo Tercero. De los Anuncios
 
 ###### Artículo 360.
 
@@ -3979,7 +4085,7 @@ Las autoridades federales, estatales y municipales podrán llevar a cabo accione
 
 ## Título Quinto. De las Obras de Urbanización mediante el Sistema de Obras por Cooperación y Captación
 
-### Capítulo Segundo. Sistema por Cooperación
+### Capítulo Primero. Disposiciones Generales
 
 ###### Artículo 366.
 
@@ -4025,7 +4131,7 @@ El titular del Poder Ejecutivo del Estado, a través de la Secretaría de Desarr
 
 La autoridad competente autorizará las obras establecidas en el presente Título, conforme a lo previsto en los programas de desarrollo urbano y en este Código, la Ley de Participación Ciudadana vigente en el Estado y los programas de desarrollo urbano que al efecto se expidan.
 
-### Capítulo Tercero. Del Sistema de Captación
+### Capítulo Segundo. Sistema por Cooperación
 
 ###### Artículo 370.
 
@@ -4181,7 +4287,7 @@ En el caso del artículo anterior de darse el supuesto previsto por el párrafo 
 
 En caso de que del dictamen a que refiere el artículo 376 de este Código, considere no viable la ejecución de la obra, la autoridad competente deberá hacerlo del conocimiento del Comité de Cooperación, mediante notificación personal.
 
-### Capítulo Primero. Disposiciones Generales
+### Capítulo Tercero. Del Sistema de Captación
 
 ###### Artículo 391.
 
@@ -4197,9 +4303,7 @@ Las obras que se realicen mediante el sistema de captación, serán financiadas 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
-### Capitulo Segundo. De la Comisión Estatal de Aguas
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
+### Capítulo Primero. Disposiciones Generales
 
 ###### Artículo 393.
 
@@ -4239,7 +4343,7 @@ Las obras que se realicen mediante el sistema de captación, serán financiadas 
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
-### Capítulo Tercero. De los Servicios
+### Capitulo Segundo. De la Comisión Estatal de Aguas
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
@@ -4315,7 +4419,7 @@ Las obras que se realicen mediante el sistema de captación, serán financiadas 
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
-### Capítulo Cuarto. De las Tarifas y Derechos
+### Capítulo Tercero. De los Servicios
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
@@ -4511,7 +4615,9 @@ L(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
-### Capítulo Quinto. De las Concesiones
+### Capítulo Cuarto. De las Tarifas y Derechos
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
 #### Sección Primera. De las Tarifas
 
@@ -4621,7 +4727,7 @@ L(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
-### Capítulo Primero. Disposiciones Generales
+### Capítulo Quinto. De las Concesiones
 
 ###### Artículo 482.
 
@@ -4685,9 +4791,7 @@ L(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ## Título Séptimo. De las Carreteras, Caminos y otras Vialidades
 
-### Capítulo Segundo. De la Construcción de Carreteras
-
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+### Capítulo Primero. Disposiciones Generales
 
 ###### Artículo 497.
 
@@ -4711,7 +4815,9 @@ La Comisión Estatal de Infraestructura de Querétaro deberá elaborar sus progr
 
 Cualquier infracción al presente Título será sancionada por la Comisión Estatal de Infraestructura de Querétaro, de conformidad con lo que dispone este Código y demás ordenamientos de la materia.
 
-### Capítulo Tercero. Del Derecho de Vía en Carreteras y Caminos
+### Capítulo Segundo. De la Construcción de Carreteras
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 ###### Artículo 501.
 
@@ -4763,7 +4869,7 @@ La Comisión Estatal de Infraestructura de Querétaro, establecerá las seccione
 
 La conservación de las carreteras, caminos y otras vialidades del Estado será competencia de la Comisión Estatal de Infraestructura de Querétaro, y por lo que refiere a vialidades de las zonas urbanas y suburbanas serán competencia de la autoridad municipal correspondiente.
 
-### Capítulo Primero. De las Medidas de Seguridad
+### Capítulo Tercero. Del Derecho de Vía en Carreteras y Caminos
 
 ###### Artículo 506.
 
@@ -4789,7 +4895,9 @@ I. Vigilar que se respete el derecho de vía y autorizar su uso, ocupación y ap
 
 II. Celebrar convenios con las dependencias Federales o Municipales para la entrega y recepción de las vialidades que por sus características técnicas, flujo vehicular, naturaleza del tránsito y ubicación, sean consideradas de jurisdicción federal, estatal o municipal; y
 
-III. Llevar a cabo el registro estatal de las vialidades de jurisdicción estatal.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+III. Llevar a cabo el registro de las vialidades de la jurisdicción estatal, así como de los derechos de vía liberados por autoridad competente.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
@@ -4821,7 +4929,7 @@ Se requiere autorización previa otorgada por la Comisión Estatal de Infraestru
 
 ## Título Octavo. De las Medidas de Seguridad, Sanciones, Procedimiento Administrativo y Medios de Impugnación
 
-### Capítulo Segundo. De las Infracciones y Sanciones
+### Capítulo Primero. De las Medidas de Seguridad
 
 ###### Artículo 514.
 
@@ -4863,7 +4971,7 @@ Cuando se trate de un caso de alto riesgo, de emergencia o de desastre, las medi
 
 El Poder Ejecutivo del Estado y los Municipios, propondrán a las dependencias del Ejecutivo Federal la celebración de acuerdos de coordinación para realizar actos de inspección y vigilancia tendientes a la verificación del cumplimiento de asuntos del orden federal en materia ambiental y del desarrollo urbano.
 
-### Capítulo Tercero. Del Procedimiento Administrativo
+### Capítulo Segundo. De las Infracciones y Sanciones
 
 #### Sección Primera. De las Infracciones
 
@@ -4953,13 +5061,19 @@ I. Suspensión de la obra;
 
 II. Demolición de la obra; Construcción, modificación o retiro de obras e instalaciones; y
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2023)</small>
 
-III. Multa de cincuenta hasta mil veces la Unidad de Medida y Actualización vigente al momento de cometerse la infracción;
+III. Multa del equivalente a la cantidad de cíen a diez mil veces el Valor Diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2023)</small>
 
-Para la individualización de las sanciones, se deberá considerar la gravedad de la infracción, la capacidad económica del infractor, su reincidencia en la comisión del hecho que la motiva, o cualquier otro elemento del que pueda inferirse la gravedad o levedad del hecho infractor.
+Para la individualización de las sanciones, se tomará en cuenta, la capacidad económica del infractor, la gravedad de la sanción, las circunstancias particulares del caso, la reincidencia y, en su caso, el monto del beneficio, daño o perjuicio económico derivado de la infracción; así como, su reincidencia en la comisión del hecho que la motiva, o cualquier otro elemento del que pueda inferirse la gravedad o levedad del hecho infractor.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 528 Bis.
+
+El Municipio podrá facultar a la Dependencia que corresponda, para imponer sanciones por las infracciones a este Código, así como para acordar las medidas de seguridad que se requieran.
 
 ###### Artículo 529.
 
@@ -4981,7 +5095,7 @@ Las sanciones de carácter pecuniario se liquidarán por el infractor en las ofi
 
 Independientemente de las sanciones administrativas que se impongan al infractor, la autoridad competente hará del conocimiento del Ministerio Público los hechos que pudieran ser constitutivos de delito.
 
-### Capítulo Cuarto. De los Medios de Impugnación
+### Capítulo Tercero. Del Procedimiento Administrativo
 
 #### Sección Primera. De las Notificaciones
 
@@ -5000,6 +5114,8 @@ En materia de protección ambiental, la Procuraduría Estatal de Protección al 
 ###### Artículo 536.
 
 En caso de obstaculización u oposición a la práctica de la diligencia, la autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección.
+
+### Capítulo Cuarto. De los Medios de Impugnación
 
 ###### Artículo 537.
 
@@ -5666,3 +5782,27 @@ Artículo Séptimo. El Organismo Operador del Sistema de Agua Potable del munici
 Artículo Octavo. Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, serán concluidos por la Comisión Estatal de Aguas con todos sus alcances, efectos y facultades de conformidad con las disposiciones vigentes a la entrada en vigor del presente decreto y atendiendo a su competencia.
 
 Artículo Noveno. Los prestadores de servicios y concesionarios, implementarán y difundirán programas que fomenten la regularización e instalación de tomas y medidores individualizados, para aquellas unidades privativas existentes, que se encuentren bajo el régimen condominal.
+
+P.O. 17 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO".]
+
+Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Querétaro, La Sombra de Arteaga.
+
+Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a la presente reforma.
+
+P.O. 17 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA AGILIZAR LOS PROCEDIMIENTOS DE ENTREGA-RECEPCIÓN DE FRACCIONAMIENTOS EN EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se instruye a los Ayuntamientos de los Municipios para aprobar y publicar en su medio de comunicación oficial, las adecuaciones a sus disposiciones reglamentarias internas que correspondan en materia de entrega-recepción de fraccionamientos, en un plazo de sesenta días hábiles.
+
+Los casos no previstos, los resolverá el Ayuntamiento con fundamento en la Ley Orgánica Municipal del Estado de Querétaro, la Ley para Agilizar los Procedimientos de Entrega-Recepción de Fraccionamientos en el Estado de Querétaro y demás ordenamientos aplicables.
+
+Artículo Tercero. Las solicitudes en trámite de autorización de fraccionamientos y/o condominios, presentadas antes de la fecha de entrada en vigor de las presentes reformas se seguirán tramitando conforme a las disposiciones vigentes al momento de su trámite.
+
+Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Quinto. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Querétaro, “La Sombra de Arteaga".
