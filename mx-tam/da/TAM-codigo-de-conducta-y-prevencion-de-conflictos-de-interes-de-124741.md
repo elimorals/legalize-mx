@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-124
 country: "mx"
 rank: "codigo"
 publication_date: "2017-08-28"
-last_updated: "2017-08-28"
+last_updated: "2023-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LOS SERVIDORES PUBLICOS DEL INSTITUTO DE PREVISION Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 17 DE NOVIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2023 (DEROGADO).
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 28 de agosto de 2017.
 
@@ -553,3 +555,29 @@ Nombre y Apellidos del Servidor Público
 Fecha de Adhesión.
 
 Firma del Servidor Público
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Conducta entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga el Código de Conducta y Prevención de Conflictos de Interés de los Servidores Públicos del IPSSET, publicado en el Periódico Oficial del Estado Extraordinario Número 12, Tomo CXLII, de fecha 28 de agosto de 2017.
+
+###### ARTÍCULO TERCERO.
+
+Los casos no previstos en este Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos del Instituto de Previsión y Seguridad Social del Estado de Tamaulipas, serán resueltos por el Comité de Ética, Conducta y Prevención de Conflictos de Interés del Instituto, a propuesta de su presidente o presidenta.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos administrativos que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Código, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron tales procedimientos.
+
+###### ARTICULO QUINTO.
+
+El Comité de Ética, establecerá mecanismos de difusión del presente Código para su debido cumplimiento, una vez que haya sido publicado en el Periódico Oficial del Estado.
