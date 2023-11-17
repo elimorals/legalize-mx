@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2023-10-10"
+last_updated: "2023-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -1279,6 +1279,14 @@ XVII. Coadyuvar en el acceso a los bienes, servicios, ayudas técnicas y rehabil
 XVIII. Fomentar, promover y proteger la práctica de lactancia materna como medida para combatir la mortalidad por desnutrición de las niñas y los niños que se encuentran en la primera infancia.
 
 En todos los casos que proporcionen los servicios de salud se respetará el derecho a la intimidad de niñas, niños y adolescentes y a un trato digno.
+
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 47 Bis.
+
+Para apoyar en la eliminación de las formas de malnutrición de niñas, niños y adolescentes, la distribución de alimentos y bebidas preparadas y procesadas dentro de los planteles educativos, tanto públicos y privados de educación básica y educación media superior, deberá sujetarse a lo dispuesto por los lineamientos establecidos por la Secretaría de Educación Pública.
+
+La aplicación, vigilancia y cumplimiento de esta disposición estará a cargo de las autoridades educativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE OCTUBRE DE 2023)</small>
 
@@ -2927,5 +2935,13 @@ G.O. 10 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXXV BIS AL ARTÍCULO 4 Y SE MODIFICA LA FRACCIÓN VI DEL ARTÍCULO 58, AMBOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 17 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 47 BIS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
