@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-agilizar-los-procedimientos-de-entrega-recepcion-14777
 country: "mx"
 rank: "ley"
 publication_date: "2021-02-17"
-last_updated: "2021-08-20"
+last_updated: "2023-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=147771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA AGILIZAR LOS PROCEDIMIENTOS DE ENTREGA-RECEPCIÓN DE FRACCIONAMIENTOS EN EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2023.
 
 Ley Publicada en el Número 15 del Periódico Oficial del Estado de Querétaro, el miércoles 17 de febrero de 2021.
 
@@ -67,7 +67,7 @@ VI. Que los desarrolladores o propietarios soliciten al municipio correspondient
 
 VII. Que no hayan sido entregados y que, ante la falta definitiva de los desarrolladores o propietarios, cuenten con una asociación de colonos, comité vecinal o figura jurídica que determine cada municipio y que manifiesten su interés en iniciar el procedimiento de entrega recepción en su modalidad parcial o total ante el Municipio correspondiente, conforme a los lineamientos o programas que cada municipio establezca;
 
-VIII. Que tengan una antigüedad mínima de diez años, contados a partir del vencimiento de la licencia de ejecución de obras de urbanización; y
+VIII. (DEROGADA, P.O. 17 DE NOVIEMBRE DE 2023)
 
 IX. Que el desarrollador o propietario esté acreditado como ilocalizable o en un procedimiento de concurso mercantil y la entrega-recepción sea promovida ante el Ayuntamiento a través de la asociación de colonos, comité vecinal o cualquier otra figura jurídica que determine cada Municipio
 
@@ -121,7 +121,9 @@ Para todo lo no previsto en esta Ley, se aplicará supletoriamente lo dispuesto 
 
 ## TRANSITORIOS
 
-Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga" y tendrá una vigencia máxima de tres años.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2023)</small>
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga" y tendrá una vigencia indefinida.
 
 Artículo Segundo. Una vez que entre en vigor la presente Ley, los Municipios del Estado de Querétaro que así lo requieran, elaborarán sus programas en los que se implementarán y definirán los procedimientos y requisitos que sean necesarios para la aplicación de esta Ley.
 
@@ -180,3 +182,19 @@ Artículo Primero. La presente reforma entrará en vigor al día siguiente de su
 Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a la presente reforma.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 17 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA AGILIZAR LOS PROCEDIMIENTOS DE ENTREGA-RECEPCIÓN DE FRACCIONAMIENTOS EN EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se instruye a los Ayuntamientos de los Municipios para aprobar y publicar en su medio de comunicación oficial, las adecuaciones a sus disposiciones reglamentarias internas que correspondan en materia de entrega-recepción de fraccionamientos, en un plazo de sesenta días hábiles.
+
+Los casos no previstos, los resolverá el Ayuntamiento con fundamento en la Ley Orgánica Municipal del Estado de Querétaro, la Ley para Agilizar los Procedimientos de Entrega-Recepción de Fraccionamientos en el Estado de Querétaro y demás ordenamientos aplicables.
+
+Artículo Tercero. Las solicitudes en trámite de autorización de fraccionamientos y/o condominios, presentadas antes de la fecha de entrada en vigor de las presentes reformas se seguirán tramitando conforme a las disposiciones vigentes al momento de su trámite.
+
+Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Quinto. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Querétaro, “La Sombra de Arteaga".
