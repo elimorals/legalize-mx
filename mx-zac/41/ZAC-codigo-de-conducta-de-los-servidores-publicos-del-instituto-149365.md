@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-conducta-de-los-servidores-publicos-del-instituto-149
 country: "mx"
 rank: "codigo"
 publication_date: "2021-05-01"
-last_updated: "2023-02-22"
+last_updated: "2023-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "ZAC"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DEL INSTITUTO DE LA DEFENSORIA PUBLICA DEL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL QUINTO TRANSITORIO DEL CÓDIGO DE CONDUCTA DEL INSTITUTO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 22 DE FEBRERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL QUINTO TRANSITORIO DEL CÓDIGO DE CONDUCTA DEL INSTITUTO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 22 DE FEBRERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO SOCIAL DE GOBIERNO DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 18 DE NOVIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2023 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2023 (ABROGADO).
 
 Código publicado en el Suplemento 3 al Número 35 del Periódico Oficial del Estado de Zacatecas, el sábado 1 de mayo de 2021.
 
@@ -624,3 +626,17 @@ TERCERO. – En cumplimiento a lo establecido en el Código de Ética de la Admi
 CUARTO. – Concluida la revisión y aprobación del presente Código de Conducta del Instituto de la Defensoría Pública del Estado de Zacatecas, los integrantes del Comité de Ética lo firmarán para su debido cumplimiento.
 
 QUINTO. – Al entrar en vigor el presente código, se abroga el Código de Conducta de los Servidores Públicos del Instituto de la Defensoría Pública del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado correspondiente al día 1 de mayo de 2021.
+
+P.O. 18 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO SOCIAL DE GOBIERNO DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Una vez publicado, es obligación del Comité de Ética su entrega, difusión, capacitación y vigilancia del presente Código de Conducta, así como recabar las firmas de la carta compromiso de cada uno de los servidores públicos que conforman el Instituto, enviando el original al Departamento de Recursos Humanos para el archivo en los respectivos expedientes personales y conservar una copia en el respectivo archivo de la Secretaría Ejecutiva.
+
+TERCERO. En cumplimiento a lo establecido en el Código de Ética de la Administración Pública del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, para su debido cumplimiento, se expide el Código de Conducta de la Secretaría de Desarrollo Social del Estado de Zacatecas.
+
+CUARTO. Concluida la revisión y aprobación del presente Código de Conducta del (sic) Secretaría de Desarrollo Social del Estado de Zacatecas, los integrantes del Comité de Ética lo firmarán para su debido cumplimiento.
+
+QUINTO. Al entrar en vigor el presente código, se abroga el Código de Conducta de los Servidores Públicos del Instituto de la Defensoría Pública del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado correspondiente al día 1 de mayo de 2021.
