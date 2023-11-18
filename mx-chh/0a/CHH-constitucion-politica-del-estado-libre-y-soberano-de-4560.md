@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2023-04-26"
+last_updated: "2023-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2023.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1981,13 +1981,11 @@ VII.- Hacer observaciones a las leyes o decretos en los términos del artículo 
 
 VIII.- Prestar al Poder Judicial los auxilios que demande para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales.
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2023)</small>
 
-IX.- Presentar anualmente al Congreso, a más tardar el día treinta de noviembre, la iniciativa de ley de ingresos y el proyecto de presupuesto de egresos para el año siguiente, dentro del cual se deberá destinar por lo menos un 3% de los ingresos de libre disposición al presupuesto participativo para inversión pública productiva, debiendo para tales efectos comparecer el encargado de las finanzas del Estado a dar cuenta de ambos, en la fecha en que el Congreso lo solicite.
+IX.- Presentar anualmente al Congreso, a más tardar el día treinta de noviembre, la iniciativa de ley de ingresos y el proyecto de presupuesto de egresos para el año siguiente, dentro del cual se deberá destinar al presupuesto participativo por lo menos un 5% de los recursos para inversión pública productiva provenientes de los ingresos de libre disposición del Estado. La persona encargada de las finanzas del Estado deberá comparecer a dar cuenta de ambos, en la fecha en que el Congreso lo solicite.
 
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2023)</small>
-
-La ley establecerá el procedimiento para la determinación, organización, desarrollo, ejercicio, seguimiento y control del presupuesto participativo, debiendo prever la regionalización del Estado para la distribución equitativa y proporcional de los recursos.
+El procedimiento para la determinación, organización, desarrollo, ejercicio, seguimiento y control del presupuesto participativo, incluyendo la regionalización del Estado para la distribución equitativa y proporcional de los recursos, será reglamentado asegurando el cumplimiento de las leyes aplicables a la rendición de cuentas en el ejercicio de los recursos públicos.
 
 > <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
@@ -5552,3 +5550,19 @@ En cumplimiento del Principio de Progresividad que impera en materia de Derechos
 ###### ARTÍCULO CUARTO.
 
 En relación con el artículo 177 Ter, el establecimiento de los Centros Regionales de Personas Traductoras e Intérpretes atenderá a la suficiencia y justificación presupuestal que el Poder Judicial del Estado de Chihuahua establezca.
+
+P.O. 18 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVII/RFCNT/0594/2023 XI P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 93 FRACCIÓN IX DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y de los debates, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su momento, hágase el cómputo de los votos de los Ayuntamientos y la declaratoria de haber sido aprobada la presente reforma.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado, a más tardar el 31 de diciembre de 2023, deberá expedir las disposiciones reglamentarias o lineamientos que establezcan los procedimientos para la determinación, organización, desarrollo, ejercicio, seguimiento y control del presupuesto participativo del Estado, así como la regionalización correspondiente, conforme a lo previsto en el presente Decreto.
