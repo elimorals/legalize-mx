@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-145350"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-25"
-last_updated: "2023-07-22"
+last_updated: "2023-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145350&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el miércoles 25 de noviembre de 2020.
 
@@ -684,6 +684,10 @@ V. Garantizar la formación de todo el personal docente para que, en el ámbito 
 VI. Garantizar la satisfacción de las necesidades básicas de aprendizaje de los educandos con alguna discapacidad, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva, y
 
 VII. Promover actitudes, prácticas y políticas incluyentes para la eliminación de las barreras del aprendizaje en todos los actores sociales involucrados en educación.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2023)</small>
+
+3. La educación especial, procurará incorporar la Modalidad de Educación Dual para las Personas con Discapacidad, para lograr una formación que les permita lograr su autosuficiencia e integración plena, efectiva y activa en la sociedad, asimismo para garantizar su derecho al trabajo, brindándole los conocimientos, habilidades y competencias que le permitan su inclusión en condiciones de igualdad al mundo laboral.
 
 ###### Artículo 46.
 
@@ -1486,6 +1490,10 @@ XVII. Presentar un informe sobre los principales aspectos de mejora anual contin
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2023)</small>
 
 XVIII. Las demás que con tal carácter establezcan la Ley General de Educación, esta Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2023)</small>
+
+2. Además de las atribuciones a que se refiere la Ley General de Educación y la presente Ley, la Autoridad Educativa Estatal procurará impulsar y fomentar la modalidad de Educación Dual para las Personas con Discapacidad.
 
 ###### Artículo 110.
 
@@ -2332,3 +2340,13 @@ P.O. 22 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “NÚM. 334.- POR EL QUE SE ADICIONA LA FRACCIÓN VI AL NUMERAL 1 DEL ARTÍCULO 11 Y LA FRACCIÓN XI AL NUMERAL 1 DEL ARTÍCULO 13 HACIENDO EL CORRIMIENTO DE LA SUBSECUENTE FRACCIÓN, SE REFORMA LA FRACCIÓN X DEL NUMERAL 1 DEL ARTÍCULO 13 DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 18 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 364.- POR EL QUE SE ADICIONA EL NUMERAL 3 AL ARTÍCULO 45 Y SE ADICIONA EL NUMERAL 2, AL ARTÍCULO 109 DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- La Titular del Ejecutivo del Estado, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente decreto, adecuará el reglamento interior de la Secretaría de Educación y Cultura, con respecto al contenido del presente decreto, con el objeto de que la Educación Dual para las Personas con Discapacidad, de acuerdo a sus capacidades, intereses y necesidades, alcancen el máximo desarrollo académico, productivo y social en un ambiente que les permita de manera efectiva y asertiva su inserción al mundo laboral, para lograr su autosuficiencia e integración activa en la sociedad.
+
+TERCERO.- Las disposiciones de esta Ley que requieran de presupuesto para su instrumentación y desarrollo se sujetarán a la disponibilidad presupuestaria del Gobierno del Estado.
