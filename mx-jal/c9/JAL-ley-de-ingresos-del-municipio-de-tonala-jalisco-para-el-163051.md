@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-municipio-de-tonala-jalisco-para-el-163051"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2022-12-20"
-last_updated: "2022-12-20"
+last_updated: "2023-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=163051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL MUNICIPIO DE TONALÁ, JALISCO, PARA EL EJERCICIO FISCAL 2023
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección CX del Número 7 del Periódico Oficial del Estado de Jalisco, el martes 20 de diciembre de 2022.
 
