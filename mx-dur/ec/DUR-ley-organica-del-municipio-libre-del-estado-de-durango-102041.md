@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2023-05-28"
+last_updated: "2023-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE MAYO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -37,7 +35,9 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fecha 20 de noviembre de 2013, los CC. Diputados José Ángel Beltrán Félix, Julián Salvador Reyes, Manuel Herrera Ruiz y Fernando Barragán Gutiérrez, integrantes de esta LXVI Legislatura, presentaron Iniciativa de Decreto, que contiene LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO; misma que fue turnada a la Comisión de Gobernación integrada por los CC. Diputados: Rosauro Meza Sifuentes, Agustín Bernardo Bonilla Saucedo, Arturo Kampfner Díaz, Israel Soto Peña y Eduardo Solís Nogueira; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-CONSIDERANDOS…
+CONSIDERANDOS
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXVI Legislatura del Estado, expide el siguiente:
 
@@ -217,9 +217,11 @@ Las controversias que surjan entre los municipios sobre límites de sus respecti
 
 ### Capítulo III. De los Habitantes del Municipio
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 10.
 
-Los habitantes de un municipio que adquieran la vecindad, tendrán los derechos y cumplirán con las obligaciones que determinen las leyes.
+Los habitantes de un municipio que adquieran la vecindad, tendrán los derechos, participarán y cumplirán con las obligaciones que determinen las leyes.
 
 ###### Artículo 11.
 
@@ -279,7 +281,13 @@ XII. Participar con el Ayuntamiento en la realización de acciones y en la ejecu
 
 XIII. Aportar las cuotas que le corresponda conforme a las disposiciones legales aplicables por los costos de la obra pública para uso común.
 
-XIV. Las que determinen esta Ley, el Bando de Policía y Gobierno, los reglamentos y las demás disposiciones que dicte el Ayuntamiento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2023)</small>
+
+XIV. Participar en las consultas y mecanismos que implemente el ayuntamiento para el ejercicio del presupuesto participativo.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE NOVIEMBRE DE 2023)</small>
+
+XV. Las que determinen esta Ley, el Bando de Policía y Gobierno, los reglamentos y las demás disposiciones que dicte el Ayuntamiento.
 
 ###### Artículo 15.
 
@@ -293,7 +301,9 @@ Los ayuntamientos promoverán la participación de sus habitantes para el desarr
 
 ###### Artículo 17.
 
-Los ayuntamientos promoverán entre sus habitantes las formas de participación comunitaria en las tareas que tienen a su cargo, con el objeto de que coadyuven al cumplimiento de sus fines y participen mediante el trabajo y la solidaridad en el desarrollo vecinal, cívico y en el beneficio colectivo del Municipio.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2023)</small>
+
+Los ayuntamientos promoverán entre sus habitantes las formas de participación comunitaria en las tareas que tienen a su cargo, con el objeto de que coadyuven al cumplimiento de sus fines, al desarrollo general y participen mediante el trabajo, los mecanismos de participación y la solidaridad en el desarrollo vecinal, cívico y en el beneficio colectivo del Municipio.
 
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 2019)</small>
 
@@ -541,11 +551,15 @@ XIII. Mantener permanente comunicación y un trabajo coordinado e institucional 
 
 XIV. Cumplir con las recomendaciones que emita la Comisión Estatal de Derechos Humanos de Durango, en base a lo dispuesto por la Ley Orgánica de la Comisión Estatal de Derechos Humanos del Estado de Durango.
 
+En lo conducente y de conformidad a los fines señalados en el párrafo tercero, del artículo 27 de la Constitución Federal, expedirá los reglamentos y disposiciones administrativas que fueren necesarios.
+
+Y las demás que le confiere la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las demás leyes.
+
 > <small>(ADICIONADA, P.O. 30 DE MAYO DE 2019)</small>
 
 XV. Promover entre sus habitantes el uso y aprovechamiento de agua de lluvia, a través de sistemas de captación, conducción, almacenamiento y tratamiento, por medio de construcción o instalación de tanques o cisternas pluviales, y
 
-> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DEL ÚLTIMO PÁRRAFO.]</small>
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DEL TERCER PÁRRAFO DE LA FRACCIÓN XIV.]</small>
 
 > <small>(ADICIONADA, P.O. 30 DE MAYO DE 2019)</small>
 
@@ -567,9 +581,9 @@ XIX. Regular las actividades económicas de los particulares de conformidad con 
 
 XX. Impulsar la transversalidad de la perspectiva de género en el desarrollo e implementación de los procesos de planeación, programación, elaboración de presupuestos, diseño de acciones y políticas públicas y evaluación dentro de la administración pública municipal.
 
-En lo conducente y de conformidad a los fines señalados en el párrafo tercero, del artículo 27 de la Constitución Federal, expedirá los reglamentos y disposiciones administrativas que fueren necesarios.
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2023)</small>
 
-Y las demás que le confiere la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las demás leyes.
+XXI. Generar la coordinación entre el municipio y las asociaciones de migrantes duranguenses para la realización de obra pública y social, así como propiciar la participación de las dependencias e instancias estatales y federales para dicho efecto.
 
 ###### Artículo 34.
 
@@ -955,9 +969,13 @@ Las dependencias y entidades de la administración pública municipal, conducir�
 
 Las dependencias y entidades de la administración pública municipal, ejercerán las funciones que les asigne esta Ley y los reglamentos expedidos por los propios ayuntamientos. Los ayuntamientos, con base en estas disposiciones, establecerán las estructuras de organización de las unidades administrativas en función de las características socio-económicas del municipio, de su propia capacidad económica y de los requerimientos de la comunidad.
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2023)</small>
 
-Los titulares de las dependencias de la administración pública municipal, así como de los organismos descentralizados durarán en su encargo únicamente, por el periodo constitucional del ayuntamiento en que hayan sido designados, sin perjuicio de que puedan ser removidos, siendo considerados funcionarios de libre designación, en ambos casos solo tendrán derecho a las medidas protectoras del salario contempladas en la ley laboral aplicables por la conclusión del encargo.
+Los titulares de las dependencias de la administración pública municipal, así como de los organismos descentralizados y los nombramientos que apruebe, designe y/o ratifique el Ayuntamiento durarán en su encargo únicamente, por el periodo constitucional del ayuntamiento en que hayan sido designados, sin perjuicio de que puedan ser removidos, siendo considerados funcionarios de libre designación, en ambos casos solo tendrán derecho a las medidas protectoras del salario contempladas en la ley laboral aplicables por la conclusión del encargo.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2023)</small>
+
+Para dar cumplimiento al párrafo anterior se establecerá en el presupuesto de egresos del Municipio de cada año un monto de recursos financieros en la partida presupuestal correspondiente que permita cumplir con los finiquitos e indemnizaciones correspondientes. Esta partida presupuestal es independiente de la partida que tengan que presupuestar para finiquitos del resto del personal.
 
 ###### Artículo 80.
 
@@ -2716,3 +2734,27 @@ P.O. 28 DE MAYO DE 2023.
 PRIMERO. La presente reforma entrará en vigor el día 1 de septiembre de 2025, previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 457 QUE CONTIENE REFORMA AL SEGUNDO PÁRRAFO Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 79 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 458 QUE CONTIENE ADICIÓN A LA (SIC) FRACCIÓN XXI AL INCISO D) DEL ARTÍCULO 33 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan al presente decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 459 POR EL QUE SE REFORMAN LOS ARTÍCULOS 10, 14 Y 17 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan al presente decreto.
