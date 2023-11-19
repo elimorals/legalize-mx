@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-y-bienestar-animal-para-la-94804"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-19"
-last_updated: "2021-12-26"
+last_updated: "2023-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Durango, el domingo 19 de mayo de 2013.
 
@@ -1681,7 +1681,9 @@ XI. No facilitar a los animales la alimentación adecuada a sus necesidades;
 
 XII. Ofrecer animales como premio o recompensa en concursos, o con fines publicitarios;
 
-XIII. La venta ambulante de animales, sin contar con el permiso de la autoridad correspondiente;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2023)</small>
+
+XIII. La venta ambulante de animales, lo que incluye la venta en redes sociales o plataformas digitales, sin contar con el permiso de la autoridad correspondiente;
 
 XIV Impedir al personal habilitado por los órganos competentes el acceso a las instalaciones de los establecimientos previstos en la presente Ley, así como no facilitar la información y documentación que se les requiera en el ejercicio de las funciones de control;
 
@@ -1910,3 +1912,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. A partir de la entrada en vigor del presente decreto, toda mención o alusión a la Procuraduría de Protección al Ambiente del Estado de Durango, en cualquier ordenamiento legal, se entenderá referido a la Secretaría de Recursos Naturales y Medio Ambiente.
 
 TERCERO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 474 POR EL CUAL SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 117 DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO”.]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. - Se derogan todas las disposiciones que se opongan al presente Decreto.
