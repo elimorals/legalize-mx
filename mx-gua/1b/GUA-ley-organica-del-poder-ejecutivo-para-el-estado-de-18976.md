@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2023-07-04"
+last_updated: "2023-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -307,9 +307,13 @@ III.- Elaborar y difundir los manuales de organización, de procedimientos y de 
 
 IV.- Enfocar sus actividades para promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad; y
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-V.- Desarrollar entre sus actividades el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez, protegiendo y respetando de manera plena sus derechos, en términos de la ley de la materia, a fin de garantizar el principio de interés superior de la niñez.
+V.- Desarrollar entre sus actividades el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez, protegiendo y respetando de manera plena sus derechos, en términos de la ley de la materia, a fin de garantizar el principio de interés superior de la niñez; y
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+VI. Implementar de manera obligatoria como parte de la capacitación, la igualdad de género y la perspectiva de género para todo el personal de la administración pública estatal.
 
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -560,6 +564,10 @@ i) Vigilar que los servidores públicos que manejen fondos del Estado caucionen 
 V.- En materia de recursos humanos:
 
 a) Establecer normas y políticas en materia de remuneración, administración, capacitación y desarrollo del personal, así como implementar y coordinar el servicio civil de carrera en los términos de esta Ley, auxiliándose de la unidad administrativa que corresponda;
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Coordinar el Programa General de Capacitación, en igualdad de género y en perspectiva de género para todo el personal de la administración pública estatal;
 
 b) Formular e implementar el catálogo general de puestos del Gobierno del Estado, estableciendo funciones y rangos de sueldos con relación a las responsabilidades y requisitos del puesto para el desempeño del trabajo;
 
@@ -2466,3 +2474,9 @@ P.O. 4 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 207, MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 3 BIS A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato, en los términos y alcances del artículo tercero transitorio del Decreto Legislativo número 213, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 169, segunda parte del 24 de agosto de 2020, con aplicabilidad a partir del periodo constitucional del Ejecutivo Estatal inmediato siguiente.
+
+P.O. 20 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 235, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO Y LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
