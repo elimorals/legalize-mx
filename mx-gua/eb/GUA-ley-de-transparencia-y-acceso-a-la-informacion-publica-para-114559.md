@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-114
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-13"
-last_updated: "2022-10-28"
+last_updated: "2023-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de mayo de 2016.
 
@@ -2535,6 +2535,10 @@ El Comisionado Presidente tendrá las siguientes facultades:
 
 I. Someter al Pleno del Instituto, para su aprobación y evaluación, los programas del Instituto;
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+El programa de capacitación incluirá además lo correspondiente a la igualdad de género y la perspectiva de género para todo el personal del Instituto;
+
 II. Elaborar y proponer al Pleno del Instituto, para su aprobación, el anteproyecto de presupuesto de egresos del Instituto;
 
 III. Suscribir convenios y contratos en los términos de la normatividad aplicable, previa autorización del Pleno, pudiendo delegar esta facultad en los supuestos establecidos en el Reglamento Interior del Instituto;
@@ -3154,3 +3158,9 @@ P.O. 28 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 98 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULO 170 Y 175 EN SU PRIMER PÁRRAFO RESPECTIVAMENTE Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 170 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 10 RECORRIÉNDOSE LOS SUBSECUENTES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 20 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 235, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO Y LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
