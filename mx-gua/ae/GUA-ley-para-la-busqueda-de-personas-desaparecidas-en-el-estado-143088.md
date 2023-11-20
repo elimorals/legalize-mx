@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-busqueda-de-personas-desaparecidas-en-el-estado-143
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-03"
-last_updated: "2023-10-24"
+last_updated: "2023-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA BÚSQUEDA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la segunda parte del Número 111 del Periódico Oficial del Estado de Guanajuato, el miércoles 3 de junio de 2020.
 
@@ -59,7 +59,9 @@ Esta Ley, de conformidad con la Ley General en Materia de Desaparición Forzada 
 
 I. Prevenir, investigar y sancionar los delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, así como los delitos vinculados con la desaparición de personas;
 
-II. Establecer los mecanismos de coordinación entre las autoridades estatales y municipales para buscar a las personas desaparecidas y esclarecer los hechos;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+II. Establecer los mecanismos de coordinación con la Federación; y entre las autoridades estatales y municipales para buscar a las personas desaparecidas y esclarecer los hechos;
 
 III. Crear el Sistema Estatal de Búsqueda de Personas;
 
@@ -68,6 +70,10 @@ IV. Crear y regular la organización y funcionamiento de la Comisión Estatal de
 V. Garantizar la protección integral de los derechos de las personas desaparecidas hasta que se conozca su suerte o paradero; así como la atención, la asistencia, la protección y, en su caso, la reparación integral y las garantías de no repetición, en términos de la legislación aplicable;
 
 VI. Crear el Registro Estatal de Personas Desaparecidas;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+VI-1. Crear el Registro Estatal de Fosas;
 
 VII. Establecer la forma de participación de los familiares en el diseño, implementación, monitoreo y evaluación de las acciones de búsqueda e identificación de personas desaparecidas; y
 
@@ -81,11 +87,23 @@ Para los efectos de la presente Ley se entenderá por:
 
 I. Banco Nacional de Datos Forenses: la herramienta del Sistema Nacional que concentra las bases de datos de las entidades federativas y de la Federación; así como, otras bases de datos que tengan información forense relevante para la búsqueda e identificación de personas desaparecidas y no localizadas;
 
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+I-1. Centro Nacional de Identificación Humana: al Centro Nacional de Identificación Humana adscrito orgánicamente a la Comisión Nacional de Búsqueda;
+
 II. Comisión de Víctimas: la Comisión Estatal de Atención Integral a Víctimas;
 
 III. Comisión de Búsqueda: la Comisión Estatal de Búsqueda de Personas;
 
 IV. Comisión Nacional de Búsqueda: la Comisión Nacional de Búsqueda de Personas;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+IV-1. Comité para la evaluación: al Comité para la evaluación y seguimiento de las acciones emprendidas por la Comisión de Búsqueda;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+IV-2. Colectivos de búsqueda: los grupos que se encuentras conformados por familias que tienen un interés común, por organizaciones, especialistas en la materia, para realizar labores de búsqueda de personas desaparecidas;
 
 V. Consejo Ciudadano: el Consejo Estatal Ciudadano;
 
@@ -99,6 +117,10 @@ IX. Fiscalía General: la Fiscalía General del Estado de Guanajuato;
 
 X. Grupo de Búsqueda: el grupo especializado en la búsqueda de personas de la Comisión de Búsqueda;
 
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+X-1. Grupos independientes de búsqueda: los grupos de búsqueda conformados por familias, colectivos, organizaciones o especialistas en la materia, organizados para realizar labores de búsqueda de personas desaparecidas, independientes de las labores implementadas por la Comisión Estatal o la Fiscalía Especializada;
+
 XI. Instituciones de seguridad pública: las instituciones policiales, la Fiscalía General, el Sistema Estatal Penitenciario y el Sistema Estatal de Seguridad Pública;
 
 XII. Ley: la Ley para la Búsqueda de Personas Desaparecidas en el Estado de Guanajuato;
@@ -110,6 +132,14 @@ XIV. Mecanismo de Apoyo Exterior: el Mecanismo de Apoyo Exterior de Búsqueda e 
 XV. Noticia: la comunicación hecha por cualquier medio, distinta al reporte o la denuncia, mediante la cual, la autoridad competente conoce de la desaparición o no localización de una persona;
 
 XVI. Persona desaparecida: la persona cuya ubicación y paradero se desconoce, independientemente de que su ausencia se relacione o no con la comisión de un delito;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XVI-1. Protocolo de Búsqueda de Niñas, Niños y Adolescentes: al Protocolo Adicional para la Búsqueda de Niñas, Niños y Adolescentes;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XVI-2. Protocolo ALBA: es el instrumento o programa metodológico que tiene por objeto iniciar de inmediato la búsqueda de mujeres, en cuanto no se tenga noticia exacta sobre si el hecho constituye desaparición forzada;
 
 XVII. Protocolo Homologado de Búsqueda: el Protocolo Homologado para la Búsqueda de Personas Desaparecidas y No Localizadas;
 
@@ -183,15 +213,23 @@ Uso de los datos personales
 
 Los datos personales que se obtengan con motivo de la búsqueda de personas desaparecidas y los que se proporcionen por parte de los familiares deben ser utilizados exclusivamente con el fin de determinar la suerte o paradero de la persona desaparecida y esclarecer los hechos, lo anterior de conformidad con la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Guanajuato.
 
-### Capítulo II. Disposiciones para personas desaparecidas menores de dieciocho años
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+En el caso de que los datos reservados sean requeridos por autoridad diversa a las que tienen competencia en la investigación de desaparición forzada, deberá observarse el procedimiento de resguardo y protección que establecen las leyes general y local en materia de acceso a la información y protección de datos personales en poder de particulares.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+### Capítulo II. Disposiciones para Niñas, Niños y Adolescentes desaparecidos
 
 Búsqueda especializada y diferenciada
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 7.
 
-En el caso de que haya noticia, reporte o denuncia sobre la desaparición, en cualquier circunstancia, de una persona menor de dieciocho años, se iniciará carpeta de investigación en todos los casos y se emprenderá la búsqueda especializada de manera inmediata y diferenciada, de conformidad con el protocolo especializado en búsqueda de personas menores de dieciocho años que emita el Sistema Nacional.
+En el caso de que haya noticia, reporte o denuncia sobre la desaparición, en cualquier circunstancia, de una niña, niño y adolescente, se iniciará carpeta de investigación en todos los casos y se emprenderá la búsqueda especializada y diferenciada de manera inmediata, de conformidad con el Protocolo de Búsqueda de Niñas, Niños y Adolescentes.
 
-La Fiscalía Especializada y la Comisión de Búsqueda, realizarán el análisis de contexto sobre la desaparición de personas menores de dieciocho años en el Estado e intercambiarán con las autoridades competentes la información sobre el contexto de desaparición, así como de otros delitos que guarden relación directa con los fenómenos de desaparición de personas menores de dieciocho años y, en su caso, se coordinarán con otras fiscalías y comisiones locales de búsqueda.
+La Fiscalía Especializada y la Comisión de Búsqueda, realizarán el análisis de contexto sobre la desaparición de una niña, niño y adolescente, en el Estado e intercambiarán con las autoridades competentes la información sobre el contexto de desaparición, así como de otros delitos que guarden relación directa con los fenómenos de desaparición de Niñas, Niños y Adolescentes, y, en su caso, se coordinarán con otras fiscalías, la Comisión Nacional de Búsqueda y otras comisiones locales de búsqueda.
 
 Interés superior de la niñez
 
@@ -199,37 +237,53 @@ Interés superior de la niñez
 
 Las autoridades que administren las herramientas del Sistema Estatal deberán tomar en cuenta el interés superior de la niñez y establecer la información segmentada por género, edad, situación de vulnerabilidad, riesgo o discriminación.
 
-La divulgación que hagan o soliciten las autoridades responsables en medios de telecomunicación sobre la información de una persona desaparecida menor de dieciocho años, se hará de conformidad con las disposiciones aplicables de la materia.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+La divulgación que hagan o soliciten las autoridades responsables en medios de telecomunicación sobre la información de una niña, niño y adolescente, se hará de conformidad con las disposiciones aplicables de la materia.
 
 Enfoque integral
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 9.
 
-Todas las acciones que se emprendan para la investigación y búsqueda de personas desaparecidas menores de dieciocho años garantizarán un enfoque integral, transversal y con perspectiva de derechos humanos de la niñez, que tome en cuenta las características particulares, incluyendo su identidad y nacionalidad.
+Todas las acciones que se emprendan para la investigación y búsqueda de Niñas, Niños y Adolescentes desaparecidos garantizarán un enfoque integral, transversal y con perspectiva de derechos humanos de la niñez y de género, que tome en cuenta las características particulares, incluyendo su identidad y nacionalidad.
 
 Salvaguarda de derechos
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 10.
 
-Las autoridades de búsqueda e investigación, en el ámbito de sus competencias, se coordinarán con la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato para efecto de salvaguardar los derechos de las personas desaparecidas menores de dieciocho años, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+Las autoridades de búsqueda e investigación, en el ámbito de sus competencias, se coordinarán con la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato para salvaguardar los derechos de las Niñas, Niños y Adolescentes y, en el caso de las mujeres con el Instituto para las Mujeres Guanajuatenses, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato.
 
-Acciones específicas tratándose de menores de dieciocho años
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Acciones específicas tratándose de Niñas, Niños y Adolescentes
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 11.
 
-En los casos de personas desaparecidas menores de dieciocho años, las medidas de reparación integral, así como de atención terapéutica y acompañamiento, deberán realizarse por personal especializado en derechos de la niñez y adolescencia y de conformidad con la legislación aplicable.
+En los casos de Niñas, Niños y Adolescentes o mujeres desaparecidos, las medidas de reparación integral, así como de atención terapéutica y acompañamiento, deberán realizarse por personal especializado en derechos de la niñez y adolescencia y de conformidad con la legislación aplicable.
 
-En aquellos casos en que la niña, niño o adolescente se localice y se determine que existe un riesgo en contra de su vida, integridad o libertad, el Ministerio Público dictará las medidas urgentes de protección especial idóneas, dando aviso de inmediato a la autoridad jurisdiccional competente, en términos del Código Nacional de Procedimientos Penales, la Ley General de los Derechos de Niñas, Niños y Adolescentes y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+En aquellos casos en que la niña, niño y adolescente o la mujer se localicen y se determine que existe un riesgo en contra de su vida, integridad o libertad, la Fiscalía General del Estado de Guanajuato dictará las medidas urgentes de protección especial idóneas, dando aviso de inmediato a la autoridad jurisdiccional competente, en términos del Código Nacional de Procedimientos Penales, la Ley General de los Derechos de Niñas, Niños y Adolescentes y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, así como de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Guanajuato.
 
-La Comisión de Víctimas, sin detrimento de la reparación integral del daño, adoptará de forma prioritaria y preferente todas las medidas idóneas de ayuda, asistencia y atención que permitan la pronta recuperación física, mental o emocional de las víctimas menores de dieciocho años; así como, aquellas que permitan la realización de su proyecto de vida, garantizando en todo momento su participación.
+La Comisión de Víctimas, sin detrimento de la reparación integral del daño, adoptará de forma prioritaria y preferente todas las medidas idóneas de ayuda, asistencia y atención que permitan la pronta recuperación física, mental o emocional de las víctimas Niñas, Niños y Adolescentes; así como, aquellas que permitan la realización de su proyecto de vida, garantizando en todo momento su participación.
 
-La Comisión de Víctimas deberá tomar en cuenta y considerar las causas, efectos y consecuencias del hecho victimizante, los aspectos culturales, éticos, afectivos, educativos y de salud de personas menores de dieciocho años, de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y madurez.
+La Comisión de Víctimas deberá tomar en cuenta y considerar las causas, efectos y consecuencias del hecho victimizante, los aspectos culturales, éticos, afectivos, educativos, de género y de salud de Niñas, Niños y Adolescentes, de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
 Servicios de asesoría
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 12.
 
-La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato prestará servicios de asesoría a los familiares de personas menores de dieciocho años desaparecidas, sin perjuicio de los servicios que preste la Comisión de Búsqueda.
+La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato prestará servicios de asesoría a los familiares de Niñas, Niños y Adolescentes desaparecidas, sin perjuicio de los servicios que preste la Comisión de Búsqueda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+En el caso de mujeres desparecidas el Instituto para las Mujeres Guanajuatenses, prestará los servicios a que se refiere el párrafo anterior.
 
 Asimismo, podrá participar en las acciones de búsqueda y localización que realice la Comisión de Búsqueda o en las investigaciones que conduzca la Fiscalía Especializada.
 
@@ -287,11 +341,15 @@ III. El titular de la Comisión de Búsqueda, quien fungirá como Secretaría Ej
 
 IV. El titular de la Secretaría de Seguridad Pública;
 
-V. Tres integrantes del Consejo Ciudadano;
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-VI. El titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato; y
+V. El titular del Instituto para las Mujeres Guanajuatenses;
 
-VII. El titular de la Comisión de Víctimas.
+VI. Tres integrantes del Consejo Ciudadano;
+
+VII. El titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato; y
+
+VIII. El titular de la Comisión de Víctimas.
 
 Así como un representante del Poder Judicial del Estado de Guanajuato, que deberá ser convocado a cada reunión del Sistema Estatal, quien tendrá solo derecho a voz y no a voto.
 
@@ -301,7 +359,9 @@ Los integrantes del Sistema Estatal podrán nombrar a sus respectivos suplentes,
 
 Tratándose del titular de la Fiscalía General, será suplente la persona titular de la Fiscalía Especializada.
 
-Las personas integrantes e invitadas del Sistema Estatal no recibirán pago o compensación alguna por su participación en el mismo.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Los integrantes e invitados del Sistema Estatal no recibirán pago o compensación alguna por su participación en el mismo.
 
 Quien presida el Sistema Estatal podrá invitar a las sesiones a representantes de los organismos autónomos, organismos internacionales, académicos, especialistas en la materia, según la naturaleza de los asuntos a tratar quienes tendrán solo derecho a voz.
 
@@ -343,7 +403,9 @@ V. La Alerta Amber;
 
 VI. El Protocolo Alba;
 
-VII. El Protocolo Homologado de Búsqueda y los protocolos previstos en el artículo 73 de la Ley General; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+VII. El Protocolo Homologado de Búsqueda, el Protocolo de Búsqueda de Niñas, Niños y Adolescentes y los protocolos previstos en el artículo 73 de la Ley General; y
 
 VIII. Otros registros necesarios para su operación, en términos de lo que prevé esta Ley.
 
@@ -357,7 +419,9 @@ I. Expedir lineamientos que incorporen los modelos que emita el Sistema Nacional
 
 II. Establecer la vinculación con las autoridades federales y de las entidades federativas, para la integración y funcionamiento del sistema único de información tecnológica e informática que permita el acceso, tratamiento y uso de toda la información relevante para la búsqueda, localización e identificación de personas desaparecidas;
 
-III. Aplicar el Protocolo Homologado de Búsqueda;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+III. Aplicar el Protocolo Homologado de Búsqueda, el Protocolo de Búsqueda de Niñas, Niños y Adolescentes y demás protocolos, guías e instrumentos que, desde el Sistema Nacional y el Sistema Estatal, determinen;
 
 IV. Participar y cooperar con las autoridades integrantes del Sistema Nacional, así como con las demás autoridades que contribuyen en la búsqueda de personas desaparecidas, para el cumplimiento de los objetivos de la Ley General y de esta Ley;
 
@@ -366,6 +430,26 @@ V. Generar mecanismos para favorecer que las capacidades presupuestarias, materi
 VI. Proporcionar la información que sea solicitada por el Consejo Ciudadano para el ejercicio de sus funciones;
 
 VII. Atender y dar seguimiento a las recomendaciones del Consejo Ciudadano en los temas materia de esta Ley;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+VII-1. Emitir recomendaciones a las autoridades estatales y municipales para el mejor desempeño de sus funciones en materia de búsqueda de personas;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+VII-2. Promover y observar que el personal que participe en acciones de búsqueda de personas, previstas en la presente Ley, reciban la capacitación y certificación para realizar sus labores de manera eficaz y diligente;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+VII-3. Rendir los informes que requieran el Sistema Nacional, la Comisión Nacional de Búsqueda y la Comisión Búsqueda, en relación con los avances, implementación y cumplimiento de las acciones previstas en las políticas públicas de búsqueda de personas e investigación de los delitos materia de la Ley General; en los programas nacional y regionales de búsqueda de personas; en el programa nacional de exhumaciones e identificación forense; en los protocolos homologados de búsqueda e investigación; así como en los lineamientos y otras determinaciones emitidas por el Sistema Nacional y demás previstos en la Ley General. Los informes deberán integrar indicadores de evaluación de eficacia y eficiencia, según estándares internacionales de estructura, proceso y resultado;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+VII-4. Atender otros registros para su operación, en términos de lo que prevea la Ley General, esta Ley, su reglamento y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+VII-5. Generar los mecanismos con perspectiva de género para garantizar la protección a la integridad física de los familiares, Colectivos de Búsqueda y cualquier persona involucrada en la búsqueda;
 
 VIII. Atender y en su caso ampliar los lineamientos que regulen la participación de los familiares en las acciones de búsqueda; y
 
@@ -389,11 +473,23 @@ Nombramiento y remoción del titular de la Comisión de Búsqueda
 
 La Comisión de Búsqueda estará a cargo de un titular nombrado y removido por el Ejecutivo del Estado, a propuesta del secretario de Gobierno.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+El proceso de selección de quien ostente la titularidad de la Comisión de Búsqueda deberá seguir los principios de transparencia, publicidad, igualdad y no discriminación.
+
 El Consejo Ciudadano podrá solicitar la remoción del titular cuando incurra en alguna de las siguientes causas graves:
 
-I. Cuando incumpla de manera reiterada con los fines institucionales previstos en esta Ley; o
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-II. Participar, tolerar, consentir o apoyar violaciones graves a los derechos humanos, o cometer violaciones graves a la Constitución General, a la Constitución Local y a las leyes.
+I. Por participar, tolerar, consentir o apoyar violaciones graves a los derechos humanos, o cometer violaciones graves a la Constitución Política de los Estados Unidos Mexicanos, a la Constitución Política para el Estado de Guanajuato y a las leyes;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+II. Por haber cometido hechos considerados como delito que amerite prisión preventiva; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+III. Por enfermedad o incapacidad física que le impida ejercer el cargo.
 
 Designación y requisitos del titular de la Comisión de Búsqueda
 
@@ -427,13 +523,21 @@ Bases de la consulta pública
 
 Para la consulta pública a la que se hace referencia en el artículo anterior, se deberán observar como mínimo las siguientes bases:
 
-I. Generar un mecanismo a través del cual los colectivos de víctimas, personas expertas y organizaciones de la sociedad civil especializadas en derechos humanos, establecidas en el Estado, presenten candidatos;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-II. Publicar toda la información disponible sobre el perfil de los candidatos registrados;
+I. Generar un mecanismo a través del cual los colectivos de víctimas, personas expertas y organizaciones de la sociedad civil especializadas en derechos humanos, establecidas en el Estado, presenten candidaturas y emitan opiniones al respecto;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+II. Publicar, toda la información disponible sobre el perfil de las candidaturas registradas;
 
 III. Realizar entrevistas públicas a los candidatos en las cuales presenten su proyecto de plan de trabajo; y
 
 IV. Hacer público el nombramiento del titular de la Comisión de Búsqueda, acompañado de una exposición fundada y motivada sobre la idoneidad del perfil elegido.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Se deberá garantizar la participación del Consejo Ciudadano en el proceso de consulta, para la selección de quien ostente la titularidad de la Comisión de Búsqueda.
 
 Atribuciones de la Comisión de Búsqueda
 
@@ -445,7 +549,9 @@ I. Emitir los lineamientos que regulen el funcionamiento del Registro Estatal y 
 
 II. Atender y formular solicitudes a las instituciones de seguridad pública previstas en la Ley del Sistema de Seguridad Pública del Estado de Guanajuato, a efecto de cumplir con su objeto;
 
-III. Solicitar el acompañamiento de las instancias policiales, estatales y municipales, cuando sea necesario que el personal de la Comisión de Búsqueda realice trabajos de campo;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+III. Solicitar el acompañamiento de las instancias policiales, estatales y municipales, cuando el personal de la Comisión de Búsqueda realice trabajos de campo, para garantizar su seguridad;
 
 IV. Presentar al Consejo Estatal de Seguridad Pública, los informes sobre los avances y resultados de la verificación y supervisión en el cumplimiento del Programa Nacional de Búsqueda, en coordinación con las autoridades competentes;
 
@@ -457,15 +563,21 @@ VII. Coordinarse y mantener comunicación continua y permanente con la Comisión
 
 VIII. Emitir los protocolos rectores o lineamientos que sean necesarios para el cumplimiento de sus funciones;
 
-IX. Aplicar el Protocolo Homologado de Búsqueda;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-X. Promover ante la Comisión Nacional de Búsqueda la revisión y actualización del Protocolo Homologado de Búsqueda;
+IX. Aplicar el Protocolo Homologado de Búsqueda, el Protocolo de Búsqueda de Niñas, Niños y Adolescentes y los que sean aprobados por el Sistema Nacional y el Sistema Estatal;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+X. Promover ante la Comisión Nacional de Búsqueda la revisión y actualización del Protocolo Homologado de Búsqueda, del Protocolo de Búsqueda de Niñas, Niños y Adolescentes y de los demás que sean aprobados por el Sistema Nacional;
 
 XI. Diseñar y proponer mecanismos de coordinación y colaboración con las autoridades de los diferentes órdenes de gobierno, a efecto de llevar a cabo las acciones de búsqueda de personas desaparecidas;
 
 XII. Asesorar y canalizar a los familiares ante la Fiscalía Especializada para que, de ser el caso, realicen la denuncia correspondiente;
 
-XIII. Determinar y, en su caso, ejecutar de manera inmediata las acciones de búsqueda que correspondan, a partir de los elementos con que cuente y de conformidad con el protocolo aplicable, cuando tenga noticia por cualquier medio de una posible desaparición, o reciba reporte de una persona desaparecida. Así como, de manera coordinada con la Comisión Nacional de Búsqueda, realizar y dar seguimiento a las acciones de búsqueda, atendiendo a las características propias del caso, a las circunstancias de ejecución o a la relevancia social del mismo;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XIII. Determinar y, en su caso, ejecutar de manera inmediata las acciones de búsqueda que correspondan, a partir de los elementos con que cuente y de conformidad con el protocolo aplicable, cuando tenga noticia por cualquier medio de una posible desaparición, o reciba reporte de una persona desaparecida. Así como, de manera coordinada con la Comisión Nacional de Búsqueda y las comisiones estatales, realizar y dar seguimiento a las acciones de búsqueda, atendiendo a las características propias del caso, a las circunstancias de ejecución o a la relevancia social del mismo;
 
 XIV. Acceder sin restricciones a la información contenida en plataformas, bases de datos y registros de todas las autoridades para realizar la búsqueda de la persona desaparecida, de conformidad con las disposiciones aplicables;
 
@@ -475,11 +587,17 @@ XVI. Solicitar a la Secretaría de Seguridad Pública del Estado y sus equivalen
 
 XVII. Solicitar la colaboración de los tres órdenes de gobierno y otras instancias, para la búsqueda y localización de personas desaparecidas;
 
-XVIII. Integrar grupos de trabajo interinstitucionales con participación de familiares y organizaciones de la sociedad civil en el Estado, para proponer acciones específicas de búsqueda, así como para analizar el fenómeno de desaparición;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-XIX. Informar periódicamente a los familiares sobre los resultados, avances de la investigación y los procesos de búsqueda de la persona desaparecida;
+XVIII. Integrar grupos de trabajo interinstitucionales con participación de familiares, Colectivos de búsqueda, organizaciones de la sociedad civil en el Estado y, de ser el caso, integrantes del Consejo Ciudadano, para analizar casos y proponer acciones específicas de búsqueda, analizar el fenómeno de desaparición, así como para colaborar con la Comisión Nacional de Búsqueda en el análisis del fenómeno a nivel nacional, brindando información sobre la problemática en la entidad;
 
-XX. Dar aviso de manera inmediata a la Fiscalía Especializada sobre la existencia de información relevante y elementos que sean útiles para la investigación de los delitos materia de la Ley General, de conformidad con el Protocolo Homologado de Búsqueda;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XIX. Informar periódicamente a los familiares o a través de los Colectivos de búsqueda sobre los resultados, avances de la investigación y los procesos de búsqueda de la persona desaparecida;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XX. Dar aviso de manera inmediata a la Fiscalía Especializada sobre la existencia de información relevante y elementos que sean útiles para la investigación de los delitos materia de la Ley General, de conformidad con el Protocolo Homologado de Búsqueda, el Protocolo de Búsqueda de Niñas, Niños y Adolescentes y los demás protocolos aprobados por las autoridades en la materia;
 
 XXI. Colaborar con la Fiscalía General, las instituciones de procuración de justicia en la investigación y persecución de otros delitos de otras entidades federativas;
 
@@ -493,9 +611,13 @@ XXV. Celebrar, de conformidad con las disposiciones aplicables, convenios de coo
 
 XXVI. Disponer de un número telefónico, así como de cualquier otro medio de comunicación de acceso gratuito, para proporcionar información, sin necesidad de cumplir con formalidad alguna, para contribuir en la búsqueda de personas desaparecidas;
 
-XXVII. Realizar convenios con los concesionarios de radiodifusión y telecomunicaciones, así como con las asociaciones y particulares que se requieran, de conformidad con la legislación en la materia, por conducto de la autoridad competente y previa autorización de los familiares;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-XXVIII. Establecer acciones de búsqueda específicas para las desapariciones de personas vinculadas con movimientos políticos;
+XXVII. Proponer convenios con los concesionarios de radiodifusión y telecomunicaciones, así como con las asociaciones y particulares que se requiera, con el fin de facilitar la difusión de información relativa a las acciones de búsqueda de personas. Lo anterior de conformidad con la legislación en la materia, por conducto de la autoridad competente y previa autorización de los familiares;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XXVIII. Establecer de oficio acciones de búsqueda inmediatas y específicas para las desapariciones de personas vinculadas con movimientos políticos;
 
 XXIX. Dar aviso inmediato a la Fiscalía General o, en su caso, a la Fiscalía Especializada, en caso de que durante las acciones de búsqueda se encuentre algún indicio de la probable comisión de un delito;
 
@@ -509,7 +631,9 @@ XXXIII. Dar seguimiento y, en su caso, atender las recomendaciones o sentencias 
 
 XXXIV. Dar seguimiento y atender las recomendaciones del Consejo Ciudadano en los temas relacionados con sus funciones y atribuciones;
 
-XXXV. Recibir la información que aporten las organizaciones de la sociedad y los particulares en los casos de desaparición forzada de personas y desaparición cometida por particulares y remitirla a la Comisión Nacional de Búsqueda y a las comisiones locales que corresponda o, en su caso, a la Fiscalía Especializada;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XXXV. Solicitar y recibir la información que aporten las organizaciones de la sociedad y los particulares en los casos de desaparición forzada de personas y desaparición cometida por particulares y remitirla a la Comisión Nacional de Búsqueda y a las comisiones locales que corresponda o, en su caso, a la Fiscalía Especializada;
 
 XXXVI. Solicitar al Ministerio Público de la Federación, a través de la Comisión Nacional de Búsqueda, el ejercicio de la facultad de atracción, de conformidad con lo dispuesto en la Ley General;
 
@@ -535,7 +659,45 @@ XLVI. Realizar las acciones para recabar y cruzar la información contenida en l
 
 XLVII. Promover, en términos de lo dispuesto en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, y otras disposiciones legales aplicables, las medidas necesarias para lograr la protección de aquellas personas desaparecidas cuya vida, integridad o libertad se encuentre en peligro;
 
-XLVIII. Administrar y operar el Registro Estatal de Fosas; y
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XLVII-1. Emitir y difundir el folio único de búsqueda conforme se realicen los reportes de la persona desaparecida ante la Comisión Estatal;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XLVII-2. Presentar al Sistema Estatal los informes sobre los avances y resultados de la verificación y supervisión en el cumplimiento de sus funciones;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XLVII-3. Emitir opiniones y observaciones sobre los lineamientos para la restitución digna de los cuerpos o restos identificados;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XLVII-4. Coordinar las acciones de búsqueda de niñas y mujeres que deriven de las alertas de violencia de género;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XLVII-5. Emitir opiniones consultivas respecto del Protocolo Homologado de Investigación, ante las autoridades competentes;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XLVII-6. Solicitar la colaboración de los particulares, de la iniciativa privada y del sector empresarial, para la entrega de información relevante para la localización de la persona desaparecida, en los términos de la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XLVII-7. Mantener comunicación y colaborar con el Mecanismo Extraordinario de Identificación Forense, con el Centro Nacional de Identificación Humana y con el Mecanismo de Apoyo Exterior;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XLVII-8. Apoyar las acciones de los grupos independientes de búsqueda;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XLVII-9. Contar con un número telefónico disponible las 24 horas, así como con cualquier otro medio de comunicación de acceso gratuito para proporcionar información, sin necesidad de cumplir con formalidad alguna, para contribuir en la búsqueda de personas desaparecidas;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XLVIII. Administrar y operar el Registro Estatal de Fosas; emitir los lineamientos que regulen su funcionamiento, coordinar la operación del mismo y el acceso a la información pública en términos de lo que establezca esta Ley; y
 
 XLIX. Las demás que prevea esta Ley y su reglamento.
 
@@ -551,7 +713,9 @@ En la integración y operación de los grupos a que se refiere la fracción XVII
 
 I. Determinar las autoridades que deben integrar los grupos, en cuyo caso podrá solicitar, cuando lo estime pertinente, la participación de autoridades de los tres órdenes de gobierno;
 
-II. Coordinar el funcionamiento de los grupos de trabajo;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+II. Coordinar el funcionamiento de los grupos de trabajo; establecer objetivos de los mismos; verificar su cumplimiento y brindar las facilidades para su buen funcionamiento;
 
 III. Solicitar al área de análisis de contexto informes para el cumplimiento de sus facultades; y
 
@@ -559,9 +723,11 @@ IV. Disolver los grupos de trabajo cuando hayan cumplido su finalidad.
 
 Certificación y especialización de la Comisión de Búsqueda
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 30.
 
-Los servidores públicos integrantes de la Comisión de Búsqueda deben estar certificados y especializados en materia de búsqueda, de conformidad con los criterios que establezca el Sistema Nacional.
+Los servidores públicos integrantes de la Comisión de Búsqueda deben estar certificados y especializados en materia de búsqueda, de conformidad con los criterios que establezca el Sistema Nacional, el Sistema estatal y los más altos estándares internacionales en la materia.
 
 Informes públicos trimestrales
 
@@ -573,7 +739,9 @@ I. Avance en el cumplimiento de los objetivos del Programa Nacional de Búsqueda
 
 II. Resultados de la gestión de la Comisión de Búsqueda;
 
-III. Avance en el cumplimiento del Protocolo Homologado de Búsqueda a que se refiere el artículo 99 de la Ley General;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+III. Avance en el cumplimiento del Protocolo Homologado de Búsqueda a que se refiere el artículo 99 de la Ley General, del Protocolo de Búsqueda de Niñas, Niños y Adolescentes y de otros protocolos aprobados en el marco del Sistema Nacional y del Sistema Estatal;
 
 IV. Resultado de la evaluación del funcionamiento en el Estado del sistema único de información tecnológica e informática a que se refiere el artículo 49, fracción II, de la Ley General; y
 
@@ -597,23 +765,45 @@ II. Área de Análisis de Contexto, la cual desempeñará, además de las funcio
 
 III. Área de Gestión y Procesamiento de Información, la cual desempeñará, además de las funciones que esta Ley u otras disposiciones jurídicas le asignen, las atribuciones a que se refiere la fracción XLVI del artículo 28 de esta Ley; y
 
-IV. La estructura administrativa necesaria para el cumplimiento de sus funciones.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+IV. La estructura administrativa, presupuesto e infraestructura para el cumplimiento de sus funciones.
 
 Información en tiempo real
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 34.
 
-A efecto de determinar la ubicación de la persona desaparecida, las autoridades o instituciones, públicas o privadas, tienen la obligación de informar en tiempo real a través de acciones que para ello defina la Comisión de Búsqueda, el ingreso y salida de las personas, así como de las personas no identificadas o de las cuales no se tenga la certeza de su identidad del ingreso y salida a sus establecimientos o instituciones.
+A efecto de determinar la ubicación de la persona desaparecida, las autoridades o instituciones, públicas o privadas, tienen la obligación de informar en tiempo real a la Comisión de Búsqueda, el ingreso y salida de las personas, así como de las personas no identificadas o de las cuales no se tenga la certeza de su identidad del ingreso y salida a sus establecimientos o instituciones.
 
 Dicho mecanismo estará conformado con la información que se proporcione a través de las bases de datos o registros de hospitales, clínicas, centros de atención psiquiátrica, centros de desarrollo integral para la familia, centros de salud, centros de atención de adicciones y rehabilitación, todos ellos públicos o privados, además de los centros de detención y reclusorios a cargo del sistema penitenciario del Estado, los registros de los centros de detención administrativos de los municipios, los servicios médicos forenses y registro de datos forenses, el Registro Estatal de Personas Fallecidas y No Identificadas, albergues públicos y privados, e instituciones de asistencia social, panteones o lugares en los que se depositan restos mortales o cadáveres, públicos y privados, identidad de personas y los demás registros y bases de datos que contengan información que pueda contribuir a la localización e identificación de las personas, en términos de las disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+El mecanismo podrá contener información que derive de videograbaciones de seguridad privadas, registros telefónicos, registros en plataformas o aplicaciones telefónicas que brindan servicios de transporte, entregas o mensajería; lo anterior acorde a la legislación penal y en materia de acceso a la información y protección de datos personales en poder de particulares.
+
 La Comisión de Búsqueda proporcionará asistencia a las autoridades o instituciones, públicas o privadas, para la implementación y operación de dicho mecanismo.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Grupos independientes de búsqueda
+
+###### Artículo 34
+
+1. Los grupos independientes de búsqueda pueden solicitar el apoyo a la Comisión de Búsqueda y a la Fiscalía Especializada para la realización de sus actividades.
+
+Los grupos independientes de búsqueda realizarán sus acciones bajo el principio de participación conjunta, conforme al derecho a participar en las acciones de búsqueda e investigación protegidos en esta Ley, la Ley General, la Ley General de Victimas y el Código Nacional de Procedimientos Penales.
 
 Recursos de la Comisión de Búsqueda
 
 ###### Artículo 35.
 
 La Comisión de Búsqueda contará con los recursos económicos que le asigne la Secretaría de Gobierno para cumplir con sus atribuciones y obligaciones de emprender e implementar inmediatamente las acciones necesarias de búsqueda de personas desaparecidas.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Los recursos asignados a la Comisión de Búsqueda no podrán ser menores a los del ejercicio fiscal anterior, cumpliendo con el ciclo presupuestal correspondiente.
 
 ### Capítulo IV. Grupos de búsqueda
 
@@ -661,9 +851,13 @@ El Consejo Ciudadano tiene las funciones siguientes:
 
 I. Proponer al Sistema Estatal y a la Comisión de Búsqueda medidas para acelerar o profundizar sus acciones, en el ámbito de su competencia;
 
-II. Proponer acciones a los servicios periciales y forenses para ampliar sus capacidades;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-III. Proponer acciones para mejorar el funcionamiento de los programas, registros y herramientas materia de esta Ley;
+II. Proponer acciones a los servicios periciales y forenses para ampliar sus capacidades y mejorar el cumplimiento de sus funciones;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+III. Proponer acciones para mejorar el funcionamiento de los protocolos, programas, registros y herramientas materia de esta Ley;
 
 IV. Proponer y, en su caso, acompañar las medidas de asistencia técnica para la búsqueda de personas;
 
@@ -681,7 +875,29 @@ X. Elaborar, aprobar y modificar la guía de procedimientos del comité para la 
 
 XI. Establecer mecanismos de comunicación con organizaciones de la sociedad civil, familiares de personas desaparecidas y sociedad en general;
 
-XII. Coordinarse con órganos ciudadanos análogos de otras entidades federativas para el intercambio de experiencias y mejores prácticas; y
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XI-1. Participar en las labores de búsqueda de personas, con la autorización y a petición de los familiares;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XI-2. Solicitar información al Sistema Nacional y a la Comisión Nacional de Búsqueda, para el ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XI-3. Contribuir en la promoción de las acciones, políticas públicas, programas y proyectos, y de los procesos legislativos relacionados con el objeto de esta Ley;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XI-4. Solicitar de manera expresa al Comité para la evaluación y seguimiento, realizar evaluaciones específicas sobre el funcionamiento de la Comisión de Búsqueda;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XI-5. Proponer acciones para garantizar la protección de la víctima, los familiares, Colectivos de búsqueda y toda persona involucrada en la búsqueda de personas en términos de esta Ley;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XII. Coordinarse con órganos ciudadanos análogos de otras entidades federativas y el Consejo Nacional Ciudadano; así como con organismos nacionales e internacionales en materia de derechos humanos para el intercambio de experiencias y mejores prácticas; y
 
 XIII. Las demás que señale el Reglamento.
 
@@ -693,13 +909,27 @@ Las decisiones que el Consejo Ciudadano adopte son públicas, en apego a la legi
 
 Integración del comité para la evaluación y seguimiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 41.
 
-El Consejo Ciudadano integrará de entre sus miembros un comité para la evaluación y seguimiento de las acciones emprendidas por la Comisión de Búsqueda, que tendrá las siguientes atribuciones:
+El Consejo Ciudadano constituirá de entre sus integrantes un comité para la evaluación y seguimiento de las acciones emprendidas por la Comisión de Búsqueda.
 
-I. Solicitar a la Comisión de Búsqueda información relacionada a los procedimientos de búsqueda y localización;
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-II. Conocer y emitir recomendaciones sobre los criterios de idoneidad, convenios, lineamientos, programas y reglamentos que emita la Comisión de Búsqueda;
+El Comité de evaluación y seguimiento estará integrado por un familiar, un especialista en la materia y un integrante de la sociedad civil. La selección de estas será por mayoría de votos de quienes integran en su totalidad el Consejo Ciudadano y tendrá las siguientes funciones:
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+I. Solicitar a la Comisión de Búsqueda información relacionada con los procedimientos de búsqueda y localización, así como sobre el cumplimiento de sus funciones en general;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+II. Conocer y emitir recomendaciones sobre los criterios de idoneidad, convenios, lineamientos, programas, protocolos y reglamentos que emita la Comisión de Búsqueda;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+II-1. Realizar evaluaciones y acciones de seguimiento del cumplimiento de las atribuciones de la Comisión de Búsqueda;
 
 III. Dar seguimiento al cumplimiento del Programa Nacional de Búsqueda;
 
@@ -723,7 +953,25 @@ Atribuciones de los grupos de búsqueda
 
 Los grupos de búsqueda, para el adecuado cumplimiento de sus acciones, tienen las siguientes atribuciones:
 
-I. Generar la metodología para la búsqueda inmediata considerando el Protocolo Homologado de Búsqueda y otros existentes;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+I. Generar la metodología o plan para la búsqueda inmediata considerando el Protocolo Homologado de Búsqueda, el Protocolo de Búsqueda de Niñas, Niños y Adolescentes y otros existentes;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+I-1. Realizar, activar y coordinar las primeras acciones de búsqueda inmediata una vez que se tenga conocimiento de la desaparición de una persona, priorizando en todo momento la búsqueda en vida y aplicando los diversos protocolos publicados, según la situación lo requiera;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+I-2. Coordinarse con los diversos grupos de búsqueda municipales homólogos, diversas autoridades e instituciones públicas o privadas para agilizar la solicitud o entrega de información relacionada con la búsqueda de personas;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+I-3. Coordinarse con grupos o colectivos ciudadanos de búsqueda, organizaciones de la sociedad civil u organismos de derechos humanos, para su participación activa en labores de búsqueda inmediata, garantizando el principio de participación conjunta establecido en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+I-4. Solicitar la participación de la ciudadanía para llevar a cabo las búsquedas, ya sea solicitando o compartiendo información de la persona desaparecida;
 
 II. Solicitar a la Fiscalía Especializada que realice actos de investigación específicos sobre la probable comisión de un delito que puedan llevar a la búsqueda, localización o identificación de una persona, así como al esclarecimiento de los hechos en términos de lo dispuesto en el Código Nacional de Procedimientos Penales. Lo anterior, sin perjuicio del ejercicio directo de las facultades con que cuenta la Comisión de Búsqueda para realizar acciones relacionadas con la búsqueda de personas previstas en esta Ley;
 
@@ -763,7 +1011,9 @@ II. Tener el perfil que establezca la Conferencia Nacional de Procuración de Ju
 
 III. Acreditar los cursos de especialización, capacitación y de actualización que establezca la Conferencia Nacional de Procuración de Justicia, según corresponda.
 
-La Fiscalía General debe capacitar a los servidores públicos adscritos a la Fiscalía Especializada, conforme a los más altos estándares internacionales en materia de derechos humanos, perspectiva de género, interés superior de la niñez, atención a las víctimas, sensibilización y relevancia específica de la desaparición de personas, aplicación del Protocolo Homologado de Investigación, identificación forense, cadena de custodia, entre otras. De igual forma podrá participar con las autoridades competentes, en la capacitación de los servidores públicos conforme a los lineamientos que sobre la materia emita el Sistema Nacional.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+La Fiscalía General debe capacitar a los servidores públicos adscritos a la Fiscalía Especializada, conforme a los más altos estándares internacionales en materia de derechos humanos, perspectiva de género, interés superior de la niñez, atención a las víctimas, personas migrantes, sensibilización y relevancia específica de la desaparición de personas, aplicación del Protocolo Homologado de Investigación, Protocolo Homologado de Búsqueda, Protocolo de Búsqueda de Niñas, Niños y Adolescentes, identificación forense, cadena de custodia, entre otras. De igual forma podrá participar con las autoridades competentes, en la capacitación de los servidores públicos conforme a los lineamientos que sobre la materia emita el Sistema Nacional.
 
 Atribuciones de la Fiscalía Especializada
 
@@ -773,11 +1023,17 @@ La Fiscalía Especializada tiene las atribuciones siguientes:
 
 I. Recibir las denuncias relacionadas con la probable comisión de hechos constitutivos de los delitos materia de la Ley General e iniciar la carpeta de investigación correspondiente;
 
-II. Investigar y perseguir los delitos previstos en la Ley General y los vinculados con la desaparición de personas;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-III. Mantener coordinación con la Comisión de Búsqueda para realizar todas las acciones relativas a la investigación y persecución de los delitos materia de la Ley General, conforme al Protocolo Homologado de Investigación y demás disposiciones aplicables;
+II. Investigar y perseguir los delitos previstos en la Ley General y los vinculados con la desaparición de personas, acorde al Protocolo Homologado de Investigación, Protocolo Homologado de Búsqueda, Protocolo de Búsqueda de Niñas, Niños y Adolescentes;
 
-IV. Dar aviso de manera inmediata, a través del registro correspondiente, a la Comisión de Búsqueda y a la Comisión Nacional de Búsqueda sobre el inicio de una investigación de los delitos materia de la Ley General, a fin de que se inicien las acciones correspondientes a la búsqueda; así como compartir la información relevante, de conformidad con el Protocolo Homologado de Investigación y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+III. Mantener coordinación con la Comisión de Búsqueda para realizar todas las acciones relativas a la investigación y persecución de los delitos materia de la Ley General, conforme al Protocolo Homologado de Investigación, Protocolo Homologado de Búsqueda, Protocolo de Búsqueda de Niñas, Niños y Adolescentes y demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+IV. Dar aviso de manera inmediata, a través del registro correspondiente, a la Comisión de Búsqueda y a la Comisión Nacional de Búsqueda sobre el inicio de una investigación de los delitos materia de la Ley General, a fin de que se inicien las acciones correspondientes a la búsqueda; así como compartir la información relevante, de conformidad con el Protocolo Homologado de Investigación, Protocolo Homologado de Búsqueda, Protocolo de Búsqueda de Niñas, Niños y Adolescentes y demás disposiciones aplicables;
 
 V. Mantener comunicación continua y permanente con la Comisión Nacional de Búsqueda y las comisiones locales de búsqueda, a fin de compartir información que pudiera contribuir en las acciones para la búsqueda y localización de personas, en términos de las disposiciones aplicables;
 
@@ -797,13 +1053,19 @@ XII. Solicitar la participación de la Comisión de Víctimas, así como de las 
 
 XIII. Establecer mecanismos de cooperación destinados al intercambio de información y adiestramiento continuo de los servidores públicos especializados en la materia;
 
-XIV. Localizar a las familias de las personas fallecidas identificadas no reclamadas, en coordinación con las instituciones correspondientes, para hacer la entrega de cadáveres o restos humanos, conforme a lo señalado por el Protocolo Homologado de Investigación y demás normas aplicables;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-XV. Solicitar a las autoridades jurisdiccionales competentes la autorización para la realización de las exhumaciones en cementerios, fosas u otros sitios en los que se encuentren o se tengan razones fundadas para creer que se encuentran cadáveres o restos humanos de personas desaparecidas;
+XIV. Localizar a las familias de las personas fallecidas identificadas no reclamadas, en coordinación con las instituciones correspondientes, para hacer la entrega de cadáveres o restos humanos, conforme a lo señalado por el Protocolo Homologado de Investigación, lineamientos para la restitución digna de los cuerpos o restos identificados y demás normas aplicables;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XIV-1. Emitir los lineamientos de restitución digna de cuerpos o restos identificados;
 
 XVI. Solicitar a las autoridades jurisdiccionales competentes el traslado de las personas internas a otros centros de reclusión salvaguardando sus derechos humanos, siempre que esta medida favorezca la búsqueda o localización de las personas desaparecidas o la investigación de los delitos materia de la Ley General, en términos de la Ley Nacional de Ejecución Penal;
 
-XVII. Facilitar la participación de los familiares en la investigación de los delitos previstos en la Ley General, incluido brindar información periódicamente a los familiares sobre los avances en el proceso de la investigación y persecución de los delitos previstos en la Ley General, en términos del Código Nacional de Procedimientos Penales;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XVII. Facilitar la participación de los familiares y de los Grupos independientes de búsqueda, en la investigación de los delitos previstos en la Ley General, incluido brindar información periódicamente a los familiares sobre los avances en el proceso de la investigación y persecución de los delitos previstos en la Ley General, en términos del Código Nacional de Procedimientos Penales;
 
 XVIII. Solicitar al titular de la Fiscalía General la celebración de convenios de colaboración o cooperación, para el óptimo cumplimiento de las atribuciones que le corresponden de conformidad con la presente Ley;
 
@@ -813,7 +1075,13 @@ XX. Brindar la información que el Consejo Ciudadano le solicite para el ejercic
 
 XXI. Brindar asistencia técnica a las fiscalías o procuradurías de otras entidades federativas o de la Federación que así lo soliciten; y
 
-XXII. Las demás que establezcan otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XXII. Tomar las medidas para garantizar la protección a la integridad física de los familiares, Colectivos de búsqueda y cualquier persona involucrada en la búsqueda; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XXIII. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
 Remisión de expedientes a la Fiscalía General de la República
 
@@ -831,9 +1099,11 @@ Adicionalmente a lo previsto en el párrafo anterior, el superior jerárquico pu
 
 Criterios y metodologías para la investigación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 50.
 
-La Fiscalía Especializada deberá generar criterios y metodologías específicas para la investigación y persecución de los delitos de desaparición forzada de personas. En el caso de las desapariciones forzadas por motivos políticos de décadas pasadas, de conformidad con el Protocolo Homologado de Investigación y esta Ley, la Fiscalía Especializada deberá emitir criterios y metodologías específicos que permitan realizar lo siguiente:
+La Fiscalía Especializada deberá generar criterios y metodologías específicas para la investigación y persecución de los delitos de desaparición forzada de personas. En el caso de las desapariciones forzadas por motivos políticos de décadas pasadas, de conformidad con el Protocolo Homologado de Investigación, los adicionales y esta Ley, la Fiscalía Especializada deberá emitir criterios y metodologías específicos que permitan realizar lo siguiente:
 
 I. Los procedimientos de búsqueda permanente que se lleven a cabo para buscar personas en cualquier lugar donde se presuma pudieran estar privadas de libertad como son centros penitenciarios, centros clandestinos de detención, estaciones migratorias, centros de salud y cualquier otro lugar en donde se pueda presumir pueda estar la persona desaparecida; y
 
@@ -873,13 +1143,33 @@ La Fiscalía Especializada no puede condicionar la recepción de la información
 
 Los ayuntamientos coadyuvarán con las acciones de búsqueda y localización de personas desaparecidas, para tal efecto tendrán las siguientes obligaciones:
 
-I. Determinar el área responsable de recibir los reportes de personas desaparecidas y dar aviso inmediato a la Comisión de Búsqueda y a la Fiscalía Especializada;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-II. Capacitar a servidores públicos para iniciar las primeras acciones de búsqueda, de conformidad con el Protocolo Homologado de Búsqueda, en términos de la Ley General;
+I. Contar con un área responsable de recibir los reportes de personas desaparecidas y dar aviso inmediato a los grupos de búsqueda, a la Comisión de Búsqueda y a la Fiscalía Especializada;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+I-1. A través del área responsable de recibir los reportes de personas desaparecidas, ofrecer a los familiares la información sobre los diversos programas de ayuda y asistencia con enfoque diferencial, transversal de género y perspectiva de derechos humanos, en términos de la Ley de Víctimas del Estado de Guanajuato y en coordinación con la Comisión de Víctimas;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+II. Capacitar a servidores públicos para iniciar las primeras acciones de búsqueda, de conformidad con el Protocolo Homologado de Búsqueda, el Protocolo de Búsqueda de Niñas, Niños y Adolescentes, y otros existentes, en términos de la Ley General y esta Ley;
 
 III. Verificar que en los panteones municipales las fosas comunes cumplan con la normatividad aplicable;
 
 IV. Mantener comunicación con autoridades federales y estatales, y establecer enlaces cuando así lo determine el Sistema Estatal, la Comisión de Búsqueda o por recomendación del Consejo Ciudadano;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+IV-l. Proporcionar información a la Comisión de Búsqueda sobre las fosas comunes y clandestinas de las que tenga conocimiento o registro, para integrar el Registro Estatal de Fosas;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+IV-2. Participar en la protección de la víctima, los familiares, Colectivos de búsqueda y toda persona involucrada en la búsqueda de personas en términos de la Ley General, de esta Ley, del Protocolo Homologado de Búsqueda, y los adicionales;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+IV-3. Establecer oficinas de coordinación de búsqueda de personas desaparecidas, con autoridades estatales, familiares y Colectivos de búsqueda;
 
 V. Establecer facilidades administrativas en el pago de derechos por inhumaciones, cuando estos tengan relación con la búsqueda y localización de una persona desaparecida; y
 
@@ -891,13 +1181,17 @@ VI. Canalizar a los familiares a los programas de atención, asistencia, acceso 
 
 Objeto y mecanismos de búsqueda
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 56.
 
-La búsqueda tendrá por objeto realizar todas las acciones y diligencias tendientes para dar con la suerte o el paradero de la persona hasta su localización, incluidas aquellas para identificar plenamente sus restos en caso de que estos hayan sido localizados.
+La búsqueda tendrá por objeto realizar todas las acciones y diligencias tendientes para dar con la suerte o el paradero de la persona hasta su localización, incluidas aquellas para identificar plenamente sus restos en caso de que estos hayan sido localizados y recabar cualquier evidencia o indicio relacionado con la desaparición.
 
 La búsqueda a que se refiere la presente Ley se realizará de forma conjunta, coordinada y simultánea por la Comisión Nacional de Búsqueda y las comisiones locales de búsqueda cuando así corresponda.
 
-Los mecanismos de búsqueda deberán agotarse totalmente hasta que se determine la suerte o paradero de la persona. La Comisión de Búsqueda garantizará que los mecanismos se apliquen conforme a las circunstancias propias de cada caso, de conformidad con esta Ley, la Ley General y el Protocolo Homologado de Búsqueda.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Los mecanismos de búsqueda deberán agotarse totalmente hasta que se determine la suerte o paradero de la persona. La Comisión de Búsqueda garantizará que los mecanismos se apliquen conforme a las circunstancias propias de cada c aso, de conformidad con esta Ley, la Ley General, el Protocolo Homologado de Búsqueda, el Protocolo de Búsqueda de Niñas, Niños y Adolescentes, y otros existentes.
 
 Medios para solicitar la búsqueda
 
@@ -995,9 +1289,13 @@ II. El nombre del servidor público de la Comisión de Búsqueda o autoridad que
 
 La Comisión de Búsqueda debe actualizar constantemente el expediente de búsqueda, para lo cual puede solicitar, y deben proporcionar, información a los familiares en los términos previstos en las disposiciones legales aplicables.
 
-Cuando la persona desaparecida sea de una nacionalidad distinta a la mexicana, las autoridades involucradas en la búsqueda de dicha persona deben proveer información a los familiares que se encuentren en el exterior, a través de las autoridades consulares correspondientes o de la persona que hubieren designado para tales efectos.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-Los familiares y sus representantes tienen acceso de manera íntegra al expediente de búsqueda de conformidad con las disposiciones legales aplicables.
+Cuando la persona desaparecida sea de una nacionalidad distinta a la mexicana, las autoridades involucradas en la búsqueda de dicha persona deben proveer información a los familiares que se encuentren en el exterior, a través de las autoridades consulares correspondientes o de la persona que hubieren designado para tales efectos, así como iniciar las gestiones con el Mecanismo de Apoyo Exterior.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Los familiares y sus representantes tienen acceso de manera íntegra e inmediata al expediente de búsqueda de conformidad con lo exceptuado en la fracción I de los artículos 115 de la Ley General de Transparencia y Acceso a la Información Pública y 75 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Guanajuato.
 
 Obligación del agente del Ministerio Público
 
@@ -1017,27 +1315,37 @@ La Unidad de Gestión podrá solicitar constituirse como coadyuvante en los proc
 
 Acciones de búsqueda inmediata
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 66.
 
-La Comisión de Búsqueda debe instrumentar acciones de búsqueda inmediatamente conforme al Protocolo Homologado de Búsqueda, el cual incluirá, entre otros, el cruce de la información ingresada al Registro Nacional y al Registro Estatal con los registros o bases de datos a que se refiere el artículo 70 de esta Ley.
+La Comisión de Búsqueda debe instrumentar acciones de búsqueda inmediatamente conforme al Protocolo Homologado de Búsqueda, al Protocolo de Búsqueda de Niñas, Niños y Adolescentes y otros existentes, los cuales incluirán, entre otros, el cruce de la información ingresada al Registro Nacional y al Registro Estatal con los registros o bases de datos a que se refiere el artículo 70 de esta Ley.
 
 Asimismo, al momento de iniciar la búsqueda, debe informar a los familiares sobre la posibilidad de canalizarlos a la autoridad de atención a víctimas que corresponda, de conformidad con la legislación en materia de víctimas.
 
 Solicitud de información
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 67.
 
-La Comisión de Búsqueda debe solicitar a los familiares, preferentemente a través del cuestionario establecido en el Protocolo Homologado de Búsqueda, la información que estime necesaria para localizar e identificar a la persona desaparecida.
+La Comisión de Búsqueda debe solicitar a los familiares, preferentemente a través del cuestionario establecido en el Protocolo Homologado de Búsqueda, y de la entrevista a que alude el Protocolo de Búsqueda de Niñas, Niños y Adolescentes y otros existentes, la información que estime necesaria para localizar e identificar a la persona desaparecida.
 
 Mecanismos para acceder a los indicios, evidencias y pruebas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 68.
 
-La Comisión de Búsqueda debe asegurar la existencia de mecanismos eficientes para que los familiares y sus representantes siempre tengan acceso a los indicios, evidencias y pruebas relacionadas con la búsqueda, y puedan proponer acciones de investigación para la búsqueda y localización de la persona.
+La Comisión de Búsqueda está obligada a proporcionar información relativa a las acciones de búsqueda a los familiares, sus representantes y a los Colectivos de búsqueda; para ello, debe asegurar la existencia de mecanismos eficientes para que estos y sus representantes siempre tengan acceso a los indicios, evidencias y pruebas relacionadas con la búsqueda, y puedan proponer acciones de investigación para la búsqueda y localización de la persona.
 
-La Comisión de Búsqueda debe implementar mecanismos para que los familiares tengan conocimiento del resultado de las acciones de búsqueda, las diligencias, los indicios, evidencias y pruebas que surjan de los mismos.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-Los familiares y sus representantes podrán acompañar y dar seguimiento a las acciones de búsqueda, lo cual estará garantizado en todo momento, de acuerdo con las medidas previstas en el Protocolo Homologado de Búsqueda y en el Protocolo Homologado de Investigación y siempre velando por salvaguardar su integridad física y emocional.
+La Comisión de Búsqueda debe implementar mecanismos para que los familiares, sus representantes o los Colectivos de búsqueda tengan conocimiento del resultado de las acciones de búsqueda, las diligencias, los indicios, evidencias y pruebas que surjan de los mismos.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Los familiares, sus representantes y los Colectivos de búsqueda podrán acompañar y dar seguimiento a las acciones de búsqueda, lo cual estará garantizado en todo momento, de acuerdo con las medidas previstas en el Protocolo Homologado de Búsqueda y en el Protocolo Homologado de Investigación y siempre velando por salvaguardar su integridad física y emocional.
 
 Lo dispuesto en este artículo está sujeto a lo previsto en el Código Nacional de Procedimientos Penales.
 
@@ -1081,6 +1389,10 @@ Las autoridades o instituciones, públicas o privadas, que administren las bases
 
 La Comisión de Búsqueda proporcionará asistencia a las autoridades e instituciones a que se refiere el párrafo anterior, a fin de facilitar el acceso a la información contenida en sus bases de datos o registros, para lo cual celebrarán los convenios correspondientes.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+La Comisión de Búsqueda gestionará el acceso a la información contenida en los registros a que alude este artículo, para que los familiares y sus representantes puedan realizar consultas de los mismos, atendiendo a las disposiciones de la legislación en materia de protección de datos personales.
+
 Acciones para el caso de localizar a la persona
 
 ###### Artículo 71.
@@ -1095,7 +1407,9 @@ III. Aplicar el procedimiento correspondiente a la identificación de identidad 
 
 IV. Una vez identificada, declarar localizada a la persona y notificarlo a quien solicitó la búsqueda, a sus familiares o, en su caso, a la persona que ésta designe;
 
-V. En caso de que se localizara sin vida a la persona, se deberán aplicar las reglas para el tratamiento e identificación forense y de notificación y entrega de restos a familiares, contenido en el protocolo homologado que corresponda, garantizando siempre proteger, respetar y restituir de manera digna a sus familiares los restos humanos, así como entregar un informe de las circunstancias de la muerte y la forma en que se identificaron dichos restos. En este caso, las autoridades competentes deberán continuar con la investigación para la ubicación y sanción de los probables responsables; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+V. En caso de que se localizara sin vida a la persona, se deberán aplicar las reglas para el tratamiento e identificación forense y de notificación y entrega de restos a familiares, contenido en el protocolo homologado que corresponda y en los lineamientos para la restitución digna de los cuerpos o restos identificados, garantizando siempre proteger, respetar y restituir de manera digna a sus familiares los restos humanos, así como entregar un informe de las circunstancias de la muerte y la forma en que se identificaron dichos restos. En este caso, las autoridades competentes deberán continuar con la investigación para la ubicación y sanción de las personas probables responsables; y
 
 VI. Actualizar el Registro Estatal, en términos del artículo 105 de la Ley General y el artículo 79 de esta Ley.
 
@@ -1123,9 +1437,11 @@ La Comisión de Búsqueda y la Fiscalía Especializada, de conformidad con las a
 
 Aplicación de los protocolos
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 75.
 
-Los protocolos deberán aplicarse por parte de la Comisión de Búsqueda, la Fiscalía Especializada y las instituciones de seguridad pública, con las perspectivas de género, de niñez y de derechos humanos.
+Los protocolos deberán aplicarse por parte de la Comisión de Búsqueda, la Fiscalía Especializada y las instituciones de seguridad pública, con las perspectivas de género, de niñez, de derechos humanos y de no revictimización de la persona desparecida y de su familia.
 
 ### Capítulo I. Disposiciones Generales
 
@@ -1141,9 +1457,33 @@ El Registro Estatal es una herramienta de búsqueda e identificación que organi
 
 Apartados del registro estatal
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 77.
 
-El Registro Estatal contendrá un apartado de consulta accesible al público en general y dispondrá de espacios de buzón para recibir la información que se proporcione por el público en general, respecto de personas desaparecidas.
+El Registro Estatal dispondrá de cuatro apartados, uno público, otro de acceso a las autoridades que realicen el registro de las personas cuando son reportadas como desaparecidas, uno de acceso a las familias de las personas que se integren como desaparecidas y uno que permita recibir la información que se proporcione por la ciudadanía.
+
+El apartado público contendrá información general de la persona desaparecida que facilite su búsqueda, localización e identificación, considerando al menos:
+
+a) Nombre;
+
+b) Edad;
+
+c) Sexo;
+
+d) Nacionalidad;
+
+e) Fotografías recientes o, en caso de imposibilidad, el retrato hablado de la persona, videos u otros medios gráficos;
+
+f) Descripción morfológica, señas particulares, tatuajes y demás datos que permitan su identificación;
+
+g) Fecha, hora y lugar de la última vez que fue vista; y
+
+h) Pertenencia grupal o étnica.
+
+Los apartados de acceso a las autoridades y a los familiares, contendrá la totalidad de la información que se integre al registro conforme lo establecido en el artículo 80 de esta Ley. Este apartado también permitirá que se actualice la información de manera permanente y estará habilitado las 24 horas del día.
+
+El apartado para recibir información sobre personas desaparecidas estará habilitado las 24 horas del día, abierto para la ciudadanía en general y tendrá una opción para que se pueda proporcionar la información de manera anónima.
 
 Administración del Registro Estatal
 
@@ -1284,6 +1624,14 @@ I. Persona localizada que no fue víctima de ningún delito;
 II. Persona localizada víctima de un delito materia de la Ley General; y
 
 III. Persona localizada víctima de un delito diverso.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Herramientas del Registro Estatal
+
+###### Artículo 84
+
+1. El Registro Estatal deberá contar con las herramientas tecnológicas que permitan la integración, la interrelación, el resguardo y la confiabilidad de la información, así como migrar o compartir la información con el Registro Nacional.
 
 #### Sección Segunda. Registro Estatal de Personas Fallecidas y No Identificadas
 
@@ -1457,6 +1805,110 @@ La obtención, administración, uso y conservación de información forense debe
 
 Una vez identificada la persona desaparecida, los titulares de los datos personales o sus familiares, según sea el caso, podrán solicitar el tratamiento de sus datos en los términos de la legislación de la materia.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+#### Sección Tercera-1. Registro Estatal de Fosas
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Registro Estatal de Fosas
+
+###### Artículo 101
+
+1. El Registro Estatal de Fosas se encuentra a cargo de la Comisión de Búsqueda y concentra la información respecto de las fosas comunes que existen en los cementerios y panteones de los municipios del Estado, así como de las fosas clandestinas que la Fiscalía General localice.
+
+El objetivo del Registro Estatal de Fosas es contar con un censo de los contextos de hallazgo que permita la identificación y localización de lugares donde se pueden encontrar cuerpos o restos de personas fallecidas no identificadas o reclamadas.
+
+La Comisión de Búsqueda emitirá los lineamientos para que las autoridades remitan información sobre estos sitios y de forma homologada que refiera la fecha del hallazgo, domicilio o coordenadas de localización, ruta de acceso, características del sitio, los hallazgos encontrados, y demás información relevante para su intervención.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Interconexión con herramientas del Registro Estatal de Fosas
+
+###### Artículo 101
+
+2. El Registro Estatal de Fosas debe estar interconectado con las herramientas de investigación, búsqueda e identificación previstas en esta Ley y ser actualizado por personal designado y capacitado para ello, en tiempo real.
+
+La información deberá ser recabada de conformidad con los protocolos o lineamientos correspondientes. El Registro Estatal de Datos Forenses deberá realizar cruces de información de manera permanente y continua con el Registro Nacional, el Registro Estatal y el Registro Estatal de Personas Fallecidas y No Identificadas, así como con otros registros que contengan información forense relevante para la búsqueda de personas.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Contenido del Registro Estatal de Fosas
+
+###### Artículo 101
+
+3. El Registro Estatal de Fosas deberá contener los siguientes campos:
+
+I. Información homologada sobre los datos de localización que incluya domicilio o coordenadas del sitio;
+
+II. Información general que describa el lugar, la fecha y las circunstancias de la localización e intervención. Se incluirá también la información arqueológica forense y otra información relevante;
+
+III. Información con descripción detallada de los hallazgos, como puede ser número de cuerpos o restos recuperados, descripciones sobre los restos, la ropa, calzado y otras prendas u objetos y cualquier otro dato que permita la identificación de las personas desaparecidas;
+
+IV. Información sobre la exhumación e inhumación o destino final de los cuerpos o restos;
+
+V. Información que se desprenda de la cadena de custodia de los informes y el tratamiento de los cuerpos o restos;
+
+VI. Datos de la carpeta de investigación, noticia o acta circunstanciada vinculada al hallazgo;
+
+VII. Lugar donde se encuentra el soporte documental de la información vertida en el Registro Estatal de Fosas; y
+
+VIII. Cualquier otra información relevante para el Registro Estatal de Fosas.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Tratamiento de información del Registro Estatal de Fosas
+
+###### Artículo 101
+
+4. La información contenida en el Registro Estatal de Fosas deberá ser tratada de acuerdo con la legislación en materia de transparencia y protección de datos personales.
+
+La obtención, administración, uso y conservación de información contenida en el Registro Estatal de Fosas debe realizarse con respeto a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Apartados del Registro Estatal de Fosas
+
+###### Artículo 101
+
+5. El Registro Estatal de Fosas contará con cuatro apartados. Uno público; otro de acceso a las autoridades que realicen el registro de fosas cuando sean localizadas; uno de acceso a los familiares; y uno que permita recibir la información que se proporcione por la ciudadanía.
+
+El apartado público contendrá información general de las fosas identificadas:
+
+I. Datos generales de localización;
+
+II. Información general que describa el lugar, la fecha y las circunstancias de la localización;
+
+III. Información general de los hallazgos, como puede ser información contenida en documentos de identidad, número de cuerpos o restos recuperados, descripción de la ropa, calzado y otras prendas u objetos y cualquier otro dato o fotografías que permitan la localización o identificación de las personas desaparecidas; y
+
+IV. Cualquier otra información relevante para la posible localización e identificación de las personas.
+
+Los apartados de acceso a las autoridades y a los familiares contendrán la totalidad de la información que se integre al Registro Estatal de Fosas conforme lo establecido en el artículo 101-3 de esta Ley. Este apartado también permitirá que se actualice la información de manera permanente y estará habilitado las 24 horas del día.
+
+El apartado para recibir información sobre fosas estará habilitado las 24 horas del día, abierto para la ciudadanía en general y tendrá una opción para que se pueda proporcionar la información de manera anónima.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Confrontación de la información contenida en el Registro Estatal de Fosas
+
+###### Artículo 101
+
+6. La información contenida en el Registro Estatal de Fosas puede ser confrontada con la información que esté en poder de otras autoridades e instituciones, nacionales o extranjeras, así como con otros registros y bancos de información relacionados con información forense que pueda ser útil para identificar a una persona.
+
+La Comisión de Búsqueda debe establecer los mecanismos de colaboración para cumplir con lo dispuesto en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Centralización de la información
+
+###### Artículo 101
+
+7. Corresponde a la Comisión de Búsqueda coordinar la operación y centralizar la información del Registro Estatal de Fosas en términos de lo que establezcan los lineamientos de integración de este.
+
+Asimismo, tiene la obligación de compartir la información con la Fiscalía General de la República, la Fiscalía Especializada, las fiscalías especializadas de las entidades federativas, la Comisión Nacional de Búsqueda y las comisiones de búsqueda de las entidades federativas.
+
+Los familiares podrán acceder al Registro Estatal de Fosas solicitando la información a la Comisión de Búsqueda, misma que deberá observar lo dispuesto en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Guanajuato para proceder a la entrega correspondiente.
+
 #### Sección Cuarta. Herramientas tecnológicas
 
 Diseño de las bases y registros
@@ -1497,9 +1949,17 @@ Registros con que deberá contar el Estado
 
 Además de lo establecido en este capítulo, el Estado deberá contar, con:
 
-I. El Registro Administrativo de Detenciones, previsto en la Ley General del Sistema Nacional de Seguridad Pública; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-II. El Registro Estatal de Fosas, el cual deberá contar con la información respecto de las fosas comunes que existen en los cementerios y panteones de todos los municipios del Estado, así como de las fosas clandestinas que la Fiscalía General localice.
+I. El Registro Administrativo de Detenciones, previsto en la Ley General del Sistema Nacional de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+II. El Registro Estatal de Fosas, el cual deberá contar con la información respecto de las fosas comunes que existen en los cementerios y panteones de todos los municipios del Estado, así como de las fosas clandestinas que la Fiscalía General localice; y
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+III. Los registros que, con motivo de la Ley General y esta Ley se implementen.
 
 ###### Artículo 105.
 
@@ -1687,7 +2147,9 @@ La información y documentación relacionada con las personas protegidas debe se
 
 ### Capítulo II. Programación
 
-Contenido de los programas de prevención
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Evaluación de los programas de prevención
 
 ###### Artículo 118.
 
@@ -1763,7 +2225,7 @@ Capacitación en materia de derechos humanos
 
 ###### Artículo 125.
 
-Los programas de prevención a que se refiere el presente título deben incluir metas e indicadores a efecto de evaluar las capacitaciones y procesos de sensibilización impartidos a servidores públicos.
+Los programas de prevención a que se refiere el presente título deben incluir indicadores de proceso y resultado, así como mecanismos de evaluación para conocer el impacto y los resultados de las capacitaciones y procesos de sensibilización impartidos a servidores públicos.
 
 Remisión de estudios
 
@@ -1876,3 +2338,11 @@ P.O. 24 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 222. SE REFORMA LA FRACCIÓN II Y SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 29 DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL ESTADO Y MUNICIPIOS DE GUANAJUATO; SE REFORMAN LAS FRACCIONES V DE LOS ARTÍCULOS 8, 11, 13, 15, 17 Y LA FRACCIÓN III DEL ARTÍCULO 66 DE LA LEY DE JUSTICIA CÍVICA DEL ESTADO DE GUANAJUATO; SE DEROGAN LAS FRACCIONES VIII DEL ARTÍCULO 11; VII DEL ARTÍCULO 21 Y LA V DEL ARTÍCULO 23 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO; SE REFORMAN EL ARTÍCULO 5 Y LA FRACCIÓN II DEL ARTÍCULO 26 DE LA LEY PARA LA BÚSQUEDA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE GUANAJUATO; SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 23 DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE GUANAJUATO; Y SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 89 Y LA FRACCIÓN III DEL ARTÍCULO 169 Y, SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 165, DE LA LEY DE VÍCTIMAS DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 20 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO 233, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY PARA LA BÚSQUEDA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE GUANAJUATO, LEY DE VÍCTIMAS DEL ESTADO DE GUANAJUATO Y LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO".]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. La titular del Instituto para las Mujeres Guanajuatenses se integrará al Sistema Estatal de Búsqueda de Personas y al Sistema Estatal de Atención Integral a Víctimas de Guanajuato dentro de los quince días posteriores a la entrada en vigor del presente Decreto.
