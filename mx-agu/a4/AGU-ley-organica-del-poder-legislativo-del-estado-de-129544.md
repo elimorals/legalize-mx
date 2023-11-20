@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2023-10-23"
+last_updated: "2023-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -1393,7 +1393,21 @@ Se integrarán por cinco Diputados, con excepción del Comité de Administració
 
 Cada Comité podrá contar, a propuesta de la Junta de Coordinación Política, con el personal y los recursos necesarios para su buen desempeño.
 
-Los Grupos de Amistad podrán ser constituidos para el ejercicio Constitucional de la Legislatura, mediante la aprobación de un Acuerdo Legislativo por el Pleno, y serán integrados por al menos tres Diputados.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Los Grupos de Amistad son órganos creados a partir de un Acuerdo Legislativo aprobado por el Pleno para la atención y seguimiento de los vínculos bilaterales con órganos parlamentarios y legislativos de las diferentes entidades federativas del país, así como con los de países y entidades subnacionales con los que México sostenga relaciones diplomáticas. Su vigencia estará ligada a la de la Legislatura en que se conformaron, pudiendo desde luego ser establecidos nuevamente para cada legislatura.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Los Diputados y las Diputadas podrán presentar escrito de solicitud de constitución de Grupos de Amistad dirigido a la Mesa Directiva del H. Congreso del Estado de Aguascalientes. Tal solicitud deberá contener la correspondiente exposición de motivos que justifique la propuesta, así como el proyecto de decreto correspondiente; y deberá acompañar además de todos, un expediente, con documentos que acrediten la relevancia para el Estado de la entidad legislativa con la que se pretenda constituir el Grupo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+La Comisión de Asuntos Migratorios, Relaciones Internacionales e Interinstitucionales será la encargada de elaborar el Acuerdo Legislativo constitutivo para posteriormente someterlo a la aprobación del Pleno.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Los Grupos de Amistad estarán integrados por al menos tres Diputados y Diputadas. La Junta de Coordinación Política elegirá de entre sus miembros a quien deba asumir la presidencia y la secretaría de dicho órgano.
 
 ###### ARTÍCULO 92.
 
@@ -2422,3 +2436,15 @@ P.O. 23 DE OCTUBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 521.- SE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones jurídicas que se opongan al presente decreto.
