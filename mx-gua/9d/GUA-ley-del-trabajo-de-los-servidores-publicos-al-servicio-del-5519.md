@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-trabajo-de-los-servidores-publicos-al-servicio-del-5519
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-04"
-last_updated: "2022-10-28"
+last_updated: "2023-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 4 de diciembre de 1992.
 
@@ -552,6 +552,10 @@ E) DIFUNDIR INFORMACION SOBRE EL DERECHO AL USO DE LA SALA DE LACTANCIA PARA GAR
 F) GARANTIZAR QUE LAS CONDICIONES DE HIGIENE Y LIMPIEZA SE BRINDEN EN OPTIMAS CONDICIONES DE SALUBRIDAD, EN CADA TURNO DE TRABAJO.
 
 G) DIFUSION DE ACTIVIDADES Y PRACTICAS ENCAMINADAS A PROMOVER LA LACTANCIA MATERNA Y MEJORAR LA ALIMENTACION FAMILIAR.
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XII.- PROPORCIONAR A SUS TRABAJADORES CAPACITACION EN IGUALDAD DE GENERO Y PERSPECTIVA DE GENERO PARA EL DESEMPEÑO DE SUS ATRIBUCIONES, FUNCIONES Y COMPETENCIAS.
 
 ### CAPITULO SEXTO
 
@@ -1634,3 +1638,9 @@ P. O. 28 DE OCTUBRE DE 2022.
 Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. Los poderes Ejecutivo, Legislativo, Judicial, organismos autónomos y los municipios, en el ámbito de sus respectivas competencias deberán adecuar su normativa interna en un plazo de noventa días posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 235, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO Y LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
