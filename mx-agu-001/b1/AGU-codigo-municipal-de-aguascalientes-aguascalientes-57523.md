@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2023-10-02"
+last_updated: "2023-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1191,11 +1191,13 @@ Cuando los informes trimestrales de avance de gestión financiera sean sometidos
 
 La Presidencia tiene a su cargo el despacho de asuntos que expresamente le confieren la Ley que en materia municipal expida el Poder Legislativo del Estado, los acuerdos que emanen de las Sesiones del H. Ayuntamiento y el presente ordenamiento.
 
-(REFORMADO, P.O. 21 DE FEBRERO DE 2011) (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 98.
 
-El trámite y resolución de los asuntos, competencia del Municipio de Aguascalientes, corresponde originalmente al Presidente Municipal, quien para su mejor realización, podrá delegar sus facultades en cualquiera de los servidores públicos de la administración pública municipal, sin perder por ello su ejercicio directo y responsabilidad.
+El trámite y resolución de los asuntos, competencia del Municipio de Aguascalientes, corresponde originalmente al Presidente Municipal, quien, para su mejor realización, podrá delegar sus facultades en cualquiera de los servidores públicos de la administración pública municipal, sin perder por ello su ejercicio directo y responsabilidad.
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2011)</small>
 
 Los titulares de cada una de las dependencias y entidades de la administración pública municipal, acordarán directamente con el Presidente Municipal o con quien éste determine, y deberán cumplir los requisitos señalados en la Ley que en materia municipal expida el Poder Legislativo del Estado.
 
@@ -1260,6 +1262,8 @@ t) Coordinación General de Salud; y
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2022)</small>
 
 u) Instituto Municipal de Salud Mental.
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2011)</small>
 
 I.- PRESIDENCIA MUNICIPAL
 
@@ -2043,15 +2047,71 @@ Departamento de Capacitación y Vinculación Institucional.
 
 Departamento de Evaluación de Transparencia.
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
 XXI.- Coordinación General de Salud.
 
-Departamento de Regulación Sanitaria.
+Unidad de Transparencia.
 
-Departamento de Rastro.
+Unidad de Comunicación Social.
 
-Departamento de Salud y Bienestar Animal.
+Guardia Sanitaria Municipal.
+
+Hospital Veterinario
+
+Dirección de Rastros
+
+Departamento de Inspección Sanitaria.
+
+Departamento de Producción.
+
+Departamento de Control de Calidad.
+
+Unidad de Crédito y Cobranza
+
+Departamento de Regulación Sanitaria
+
+Unidad de Verificación.
+
+Unidad de Archivo.
+
+Unidad de Dictaminación.
+
+Unidad de Servicios Médicos de Zona de Tolerancia.
+
+Departamento de Salud y Bienestar Animal;
+
+Unidad de Certificación de Lesiones;
+
+Unidad de Captura y Aseguramiento;
+
+Unidad de Observación y Cuarentena;
+
+Unidad de Educación y Fomento Sanitario y Concientización;
+
+Unidad de Investigación;
+
+Unidad de Sacrificio humanitario y anfiteatro; y
+
+Unidad de Quirófano y Asistencia Médico-Veterinaria.
+
+Departamento Administrativo;
+
+Unidad de Recursos Humanos.
+
+Unidad de Recursos Materiales y control presupuestal
+
+Departamento de Asuntos Jurídicos;
+
+Unidad Contenciosa.
+
+Unidad de Asesoría General.
+
+Departamento de Formación y Capacitación.
+
+Unidad de Capacitación.
+
+Unidad de diseño e implementación de programas de difusión.
 
 > <small>(ADICIONADA [N. DE E. CON SUS PÁRRAFOS], P.O. 21 DE FEBRERO DE 2022)</small>
 
@@ -25042,3 +25102,9 @@ PRIMERO.- La (sic) presentes reformas y adiciones iniciarán su vigencia al día
 SEGUNDO.- Las referencias al Modelo Integral de Aguas de Aguascalientes (MIAA) se entenderán realizadas a la Comisión Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes, esto en tanto el MIAA inicie formalmente operaciones como prestador de servicios conforme a la declaratoria que para el efecto emita en términos de lo previsto en el transitorio cuarto del Reglamento que crea el Organismo Público Descentralizado “Modelo Integral de Aguas de Aguascalientes”, publicado en el Periódico Oficial del Estado el 24 de abril de 2023.
 
 Asimismo, en tanto inicia formalmente operaciones el MIAA según lo descrito en el párrafo anterior, las referencias a su Dirección de Planeación Técnica se entenderán hechas a la Dirección Técnica de Comisión Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes.
+
+P.O. 20 DE NOVIEMBRE DE 2023.
+
+> <small>[N. DE E. RESOLUTIVO DE LA “REFORMA AL ARTÍCULO 98 FRACCIÓN XXI DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]</small>
+
+PRIMERO. La presente reforma entrará en vigor a partir del primero de enero del año dos mil veinticuatro.
