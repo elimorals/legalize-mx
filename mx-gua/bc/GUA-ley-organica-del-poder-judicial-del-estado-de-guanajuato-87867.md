@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-judicial-del-estado-de-guanajuato-87867"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-05-22"
-last_updated: "2023-05-31"
+last_updated: "2023-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de mayo de 2012.
 
@@ -433,7 +433,13 @@ XVII. Tramitar y resolver los procedimientos disciplinarios y aplicar, cuando as
 
 XVIII. Cuidar el cumplimiento de las normas de la carrera judicial;
 
-XIX. Formar a los servidores públicos que requiera el Poder Judicial, así como desarrollar cursos de capacitación para particulares;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XIX. Formar a los servidores públicos que requiera el Poder Judicial, así como desarrollar cursos de capacitación para particulares.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Implementar capacitación de manera obligatoria en igualdad de género y en perspectiva de género a todo personal del Poder Judicial;
 
 XX. Facilitar los medios para que los cursos de formación que se impartan a los servidores públicos del Poder Judicial, se realicen adecuadamente;
 
@@ -4000,3 +4006,9 @@ P.O. 31 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 203, MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES I, INCISO B): IV, PÁRRAFO PRIMERO E INCISOS A) Y D); ASÍ COMO EL SEGUNDO PÁRRAFO, TODOS DEL ARTÍCULO 37 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 20 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 235, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO Y LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
