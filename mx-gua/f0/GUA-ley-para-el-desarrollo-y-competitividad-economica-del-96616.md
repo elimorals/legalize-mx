@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-desarrollo-y-competitividad-economica-del-96616"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-15"
-last_updated: "2020-07-22"
+last_updated: "2023-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY PARA EL DESARROLLO Y COMPETITIVIDAD ECONÓMICA DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de noviembre de 2013.
 
@@ -142,6 +142,12 @@ XIX. Procesos productivos: Conjunto de actividades concretas, interrelacionadas 
 XX. Proyectos de Desarrollos Económicos: Espacios territoriales destinados a la realización de actividades industriales, comerciales y de servicios o de transferencia de tecnología, con infraestructura y servicios comunes que facilitan la instalación de proyectos de inversión generadores de empleo o tecnología;
 
 XXI. Proyecto de Inversión Productiva: Proyecto económico de tipo industrial, comercial o de servicios orientado a la transformación, compraventa de bienes y servicios y prestación de servicios, el cual debe contener un programa de inversión y generación de empleo directo en un periodo determinado, señalando las fuentes de origen de los recursos;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XXI BIS. Salvaguardas Sociales. Se refieren a medidas sociales y económicas enfocadas en anticipar, evitar, minimizar, mitigar o compensar los impactos adversos o negativos de proyectos de desarrollos económicos en comunidades en los que estos tengan incidencia. Asimismo, se consideran en estas acciones aquellas orientadas a mejorar y potenciar los impactos positivos, beneficios y oportunidades económicas y sociales para las poblaciones locales involucradas;
+
+Estas medidas deberán considerar un enfoque de brechas de desigualdad de género para implementar acciones y propuestas orientadas en abatirlas.
 
 XXII. Secretaría: La Secretaría de Desarrollo Económico Sustentable;
 
@@ -377,9 +383,15 @@ XIV. Generar propuestas al Consejo Estatal de Mejora Regulatoria de acciones par
 
 XV. Generar comisiones internas de trabajo por regiones, municipios o actividades con el objetivo de estudiar, analizar y proponer alternativas para el desarrollo de las actividades productivas de las zonas y regiones económicas;
 
-XVI. Proponer a los ayuntamientos de las regiones, programas de estímulos para el establecimiento y desarrollo de empresas que contribuyan al incremento de la productividad regional; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-XVII. Los demás que se encuentren previstas en los ordenamientos jurídicos.
+XVI. Proponer a los ayuntamientos de las regiones, programas de estímulos para el establecimiento y desarrollo de empresas que contribuyan al incremento de la productividad regional;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XVII. Promover salvaguardas sociales para el desarrollo de proyectos de desarrollos económicos en comunidades en los que estos tengan incidencia; y
+
+XVIII. Los demás que se encuentren previstas en los ordenamientos jurídicos.
 
 Organización y funcionamiento del Consejo
 
@@ -488,6 +500,14 @@ I. Coordinar la elaboración y ejecución de proyectos y programas concretos, qu
 II. Promover el incremento y fortalecimiento de la infraestructura logística, carretera y de conectividad, que permitan la articulación productiva y comercialización eficiente de la producción en el estado; y
 
 III. Establecer sistemas especiales de incentivos orientados a regiones económicas prioritarias o a ramas o actividades económicas emergentes o estratégicas para la economía del estado.
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+IV. Establecer salvaguardas sociales en proyectos de desarrollos económicos en comunidades en las que estos tengan incidencia.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV, P.O. 20 DE NOVIEMBRE DE 2023]</small>
+
+Para tal efecto, se coordinarán acciones entre las instituciones del sector público y se podrán llevar a cabo acciones entre el sector público y el sector privado orientadas en generar condiciones que favorezcan integralmente el desarrollo humano de la población que resida en los municipios en los que estos proyectos de desarrollos económicos se ejecuten y que tengan incidencia.
 
 Políticas de desarrollo regional y programas
 
@@ -1028,3 +1048,9 @@ En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y A
 Artículo Octavo. La Secretaría de la Transparencia y Rendición de Cuentas, vigilará los procesos de entrega recepción extraordinaria, de conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal.
 
 Artículo Noveno. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de este Decreto, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 236, POR EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA EL DESARROLLO Y COMPETITIVIDAD ECONÓMICA DEL ESTADO DE GUANAJUATO”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
