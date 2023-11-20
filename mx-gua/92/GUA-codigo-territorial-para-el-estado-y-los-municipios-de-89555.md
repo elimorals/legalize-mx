@@ -4,7 +4,7 @@ identifier: "GUA-codigo-territorial-para-el-estado-y-los-municipios-de-89555"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-25"
-last_updated: "2022-12-08"
+last_updated: "2023-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre de 2012.
 
@@ -1523,7 +1523,9 @@ XII. Vigilar que la publicidad para la enajenación de lotes, departamentos, loc
 
 XIII. Verificar que en los fraccionamientos y desarrollos en condominio se presten adecuada y suficientemente los servicios públicos conforme a los permisos respectivos, antes de que sean entregadas al Municipio, las obras de urbanización correspondientes;
 
-XIV. Asesorar a los habitantes de los fraccionamientos o desarrollos en condominio cuando las obras de urbanización relativas a la prestación de servicios públicos no hayan sido entregadas al Municipio, para la solución de los problemas relativos a la prestación de los mismos por parte del desarrollador;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XIV. Asesorar a los habitantes de los fraccionamientos o desarrollos en condominio cuando las obras de urbanización relativas a la prestación de servicios públicos no hayan sido entregadas al Municipio, y promover la realización de las acciones tendientes a la solución de los problemas relativos a la prestación de los mismos por parte del desarrollador;
 
 XV. Vigilar y evitar el establecimiento de asentamientos humanos que no cumplan con las disposiciones del Código;
 
@@ -7247,9 +7249,11 @@ La unidad administrativa municipal, el organismo operador y las dependencias o e
 
 Procedimiento para la recepción de las obras y servicios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 436.
 
-A la terminación de las obras de urbanización del fraccionamiento o de la etapa correspondiente, así como de aquéllas destinadas a la prestación de servicios públicos y a la dotación de equipamiento urbano del desarrollo en condominio, el desarrollador podrá solicitar a la unidad administrativa municipal, al organismo operador y a las dependencias o entidades competentes, la recepción de obras y servicios públicos, respectivamente, debiendo presentar para tal efecto, la bitácora de obra concluida, firmada por el perito supervisor, dentro de los veinte días hábiles siguientes al cierre de la misma, así como las actas de recepción del organismo operador, la entidad paraestatal y la unidad administrativa municipal.
+A la terminación de las obras de urbanización del fraccionamiento o de la etapa correspondiente, así como de aquéllas destinadas a la prestación de servicios públicos y a la dotación de equipamiento urbano del desarrollo en condominio, el desarrollador deberá solicitar a la unidad administrativa municipal, al organismo operador y a las dependencias o entidades competentes, la recepción de obras y servicios públicos, respectivamente, debiendo presentar para tal efecto, la bitácora de obra concluida, firmada por el perito supervisor, dentro de los veinte días hábiles siguientes al cierre de la misma, así como las actas de recepción del organismo operador, la entidad paraestatal y la unidad administrativa municipal.
 
 Una vez recibida la solicitud, la unidad administrativa municipal deberá citar al desarrollador, al organismo operador y a las dependencias o entidades competentes, dentro de los veinte días hábiles siguientes a la presentación de la solicitud, a efecto de que se realice la inspección final de las obras de urbanización del fraccionamiento o de equipamiento del desarrollo en condominio.
 
@@ -7301,11 +7305,29 @@ Liberación de las garantías otorgadas
 
 La Tesorería Municipal y las áreas administrativas del organismo operador y de las unidades administrativas municipales sólo podrán dar trámite a la liberación de las garantías otorgadas para la realización de las obras de urbanización del fraccionamiento y de aquéllas destinadas a la prestación de servicios públicos y a la dotación de equipamiento urbano de los desarrollos en condominio, una vez que se verifique su conclusión.
 
-Reporte sobre el estado que guardan las obras
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Reporte semestral
 
 ###### Artículo 443.
 
-La unidad administrativa municipal entregará un reporte semestral al Ayuntamiento sobre el estado que guardan las obras de urbanización de los fraccionamientos y de aquéllas destinadas a la prestación de servicios públicos y a la dotación de equipamiento urbano de los desarrollos en condominio.
+La unidad administrativa municipal entregará un reporte semestral al Ayuntamiento que contendrá como mínimo:
+
+I. El cumplimiento de las fases para la gestión de los fraccionamientos o desarrollos en condominio, con la identificación de plazos, en apego a las disposiciones establecidas en este Código;
+
+II. El estado que guardan las obras de urbanización de los fraccionamientos y de aquéllas destinadas a la prestación de servicios públicos y a la dotación de equipamiento urbano de los desarrollos en condominio;
+
+III. El listado de los fraccionamientos y desarrollos en condominio que han cumplido con los plazos, especificaciones, normas técnicas, etapas constructivas y programas autorizados;
+
+IV. El listado de los fraccionamientos y desarrollos en condominio que no han cumplido con los plazos, especificaciones, normas técnicas, etapas constructivas y programas autorizados;
+
+V. Las acciones a realizar para que se dé cumplimiento con los plazos autorizados para la terminación de las obras de urbanización o de edificación;
+
+VI. El inventario de garantías presentadas ante la autoridad municipal, indicando sus principales características y los registros correspondientes; y
+
+VII. Las garantías ejecutadas o por ejecutar para dar cumplimiento a lo establecido en el artículo 454 de este Código, especificando el monto a ejecutar y las obras de edificación o urbanización a realizarse o, en su caso, el porcentaje de avance y retraso que llevan.
+
+La unidad administrativa municipal dará difusión al reporte.
 
 Destino de las áreas para la dotación de equipamiento urbano
 
@@ -7350,6 +7372,10 @@ VI. Responder por los vicios ocultos en las obras de urbanización de los fracci
 VII. Escriturar a favor del Municipio la superficie del área de donación, y de las vialidades urbanas en su caso. El Notario Público será el que indique el desarrollador;
 
 VIII. Colocar y conservar en el predio donde se autorice el fraccionamiento o el desarrollo en condominio, el aviso donde se mencionen las características de los mismos y las autorizaciones otorgadas;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+VIII bis. Solicitar, a la unidad administrativa municipal, al organismo operador y a las dependencias o entidades competentes, la recepción de obras y servicios públicos, en términos del artículo 436 de este Código;
 
 IX. Instalar por su cuenta, la señalización vial y las placas relativas a la nomenclatura de las calles; y
 
@@ -7417,9 +7443,11 @@ La unidad administrativa municipal procederá a cuantificar el avance de obra y 
 
 Terminación de las obras de urbanización o de edificación
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 454.
 
-La Tesorería Municipal solicitará la ejecución de la garantía respectiva y, una vez obtenido su importe, la autoridad en los términos de las leyes aplicables procederá a la terminación de las obras de urbanización o de edificación.
+La Tesorería Municipal solicitará, en un plazo de diez días hábiles, la ejecución de la garantía respectiva y, una vez obtenido su importe, la autoridad en los términos de las leyes aplicables procederá a la terminación de las obras de urbanización o de edificación.
 
 Levantamiento de la suspensión del permiso de venta
 
@@ -9278,3 +9306,19 @@ Las obras mínimas serán las necesarias para la prestación de los servicios de
 Implementación progresiva de las disposiciones contenidas en el presente Decreto
 
 Quinto. Las autoridades municipales y los organismos operadores destinarán los recursos que exija la presente reforma, de manera progresiva y de conformidad con su disponibilidad presupuestaria, a fin de dar cumplimiento a las disposiciones del presente decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO 231, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES AL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Inicio de vigencia del decreto
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Plazo para adecuar los reglamentos municipales
+
+Artículo Segundo. Los ayuntamientos contarán con un término de 180 días para actualizar sus reglamentos municipales.
+
+Regularización de procesos de manera progresiva
+
+Artículo Tercero. Las dependencias o entidades municipales competentes y los desarrolladores realizarán de manera progresiva las acciones tendientes a regularizar la situación de los fraccionamientos o desarrollos en condominio que se encuentren en los supuestos expresados en el presente decreto.
