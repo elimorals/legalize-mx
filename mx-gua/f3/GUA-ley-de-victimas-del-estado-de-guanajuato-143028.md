@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-victimas-del-estado-de-guanajuato-143028"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-27"
-last_updated: "2023-10-24"
+last_updated: "2023-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE VÍCTIMAS DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 27 de mayo de 2020.
 
@@ -207,7 +207,9 @@ III. A que se les otorguen todas las facilidades para la presentación de denunc
 
 IV. A ser asesoradas y representadas dentro de la investigación y el proceso por un Asesor Jurídico. En los casos en que no quieran o no puedan contratar un abogado, les será proporcionado por la Asesoría Jurídica a solicitud de la víctima de acuerdo al procedimiento que determine la presente Ley y su Reglamento; esto incluirá su derecho a elegir libremente a su representante legal;
 
-V. A que sean adoptadas las medidas para minimizar las molestias causadas, proteger su intimidad, identidad y otros datos personales;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+V. A que sean adoptadas las medidas para minimizar las molestias causadas, proteger su intimidad, identidad, otros datos personales y su dignidad póstuma;
 
 VI. A que se garantice su seguridad, así como la de sus familiares y la de los testigos en su favor contra todo acto de amenaza, intimidación o represalia;
 
@@ -901,9 +903,17 @@ a) La Secretaría de Gobierno, quien lo presidirá;
 
 b) La Secretaría de Seguridad Pública;
 
-c) La Secretaría de Salud; y
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-d) La Secretaría de Desarrollo Social y Humano;
+b) (sic) La Secretaría de Salud;
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+d) La Secretaría de Desarrollo Social y Humano; y
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+e) El Instituto para las Mujeres Guanajuatenses;
 
 II. La Fiscalía General del Estado de Guanajuato;
 
@@ -2340,3 +2350,11 @@ P.O. 24 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 222. SE REFORMA LA FRACCIÓN II Y SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 29 DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL ESTADO Y MUNICIPIOS DE GUANAJUATO; SE REFORMAN LAS FRACCIONES V DE LOS ARTÍCULOS 8, 11, 13, 15, 17 Y LA FRACCIÓN III DEL ARTÍCULO 66 DE LA LEY DE JUSTICIA CÍVICA DEL ESTADO DE GUANAJUATO; SE DEROGAN LAS FRACCIONES VIII DEL ARTÍCULO 11; VII DEL ARTÍCULO 21 Y LA V DEL ARTÍCULO 23 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO; SE REFORMAN EL ARTÍCULO 5 Y LA FRACCIÓN II DEL ARTÍCULO 26 DE LA LEY PARA LA BÚSQUEDA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE GUANAJUATO; SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 23 DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE GUANAJUATO; Y SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 89 Y LA FRACCIÓN III DEL ARTÍCULO 169 Y, SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 165, DE LA LEY DE VÍCTIMAS DEL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 20 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO 233, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY PARA LA BÚSQUEDA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE GUANAJUATO, LEY DE VÍCTIMAS DEL ESTADO DE GUANAJUATO Y LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. La titular del Instituto para las Mujeres Guanajuatenses se integrará al Sistema Estatal de Búsqueda de Personas y al Sistema Estatal de Atención Integral a Víctimas de Guanajuato dentro de los quince días posteriores a la entrada en vigor del presente Decreto.
