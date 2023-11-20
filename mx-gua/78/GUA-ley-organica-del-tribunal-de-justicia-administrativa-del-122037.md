@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-tribunal-de-justicia-administrativa-del-122037
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-20"
-last_updated: "2022-12-08"
+last_updated: "2023-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 20 de junio de 2017.
 
@@ -679,7 +679,13 @@ XII. Elaborar la nómina del personal del Tribunal de Justicia Administrativa de
 
 XIII. Integrar y mantener actualizados los expedientes del personal;
 
-XIV. Integrar y operar el plan anual de capacitación del personal administrativo del Tribunal de Justicia Administrativa del Estado de Guanajuato y, en coordinación con el Instituto de la Justicia Administrativa, integrar el plan de capacitación del personal jurisdiccional;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XIV. Integrar y operar el plan anual de capacitación del personal administrativo del Tribunal de Justicia Administrativa del Estado de Guanajuato y, en coordinación con el Instituto de la Justicia Administrativa, integrar el plan de capacitación del personal jurisdiccional.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+La capacitación incluye un programa obligatorio de igualdad de género y en perspectiva de género para todo el personal del Tribunal;
 
 XV. Realizar la adquisición de bienes y materiales, así como la contratación de servicios requeridos para el funcionamiento del Tribunal de Justicia Administrativa del Estado de Guanajuato, en los términos de la Ley de Contrataciones Públicas para el Estado de Guanajuato y de la Ley de Obra Pública y Servicios Relacionados con la Misma para el Estado y los Municipios de Guanajuato;
 
@@ -922,3 +928,9 @@ P.O. 8 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 113, SE ADICIONAN LOS ARTÍCULOS 26 A, 32, CON UNA FRACCIÓN V Y 34 CON UNA FRACCIÓN X, RECORRIÉNDOSE LAS SUBSECUENTES RESPECTIVAMENTE A LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 20 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 235, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO Y LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
