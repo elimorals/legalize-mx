@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2023-07-21"
+last_updated: "2023-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE NOVIEMBRE DE 2023.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -3183,9 +3183,11 @@ III. Cuando la cantidad o el valor de lo exigido indebidamente exceda de diez mi
 
 Enriquecimiento ilícito. Comete el delito de enriquecimiento ilícito el servidor público que, durante su encargo o al concluir éste, no acredite la legítima procedencia del aumento desproporcionado de su patrimonio o de aquellos bienes respecto de los cuales se conduzca como dueño, aunque estén inscritos a nombre de otro, tomando en cuenta las percepciones que legalmente obtuvo y sus declaraciones patrimoniales.
 
+> <small>(REFORMADO, B.O. 20 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 288.
 
-Punibilidad y requisito de procedencia. Al autor de este delito se le impondrá de dos a nueve años de prisión y el decomiso, en favor del Estado, de los bienes cuya legítima procedencia no pueda acreditar, pero se requerirá la declaración previa de la Contraloría General del Estado sobre la existencia del enriquecimiento ilícito, como un requisito de procedibilidad.
+Punibilidad. Al autor de este delito se le impondrá de dos a nueve años de prisión y el decomiso, en favor del Estado, de los bienes cuya legítima procedencia no pueda acreditar.
 
 ### CAPÍTULO II. DESOBEDIENCIA, RESISTENCIA Y USURPACIÓN DEL SERVICIO PÚBLICO POR PARTICULARES
 
@@ -4774,5 +4776,11 @@ El Presente Decreto entrará en vigor el día siguiente al de su publicación en
 B.O. 21 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2936.- SE ADICIONA UN ARTÍCULO 167 BIS, AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, Y SE REFORMAN LOS ARTÍCULOS 9, 15, 16, 17, 18, 19, 20, 26, 28 Y 32, 42 Y 46 Y SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN I Y UN SEGUNDO PÁRRAFO A LA FRACCIÓN III DEL ARTÍCULO 28 Y SE REFORMAN LAS FRACCIONES II Y V DEL ARTÍCULO 30 Y SE REFORMA LA FRACCIÓN 31 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2991 SE REFORMA EL ARTÍCULO 288 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
 
 ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
