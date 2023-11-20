@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "2023-10-24"
+last_updated: "2023-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -795,17 +795,23 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-I.- La atención de la mujer durante el embarazo, el parto y el puerperio;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2002)</small>
+I.- La atención integral de la mujer durante el embarazo, el parto y el puerperio, incluyendo, en su caso, la atención psicológica que requiera;
 
-II.- La atención de los menores de edad y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+II.- La atención de los menores de edad y la vigilancia de su crecimiento, desarrollo integral, incluyendo la promoción de la vacunación oportuna, y atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas; y
 
 III.- La protección de la integración y del bienestar familiar.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-ARTICULO 62 BIS.- En la atención materno infantil se promoverá la detección temprana de la disminución de audición o sordera o malformaciones que puedan causar ceguera y su tratamiento en todos sus grados. Lo anterior, a través del tamiz oftalmológico y auditivo neonatal, en los términos de la Ley General de Salud.
+ARTICULO 62 BIS.- En la atención materno-infantil se promoverá la detección temprana de la disminución de audición o sordera o malformaciones que puedan causar ceguera y su tratamiento en todos sus grados, a través del tamiz oftalmológico y auditivo neonatal y, en su caso, la aplicación de la prueba de tamiz ampliado, así como el diagnóstico oportuno y atención temprana de la displasia en el desarrollo de la cadera, en los términos de la Ley General de Salud.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+ARTICULO 62 TER.- En la atención materno-infantil se promoverá la atención de la transmisión del VIH/Sida y otras Infecciones de Transmisión Sexual, en mujeres embarazadas a fin de evitar la transmisión perinatal.
 
 (REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993
 
@@ -831,9 +837,15 @@ I.- Procedimientos que permitan la participación de la familia en la prevenció
 
 II.- Acciones de orientación y vigilancia institucional, capacitación, fomento a la lactancia materna y amamantamiento, inculcando que la leche materna sea el alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendente a mejorar el estado nutricional del grupo materno-infantil;
 
-III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones agudas en los menores de 5 años; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-IV.- Las demás acciones que coadyuven a la salud materno-infantil.
+III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones agudas en los menores de 5 años;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+IV.- Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio; y
+
+V.- Las demás acciones que coadyuven a la salud materno-infantil.
 
 ###### ARTICULO 66.
 
@@ -3728,3 +3740,9 @@ P.O. 24 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 226. SE REFORMAN LOS ARTÍCULOS 3 FRACCIÓN XV, 28 FRACCIÓN II, 127, 128 FRACCIÓN I Y 129 DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 20 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 232, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
