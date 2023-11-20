@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-instituciones-y-procedimientos-electorales-para-el-10170
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-27"
-last_updated: "2023-05-31"
+last_updated: "2023-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "GUA"
 ---
 # LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL TREINTA Y UNO DE MAYO DE DOS MIL VEINTITRÉS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de junio de 2014.
 
@@ -1183,9 +1181,13 @@ XVIII. LLEVAR A CABO LA RECEPCIÓN Y TRÁMITE DE SOLICITUDES DE OFICIALÍA ELECT
 
 XIX. INFORMAR AL INSTITUTO NACIONAL, A TRAVÉS DE LA UNIDAD ADMINISTRATIVA CORRESPONDIENTE, SOBRE EL EJERCICIO DE LAS FUNCIONES QUE LE HUBIERA DELEGADO CONFORME A LO PREVISTO POR LA LEY GENERAL Y DEMÁS DISPOSICIONES QUE EMITA EL CONSEJO GENERAL DEL INSTITUTO NACIONAL;
 
-> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-XX. Impulsar y generar mecanismos para prevenir y atender la violencia política electoral en razón de género;
+XX. Impulsar y generar mecanismos para prevenir y atender la violencia política electoral en razón de género.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Implementar el programa de capacitación obligatoria en igualdad de género y en perspectiva de género para todo el personal del Instituto;
 
 > <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2641,7 +2643,11 @@ XIV. Informar mensualmente al Pleno el estado del presupuesto;
 
 XV. Turnar a los magistrados los asuntos de su competencia, y
 
-XVI. Las demás que le confiere esta Ley.
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XVI. Implementar el programa de capacitación obligatoria en igualdad de género y en perspectiva de género para todo el personal del Tribunal; y
+
+XVII. Las demás que le confiere esta Ley.
 
 ###### Artículo 166.
 
@@ -7394,3 +7400,9 @@ Artículo Tercero. Para el sistema electrónico previsto en la fracción XXV del
 Artículo Cuarto. Las Oficinas Auxiliares sustituirán en todas sus obligaciones, conforme a la estrategia que al respecto asuma el Instituto Estatal, y asumirán los compromisos adquiridos por las Juntas Ejecutivas Regionales; por lo que transferirán los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, a través de la entrega-recepción respectiva.
 
 Artículo Quinto. El Instituto Estatal dictará las medidas administrativas necesarias para que, conforme a lo previsto en artículo transitorio cuarto, el personal de las Juntas Ejecutivas Regionales, conforme a su situación laboral, pasen a formar parte de las Oficinas Auxiliares; asimismo definirá los procedimientos y mecanismos para la asignación de recursos presupuestales a las Oficinas Auxiliares.
+
+P.O. 20 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 235, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO Y LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
