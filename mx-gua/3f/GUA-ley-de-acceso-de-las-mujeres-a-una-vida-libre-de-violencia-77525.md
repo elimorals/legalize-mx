@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2023-10-24"
+last_updated: "2023-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE MARZO DE 2024 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -383,55 +385,93 @@ El Consejo Estatal tendrá a su cargo la coordinación de las acciones del Siste
 
 I. Una ciudadana designada por el Gobernador del Estado, quien presidirá el Consejo;
 
-II. El titular de la Secretaría de Desarrollo Social y Humano;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-III. El titular de la Secretaría de Gobierno;
+II. La Secretaría de Desarrollo Social y Humano;
 
-IV. El titular de la Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-V. El titular de la Secretaría de Educación;
+III. La Secretaría de Gobierno;
 
-VI. (DEROGADA, P.O. 22 DE JULIO DE 2020)
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-VII. El titular de la Secretaría de Salud;
+IV. La Secretaría de Seguridad Pública;
 
-VIII. El titular de la Secretaría de la Transparencia y Rendición de Cuentas;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+V. La Secretaría de Educación;
 
-IX. El titular de la Fiscalía General del Estado de Guanajuato;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+VI. La Secretaría de Salud;
 
-X. El titular del Instituto para las Mujeres Guanajuatenses, quien ocupará (sic) Secretaría Ejecutiva del Consejo;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2020)</small>
+VII. La Secretaría de la Transparencia y Rendición de Cuentas;
 
-XI. El titular del Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-XII. El titular del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato;
+VIII. La Secretaría de Desarrollo Económico Sustentable;
 
-XIII. El titular de la Procuraduría de los Derechos Humanos del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+IX. La Fiscalía General del Estado de Guanajuato;
 
-XIII Bis. El titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+X. El Instituto para las Mujeres Guanajuatenses, quien ocupará la Secretaría Ejecutiva del Consejo;
 
-XIII Ter. El titular de la Secretaría Ejecutiva del Sistema de Protección de los derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-XIV. Cuatro representantes de los municipios, por lo menos; y
+XI. El Instituto para el Desarrollo y Atención a las Juventudes;
 
-XV. Dos representantes de Organizaciones No Gubernamentales especializadas en la protección de los derechos humanos de las mujeres.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-Cuando acuda el Gobernador del Estado, éste asumirá la presidencia y la ciudadana presidenta fungirá como vocal; ambos conservarán el derecho a voz y voto.
+XII. El Sistema para el Desarrollo Integral de la Familia;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-Los integrantes a que se refieren las fracciones I, XIV y XVde (sic) este artículo, durarán en su encargo tres años, y su designación se realizará de conformidad con los mecanismos que establezca el reglamento del Sistema Estatal.
+XIII. La Procuraduría de los Derechos Humanos del Estado de Guanajuato;
 
-Por cada integrante del Consejo Estatal habrá un suplente quien lo cubrirá en sus ausencias.
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN XIII BIS], P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XIV. La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes;
+
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN XIII TER], P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XV. La Secretaría Ejecutiva del Sistema de Protección de los derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XVI. La Comisión Estatal de Atención Integral a Víctimas del Estado de Guanajuato;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XVII. La Comisión Estatal de Búsqueda de Personas del Estado de Guanajuato;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XVIII. El Instituto Electoral del Estado de Guanajuato;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XIX. Cuatro representantes de los municipios, por lo menos; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+XX. Dos representantes de Organizaciones No Gubernamentales especializadas en la protección de los derechos humanos de las mujeres.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Cuando acuda el Gobernador o Gobernadora del Estado, ésta asumirá la presidencia y la ciudadana presidenta fungirá como vocal; ambos conservarán el derecho a voz y voto.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Las personas integrantes a que se refieren las fracciones I, XIX y XX de este artículo, durarán en su encargo tres años, y su designación se realizará de conformidad con los mecanismos que establezca el reglamento del Sistema Estatal.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+
+Por cada integrante del Consejo Estatal habrá una suplencia quien cubrirá sus ausencias.
 
 Facultades del Consejo Estatal
 
@@ -1766,3 +1806,11 @@ P.O. 24 DE OCTUBRE DE 2023.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. Las autoridades correspondientes deberán integrar de manera progresiva en su presupuesto, los recursos para el cumplimiento de (sic) presente.
+
+P.O. 20 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO 237, POR EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Las personas titulares de la Comisión Estatal de Atención Integral a Víctimas del Estado de Guanajuato, de la Comisión Estatal de Búsqueda de Personas del Estado de Guanajuato y de la Secretaría de Desarrollo Económico Sustentable, se integrarán al Consejo Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres dentro de los quince días posteriores a la entrada en vigor del presente Decreto.
