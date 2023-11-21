@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-legislativo-del-estado-de-campeche-89303
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-17"
-last_updated: "2022-10-17"
+last_updated: "2023-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 17 de agosto de 2012.
 
@@ -253,9 +253,13 @@ XIII. Llamar, cuando corresponda, previo acuerdo con los demás miembros de la M
 
 XIV. Tener por recibidos los informes que sobre el estado general que guarden (sic) la Administración Pública y la Administración de Justicia presenten respectivamente el Gobernador del Estado y el Pleno del Tribunal Superior de Justicia del Estado, éste a través de su Magistrado Presidente, turnándolos a las comisiones especiales para su análisis, respuesta y, en su caso, emisión de recomendaciones; y
 
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE NOVIEMBRE DE 2023)</small>
 
-XV. Las demás que le señalen esta Ley y otras disposiciones legales y reglamentarias, así como las que no se reserven expresamente a otro miembro de la Mesa Directiva y sean necesarias para el eficaz desempeño de la función legislativa.
+XV. Instruir el registro de la adhesión en el acta de la sesión correspondiente, que deberá incluir el nombre y el grupo parlamentario al que pertenece el adherente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE NOVIEMBRE DE 2023)</small>
+
+XVI. Las demás que le señalen esta Ley y otras disposiciones legales y reglamentarias, así como las que no se reserven expresamente a otro miembro de la Mesa Directiva y sean necesarias para el eficaz desempeño de la función legislativa.
 
 ###### Art. 18.
 
@@ -771,9 +775,13 @@ XVI. Solicitar a la Mesa Directiva y, en su caso, obtener la protección a la in
 
 XVII. Ser electos hasta por cuatro periodos consecutivos, siempre y cuando la postulación sea realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado con las salvedades que establece la Constitución Política del Estado de Campeche, y
 
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE NOVIEMBRE DE 2023)</small>
 
-XVIII. Los demás que les confieran otras disposiciones legales y reglamentarias.
+XVIII. Adherirse a las iniciativas de ley, decreto o proposiciones presentadas por otra u otro legislador, previa consulta al promovente por la o el Presidente de la Mesa Directiva; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE NOVIEMBRE DE 2023)</small>
+
+XIX. Los demás que les confieran otras disposiciones legales y reglamentarias.
 
 #### Sección Segunda. De sus obligaciones
 
@@ -2390,3 +2398,11 @@ Artículo Segundo. A partir de la entrada en vigor del presente decreto, el Cong
 Artículo Tercero. Entrado en vigor el presente decreto, el H. Congreso de (sic) Estado contará con un plazo de 60 días naturales a fin de que inicie el funcionamiento del Sistema Electrónico de Asistencia y Votación.
 
 Artículo Cuarto. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 274 POR EL QUE “SE REFORMA LA FRACCIÓN XV Y SE ADICIONA UNA FRACCIÓN XVI AL ARTÍCULO 17 Y, SE REFORMA LA FRACCIÓN XVIII Y SE ADICIONA UNA FRACCIÓN XIX AL ARTÍCULO 47 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
