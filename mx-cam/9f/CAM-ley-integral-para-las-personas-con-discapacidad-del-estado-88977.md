@@ -4,7 +4,7 @@ identifier: "CAM-ley-integral-para-las-personas-con-discapacidad-del-estado-8897
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-19"
-last_updated: "2023-07-26"
+last_updated: "2023-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 19 de julio de 2012.
 
@@ -495,15 +495,19 @@ III. Promover convenios con los sectores social y privado, a fin de que las pers
 
 IV. Las demás que dispongan otros ordenamientos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 18.
 
-Corresponde a la Secretaría de (sic) Trabajo y Previsión Social, promover el derecho al trabajo y empleo de las personas con discapacidad de forma accesible en igualdad de oportunidades y equidad, que les otorgue certeza en su desarrollo personal, social y laboral. Para tal efecto, realizará las siguientes acciones:
+Corresponde a la Secretaría de Gobierno, promover el derecho de las personas con discapacidad al trabajo digno y empleo, en igualdad de oportunidades y equidad, de manera de que se les otorgue certeza en su desarrollo personal, social y laboral. Para tal efecto, realizará las siguientes acciones:
 
-I. Verificar, prohibir y sancionar cualquier tipo de discriminación por motivo de discapacidad en la selección, contratación, remuneración, tipo de empleo, reinserción, continuidad, capacitación, liquidación laboral, promoción profesional y asegurar condiciones de trabajo accesibles, seguras y saludables, mediante las respectivas inspecciones y sanciones que le faculta la Ley de la materia;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2023)</small>
 
-II. Diseñar, ejecutar, evaluar y promover políticas públicas para la inclusión laboral de las personas con discapacidad en los sectores público y privado atendiendo al sistema de identificación y atención de las personas con discapacidad;
+I. Verificar, prohibir y sancionar cualquier tipo de discriminación por motivo de discapacidad en la selección, contratación, remuneración, tipo de empleo, reinserción, continuidad, capacitación, liquidación laboral, promoción profesional, asegurando condiciones de trabajo accesibles, seguras y saludables, mediante las respectivas inspecciones y sanciones que le faculta la Ley de la materia;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2023)</small>
+
+II. Diseñar, ejecutar, evaluar y promover políticas públicas para la inclusión laboral de las personas con discapacidad atendiendo a sus competencias laborales, en los sectores público y privado, de modo que se proteja la capacitación, el empleo digno, la contratación y los derechos laborales, en su caso, de las personas con discapacidad;
 
 III. Promover el establecimiento de políticas en materia de trabajo que tengan como finalidad la integración laboral de las personas con discapacidad y verificar que en ningún caso la discapacidad sea motivo de discriminación para el otorgamiento del empleo;
 
@@ -964,3 +968,13 @@ P.O. 26 DE JULIO DE 2023.
 Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 273 POR EL QUE “SE REFORMA EL PÁRRAFO PRIMERO Y LAS FRACCIONES I Y II DEL ARTÍCULO 18 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. La Secretaría de Gobierno de la Administración Pública Estatal, por conducto de la Subsecretaría de Trabajo y Previsión Social realizará las acciones correspondientes para el debido cumplimiento de este decreto.
+
+Artículo Tercero. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
