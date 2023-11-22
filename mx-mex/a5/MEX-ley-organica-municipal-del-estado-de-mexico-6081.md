@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2023-10-31"
+last_updated: "2023-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -905,13 +905,11 @@ XXXVIII. Expedir convocatoria para designar Cronista Municipal.
 
 XXXIX. Promover en la esfera de su competencia lo necesario para el mejor desempeño de sus funciones;
 
-> <small>(REFORMADA, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+XL. (DEROGADA, G.G. 22 DE NOVIEMBRE DE 2023)
 
-XL. Los municipios de manera libre decidirán si tienen oficialías mediadoras-conciliadoras en funciones separadas o en conjunto;
+> <small>(REFORMADA, G.G. 22 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADA, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
-
-XLI. Expedir el Reglamento de las Oficialías Mediadoras-Conciliadoras Municipales;
+XLI. Expedir el Reglamento de Justicia Cívica Municipal;
 
 > <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -1413,9 +1411,7 @@ VIII. Regularizar la propiedad de los bienes inmuebles municipales, para ello te
 
 IX. Inscribir los bienes inmuebles municipales en el Registro Público de la Propiedad, para iniciar los trámites correspondientes tendrán un plazo de ciento veinte días hábiles contados a partir de aquel en que concluyo el proceso de regularización;
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2012)</small>
-
-X. Vigilar que los Oficiales Calificadores, observen las disposiciones legales en cuanto a las garantías que asisten a los detenidos;
+X. (DEROGADA, G.G. 22 DE NOVIEMBRE DE 2023)
 
 XI. Participar en los remates públicos en los que tenga interés el municipio, para que se finquen al mejor postor y se guarden los términos y disposiciones prevenidos en las leyes respectivas;
 
@@ -1519,9 +1515,9 @@ g). Emitir opinión motivada no vinculante, respecto a la autorización de la in
 
 II. Corresponde a las personas titulares de las jefaturas de sector, de sección y de manzana:
 
-> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 22 DE NOVIEMBRE DE 2023)</small>
 
-a). Colaborar para mantener el orden, la seguridad y la tranquilidad de los vecinos del lugar, reportando ante los cuerpos de seguridad pública, a los oficiales calificadores las conductas que requieran de su intervención;
+a). Colaborar para mantener el orden, la seguridad y la tranquilidad de los vecinos del lugar, reportando ante los cuerpos de seguridad pública, a las personas jueces cívicos las conductas que requieran de su intervención;
 
 b). Elaborar y mantener actualizado el censo de vecinos de la demarcación correspondiente;
 
@@ -3525,243 +3521,37 @@ Artículo 147 U.- El Consejo de la Crónica estará integrado hasta por siete ci
 
 Artículo 147 V.- Preferentemente, el Cronista Municipal tendrá el nivel de Director de Área. Para el ejercicio de sus funciones, se le podrá considerar la asignación de recursos materiales y humanos necesarios para su buen funcionamiento.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE NOVIEMBRE DE 2023)</small>
 
-## TITULO V. De la Función Mediadora-Conciliadora y de la Calificadora de los Ayuntamientos
+## TITULO V. DE LOS RECURSOS ADMINISTRATIVOS Y DE LA ACCIÓN POPULAR
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE NOVIEMBRE DE 2023)</small>
 
-### CAPITULO PRIMERO. De las Oficialías Mediadora-Conciliadoras y de las Oficialías Calificadoras Municipales
-
-> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+### CAPITULO PRIMERO. DE LAS OFICIALÍAS MEDIADORA-CONCILIADORAS Y DE LAS OFICIALÍAS CALIFICADORAS MUNICIPALES
 
 ###### Artículo 148.
 
-En cada municipio el ayuntamiento designará, a propuesta del presidente municipal, al menos a un Oficial Calificador con sede en la cabecera municipal y en las poblaciones que el ayuntamiento determine en cada caso, quienes tendrán las atribuciones a las que se refiere el artículo 150.
-
-Así mismo podrá nombrar a los oficiales mediadores-conciliadores en materia comunitaria que requiera, los cuales durarán en su cargo tres años con posibilidad a ser nombrados para otros periodos.
-
-La forma de concluir la mediación y la conciliación, será por convenios suscritos o por acuerdo de las oficialías en caso de advertir simulación en el trámite.
-
-> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+(DEROGADO, G.G. 22 DE NOVIEMBRE DE 2023)
 
 ###### Artículo 149.
 
-Las oficialías se dividirán en mediadoras-conciliadoras y calificadoras.
-
-I. Para ser Oficial Mediador-Conciliador, se requiere:
-
-a) Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
-
-b) No haber sido condenado por delito intencional;
-
-c) Ser de reconocida buena conducta y solvencia moral;
-
-> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2022)</small>
-
-d). Tener cuando menos veinticuatro años al momento de su designación;
-
-> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2022)</small>
-
-e). Ser Licenciado en Derecho, en Psicología, en Sociología, en Antropología, en trabajo social, en comunicaciones, en medios alternos de solución de conflictos u otra afín y/o tener acreditados los estudios en materia de mediación, y
-
-> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
-
-f) Estar certificado por el Centro de Mediación, Conciliación y de Justicia Restaurativa del Poder Judicial del Estado de México.
-
-II. Para ser Oficial Calificador, se requiere:
-
-a) Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
-
-b) No haber sido condenado por delito intencional;
-
-c) Ser de reconocida buena conducta y solvencia moral;
-
-> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2022)</small>
-
-d). Tener cuando menos veinticuatro años al momento de su designación, y
-
-> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2022)</small>
-
-e). Ser Licenciado en Derecho o Licenciado en Medios Alternos de Solución de Conflictos u otra afín.
-
-> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+(DEROGADO, G.G. 22 DE NOVIEMBRE DE 2023)
 
 ###### Artículo 150.
 
-Son facultades y obligaciones de:
-
-I. Los Oficiales Mediadores-Conciliadores:
-
-a) Evaluar las solicitudes de los interesados con el fin de determinar el medio alternativo idóneo para el tratamiento del asunto de que se trate;
-
-> <small>(REFORMADO, G.G. 10 DE MARZO DE 2022)</small>
-
-b) Implementar y substanciar procedimientos de mediación o conciliación vecinal, condominal, comunitaria, familiar, escolar, social o política en su municipio, en todos los casos en que sean requeridos por la ciudadanía o por las autoridades municipales. Tratándose de conflictos en núcleos agrarios, se remitirán a la autoridad competente;
-
-> <small>(REFORMADO, G.G. 10 DE MARZO DE 2022)</small>
-
-c) Informar a los participantes, la posibilidad de cambiar el medio alterno de solución de controversias, cuando de acuerdo con los participantes resulte conveniente emplear uno distinto al inicialmente elegido, siempre que este sea más conveniente para ambas partes;
-
-d) Llevar por lo menos un libro de registro de expedientes de mediación o conciliación;
-
-e) Redactar, revisar y en su caso aprobar, los acuerdos o convenios a que lleguen los participantes a través de la mediación o de la conciliación, los cuales deberán ser firmados por ellos y autorizados por el Oficial mediador-conciliador;
-
-> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
-
-f) Negar el servicio cuando se pueda perjudicar a la hacienda pública, a las autoridades municipales o a terceros;
-
-g) Dar por concluido el procedimiento de mediación o conciliación en caso de advertir alguna simulación en su trámite;
-
-> <small>(REFORMADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
-
-h) Asistir a los cursos anuales de actualización y aprobar los exámenes anuales en materia de mediación y conciliación;
-
-> <small>(REFORMADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
-
-i) Recibir asesoría del Centro de Mediación y Conciliación del Poder Judicial del Estado de México; y
-
-> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
-
-j) Atender a los vecinos de su adscripción en los conflictos que no sean constitutivos de delito, ni de la competencia de los órganos judiciales o de otras autoridades.
-
-> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2022)</small>
-
-k) Llevar, en coordinación con la Secretaría de Justicia y Derechos Humanos, un padrón de los condominios que existen en su demarcación territorial, para generar actividades de asesoría legal.
-
-II. De los Oficiales Calificadores:
-
-a) (DEROGADO, G.G. 24 DE AGOSTO DE 2012)
-
-> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
-
-b) Conocer, calificar e imponer las sanciones administrativas municipales que procedan por faltas o infracciones al bando municipal, reglamentos y demás disposiciones de carácter general contenidas en los ordenamientos expedidos por los ayuntamientos, y aquellas que deriven con motivo de la aplicación del Libro Octavo del Código Administrativo del Estado de México, excepto las de carácter fiscal;
-
-c) Apoyar a la autoridad municipal que corresponda, en la conservación del orden público y en la verificación de daños que, en su caso, se causen a los bienes propiedad municipal, haciéndolo saber a quien corresponda;
-
-d) Expedir recibo oficial y enterar en la tesorería municipal los ingresos derivados por concepto de las multas impuestas en términos de Ley.
-
-e) Llevar un libro en donde se asiente todo lo actuado;
-
-f) Expedir a petición de parte, certificaciones de hechos de las actuaciones que realicen;
-
-g) Dar cuenta al presidente municipal de las personas detenidas por infracciones a ordenamientos municipales que hayan cumplido con la sanción impuesta por dicho servidor público o por quien hubiese recibido de este la delegación de tales atribuciones, expidiendo oportunamente la boleta de libertad;
-
-> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
-
-h) Conocer, mediar, conciliar y ser arbitro en los accidentes ocasionados con motivo del tránsito vehicular, cuando exista conflicto de intereses, siempre que se trate de daños materiales a propiedad privada y en su caso lesiones a las que se refiere la fracción I del artículo 237 del Código Penal del Estado de México; lo que se hará bajo los siguientes lineamientos:
-
-1. Facultad para ordenar el retiro de vehículos:
-
-En caso de que los conductores de los vehículos involucrados en los hechos de que se trate no lleguen a un arreglo en el mismo en lugar en que éstos hayan ocurrido, se presentarán ante el Oficial Calificador.
-
-El traslado se realizará por los mismos conductores, en caso de que éstos se encuentren en condiciones de circular, o bien, mediante el uso del servicio de grúas de su elección.
-
-Tratándose de vehículos con carga, se permitirá la realización de las maniobras necesarias para descargar el vehículo de que se trate.
-
-2. Etapa conciliatoria:
-
-Una vez que el Oficial Calificador tenga conocimiento de los hechos, hará saber a los conductores las formalidades del procedimiento desde su inicio hasta la vía de apremio e instarlos a que concilien proponiendo alternativas equitativas de solución. En cualquier caso, el resultado de la etapa de conciliación se hará constar en el acta respectiva de manera circunstanciada.
-
-El acuerdo conciliatorio tendrá carácter de cosa juzgada y podrá hacerse efectivo en la vía de apremio prevista en el Código de Procedimientos Civiles del Estado.
-
-La etapa de conciliación no podrá exceder del plazo de tres horas. Una vez vencido el plazo sin que las partes lleguen a un acuerdo, el Oficial Calificador levantará el acta respectiva y procederá conforme al punto siguiente.
-
-3. Reglas en el procedimiento arbitral:
-
-Cuando los involucrados no logren un acuerdo conciliatorio, el Oficial Calificador se constituirá en árbitro e iniciará el procedimiento respectivo actuando de la forma siguiente:
-
-a) Tomará la declaración de los interesados, del oficial de tránsito o policía que conozca de los hechos y, en su caso, de los testigos y ajustadores.
-
-b) Procederá a dar fe de los vehículos involucrados y de los daños que presenten, detallando en lo posible éstos, además, les tomará fotografías que muestren los daños sufridos, para constancia.
-
-c) Asegurará de oficio los vehículos involucrados y solamente se levantará el aseguramiento si los propietarios o conductores otorgan garantía bastante a juicio del Oficial Calificador, para garantizar el pago de la reparación de los daños.
-
-En este caso, los vehículos se devolverán a los propietarios o conductores en depósito provisional, quienes deberán resguardarlos en el lugar que expresamente señalen y tendrán la obligación de permitir el acceso para su revisión a los peritos y al personal que señale el Oficial Calificador, y estará prohibido repararlos, modificarlos, alterarlos o venderlos, teniendo las obligaciones de un depositario civil.
-
-De no presentarse los interesados ante el Oficial Calificador, o de no recibir en depósito los vehículos, estos se remitirán al depósito respectivo.
-
-d) Dará intervención de inmediato a los peritos que el caso requiera en materia de:
-
-- Identificación vehicular;
-
-- Valuación de daños automotrices;
-
-- Tránsito terrestre;
-
-- Medicina legal; y
-
-- Fotografía.
-
-Los peritos de los que se haya solicitado su intervención deberán rendir su dictamen a la brevedad posible, mismo que podrán emitir bajo cualquier medio.
-
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-El Oficial Calificador deberá realizar todas las diligencias necesarias y velar para que los peritos estén en condiciones de rendir sus dictámenes. Para estos efectos, podrá requerir la intervención de peritos de la Fiscalía General de Justicia o del personal académico o de investigación científica o tecnológica de las instituciones de educación superior del Estado, que designen éstas, que puedan desempeñar el cargo de perito
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-e) El Oficial Calificador a través del medio que resulte más eficaz, realizará consulta a la Fiscalía General de Justicia del Estado, para saber si el o los vehículos involucrados cuentan o no con reporte de robo y para tal efecto proporcionará los números de serie, motor y placas de circulación, asentando constancia de dicha consulta y agregando en su caso la documentación comprobatoria del resultado.
-
-Si de la identificación vehicular se desprenden alteraciones o de la consulta a la base de datos existe reporte de robo de los vehículos afectados, se procederá al aseguramiento y puesta a disposición ante el Ministerio Público.
-
-f) Conciliación en el procedimiento arbitral:
-
-Una vez rendidos los dictámenes periciales, el Oficial Calificador los hará del conocimiento de los involucrados y requerirá al probable responsable garantice o cubra la reparación del daño, la cual podrá realizarse por alguno de los medios legales establecidos.
-
-En esta etapa, nuevamente el Oficial Calificador, instará a los interesados a que concilien y volverá a proponerles alternativas equitativas de solución.
-
-4. Emisión del Laudo:
-
-Agotadas las diligencias, si los interesados no logran un acuerdo conciliatorio, el Oficial Calificador con carácter de árbitro, en el plazo de las setenta y dos horas siguientes emitirá el laudo respectivo debidamente fundado y motivado, mismo que además deberá contener:
-
-a) Lugar, fecha y autoridad arbitral que lo emite;
-
-b) Nombres y domicilios de las partes;
-
-c) Un extracto de los hechos y los dictámenes emitidos;
-
-d) El responsable del accidente de tránsito;
-
-e) El monto de la reparación del daño;
-
-f) La determinación de que el vehículo, en su caso, queda depositado en garantía del afectado, en los términos señalados en este artículo.
-
-5. Ejecución del Laudo:
-
-El laudo arbitral tendrá carácter de cosa juzgada y podrá hacerse efectivo en la vía de apremio prevista en el Código de Procedimientos Civiles del Estado.
-
-El responsable de los daños tendrá un plazo de ocho días para realizar el pago respectivo.
-
-De no realizarse el pago, el interesado tendrá expedito su derecho para promover en la vía de apremio, ante las autoridades judiciales competentes.
-
-6. El Oficial Calificador entregará a los interesados copia certificada del laudo respectivo.
-
-> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
-
-i) Las demás que les atribuyan los ordenamientos municipales aplicables, previo el pago de los derechos correspondientes.
+(DEROGADO, G.G. 22 DE NOVIEMBRE DE 2023)
 
 ###### Artículo 151.
 
-No pueden los oficiales conciliadores y calificadores:
-
-I. Girar órdenes de aprehensión;
-
-II. Imponer sanción alguna que no esté expresamente señalada en el bando municipal;
-
-III. Juzgar asuntos de carácter civil e imponer sanciones de carácter penal;
-
-IV. Ordenar la detención que sea competencia de otras autoridades.
+(DEROGADO, G.G. 22 DE NOVIEMBRE DE 2023)
 
 ###### Artículo 152.
 
-Para el debido cumplimiento de las atribuciones que en este capítulo se previenen, cada ayuntamiento determinará la forma de organización y funcionamiento de las oficialías conciliadoras y calificadoras de su municipio.
-
-> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+(DEROGADO, G.G. 22 DE NOVIEMBRE DE 2023)
 
 ###### Artículo 153.
 
-Las faltas temporales de los oficiales calificadores serán cubiertas por el secretario de la propia oficialía o por el servidor público que el Presidente Municipal designe, quienes estarán habilitados para actuar en nombre del titular, siempre y cuando cumplan los requisitos de Ley.
+(DEROGADO, G.G. 22 DE NOVIEMBRE DE 2023)
 
 ### CAPITULO SEGUNDO. De los Recursos Administrativos
 
@@ -5860,3 +5650,17 @@ PRIMERO.- Publíquese este Decreto en el Periódico Oficial “Gaceta del Gobier
 SEGUNDO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO.- Se derogan todas las disposiciones de menor o igual jerarquía que contravengan lo dispuesto por el presente Decreto.
+
+G.G. 22 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 212.- POR EL QUE SE EXPIDE LA LEY DE JUSTICIA CÍVICA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS; SE REFORMAN LA FRACCIÓN XLI DEL ARTÍCULO 31, EL INCISO A) DE LA FRACCIÓN II DEL ARTÍCULO 57 Y LA DENOMINACIÓN DEL TÍTULO V; SE DEROGA LA FRACCIÓN XL DEL ARTÍCULO 31, LA FRACCIÓN X DEL ARTÍCULO 53, EL CAPÍTULO PRIMERO DEL TÍTULO V Y LOS ARTÍCULOS 148, 149, 150, 151, 152 Y 153 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, Y SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 8.10, EL PÁRRAFO SEGUNDO DE LA FRACCIÓN I Y LA FRACCIÓN III DEL ARTÍCULO 8.16 BIS, EL PÁRRAFO TERCERO DE LA FRACCIÓN II DEL ARTÍCULO 8.18 Y LAS FRACCIONES II Y IV DEL ARTÍCULO 8.19 TER DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese este Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Los Ayuntamientos expedirán el Reglamento de Justicia Cívica Municipal, así como las adecuaciones normativas en sus bandos municipales y reglamentos respectivos, a más tardar dentro de los 180 días naturales posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO.- Los Ayuntamientos deberán dotar a los Juzgados Cívicos de espacios físicos en condiciones de uso, recursos materiales y personal para su eficaz operación.
+
+QUINTO.- La iniciativa propuesta, contemplaba referencias tanto a comunidades indígenas como a personas con discapacidad, sin embargo, se advirtió la omisión de convocar a una consulta previa. El Poder Legislativo podrá presentar una iniciativa complementaria para reformar esta Ley, una vez realizada la consulta a los pueblos originarios del Estado de México, así como a las personas afromexicanas y personas con discapacidad de la entidad.
