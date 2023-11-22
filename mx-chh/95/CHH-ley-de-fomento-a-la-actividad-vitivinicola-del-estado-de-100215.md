@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-fomento-a-la-actividad-vitivinicola-del-estado-de-100215
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-09"
-last_updated: "2021-09-04"
+last_updated: "2023-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE FOMENTO A LA ACTIVIDAD VITIVINÍCOLA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 9 de abril de 2014.
 
@@ -89,11 +89,23 @@ Para los efectos de la presente Ley se entenderá por:
 
 I. Consejo. Consejo Estatal Vitivinícola.
 
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+I BIS. Enoturismo. Tipo de turismo enfocado en las zonas de producción vinícolas, y relacionado con el turismo cultural con carácter histórico del sector.
+
 II. Ley. La Ley de Fomento a la Actividad Vitivinícola del Estado de Chihuahua.
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+II BIS. Programa. Programa Estatal Vitivinícola y Enoturístico.
 
 III. Registro. El Registro Estatal de Vitivinicultores.
 
 IV. Reglamento. El Reglamento de la Ley de Fomento a la Actividad Vitivinícola del Estado de Chihuahua.
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+IV BIS. Ruta del Vino. Corredor, circuito o canal temático, geográfico y comercial en torno a las zonas de cultivo y producción vitivinícola, que ofrece productos, servicios y actividades relacionadas.
 
 V. Secretaría. Secretaría de Desarrollo Rural del Estado de Chihuahua.
 
@@ -131,9 +143,9 @@ VIII. Fomentar, divulgar y promover la inversión nacional y extranjera en las a
 
 IX. Fortalecer la competitividad de los vinos estatales, fomentando el desarrollo de su producción y calidad.
 
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
-X. Promover y fortalecer la Ruta del Vino del Estado.
+X. Promover y fortalecer la Ruta del Vino y el enoturismo en el Estado.
 
 ## TÍTULO SEGUNDO. DEL CONSEJO ESTATAL VITIVINÍCOLA
 
@@ -167,11 +179,39 @@ X. Las demás que establezcan los convenios, programas y acciones en los que par
 
 ### CAPÍTULO II. DE LA INTEGRACIÓN Y ATRIBUCIONES DEL CONSEJO
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 10.
 
-Corresponde a la Secretaría la designación de los integrantes del Consejo, estructura orgánica y su operación, conforme al reglamento que para tal efecto se expida.
+El Consejo Estatal se integra por las personas titulares y representaciones siguientes:
 
-No obstante lo anterior, la Secretaría deberá promover la inclusión en el Consejo de las diferentes instituciones y entes de la administración pública estatal, las asociaciones, consejos, comités y representaciones privadas, bajo los principios de colaboración, coordinación e información interinstitucional.
+I. El Poder Ejecutivo del Estado, quien lo presidirá.
+
+II. La Secretaría General de Gobierno.
+
+III. La Secretaría de Desarrollo Rural, o la representación que designe.
+
+IV. La Secretaría de Innovación y Desarrollo Económico.
+
+V. La Secretaría de Turismo.
+
+VI. La Secretaría de Salud.
+
+VII. La Secretaría de Hacienda.
+
+VIII. La Dirección de Agronegocios de la Secretaría de Desarrollo Rural.
+
+IX. Cuatro representaciones del sector vitivinícola con las siguientes personas:
+
+A. Dos del sector vitivinicultor.
+
+B. Dos del sistema producto vid.
+
+X. Las personas que ocupen la Presidencia de las Comisiones de Turismo y Cultura; y de Economía, Industria y Comercio del H. Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 10 BIS. Las demás situaciones relativas al Consejo, su integración, suplencias, funcionamiento y atribuciones de sus integrantes, se establecerán en el Reglamento.
 
 ###### Artículo 11.
 
@@ -199,9 +239,87 @@ El distintivo de calidad de los vinos será otorgado por el Consejo, y deberá a
 
 Los requisitos y demás especificaciones para la obtención del distintivo de calidad quedarán establecidos en el reglamento de la presente ley.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+## TÍTULO CUARTO
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+### CAPÍTULO ÚNICO. DEL PROGRAMA ESTATAL VITIVINÍCOLA Y ENOTURÍSTICO
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 16.
 
-Para la interpretación y solución de conflictos en la aplicación de la presente Ley, se atenderá al procedimiento establecido para tal efecto en el Código Administrativo del Estado.
+El Programa establecerá los objetivos, metas, estrategias y acciones para el fomento, difusión, supervisión, capacitación, investigación y evaluación de las políticas públicas encaminadas al desarrollo del sector vitivinícola y del enoturismo.
+
+El proyecto del Programa, se elaborará en conjunto por la Secretaría de Turismo y la Secretaría de Desarrollo Rural, con la participación de los municipios, academia, sectores público, social y privado, en los términos de esta Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 17.
+
+El Programa, deberá contener como mínimo, los siguientes rubros:
+
+I. El diagnóstico del sector vitivinícola y enoturístico en el Estado, indicando las áreas de oportunidad y tendencias.
+
+II. La relación con la planeación y programación del desarrollo productivo.
+
+III. La difusión, promoción, fomento, investigación y desarrollo del sector vitivinícola y enoturístico.
+
+IV. La implementación de los mecanismos de coordinación y concertación entre los órdenes de gobierno y el sector privado.
+
+V. La definición de indicadores y mecanismos de evaluación de avances.
+
+VI. La definición de metas, objetivos y acciones para el desarrollo del sector vitivinícola y enoturístico.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+## TÍTULO QUINTO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+### CAPÍTULO ÚNICO. DE LA PROMOCIÓN Y DIFUSIÓN DEL VINO DE CHIHUAHUA
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 18.
+
+El Gobierno del Estado, a través de sus dependencias, fomentará por medio de diversos programas y acciones, la promoción y difusión del vino de Chihuahua, en los términos de los ordenamientos jurídicos nacionales, así como la Ley de Alcoholes del Estado de Chihuahua.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 19.
+
+El Poder Ejecutivo del Estado, podrá financiar campañas de información, difusión y promoción de la actividad vitivinícola y enoturística en el marco de la normativa aplicable, y de acuerdo con el ordenamiento jurídico nacional vigente y en la Ley de Alcoholes del Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 20.
+
+Las campañas de información se deberán regir por las siguientes directrices:
+
+I. Recomendar el consumo moderado y responsable del vino.
+
+II. Fomentar el desarrollo sostenible del cultivo de la vid, favoreciendo el respeto del medio ambiente.
+
+III. Destacar los aspectos históricos, tradicionales y culturales de los vinos chihuahuenses, así como las cualidades y propiedades que les otorgan las condiciones específicas de clima y suelo.
+
+IV. Impulsar el conocimiento de los vinos chihuahuenses en las demás entidades federativas y a nivel internacional, con el objeto de lograr su mayor presencia en sus respectivos mercados.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRAN, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+## TÍTULO SEXTO
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+### CAPÍTULO ÚNICO. DISPOSICIONES FINALES
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO, ANTES ARTÍCULO 16], P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 21.
+
+Para la interpretación y solución de conflictos en la aplicación de la presente Ley, se atenderá al procedimiento establecido para tal efecto en el Código Administrativo del Estado de Chihuahua.
 
 T R A N S I T O R I O
 
@@ -270,3 +388,11 @@ Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpet
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0628/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO A LA ACTIVIDAD VITIVINÍCOLA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
