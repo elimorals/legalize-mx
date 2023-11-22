@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-deporte-y-la-cultura-fisica-para-el-estado-de-12261"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-24"
-last_updated: "2022-12-09"
+last_updated: "2023-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DEL DEPORTE Y LA CULTURA FÍSICA PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 24 de junio de 1998.
 
@@ -58,6 +58,18 @@ II.- Regular la actividad físico-deportiva en el Estado, mediante el establecim
 III.- Determinar criterios para asegurar la congruencia y aplicación entre los programas del deporte, en general, así como la asignación de recursos para dichos fines;
 
 IV.- Definir los principios que garanticen a la población el acceso a la enseñanza y a la práctica del deporte.
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+V.- Fomentar el desarrollo de la activación física, la cultura física y el deporte, como medio importante en la preservación de la salud, prevención de enfermedades, adicciones y el consumo de sustancias psicoactivas; así como en la prevención del delito;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+VI.- Promover las medidas preventivas necesarias para que los deportistas con algún tipo de discapacidad no sean objeto de discriminación alguna; y
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+VII.- Garantizar en materia de cultura física y deporte la igualdad de oportunidades sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil.
 
 ###### Artículo 3.
 
@@ -788,3 +800,11 @@ Artículo Primero. El presente decreto entrará en vigor el día siguiente al de
 Artículo Segundo. Las referencias efectuadas al Instituto de la Juventud y del Deporte, en la Ley del Deporte y la Cultura Física para el Estado de Campeche, se entenderán realizadas al Instituto del Deporte del Estado de Campeche.
 
 Artículo Tercero.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 276 SE ADICIONAN LAS FRACCIONES V, VI Y VII AL ARTÍCULO 2 DE LA LEY DEL DEPORTE Y LA CULTURA FÍSICA PARA EL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
