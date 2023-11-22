@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2023-10-17"
+last_updated: "2023-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -551,9 +551,9 @@ El Sistema Educativo Estatal comprende los tipos Básico, Medio Superior y Super
 
 Los tipos y niveles a que se refiere el presente artículo podrán tener las modalidades siguientes: Escolarizada, Semiescolarizada o Abierta, los tipos técnicos en sus diversas manifestaciones y la forma extraescolar en los siguientes términos:
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
-I. El tipo Básico comprende los niveles de Educación Preescolar, Primaria y Secundaria. La educación inicial no constituye antecedente obligatorio para la educación preescolar;
+I. El tipo Básico comprende los niveles de Educación Inicial, Preescolar, Primaria y Secundaria. La educación inicial no constituye antecedente obligatorio para la educación preescolar, de acuerdo con lo establecido en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos es responsabilidad del Estado, concientizar sobre su importancia.
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -1560,3 +1560,13 @@ P.O. 17 DE OCTUBRE DE 2023.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 277 POR EL QUE “SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 19 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Educación del Estado adoptará las medidas pertinentes para la observancia de lo dispuesto en el presente decreto, de conformidad con la disponibilidad presupuestal del ejercicio fiscal correspondiente.
+
+Tercero.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
