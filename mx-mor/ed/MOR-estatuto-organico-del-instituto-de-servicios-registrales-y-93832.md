@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-instituto-de-servicios-registrales-y-9383
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-04-03"
-last_updated: "2013-08-21"
+last_updated: "2023-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SERVICIOS REGISTRALES Y CATASTRALES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2023.
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 3 de abril de 2013.
 
@@ -41,9 +41,11 @@ ESTATUTO ORGÁNICO DEL INSTITUTO DE SERVICIOS REGISTRALES Y CATASTRALES DEL ESTA
 
 El presente Estatuto Orgánico tiene por objeto determinar la estructura organizacional, atribuciones y funcionamiento de las Unidades Administrativas que integran el Instituto de Servicios Registrales y Catastrales del Estado de Morelos, para el despacho de los asuntos en el ámbito de su competencia y cumplimiento de su objeto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 2.
 
-Para efectos del presente Estatuto, se entenderá por:
+Para efectos del presente estatuto, se entenderá por:
 
 I. Director General: Al Director General del Instituto de Servicios Registrales y Catastrales del Estado de Morelos;
 
@@ -55,19 +57,25 @@ IV. Ley de Catastro: A la Ley de Catastro Municipal para el Estado de Morelos;
 
 V. Estatuto: Al presente Estatuto Orgánico, y
 
-VI. Reglamento: Al Reglamento del Registro Público de la Propiedad y del Comercio del Estado de Morelos.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+VI. Reglamento: al Reglamento de la Ley del Registro Público de la Propiedad y del Comercio del Estado de Morelos.
 
 ### CAPÍTULO II. DE LA NATURALEZA JURÍDICA Y ATRIBUCIONES DEL INSTITUTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 3.
 
-El Instituto es un Organismo Público Descentralizado con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Gobierno, a través del cual el Estado da publicidad a los actos y contratos que de acuerdo con la Ley deben surtir efectos contra terceros y mantiene y actualiza el Sistema de Información Catastral del Estado de Morelos.
+El instituto es un organismo público descentralizado con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Gobierno, a través del cual el estado da publicidad a los actos jurídicos que de acuerdo con la ley deben surtir efectos contra terceros; y mantiene y actualiza el Sistema de Información Catastral del Estado de Morelos.
 
 El Instituto tendrá sus oficinas en la ciudad de Cuernavaca, Morelos; no obstante, cuando las necesidades del servicio lo requieran, podrán establecerse oficinas en otras ciudades de la Entidad por acuerdo Administrativo del titular del Ejecutivo que se publique en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 4.
 
-El Instituto para el cumplimiento de su objeto tendrá las atribuciones siguientes:
+El instituto para el cumplimiento de su objeto tendrá las atribuciones siguientes:
 
 I. Prestar el servicio de dar publicidad a los actos jurídicos que conforme a la Ley, deban surtir efectos contra terceros;
 
@@ -81,7 +89,9 @@ V. Ajustar su desarrollo y operación al Plan Estatal de Desarrollo vigente en e
 
 VI. Organizar, planear, coordinar, mantener y actualizar el Sistema de Información Catastral del Estado de Morelos, y
 
-VII. Mantener y actualizar el portal visualizado de los bienes inmuebles del Estado de Morelos, con la información respectiva del registro público de la propiedad y del catastro, así como de otras instancias relativas a la propiedad inmobiliaria.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+VII. Mantener y actualizar el portal visualizador de los bienes inmuebles del estado de Morelos, con la información respectiva del registro público de las diversas secciones que la ley establece, así como de otras instancias relativas a la propiedad inmobiliaria.
 
 ### CAPÍTULO III. DE LOS ÓRGANOS DE GOBIERNO Y ADMINISTRACIÓN, SU INTEGRACIÓN Y FUNCIONAMIENTO
 
@@ -155,9 +165,11 @@ La Junta de Gobierno sesionará de manera ordinaria por lo menos seis veces en e
 
 La asistencia necesaria para que pueda sesionar con validez legal será de la mitad más uno del total de sus miembros y las decisiones se tomarán por mayoría de votos de los miembros asistentes; en caso de empate, el Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 10.
 
-Para la celebración de las sesiones de la Junta de Gobierno, deberán observarse las disposiciones del Acuerdo que Establece los Lineamientos para la Convocatoria y Desarrollo de las Sesiones Ordinarias o Extraordinarias de los Órganos Colegiados de la Administración Central y de los Organismos Auxiliares que integran el sector Paraestatal del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 4009, de fecha 21 de octubre de 1999.
+Para la celebración de las sesiones de la Junta de Gobierno, deberán observarse las disposiciones del acuerdo por el que se establecen los lineamientos para la celebración de sesiones de los distintos órganos colegiados que actúan y participan en la Administración pública del estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad”, número 5491, segunda sección, en fecha 26 de abril del 2017.
 
 ###### Artículo 11.
 
@@ -173,9 +185,11 @@ IV. Levantar y registrar en el libro correspondiente las actas de las sesiones d
 
 ### CAPÍTULO IV. DE LA ESTRUCTURA ORGANIZACIONAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 12.
 
-Para la realización de sus funciones el Instituto tendrá la siguiente estructura organizacional:
+Para la realización de sus funciones el instituto tendrá la siguiente estructura organizacional:
 
 I. Dirección General;
 
@@ -205,7 +219,7 @@ XII. Subdirección Financiera;
 
 XIII. Área de Inmatriculaciones, y
 
-XIV. El Órgano de Control Interno.
+XIV. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2023)
 
 Así mismo, contará con los Registradores, Certificadores y el personal técnico y administrativo que requiera el servicio, de acuerdo a su organización interna y conforme al Presupuesto de Egresos autorizado.
 
@@ -241,9 +255,11 @@ El Director de Sistemas y Tecnología deberá contar con título y cédula profe
 
 Los servidores públicos no previstos en el presente artículo deberán reunir los requisitos que establezcan los manuales de organización del Instituto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 16.
 
-El Director General tendrá las siguientes facultades y obligaciones:
+El director general tendrá las siguientes facultades y obligaciones:
 
 I. Ser depositario de la fe pública registral, para cuyo ejercicio se auxiliará de los Registradores y Certificadores del Instituto;
 
@@ -253,9 +269,13 @@ III. Elaborar instructivos y circulares que unifiquen criterios jurídicos y pr�
 
 IV. Autorizar con su firma autógrafa o electrónica, las inscripciones, certificaciones, anotaciones y cancelaciones establecidas en la Ley y su Reglamento, previa verificación y firma por parte del registrador respectivo;
 
-V. Firmar las constancias que se pongan en original y duplicado de los testamentos ológrafos que se depositen en la Institución, las razones que se hagan en el libro respectivo y las de retiro de testamento, de acuerdo con las disposiciones relativas del Código Familiar;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
-VI. Resolver los recursos de inconformidad que se presenten en contra de la calificación registral;
+V. Firmar las constancias que se pongan en el original y duplicado de los testamentos ológrafos que se depositen en el Instituto, las razones que se hagan en el libro respectivo y las de retiro del testamento, de acuerdo con las disposiciones relativas del código familiar;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+VI. Resolver los recursos de inconformidad que se presenten en contra de la calificación registral por sí o por conducto del servidor público que designe para tal efecto;
 
 VII. Tramitar y resolver las solicitudes de inmatriculación administrativa, en los términos previstos por la Ley;
 
@@ -287,7 +307,9 @@ XIX. Presentar a la Junta de Gobierno el proyecto de presupuesto de egresos y en
 
 XX. Someter a la aprobación de la Junta de Gobierno el programa anual de actividades;
 
-XXI. Otorgar apoyo a las instituciones federales, estatales y municipales encargadas de ejecutar acciones de regularización de la tenencia de la tierra, determinación de reservas territoriales, definición de límites intermunicipales y estatales, incluyendo servicios de levantamientos topográficos;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+XXI. Otorgar apoyo a las instituciones federales, estatales y municipales encargadas de ejecutar acciones de regularización de la tenencia de la tierra, determinación de reservas territoriales, definición de límites intermunicipales y estatales, incluyendo servicios de levantamientos topográficos, conforme a la ley;
 
 XXII. Practicar avalúos requeridos por la Comisión de Avalúos de Bienes Estatales;
 
@@ -297,13 +319,17 @@ XXIV. Certificar y expedir copias certificadas de los documentos que obren en su
 
 XXV. Las demás que establece el artículo 15 de la Ley de Catastro Municipal para el Estado de Morelos y otras disposiciones legales vigentes.
 
-El Director General podrá delegar en servidores públicos subalternos, por escrito, las atribuciones referidas en las fracciones IV, V, VI y XXIII del presente artículo.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+El director general podrá delegar en servidores públicos subalternos, por escrito, las atribuciones referidas en las fracciones IV, V, VI, XXIII y XXIV del presente artículo.
 
 ###### Artículo 17.
 
 Son atribuciones de la persona titular de la Dirección de Registro:
 
-I. Vigilar que las inscripciones se practiquen con apego a la legalidad, exactitud y a los principios registrales;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+I. Vigilar que las inscripciones se practiquen con apego a la legalidad, exactitud y a los principios registrales, así como velar que cumplan el pago de derechos correspondiente;
 
 II. Autorizar con su firma autógrafa o electrónica las inscripciones de actos jurídicos que se asienten en folios reales electrónicos, cuidando de su legalidad, exactitud y pago de derechos;
 
@@ -317,7 +343,21 @@ VI. Auxiliar al Director General en la resolución de los recursos de inconformi
 
 VII. Auxiliar al Director General en la unificación de criterios jurídicos en la realización de las funciones registrales en su área, y
 
-VIII. Las demás que le asigne el Director General.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+VIII. Coadyuvar con las distintas unidades administrativas del instituto en cumplimiento con las funciones encomendadas por el director general, que versen sobre la calificación, función y servicio registral.
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+IX. Coadyuvar con el director general del instituto en el análisis e inscripción de los contratos privados traslativos de dominio con antecedentes registrales, en los términos previstos por la legislación aplicable; y,
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+X. Resolver de manera fundada y motivada la aceptación o denegación del trámite de inscripción de los contratos privados traslativos de dominio, cuidando de su legalidad y exactitud;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+XI. Las demás que le asigne el director general.
 
 La Subdirección de Control y Gestión; así como el Área de Inmatriculaciones estarán subordinadas jerárquicamente a la Dirección de Registro.
 
@@ -325,7 +365,9 @@ La Subdirección de Control y Gestión; así como el Área de Inmatriculaciones 
 
 Son atribuciones de la persona titular de la Dirección de Certificaciones:
 
-I. Autorizar con su firma autógrafa o electrónica las certificaciones que se expidan, cuidando de su legalidad, exactitud y pago de derechos con el folio real electrónico respectivo;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+I. Autorizar con su firma autógrafa o electrónica las certificaciones que se expidan sobre registros materiales y/o digitales, cuidando de su legalidad, exactitud y pago de derechos con el folio real electrónico respectivo;
 
 II. Fundar y motivar la denegación o suspensión del servicio de certificación;
 
@@ -351,7 +393,9 @@ Son atribuciones de la persona titular de la Dirección de Sistemas y Tecnologí
 
 I. Proponer al Director General el diseño, desarrollo y adquisición de nuevas tecnologías de la información u otros servicios requeridos;
 
-II. Supervisar la operación de los Sistemas de Cómputo Registrales y Catastrales y proponer, en su caso, las adecuaciones o modificaciones que hagan óptima y ágil su operación;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+II. Supervisar la operación de los Sistemas de Cómputo Registrales, notariales y Catastrales y proponer, en su caso, las adecuaciones o modificaciones que hagan óptima y ágil su operación;
 
 III. Administrar las bases de datos del Instituto, proponiendo al Director General la ejecución de modificaciones que sean necesarias;
 
@@ -359,13 +403,21 @@ IV. Realizar en la base de datos Registral las correcciones administrativas que 
 
 V. Mantener actualizados los Manuales de los Sistemas Informáticos del Instituto;
 
-VI. Asegurar de manera mensual el resguardo, custodia y control de los archivos de información Registral y Catastral para mantenerlos en un ambiente de seguridad;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+VI. Asegurar de manera mensual el resguardo, custodia y control de los archivos digitales de información Registral, Notarial y Catastral para mantenerlos en un ambiente de seguridad;
 
 VII. Coordinar el mantenimiento preventivo y correctivo, así como supervisar el uso y buen funcionamiento de los equipos de cómputo instalados;
 
 VIII. Supervisar tecnológicamente la digitalización de los documentos que se hayan inscrito o anotado para posterior consulta en medios magnéticos, y
 
-IX. Las demás que le asigne al Director General.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+IX. Auxiliar en el manejo y contenido de las redes sociales y página web del instituto;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+X. Las demás que le asigne el director general.
 
 ###### Artículo 20.
 
@@ -375,7 +427,9 @@ I. Autorizar con su firma autógrafa o electrónica la anotación o registro de 
 
 II. Realizar la rectificación o corrección de los asientos registrales o anotaciones marginales, previa solicitud de la parte interesada o la autoridad competente, en los términos que disponen la Ley, el Código Civil o de Procesal Civil, otras leyes y el Reglamento;
 
-III. Proveer a los servidores del Instituto, el acervo y asesoría jurídica en materia registral;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+III. Brindar asesoría jurídica en materia registral;
 
 IV. Auxiliar al Director General en la contestación y atención de demandas judiciales y administrativas que se presenten en contra del Instituto, firmando para tal efecto los documentos procesales y administrativos necesarios;
 
@@ -407,7 +461,9 @@ III. Solicitar a las autoridades, Secretarías, Dependencias, Entidades o Instit
 
 IV. Realizar levantamientos topográficos de linderos, curvas de nivel, secciones y de construcción, cuando lo faculten las disposiciones legales aplicables;
 
-V. Elaborar planos de división y fusión de predios, topográficos, de curvas de nivel, por secciones y de construcción;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+V. Elaborar planos topográficos de linderos, curvas de nivel, secciones, construcción, división y fusión de predios;
 
 VI. Practicar avalúos requeridos por la Comisión de Avalúos de Bienes Estatales;
 
@@ -415,13 +471,15 @@ VII. Vincular las bases de datos del Registro Público de la Propiedad y la del 
 
 VIII. Integrar al portal visualizador, toda la información estratégica que generen las demás Dependencias de los gobiernos municipales, estatal y federal, y (sic)
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
-IX. Coordinar un proceso de integración, mantenimiento y actualización de la información de manera metódica, simultánea y armoniosa; así como los procedimientos técnico-administrativos en materia catastral de manera directa con los Municipios a efecto de hacer más eficiente y optimizar la actividad catastral en el Estado.
+IX. Coordinar los procesos de integración, mantenimiento y actualización de la información de manera metódica, simultánea y armoniosa; así como los procedimientos técnico-administrativos en materia catastral de manera directa con los municipios a efecto de hacer más eficiente y optimizar la actividad catastral en el estado.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE AGOSTO DE 2013)</small>
 
 X. Las demás que determinen las disposiciones legales vigentes o le delegue el Director General.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 22 DE NOVIEMBRE DE 2023, PÁGINAS DE LA 54 A LA 55.]</small>
 
 ###### Artículo 22.
 
@@ -435,19 +493,25 @@ III. Administrar el Sistema de Gestión de Calidad conforme a las normas interna
 
 IV. Proponer programas para el desarrollo del personal;
 
-V. Administrar el Sistema de Gestión de Proyectos;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
-VI. Coordinar la práctica de auditorías de calidad;
+V. Administrar la página web oficial y las redes sociales relacionadas al instituto.
 
-VII. Coordinar y dar seguimiento a los acuerdos generados en el Comité de Calidad;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
-VIII. Administrar la página WEB oficial y las redes sociales relacionadas al Instituto;
+VI. Fungir como responsable técnico de mejora regulatoria para elaborar y dar seguimiento al programa anual de mejora regulatoria y propiciar que los responsables de los trámites actualicen periódicamente el Registro Estatal de Trámites y Servicios;
 
-X (sic). Elaborar y dar seguimiento al programa anual de mejora regulatoria;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
-XI. Administrar la Unidad de Información Pública, y
+VII. Administrar y coordinar la unidad de transparencia, recibir y dar trámite a las solicitudes de información, así como supervisar que cada una de las unidades administrativas publique y actualice la información relativa a las obligaciones de transparencia en la Plataforma Nacional de Transparencia;
 
-XII. Las demás que le asigne el Director General.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+VIII. Auxiliar al secretario técnico en la planeación y desarrollo de las sesiones de la Junta de Gobierno del instituto;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+IX. Las demás que le asigne el director general
 
 ###### Artículo 23.
 
@@ -455,45 +519,89 @@ Corresponde a la persona titular de la Dirección Administrativa:
 
 I. Vigilar la correcta aplicación de los Recursos Humanos, Materiales y Financieros del Instituto;
 
-II. Reclutar y seleccionar personal de nuevo ingreso de conformidad a la normatividad administrativa vigente;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
-III. Llevar un registro del personal que labora en el Instituto y en las oficinas registrales, integrando un expediente para cada empleado, en el que consten las altas y bajas y el movimiento del mismo, así como la entrega-recepción correspondiente;
+II. Reclutar al personal de nuevo ingreso de conformidad a la normatividad administrativa vigente;
 
-IV. Tramitar los nombramientos, cambios de adscripción, remoción y bajas de personal del Instituto de conformidad con las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
-V. Definir y controlar los medios y firmas de identificación del personal y registrar la autorización de justificaciones de incidencias del personal;
+III. Llevar un registro del personal que labora en el Instituto integrando un expediente para cada empleado, en el que consten las altas, bajas y reingresos o movimientos del personal;
 
-VI. Vigilar la aplicación de las Condiciones Generales de Trabajo del Instituto;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
-VII. Coordinar y supervisar el programa anual de capacitación;
+IV. Llevar un control de la entrega-recepción de las áreas correspondientes;
 
-VIII. Supervisar la existencia y conservación de los bienes a cargo del Instituto;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
-IX. Proveer a las oficinas de material y útiles necesarios para el desempeño de sus funciones;
+V. Tramitar los nombramientos y movimientos de personal como son: altas, bajas, reingresos y cambios de adscripción de conformidad con las disposiciones jurídicas aplicables;
 
-X. Integrar el programa anual de adquisiciones de mobiliario, equipo de oficina, cómputo y servicios de apoyo, en coordinación con la Unidad Administrativa de la Administración Pública Central competente;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
-XI. Integrar el Programa Anual de Obras para construcción, remodelación y mantenimiento de los bienes inmuebles;
+VI. Definir y controlar los medios y firmas de asistencia del personal y autorizar las justificaciones de incidencias del personal;
 
-XII. Coordinar las sesiones del Subcomité para el Control de las Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
-XIII. Solicitar, a la Dirección Jurídica, la elaboración de los contratos y convenios de las adquisiciones y servicios;
+VII. Vigilar la aplicación de las condiciones generales de trabajo del instituto;
 
-XIV. Supervisar el control de los vehículos propiedad del Instituto, así como proporcionar el servicio y mantenimiento preventivo y correctivo a los mismos;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
-XV. Formular el Programa Operativo Anual y presentarlo al Director General para su aprobación;
+VIII. Coordinar y elaborar el programa anual de capacitación;
 
-XVI. Mantener actualizados los Manuales de Organización, Políticas y Procedimientos, y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
-XVII. Las demás que le asigne el Director General.
+IX. Supervisar la existencia y conservación de los bienes a cargo del Instituto;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+X. Proveer a las unidades administrativas del Instituto de material y útiles necesarios para el desempeño de sus funciones;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+XI. Realizar las gestiones necesarias para la remodelación y mantenimiento de los bienes inmuebles del Instituto.
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+XII. Integrar el Programa Anual de Adquisiciones, Arrendamientos y Servicios en coordinación con la unidad administrativa de la Administración pública central competente;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+XIII. Coordinar las sesiones del Subcomité para el Control de las Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+XIV. Solicitar a la Dirección Jurídica, la elaboración de los contratos y convenios de las adquisiciones y servicios;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+XV. Supervisar el control de los vehículos propiedad del Instituto, así como proporcionar el servicio y mantenimiento preventivo y correctivo a los mismos;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+XVI. Formular los programas presupuestarios y presentarlos al director general para su aprobación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+XVII. Supervisar la elaboración y ejecución del Presupuesto Anual de Ingresos y Egresos;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+XVIII. Mantener actualizados los Manuales de Organización, Políticas y Procedimientos; y,
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+XIX. Las demás que le asigne el director general.
 
 La Subdirección Financiera estará subordinada· jerárquicamente a la Dirección Administrativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 24.
 
-Corresponde al Subdirector de Consulta y Acervo Documental:
+Corresponde a la persona titular de la Subdirección de Consulta y Acervo Documental:
 
-I. Concentrar y custodiar el acervo documental del Instituto;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+I. Concentrar, resguardar y custodiar, evitando el deterioro del acervo documental del instituto;
 
 II. Auxiliar al Director General en el control de cierre de libros de registro;
 
@@ -507,31 +615,45 @@ VI. Implementar las medidas necesarias para la restauración de fojas y libros d
 
 VII. Brindar la consulta digital de tomos y libros y en su caso, autorizar el préstamo de libros para consulta al público;
 
-VIII. En su caso, autorizar y llevar el control de préstamo de libros a las distintas áreas y empleados del Instituto;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
-IX. Proporcionar al Director de Certificaciones la expedición de los documentos que se soliciten para copia certificada, y
+VIII. En su caso, autorizar y llevar el control de préstamo de libros a las unidades administrativas del instituto;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+IX. Proporcionar al director de certificaciones los documentos, datos de registro, así como los folios que solicite para su certificación; y,
 
 X. Las demás que le delegue el Director General o el titular del área de su adscripción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 25.
 
-Corresponde al Subdirector de Control y Gestión:
+Corresponde a la persona titular de la Subdirección de Control y Gestión:
 
 I. Recibir los instrumentos, órdenes judiciales o administrativas que deban ser inscritas o anotadas; así como todas las solicitudes de servicios registrales, verificando que se realicen con el pago de derechos respectivo;
 
-II. Turnar por lista diariamente los documentos a cada una de las áreas para su registro, certificación o anotación;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
-III. Realizar la entrega de los documentos inscritos, anotados o certificados al público usuario;
+II. Turnar por lista diariamente los documentos a cada una de las unidades administrativas para su registro, certificación o anotación;
 
-IV. Llevar el control estadístico de las operaciones inscritas o anotadas en el Instituto;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+III. Realizar la entrega de los documentos inscritos, anotados o certificados al público usuario, una vez llevado a cabo por la unidad administrativa competente;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+IV. Llevar el control estadístico de las solicitudes ingresadas en el instituto;
 
 V. Coordinar la formación de folio real electrónico en aquellos casos en que aún no se haya migrado una inscripción, y
 
 VI. Las demás que le delegue el Director General o el titular del área de su adscripción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 26.
 
-Al Subdirector del Archivo General de Notarías le corresponde:
+Corresponde a la persona titular de la Subdirección del Archivo General de Notarías:
 
 I. Llevar un libro general de registro de Notarías;
 
@@ -553,7 +675,9 @@ IX. Expedir testimonios, copias certificadas de las escrituras contenidas en los
 
 X. Requerir a los Notarios Públicos el archivo digital de los índices que se generen con motivo de la autorización de escrituras o actas otorgadas ante su fe, y
 
-XI. Las demás que sean propias y naturales del cargo y que este Reglamento u otros ordenamientos le impongan.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+XI. Las demás que sean propias y naturales del cargo y que este estatuto u otros ordenamientos le impongan, además de las que sean asignadas por el director general.
 
 ###### Artículo 27.
 
@@ -575,11 +699,21 @@ VII. Realizar las afectaciones presupuestales, ampliaciones y transferencias par
 
 VIII. Revisar los documentos comprobatorios que presenten la Dirección General o Direcciones de área para amparar las erogaciones realizadas, y
 
-IX. Las demás que le delegue el Director Administrativo o Director General.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+IX. Dar cumplimiento a la normatividad que emita el Consejo Nacional de Armonización Contable en materia de Contabilidad Gubernamental.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+X. Las demás que le delegue el director administrativo o director general.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 22 DE NOVIEMBRE DE 2023, PÁGINA 56.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 28.
 
-A la persona titular del Área de Inmatriculaciones, le corresponde:
+A la persona titular del área de inmatriculaciones, le corresponde:
 
 I. Analizar y emitir las solicitudes de Certificado de Inexistencia de Registro, previstos en la Ley;
 
@@ -587,17 +721,21 @@ II. Coadyuvar con el Director General del Instituto en el análisis y resolució
 
 III. Resolver de manera fundada y motivada la aceptación o denegación del trámite de inmatriculación administrativa, cuidando de su legalidad y exactitud;
 
-IV. Coadyuvar con el Director General del Instituto en el análisis e inscripción de los contratos privados traslativos de dominio con antecedentes registrales, en los términos previstos por la legislación aplicable;
+> <small>(REFORMADA [N. DE E. REPUBLICADA ANTES FRACCIÓN VI], P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
-V. Resolver de manera fundada y motivada la aceptación o denegación del trámite de inscripción de los contratos privados traslativos de dominio, cuidando de su legalidad y exactitud;
+IV. Llevar a cabo las diligencias e inspecciones necesarias para corroborar la información presentada por el usuario en los casos de inmatriculaciones administrativas;
 
-VI. Llevar a cabo las diligencias e inspecciones necesarias para corroborar la información presentada por el usuario en los casos de inmatriculaciones administrativas;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
-VII. Proporcionar asistencia técnica a funcionarios y empleados del Instituto en la materia de su competencia;
+V. Proporcionar asistencia técnica a funcionarios y empleados del instituto, en la materia de su competencia;
 
-VIII. Auxiliar al Director General en la unificación de criterios jurídicos en la realización de las funciones registrales en su área, y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
-IX. Las demás que le asigne el Director General del Instituto o el titular del área de su adscripción.
+VI. Auxiliar al director general en la unificación de criterios jurídicos en la realización de las funciones registrales en su área; y,
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+VII. Las demás que le asigne el director general del instituto o el titular del área de su adscripción.
 
 ###### Artículo 29.
 
@@ -615,41 +753,41 @@ V. Las demás que les asignen el Director General o el titular del área de su a
 
 ### CAPÍTULO VI. DEL ÓRGANO DE VIGILANCIA
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 30.
 
-El órgano de vigilancia del Instituto estará integrado por un Comisario Público y un suplente, designados por la Secretaría de la Contraloría del Estado.
+El órgano de vigilancia del Instituto será denominado órgano interno de control, y estará integrado por un comisario público y un suplente, designados por la Secretaría de la Contraloría del Estado.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 31.
 
-Corresponde al Comisario:
-
-I. Evaluar la actividad general y por funciones del Instituto;
-
-II. Realizar estudios sobre la eficiencia con la cual se ejercen los desembolsos sobre los rubros de gastos corrientes y de inversión, así como lo referente a los ingresos;
-
-III. Presentar al Director General y a la Junta de Gobierno los informes financieros que resulten de las revisiones, auditorias, análisis y evaluaciones que realicen;
-
-IV. Acudir a las sesiones de la Junta de Gobierno con voz pero sin voto;
-
-V. Solicitar información y ejecutar los actos que exija el cumplimiento adecuado de sus funciones, sin perjuicio de las tareas específicas que le ordene la Secretaría de la Contraloría del Estado, y
-
-VI. Las demás que le confieran otras disposiciones jurídicas aplicables.
+El órgano interno de control del instituto, dependerá directamente de la Secretaría de la Contraloría del Estado de Morelos tal y como lo establece el artículo 65 de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos; cuenta con las obligaciones y facultades que expresamente señale para tal efecto el Reglamento Interior de la Secretaría de la Contraloría.
 
 ###### Artículo 32.
 
-El titular de la Comisaría contará con los auditores y personal necesario, para el ejercicio de sus atribuciones según la disposición presupuestaria al efecto.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2023)
 
 ### CAPÍTULO VII. ÓRGANOS DE APOYO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 33.
 
-Para su funcionamiento y desarrollo, el Instituto contará con los Órganos de Apoyo siguientes:
+Para su funcionamiento y desarrollo, el Instituto contará con los órganos de apoyo siguientes:
 
 I. Comité de Calidad;
 
-II. Consejo de Información Pública, y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+II. Comité de transparencia;
 
 III. Subcomité para el Control de las Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios.
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+IV. Comité de ética.
 
 ###### Artículo 34.
 
@@ -732,3 +870,15 @@ P.O. 21 DE AGOSTO DE 2013.
 PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se oponga al presente Decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE SERVICIOS RESGISTRALES Y CATASTRALES DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Publíquese en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado.
+
+SEGUNDA. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+TERCERA. Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este acuerdo.
+
+CUARTA. Se otorga un término de ciento ochenta días hábiles para la modificación de los Manuales de Organización, y de Políticas y Procedimientos respectivos.
