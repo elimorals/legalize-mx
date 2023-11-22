@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2023-11-03"
+last_updated: "2023-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE NOVIEMBRE DE 2023.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -8293,7 +8293,9 @@ III. Ordenar medidas de seguridad para prevenir daños con motivo de la circulac
 
 IV. Implementar y ejecutar medidas y programas permanentes, con fines de prevención de accidentes en materia vial para salvaguardar la integridad física y bienes de los conductores, sus familias y de la comunidad en general en términos de las disposiciones del Libro Segundo y de este Libro.
 
-Las autoridades deberán presentar a los conductores ante el Oficial Calificador respectivo, cuando los hechos constituyan una falta administrativa; y al Ministerio Público, cuando el hecho sea constitutivo de delito, según corresponda.
+> <small>(REFORMADO, G.G. 22 DE NOVIEMBRE DE 2023)</small>
+
+Las autoridades deberán presentar a los conductores ante la o el Juez Cívico respectivo, cuando los hechos constituyan una falta administrativa; y al Ministerio Público, cuando el hecho sea constitutivo de delito, según corresponda.
 
 Una vez expedidos los programas a que se refiere esta fracción, por las autoridades correspondientes, deberán ser publicados en el Periódico Oficial "Gaceta del Gobierno", en los medios oficiales de los municipios y en un diario de mayor circulación en esta Entidad Federativa.
 
@@ -8441,11 +8443,15 @@ l) Obstruir los accesos y estacionarse en los espacios exclusivos para discapaci
 
 I. Conducir vehículos automotores por la vía pública, sin tener una cantidad de alcohol en la sangre superior a 0.8 gramos por litro, o de alcohol, en aire espirado superior a 0.4 miligramos por litro.
 
-Si se trata de vehículos destinados al servicio de transporte de pasajeros o de transporte de carga o mixto, sus conductores no deben presentar ninguna cantidad de alcohol en la sangre o en aire espirado, o síntomas simples de aliento alcohólico, ni deben presentar síntomas simples de estar bajo el influjo de enervantes, estupefacientes o sustancias psicotrópicas o tóxicas; en caso de presentarlos, el conductor será remitido al Oficial Calificador correspondiente; si el médico de dicha Oficialía, determina el consumo de alcohol y/o las sustancias referidas, sin perjuicio de las sanciones que procedan, se dará aviso inmediato a la autoridad correspondiente, para que proceda a la cancelación de la licencia de conducir en los términos de la Ley;
+> <small>(REFORMADO, G.G. 22 DE NOVIEMBRE DE 2023)</small>
+
+Si se trata de vehículos destinados al servicio de transporte de pasajeros o de transporte de carga o mixto, sus conductores no deben presentar ninguna cantidad de alcohol en la sangre o en aire espirado, o síntomas simples de aliento alcohólico, ni deben presentar síntomas simples de estar bajo el influjo de enervantes, estupefacientes o sustancias psicotrópicas o tóxicas; en caso de presentarlos, el conductor será remitido a la o el Juez Cívico correspondiente; si el médico del Juzgado Cívico Municipal, determina el consumo de alcohol y/o las sustancias referidas, sin perjuicio de las sanciones que procedan, se dará aviso inmediato a la autoridad correspondiente, para que proceda a la cancelación de la licencia de conducir en los términos de la Ley;
 
 II. Detener la marcha de su vehículo cuando la autoridad establezca y lleve a cabo operativos o programas de control y preventivos de ingestión de alcohol u otras substancias tóxicas para conductores de vehículos; y
 
-III. Someterse a las pruebas para la detección del grado de intoxicación que determine este Libro, a través del médico adscrito a la Oficialía Calificadora ante el cual sean presentados, cuando muestren síntomas de que conducen en estado de ebriedad o bajo el influjo de enervantes, estupefacientes o sustancias psicotrópicas o tóxicas.
+> <small>(REFORMADA, G.G. 22 DE NOVIEMBRE DE 2023)</small>
+
+III. Someterse a las pruebas para la detección del grado de intoxicación que determine este Libro, a través del médico adscrito al Juzgado Cívico Municipal ante el cual sean presentados, cuando muestren síntomas de que conducen en estado de ebriedad o bajo el influjo de enervantes, estupefacientes o sustancias psicotrópicas o tóxicas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -8555,7 +8561,9 @@ II. Con arresto administrativo inconmutable de 12 a 36 horas al conductor que co
 
 En caso de reincidencia, el conductor, deberá inscribirse en alguno de los programas de rehabilitación para personas alcohólicas en las instituciones que el Gobierno del Estado o los municipios tiene convenio.
 
-El Oficial Calificador, será la autoridad encargada para determinar la temporalidad del arresto, de acuerdo a la concentración de alcohol que reporten los elementos medico-científicos y cuando viajen menores de doce años;
+> <small>(REFORMADO, G.G. 22 DE NOVIEMBRE DE 2023)</small>
+
+La o el Juez Cívico Municipal, será la autoridad encargada para determinar la temporalidad del arresto, de acuerdo a la concentración de alcohol que reporten los elementos médico-científicos y cuando viajen menores de doce años;
 
 III. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
@@ -8617,11 +8625,15 @@ II. Vialidad: serán aquellos responsables de vigilar que en el tránsito de veh
 
 I. Detener la marcha de un vehículo, cuando la autoridad correspondiente establezca y lleve a cabo operativos o programas de control y preventivos de ingestión de alcohol u otras substancias tóxicas para conductores de vehículos;
 
-II. Someter a los conductores a las pruebas para la detección del grado de intoxicación, a través de los médicos adscritos a la Oficialía Calificadora, con aparatos médico-científicos de detección de alcohol y otras substancias tóxicas que establezca este Libro;
+> <small>(REFORMADA, G.G. 22 DE NOVIEMBRE DE 2023)</small>
+
+II. Someter a los conductores a las pruebas para la detección del grado de intoxicación, a través de los médicos adscritos al Juzgado Municipal respectivo, con aparatos médico-científicos de detección de alcohol y otras substancias tóxicas que establezca este Libro;
 
 III. Entregar un ejemplar del comprobante de los resultados de la prueba al conductor, inmediato a su realización;
 
-IV. Presentar de inmediato, ante el Oficial Calificador correspondiente, al conductor que presente una cantidad de alcohol en la sangre superior a 0.8 gramos por litro, o de alcohol en aire espirado superior a 0.4 miligramos por litro. Así como, a entregar un ejemplar del comprobante de los resultados de la prueba al Oficial Calificador, documento que constituirá prueba fehaciente de la cantidad de alcohol u otra sustancia tóxica encontrada y servirá de base para el dictamen del Médico adscrito a la Oficialía Calificadora que determine el tiempo probable de recuperación;
+> <small>(REFORMADA, G.G. 22 DE NOVIEMBRE DE 2023)</small>
+
+IV. Presentar de inmediato, ante la o el Juez Cívico correspondiente, al conductor que presente una cantidad de alcohol en la sangre superior a 0.8 gramos por litro, o de alcohol en aire espirado superior a 0.4 miligramos por litro. Así como, a entregar un ejemplar del comprobante de los resultados de la prueba a la o el Juez Cívico, documento que constituirá prueba fehaciente de la cantidad de alcohol u otra sustancia tóxica encontrada y servirá de base para el dictamen del Médico adscrito al Juzgado Cívico Municipal que determine el tiempo probable de recuperación;
 
 > <small>(REFORMADA, G.G. 13 DE MAYO DE 2015)</small>
 
@@ -18994,3 +19006,17 @@ G.G. 3 DE NOVIEMBRE DE 2023.
 PRIMERO. Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 212.- POR EL QUE SE EXPIDE LA LEY DE JUSTICIA CÍVICA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS; SE REFORMAN LA FRACCIÓN XLI DEL ARTÍCULO 31, EL INCISO A) DE LA FRACCIÓN II DEL ARTÍCULO 57 Y LA DENOMINACIÓN DEL TÍTULO V; SE DEROGA LA FRACCIÓN XL DEL ARTÍCULO 31, LA FRACCIÓN X DEL ARTÍCULO 53, EL CAPÍTULO PRIMERO DEL TÍTULO V Y LOS ARTÍCULOS 148, 149, 150, 151, 152 Y 153 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, Y SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 8.10, EL PÁRRAFO SEGUNDO DE LA FRACCIÓN I Y LA FRACCIÓN III DEL ARTÍCULO 8.16 BIS, EL PÁRRAFO TERCERO DE LA FRACCIÓN II DEL ARTÍCULO 8.18 Y LAS FRACCIONES II Y IV DEL ARTÍCULO 8.19 TER DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese este Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Los Ayuntamientos expedirán el Reglamento de Justicia Cívica Municipal, así como las adecuaciones normativas en sus bandos municipales y reglamentos respectivos, a más tardar dentro de los 180 días naturales posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO.- Los Ayuntamientos deberán dotar a los Juzgados Cívicos de espacios físicos en condiciones de uso, recursos materiales y personal para su eficaz operación.
+
+QUINTO.- La iniciativa propuesta, contemplaba referencias tanto a comunidades indígenas como a personas con discapacidad, sin embargo, se advirtió la omisión de convocar a una consulta previa. El Poder Legislativo podrá presentar una iniciativa complementaria para reformar esta Ley, una vez realizada la consulta a los pueblos originarios del Estado de México, así como a las personas afromexicanas y personas con discapacidad de la entidad.
