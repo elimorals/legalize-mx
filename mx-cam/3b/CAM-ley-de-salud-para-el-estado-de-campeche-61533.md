@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2023-10-31"
+last_updated: "2023-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -109,7 +109,9 @@ j) Centros de reinserción social y de tratamiento a farmacodependientes con fin
 
 k) Unidades de prevención y tratamiento en materia de justicia para adolescentes;
 
-l) Baños y albercas públicas;
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+l) Baños, baños familiares y albercas públicas;
 
 m) Centros de reunión y espectáculos;
 
@@ -623,9 +625,17 @@ Las autoridades sanitarias, educativas y laborales del Estado, en sus respectivo
 
 I. Los programas para padres destinados a promover la atención materno-infantil;
 
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+I Bis. La paternidad activa y responsable para el cuidado de la salud, desarrollo y bienestar de las niñas y niños;
+
 II. Las actividades recreativas, de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
 III. Las acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excretas;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+III Bis. La instalación de baños familiares en los espacios de uso público;
 
 IV. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas; y
 
@@ -1893,6 +1903,10 @@ XIII. Centros de Internación: Los inmuebles destinados al tratamiento de menore
 
 XIV. Baños y albercas públicas: Los establecimientos destinados a utilizar el agua para el aseo corporal, deporte o uso medicinal a los que puede concurrir el público, quedando incluidos en esta denominación los llamados de vapor y aire caliente, así como los destinados para la natación, recreación familiar, personal o deportiva;
 
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+XIV Bis. Baños familiares públicos: Recintos diseñados para ser utilizados por personas con discapacidad, niñas y niños, o aquellas con alguna condición o necesidad que requieran la ayuda y apoyo de la madre, padre o persona que lo tenga bajo su cuidado; los cuales podrán contar con cambiadores de pañales físicamente seguros e higiénicos para bebés;
+
 XV. Centros de reunión: Las instalaciones destinadas al agrupamiento de personas con fines recreativos, sociales, deportivos, culturales y los gimnasios destinados al fisicoculturismo y ejercicios aeróbicos realizados en sitios cubiertos o descubiertos u otros de esta misma índole;
 
 XVI. Espectáculos públicos: Las representaciones teatrales, las audiciones musicales, las exhibiciones cinematográficas, las funciones de variedades, los espectáculos con animales, carreras de automóviles, motocicletas, bicicletas u otros vehículos, las exhibiciones aeronáuticas, los circos, los frontones, los juegos de pelota, las luchas y en general, todos aquellos en los que el público paga el derecho por entrar y a los que acude con el objeto de distraerse;
@@ -1911,9 +1925,11 @@ XXII. Venta de alimentos en la vía pública: Actividad que se realiza en calles
 
 XXIII. Establecimientos industriales, comerciales y de prestación de servicios: Aquellas edificaciones en las que se realiza la extracción, conservación, procesamiento, maquila y transformación de materias primas, acabado de productos y elaboración de satisfactores; aquellas en donde se efectúan actividades lucrativas consistentes en la intermediación directa o indirecta entre productores y consumidores de bienes; así como las edificaciones o instalaciones en general, en las que se ofrezcan y comercien servicios de cualquier tipo;
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 187.
 
-Todas las medidas sanitarias que deben guardarse en relación con mercados y centros de abasto, construcciones, cementerios o panteones, osarios y crematorios, funerarias, limpieza pública, rastros, centros de enseñanza, establos, caballerizas y establecimientos similares, centros de internación, baños y albercas públicas, centros de reunión, espectáculos públicos, peluquerías, salones de belleza y masaje, estéticas y similares, establecimientos de hospedaje, transporte urbano y suburbano, lavanderías y tintorerías, hospitales, sanatorios y establecimientos similares y establecimientos industriales, comerciales y de prestación de servicios se ajustarán a las disposiciones contenidas en los reglamentos correspondientes que al efecto se expidan.
+Todas las medidas sanitarias que deben guardarse en relación con mercados y centros de abasto, construcciones, cementerios o panteones, osarios y crematorios, funerarias, limpieza pública, rastros, centros de enseñanza, establos, caballerizas y establecimientos similares, centros de internación, baños y albercas públicas, baños familiares públicos; centros de reunión, espectáculos públicos, peluquerías, salones de belleza y masaje, estéticas y similares, establecimientos de hospedaje, transporte urbano y suburbano, lavanderías y tintorerías, hospitales, sanatorios y establecimientos similares y establecimientos industriales, comerciales y de prestación de servicios se ajustarán a las disposiciones contenidas en los reglamentos correspondientes que al efecto se expidan.
 
 ###### Artículo 188.
 
@@ -2738,3 +2754,11 @@ P.O. 31 DE OCTUBRE DE 2023.
 Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones legales y reglamentarias del marco normativo local en lo que se opongan al presente decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 275 POR EL QUE "SE REFORMA EL INCISO L) DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN I DEL ARTÍCULO 2 Y EL ARTÍCULO 187 Y, SE ADICIONAN LAS FRACCIONES I BIS Y III BIS AL ARTÍCULO 62 Y LA FRACCIÓN XIV BIS AL ARTÍCULO 186 DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
