@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-etica-del-instituto-electoral-del-estado-de-134342"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-03-08"
-last_updated: "2022-06-15"
+last_updated: "2023-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE JUNIO DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2023.
 
 Código publicado en la Segunda Parte del Número 49 del Periódico Oficial del Estado de Guanajuato, el viernes 8 de marzo de 2019.
 
@@ -131,23 +129,27 @@ Actividades
 
 El Instituto realiza las actividades relativas al desarrollo de la democracia y la cultura política, derecho y acceso a las prerrogativas de los candidatos y partidos políticos, educación cívica, preparación de la jornada electoral, impresión de documentos y la producción de materiales electorales, escrutinios y cómputos, declaración de validez y expedición de constancias de mayoría en las elecciones locales, resultados preliminares, verificación de cumplimiento de normas que rigen la realización de encuestas o sondeos de opinión, garantizar el derecho a la observación electoral, conteo rápido, ejercicio de la oficialía electoral y mecanismos de participación ciudadana, así como las que le delegue el Instituto Nacional Electoral, y todas aquellas que se encuentren previstas en la Ley de Instituciones y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
 Misión y Visión
 
 ###### Artículo 6.
 
 El Instituto tiene la Misión y Visión siguientes:
 
-a) Misión. Garantizar la integración y renovación democrática, periódica y pacífica de los poderes ejecutivo y legislativo, así como de los ayuntamientos, mediante la organización de procesos del Instituto, la implementación de los mecanismos de participación ciudadana y la formación de la ciudadanía en el estado de Guanajuato.
+a) Misión: Fortalecer la democracia en el estado de Guanajuato, a través de la organización de elecciones confiables y el fomento de la cultura cívica continua e incluyente, con el fin de que la ciudadanía se involucre activa y conscientemente, tanto en el proceso electoral como en los instrumentos de participación ciudadana.
 
-b) Visión. Consolidarse como una institución confiable, profesional e incluyente, que contribuye efectivamente en el desarrollo de la vida democrática en nuestro Estado. (1)
+b) Visión: Ser un instituto electoral que se identifique por su profesionalismo y eficacia en la organización de los procesos electorales; por la difusión de información veraz, oportuna y accesible en materia electoral y de derechos políticos electorales, así como por sus acciones afirmativas en favor de la representación de mujeres y grupos vulnerables; y con una vocación formativa para la ciudadanía en aras de incrementar la calidad de la participación ciudadana y de la democracia guanajuatense.
 
-(1) Instituto Electoral del Estado de Guanajuato, (S.F.). Filosofía Institucional del Instituto Electoral del Estado de Guanajuato. Recuperado de https://ieeg.mx/estructura-institucional/
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
-Objetivos y atribuciones
+Objetivo general
 
 ###### Artículo 7.
 
-Los objetivos y atribuciones del Instituto se encuentran regulados por lo dispuesto en la Constitución General, Constitución Local y en la Ley de Instituciones.
+Es objetivo general del Instituto organizar elecciones confiables e incrementar el nivel de la cultura cívica, desde una perspectiva incluyente y de derechos políticos - electorales, con el fin de fortalecer la calidad de la participación ciudadana guanajuatense.
+
+Lo anterior, en concordancia con las atribuciones y funciones contempladas en la Constitución General, Ley General de Instituciones y Procedimientos Electorales, Constitución Política para el Estado de Guanajuato, Ley de Instituciones y demás disposiciones jurídicas a que se encuentra sujeto.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
@@ -668,3 +670,13 @@ Primero La reforma al presente Código entrará en vigor a partir del día sigui
 Segundo. Comuníquese al Consejo General del Instituto Electoral del Estado de Guanajuato, para su conocimiento.
 
 Tercero. Publíquese en el Periódico Oficial del Estado de Guanajuato, el portal electrónico del Instituto Electoral del Estado de Guanajuato.
+
+P.O. 22 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO OIC-001-2023 EMITIDO POR EL ÓRGANO INTERNO DE CONTROL MEDIANTE EL CUAL SE REALIZA REFORMA AL CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Remítase el presente acuerdo para su conocimiento al Consejo General del Instituto.
+
+Artículo Tercero. Publíquese en el Periódico Oficial del Gobierno del Estado de Guanajuato, así como en la página oficial del Instituto Electoral del Estado de Guanajuato.
