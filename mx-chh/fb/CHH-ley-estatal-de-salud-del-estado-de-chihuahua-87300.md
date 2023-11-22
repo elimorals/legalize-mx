@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2023-11-15"
+last_updated: "2023-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -2143,7 +2143,9 @@ D) De Ludopatía:
 
 I. Prevención y tratamiento de la ludopatía y, en su caso, la rehabilitación de los adictos.
 
-II. Educación sobre los efectos de la ludopatía en la salud y en las relaciones sociales.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+
+II. Educación sobre la forma de reconocer los síntomas de la ludopatía, sus efectos en la salud y en las relaciones sociales, así como las medidas oportunas para su prevención y tratamiento.
 
 III. Fomento de actividades cívicas, deportivas y culturales, que coadyuven en la prevención de la ludopatía, en los grupos de población considerados de alto riesgo.
 
@@ -4106,5 +4108,13 @@ P.O. 15 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0622/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0625/2023 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 202 DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
