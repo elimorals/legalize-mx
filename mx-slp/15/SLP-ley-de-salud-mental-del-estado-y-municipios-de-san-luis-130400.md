@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-mental-del-estado-y-municipios-de-san-luis-130400"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-30"
-last_updated: "2023-06-07"
+last_updated: "2023-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD MENTAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de agosto de 2018.
 
@@ -55,7 +55,9 @@ La presente Ley es de orden público, interés social y observancia general en e
 
 La presente Ley tiene por objeto:
 
-I. Establecer las bases para que los habitantes del Estado de San Luis Potosí tengan acceso a los servicios de salud mental, bajo un enfoque de perspectiva de género y de respeto a sus derechos humanos, y
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+I. Establecer las bases para que toda persona en el Estado de San Luis Potosí tengan acceso a los servicios de salud mental, bajo un enfoque de perspectiva de género y de respeto a sus derechos humanos, y
 
 II. Establecer los métodos para tratar la salud mental, homologando criterios de operación de calidad, con los siguientes enfoques:
 
@@ -448,3 +450,11 @@ P.O. 7 DE JUNIO DE 2023.
 PRIMERO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0872.- SE REFORMA EL ARTÍCULO 2° EN SU FRACCIÓN I, DE LA LEY DE SALUD MENTAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
