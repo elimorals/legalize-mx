@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-deuda-publica-del-estado-y-municipios-de-san-luis-116847
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-06"
-last_updated: "2023-09-01"
+last_updated: "2023-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el jueves 6 de octubre de 2016.
 
@@ -565,7 +565,7 @@ b) El plazo de pago.
 
 c) El destino específico, desglosado por obra o acción.
 
-d) La o las instituciones financieras con las que se pretende contratar.
+d) (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2023)
 
 e) La fuente de pago y de garantía.
 
@@ -593,9 +593,9 @@ c) La Ley de Ingresos, y el Presupuesto de Egresos del ayuntamiento, entidad mun
 
 d) Los proyectos de las obras o acciones a realizar con los recursos que se obtengan del empréstito, financiamiento y emisión de valores.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
 
-e) Opinión emitida por el titular del Instituto de Fiscalización Superior del Estado, del estado financiero, deuda pública y obligaciones de pago.
+e) Opiniones emitidas en primer término por el titular de la Secretaría de Finanzas del Gobierno del Estado, con relación a sus obligaciones de pago y deuda pública inscritas en el Registro Estatal; así como su clasificación en el sistema de alertas de la Secretaría de Hacienda y Crédito Público, y en segundo término por el titular del Instituto de Fiscalización Superior del Estado; sobre el estado financiero y de los resultados de cuenta pública.
 
 Los requisitos a que se refiere este artículo deberán cumplirse, en lo conducente, para la autorización del Congreso, en el otorgamiento de avales o garantías que pretendan otorgar los municipios.
 
@@ -1100,3 +1100,11 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0873.- SE REFORMA EL ARTÍCULO 21 EN SU INCISO E) DE LA FRACCIÓN IV; Y DEROGA AL ARTÍCULO 21 SU INCISO D) DE LA FRACCIÓN I, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
