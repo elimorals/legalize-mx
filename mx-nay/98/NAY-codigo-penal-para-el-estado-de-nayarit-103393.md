@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2023-05-31"
+last_updated: "2023-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2023.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -994,6 +994,10 @@ La responsabilidad civil será la misma en el delito culposo que en el intencion
 ###### ARTÍCULO 100.
 
 Al responsable de tentativa se le aplicará de tres meses hasta las tres cuartas partes del máximo de la sanción señalada en la ley al delito que el agente pretendió realizar.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+Cuando se trate de tentativa del delito de feminicidio, homicidio, violación o violación equiparada, la punibilidad aplicable, será de entre la mitad de la mínima y tres cuartas partes de la máxima correspondiente al delito doloso que el agente quiso realizar.
 
 Para imponer la sanción de la tentativa, los jueces valorarán la culpabilidad del autor y el grado a que se hubiere llegado en la ejecución del delito.
 
@@ -2833,11 +2837,11 @@ No se procederá contra el estuprador, sino por queja de persona ofendida o de s
 
 ### CAPÍTULO III. VIOLACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 293.
 
-Se sancionará con prisión de seis a veinte años y multa de cien a trescientos días, a quien por medio de la violencia física o moral tenga cópula con una persona cualquiera que sea su sexo.
+Se sancionará con prisión de diez a veinte años y multa de cien a trescientos días, a quien por medio de la violencia física o moral tenga cópula con una persona cualquiera que sea su sexo.
 
 Se entiende por cópula la introducción total o parcial del miembro viril en el cuerpo de la víctima, ya sea por vía anal, oral o vaginal.
 
@@ -2849,11 +2853,11 @@ El tratamiento psicológico al que se refiere el párrafo anterior, deberá prop
 
 En caso de que el sujeto activo abandone el tratamiento, quedará sin efecto el perdón y por tanto continuará el proceso en sus etapas correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 294.
 
-Se sancionará con prisión de diez a treinta años y multa de cien a trescientos días, cuando la violación se cometa en los siguientes casos:
+Se sancionará con prisión de diecisiete a treinta años y multa de ciento cincuenta a trescientos días, cuando la violación se cometa en los siguientes casos:
 
 I. La violación de un ascendiente a su descendiente, o de éste a aquél, sin importar el grado u origen del parentesco;
 
@@ -4994,5 +4998,11 @@ P.O. 5 DE ABRIL DE 2023.
 P.O. 31 DE MAYO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DEL DELITO DE USURPACIÓN DE IDENTIDAD”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 23 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE LA TENTATIVA DE LOS DELITOS DE FEMINICIDIO, HOMICIDIO Y VIOLACIÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
