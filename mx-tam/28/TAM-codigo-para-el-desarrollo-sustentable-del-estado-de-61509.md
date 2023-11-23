@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2023-10-25"
+last_updated: "2023-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
@@ -1183,9 +1183,27 @@ XXIII. Participar en la prevención y control de emergencias y contingencias amb
 
 XXIV. Atender los asuntos que afecten el equilibrio ecológico del Municipio y, en su caso, con otro u otros, con la participación que corresponde al Estado;
 
-XXV. Expedir los reglamentos municipales y disposiciones administrativas para el cumplimiento de este Código; y
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
 
-XXVI. Las demás que le señalen las leyes, reglamentos y otras disposiciones aplicables.
+XXV. Expedir los reglamentos municipales y disposiciones administrativas para el cumplimiento de este Código;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+XXVI. En coordinación con la Secretaría, crear Jardines para Polinizadores dentro de su demarcación territorial administrados en el ámbito de su competencia, así como promover su creación en los ámbitos público, privado y social, a fin de contribuir a la conservación de la biodiversidad y la resiliencia de los ecosistemas;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+XXVII. Diseñar e implementar programas, acciones, talleres y cursos de educación ambiental dentro de su demarcación territorial, dirigidos a la ciudadanía para concientizar y resignificar a los polinizadores y su importancia para la sostenibilidad de los ecosistemas;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+XXVIII. Impulsar acciones para que las obras públicas proliferen en armonía con la reforestación y establecimiento de plantas y árboles endémicos, nativos y melíferos;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+XXIX. Promover la reforestación estratégica en zonas urbanas y rurales, con plantas y árboles que sean endémicos y nativos de cada área geográfica, propiciando la diversidad de especies melíferas que favorezcan la alimentación de los polinizadores; y
+
+XXX. Las demás que le señalen las leyes, reglamentos y otras disposiciones aplicables.
 
 ### CAPITULO II. DEL ORDENAMIENTO ECOLOGICO
 
@@ -3763,6 +3781,10 @@ XXVI. Flora silvestre: el conjunto de plantas vasculares y no vasculares existen
 
 XXVII. Hábitat: el sitio específico en un medio ambiente físico ocupado por un organismo, población, especie o comunidades de especies en un tiempo determinado;
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+XXVII Bis. Jardín para Polinizadores: Espacio público o privado en el que se colocan plantas nativas de la región, que proveen alimento, refugio, agua y espacio para los polinizadores;
+
 XXVIII. Licencia de caza deportiva o para actividades cinegéticas: el documento mediante el cual la Comisión acredita que una persona está calificada, tanto por sus conocimientos sobre los instrumentos y medios de las actividades cinegéticas, como de las regulaciones en la materia para realizar la caza deportiva en el territorio del Estado;
 
 XXIX. Legítimo poseedor: el poseedor de buena fe en los términos del Código Civil para el Estado de Tamaulipas;
@@ -3788,6 +3810,10 @@ XXXVII. Parte: la porción, fragmento o componente de un ejemplar. Para estos ef
 XXXVIII. Plan de Manejo de Vida Silvestre: el documento técnico operativo de las unidades de manejo para la conservación de vida silvestre, sujeto a aprobación de la Comisión, que describe y programa actividades para el manejo de especies silvestres particulares y sus hábitats, y establece metas e indicadores de éxito en función de las poblaciones y el hábitat;
 
 XXXIX. Población: el conjunto de individuos de una especie silvestre que comparten el mismo hábitat. Se considera la unidad básica de manejo de las especies silvestres en vida libre;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+XXXIX Bis. Polinizadores: Animales como abejas, avispas, hormigas, murciélagos, colibríes, mariposas, polillas, escarabajos, entre otros, que se alimentan del néctar de las flores y durante sus visitas transportan accidentalmente polen de una flor a otra, permitiendo que las plantas produzcan frutos;
 
 XL. Predio: La unidad territorial delimitada por un polígono que puede contener cuerpos de agua o ser parte de ellos;
 
@@ -3829,9 +3855,21 @@ I. Formular y conducir la política estatal sobre la preservación, conservació
 
 II. Formular propuestas en materia de vida silvestre a las autoridades competentes, con el propósito de promover el cumplimiento de la legislación, sobre su conservación y aprovechamiento sustentable;
 
-III. Conducir la política estatal de información y difusión en materia de vida silvestre; así como la integración, seguimiento y actualización de la información de la vida silvestre en el Sistema Estatal de Información sobre la Vida Silvestre, en compatibilidad e interrelación con el Subsistema Nacional de Información sobre la Vida Silvestre, en el ámbito de su jurisdicción territorial; y
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
 
-IV. Inspeccionar el cumplimiento de la normatividad en materia de vida silvestre, con base en sus atribuciones y las que mediante convenio le transfiera la Federación.
+III. Conducir la política estatal de información y difusión en materia de vida silvestre; así como la integración, seguimiento y actualización de la información de la vida silvestre en el Sistema Estatal de Información sobre la Vida Silvestre, en compatibilidad e interrelación con el Subsistema Nacional de Información sobre la Vida Silvestre, en el ámbito de su jurisdicción territorial;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+IV. Inspeccionar el cumplimiento de la normatividad en materia de vida silvestre, con base en sus atribuciones y las que mediante convenio le transfiera la Federación;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+V. Impulsar acciones para que las obras públicas proliferen en armonía con la reforestación y establecimiento de plantas y árboles endémicos, nativos y melíferos; y
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+VI. Promover la reforestación estratégica en zonas urbanas y rurales, con plantas y árboles que sean endémicos y nativos de cada área geográfica, propiciando la diversidad de especies melíferas que favorezcan la alimentación de los polinizadores.
 
 ###### ARTICULO 217.
 
@@ -3878,6 +3916,12 @@ IX. Vigilar el cumplimiento de la normatividad en materia de vida silvestre, con
 ###### ARTICULO 220.
 
 Conforme a los criterios generales que establezca la Secretaría, la Comisión promoverá la participación de las personas y sectores involucrados en la formulación y aplicación de las medidas para la conservación y aprovechamiento sustentable de la vida silvestre, que estén dentro del ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+###### ARTICULO 220 Bis.
+
+Es responsabilidad de toda persona en el Estado, respetar, mantener y cuidar de los Jardines para Polinizadores, para contribuir a la conservación de la biodiversidad y la resiliencia de los ecosistemas.
 
 ###### ARTICULO 221.
 
@@ -4010,6 +4054,10 @@ DE LA RESTAURACION, REHABILITACION Y RECUPERACION.
 ###### ARTICULO 235.
 
 Cuando se presenten problemas de destrucción, contaminación, degradación, desertificación o desequilibrio del hábitat de la vida silvestre, la Secretaría, con la colaboración de la Comisión, formulará y ejecutará a la brevedad posible programas de prevención, de atención de emergencias y de restauración para la recuperación, remediación, rehabilitación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales de la vida silvestre, tomando en cuenta lo dispuesto en los artículos 78, 78 bis y 78 bis 1 de la Ley General, y de conformidad con lo establecido en el Reglamento de este Libro y las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+Para efectos del párrafo anterior, la Secretaría tomará en consideración el empleo de especies endémicas para polinizadores.
 
 ### CAPITULO V. DE LAS VEDAS
 
@@ -5482,3 +5530,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las capacitaciones obligatorias de todas y todos los servidores públicos en materia de medio ambiente, con perspectiva de desarrollo sostenible y con especial énfasis en cambio climático, se implementarán de manera progresiva de conformidad a la capacidad presupuestal, técnica y operativa de las dependencias y municipios.
+
+P.O. 23 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-673 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
