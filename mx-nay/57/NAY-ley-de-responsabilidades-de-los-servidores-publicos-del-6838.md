@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-responsabilidades-de-los-servidores-publicos-del-6838"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-01"
-last_updated: "2016-11-08"
+last_updated: "2023-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 23 DE NOVIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2023 (ABROGADA).
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el Miércoles 1 de Febrero de 1984.
 
@@ -1292,3 +1294,23 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE NAYARIT”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 23 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Con la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado de Nayarit, se abroga la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit, publicada en la Segunda Sección del Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el miércoles 1° de febrero de 1984, así como todas aquellas disposiciones que se opongan a lo previsto en la Ley de Responsabilidades Administrativas del Estado de Nayarit.
+
+SEGUNDO. Una vez la entrada en vigor de la Presente Ley, el cumplimiento de las obligaciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit que se abroga, seguirá siendo exigible, en lo que resulte aplicable.
+
+TERCERO. El Sistema Local Anticorrupción tendrá un plazo de noventa días hábiles contados a partir de la entrada en vigor de la presente Ley para emitir de conformidad con la Ley del Sistema Local, los lineamientos, criterios y demás resoluciones conducentes de su competencia.
+
+CUARTO. A la fecha de entrada en vigor de la presente Ley, todas las menciones a la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit, previstas en las Leyes locales así como en cualquier disposición jurídica, se entenderán referidas a la Ley de Responsabilidades Administrativas del Estado de Nayarit.
+
+QUINTO. Los procedimientos administrativos iniciados por las autoridades locales con anterioridad a la entrada en vigor de la Ley (sic) presente Ley, serán concluidos conforme a la normatividad vigente a su inicio.
+
+SEXTO. Dentro del plazo de 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, la Secretaría para la Honestidad y la Buena Gobernanza deberá realizar las adecuaciones a su normativa interna de conformidad con la presente Ley.
+
+SÉPTIMO. En un plazo que no exceda de 180 días hábiles posteriores a la entrada en vigor del presente Decreto, el Congreso del Estado deberá realizar las reformas, adiciones o derogaciones de conformidad con la Ley que se expide.
