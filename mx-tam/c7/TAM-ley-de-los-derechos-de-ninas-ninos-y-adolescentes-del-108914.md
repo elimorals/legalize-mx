@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2023-06-06"
+last_updated: "2023-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -185,9 +185,17 @@ XXXV.- Sistema Estatal de Protección Integral: Al Sistema de Protección Integr
 
 XXXVI.- Sistema Municipal de Protección Integral: El Sistema de Protección de Niñas, Niños y Adolescentes de los municipios del Estado de Tamaulipas;
 
-XXXVII.- Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Tamaulipas; y
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
 
-XXXVIII.- Tratados Internacionales: A los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+XXXVII.- Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+XXXVIII.- Tratados Internacionales: A los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte; y
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+XXXIX.- Vínculo Materno Filial: Es la relación biológica y de apego desarrollada entre niñas, niños y/o adolescentes con su madre.
 
 ###### ARTÍCULO 6.
 
@@ -271,7 +279,9 @@ II.- Derecho de prioridad;
 
 III.- Derecho a la identidad;
 
-IV.- Derecho a vivir en familia;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+IV.- Derecho a vivir en familia y a la protección de vínculo materno filial;
 
 V.- Derecho a la igualdad sustantiva;
 
@@ -375,7 +385,9 @@ Para efectos del reconocimiento de maternidad y paternidad de niñas, niños y a
 
 ###### ARTÍCULO 20.
 
-1. Niñas, niños y adolescentes tienen derecho a vivir en familia. La falta de recursos no podrá considerarse motivo suficiente para separarlos de su familia de origen o de los familiares con los que convivan, ni causa para la pérdida de la patria potestad.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+1. Niñas, niños y adolescentes tienen derecho a vivir en familia y a la protección de vínculo materno filial. La falta de recursos no podrá considerarse motivo suficiente para separarlos de su familia de origen o de los familiares con los que convivan, ni causa para la pérdida de la patria potestad.
 
 2. Niñas, niños y adolescentes no podrán ser separados de las personas que ejerzan la patria potestad o de sus tutores y, en términos de las disposiciones aplicables, de las personas que los tengan bajo su guarda y custodia, salvo que medie orden de autoridad competente, en la que se determine la procedencia de la separación, en cumplimiento a la preservación del interés superior de la niñez, de conformidad con las causas previstas en las leyes y mediante el debido proceso en el que se garantice el derecho de audiencia de todas las partes involucradas. En todos los casos, se tendrá en cuenta la opinión de niñas, niños y adolescentes conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
@@ -387,13 +399,17 @@ Para efectos del reconocimiento de maternidad y paternidad de niñas, niños y a
 
 ###### ARTÍCULO 21.
 
-1. Niñas, niños y adolescentes cuyas familias estén separadas, tendrán derecho a convivir o mantener relaciones personales y contacto directo con sus familiares de modo regular, excepto en los casos en que el órgano jurisdiccional competente determine que ello es contrario al interés superior de la niñez, sin perjuicio de las medidas cautelares y de protección que se dicten por las autoridades competentes en los procedimientos respectivos, en los que se deberá garantizar el derecho de audiencia de todas las partes involucradas, en especial de niñas, niños y adolescentes.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+1. Niñas, niños y adolescentes cuyas familias estén separadas, tendrán derecho a convivir o mantener relaciones personales y contacto directo con sus familiares de modo regular, excepto en los casos en que el órgano jurisdiccional competente determine que la convivencia es contrario (sic) al interés superior de la niñez, sin perjuicio de las medidas cautelares y de protección que se dicten por las autoridades competentes en los procedimientos respectivos, en los que se deberá garantizar el derecho de audiencia de todas las partes involucradas, en especial de niñas, niños y adolescentes.
 
 2. Asimismo, niñas, niños y adolescentes tienen derecho a convivir con sus familiares cuando éstos se encuentren privados de su libertad.
 
 ###### ARTÍCULO 22.
 
-1. Las autoridades estatales y municipales, establecerán las normas y los mecanismos necesarios para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, siempre y cuando no sea contrario a su interés superior.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+1. Las autoridades estatales y municipales, establecerán las normas y los mecanismos necesarios para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, así como el restablecimiento del vínculo materno filial, siempre y cuando no sea contrario a su interés superior.
 
 2. Durante la localización de la familia, niñas, niños y adolescentes tienen derecho a acceder a las modalidades de cuidados alternativos de carácter temporal, en tanto se incorporan a su familia.
 
@@ -1053,7 +1069,9 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 1. Niñas, niños y adolescentes tienen derecho a disfrutar libremente de su lengua, cultura, usos, costumbres, prácticas culturales, religión, recursos y formas específicas de organización social y todos los elementos que constituyan su identidad cultural, así como al acceso a espacios culturales y a expresar sus manifestaciones culturales de acuerdo a sus propios intereses y expectativas. Las autoridades estatales deberán:
 
-I. Establecer políticas tendientes a garantizar la promoción, difusión y protección de la diversidad de las expresiones culturales, regionales y universales, entre niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+I. Aprovechar su infraestructura y recursos; promover el uso y desarrollo de los medios de comunicación oficial y de las nuevas tecnologías a su alcance a fin de establecer políticas tendientes a garantizar la promoción, difusión y protección de la diversidad de las expresiones culturales, regionales y universales, entre niñas, niños y adolescentes;
 
 II. Promover y garantizar, por todos los medios a su alcance, las expresiones culturales de niñas, niños y adolescentes y el intercambio cultural a nivel estatal, nacional e internacional;
 
@@ -1061,9 +1079,15 @@ III. Contemplar un sistema de promoción y apoyo a iniciativas culturales de ni�
 
 IV. Establecer espacios para la expresión del talento infantil, garantizando el acceso preferencial de niñas, niños y adolescentes a los eventos culturales propios de su edad;
 
-V. Apoyar a los organismos de la sociedad civil que promuevan la cultura entre niñas, los niños y adolescentes; y
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
 
-VI. Garantizar que los docentes cuenten con formación en educación intercultural y que las estrategias pedagógicas aplicadas partan de los saberes, costumbres y experiencias de los educandos.
+V. Apoyar a los organismos de la sociedad civil que promuevan la cultura entre niñas, los niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+VI. Promover la recreación y participación de las niñas, niños y adolescentes en las actividades culturales de su interés. Así como a fomentar la participación en la vida cultural y en las artes, la creatividad y producción artística, de niñas, niños y adolescentes; y
+
+VII. Garantizar que los docentes cuenten con formación en educación intercultural y que las estrategias pedagógicas aplicadas partan de los saberes, costumbres y experiencias de los educandos.
 
 2. Lo dispuesto en este capítulo se ejercerá en concordancia con el derecho a la educación y no será limitativo del deber de educación de los padres o de quienes ejerzan la patria potestad, tutela o guarda y custodia, de guiar y orientar a niñas, niños y adolescentes en el ejercicio de estos derechos, a fin de que contribuya con su desarrollo integral.
 
@@ -1559,9 +1583,17 @@ XIX.- Inclusión en programas oficiales o comunitarios de auxilio a la familia y
 
 XX.- Recomendación de tratamiento médico, psicológico o psiquiátrico en régimen de internación o ambulatorio;
 
-XXI.- Inclusión en programas oficiales o comunitarios de auxilio, que impliquen orientación y tratamiento a alcohólicos y toxicómanos; y
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
 
-XVIII (SIC).- Las demás que les confieran otras disposiciones aplicables.
+XXI.- Inclusión en programas oficiales o comunitarios de auxilio, que impliquen orientación y tratamiento a alcohólicos y toxicómanos;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+XXII.- Implementar medidas para la protección del vínculo materno filial; y
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+XXIII.- Las demás que les confieran otras disposiciones aplicables.
 
 ###### ARTÍCULO 86.
 
@@ -2126,6 +2158,22 @@ La Secretaría de Educación, en coordinación con la Secretaría de Salud, elab
 P.O. 6 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-674 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-676 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES I Y V, Y SE ADICIONA UNA FRACCIÓN VI, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE AL PÁRRAFO 1, DEL ARTÍCULO 42 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
