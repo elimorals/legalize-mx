@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-turismo-del-estado-de-queretaro-69508"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2021-10-08"
+last_updated: "2023-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY DE TURISMO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -71,25 +69,31 @@ V. Las autoridades estatales y municipales, los prestadores de servicios turíst
 
 Para los efectos de la presente Ley se entenderá por:
 
-I. Comisión. La Comisión Estatal de Desarrollo Turístico;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+I. COTUQRO: El Consejo Consultivo de Turismo del Estado de Querétaro;
 
 II. Fideicomiso. El Fideicomiso Promotor del Turismo en el Estado de Querétaro (FIPROTUR);
 
-III. Prestador de servicios turísticos. La persona física o moral que habitualmente proporcione intermedie o contrate con el turista;
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-IV. Pueblo con Tradición. El Programa de desarrollo turístico integral para localidades del Estado de Querétaro, orientado a impulsar una amplia oferta turística de los lugares que cuenten con la declaratoria expedida por el Gobernador del Estado;
+III. Observatorio: El Observatorio Turístico del Estado de Querétaro;
 
-V. Pueblo Mágico. La localidad que a través del tiempo y ante la modernidad, ha conservado su valor, herencia histórica y cultural, y la manifiesta en diversas expresiones a través de su patrimonio tangible e intangible irremplazable, que cuenta con el nombramiento correspondiente otorgado por la Secretaría de Turismo Federal;
+IV. Prestador de servicios turísticos. La persona física o moral que habitualmente proporcione intermedie o contrate con el turista;
 
-VI. Secretaría. La Secretaría de Turismo del Poder Ejecutivo del Estado de Querétaro;
+V. Pueblo con Tradición. El Programa de desarrollo turístico integral para localidades del Estado de Querétaro, orientado a impulsar una amplia oferta turística de los lugares que cuenten con la declaratoria expedida por el Gobernador del Estado;
 
-VII. Servicios turísticos. Todos los servicios que de manera general son ofrecidos o proporcionados al turista por cualquier prestador de servicios en zona turística y, de manera particular, los que se ofrecen a través de los lugares señalados en la presente Ley;
+VI. Pueblo Mágico. La localidad que a través del tiempo y ante la modernidad, ha conservado su valor, herencia histórica y cultural, y la manifiesta en diversas expresiones a través de su patrimonio tangible e intangible irremplazable, que cuenta con el nombramiento correspondiente otorgado por la Secretaría de Turismo Federal;
 
-VIII. Turismo. Las actividades que se realizan a fin de ofrecer bienes y servicios a las personas que se desplazan de su domicilio o residencia habitual, con la intención de visitar lugares que les proporcionen esparcimiento, descanso, salud, cultura, entretenimiento, diversión o recreo, generándose de estas actividades beneficios económicos y sociales que contribuyen al desarrollo del Estado;
+VII. Secretaría. La Secretaría de Turismo del Poder Ejecutivo del Estado de Querétaro;
 
-IX. Turista. La persona nacional o extranjera, que viaja, trasladándose temporalmente fuera de su domicilio o residencia habitual y que contrata o utiliza cualquiera de los servicios a que se refiere esta Ley u otros ordenamientos legales aplicables; y
+VIII. Servicios turísticos. Todos los servicios que de manera general son ofrecidos o proporcionados al turista por cualquier prestador de servicios en zona turística y, de manera particular, los que se ofrecen a través de los lugares señalados en la presente Ley;
 
-X. UMA: El valor diario de la Unidad de Medida y Actualización que calcule y dé a conocer a través de su publicación en el Diario Oficial de la Federación, el Instituto Nacional de Estadística y Geografía, en términos de lo dispuesto por los artículos 26, apartado B, último párrafo de la Constitución Política de los Estados Unidos Mexicanos y 23, fracción XX Bis del Reglamento Interior del Instituto Nacional de Estadística y Geografía.
+IX. Turismo. Las actividades que se realizan a fin de ofrecer bienes y servicios a las personas que se desplazan de su domicilio o residencia habitual, con la intención de visitar lugares que les proporcionen esparcimiento, descanso, salud, cultura, entretenimiento, diversión o recreo, generándose de estas actividades beneficios económicos y sociales que contribuyen al desarrollo del Estado;
+
+X. Turista. La persona nacional o extranjera, que viaja, trasladándose temporalmente fuera de su domicilio o residencia habitual y que contrata o utiliza cualquiera de los servicios a que se refiere esta Ley u otros ordenamientos legales aplicables; y
+
+XI. UMA: El valor diario de la Unidad de Medida y Actualización que calcule y dé a conocer a través de su publicación en el Diario Oficial de la Federación, el Instituto Nacional de Estadística y Geografía, en términos de lo dispuesto por los artículos 26, apartado B, último párrafo de la Constitución Política de los Estados Unidos Mexicanos y 23, fracción XX Bis del Reglamento Interior del Instituto Nacional de Estadística y Geografía.
 
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
 
@@ -413,47 +417,369 @@ La Secretaría de Turismo en el Estado y los ayuntamientos, buscarán los mecani
 
 La Secretaría y los ayuntamientos se coordinarán con los sectores social y privado, a efecto de que coadyuven en la promoción y fomento de la actividad turística en el Estado, así como para incrementar la calidad en los servicios turísticos.
 
-### Capítulo Séptimo. De la Comisión Estatal de Desarrollo Turístico
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+### Capítulo Séptimo. Del Consejo Consultivo de Turismo del Estado de Querétaro (COTUQRO)
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 29.
 
-La Comisión Estatal de Desarrollo Turístico, se constituye como una instancia de carácter permanente y tiene por objeto articular acciones y estrategias para el desarrollo de la actividad turística en el Estado, particularmente equipamiento e infraestructura y estará integrada de la manera siguiente:
+El COTUQRO es un órgano de consulta de la Secretaría, que tendrá por objeto proponer la formulación de las estrategias y acciones de coordinación de las dependencias y entidades de la administración pública estatal y municipal, con el fin de impulsar el ordenamiento y transformación del sector turístico en la Entidad.
 
-I. El titular del Poder Ejecutivo del Estado;
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-II. El titular de la Secretaría de Turismo del Estado;
+###### Artículo 29 Bis.
 
-III. El titular de la Secretaría de Desarrollo Sustentable del Estado;
+El COTUQRO, tendrá las siguientes atribuciones:
 
-IV. El titular de la Secretaría de Desarrollo y Urbano y Obras Públicas del Estado;
+I. Elaborar su programa de trabajo anual;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+II. Proponer mecanismos de coordinación con las dependencias o entidades de la Administración Pública del orden federal, estatal y municipal, para eficientar el cumplimiento de sus atribuciones;
 
-V. El titular de la Secretaría de Finanzas del Poder Ejecutivo del Estado; y
+III. Aprobar la integración de comisiones o grupos de trabajo, así como los lineamientos para su funcionamiento; y
 
-VI. El titular del área o dependencia encargada de la cultura en el Estado.
+IV. Las demás que deriven de la Ley de Turismo del Estado de Querétaro y demás disposiciones aplicables.
 
-La Comisión aprovechará las estructuras administrativas, los recursos humanos, materiales y financieros de los órganos que la integran.
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-El titular del Poder Ejecutivo del Estado presidirá la Comisión. Los cargos de los integrantes serán honoríficos, por lo que no recibirán retribución o compensación alguna, por el desempeño de esta labor.
+###### Artículo 29 Ter.
+
+El COTUQRO se integrará de la siguiente manera:
+
+I. El titular del Poder Ejecutivo del Estado de Querétaro, quien lo presidirá;
+
+II. El titular de la Secretaría de Turismo del Poder Ejecutivo del Estado de Querétaro;
+
+III. El titular de la Secretaría de Desarrollo Sustentable del Poder Ejecutivo del Estado de Querétaro;
+
+IV. El titular de la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro;
+
+V. El titular de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado de Querétaro;
+
+VI. El titular de la Secretaría de Cultura del Poder Ejecutivo del Estado de Querétaro;
+
+VII. El titular de la Secretaría de Juventud del Poder Ejecutivo del Estado de Querétaro;
+
+VIII. El titular de la Secretaría de Desarrollo Social del Poder Ejecutivo del Estado de Querétaro;
+
+IX. El titular de la Secretaría de Desarrollo Agropecuario del Poder Ejecutivo del Estado de Querétaro;
+
+X. El Presidente de la Comisión de Turismo de la Legislatura del Estado de Querétaro;
+
+XI. El Director General del Aeropuerto Intercontinental de Querétaro S.A. de C.V.;
+
+XII. El Director General del Fideicomiso Promotor del Turismo en el Estado de Querétaro (FIPROTUR);
+
+XIII. Un Coordinador Ejecutivo, que será designado por el Gobernador del Estado, de entre una terna propuesta por la persona titular de la Secretaría, atendiendo a su vinculación con el sector turístico empresarial;
+
+XIV. Una persona representante de la Cámara Nacional de la Industria de Restaurantes y Alimentos Condimentados, Delegación Querétaro;
+
+XV. Una persona representante de la Cámara Nacional de Comercio, Servicios y Turismo de Querétaro (CANACO SERVYTUR);
+
+XVI. Una persona representante de la Asociación de Ganaderos del Estado de Querétaro;
+
+XVII. Una persona representante del sector hotelero;
+
+XVIII. Una persona representante del Clúster Vitivinícola de Querétaro (CVQ);
+
+XIX. Una persona representante de la Confederación Patronal de la República Mexicana (COPARMEX); y
+
+XX. Una persona representante de la Oficina de Convenciones y Visitantes (OCVs) del Estado.
+
+En ausencia de la persona titular del Poder Ejecutivo, el Consejo será presidido por la persona titular de la Secretaría del COTUQRO.
+
+Las personas integrantes del COTUQRO designarán a su respectivo suplente, quien deberá formar parte del sector al cual pertenece en el Consejo. Dichas designaciones se harán por escrito dirigido al Presidente del Consejo.
+
+Las personas integrantes del COTUQRO en su carácter de Consejeros, tendrán derecho a voz y voto.
+
+Los cargos de los integrantes del COTUQRO serán honoríficos, por lo que no recibirán retribución, emolumento, ni compensación alguna por el desempeño de su cargo.
+
+En la integración del COTUQRO se procurará que los Consejeros de la sociedad civil estén vinculados con la actividad turística y buscará una representación equilibrada de las diversas regiones geográficas y sectores de dicha actividad.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 29 Quáter.
+
+El COTUQRO contará con una Secretaría Técnica, con derecho a voz, que estará a cargo de la persona designada por la persona titular de la Secretaría, de entre los titulares de las Direcciones de la Secretaría.
+
+En el caso de que la persona titular de la Secretaría Técnica deba suplir la ausencia del (sic) quien preside el COTUQRO, éste tendrá además derecho a voto.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 29 Quinquies.
+
+Cuando alguna de las personas a que se refieren las fracciones XIV a XX del artículo 29 Ter, deje de ostentar la representación del organismo o asociación al que pertenece, éstos últimos deberán notificarlo al Presidente del COTUQRO en un término que no exceda de 10 días hábiles.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 29 Sexies.
+
+El Presidente del COTUQRO tendrá las siguientes facultades:
+
+I. Presidir y dirigir las sesiones del COTUQRO, orientando los debates que surjan en las mismas;
+
+II. Proponer los temas o asuntos que por su naturaleza e importancia deban ser conocidos por el pleno del COTUQRO;
+
+III. Propiciar y coordinar la participación activa de los miembros del COTUQRO;
+
+IV. Proponer, adoptar y aplicar las medidas para cumplir con las atribuciones del COTUQRO y demás disposiciones y lineamientos aplicables;
+
+V. Presentar un informe anual de las acciones y logros realizados por el COTUQRO;
+
+VI. Proponer al pleno del COTUQRO la creación de comisiones o grupos de trabajo que se requieran para el mejor desahogo de los asuntos del mismo; y
+
+VII. Las demás que se deriven de la Ley y demás disposiciones aplicables, así como aquellas que le confiera el pleno del COTUQRO.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 30.
 
-La Comisión contará con un Secretario Ejecutivo designado por el Secretario de Turismo, el cual contará únicamente con derecho a voz y tendrá a su cargo apoyar al Presidente en todas las actividades inherentes al desarrollo de las sesiones, así como dar seguimiento de los acuerdos tomados en el seno de la Comisión.
+El Coordinador Ejecutivo del COTUQRO tendrá las siguientes facultades:
 
-### Capítulo Octavo. Del Sistema Estatal de Información Turística
+I. Apoyar al Presidente en las labores de cooperación y participación con las organizaciones empresariales vinculadas al Sector Turismo en la entidad en la ejecución de las determinaciones del COTUQRO;
+
+II. Auxiliar al Presidente en la generación del informe anual, mediante el cual se den a conocer las acciones y logros realizados por el COTUQRO;
+
+III. Apoyar al Presidente a dirigir las sesiones del mismo, así como propiciar y coordinar la participación activa de sus miembros;
+
+IV. Proponer temas o asuntos que por su naturaleza e importancia deban ser conocidos por el pleno del COTUQRO;
+
+V. Coadyuvar con el Presidente en las acciones orientadas a proponer, adoptar y aplicar las medidas que sean necesarias para cumplir con las atribuciones del COTUQRO; y
+
+VI. Las demás que le confiera el COTUQRO.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 30 Bis.
+
+Los consejeros del COTUQRO tendrán las siguientes facultades:
+
+I. Proporcionar asesoría técnica en materia de turismo, al interior del COTUQRO;
+
+II. Proponer temas, estudios y proyectos tendientes a cumplir con las atribuciones del COTUQRO;
+
+III. Formar parte de las comisiones o grupos de trabajo a las que pertenezcan para el mejor desahogo de los asuntos del COTUQRO;
+
+IV. Proveer lo necesario para cumplir con los programas y proyectos del COTUQRO, así como de las comisiones o grupos de trabajo a las que pertenezcan para el mejor deshago de las actividades que les sean encomendadas;
+
+V. Cumplir en tiempo y forma con los trabajos que les sean encomendados por el COTUQRO;
+
+VI. Evaluar anualmente los resultados del COTUQRO; y
+
+VII. Las demás que se acuerden en las sesiones del COTUQRO y que sean acordes a su objeto.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 30 Ter.
+
+La persona titular de la Secretaría Técnica tendrá las siguientes facultades:
+
+I. Proponer al Presidente del COTUQRO el calendario anual de sesiones para su aprobación;
+
+II. Formular el orden del día de las sesiones del COTUQRO;
+
+III. Convocar, previo acuerdo con el Presidente, a las sesiones ordinarias y extraordinarias del COTUQRO;
+
+IV. Levantar y resguardar las actas de sesiones del COTUQRO, así como recabar en las mismas las firmas de los integrantes presentes;
+
+V. Dar seguimiento a los acuerdos del COTUQRO;
+
+VI. Requerir a los integrantes del COTUQRO la información y documentación necesaria para el desahogo de los asuntos del orden del día; y
+
+VII. Las demás que le indique el Presidente o el COTUQRO para el adecuado funcionamiento del mismo.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 30 Quáter.
+
+El COTUQRO podrá contar con comisiones o grupos de trabajo cuyo funcionamiento interno y cargos se fijarán de conformidad con los lineamientos que se determinen.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 30 Quinquies.
+
+El COTUQRO celebrará sesiones ordinarias y extraordinarias. Las sesiones ordinarias se celebrarán cuando menos una vez de forma cuatrimestral; las sesiones extraordinarias se celebrarán en cualquier tiempo, cuando la naturaleza del asunto a tratar así lo amerite; requiriéndose la asistencia de por lo menos de la mitad más uno de los integrantes para que las sesiones se consideren válidas.
+
+De no integrarse el quórum a que se refiere el párrafo anterior, se convocará a una segunda sesión a celebrase dentro de los tres días hábiles siguientes, la cual podrá realizarse con el número de integrantes que se encuentren presentes, debiéndose contar con la presencia del Presidente y del Coordinador Ejecutivo o sus respectivos suplentes.
+
+A las sesiones del COTUQRO se podrá invitar a personas representantes de las dependencias y entidades federales, estatales y municipales, de los sectores social y privado y a los prestadores de servicios turísticos que se vean directamente involucrados en los asuntos a tratar, o que por su experiencia en la materia turística contribuyan al desempeño de las actividades del COTUQRO, quienes tendrán derecho a voz, pero no a voto. Cuando existan invitados a las sesiones del Consejo, esto se hará del conocimiento en la convocatoria respectiva.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 30 Sexies.
+
+Las sesiones se celebrarán, por regla general, bajo la modalidad presencial, excepcionalmente, independientemente del tipo de sesión, y con la finalidad de dar continuidad y regularidad al funcionamiento del COTUQRO, éste podrá celebrar sesiones a distancia bajo la modalidad virtual a través de herramientas tecnológicas, por causas de fuerza mayor; cuando así lo acuerden sus integrantes o bien, cuando bajo dicha modalidad sean convocados por quien preside el COTUQRO.
+
+Se entenderá por sesión bajo la modalidad virtual, aquella que se realiza utilizando cualquiera de las tecnologías de información y comunicación asociadas a la red de internet, que garanticen tanto la posibilidad de una comunicación simultánea entre los integrantes del COTUQRO durante toda la sesión, así como su expresión mediante documentación electrónica que permita el envío de la imagen, sonidos y datos.
+
+Las sesiones que se celebren bajo la modalidad virtual, y los acuerdos que en ellas se tomen, serán válidos. El desarrollo de las sesiones virtuales podrá además grabarse a fin de acreditar la asistencia y la votación de sus integrantes.
+
+Las convocatorias precisarán que la sesión se celebrará bajo la modalidad virtual; asimismo tanto la convocatoria, el orden del día y los demás documentos que integren la carpeta de la sesión correspondiente, podrán ser enviados en formato digital, a través de la plataforma digital determinada para ello, o a los correos electrónicos de los integrantes del COTUQRO y, en su caso, de los invitados a la sesión.
+
+En las sesiones celebradas bajo la modalidad virtual se podrá hacer uso de la firma electrónica para la suscripción de las actas respectivas. En las actas que se levanten se asentará que se celebró bajo esta modalidad y para efecto del lugar donde se levantó, se asentará la sede del COTUQRO.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+### Capítulo Séptimo Bis. Del Observatorio Turístico del Estado de Querétaro
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 31.
 
-La Comisión podrá invitar a otros órganos, dependencias o entidades de la administración pública estatal o municipal a participar en el desarrollo de sus sesiones, cuando así se considere necesario, para conocer de los asuntos que tengan relación con su competencia, quienes concurrirán con voz pero sin voto.
+El Observatorio Turístico del Estado de Querétaro es un órgano permanente dedicado a la investigación, análisis, evaluación y consulta de la actividad turística en sus diversas modalidades, mediante un trabajo intersectorial y multidisciplinario que permite medir y monitorear la actividad turística, que tiene como objetivo coadyuvar con la Secretaría a desarrollar el Sistema Estatal de Información Turística.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 31 Bis.
+
+El Observatorio tiene como objetivos los siguientes:
+
+I. Medir y evaluar el desempeño del sector turístico desde la perspectiva global de sociedad y gobierno; así como su aportación al desarrollo general del Estado;
+
+II. Generar información turística de consulta permanente al alcance de la sociedad, la academia, el gobierno y los grupos de interés;
+
+III. Identificar fenómenos sociales que inciden en el desarrollo del sector turístico en el Estado;
+
+IV. Proponer la vinculación del desempeño del sector turismo con otros procesos estratégicos del desarrollo, como son la competitividad, la sustentabilidad y la inclusión social en la Entidad;
+
+V. Promover estudios e investigaciones en materia turística; y
+
+VI. Generar información para facilitar y orientar la toma de decisiones, así como la realización de acciones por parte de los sectores público, educativo, privado y social.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 31 Ter.
+
+Para el cumplimiento de sus objetivos, el Observatorio estará conformado por:
+
+I. Un Coordinador quien tendrá voto de calidad, que será designado por la persona titular de la Secretaría, de entre los titulares de las Direcciones de la Secretaría;
+
+II. Hasta cinco representantes de instituciones del sector público;
+
+III. Hasta cinco representantes de instituciones del sector académico;
+
+IV. Hasta cinco representantes de instituciones del sector privado;
+
+V. Hasta cinco representantes de instituciones del sector social. OCVs, y
+
+VI. Hasta cinco representantes ciudadanos.
+
+Los integrantes serán aprobados por la Secretaría de Turismo del Poder Ejecutivo del Estado de Querétaro, previa propuesta de cada sector. Los integrantes del Observatorio tendrán derecho a voz y voto.
+
+El Observatorio contará con un Secretario Técnico, designado por el Coordinador, de entre el personal de la Secretaría, quien solamente tendrá derecho a voz.
+
+En la integración del Observatorio, el titular de la Secretaría y el Secretario Técnico, procurarán que los representantes de los sectores académico y privado estén vinculados con la actividad turística, y buscarán una representación equilibrada de las diversas regiones geográficas y sectores en la entidad.
+
+Los integrantes del Observatorio designarán a su respectivo suplente; quien deberá formar parte del sector al cual pertenece el titular. Dichas designaciones se harán por escrito dirigido al Coordinador.
+
+Los cargos de los integrantes del Observatorio serán honoríficos, por lo que no recibirán retribución, emolumento, ni compensación alguna por su desempeño.
+
+A las sesiones del Observatorio se podrá invitar con carácter permanente o temporal a representantes de las dependencias y entidades federales, estatales y municipales, así como a prestadores de servicios turísticos que se vean directamente involucrados en los asuntos a tratar, quienes tendrán derecho a voz, pero no a voto.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 31 Quáter.
+
+Los integrantes de los sectores social, académico y privado del Observatorio deberán acreditar la representatividad del sector que corresponda y durarán en su cargo en tanto ostenten la representatividad del mismo.
+
+Cuando uno de los integrantes deje de ostentar la representatividad de la dependencia, entidad, sector u organismo al que pertenece, estos últimos deberán notificar tal situación a la Secretaría en un término no mayor de 10 días hábiles, a efecto de (sic) ésta apruebe a un nuevo integrante propuesto.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 31 Quinquies.
+
+El Observatorio tendrá las siguientes atribuciones:
+
+I. Validar la información que se genere y publique en las páginas electrónicas oficiales;
+
+II. Vigilar que la información que genere y publique el Observatorio, atienda a los criterios de integralidad de los temas y de validez metodológica y científica en su generación;
+
+III. Emitir y reformar los lineamientos y demás disposiciones que resulten necesarias para el cumplimiento de los objetivos del Observatorio;
+
+IV. Proponer y en su caso aprobar la conformación y extinción de comisiones, así como grupos de trabajo al interior del Observatorio;
+
+V. Proponer y en su caso aprobar las mejoras y modificaciones a los elementos que conforman el portal electrónico del Observatorio;
+
+VI. Proponer a la Secretaría los planes de trabajo, programas y acciones relacionados con el Observatorio; y
+
+VII. Las demás que le confiera el titular de la Secretaría.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 32.
 
-La Comisión sesionará de manera ordinaria cuando menos una vez de forma trimestral, pudiendo celebrar las sesiones extraordinarias que fueren necesarias. Para que las sesiones sean válidas será necesario contar con la asistencia de su Presidente y de la mayoría simple de sus integrantes. Sus resoluciones se tomarán por mayoría de votos, en caso de empate el Presidente tendrá voto de calidad.
+El Coordinador del Observatorio tendrá las siguientes atribuciones:
+
+I. Convocar a las sesiones del Observatorio, por conducto del Secretario Técnico;
+
+II. Presidir las sesiones del Observatorio;
+
+III. Propiciar y coordinar la participación activa de los miembros del Observatorio;
+
+IV. Proponer y aplicar las medidas que sean necesarias para cumplir con los acuerdos del Observatorio;
+
+V. Proponer al Observatorio la creación de comisiones y grupos de trabajo que se requieran para el mejor desempeño de los asuntos del mismo; y
+
+VI. Las demás que le confiera el titular de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 32 Bis.
+
+Los integrantes del Observatorio tendrán las siguientes atribuciones:
+
+I. Asistir a las sesiones y ejercer su derecho a voz y voto;
+
+II. Proponer temas, estudios y proyectos tendientes a cumplir con las atribuciones y los objetivos del Observatorio;
+
+III. Formar parte de las comisiones y grupos de trabajo que se conformen para el mejor desahogo de los asuntos del Observatorio;
+
+IV. Cumplir en tiempo y forma con los trabajos que les sean encomendados por el Observatorio; y
+
+V. Las demás que les confiera el titular de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 32 Ter.
+
+El Secretario Técnico del Observatorio tendrá las siguientes atribuciones:
+
+I. Someter a aprobación del Coordinador el calendario de sesiones;
+
+II. Convocar, previo acuerdo con el Coordinador, a las sesiones del Observatorio;
+
+III. Formular el orden del día de las sesiones del Observatorio;
+
+IV. Levantar y resguardar las actas de las sesiones del Observatorio;
+
+V. Dar seguimiento a los acuerdos del Observatorio;
+
+VI. Requerir a los integrantes del Observatorio la información y documentaciones necesarias para el desahogo del orden del día de cada sesión; y
+
+VII. Las demás que le confiera el Coordinador o el Observatorio para el adecuado funcionamiento del mismo.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 32 Quáter.
+
+El Observatorio celebrará sesiones ordinarias y extraordinarias. Las sesiones ordinarias se celebrarán de manera bimestral y las extraordinarias cuando la naturaleza del asunto a tratar así lo amerite; para ambas sesiones se requerirá la asistencia de por lo menos de la mitad más uno de los integrantes para que la (sic) sesiones se consideren válidas; de no integrarse el quorum, se convocará a una segunda sesión a celebrarse dentro de los cinco días hábiles siguientes, la cual podrá realizarse con el número de integrantes que se encuentren presentes.
+
+Las decisiones del Observatorio se tomarán por mayoría de votos de los integrantes; en caso de empate, el Coordinador tendrá voto de calidad.
+
+De cada sesión deberá levantarse acta, que será aprobada y firmada por los asistentes, y cuya copia se remitirá por parte del Secretario Técnico a los integrantes del Observatorio dentro de los siete días hábiles posteriores a la misma.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 32 Quinquies.
+
+El Observatorio podrá conformar de entre sus integrantes, o bien, incluir a otros integrantes del sector público, social o privado; las comisiones que considere necesarias para el logro de sus atribuciones.
+
+Con la finalidad de fortalecer las acciones del Observatorio deberá integrar una Red de investigación cuya función principal será coadyuvar en la generación de indicadores que no estén disponibles o previstos por falta de información o investigación.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JUNIO DE 2019)</small>
 
-### Capítulo Noveno. De los servicios turísticos
+### Capítulo Octavo. Del Sistema Estatal de Información Turística
 
 ###### Artículo 33.
 
@@ -489,7 +815,7 @@ La Secretaría formulará periódicamente programas de evaluación turística, e
 
 (DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
-### Capítulo Décimo. De la protección al turista
+### Capítulo Noveno. De los servicios turísticos
 
 ###### Artículo 38.
 
@@ -552,6 +878,8 @@ XIII. Mantener sus instalaciones en condiciones óptimas de servicio e higiene; 
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
 
 XIV. Al inicio de sus operaciones, inscribirse en el Registro Nacional de Turismo, así como aportar los datos estadísticos que la autoridad competente les solicite, de conformidad con las Leyes de la materia.
+
+### Capítulo Décimo. De la protección al turista
 
 ###### Artículo 42.
 
@@ -992,3 +1320,13 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 24 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
