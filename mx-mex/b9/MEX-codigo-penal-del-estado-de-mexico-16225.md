@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2023-10-27"
+last_updated: "2023-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE NOVIEMBRE DE 2023.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3347,17 +3347,15 @@ Al responsable se le impondrán de uno a tres años de prisión y de treinta a c
 
 Se impondrán de cuatro a ocho años de prisión y de cuarenta a doscientos días multa, si los actos de necrofilia consisten en la realización del coito.
 
-(NOTA: EL 2 DE MARZO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 136/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 17 DE AGOSTO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 284, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, G.G. 16 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, G.G. 24 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 227 Bis.
 
-Al que por cualquier medio y fuera de los supuestos autorizados por la Ley, audiograbe, comercialice, comparta, difunda, distribuya, entregue, exponga, envíe, filme, fotografíe, intercambie, oferte, publique, remita, reproduzca, revele, transmita o videograbe, imágenes, audios, videos o documentos de cadáveres o parte de ellos que se encuentren relacionados con una investigación penal, de las circunstancias de la muerte o de las lesiones que éstos presentan, se le impondrán de tres a seis años de prisión y multa por un importe equivalente de cincuenta a cien veces el valor diario de la unidad de medida y actualización.
+A la persona que sin tratarse de programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación; que realice actos de difusión, entrega, publicación, transmisión, distribución, videograbación, reproducción, exposición, filmación, fotografía o compartan, oferten e intercambien imágenes relacionadas con cadáveres de personas, causando menoscabo en la dignidad, el honor y la intimidad de la víctima o la seguridad, paz y privacidad de sus familiares, se le impondrá de cuatro a ocho años de prisión y multa de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización, así como la reparación integral del daño.
 
-Tratándose de imágenes, audios o videos de cadáveres de mujeres, niñas o adolescentes, de las circunstancias de su muerte, de las lesiones o estado de salud, las penas previstas en este artículo se incrementarán hasta en una mitad.
+Cuando en la comisión de este delito participen servidores públicos de Salud, Protección Civil, Seguridad Pública, Procuración y Administración de Justicia, o cualquier otro inherente a la cadena de justicia, que por su empleo, cargo o comisión tengan acceso a la información y documentos relacionados con objetos, indicios, evidencias, hallazgos o instrumentos vinculados a un procedimiento penal o a una investigación relacionada con un hecho delictivo, se le impondrá de tres a siete años de prisión y multa de trescientas a ochocientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito.
 
-Cuando el delito sea cometido por persona servidora pública integrante de cualquier institución de seguridad pública o de impartición o procuración de justicia, las penas previstas se incrementarán hasta en una tercera parte.
+Cuando el sujeto pasivo de este delito sean mujeres, niñas, niños, adolescentes o persona en situación de vulnerabilidad, la pena se incrementará hasta en una mitad más de la que le corresponda.
 
 SUBTITULO SEPTIMO
 
@@ -7710,3 +7708,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Se deroga toda disposición, de igual o menor jerarquía, contraria al presente Decreto.
+
+G.G. 24 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 215.- POR EL QUE SE REFORMA EL ARTÍCULO 227 BIS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
