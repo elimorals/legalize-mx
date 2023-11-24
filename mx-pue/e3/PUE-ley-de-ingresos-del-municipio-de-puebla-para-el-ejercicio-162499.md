@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ingresos-del-municipio-de-puebla-para-el-ejercicio-16249
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2022-12-21"
-last_updated: "2023-03-31"
+last_updated: "2023-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=162499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE INGRESOS DEL MUNICIPIO DE PUEBLA PARA EL EJERCICIO FISCAL 2023
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección Tercera del Número 15 del Periódico Oficial del Estado de Puebla, el miércoles 21 de diciembre de 2022.
 
@@ -37,14 +37,16 @@ Los derechos a que se refiere este Capítulo, se causarán y pagarán conforme a
 
 I. a X. ...
 
-(NOTA: EL 11 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 22/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE SEPTIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XI. POR LA OCUPACIÓN DE ESPACIOS PARA ESTACIONAMIENTO DE VEHÍCULOS, CUYO COBRO SE REALICE MEDIANTE DISPOSITIVOS DIGITALES SE PAGARÁ:
+XI. Por la ocupación de cada espacio delimitado por trazas para el estacionamiento temporal de vehículos, cuyo cobro se realice mediante dispositivos digitales, se pagará por cada hora o fracción:
 
-a) EN LUGARES PERMITIDOS DE LA VÍA PÚBLICA EN GENERAL: $10.00
+a) En lugares y horarios permitidos de la vía pública en general que se encuentren marcados con el señalamiento vial de estacionamiento rotativo: $5.00
 
-b) EN MERCADOS Y EN EQUIPAMIENTOS URBANOS: $3.00
+El cobro del servicio se realizará de lunes a viernes dentro de un horario de 8:00 a
 
-LAS TARIFAS ESTABLECIDAS EN ESTA FRACCIÓN SE SUJETARÁN A LOS LINEAMIENTOS EMITIDOS POR LA AUTORIDAD MUNICIPAL.
+21 :00 horas; y sábados y domingos de 11 :00 a 19:00 horas.
+
+b) En mercados y en equipamientos urbanos: $3.00
 
 XII. a XXXIII. ...
