@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-atencion-a-victimas-para-el-estado-de-michoacan-de-10394
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-10"
-last_updated: "2023-10-25"
+last_updated: "2023-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY DE ATENCION A VICTIMAS PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO DE 2024 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+
+(REPUBLICADO EN EL P.O. 24 DE NOVIEMBRE DE 2023).
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 10 de diciembre de 2014.
 
@@ -545,7 +545,7 @@ VII. Coordinar a las instituciones competentes para la atención de una problem�
 
 VIII. Establecer mecanismos para la capacitación, formación, actualización y especialización de servidores públicos o dependientes de las instituciones, de conformidad con lo dispuesto en esta Ley;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+(REFORMADA, P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADA, P.O. 24 DE NOVIEMBRE DE 2023)
 
 IX. Dirigir, supervisar, evaluar y coordinar el trabajo de las unidades regionales a su cargo, incluyendo los servicios que preste en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes de manera permanente, destinando recursos humanos y materiales suficientes para ello;
 
@@ -1198,6 +1198,8 @@ CUARTO. Los procesos penales iniciados antes de la entrada en vigor del presente
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 25 DE OCTUBRE DE 2023.
+
+(REPUBLICADO, P.O. 24 DE NOVIEMBRE DE 2023)
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 465.- ARTÍCULO CUARTO.- SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 37 DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
 
