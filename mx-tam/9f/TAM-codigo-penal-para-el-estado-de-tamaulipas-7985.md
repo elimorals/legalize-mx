@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2023-10-25"
+last_updated: "2023-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -6101,13 +6101,13 @@ VIII.- Provocar la muerte por cualquier medio a un animal, sin respetar las disp
 
 En el caso de veterinarios o personas que tengan a su cuidado refugios de animales domésticos que incurran en alguna de las conductas consideradas como maltrato animal, la autoridad judicial ordenará la suspensión de su licencia para ejercer la actividad relativa hasta por dos años, y en caso de reincidencia hasta por cinco años o de manera definitiva.
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTICULO 469.
 
-Quien incurra en conductas que pongan en peligro a un animal de cualquier especie que no constituya plaga ni se encuentre considerada como riesgo para la salud del hombre, que deriven en maltrato, tortura y/o provocándole la muerte, se le impondrá de dos meses a dos años de prisión y de doscientos a quinientos días multa, así como el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo, los cuales podrán ser puestos bajo los cuidados de las Asociaciones protectoras de animales debidamente registradas que lo soliciten, hasta en tanto se determine su destino legal.
+Quien incurra en conductas que pongan en peligro a un animal de cualquier especie que no constituya plaga ni se encuentre considerada como riesgo para la salud de la persona, que deriven en maltrato, tortura y/o provocándole la muerte, se le impondrá de dos a seis años de prisión y multa de cuatrocientas a mil veces el valor diario de la Unidad de Medida y Actualización, así como el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo, los cuales podrán ser puestos bajo los cuidados de las Asociaciones protectoras de animales debidamente registradas que lo soliciten, hasta en tanto se determine su destino legal.
 
-En el caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal previo a su muerte, las penas se aumentarán en una mitad. Se entenderá por métodos que provoquen una muerte no inmediata las que prolonguen la agonía del animal, ya sea por las lesiones que provoca o el detrimento de la salud del animal.
+En el caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal previo a su muerte, las penas se aumentarán en dos terceras partes. Se entenderá por métodos que provoquen una muerte no inmediata las que prolonguen la agonía del animal, ya sea por las lesiones que provoca o el detrimento de la salud del animal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
@@ -7442,6 +7442,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 25 DE OCTUBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-664 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 58 Y 59; Y SE DEROGAN LOS ARTÍCULOS 61 Y 62, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-715 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 469, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
