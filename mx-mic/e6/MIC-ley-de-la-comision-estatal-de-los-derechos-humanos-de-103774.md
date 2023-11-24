@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-la-comision-estatal-de-los-derechos-humanos-de-103774"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-21"
-last_updated: "2023-10-25"
+last_updated: "2023-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "MIC"
 ---
 # LEY DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO DE 2024 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+
+(REPUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023)
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 21 de noviembre de 2014.
 
@@ -213,7 +217,7 @@ XVII. Expedir su Reglamento para su publicación en el Periódico Oficial;
 
 XVIII. Realizar visitas a localidades donde existan actos que puedan derivar en la probable violación a los Derechos Humanos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE OCTUBRE DE 2023)</small>
+(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADA, P.O. 24 DE NOVIEMBRE DE 2023)
 
 XIX. Prestar sus servicios de manera permanente en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes, destinando recursos humanos y materiales suficientes para ello;
 
@@ -1600,6 +1604,8 @@ P.O. 23 DE ENERO DE 2023.
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 P.O. 25 DE OCTUBRE DE 2023.
+
+REPUBLICADO, P.O. 24 DE NOVIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 465 POR EL QUE “SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 13 DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO”.]
 
