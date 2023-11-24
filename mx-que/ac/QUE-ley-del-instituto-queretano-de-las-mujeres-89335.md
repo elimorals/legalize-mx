@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-instituto-queretano-de-las-mujeres-89335"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-30"
-last_updated: "2022-07-01"
+last_updated: "2023-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DEL INSTITUTO QUERETANO DE LAS MUJERES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO QUERETANO DE LAS MUJERES, PUBLICADA EN EL P.O. DE 24 DE NOVIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL INSTITUTO QUERETANO DE LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 30 de agosto de 2012.
 
@@ -666,3 +668,31 @@ Artículo Primero. La presente Ley entrará en vigor el día siguiente al de su 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 24 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DEL INSTITUTO QUERETANO DE LAS MUJERES”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Querétaro “La Sombra de Arteaga”.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley (sic) Instituto Queretano de las Mujeres, publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" el 30 de agosto de 2012.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Por cuanto ve a los recursos para el ejercicio fiscal 2023 y subsecuentes, el Instituto Queretano de las Mujeres, deberán ajustarse al presupuesto que le fue autorizado en el Decreto del Presupuesto de Egresos del Estado de Querétaro del Ejercicio Fiscal 2023, y gestionar dentro de los Presupuestos de Egresos del Estado de Querétaro de los ejercicios que corresponda y estos sean debidamente aprobados; ello, de conformidad con lo establecido en la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones contenidas en esta Ley, relativas al proceso de elaboración del Programa Estatal de las Mujeres, serán aplicables a partir del periodo constitucional 2027-2032.
+
+###### ARTÍCULO SEXTO.
+
+La Directora General del Instituto Queretano de las Mujeres, deberá realizar de inmediato los trámites correspondientes para la obtención de los registros fiscales y administrativos que exijan las disposiciones legales, para la debida operación de la entidad paraestatal, así como de las cuentas bancarias, convenios y demás instrumentos jurídicos con instituciones públicas y privadas para el cumplimiento de su objeto.
