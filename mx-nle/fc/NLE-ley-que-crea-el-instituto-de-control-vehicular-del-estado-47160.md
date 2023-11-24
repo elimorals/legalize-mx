@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-control-vehicular-del-estado-47160
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2023-01-24"
+last_updated: "2023-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de diciembre de 2005.
 
@@ -91,59 +91,107 @@ XIV. Obtener financiamiento y créditos, así como aportar los activos e ingreso
 
 XV. Celebrar toda clase de convenios, actos jurídicos o administrativos, incluyendo transacciones y compromisos arbitrales, encaminados al cumplimiento de su objeto y al ejercicio de las facultades y obligaciones que esta Ley y los demás ordenamientos legales aplicables le impongan, sin perjuicio de las que en forma expresa le delegue el Ejecutivo del Estado o alguna instancia competente en los ámbitos relacionados con sus fines, así como llevar a cabo cualquier otra actividad o servicio conexos, complementarios, auxiliares o necesarios para el cumplimiento de su objeto.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-### Capítulo I Bis. Del Observatorio Ciudadano de Seguridad Vial
+### Capítulo I Bis. Del Observatorio Ciudadano de Movilidad y Seguridad Vial
 
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 3 Bis.
 
-El Observatorio Ciudadano de Seguridad Vial, es un órgano de participación ciudadana que tiene por objeto coadyuvar con el Instituto de Control Vehicular en el análisis de los incidentes de tránsito ocurridos en el Estado, su naturaleza, frecuencia, distribución, causas y consecuencias, para diseñar y, en su caso, proponer a las autoridades competentes las estrategias, programas y políticas públicas encaminadas a la prevención de estos hechos.
+El Observatorio Ciudadano de Movilidad y Seguridad Vial, es un órgano de participación ciudadana que tiene por objeto coadyuvar con el Instituto de Control Vehicular en el análisis de los incidentes de tránsito ocurridos en el Estado, su naturaleza, frecuencia, distribución, causas y consecuencias, para diseñar y, en su caso, proponer a las autoridades competentes las estrategias, programas y políticas públicas encaminadas a la prevención de estos hechos. Así como el estudio, investigación y propuestas; evaluación de las políticas públicas, programas y acciones; capacitación a la comunidad; difusión de información y conocimientos sobre la problemática de la movilidad, la accesibilidad, la eficiencia, la sostenibilidad, la calidad y la inclusión e igualdad y sus implicaciones en el ordenamiento territorial.
 
-El Instituto de Control Vehicular, destinara recursos humanos, materiales y económicos suficientes al Observatorio Ciudadano de Seguridad Vial para el desempeño de sus funciones.
+El Instituto de Control Vehicular, destinara recursos humanos, materiales y económicos suficientes al Observatorio Ciudadano de Movilidad y Seguridad Vial para el desempeño de sus funciones.
 
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-Artículo 3 Bis I.- El Observatorio Ciudadano de Seguridad Vial sesionará de forma ordinaria cada tres meses o las veces que estime necesaria (sic) su Presidente.
+Artículo 3 Bis I.- El Observatorio Ciudadano de Movilidad y Seguridad Vial sesionará de forma ordinaria cada tres meses o las veces que estime necesaria (sic) su Presidente.
 
-El Observatorio Ciudadano de Seguridad Vial se integrará por los siguientes miembros:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+El Observatorio Ciudadano de Movilidad y Seguridad Vial se integrará por los siguientes miembros:
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
 
 I. Un Presidente que pertenezca a una Organización de la Sociedad Civil;
 
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
+
 II. Un Secretario que será el Director General del Instituto de Control Vehicular o quien este designe;
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
 
 III. Tres representantes ciudadanos de los Observatorios Municipales del área metropolitana, los cuales serán rotativos cada año;
 
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
+
 IV. Un representante ciudadano de cada zona norte, sur, periférica y citrícola del Estado, designado por los Alcaldes de la región que corresponda de conformidad con el Reglamento;
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
 
 V. El titular de la Procuraduría General de Justicia del Estado o quien este designe;
 
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
+
 VI. El titular de la Secretaría de Salud Estatal o quien este designe;
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
 
 VII. Un representante de la Asociación de Transporte Público de Pasajeros de Nuevo León A.C.;
 
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
+
 VIII. Dos ciudadanos miembros del Consejo de Participación Ciudadana del Instituto de Control Vehicular;
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
 
 IX. Un representante de la Cruz Roja Mexicana;
 
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
+
 X. Un representante de los Hospitales Privados de la localidad;
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
 
 XI. Un representante de la Asociación Mexicana de Instituciones de Seguros (AMIS);
 
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
+
 XII. El titular de la Secretaría de Desarrollo Sustentable o quien éste designe;
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
 
 XIII. Un representante del Sector Académico Universitario del Estado, el cual será rotativo cada año;
 
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
+
 XIV. Un Diputado representante del H. Congreso del Estado; y
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
 
 XV. El Coordinador Estatal de la Policía Federal o quien este designe.
 
-Los integrantes del Observatorio Ciudadano de Seguridad Vial serán nombrados por el Consejo de Participación Ciudadana del Instituto de Control Vehicular.
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XVIII (SIC). Un representante de los pueblos indígenas y afromexicanos;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XIX. Un representante de las personas con discapacidad;
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+Los integrantes del Observatorio Ciudadano de Movilidad y Seguridad Vial serán nombrados por el Consejo de Participación Ciudadana del Instituto de Control Vehicular.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2018)</small>
 
 Las sesiones del Observatorio Ciudadano de Seguridad Vial serán válidas con la presencia de más de la mitad de sus integrantes y sus decisiones se tomarán con base en la mayoría de los presentes.
 
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2018)</small>
+
 Los miembros integrantes del Observatorio Ciudadano de Seguridad Vial duraran en su cargo tres años con posibilidad de ratificación por un solo periodo adicional; tendrán el carácter de honorífico por el desempeño del cargo no cobraran gratificación ni retribución.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2018)</small>
 
 El Observatorio Ciudadano de Seguridad Vial podrá emitir recomendaciones no vinculatorias a los entes de gobierno estatal y municipal sobre temas de carácter normativo, infraestructura vial, aplicación y usos de tecnología, educación y cultura vial, capacitación profesionalización y planeación de uso de espacios públicos.
 
@@ -177,43 +225,69 @@ XII. Celebrar convenios para intercambios de información con las instituciones 
 
 XIII. Emitir y publicar en sus portales electrónicos reportes trimestrales acerca de las estadísticas viales que resultan.
 
-El Observatorio Ciudadano de Seguridad Vial emitirá su Reglamento Interior, estableciendo los aspectos relacionados con la organización y funcionamiento del mismo, el procedimiento para la realización de las sesiones, sus procedimientos internos y demás para el cumplimiento de sus fines.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2018)</small>
+El Observatorio Ciudadano de Movilidad y Seguridad Vial emitirá su Reglamento Interior, estableciendo los aspectos relacionados con la organización y funcionamiento del mismo, el procedimiento para la realización de las sesiones, sus procedimientos internos y demás para el cumplimiento de sus fines.
 
-Artículo 3 Bis III.- El Presidente del Observatorio Ciudadano de Seguridad Vial, tendrá las siguientes facultades:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 3 Bis III.- El Presidente del Observatorio Ciudadano de Movilidad y Seguridad Vial, tendrá las siguientes facultades:
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
 
 I. Notificar a todos los miembros de las convocatorias de las sesiones del mismo;
 
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
+
 II. Presentar y proponer al Pleno el Proyecto de Reglamento Interior;
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
 
 III. Fungir como representante ante las distintas instancias de gobierno, organizaciones civiles y académicas;
 
-IV. Proponer al Pleno del Observatorio Ciudadano de Seguridad Vial el proyecto del Programa Anual de Actividades; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-V. Dar cumplimiento a los acuerdos del Pleno del Observatorio Ciudadano de Seguridad Vial. Para el ejercicio de sus facultades.
+IV. Proponer al Pleno del Observatorio Ciudadano de Movilidad y Seguridad Vial el proyecto del Programa Anual de Actividades; y
 
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-Artículo 3 Bis IV.- El Secretario Técnico del Observatorio Ciudadano de Seguridad Vial tendrá las siguientes facultades y atribuciones:
+V. Dar cumplimiento a los acuerdos del Pleno del Observatorio Ciudadano de Movilidad y Seguridad Vial. Para el ejercicio de sus facultades.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 3 Bis IV.- El Secretario Técnico del Observatorio Ciudadano de Movilidad y Seguridad Vial tendrá las siguientes facultades y atribuciones:
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
 
 I. Elaborar el Proyecto del Reglamento Interior;
 
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
+
 II. Dar seguimiento a los acuerdos aprobados;
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
 
 III. Fungir como enlace directo de colaboración y estudio con los observatorios viales municipales;
 
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
+
 IV. Elaborar el Plan anual de actividades;
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
 
 V. Formular las actas y acuerdos de las sesiones ordinarias y extraordinarias que celebre;
 
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
+
 VI. Colaborar con el Presidente en los asuntos que este le encomiende; y
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2018)</small>
 
 VII. Las demás facultades que le señale su Reglamento Interior.
 
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-Artículo 3 Bis V.- Las autoridades municipales y estatales designarán enlaces operativos a través de los cuales deberán dentro de los primeros quince días después de concluido cada mes, entregar la información del formato homologado y en general todo lo relacionado con los incidentes viales, a fin de cumplir con el objeto para el cual fue creado el Observatorio Ciudadano de Seguridad Vial.
+Artículo 3 Bis V.- Las autoridades municipales y estatales designarán enlaces operativos a través de los cuales deberán dentro de los primeros quince días después de concluido cada mes, entregar la información del formato homologado y en general todo lo relacionado con los incidentes viales, a fin de cumplir con el objeto para el cual fue creado el Observatorio Ciudadano de Movilidad y Seguridad Vial.
 
 ### Capítulo II. Del patrimonio del Instituto
 
@@ -607,6 +681,12 @@ Los titulares de las licencias son responsables del pago de las multas que se le
 
 No procederá el refrendo o la reposición de las licencias para conducir en tanto se encuentren vigentes sanciones que le hayan sido impuestas a su titular.
 
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 32 Bis.
+
+Los propietarios de vehículo eléctricos e híbridos, estarán exentos de la obligación de pago del refrendo vehicular anual.
+
 ### Capítulo VII. De la inscripción de gravámenes sobre vehículos
 
 ###### Artículo 33.
@@ -896,3 +976,25 @@ P.O. 24 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 277. SE ADICIONA LA FRACCIÓN VIII BIS AL ARTÍCULO 3 DE LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 443. POR EL QUE SE REFORMA (SIC) DIVERSOS ARTÍCULOS DE LA LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN; ASÍ COMO LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN; Y LA LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+SEGUNDO.- Los municipios, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán elaborar las reformas necesarias a los reglamentos de su competencia, a fin de armonizarlos con lo dispuesto en el presente Decreto.
+
+TERCERO.- Se concede un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto para que el Instituto de Movilidad y Accesibilidad de Nuevo León elabore las modificaciones al reglamento interno en los términos del presente decreto.
+
+CUARTO.- Se concede un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto para que el Instituto de Control Vehicular actualice su reglamento y elabore un plan estratégico para el registro y matriculado de los vehículos eléctricos.
+
+QUINTO.- El Sistema Estatal de Movilidad y Seguridad Vial deberá emitir la Estrategia Estatal de Movilidad y Seguridad Vial en un plazo no mayor a 365 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+SEXTO.- El Sistema Estatal de Movilidad y Seguridad Vial deberá integrarse y emitir los lineamientos para su organización y operación en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+SÉPTIMO.- En un plazo no mayor a 365 días naturales contados a partir de la entrada en vigor de la presente Ley, el Sistema Estatal de Movilidad y Seguridad Vial y los municipios, deberán integrar los registros, indicadores, y bases de datos en materia de movilidad y seguridad vial como parte del Sistema de Información Territorial y Urbano.
+
+OCTAVO.- Para efecto de lo establecido en el artículo 148 Bis de la Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León, se adoptará el principio pro usuario, considerando para la homologación en tarifas la más baja vigente al momento de la entrada en vigor de la presente reforma. Dicha tarifa deberá mantenerse como mínimo hasta el 1 de enero del año 2024.
+
+NOVENO.- En cuanto a lo referido a favor de propietarios de vehículos eléctricos e híbridos establecido en los artículos 124 Bis 7 de la Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León, 32 Bis de la Ley que Crea el Instituto de Control Vehicular del Estado de Nuevo León, y 14 Bis de la Ley que Regula la Expedición de Licencias para Conducir del Estado de Nuevo León, estos entrarán en vigor a partir del 01 de enero del 2024.
