@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2023-08-08"
+last_updated: "2023-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE NOVIEMBRE DE 2023.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -625,6 +625,16 @@ C. De las relaciones de las instituciones públicas de la Ciudad, con sus person
 9. Los conflictos laborales que se presenten entre las instituciones públicas de la Ciudad y sus personas trabajadoras, así como aquellos que se presenten entre organizaciones sindicales o al interior de estas, serán dirimidos por un Tribunal Burocrático en los términos establecidos por la ley.
 
 10. El Gobierno de la Ciudad será garante y responsable de todos los derechos de las personas trabajadoras del poder Ejecutivo y de sus alcaldías.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], G.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+11. Ninguna persona que se encuentre en los siguientes supuestos podrá ejercer un empleo, cargo o comisión en el servicio público, ni podrá registrarse como candidata a cargos de elección popular:
+
+a) Cuente con sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual;
+
+b) Cuente con sentencia firme por delitos de violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, o
+
+c) Se encuentre inscrita en el Registro de Deudores Alimentarios Morosos, a menos que acredite estar al corriente del pago, cancele esa deuda o se tramite el descuento correspondiente.
 
 D. Inversión social productiva
 
@@ -1758,7 +1768,9 @@ B. Presupuesto participativo
 
 Artículo 27
 
-Democracia representativa
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+Democracia representativa.
 
 A. Candidaturas sin partido
 
@@ -1787,6 +1799,10 @@ B. Partidos políticos
 7. La ley señalará:
 
 I. El contenido mínimo de los documentos básicos que rijan la vida interna de los partidos políticos locales y garantizará que estos sean democráticos, respeten los derechos de las y los militantes, candidatos y ciudadanos y contribuyan a la difusión de la cultura cívica democrática;
+
+> <small>(ADICIONADO, G.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+Asimismo, deberá establecer los mecanismos necesarios para que los partidos políticos garanticen la prevención, atención, sanción y erradicación de la violencia política en razón de género en sus procedimientos;
 
 II. Las obligaciones y prerrogativas a que se encuentran sujetos los partidos políticos en la Ciudad;
 
@@ -4421,3 +4437,13 @@ G.O. 8 DE AGOSTO DE 2023.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su publicación en la en la (sic) Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN NUMERAL 11 AL APARTADO C DEL ARTÍCULO 10 Y SE ADICIONA UN PÁRRAFO A LA FRACCIÓN PRIMERA, DEL NUMERAL 7 DEL APARTADO B DEL ARTÍCULO 27 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO”.]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente decreto entrará en vigor al día siguiente de su publicación, con excepción de las disposiciones en materia electoral, las cuales en términos del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, entrarán en vigor a partir del día siguiente a aquel en que concluya el proceso electoral local ordinario 2023-2024.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
