@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-asistencia-social-del-estado-de-michoacan-de-ocampo-1437
 country: "mx"
 rank: "ley"
 publication_date: "1987-05-14"
-last_updated: "2023-10-25"
+last_updated: "2023-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "MIC"
 ---
 # LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO DE 2024 EN EL P.O. DEL ESTADO DE MICHOACÁN DE OCAMPO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+
+(REPUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023)
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 14 de mayo de 1987.
 
@@ -213,7 +217,7 @@ II. Apoyar el desarrollo de la familia y de la comunidad;
 
 III. Realizar acciones de apoyo educativo, para la integración social y de capacitación para el trabajo, a los sujetos de la asistencia social;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+(REFORMADA, P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADA, P.O. 24 DE NOVIEMBRE DE 2023)
 
 IV. Promover e impulsar el sano crecimiento físico, mental y social de la niñez. Una de las acciones, para este fin, será prestar sus servicios de manera permanente en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes, destinando recursos humanos y materiales suficientes para ello;
 
@@ -670,6 +674,8 @@ P.O. 25 DE SEPTIEMBRE DE 2023.
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 P.O. 25 DE OCTUBRE DE 2023.
+
+REPUBLICADO, P.O. 24 DE NOVIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 465 POR EL QUE “SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 9° DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
