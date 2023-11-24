@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asentamientos-humanos-ordenamiento-territorial-y-133300"
 country: "mx"
 rank: "ley"
 publication_date: "2019-02-05"
-last_updated: "2023-07-18"
+last_updated: "2023-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 5 de febrero de 2019.
 
@@ -2705,9 +2705,17 @@ XI. La aplicación de tecnologías que protejan el ambiente, ahorren energía, r
 
 XII. La promoción de la construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos que garantice el acceso universal a espacios públicos seguros, inclusivos y accesibles, en especial para mujeres, niñas, niños, adultos mayores y personas con discapacidad;
 
-XIII. La prevención, vigilancia y control de los procesos de ocupación irregular de la tierra; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XIV. El otorgamiento de incentivos fiscales, tarifarios y crediticios para inducir el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano.
+XIII. La prevención, vigilancia y control de los procesos de ocupación irregular de la tierra;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XIV. El otorgamiento de incentivos fiscales, tarifarios y crediticios para inducir el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano; y
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XV. El fomento y aplicación de tecnologías factibles y ambientalmente adecuadas para la mayor autosuficiencia, sustentabilidad y protección ambiental, incluyendo la aplicación de azoteas o techos verdes y jardines verticales.
 
 ###### Artículo 204.
 
@@ -3772,3 +3780,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los municipios del Estado deberán implementar los mecanismos necesarios para regularizar los asentamientos humanos de usos habitacionales, comerciales, de servicios, industriales, espacios abiertos e infraestructura, de acuerdo a las competencias establecidas en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Tamaulipas, estableciendo plazos necesarios para tales efectos, pudiendo abstenerse de imponer sanciones económicas durante estos periodos.
+
+P.O. 24 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-711 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XIII Y XIV, Y SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 203, DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
