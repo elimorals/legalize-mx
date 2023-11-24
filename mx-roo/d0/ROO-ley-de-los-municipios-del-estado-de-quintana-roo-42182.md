@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2023-11-23"
+last_updated: "2023-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -859,7 +859,7 @@ I. En materia de gobierno y régimen interior:
 
 a) Presentar ante la Legislatura del Estado, las iniciativas de ley o de decreto que estime convenientes conforme a lo dispuesto por la fracción III del Artículo 68 de la Constitución Política del Estado;
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 b) Cumplir y hacer cumplir las leyes, decretos y disposiciones federales, estatales y municipales, proveyendo en la esfera administrativa, dentro del ámbito de su competencia, a su exacta observancia.
 
@@ -909,7 +909,7 @@ r) Promover las acciones legales correspondientes, cuando los Gobiernos Federal 
 
 s) Resolver, conforme a las disposiciones de esta ley, sobre las solicitudes de enajenación de bienes del dominio privado del Municipio, así como sobre el cambio de situación jurídica de bienes del dominio público a bienes del dominio privado municipal;
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 t) Solicitar la comparecencia de las personas titulares de las dependencias del Municipio, cuando se estudie o discuta un asunto relacionado con el área de su competencia.
 
@@ -1281,25 +1281,27 @@ Si una o más de las personas integrantes de una Comisión tuviesen interés per
 
 Las Comisiones tendrán la facultad de realizar tareas de investigación, vigilancia y control sobre las dependencias de la administración pública municipal.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 84.
 
-Las Comisiones en ejercicio de sus funciones, tendrán facultades suficientes para solicitar por escrito a los servidores públicos de la administración municipal, la información que requieran para el despacho de los asuntos de su conocimiento.
+Las Comisiones en ejercicio de sus funciones, tendrán facultades suficientes para solicitar por escrito a las personas servidoras públicas de la administración municipal, la información que requieran para el despacho de los asuntos de su conocimiento.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 85.
 
-Previa autorización de la persona titular de la Presidencia Municipal, las Comisiones podrán llamar a comparecer a las personas titulares de las dependencias administrativas municipales, a efecto de que les informen, cuando así se requiera, sobre el estado que guardan los asuntos de su dependencia.
+Las Comisiones en ejercicio de sus funciones, tendrán facultades suficientes para llamar a comparecer a las personas titulares de las dependencias administrativas municipales, a efecto de que les informen, cuando así se requiera, sobre el estado que guardan los asuntos de su dependencia, o se discutan cuestiones relacionadas con el ámbito de su competencia.
 
 ###### ARTÍCULO 86.
 
 Las Comisiones propondrán al Ayuntamiento los proyectos de solución a los problemas sometidos a su conocimiento, a efecto de atender todos los ramos de la administración pública municipal, mediante resoluciones de los asuntos turnados.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 87.
 
-Las Comisiones podrán presentar para su aprobación, proyectos de modificación a los Reglamentos Municipales y al Bando de Policía y Gobierno, así como a las demás disposiciones administrativas de observancia general o, en su caso, de reformas y adiciones a los mismos.
+Las Comisiones podrán presentar para su aprobación, proyectos de modificación a los Reglamentos Municipales, al Bando de Policía y Gobierno, así como a las demás disposiciones administrativas de observancia general o, en su caso, de reformas y adiciones a los mismos.
 
 ###### ARTÍCULO 88.
 
@@ -3990,3 +3992,13 @@ P.O. 23 DE NOVIEMBRE DE 2023.
 PRIMERO. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 24 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 115 POR EL QUE SE REFORMAN LOS INCISOS B) Y T) DE LA FRACCIÓN I DEL ARTÍCULO 66, ASÍ COMO LOS ARTÍCULOS 84, 85 Y 87 TODOS DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos del Estado, deberán realizar las adecuaciones que correspondan a su normatividad aplicable, a efecto de dar cumplimiento a su contenido.
