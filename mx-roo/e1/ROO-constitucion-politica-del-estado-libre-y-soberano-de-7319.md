@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2023-08-29"
+last_updated: "2023-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -620,6 +620,10 @@ Toda persona tiene derecho al acceso, disposición y saneamiento de agua para co
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2021)</small>
 
 Toda persona tiene derecho a gozar individual y colectivamente de un medio ambiente sano para su desarrollo y bienestar, así como el deber de conservarlo en beneficio de las generaciones presentes y futuras. El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por la Ley. El Estado garantizará el respeto a este Derecho.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+Así mismo, esta Constitución reconoce a los animales como seres sintientes y sujetos de consideración moral, por lo tanto, deben recibir trato digno. En el territorio del Estado de Quintana Roo, toda persona tiene el deber ético y obligación jurídica de respetar la vida, salud y la integridad así como el trato digno y respetuoso de los animales, en los términos que disponga la Ley, siendo responsabilidad de las autoridades Estatales y Municipales, en el ámbito de sus respectivas competencias, atribuciones y facultades, garantizar la protección, bienestar, salud, vida, así como el trato digno y respetuoso de los animales, fomentando una cultura de cuidado y tutela responsable, debiendo realizar acciones para la atención de animales en abandono o que hayan sido objeto de maltrato, en los términos que disponga la Ley.
 
 Es una obligación fundamental del Estado, con la activa participación de la sociedad, garantizar que la población se desenvuelva en un ambiente sano. El Estado y los Municipios dictarán, en el ámbito de sus respectivas competencias, las medidas que deberán llevar a cabo las autoridades para garantizar su protección, preservación, restauración y mejoramiento.
 
@@ -5662,6 +5666,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 29 DE AGOSTO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DE LA “PROMULGACIÓN DEL DECRETO DE DECLARATORIA NÚMERO 003 POR EL QUE SE REFORMA EL ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 118 POR EL QUE SE ADICIONA UN PÁRRAFO SEXTO Y SE RECORREN EN SU ORDEN LOS SUBSECUENTES AL ARTÍCULO 31 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
