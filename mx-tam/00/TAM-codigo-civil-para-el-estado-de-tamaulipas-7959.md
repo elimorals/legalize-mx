@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2023-09-22"
+last_updated: "2023-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -47,7 +47,9 @@ ART. 2.- Las disposiciones de este Código son supletorias de las otras leyes de
 
 ART. 3.- Contra la observancia de la ley no puede alegarse desuso, costumbre o práctica en contrario.
 
-ART. 4.- La ignorancia de las leyes no excusa su cumplimiento; pero los jueces, teniendo en cuenta el notorio atraso intelectual de algunos individuos, su apartamiento de las vías de comunicación o su miserable situación económica, podrán, con audiencia del Ministerio Público, eximirlos de las sanciones en que hubieren incurrido por la falta de cumplimiento de la ley que ignoraban, o de ser posible, concederles un plazo para que la cumplan, siempre que no se trate de leyes que afecten directamente al interés público.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+ART. 4.- La ignorancia de las leyes no excusa su cumplimiento; pero los jueces, teniendo en cuenta la discapacidad intelectual de algunas personas, su falta de instrucción, su conformación cultural, su apartamiento de las vías de comunicación o su extrema pobreza, podrán, con audiencia del Ministerio Público, eximirlos de las sanciones en que hubieren incurrido por la falta de cumplimiento de la ley que ignoraban, o de ser posible, concederles un plazo para que la cumplan, siempre que no se trate de leyes que afecten directamente al interés público.
 
 ART. 5.- Las disposiciones de este Código se aplican a todos los habitantes del Estado.
 
@@ -10932,6 +10934,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 22 DE SEPTIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-629 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS; DE LA LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE CONCUBINATO Y FUNCIONES DEL REGISTRO CIVIL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-714 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 4, DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
