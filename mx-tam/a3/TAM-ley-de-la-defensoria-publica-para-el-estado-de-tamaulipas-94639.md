@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-defensoria-publica-para-el-estado-de-tamaulipas-94639
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-07"
-last_updated: "2023-06-06"
+last_updated: "2023-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA DEFENSORÍA PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Anexo al Extraordinario No. 3 del Periódico Oficial del Estado de Tamaulipas, el viernes 7 de junio de 2013.
 
@@ -57,9 +57,11 @@ IV. Organizar la integración, funcionamiento, competencia y administración del
 
 V. Establecer el servicio profesional de carrera para los servidores públicos adscritos al Instituto de Defensoría Pública del Estado.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 2.
 
-El servicio de Defensoría Pública se prestará bajo los principios de gratuidad, calidad, profesionalismo, obligatoriedad, legalidad, honradez, probidad, lealtad, eficiencia, confidencialidad, continuidad e indivisibilidad.
+El servicio de Defensoría Pública se prestará bajo los principios de gratuidad, calidad, profesionalismo, obligatoriedad, legalidad, honradez, probidad, lealtad, eficiencia, confidencialidad, continuidad, actualización constante e indivisibilidad.
 
 ###### ARTÍCULO 3.
 
@@ -221,7 +223,9 @@ IX. Decidir sobre el otorgamiento de estímulos y recompensas, así como la apli
 
 X. Conceder o negar licencias al personal del Instituto para separarse temporalmente de sus funciones, con independencia de las contempladas en la Ley del Trabajo de los Servidores Públicos del Estado; al Director General le podrán ser autorizadas las licencias por el Secretario General de Gobierno;
 
-XI. Establecer sistemas de formación, capacitación, evaluación y profesionalización;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XI. Establecer sistemas de formación, capacitación, evaluación y profesionalización, procurando que los Defensores Públicos y Asesores Públicos, acudan a cursos de actualización relacionados con el desempeño de sus funciones.
 
 XII. Efectuar periódicamente reuniones con los servidores públicos de la institución con objeto de homologar criterios y analizar su desempeño;
 
@@ -928,3 +932,15 @@ P.O. 6 DE JUNIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-713 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2; Y 12, FRACCIÓN XI, DE LA LEY DE LA DEFENSORÍA PÚBLICA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las acciones que se implementen con motivo del presente Decreto, se realizarán de conformidad con la capacidad presupuestal del Instituto de la Defensoría Pública del Estado.
