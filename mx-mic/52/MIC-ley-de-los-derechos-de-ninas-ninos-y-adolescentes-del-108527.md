@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2023-10-25"
+last_updated: "2023-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,15 @@ state: "MIC"
 ---
 # LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>[N. DE E. EL DECRETO 465 CUENTA CON UNA SEGUNDA PUBLICACIÓN ACTUALIZADA EN EL PERIÓDICO OFICIAL NÚMERO 32 DE FECHA 24 DE NOVIEMBRE DE 2023.]</small>
+> <small>[N. DE E. ESTE ORDENAMIENTO ES UNA REPUBLICACIÓN ACTUALIZADA DE LA PUBLICACIÓN DEL PERIÓDICO OFICIAL NÚMERO 10 DE FECHA 25 DE OCTUBRE DE 2023.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO DE 2024 EN EL P.O. DEL ESTADO DE MICHOACÁN DE OCAMPO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+
+(REPUBLICADA EN PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023)
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -1473,11 +1477,11 @@ Los principios de esta Ley orientarán la actuación de las autoridades gubernam
 
 Corresponde a las autoridades estatales y municipales, en el ámbito de sus atribuciones, garantizar a niñas, niños y adolescentes la protección y el ejercicio de sus derechos y la aplicación de medidas necesarias para su bienestar, tomando en cuenta el interés superior de la niñez y adolescencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2023)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADO, P.O. 24 DE NOVIEMBRE DE 2023)
 
 ###### Artículo 70.
 
-A fin de garantizar el cumplimiento de los derechos establecidos en esta Ley, las autoridades estatales y municipales competentes, en ejercicio de las atribuciones que les otorgue la presente Ley, dispondrán lo necesario para que en el Estado se cumpla (sic):
+A fin de garantizar el cumplimiento de los derechos establecidos en esta Ley, las autoridades estatales y municipales competentes, en ejercicio de las atribuciones que les otorgue la presente Ley, dispondrán lo necesario para que en el Estado se cumpla:
 
 I. Las obligaciones de ascendientes o tutores o de cualquier persona que tenga a su cargo el cuidado de niñas, niños y adolescentes, especialmente de protegerlos contra toda forma de abuso o maltrato. Así como, tratarlos con respeto a su dignidad, cuidarlos, atenderlos y orientarlos a fin de que conozcan sus derechos, aprendan a defenderlos y a respetar los (sic) de las otras personas;
 
@@ -1485,15 +1489,15 @@ II. La implementación de cursos y programas educativos destinados a servidores 
 
 III. La obligación de familiares, vecinos, médicos, maestros, trabajadores sociales, servidores públicos o cualquier persona que tenga conocimiento de casos de niñas, niños y adolescentes que estén sufriendo la violación de los derechos consignados en esta Ley, en cualquiera de sus formas y de ponerlo en conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente; y,
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+(REFORMADA, P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADA, P.O. 24 DE NOVIEMBRE DE 2023)
 
 IV. En las instituciones educativas, de recreación, esparcimiento y deporte, la obligación de los educadores o maestros de respetar los derechos de niñas, niños y adolescentes, a efecto de evitar cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación; y,
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE OCTUBRE DE 2023)</small>
+(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADA, P.O. 24 DE NOVIEMBRE DE 2023)
 
 V. La creación de Centros de Atención y Justicia para Niñas, Niños y Adolescentes.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 25 DE OCTUBRE DE 2023)</small>
+(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADO, P.O. 24 DE NOVIEMBRE DE 2023)
 
 ###### Artículo 71.
 
@@ -1561,15 +1565,15 @@ XXIV. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable 
 
 XXV. Establecer mecanismos para impedir el acceso a espectáculos que promuevan o difundan violencia de cualquier tipo, que pongan en riesgo la salud mental y física de las niñas, niños y adolescentes;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XXVI. Promover campañas de difusión para prevenir cualquier forma de maltrato o violencia, de venta, trata de personas, explotación, abandono o crueldad, abuso sexual, psicológico o físico; y,
+XXVI. Promover campañas de difusión para prevenir cualquier forma de maltrato o violencia, de venta, trata de personas, explotación, abandono o crueldad, abuso sexual, psicológico o físico;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+(REFORMADA, P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADA, P.O. 24 DE NOVIEMBRE DE 2023)
 
 XXVII. Atender oportunamente y canalizar a las instancias correspondientes los posibles casos de violencia en contra de niñas, niños y adolescentes con base en el Protocolo de Atención Inmediata; y,
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE OCTUBRE DE 2023)</small>
+(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADA, P.O. 24 DE NOVIEMBRE DE 2023)
 
 XXVIII. Coordinarse para establecer los Centros de Atención y Justicia para Niñas, Niños y Adolescentes.
 
@@ -1637,7 +1641,7 @@ XXII. Dotar de recursos económicos, materiales y humanos suficientes, a las ins
 
 XXIII. Cualquier otra prevista en las disposiciones jurídicas aplicables para el cumplimiento de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2023)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADO, P.O. 24 DE NOVIEMBRE DE 2023)
 
 ###### Artículo 73.
 
@@ -1667,15 +1671,15 @@ X. Coadyuvar en la integración del sistema de información a nivel nacional de 
 
 XI. Impulsar la participación de las organizaciones privadas dedicadas a la protección, promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales; en la medida que favorezca a la salvaguarda del interés superior de la niñez y adolescencia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XII. Detectar y canalizar los posibles casos de violencia y acoso sexual en contra de niñas, niños y adolescentes en los ámbitos escolar y familiar de conformidad con el Protocolo de Atención Inmediata; y,
+XII. Detectar y canalizar los posibles casos de violencia y acoso sexual en contra de niñas, niños y adolescentes en los ámbitos escolar y familiar de conformidad con el Protocolo de Atención Inmediata;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE OCTUBRE DE 2023)</small>
+(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADA, P.O. 24 DE NOVIEMBRE DE 2023)
 
 XIII. Colaborar, conforme a sus atribuciones, en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes; y,
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE OCTUBRE DE 2023)</small>
+(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADA, P.O. 24 DE NOVIEMBRE DE 2023)
 
 XIV. Las demás que establezcan las autoridades estatales y municipales y aquellas que deriven del cumplimiento de lo dispuesto en la Ley General.
 
@@ -1777,7 +1781,7 @@ En el ejercicio de sus funciones, la Procuraduría de Protección podrá solicit
 
 Para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de niñas, niños y adolescentes, la Procuraduría Estatal de Protección deberá establecer contacto y trabajar conjuntamente con las autoridades administrativas de asistencia social, de servicios de salud, de educación, de protección social, de cultura, deporte y con todas aquellas con las que sea necesario para garantizar los derechos de niñas, niños y adolescentes.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 25 DE OCTUBRE DE 2023)</small>
+(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADO, P.O. 24 DE NOVIEMBRE DE 2023)
 
 ###### Artículo 77.
 
@@ -1843,15 +1847,15 @@ XIV. Supervisar la ejecución de las medidas especiales de protección de niñas
 
 XV. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XVI. Ser parte de la Comisión de Atención Inmediata y participar en las acciones coordinadas que establezca el Protocolo de Atención Inmediata para atender de manera oportuna los posibles casos de violencia sexual en contra de niñas, niños y adolescentes; y,
+XVI. Ser parte de la Comisión de Atención Inmediata y participar en las acciones coordinadas que establezca el Protocolo de Atención Inmediata para atender de manera oportuna los posibles casos de violencia sexual en contra de niñas, niños y adolescentes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE OCTUBRE DE 2023)</small>
+(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADA, P.O. 24 DE NOVIEMBRE DE 2023)
 
 XVII. Prestar sus servicios en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes; y,
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE OCTUBRE DE 2023)</small>
+(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADA, P.O. 24 DE NOVIEMBRE DE 2023)
 
 XVIII. Las demás que les confieran otras disposiciones aplicables.
 
@@ -2119,11 +2123,11 @@ En casos excepcionales, el Presidente Municipal podrá ser suplido por el Síndi
 
 Los integrantes del Sistema Municipal de Protección Integral nombrarán un suplente que deberá tener el nivel inmediato inferior al que le corresponda a su titular.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE OCTUBRE DE 2023)</small>
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADO, P.O. 24 DE NOVIEMBRE DE 2023)
 
 ### CAPÍTULO XXX BIS. CENTROS DE ATENCIÓN Y JUSTICIA PARA NIÑAS, NIÑOS Y ADOLESCENTES
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADO, P.O. 24 DE NOVIEMBRE DE 2023)
 
 Artículo 89 bis. Los Centros de Atención y Justicia para Niñas, Niños y Adolescentes son espacios especialmente diseñados para que las autoridades estatales que los integran presten sus servicios de manera coordinada, conforme al interés superior y al derecho de prioridad de niñas, niños y adolescentes.
 
@@ -2137,7 +2141,7 @@ Los Centros de Atención y Justicia para Niñas, Niños y Adolescentes estarán 
 
 Al menos existirá un Centro de Atención y Justicia para Niñas, Niños y Adolescentes, en cada distrito judicial que existen al interior del Estado.
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 Artículo 89 ter. Para el buen funcionamiento de los Centros, se deberá observar al menos lo siguiente:
 
@@ -2147,9 +2151,9 @@ II. A través de las autoridades que los integran, contar con médicos, psicólo
 
 III. En cada Centro existirá al menos un juzgado que tendrá el personal, competencia y funciones que apruebe el Consejo del Poder Judicial; y,
 
-IV. En cada Centro existirá al menos una agencia del ministerio público que tendrá el personal, competencia y funciones que instruya el Fiscal General del Estado. Además, habrá policías ministeriales y peritos pertenecientes a la Fiscalía General del Estado, quienes auxiliarán tanto al juez como al ministerio público en la medida que se requiera para decretar y ejecutar medidas de protección, y en su caso restituciones.
+IV. En cada Centro existirá al menos una Agencia del Ministerio Público que tendrá el personal, competencia y funciones que instruya el Fiscal General del Estado. Además, habrá policías ministeriales y peritos pertenecientes a la Fiscalía General del Estado, quienes auxiliarán tanto al juez como al ministerio público en la medida que se requiera para decretar y ejecutar medidas de protección, y en su caso restituciones.
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 Artículo 89 quáter. Las atribuciones del Director General de los Centros, serán las siguientes:
 
@@ -2171,7 +2175,7 @@ VIII. Desarrollar campañas permanentes de difusión, promoción, conocimiento, 
 
 IX. Brindar protección oportuna, a las niñas, niños y adolescentes para que se les atienda en igualdad de condiciones en todos los servicios prestados por los Centros;
 
-X. Coordinarse con las autoridades competentes que forman parte de los Centros para mejorar el acceso a la justicia de las niñas, niños y adolescentes;
+X. Coordinarse con las autoridades competentes que forman parte de los Centros para mejorar el acceso a la justicia de las Niñas, Niños y Adolescentes;
 
 XI. Supervisar que la atención brindada en los Centros, se otorgue bajo los principios establecidos en la presente Ley;
 
@@ -2492,6 +2496,26 @@ Tercero. Notifíquese al Poder Ejecutivo de Michoacán de Ocampo, para que sirva
 P.O. 25 DE OCTUBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 465 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 70, 71, 73 Y 77, SE ADICIONA EL CAPÍTULO XXX BIS DENOMINADO: CENTROS DE ATENCIÓN Y JUSTICIA PARA NIÑAS, NIÑOS Y ADOLESCENTES”, Y LOS ARTÍCULOS 89 BIS, 89 TER Y 89 QUÁTER A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. La Secretaría de Gobierno coordinará los trabajos interinstitucionales a efecto de que el Centro de Atención y Justicia para Niñas, Niños y Adolescentes de la ciudad de Morelia comience a operar a más tardar dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto. El Gobernador del Estado deberá designar al Director General a la entrada en funciones de este Centro, que será el encargado de la administración general de todos aquellos Centros al interior del Estado conforme se disponga en los lineamientos de coordinación a que alude el siguiente transitorio.
+
+Se deberán emitir lineamientos de coordinación que acuerden los titulares de los poderes, organismos autónomos, entidades y dependencias que forman parte del Centro, mismos que serán publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, sin menoscabo de la normatividad reglamentaria que se expida por cada autoridad para su personal y funciones.
+
+Para tal efecto y conforme al principio de prioridad de la niñez y adolescencia, se autoriza a los poderes Ejecutivo y Judicial de Michoacán, así como a las autoridades y organismos autónomos referidos en el presente Decreto, realizar las modificaciones conducentes en materia administrativa, reglamentaria y presupuestaria para dar cumplimiento al presente Decreto.
+
+El Consejo del Poder Judicial y el Titular del Poder Ejecutivo del Estado de Michoacán y su Secretaría de Gobierno, dispondrán realizar las adecuaciones reglamentarias, administrativas y presupuestales necesarias para la adscripción de los Centros de Atención y Justicia para Niñas, Niños y Adolescentes en dicha dependencia. Igualmente, la Fiscalía General de Justicia, la Comisión Estatal de los Derechos Humanos, la Comisión Estatal de Atención a Víctimas y Ayuntamientos, todos del Estado de Michoacán de Ocampo, así como las secretarías de Seguridad Pública y de Salud del Gobierno del Estado y el Sistema Estatal DIF realizarán las adecuaciones reglamentarias, administrativas y presupuestales necesarias para prestar sus servicios en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes, conforme al presente Decreto.
+
+Tercero. Conforme al principio de prioridad de la niñez y adolescencia, el Congreso del Estado de Michoacán, en el Presupuesto de Egresos inmediato posterior a la entrada en vigor del presente Decreto, al menos deberá destinar los recursos necesarios para la operación y funcionamiento de un Centro de Atención y Justicia para Niñas, Niños y Adolescentes en cada distrito judicial en el Estado. Los organismos autónomos y las autoridades vinculadas por el presente Decreto, también incluirán en su proyecto de Presupuesto los recursos necesarios.
+
+Lo anterior, no será impedimento para que dichos Centros comiencen a operar conforme al artículo segundo transitorio del presente Decreto, con los recursos con que cuenten los poderes Ejecutivo y Judicial y los organismos autónomos a la fecha.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+REPUBLICADO, P.O. 24 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 465.- ARTÍCULO PRIMERO.- SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 90 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN.- ARTÍCULO SEGUNDO.- SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XXVIII DEL ARTÍCULO 30 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MICHOACÁN.- ARTÍCULO TERCERO.- SE REFORMAN LOS ARTÍCULOS 70, 71, 73 Y 77 , SE ADICIONA EL CAPÍTULO XXX BIS DENOMINADO: CENTROS DE ATENCIÓN Y JUSTICIA PARA NIÑAS, NIÑOS Y ADOLESCENTES, Y LOS ARTÍCULOS 89 BIS, 89 TER Y 89 QUÁTER A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO CUARTO.- SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 37 DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO QUINTO.- SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 9° DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEXTO.- SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 13 DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO.- ARTÍCULO SÉPTIMO. SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 6º DE LA LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE MICHOACÁN".]
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
