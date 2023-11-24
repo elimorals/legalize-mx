@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-comision-de-derechos-humanos-del-estado-de-mexico-626
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-14"
-last_updated: "2023-10-30"
+last_updated: "2023-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 30 DE OCTUBRE DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Gaceta de Gobierno del Estado de México, el jueves 14 de agosto de 2008.
 
@@ -599,9 +597,19 @@ II. Un Secretario Técnico; y
 
 III. Cinco Consejeros Ciudadanos, de los cuales por lo menos, dos serán mujeres y uno de extracción indígena.
 
+> <small>(REFORMADO, G.G. 24 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 40.
 
-Para ser Consejero Ciudadano se requiere gozar de reconocido prestigio y estar en pleno goce y ejercicio de sus derechos políticos y civiles, así como contar con experiencia en derechos humanos.
+Para ser Consejero Ciudadano se deben cumplir con los requisitos siguientes:
+
+I. Ser mexicano en pleno goce y ejercicio de sus derechos políticos y civiles;
+
+II. Tener residencia efectiva en el territorio del Estado de México no menor de tres años anteriores al día de su designación;
+
+III. Acreditar su labor en la promoción, defensa, estudio o difusión de los derechos humanos dentro de la entidad;
+
+IV. No estar condenado mediante sentencia por los delitos contra el pleno desarrollo y la dignidad de la persona, contra el libre desarrollo de la personalidad y la identidad sexual, por incumplimiento de obligaciones, violencia familiar, así como por delitos contra la libertad, seguridad y tranquilidad de las personas, que amerite pena privativa de la libertad.
 
 ###### Artículo 41.
 
@@ -1572,3 +1580,11 @@ SEGUNDO. El presente Decreto entrará en vigor a los 30 días hábiles de la pub
 TERCERO. La Secretaría de Educación, Ciencia, Tecnología e Innovación y la Secretaría de Seguridad en coordinación con la Comisión de Derechos Humanos del Estado de México contarán con cuarenta y cinco días hábiles posteriores a la entrada en vigor de este Decreto, para la expedición del Protocolo de operativos o programas que impliquen la revisión o inspección de mochilas o bolsos de niñas, niños y adolescentes.
 
 CUARTO. Las autoridades educativas, deberán contar con carta firmada por los padres de familia, tutores o quienes ejerzan la patria potestad de los educandos, en la cual manifiestan su autorización para la revisión de mochilas o bolsos. Así mismo, se llevarán a cabo reuniones informativas y de participación con los educandos respecto de los objetivos del Protocolo, a efecto de ejecutar las acciones y medidas en términos de lo establecido en el artículo 2 de la Ley General de los Derechos de Niñas, Niños y Adolescentes para salvaguardar los derechos y principios contenidos en la misma.
+
+G.G. 24 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 213.- POR EL QUE SE REFORMA EL ARTÍCULO 40 DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
