@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2023-11-23"
+last_updated: "2023-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
@@ -415,11 +415,15 @@ Son atribuciones generales de las autoridades estatales y municipales a que se r
 
 I. Aplicar para todos los efectos las disposiciones de este Código;
 
-II. Formular, conducir, vigilar y evaluar políticas y proyectos ajustándose en su actuación al Plan Estatal de Desarrollo, al Programa Estatal de Desarrollo Sustentable y a los Planes Municipales de Desarrollo y Programas Municipales de Desarrollo Sustentable dentro del ámbito y marco legal aplicables;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+II. Formular, conducir, vigilar y evaluar políticas y proyectos ajustándose en su actuación al Plan Estatal de Desarrollo, al Programa Estatal de Desarrollo Sustentable y a los Planes Municipales de Desarrollo y Programas Municipales de Desarrollo Sustentable dentro del ámbito y marco legal aplicable. Asimismo, determinar los indicadores que permitan evaluar la aplicación del presente ordenamiento, e integrar los resultados al Sistema de Información Ambiental y de Recursos Naturales;
 
 III. Realizar las acciones de protección al medio ambiente con base en el principio de transversalidad de la política ambiental estatal;
 
-IV. Impulsar y aplicar programas de mejora regulatoria;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+IV. Impulsar y aplicar programas de mejora regulatoria, al tiempo de fomentar el aprovechamiento de la materia orgánica de los residuos sólidos urbanos en procesos de generación de energía, en coordinación con los municipios;
 
 V. Expedir Normas Ambientales Estatales en los casos previstos en el presente Código;
 
@@ -2363,9 +2367,21 @@ XXV. Transportación de Residuos: La acción de trasladar los residuos para su c
 
 XXVI. Tratamiento: El procedimiento mecánico, físico, químico, biológico o térmico, mediante el cual cambian las características de los residuos y se reduce su volumen o, de ser el caso, su peligrosidad, sin poner en peligro la salud de las personas y utilizándose métodos que produzcan el menor impacto al medio ambiente;
 
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXVI Bis. Tratamientos por Esterilización: Procedimientos que permiten, mediante radiación térmica, la muerte o inactivación de los agentes infecciosos contenidos en los residuos peligrosos;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXVI Ter. Termovalorización: Aprovechamiento de residuos orgánicos para la generación de energía eléctrica;
+
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 XXVII. Valorización: El principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXVII Bis. Vulnerabilidad: Conjunto de condiciones que limitan la capacidad de defensa o de amortiguamiento ante una situación de amenaza y confieren a las poblaciones humanas, ecosistemas y bienes, un alto grado de susceptibilidad a los efectos adversos que puede ocasionar el manejo de los materiales o residuos, que por sus volúmenes y características intrínsecas, sean capaces de provocar daños al ambiente;
 
 > <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
@@ -2682,6 +2698,14 @@ Los residuos sólidos urbanos y de manejo especial deberán ser manejados confor
 1. Quienes generen residuos de manejo especial son responsables de su manejo y disposición final. La transferencia de los mismos por la contratación de prestadores autorizados para el servicio de manejo de residuos, implica una responsabilidad solidaria en su manejo integral, para el prestador, en lo que respecta a la etapa del manejo para la que esté autorizado.
 
 2. El manejo que se haga de los residuos de manejo especial y peligrosos que tenga asignados el Estado deberá realizarse de manera segura y ambientalmente adecuada conforme a los términos de la Ley General de Residuos, este Código y las condicionantes contenidas en las autorizaciones respectivas.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+3. El co-procesamiento y la incineración de residuos, se restringirán a las condiciones que se establezcan en las leyes de la materia y en las normas oficiales mexicanas correspondientes, en las cuales se estipularán los grados de eficiencia y eficacia que deberán alcanzar los procesos, y los parámetros ambientales que deberán cumplirse a fin de verificar la prevención o reducción de la liberación al ambiente de sustancias contaminantes, particularmente de aquellas que son tóxicas. En los citados ordenamientos se incluirán especificaciones respecto a la caracterización analítica de los residuos susceptibles de co-procesamiento, así como de incineración y de las cenizas resultantes de la misma, y al monitoreo periódico de todas las emisiones sujetas a normas oficiales mexicanas, cuyos costos asumirán los responsables de las plantas de co-procesamiento o de incineración.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+4. Para el co-procesamiento de los residuos deberá seguirse la jerarquía de manejo de los residuos que determine la Secretaría Federal, y considerar las mejores técnicas disponibles por razones de viabilidad técnica, económica o de protección ambiental. En caso de que los residuos no sean susceptibles de ser reutilizados o reciclados, pero sean aptos para el co-procesamiento en procesos de producción industrial según lo dispuesto en el Reglamento de la Ley General y las normas oficiales mexicanas aplicables, dicho co-procesamiento podrá ser considerado parte del propio proceso industrial de producción, sin perjuicio de las disposiciones aplicables de la Ley de Infraestructura de la Calidad.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
@@ -5534,6 +5558,14 @@ Las capacitaciones obligatorias de todas y todos los servidores públicos en mat
 P.O. 23 DE NOVIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-673 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-712 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES II Y IV, DEL ARTÍCULO 10; Y SE ADICIONAN LAS FRACCIONES XXVI BIS, XXVI TER Y XXVII BIS AL ARTÍCULO 119; Y LOS NUMERALES 3 Y 4 AL ARTÍCULO 134, DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
