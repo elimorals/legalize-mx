@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-regula-la-expedicion-de-licencias-para-conducir-del-474
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-30"
-last_updated: "2022-06-10"
+last_updated: "2023-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de diciembre de 2005.
 
@@ -57,6 +57,10 @@ II. Autoridad municipal: Autoridad Estatal competente de cualesquiera de los mun
 
 III. Conductor: Persona física que conduce, maneja o tiene control físico de un vehículo automotor;
 
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+III Bis. Examen de valoración Integral: Conjunto de valoraciones físicas, médicas y de conocimiento en materia de reglamentos de transito previstos en esta Ley;
+
 IV. Identificación oficial: Credencial para votar con fotografía, pasaporte, cartilla militar, licencia de conducir expedida por la autoridad estatal competente o, en particular para casos de personas mayores de 16 años y menores de 18 años de edad, certificado de educación primaria o secundaria expedido por la Secretaría de Educación Pública;
 
 V. Impedimento administrativo: Resolución de la autoridad estatal o municipal mediante la cual se limita o prohíbe la conducción de vehículos automotores por incumplimiento de disposiciones legales o reglamentarias;
@@ -70,6 +74,10 @@ VII. Autoridad Estatal competente: Autoridad estatal competente en materia de ex
 VIII. Licencia: Licencia de conducir, que es el documento físico y/o digital para dispositivos móviles que expide la autoridad estatal, a fin de certificar que el titular de la misma tiene la capacidad física, los conocimientos y la habilidad necesaria para operar vehículos automotores de transporte terrestre. Las licencias en documento físico o en versión digital tendrán la misma validez legal y se les aplicarán las mismas disposiciones jurídicas;
 
 IX. Normativa: Disposiciones constitucionales, legales, reglamentarias o administrativas vigentes y aplicables;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+IX Bis. Siniestro de tránsito: Cualquier suceso, hecho, accidente o evento en la vía pública derivado del tránsito vehicular y de personas, en el que interviene por lo menos un vehículo y en el cual se causa la muerte o lesiones de alguno de los involucrados, incluidas en las que se adquiera alguna discapacidad, o se causen daños materiales;
 
 X. Base de Datos: Base de Datos de Conductores de Vehículos Automotores del Estado de Nuevo León; y
 
@@ -153,6 +161,30 @@ a) Provisional de automovilista: Máxima de dos años.
 
 b) Provisional de motociclista: Máxima de dos años.
 
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 8° Bis.
+
+El Estado y los Municipios, establecerán en su normativa aplicable que todas las personas que realicen el trámite para obtener o renovar una licencia o permiso de conducir, deberán acreditar el examen de valoración integral que demuestre su aptitud para ello, así como el examen teórico y práctico de conocimientos y habilidades necesarias, antes de la fecha de expedición o renovación de la licencia o permiso. Asimismo, podrán establecer que las licencias no tengan una vigencia mayor a cinco años de forma general y de dos años en el caso de licencias para la conducción de vehículos de emergencia, incluyendo aquellos para actividades de atención médica o policiaca y vehículos de transporte escolar.
+
+Para personas con discapacidad, el examen de valoración deberá realizarse en formatos accesibles, con ajustes razonables y ayudas técnicas pertinentes, para lo cual las autoridades competentes deberán emitir los lineamientos respectivos.
+
+Las autoridades competentes establecerán en sus respectivos reglamentos de tránsito que a las personas que sean sorprendidas manejando bajo el influjo del alcohol o cualquier droga, psicotrópico o estupefaciente, se les retire la licencia o permiso para conducir por un periodo no menor a un año y por un periodo no menor a seis meses en caso de conductores de transporte público o transporte de carga.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 8° Bis 1.
+
+El Estado y los Municipios, emitirán las disposiciones que regulen lo siguiente:
+
+I. Contenidos de los exámenes de valoración integral teórico y práctico de conocimientos y habilidades necesarias, atendiendo a los diferentes tipos de licencias y permisos, así como los requisitos de emisión y renovación;
+
+II. Protocolos y medidas para realizar los exámenes, así como para su evaluación;
+
+III. Un apartado específico con los requisitos con los que tienen que cumplir las autoridades para que se garantice que las personas con discapacidad puedan obtener su licencia en igualdad de condiciones, y
+
+IV. Las licencias que expidan las autoridades competentes podrán ser impresas en material plástico o de forma digital, mediante aplicaciones tecnológicas, mismas que permitirán la acreditación de las habilidades y requisitos correspondientes para la conducción del tipo de vehículo de que se trate y tendrán plena validez en territorio nacional.
+
 ###### Artículo 9º.
 
 Las licencias para conducir de automovilista son las que se expiden a los conductores de vehículos de servicio particular de pasajeros y vehículos medianos de servicio particular de carga, entendiéndose estos últimos como los vehículos que tengan un peso de hasta tres mil quinientos kilogramos.
@@ -222,6 +254,12 @@ Para la expedición de licencias especiales, reposición o renovación de las mi
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
 
 El curso de manejo deberá incluir una presentación audiovisual, por medio de la cual se les informará con relación a los inconvenientes y consecuencias de conducir a alta velocidad, en estado de voluntaria intoxicación ya sea bajo el efecto de las bebidas alcohólicas o intoxicado con cualquier sustancia, además de incluir los riesgos de los accidentes que se pueden ocasionar cuando al conducir vehículos motores se utilice teléfono celular, radio o cualquier aparato de comunicación, ya sea para hablar o enviar cualquier tipo de mensajes de texto utilizando dispositivos móviles de comunicación.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 14 Bis.
+
+Se les podrá condonar hasta el 50% de los derechos a los que hace referencia los incisos h) y j) del artículo anterior, a quien acredite la propiedad de un vehículo eléctrico o híbrido.
 
 ###### Artículo 15.
 
@@ -484,3 +522,25 @@ P.O. 10 DE JUNIO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se otorga un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto para que los Municipios lleven a cabo las adecuaciones a sus respectivos Reglamentos.
+
+P.O. 24 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 443. POR EL QUE SE REFORMA (SIC) DIVERSOS ARTÍCULOS DE LA LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN; ASÍ COMO LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN; Y LA LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+SEGUNDO.- Los municipios, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán elaborar las reformas necesarias a los reglamentos de su competencia, a fin de armonizarlos con lo dispuesto en el presente Decreto.
+
+TERCERO.- Se concede un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto para que el Instituto de Movilidad y Accesibilidad de Nuevo León elabore las modificaciones al reglamento interno en los términos del presente decreto.
+
+CUARTO.- Se concede un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto para que el Instituto de Control Vehicular actualice su reglamento y elabore un plan estratégico para el registro y matriculado de los vehículos eléctricos.
+
+QUINTO.- El Sistema Estatal de Movilidad y Seguridad Vial deberá emitir la Estrategia Estatal de Movilidad y Seguridad Vial en un plazo no mayor a 365 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+SEXTO.- El Sistema Estatal de Movilidad y Seguridad Vial deberá integrarse y emitir los lineamientos para su organización y operación en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+SÉPTIMO.- En un plazo no mayor a 365 días naturales contados a partir de la entrada en vigor de la presente Ley, el Sistema Estatal de Movilidad y Seguridad Vial y los municipios, deberán integrar los registros, indicadores, y bases de datos en materia de movilidad y seguridad vial como parte del Sistema de Información Territorial y Urbano.
+
+OCTAVO.- Para efecto de lo establecido en el artículo 148 Bis de la Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León, se adoptará el principio pro usuario, considerando para la homologación en tarifas la más baja vigente al momento de la entrada en vigor de la presente reforma. Dicha tarifa deberá mantenerse como mínimo hasta el 1 de enero del año 2024.
+
+NOVENO.- En cuanto a lo referido a favor de propietarios de vehículos eléctricos e híbridos establecido en los artículos 124 Bis 7 de la Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León, 32 Bis de la Ley que Crea el Instituto de Control Vehicular del Estado de Nuevo León, y 14 Bis de la Ley que Regula la Expedición de Licencias para Conducir del Estado de Nuevo León, estos entrarán en vigor a partir del 01 de enero del 2024.
