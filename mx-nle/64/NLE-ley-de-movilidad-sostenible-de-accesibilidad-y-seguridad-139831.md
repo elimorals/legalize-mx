@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-movilidad-sostenible-de-accesibilidad-y-seguridad-139831
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-08"
-last_updated: "2023-10-25"
+last_updated: "2023-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE MOVILIDAD SOSTENIBLE, DE ACCESIBILIDAD Y SEGURIDAD VIAL PARA EL ESTADO DE NUEVO LEON -- ANTES LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEON --
 
-LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN
+LEY DE MOVILIDAD SOSTENIBLE, DE ACCESIBILIDAD Y SEGURIDAD VIAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 8 de enero de 2020.
 
@@ -33,31 +33,47 @@ DECRETO
 
 NÚM ...... 260
 
-Artículo Único.- Se expide la Ley de Movilidad Sostenible y Accesibilidad para el Estado de Nuevo León.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+Artículo Único.- Se expide la Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León.
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO PRIMERO. OBJETO DE LA LEY
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+### CAPÍTULO PRIMERO. OBJETO DE LA LEY Y PRINCIPIOS DE MOVILIDAD Y SEGURIDAD VIAL
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social, tiene por objeto garantizar el derecho humano a la movilidad reconocido en el artículo 3 de la Constitución Política del Estado Libre y Soberano de Nuevo León, a fin de regular el efectivo desplazamiento de personas y bienes en el Estado.
+La presente Ley es de orden público e interés social y de observancia general en el Estado, y tiene por objeto garantizar el derecho humano a la movilidad reconocido en el artículo 49 de la Constitución Política del Estado Libre y Soberano de Nuevo León, en materia de movilidad y seguridad vial. Tiene por objeto establecer las bases y principios para garantizar el derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
 Las disposiciones de esta Ley tienen por objetivos específicos:
 
-I. Establecer las bases y directrices para planificar, regular y gestionar la movilidad de las personas y del transporte de bienes;
+I. Sentar las bases para la política de movilidad y seguridad vial, bajo un enfoque sistémico y de sistemas seguros, a través del Sistema Estatal de Movilidad y Seguridad Vial y la información proporcionada por el Sistema de Información Territorial y Urbano para priorizar el desplazamiento de las personas, particularmente de los grupos en situación de vulnerabilidad, así como bienes y mercancías, con base en la jerarquía de la movilidad señalada en esta Ley, que disminuya los impactos negativos sociales, de discriminación y desigualdad, económicos, a la salud, y al medio ambiente, con el fin de reducir muertes y lesiones graves ocasionadas por siniestros viales, para lo cual se debe preservar el orden y la seguridad vial;
 
-II. Garantizar el efectivo desplazamiento de las personas en condiciones de seguridad vial, calidad, igualdad y sustentabilidad;
+II. Definir mecanismos de coordinación entre las autoridades y la sociedad en materia de movilidad y seguridad vial;
 
-III. Definir la jerarquía de movilidad y los principios rectores a que deben sujetarse el Estado y Municipios en la elaboración de las disposiciones reglamentarias, políticas públicas, programas y demás ordenamientos que emanen de esta Ley;
+III. Establecer la concurrencia del Estado y de los Municipios en el ámbito de sus respectivas competencias para garantizar y regular la movilidad en el territorio de su competencia, así como la coordinación para la formulación de programas, políticas, y ejecución de acciones en materia de movilidad y seguridad vial, así como los mecanismos para su debida coordinación;
 
-IV. Establecer la concurrencia del Estado y de los Municipios para garantizar y regular la movilidad en el territorio de su competencia, así como la coordinación para la formulación de programas, políticas y ejecución de acciones;
+IV. Determinar los mecanismos que permitan la participación ciudadana efectiva en materia de movilidad y seguridad vial, así como la creación de espacios e instrumentos que garanticen la corresponsabilidad del gobierno y la ciudadanía en la formulación, seguimiento y evaluación de la política pública en la materia;
 
-V. Determinar los mecanismos que permitan la participación ciudadana efectiva en materia de movilidad, así como la creación de espacios e instrumentos que garanticen la corresponsabilidad del gobierno y la ciudadanía en la formulación, seguimiento y evaluación de la política pública en la materia;
+V. Regular las concesiones para la prestación de los servicios públicos de transporte de pasajeros, los contratos administrativos de operación, así como los permisos para la provisión de servicios para la movilidad y/o el transporte de carga en el Estado, conforme a los principios rectores de racionalización, modernización, uso adecuado y el mejor aprovechamiento de las vías, infraestructuras, servicios conexos y equipamientos en beneficio de la sociedad;
 
-VI. Regular las concesiones para la prestación de los servicios públicos de transporte de pasajeros, los contratos administrativos de operación, así como los permisos para la provisión de servicios para la movilidad y/o el transporte de carga en el Estado, conforme a los principios rectores de racionalización, modernización, uso adecuado y el mejor aprovechamiento de las vías, infraestructuras, servicios conexos y equipamientos en beneficio de la sociedad; y
+VI. El incremento gradual de ciclo vías, ciclo carriles, ciclo estacionamientos, biciestacionamientos, y demás relativos al fomento al uso de la bicicleta como medio de movilidad sostenible;
 
-VII. El incremento gradual de ciclo vías, ciclo carriles, ciclo estacionamientos, bici estacionamientos, y demás relativos al fomento al uso de la bicicleta como medio de movilidad sostenible.
+VII. Determinar los mecanismos y las acciones que promuevan y fomenten la sensibilización, formación, y cultura de la movilidad y seguridad vial, que permitan el ejercicio pleno de este derecho;
+
+VIII. Vincular la política de movilidad y seguridad vial, con un enfoque integral de la política de ordenamiento territorial y desarrollo urbano, y de manera transversal con las políticas sectoriales aplicables;
+
+IX. Definir la jerarquía de la movilidad y los principios rectores ante los cuales deben sujetarse las autoridades competentes, en la implementación de esta Ley, en la expedición de disposiciones reglamentarias y en la formulación y aplicación de políticas, programas y acciones en la materia;
+
+X. Establecer las bases para priorizar los modos de transporte de personas, bienes y mercancías, con menor costo ambiental y social, la movilidad no motorizada, vehículos no contaminantes, y la intermodalidad;
+
+XI. Establecer los mecanismos y las acciones para la gestión de factores de nesgo que permitan reducir las muertes y lesiones graves ocasionadas por siniestros viales, así como salvaguardar la vida e integridad física de las personas usuarias del sistema de movilidad, bajo un enfoque de sistemas seguros, y
+
+XII. Promover la toma de decisiones con base en evidencia científica y territorial en materia de movilidad y seguridad vial.
 
 ###### Artículo 2.
 
@@ -77,7 +93,9 @@ VI. La seguridad y comodidad de las personas que utilicen todos los servicios de
 
 VII. La infraestructura para la movilidad y mobiliario urbano de los servicios públicos de transporte de pasajeros que garantice la eficiencia en la prestación del servicio;
 
-VIII. La transición total, en forma gradual al uso de energía limpia en todos los medios de transporte público y privado del Estado;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+VIII. La transición total, en forma gradual, a la electromovilidad y al uso de energía limpia en todos los medios de transporte público y privado del Estado;
 
 IX. La reestructuración del servicio de transporte público; y
 
@@ -87,73 +105,241 @@ X. La ocupación y adquisición de los bienes públicos o privados necesarios pa
 
 A falta de disposición expresa en esta Ley de manera supletoria resultarán aplicables, los siguientes ordenamientos legales:
 
-I. Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-II. Código de Procedimientos Civiles para el Estado de Nuevo León.
+I. Ley General de Movilidad y Seguridad Vial;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+II. Ley de Justicia Administrativa para el Estado de Nuevo León; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+III. Código de Procedimientos Civiles para el Estado de Nuevo León.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 4.
 
-La movilidad es el derecho humano a realizar el efectivo desplazamiento propio, de pasajeros y bienes, mediante un sistema de movilidad que se ajuste a la jerarquía y principios que se establecen en este ordenamiento.
+La movilidad es un derecho humano que tiene como fin el que toda persona pueda trasladarse y disponer de un sistema integral de movilidad de calidad, suficiente, y accesible que, en condiciones de igualdad y sostenibilidad, permita el desplazamiento de personas, bienes y mercancías, el cual deberá contribuir al ejercicio y garantía de los demás derechos humanos, por lo que las personas serán el centro del diseño y del desarrollo de los planes, programas, estrategias, acciones en la materia, tanto en zonas urbanas como rurales.
 
-La accesibilidad es el derecho de acceso de las personas, en igualdad de condiciones con las demás, al entorno físico, el transporte, la información y las comunicaciones, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales.
+Por ello, tendrá las siguientes finalidades:
+
+I. La integridad física y la prevención de lesiones de todas las personas usuarias de las calles y de los sistemas de transporte, en especial de las personas en situación de vulnerabilidad;
+
+II. La accesibilidad de todas las personas, en igualdad de condiciones, con dignidad y autonomía, a las calles y a los sistemas de transporte; priorizando a los grupos en situación de vulnerabilidad;
+
+III. La movilidad eficiente de personas, bienes y mercancías;
+
+IV. La preservación y restauración del equilibrio ecológico ante los efectos del cambio climático;
+
+V. La calidad de los servicios de transporte y de la infraestructura vial;
+
+VI. La eliminación de los factores de exclusión o discriminación al usar los sistemas de movilidad, para que todas las personas gocen y ejerzan sus derechos en igualdad de condiciones;
+
+VII. La igualdad de oportunidades en el uso de los sistemas de movilidad;
+
+VIII. El dotar a todas las localidades del Estado con acceso a camino pavimentado, a una distancia no mayor de dos kilómetros; y
+
+IX. La promoción del máximo grado de autonomía de las personas en sus traslados y en el uso de los servicios.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 4 Bis.
+
+El Sistema de Movilidad debe contar con las condiciones necesarias que protejan al máximo posible la vida, salud e integridad física de las personas en sus desplazamientos por las vías públicas. Para ello, las autoridades competentes en el ámbito de sus atribuciones deberán privilegiar las acciones de prevención que disminuyan los factores de riesgo, a través de la generación de sistemas de movilidad con enfoque de sistemas seguros.
+
+Las leyes y reglamentos en la materia deberán contener criterios científicos y técnicos de protección y prevención, así como mecanismos apropiados para vigilar, regular y sancionar aquellos hechos que constituyan factores de riesgo.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 4 Bis 1.
+
+Las autoridades competentes, en el ámbito de sus atribuciones, deberán garantizar que la movilidad esté al alcance de todas las personas en igualdad de condiciones, sin discriminación de género, edad, discapacidad o condición, a costos accesibles y con información clara y oportuna, priorizando a los grupos en situación de vulnerabilidad, tanto en zonas urbanas como rurales.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 4 Bis 2.
+
+Las leyes y reglamentos en la materia contendrán las previsiones necesarias para garantizar, al menos, lo siguiente:
+
+I. Que los servicios de transporte prevean vehículos y entornos con diseño universal y en su caso, cuenten con ayudas técnicas para la accesibilidad de personas con discapacidad y movilidad reducida, con las acciones afirmativas y los ajustes razonables que se requieran para ello:
+
+II. Que las vías y el espacio público se diseñen contemplando infraestructura que permita que las personas con discapacidad y movilidad reducida se desplacen de manera segura, tales como rutas accesibles, señales auditivas, visuales, táctiles, rampas, entre otras;
+
+III. Que se contribuya a la accesibilidad de las personas con discapacidad y movilidad reducida, aportando especificaciones de diseño universal que permitan construir un entorno incluyente; y
+
+IV. Que las modalidades de transporte en las zonas remotas y de difícil acceso, contemplen rutas y servicios más seguros, incluyentes, accesibles y asequibles para las personas.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 4 Bis 3.
+
+Las autoridades deben, en todo tiempo, maximizar los desplazamientos ágiles y asequibles, tanto de personas como de bienes y mercancías, optimizando los recursos ambientales y económicos, así como hacer uso de las tecnologías de la información y comunicación disponibles.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 4 Bis 4.
+
+Las autoridades, en sus ámbitos de competencia, deberán satisfacer los requerimientos de movilidad, procurando los menores impactos negativos en la calidad de vida de las personas, en la sociedad y en el medio ambiente, asegurando las necesidades del presente, sin comprometer los derechos de futuras generaciones.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 4 Bis 5.
+
+Las políticas en materia de movilidad deberán fomentar la resiliencia de las personas, de la sociedad y del sistema de movilidad, frente a los efectos negativos del cambio climático.
+
+Asimismo, las autoridades competentes aplicarán medidas para controlar y reducir los efectos negativos en la sociedad y en el medio ambiente, derivados de las actividades de transporte, en particular, la congestión vehicular, la contaminación del aire, la emisión de gases de efecto invernadero, entre otras.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 4 Bis 6.
+
+Las políticas en materia de movilidad que se determinen por las autoridades, promoverán e incentivarán la gradual adopción de las innovaciones tecnológicas en los sistemas aplicados al transporte, vehículos, combustibles, fuentes de energía e infraestructura.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 4 Bis 7.
+
+Toda persona tiene derecho a buscar y acceder a información sobre el estado del sistema de movilidad, a fin de que puedan planear sus trayectos; calcular los tiempos de recorrido; conocer los horarios de operación del transporte público, las medidas de accesibilidad disponibles, la frecuencia de paso, los puntos de abordaje y descenso, evitar la congestión vial, y conocer el estado de funcionamiento del sistema de movilidad, así como la disponibilidad de los servicios auxiliares al transporte.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 4 Bis 8.
+
+El sistema de movilidad deberá ofrecer múltiples opciones de servicios y modos de transporte debidamente integrados, que proporcionen disponibilidad, calidad y accesibilidad; que satisfagan las necesidades de desplazamiento y que logren un sistema de integración física, operativa, informativa, de imagen y de modo de pago.
+
+Las autoridades procurarán proporcionar, de manera progresiva, servicios de transporte específico para personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 4 Bis 9.
+
+El sistema de movilidad debe ser igualitario, equitativo e inclusivo, por lo que las autoridades competentes deberán garantizar la equiparación de las oportunidades de la población para alcanzar un efectivo ejercicio de su derecho a la movilidad, independientemente del modo que utilice para trasladarse, poniendo especial énfasis en los grupos en situación de vulnerabilidad por condición física, social, económica, de género, edad u otra.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 4 Bis 10.
+
+Para cumplir con lo anterior, las autoridades competentes deberán diseñar y operar el sistema de movilidad respetando los siguientes criterios:
+
+I. Ajustes razonables: Para garantizar la igualdad e inclusión de los grupos en situación de vulnerabilidad, las autoridades competentes vigilarán que el sistema de movilidad se modifique y adapte en la medida necesaria y adecuada, sin que se impongan cargas desproporcionadas, cuando se requiera, para asegurar que las personas gocen o ejerzan sus derechos en igualdad de condiciones, con dignidad y autonomía.
+
+II. Diseño universal: Todos los componentes de los sistemas de movilidad deben seguir criterios de diseño que incluyan a todas las personas, independientemente de su condición y en igualdad de oportunidades, en el uso y goce de las calles y los servicios de movilidad, de acuerdo con las condiciones de cada centro de población; así como otorgarles las condiciones mínimas de infraestructura necesarias para ejercer el derecho a la movilidad;
+
+III. Perspectiva de género: El sistema de movilidad debe tener las condiciones adecuadas y diseñarse considerando estrategias que mejoren y faciliten el acceso e inclusión de las mujeres en un marco de seguridad y conforme a sus necesidades, con el fin de garantizar la igualdad de género.
+
+IV. Pluriculturalidad y multilingüismo: El espacio público y el sistema de transporte deben garantizar el respeto por la pluriculturalidad y deben contemplar mecanismos que garanticen la accesibilidad de las personas indígenas, afromexicanas, y con discapacidad en materia lingüística.
+
+V. Prioridad en el uso de la vía: El sistema de movilidad debe garantizar el uso equitativo del espacio público por parte de todas las personas usuarias, de acuerdo con la jerarquía de la movilidad y las necesidades territoriales de los centros de población.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 4 Bis 11.
+
+En todo proceso de carácter administrativo, penal o civil que se lleve a cabo como consecuencia de un siniestro de tránsito, las autoridades competentes deberán garantizar a las víctimas los siguientes derechos:
+
+I. Recibir la información, orientación y asesoría necesaria, de manera integral, para su eficaz atención y protección, a fin de que puedan tomar decisiones informadas y ejercer de manera efectiva todos sus derechos;
+
+II. Garantizar el respeto irrestricto a su dignidad, evitando cualquier elemento o situación que impida o dificulte el salvaguardar en todo momento el ejercicio pleno de sus derechos humanos;
+
+III. Respetar su privacidad e intimidad, en términos de lo establecido en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Nuevo León, y demás normatividad aplicable. Las autoridades competentes deberán evitar, en todo momento, la divulgación de la información contenida en los procesos administrativos, civiles y penales que pueda violentarla;
+
+IV. Recibir atención médica y psicológica de manera integral;
+
+V. Reparación integral del daño, en términos de la Ley de Víctimas del Estado de Nuevo León y demás disposiciones aplicables, para lo cual los procedimientos deben considerar las condiciones de vulnerabilidad que les afecten; y
+
+VI. Todos los demás derechos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nuevo León, los Tratados Internacionales en materia de derechos humanos de los que el Estado Mexicano es parte y demás instrumentos internacionales en la materia.
+
+En los procesos penales iniciados con motivo de un siniestro de tránsito en el que se hubiere actualizado algún tipo penal, las víctimas gozarán de los derechos establecidos en la Ley de Víctimas del Estado de Nuevo León.
+
+Para el cumplimiento de lo anterior, las autoridades deberán emitir los protocolos de actuación necesarios, que serán de observancia obligatoria para todas las personas servidoras públicas que se relacionen con la materia.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 5.
 
-El Estado proporcionará los medios necesarios para que las personas puedan elegir libremente la forma de trasladarse a fin de acceder a los bienes, servicios y oportunidades que ofrecen los Centros de Población. Para el establecimiento de la política pública en la materia se considerará el nivel de vulnerabilidad de los usuarios, las externalidades que genera cada modo de transporte y su contribución a la productividad. Se otorgará prioridad en la utilización del espacio vial y se garantizará la distribución de recursos presupuestales de acuerdo a la siguiente jerarquía de movilidad:
+El Estado proporcionará los medios necesarios para que las personas puedan elegir libremente la forma de trasladarse a fin de acceder a los bienes, servicios y oportunidades que ofrecen los Centros de Población.
 
-I. Peatones, con prioridad a personas con discapacidad o movilidad limitada;
+Para la planeación, diseño e implementación de las políticas públicas, planes y programas en materia de movilidad se considerará el nivel de vulnerabilidad de los usuarios, las externalidades que genera cada modo de transporte y su contribución a la productividad. Se otorgará prioridad en la utilización del espacio vial y se garantizará la distribución de recursos presupuestales de acuerdo a la siguiente jerarquía de movilidad:
 
-II. Ciclistas, transporte no motorizado y medios de micromovilidad;
+I. Personas peatonas, con un enfoque equitativo y diferenciado en razón de género, que dé prioridad a personas con discapacidad y movilidad reducida;
 
-III. Usuarios del servicio de transporte público y privado de pasajeros;
+II. Personas ciclistas y personas usuarias del transporte no motorizado y medios de micromovilidad;
 
-IV. Prestadores del servicio de transporte público y privado de pasajeros que utilicen energía limpia;
+III. Personas usuarias del servicio de transporte público y privado de pasajeros;
 
-V. Prestadores del servicio de transporte público y privado de pasajeros que utilicen combustible fósil;
+IV. Personas prestadoras del servicio de transporte público y privado de pasajeros que utilicen energía limpia;
 
-VI. Prestadores del servicio de transporte de carga y distribución de mercancías; y
+V. Personas prestadoras del servicio de transporte público y privado de pasajeros que utilicen combustible fósil;
 
-VII. Usuarios de transporte particular automotor.
+VI. Personas prestadoras del servicio de transporte de carga y distribución de bienes y mercancías: y
+
+VII. Personas usuarias de vehículos motorizados particulares.
+
+Las autoridades del Estado y los Municipios establecerán en sus respectivos reglamentos el uso prioritario de la vía a vehículos que presten servicios de emergencia, cuando la situación así lo requiera.
 
 En el ámbito de sus atribuciones, las autoridades en materia de movilidad deben contemplar lo dispuesto en este artículo como referente y fin último en la elaboración de políticas públicas y programas, procurando en todo momento su cumplimiento y protección.
 
+El Estado y los municipios deberán vigilar, regular, y sancionar aquellos hechos que se constituyan como factores de riesgo para la movilidad según los criterios técnicos y prácticos para la prevención de accidentes basados en comprobación científica, así como los mecanismos apropiados para dicho fin, previstos en el Reglamento.
+
 ### CAPÍTULO SEGUNDO. PRINCIPIOS
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 6.
 
-El Estado y los Municipios al diseñar e implementar sus programas, políticas, acciones de accesibilidad y movilidad, observarán los principios siguientes:
+El Estado y los Municipios, al diseñar e implementar sus programas, políticas, acciones de accesibilidad, movilidad y seguridad vial, observarán los principios siguientes:
 
-I. Accesibilidad Urbana. Promover una adecuada accesibilidad que genere cercanía y favorezca la relación entre diferentes actividades urbanas;
+I. Accesibilidad: Garantizar el acceso pleno en igualdad de condiciones, con dignidad y autonomía a todas las personas al espacio público, infraestructura, servicios, vehículos, transporte público y los sistemas de movilidad, tanto en zonas urbanas como rurales, mediante la identificación y eliminación de obstáculos y barreras de acceso, discriminación, exclusiones, restricciones físicas, culturales, económicas, así como el uso de ajustes razonables, ayudas técnicas y animales de asistencia, con especial atención a personas con discapacidad, movilidad reducida y grupos en situación de vulnerabilidad;
 
-II. Accesibilidad Universal. Garantizar el derecho de las personas de desplazarse por las vías públicas sin obstáculos y con seguridad independientemente de su condición;
+II. Asequibilidad: Garantizar condiciones óptimas para que las personas tengan acceso a los bienes y servicios de movilidad a un precio justo, a fin de incentivar el uso de los mismos y favorecer la economía personal de los usuarios;
 
-III. Asequibilidad. Garantizar condiciones óptimas para que las personas tengan acceso a los bienes y servicios de movilidad a un precio justo, a fin de incentivar el uso de los mismos y favorecer la economía personal de los usuarios;
+III. Calidad: Garantizar que los sistemas de movilidad, infraestructura, servicios, vehículos y transporte público cuenten con los requerimientos y las condiciones para su óptimo funcionamiento con propiedades aceptables para satisfacer las necesidades de las personas;
 
-IV. Calidad. Garantizar que los componentes del sistema de movilidad cuenten con los requerimientos y los aditamentos aceptables para cumplir con su función, inspeccionadas y autorizadas por la autoridad competente, producir el menor daño ambiental, ofrecer un espacio apropiado y confortable para las personas y encontrarse en buen estado, en condiciones higiénicas, de seguridad, y con mantenimiento regular, para proporcionar una adecuada experiencia de viaje en el menor tiempo posible y minimizando las externalidades;
+IV. Concurrencia de órdenes de gobierno: La coordinación de todas las autoridades en el ámbito de sus atribuciones en el cumplimiento de los objetivos de la presente Ley;
 
-V. Concurrencia de órdenes de gobierno. Coordinar a todas las autoridades en el ámbito de sus atribuciones en el cumplimiento de los objetivos de la presente Ley;
+V. Confiabilidad: Las personas usuarias de los servicios de transporte deben tener la certeza de que los tiempos de recorrido, los horarios de operación y los puntos de abordaje y descenso son predefinidos y seguros, de manera que se puedan planear los recorridos de mejor forma;
 
-VI. Eficiencia. Maximizar los desplazamientos ágiles y asequibles optimizando los recursos disponibles, sin que su diseño y operación produzcan externalidades negativas;
+VI. Diseño universal: Todos los componentes de los sistemas de movilidad deben seguir los criterios de diseño universal, a fin de incluir a todas las personas, independientemente de su condición y en igualdad de oportunidades, en el uso y goce de las calles y los servicios de movilidad, de acuerdo con las condiciones de cada centro de población; así como otorgarles las condiciones mínimas de infraestructura necesarias para ejercer el derecho a la movilidad;
 
-VII. Espacio Público: Generar condiciones para que el espacio público cumpla la función de articular los servicios, equipamientos, e infraestructura para la movilidad sostenible y la habitabilidad;
+VII. Eficiencia: Maximizar los desplazamientos ágiles y asequibles, tanto de personas usuarias como de bienes y mercancías, optimizando los recursos ambientales y económicos disponible (sic), sin que su diseño y operación produzcan externalidades negativas;
 
-VIII. Igualdad e Inclusión. Equiparar las oportunidades de la población para alcanzar un efectivo ejercicio de su derecho a la movilidad, poniendo especial énfasis en grupos en desventaja física, social y económica, para reducir mecanismos de exclusión;
+VIII. Equidad: Reconocer condiciones y aspiraciones diferenciadas para lograr el ejercicio de iguales derechos y oportunidades, para todas las personas, especialmente los grupos en situación de vulnerabilidad;
 
-IX. Innovación tecnológica. Emplear soluciones apoyadas en tecnología de punta, para almacenar, procesar, distribuir información que permita contar con nuevos sistemas, aplicaciones y/o servicios que contribuyan a una gestión eficiente, tendiente a la automatización y reducción de los errores en los desplazamientos;
+IX. Espacio Público: Generar condiciones para que el espacio público cumpla la función de articular los servicios, equipamientos, e infraestructura para la movilidad sostenible y la habitabilidad;
 
-X. Multimodalidad. Ofrecer a los diferentes grupos de usuarios opciones de servicios y modos de transporte integrados, que proporcionen al menor costo un recorrido de mayor distancia, disponibilidad, velocidad, y accesibilidad, que permitan reducir el uso del automóvil particular;
+X. Habitabilidad: Generar condiciones para que las vías cumplan con las funciones de movilidad y creación de espacio público de calidad, a través de la interacción social, la diversidad de actividades y la articulación de servicios, equipamientos e infraestructura;
 
-XI. Participación y corresponsabilidad social. Establecer un sistema de movilidad basado en soluciones colectivas, que resuelva los desplazamientos de toda la población y en el que se promuevan nuevos hábitos de movilidad, a través de la aportación de todos los actores sociales y tecnológicos, en el ámbito de sus capacidades y responsabilidades;
+XI. Igualdad e Inclusión: El Estado atenderá de forma incluyente, igualitaria y sin discriminación las necesidades de todas las personas en sus desplazamientos en el espacio público, infraestructura, servicios, vehículos, transporte público y los sistemas de movilidad;
 
-XII. Progresividad: gradualidad para lograr el pleno cumplimiento del derecho a la movilidad mediante la implementación permanente de políticas públicas que permitan una evolución favorable en el ámbito de protección jurídica de las personas;
+XII. Innovación tecnológica: Emplear soluciones apoyadas en tecnología de punta, para almacenar, procesar, distribuir información que permita contar con nuevos sistemas, aplicaciones y/o servicios que contribuyan a una gestión eficiente, tendiente a la automatización y reducción de los errores en los desplazamientos;
 
-XIII. Resiliencia. Lograr que el sistema de movilidad tenga capacidad para soportar situaciones fortuitas o de fuerza mayor, con una recuperación de bajo costo para la sociedad y al medio ambiente;
+XIII. Movilidad activa: La promoción de ciudades caminables, así como el uso de la bicicleta y otros modos de transporte no motorizados, como alternativas que fomenten la salud pública, la proximidad y la disminución de emisiones contaminantes;
 
-XIV. Seguridad Vial. Privilegiar las acciones de prevención de hechos de tránsito durante los desplazamientos, con el fin de proteger la integridad física de las personas y evitar la afectación a los bienes públicos y privados;
+XIV. Multimodalidad: Ofrecer múltiples modos y servicios de transporte para todas las personas usuarias, los cuales deben articularse e integrarse entre sí, y con la estructura urbana, proporcionar a menor costo un recorrido de mayor distancia, con disponibilidad, velocidad, y accesibilidad, para reducir la dependencia del vehículo particular motorizado;
 
-XV. Sostenibilidad y Energías Limpias. Solucionar los desplazamientos de personas y sus bienes, minimizando los efectos negativos, favoreciendo la calidad de vida y el medio ambiente, incentivar el uso de transporte público y no motorizado, impulsar el uso de energías limpias en los medios de transporte, impulsando y estableciendo la obligación de los concesionarios y permisionarios de transporte público y privado de pasajeros y transporte privado de carga, de utilizar el uso de energías limpias; y
+XV. Participación: Establecer mecanismos para que la sociedad, organismos empresariales de la iniciativa privada, así como a las organizaciones sociales y civiles, cuando se atiendan o discutan programas y proyectos que se refieran o afecten a alguno de dichos sectores, se involucre activamente en cada etapa del ciclo de la creación de política pública en materia de movilidad y seguridad vial, en un esquema basado en la implementación de metodologías de cocreación enfocadas en resolver las necesidades de las personas, y así establecer un sistema de movilidad basado en soluciones colectivas que promuevan nuevos hábitos de movilidad, a través de la aportación de diversos actores sociales en el ámbito de sus capacidades y nivel de responsabilidad;
 
-XVI. Transparencia y rendición de cuentas: Poner al alcance de los ciudadanos la información relacionada con el uso de los recursos públicos y de los recursos privados derivados de la prestación del servicio de transporte público a través de particulares. La información relacionada con tarifas del transporte público de pasajeros será considerada como pública, incluyendo la relativa a su recaudo por los prestadores del servicio, así como el estudio, dictaminación, discusión y resolución de sus incrementos.
+XVI. Perspectiva de género: Visión científica, analítica y política que busca eliminar las causas de la desigualdad, la injusticia y la jerarquización de las personas basada en el género y que promueve la igualdad entre mujeres y hombres;
+
+XVII. Progresividad: Garantizar que el derecho a la movilidad y sus derechos relacionados, estén en constante evolución, promoviéndolos de manera progresiva y gradual e incrementando constantemente el grado de su tutela, respeto, protección y garantía;
+
+XVIII. Resiliencia: Lograr que el sistema de movilidad tenga capacidad para soportar situaciones fortuitas o de fuerza mayor, con una recuperación breve y de bajo costo, tanto para la sociedad como para el medio ambiente;
+
+XIX. Seguridad: Se deberá proteger la vida y la integridad física de las personas en sus desplazamientos bajo el principio de que toda muerte o lesión por siniestros de tránsito es prevenible;
+
+XX. Seguridad Vial: Privilegiar las acciones de prevención de hechos de tránsito durante los desplazamientos, con el fin de proteger la integridad física de las personas y evitar la afectación a los bienes públicos y privados;
+
+XXI. Seguridad Vehicular: Aspecto de la seguridad vial enfocado en el desempeño de protección que brinda un vehículo de motor a las personas pasajeras y usuarias vulnerables, y demás usuarias de la vía, contra el riesgo de muerte o lesiones graves en caso de siniestro;
+
+XXII. Sostenibilidad y Energías Limpias: Satisfacer las necesidades de movilidad y solucionar los desplazamientos de personas y sus bienes, procurando los menores impactos negativos en el medio ambiente y la calidad de vida de las personas, garantizando un beneficio continuo para las generaciones actuales y futuras, minimizando los efectos negativos y favoreciendo la calidad de vida y el medio ambiente, incentivando el uso de transporte público y no motorizado, e impulsar el uso de energías limpias y la electromovilidad en los medios de transporte;
+
+XXIII. Transparencia y rendición de cuentas: Poner al alcance de los ciudadanos la información relacionada con el uso de los recursos públicos y de los recursos privados derivados de la prestación del servicio de transporte público a través de particulares. La información relacionada con tarifas del transporte público de pasajeros será considerada como pública, incluyendo la relativa a su recaudo por los prestadores del servicio, así como el estudio, dictaminación, discusión y resolución de sus incrementos. Garantizar la máxima publicidad y acceso a la información relacionada con la movilidad y la seguridad vial, así como sobre el ejercicio presupuestal y cumplimiento de la normativa, de conformidad con lo establecido en la Ley de la materia;
+
+XXIV. Transversalidad: Instrumentar e integrar las políticas, programas y acciones en materia de movilidad y seguridad vial, desarrollados por las distintas dependencias y Entidades de la administración pública, que proveen bienes y servicios a la población, poniendo especial atención a los grupos en situación de vulnerabilidad; y
+
+XXV. Uso prioritario de la vía o del servicio: Concientizar a personas usuarias de la vía y transporte público sobre la necesidad que tienen las personas con discapacidad, las personas con movilidad reducida y quien les acompaña, de usar en determinadas circunstancias, las vías de manera preferencial con el fin de garantizar su seguridad.
 
 ###### Artículo 7.
 
@@ -163,165 +349,615 @@ Los términos y plazos establecidos en esta Ley, se considerarán como días há
 
 Para los efectos de esta Ley, se entiende por:
 
-I. Ampliación: Es la extensión al itinerario de una ruta, autorizada a partir de uno de los extremos de su recorrido;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-II. Área Conurbada: La continuidad física y demográfica que formen dos o más Centros de Población;
+I. Accesibilidad: Es el derecho de acceso de las personas con discapacidad, mediante medidas pertinentes, en igualdad de condiciones con las demás personas, al entorno físico, el transporte público y privado, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales;
 
-III. Autobús: Vehículo automotor de seis o más llantas, diseñado y equipado para el transporte público o privado de personas, con una capacidad para cuarenta o más pasajeros, pudiendo tener ejes o articulaciones adicionales;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-IV. Autobús Convencional: Vehículo de pasajeros con puerta de acceso ubicada detrás de sus ruedas frontales;
+II. Acciones afirmativas: Políticas, medidas o acciones dirigidas a favorecer a personas o grupos en situación de vulnerabilidad, con el fin de eliminar o reducir las desigualdades y barreras de tipo actitudinal, social, cultural o económico que les afectan;
 
-V. Autobús Panorámico: Vehículo de pasajeros con puerta de acceso ubicada delante de sus ruedas frontales y con más de 10 metros de largo;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-VI. Bahía: Espacio exclusivo dentro de la vialidad fuera del carril de circulación para realizar sólo labores de ascenso y descenso de pasajeros;
+III. Ajustes Razonables: Modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás personas, de todos los derechos humanos y de las libertades fundamentales;
 
-VII. Banqueta: Son franjas pavimentadas destinadas exclusivamente al tránsito de personas cuya función es la de conectar los predios y edificaciones colindantes así como calles o aceras;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-VIII. Bicicleta: Vehículo de dos ruedas cuyos pedales transmiten el movimiento a la rueda trasera por medio de dos piñones y una cadena;
+IV. Ampliación: Es la extensión al itinerario de una ruta, autorizada a partir de uno de los extremos de su recorrido;
 
-IX. Biciestacionamiento: Espacio físico y/o mobiliario urbano utilizado para sujetar, resguardar y/o custodiar bicicletas por tiempo determinado;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-X. BTR: Bus de tránsito rápido, es aquel autobús que cuenta con carril confinado y estaciones fijas para los pasajeros;
+V. Área Conurbada: La continuidad física y demográfica que formen dos o más Centros de Población;
 
-XI. Carnet de Identificación: Documento oficial con los datos de los operadores de los vehículos pertenecientes al Sistema de Transporte a la vista de los usuarios;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XII. Ciclista: Persona que se desplaza en bicicleta o similares no motorizados;
+VI. Atención médica pre-hospitalaria: Es la otorgada a las personas cuya condición clínica se considera pone en peligro: la vida, un órgano, o la función de uno; con el fin de lograr la limitación del daño y la estabilización orgánico-funcional de las personas, desde los primeros auxilios hasta la llegada a, o la entrega a un establecimiento para la atención médica con servicio de urgencias; incluyendo el traslado entre diferentes establecimientos a bordo de una ambulancia;
 
-XIII. Ciclocarril: Carril exclusivo para bicicletas y otros medios no motorizados señalizado con pintura o dispositivos para el control de tránsito;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XIV. Comisario: Servidor Público, que presidirá el Comité de Vigilancia del Instituto y que estará encargado de la supervisión, inspección y auditoría de las finanzas y cuentas públicas del Instituto, y pertenecerá a la Junta de Gobierno, además de las diversas funciones a que lo facultan ésta Ley y la Ley que crea el Instituto;
+VII. Auditorías de Seguridad Vial: La metodología aplicable a cualquier infraestructura vial con el fin de: identificar, reconocer, y corregir las deficiencias para prevenir siniestros viales, y modificar los espacios en los cuales resulte común la existencia de siniestros viales. Las auditorías de seguridad vial buscan identificar riesgos en las vías con el fin de emitir recomendaciones que, al materializarse, contribuyan a la reducción de los riesgos viales;
 
-XV. Comité Técnico de Movilidad: órgano con autonomía técnica y de gestión, con funciones de carácter técnico y especializado, cuyo objetivo es asesorar y emitir recomendaciones en materia de movilidad;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XVI. Comité de Vigilancia: órgano encargado de la auditoría, supervisión y control interno de los actos de administración y finanzas del Instituto;
+VIII. Autobús: Vehículo automotor de seis o más llantas, diseñado y equipado para el transporte público o privado de personas, con una capacidad para cuarenta o más pasajeros, pudiendo tener ejes o articulaciones adicionales;
 
-XVII. Concesión: Acto jurídico administrativo con elementos contractuales y regulatorios, por el cual en los términos de esta Ley se confiere a una persona física o moral la condición y poder jurídico para ejercer obligaciones y derechos en la explotación del Servicio de Transporte Público de Pasajeros en el Estado y/o de la infraestructura especializada o servicios conexos asociadas al mismo;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XVIII. Consejo: El Consejo Consultivo de Movilidad y Accesibilidad;
+IX. Autobús Convencional: Vehículo de pasajeros con puerta de acceso ubicada detrás de sus ruedas frontales;
 
-XIX. Contrato Administrativo de Operación: Instrumento jurídico a través del cual el Ejecutivo del Estado, por sí o a través del Instituto, contrata en los términos de ésta ley los servicios de operación de una o más unidades para la prestación del servicio público de transporte en las rutas que le sean asignadas. La contraprestación podrá ser establecida en modalidad de pago por kilómetro recorrido, kilómetro recorrido-pasajero, o por día de servicio, según lo determine la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XX. Director General: Servidor Público encargado de la dirección, administración y funcionamiento del Instituto como superior jerárquico del resto de los servidores públicos del Instituto;
+X. Autobús Panorámico: Vehículo de pasajeros con puerta de acceso ubicada delante de sus ruedas frontales y con más de 10 metros de largo;
 
-XXI. ERT: Empresa de Redes de Transporte ante la cual se registran los conductores del SETIAP y que prestan el servicio de transporte privado de alquiler por medio de plataformas digitales a los usuarios previamente registrados en dicha plataforma;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+XI. Autoridades: Se entenderá por aquellas autoridades estatales y municipales en materia de movilidad, seguridad vial, y transporte terrestre;
 
-XXII. Energías Limpias: Energía utilizada para los vehículos motorizados que es eléctrica, hibrida, de gas natural, de gas LP, solar y de cualquier otra fuente de energía o tecnología cuyas emisiones o residuos no rebasen los umbrales establecidos en las Normas Oficiales Mexicanas, disposiciones reglamentarias existentes o las que para tal efecto se expidan y determinen las autoridades competentes con base en parámetros y normas de eficiencia energética, control de emisiones a la atmosfera y generación de residuos;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XXIII. Estudio Técnico: El diagnóstico, análisis de evaluación y, en su caso estadístico, del cual se determinarán las necesidades de movilidad, así como las propuestas que permitan atender y mejorar las condiciones de movilidad sostenible;
+XII. Ayudas Técnicas: Productos, instrumentos, equipos o sistemas usados por una persona con discapacidad para prevenir, compensar, mitigar o neutralizar una deficiencia derivada de su condición;
 
-XXIV. Extensión: Ramal o ampliación del itinerario;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XXV. Flotilla: El conjunto de vehículos, pertenecientes a una misma persona física o moral, destinado a la prestación del servicio público del transporte;
+XIII. Bahía: Espacio exclusivo dentro de la vialidad fuera del carril de circulación para realizar sólo labores de ascenso y descenso de pasajeros, así como de carga y descarga de bienes y mercancías;
 
-XXVI. Instituto: Instituto de Movilidad y Accesibilidad;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XXVII. Itinerario: Recorrido que debe hacer un vehículo de transporte público de pasajeros en las comunicaciones viales, entre los puntos extremos e intermedios que fije la concesión o permiso;
+XIV. Banqueta: Son franjas pavimentadas destinadas exclusivamente al tránsito de personas cuya función es la de conectar los predios y edificaciones colindantes, así como calles o aceras;
 
-XXVIII. Junta de Gobierno: Órgano colegiado encargado de la aprobación de acuerdos sobre la administración y funcionamiento del Instituto, así como para el seguimiento del cumplimiento de objetivos del mismo;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XXIX. LAHOTDU: Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León;
+XV. Bases de Datos sobre Movilidad y Seguridad Vial: Las bases de datos a las que se refiere el artículo 29 de la presente Ley;
 
-XXX. Ley: Ley de Movilidad Sostenible y Accesibilidad para el Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XXXI. Metro: El sistema de transporte colectivo a base de vehículos eléctricos que conforman entre si un tren que circula por un viaducto;
+XVI. Bicicleta: Vehículo de dos ruedas cuyos pedales transmiten el movimiento a la rueda trasera por medio de dos piñones y una cadena, estas pueden ser en modalidad urbana, de ruta, deportivas, de montaña, plegables, de paseo, híbridas, eléctricas, entre otras;
 
-XXXII. Metrorrey: Organismo Público Descentralizado denominado Sistema de Transporte Colectivo Metrorrey;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XXXIII. Midibús: Vehículo automotor de 6 llantas, diseñado y equipado para el transporte público o privado de personas, con una capacidad máxima de 30 pasajeros sentados;
+XVII. Biciestacionamiento: Espacio físico y/o mobiliario urbano utilizado para sujetar, resguardar y/o custodiar bicicletas por tiempo determinado;
 
-XXXIV. Micromovilidad: Serán considerados como tales los vehículos ligeros de transporte individual de propulsión a base de energía eléctrica o electricoasistida, con pesos menores a los 200 kilogramos;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XXXV. Modalidad: los diversos tipos de servicio de transporte de personas y bienes con determinadas características en sus flotillas, itinerarios y horarios;
+XVIII. BTR: Bus de tránsito rápido, es aquel autobús que cuenta con carril confinado y estaciones fijas para los pasajeros;
 
-XXXVI. Modificación: Cambios al itinerario de una ruta, que se autoriza a partir de la sustitución de tramos definidos por puntos intermedios del recorrido;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XXXVII. Motocicleta: Vehículo automotor de dos ruedas;
+XIX. Calle completa: Aquella diseñada para facilitar el tránsito seguro de las personas usuarias de las vías, de conformidad con la jerarquía de la movilidad, que propician la convivencia y los desplazamientos accesibles y eficientes. Consideran criterios de diseño universal, la ampliación de banquetas o espacios compartidos de circulación peatonal y vehicular libres de obstáculos, el redimensionamiento de carriles para promover velocidades seguras, carriles exclusivos para el transporte público, infraestructura ciclista y señalética adecuada y visible en todo momento;
 
-XXXVIII. Motociclista: Persona que conduce una motocicleta;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XXXIX. Mototaxi: Servicio auxiliar de transporte de pasajeros que se presta en áreas delimitadas denominadas como cuencas o zonas de influencia, preponderantemente en sectores de la población ubicadas en zonas de difícil acceso, y determinadas como técnicamente viables por el Instituto previa opinión favorable del Comité Técnico;
+XX. Carga Eléctrica: Proceso de energización de las baterías de vehículos electrónicos mediante el uso de cargadores de vehículos eléctricos.
 
-XL. Movilidad Limitada: Toda persona cuya movilidad se haye (sic) reducida por motivos de edad, embarazo y alguna otra situación que sin ser una discapacidad, requiere una atención adecuada y la adaptación a sus necesidades particulares en el servicio;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XLI. Movilidad no motorizada: Movilidad a través de medios que no cuenten con motor cuya finalidad y uso consiste en el desplazamiento de personas y bienes;
+XXI. Cargador de Vehículo Eléctrico: Dispositivo destinado para la carga de las baterías de vehículos eléctricos.
 
-XLII. Movilidad Sostenible: Desplazamiento de personas y/o bienes, que se realiza a través de modos de transporte de bajo o nulo consumo de carbono, y que privilegian la calidad de vida y el bienestar colectivo, así como la creación de espacios públicos que favorezcan la convivencia ciudadana con los mínimos efectos negativos al medio ambiente;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XLIII. Paradas: Lugar donde obligatoriamente se detienen los autobuses, midibuses y microbuses para realizar sólo labores de ascenso y descenso de pasajeros;
+XXII. Carnet de Identificación: Documento oficial con los datos de los operadores de los vehículos pertenecientes al Sistema de Transporte a la vista de los usuarios;
 
-XLIV. Peatón: Persona que se traslada de un lugar a otro por su propio pie;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XLV. Persona con discapacidad: Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
+XXIII. Ciclista: Persona que se desplaza en bicicleta o similares no motorizados;
 
-XLVI. Plataforma Digital: Las aplicaciones descargables en teléfonos móviles o instrumentos electrónicos a través de las cuáles se puedan recibir datos o comunicaciones de voz a través de la telefonía celular o internet;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XLVII. Prestador: Prestador de servicio de transporte público;
+XXIV. Ciclocarril: Carril exclusivo para bicicletas y otros medios no motorizados señalizado con pintura o dispositivos para el control de tránsito;
 
-XLVIII. Ramal: Recorrido o trayecto determinado que realizan las unidades de transporte público de pasajeros;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XLIX. REA: El Organismo Público Descentralizado denominado Red Estatal de Autopistas de Nuevo León;
+XXV. Comisario: Servidor Público, que presidirá el Comité de Vigilancia del Instituto y que estará encargado de la supervisión, inspección y auditoría de las finanzas y cuentas públicas del Instituto, y pertenecerá a la Junta de Gobierno, además de las diversas funciones a que lo facultan ésta Ley y la Ley que crea el Instituto;
 
-> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-L. Reglamento: El Reglamento de la Ley de Movilidad Sostenible y Accesibilidad para el Estado de Nuevo León
+XXVI. Comité Técnico de Movilidad: órgano con autonomía técnica y de gestión, con funciones de carácter técnico y especializado, cuyo objetivo es asesorar y emitir recomendaciones en materia de movilidad;
 
-LI. Reglamento Interior: Reglamento Interior del Instituto de Movilidad y Accesibilidad;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-LII. Ruta: Recorrido o trayecto determinado que realizan las unidades de transporte público de pasajeros y que sirve para la identificación de una flotilla de transporte público de pasajeros en un itinerario y modalidad específica;
+XXVII. Comité de Vigilancia: órgano encargado de la auditoria, supervisión y control interno de los actos de administración y finanzas del Instituto;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-LIII. Secretaria: Secretaria de Movilidad y Planeación Urbana;
+XXVIII. Concesión: Acto jurídico administrativo con elementos contractuales y regulatorios, por el cual en los términos de esta Ley se confiere a una persona física o moral la condición y poder jurídico para ejercer obligaciones y derechos en la explotación del Servicio de Transporte Público de Pasajeros en el Estado y/o de la infraestructura especializada o servicios conexos asociadas al mismo;
 
-> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-LIII Bis. Sensibilización de género: Diseño, instrumentación y ejecución de programas y políticas públicas que atiendan la problemática de las desigualdades e inequidades de género;
+XXIX. Consejo: El Consejo Consultivo de Movilidad y Accesibilidad;
 
-LIV. Servicios Auxiliares del Transporte: Aquel que se presta previa autorización del Instituto por medios alternos, entre los que se encuentran los de tracción humana, eléctrica, mecánica o de combustión interna;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-LV. Sistema Único de Peaje: Sistema de cobro electrónico de la tarifa por los servicios de transporte público de pasajeros del SETRA que será compatible con el sistema de peaje del SETME;
+XXX. Contrato Administrativo de Operación: Instrumento jurídico a través del cual el Ejecutivo del Estado, por sí o a través del Instituto, contrata en los términos de ésta ley los servicios de operación de una o más unidades para la prestación del servicio público de transporte en las rutas que le sean asignadas. La contraprestación podrá ser establecida en modalidad de pago por kilómetro recorrido, kilómetro recorrido-pasajero, o por día de servicio, según lo determine la Junta de Gobierno;
 
-LVI. Sistema Estatal de Movilidad (SEM): Es el sistema de planeación y operación del personal, infraestructura y vehículos que integran la red de movilidad en el Estado;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-LVII. Sistema Metrorrey: Es el conformado por líneas de Metro, servicios alimentadores y difusores operados directamente, o contratadas por Metrorrey, denominadas Transmetro, Metrobús y Metroenlace, Circuito DIF Nuevo y otros sistemas de alimentación similares;
+XXXI. Desplazamiento: Recorrido de una persona asociado a un origen y un destino preestablecido, con un propósito determinado, en cualquier modo de movilidad;
 
-LVIII. SETIAP: Servicio de Transporte Individual de Alquiler Privado;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-LIX. SETME: Servicio de Transporte Metropolitano;
+XXXII. Director General: Servidor Público encargado de la dirección, administración y funcionamiento del Instituto como superior jerárquico del resto de los servidores públicos del Instituto;
 
-LX. SETRA: Servicio Tradicional de Transporte;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-LXI. STDE: Servicio de Transporte con Destino Específico;
+XXXIII. Discriminación por motivos de discapacidad: Se entenderá cualquier distinción, exclusión, o restricción por motivos de discapacidad que tenga el propósito y/o el efecto de obstaculizar, menoscabar, y/o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo. Incluye todas las formas de discriminación entre ellas, la denegación de acceso, uso, y de ajustes razonables en el transporte público y privado;
 
-LXII. Taller: Instalación para las labores de mantenimiento de los vehículos dentro o próxima al recorrido del servicio público de pasajeros;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-LXIII. Tarifa: Costo del pasaje a los usuarios, por el uso de las diversas modalidades de transporte público de pasajeros;
+XXXIV. Diseño universal: El diseño de productos, entornos, programas, y servicios en materia de movilidad y seguridad vial, que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá la ayuda técnica enfocada en grupos particulares de personas con discapacidad cuando sean necesarias;
 
-LXIV. Taxi: Servicio Público de Transporte de Alquiler de Pasajeros;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-LXV. Taxi de Barrio: Servicio auxiliar de transporte de pasajeros que se ofrece en polígonos donde por sus características sociales y orográficas el sistema tradicional no ofrece sus servicios, y que es determinado técnicamente viable por el Comité Técnico;
+XXXV. Dispositivo de seguridad: Aditamento, sistema, o mecanismo puesto a disposición de las personas, en favor de la seguridad de la vida, la salud y la integridad, durante sus traslados;
 
-LXVI. Terminal: Instalaciones para la concentración, administración del servicio y pernocta de los autobuses;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-LXVII. TP: Transporte Particular de Pasajeros;
+XXXVI. Dispositivos de control del tránsito: Conjunto de señales, marcas, dispositivos diversos, y demás elementos que se colocan en las vías con el objeto de prevenir, regular y guiar la circulación de peatones, y vehículos que cumplan con el criterio de diseño universal, garantizando su adecuada visibilidad en todo momento;
 
-LXVIII. Transporte Regional: Servicio de Transporte Público fuera del área metropolitana o del área conurbada de Monterrey;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-LXIX. UMAS: Unidades de Medida y Actualización establecidas por el INEGI;
+XXXVII. Dispositivos de seguridad vehicular: Autopartes, sistemas, diseños y mecanismos en un vehículo dispuesto para producir una acción de protección en favor de la seguridad, la vida, la salud e integridad de las personas usuarias, de conformidad con lo establecido en las Normas Oficiales Mexicanas correspondientes;
 
-LXX. Vehículos automotores en circulación: Vehículo de transporte terrestre particular, de carga o de pasajeros, así como vehículos utilizados para la prestación de cualquier tipo de servicio público o privado regulado por las Leyes de autotransporte federales o estales, propulsado por su propia fuente motriz;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-LXXI. Vehículo No Motorizado: son aquellos que se desplazan con fuerza de propulsión que no proviene de un motor; y
+XXXVIII. Educación Vial: Actividad cuya finalidad es promover la cultura vial en la población, dirigida a todas las personas usuarias de la vía, con el objetivo de generar cambios en los patrones de comportamiento social;
 
-LXXII. Zona de Influencia: Ámbito territorial establecido en los títulos de concesión o permisos, para determinar el otorgamiento de derechos y obligaciones derivados de dicho instrumento.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-### CAPÍTULO PRIMERO. AUTORIDADES COMPETENTES
+XXXIX. Electromovilidad: El desplazamiento de personas, mercancías, y bienes mediante el uso de vehículos movilizados con motores eléctricos;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XL. Enfoque Sistémico: Enfoque que aborda la movilidad en su totalidad e integralidad, en el que interactúan una serie de elementos coordinados e interconectados;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XLI. Energías Limpias: Energía utilizada para los vehículos motorizados que es eléctrica, hibrida, de gas natural, de gas LP, solar y de cualquier otra fuente de energía o tecnología cuyas emisiones o residuos no rebasen los umbrales establecidos en las Normas Oficiales Mexicanas, disposiciones reglamentarias existentes o las que para tal efecto se expidan y determinen las autoridades competentes con base en parámetros y normas de eficiencia energética, control de emisiones a la atmosfera y generación de residuos;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XLII. ERT: Empresa de Redes de Transporte ante la cual se registran los conductores del SETIAP y que prestan el servicio de transporte privado de alquiler por medio de plataformas digitales a los usuarios previamente registrados en dicha plataforma;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XLIII. Especificaciones Técnicas: Parámetros a los que se encuentra sujeto el diseño, la funcionalidad, y el uso, tanto de las vías como de los modos de transporte, con el objeto de garantizar la movilidad sostenible, la seguridad, la salud, y la integridad de las personas, así como la prevención del riesgo, considerando las necesidades diferenciadas de los grupos en situación de vulnerabilidad;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XLIV. Estación de Carga: Infraestructura para el suministro de energía eléctrica para la carga de vehículos eléctricos.
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XLV. Estudio Técnico: El diagnóstico, análisis de evaluación y, en su caso estadístico, del cual se determinarán las necesidades de movilidad, así como las propuestas que permitan atender y mejorar las condiciones de movilidad, particularmente, la movilidad sostenible, la seguridad, la salud, y la integridad de las personas, considerando las necesidades diferenciadas de los grupos en situación de vulnerabilidad;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XLVI. Estrategia Estatal de Movilidad y Seguridad Vial: Instrumento rector para la conducción de las materias de movilidad y seguridad vial en el Estado, que incluye el conjunto de acciones encaminadas a promover la movilidad y la seguridad vial, para implementarlas a través de la coordinación entre el Gobierno del Estado y los Gobiernos Municipales.
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XLVII. Estudio de Impacto de Movilidad: El que realizan las autoridades estatales y municipales en el ámbito de sus funciones, con el fin de evitar o reducir los efectos negativos sobre la calidad de vida de la ciudadanía en materia de movilidad y seguridad vial;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XLVIII. Extensión: Ramal o ampliación del itinerario;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XLIX. Externalidades: Factores que inciden, afectan, o son derivados de efectos secundarios que causa la actividad de la movilidad de una persona, en función del medio de transporte por el que se desplace, como emisiones, congestión, siniestros, y el uso del espacio público;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+L. Factor de riesgo: Todo hecho o acción que dificulte la prevención de un siniestro de tránsito, así como la implementación de medidas comprobadas para mitigar dichos riesgos;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LI. Flotilla: El conjunto de vehículos, pertenecientes a una misma persona física o moral, destinado a la prestación del servicio público del transporte;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LII. Gestión de la demanda de movilidad: Conjunto de medidas, programas, y estrategias que inciden en la conducta de las personas usuarias a fin de reducir viajes o cambiar el modo de transporte; con el fin de optimizar tiempos en los desplazamientos;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LIII. Gestión de la velocidad: Conjunto de medidas integradas que llevan a las personas conductoras a circular a una velocidad segura y, en consecuencia, reducir el número de siniestros de tránsito y las lesiones graves o muertes;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LIV. Grupos en situación de vulnerabilidad: Población que enfrenta barreras para ejercer su derecho a la movilidad y a la seguridad vial derivado de la discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, entre otros, incluyendo a las personas adultas mayores, las mujeres, niñas, niños, y adolescentes, y la población de la (sic) poblaciones de la diversidad sexual y de género, así como las demás personas que por su condición particular enfrenten algún tipo de exclusión;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LV. Impacto de movilidad: Resultado de la evaluación de las posibles influencias o alteraciones sobre los desplazamientos de personas, bienes y/o mercancías, que pudieran afectarse por la realización de obras y actividades privadas y públicas;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LVI. Instituto: Instituto de Movilidad y Accesibilidad;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LVII. Interseccionalidad: Conjunto de factores sociales que coinciden o interceptan en una persona o grupo de personas, que definen su identidad, entendiendo está en un contexto dinámico, incluyendo factores como origen étnico o nacional, el género, la edad, las discapacidades, la condición social, la orientación sexual, entre otros elementos;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LVIII. Itinerario: Recorrido que debe hacer un vehículo de transporte público de pasajeros en las comunicaciones viales, entre los puntos extremos e intermedios que fije la concesión o permiso;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LIX. Junta de Gobierno: Órgano colegiado encargado de la aprobación de acuerdos sobre la administración y funcionamiento del Instituto, así como para el seguimiento del cumplimiento de objetivos del mismo;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LX. LAHOTDU: Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXI. Lengua de Señas Mexicana: Lengua utilizada por las personas sordas en México, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional, y movimiento corporal, que posee su propia sintaxis, gramática y léxico;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXII. Ley: Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXIII. Ley General: Ley General de Movilidad y Seguridad Vial;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXIV. Metro: El sistema de transporte colectivo a base de vehículos eléctricos que conforman entre si un tren que circula por un viaducto;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXV. Metrorrey: Organismo Público Descentralizado denominado Sistema de Transporte Colectivo Metrorrey;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXVI. Midibús: Vehículo automotor de 6 llantas, diseñado y equipado para el transporte público o privado de personas, con una capacidad máxima de 30 pasajeros sentados
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXVII. Micromovilidad: Serán considerados como tales los vehículos ligeros de transporte individual de propulsión a base de energía eléctrica o electricoasistida, con pesos menores a los 200 kilogramos;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXVIII. Modalidad: los diversos tipos de servicio de transporte de personas y bienes con determinadas características en sus flotillas, itinerarios y horarios;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXIX. Modificación: Cambios al itinerario de una ruta, que se autoriza a partir de la sustitución de tramos definidos por puntos intermedios del recorrido;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXX. Motocicleta: Vehículo motorizado de dos o más ruedas utilizado para el transporte de pasajeros o de carga, propulsado por un motor de combustión interna, eléctrico, o algún otro tipo de mecanismo que utilice cualquier otro tipo de energía o asistencia que proporcione una potencia continua normal mayor a 1 KW (1.34HP), o cuyo motor de combustión tenga un volumen desplazado mayor a 49 cm cúbicos. Sin ser limitativo sino enunciativo, una motocicleta puede incluir denominaciones de, motoneta, motocicleta con sidecar, trimoto, o cuatrimoto, con capacidad de operar tanto en carretera como en otras superficies;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXXI. Motociclista: Persona que conduce una motocicleta;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXXII. Motopuerto: Espacio de estacionamiento destinado para el uso exclusivo de motocicletas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXXIII. Mototaxi: Servicio auxiliar de transporte de pasajeros que se presta en áreas delimitadas denominadas como cuencas o zonas de influencia, preponderantemente en sectores de la población ubicadas en zonas de difícil acceso, y determinadas como técnicamente viables por el Instituto previa opinión favorable del Comité Técnico;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXXIV. Movilidad: El derecho humano a realizar el efectivo desplazamiento propio, de pasajeros, y bienes, mediante un sistema de movilidad que se ajuste a la jerarquía y principios que se establecen en este ordenamiento.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXXV. Movilidad Activa o No Motorizada: Movilidad y desplazamiento de personas y bienes que requiere esfuerzo físico y/o utiliza ayuda técnica y/o vehículos no motorizados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXXVI. Movilidad del Cuidado: Viajes realizados en la consecución de actividades relacionadas con el trabajo no remunerado, de cuidados y el cuidado de las personas que requieren de otra persona para su traslado, sean dependientes o personas con necesidades específicas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXXVII. Movilidad Eléctrica: Estrategia que consiste en la integración de nuevas tecnologías para el desplazamiento en vehículos eléctricos que tiene como principal objetivo mitigar el daño al medio ambiente y reducir los efectos del cambio climático.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXXVIII. Movilidad Sostenible: Desplazamiento de personas y/o bienes que se realiza a través de modos de transporte de bajo o nulo consumo (sic) combustibles fósiles, y por ende emiten baja (sic) o nulas emisiones de dióxido de carbono, y que privilegian la calidad de vida y el bienestar colectivo, así como la creación de espacios públicos que favorezcan la convivencia ciudadana con mínimos efectos negativos al medio ambiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXXIX. Observatorios: Los Observatorios de Movilidad y Seguridad Vial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXXX. Paradas: Lugar donde obligatoriamente se detienen los autobuses, midibuses y microbuses para realizar sólo labores de ascenso y descenso de pasajeros;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXXXI. Peatón: Persona que se traslada de un lugar a otro en la vía pública a pie, o que por su condición de discapacidad o de movilidad reducida utiliza ayuda técnica para desplazarse;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXXXII. Perro de asistencia: Son aquellos perros que han sido certificados para el acompañamiento, conducción, y/o auxilio de personas con discapacidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXXXIII. Persona con discapacidad: Toda persona que, por alguna razón congénita o adquirida, presenta una o más deficiencias de carácter físico, mental, sensorial, intelectual o psicosocial, ya sea de manera permanente o temporal, y que al interactuar con las barreras del entorno impiden su inclusión y participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás, en términos de lo previsto en el artículo 2 fracción XXIV de la Ley para la Protección de los Derechos de las Personas con Discapacidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXXXIV. Persona con movilidad reducida: Toda persona cuya movilidad se encuentre reducida por motivos de edad, embarazo, y/o alguna otra situación que, sin ser una discapacidad, requiere una atención adecuada y la adaptación a sus necesidades particulares en el servicio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXXXV. Personas usuarias en situación de vulnerabilidad: Niñas y niños menores de doce años, personas adultas mayores, y personas con movilidad reducida;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXXXVI. Plataforma Digital: Las aplicaciones descargables en teléfonos móviles o instrumentos electrónicos a través de las cuáles se puedan recibir datos vía texto, imágenes, videos, algoritmos, o comunicaciones de voz, a través de la telefonía celular o el internet;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXXXVII. Prestador: Prestador de servicio de transporte público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXXXVIII. Proximidad: Circunstancias que permiten a las personas usuarias desplazarse con facilidad a sus destinos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+LXXXIX. Ramal: Recorrido o trayecto determinado que realizan las unidades de transporte público de pasajeros;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XC. REA: El Organismo Público Descentralizado denominado Red Estatal de Autopistas de Nuevo León;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XCI. Reglamento: El Reglamento de la Ley de Movilidad Sostenible de Accesibilidad y Seguridad Vial para el Estado de Nuevo León.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XCII. Reglamento Interior: Reglamento Interior del Instituto de Movilidad y Accesibilidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XCIII. Ruta: Recorrido o trayecto determinado que realizan las unidades de transporte público de pasajeros y que sirve para la identificación de una flotilla de transporte público de pasajeros en un itinerario y modalidad específica;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XCIV. Secretaría: Secretaría de Movilidad y Planeación Urbana;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XCV. Seguridad vial: Conjunto de políticas y sistemas orientados a controlar los factores de riesgo, con el fin de prevenir y reducir las muertes y lesiones graves ocasionadas por siniestros de tránsito;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XCVI. Sensibilización: Transmisión de información a la población, con el fin de concientizada sobre el uso de la vía y las problemáticas que en ella se generan;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XCVII. Sensibilización de género: Diseño, instrumentación y ejecución de programas y políticas públicas que atiendan la problemática de las desigualdades e inequidades de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XCVIII. Señalización: Conjunto integrado de dispositivos, marcas, y señales que indican la geometría de las vías, sus acotamientos, las velocidades máximas, la dirección de tránsito, así como sus bifurcaciones, cruces y pasos a nivel, garantizando su adecuada visibilidad de manera permanente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XCIX. Servicios auxiliares: Son todos los bienes muebles o inmuebles e infraestructura, y servicios que resulten complementarios a la prestación del servicio de transporte público, previsto en la Ley y que son susceptibles de autorización, permiso o concesión a particulares por parte del Estado y los Municipios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+C. Servicios Auxiliares del Transporte: Aquel que se presta previa autorización del Instituto por medios alternos, entre los que se encuentran los de tracción humana, eléctrica, mecánica o de combustión interna;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CI. Siniestro de tránsito: Cualquier suceso, hecho, accidente o evento en la vía pública derivado del tránsito vehicular y de personas, en el que interviene por lo menos un vehículo y en el cual se causa la muerte o lesiones de alguno de los involucrados, incluidas en las que se adquiere alguna discapacidad, o se causen daños materiales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CII. Sistema de Información Territorial y Urbano: Sistema al que hace referencia el artículo 27 de la presente Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CIII. Sistema Único de Peaje: Sistema de cobro electrónico de la tarifa por los servicios de transporte público de pasajeros del SETRA que será compatible con el sistema de peaje del SETME;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CIV. Sistema Estatal de Movilidad (SEM): Es el sistema de planeación y operación del personal, infraestructura y vehículos que integran la red de movilidad en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CV. Sistema Metrorrey: Es el conformado por líneas de Metro, servicios alimentadores y difusores operados directamente, o contratadas por Metrorrey, denominadas Transmetro, Metrobús y Metroenlace, Circuito DIF Nuevo León y otros sistemas de alimentación similares;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CVI. Sistemas de movilidad: Conjunto de elementos y recursos relacionados directa o indirectamente con el tránsito y la movilidad, cuya estructura e interacción permiten el desplazamiento de personas, bienes y mercancías en el espacio público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CVII. Sistemas de retención infantil: Dispositivos de seguridad para limitar la movilidad del cuerpo para personas menores de doce años, a fin de disminuir el riesgo de lesiones en caso de colisión o desaceleración brusca del vehículo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CVIII. Sistemas seguros: Prácticas efectivas, eficientes y prioritarias, que redistribuyen responsabilidades entre los diversos actores relacionados con la movilidad y no solo con las personas usuarias, cobran especial relevancia las vías libres de riesgos, los sistemas de seguridad en el transporte, en los vehículos y las velocidades seguras;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CIX. SETIAP: Servicio de Transporte Individual de Alquiler Privado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CX. SETME: Servicio de Transporte Metropolitano;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXI. SETRA: Servicio Tradicional de Transporte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXII. STDE: Servicio de Transporte con Destino Específico;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXIII. Taller: Instalación para las labores de mantenimiento de los vehículos dentro o próxima al recorrido del servicio público de pasajeros;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXIV. Tarifa: Costo del pasaje a los usuarios, por el uso de las diversas modalidades de transporte público de pasajeros;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXV. Taxi: Servicio Público de Transporte de Alquiler de Pasajeros;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXVI. Taxi de Barrio: Servicio auxiliar de transporte de pasajeros que se ofrece en polígonos donde por sus características sociales y orográficas el sistema tradicional no ofrece sus servicios, y que es determinado técnicamente viable por el Comité Técnico;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXVII. Terminal: Instalaciones para la concentración, administración del servicio y pernocta de los autobuses;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXVIII. TP: Transporte Particular de Pasajeros;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXIX. Transporte: Es el medio físico a través del cual se realiza el traslado de personas, bienes y mercancías;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXX. Transporte público de pasajeros: Es el medio de traslado que se ofrece a (sic) al público en general de forma continua, uniforme, regular, permanente e ininterrumpida, y sujeta a horarios establecidos y criterios de optimización mediante algoritmos tecnológicos que otorga la autoridad competente a través de entidades, concesionarios o mediante permisos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXXI. Transporte Regional: Servicio de Transporte Público de pasajeros fuera del área metropolitana o del área conurbada de Monterrey;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXXII. Transversalidad: Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población, basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXXIII. UMAS: Unidades de Medida y Actualización establecidas por el INEGI;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXXIV. Usuario: La persona que realiza desplazamientos haciendo uso del sistema de transporte público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXXV. Vehículo: Modo de transporte diseñado para facilitar la movilidad y tránsito de personas o bienes por la vía pública, propulsado por una fuerza humana directa o asistido para ello por un motor de combustión interna, eléctrico o cualquier fuerza motriz;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXXVI. Vehículo Eficiente: Vehículo que cumple con las Normas Oficiales Mexicanas sobre emisiones y con las obligaciones de verificación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXXVII. Vehículo Eléctrico: Vehículos impulsados por uno o más motores eléctricos que se alimentan de la energía almacenada en una batería recargable.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXXVIII. Vehículo Motorizado: Vehículo de transporte terrestre particular, de carga o de pasajeros, así como vehículos utilizados para la prestación de cualquier tipo de servicio público o privado regulado por las Leyes de autotransporte federales o estales, que dependen de un motor de combustión interna, eléctrica o de cualquier otra tecnología que les proporciona velocidad superior a los veinticinco kilómetros por hora;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXXIX. Vehículo No Motorizado: Vehículo de tracción humana como bicicleta, monociclo, triciclo, cuatriciclo; vehículos recreativos como patines, patinetas y monopatines; incluye a aquellos asistidos por motor de baja potencia no susceptible de alcanzar velocidades mayores a veinticinco kilómetros por hora, y los que son utilizados por personas con discapacidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXXX. Velocidad de operación: Velocidad establecida por las autoridades correspondientes en los reglamentos de tránsito;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXXXI. Vía: Espacio físico destinado al tránsito de personas peatonas y vehículos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXXXII. Vía pública: Todo espacio de dominio público y uso común destinado al tránsito de peatones y vehículos, así como a la prestación de servicios públicos y la instalación de infraestructura y mobiliario;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXXXIII. Vialidad: Conjunto integrado de vías de uso común que conforman la traza urbana;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXXXIV. Violencias contra las mujeres: Cualquier acción u omisión, basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual, o la muerte, tanto en el ámbito privado como en el público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXXXV. Zona 30: Es el área de accesibilidad determinada con señalamientos y dispositivos viales para reducir la velocidad a un máximo de treinta kilómetros por hora, otorgando a peatones, usuarios de transporte no motorizado y usuarios de transporte público, preferencial permanente sobre automóviles, motocicletas y cualquier otro tipo de vehículo motorizados (sic) ubicado principalmente en los entornos de equipamientos escolares y de salud; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+CXXXVI. Zona de Influencia: Ámbito territorial establecido en los títulos de concesión o permisos, para determinar el otorgamiento de derechos y obligaciones derivados de dicho instrumento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+### CAPÍTULO SEGUNDO (SIC). DE LA SENSIBILIZACIÓN, EDUCACIÓN Y FORMACIÓN EN MATERIA DE MOVILIDAD Y SEGURIDAD VIAL
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 8 Bis.
+
+El Estado y sus Municipios, en el ámbito de sus respectivas competencias, diseñarán, implementarán, ejecutarán, evaluarán y darán seguimiento a los planes, programas, campañas y acciones para sensibilizar, educar y formar a la población en materia de movilidad y seguridad vial, con el objetivo de generar la adopción de hábitos de prevención de siniestros de tránsito, el uso racional del automóvil particular; la promoción de los desplazamientos inteligentes y todas aquellas acciones que permitan lograr una sana convivencia en las vías.
+
+Para el cumplimiento de lo anterior, se promoverá la participación de personas especialistas y la academia en el diseño e implementación de programas, campañas y acciones en materia de educación vial, movilidad, y perspectiva de género que generen el desarrollo de políticas sostenibles e incluyentes con especial atención a los grupos en situación de vulnerabilidad, orientadas al peatón, la bicicleta, al transporte público y al uso racional del automóvil particular.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 8 Bis 1.
+
+La sensibilización en materia de movilidad y seguridad vial tiene como objetivo transmitir información a la población, en formatos accesibles y pertinencia intercultural y lingüística, con el fin de concientizarla sobre el uso de la vía, así como las acciones de prevención de siniestros y demás problemas que se generan en ésta.
+
+Las políticas, programas, campañas y acciones de sensibilización sobre movilidad y seguridad vial deberán observar los siguientes criterios:
+
+I. Mensajes sustentados en evidencia científica y territorial;
+
+II. Explicación de las causas y consecuencias en materia de movilidad y seguridad vial;
+
+III. Adopción de prácticas que propicien un ambiente seguro para la movilidad activa y no motorizada;
+
+IV. Respeto entre las personas usuarias de la vía y hacia los elementos de policía de tránsito y prestadores de servicio de transporte público de pasajeros; e
+
+V. Importancia de la incorporación de la perspectiva de género, así como del trato digno y no discriminación hacia grupos en situación de vulnerabilidad, particularmente las personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 8 Bis 2.
+
+La educación en materia de movilidad y seguridad vial tiene como objetivo transmitir una serie de conocimientos que todas las personas usuarias de la vía deben incorporar al momento de transitar por ésta, la cual deberá ser con perspectiva interseccional.
+
+Las políticas, programas, campañas y acciones de educación en materia de movilidad y seguridad vial deberán observar los siguientes criterios:
+
+I. Desarrollar contenidos sobre los factores de riesgo en la movilidad y seguridad vial;
+
+II. Concientizar, especialmente a los conductores de vehículos motorizados, del conocimiento y respeto por las normas de tránsito y dispositivos para el control del tránsito vial por parte de todas las personas usuarias de la vía;
+
+III. Priorizar el uso de la infraestructura para la movilidad conforme a la jerarquía de la movilidad establecida en esta Ley;
+
+IV. Informar y fomentar el respeto irrestricto de la ciudadanía, personas operadoras de los sistemas de movilidad, autoridades, a los espacios y medidas adoptadas para permitir la accesibilidad y derecho a la movilidad de las personas con discapacidad, personas con movilidad reducida, y a las niñas, niños, adolescentes y mujeres en la vía pública, con el fin de prevenir y erradicar los diversos tipos de violencia, particularmente las violencias de género, en sus desplazamientos por las vías;
+
+V. Informar y fomentar el respeto irrestricto de la ciudadanía, personas operadoras de los sistemas de movilidad, y autoridades a los espacios y medidas adoptadas para permitir la accesibilidad y derecho a la movilidad de las personas con discapacidad y con movilidad reducida;
+
+VI. Adoptar desplazamientos sustentables y seguros promoviendo la movilidad activa y no motorizada;
+
+VII. Fomentar el cumplimiento de los programas de verificación y protección al medio ambiente; y
+
+VIII. Promover la participación ciudadana, de manera igualitaria e incluyente, involucrando activamente a la población en el mejoramiento de su entorno social.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 8 Bis 3.
+
+La formación en materia de movilidad y seguridad vial implica que el personal técnico y/o profesional cuente con capacitación en dichas materias, así como en perspectiva de género y necesidades de los grupos en situación de vulnerabilidad.
+
+El Estado y los Municipios, en el ámbito de sus respectivas atribuciones, promoverán acciones y mecanismos en coordinación con las dependencias y entidades competentes, las concesionarias, las permisionarias, los sectores privado y social, para que el personal técnico y/o profesional en materia de movilidad y seguridad vial acredite su capacidad técnica y operativa.
 
 ## TÍTULO SEGUNDO. GOBERNANZA, AUTORIDADES COMPETENTES Y MECANISMOS DE COORDINACIÓN
 
-### CAPÍTULO SEGUNDO. COORDINACIÓN Y CONCURRENCIA
+### CAPÍTULO PRIMERO. AUTORIDADES COMPETENTES
 
 ###### Artículo 9.
 
@@ -353,9 +989,11 @@ X. Instituto de Control Vehicular; y
 
 XI. Los demás que señalen esta Ley, su Reglamento y otros ordenamientos legales aplicables, o aquellos que sean designados mediante acuerdos o convenios de las autoridades señaladas en las fracciones que anteceden o con las Autoridades Federales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 10.
 
-En las acciones en materia de vialidad, accesibilidad y movilidad en Zonas Conurbadas o Metropolitanas, las Comisiones establecidas en los términos de la LAHOTDU, fungirán como mecanismos de coordinación entre el Estado y los Municipios.
+En las acciones en materia de vialidad, accesibilidad, movilidad, y seguridad vial en Zonas Conurbadas o Metropolitanas, las Comisiones establecidas en los términos de la LAHOTDU, fungirán como mecanismos de coordinación entre el Estado y los Municipios.
 
 Para la aprobación de los nuevos desarrollos habitacionales, deberá contarse con la aprobación de la factibilidad del servicio de transporte público de pasajeros emitida por el Instituto, en el que se valorará el estudio de movilidad presentado por el desarrollador de acuerdo a lo establecido en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado.
 
@@ -371,21 +1009,107 @@ En la etapa de construcción de los desarrollos nuevos autorizados, donde no se 
 
 En la ejecución y cumplimiento de la presente Ley, corresponde al Titular del Poder Ejecutivo del Estado, las siguientes atribuciones:
 
-I. Formular, conducir y evaluar la política de movilidad estatal;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-II. Aprobar el Programa Sectorial de Movilidad, en los términos de la LAHOTDU;
+I. Integrar el Sistema Estatal de Movilidad y Seguridad Vial, de conformidad con lo establecido en el artículo 68 Bis 4;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+II. Formular, conducir y evaluar la política de movilidad estatal, así como de los lineamientos establecidos dentro del mecanismo de coordinación del Sistema Estatal de Movilidad y Seguridad Vial;
 
 III. Emitir y, en su caso, modificar los ordenamientos jurídicos de naturaleza administrativa, necesarios para proveer el cumplimiento de la presente Ley;
 
 IV. Fomentar y coordinar las acciones para la estructuración y mejoramiento del servicio público de transporte, de tal forma que se preste un sistema de movilidad que brinde servicios modernos, eficientes, seguros y de alta calidad para el traslado de personas, bienes, mercancías y objetos en general;
 
-V. Celebrar acuerdos o convenios de coordinación en materia de movilidad con la Federación, otros Estados o con los Municipios;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+V. Celebrar acuerdos o convenios de coordinación en materia de movilidad con la Federación, otros Estados o con los Municipios, para la implementación de acciones específicas, obras e inversiones en la materia;
 
 VI. Proporcionar a los Municipios que lo requieran el apoyo técnico necesario para la correcta planeación de la movilidad;
 
 VII. Crear, mejorar o adaptar por medio de sus Secretarías y organismos la infraestructura para la movilidad dentro del ámbito de su competencia atendiendo la jerarquía establecida en esta Ley; y
 
 VIII. Las demás atribuciones que le otorguen la presente normativa y las Leyes aplicables a la materia.
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+IX. Participar con las autoridades correspondientes en la planeación, diseño, instrumentación, e implementación de la Estrategia Nacional de Movilidad y Seguridad Vial y de los Convenios de Coordinación Metropolitanos en los términos previstos en la Ley General, y demás disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+X. Armonizar los programas de ordenamiento territorial que le competen con lo dispuesto en la Ley, la Ley General, y otras leyes aplicables;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XI. Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la federación, en materia de movilidad y seguridad vial;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XII. Celebrar convenios de coordinación con las autoridades correspondientes, para la implementación de acciones específicas, obras e inversiones en la materia;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XIII. Desarrollar estrategias, programas y proyectos para la movilidad y la seguridad vial, con especial atención en el uso del transporte público y los modos no motorizados;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XIV. Asignar, gestionar y administrar recursos públicos, en coordinación con los municipios, bajo los criterios de la presente Ley, para implementar acciones y proyectos en materia de movilidad y seguridad vial, infraestructura, servicios auxiliares y transporte;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XV. Incentivar la circulación de vehículos eficientes ambientalmente, establecer el marco normativo y programas correspondientes para su adecuada operación; así como la implementación de su infraestructura vial y equipamiento necesario, en coordinación con las autoridades competentes;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XVI. Instrumentar y articular, en concordancia con la política nacional, las acciones necesarias para disminuir las muertes, lesiones graves y discapacidades ocasionadas por siniestros de tránsito;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XVII. Designar a la persona que formará parte del Sistema Nacional;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XVIII. Celebrar convenios de coordinación y concertación con la Federación, los Estados, y los municipios del Estado, en materia de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XIX. Establecer la reglamentación para los estudios de impacto de movilidad y seguridad vial con perspectiva de género;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XX. Impulsar la consolidación de los sistemas de movilidad en los centros de población;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXI. Establecer los acuerdos y medidas necesarias para la conservación, mantenimiento y renovación del parque vehicular destinado a la prestación de los servicios público, mercantil y privado de transporte de pasajeros y de carga, de conformidad con la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXII. Incentivar la circulación de vehículos eficientes ambientalmente, establecer el marco normativo y programas correspondientes para su adecuada operación; así como la implementación de su infraestructura vial y equipamiento necesario, en coordinación con las autoridades competentes;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXIII. Expedir las normas y lineamientos que deberán cumplir los vehículos motorizados que cuenten con registro en el Estado, en materia de protección al medio ambiente;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXIV. Diseñar e implementar, de manera conjunta con las Entidades Federativas colindantes, mecanismos de coordinación para el cobro de infracciones de tránsito;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXV. Crear, administrar y mantener actualizados sus indicadores y bases de datos en materia de movilidad y seguridad vial que se incorpore al Sistema de Información Territorial y Urbano;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXVI. Fortalecer el transporte público de pasajeros, individual y colectivo, para la inclusión de los grupos en situación de vulnerabilidad, destinándoles lugares exclusivos;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXVII. Establecer medidas de accesibilidad, inclusión y condiciones de diseño universal para las personas con discapacidad y con movilidad reducida, así como otros grupos en situación de vulnerabilidad, dentro de los servicios de transporte público de pasajeros individual y colectivo, para garantizar su desplazamiento seguro en las vías; y
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXVIII. Las demás atribuciones que le otorguen la presente normativa y las Leyes aplicables de la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2022)</small>
 
@@ -451,7 +1175,25 @@ III. Realizar las acciones de mantenimiento y conservación a la infraestructura
 
 IV. Integrar en forma trimestral, los registros de las obras y proyectos en los que participen los Profesionales Responsables y los Laboratorios Certificados, definidos en la Ley para la Construcción y Rehabilitación de Pavimentos del Estado de Nuevo León y la normatividad en la materia;
 
-V. Las demás atribuciones que le otorguen la presente Ley y otros ordenamientos aplicables en la materia siempre y cuando no contravengan esta Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+V. En términos de lo establecido en el presente ordenamiento, considerará implementar auditorías e inspecciones en materia estatal, como parte de instrumentos preventivos, correctivos y evaluativos que analicen la operación de la infraestructura de movilidad e identifiquen las medidas necesarias que se deben emprender para que se cumplan los principios y criterios establecidos en la presente Ley, de acuerdo a los lineamientos en materia de auditorías e inspecciones de infraestructura y seguridad vial que emita el Sistema Nacional;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+VI. Asegurarse que su normativa interna aplicable a las obras de infraestructura vial urbana y carreteras sea diseñado y ejecutado en los términos previstos bajo los principios, criterios, y jerarquías establecidos en la presente Ley, de conformidad con las necesidades del área particular;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+VII. Establecer los estándares de diseño vial y dispositivos de control de tránsito en concordancia con las Normas Oficiales Mexicanas expedidas para tal efecto;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+VIII. Establecer estrategias, planes, y programas de infraestructura vial que, reconociendo la posibilidad del error humano, y la interseccionalidad de las personas usuarias de la vía, estén encaminados a evitar muertes y lesiones, incluidas las que como consecuencia generan discapacidad, mediante el mejoramiento de la infraestructura vial; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+IX. Las demás atribuciones que le otorguen la presente Ley y otros ordenamientos aplicables en la materia siempre y cuando no contravengan esta Ley.
 
 ###### Artículo 14.
 
@@ -485,15 +1227,127 @@ VII. Celebrar convenio con el Instituto para realizar acciones de inspección y 
 
 VIII. Crear, mejorar o adaptar la infraestructura para la movilidad dentro del ámbito de su competencia atendiendo la jerarquía establecida en esta Ley;
 
-IX. Proporcionar a la Secretaría de forma trimestral, los registros de las obras y proyectos en los que participen los Profesionales Responsables y los Laboratorios Certificados, definidos en la Ley para la Construcción y Rehabilitación de Pavimentos del Estado de Nuevo León y la normatividad en la materia; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-X. Las demás atribuciones que le otorguen la presente Ley, su Reglamento, y otros ordenamientos jurídicos aplicables en la materia.
+IX. Podrá proporcionar a la Secretaría los registros de las obras y proyectos en los que participen los Profesionales Responsables y los Laboratorios Certificados, definidos en la Ley para la Construcción y Rehabilitación de Pavimentos del Estado de Nuevo León y la normatividad en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+X. Participar en el Sistema Nacional de Movilidad y Seguridad Vial, de conformidad con lo que establezca la Ley General de Movilidad y Seguridad Vial y los lineamientos que establezca el Sistema Nacional;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XI. Formular, aprobar, administrar y ejecutar los programas municipales en materia de movilidad y seguridad vial, conforme a lo establecido en el Plan Nacional de Desarrollo, la Estrategia Nacional, los programas del Estado y los Convenios de Coordinación Metropolitanos; así como conducir, evaluar y vigilar la política conforme a lo establecido por la Ley General de Movilidad y Seguridad Vial, esta Ley y la jerarquía de la movilidad;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XII. Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación, en materia de movilidad y seguridad vial;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XIII. Participar con las autoridades federales, de las Entidades Federativas y de otros Municipios en la planeación, regulación, instrumentación e implementación de los Convenios de Coordinación Metropolitanos;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XIV. Constituir instancias locales y de coordinación metropolitana para la implementación de acciones integrales, acciones afirmativas transversales en materia de movilidad, en apego a las Leyes de la materia y demás disposiciones legales;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XV. Celebrar convenios de coordinación con la Federación, otras Entidades Federativas, y Municipios para la implementación de acciones específicas, obras e inversiones en la materia, así como aquellas que prioricen la movilidad de los grupos en situación de vulnerabilidad;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XVI. Facilitar y participar en los sistemas de movilidad de las entidades federativas, en los términos que establece esta Ley, garantizando que las vías proporcionen un nivel de servicio adecuado para todas las personas, considerando su interseccionalidad, sin importar el modo de transporte que utilicen;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XVII. Desarrollar estrategias, programas y proyectos para la movilidad, fomentando y priorizando el uso del transporte público y los modos no motorizados;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XVIII. Asignar, gestionar y administrar recursos para apoyar e implementar acciones y proyectos en materia de movilidad, su infraestructura, servicios auxiliares, operación y capacitación de las personas operadoras, transporte y seguridad vial, promoviendo una mejor utilización de las vías conforme a la jerarquía de la movilidad;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XIX. Establecer los mecanismos necesarios para mejorar la seguridad vial, de conformidad con la jerarquía de la movilidad y sus necesidades;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XX. Realizar estudios para el diseño, modificación y adecuación de las vías en los centros de población, de conformidad con lo establecido en esta Ley y las necesidades territoriales;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXI. Implementar dispositivos para el control del tránsito que deban ser utilizados en los centros de población de su competencia;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXII. Establecer la categoría, sentidos de circulación, señalética y demás características de las vías en su territorio;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXIII. Expedir las autorizaciones, licencias o permisos para la realización de obras de infraestructura para la movilidad, con estricto apego a las normas jurídicas locales, planes o programas;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXIV. Realizar estudios de impacto de movilidad en el ámbito de su competencia, incluyendo criterios de accesibilidad, sustentabilidad, perspectiva de género, entre otros que se consideren relevantes;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXV. Autorizar las áreas de transferencia para el transporte en su territorio;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXVI. Regular el servicio del estacionamiento en vía pública;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXVII. Impulsar la accesibilidad e inclusión de personas con discapacidad y personas con movilidad reducida a los servicios públicos de transporte de pasajeros, así como su desplazamiento seguro y efectivo en las vías a través de infraestructura adecuada, y el cuidado y respeto a los espacios y medidas adoptadas para permitir la accesibilidad y su derecho a la movilidad;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXVIII. Mantener, en el ámbito de sus atribuciones, las vías libres de obstáculos y elementos que impidan, dificulten, generen un riesgo u obstaculicen el tránsito peatonal y vehicular, excepto en aquellos casos debidamente autorizados y respetando la jerarquía de la movilidad;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXIX. Instrumentar programas y campañas de cultura de la movilidad, que fomenten la prevención de los siniestros de tránsito;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXX. Implementar programas especiales de seguridad vial en los entornos escolares y puntos de alta afluencia de personas;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXXI. Prever en su legislación aplicable, que los desarrollos inmobiliarios cuenten con el criterio de calle completa;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXXII. Instrumentar y articular en concordancia con la política estatal, las políticas públicas de su competencia orientadas a erradicar las muertes, lesiones por accidentes de tránsito;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXXIII. Promover en coordinación con el Estado, cursos de capacitación a las personas que atiendan a víctimas de accidentes de tránsito;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXXIV. Realizar los operativos de control de uso de distractores durante la conducción de vehículos, sistemas de retención infantil, cascos en motociclistas, control de velocidad y de alcoholimetría, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXXV. En términos de lo establecido en el presente ordenamiento, considerará implementar auditorías e inspecciones en materia municipal, como parte de instrumentos preventivos, correctivos y evaluativos que analicen la operación de la infraestructura de movilidad e identifiquen las medidas necesarias que se deben emprender para que se cumplan los principios y criterios establecidos en la presente Ley, de acuerdo a los lineamientos en materia de auditorías e inspecciones de infraestructura y seguridad vial que emita el Sistema Nacional;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXXVI. Otorgar, previo cumplimiento de los requisitos establecidos en el reglamento y en la factibilidad del Instituto, permiso a particulares para la operación de rutas intermunicipales de transporte público y transporte de personal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXXVII. Las demás atribuciones que le otorguen la presente Ley, su Reglamento, y otros ordenamientos jurídicos aplicables en la materia.
 
 ###### Artículo 16.
 
 Ninguna de las autoridades competentes podrá contravenir en sus reglamentos disposición alguna de ésta Ley.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO SEGUNDO. COORDINACIÓN Y CONCURRENCIA
 
 ###### Artículo 17.
 
@@ -505,6 +1359,12 @@ En los términos de esta Ley, podrán celebrar convenios de concertación y cola
 
 Los municipios que integren áreas conurbadas, metropolitanas o Regiones, en los términos de las Leyes federales y estatales, deberán colaborar con el Gobierno del Estado a través del Instituto en la elaboración del sistema de planeación y del sistema de movilidad del área metropolitana o sus respectivas regiones según corresponda.
 
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 18 Bis.
+
+En el caso de la zona metropolitana del Estado, su planeación y regulación en materia de movilidad y seguridad vial se podrá realizar de manera conjunta y coordinada entre Municipios, a través de sus instancias de gobernanza establecidas por la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, mediante convenios de coordinación que para tal efecto se elaboren, con apego a la dispuesto en este (sic) Ley y demás disposiciones jurídicas aplicables.
+
 ###### Artículo 19.
 
 Las facultades de inspección, vigilancia y sanciones podrán ser concurrentes en los términos de los convenios que para tal efecto celebren los municipios y el Instituto.
@@ -515,9 +1375,7 @@ La construcción, mejoramiento y adaptación de las vías, aceras, pasos peatona
 
 ## TÍTULO TERCERO. INSTITUTO
 
-### CAPÍTULO SEGUNDO. DIRECCIÓN GENERAL
-
-> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 21.
 
@@ -565,7 +1423,13 @@ VIII. En coordinación con la Secretaría, instrumentar, programas y campañas p
 
 IX. Prestar de manera directa el servicio de transporte público de pasajeros, así como realizar todas las gestiones técnicas, operativas, financieras, administrativas y demás necesarias para tal efecto, tomando en consideración los estudios, análisis, dictámenes y recomendaciones que realice el Comité Técnico;
 
-X. Aplicar las tarifas autorizadas por la Junta de Gobierno al transporte en sus diversas modalidades, no comprendidas por metrorrey, con base en la propuesta que realice el Comité Técnico al propio Consejo Consultivo;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+X. Aplicar las tarifas autorizadas por la Junta de Gobierno al transporte en sus diversas modalidades, no comprendidas por Metrorrey, con base en la propuesta que realice el Comité Técnico al propio Consejo Consultivo;
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+Para tal efecto estas tarifas deberán ser publicadas para conocimiento de todas las personas usuarias en los Periódicos o Gacetas Oficiales con la debida anticipación.
 
 XI. Proponer a las autoridades competentes medidas o mecanismos adecuados para abatir los índices de delincuencia y criminalidad cometidas en perjuicio de los usuarios y prestadoras del Servicio Estatal de Transporte;
 
@@ -619,17 +1483,23 @@ XXXIII. Establecer, instrumentar e implementar las políticas, normas y acciones
 
 XXXIV. Recaudar, fiscalizar y administrar las contribuciones, productos y aprovechamientos que se generen por la prestación de los servicios que formen parte de su objeto, así como celebrar con toda clase de autoridades y terceros los convenios que estime necesarios para la realización de estas tareas;
 
-> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XXXV. Celebrar convenios con los municipios a efecto de destinar recursos para el mantenimiento y reparación de pavimentos, banquetas, cruces peatonales, semáforos y demás infraestructura para la movilidad; y
+XXXV. Celebrar convenios con los municipios a efecto de destinar recursos para el mantenimiento y reparación de pavimentos, banquetas, cruces peatonales, semáforos y demás infraestructura para la movilidad;
 
-> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-XXXVI. Las demás que determine esta Ley, su Reglamento, el Reglamento Interior del Instituto de Movilidad y Accesibilidad y otros ordenamientos aplicables. Estado previa opinión de la Junta de Gobierno.
+XXXVI. Coadyuvar y colaborar conforme a su ámbito de competencia con el Observatorio Ciudadano de Movilidad y Seguridad Vial;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXXVII. Las demás que determine esta Ley, su Reglamento, el Reglamento Interior del Instituto de Movilidad y Accesibilidad y otros ordenamientos aplicables.
 
 En la prestación de servicios y trámites que sean de la competencia del Instituto, deberá privilegiarse el uso de la tecnología y trámites digitales.
 
-### CAPÍTULO TERCERO. JUNTA DE GOBIERNO
+### CAPÍTULO SEGUNDO. DIRECCIÓN GENERAL
+
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
 
 ###### Artículo 24.
 
@@ -701,7 +1571,7 @@ XIX. Emitir una Alerta de Violencia de Género contra las Mujeres en el Sistema 
 
 XX. Las demás que determine esta Ley, su Reglamento, el Reglamento Interior, otros ordenamientos jurídicos aplicables o el Titular del Poder Ejecutivo del Estado.
 
-### CAPÍTULO CUARTO. COMITÉ DE VIGILANCIA
+### CAPÍTULO TERCERO. JUNTA DE GOBIERNO
 
 ###### Artículo 27.
 
@@ -731,7 +1601,9 @@ VIII. Director General del Instituto;
 
 IX. Diputado local que designe el congreso del Estado;
 
-X. Un representante del Observatorio de Seguridad Vial;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+X. Un representante del Observatorio de Movilidad y Seguridad Vial;
 
 XI. Un representante del Instituto Estatal de las Mujeres de Nuevo León;
 
@@ -807,7 +1679,7 @@ XIII. Requerir opinión al Comité Técnico, respecto a los dictámenes y/o estu
 
 XIV. Las demás que le otorgue esta Ley, su Reglamento u otras disposiciones jurídicas aplicables.
 
-### CAPÍTULO QUINTO. COMITÉ TÉCNICO
+### CAPÍTULO CUARTO. COMITÉ DE VIGILANCIA
 
 ###### Artículo 31.
 
@@ -847,7 +1719,7 @@ Los vocales del Comité de Vigilancia serán electos entre ciudadanos que partic
 
 El Comité de Vigilancia contará con el personal administrativo y operativo a su cargo para realizar sus funciones.
 
-### CAPÍTULO SEXTO. CENTRO DE GESTIÓN DE LA MOVILIDAD
+### CAPÍTULO QUINTO. COMITÉ TÉCNICO
 
 ###### Artículo 37.
 
@@ -929,7 +1801,7 @@ VI. No ser ministro de culto religioso, militar en activo, dirigente de partido 
 
 VII. Acreditar experiencia profesional, no menor a diez años, en materia de movilidad, transporte o materias afines.
 
-### CAPÍTULO SÉPTIMO. OBSERVATORIO CIUDADANO DE SEGURIDAD VIAL
+### CAPÍTULO SEXTO. CENTRO DE GESTIÓN DE LA MOVILIDAD
 
 ###### Artículo 42.
 
@@ -949,17 +1821,23 @@ El Centro de Gestión de Movilidad coordinará los Centros de Control y Operaci�
 
 El Centro de Gestión de Movilidad, contará con un Director y cuerpo técnico propio que tendrán las funciones definidas en el Reglamento Interior. Al Director del Centro de Gestión de Movilidad le será aplicable en lo conducente lo establecido en el artículo 40 de la presente Ley.
 
-### CAPÍTULO OCTAVO. CONSEJO CONSULTIVO DE MOVILIDAD Y ACCESIBILIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+### CAPÍTULO SÉPTIMO. OBSERVATORIO CIUDADANO DE MOVILIDAD Y SEGURIDAD VIAL
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 46.
 
-El Instituto contará con el apoyo de una unidad ciudadana especializada denominada Observatorio Ciudadano de Seguridad Vial dependiente del Instituto de Control Vehicular, cuyo objeto será el de coadyuvar con el Instituto en el análisis de los hechos de tránsito ocurridos en el Estado, su naturaleza, frecuencia, distribución, causas y consecuencias, para diseñar y, en su caso, proponer a las autoridades competentes las estrategias, programas y políticas públicas encaminadas a la prevención.
+El Instituto contará con el apoyo de una unidad ciudadana especializada denominada Observatorio Ciudadano de Movilidad y Seguridad Vial dependiente del Instituto de Control Vehicular, cuyo objeto será el de coadyuvar con el Instituto en el análisis de los hechos de tránsito ocurridos en el Estado, su naturaleza, frecuencia, distribución, causas y consecuencias, para diseñar y, en su caso, proponer a las autoridades competentes las estrategias, programas y políticas públicas encaminadas a la prevención.
 
-El Instituto de Control Vehicular destinará recursos humanos, materiales y económicos suficientes al Observatorio Ciudadano de Seguridad Vial para el desempeño de sus funciones.
+El Instituto de Control Vehicular destinará recursos humanos, materiales y económicos suficientes al Observatorio Ciudadano de Movilidad y Seguridad Vial para el desempeño de sus funciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 47.
 
-El Observatorio Ciudadano de Seguridad Vial podrá emitir recomendaciones no vinculatorias a las dependencias y entidades de la Administración Pública Estatal y Municipal, respectivamente, sobre temas de carácter normativo, infraestructura vial, aplicación y usos de tecnología, educación y cultura vial, capacitación, profesionalización y planeación de uso de espacios públicos; y tendrá las siguientes facultades:
+El Observatorio Ciudadano de Movilidad y Seguridad Vial podrá emitir recomendaciones no vinculatorias a las dependencias y entidades de la Administración Pública Estatal y Municipal, respectivamente, sobre temas de carácter normativo, infraestructura vial, aplicación y usos de tecnología, educación y cultura vial, capacitación, profesionalización y planeación de uso de espacios públicos; y tendrá las siguientes facultades:
 
 I. Solicitar a las autoridades estatales y municipales la información relacionada con hechos de tránsito que se susciten en el ámbito de su competencia;
 
@@ -981,7 +1859,7 @@ IX. Celebrar convenios para intercambios de información con las instituciones a
 
 X. Emitir y publicar en sus portales electrónicos reportes trimestrales acerca de las estadísticas viales.
 
-### CAPÍTULO NOVENO. PATRIMONIO
+### CAPÍTULO OCTAVO. CONSEJO CONSULTIVO DE MOVILIDAD Y ACCESIBILIDAD
 
 ###### Artículo 48.
 
@@ -1127,7 +2005,9 @@ V. Accesibilidad y Desarrollo Inmobiliario;
 
 VI. Espacio Público;
 
-VII. Energías Limpias;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+VII. Electromovilidad y energías Limpias;
 
 VIII. Movilidad No Motorizada;
 
@@ -1207,7 +2087,7 @@ VIII. Actuar como escrutador en la votación de los asuntos tratados; y
 
 IX. En general, llevar a cabo todas las actividades que específicamente le encomiende el Presidente del Consejo.
 
-### CAPÍTULO PRIMERO. SISTEMA DE TRANSPORTE PÚBLICO
+### CAPÍTULO NOVENO. PATRIMONIO
 
 ###### Artículo 59.
 
@@ -1229,7 +2109,67 @@ VII. Los créditos que obtenga, así como los bienes y derechos que adquiera leg
 
 VIII. Cualquiera otra percepción de la cual el Instituto resulte beneficiario.
 
-## TÍTULO CUARTO. SEGURIDAD VIAL
+> <small>(ADICIONADO [N. DE E. REFORMADA SE DENOMINACIÓN], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+## TÍTULO CUARTO. DE LOS INSTRUMENTOS DE POLÍTICA PÚBLICA DE MOVILIDAD Y SEGURIDAD VIAL DEL TRÁNSITO
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 59 Bis.
+
+Las autoridades competentes podrán regular y ordenar la circulación de vehículos mediante el establecimiento de modalidades al flujo vehicular en días, horarios y vías, cuando así lo estimen pertinente, con objeto de mejorar las condiciones ambientales, de salud y de seguridad vial en puntos críticos o derivado de la realización de otras actividades públicas.
+
+La regulación y ordenamiento de la circulación se podrán aplicar considerando el impacto vial y ambiental de cada tipo de vehículo, dando preferencia a vehículos eficientes, sin que ello implique tramitar la expedición de permisos adicionales para la movilidad de bienes y mercancías.
+
+Para efectos del párrafo anterior, las autoridades deberán reconocer los permisos otorgados por éstas para suministrar los servicios de transporte; sin regular ni gravar al autotransporte federal de carga y sus servicios auxiliares, en términos de lo establecido en la Ley General de Movilidad y Seguridad Vial.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 59 Bis 1.
+
+Las autoridades competentes, en las regulaciones que se emitan sobre el diseño vial seguro, establecerán la utilización de dispositivos de control del tránsito y dispositivos de seguridad vial de manera progresiva, acordes a la evidencia internacional, con el objeto de establecer estándares estatales y municipales.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 59 Bis 2.
+
+La Estrategia Estatal de Movilidad y Seguridad Vial establecerá las bases para el desarrollo de la movilidad y la seguridad vial del Estado, en el corto, mediano y largo plazo, en congruencia con el Plan Estatal de Desarrollo, los programas sectoriales, regionales, y municipales en materia de movilidad, seguridad vial y ordenamiento territorial, y demás aplicables, así como aquellas especificas a los grupos en situación de vulnerabilidad.
+
+La Estrategia Estatal de Movilidad y Seguridad Vial será formulada y aprobada por el Sistema Estatal y publicada en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 59 Bis 3.
+
+Para la formulación de la Estrategia Estatal se deberá observar, al menos, lo siguiente:
+
+I. Integración de los objetivos en concordancia con los instrumentos de naturaleza Nacional e Internacional de los que forme parte el Estado Mexicano;
+
+II. Identificación de los sistemas de movilidad de los centros de población del Estado e interurbanos y rurales con su respectivo diagnóstico, caracterización y delimitación de aquellos con carácter metropolitano;
+
+III. Vinculación de la movilidad y la seguridad vial con la política de desarrollo urbano y ordenamiento territorial, así como a las políticas sectoriales aplicables y demás que se requieran;
+
+IV. Establecimiento de mecanismos para el fortalecimiento de las políticas y acciones afirmativas en materia de movilidad y seguridad vial;
+
+V. Promoción de la congruencia de las políticas, programas y acciones, que, en los distintos órdenes de gobierno, deberán implementarse en materia de movilidad y seguridad vial;
+
+VI. Conformación de las estrategias que promuevan modos de transporte público sostenibles y seguros, el uso de vehículos no motorizados, vehículos no contaminantes y otros modos de alta eficiencia energética;
+
+VII. Establecimiento de las bases para los mecanismos de planeación, organización, regulación, implementación, articulación intersectorial, así como la participación de la sociedad y de los sectores público, privado y social con enfoque multisectorial, ejecución, control, evaluación y seguimiento de la Estrategia; e
+
+VIII. Información sobre la movilidad y la seguridad vial que permita integrar indicadores de proceso, efectos, resultados e impacto desagregado entre los grupos en situación de vulnerabilidad y personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 59 Bis 4.
+
+La Estrategia Estatal tendrá una visión con un horizonte a corto, mediano y largo plazo del desarrollo estatal de la movilidad y la seguridad vial. Tendrá como objetivo gestionar, desde un enfoque de sistemas seguros, la movilidad y seguridad vial, con la premisa que el cambio en su instrumentación será progresivo, las acciones y políticas deberán obedecer a un proceso interactivo. Podrá ser revisada y, en su caso, actualizada cada cuatro años o cuando ocurran cambios profundos que puedan afectar la estructura de movilidad del Estado. Su elaboración y modificación será conforme a lo siguiente:
+
+I. El Sistema Estatal formulará y aprobará la Estrategia Estatal;
+
+II. Una vez aprobada la Estrategia Estatal, se publicará en el Periódico Oficial del Estado; y
+
+III. Las Dependencias y Entidades de la Administración Pública Estatal y los municipios ajustarán sus políticas y acciones a lo establecido en la Estrategia.
 
 ###### Artículo 60.
 
@@ -1303,6 +2243,32 @@ X. Las demás previstas para el cumplimiento de la presente Ley.
 
 En el caso del área metropolitana, las autoridades correspondientes, en el ámbito de su competencia, planearán y regularán de manera conjunta y coordinada las acciones en materia de seguridad vial, con apego a lo dispuesto en esta Ley. Las autoridades competentes de los órdenes de gobierno, promoverán en sus estrategias, planes y programas de seguridad vial, el uso de la bicicleta como modo de transporte prioritario.
 
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 66 Bis.
+
+Los programas, acciones y proyectos de infraestructura relacionados con la movilidad y la seguridad vial se enfocarán prioritariamente en lo siguiente:
+
+I. Implementar mejoras a la infraestructura para la movilidad no motorizada y peatonal, así como efectuar acciones para la integración y fortalecimiento del servicio de transporte público, de los Municipios, con el fin de promover su uso y cumplir con el objeto de esta Ley;
+
+II. La mejora de la infraestructura para la movilidad, servicios auxiliares y el transporte que promuevan el diseño universal y la seguridad vial;
+
+III. Desarrollar políticas para reducir siniestros de tránsito, así como proyectos estratégicos de infraestructura para la movilidad y seguridad vial, priorizando aquellos enfocados en proteger la vida e integridad de las personas usuarias de las vías, donde se considere los factores de riesgo;
+
+IV. Impulsar la planeación de la movilidad y la seguridad vial orientada al fortalecimiento y a mejorar las condiciones del transporte público, su integración con el territorio, así como la distribución eficiente de bienes y mercancías;
+
+V. Realizar estudios para la innovación, el desarrollo tecnológico e informático, así como para promover la movilidad no motorizada y el transporte público en los centros de población con menores ingresos;
+
+VI. Desarrollar programas de información, educación e investigación en materia de sensibilización, educación y formación sobre movilidad y seguridad vial; y
+
+VII. Otros que permitan el cumplimiento de esta Ley, sus principios y objetivos conforme a la jerarquía de la movilidad.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 66 Bis 1.
+
+El Estado y los Municipios en sus respectivas disposiciones normativas, preverán la elaboración de estudios de evaluación del impacto en la movilidad y la seguridad vial, lo cual tendrá por objeto analizar y evaluar las posibles influencias o alteraciones generadas por la realización de obras y actividades privadas y públicas, sobre los desplazamientos de las personas y bienes, a fin de evitar o reducir los efectos negativos sobre la calidad de vida, la accesibilidad, la competitividad, y los demás aspectos previstos en esta Ley.
+
 ###### Artículo 67.
 
 Los planes y programas en materia de seguridad vial deben de contener al menos los siguientes elementos:
@@ -1323,19 +2289,193 @@ VII. Indicadores de evaluación; y
 
 VIII. Mecanismos de participación, transparencia y rendición de cuentas.
 
-> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 67 Bis.
+
+El Estado y los Municipios de conformidad con lo establecido en las leyes en la materia y en el ámbito de sus facultades, podrán considerar la implementación de los instrumentos económicos y financieros, públicos y privados, de carácter nacional o internacional necesarios para mejorar la eficiencia y equidad en el acceso de los sistemas de movilidad, la renovación vehicular, la gestión de la seguridad vial y la sostenibilidad.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 68.
 
-Las autoridades en el ámbito de su competencia, llevarán a cabo los operativos de alcoholimetría, aplicando los límites de alcohol en sangre y aire aspirado, establecidos en los lineamientos que emita la Secretaria de Salud. En el caso de que algún conductor dé positivo a una prueba de alcoholimetría durante la conducción de un vehículo motorizado, independientemente de las sanciones administrativas correspondientes, le será suspendida por un período de tres meses la licencia de conducir y en caso de reincidencia le será suspendida por un año. La autoridad correspondiente deberá remitir al Instituto los datos de referencia para incluirlos en el historial del conductor. Cuando un conductor en estado de ebriedad o bajo el influjo de drogas o enervantes provoque un accidente vial, en un vehículo de transporte de materiales peligrosos, transporte escolar, vehículos de emergencia y transporte de pasajeros será acreedor a la cancelación definitiva de su licencia.
+Las autoridades en el ámbito de su competencia, llevarán a cabo los operativos de alcoholimetría, aplicando los límites de alcohol en sangre y aire aspirado, establecidos en los lineamientos que emita la Secretaria de Salud y en el presente ordenamiento. En el caso de que algún conductor dé positivo a una prueba de alcoholimetría durante la conducción de un vehículo motorizado, independientemente de las sanciones administrativas correspondientes, le será suspendida por un período de tres meses la licencia de conducir y en caso de reincidencia le será suspendida por un año. La autoridad correspondiente deberá remitir al Instituto los datos de referencia para incluirlos en el historial del conductor. Cuando un conductor en estado de ebriedad o bajo el influjo de drogas o enervantes provoque un accidente vial, en un vehículo de transporte de materiales peligrosos, transporte escolar, vehículos de emergencia y transporte de pasajeros será acreedor a la cancelación definitiva de su licencia.
 
-## TÍTULO QUINTO
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-SISTEMA ESTATAL DE MOVILIDAD.
+###### Artículo 68 Bis.
 
-### CAPÍTULO SEGUNDO. SERVICIO DE TRANSPORTE PRIVADO
+Las autoridades responsables de la atención médica prehospitalaria deberán registrar e informar mensualmente a las respectivas plataformas, la fecha y hora de recepción de cada llamada de emergencia en la materia; la fecha y hora de arribo al sitio del siniestro de tránsito; la cinemática del trauma; el número de víctimas involucradas y las características de las lesiones, de acuerdo con los lineamientos que al respecto emitan las autoridades competentes.
 
-### CAPÍTULO TERCERO. MEDIOS NO MOTORIZADOS Y MICROMOVILIDAD
+La información y registros generados en relación con la atención médica prehospitalaria estarán disponibles en el Sistema de Información Territorial y Urbano garantizando la protección de la información que corresponda, en términos de lo establecido en las Leyes Federales y Generales de Transparencia y Acceso a la Información Pública y de Protección de Datos Personales en Posesión de Sujetos Obligados y demás normatividad, así como la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 68 Bis 1.
+
+El Estado y los Municipios deberán incluir en sus reglamentos de tránsito disposiciones respecto de las medidas mínimas de tránsito, así como su aplicación y supervisión de éstas, atendiendo y salvaguardando la seguridad, protegiendo la vida y la integridad física de las personas en sus desplazamientos bajo el principio de que toda muerte o lesión por siniestros de tránsito es prevenible, por lo que deberán establecer estrategias, planes y programas de infraestructura vial que, reconociendo la posibilidad del error humano y la interseccionalidad de las personas usuarias de la vía, se encaminen a evitar muertes, lesiones, incluidas en las que se adquiere alguna discapacidad, a través del mejoramiento de la infraestructura vial.
+
+Las autoridades competentes establecerán, en su normativa aplicable, las sanciones correspondientes a quienes infrinjan las medidas mínimas establecidas en el presente artículo.
+
+Por lo anterior los reglamentos de tránsitos y demás normatividades aplicables tendrán que regirse bajo las siguientes características mínimas:
+
+I. Que las personas conductoras cuenten con licencia o permiso de conducir vigente, la cual deberá ser la adecuada para el tipo de vehículo que se pretenda operar;
+
+II. La preferencia del paso de personas peatonas en el cruce de vías públicas de acuerdo con el diseño y funcionalidad de éstas, de conformidad con la jerarquía de la movilidad;
+
+III. El establecimiento de límites de velocidad con base en evidencia científica de carácter nacional o internacional, a fin de mantenerlas por debajo de un umbral de seguridad indispensable para salvaguardar la vida y la integridad de las personas usuarias; por lo que las velocidades máximas no deberán rebasar las siguientes:
+
+a) 20 km/h en zonas de hospitales, asilos, albergues, y casas hogar;
+
+b) 20 km/h en zonas y entornos escolares en vías secundarias y calles terciaria; y hasta 30 km/h en zonas y entornos escolares en vías primarias y carreteras;
+
+c) 30 km/h en calles secundarias y calles terciarias;
+
+d) 50 km/h en avenidas primarias sin acceso controlado;
+
+e) 80 km/h en carriles centrales de avenidas de acceso controlado;
+
+f) 80 km/h en carreteras estatales fuera de zonas urbanas; 50 km/h dentro de zonas urbanas;
+
+g) 110 km/h para automóviles, 95 km/h para autobuses, y 80 km/h para transporte de bienes y mercancías en carreteras y autopistas de jurisdicción estatal; y
+
+h) Ninguna intersección, independientemente de la naturaleza de la vía, podrá tener velocidad de operación mayor a 50 km/h en cualquiera de sus accesos.
+
+IV. La utilización del cinturón de seguridad de forma obligatoria para todos los pasajeros de vehículos motorizados, de acuerdo con los requisitos establecidos en la Norma Oficial Mexicana aplicable;
+
+V. El uso de tecnologías como medio auxiliar para la prevención y captación de infracciones a fin de prevenir y mitigar factores de riesgo que atenten contra la integridad, dignidad o libertad de las personas;
+
+VI. Que cualquier persona menor de doce años o que midan menos de 1.45 metros, viaje en los asientos traseros con un sistema de retención infantil o en un asiento de seguridad que cumpla con los requisitos establecidos en la Norma Oficial Mexicana aplicable;
+
+VII. El uso de sistemas de sujeción para sillas de ruedas en el transporte público;
+
+VIII. Que todos los vehículos motorizados cuenten con los estándares establecidos en la Norma Oficial Mexicana aplicable;
+
+IX. El uso obligatorio de casco para personas conductoras y pasajeros de motocicletas que cumpla con la Norma Oficial Mexicana aplicable en la materia;
+
+X. La prohibición de hablar por teléfono celular o cualquier otro dispositivo electrónico o de comunicación, así como leer y/o enviar mensajes de texto por medio de cualquier tipo de dispositivo electrónico, salvo que se realice mediante tecnología de manos libres;
+
+XI. En el caso de que sea necesaria la utilización de dispositivos electrónicos o de comunicación para la prestación del servicio de transporte, el teléfono celular o cualquier otro tipo de dispositivo electrónico deberá estar debidamente colocado en un sujetador que facilite su manipulación y que no obstaculice la visibilidad al conducir;
+
+XII. La obligación del Estado y los Municipios de realizar pruebas de alcoholemia de manera permanente con el objetivo de evitar la conducción de cualquier tipo de vehículos bajo el efecto del alcohol. Para tal efecto queda prohibido conducir con una alcoholemia superior a 0.25 mg/L en aire espirado o 0.05 g/dL en sangre, salvo las siguientes consideraciones:
+
+a) Para las personas que conduzcan motocicletas queda prohibido hacerlo con una alcoholemia superior a 0.1 mg/L en aire espirado o 0.02 g/dL en sangre.
+
+b) Para vehículos destinados al transporte de pasajeros y de carga, queda prohibido conducir con cualquier concentración de alcohol por espiración o litro de sangre.
+
+La autoridad competente realizará el respectivo control de alcoholimetría mediante el método aprobado por la Secretaría de Salud;
+
+XIII. La supervisión de pesos y dimensiones de todos los vehículos motorizados en todas sus modalidades deberán cumplir con las Normas Oficiales Mexicanas y demás leyes aplicables, y
+
+XIV. Medidas para la prevención y mitigación de factores de riesgo.
+
+El Estado y los Municipios podrán prever en los convenios de coordinación metropolitana, la armonización de los reglamentos aplicables, y la estandarización de procesos y capacitaciones relacionadas con lo establecido en el presente artículo.
+
+Las autoridades evaluarán la medida y proporcionalidad de las sanciones de tránsito que se establezcan.
+
+Los municipios establecerán en sus respectivos reglamentos de tránsito que a las personas que sean sorprendidas manejando bajo el influjo del alcohol o cualquier droga, psicotrópico o estupefaciente, se les retire la licencia o permiso para conducir por un periodo no menor a un año y por un periodo no menor a seis meses en caso de conductores de transporte público o transporte de carga.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 68 Bis 2.
+
+El Estado y los Municipios, en el ámbito de sus competencias, procurarán que todos los proyectos de infraestructura vial a implementar generen espacios públicos de calidad, incluyendo estacionamientos públicos, bahías de carga y descarga de bienes y mercancías, entre otros, que sean respetuosos del medio ambiente, accesibles, seguros, incluyentes, con perspectiva de interseccionalidad y con criterios de diseño universal y habitabilidad para la circulación de personas peatonas y vehículos no motorizados, debiendo considerar también la conectividad con la red vial, a través de intersecciones que sigan los criterios de velocidad, legibilidad, trayectorias directas, multimodalidad, continuidad de superficie, prioridad de paso, paradores seguros y visibilidad, en términos de lo que establezca la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 68 Bis 3.
+
+A efecto de mejorar la calidad ambiental y disminuir los riesgos de siniestros de tránsito, las autoridades competentes podrán promover mecanismos y programas para la renovación del parque vehicular de prestadores del servicio de transporte público de pasajeros y de carga.
+
+Las autoridades competentes podrán establecer los acuerdos necesarios para la conservación, mantenimiento, renovación y cumplimiento de las especificaciones técnicas del parque vehicular destinado a la prestación de los sistemas de transporte, además de implementar las medidas necesarias para fomentar la renovación.
+
+> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+## TÍTULO QUINTO. SISTEMA ESTATAL DE MOVILIDAD Y SEGURIDAD VIAL
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+### CAPÍTULO PRIMERO. SISTEMA ESTATAL DE MOVILIDAD Y SEGURIDAD VIAL
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 68 Bis 4.
+
+El Sistema Estatal de Movilidad y Seguridad Vial será el mecanismo de coordinación entre las autoridades competentes en materia de movilidad y seguridad vial, entre las autoridades estatales y los Municipios, así como con los sectores de la sociedad en la materia, a fin de cumplir el objeto, los objetivos y principios de esta Ley, la política, el Plan Estatal de Desarrollo, y los instrumentos de planeación específicos.
+
+I. El Sistema Estatal estará integrado por las personas Titulares o representantes legales de:
+
+a) La Secretaría de Movilidad y Planeación Urbana;
+
+b) La Secretaría de Economía;
+
+c) La Red Estatal de Autopistas;
+
+d) El Instituto;
+
+e) El Titular de Metrorrey;
+
+f) Por los Municipios, la persona que sea designada por el Ayuntamiento; y
+
+g) El Sistema podrá invitar a participar a otras autoridades de movilidad que se considere necesarias con voz y voto y las demás que se determinen sólo con voz para el debido cumplimiento del objeto de la Ley.
+
+La Presidencia del Sistema Estatal será ejercida por el Titular de la Secretaría de Movilidad y Planeación.
+
+II. El Sistema Estatal tendrá las siguientes facultades:
+
+a) Emitir los lineamientos para su organización y operación, donde deberán establecerse los mecanismos de participación de instancias de coordinación metropolitana y organizaciones de la sociedad civil, así como la periodicidad de sus reuniones;
+
+b) Establecer la instancia que fungirá como órgano técnico de apoyo para el seguimiento de los acuerdos y resoluciones que se emitan;
+
+c) Emitir acuerdos y resoluciones generales para el funcionamiento del Sistema Estatal;
+
+d) Establecer las bases de planeación, operación, funcionamiento y evaluación de las políticas en materia de movilidad y seguridad vial de carácter estatal, sectorial y regional, a fin de desarrollar los objetivos del Plan Estatal de Desarrollo, los programas estatales y los planes de los Municipios;
+
+e) Establecer de manera transversal los mecanismos y criterios de la vinculación de la movilidad y la seguridad vial como fenómenos multifactoriales y multidisciplinarios con el transporte, la accesibilidad, el tránsito, ordenamiento territorial, desarrollo urbano, medio ambiente, cambio climático, desarrollo sostenible y espacio público, así como el ejercicio de los derechos sociales relacionados con accesibilidad, que deberán ser observados para la coordinación entre las autoridades competentes;
+
+f) Diseñar y aprobar la política estatal en materia de movilidad y seguridad vial, la cual retomará las opiniones de los grupos de la sociedad civil, de los pueblos y comunidades indígenas, afromexicanas, organizaciones de personas con discapacidad, según los estándares que aplican a cada grupo;
+
+g) Formular y aprobar la Estrategia Estatal que será la base para el diseño de políticas, planes y acciones que implementen las autoridades de los tres órdenes de gobierno en la materia;
+
+h) Proponer variables e indicadores al Sistema de Información Territorial y Urbano en materia de movilidad y seguridad vial, así como los mecanismos de recolección, integración, sistematización y análisis de información, de conformidad con lo establecido en las normas jurídicas en materia de transparencia, acceso a la información y protección de datos personales;
+
+i) Analizar lo contenido en el Sistema de Información Territorial y Urbano de manera sistemática para realizar estudios, diagnósticos, proponer iniciativas, intervenciones, acciones afirmativas y ajustes razonables, para dar seguimiento y evaluación de las políticas e intervenciones dirigidas a mejorar las condiciones de la movilidad y la seguridad vial con perspectiva interseccional y de derechos humanos;
+
+j) Expedir los lineamientos que establecerán los métodos y procedimientos para guiar los proyectos y acciones en materia de movilidad, vinculados con políticas, directrices y acciones de interés metropolitano, que cumplan con su objetivo de cobertura y guarden congruencia con los distintos niveles y ámbitos de planeación, así como con los principios de esta Ley;
+
+k) Determinar los distintos tipos de vías del territorio estatal, de conformidad con sus características físicas y usos, a efecto de establecer límites de velocidad de referencia, que deberán ser tomados en cuenta por las autoridades competentes, con el fin de garantizar la seguridad de todas las personas usuarias de éstas;
+
+l) Formular manuales y lineamientos que orienten la política para los sistemas de movilidad en los centros de población, con perspectiva interseccional y de derechos humanos, que:
+
+i) Orienten criterios para el diseño vial que permitan la identificación de las necesidades o requerimientos de las personas usuarias de la vía;
+
+ii) Promuevan la seguridad vial y la utilización adecuada de la red vial, enfoque de sistemas seguros, su infraestructura, equipamiento auxiliar, dispositivos para el control del tránsito, servicios auxiliares y elementos inherentes o incorporados a ella;
+
+iii) Propongan las especificaciones técnicas del parque vehicular;
+
+iv) Otras que fortalezcan la movilidad y la seguridad vial equitativa, igualitaria e incluyente;
+
+v) Establecer los lineamientos para la conformación y desarrollo de los sistemas integrados de transporte en los diferentes centros de población, así como los criterios de diseño, implementación, ejecución y evaluación de la articulación física, operacional, informativa y de imagen, que permitan el desplazamiento de personas, bienes y mercancías entre ellos;
+
+vi) Promover los acuerdos y la coordinación entre las autoridades para fortalecer la regulación del transporte de carga a efecto de mejorar su eficiencia operacional y ambiental;
+
+vii) Realizar el seguimiento, revisión y evaluación de programas, planes y proyectos en materia de movilidad y seguridad vial y sus impactos en los grupos en situación de vulnerabilidad, a través de los instrumentos que para tal efecto se emitan;
+
+viii) Promover la coordinación efectiva de las instancias que integran el Sistema Estatal de la mano con el Sistema Nacional, y dar seguimiento a las acciones que para tal efecto se establezcan;
+
+ix) Elaborar un informe anual sobre el cumplimiento del objeto y objetivos de la presente Ley, así como del avance de la Estrategia Estatal, que será remitida a las autoridades competentes para su conocimiento;
+
+x) Establecer los lineamientos para la práctica de auditorías e inspecciones de infraestructura y seguridad vial;
+
+m) Aprobar la creación de Subsistemas, transitorios o permanentes, para la realización de tareas específicas relacionadas con su objeto;
+
+n) Remitir la información generada en materia de movilidad y seguridad vial a las instancias federales correspondientes, en términos del artículo 30 de la Ley General de Movilidad y Seguridad Vial; y
+
+o) Las demás que se establezcan para el funcionamiento del Sistema y el cumplimiento del objeto de la presente Ley.
+
+> <small>(ADICIONADO [N. DE E. REFORMADA SU NUMERACIÓN], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+### CAPÍTULO SEGUNDO. SISTEMA DE TRANSPORTE PÚBLICO
 
 ###### Artículo 69.
 
@@ -1349,6 +2489,20 @@ III. El Servicio de Taxis; y
 
 IV. Servicio Auxiliar de Transporte.
 
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 69 Bis.
+
+El servicio público de tránsito es la actividad técnica, realizada directamente por la administración pública, encaminada a satisfacer la necesidad de carácter general de disfrutar de seguridad vial en la vía pública y poder circular por ella libremente atendiendo a la jerarquía de esta Ley, mediante la adecuada regulación de la circulación, así como del uso y disfrute del espacio público, las vías, la infraestructura, los servicios y los sistemas de movilidad. El cumplimiento uniforme y continuo de este servicio debe ser permanentemente asegurado, regulado y controlado.
+
+Las autoridades competentes establecerán los requisitos para que las personas prestadoras del servicio de transporte público garanticen un servicio seguro y de calidad, de acuerdo con requerimientos técnicos de seguridad para su operación con base en el principio de inclusión e igualdad, a fin de resguardar la vida, salud e integridad física de toda persona.
+
+Las autoridades competentes deberán establecer que las tarifas que se determinen para el servicio de transporte público sean publicadas para conocimiento de todas las personas usuarias en el Periódico Oficial del Estado, con la debida anticipación.
+
+El Estado y los Municipios, deberán proveer en las localidades rurales transporte público gratuito, a niñas, niños y adolescentes, evitando a las y los menores de edad caminatas mayores a 30 minutos o un kilómetro para educación primaria y 60 minutos o tres kilómetros para educación secundaria y media superior, con el fin de garantizar el derecho a la movilidad y el derecho a la educación.
+
+Asimismo, deberán establecer rutas de transporte público destinadas a facilitar a las personas trabajadoras el desplazamiento a sus centros de trabajo.
+
 ###### Artículo 70.
 
 Son derechos de los usuarios del servicio de Transporte Público:
@@ -1357,7 +2511,23 @@ I. Recibir un servicio público de transporte de calidad, en forma permanente, r
 
 II. Exigir documento mediante el cual se compruebe el pago conforme a la tarifa autorizada;
 
-III. A gozar de una tarifa preferencial en los supuestos que establezca el Reglamento;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+III. A gozar de una tarifa preferencial en los siguientes supuestos;
+
+a) Personas con algún tipo de discapacidad;
+
+b) Personas afiliadas al Instituto Estatal de las Personas Adultas Mayores o al Instituto Nacional de las Personas Adultas Mayores;
+
+c) Personas en situación de viudez;
+
+d) Personas jubiladas y/o pensionadas;
+
+e) Padres y madres de familias monoparentales en las que la patria potestad recaiga sobre una sola persona; y
+
+f) Estudiantes de cualquier grado en Instituciones Incorporadas a la Secretaría de Educación.
+
+Para garantizar la transparencia en la asignación de tarifas preferenciales, se deberá cumplir con los requisitos que se establezcan en el Reglamento.
 
 IV. A contar con un sistema físico y virtual, efectivo y transparente para quejas y denuncias;
 
@@ -1382,6 +2552,24 @@ c) Carteros, mensajeros de telégrafos, agentes de la policía ministerial, elem
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2021)</small>
 
 X. Realizar el pago del transporte público SETME y SETRA mediante instrumentos establecidos por la secretaria derivados del programa de reciclaje de botellas de plástico.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 70 Bis.
+
+Las autoridades competentes del Estado y los Municipios, establecerán unidades de información y quejas para que las personas usuarias denuncien cualquier irregularidad en la prestación del servicio de transporte público. Para ello, se observarán los principios de accesibilidad, prontitud, imparcialidad, integridad y gratuidad, otorgando de forma expedita atención a la persona quejosa y se le deberá informar sobre las resoluciones adoptadas.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 70 Bis 1.
+
+Para una adecuada operación de los servicios de transporte, las autoridades competentes deberán definir los instrumentos que se usen para los siguientes procesos:
+
+I. Protocolos de prevención y atención de discriminación y violencia contra las personas usuarias de la vía;
+
+II. Control y registro vehicular y revisión físico-mecánica y de emisiones; y
+
+III. Control y registro de conductores.
 
 #### SECCIÓN PRIMERA. SETME
 
@@ -1601,7 +2789,7 @@ El Servicio auxiliar de transporte es el que se ofrece en polígonos donde por s
 
 Los conductores y los vehículos que se utilicen para la prestación de este servicio deberán contar con permiso conforme a los requisitos que establezcan el Instituto y el Reglamento.
 
-### CAPÍTULO PRIMERO. SISTEMA DE PLANEACIÓN
+### CAPÍTULO SEGUNDO (SIC). SERVICIO DE TRANSPORTE PRIVADO
 
 #### SECCIÓN PRIMERA. TRANSPORTE DE CARGA
 
@@ -1827,6 +3015,10 @@ Los Municipios regularán las normas viales de circulación de estos vehículos,
 
 Los usuarios de automóviles particulares deberán en todo momento respetar el espacio público abierto, las banquetas y los carriles exclusivos y confinados de los medios de transporte no motorizados y motorizados.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+Se sancionará a los motociclistas que no respeten su carril de circulación, así como a los que circulen por pasos a desnivel o puentes donde se encuentre expresamente prohibida su circulación, en contravención con las disposiciones de esta Ley y su Reglamento.
+
 Los Municipios establecerán sanciones en sus reglamentos a los usuarios de automóviles particulares que no respeten el contenido de este artículo y de los reglamentos municipales en lo relativo al respeto al espacio público abierto, banquetas y los carriles exclusivos de los medios de transporte no motorizados y motorizados. Dichas sanciones serán en proporción a la gravedad que representa en esta Ley no respetar la prioridad que se establece en el artículo 5 de esta Ley.
 
 ###### Artículo 113.
@@ -1859,9 +3051,9 @@ III. Transporte turístico: aquel que se proporciona a grupos mayor de cinco per
 
 IV. Otros que el Instituto determine que guardan similitud con los anteriores.
 
-### CAPÍTULO SEGUNDO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-DISEÑO DE RUTAS, ITINERARIOS Y DE INFRAESTRUCTURA.
+### CAPÍTULO TERCERO. MEDIOS NO MOTORIZADOS, MICROMOVILIDAD, Y MOVILIDAD ELÉCTRICA
 
 #### SECCIÓN PRIMERA. MEDIOS NO MOTORIZADOS
 
@@ -1919,9 +3111,33 @@ En la implementación de mecanismos para traslados óptimos, se debe contemplar 
 
 En la implementación del uso de la bicicleta como modalidad para el transporte, son fundamentales la habilitación de bici-estacionamientos que reduzcan la posibilidad de robo u otros daños a estos vehículos, bajo la responsabilidad de las administraciones públicas o privadas.
 
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-Los inmuebles que ocupan las administraciones públicas estatal y municipales, así como el Poder Judicial del Estado, el Poder Legislativo del Estado, y los órganos autónomos del Estado, de acuerdo con su disponibilidad presupuestal, promoverán el contar con biciestacionamientos.
+Se sancionará a las personas conductoras o personas propietarias de vehículos que circulen o se estacionen en ciclocarriles o en los lugares específicamente destinados como biciestacionamientos, aun cuando se trate de conductores de motocicletas.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 120 Bis.
+
+Se sancionará en los términos establecidos por el artículo 120 del presente ordenamiento, a quien, haciendo uso de cualquier tipo de motocicleta, cuando al circular cometan las siguientes infracciones:
+
+I. El conductor y/o su acompañante no porte debidamente colocado y ajustado con las correas de seguridad, casco protector para motociclista;
+
+II. Llevar como acompañante a un menor de edad que no pueda sujetarse por sus propios medios y alcanzar el posapiés que tenga la motocicleta para ese efecto;
+
+III. Cuando se exceda la capacidad de pasajeros que señale la tarjeta de circulación;
+
+IV. No circular conforme a lo establecido en el Reglamento de la presente Ley;
+
+V. Circular en forma paralela o entre carriles que correspondan a otros vehículos;
+
+VI. No circular con las luces encendidas;
+
+VII. No porte debidamente los elementos de seguridad que establece el Reglamento de esta Ley; o
+
+VIII. Transporte carga peligrosa para sí mismo o para terceros.
+
+Además de las sanciones anteriormente señaladas, se retirará de la circulación la unidad como medida de seguridad, e (sic) los casos de las fracciones II y III, y en caso de reincidencia en los supuestos de las fracciones I, IV, V, VI, VII, Y VIII.
 
 ###### Artículo 121.
 
@@ -1949,61 +3165,199 @@ Los municipios en sus reglamentos de tránsito deberán de establecer los lineam
 
 En caso de que dichos vehículos sean ofrecidos como servicio al público de traslado de personas, el prestador del servicio requerirá permiso del Instituto previo dictamen favorable del Comité Técnico en los términos del Reglamento. Debiendo contar con las autorizaciones municipales correspondientes.
 
-#### SECCIÓN PRIMERA. PERMISOS DE TRANSPORTE
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
+#### SECCIÓN TERCERA. MOVILIDAD ELÉCTRICA
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 124 Bis.
+
+Para el desarrollo y operación de la movilidad eléctrica, el Estado promoverá un proceso de transición energética del transporte terrestre de combustión interna a transporte eléctrico con la implementación de medidas e incentivos en el sector público, privado, y académico.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 124 Bis 1.
+
+Los fines de la política pública que impulsa las energías limpias, son la reducción de emisiones de gases de efecto invernadero, la promoción y el crecimiento de la movilidad eléctrica en el Estado y el uso de energías renovables como herramienta de transición energética en el transporte terrestre.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 124 Bis 2.
+
+El Instituto establecerá un proceso de reemplazo progresivo de concesiones de transporte colectivo cuya fuente energética sean combustibles, por concesiones para sistemas de transporte eléctricos.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 124 Bis 3.
+
+Las unidades eléctricas de particulares y concesionarios de transporte público regulados por la presente ley, deberán portar una característica visual distintiva y exclusiva del medio de transporte, la cual estará prohibida utilizar en las unidades de combustión interna.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 124 Bis 4.
+
+Las instituciones públicas, instituciones educativas, centros comerciales, y proyectos inmobiliarios deberán contar con estacionamientos equipados para vehículos eléctricos, los cuales contarán con distintivos y señalizaciones adecuadas. Estos espacios, en ningún caso podrán reemplazar los dispuestos para personas con discapacidad o mujeres embarazadas.
+
+En el caso de nuevos proyectos, estos deberán incluir en sus planos de construcción, como mínimo, una estación de carga de vehículos eléctricos.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 124 Bis 5.
+
+El Instituto de Innovación y Transferencia de Tecnología de Nuevo León, deberá impulsar la innovación, investigación científica, la capacitación, la formación y la adaptación de planes tecnológicos para el desarrollo de profesionales y el apoyo de empresas relacionadas con el sistema de transporte, estaciones de carga de vehículos eléctricos, cargadores, motores, baterías y componentes asociados a la movilidad eléctrica.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 124 Bis 6.
+
+La Secretaría de Movilidad y Planeación Urbana publicará y actualizará en su sitio web la siguiente información:
+
+I. Mapa de estaciones de carga de vehículos que se encuentran en el Estado.
+
+II. Beneficios fiscales que existen en la adquisición de vehículos eléctricos en el Estado.
+
+III. Disposiciones reglamentarias en relación a la movilidad eléctrica en el Estado.
+
+IV. Instructivo e indicaciones sobre el procedimiento de carga eléctrica para vehículos.
+
+V. Datos, operación y estadísticas de la movilidad eléctrica en el Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 124 Bis 7.
+
+Los propietarios de vehículo (sic) eléctricos e híbridos, estarán exentos del pago de refrendo anual a que se refiere la Ley que Crea el Instituto de Control Vehicular del Estado de Nuevo León, por considerarse contribuyentes al medio ambiente y el desarrollo sostenible de la Entidad.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 124 Bis 8.
+
+Los municipios deberán promover la inclusión de estaciones de carga para vehículos eléctricos.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 124 Bis 9.
+
+Con el fin de optimizar la movilidad de los Nuevoleoneses, los municipios realizarán las gestiones necesarias para introducir la movilidad eléctrica para el uso local y recreativo.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 ## TÍTULO SEXTO. SISTEMA DE PLANEACIÓN DE LA MOVILIDAD
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+### CAPÍTULO PRIMERO. INSTRUMENTOS EN MATERIA DE MOVILIDAD Y SEGURIDAD VIAL EN LA GESTION DE LA DEMANDA Y EL SISTEMA DE PLANEACIÓN DE LA MOVILIDAD
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 124 Bis 10.
+
+La gestión de la demanda de movilidad busca reducir el uso de modos de transporte de carga y pasajeros menos eficientes y fomentar los más sustentables y seguros. Las autoridades estatales y municipales deberán implementar medidas enfocadas en reducir emisiones y demás externalidades negativas previstas en esta Ley y en la Ley General de Cambio Climático.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 124 Bis 11.
+
+Las zonas de gestión de la demanda son polígonos, que se establecen derivados de los estudios técnicos, en los que se regula el flujo de vehículos motorizados en función de sus emisiones contaminantes y/o tamaño mediante sistemas de control vial y regulación del tránsito a fin de disminuir el uso, y el impacto social y ambiental negativo, que implica su circulación, procurando no afectar en la medida de lo posible la distribución de bienes y mercancías.
+
+Las autoridades estatales y municipales, en el marco de sus facultades, podrán implementar zonas de tránsito controlado en zonas de alta demanda de viajes de las ciudades y municipios, a fin de priorizar la gestión de la seguridad vial, la movilidad peatonal, ciclista y de transporte colectivo, reducir el volumen vehicular o los vehículos con mayor impacto ambiental y de riesgo vial, mediante las disposiciones que para tal efecto emita la autoridad competente.
+
+Se podrán implementar sistemas de control vial y regulación del tránsito, usando cámaras y lectores digitales de placas o lectura visual, por parte de agentes públicos u operadores privados en los términos que se establezcan en la normatividad aplicable.
+
+Lo establecido en la presente disposición se realizará sin perjuicio de la productividad, competitividad y el mantenimiento de la regularidad de la vida cotidiana de los centros de población de conformidad con lo dispuesto en esta Ley.
+
+Los derechos de tránsito y movilidad por el Estado de los Permisionarios del Servicio de Autotransporte Federal y Transporte Privado Federal de Carga, implica el libre tránsito por vías de comunicación estatal y municipal, sin requerir concesiones, permisos o autorizaciones complementarias estatales o municipales para el tránsito de carga y descarga de mercancías en cualquier punto de destino.
+
+Los permisos federales emitidos por la Secretaría de Infraestructura Comunicaciones y Transportes, incluyen la cobertura en vías de jurisdicción estatal y municipal, por lo que el Estado y los Municipios no podrán sobre regular, ni gravar el tránsito de personas o cosas que atraviesen su demarcación territorial, en términos de lo establecido por la Ley General de Movilidad y Seguridad Vial, así como tampoco podrán prohibir la entrada o salida a su territorio de ninguna mercancía lícita nacional o extranjera
 
 ###### Artículo 125.
 
 Para los efectos de esta Ley se entiende por planeación el ordenamiento racional y sistemático de acciones, con base al ejercicio de las atribuciones de las dependencias y entidades de la administración pública estatal y municipal, y tiene como propósito hacer más eficiente y segura la movilidad en el Estado.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 126.
 
-La planeación de la movilidad en el Estado, debe ser congruente con el Plan Nacional de Desarrollo, el Programa Nacional de Desarrollo Urbano, el Programa de Ordenamiento Territorial del Estado, el Programa de Desarrollo Urbano de la Zona Metropolitana del Monterrey, los Programas Sectoriales conducentes y los demás instrumentos de planeación aplicables de acuerdo a la legislación vigente.
+La planeación de la movilidad y seguridad vial en el Estado, debe ser congruente con el Plan Nacional de Desarrollo, el Programa Nacional de Desarrollo Urbano, el Sistema de Información Territorial y Urbano establecido en la Ley General de Movilidad y Seguridad Vial, el Programa de Ordenamiento Territorial del Estado, el Programa de Desarrollo Urbano de la Zona Metropolitana de Monterrey, los Programas Sectoriales conducentes, y los demás instrumentos territoriales, metropolitanos, urbanos, y rurales vigentes.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 127.
 
-Para la planeación de la movilidad en el Estado, se observarán los siguientes criterios:
+La planeación de la movilidad y de la seguridad vial realizada por el Estado y los Municipios, integrará los principios y jerarquía de la movilidad establecidos en esta Ley, observando las siguientes acciones:
 
-I. Promover la participación ciudadana en la toma de decisiones que incidan en la movilidad sostenible;
+I. Adoptar medidas para garantizar la protección de la vida, salud y de la integridad física de todas las personas usuarias de la vía;
 
-II. Garantizar que la movilidad fomente el desarrollo urbano sostenible en observancia a las disposiciones relativas a la LAHOTDU;
+II. Adoptar las medidas necesarias para prevenir todo tipo de violencia que atente contra la dignidad e integridad de las personas que pertenecen a los grupos en situación de vulnerabilidad;
 
-III. Impulsar programas dirigidos a que el sistema de movilidad, disminuya las emisiones contaminantes a la atmósfera en observancia a las disposiciones relativas a la Ley de (sic) Ambiental del Estado de Nuevo León y su Reglamento;
+III. Impulsar programas y proyectos de movilidad con políticas de proximidad que faciliten la accesibilidad entre la vivienda, el trabajo y servicios educativos, de salud, culturales y complementarios, a fin de reducir las externalidades negativas del transporte urbano;
 
-IV. Impulsar programas y proyectos que fomenten la cercanía entre la vivienda, y el trabajo, así como los servicios escolares, de salud, recreativos o culturales, con el fin de reducir o evitar las externalidades negativas de la movilidad;
+IV. Establecer medidas que incentiven el uso del transporte público, vehículos no motorizados, vehículos no contaminantes y otros modos de movilidad de alta eficiencia energética, cuando el entorno lo permita y bajo un enfoque sistémico;
 
-V. Impulsar la aplicación de normas, criterios y acciones de diseño universal en la infraestructura para la movilidad, con especial atención a los requerimientos de personas con discapacidad y movilidad limitada;
+V. Establecer medidas que fomenten una movilidad sustentable y que satisfagan las necesidades de desplazamiento de la población, logren un sistema de integración física, operativa, informativa, de imagen y de modo de pago conectado a las vías urbanas y metropolitanas;
 
-VI. Incrementar la resiliencia del sistema de movilidad fomentando diversas opciones de transporte;
+VI. Priorizar la planeación de los sistemas de transporte público, de la estructura vial y de la movilidad no motorizada y tracción humana;
 
-VII. Priorizar la planeación de los sistemas de transporte público y de la movilidad no motorizada;
+VII. Establecer acciones afirmativas y ajustes razonables en materia de accesibilidad y diseño universal, en los sistemas de movilidad y en la estructura vial, con especial atención a los requerimientos de personas con discapacidad y movilidad reducida, y otros grupos en situación de vulnerabilidad que así lo requieran;
 
-VIII. Establecer las medidas que incentiven el uso del transporte público y el uso racional del automóvil particular;
+VIII. Promover la capacitación de las personas que operan los servicios de transporte público y servicios de emergencia en Lengua de Señas Mexicana, y atención a personas con discapacidad y movilidad reducida;
 
-IX. Procurar la integración física, operativa, informativa, de imagen y de modo de pago de los sistemas de transporte público para garantizar los horarios, transferencias modales, recorridos, frecuencias de paso y demás infraestructura con las que se proporciona el servicio;
+IX. Promover acciones para hacer más eficiente la distribución de bienes y mercancías, con objeto de aumentar la productividad en los centros de población y minimizar los impactos negativos de los vehículos de carga en los sistemas de movilidad;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2021)</small>
+X. Promover acciones que contribuyan a mejorar la calidad del medio ambiente, a través de la reducción de la contaminación del aire, las emisiones de gases de efecto invernadero, el consumo de energía y el ruido, derivados del impacto de la movilidad;
 
-X. Promover acciones y mejoras a la infraestructura, para hacer más eficiente la distribución de bienes y mercancías, pero al mismo tiempo reducir los impactos negativos de los vehículos de carga en los demás usuarios del sistema de movilidad;
+XI. Promover la participación ciudadana en la toma de decisiones en materia de movilidad dentro de los procesos de planeación;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2021)</small>
+XII. Incrementar la resiliencia del sistema de movilidad y seguridad vial fomentando diversas opciones de transporte;
 
-XI. Basar la toma de decisiones, en diagnósticos, pronósticos y criterios sustentados técnicamente, que planteen soluciones integrales y de raíz, para con ellos garantizar el uso eficiente de los recursos públicos; y
+XIII. Definir estrategias que mejoren y faciliten el acceso e inclusión de las mujeres en los sistemas de movilidad conforme a sus necesidades en un marco de seguridad;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2021)</small>
+XIV. Establecer medidas para el uso de una metodología basada en la perspectiva de género, que garantice el diseño de soluciones a través de acciones afirmativas, prioritariamente con el objetivo de erradicar las violencias de género al hacer uso de la vía. Lo anterior debe tomar en consideración la interseccionalidad de las mujeres, y los principios de equidad y transversalidad;
 
-XII. Desarrollar programas que beneficien y a su vez fomenten la participación del usuario en el tema del reciclaje, inculcando en él la cultura de la sustentabilidad.
+XV. Establecer mecanismos y acciones de coordinación administrativa y de concertación entre los sectores público, privado y social en materia de movilidad y seguridad vial;
+
+XVI. Garantizar que los factores como la velocidad y la circulación cercana a vehículos motorizados no pongan en riesgo a personas peatonas y usuarias de vehículos motorizados y de tracción humana, en particular a la niñez, personas adultas mayores, con discapacidad o con movilidad reducida y grupos en situación de vulnerabilidad;
+
+XVII. Promover el fortalecimiento del transporte público de pasajeros individual y colectivo para asegurar la accesibilidad igualitaria e incluyente de las personas usuarias de la vía y hacer uso de las tecnologías de la información y comunicación disponibles;
+
+XVIII. Considerar el vínculo de la movilidad con los planes o programas de desarrollo urbano, para lo cual deberán tomar en cuenta los lineamientos y estrategias contenidas en los programas de ordenamiento ecológico del territorio y protección al medio ambiente, conforme a las disposiciones jurídicas ambientales aplicables;
+
+XIX. Los planes o programas de desarrollo urbano deberán considerar las Normas Oficiales Mexicanas emitidas en materia de movilidad y transporte;
+
+XX. Implementar estrategias de movilidad urbana, interurbana y rural sostenible a mediano y largo plazo privilegiando el establecimiento de transporte colectivo, de movilidad no motorizada y de tracción humana y otros medios de alta eficiencia energética y ambiental;
+
+XXI. Garantizar que la movilidad fomente el desarrollo urbano sostenible en observancia a las disposiciones relativas a la LAHOTDU;
+
+XXII. Establecer las medidas que incentiven el uso del transporte público y el uso racional del automóvil particular;
+
+XXIII. Procurar la integración física, operativa, informativa, de imagen y de modo de pago de los sistemas de transporte público para garantizar los horarios, transferencias modales, recorridos, frecuencias de paso y demás infraestructura con las que se proporciona el servicio;
+
+XXIV. Promover acciones y mejoras a la infraestructura, incluida la generación de bahías de carga y descarga, para hacer más eficiente la distribución de bienes y mercancías, y reducir los impactos negativos de los vehículos de carga en los demás usuarios del sistema de movilidad;
+
+XXV. Basar la toma de decisiones, en diagnósticos, pronósticos y criterios sustentados técnicamente, que planteen soluciones integrales y de raíz, para con ellos garantizar el uso eficiente de los recursos públicos; y
+
+XXVI. Desarrollar programas que beneficien y a su vez fomenten la participación del usuario en el tema del reciclaje, inculcando en él la cultura de la sustentabilidad.
 
 ###### Artículo 128.
 
 El Programa Sectorial de Movilidad, establecido en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León y elaborado por Secretaría, deberá articularse con el Plan Estratégico del Estado, el Plan Estatal de Desarrollo, el Plan Estatal del Desarrollo Urbano, el Programa de Desarrollo Urbano de la Zona Metropolitana de Monterrey, así como los programas de desarrollo urbano de los municipios.
 
-### CAPÍTULO PRIMERO. SISTEMA DE PEAJE DEL TRANSPORTE PÚBLICO
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 128 Bis.
+
+En la planeación y diseño de la movilidad y la seguridad vial, así como en los diferentes componentes de los sistemas de movilidad y en la toma de decisiones, las autoridades competentes deberán fomentar y garantizar la participación de las mujeres, considerando su interseccionalidad, además de:
+
+I. Implementar acciones y mecanismos dentro de los sistemas de movilidad y seguridad vial, así como de las autoridades responsables, para fortalecer la información disponible y los diagnósticos, que promuevan la implementación de acciones afirmativas y con perspectiva de género que mejoren y hagan más segura, incluyente y eficiente la experiencia de la movilidad de las mujeres y de la movilidad de cuidado;
+
+II. Incluir en las estrategias e instrumentos de movilidad y seguridad vial, en los diferentes órdenes de gobierno, acciones afirmativas y con perspectiva de género para prevenir y erradicar las violencias de género. Dichas acciones serán implementadas bajo el principio de transversalidad con las autoridades competentes en los ámbitos de seguridad ciudadana, derechos humanos, entre otras. Esto también incluirá la capacitación en la materia y sensibilización de género de las personas responsables de diseñar, operar y evaluar los sistemas de movilidad; y
+
+III. Considerar en la planeación de la movilidad y la seguridad vial los criterios y contenido de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia y demás legislación en materia de prevención de la violencia en razón de género, así como incorporar recomendaciones y políticas para asegurar la integridad, dignidad y libertad de las mujeres al hacer uso de la vía, emitidas por el Instituto Nacional de las Mujeres, el Instituto Estatal de las Mujeres, la Comisión Nacional de los Derechos Humanos, la Comisión Estatal de Derechos Humanos, y demás dependencias e institutos estatales y municipales relevantes, así como de la sociedad civil y organismos internacionales.
+
+### CAPÍTULO SEGUNDO
+
+DISEÑO DE RUTAS, ITINERARIOS Y DE INFRAESTRUCTURA.
 
 ###### Artículo 129.
 
@@ -2055,17 +3409,21 @@ V. Carriles Exclusivos: Vialidades determinadas e identificadas para el único u
 
 ## TÍTULO SÉPTIMO. ESPACIO PÚBLICO E INFRAESTRUCTURA
 
-### CAPÍTULO SEGUNDO. SISTEMA DE INFORMACIÓN
+### CAPÍTULO ÚNICO
 
 ###### Artículo 134.
 
 La infraestructura para la movilidad, sus servicios y los usos de estos espacios en el Estado, se sujetará a lo previsto en la presente Ley y demás disposiciones jurídicas y administrativas aplicables, así como a las políticas establecidas por el Instituto a través de su Junta de Gobierno, de acuerdo con los siguientes criterios:
 
-I. La infraestructura para la movilidad y sus servicios deberán promover el respeto a los derechos humanos, así como la salvaguarda del orden público y serán planeados, diseñados y regulados bajo los principios establecidos en la presente Ley;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+I. La infraestructura para la movilidad y sus servicios deberán promover el respeto a los derechos humanos, así como la salvaguarda del orden público y serán planeados, diseñados, regulados y ejecutados bajo los principios jerarquía de la movilidad y criterios establecidos en la presente Ley, priorizando aquellas que atiendan a personas peatonas vehículos no motorizados y transporte público, de conformidad con las necesidades en el Estado;
 
 II. Establecer políticas y mecanismos que eviten actividades que interfieran en la seguridad de los usuarios, especialmente en los sistemas de transporte público de vía exclusiva o que utilizan carriles preferenciales;
 
-III. Promover un diseño vial que procure un uso equitativo del espacio público por parte de todos los usuarios;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+III. Promover un diseño vial que procure un uso equitativo del espacio público por parte de todos los usuarios, en concordancia con las Normas Oficiales Mexicanas expedidas para tal efecto;
 
 IV. Establecer una red vial estratégica que garantice la movilidad en casos de emergencia en relación con el desplazamiento de personas y sus bienes en situaciones de caso fortuito, fuerza mayor o alteración del orden público;
 
@@ -2099,9 +3457,11 @@ En el otorgamiento o modificación de las autorizaciones para la incorporación 
 
 Los Municipios deberán garantizar en el ámbito de sus competencias, en coordinación con el Instituto, que, en las vialidades del Estado, exista señalamiento vial y nomenclatura, conforme a lo establecido en la Ley de Señalamientos Viales para el Estado de Nuevo León y a sus Normas Técnicas.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 139.
 
-La infraestructura para la movilidad contará con áreas de transferencia destinadas a la conexión de los diversos modos de transporte que permitan un adecuado y seguro funcionamiento del tránsito peatonal y vehicular, según lo determine el Reglamento.
+La infraestructura para la movilidad contará con áreas de transferencia destinadas a la conexión de los diversos modos de transporte de bienes y mercancías que permitan un adecuado y seguro funcionamiento del tránsito peatonal y vehicular, según lo determine el Reglamento.
 
 ###### Artículo 140.
 
@@ -2123,9 +3483,19 @@ VI. Servicios básicos para que la conexión se efectúe con seguridad y comodid
 
 El espacio público comprende el establecido por la LAHOTDU y deberán cumplir con las disposiciones de esta Ley y los reglamentos municipales atendiendo a la jerarquía establecida en el artículo 5.
 
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 141 Bis.
+
+Los servicios de transporte público y privado, tanto de pasajeros como de carga, podrán desarrollarse en sistemas integrados, los cuates permitirán la incorporación gradual de la articulación física, operacional, informativa, de imagen y del medio de pago de los diversos modos.
+
+Los sistemas integrados de transporte podrán considerarse dentro de la planeación e implementación de políticas y programas de movilidad y seguridad vial, y podrán operar a través de los diferentes servicios de transporte y, en su caso, bajo esquemas metropolitanos.
+
+Las autoridades estatales y municipales tomarán en cuenta las medidas necesarias para articular, dentro de los sistemas integrados de transporte, los servicios para vehículos no motorizados y de tracción humana.
+
 ## TÍTULO OCTAVO. SISTEMA DE PEAJE DEL TRANSPORTE PÚBLICO Y SISTEMA DE INFORMACIÓN
 
-### CAPÍTULO PRIMERO. CONCESIONES
+### CAPÍTULO PRIMERO. SISTEMA DE PEAJE DEL TRANSPORTE PÚBLICO
 
 ###### Artículo 142.
 
@@ -2159,13 +3529,61 @@ Los recursos obtenidos por el pago de peaje del SETRA los concentrará y adminis
 
 El Instituto realizará el pago a los concesionarios y prestadores del SETRA se hará por kilómetro recorrido.
 
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 148 Bis.
+
+Las rutas y unidades del SETRA y del servicio de taxi operadas directamente por el Estado deberán ofertar al usuario la misma tarifa autorizada por la Junta de Gobierno para los concesionarios o permisionarios según sea el caso.
+
 ###### Artículo 149.
 
 La operación y administración del sistema único de peaje es responsabilidad y atribución del Instituto.
 
-### CAPÍTULO SEGUNDO. PERMISOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2020)</small>
+### CAPÍTULO SEGUNDO. SISTEMA DE INFORMACIÓN TERRITORIAL Y URBANO
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 149 Bis.
+
+El Estado y los Municipios en el ámbito de sus competencias, integrarán las bases de datos de movilidad y seguridad vial, las que contendrán, como mínimo, lo siguiente:
+
+I. La información contenida en el Registro Público Vehicular en términos de la Ley del Registro Público Vehicular, en estricto apego a las Leyes Federal y General de Transparencia y Acceso a la Información Pública y General de Protección de Datos Personales en Posesión de Sujetos Obligados, la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León y demás legislación aplicable;
+
+II. Licencias de conducir, incluyendo el tipo de licencia y seguros registrados por vehículo;
+
+III. Operadores de servicios de transporte;
+
+IV. Conductores de vehículos de servicios de transporte;
+
+V. Información sobre infracciones cometidas y cumplimiento de las sanciones respectivas;
+
+VI. Información sobre siniestros de tránsito, con datos que permitan, al menos, geolocalizar el lugar del siniestro a nivel de sitio, conocer el tipo de vehículo involucrado, la existencia de personas lesionadas y de víctimas fatales, por tipo de persona usuaria y sus características sociodemográficas;
+
+VII. Información sobre encuestas de calidad en el servicio de transporte público o de uso particular, cuando existan y las leyes locales así lo prevean;
+
+VIII. Información sobre encuestas origen/destino, cuando existan y las leyes así lo prevean, con atención a la movilidad del cuidado;
+
+IX. Número de unidades, capacidad y rutas de transporte público o privado;
+
+X. Alta y baja de placas de vehículos nuevos o usados;
+
+XI. Información respecto de adecuaciones de infraestructura y red vial;
+
+XII. Información sobre los resultados de las auditorías e inspecciones de seguridad vial; y
+
+XIII. La información que el Sistema Nacional determine necesaria para la debida integración de las Bases de Datos.
+
+Para el caso de vehículos no motorizados, específicamente bicicletas, monopatines, y otros vehículos sin motor de combustión interna, cuya velocidad máxima no supere veinticinco kilómetros por hora y peso menor a treinta y cinco kilogramos, no aplica el registro de vehículos salvo que la persona usuaria del vehículo necesite registrarlo por motivo de robo o extravío.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 149 Bis 1.
+
+Para el seguimiento, evaluación y control de la política, planes, programas y proyectos en materia de movilidad y seguridad vial, el Estado, mediante los convenios de coordinación respectivos, remitirán, a través de los organismos y dependencias que correspondan en el ámbito de sus competencias, la información generada en materia de movilidad y seguridad vial.
+
+La información del Estado deberá ser remitida en datos georreferenciados y estadísticos, indicadores de movilidad, seguridad vial y gestión administrativa, así como indicadores incluidos en los instrumentos de planeación e información sobre el avance de los proyectos y programas locales.
 
 ###### Artículo 150.
 
@@ -2233,7 +3651,7 @@ V. Ofrecer al usuario información acerca del costo, tiempo de espera y tiempo d
 
 ## TÍTULO NOVENO. CONCESIONES Y PERMISOS
 
-### CAPÍTULO PRIMERO. INCENTIVOS AL USO DE TRANSPORTE PÚBLICO
+### CAPÍTULO PRIMERO. CONCESIONES
 
 ###### Artículo 155.
 
@@ -2349,9 +3767,17 @@ b) Datos estadísticos debidamente sustentados que avalen la demanda actual y el
 
 c) Modalidad y características del servicio de transporte que deba prestarse, precisando el número de vehículos que se requieran, especificando sus particularidades técnicas;
 
-d) Evaluación económica que considere los beneficios, así como los costos de operación del transporte; y
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-e) Conclusiones y propuestas.
+d) Evaluación económica que considere los beneficios, así como los costos de operación del transporte;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+e) Vincular los estudios técnicos aplicables a la movilidad y la seguridad vial, con los principios y criterios establecidos en esta Ley, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+f) Conclusiones y propuestas.
 
 II. Con base en los estudios que se lleven a cabo según lo señalado en la fracción anterior, el Instituto, de ser procedente, emitirán (sic) la declaratoria de necesidad publica de transporte, que deberá ser publicada en el Periódico Oficial del Estado, por dos veces consecutivas y por una ocasión en algún periódico de mayor circulación;
 
@@ -2485,13 +3911,13 @@ En la modalidad de servicio de taxi, el traspaso, endoso, comercialización, o c
 
 Para los efectos del párrafo anterior, en la modalidad de vehículos de servicio de taxi la transmisión o transferencia de la titularidad de la concesión, para ser válida requiere la previa autorización y registro del Instituto. En caso de personas físicas procederá su transferencia únicamente en los casos de muerte, invalidez, cesantía, o de carácter voluntario cuando haya cumplido una antigüedad no menor de seis años en calidad de concesionario; y en caso de personas morales, queda prohibida la transferencia de sus títulos de concesión a personas físicas y a otras personas morales. El titular propuesto debe reunir los requisitos establecidos en esta Ley y el Reglamento para el otorgamiento de concesiones en la modalidad de servicio de taxi, y aceptar expresamente en su caso, las modificaciones a la concesión, establecidas por el Instituto, para garantizar la adecuada prestación del servicio.
 
-### CAPÍTULO SEGUNDO
+### CAPÍTULO SEGUNDO. PERMISOS
 
-INCENTIVOS A TRANSPORTE CON TECNOLOGÍA DE ENERGÍAS LIMPIAS.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2020)</small>
 
-#### SECCIÓN SEGUNDA
+#### SECCIÓN PRIMERA. PERMISOS DE TRANSPORTE
 
-PERMISOS DE TRANSPORTE DE CARGA Y DEL SETIAP.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### Artículo 171.
 
@@ -2573,7 +3999,9 @@ XXI. Terminales e instalaciones autorizadas.
 
 Concluido el plazo de vigencia del permiso del STDE, su titular tendrá derecho a su renovación incluso en grado preferente respecto a los nuevos solicitantes siempre que haya cumplido con sus obligaciones en calidad de permisionario, dicha renovación será tramitada, previamente a su vencimiento, por los interesados en la forma y términos que se establece en el permiso, en esta Ley y su Reglamento.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN SEGUNDA
+
+PERMISOS DE TRANSPORTE DE CARGA Y DEL SETIAP.
 
 ###### Artículo 176.
 
@@ -2601,9 +4029,7 @@ La vigencia de los permisos de Transporte de Carga será por un plazo no mayor a
 
 ## TÍTULO DÉCIMO. INCENTIVOS
 
-### CAPÍTULO TERCERO
-
-INCENTIVOS A AUTOMÓVIL COMPARTIDO.
+### CAPÍTULO PRIMERO. INCENTIVOS AL USO DE TRANSPORTE PÚBLICO
 
 ###### Artículo 182.
 
@@ -2617,7 +4043,9 @@ Como contraprestación el Estado otorgará incentivos fiscales a las empresas y 
 
 Los incentivos fiscales a que se refiere el párrafo anterior serán los que prevean las Leyes de Hacienda y Fiscales respectivas.
 
-### CAPÍTULO PRIMERO. INSPECCIÓN Y VIGILANCIA CONCURRENTE
+### CAPÍTULO SEGUNDO
+
+INCENTIVOS A TRANSPORTE CON TECNOLOGÍA DE ENERGÍAS LIMPIAS.
 
 ###### Artículo 184.
 
@@ -2629,7 +4057,9 @@ Los municipios en los términos de las Leyes aplicables, podrán implementar sub
 
 (sic) Gobierno del Estado podrá otorgar incentivos fiscales a los concesionarios o permisionarios que presten cualquiera de las modalidades de transporte establecidas en esta Ley, para facilitar la adquisición de vehículos que utilicen energías limpias, así como vehículos adaptados para personas con discapacidad.
 
-### CAPÍTULO PRIMERO. MEDIDAS DE SEGURIDAD
+### CAPÍTULO TERCERO
+
+INCENTIVOS A AUTOMÓVIL COMPARTIDO.
 
 ###### Artículo 186.
 
@@ -2641,11 +4071,9 @@ Los municipios, mediante convenio con el Instituto podrán solicitar el apoyo de
 
 ## TÍTULO DÉCIMO PRIMERO. INSPECCIÓN Y VIGILANCIA
 
-### CAPÍTULO SEGUNDO. INFRACCIONES Y SANCIONES
+### CAPÍTULO PRIMERO. INSPECCIÓN Y VIGILANCIA CONCURRENTE
 
-#### SECCIÓN SEGUNDA
-
-INSPECCIÓN Y VIGILANCIA DE LAS MODALIDADES DE TRANSPORTE.
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 187.
 
@@ -2665,7 +4093,9 @@ El Instituto podrá verificar la vigencia del permiso otorgado o la falta de est
 
 Los Reglamentos de Tránsito y Movilidad establecerán las normas para la seguridad vial y uso de vías para los automóviles particulares, medios no motorizados y micromovilidad, y los municipios vigilarán el cumplimiento.
 
-#### SECCIÓN PRIMERA. SANCIONES AL TRANSPORTE PÚBLICO
+#### SECCIÓN SEGUNDA
+
+INSPECCIÓN Y VIGILANCIA DE LAS MODALIDADES DE TRANSPORTE.
 
 ###### Artículo 191.
 
@@ -2695,7 +4125,7 @@ La autoridad que expida la orden de visita podrá solicitar el auxilio de la fue
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
 
-### CAPÍTULO ÚNICO.
+### CAPÍTULO PRIMERO. MEDIDAS DE SEGURIDAD
 
 ###### Artículo 194.
 
@@ -2775,7 +4205,7 @@ Las medidas de seguridad a que hace referencia el presente Capítulo, deberán i
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
 
-### CAPÍTULO PRIMERO. DEL PROCEDIMIENTO ADMINISTRATIVO DE SANCIÓN
+### CAPÍTULO SEGUNDO. INFRACCIONES Y SANCIONES
 
 ###### Artículo 207.
 
@@ -2819,9 +4249,7 @@ El plazo de prescripción para la aplicación de las sanciones será de cinco a�
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
 
-#### SECCIÓN SEGUNDA. SANCIONES AL SETIAP, STDE Y AL TRANSPORTE DE CARGA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
+#### SECCIÓN PRIMERA. SANCIONES AL TRANSPORTE PÚBLICO
 
 ###### Artículo 213.
 
@@ -2855,7 +4283,9 @@ El prestador del servicio será responsable solidario de los conductores de sus 
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
 
-#### SECCIÓN TERCERA. SANCIONES A AUTOMOVILISTAS PARTICULARES, MEDIOS NO MOTORIZADOS, PEATONES Y MICROMOVILIDAD
+#### SECCIÓN SEGUNDA. SANCIONES AL SETIAP, STDE Y AL TRANSPORTE DE CARGA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### Artículo 214.
 
@@ -2925,13 +4355,15 @@ XIX. Por transitar sin el permiso establecido en el artículo 91 expedido por el
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
 
+#### SECCIÓN TERCERA. SANCIONES A AUTOMOVILISTAS PARTICULARES, MEDIOS NO MOTORIZADOS, PEATONES Y MICROMOVILIDAD
+
 ###### Artículo 216.
 
 Las sanciones a automovilistas particulares, medios no motorizados, peatones y medios de micromovilidad se establecerán en los reglamentos municipales.
 
 ## TÍTULO DÉCIMO TERCERO. DELITOS
 
-### CAPÍTULO SEGUNDO. RECURSO DE INCONFORMIDAD
+### CAPÍTULO ÚNICO.
 
 ###### Artículo 217.
 
@@ -2959,7 +4391,7 @@ El o los responsables de cualquiera de los delitos contemplados en este capítul
 
 ## TÍTULO DÉCIMO CUARTO. PROCEDIMIENTO ADMINISTRATIVO
 
-### CAPÍTULO SEGUNDO. RECURSO DE INCONFORMIDAD
+### CAPÍTULO PRIMERO. DEL PROCEDIMIENTO ADMINISTRATIVO DE SANCIÓN
 
 ###### Artículo 222.
 
@@ -2988,6 +4420,8 @@ En los casos en que proceda, se dará vista al Ministerio Público por la realiz
 ###### Artículo 228.
 
 Las autoridades facultadas conforme a esta Ley, su Reglamento y demás disposiciones aplicables, podrán llevar a cabo las acciones de inspección y vigilancia correspondiente y la imposición de sanciones y medidas de seguridad, cuando se trate de infracciones visiblemente violatorias a las disposiciones de esta Ley y/o su Reglamento.
+
+### CAPÍTULO SEGUNDO. RECURSO DE INCONFORMIDAD
 
 ###### Artículo 229.
 
@@ -3224,3 +4658,25 @@ P.O. 25 DE OCTUBRE DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Las Autoridades sujetas al presente Decreto tendrán un plazo máximo de 180 días a la entrada en vigor del presente Decreto para adecuar los lineamientos, reglamentos y demás disposiciones aplicables.
+
+P.O. 24 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 443. POR EL QUE SE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN; ASÍ COMO LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN; Y LA LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+SEGUNDO.- Los municipios, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán elaborar las reformas necesarias a los reglamentos de su competencia, a fin de armonizarlos con lo dispuesto en el presente Decreto.
+
+TERCERO.- Se concede un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto para que el Instituto de Movilidad y Accesibilidad de Nuevo León elabore las modificaciones al reglamento interno en los términos del presente decreto.
+
+CUARTO.- Se concede un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto para que el Instituto de Control Vehicular actualice su reglamento y elabore un plan estratégico para el registro y matriculado de los vehículos eléctricos.
+
+QUINTO.- El Sistema Estatal de Movilidad y Seguridad Vial deberá emitir la Estrategia Estatal de Movilidad y Seguridad Vial en un plazo no mayor a 365 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+SEXTO.- El Sistema Estatal de Movilidad y Seguridad Vial deberá integrarse y emitir los lineamientos para su organización y operación en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+SÉPTIMO.- En un plazo no mayor a 365 días naturales contados a partir de la entrada en vigor de la presente Ley, el Sistema Estatal de Movilidad y Seguridad Vial y los municipios, deberán integrar los registros, indicadores, y bases de datos en materia de movilidad y seguridad vial como parte del Sistema de Información Territorial y Urbano.
+
+OCTAVO.- Para efecto de lo establecido en el artículo 148 Bis de la Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León, se adoptará el principio pro usuario, considerando para la homologación en tarifas la más baja vigente al momento de la entrada en vigor de la presente reforma. Dicha tarifa deberá mantenerse como mínimo hasta el 1 de enero del año 2024.
+
+NOVENO.- En cuanto a lo referido a favor de propietarios de vehículos eléctricos e híbridos establecido en los artículos 124 Bis 7 de la Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León, 32 Bis de la Ley que Crea el Instituto de Control Vehicular del Estado de Nuevo León, y 14 Bis de la Ley que Regula la Expedición de Licencias para Conducir del Estado de Nuevo León, estos entrarán en vigor a partir del 01 de enero del 2024.
