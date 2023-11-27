@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2023-11-07"
+last_updated: "2023-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -448,6 +448,18 @@ I. El consentimiento presunto. Se presume que hay consentimiento, cuando el hech
 II. Legítima defensa: Se repela una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor.
 
 Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquél que cause un daño, a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar sin derecho, a su hogar o sus dependencias, a los de su familia o los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+También se presumirá la legítima defensa con perspectiva de género, salvo prueba en contrario, en los supuestos siguientes:
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+Cuando quien ejerza la legitima defensa, sea una mujer, y al momento de desplegar la conducta, sea víctima, o esté en peligro inminente de ser víctima, de violencia física, sexual o feminicida, y
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+Cuando una persona despliegue la conducta en auxilio de una mujer en el momento, sea víctima de violencia física, sexual o feminicida, a fin de repeler el acto violento de que se trate.
 
 III. El estado de necesidad justificante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
 
@@ -5340,3 +5352,11 @@ P.O. 7 DE NOVIEMBRE DE 2023.
 PRIMERO. El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 120 POR EL QUE SE ADICIONAN LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO A LA FRACCIÓN II, DEL APARTADO B, DEL ARTÍCULO 20, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
