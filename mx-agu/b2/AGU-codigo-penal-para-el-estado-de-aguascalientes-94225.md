@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2023-11-06"
+last_updated: "2023-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1191,11 +1191,17 @@ Instigación o ayuda al suicidio. La Instigación o Ayuda al Suicidio consiste e
 
 Al responsable de Instigación o Ayuda al Suicidio se le aplicarán de 2 a 5 años de prisión y de 15 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-Si la víctima fuere menor 16 años de edad o padeciere de desarrollo intelectual retardado, se aplicarán al responsable de 3 a 8 años de prisión y de 20 a 40 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+Si la víctima fuere menor de 18 años de edad, mayor de 60 o se tratare de persona que no tenga la capacidad para comprender el significado del hecho o con discapacidad, se aplicarán al responsable de 3 a 8 años de prisión y de 20 a 60 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-Las penas de prisión u (sic) multa referidas en los dos párrafos anteriores, se duplicarán en sus mínimos y máximos, cuando la víctima sea una mujer y se acredite alguna de las razones de género previstas en el Artículo 97-A de este Código.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+Las penas de prisión y multa referidas en los dos párrafos anteriores, se duplicarán en sus mínimos y máximos, cuando la víctima sea una mujer y se acredite alguna de las razones de género previstas en el Artículo 97-A de este Código.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+Si el acto de instigación ocurrió en circunstancias relacionadas con motivo del acoso escolar sobre la víctima, la pena de prisión aumentará hasta las dos terceras partes respecto de los mínimos y máximos.
 
 ###### ARTÍCULO 101.
 
@@ -4084,3 +4090,11 @@ P.O. 6 DE NOVIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 480.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
