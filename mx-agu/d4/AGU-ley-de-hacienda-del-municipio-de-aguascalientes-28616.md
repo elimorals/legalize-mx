@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "2023-10-16"
+last_updated: "2023-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -1539,91 +1539,49 @@ Los Derechos que establece el artículo anterior, se fijarán tomando en cuenta 
 
 ARTICULO 138 BIS.- (DEROGADO, P.O. 16 DE DICIEMBRE DE 2019)
 
-### CAPITULO XII. Por Cooperación para Obras Públicas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+### CAPITULO XII. Por Sistema de Cooperación
 
 #### SECCION UNICA
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTICULO 139.
 
-Es objeto de los Derechos de Cooperación para Obras Públicas, la Realización por parte del Municipio, de las siguientes obras:
-
-I.- Instalación de tuberías y distribución de agua potable.
-
-II.- Instalación de atarjeas.
-
-III.- Construcción de pavimentos.
-
-IV.- Construcción de banquetas; y
-
-V.- Instalación de alumbrado público.
+El objeto, sujeto, base, tarifa, época de pago y sistema de recaudación de contribuciones de obras y servicios realizadas (sic) por sistema de cooperación, se regirá por el Código Urbano para el Estado de Aguascalientes.
 
 ###### ARTICULO 140.
 
-Para que se causen los Derechos de Cooperación a que se refiere el artículo anterior, será necesario que los predios beneficiados se encuentren en las siguientes circunstancias:
-
-I.- Si son exteriores, tener frente que dé a la calle donde se hubieren ejecutado las obras; y
-
-II.- Si son interiores, tener acceso a la calle en que se hubieren ejecutado las obras, en virtud de alguna servidumbre de paso.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2023)
 
 ###### ARTICULO 141.
 
-De conformidad con el objeto de los Derechos a que se refiere el presente capítulo, están obligados al pago de los mismos:
-
-I.- Los propietarios de los predios que tengan frente a la calle donde se ejecutan las obras;
-
-II.- Los poseedores de los predios a que se refiere la fracción anterior; cuando no existan propietarios o no sean conocidos, cuando el predio está sustraído a la posesión del propietario contra su voluntad, o cuando la posesión se derive de contratos de promesa de venta, de venta con reserva dominio o de cualquier otro acto similar; y
-
-III.- Los propietarios y/o poseedores de los predios a que se refiere la fracción II del artículo anterior siempre y cuando dichos poseedores se encuentren en alguno de los casos que señala la fracción II que antecede.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2023)
 
 ###### ARTICULO 142.
 
-Cada propietario y/o poseedor, cubrirá por cooperación:
-
-I.- El costo del pavimento comprendido al frente del predio hasta el eje de la calle.
-
-Dentro del costo del pavimento se comprende no solamente el del pavimento tal; sino también de las obras preparatorias, como movimiento de tercerías, preparación de base y además obras necesarias;
-
-II.- La derrama proporcional al frente del predio por el cubo de la esquina;
-
-III.- El costo de la construcción, reposición o reparación que se distribuirá entre todos los predios ubicados en la zona beneficiada en proporción a los frentes de cada uno;
-
-IV.- El costo total de las obras de agua y drenaje, el cual se destinará entre todos los predios ubicados en la zona beneficiada en proporción de la superficie de cada uno;
-
-Se considerará como parte del costo, el precio de relleno, consolidación de las cepas y la reposición del pavimento.
-
-Las tomas domiciliarias se pagarán por separado conforme a lo previsto por la Ley de Ingresos; y
-
-V.- La proporción correspondiente de las obras de alumbrado público con relación al frente del predio beneficiado.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2023)
 
 ###### ARTICULO 143.
 
-Las cuotas que en los términos de la Ley corresponda cubrir a particulares beneficiados con las obras por cooperación, tendrán el carácter de créditos fiscales objetivos como gravámenes reales los inmuebles afectados, pudiendo hacerse la inscripción correspondiente en el Registro Público de la Propiedad sin costo alguno y serán efectivos al vencerse los plazos concedidos.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2023)
 
 ###### ARTICULO 144.
 
-Los Notarios Públicos no autorizarán, ni los Registradores inscribirán actos o contratos que impliquen transmisión o desmembración del dominio, constitución de servidumbres o garantías reales en relación con inmuebles afectados al pago de cooperación o que el adquirente se hace cargo de dicho pago. De lo contrario, los Notarios y Registradores serán solidariamente responsables del pago de los Derechos comprendidos en el presente capítulo.
-
-En la Dirección de Catastro del Estado, no se dará trámite a las operaciones de transmisión de dominio, cuando los propietarios de las fincas de que se trate no estén al corriente en el pago de Derechos por Cooperación.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2023)
 
 ###### ARTICULO 145.
 
-Los Derechos de Cooperación para obras públicas se causarán conforme a lo que al efecto señale la Ley de Ingresos.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2023)
 
 ###### ARTICULO 146.
 
-Para la determinación de los Derechos por concepto de las obras de urbanización que se realicen, se observarán las siguientes reglas:
-
-I.- Cuando se trate de instalación de atarjeas o tuberías para distribución de agua potable. Si la atarjea o tubería presta servicios a los predios de ambas aceras de la calle, los propietarios o poseedores de éstos están obligados a pagar la contribución.
-
-II.- Tratándose de obras de pavimentación del arroyo de la calle, la contribución se causará por los propietarios o poseedores de los predios ubicados a uno y otro lado de la misma;
-
-III.- En el caso de construcción de banquetas, causarán el derecho correspondiente, los propietarios de los predios ubicados en el lado de la calle en que se construya la banqueta; y
-
-IV.- Por la instalación de las obras de alumbrado público estarán obligados al pago de los derechos correspondientes, los propietarios o poseedores de los predios ubicados en ambas aceras.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2023)
 
 ###### ARTICULO 147.
 
-Estos Derechos por cooperación de Obras Públicas se determinará (sic) una vez obtenido el costo por materiales y mano de obra, creando así un valor unitario por metro cuadrado cuando se trate de pavimentación de arroyos y banquetas y por metro lineal tratándose de alumbrado.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2023)
 
 ### CAPITULO XIII. Por los Servicios Prestados por la Dirección de Seguridad Pública y Tránsito
 
@@ -2102,3 +2060,15 @@ P.O. 16 DE OCTUBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia a partir del día 22 de octubre del 2023.
+
+P.O. 27 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 472.- SE REFORMAN EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES; Y, LA LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Las referencias al Instituto Registral y Catastral del Estado de Aguascalientes contenidas en el Código Urbano para el Estado de Aguascalientes, se entenderán hechas al Instituto Catastral del Estado de Aguascalientes, hasta en tanto aquél esté en funcionamiento.
