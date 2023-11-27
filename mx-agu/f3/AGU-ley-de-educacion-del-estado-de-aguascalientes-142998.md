@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2023-11-13"
+last_updated: "2023-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -2139,9 +2139,17 @@ XXXVII. Cambiar de domicilio sin la autorización previa de las autoridades educ
 
 XXXVIII. Cuando los particulares que impartan estudios sin reconocimiento de validez oficial de estudios omitan mencionar en la documentación que expidan y en la publicidad que hagan;
 
-XXXIX. Impartir la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestras y maestros de educación básica, sin contar con la autorización correspondiente; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-XL. Ostentarse como plantel incorporado sin estarlo; u omitir que imparten estudios sin reconocimiento de validez oficial, en su correspondiente documentación y publicidad;
+XXXIX. Impartir la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestras y maestros de educación básica, sin contar con la autorización correspondiente;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+XL. Ostentarse como plantel incorporado sin estarlo; u omitir que imparten estudios sin reconocimiento de validez oficial, en su correspondiente documentación y publicidad; y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+XLI. Expulsar, segregar, condicionar la inscripción o permanencia al servicio educativo en los niveles que conforman la educación básica, a educandos que no cuentan con cualquier documento meramente administrativo relativo a su identidad.
 
 ### Capítulo II. De las Sanciones
 
@@ -2151,7 +2159,9 @@ Las infracciones enumeradas en el artículo anterior serán sancionadas de la si
 
 I. Imposición de multa, para lo cual se estará a los siguientes criterios:
 
-a) Multa por el equivalente a un monto mínimo de cien y hasta máximo de mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en las fracciones I a VIII del artículo que antecede;
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+a) Multa por el equivalente a un monto mínimo de cien y hasta máximo de mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en las fracciones de la I a la VIII, así como la XLI del artículo que antecede;
 
 b) Multa por el equivalente a un monto mínimo de mil y un, y hasta máximo de siete mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en las fracciones IX a XIV del artículo que antecede; y
 
@@ -2362,3 +2372,11 @@ P.O. 13 DE NOVIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 475.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
