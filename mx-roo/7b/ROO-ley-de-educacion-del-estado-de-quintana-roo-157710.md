@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-157710"
 country: "mx"
 rank: "ley"
 publication_date: "2022-04-27"
-last_updated: "2023-06-07"
+last_updated: "2023-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Extraordinario Número 68 del Periódico Oficial del Estado de Quintana Roo, el miércoles 27 de abril de 2022.
 
@@ -271,7 +271,9 @@ XIII. Impulsar la creación artística y propiciar la adquisición, el enriqueci
 
 XIV. Fomentar la educación en materia de nutrición y estimular la educación física, la práctica del deporte, la prevención de accidentes y primeros auxilios;
 
-XV. Desarrollar actitudes solidarias en los individuos y crear conciencia sobre la preservación de la salud y educación sexual, integral y reproductiva, el ejercicio responsable de la sexualidad, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios y adicciones, fomentando el conocimiento de sus causas, riesgos y consecuencias;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+XV. Desarrollar actitudes solidarias en los individuos y crear conciencia sobre la preservación de la salud, educación menstrual, y educación sexual, integral y reproductiva, el ejercicio responsable de la sexualidad, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios y adicciones, fomentando el conocimiento de sus causas, riesgos y consecuencias;
 
 XVI. Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales;
 
@@ -317,9 +319,17 @@ VII. Será inclusiva, al tomar en cuenta las diversas capacidades, circunstancia
 
 VIII. Será intercultural, al promover la convivencia armónica entre personas y comunidades sobre la base del respeto a sus diferentes concepciones, opiniones, tradiciones, costumbres y modos de vida y del reconocimiento de sus derechos, en un marco de inclusión social;
 
-IX. Será integral, porque educará para la vida y estará enfocada a las capacidades y desarrollo de las habilidades cognitivas, socioemocionales y físicas de las personas que les permitan alcanzar su bienestar y contribuir al desarrollo social, y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-X. Será de excelencia, orientada al mejoramiento permanente de los procesos formativos que propicien el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico, así como el fortalecimiento de los lazos entre escuela y comunidad.
+IX. Será integral, porque educará para la vida y estará enfocada a las capacidades y desarrollo de las habilidades cognitivas, socioemocionales y físicas de las personas que les permitan alcanzar su bienestar y contribuir al desarrollo social;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+X. Será de excelencia, orientada al mejoramiento permanente de los procesos formativos que propicien el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico, así como el fortalecimiento de los lazos entre escuela y comunidad, y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+XI. Será garante de la normalización del proceso de la menstruación de manera gradual y atendiendo a la etapa de la vida de las y los educandos, en los distintos niveles educativos, sin estereotipos de género, mediante la promoción de espacios educativos seguros y libres de discriminación, así como del desarrollo de la gestión menstrual de las alumnas de manera digna.
 
 ## Título Segundo. Del Sistema Educativo Estatal
 
@@ -725,9 +735,11 @@ La elaboración de planes y programas de estudio de los bachilleratos de univers
 
 Participación de Autoridades de Salud y de Cultura
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 53.
 
-Para efectos del presente capítulo, se concederá a la Secretaría de Salud del Estado de Quintana Roo, así como al Instituto de la Cultura y las Artes de Quintana Roo, la participación que les corresponda, en el ámbito de sus respectivas competencias, para la formulación de las opiniones relativas a aspectos culturales, artísticos y literarios o en materia de estilos de vida saludables y educación sexual integral y reproductiva.
+Para efectos del presente capítulo, se concederá a la Secretaría de Salud del Estado de Quintana Roo, así como al Instituto de la Cultura y las Artes de Quintana Roo, la participación que les corresponda, en el ámbito de sus respectivas competencias, para la formulación de las opiniones relativas a aspectos culturales, artísticos y literarios o en materia de estilos de vida saludables, educación menstrual, educación sexual integral y reproductiva.
 
 Contenidos para Opinión de los Planes y Programas de Estudio
 
@@ -971,9 +983,17 @@ XX. Recibir los documentos oficiales que acrediten su situación escolar;
 
 XXI. Asegurar la participación activa en el proceso formativo, estimulando su iniciativa, su sentido de responsabilidad social, el cuidado de su cuerpo mediante la sana práctica del deporte en cualquiera de sus expresiones y su espíritu creador, a fin de alcanzar los fines a que se refiere el artículo 15 de esta Ley. Para ello, el Sistema Educativo implementará el Marco de Convivencia Escolar y los Protocolos respectivos, según corresponda;
 
-XXII. Participar en los Comités Escolares de Administración Participativa en los términos de las disposiciones respectivas, y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-XXIII. Los demás que sean reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Ley General, la Constitución Política del Estado Libre y Soberano de Quintana Roo, esta Ley y demás disposiciones aplicables.
+XXII. Participar en los Comités Escolares de Administración Participativa en los términos de las disposiciones respectivas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+XXIII. Tener acceso gratuito a toallas femeninas desechables como insumos destinados a la gestión menstrual, mismos que serán suministrados en caso de urgencia, por unidad y a petición de la alumna, únicamente durante el horario de clase y en el ciclo escolar correspondiente de las escuelas públicas de nivel básico y medio superior, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+XXIV. Los demás que sean reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Ley General, la Constitución Política del Estado Libre y Soberano de Quintana Roo, esta Ley y demás disposiciones aplicables.
 
 El Estado establecerá los mecanismos que contribuyan a su formación integral, tomando en cuenta los contextos sociales, territoriales, económicos, lingüísticos y culturales específicos en la elaboración y aplicación de las políticas educativas en sus distintos tipos y modalidades.
 
@@ -1493,7 +1513,9 @@ XI. Promover medidas para facilitar y garantizar la incorporación y permanencia
 
 XII. Proporcionar a los educandos los libros de texto gratuitos y materiales educativos impresos o en formatos digitales para la educación básica, garantizando su distribución;
 
-XIII. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+XIII. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia; y equidad desde una perspectiva de género;
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
@@ -1503,7 +1525,19 @@ XV. Proporcionar apoyos a educandos cuya madre, padre o tutor haya fallecido o s
 
 XVI. Garantizar el acceso a los servicios educativos a las víctimas y promover su permanencia en el sistema educativo estatal cuando, como consecuencia del delito o violación de sus derechos humanos exista interrupción en los estudios;
 
-XVII. Promover la instalación de aires acondicionados en aulas de los planteles educativos que, por sus condiciones climáticas, lo requieran;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+XVII. Promover la instalación de aires acondicionados en aulas de los planteles educativos que, por sus condiciones climáticas, lo requieran, y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+XVIII. Garantizar desde una perspectiva de género, el acceso gratuito a toallas femeninas desechables a las alumnas en las escuelas públicas de nivel básico y medio superior pertenecientes al Sistema Educativo Estatal, que serán suministradas en caso de urgencia, por unidad y a petición de la alumna, únicamente durante el horario de clase y en el ciclo escolar correspondiente.
+
+Para tal efecto, cada plantel educativo deberá contar al menos con 30 unidades de toallas femeninas aplicables, de manera mensual, sin contemplar los periodos vacacionales.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XVIII, P.O. 27 DE NOVIEMBRE DE 2023]</small>
+
+La Secretaría, en coordinación con la Secretaría de Salud del Estado, diseñará e implementará políticas públicas orientadas a la enseñanza a las alumnas, alumnos, así como a sus madres y padres, en todos los planteles educativos, de la elaboración de toallas sanitarias ecológicas reutilizables, como parte del proceso incorporador de la salud menstrual y para fomentar la conciencia sobre esta condición y el cuidado del medio ambiente.
 
 El embarazo, la maternidad o paternidad no deberán constituir impedimento para ingresar y permanecer en la educación a cualquier nivel.
 
@@ -2386,5 +2420,19 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se abroga la Ley para la Dotación Gratuita de Uniformes, Mochilas y Útiles Escolares a las Alumnas y los Alumnos Inscritos en Escuelas Públicas de Educación Básica en el Estado de Quintana Roo, publicada el día 16 de junio del 2022 en el Periódico Oficial del Estado de Quintana Roo, a través del Decreto Número 241 expedido por la XVI Legislatura del Estado de Quintana Roo.
 
 TERCERO. A partir del período escolar 2023-2024, las autoridades educativas del Estado y los Municipios, en el ámbito de sus respectivas competencias, deberá (sic) implementar las políticas y los programas que resulten necesarios para dar cumplimiento a lo establecido en el presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 126 POR EL QUE SE REFORMAN LA FRACCIÓN XV DEL ARTÍCULO 15, LAS FRACCIONES IX Y X DEL ARTÍCULO 16, EL ARTÍCULO 53, LAS FRACCIONES XXII Y XXIII DEL ARTÍCULO 70 Y LAS FRACCIONES XIII Y XVII DEL ARTÍCULO 105. SE ADICIONAN LA FRACCIÓN XI AL ARTÍCULO 16, LA FRACCIÓN XXIV AL ARTÍCULO 70, Y LA FRACCIÓN XVIII AL ARTÍCULO 105, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entra en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Las erogaciones que se llegaran a generar con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin a los ejecutores del gasto correspondiente en el ejercicio fiscal 2024, y subsecuentes, lo cual se llevará a cabo de manera progresiva.
+
+Con el objeto de cumplir con la progresividad en las obligaciones que tendrán a su cargo las autoridades competentes, conforme a este Decreto, deberán darles prioridad a los planteles educativos ubicados en comunidades que presenten mayor índice de pobreza, hasta alcanzar una cobertura del 100% a más tardar en el año 2026.
+
+TERCERO. Las políticas públicas orientadas a la enseñanza a las alumnas, alumnos, así como a sus madres y padres, en todos los planteles educativos, de la elaboración de toallas sanitarias ecológicas reutilizables, a que hace referencia el tercer párrafo de la fracción XVIII que se adiciona al artículo 105, deberá diseñarse antes del inicio del ciclo escolar 2024-2025.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
