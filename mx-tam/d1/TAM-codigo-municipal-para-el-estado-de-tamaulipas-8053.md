@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2023-10-26"
+last_updated: "2023-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -513,7 +513,9 @@ El Ayuntamiento se considerará válidamente instalado con la presencia de la ma
 
 Los Ayuntamientos podrán revocar sus acuerdos por el voto de la mayoría de sus miembros, con apego a la Ley.
 
-Los Ayuntamientos llevarán un libro de actas en el que se asentarán los asuntos tratados y los acuerdos tomados. Cuando en sesión se aprueben bandos, reglamentos, circulares y disposiciones administrativas de observancia general éstos constarán íntegramente en el libro de actas, debiendo firmar los miembros que hubieren estado presentes.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+Los Ayuntamientos llevarán un libro de actas en el que se asentarán los asuntos tratados y los acuerdos tomados en sesión. Estas actas serán registradas en un libro foliado y, una vez aprobadas, las firmarán todos los presentes. Cuando en sesión se aprueben bandos, reglamentos, circulares y disposiciones administrativas de observancia general éstos constarán íntegramente en el libro de actas, debiendo firmar los miembros que hubieren estado presentes. Con una copia del acta respectiva y los documentos relativos se formará un expediente, con éstos un volumen cada semestre. Los controles de asistencia de las y los integrantes del Ayuntamiento a las sesiones de cabildo, las actas, las iniciativas o acuerdos respectivos y el sentido de votación de éstos, serán publicados en la página de transparencia y en la Gaceta Municipal.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -7042,6 +7044,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 26 DE OCTUBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-670 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III, PÁRRAFO PRIMERO, Y SE ADICIONA UN PÁRRAFO OCTAVO A LA MISMA, RECORRIÉNDOSE EL SUBSECUENTE EN SU ORDEN NATURAL, DEL ARTÍCULO 49; Y SE ADICIONA LA FRACCIÓN XVIII, RECORRIÉNDOSE LA ACTUAL EN SU ORDEN NATURAL, AL ARTÍCULO 64 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-731 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 44, PÁRRAFO TERCERO DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
