@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2023-11-06"
+last_updated: "2023-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "AGU"
 ---
 # LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE DICIEMBRE DE 2023 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -319,9 +317,9 @@ A falta de disposición expresa en la Constitución Política de los Estados Uni
 
 En la aplicación de la presente Ley se tomarán en cuenta las condiciones particulares de niñas, niños y adolescentes en los diferentes grupos de población, a fin de proteger el ejercicio igualitario de todos sus derechos.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-Las autoridades a que se refiere el Artículo 1° de la presente Ley, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, aspectos relacionados con su sexo, género, orientación o preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
+Las autoridades a que se refiere el Artículo 1° de la presente Ley, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, que viven con sus madres en centros penitenciarios, aspectos relacionados con su sexo, género, orientación o preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
 
 ###### Artículo 11.
 
@@ -2261,9 +2259,15 @@ XIX. Realizar de manera permanente y continua, campañas de información y divul
 
 XX. Realizar cualquier trámite, procedimiento o acción ante el Registro Civil y demás autoridades competentes, para garantizar el derecho a la identidad de niñas, niños y adolescentes, mediante el registro de su nacimiento, así como la obtención de los documentos necesarios para acreditar su identidad.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE MAYO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-XXI. Las demás que les confieran otras disposiciones aplicables.
+XXI. Establecer programas y acciones periódicas de verificación del debido acceso y ejercicio de los derechos de las niñas y los niños que viven con sus madres en centros penitenciarios y que busquen prevenir el maltrato, violencia, discriminación o cualquier otro tipo de abuso o conducta lesiva en contra de las niñas y los niños en condición carcelaria, así como el debido ejercicio de los derechos y obligaciones inherentes a la patria potestad.
+
+En los casos de vulneración de derechos de niñas y niños, las autoridades penitenciarias están obligadas a dar vista a la Procuraduría de Protección de Niñas, Niños y Adolescentes. Esta última, por su parte, podrá solicitar ante la autoridad correspondiente la ejecución y seguimiento de las medidas de protección y restitución de los derechos de niñas y niños que se encuentren con sus madres en los centros penitenciarios.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+XXII. Las demás que les confieran otras disposiciones aplicables.
 
 ###### Artículo 120.
 
@@ -2363,13 +2367,17 @@ XV. Realizar de manera permanente y continua, campanas de información y divulga
 
 XVI. Las demás que les confieran otras disposiciones aplicables.
 
-### CAPÍTULO ÚNICO. De las Infracciones y Sanciones Administrativas
+### CAPÍTULO IX. Niñas y Niños que Viven con sus Madres en los Centros Penitenciarios
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 124.
 
 La Comisión Estatal de Derechos Humanos del Estado de Aguascalientes, deberá establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
+
+### CAPÍTULO ÚNICO. De las Infracciones y Sanciones Administrativas
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
 ###### Artículo 125.
 
@@ -2380,6 +2388,14 @@ Los Programas Locales y Municipales, preverán acciones de mediano plazo y largo
 ###### Artículo 126.
 
 Los Sistemas Local y Municipales contarán con órganos consultivos de apoyo, en los que participarán las autoridades competentes y representantes de los sectores social y privado, para la implementación y aplicación de los programas.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 126 Bis.
+
+La ley reconoce a las niñas y niños que viven con sus madres en centros penitenciarios como un sector infantil en condiciones especiales de vulnerabilidad, por lo que las autoridades estatales y municipales, deberán garantizar el ejercicio, respeto, protección y promoción de sus derechos; así como prever las acciones, programas y mecanismos que les permitan un crecimiento y desarrollo pleno, en concordancia con el principio de protección integral, el derecho de igualdad sustantiva y la tutela de los derechos contenidos en la presente ley, la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales y demás normas aplicables.
+
+Para los efectos a que se refiere este artículo, se considerará a las niñas y niños que viven con sus madres en centros penitenciarios, desde que nacen y viven su primera infancia en dichos centros, por el hecho de que su madre se encontrare en estado de gravidez al momento de estar privada de su libertad, con motivo de la compurgación de una pena o de estar sometida a prisión preventiva, así como por los casos previstos en la Ley Nacional de Ejecución Penal.
 
 ## TÍTULO SEXTO. DE LAS INFRACCIONES ADMINISTRATIVAS
 
@@ -2962,3 +2978,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Con la entrada en vigor del presente Decreto, (sic)
+
+P.O. 27 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 477.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentos que se opongan al mismo.
