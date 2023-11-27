@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2023-08-23"
+last_updated: "2023-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -555,13 +555,21 @@ XLVI. Orientar a los usuarios, sobre la aplicación de los recursos estatales en
 
 XLVII. Apoyar con asesorías técnicas y legales la integración, organización y funcionamiento de las asociaciones de usuarios de los distritos de riego, emitiendo opiniones respecto de la elaboración de sus estatutos, reglamentos internos, así como la composición y actualización de los padrones de usuarios, para que estos reúnan los requisitos legales requeridos y se ajusten a la Ley de Aguas Nacionales y su Reglamento, siempre respetando la potestad que la Comisión Nacional del Agua tiene sobre dichas actividades;
 
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+XLVIII. Dar aviso a la Comisión Nacional del Agua, por escrito en el término de quince días naturales contados a partir de que tenga conocimiento de los hechos, cuando detecte alguna necesidad o irregularidad de los usuarios y que a su consideración deba intervenir la Federación;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+XLIX. Promover programas de desarrollo social, el acceso al agua y saneamiento de las viviendas de zonas con mayor vulnerabilidad o marginación, mediante sistemas de captación y almacenamiento de agua de lluvia y tecnologías de tratamiento de aguas residuales;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+L. Vigilar que el funcionamiento y prestación de los servicios públicos de agua potable y saneamiento se realice conforme a las políticas, estrategias, objetivos, programas y normas administrativas establecidas al efecto; y
+
 > <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-XLVIII. Dar aviso a la Comisión Nacional del Agua, por escrito en el término de quince días naturales contados a partir de que tenga conocimiento de los hechos, cuando detecte alguna necesidad o irregularidad de los usuarios y que a su consideración deba intervenir la Federación; y
-
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
-
-XLIX. Las demás que le confiera esta ley, sus reglamentos y otras disposiciones aplicables.
+LI. Las demás que le confiera esta ley, sus reglamentos y otras disposiciones aplicables.
 
 ###### Artículo 7.
 
@@ -3296,3 +3304,11 @@ P.O. 23 DE AGOSTO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-733 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XLVIII, Y SE ADICIONAN LAS FRACCIONES XLIX Y L, RECORRIÉNDOSE LA ACTUAL XLIX PARA SER LI, DEL ARTÍCULO 6, DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
