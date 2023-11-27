@@ -4,7 +4,7 @@ identifier: "ROO-ley-forestal-del-estado-de-quintana-roo-58303"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-17"
-last_updated: "2013-08-19"
+last_updated: "2023-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY FORESTAL DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 27 DE NOVIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY FORESTAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023 (ABROGADA).
 
 Ley publicada en el Número 83 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el lunes 17 de diciembre de 2007.
 
@@ -2026,3 +2028,15 @@ Vigésimo Cuarto. Dentro de los tres días siguientes a la entrada en vigor del 
 Vigésimo Quinto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, la Junta Directiva de la Universidad de Quintana Roo tomará las providencias necesarias para la debida incorporación de los representantes de la Oficialía Mayor y de la Secretaría de Planeación y Finanzas.
 
 Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 124 POR EL QUE SE EXPIDE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abrogan la Ley Forestal del Estado de Quintana Roo, publicada en el Periódico Oficial del Estado de Quintana Roo el día 17 de diciembre de 2007, sus reformas y las demás disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Poder Ejecutivo del Estado de Quintana Roo, contará con el plazo de un año contado a partir de la entrada en vigor de esta Ley para emitir el reglamento correspondiente.
+
+CUARTO. La Secretaría tendrá un plazo de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, para la expedición de las Reglas de Operación del Programa Estatal de Desarrollo Forestal Sustentable.
