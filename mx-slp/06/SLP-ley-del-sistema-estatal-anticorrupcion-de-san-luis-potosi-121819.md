@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-estatal-anticorrupcion-de-san-luis-potosi-12181
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-25"
-last_updated: "2023-09-01"
+last_updated: "2023-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 25 de mayo de 2017.
 
@@ -73,7 +73,7 @@ VII. Establecer las bases y políticas para la promoción, fomento y difusión d
 
 VIII. Establecer las acciones permanentes que aseguren la integridad y el comportamiento ético de los Servidores públicos del Estado y Municipios de San Luis potosí;
 
-IX. Establecer las bases del Sistema Estatal de Fiscalización, y
+IX. (DEROGADA, P.O. 27 DE NOVIEMBRE DE 2023)
 
 X. Establecer las bases mínimas para crear e implementar sistemas electrónicos para el suministro, intercambio, sistematización y actualización de la información que generen las instituciones competentes de los órdenes de gobierno.
 
@@ -103,7 +103,7 @@ X. Servidores públicos: cualquier persona que se ubique en alguno de los supues
 
 XI. Sistema Estatal: el Sistema Estatal Anticorrupción de San Luis Potosí;
 
-XII. Sistema Estatal de Fiscalización: el conjunto de mecanismos interinstitucionales de coordinación entre los órganos responsables de las tareas de auditoría gubernamental en los distintos órdenes de gobierno, con el objetivo de maximizar la cobertura y el impacto de la fiscalización en todo el Estado, con base en una visión estratégica, la aplicación de estándares profesionales similares, la creación de capacidades y el intercambio efectivo de información, sin incurrir en duplicidades u omisiones, y
+XII. (DEROGADA, P.O. 27 DE NOVIEMBRE DE 2023)
 
 XIII. Sistema Nacional: el Sistema Nacional Anticorrupción.
 
@@ -135,11 +135,15 @@ La Secretaría Ejecutiva dará seguimiento a la implementación de dichas polít
 
 El Sistema Estatal se integra por:
 
-I. Los miembros del Comité Coordinador;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-II. El Comité de Participación Ciudadana, y
+I. Los miembros del Comité Coordinador, y
 
-III. El Comité Rector del Sistema Estatal de Fiscalización.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+II. El Comité de Participación Ciudadana.
+
+III. (DEROGADA, P.O. 27 DE NOVIEMBRE DE 2023)
 
 ### Capítulo II. Del Comité Coordinador
 
@@ -653,103 +657,61 @@ XIII. Proponer, al Comité de Participación Ciudadana, la estructura organizaci
 
 XIV. Celebrar los convenios que le proponga el Comité Coordinador.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
 ## TÍTULO TERCERO. DEL SISTEMA ESTATAL DE FISCALIZACIÓN
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
 ### Capítulo I. De su Integración
 
 ###### ARTÍCULO 38.
 
-El Sistema Estatal de Fiscalización tiene por objeto establecer acciones y mecanismos de coordinación entre los integrantes del mismo, en el ámbito de sus respectivas competencias, promoverán el intercambio de información, ideas y experiencias encaminadas a avanzar en el desarrollo de la fiscalización de los recursos públicos.
-
-Son integrantes del Sistema Estatal de Fiscalización:
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
-
-I. El Instituto de Fiscalización Superior del Estado;
-
-II. La Contraloría General del Estado, y
-
-III. Las contralorías internas de los municipios del Estado.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2023)
 
 ###### ARTÍCULO 39.
 
-Para el cumplimiento del objeto a que se refiere el artículo anterior, los integrantes del Sistema Estatal de Fiscalización deberán:
-
-I. Crear un sistema electrónico en términos del Título Cuarto de la presente Ley, que permita ampliar la cobertura e impacto de la fiscalización de los recursos federales y locales, mediante la construcción de un modelo de coordinación, de la Federación, del Estado y los municipios, y
-
-II. Informar al Comité Coordinador sobre los avances en la fiscalización de recursos estatales y municipales.
-
-Todos los Entes públicos fiscalizadores, y fiscalizados, deberán apoyar en todo momento al Sistema Estatal de Fiscalización para la implementación de mejoras para la fiscalización de los recursos estatales y municipales.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2023)
 
 ###### ARTÍCULO 40.
 
-El Sistema Estatal de Fiscalización contará con un Comité Rector conformado por el Instituto de Fiscalización Superior del Estado, la Contraloría General del Estado y 7 miembros rotatorios de entre las instituciones referidas en la fracción III del artículo 36 de esta Ley, que será (sic) elegidos por periodos de dos años, por consenso de la propia Contraloría General del Estado y el Instituto de Fiscalización Superior del Estado.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2023)
 
-El Comité Rector será presidido de manera dual por la persona titular del Instituto de Fiscalización Superior del Estado y el titular de la Contraloría General del Estado, o por los representantes que de manera respectiva designen para estos efectos.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
 ### Capítulo II. De su Funcionamiento
 
 ###### ARTÍCULO 41.
 
-Para el ejercicio de las competencias del Sistema Estatal de Fiscalización en materia de fiscalización y control de los recursos públicos, el Comité Rector ejecutará las siguientes acciones:
-
-I. El diseño, aprobación y promoción de políticas integrales en la materia;
-
-II. La instrumentación de mecanismos de coordinación entre todos los integrantes del Sistema Estatal, y
-
-III. La integración e instrumentación de mecanismos de suministro, intercambio, sistematización y actualización de la información que en materia de fiscalización y control de recursos públicos generen las instituciones competentes en dichas materias.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2023)
 
 ###### ARTÍCULO 42.
 
-El Comité Rector del Sistema Estatal de Fiscalización podrá invitar a participar en actividades específicas del Sistema Estatal de Fiscalización a los Órganos internos de control de los Entes Públicos, así como a cualquier otra instancia que realice funciones de control, auditoría y fiscalización de recursos públicos.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2023)
 
 ###### ARTÍCULO 43.
 
-Los integrantes del Sistema Estatal de Fiscalización deberán homologar los procesos, procedimientos, técnicas, criterios, estrategias, programas y normas profesionales en materia de auditoría y fiscalización.
-
-Asimismo, el Sistema Estatal de Fiscalización aprobará las normas profesionales homologadas aplicables a la actividad de fiscalización, las cuales serán obligatorias para todos los integrantes del mismo.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2023)
 
 ###### ARTÍCULO 44.
 
-Conforme a los lineamientos que emita el Comité Rector para la mejora institucional en materia de fiscalización, así como derivado de las reglas específicas contenidas en los códigos de ética y demás lineamientos de conducta, los integrantes del Sistema Estatal de Fiscalización implementarán las medidas aprobadas por el mismo para el fortalecimiento y profesionalización del personal de los órganos de fiscalización.
-
-Para tal fin, el Sistema Estatal de Fiscalización fomentará el establecimiento de un programa de capacitación coordinado, que permita incrementar la calidad profesional del personal auditor y mejorar los resultados de la auditoría y fiscalización.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2023)
 
 ###### ARTÍCULO 45.
 
-El Sistema Estatal de Fiscalización propiciará el intercambio de información que coadyuve al desarrollo de sus respectivas funciones, conforme a lo dispuesto en el Título Quinto de esta Ley.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2023)
 
 ###### ARTÍCULO 46.
 
-Los integrantes del Sistema Estatal de Fiscalización, en el ámbito de sus respectivas atribuciones:
-
-I. Identificarán áreas comunes de auditoría y fiscalización para que contribuyan a la definición de sus respectivos programas anuales de trabajo, y el cumplimiento de los mismos de manera coordinada;
-
-II. Revisarán los ordenamientos legales que regulan su actuación para que, en su caso, realicen propuestas de mejora a los mismos que permitan un mayor impacto en el combate a la corrupción, y
-
-III. Elaborarán y adoptarán un marco de referencia que contenga criterios generales para la prevención, detección y disuasión de actos de corrupción e incorporar las mejores prácticas para fomentar la transparencia y rendición de cuentas en la gestión gubernamental.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2023)
 
 ###### ARTÍCULO 47.
 
-Para el fortalecimiento del Sistema Estatal de Fiscalización, sus integrantes atenderán las siguientes directrices:
-
-I. La coordinación de trabajo efectiva;
-
-II. El fortalecimiento institucional;
-
-III. Evitar duplicidades y omisiones en el trabajo de los órganos de fiscalización, en un ambiente de profesionalismo y transparencia;
-
-IV. Mayor cobertura de la fiscalización de los recursos públicos, y
-
-V. Emitir información relevante en los reportes de auditoría y fiscalización, con lenguaje sencillo y accesible, que contribuya a la toma de decisiones públicas, la mejora de la gestión gubernamental, con el objetivo de que la ciudadanía conozca cómo se gastan los recursos producto de sus impuestos, así como la máxima publicidad en los resultados de la fiscalización.
-
-Corresponderá al Comité Rector del Sistema Estatal de Fiscalización emitir las normas que regulen su funcionamiento.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2023)
 
 ###### ARTÍCULO 48.
 
-Los integrantes del Sistema Estatal de Fiscalización celebrarán reuniones ordinarias cada seis meses y extraordinarias cuantas veces sea necesario, a fin de dar seguimiento al cumplimiento de los objetivos y acciones planteados en la presente Ley y demás legislación aplicable. Para ello, podrán valerse de los medios de presencia virtual que consideren pertinentes.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2023)
 
 ## TÍTULO CUARTO. PLATAFORMA DIGITAL ESTATAL
 
@@ -773,7 +735,9 @@ II. Sistema Estatal de los Servidores Públicos que Intervengan en procedimiento
 
 III. Sistema Estatal de Servidores Públicos y Particulares Sancionados;
 
-IV. Sistema Estatal de Información y Comunicación del Sistema Estatal y del Sistema Estatal de Fiscalización;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+IV. Sistema Estatal de Información y Comunicación del Sistema Estatal;
 
 V. Sistema Estatal de Denuncias Públicas de Faltas Administrativas y Hechos de Corrupción, y
 
@@ -801,15 +765,15 @@ Las sanciones impuestas por faltas administrativas graves serán del conocimient
 
 Los registros de las sanciones relativas a responsabilidades administrativas no graves, quedarán registradas para efectos de eventual reincidencia, pero no serán públicas.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 55.
 
-El Sistema de Información y Comunicación del Sistema Estatal y del Sistema Estatal de Fiscalización será la herramienta digital que permita centralizar la información de todos los órganos integrantes de los mismos, incluidos los órdenes estatal y municipal, los cuales deberán vincularse con los sistemas nacionales correspondientes.
+El Sistema de Información y Comunicación del Sistema Estatal será la herramienta digital que permita centralizar la información de todos los órganos integrantes de los mismos, incluidos los órdenes estatal y municipal, los cuales deberán vincularse con el sistema nacional correspondiente.
 
 ###### ARTÍCULO 56.
 
-El Sistema de Información y Comunicación del Sistema Estatal de Fiscalización deberá contemplar, al menos, los programas anuales de auditorías de los órganos de fiscalización de los órdenes estatal y municipal; los informes que deben hacerse públicos en términos de las disposiciones jurídicas aplicables, así como la base de datos que permita el adecuado intercambio de información entre los miembros del Sistema Estatal de Fiscalización.
-
-El funcionamiento del Sistema de Información se sujetará a las bases que emita el Comité Coordinador respecto a la Plataforma Digital Estatal.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2023)
 
 ###### ARTÍCULO 57.
 
@@ -940,3 +904,11 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0877.- SE REFORMAN LOS ARTÍCULOS 7° EN SUS FRACCIONES I Y II, 50 EN SU FRACCIÓN IV Y 55; Y SE DEROGA DE LOS ARTÍCULOS 2° LA FRACCIÓN IX, 3° LA FRACCIÓN XII, 7° LA FRACCIÓN III, EL TÍTULO TERCERO CON SUS ARTÍCULOS 38 A 48 Y EL ARTÍCULO 56, DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
