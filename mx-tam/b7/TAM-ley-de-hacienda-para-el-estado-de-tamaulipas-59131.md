@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2023-09-22"
+last_updated: "2023-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -1277,9 +1277,29 @@ IV.- Declarar y enterar el impuesto retenido, en los lugares, medios y formas au
 
 V.- Llevar un registro pormenorizado de las ventas que realice respecto de los bienes a que se refiere el presente Capítulo, por cada establecimiento, local, agencia o sucursal en que se efectúen, identificando los montos de cada una de dichas operaciones y las cantidades que integran la base del impuesto.
 
-### CAPITULO I. DE LAS DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-### CAPITULO II. DE LOS SERVICIOS DE REGISTRO
+### CAPITULO VIII. DEL IMPUESTO A LAS TARIFAS EFECTIVAMENTE COBRADAS POR LAS EMPRESAS DE REDES DE TRANSPORTE
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 52 Novodecies. Es objeto de este impuesto el ingreso que se percibe por la tarifa efectivamente cobrada, por cada viaje iniciado en el Estado de Tamaulipas por los conductores de las Empresas de Redes de Transporte, y su objetivo es contribuir en el fortalecimiento de las políticas públicas y finanzas del Estado, preferentemente a la infraestructura de movilidad.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 52 Vicies. Son sujetos de este impuesto las Empresas de Redes de Transporte que administren viajes dentro del territorio del Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 52 Unvicies. La base del Impuesto lo constituyen los ingresos por las tarifas efectivamente cobradas por las Empresas de Redes de Transporte al usuario que inicie un viaje dentro del Estado de Tamaulipas.
+
+Se aplicará a la base del impuesto una tasa del 2 por ciento, antes del Impuesto al Valor Agregado. Bajo ninguna circunstancia o interpretación, se podrá repercutir este impuesto a la tarifa cobrada al usuario final.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 52 Duovicies. Este impuesto será calculado por las Empresas de Redes de Transporte y enterado a la Secretaría de Finanzas de forma mensual dentro de los primeros 5 días del mes siguiente en que generen el ingreso, anexando carta bajo protesta de decir verdad, que el impuesto enterado corresponde a las tarifas efectivamente cobradas a sus usuarios dentro del Estado de Tamaulipas.
+
+### CAPITULO I. DE LAS DISPOSICIONES GENERALES
 
 #### Sección Primera. del Registro Civil
 
@@ -1289,7 +1309,7 @@ V.- Llevar un registro pormenorizado de las ventas que realice respecto de los b
 
 ## TITULO III. DE LOS DERECHOS
 
-### CAPITULO III. DE LOS SERVICIOS PRESTADOS POR AUTORIDADES EDUCATIVAS DEL ESTADO
+### CAPITULO II. DE LOS SERVICIOS DE REGISTRO
 
 ###### Artículo 53.
 
@@ -1543,7 +1563,7 @@ VII. Emisión de dictámenes periciales, en las siguientes materias:
 
 VIII. Emisión de dictamen de paternidad o prueba para determinación de perfiles genéticos.
 
-### CAPITULO IV. DE LOS SERVICIOS CATASTRALES
+### CAPITULO III. DE LOS SERVICIOS PRESTADOS POR AUTORIDADES EDUCATIVAS DEL ESTADO
 
 #### Sección Tercera. del Registro Público del Comercio
 
@@ -2075,9 +2095,7 @@ VI. En los casos no previstos expresamente en el artículo anterior, los derecho
 
 No se causarán los derechos a que se refiere el artículo 68 por las inscripciones de las Sociedades Cooperativas Escolares.
 
-### CAPITULO V. DE LOS SERVICIOS PARA EL CONTROL VEHICULAR
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+### CAPITULO IV. DE LOS SERVICIOS CATASTRALES
 
 ###### Artículo 71.
 
@@ -2231,9 +2249,9 @@ B. De la Autorización de Validez Oficial de Estudios para Escuelas Particulares
 
 VIII. Equivalencia de estudios de preparatoria, cinco veces el valor diario de la Unidad de Medida y Actualización.
 
-### CAPITULO VI. DE LOS DERECHOS POR SERVICIOS DE PREVENCION Y CONTROL DE LA CONTAMINACION DEL MEDIO AMBIENTE
+### CAPITULO V. DE LOS SERVICIOS PARA EL CONTROL VEHICULAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 72.
 
@@ -2339,7 +2357,9 @@ V. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2019)
 
 VI. Se eximen de pago de derechos, por los servicios solicitados en las fracciones I, II y IV de este artículo, por las autoridades respecto de bienes inmuebles y/o derechos reales pertenecientes a la Nación, al Gobierno de Tamaulipas, sus Municipios y Organismos Públicos Descentralizados.
 
-### CAPITULO VI-BIS. DERECHOS POR LA EMISION DE GASES A LA ATMOSFERA
+### CAPITULO VI. DE LOS DERECHOS POR SERVICIOS DE PREVENCION Y CONTROL DE LA CONTAMINACION DEL MEDIO AMBIENTE
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 73.
 
@@ -2579,13 +2599,25 @@ XX. Por la expedición de Cédula de Inspección Vehicular, documental y mecáni
 
 XXI. Por la expedición de la cédula de emisión de gases contaminantes, cuatro veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-XXII. Por la expedición del engomado a vehículos que cuenten con seguro de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes, que efectúe la Secretaría de Finanzas, quince veces el valor diario de la Unidad de Medida y Actualización; la vigencia del documento referido comprenderá de la fecha de su expedición al 31 de diciembre del año calendario de que se trate; y
+XXII. Por la expedición del engomado a vehículos que cuenten con seguro de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes, que efectúe la Secretaría de Finanzas, quince veces el valor diario de la Unidad de Medida y Actualización; la vigencia del documento referido comprenderá de la fecha de su expedición al 31 de diciembre del año calendario de que se trate;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-XXIII. Por la expedición de la constancia de vehículo registrado en las empresas con plataformas digitales de redes de transporte, con el importe de ciento un veces el valor diario de la Unidad de Medida y Actualización.
+XXIII. Por la expedición anual de la Constancia de Vehículo Registrado en las empresas con plataformas tecnológicas de redes de transporte, con el importe de veinte veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+XXIV. Por la expedición de la Constancia de Registro de las Empresas de Redes de Transporte, para realizar actividades de mediación, administración o promoción en el Estado, con el importe de quinientas veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+XXV. Por el refrendo anual de la Constancia de Registro de las Empresas de Redes de Transporte, para realizar actividades de mediación, administración o promoción en el Estado, con el importe de trescientas veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+XXVI. Por la expedición anual del Certificado de Persona Operadora Titular o Adhesiva de las Empresas de Redes de Transporte, con el importe de veinte veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -2631,7 +2663,7 @@ En todos los casos, se podrá asignar hasta un segundo juego de placas de circul
 
 IV. De un 50 por ciento a los comprendidos en la fracción I, incisos a) y b), en una sola ocasión por año, tratándose de vehículos eléctricos o híbridos adquiridos en el Estado, cuyos propietarios estén domiciliados en la entidad.
 
-### CAPITULO VII. DERECHOS POR SERVICIOS DE ADMINISTRACION Y CONTROL DEL DESARROLLO URBANO
+### CAPITULO VI-BIS. DERECHOS POR LA EMISION DE GASES A LA ATMOSFERA
 
 ###### Artículo 75.
 
@@ -2937,7 +2969,7 @@ b).- Por la actualización anual del Plan de Manejo, quince veces el valor diari
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JULIO DE 2020)</small>
 
-### CAPITULO VIII. DERECHOS DE COOPERACION
+### CAPITULO VII. DERECHOS POR SERVICIOS DE ADMINISTRACION Y CONTROL DEL DESARROLLO URBANO
 
 ###### Artículo 76 Bis.
 
@@ -2999,7 +3031,7 @@ b).- Por la actualización anual del Plan de Manejo, quince veces el valor diari
 
 (DEROGADO, P.O. 20 DE DICIEMBRE DE 2022)
 
-### CAPITULO IX. DE LOS SERVICIOS DIVERSOS
+### CAPITULO VIII. DERECHOS DE COOPERACION
 
 ###### Artículo 77.
 
@@ -3061,9 +3093,7 @@ IV.- Agropecuario, 2 por ciento el valor diario de la Unidad de Medida y Actuali
 
 V.- Régimen de propiedad en condominio habitacional, 4 por ciento el valor diario de la Unidad de Medida y Actualización.
 
-### CAPITULO X. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR ORGANISMOS PÚBLICOS DESCENTRALIZADOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+### CAPITULO IX. DE LOS SERVICIOS DIVERSOS
 
 ###### Artículo 79.
 
@@ -3073,65 +3103,9 @@ V.- Régimen de propiedad en condominio habitacional, 4 por ciento el valor diar
 
 (DEROGADO, P.O. 15 DE JUNIO DE 2021)
 
-### CAPITULO XI. DE LOS DERECHOS POR LOS SERVICIOS DE ADMINISTRACIÓN Y CONTROL EN MATERIA AGROPECUARIA
+### CAPITULO X. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR ORGANISMOS PÚBLICOS DESCENTRALIZADOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2022)</small>
-
-Artículo 100 BIS. Para efecto de los servicios prestados por la Subsecretaría de Desarrollo Pecuario y Forestal, dependiente de la Secretaría de Desarrollo Rural, se causarán derechos conforme a las siguientes tarifas:
-
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-I.- Por la obtención del registro, refrendo o baja del registro de fierro, señal de sangre, tatuaje y cualquier otro medio de identificación, así como autorizar la traslación de dominio de los derechos que amparan estos documentos, se determinará conforme a lo siguiente:
-
-a).- Registro entre 1 a 50 unidades animal se pagará el importe equivalente a ocho veces el valor diario de la Unidad de Medida y Actualización;
-
-b).- Registro entre 51 a 200 unidades animal se pagará el importe equivalente a dieciséis veces el valor diario de la Unidad de Medida y Actualización; y
-
-c).- Registro entre 201 o más unidades animal se pagará el importe equivalente a treinta y dos veces el valor diario de la Unidad de Medida y Actualización.
-
-II.- (DEROGADA, P.O. 22 DE FEBRERO DE 2022)
-
-III.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2019)
-
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2017)</small>
-
-IV.- Por el registro ante la Secretaría de Desarrollo Rural, pagarán el importe equivalente a:
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-a) Sesenta y cuatro veces el valor diario de la Unidad de Medida y Actualización, los introductores y acopiadores de especies pecuarias;
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-b) Treinta veces el valor diario de la Unidad de Medida y Actualización, las empresas dedicadas al comercio de productos y subproductos cárnicos, lácteos y pieles;
-
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2022)</small>
-
-c) Registro entre 201 o más unidades animal (sic) se pagará el importe equivalente a treinta y dos veces el valor diario de la Unidad de Medida y Actualización; y
-
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2022)</small>
-
-d) Cien veces el valor diario de la Unidad de Medida y Actualización, a corrales de acopio para exportación de ganado bovino y de fierro limpio.
-
-V.- (DEROGADA, P.O. 22 DE FEBRERO DE 2022)
-
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-VI.- Por la obtención del certificado de inspección de carne, en canal, productos y subproductos de origen animal en diversas presentaciones, con motivo de verificación de sanidad, comprobación de la propiedad y procedencia de la misma:
-
-a).- Vehículos hasta 3 toneladas, una vez el valor diario de la Unidad de Medida y Actualización;
-
-b).- Vehículos de más de 3 toneladas y hasta 6 toneladas, tres veces el valor diario de la Unidad de Medida y Actualización;
-
-c).- Vehículos de más de 6 toneladas y hasta 10 toneladas, seis veces el valor diario de la Unidad de Medida y Actualización; y
-
-d).- Vehículos de más de 10 toneladas, catorce veces el valor diario de la Unidad de Medida y Actualización.
-
-VII.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2019)
-
-Artículo 100 TER. (DEROGADO, P.O. 22 DE FEBRERO DE 2022)
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 81.
 
@@ -3697,23 +3671,65 @@ Por cualquier otro servicio que se ajuste a la definición de derechos prevista 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-### CAPÍTULO XII. DERECHOS POR LOS SERVICIOS DE EXPEDICIÓN DE PERMISO E INSCRIPCIÓN EN EL REGISTRO ESTATAL DE LAS CASAS DE EMPEÑO
+### CAPITULO XI. DE LOS DERECHOS POR LOS SERVICIOS DE ADMINISTRACIÓN Y CONTROL EN MATERIA AGROPECUARIA
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2022)</small>
 
-Artículo 100 QUATER.- Los derechos por los servicios a que se refiere éste capítulo, se pagaran conforme a lo siguiente:
+Artículo 100 BIS. Para efecto de los servicios prestados por la Subsecretaría de Desarrollo Pecuario y Forestal, dependiente de la Secretaría de Desarrollo Rural, se causarán derechos conforme a las siguientes tarifas:
 
-I.- Por la expedición del permiso para la instalación y funcionamiento correspondiente y por la inscripción en el registro estatal de casas de empeño, se pagará el importe equivalente a cien veces el valor diario de la Unidad de Medida y Actualización;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-II.- Por la revalidación anual del permiso correspondiente, se pagará el importe equivalente a cien veces el valor diario de la Unidad de Medida y Actualización;
+I.- Por la obtención del registro, refrendo o baja del registro de fierro, señal de sangre, tatuaje y cualquier otro medio de identificación, así como autorizar la traslación de dominio de los derechos que amparan estos documentos, se determinará conforme a lo siguiente:
 
-III.- Por la modificación que se solicite del permiso, debido a cambios en la información proporcionada al expedirse el permiso original se pagará el importe equivalente a quince veces el valor diario de la Unidad de Medida y Actualización; y
+a).- Registro entre 1 a 50 unidades animal se pagará el importe equivalente a ocho veces el valor diario de la Unidad de Medida y Actualización;
 
-IV.- Por la reposición del permiso correspondiente, se pagará el importe equivalente a cinco veces el valor diario de la Unidad de Medida y Actualización.
+b).- Registro entre 51 a 200 unidades animal se pagará el importe equivalente a dieciséis veces el valor diario de la Unidad de Medida y Actualización; y
 
-Los derechos se pagarán ante las oficinas autorizadas previamente al inicio del trámite de las solicitudes de permiso, revalidación, modificación o reposición antes descritas.
+c).- Registro entre 201 o más unidades animal se pagará el importe equivalente a treinta y dos veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2011)</small>
+II.- (DEROGADA, P.O. 22 DE FEBRERO DE 2022)
+
+III.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2019)
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IV.- Por el registro ante la Secretaría de Desarrollo Rural, pagarán el importe equivalente a:
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+a) Sesenta y cuatro veces el valor diario de la Unidad de Medida y Actualización, los introductores y acopiadores de especies pecuarias;
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+b) Treinta veces el valor diario de la Unidad de Medida y Actualización, las empresas dedicadas al comercio de productos y subproductos cárnicos, lácteos y pieles;
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2022)</small>
+
+c) Registro entre 201 o más unidades animal (sic) se pagará el importe equivalente a treinta y dos veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2022)</small>
+
+d) Cien veces el valor diario de la Unidad de Medida y Actualización, a corrales de acopio para exportación de ganado bovino y de fierro limpio.
+
+V.- (DEROGADA, P.O. 22 DE FEBRERO DE 2022)
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+VI.- Por la obtención del certificado de inspección de carne, en canal, productos y subproductos de origen animal en diversas presentaciones, con motivo de verificación de sanidad, comprobación de la propiedad y procedencia de la misma:
+
+a).- Vehículos hasta 3 toneladas, una vez el valor diario de la Unidad de Medida y Actualización;
+
+b).- Vehículos de más de 3 toneladas y hasta 6 toneladas, tres veces el valor diario de la Unidad de Medida y Actualización;
+
+c).- Vehículos de más de 6 toneladas y hasta 10 toneladas, seis veces el valor diario de la Unidad de Medida y Actualización; y
+
+d).- Vehículos de más de 10 toneladas, catorce veces el valor diario de la Unidad de Medida y Actualización.
+
+VII.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2019)
+
+Artículo 100 TER. (DEROGADO, P.O. 22 DE FEBRERO DE 2022)
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 99.
 
@@ -3731,9 +3747,23 @@ Por cualquier servicio que preste el Gobierno del Estado a través de las entida
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-### CAPITULO UNICO
+### CAPÍTULO XII. DERECHOS POR LOS SERVICIOS DE EXPEDICIÓN DE PERMISO E INSCRIPCIÓN EN EL REGISTRO ESTATAL DE LAS CASAS DE EMPEÑO
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+Artículo 100 QUATER.- Los derechos por los servicios a que se refiere éste capítulo, se pagaran conforme a lo siguiente:
+
+I.- Por la expedición del permiso para la instalación y funcionamiento correspondiente y por la inscripción en el registro estatal de casas de empeño, se pagará el importe equivalente a cien veces el valor diario de la Unidad de Medida y Actualización;
+
+II.- Por la revalidación anual del permiso correspondiente, se pagará el importe equivalente a cien veces el valor diario de la Unidad de Medida y Actualización;
+
+III.- Por la modificación que se solicite del permiso, debido a cambios en la información proporcionada al expedirse el permiso original se pagará el importe equivalente a quince veces el valor diario de la Unidad de Medida y Actualización; y
+
+IV.- Por la reposición del permiso correspondiente, se pagará el importe equivalente a cinco veces el valor diario de la Unidad de Medida y Actualización.
+
+Los derechos se pagarán ante las oficinas autorizadas previamente al inicio del trámite de las solicitudes de permiso, revalidación, modificación o reposición antes descritas.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ### CAPITULO UNICO
 
@@ -3796,6 +3826,10 @@ En lo no previsto en este Capítulo, la aplicación y recaudación de las contri
 ## TITULO V. DE LOS APROVECHAMIENTOS
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 107.
 
@@ -4262,3 +4296,39 @@ P.O. 22 DE SEPTIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-710 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE SERVICIO DE TRANSPORTE EJECUTIVO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto será publicado (sic) Periódico Oficial del Estado y entrará en vigor el día primero de enero del año dos mil veinticuatro.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la publicación del presente decreto, el Ejecutivo del Estado, en un término no mayor a 90 días naturales, realizará las modificaciones al Reglamento de la Ley y a todas aquellas disposiciones normativas que resulten necesarias para efecto de dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las Empresas de Redes de Transporte deberán cumplir con el registro previsto en el artículo 35 Ter, a más tardar a los treinta días naturales de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Las Empresas de Redes de Transporte deberán cumplir con la entrega del padrón previsto en el artículo 35 Sexies, fracción V, a más tardar los primeros cinco días del mes siguiente de su registro ante la Secretaría General de Gobierno.
+
+###### ARTÍCULO QUINTO.
+
+Las Empresas de Redes de Transporte que cuenten con registro vigente para operar en el Estado deberán realizar su registro anual al vencimiento de éste, conforme a las disposiciones previstas en el presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a la Secretaría de Finanzas para que en un plazo de 30 días naturales, a partir de la publicación del presente decreto emita los lineamientos de coordinación a efecto de dar cumplimiento a la recaudación prevista en el artículo 35 Sexies, fracción VII, del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Para efecto del Certificado de Persona Operadora Titular o Adhesiva y Constancias de Vehículo Registrado, los conductores y propietarios deberán realizar la solicitud de emisión de estos en un plazo que no exceda de 30 días a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
