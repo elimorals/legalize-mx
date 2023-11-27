@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transporte-del-estado-de-tamaulipas-23644"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-12"
-last_updated: "2023-06-06"
+last_updated: "2023-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 12 de febrero de 2002.
 
@@ -821,6 +823,10 @@ Se considerará Empresa de Redes de Transporte a las sociedades mercantiles naci
 
 También podrán ser consideradas como Empresas de Redes de Transporte aquellas sociedades mercantiles nacionales o extranjeras que, por virtud de acuerdos comerciales vigentes, promuevan el uso de tecnologías o aplicaciones tecnológicas, propias o de terceros que permitan a usuarios en el Estado acceder al Servicio de Transporte Ejecutivo.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+Solo podrán operar en el Estado las Empresas de Redes de Transporte a través de plataformas tecnológicas que cuenten con la Constancia de Registro, la cual será expedida y en su caso renovada, por la persona titular de la Secretaría General de Gobierno, previo cumplimiento de los requisitos y procedimiento establecidos por esta Ley.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 35 Ter.
@@ -843,23 +849,29 @@ III.- Domicilio, teléfono y correo electrónico del representante legal;
 
 IV.- Copia de su Registro Federal de Contribuyentes;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-V.- Nombre, abreviatura y en su caso derivaciones de la aplicación operada por la Empresa de Redes de Transporte o una empresa relacionada a la misma; y
+V.- Nombre, abreviatura y en su caso derivaciones de la aplicación operada por la Empresa de Redes de Transporte o una empresa relacionada a la misma;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-VI.- Constancia de no Adeudos Fiscales que emite la Oficina Fiscal de la Secretaría de Finanzas.
+VI.- Constancia de no Adeudos Fiscales que emite la Oficina Fiscal de la Secretaría de Finanzas; y
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-La Secretaría registrará a las Empresas de Redes de Transporte que presenten los requisitos completos que se refieren en el presente artículo dentro de los 10 días hábiles siguientes a la presentación de su solicitud. En caso que la solicitud estuviere incompleta, la Secretaría otorgará a la Empresa de Redes de Transporte un plazo improrrogable de 15 días para que subsane su incumplimiento. En caso contrario la solicitud se tendrá por no presentada y se desechará.
+VII.- Comprobante de domicilio de sus oficinas en el Estado de Tamaulipas;
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+La Secretaría registrará o refrendará, según sea el caso, a las Empresas de Redes de Transporte que presenten los requisitos completos que se refieren en el presente artículo dentro de los 10 días hábiles siguientes a la presentación de su solicitud. En caso (sic) que la solicitud estuviere incompleta, la Secretaría otorgará a la Empresa de Redes de Transporte un plazo improrrogable de 15 días para que subsane su incumplimiento. En caso contrario la solicitud se tendrá por no presentada y se desechará.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 35 Quáter.
 
-Los registros de las Empresas de Redes de Transporte tendrán una vigencia de cinco años, a la conclusión del cual las Empresas de Redes de Transporte deberán presentar una solicitud de renovación a más tardar un mes antes de la expiración de la vigencia. La solicitud de renovación deberá incluir una declaración respecto a la veracidad y actualización de la información presentada al momento de obtener el registro original o en caso que hubieren modificaciones notificar cualquier cambio a la información que hubieren presentado en su registro original.
+Los registros de las Empresas de Redes de Transporte tendrán una vigencia de un año, previo pago de derechos por la expedición de la Constancia de Registro o su refrendo, de conformidad con lo previsto en la Ley de Hacienda para el Estado de Tamaulipas, a la conclusión del cual las Empresas de Redes de Transporte deberán presentar una solicitud de renovación a más tardar un mes antes de la expiración de la vigencia. La solicitud de renovación deberá incluir una declaración respecto a la veracidad y actualización de la información presentada al momento de obtener el registro original o en caso que hubieren modificaciones notificar cualquier cambio a la información que hubieren presentado en su registro original.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 La Secretaría otorgará dicha prórroga o renovación siempre que la Empresa de Redes de Transporte presente su solicitud en forma completa y en el tiempo establecido para tal efecto. En caso que la solicitud estuviere incompleta, la Secretaría otorgará a la Empresa de Redes de Transporte los tiempos para subsanar dichos incumplimientos en los mismos términos previstos para la obtención del registro original.
 
@@ -879,21 +891,29 @@ I.- Tener una política clara de no discriminación de usuarios y conductores pr
 
 II.- Coadyuvar con las autoridades para la detención de probables responsables de la comisión de los ilícitos proporcionando oportunamente la información que le sea solicitada por escrito por la autoridad competente;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-III.- Determinar las pruebas y estudios que deban realizar los conductores privados para poder ofrecer servicios de Transporte Ejecutivo a través de la Plataforma en protección de la seguridad de los usuarios de la Plataforma;
+III.- Determinar, en coordinación y de acuerdo con la Secretaría, las pruebas, estudios y capacitaciones que para la protección de la seguridad de los usuarios, deban realizar los conductores privados para poder ofrecer servicios de Transporte Ejecutivo a través de la Plataforma;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-IV.- En caso que el propietario del vehículo afecto al Servicio de Transporte Ejecutivo o el conductor privado prestador del Servicio de Transporte Ejecutivo participaren en un percance automovilístico durante la prestación del Servicio de Transporte Ejecutivo y no contaren con un seguro vigente que cubra lo relativo a la responsabilidad civil frente a los usuarios del servicio y terceros, la Empresa de Redes de Transporte será considerada obligada subsidiaria del mismo y responderá en los términos que establece la legislación aplicable, hasta por el monto de cobertura del seguro que debió haber contratado dicho conductor privado prestador del Servicio de Transporte Ejecutivo para tal riesgo; y
+IV.- En caso que el propietario del vehículo afecto al Servicio de Transporte Ejecutivo o el conductor privado prestador del Servicio de Transporte Ejecutivo participaren en un percance automovilístico durante la prestación del Servicio de Transporte Ejecutivo y no contaren con un seguro vigente que cubra lo relativo a la responsabilidad civil frente a los usuarios del servicio y terceros, la Empresa de Redes de Transporte será considerada obligada subsidiaria del mismo y responderá en los términos que establece la legislación aplicable, hasta por el monto de cobertura del seguro que debió haber contratado dicho conductor privado prestador del Servicio de Transporte Ejecutivo para tal riesgo;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-V.- Será obligatorio para las empresas de redes de transporte entregar a la Subsecretaría, el padrón de vehículos que se utilizan para prestar el servicio de Transporte Ejecutivo, en el que se incluirá marca de la unidad, modelo, serie, año, placas de circulación del Estado de Tamaulipas y copia de la póliza de seguro vigente. La Subsecretaría expedirá una constancia por vehículo registrado en el padrón, previo pago de derechos conforme a lo dispuesto en la Ley de Hacienda del Estado, constancia que deberá refrendarse anualmente y portarse de manera visible en la unidad que corresponde el registro. Además, deberán proporcionar el nombre del chofer de la unidad registrada, su registro federal de contribuyente, domicilio, número de licencia de conducir vigente y su clave única de registro de población.
+V.- Entregar a la Subsecretaría de Transporte, el padrón de vehículos que se utilizan para prestar el Servicio de Transporte Ejecutivo, en el que se incluirá, nombre de la persona propietaria, marca, modelo, serie, año, placas de circulación del Estado de Tamaulipas, constancia de vehículo registrado y copia de la póliza de seguro vigente, de cada unidad. Además, deberán proporcionar el nombre del conductor de la unidad registrada, su registro federal de contribuyente, domicilio, número de licencia de conducir vigente, su clave única de registro de población y el número de Certificado de Persona Operadora Titular o Adhesiva;
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-La información a que se refiere el párrafo que antecede, deberá ser proporcionada de manera mensual, para actualizar la base de datos, de los propietarios, conductores y vehículos afiliados a las Empresas de Redes de Transporte. En caso de incumplimiento a las obligaciones establecidas en el presente artículo, la empresa será notificada por parte de la Subsecretaría para que en un plazo de 10 días hábiles subsane su incumplimiento. De no subsanar el incumplimiento, la Secretaría iniciará el procedimiento administrativo para la suspensión o revocación del registro de la empresa, en los términos dispuestos por Título Décimo Primero, Capítulo Segundo de esta Ley.
+VI.- Permitir el uso de sus plataformas tecnológicas únicamente a quienes cuenten con el Certificado de Persona Operadora Titular o Adhesiva y con la constancia de vehículo registrado de la unidad, expedidos por la Secretaría; y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+VII.- Realizar el pago de impuestos conforme a lo establecido en el Capítulo VIII, del Título II de la Ley de Hacienda para el Estado de Tamaulipas. El incumplimiento de dicho pago, durante los primeros cinco días de cada mes, será causa de revocación del registro y cancelación de la constancia de registro de las Empresas de Redes de Transporte.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+La información a que se refiere la fracción V, deberá ser proporcionada de manera mensual, los primeros cinco días de cada mes a la Subsecretaria de Transporte, con la relación de los propietarios, conductores y vehículos afiliados a las Empresas de Redes de Transporte debidamente actualizados. En caso de incumplimiento a las obligaciones establecidas en el presente artículo, la empresa será notificada por parte de la Subsecretaría para que en un plazo de 10 días hábiles subsane su incumplimiento. De no subsanar el incumplimiento, la Secretaría aplicará a la empresa una multa por el equivalente a ochenta veces el valor diario de la Unidad de Medida y Actualización vigente, sin perjuicio de que dicha información sea remetida, pudiendo incluso ser requerida por segunda ocasión y en caso de que la misma no sea presentada se iniciará el procedimiento administrativo para la suspensión o revocación del registro de la empresa, en los términos dispuestos por (sic) Título Décimo Primero, Capítulo Segundo de esta Ley.
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
@@ -919,35 +939,89 @@ Las Plataformas facilitarán los sistemas de evaluación y retroalimentación en
 
 El Servicio de Transporte Ejecutivo es aquél servicio de transporte privado que se basa en el desarrollo de tecnologías inteligentes, sistemas de posicionamiento global y Plataformas tecnológicas independientes que permiten conectar a usuarios que demandan un servicio de transporte privado de punto a punto con conductores privados que ofrecen dicho servicio en vehículos particulares.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-Dicho servicio no requerirá concesiones o autorización alguna, ni tampoco estará sujeto a tarifas, itinerarios, frecuencias de paso u horarios fijos. Cada Empresa de Redes de Transporte o sus empresas relacionadas podrá determinar en forma individual sus tarifas, así como el número de vehículos y conductores privados que puedan registrarse en su Plataforma o en la Plataforma de una empresa relacionada para prestar el Servicio de Transporte Ejecutivo.
+Dicho servicio no requerirá concesiones, ni tampoco estará sujeto a tarifas, itinerarios, frecuencias de paso u horarios fijos. Cada Empresa de Redes de Transporte o sus empresas relacionadas podrán determinar en forma individual sus tarifas, así como el número de vehículos y conductores privados que puedan registrarse en su Plataforma o en la Plataforma de una empresa relacionada para prestar el Servicio de Transporte Ejecutivo.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-El Servicio de Transporte Ejecutivo se regirá única y exclusivamente por lo dispuesto en el presente Capítulo Tercero, con excepción a lo dispuesto en el Título Décimo Primero, Capítulo Segundo.
+El Servicio de Transporte Ejecutivo se regirá por lo dispuesto en este Capítulo y el Reglamento de esta Ley. En todo lo no previsto serán aplicables en forma supletoria, la Ley de Procedimiento Administrativo para el Estado de Tamaulipas, para los efectos del ofrecimiento y desahogo de pruebas y alegatos; el Código Civil del Estado de Tamaulipas, en lo que respecta a las relaciones y representaciones entre empresas, propietarios de vehículos, choferes y conductores privados; y el Reglamento de Tránsito del Estado de Tamaulipas, en cuanto a las licencias y permisos de tránsito que deben obtener los conductores o infractores de Tránsito.
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 ARTÍCULO 35 Undecies.- El Servicio de Transporte Ejecutivo se prestará únicamente a usuarios previamente registrados en la Plataforma que lo soliciten a través de la misma, por lo que queda estrictamente prohibido a los conductores privados hacer bases, aceptar paradas en la calle u ofertar de manera directa en la vía pública sus servicios.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+Todo conductor o chofer privado del Servicio de Transporte Ejecutivo, que incumpla lo previsto en el párrafo anterior, será sancionado con multa equivalente a cuarenta veces el valor diario de la Unidad de Medida y Actualización.
+
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 ARTÍCULO 35 Duodecies.- Cada Empresa de Redes de Transporte determinará los métodos de pago que podrán ser utilizados por los usuarios de la Plataforma. Los usuarios tendrán derecho a seleccionar anticipadamente entre diversos métodos de pago para elegir el que más se adecue a sus necesidades.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+Se podrán suscribir convenios entre el Gobierno del Estado y las Empresas de Redes de Transporte, que favorezcan el derecho a la movilidad y la seguridad de los usuarios.
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 ARTÍCULO 35 Terdecies.- Los usuarios podrán conocer el costo aproximado del viaje previo a aceptar el mismo. Cualquier modificación o variación en el destino o trayecto por el usuario durante el recorrido, tendrá como consecuencia una modificación en la tarifa cotizada por la Plataforma tecnológica. Al finalizar el viaje los usuarios deberán recibir por correo electrónico un recibo del viaje y podrán solicitar se les envíe a la dirección de correo electrónico una factura fiscal por el Servicio de Transporte Ejecutivo.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+En caso de que ocurra un incremento eventual de tarifa como consecuencia de un aumento en la demanda en una zona y hora determinada, esta será hecha del conocimiento a la persona usuaria previo a la confirmación de la solicitud del servicio.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+En todos los casos, es una prerrogativa de la persona usuaria confirmar o no la contratación de dicho servicio.
+
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 ARTÍCULO 35 Quaterdecies.- Los conductores privados que deseen prestar el Servicio de Transporte Ejecutivo contratado a través de una plataforma tecnológica deberán cumplir por lo menos con los siguientes requisitos:
 
-I.- Contar mínimo con licencia de automovilista para conducir vehículos particulares Tipo A o cualquiera que la sustituya o su equivalente en otros estados del país;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+I.- Contar con la licencia de chofer del Servicio de Transporte Público, o bien licencia de tipo B de chofer de servicio particular, emitida por la autoridad competente en el Estado;
 
 II.- Registrarse ante una Empresa de Redes de Transporte que a su vez esté registrada ante la Secretaría; y
 
-III.- Tomar los cursos, capacitaciones, exámenes de capacidad o psicométricos que establezca la Empresa de Redes de Transporte como condición para registrarse o permanecer registrado en su Plataforma o la Plataforma de su empresa relacionada.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+III.- Tomar los cursos, capacitaciones, exámenes de capacidad o psicométricos que establezca la Empresa de Redes de Transporte, como condición para registrarse o permanecer registrado en su Plataforma o la Plataforma de su empresa relacionada en acuerdo con la Secretaría, además de todos aquellos que determine por sí la Secretaría.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+Las personas concesionarias del servicio de taxi de alquiler, que además presten servicio formando parte de una Empresa de Redes de Transporte, deberán contar con los requisitos previstos en esta Ley, su reglamento y otras disposiciones legales y normativas aplicables para cada uno de esos servicios.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+Las personas operadoras de vehículos registrados en el padrón de la Empresa de Redes de Transporte, deberán contar con el Certificado de Persona Operadora Titular o Adhesiva, expedido por la persona titular de la Secretaría, previo pago de derechos, de conformidad con lo que disponga la Ley de Hacienda para el Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+Para obtener un Certificado de Persona Operadora Titular o Adhesiva, las personas interesadas deberán estar registradas en una Empresa de Redes de Transporte con Constancia de Registro vigente. La vigencia del Certificado de Persona Operadora Titular o Adhesiva será de un año, pudiendo ser renovada a solicitud de la persona interesada.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+Las personas operadoras de las Empresas de Redes de Transporte contratadas por los usuarios a través de plataformas tecnológicas, tienen las siguientes obligaciones:
+
+I.- Contar y portar, durante la prestación del servicio, la constancia de vehículo registrado vigente y el Certificado de Persona Operadora Titular o Adhesiva vigente;
+
+II.- Abstenerse de prestar el servicio bajo la influencia de alcohol o sustancias psicotrópicas, estupefacientes o que produzcan efectos similares;
+
+III.- Prestar el servicio de conformidad con la tarifa, la ruta de traslado y demás términos y condiciones del contrato, así como con las disposiciones establecidas en la Ley de Tránsito del Estado y su reglamento;
+
+IV.- Someterse a las inspecciones que requiera la Subsecretaría de Transporte para verificar el cumplimiento de esta Ley, su reglamento y demás disposiciones legales y normativas aplicables;
+
+V.- Abstenerse de ofertar sus servicios fuera de la plataforma tecnológica o en la vía pública;
+
+VI.- Abstenerse de fijar un lugar al que las posibles personas usuarias acudan a solicitar la prestación del servicio, hacer base, sitio o similares;
+
+VII.- Cubrir las contribuciones que le correspondan en términos de las disposiciones legales estatales aplicables en materia fiscal y hacendaria;
+
+VIII.- Abstenerse de subarrendar el vehículo o los vehículos registrados; y
+
+IX.- Contar con una póliza de seguro de cobertura vigente que cubra a todos los ocupantes del vehículo.
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
@@ -955,19 +1029,39 @@ ARTÍCULO 35 Quindecies.- Los vehículos particulares que se utilicen para prest
 
 I.- Tener cuatro puertas, aire acondicionado, cinturones de seguridad para todos los pasajeros y bolsas de aire delanteras;
 
-II.- Operar por un plazo de máximo 10 años a partir de su registro en la plataforma, prorrogable en dos ocasiones por 1 año adicional cada una, siempre que a criterio de la Empresa de Redes de Transporte ante la cual estén registrados cumplan con las condiciones físicas y mecánicas idóneas para la prestación del Servicio de Transporte Ejecutivo; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-III.- Estar al corriente en el pago de sus obligaciones fiscales y cumplir con las demás disposiciones de carácter legal o administrativo que le resulten aplicables.
+II.- Operar por un plazo máximo de 6 años a partir de su registro en la plataforma y en la Secretaría, prorrogable en dos ocasiones por 1 año adicional cada una, siempre que a criterio de la Empresa de Redes de Transporte ante la cual estén registrados, cumplan con las condiciones físicas y mecánicas idóneas para la prestación del Servicio de Transporte Ejecutivo y se acrediten las evaluaciones y validaciones vehiculares determinadas por la empresa y por la Secretaría;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+III.- Estar al corriente en el pago de sus obligaciones fiscales y cumplir con las demás disposiciones de carácter legal o administrativo que le resulten aplicables; y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+IV.- Contar con la Constancia de Vehículo Registrado vigente.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+La Constancia prevista en la fracción IV de este artículo, será expedida por la Secretaría, previo pago de derechos, conforme a lo dispuesto en la Ley de Hacienda para el Estado de Tamaulipas, a solicitud del propietario por cada vehículo objeto de registro.
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 ARTÍCULO 35 Sexdecies.- Cuando los vehículos afectos al Servicio de Transporte Ejecutivo se encuentren prestando dicho servicio, deberán portar lo siguiente:
 
-I.- Placas de circulación, engomados y hologramas de automóvil particular de manera visible;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+I.- Placas de circulación, engomados, hologramas del automóvil y la Constancia de Vehículo Registrado vigente y Certificado de Persona Operadora Titular o Adhesiva expedidas por la Secretaría, de manera visible;
 
 II.- Tarjeta de circulación; y
 
-III.- Copia de la póliza de seguro de cobertura vigente que cubra a todos los ocupantes del vehículo.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+III.- Copia de la póliza de seguro de cobertura vigente que cubra a todos los ocupantes del vehículo prevista en la fracción IX, del párrafo quinto, del artículo 35 Quaterdecies de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+La Póliza de seguro referida en la fracción III, del presente artículo, deberá cubrir los daños que pudieran ocasionarse a los usuarios, peatones, conductores y terceros en su persona o patrimonio.
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
@@ -2377,9 +2471,17 @@ XX.- Se sancionará con multa de cien a doscientas veces el valor diario de la U
 
 XXI.- Por instalar publicidad en las unidades de transporte público y de los servicios auxiliares de arrastre o traslado y salvamento sin la autorización correspondiente de la Secretaría, se impondrá una multa de cien veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-XXII.- Cualquier otra violación a la presente ley, a las condiciones establecidas en la concesión o permiso y a las demás disposiciones y acuerdos de la Secretaría y cuya sanción no esté expresamente prevista, se impondrá multa de cuarenta a sesenta veces el valor diario de la Unidad de Medida y Actualización.
+XXII.- Las Empresas de Redes de Transporte, que operen dentro del territorio del Estado sin contar con registro vigente, se les impondrá multa equivalente a cien veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+XXIII.- A los conductores que presten servicio mediante una Empresa de Redes de Transporte y no acrediten contar con los requisitos para prestar dicho servicio en términos de la presente Ley, se les impondrá multa de cincuenta a ochenta veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+XXIV.- Cualquier otra violación a la presente Ley, a las condiciones establecidas en las constancias o certificados y a las demás disposiciones y acuerdos de la Secretaría y cuya sanción no esté expresamente prevista, se impondrá multa de cuarenta a sesenta veces el valor diario de la Unidad de Medida y Actualización.
 
 En la comisión de las infracciones establecidas en esta ley, se considera solidariamente responsable al titular de la concesión, permiso o autorización de que se trate.
 
@@ -2816,3 +2918,39 @@ P.O. 6 DE JUNIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65-710 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE SERVICIO DE TRANSPORTE EJECUTIVO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto será publicado (sic) Periódico Oficial del Estado y entrará en vigor el día primero de enero del año dos mil veinticuatro.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la publicación del presente decreto, el Ejecutivo del Estado, en un término no mayor a 90 días naturales, realizará las modificaciones al Reglamento de la Ley y a todas aquellas disposiciones normativas que resulten necesarias para efecto de dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las Empresas de Redes de Transporte deberán cumplir con el registro previsto en el artículo 35 Ter, a más tardar a los treinta días naturales de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Las Empresas de Redes de Transporte deberán cumplir con la entrega del padrón previsto en el artículo 35 Sexies, fracción V, a más tardar los primeros cinco días del mes siguiente de su registro ante la Secretaría General de Gobierno.
+
+###### ARTÍCULO QUINTO.
+
+Las Empresas de Redes de Transporte que cuenten con registro vigente para operar en el Estado deberán realizar su registro anual al vencimiento de éste, conforme a las disposiciones previstas en el presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a la Secretaría de Finanzas para que en un plazo de 30 días naturales, a partir de la publicación del presente decreto emita los lineamientos de coordinación a efecto de dar cumplimiento a la recaudación prevista en el artículo 35 Sexies, fracción VII, del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Para efecto del Certificado de Persona Operadora Titular o Adhesiva y Constancias de Vehículo Registrado, los conductores y propietarios deberán realizar la solicitud de emisión de estos en un plazo que no exceda de 30 días a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
