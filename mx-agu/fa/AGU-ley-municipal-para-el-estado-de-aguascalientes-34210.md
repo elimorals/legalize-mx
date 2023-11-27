@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2022-03-28"
+last_updated: "2023-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -897,13 +897,17 @@ VI. No haber sido sancionado administrativamente por actos de violencia de géne
 
 VII. Cumplir con otros requisitos que señalen las leyes correspondientes, o los que acuerde el propio Ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 51 Bis.
 
-El titular del órgano interno de control deberá cumplir con los siguientes requisitos:
+La persona titular del órgano interno de control deberá cumplir con los siguientes requisitos:
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2022)</small>
 
 I.- Ser ciudadano mexicano en pleno uso de sus derechos políticos y civiles y ser vecino del municipio del Ayuntamiento que lo nombre;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2022)</small>
 
 II.- Contar con título de licenciatura en Derecho o Contaduría Pública y cédula profesional debidamente registrada ante la Secretaría de Educación Pública;
 
@@ -915,13 +919,15 @@ II.- Contar con título de licenciatura en Derecho o Contaduría Pública y céd
 
 III.- NO HABER SIDO CANDIDATO A ALGÚN PUESTO DE ELECCIÓN POPULAR DENTRO DE LOS CINCO AÑOS ANTERIORES A SU NOMBRAMIENTO;
 
-(NOTA: EL 12 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE FEBRERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-IV.- NO HABER SIDO CONDENADO POR DELITO INTENCIONAL;
+IV.- Al momento de su designación no haya sido condenada por algún delito por hechos de corrupción, como los previstos en el Código Penal Federal o por delito que tenga previsto como tipos penales protectores de la Administración Pública en el Código Penal para el Estado de Aguascalientes, ni por algún otro delito doloso que se haya cometido en el ejercicio de la función pública, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia.
 
-(NOTA: EL 12 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE FEBRERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-V.- NO HABER SIDO INHABILITADO PARA DESEMPEÑAR OTRO CARGO, EMPLEO O COMISIÓN PÚBLICA; Y
+V.- Al momento de su designación no se encuentre inhabilitada por la comisión de faltas administrativas graves señaladas por la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Aguascalientes; y
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2022)</small>
 
 VI.- Ser electo por los votos en el mismo sentido de cuando menos la mitad más uno de los miembros del Ayuntamiento con derecho a voz y voto en las sesiones de Cabildo.
 
@@ -2738,3 +2744,11 @@ El presente decreto entra en vigor al día siguiente de su publicación en el Pe
 ###### ARTÍCULO SEGUNDO.
 
 Los Ayuntamientos de los municipios del Estado de Aguascalientes, deberán reformar sus disposiciones municipales con el objeto de adecuarlas al mismo, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 482.- SE REFORMA LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
