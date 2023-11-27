@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2023-07-20"
+last_updated: "2023-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -213,9 +213,9 @@ e).- Recibir protección por parte de su familia, del Estado y sociedad;
 
 f).- Gozar de oportunidades, para mejorar las capacidades que les faciliten el ejercicio de sus derechos;
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-g).- Vivir en entornos seguros, dignos y decorosos, que cumplan con sus necesidades y requerimientos; y
+g).- Vivir en entornos seguros, dignos y decorosos, que cumplan con sus necesidades y requerimientos, en donde ejerzan libremente sus derechos, propiciando que exista un trato justo y proporcional a la condición de la mujer; y
 
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 2021)</small>
 
@@ -243,9 +243,9 @@ a).- Tener acceso a los satisfactores necesarios, para su atención integral;
 
 b).- Tener acceso a los servicios de salud, en los términos del párrafo cuarto del artículo 4° de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-c).- Recibir atención preferencial, orientación y capacitación en materia de salud, nutrición e higiene. El Estado deberá diseñar e implementar políticas públicas intersectoriales de salud orientadas a una atención integral que incluya la promoción de la salud, la prevención y la atención de la enfermedad en todas las etapas, y la rehabilitación y los cuidados paliativos de la persona adulta mayor a fin de propiciar el disfrute del más alto nivel de bienestar, físico, mental y social. Asimismo, el Estado garantizará una Seguridad Alimentaria; ésta existe cuando una persona tiene acceso físico y económico a suficientes alimentos sanos, variados y nutritivos para satisfacer sus necesidades alimenticias y sus preferencias en cuanto a los alimentos a fin de llevar una vida activa y sana; y
+c).- Recibir atención preferencial, orientación y capacitación en materia de salud, nutrición e higiene. El Estado deberá diseñar e implementar políticas públicas intersectoriales de salud orientadas a una atención integral que incluya la promoción de la salud, la prevención y la atención de la enfermedad en todas las etapas, y la rehabilitación y los cuidados paliativos de la persona adulta mayor a fin de propiciar el disfrute del más alto nivel de bienestar, físico, mental y social, principalmente en la mujer. Asimismo, el Estado garantizará una Seguridad Alimentaria; ésta existe cuando una persona tiene acceso físico y económico a suficientes alimentos sanos, variados y nutritivos para satisfacer sus necesidades alimenticias y sus preferencias en cuanto a los alimentos a fin de llevar una vida activa y sana; y
 
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 2021)</small>
 
@@ -309,9 +309,9 @@ a).- Ser sujetos de programas de asistencia social cuando se encuentren en situa
 
 b).- Ser sujetos de programas para contar con una vivienda digna y adaptada a sus necesidades;
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-c).- Ser sujetos de programas para tener acceso a una casa hogar o albergue, u otras alternativas de atención integral, si se encuentran en situación de riesgo o desamparo; y
+c).- Ser sujetos de programas para tener acceso a una casa hogar o albergue, u otras alternativas de atención integral, si se encuentran en situación de riesgo o desamparo, especialmente respecto a la mujer; y
 
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 2021)</small>
 
@@ -371,9 +371,9 @@ II.- Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor p
 
 III.- Conocer los derechos de las personas adultas mayores, previstos en la presente ley, así como los que se encuentran contemplados en la Constitución Política del Estado y demás ordenamientos para su debida observancia;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-IV.- Evitar que alguno de sus integrantes realice cualquier acto de discriminación, abuso, explotación, aislamiento, violencia o los que pongan en riesgo a la persona adulta mayor, así como sus bienes y derechos; y
+IV.- Evitar que alguno de sus integrantes realice cualquier acto de discriminación, abuso, explotación, aislamiento, violencia, abandono o los que pongan en riesgo a la persona adulta mayor, así como sus bienes y derechos, por lo que deberán asegurarse que las personas adultas mayores mantengan sus bienes y derechos necesarios para preservar su calidad de vida; y
 
 > <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2020)</small>
 
@@ -391,15 +391,17 @@ El Sistema para el Desarrollo Integral de la Familia de Tamaulipas, deberá toma
 
 Corresponde al Ejecutivo del Estado, en materia de personas adultas mayores:
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-I.- Realizar, promover y alentar los programas de asistencia, protección, provisión, prevención, participación y atención, así como contribuir con el objetivo de la política nacional de propiciar las condiciones para alcanzar y mantener los altos niveles de calidad de vida física y mental a fin de que puedan ejercer plenamente sus capacidades en el seno de la familia y de la sociedad, incrementando su autoestima y preservando su dignidad como ser humano;
+I.- Realizar, promover y alentar los programas de asistencia, protección, provisión, prevención, participación y atención, así como contribuir con el objetivo de la política nacional de propiciar las condiciones para alcanzar y mantener los altos niveles de calidad de vida física y mental a fin de que puedan ejercer plenamente sus capacidades en el seno de la familia y de la sociedad, incrementando su autoestima, preservando su dignidad como ser humano y propiciar que exista un trato justo y no discriminatorio especialmente hacia la mujer;
 
 II.- Concertar, con la Federación, Estados y Municipios, los convenios que se requieran, para la realización de programas de defensa y representación jurídica, protección, provisión, prevención, participación y atención;
 
 III.- Concertar la participación de los sectores social y privado en la planeación y ejecución de programas;
 
-IV.- Coordinar las acciones y promover medidas de financiamiento para la creación y funcionamiento de instituciones y servicios para garantizar sus derechos;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+IV.- Coordinar las acciones y promover medidas de financiamiento para la creación y funcionamiento de instituciones y servicios para garantizar sus derechos, dirigidos principalmente a la atención de la mujer de acuerdo a sus características y circunstancias;
 
 V.- Fomentar e impulsar su desarrollo integral;
 
@@ -423,9 +425,9 @@ XI.- Fomentar la creación de espacios de expresión para las personas adultas m
 
 XII.- Fomentar e impulsar la creación de centros de atención geriátrica y gerontológica;
 
-> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-XIII.- Promover programas especiales para ampliar la cobertura de espacios de asistencia integral para las personas adultas mayores; y
+XIII.- Promover programas especiales para ampliar la cobertura de espacios de asistencia integral para las personas adultas mayores, que garanticen un trato justo y proporcional especialmente a la condición de la mujer; y
 
 XIV.- Las demás que le confieran otros ordenamientos jurídicos.
 
@@ -441,7 +443,9 @@ La Secretaría de Bienestar Social deberá coordinar e implementar las acciones 
 
 Para lograr dichos objetivos deberá:
 
-I.- Promover el empleo para las personas adultas mayores, tanto en el sector público como privado, atendiendo a su profesión u oficio, y a su experiencia y conocimientos teóricos y prácticos, sin mas restricciones que su limitación física o mental;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+I.- Promover el empleo para las personas adultas mayores, tanto en el sector público como privado, atendiendo a su profesión u oficio, y a su experiencia y conocimientos teóricos y prácticos, sin más restricciones que su limitación física o mental declarada por la autoridad médica o legal competente, y que garanticen un trato justo y proporcional especialmente a la condición de la mujer;
 
 II.- Impulsar programas de autoempleo para las personas adultas mayores, de acuerdo a su profesión u oficio, a través de apoyos financieros, de capacitación y la creación de redes de producción, distribución y comercialización;
 
@@ -511,7 +515,9 @@ Corresponde al Sistema para el Desarrollo Integral de la Familia de Tamaulipas, 
 
 I.- Proporcionar los servicios gratuitos de asistencia, asesoría jurídica y representación legal, a las personas adultas mayores, a través de personal capacitado, a fin de garantizar su integridad y evitar cualquier acto que ponga en riesgo su persona, bienes y derechos, respetando en todo momento su heterogeneidad;
 
-II.- Realizar programas de prevención y protección para las personas adultas mayores en situación de riesgo o desamparo, para incorporarlos al núcleo familiar o albergarlos en instituciones adecuadas;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+II.- Realizar programas de prevención y protección para las personas adultas mayores en situación de riesgo o desamparo, para incorporarlos al núcleo familiar o albergarlos en instituciones adecuadas, asegurando un trato justo y proporcional especialmente a la condición de la mujer;
 
 > <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
 
@@ -697,11 +703,11 @@ ARTICULO 26 TER.- Para tener acceso a los beneficios del Programa de Apoyo Direc
 
 Quien tenga conocimiento de que una persona adulta mayor se encuentra en situación de riesgo, desamparo, recibe malos tratos de sus familiares o cuidadores, deberá denunciarlo ante la Procuraduría de la Defensa del Adulto Mayor, o en su caso, ante la Fiscalía General de Justicia del Estado, para que, conforme a sus atribuciones, garanticen la atención y protección que se requiera.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTICULO 28.
 
-La Secretaría de Bienestar Social en coordinación con el Sistema para el Desarrollo Integral de la Familia en el Estado, promoverá e instrumentará políticas de asistencia social para las personas adultas mayores en situación de riesgo o desamparo.
+La Secretaría de Bienestar Social en coordinación con el Sistema para el Desarrollo Integral de la Familia en el Estado, promoverá e instrumentará políticas de asistencia social y en los términos de la legislación aplicable, preverá que la prestación de los servicios de atención que se brinde a las personas adultas mayores en las instituciones, casa hogar, albergues, residencias o cualquier otro centro de atención, se realice con calidad y cumplan con sus programas, objetivos y metas para su desarrollo humano integral, asegurando un trato justo y proporcional especialmente a la condición de la mujer.
 
 ###### ARTICULO 29.
 
@@ -1008,6 +1014,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 20 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-609 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII, Y SE ADICIONA UNA FRACCIÓN VIII, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE, AL ARTÍCULO 4°, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO; Y SE ADICIONA UNA FRACCIÓN X, RECORRIÉNDOSE EN SU ORDEN NATURAL LAS SUBSECUENTES, AL ARTÍCULO 3° DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-732 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
