@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2023-11-24"
+last_updated: "2023-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -721,9 +721,11 @@ Si la vacante se genera respecto de alguna persona integrante del Ayuntamiento d
 
 Al término de la sesión de Instalación, el Ayuntamiento procederá en sesión ordinaria a lo siguiente:
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-I. Nombrar por mayoría de votos de las personas integrantes a quienes ejerzan la titularidad de la Secretaría General, Tesorería, Contraloría Municipal, Dirección de Seguridad Pública Municipal y las Direcciones de Ingresos y Egresos de la Tesorería Municipal;
+I. Nombrar por mayoría de votos de sus personas integrantes a quienes ejerzan la titularidad de la Secretaría General, Tesorería, Contraloría Municipal, Dirección de Seguridad Pública Municipal y las Direcciones de Ingresos y Egresos de la Tesorería Municipal. Dichos nombramientos, se realizarán en apego al principio de paridad de género;
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
 
 El nombramiento de los cargos indicados con antelación se hará, inicialmente, a propuesta de la persona titular de la presidencia municipal; en caso de que se rechazara una o más de éstas, el Ayuntamiento procederá a designar los faltantes de entre las propuestas que formulen, tanto la persona titular de la presidencia municipal como las personas Regidoras.
 
@@ -1353,9 +1355,9 @@ VIII. Tomar la protesta de Ley a las personas Regidoras y a la persona Síndica 
 
 IX. Proponer al Ayuntamiento, los nombramientos de las personas titulares de la Secretaría General del Ayuntamiento, Tesorería Municipal, Contraloría Municipal, Dirección de Seguridad Pública y Tránsito Municipal y las Direcciones de Ingresos y Egresos de la Tesorería Municipal.
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-X. Nombrar y remover a las personas servidoras públicas municipales cuya designación no sea facultad exclusiva del Ayuntamiento.
+X. Nombrar y remover a las personas servidoras públicas municipales cuya designación no sea facultad exclusiva del Ayuntamiento. En la estructura orgánica se promoverá el principio de paridad de género.
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2022,6 +2024,10 @@ XIII. Organizar y llevar la contabilidad del Municipio y las estadísticas finan
 XIV. Proponer a la persona titular de la Presidencia, el nombramiento o remoción de las personas empleadas a su cargo.
 
 Lo anterior con excepción de las personas titulares de las Direcciones de Ingresos y Egresos de la Tesorería Municipal.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+En la estructura orgánica de la Tesorería se promoverá el principio de paridad de género.
 
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
 
@@ -2931,11 +2937,11 @@ Estos serán regulados por los reglamentos que, en su caso, expida cada Ayuntami
 
 En todo caso, los planteamientos y sugerencias que se deriven de la participación de la comunidad que se de a través de los medios establecidos en esta Ley, tendrán el carácter de recomendaciones no obligatorias, no obstante, las autoridades municipales deberán informar con oportunidad y precisión de las decisiones adoptadas.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 200.
 
-En la conformación de los órganos de representación ciudadana podrán participar personas físicas o morales sin fines de lucro.
+En la conformación de los órganos de representación ciudadana podrán participar personas físicas o morales sin fines de lucro. En su integración se promoverá el principio de paridad de género.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE NOVIEMBRE DE 2023)</small>
 
@@ -4002,3 +4008,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos del Estado, deberán realizar las adecuaciones que correspondan a su normatividad aplicable, a efecto de dar cumplimiento a su contenido.
+
+P.O. 27 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 119 POR EL QUE SE REFORMAN: EL PRIMER PÁRRAFO DE LA FRACCIÓN I DEL ARTÍCULO 54, LA FRACCIÓN X DEL ARTÍCULO 90, Y EL ARTÍCULO 200; Y SE ADICIONA: UN ÚLTIMO PÁRRAFO A LA FRACCIÓN XIV DEL ARTÍCULO 125, TODOS DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos del Estado, deberán realizar las adecuaciones que correspondan a su normatividad aplicable, a efecto de dar cumplimiento a su contenido.
+
+CUARTO. Las disposiciones establecidas en el presente Decreto deberán aplicarse de manera progresiva, sin afectar los derechos laborales adquiridos por las personas servidoras públicas que se encuentren en funciones, al momento de la entrada en vigor del presente Decreto, es decir, surtirán sus efectos, para las nuevas incorporaciones de personal que se realicen a la estructura orgánica del Ayuntamiento.
