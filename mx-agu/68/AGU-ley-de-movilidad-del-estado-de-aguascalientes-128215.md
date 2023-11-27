@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2023-06-05"
+last_updated: "2023-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -2279,11 +2279,23 @@ En el Estado se reconocerán las licencias de conducir vigentes, expedidas por a
 
 Los operadores de servicio de transporte público local deben portar licencia expedida por la autoridad competente del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 99.
 
-La SSP contará con un registro de licencias y permisos para conducir que estará conformado por el conjunto de datos personales, biométricos, archivos, registros catalogados y clasificados que conllevan a la aplicación de manuales de operación, formatos, procesos y procedimientos específicos, relativos a los tipos de licencias o permisos para conducir, que estará sujeto a lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios.
+El Poder Ejecutivo, a través de la SSP, integrará un Registro Estatal que se generará con cada licencia o permiso de conducir que se expida y que funcionará en todo el Estado como base de datos con la finalidad de mantener un seguimiento de los conductores autorizados como aptos para ejercer su movilidad por la conducción de un vehículo automotor, así como de aquellos que no cuenten con dicha licencia y cometan una infracción de las previstas en la presente Ley.
 
-La SSP establecerá los mecanismos de cooperación y coordinación necesarios para compartir y sistematizar los datos con las diversas instancias Federales, Estatales y Municipales por cuestiones de Seguridad Pública en observancia a la normatividad aplicable.
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+ARTÍCULO 99 BIS.- La base de datos de las licencias y permisos para conducir y sus infracciones y sanciones se integrarán al Registro Estatal, para incluir en uno mismo, los datos referentes a la propiedad vehicular con los datos de la licencia o permiso para fines de seguridad.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+ARTÍCULO 99 TER.- La SSP implementará y mantendrá actualizado este Registro Estatal incorporando información por medio de las respectivas unidades administrativas encargadas de la movilidad y vialidad, estatal y municipales, de acuerdo al ámbito de su competencia, respecto a la expedición, suspensión, revocación o cancelación de licencias o permisos para conducir y de las infracciones de vialidad en el Estado, para los efectos de suspensión y cancelación de licencias. La SSP establecerá los mecanismos de cooperación y coordinación necesarios para compartir y sistematizar los datos para actualizar dicho Registro, con las diversas instancias del Estado y Municipios, por cuestiones de Seguridad Pública en observancia a la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+ARTÍCULO 99 QUATER.- La SSP garantizará la seguridad en el registro y el uso de estos datos limitándolos a los fines que esta Ley dispone, debiendo desarrollar y utilizar las herramientas tecnológicas necesarias para el manejo adecuado de la información, conforme a lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios. Esta información se compartirá de acuerdo a los protocolos que con este fin establezca la SSP.
 
 #### SECCIÓN TERCERA. La Clasificación de Licencias y Permisos
 
@@ -6004,3 +6016,15 @@ P.O. 5 DE JUNIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente se (sic) su publicación en el Periódico (sic) del Estado de Aguascalientes.
+
+P.O. 27 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 479.- SE REFORMA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo, a través de la Secretaría de Seguridad Pública, contará con el plazo de 180 días, a partir de la entrada en vigor del presente Decreto, para la implementación del Registro Estatal, en los términos establecidos en el mismo.
