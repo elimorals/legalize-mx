@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-social-para-el-estado-de-aguascalientes-63061
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-08"
-last_updated: "2023-05-08"
+last_updated: "2023-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de septiembre de 2008.
 
@@ -97,13 +97,21 @@ XIII. Establecer las bases para que la política social para que efectivamente s
 
 XIV. Garantizar la calidad de los programas de desarrollo social a cargo del Gobierno del Estado y de los municipios, así como su eficiente aplicación con apego a la equidad y la justicia social;
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-XV. Impulsar la incorporación de la igualdad sustantiva entre mujeres y hombres, la protección de las familias, las mujeres, las y los jóvenes, las personas o grupos en desventaja, en especial niñas, niños y adolescentes, personas con discapacidad, con enfermedades terminales, indígenas y adultos mayores, en los programas de desarrollo social a cargo de (sic) Gobierno del Estados y los Municipios; y
+XV. Impulsar la incorporación de la igualdad sustantiva entre mujeres y hombres, la protección de las familias, las mujeres, las y los jóvenes, las personas o grupos en desventaja, en especial niñas, niños y adolescentes, personas con discapacidad, con enfermedades terminales, indígenas y adultos mayores, en los programas de desarrollo social a cargo del Gobierno del Estado y los Municipios;
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-XVI. Impulsar el desarrollo social desde las localidades y colonias, como unidades básicas de cambio, donde la familia sea el eje y principio de la política social para el mejoramiento corresponsable de su entorno comunitario.
+XVI. Impulsar el desarrollo social desde las localidades y colonias, como unidades básicas de cambio, donde la familia sea el eje y principio de la política social para el mejoramiento corresponsable de su entorno comunitario;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+XVII. Diseñar e implementar una política digital que permita mejorar la comunicación y acercar la información a las personas respecto a los Programas Sociales de los que se puedan beneficiar, y
+
+> <small>(ADICIONADAA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+XVIII. Los demás que se deriven de otras leyes y ordenamientos legales y estén vinculados con los principios de la política de desarrollo social.
 
 > <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
 
@@ -127,57 +135,61 @@ Queda prohibida cualquier práctica de discriminación y exclusión en la presta
 
 La Política Estatal de Desarrollo Social, se sujetará a los siguientes principios:
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-I. DIGNIDAD HUMANA: Principio rector supremo y sustento de los derechos humanos, en el que se reconoce a toda persona la libertad y la igualdad en derechos, y es el fundamento, objetivo y base de las acciones de la política de desarrollo social;
+I. ACCESIBILIDAD TECNOLÓGICA: Se deberá promover el uso de las tecnologías de la información y la comunicación para promover y permitir el acceso a los Programas Sociales.
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN I], P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-II. INTEGRALIDAD: Articulación y complementariedad de programas y acciones que conjunten los diferentes beneficios sociales, en el marco de la Política Estatal y Nacional de Desarrollo Social;
+II. DIGNIDAD HUMANA: Principio rector supremo y sustento de los derechos humanos, en el que se reconoce a toda persona la libertad y la igualdad en derechos, y es el fundamento, objetivo y base de las acciones de la política de desarrollo social;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN II], P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-III. INTERÉS SUPERIOR DE LA NIÑEZ: De conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de los Derechos de Niñas, Niños y Adolescentes y en los tratados internacionales aplicables de los que el Estado Mexicano sea parte;
+III. INTEGRALIDAD: Articulación y complementariedad de programas y acciones que conjunten los diferentes beneficios sociales, en el marco de la Política Estatal y Nacional de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN III], P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-IV. JUSTICIA DISTRIBUTIVA: Garantiza que toda persona reciba de manera equitativa los beneficios del desarrollo conforme a sus méritos, sus necesidades, sus posibilidades y las de las demás personas;
+IV. INTERÉS SUPERIOR DE LA NIÑEZ: De conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de los Derechos de Niñas, Niños y Adolescentes y en los tratados internacionales aplicables de los que el Estado Mexicano sea parte;
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN IV], P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-V. LIBERTAD: Capacidad de las personas para elegir los medios para su desarrollo personal, así como para participar en el desarrollo social;
+V. JUSTICIA DISTRIBUTIVA: Garantiza que toda persona reciba de manera equitativa los beneficios del desarrollo conforme a sus méritos, sus necesidades, sus posibilidades y las de las demás personas;
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN V], P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-VI. PARTICIPACIÓN SOCIAL: Derecho de las personas y organizaciones a intervenir e integrarse, individual o colectivamente, en la formulación y evaluación de las políticas, programas y acciones del desarrollo social;
+VI. LIBERTAD: Capacidad de las personas para elegir los medios para su desarrollo personal, así como para participar en el desarrollo social;
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VI], P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-VII. PERSPECTIVA DE GÉNERO: Garantizar la equidad e igualdad de género en el diseño y ejecución de las políticas públicas de desarrollo social, desde una visión científica, analítica, política y compensatoria sobre las mujeres y los hombres, que elimine las causas de la opresión, la desigualdad, la injusticia y la jerarquización de las personas basada en el género;
+VII. PARTICIPACIÓN SOCIAL: Derecho de las personas y organizaciones a intervenir e integrarse, individual o colectivamente, en la formulación y evaluación de las políticas, programas y acciones del desarrollo social;
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VII], P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-VIII. RESPETO A LA DIVERSIDAD: Reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, ideología, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
+VIII. PERSPECTIVA DE GÉNERO: Garantizar la equidad e igualdad de género en el diseño y ejecución de las políticas públicas de desarrollo social, desde una visión científica, analítica, política y compensatoria sobre las mujeres y los hombres, que elimine las causas de la opresión, la desigualdad, la injusticia y la jerarquización de las personas basada en el género;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VIII], P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-IX. SUBSIDIARIEDAD: Proceso en el que el Gobierno reconoce, protege, apoya y ayuda individual y colectivamente a las personas para su desarrollo integral, brindándoles lo necesario por un tiempo determinado y equilibrado para que puedan ser capaces de atender sus necesidades básicas por sí mismas, con el propósito de superar la desigualdad social;
+IX. RESPETO A LA DIVERSIDAD: Reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, ideología, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN IX], P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-X. SUSTENTABILIDAD: Preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, para mejorar la calidad de vida y la productividad de las personas, sin comprometer la satisfacción de las necesidades de las generaciones futuras;
+X. SUBSIDIARIEDAD: Proceso en el que el Gobierno reconoce, protege, apoya y ayuda individual y colectivamente a las personas para su desarrollo integral, brindándoles lo necesario por un tiempo determinado y equilibrado para que puedan ser capaces de atender sus necesidades básicas por sí mismas, con el propósito de superar la desigualdad social;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN X], P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-XI. SOLIDARIDAD: Colaboración entre personas, grupos sociales y órdenes de gobierno, de manera corresponsable para el mejoramiento de la calidad de vida de la sociedad;
+XI. SUSTENTABILIDAD: Preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, para mejorar la calidad de vida y la productividad de las personas, sin comprometer la satisfacción de las necesidades de las generaciones futuras;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XI], P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-XII. TRANSPARENCIA: La información relativa al desarrollo social es pública en los términos de las leyes de la materia. El Estado garantizará que la información gubernamental sea objetiva, oportuna, sistemática y veraz; y
+XII. SOLIDARIDAD: Colaboración entre personas, grupos sociales y órdenes de gobierno, de manera corresponsable para el mejoramiento de la calidad de vida de la sociedad;
 
-> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XII], P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-XIII. UNIVERSALIDAD: El reconocimiento de todas las personas como titulares de los derechos sociales y sujetos del desarrollo social.
+XIII. TRANSPARENCIA: La información relativa al desarrollo social es pública en los términos de las leyes de la materia. El Estado garantizará que la información gubernamental sea objetiva, oportuna, sistemática y veraz; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XIII], P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+XIV. UNIVERSALIDAD: El reconocimiento de todas las personas como titulares de los derechos sociales y sujetos del desarrollo social.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
 
@@ -257,7 +269,9 @@ Los Beneficiarios de los programas de desarrollo social tienen los siguientes de
 
 I. Presentar su solicitud de inclusión en los programas sociales y recibir un trato respetuoso, oportuno y con calidad en las prestaciones derivadas de los programas de desarrollo social, bajo las reglas y formas de operación que estos mismos señalen;
 
-II. Acceder a la información necesaria de dichos programas, sus reglas de operación, recursos y cobertura;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+II. Acceder a la información necesaria de dichos programas, sus reglas de operación, recursos y cobertura, para lo cual, podrán utilizarse los medios digitales que sean adecuados al programa y a las personas destinatarias;
 
 III. Tener la reserva y privacidad de la información personal;
 
@@ -447,11 +461,11 @@ Los Municipios en el mismo plazo que señala el Artículo 27 de esta Ley; deber�
 
 La publicidad y la información relativa a todos los programas sociales deberán identificarse con el escudo del Estado, o del Municipio que corresponda y en los casos de participación conjunta con el de ambos.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 32.
 
-Además de las obligaciones que señalan los Artículos anteriores, el gobierno del Estado, los Municipios y el Consejo implementarán campañas de difusión masivas por distintos medios de comunicación para que toda la población se entere del contenido, reglas de operación y beneficios de los programas de desarrollo social que se aplican en el Estado.
+Además de las obligaciones que señalan los Artículos anteriores, el gobierno del Estado, los Municipios y el Consejo implementarán campañas de difusión masivas por distintos medios de comunicación, procurando la utilización de los medios digitales más adecuados a través de las tecnologías de la información y la comunicación, para que toda la población se entere del contenido, reglas de operación y beneficios de los programas de desarrollo social que se aplican en el Estado.
 
 ###### Artículo 33.
 
@@ -1354,3 +1368,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 483.- SE REFORMA LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
