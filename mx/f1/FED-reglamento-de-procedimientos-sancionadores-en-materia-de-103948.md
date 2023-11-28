@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-procedimientos-sancionadores-en-materia-de-103948
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-12-22"
-last_updated: "2023-11-10"
+last_updated: "2023-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103948&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-11-19"
 
 REGLAMENTO DE PROCEDIMIENTOS SANCIONADORES EN MATERIA DE FISCALIZACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2023.
 
 Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación, el lunes 22 de diciembre de 2014.
 
@@ -965,27 +965,27 @@ VII. El denunciado sea un partido o agrupación política que haya perdido su re
 
 VIII. En las quejas relacionadas con un Proceso Electoral, el quejoso aporte como pruebas, únicamente los datos obtenidos por las autoridades electorales como parte del monitoreo de espectaculares y medios impresos, así como en el programa de pautas para medios de comunicación, será determinado, de forma expresa, en el Dictamen y Resolución que recaiga al procedimiento de revisión respectivo.
 
-IX. En las quejas vinculadas a un Proceso Electoral, el quejoso únicamente denuncie hechos que pretenda acreditar con las publicaciones en redes sociales exclusivamente de los perfiles o cuentas de las personas aspirantes, precandidatas o candidatas, que forman parte de los procedimientos de verificación que desarrolla la Dirección de Auditoría de los Partidos Políticos, Agrupaciones Políticas y Otros de la UTF mediante el monitoreo en internet y redes sociales de los sujetos obligados, lo cual será materia de análisis en el Dictamen y Resolución que recaiga al procedimiento de revisión respectivo, siempre y cuando sean presentadas previo a la notificación del último oficio de errores y omisiones y cuando del escrito de queja no se advierta la existencia de publicaciones vinculadas con las personas denunciadas que realicen terceros ajenos a los hechos denunciados, en todo caso el escrito de queja será reencauzado al Dictamen correspondiente.
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2023)</small>
+
+IX. En las quejas vinculadas a un Proceso Electoral, cuyo objeto sea denunciar presuntas erogaciones no reportadas y que se pretendan acreditar exclusivamente con las publicaciones en redes sociales de los perfiles o cuentas de las personas aspirantes, precandidatas o candidatas, ya monitoreadas o que forman parte de los procedimientos de verificación que desarrolla la Dirección de Auditoría de los Partidos Políticos, Agrupaciones Políticas y Otros de la UTF mediante el monitoreo en internet y redes sociales de los sujetos obligados, lo cual será materia de análisis en el Dictamen y Resolución que recaiga al procedimiento de revisión respectivo, siempre y cuando sean presentadas previo a la notificación del último oficio de errores y omisiones y cuando del escrito de queja no se advierta la existencia de publicaciones vinculadas con las personas denunciadas que realicen terceros ajenos a los hechos denunciados, en todo caso el escrito de queja será reencauzado al Dictamen correspondiente.
 
 2. La UTF realizará de oficio el estudio de las causas de improcedencia del procedimiento.
 
-> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 31.
 
 Desechamiento
 
-1. La COF aprobará los escritos de queja susceptibles de desecharse, mediante el informe que para tal efecto presente la UTF, en el cual se deberá detallar: el denunciante, denunciados, hechos denunciados, número de expediente y fundamento que motive el desechamiento, en los casos siguientes:
+1. La UTF elaborará y someterá, a revisión de la Comisión el Proyecto de Resolución del Consejo General que determine el desechamiento correspondiente, en los casos siguientes:
 
 I. Se desechará de plano el escrito de queja, sin que anteceda prevención a la parte denunciante, cuando se actualice alguno de los supuestos señalados en las fracciones II, IV, V, VI, VII, VIII y IX del numeral 1 del artículo 30 del Reglamento.
 
 II. Se actualice alguna causal de improcedencia contenida en el numeral 1, fracciones I y III del artículo 30 del Reglamento, sin que se desahogue la prevención en el plazo establecido o, habiéndolo hecho, ésta no resulte eficaz en términos del presente reglamento.
 
-2. Previa autorización de la COF, la persona titular de la UTF elaborará y firmará el acuerdo mediante el cual funde y motive el desechamiento del escrito de queja en materia de fiscalización, el cual deberá ser notificado a la persona denunciante.
+2. El desechamiento de una queja en ningún momento prejuzga sobre el fondo del asunto, por lo que la UTF podrá ejercer sus atribuciones legales cuando se presente una nueva queja respecto de los mismos hechos.
 
-3. El desechamiento de una queja en ningún momento prejuzga sobre el fondo del asunto, por lo que la UTF podrá ejercer sus atribuciones legales cuando se presente una nueva queja respecto de los mismos hechos.
-
-4. Cuando se actualice el supuesto establecido en el artículo 30, numeral 1, fracción II de este Reglamento, se dará vista a la Secretaría para los efectos legales conducentes, de conformidad con lo dispuesto en el artículo 447, numeral 1, inciso d) de la Ley General.
+3. Cuando se actualice el supuesto establecido en el artículo 30, numeral 1, fracción II de este Reglamento, se dará vista a la Secretaría para los efectos legales conducentes, de conformidad con lo dispuesto en el artículo 447, numeral 1, inciso d) de la Ley General.
 
 > <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2023)</small>
 
@@ -2372,3 +2372,17 @@ Primero. En tanto se incorporen las funcionalidades en los sistemas o aplicativo
 Segundo. Durante el desarrollo del Sistema de Procedimientos Sancionadores en materia de Fiscalización, se organizarán mesas de trabajo con los usuarios de dicho sistema, así como con los integrantes del Consejo General del Instituto, con la finalidad de analizar los alcances de las funcionalidades del sistema en comento.
 
 Tercero. La fecha de liberación del Sistema de Procedimientos Sancionadores en materia de Fiscalización se dará a conocer a través de la página de internet del Instituto Nacional Electoral y se comunicará a los partidos políticos nacionales, con acreditación local y partidos políticos locales a través del módulo de notificaciones electrónicas del Sistema Integral de Fiscalización.
+
+D.O.F. 28 DE NOVIEMBRE DE 2023.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE DA CUMPLIMIENTO A LA SENTENCIA DE LA SALA SUPERIOR, DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, RECAÍDA AL RECURSO DE APELACIÓN IDENTIFICADO CON EL NÚMERO DE EXPEDIENTE SUP-RAP-202/2023 Y ACUMULADO SUP-RAP-207/2023.]</small>
+
+PRIMERO. Se modifica el Acuerdo INE/CG523/2023, aprobado en sesión ordinaria del Consejo General del Instituto Nacional Electoral, celebrada el veinticinco de agosto de dos mil veintitrés, por el que se modifica el Reglamento de Procedimientos Sancionadores en Materia de Fiscalización aprobado el diecinueve de noviembre de dos mil catorce, en sesión extraordinaria del Consejo General del Instituto Nacional Electoral mediante el Acuerdo INE/CG264/2014, modificado a su vez a través de los acuerdos INE/CG1048/2015, INE/CG319/2016 e INE/CG614/2017, en los términos precisados en los Considerandos 4 y 5 del presente acuerdo.
+
+SEGUNDO. Con la finalidad de dar certeza a los sujetos obligados, publíquese en el Diario Oficial de la Federación el Anexo del presente acuerdo, el cual consigna el Reglamento de Procedimientos Sancionadores en Materia de Fiscalización, adicionando las modificaciones aprobadas en el presente acuerdo.
+
+TERCERO. Infórmese por conducto de la Secretaría Ejecutiva de este Instituto a la Sala Superior, dentro de las veinticuatro horas siguientes a la aprobación del presente acuerdo, sobre el cumplimiento dado a la sentencia emitida en el expediente SUP-RAP-202/2023 Y SU ACUMULADO SUP-RAP-207/2023.
+
+CUARTO. Notifíquese electrónicamente a través del Sistema Integral de Fiscalización a los partidos políticos nacionales y locales.
+
+QUINTO. Se ordena a la Unidad Técnica de Vinculación, notifique el presente Acuerdo a los Organismos Públicos Locales.
