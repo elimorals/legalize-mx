@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2022-10-21"
+last_updated: "2023-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de marzo de 2016.
 
@@ -475,9 +475,13 @@ XII. Violencia digital: Cualquier acto que se presenta a través de las tecnolog
 
 Para efectos de la presente fracción se entenderá por tecnologías de la información y la comunicación a aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos; y
 
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+XIII. Violencia por acecho: Aquellas conductas que se manifiestan mediante el contacto repetido y no deseado que hacen sentir a la víctima insegura y en peligro, a tal grado que se vea obligada a cambiar su itinerario normal, hábitos, costumbres, número de teléfono, correo electrónico, perfiles de redes sociales o lugar de residencia o trabajo.
+
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-XIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+XIV. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 Las políticas de prevención, atención, investigación, sanción y reparación integral del daño derivado de los tipos de violencia del presente Capítulo, atenderán y garantizarán en todo momento el cumplimiento de los principios del interés superior de la niñez y la autonomía progresiva en el ejercicio de los derechos de las niñas.
 
@@ -2710,3 +2714,15 @@ II. La creación de políticas y mecanismos para evitar el acoso escolar a las n
 Noveno.- Con fundamento del principio de la realización progresiva de los derechos, estos serán aplicados de acuerdo con los recursos materiales del Estado, mismos que permitan avanzar gradual y constantemente hacia la más plena realización de tales derechos.
 
 Decimo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 553.- SE ADICIONAN LOS ARTÍCULOS 236 BIS, 236 TER Y 236 QUÁTER DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA; SE ADICIONA LA FRACCIÓN XIII, RECORRIENDO LA ULTERIOR DEL ARTÍCULO 8 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones en contrario a este Decreto.
