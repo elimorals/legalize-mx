@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-desarrollo-social-del-estado-de-campeche-56443"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-10"
-last_updated: "2022-07-12"
+last_updated: "2023-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 10 de julio de 2007.
 
@@ -373,9 +373,11 @@ La Secretaría tendrá las atribuciones señaladas en el artículo 11 de esta Le
 
 La Comisión será el instrumento de coordinación de las acciones del Ejecutivo Estatal para garantizar la integralidad en el diseño y ejecución de la Política Estatal de Desarrollo Social, con la participación en su caso de los gobiernos municipales.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 23.
 
-La Comisión tiene como objetivo impulsar, orientar, coordinar, proponer y dar seguimiento a las políticas, planes, programas y acciones de desarrollo social a cargo de las dependencias y entidades estatales y municipales, sin menoscabo de la autonomía y las atribuciones del municipio previstas por la Constitución Política de los Estados Unidos Mexicanos y la propia del Estado de Campeche.
+La Comisión tiene como objetivo impulsar, orientar, coordinar, proponer, consolidar, concertar y dar seguimiento a las políticas, planes, programas y acciones de desarrollo social a cargo de las dependencias y entidades estatales y municipales, sin menoscabo de la autonomía y las atribuciones del municipio previstas por la Constitución Política de los Estados Unidos Mexicanos y la propia del Estado de Campeche.
 
 ###### ARTÍCULO 24.
 
@@ -1106,3 +1108,11 @@ P.O. 12 DE JULIO DE 2022.
 Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 279 POR EL QUE “SE REFORMA EL ARTÍCULO 23 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
