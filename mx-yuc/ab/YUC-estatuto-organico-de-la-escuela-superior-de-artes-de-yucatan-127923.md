@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-de-la-escuela-superior-de-artes-de-yucatan-12
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-03-06"
-last_updated: "2019-08-23"
+last_updated: "2023-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # ESTATUTO ORGANICO DE LA ESCUELA SUPERIOR DE ARTES DE YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL ESTATUTO ORGÁNICO DE LA UNIVERSIDAD DE LAS ARTES DE YUCATÁN, PUBLICADO EN EL D.O. DE 28 DE NOVIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA ESCUELA SUPERIOR DE ARTES DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE NOVIEMBRE DE 2023 (ABROGADO).
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el martes 6 de marzo de 2018
 
@@ -634,3 +636,19 @@ Este acuerdo entrará en vigor el día siguiente al de su publicación en el dia
 Segundo. Inscripción en el Registro de Entidades Paraestatales
 
 El director general de la Escuela Superior de Artes de Yucatán deberá realizar la inscripción de la modificación de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo.
+
+D.O. 28 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO UNAY 1/2023 POR EL QUE SE EXPIDE EL ESTATUTO ORGÁNICO DE LA UNIVERSIDAD DE LAS ARTES DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales.
+
+La persona titular de la rectoría de la Universidad de las Artes de Yucatán deberá realizar la inscripción de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de los treinta días naturales siguientes contados a partir de la entrada en vigor de este acuerdo.
+
+Tercero. Abrogación
+
+Se abroga el Acuerdo ESAY 02/2017 por el que se expide el Estatuto orgánico de la Escuela Superior de Artes de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 6 de marzo de 2018.
