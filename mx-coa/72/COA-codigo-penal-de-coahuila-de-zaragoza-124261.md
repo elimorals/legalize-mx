@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2023-01-03"
+last_updated: "2023-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2023.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -3083,9 +3083,9 @@ III. Existan antecedentes o datos de cualquier tipo de violencia o discriminaci�
 
 IV. Haya existido entre el sujeto activo y la víctima una relación sentimental, afectiva o de confianza; o bien, que haya existido la pretensión infructuosa del sujeto activo de establecer o restablecer una relación de pareja, sexual, o de intimidad con la víctima.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2023)</small>
 
-V. Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
+V. Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso, acecho o lesiones del sujeto activo en contra de la víctima;
 
 > <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2019)</small>
 
@@ -3095,7 +3095,13 @@ VI. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la
 
 VII. El cuerpo sea expuesto, depositado o arrojado en un lugar público.
 
-Además de la sanción anterior, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+Además de la sanción anterior, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio y pensión por viudez, así como la pérdida de la patria potestad de hijos e hijas en común con la víctima, garantizando el interés superior de la niñez, de acuerdo con la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+Las penas previstas en este artículo se aumentarán hasta un tercio cuando la víctima sea mujer menor de edad, embarazada, adulta mayor o con discapacidad.
 
 En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
 
@@ -3294,6 +3300,10 @@ Se considera que existe razón de género cuando concurra cualquiera de las sigu
 2) Si entre el agresor y la victima existió una relación sentimental, afectiva o de confianza, de parentesco, laboral, docente o cualquiera que implique subordinación o un grado de superioridad y, sea acreditado que en base a esa relación fueron infringidas las lesiones infamantes, degradantes o mutilaciones.
 
 3) Las lesiones se hayan infligido en zonas genitales.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+4) Que las lesiones sean infligidas por ácidos, sustancias corrosivas o inflamables con la intención de alterar su salud y provocar daños físicos externos.
 
 Cuando respecto a la conducta lesiva concurran cualquiera de las circunstancias de las previstas (sic) el párrafo anterior, se aumentará en una mitad el mínimo y el máximo de las penas señaladas para las lesiones simples en el artículo 200 de este código, según las lesiones de que se trate conforme a dicho artículo 200.
 
@@ -3847,6 +3857,58 @@ Se impondrá de tres a seis años de prisión y multa de setecientos (sic) a mil
 
 Estas penas se aumentarán hasta en una mitad del máximo de la pena cuando el delito se cometa contra una persona menor de edad o que carezca de la capacidad de comprender el alcance del hecho.
 
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 236 Bis (Pautas específicas de aplicación). Para los efectos de este código se entiende por delito de acecho, seguir, vigilar o comunicarse persistentemente con alguien en contra de su voluntad, atentando contra su seguridad, libertad e intimidad. Es un patrón de atención repetida y no deseada, acoso no sexual, contacto o cualquier otra conducta dirigida a una persona específica que causaría que una persona razonable sienta miedo o temor.
+
+La conducta debe ser reiterada, al menos en dos ocasiones, y deberá alterar la vida normal de la víctima, a tal grado que esta, por el temor, angustia, intranquilidad o zozobra que le provoque, se vea obligada a cambiar su itinerario normal, hábitos, costumbres, número de teléfono, correo electrónico, perfiles de redes sociales, su lugar de residencia o de trabajo.
+
+Este delito se perseguirá por querella.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 236 Ter (Acecho) Se impondrá de seis meses a dos años de prisión y multa de quinientos a mil unidades de medida y actualización a quien intimide a una persona de manera insistente y reiterada, llevando a cabo cualquiera de las conductas siguientes:
+
+I. La vigile, la persiga o busque su cercanía física;
+
+II. Establezca o intente establecer contacto con ella a través de cualquier medio de comunicación o por interpósita persona;
+
+III. Atente contra su libertad o contra su patrimonio, o contra la libertad o patrimonio de otra persona próxima a ella;
+
+IV. Realice conductas tendientes a que la víctima o cualquier persona con quien mantenga lazos de parentesco o amistad, sufra daños en su persona o bienes, o que mantenga esas acciones con el fin de mantener intimidada a esa persona.
+
+Las penas previstas en este artículo se impondrán sin perjuicio de las que pudieren corresponder a otros delitos cometidos en concurso aplicando las reglas según corresponda.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 236 Quáter (Modalidades agravantes del delito previsto en el artículo 236 Ter de este código)
+
+Se incrementarán en una mitad los mínimos y máximos de las sanciones que se señalan en el artículo anterior cuando concurran cualquiera de las circunstancias siguientes:
+
+I. Se ingrese al domicilio de la víctima o de alguna persona con la que aquella mantenga lazos de parentesco o amistad y se provoque temor de sufrir algún daño físico, o se ejerza presión para lograr que la víctima lleve a cabo alguna acción en contra de su voluntad.
+
+II. Se cause grave daño físico o psicológico a la víctima o de alguna persona con la que mantenga lazos de parentesco o amistad.
+
+III. Se cometa la conducta con el uso de un arma, aún cuando no cause daño físico.
+
+IV. Se incurra en actos de acecho quebrantando e incumpliendo una orden de protección en su contra.
+
+V. Cuando se cometa un acto de vandalismo en perjuicio de bienes muebles o inmuebles propiedad de la víctima o de alguna persona cercana a ella o en sus lugares de trabajo o estudio.
+
+VI. Cuando la conducta provenga de una persona adulta en contra de una persona menor de edad.
+
+VII. Cuando los actos se cometan en contra de una mujer embarazada o de una persona especialmente vulnerable por razón de su edad, condición física o situación socioeconómica.
+
+VIII. Cuando los actos se cometan en razón de la identidad de género u orientación sexual de la persona víctima.
+
+IX. Cuando los actos se cometan en un contexto de violencia de género.
+
+X. Cuando los actos se cometan para el cobro de un adeudo existente o inexistente.
+
+XI. Cuando se utilicen dispositivos tecnológicos para la vigilancia, persecución o contacto no deseado, directamente por el agente activo o por interpósita persona.
+
+Si en los supuestos de las fracciones anteriores se realizaran otros ilícitos, se aplicarán las reglas de concurso que procedan.
+
 ## Título Sexto. Delitos contra el desarrollo de la personalidad de menores de edad
 
 ### Capítulo Primero. Corrupción de menores de edad o de incapaces
@@ -4029,13 +4091,17 @@ Se impondrá de dos a seis meses de prisión, o libertad supervisada de dos a se
 
 Artículo 251 (Violencia familiar)
 
-Se impondrá de seis meses a seis años de prisión, pérdida de los derechos que tenga respecto de la víctima, incluidos los de carácter sucesorio y, en su caso, como medida de seguridad, a juicio del juez, prohibición de ir a lugar determinado o de residir en él hasta por un tiempo igual al de la pena de prisión impuesta: a quien dentro o fuera del domicilio o del lugar en el que habite, ejerza violencia contra los derechos reproductivos, o violencia física, psicológica, patrimonial, económica y sexual, respecto al cónyuge o ex-cónyuge, concubina o ex-concubina, concubinario o ex-concubinario, compañera o ex-compañera civil, compañero o ex-compañero civil, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, o pariente colateral consanguíneo o por afinidad hasta el cuarto grado, así como contra el adoptante, adoptado o adoptada, o respecto a quien tenga relación de pareja o de hecho, o en contra de los parientes por consanguinidad o afinidad hasta el cuarto grado de las primeras diez personas nombradas, al igual que contra cualquiera otra persona que esté sujeta a la custodia, guarda protección, educación o cuidado del sujeto activo, independientemente de que la violencia produzca o no lesiones.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+Se impondrá de seis meses a seis años de prisión, pérdida de los derechos que tenga respecto de la víctima, hasta la pérdida de la patria potestad o de restricción para el régimen de visitas y los de carácter sucesorio y, en su caso, como medida de seguridad, a juicio del juez, la restricción para el régimen de visitas, prohibición de ir a lugar determinado o de residir en él hasta por un tiempo igual al de la pena de prisión impuesta: a quien dentro o fuera del domicilio o del lugar en el que habite, ejerza violencia contra los derechos reproductivos, o violencia física, psicológica, patrimonial, económica, sexual y/o vicaria, respecto al cónyuge o excónyuge, concubina o ex-concubina, concubinario o ex-concubinario, compañera o excompañera civil, compañero o ex-compañero civil, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, o pariente colateral consanguíneo o por afinidad hasta el cuarto grado, así como contra el adoptante, adoptado o adoptada, o respecto a quien tenga o haya tenido una relación de pareja o noviazgo, al igual que contra cualquiera otra persona que esté sujeta a la custodia, guarda protección, educación o cuidado del sujeto activo, independientemente de que la violencia produzca o no lesiones.
 
 En cualquier caso, al agente se le sujetará como medida de seguridad, a tratamiento psicológico especializado, que en ningún caso excederá del tiempo de la pena de prisión impuesta, independientemente de las penas que correspondan por cualquier otro delito que resulte.
 
 La educación o formación de una persona menor de dieciocho años, no será en ningún caso considerada justificación para cualquier forma de maltrato.
 
-Artículo 252 (Pautas específicas de aplicación sobre las clases de violencia familiar y sobre la relación de pareja o, de hecho)
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 252 (Pautas específicas de aplicación sobre las clases de violencia familiar y sobre la relación de pareja o, de hecho).
 
 Para los efectos del artículo anterior, se entenderá:
 
@@ -4047,23 +4113,43 @@ Más si mediante la referida violencia se causa a la víctima una o más lesione
 
 Y si se infiere a la víctima cualquiera de las lesiones previstas en las fracciones VI a VIII del artículo 200 de este código, se aumentará ocho años de prisión al máximo de esa pena señalada en el artículo 251 de este código.
 
+(Modalidades especialmente agravantes). Se aumentará en una mitad el mínimo y el máximo de las penas de prisión y de multa referidas en el párrafo precedente, cuando la violencia familiar, recaiga en una mujer por razón de género. Se considera que existe razón de género cuando concurra cualquiera de las siguientes circunstancias:
+
+a) Cuando el sujeto activo sepa que la víctima se halla en estado de gravidez, o éste sea notable, o la víctima sea una persona que tenga menos de dieciocho años o sea mayor de sesenta, o cuando por cualquier circunstancia la víctima se halle en notoria situación de inferioridad física o mental respecto del agente.
+
+b) Cuando el generador de violencia sea o haya sido miembro de alguna institución de seguridad pública, o de las Fuerzas Armadas Mexicanas. Por instituciones de seguridad pública se entenderá a las señaladas en el artículo 341 de este código. Si el agente es miembro de alguna institución de seguridad pública del Estado o de cualquiera de sus municipios, también se le destituirá y se le inhabilitará de por el tiempo que sea sentenciado para desempeñar un cargo, empleo o comisión en cualquier entidad oficial del Estado o de sus municipios, y se le suspenderá por igual tiempo del derecho a realizar cualquier clase de actividad de seguridad privada.
+
+c) Se le haya infligido por el sujeto activo una o más lesiones o mutilaciones infamantes o degradantes en zonas genitales o en cualquier otra.
+
+d) Se utilicen agentes químicos, que causen quemaduras en la victima.
+
+e) La víctima haya sido incomunicada o privada de la libertad.
+
+f) Con posterioridad a la agresión física la victima sea expuesta, depositada o arrojada en un lugar público.
+
+g) Cuando el sujeto Activo que guarda la relación de parentesco hacia la víctima, actué en grupo de dos o más sujetos activos con independencia de cuál sea la forma de participación.
+
 II. Por violencia psicológica: cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio.
 
 III. Por violencia contra los derechos reproductivos: a toda acción u omisión que limite o vulnere el ejercicio del derecho de las mujeres a decidir libre y voluntariamente e informada sobre su sexualidad, su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, a servicios de atención prenatal, así como a servicios obstétricos de emergencia.
 
 IV. Por violencia patrimonial: cualquier acto u omisión que afecta la supervivencia de los bienes de la víctima. Se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes, valores, derechos patrimoniales destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima.
 
+Se aumentará en una mitad el mínimo y el máximo de las penas de prisión y de multa referidas en el artículo 251, cuando los daños sean ocasionados mediante incendio.
+
 V. Violencia económica: toda acción u omisión de la persona agresora que afecta la supervivencia económica de la víctima, se manifiesta a través de limitaciones encaminadas a controlar los recursos económicos o el ingreso de sus percepciones económicas.
 
 VI. Violencia sexual: todo acto sexual o la tentativa de consumarlo bajo coacción, acoso, hostigamiento o abuso, comentarios sexuales no deseados, las acciones para comercializar o utilizar de cualquier otro modo la sexualidad de una mujer mediante coacción, denigrándola.
 
-VII. Por relación de pareja o de hecho. La que exista entre quienes:
+VII. Violencia vicaria: comete violencia vicaria, quien por medio de cualquier acto u omisión, utilice como víctima directa de violencia a las hijas o los hijos, familiares, personas adultas, con discapacidad, en situación de dependencia, mascotas, para causarle algún tipo de daño a la víctima, generando una consecuente afectación psicoemocional o física.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
+VIII. Por relación de pareja o de hecho. La que exista entre quienes:
 
 a) Hagan vida en común, no obstante la temporalidad de la misma.
 
 b) Se incorporen a un núcleo familiar residiendo en la misma vivienda, aunque no tengan parentesco con ninguno de sus integrantes.
+
+IX. Relación de noviazgo: Es una vinculación afectiva que se establece entre dos personas que se sienten atraídas mutuamente; que pueden o no tener la intención de contraer matrimonio o convivir de manera permanente, y que tienen la oportunidad de conocerse y compartir experiencias de vida.
 
 Artículo 253 (Disposiciones comunes)
 
@@ -5627,7 +5713,9 @@ No se punirá a quien omita una denuncia u oculte o ayude a quien aparezca como 
 
 Tampoco se punirá a quien omita una denuncia, oculte o ayude al responsable de un delito, en los términos de los dos artículos precedentes, si aquél está ligado con el imputado por amor, estrecha amistad, o por respeto o gratitud, siempre y cuando los tres últimos no obedezcan a motivos ilícitos. De igual modo, no se punirá al defensor del imputado que lo oculte o lo ayude en los términos del artículo 350 de este código.
 
-Las excusas de pena referidas en este artículo no aplicarán respecto a la omisión de denuncia, cuando se trate de secuestro, violación, violación equiparada o impropia, cometidos con o sin agravantes contra menores de edad, o contra incapaces, delitos contra el seguro desarrollo de la personalidad, trata de personas, explotación de menores, o extorsión en cualquiera de sus formas, pero las personas señaladas en este artículo y las personas obligadas a guardar el secreto profesional, con inclusión de los sacerdotes o ministros religiosos, podrán reservarse el nombre de quien esté cometiendo el delito permanente o continuado.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+Las excusas de pena referidas en este artículo no aplicarán respecto a la omisión de denuncia, cuando se trate de secuestro, violación, violación equiparada o impropia, cometidos con o sin agravantes contra menores de edad, o contra incapaces, delitos contra el seguro desarrollo de la personalidad, trata de personas, feminicidio, explotación de menores, o extorsión en cualquiera de sus formas, pero las personas señaladas en este artículo y las personas obligadas a guardar el secreto profesional, con inclusión de los sacerdotes o ministros religiosos, podrán reservarse el nombre de quien esté cometiendo el delito permanente o continuado.
 
 ## Título Cuarto. Delitos contra la investigación y persecución de delitos, o la impartición de justicia penal
 
@@ -8312,3 +8400,39 @@ P.O. 3 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 309.- SE REFORMA EL ARTÍCULO 268 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 555.- SE REFORMA LA FRACCIÓN V, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 188, EL PRIMER PÁRRAFO DEL ARTÍCULO 251, EL ARTÍCULO 252, EL TERCER PÁRRAFO DEL ARTÍCULO 351; SE ADICIONA UN TERCER PÁRRAFO, RECORRIÉNDOSE LOS ULTERIORES DEL ARTÍCULO 188, DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones en contrario a este Decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 556.- SE ADICIONA EL NUMERAL 4), AL PÁRRAFO QUINTO, DEL ARTÍCULO 201 DEL CÓDIGO PENAL DE COAHUILA DE 8 ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones en contrario a este Decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 553.- SE ADICIONAN LOS ARTÍCULOS 236 BIS, 236 TER Y 236 QUÁTER DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA; SE ADICIONA LA FRACCIÓN XIII, RECORRIENDO LA ULTERIOR DEL ARTÍCULO 8 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones en contrario a este Decreto.
