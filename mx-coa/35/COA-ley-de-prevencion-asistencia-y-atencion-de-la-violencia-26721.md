@@ -4,7 +4,7 @@ identifier: "COA-ley-de-prevencion-asistencia-y-atencion-de-la-violencia-26721"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2021-02-12"
+last_updated: "2023-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA FAMILIAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de octubre de 2002.
 
@@ -214,6 +214,10 @@ g) “Afectación económica”: Toda acción u omisión que afecta la economía
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
 
 h) “Afectación contra los derechos reproductivos”: Toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, a una maternidad elegida y segura, a servicios de atención prenatal, así como a servicios obstétricos de emergencia.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+i) "Violencia vicaria": Comete violencia vicaria, quien por medio de cualquier acto u omisión, utilice como víctima directa de violencia a las hijas o los hijos, familiares, personas adultas, con discapacidad, en situación de dependencia, mascotas, para causarle algún tipo de daño a la víctima, generando una consecuente afectación psicoemocional o física.
 
 ###### Artículo 11.
 
@@ -1426,3 +1430,15 @@ P.O.12 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 913.- SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 12, SE ADICIONA EL INCISO J) A LA FRACCIÓN I DEL ARTÍCULO 6; Y SE ADICIONA EL INCISO G) A LA FRACCIÓN III DEL ARTÍCULO 12 DE LA LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE COAHUILA DE ZARAGOZA.”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 554.- SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 9 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA UN INCISO I) A LA FRACCIÓN III DEL ARTÍCULO 10 DE LA LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA FAMILIAR".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones en contrario a este Decreto.
