@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2023-11-22"
+last_updated: "2023-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -641,9 +641,11 @@ IV. La vigilancia de actividades ocupacionales que puedan poner en peligro la sa
 
 V. Las demás acciones que coadyuven a la protección de la salud materno-infantil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 63.
 
-En materia de higiene escolar, corresponde a la Secretaría Estatal vigilar el cumplimiento de las normas oficiales mexicanas para proteger la salud del educando y de la comunidad escolar de los centros educativos dependientes del Estado. Las autoridades educativas y sanitarias estatales se coordinarán con sus homólogas federales y, en su caso, municipales para la aplicación de aquéllas.
+En materia de higiene escolar, corresponde a la Secretaría Estatal vigilar el cumplimiento de las normas oficiales mexicanas para proteger la salud del educando y de la comunidad escolar de los centros educativos dependientes del Estado, así como establecer acciones que promuevan una alimentación nutritiva y la realización de actividad física. Las autoridades educativas y sanitarias estatales se coordinarán con sus homólogas federales y, en su caso, municipales para la aplicación de aquéllas.
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias y educativas competentes.
 
@@ -706,6 +708,14 @@ La Secretaría Estatal coadyuvará, con la Secretaría Federal, en las acciones 
 La prevención de las enfermedades mentales tiene carácter prioritario; se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
 
 Las bases y modalidades para garantizar el acceso a los servicios de salud mental, así como los mecanismos adecuados para la promoción, prevención, evaluación, diagnóstico, tratamiento, rehabilitación y fomento en materia de Salud Mental en instituciones de salud pública, social y privada del Estado de Campeche, se regularán en la Ley de Salud Mental para el Estado de Campeche.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 68 bis.- El propósito último de los servicios de salud mental es la recuperación y el bienestar, el despliegue óptimo de sus potencialidades individuales para la convivencia, el trabajo y la recreación.
+
+La recuperación varía de persona a persona, de acuerdo con las preferencias individuales, significa el empoderamiento de la persona para poder tener una vida autónoma, superando o manejando el trauma.
+
+La atención a la salud mental deberá brindarse con un enfoque comunitario, de recuperación y con estricto respeto a los derechos humanos de los usuarios de estos servicios, en apego a los principios de interculturalidad, interdisciplinariedad, integralidad, intersectorialidad, perspectiva de género y participación social.
 
 ###### Artículo 69.
 
@@ -1131,7 +1141,9 @@ La promoción de la salud comprende:
 
 I. Educación para la salud;
 
-II. Nutrición;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+II. Alimentación nutritiva, actividad física y nutrición;
 
 III. Control de los efectos nocivos del ambiente en la salud;
 
@@ -1141,7 +1153,7 @@ V. Fomento Sanitario.
 
 ### Capítulo III. Nutrición
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 116.
 
@@ -1151,17 +1163,25 @@ I. Fomentar en la población el desarrollo de actitudes y conductas que le permi
 
 II. Proporcionar a la población los conocimientos sobre las causas de las enfermedades y los daños provocados por los efectos nocivos del ambiente en la salud; y
 
-III. Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+III. Orientar y capacitar a la población preferentemente en materia de nutrición, alimentación nutritiva, suficiente y de calidad, actividad física para la salud, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades, así como en la prevención, diagnóstico y control de las enfermedades cardiovasculares.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 117.
 
-La Secretaría Estatal, en coordinación con las autoridades estatales y federales competentes, propondrá y desarrollará programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población y promoverá programas de educación para la salud que puedan ser difundidos en los medios masivos de comunicación social existentes en el Estado.
+La Secretaría Estatal, en coordinación con las autoridades estatales y federales competentes, propondrá y desarrollará programas de educación para la salud, entre otros, aquellos orientados a la alimentación nutritiva, suficiente y de calidad y a la activación física procurando optimizar los recursos y alcanzar una cobertura total de la población y promoverá programas de educación para la salud que puedan ser difundidos en los medios masivos de comunicación social existentes en el Estado, así como llevar a cabo la detección y seguimiento de peso, talla e índice de masa corporal, en los centros escolares de educación básica.
+
+Tratándose de las comunidades indígenas, los programas a los que se refiere el párrafo anterior, deberán difundirse en español y la lengua o lenguas indígenas que correspondan.
 
 ### Capítulo IV. Efectos del Ambiente en la Salud
 
 ###### Artículo 118.
 
-La Secretaría Estatal, formulará y desarrollará programas de nutrición, promoviendo la participación en los mismos de los organismos estatales, nacionales e internacionales, así como los sectores social y privado, cuya actividad se relaciona con la nutrición.
+La Secretaría Estatal, formulará y desarrollará programas de nutrición, promoviendo la participación en los mismos de los organismos estatales, nacionales e internacionales, así como los sectores social y privado, cuya actividad se relaciona con la nutrición, alimentos y su disponibilidad.
+
+Los programas de nutrición promoverán la alimentación nutritiva y deberán considerar las necesidades nutricionales de la población. Por lo que, propondrán acciones para reducir la malnutrición y promover el consumo de alimentos adecuados a las necesidades nutricionales de la población; y evitar otros elementos que representen un riesgo potencial para la salud.
 
 De igual forma impulsará acciones encaminadas al combate de los trastornos alimenticios que se presenten entre los jóvenes y niños del Estado de Campeche, apoyando el diseño de programas y proyectos educativos en la materia.
 
@@ -2762,3 +2782,21 @@ P.O. 22 DE NOVIEMBRE DE 2023.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 278 POR EL QUE “SE REFORMA EL PÁRRAFO PRIMERO (SIC) ARTÍCULO 63; LA FRACCIÓN II DEL ARTÍCULO 115; LA FRACCIÓN III DEL ARTÍCULO 116 Y LOS ARTÍCULOS 117 Y 118 DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Poder Ejecutivo del Estado, conforme a su disponibilidad presupuestal tomará las previsiones necesarias para garantizar el cumplimiento de este decreto, para lo cual no se otorgarán mayores recursos a los ya autorizados.
+
+Tercero.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se oponga al presente decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 280 POR EL QUE "SE ADICIONA EL ARTÍCULO 68 BIS A LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE".]
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales y reglamentarias del marco normativo local en lo que se opongan al presente decreto.
