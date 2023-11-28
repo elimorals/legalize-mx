@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-comision-de-derechos-humanos-del-estado-de-puebla-185
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-24"
-last_updated: "2022-06-22"
+last_updated: "2023-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 24 de marzo de 2000.
 
@@ -247,9 +247,9 @@ IX.- Promover el estudio, enseñanza y divulgación de los derechos humanos en e
 
 X.- Difundir programas preventivos en materia de derechos humanos, procurando que también se elaboren en la lengua materna de las siete etnias oficialmente reconocidas en el Estado, para que sus integrantes los puedan comprender en su propia lengua.
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2023)</small>
 
-XI.- Supervisar, que las personas que se encuentren privadas de su libertad en los diversos establecimientos de detención o reclusión como cárceles municipales, separos de la Policía Judicial y Centros de Readaptación Social para adultos, así como en los Centros de Internamiento Especializado para Adolescentes que hayan cometido conductas tipificadas como delitos por la legislación del Estado, cuenten con las prerrogativas constitucionales y se garantice la plena vigencia de sus derechos humanos. Asimismo, se podrá solicitar el reconocimiento médico, físico y psicológico de los detenidos, cuando se presuma que han sufrido malos tratos o tortura, comunicando a las autoridades competentes los resultados de las revisiones practicadas para que tomen las medidas conducentes y en su caso, se denuncie ante las autoridades competentes a los servidores públicos responsables;
+XI.- Supervisar, que las personas que se encuentren privadas de su libertad en los diversos establecimientos de detención o reinserción como cárceles municipales, Instituciones Policiales y Centros Penitenciarios en el Estado, así como en los Centros de Internamiento Especializado para Adolescentes, Centros de Internamiento Médico, Psiquiátrico o cualquier otro que la autoridad destine, que hayan cometido conductas tipificadas como delitos por la legislación del Estado, cuenten con las prerrogativas constitucionales y se garantice la plena vigencia de sus derechos humanos. Cuando se presuma que han sufrido malos tratos o tortura, se podrá solicitar el reconocimiento médico, físico y psicológico de las personas detenidas, así como la intervención de las autoridades competentes para que se tomen las medidas correspondientes, en términos de la legislación aplicable;
 
 XII.- Coadyuvar con el Ejecutivo del Estado, en materia de derechos humanos, propiciando en la sociedad el desarrollo de esa cultura;
 
@@ -413,9 +413,11 @@ El Presidente de la Comisión, los Visitadores y el personal profesional tendrá
 
 Las declaraciones y hechos a que alude el párrafo que antecede, se harán constar en acta circunstanciada que al efecto levante el funcionario correspondiente.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 22.
 
-Durante la fase de investigación de la queja, los Visitadores Generales y los Adjuntos, dentro de sus atribuciones, podrán solicitar al titular de cualquier oficina administrativa o centro de reclusión, las facilidades necesarias para investigar los hechos motivo de la queja.
+Durante la fase de investigación de la queja, los Visitadores Generales y los Adjuntos, dentro de sus atribuciones, podrán solicitar al titular de cualquier oficina administrativa o Centro Penitenciario, las facilidades necesarias para investigar los hechos motivo de la queja.
 
 ###### ARTÍCULO 23.
 
@@ -629,7 +631,9 @@ I.- Hacerla del conocimiento del Ministerio Público, a efecto de que se inicie 
 
 II.- Solicitar se le designe coadyuvante del Ministerio Público, en los términos de la legislación aplicable;
 
-III.- Requerir informes sobre la persona desaparecida, a las corporaciones policiacas, centros de salud, oficinas del registro civil, servicio médico legal, centros de detención o reclusión, así como a las autoridades correspondientes;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+III.- Requerir informes sobre la persona desaparecida, a las corporaciones policiacas, centros de salud, oficinas del registro civil, servicio médico legal, centros de detención o penitenciarios, así como a las autoridades correspondientes;
 
 IV.- Solicitar la colaboración de la sociedad para la localización de la persona denunciada como desaparecida, publicando, en los casos que amerite, en los medios de comunicación que estime pertinentes, los datos, fotografías o retratos hablados, que se hubieren elaborado;
 
@@ -828,6 +832,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 22 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XV Y XVI Y ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 13 DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 13, EL 22 Y LA FRACCIÓN III DEL 57; TODOS DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
