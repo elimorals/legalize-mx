@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2023-04-03"
+last_updated: "2023-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -2073,9 +2073,9 @@ Le corresponde además conocer de asuntos en materia de desincorporación de bie
 
 XXI. Puntos constitucionales. Tiene a su cargo la atención de asuntos en materia de reformas a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2023)</small>
 
-XXII. Salud. Tiene a su cargo la atención de asuntos en materia de salud pública y seguridad social en el Estado de Querétaro;
+XXII. Salud. Tiene a su cargo la atención de asuntos en materia de salud pública y seguridad social en el Estado de Querétaro y acciones preventivas, conmemorativas, de difusión y de concientización sobre enfermedades graves;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2463,13 +2463,17 @@ XXI. Certificar los documentos que genere o resguarde en los archivos de la Depe
 
 XXII. Proponer la metodología para la elaboración del Plan Estratégico, el Programa Operativo Anual y los planes anuales de trabajo, en el ámbito administrativo, a las Dependencias y Unidades del Poder Legislativo;
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2023)</small>
 
-XXIII. Coordinar la elaboración del Manual de Organización Específico y del Manual de Descripción de Puestos, ambos del Poder Legislativo, los cuales serán validados por los titulares de las Dependencias y Unidades, y remitirlos a la Contraloría Interna para su conocimiento; y
+XXIII. Coordinar la elaboración del Manual de Organización Específico y del Manual de Descripción de Puestos, ambos del Poder Legislativo, los cuales serán validados por los titulares de las Dependencias y Unidades, y remitirlos a la Contraloría Interna para su conocimiento;
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2023)</small>
 
-XXIV. Registrar el cumplimiento de los Indicadores de Resultados que informen los titulares de las Dependencias y Unidades del Poder Legislativo, en ejercicio de sus facultades.
+XXIV. Registrar el cumplimiento de los Indicadores de Resultados que informen los titulares de las Dependencias y Unidades del Poder Legislativo, en ejercicio de sus facultades; y
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+XXV. Llevar a cabo, en coordinación con la Mesa Directiva y la Comisión de Salud, al interior de esta Soberanía, acciones preventivas, conmemorativas, de difusión y de concientización sobre enfermedades graves.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE ENERO DE 2023)</small>
 
@@ -3562,3 +3566,13 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su apr
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga (sic) a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 28 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su aprobación por el Pleno de la Sexagésima Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
