@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-mitigacion-y-adaptacion-al-cambio-climatico-y-149749"
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-09"
-last_updated: "2022-06-10"
+last_updated: "2023-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149749&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-06-07"
 
 LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Número 614 de la Gaceta Oficial de la Ciudad de México, el miércoles 9 de junio de 2021.
 
@@ -76,9 +76,17 @@ X. Contribuir a frenar los procesos de deterioro ambiental, especialmente en las
 
 XI. Diseñar políticas que contribuyan a la restauración de áreas degradadas y de los servicios de los ecosistemas, especialmente para aprovisionamiento de agua y alimentos;
 
-XII. Promover la conservación y manejo sustentable de los ecosistemas de la Ciudad de México para reducir las emisiones por deforestación y degradación forestal y del suelo, así como para aumentar la captura de CyGEI y su almacenamiento en sumideros y reservorios, y
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2023)</small>
 
-XIII. Contribuir al cumplimiento de las obligaciones internacionales, así como las metas nacionales a mediano y largo plazo en materia de cambio climático.
+XII. Promover la conservación y manejo sustentable de los ecosistemas de la Ciudad de México para reducir las emisiones por deforestación y degradación forestal y del suelo, así como para aumentar la captura de CyGEI y su almacenamiento en sumideros y reservorios,
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+XIII. Contribuir al cumplimiento de las obligaciones internacionales, así como las metas nacionales a mediano y largo plazo en materia de cambio climático, y
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+XIV. Desarrollar políticas públicas locales para prevenir y mitigar los efectos del fenómeno de islas de calor urbanas, así como las medidas de atención y respuesta a sus impactos.
 
 ###### Artículo 3.
 
@@ -147,6 +155,10 @@ b) Espacios azules: ríos, arroyos, humedales integrados a las (sic) ciudad, ter
 XXV. Instrumentos de mercado: aquellos instrumentos económicos de la Política de la Ciudad de México en materia de cambio climático que modifican el precio de bienes o servicios existentes, o aquellos que crean mercados específicos para la valoración de los servicios de mitigación y adaptación al cambio climático. Son mecanismos de mercado los sistemas de intercambio de emisiones con tope de emisión, los mercados voluntarios de carbono, los programas de subsidios como el pago por servicios ambientales o las tarifas preferenciales para la producción de energía renovable, así como los gravámenes a la generación de emisiones de gases y compuestos de efecto invernadero y otros que se determinen;
 
 XXVI. Inventario: Inventario de emisiones de compuestos y gases de efecto invernadero. Documento que estima las emisiones de gases de efecto invernadero de acuerdo con las directrices del Panel Intergubernamental de Cambio Climático para los inventarios de emisiones de CyGEI, así como la guía para las buenas prácticas y la gestión de incertidumbre;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+XXVI BIS. Isla de Calor Urbana: fenómeno que produce diferencias de temperatura más altas en el núcleo urbano en relación con las zonas circundantes, periféricas o rurales debido a las actividades humanas.
 
 XXVII. Ley: Ley de Mitigación y Adaptación al Cambio Climático y Desarrollo Sustentable de la Ciudad de México;
 
@@ -238,15 +250,19 @@ XV. Asegurar que la Política de la Ciudad de México en materia de cambio clim�
 
 XVI. Garantizar que la Política de la Ciudad de México en materia de cambio climático contribuya a cumplimentar las metas nacionales y los compromisos internacionales en la materia;
 
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+XVI BIS. Desarrollar mecanismos de coordinación entre las dependencias y entidades de la Administración Pública, el sector académico, social y privado, para atender el fenómeno de islas de calor urbanas.
+
 XVII. Expedir las disposiciones que deriven de la presente Ley; y
 
 XVIII. Las demás que prevén esta Ley y las disposiciones que resulten aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 7.
 
-Corresponde a la Secretaria el ejercicio de las atribuciones siguientes:
+Corresponde a la Secretaría el ejercicio de las atribuciones siguientes:
 
 I. Proponer, coordinar, ejecutar y evaluar políticas, estrategias, medidas y acciones en materia de resiliencia, mitigación y adaptación al cambio climático, en concordancia con la política nacional y los compromisos internacionales;
 
@@ -329,6 +345,10 @@ XXXIX. Crear un Sistema de Seguimiento que incluya la información y los indicad
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE JUNIO DE 2022)</small>
 
 XL. Coadyuvar con la Secretaría de Trabajo y Fomento al Empleo en la creación y fomento de empleos verdes;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+XL BIS. Desarrollar e implementar políticas públicas, en coordinación con las autoridades de la Ciudad de México, el sector académico, social y privado, para prevenir y mitigar los efectos del fenómeno de islas de calor urbanas, así como para atender y responder a sus impactos.
 
 XLI. Las demás que prevén esta Ley y las disposiciones que resulten aplicables.
 
@@ -1445,3 +1465,13 @@ G.O. 10 DE JUNIO DE 2022.
 Primero.- Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 28 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICAN LAS FRACCIONES XII Y XIII, SE ADICIONA LA FRACCIÓN XIV DEL ARTÍCULO 2, SE ADICIONA LA FRACCIÓN XXVI BIS DEL ARTÍCULO 4, SE ADICIONA LA FRACCIÓN XVI BIS DEL ARTÍCULO 6, SE ADICIONA LA FRACCIÓN XL BIS DEL ARTÍCULO 7; TODOS DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE DE LA CIUDAD DE MÉXICO”.]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Tercero. La Secretaría del Medio Ambiente de la Ciudad de México tendrá un plazo de 180 días, contados a partir de la entrada en vigor del presente Decreto, para actualizar y armonizar la normatividad aplicable en materia de Mitigación y adaptación al Cambio Climático y Desarrollo Sustentable de la Ciudad de México.
