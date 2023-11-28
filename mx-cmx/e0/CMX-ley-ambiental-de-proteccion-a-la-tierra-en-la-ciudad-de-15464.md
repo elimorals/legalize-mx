@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2023-08-04"
+last_updated: "2023-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -1084,6 +1084,10 @@ Son obligaciones de las personas que se encuentran en la Ciudad de México:
 
 I. Defender y respetar los recursos naturales que componen a la Tierra;
 
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+I BIS. Utilizar los recursos naturales de modo racional y sustentable;
+
 > <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
 II. Prevenir y evitar daños al ambiente y, en su caso, reparar los daños que hubieran causado;
@@ -1096,9 +1100,9 @@ III. Promover la armonía en la Tierra en todos los ámbitos de su relación con
 
 IV. Participar de forma activa, personal o colectivamente, en la generación de propuestas orientadas al respeto y la defensa de los recursos naturales de la Tierra;
 
-> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2023)</small>
 
-V. Asumir prácticas de producción y hábitos de consumo en armonía con los recursos naturales de la Tierra;
+V. Asumir prácticas de producción y hábitos de consumo sustentables y en armonía con los recursos naturales de la Tierra;
 
 > <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1116,13 +1120,21 @@ VIII. Realizar todas sus actividades cotidianas bajo los criterios de ahorro y r
 
 VIII BIS. Coadyuvar con las autoridades ambientales en las acciones de construcción de resiliencia que implementen;
 
-> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2023)</small>
 
-IX. Asegurar el uso y aprovechamiento sustentable de los componentes de la Tierra; y
+VIII TER. Respetar la vida e integridad de los animales como seres sintientes, lo cual no excluye implementar las medidas de manejo y prevención emitidas por la Secretaría en el caso de especies exóticas y ferales.
 
-> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2023)</small>
 
-X. Denunciar todo acto que atente contra los recursos naturales de la Tierra, sus sistemas de vida y/o sus componentes.
+IX. Asegurar el uso y aprovechamiento sustentable de los componentes de la Tierra;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+X. Denunciar todo acto que atente contra los recursos naturales de la Tierra, sus sistemas de vida y/o sus componentes; y
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+XI. Fomentar el respeto por las especies animales y vegetales locales, endémicas, en riesgo y aquellas cuya presencia sea relevante para el equilibrio del ecosistema, como los polinizadores, carnívoros, entre otros.
 
 ### CAPÍTULO III. PLANEACIÓN DEL DESARROLLO SUSTENTABLE
 
@@ -1146,11 +1158,11 @@ El Jefe de Gobierno del Distrito Federal formulará y evaluará, en coordinació
 
 El programa sectorial ambiental se evaluará anualmente por la Secretaría y presentará un informe ante la Asamblea, de los avances del mismo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 27 Bis.
 
-En el Distrito Federal, los Programas de Desarrollo Urbano se elaborarán atendiendo, además de las disposiciones jurídicas aplicables, los siguientes criterios:
+En la Ciudad de México, los Programas de Desarrollo Urbano se elaborarán atendiendo, además de las disposiciones jurídicas aplicables, los siguientes criterios:
 
 > <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
 
@@ -1172,9 +1184,13 @@ IV. La integración de inmuebles de alto valor histórico, arquitectónico y cul
 
 V. La compatibilidad para crear zonas habitacionales entorno a centros industriales; y
 
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2023)</small>
 
-VI. La preservación de las áreas verdes existentes, evitando ocuparlas con obras o instalaciones que se contrapongan a su función.
+VI. La preservación de las áreas verdes existentes, evitando ocuparlas con obras o instalaciones que se contrapongan a su función, y
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+VII. Las determinaciones que establece el artículo 88 Bis 6 de la presente Ley.
 
 ### CAPÍTULO IV. ORDENAMIENTO ECOLÓGICO
 
@@ -2583,6 +2599,16 @@ Las delegaciones llevarán el inventario de áreas verdes de su competencia en s
 Las autoridades locales del Distrito Federal, instalarán en la medida de sus posibilidades azoteas verdes en las edificaciones de que sean propietarios; para el caso de inmuebles catalogados por el Instituto Nacional de Antropología e Historia, el Instituto Nacional de Bellas Artes y la Secretaría de Desarrollo Urbano y Vivienda, deberán contar con la autorización correspondiente.
 
 Las azoteas verdes se sujetarán a la normatividad que para tal efecto estipule la Secretaría.
+
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2023)</small>
+
+###### ARTÍCULO 88 Bis 6.
+
+Las áreas verdes que formen parte del área libre en una construcción, deberán representar por lo menos el 70 por ciento de ésta, y ubicarse a nivel de banqueta, preferentemente con acceso público.
+
+Independientemente de las sanciones penales o administrativas, cuando para una obra nueva sea necesario talar, podar, trasplantar, mutilar o cualquier acción que cause muerte o alteración en detrimento de las condiciones de los sujetos arbóreos, dicha acción tendrá como consecuencia jurídica el aumento en el porcentaje de área libre conforme a lo dispuesto por la Norma Ambiental en la materia.
+
+En caso de incumplimiento a lo dispuesto por este artículo se estará a lo que referido en el artículo 214 quinquies de la presente Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5127,3 +5153,17 @@ PRIMERO. Remítase a la Jefatura de Gobierno para su promulgación y publicació
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. La Jefatura del Gobierno de la Ciudad tendrá hasta 120 días naturales para modificar las disposiciones Reglamentarias materia del presente decreto.
+
+G.O. 28 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICAN LAS FRACCIONES V, IX Y X DEL ARTÍCULO 23; ASÍ COMO EL PÁRRAFO PRIMERO Y LA FRACCIÓN VI DEL ARTÍCULO 27 BIS; SE ADICIONAN LAS FRACCIONES I BIS, VIII TER Y XI, DEL ARTÍCULO 23; Y LA ADICIÓN DE UN ARTÍCULO 88 BIS 6, TODAS ELLAS DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA DEL DISTRITO FEDERAL".]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Secretaría de Medio Ambiente y la Jefatura de Gobierno, ambas de la Ciudad de México, a través del Comité de Normalización Ambiental, tendrán hasta 180 días naturales para realizar las modificaciones pertinentes a las correspondientes Normas Ambientales de la Ciudad de México.
+
+CUARTO. El Congreso de la Ciudad de México deberá realizar las modificaciones a las Normas Generales de Ordenación correspondientes.
+
+QUINTO. La Jefatura del Gobierno de la Ciudad tendrá hasta 120 días naturales para modificar las disposiciones Reglamentarias materia del presente decreto.
