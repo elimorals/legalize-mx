@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-benemerita-universidad-autonoma-de-puebla-14606"
 country: "mx"
 rank: "ley"
 publication_date: "1991-04-23"
-last_updated: "2023-06-13"
+last_updated: "2023-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE LA BENEMERITA UNIVERSIDAD AUTONOMA DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2023.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el martes 23 de abril de 1991.
 
@@ -371,7 +371,7 @@ IX. No ser funcionaria o funcionario público ni dirigente de partido político 
 
 X. No ser ministro de culto religioso, y
 
-XI. No haber sido condenada por la comisión de delito doloso.
+XI. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2023)
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2023)</small>
 
@@ -538,3 +538,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La Universidad, para armonizar el Estatuto Orgánico y sus reglamentos, deberá iniciar el proceso de reforma a la legislación universitaria en un plazo no mayor a ocho meses, a partir de la entrada en vigor del presente Decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE DEROGA LA FRACCIÓN XI DEL ARTÍCULO 18 DE LA LEY DE LA BENEMÉRITA UNIVERSIDAD AUTÓNOMA DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
