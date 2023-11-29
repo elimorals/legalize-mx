@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2023-04-25"
+last_updated: "2023-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -2912,6 +2912,10 @@ XIV. Determinar los créditos a favor del Instituto y las bases para la liquidac
 
 Las liquidaciones de las cuotas del seguro de retiro, cesantía en edad avanzada y vejez podrán ser emitidas y notificadas conjuntamente con las liquidaciones de las aportaciones y descuentos correspondientes al Fondo Nacional de la Vivienda por el personal del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, previo convenio de coordinación con el citado Instituto;
 
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
+Tratándose de personas que se hayan inscrito voluntariamente al régimen obligatorio de esta Ley, dentro del cálculo de las cuotas obrero patronales, se realizará el cálculo correspondiente a las aportaciones de vivienda sobre el ingreso reportado;
+
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 XV. Determinar la existencia, contenido y alcance de las obligaciones incumplidas por los patrones y demás sujetos obligados en los términos de esta Ley, aplicando en su caso, los datos con los que cuente o con apoyo en los hechos que conozca con motivo del ejercicio de las facultades de comprobación de que goza como autoridad fiscal o bien, a través de los expedientes o documentos proporcionados por otras autoridades fiscales;
@@ -3866,11 +3870,15 @@ La Secretaría de Hacienda y Crédito Público aprobará la metodología para de
 
 ### CAPITULO I. DE LAS RESPONSABILIDADES
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 303.
 
-Los servidores públicos del Instituto, están obligados a observar en el cumplimiento de sus obligaciones, los principios de responsabilidad, ética profesional, excelencia, honradez, lealtad, imparcialidad, eficiencia, calidez y calidad en la prestación de los servicios y en la atención a los derechohabientes y estarán sujetos a las responsabilidades civiles o penales en que pudieran incurrir como encargados de un servicio público.
+Los servidores públicos del Instituto, están obligados a observar en el cumplimiento de sus obligaciones, los principios de responsabilidad, ética profesional, excelencia, honradez, lealtad, imparcialidad, eficiencia, calidez, buen trato y calidad en la prestación de los servicios y en la atención a los derechohabientes y estarán sujetos a las responsabilidades civiles o penales en que pudieran incurrir como encargados de un servicio público.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
+Por lo que el Instituto, implementará de forma periódica y programada las estrategias de capacitación y actualización entre otras: en materia de ética y protocolos que aseguren una atención digna y eficiente a los derechohabientes, con observancia del respeto a los derechos humanos, no discriminación e igualdad de género.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -4809,3 +4817,17 @@ D.O.F. 25 DE ABRIL DE 2023.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- El Instituto, con cargo a su presupuesto aprobado, contará con un plazo de ciento ochenta días para adecuar su normatividad interna y para adoptar las medidas administrativas, que le permitan establecer la forma en cómo se dará seguimiento nutricional a los menores y establecer el plazo por el cual se podrá otorgar el apoyo nutricional a las madres embarazadas, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto para el presente ejercicio fiscal.
+
+D.O.F. 29 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 251 DE LA LEY DEL SEGURO SOCIAL Y 146 DE LA LEY FEDERAL DEL TRABAJO, Y SE ADICIONA UN ARTÍCULO 59 BIS A LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES”.]
+
+Único.- El presente Decreto entrará en vigor el primero de enero del año posterior a su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN EL ARTÍCULO 303 DE LA LEY DEL SEGURO SOCIAL Y EL ARTÍCULO 29 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las autoridades del Instituto Mexicano del Seguro Social y del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la publicación del presente Decreto.
