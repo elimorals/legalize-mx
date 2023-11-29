@@ -4,7 +4,7 @@ identifier: "LISSSTE"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2023-05-08"
+last_updated: "2023-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54892&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,11 +24,11 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de marzo de 2007.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
 FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 
@@ -465,6 +465,10 @@ Para el efecto, la Junta Directiva aprobará los reglamentos en materia de servi
 El Instituto desarrollará una función prestadora de servicios de salud, mediante la cual se llevarán a cabo las acciones amparadas por este seguro, a través de las unidades prestadoras de servicios de salud, de acuerdo con las modalidades de servicio previstas en las Secciones III y IV del presente Capítulo. Esta función procurará que el Instituto brinde al Derechohabiente servicios de salud suficientes, oportunos y de calidad que contribuyan a prevenir o mejorar su salud y bienestar.
 
 El Instituto desarrollará también una función financiera de servicios de salud, que administrará este seguro, con base en un sistema de evaluación y seguimiento que calificará lo mencionado en el párrafo anterior, propondrá asignaciones presupuestarias por resultados y procurará su equilibrio financiero.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
+Por lo que para lograr lo descrito en el primer párrafo de este artículo el Instituto, implementará de forma periódica y programada las estrategias de capacitación y actualización entre otras: en materia de ética y protocolos que aseguren una atención digna y eficiente a los derechohabientes, con observancia del respeto a los derechos humanos, no discriminación e igualdad de género.
 
 ###### Artículo 30.
 
@@ -1532,7 +1536,7 @@ III. A falta de cónyuge, o de hijos, o en su caso de concubina o concubinario, 
 
 IV. La cantidad total a que tengan derecho los deudos señalados en cada una de las fracciones, se dividirá por partes iguales entre ellos. Cuando fuesen varios los beneficiarios de una Pensión y alguno de ellos perdiese el derecho, la parte que le corresponda será repartida proporcionalmente entre los restantes, y
 
-V. Los hijos adoptivos sólo tendrán derecho a la Pensión por orfandad, cuando la adopción se haya hecho por el Trabajador o Pensionado antes de haber cumplido cincuenta y cinco años de edad.
+V. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2023)
 
 ###### Artículo 132.
 
@@ -2790,8 +2794,6 @@ OCTAVO. Los Trabajadores que hubieran optado por el régimen del artículo déci
 
 NOVENO. El valor nominal de emisión expresado en unidades de inversión de los Bonos de Pensión del ISSSTE que se calculará a cada Trabajador será el que se determine conforme a la tabla siguiente:
 
-(VÉASE ARCHIVO ANEXO)
-
 Para determinar el monto de los Bonos de Pensión del ISSSTE en cada caso particular, se deberá multiplicar el numeral que corresponda en la tabla a los años de cotización y edad del Trabajador, por el Sueldo Básico, elevado al año y expresado en unidades de inversión, que estuviere percibiendo el Trabajador al último día del año anterior a que entre en vigor esta Ley.
 
 RÉGIMEN DE LOS TRABAJADORES QUE NO OPTEN POR EL BONO
@@ -3092,8 +3094,6 @@ El Banco de México tendrá a su cargo las funciones de custodia, administració
 
 VIGÉSIMO PRIMERO. Los Bonos de Pensión del ISSSTE podrán ser redimidos antes de su vencimiento, cuando el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, lo considere conveniente o cuando el Trabajador tenga derecho a pensionarse. En estos casos, el Trabajador recibirá la cantidad que representen sus Bonos de Pensión del ISSSTE a la fecha de redención anticipada conforme a la fórmula siguiente:
 
-(VÉASE ARCHIVO ANEXO)
-
 Donde:
 
 t = El día en el que se evalúa el valor de redención anticipada del Bono de Pensión del ISSSTE.
@@ -3110,8 +3110,6 @@ Esta fórmula utiliza los mismos supuestos de cálculo utilizados para determina
 
 De conformidad con la fórmula de pago anticipado, el valor de redención expresado en unidades de inversión de los Bonos de Pensión del ISSSTE a la fecha de su emisión será el siguiente:
 
-(VÉASE ARCHIVO ANEXO)
-
 Para determinar el monto de los Bonos de Pensión del ISSSTE en cada caso particular, se deberá multiplicar el numeral que corresponda en la tabla a los años de cotización y edad del Trabajador, por el Sueldo Básico mensual, elevado al año y expresado en unidades de inversión, que estuviere percibiendo el Trabajador al último día del año anterior a que entre en vigor esta Ley.
 
 A efecto de cumplir con las obligaciones generadas con los Trabajadores conforme a lo dispuesto en la presente Ley, se autoriza al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, a celebrar los actos jurídicos necesarios para emitir y pagar los Bonos de Pensión del ISSSTE, así como, en su caso, a contratar, ejercer, y autorizar créditos, empréstitos y otras formas del crédito público, incluso mediante la emisión de valores, para el financiamiento de las obligaciones del Gobierno Federal asociadas a esta Ley. Asimismo, se autoriza al Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público para realizar los ajustes correspondientes en el Presupuesto de Egresos de la Federación a efecto de que se reconozca como gasto el mismo importe de las obligaciones a cargo del Gobierno Federal a que se refiere esta Ley.
@@ -3122,7 +3120,7 @@ El PENSIONISSSTE y, en su caso, las Administradoras, deberán incorporar en los 
 
 DEL PENSIONISSSTE
 
-VIGÉSIMO TERCERO. El Instituto dispondrá de un plazo de doce meses a partir de la vigencia de esta Ley, para que en el orden administrativo establezca lo necesario para la creación y el funcionamiento del PENSIONISSSTE debiendo proveer los recursos humanos, materiales y presupuestales que se requieran desde el inicio de operaciones del PENSIONISSSTE hasta que éste reciba recursos por concepto de comisiones.
+VIGÉSIMO TERCERO. El Instituto dispondrá de un plazo de doce meses a partir de la vigencia de esta Ley, para que en el orden administrativo establezca lo necesario para la creación y el funcionamiento del PENSIONISSSTE debiendo proveer los recursos humanos, materiales y presupuéstales que se requieran desde el inicio de operaciones del PENSIONISSSTE hasta que éste reciba recursos por concepto de comisiones.
 
 El Gobierno Federal deberá apoyar al Instituto, proveyendo los recursos necesarios, para el inicio de operaciones del PENSIONISSSTE.
 
@@ -3444,7 +3442,7 @@ Segundo.- Las obligaciones que se generen con motivo de la entrada en vigor del 
 
 Tercero.- El Instituto, en un plazo de ciento veinte días, a partir de la entrada en vigor del presente Decreto, deberá emitir las disposiciones necesarias para el otorgamiento del servicio Casas de día para adultos mayores jubilados y pensionados derechohabientes.
 
-D.O.F. 24 DE MARZO DE 2023.
+P.O. 24 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE DEROGA EL NUMERAL 2, DEL INCISO D), DE LA FRACCIÓN XII, DEL ARTÍCULO 6 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO".]
 
@@ -3465,3 +3463,19 @@ Cuarto.- El saldo de los créditos originados en salarios mínimos se actualizar
 Quinto.- A efecto de cumplir con la reforma establecida en este Decreto, el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado tendrá 180 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones administrativas conducentes.
 
 Sexto.- Para el caso de las personas acreditadas que han pagado dos veces o más el monto del crédito otorgado, el Instituto establecerá los programas necesarios para la liberación del crédito hipotecario debidamente autorizados por la Junta Directiva, con base en el estudio de las finanzas del Instituto, en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+D.O.F. 29 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 131 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 29 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN EL ARTÍCULO 303 DE LA LEY DEL SEGURO SOCIAL Y EL ARTÍCULO 29 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las autoridades del Instituto Mexicano del Seguro Social y del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la publicación del presente Decreto.
