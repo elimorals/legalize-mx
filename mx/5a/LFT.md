@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "2022-12-27"
+last_updated: "2023-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el miércoles 1 de abril de 1970.
 
@@ -1816,11 +1816,11 @@ Para tales efectos, se entenderá por incapacidad total permanente la pérdida d
 
 Tratándose de los casos de incapacidad parcial permanente, cuando ésta sea del 50% o más, o invalidez definitiva, se liberará al trabajador acreditado del adeudo, los gravámenes o limitaciones de dominio a favor del Instituto, siempre y cuando no sea sujeto de una nueva relación de trabajo por un período mínimo de dos años, lapso durante el cual gozará de una prórroga sin causa de intereses, para el pago de su crédito. La existencia de cualquiera de estos supuestos deberá comprobarse ante el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, dentro del mes siguiente a la fecha en que se determinen.
 
-> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 146.
 
-Los patrones no estarán obligados a pagar las aportaciones a que se refiere el Artículo 136 de esta ley por lo que toca a los trabajadores del hogar.
+Las personas trabajadoras que se hayan inscrito voluntariamente al régimen obligatorio de la Ley del Seguro Social, podrán realizar aportaciones al Fondo Nacional de la Vivienda, que les permitan obtener un crédito barato y suficiente, conforme lo determine el organismo a que se refiere el artículo 138 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
@@ -13919,3 +13919,9 @@ D.O.F. 27 DE DICIEMBRE DE 2022.
 Primero.- El presente Decreto entrará en vigor el 1.° de enero de 2023, o al día siguiente de su publicación en el Diario Oficial de la Federación, si esta fuera en el año 2023.
 
 Segundo.- Las modificaciones motivo del presente Decreto serán aplicables a los contratos individuales o colectivos de trabajo vigentes a la fecha de su entrada en vigor, cualquiera que sea su forma o denominación, siempre que resulten más favorables a los derechos de las personas trabajadoras.
+
+D.O.F. 29 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 251 DE LA LEY DEL SEGURO SOCIAL Y 146 DE LA LEY FEDERAL DEL TRABAJO, Y SE ADICIONA UN ARTÍCULO 59 BIS A LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES".]
+
+Único.- El presente Decreto entrará en vigor el primero de enero del año posterior a su publicación en el Diario Oficial de la Federación.
