@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-transparencia-11814
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-01-17"
-last_updated: "2022-03-09"
+last_updated: "2023-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118147&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,8 +25,6 @@ ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMAC
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE FEBRERO DE 2022.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 9 DE MARZO DE 2022.]</small>
-
 Estatuto publicado en la Segunda Sección al Número 13 del Diario Oficial de la Federación, el martes 17 de enero de 2017.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
@@ -37,7 +35,7 @@ ACUERDO MEDIANTE EL CUAL SE APRUEBA EL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL
 
 CONSIDERANDO
 
-[…]
+[...]
 
 Por lo antes expuesto, en las consideraciones de hecho y de derecho y con fundamento en lo dispuesto en los artículos 6o., apartado A, fracción VIII; Segundo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia de transparencia; Primero y Quinto Transitorio de la Ley General de Transparencia y Acceso a la Información Pública; 21, fracción XX, 29, fracción I, 31, fracción XII, 35, fracción I y Sexto Transitorio de la Ley Federal de Transparencia y Acceso a la Información Pública; 14, 15, fracciones I y III, 20, fracción X y 21, fracciones II, III y IV del Reglamento Interior del Instituto Federal de Acceso a la Información y Protección de Datos; el Acuerdo ACT/EXT-PLENO/PA/12/05/14.02 por el que se aprueba la modificación a la estructura orgánica y ocupacional del Instituto Federal de Acceso a la Información y Protección de Datos; Acuerdo ACT-PUB-24-06-2015.04 mediante el cual se aprueban las modificaciones a la Estructura Orgánica del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y el Acuerdo ACT-PUB/23/09/2015.06 mediante el cual se modifica el diverso Acuerdo ACT-PUB/24/06/2015.04, en el que se aprobaron las modificaciones a la estructura orgánica del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, y se da cumplimiento al transitorio del Acuerdo ACT-PUB/15/09/2015.06, en lo relativo a la asignación de proyectos estratégicos, el Pleno del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, emite el siguiente:
 
@@ -201,7 +199,9 @@ q. Dirección General de Evaluación, Investigación y Verificación del Sector 
 
 r. Dirección General de Normatividad y Consulta;
 
-s. Dirección General de Planeación y Desempeño Institucional;
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
+s. Dirección General de Planeación, Desempeño Institucional y Derechos Humanos;
 
 t. Dirección General de Políticas de Acceso;
 
@@ -309,7 +309,9 @@ XXV. Aprobar un sistema interno de rendición de cuentas claras, transparentes y
 
 XXVI. Aprobar las propuestas de políticas y programas institucionales, de proyectos específicos y de la normatividad que presenten las Secretarías y las Direcciones Generales;
 
-XXVII. Aprobar el Programa de Derechos Humanos, Igualdad y Género del Instituto;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
+XXVII. Aprobar el Programa de Derechos Humanos, Género e Integridad del Instituto;
 
 XXVIII. Designar al Secretario Ejecutivo del Sistema Nacional;
 
@@ -361,9 +363,11 @@ Si para la remoción del Comisionado Presidente transcurrieran dos rondas de vot
 
 El Comisionado Presidente ejercerá el cargo por un periodo de tres años, con la posibilidad de ser reelecto por un periodo igual; concluida su gestión, o en caso de renuncia o ausencia definitiva, se elegirá a quien le sustituya a través del procedimiento referido en el artículo 13 de este Estatuto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 16.
 
-Las funciones del Comisionado Presidente son las siguientes:
+Las funciones de la persona Comisionada Presidenta son las siguientes:
 
 I. Representar legalmente al Instituto; otorgar, sustituir y revocar poderes generales y especiales con las facultades que le competan, entre ellas las que requieran autorización o cláusula especial. Tratándose de actos de dominio sobre inmuebles destinados al Instituto o para otorgar poderes para dichos efectos, se requerirá la autorización previa del Pleno;
 
@@ -417,9 +421,9 @@ XXIV. Proponer lineamientos, normas, recomendaciones, criterios y dictámenes re
 
 XXV. Las demás que le señalen las leyes, sus reglamentos y otras disposiciones administrativas que le resulten aplicables y el Pleno.
 
-> <small>(REFORMADO, D.O.F. 13 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
 
-A la Oficina del Comisionado Presidente se encuentran adscritas las Direcciones Generales de Administración; de Asuntos Jurídicos; de Comunicación Social y Difusión; y de Planeación y Desempeño Institucional; y la Oficina de Control Interno.
+A la Oficina de la Presidencia se encuentran adscritas las Direcciones Generales de Administración; de Asuntos Jurídicos; de Comunicación Social y Difusión; y de Planeación, Desempeño Institucional y Derechos Humanos, y la Oficina de Control Interno.
 
 ###### Artículo 17.
 
@@ -577,7 +581,9 @@ XXI. Designar a los servidores públicos que, en su caso, representarán a la Se
 
 XXII. Coordinar la elaboración del presupuesto, del programa de trabajo institucional y de las metas e indicadores de desempeño de las Direcciones Generales a su cargo;
 
-XXIII. Supervisar el ejercicio y cumplimiento de las funciones, objetivos, indicadores, proyectos especiales y metas programadas; con base en la normatividad aplicable en materia de desempeño institucional y en colaboración con la Dirección General de Planeación y Desempeño Institucional;
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
+XXIII. Supervisar el ejercicio y cumplimiento de las funciones, objetivos, indicadores, proyectos especiales y metas programadas; con base en la normatividad aplicable en materia de desempeño institucional, con perspectiva de derechos humanos, género e integridad, en colaboración con la Dirección General de Planeación, Desempeño Institucional y Derechos Humanos;
 
 XXIV. Identificar oportunidades y plantear propuestas de mejora para el desarrollo de las actividades de su Secretaría, así como de las Direcciones Generales a su cargo;
 
@@ -1613,81 +1619,83 @@ XII. Administrar el esquema de certificación de personas en materia de protecci
 
 XIII. Las demás que deriven de la normatividad aplicable en la materia y las que dispongan el Comisionado Presidente, el Pleno y el Secretario de Protección de Datos Personales.
 
-> <small>[N. DE E. MEDIANTE REFORMA PUBLICADA EN EL D.O.F. DE 23 DE SEPTIEMBRE DE 2020, SE ELIMINAN LAS FRACCIONES XIV HASTA LA XVIII Y SE RECORREN LAS RESTANTES.]</small>
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 43.
 
-La Dirección General de Planeación y Desempeño Institucional tendrá las siguientes funciones:
+La Dirección General de Planeación, Desempeño Institucional y Derechos Humanos tendrá las siguientes funciones:
 
-I. Coordinar la implementación del proceso institucional de planeación, seguimiento y evaluación, así como los elementos que integran el Sistema de Evaluación del Desempeño del Instituto;
+I. Coordinar la implementación del proceso institucional de planeación, seguimiento y evaluación; los elementos que integran el Sistema de Evaluación del Desempeño del Instituto, así como el cumplimiento de los objetivos, estrategias y líneas de acción del Programa de Derechos Humanos, Género e Integridad del Instituto;
 
-II. Proponer el programa de trabajo institucional, integrado en conjunto con las Secretarías y las Direcciones Generales, así como coordinar su evaluación, orientación a resultados y dar seguimiento a éste y a los programas que de él deriven, con base en la normatividad aplicable en materia de desempeño institucional;
+II. Proponer el programa de trabajo institucional, integrado en conjunto con las Secretarías y las Direcciones Generales, así como coordinar su evaluación, orientación a resultados y dar seguimiento a éste y a los programas que de él deriven, con base en la normatividad aplicable en materia de desempeño institucional, con enfoque transversal de derechos humanos, género e integridad;
 
-III. Proponer al Pleno los indicadores de impacto que evaluarán la incidencia de los objetivos estratégicos del Instituto;
+III. Proponer al Pleno los indicadores de impacto que evaluarán la incidencia de los objetivos estratégicos del Instituto, con perspectiva de derechos humanos, género e integridad;
 
-IV. Rendir los informes necesarios en materia de desempeño institucional que contemplen la Ley Federal de Presupuesto y Responsabilidad Hacendaria y la Ley General de Contabilidad Gubernamental, así como aquellos encomendados por el Pleno del Instituto;
+IV. Rendir los informes requeridos en materia de desempeño institucional, derechos humanos y violencia contra las mujeres, de conformidad con las leyes vigentes, así como aquellos encomendados por el Pleno del Instituto en los ámbitos de su competencia;
 
-V. Proponer al Pleno, con base en el proceso de planeación del Instituto y la información contenida en el Sistema de Evaluación del Desempeño Institucional, cambios y/o mejoras a la misión, visión y objetivos estratégicos del Instituto, así como acompañar a las unidades administrativas en la definición de sus objetivos y del proceso presupuestario;
+V. Proponer al Pleno, con base en el proceso de planeación del Instituto y la información contenida en el Sistema de Evaluación del Desempeño Institucional, cambios y/o mejoras a la misión, visión y objetivos estratégicos del Instituto, así como acompañar a las unidades administrativas en la definición de sus objetivos y del proceso presupuestario, con perspectiva de derechos humanos, género e integridad;
 
-VI. Promover, en coordinación con la Dirección General de Administración, la alineación del proceso presupuestario a la consecución de los objetivos estratégicos y al logro de las metas institucionales, y elaborar los objetivos, indicadores y metas para el proyecto de Presupuesto de Egresos de la Federación;
+VI. Promover, en coordinación con la Dirección General de Administración, la alineación del proceso presupuestario a la consecución de los objetivos estratégicos y al logro de las metas institucionales, y elaborar los objetivos, indicadores y metas para el proyecto de presupuesto de egresos del Instituto que deba remitirse para su integración al proyecto de Presupuesto de Egresos de la Federación, de conformidad con las disposiciones aplicables;
 
-VII. Administrar los elementos que conforman el Sistema de Evaluación del Desempeño Institucional y diseñar la metodología para el establecimiento de objetivos, indicadores y evaluaciones de desempeño del Instituto, con enfoque a derechos humanos y equidad de género;
+VII. Administrar los elementos que conforman el Sistema de Evaluación del Desempeño Institucional y diseñar la metodología para el establecimiento de objetivos, indicadores y evaluaciones de desempeño del Instituto, con enfoque transversal de derechos humanos, género e integridad;
 
-VIII. Proponer al Pleno, en conjunto con las unidades administrativas del Instituto, los indicadores y metas que permitirán, mediante un seguimiento oportuno, valorar el cumplimiento de los objetivos estratégicos y metas institucionales;
+VIII. Proponer al Pleno, en conjunto con las unidades administrativas del Instituto, los indicadores y metas que permitirán, mediante un monitoreo y seguimiento oportuno, valorar el cumplimiento de los objetivos estratégicos, las metas institucionales y las líneas de acción que se contengan en los programas respectivos;
 
-IX. Definir la metodología y las herramientas que el Instituto utilizará para dar seguimiento a los objetivos y metas definidos por las unidades administrativas;
+IX. Definir la metodología y las herramientas que el Instituto utilizará para monitorear, dar seguimiento y evaluar el cumplimiento de los objetivos y metas definidos por las unidades administrativas;
 
-X. Realizar de forma anual una valoración técnica sobre el desempeño y resultados de las unidades administrativas;
+X. Realizar de forma anual una valoración técnica sobre el desempeño y los resultados de las unidades administrativas del Instituto e informar de ello al Pleno;
 
-XI. Realizar estudios, investigaciones e informes para valorar el desempeño institucional, dar seguimiento a las evaluaciones externas que se realicen a las mismas, y emitir recomendaciones en materia de planeación, seguimiento y evaluación del desempeño;
+XI. Realizar estudios, investigaciones e informes para valorar el desempeño institucional y el cumplimiento del Programa de Derechos Humanos, Género e Integridad del Instituto, dar seguimiento a las evaluaciones externas que se realicen a las mismas, y emitir recomendaciones en materia de planeación, programación, seguimiento, evaluación, mejora e innovación del desempeño;
 
-XII. Coordinar el proceso de atención de recomendaciones de mejora emanadas del Sistema de Evaluación del Desempeño Institucional;
+XII. Coordinar el proceso de atención de las recomendaciones de mejora emanadas del Sistema de Evaluación del Desempeño Institucional, así como de las recomendaciones hechas al Instituto por los organismos defensores de los derechos humanos en el ámbito nacional o internacional;
 
-XIII. Fomentar hacia el interior del Instituto acciones de formación de personal en materia de Gestión para Resultados, Planeación Estratégica, Presupuesto basado en Resultados, Evaluación de Desempeño, que contemplen la colaboración de actores nacionales e internacionales especializados en la materia;
+XIII. Fomentar hacia el interior del Instituto acciones de formación de personal en materia de Gestión para Resultados, Planeación Estratégica, Presupuesto basado en Resultados, Evaluación de Desempeño, Derechos Humanos, Género e Integridad, que contemplen la colaboración de actores nacionales e internacionales especializados en la materia;
 
-(REUBICADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)
+XIV. Vigilar el respeto a los derechos humanos, la igualdad sustantiva y la integridad en el Instituto y encabezar la Unidad de Atención a Víctimas de Violencia, que funcionará como un mecanismo institucional ágil, eficaz, con autonomía de decisión y capacidad de reacción inmediata, para prevenir, detectar, atender y ayudar a remediar casos de violaciones a derechos humanos o violencia en el Instituto en agravio de cualquier persona, que sean de su competencia, sin perjuicio del derecho de las víctimas de acudir a cualquier otra instancia competente sin tener que agotar procedimientos internos;
 
-XIV. Coadyuvar con la Secretaría Ejecutiva del Sistema Nacional en la elaboración de propuestas de metodología, planeación y evaluación de desempeño sobre indicadores estratégicos y de gestión, programas y proyectos para el logro de los objetivos en el marco del propio Sistema Nacional, así como en el establecimiento de criterios e instrumentos para la incorporación de una política transversal con perspectiva de género, y
+XV. Dirigir, coordinar y supervisar la formulación, operación y seguimiento de políticas, programas, presupuesto, acciones transversales y lineamientos para consolidar el respeto a los derechos humanos, propiciar la igualdad de oportunidades y fortalecer la equidad de género e integridad, con la participación de otras unidades administrativas en congruencia con los programas institucionales;
 
-> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+XVI. Elaborar estudios sobre el estado en que se encuentran el respeto a los derechos humanos, la equidad de género, la integridad y la erradicación de la violencia en el Instituto;
 
-XV. Dirigir, coordinar y supervisar la formulación, operación, seguimiento de políticas, programas, presupuesto, acciones transversales y lineamientos para propiciar la igualdad de oportunidades y fortalecer la equidad de género e integridad, con la participación de otras unidades administrativas en congruencia con los programas institucionales;
+XVII. Coadyuvar en la vinculación con instancias públicas, académicas y organizaciones de la sociedad civil en materia de derechos humanos, género, integridad y erradicación de la violencia en el Instituto;
 
-> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+XVIII. Proponer la política, estrategias y un programa anual de trabajo para alcanzar la equidad de género y la erradicación de la violencia en el Instituto;
 
-XVI. Elaborar estudios sobre el estado en que se encuentra la equidad de género en el Instituto;
+XIX. Proponer acciones tendientes a implementar un presupuesto con perspectiva de derechos humanos, género e integridad;
 
-> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+XX. Coadyuvar con la Secretaría Ejecutiva del Sistema Nacional en la elaboración de propuestas de metodología, planeación y evaluación de desempeño sobre indicadores estratégicos y de gestión, programas y proyectos para el logro de los objetivos en el marco del propio Sistema Nacional, así como en el establecimiento de criterios e instrumentos para la incorporación de una política transversal con perspectiva de derechos humanos, género, igualdad, no discriminación e integridad;
 
-XVII. Coadyuvar en la vinculación con instancias públicas, académicas y organizaciones de la sociedad civil en materia (sic) derechos humanos, género e integridad;
+XXI. Definir y proponer disposiciones de aplicación del enfoque de derechos humanos y la perspectiva de igualdad sustantiva y género, para impulsar un modelo de servicio público íntegro y orientado a resultados;
 
-> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+XXII. Fomentar el intercambio de experiencias nacionales e internacionales con redes u organizaciones de la sociedad civil, académicas o no gubernamentales, en materia de derechos humanos, género, integridad y erradicación de la violencia;
 
-XVIII. Proponer la política, estrategias y un programa anual de trabajo para alcanzar la equidad de género en el Instituto;
+XXIII. Articular el desarrollo y seguimiento de acciones para el cumplimiento de los acuerdos, objetivos, estrategias y líneas de acción del Instituto en materia de integridad, en vinculación con el Sistema Nacional Anticorrupción, así como coadyuvar con la persona Comisionada Presidenta como participante del Comité Coordinador de dicho Sistema, con las personas Comisionadas como participantes en las comisiones e instancias del mismo y con las demás acciones dirigidas a su fortalecimiento;
 
-> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+XXIV. Funcionar como instancia de primer contacto en casos de acoso y hostigamiento laboral y sexual, desigualdad, discriminación y cualquier otro tipo de violencia laboral o de género o de violaciones a derechos humanos, que sean de su competencia, con capacidad de respuesta inmediata, mediante esquemas de atención y gestión sencillos, confidenciales y expeditos, alejados de requisitos burocráticos que pudieran inhibir las solicitudes de atención y protección institucional en estos casos;
 
-XIX. Instrumentar acciones tendientes a implementar un presupuesto con equidad de género;
+XXV. Dar atención especializada, ofrecer garantías primarias que reduzcan la distancia estructural entre normatividad y efectividad, brindar apoyo jurídico y proporcionar protección efectiva a las personas que se consideren víctimas de cualquier tipo de violación a derechos humanos o violencia en el Instituto, que sea de su competencia, atendiendo el principio de debida diligencia, con perspectiva de género y de derechos humanos;
 
-> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+XXVI. Asistir con empatía, confidencialidad y reserva a las personas que se consideren víctimas de cualquier tipo de violación a derechos humanos o violencia en el Instituto, que sea de su competencia, conocer los hechos de los que deriven las presuntas conductas en su agravio y ayudar a formular las denuncias asociadas, en su caso;
 
-XX. Coadyuvar con la Secretaría Ejecutiva del Sistema Nacional en el establecimiento de criterios e instrumentos para la incorporación de una política transversal con enfoque de derechos humanos, género, igualdad y no discriminación;
+XXVII. Realizar diagnósticos de los casos de violaciones a derechos humanos o violencia en el Instituto que sean su competencia y conocimiento, definir planes de acción adecuados y específicos, que contemplen la adopción de las medidas cautelares pertinentes y referirlos a las instancias internas o externas competentes, con facultades para gestionar ante éstas la adopción de las medidas cautelares necesarias, conforme a las disposiciones aplicables;
 
-> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+XXVIII. Formular recomendaciones específicas sobre cada caso que conozca y darle seguimiento a las resoluciones y acciones a cargo de las autoridades competentes;
 
-XXI. Definir y proponer disposiciones de aplicación del enfoque de derechos humanos y la perspectiva de igualdad y género, para impulsar un modelo de servicio público orientado a resultados;
+XXIX. Brindar servicios de orientación y asesoría jurídica a las personas que se consideren víctimas de violaciones a derechos humanos, violencia laboral o de género que sean de su competencia o infracciones a los Códigos de Ética o de Conducta en el Instituto;
 
-> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+XXX. Prestar servicios de defensoría pública gratuita e independiente en procedimientos al interior del Instituto, por medio de personas autorizadas para el ejercicio de la profesión de abogado, adscritas a la Dirección de Derechos Humanos, Genero e Integridad o acreditadas por ésta, a fin de evitar su indefensión y garantizar el derecho a la defensa en materia de violaciones a derechos humanos, violencia laboral o de género, que sean de su competencia, infracciones a los Códigos de Ética o de Conducta o responsabilidades administrativas;
 
-XXII. Fomentar el intercambio de experiencias nacionales e internacionales con redes, organizaciones de la sociedad civil, académicas y no gubernamentales, en materia de derechos humanos, igualdad y género;
+XXXI. Coadyuvar con las personas que se consideren víctimas de violaciones a derechos humanos, violencia laboral o de género, que sean de su competencia, o infracciones a los Códigos de Ética o de Conducta en el Instituto, en el ofrecimiento, preparación, gestión y desahogo de medios de prueba en los procedimientos al interior del Instituto en que sean parte;
 
-> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+XXXII. Fungir como Secretaría Técnica del Comité de Ética del Instituto;
 
-XXIII. Coadyuvar para el desarrollo de acciones para el cumplimiento del programa de integridad del Instituto, vinculado con el Sistema Nacional Anticorrupción; y
+XXXIII. Dirigir los procesos de gestión documental y archivo del Comité de Ética y sus Subcomités, debiendo ordenar, autorizar y supervisar la instrumentación de las acciones conducentes para la organización, disposición, control y conservación de los expedientes y documentos que obren en su archivo de trámite, en términos de las disposiciones aplicables;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 18 DE MARZO DE 2021)</small>
+XXXIV. Expedir copias certificadas de los expedientes o documentos que obren en el archivo de trámite del Comité de Ética y sus Subcomités, en términos de la normatividad aplicable;
 
-XXIV. Las demás que se desprendan de la normatividad aplicable en la materia, las que disponga el Pleno y, el Comisionado Presidente.
+XXXV. Diseñar e instrumentar un modelo de evaluación permanente y sistemática del respeto a los derechos humanos, la igualdad sustantiva y la integridad, en el Instituto, e informar semestralmente al Pleno sobre los resultados obtenidos, y
+
+XXV (SIC). Las demás que le señalen las leyes, los reglamentos y otras disposiciones legales y administrativas, que le resulten aplicables, así como las que disponga el Pleno o le encomiende la persona Comisionada Presidenta.
 
 ###### Artículo 44.
 
@@ -2073,9 +2081,11 @@ Las licencias y ausencias de los Comisionados estarán sujetas a lo dispuesto po
 
 En caso de ausencia temporal o definitiva de algún Secretario, sus funciones las asumirá el Director General adscrito a la Secretaría correspondiente, que sea designado por el Comisionado Presidente.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 54.
 
-Para el caso de ausencia temporal o definitiva de las Direcciones Generales de Administración, Asuntos Jurídicos, Comunicación Social y Difusión, así como Planeación y Desempeño Institucional, el Comisionado Presidente determinará, entre los respectivos directores de área, qué servidor público será el encargado de los asuntos del despacho.
+Para el caso de ausencia temporal o definitiva de las Direcciones Generales de Administración, Asuntos Jurídicos, Comunicación Social y Difusión, así como Planeación, Desempeño Institucional y Derechos Humanos, la persona Comisionada Presidenta determinará qué persona servidora pública será la encargada de los asuntos del despacho.
 
 ###### Artículo 55.
 
@@ -2252,3 +2262,37 @@ CUARTO. Se instruye a la Dirección General de Comunicación Social a efecto de 
 QUINTO. Se instruye a la Secretaria Técnica del Pleno que, con fundamento en lo dispuesto en el artículo 45, fracción IV, de la Ley Federal de Transparencia y Acceso a la Información Pública, expida certificación del presente Acuerdo, para agilizar su cumplimiento.
 
 SEXTO. El presente Acuerdo entrará en vigor el día siguiente de publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE NOVIEMBRE DE 2023.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES, ASÍ COMO LA CONSIGUIENTE MODIFICACIÓN DE LA ESTRUCTURA ORGÁNICA DEL INSTITUTO”.]</small>
+
+PRIMERO. Se aprueba la modificación de los artículos 5 fracción X inciso s., 12 fracción XXVII, 16 párrafos primero y último, 23 fracción XXIII, 43 y 54, todos del Estatuto Orgánico del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, para quedar en los siguientes términos:
+
+[...]
+
+SEGUNDO. Se aprueban el cambio de nombre de la Dirección General de Planeación y Desempeño Institucional a Dirección General de Planeación, Desempeño Institucional y Derechos Humanos, así como la modificación de su estructura organizacional con base en la propuesta contenida en el considerando 14 de este Acuerdo.
+
+TERCERO. Se aprueban el cambio de nombre de la Dirección de Planeación Institucional y Monitoreo a Dirección de Planeación Estratégica, la adecuación de sus funciones, la readscripción de la Subdirección de Seguimiento Institucional a la Dirección de Derechos Humanos, Género e Integridad con su respectiva estructura organizacional y con los consiguientes cambios de nombres y de funciones de dicha Subdirección de Área a Subdirección de Atención Especializada, Defensoría y Protección Integral y de su Jefatura de Departamento de Seguimiento a Departamento de Apoyo Técnico y Seguimiento, con base en la estructura propuesta en el considerando 17 de este Acuerdo.
+
+CUARTO. Se aprueban los cambios de nombres y de funciones de la Subdirección de Área y la Jefatura de Departamento de la Dirección de Evaluación y Desempeño Institucional, así como de la Subdirección de Área y la Jefatura de Departamento de la Dirección de Derechos Humanos, Género e Integridad, con base en la propuesta contenida en el considerando 17 de este Acuerdo.
+
+QUINTO. Se instruye a la Dirección General de Administración para que lleve a cabo todas las gestiones, reasignaciones, movimientos y demás acciones necesarias en materia programática, presupuestaria, de desarrollo organizacional, de servicios personales, de perfiles de puestos y de recursos materiales, así como para que presente al Pleno la propuesta de adecuaciones necesarias al Manual de Organización del Instituto, para que los cambios, nuevas áreas y demás modificaciones previamente acordados puedan empezar a operar efectivamente a partir del primer día del ejercicio fiscal dos mil veinticuatro, en el entendido de que la readscripción de puestos y plazas, así como su cambio de nombre, obedecen a una necesidad del Instituto, por lo que no implican baja ni reingreso de quienes actualmente los ocupen, pero en todo caso deberá observarse lo dispuesto por los artículos 39, 40, 41, 42, 212 y 282 de los Lineamientos en Materia de Recursos Humanos, Servicio Profesional y Personal de Libre Designación del Instituto, en lo conducente.
+
+SEXTO. Se instruye a la Dirección General de Asuntos Jurídicos para que realice las gestiones necesarias a efecto de que el presente Acuerdo se publique también en el Diario Oficial de la Federación.
+
+El presente Acuerdo puede ser consultado en las siguientes direcciones electrónicas:
+
+https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-31-10-2023.10.pdf
+
+www.dof.gob.mx/2023/INAI/ACT-PUB-31-10-2023-10.pdf
+
+SÉPTIMO. Se instruye a la Secretaria Técnica del Pleno para que, por conducto de la Dirección General de Atención al Pleno, realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el portal de internet del Instituto.
+
+OCTAVO. Se instruye a la Secretaria Técnica del Pleno para que, con fundamento en lo dispuesto en el artículo 45, fracción IV, de la Ley Federal de Transparencia y Acceso a la Información Pública, expida certificación de este Acuerdo para agilizar su cumplimiento.
+
+NOVENO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, considerando lo dispuesto en el resolutivo QUINTO, por lo que se faculta a la Dirección General de Planeación, Desempeño Institucional y Derechos Humanos para que, por conducto de la Dirección de Derechos Humanos, Género e Integridad y del personal actualmente adscrito a la misma, pueda empezar a ejercer las funciones del artículo 43 reformado, en caso de ser necesario, sin tener que esperar que concluyan los movimientos organizaciones (sic) previstos en el resolutivo TERCERO.
+
+DÉCIMO. Una vez que la Dirección General de Planeación, Desempeño Institucional y Derechos Humanos haya empezado a funcionar efectivamente, ésta deberá coordinarse con el Comité de Ética, a efecto de realizar una revisión y adecuación integral del marco normativo y de actuación del Instituto en materia de ética, conducta, violencia laboral, hostigamiento y acoso sexual, con el fin de fortalecer y hacer más ágiles, efectivos y expeditos los procedimientos respectivos, en particular los relacionados con las medidas de protección y con la investigación y remediación de los actos de violencia en el Instituto en contra de las mujeres.
+
+DÉCIMO PRIMERO. Se derogan todas las disposiciones en el ámbito del INAI que se opongan al presente Acuerdo.
