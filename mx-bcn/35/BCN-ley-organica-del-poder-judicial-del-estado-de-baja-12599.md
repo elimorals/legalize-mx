@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2023-09-25"
+last_updated: "2023-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -85,13 +85,17 @@ IX.- Por los Jueces en materia Laboral.
 
 X.- Por las y los Jueces Especializados en Violencia Familiar contra las Mujeres.
 
-> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN X], P.O. 2 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2023)</small>
 
-XI.- Por el Consejo de la Judicatura del Estado de Baja California.
+XI.- Por las y los Jueces Especializados en materia Hipotecaria.
 
-> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN XI], P.O. 2 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE NOVIEMBRE DE 2023)</small>
 
-XII.- Por los y las demás Servidores Públicos y auxiliares de la administración de Justicia en los términos que establezca esta Ley; los Códigos de Procedimientos y Leyes correspondientes.
+XII.- Por el Consejo de la Judicatura del Estado de Baja California.
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2023)</small>
+
+XIII.- Por los y las demás Servidores Públicos y auxiliares de la administración de Justicia en los términos que establezca esta Ley, los Códigos de Procedimientos y Leyes correspondientes.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
@@ -127,15 +131,29 @@ VI.- Los Juzgados de Primera Instancia Especializados para Adolescentes;
 
 VII.- Los Juzgados de Paz;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2023)</small>
 
-VIII.- Los Tribunales en materia Laboral; y,
+VIII.- Los Tribunales en materia Laboral;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2023)</small>
 
-IX. - Los Juzgados Especializados en Violencia Familiar contra las Mujeres.
+IX.- Los Juzgados Especializados en Violencia Familiar contra las Mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2023)</small>
+
+X.- Los Juzgados Especializados en Materia Hipotecaria; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2023)</small>
+
+XI.- Los Juzgados Itinerantes.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE NOVIEMBRE DE 2023)</small>
 
 Los órganos del Poder Judicial del Estado, funcionarán de modo permanente e ininterrumpido durante cada año de actividades. El Consejo de la Judicatura dictará las medidas correspondientes para la organización permanente de las actividades de los juzgados de conformidad con el Título Decimoprimero de esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2023)</small>
+
+Con independencia de lo dispuesto en el párrafo anterior, el Consejo de la Judicatura podrá establecer Juzgados Itinerantes para la eficaz y pronta administración de justicia en aquellas comunidades que considere pertinentes.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -725,6 +743,10 @@ IX.- Los de Control para
 
 X.- Los de competencia mixta especializados en Violencia Familiar contra las Mujeres.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2023)</small>
+
+XI.- Los de Primera Instancia especializados en Materia Hipotecaria.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2012)</small>
@@ -764,6 +786,10 @@ ARTICULO 57 BIS.- En el Partido Judicial de Playas de Rosarito, habrá cuando me
 ###### ARTICULO 58.
 
 Cuando en un Partido Judicial haya dos o más Juzgados de la misma categoría y ramo, estarán numerados progresivamente y recibirán los asuntos de su competencia de acuerdo con el procedimiento que autorice el Pleno del Consejo de la Judicatura del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2023)</small>
+
+ARTICULO 58 BIS.- El Pleno del Consejo de la Judicatura atendiendo a la viabilidad presupuestal correspondiente, podrá establecer los Juzgados Especializados en materia Hipotecaria en aquellas demarcaciones territoriales que considere pertinentes, fijando su competencia para conocer de los asuntos presentados en los diversos municipios del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2021)</small>
 
@@ -853,11 +879,11 @@ El incumplimiento de esta disposición ameritará la suspensión temporal o defi
 
 Para el mejor desempeño de sus labores, cada uno de los Juzgados de los diversos Partidos Judiciales en los que se divide el Estado, contarán con un Juez, el número de Secretarios de Acuerdos, Actuarios y el personal que determine el Pleno del Consejo de la Judicatura del Estado de acuerdo con el presupuesto de egresos.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2023)</small>
 
-###### ARTÍCULO 69.
+###### ARTICULO 69.
 
-Las y Los jueces de lo Civil, de lo Familiar, de lo Penal, de lo Laboral, Mixtos de Primera Instancia, Especializados para Adolescentes, Especializados en Violencia Familiar contra las Mujeres o de Paz, cuando sean varios en el mismo partido judicial, se identificarán por numeración progresiva y conocerán de los negocios jurídicos que, por Ley sean de su competencia.
+Las y Los jueces de lo Civil, de lo Familiar, de lo Penal, de lo Laboral, Mixtos de Primera Instancia, Especializados para Adolescentes, Especializados en Violencia Familiar contra las Mujeres, Especializados en Materia Hipotecaria o de Paz, cuando sean varios en el mismo partido judicial, se identificarán por numeración progresiva y conocerán de los negocios jurídicos que, por Ley sean de su competencia.
 
 ###### ARTICULO 70.
 
@@ -1417,23 +1443,43 @@ II. Emitir las órdenes de protección reguladas tanto en la Ley General de Acce
 
 III. Dictar las medidas cautelares o de protección contenidas en la legislación nacional e Internacional, ya sea que las mujeres víctimas de violencia las reclamen por su propio derecho o en representación de sus hijos e hijas, siempre que se trate de actos cometidos por los sujetos que se refiere la fracción I, en materia familiar del presente artículo.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], P.O. 29 DE NOVIEMBRE DE 2023)</small>
 
-### CAPÍTULO XI. DE LAS CENTRALES DE ACTUARIOS
+### CAPITULO XI. DE LA ORGANIZACIÓN DE LOS JUZGADOS ESPECIALIZADOS EN MATERIA HIPOTECARIA
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2023)</small>
 
-ARTÍCULO 90 UNDECIES.- En los Partidos Judiciales en que existan dos o más juzgados de la misma materia, podrán crearse Centrales de Actuarios, cuando las necesidades del servicio así lo ameriten, a juicio del Consejo de la Judicatura.
+ARTICULO 90 UNDECIES.- Los Juzgados Especializados en Materia Hipotecaria conocerán:
+
+I. De los juicios especiales hipotecarios establecidos en el Código de Procedimientos aplicable;
+
+II. De los juicios contenciosos que versen sobre acciones hipotecarias, siempre que el valor de estos exceda el valor de 2000 veces la unidad de medida y actualización;
+
+III. De los juicios sumarios que se promuevan con motivo de las acciones hipotecarias que tengan como finalidad constituir, ampliar y registrar una hipoteca;
+
+IV. De los juicios ejecutivos que se promuevan en relación a una acción hipotecaria;
+
+V. De las diligencias de exhortos, suplicatorias, requisitorias y despachos relacionados con algún procedimiento hipotecario; y,
+
+VI. De los demás asuntos que les encomienden las leyes.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES CAPÍTULO XI], P.O. 29 DE NOVIEMBRE DE 2023)</small>
+
+### CAPITULO XII. DE LAS CENTRALES DE ACTUARIOS
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 29 DE NOVIEMBRE DE 2023)</small>
+
+ARTICULO 90 DUODECIES.- En los Partidos Judiciales en que existan dos o más juzgados de la misma materia, podrán crearse Centrales de Actuarios, cuando las necesidades del servicio así lo ameriten, a juicio del Consejo de la Judicatura.
 
 Las Centrales de Actuarios serán los órganos encargados de llevar el control de las diligencias cuya realización ordenen las autoridades jurisdiccionales a cargo de las y los actuarios del Poder Judicial del Estado, fuera de la sede judicial, debiendo turnárseles de forma aleatoria. Las Centrales de Actuarios funcionarán conforme a las bases de organización y funcionamiento que sean establecidas en el reglamento y lineamientos que al efecto emita el Consejo de la Judicatura.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2022)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE NOVIEMBRE DE 2023)</small>
 
-ARTÍCULO 90 DODECIES.- Cada Central de Actuarios estará a cargo de una coordinación, quien contará con las y los secretarios actuarios y el personal administrativo necesario para el cumplimiento de sus funciones, de conformidad con la viabilidad presupuestal. Para ser coordinadora o coordinador de la Central de Actuarios se requiere:
+ARTICULO 90 TERDECIES.- Cada Central de Actuarios estará a cargo de una coordinación, quien contará con las y los Secretarios Actuarios y el personal administrativo necesario para el cumplimiento de sus funciones, de conformidad con la viabilidad presupuestal. Para ser coordinadora o coordinador de la Central de Actuarios se requiere:
 
-I.- Contar con ciudanía mexicana en pleno ejercicio de sus derechos;
+I.- Contar con ciudadanía mexicana en pleno ejercicio de sus derechos;
 
-II.- Tener, cuando menos, treinta años cumplidos al día de la designación;
+II.- Tener cuando menos, treinta años cumplidos al día de la designación;
 
 III.- Gozar de buena reputación;
 
@@ -1441,13 +1487,11 @@ IV.- Licenciatura en Derecho, con título y cédula profesional con antigüedad 
 
 V.- Acreditar la experiencia y capacidad indispensables para el desempeño del cargo.
 
+## TITULO SEXTO. DEL PROCEDIMIENTO PARA SUPLIR LAS FALTAS DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
+
 ### CAPITULO I. DE LOS MAGISTRADOS
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
-
-## TITULO SEXTO. DEL PROCEDIMIENTO PARA SUPLIR LAS FALTAS DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
-
-### CAPITULO II. DE LOS JUECES, SECRETARIOS ACTUARIOS Y EMPLEADOS
 
 ###### ARTICULO 91.
 
@@ -1473,7 +1517,7 @@ Las faltas temporales del Magistrado de la Sala Unitaria Especializada en Justic
 
 En el caso de las faltas absolutas del Magistrado de la Sala Unitaria, se estará a lo dispuesto en el párrafo anterior hasta en tanto el Congreso del Estado realice el nuevo nombramiento, de conformidad a lo señalado en la Constitución Política del Estado.
 
-### CAPITULO I. DE LA SUBSTITUCION EN CASOS DE RECUSACION Y EXCUSAS
+### CAPITULO II. DE LOS JUECES, SECRETARIOS ACTUARIOS Y EMPLEADOS
 
 ###### ARTICULO 94.
 
@@ -1513,7 +1557,7 @@ Las faltas absolutas de los Jueces, Secretarios y demás servidores públicos de
 
 ## TITULO SEPTIMO. DE LOS IMPEDIMENTOS EN LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO I. DE LAS CAUSAS Y SU PROCEDENCIA
+### CAPITULO I. DE LA SUBSTITUCION EN CASOS DE RECUSACION Y EXCUSAS
 
 ###### ARTICULO 101.
 
@@ -1547,7 +1591,7 @@ En los casos de impedimento por recusación o excusas de los jueces de Paz, cono
 
 ## TITULO OCTAVO. DE LAS LICENCIAS DE LOS SERVIDORES PUBLICOS EN LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO I. DE SUS PERIODOS
+### CAPITULO I. DE LAS CAUSAS Y SU PROCEDENCIA
 
 ###### ARTICULO 104.
 
@@ -1589,7 +1633,7 @@ En caso de que los servidores de la Administración de Justicia dejaren de asist
 
 ## TITULO NOVENO. DE LAS VACACIONES
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO I. DE SUS PERIODOS
 
 ###### ARTICULO 111.
 
@@ -1609,7 +1653,7 @@ Fuera de los períodos de vacaciones y de los días de asueto que señala el cal
 
 ## TITULO DECIMO. DE LAS RESPONSABILIDAD (SIC) DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO II. DEL JUICIO POLITICO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 115.
 
@@ -1629,7 +1673,7 @@ Los procedimientos para la aplicación de las sanciones mencionadas serán autó
 
 Todo ciudadano o persona moral, por conducto de sus órganos de representación, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia por escrito y debidamente firmada y ratificada ante quien corresponda, respecto de las conductas a que se refiere el artículo anterior.
 
-### CAPITULO III. DE LA DECLARACION DE PROCEDENCIA EN MATERIA DE RESPONSABILIDAD PENAL
+### CAPITULO II. DEL JUICIO POLITICO
 
 ###### ARTICULO 118.
 
@@ -1643,7 +1687,7 @@ Corresponde al Congreso del Estado, instruir el procedimiento relativo al juicio
 
 El procedimiento de juicio político sólo podrá iniciarse durante el período en que el servidor público desempeña su cargo y dentro del año siguiente al en que se separe, por cualquier causa, del ejercicio de sus funciones.
 
-### CAPITULO IV. DE LA RESPONSABILIDAD Y FALTAS ADMINISTRATIVAS
+### CAPITULO III. DE LA DECLARACION DE PROCEDENCIA EN MATERIA DE RESPONSABILIDAD PENAL
 
 ###### ARTICULO 121.
 
@@ -1653,7 +1697,7 @@ Para proceder penalmente contra los Magistrados del Tribunal Superior de Justici
 
 La responsabilidad derivada de delitos cometidos por los Magistrados, Jueces y Consejeros de la Judicatura durante el tiempo de su encargo será exigible de acuerdo con los plazos de prescripción consignados en el Código Penal, los cuales nunca podrán ser inferiores a tres años. No correrá término alguno de prescripción en tanto el Magistrado o Consejero de la Judicatura se encuentre en el desempeño de su cargo.
 
-### CAPITULO V. DE LAS SANCIONES Y SU APLICACION
+### CAPITULO IV. DE LA RESPONSABILIDAD Y FALTAS ADMINISTRATIVAS
 
 ###### ARTICULO 123.
 
@@ -1811,9 +1855,7 @@ XVII.- Recibir de las partes de un juicio o sus abogados, dinero por concepto de
 
 XVIII.- Todo incumplimiento de los deberes propios del cargo.
 
-### CAPITULO I. DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE BAJA CALIFORNIA
-
-SU INTEGRACION Y FUNCIONAMIENTO
+### CAPITULO V. DE LAS SANCIONES Y SU APLICACION
 
 ###### ARTICULO 132.
 
@@ -1991,7 +2033,9 @@ TITULO DECIMOPRIMERO
 
 DE LOS ORGANOS ADMINISTRATIVOS DEL PODER JUDICIAL DEL ESTADO
 
-### CAPITULO II. DE LAS UNIDADES DE APOYO
+### CAPITULO I. DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE BAJA CALIFORNIA
+
+SU INTEGRACION Y FUNCIONAMIENTO
 
 ###### ARTICULO 155.
 
@@ -2061,9 +2105,7 @@ Las resoluciones del Pleno del Consejo de la Judicatura del Estado, se tomarán 
 
 El Pleno del Consejo de la Judicatura del Estado calificará los impedimentos de sus miembros que hubieran sido planteados en asuntos de su competencia, y si el impedido fuera el Presidente, será substituido por el Magistrado que el Pleno del Tribunal Superior de Justicia designe, absteniéndose de intervenir el Presidente impedido. Asumirá la presidencia del Consejo de la Judicatura con motivo de impedimento o excusa, el Consejero que por turno le corresponda, quien en su caso empate, tendrá voto de calidad.
 
-### CAPITULO III. DE SUS ATRIBUCIONES
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+### CAPITULO II. DE LAS UNIDADES DE APOYO
 
 ###### ARTICULO 164.
 
@@ -2081,7 +2123,9 @@ Para el mejor desempeño de las funciones asignadas a las unidades administrativ
 
 Los titulares de las unidades administrativas deberán tener título profesional expedido en alguna materia afín a las atribuciones conferidas, experiencia mínima de tres años, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año.
 
-### CAPITULO IV. DE SU PRESIDENTE
+### CAPITULO III. DE SUS ATRIBUCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 168.
 
@@ -2219,7 +2263,7 @@ El Pleno del Consejo de la Judicatura, contará con los Servidores Públicos y p
 
 El Consejo de la Judicatura residirá en la capital del Estado de Baja California.
 
-### CAPITULO V. DEL SECRETARIO GENERAL DEL CONSEJO DE LA JUDICATURA
+### CAPITULO IV. DE SU PRESIDENTE
 
 ###### ARTICULO 172.
 
@@ -2241,9 +2285,7 @@ VI.- Firmar las resoluciones y acuerdos del Pleno del Consejo de la Judicatura d
 
 VII.- Las demás que determine esta ley y los correspondientes reglamentos y acuerdos generales.
 
-### CAPITULO VI. DE LOS ORGANOS AUXILIARES DEL CONSEJO DE LA JUDICATURA
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
+### CAPITULO V. DEL SECRETARIO GENERAL DEL CONSEJO DE LA JUDICATURA
 
 ###### ARTICULO 173.
 
@@ -2271,7 +2313,9 @@ IX.- Las demás que le asignen las leyes y reglamentos.
 
 El Secretario General del Consejo de la Judicatura deberá reunir los requisitos que señala el artículo 24 de esta ley.
 
-### CAPITULO VII. DEL INSTITUTO DE LA JUDICATURA
+### CAPITULO VI. DE LOS ORGANOS AUXILIARES DEL CONSEJO DE LA JUDICATURA
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 175.
 
@@ -2291,7 +2335,7 @@ VI.- El Centro Estatal de Justicia Alternativa, y
 
 VII.- El Administrador Judicial.
 
-### CAPITULO VIII. DEL ARCHIVO JUDICIAL
+### CAPITULO VII. DEL INSTITUTO DE LA JUDICATURA
 
 ###### ARTICULO 176.
 
@@ -2333,7 +2377,7 @@ El Instituto de la Judicatura llevará acabo cursos de preparación para los ex�
 
 El Instituto de la Judicatura, contará con un área de investigación, la cual tendrá como función primordial la realización de los estudios necesarios para el desarrollo y mejoramiento de las funciones del Poder Judicial del Estado.
 
-### CAPITULO IX. DEL BOLETIN JUDICIAL
+### CAPITULO VIII. DEL ARCHIVO JUDICIAL
 
 ###### ARTICULO 182.
 
@@ -2377,7 +2421,7 @@ III.- Realizar la microfilmación o captación por duplicado a efecto de que uno
 
 IV.- Relacionar al anverso y al reverso de los documentos, cuando la microfilmación o captación no se haga con equipo que capte simultáneamente las dos caras de dichos documentos y estos contengan anotaciones al reverso. Se destruirán las constancias procesales y documentos originales que hayan sido captados conforme a lo dispuesto anteriormente.
 
-### CAPITULO X. DE LAS VISITAS DE INSPECCION Y EVALUACION
+### CAPITULO IX. DEL BOLETIN JUDICIAL
 
 ###### ARTICULO 187.
 
@@ -2391,9 +2435,7 @@ El Boletín Judicial se publicará diariamente con excepción de sábados, domin
 
 La edición y publicación del Boletín Judicial estará a cargo del Tribunal Superior de Justicia y su administración corresponderá al Consejo de la Judicatura.
 
-### CAPITULO XI. DE LA CONTRALORIA DEL PODER JUDICIAL
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 1997)</small>
+### CAPITULO X. DE LAS VISITAS DE INSPECCION Y EVALUACION
 
 ###### ARTICULO 190.
 
@@ -2439,9 +2481,9 @@ El acta levantada por el visitador será entregada al Titular del Organo Visitad
 
 El Consejo de la Judicatura del Estado cuando tenga conocimiento de irregularidades que se realicen o se estén realizando en un órgano del Poder Judicial y que a juicio del propio Consejo amerite inmediata inspección, podrá llevarla a cabo por sí o por el visitador que designe sin que previamente se hubiese dado el aviso a que se refiere el artículo 209 de esta ley.
 
-### CAPITULO XII. DE LA OFICIALIA DE PARTES
+### CAPITULO XI. DE LA CONTRALORIA DEL PODER JUDICIAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 195.
 
@@ -2478,6 +2520,30 @@ II.- Dentro de los treinta días naturales siguientes a la conclusión del encar
 III.- Durante el mes de mayo de cada año deberá presentarse la declaración de situación patrimonial, acompañada de una copia de la declaración anual presentada por personas físicas para los efectos de la Ley de Impuesto Sobre la Renta, salvo que en ese mismo año se hubiese presentado la declaración a que se refiere la Fracción I.
 
 Si transcurrido el plazo a que hace referencia la Fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efecto el nombramiento respectivo. Lo mismo ocurrirá cuando se omita la declaración contemplada en la Fracción III.
+
+### CAPITULO XII. DE LA OFICIALIA DE PARTES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2021)</small>
+
+###### ARTICULO 197.
+
+Las Oficialías de Partes para el Tribunal Superior de Justicia y para los Juzgados de Primera Instancia y Juzgados en materia Laboral, se establecerán por acuerdo del Pleno de la Judicatura del Estado, según las necesidades de cada partido judicial.
+
+Tendrán las siguientes atribuciones:
+
+I.- Recibir el escrito por el cual se inicia un procedimiento, mismo que deberá turnar al Juzgado que corresponda, para que se avoque a su conocimiento.
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2021)</small>
+
+II.- Recibir los escritos posteriores al inicial, si se presentaren fuera de las horas de labores del Tribunal Superior de Justicia, Juzgados de Primera Instancia, en materia Laboral y de Paz donde los hubiere, mismos que deberán turnarse a quienes se dirijan.
+
+III.- Fuera de la capital del Estado recibir promociones que deben presentarse al Tribunal Superior de Justicia o al Consejo de la Judicatura turnándolos dentro de dos días hábiles siguientes a su presentación.
+
+IV.- Las que para el mejor desempeño de la administración de justicia le señalare el Consejo de la Judicatura.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MAYO DE 2015)</small>
 
 ### CAPITULO XIII. DEL CENTRO ESTATAL DE JUSTICIA ALTERNATIVA
 
@@ -2516,26 +2582,6 @@ ARTICULO 197 BIS-1. - El Centro Estatal de Justicia Alternativa estará a cargo 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
-
-###### ARTICULO 197.
-
-Las Oficialías de Partes para el Tribunal Superior de Justicia y para los Juzgados de Primera Instancia y Juzgados en materia Laboral, se establecerán por acuerdo del Pleno de la Judicatura del Estado, según las necesidades de cada partido judicial.
-
-Tendrán las siguientes atribuciones:
-
-I.- Recibir el escrito por el cual se inicia un procedimiento, mismo que deberá turnar al Juzgado que corresponda, para que se avoque a su conocimiento.
-
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2021)</small>
-
-II.- Recibir los escritos posteriores al inicial, si se presentaren fuera de las horas de labores del Tribunal Superior de Justicia, Juzgados de Primera Instancia, en materia Laboral y de Paz donde los hubiere, mismos que deberán turnarse a quienes se dirijan.
-
-III.- Fuera de la capital del Estado recibir promociones que deben presentarse al Tribunal Superior de Justicia o al Consejo de la Judicatura turnándolos dentro de dos días hábiles siguientes a su presentación.
-
-IV.- Las que para el mejor desempeño de la administración de justicia le señalare el Consejo de la Judicatura.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MAYO DE 2015)</small>
 
 ### CAPITULO XIV. DE LA ADMINISTRACIÓN JUDICIAL
 
@@ -2655,8 +2701,6 @@ DE LA CARRERA JUDICIAL EN LA ADMINISTRACION DE JUSTICIA
 
 ### CAPITULO I. DE LAS DESIGNACIONES
 
-### CAPITULO II. DEL INGRESO PROMOCION Y ASCENSO
-
 ###### ARTICULO 198.
 
 El ingreso y la promoción de los Servidores Públicos de carácter jurisdiccional del Poder Judicial del Estado, se hará mediante el sistema de Carrera Judicial a que se refiere el presente Título, la cual se regirá por los principios de excelencia, profesionalismo, objetividad, imparcialidad, independencia y antigüedad, en su caso.
@@ -2689,9 +2733,7 @@ VII.- Actuarios y Notificadores del Poder Judicial del Estado.
 
 El Consejo de la Judicatura del Estado establecerá, de acuerdo con su presupuesto y mediante disposiciones generales, un sistema de estímulos para aquellas personas comprendidas en las categorías señaladas en el artículo anterior. Dicho sistema podrá incluir estímulos económicos y tomará en cuenta el desempeño en el ejercicio de su función, los cursos realizados dentro del Instituto de la Judicatura, la antigüedad, grado académico, arraigo y los demás que el propio Consejo estime necesarios.
 
-### CAPITULO III. DE LA ADSCRIPCION Y RATIFICACION
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
+### CAPITULO II. DEL INGRESO PROMOCION Y ASCENSO
 
 ###### ARTICULO 201.
 
@@ -2731,9 +2773,9 @@ III.- Un Magistrado del Tribunal Superior de Justicia que determine el Pleno del
 
 Por cada miembro titular se nombrará un suplente designado en los términos que señale el reglamento correspondiente.
 
-### CAPITULO I. DEL SERVICIO MEDICO FORENSE
+### CAPITULO III. DE LA ADSCRIPCION Y RATIFICACION
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 205.
 
@@ -2771,7 +2813,9 @@ TITULO DECIMOTERCERO
 
 DE LOS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO II. DE LOS SINDICOS DE CONCURSO
+### CAPITULO I. DEL SERVICIO MEDICO FORENSE
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 208.
 
@@ -2887,7 +2931,7 @@ V.- Calzar con su firma y nombre completo, los certificados y constancias que ex
 
 VI.- Las demás que les encomienden las leyes.
 
-### CAPITULO III. DE LOS INTERVENTORES DE CONCURSO
+### CAPITULO II. DE LOS SINDICOS DE CONCURSO
 
 ###### ARTICULO 218.
 
@@ -2913,7 +2957,7 @@ IV.- Ser de notoria honradez y no haber sido condenado por delito intencional.
 
 V.- No encontrarse comprendido dentro de los casos previstos por el artículo 17 de esta ley.
 
-### CAPITULO IV. DE LOS ALBACEAS, TUTORES Y CURADORES
+### CAPITULO III. DE LOS INTERVENTORES DE CONCURSO
 
 ###### ARTICULO 221.
 
@@ -2935,19 +2979,19 @@ II.- Vigilar la conducta del síndico, dando cuentas al juez de las irregularida
 
 Serán causas de la remoción del interventor, no prestar vigilancia necesaria a todos los casos que están encomendados al síndico, y dar aviso al juez de las faltas u omisiones en que éste hubiere incurrido sin perjuicio de las penas y responsabilidades a que se hubiere hecho acreedor.
 
-### CAPITULO V. DE LOS NOTARIOS
+### CAPITULO IV. DE LOS ALBACEAS, TUTORES Y CURADORES
 
 ###### ARTICULO 225.
 
 Los albaceas, tutores y curadores, ya sean provisionales o definitivos, designados por los jueces del Estado, deberán llenar todos los requisitos establecidos en este título para los síndicos e interventores, en aquello que sea compatible con su carácter y función, del mismo modo, los depositarios y en particular a todos aquellos que actúen en los juicios como auxiliares, por ese sólo hecho les serán aplicables las reglas establecidas especialmente en éste título y en todas las demás de la presente Ley en lo que fuere compatible para los efectos de su designación de sus atribuciones y responsabilidades.
 
-### CAPITULO VI. DE LOS PERITOS
+### CAPITULO V. DE LOS NOTARIOS
 
 ###### ARTICULO 226.
 
 En los casos en que conforme al artículo 68 del Código de Procedimientos Civiles, los litigantes designen a un notario que desempeñe las funciones de secretario, estará éste obligado a cumplir con todas las disposiciones que esta ley prescribe para dichos funcionarios únicamente en relación con el negocio en que intervenga y sujeto a las sanciones establecidas en el Capítulo de Responsabilidades, por las faltas o delitos oficiales en que incurra en el desempeño del cargo. En la inteligencia en que no es preciso que permanezca en el juzgado respectivo más que el tiempo necesario para que se desahoguen y dicten diligencias, acuerdos y resoluciones en dicho negocio.
 
-### CAPITULO VII. DE LOS PRESTADORES DEL SERVICIO SOCIAL ADSCRITOS AL PODER JUDICIAL
+### CAPITULO VI. DE LOS PERITOS
 
 ###### ARTICULO 227.
 
@@ -2991,9 +3035,7 @@ Los honorarios de los peritos designados por el juez, sin solicitud de ninguno d
 
 Siempre que alguna persona no hable el idioma español y tenga que ser examinado en juicio civil o criminal, se le proveerá de interprete en los términos del Código de Procedimientos Civiles y Penales.
 
-### CAPITULO UNICO
-
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2016)</small>
+### CAPITULO VII. DE LOS PRESTADORES DEL SERVICIO SOCIAL ADSCRITOS AL PODER JUDICIAL
 
 ###### ARTICULO 237.
 
@@ -3031,7 +3073,9 @@ DEL TRIBUNAL ELECTRONICO
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2016)</small>
 
-### CAPITULO II
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 244.
 
@@ -3061,7 +3105,7 @@ V.- Fungir como medio procesal e institucional entre las Autoridades jurisdiccio
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO III
+### CAPITULO II
 
 ###### ARTICULO 247.
 
@@ -3103,7 +3147,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO IV
+### CAPITULO III
 
 ###### ARTICULO 252.
 
@@ -3115,7 +3159,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO V
+### CAPITULO IV
 
 ###### ARTICULO 254.
 
@@ -3135,7 +3179,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO VI
+### CAPITULO V
 
 ###### ARTICULO 258.
 
@@ -3143,7 +3187,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO VII
+### CAPITULO VI
 
 ###### ARTICULO 259.
 
@@ -3167,7 +3211,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO VIII
+### CAPITULO VII
 
 ###### ARTICULO 264.
 
@@ -3175,7 +3219,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO IX
+### CAPITULO VIII
 
 ###### ARTICULO 265.
 
@@ -3187,7 +3231,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO X
+### CAPITULO IX
 
 ###### ARTICULO 267.
 
@@ -3215,7 +3259,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO XI
+### CAPITULO X
 
 ###### ARTICULO 273.
 
@@ -3227,7 +3271,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO XII
+### CAPITULO XI
 
 ###### ARTICULO 275.
 
@@ -3243,7 +3287,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO XIII
+### CAPITULO XII
 
 ###### ARTICULO 278.
 
@@ -3283,7 +3327,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO XIV
+### CAPITULO XIII
 
 ###### ARTICULO 287.
 
@@ -3295,7 +3339,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO XV
+### CAPITULO XIV
 
 ###### ARTICULO 289.
 
@@ -3303,7 +3347,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO XVI
+### CAPITULO XV
 
 ###### ARTICULO 290.
 
@@ -3311,9 +3355,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO UNICO. DEL HABER DE RETIRO
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+### CAPITULO XVI
 
 ###### ARTICULO 291.
 
@@ -3328,6 +3370,10 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 TITULO DECIMOQUINTO
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE ABRIL DE 2019)</small>
+
+### CAPITULO UNICO. DEL HABER DE RETIRO
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
 
 ###### ARTÍCULO 293.
 
@@ -3924,3 +3970,25 @@ P.O. 25 DE SEPTIEMBRE DE 2023.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- El Consejo de la Judicatura deberá expedir el Reglamento de la prestación periódica y temporal que garantice la independencia y autonomía en la función judicial, de las y los Jueces del Poder Judicial del Estado a que se refiere el presente Decreto, dentro de un plazo no mayor a 90 días posteriores a la entrada en vigor de la presente reforma.
+
+P.O. 29 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 329 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1, 2, 53, 69, 90 UNDECIES Y 90 DUODECIES, ASÍ COMO LA DENOMINACIÓN DEL CAPÍTULO XI DEL TÍTULO QUINTO PARA LLAMARSE "DE LA ORGANIZACIÓN DE LOS JUZGADOS ESPECIALIZADOS EN MATERIA HIPOTECARIA", TRASLADÁNDOSE AL MISMO TÍTULO LA DENOMINACIÓN Y CONTENIDO DE DICHO CAPÍTULO A UN CAPÍTULO XII IDENTIFICADO COMO "CENTRALES DE ACTUARIOS"; Y QUE ADICIONA LOS ARTÍCULOS 58 BIS Y 90 TERDECIES, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, con salvedad de lo dispuesto en los siguientes artículos transitorios.
+
+SEGUNDO.- Las reformas relativas a los Juzgados de Primera Instancia Especializados en Materia Hipotecaria entraran en vigor a los 90 días naturales, contados a partir de la publicación de las presentes reformas.
+
+TERCERO.- Durante el Plazo a que se refiere el artículo segundo transitorio, el Poder Judicial deberá realizar las acciones siguientes:
+
+I. Efectuar las adecuaciones presupuestales necesarias;
+
+II. Llevar a cabo las gestiones administrativas que estime pertinentes para reclutar y capacitar a las personas servidoras públicas que forman parte de los Juzgados de nueva creación; y,
+
+III. Concretar las modificaciones reglamentarias, acciones administrativas y demás que resulten imprescindibles.
+
+CUARTO.- La implementación y funcionamiento de los Juzgados de Primera Instancia Especializados en Materia Hipotecaria y de los Juzgados Itinerantes, estará sujeta a la viabilidad presupuestal con que cuente el Poder Judicial del Estado.
+
+QUINTO.- Los asuntos en materia hipotecaria presentados con anterioridad a la entrada en vigor de las presentes reformas, se seguirán sustanciando hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio, en los Juzgados que los conocieron en su primer momento.
+
+SEXTO.- Las presentes reformas no afectaran los derechos adquiridos y demás prestaciones reconocidas a las personas servidoras públicas que hubieren iniciado funciones con anterioridad a la entrada en vigor de las mismas.
