@@ -4,7 +4,7 @@ identifier: "LGB"
 country: "mx"
 rank: "ley_general"
 publication_date: "2021-06-01"
-last_updated: "2021-06-01"
+last_updated: "2023-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149622&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGB"
 
 LEY GENERAL DE BIBLIOTECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 1 de junio de 2021.
 
@@ -376,9 +376,11 @@ Para garantizar la pertinencia y la actualidad del acervo bibliográfico, el per
 
 ### CAPITULO X. Del Depósito Legal de Publicaciones
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 33.
 
-Se declara de interés público la recopilación, integración, almacenamiento, custodia y conservación de toda obra de contenido educativo, cultural, científico, técnico o de esparcimiento, distribuida para su comercialización o de manera gratuita, en formatos impreso o electrónico, analógico o digital, en el territorio nacional. El conjunto de obras recopiladas constituye el Depósito Legal.
+Se declara de interés público la recopilación, integración, almacenamiento, custodia y conservación de toda obra editada o producida en el territorio nacional, de contenido educativo, cultural, científico o técnico, distribuida para su comercialización o de manera gratuita, en formatos impreso o electrónico, analógico o digital. El conjunto de obras recopiladas constituye el Depósito Legal.
 
 ###### Artículo 34.
 
@@ -399,6 +401,24 @@ VI. Obras audiovisuales, micropelículas, diapositivas y fotografías;
 VII. Material gráfico, carteles y diagramas, y
 
 VIII. Cualquier otra que se considere relevante para documentar la memoria del conocimiento en el territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 34 Bis.
+
+Las obras señaladas en el artículo anterior se integrarán al Depósito Legal con base en lo que señale el reglamento de la Ley y tomando en cuenta los siguientes criterios:
+
+I. Respeto a los derechos de autor y conexos;
+
+II. Implementación de medidas tecnológicas de protección por parte de las Instituciones Depositarias;
+
+III. Obras de contenido educativo, cultural, científico o técnico;
+
+IV. Disponibilidad de los materiales para la consulta pública conforme al número de ejemplares entregados a cada institución depositaria o, en su caso, con base en los acuerdos que se establezcan con los editores o productores de las obras;
+
+V. Características de entrega de las obras con base en sus formatos de edición, distribución o difusión, y
+
+VI. Fomento del trabajo colegiado entre las Instituciones receptoras del Depósito Legal.
 
 ###### Artículo 35.
 
@@ -430,9 +450,11 @@ En el caso de las obras publicadas en formatos electrónico, analógico o digita
 
 Cada uno de los repositorios del Depósito Legal, establecerá sus políticas de almacenamiento, custodia, conservación y consulta pública, con base en las disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 39.
 
-Los materiales a que se refiere el artículo 37, se entregarán dentro de los sesenta días naturales siguientes a la fecha de su edición o producción, con excepción de las publicaciones periódicas que deberán ser entregadas, tan pronto sean puestas en circulación.
+Las obras a que se refieren los artículos 33, 34 y 34 Bis, se entregarán dentro de los noventa días naturales siguientes a la fecha de su publicación, distribución comercial, difusión o puesta a disposición, salvo aquellas que por la naturaleza de su formato, producción o comercialización, requieran de un plazo mayor y cuyas prevenciones se establezcan en el reglamento.
 
 ###### Artículo 40.
 
@@ -456,9 +478,11 @@ En el caso de materiales distintos de los bibliográficos entregados a la Biblio
 
 El Instituto Nacional del Derecho de Autor de la Secretaría de Cultura enviará mensualmente a las instituciones receptoras del Depósito Legal una relación en formatos automatizados de las publicaciones a las que fue asignado el Número Internacional Normalizado del Libro (ISBN) y el Número Internacional Normalizado de Publicaciones Periódicas (ISSN), con objeto de facilitar la verificación del cumplimiento de la obligación consignada en la presente Ley.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 43.
 
-Los editores y productores del país que no cumplan con la obligación consignada en el artículo 39 de esta Ley, se harán acreedores a una multa equivalente a cincuenta veces el precio de venta al público de los materiales no entregados. La aplicación de la sanción no excusa al infractor de cumplir con la entrega de los materiales.
+Los editores y productores que no cumplan con la obligación consignada en el artículo 39 de esta Ley, se harán acreedores a una multa equivalente a veinte veces el precio de venta al público de los materiales no entregados. La aplicación de la sanción no excusa al infractor de cumplir con la entrega de los materiales. Se exceptúa de lo anterior a los editores de obras impresas en cualquier formato cuyo tiraje sea inferior a 25 ejemplares.
 
 ###### Artículo 44.
 
@@ -477,3 +501,13 @@ Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del pre
 Ciudad de México, a 30 de abril de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip. Martha Hortencia Garay Cadena, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 33, 39 Y 43 Y SE ADICIONA UN ARTÍCULO 34 BIS DE LA LEY GENERAL DE BIBLIOTECAS”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Poder Ejecutivo tendrá hasta 120 días para la expedición del reglamento de la Ley.
