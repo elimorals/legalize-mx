@@ -4,7 +4,7 @@ identifier: "LFPPCPCIA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2022-01-17"
-last_updated: "2022-01-17"
+last_updated: "2023-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=154100&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPPCPCIA"
 
 LEY FEDERAL DE PROTECCIÓN DEL PATRIMONIO CULTURAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 17 de enero de 2022.
 
@@ -390,9 +390,17 @@ VII. El Instituto Nacional de los Pueblos Indígenas;
 
 VIII. La Fiscalía General de la República;
 
-IX. La Comisión Nacional de los Derechos Humanos, y
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
 
-X. La representación de los pueblos y comunidades de conformidad con lo que establezca el estatuto del Sistema de Protección.
+IX. La Comisión Nacional de los Derechos Humanos;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
+X. La representación de los pueblos y comunidades de conformidad con lo que establezca el estatuto del Sistema de Protección, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
+XI. El Instituto Nacional del Derecho de Autor.
 
 Los integrantes de la Comisión Intersecretarial de las entidades y dependencias públicas podrán designar a un suplente, quien deberá tener nivel de subsecretario o equivalente.
 
@@ -701,3 +709,11 @@ Quinto. El titular del Poder Ejecutivo Federal dispondrá que el texto íntegro 
 Ciudad de México, a 30 de noviembre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Fuensanta Guadalupe Guerrero Esquivel, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 46 DE LA LEY FEDERAL DE PROTECCIÓN DEL PATRIMONIO CULTURAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
