@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "2022-05-18"
+last_updated: "2023-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 24 de abril de 1972.
 
@@ -1324,6 +1324,10 @@ Previo consentimiento del trabajador, el importe de las aportaciones voluntarias
 
 Por otra parte, los trabajadores por sí mismos o por conducto de sus patrones, podrán realizar depósitos extraordinarios destinados específicamente a los programas de vivienda que apruebe el Consejo de Administración.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
+ARTICULO 59 BIS.- Tratándose de las personas que se hayan inscrito voluntariamente al régimen obligatorio de la Ley del Seguro Social, podrán realizar aportaciones para su abono a la subcuenta de vivienda, de la cuenta individual prevista en los sistemas de ahorro para el retiro, en términos de la presente Ley, y en lo que corresponda en la Ley del Seguro Social y en la Ley de los Sistemas de Ahorro para el Retiro.
+
 ###### ARTICULO 60.
 
 (DEROGADO, D.O.F. 24 DE FEBRERO DE 1992)
@@ -1935,3 +1939,9 @@ D.O.F. 18 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE LA DEFENSORÍA PÚBLICA, DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE JUSTICIA LABORAL, LIBERTAD SINDICAL Y NEGOCIACIÓN COLECTIVA", PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 1 DE MAYO DE 2019”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 251 DE LA LEY DEL SEGURO SOCIAL Y 146 DE LA LEY FEDERAL DEL TRABAJO, Y SE ADICIONA UN ARTÍCULO 59 BIS A LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES”.]
+
+Único.- El presente Decreto entrará en vigor el primero de enero del año posterior a su publicación en el Diario Oficial de la Federación.
