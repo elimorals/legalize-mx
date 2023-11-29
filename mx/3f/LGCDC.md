@@ -4,7 +4,7 @@ identifier: "LGCDC"
 country: "mx"
 rank: "ley_general"
 publication_date: "2017-06-19"
-last_updated: "2021-05-04"
+last_updated: "2023-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121955&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCDC"
 
 LEY GENERAL DE CULTURA Y DERECHOS CULTURALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección al número 14 del Diario Oficial de la Federación, el lunes 19 de junio de 2017.
 
@@ -78,17 +78,21 @@ Las manifestaciones culturales a que se refiere esta Ley son los elementos mater
 
 Para el cumplimiento de esta Ley la Secretaría de Cultura conducirá la política nacional en materia de cultura, para lo cual celebrará acuerdos de coordinación con las dependencias y entidades de la Administración Pública Federal, de las entidades federativas y con los municipios y alcaldías de la Ciudad de México.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 5.
 
-La política cultural del Estado deberá contener acciones para promover la cooperación solidaria de todos aquellos que participen en las actividades culturales incluidos, el conocimiento, desarrollo y difusión de las culturas de los pueblos indígenas del país, mediante el establecimiento de acciones que permitan vincular al sector cultural con el sector educativo, turístico, de desarrollo social, del medio ambiente, económico y demás sectores de la sociedad.
+La política cultural del Estado deberá contener acciones para promover la cooperación solidaria de todos aquellos que participen en las actividades culturales incluidos, el conocimiento, desarrollo y difusión de las culturas de los pueblos indígenas del país, y la erradicación de estereotipos socioculturales de género que propician la violencia contra las mujeres y niñas; mediante el establecimiento de acciones que permitan vincular al sector cultural con el sector educativo, turístico, de desarrollo social, del medio ambiente, económico, las tecnologías de la información y las comunicaciones y demás sectores de la sociedad.
 
 ###### Artículo 6.
 
 Corresponde a las instituciones del Estado establecer políticas públicas, crear medios institucionales, usar y mantener infraestructura física y aplicar recursos financieros, materiales y humanos para hacer efectivo el ejercicio de los derechos culturales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 7.
 
-La política cultural del Estado mexicano, a través de sus órdenes de gobierno, atenderá a los siguientes principios:
+La política cultural del Estado mexicano, a través de sus órdenes de gobierno, atenderá los siguientes principios:
 
 I. Respeto a la libertad creativa y a las manifestaciones culturales;
 
@@ -98,9 +102,17 @@ III. Reconocimiento de la diversidad cultural del país;
 
 IV. Reconocimiento de la identidad y dignidad de las personas;
 
-V. Libre determinación y autonomía de los pueblos indígenas y sus comunidades; y
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
 
-VI. Igualdad de género.
+V. Libre determinación y autonomía de los pueblos indígenas y sus comunidades;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
+VI. Igualdad de género, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
+VII. El goce efectivo de los derechos culturales de la persona adulta mayor.
 
 ###### Artículo 8.
 
@@ -158,7 +170,9 @@ VI. El fomento de las expresiones y creaciones artísticas y culturales de Méxi
 
 VII. La promoción de la cultura nacional en el extranjero;
 
-VIII. La educación, la formación de audiencias y la investigación artística y cultural;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
+VIII. La formación de audiencias, y programas de educación e investigación artística y cultural;
 
 IX. El aprovechamiento de la infraestructura cultural, con espacios y servicios adecuados para hacer un uso intensivo de la misma;
 
@@ -226,9 +240,17 @@ V. Promover el establecimiento de un Sistema Nacional de Información en materia
 
 VI. Coadyuvar con las dependencias competentes de los tres órdenes de gobierno en la regulación y control de la transferencia de tecnología en materia de cultura;
 
-VII. Apoyar la coordinación entre las instituciones de cultura y las educativas para formar y capacitar recursos humanos en el mismo ramo, y
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
 
-VIII. Promover e impulsar la participación de la comunidad en la preservación de su cultura.
+VII. Apoyar la coordinación entre las instituciones de cultura y las educativas para formar y capacitar recursos humanos en el mismo ramo;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
+VIII. Promover e impulsar la participación de la comunidad en la preservación de su cultura, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
+IX. Formular, impulsar y fortalecer programas de educación e investigación artística y cultural.
 
 ###### Artículo 20.
 
@@ -413,3 +435,23 @@ D.O.F. 4 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 35 DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 5 DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 7 DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las Legislaturas de las Entidades Federativas, en el ámbito de sus respectivas competencias, realizarán las armonizaciones normativas, conforme a lo dispuesto en el presente Decreto, dentro de los 180 días naturales siguientes a su entrada en vigor.
+
+D.O.F. 29 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 12 Y 19 DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
