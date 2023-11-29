@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2023-07-10"
+last_updated: "2023-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -1407,11 +1407,25 @@ El Sistema Estatal DIF enviará al Sistema Nacional DIF, la información de niñ
 
 En ningún caso una situación migratoria irregular de niña, niño o adolescente, configura por sí misma la comisión de un delito.
 
-### CAPÍTULO I. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE NOVIEMBRE DE 2023)</small>
+
+### CAPÍTULO XXI. DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2023)</small>
+
+ARTÍCULO 96 BIS. Las niñas, niños y adolescentes gozan del derecho a las Tecnologías de la Información y Comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2023)</small>
+
+ARTÍCULO 96 BIS 1. El Estado garantizará a las niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento, acorde a los fines establecidos en el artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2023)</small>
+
+ARTÍCULO 96 BIS 2. Niñas, niños y adolescentes tienen derecho al acceso y uso seguro del Internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
 
 ## TÍTULO TERCERO. DE LAS OBLIGACIONES Y DEBERES
 
-### CAPÍTULO II. DE LOS DEBERES DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO I. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### ARTÍCULO 97.
 
@@ -1489,7 +1503,7 @@ Asimismo, dispondrán que cuando existan indicios de conflicto de intereses entr
 
 El Ministerio Público tendrá la intervención que las leyes dispongan en los procedimientos jurisdiccionales o administrativos en que niñas, niños o adolescentes estén relacionados. En materia de justicia penal, se estará a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, en la Ley General, en esta Ley y demás disposiciones aplicables.
 
-### CAPÍTULO ÚNICO. DE LOS CENTROS DE ASISTENCIA SOCIAL
+### CAPÍTULO II. DE LOS DEBERES DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### ARTÍCULO 101.
 
@@ -1511,7 +1525,7 @@ Ningún abuso o violación de sus derechos podrá considerarse válido ni justif
 
 ## TÍTULO CUARTO. DE LA PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO I. DE LAS AUTORIDADES
+### CAPÍTULO ÚNICO. DE LOS CENTROS DE ASISTENCIA SOCIAL
 
 ###### ARTÍCULO 102.
 
@@ -1655,7 +1669,7 @@ La Procuraduría de Protección será coadyuvante de la Procuraduría Federal de
 
 ## TÍTULO QUINTO. DE LA PROTECCIÓN Y RESTITUCIÓN INTEGRAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO II. DE LA DISTRIBUCIÓN DE COMPETENCIAS
+### CAPÍTULO I. DE LAS AUTORIDADES
 
 ###### ARTÍCULO 111.
 
@@ -1663,7 +1677,7 @@ Las autoridades estatales, municipales y de los organismos constitucionales aut�
 
 Las políticas públicas emprendidas por dichas autoridades, garantizarán el ejercicio de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
 
-### CAPÍTULO III. DE LA PROCURADURÍA DE PROTECCIÓN
+### CAPÍTULO II. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
 ###### ARTÍCULO 112.
 
@@ -1733,7 +1747,7 @@ XI. Las demás que establezcan las leyes del Estado y demás disposiciones que s
 
 Las autoridades municipales podrán solicitar todo tipo de colaboración al Sistema Estatal DIF, para la instrumentación y ejecución de las acciones y políticas públicas que se deriven de la presente Ley.
 
-### CAPÍTULO IV. DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA
+### CAPÍTULO III. DE LA PROCURADURÍA DE PROTECCIÓN
 
 ###### ARTÍCULO 115.
 
@@ -1833,13 +1847,13 @@ El nombramiento de Procurador de Protección deberá ser aprobado por la Junta D
 
 El Sistema Estatal DIF establecerá los mecanismos administrativos que permitan la mejor atención en las regiones del Estado.
 
-### CAPÍTULO V. DE LOS SISTEMAS ESTATAL Y MUNICIPALES DE PROTECCIÓN INTEGRAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO IV. DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA
 
 ###### ARTÍCULO 119.
 
 La Comisión de Derechos Humanos del Estado de Puebla, deberá establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
 
-### CAPÍTULO ÚNICO. DE LOS SUJETOS Y SANCIONES
+### CAPÍTULO V. DE LOS SISTEMAS ESTATAL Y MUNICIPALES DE PROTECCIÓN INTEGRAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 #### SECCIÓN PRIMERA. DEL SISTEMA ESTATAL DE PROTECCIÓN INTEGRAL
 
@@ -2085,6 +2099,8 @@ III. Incluir mecanismos transparentes que permitan su evaluación y seguimiento,
 
 ## TÍTULO SEXTO. DE LAS INFRACCIONES ADMINISTRATIVAS
 
+### CAPÍTULO ÚNICO. DE LOS SUJETOS Y SANCIONES
+
 ###### ARTÍCULO 138.
 
 Son sujetos de responsabilidad administrativa, sin perjuicio de las sanciones civiles y penales que correspondan, servidores públicos, así como empleados o trabajadores de establecimientos sujetos al control, administración o coordinación del Poder Judicial del Estado; el Congreso del Estado; órganos con autonomía constitucional, o de tribunales del trabajo, así como los servidores públicos que presten sus servicios en centros públicos o mixtos de asistencia social, centros de atención o de carácter análogo.
@@ -2205,9 +2221,9 @@ SÉPTIMO. A la entrada en vigor del presente Decreto, se abroga la Ley de Protec
 
 OCTAVO. Se derogan todas las disposiciones que se opongan a la presente Ley.
 
-EL GOBERNADOR, hará publicar y cumplir la presente Disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los tres días del mes de junio de dos mil quince. Diputada Presidenta. PATRICIA LEAL ISLAS. Rúbrica. Diputado Vicepresidente. CARLOS IGNACIO MIER BAÑUELOS. Rúbrica. Diputado Secretario. PABLO MONTIEL SOLANA. Rúbrica. Diputada Secretaria. MARÍA SARA CAMELIA CHILACA MARTÍNEZ. Rúbrica.
+EL GOBERNADOR, hará publicar y cumplir la presente Disposición. Dada en el Palacio del Poder Legislativo en la Cuatro Veces Heroica Puebla de Zaragoza, a los tres días del mes de junio de dos mil quince. Diputada Presidenta. PATRICIA LEAL ISLAS. Rúbrica. Diputado Vicepresidente. CARLOS IGNACIO MIER BAÑUELOS. Rúbrica. Diputado Secretario. PABLO MONTIEL SOLANA. Rúbrica. Diputada Secretaria. MARÍA SARA CAMELIA CHILACA MARTÍNEZ. Rúbrica.
 
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en la sede del Poder Ejecutivo del Estado en la Cuatro Veces Heroica Puebla de Zaragoza a los tres días del mes de junio de dos mil quince. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Encargado de Despacho de la Secretaría General de Gobierno. C. JORGE BENITO CRUZ BERMÚDEZ. Rúbrica.
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en la sede del Poder Ejecutivo del Estado, en la Cuatro Veces Heroica Puebla de Zaragoza a los tres días del mes de junio de dos mil quince. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Encargado de Despacho de la Secretaría General de Gobierno. C. JORGE BENITO CRUZ BERMÚDEZ. Rúbrica.
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
@@ -2442,3 +2458,11 @@ TERCERO. El Ejecutivo del Estado realizará las adecuaciones reglamentarias corr
 CUARTO. Las niñas, niños y adolescentes que actualmente se encuentren acogidos en instituciones públicas o privadas, respecto de los cuales el Sistema Estatal DIF, o la Procuraduría de Protección, pueda dar constancia de su condición de expósito o abandono, serán sujetos de adopción a partir de la entrada en vigor de este Decreto.
 
 QUINTO. Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez.
+
+P.O. 29 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA AL TÍTULO SEGUNDO EL CAPÍTULO XXI DENOMINADO “DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN” Y LOS ARTÍCULOS 96 BIS, 96 BIS 1 Y 96 BIS 2 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
