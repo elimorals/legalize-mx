@@ -4,7 +4,7 @@ identifier: "LFLL"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-24"
-last_updated: "2018-01-19"
+last_updated: "2023-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61961&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFLL"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 24 de julio de 2008.
 
@@ -70,7 +70,9 @@ Cadena productiva del libro: Conjunto de industrias que participan en los divers
 
 Cadena del libro: Conjunto de personas físicas o morales que inciden en la creación, producción, distribución, promoción, venta y lectura del libro.
 
-Libro: Toda publicación unitaria, no periódica, de carácter literario, artístico, científico, técnico, educativo, informativo o recreativo, impresa en cualquier soporte, cuya edición se haga en su totalidad de una sola vez en un volumen o a intervalos en varios volúmenes o fascículos. Comprenderá también los materiales complementarios en cualquier tipo de soporte, incluido el electrónico, que conformen, conjuntamente con el libro, un todo unitario que no pueda comercializarse separadamente.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
+Libro: Toda publicación unitaria, no periódica, de carácter literario, artístico, científico, técnico, educativo, informativo o recreativo, impresa o editada en cualquier soporte, lenguaje o código, cuya edición se haga en su totalidad de una sola vez en un volumen o a intervalos en varios volúmenes o fascículos. Comprenderá también los materiales complementarios en cualquier tipo de soporte, incluido el electrónico, que conformen, conjuntamente con el libro, un todo unitario que no pueda comercializarse separadamente.
 
 Revista: Publicación de periodicidad no diaria, generalmente ilustrada, encuadernada, con escritos sobre varias materias o especializada. Para el objeto de esta Ley, las revistas gozarán de las mismas prerrogativas que se señalen para el libro.
 
@@ -136,11 +138,17 @@ A. La Secretaría de Cultura;
 
 B. La Secretaría de Educación Pública;
 
-C. El Consejo Nacional de Fomento para el Libro y la Lectura, y
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+C. El Consejo Nacional de Fomento para el Libro y la Lectura;
 
-D. Los Gobiernos de las entidades federativas, municipales y demarcaciones territoriales de la Ciudad de México.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
+D. Los Gobiernos de las entidades federativas, municipales y demarcaciones territoriales de la Ciudad de México, y
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
+E. La Procuraduría Federal del Consumidor.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -207,6 +215,14 @@ IV. Garantizar la existencia de materiales escritos que respondan a los distinto
 V. Coadyuvar con instancias a nivel federal, de las entidades federativas, municipales y demarcaciones territoriales de la Ciudad de México, así como con miembros de la iniciativa privada en acciones que garanticen el acceso de la población abierta a los libros a través de diferentes medios gratuitos o pagados, como bibliotecas, salas de lectura o librerías, y
 
 VI. Generar programas de desarrollo profesional de fomento a la lectura para la población abierta y para los bibliotecarios de la red nacional de bibliotecas públicas.
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
+VII. Llevar el registro del precio único de libros a partir de la información que le proporcionen los editores e importadores de libros, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
+VIII. Promover y facilitar el acceso a libros digitales.
 
 ### CAPÍTULO III. DEL CONSEJO NACIONAL DE FOMENTO PARA EL LIBRO Y LA LECTURA
 
@@ -302,7 +318,7 @@ VII. Integrar las comisiones y grupos de trabajo que sean necesarios para el cum
 
 VIII. Asesorar, a petición de parte, a los tres niveles de gobierno, poderes, órganos autónomos e instituciones sociales y privadas en el fomento a la lectura y el libro;
 
-IX. Crear y mantener permanentemente actualizada una base de datos, con acceso libre al público, que contenga el registro del precio único de los libros;
+IX. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2023)
 
 X. Promover la formación, actualización y capacitación de profesionales en los diferentes eslabones de la cadena del libro;
 
@@ -358,9 +374,21 @@ En todo libro editado en México, deberán constar los siguientes datos: título
 
 Toda persona física o moral que edite o importe libros estará obligada a fijar un precio de venta al público para los libros que edite o importe. El editor o importador fijará libremente el precio de venta al público, que regirá como precio único.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 23.
 
-El precio se registrará en una base de datos a cargo del Consejo Nacional de Fomento para el Libro y la Lectura y estará disponible para consulta pública.
+Previo a su venta a los consumidores, los editores o importadores de libros deberán registrar el precio único de los libros en la base de datos a cargo de la Secretaría de Cultura, la cual estará disponible a la consulta pública. En dicha base se registrará al menos:
+
+I. Nombre, denominación o razón social y domicilio del editor;
+
+II. Datos que identifiquen al libro y su autor;
+
+III. Número Internacional Normalizado del Libro (ISBN);
+
+IV. Fecha de impresión o importación, y
+
+V. Precio único de venta al público.
 
 ###### Artículo 24.
 
@@ -370,15 +398,23 @@ Los vendedores de libros al menudeo deben aplicar el precio único de venta al p
 
 El precio único establecido en el artículo 22 de la presente Ley, no se aplica a las compras que para sus propios fines, excluyendo la reventa, hagan el Estado, las bibliotecas que ofrezcan atención al público o préstamo, los establecimientos de enseñanza y de formación profesional o de investigación.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 26.
 
-Los vendedores de libros podrán aplicar precios inferiores al precio de venta al público mencionado en el artículo 22 de la presente Ley, cuando se trate de libros editados o importados con más de dieciocho meses de anterioridad, así como los libros antiguos, los usados, los descatalogados, los agotados y los artesanales.
+El precio único de venta al público tendrá una vigencia de treinta y seis meses contados a partir de la fecha de impresión o reimpresión consignada en el colofón o en el pedimento de importación. Se exceptúa de lo anterior a los libros impresos antiguos, usados, descatalogados, agotados o artesanales. En tanto un libro impreso en papel esté sujeto al régimen de precio único, su versión electrónica equivalente estará sujeta a las mismas disposiciones.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 27.
 
-Las acciones para detener y reparar las violaciones al precio único establecido en esta Ley pueden ser emprendidas por cualquier competidor, por profesionales de la edición y difusión del libro, así como por autores o por cualquier organización de defensa de autores.
+Las acciones para detener y reparar las violaciones al precio único establecido en esta Ley pueden ser emprendidas por cualquier consumidor, competidor, profesionales de la edición y difusión del libro, autores, sociedades de gestión colectiva o cualquier organización de defensa de consumidores.
 
-Dicha defensa se llevará a cabo por vía jurisdiccional y en su caso por medio de arbitraje para lo cual el consejo podrá actuar como perito.
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 28.
+
+Corresponde a la Procuraduría Federal del Consumidor proteger y vigilar la distribución y comercialización de libros en los términos de la presente Ley o, en su caso, aplicar las medidas necesarias y las sanciones correspondientes que garanticen su cumplimiento conforme a las disposiciones aplicables.
 
 ## TRANSITORIOS
 
@@ -435,3 +471,15 @@ D.O.F. 19 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL ARTÍCULO VIGÉSIMO TERCERO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Secretaría de Cultura llevará a cabo las adecuaciones necesarias al Reglamento de la Ley y demás disposiciones aplicables en un término de 60 días hábiles a la publicación del presente Decreto.
+
+Tercero.- La Secretaría de Cultura habilitará la base de datos para el registro del precio único de los libros editados en el país o importados al territorio nacional, en un plazo máximo de 90 días a partir de la entrada en vigor del presente Decreto, sin detrimento del cumplimiento de las obligaciones vigentes de la presente Ley y demás disposiciones aplicables dispuestas para los editores e importadores de libros.
+
+Cuarto.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán al marco normativo aplicable a las dependencias y entidades competentes, así como a la disponibilidad presupuestaria de cada una de ellas para el presente ejercicio fiscal y los subsecuentes, por lo que bajo ningún supuesto se autorizarán recursos adicionales para tales efectos.
