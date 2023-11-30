@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2023-07-26"
+last_updated: "2023-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2023.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -715,13 +715,45 @@ IV.- Ejercer en toda clase de negocios el derecho de petición; y
 
 V.- Presentar Iniciativas ante el Congreso del Estado de acuerdo con los requisitos y procedimientos establecidos en la Ley de la materia y en la Ley Orgánica del Poder Legislativo del Estado de Baja California Sur;
 
-(ADICIONADA, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2023)</small>
 
-VI.- Participar en las consultas ciudadanas plebiscitarias y de referéndum; y
+VI.- Participar en las consultas ciudadanas plebiscitarias y de referéndum;
 
-> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2000)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], B.O. 30 DE NOVIEMBRE DE 2023)</small>
 
-VII.- Las demás que le confieran esta Constitución y las Leyes que de ella emanan.
+VII.- Participar en los procesos de revocación de mandato.
+
+En lo que se refiere a la revocación de mandato del Gobernador Constitucional del Estado, esta debe entenderse como el instrumento de participación solicitado por la ciudadanía para determinar la conclusión anticipada del desempeño del cargo a partir de la pérdida de confianza, y se llevará a cabo conforme a lo siguiente:
+
+a) Será convocado por el Instituto Estatal Electoral a petición de los ciudadanos y ciudadanas, en un número equivalente, al menos, al diez por ciento de los inscritos en la lista nominal de electores en la Entidad, siempre y cuando en la solicitud correspondan a por lo menos la mitad más uno de los Municipios del Estado y que representen, como mínimo, el diez por ciento de la lista nominal de electores de cada una (sic) de ellos;
+
+El Instituto Estatal Electoral, dentro de los siguientes treinta días a que se reciba la solicitud, verificará el requisito establecido en el párrafo anterior y emitirá inmediatamente la convocatoria al proceso para la revocación de mandato;
+
+b) Se podrá solicitar en una sola ocasión y durante los tres meses posteriores a la conclusión del tercer año del periodo constitucional;
+
+Los ciudadanos y ciudadanas podrán recabar firmas para la solicitud de revocación de mandato durante el mes previo a la fecha prevista en el párrafo anterior. El Instituto Estatal Electoral emitirá, a partir de esta fecha, los formatos y medios para la recopilación de firmas, así como los lineamientos para las actividades relacionadas;
+
+c) Se realizará mediante votación libre, directa y secreta de ciudadanos y ciudadanas inscritos en la lista nominal de la Entidad, el domingo siguiente a los noventa días posteriores a la convocatoria y en fecha no coincidente con las jornadas electorales locales o federales;
+
+d) Para que el proceso de revocación de mandato sea válido deberá haber una participación de, por lo menos, el cuarenta por ciento de las personas inscritas en la lista nominal de electores de la Entidad. La revocación de mandato sólo procederá por mayoría absoluta:
+
+e) El Instituto Estatal Electoral tendrá a su cargo, en forma directa, la organización, desarrollo y cómputo de la votación. Emitirá los resultados de los procesos de revocación de mandato del titular del Poder Ejecutivo Estatal, los cuales podrán ser impugnados ante el Tribunal Estatal Electoral, en los términos de lo dispuesto en la fracción V del artículo 36, así como el artículo 36 BIS de la presente Constitución;
+
+f) El Tribunal Estatal Electoral realizará el cómputo final del proceso de revocación de mandato, una vez resueltas las impugnaciones que se hubieren interpuesto. En su caso, emitirá la declaratoria de revocación y se estará a lo dispuesto en el artículo 72 de esta Constitución, en relación a las faltas absolutas del Gobernador Constitucional del Estado;
+
+g) Queda prohibido el uso de recursos públicos para la recolección de firmas, así como con fines de promoción y propaganda relacionados con los procesos de revocación de mandato;
+
+h) El Instituto Estatal Electoral promoverá la participación ciudadana y serán (sic) la única instancia a cargo de la difusión de los mismos. La promoción será objetiva, imparcial y con fines informativos;
+
+i) Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en la opinión de los ciudadanos y ciudadanas;
+
+j) Durante el tiempo que comprende el proceso de revocación de mandato, desde la convocatoria y hasta la conclusión de la jornada, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de cualquier orden de gobierno, y
+
+k) Los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, sólo podrán difundir las campañas de información relativas a los servicios educativos y de salud o las necesarias para la protección civil.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+VIII.- Las demás que le confieran esta Constitución y las Leyes que de ella emanan.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE JULIO DE 2013)</small>
 
@@ -733,9 +765,9 @@ II.- Inscribirse en los padrones electorales, en los términos que determinen la
 
 III.- Alistarse en la Guardia Nacional;
 
-> <small>(REFORMADA, B.O. 20 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2023)</small>
 
-IV.- Votar en las elecciones, consultas ciudadanas plebiscitarias y de referéndum;
+IV.- Votar en las elecciones, consultas ciudadanas plebiscitarias, de referéndum y los procesos de revocación de mandato; en los términos que señale la Ley;
 
 V.- Ejercer los cargos de elección popular para los que fuere electo; y
 
@@ -831,11 +863,13 @@ IV.- La organización de los procesos electorales es una función que correspond
 
 El Instituto Estatal Electoral residirá en la Capital del Estado y se conformará por un Consejo General, que será su órgano superior de dirección, el cual se integrará por una Consejera o un Consejero Presidente y seis Consejeras o Consejeros Electorales con voz y voto. También concurrirán, con voz pero sin voto, un representante de cada uno de los partidos políticos que participen en las elecciones y una o un Secretario Ejecutivo. Las y los Consejos Distritales y Municipales Electorales serán órganos desconcentrados del Instituto Estatal Electoral y solo funcionarán durante el desarrollo del proceso electoral. Las mesas directivas de casilla estarán integradas por ciudadanas y ciudadanos.
 
-> <small>(REFORMADO, B.O. 26 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2023)</small>
 
-El Instituto Estatal Electoral tendrá a su cargo las facultades, atribuciones y obligaciones que establece el inciso a) del apartado B de la fracción V del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, 104 de la Ley General de Instituciones y Procedimientos Electorales y los relativos de la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California Sur;
+El Instituto Estatal Electoral tendrá a su cargo las facultades, atribuciones y obligaciones que establece el inciso a) del apartado B y el apartado C, ambos de la fracción V del artículo 41, de la Constitución Política de los Estados Unidos Mexicanos, 104 de la Ley General de Instituciones y Procedimientos Electorales y los relativos de la Ley Electoral del Estado de Baja California Sur;
 
-V.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley correspondiente. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+V.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, incluidos los procesos de revocación de Mandato, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley correspondiente. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales.
 
 En materia electoral, la interposición de los medios de impugnaciones constitucionales o legales no producirá efectos suspensivos sobre la resolución del acto impugnado;
 
@@ -871,9 +905,9 @@ El Tribunal Estatal Electoral no formará parte del Poder Judicial del Estado.
 
 Las Magistradas y Magistrados electorales serán electos en forma escalonada, observando el principio de paridad de género, por las dos terceras partes de los miembros presentes de la Cámara de Senadores, de conformidad con lo dispuesto por la Constitución General, y la Ley General de Instituciones y Procedimientos Electorales.
 
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2023)</small>
 
-Las Magistradas y Magistrados serán los responsables de resolver los medios de impugnación interpuestos en contra de todos los actos y resoluciones electorales locales, en términos de las leyes en la materia.
+Las Magistradas y Magistrados serán los responsables de resolver los medios de impugnación interpuestos en contra de todos los actos y resoluciones electorales locales, en términos de las leyes en la materia, así como en materia de revocación de mandato.
 
 > <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
@@ -1611,9 +1645,9 @@ Durante el ejercicio de su encargo, el titular de la Auditoría Superior del Est
 
 67.- El ejercicio del Poder Ejecutivo del Estado se deposita en una sola persona que se denomina "Gobernadora o Gobernador del Estado de Baja California Sur".
 
-> <small>(REFORMADO, B.O. 26 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2023)</small>
 
-68.- La elección de la Gubernatura será directa, secreta, uninominal, por mayoría relativa y bajo el principio de paridad de género en todo el Territorio del Estado, en los términos de la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California Sur.
+68.- La elección del Gobernador será directa, secreta, uninominal y por mayoría relativa en todo el Territorio del Estado, en los términos de la Ley Electoral. El cargo de Gobernador del Estado de Baja California Sur puede ser revocado en los términos establecidos en esta Constitución.
 
 69.- Para ser Gobernador del Estado se requiere:
 
@@ -1757,9 +1791,11 @@ XIV.- Publicar el Decreto de creación del Comité de Contribuyentes que prevé 
 
 El Titular del Poder Ejecutivo podrá celebrar con los Municipios que así lo decidan, convenios en materia de coordinación fiscal.
 
-Asimismo, el Gobernador del Estado publicará el Decreto de creación de un organismo, que de común acuerdo con los Municipios, tenga la finalidad de revisar permanentemente los aspectos que atañen a la recaudación y distribución de las diversas contribuciones que en vía de ingresos conforman las Haciendas Públicas Municipales, y con la finalidad de crear un grupo de asesoría, capacitación y planeación hacendaria, en el ámbito de coordinación fiscal que determine la Ley de la materia.
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2023)</small>
 
-Para los efectos señalados el Gobernador del Estado, como integrante del organismo a que se refiere el párrafo anterior, ordenará al Secretario de Finanzas del Estado y al personal que el mismo determine para que se reúnan trimestralmente con las autoridades fiscales Municipales.
+Asimismo, el Gobernador del Estado por conducto de la Secretaría de Finanzas y Administración concurrirá conforme a la ley de la materia, a la integración del Sistema Estatal Hacendario, el cual tendrá por objeto establecer los principios, bases y políticas públicas tendientes a fortalecer la coordinación hacendaria entre el Gobierno del Estado y los Ayuntamientos de la Entidad.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2023)</small>
 
 XV.- Representar al Estado en las comisiones federales y en las comisiones interestatales regionales;
 
@@ -4792,3 +4828,25 @@ DÉCIMO QUINTO: Los Partidos Políticos y las agrupaciones políticas que partic
 DÉCIMO SEXTO: Las unidades administrativas contenidas en el artículo 11 fracción V, operarán con el presupuesto de egresos aprobado por el Congreso.
 
 DÉCIMO SÉPTIMO: Los Partidos Políticos y las agrupaciones políticas que participen en los procesos electorales en el Estado de Baja California Sur, podrán postular libremente mujer u hombre en la postulación a la gubernatura en el proceso electoral 2027 atendiendo el principio de paridad plasmado en esta Ley.
+
+B.O. 30 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2999 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE BAJA CALIFORNIA SUR, PARA LA CREACIÓN DEL SISTEMA ESTATAL HACENDARIO”.]
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo. El Consejo Estatal Hacendario deberá quedar instalado dentro de los diez días naturales siguientes a la entrada en vigor del presente decreto.
+
+Artículo Tercero. El Reglamento del Consejo Estatal Hacendario deberá aprobarse dentro de los treinta días naturales siguientes a la instalación del propio Consejo.
+
+Artículo Cuarto. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 30 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2990 SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 28; LA FRACCIÓN IV DEL ARTÍCULO 29; EL TERCER PÁRRAFO DE LA FRACCIÓN IV Y EL PRIMER PÁRRAFO DE LA FRACCIÓN V DEL ARTÍCULO 36; EL CUARTO PÁRRAFO DEL ARTÍCULO 36 BIS Y EL ARTÍCULO 68. Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 28, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, EN MATERIA DE REVOCACIÓN DE MANDATO".]
+
+PRIMERO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Dentro de los 30 días naturales siguientes a la publicación del presente Decreto, el Congreso del Estado de Baja California Sur, deberá realizar las adecuaciones necesarias a las Leyes Estatales de conformidad con el presente Decreto.
+
+TERCERO.- El ejercicio de las atribuciones que este Decreto le confiere al Instituto Estatal Electoral en materia de revocación de mandato, se cubrirán con base en la disponibilidad presupuestaria que para el presente ejercicio fiscal se le tiene asignada, así como la que corresponda para los subsecuentes ejercicios fiscales.
