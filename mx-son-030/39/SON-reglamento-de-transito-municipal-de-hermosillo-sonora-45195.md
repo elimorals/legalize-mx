@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-transito-municipal-de-hermosillo-sonora-45195"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-31"
-last_updated: "2023-01-23"
+last_updated: "2023-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "SON"
 
 REGLAMENTO DE TRÁNSITO MUNICIPAL DE HERMOSILLO, SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE ENERO DE 2023.
-
-(REPUBLICADA EN EL BOLETÍN OFICIAL: 23 DE ENERO DE 2023)
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2023.
 
 Reglamento publicado en la Sección I del Número 26 en el Boletín Oficial del Estado de Sonora, el jueves 31 de marzo de 2005.
 
@@ -1167,33 +1165,57 @@ III. La explotación del exclusivo por personas distintas al titular de la autor
 
 Las autorizaciones para cajones de estacionamiento exclusivo tendrán una vigencia mensual y el pago de los derechos correspondientes se hará por adelantado en una sola exhibición.
 
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 75.
 
-La Secretaría del Ayuntamiento, podrá autorizar cajones de estacionamiento exclusivos para la instalación de bases de taxis previa presentación de los siguientes requisitos:
+la Tesorería Municipal, a través de la Dirección de Inspección y Vigilancia, podrá autorizar cajones de estacionamiento exclusivos para la instalación de bases de taxis previa presentación de los siguientes requisitos:
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 I. Solicitud en el formato oficial;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 II. Presentar copia de identificación oficial con fotografía emitida por el Instituto Nacional Electoral o Pasaporte Mexicano emitido por la Secretaría de Relaciones Exteriores, ambos vigentes;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 III. Croquis de localización del lugar donde pretenden obtener autorización;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 IV. Concesiones vigentes de los vehículos solicitantes emitida por la Dirección General del Transporte de la Secretaría de Infraestructura y Desarrollo Urbano;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 V. Tarjeta de circulación vigente de cada vehículo;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 VI. Póliza de seguro vigente de cada vehículo;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 VII. Licencia de operador de servicio público de transporte, expedida en el Estado de Sonora;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 VIII. Carta de conformidad vecinal;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 IX. Carta de autorización de propietarios del lugar donde se pretende ubicar el exclusivo;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 X. Aprobar la verificación de factibilidad;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 XI. Presentar opinión positiva del Instituto Municipal de Planeación Urbana y del Espacio Público; y
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 XII. Realizar el pago de los derechos correspondientes.
 
@@ -1618,3 +1640,11 @@ REPUBLICADO, B.O. 23 DE ENERO DE 2023
 B. O. 23 DE ENERO DE 2023.
 
 > <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 4 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE SONORA.]</small>
+
+B.O. 30 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO QUE REFORMA EL ARTÍCULO 75, PÁRRAFO PRIMERO DEL REGLAMENTO DE TRÁNSITO MUNICIPAL DE HERMOSILLO”.]
+
+ÚNICO.- La presente modificación reglamentaria entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+Se deroga toda disposición reglamentaria que se oponga a la presente modificación.
