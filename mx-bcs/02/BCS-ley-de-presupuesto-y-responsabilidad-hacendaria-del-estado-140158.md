@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1401
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-20"
-last_updated: "2020-01-20"
+last_updated: "2023-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 20 de enero de 2020.
 
@@ -1323,11 +1323,87 @@ La Cuenta Pública del Estado y las de sus municipios, así como los estados fin
 
 Las Entidades y las Entidades Municipales, deberán remitir anualmente al H. Congreso del Estado, un informe sobre la aplicación de los recursos públicos recibidos durante el ejercicio fiscal anterior, a más tardar quince días antes de la apertura del Segundo Periodo Ordinario de Sesiones, mediante los estados financieros auditados por despachos contables externos profesionales y reconocidos, poniendo a disposición de éste cualquier información que les requiera. La Contraloría General del Estado emitirá los Lineamientos para las Auditorías Externas de las Entidades Públicas del Estado de Baja California Sur y certificará que los despachos externos cumplan los requerimientos para llevar a cabo las auditorías. Las Entidades deberán remitir a la Secretaría copia del informe a que se refiere el presente párrafo.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+## TÍTULO QUINTO BIS. DEL SISTEMA ESTATAL HACENDARIO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+ARTÍCULO 94 A. El Sistema Estatal Hacendario tiene por objeto establecer los principios, bases y políticas públicas tendientes a fortalecer la coordinación hacendaria entre el Gobierno del Estado y los Ayuntamientos de la Entidad. Su funcionamiento estará encomendado al Consejo Estatal Hacendario.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+ARTÍCULO 94 B. El Consejo Estatal Hacendario es el órgano de enlace, consulta, opinión y análisis técnico, el cual tiene por objeto coadyuvar al fortalecimiento del Sistema de Coordinación Hacendaria entre el Gobierno del Estado y los Ayuntamientos de los municipios de la entidad, así como para desarrollar e implementar con el mismo fin, programas de capacitación y profesionalización a los diversos servidores públicos.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+ARTÍCULO 94 C. El Consejo Estatal Hacendario estará integrado de la siguiente manera:
+
+I. La persona titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, quien lo presidirá;
+
+II. Un integrante de la Comisión Permanente de Asuntos Fiscales y Administrativos del Congreso del Estado;
+
+III. Las personas titulares de las Sindicaturas Municipales de cada uno de los Ayuntamientos de la Entidad; y
+
+IV. Las personas titulares de las Tesorerías Municipales de cada uno de los Ayuntamientos de la Entidad.
+
+Contará además con un Secretario Técnico, el cual le servirá de apoyo y soporte para el mejor desempeño de sus atribuciones. En el Reglamento del Consejo se establecerán las disposiciones relativas a su nombramiento, requisitos, atribuciones, naturaleza del cargo, periodo de duración y reglas de sustitución.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+ARTÍCULO 94 D. En caso de ausencia de cualquiera de los integrantes del Consejo Estatal Hacendario se procederá de la siguiente forma:
+
+a) La persona titular de la Secretaría de Finanzas y Administración del Gobierno del Estado será sustituida por la o el Subsecretario de Finanzas del propio Gobierno del Estado;
+
+b) El integrante de la Comisión Permanente de Asuntos Fiscales y Administrativos del Congreso del Estado será sustituido por cualquiera de los otros integrantes de dicha Comisión;
+
+c) Las personas titulares de las Sindicaturas Municipales de cada uno de los Ayuntamientos de la entidad serán sustituidas por cualquiera de los otros integrantes de la Comisión edilicia permanente de Hacienda, Patrimonio y Cuenta pública que corresponda; y
+
+d) Las personas titulares de las Tesorerías Municipales de cada uno de los Ayuntamientos de la entidad, serán sustituidas por los respectivos Directores de Ingresos de los Ayuntamientos.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+ARTÍCULO 94 E. Son atribuciones del Consejo Estatal Hacendario:
+
+I. Proponer las medidas que estime convenientes para mejorar el Sistema de Coordinación Hacendaria entre el Gobierno del Estado y sus municipios;
+
+II. Designar comisiones para el estudio y desahogo de asuntos específicos que así, lo requieran;
+
+III. Emitir recomendaciones en política hacendaria municipal a petición de los Ayuntamientos;
+
+IV. Opinar, a solicitud de los Ayuntamientos, de la Legislatura del Estado, o del Titular del Poder Ejecutivo Estatal sobre las tasas, cuotas y tarifas que sirven de base para el cobro de las diversas contribuciones municipales;
+
+V. Promover y alentar la observancia del balance presupuestario sostenible en cada municipio conforme a lo dispuesto en la Ley de Disciplina Financiera de las entidades Federativas y Municipios y de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Baja California Sur;
+
+VI. Someter a la consideración de los Ayuntamientos de la entidad un proyecto armonizado para las leyes de ingresos de los Municipios, el cual considerará las propuestas que formulen los propios ayuntamientos;
+
+VII. Fomentar el cumplimiento de la Ley general de Contabilidad Gubernamental y los acuerdos del Consejo Nacional de Armonización Contable en materia presupuestal;
+
+VIII. Proponer a los Ayuntamientos proyectos de modificaciones integrales a sus leyes de hacienda municipales;
+
+IX. Emitir los criterios necesarios para que los ayuntamientos generen información homogénea en materia hacendaria;
+
+X. Fomentar la elaboración del presupuesto basado en resultados, así como la implementación del sistema de evaluación del desempeño;
+
+XI. Propiciar la comunicación y el intercambio de experiencias e información entre las haciendas públicas de los dos niveles de gobierno;
+
+XII. Aprobar la celebración de convenios entre el Consejo Estatal Hacendario e instituciones educativas y otros entes públicos y privados, para la profesionalización y capacitación de los servidores públicos del Estado y de los Municipios;
+
+XIII. Expedir el Reglamento del Consejo Estatal Hacendario; y
+
+XIV. Las demás que le confieran otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+ARTÍCULO 94 F. El Consejo Estatal Hacendario sesionará de forma ordinaria al menos una vez al mes y de forma extraordinaria cuando así lo determine el Consejo. Las reglas aplicables para las convocatorias a sesión, orden del día, quorum legal, desahogo de los asuntos y votaciones, se establecerán en el reglamento.
+
 ## TÍTULO SEXTO. DE LAS RESPONSABILIDADES
 
 ### CAPÍTULO I. DE LAS RESPONSABILIDADES EN MATERIA DE PROGRAMACIÓN, PRESUPUESTACIÓN, EJERCICIO Y CONTROL DE LOS RECURSOS
-
-### CAPÍTULO II. DE LAS SANCIONES E INDEMNIZACIONES
 
 ###### ARTÍCULO 95.
 
@@ -1406,6 +1482,8 @@ II. Orientar a las Entidades en el cumplimiento de lo dispuesto en la Ley, su Re
 III. Vigilar que el ejercicio de los recursos aprobados se apegue estrictamente a los programas, subprogramas, proyectos, actividades y obras y a las metas establecidas en los programas operativos anuales.
 
 Se sancionará en los términos de las disposiciones aplicables a los servidores públicos que incumplan con las obligaciones prescritas en este artículo.
+
+### CAPÍTULO II. DE LAS SANCIONES E INDEMNIZACIONES
 
 ###### ARTÍCULO 97.
 
@@ -1492,3 +1570,17 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 30 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2999 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE BAJA CALIFORNIA SUR, PARA LA CREACIÓN DEL SISTEMA ESTATAL HACENDARIO”.]
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo. El Consejo Estatal Hacendario deberá quedar instalado dentro de los diez días naturales siguientes a la entrada en vigor del presente decreto.
+
+Artículo Tercero. El Reglamento del Consejo Estatal Hacendario deberá aprobarse dentro de los treinta días naturales siguientes a la instalación del propio Consejo.
+
+Artículo Cuarto. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
