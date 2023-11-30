@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-43850"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2022-06-14"
+last_updated: "2023-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el día 31 de diciembre de 2004.
 
@@ -262,6 +262,10 @@ IX.- Proporcionar orientación a la población respecto de la importancia de la 
 > <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 X.- Diseñar y ejecutar políticas públicas que propicien adecuadas pautas de conducta alimentaria, que garanticen una prevención, atención y tratamiento eficiente del sobrepeso, obesidad, desnutrición y trastornos de la conducta alimenticia, y cuyos avances y resultados sean objeto de evaluación.
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+XI.- Regular los servicios de atención médica prehospitalaria.
 
 ###### ARTÍCULO 11.
 
@@ -546,6 +550,30 @@ I.- Preventivas, que incluyen las de promoción general de salud, a la familia y
 II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno, para limitación del daño; y
 
 III.- De rehabilitación, que incluyen acciones tendientes a corregir los estados de discapacidades físicas y mentales.
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+IV.- De atención prehospitalaria, por conducto de organismos e instituciones públicas, sociales y privadas que utilicen unidades móviles tipo ambulancias.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+#### SECCIÓN I. SERVICIOS DE ATENCIÓN PREHOSPITALARIA
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+ARTÍCULO 37 BIS.- Es responsabilidad de las dependencias del Sistema Estatal de Salud enumeradas en (sic) artículo 9 de esta Ley propiciar, regular y garantizar que la población y toda persona que se encuentre en el Territorio del Estado de Baja California Sur que requiera los servicios de atención médica prehospitalaria, los reciba de una manera inmediata, apropiada, eficiente y de calidad, con el objeto de reducir la mortalidad y la morbilidad de una persona que sufre una emergencia.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+ARTÍCULO 37 TER.- Los servicios señalados en el artículo anterior, no obstante lo señalado en otras disposiciones, deberán atender los siguientes principios:
+
+I. Eficacia.- Los servicios deben de tener un funcionamiento que permita una reducción máxima del tiempo de reacción y atención.
+
+II. Calidad.- Las acciones y prácticas realizadas deben de adaptarse a las características de cada situación, de acuerdo con las recomendaciones clínicas protocolarias, maximizando la posibilidad de sobrevivencia y evitando las complicaciones posteriores.
+
+III. Continuidad.- El sistema debe permitir la integración de todos los eslabones de la cadena entre estos servicios y la red de dispositivos tanto de atención prehospitalaria, como de urgencias y emergencias. En este sentido, debe permitir el traslado a los establecimientos más apropiados según el caso y directamente, cuando sea necesario, a los centros más cercanos y especializados. Privilegiando el principio de no discriminación.
+
+IV. Líneas estratégicas.- Los servicios de atención médica prehospitalaria deberá (sic) evaluarse y considerar la capacitación técnica del recurso humano responsable de proporcionar el apoyo asistencial médico en la atención de servicios prehospitalarios de urgencias y emergencias.
 
 ### CAPÍTULO IV. DE LOS PRESTADORES DE SERVICIOS DE SALUD
 
@@ -3394,3 +3422,21 @@ PRIMERO. El presente Decreto entrara en vigor el día siguiente al de su publica
 SEGUNDO. El Ejecutivo del Estado deberá realizar los ajustes y modificaciones administrativas, reglamentarias y financieras necesarias y suficientes para garantizar el derecho de la mujer a la salud sexual y salud reproductiva que se contemplan en el presente decreto, entre los ajustes y modificaciones deberá garantizarse que exista por lo menos una o un médico que practique la interrupción del embarazo en las instituciones públicas de salud.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+B.O. 30 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2693 SE REFORMA Y ADICIONA LA LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR; Y SE CREA LA LEY DE ATENCIÓN PREHOSPITALARIA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- (sic) Ley de Atención Prehospitalaria para el Estado de Baja California Sur entrará en vigor a los noventa días de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO.- La Coordinación del Sistema, deberá crear las disposiciones reglamentarias internas necesarias para la correcta aplicación de la Ley, en un plazo no mayor a noventa días hábiles, contados a partir de la designación del Coordinador y Subcoordinador.
+
+QUINTO.- En los treinta días hábiles siguientes a la emisión del reglamento, se deberá instalar el Consejo Estatal del Sistema Estatal de Servicios de Urgencias y Emergencias Médicas para el Estado de Baja California Sur y posteriormente, el Consejo Consultivo.
+
+SEXTO.- Los prestadores del servicio sean instituciones públicas, sociales, privadas, organización y/o asociaciones civiles, en un plazo que no excederá de dos años contados a partir del inicio de la vigencia de esta ley, adoptarán paulatinamente las medidas de capacitación, equipamiento y demás obligaciones que refiere la presente Ley y las normas oficiales en la materia. Para efecto de garantizar el cumplimiento a lo anterior la Coordinación Estatal, evaluará semestralmente los avances respectivos, y por este periodo considerará la aplicación de las sanciones relacionadas con lo anterior.
+
+SÉPTIMO.- Para el debido cumplimiento del presente ordenamiento, el Ejecutivo del Estado y los Ayuntamientos, deberán prever en sus Presupuestos de Egresos para el ejercicio fiscal del 2020 y subsecuentes, la cantidad de recursos que se requiere para su implementación y cumplimiento.
