@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-para-el-estado-de-michoacan-de-ocampo-59759"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2022-09-26"
+last_updated: "2023-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59759&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2023.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -4059,9 +4059,19 @@ No habiendo albacea nombrado, cada uno de los herederos puede, si no ha sido ins
 
 Habiendo albacea nombrado, él deberá promover la reclamación a que se refiere el artículo precedente, y siendo moroso en hacerlo, los herederos tienen derecho de pedir su remoción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 817.
 
-El derecho de reclamar la herencia prescribe en diez años y es transmisible a los herederos.
+El derecho de reclamar la herencia prescribe en diez años y es transmisible a los herederos; se computará a partir de la muerte del autor de la sucesión o de la declaración de presunción de muerte de un ausente.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+El plazo de prescripción de petición de herencia por el heredero excluido o preterido, comenzará cuando se haya aperturado la herencia, siempre que no se haya incluido al heredero preterido y se encuentre aceptado y discernido el cargo de albacea en el sucesorio.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+Tratándose de menores e incapaces, mientras dure su condición, no correrá el término citado en el primer párrafo de este artículo.
 
 ### CAPÍTULO III. DE LA ACEPTACIÓN Y DE LA REPUDIACIÓN DE LA HERENCIA
 
@@ -10998,3 +11008,11 @@ P.O. 26 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 177 POR EL QUE "SE ADICIONA LA SECCIÓN NOVENA BIS DEL CAPÍTULO I, LIBRO QUINTO, QUE COMPRENDE LOS ARTÍCULOS 1024 BIS, 1024 TER, 1024 QUÁTER, 1024 QUINQUIES, 1024 SEXIES, 1024 SEPTIES, 1024 OCTIES Y 1024 NONIES DEL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 462.- ARTÍCULO ÚNICO.- SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 817 DEL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación. Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese a los titulares de los poderes Ejecutivo y Judicial, a los 111 Ayuntamientos, al Concejo Comunal de Cherán y al Concejo Municipal de Penjamillo, todos del Estado de Michoacán de Ocampo, para sus efectos.
