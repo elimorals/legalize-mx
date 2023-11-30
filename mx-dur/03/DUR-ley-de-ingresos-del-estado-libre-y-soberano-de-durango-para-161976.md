@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ingresos-del-estado-libre-y-soberano-de-durango-para-161
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2022-12-29"
-last_updated: "2022-12-29"
+last_updated: "2023-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE DURANGO, PARA EL EJERCICIO DEL AÑO 2023
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el No. 104 del Periódico Oficial del Estado de Durango, el jueves 29 de diciembre de 2022.
 
@@ -505,7 +505,9 @@ X. Los ingresos que en su caso se obtengan por la contratación de financiamient
 
 El Ejecutivo del Estado, con el apoyo de la Secretaría de Finanzas y de Administración, deberá prever en el proyecto de presupuesto de cada ejercicio fiscal, el pago y servicio de la deuda que derive de los contratos de crédito que se contraten al amparo del presente Artículo, hasta su total liquidación.
 
-El presente Artículo fue autorizado conforme a lo dispuesto en los artículos 117, fracción VIII, tercer párrafo, de la Constitución Política de los Estados Unidos Mexicanos, y demás relativos a la Ley de Disciplina Financiera y de Responsabilidad Hacendaría del Estado de Durango y sus Municipios.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+Las autorizaciones contenidas en el presente Artículo se otorgaron previo análisis del destino del financiamiento, de la capacidad de pago del Estado, y del establecimiento de la fuente de pago, con el voto de, al menos, las dos terceras partes de los miembros presentes del Congreso del Estado, en términos de los artículos 117, fracción VIII, tercer párrafo, de la Constitución Política de los Estados Unidos Mexicanos; 23 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y demás relativos de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Durango y sus Municipios.
 
 ###### ARTÍCULO 16.
 
@@ -555,7 +557,9 @@ XI. Cuando el Poder Ejecutivo del Estado, por conducto de la Secretaría de Fina
 
 El Poder Ejecutivo del Estado de Durango, con el apoyo de la Secretaría de Finanzas y de Administración, deberá prever en el proyecto de presupuesto de egresos de cada ejercicio fiscal, el pago y servicio de los créditos y, en su caso, instrumentos derivados que se contraten al amparo del presente Artículo, hasta su total liquidación.
 
-Las autorizaciones contenidas en el presente artículo, fue autorizado conforme a lo dispuesto en los artículos 117, fracción VIII, tercer párrafo, de la Constitución Política de los Estados Unidos Mexicanos, y demás relativos a la Ley de Disciplina Financiera y de Responsabilidad Hacendaria del Estado de Durango y sus Municipios.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+Las autorizaciones contenidas en el presente Artículo se otorgaron previo análisis del destino del financiamiento, de la capacidad de pago del Estado, y del establecimiento de la fuente de pago, con el voto de, al menos, las dos terceras partes de los miembros presentes del Congreso del Estado, en términos de los artículos 117, fracción VIII, tercer párrafo, de la Constitución Política de los Estados Unidos Mexicanos; 23 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y demás relativos de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Durango y sus Municipios.
 
 ###### ARTÍCULO 17.
 
@@ -593,7 +597,9 @@ X. Cuando el Poder Ejecutivo del Estado, por conducto de la Secretaría de Finan
 
 XI. El Poder Ejecutivo del Estado deberá prever anualmente en su Presupuesto de Egresos, en tanto existan obligaciones pendientes de pago a su respectivo cargo que deriven del o los financiamientos que contrate con sustento en lo autorizado en el presente Artículo, el importe o partida que permita realizar las erogaciones para el pago del servicio de la deuda, en cada ejercicio fiscal, hasta la total liquidación del o los financiamientos contratados.
 
-XII. Las autorizaciones contenidas en el presente Artículo fue autorizado conforme a lo dispuesto en los artículos 117, fracción VIII, tercer párrafo, de la Constitución Política de los Estados Unidos Mexicanos, y demás relativos a la Ley de Disciplina Financiera y de Responsabilidad Hacendaria del Estado de Durango y sus Municipios.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+XII. Las autorizaciones contenidas en el presente Artículo se otorgaron previo análisis del destino del financiamiento, de la capacidad de pago del Estado, y del establecimiento de la fuente de pago, con el voto de, al menos, las dos terceras partes de los miembros presentes del Congreso del Estado, en términos de los artículos 117, fracción VIII, tercer párrafo, de la Constitución Política de los Estados Unidos Mexicanos; 23 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y demás relativos de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Durango y sus Municipios.
 
 ###### ARTÍCULO 18.
 
@@ -607,7 +613,9 @@ La Secretaría de Finanzas y de Administración deberá celebrar los instrumento
 
 La vigencia de las autorizaciones contenidas en el presente Artículo es hasta el 31 de diciembre de 2023.
 
-Las autorizaciones contenidas en el presente artículo, fue autorizado (sic) conforme a lo dispuesto en los artículos 117, fracción VIII, tercer párrafo, de la Constitución Política de los Estados Unidos Mexicanos, y demás relativos a la Ley de Disciplina Financiera y de Responsabilidad Hacendaria del Estado de Durango y sus Municipios.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+Las autorizaciones contenidas en el presente Artículo se otorgaron previo análisis del destino de los instrumentos derivados, de la capacidad de pago del Estado, y del establecimiento de la fuente de pago, con el voto de, al menos, las dos terceras partes de los miembros presentes del Congreso del Estado, en términos de los artículos 117, fracción VIII, tercer párrafo, de la Constitución Política de los Estados Unidos Mexicanos; 23 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y demás relativos de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Durango y sus Municipios.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -644,3 +652,13 @@ DR. ESTEBAN ALEJANDRO VILLEGAS VILLAREAL
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. HÉCTOR EDUARDO VELA VALENZUELA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 506 QUE CONTIENE REFORMAS A LOS ARTÍCULOS 15, 16 Y 18, ASÍ COMO LA FRACCIÓN XII DEL ARTÍCULO 17 DE LA LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE DURANGO PARA EL EJERCICIO FISCAL 2023".]
+
+PRIMERO. El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
