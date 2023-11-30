@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2023-09-06"
+last_updated: "2023-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -241,7 +241,33 @@ I. La prestación de los servicios de la atención médica, en sus formas preven
 
 II. La prestación de los servicios de atención materno-infantil;
 
-III. La prestación de los servicios de Planificación Familiar;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+III. La prestación de los servicios de Planificación Familiar, los cuales comprenden:
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+a) La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar y educación sexual, con base en los contenidos y estrategias que establezca el Consejo Nacional de Población;
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+b) La atención y vigilancia de los aceptantes y usuarios de servicios de planificación familiar;
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+c) La asesoría para la prestación de servicios de planificación familiar a cargo de los sectores público, social y privado y la supervisión y evaluación en su ejecución, de acuerdo con las políticas establecidas por el Consejo Nacional de Población;
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+d) La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de planificación familiar;
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+e) La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades de planificación familiar; y,
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+f) La Oclusión Tubería Bilateral (OTB) o Salpingoclasia, como método anticonceptivo definitivo, teniendo únicamente como requisito ser mayor de edad, previo consentimiento informado.
 
 IV. La prestación de los servicios de salud mental;
 
@@ -509,6 +535,10 @@ La Secretaría fijará los lineamientos para el establecimiento de Centros de Co
 
 Es derecho de todo paciente recibir atención médica de emergencia por personal médico capacitado, en los establecimientos de salud, sean públicos o privados de acuerdo a sus necesidades médicas, con el propósito de estabilizar su salud, cuando esté en peligro su vida, un órgano o una función.
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+#### SECCIÓN PRIMERA. ATENCIÓN MATERNO INFANTIL, PARTO RESPETADO Y LACTANCIA MATERNA
+
 > <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2018)</small>
 
 ARTÍCULO 17 A. La mujer embarazada con signos de parto o en cualquier etapa de la gestación que se encuentre y que requiera atención médica de urgencia, debe recibirla de manera prioritaria, inmediata e impostergable, por las instituciones que presten servicios de salud, privilegiando siempre la vida de la madre y de su hijo, sin que medie requerimiento económico como condicionante.
@@ -535,23 +565,143 @@ VII. La aplicación del tamiz neonatal para la detección de cardiopatías cong�
 
 VIII. El diagnóstico oportuno y atención temprana de la displasia en el desarrollo de la cadera, a través del examen clínico en la primera semana del nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteposterior de pelvis, entre el primer y cuarto mes de vida.
 
-#### SECCIÓN PRIMERA. DE LA PREVENCIÓN, DIAGNÓSTICO Y ATENCIÓN DEL CÁNCER INFANTIL Y DE ADOLESCENTES
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+ARTÍCULO 17 C. Las mujeres embarazadas y madres en periodos de embarazo, parto, posparto, puerperio y lactancia, tienen derecho a lo siguiente:
 
-ARTÍCULO 39 TER. El cáncer infantil y de adolescentes, es el que afecta a niñas, niños y adolescentes, siendo una enfermedad provocada por un grupo de células que se multiplican sin control y de manera autónoma, invadiendo localmente y a distancia otros tejidos del cuerpo humano.
+a) Acceso de forma gratuita a servicios de salud materna;
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+b) En el caso de mujeres embarazadas a las que haya sido diagnosticado síndrome de inmunodeficiencia adquirida, contarán con atención especializada a efecto de garantizar su salud y la del niño o niña en gestación;
 
-ARTÍCULO 39 QUATER. La Secretaría en coordinación con el Consejo Estatal para la Prevención y el Tratamiento del Cáncer en la Infancia y la Adolescencia, diseñará e implementará de forma permanente, en coordinación con las autoridades estatales y municipales, las acciones y programas necesarios para la prevención, diagnóstico y atención del cáncer infantil, de manera prioritaria para aquellos menores que no cuenten con algún sistema, seguro o servicio de atención a la salud, dichas acciones y programas deberán ser gratuitos.
+c) Tratándose de partos prematuros, enfermedades prenatales, perinatales o postnatales de madres que no cuenten con ningún tipo de seguridad social, la Secretaría llevará a cabo acciones que garanticen atención médica y quirúrgica especializada bajo los más altos estándares de calidad en el servicio de la salud;
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+d) Decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día de una hora, para amamantar a sus hijos o para realizar la extracción manual de leche;
 
-ARTÍCULO 39 QUINQUIES. El Consejo Estatal para la Prevención y el Tratamiento del Cáncer en la Infancia y la Adolescencia, a través de su Presidente Ejecutivo, enviará al Congreso del Estado, un informe anual de sus actividades durante el mes de febrero de cada año.
+e) Ejercer la lactancia plenamente en cualquier lugar, incluido su centro de trabajo ya sea público o privado, en las mejores condiciones; y,
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+f) Recibir educación e información oportuna, veraz y comprensible sobre los beneficios de la lactancia materna, las técnicas adecuadas para el amamantamiento y las posibles dificultades con sus respectivos medios de solución.
 
-ARTÍCULO 39 SEXIES. Se establece el mes de febrero de cada año, como el «Mes Dorado», con el fin de fortalecer las campañas de detección oportuna, información, conciencia y solidaridad entre la población, en lo que respecta a la enfermedad del cáncer infantil y de adolescentes.
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+ARTÍCULO 17 D. La lactancia materna es aquella proporcionada con leche del seno de la madre que constituye una fuente de alimentación segura, nutritiva y accesible para los bebés y niños pequeños. Idealmente debe ser el único alimento que reciban los neonatos durante sus primeros seis meses de vida, y hasta los dos años de edad acompañada con alimentos complementarios.
+
+La Secretaría conducirá la política estatal en materia de lactancia materna y coordinará la concurrencia de los sectores público, privado y de la sociedad civil, en su ejecución.
+
+El Estado y los sectores público, privado y de la sociedad civil tienen la obligación de proveer protección, apoyo y promoción a la lactancia materna, a efecto de garantizar la alimentación adecuada, el crecimiento y el desarrollo integral de las y los lactantes.
+
+La Secretaría vigilará el cumplimiento de la protección, apoyo y promoción de la lactancia materna, para lo cual deberá coordinarse con las dependencias del Ejecutivo del Estado y demás instancias del sector público y privado que se requieran, conforme a lo siguiente:
+
+a) Personal de salud.
+
+I. El personal de salud de todos los establecimientos del Sistema Estatal de Salud, debe promover y fomentar la práctica de la lactancia materna exclusiva durante los primeros 6 meses de vida del recién nacido y apoyar su mantenimiento hasta los 2 años de edad;
+
+II. En todo establecimiento que proporcione atención a mujeres embarazadas, en etapa de lactancia o a menores de 2 años de edad, el personal de salud debe otorgar información sobre los beneficios de la lactancia materna, los riesgos de uso de los sucedáneos y fórmulas, así como favorecer el desarrollo de habilidades para el adecuado amamantamiento, extracción, conservación y manejo de la leche humana. Estas acciones deben registrarse en el expediente clínico desde la primera consulta prenatal;
+
+III. En todo establecimiento que proporcione atención a mujeres embarazadas y en periodo de lactancia, el personal de salud debe poner atención a los factores de riesgo que puedan ocasionar el abandono de la lactancia y prevenirlos oportunamente, así como vigilar la prescripción y el uso de medicamentos administrados a la madre que representen un riesgo para ella o para los lactantes. Estas acciones deben registrarse en el expediente clínico;
+
+IV. En todo establecimiento que proporcione atención obstétrica, el personal debe aplicar criterios para favorecer la práctica de la lactancia materna exclusiva y la ubicación y convivencia del neonato y su madre en la misma habitación para favorecer el contacto inmediato y permanente, de conformidad con las normas oficiales mexicanas;
+
+V. El personal de salud de los establecimientos que otorgan atención obstétrica, neonatal y/o pediátrica, así como el personal encargado de la nutrición en menores de dos años de edad, debe conocer, difundir, promover y vigilar el cumplimiento del Código Internacional de Comercialización de Sucedáneos de la Leche Materna, de conformidad con las normas oficiales mexicanas;
+
+VI. En todo establecimiento que proporcione atención obstétrica, el personal de salud debe promover el inicio de la lactancia materna en la primera media hora de vida, de conformidad con las normas oficiales mexicanas;
+
+VII. En todo establecimiento que proporcione atención obstétrica y/o a menores de dos años de edad, el personal de salud debe evitar utilizar o recomendar el uso de chupón y/o biberón, de conformidad con las normas oficiales mexicanas;
+
+VIII. En todo establecimiento que proporcione atención neonatal, el personal de atención debe promover y fomentar el inicio de la alimentación enteral con leche humana y en caso de recién nacidos prematuros favorecer la utilización del Método Canguro, esto es, mantenerlos en contacto piel a piel con su madre, de conformidad con las normas oficiales mexicanas; y,
+
+IX. La entrega o utilización de sucedáneos de leche materna o fórmula deberá realizarse bajo prescripción médica, solamente en casos justificados en el Reglamento de Control Sanitario de Productos y Servicios, en el Reglamento de la Ley General de Salud en Materia de Publicidad y demás disposiciones aplicables.
+
+b) Sucedáneos de leche materna y fórmulas.
+
+I. El personal de salud tiene prohibido promover el uso de sucedáneos de leche materna, fórmulas o sus muestras, de conformidad con lo dispuesto por el Reglamento de la Ley General de Salud en Materia de Publicidad, el Reglamento de Control Sanitario de Productos y Servicios y demás disposiciones aplicables;
+
+II. En el Sistema Estatal de Salud y en las estancias o instituciones educativas o de desarrollo infantil, está prohibida la distribución, uso, donación o adquisición a costos subvencionados de sucedáneos de la leche materna y fórmulas, salvo en los casos expresos señalados por el Reglamento de la Ley General de Salud en Materia de Publicidad, el Reglamento de Control Sanitario de Productos y Servicios y demás disposiciones aplicables, a menos que el estado de salud del niño lo requiera, por intolerancia a la leche materna, por ausencia de la madre, por incapacidad de la madre para dar leche o por cualquier razón sanitaria fundada;
+
+III. Los establecimientos para la atención médica, las asociaciones médicas y las escuelas formadoras de personal para la salud, se abstendrán de aceptar donativos de fabricantes o productores de sucedáneos de la leche materna, fórmulas o muestras de éstos, así como materiales o utensilios que sirvan para su preparación, dosificación o administración, salvo en los casos expresos señalados por el Reglamento de la Ley General de Salud en Materia de Publicidad, el Reglamento de Control Sanitario de Productos y Servicios y demás disposiciones aplicables;
+
+IV. El personal de atención a la salud se abstendrá de recibir de los fabricantes o productores de sucedáneos de la leche materna o fórmulas, materiales de promoción, donativos, incentivos financieros, becas o viajes;
+
+V. Los establecimientos para la atención médica se abstendrán de recibir donativos de equipo o de materiales informativos o educativos de productores o fabricantes de sucedáneos de leche humana o fórmulas, salvo en los casos expresos señalados por el Reglamento de la Ley General de Salud en Materia de Publicidad, el Reglamento de Control Sanitario de Productos y Servicios y demás disposiciones aplicables; y,
+
+VI. En los establecimientos para la atención médica del Sistema Estatal de Salud y en las instituciones de desarrollo infantil, está prohibida la exposición de carteles y/o promoción de sucedáneos de leche materna o fórmula para menores de 2 años de edad.
+
+c) Bancos de leche humana y lactarios.
+
+I. Los bancos de leche humana son centros de la Secretaría donde se recolecta y se conserva la leche de madres donantes y posteriormente se ofrece a las y los lactantes que la requieren, pero que no pueden obtenerla de sus madres. Los servicios que prestan los bancos de leche serán gratuitos;
+
+II. Los bancos de leche humana sólo se establecerán en hospitales que otorguen atención obstétrica y neonatal;
+
+III. El personal de los bancos de leche humana es responsable de promover, proteger y fomentar la lactancia materna y realizar actividades de capacitación, recolección, transporte, procesamiento, control de calidad y distribución de la leche humana;
+
+IV. Los lactarios o salas de lactancia, son espacios en instalaciones públicas o privadas, con el ambiente y las condiciones idóneas, en donde las madres pueden amamantar, extraer y conservar la leche para su posterior utilización;
+
+V. Los lactarios o salas de lactancia deben tener al menos lo siguientes:
+
+1. Refrigerador.
+
+2. Mesa.
+
+3. Sillón.
+
+4. Lavabos.
+
+5. Bombas extractoras de leche.
+
+VI. Los lactarios que envíen leche humana al banco de leche, para ser pasteurizada y devuelta para su administración en recién nacidos o lactantes, deben estar a una distancia no mayor de 5 horas de traslado al banco de leche humana;
+
+VII. La leche humana cruda y/o pasteurizada deberá trasladarse en red de frío, manteniendo la leche líquida a un máximo de 5°C y congelada a un máximo de menos 5°C;
+
+VIII. El personal de atención a la salud debe fomentar la donación de leche materna en forma voluntaria y altruista; y,
+
+IX. La leche humana pasteurizada se entregará de forma gratuita a los neonatos y lactantes hospitalizados que así lo requieran, así como a las niñas y niños menores de dos años que se encuentren institucionalizados en el Sistema DIF Estatal.
+
+d) Lactancia materna de madres trabajadoras.
+
+I. La Secretaría, en coordinación con las autoridades competentes, informará y capacitará al personal de las empresas y organizaciones de los sectores público, social y privado sobre la importancia de la lactancia materna y de los dos reposos de media hora al día o de la reducción de una hora de la jornada laboral para amamantar a su hija o hijo o extraerse la leche;
+
+II. Se impulsará la instalación de lactarios en los sectores público, social y privado, en términos de las disposiciones aplicables;
+
+III. Las empresas y organizaciones de los sectores público, social y privado deben impulsar la práctica de la lactancia materna durante los dos primeros años de vida del hijo o hija de la mujer trabajadora; y,
+
+IV. Las instituciones, dependencias y empresas, deben impulsar así como otorgar el tiempo y las facilidades necesarias para la práctica de la lactancia materna de madres trabajadoras, conforme a las disposiciones aplicables.
+
+e) Lactancia en estancias, guarderías, centros de desarrollo infantil o instituciones donde se brinde atención a niñas y niños menores de dos años de edad.
+
+I. El personal debe promover y favorecer la lactancia materna de manera exclusiva los primeros seis meses de vida y complementaria hasta los dos años de edad;
+
+II. El personal debe orientar a las madres o familiares responsables de los menores de 2 años, sobre los beneficios de la lactancia materna, el almacenamiento y conservación adecuados de la leche humana, así como los riesgos de la alimentación con sucedáneos de la leche materna o fórmulas; y,
+
+III. Los directivos o responsables deben impulsar la instalación de lactarios y facilitar su utilización por las madres de menores de 2 años de edad atendidos.
+
+f) Capacitación.
+
+I. El personal de atención a la salud de los establecimientos que brindan atención prenatal, obstétrica, neonatal y/o pediátrica, debe recibir capacitación en contenidos de lactancia materna;
+
+II. Las instituciones formadoras de recursos humanos para la salud, deben integrar en los programas curriculares, contenidos indispensables sobre lactancia materna;
+
+III. Las organizaciones académicas y/o científicas de pediatría, ginecología, medicina familiar, neonatología, enfermería, nutrición o trabajo social, deben promover la capacitación y/o actualización continua en contenidos de lactancia materna; y,
+
+IV. Las organizaciones académicas y/o científicas deben promover el cumplimiento de los principios del Código Internacional de Comercialización de Sucedáneos de la Leche Materna.
+
+g) Promoción.
+
+I. El personal de atención a la salud de los establecimientos de todos los niveles que otorguen atención obstétrica, neonatal y/o pediátrica, así como los promotores de salud, deben realizar acciones permanentes de difusión sobre las ventajas y beneficios de la alimentación con leche materna y reforzarla durante la Semana Mundial de Lactancia Materna que se celebra cada año del 1 al 7 de agosto.
+
+h) Registro de la Información.
+
+I. El registro de la práctica de la lactancia materna, desde el nacimiento y hasta los 2 años de edad, se debe realizar en los formatos institucionales correspondientes al seguimiento de la salud del niño o niña;
+
+II. Es competencia de cada institución entregar a la Secretaría de Salud, los informes respectivos sobre el número de menores de seis meses con leche materna exclusiva y el número de menores de 6 meses a dos años de edad con lactancia materna complementaria;
+
+III. La periodicidad del reporte institucional será semestral y deberá ser entregada los primeros 10 días de julio y enero, respectivamente; y,
+
+IV. La Secretaría de Salud integrará y difundirá anualmente la información estatal de los datos entregados por las instituciones.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+ARTÍCULO 17 E. La Secretaría, en coordinación con la Secretaría de Educación del Estado, implementará las medidas necesarias para optimizar el rendimiento académico de la mujer embarazada y durante el periodo de lactancia materna; además, en coordinación con la Secretaría encargada del desarrollo social y los sistemas DIF estatal y municipales, promoverá la vinculación de programas sociales para la atención a mujeres embarazadas y durante el periodo de lactancia materna, especialmente aquellas que se encuentren en estado de vulnerabilidad social o económica, estableciendo acciones que promuevan el fomento a la paternidad responsable, que propicie la vigencia de los derechos de los menores de edad a la satisfacción de sus necesidades, salud física y mental.
+
+Además, la Secretaría de Salud del Estado en coordinación con la Secretaría de Gobierno deberá promover ante la Secretaría de Relaciones Exteriores y la Secretaría de Comunicaciones y Transportes, el que se lleven a cabo las acciones necesarias para garantizar el derecho al transporte de leche materna, y se faciliten las condiciones para su traslado adecuado.
 
 ###### ARTÍCULO 18.
 
@@ -852,6 +1002,24 @@ Es obligación denunciar ante las autoridades sanitarias del Estado todo hecho, 
 ARTÍCULO 39 BIS. Se concede acción pública para denunciar ante autoridades administrativas, ministeriales o judiciales, las practicas no autorizadas de cirugía plástica y reconstructiva.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 2019)</small>
+
+#### SECCIÓN PRIMERA. DE LA PREVENCIÓN, DIAGNÓSTICO Y ATENCIÓN DEL CÁNCER INFANTIL Y DE ADOLESCENTES
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 39 TER. El cáncer infantil y de adolescentes, es el que afecta a niñas, niños y adolescentes, siendo una enfermedad provocada por un grupo de células que se multiplican sin control y de manera autónoma, invadiendo localmente y a distancia otros tejidos del cuerpo humano.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 39 QUATER. La Secretaría en coordinación con el Consejo Estatal para la Prevención y el Tratamiento del Cáncer en la Infancia y la Adolescencia, diseñará e implementará de forma permanente, en coordinación con las autoridades estatales y municipales, las acciones y programas necesarios para la prevención, diagnóstico y atención del cáncer infantil, de manera prioritaria para aquellos menores que no cuenten con algún sistema, seguro o servicio de atención a la salud, dichas acciones y programas deberán ser gratuitos.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 39 QUINQUIES. El Consejo Estatal para la Prevención y el Tratamiento del Cáncer en la Infancia y la Adolescencia, a través de su Presidente Ejecutivo, enviará al Congreso del Estado, un informe anual de sus actividades durante el mes de febrero de cada año.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 39 SEXIES. Se establece el mes de febrero de cada año, como el «Mes Dorado», con el fin de fortalecer las campañas de detección oportuna, información, conciencia y solidaridad entre la población, en lo que respecta a la enfermedad del cáncer infantil y de adolescentes.
 
 ### CAPÍTULO V. MEDICINA TRADICIONAL Y HERBOLARIA
 
@@ -1591,11 +1759,25 @@ III. Cumplir con las medidas de seguridad y protección civil que establezca la 
 
 Para los efectos de esta Ley, se entiende por peluquería, salones de belleza y estéticas, los establecimientos dedicados a depilar, rasurar, teñir, decolorar, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas, así como el arreglo de las uñas, manos y pies o la aplicación de tratamientos capilares, faciales y corporales de belleza al público en general. Estos establecimientos deberán dar aviso de funcionamiento ante la Secretaría y serán sujetos a control y vigilancia sanitaria.
 
-(REUBICADO, P.O. 28 DE ENERO DE 2013)
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 142.
 
-Los procedimientos de embellecimiento del cuerpo humano son aquellos que se utilizan para modificar sus características externas y superficiales, mediante la aplicación de substancias, productos o preparados de uso externo, los destinados a mejorar su apariencia física, además en el caso de la aplicación de aditamentos o prótesis removibles, perforación, tatuaje o micropigmentación, deberá ser realizado por personal calificado y autorizado para ejercer la profesión por la autoridad educativa, siempre que no haya intervención quirúrgica y no pongan en riesgo la salud del usuario. Los establecimientos dedicados a estas actividades deberán contar con autorización sanitaria y se sujetarán a lo dispuesto por la normatividad aplicable.
+Los procedimientos de alteración del cuerpo humano son aquellos que se utilizan para modificar sus características externas y superficiales, a través de la aplicación de substancias, productos o preparados de uso externo, ya sean destinados a modificar su apariencia física o para expresar algún mensaje, mediante aditamentos, prótesis permanentes o removibles, tatuajes, micropigmentaciones o perforaciones, siempre y cuando no se realice una intervención quirúrgica o se ponga en riesgo la salud de la persona.
+
+Los establecimientos donde se ofrezcan estos procedimientos deberán tener autorización sanitaria, se sujetarán a la normatividad en la materia y solo podrán usar productos, materiales e instrumentos que tengan el aval de la autoridad sanitaria de conformidad con los parámetros establecidos en las normas mexicanas correspondientes, y en lugares que cumplan los requisitos de higiene y de prevención en la salud.
+
+Dichos procedimientos solo podrán ser realizados por personal calificado o certificado para poder ejercer la profesión o la actividad por la autoridad educativa correspondiente.
+
+Queda prohibido el ejercicio de estos procedimientos en locales o espacios en la vía pública, ya sean semi fijos o ambulantes; la autoridad sanitaria establecerá, en conjunto con los ayuntamientos, operativos para inhibir la instalación y operación de los mismos, así como las sanciones correspondientes a quienes infrinjan el presente artículo.
+
+Queda prohibido realizar tatuajes, micropigmentaciones, perforaciones, aplicación de aditamentos o prótesis a personas menores de 18 años de edad, así como a aquellas que no se encuentren en pleno ejercicio de sus facultades mentales.
+
+Las personas de dieciséis y diecisiete años de edad, podrán someterse a dichos procedimientos cuando cuenten con la autorización de quien ejerza la patria potestad o de su tutor, previa comprobación de ese carácter, y en presencia de este. La autorización deberá constar por escrito en el formato aprobado por la Secretaría y publicado en el Periódico Oficial del Estado, mismo que deberá contener al menos, el consentimiento informado, los riesgos, irreversibilidad y cuidados que deben observarse posterior al procedimiento.
+
+Dicha autorización deberá estar acompañada de una copia del documento oficial que acredite la relación de parentesco o el ejercicio de la patria potestad o tutela con el menor de edad, según corresponda, así como de una copia de la autorización sanitaria del establecimiento de que se trate.
+
+La omisión de esta disposición se sancionará con multa de hasta dos mil Unidades de Medida y Actualización conforme a lo establecido en la Ley General de Salud y causará de manera inmediata la suspensión y/o revocación definitiva de la autorización sanitaria del local donde se cometió la falta, sin perjuicio de las responsabilidades penales que pudieran derivar.
 
 (REUBICADO, P.O. 28 DE ENERO DE 2013)
 
@@ -2870,3 +3052,31 @@ SEGUNDO. El Concejo Mayor de Cherán, el Concejo Municipal de Penjamillo, así c
 TERCERO. Los establecimientos mercantiles y de servicios establecidos en el presente Decreto, contarán con un plazo no mayor al mes de diciembre del año 2023, para dar cumplimiento a lo establecido en el presente Decreto.
 
 CUARTO. Los poderes del Estado, los organismos autónomos, el Concejo Mayor de Cherán, el Concejo Municipal de Penjamillo, así como los 111 ayuntamientos, contarán con un plazo no mayor al mes de diciembre del año 2023, en los espacios que así lo permitan, para dar cumplimiento a lo establecido en el presente Decreto.
+
+P.O. 30 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 466 POR EL QUE "SE REFORMA LA FRACCIÓN III, Y SE LE ADICIONAN LOS INCISOS A), B), C), D), E) Y F) DEL ARTÍCULO 6º DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 471 POR EL QUE “SE ADICIONA LA SECCIÓN PRIMERA «ATENCIÓN MATERNO INFANTIL, PARTO RESPETADO Y LACTANCIA MATERNA», AL CAPÍTULO I DENOMINADO «DISPOSICIONES COMUNES», DEL TÍTULO SEGUNDO DENOMINADO «SISTEMA ESTATAL DE SALUD», MISMA QUE QUEDA INTEGRADA POR LOS ARTÍCULOS 17 A Y 17 B VIGENTES, ASÍ COMO POR LOS ARTÍCULOS 17 C, 17 D Y 17 E QUE SE ADICIONAN, TODOS A LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. Corresponderá al Poder Ejecutivo elaborar los formatos, reglamentar, fomentar y propiciar las condiciones administrativas, presupuestarias y materiales para hacer efectivo el derecho a la salud y a la nutrición de niños y niñas a través de la lactancia materna, conforme al presente Decreto. Lo anterior, en un término no mayor a ciento ochenta días hábiles posteriores a la publicación del presente Decreto.
+
+TERCERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+P.O. 30 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 472.- ÚNICO. SE REFORMA EL ARTÍCULO 142 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los ayuntamientos del Estado realizarán la adecuación a su reglamentación en materia de vía pública para cumplir con lo estipulado en el presente Decreto, y elaborarán un listado de estudios y establecimientos comerciales dedicados a la práctica de tatuajes, micropigmentaciones y perforaciones, a efecto de comprobar su legal funcionamiento, en un máximo de 90 días a su entrada en vigencia, incluyendo las sanciones correspondientes.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado deberá publicar en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, dentro de los 90 días hábiles siguientes a la publicación del presente Decreto, los formatos a que refiere el artículo que se reforma.
+
+CUARTO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
