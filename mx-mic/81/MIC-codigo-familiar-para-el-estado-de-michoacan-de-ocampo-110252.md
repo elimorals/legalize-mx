@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-110252"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-09-30"
-last_updated: "2021-04-05"
+last_updated: "2023-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2023.
 
 Código publicado en la Décima Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 30 de septiembre de 2015.
 
@@ -2538,6 +2538,10 @@ Se presumen hijos del concubino y de la concubina:
 I. Los nacidos después de ciento ochenta días contados desde que comenzó el concubinato; y,
 
 II. Los nacidos dentro de los trescientos días siguientes al en que cesó la vida común entre el concubino y la concubina.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 394 bis. En todos los casos en que se vean involucrados los derechos de custodia y convivencia de niñas, niños y adolescentes, el tribunal invitará a las partes a acudir a recibir terapia psicológica, brindándoles los auxilios y salvaguardas necesarias, para que puedan acudir de forma efectiva al lugar de su elección o ante las autoridades de salud mental con que cuenta el Estado. Será potestad de las partes acudir a la misma, sin mayores consecuencias jurídicas nocivas, y podrá ser solicitada por éstas en cualquier etapa del proceso, incluidas las preliminares a éste o durante su fase ejecutiva.
 
 ## TÍTULO DÉCIMO. PATRIA POTESTAD
 
@@ -7676,3 +7680,9 @@ Considerando que la pandemia es una situación delicada y que por tanto es injus
 CUARTO. Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, deberán concluirse y ejecutarse conforme las disposiciones vigentes antes de la entrada en vigor de éste último.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 463 POR EL QUE “SE ADICIONA UN ARTÍCULO 394 BIS AL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
