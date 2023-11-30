@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-atencion-y-proteccion-de-los-migrantes-y-sus-123004
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-18"
-last_updated: "2021-05-18"
+last_updated: "2023-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2023.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 18 de agosto de 2017.
 
@@ -49,7 +49,9 @@ LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO D
 
 Las disposiciones de la presente Ley son de orden público e interés social, de observancia general y obligatoria en el Estado, teniendo por objeto:
 
-I. Promover y garantizar los derechos humanos de los migrantes y sus familias, valorando y respetando su condición de migrante;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+I. Promover, proteger, respetar y garantizar los derechos humanos bajo los principios de universalidad, interdependencia, indivisibilidad y progresividad de los migrantes y sus familias, valorando y respetando su condición de migrante;
 
 II. Impulsar políticas públicas a fin de garantizar su desarrollo humano con dignidad; y,
 
@@ -429,6 +431,10 @@ VII. Las demás que le señale el Ayuntamiento mediante acuerdo, esta Ley u otra
 
 El Consejo Estatal de Migración, es un órgano colegiado de participación, asesoría, consulta y evaluación, para el diseño, elaboración, difusión e implementación de las políticas públicas para los migrantes y sus familias.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+El Consejo Estatal de Migración deberá renovarse cada tres años y no podrá mantenerse vacante ningún espacio de integración por más de sesenta días naturales, para lo cual, la Secretaría deberá tomar las providencias necesarias con estricto apego a lo estipulado por esta Ley y su Reglamento.
+
 ###### Artículo 20.
 
 El Consejo Estatal:
@@ -473,11 +479,15 @@ B. Elección de los Consejeros Migrantes:
 
 I. Los Consejeros Migrantes serán electos mediante convocatoria pública abierta que deberá contener las bases, procedimientos y tiempos para participar y ser electo Consejero Migrante, el proyecto estará a cargo del Secretario Ejecutivo, quien lo someterá a aprobación del Consejo Estatal en funciones;
 
-II. En la convocatoria se deberán establecer los criterios por los cuales se seleccionarán a los Consejeros Migrantes, impulsando la inclusión y participación de las mujeres, desde una perspectiva de género;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+II. En la convocatoria se deberán establecer los criterios por los cuales se seleccionarán a los Consejeros Migrantes, promoviendo el principio de paridad de género en la integración y postulación de candidatos, dicha convocatoria impulsará la inclusión y participación de las mujeres, desde una perspectiva de género;
 
 III. Los aspirantes a Consejero Migrante deberán registrarse por fórmula. Las fórmulas estarán integradas por propietario y suplente;
 
-IV. La facultad de designar a los Consejeros Migrantes será exclusiva del Presidente del Consejo Estatal, previo dictamen emitido por el Secretario Ejecutivo del mismo y la opinión de los demás integrantes. En la designación los consejeros migrantes serán en proporción al número de michoacanos distribuidos por estados en el exterior, debiendo privilegiar la experiencia, trayectoria y liderazgo en el tema de migración y derechos humanos;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+IV. La facultad de designar a los Consejeros Migrantes será exclusiva del Presidente del Consejo Estatal, previo dictamen emitido por el Secretario Ejecutivo del mismo y la opinión de los demás integrantes. En la designación de los consejeros migrantes, se procurará que exista por región, al menos un integrante michoacano que tuviera calidad de migrante, originario o residente de cada una de las regiones que conforman el Estado de Michoacán, en los términos del Decreto de Regionalización para la Planeación y Desarrollo del Estado de Michoacán que se encuentre vigente, debiendo privilegiar la experiencia, trayectoria y liderazgo en el tema de migración y derechos humanos;
 
 V. Los Consejeros Migrantes, durarán en su encargo un periodo de tres años y no podrán ser designados nuevamente para el periodo inmediato siguiente;
 
@@ -491,7 +501,9 @@ I. Los consejeros tendrán derecho a voz y voto. Su encargo será de carácter h
 
 II. Las sesiones del Consejo Estatal serán ordinarias, extraordinarias, presenciales, virtuales o por correo electrónico. De cada una se levantará un acta que tendrán derecho a suscribir los que estuvieron presentes;
 
-III. El Secretario Ejecutivo deberá emitir la convocatoria a sesiones ordinarias cuando menos con treinta días hábiles de anticipación, anexando un proyecto de orden del día para su conocimiento. En el caso de las sesiones extraordinarias, se podrá omitir el término referido, y se aplicará al respecto al menos cuatro días hábiles de igual anticipación;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+III. El Secretario Ejecutivo deberá emitir la convocatoria a sesiones ordinarias cuando menos con quince días hábiles de anticipación, anexando un proyecto de orden del día para su conocimiento. En el caso de las sesiones extraordinarias, se podrá omitir el término referido, y se aplicará al respecto al menos cuatro días hábiles de igual anticipación;
 
 IV. El Consejo Estatal sesionará, al menos dos veces al año de manera ordinaria, en la capital del Estado o en otro lugar distinto, previo acuerdo de las dos terceras partes de sus integrantes, y de forma extraordinaria cuando así lo determine el Presidente del Consejo Estatal o a solicitud escrita de las tres cuartas partes de los integrantes;
 
@@ -527,7 +539,9 @@ X. Proponer mecanismos y acciones para favorecer la coordinación interinstituci
 
 XI. Sugerir mecanismos y procedimientos ante los distintos niveles de gobierno para la asistencia y apoyo de los migrantes y sus familias que así lo soliciten;
 
-XII. Promover la celebración de convenios y acuerdos de coordinación con instituciones nacionales e internacionales públicas o privadas en favor de los migrantes y sus familias;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+XII. Promover la celebración de convenios y acuerdos de coordinación con instituciones nacionales e internacionales públicas o privadas en favor de los migrantes y sus familias; incluidos aquellos en materia de atención a personas en situación de repatriación;
 
 XIII. Evaluar los programas y acciones que se establezcan en materia de protección a migrantes y sus familias;
 
@@ -623,6 +637,10 @@ Si en un municipio existiera la presencia de jornaleros agrícolas, el Centro Mu
 
 El Consejo Municipal de Migración es el órgano de participación, orientación, asesoría y consulta del Centro Municipal, se regulará y constituirá conforme a lo establecido en la presente Ley, y demás normatividad aplicable.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+El Consejo Municipal de Migración deberá renovarse cada tres años y no podrá mantenerse vacante ningún espacio de integración por más de sesenta días naturales, para lo cual, la autoridad municipal deberá tomar las providencias necesarias con estricto apego a lo estipulado por esta Ley y su Reglamento.
+
 A. Integración:
 
 I. Un Presidente, que es el Presidente Municipal, quien será suplido en sus ausencias por el Síndico;
@@ -643,7 +661,9 @@ B. Elección de los Consejeros Migrantes:
 
 I. Los consejeros migrantes serán electos mediante convocatoria pública abierta que deberá contener las bases, procedimientos y tiempos para participar y ser electo Consejero Migrante, el proyecto deberá ser elaborado por el Secretario Técnico, quien lo someterá a aprobación del Consejo Municipal;
 
-II. En la convocatoria se deberán establecer los criterios por los cuales se seleccionarán a los Consejeros Migrantes, debiendo privilegiar su experiencia, trayectoria y apoyo de asociación migrante;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+II. En la convocatoria se deberán establecer los criterios por los cuales se seleccionarán a los Consejeros Migrantes, debiendo privilegiar su experiencia, trayectoria y apoyo de asociación migrante, dicha convocatoria impulsará y promoverá la inclusión y participación de las mujeres;
 
 III. Los aspirantes a Consejero Migrante deberán registrarse por fórmula. Las fórmulas estarán integradas por propietario y suplente;
 
@@ -1131,6 +1151,94 @@ Las multas deberán ser pagadas en la Secretaría de Finanzas y Administración 
 
 El recurso que se imponga por las multas consecuencia de este procedimiento, deberá enterarse a la Secretaría. Dicho recurso se aplicará en campañas de difusión sobre los derechos de los migrantes y sus familias.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+## TÍTULO QUINTO. DERECHOS DE LOS MIGRANTES
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+### CAPÍTULO PRIMERO. MIGRANTES MICHOACANOS EN CONDICIÓN DE ALTA VULNERABILIDAD Y EN SITUACIÓN DE REPATRIACIÓN
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 53.
+
+La Secretaría podrá revisar los acuerdos y convenios en materia de repatriación, y en su caso generar propuestas de actualización.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 54.
+
+La Secretaría podrá celebrar acuerdos y convenios con el Instituto Nacional de Migración que permitan la atención de las personas en situación de retorno y/o repatriación segura de los migrantes michoacanos que regresan de manera voluntaria o forzosa al Estado, procurando garantizar la seguridad personal en todo momento.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 55.
+
+La Secretaría podrá coadyuvar con el Instituto Nacional de Migración para atender los casos de retorno y/ o en situación de repatriación, a fin de disminuir el riesgo de vulnerabilidad de las personas migrantes durante el traslado a su destino dentro del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 56.
+
+Las acciones que implemente la Secretaría deberán estar enfocadas a lograr la reintegración social, laboral, educativa y cultural de los migrantes michoacanos que retornen o hayan sido repatriados al Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 57.
+
+La Secretaría elaborará e implementará un protocolo específico para la atención de personas en situación de vulnerabilidad y repatriación, con enfoque diferenciado para las niñas, niños y adolescentes no acompañados.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+### CAPÍTULO SEGUNDO. DE LA AYUDA HUMANITARIA Y REPATRIACIÓN DE CADÁVERES
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 58.
+
+El Ejecutivo del Estado a través de la Secretaría brindarán apoyo en la medida de las disposiciones presupuestales, a los michoacanos localizados temporal o definitivamente fuera del territorio estatal que requieran apoyo para ser trasladados a su localidad de origen en el Estado, en caso de repatriación forzada, casos de enfermedades graves o desastres naturales o urbanos.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 59.
+
+Cuando un migrante michoacano sufra de una enfermedad grave que requiera cuidados especiales y carezca de los recursos económicos suficientes para su tratamiento fuera del territorio estatal, podrá solicitar a la Secretaría, apoyo para ser trasladado a la localidad de origen en el Estado, la Secretaría promoverá las condiciones necesarias, para que una vez que se encuentre en el Estado, sea canalizado a las instituciones de salud.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 60.
+
+Para ser sujeto de los beneficios señalados en el artículo anterior, el beneficiario deberá presentar, con independencia de las señaladas en las reglas de operación del programa correspondiente:
+
+I. Solicitud, explicando el motivo, alcance y naturaleza del apoyo solicitado;
+
+II. Constancia médica expedida por una institución pública o privada, en la que señale las características y naturaleza de la enfermedad; e,
+
+III. Identificación con la que acredite su identidad.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 61.
+
+La Secretaría promoverá las acciones necesarias para salvaguardar, procurar refugio temporal, asistencia médica y/o social, a las personas que retornan al Estado de Michoacán a razón de un desastre natural o urbano, un atentado terrorista o accidentes colectivos que afecten o pongan en peligro su vida o patrimonio en el extranjero, para lo cual podrá coordinarse con otras instituciones públicas o privadas en el ámbito estatal, nacional e internacional.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 62.
+
+La Secretaría en coordinación con los ayuntamientos, de acuerdo al ámbito de su competencia, deberán brindar todas las facilidades para el trámite y expedición de la documentación oficial ante el fallecimiento de una persona migrante fuera del territorio del Estado.
+
+Para dar cumplimiento a lo dispuesto por el párrafo anterior, la Secretaría podrá realizar las gestiones correspondientes ante las autoridades estatales y federales a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+###### Artículo 63.
+
+La familia del migrante que haya perdido la vida fuera del territorio del Estado, podrá solicitar asesoría a la Secretaría para la realización de los trámites de internación al territorio nacional o estatal según corresponda, a fin de realizar su incineración o inhumación en el Estado.
+
+La Secretaría en coordinación con el Ayuntamiento o comunidades de origen de donde será sepultado, podrán apoyar económicamente el proceso de traslado, así como su incineración o inhumación, procurando brindar las facilidades necesarias para que éste se realice en un marco de dignidad y respeto.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -1208,3 +1316,11 @@ P.O. 18 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 521 POR EL QUE "SE REFORMA EL PÁRRAFO SEGUNDO, LAS FRACCIONES III Y XII Y SE ADICIONA LA FRACCIÓN XIII RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL PÁRRAFO TERCERO DEL ARTÍCULO 4; SE ADICIONA EL ARTÍCULO 4 BIS; SE REFORMA EL ARTÍCULO 6; SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 7; SE REFORMAN LAS FRACCIONES III Y XXIII Y SE ADICIONAN LAS FRACCIONES XXIV, XXV, XXVI, XXVII, XXVIII Y XXIX RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 12; Y, SE REFORMA EL PRIMER PÁRRAFO Y SU FRACCIÓN VII DEL ARTÍCULO 25 Y LA FRACCIÓN IV DEL ARTÍCULO 31, TODOS DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, para todos los efectos legales a que haya lugar.
+
+P.O. 30 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 452 POR EL QUE “SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 1, LAS FRACCIONES II Y IV DEL APARTADO B, LA FRACCIÓN III DEL APARTADO C Y LA FRACCIÓN XII DEL APARTADO D DEL ARTÍCULO 20 Y LA FRACCIÓN II DEL APARTADO B DEL ARTÍCULO 24; Y, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 19; UN SEGUNDO PÁRRAFO AL ARTÍCULO 24 RESPETANDO EL ORDEN DE LOS APARTADOS Y FRACCIONES SUBSECUENTES, EL TÍTULO QUINTO Y LOS CAPÍTULOS PRIMERO Y SEGUNDO QUE CONTIENEN LOS ARTÍCULOS 53 AL 63, TODOS DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
+
+SEGUNDO. Para los efectos de las reformas que implican un impacto presupuestal por parte de la Secretaría del Migrante del Gobierno del Estado de Michoacán, éstas entrarán en vigor a partir del 1 de enero del año 2024, conforme a la asignación de los recursos etiquetados para la Administración Pública Estatal correspondiente al Ejercicio Fiscal 2024.
