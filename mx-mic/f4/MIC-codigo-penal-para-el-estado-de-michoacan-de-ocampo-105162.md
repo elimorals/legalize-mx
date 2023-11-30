@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2023-03-30"
+last_updated: "2023-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2023.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -1197,11 +1197,13 @@ Cuando la ley no prevenga otra cosa, la acción penal que nazca de un delito que
 
 Pero una vez llenado el requisito de procedibilidad dentro del plazo antes mencionado, la prescripción seguirá corriendo según las reglas para los delitos perseguibles de oficio.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
 ###### Artículo 105.
 
-Prescripción cuando el sujeto pasivo sea menor de edad
+Imprescriptibilidad cuando el sujeto pasivo sea menor de edad.
 
-En los casos de los delitos de Violación, Abuso Sexual y los Contra el Libre Desarrollo de la Personalidad, que hubiesen sido cometidos en contra de una persona menor de dieciocho años de edad, se observarán las reglas para la prescripción de la acción penal contenidas en este capítulo, pero el inicio del cómputo de los plazos comenzará a partir del día en que la víctima cumpla los dieciocho años de edad.
+En los casos de los delitos de Violación, Abuso Sexual, Contra el Libre Desarrollo de la Personalidad y Contra la Libertad Personal que hubiesen sido cometidos en contra de una persona menor de dieciocho años de edad, la acción y las penas serán imprescriptibles.
 
 ###### Artículo 106.
 
@@ -4693,7 +4695,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 17 DE FEBRERO DE 2023.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 344 POR EL QUE “SE ACEPTAN PARCIALMENTE LAS OBSERVACIONES REALIZADAS POR EL TITULAR DEL PODER EJECUTIVO DEL ESTADO, AL DECRETO LEGISLATIVO NÚMERO 203, DE FECHA 29 DE SEPTIEMBRE DE 2022, MEDIANTE EL CUAL SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22, EL PRIMER PÁRRAFO DEL ARTÍCULO 31, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 71, EL PRIMER PÁRRAFO DEL ARTÍCULO 119, LAS FRACCIONES IV, V, VII, VIII Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 120, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 122; SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 22, EL TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 71, UN SEGUNDO PÁRRAFO AL ARTÍCULO 118 Y LAS FRACCIONES X, XI Y XII ASÍ COMO UN TERCERO, CUARTO, QUINTO, SEXTO Y SÉPTIMO PÁRRAFOS AL ARTÍCULO 120, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 344 POR EL QUE "SE ACEPTAN PARCIALMENTE LAS OBSERVACIONES REALIZADAS POR EL TITULAR DEL PODER EJECUTIVO DEL ESTADO, AL DECRETO LEGISLATIVO NÚMERO 203, DE FECHA 29 DE SEPTIEMBRE DE 2022, MEDIANTE EL CUAL SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22, EL PRIMER PÁRRAFO DEL ARTÍCULO 31, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 71, EL PRIMER PÁRRAFO DEL ARTÍCULO 119, LAS FRACCIONES IV, V, VII, VIII Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 120, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 122; SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 22, EL TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 71, UN SEGUNDO PÁRRAFO AL ARTÍCULO 118 Y LAS FRACCIONES X, XI Y XII ASÍ COMO UN TERCERO, CUARTO, QUINTO, SEXTO Y SÉPTIMO PÁRRAFOS AL ARTÍCULO 120, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
@@ -4720,3 +4722,9 @@ P.O. 30 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 346 POR EL QUE “SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 205 BIS; SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO VIGÉSIMO SEGUNDO, DEL LIBRO SEGUNDO Y SU ARTÍCULO 298; Y, SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 212, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 464 POR EL QUE "SE REFORMA EL ARTÍCULO 105 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
