@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-1355
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2023-06-04"
+last_updated: "2023-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 31 de diciembre de 1998.
 
@@ -969,13 +969,17 @@ VIII.- Se trate de servicios de mantenimiento, conservación, restauración y re
 
 IX.- Se trate de adquisiciones provenientes de personas físicas o morales que en razón de encontrarse en estado de liquidación o disolución, o bien, bajo intervención judicial, ofrezcan bienes en condiciones excepcionalmente favorables;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2023)</small>
 
-X.- Se trate de servicios profesionales prestados por personas físicas, y
+X.- Se trate de servicios profesionales prestados por personas físicas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2023)</small>
 
-XI.- Se trata de adquisiciones, arrendamientos y servicios que garanticen el correcto desarrollo de las funciones de Seguridad Pública y la reinserción social, en los términos previstos en las leyes.
+XI.- Se realice con asociaciones no lucrativas debidamente constituidas conforme a las leyes mexicanas, que presenten mejores condiciones de precios en el mercado y que representen un beneficio económico tangible; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE NOVIEMBRE DE 2023)</small>
+
+XII.- Se trate de adquisiciones, arrendamientos y servicios que garanticen el correcto desarrollo de las funciones de seguridad pública y la reinserción social, en los términos previstos en las leyes.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2008)</small>
 
@@ -1274,3 +1278,11 @@ P.O. 4 DE JUNIO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan a la presente.
+
+P.O. 30 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 505 QUE CONTIENE REFORMA AL ARTÍCULO 58 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
