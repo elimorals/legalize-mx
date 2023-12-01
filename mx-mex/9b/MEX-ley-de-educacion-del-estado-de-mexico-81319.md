@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2023-10-30"
+last_updated: "2023-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DE GOBIERNO DEL 30 DE OCTUBRE DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el viernes 6 de mayo de 2011.
 
@@ -45,13 +43,15 @@ LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público, interés social y de observancia general en el Estado de México y tienen como objeto regular la educación que imparten el Estado, los municipios, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, en términos de lo dispuesto en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la Ley General del Servicio Profesional Docente y la Ley del Instituto Nacional para la Evaluación de la Educación.
+Las disposiciones de esta Ley son de orden público, interés social y de observancia general en el Estado de México y tienen como objeto regular la educación que imparten el Estado, los municipios, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, en términos de lo dispuesto en los artículos 1 º y 3º de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la Ley General del Servicio Profesional Docente y la Ley del Instituto Nacional para la Evaluación de la Educación.
 
-Para cumplir con lo dispuesto en la presente Ley, el Estado tomará en cuenta el carácter prioritario de la educación pública para los fines del desarrollo de la entidad.
+> <small>(REFORMADO, G.G. 1 DE DICIEMBRE DE 2023)</small>
+
+Para cumplir con lo dispuesto en la presente Ley, el Estado tomará en cuenta el carácter prioritario de la educación pública para los fines del desarrollo de la entidad y del interés superior de niñas, niños y adolescentes, para propiciar igualdad de género y una vida libre de violencia y discriminación. La función social educativa de las universidades y demás instituciones de educación superior a que se refiere la fracción VII del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, se regulará por las leyes que rigen a dichas instituciones.
 
 > <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
 
@@ -157,6 +157,14 @@ XXI. Reconocimiento, a las distinciones, apoyos y opciones de desarrollo profesi
 
 XXII. Mediador Escolar, a los maestros, padres de familia o tutores y/o alumnos de cada institución educativa que tengan como fin la prevención o solución de los conflictos en términos de la Ley de Mediación, Conciliación y Promoción de la Paz Social para el Estado de México y su Reglamento.
 
+> <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
+
+XXIII. Gestión menstrual, se reconoce como el derecho al que tienen prioritariamente las niñas, adolescentes, mujeres y personas con capacidad de menstruar como parte de sus derechos sexuales y reproductivos, cuya finalidad principal es alcanzar la igualdad de género y espacios libres de violencia y discriminación.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN XXIII, G.G. 1 DE DICIEMBRE DE 2023.]</small>
+
+El Estado proporcionará el suministro efectivo, gratuito e irrestricto de productos para la gestión menstrual a niñas y adolescentes, de acuerdo con la suficiencia presupuestal disponible, priorizando a las niñas y adolescentes educandas que se encuentren en zonas de alta marginación, lo cual les permitirá tener un desarrollo integral.
+
 > <small>(ADICIONADO, G.G. 11 DE MARZO DE 2014)</small>
 
 Además de los términos anteriores serán aplicables en el Sistema Educativo Estatal los contenidos en el artículo 4 de la Ley General del Servicio Profesional Docente.
@@ -165,11 +173,15 @@ Además de los términos anteriores serán aplicables en el Sistema Educativo Es
 
 #### SECCIÓN PRIMERA. DEL DERECHO A LA EDUCACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 6.
 
-En el Estado de México toda persona tiene derecho a recibir educación de calidad en condiciones de equidad y, por lo tanto, las mismas oportunidades de acceso, tránsito y permanencia en el Sistema Educativo con solo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
+En el Estado de México toda persona tiene derecho a recibir educación de calidad en condiciones de equidad, libre de discriminación y violencia, por lo tanto, las mismas oportunidades de acceso, tránsito y permanencia en el Sistema Educativo con solo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
+
+> <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2023)</small>
+
+En este sentido, las instituciones educativas y de salud del Gobierno del Estado de México, deberán priorizar aquellas instituciones ubicadas en localidades con alta marginación.
 
 > <small>(ADICIONADO, G.G. 20 DE AGOSTO DE 2012)</small>
 
@@ -213,9 +225,11 @@ Se prohíbe el pago de cualquier contraprestación que impida o condicione la pr
 
 En ningún caso se podrá condicionar la inscripción, el acceso a la escuela, la aplicación de evaluaciones o exámenes, la entrega de documentación a los educandos o afectar en cualquier sentido la igualdad en el trato a los alumnos, al pago de contraprestación alguna.
 
+> <small>(REFORMADO, G.G. 1 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 10.
 
-La educación que el Estado imparta promoverá la participación activa del educando, estimulando su iniciativa y su sentido de responsabilidad social en un entorno que fomente la libertad y la democracia.
+La educación que el Estado imparta promoverá la participación activa del educando, estimulando su iniciativa, su sentido de responsabilidad social en un entorno que fomente la libertad, la democracia, la igualdad, el respeto y la perspectiva de género.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2017)</small>
 
@@ -243,6 +257,10 @@ II. Desarrollar programas de apoyo a los maestros que presten sus servicios en l
 
 II Bis. Desarrollar bajo el principio de inclusión, programas de capacitación, asesoría y apoyo a los maestros que atiendan alumnos con discapacidad y con aptitudes sobresalientes en términos de lo dispuesto por la presente Ley.
 
+> <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
+
+II Ter. Ofrecer a docentes y personal académico, material didáctico y capacitación adecuada en materia de salud y gestión menstrual, con la finalidad de brindar herramientas que permitan ayudar a las y los estudiantes, de zonas de alta marginación de acuerdo con la suficiencia presupuestal disponible;
+
 III. Promover la prestación de servicios educativos que apoyen en forma permanente el aprendizaje y el aprovechamiento de los educandos;
 
 > <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
@@ -263,7 +281,9 @@ VII. Promover la creación de servicios de educación media superior y superior 
 
 VIII. Establecer y fortalecer los sistemas de educación abierta y a distancia como opciones educativas que determine la Autoridad Educativa Federal;
 
-IX. Promover para los educandos programas de becas y apoyos económicos con perspectiva de género;
+> <small>(REFORMADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
+
+IX. Promover para los educandos programas de becas y apoyos económicos con perspectiva de género, respetando derechos de igualdad y evitando discriminación;
 
 X. Entregar reconocimientos a los particulares, instituciones, asociaciones y organizaciones civiles que contribuyan al mejoramiento de la educación pública, a la igualdad de oportunidades de acceso a la educación y al abatimiento del rezago educativo;
 
@@ -321,9 +341,9 @@ XXI. Implementar mecanismos para la atención, canalización y seguimiento de lo
 
 XXII. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite en los centros educativos.
 
-> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
 
-XXIII. Elaborar protocolos de actuación sobre situaciones de acoso o violencia escolar para el personal docente y administrativo y para quienes ejerzan la patria potestad, tutela o guarda y custodia.
+XXIII. Elaborar protocolos de actuación sobre situaciones de acoso, violencia y discriminación escolar para el personal docente, administrativo, educandos y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
 
 > <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
@@ -372,6 +392,10 @@ b) Impulsar hábitos de gasto responsable y de ahorro con perspectiva de mediano
 c) Desarrollar y fortalecer competencias que les permitan tomar decisiones financieras que potencien sus recursos, y
 
 d) Promover la generosidad en el uso de los recursos, en vista de promover la solidaridad social.
+
+> <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
+
+XXXIII. Diseñar e implementar planes, programas y acciones donde se priorice el interés superior de niñas, niños y adolescentes, la igualdad de género y la gestión menstrual, así como otorgar becas y demás apoyos económicos para productos relacionados con la menstruación, de acuerdo con la suficiencia presupuestal disponible.
 
 #### SECCIÓN TERCERA. DEL CRITERIO Y LOS FINES DE LA EDUCACIÓN
 
@@ -451,9 +475,9 @@ XVII. Impulsar la creación artística y propiciar la adquisición, el enriqueci
 
 XVIII. Promover la equidad de género y contribuir a erradicar la discriminación;
 
-> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
 
-XIX. Contribuir al desarrollo de una cultura de la salud, promoviendo la educación física, la práctica del deporte, los hábitos de higiene y de sana alimentación; promover y fomentar programas de educación sobre salud bucodental y la práctica de hábitos de higiene dental, así como la educación sexual y la prevención de adicciones a través del conocimiento de sus causas, riesgos y consecuencias, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+XIX. Contribuir al desarrollo de una cultura de la salud, promoviendo la educación física, la práctica del deporte, los hábitos de higiene y de sana alimentación; promover y fomentar programas de educación sobre salud bucodental, y la práctica de hábitos de higiene dental, así como la educación sexual y reproductiva, la salud e higiene menstrual y la prevención de adicciones a través del conocimiento de sus causas, riesgos y consecuencias, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez;
 
 XX. Difundir los derechos y deberes de los educandos y promover su respeto;
 
@@ -565,9 +589,13 @@ IX. Participar con la Autoridad Educativa Federal en la operación de los mecani
 
 X. Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias;
 
-> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE DICIEMBRE DE 2023)</small>
 
-XI. Las demás que con tal carácter establezcan la Ley General, esta Ley y otras disposiciones aplicables.
+XI. Emitir los criterios para el diseño e implementación de planes, programas y acciones donde se priorice el interés superior de niñas, niños y adolescentes, la igualdad de género y la gestión menstrual, así como para el otorgamiento de becas y demás apoyos económicos para este tipo de gestión de acuerdo con la suficiencia presupuestal disponible; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 1 DE DICIEMBRE DE 2023)</small>
+
+XII. Las demás que con tal carácter establezcan la Ley General, esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 25.
 
@@ -753,7 +781,9 @@ XXXIII. Promover la participación de la sociedad en la educación, en términos
 
 XXXIV. Promover la vinculación de las instituciones de educación media superior y superior con los sectores productivos;
 
-XXXV. Promover acciones de capacitación y difusión, dirigidas a padres de familia o tutores, para que orienten adecuadamente la educación física y nutricional de sus hijos o pupilos, así como para fortalecer la integración familiar;
+> <small>(REFORMADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
+
+XXXV. Promover acciones de capacitación y difusión, dirigidas a padres de familia o tutores, para que orienten adecuadamente sobre educación sexual integral y reproductiva, de salud y gestión menstrual, educación física y nutricional de sus hijos o pupilos, así como para fortalecer la integración familiar;
 
 XXXVI. Promover la utilización de los medios de comunicación del Estado para fomentar la educación y la cultura;
 
@@ -859,6 +889,10 @@ XV. Ejecutar, en el ámbito de sus atribuciones, programas y acciones tendientes
 
 XVI. Vigilar, en el ámbito de su competencia, la aplicación de la presente Ley.
 
+> <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
+
+XVII. Diseñar e implementar con base en los criterios emitidos por la Secretaría, planes, programas y acciones donde se priorice el interés superior de niñas, niños y adolescentes, la igualdad de género y se gestione la higiene menstrual, así como para el otorgamiento de becas y demás apoyos económicos en este tema, de acuerdo con la suficiencia presupuestal disponible, priorizando a las niñas y adolescentes educandas que lo requieran por su situación socioeconómica.
+
 > <small>(ADICIONADO, G.G. 11 DE MARZO DE 2014)</small>
 
 Para el ingreso, promoción, reconocimiento y permanencia del personal docente o con funciones de dirección o supervisión en la educación básica y media superior que impartan deberán observar lo dispuesto por la Ley General del Servicio Profesional Docente.
@@ -923,7 +957,9 @@ IV. Establecer sistemas efectivos para supervisar la calidad del servicio educat
 
 V. Capacitar a los educadores en el uso de las tecnologías de la información y la comunicación;
 
-VI. Establecer programas y realizar campañas de manera periódica para disminuir el rezago educativo;
+> <small>(REFORMADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
+
+VI. Establecer programas y realizar campañas de manera periódica para disminuir el rezago y la deserción educativa;
 
 VII. Realizar programas de formación, capacitación, actualización y profesionalización de los docentes y directivos;
 
@@ -936,6 +972,10 @@ X. Establecer mecanismos para que los centros escolares cuenten con el mobiliari
 XI. Disponer de las herramientas tecnológicas que permitan al educando tener acceso a fuentes de información que fortalezcan sus aprendizajes; y
 
 XII. Simplificar los procedimientos administrativos en la prestación de servicios educativos.
+
+> <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
+
+XIII. Diseñar e implementar políticas públicas que atiendan el bienestar, el ejercicio de la sexualidad y los proyectos individuales de vida, trabajo y convivencia de niñas, adolescentes y mujeres, mediante las cuales se les respeten todos sus derechos humanos y no sufran discriminación, desigualdad ni violencia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 11 DE MARZO DE 2014)</small>
 
@@ -3192,3 +3232,13 @@ SEGUNDO. El presente Decreto entrará en vigor a los 30 días hábiles de la pub
 TERCERO. La Secretaría de Educación, Ciencia, Tecnología e Innovación y la Secretaría de Seguridad en coordinación con la Comisión de Derechos Humanos del Estado de México contarán con cuarenta y cinco días hábiles posteriores a la entrada en vigor de este Decreto, para la expedición del Protocolo de operativos o programas que impliquen la revisión o inspección de mochilas o bolsos de niñas, niños y adolescentes.
 
 CUARTO. Las autoridades educativas, deberán contar con carta firmada por los padres de familia, tutores o quienes ejerzan la patria potestad de los educandos, en la cual manifiestan su autorización para la revisión de mochilas o bolsos. Así mismo, se llevarán a cabo reuniones informativas y de participación con los educandos respecto de los objetivos del Protocolo, a efecto de ejecutar las acciones y medidas en términos de lo establecido en el artículo 2 de la Ley General de los Derechos de Niñas, Niños y Adolescentes para salvaguardar los derechos y principios contenidos en la misma.
+
+G.G. 1 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 217.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO, Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Poder Legislativo del Estado de México asignara recursos públicos en los ejercicios fiscales correspondientes, para cumplir con la presente reforma.
