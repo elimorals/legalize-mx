@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-escolar-del-estado-de-baja-california-89652"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-05"
-last_updated: "2023-06-09"
+last_updated: "2023-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD ESCOLAR DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 5 de octubre del 2012.
 
@@ -317,9 +317,17 @@ XI. Promover y difundir entre la comunidad escolar las actividades y capacitacio
 
 XII. Promover la colaboración en la vigilancia vecinal tendiente a proteger al alumnado del centro escolar que corresponda, así como la infraestructura educativa, especialmente en periodos vacacionales y días inhábiles;
 
-XIII. Promover la información a la comunidad escolar sobre el uso adecuado de los materiales que existan en el centro escolar que puedan poner en peligro la integridad física del alumnado y prever su manejo adecuado, y
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2023)</small>
 
-XIV. Las demás atribuciones que conforme a esta ley y otras disposiciones aplicables le correspondan.
+XIII. Promover la información a la comunidad escolar sobre el uso adecuado de los materiales que existan en el centro escolar que puedan poner en peligro la integridad física del alumnado y prever su manejo adecuado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2023)</small>
+
+XIV. Fomentar la política de cero tolerancia al hostigamiento y acoso sexual; y,
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XIV], P.O. 1 DE DICIEMBRE DE 2023)</small>
+
+XV. Las demás atribuciones que conforme a esta ley y otras disposiciones aplicables le correspondan.
 
 ###### Artículo 22.
 
@@ -643,6 +651,14 @@ XII. El procedimiento de cierre forzoso permanecerá hasta que la autoridad a ca
 
 Es obligación de la comunidad escolar reportar o hacer de conocimiento del consejo escolar cualquier situación riesgo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE DICIEMBRE DE 2023)</small>
+
+Las denuncias podrán ser presentadas por escrito o digital. Deberán ser recibidas y enviadas al mismo, por la autoridad escolar correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE DICIEMBRE DE 2023)</small>
+
+Asimismo, para tal efecto la autoridad escolar establecerá un buzón digital en todas las páginas de internet y de redes sociales de la Secretaría de Educación del Estado de Baja California, a fin de recibir cualquier denuncia y dar el trámite correspondiente, así como para brindar atención a víctimas de violencia escolar.
+
 ###### Artículo 44.
 
 A su vez, el consejo escolar hará del conocimiento del Directivo del centro escolar la situación de riesgo en cuestión para su atención y los efectos a que haya lugar.
@@ -745,9 +761,11 @@ El incumplimiento a las disposiciones contenidas en la presente Ley, relativas a
 
 Es atribución exclusiva de la autoridad educativa competente, sancionar al alumno conforme lo prevea el reglamento interior en materia de seguridad escolar de cada centro escolar.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 53.
 
-El incumplimiento a las disposiciones contenidas en la presente Ley por parte del personal directivo, docente, administrativo y de apoyo, serán sancionadas conforme lo previsto en la Ley de Responsabilidad de los Servidores Públicos del Estado.
+El incumplimiento a las disposiciones contenidas en la presente Ley por parte del personal directivo, docente, administrativo y de apoyo, serán sancionadas conforme lo previsto en la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
 ## TRANSITORIOS
 
@@ -808,3 +826,9 @@ P.O. 9 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 235 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 3, 6, 7, 10, 11, 13, 14, 39 Y 42 DE LA LEY DE SEGURIDAD ESCOLAR DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 1 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 315 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 21, 43 Y 53 DE LA LEY DE SEGURIDAD ESCOLAR DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
