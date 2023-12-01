@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco-96004"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-20"
-last_updated: "2023-11-06"
+last_updated: "2023-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 20 de septiembre de 2013.
 
@@ -355,9 +355,13 @@ Queda prohibido a las autoridades de las escuelas e instituciones educativas pú
 
 Los jugadores, capitanes, entrenadores y maestros, integrantes de las asociaciones y ligas deportivas deberán coadyuvar de manera individual o colectiva en la vigilancia, para que se cumpla con las prohibiciones de vender cigarros a menores de edad, vender cigarros sueltos, así como de fumar en las canchas, pistas, albercas, gimnasios abiertos o cerrados, estadios, otras instalaciones deportivas y anexos como baños, vestidores, o servicios complementarios, debiendo dar aviso a la fuerza pública, para que sea esta quien ponga a disposición de la autoridad administrativa correspondiente a la persona o las personas que incumplan con este ordenamiento.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 27.
 
-Los propietarios, administradores, organizadores o quien obtenga algún provecho de eventos realizados en sitios de concurrencia colectiva, serán responsables de implantar, cumplir, vigilar el cumplimiento de la Ley y su Reglamento en el espacio que ocupa el mismo, solicitar a quien incumpla las disposiciones que se retire del sitio y, en su caso, dar aviso a la fuerza pública, a fin de remitir a la persona que se resista a la autoridad administrativa correspondiente.
+Las personas propietarias, administradoras, organizadoras o quienes obtengan algún provecho de eventos realizados en sitios de concurrencia colectiva, serán responsables de implantar, cumplir, vigilar el cumplimiento de la Ley y su Reglamento en el espacio que ocupa el mismo, solicitar a quien incumpla las disposiciones que se retire del sitio y, en su caso, dar aviso a la fuerza pública, a fin de remitir a la persona que se resista a la autoridad administrativa correspondiente.
+
+En los establecimientos cuyo giro principal sea la venta para consumo de bebidas alcohólicas en envase abierto en términos de la ley de la materia, podrán establecer a la entrada al establecimiento respectivo, puntos de verificación a fin de invitar a las personas asistentes a no introducir cualquier producto de tabaco ya sea en paquete, cigarrillo, cigarro o puro.
 
 ###### Artículo 28.
 
@@ -562,3 +566,9 @@ P.O. 6 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 305 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 4, 17, 19, 41 Y 43 DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 312 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 27 DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DEL TABACO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
