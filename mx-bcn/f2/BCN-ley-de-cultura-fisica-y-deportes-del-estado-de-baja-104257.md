@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-cultura-fisica-y-deportes-del-estado-de-baja-104257"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2023-11-06"
+last_updated: "2023-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Baja California, el miércoles 31 de diciembre de 2014.
 
@@ -1163,7 +1163,9 @@ XII.- Políticas de promoción e institución de una educación física de calid
 
 XIII.- El acceso a mecanismos para impartición de justicia en el ámbito deportivo;
 
-XIV.- Detección de talentos deportivos y la formación de deportistas de alto rendimiento; y
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2023)</small>
+
+XIV.- Promover mecanismos que posibiliten la detección oportuna de niñas, niños, adolescentes y jóvenes con talento deportivo en la educación básica y educación media superior, así como la formación de deportistas de alto rendimiento; y,
 
 XV.- Las demás que sean necesarias para fortalecer la difusión, fomento y desarrollo de la cultura física y el deporte en el estado.
 
@@ -2168,3 +2170,9 @@ P.O. 6 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 300 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LA FRACCIÓN X DEL ARTÍCULO 4 Y LA FRACCIÓN XXIV DEL ARTÍCULO 14 DE LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 1 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 316 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA FRACCIÓN XIV AL ARTÍCULO 96 DE LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
