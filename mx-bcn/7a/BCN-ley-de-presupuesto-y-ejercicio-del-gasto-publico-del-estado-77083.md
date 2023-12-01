@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-y-ejercicio-del-gasto-publico-del-estado-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2023-11-06"
+last_updated: "2023-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -105,11 +105,17 @@ XIV. Municipio: El Ayuntamiento, la Administración Pública Municipal Centraliz
 
 XV. Órganos Autónomos: los organismos públicos autónomos creados con ese carácter, dotados de autonomía técnica y de gestión por mandato constitucional o legal para decidir sobre su organización interna, recursos, funcionamiento y resoluciones;
 
-XVI. Órganos de Control: la Dirección de Control y Evaluación Gubernamental, las Sindicaturas Municipales, las Contralorías Internas o Unidades Administrativas equivalentes de los sujetos de esta Ley;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+XVI. Órganos de Control: La Secretaría de la Honestidad y la Función Pública, las Sindicaturas Municipales, las Contralorías Internas o Unidades Administrativas equivalentes de los sujetos de esta Ley;
 
-XVII. Perspectiva de Equidad de Género: Enfoque o herramienta que permite identificar y atender el fenómeno de la desigualdad e inequidad entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2023)</small>
+
+XVII. Perspectiva de Género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2023)</small>
+
+XVII BIS. Igualdad de Género: Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
@@ -355,17 +361,19 @@ Las operaciones transitorias no formarán parte del Presupuesto de Ingresos de l
 
 De los Presupuestos de Egresos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 23.
 
-El presupuesto de egresos comprende las erogaciones que por concepto de gasto corriente, gasto de capital, amortización de la deuda y disminución de pasivos realizan los sujetos de la presente Ley, dichas definiciones se sujetaran a lo que establezca el CONAC, y en su caso, la información complementaria que emita el Consejo.
+El presupuesto de egresos comprende las erogaciones que, por concepto de gasto corriente, gasto de capital, amortización de la deuda y disminución de pasivos realizan los sujetos de la presente Ley, dichas definiciones se sujetaran a lo que establezca el CONAC, y en su caso, la información complementaria que emita el Consejo.
 
 Asimismo, el presupuesto de egresos deberá formularse basado en resultados de acuerdo a los indicadores de gestión del Sistema de Evaluación del Desempeño a que se refiere la presente Ley.
 
 Las asignaciones presupuestales procurarán atender los resultados de la evaluación del desempeño de los sujetos de la presente Ley que realicen las instancias técnicas competentes, considerando los avances logrados en los programas, objetivos y metas.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2023)</small>
 
-Los tres poderes, los municipios del Estado y los órganos autónomos llevarán a cabo la planeación, el diseño, programación, ejecución y evaluación del presupuesto, en el ámbito de su competencia, con perspectiva de equidad de género, entendiéndose por esto, el enfoque o herramienta que permite identificar y atender el fenómeno de la desigualdad e inequidad entre hombres y mujeres.
+Los tres poderes, los municipios del Estado y los órganos autónomos llevarán a cabo la planeación, el diseño, programación, ejecución y evaluación del presupuesto, en el ámbito de su competencia, con perspectiva e igualdad de género.
 
 ###### ARTÍCULO 24.
 
@@ -1171,9 +1179,9 @@ Igual atribución tendrán los Órganos de Control de los Poderes Legislativo y 
 
 ## TÍTULO QUINTO BIS. DE LA TRANSPARENCIA Y DIFUSIÓN DE LA INFORMACIÓN FINANCIERA
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2023)</small>
 
-ARTÍCULO 92 BIS.- Los sujetos de esta Ley, en el ámbito de sus respectivas competencias deberán dar a conocer en sus respectivos portales de Internet la información financiera siguiente:
+ARTÍCULO 92 BIS.- Los sujetos de esta Ley, en el ámbito de sus respectivas competencias deberán dar a conocer en sus respectivos portales de internet la información financiera siguiente:
 
 > <small>(ADICIONADA, P.O. 3 DE MAYO DE 2013)</small>
 
@@ -1199,23 +1207,39 @@ V. El Presupuesto Ciudadano;
 
 VI. Las disposiciones aplicables al proceso de integración de las Leyes de Ingresos, Presupuestos de Egresos y demás documentos que deban publicarse en los medios oficiales de difusión;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE DICIEMBRE DE 2023)</small>
 
-VII. Además de la información prevista en los ordenamientos legales aplicables, deberá incluirse en sus respectivas Leyes de Ingresos y Presupuestos de Egresos, apartados específicos con la información siguiente:
+VII. Además de la información prevista en los ordenamientos legales aplicables, deberá incluirse en sus respectivas Leyes de Ingresos y Presupuesto de Egresos, apartados específicos con la información siguiente:
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
 a) Leyes de Ingresos:
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
 1) Las fuentes de sus ingresos sean ordinarios o extraordinarios, desagregando el monto de cada una, incluyendo los recursos federales que estime serán transferidos por la federación a través de los fondos de participaciones y aportaciones federales, subsidios y convenios de reasignación; así como los ingresos recaudados con base en las disposiciones aplicables, y
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
 2) Las obligaciones de garantía o pago causante de deuda pública u otros pasivos de cualquier naturaleza con contrapartes, proveedores, contratistas y acreedores, incluyendo la (sic) disposiciones de bienes o expectativa de derechos sobre éstos, contraídos directamente o a través de cualquier instrumento jurídico considerado o no dentro de la estructura orgánica de la administración pública correspondiente, y la celebración de actos jurídicos análogos a los anteriores y sin perjuicio de que dichas obligaciones tengan como propósito el canje o refinanciamiento de otras o de que sea considerado o no como deuda pública en los ordenamientos aplicables. Asimismo, la composición de dichas obligaciones y el destino de los recursos obtenidos;
 
-b) Presupuestos de Egresos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE DICIEMBRE DE 2023)</small>
+
+b) Presupuesto de Egresos:
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
 1) Las prioridades de gasto, los programas y proyectos, así como la distribución del presupuesto, detallado el gasto en servicios personales, incluyendo el analítico de plazas y desglosando todas las remuneraciones; las contrataciones de servicios por honorarios y, en su caso, previsiones para personal eventual; pensiones; gastos de operación, incluyendo gasto en comunicación social; gasto de inversión; así como gasto correspondiente a compromisos plurianuales, proyectos de asociaciones público privadas y proyectos de prestación de servicios, entre otros;
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
 2) El listado de programas así como sus indicadores estratégicos y de gestión aprobados, y
 
-3) La aplicación de los recursos conforme a las calificaciones administrativa, funcional, programática, económica y, en su caso, geográfica y sus interrelaciones que faciliten el análisis para valorar la eficiencia y eficacia en el uso y destino de los recursos y sus resultados.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2023)</small>
+
+3) La aplicación de los recursos conforme a las clasificaciones administrativa, funcional, programática, económica, de género y, en su caso, geográfica y sus interrelaciones que faciliten el análisis para valorar la eficiencia y eficacia en el uso y destino de los recursos y sus resultados.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
 En el proceso de integración de la información financiera para la elaboración de los presupuestos deberán incorporar los resultados que deriven de los procesos de implantación y operación del presupuesto basado en resultados y del sistema de evaluación del desempeño.
 
@@ -1506,3 +1530,9 @@ P.O. 6 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 310 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 37 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; 5, 10, 11, 12, 14, 17, 18, 19, 20, 22, 25, 26, 33, 44, 46, 47, 50, 51, 52, 53, 54, 55, 57, 58, 64, 77, 79, 86, 94, 97, 98, 100, 110 Y ADICIONA LOS ARTÍCULOS 19 BIS Y 26 BIS A LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS; 82 DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA; 16 QUATER, 18, 65, 66, 81, 81 BIS Y 81 TER DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LA REFORMA QUE ADICIONA EL ARTÍCULO 63 TER A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 1 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 324 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS DE LOS ARTÍCULOS 3, 23 Y 92 BIS DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
