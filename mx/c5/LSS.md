@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2023-11-29"
+last_updated: "2023-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -120,13 +120,17 @@ XVIII. Salarios o salario: la retribución que la Ley Federal del Trabajo define
 
 XIX. Trabajador eventual del campo: persona física que es contratada para labores de siembra, deshije, cosecha, recolección, preparación de productos para su primera enajenación y otras de análoga naturaleza agrícola, ganadera, forestal o mixta, a cielo abierto o en invernadero. Puede ser contratada por uno o más patrones durante un año, por períodos que en ningún caso podrán ser superiores a veintisiete semanas por cada patrón. En caso de rebasar dicho período por patrón será considerado trabajador permanente. Para calcular las semanas laboradas y determinar la forma de cotización se estará a lo previsto en la ley y en el reglamento respectivo;
 
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2023)</small>
+
+XX. Trabajador Independiente o por cuenta propia: persona física que no esté sujeta a una relación de subordinación laboral y que no recibe un salario sino genera ingresos por el libre ejercicio de su profesión, oficio o actividad, así como los ejidatarios, comuneros, colonos y pequeños propietarios, patrones con trabajadores asegurados a su servicio o aquellas personas que cubran el pago de las cuotas obrero patronales establecidas para la incorporación voluntaria al régimen obligatorio exceptuando a los sujetos de aseguramiento establecidos en la fracción V del artículo 13;
+
 > <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2023)</small>
 
-XX. Unión civil: es el acto jurídico bilateral que se constituye cuando las personas físicas de diferente o del mismo sexo, mayores de edad y con capacidad jurídica plena, establecen un hogar común con voluntad de permanencia y ayuda mutua, por el que se deriven obligaciones alimentarias, de sucesión o semejantes y que esté reconocido en la legislación de los estados, cualquiera que sea la denominación que adquiera, y
+XXI. Unión civil: es el acto jurídico bilateral que se constituye cuando las personas físicas de diferente o del mismo sexo, mayores de edad y con capacidad jurídica plena, establecen un hogar común con voluntad de permanencia y ayuda mutua, por el que se deriven obligaciones alimentarias, de sucesión o semejantes y que esté reconocido en la legislación de los estados, cualquiera que sea la denominación que adquiera, y
 
 > <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2023)</small>
 
-XXI. Servicio de guardería: derecho de las madres y padres trabajadores asegurados, viudas y viudos o divorciados con la custodia de sus hijos, durante su jornada laboral.
+XXII. Servicio de guardería: derecho de las madres y padres trabajadores asegurados, viudas y viudos o divorciados con la custodia de sus hijos, durante su jornada laboral.
 
 Por lo que respecta a los matrimonios celebrados entre personas del mismo sexo, esta ley reconoce tales uniones con los mismos derechos y obligaciones que los celebrados entre hombre y mujer.
 
@@ -206,13 +210,15 @@ IV. Las personas trabajadoras del hogar.
 
 Voluntariamente podrán ser sujetos de aseguramiento al régimen obligatorio:
 
-I. Los trabajadores en industrias familiares y los independientes, como profesionales, comerciantes en pequeño, artesanos y demás trabajadores no asalariados;
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2023)</small>
+
+I. Los trabajadores independientes o por cuenta propia;
 
 II. (DEROGADA, D.O.F. 2 DE JULIO DE 2019)
 
-III. Los ejidatarios, comuneros, colonos y pequeños propietarios;
+III. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2023)
 
-IV. Los patrones personas físicas con trabajadores asegurados a su servicio, y
+IV. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2023)
 
 V. Los trabajadores al servicio de las administraciones públicas de la Federación, entidades federativas y municipios que estén excluidas o no comprendidas en otras leyes o decretos como sujetos de seguridad social.
 
@@ -2530,13 +2536,13 @@ I. Podrá efectuarse en forma individual o de grupo a solicitud, por escrito, de
 
 II. El esquema de aseguramiento, para los sujetos que señala este capítulo, comprende:
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2023)</small>
 
-a) Para los sujetos a que se refieren las fracciones I y III del artículo 13 de esta Ley, las prestaciones en especie del seguro de enfermedades y maternidad y las correspondientes de los seguros de invalidez y vida, así como de retiro y vejez, en los términos de los capítulos respectivos;
+a) Para los sujetos a que se refiere la fracción I del artículo 13 de esta Ley, las prestaciones del seguro de enfermedades y maternidad, por lo que se refiere a las prestaciones en especie estarán sujetos a los tiempos de espera determinados en el reglamento de la ley en la materia, las del seguro de riesgos de trabajo, las correspondientes de los seguros de invalidez y vida, retiro, cesantía en edad avanzada y vejez, así como las del seguro de guarderías y prestaciones sociales, en los términos de los capítulos respectivos;
 
 b) (DEROGADO, D.O.F. 16 DE NOVIEMBRE DE 2022)
 
-c) Para los sujetos a que se refiere la fracción IV del artículo 13 de esta Ley, las prestaciones del seguro de riesgos de trabajo, las prestaciones en especie del seguro de enfermedades y maternidad y las correspondientes de los seguros de invalidez y vida, así como de retiro y vejez, en los términos de los capítulos respectivos;
+c) (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2023)
 
 d) Para los sujetos a que se refiere la fracción V del artículo 13 de esta Ley, las prestaciones del seguro de riesgos de trabajo, las prestaciones en especie del seguro de enfermedades y maternidad y las correspondientes de los seguros de invalidez y vida, así como de retiro, cesantía en edad avanzada y vejez, en los términos de los capítulos respectivos, y
 
@@ -2552,21 +2558,23 @@ Aceptada la incorporación, serán aplicables las disposiciones del régimen obl
 
 Sólo se perderá la calidad de asegurado si se dejan de tener las características que originaron el aseguramiento.
 
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 224.
 
-Los sujetos de aseguramiento comprendidos en este capítulo cotizarán por anualidades adelantadas.
+Los sujetos de aseguramiento comprendidos en este capítulo cotizarán por mensualidad, bimestralidad, semestralidad o anualidad adelantadas, a elección del asegurado. En el caso de pago en parcialidades no se le aplicarán al importe a pagar actualizaciones ni recargos.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+Lo dispuesto en el párrafo anterior resulta aplicable con independencia de que una persona pudiera cotizar simultáneamente como Trabajador Independiente o por cuenta propia y como trabajador sujeto a una relación personal subordinada regulada por la Ley Federal del Trabajo.
 
-El Instituto, en atención a las características de orden económico y de organización de los grupos solicitantes, así como de los sujetos que contraten individualmente, podrá autorizar una periodicidad diferente en el pago de las cuotas, en cuyo caso suspenderá el Instituto el otorgamiento de las prestaciones relativas cuando se deje de cubrir una de las parcialidades acordadas.
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
-
-Lo dispuesto en los párrafos anteriores no será aplicable tratándose del aseguramiento de los sujetos señalados en la fracción V, del artículo 13 de esta Ley, respecto a los cuales se aplicarán las disposiciones establecidas para los sujetos indicados en la fracción I, del artículo 12.
+En ese caso, la persona que se ubique en ambos supuestos podrá optar por afiliarse voluntariamente como Trabajador Independiente o por cuenta propia, caso en el cual deberá realizar los pagos de las cuotas obrero patronales correspondientes, con independencia de las obligaciones de pago que deriven de la relación laboral personal subordinada regulada por la Ley Federal del Trabajo.
 
 ###### Artículo 225.
 
 Al llevarse a cabo los actos que determinen la incorporación de los sujetos de aseguramiento de este capítulo y al abrirse los períodos de inscripción relativos, el Instituto podrá establecer plazos de espera para el disfrute de las prestaciones en especie del seguro de enfermedades y maternidad.
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2023)</small>
+
+El Consejo Técnico podrá expedir las reglas de carácter general que en su caso resulten aplicables para el aseguramiento de los sujetos a que se refiere la fracción I del artículo 13 de esta Ley.
 
 ###### Artículo 226.
 
@@ -2578,9 +2586,13 @@ No procederá el aseguramiento voluntario, cuando de manera previsible éste pue
 
 Las cuotas obrero patronales correspondientes a los sujetos de este capítulo se cubrirán con base en:
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2023)</small>
 
-I. Un salario mínimo del Distrito Federal vigente en el momento de la incorporación, o de la renovación anual, para los sujetos a que se refieren las fracciones I, III y IV del artículo 13 de esta Ley, y
+I. Los ingresos reportados provenientes de la actividad que dio origen al aseguramiento, para los sujetos a que se refiere la fracción I del artículo 13 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2023)</small>
+
+Para efectos del cálculo de las cuotas obrero patronales se considerarán los límites establecidos en el artículo 28 de la presente Ley, y
 
 > <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
 
@@ -2600,31 +2612,27 @@ La cuota así determinada se cubrirá de la manera siguiente:
 
 I. Para las y los sujetos a que se refiere la fracción V del artículo 13, de acuerdo con lo establecido tratándose de las personas del artículo 12 de esta Ley, y
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2023)</small>
 
-II. Para los sujetos a que se refieren las fracciones I, III y IV del artículo 13 de esta Ley, les corresponderá cubrir íntegramente la cuota obrero-patronal, contribuyendo el Estado conforme le corresponda a cada ramo de seguro, de acuerdo a lo dispuesto en esta Ley, incluyendo la cuota social.
+II. Para los sujetos a que se refiere la fracción I del artículo 13 de esta Ley, les corresponderá cubrir íntegramente la cuota obrero-patronal, contribuyendo el Estado conforme le corresponda a cada ramo de seguro, de acuerdo con lo dispuesto en esta Ley, incluyendo la cuota social.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 229.
 
-En el caso de los sujetos a que se refieren las fracciones I y III del artículo 13 de esta Ley, el Instituto podrá convenir, previa conformidad de los sujetos de aseguramiento, con empresas, instituciones de crédito o entidades públicas o privadas, con las que aquéllos tengan relaciones comerciales o jurídicas derivadas de su actividad, que dichas entidades sean las que retengan y enteren las cuotas correspondientes y, de ser procedente, sus accesorios legales, casos en los cuales éstas serán solidariamente responsables.
+En el caso de los sujetos a que se refiere la fracción I del artículo 13 de esta Ley, el Instituto podrá convenir, previa conformidad de los sujetos de aseguramiento, con empresas, instituciones de crédito o entidades públicas o privadas, con las que aquéllos tengan relaciones comerciales o jurídicas derivadas de su actividad, que dichas entidades sean las que retengan y enteren las cuotas correspondientes y, de ser procedente, sus accesorios legales, casos en los cuales éstas serán solidariamente responsables.
 
 ###### Artículo 230.
 
 Los sujetos a que se refiere el artículo 13 de esta Ley podrán gestionar y obtener que un tercero, persona física o moral, se obligue ante el Instituto a aportar la totalidad o parte de las cuotas a su cargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 231.
 
-La incorporación voluntaria al régimen obligatorio termina:
+La incorporación voluntaria al régimen obligatorio establecida en el artículo 13, fracciones I y V, termina por declaración expresa firmada por el sujeto o grupo de asegurados, o por no pagar las cuotas correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
-
-I. Para los sujetos a que se refieren las fracciones I, III, IV y V del artículo 13 de esta Ley por:
-
-a) Declaración expresa firmada por el sujeto o grupo de asegurados, y
-
-b) No pagar la cuota;
+I. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2023)
 
 II. (DEROGADA, D.O.F. 16 DE NOVIEMBRE DE 2022)
 
@@ -4831,3 +4839,15 @@ D.O.F. 29 DE NOVIEMBRE DE 2023.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las autoridades del Instituto Mexicano del Seguro Social y del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la publicación del presente Decreto.
+
+D.O.F. 1 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO SOCIAL".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las personas que a la entrada en vigor del presente Decreto se encuentren aseguradas por incorporación voluntaria al régimen obligatorio al amparo de las fracciones I, III y IV del artículo 13 de la Ley del Seguro Social, continuarán gozando de las prestaciones en los términos y condiciones con las que iniciaron su aseguramiento hasta la finalización del mismo, pudiendo prorrogar su aseguramiento bajo las condiciones del nuevo esquema de aseguramiento, reconociendo para tal efecto los derechos previamente adquiridos dentro del esquema en el que se encontraban asegurados.
+
+Tercero.- El Instituto Mexicano del Seguro Social contará con un plazo no mayor de 180 días contados a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones necesarias a su normatividad administrativa.
+
+Cuarto.- Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
