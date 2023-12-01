@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2023-11-22"
+last_updated: "2023-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE DICIEMBRE DE 2023.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1093,9 +1093,11 @@ A invitación del Presidente, tres representantes de los sectores social y priva
 
 El Consejo contará con un secretario técnico nombrado por su presidente, así como con las comisiones y grupos de trabajo necesarios para el cumplimiento de su objeto, y operará en términos de su reglamento interno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 2.
 
-10.- El Consejo tendrá las funciones siguientes:
+10.- El Consejo, a fin de garantizar el derecho a la salud de las y los ciudadanos del Estado, tendrá las funciones siguientes:
 
 I. Contribuir a consolidar el sistema estatal de salud, apoyar a los comités municipales de salud y coordinar éstos con los sistemas nacional y estatal de salud;
 
@@ -1243,9 +1245,9 @@ I. Atención médica, preferentemente en beneficio de grupos vulnerables;
 
 II. Atención materno-infantil y la promoción de la lactancia materna.
 
-> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
 
-III. Planificación familiar que incluya orientación sobre salud sexual y reproductiva.
+III. Planificación familiar que incluya orientación sobre salud sexual y reproductiva, donde se incluya la gestión menstrual;
 
 > <small>(REFORMADA, G.G. 18 DE JULIO DE 2014)</small>
 
@@ -1261,9 +1263,9 @@ VIII. Información relativa a las condiciones, recursos y servicios de salud;
 
 IX. Educación para la salud;
 
-> <small>(REFORMADA, G.G. 23 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
 
-X. Asistencia social, promoción, orientación en materia de nutrición, higiene, sobrepeso, obesidad y trastornos alimentarios.
+X. Asistencia social, promoción, orientación en materia de nutrición, higiene, gestión menstrual, sobrepeso, obesidad y trastornos alimentarios;
 
 > <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
@@ -1281,9 +1283,9 @@ XIV. Prevención de la discapacidad y la rehabilitación de las personas con dis
 
 XV. Asistencia social e instalación de unidades de hemodiálisis en los hospitales regionales pertenecientes al ISEM y capacitación al familiar o a quien acompañe al paciente.
 
-> <small>(REFORMADA, G.G. 25 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
 
-XVI. Programas para prevenir y erradicar las adicciones, dando prioridad a niñas, niños y adolescentes, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez. Para la puesta en marcha de estos programas, se hará en coordinación con la Secretaría de Educación del Gobierno del Estado;
+XVI. Programas para prevenir y erradicar las adicciones, la discriminación o desigualdades, dando prioridad a niñas, niños y adolescentes, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez. Para la puesta en marcha de estos programas, se hará en coordinación con la Secretaría de Educación, Ciencia, Tecnología e Innovación del Gobierno del Estado;
 
 > <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
@@ -1301,9 +1303,17 @@ XIX. Atención médica a las personas que padezcan diabetes, así como brindar d
 
 XX. Detección, prevención, tratamiento y seguimiento del cáncer de mama y en su caso la mastectomía y mamoplastia reconstructiva, incluidas prótesis de calidad, atención médica y psicológica integral durante todo el proceso, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 21 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE DICIEMBRE DE 2023)</small>
 
-XXI. Los demás que se establezcan en la Ley General de Salud y otras disposiciones aplicables.
+XXI. Promover programas de orientación y atención en materia de gestión menstrual, mediante los cuales se prevenga la discriminación, la desigualdad y violencia contra las niñas, adolescentes, mujeres y personas menstruantes;
+
+> <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
+
+XXII. Suministrar productos de gestión menstrual para niñas, adolescentes, mujeres y personas menstruantes, en zonas de alta marginación de acuerdo con la suficiencia presupuestal disponible;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 1 DE DICIEMBRE DE 2023)</small>
+
+XXIII. Los demás que se establezcan en la Ley General de Salud y otras disposiciones aplicables.
 
 ###### Artículo 2.
 
@@ -1367,6 +1377,10 @@ X. Brindar de manera eficiente y humanitaria atención y asistencia de calidad a
 
 XI. Diseñar e implementar políticas públicas que promuevan la prevención, el tratamiento y el combate del sobrepeso, la obesidad y los trastornos alimentarios.
 
+> <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
+
+XII. Diseñar e implementar políticas públicas que atiendan la salud, el bienestar, el ejercicio de la sexualidad y los proyectos individuales de vida, trabajo y convivencia de niñas, adolescentes, mujeres y personas menstruantes, mediante las cuales se les respeten todos sus derechos humanos y no sufran discriminación, desigualdad ni violencia.
+
 El sistema estatal de salud podrá auxiliarse de los organismos nacionales e internacionales que estime necesarios para el cumplimiento de sus objetivos.
 
 ###### Artículo 2.
@@ -1425,9 +1439,21 @@ XVIII. Coordinar programas con la finalidad de promover la prevención, tratamie
 
 XIX. Diseñar, implementar y promover programas de atención psicológica a pacientes diagnosticados con cáncer a lo largo de todo su tratamiento.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE DICIEMBRE DE 2023)</small>
 
-XX. Las demás que se requieran para el cumplimiento de los objetivos del sistema estatal de salud.
+XX. Diseñar, implementar y coordinar programas, políticas y acciones mediante las cuales se priorice el interés superior de niñas, niños y adolescentes, la igualdad de género y la gestión menstrual mediante:
+
+a) El reconocimiento de que la menstruación forma parte de la salud reproductiva.
+
+b) Disponibilidad de entornos seguros y privados.
+
+c) Acceso a la educación en salud sexual y reproductiva, e higiene y gestión menstrual.
+
+d) El acceso a información y atención adecuada por trastornos relacionados con la menstruación.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 1 DE DICIEMBRE DE 2023)</small>
+
+XXI. Las demás que se requieran para el cumplimiento de los objetivos del sistema estatal de salud.
 
 ### CAPITULO TERCERO. Del Centro Estatal de Trasplantes
 
@@ -2675,7 +2701,9 @@ De la educación, ejercicio profesional, investigación científica y tecnológi
 
 2.- Las disposiciones de este Libro tienen como finalidad:
 
-I. Garantizar y fortalecer el derecho de todo individuo a recibir educación;
+> <small>(REFORMADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
+
+I. Garantizar y fortalecer el derecho de todo individuo a recibir educación, el respeto a sus derechos humanos sin discriminación, desigualdad, ni violencia;
 
 > <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2012)</small>
 
@@ -2735,9 +2763,11 @@ Las atribuciones en las materias de ejercicio profesional y mérito civil corres
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
+> <small>(REFORMADO, G.G. 1 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 3.
 
-5.- Los habitantes del Estado tienen derecho de acceder a los servicios que regula este Libro, con sólo satisfacer los requisitos que establezcan las disposiciones legales y reglamentarias aplicables.
+5.- Los habitantes del Estado tienen derecho de acceder a los servicios que regula este Libro, con sólo satisfacer los requisitos que establezcan las disposiciones legales y reglamentarias aplicables, priorizando el interés superior de niñas, niños y adolescentes, así como la igualdad de género.
 
 ###### Artículo 3.
 
@@ -2797,15 +2827,15 @@ XIV. Impulsar el establecimiento de centros de desarrollo infantil con el apoyo 
 
 XV. Impulsar el establecimiento de centros de desarrollo infantil y de educación para adultos, con el apoyo de los municipios y de los beneficiarios de los servicios;
 
-> <small>(REFORMADA, G.G. 12 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
 
-XVI. Promover y favorecer la sana alimentación y la activación física, la educación para la salud, sexual, civismo, ética, fomento al respeto a la mujer, ambiental, las bellas artes y el deporte, así como la enseñanza de un idioma extranjero, preferentemente el inglés, en todos los tipos y niveles educativos;
+XVI. Promover y favorecer la sana alimentación y la activación física, la educación para la salud, sexual y reproductiva donde se considere la gestión menstrual, civismo, ética, fomento al respeto a la mujer, ambiental, las bellas artes y el deporte, así como la enseñanza de un idioma extranjero, preferentemente el inglés, en todos los tipos y niveles educativos;
 
 XVII. Promover la incorporación de los estudiantes de las instituciones públicas y privadas a los servicios de atención médica;
 
-> <small>(REFORMADA, G.G. 16 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
 
-XVIII. Propiciar, en coordinación con las instituciones del sector salud y asistenciales, la orientación para la prevención y detección temprana de enfermedades; así como la integración de los niños en edad escolar, condición vulnerable e infortunio familiar a los servicios de educación básica;
+XVIII. Propiciar, en coordinación con las instituciones del sector salud y asistenciales, la orientación para la prevención y detección temprana de enfermedades; así como la integración de las niñas, niños y adolescentes en edad escolar, condición vulnerable e infortunio familiar a los servicios de educación básica;
 
 XIX. Promover la utilización de los medios de comunicación para acrecentar la educación y la cultura en la entidad;
 
@@ -2822,6 +2852,10 @@ XXIII. Imponer sanciones;
 > <small>(REFORMADA, G.G. 15 DE AGOSTO DE 2008)</small>
 
 XXIV. Propiciar, en coordinación con las autoridades federales y municipales, programas de educación ambiental en los planteles educativos del Estado de México, buscando que los contenidos teóricos de los programas de estudio se vinculen con proyectos prácticos, que fomenten la conciencia ambiental de los estudiantes.
+
+> <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
+
+XXV. Diseñar e implementar planes, programas y acciones donde se priorice el interés superior de niñas, niños y adolescentes, la igualdad de género y la gestión menstrual, así como otorgar becas de acuerdo con los recursos financieros con los que se cuente y demás apoyos económicos para este tipo de gestión.
 
 ###### Artículo 3.
 
@@ -2850,6 +2884,10 @@ IX. Promover y apoyar los programas y acciones de capacitación y difusión diri
 > <small>(ADICIONADA, G.G. 15 DE AGOSTO DE 2008)</small>
 
 X. Implementar, en coordinación con las autoridades federales y estatales, programas de educación ambiental en las comunidades de los municipios, buscando se vinculen con proyectos prácticos, que fomenten la conciencia ambiental de sus habitantes.
+
+> <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
+
+XI. Diseñar e implementar planes, programas y acciones donde se priorice el interés superior de niñas, niños y adolescentes, la igualdad de género y la gestión menstrual, y en su caso, de acuerdo con los recursos financieros con los que se cuente otorgar becas y demás apoyos económicos para este tipo de gestión.
 
 ### CAPITULO SEGUNDO. Del Sistema Educativo Estatal
 
@@ -3269,7 +3307,9 @@ III. Promover la participación de las administraciones municipales para que asu
 
 IV. Alentar la participación social de las comunidades en la supervisión de la construcción de espacios educativos, así como de su conservación y mantenimiento;
 
-V. Realizar estudios y proyectos que permitan definir las políticas y acciones para el desarrollo de programas de construcción, reparación, rehabilitación, mantenimiento y equipamiento de espacios educativos;
+> <small>(REFORMADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
+
+V. Realizar estudios y proyectos que permitan definir las políticas y acciones para el desarrollo de programas de construcción, reparación, rehabilitación, mantenimiento y equipamiento de espacios educativos, considerando en estos, la disponibilidad de espacios privados adecuados y seguros, para limpieza y cambio de productos para la gestión menstrual;
 
 VI. Establecer los criterios técnicos para la evaluación del estado físico de la infraestructura física educativa;
 
@@ -19020,3 +19060,13 @@ TERCERO.- Los Ayuntamientos expedirán el Reglamento de Justicia Cívica Municip
 CUARTO.- Los Ayuntamientos deberán dotar a los Juzgados Cívicos de espacios físicos en condiciones de uso, recursos materiales y personal para su eficaz operación.
 
 QUINTO.- La iniciativa propuesta, contemplaba referencias tanto a comunidades indígenas como a personas con discapacidad, sin embargo, se advirtió la omisión de convocar a una consulta previa. El Poder Legislativo podrá presentar una iniciativa complementaria para reformar esta Ley, una vez realizada la consulta a los pueblos originarios del Estado de México, así como a las personas afromexicanas y personas con discapacidad de la entidad.
+
+G.G. 1 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 217.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO, Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese este Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Este Decreto entrará el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Poder Legislativo del Estado de México asignara recursos públicos en los ejercicios fiscales correspondientes, para cumplir con la presente reforma.
