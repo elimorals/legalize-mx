@@ -4,7 +4,7 @@ identifier: "LSNIEG"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-16"
-last_updated: "2021-05-20"
+last_updated: "2023-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60555&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSNIEG"
 
 LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 16 de abril de 2008.
 
@@ -371,6 +371,14 @@ III. Los registros administrativos que permitan obtener Información en la mater
 ###### ARTÍCULO 26.
 
 El Subsistema Nacional de Información Geográfica y del Medio Ambiente, en su componente geográfico, generará como mínimo los siguientes grupos de datos: marco de referencia geodésico; límites costeros, internacionales, de las entidades federativas, municipales y las demarcaciones territoriales de la Ciudad de México; datos de relieve continental, insular y submarino; datos catastrales, topográficos, de recursos naturales y clima, así como nombres geográficos. A este componente también se le denominará Infraestructura de Datos Espaciales de México.
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2023)</small>
+
+Asimismo, emitirá un mapa oficial de la República Mexicana, que incluya las zonas marinas mexicanas, conforme a lo establecido por la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Mar, el cual será difundido por el Instituto Nacional de Estadística y Geografía.
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2023)</small>
+
+Las autoridades competentes en materia de límites territoriales proporcionarán al Instituto la información necesaria para la elaboración del mapa. Los conflictos de límites se resolverán a través de las instancias competentes.
 
 ###### ARTÍCULO 27.
 
@@ -1963,3 +1971,11 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 1 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 26 DE LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El mapa oficial de la República Mexicana será publicado por el Instituto Nacional de Estadística y Geografía una vez que las autoridades competentes concluyan los procedimientos que en materia de límites deban realizarse ante las instancias nacionales e internacionales correspondientes. Lo anterior, sujeto a la disponibilidad presupuestaria establecida para el Instituto Nacional de Estadística y Geografía en el presente ejercicio fiscal y los subsecuentes.
