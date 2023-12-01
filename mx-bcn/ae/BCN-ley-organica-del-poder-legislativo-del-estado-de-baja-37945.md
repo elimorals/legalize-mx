@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2023-11-06"
+last_updated: "2023-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA PARLAMENTARIA: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -467,11 +467,13 @@ No se concederán licencias con goce de dietas, salvo el caso de incapacidad por
 
 Los Diputados con igual afiliación de partido, podrán organizarse en Grupos Parlamentarios para sostener los principios y lineamientos de sus respectivos partidos y para coadyuvar al mejor desarrollo del proceso legislativo por medio de la orientación de criterios comunes en las discusiones y deliberaciones.
 
-Los Diputados que no deseen o dejen de pertenecer a un Grupo Parlamentario o no puedan formar un Grupo Parlamentario por los requisitos establecidos en esta Ley, se les guardarán las consideraciones que a los Diputados coordinados, y apoyándolos en lo individual, conforme a las posibilidades y presupuesto del Congreso del Estado, para que puedan desempeñar sus funciones de representación popular.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, G.P. 2 DE AGOSTO DE 2019)</small>
+Las Diputadas y los Diputados que no deseen o dejen de pertenecer a un Grupo Parlamentario, se les guardarán las consideraciones que a las Diputadas y los Diputados coordinados, y apoyándolos en lo individual, conforme a las posibilidades y presupuesto del Congreso del Estado, para que puedan desempeñar sus funciones de representación popular.
 
-El Órgano de Gobierno denominado Junta de Coordinación Política se integra con cada uno de los Diputados Coordinadores de los Grupos Parlamentarios de los Partidos Políticos con representación en el Congreso, así como por los Diputados pertenecientes a Partidos Políticos que cuenten con un solo escaño. La Junta de Coordinación Política expresa la pluralidad del Congreso del Estado y toma sus resoluciones por el voto ponderado de sus integrantes, quienes se constituyen en representantes de su Grupo Parlamentario, procurando el máximo consenso posible.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2023)</small>
+
+El órgano de gobierno denominado Junta de Coordinación Política se integra, exclusivamente, con cada uno (sic) de las y los Diputados Coordinadores de los Grupos Parlamentarios de los Partidos Políticos con representación en el Congreso, así como por las y los Diputados pertenecientes a Partidos Políticos que cuenten con un solo escaño. La Junta de Coordinación Política expresa la pluralidad del Congreso del Estado y toma sus resoluciones por el voto ponderado de sus integrantes, quienes se constituyen en representantes de su Grupo Parlamentario, procurando el máximo consenso posible.
 
 > <small>(REFORMADO, G.P. 2 DE AGOSTO DE 2019)</small>
 
@@ -483,9 +485,9 @@ La Presidencia de la Junta de Coordinación Política y la Presidencia de la Mes
 
 Los Diputados de la misma afiliación de partido deberán constituir un solo Grupo Parlamentario, siendo requisito esencial que lo integre cuando menos dos Diputados. Un Diputado sólo podrá pertenecer a un Grupo Parlamentario.
 
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2023)</small>
 
-En ningún caso pueden constituir o formar parte de otro Grupo Parlamentario, los diputados que se hayan separado de su Grupo Parlamentario original.
+Las Diputadas y los Diputados que se hayan separado de su Grupo Parlamentario original, podrán integrarse y formar parte de otro, siempre que se cumplan con las formalidades y exigencias establecidas en la presente Ley.
 
 Los Grupos Parlamentarios se tendrán por constituidos cuando presenten a la Mesa Directiva del Congreso, los siguientes documentos:
 
@@ -494,6 +496,10 @@ I.- Acta en la que conste la decisión de sus integrantes de constituirse en Gru
 II.- Nombre del Diputado que haya sido designado como Coordinador del Grupo, así como el de quien desempeñe otras actividades directivas.
 
 En caso de cualquier controversia relativa a la aplicación de este artículo, será determinada por las normas estatutarias y los lineamientos de los respectivos partidos políticos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE DICIEMBRE DE 2023)</small>
+
+Las y los Diputados que no se inscriban o dejen de pertenecer a un Grupo Parlamentario, o en su caso renuncien a la militancia del partido de que se trate, serán considerados como Diputadas o Diputados sin partido. La Junta de Coordinación Política, deberá informarle oportunamente de los acuerdos que se emitan.
 
 ###### ARTICULO 29.
 
@@ -3236,3 +3242,11 @@ PRIMERO.- La presente Reforma entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La Unidad de Contraloría Interna del Congreso del Estado tendrá un plazo de 60 días hábiles para la implementación del sistema de información a que se refiere la fracción IV del artículo 81 TER.
 
 TERCERO.- El Congreso del Estado realizará mesas de trabajo, a fin de analizar y en su momento expedir el Reglamento de Entrega y Recepción de los asuntos y recursos públicos del Poder Legislativo del Estado, señalado en la fracción VII del artículo 81 TER.
+
+P.O. 1 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 311 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 27 Y 28 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO. La presente reforma entrará en vigor al momento de su aprobación en el Pleno de esta Soberanía.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria y en el Periódico Oficial del Estado, para los efectos legales conducentes.
