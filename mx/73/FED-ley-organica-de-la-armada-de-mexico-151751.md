@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-armada-de-mexico-151751"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-14"
-last_updated: "2021-10-14"
+last_updated: "2023-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151751&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAM"
 
 LEY ORGÁNICA DE LA ARMADA DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 14 de octubre de 2021.
 
@@ -399,6 +399,10 @@ Las instalaciones de la Armada de México, son todos aquellos bienes inmuebles, 
 I. Cuarteles Generales: Albergan las sedes de los Mandos, sus estados mayores, unidades operativas y áreas administrativas de Mandos de Regiones, Zonas, Sectores Navales, Unidades de Infantería de Marina y Bases Aeronavales;
 
 II. Estaciones Navales: Instalaciones fijas establecidas en lugares estratégicos de la competencia de las Regiones Navales para el apoyo de las operaciones;
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2023)</small>
+
+II Bis. Estaciones Navales de Protección y Vigilancia: Infraestructura establecida en las áreas estratégicas y prioritarias para el apoyo de las operaciones;
 
 III. Establecimientos Educativos Navales: Escuelas, centros de estudios, institutos, centros de capacitación, de entrenamiento y la sede administrativa de la Universidad Naval;
 
@@ -1075,3 +1079,15 @@ Quinto. Las autoridades competentes deberán emitir las disposiciones reglamenta
 Ciudad de México, a 9 de septiembre de 2021.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. María Celeste Sánchez Sugía, Secretaria.- Dip. Fuensanta Guadalupe Guerrero Esquivel, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de octubre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 1 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL Y DE LA LEY ORGÁNICA DE LA ARMADA DE MÉXICO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal expedirá las modificaciones a las disposiciones administrativas correspondientes, que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo que no excederá de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado a la Secretaría de Marina.
