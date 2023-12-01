@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-del-pleno-del-consejo-de-la-judicatura-federal-por-1684
 country: "mx"
 rank: "acuerdo"
 publication_date: "2023-11-16"
-last_updated: "2023-11-16"
+last_updated: "2023-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2023-11-09"
 ---
 # ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [POR EL QUE SE DETERMINA LA LISTA DE LAS PERSONAS VENCEDORAS EN EL PRIMER CONCURSO INTERNO DE OPOSICION PARA LA DESIGNACION DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO ESPECIALIZADOS EN EL SISTEMA PENAL ACUSATORIO CONFORME A LA REFORMA JUDICIAL]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE DICIEMBRE DE 2023 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE DETERMINA LA LISTA DE LAS PERSONAS VENCEDORAS EN EL PRIMER CONCURSO INTERNO DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO ESPECIALIZADOS EN EL SISTEMA PENAL ACUSATORIO CONFORME A LA REFORMA JUDICIAL
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 1 DE DICIEMBRE DE 2023.]</small>
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 16 de noviembre de 2023.
 
@@ -91,7 +91,9 @@ PRIMERO. Las personas participantes que, en el Primer Concurso Interno de Oposic
 
 15 Montes Ortega Xucotzin Karla
 
-16 Morcillo Moguel Ricardo Alonso
+> <small>(F. DE E., D.O.F. 1 DE DICIEMBRE DE 2023)</small>
+
+16 Morcillo Moguel Ricardo Alfonso
 
 17 Negrete Márquez Francisco Enrique Manuel
 
@@ -103,7 +105,9 @@ PRIMERO. Las personas participantes que, en el Primer Concurso Interno de Oposic
 
 21 Pineda Toribio Octavio
 
-22 Quiroz Vanega Yanitt
+> <small>(F. DE E., D.O.F. 1 DE DICIEMBRE DE 2023)</small>
+
+22 Quiroz Vanegas Yanitt
 
 23 Ramírez Peña Daniel
 
