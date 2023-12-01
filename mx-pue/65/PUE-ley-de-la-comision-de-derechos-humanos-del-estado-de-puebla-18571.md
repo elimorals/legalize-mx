@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-comision-de-derechos-humanos-del-estado-de-puebla-185
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-24"
-last_updated: "2023-11-28"
+last_updated: "2023-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 24 de marzo de 2000.
 
@@ -133,25 +133,23 @@ IV.- Gozar de buena reputación y reconocido prestigio; y
 
 V.- No haber sido condenado por delito intencional que amerite pena corporal.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 8.
 
-El Congreso del Estado, elegirá al Presidente de la Comisión de entre las propuestas de organizaciones más representativas de la sociedad - Universidades, Asociaciones Civiles, Colegios, Sociedades, Organismos y demás afines- que se hayan distinguido en el ámbito de la defensa de los derechos humanos y que estén legalmente constituidos.
+El Congreso del Estado, elegirá a la persona titular de la Presidencia de la Comisión de entre las propuestas de organizaciones más representativas de la sociedad -Universidades, Asociaciones Civiles, Colegios, Sociedades, Organismos y demás afines- que se hayan distinguido en el ámbito de la defensa de los derechos humanos y que estén legalmente constituidos.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
+Para elegir a la persona titular de la Presidencia de la Comisión, se seguirá el siguiente procedimiento:
 
-Para ser electo Presidente de la Comisión, se seguirá el siguiente procedimiento:
+I.- El Congreso publicará a través de la Junta de Gobierno y Coordinación Política, dentro del plazo de quince días hábiles previos a la conclusión del mandato de la persona titular de la Comisión de Derechos Humanos del Estado de Puebla, una convocatoria en los medios de comunicación electrónica y cuando menos en dos diarios de mayor circulación en el Estado.
 
-I.- El Congreso publicará a través de la Gran Comisión, dentro del plazo de quince días hábiles previos a la conclusión del mandato del titular de la Comisión de Derechos Humanos del Estado de Puebla, una convocatoria en los medios de comunicación electrónica y cuando menos en dos diarios de mayor circulación en el Estado;
+II.- Dentro de los quince días hábiles a que se hace referencia la fracción anterior la Junta de Gobierno y Coordinación Política del Congreso tendrá un periodo de cinco días naturales para recibir las propuestas que de las personas aspirantes a ocupar el cargo hagan las organizaciones sociales, mismas que deberán acompañarse del currículum de la o las personas aspirantes, el sustento del mismo y los motivos que fundamenten la o las propuestas, mismas que serán turnadas a la Comisión General de Derechos Humanos del Congreso.
 
-II.- Dentro de los quince días hábiles a que se hace referencia la fracción anterior la Gran Comisión del Congreso tendrá un periodo de cinco días naturales para recibir las propuestas que de los aspirantes a ocupar el cargo hagan las organizaciones sociales, mismas que deberán acompañarse del currículum del o los aspirantes, el sustento del mismo y los motivos que fundamenten la o las propuestas, mismas que serán turnadas a la Comisión General de Derechos Humanos del Congreso;
+III.- Las personas aspirantes a titular de la Presidencia que reúnan los requisitos establecidos en la convocatoria, comparecerán ante la Comisión General de Derechos Humanos. En dicha comparecencia, las personas aspirantes presentarán en forma oral y por escrito un proyecto de programa de trabajo que acredite los conocimientos sobre la materia.
 
-III.- Los aspirantes a Presidente que reúnan los requisitos establecidos en la convocatoria, comparecerán ante la Comisión General de Derechos Humanos. En dicha comparecencia, los aspirantes presentarán en forma oral y por escrito un proyecto de programa de trabajo que acredite los conocimientos sobre la materia.
+La Comisión General de Derechos Humanos emitirá el dictamen respectivo y deberá presentarlo a la Junta de Gobierno y Coordinación Política para su aprobación correspondiente; y
 
-La Comisión General de Derechos Humanos emitirá el dictamen respectivo y deberá presentarlo a la Gran Comisión para su aprobación correspondiente; y
-
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
-
-IV.- El Congreso en sesión de Pleno elegirá al Presidente de la Comisión de Derechos Humanos del Estado, requiriéndose para ello el voto de las dos terceras partes de los Diputados presentes. El Presidente durará en su cargo cinco años, pudiendo ser ratificado por el Congreso del Estado, sin mediar convocatoria.
+IV.- El Congreso en sesión de Pleno elegirá a la persona titular de la Presidencia de la Comisión de Derechos Humanos del Estado, requiriéndose para ello el voto de las dos terceras partes de las y los Diputados presentes. La persona titular de la Presidencia durará en su cargo cinco años, pudiendo ser ratificada por el Congreso del Estado, sin mediar convocatoria.
 
 ###### ARTÍCULO 9.
 
@@ -161,25 +159,19 @@ Durante las ausencias temporales o licencias del Presidente de la Comisión, su 
 
 ### CAPÍTULO III. DE LA INTEGRACIÓN DEL CONSEJO CONSULTIVO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 10.
 
-El Consejo Consultivo a que se refiere el artículo 6 de la presente Ley, se integrará por cinco ciudadanos, hombres y mujeres de reconocido prestigio en la sociedad, poblanos en pleno ejercicio de sus derechos ciudadanos, con conocimiento en materia de derechos humanos y cuando menos tres de éstos no deberán desempeñar cargo o comisión como servidores públicos durante el tiempo de su gestión.
+El Consejo Consultivo a que se refiere el artículo 6 de la presente Ley, se integrará por cinco personas ciudadanas, hombres y mujeres de reconocido prestigio en la sociedad, poblanas y poblanos en pleno ejercicio de sus derechos ciudadanos, con conocimiento en materia de derechos humanos y cuando menos tres de estas personas no deberán desempeñar cargo o comisión como personas servidoras públicas durante el tiempo de su gestión.
 
-El Presidente de la Comisión lo será también del Consejo Consultivo. Los cargos de los demás miembros del Consejo serán honoríficos.
+La persona titular de la Presidencia de la Comisión lo será también del Consejo Consultivo. Los cargos de las demás personas integrantes del Consejo serán honoríficos.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
+Las personas integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado serán electas por el Honorable Congreso del Estado; mediante el voto de las dos terceras partes de las personas integrantes presentes en la sesión de Pleno correspondiente, debiendo ser sustituidas cada dos años.
 
-Los miembros del Consejo Consultivo de la Comisión de Derechos Humanos del Estado, serán electos por el Congreso del Estado mediante el voto de las dos terceras partes de los miembros presentes en la sesión de Pleno correspondiente, debiendo ser sustituidos cada dos años.
+La Comisión General de Derechos Humanos convocará con un mes de anticipación a la conclusión del cargo de la persona integrante que corresponda y a través de los medios de comunicación electrónicos y al menos en dos medios impresos de mayor circulación en el Estado, a todas aquellas personas que estén interesadas y reúnan los requisitos mencionados en el presente artículo a efecto de que se inscriban ante ella y participen en la selección que hará la propia Comisión.
 
-> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2009)</small>
-
-La Comisión General de Derechos Humanos convocara con un mes de anticipación a la conclusión del cargo del miembro que corresponda y a través de los medios de comunicación electrónicos y al menos en dos medios impresos de mayor circulación en el Estado, a todas aquellas personas que estén interesadas y reúnan los requisitos mencionados en el presente artículo a efecto de que se inscriban ante ella y participen en la selección que hará la propia Comisión.
-
-> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2009)</small>
-
-La Comisión General contará con un plazo de quince días para emitir dictamen y presentarlo a la Gran Comisión para su aprobación y presentación al Pleno del Congreso.
+La Comisión General contará con un plazo de quince días para emitir dictamen y presentarlo a la Junta de Gobierno y Coordinación Política para su aprobación y presentación al Pleno del Congreso.
 
 ### CAPÍTULO IV. DEL NOMBRAMIENTO DEL SECRETARIO TÉCNICO EJECUTIVO
 
@@ -840,6 +832,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 28 DE NOVIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 13, EL 22 Y LA FRACCIÓN III DEL 57; TODOS DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 8 Y 10 DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
