@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2023-05-03"
+last_updated: "2023-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -720,9 +720,9 @@ VII Quáter.- Administrar y operar el señalamiento marítimo, así como proporc
 
 VIII.- Inspeccionar los servicios de la Armada;
 
-> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2023)</small>
 
-IX.- Construir, reconstruir y conservar las obras portuarias que requiera la Armada y la Secretaría de Marina, así como las obras marítimas, portuarias y de dragado que requiera el país y, en su caso, autorizarlas cuando sobrepasen sus capacidades técnicas y operativas;
+IX.- Construir, reconstruir y conservar las obras portuarias que requiera la Armada y la Secretaría de Marina; las obras marítimas, portuarias y de dragado que requiera el país y, en su caso, autorizarlas cuando sobrepasen sus capacidades técnicas y operativas, así como aquellas que requiera el interés nacional en áreas estratégicas y prioritarias vinculadas al desarrollo marítimo;
 
 X.- Establecer y administrar los almacenes y estaciones de combustibles y lubricantes de la Armada;
 
@@ -794,13 +794,17 @@ XXIII.- Prestar los servicios auxiliares que requiera la Armada, así como los s
 
 XXIV.- Intervenir, en el ámbito de su responsabilidad, en la protección y conservación del medio ambiente marino sin perjuicio de las atribuciones que correspondan a otras dependencias;
 
-> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2023)</small>
 
-XXV.- Inspeccionar, patrullar y llevar a cabo labores de reconocimiento y vigilancia para preservar, las Áreas Naturales Protegidas, en coordinación con las autoridades competentes y de conformidad con las disposiciones aplicables, y
+XXV.- Inspeccionar, patrullar y llevar a cabo labores de reconocimiento y vigilancia para preservar, las Áreas Naturales Protegidas, en coordinación con las autoridades competentes y de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2023)</small>
+
+XXVI.- Coadyuvar en la vigilancia y protección de las instalaciones estratégicas y prioritarias del país, vinculadas al desarrollo nacional, y
 
 > <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2006)</small>
 
-XXVI.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+XXVII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
@@ -3927,3 +3931,13 @@ Décimo Quinto.- La defensa legal ante autoridades administrativas o jurisdiccio
 Los juicios en materia laboral y administrativa en que se condene al cumplimiento de las prestaciones reclamadas a la Secretaría de la Función Pública respecto de las personas servidoras públicas o ex servidoras públicas de las Unidades de Administración y Finanzas nombrados o removidos por esta última, deberán ser cumplidas y pagadas con cargo al presupuesto de la dependencia, órgano administrativo desconcentrado, o entidad paraestatal a la que se encontraba adscrita la parte actora, no obstante que en el laudo o sentencia hubiesen sido absueltos o no llamados a juicio, para tal efecto deberán registrarlo dentro su pasivo contingente.
 
 Décimo Sexto.- Las Unidades de Administración y Finanzas o equivalentes, en lo que no se oponga al presente Decreto, conservarán las facultades operativas de acuerdo con las leyes y ordenamientos que rigen a las dependencias, incluyendo sus órganos administrativos desconcentrados, y entidades paraestatales, y las directrices que para su coordinación y conducción establezca la Secretaría de la Función Pública.
+
+D.O.F. 1 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL Y DE LA LEY ORGÁNICA DE LA ARMADA DE MÉXICO.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal expedirá las modificaciones a las disposiciones administrativas correspondientes, que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo que no excederá de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado a la Secretaría de Marina.
