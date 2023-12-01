@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-146019"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2023-11-06"
+last_updated: "2023-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección X del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -133,9 +133,9 @@ XVII. Proporcionar a los educandos los libros de texto gratuitos y materiales ed
 
 XVIII. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia, y
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2023)</small>
 
-XIX. Promoverá el desarrollo de programas asistenciales, de prevención de riesgos y accidentes, la educación vial, campañas de salubridad, así como programas de seguridad escolar; los cuales, incluso, pueden implicar revisiones a las pertenencias de los educandos, siempre y cuando dichos esquemas respeten sus derechos, justificándose las respectivas medidas proporcionales que deban considerarse a fin de salvaguardarlos y, en general, a la comunidad educativa a la que pertenecen.
+XIX. Promoverá el desarrollo de programas asistenciales, de prevención de riesgos y accidentes, conocimiento en primeros auxilios, la educación vial, campañas de salubridad, así como programas de seguridad escolar; los cuales, incluso, pueden implicar revisiones a las pertenencias de las y los educandos, siempre y cuando dichos esquemas respeten sus derechos, justificándose las respectivas medidas proporcionales que deban considerarse a fin de salvaguardarlos y, en general, a la comunidad educativa a la que pertenecen.
 
 ## TÍTULO SEGUNDO. Del Sistema Educativo Estatal
 
@@ -645,7 +645,9 @@ Para propiciar el desarrollo de sus comunidades el Estado impulsará la educaci�
 
 I. Misiones culturales;
 
-II. Programas de educación, integración familiar, prevención de riesgos y accidentes, educación vial, protección, salud, deporte, defensa legal y fortalecimiento de la cultura de la prevención del delito y la legalidad;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2023)</small>
+
+II. Programas de educación, integración familiar, prevención de riesgos y accidentes, conocimiento en primeros auxilios, educación vial, protección, salud, deporte, defensa legal y fortalecimiento de la cultura de la prevención del delito y la legalidad;
 
 III. Programas de mejoramiento del medio ambiente y preservación ecológica;
 
@@ -1443,9 +1445,11 @@ La autoridad educativa estatal considerará como reconocido (sic) todos los plan
 
 Asimismo, desarrollar sus actividades conforme lo establecido por la presente Ley y demás disposiciones que deriven de ella.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 122.
 
-Las autoridades educativas publicarán en el Periódico Oficial del Estado, en sus portales electrónicos y cuando lo considere conveniente en por lo menos uno de los principales periódicos impresos de mayor circulación en la Entidad, una relación de las instituciones a las que hayan concedido autorización o reconocimiento de validez oficial de estudios, así como de aquellas a las que hayan autorizado para revalidar o equiparar estudios. Asimismo, publicarán, oportunamente y en cada caso, la inclusión o la supresión en dicha lista de las instituciones a las que se les otorguen, revoquen o retiren las autorizaciones o reconocimientos respectivos, así como aquellas que sean clausuradas.
+Las autoridades educativas tendrán la obligación de publicar en el Periódico Oficial del Estado, en su portal electrónico mediante dispositivos que faciliten la expedición de información de manera expedita y oportuna y por lo menos en uno de los periódicos impresos de mayor circulación en los Municipios de la Entidad, una relación de las instituciones a las que se haya concedido autorización o reconocimiento de validez oficial de estudios, así como aquellas a las que se hayan autorizado para revalidar o equiparar estudios. Así mismo publicarán oportunamente y en cada caso, la inclusión o supresión en dicha lista de las instituciones a las que se le otorguen, revoquen o retiren las autorizaciones o reconocimientos respectivos, así como aquellas que sean clausuradas. De igual manera el portal electrónico o la información por medio de los periódicos impresos contendrá la información y orientación a las y los estudiantes sobre los trámites a realizar para presentar denuncias ante la Secretaría en caso de haber sido víctimas de un fraude por parte de escuelas sin reconocimiento oficial.
 
 De igual manera indicarán en dicha publicación, los resultados una vez que apliquen las evaluaciones que, dentro del ámbito de sus atribuciones y de conformidad con lo dispuesto por esta Ley y demás disposiciones aplicables, les correspondan.
 
@@ -1798,3 +1802,19 @@ P.O. 6 DE NOVIEMBRE DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las autoridades educativas del Estado en un plazo de seis meses contados a partir de la vigencia del presente Decreto, actualizarán y/o emitirán los programas o protocolos de promoción, prevención y abordaje de la salud mental de los estudiantes.
+
+P.O. 1 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 313 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN XIX DEL ARTÍCULO 6 Y LA FRACCIÓN II DEL ARTÍCULO 48 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 317 MEDIANTE EL CUAL SE REFORMA (SIC) ARTÍCULO 122 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- La presente Ley entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+SEGUNDO.- La autoridad educativa estatal deberá emitir y adecuar el reglamento y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor.
+
+TERCERO.- La persona titular de la Secretaría de Educación del Estado de Baja California publicará, en los próximos 30 días de que entre en vigor la presente reforma en el portal electrónico de la Secretaría de Educación del Estado y por lo menos en un medio impreso de mayor circulación en los Municipios del Estado un listado con los nombres y datos de las instituciones educativas que cuentan con reconocimiento oficial así mismo como aquellas que no cuentan con el mismo o hayan sido clausuradas o sancionadas.
