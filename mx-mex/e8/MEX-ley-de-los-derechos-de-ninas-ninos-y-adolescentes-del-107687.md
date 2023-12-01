@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2023-11-24"
+last_updated: "2023-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -644,6 +644,10 @@ XX. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilit
 > <small>(ADICIONADA, G.G. 19 DE ABRIL DE 2021)</small>
 
 XXI. Promover y fomentar programas de educación sobre salud bucodental, así como la práctica de hábitos de higiene dental.
+
+> <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
+
+XXII. Establecer políticas públicas que garanticen que las niñas y las adolescentes cuenten con productos para atender su ciclo menstrual, así como la orientación adecuada para utilizarlos.
 
 En todos los casos se respetará el derecho a la intimidad de niñas, niños y adolescentes, conforme a la presente Ley, así como el derecho a la información de quienes detenten la patria potestad, tutela o guarda y custodia de niños, niñas y adolescentes en relación a su estado de su salud, para cumplir con su obligación constitucional de proteger y exigir el cumplimiento del derecho a la salud de niñas, niños y adolescentes.
 
@@ -2440,3 +2444,13 @@ G.G. 24 DE NOVIEMBRE DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 1 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 217.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO, Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese este Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Este Decreto entrará (sic) el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Poder Legislativo del Estado de México asignara recursos públicos en los ejercicios fiscales correspondientes, para cumplir con la presente reforma.
