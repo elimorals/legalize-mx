@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-los-derechos-proteccion-e-integracion-de-las-85797"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-06"
-last_updated: "2023-09-08"
+last_updated: "2023-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 6 de enero de 2012.
 
@@ -569,9 +569,17 @@ X. Fomentar que las instituciones educativas establezcan las disciplinas para la
 
 XI. Fomentar la realización de estudios e investigaciones sobre la problemática inherente a la vejez y que sirvan como herramienta de trabajo a las instituciones del sector público y privado para desarrollar programas en beneficio de las personas adultas mayores;
 
-XII. Promover la difusión de los derechos y valores de las personas adultas mayores, con el propósito de sensibilizar a las familias y a la sociedad respecto a las necesidades de este sector; y
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2023)</small>
 
-XIII. Deberán contener información sobre la población objetivo, metas específicas, así como las evaluaciones de impacto, integralidad, eficiencia y eficacia.
+XII. Promover la difusión de los derechos y valores de las personas adultas mayores, con el propósito de sensibilizar a las familias y a la sociedad respecto a las necesidades de este sector;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2023)</small>
+
+XIII. Deberán contener información sobre la población objetivo, metas específicas, así como las evaluaciones de impacto, integralidad, eficiencia y eficacia; y,
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2023)</small>
+
+XIV. Promover la capacitación para el acceso y uso responsable de las tecnologías de información y comunicación.
 
 ### CAPÍTULO II. FACULTADES Y OBLIGACIONES DE LAS AUTORIDADES
 
@@ -1112,3 +1120,9 @@ P.O. 8 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 279 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1, 2, 6, 7, 38, 41, 42, 44 BIS Y 47, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 6 BIS DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 314 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE LA FRACCIÓN XIV AL ARTÍCULO 35 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
