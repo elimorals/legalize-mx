@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6285
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-22"
-last_updated: "2023-03-08"
+last_updated: "2023-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62859&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 22 de agosto de 2008.
 
@@ -239,13 +239,17 @@ X.- Garantizar la igualdad de oportunidades, mediante la adopción de políticas
 
 XI.- Celebrar acuerdos de coordinación, cooperación y concertación en materia de igualdad de género;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2023)</small>
 
-XII.- Garantizar los derechos de las personas que necesitan cuidados y las que son cuidadoras, a través del reconocimiento, redistribución, reducción, remuneración digna, representación y consideración de las relaciones afectivas en el cuidado y en el trabajo de cuidados como generador de bienes y servicios para la producción y reproducción con justicia social; y
+XII.- Garantizar los derechos de las personas que necesitan cuidados y las que son cuidadoras, a través del reconocimiento, redistribución, reducción, remuneración digna, representación y consideración de las relaciones afectivas en el cuidado y en el trabajo de cuidados como generador de bienes y servicios para la producción y reproducción con justicia social;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2023)</small>
 
-XIII.- Las demás que esta Ley y otros ordenamientos aplicables le confieran.
+XIII.- Establecer programas, medidas y acciones que fomenten la corresponsabilidad en el ámbito familiar; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE DICIEMBRE DE 2023)</small>
+
+XIV.- Las demás que esta Ley y otros ordenamientos aplicables le confieran.
 
 ### CAPÍTULO SEGUNDO. DE LOS MUNICIPIOS
 
@@ -267,7 +271,9 @@ IV.- Diseñar, formular y aplicar campañas de concientización, así como progr
 
 El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta fracción, deberá estar desprovisto de estereotipos establecidos en función del sexo de las personas.
 
-V.- Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales e indígenas;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2023)</small>
+
+V.- Fomentar la participación social, política y ciudadana, así como la corresponsabilidad familiar, dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales e indígenas;
 
 VI.- Celebrar acuerdos de coordinación, cooperación y concertación en materia de igualdad de género; y
 
@@ -950,5 +956,13 @@ P.O. 8 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL INCISO C) DE LA FRACCIÓN I DEL ARTÍCULO 3 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XII Y XIII DEL ARTÍCULO 8 Y LA FRACCIÓN V DEL 9, Y ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 8, TODOS DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
