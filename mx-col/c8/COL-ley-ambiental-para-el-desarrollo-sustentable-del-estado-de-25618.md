@@ -4,7 +4,7 @@ identifier: "COL-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-2561
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2023-09-16"
+last_updated: "2023-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 15 de junio de 2002.
 
@@ -1679,15 +1679,43 @@ Las áreas y espacios verdes municipales bajo las categorías de parques urbanos
 
 Las categorías de áreas de valor ambiental son:
 
-I. Áreas de recuperación ecológica;
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2023)</small>
 
-II. Parques ecológicos estatales; y
+I. Corredores biológicos;
 
-III. Parques ecológicos municipales.
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2023)</small>
 
-Las categorías a las que se refieren las fracciones I y II serán competencia de la Secretaría; compete a los ayuntamientos la categoría establecida en la fracción III del párrafo anterior.
+II. Paisajes bioculturales;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2023)</small>
+
+III. Sumideros de carbono;
+
+IV. Áreas de recuperación ecológica;
+
+V. Parques ecológicos estatales; y
+
+VI. Parques ecológicos municipales.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2023)</small>
+
+Las categorías a las que se refieren las fracciones del I al V, serán competencia de la Secretaría, a través del Instituto; compete a los Ayuntamientos la categoría establecida en la fracción VI del párrafo anterior.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 94.
+
+Los corredores biológicos son aquellos espacios geográficos delimitados, que proporciona conectividad entre paisajes, ecosistemas y hábitat, naturales o modificados, y asegura el mantenimiento de la diversidad biológica y los procesos ecológicos y evolutivos.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2023)</small>
+
+Los paisajes bioculturales son territorios que comparten un paisaje e identidad propia y se maneja bajo una visión compartida. Tienen como misión proteger y valorar el patrimonio natural, cultural y humano de su territorio, conduciendo una política de ordenamiento y de desarrollo económico, social y cultural, que sea innovadora y respetuosa del medio ambiente y su régimen de manejo se define y adopta de forma voluntaria, por los gobiernos municipales, la entidad federativa y los órganos representativos de grupos sociales involucrados.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2023)</small>
+
+Los sumideros de carbono son aquellas áreas que contienen grandes o extensas formaciones vegetales que constituyen un pulmón ya sean en áreas urbanas o rurales, siendo de gran importancia para el territorio estatal debido a que captan grandes concentraciones de CO2 y otros gases de la atmósfera a través de la absorción de su biomasa aérea, reduciendo las concentraciones de contaminantes atmosféricos y mejorando la calidad de vida de los habitantes.
+
+> <small>[N. DE E. REUBICADO - ANTES PRIMER PÁRRAFO DEL ARTÍCULO-, P.O. P.O. 2 DE DICIEMBRE DE 2023]</small>
 
 Las áreas de recuperación ecológica son aquellas en las que se estén produciendo procesos acelerados de desertificación o degradación de ecosistemas costeros, barrancas, bosques, bahías, lagunas, esteros, ríos, arroyos y otros cuerpos de agua ya sean costeros o interiores que estén asignados a la jurisdicción estatal que impliquen la pérdida de recursos naturales o biológicos o presenten afectaciones irreversibles a los ecosistemas o sus elementos.
 
@@ -1707,13 +1735,17 @@ La Secretaría solicitará la opinión del ayuntamiento correspondiente previame
 
 En el establecimiento, administración, manejo y vigilancia de las áreas de valor ambiental se aplicarán, en lo conducente, las disposiciones establecidas en el capítulo siguiente.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 97.
 
-Los programas de manejo de las áreas de valor ambiental que elabore la Secretaría o el ayuntamiento correspondiente y demás participantes que determine el Reglamento, deberán de contener los requisitos establecidos en el artículo 114 y seguir el procedimiento comprendido en el artículo 115 de esta Ley.
+Los programas de manejo de las áreas de valor ambiental que elabore el IMADES o el ayuntamiento correspondiente y demás participantes establecidos en artículo 113 deberán de contener los requisitos establecidos en el artículo 114 y seguir el procedimiento comprendido en el artículo 115 de esta Ley.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 98.
 
-Las prohibiciones que establece la presente Ley en relación con las áreas naturales protegidas, deberán observarse para las áreas de valor ambiental, además de la prohibición para el aprovechamiento o extracción de recursos naturales, salvo en aquellos casos que se determinen en el reglamento respectivo, observando las disposiciones de la presente Ley.
+Las actividades a realizarse o restringirse en las áreas de valor ambiental quedarán estipuladas en los respectivos programas de manejo.
 
 ### CAPÍTULO IV. ÁREAS NATURALES PROTEGIDAS DE JURISDICCIÓN DEL ESTADO
 
@@ -1755,19 +1787,25 @@ I. Zonas de conservación ecológica;
 
 II. Bosques naturales;
 
-III. Corredores biológicos;
+III. (DEROGADA, P.O. 2 DE DICIEMBRE DE 2023)
 
 IV. Zonas de protección hidrológica y ecológica;
 
 V. Zonas ecológicas y culturales;
 
-VI. Refugios de vida silvestre;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2023)</small>
 
-VII. Reservas ecológicas comunitarias;
+VI. Refugios de vida silvestre; y
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2023)</small>
+
+VII. Áreas destinadas voluntariamente a la conservación;
 
 VIII. Las demás establecidas por las disposiciones legales aplicables.
 
-Los ayuntamientos podrán proponer al Gobernador la creación de áreas naturales protegidas dentro de sus jurisdicciones.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2023)</small>
+
+Los Ayuntamientos podrán proponer a la Gobernadora(or) la creación de áreas naturales protegidas dentro de sus jurisdicciones.
 
 ###### ARTÍCULO 101.
 
@@ -1775,7 +1813,7 @@ Las zonas de conservación ecológica son aquellas que contienen muestras repres
 
 Los bosques naturales son las áreas con vegetación natural que tiene por objeto proteger las zonas verdes rurales y semirurales, sus ecosistemas, valores históricos y culturales, fijar límites a la expansión de asentamientos humanos, controlar la erosión, así como fomentar la educación ambiental, la recreación y las actividades deportivas en armonía con la naturaleza.
 
-Los corredores biológicos son las áreas de vegetación natural que contienen muestras representativas de uno o más ecosistemas que funcionan como enlaces entre áreas naturales protegidas constituidas, con el objeto de preservar las funciones biológicas, la biodiversidad y endemismos de los ecosistemas existentes y que pretenden mantener flujos genéticos y constituirse en refugios temporales de poblaciones y subpoblaciones de especies o grupos de especies.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2023)</small>
 
 Las zonas de protección hidrológica y ecológica son aquellas que se establecen para la protección, preservación y restauración de sistemas hídricos naturales, así como su fauna, flora, suelo y subsuelo asociados.
 
@@ -1783,11 +1821,87 @@ Las zonas ecológicas y culturales son aquellas con importantes valores ambienta
 
 Los refugios de vida silvestre son aquellos que constituyen el hábitat natural de especies de fauna y flora que se encuentran en alguna categoría de protección especial o presentan una distribución restringida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 102.
 
-Las reservas ecológicas comunitarias son aquellas establecidas por pueblos, comunidades y ejidos en terrenos de su propiedad destinadas a la preservación, protección y restauración de la biodiversidad, sin que se modifique el régimen de propiedad.
+Las áreas destinadas voluntariamente a la conservación son aquellas establecidas por pueblos, comunidades, ejidos, organizaciones sociales, personas morales, públicas o privadas y demás personas, en terrenos de su propiedad destinadas a la preservación, protección y restauración de la biodiversidad y los ecosistemas, buscando la consecución de los propósitos establecidas en el artículo 99 de la presente ley, sin que se modifique el régimen de propiedad. Los interesados podrán optar por cualquiera de las categorías establecidas en las fracciones del I a la V, previstas en el artículo 100.
 
-La Secretaría promoverá la expedición de la declaratoria correspondiente, mediante la cual se establecerá el programa de manejo del área por parte del promovente, con la participación de aquélla conforme a las atribuciones que al respecto le otorga la presente Ley.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2023)</small>
+
+La Secretaría a través del IMADES, establecerá mediante certificado, el reconocimiento de las Áreas Destinadas Voluntariamente a la Conservación, en la cual se establecerán las estrategias de manejo del área que fueron planteadas por el promovente, con la participación de aquélla conforme a las atribuciones que al respecto le otorga la presente Ley.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 2 DE DICIEMBRE DE 2023)</small>
+
+Las personas interesadas por el establecimiento presentarán una solicitud que contenga:
+
+I. Nombre del propietario;
+
+II. Documento legal que acredite la propiedad del predio;
+
+III. En su caso, la resolución de la asamblea ejidal o comunal en la que se manifieste la voluntad de destinar sus predios a la conservación;
+
+IV. Nombre de las personas autorizadas para realizar actos de administración en el área;
+
+V. Denominación, ubicación, superficie y colindancias del área;
+
+VI. Descripción de las características físicas y biológicas generales del área;
+
+VII. Estrategia de manejo que incluya la zonificación del área, y
+
+VIII. Plazo por el que se desea certificar el área, el cual no podrá ser menor a quince años.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2023)</small>
+
+El IMADES dará acompañamiento para la integración de la solicitud a las personas interesadas, en especial con asesoría técnica respecto a lo establecido en la fracción VII, del presente artículo.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 102 BIS.- Para el cumplimiento de las disposiciones de la presente Ley, en relación al establecimiento de las áreas naturales protegidas, se realizará una división y subdivisión que permita identificar y delimitar las porciones del territorio que la conforman, acorde con sus elementos biológicos, físicos y socioeconómicos, los cuales constituyen un esquema integral y dinámico, por lo que cuando se realice la delimitación territorial de las actividades en las áreas naturales protegidas, ésta se llevará a cabo a través de las siguientes zonas y sus respectivas subzonas, de acuerdo a su categoría de manejo:
+
+I. Las zonas núcleo, tendrán como principal objetivo la preservación de los ecosistemas y su funcionalidad a mediano y largo plazo, en donde se podrán autorizar las actividades de preservación de los ecosistemas y sus elementos, de investigación y de colecta científica, educación ambiental, y limitarse o, prohibirse aprovechamientos que alteren los ecosistemas. Estas zonas podrán estar conformadas por las siguientes subzonas:
+
+a) De protección: Aquellas superficies dentro del área natural protegida, que han sufrido muy poca alteración, así como ecosistemas relevantes o frágiles, o hábitats críticos, y fenómenos naturales, que requieren de un cuidado especial para asegurar su conservación a largo plazo.
+
+En las subzonas de protección sólo se permitirá realizar actividades de monitoreo del ambiente, de Investigación científica no invasiva en los términos del reglamento correspondiente, que no implique la extracción o el traslado de especímenes, ni la modificación del hábitat.
+
+b) De uso restringido: Aquellas superficies en buen estado de conservación donde se busca mantener las condiciones actuales de los ecosistemas, e incluso mejorarlas en los sitios que así se requieran, y en las que se podrán realizar excepcionalmente actividades de aprovechamiento que no modifiquen los ecosistemas y que se encuentren sujetas a estrictas medidas de control.
+
+En las subzonas de uso restringido sólo se permitirán la investigación científica no invasiva y el monitoreo del ambiente, las actividades de educación ambiental y turismo de bajo impacto ambiental, que no impliquen modificaciones de las características o condiciones naturales originales, y la construcción de instalaciones de apoyo, exclusivamente para la investigación científica o el monitoreo del ambiente.
+
+II. Las zonas de amortiguamiento; tendrán como función principal orientar a que las actividades de aprovechamiento, que ahí se lleven a cabo, se conduzcan hacia el desarrollo sustentable, creando al mismo tiempo las condiciones necesarias para lograr la conservación de los ecosistemas de ésta a largo plazo, y podrán estar conformadas básicamente por las siguientes subzonas:
+
+a) De preservación: Aquellas superficies en buen estado de conservación que contienen ecosistemas relevantes o frágiles, o fenómenos naturales relevantes, en las que el desarrollo de actividades requiere de un manejo específico, para lograr su adecuada preservación.
+
+En las subzonas de preservación sólo se permitirán la investigación científica y el monitoreo del ambiente, las actividades de educación ambiental y las actividades productivas de bajo impacto ambiental que no impliquen modificaciones sustanciales de las características o condiciones naturales originales, promovidas por las comunidades locales o con su participación, y que se sujeten a una supervisión constante de los posibles impactos negativos que ocasionen, de conformidad con lo dispuesto en los ordenamientos jurídicos y reglamentarios que resulten aplicables.
+
+b) De uso tradicional: Aquellas superficies en donde los recursos naturales han sido aprovechados de manera tradicional y continua, sin ocasionar alteraciones significativas en el ecosistema. Están relacionadas particularmente con la satisfacción de las necesidades socioeconómicas y culturales de los habitantes del área protegida.
+
+En dichas subzonas no podrán realizarse actividades que amenacen o perturben la estructura natural de las poblaciones y ecosistemas o los mecanismos propios para su recuperación. Sólo se podrán realizar actividades de investigación científica, educación ambiental y de turismo de bajo impacto ambiental, así como, en su caso, pesca artesanal con artes de bajo impacto ambiental; así como la infraestructura de apoyo que se requiera, utilizando ecotécnias y materiales tradicionales de construcción propios de la región, aprovechamiento de los recursos naturales para la satisfacción de las necesidades económicas básicas y de autoconsumo de los pobladores, utilizando métodos tradicionales enfocados a la sustentabilidad, conforme lo previsto en las disposiciones legales y reglamentarias aplicables.
+
+c) De aprovechamiento sustentable de los recursos naturales: Aquellas superficies en las que los recursos naturales pueden ser aprovechados, y que, por motivos de uso y conservación de sus ecosistemas a largo plazo, es necesario que todas las actividades productivas, se efectúen bajo esquemas de aprovechamiento sustentable.
+
+En dichas subzonas se permitirán exclusivamente el aprovechamiento y manejo de los recursos naturales renovables, siempre que estas acciones generen beneficios preferentemente para los pobladores locales, la investigación científica, la educación ambiental y el desarrollo de actividades turísticas de bajo impacto ambiental.
+
+Asimismo, el aprovechamiento sustentable de la vida silvestre podrá llevarse a cabo siempre y cuando se garantice su reproducción controlada o se mantengan o incrementen las poblaciones de las especies aprovechadas y el hábitat del que dependen; y se sustenten en los planes correspondientes autorizados por la autoridad federal competente, conforme a las disposiciones legales y reglamentarias aplicables.
+
+d) De aprovechamiento sustentable de los ecosistemas: Aquellas superficies con usos agrícolas, pesqueros y pecuarios actuales.
+
+En dichas subzonas se podrán realizar actividades agrícolas, pesqueras y pecuarias de baja intensidad que se lleven a cabo en predios, o zonas que cuenten con aptitud para este fin, y en aquellos en que dichas actividades se realicen de manera cotidiana, y actividades de pesquería artesanal, agroforestería y silvopastoriles, siempre y cuando sean compatibles con las acciones de conservación del área, y que en su caso contribuyan al control de la erosión y evitar la degradación de los suelos.
+
+La ejecución de las prácticas agrícolas, pesqueras, pecuarias, agroforestales y silvopastoriles que no estén siendo realizadas en forma sustentable, deberán orientarse hacia la sustentabilidad y a la disminución del uso de agroquímicos e insumos externos para su realización.
+
+e) De aprovechamiento especial: Aquellas superficies generalmente de extensión reducida, con presencia de recursos naturales que son esenciales para el desarrollo social, y que deben ser explotadas sin deteriorar el ecosistema, modificar el paisaje de forma sustancial, ni causar impactos ambientales irreversibles en los elementos naturales que conformen.
+
+f) De uso público: Aquellas superficies que presentan atractivos naturales para la realización de actividades de recreación y esparcimiento, en donde es posible mantener concentraciones de visitantes, en los límites que se determinen con base en la capacidad de carga de los ecosistemas.
+
+En dichas subzonas se podrá llevar a cabo exclusivamente la construcción de instalaciones para el desarrollo de servicios de apoyo al turismo, a la investigación y monitoreo del ambiente, y la educación ambiental, congruentes con los propósitos de protección y manejo de cada área natural protegida.
+
+g) De asentamientos humanos: En aquellas superficies donde se ha llevado a cabo una modificación sustancial o desaparición de los ecosistemas originales, debido al desarrollo de asentamientos humanos, previos a la declaratoria del área protegida; y
+
+h) De recuperación: Aquellas superficies en las que los recursos naturales han resultado severamente alterados o modificados, y que serán objeto de programas de recuperación y rehabilitación, por lo que no deberán continuar las actividades que llevaron a dicha alteración.
+
+En dichas subzonas sólo se podrán ejecutar obras públicas o privadas para la instalación de infraestructura o explotación de recursos naturales, que generen beneficios públicos, que guarden armonía con el paisaje, que no provoquen desequilibrio ecológico grave y que estén sujetos a estrictas regulaciones de uso sustentable de los recursos naturales, con apego estricto a los programas de manejo emitidos por el IMADES.
 
 ###### ARTÍCULO 103.
 
@@ -1795,13 +1909,17 @@ La administración y manejo de las áreas naturales protegidas de propiedad o ju
 
 En el caso de las áreas naturales protegidas de propiedad social, su administración corresponderá a sus propietarios o poseedores o a la Secretaría, en el caso de suscribir convenios administrativos para tal fin con los pueblos, comunidades y ejidos.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 104.
 
-En las áreas naturales protegidas se podrán realizar actividades de protección, preservación, restauración y aprovechamiento sustentable y controlado de recursos naturales, investigación, educación ambiental, recreación y turismo alternativo. El programa de manejo correspondiente establecerá cuáles de estas actividades están permitidas realizar de conformidad con las especificaciones de las categorías de áreas naturales protegidas que esta Ley y demás ordenamientos jurídicos aplicables establecen.
+En las áreas naturales protegidas se podrán realizar actividades de protección, preservación, restauración y aprovechamiento sustentable y controlado de recursos naturales, investigación, educación ambiental, recreación y turismo alternativo. El programa de manejo correspondiente establecerá cuáles de estas actividades están permitidas realizar de conformidad con las especificaciones de las categorías de áreas naturales protegidas y las diversas zonificaciones que esta Ley y demás ordenamientos jurídicos aplicables establecen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 105.
 
-En las áreas naturales protegidas queda prohibido:
+Dentro de las zonas núcleo de las áreas naturales protegidas queda prohibido:
 
 I. El establecimiento de cualquier asentamiento humano irregular, y de nuevos asentamientos humanos regulares o su expansión territorial;
 
@@ -1859,11 +1977,15 @@ IX. Los lineamientos para la realización de las acciones de preservación, rest
 
 Los propietarios, poseedores o titulares de otros derechos sobre tierras, aguas y bosques comprendidos dentro de las áreas naturales protegidas deberán sujetarse a las modalidades y limitaciones que, de conformidad con la presente Ley, establezcan los decretos por los que se constituyan dichas áreas. En todo caso, en las áreas naturales protegidas no podrá autorizarse la fundación de nuevos centros de población.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 108.
 
 Las declaratorias deberán publicarse en el Periódico Oficial y se notificarán previamente a las y los propietarios o poseedores de los predios afectados, en forma personal cuando se conocieren sus domicilios; en caso contrario se hará una segunda publicación, la que surtirá efectos de notificación. Las declaratorias se inscribirán en el Registro Público de la Propiedad y del Comercio.
 
-Una vez establecida un área natural protegida sólo podrá ser modificada su extensión y, en su caso, los usos del suelo permitidos por la autoridad que la haya establecido, siguiendo las mismas formalidades previstas en esta Ley para la expedición de la declaratoria respectiva de conformidad con los estudios que al efecto realice la Secretaría.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2023)</small>
+
+Una vez establecida un área natural protegida sólo podrá ser modificada su extensión y, en su caso, los usos del suelo permitidos por la autoridad que la haya establecido, siguiendo las mismas formalidades previstas en esta Ley para la expedición de la declaratoria respectiva de conformidad con los estudios que al efecto realice el IMADES.
 
 ###### ARTÍCULO 109.
 
@@ -1901,9 +2023,11 @@ IV. Promoverán el establecimiento de disposiciones mediante las cuales se otorg
 
 El Gobierno del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, podrán otorgar a particulares, previa convocatoria pública y en los términos de las leyes aplicables, concesiones en bienes y servicios del dominio público ubicados dentro de las áreas naturales protegidas para la creación, operación y desarrollo de infraestructura compatible con las declaratorias y los programas de manejo. Las comunidades, ejidos y pueblos indígenas vecinos del área tendrán preferencia en el otorgamiento de las mismas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 113.
 
-En el establecimiento, administración y desarrollo de las áreas naturales protegidas participarán los habitantes, propietarios o poseedores, los gobiernos estatal y municipal, a través de sus dependencias con injerencia en la materia, grupos y organizaciones sociales, universidades y centros académicos, así como otras entidades públicas y privadas con objeto de propiciar el desarrollo integral y sustentable de la comunidad y asegurar la protección y preservación de los ecosistemas y su biodiversidad.
+En el establecimiento, administración y desarrollo de las áreas naturales protegidas el IMADES garantizará la participación de los habitantes, propietarios o poseedores, los gobiernos estatal y municipal, a través de sus dependencias con injerencia en la materia, grupos y organizaciones sociales, universidades y centros académicos, así como otras entidades públicas y privadas con objeto de propiciar el desarrollo integral y sustentable de la comunidad y asegurar la protección y preservación de los ecosistemas y su biodiversidad.
 
 Para tal efecto, la Secretaría podrá suscribir con los interesados los convenios de concertación o acuerdos de coordinación que corresponda.
 
@@ -3292,3 +3416,9 @@ P.O. 16 DE SEPTIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 2 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 365.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
