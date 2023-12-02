@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2023-11-04"
+last_updated: "2023-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2023.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -975,11 +975,11 @@ Incurrirán en responsabilidad y se harán acreedores a las sanciones que la ley
 
 Una vez concluido el proceso electoral y agotados los procedimientos señalados en el artículo anterior, en su caso, los Diputados y Diputadas integrantes de la Cámara otorgarán protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las leyes que de ellas emanen; rindiéndola por sí, a quien ocupe la presidencia de la Junta Preparatoria, quien la tomará después a los otros Diputados y Diputadas. Acto seguido, se designará la Mesa Directiva del Congreso y se hará la declaración solemne de quedar instalada la Legislatura respectiva y abierto su primer período de sesiones ordinarias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 23.
 
-El Congreso del Estado tendrá dos períodos ordinarios de sesiones al año: el primero, del cinco de septiembre al quince de diciembre; y el segundo, del uno de febrero al quince de mayo, excepto cuando el Gobernador o la Gobernadora del Estado inicie su mandato en la fecha prevista en el artículo 45, primer párrafo, de esta Constitución, en cuyo caso el primer período ordinario podrá extenderse hasta el 31 de diciembre, previo acuerdo de la mayoría de los integrantes del Congreso.
+El Congreso del Estado tendrá dos períodos ordinarios de sesiones al año; el primero, del cinco de septiembre al quince de diciembre; y el segundo, del uno de febrero al quince de mayo.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
@@ -4106,3 +4106,19 @@ TERCERO. La observancia del principio de paridad de género será aplicable a qu
 Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
 
 CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2023
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 177 POR EL QUE “SE REFORMA EL PRIMER PÁRRAFO, DEL ARTÍCULO 23 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El correspondiente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En un período no mayor a sesenta días naturales a partir de la entrada en vigor del correspondiente Decreto, realícense las reformas o adiciones necesarias a los ordenamientos secundarios.
