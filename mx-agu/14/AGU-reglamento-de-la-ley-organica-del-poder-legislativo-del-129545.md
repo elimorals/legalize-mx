@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-organica-del-poder-legislativo-del-129545"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-07-09"
-last_updated: "2022-06-13"
+last_updated: "2023-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2023.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -841,9 +841,11 @@ Los gastos originados para la realización de los foros de consulta pública cor
 
 ### CAPÍTULO XII. LOS RECURSOS ECONÓMICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 84.
 
-Las comisiones y comités podrán disponer de recursos económicos para el cumplimiento de sus funciones, mismos que deberán estar contenidos en la partida respectiva del Presupuesto Anual de las comisiones y comités, que para tal efecto apruebe el Pleno en el Presupuesto de Egresos del Poder Legislativo del ejercicio fiscal que corresponda.
+Las comisiones y comités podrán disponer de recursos económicos para el cumplimiento de sus funciones, de acuerdo a los principios de disciplina presupuestal, austeridad, eficacia, transparencia, racionalidad económica, certeza y legalidad, dando prioridad a la cultura del reciclaje; mismos que deberán estar contenidos en la partida respectiva del Presupuesto Anual de las comisiones y comités, que para tal efecto apruebe el Pleno en el Presupuesto de Egresos del Poder Legislativo del ejercicio fiscal que corresponda.
 
 La asignación de dichos recursos atenderá al Plan Anual de Trabajo presentado por cada comisión y comité.
 
@@ -2376,3 +2378,7 @@ P.O. 13 DE JUNIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE DICIEMBRE DE 2023.
+
+> <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.]</small>
