@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2023-08-22"
+last_updated: "2023-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -744,6 +744,10 @@ I.- Los partidos políticos son entidades de interés público; la ley determina
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
 Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, fomentar el principio de paridad de género, contribuir a la integración de los órganos de representación política y como organizaciones ciudadanas, hacer posible su acceso al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como las reglas que marque la ley electoral para garantizar la paridad de género, en la postulación de candidaturas a los distintos cargos de elección popular, atendiendo los criterios de verticalidad y horizontalidad.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+No podrán ser postuladas a cargos de elección popular las personas que estén cumpliendo sentencia ejecutoriada por algún delito contra el normal desarrollo psicosexual, violencia familiar o violencia política contra las mujeres en razón de género; así como quienes sean deudores alimentarios morosos, salvo que acrediten estar al corriente del pago, cancelen esa deuda, o bien tramiten el descuento correspondiente. El Instituto Estatal Electoral verificará el cumplimiento de esta disposición.
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
@@ -4350,3 +4354,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su public
 SEGUNDO. En un plazo no mayor de 180 días naturales a partir de la entrada en vigor del presente Decreto, se deberán adecuar las leyes secundarias, los reglamentos y las disposiciones administrativas correspondientes para la correcta implementación del presente Decreto.
 
 TERCERO. Los Poderes Legislativo y Judicial, así como los órganos autónomos, emitirán las disposiciones necesarias y realizarán las acciones que les correspondan conforme a sus competencias con el propósito de cumplir con lo dispuesto en este Decreto, en un plazo no mayor de 60 días naturales posteriores al término del plazo señalado en el artículo transitorio anterior.
+
+P.O. 4 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 588 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO, RECORRIENDO EN SU ORDEN LOS SUBSECUENTES, A LA FRACCIÓN I DEL ARTÍCULO 24 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
