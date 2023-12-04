@@ -4,7 +4,7 @@ identifier: "LFPED"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2003-06-11"
-last_updated: "2023-01-19"
+last_updated: "2023-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31735&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPED"
 
 LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de junio de 2003.
 
@@ -61,6 +61,18 @@ II. Consejo: El Consejo Nacional para Prevenir la Discriminación;
 III. Discriminación: Para los efectos de esta ley se entenderá por discriminación toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud física o mental, jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo;
 
 También se entenderá como discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia;
+
+> <small>(ADICIONADA, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
+
+III Bis. Discriminación interseccional, se presenta cuando dos o más motivos prohibidos de discriminación, de forma concomitante, producen un efecto mayor al de la suma simple de cada uno de aquellos motivos:
+
+a) Discriminación directa: Cuando una persona recibe un trato menos favorable que otra en una situación similar, por alguna causa relacionada con uno o varios de los motivos prohibidos de discriminación previstos en la presente Ley.
+
+b) Discriminación indirecta: Es aquella que se produce en la esfera pública o privada, cuando una disposición, un criterio o una práctica, aparentemente neutro, es susceptible de implicar una desventaja particular para las personas que pertenecen a un grupo específico, o los pone en desventaja, a menos que dicha disposición, criterio o práctica tenga un objetivo o justificación razonable y legítimo.
+
+c) Discriminación estructural o sistémica: Se refiere al conjunto de normas, reglas, rutinas, patrones, actitudes y pautas de comportamiento que dan paso a una situación de inferioridad y exclusión contra un grupo de personas de forma generalizada, las cuales son perpetuadas a lo largo del tiempo.
+
+d) Discriminación por asociación: Es aquella que ocurre en razón de la relación y/o asociación a una persona o grupo de personas que tengan o les sean atribuidos los motivos previstos en la fracción III del artículo 1;
 
 IV. Diseño universal: Se entenderá el diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado;
 
@@ -195,6 +207,14 @@ XXII Bis. La falta de accesibilidad en el entorno físico, el transporte, la inf
 > <small>(ADICIONADA, D.O.F. 20 DE MARZO DE 2014)</small>
 
 XXII Ter. La denegación de ajustes razonables que garanticen, en igualdad de condiciones, el goce o ejercicio de los derechos de las personas con discapacidad;
+
+> <small>(ADICIONADA, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
+
+XXII Quáter. Impedir, negar, restringir o condicionar el acceso de las personas con discapacidad a establecimientos públicos con personas o animales de apoyo o asistencia, de conformidad con lo establecido en la Ley General para la Inclusión de las Personas con Discapacidad;
+
+> <small>(ADICIONADA, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
+
+XXII Quintus. Obstruir cualquier medida de accesibilidad en el entorno físico, el transporte, la información, tecnología y comunicaciones, en servicios e instalaciones abiertos al público o de uso público y demás elementos destinados a la accesibilidad y movilidad de las personas con discapacidad;
 
 XXIII. Explotar o dar un trato abusivo o degradante;
 
@@ -1581,3 +1601,15 @@ D.O.F. 19 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 2 DE LA LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN".]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN III BIS AL ARTÍCULO 1 DE LA LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 9 DE LA LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
