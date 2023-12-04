@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108837"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2023-06-30"
+last_updated: "2023-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 2 de junio de 2015.
 
@@ -267,19 +267,25 @@ IV. Derecho a vivir en familia;
 
 V. Derecho a la igualdad sustantiva;
 
-VI. Derecho a no ser discriminado;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+VI. Derecho a no ser discriminado y a recibir protección especial cuando se encuentre en situación de discriminación múltiple;
 
 VII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral;
 
 VIII. Derecho a una vida libre de violencia y a la integridad personal;
 
-IX. Derecho a la protección de la salud y a la seguridad social;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+IX. Derecho a la protección de la salud física y mental, y a la seguridad social;
 
 X. Derecho a la inclusión de niñas, niños y adolescentes con discapacidad;
 
 XI. Derecho a la educación;
 
-XII. Derecho al descanso y al esparcimiento;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+XII. Derecho al descanso, al juego y al esparcimiento;
 
 XIII. Derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión y cultura;
 
@@ -291,11 +297,21 @@ XVI. Derecho de asociación y reunión;
 
 XVII. Derecho a la intimidad;
 
-XVIII. Derecho a la seguridad jurídica y al debido proceso;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
-XIX. Derechos de niñas, niños y adolescentes migrantes; y
+XVIII. Derecho a la seguridad jurídica, acceso a la justicia y al debido proceso;
 
-XX. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+XIX. Derechos de niñas, niños y adolescentes migrantes;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+XX. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión; y
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+XXI. Derecho a la protección y seguridad sexual.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas atribuciones, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -837,7 +853,9 @@ III. Establecer mecanismos gratuitos de atención, asesoría, orientación y pro
 
 IV. Establecer y aplicar las sanciones que correspondan a las personas, responsables de centros de asistencia social, personal docente o servidores públicos que realicen, promuevan, propicien, toleren o no denuncien actos de acoso o violencia escolar, conforme a lo dispuesto en la presente Ley y demás disposiciones aplicables.
 
-### CAPÍTULO DÉCIMO SEGUNDO. DE LOS DERECHOS AL DESCANSO Y AL ESPARCIMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO DÉCIMO SEGUNDO. DE LOS DERECHOS AL DESCANSO, AL JUEGO Y AL ESPARCIMIENTO
 
 ###### Artículo 59.
 
@@ -845,9 +863,11 @@ Niñas, niños y adolescentes tienen derecho al descanso, al esparcimiento, al j
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia de las niñas, niños y adolescentes deberán respetar el goce y ejercicio de estos derechos y, por lo tanto, no podrán imponerles regímenes de vida, estudio, trabajo o reglas de disciplina desproporcionadas a su edad, desarrollo evolutivo, cognoscitivo y madurez, que impliquen la renuncia o el menoscabo de los mismos.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 60.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas atribuciones, están obligadas a garantizar el derecho de las niñas, niños y adolescentes al descanso y el esparcimiento y a fomentar oportunidades apropiadas, en condiciones de igualdad, para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas atribuciones, están obligadas a garantizar el derecho de las niñas, niños y adolescentes al descanso y el esparcimiento y a fomentar oportunidades apropiadas, en condiciones de igualdad, para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad. Están obligadas también a fomentar el derecho al juego en espacios públicos y otros, como en ludotecas.
 
 ### CAPÍTULO DÉCIMO TERCERO. DE LOS DERECHOS DE LA LIBERTAD DE CONVICCIONES ÉTICAS, PENSAMIENTO, CONCIENCIA, RELIGIÓN Y CULTURA
 
@@ -1005,11 +1025,15 @@ En los procedimientos ante órganos jurisdiccionales se podrá solicitar que se 
 
 El órgano jurisdiccional competente, con base en este artículo y en las disposiciones aplicables, podrá requerir a las empresas de prestación de servicios en materia de medios electrónicos que realicen las acciones necesarias para el cumplimiento de las medidas cautelares que ordene.
 
-### CAPÍTULO DÉCIMO OCTAVO. DEL DERECHO A LA SEGURIDAD JURÍDICA Y AL DEBIDO PROCESO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO DÉCIMO OCTAVO. DEL DERECHO A LA SEGURIDAD JURÍDICA, ACCESO A LA JUSTICIA Y AL DEBIDO PROCESO
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 80.
 
-Niñas, niños y adolescentes gozan de los derechos y garantías de seguridad jurídica y debido proceso establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, la presente Ley y demás disposiciones aplicables.
+Niñas, niños y adolescentes gozan de los derechos y garantías de seguridad jurídica, acceso a la justicia y al debido proceso establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, la presente Ley y demás disposiciones aplicables.
 
 ###### Artículo 81.
 
@@ -2178,3 +2202,11 @@ P.O. 30 DE JUNIO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
+
+P.O. 4 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 281 POR EL QUE “SE ADICIONA LA FRACCIÓN XXI Y SE REFORMAN LAS FRACCIONES VI, IX, XII, XVIII, XIX Y XX DEL ARTÍCULO 13; LA DENOMINACIÓN DEL CAPÍTULO DÉCIMO SEGUNDO PARA QUEDAR COMO “DE LOS DERECHOS AL DESCANSO, AL JUEGO Y AL ESPARCIMIENTO”; LA DENOMINACIÓN DEL CAPÍTULO DÉCIMO OCTAVO PARA QUEDAR COMO “DEL DERECHO A LA SEGURIDAD JURÍDICA, ACCESO A LA JUSTICIA Y AL DEBIDO PROCESO” AMBOS DEL TÍTULO SEGUNDO; LOS ARTÍCULOS 60 Y 80 TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
