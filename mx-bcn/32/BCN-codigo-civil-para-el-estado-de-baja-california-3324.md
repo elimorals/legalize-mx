@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2023-04-21"
+last_updated: "2023-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2023.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -339,11 +339,11 @@ Cuando los interesados no puedan concurrir personalmente, podrán hacerse repres
 
 Los testigos que intervengan en las actas del Registro Civil, serán mayores de edad, prefiriéndose a los parientes y a los que designen los interesados, asentándose en el acta su nombre, edad, domicilio, nacionalidad y grado de parentesco si lo hay.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 49.
 
-Para acreditar el estado civil adquirido por los mexicanos fuera de la República, bastarán las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto por el Código Federal de Procedimientos Civiles en cuanto a su legalización, debiendo inscribirse esos actos en la Oficialía que corresponda.
+Para acreditar el estado civil adquirido por las personas mexicanas fuera de la República, bastarán las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto por el Código Federal de Procedimientos Civiles o el Código Nacional de Procedimientos Civiles y Familiares, en cuanto a su legalización, debiendo inscribirse esos actos en la Oficialía que corresponda.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -1599,9 +1599,11 @@ Terminado el inventario, se pagarán los créditos que hubiere contra el fondo s
 
 Muerto uno de los cónyuges, continuará el que sobreviva en la posesión y administración del fondo social, con intervención del representante de la sucesión, mientras no se verifique la partición.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 203.
 
-Todo lo relativo a la formación de inventarios y solemnidades de la partición y adjudicación de los bienes, se regirá por lo que disponga el Código de Procedimientos Civiles.
+Todo lo relativo a la formación de inventarios y solemnidades de la partición y adjudicación de los bienes, se regirá por lo que disponga el Código de Procedimientos aplicable en la materia.
 
 ### CAPITULO VI. DE LA SEPARACION DE BIENES
 
@@ -1989,49 +1991,47 @@ Son causas de divorcio los actos inmorales ejecutados por el marido o por la muj
 
 Para que pueda pedirse el divorcio por causa de enajenación mental que se considere incurable, es necesario que hayan transcurrido dos años desde que comenzó a padecerse la enfermedad.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 269.
 
-Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijos en común o si los hubiere sean mayores de edad y estos no requieran alimentos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Oficial del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de una manera terminante y explicita su voluntad de divorciarse.
+Cuando ambas personas consortes convengan en divorciarse y sean mayores de edad, no tengan hijas o hijos en común o si los hubiere sean mayores de edad y estos no requieran alimentos y no tengan bienes o deudas pertenecientes al patrimonio conyugal, procederá el divorcio bilateral o por mutuo consentimiento en los términos de la legislación aplicable.
 
-El Oficial del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el Oficial del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la de matrimonio anterior.
+Para su tramitación se presentarán personalmente ante la o el Oficial del Registro Civil del lugar de su domicilio, comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de una manera terminante y explicita su voluntad de divorciarse.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2017)</small>
+La o el Oficial del Registro Civil, previa identificación de las personas consortes, y ratificando en el mismo acto su voluntad de divorciarse, con lo cual se levantará un acta en que los declarará divorciados y hará la anotación correspondiente en el acta de matrimonio.
 
-El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos menores de edad o los hijos mayores de edad requieran alimentos o no han liquidado su sociedad conyugal, y entonces aquellos sufrirán las penas que establezca el código de (sic) penal del Estado.
+El divorcio así obtenido no surtirá efectos legales si se comprueba que las personas cónyuges tienen hijos menores de edad o los hijos mayores de edad requieran alimentos o tengan bienes o deudas pertenecientes al patrimonio conyugal, y entonces aquellos sufrirán las penas que establezca el código de (sic) penal del Estado.
 
-Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al Juez competente en los términos que ordena el Código de Procedimientos Civiles.
+Las personas consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse mediante el divorcio bilateral o mutuo consentimiento, ocurriendo al Juez competente en los términos que ordena el Código de Procedimientos aplicable en la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 270.
 
-Los cónyuges que se encuentren en el caso del último párrafo del Artículo anterior, están obligados a presentar al Juzgado un convenio en que se fijen los siguientes puntos:
+Las personas cónyuges que se encuentren en el caso del último párrafo del artículo anterior, están obligados a presentar al Juzgado un convenio en que se fijen los siguientes puntos:
 
-I.- Designación de persona a quien sean confiados los hijos del matrimonio, tanto durante el procedimiento como después de ejecutoriado el divorcio;
+I.- De existir hijos o hijas menores de edad, quien ejercerá su guarda y custodia, la fijación de la pensión alimenticia que les corresponderá y el establecimiento de un régimen de convivencias, así como la pensión alimenticia que, en su caso pudiera corresponder al o la divorciante, y
 
-II.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
-
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 1975)</small>
-
-III.- La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento;
-
-IV.- La cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento, la forma de hacer el pago y la garantía que debe darse para asegurarlo;
-
-V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. A ese efecto se acompañará un inventario y avalúo de todos los bienes muebles o inmuebles de la sociedad.
+II.- La forma en que deban distribuirse los bienes, derechos y obligaciones que se hayan adquirido durante el matrimonio, de conformidad con el régimen patrimonial al que estuviera sujeto el matrimonio.
 
 ###### ARTICULO 271.
 
-El divorcio por mutuo consentimiento no puede pedirse sino pasado un año de la celebración del matrimonio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2023)
 
 ###### ARTICULO 272.
 
 Mientras que se decrete el divorcio, el Juez autorizará la separación de los cónyuges de una manera provisional, y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes hay obligación de dar alimentos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+En caso de afectarse derechos de niñas, niños o adolescentes, la persona Juez dará vista a la persona Agente del Ministerio Público.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 273.
 
-Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
+Las personas cónyuges que hayan solicitado el divorcio bilateral o por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado.
 
 ###### ARTICULO 274.
 
@@ -3247,9 +3247,11 @@ Cuando fallezca una persona que ejerza la patria potestad sobre una persona meno
 
 La tutela es testamentaria, legítima, pública, dativa o autodesignada.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 459.
 
-Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código de Procedimientos Civiles, el estado de incapacidad de la persona que va a quedar sujeta a ella.
+Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código de Procedimientos aplicable en la materia.
 
 ###### ARTICULO 460.
 
@@ -3651,9 +3653,11 @@ VIII.- Los que por su inexperiencia en los negocios o por causa grave, a juicio 
 
 Si el que teniendo excusa legítima para ser tutor acepta el cargo, renuncia por el mismo hecho a la excusa que le concede la Ley.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 510.
 
-El tutor debe proponer sus impedimentos o excusas dentro del término fijado por el Código de Procedimientos Civiles, y cuando transcurra el término sin ejercitar el derecho, se entiende renunciada la excusa.
+La persona que ejerza la tutela debe proponer sus impedimentos o excusas dentro del término fijado por el Código de Procedimientos aplicable en la materia, y cuando transcurra el término sin ejercitar el derecho, se entiende renunciada la excusa.
 
 ###### ARTICULO 511.
 
@@ -4553,9 +4557,11 @@ La declaración de ausencia se publicará tres veces en los periódicos menciona
 
 Ambas publicaciones se repetirán cada dos años, hasta que se declare la presunción de muerte.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 670.
 
-El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá los recursos que el Código de Procedimientos asigne para los negocios de mayor interés.
+El fallo que se pronuncie en el juicio de declaración de ausencia, será apelable en términos del Código de Procedimientos aplicable en la materia.
 
 ### CAPITULO III. DE LOS EFECTOS DE LA DECLARACION DE AUSENCIA
 
@@ -5237,9 +5243,11 @@ Es mejor la posesión que se funda en título y cuando se trata de inmuebles la 
 
 Si las posesiones fueren dudosas, se pondrá en depósito la cosa hasta que se resuelva a quién pertenece la posesión.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 795.
 
-Para que el poseedor tenga derecho al interdicto de recuperar la posesión, se necesita que no haya pasado un año desde que se verificó el despojo.
+Para que la persona poseedora tenga derecho al interdicto de recuperar la posesión, se necesita que no hayan pasado dos años desde que se verificó el despojo.
 
 ###### ARTICULO 796.
 
@@ -9095,9 +9103,11 @@ El testador no puede librar al albacea de la obligación de garantizar su manejo
 
 Si el albacea ha sido nombrado en testamento y lo tiene en su poder, debe presentarlo dentro de los ocho días siguientes a la muerte del testador.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 1599.
 
-El albacea debe formar el inventario dentro del término señalado por el Código de Procedimientos Civiles. Si no lo hace, será removido.
+La persona albacea debe formar el inventario dentro del término señalado por el Código de Procedimientos aplicable en la materia. Si no lo hace, será removido.
 
 ###### ARTICULO 1600.
 
@@ -9147,9 +9157,11 @@ La obligación que de dar cuentas tiene el albacea, pasa a sus herederos.
 
 Son nulas de pleno derecho las disposiciones por las que el testador dispensa al albacea de la obligación de hacer inventario o de rendir cuentas.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 1612.
 
-La cuenta de administración debe ser aprobada por todos los herederos; el que disienta, puede seguir a su costa el juicio respectivo, en los términos que establezca el Código de Procedimientos Civiles.
+La cuenta de administración debe ser aprobada por todas las personas herederas; la que disienta, puede promover a su costa el juicio o incidente respectivo, en los términos que establezca el Código de Procedimientos aplicable en la materia.
 
 REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)
 
@@ -9281,17 +9293,21 @@ La remoción no tendrá lugar sino por sentencia pronunciada en el incidente res
 
 ### CAPITULO V. DEL INVENTARIO Y DE LA LIQUIDACION DE LA HERENCIA
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 1637.
 
-El albacea definitivo, dentro del término que fije el Código de Procedimientos Civiles, promoverá la formación del inventario.
+La persona albacea definitivo, dentro del término que fije el Código de Procedimientos aplicable en la materia, promoverá la formación del inventario.
 
 ###### ARTICULO 1638.
 
 Si el albacea no cumpliere lo dispuesto en el artículo anterior, podrá promover la formación de inventario cualquier heredero.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 1639.
 
-El inventario se formará según lo disponga el Código de Procedimientos Civiles. Si el albacea no lo presenta dentro del término legal, será removido.
+El inventario se formará según lo disponga el Código de Procedimientos aplicable en la materia. Si la persona albacea no lo presenta dentro del término legal, será removida.
 
 ###### ARTICULO 1640.
 
@@ -10113,7 +10129,9 @@ IV. Al que ofenda el honor, ataque la vida privada o la imagen propia de una per
 
 La reparación del daño moral con relación al párrafo y fracciones anteriores deberá contener la obligación de la rectificación o respuesta de la información difundida en el mismo medio donde fue publicada y con el mismo espacio y la misma manera en que fue difundida o audiencia a que fue dirigida la información original, esto sin menoscabo de lo establecido en el párrafo octavo del artículo anterior.
 
-La persona que se niegue o sea omisa en publicar la rectificación o respuesta en los términos anteriormente referidos, se le impondrá, por medio del Juez de la materia, los medios de apremio que establece el Código de Procedimientos Civiles para el Estado de Baja California.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+La persona que se niegue o sea omisa en publicar la rectificación o respuesta en los términos anteriormente referidos, se le impondrá, por medio del Juez de la materia, los medios de apremio que establezca el Código de Procedimientos aplicable en la materia.
 
 En ningún caso se considerarán ofensas al honor las opiniones desfavorables de la crítica literaria, artística, histórica, científica o profesional. Tampoco se considerarán ofensivas las opiniones desfavorables realizadas en cumplimiento de un deber o ejerciendo un derecho cuando el modo de proceder o la falta de reserva no tenga un propósito ofensivo.
 
@@ -11119,9 +11137,11 @@ La responsabilidad civil puede ser regulada por convenio de las partes, salvo aq
 
 Si la prestación consistiere en el pago de cierta cantidad de dinero, los daños y perjuicios que resulten de la falta de cumplimiento, no podrán exceder del interés legal, salvo convenio en contrario.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 1993.
 
-El pago de los gastos judiciales será a cargo del que faltare al cumplimiento de la obligación, y se hará en los términos que establezca el Código de Procedimientos Civiles.
+El pago de los gastos judiciales será a cargo del que faltare al cumplimiento de la obligación, y se hará en los términos que establezca el Código de Procedimientos aplicable en la materia.
 
 ### CAPITULO II. DE LA EVICCION Y SANEAMIENTO
 
@@ -12101,9 +12121,11 @@ La venta de bienes raíces no producirá efectos contra tercero sino después de
 
 ### CAPITULO IX. DE LAS VENTAS JUDICIALES
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 2197.
 
-Las ventas judiciales en almoneda, subasta o remate públicos, se regirán por las disposiciones de este Título, en cuánto a la substancia del contrato y a las obligaciones y derechos del comprador y del vendedor, con las modificaciones que se expresan en este Capítulo. En cuánto a los términos y condiciones en que hayan de verificarse, se regirán por lo que disponga el Código de Procedimientos Civiles.
+Las ventas judiciales en almoneda, subasta o remate públicos, se regirán por las disposiciones de este Título, en cuánto a la substancia del contrato y a las obligaciones y derechos de las personas compradora y vendedora, con las modificaciones que se expresan en este Capítulo. En cuanto a los términos y condiciones en que hayan de verificarse, se regirán por lo que disponga el Código de Procedimientos aplicable en la materia.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -12111,9 +12133,11 @@ Las ventas judiciales en almoneda, subasta o remate públicos, se regirán por l
 
 No pueden rematar por sí, ni por interpósita persona, el Juez, Secretario y demás empleados del Juzgado; el ejecutado, sus procuradores, abogados y fiadores; los albaceas y tutores, si se trata de bienes pertenecientes a la sucesión o a personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, respectivamente; ni los peritos que hayan valuado los bienes objeto del remate.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 2199.
 
-Por regla general las ventas judiciales se harán en moneda efectiva y al contado; y cuando la cosa fuere inmueble, pasará al comprador libre de todo gravamen, a menos de estipulación expresa en contrario, a cuyo efecto el Juez mandará hacer la cancelación o cancelaciones respectivas, en los términos que disponga el Código de Procedimientos Civiles.
+Por regla general las ventas judiciales se harán en moneda efectiva y al contado; y cuando la cosa fuere inmueble, pasará a la persona compradora libre de todo gravamen, a menos de estipulación expresa en contrario, a cuyo efecto el Juez mandará hacer la cancelación o cancelaciones respectivas, en los términos que disponga el Código de Procedimientos aplicable en la materia.
 
 ###### ARTICULO 2200.
 
@@ -12553,9 +12577,11 @@ El arrendador no puede, durante el arrendamiento, mudar la forma de la cosa arre
 
 El arrendatario está obligado a poner en conocimiento del arrendador, a la brevedad posible, la necesidad de las reparaciones, bajo pena de pagar los daños y perjuicios que su omisión cause.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 2290.
 
-Si el arrendador no cumpliere con hacer las reparaciones necesarias para el uso a que esté destinada la cosa, quedará a elección del arrendatario rescindir el arrendamiento u ocurrir al Juez para que estreche al arrendador al cumplimiento de su obligación, mediante el procedimiento rápido que se establezca en el Código de Procedimientos Civiles.
+Si el arrendador no cumpliere con hacer las reparaciones necesarias para el uso a que esté destinada la cosa, quedará a elección de la persona arrendataria rescindir el arrendamiento u ocurrir al Juez para que estreche a la persona arrendadora al cumplimiento de su obligación, mediante el procedimiento que se establezca en el Código de Procedimientos aplicable en la materia.
 
 ###### ARTICULO 2291.
 
@@ -13193,9 +13219,11 @@ Fuera de las excepciones acabadas de mencionar, rigen para el secuestro convenci
 
 El secuestro judicial es el que se constituye por decreto del Juez.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 2419.
 
-El secuestro judicial se rige por las disposiciones del Código de Procedimientos Civiles y, en su defecto, por las mismas del secuestro convencional.
+El secuestro judicial se rige por las disposiciones del Código de Procedimientos aplicable en la materia y, en su defecto, por las mismas del secuestro convencional.
 
 ## TITULO NOVENO. DEL MANDATO
 
@@ -14905,9 +14933,11 @@ Los frutos de la cosa empeñada pertenecen al deudor; más si por convenio los p
 
 Si el deudor no paga en plazo estipulado, y no habiéndolo, cuando tenga obligación de hacerlo conforme al artículo 1955, el acreedor podrá pedir y el Juez decretará la venta en pública almoneda de la cosa empeñada, previa citación del deudor o del que hubiere constituido la prenda.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 2749.
 
-La cosa se adjudicará al acreedor en las dos terceras partes de la postura legal, si no pudiere venderse en los términos que establezca el Código de Procedimientos Civiles.
+La cosa se adjudicará al acreedor en las dos terceras partes de la postura legal, si no pudiere venderse en los términos que establezca el Código de Procedimientos aplicable en la materia.
 
 ###### ARTICULO 2750.
 
@@ -15071,9 +15101,11 @@ Sin consentimiento del acreedor, el propietario del predio hipotecado no puede d
 
 La hipoteca constituída a favor de un crédito que devengue intereses, no garantiza en perjuicio de tercero, además del capital, sino los intereses de tres años; a menos que se haya pactado expresamente que garantizará los intereses por más tiempo, con tal que no exceda del término para la prescripción de los intereses, y de que se haya tomado razón de esta estipulación en el Registro Público.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 2783.
 
-El acreedor hipotecario puede adquirir la cosa hipotecada en remate judicial, o por adjudicación, en los casos en que no se presente otro postor, de acuerdo con lo que establezca el Código de Procedimientos Civiles. Puede también convenir con el deudor en que se le adjudique en el precio que se fije al exigirse la deuda, pero no al constituirse la hipoteca. Este convenio no puede perjudicar los derechos de tercero.
+La persona acreedora hipotecaria puede adquirir la cosa hipotecada en remate judicial, o por adjudicación, en los casos en que no se presente otro postor, de acuerdo con lo que establezca el Código de Procedimientos aplicable en la materia. Puede también convenir con el deudor en que se le adjudique en el precio que se fije al exigirse la deuda, pero no al constituirse la hipoteca. Este convenio no puede perjudicar los derechos de tercero.
 
 ###### ARTICULO 2784.
 
@@ -15363,9 +15395,11 @@ TERCERA PARTE
 
 El deudor responde del cumplimiento de sus obligaciones con todos sus bienes, con excepción de aquellos que, conforme a la Ley, son inalienables o no embargables.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 2832.
 
-Procede el concurso de acreedores siempre que el deudor suspenda el pago de sus deudas civiles, líquidas y exigibles. La declaración del concurso será hecha por el Juez competente, mediante los trámites fijados en el Código de Procedimientos Civiles.
+Procede el concurso de personas acreedoras siempre que la persona deudora suspenda el pago de sus deudas civiles, líquidas y exigibles. La declaración del concurso será hecha por la persona Juez competente, mediante los trámites fijados en el Código de Procedimientos aplicable en la materia.
 
 ###### ARTICULO 2833.
 
@@ -15405,9 +15439,11 @@ IV.- Exageración fraudulenta de créditos para procurar la mayoría de cantidad
 
 V.- La inexactitud fraudulenta en el inventario de los bienes del deudor o en los informes de los síndicos, para facilitar la admisión de las proposiciones del deudor.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 2839.
 
-Aprobado el convenio por el Juez, será obligatorio para el fallido y para todos los acreedores cuyos créditos daten de época anterior a la declaración, si hubieren sido citados en forma legal, o si habiéndoles notificado la aprobación del convenio no hubieren reclamado contra éste en los términos prevenidos en el Código de Procedimientos Civiles, aunque esos acreedores no estén comprendidos en la lista correspondiente, ni hayan sido parte en el procedimiento.
+Aprobado el convenio por la persona Juez, será obligatorio para el fallido y para todas las personas acreedoras cuyos créditos daten de época anterior a la declaración, si hubieren sido citados en forma legal, o si habiéndoles notificado la aprobación del convenio no hubieren reclamado contra éste en los términos prevenidos en el Código de Procedimientos aplicable en la materia, aunque esas personas acreedoras no estén comprendidas en la lista correspondiente, ni hayan sido parte en el procedimiento.
 
 ###### ARTICULO 2840.
 
@@ -15629,7 +15665,9 @@ En los casos previstos en las dos Fracciones anteriores, se tomará razón del a
 
 XII.- Las resoluciones judiciales en que se declare un concurso o se admita una cesión de bienes;
 
-XIII.- El testimonio de las informaciones ad perpétuam promovidas y protocolizadas de acuerdo con lo que disponga el Código de Procedimientos Civiles;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+XIII.- El testimonio de las informaciones adperpetuam (sic) promovidas y protocolizadas de acuerdo con lo que disponga el Código de Procedimientos aplicable en la materia;
 
 XIV.- Los demás títulos que la Ley ordene expresamente que sean registrados.
 
@@ -15769,11 +15807,11 @@ La Ley Reglamentaria establecerá los derechos y obligaciones de los registrador
 
 ### CAPITULO IV. DEL REGISTRO DE LAS INFORMACIONES DE DOMINIO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 2890.
 
-El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos, y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en caso de deducir la acción que le concede el artículo 1143 por no estar inscrita en el Registro la (sic) Propiedad de los bienes en favor de persona alguna, podrá demostrar ante el Juez competente, que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado del Registro Público, que demuestre que los bienes no están inscritos, además levantamiento topográfico o deslinde debidamente autorizado y certificado por el Catastro Municipal de la jurisdicción territorial donde se ubique el inmueble.
+La persona que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos, y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en caso de deducir la acción que le concede el artículo 1143 por no estar inscrita en el Registro la Propiedad de los bienes en favor de persona alguna, podrá demostrar ante la persona Juez competente, que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos aplicable en la materia.
 
 La información se recibirá con citación del Ministerio Público, del respectivo registrador de la propiedad y de los colindantes.
 
@@ -15785,9 +15823,11 @@ Comprobada debidamente la posesión, el Juez declarará que el poseedor se ha co
 
 ### CAPITULO V. DE LAS INSCRIPCIONES DE POSESION
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 2891.
 
-El que tenga una posesión apta para prescribir, de bienes inmuebles no inscritos en el Registro en favor de persona alguna, aún antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión, mediante resolución judicial que dicte el Juez competente, ante quien la acredite del modo que fije el Código de Procedimientos Civiles.
+La persona que tenga una posesión apta para prescribir, de bienes inmuebles no inscritos en el Registro en favor de persona alguna, aún antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión, mediante resolución judicial que dicte la persona Juez competente, ante quien la acredite del modo que fije el Código de Procedimientos aplicable en la materia.
 
 La información que se rinda para demostrar la posesión se sujetará a lo dispuesto en los párrafos segundo, tercero y cuarto del artículo que precede.
 
@@ -15899,7 +15939,9 @@ Las inscripciones de hipotecas constituídas con el objeto de garantizar título
 
 Procederá también la cancelación total, si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan.
 
-La cancelación, en este caso deberá acordarse por sentencia previos los trámites fijados en el Código de Procedimientos Civiles.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+La cancelación, en este caso deberá acordarse por sentencia previos los trámites fijados en el Código de Procedimientos aplicable en la materia.
 
 ###### ARTICULO 2909.
 
@@ -16738,3 +16780,11 @@ P.O. 21 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 223 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA LA REFORMA A LOS ARTÍCULOS 55, 65, 68, 420 BIS, 440, 441 490 Y 491, SE DEROGAN LOS ARTÍCULOS 387, 394, 394 BIS, 394 TER, 395, 398 Y 403 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO SE APRUEBA LA REFORMA A LOS ARTÍCULOS 237, 237 TER Y 237 QUATER DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA Y SE APRUEBA LA REFORMA AL ARTÍCULO 78 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 349 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTICULOS 1, 3, 4, 8, 44, 54, 60, 69, 73, 75, 88, 90, 90 DECIES, 101, 102, 187, 197, 218, 222, 226, 235, 236, 245 Y 246; ASÍ COMO LA CREACIÓN DEL CAPITULO XII DEL TÍTULO QUINTO PARA LLAMARSE "DEL MODELO DE GESTIÓN Y DE LAS CENTRALES DE ACTUARIOS" Y LOS ARTÍCULOS 90 DUODECIES; SE ADICIONAN LOS ARTÍCULOS 73 BIS, 78 BIS, 90 TERDECIES Y 90 QUATERDECIES Y SE DEROGAN LOS ARTÍCULOS 55, 56, 57 Y 57 BIS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA; Y 49, 203, 269, 270, 272, 273, 459, 510, 670, 795, 1599, 1612, 1637, 1639, 1794 BIS, 1993, 2197, 2199, 2290, 2419, 2749, 2783, 2832, 2839, 2869, 2890, 2891 Y 2908; Y SE DEROGA EL ARTÍCULO 271, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+Primero.- Las presentes reformas entraran en vigor el día en que entre en vigor en el Estado el Código Nacional de Procedimientos Civiles y Familiares, de conformidad con la declaratoria que para tal efecto, emita el Congreso del Estado.
+
+Segundo.- Los asuntos que se presenten con anterioridad a la entrada en vigor de las presentes reformas, se seguirán sustanciando hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
