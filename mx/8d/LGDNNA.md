@@ -4,7 +4,7 @@ identifier: "LGDNNA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-12-04"
-last_updated: "2023-12-01"
+last_updated: "2023-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103786&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDNNA"
 
 LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de diciembre de 2014.
 
@@ -956,11 +956,11 @@ Son niñas, niños o adolescentes con discapacidad los que por razón congénita
 
 Las niñas, niños y adolescentes con discapacidad tienen derecho a vivir incluidos en la comunidad, en igualdad de condiciones que las demás niñas, niños y adolescentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 54.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, están obligadas a implementar medidas de nivelación, de inclusión y Acciones afirmativas en términos de las disposiciones aplicables considerando los principios de participación e inclusión plenas y efectivas en la sociedad, respeto por la diferencia y la aceptación de las personas con discapacidad como parte de la diversidad y la condición humanas, respeto a la evolución de las facultades de niñas, niños y adolescentes con discapacidad y de su derecho a preservar su identidad.
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, están obligadas a implementar medidas de nivelación, de inclusión y Acciones afirmativas en términos de las disposiciones aplicables considerando la perspectiva de género y los principios de participación e inclusión plenas y efectivas en la sociedad, respeto por la diferencia y la aceptación de las personas con discapacidad como parte de la diversidad y la condición humanas, respeto a la evolución de las facultades de niñas, niños y adolescentes con discapacidad y de su derecho a preservar su identidad.
 
 La discriminación por motivos de discapacidad también comprende la negación de ajustes razonables.
 
@@ -2713,5 +2713,11 @@ Segundo. Las obligaciones que en su caso se generen con motivo de la entrada en 
 D.O.F. 1 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 45 DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 54 DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
