@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-movilidad-del-estado-de-quintana-roo-129124"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-14"
-last_updated: "2023-08-25"
+last_updated: "2023-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129124&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 14 de junio de 2018.
 
@@ -861,7 +861,13 @@ IX. Expedir las normas generales para que la Dirección General pueda disponer, 
 
 X. Fijar las bases, así como los montos mínimos, máximos y actualizaciones de las cuotas de recuperación por los servicios que preste el Instituto;
 
-XI. Aprobar las reglas de operación del Fondo Para la Movilidad del Estado de Quintana Roo, y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+XI Aprobar las reglas de operación del Fondo para la Movilidad del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+XI Bis. Emitir las tarifas respecto a la expedición o renovación de las licencias o permisos para conducir vehículos de motor y
 
 XII. Las demás que establezca la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo y la normatividad aplicable.
 
@@ -2453,7 +2459,7 @@ DISPOSICIONES COMUNES PARA LOS SERVICIOS PÚBLICOS Y PRIVADOS DE TRANSPORTE DE P
 
 ###### Artículo 148 Septies.
 
-El Servicio Público de Transporte de pasajeros contratado a través de Plataformas Tecnológicas o Digitales que se presta en el Estado de Quintana Roo, deberá satisfacer la necesidad colectiva de movilidad, de manera continua, uniforme, segura y de calidad. Este sólo podrá ser prestado a través de concesión expedida por la autoridad competente.
+El Servicio Público de Transporte de pasajeros contratado a través de Plataformas Tecnológicas o Digitales que se presta en el Estado de Quintana Roo, deberá satisfacer la necesidad colectiva de movilidad, de manera continua, uniforme, segura y de calidad. Este sólo podrá ser prestado través de concesión expedida por la autoridad competente.
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2023)</small>
 
@@ -4129,7 +4135,7 @@ La Secretaría de Finanzas y Planeación y la Secretaría de Ecología y Medio A
 
 ###### ARTÍCULO SÉPTIMO.
 
-La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
+La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaria de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
 
 ###### ARTÍCULO OCTAVO.
 
@@ -4186,3 +4192,11 @@ PRIMERO. El presente decreto entrará en vigor el mismo día de su publicación 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO. En un plazo no mayor a noventa días contados a partir de la entrada en vigor del presente Decreto, los Ayuntamientos deberán realizar las adecuaciones correspondientes a sus reglamentos o demás instrumentos jurídicos a fin de dar cumplimiento a lo señalado en el presente decreto.
+
+P.O. 4 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 125 POR EL QUE SE ADICIONA LA FRACCIÓN XI BIS AL ARTÍCULO 34 DE LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periodo (sic) Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
