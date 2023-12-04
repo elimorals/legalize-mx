@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2023-09-25"
+last_updated: "2023-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -215,9 +215,9 @@ La violencia mediática se ejerce por cualquier persona física o moral que util
 
 VIII. Violencia Digital. Es cualquier acto que se presenta a través de las tecnologías de la información y la comunicación, plataformas de internet, redes sociales o correo electrónico, o cualquier otro espacio digitalizado que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño o sufrimiento psicológico, físico, económico o sexual tanto en el ámbito privado como en el público; así como, daño moral a ellas y a su familia. Se manifiesta mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
-IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres;
+IX. Violencia contra la salud: Es aquella ejercida por cualquier persona como forma de control o como resultado de usos y costumbres que tiene como consecuencia la dilación o impedimento de la revisión, diagnóstico oportuno o atención médica a una mujer, especialmente en el caso de enfermedades que requieren identificación oportuna como el cáncer de mama y otras enfermedades crónicas;
 
 > <small>(ADICIONADA [N. DE E. CON SUS FRACCIONES], P.O. 6 DE MARZO DE 2023)</small>
 
@@ -607,7 +607,9 @@ Corresponde al Titular de la Secretaría de Salud desempeñar las siguientes fac
 
 I. Diseñar la política de salud para la prevención, atención y erradicación de la violencia contra las mujeres en el marco del Programa Estatal con perspectiva de género;
 
-II. Favorecer la prevención de la violencia contra las mujeres en sus diferentes modalidades, en especial la violencia familiar y sexual con un enfoque en salud pública;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+II. Favorecer la prevención de la violencia contra las mujeres en sus diferentes modalidades, en especial la violencia contra la salud, así como la violencia familiar y sexual con un enfoque en salud pública;
 
 III. Proporcionar atención médica y psicológica con perspectiva de género a las mujeres víctimas de violencia y a los agresores, por medio de las instituciones del sector salud estatal de manera integral y multidisciplinaria;
 
@@ -617,7 +619,9 @@ V. Establecer programas de capacitación anual para el personal del sector salud
 
 VI. Aplicar las normas oficiales vigentes en materia de prestación de servicios de salud y criterios para la atención médica de la violencia familiar;
 
-VII. Capacitar al personal del sector salud, para la detección de la violencia de género;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+VII. Capacitar al personal del sector salud, para la detección de la violencia de género, identificando los obstáculos que impiden a las mujeres su derecho al acceso a la salud;
 
 VIII. Participar activamente, en la ejecución del Programa, en el diseño de nuevos modelos de prevención y atención de la violencia contra las mujeres por razones de género, en colaboración con las demás autoridades encargadas de aplicar la presente Ley;
 
@@ -1342,3 +1346,11 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo, para su publicaci�
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 4 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 467.- ARTÍCULO PRIMERO.- SE REFORMA EL SEGUNDO PÁRRAFO, ASÍ COMO LAS FRACCIONES II, VI Y IX DEL ARTÍCULO 31 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 9 Y LAS FRACCIONES II Y VII DEL ARTÍCULO 32, AMBOS DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
