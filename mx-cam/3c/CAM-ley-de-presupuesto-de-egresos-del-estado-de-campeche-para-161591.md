@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-presupuesto-de-egresos-del-estado-de-campeche-para-16159
 country: "mx"
 rank: "ley"
 publication_date: "2022-12-19"
-last_updated: "2023-08-28"
+last_updated: "2023-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PRESUPUESTO DE EGRESOS DEL ESTADO DE CAMPECHE PARA EL EJERCICIO FISCAL DE 2023
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Número 1828 del Periódico Oficial del Estado de Campeche.
 
@@ -137,9 +137,9 @@ Las previsiones de gasto para el Poder Legislativo, Poder Judicial, Instituto El
 
 y $9,616,212 para reforma laboral; y se consideran $3,000,000 de recursos adicionales no regularizables para mejoramiento de la infraestructura física del inmueble de que alberga el juzgado laboral del I Distrito Judicial y dos equipos de aires acondicionados para los Auditorios en el I Distrito Campeche y II Distrito Ciudad del Carmen del Consejo de la Judicatura.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
-- Instituto Electoral del Estado de Campeche la cantidad de $167,910,347 conformado por $63,783,745 para la operación de sus actividades ordinarias, $25,613,460 para Saneamiento Financiero, $19,841,338 para los preparativos e inicio del Proceso Electoral Local Ordinario 2023-2024 y $58,671,804 destinados al financiamiento de partidos políticos. Mismo que será distribuido conforme al Apartado 2 1 1 1 4 23 01 del Anexo 2 de esta Ley.
+- Instituto Electoral del Estado de Campeche la cantidad de $158,001,871 conformado por $63,783,745 para la operación de sus actividades ordinarias, $25,613,460 para Saneamiento Financiero, $9,932,862 para los preparativos e inicio del Proceso Electoral Local Ordinario 2023-2024 y $58,671,804 destinados al financiamiento de partidos políticos. Mismo que será distribuido conforme al Apartado 2 1 1 1 4 23 01 del Anexo 2 de esta Ley.
 
 - Secretaría de Medio Ambiente, Biodiversidad, Cambio Climático y Energía la cantidad de $4,737,006, correspondientes a los recursos que se destinarán anualmente por parte del Estado derivado del ejercicio de sus atribuciones como parte de las estrategias encaminadas a la mitigación y adaptación al Cambio Climático en el ámbito de su competencia, así como para promover la participación corresponsable de la sociedad, de conformidad por lo dispuesto por la Ley General de Cambio Climático vigente, mediante el programa de Protección, Conservación y Vigilancia de la Biodiversidad e Impulso Forestal como Medida de Mitigación del Cambio Climático, del cual deriva el proyecto denominado: “Plantas de Calidad Producidas y entregadas a beneficiarios como medidas de mitigación y Adaptación al cambio climático”; así como para la ejecución del Programa denominado; "Seguimiento de programas Ambientales en materia forestal, silvestre y de impacto ambiental en las zonas aledañas al Puente la Unidad", por un monto hasta de $9,382,838, con la finalidad de garantizar el cumplimiento de las acciones de mitigación, restauración y control de los impactos ambientales que genere esta infraestructura de comunicación.
 
@@ -969,7 +969,7 @@ C. José Héctor Hernán Malavé Gamboa, Diputado Presidente.- C. Landy María V
 
 > <small>[N. DE E. VÉASE ANEXO 2 EN EL P.O. DE 19 DE DICIEMBRE DE 2022, PÁGINAS DE LA 42 A LA 46.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS DEL ANEXO 2, P.O. DE 28 DE AGOSTO DE 2023, PÁGINA 3.]</small>
+> <small>[N. DE E. VÉASE REFORMAS DEL ANEXO 2, P.O. DE 28 DE AGOSTO DE 2023, PÁGINA 3 Y P.O. 4 DE DICIEMBRE DE 2023, PÁGINA 4.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 3 A EN EL P.O. DE 19 DE DICIEMBRE DE 2022, PÁGINA 47.]</small>
 
@@ -1110,3 +1110,17 @@ TERCERO.- El Apartado 2 1 1 1 4 23 01 del Anexo 2 referido en el punto tercero d
 CUARTO.- Notifíquese a la Suprema Corte de Justicia de la Nación cumpliendo en tiempo y forma los puntos resolutivos emitidos en la Acción de Inconstitucionalidad 16/2023 y su Acumulada 17/2023 a través de la cual determinó la invalidez del artículo 2, párrafo segundo, punto tercero, y anexo 2, apartado 2 1 1 1 4 23 01, de la Ley de Presupuesto de Egresos del Estado de Campeche para el Ejercicio Fiscal de 2023, expedido mediante el Decreto Número 162, publicado en el Periódico Oficial de esta Entidad Federativa el 19 de diciembre de 2022.
 
 QUINTO.- Los recursos asignados al Instituto Electoral del Estado de Campeche a través del presente decreto, comprende los ya ejercidos y los que resten por ejercer durante el ejercicio fiscal 2023.
+
+P.O. 4 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 282 POR EL QUE “SE REFORMA EL PUNTO TERCERO DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 2 DE LA LEY DE PRESUPUESTO DE EGRESOS DEL ESTADO DE CAMPECHE PARA EL EJERCICIO FISCAL DE 2023 Y SE REFORMA EL APARTADO 2 1 1 1 4 23 01 DEL ANEXO 2 DE LA LEY DE PRESUPUESTO DE EGRESOS DEL ESTADO DE CAMPECHE PARA EL EJERCICIO FISCAL 2023”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- El Apartado 2 1 1 1 4 23 01 del Anexo 2 referido en el punto tercero del párrafo segundo del artículo 2 del presente decreto se entenderá al expedido por el Artículo Segundo del mismo.
+
+CUARTO.- Los recursos asignados al Instituto Electoral del Estado de Campeche a través del presente decreto, comprende los ya ejercidos y los que resten por ejercer durante el ejercicio fiscal 2023.
+
+QUINTO.- El Poder Ejecutivo del Estado, por conducto de la Secretaría de Administración y Finanzas, deberá destinar la economía presupuestal generada con motivo de las reformas a la Ley de Presupuesto de Egresos del Estado para el ejercicio fiscal de 2023 a que se refiere el presente decreto, de conformidad con lo dispuesto en la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Campeche y sus Municipios y demás legislación aplicable en la materia.
