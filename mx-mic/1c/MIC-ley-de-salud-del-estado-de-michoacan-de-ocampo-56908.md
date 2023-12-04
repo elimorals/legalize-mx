@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2023-11-30"
+last_updated: "2023-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -565,6 +565,10 @@ VII. La aplicación del tamiz neonatal para la detección de cardiopatías cong�
 
 VIII. El diagnóstico oportuno y atención temprana de la displasia en el desarrollo de la cadera, a través del examen clínico en la primera semana del nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteposterior de pelvis, entre el primer y cuarto mes de vida.
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+La prestación de servicios de atención a la salud materno-infantil tendrán carácter prioritario, comprendiendo la atención integral, prevención y detección de enfermedades hereditarias y congénitas a través de las pruebas neonatales, y la vigilancia de los derechos humanos de la mujer y su hijo o hija durante el embarazo, parto, puerperio, crecimiento, desarrollo e integración del bienestar familiar.
+
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
 
 ARTÍCULO 17 C. Las mujeres embarazadas y madres en periodos de embarazo, parto, posparto, puerperio y lactancia, tienen derecho a lo siguiente:
@@ -879,17 +883,17 @@ Dentro de las necesidades básicas del ser humano se encuentra la salud mental, 
 
 Son acciones de Salud Pública, el saneamiento del medio, la prevención, el control de enfermedades y accidentes, los servicios médicos y auxilio, la promoción de la salud, el control y vigilancia sanitaria, así como la prevención y control de adicciones y demás que señale la Ley General de Salud.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE MAYO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE DICIEMBRE DE 2023)</small>
 
-La Secretaría de Salud, con el fin de combatir el cáncer cérvico uterino, cáncer de mama, cáncer testicular y cáncer de próstata, implementará programas permanentes tendientes a la prevención y tratamiento de estas enfermedades, la rehabilitación deberá incluir la atención psico-oncológica, la reconstrucción mamaria y testicular con prótesis sin erogación económica para los pacientes y sus familias, en los casos que sean atendidos en los hospitales de la secretaría de salud, además de desarrollar, entre otras, las siguientes acciones:
+La Secretaría de Salud, con el fin de combatir el cáncer cérvico uterino, cáncer de mama, cáncer testicular y cáncer de próstata, implementará programas permanentes tendientes a la prevención y tratamiento de estas enfermedades, así como a contrarrestar y erradicar los estigmas o estereotipos sociales, la discriminación y la violencia de género, que impiden o dificultan el acceso a diagnósitcos tempranos, especialmente de las mujeres. La rehabilitación deberá incluir la atención psico-oncológica, la reconstrucción mamaria y testicular con prótesis sin erogación económica para los pacientes y sus familias, en los casos que sean atendidos en los hospitales de la Secretaría de Salud, además de desarrollar, entre otras, las siguientes acciones:
 
 > <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2009)</small>
 
 I. Dar a conocer la conveniencia del sexo seguro, difundiendo las consecuencias de la promiscuidad sexual, además de advertir de los riesgos que conlleva la práctica de relaciones sexuales tempranas e informar de los riesgos de contagio por relaciones sexuales con personas que hayan tenido diversas parejas sexuales;
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
-II. Difundir las conveniencias de realizarse periódicamente las pruebas para la prevención del cáncer cérvico uterino, tales como colposcopía, papanicolaou y cultivo de híbridos, además deberá aplicar como manera de prevención la vacuna del virus del Papiloma Humano en niñas; de igual manera en el caso del cáncer de próstata deberá difundirse periódicamente las conveniencias de realizarse la prueba del antígeno prostático específico (psa) a partir de los 40 años o cuando la persona lo solicite, como medida preventiva para su detección oportuna;
+II. Difundir el derecho a la salud de las mujeres, con perspectiva de género, fomentando la erradicación de prácticas culturales o sociales que lo impidan o retrasen, así como las conveniencias de realizarse periódicamente las pruebas para la prevención del cáncer cérvico uterino, tales como colposcopía, papanicolaou y cultivo de híbridos, además deberá aplicar como manera de prevención la vacuna del virus del Papiloma Humano en niñas; de igual manera en el caso del cáncer de próstata deberá (sic) difundirse periódicamente las conveniencias de realizarse la prueba del antígeno prostático específico (PSA) a partir de los 40 años o cuando la persona lo solicite, como medida preventiva para su detección oportuna;
 
 > <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
 
@@ -903,9 +907,9 @@ IV. Divulgar los lugares de servicio gratuito para la práctica de exámenes y l
 
 V. Capacitar a los prestadores de servicios de salud de los sectores público, social y privado en la toma de muestras para la prevención del cáncer cérvico uterino y antígeno prostático; para los casos cérvico uterino, papiloma humano, atendiendo a la interpretación de las mismas a través del Sistema Bethesda, o cualquier otro que autorice el sector salud;
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
-VI. Capacitar a los prestadores de servicios de salud para la orientación de sus pacientes respecto a la detección temprana de los cánceres cérvico uterino, de mama y de próstata, así como la información del derecho a la obtención de la cartilla nacional de salud de la mujer y del hombre;
+VI. Capacitar a los prestadores de servicios de salud para la orientación de sus pacientes respecto a la detección temprana de los cánceres cérvico uterino, de mama y de próstata, así como la información del derecho a la obtención de la cartilla nacional de salud de la mujer y del hombre. La capacitación deberá incorporar lineamientos para contrarrestar las prácticas culturales o sociales que impiden o retrasan el acceso a diagnósticos tempranos, especialmente de las mujeres;
 
 > <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
 
@@ -915,9 +919,9 @@ VII. Difundir entre la población escolar las medidas de prevención y detecció
 
 VIII. Enseñar y difundir la táctica de autoexploración a quienes acudan a las unidades de salud;
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
-IX. Promocionar actividades de prevención, detección y control oportuno, orientadas a evitar, valorar y disminuir los factores de riesgo y promover estilos de vida sanos, que incluyan las comunicaciones educativas a la población;
+IX. Promocionar actividades de prevención, detección y control oportuno, orientadas a evitar, valorar y disminuir los factores de riesgo y promover estilos de vida sanos, que incluyan las comunicaciones educativas a la población y la eliminación de prejuicios y de prácticas culturales que impidan el acceso de las mujeres al derecho a la salud;
 
 > <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
 
@@ -3029,7 +3033,7 @@ P.O. 21 DE ABRIL DE 2023.
 
 P.O. 26 DE JUNIO DE 2023.
 
-## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 371 POR EL QUE "SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONA UNA FRACCIÓN X AL INCISO A) DEL ARTÍCULO 21; Y SE ADICIONA UN ARTÍCULO 31 TER A LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 371 POR EL QUE “SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONA UNA FRACCIÓN X AL INCISO A) DEL ARTÍCULO 21; Y SE ADICIONA UN ARTÍCULO 31 TER A LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
@@ -3080,3 +3084,19 @@ SEGUNDO. Los ayuntamientos del Estado realizarán la adecuación a su reglamenta
 TERCERO. El Titular del Poder Ejecutivo del Estado deberá publicar en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, dentro de los 90 días hábiles siguientes a la publicación del presente Decreto, los formatos a que refiere el artículo que se reforma.
 
 CUARTO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+P.O. 4 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 467 POR EL QUE "SE REFORMA EL SEGUNDO PÁRRAFO, ASÍ COMO LAS FRACCIONES II, VI Y IX DEL ARTÍCULO 31 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+P.O. 4 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 468 POR EL QUE "SE ADICIONA UN PÁRRAFO AL ARTÍCULO 17 B DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
