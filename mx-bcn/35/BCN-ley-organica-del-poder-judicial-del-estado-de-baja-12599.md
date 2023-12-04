@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2023-11-29"
+last_updated: "2023-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -43,67 +43,23 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 1.
 
-Corresponde a los Tribunales de Justicia del Fuero Común del Estado de Baja California, dentro de los términos que establece la Constitución General de la República y la Constitución Política del Estado, la facultad de aplicar las leyes en los asuntos civiles, penales, laborales, de extinción de dominio, familiares y de justicia para adolescentes, que sean de su conocimiento, así como los casos en que las demás leyes les concedan jurisdicción.
+Corresponde a las personas servidoras públicas que integran los órganos Jurisdiccionales del Poder Judicial del Estado de Baja California, la facultad de aplicar leyes en los asuntos que sean de su conocimiento dentro de los términos que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Baja California, los Códigos Procedimentales aplicables, el Código Civil para el Estado de Baja California, la presente Ley Orgánica y las demás leyes correspondientes.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 12 DE JUNIO DE 2015)</small>
+La facultad a que se refiere el párrafo anterior le corresponde a:
 
-La facultad a que se refiere el párrafo anterior se ejerce:
+I. Las personas Magistradas del Tribunal Superior de Justicia, actuando en Pleno o en Salas;
 
-I.- Por el Tribunal Superior de Justicia, actuando en Pleno o en Salas.
+II. Las personas Jueces de Primera Instancia de Baja California;
 
-II.- Por los Jueces de Primera Instancia en Materia Civil.
+III.- Las personas Jueces de única Instancia de Baja California;
 
-III.- Por los Jueces de Primera Instancia de lo Familiar.
+IV. Las personas que integren el Consejo de la Judicatura del Estado de Baja California, y
 
-IV.- Por los Jueces de Primera Instancia del Ramo Penal.
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2012)</small>
-
-V.- Por el Juez de Primera Instancia en materia de extinción de dominio.
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2012)</small>
-
-VI.- Por los Jueces de Primera Instancia de Jurisdicción Mixta.
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2012)</small>
-
-VII.- Por los Jueces de Primera Instancia Especializados para Adolescentes.
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2012)</small>
-
-VIII.- Por los Jueces de Paz.
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE SEPTIEMBRE DE 2022)</small>
-
-IX.- Por los Jueces en materia Laboral.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2022)</small>
-
-X.- Por las y los Jueces Especializados en Violencia Familiar contra las Mujeres.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2023)</small>
-
-XI.- Por las y los Jueces Especializados en materia Hipotecaria.
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE NOVIEMBRE DE 2023)</small>
-
-XII.- Por el Consejo de la Judicatura del Estado de Baja California.
-
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2023)</small>
-
-XIII.- Por los y las demás Servidores Públicos y auxiliares de la administración de Justicia en los términos que establezca esta Ley, los Códigos de Procedimientos y Leyes correspondientes.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
-
-El Tribunal de Justicia Electoral, máxima autoridad jurisdiccional electoral estatal, y órgano especializado del Poder Judicial del Estado, garantizará el cumplimiento del principio de legalidad de los actos y resoluciones electorales, en los términos señalados por la Constitución Política del Estado y las Leyes de la materia.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
-
-Las disposiciones cuya referencia sea "la administración de justicia", no serán aplicables al Tribunal de Justicia Electoral.
+V. Las personas servidoras públicas del Poder Judicial del Estado de Baja California y las auxiliares de la administración de justicia, en los términos que establezca esta Ley, así como Códigos y Leyes aplicables.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
@@ -155,11 +111,11 @@ Los órganos del Poder Judicial del Estado, funcionarán de modo permanente e in
 
 Con independencia de lo dispuesto en el párrafo anterior, el Consejo de la Judicatura podrá establecer Juzgados Itinerantes para la eficaz y pronta administración de justicia en aquellas comunidades que considere pertinentes.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 3.
 
-En lo no previsto por el presente ordenamiento legal, será supletoriamente aplicable el Código de Procedimientos Civiles para el Estado de Baja California, con excepción a lo dispuesto por el Título Decimocuarto de esta Ley.
+En lo no previsto por el presente ordenamiento legal, será supletorio el Código de Procedimientos Civiles para el Estado de Baja California, o el Código Nacional de Procedimientos Civiles y Familiares, según corresponda, con excepción a lo dispuesto por el Título Decimocuarto de esta Ley.
 
 ###### ARTICULO 4.
 
@@ -169,21 +125,45 @@ I.- La Dirección de Prevención y Readaptación Social del Gobierno del Estado.
 
 II.- Las Oficialías del Registro Civil.
 
-III.- Los peritos médicos legistas.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
-IV.- Los intérpretes oficiales y demás peritos en los ramos que se les encomienden.
+III.- Las personas peritos médicos legistas.
 
-V.- Los síndicos e interventores de concursos y quiebras.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
-VI.- Los albaceas e interventores de sucesiones, los tutores, curadores y notarios, en las funciones que les encomienda el Código de Procedimientos Civiles.
+IV.- Las personas intérpretes oficiales y demás peritos en los ramos que se les encomienden.
 
-VII.- Los depositarios e interventores.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
-VIII.- Los Presidentes municipales, los delegados municipales, los jefes y agentes de los cuerpos policiacos del Estado y Municipales.
+V.- Las personas síndicos e interventores de concursos y quiebras.
 
-IX.- Todos los demás a quienes las leyes les confieran este cargo.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
-Los auxiliares comprendidos en las fracciones de la III a VII de este artículo, están obligados a cumplir las órdenes de las autoridades y servidores de la administración de justicia. El Ejecutivo del Estado, facilitará a los tribunales del Estado, los medios necesarios para el ejercicio de sus funciones.
+VI.- Las personas que ejerzan como albaceas e interventores de sucesiones, los tutores, curadores y notarios, en las funciones que les encomienda el Código Procedimental aplicable en la materia.
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+VII.- Las personas depositarias e interventoras.
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+VIII.- Las personas Presidentes y delegadas municipales.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+IX.- Las personas jefes y agentes de los cuerpos policiacos del Estado y Municipio correspondiente.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+X. Las personas que ejerzan como mediadores, conciliadores, especialistas y árbitros privados certificados y registrados por Consejo de la Judicatura del Estado en términos de la Ley de Justicia Alternativa para el Estado de Baja California.
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+XI. Todas las demás personas a quienes las leyes les confieran este cargo.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+Las personas auxiliares comprendidas en las fracciones de la III a VII, IX y X de este artículo, están obligados a cumplir las órdenes de las autoridades y servidores de la administración de justicia. El Poder Ejecutivo del Estado, facilitará a los tribunales del Estado, los medios necesarios para el ejercicio de sus funciones.
 
 ## TITULO SEGUNDO. DE LA DIVISION TERRITORIAL
 
@@ -233,13 +213,13 @@ Las cabeceras de los partidos judiciales del Estado, serán, respectivamente, la
 
 Los nombramientos de los Magistrados del Tribunal Superior de Justicia, se harán en forma y términos que previene el Artículo 58 de la Constitución Política del Estado y rendirán la protesta de Ley ante el Congreso o la Comisión Permanente, en su caso.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 8.
 
-Los Jueces, Secretario General de Acuerdos, Secretarios de Estudio y Cuenta, Secretarios Auxiliares y Actuarios del Tribunal Superior de Justicia, así como los Secretarios de Acuerdos y Actuarios de los Juzgados, serán designados en los términos que señala la Constitución Política del Estado, esta Ley y demás disposiciones normativas aplicables.
+Las personas Jueces, Secretaria General de Acuerdos, Secretarias de Estudio y Cuenta, Secretarias Auxiliares y Actuarias del Tribunal Superior de Justicia, así como las personas Secretarias de Acuerdos y Actuarias de los Juzgados, serán designadas en los términos que señala la Constitución Política del Estado, esta Ley y demás disposiciones normativas aplicables.
 
-Los demás servidores públicos del Tribunal Superior de Justicia, Juzgados y otros órganos del Poder Judicial del Estado serán nombrados por el Consejo de la Judicatura.
+Las demás personas servidoras públicas del Tribunal Superior de Justicia, Juzgados y otros órganos del Poder Judicial del Estado serán nombradas por el Consejo de la Judicatura.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
@@ -573,9 +553,13 @@ VII.- Firmar, en unión de los magistrados asistentes y del secretario, las corr
 
 VIII.- Dar cuenta al Pleno con las demandas de responsabilidad civil, presentadas en contra de los Magistrados del Tribunal Superior de Justicia.
 
-IX.- Turnar a la sala que corresponda, para los efectos que señala el Código de Procedimientos Civiles, el expediente que se haya formado con motivo de competencia suscitada entre los funcionarios precisados por la propia Ley adjetiva, en lo que se refiere a la cuantía del negocio.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
-X.- Turnar a la sala que corresponda, para los efectos a que hubiere lugar, los expedientes a que se refiere el artículo 166 del Código de Procedimientos Civiles.
+IX.- Turnar a la sala que corresponda, para los efectos que señala el Código de Procedimientos aplicable en la materia, el expediente que se haya formado con motivo de competencia suscitada entre los funcionarios precisados por la propia Ley adjetiva, en lo que se refiere a la cuantía del negocio; de conformidad con establecido en el artículo 101 de la presente Ley.
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+X.- Turnar a la sala que corresponda de conformidad con establecido en el artículo 101 de la presente Ley, para los efectos a que hubiere lugar, los expedientes a que se refiere el artículo 166 del Código de Procedimientos Civiles o el artículo 102 del Código Nacional de Procedimientos Civiles y Familiares.
 
 XI.- Compilar las ejecutorias sobresalientes pronunciadas por el Pleno y las Salas para que se publiquen por el Consejo de la Judicatura del Estado.
 
@@ -747,41 +731,25 @@ X.- Los de competencia mixta especializados en Violencia Familiar contra las Muj
 
 XI.- Los de Primera Instancia especializados en Materia Hipotecaria.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 54.
 
-En el Partido Judicial de Mexicali, habrá cuando menos cuatro Juzgados de Primera Instancia Civil, dos Juzgados de Primera Instancia de lo Familiar, cinco Juzgados de Primera Instancia Penal y cuatro Juzgados de Paz, distribuidos de la siguiente manera: Uno Civil y uno Penal en la Ciudad de Mexicali, uno Mixto en Guadalupe Victoria y otro Mixto en San Felipe. Además contará con un Juzgado de Primera Instancia Especializado para Adolescentes y uno en materia de extinción de dominio.
-
-Tratándose del Juzgado de Primera Instancia en materia de extinción de dominio, además de la competencia territorial que le corresponde al Partido Judicial de Mexicali, conocerá de lo que conforme a esta ley y a la Ley de Extinción de Dominio del Estado de Baja California le corresponda, dentro de las competencias territoriales de los partidos judiciales de los restantes municipios de la entidad.
-
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+En Baja California y sus partidos judiciales habrá el número de Juzgados en las diversas materias que el Consejo de la Judicatura considere necesarios para que la administración de justicia sea expedita. En virtud de lo anterior, podrá definir el número y especialización de los mismos, de conformidad con las necesidades sociales de cada municipio y la viabilidad presupuestal correspondiente.
 
 ###### ARTICULO 55.
 
-En el Partido Judicial de Tijuana, habrá cuando menos cinco Juzgados de Primera Instancia Civil, dos Juzgados de Primera Instancia de lo Familiar, siete Juzgados de Primera Instancia Penal y tres Juzgados de Paz, uno Civil, dos Penales. Además contará con un Juzgado de Primera Instancia Especializado para Adolescentes.
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
-
-Tratándose del Juzgado de Primera Instancia Especializado para Adolescentes además de la competencia territorial que le corresponde al Partido Judicial de Tijuana, conocerá de las conductas tipificadas como delito que cometan los adolescentes dentro de las competencias territoriales de los partidos judiciales de Tecate y Playas de Rosarito.
-
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2023)
 
 ###### ARTICULO 56.
 
-En el Partido Judicial de Ensenada, habrá cuando menos cuatro Juzgados de Primera Instancia Civil, cuatro Juzgados de Primera Instancia Penal; distribuidos de la siguiente manera: Uno Civil y uno Penal en San Quintín. Además contará con un Juzgado de Paz, dos Juzgados de Primera Instancia de lo Familiar y un Juzgado de Primera Instancia Especializado para Adolescentes.
-
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2023)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2023)
 
 ###### ARTICULO 57.
 
-En el Partido Judicial de Tecate habrá cuando menos un Juzgado de Primera Instancia de lo Familiar, un Juzgado Mixto de Primera Instancia en el ramo o ramos que determine el Pleno del Consejo de la Judicatura y un Mixto de Paz.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2023)
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
-
-ARTICULO 57 BIS.- En el Partido Judicial de Playas de Rosarito, habrá cuando menos un Juzgado Mixto de Primera Instancia, en el ramo o ramos que determine el Pleno del Consejo de la Judicatura y un Mixto de Paz.
+ARTICULO 57 BIS.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2023)
 
 ###### ARTICULO 58.
 
@@ -797,23 +765,19 @@ ARTICULO 58 BIS.- El Pleno del Consejo de la Judicatura atendiendo a la viabilid
 
 Los Jueces de Primera Instancia, Jueces en materia Laboral y Jueces de Paz deberán residir en el partido judicial que les corresponda durante su encargo.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 60.
 
-Los Servidores Públicos del Poder Judicial del Estado que deberán protestar al aceptar el cargo, serán únicamente los que se refieren en el presente artículo y en la forma siguiente:
+Las personas Servidoras Públicas del Poder Judicial del Estado que deberán protestar al aceptar el cargo, serán únicamente las que se refieren en el presente artículo y en la forma siguiente:
 
-I.- Los Magistrados y Consejeros al Consejo de la Judicatura, en la forma prevenida por la Constitución Política del Estado de Baja California.
+I.- Las personas Magistradas y Consejeras al Consejo de la Judicatura, en la forma prevenida por la Constitución Política del Estado de Baja California.
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+II.- Las personas Jueces cualquiera que sea su categoría, ante el Pleno del Tribunal Superior de Justicia.
 
-II.- Los Jueces cualquiera que sea su categoría, ante el Pleno del Tribunal Superior de Justicia.
+III.- Las personas Secretaria General de Acuerdos, Secretarias Auxiliares, Secretarias de Estudio y Cuenta, y Actuarias del Tribunal Superior de Justicia, ante el Pleno de este último.
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
-
-III.- El Secretario General de Acuerdos, Secretarios de Estudio y Cuenta, Secretarios Auxiliares y Actuarios del Tribunal Superior de Justicia, ante el Pleno de este último.
-
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
-
-IV.- Los Secretarios de Acuerdos y Actuarios de los Juzgados, ante el Juez al que sean adscritos.
+IV.- Las personas Secretarias de Acuerdos y Actuarias de los Juzgados, ante el Juez al que sean adscritas.
 
 ###### ARTICULO 61.
 
@@ -879,11 +843,11 @@ El incumplimiento de esta disposición ameritará la suspensión temporal o defi
 
 Para el mejor desempeño de sus labores, cada uno de los Juzgados de los diversos Partidos Judiciales en los que se divide el Estado, contarán con un Juez, el número de Secretarios de Acuerdos, Actuarios y el personal que determine el Pleno del Consejo de la Judicatura del Estado de acuerdo con el presupuesto de egresos.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 69.
 
-Las y Los jueces de lo Civil, de lo Familiar, de lo Penal, de lo Laboral, Mixtos de Primera Instancia, Especializados para Adolescentes, Especializados en Violencia Familiar contra las Mujeres, Especializados en Materia Hipotecaria o de Paz, cuando sean varios en el mismo partido judicial, se identificarán por numeración progresiva y conocerán de los negocios jurídicos que, por Ley sean de su competencia.
+Los Juzgados de lo Civil, de lo Familiar, de lo Penal, de lo Laboral, Mixtos de Primera Instancia, Especializados para Adolescentes, Especializados en Violencia Familiar contra las Mujeres, Especializados en Materia Hipotecaria o de Paz, cuando sean varios en el mismo partido judicial, se identificarán por numeración progresiva y conocerán de los negocios jurídicos que, por Ley sean de su competencia.
 
 ###### ARTICULO 70.
 
@@ -937,9 +901,9 @@ IV.- De los asuntos judiciales de jurisdicción común o concurrente, relativos 
 
 V.- De los interdictos.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
-VI.- De las diligencias preliminares de consignación, cuando el valor de la cosa o la cantidad que se ofrezca exceda a 1000 días del salario mínimo general, debiéndose estar a lo que dispone el Código de Procedimientos Civiles, en los casos de prestaciones periódicas, excepto en los asuntos de derecho familiar.
+VI.- De las diligencias preliminares de consignación, cuando el valor de la cosa o la cantidad que se ofrezca exceda a 1000 días del salario mínimo general, debiéndose estar a lo que dispone el Código Procedimental aplicable en la materia, en los casos de prestaciones periódicas, excepto en los asuntos de derecho familiar.
 
 VII.- De los juicios sucesorios cualquiera que sea su cuantía.
 
@@ -949,13 +913,19 @@ VIII.- De las órdenes de protección, exceptuando los asuntos de derecho famili
 
 IX.- De los demás asuntos que les encomienden las leyes.
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 73 BIS.- Los asuntos de orden civil en el Estado estarán a cargo de Jueces de Primera Instancia Civil quienes podrán ejercer sus atribuciones como jueces de oralidad en términos del Código Nacional de Procedimientos Civiles y Familiares o en los términos del procedimiento aplicable.
+
 ###### ARTICULO 74.
 
 Cuando en un juzgado de primera Instancia o de paz haya más de un secretario, el Juez determinará el que tendrá el carácter de primer secretario de acuerdos, será Jefe inmediato de la oficina en el orden administrativo y dirigirá las labores de ella de acuerdo con las instrucciones y determinaciones del Juez, y suplirá las faltas temporales de este último, que no excedan de dos meses, debiendo dar cuenta al Pleno del Tribunal y del Consejo de la Judicatura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 75.
 
-Son atribuciones y obligaciones de los secretarios de acuerdos:
+Son atribuciones y obligaciones de las personas secretarias de acuerdos:
 
 I.- Recibir los escritos, exceptuando los iniciales de demanda, donde no exista Oficialía de Partes, que les presenten en su domicilio después de haberse terminado las labores del juzgado, asentado con letra, al calce, la razón de la fecha y hora de la presentación, expresando las fojas que contengan y los documentos que se acompañan. Asimismo, deban poner razón idéntica en la copia cuando se exhiba y la firma de quien la recibe.
 
@@ -969,7 +939,9 @@ V.- Autorizar con su firma los despachos, exhortos, actos, diligencias, autos y 
 
 VI.- Asentar en los expedientes las certificaciones relativas a términos de prueba y las demás razones que expresa la ley o el juez las ordene.
 
-VII.- Asistir a las diligencias de prueba que debe recibir el juez de acuerdo con el Código de Procedimientos Civiles.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+VII.- Asistir a las diligencias de prueba que debe recibir el juez de acuerdo con el Código de Procedimientos aplicable en la materia.
 
 VIII.- Expedir las copias autorizadas y certificadas que la ley determine o deban darse a las partes en virtud de Decreto Judicial.
 
@@ -983,7 +955,9 @@ XII.- Proporcionar a los interesados los expedientes en los que fueren partes y 
 
 XIII.- Entregar a las partes, previo conocimiento, los expedientes, en los casos en que lo disponga la ley.
 
-XIV.- Notificar en el Juzgado, personalmente a las partes, en los juicios o asuntos que se ventilen ante él, en los términos del artículo 123 y demás relativos del Código de Procedimientos Civiles.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+XIV.- Notificar en el Juzgado, personalmente a las partes, en los juicios o asuntos que se ventilen ante él, en los términos del Código de Procedimientos aplicable en la materia.
 
 XV.- Remitir los expedientes al archivo judicial, al substituto legal de éste, o a la superioridad, previo conocimiento y control en sus respectivos casos.
 
@@ -1058,6 +1032,10 @@ VII.- De la expedición de las órdenes de protección de naturaleza familiar.
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE ABRIL DE 2023)</small>
 
 Los Juzgados de Primera Instancia de lo Familiar en el ámbito de su competencia funcionarán de manera ininterrumpida a lo largo del año no existiendo días ni horas inhábiles, para lo cual se establecerán guardias durante los periodos vacacionales, igual situación aplicará cuando se trate de aquellos de jurisdicción mixta.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 78 BIS.- Los asuntos de orden familiar en el Estado estarán a cargo de Jueces de Primera Instancia de lo Familiar quienes podrán ejercer sus atribuciones como jueces de oralidad en términos del Código Nacional de Procedimientos Civiles y Familiares o en los términos del procedimiento aplicable.
 
 ###### ARTICULO 79.
 
@@ -1241,23 +1219,25 @@ Los secretarios de acuerdos y actuarios tendrán el conjunto de facultades y obl
 
 Para el despacho de los negocios jurídicos, los Juzgados de Paz, tendrán la planta de servidores públicos de la administración de justicia que determine el Consejo de la Judicatura. En caso de ser Mixtos, habrá cuando menos dos secretarios de Acuerdos, adscritos al ramo penal y otro al ramo civil.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 88.
 
-Los jueces civiles de Paz conocerán de los juicios contenciosos que versen sobre la propiedad y demás derechos reales sobre inmuebles cuyo monto no exceda a 1000 días de salario mínimo general, a excepción de los interdictos; de los demás negocios de jurisdicción contenciosa, común y concurrente, cuyo monto no exceda la cantidad antes mencionada; de las diligencias preliminares de consignación, cuando el valor de la cosa o cantidad que se ofrezca no pase de la suma señalada con anterioridad, debiéndose estar a lo dispuesto en el Código de Procedimientos Civiles en los casos de prestaciones periódicas; de la diligenciación de exhortos y despachos, y de los demás asuntos que les encomiendan las leyes.
+Las personas jueces civiles de Paz conocerán de los juicios contenciosos que versen sobre la propiedad y demás derechos reales sobre inmuebles cuyo monto no exceda a 1000 días de salario mínimo general, a excepción de los interdictos; de los demás negocios de jurisdicción contenciosa, común y concurrente, cuyo monto no exceda la cantidad antes mencionada; de las diligencias preliminares de consignación, cuando el valor de la cosa o cantidad que se ofrezca no pase de la suma señalada con anterioridad, debiéndose estar a lo dispuesto en el Código de Procedimientos aplicable en la materia, en los casos de prestaciones periódicas; de la diligenciación de exhortos y despachos, y de los demás asuntos que les encomiendan las leyes.
 
 ###### ARTICULO 89.
 
 Los jueces penales de Paz conocerán de los delitos que tengan como sanción, apercibimiento, caución de no ofender, multa cuyo máximo sea de cuarenta días de salario mínimo, prisión cuyo máximo sea de un año o ambas; de la diligenciación de exhortos y despachos y de los demás que les encomienden las leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 90.
 
-Los jueces (sic) Paz de Jurisdicción mixta conocerán:
+Las personas jueces (sic) Paz de Jurisdicción mixta conocerán:
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
-I.- En los asuntos civiles, de los juicios contenciosos que versen sobre la propiedad y demás derechos reales sobre inmuebles, cuyo monto no exceda al equivalente de 1000 días de salario mínimo general, a excepción de los interdictos; de los demás negocios de jurisdicción contenciosa, común o concurrente, cuyo monto no exceda de la cantidad antes mencionada; de las diligencias preliminares de consignación, cuando el valor de las cosas o la cantidad que se ofrezca no pase de la suma señalada con anterioridad, debiéndose estar a lo dispuesto en el Código de Procedimientos Civiles en los casos de prestaciones periódicas; de la diligenciación de exhortos y despachos y de los demás asuntos que les encomienden las leyes.
+I.- En los asuntos civiles, de los juicios contenciosos que versen sobre la propiedad y demás derechos reales sobre inmuebles, cuyo monto no exceda al equivalente de 1000 días de salario mínimo general, a excepción de los interdictos; de los demás negocios de jurisdicción contenciosa, común o concurrente, cuyo monto no exceda de la cantidad antes mencionada; de las diligencias preliminares de consignación, cuando el valor de las cosas o la cantidad que se ofrezca no pase de la suma señalada con anterioridad, debiéndose estar a lo dispuesto en el Código de Procedimientos aplicable en la materia, en los casos de prestaciones periódicas; de la diligenciación de exhortos y despachos y de los demás asuntos que les encomienden las leyes.
 
 II.- En el ramo Penal, de los delitos que tengan como sanción, apercibimiento, caución de no ofender, multa cuyo máximo sea de cuarenta días de salario mínimo, prisión cuyo máximo sea de un año o ambas, de la diligenciación de exhortos y despachos y de los demás asuntos que les encomienden las leyes.
 
@@ -1437,7 +1417,9 @@ IV. Sobreseerán las causas a su cargo cuando se actualicen cualquiera de las hi
 
 En materia familiar:
 
-I. Conocer y resolver hasta su conclusión, las controversias del orden familiar a que se refiere el Titulo Decimosexto del Código de Procedimientos Civiles para el Estado de Baja California, siempre que versen sobre actos o hechos constitutivos de violencia familiar a través de los cuales se vulnere la integridad física o psicológica de la mujer con quien la persona presunta agresora o probable responsable tenga una relación de pareja o ex pareja, cónyuge o ex cónyuge, concubina o ex concubina, respecto a quien tenga o haya tenido relación de pareja o de hecho, o bien sea pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado o pariente colateral consanguíneo o por afinidad hasta cuarto grado, así como contra el adoptante, adoptado o adoptada, o en contra de los parientes por consanguinidad o afinidad hasta el cuarto grado de las personas nombradas, al igual que contra cualquier otra mujer, en su caso sus hijos e hijas, que estén sujetos a la custodia, guarda, protección, educación o cuidado del presunto agresor o probable responsable.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+I. Conocer y resolver hasta su conclusión, las controversias del orden familiar a que se refiera el Código de Procedimientos aplicable en la materia, siempre que versen sobre actos o hechos constitutivos de violencia familiar a través de los cuales se vulnere la integridad física o psicológica de la mujer con quien la persona presunta agresora o probable responsable tenga una relación de pareja o ex pareja, cónyuge o ex cónyuge, concubina o ex concubina, respecto a quien tenga o haya tenido relación de pareja o de hecho, o bien sea pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado o pariente colateral consanguíneo o por afinidad hasta cuarto grado, así como contra el adoptante, adoptado o adoptada, o en contra de los parientes por consanguinidad o afinidad hasta el cuarto grado de las personas nombradas, al igual que contra cualquier otra mujer, en su caso sus hijos e hijas, que estén sujetos a la custodia, guarda, protección, educación o cuidado del presunto agresor o probable responsable.
 
 II. Emitir las órdenes de protección reguladas tanto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, como en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California.
 
@@ -1463,23 +1445,27 @@ V. De las diligencias de exhortos, suplicatorias, requisitorias y despachos rela
 
 VI. De los demás asuntos que les encomienden las leyes.
 
-> <small>(REFORMADO [N. DE E. REUBICADO ANTES CAPÍTULO XI], P.O. 29 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
-### CAPITULO XII. DE LAS CENTRALES DE ACTUARIOS
+### CAPITULO XII. DEL MODELO DE GESTIÓN Y DE LAS CENTRALES DE ACTUARIOS
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 29 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
-ARTICULO 90 DUODECIES.- En los Partidos Judiciales en que existan dos o más juzgados de la misma materia, podrán crearse Centrales de Actuarios, cuando las necesidades del servicio así lo ameriten, a juicio del Consejo de la Judicatura.
+ARTICULO 90 DUODECIES.- Para el mejor desarrollo de las funciones y atendiendo a las necesidades del servicio, el Poder Judicial podrá contar con un sistema de organización o modelo de gestión para todas las materias judiciales, conforme a lo establecido en la presente Ley y en los instrumentos jurídicos que para tal efecto expida el Pleno del Consejo de la Judicatura.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 90 TERDECIES.- En los Partidos Judiciales en que existan dos o más juzgados de la misma materia, podrán crearse Centrales de Actuarios, cuando las necesidades del servicio así lo ameriten, a juicio del Consejo de la Judicatura.
 
 Las Centrales de Actuarios serán los órganos encargados de llevar el control de las diligencias cuya realización ordenen las autoridades jurisdiccionales a cargo de las y los actuarios del Poder Judicial del Estado, fuera de la sede judicial, debiendo turnárseles de forma aleatoria. Las Centrales de Actuarios funcionarán conforme a las bases de organización y funcionamiento que sean establecidas en el reglamento y lineamientos que al efecto emita el Consejo de la Judicatura.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE NOVIEMBRE DE 2023)</small>
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
-ARTICULO 90 TERDECIES.- Cada Central de Actuarios estará a cargo de una coordinación, quien contará con las y los Secretarios Actuarios y el personal administrativo necesario para el cumplimiento de sus funciones, de conformidad con la viabilidad presupuestal. Para ser coordinadora o coordinador de la Central de Actuarios se requiere:
+ARTICULO 90 CUATERDECIES.- Cada Central de Actuarios estará a cargo de una coordinación, quien contará con las y los secretarios actuarios y el personal administrativo necesario para el cumplimiento de sus funciones, de conformidad con la viabilidad presupuestal. Para ser coordinadora o coordinador de la Central de Actuarios se requiere:
 
-I.- Contar con ciudadanía mexicana en pleno ejercicio de sus derechos;
+I.- Contar con ciudanía mexicana en pleno ejercicio de sus derechos;
 
-II.- Tener cuando menos, treinta años cumplidos al día de la designación;
+II.- Tener, cuando menos, treinta años cumplidos al día de la designación;
 
 III.- Gozar de buena reputación;
 
@@ -1559,29 +1545,31 @@ Las faltas absolutas de los Jueces, Secretarios y demás servidores públicos de
 
 ### CAPITULO I. DE LA SUBSTITUCION EN CASOS DE RECUSACION Y EXCUSAS
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 101.
 
-Si un magistrado dejare de conocer algún asunto por excusa o recusación, conocerá de éste el Magistrado de otra Sala a quien corresponda de acuerdo con el turno y en caso de impedimento conocerá de éste el magistrado propietario de otra Sala que con anterioridad se haya excusado o haya sido recusado en otro negocio, a quien corresponda el turno que deberá llevar el Presidente del Tribunal. Cuando no existiera magistrado en semejantes condiciones, entonces el Presidente del Tribunal designaré, por riguroso turno, al magistrado que deba hacer la sustitución, y si aún subsistiera impedimento se procederá a nombrar por insaculación a un magistrado de los restantes, procediéndose a resolver el asunto, por lo que no podrá ser recusado o removido por impedimento sino en los casos que expresamente previenen las fracciones, II, III, IV, V, VIII; IX, X, XI, XIII, XIV y XV del artículo 171 del Código de Procedimientos Civiles para el Estado de Baja California, y las fracciones II, III, VII, IX, X, XI, XII, XIII y XIV del artículo 18 Código de Procedimientos Penales para la Entidad, caso en el cual deberá procederse a nueva insaculación.
+Si una magistrada o magistrado dejare de conocer algún asunto por excusa o recusación, conocerá de éste la persona Magistrada de otra Sala de la materia que siga de acuerdo con el turno; en caso de impedimento conocerá de éste, el magistrado propietario de otra Sala de la materia a quien corresponda el turno. Cuando no existiera magistrado en semejantes condiciones, se designará por riguroso turno al magistrado que deba hacer la sustitución, y si aún subsistiera impedimento se procederá a nombrar por insaculación a un magistrado de los restantes, que procederá a resolver el asunto, y que no podrá ser recusado o removido por impedimento sino en los casos que expresamente previenen las fracciones, II, III, IV, V, VIII; IX, X, XI, XIII, XIV y XV del artículo 171 del Código de Procedimientos Civiles para el Estado de Baja California, y las fracciones II, III, VII, IX, X, XI, XII, XIII y XIV del artículo 18 Código de Procedimientos Penales para la Entidad, caso en el cual deberá procederse a nueva insaculación.
 
-Cuando los magistrados que integren una Sala estuvieren impedidos para conocer de un negocio, pasará éste al conocimiento de la Sala que le siga en número; si se tratase de la última Sala, será substituida por la que en el orden numérico corresponda.
+Cuando las magistraturas que integren una Sala estuvieren impedidas para conocer de un negocio, pasará éste al conocimiento de la Sala de la materia que siga en turno.
 
-Si el impedimento para conocer de un asunto lo tuviere la totalidad de los magistrados de dos Salas, en la forma señalada en el párrafo anterior y derivare de recusación o excusas hechas valer de cualquier forma por parte interesada, conocerá la Sala siguiente por la que en número le corresponda y para ese único efecto se integrará mediante procedimiento de insaculación de los seis magistrados restantes, para resolver el asunto, por no aplicárseles impedimento alguno y por lo tanto no siendo removidos por recusación o excusa, a menos que se encontrare alguno de ellos en los casos de excepción previstos en el párrafo primero de este artículo, caso en el cual deberá procederse a nueva insaculación.
+Si el impedimento para conocer de un asunto lo tuviere la totalidad de los magistrados de dos Salas, y derivare de recusación o excusas hechas valer de cualquier forma por parte interesada, conocerá la Sala que siga en turno y para ese único efecto se integrará mediante procedimiento de insaculación de las magistraturas restantes, para resolver el asunto, por no aplicárseles impedimento alguno y por lo tanto no siendo removidos por recusación o excusa, a menos que se encontrare alguno de ellos en los casos de excepción previstos en el párrafo primero de este artículo, caso en el cual deberá procederse a nueva insaculación.
 
-Cuando el Tribunal en Pleno, advierta que las recusaciones o excusas se hubiesen hecho valer por cualquier medio de los magistrados integrantes de dos de sus Salas, con el único propósito de retrasar la solución de un asunto o la suspensión del mismo se le consignará al Ministerio Público.
+Este sistema deberá garantizar la objetividad e imparcialidad del turnado de los expedientes, a efecto de lograr un equilibrio en las cargas de trabajo de las Salas.
 
-En los casos en que los Consejeros de la Judicatura estuvieren impedidos para conocer de un asunto, será sustituido por el Consejero que para tal efecto designe el Congreso del Estado o el que corresponda como consejero suplente insaculado.
+Cuando el Tribunal en Pleno, advierta que las recusaciones o excusas se hubiesen hecho valer por cualquier medio de las magistraturas integrantes, con el único propósito de retrasar la solución de un asunto o la suspensión del mismo se le consignará al Ministerio Público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2021)</small>
+En los casos en que las personas Consejeras de la Judicatura estuvieren impedidas para conocer de un asunto, será sustituido por la persona Consejera que para tal efecto designe el Congreso del Estado o el que corresponda como consejero suplente insaculado.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 102.
 
-Si un Juez de lo Civil, de Extinción de Dominio, de lo Penal, en materia Laboral, o Mixto de Primera Instancia, deja de conocer por impedimento, recusación o excusa, conocerá el asunto el que le sigue en número, si lo hubiera de igual categoría o ramo dentro del mismo partido judicial y en caso de que estos también tuvieran impedimento o en aquel partido no hubiere otro Juez, conocerá el que sigue en razón de la distancia, según la forma indicada.
+Si una persona Juez deja de conocer por impedimento, recusación o excusa, conocerá el asunto la que le siga en turno, si lo hubiera de igual categoría o ramo dentro del mismo partido judicial y en caso de que estos también tuvieran impedimento o en aquel partido no hubiere otra persona Juez, conocerá la que sigue en razón de la distancia, según la forma indicada.
 
-Si un Juez de lo Familiar, o el que conozca de los asuntos de lo familiar deja de conocer por impedimento recusación o excusa, conocerá del asunto el Juez de Primera Instancia de lo familiar que siga en número del mismo partido Judicial si lo hubiere, si no, conocerá del asunto el Juez de Primera Instancia Civil del mismo Partido Judicial; si hubiere varios, conocerán por turno, y si estos también tuvieren impedimento o en aquel Partido no hubiere otro Juez de Primera Instancia Civil, conocerá el Juez de lo Familiar que siga en razón de la distancia según la forma indicada.
+Si una persona Juez de lo Familiar, o la que conozca de los asuntos de lo familiar deja de conocer por impedimento recusación o excusa, conocerá del asunto la persona Juez de Primera Instancia de lo familiar que siga en turno del mismo partido Judicial si lo hubiere, si no, conocerá del asunto la persona Juez de Primera Instancia Civil del mismo Partido Judicial que siga en turno, y si estas también tuvieren impedimento o en aquel Partido no hubiere persona Juez de Primera Instancia Civil, conocerá la persona Juez de lo Familiar que siga en razón de la distancia según la forma indicada.
 
-En caso de recusación sin causa promovida ante el Juzgado de primera Instancia del partido judicial de Tecate, conocerán del asunto, sucesivamente por turno, los jueces del partido judicial de Tijuana.
-
-En todos los casos en que según esta Ley debe suplir a un Juez el que le sigue en número, si el que faltare fuere último, será substituido por el que en orden numérico sea el primero y así sucesivamente.
+En caso de recusación sin causa promovida ante el Juzgado de primera Instancia del partido judicial de Tecate, conocerán del asunto, sucesivamente por turno y por materia, las personas jueces del partido judicial de Tijuana.
 
 ###### ARTICULO 103.
 
@@ -2423,9 +2411,11 @@ IV.- Relacionar al anverso y al reverso de los documentos, cuando la microfilmac
 
 ### CAPITULO IX. DEL BOLETIN JUDICIAL
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 187.
 
-En la Ciudad de Mexicali, se editará el "Boletín Judicial" que será el órgano oficial de difusión del Poder Judicial del Estado; tendrá por objeto publicar las listas de Acuerdos dictados en materia civil y de lo familiar por los correspondientes Juzgados del Estado, por el Tribunal Superior de Justicia y del Consejo de la Judicatura así como los Edictos y Avisos Judiciales a que se refiere el Capítulo V del Título Segundo, del Código de Procedimientos Civiles.
+En la Ciudad de Mexicali, se editará el "Boletín Judicial" que será el medio de comunicación procesal oficial y de comunicación judicial del Poder Judicial del Estado; tendrá por objeto publicar las listas de Acuerdos dictados en materia civil y de lo familiar por los correspondientes Juzgados del Estado, por el Tribunal Superior de Justicia y del Consejo de la Judicatura así como los Edictos y Avisos Judiciales a que se refiera el Código de Procedimientos aplicable en la materia.
 
 ###### ARTICULO 188.
 
@@ -2523,11 +2513,11 @@ Si transcurrido el plazo a que hace referencia la Fracción I, no se hubiese pre
 
 ### CAPITULO XII. DE LA OFICIALIA DE PARTES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 197.
 
-Las Oficialías de Partes para el Tribunal Superior de Justicia y para los Juzgados de Primera Instancia y Juzgados en materia Laboral, se establecerán por acuerdo del Pleno de la Judicatura del Estado, según las necesidades de cada partido judicial.
+Las Oficialías de Partes para el Tribunal Superior de Justicia, los Juzgados de Primera Instancia y los Juzgados Uniinstanciales, se establecerán por acuerdo del Pleno de la Judicatura del Estado, según las necesidades de cada partido judicial.
 
 Tendrán las siguientes atribuciones:
 
@@ -2933,9 +2923,11 @@ VI.- Las demás que les encomienden las leyes.
 
 ### CAPITULO II. DE LOS SINDICOS DE CONCURSO
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 218.
 
-Los Síndicos de Concurso, serán designados por los jueces de lo civil en los términos establecidos por el Código de Procedimientos Civiles, dentro de las personas comprendidas en la lista que para tal efecto será enviada por el Consejo de la Judicatura.
+Los Síndicos de Concurso, serán designados por las personas jueces de lo civil en los términos establecidos por el Código de Procedimientos aplicable en la materia, dentro de las personas comprendidas en la lista que para tal efecto será enviada por el Consejo de la Judicatura.
 
 ###### ARTICULO 219.
 
@@ -2963,9 +2955,11 @@ V.- No encontrarse comprendido dentro de los casos previstos por el artículo 17
 
 Los interventores de concurso, al igual que los síndicos, desempeñan una función pública y quedan sujetos a las determinaciones de esta ley, sin perjuicio de las demás disposiciones relativas.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 222.
 
-Los interventores serán nombrados por los acreedores, en cualquier tiempo, por mayoría de votos en términos del Código de Procedimientos Civiles, de la lista que para tal efecto enviará el Consejo de la Judicatura del Estado a los Jueces de lo Civil del Estado.
+Los interventores serán nombrados por los acreedores, en cualquier tiempo, por mayoría de votos en términos del Código de Procedimientos aplicable en la materia, de la lista que para tal efecto enviará el Consejo de la Judicatura del Estado a los Jueces de lo Civil del Estado.
 
 ###### ARTICULO 223.
 
@@ -2987,9 +2981,11 @@ Los albaceas, tutores y curadores, ya sean provisionales o definitivos, designad
 
 ### CAPITULO V. DE LOS NOTARIOS
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 226.
 
-En los casos en que conforme al artículo 68 del Código de Procedimientos Civiles, los litigantes designen a un notario que desempeñe las funciones de secretario, estará éste obligado a cumplir con todas las disposiciones que esta ley prescribe para dichos funcionarios únicamente en relación con el negocio en que intervenga y sujeto a las sanciones establecidas en el Capítulo de Responsabilidades, por las faltas o delitos oficiales en que incurra en el desempeño del cargo. En la inteligencia en que no es preciso que permanezca en el juzgado respectivo más que el tiempo necesario para que se desahoguen y dicten diligencias, acuerdos y resoluciones en dicho negocio.
+En los casos en que los litigantes designen a un notario que desempeñe las funciones de secretario, estará obligado a cumplir con todas las disposiciones que esta ley prescribe para dichos funcionarios únicamente en relación con el negocio en que intervenga y sujeto a las sanciones establecidas en el Capítulo de Responsabilidades, por las faltas o delitos oficiales en que incurra en el desempeño del cargo. En la inteligencia en que no es preciso que permanezca en el juzgado respectivo más que el tiempo necesario para que se desahoguen y dicten diligencias, acuerdos y resoluciones en dicho negocio.
 
 ### CAPITULO VI. DE LOS PERITOS
 
@@ -3027,13 +3023,17 @@ Los Peritos Intérpretes están obligados a traducir clara y fielmente los inter
 
 En los asuntos civiles o penales, las partes interesadas podrán nombrar libremente los peritos que les convengan.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 235.
 
-Los honorarios de los peritos designados por el juez, sin solicitud de ninguno de los interesados, de acuerdo con las disposiciones del Código de Procedimientos Civiles, serán cubiertos por ambas partes por mitad, sin perjuicio de lo que disponga la sentencia definitiva respecto a la condenación de costas.
+Los honorarios de los peritos designados por el juez, sin solicitud de ninguno de los interesados, de acuerdo con las disposiciones del Código de Procedimientos aplicable en la materia, serán cubiertos por ambas partes por mitad, sin perjuicio de lo que disponga la sentencia definitiva respecto a la condenación de costas.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 236.
 
-Siempre que alguna persona no hable el idioma español y tenga que ser examinado en juicio civil o criminal, se le proveerá de interprete en los términos del Código de Procedimientos Civiles y Penales.
+Siempre que alguna persona no hable el idioma español y tenga que ser examinado en juicio civil o criminal, se le proveerá de interprete en los términos del Código de Procedimientos aplicable en la materia.
 
 ### CAPITULO VII. DE LOS PRESTADORES DEL SERVICIO SOCIAL ADSCRITOS AL PODER JUDICIAL
 
@@ -3083,25 +3083,37 @@ El Tribunal electrónico es el sistema integral de procesamiento de información
 
 El objeto del Tribunal Electrónico es constituirse en una herramienta tecnológica que contribuya a que la impartición de justicia se preste con mayor celeridad, eficacia, eficiencia, seguridad y transparencia en beneficio de los justiciables.
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 245.
 
 El sistema del Tribunal Electrónico tendrá como principales funciones, las siguientes:
 
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2016)</small>
+
 I.- La formación y utilización del expediente electrónico en los procesos jurisdiccionales;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2016)</small>
 
 II.- Facilitar la consulta vía internet de los expedientes electrónicos;
 
-III.- La recepción electrónica de promociones y documentos en los procesos jurisdiccionales;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+III.- La recepción electrónica de promociones y documentos en los procesos jurisdiccionales, mediante su oficialía de partes virtual;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2016)</small>
 
 IV.- Efectuar notificaciones electrónicas dentro de los procesos jurisdiccionales;
 
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2016)</small>
+
 V.- Fungir como medio procesal e institucional entre las Autoridades jurisdiccionales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 246.
 
-(DEROGADO, P.O. 12 DE JUNIO DE 2015)
+El Tribunal Electrónico podrá integrar sistemas de justicia digital para sustanciar los asuntos jurisdiccionales en línea, siempre que garanticen la autentificación.
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
@@ -3992,3 +4004,25 @@ CUARTO.- La implementación y funcionamiento de los Juzgados de Primera Instanci
 QUINTO.- Los asuntos en materia hipotecaria presentados con anterioridad a la entrada en vigor de las presentes reformas, se seguirán sustanciando hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio, en los Juzgados que los conocieron en su primer momento.
 
 SEXTO.- Las presentes reformas no afectaran los derechos adquiridos y demás prestaciones reconocidas a las personas servidoras públicas que hubieren iniciado funciones con anterioridad a la entrada en vigor de las mismas.
+
+P.O. 4 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 349 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1, 3, 4, 8, 44, 54, 60, 69, 73, 75, 88, 90, 90 DECIES, 101, 102, 187, 197, 218, 222, 226, 235, 236, 245 Y 246; ASÍ COMO LA CREACIÓN DEL CAPÍTULO XII DEL TÍTULO QUINTO PARA LLAMARSE “DEL MODELO DE GESTIÓN Y DE LAS CENTRALES DE ACTUARIOS” Y LOS ARTÍCULOS 90 DUODECIES; SE ADICIONAN LOS ARTÍCULOS 73 BIS, 78 BIS, 90 TERDECIES Y 90 QUATERDECIES Y SE DEROGAN LOS ARTÍCULOS 55, 56, 57 Y 57 BIS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA; Y 49, 203, 269, 270, 272, 273, 459, 510, 670, 795, 1599, 1612, 1637, 1639, 1794 BIS, 1993, 2197, 2199, 2290, 2419, 2749, 2783, 2832, 2839, 2869, 2890, 2891 Y 2908; Y SE DEROGA EL ARTÍCULO 271, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+Primero.- Las presentes reformas entrarán en vigor el día en que entre en vigor en el Estado el Código Nacional de Procedimientos Civiles y Familiares, de conformidad con la declaratoria que para tal efecto, emita el Congreso del Estado, con la salvedad prevista en el artículo Segundo Transitorio.
+
+Segundo.- La reforma al artículo 90 Decies entrará en vigor en los términos del artículo Tercero Transitorio del Decreto 122, publicado en el Periódico Oficial del Estado de Baja California, el 02 de septiembre del año 2022.
+
+Tercero.- Sin perjuicio de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, y de conformidad con los transitorios Primero y Segundo de las presentes reformas, el Código de Procedimientos Civiles para el Estado de Baja California, publicado en el Periódico Oficial No. 21, de fecha 26 de mayo de 1995, seguirá siendo supletorio de las leyes u ordenamientos estatales que así lo dispongan y que regulen procedimientos distintos a los de naturaleza civil o familiar.
+
+Cuarto.- De conformidad con la viabilidad presupuestal con que cuente el Poder Judicial, deberá realizar las acciones siguientes:
+
+I. Efectuar las adecuaciones presupuestales necesarias;
+
+II. Llevar a cabo las gestiones administrativas que estime pertinentes para capacitar a las personas servidoras públicas, y
+
+III. Concretar las modificaciones reglamentarias, acciones administrativas y demás que resulten imprescindibles.
+
+Quinto.- Las presentes reformas no afectarán las relaciones laborales, burocráticas o de servicios personales; ni los derechos adquiridos o demás prestaciones, que con anterioridad a su entrada en vigor, gozaban los servidores públicos o prestadores de servicios del Poder Judicial del Estado.
+
+Sexto.- El ejercicio de las atribuciones que con la vigencia de las presentes reformas competerán a las personas Jueces de Primera Instancia Civil o Familiar, en relación con la aplicación del Código Nacional de Procedimientos Civiles y Familiares en el Estado, no afectará sus nombramientos, la duración o periodo de ejercicio de su encargo, ni los derechos adquiridos o demás prestaciones que gozaban a la entrada en vigor de este decreto.
