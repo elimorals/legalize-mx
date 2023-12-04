@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2023-11-20"
+last_updated: "2023-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -1419,7 +1419,9 @@ En caso de someter a votación un asunto, será considerado únicamente el voto 
 
 Corresponde al Comité de Administración:
 
-I. Supervisar y autorizar la administración de los recursos económicos del Congreso del Estado, de conformidad con el presupuesto de egresos aprobado;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+
+I. Supervisar y autorizar la administración de los recursos económicos del Congreso del Estado, de conformidad con el presupuesto de egresos aprobado y de acuerdo a los principios de disciplina presupuestal, austeridad, eficacia, transparencia, racionalidad económica, certeza y legalidad, dando prioridad a la cultura del reciclaje;
 
 II. Rendir cuentas al Pleno en la segunda y penúltima sesión de cada período ordinario, sobre la administración general de los recursos económicos, para efectos de su aprobación. El Pleno podrá solicitar información adicional sobre la rendición de cuentas, y el Comité deberá dar respuesta en la misma o en la siguiente sesión respectiva;
 
@@ -2448,3 +2450,7 @@ El presente decreto entrará en vigor a partir del día siguiente al de su publi
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones jurídicas que se opongan al presente decreto.
+
+P.O. 4 DE DICIEMBRE DE 2023.
+
+> <small>[N. DE E. EL DECRETO NÚMERO 545, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.]</small>
