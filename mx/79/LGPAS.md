@@ -4,7 +4,7 @@ identifier: "LGPAS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-07-24"
-last_updated: "2023-01-19"
+last_updated: "2023-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56140&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGPAS"
 
 LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de julio de 2007.
 
@@ -150,9 +150,9 @@ XIX. Esfuerzo pesquero: El número de individuos, embarcaciones o artes de pesca
 
 XX. Guía de pesca: Es el documento que ampara el transporte por vía terrestre, marítima o aérea de productos pesqueros vivos, frescos, enhielados o congelados, provenientes de la acuacultura o de la pesca;
 
-> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
 
-XXI. Inapesca: Instituto Nacional de Pesca y Acuacultura, órgano público descentralizado sectorizado con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+XXI. IMIPAS: Instituto Mexicano de Investigación en Pesca y Acuacultura Sustentables, órgano público descentralizado sectorizado con la Secretaría de Agricultura y Desarrollo Rural;
 
 XXII. Inocuidad: Es la garantía de que el consumo de los recursos pesqueros y acuícolas no cause daño en la salud de los consumidores;
 
@@ -196,7 +196,9 @@ XLI. Repoblación: Es el acto de introducir organismos acuáticos vivos nativos 
 
 XLII. Sanidad acuícola: Es el conjunto de prácticas y medidas establecidas en normas oficiales, encaminadas a la prevención, diagnóstico y control de las plagas, y enfermedades que afectan a dichas especies;
 
-XLIII. Secretaría: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, a través de la Comisión Nacional de Acuacultura y Pesca, con excepción de aquellos casos en los que sea a través de SENASICA;
+> <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
+
+XLIII. Secretaría: La Secretaría de Agricultura y Desarrollo Rural, a través de la Comisión Nacional de Acuacultura y Pesca, con excepción de aquellos casos en los que sea a través de SENASICA;
 
 XLIV. SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales;
 
@@ -290,9 +292,9 @@ XXVII. Promover la organización y capacitación para el trabajo pesquero y acu�
 
 XXVIII. Promover y apoyar la investigación, la innovación y el desarrollo tecnológico de la pesca y la acuacultura, así como el fortalecimiento de las capacidades tecnológicas de la planta productiva nacional;
 
-> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
 
-XXIX. La coordinación con INAPESCA, como organismo público descentralizado responsable de la investigación científica y tecnológica del sector pesquero y de acuacultura nacional;
+XXIX. La coordinación con IMIPAS, como organismo público descentralizado responsable de la investigación científica y tecnológica del sector pesquero y de acuacultura nacional;
 
 XXX. Establecer y operar el Sistema Nacional de Información Pesquera y Acuícola y el Registro Nacional de Pesca y Acuacultura, así como mantenerlos actualizados en forma permanente, de conformidad con las disposiciones legales aplicables;
 
@@ -742,13 +744,15 @@ VI. Desarrollar investigación en materia de sanidad e inocuidad acuícola y pes
 
 VII. Brindar elementos para el establecimiento de medidas encaminadas a protección de especies pesqueras sobreexplotadas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 29.
 
-El INAPESCA será el órgano administrativo con personalidad jurídica y patrimonio propio, encargado de dirigir, coordinar y orientar la investigación científica y tecnológica en materia de pesca y acuacultura, así como el desarrollo, innovación y transferencia tecnológica que requiera el sector pesquero y acuícola.
+El IMIPAS será el órgano administrativo con personalidad jurídica y patrimonio propio, encargado de dirigir, coordinar y orientar la investigación científica y tecnológica en materia de pesca y acuacultura, así como el desarrollo, innovación y transferencia tecnológica que requiera el sector pesquero y acuícola.
 
-Para el cumplimiento de su objetivo el INAPESCA contará, entre otras, con las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE DICIEMBRE DE 2023)</small>
+
+Para el cumplimiento de su objetivo el IMIPAS contará, entre otras, con las siguientes atribuciones:
 
 I. Realizar investigaciones científicas y tecnológicas de la flora y fauna acuáticas, en materia de pesca y acuacultura;
 
@@ -788,19 +792,27 @@ XVII. Designar observadores a bordo en las embarcaciones o en las instalaciones 
 
 XVIII. Las demás que expresamente le atribuya ésta Ley, sus disposiciones reglamentarias, las normas oficiales que de ella deriven, las leyes y reglamentos correspondientes vinculados al ámbito de la pesca y la acuacultura.
 
-El INAPESCA contará con centros regionales y estatales de investigación acuícola y pesquera.
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
+
+El IMIPAS contará con centros regionales y estatales de investigación acuícola y pesquera.
+
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 30.
 
-El INAPESCA contará con un Comité Asesor Técnico y Científico, que se integrará por el Titular del Instituto, quien lo presidirá, un Coordinador General y por representantes de la Red Nacional de Información e Investigación en Pesca y Acuacultura. El Comité asesor técnico científico se integrará, organizará y funcionará en los términos que señale el reglamento que para tal efecto se dicte.
+El IMIPAS contará con un Comité Asesor Técnico y Científico, que se integrará por el Titular del Instituto, quien lo presidirá, un Coordinador General y por representantes de la Red Nacional de Información e Investigación en Pesca y Acuacultura. El Comité asesor técnico científico se integrará, organizará y funcionará en los términos que señale el reglamento que para tal efecto se dicte.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 31.
 
-El INAPESCA promoverá y coordinará la integración de la Red Nacional de Información e Investigación en Pesca y Acuacultura, con el objeto de vincular y fortalecer la investigación científica y el desarrollo tecnológico, así como desarrollo, innovación y transferencia tecnológica para el manejo y administración de los recursos pesqueros y el desarrollo ordenado de la acuacultura.
+El IMIPAS promoverá y coordinará la integración de la Red Nacional e Información e Investigación en Pesca y Acuacultura, con el objeto de vincular y fortalecer la investigación científica y el desarrollo tecnológico, así como desarrollo, innovación y transferencia tecnológica para el manejo y administración de los recursos pesqueros y el desarrollo ordenado de la acuacultura.
 
 La Red Nacional de Información e Investigación en Pesca y Acuacultura estará integrada por los centros de investigación, universidades, escuelas o cualquier institución académica con reconocimiento en el ámbito de las ciencias marinas, pesqueras y de acuacultura, que sea aceptado para su incorporación a la Red.
 
-El INAPESCA evaluará los resultados de las investigaciones realizadas por las instituciones integrantes de la Red y, en su caso, les otorgará la validez para que puedan ser tomadas en cuenta por las unidades administrativas de la Secretaría, para establecer las medidas de regulación, manejo y conservación de los recursos pesqueros y acuícolas.
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
+
+El IMIPAS evaluará los resultados de las investigaciones realizadas por las instituciones integrantes de la Red y, en su caso, les otorgará la validez para que puedan ser tomadas en cuenta por las unidades administrativas de la Secretaría, para establecer las medidas de regulación, manejo y conservación de los recursos pesqueros y acuícolas.
 
 ### CAPÍTULO II. DE LA CARTA NACIONAL PESQUERA
 
@@ -808,9 +820,9 @@ El INAPESCA evaluará los resultados de las investigaciones realizadas por las i
 
 La Carta Nacional Pesquera es la presentación cartográfica y escrita que contiene el resumen de la información necesaria del diagnóstico y evaluación integral de la actividad pesquera y acuícola, así como de los indicadores sobre la disponibilidad y conservación de los recursos pesqueros y acuícolas, en aguas de jurisdicción federal. Su contenido tendrá carácter informativo para los sectores productivos y será vinculante en la toma de decisiones de la autoridad pesquera en la adopción e implementación de instrumentos y medidas para el control del esfuerzo pesquero, en la resolución de solicitudes de concesiones y permisos para la realización de actividades pesqueras y acuícolas, y en la implementación y ejecución de acciones y medidas relacionadas con dichos actos administrativos.
 
-> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
 
-La elaboración y actualización de la Carta Nacional Pesquera estará a cargo de la INAPESCA, con la participación que le corresponda a las demás unidades administrativas de la Secretaría y las contribuciones del sector académico y productivo, que deberán hacerse del conocimiento del Comité Asesor Técnico Científico del INAPESCA y deberá publicarse en el Diario Oficial de la Federación cada dos años y podrán publicarse actualizaciones de las fichas individuales, sin que el total de la Carta pierda su validez.
+La elaboración y actualización de la Carta Nacional Pesquera estará a cargo del IMIPAS, con la participación que le corresponda a las demás unidades administrativas de la Secretaría y las contribuciones del sector académico y productivo, que deberán hacerse del conocimiento del Comité Asesor Técnico Científico del IMIPAS y deberá publicarse en el Diario Oficial de la Federación cada dos años y podrán publicarse actualizaciones de las fichas individuales, sin que el total de la Carta pierda su validez.
 
 ###### ARTÍCULO 33.
 
@@ -826,11 +838,13 @@ IV. Las normas aplicables en materia de preservación, protección, aprovechamie
 
 V. La demás información que se determine en el Reglamento de la presente Ley.
 
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 34.
 
-La SEMARNAT participará en la revisión del proyecto de Carta Nacional Pesquera y sus actualizaciones. Para tales efectos, contará con un plazo de cuarenta y cinco días contados a partir de que reciba el proyecto, enviado por el INAPESCA, pudiendo solicitar información adicional si así lo requiere y emitir, en su caso, las observaciones y recomendaciones que considere pertinentes, debidamente motivadas y fundamentadas, las cuales serán tomadas en cuenta por el INAPESCA en la formulación del documento definitivo.
+La SEMARNAT participará en la revisión del proyecto de Carta Nacional Pesquera y sus actualizaciones. Para tales efectos, contará con un plazo de cuarenta y cinco días contados a partir de que reciba el proyecto, enviado por el IMIPAS, pudiendo solicitar información adicional si así lo requiere y emitir, en su caso, las observaciones y recomendaciones que considere pertinentes, debidamente motivadas y fundamentadas, las cuales serán tomadas en cuenta por el IMIPAS en la formulación del documento definitivo.
 
-Si en el plazo señalado la SEMARNAT no realiza observaciones o recomendaciones al proyecto de Carta Nacional Pesquera o a sus actualizaciones, se entenderá que no existe objeción de su parte al contenido de dicho proyecto y el INAPESCA lo turnará a la Secretaría para su expedición.
+Si en el plazo señalado la SEMARNAT no realiza observaciones o recomendaciones al proyecto de Carta Nacional Pesquera o a sus actualizaciones, se entenderá que no existe objeción de su parte al contenido de dicho proyecto y el IMIPAS lo turnará a la Secretaría para su expedición.
 
 ###### ARTÍCULO 35.
 
@@ -1014,9 +1028,13 @@ VII. Los demás lineamientos que se establezcan en el Reglamento de la presente 
 
 Las concesiones a que se refiere esta Ley podrán tener una duración de cinco hasta veinte años para la pesca comercial, y de cincuenta para la acuacultura comercial. Con base en los planes de manejo pesqueros y de acuacultura sancionados y publicados, las concesiones podrán ser prorrogadas hasta por los plazos equivalentes a los concedidos originalmente.
 
-Para la pesca comercial el concesionario deberá entregar un informe al INAPESCA cada dos años, y con base en el dictamen emitido por el Instituto se podrá prorrogar la concesión.
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
 
-Para la acuacultura comercial el concesionario deberá entregar un informe al INAPESCA cada cinco años, y con base en el dictamen emitido por el Instituto se podrá prorrogar la concesión.
+Para la pesca comercial el concesionario deberá entregar un informe al IMIPAS cada dos años, y con base en el dictamen emitido por el Instituto se podrá prorrogar la concesión.
+
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
+
+Para la acuacultura comercial el concesionario deberá entregar un informe al IMIPAS cada cinco años, y con base en el dictamen emitido por el Instituto se podrá prorrogar la concesión.
 
 ###### ARTÍCULO 50.
 
@@ -1028,7 +1046,9 @@ Los permisos de pesca comercial tendrán una duración de dos hasta cinco años,
 
 Los permisos a que se refieren las fracciones V a la XV del artículo 41 de esta Ley, tendrán la duración que determine su reglamento, de acuerdo a las características y naturaleza de la actividad, y en su caso, se sujetarán a los planes de manejo.
 
-Podrán ser prorrogados si la evaluación realizada por el INAPESCA resulta positiva en cuanto al manejo de la pesquería, acorde con las condiciones que se establezcan en el reglamento de la presente Ley y no podrán ser transferidos a terceros.
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
+
+Podrán ser prorrogados si la evaluación realizada por el IMIPAS resulta positiva en cuanto al manejo de la pesquería, acorde con las condiciones que se establezcan en el reglamento de la presente Ley y no podrán ser transferidos a terceros.
 
 En caso de fallecimiento del permisionario, la Secretaría dará preferencia para la sustitución, a los designados por el derecho sucesorio aplicable al caso, de conformidad con las disposiciones legales aplicables.
 
@@ -1106,7 +1126,9 @@ Las concesiones para la pesca y acuacultura comerciales, podrán rescatarse por 
 
 I. La pesquería tenga el estatus de sobreexplotación, y
 
-II. El particular no garantice el mantenimiento de la misma en un plazo basado en un dictamen emitido por el INAPESCA.
+> <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
+
+II. El particular no garantice el mantenimiento de la misma en un plazo basado en un dictamen emitido por el IMIPAS.
 
 Los titulares de los permisos o concesiones que hubiesen sido rescatados tendrán prelación para el acceso a otras pesquerías.
 
@@ -1126,7 +1148,9 @@ El establecimiento y operación de artes de pesca fijas o cimentadas en aguas de
 
 La Secretaría, de conformidad con el interés nacional y de acuerdo con los Tratados y Acuerdos Internacionales de los que México sea parte, determinará y en su caso, declarará si existen excedentes por especie; en tal circunstancia permitirá, con carácter de excepción, que embarcaciones extranjeras participen de dichos excedentes, en la zona económica exclusiva y mediante el cumplimiento de los requisitos y condiciones que para cada caso establezca la propia dependencia. En todo caso, se estará siempre a la más rigurosa reciprocidad.
 
-La declaración de excedentes a que se refiere el párrafo anterior, se establecerá exclusivamente mediante Acuerdo del Titular de la Secretaría, basado en un dictamen elaborado por el INAPESCA y con la opinión del Consejo Nacional de Pesca y Acuacultura, el cual se publicará en el Diario Oficial de la Federación. Los permisos respectivos los expedirá la Secretaría, serán intransferibles y se sujetarán a la suscripción de convenios con los Estados que lo soliciten y, en el caso de personas físicas y morales de nacionalidad extranjera, previa solicitud y cumplimiento de los requisitos establecidos en el reglamento de esta Ley.
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
+
+La declaración de excedentes a que se refiere el párrafo anterior, se establecerá exclusivamente mediante Acuerdo del Titular de la Secretaría, basado en un dictamen elaborado por el IMIPAS y con la opinión del Consejo Nacional de Pesca y Acuacultura, el cual se publicará en el Diario Oficial de la Federación. Los permisos respectivos los expedirá la Secretaría, serán intransferibles y se sujetarán a la suscripción de convenios con los Estados que lo soliciten y, en el caso de personas físicas y morales de nacionalidad extranjera, previa solicitud y cumplimiento de los requisitos establecidos en el reglamento de esta Ley.
 
 Los permisos se expedirán por embarcación, por temporada de pesca o por el tiempo que determine la Secretaría, que consignará en cada uno de ellos la vigencia, zona de captura, artes y equipos de pesca, recurso o recursos pesqueros permitidos y las condiciones de operación.
 
@@ -1146,9 +1170,9 @@ Los titulares de los permisos para pescar en altamar o en aguas de jurisdicción
 
 La Secretaría podrá otorgar permisos para realizar pesca de fomento a las personas que acrediten capacidad técnica y científica para tal fin, en los términos de la presente Ley, de su reglamento y de las normas oficiales que al efecto se expidan.
 
-> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
 
-La Secretaría deberá coordinarse con el INAPESCA para que éste emita las opiniones de carácter técnico y científicas para permitir la pesca de fomento, en el caso de científicos, técnicos e instituciones de investigación extranjeros, para lo cual hará del conocimiento de las Secretarías de Relaciones Exteriores y de Marina, las peticiones que reciba de extranjeros o de organismos internacionales, sin perjuicio de los demás requisitos que deban cumplirse en términos de la legislación aplicable.
+La Secretaría deberá coordinarse con el IMIPAS para que éste emita las opiniones de carácter técnico y científicas para permitir la pesca de fomento, en el caso de científicos, técnicos e instituciones de investigación extranjeros, para lo cual hará del conocimiento de las Secretarías de Relaciones Exteriores y de Marina, las peticiones que reciba de extranjeros o de organismos internacionales, sin perjuicio de los demás requisitos que deban cumplirse en términos de la legislación aplicable.
 
 ###### ARTÍCULO 65.
 
@@ -1178,9 +1202,11 @@ No podrán realizarse actividades de pesca distintas a las de investigación, so
 
 Las personas que practiquen la pesca deportivo-recreativa desde tierra no requerirán permiso, y estarán obligados a utilizar las artes de pesca y respetar las tallas mínimas y límites de captura que autorice la Secretaría conforme a las disposiciones que para tal efecto se emitan.
 
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 70.
 
-La Secretaría, con base en el dictamen emitido por el INAPESCA y acorde a los planes de manejo pesquero sancionados, establecerá las épocas, zonas y tallas mínimas de pesca, el número máximo de ejemplares susceptibles de captura por pescador deportivo y por día, así como las características particulares de las artes y métodos de pesca permitidos, en las disposiciones reglamentarias que deriven de esta Ley. Lo anterior considerando, entre otros aspectos, las condiciones del recurso de que se trate y las características del lugar donde se pretenda desarrollar dicha actividad.
+La Secretaría, con base en el dictamen emitido por el IMIPAS y acorde a los planes de manejo pesquero sancionados, establecerá las épocas, zonas y tallas mínimas de pesca, el número máximo de ejemplares susceptibles de captura por pescador deportivo y por día, así como las características particulares de las artes y métodos de pesca permitidos, en las disposiciones reglamentarias que deriven de esta Ley. Lo anterior considerando, entre otros aspectos, las condiciones del recurso de que se trate y las características del lugar donde se pretenda desarrollar dicha actividad.
 
 ###### ARTÍCULO 71.
 
@@ -1436,9 +1462,11 @@ Las personas físicas o morales que desarrollen programas de enseñanza en mater
 
 Para la importación de semillas, ovas, alevines, larvas, postlarvas, cepas algales, reproductores o cualquier otro estadio de especies silvestres, cultivadas o de laboratorio, se deberá adjuntar a la solicitud el certificado de sanidad acuícola otorgado por el SENASICA. En el caso de organismos genéticamente modificados se sujetará a lo dispuesto en la Ley de Bioseguridad de Organismos Genéticamente Modificados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 96.
 
-Respecto de la introducción de especies vivas que no existan de forma natural en el cuerpo de agua de jurisdicción federal receptor, la Secretaría, considerando la opinión del INAPESCA, y de acuerdo a los resultados del periodo de cuarentena previo, resolverá sobre la procedencia de la misma, observando lo que dispongan las disposiciones reglamentarias que deriven de esta Ley.
+Respecto de la introducción de especies vivas que no existan de forma natural en el cuerpo de agua de jurisdicción federal receptor, la Secretaría, considerando la opinión del IMIPAS, y de acuerdo a los resultados del periodo de cuarentena previo, resolverá sobre la procedencia de la misma, observando lo que dispongan las disposiciones reglamentarias que deriven de esta Ley.
 
 Será requisito para obtener el permiso de introducción de especies vivas en cuerpos de agua de jurisdicción federal, que el solicitante cuente con el certificado de sanidad acuícola que otorgue el SENASICA, en los términos de esta Ley. El interesado podrá iniciar el trámite para obtener dicho permiso ante la Secretaría, pero no le será otorgado hasta que acredite en el expediente respectivo haber obtenido el certificado del SENASICA.
 
@@ -1454,7 +1482,9 @@ II. Concesionarios de la pesca comercial de la especie de que se trate, que cump
 
 Aquellas personas que recolecten organismos del medio natural y los acuacultores que se abastezcan de ellos, quedan obligados a realizar acciones de repoblación en los términos y condiciones que en cada caso determine la Secretaría en normas oficiales y en los propios permisos.
 
-Para otorgar los permisos para la recolección de especies en cualquier estadio, la Secretaría considerará el dictamen emitido por el INAPESCA, en el que se determinará el número de ejemplares, zonas y épocas para su recolección. No se otorgará permiso cuando se determine que se pone en riesgo la conservación de la especie de que se trate.
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
+
+Para otorgar los permisos para la recolección de especies en cualquier estadio, la Secretaría considerará el dictamen emitido por el IMIPAS, en el que se determinará el número de ejemplares, zonas y épocas para su recolección. No se otorgará permiso cuando se determine que se pone en riesgo la conservación de la especie de que se trate.
 
 Los permisionarios deberán presentar a la Secretaría el aviso de recolección correspondiente, con la información y requisitos que se establezcan en el reglamento.
 
@@ -1468,7 +1498,9 @@ Los permisos de acuacultura tendrán una vigencia de hasta cinco años de acuerd
 
 Podrán ser prorrogados en los casos y condiciones que se determinen en el propio reglamento, y serán intransferibles.
 
-Para la acuacultura comercial el titular deberá entregar un informe al INAPESCA a la mitad del plazo estipulado en el permiso, y con base en el dictamen emitido por el Instituto se podrá prorrogar la concesión.
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
+
+Para la acuacultura comercial el titular deberá entregar un informe al IMIPAS a la mitad del plazo estipulado en el permiso, y con base en el dictamen emitido por el Instituto se podrá prorrogar la concesión.
 
 ###### ARTÍCULO 101.
 
@@ -1810,7 +1842,9 @@ VI. Las escuelas pesqueras y los centros dedicados a la investigación o enseña
 
 La Secretaría expedirá el certificado de registro correspondiente.
 
-La organización y funcionamiento del Registro se determinarán en las disposiciones reglamentarias que deriven de esta Ley. El INAPESCA, el SENASICA y los gobiernos de las entidades federativas contribuirán a la integración, actualización y funcionamiento del Registro, en la forma y términos que establezcan las disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
+
+La organización y funcionamiento del Registro se determinarán en las disposiciones reglamentarias que deriven de esta Ley. El IMIPAS, el SENASICA y los gobiernos de las entidades federativas contribuirán a la integración, actualización y funcionamiento del Registro, en la forma y términos que establezcan las disposiciones aplicables.
 
 ###### ARTÍCULO 123.
 
@@ -1924,7 +1958,9 @@ XIII. Practicar la pesca en alta mar o en aguas de jurisdicción extranjera, con
 
 XIV. No acatar las condiciones y requisitos establecidos en las autorizaciones otorgadas por gobiernos extranjeros al gobierno mexicano, para la captura de especies;
 
-XV. Hacer uso indebido de la información técnica o científica de la Secretaría o del INAPESCA;
+> <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
+
+XV. Hacer uso indebido de la información técnica o científica de la Secretaría o del IMIPAS;
 
 XVI. Transportar o utilizar en embarcaciones destinadas a la pesca, instrumentos explosivos, sustancias contaminantes;
 
@@ -2136,7 +2172,9 @@ Por lo que se refiere a los demás trámites relativos a la tramitación, sustan
 
 Se instituye el Premio a la Pesca y Acuacultura Sustentables, con objeto de reconocer y premiar anualmente a personas físicas y morales que se dediquen a estas actividades conforme a lo establecido en la presente Ley, y cuyo esfuerzo destaque en la realización de acciones trascendentes, de innovación, impacto, mejora o buenas prácticas desarrolladas en la pesca o acuacultura sustentables, incluyendo el ordenamiento, conservación, protección, aprovechamiento y restauración de la diversidad de los ecosistemas acuáticos pesqueros y acuícolas, así como la generación e intercambio de conocimiento y comercialización de productos sustentables.
 
-La Secretaría, por conducto de la Comisión Nacional de Acuacultura y Pesca, organizará el premio, en coordinación y colaboración con el Instituto Nacional de Pesca y Acuacultura, con las comisiones en esta materia de ambas Cámaras del H. Congreso de la Unión, así como con las demás instancias públicas y privadas que estime pertinente.
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
+
+La Secretaría, por conducto de la Comisión Nacional de Acuacultura y Pesca, organizará el premio, en coordinación y colaboración con el Instituto Mexicano de Investigación en Pesca y Acuacultura Sustentables, con las comisiones en esta materia de ambas Cámaras del H. Congreso de la Unión, así como con las demás instancias públicas y privadas que estime pertinente.
 
 > <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2018)</small>
 
@@ -2291,3 +2329,11 @@ D.O.F. 19 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 138 DE LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las menciones contenidas en otras leyes, reglamentos y, en general en cualquier disposición respecto al Instituto Nacional de Pesca y Acuacultura, cuyo nombre se modifica por virtud de este Decreto, se entenderán referidas al Instituto Mexicano de Investigación en Pesca y Acuacultura Sustentables.
