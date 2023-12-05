@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-de-puebla-162309"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-01-06"
-last_updated: "2023-06-19"
+last_updated: "2023-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=162309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número 5 del Periódico Oficial del Estado de Puebla, el viernes 6 de enero de 2023.
 
@@ -1379,7 +1379,9 @@ IX. Nombrar a las Juezas y los Jueces de primera instancia, los municipales y lo
 
 X. Expedir y reformar los reglamentos interiores en materia administrativa, de carrera judicial, de escalafón y régimen disciplinario del Poder Judicial del Estado, y todos aquellos acuerdos generales que fueren necesarios para el adecuado ejercicio de sus atribuciones en términos del artículo 88 de la Constitución;
 
-XI. (DEROGADA, P.O. 19 DE JUNIO DE 2023)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+XI. Dictar las medidas necesarias que permitan la coordinación con los órganos jurisdiccionales a fin de concentrar la información que se genere respecto del incumplimiento de las obligaciones alimentarias, y así llevar las acciones necesarias para suministrar, intercambiar, sistematizar, consultar, analizar y actualizar el Registro Nacional de Obligaciones Alimentarias;
 
 XII. Determinar el número y, en su caso, especialización por materia de los Tribunales;
 
@@ -2344,3 +2346,13 @@ TERCERO. Atendiendo a las necesidades del Poder Judicial del Estado, el Consejo 
 CUARTO. El Consejo de la Judicatura deberá prever de acuerdo a la suficiencia presupuestaria y a la planeación respectiva, los recursos y medios necesarios para instrumentar las plataformas digitales de los Órganos Jurisdiccionales correspondientes, conforme lo dispuesto en el presente Decreto.
 
 La implementación del Sistema de Justicia en Línea y Boletín Jurisdiccional, estarán sujetos a la disposición presupuestal.
+
+P.O. 5 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA, Y DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA, EN MATERIA DE DERECHOS ALIMENTARIOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Poder Judicial del Estado emitirá las disposiciones normativas de conformidad con el Decreto por el que se reforman y adicionan diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de pensiones alimenticias, publicado en el Diario Oficial de la Federación el ocho de mayo de dos mil veintitrés.
