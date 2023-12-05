@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-vialidad-para-el-estado-libre-y-soberano-de-puebla-91334
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2022-10-21"
+last_updated: "2023-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 5 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2023 (ABROGADA).
 
 Ley publicada en la Décima Séptima Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -1016,3 +1018,35 @@ P.O. 21 DE OCTUBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE APRUEBA LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE PUEBLA".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Vialidad para el Estado Libre y Soberano de Puebla, publicada en el Periódico Oficial del Estado el treinta y uno de diciembre de dos mil doce, así como las disposiciones contenidas en otros ordenamientos legales que contravengan el presente ordenamiento.
+
+TERCERO. Los Ayuntamientos, en un plazo no mayor a ciento ochenta días, contados a partir de la entrada en vigor de la presente Ley, deberán realizar las adecuaciones necesarias a la normatividad y demás ordenamientos en el ámbito de su competencia, a fin de garantizar el cumplimiento de la presente Ley.
+
+CUARTO. La persona Titular del Poder Ejecutivo del Estado expedirá los Reglamentos de la presente Ley en materia de movilidad y de seguridad vial.
+
+Tratándose del Reglamento en materia de seguridad vial, hasta en tanto no se expida el Reglamento de Ley correspondiente, se seguirá aplicando el Reglamento de la Ley de Vialidad para el Estado Libre y Soberano de Puebla publicado el diecisiete de julio de dos mil trece, en lo que no se oponga a la presente Ley.
+
+QUINTO. La Secretaría de Movilidad y Transporte, y de Seguridad Pública propondrán a la persona Titular del Poder Ejecutivo del Estado el proyecto de las disposiciones normativas necesarias para la integración, funcionamiento y operación del Sistema Estatal de Movilidad y Seguridad Vial en un plazo no mayor a trescientos sesenta y cinco días contados a partir de la entrada en vigor de la presente Ley.
+
+SEXTO. El Sistema Estatal de Movilidad y Seguridad Vial, deberá instalarse dentro de los trescientos sesenta y cinco días siguientes a la publicación de la presente Ley. En la sesión siguiente a la de su instalación, sus integrantes deberán aprobar su Reglamento Interno, el cual será elaborado por la Secretaría Ejecutiva.
+
+SÉPTIMO. La Secretaría de Movilidad y Transporte creará el Observatorio Estatal de Movilidad y Seguridad Vial a que alude el artículo 65 de la presente Ley, en un plazo no mayor a trescientos sesenta y cinco días contados a partir de la entrada en vigor de la misma.
+
+OCTAVO. Las Secretarías de Movilidad y Transporte, y de Seguridad Pública elaborarán el Proyecto del Programa Estatal de Movilidad, Transporte y Seguridad Vial, dispuesto en la fracción V del artículo 45 de la presente Ley, en un plazo no mayor a trescientos sesenta y cinco días a partir de su entrada en vigor.
+
+NOVENO. La Secretaría de Movilidad y Transporte y la Secretaría de Seguridad Pública publicarán los lineamientos, manuales y normas técnicas a que se refiere esta Ley en un plazo que no excederá los trescientos sesenta y cinco días a partir de la entrada en vigor de la presente Ley.
+
+DÉCIMO. El Sistema Estatal de Movilidad y Seguridad Vial deberá, en el ámbito de su competencia, emitir los Lineamientos de Calles del Estado, en un término que no excederá los trecientos (sic) sesenta y cinco días a partir de su integración formal. En tanto no sea publicado, será vigente “el Acuerdo conjunto del secretarío de Infraestructura, la Secretaría de Movilidad y Transporte y el Encargado de Despacho de la Secretaría de Seguridad Pública, todos del Gobierno del Estado, por el que dan a conocer las vías de Jurisdicción Estatal”.
+
+DÉCIMO PRIMERO. La Secretaría de Movilidad y Trasporte (sic), deberá crear e integrar el Fondo de mitigación y compensación que refiere el artículo 117 de esta Ley, en un término no mayor a ciento ochenta días a partir de la entrada en vigor de la presente Ley.
+
+DÉCIMO SEGUNDO. La Secretaría de Movilidad y Transporte, en cumplimiento a las medidas de racionalidad y eficiencia para el ejercicio del gasto, realizará las adecuaciones legales y administrativas para la aplicación del presente Decreto y estará sujeto a la suficiencia presupuestaria del ejercicio fiscal que corresponda.
+
+DÉCIMO TERCERO. El Gobierno del Estado y los Ayuntamientos, deberán considerar de manera paulatina y progresiva en sus programas presupuestarios a partir del Ejercicio Fiscal 2025 y subsecuentes, las acciones y actividades que en el ámbito de sus respectivas competencias resulten necesarias para dar cumplimiento a lo dispuesto en la presente Ley.
