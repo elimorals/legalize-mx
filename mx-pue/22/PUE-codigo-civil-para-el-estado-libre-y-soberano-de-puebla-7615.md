@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2023-07-27"
+last_updated: "2023-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2023.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el día 30 de abril de 1985.
 
@@ -1867,6 +1867,12 @@ De estos impedimentos, sólo es dispensable el parentesco por consanguinidad en 
 
 No pueden contraer matrimonio las personas, antes de cumplir dieciocho años de edad.
 
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 300 Bis.
+
+En las solicitudes de matrimonio, el o la juez del Registro Civil hará del conocimiento si alguno de los contrayentes se encuentra inscrito en el Registro Nacional de Obligaciones Alimentarias, mencionando la situación que guardan respecto de las obligaciones que tiene.
+
 ###### Artículo 301.
 
 (DEROGADO, P.O. 28 DE MARZO DE 2016)
@@ -3355,11 +3361,13 @@ La forma y periodicidad como deberá incrementarse la pensión alimenticia que s
 
 En materia de alimentos, las resoluciones judiciales, provisionales o no, pueden modificarse por el Juez cualquiera que sea el juicio o procedimiento en que se hayan dictado, si cambiaren las posibilidades del deudor o las necesidades del acreedor.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 518.
 
-Los patrones, administradores, gerentes de empresas, directores, jefes de oficinas y quienes por razón de su cargo, público o privado, puedan conocer la capacidad económica de los deudores alimentistas, están obligados a suministrar exactamente los informes que se les pida, bajo pena de multa que se impondrá a éstos por el Juez, cuyo importe será del equivalente a la cantidad de veinte a cien veces el valor diario de la Unidad de Medida y Actualización, que se duplicará en caso de reincidencia.
+Los patrones, administradores, gerentes de empresas, directores, jefes de oficinas y quienes por razón de su cargo, público o privado, puedan conocer la capacidad económica de la persona deudora alimentaria están obligados a suministrar exactamente los informes que se les pida, bajo pena de multa que se impondrá a éstos por el o la Juez, cuyo importe será del equivalente a la cantidad de veinte a cien veces el valor diario de la Unidad de Medida y Actualización, que se duplicará en caso de reincidencia.
+
+La persona deudora alimentaria deberá informar, en un máximo de quince días hábiles a la persona acreedora alimentaria, a el o la Juez, o la autoridad responsable competente cualquier cambio en su empleo, la ubicación de ésta y el puesto o cargo que desempeñará, a partir de que ocurra, a efecto de que se actualice la pensión alimenticia decretada.
 
 ###### Artículo 519.
 
@@ -3729,25 +3737,49 @@ Pueden ser adoptados los menores expósitos y los que legalmente sean declarados
 
 Cuando los menores tengan más de 6 años deben ser informados ampliamente y obtener su consentimiento.
 
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 579 Bis.
 
-Para que se autorice la adopción, él o los que pretendan adoptar deberán reunir las condiciones que se establecen en este Capítulo y además acreditar plenamente, los siguientes requisitos:
+Para que se autorice la adopción la, el o los que pretendan adoptar deberán reunir las condiciones que se establecen en este Capítulo y además acreditar plenamente, los siguientes requisitos:
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2011)</small>
 
 I.- Que el adoptante o adoptantes tengan medios suficientes para proveer a la subsistencia y educación del adoptado;
 
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2011)</small>
+
 II.- Que el adoptante o adoptantes no tengan antecedentes penales por la comisión de un delito doloso;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2011)</small>
 
 III.- Que la adopción sea benéfica para la persona que se pretenda adoptar;
 
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2011)</small>
+
 IV.- Que el adoptante o adoptantes, sean idóneos para adoptar;
 
-V.- Que el adoptante o adoptantes acrediten que su estado de salud les permitirá cumplir cabalmente con sus responsabilidades de padre o de madre; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-VI.- Las demás que establezcan las Leyes Federales y en su caso, los Tratados Internacionales de los cuales el Estado Mexicano forme parte, en materia de Derechos Humanos, Derechos del Niño y de Adopción.
+V.- Que la, el adoptante o adoptantes acrediten que su estado de salud les permitirá cumplir cabalmente con sus responsabilidades de padre o de madre; y
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+V Bis.- Que ninguno de la, el o los adoptantes se encuentren inscritos en el Registro Nacional de Obligaciones Alimentarias a que se refiere la Ley General de los Derechos de Niñas, Niños y Adolescentes; y
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+VI.- Las demás que establezcan las Leyes Federales y en su caso, los Tratados Internacionales de los cuales el Estado Mexicano forme parte, en materia de Derechos Humanos, Derechos de las Niñas, Niños y Adolescentes.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 Los requisitos que se establecen en las fracciones I, III, IV, V y VI quedarán plenamente acreditados con el dictamen técnico o certificado de idoneidad que emita el Consejo Técnico de Adopciones, dependiente del Sistema para el Desarrollo Integral de la Familia del Estado, con base en los estudios técnicos de quienes pretendan adoptar.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+El requisito a que se refiere la fracción V Bis, quedará plenamente acreditado con el certificado de no Inscripción en el Registro Nacional de Obligaciones Alimentarias a que hace referencia la Ley General de los Derechos de las Niñas, Niños y Adolescentes.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 En todos los casos, se atenderá al interés superior del menor o incapaz, se considerará su origen étnico, cultural y lingüístico y se procurará dar continuidad en su educación.
 
@@ -5927,9 +5959,13 @@ Los Jueces del Registro del Estado Civil no autorizarán un matrimonio, cuando p
 
 En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes, ante el Juez del Registro del Estado Civil, los pretendientes o sus apoderados y dos testigos.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 905.
 
-El Juez previamente leerá a los pretendientes los artículos 337, 338, 339 y 376; y en caso necesario, les explicará lo que disponen dichos artículos.
+El o la Juez previamente leerá a los pretendientes los artículos, 300 Bis, 337, 338, 339 y 376; y en caso necesario, les explicará lo que disponen dichos artículos.
+
+La o el Juez del Registro Civil hará del conocimiento de las y los pretendientes, si alguno se encuentra inscrito o inscrita en el Registro Nacional de Obligaciones Alimentarias y la situación que guardan respecto de las obligaciones que tiene.
 
 ###### Artículo 906.
 
@@ -20798,3 +20834,13 @@ P.O. 27 DE JULIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA, Y DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA, EN MATERIA DE DERECHOS ALIMENTARIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Poder Judicial del Estado emitirá las disposiciones normativas de conformidad con el Decreto por el que se reforman y adicionan diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de pensiones alimenticias, publicado en el Diario Oficial de la Federación el ocho de mayo de dos mil veintitrés.
