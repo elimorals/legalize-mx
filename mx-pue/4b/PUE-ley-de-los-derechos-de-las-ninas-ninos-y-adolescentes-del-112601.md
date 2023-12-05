@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2023-11-29"
+last_updated: "2023-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -1439,7 +1439,29 @@ Son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custod
 
 I. Garantizar sus derechos alimentarios, el libre desarrollo de su personalidad y el ejercicio de sus derechos, de conformidad con lo dispuesto en la Ley General, en la presente Ley y demás disposiciones aplicables.
 
-Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica y recreación. Los procedimientos y la orientación jurídica necesaria, así como las medidas de apoyo para asegurar el cumplimiento del deber de garantizar los derechos alimentarios, se realizarán de conformidad con la legislación civil y demás disposiciones aplicables;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de sustento y supervivencia y, en la especie:
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+a) La alimentación y nutrición, vestido, habitación, recreación, atención médica y psicológica preventiva integral a la salud, asistencia médico-hospitalaria y, en su caso, los gastos de embarazo y parto;
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+b) Los gastos derivados de la educación y la formación para proporcionar a las niñas, niños y adolescentes un oficio, arte o profesión, adecuado a sus circunstancias personales; y
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+c) Con relación a las niñas, niños y adolescentes en situación de vulnerabilidad, lo necesario para lograr, en la medida de lo posible, su habilitación o rehabilitación, así como su desarrollo.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+A fin de dar efectiva protección y restitución de los derechos de niñas, niños y adolescentes, las autoridades competentes en el Estado, tendrán acceso al Registro Nacional de Obligaciones Alimentarias, a que hace referencia la Ley General de Derechos de Niñas, Niños y Adolescentes, encargado de difundir la calidad de persona deudora alimentaria.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+El Tribunal Superior de Justicia en el Estado de Puebla, en el ámbito de su competencia, conforme a lo que establece la Ley General de los Derechos de Niñas, Niños y Adolescentes y las disposiciones administrativas que de ella se desprenden, es el encargado de suministrar, intercambiar, sistematizar, consultar, analizar, y actualizar la información que se genere sobre el incumplimiento de las obligaciones alimentarias.
 
 II. Registrarlos dentro de los primeros sesenta días de vida;
 
@@ -1809,7 +1831,13 @@ XIII. Supervisar el debido funcionamiento de los Centros de Asistencia Social, y
 
 XIV. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial;
 
-XV. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos, y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+XV. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+XV Bis. Tener acceso a las bases de datos del Registro Nacional de Obligaciones Alimentarias, conforme lo determine la Ley General de los Derechos de Niñas, Niños y Adolescentes y las disposiciones administrativas que de ella se desprenden, y
 
 XVI. Las demás que les confieran otras disposiciones aplicables.
 
@@ -2466,3 +2494,13 @@ P.O. 29 DE NOVIEMBRE DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA, Y DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA, EN MATERIA DE DERECHOS ALIMENTARIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Poder Judicial del Estado emitirá las disposiciones normativas de conformidad con el Decreto por el que se reforman y adicionan diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de pensiones alimenticias, publicado en el Diario Oficial de la Federación el ocho de mayo de dos mil veintitrés.
