@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-142951"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-18"
-last_updated: "2023-10-26"
+last_updated: "2023-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Estado de Puebla, el lunes 18 de mayo de 2020.
 
@@ -59,13 +59,13 @@ La educación se considera un servicio público y estará sujeta a la rectoría 
 
 La distribución de la función social educativa, se funda en la obligación de cada orden de gobierno de participar en el proceso educativo y de aplicar los recursos económicos que se asignan a esta materia por las autoridades competentes para cumplir los fines y criterios de la educación.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 3.
 
-La educación es factor determinante para la adquisición de conocimientos, el desarrollo armónico de todas sus capacidades y para formar mujeres y hombres que tengan sentido de solidaridad social.
+La educación es factor determinante para la adquisición de conocimientos, el desarrollo armónico de todas sus capacidades y para formar mujeres y hombres que tengan sentido de solidaridad social y pertinencia cultural y lingüística.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
-
-La autoridad educativa estatal fomentará la participación activa de las y los educandos, madres y padres de familia, tutoras o tutores, maestras y maestros, así como de las y los distintos actores involucrados en el proceso educativo y, en general, de todo el Sistema Educativo Estatal, para asegurar que éste extienda sus beneficios a todos los sectores sociales y regiones del Estado de Puebla, a fin de contribuir al desarrollo sostenible.
+La autoridad educativa estatal fomentará la participación de las y los educandos, madres y padres de familia, tutoras o tutores, maestras y maestros, así como de las y los distintos actores involucrados en el proceso educativo y, en general, de todo el Sistema Educativo Estatal, para asegurar que éste extienda sus beneficios a todos los sectores sociales y regiones del Estado de Puebla, a fin de contribuir al desarrollo sostenible, cultural y lingüístico.
 
 ###### ARTÍCULO 4.
 
@@ -83,9 +83,11 @@ IV. Autoridades escolares: el personal que lleva a cabo funciones de dirección 
 
 V. Estado: la Federación, el Estado de Puebla y sus municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 5.
 
-Las Autoridades Educativas Estatal y Municipales, en el ámbito de su competencia, podrán establecer coordinación interestatal e intermunicipal para el desarrollo de proyectos regionales educativos que contribuyan a los principios y fines establecidos en esta Ley.
+Las Autoridades Educativas Estatal y Municipales, en el ámbito de su competencia, deberán establecer coordinación interestatal e intermunicipal para el desarrollo de proyectos regionales educativos con enfoque intercultural que contribuyan a los principios y fines establecidos en esta Ley.
 
 Para tal efecto, remitirán un informe al Congreso del Estado y al Cabildo Municipal que corresponda, respectivamente, sobre el inicio del proyecto regional a desarrollar, así como del avance y resultados del mismo a su conclusión.
 
@@ -97,7 +99,9 @@ I. El Derecho a la Educación como eje fundamental en el desarrollo del Estado d
 
 II. Toda persona, sin distinción alguna, tiene derecho a educarse y a educar, por ello la Autoridad Educativa Local debe apoyarse en las siguientes dimensiones de las "4 A" del Derecho a la Educación:
 
-a) Asequibilidad: La disponibilidad, que implica la presencia de escuelas de todos los niveles obligatorios en lugares adecuados y cerca de donde viven niños, niñas y jóvenes; con maestros suficientemente formados de acuerdo con la nueva escuela mexicana; con una organización que opere regularmente, y dotadas de infraestructura, mobiliario y equipo indispensables para el logro de los propósitos educativos, así como a uniformes y textos;
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+a) Asequibilidad: La disponibilidad, que implica la presencia de escuelas de todos los niveles obligatorios en lugares adecuados y cerca de donde viven niños, niñas y jóvenes; con maestros suficientemente formados de acuerdo con la nueva escuela mexicana y con pertinencia cultural y lingüística; con una organización que opere regularmente, y dotadas de infraestructura, recursos humanos suficientes y contratados en tiempo y forma de acuerdo a la disponibilidad presupuestaría, mobiliario y equipo tecnológico indispensables para el logro de los propósitos educativos, así como a uniformes y materiales bibliográficos contextualizados;
 
 b) Accesibilidad: Acceso sin discriminación alguna, la cual sostiene que no debe haber barreras de ningún tipo para acceder a la educación. La exclusión educativa por razones de raza, origen, color, género, condición socioeconómica, discapacidad, lengua, religión y otras, es antónimo de la accesibilidad;
 
@@ -111,9 +115,13 @@ d) Adaptabilidad: Refiere a la capacidad de la escuela, del plantel educativo pa
 
 Toda persona tiene derecho a la educación, la cual es un medio para adquirir, actualizar, completar y ampliar sus conocimientos, capacidades, habilidades y aptitudes que le permitan alcanzar su desarrollo personal y profesional; y, como consecuencia de ello, contribuir a su bienestar, a la transformación y el mejoramiento de la sociedad de la que forma parte.
 
-Con el ejercicio de este derecho, inicia un proceso permanente centrado en el aprendizaje del educando, que contribuye a su desarrollo humano integral y a la transformación de la sociedad; es factor determinante para la adquisición de conocimientos significativos y la formación integral para la vida de las personas con un sentido de pertenencia social basado en el respeto de la diversidad, y es medio fundamental para la construcción de una sociedad equitativa y solidaria.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-La autoridad educativa estatal ofrecerá a las personas las mismas oportunidades de aprendizaje, así como de acceso, tránsito, permanencia, avance académico y, en su caso, egreso oportuno del Sistema Educativo Estatal, con sólo satisfacer los requisitos que establezcan las instituciones educativas con base en las disposiciones aplicables.
+Con el ejercicio de este derecho, inicia un proceso permanente centrado en el aprendizaje del educando, que contribuye a su desarrollo humano integral y a la transformación de la sociedad; es factor determinante para la adquisición de conocimientos significativos y la formación integral para la vida de las personas con un sentido de pertenencia social basado en el respeto de la diversidad, y es medio fundamental para la construcción de una sociedad equitativa y solidaria, sin menoscabar la cultura local y su cosmovisión.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+La autoridad educativa estatal ofrecerá a las personas las mismas oportunidades de aprendizaje, así como de acceso con un proceso de mejora constante, tránsito, permanencia, avance académico y, en su caso, egreso oportuno del Sistema Educativo Estatal, con sólo satisfacer los requisitos que establezcan las instituciones educativas con base en las disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2023)</small>
 
@@ -133,11 +141,13 @@ Además de impartir educación en los términos establecidos en la Constitución
 
 ### CAPÍTULO III. DE LA EDUCACIÓN EN EL ESTADO DE PUEBLA
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 9.
 
-La autoridad educativa estatal buscará la equidad, la excelencia y la mejora continua en la educación, para lo cual colocará al centro de la acción pública el máximo logro de aprendizaje de las niñas, niños, adolescentes y jóvenes.
+La autoridad educativa estatal buscará la equidad, igualdad en condiciones y oportunidades, la excelencia y la mejora continua en la educación, para lo cual colocará al centro de la acción pública el máximo logro de aprendizaje de las niñas, niños, adolescentes y jóvenes.
 
-Las acciones que desarrollen tendrán como objetivos el desarrollo humano integral del educando, reorientar el Sistema Educativo Estatal, incidir en la cultura educativa mediante la corresponsabilidad e impulsar transformaciones sociales dentro de la escuela y en la comunidad.
+Las acciones que desarrollen tendrán como objetivos el desarrollo humano integral del educando, reorientar el Sistema Educativo Estatal, incidir en la cultura educativa mediante la corresponsabilidad e impulsar transformaciones sociales e interculturales dentro de la escuela y en la comunidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
 
@@ -153,13 +163,13 @@ II. Propiciar un diálogo continuo entre las humanidades, las artes, la ciencia,
 
 III. Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad; contribuir al impulso y promoción del desarrollo sostenible; impulsar el desarrollo social, ambiental y económico, así como favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-IV. Combatir las causas de discriminación y violencia en las diferentes regiones del país, especialmente la que se ejerce contra la niñez y las mujeres;
+IV. Combatir las causas de discriminación y violencia en las diferentes regiones del país, especialmente la que se ejerce contra la niñez, las mujeres, personas pertenecientes a los pueblos y comunidades indígenas y migrantes;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-V. Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos; y
+V. Alentar la construcción de relaciones sociales, económicas e interculturales con base en el respeto de los derechos humanos; y
 
 > <small>(ADICIONADA, P.O. 16 DE MARZO DE 2023)</small>
 
@@ -179,9 +189,9 @@ II. La responsabilidad ciudadana, sustentada en valores como la honestidad, la j
 
 III. La participación activa en la transformación de la sociedad, al emplear el pensamiento crítico a partir del análisis, la reflexión, el diálogo, la conciencia histórica, el humanismo y la argumentación para el mejoramiento de los ámbitos social, cultural y político;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-IV. El respeto, preservación, cuidado y restauración del medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación con la naturaleza y con temas sociales, ambientales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación y promuevan estilos de vida orientados al desarrollo sostenible.
+IV. El respeto, preservación, cuidado y restauración del medio ambiente, con la constante orientación hacia la sostenibilidad, considerando las cosmovisiones de los pueblos y comunidades indígenas y afromexicanas con el fin de comprender y asimilar la interrelación con la naturaleza y con temas sociales, ambientales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación y promuevan estilos de vida orientados al desarrollo sostenible.
 
 > <small>(ADICIONADO [N. DE E. CON LOS INCISOS QUE LO INTEGRAN, P.O. 16 DE MARZO DE 2023)</small>
 
@@ -289,11 +299,13 @@ II. Promover el respeto irrestricto de la dignidad humana, como valor fundamenta
 
 III. Inculcar el enfoque de derechos humanos, de igualdad sustantiva y de inclusión, promover el conocimiento, respeto, disfrute y ejercicio de todos los derechos, con el mismo trato y oportunidades para las personas;
 
-IV. Fomentar el amor a la Patria, el aprecio por sus culturas, el conocimiento de su historia y el compromiso con los valores, símbolos patrios, las instituciones nacionales, estatales y municipales;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
+IV. Fomentar el amor a la Patria, el aprecio por sus culturas y sus lenguas originarias el conocimiento de su historia y el compromiso con los valores, símbolos patrios, las instituciones nacionales, estatales y municipales;
 
-V. Formar a las y los educandos en la cultura de la paz, el respeto, la tolerancia, los valores democráticos que favorezcan el diálogo constructivo, la solidaridad y la búsqueda de acuerdos que permitan la solución no violenta de conflictos y la convivencia en un marco de respeto a las diferencias, para lo cual promoverán la cultura de la paz, privilegiando la mediación, la conciliación y los procesos restaurativos, en los casos que proceda.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+V. Formar a las y los educandos en la cultura de la paz, el respeto, la tolerancia, la interculturalidad, los valores democráticos que favorezcan el diálogo constructivo, la solidaridad y la búsqueda de acuerdos que permitan la solución no violenta de conflictos y la convivencia en un marco de respeto a las diferencias étnicas y culturales, para lo cual promoverán la cultura de la paz, privilegiando la mediación, la conciliación y los procesos restaurativos, en los casos que proceda.
 
 VI. Propiciar actitudes solidarias en el ámbito internacional, en la independencia y en la justicia para fortalecer el ejercicio de los derechos de todas las personas, el cumplimiento de sus obligaciones y el respeto entre las naciones;
 
@@ -401,9 +413,17 @@ XI. Los planes y programas de estudio;
 
 XII. Los muebles e inmuebles, servicios o instalaciones destinados a la prestación del servicio público de educación en todos sus tipos, niveles y modalidades, adecuadas que cuenten con las características necesarias, para brindar una educación inclusiva de excelencia, a personas con discapacidad, en atención a la suficiencia presupuestaria;
 
-XIII. Los Consejos, Comités y demás órganos que se conformen de acuerdo con las disposiciones aplicables, y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-XIV. Todos los actores que participen en la prestación del servicio público de educación en el Estado de Puebla.
+XIII. Los Consejos, Comités y demás órganos que se conformen de acuerdo con las disposiciones aplicables,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+XIV. En el caso de los pueblos y comunidades indígenas y afromexicanas se considerará a las autoridades locales y tradicionales, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+XV. Todos los actores que participen en la prestación del servicio público de educación en el Estado de Puebla.
 
 La persona titular de la Secretaría, presidirá el Sistema Educativo Estatal; los lineamientos para su funcionamiento y operación se determinarán en las disposiciones reglamentarias correspondientes.
 
@@ -427,7 +447,9 @@ Además de lo anterior, se consideran parte del Sistema Educativo Estatal, la fo
 
 La educación especial buscará la equidad y la inclusión, la cual deberá estar disponible para todos los tipos, niveles, modalidades y opciones educativas establecidas en esta Ley.
 
-De acuerdo con las necesidades educativas específicas de la población, podrá impartirse educación comunitaria con programas o contenidos particulares para ofrecerle una oportuna atención.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+De acuerdo con las necesidades educativas reales y específicas de la población, con atención a la de los pueblos y comunidades indígenas y afromexicanas podrá impartirse educación comunitaria con programas o contenidos particulares para ofrecerle una oportuna atención a su cultura.
 
 ###### ARTÍCULO 21.
 
@@ -445,13 +467,17 @@ La educación básica está compuesta por los niveles inicial, preescolar, prima
 
 Los servicios que comprende este tipo de educación, entre otros, son:
 
-I. Inicial escolarizada y no escolarizada;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+I. Inicial escolarizada y no escolarizada e indígena;
 
 II. Preescolar general, indígena y comunitario;
 
 III. Primaria general, indígena y comunitaria;
 
-IV. Secundaria, entre las que se encuentran la general, técnica, comunitaria o las modalidades regionales autorizadas por la Secretaría;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+IV. Secundaria, entre las que se encuentran la general, técnica, indígena comunitaria o las modalidades regionales autorizadas por la Secretaría;
 
 V. Secundaria para trabajadores, y
 
@@ -495,13 +521,17 @@ V. Orientar la realización comprometida de acciones tendientes al cuidado y a l
 
 VI. Estimular el aspecto afectivo, sentido de responsabilidad, hábitos de cooperación, amor a su familia e identidad local y nacional, de acuerdo con los intereses propios de su edad, e
 
-VII. Iniciar al educando en el conocimiento del idioma inglés.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+VII. Iniciar al educando en el conocimiento del idioma inglés; en los contextos de las escuelas de educación indígena respetando el conocimiento de las lenguas originarias.
 
 #### SECCIÓN III. DE LA EDUCACIÓN PRIMARIA
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 27.
 
-La educación primaria, tiene carácter formativo y su objeto es fortalecer el desarrollo integral y armónico del educando, fortalecer su identidad individual y su integración plena a su familia, a la escuela y a la comunidad; fomentar hábitos tendientes a la conservación y mejoramiento de su salud personal, el desarrollo de habilidades físicas y la práctica del deporte; proporcionarle conocimientos básicos para la preservación de su entorno ecológico, y el ejercicio de sus derechos y deberes cívico- sociales. Asimismo, motivar en las y los educandos, el desarrollo del pensamiento crítico y científico y una actitud de aprendizaje permanente que lo prepare para el trabajo útil a sí mismo, a su familia, a su comunidad y al sistema social del que forma parte.
+La educación primaria, tiene carácter formativo y su objeto es fortalecer el desarrollo integral y armónico del educando, fortalecer su identidad individual y su integración plena a su familia, a la escuela y a la comunidad; fomentar hábitos tendientes a la conservación y mejoramiento de su salud personal, el desarrollo de habilidades físicas y la práctica del deporte; proporcionarle conocimientos básicos para la preservación de su entorno ecológico, y el ejercicio de sus derechos y deberes cívico- sociales y culturales, atendiendo a la cultura de los pueblos y comunidades indígenas y afromexicanas. Asimismo, motivar en las y los educandos, el desarrollo del pensamiento crítico y científico y una actitud de aprendizaje permanente que lo prepare para el trabajo útil a sí mismo, a su familia, a su comunidad y al sistema social del que forma parte.
 
 ###### ARTÍCULO 28.
 
@@ -525,7 +555,9 @@ VIII. Orientar en el educando la adquisición de una conciencia de participació
 
 IX. Fortalecer la práctica de los valores y el respeto a los símbolos patrios, y
 
-X. Desarrollar el conocimiento y dominio del idioma inglés.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+X. Desarrollar el conocimiento y dominio del idioma inglés; en los contextos de las escuelas de educación indígena respetando el conocimiento de las lenguas originarias.
 
 #### SECCIÓN IV. DE LA EDUCACIÓN SECUNDARIA
 
@@ -541,7 +573,9 @@ I. Será de carácter formativo y se ajustará a los intereses y aptitudes del e
 
 II. Ampliar los conocimientos adquiridos por los educandos y fortalecer sus hábitos y aptitudes, que le permitan continuar su mejoramiento personal y su desenvolvimiento en la comunidad, a fin de encaminarlos a la conservación y el mejoramiento de su salud física y mental, la práctica del deporte y en general, aquellas actividades que le permitan hacer uso de sus potencialidades;
 
-III. Proporcionar los elementos necesarios para el conocimiento en general de la geografía, la historia y la ecología, propiciando el ejercicio crítico y reflexivo para crear conciencia participativa y comprometida con su comunidad;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+III. Proporcionar los elementos necesarios para el conocimiento en general de la geografía, la historia y la ecología, propiciando el ejercicio crítico y reflexivo para crear conciencia participativa y comprometida con su comunidad, considerando la cultura de los pueblos y comunidades indígenas y afromexicanas;
 
 > <small>(REFORMADA, [N. DE E. CON SUS INCISOS] P.O. 16 DE MARZO DE 2023)</small>
 
@@ -561,7 +595,9 @@ VII. Encauzar el desarrollo y la aplicación de la ciencia y la tecnología para
 
 VIII. Fortalecer la conciencia histórica de identidad regional, estatal y nacional mediante el conocimiento y la práctica de la justicia, la democracia y la solidaridad, y
 
-IX. Lograr el dominio del idioma inglés.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+IX. Lograr el dominio del idioma inglés; en los contextos de las escuelas de educación indígena respetando el conocimiento de las lenguas originarias.
 
 ###### ARTÍCULO 31.
 
@@ -591,7 +627,9 @@ VI. Telebachillerato comunitario, y
 
 VII. Educación media superior a distancia y/o digital.
 
-Estos servicios se podrán impartir en las modalidades y opciones educativas señaladas en la presente Ley, como la educación dual con formación en escuela y empresa. La modalidad no escolarizada estará integrada, entre otros servicios, por la educación a distancia y/o digital, y aquellos que operen con base en la certificación por evaluaciones parciales.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+Estos servicios se podrán impartir en las modalidades y opciones educativas señaladas en la presente Ley, como la educación dual con formación en escuela y empresa. La modalidad no escolarizada estará integrada, entre otros servicios, por la educación a distancia y/o digital, y aquellos que operen con base en la certificación por evaluaciones parciales. La educación media superior, según sea el caso, promoverá la pertinencia cultural de los pueblos y comunidades indígenas.
 
 ###### ARTÍCULO 33.
 
@@ -605,7 +643,9 @@ III. Propiciar el desarrollo de una conciencia valorativa y crítica que permita
 
 IV. Formar actitudes y aptitudes que motiven, preparen y orienten para el autoaprendizaje;
 
-V. Fortalecer la identidad estatal y nacional a través del aprecio por la cultura, la historia, las costumbres y las tradiciones del Estado y del País;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+V. Fortalecer la identidad local, estatal y nacional a través del aprecio por la cultura, la historia, las costumbres, las tradiciones y lengua originarias de los pueblos y comunidades indígenas y afromexicanas del Estado y del País;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
 
@@ -625,7 +665,9 @@ VII. Proporcionar capacitación y adiestramiento que respondan a las necesidades
 
 VIII. Vincular al educando con el sector productivo de bienes y servicios, y
 
-IX. Perfeccionar el idioma inglés.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+IX. Perfeccionar el aprendizaje del idioma inglés; en los contextos de las escuelas de educación indígena se promoverá el conocimiento de las lenguas originarias.
 
 ###### ARTÍCULO 34.
 
@@ -663,9 +705,11 @@ La obligatoriedad de la educación superior corresponde al Estado, el cual la ga
 
 Las políticas que lleven a cabo las autoridades educativas del Estado de Puebla, se realizarán con base a lo establecido en la Ley General de Educación Superior.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 39.
 
-En el ámbito de su competencia, las autoridades educativas estatal y de los municipios concurrirán con la autoridad educativa federal para garantizar la gratuidad de la educación en este tipo educativo de manera gradual, comenzando con el nivel de licenciatura y, progresivamente, con los demás niveles de este tipo educativo, en los términos que establezca la ley de la materia, priorizando la inclusión de los pueblos indígenas y los grupos sociales más desfavorecidos para proporcionar la prestación de este servicio educativo en todo el territorio nacional. En todo momento se respetará el carácter de las instituciones a las que la ley otorga autonomía.
+En el ámbito de su competencia, las autoridades educativas estatal y de los municipios (sic) con la autoridad educativa federal para garantizar la gratuidad de la educación en este tipo educativo de manera gradual, comenzando con el nivel de licenciatura y, progresivamente, con los demás niveles de este tipo educativo, en los términos que establezca la ley de la materia, priorizando la inclusión de los pueblos y comunidades indígenas y afromexicanas, así como de los grupos sociales más desfavorecidos para proporcionar, conservar y fortalecer la prestación de este servicio educativo en todo el territorio nacional. En todo momento se respetará el carácter de las instituciones a las que la ley otorga autonomía.
 
 ###### ARTÍCULO 40.
 
@@ -697,7 +741,9 @@ El fomento de la investigación, la ciencia, las humanidades, la tecnología y l
 
 El desarrollo tecnológico y la innovación, asociados a la actualización, a la excelencia educativa y a la expansión de las fronteras del conocimiento se apoyará en las nuevas tecnologías de la información, comunicación, conocimiento y aprendizaje digital, mediante el uso de plataformas de acceso abierto.
 
-Las autoridades educativas estatales y municipales, en el ámbito de su competencia, promoverán el desarrollo, la vinculación y divulgación de la investigación científica para el beneficio social y el desarrollo de las actividades productivas del Estado de Puebla.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+Las autoridades educativas estatales y municipales, en el ámbito de su competencia, promoverán el desarrollo, la vinculación y divulgación de la investigación científica para el beneficio social y el desarrollo de las actividades productivas y culturales del Estado de Puebla.
 
 ### CAPÍTULO VI. DE LA EDUCACIÓN INDÍGENA
 
@@ -707,13 +753,15 @@ Las autoridades educativas estatales y municipales, en el ámbito de su competen
 
 En el Estado de Puebla, se garantizará el ejercicio de los derechos educativos, culturales y lingüísticos a todas las personas, pueblos y comunidades indígenas y afromexicanas, migrantes y jornaleros agrícolas. Las acciones educativas de las autoridades respectivas contribuirán al conocimiento, aprendizaje, reconocimiento, valoración, preservación y desarrollo tanto de la tradición oral y escrita indígena, como de las lenguas indígenas del Estado de Puebla como medio de comunicación, de enseñanza, objeto y fuente de conocimiento.
 
-La educación indígena debe atender las necesidades educativas de las personas, pueblos y comunidades indígenas y afromexicanas con pertinencia cultural y lingüística; además de basarse en el respeto, promoción y preservación del patrimonio histórico y las culturas del Estado de Puebla.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-(NOTA: EL 25 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 131/2020 Y SU ACUMULADA 186/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+La educación indígena debe atender las necesidades educativas de las personas, pueblos y comunidades indígenas y afromexicanas con pertinencia cultural y lingüística; además de basarse en el respeto, promoción y preservación del patrimonio histórico y las culturas del Estado de Puebla. Asimismo, se fortalecerá la formación de recursos humanos que fomenten y preserven la cultura de los pueblos y comunidades indígenas.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 47.
 
-Las autoridades educativas del Estado de Puebla, consultarán de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales nacionales e internacionales en la materia, cada vez que prevea medidas en materia educativa, relacionadas con los pueblos y comunidades indígenas y afromexicanas, respetando su autodeterminación en los términos del artículo 2° de la Constitución Política de los Estados Unidos Mexicanos.
+Las autoridades educativas del Estado de Puebla consultarán de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales locales, nacionales e internacionales en la materia de consulta, cada vez que prevea medidas sustanciales en materia educativa, relacionadas con los pueblos y comunidades indígenas y afromexicanas, respetando su autodeterminación en los términos del artículo 2° de la Constitución Política de los Estados Unidos Mexicanos.
 
 (NOTA: EL 25 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 131/2020 Y SU ACUMULADA 186/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -721,13 +769,23 @@ Las autoridades educativas del Estado de Puebla, consultarán de buena fe y de m
 
 En materia de educación indígena, las autoridades educativas estatal y municipales podrán realizar, entre otras acciones, lo siguiente:
 
-I. Fortalecer las escuelas de educación indígena, los centros educativos integrales y albergues escolares indígenas, en especial en lo concerniente a la infraestructura escolar, los servicios básicos y la conectividad;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-II. Desarrollar programas educativos que reconozcan la herencia cultural de los pueblos y comunidades indígenas y afromexicanas, y promover la valoración de distintas formas de producir, interpretar y transmitir el conocimiento, las culturas, saberes, lenguajes y tecnologías;
+I. Fortalecer de manera progresiva, las escuelas de educación indígena, los centros educativos integrales y albergues escolares indígenas, en especial en lo concerniente a la infraestructura escolar, los servicios básicos, la conectividad, así como con programas de atención específica, las artes, la ciencia, la tecnología, educación especial y la innovación, impulsar la creación y el equipamiento de laboratorios con equipo, personal capacitado, tanto docente, administrativo, de apoyo y asistencia;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+II. Desarrollar programas educativos que reconozcan y atiendan la herencia cultural de los pueblos y comunidades indígenas y afromexicanas, y promover la valoración de distintas formas de producir, interpretar y transmitir el conocimiento, las culturas, saberes, lenguajes y tecnologías, a través de una investigación verídica y contextualizada;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+II Bis. Impulsar la creación y el equipamiento de laboratorios, con el propósito de orientar la educación científica que apoye los proyectos de educación sustentable, atendiendo las características y necesidades de los pueblos y comunidades indígenas y afromexicanas en cada una de las instituciones de los diferentes tipos de educación;
 
 III. Elaborar, editar, mantener actualizados, distribuir y utilizar materiales educativos, entre ellos libros de texto gratuitos, en las diversas lenguas del Estado de Puebla;
 
-IV. Fortalecer las instituciones públicas de formación docente, la adscripción de los docentes en las localidades y regiones lingüísticas a las que pertenecen, así como impulsar programas de formación, actualización y certificación de maestras y maestros en las lenguas de las regiones correspondientes;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+IV. Fortalecer con un enfoque intercultural bilingüe a las instituciones públicas de formación docente, la adscripción de los docentes en las localidades y regiones lingüísticas a las que pertenecen, así como impulsar programas de formación, actualización y certificación de maestras y maestros en las lenguas de las regiones correspondientes;
 
 V. Tomar en consideración, en las opiniones que emitan para la elaboración de los planes y programas de estudio, los sistemas de conocimientos de los pueblos y comunidades indígenas y afromexicanas, para favorecer la recuperación cotidiana de las diferentes expresiones y prácticas culturales de cada pueblo en la vida escolar;
 
@@ -741,9 +799,11 @@ VII. Establecer esquemas de coordinación entre las diferentes instancias de gob
 
 En la educación que se imparta en el Estado de Puebla, se promoverá un enfoque humanista y la cultura de la legalidad, con lo que se favorecerá en el educando sus habilidades socioemocionales que le permitan adquirir y generar conocimientos, fortalecer la capacidad para aprender a pensar, sentir, actuar y desarrollarse como persona integrante de una comunidad y en armonía con la naturaleza, de manera que aprenda a resolver situaciones problemáticas autónoma y colectivamente, mediante la aplicación de los conocimientos aprendidos a situaciones concretas de su realidad y el desarrollo de sus actitudes y habilidades para su participación en los procesos productivos, democráticos y comunitarios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 50.
 
-La Secretaría generará mecanismos para apoyar y promover la creación y difusión artística, propiciar el conocimiento crítico, así como la difusión del arte y las culturas.
+La Secretaría generará mecanismos para apoyar y promover la creación y difusión artística, propiciar el conocimiento crítico, así como la difusión del arte y las culturas de los pueblos y comunidades indígenas y afromexicanas.
 
 En coordinación con la autoridad educativa federal, adoptará medidas para que, dentro de la orientación integral del educando, se promuevan métodos de enseñanza-aprendizaje, con la finalidad de que exprese sus emociones a través de manifestaciones artísticas y se contribuya al desarrollo cultural y cognoscitivo de las personas.
 
@@ -953,17 +1013,21 @@ XIII. El pensamiento colectivo, empático, cooperativo y la promoción de un mod
 
 Las maestras y los maestros acompañarán a las y los educandos en sus trayectorias formativas en los distintos tipos, niveles, modalidades y opciones educativas, propiciando la construcción de aprendizajes interculturales, tecnológicos, científicos, humanísticos, sociales, biológicos, ambientales, comunitarios y plurilingües, para acercarlos a la realidad, a efecto de interpretarla y participar en su transformación positiva.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 65.
 
-La evaluación de las y los educandos será integral y comprenderá la valoración de los conocimientos, las habilidades, las destrezas y, en general, el logro de los propósitos establecidos en los planes y programas de estudio.
+La evaluación de las y los educandos será formativa e integral y comprenderá la valoración de los conocimientos, las habilidades, las destrezas, actitudes y, en general, el logro de los propósitos establecidos en los planes y programas de estudio.
 
-Las instituciones educativas deberán informar periódicamente a las y los educandos y a las madres y padres de familia, tutoras o tutores, los resultados de las evaluaciones parciales y finales, así como las observaciones sobre el desempeño académico y conducta de las y los educandos que les permitan lograr un mejor aprovechamiento.
+Las instituciones educativas deberán informar periódicamente a las y los educandos, a las madres y padres de familia y tutoras o tutores, los resultados de las evaluaciones parciales y finales, así como las observaciones sobre el desempeño académico y conducta de las y los educandos que les permitan lograr un mejor aprovechamiento.
 
 ### CAPÍTULO II. DE LOS PLANES Y PROGRAMAS DE ESTUDIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 66.
 
-Los planes y programas a los que se refiere la Ley General de Educación favorecerán el desarrollo integral y gradual de las y los educandos en los niveles preescolar, primaria, secundaria, el tipo media superior y la normal, considerando la diversidad de saberes, con un carácter didáctico y curricular diferenciado, que responda a las condiciones personales, sociales, culturales, económicas de los estudiantes, docentes, planteles, comunidades y regiones del país.
+Los planes y programas a los que se refiere la Ley General de Educación favorecerán el desarrollo integral y gradual de las y los educandos en los niveles inicial, preescolar, primaria, secundaria, el tipo media superior y la normal, considerando la diversidad de saberes interculturales, con un carácter didáctico y curricular diferenciado, que responda a las condiciones personales, sociales, culturales, económicas de los estudiantes, docentes, planteles, comunidades y regiones del país.
 
 Sus propósitos, contenidos, procesos y estrategias educativas, recursos didácticos y evaluación del aprendizaje y de acreditación, se establecerán de acuerdo con cada tipo, nivel, modalidad y opción educativa, así como a las condiciones territoriales, culturales, sociales, productivas y formativas de las instituciones educativas.
 
@@ -971,13 +1035,17 @@ El proceso educativo que se genere a partir de la aplicación de los planes y pr
 
 Los libros de texto que se utilicen para cumplir con los planes y programas de estudio para impartir educación por el Estado y que se derive de la aplicación del presente Capítulo, serán los autorizados por la autoridad educativa federal en los términos de la Ley General de Educación, por lo que queda prohibida cualquier distribución, promoción, difusión o utilización de los que no cumplan con este requisito. Las autoridades escolares, madres y padres de familia, tutoras o tutores harán del conocimiento de las autoridades educativas estatal o municipales cualquier situación contraria a este precepto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 67.
 
-Los planes y programas de estudio de la educación preescolar, primaria, secundaria, normal y demás aplicables para la formación de maestras y maestros de educación básica, serán los que determine la autoridad educativa federal, conforme a lo dispuesto en la Ley General de Educación.
+Los planes y programas de estudio de la educación inicial, preescolar, primaria, secundaria, normal y demás aplicables para la formación de maestras y maestros de educación básica serán los que determine la autoridad educativa federal, conforme a lo dispuesto en la Ley General de Educación.
 
 De conformidad a las disposiciones que se emitan, la Secretaría emitirá su opinión para que se considere en los planes y programas de estudio el contenido los proyectos y programas educativos que contemplen las realidades y contextos, regionales y locales del Estado de Puebla, atendiendo a los fines y criterios establecidos en los artículos 13 y 14 de esta Ley.
 
-La Secretaría podrá solicitar a la autoridad educativa federal actualizaciones y modificaciones de los planes y programas de estudio, para atender el carácter regional, local, contextual y situacional del proceso de enseñanza aprendizaje.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+La Secretaría podrá solicitar a la autoridad educativa federal actualizaciones y modificaciones de los planes y programas de estudio, para atender el carácter regional, local, contextual y situacional del proceso de enseñanza aprendizaje, atendiendo al programa curricular de formación de docentes en atención a la diversidad cultural y lingüística.
 
 En la elaboración de los planes y programas de estudio a los que se refiere este artículo, se podrán fomentar acciones para que emitan su opinión las maestras y los maestros, así como las niñas, niños, adolescentes y jóvenes. De igual forma, serán consideradas las propuestas que se formulen de acuerdo con el contexto de la prestación del servicio educativo y respondan a los enfoques humanista, social, crítico, comunitario e integral de la educación, entre otros, para la recuperación de los saberes locales.
 
@@ -1007,7 +1075,9 @@ VI. El aprendizaje de las lenguas extranjeras;
 
 VII. El fomento de la activación física, la práctica del deporte y la educación física;
 
-VIII. La promoción de estilos de vida saludables, la educación para la salud, la importancia de la donación de órganos, tejidos y sangre;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+VIII. La promoción de estilos de vida saludables, la educación para la salud, la importancia de la donación de órganos, tejidos y sangre; considerando en su caso, la diversidad gastronómica y la medicina tradicional de los pueblos y comunidades indígenas.
 
 IX. El fomento de la igualdad de género para la construcción de una sociedad justa e igualitaria;
 
@@ -1051,6 +1121,10 @@ En la educación que se imparta en el Estado de Puebla, se utilizará el avance 
 
 Las tecnologías de la información, comunicación, conocimiento y aprendizaje digital serán utilizadas como un complemento de los demás materiales educativos, incluidos los libros de texto gratuitos.
 
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+Se fomentará el uso de plataformas educativas digitales bilingües en las lenguas originarias del Estado de Puebla.
+
 ###### ARTÍCULO 71.
 
 La Secretaría, en el ámbito de su competencia, promoverá la formación y capacitación de maestras y maestros para desarrollar las habilidades necesarias en el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital para favorecer el proceso educativo.
@@ -1060,6 +1134,10 @@ La Secretaría, en el ámbito de su competencia, promoverá la formación y capa
 ###### ARTÍCULO 72.
 
 La Secretaría emitirá una Guía Operativa para la Organización y Funcionamiento de los Servicios de Educación Básica y Media Superior, el cual será un documento de carácter operativo y normativo que tendrá la finalidad de apoyar la planeación, organización y ejecución de las actividades docentes, pedagógicas, directivas, administrativas y de supervisión de cada plantel educativo enfocadas a la mejora escolar, atendiendo al contexto regional de la prestación de los servicios educativos en el Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+En todo caso, se atenderán las características y necesidades de las escuelas ubicadas en contextos indígenas, con niveles altos de marginación.
 
 ###### ARTÍCULO 73.
 
@@ -1105,9 +1183,9 @@ La Secretaría desarrollará actividades de información y orientación para las
 
 Las empresas a que se refiere la fracción XII del Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos están obligadas a establecer y sostener escuelas cuando el número de educandos que las requiera sea mayor de veinte. Estos planteles quedarán bajo la dirección administrativa de la autoridad educativa estatal.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-Las escuelas que se establezcan en cumplimiento de la obligación prevista en el párrafo anterior contarán con edificio, instalaciones accesibles y adecuadas para personas con discapacidad, y demás elementos necesarios para realizar su función, en los términos que señalen las disposiciones aplicables.
+Las escuelas que se establezcan en cumplimiento de la obligación prevista en el párrafo anterior contarán con edificio, instalaciones accesibles y adecuadas para personas con discapacidad y demás elementos necesarios para realizar su función, como servicios básicos, tecnológicos y conectividad, en los términos que señalen las disposiciones aplicables.
 
 El sostenimiento de dichas escuelas comprende la obligación patronal de proporcionar las aportaciones para la remuneración del personal y las prestaciones que dispongan las leyes y reglamentos, que no serán inferiores a las que otorgue la autoridad educativa local en igualdad de circunstancias.
 
@@ -1127,9 +1205,11 @@ Podrán celebrarse convenios para que la formación para el trabajo se imparta p
 
 ### CAPÍTULO I. DEL EDUCANDO COMO PRIORIDAD EN EL SISTEMA EDUCATIVO ESTATAL
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 81.
 
-En la educación que se imparta en el Estado de Puebla, se priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el ejercicio de su derecho a la educación. Para tal efecto, la Secretaría garantizará el desarrollo de programas y políticas públicas que hagan efectivo ese principio constitucional.
+En la educación que se imparta en el Estado de Puebla, se priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el ejercicio de su derecho a la educación con enfoque intercultural y bilingüe. Para tal efecto, la Secretaría garantizará el desarrollo de programas y políticas públicas que hagan efectivo ese principio constitucional.
 
 ###### ARTÍCULO 82.
 
@@ -1137,7 +1217,9 @@ Las y los educandos son los sujetos más valiosos de la educación con pleno der
 
 Como parte del proceso educativo, las y los educandos tendrán derecho a:
 
-I. Recibir una educación de excelencia;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+I. Recibir una educación de excelencia, intercultural y bilingüe en los pueblos y comunidades indígenas y afromexicanas;
 
 II. Ser respetados en su integridad, identidad y dignidad, además de la protección contra cualquier tipo de agresión;
 
@@ -1151,7 +1233,9 @@ VI. Tener un docente frente a grupo que contribuya al logro de su aprendizaje y 
 
 VII. Participar de los procesos que se deriven en los planteles educativos como centros de aprendizaje comunitario;
 
-VIII. Recibir becas y demás apoyos económicos priorizando a las y los educandos que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+VIII. Recibir becas y demás apoyos económicos priorizando a las y los educandos de toda la educación básica y media superior que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación, de los pueblos y comunidades indígenas y afromexicanas;
 
 IX. Participar en los Comités Escolares de Administración Participativa en los términos de las disposiciones respectivas, y
 
@@ -1207,13 +1291,15 @@ La Secretaría, de acuerdo con la suficiencia presupuestal, impulsará programas
 
 ### CAPÍTULO III. DE LA CULTURA DE LA PAZ, CONVIVENCIA DEMOCRÁTICA EN LAS ESCUELAS Y ENTORNOS ESCOLARES LIBRES DE VIOLENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 90.
 
-En la impartición de educación para menores de dieciocho años, la Secretaría en coordinación con otras áreas de gobierno, tomará medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad y derechos, y que la aplicación de la disciplina escolar sea compatible con su edad, de conformidad con los lineamientos que para tal efecto se establezcan.
+En la impartición de educación para menores de dieciocho años, la Secretaría en coordinación con otras áreas de gobierno, tomará medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica, emocional y social sobre la base del respeto a su dignidad y derechos, y que la aplicación de la disciplina escolar sea compatible con su edad, de conformidad con los lineamientos que para tal efecto se establezcan.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-Los docentes y el personal que labora en los planteles de educación deberán estar capacitados por parte de las autoridades educativas para tomar las medidas que aseguren la protección, el cuidado de las y los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, así como protegerlos contra toda forma de maltrato, violencia, perjuicio, daño, agresión, abuso, trata, explotación, sexual o laboral.
+Los docentes y el personal que labora en los planteles de educación deberán estar capacitados con materiales pertinentes por parte de las autoridades educativas para tomar las medidas que aseguren la protección, el cuidado de las y los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, así como protegerlos contra toda forma de maltrato, violencia, perjuicio, daño, agresión, abuso, trata o explotación sexual o laboral.
 
 > <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
 
@@ -1229,7 +1315,9 @@ Las autoridades educativas, en el ámbito de su competencia, promoverán la cult
 
 Para cumplir con lo establecido en este artículo, se llevarán a cabo, entre otras, las siguientes acciones:
 
-I. Diseñar y aplicar estrategias educativas que generen ambientes basados en una cultura de la paz, para fortalecer la cohesión comunitaria y una convivencia democrática;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+I. Diseñar y aplicar estrategias educativas que generen ambientes basados en una cultura de la paz, en los buenos usos y costumbres de cada comunidad para fortalecer la cohesión comunitaria y una convivencia democrática;
 
 II. Promover en la formación docente contenidos y prácticas relacionados con la cultura de la paz y la resolución pacífica de conflictos;
 
@@ -1309,7 +1397,9 @@ El sistema de administración de nómina deberá observar los criterios de contr
 
 Para ejercer la docencia en instituciones establecidas por las autoridades educativas del Estado de Puebla, en educación básica y media superior, las promociones en la función y en el servicio, así como para el otorgamiento de reconocimientos, se estará a lo dispuesto por (sic) Ley General del Sistema para la Carrera de las Maestras y los Maestros.
 
-En el caso de los docentes de educación indígena que no tengan licenciatura como nivel mínimo de formación, deberán participar en los programas de capacitación que diseñe la autoridad educativa y certificar su bilingüismo en la lengua indígena que corresponda y el español.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+En el caso de los docentes de educación indígena que no tengan licenciatura como nivel mínimo de formación, deberán participar en los programas de capacitación permanente que diseñe la autoridad educativa y acreditar su bilingüismo en la lengua indígena que corresponda y el español.
 
 ### CAPÍTULO III. DEL SISTEMA INTEGRAL DE FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN
 
@@ -1349,13 +1439,17 @@ Asimismo, impulsarán los proyectos pedagógicos y de desarrollo de la docencia 
 
 Las personas egresadas de las instituciones formadoras de docencia del Estado de Puebla, contarán con el conocimiento de diversos enfoques pedagógicos y didácticos que les permita atender las necesidades de aprendizaje de niñas, niños, adolescentes y jóvenes.
 
-En los planes y programas de estudio de las instituciones de formación docente, se promoverá el desarrollo de competencias en educación inicial y con enfoque de inclusión para todos los tipos educativos; asimismo, se considerarán modelos de formación docente especializada en la educación especial que atiendan los diversos tipos de discapacidad.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+En los planes y programas de estudio de las instituciones de formación docente, se promoverá el desarrollo de competencias en educación inicial y con enfoque de equidad de género, inclusión y atención a la diversidad cultural y lingüística para todos los tipos educativos; asimismo, se considerarán modelos de formación docente especializada en la educación especial que atiendan los diversos tipos de discapacidad.
 
 ###### ARTÍCULO 102.
 
 La Secretaría fortalecerá a las instituciones públicas de formación docente, para lo cual, tendrá a su cargo, entre otras, las siguientes acciones:
 
-I. Propiciar la participación de la comunidad de las instituciones formadoras de docentes, para la construcción colectiva de sus planes y programas de estudio, con especial atención en los contenidos regionales y locales, además de los contextos escolares, la práctica en el aula y los colectivos docentes, y la construcción de saberes para contribuir a los fines de la nueva escuela mexicana;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+I. Propiciar la participación de la comunidad de las instituciones formadoras de docentes, para la construcción colectiva de sus planes y programas de estudio, con enfoque humanista, intercultural y bilingüe, con especial atención en los contenidos regionales y locales, considerando el saber genuino de los pueblos y comunidades indígenas y afromexicanas, además de los contextos escolares, la práctica en el aula y los colectivos docentes, y la construcción de saberes para contribuir a los fines de la nueva escuela mexicana;
 
 II. Promover la movilidad de los docentes en los diferentes sistemas y subsistemas educativos, particularmente en aquellas instituciones que tengan amplia tradición y experiencia en la formación pedagógica y docente;
 
@@ -1397,9 +1491,11 @@ Dichos muebles e inmuebles deberán cumplir con los requisitos de calidad, segur
 
 La Secretaría coadyuvará con la autoridad educativa federal para mantener actualizado el Sistema Nacional de Información de la Infraestructura Física Educativa, a fin de realizar sobre ésta diagnósticos y definir acciones de prevención en materia de seguridad, protección civil y de mantenimiento de los muebles o inmuebles que se destinen al servicio educativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 106.
 
-Con la finalidad de garantizar el cumplimiento de los requisitos de construcción, diseño, seguridad, estructura, condiciones específicas o equipamiento que sean obligatorios para cada tipo de obra, las autoridades educativas estatal y municipales, los Comités Escolares de Administración Participativa o sus equivalentes y los particulares que impartan educación en términos de esta Ley, atenderán las disposiciones que en la materia establezca la Ley General para la Inclusión de Personas con Discapacidad, la Ley General de Bienes Nacionales, la Ley General de Protección Civil, la Ley General de Responsabilidades Administrativas, la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley Federal para Prevenir y Erradicar la Discriminación, así como aquellas que se refieran a la materia de obra pública y servicios relacionados con la misma, adquisiciones, arrendamientos y servicios, además de los lineamientos emitidos por la autoridad educativa federal a los que se refiere el artículo 103 de la Ley General de Educación y las disposiciones legales y reglamentarias aplicables a nivel federal, local y municipal.
+Con la finalidad de garantizar el cumplimiento de los requisitos de construcción, diseño, seguridad, estructura, condiciones específicas o equipamiento que sean obligatorios para cada tipo de obra, las autoridades educativas estatal y municipales, los Comités Escolares de Administración Participativa o sus equivalentes, así como el Comité Administrador Poblano para la Construcción de Espacios Educativos y los particulares que impartan educación en términos de esta Ley, atenderán las disposiciones que en la materia establezca la Ley General para la Inclusión de Personas con Discapacidad, la Ley General de Bienes Nacionales, la Ley General de Protección Civil, la Ley General de Responsabilidades Administrativas, la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley Federal para Prevenir y Erradicar la Discriminación, así como aquellas que se refieran a la materia de obra pública y servicios relacionados con la misma, adquisiciones , arrendamientos y servicios, además de los lineamientos emitidos por la autoridad educativa federal a los que se refiere el artículo 103 de la Ley General de Educación y las disposiciones legales y reglamentarias aplicables a nivel federal, local y municipal.
 
 Las universidades y demás instituciones de educación superior autónomas a que se refiere la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, se regularan en materia de infraestructura por sus órganos de gobierno y su normatividad interna.
 
@@ -1411,9 +1507,11 @@ Todos los planteles educativos, públicos o privados, deberán elaborar un Plan 
 
 En la educación que impartan los particulares con autorización o con reconocimiento de validez oficial de estudios, debe demostrarse además el cumplimiento de las obligaciones señaladas en la Ley General de Educación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 108.
 
-Las autoridades educativas estatal y municipales atenderán de manera prioritaria las escuelas que, por estar en localidades aisladas, zonas urbanas marginadas, rurales y en pueblos y comunidades indígenas y afromexicanas, tengan mayor posibilidad de rezago o abandono escolar, estableciendo condiciones físicas y de equipamiento que permitan proporcionar educación con equidad e inclusión en dichas localidades.
+Las autoridades educativas estatal y municipales, sin distinciones y condiciones en todas las escuelas, atenderán de manera prioritaria las escuelas que, por estar en localidades aisladas, zonas urbanas marginadas, rurales y en pueblos y comunidades indígenas y afromexicanas, tengan mayor posibilidad de rezago o abandono escolar, estableciendo condiciones físicas y de equipamiento que permitan proporcionar educación con equidad e inclusión en dichas localidades.
 
 En materia de inclusión se realizarán acciones, de manera gradual, orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de todos los educandos que mejoren las condiciones para la infraestructura educativa.
 
@@ -1453,17 +1551,21 @@ La Secretaría será la facultada para establecer las denominaciones oficiales d
 
 La educación tendrá un proceso de mejora continua, el cual implica el desarrollo permanente del Sistema Educativo Estatal para el incremento del logro académico de las y los educandos. Tendrá como eje central el aprendizaje de niñas, niños, adolescentes y jóvenes de todos los tipos, niveles y modalidades educativos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 114.
 
-La Secretaría coadyuvará con la Comisión Nacional para la Mejora Continua de la Educación sobre las cualidades de los actores, instituciones o procesos del Sistema Educativo Estatal, con la finalidad de contar con una retroalimentación que promueva una acción de mejora en la educación.
+La Secretaría coadyuvará con la Comisión Nacional para la Mejora Continua de la Educación, que oriente con enfoque de derechos humanos, sobre las cualidades, conocimientos de derechos de los actores, instituciones o procesos del Sistema Educativo Estatal, con la finalidad de contar con una retroalimentación que promueva una acción de mejora en la educación.
 
 La evaluación a la que se refiere este artículo será integral, continua, colectiva, incluyente, diagnóstica y comunitaria. Valorará el cumplimiento de las responsabilidades de las autoridades educativas sobre la atención de las problemáticas de las escuelas y los avances de las políticas que lleven para el cumplimiento de sus obligaciones en materia educativa; además de aquellas de madres y padres de familia, tutoras o tutores respecto a sus hijas, hijos o pupilos menores de dieciocho años en términos de lo que dispone la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla y esta Ley.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 115.
 
-Con objeto de contribuir al proceso al que se refiere este Capítulo, la Secretaría tendrá a su cargo elaborar un Programa Educativo Estatal para garantizar el acceso a la educación con equidad y excelencia para todos.
+Con objeto de contribuir al proceso al que se refiere este Capítulo, la Secretaría tendrá a su cargo elaborar un Programa Educativo Estatal para garantizar el acceso a la educación con equidad, inclusión y excelencia para todos.
 
-El Programa Educativo Estatal de Puebla, tendrá un carácter plurianual y contendrá de manera integral aspectos sobre la infraestructura y el equipamiento de la infraestructura educativa, el avance de los planes y programas educativos, la formación y prácticas docentes, la carga administrativa, la asistencia de las y los educandos, el aprovechamiento académico, el desempeño de las autoridades educativas y los contextos socioculturales, entre otros.
+El Programa Educativo Estatal de Puebla, tendrá un carácter plurianual y contendrá de manera integral y equitativa aspectos sobre la infraestructura y el equipamiento de la infraestructura educativa, el avance de los planes y programas educativos, la formación y prácticas docentes, de asesores técnicos pedagógicos, de directivos, la carga administrativa, la asistencia de las y los educandos, el aprovechamiento académico, el desempeño de las autoridades educativas, los contextos socioculturales y lingüísticos, entre otros.
 
 ## TÍTULO OCTAVO. DEL FEDERALISMO EDUCATIVO
 
@@ -1537,7 +1639,9 @@ VII. Otorgar, negar y retirar el reconocimiento de validez oficial a estudios di
 
 VIII. Editar libros y producir otros materiales educativos, distintos de los señalados en la fracción IV del artículo 113 de la Ley General de Educación, apegados a los fines y criterios establecidos en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y para el cumplimiento de los planes y programas de estudio autorizados por la autoridad educativa federal;
 
-IX. Fomentar la prestación de servicios bibliotecarios a través de las bibliotecas públicas a cargo de la Secretaría de Cultura y demás autoridades competentes, a fin de apoyar al Sistema Educativo Estatal, a la innovación educativa y a la investigación científica, tecnológica y humanística, incluyendo los avances tecnológicos que den acceso al acervo bibliográfico, con especial atención a personas con discapacidad;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+IX. Fomentar la prestación de servicios bibliotecarios a través de las bibliotecas públicas a cargo de la Secretaría de Cultura y demás autoridades competentes, a fin de apoyar al Sistema Educativo Estatal, a la innovación educativa y a la investigación científica, tecnológica y humanística, incluyendo los avances tecnológicos que den acceso al acervo bibliográfico, con especial atención a personas con discapacidad, además de gestionar la dotación de ejemplares de acervos bibliográficos;
 
 X. Promover la investigación y el desarrollo de la ciencia, la tecnología y la innovación, fomentar su enseñanza, su expansión y divulgación en acceso abierto, cuando el conocimiento científico y tecnológico sea financiado con recursos públicos o se haya utilizado infraestructura pública en su realización, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que, por razón de su naturaleza o decisión del autor, sea confidencial o reservada;
 
@@ -1587,9 +1691,13 @@ Las autoridades educativas estatal y municipales, prestarán servicios educativo
 
 Para tal efecto realizarán, entre otras, las siguientes acciones:
 
-I. Establecer políticas incluyentes, transversales y con perspectiva de género, para otorgar becas y demás apoyos económicos que prioricen a las y los educandos que enfrenten condiciones socioeconómicas que les impidan ejercer su derecho a la educación;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-II. Establecer, de acuerdo con la suficiencia presupuestal, programas de entrega gratuita de uniformes y útiles escolares, calzado y anteojos para estudiantes de educación básica;
+I. Establecer políticas incluyentes, transversales y con perspectiva de género, para otorgar becas dignas y demás apoyos económicos que prioricen a las y los educandos que enfrenten condiciones socioeconómicas que les impidan ejercer su derecho a la educación;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+II. Establecer, de acuerdo con la suficiencia presupuestal, programas de diseño, elaboración y entrega gratuita de uniformes y útiles escolares, calzado y anteojos para estudiantes de educación básica y media superior en instituciones oficiales;
 
 III. Proporcionar apoyos a educandos cuya madre, padre, tutora o tutor haya fallecido o sufrido algún accidente que le ocasione invalidez o incapacidad permanente;
 
@@ -1607,7 +1715,9 @@ IX. Dar a conocer y, en su caso, fomentar diversas opciones educativas, como la 
 
 X. Celebrar convenios de colaboración interinstitucional con las autoridades de los tres órdenes de gobierno, a fin de impulsar acciones que mejoren las condiciones de vida de las y los educandos, con énfasis en las de carácter alimentario, preferentemente a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria;
 
-XI. Fomentar programas de incentivos dirigidos a las maestras y los maestros que presten sus servicios en localidades aisladas, zonas urbanas marginadas y de alta conflictividad social, para fomentar el arraigo en sus comunidades y cumplir con el calendario escolar;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+XI. Fomentar y vigilar programas de incentivos, con suficiencia presupuestaria, dirigidos a las maestras y los maestros de los diferentes niveles, tipos y modalidades, que presten sus servicios en localidades aisladas, zonas urbanas marginadas y de alta conflictividad social, así como pueblos y comunidades indígenas y afromexicanas, para fomentar el arraigo en sus comunidades y cumplir con el calendario escolar; así como a los directores comisionados con grupo y docentes que atienden grupo multigrado, a quienes se les deberá emitir, por parte de la Secretaría, la comisión correspondiente;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE ABRIL DE 2022)</small>
 
@@ -1651,9 +1761,11 @@ En el caso de que tales recursos se utilicen para fines distintos, se estará a 
 
 Para dar cumplimiento a la obligatoriedad y la gratuidad de la educación superior, se estará a lo dispuesto a la gradualidad y capacidad financiera del Estado de acuerdo a las disposiciones generales de la materia.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 122.
 
-La Autoridad Educativa Estatal, promoverá lo conducente para que cada Municipio, atendiendo al presupuesto correspondiente, reciba y recabe los recursos suficientes para el cumplimiento de las responsabilidades educativas que asuma.
+La Autoridad Educativa Estatal, vigilará que cada Municipio, atendiendo al presupuesto correspondiente, reciba y recabe los recursos suficientes para el cumplimiento de las responsabilidades educativas que asuma, atendiendo las necesidades de infraestructura y servicios básicos de las instituciones de educación indígena.
 
 ###### ARTÍCULO 123.
 
@@ -1705,7 +1817,9 @@ Son obligaciones de quienes ejercen la patria potestad o la tutela:
 
 I. Hacer que sus hijas, hijos o pupilos menores de dieciocho años, reciban la educación preescolar, primaria, secundaria, media superior y, en su caso, la inicial;
 
-II. Participar en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años, al revisar su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+II. Participar en el proceso educativo, a través de programas desarrollados por la Secretaría, de sus hijas, hijos o pupilos menores de dieciocho años, al revisar su progreso, desempeño y conducta, velando siempre por su bienestar, desarrollo y herencia cultural;
 
 III. Colaborar con las instituciones educativas en las que estén inscritos sus hijas, hijos o pupilos, en las actividades que dichas instituciones realicen;
 
@@ -1749,9 +1863,11 @@ La organización y el funcionamiento de las asociaciones de madres y padres de f
 
 ### CAPÍTULO II. DE LOS CONSEJOS DE PARTICIPACIÓN ESCOLAR, HONRADEZ Y SEGURIDAD
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 129.
 
-Las autoridades educativas podrán promover, de conformidad con los lineamientos que establezca la autoridad educativa federal, la participación de la sociedad en actividades que tengan por objeto garantizar el derecho a la educación.
+Las autoridades educativas promoverán, de conformidad con los lineamientos que establezca la autoridad educativa federal, la participación de la sociedad en actividades que tengan por objeto garantizar el derecho a la educación.
 
 ###### ARTÍCULO 130.
 
@@ -1787,7 +1903,9 @@ Dicho Consejo Municipal debe concebir a la educación más allá de la escuela, 
 
 Este consejo, ante el ayuntamiento y la autoridad educativa respectiva, podrá:
 
-I. Gestionar el mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas, tomando en cuenta las necesidades de accesibilidad para las personas con discapacidad, y demás proyectos de desarrollo educativo en el municipio;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+I. Gestionar el mejoramiento de los servicios educativos, conforme a las necesidades de las instituciones para la construcción y ampliación de espacios educativos, así como de servicios de apoyo a la educación, tomando en cuenta las necesidades de accesibilidad para las personas con discapacidad, y demás proyectos de desarrollo educativo en el municipio;
 
 II. Estimular, promover y apoyar actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos y sociales;
 
@@ -1799,15 +1917,23 @@ V. Coadyuvar a nivel municipal en actividades de seguridad, protección civil y 
 
 VI. Promover la superación educativa en el ámbito municipal mediante certámenes interescolares;
 
-VII. Promover actividades de orientación, capacitación y difusión dirigidas a madres y padres de familia, tutoras o tutores, para que cumplan cabalmente con sus obligaciones en materia educativa;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-VIII. Proponer la entrega de estímulos y reconocimientos de carácter social a las y los educandos, maestras y maestros, directivos y empleados escolares que propicien la vinculación con la comunidad;
+VII. Promover y calendarizar actividades de orientación, capacitación y difusión dirigidas a madres y padres de familia, tutoras o tutores, para que cumplan cabalmente con sus obligaciones en materia educativa;
 
-IX. Procurar la obtención de recursos complementarios, para el mantenimiento y equipamiento básico de cada escuela pública;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+VIII. Proponer la entrega de estímulos y reconocimientos de carácter social a las y los educandos, así como a maestras y maestros, directivos y empleados escolares, que propicien la vinculación con la comunidad;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+IX. Gestionar ante las instancias correspondientes la obtención de recursos complementarios, para el mantenimiento y equipamiento básico de cada escuela pública;
 
 X. Fortalecer los esquemas formales y no formales bajo la premisa del aprendizaje de toda la vida que siente las bases para el desarrollo social, económico y ambiental sostenible, incidiendo en políticas públicas municipales innovadoras que puedan ser replicables en experiencias y contextos locales, y
 
-XI. En general, realizar actividades para apoyar y fortalecer la educación en el municipio.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+XI. En general, realizar actividades de apoyo para fortalecer la educación y su continuidad en el municipio.
 
 Será responsabilidad de la autoridad municipal que, en el consejo se alcance una efectiva participación social que contribuya a elevar la excelencia en educación, así como, la difusión de programas preventivos de delitos que se puedan cometer en contra de niñas, niños y adolescentes o de quienes no tienen capacidad para comprender el significado del hecho o para resistirlo.
 
@@ -2174,3 +2300,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El cumplimiento del presente Decreto, estará sujeto a la suficiencia presupuestaria, que se determine en el ejercicio fiscal correspondiente.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA, EN MATERIA DE EDUCACIÓN INDÍGENA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Secretaría de Educación del Estado, en cumplimiento a las medidas de racionalidad y eficiencia para el ejercicio del gasto, realizará las adecuaciones legales y administrativas para la aplicación del presente Decreto y estará sujeta a la suficiencia presupuestaria del ejercicio fiscal que corresponda.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. El Poder Ejecutivo y los Ayuntamientos del Estado, deberán considerar de manera paulatina y progresiva en sus programas presupuestarios a partir del ejercicio fiscal 2025 y subsecuentes, las acciones y actividades que en el ámbito de sus respectivas competencias resulten necesarias para dar cumplimiento a lo dispuesto en el presente Decreto.
