@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-3524"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-22"
-last_updated: "2023-10-24"
+last_updated: "2023-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "CAM"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 22 de junio de 1994.
 
@@ -449,9 +449,13 @@ XIII.- Las actividades que se lleven a cabo dentro del territorio del Estado no 
 
 XIV. La erradicación de la pobreza es parte fundamental e inalienable para alcanzar el desarrollo sustentable; y
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-XV. La participación de las comunidades, así como de los pueblos indígenas es vital en las tareas de protección de los ecosistemas, su prevención de degradación, en el aprovechamiento sustentable de los recursos naturales y la salvaguarda de la biodiversidad, para su correcta inclusión se atenderá a lo dispuesto en la presente ley y otros ordenamientos aplicables.
+XV. La participación de las comunidades, así como de los pueblos indígenas es vital en las tareas de protección de los ecosistemas, su prevención de degradación, en el aprovechamiento sustentable de los recursos naturales y la salvaguarda de la biodiversidad, para su correcta inclusión se atenderá a lo dispuesto en la presente ley y otros ordenamientos aplicables; y
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+XVI. La educación la cual es un medio para valorar la vida a través de la prevención del deterioro ambiental, la preservación, restauración y el aprovechamiento sostenible de los ecosistemas y con ello evitar los desequilibrios ecológicos y daños ambientales.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 1997)</small>
 
@@ -2146,6 +2150,14 @@ SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o
 P.O. 24 DE OCTUBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 268 POR EL QUE “SE REFORMAN LAS FRACCIONES III BIS Y XII Y SE ADICIONAN LAS FRACCIONES XIV Y XV AL ARTÍCULO 15 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 5 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 284 POR EL QUE "SE REFORMA LA FRACCIÓN XV Y SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 15 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CAMPECHE".]
 
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
