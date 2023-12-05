@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2023-08-25"
+last_updated: "2023-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1281,9 +1281,9 @@ II.- Estudiar los asuntos relacionados con la creación, modificación, fusión,
 
 III.- Aprobar su organización y división administrativas, de acuerdo con las necesidades del Municipio;
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-IV.- Expedir y actualizar Bandos de Policía y Gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, referentes a su organización, funcionamiento, servicios públicos que deban prestar y demás asuntos de su competencia, sujetándose a las bases normativas establecidas por la Constitución Política del Estado Libre y Soberano de Puebla, vigilando su observancia y aplicación; con pleno respeto a los derechos humanos que reconoce el orden jurídico nacional;
+IV.- Expedir y mantener actualizados, Bandos de Policía y Gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, referentes a su organización, funcionamiento, servicios públicos que deban prestar y demás asuntos de su competencia, sujetándose a las bases normativas establecidas por la Constitución Política del Estado Libre y Soberano de Puebla, vigilando su observancia y aplicación; con pleno respeto a los derechos humanos que reconoce el orden jurídico nacional;
 
 V.- Inducir y organizar la participación de los ciudadanos en la promoción del desarrollo integral de sus comunidades;
 
@@ -1643,9 +1643,11 @@ La promulgación y posterior publicación en el Periódico Oficial del Estado de
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2022)</small>
 
-###### ARTÍCULO 88 Bis.
+ARTÍCULO 88 BIS.- Los Ayuntamientos deberán aprobar y publicar dentro de los 90 días siguientes a su toma de posesión su Bando de Policía y Gobierno, así como el Reglamento Interior de Cabildo, o en su caso, ratificar o actualizar el vigente.
 
-Los Ayuntamientos deberán aprobar y publicar dentro de los 90 días siguientes a su toma de posesión su Bando de Policía y Gobierno, así como el Reglamento Interior de Cabildo, o en su caso, ratificar o actualizar el vigente.
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+Asimismo, deberán revisar cuando menos una vez al año, los reglamentos y demás disposiciones administrativas de observancia general vigentes, a fin de mantenerlos actualizados.
 
 ###### ARTÍCULO 89.
 
@@ -4580,5 +4582,13 @@ P.O. 25 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES II, III, IV Y EL PÁRRAFO TERCERO DEL ARTÍCULO 78, Y ADICIONA LA FRACCIÓN V AL 78 DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE PUEBLA; REFORMA LAS FRACCIONES II, III, IV Y EL PÁRRAFO TERCERO DEL ARTÍCULO 135 Y ADICIONA LA FRACCIÓN V AL 135 DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS; ASÍ COMO REFORMA LA FRACCIÓN III DEL ARTÍCULO 116 DE LA LEY ORGÁNICA MUNICIPAL".]
 
 PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 78, Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 88 BIS DE LA LEY ORGÁNICA MUNICIPAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
