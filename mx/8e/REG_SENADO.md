@@ -4,7 +4,7 @@ identifier: "REG_SENADO"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-04"
-last_updated: "2023-09-22"
+last_updated: "2023-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "REG_SENADO"
 
 REGLAMENTO DEL SENADO DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE DICIEMBRE DE 2023.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de junio de 2010.
 
@@ -59,6 +59,10 @@ Artículo 1
 Artículo 2
 
 1. Para los efectos del presente Reglamento se entiende por:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 5 DE DICIEMBRE DE 2023)</small>
+
+Comisiones unidas: es la modalidad de trabajo que se puede establecer para que dos o más comisiones participen en el análisis y dictamen de los asuntos que se presenten en el Senado de la República. Las comisiones que trabajen bajo esta modalidad podrán acordar, a través de sus respectivas Juntas Directivas, el método a aplicar para cumplir con el encargo que se les haga, sin que deba entenderse como una forma que obligue a coincidir de manera simultánea en un mismo lugar para realizar su trabajo, pudiendo concurrir de manera conjunta o en actos separados.
 
 Constitución: La Constitución Política de los Estados Unidos Mexicanos;
 
@@ -1676,7 +1680,9 @@ Artículo 147
 
 1. Para que una reunión de comisión sea válida se requiere la asistencia de la mayoría absoluta de sus integrantes.
 
-2. En los casos de reuniones de comisiones unidas, el quórum se forma con la asistencia de la mayoría absoluta de los integrantes de cada una de ellas.
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 2023)</small>
+
+2. En los casos de reuniones de comisiones unidas, el quórum se forma con la asistencia de la mayoría absoluta de los integrantes de cada una de ellas. La reunión puede celebrarse en un acto conjunto con la concurrencia de las comisiones en la fecha, hora y sitio al que se les convoque o bien a través de actos separados, según el número de comisiones a las que se haya turnado el asunto.
 
 3. Cuando no se forma quórum después de dos convocatorias sucesivas a reunión, sus presidentes lo hacen del conocimiento de la Junta para que coadyuve a la solución correspondiente.
 
@@ -1722,9 +1728,13 @@ Artículo 150
 
 1. Las decisiones en las comisiones se adoptan con el voto de la mayoría absoluta de sus integrantes presentes.
 
-2. Las votaciones sobre dictámenes o resoluciones requieren de la mayoría absoluta de los integrantes de la respectiva comisión.
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 2023)</small>
 
-3. Los dictámenes y resoluciones que se producen bajo la modalidad de trabajo en comisiones unidas, son aprobados por la mayoría absoluta de los integrantes de cada una de las comisiones que participan.
+2. Las votaciones sobre dictámenes o resoluciones requieren la mayoría absoluta de las y los integrantes presentes de la respectiva comisión.
+
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 2023)</small>
+
+3. Los dictámenes y resoluciones que se producen bajo la modalidad de trabajo en comisiones unidas son aprobados por la mayoría absoluta de las y los integrantes presentes de cada una de las comisiones que participan.
 
 4. Las votaciones nominales se realizan a través del sistema electrónico.
 
@@ -2058,7 +2068,9 @@ Artículo 183
 
 1. Inmediatamente después de que se recibe una iniciativa o proyecto, los presidentes de las comisiones respectivas lo hacen del conocimiento de sus integrantes para recabar sus comentarios y propuestas, con la finalidad de proceder a dictaminar.
 
-2. La Junta Directiva de la comisión coordinadora, en consulta con las de las otras comisiones dictaminadoras, acuerda la organización y el método de trabajo para el estudio de los asuntos y la elaboración de los proyectos de dictamen correspondientes.
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 2023)</small>
+
+2. La Junta Directiva de la comisión coordinadora, en consulta con las de las otras comisiones dictaminadoras, acuerda la organización y el método de trabajo para el estudio de los asuntos y la elaboración de los proyectos de dictamen correspondientes. Asimismo, acuerdan si realizan reuniones conjuntas de las comisiones unidas o cada comisión se reúne por separado.
 
 3. Cuando es procedente se consideran otras iniciativas y proyectos relacionados que están pendientes de dictaminar, siempre que traten los mismos tema (sic) y materia (sic).
 
@@ -2130,7 +2142,9 @@ VIII. En su caso, texto normativo y régimen transitorio del ordenamiento de que
 
 IX. Firmas autógrafas, por lo menos de la mayoría absoluta de los integrantes de cada una de las comisiones dictaminadoras; y
 
-X. Lugar y fecha de la reunión de las comisiones unidas para emitirlo.
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2023)</small>
+
+X. Lugar y fecha de la reunión de las comisiones unidas o de cada una de las comisiones, en caso de que hubiesen realizado reuniones separadas para emitirlo.
 
 Artículo 191
 
@@ -3593,5 +3607,11 @@ D.O.F. 22 DE SEPTIEMBRE DE 2023.
 D.O.F. 22 DE SEPTIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VIII AL NUMERAL 1 DEL ARTÍCULO 56 Y UN ARTÍCULO 56 QUINQUIES AL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 2, NUMERAL 1; 147, NUMERAL 2; 150, NUMERALES 2 Y 3; 183, NUMERAL 2; Y 190, NUMERAL 1, FRACCIÓN X, DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
