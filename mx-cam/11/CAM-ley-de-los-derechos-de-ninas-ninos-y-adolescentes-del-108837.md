@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108837"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2023-12-04"
+last_updated: "2023-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 2 de junio de 2015.
 
@@ -779,7 +779,9 @@ VI. Adaptar el sistema educativo a las condiciones, intereses y contextos espec�
 
 VII. Establecer acciones afirmativas para garantizar el derecho a la educación de las niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales;
 
-VIII. Prestar servicios educativos en condiciones de normalidad mínima, entendida ésta como el conjunto de condiciones indispensables que deben cumplirse en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje de los educandos;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+VIII. Prestar servicios educativos en condiciones óptimas, entendida ésta como el conjunto de instalaciones indispensables con que debe contarse en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje que coadyuve al pleno desarrollo de los educandos;
 
 IX. Implementar mecanismos para la atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a la educación de niñas, niños y adolescentes;
 
@@ -801,9 +803,9 @@ XVII. Administrar la disciplina escolar de modo compatible con la dignidad human
 
 XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-XIX. Inculcar en las niñas, niños y adolescentes el respeto al medio ambiente, así como el respeto, cuidado y procuración del bienestar de los animales;
+XIX. Inculcar en las niñas, niños y adolescentes el respeto al medio ambiente, fomentando en ellos la adopción de estilos de vida sustentables y concientizándolos sobre las causas - efectos del cambio climático; así como el respeto, cuidado y procuración del bienestar de los animales;
 
 XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación; y
 
@@ -812,6 +814,16 @@ XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de l
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2022)</small>
 
 XXII. Impulsar acciones que tengan como fin la prevención del suicidio en niñas, niños y adolescentes, principalmente en los centros educativos que comprenden el nivel básico y media superior.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+XXIII. Establecer mecanismos para que las autoridades educativas, escolares y los particulares con autorización o reconocimiento de validez oficial de estudios, notifiquen a la Procuraduría de Protección correspondiente, los casos de asistencia irregular, abandono o deserción escolar que se identifiquen respecto de los alumnos que cursen educación básica y media superior en los centros educativos.
+
+Ante dicha notificación será aplicable el procedimiento establecido en el artículo 119 de la presente Ley, y en su caso, la activación de las instancias jurisdiccionales necesarias a fin de garantizar los derechos de las niñas, niños y adolescentes.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN XXIII, P.O. 5 DE DICIEMBRE DE 2023.]</small>
+
+En caso contrario, se estará a lo dispuesto en el Capítulo Único del Título Sexto de la Ley, con independencia de aquellas conductas que pudieran ser consideradas como delitos conforme a la normatividad en la materia.
 
 Las autoridades escolares, en el ámbito de sus facultades, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
 
@@ -2210,3 +2222,11 @@ P.O. 4 DE DICIEMBRE DE 2023.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
+
+P.O. 5 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 283 POR EL QUE “SE REFORMAN LAS FRACCIONES VIII Y XIX, Y SE ADICIONA LA FRACCIÓN XXIII AL ARTÍCULO 56 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
