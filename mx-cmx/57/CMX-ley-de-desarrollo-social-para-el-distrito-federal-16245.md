@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-social-para-el-distrito-federal-16245"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-23"
-last_updated: "2022-03-23"
+last_updated: "2023-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16245&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-04-24"
 
 LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de mayo de 2000.
 
@@ -249,6 +249,10 @@ XII. EFECTIVIDAD: Obligación de la autoridad de ejecutar los programas sociales
 > <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2019)</small>
 
 XIII. PROTECCIÓN DE DATOS PERSONALES: Es obligación de la autoridad de resguardar, tratar y proteger los datos personales proporcionados por la población para acceder a los programas y acciones sociales, en términos de la normatividad en la materia.
+
+> <small>(ADICIONADA, G.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XIV. PROGRESIVIDAD Y PROHIBICIÓN DE REGRESIVIDAD: La obligación de las autoridades para que en el ámbito de sus competencias mantengan un avance en la cobertura de los derechos económicos, sociales, culturales y ambientales, de manera siempre incremental y sin disminuir, ni abolir el nivel obtenido y los beneficios alcanzados, ya que, una vez logrado el avance en el disfrute de estos derechos, han pasado a ser parte integral de las prerrogativas constitucionales y un derecho subjetivo de las personas, quedando impedidas las autoridades, salvo circunstancias estrictas y debidamente justificadas, para actuar en su retroceso.
 
 Los principios de esta ley constituyen el marco en el cual deberán planearse, ejecutarse y evaluarse el conjunto de las políticas y programas en materia de desarrollo social de la Administración Pública del Distrito Federal.
 
@@ -1397,3 +1401,11 @@ G.O. 23 DE MARZO DE 2022.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 6 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XIV, AL ARTÍCULO 4, DE LA LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO. - Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
