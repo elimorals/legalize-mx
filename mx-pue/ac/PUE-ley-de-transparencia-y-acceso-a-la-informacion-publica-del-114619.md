@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2023-08-25"
+last_updated: "2023-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, miércoles 4 de mayo de 2016.
 
@@ -403,7 +403,9 @@ Para cumplir con la Ley, los sujetos obligados deberán:
 
 I. Publicar y mantener en sus sitios web, la información a que se refiere el Título Quinto de la presente Ley, fácilmente identificable y en la medida de lo posible hacerla accesible mediante formatos abiertos que permitan su reutilización e interoperabilidad;
 
-II. Designar en las Unidades de Transparencia a los titulares que dependan directamente del titular del sujeto obligado y que preferentemente cuenten con experiencia en la materia;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+II. Designar en las Unidades de Transparencia a los titulares que dependan directamente del titular del sujeto obligado, quienes deberán cumplir con el perfil que acredite su idoneidad para el cargo;
 
 III. Promover la generación, documentación y publicación de la información en Formatos Abiertos y Accesibles;
 
@@ -431,9 +433,17 @@ XIV. Fomentar el uso de tecnologías de la información para garantizar la trans
 
 XV. Cumplir las resoluciones y recomendaciones del Instituto de Transparencia;
 
-XVI. Capacitar a su personal en materia de transparencia, acceso a la información pública y protección de datos personales, y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-XVII. Las demás que se deriven de la normatividad vigente.
+XVI. Capacitar a su personal en materia de transparencia, acceso a la información pública y protección de datos personales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XVII. Fomentar la capacitación continua del titular de la unidad de transparencia con el propósito de que desempeñe de manera eficiente el cargo asignado, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XVIII. Las demás que se deriven de la normatividad vigente.
 
 ###### ARTÍCULO 13.
 
@@ -459,7 +469,9 @@ Los fideicomisos y fondos públicos, considerados entidades paraestatales, deber
 
 Los sujetos obligados designarán, a través de sus respectivos titulares, dentro de su estructura administrativa y mediante acuerdo, al Titular de la Unidad de Transparencia, quien deberá depender directamente del titular del Sujeto Obligado que coordine las acciones para el cumplimiento de esta Ley.
 
-Las Unidades de Transparencia contarán además con el personal necesario para su funcionamiento.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Las Unidades de Transparencia contarán además con el personal necesario para su funcionamiento, quienes deberán cumplir con el perfil que acredite su idoneidad para el cargo.
 
 ###### ARTÍCULO 16.
 
@@ -2894,6 +2906,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 25 DE AGOSTO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 39 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES II, XVI Y XVII DEL ARTÍCULO 12, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 15 Y ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 12 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
