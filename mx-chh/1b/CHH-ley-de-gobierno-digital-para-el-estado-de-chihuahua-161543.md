@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-gobierno-digital-para-el-estado-de-chihuahua-161543"
 country: "mx"
 rank: "ley"
 publication_date: "2022-12-17"
-last_updated: "2022-12-24"
+last_updated: "2023-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY DE GOBIERNO DIGITAL PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE DICIEMBRE DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Folleto Anexo del Número 101 del Periódico Oficial del Estado de Chihuahua, el sábado 17 de diciembre de 2022.
 
@@ -141,7 +139,9 @@ VI. Consejo: Consejo de Gobierno Digital.
 
 VII. Conservación: Existencia permanente de los datos e información que, contenidos en un mensaje de datos o documento digital y asentados o intercambiados a través de portales transaccionales, aplicaciones móviles y ventanilla virtual, son susceptibles de reproducción.
 
-VIII. Coordinación: Coordinación de Política Digital, dependiente de la Secretaría de Coordinación de Gabinete.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VIII. Coordinación: Coordinación de Política Digital del Poder Ejecutivo del Estado.
 
 IX. CURP: Clave Única de Registro de Población.
 
@@ -221,9 +221,9 @@ XXXVI. Reglamento: Reglamento de la Ley de Gobierno Digital para el Estado de Ch
 
 XXXVII. RFC: Clave del Registro Federal de Contribuyentes, expedida por el Servicio de Administración Tributaria.
 
-XXXVIII. Secretaría: Secretaría de Coordinación de Gabinete.
+XXXVIII. (DEROGADA, P.O. 6 DE DICIEMBRE DE 2023)
 
-XXXIX. Secretaría Ejecutiva: Secretaría Ejecutiva del Consejo.
+XXXIX. (DEROGADA, P.O. 6 DE DICIEMBRE DE 2023)
 
 XL. Secretaría Técnica: Secretaría Técnica del Consejo.
 
@@ -241,9 +241,11 @@ XLVI. Titular: La persona a cuyo favor se expide un certificado de firma electr�
 
 XLVII. Ventanilla virtual: Sitio web donde se puede obtener información pública y se pueden llevar a cabo los trámites y servicios de los órganos del Estado en forma digital y automatizada.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 7.
 
-La interpretación administrativa de la presente Ley y las demás disposiciones que de ella emanen, así como la expedición de lineamientos, manuales de operación y demás instrumentos, estará a cargo de la Secretaría.
+La interpretación administrativa de la presente Ley y las demás disposiciones que de ella emanen, así como la expedición de lineamientos, manuales de operación y demás instrumentos, estará a cargo de la Coordinación.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LAS Y LOS PARTICULARES EN RELACIÓN CON EL GOBIERNO DIGITAL
 
@@ -283,7 +285,7 @@ El Consejo estará integrado por las personas titulares de:
 
 I. El Poder Ejecutivo, quien ocupará la Presidencia.
 
-II. La Secretaría, quien ocupará la Secretaría Ejecutiva.
+II. (DEROGADA, P.O. 6 DE DICIEMBRE DE 2023)
 
 III. La Coordinación, quien ocupará la Secretaría Técnica.
 
@@ -325,7 +327,9 @@ De cada sesión, la Secretaría Técnica levantará un acta en la cual se asenta
 
 Cada persona que integre el Consejo designará una suplente quien tendrá las mismas atribuciones y obligaciones de su titular. Las y los suplentes designados deberán ostentar un cargo inmediato inferior al de la persona titular.
 
-Quien presida el Consejo solo podrá suplirse por la persona que ocupe la Secretaría Ejecutiva del mismo. En este caso, quien ocupe la titularidad de la Secretaría Ejecutiva deberá nombrar a quien le sustituirá en el cargo, conforme a lo establecido en el párrafo anterior.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+La persona titular de la Presidencia del Consejo podrá ser suplida por la persona servidora pública que designe, quien asumirá las atribuciones establecidas para la Presidencia.
 
 La persona titular de la Presidencia del Consejo y de la Secretaría Técnica podrán invitar a las sesiones de dicho órgano, a especialistas en la materia de gobierno digital de los sectores público, privado, social y académico, quienes tendrán derecho a voz, pero no a voto.
 
@@ -399,19 +403,13 @@ VI. Suscribir, a nombre del Consejo, aquellos instrumentos de colaboración, coo
 
 VII. Las demás que le confiera esta Ley, su Reglamento y demás disposiciones, lineamientos e instrumentos emitidos por el Consejo.
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 #### SECCIÓN TERCERA. DE LAS ATRIBUCIONES DE LA SECRETARÍA EJECUTIVA
 
 ###### Artículo 15.
 
-La Secretaría Ejecutiva tendrá las siguientes atribuciones:
-
-I. En ausencia de la Presidencia propietaria, presidir las sesiones del Consejo.
-
-II. Dar seguimiento a las disposiciones y acuerdos del Consejo.
-
-III. Auxiliar a la Presidencia del Consejo en aquellos asuntos que esta le encomiende.
-
-IV. Las demás que le confiera la presente Ley, su Reglamento y las que provengan de acuerdos del Consejo.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2023)
 
 #### SECCIÓN CUARTA. DE LAS ATRIBUCIONES DE LA SECRETARÍA TÉCNICA DEL CONSEJO
 
@@ -419,7 +417,9 @@ IV. Las demás que le confiera la presente Ley, su Reglamento y las que provenga
 
 La Secretaría Técnica tendrá las siguientes atribuciones:
 
-I. Auxiliar a la Presidencia y a la Secretaría Ejecutiva del Consejo en aquellos asuntos que estas le encomienden.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+I. Auxiliar a la Presidencia del Consejo en aquellos asuntos que la persona titular de esta le encomiende.
 
 II. Presentar y rendir un informe de actividades ante el Consejo sobre el estado que guarda la implementación y operación de la política de gobierno digital en el Poder Ejecutivo, en la primera reunión ordinaria del año posterior inmediato.
 
@@ -2052,3 +2052,29 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los quince días del mes de diciembre del año dos mil veintidós.
 
 LA GOBERNADORA CONSTITUCIONAL DEL ESTADO. MTRA. MARÍA EUGENIA CAMPOS GALVÁN. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. CÉSAR GUSTAVO JÁUREGUI MORENO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFLEY/0658/2023 I P.O., POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL PODER EJECUTIVO (SIC) DEL ESTADO DE CHIHUAHUA, DE LA LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE GOBIERNO DIGITAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+TERCERO.- La persona titular del Poder Ejecutivo deberá expedir la reforma a los reglamentos interiores de las Secretarías afectadas por el presente Decreto, así como los reglamentos interiores de la Oficina de la Gubernatura del Estado, de la Consejería Jurídica del Ejecutivo del Estado y de la Coordinación de Política Digital, en un plazo no mayor a ciento veinte días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Las atribuciones con que cuentan las unidades administrativas que por virtud del presente Decreto pasarán a formar parte de otras dependencias, continuarán vigentes en términos de las leyes que les otorguen competencia y del Reglamento Interior de la Secretaría de Coordinación de Gabinete, hasta en tanto sean emitidos o reformados los reglamentos interiores de las dependencias a que se refiere este Decreto, conforme a lo dispuesto en el párrafo anterior.
+
+CUARTO.- Las personas servidoras públicas que en cumplimiento de este Decreto pasen a otra dependencia, en ninguna forma resultarán afectadas en los derechos que hayan adquirido en virtud de su relación laboral con la Administración Pública Estatal.
+
+QUINTO.- El cambio de una atribución legal de una dependencia a otra se realizará incluyendo al personal a su servicio, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, todos los recursos materiales y financieros que correspondan. La Secretaría de Hacienda dispondrá lo conducente para esta transición de recursos.
+
+SEXTO.- Se faculta al Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, para realizar las transferencias y ajustes presupuestales necesarios para la continuidad en el funcionamiento y operación de las unidades administrativas de la Secretaría de Coordinación de Gabinete que, en virtud de este Decreto, se transfieren a otras secretarías, a la Oficina de la Gubernatura del Estado, a la Consejería Jurídica del Ejecutivo del Estado y a la Coordinación de Política Digital.
+
+SÉPTIMO.- Las menciones que en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas, se hagan a la Secretaría de Coordinación de Gabinete, se entenderán referidas a la Consejería Jurídica del Ejecutivo del Estado, a la Oficina de la Gubernatura del Estado, a la Secretaría General de Gobierno, a la Secretaría de Desarrollo Humano y Bien Común o a la Coordinación de Política Digital, según corresponda, de acuerdo con la distribución de competencias que se realiza en el presente Decreto.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Secretaría de Coordinación de Gabinete en cualesquiera contratos, convenios, acuerdos o instrumentos jurídicos similares, serán asumidos por la Secretaría que corresponda, la Oficina de la Gubernatura del Estado, la Consejería Jurídica del Ejecutivo del Estado o la Coordinación de Política Digital, en los términos del párrafo anterior.
+
+OCTAVO.- Los nombramientos expedidos con anterioridad a la entrada en vigor del presente Decreto, subsistirán y seguirán surtiendo sus efectos conforme a la normatividad vigente al momento de su expedición, hasta en tanto sean emitidos o reformados los reglamentos interiores de las dependencias a que se refiere este Decreto, en cuyo caso deberán emitirse los nuevos nombramientos.
