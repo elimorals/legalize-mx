@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12179
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-02"
-last_updated: "2023-10-24"
+last_updated: "2023-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Anexo al Extraordinario del Periódico Oficial del Estado de Tamaulipas, el viernes 2 de junio de 2017.
 
@@ -1069,19 +1069,21 @@ Durante el ejercicio de su encargo no podrá formar parte de ningún partido pol
 
 El Auditor podrá ser removido por el Congreso por las causas graves a que se refiere esta ley, con la misma votación requerida para su nombramiento, así como por las causas y conforme a los procedimientos previstos en el Título XI de la Constitución. Si esta situación se presenta estando en receso el Congreso, la Comisión Permanente podrá convocar a un período extraordinario para que resuelva en torno a dicha remoción.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 88.
 
-En cualquier caso que se genere la vacante, el Congreso deberá realizar las acciones necesarias y pertinentes de forma inmediata para llevar a cabo la designación correspondiente.
+Ciento veinte días antes de que concluya el periodo para el que fue designado el Auditor, la Comisión dará cuenta al Congreso para que éste realice las acciones necesarias y pertinentes, a fin de llevar a cabo la designación correspondiente a más tardar sesenta días antes del término del mismo.
 
-De no obtenerse la votación requerida para la designación del Auditor, la Junta de Gobierno podrá designar de manera provisional a un Auditor Interino, quien tendrá las mismas facultades y obligaciones conferidas al Auditor, y que ocupará el cargo hasta en tanto se realice la designación correspondiente por al menos las dos terceras partes de los miembros presentes del Congreso.
+En cualquier caso que se genere la vacante antes de que termine el periodo para el que fue designado el Auditor, la Comisión, al día siguiente hábil del que tenga conocimiento, dará cuenta al Congreso para que designe a quien ocupará la titularidad de la Auditoría.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2023)</small>
+(NOTA: EL 12 DE MAYO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 232/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 13 DE MAYO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 89.
 
-La Comisión, al generarse la vacante, a la brevedad, dará cuenta al Congreso para que designe a quien ocupará la titularidad de la Auditoría en los términos señalados en el artículo anterior y las leyes en la materia.
+De no obtenerse la votación requerida para la designación del Auditor, la Junta de Gobierno podrá designar de manera provisional a un Auditor Interino, quien tendrá las mismas facultades y obligaciones conferidas al Auditor, y será el titular hasta en tanto se realice la designación correspondiente por al menos las dos terceras partes de los miembros presentes del Congreso.
 
 ###### Artículo 90.
 
@@ -1310,3 +1312,15 @@ En un término de 15 días naturales, la Auditoría Superior del Estado, deberá
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-776 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 88 Y 89 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por única ocasión, posterior a la entrada en vigor del presente Decreto, la Presidencia de la Junta de Gobierno deberá proponer, lo más pronto posible al órgano de dirección política, sin previo aviso de la Comisión, el Acuerdo para presentar la acción legislativa mediante la cual se realiza la propuesta de una nueva persona titular de la Auditoría Superior del Estado.
