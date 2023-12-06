@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-judicial-del-estado-de-tabasco-114915"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-28"
-last_updated: "2020-09-25"
+last_updated: "2023-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Suplemento “B” del Periódico Oficial del Estado de Tabasco, el sábado 28 de mayo de 2016.
 
@@ -89,7 +89,7 @@ d) Penales;
 
 e) Especializados en justicia para adolescentes;
 
-f) Mixtos;
+f) (DEROGADO, P.O. 6 DE DICIEMBRE DE 2023)
 
 g) De control;
 
@@ -97,13 +97,17 @@ g) De control;
 
 h) De enjuiciamiento;
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-i) De ejecución; y
+i) De ejecución;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-j) Laborales.
+j) Laborales; y
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+k) De justicia terapéutica.
 
 ###### Artículo 3.
 
@@ -173,11 +177,11 @@ Los auxiliares de la Administración de Justicia están obligados a cumplir con 
 
 ### CAPÍTULO I. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 10.
 
-El Tribunal Superior de Justicia del Estado se integra por veintiún Magistrados y funcionará en Pleno o en Salas; y en el Sistema Procesal Penal Acusatorio y Oral, en forma Colegiada o Unitaria.
+El Tribunal Superior de Justicia del Estado se integra por veinticuatro Magistrados y funcionará en Pleno o en Salas; y en el Sistema Procesal Penal Acusatorio y Oral, en forma Colegiada o Unitaria.
 
 > <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 7 DE AGOSTO DE 2019)</small>
 
@@ -195,9 +199,21 @@ V. Colaborar en el cumplimiento de las atribuciones internas y funciones que le 
 
 VI. Contribuir al servicio de las áreas de la Presidencia para concretar y optimizar las acciones internas entre los órganos y áreas del Poder Judicial;
 
-VII. Coadyuvar en la atención y coordinación de la agenda del Presidente del Tribunal; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-VIII. Las demás que determine el Presidente del Tribunal.
+VII. Coadyuvar en la atención y coordinación de la agenda del Presidente del Tribunal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VIII. Ejecutar las visitas de supervisión que le ordene el Pleno del Tribunal, en los términos establecidos en la fracción XXV del artículo 16 de esta Ley, a cualquiera de las Salas, a los Magistrados integrantes de las mismas, así como a los servidores públicos adscritos a la Secretaría General de Acuerdos y las Salas;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IX. Rendir los informes correspondientes en los juicios de amparo y demás procedimientos jurisdiccionales promovidos contra las determinaciones del Pleno del Tribunal, en los términos establecidos en el artículo 9 de la Ley de Amparo; sin perjuicio de las facultades y obligaciones establecidas para el Presidente, en el artículo 21, fracción XII de esta Ley; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+X. Las demás que determine el Presidente del Tribunal o los Acuerdos Generales del Pleno del Tribunal.
 
 (REPUBLICADO, P.O. 7 DE AGOSTO DE 2019)
 
@@ -207,9 +223,15 @@ El número de Magistrados podrá aumentarse o disminuirse conforme a las necesid
 
 Los Magistrados interinos o suplentes, que por necesidad de la administración de justicia sean designados por el Pleno del Tribunal o por el Congreso del Estado, según corresponda, durarán en su encargo únicamente por el tiempo que dure la causa que lo originó, sin que pueda exceder de los plazos previstos por la ley para el caso respectivo, por lo que su naturaleza es eventual.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 11.
 
-Para ser Magistrado deberán satisfacerse los requisitos que señala el artículo 57 de la Constitución del Estado.
+Para ser Magistrado deberán satisfacerse además de los requisitos que señala el artículo 57 de la Constitución del Estado, los siguientes:
+
+I. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y
+
+II. No haber sido declarada como persona deudora alimentaria morosa; salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
@@ -229,17 +251,19 @@ El Tribunal también funcionará en Pleno o en Salas colegiadas y unitarias para
 
 Las decisiones del Pleno serán tomadas por unanimidad o por mayoría de votos de los Magistrados presentes; en caso de empate, tendrá voto de calidad el Presidente del Tribunal.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 15.
 
-El Pleno del Tribunal Superior de Justicia se integra por su Presidente y los Magistrados de las Salas.
+El Pleno del Tribunal Superior de Justicia se integra por su Presidente, los Magistrados de las Salas y el Magistrado comisionado a la Presidencia.
 
 ###### Artículo 16.
 
 El Pleno del Tribunal tendrá las facultades siguientes:
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-I. Conocer, en el ámbito de su competencia, de los juicios políticos, en los términos de los artículos 67 y 68 de la Constitución del Estado; los aplicables de la Ley de Responsabilidades de los Servidores Públicos, Reglamentaria de los artículos 68 y 69, del Título VII, de la Constitución Política del Estado de Tabasco;
+I. Conocer, en el ámbito de su competencia, de los juicios políticos, en los términos de los artículos 67 y 68 de la Constitución del Estado; los aplicables de la Ley de Responsabilidad Administrativa de los Servidores Públicos, Reglamentaria del artículo 68, del Título VII, de la Constitución Política del Estado Libre y Soberano de Tabasco;
 
 II. Elegir a su Presidente;
 
@@ -247,7 +271,9 @@ III. Señalar la adscripción de los Magistrados que deban integrar cada una de 
 
 IV. Nombrar a los Magistrados Interinos; asimismo, a propuesta del Magistrado Presidente, designar al personal que se adscriba a las áreas del propio Tribunal y de las que se encuentren bajo la subordinación jerárquica del Magistrado Presidente;
 
-V. Designar por el voto de la mayoría absoluta de sus integrantes, al Magistrado y al Juez de Primera Instancia, que deban integrar el Consejo de la Judicatura, de conformidad con el artículo 55 BIS, segundo párrafo, de la Constitución del Estado;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+V. Designar por el voto de la mayoría absoluta de sus integrantes, al Magistrado y al Juez, que deban integrar el Consejo de la Judicatura, de conformidad con el artículo 55 BIS, segundo párrafo, de la Constitución del Estado;
 
 VI. Calificar las excusas, recusaciones e impedimentos de los Magistrados;
 
@@ -301,7 +327,9 @@ XXIII. Conocer de los asuntos cuya resolución no esté expresamente atribuido a
 
 XXIV. Expedir el Reglamento del Tribunal Superior de Justicia, que regule las funciones, atribuciones y responsabilidades de los integrantes del Pleno, de sus Salas, de los adscritos a la Presidencia del Tribunal y demás personal a su cargo;
 
-XXV. Ordenar cuando así lo considere conveniente o tenga conocimiento de alguna posible irregularidad, visitas de supervisión a cualquiera de las Salas o de los Magistrados integrantes de las mismas, así como a los servidores públicos adscritos a la Secretaría General de Acuerdos y las Salas, con la finalidad de vigilar que se cumplan las tareas de su competencia; visitas que podrán ejecutarse por el Magistrado que al efecto se designe, quien se auxiliará, de ser necesario, de la Visitaduría Judicial, de la Dirección de Contraloría Judicial, o de cualquier otra área competente;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XXV. Ordenar cuando así lo considere conveniente o tenga conocimiento de alguna posible irregularidad, visitas de supervisión a cualquiera de las Salas o de los Magistrados integrantes de las mismas, así como a los servidores públicos adscritos a la Secretaría General de Acuerdos y las de las Salas, con la finalidad de vigilar que se cumplan las tareas de su competencia; visitas que podrán ejecutarse por el Magistrado comisionado a la Presidencia o por aquel que al efecto se designe, quien se auxiliará, de ser necesario, de la Visitaduría Judicial, de la Dirección de Contraloría Judicial, o de cualquier otra área competente;
 
 XXVI. Expedir los ordenamientos legales, acuerdos generales, Código de Ética y demás normas administrativas que sean necesarias para el cumplimiento de sus fines y atribuciones. Cuando considere que pudieren resultar de interés general, podrá ordenar su publicación en el Periódico Oficial del Estado;
 
@@ -329,13 +357,17 @@ XXXIV. Conocer y resolver, en única instancia, sobre el recurso que se presente
 
 XXXV. Resolver sobre los conflictos de competencia a que se refiere la fracción I del artículo 705 Bis de la Ley Federal del Trabajo;
 
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-XXXVI. Resolver la recusación a que se refiere el artículo 709-A de la Ley Federal del Trabajo conforme al procedimiento establecido en dicho ordenamiento; y
+XXXVI. Resolver la recusación a que se refiere el artículo 709-A de la Ley Federal del Trabajo conforme al procedimiento establecido en dicho ordenamiento;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE MARZO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-XXXVII. Las demás que le confiera la presente Ley, las leyes en la materia y el Reglamento Interior.
+XXXVII. Autorizar al Magistrado comisionado a la Presidencia, a rendir, en términos del artículo 9 de la Ley de Amparo, los informes correspondientes en los juicios de amparo y demás procedimientos jurisdiccionales promovidos contra las determinaciones del Pleno del Tribunal; sin perjuicio de las facultades y obligaciones establecidas para el Presidente en el artículo 21, fracción XII de esta Ley; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XXXVIII. Las demás que le confiera la presente Ley, las leyes en la materia, el Reglamento Interior y los Acuerdos Generales.
 
 ###### Artículo 17.
 
@@ -413,9 +445,17 @@ XXII. Delegar, cuando así lo considere necesario, las funciones de celebración
 
 XXIII. Presentar, al Congreso del Estado, las iniciativas de leyes en el ámbito de la impartición de justicia en el Poder Judicial del Estado;
 
-XXIV. Proponer al Pleno del Tribunal el diseño y uso de los sellos y papelería oficial del mismo; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-XXV. Las demás contenidas en el presente ordenamiento y las que le confieran las leyes y el Reglamento Interior.
+XXIV. Proponer al Pleno del Tribunal el diseño y uso de los sellos y papelería oficial del mismo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XXV. Ejercer por sí o por el apoderado correspondiente, la representatividad laboral a que se refiere la fracción III del artículo 7 de la Ley de los Trabajadores al Servicio del Estado de Tabasco; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XXVI. Las demás contenidas en el presente ordenamiento y las que le confieran las leyes, el Reglamento Interior y los Acuerdos Generales del Pleno del Tribunal.
 
 ###### Artículo 22.
 
@@ -431,13 +471,25 @@ IV. Dirección Jurídica;
 
 V. Dirección de Comunicación Social;
 
-VI. Centro de Estadística, Informática y Computación;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-VII. Comisión Editorial; y,
+VI. Dirección de Tecnologías de la Información y Comunicaciones;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-VIII. Unidad de Igualdad de Género y Derechos Humanos.
+VII. Comisión Editorial;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VIII. Unidad de Igualdad de Género y Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IX. Unidad de Servicios Psicológicos; y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+X. Unidad de Peritos Judiciales en Materia Laboral.
 
 Asimismo, dispondrá del número de empleados que sean necesarios para el despacho de los asuntos de su competencia.
 
@@ -465,9 +517,9 @@ Las Salas colegiadas estarán presididas por uno de sus Magistrados designado po
 
 Todas las Salas tendrán jurisdicción mixta para conocer de aquellos asuntos en que se excusen o sean recusados todos los Magistrados de las Salas de una misma materia.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-Los recursos que procedan contra resoluciones del Tribunal de Enjuiciamiento, de Jueces de Control o de Ejecución, serán resueltos por el Tribunal de Alzada que corresponda. El recurso de apelación de la sentencia deberá ser conocido por Magistrados que no hubieren intervenido en el mismo asunto en etapas anteriores y habrán de integrarse de manera unitaria o colegiada, según se haya resuelto en primera instancia de acuerdo a la regla que establece el párrafo tercero del artículo 68 de esta ley.
+Los recursos que procedan contra resoluciones del Tribunal de Enjuiciamiento, de Jueces de Control o de Ejecución, serán resueltos por el Tribunal de Alzada que corresponda. El recurso de apelación de la sentencia deberá ser conocido por Magistrados que no hubieren intervenido en el mismo asunto en etapas anteriores y habrán de integrarse de manera unitaria o colegiada, según corresponda.
 
 ###### Artículo 25.
 
@@ -485,7 +537,13 @@ V. Rendir al Pleno del Tribunal un informe semestral de las actividades desarrol
 
 VI. Dar cuenta al Pleno con una recopilación de los criterios sobresalientes sustentados por la Sala;
 
-VII. Las demás que le encomienden las leyes y que no sean competencia del Presidente del Tribunal.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VII. Levantar actas al personal cuando este incurra en alguna falta oficial; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VIII. Las demás que le encomienden las leyes, y que no sean competencia del Presidente del Tribunal, así como las que determinen los Acuerdos Generales.
 
 ###### Artículo 26.
 
@@ -501,9 +559,17 @@ II. De la revisión de oficio en materia civil ordenadas por las leyes;
 
 III. De los asuntos de amparo que se promuevan contra las resoluciones dictadas por la Sala;
 
-IV. De las excusas, recusaciones, incompetencias, quejas o impedimentos de los Jueces y Secretarios de Acuerdos de la Sala de su competencia; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-V. De los demás asuntos que le señalan las leyes.
+IV. De las excusas, recusaciones, incompetencias, quejas o impedimentos de los Jueces y Secretarios de Acuerdos de la Sala de su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+V. De las incompetencias en materia mercantil; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VI. De los demás asuntos que le señalan las leyes y los Acuerdos Generales del Pleno del Tribunal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2019)</small>
 
@@ -513,9 +579,9 @@ Corresponde a las Salas Penales conocer:
 
 I. De las apelaciones, casaciones y denegadas apelaciones, incluyéndose las determinaciones relativas a incidentes civiles que surjan en los procesos respectivos;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-II. De las excusas, recusaciones, incompetencias, quejas o impedimentos de los Jueces y Secretarios de Acuerdos de la Sala de su competencia;
+II. De las excusas, recusaciones, incompetencias, quejas o impedimentos de los Jueces y Secretarios de Acuerdos de la Sala de su competencia; así como de las excusas y recusaciones de los Magistrados que conocen del Sistema Procesal Penal Acusatorio y Oral, en los términos establecidos en el artículo 41 del Código Nacional de Procedimientos Penales;
 
 > <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
 
@@ -525,13 +591,11 @@ IV. De la revisión extraordinaria de sentencia; y,
 
 V. De los demás asuntos que le señalen las leyes.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-En lo conducente de las fracciones que preceden, se deberá de resolver en forma colegiada cuando el asunto provenga de un Tribunal de Enjuiciamiento Colegiado o de un Juez del Sistema Mixto Tradicional, y de manera unitaria cuando el asunto emane de un Juez de Control, de Ejecución, de Justicia para Adolescentes o de un Tribunal de Enjuiciamiento Unitario.
+En lo conducente de las fracciones que preceden, se deberá resolver en forma colegiada cuando el asunto provenga de un Juez del Sistema Mixto Tradicional o de un Tribunal de Enjuiciamiento que haya conocido de alguno de los delitos contemplados en el artículo 19 de la Constitución Federal, los remitidos expresamente por dicho precepto y aquellos que establece el artículo 167 del Código Nacional de Procedimientos Penales, independientemente del tipo de medida cautelar que se determine. En los demás casos conocerán de manera unitaria.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
-
-Asimismo, será competencia de la Primera Sala de lo Penal, fungir como tribunal de enjuiciamiento; y del tribunal compuesto por los tres magistrados presidentes de las Salas Segunda, Tercera y Cuarta de la misma materia, conocer de juicios en los que se impute la comisión de cualquiera de los delitos establecidos en el Título Segundo del Código Penal para el Estado de Tabasco, denominado Delitos contra el Erario y el Servicio Públicos, por hechos de Corrupción; en este caso el juez de control de mayor antigüedad con sede en la capital del Estado será competente para sustanciar la etapa inicial del proceso.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 29.
 
@@ -547,13 +611,19 @@ Corresponde a la Sala Especial Constitucional, conocer, en los términos que se�
 
 Cada Magistrado contará con los Secretarios de Estudio y Cuenta y Auxiliares que la administración de justicia requiera y el presupuesto lo permita. Asimismo, tendrá adscrito el personal de apoyo señalado por el Reglamento.
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+El Magistrado estará facultado para levantar actas al personal, cuando este incurra en alguna falta oficial.
+
 ###### Artículo 32.
 
 Cada Sala tramitará los asuntos de su competencia hasta su total conclusión, para lo cual contará con un Secretario de Acuerdos de Sala y el personal que el Pleno determine.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 33.
 
-Por motivos extraordinarios podrán crearse nuevas Salas, con las funciones y atribuciones que el Pleno del Tribunal determine.
+Por necesidad del servicio y motivos extraordinarios podrán crearse nuevas Salas, con las funciones y atribuciones que el Pleno del Tribunal determine.
 
 ###### Artículo 34.
 
@@ -563,33 +633,45 @@ Dicha sección tendrá las coordinaciones que la Presidencia establezca, atendie
 
 Dicho personal será autorizado por el Pleno del Tribunal, a propuesta de la Presidencia o de los integrantes de las Salas.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 35.
 
-El Comité de Compilación, Sistematización y Publicación de Criterios aislados y Criterios Jurisprudenciales Locales, es un órgano auxiliar del Pleno del Tribunal; órgano quien cuidará que, mediante la creación de tesis aisladas y de jurisprudencias locales, se unifiquen criterios diversos en las Salas de apelación, para evitar se incurra en decisiones contradictorias; además de las actividades que le encomiende la Presidencia del Poder Judicial. Para tales efectos el Comité dará cuenta al Pleno para que determine qué criterio prevalecerá.
+El Comité de Compilación, Sistematización y Publicación de Criterios aislados y Criterios Jurisprudenciales Locales, es un órgano auxiliar del Pleno del Tribunal, que tendrá las funciones siguientes:
 
-El Comité estará integrado por dos Coordinadores y será presidido por uno de ellos, designado anualmente por la Presidencia del Tribunal, todo ello para los efectos legales que procedan y de acuerdo con sus respectivas facultades.
+I. Cuidar que, mediante la creación de tesis aisladas y de jurisprudencias locales, se unifiquen criterios diversos en las Salas de apelación, para evitar se incurra en decisiones contradictorias; para tales efectos el Comité dará cuenta al Pleno para que determine qué criterio prevalecerá;
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+II. Sistematizar los criterios y la jurisprudencia emitida por la Sala Especial Constitucional; y
 
-Para ser Coordinador deberán satisfacerse los mismos requisitos que para ser Juez de Primera Instancia.
+III. Las demás que le encomiende el Pleno y la Presidencia del Tribunal.
 
-Los coordinadores deberán ser designados por el Pleno del Tribunal a propuesta de su Presidente.
+El Comité estará integrado por un Coordinador designado por el Pleno del Tribunal a propuesta de su Presidente y por el personal que el presupuesto determine.
 
-Para dar cumplimiento a lo anterior, el Comité se coordinará con el Centro de Información y Documentación Jurídica, así como con el Centro de Estadística, Informática y Computación, para digitalizar en medios electrónicos la información y hacerla del conocimiento de los distintos órganos jurisdiccionales y del público en general.
+Para ser Coordinador deberán satisfacerse los mismos requisitos que para ser Juez.
+
+Para el cumplimiento de sus funciones, el Comité se coordinará con el Centro de Información y Documentación Jurídica, así como con la Dirección de Tecnologías de la Información y Comunicaciones, para digitalizar en medios electrónicos la información y hacerla del conocimiento de los distintos órganos jurisdiccionales y del público en general.
 
 ### CAPÍTULO V. DEL PERSONAL JUDICIAL DE SEGUNDA INSTANCIA
 
 #### SECCIÓN TERCERA
 
-DE LOS ACTUARIOS DE SALA.
+DE LOS ACTUARIOS O NOTIFICADORES DE SALA.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 36.
 
 Para el despacho de los asuntos del Pleno y de la Presidencia del Tribunal se contará con un Secretario General de Acuerdos que estará apoyado por el personal que el presupuesto determine.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 37.
 
-Para ser Secretario General de Acuerdos deberán satisfacerse los requisitos que establece el artículo 57 de la Constitución del Estado.
+Para ser Secretario General de Acuerdos deberán satisfacerse además de los requisitos que establece el artículo 57 de la Constitución del Estado, los siguientes:
+
+I. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y
+
+II. No haber sido declarada como persona deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente.
 
 ###### Artículo 38.
 
@@ -611,11 +693,21 @@ VII. Procurar el orden y la disciplina del personal de la Secretaría General;
 
 VIII. Llevar el registro y cotejar los datos del título y cédula profesional de los licenciados en derecho, que ejerzan la profesión en el Estado, con las copias que exhiban los solicitantes;
 
-IX. Mantener actualizado su expediente personal; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-X. Atender las observaciones que los Magistrados realicen en los asuntos de su competencia, en los términos que establezca el Reglamento Interior.
+IX. Mantener actualizado su expediente personal;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+X. Atender las observaciones que los Magistrados realicen en los asuntos de su competencia, en los términos que establezca el Reglamento Interior; y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XI. Las demás que le asigne el Pleno del Tribunal o el Presidente para las funciones propias a su encomienda.
 
 #### SECCIÓN PRIMERA. DE LOS PROYECTISTAS, CONCILIADORES y SECRETARIOS JUDICIALES
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 39.
 
@@ -633,13 +725,23 @@ V. No haber sido condenado por delitos intencionales;
 
 VI. No estar mentalmente impedido para el ejercicio de su cargo;
 
-VII. No ser ministro de algún culto religioso; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-VIII. Cumplir con los demás requisitos que para su designación señale el Consejo de la Judicatura.
+VII. No ser ministro de algún culto religioso;
 
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-En materia penal, se deberá contar además, con los conocimientos necesarios en el Nuevo Sistema Procesal Penal Acusatorio y Oral.
+VIII. Cumplir con los demás requisitos que para su designación señale el Pleno del Tribunal;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IX. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+X. No haber sido declarada como persona deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 40.
 
@@ -653,9 +755,21 @@ III. Apoyar al Magistrado en las actividades que directamente les encomiende;
 
 IV. Actualizarse en los criterios jurídicos y de interpretación que correspondan;
 
-V. Mantener actualizado su expediente personal; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-VI. Las demás que determine la normatividad aplicable.
+V. Mantener actualizado su expediente personal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VI. Elaborar las versiones públicas de las resoluciones, en los términos establecidos en las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VII. Desempeñar sus labores con profesionalismo, ética y calidad en el servicio; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VIII. Las que directamente le encomiende el Magistrado, relacionadas con la gestión de los asuntos en el orden administrativo, jurisdiccional e interinstitucional, así como aquellas que determine la normatividad aplicable o los Acuerdos Generales del Pleno del Tribunal.
 
 ###### Artículo 41.
 
@@ -693,11 +807,21 @@ XIII. Llevar y conservar los libros de gobierno y de registro que correspondan;
 
 XIV. Mantener actualizado su expediente personal;
 
-> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-XV. Realizar las funciones equivalentes del Nuevo Sistema de Justicia Penal Acusatorio y Oral establecidas en los artículos 77, 78 y 80 de la presente Ley; y,
+XV. Realizar las funciones equivalentes del Sistema de Justicia Penal Acusatorio y Oral establecidas en los artículos 77 y 80 de la presente Ley;
 
-XVI. Las demás que determine la normatividad aplicable.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XVI. Elaborar las versiones públicas de las resoluciones, en los términos establecidos en las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XVII. Desempeñar sus labores con profesionalismo, ética y calidad en el servicio; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XVIII. Las que directamente le encomienden los integrantes de la Sala, relacionadas con la gestión de los asuntos en el orden administrativo, jurisdiccional e interinstitucional, así como aquellas que determine la normatividad aplicable o los Acuerdos Generales del Pleno del Tribunal.
 
 ###### Artículo 42.
 
@@ -711,15 +835,29 @@ III. Auxiliar al Magistrado en las actividades que directamente les encomiende;
 
 IV. Actualizarse en los criterios jurídicos y de interpretación que correspondan;
 
-V. Mantener actualizado su expediente personal; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-VI. Las demás que determine la normatividad aplicable.
+V. Mantener actualizado su expediente personal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VI. Elaborar las versiones públicas de las resoluciones, en los términos establecidos en las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VII. Desempeñar sus labores con profesionalismo, ética y calidad en el servicio; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VIII. Las que directamente le encomiende el Magistrado, relacionadas con la gestión de los asuntos en el orden administrativo, jurisdiccional e interinstitucional, así como aquellas que determine la normatividad aplicable o los Acuerdos Generales del Pleno del Tribunal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 #### SECCIÓN SEGUNDA. DE LA CENTRAL DE ACTUARIOS JUDICIALES
 
 ###### Artículo 43.
 
-Para ser Actuario del Tribunal Superior de Justicia se requiere:
+Para ser Actuario o Notificador del Tribunal Superior de Justicia se requiere:
 
 I. Ser ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
 
@@ -733,13 +871,27 @@ V. Contar con título de Licenciado en Derecho o carta de pasante;
 
 Una vez concluida su carrera, contará con un plazo improrrogable de dieciocho meses calendario para obtener su cédula profesional respectiva, en el entendido que de no hacerlo, quedará sin efectos su nombramiento.
 
-VI. No ser ministro de algún culto religioso; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-VII. Cumplir con los demás requisitos que para su designación señale el Consejo de la Judicatura.
+VI. No ser ministro de algún culto religioso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VII. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VIII. No haber sido declarada como persona deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IX. Cumplir con los demás requisitos que para su designación señale el Pleno del Tribunal y los Acuerdos Generales que este emita.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 44.
 
-Son obligaciones de los Actuarios del Tribunal:
+Son obligaciones de los Actuarios o Notificadores del Tribunal:
 
 > <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
 
@@ -747,9 +899,17 @@ I. Notificar, citar o emplazar según el caso y llevar a efecto todas las dilige
 
 II. Rendir en forma oportuna y eficaz, los datos estadísticos relativos a sus funciones;
 
-III. Mantener actualizado su expediente personal; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-IV. Las demás que determine la normatividad aplicable.
+III. Mantener actualizado su expediente personal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IV. Desempeñar sus labores con profesionalismo, ética y calidad en el servicio; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+V. Las demás que determine la normatividad aplicable y los Acuerdos Generales del Pleno del Tribunal.
 
 ## TÍTULO TERCERO. DE LA ADMINISTRACIÓN DE JUSTICIA EN PRIMERA INSTANCIA
 
@@ -777,9 +937,21 @@ VI. No haber sido condenado por delitos intencionales;
 
 VII. No estar mentalmente impedido para el ejercicio de su cargo;
 
-VIII. No ser Ministro de algún culto religioso; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-IX. Cumplir con los demás requisitos que para su designación señale el Consejo de la Judicatura.
+VIII. No ser ministro de algún culto religioso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IX. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+X. No haber sido declarada como persona deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XI. Cumplir con los demás requisitos que para su designación señale el Consejo de la Judicatura.
 
 ###### Artículo 47.
 
@@ -807,19 +979,27 @@ Los Juzgados de lo Familiar conocerán:
 
 I. De los procedimientos judiciales no contenciosos;
 
-II. De los juicios contenciosos relativos al matrimonio, a la ilicitud o nulidad del matrimonio y al divorcio, incluyendo los que se refieren al régimen de bienes en el matrimonio; de los que afecten al parentesco, a los alimentos, a la paternidad y a la filiación legítima natural o adoptiva; de los que tengan por objeto cuestiones derivadas de la patria potestad, estado de interdicción y tutela y las cuestiones de ausencias y de presunción de muerte; de los que se refieren a cualquier cuestión relacionada con el patrimonio de familia como su constitución, disminución, extinción o afectación en cualquier forma;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+II. De los juicios contenciosos relativos al matrimonio, a la ilicitud o nulidad del matrimonio y al divorcio, incluyendo los que se refieren al régimen de bienes en el matrimonio; de los que afecten al parentesco, a los alimentos, a la paternidad y a la filiación legítima natural o adoptiva; de los que tengan por objeto cuestiones derivadas de la patria potestad, tutela y las cuestiones de ausencias y de presunción de muerte; de los que se refieren a cualquier cuestión relacionada con el patrimonio de familia como su constitución, disminución, extinción o afectación en cualquier forma;
 
 III. De los juicios sucesorios;
 
-IV. De los asuntos concernientes a otras acciones relativas al estado civil, a la capacidad de las personas y a las derivadas del parentesco; con excepción de las relacionadas a la rectificación y al registro extemporáneo de las actas del estado civil;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IV. De los asuntos concernientes a otras acciones relativas al estado civil, a la capacidad de las personas y a las derivadas del parentesco; las relacionadas a la rectificación y al registro extemporáneo de las actas del estado civil;
 
 V. De las diligencias de consignación de todo lo relativo al derecho familiar, en su cuantía;
 
 VI. De la diligenciación de exhortos, cartas rogatorias, requisitorias o despachos;
 
-VII. De las cuestiones relativas a los asuntos que afecten en sus derechos de persona, a los menores e incapacitados; así como en general todas las cuestiones familiares que reclamen la intervención judicial; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-VIII. De los demás asuntos que les encomienden las leyes.
+VII. De las cuestiones relativas a los asuntos que afecten en sus derechos de persona, a los menores de edad e incapacitados, así como en general todas las cuestiones familiares que reclamen la intervención judicial; y
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VIII. De los demás asuntos que les encomienden las leyes, el Reglamento y los Acuerdos Generales.
 
 ###### Artículo 49.
 
@@ -851,11 +1031,7 @@ Los Juzgados de Ejecución en Materia de Adolescentes, conocerán de la ejecuci�
 
 ###### Artículo 52.
 
-Los Juzgados Mixtos conocerán:
-
-I. Indistintamente de asuntos civiles, familiares, extinción de dominio, materia concurrente, penales; y,
-
-II. De los demás asuntos que les encomienden las leyes.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2023)
 
 ###### Artículo 53.
 
@@ -867,7 +1043,9 @@ II. Ordenar que se remitan oportunamente al archivo judicial del Estado los expe
 
 III. Cumplir y hacer cumplir, sin demora y con estricto apego a la ley, sus propias determinaciones, las del Tribunal Superior de Justicia y la de las Autoridades Judiciales de la Federación;
 
-IV. Dar aviso inmediato al Tribunal Superior de Justicia de los inicios y terminación de los expedientes y causas, según sea el caso, y rendir dentro de los cinco primeros días de cada mes los datos estadísticos que le impongan las leyes;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IV. Dar aviso inmediato al Tribunal Superior de Justicia de los inicios y terminación de los expedientes y causas, según sea el caso; rendir dentro de los cinco primeros días de cada mes los datos estadísticos que le impongan las leyes, así como realizar dentro de ese plazo las autovisitas relacionadas con el trámite de los expedientes;
 
 V. Vigilar la asistencia y comportamiento de Servidores Públicos del Juzgado;
 
@@ -893,9 +1071,17 @@ XIII. Cumplir y hacer cumplir los reglamentos;
 
 XIV. Cumplir y acatar las disposiciones de carácter administrativo que emita el Pleno del Tribunal, su Presidente o el Consejo de la Judicatura;
 
-XV. Mantener actualizado su expediente personal; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-XVI. Las demás que les imponga la Ley.
+XV. Mantener actualizado su expediente personal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XVI. Presidir las audiencias, cuidar el orden y respeto de las mismas y dirigir los debates que en ellas se susciten; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XVII. Las demás que les imponga la Ley, el Reglamento, así como los Acuerdos Generales de los Plenos del Tribunal y del Consejo de la Judicatura.
 
 ###### Artículo 54.
 
@@ -927,7 +1113,7 @@ Para el despacho de los asuntos de su competencia, cada juzgado contará con el 
 
 ###### Artículo 59.
 
-Para ser Proyectista, Conciliador y Secretario Judicial, se requieren los mismos requisitos que se señalan en el artículo 39 de esta Ley.
+Para ser Proyectista, Conciliador y Secretario Judicial, se requieren, en lo aplicable, los mismos requisitos que se señalan en el artículo 39 de esta Ley.
 
 ###### Artículo 60.
 
@@ -941,9 +1127,21 @@ III. Apoyar al juez en las actividades que directamente les encomiende;
 
 IV. Actualizarse en los criterios jurídicos y de interpretación que correspondan;
 
-V. Mantener actualizado su expediente personal; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-VI. Las demás que determine la normatividad aplicable.
+V. Mantener actualizado su expediente personal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VI. Elaborar las versiones públicas de las resoluciones, en los términos establecidos en las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VII. Desempeñar sus labores con profesionalismo, ética y calidad en el servicio; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VIII. Las que directamente le encomiende el Juez, relacionadas con la gestión de los asuntos en el orden administrativo, jurisdiccional e interinstitucional, así como aquellas que determine la normatividad aplicable o los Acuerdos Generales del Consejo de la Judicatura.
 
 ###### Artículo 61.
 
@@ -961,13 +1159,27 @@ V. Actualizarse en los criterios jurídicos y de interpretación que corresponda
 
 VI. Promover y difundir los medios alternos de solución de conflictos entre las partes;
 
-VII. Aplicar los mecanismos alternos de solución de conflictos;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VII. Aplicar los medios alternativos de solución de conflictos en los asuntos que se le encomienden;
 
 VIII. Elaborar y presentar el proyecto de convenio de solución al conflicto, en su caso, con independencia del que las partes puedan presentar para su aprobación;
 
-IX. Mantener actualizado su expediente personal; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-X. Las demás que determine la normatividad aplicable.
+IX. Mantener actualizado su expediente personal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+X. Elaborar las versiones públicas de las resoluciones, en los términos establecidos en las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XI. Desempeñar sus labores con profesionalismo, ética y calidad en el servicio; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XII. Las que directamente le encomiende el Juez, relacionadas con la gestión de los asuntos en el orden administrativo, jurisdiccional e interinstitucional, así como aquellas que determine la normatividad aplicable o los Acuerdos Generales del Consejo de la Judicatura.
 
 ###### Artículo 62.
 
@@ -999,43 +1211,35 @@ XI. Enviar los expedientes al archivo, según corresponda;
 
 XII. Llevar y conservar los libros de gobierno y de registro que correspondan;
 
-XIII. Mantener actualizado su expediente personal; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-XIV. Las demás que determine la normatividad aplicable.
+XIII. Mantener actualizado su expediente personal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XIV. Expedir las certificaciones de registros y actuaciones procesales que las leyes le encomienden;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XV. Desempeñar sus labores con profesionalismo, ética y calidad en el servicio; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XVI. Las que directamente le encomiende el Juez, relacionadas con la gestión de los asuntos en el orden administrativo, jurisdiccional e interinstitucional, así como aquellas que determine la normatividad aplicable o los Acuerdos Generales del Consejo de la Judicatura.
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 #### SECCIÓN ÚNICA. DE LOS JEFES DE UNIDAD DE CAUSA, JEFES DE UNIDAD DE SALA, JEFES DE UNIDAD DE SERVICIOS, JEFES DE UNIDAD DE INFORMÁTICA Y NOTIFICADORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 63.
 
-La Central de Actuarios es el área encargada de organizar el turno aleatorio y llevar el control de las diligencias que ordenen las autoridades jurisdiccionales a realizar fuera de sede judicial, de acuerdo a la demarcación territorial comprendida en el distrito o región en que se establezca.
-
-Para el cumplimiento de su objeto, las Centrales de Actuarios contarán con la siguiente estructura orgánica:
-
-I. Un Coordinador, quien deberá de reunir los requisitos a que se refiere el artículo 43 de esta Ley;
-
-II. La plantilla de Actuarios en el número que determine el Consejo de la Judicatura; y,
-
-III. El personal administrativo necesario.
-
-Los Coordinadores de las Centrales de Actuarios serán nombrados por el Consejo de la Judicatura, a propuesta de su Presidente y deberán reunir los mismos requisitos que para ser Actuario del Tribunal.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2023)
 
 ###### Artículo 64.
 
-El Coordinador será el jefe administrativo inmediato de los Actuarios, así como del personal a su cargo; su función básica será dirigir y organizar las actividades de la oficina.
-
-Son atribuciones y obligaciones de los Coordinadores de Actuarios:
-
-I. Asumir las funciones de jefe administrativo inmediato;
-
-II. Coordinar, dirigir y organizar las actividades bajo su mando;
-
-III. Tomar conocimiento para su atención y solución, en su caso, de las dificultades operativas y administrativas que se presenten a los Actuarios para la práctica de las diligencias ordenadas;
-
-IV. Establecer las medidas de control y vigilancia que garanticen la realización correcta y oportuna de las diligencias dispuestas; y,
-
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
-
-V. Las demás que determinen el Pleno del Tribunal Superior de Justicia, el Consejo de la Judicatura o directamente el Presidente del Tribunal Superior y las que se deriven de la normatividad aplicable.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2023)
 
 #### SECCIÓN PRIMERA. DE LAS FORMALIDADES
 
@@ -1051,9 +1255,17 @@ I. Notificar, citar, embargar o emplazar según el caso y llevar a efecto todas 
 
 II. Rendir en forma oportuna y eficaz, los datos estadísticos relativos a sus funciones;
 
-III. Mantener actualizado su expediente personal; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-IV. Las demás que determine la normatividad aplicable.
+III. Mantener actualizado su expediente personal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IV. Elaborar las constancias de las diligencias o actuaciones que practique; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+V. Las demás que determine la normatividad aplicable y los Acuerdos Generales del Consejo de la Judicatura.
 
 ### CAPÍTULO III. DE LOS JUECES DEL PROCESO DE ORALIDAD MERCANTIL
 
@@ -1127,9 +1339,21 @@ VI. Ser de reconocida honorabilidad;
 
 VII. Haber desempeñado algún cargo en el Poder Judicial o en las Juntas de Conciliación y Arbitraje, cuando menos durante tres años o su equivalente en el ejercicio profesional;
 
-VIII. No ser ministro de algún culto religioso; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-IX. Cumplir con los demás requisitos que señale el Consejo de la Judicatura.
+VIII. No ser ministro de algún culto religioso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IX. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+X. No haber sido declarada como persona deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XI. Cumplir con los demás requisitos que señale el Consejo de la Judicatura.
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1377,9 +1601,9 @@ Los órganos jurisdiccionales del Sistema Procesal Penal Acusatorio y Oral, tend
 
 Los órganos jurisdiccionales se integrarán con jueces que asuman atribuciones de control o de juicio oral o de ejecución, siempre y cuando los dos primeros no desempeñen ambas funciones en un mismo asunto, los cuales podrán tener competencia en las materias señaladas en el párrafo anterior y ejercerla en todo el territorio estatal, según las necesidades.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-Los Jueces de Control y de Ejecución actuarán en forma unitaria en todos los casos. Los Tribunales de Enjuiciamiento serán integrados por un Juez; salvo en los asuntos que proceda prisión preventiva de manera oficiosa según prevé el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, que serán colegiados, integrados por tres jueces.
+Los Jueces de Control, de Enjuiciamiento y de Ejecución actuarán en forma unitaria en todos los casos.
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2019)</small>
 
@@ -1427,31 +1651,91 @@ III. Vigilar que se respeten los derechos constitucionales del imputado y de la 
 
 IV. Ejercer las funciones que determina el Código Nacional de Procedimientos Penales; y,
 
-V. Las demás que señalen las leyes.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+V. Las demás que señalen las leyes y los Acuerdos Generales del Pleno del Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 73 Bis.
+
+Para atender asuntos exclusivos de violencia contra las mujeres, en los que estas sean sujeto pasivo de cualquier edad, se designarán Jueces de Control y de Enjuiciamiento para conocer respecto de los delitos siguientes:
+
+a) Violencia Familiar;
+
+b) Pederastia;
+
+c) Violación;
+
+d) Abuso Sexual;
+
+e) Hostigamiento Sexual;
+
+f) Feminicidio;
+
+g) Violación a la Intimidad Sexual;
+
+h) Sexting;
+
+i) Trata de Personas;
+
+j) Estupro;
+
+k) Acoso Sexual;
+
+l) Delitos Cometidos por Personas Servidoras Públicas;
+
+m) Incesto;
+
+n) Inseminación Artificial y Esterilidad Provocada;
+
+ñ) Corrupción de Menores e Incapaces;
+
+o) Pornografía Infantil; y
+
+p) Comunicación de Contenido Sexual con Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para Comprender el Significado del Hecho o de Personas que no tienen Capacidad para Resistirlo.
+
+El número de jueces que atenderá estos asuntos y su sede será determinado por el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 73 Ter.
+
+Los Jueces de Control y de Ejecución podrán ejercer la función jurisdiccional en los Tribunales de Justicia Terapéutica, para conocer de aquellos asuntos relacionados con el uso, consumo o dependencia de sustancias psicoactivas, en los que se satisfagan los requisitos de elegibilidad jurídica para el ingreso al programa.
+
+El Pleno del Consejo de la Judicatura designará a los Jueces que integrarán el Tribunal de Justicia Terapéutica y establecerá mediante Acuerdos Generales su sede.
+
+Los Plenos del Tribunal y del Consejo de la Judicatura establecerán mediante Acuerdos Generales los requisitos de elegibilidad para el ingreso al programa.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 74.
 
-El Juez o los Jueces del Tribunal de Enjuiciamiento, presidirán las audiencias propias del juicio y determinarán la responsabilidad o atribuibilidad, según sea el caso, en que hubieren incurrido el o los acusados por algún delito conforme a las leyes aplicables.
+El Juez del Tribunal de Enjuiciamiento presidirá las audiencias propias del juicio y determinará la responsabilidad o atribuibilidad, según sea el caso, en que hubieren incurrido los acusados por algún delito o alguna conducta tipificada como delito conforme a las leyes aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 75.
 
-El Tribunal de Enjuiciamiento se integrará por un Juez, salvo los casos previstos en el párrafo tercero del artículo 68 de esta ley. Quien presida dicho Tribunal, tendrá las facultades siguientes:
+El Juez del Tribunal de Enjuiciamiento tendrá las facultades siguientes:
 
 I. Dirigir la audiencia y la deliberación de los asuntos de su competencia;
 
 II. Representar al tribunal en el trámite de juicios de amparo;
 
-III. Firmar los autos de trámite que el caso genere; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-IV. Las demás que señalen las leyes.
+III. Firmar los autos de trámite que el caso genere;
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-En el caso de los Tribunales de Enjuiciamiento Colegiados, los Jueces redactores tendrán a su cargo la elaboración de la sentencia y de su comunicación. En los Tribunales Unitarios, el Juez tendrá a su cargo las funciones previstas en este último párrafo.
+IV. Elaborar la sentencia y comunicarla; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+V. Las demás que señalen las leyes, el Reglamento Interior y los Acuerdos Generales.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 76.
 
@@ -1463,7 +1747,7 @@ Los Jueces de Ejecución conocerán del proceso de ejecución de sanciones penal
 
 ###### Artículo 77.
 
-Para ser Jefe de Unidad de Causa se requieren los mismos requisitos que señala el artículo 39 de esta Ley y contar con los conocimientos necesarios en el nuevo Sistema Procesal Penal Acusatorio y Oral.
+Para ser Jefe de Unidad de Causa se requieren, en lo aplicable, los requisitos que señala el artículo 39 de esta Ley y contar con los conocimientos necesarios en el Sistema Procesal Penal Acusatorio y Oral.
 
 Tendrán las funciones siguientes:
 
@@ -1483,15 +1767,35 @@ VI. Promover la capacitación y adiestramiento, así como el desarrollo de su pe
 
 VII. Verificar que se hayan revisado los acuerdos que deban recaer a las solicitudes presentadas por escrito;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-VIII. Solicitar al jefe de la unidad de sala, le proporcione fecha y hora para la celebración de una audiencia; y,
+VIII. Solicitar al jefe de la unidad de sala, le proporcione fecha y hora para la celebración de una audiencia;
 
-IX. Las demás que determine, el Consejo de la Judicatura, el Pleno del Tribunal Superior de Justicia y los ordenamientos legales y normativos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IX. Supervisar que las resoluciones sean notificadas a las partes de forma oportuna;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+X. Corroborar que se realicen las constancias de forma oportuna de las notificaciones realizadas;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XI. Desempeñar sus labores con profesionalismo, ética y calidad en el servicio;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XII. Las que directamente le encomiende el titular del órgano al que se encuentre adscrito, relacionadas con la gestión de los asuntos en el orden administrativo, jurisdiccional e interinstitucional; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XIII. Las demás que determine el Pleno del Tribunal Superior de Justicia, el Consejo de la Judicatura, los Acuerdos Generales y los ordenamientos legales y normativos aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 78.
 
-Para ser Jefe de Unidad de Sala se requieren los mismos requisitos que señala el artículo 39 de esta Ley contar con los conocimientos necesarios en el nuevo Sistema Procesal Penal Acusatorio y Oral.
+Para ser Jefe de Unidad de Sala se requieren, en lo aplicable, los mismos requisitos que señala el artículo 39 de esta Ley y contar con los conocimientos necesarios en el Sistema Procesal Penal Acusatorio y Oral.
 
 Tendrán las funciones siguientes:
 
@@ -1511,85 +1815,43 @@ VII. Solicitar la presencia de la policía procesal para garantizar la seguridad
 
 VIII. Verificar que las partes intervinientes en las audiencias hayan sido notificadas oportunamente y confirmar su presencia en la fecha y hora indicadas;
 
-IX. Supervisar y revisar las transcripciones de las audiencias así como turnarlas al Juez correspondiente para su validación; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-X. Las demás que determinen el Consejo de la Judicatura, el Pleno del Tribunal Superior de Justicia y los ordenamientos legales y normativos aplicables.
+IX. Supervisar y revisar las transcripciones de las audiencias así como turnarlas al Juez correspondiente para su validación;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+X. Desempeñar sus labores con profesionalismo, ética y calidad en el servicio;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XI. Las que directamente le encomiende el titular del órgano al que se encuentre adscrito, relacionadas con la gestión de los asuntos en el orden administrativo, jurisdiccional e interinstitucional; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XII. Las demás que determinen los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura, los Acuerdos Generales y los ordenamientos legales y normativos aplicables.
 
 ###### Artículo 79.
 
-Para ser Jefe de Unidad de Servicios se requieren los requisitos siguientes:
-
-I. Ser ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
-
-II. Ser Licenciado en Derecho, en Administración de Empresas, Contador Público u otra profesión afín y contar con la cédula profesional correspondiente;
-
-III. Contar con una experiencia profesional de tres años, como mínimo; y,
-
-IV. Contar con los conocimientos necesarios en el nuevo Sistema Procesal Penal Acusatorio y Oral.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2023)
 
 ###### Artículo 80.
 
-El Jefe de Unidad de Servicios tendrá las funciones siguientes:
-
-I. Controlar, registrar y distribuir adecuadamente, la correspondencia y las promociones que se reciban;
-
-II. Verificar la realización y colocación de las listas de correspondencias;
-
-III. Supervisar que las resoluciones sean notificadas a las partes de forma oportuna;
-
-IV. Corroborar que se realicen las constancias de forma oportuna de las notificaciones realizadas;
-
-V. Gestionar y suministrar los insumos necesarios que colaboran en el buen desarrollo de las funciones del personal;
-
-VI. Verificar que las áreas de trabajo se encuentren ordenadas y limpias;
-
-VII. Verificar que se encuentre en óptimas condiciones la infraestructura inmobiliaria y que se realicen los trabajos de mejora continua;
-
-VIII. Implementar y fomentar las normas de seguridad necesarias para crear ambientes seguros; y,
-
-IX. Las demás que determine, el Consejo de la Judicatura, el Pleno del Tribunal Superior de Justicia y los ordenamientos legales y normativos aplicables.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2023)
 
 ###### Artículo 81.
 
-Para ser Jefe de Unidad de Informática se requiere:
-
-I. Ser ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
-
-II. Tener título de Licenciado en Informática o carrera afín;
-
-III. Contar con una experiencia profesional de tres años, como mínimo; y,
-
-IV. Contar con los conocimientos necesarios en el nuevo Sistema Procesal Penal Acusatorio y Oral.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2023)
 
 ###### Artículo 82.
 
-El Jefe de Unidad de Informática tendrá las funciones siguientes:
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2023)
 
-I. Realizar las gestiones propias para garantizar que se cuenta con los equipos necesarios para las grabaciones de audio y video de las audiencias programadas;
-
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
-
-II. Coordinar con el jefe de unidad de sala el programa de audiencias para garantizar los sistemas de grabación, audio y video, de cada sala de audiencias;
-
-III. Garantizar antes y durante cada audiencia que todos los sistemas de las salas estén en perfecto funcionamiento (luces, grabación, video y aire acondicionado);
-
-IV. Gestionar la respuesta inmediata a las solicitudes de asistencia técnica, durante las audiencias;
-
-V. Asegurar la disponibilidad del sistema de registro y control de audiencias;
-
-VI. Respaldar todos los sistemas de control y registro, así como de las grabaciones de audio y video de las audiencias;
-
-VII. Coordinar a los proveedores para el mantenimiento periódico necesario de equipos de grabación audio y video;
-
-VIII. Solicitar al área respectiva la sustitución o compra de equipos de grabación, audio y video para soportar las audiencias; y,
-
-IX. Las demás que determinen el Consejo de la Judicatura, el Pleno del Tribunal Superior de Justicia y los ordenamientos legales y normativos aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 83.
 
-Para ser Notificador, se requieren los mismos requisitos que señala el artículo 43 de esta Ley y contar con los conocimientos necesarios en el nuevo Sistema Procesal Penal Acusatorio y Oral.
+Para ser Notificador, se requieren los mismos requisitos que señala el artículo 43 de esta Ley y contar con los conocimientos necesarios en el Sistema Procesal Penal Acusatorio y Oral.
 
 Tendrán las funciones siguientes:
 
@@ -1607,21 +1869,23 @@ VI. Recibir de forma diaria los documentos de notificación y anexos, ordenándo
 
 VII. Entregar al jefe inmediato la documentación relativa a las notificaciones, el mismo día que las realizó; y,
 
-VIII. Las demás que determinen, el Consejo de la Judicatura, el Pleno del Tribunal Superior de Justicia y los ordenamientos legales y normativos aplicables.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VIII. Las demás que determinen los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura, los Acuerdos Generales y los ordenamientos legales y normativos aplicables.
 
 ### CAPÍTULO VI. DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL, CENTROS REGIONALES DE ADMINISTRACIÓN DE JUSTICIA Y SUS ADMINISTRADORES
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 84.
 
-La función administrativa de los Centros Regionales de Administración de Justicia estará a cargo de:
+La función administrativa de los Centros Regionales de Administración de Justicia estará a cargo de la Dirección General de Administración del Sistema Procesal Penal Acusatorio y Oral, la cual contará con el personal que el servicio requiera y autorice el Pleno del Consejo de la Judicatura, en su respectiva competencia.
 
-I. La Dirección General de Administración del Sistema; y,
-
-II. El personal que el servicio requiera y autorice el Pleno del Consejo de la Judicatura, en su respectiva competencia.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 85.
 
-El Pleno del Consejo de la Judicatura podrá determinar que sean prestados servicios comunes de notificación, ejecución, oficialías de partes y otras áreas para varios órganos jurisdiccionales.
+La Dirección General de Administración del Sistema Procesal Penal Acusatorio y Oral tendrá a su cargo la organización de la prestación de los servicios comunes de notificación, ejecución, oficialías de partes y otras áreas para varios órganos jurisdiccionales, que autorice el Pleno del Consejo de la Judicatura.
 
 ###### Artículo 86.
 
@@ -1641,7 +1905,7 @@ IV. Supervisar que cada Centro Regional de Administración de Justicia, cumpla c
 
 V. Proponer al Consejo de la Judicatura los programas de capacitación para el personal administrativo adscrito a los Centros Regionales de Administración de Justicia;
 
-VI. Someter a consideración del Consejo de la Judicatura, los programas para el proceso de selección del personal adscrito a los Centros Regionales de Administración de Justicia;
+VI. (DEROGADA, P.O. 6 DE DICIEMBRE DE 2023)
 
 VII. Proponer al Consejo de la Judicatura, modalidades y buenas prácticas administrativas que permitan reducir los tiempos en las distintas etapas del Sistema Procesal Penal Acusatorio y Oral;
 
@@ -1653,9 +1917,21 @@ IX. Estar enterada de los informes que le remitan los administradores de los Cen
 
 X. Sin perjuicio de la facultad de los administradores regionales, coordinarse con los jueces para el funcionamiento de cada Centro Regional de Administración de Justicia;
 
-XI. Auxiliar por si, o por conducto del personal a su cargo, a los Magistrados que funjan como Tribunal de Alzada en los asuntos que así corresponda; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-XII. Las demás que determinen la ley, el Pleno del Tribunal Superior de Justicia o el Pleno del Consejo de la Judicatura.
+XI. Auxiliar por sí o por conducto del personal a su cargo, a los Magistrados que funjan como Tribunal de Alzada en los asuntos que así corresponda;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XII. Desempeñar sus labores con profesionalismo, ética y calidad en el servicio;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XIII. Las que directamente le encomienden los Plenos del Tribunal y del Consejo de la Judicatura, relacionadas con la gestión de los asuntos en el orden administrativo, jurisdiccional e interinstitucional; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XIV. Las demás que determinen la ley, el Pleno del Tribunal Superior de Justicia o el Pleno del Consejo de la Judicatura y los Acuerdos Generales.
 
 ###### Artículo 88.
 
@@ -1665,17 +1941,33 @@ I. Tener la nacionalidad mexicana y estar en pleno goce de sus derechos civiles 
 
 II. Tener como mínimo 25 años cumplidos, al día de su designación;
 
-III. Poseer título y cédula profesional de Licenciado en Derecho, preferentemente;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-IV. No haber sido condenado por delito doloso; y,
+III. Poseer título y cédula profesional de licenciado en Derecho;
 
-V. Tener conocimientos en el Sistema Procesal Penal Acusatorio y Oral.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IV. No haber sido condenado por delito doloso;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+V. Tener conocimientos en el Sistema Procesal Penal Acusatorio y Oral;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VI. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VII. No haber sido declarada como persona deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente.
 
 ###### Artículo 89.
 
 El administrador de cada Centro Regional de Administración de Justicia, tendrá las obligaciones siguientes:
 
-I. Gestionar, organizar y administrar el funcionamiento del Centro y asegurarse que las audiencias y actividades del personal a su cargo y bajo su responsabilidad, sean ejecutadas oportunamente y de conformidad con las disposiciones legales establecidas para ello, los manuales de procedimientos y de modelos de gestión;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+I. Gestionar, organizar y administrar el funcionamiento del Centro y asegurarse que las audiencias y actividades del personal a su cargo y bajo su responsabilidad, sean ejecutadas oportunamente y de conformidad con las disposiciones legales establecidas para ello, los manuales de procedimientos, modelos de gestión, protocolos de actuación y Acuerdos Generales;
 
 II. Dirigir las actividades administrativas de los órganos jurisdiccionales de su adscripción;
 
@@ -1687,7 +1979,9 @@ IV. Resguardar los bienes inmuebles del Centro y poner de inmediato en conocimie
 
 V. Resguardar los bienes muebles que le sean asignados y solicitar la reparación o sustitución de los mismos, así como su provisión cuando se requiera;
 
-VI. Solicitar el abastecimiento del material de trabajo que se requiera para el funcionamiento del Centro;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VI. Solicitar el abastecimiento del material de trabajo que se requiera para el funcionamiento del Centro y administrarlo adecuadamente para el desarrollo de las labores cotidianas;
 
 VII. Custodiar los bienes y valores que se encuentren a disposición de los órganos jurisdiccionales de su adscripción con motivo de la tramitación de los asuntos sometidos a su conocimiento;
 
@@ -1709,7 +2003,9 @@ XV. Dar cuenta de la correspondencia a los jueces;
 
 XVI. Tramitar la correspondencia administrativa de los tribunales;
 
-XVII. Mantener actualizados los libros de gobierno que sean necesarios a juicio del Consejo de la Judicatura y los que señale el Reglamento respectivo;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XVII. Mantener actualizados los registros correspondientes autorizados por el Consejo de la Judicatura y los que señale el Reglamento respectivo;
 
 XVIII. Elaborar y mantener actualizado el registro de los sujetos procesales que intervienen en cada caso;
 
@@ -1721,9 +2017,45 @@ XX. Remitir oportunamente al archivo judicial del Estado las carpetas judiciales
 
 XXI. Distribuir las causas de acuerdo al procedimiento establecido en los manuales de procedimiento y modelos de gestión;
 
-XXII. Mantener actualizado su expediente personal; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-XXIII. Los demás que determinen las leyes, los Reglamentos, Manuales de Procedimiento y modelos de gestión, los acuerdos que emitan los Plenos del Tribunal Superior de Justicia y Consejo de la Judicatura.
+XXII. Mantener actualizado su expediente personal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XXIII. Suministrar los insumos necesarios que se requieren para las funciones del personal;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XXIV. Verificar que las áreas de trabajo se encuentren ordenadas y limpias;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XXV. Verificar que se encuentren en óptimas condiciones la infraestructura inmobiliaria;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XXVI. Implementar y fomentar las normas de seguridad necesarias para crear ambientes seguros;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XXVII. Realizar las gestiones propias para garantizar que se cuente con los equipos necesarios para las grabaciones de audio y video de las audiencias programadas;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XXVIII. Solicitar al área respectiva la sustitución o compra de equipos de grabación, audio y video para soportar las audiencias;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XXIX. Desempeñar sus labores con profesionalismo, ética y calidad en el servicio;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XXX. Las que directamente le encomienden los Plenos del Tribunal y del Consejo de la Judicatura, el Director General de Administración del Sistema Procesal Penal Acusatorio y Oral, relacionadas con la gestión de los asuntos en el orden administrativo, jurisdiccional e interinstitucional; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XXXI. Las demás que determinen las leyes, los Reglamentos, Manuales de Procedimiento y modelos de gestión, protocolos de actuación, así como los acuerdos que emitan los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura.
 
 ###### Artículo 90.
 
@@ -1755,17 +2087,25 @@ El Consejo de la Judicatura es un órgano del Poder Judicial del Estado, con aut
 
 El Consejo de la Judicatura se integrará por cinco Consejeros, de los cuales uno lo será el Presidente del Tribunal Superior de Justicia, quien lo presidirá; un Magistrado y un Juez, electos por el Pleno del Tribunal Superior de Justicia por mayoría absoluta; un Consejero designado por el Gobernador del Estado; y un Consejero designado por el Congreso del Estado. Los Consejeros durarán en su cargo un periodo de cinco años, sin posibilidad de ser reelectos. Durante su encargo sólo podrán ser removidos en los términos del Título Séptimo de la Constitución del Estado y de esta Ley.
 
-Los miembros del Consejo de la Judicatura no desempeñarán la función jurisdiccional, con excepción del Presidente, que integrará Pleno en el Tribunal Superior de Justicia y en la Sala Especial Constitucional. Los Consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-El Consejo de la Judicatura estará facultado para expedir los acuerdos generales que sean necesarios para el debido ejercicio de sus funciones administrativas, incluyendo las relativas a la carrera judicial; éstos podrán ser revisados por el Pleno del propio Tribunal y, en su caso, revocados por mayoría calificada de dos terceras partes de sus miembros.
+Los integrantes del Consejo de la Judicatura no desempeñarán la función jurisdiccional, con excepción del Presidente, que integrará (sic) Pleno en el Tribunal Superior de Justicia y en la Sala Especial Constitucional. Los Consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+El Consejo de la Judicatura estará facultado para expedir los Acuerdos Generales que sean necesarios para el debido ejercicio de sus funciones administrativas, incluyendo las relativas a la carrera judicial; éstos podrán ser revisados por el Pleno del propio Tribunal y, en su caso, revocados por mayoría calificada de dos terceras partes de sus integrantes.
 
 Las decisiones del Consejo de la Judicatura, en la esfera exclusiva de su competencia, serán definitivas e inatacables y, por lo tanto, no procede juicio o recurso alguno en contra de las mismas, con excepción de lo dispuesto en el párrafo sexto del artículo 55 BIS de la Constitución del Estado, y de las que se refieran a la designación, adscripción, ratificación, promoción, suspensión y remoción de los Jueces, las cuales podrán ser revisadas por el Pleno del Tribunal Superior de Justicia, únicamente para verificar que fueron emitidas conforme a la ley.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 #### SECCIÓN TERCERA. DE LAS CITACIONES
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 95.
 
-Para ser Consejero de la Judicatura se requieren los mismos requisitos que se exigen para ser Magistrado del Tribunal Superior de Justicia, de acuerdo a lo dispuesto por el artículo 57 de la Constitución del Estado.
+Para ser Consejero de la Judicatura se requieren los mismos requisitos que se exigen para ser Juez.
 
 ###### Artículo 96.
 
@@ -1777,7 +2117,9 @@ Para el debido cumplimiento de sus funciones, el Consejo de la Judicatura expedi
 
 Son atribuciones del Pleno del Consejo de la Judicatura:
 
-I. Resolver sobre la designación, adscripción, ratificación, licencias, renuncias, suspensión o remoción de los Jueces del Poder Judicial del Estado, así como lo relativo a los servidores públicos auxiliares de la función jurisdiccional y al personal que desempeñe funciones administrativas o de apoyo, excepto los adscritos al Pleno, a las Salas y a la Presidencia del Tribunal; el Reglamento respectivo fijará las reglas que deberán observarse para la aplicación de las atribuciones y figuras contenidas en esta fracción; y tratándose de cambios de adscripción, deberá establecer el procedimiento respectivo y considerar los siguientes elementos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+I. Resolver sobre la designación, adscripción, ratificación, licencias, renuncias, suspensión o remoción de los Jueces del Poder Judicial del Estado, así como lo relativo a los servidores públicos auxiliares de la función jurisdiccional y al personal que desempeñe funciones administrativas o de apoyo, excepto los adscritos al Pleno, a las Salas y a la Presidencia del Tribunal; el Reglamento respectivo fijará las reglas que deberán observarse para la aplicación de las atribuciones y figuras contenidas en esta fracción; y tratándose de cambios de adscripción, deberá establecer el procedimiento respectivo y ponderar los siguientes elementos:
 
 a) El expediente personal del servidor público respectivo, el cual deberá estar actualizado;
 
@@ -1801,7 +2143,9 @@ III. Expedir acuerdos generales para el ejercicio de sus funciones administrativ
 
 IV. Informar al Pleno del Tribunal respecto de la designación, adscripción, ratificación y remoción de Jueces asignados a los órganos jurisdiccionales de Primera Instancia;
 
-V. Organizarse entre sus miembros para la distribución de las tareas específicas, tendientes a lograr su mejor funcionamiento;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+V. Organizarse entre sus integrantes para la distribución de las tareas específicas, tendientes a lograr su mejor funcionamiento;
 
 VI. Administrar los bienes muebles e inmuebles del Poder Judicial, cuidando su mantenimiento, conservación y acondicionamiento, salvo los destinados al Pleno, a las Salas y a la Presidencia del Tribunal;
 
@@ -1873,9 +2217,17 @@ XXXIV. Autorizar, a propuesta del Presidente, el diseño y uso de los sellos y p
 
 XXXV. Constituir, previa consulta con el Pleno del Tribunal Superior de Justicia, el Consejo de Administración del Centro de Especialización Judicial;
 
-XXXVI. Expedir acuerdos generales, Código de Ética y demás normas administrativas que sean necesarias para el cumplimiento de sus fines y atribuciones; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-XXXVII. Las demás que las leyes o reglamentos le otorguen.
+XXXVI. Expedir Acuerdos Generales, Código de Ética y demás normas administrativas que sean necesarias para el cumplimiento de sus fines y atribuciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XXXVII. Autorizar, cuando así lo considere, que sean prestados servicios comunes de notificación, ejecución, oficialías de partes y otras áreas para varios órganos jurisdiccionales; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XXXVIII. Las demás que las leyes, reglamentos o Acuerdos Generales le otorguen.
 
 ###### Artículo 98.
 
@@ -1901,21 +2253,19 @@ El Consejo de la Judicatura, para el cumplimento de sus atribuciones, será apoy
 
 Las resoluciones del Pleno del Consejo constarán en acta y deberán firmarse por sus integrantes, notificándose personalmente a la brevedad posible a las partes interesadas.
 
-Cuando el Pleno del Consejo estime que sus reglamentos, acuerdos o resoluciones pudieren resultar de interés general, podrá ordenar su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Cuando el Pleno del Consejo de la Judicatura estime que sus reglamentos, acuerdos o resoluciones pudieren resultar de interés general, deberá ordenar su publicación en el Periódico Oficial del Estado.
 
 Al clausurar sus periodos ordinarios de sesiones, el Pleno designará a los Consejeros que deban proveer los trámites y resolver los asuntos urgentes que se presenten durante los recesos, así como al personal necesario para apoyar sus funciones. Al reanudarse el siguiente periodo ordinario de sesiones, dichos Consejeros darán cuenta al Pleno del Consejo de las medidas emergentes que hayan tomado, para que éste acuerde lo que proceda.
 
 ###### Artículo 100.
 
-El Consejo de Administración del Centro de Especialización Judicial tendrá las facultades siguientes:
-
-I. Aprobar los planes de trabajo, el Reglamento Interior y la estructura orgánica del Centro;
-
-II. Conocer los informes de actividades que realice el Centro; y,
-
-III. Establecer las políticas para el otorgamiento de apoyo a los servidores públicos del Poder Judicial.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2023)
 
 #### SECCIÓN CUARTA. DE LAS MEDIDAS CAUTELARES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 101.
 
@@ -1939,11 +2289,13 @@ VII. Hacer del conocimiento del Consejo en Pleno, las faltas absolutas de los Ju
 
 VIII. Recibir quejas o denuncias por faltas cometidas por los servidores públicos del Poder Judicial, con excepción de los del Tribunal Superior de Justicia, en cuyo caso resolverá su propio Pleno; en lo previsto sobre incumplimiento de las obligaciones establecidas en el Título Séptimo de esta Ley, se turnarán a quien corresponda. Sobre cualquier otra queja, dictará las providencias necesarias para su inmediata corrección si aquéllas fueren leves y, si son graves, dará cuenta al Pleno del Consejo;
 
-IX. Vigilar que los Jueces rindan oportunamente el informe de sus actividades;
+IX. (DEROGADA, P.O. 6 DE DICIEMBRE DE 2023)
 
 X. Ejercer las atribuciones que esta Ley le encomienda en lo relativo al archivo judicial, en materia editorial y el Centro de Información y Documentación Jurídica;
 
-XI. Ser considerado como titular, en los asuntos laborales relacionados con el personal comprendido dentro del ámbito de la competencia del Consejo de la Judicatura;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XI. Ejercer la representatividad laboral a que se refiere la fracción XXV del artículo 21 de la presente Ley;
 
 XII. Proponer al Consejo el diseño y uso de los sellos y papelería oficial del mismo y demás órganos;
 
@@ -1965,15 +2317,17 @@ III. Certificar, autorizar y dar fe de las actuaciones del Pleno del Consejo de 
 
 IV. Coordinar y supervisar las funciones de las unidades administrativas y judiciales del Consejo de la Judicatura; y,
 
-V. Las demás que le asignen las leyes y reglamentos.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+V. Las demás que le asignen las leyes, reglamentos o Acuerdos Generales.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 #### SECCIÓN QUINTA. DE LAS PRUEBAS
 
 ###### Artículo 103.
 
-Para ser Secretario General del Consejo de la Judicatura, se requieren los mismos requisitos que se exigen para ser Juez de Primera Instancia.
+Para ser Secretario General del Consejo de la Judicatura, se requieren los mismos requisitos que se exigen para ser Consejero.
 
 ###### Artículo 104.
 
@@ -1985,9 +2339,11 @@ Los requisitos para ser Secretario de Acuerdos y Proyectista del Consejo serán 
 
 Sus funciones se establecerán en el reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 106.
 
-Los requisitos para ser Actuario del Consejo deberán satisfacerse los requisitos establecidos en el artículo 43 de la presente Ley. Sus funciones se especificarán en el reglamento respectivo.
+Para ser Actuario del Consejo de la Judicatura deberán satisfacerse los requisitos establecidos en el artículo 43 de la presente Ley. Sus funciones se especificarán en el reglamento respectivo.
 
 ### CAPÍTULO I. DE LOS PERITOS
 
@@ -2027,9 +2383,13 @@ Para ser perito se requiere:
 
 I. Ser mayor de edad;
 
-II. Tener buenos antecedentes de moralidad y conocimientos de la ciencia, arte, técnica u oficio sobre el cual vaya a versar el peritaje; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+II. Tener buenos antecedentes de moralidad, conocimientos, título y cédula de la ciencia, arte, técnica u oficio sobre el cual vaya a versar el peritaje, si estuvieran legalmente reglamentados; y
 
 III. Tratándose de extranjeros, acrediten su legal estancia en el país, haciendo manifestación expresa de que se someten a las leyes mexicanas para todos los efectos legales del peritaje.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 111.
 
@@ -2037,7 +2397,9 @@ Todos los peritos, inclusive los médicos e intérpretes, son auxiliares de la a
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MARZO DE 2020)</small>
 
-### CAPÍTULO II. DE LO (SIC) SÍNDICOS E INTERVENTORES DE CONCURSOS Y QUIEBRAS
+### CAPÍTULO II. DE LOS SÍNDICOS E INTERVENTORES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 111 Bis.
 
@@ -2065,11 +2427,19 @@ La decisión del jurado será irrecurrible.
 
 Los peritajes que versen sobre materias relativas a profesiones, deberán encomendarse a personas acreditadas con título profesional, quienes además deberán cumplir con los requisitos señalados en el artículo anterior.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 111 Quinquies.
+
+Los peritajes que versen sobre materias relativas a profesiones deberán encomendarse a personas acreditadas con título y cédula profesional, quienes además deberán cumplir con los requisitos señalados en el artículo anterior.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MARZO DE 2020)</small>
+
 ### CAPÍTULO III. DE LOS ALBACEAS, INTERVENTORES DE SUCESIONES, TUTORES, CURADORES Y NOTARIOS
 
 ###### Artículo 112.
 
-Los Síndicos provisionales serán designados por los Jueces de Primera Instancia, en los términos establecidos por el Código de Procedimientos Civiles, en primer orden, entre las personas comprendidas en la lista que para tal efecto les enviará el Tribunal Superior de Justicia.
+Los Síndicos provisionales serán designados por los Jueces, en los términos establecidos por el Código de Procedimientos Civiles, en primer orden, entre las personas comprendidas en la lista que para tal efecto les enviará el Tribunal Superior de Justicia.
 
 Los Síndicos definitivos nombrados con arreglo a la Ley, quedarán sujetos a disposiciones de ésta y de las demás leyes, al igual que los provisionales por lo que se refiere a sus facultades y obligaciones.
 
@@ -2079,9 +2449,9 @@ Para ser Síndico se requiere ser:
 
 I. Ser ciudadano mexicano en pleno uso y goce de todos sus derechos;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-II. Licenciado en Derecho o profesión en la materia con cédula profesional y acreditar una práctica profesional no menor de dos años, comerciante establecido o inscrito en la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas del Gobierno del Estado de Tabasco;
+II. Licenciado en Derecho o profesión en la materia con cédula profesional y acreditar una práctica profesional no menor de dos años, comerciante establecido o inscrito en la Dirección General del Registro Público de la Propiedad y del Comercio;
 
 III. De notoria honradez y responsabilidad;
 
@@ -2093,9 +2463,11 @@ VI. No haber sido removido de alguna otra sindicatura por faltas, o delitos come
 
 VII. No estar comprendido en alguna de las restricciones a que se refiere el Código de Procedimientos Civiles vigente.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 114.
 
-En todo caso que se trate de designación de un Síndico, el Juez deberá cerciorarse de que la persona en cuyo favor se pretende hacer la designación no se encuentra desempeñando otra sindicatura, pero si por circunstancias especiales, consistentes en que en negocio distinto ya estuviere funcionando como síndico y no obstante por el turno llevado en el Juzgado le correspondiera la designación, ésta podrá hacerse siempre y cuando en el primer negocio se hubiera llevado ya hasta la presentación y aprobación de los créditos del concurso.
+En todo caso que se trate de designación de un Síndico, el Juez deberá cerciorarse de que la persona en cuyo favor se pretende hacer la designación no se encuentra desempeñando otra sindicatura, pero si por circunstancias especiales, consistentes en que en negocio distinto ya estuviere funcionando como síndico y no obstante por el turno llevado en el Juzgado le correspondiera la designación, ésta podrá hacerse siempre y cuando en el primer negocio se hubiera llevado ya hasta la presentación y aprobación de los créditos.
 
 ###### Artículo 115.
 
@@ -2109,9 +2481,11 @@ El Síndico podrá ser relevado en su cargo por causas que calificará el Juez, 
 
 Los Síndicos en ejercicio de sus funciones podrán bajo su más estricta responsabilidad, asesorarse o consultar con Procuradores, Abogados, Curadores o Contadores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 118.
 
-El Síndico que faltare al cumplimiento de las obligaciones que le impone esta Ley, perderá la retribución que le corresponda por el ejercicio de su encargo, independientemente de quedar sujeto a la responsabilidad que procediera; además, pagará los daños y perjuicios que se ocasionen a los acreedores del concurso por culpa o negligencia en el ejercicio de sus funciones, procediéndose a retener la garantía que haya dado, sin perjuicio de que se ejercite por quienes corresponda la acción procedente a fin de asegurar los intereses del concurso.
+El Síndico que faltare al cumplimiento de las obligaciones que le impone esta Ley, perderá la retribución que le corresponda por el ejercicio de su encargo, independientemente de quedar sujeto a la responsabilidad que procediera; además, pagará los daños y perjuicios que se ocasionen a los acreedores por culpa o negligencia en el ejercicio de sus funciones, procediéndose a retener la garantía que haya dado, sin perjuicio de que se ejercite por quienes corresponda la acción procedente a fin de asegurar los intereses de la causa.
 
 Al respecto, la garantía respectiva no será cancelada, sino cuando concluya totalmente el procedimiento aun cuando el Síndico hubiere renunciado o se le haya removido. Cuando concurran dos o más Síndicos, la garantía que cada uno hubiere otorgado responderá de su respectivo ejercicio.
 
@@ -2175,7 +2549,9 @@ V. Oficialía de Partes;
 
 VI. Comisión Editorial;
 
-VII. Centro de Estadística, Informática y Computación;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VII. Dirección de Tecnologías de la Información y Comunicaciones;
 
 VIII. Centro de Especialización Judicial;
 
@@ -2227,9 +2603,15 @@ X. El área de Almacén;
 
 XI. El área de Vigilancia y Logística;
 
-XII. Las Oficialías de partes que, respectivamente, los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura determinen; y,
+XII. (DEROGADA, P.O. 6 DE DICIEMBRE DE 2023)
 
-XIII. El personal necesario para su funcionamiento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XIII. La unidad de planeación; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XIV. El personal necesario para su funcionamiento.
 
 Cada área contará con el personal de apoyo que el presupuesto permita y las necesidades que el servicio requiera, quienes tendrán las facultades que determinen los Plenos del Tribunal y del Consejo, la Presidencia de ambos y la normatividad aplicable.
 
@@ -2241,9 +2623,21 @@ I. Ser ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
 
 II. Ser Licenciado en Derecho, en Administración de Empresas, Contador Público u otra profesión afín y contar con la cédula profesional correspondiente;
 
-III. Ser de reconocida honorabilidad; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-IV. No haber sido condenado por delito intencional que merezca pena corporal.
+III. Ser de reconocida honorabilidad;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IV. No haber sido condenado por delito intencional que merezca pena corporal;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+V. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VI. No haber sido declarada como persona deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente.
 
 ###### Artículo 129.
 
@@ -2269,7 +2663,9 @@ IX. Comunicar oportunamente a la Dirección Jurídica del incumplimiento de los 
 
 X. Supervisar el buen funcionamiento del Archivo Judicial; y,
 
-XI. Las demás que el Tribunal o el Consejo le solicite y que se establezcan en el Reglamento.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XI. Las demás que el Tribunal o el Consejo de la Judicatura le solicite y que se establezcan en el Reglamento o en los Acuerdos Generales.
 
 ### CAPÍTULO IV. DEL ARCHIVO JUDICIAL
 
@@ -2283,9 +2679,17 @@ II. El área de recursos financieros;
 
 III. El área de control presupuestal;
 
-IV. El área de consignaciones y pagos; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-V. El personal necesario para su funcionamiento.
+IV. El área de consignaciones y pagos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+V. El área de contabilidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VI. El personal necesario para su funcionamiento.
 
 Cada área contará con el personal de apoyo que el presupuesto permita y las necesidades que el servicio requiera y tendrán las facultades que determinen los Plenos del Tribunal, del Consejo, la Presidencia de ambos y la normatividad aplicable.
 
@@ -2313,7 +2717,9 @@ V. Asistir a las sesiones del Pleno del Tribunal y del Consejo, cuando sea reque
 
 VI. Revisar, elaborar y suscribir, en su caso, las cédulas de solventaciones y demás documentación que, en términos de la normatividad aplicable, deba remitirse al Órgano Superior de Fiscalización; y,
 
-VII. Las demás relacionadas con su cargo y las que se establezcan en el Reglamento.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VII. Las demás relacionadas con su cargo y las que se establezcan en el Reglamento o en los Acuerdos Generales.
 
 ### CAPÍTULO V. DEL CENTRO DE INFORMACIÓN Y DOCUMENTACIÓN JURÍDICA
 
@@ -2321,9 +2727,11 @@ VII. Las demás relacionadas con su cargo y las que se establezcan en el Reglame
 
 El Consejo de la Judicatura tomará las medidas que estime convenientes para el funcionamiento y buena conservación del Archivo Judicial.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 134.
 
-El Archivo Judicial estará a cargo de un Jefe y contará con el personal necesario para el desempeño de sus funciones.
+El Archivo Judicial estará a cargo de un Director y contará con el personal necesario para el desempeño de sus funciones.
 
 ###### Artículo 135.
 
@@ -2341,9 +2749,13 @@ III. Las carpetas judiciales debidamente concluidas;
 
 IV. Los expedientes digitales en todas las materias, que se generen en la modalidad de oralidad;
 
-V. Llevar el control de los audios y videos generados en las audiencias de los órganos jurisdiccionales de oralidad, así como la conservación de su contenido, en coordinación con el Centro de Estadística, Informática y Computación; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-VI. Los demás documentos que las leyes determinen.
+V. Los audios y videos generados en las audiencias de los órganos jurisdiccionales de oralidad, así como la conservación de su contenido, en coordinación con la Dirección de Tecnologías de la Información y Comunicaciones; y
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VI. Los demás documentos que las leyes, Reglamentos o Acuerdos Generales determinen.
 
 ###### Artículo 136.
 
@@ -2357,7 +2769,9 @@ Los servidores judiciales que remitan al archivo los expedientes o carpetas judi
 
 Los expedientes, carpetas judiciales y documentos, a que se refiere el artículo 135 de esta Ley, que se reciban en el Archivo, serán anotados en un libro de entradas para cada órgano o área remitente, procurando que no sufran deterioro; además, deberán registrarse en las tarjetas de índices.
 
-Sin perjuicio de lo establecido en esta Ley, deberá observarse lo dispuesto por la Ley de Archivos Públicos del Estado de Tabasco.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Sin perjuicio de lo establecido en esta Ley, deberá observarse lo dispuesto por la Ley de Archivos para el Estado de Tabasco.
 
 ###### Artículo 139.
 
@@ -2369,17 +2783,21 @@ Por ningún motivo se extraerá expediente o carpeta judicial alguna del archivo
 
 La vista o revisión de los libros, documentos, carpetas judiciales o expedientes del archivo, podrá permitirse a las partes o a sus procuradores, en presencia del jefe o del empleado que éste designe, siempre dentro de la oficina.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 141.
 
-No se permitirá a los empleados del archivo que extraigan, documentos, carpetas judiciales o expedientes de ninguna clase.
+No se permitirá a los servidores judiciales del archivo que extraigan, documentos, carpetas judiciales o expedientes de ninguna clase, sin previa autorización de su jefe inmediato.
 
 ###### Artículo 142.
 
 La falta de remisión oportuna al archivo de las carpetas judiciales y expedientes que lo ameriten, será sancionada disciplinariamente por el Consejo de la Judicatura.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 143.
 
-Cualquier defecto, irregularidad o infracción que advierta el Jefe del Archivo en los expedientes, carpetas judiciales y documentos que se le remitan para su depósito, lo comunicará inmediatamente al Oficial Mayor y al Consejo de la Judicatura.
+Cualquier defecto, irregularidad o infracción que advierta el Director del Archivo en los expedientes, carpetas judiciales y documentos que se le remitan para su depósito, lo comunicará inmediatamente al Oficial Mayor y al Consejo de la Judicatura.
 
 ###### Artículo 144.
 
@@ -2415,7 +2833,9 @@ Solamente a los servidores del Poder Judicial les será permitido extraer del Ce
 
 Corresponde al titular del Centro de Información y Documentación Jurídica:
 
-I. Formular un inventario alfabético, por nombres de autores de todos los libros y documentos del Centro de Información y Documentación Jurídica y uno general de muebles y útiles del servicio de la misma, usando de preferencia el sistema de cómputo;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+I. Formular un inventario electrónico, por nombres de autores de todos los libros y documentos del Centro de Información y Documentación Jurídica y uno general de muebles y útiles del servicio de la misma;
 
 II. Ordenar las obras que se encuentren en el Centro de Información y Documentación Jurídica y formar un catálogo de ellas;
 
@@ -2423,11 +2843,21 @@ III. Formar cada semestre listas de obras nuevas para su compra y de otras para 
 
 IV. Conservar en buen estado los libros y documentos, así como los muebles y útiles, dando cuenta del deterioro que sufran;
 
-V. Distribuir las labores entre él y sus ayudantes para el mejor funcionamiento; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-VI. Llevar una estadística de asistencia de lectores al Centro de Información y Documentación Jurídica.
+V. Distribuir las labores entre él y sus ayudantes para el mejor funcionamiento;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VI. Llevar una estadística de asistencia de lectores al Centro de Información y Documentación Jurídica; y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VII. Mantener actualizadas las leyes, reglamentos y demás ordenamientos jurídicos que se publican digitalmente, así como los impresos.
 
 ### CAPÍTULO VII. DE LA COMISIÓN EDITORIAL
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 152.
 
@@ -2435,43 +2865,67 @@ Los Oficiales de Partes tendrán las obligaciones siguientes:
 
 I. Recepcionar demandas, consignaciones, promociones, escritos y toda clase de correspondencia dirigida al Tribunal, Consejo de la Judicatura o a los Juzgados, turnándolas a la brevedad posible a quien corresponda;
 
-II. Llevar una relación diaria de los asuntos que reciba y turne, asentando en los libros que el Oficial Mayor disponga para ese efecto; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-III. Las demás que le ordenen las leyes, reglamentos, el Tribunal o el Consejo.
+II. Llevar una relación diaria de los asuntos que reciba y turne, registrándolos en el sistema de gestión correspondiente; y
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+III. Las demás que le ordenen las leyes, reglamentos, los Acuerdos Generales, los Plenos del Tribunal o del Consejo de la Judicatura.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 153.
 
-El Consejo de la Judicatura determinará el personal que se requiera para el desempeño de las funciones de las Oficialías de Partes que dependan funcionalmente de los órganos jurisdiccionales de su competencia administrativa.
+Los Plenos del Tribunal y del Consejo de la Judicatura determinarán el personal que se requiera para el desempeño de las funciones de las Oficialías de Partes que dependan funcionalmente de los órganos jurisdiccionales de su competencia.
 
-### CAPÍTULO VIII. DEL CENTRO DE ESTADÍSTICA, INFORMÁTICA Y COMPUTACIÓN
+### CAPITULO VIII. DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 154.
 
-La Comisión Editorial estará integrada por las personas que sean designadas por el Consejo, preferentemente del Poder Judicial; su Titular será el Presidente del Consejo, auxiliado en el desempeño de sus actividades por el Secretario del mismo.
+La Comisión Editorial estará integrada por las personas que sean designadas conforme al Acuerdo General que al efecto emita el Consejo de la Judicatura; su titular será el Presidente del Consejo, auxiliado en el desempeño de sus actividades por el Secretario del mismo.
 
 ###### Artículo 155.
 
 La Comisión Editorial estará encargada de la edición, publicación y distribución del medio informativo del Poder Judicial del Estado.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ### CAPÍTULO IX. DEL CENTRO DE ESPECIALIZACIÓN JUDICIAL
 
 ###### Artículo 156.
 
-El Centro de Estadística, Informática y Computación estará a cargo de un Director y contará con el personal técnico-administrativo necesario, conforme a la disponibilidad presupuestal.
+La Dirección de Tecnologías de la Información y Comunicaciones estará a cargo de un Director y contará con el personal técnico-administrativo necesario, conforme a la disponibilidad presupuestal.
 
-Para ser Director del Centro de Estadística, Informática y Computación, se deberán reunir los requisitos siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Para ser titular de la Dirección de Tecnologías de la Información y Comunicaciones, se deberán reunir los requisitos siguientes:
 
 I. Ser ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
 
-II. Tener título de Licenciado en Informática o carrera afín y contar con su cédula profesional; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-III. Contar con una experiencia profesional de tres años, como mínimo.
+II. Tener título de Licenciado en Informática o carrera afín y contar con su cédula profesional;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+III. Contar con una experiencia profesional de tres años, como mínimo;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IV. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+V. No haber sido declarada como persona deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 157.
 
-El Centro de Estadística, Informática y Computación tendrá las funciones siguientes:
+La Dirección de Tecnologías de la Información y Comunicaciones tendrá las funciones siguientes:
 
 I. Concentrar los datos procedentes de los Juzgados, de los Centros Regionales de Administración de Justicia, de las Salas, del Pleno y demás áreas del Poder Judicial, relativos a los diversos juicios o procedimientos que ante ellos se tramiten, con el fin de efectuar un control de los mismos por medio del sistema informático. Los Jueces del sistema mixto tradicional, los administradores de los Centros Regionales, los Secretarios de Acuerdos de las Salas, los Secretarios Generales de Acuerdos y los titulares de las demás áreas, están obligados a rendir periódicamente sus informes;
 
@@ -2479,7 +2933,9 @@ II. Mantener y conservar actualizados los registros estadísticos de los juicios
 
 III. Registrar las actividades del Poder Judicial en las áreas de administración, contabilidad, recursos humanos y materiales y otras que se requieran;
 
-IV. Llevar el registro computarizado en todas las actividades de apoyo al servicio de la administración, contabilidad, recursos humanos y materiales y otras que se requieran;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IV. Llevar el registro digital en todas las actividades de apoyo al servicio de la administración, contabilidad, recursos humanos y materiales y otras que se requieran;
 
 V. Auxiliar por medio del procesamiento de datos a la Oficialía Mayor y a la Tesorería Judicial en la elaboración de patrones, nóminas, plantillas, recibos de remuneraciones que otorgue el Tribunal por concepto de servicios personales, incapacidades y permisos;
 
@@ -2491,7 +2947,9 @@ VIII. Procesar los datos establecidos en la documentación contable;
 
 IX. Llevar un registro de consignación de pensión alimenticia y rentas, cauciones, multas y reparaciones de daño;
 
-X. Elaborar anualmente la Estadística Judicial, comprendiendo todas las variables de interés judicial científico;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+X. Elaborar semestral y anualmente la Estadística Judicial, comprendiendo todas las variables de interés judicial científico;
 
 XI. Proporcionar soporte técnico y mantenimiento a los equipos de cómputo asignados a los servidores del Poder Judicial;
 
@@ -2513,7 +2971,9 @@ XIX. Solicitar al área respectiva la sustitución o compra de equipos de grabac
 
 XX. Atender las necesidades de actualización o corrección a los sistemas operativos, de control y registro de las áreas del Poder Judicial; y,
 
-XXI. Aquellas otras que determine esta Ley y acuerden los Plenos del Tribunal Superior de Justicia o del Consejo de la Judicatura.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XXI. Aquellas otras que determine esta Ley, el Reglamento y las que acuerden los Plenos del Tribunal Superior de Justicia o del Consejo de la Judicatura.
 
 ### CAPÍTULO X. DE LA DIRECCIÓN DE CONTRALORÍA
 
@@ -2523,9 +2983,21 @@ El Poder Judicial tendrá un Centro de Especialización, cuyo titular será un D
 
 I. Ser Licenciado en Derecho, en Administración de Empresas, Contador Público u otra profesión afín con cédula profesional correspondiente;
 
-II. Ser de reconocida honorabilidad; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-III. No haber sido condenado por delito intencional que merezca pena corporal.
+II. Ser de reconocida honorabilidad;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+III. No haber sido condenado por delito intencional que merezca pena corporal;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IV. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+V. No haber sido declarada como persona deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente.
 
 ###### Artículo 159.
 
@@ -2544,6 +3016,30 @@ III. Establecer y mantener comunicación permanente con otras áreas, dependenci
 IV. Promover entre el personal del Poder Judicial cursos de capacitación y actualización; y,
 
 V. Realizar las demás funciones y asumir las responsabilidades que las disposiciones legales le asignen, así como las que le confiera la superioridad.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 160 Bis.
+
+El Centro de Especialización Judicial contará con un Consejo de Administración integrado por:
+
+a) El Presidente del Consejo o el Consejero a quien éste designe, quien lo presidirá y tendrá voto de calidad;
+
+b) El Director del Centro, quien fungirá como Secretario;
+
+c) un Magistrado designado por el Pleno del Tribunal Superior de Justicia; y
+
+d) Dos miembros más que serán nombrados por el Pleno del Consejo, quienes deberán haberse destacado en el ámbito de la educación superior, investigación jurídica o el ejercicio libre de la profesión del derecho, sus cargos serán honoríficos, por lo que no recibirán retribución, emolumento o compensación alguna por su desempeño.
+
+El Consejo de Administración del Centro de Especialización Judicial tendrá las facultades siguientes:
+
+I. Aprobar los planes de trabajo, el Reglamento Interior y la estructura orgánica del Centro;
+
+II. Conocer los informes de actividades que realice el Centro;
+
+III. Establecer las políticas para el otorgamiento de apoyo a los servidores públicos del Poder Judicial; y
+
+IV. Las demás que le confiera el Consejo.
 
 ### CAPÍTULO XI. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
 
@@ -2567,9 +3063,21 @@ II. Tener título y cédula profesional de Licenciado en Derecho, Licenciado en 
 
 III. Tener práctica profesional en el ejercicio de las tareas propias o afines del control interno, no menor de tres años;
 
-IV. Ser de reconocida solvencia moral; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-V. No haber sido sentenciado por delito doloso que amerite sanción privativa de libertad.
+IV. Ser de reconocida solvencia moral;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+V. No haber sido sentenciado por delito doloso que amerite sanción privativa de libertad;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VI. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VII. No haber sido declarada como persona deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente.
 
 ###### Artículo 164.
 
@@ -2651,9 +3159,21 @@ I. Ser ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
 
 II. Tener 25 años cumplidos;
 
-III. Tener título y cédula profesional, preferentemente en las carreras de periodismo o en ciencias de la comunicación; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-IV. Contar con una experiencia profesional de tres años, como mínimo.
+III. Tener título y cédula profesional, preferentemente en las carreras de periodismo o en ciencias de la comunicación;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IV. Contar con una experiencia profesional de tres años, como mínimo;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+V. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VI. No haber sido declarada como persona deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente.
 
 ###### Artículo 168.
 
@@ -2663,7 +3183,9 @@ I. Monitorear en radio las solicitudes y denuncias de la población en la materi
 
 II. Realizar la síntesis de prensa matutina y vespertina, a nivel local y nacional sobre notas relevantes para el Poder Judicial;
 
-III. Elaborar las memorias informativas que contengan notas de prensa, video y fotografía de los cursos y conferencias que se imparten;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+III. Elaborar las memorias informativas que contengan notas de prensa, video y fotografía de los cursos, conferencias y demás actividades de capacitación que se imparten;
 
 IV. Mantener archivos de notas, videos y fotografía de los eventos realizados por el Poder Judicial;
 
@@ -2679,21 +3201,29 @@ IX. Programar entrevistas de algún servidor público del Poder Judicial, previa
 
 X. Coadyuvar con la Unidad de Transparencia en la actualización de la información generada en el portal de internet del Poder Judicial;
 
-XI. Elaborar en coordinación con otras áreas el informe semestral de labores;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XI. Elaborar en coordinación con otras áreas el informe semestral y anual de labores;
 
 XII. Redactar invitaciones para los asistentes especiales de los diferentes eventos que se llevan a cabo en el Poder Judicial;
 
 XIII. Realizar entrevistas y calendarizar las actividades necesarias para la redacción de la revista del Poder Judicial;
 
-XIV. Resguardar el directorio de funcionarios del Poder Judicial, funcionarios estatales y actualizar los datos cuando se presenten cambios;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-XV. Coordinar la entrega de invitaciones al personal, invitados especiales y medios de información y confirmar la asistencia de los invitados a los eventos;
+XIV. Resguardar el directorio de servidores públicos del Poder Judicial y estatales, así como actualizar los datos cuando se presenten cambios;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XV. Coordinar la entrega de invitaciones al personal, invitados especiales y medios de información y confirmar la asistencia a los eventos;
 
 XVI. Coadyuvar en las cotizaciones de anuncios, esquelas y notas publicadas en los medios;
 
 XVII. En coordinación con el Centro de Información y Documentación Jurídica, realizar visitas guiadas por las instalaciones del Poder Judicial; y,
 
-XVIII. Las demás que le encomiende el Pleno del Tribunal Superior de Justicia y del Consejo y directamente el Presidente y las que se determinen en el Reglamento y normatividad aplicable.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XVIII. Las demás que encomienden los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura y directamente el Presidente, las que se determinen en el Reglamento, en los Acuerdos Generales y normatividad aplicable.
 
 CAPÍTULOXII (SIC)
 
@@ -2729,9 +3259,21 @@ I. Ser ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
 
 II. Tener 25 años cumplidos;
 
-III. Tener título de Licenciado en Derecho y cédula profesional; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-IV. Contar con una experiencia profesional de tres años, como mínimo.
+III. Tener título de Licenciado en Derecho y cédula profesional;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IV. Contar con una experiencia profesional de tres años, como mínimo;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+V. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VI. No haber sido declarada como persona deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente.
 
 ### CAPÍTULO XVII. DE LA VISITADURÍA JUDICIAL
 
@@ -2739,33 +3281,51 @@ IV. Contar con una experiencia profesional de tres años, como mínimo.
 
 La Unidad de Transparencia tendrá como función garantizar bajo el principio de máxima publicidad de la información y bajo los criterios de transparencia, veracidad, oportunidad y precisión el acceso a la información pública en posesión de las diferentes áreas que forman el Poder Judicial del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 172.
 
-El titular de la Unidad de Trasparencia deberá de cumplir con los requisitos siguientes:
+El titular de la Unidad de Transparencia deberá de cumplir con los requisitos siguientes:
 
 I. Ser ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
 
 II. Tener 25 años cumplidos;
 
-III. Tener título y cédula profesional; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-IV. Contar con una experiencia profesional de tres años, como mínimo.
+III. Tener título y cédula profesional;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IV. Contar con una experiencia profesional de tres años, como mínimo;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+V. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VI. No haber sido declarada como persona deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 173.
 
-La Unidad de Trasparencia tendrá las funciones siguientes:
+La Unidad de Transparencia tendrá las funciones siguientes:
 
 I. Recabar, transparentar y actualizar la información pública de oficio a que se refiere la ley en la materia;
 
 II. Asesorar y orientar a quienes lo requieren, en la elaboración de las solicitudes de información, así como en los trámites para hacer efectivo el ejercicio de su derecho de acceso a la misma;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-III. Recibir y tramitar las solicitudes de acceso a la información pública, así como darles seguimiento hasta la entrega de dicha información en la forma que lo haya pedido el interesado conforme a la ley;
+III. Recibir, tramitar y resolver, previa consulta del área generadora o poseedora de la información, las solicitudes de acceso a la información pública, así como darles seguimiento hasta la entrega de dicha información en la forma que lo haya pedido el interesado conforme a la ley;
 
 IV. Coordinar, organizar, administrar, custodiar y sistematizar los archivos que contengan la información pública a su cargo, respetando en todo momento los lineamientos que al efecto dicte el Órgano garante en la materia;
 
-V. Llevar el registro y actualizar mensualmente las solicitudes de acceso a la información, así como sus trámites, costos de producción y/o envío y resultados;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+V. Llevar el registro y actualizar mensualmente las solicitudes de acceso a la información, así como sus trámites, resoluciones, costos de producción o envío y resultados;
 
 VI. Efectuar las notificaciones correspondientes a los solicitantes en el término del reglamento de la ley;
 
@@ -2779,13 +3339,19 @@ X. Recibir las solicitudes de aclaración, la acción de protección de datos pe
 
 XI. Coordinarse con los órganos jurisdiccionales y áreas correspondientes, para el cumplimiento en la difusión de las sentencias en versión digital, garantizando su publicidad y acceso universal, de conformidad con la ley de la materia, los criterios de la Suprema Corte de Justicia de la Nación y de la Corte Interamericana de Derechos Humanos; y,
 
-XII. Las demás que le encomienden los Plenos del Tribunal y del Consejo, a través de su Presidente y las que se determinen en el Reglamento y normatividad aplicable.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XII. Dar cumplimiento a las determinaciones del Comité de Transparencia del Poder Judicial del Estado de Tabasco; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XIII. Las demás que le encomienden los Plenos del Tribunal y del Consejo de la Judicatura, a través de su Presidente y las que se determinen en el Reglamento, Acuerdos Generales y normatividad aplicable.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 2017)</small>
 
 ### CAPITULO I. DE LAS RESPONSABILIDADES
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 174.
 
@@ -2801,9 +3367,21 @@ I. Ser ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
 
 II. Tener 25 años cumplidos;
 
-III. Tener título y cédula profesional; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-IV. Contar con una experiencia profesional de tres años, como mínimo.
+III. Tener título y cédula profesional de licenciado en Derecho;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IV. Contar con una experiencia profesional de tres años, como mínimo;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+V. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VI. No haber sido declarada como persona deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
 
@@ -2811,11 +3389,17 @@ IV. Contar con una experiencia profesional de tres años, como mínimo.
 
 La Unidad de Igualdad de Género y Derechos Humanos tendrá las funciones siguientes:
 
-I. Evaluar las implicaciones para mujeres y hombres de todas las acciones y actividades normativas, administrativas, económicas, sociales, culturales y de esparcimiento;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-II. Realizar diagnósticos integrales sobre la situación del personal jurisdiccional y administrativo en diversos aspectos relacionados con la impartición de justicia con perspectiva de género;
+I. Evaluar las implicaciones en materia de igualdad de género de acciones y actividades normativas, administrativas, económicas, sociales, culturales y de esparcimiento que incidan en la impartición de justicia e informarlas al Pleno del Tribunal;
 
-III. Promover investigaciones sobre el impacto del género;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+II. Realizar diagnósticos integrales sobre la situación del personal jurisdiccional y administrativo en diversos aspectos relacionados con la impartición de justicia con perspectiva de género e informar al Pleno del Tribunal;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+III. Promover investigaciones sobre el impacto del género en la impartición de justicia;
 
 IV. Incorporar la perspectiva de género en los programas de formación;
 
@@ -2827,11 +3411,15 @@ VI. Brindar herramientas y sensibilizar al personal jurisdiccional y administrat
 
 VII. Fomentar ambientes laborales libres de violencia y discriminación;
 
-VIII. Revisar las políticas laborales para eliminar la discriminación basada en el género;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-IX. Realizar visitas periódicas a los procesados que se encuentren recluidos, con el objeto de verificar las condiciones en que se encuentren; y,
+VIII. Revisar las políticas laborales para eliminar la discriminación basada en el género; y
 
-X. Las demás que le encomienden los Plenos del Tribunal y del Consejo, a través de su Presidente y las demás que se establezcan en el Reglamento y la normatividad aplicable.
+IX. (DEROGADA, P.O. 6 DE DICIEMBRE DE 2023)
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+X. Las demás que le encomienden los Plenos del Tribunal y del Consejo de la Judicatura, a través de su Presidente y aquellas que se establezcan en el Reglamento, los Acuerdos Generales y la normatividad aplicable.
 
 CAPÍTULOXV (SIC)
 
@@ -2853,9 +3441,21 @@ III. Tener título y cédula profesional en Ingeniería Civil o carrera afín;
 
 IV. Declaración Jurada de no tener a la fecha de la convocatoria contrato vigente de otra supervisión o residencia de obra o tener pendientes trabajos por entregar para instituciones del Estado;
 
-V. Tener dominio de la Ley de Obras Públicas y Servicios Relacionados con las mismas del Estado y de la normatividad aplicable en el ámbito municipal; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-VI. Contar con una experiencia profesional acreditable, no menor de tres años, como supervisor o residente de obra.
+V. Tener dominio de la Ley de Obras Públicas y Servicios Relacionados con las mismas del Estado y de la normatividad aplicable en el ámbito municipal;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VI. Contar con una experiencia profesional acreditable, no menor de tres años, como supervisor o residente de obra;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VII. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VIII. No haber sido declarada como persona deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente.
 
 ###### Artículo 179.
 
@@ -2873,7 +3473,9 @@ V. Coordinar y vigilar a los supervisores de obra externos y peritos, que sean c
 
 VI. Revisar y validar los dictámenes técnicos que en materia de obra pública se emitan, atendiendo a los requerimientos de la institución; y,
 
-VII. Las demás que le encomiende el Pleno del Tribunal Superior de Justicia, el Consejo, el Presidente y las que se determinen en el Reglamento y normatividad aplicable.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VII. Las demás que le encomienden los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura, el Presidente y las que se determinen en el Reglamento, los Acuerdos Generales y normatividad aplicable.
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS RECTORES
 
@@ -2883,15 +3485,19 @@ El Centro de Convivencia Familiar del Poder Judicial tiene por objeto, brindar u
 
 El Centro es un órgano dependiente del Consejo de la Judicatura del Poder Judicial del Estado de Tabasco, auxiliar en el cumplimiento de las determinaciones jurisdiccionales en materia de convivencia familiar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 181.
 
-El Centro estará a cargo de un Coordinador General.
+El Centro estará a cargo de un Coordinador.
 
 Para ser Coordinador del Centro se requiere:
 
 I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-II. Tener título y cédula profesional; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+II. Tener título y cédula profesional de licenciado en Derecho; y
 
 III. Tener experiencia en materia familiar, con conocimientos en psicología, trabajo social o medios alternativos de solución de conflictos, con una antigüedad mínima de tres años.
 
@@ -2925,9 +3531,17 @@ XII. Conservar en buen estado las instalaciones del Centro, aplicando al efecto 
 
 XIII. Disponer del personal de vigilancia adscrito al Centro, para impedir o controlar las conductas agresivas o violentas por parte de los usuarios, que alteren el orden y la tranquilidad;
 
-XIV. Las demás inherentes y aplicables al adecuado cumplimiento del objeto del funcionamiento del Centro; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-XV. Las demás que le encomienden los Plenos del Tribunal y del Consejo, a través de su Presidente y las que establezcan el Reglamento y la normatividad aplicable.
+XIV. Las demás inherentes y aplicables al adecuado cumplimiento del objeto del funcionamiento del Centro;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XV. Informar al Consejo de la Judicatura cuando considere que existe algún conflicto de las partes; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XVI. Las demás que le encomienden los Plenos del Tribunal y del Consejo de la Judicatura, a través de su Presidente, las que establezcan el Reglamento, los Acuerdos Generales y la normatividad aplicable.
 
 ### CAPITULO III. DE LOS ÓRGANOS COMPETENTES
 
@@ -2942,6 +3556,30 @@ La Visitaduría Judicial estará a cargo de un Director General y de los visitad
 ###### Artículo 185.
 
 La Dirección General de Visitaduría Judicial estará a cargo de un Director General y se conformará con las instalaciones, equipamiento y personal actualmente adscrito a la Visitaduría Judicial y demás empleados que el Consejo determine.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 185 Bis.
+
+Para ser Director General de la Visitaduría Judicial se requiere:
+
+I. Ser ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
+
+II. Tener cuando menos treinta y cinco años de edad al día de su designación;
+
+III. Gozar de buena reputación;
+
+IV. No tener condena por delito con pena privativa de libertad mayor de un año;
+
+V. Tener título de licenciado en Derecho legalmente expedido, cédula y práctica profesional de cuando menos cinco años;
+
+VI. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y
+
+VII. No haber sido declarada como persona deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente.
+
+Su designación se hará por el propio Consejo de la Judicatura mediante el concurso de oposición que se lleve a cabo, en términos de lo previsto en esta Ley para el nombramiento de Juez.
+
+El Consejo de la Judicatura establecerá, mediante acuerdos generales, los sistemas que permitan evaluar periódicamente el desempeño y la honorabilidad del Director General para efectos de lo que se dispone en esta Ley en materia de responsabilidad.
 
 ###### Artículo 186.
 
@@ -2993,9 +3631,17 @@ XXII. Opinar acerca del período en que debe disfrutar de vacaciones el personal
 
 XXIII. Formular y proponer al Consejo los proyectos normativos relacionados con las funciones de la Visitaduría Judicial;
 
-XXIV. Rendir al Consejo, con copia para su Secretaría General, en los términos indicados por la Presidencia, el informe detallado de actividades realizadas durante los correspondientes períodos ordinarios de labores; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-XXV. Las demás que le confieran las leyes, el Pleno del Consejo de la Judicatura y demás ordenamientos.
+XXIV. Rendir al Consejo de la Judicatura, con copia para su Secretaría General, en los términos indicados por la Presidencia, el informe detallado de actividades realizadas durante los correspondientes períodos ordinarios de labores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XXV. Recibir los informes circunstanciados derivados de la visita que remitan los Jueces e informar al Pleno del Consejo de la Judicatura; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XXVI. Las demás que le confieran las leyes, el Reglamento, el Pleno del Consejo de la Judicatura, los Acuerdos Generales y demás ordenamientos aplicables.
 
 ###### Artículo 187.
 
@@ -3003,23 +3649,37 @@ Los visitadores deberán satisfacer los requisitos siguientes:
 
 I. Ser ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
 
-II. Ser mayor de treinta y cinco años;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+II. Tener veinticinco años cumplidos;
 
 III. Gozar de buena reputación;
 
 IV. No tener condena por delito con pena privativa de libertad mayor de un año;
 
-V. Tener título y cédula profesional de Licenciado en Derecho legalmente expedido y práctica profesional de cuando menos cinco años; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-VI. Tener conocimientos del Sistema Procesal Penal Acusatorio y Oral.
+V. Tener título y cédula profesional de licenciado en Derecho legalmente expedido y práctica profesional de cuando menos tres años;
 
-Su designación se hará por el propio Consejo mediante el concurso de oposición que se lleve a cabo en términos de lo previsto en esta Ley para el nombramiento de Juez.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VI. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VII. No haber sido declarada como persona deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Su designación se hará por el propio Consejo de la Judicatura.
 
 El Consejo de la Judicatura establecerá, mediante acuerdos generales, los sistemas que permitan evaluar de manera periódica el desempeño y la honorabilidad de los visitadores para efectos de lo que se dispone en esta Ley en materia de responsabilidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 188.
 
-Los visitadores, de acuerdo con los sorteos periódicos que realice el Consejo de la Judicatura, deberán inspeccionar de manera ordinaria los juzgados, los Centros Regionales de Administración de Justicia en lo que atañe al ámbito administrativo y demás áreas de su competencia, cuando menos dos veces por año, de conformidad con las disposiciones generales que emita el Consejo de la Judicatura en esta materia.
+Los visitadores, de acuerdo con los sorteos periódicos que realice el Consejo de la Judicatura, deberán inspeccionar de manera ordinaria los juzgados, los Centros Regionales de Administración de Justicia en lo que atañe al ámbito administrativo y demás áreas de su competencia, cuando menos una vez por año, de conformidad con las disposiciones generales que emita el Consejo de la Judicatura en esta materia.
 
 Los visitadores deberán informar con la debida oportunidad al titular del órgano jurisdiccional o del área correspondiente, de la visita ordinaria de inspección que vayan a practicar a fin de que procedan a fijar el correspondiente aviso en los estrados del órgano con una anticipación mínima de quince días, para el efecto de que las personas interesadas puedan acudir a la visita y manifestar sus quejas o denuncias.
 
@@ -3041,15 +3701,21 @@ III. Comprobarán si se encuentran debidamente asegurados los instrumentos y obj
 
 IV. Revisarán los libros de gobierno, sean impresos o digitales, a fin de determinar si se encuentran en orden y contienen los datos requeridos;
 
-V. Harán constar, según la competencia del juzgado que revisen, el número de asuntos penales y civiles que hayan ingresado al órgano visitado durante el tiempo que comprenda la visita, y determinarán si los procesados que disfrutan de libertad caucional han cumplido con la obligación de presentarse en los plazos fijados, y si en algún proceso en suspenso transcurrió el término de prescripción de la acción penal; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-VI. Examinarán los expedientes formados con motivos de causas penales y civiles, según el caso, que se estime conveniente a fin de verificar que se llevan con arreglo a la ley; si las resoluciones y acuerdos han sido dictados y cumplidos oportunamente; si las notificaciones y diligencias se efectuaron en los plazos legales; si los exhortos y despachos han sido diligenciados y si se han observado los términos constitucionales y demás derechos que la Constitución Federal otorga a los procesados.
+V. Harán constar, según la competencia del juzgado que revisen, el número de asuntos que hubieran ingresado al órgano visitado durante el tiempo que comprenda la visita, y determinarán si los procesados que disfrutan de libertad han cumplido con las obligaciones contraídas y si en algún proceso en suspenso transcurrió el término de prescripción; y
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VI. Examinarán los expedientes y causas formadas, según el caso, que se estime conveniente a fin de verificar que se llevan con arreglo a la ley; si las resoluciones y acuerdos han sido dictados y oportunamente; si las notificaciones y diligencias se efectuaron en los plazos legales; si los exhortos y despachos han sido diligenciados y si se han observado los términos constitucionales y demás derechos que la Constitución Federal otorga a los procesados.
 
 ###### Artículo 190.
 
 El Consejo de la Judicatura podrá ordenar al titular de la Visitaduría Judicial la celebración de visitas extraordinarias de inspección o la integración de comités de investigación, siempre que a su juicio, o a solicitud del Pleno o del Presidente del Tribunal Superior de Justicia, existan elementos que hagan presumir irregularidades cometidas por un juez o demás personal de un juzgado o de otro órgano que sea competencia del Consejo de la Judicatura.
 
-Asimismo, la Visitaduría Judicial podrá auxiliar al Magistrado que el Pleno designe, para llevar a cabo las visitas a que se refiere el artículo 16, fracción XXV de esta Ley.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Asimismo, la Visitaduría Judicial podrá auxiliar al Magistrado comisionado a la Presidencia o a aquel que el Pleno designe, para llevar a cabo las visitas a que se refiere el artículo 16, fracción XXV de esta Ley.
 
 ## TITULO SÉPTIMO. DE LAS RESPONSABILIDADES, LOS PRINCIPIOS RECTORES, LOS ÓRGANOS COMPETENTES, LAS SANCIONES, LAS FALTAS, EL PROCEDIMIENTO Y EL RECURSO DE REVISION ADMINISTRATIVA
 
@@ -3059,7 +3725,9 @@ Asimismo, la Visitaduría Judicial podrá auxiliar al Magistrado que el Pleno de
 
 ###### Artículo 191.
 
-Los Magistrados, miembros del Consejo de la Judicatura, Jueces y demás servidores públicos del Poder Judicial, serán sujetos de responsabilidad y sancionados por las faltas, actos u omisiones y delitos que cometan durante el ejercicio de su cargo, conforme lo dispuesto por los artículos del 108 al 111 de la Constitución Federal; 62, del 66 al 68 y del 70 al 73 de la Constitución del Estado; las leyes penales; la Ley General de Responsabilidades Administrativas; la Ley de Responsabilidades Administrativas, Reglamentaria de los artículos 68 y 69, del Título VII, de la Constitución Política del Estado de Tabasco; esta Ley, sus disposiciones reglamentarias, acuerdos generales, lineamientos o manuales de organización interna y demás ordenamientos aplicables.
+Los Magistrados, integrantes del Consejo de la Judicatura, Jueces y demás servidores públicos del Poder Judicial, serán sujetos de responsabilidad y sancionados por las faltas, actos u omisiones y delitos que cometan durante el ejercicio de su cargo, conforme lo dispuesto por los artículos del 108 al 111 de la Constitución Federal; 62, 66 al 68 y 73 de la Constitución del Estado; las leyes penales; la Ley General de Responsabilidades Administrativas; la Ley de Responsabilidad Administrativa de los Servidores Públicos, Reglamentaria del artículo 68, del Título VII, de la Constitución Política del Estado Libre y Soberano de Tabasco; esta Ley, sus disposiciones reglamentarias, Acuerdos Generales, lineamientos o manuales de organización interna y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 Cuando a dichos servidores públicos se les instruya proceso penal por la posible comisión de algún delito, quedarán separados provisionalmente de sus cargos a partir de que se dicte auto de vinculación a proceso, previa declaración del Pleno del Tribunal o del Consejo de la Judicatura, según el caso. Si la sentencia es condenatoria ameritará la separación definitiva, pero si es absolutoria podrán reasumir su función.
 
@@ -3103,9 +3771,13 @@ XIV. La buena fe.
 
 Los órganos competentes para sustanciar los procedimientos de responsabilidad, serán los siguientes:
 
-I. Respecto de los Magistrados, Secretario General de Acuerdos del Tribunal, Secretarios de Estudio y Cuenta, Secretarios de Sala, Auxiliares de Magistrados, Secretarios de Mesa, Auxiliares de Mesa, Actuarios y demás servidores judiciales que ejerzan funciones jurisdiccionales o de apoyo en las mismas en Segunda Instancia, el Pleno del Tribunal Superior de Justicia por conducto de la persona que éste designe, quien será asistido por el Secretario General de Acuerdos; en tratándose de los Magistrados, dicha designación deberá recaer en otro Magistrado;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-II. En cuanto a los Consejeros, Jueces, Proyectistas, Conciliadores, Secretarios Judiciales, Director General de Administración de Justicia del Sistema Procesal Penal, Acusatorio y Oral, Administradores de cada Centro Regional de Administración de Justicia, Jefes de Unidad de Causa, Jefes de Unidad de Sala, Jefe de Unidad de Servicios, Jefe de Unidad de Informática, Notificadores, Actuarios y demás servidores judiciales que ejerzan funciones jurisdiccionales o de apoyo en las mismas en Primera Instancia, el Pleno del Consejo de la Judicatura, quien también conocerá respecto de su propio personal, por conducto de la persona que éste designe, quien será asistido por el Secretario del Consejo; en tratándose de los Consejeros, dicha designación deberá recaer en otro Consejero;
+I. Respecto de los Magistrados, Secretario General de Acuerdos del Tribunal, Secretarios de Estudio y Cuenta, Secretarios de Sala, Auxiliares de Magistrados, Secretarios de Mesa, Auxiliares de Mesa, Actuarios y demás servidores judiciales que ejerzan funciones en Segunda Instancia, el Pleno del Tribunal Superior de Justicia por conducto de la persona que éste designe, quien será asistido por el Secretario General de Acuerdos; en tratándose de los Magistrados, dicha designación deberá recaer en otro Magistrado;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+II. En cuanto a los Consejeros, Jueces, Proyectistas, Conciliadores, Secretarios Judiciales, Director General de Administración de Justicia del Sistema Procesal Penal, Acusatorio y Oral, Director General de Administración de los Tribunales Laborales, Administradores de cada Centro Regional de Administración de Justicia, Jefes de Unidad de Causa, Jefes de Unidad de Sala, Notificadores, Actuarios y demás servidores judiciales que ejerzan funciones en Primera Instancia, el Pleno del Consejo de la Judicatura, quien también conocerá respecto de su propio personal, por conducto de la persona que éste designe, quien será asistido por el Secretario del Consejo de la Judicatura; en tratándose de los Consejeros, dicha designación deberá recaer en otro Consejero;
 
 III. Referente al personal que realice funciones administrativas en las áreas del Poder Judicial del Estado, a la Dirección de Contraloría; y,
 
@@ -3165,11 +3837,13 @@ Las sanciones deberán aplicarse de manera proporcional al tipo de falta cometid
 
 Las sanciones derivadas de responsabilidad administrativa, se aplicarán con independencia de aquellas que se deriven en otras materias.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 198.
 
-Cuando por el incumplimiento de las obligaciones establecidas en las disposiciones jurídicas aplicables, se obtenga beneficio o lucro, o se cause daño o perjuicio, procederá la imposición de sanción económica; en cuyo caso el monto de ésta podrá ser de hasta tres veces el beneficio o lucro obtenido, o del daño o perjuicio causado.
+Cuando por el incumplimiento de las obligaciones establecidas en las disposiciones jurídicas aplicables, se obtenga beneficio o lucro procederá la imposición de sanción económica.
 
-En ningún caso la sanción económica impuesta podrá ser menor o igual al monto del beneficio o lucro obtenido, o del daño o perjuicio causado.
+La sanción económica impuesta podrá ser menor o igual al monto del beneficio obtenido.
 
 ###### Artículo 199.
 
@@ -3179,13 +3853,17 @@ La destitución se aplicará a los servidores públicos cuando la falta sea grav
 
 La sanción de inhabilitación se aplicará de la manera siguiente:
 
-I. De tres meses a un año, al servidor público que con la comisión de la falta no cause daño o perjuicio, ni obtenga beneficio o lucro alguno;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+I. De tres meses a un año, al servidor público que con la comisión de la falta no cause daño o perjuicio, ni obtenga beneficio alguno;
 
-II. De uno a diez años, al servidor público que con la comisión de la falta, cause daño o perjuicio u obtenga un beneficio o lucro, siempre que el monto de éstos no exceda de doscientas veces el valor mensual de la Unidad de Medida y Actualización; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-III. De diez a veinte años, al servidor público que con la comisión de la falta, ocasione daño o perjuicio u obtenga un beneficio o lucro que exceda de la cantidad establecida en la fracción anterior, así como al servidor público que cometa una falta considerada como grave.
+II. De uno a diez años, al servidor público que con la comisión de la falta, cause daño o perjuicio u obtenga un beneficio, siempre que el monto de éstos no exceda de doscientas veces el valor mensual de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+III. De diez a veinte años, al servidor público que con la comisión de la falta, obtenga un beneficio que exceda de la cantidad establecida en la fracción anterior, así como al servidor público que cometa una falta considerada como grave.
 
 ###### Artículo 201.
 
@@ -3299,17 +3977,23 @@ XVIII. Oculten datos o proporcionen datos falsos en los informes que deban rendi
 
 XIX. Se nieguen a recibir comunicaciones oficiales, con independencia del ejercicio de sus derechos; y,
 
-XX. Se abstengan de cumplir alguna de las obligaciones previstas en los demás ordenamientos y disposiciones normativas que les sean aplicables
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XX. Se abstengan de cumplir alguna de las obligaciones previstas en los demás ordenamientos, Acuerdos Generales y disposiciones normativas que les sean aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 208.
 
-Son faltas de los miembros del Consejo de la Judicatura las siguientes:
+Son faltas de los integrantes del Consejo de la Judicatura las siguientes:
 
 I. Falte o abandone las sesiones del Consejo;
 
 II. No cumpla con las comisiones encomendadas;
 
-III. No informe al Consejo, con quince días de anticipación como mínimo, de la fecha en que vence el plazo para el cual fueron nombrados Consejeros;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+III. No informe al Consejo de la Judicatura, con tres meses de anticipación como mínimo, de la fecha en que vence el plazo para el cual fueron nombrados Consejeros;
 
 IV. No acuerde dentro del plazo legal las quejas, escritos o promociones de las partes;
 
@@ -3321,51 +4005,85 @@ VII. (DEROGADA, P.O. 22 DE MARZO DE 2017)
 
 VIII. Abstenerse de excusarse en aquellos asuntos que deba hacerlo;
 
-IX. Realice alguna de las prohibiciones previstas en los demás ordenamientos y disposiciones normativas que les sean aplicables;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-X. Se abstenga de cumplir alguna de las obligaciones previstas en los demás ordenamientos y disposiciones normativas que les sean aplicables; y,
+IX. Realice alguna de las prohibiciones previstas en los demás ordenamientos, disposiciones normativas o Acuerdos Generales que les sean aplicables;
 
-XI. Las señaladas en el artículo 213 de esta Ley y las demás, que en su caso, se establezcan en su Reglamento Interior.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+X. Se abstenga de cumplir alguna de las obligaciones previstas en los demás ordenamientos, disposiciones normativas o Acuerdos Generales que les sean aplicables; y
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XI. Las señaladas en el artículo 213 de esta Ley y las demás, que en su caso, se establezcan en su Reglamento Interior o en los Acuerdos Generales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 209.
 
-Son faltas de los Secretarios:
+Son faltas de los Secretarios, abstenerse de:
 
-I. No dar cuenta dentro del término legal con los escritos y promociones de las partes;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-II. No asentar en autos las certificaciones que procedan de oficio o por mandato judicial;
+I. Dar cuenta dentro del término legal con los escritos y promociones de las partes;
 
-III. No elaborar hasta poner en estado de notificación los proveídos dictados por el Juez, o retardarlos innecesariamente;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-IV. No dar cuenta al Juez o al Presidente del Consejo de la Judicatura, de las faltas u omisiones que personalmente hubiere notado en los empleados o que sean denunciadas por el público verbalmente o por escrito;
+II. Asentar en autos las certificaciones que procedan de oficio o por mandato judicial;
 
-V. No engrosar a sus autos las sentencias dentro del término legal;
+III. Elaborar hasta poner en estado de notificación los proveídos dictados por el Juez, o retardarlos innecesariamente;
 
-VI. No entregar a los actuarios los expedientes para notificación;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-VII. Negar los expedientes o tocas a las partes que lo soliciten;
+IV. Dar cuenta al Juez o al Presidente del Consejo de la Judicatura, de las faltas u omisiones que personalmente hubiere notado en los empleados o que sean denunciadas por el público verbalmente o por escrito;
 
-VIII. No enviar al archivo, al terminar el año, los expedientes cuya remisión sea forzosa, conforme a la ley;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-IX. No verifiquen que las demandas, escritos o promociones recibidas diariamente, sean acordadas dentro de los plazos previstos en la ley;
+V. Engrosar a sus autos las sentencias dentro del término legal;
 
-X. No guardar la discreción que la ley le impone sobre los asuntos que estén a su cargo;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-XI. No tramitar o remitir dentro del plazo legal los recursos interpuestos por las partes para la sustanciación de los mismos;
+VI. Entregar a los actuarios los expedientes para notificación;
 
-XII. Certifiquen algún acto o documento contra constancias de autos;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-XIII. Abstenerse de excusarse en aquellos asuntos que deba hacerlo;
+VII. Proporcionar los expedientes o tocas a las partes que lo soliciten;
 
-XIV. Realicen alguna de las prohibiciones previstas en los demás ordenamientos y disposiciones normativas que les sean aplicables;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-XV. Se abstengan de realizar alguna de las obligaciones previstas en los demás ordenamientos y disposiciones normativas que les sean aplicables; y,
+VIII. Enviar al archivo, cuando corresponda, los expedientes cuya remisión sea forzosa, conforme a la ley;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IX. Verificar que las demandas, escritos o promociones recibidas diariamente, sean acordadas dentro de los plazos previstos en la ley;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+X. Guardar la discreción que la ley le impone sobre los asuntos que estén a su cargo;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XI. Tramitar o remitir dentro del plazo legal los recursos interpuestos por las partes para la sustanciación de los mismos;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XII. Certificar algún acto o documento de forma fiel y auténtica a las constancias de autos;
+
+XIII. (DEROGADA, P.O. 6 DE DICIEMBRE DE 2023)
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XIV. Excusarse en aquellos asuntos que deba hacerlo; y
+
+XV. (DEROGADA, P.O. 6 DE DICIEMBRE DE 2023)
 
 XVI. Las señaladas en las fracciones IX y XI del artículo 207 de esta Ley.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 210.
 
-Son faltas del Director General de Administración del Sistema Procesal Penal Acusatorio y Oral, no cumplir con las funciones a que se refiere el artículo 87 de la presente Ley, las que determine el Pleno del Tribunal o del Consejo, y los demás ordenamientos aplicables.
+Son faltas del Director General de Administración del Sistema Procesal Penal Acusatorio y Oral, no cumplir con las funciones a que se refiere el artículo 87 de la presente Ley, las que determine el Pleno del Tribunal o del Consejo de la Judicatura, los Acuerdos Generales, así como los demás ordenamientos aplicables.
 
 ###### Artículo 211.
 
@@ -3417,9 +4135,17 @@ V. Abusar de su fe pública expresando haber notificado por cédula o personalme
 
 VI. Practicar embargos, aseguramientos, retención de bienes, o lanzamientos de personas físicas o morales que no estén ordenados en autos y en perjuicio de terceros;
 
-VII. Realizar alguna de las prohibiciones previstas en los demás ordenamientos y disposiciones normativas que les sean aplicables; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-VIII. Abstenerse de cumplir alguna de las obligaciones previstas en los demás ordenamientos y disposiciones normativas que les sean aplicables.
+VII. Realizar alguna de las prohibiciones previstas en los demás ordenamientos, Acuerdos Generales y disposiciones normativas que les sean aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VIII. Tener a su cargo sin notificar un número considerable de expedientes, sin causa justificada para ello; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IX. Abstenerse de cumplir alguna de las obligaciones previstas en los demás ordenamientos, Acuerdos Generales y disposiciones normativas que les sean aplicables.
 
 ###### Artículo 213.
 
@@ -3453,13 +4179,23 @@ XIII. Emitir opinión pública que implique prejuzgar sobre un asunto de su cono
 
 XIV. Abandonar o dejar de desempeñar las funciones o labores que tenga a su cargo;
 
-XV. Las previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Tabasco, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional o del Consejo;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XV. Las previstas en la Ley General de Responsabilidades Administrativas, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional o del Consejo;
 
 XVI. Las previstas en la Ley de los Trabajadores al Servicio del Estado de Tabasco, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional o del Consejo;
 
-XVII. Incurrir en conductas que transgredan lo dispuesto en el Código de Ética de la Institución; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-XVIII. Las demás que establezcan las leyes, los reglamentos, Manuales de Procedimiento y Modelos de Gestión, Manual de Organización del Poder Judicial y Descriptores de Puestos, así como los acuerdos que emitan los Plenos del Tribunal y del Consejo de la Judicatura.
+XVII. Incurrir en conductas que transgredan lo dispuesto en el Código de Ética de la Institución;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XVIII. Disponer para sí o para otros de recursos financieros que le hayan sido entregados por virtud de su empleo, cargo o comisión; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XIX. Las demás que establezcan las leyes, los reglamentos, Manuales de Procedimiento y Modelos de Gestión, Manual de Organización del Poder Judicial y Descriptores de Puestos, así como los acuerdos que emitan los Plenos del Tribunal y del Consejo de la Judicatura.
 
 ### CAPÍTULO II. DE LA SUPLENCIA DE LOS SERVIDORES DEL PODER JUDICIAL
 
@@ -3475,7 +4211,9 @@ En el acta que se levante se asentará únicamente lo necesario para hacer const
 
 Los escritos que se presenten en lengua extranjera, se acompañarán de la traducción correspondiente.
 
-En caso de que el escrito sea presentado utilizando lengua indígena o el promovente no comprenda o hable el idioma español y no cuente con intérprete, el Consejo ordenará de oficio la traducción, para salvaguardar sus derechos.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+En caso de que el escrito sea presentado utilizando lengua originaria o el promovente no comprenda o hable el idioma español y no cuente con intérprete, el Consejo de la Judicatura ordenará de oficio la traducción, para salvaguardar sus derechos.
 
 ###### Artículo 216.
 
@@ -3549,9 +4287,11 @@ Las notificaciones podrán hacerse personalmente, por lista, oficio, mensajería
 
 Las notificaciones surtirán efectos al día siguiente en que se realizan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 229.
 
-Las personas que intervengan en el procedimiento de responsabilidad designarán, en la primera actuación, un domicilio para oír y recibir notificaciones.
+Las personas que intervengan en el procedimiento de responsabilidad designarán, en la primera actuación, un domicilio, correo electrónico o número de teléfono celular para oír y recibir notificaciones.
 
 Si por cualquier circunstancia no realizan la designación, cambian de domicilio sin dar aviso o señalan uno falso, las notificaciones posteriores al emplazamiento se harán por lista, en la forma que establece el artículo 227 de esta Ley, aun cuando deban ser personales.
 
@@ -3581,9 +4321,17 @@ I. Denominación del órgano que dictó el acuerdo o resolución que se pretende
 
 II. Datos del expediente en el que se dictó;
 
-III. Extracto del acuerdo o resolución que se notifica; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-IV. Día y hora en que se practica la notificación y nombre de la persona con quien se entiende la misma.
+III. Extracto del acuerdo o resolución que se notifica;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IV. Día y hora en que se practica la notificación y nombre de la persona con quien se entiende la misma; y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+V. Descripción y contenido de los anexos.
 
 Las subsecuentes notificaciones se harán en el domicilio que los intervinientes en el procedimiento hayan señalado.
 
@@ -3603,9 +4351,11 @@ La notificación de las resoluciones que pongan fin al procedimiento de responsa
 
 Durante la audiencia podrán realizarse notificaciones personales de manera verbal, lo que se hará constar en acta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 236.
 
-Las notificaciones por lista se practicarán fijando en lugar visible de las oficinas del Consejo, de la Secretaría General de Acuerdos del Tribunal y de la Dirección de Contraloría, la lista relativa al asunto acordado, donde únicamente se expresarán el número del expediente y un extracto del acuerdo o resolución que deba notificarse, y se asentará constancia de ese hecho en los expedientes respectivos.
+Las notificaciones por lista se practicarán fijando en lugar visible de las oficinas del Consejo de la Judicatura, de la Secretaría General de Acuerdos del Tribunal o de la Dirección de Contraloría, la lista relativa al asunto acordado, donde únicamente se expresarán el número del expediente y un extracto del acuerdo o resolución que deba notificarse, y se asentará constancia de ese hecho en los expedientes respectivos.
 
 La notificación se tendrá por hecha al tercer día en que se fije la lista.
 
@@ -3627,7 +4377,7 @@ Las notificaciones por mensajería se realizarán a través de alguna empresa es
 
 ###### Artículo 241.
 
-Toda persona está obligada a presentarse ante el Consejo, el Secretario General de Acuerdos del Tribunal o el Secretario de Acuerdos del Consejo y la Dirección de Contraloría, cuando sea citada.
+Toda persona está obligada a presentarse ante el Consejo de la Judicatura, el Secretario General de Acuerdos del Tribunal, el Secretario de Acuerdos del Consejo o la Dirección de Contraloría, cuando sea citada.
 
 ###### Artículo 242.
 
@@ -3649,13 +4399,15 @@ V. Firma del servidor público que ordena la citación.
 
 ###### Artículo 244.
 
-En cualquier etapa de la investigación o procedimiento de responsabilidad, el Consejo, el Pleno del Tribunal y la Dirección de Contraloría, podrán dictar medidas cautelares, debidamente fundadas y motivadas, las cuales no prejuzgarán sobre la responsabilidad que se imputa, lo que se hará constar expresamente en la determinación, y cesarán cuando así se resuelva.
+En cualquier etapa de la investigación o procedimiento de responsabilidad, el Consejo de la Judicatura, el Pleno del Tribunal o la Dirección de Contraloría, podrán dictar medidas cautelares, debidamente fundadas y motivadas, las cuales no prejuzgarán sobre la responsabilidad que se imputa, lo que se hará constar expresamente en la determinación, y cesarán cuando así se resuelva.
 
 > <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
 
 Dichas medidas cautelares podrán consistir en:
 
-I. Suspensión temporal del servidor público sujeto al procedimiento, del empleo, cargo o comisión que desempeñe, en términos de lo dispuestos (sic) por los artículos 245, 246 y 247;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+I. Suspensión temporal del servidor público sujeto al procedimiento, del empleo, cargo o comisión que desempeñe, en términos de lo dispuesto por los artículos 245, 246 y 247 de esta Ley;
 
 II. Exhibición de documentos originales relacionados directamente con la presunta falta administrativa;
 
@@ -3669,9 +4421,11 @@ V. Las que sean necesarias para evitar un daño irreparable a la Hacienda Públi
 
 En las disposiciones reglamentarias deberán establecerse los mecanismos, condiciones y circunstancias de aplicación de dichas medidas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 245.
 
-Durante la investigación, o una vez iniciado el procedimiento de responsabilidad, el Consejo, el Tribunal y la Dirección de Contraloría, podrán determinar, como medida cautelar, la suspensión temporal del servidor público en su cargo, empleo o comisión.
+Durante la investigación, o una vez iniciado el procedimiento de responsabilidad, el Consejo de la Judicatura, el Tribunal o la Dirección de Contraloría, podrán determinar, como medida cautelar, la suspensión temporal del servidor público en su cargo, empleo o comisión.
 
 Dicha medida sólo podrá aplicarse en los casos siguientes:
 
@@ -3699,9 +4453,11 @@ La remuneración económica, en su caso, se determinará en cantidad líquida, t
 
 Se informará al área correspondiente del Poder Judicial, el monto que se haya determinado como remuneración económica, a fin de que realice los trámites que correspondan, con el objeto de garantizar las percepciones económicas que deban pagarse al servidor público.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 249.
 
-El órgano competente que determine el otorgamiento de la remuneración económica al servidor público suspendido, podrá dejar sin efectos esa determinación en los casos que establezcan las disposiciones reglamentarias respectivas.
+El órgano competente que determine el otorgamiento de la remuneración económica al servidor público suspendido podrá dejar sin efectos esa determinación en los casos que establezcan las disposiciones reglamentarias o Acuerdos Generales respectivos.
 
 ###### Artículo 250.
 
@@ -3763,9 +4519,9 @@ Si de las constancias se advierte que no existen elementos suficientes que acred
 
 Las facultades de los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura, así como la Dirección de Contraloría para imponer las sanciones que esta Ley prevé y la de los ordenamientos se sujetarán a lo siguiente:
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-I. Prescribirán en tres años, si el beneficio obtenido o el daño causado por el infractor no excede de cincuenta veces el valor diario de la Unidad de Medida y Actualización. De igual manera, prescribirán en el mismo plazo las faltas que sean leves y que no ocasionen un daño económico; y
+I. Prescribirán en tres años, si el beneficio obtenido por el infractor no excede de cincuenta veces el valor diario de la Unidad de Medida y Actualización. De igual manera, prescribirán en el mismo plazo las faltas que sean leves y que no ocasionen un daño económico; y
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
@@ -3793,7 +4549,7 @@ No obstante, si del escrito de queja se desprenden indicios que permitan estable
 
 ###### Artículo 264.
 
-Si el escrito de queja es oscuro o irregular, la autoridad que conozca del asunto señalará en forma concreta las irregularidades y prevendrá al quejoso, por una sola vez, para que en el plazo de tres días hábiles lo aclare o corrija y de no hacerlo, se desechará.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2023)
 
 ###### Artículo 265.
 
@@ -3811,9 +4567,11 @@ Se presumen confesados los hechos sobre los cuales el probable responsable no se
 
 La autoridad que inicia el procedimiento, hará el emplazamiento a que hace referencia el artículo anterior mediante notificación personal.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 268.
 
-El plazo de cinco días hábiles para rendir el informe comienza a correr a partir del día siguiente en que surta efectos el emplazamiento.
+El plazo de cinco días hábiles para rendir el informe se computará a partir del día siguiente en que surta efectos el emplazamiento.
 
 ###### Artículo 269.
 
@@ -3821,7 +4579,9 @@ El procedimiento de responsabilidad se suspenderá de oficio, en los supuestos s
 
 I. Cuando la autoridad se encuentra impedida para tramitar el procedimiento por caso fortuito o fuerza mayor;
 
-II. Cuando la autoridad competente considera que no es posible pronunciarse sobre el asunto sino hasta que se emita una resolución en otro procedimiento; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+II. Cuando la autoridad competente considere que no es posible pronunciarse sobre el asunto sino hasta que se emita una resolución en otro procedimiento; y,
 
 III. En cualquier otro caso previsto en las disposiciones aplicables.
 
@@ -3885,17 +4645,23 @@ El recurso se desechará de plano, cuando las resoluciones impugnadas se refiera
 
 Admitido el recurso, el Presidente del Pleno respectivo, con el auxilio de su Secretaría hará el trámite que corresponda.
 
-No se admitirán más pruebas que las documentales públicas, las cuales deberán ser ofrecidas por el promovente o el tercer interesado, en su caso.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+No se admitirán más pruebas que las documentales públicas, las cuales deberán ser ofrecidas por el promovente o el tercero interesado, en su caso.
 
 Concluido el procedimiento, se turnará a un Magistrado o Consejero, según sea el caso, para que formule el proyecto de resolución que se someterá a la consideración de su Pleno para la determinación correspondiente.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 279.
 
-Tendrá el carácter de tercer interesado, aquella persona favorecida con el acto o resolución que se recurre a quien deberá notificársele del recurso, dentro del plazo de tres días hábiles siguientes a su radicación, a fin de que pueda ofrecer pruebas y alegar lo que a su derecho convengan.
+Tendrá el carácter de tercero interesado, aquella persona favorecida con el acto o resolución que se recurre a quien deberá notificársele del recurso, dentro del plazo de tres días hábiles siguientes a su radicación, a fin de que pueda ofrecer pruebas y alegar lo que a su derecho convengan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 280.
 
-En caso de que el recurso de revisión administrativa se presente en contra de las resoluciones de remoción que determine el Consejo, el Presidente del Tribunal podrá ordenar la apertura de un término probatorio hasta por el plazo de diez días hábiles para su ofrecimiento y desahogo. En este caso, únicamente serán admisibles las pruebas documentales y testimoniales.
+En caso de que el recurso de revisión administrativa se presente en contra de las resoluciones de remoción que determine el Consejo de la Judicatura, el Presidente del Tribunal podrá ordenar la apertura de un término probatorio hasta por el plazo de diez días hábiles para su ofrecimiento y desahogo. En este caso, únicamente serán admisibles, como supervenientes, las pruebas documentales.
 
 Cuando alguna de las partes ofrezca una prueba documental que no obre en su poder, solicitará que se requiera a la autoridad que cuente con ella a fin de que la proporcione a la brevedad posible.
 
@@ -4017,21 +4783,39 @@ III. Las temporales de los Consejeros, por menos de sesenta días, serán cubier
 
 IV. Las del Secretario General de Acuerdos del Tribunal, por quien designe el Pleno del mismo; las de los Secretarios de Sala, por otro de diversa Sala pero de la misma materia; las del Secretario General de Acuerdos del Consejo, por quien designe el Pleno del mismo;
 
-V. Las de los Jueces que no excedan de quince días, automáticamente y sin trámite alguno por el Secretario Judicial que reúna los mismos requisitos para ser Juez.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+V. Las de los Jueces que no excedan de quince días, inmediatamente y sin trámite alguno, por el Secretario Judicial que reúna los mismos requisitos para ser Juez, quien despachará en funciones de Juez y será designado por el Juzgador o el Consejo.
 
 Cuando la ausencia exceda de quince días, el Consejo de la Judicatura, podrá autorizar al mismo Secretario u otro, encargado del despacho en funciones de Juez.
 
 Tratándose del Sistema Procesal Penal Acusatorio y Oral, los Jueces no podrán ser suplidos más que por otro juez con conocimientos del mismo Sistema;
 
-VI. Las de los demás servidores judiciales de primera instancia, si no exceden de un mes, por su inferior inmediato, o en su caso, por quien designe el superior inmediato del servidor a suplirse;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-VII. Las ausencias de los demás servidores públicos de primera instancia, incluyendo a los del Consejo de la Judicatura, se suplirán en la forma que determine el Pleno del Tribunal o del Consejo, en sus respectivos casos; y,
+VI. Las de los demás servidores judiciales, si no exceden de un mes, por el que designe el Consejo.
 
-VIII. En los casos que se tratare del personal adscrito a la Presidencia, al Pleno del Tribunal y a las Salas, y que no existiere en esta Ley disposición aplicable, se estará a la determinación que dicte el Pleno del Tribunal, a propuesta del Magistrado Presidente, tomando en consideración la ley de la materia y en su caso, las condiciones generales de trabajo que rijan para los empleados del Poder Judicial.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VII. Las ausencias de los demás servidores públicos de primera instancia, incluyendo a los del Consejo de la Judicatura, se suplirán en la forma que determine el Pleno del Tribunal o del Consejo de la Judicatura, en sus respectivos casos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VIII. Las de los jueces laborales que no excedan de quince días, inmediatamente y sin trámite alguno por el Secretario Instructor. Si la ausencia fuere mayor de quince días por quien designe el Consejo de la Judicatura;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IX. Las de los Secretarios Instructores de los Tribunales Laborales, por el Jefe de Unidad de Causa; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+X. En los casos que se tratare del personal adscrito a la Presidencia, al Pleno del Tribunal y a las Salas, y que no existiere en esta Ley disposición aplicable, se estará a la determinación que dicte el Pleno del Tribunal, a propuesta del Magistrado Presidente, tomando en consideración la ley de la materia y en su caso, las Condiciones Generales de Trabajo que rijan para los empleados del Poder Judicial.
 
 En ningún caso existirá obligación para otorgar nombramiento definitivo al servidor público que haya suplido la ausencia respectiva.
 
-En todo lo no previsto en este artículo, se estará a lo que se determine en las disposiciones reglamentarias aplicables.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+En todo lo no previsto en este artículo, se estará a lo que se determine en las disposiciones reglamentarias aplicables o los Acuerdos Generales.
 
 ### CAPÍTULO VI. DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA
 
@@ -4049,9 +4833,13 @@ II. Tener amistad íntima o enemistad con alguna de las personas a que se refier
 
 III. Tener interés personal por la suerte de alguna de las partes, o tenerlo su cónyuge o sus parientes, en los grados que expresa la fracción I;
 
-IV. Haber presentado querella o denuncia el servidor, su cónyuge o sus parientes, en los grados que expresa la fracción I, en contra de alguno (sic) de alguna de las partes;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-V. Tener pendiente el servidor, su cónyuge o sus parientes en los grados que expresa la fracción I, un juicio contra alguna de las partes o de sus representantes;
+IV. Haber presentado querella o denuncia el servidor, su cónyuge o sus parientes, en los grados que expresa la fracción I, en contra de alguno o de alguna de las partes;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+V. Tener pendiente el servidor, su cónyuge o sus parientes en los grados que expresa la fracción I, un juicio o proceso contra alguna de las partes o de sus representantes;
 
 VI. Haber sido procesado, su cónyuge o pariente, en los grados expresados en la misma fracción, en virtud de querella o denuncia presentada ante las autoridades por alguna de las partes o de sus representantes;
 
@@ -4075,7 +4863,9 @@ XIV. Haber sido Fiscal del Ministerio Público, testigo, apoderado, patrono o de
 
 A los servidores públicos del Poder Judicial que teniendo la obligación de excusarse no lo hagan, procederá en su contra la recusación.
 
-Las excusas de los Magistrados y del Secretario General de Acuerdos serán calificados por el Pleno del Tribunal.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Las excusas de los Magistrados y del Secretario General de Acuerdos serán calificadas por el Pleno del Tribunal.
 
 Las excusas de los Jueces las calificará la Sala respectiva, según la materia, y por el turno que corresponda, quien dará cuenta al Pleno del Tribunal y del Consejo.
 
@@ -4083,17 +4873,19 @@ Las de los Secretarios, Proyectistas y Auxiliares de Sala, por el Pleno de la Sa
 
 La de los Secretarios, Proyectistas y Conciliadores de los órganos jurisdiccionales de Primera Instancia, por los titulares de éstos, quienes darán cuenta al Pleno del Consejo.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 300.
 
-Cuando algún Magistrado esté impedido para conocer de algún asunto por excusa o recusación, la Sala de su adscripción será integrada con otro Magistrado de una Sala diversa, de la misma materia, quien deberá ser insaculado por el Pleno.
+Cuando algún Magistrado esté impedido para conocer de algún asunto por excusa o recusación, la Sala de su adscripción será integrada con otro que designe el Pleno.
 
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+En tratándose de la Sala Constitucional, cuando algún integrante esté impedido para conocer de algún asunto por excusa o recusación, la Sala se integrará con el Magistrado que designe el Pleno.
 
-En tratándose de la Sala Constitucional, cuando algún integrante esté impedido para conocer de algún asunto por excusa o recusación, la Sala se integrará con el Magistrado que insacule el Pleno.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 301.
 
-Cuando se califique de legal el impedimento, excusa o recusación de un Juez, el asunto será turnado al que le siga en número o el que proceda en su caso, en el mismo Distrito o Región; si no lo hubiere, se insaculará al Juez de igual categoría en el Distrito Judicial o Región más cercano.
+Cuando se califique de legal el impedimento, excusa o recusación de un Juez, el asunto será turnado al que le siga en número o el que proceda en su caso, en el mismo Distrito o Región; si no lo hubiere, se designará al Juez de igual categoría en el Distrito Judicial o Región más cercano.
 
 ###### Artículo 302.
 
@@ -4133,9 +4925,11 @@ Las actas serán puestas a la consideración del Pleno del Tribunal que resolver
 
 Únicamente los servidores del Poder Judicial podrán obtener los reconocimientos previstos en esta Ley, cuando reúnan los requisitos exigidos.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 308.
 
-Los estímulos se otorgarán a los servidores de confianza, de mandos medios o inferiores y a los de base, por el reconocimiento público o trayectoria ejemplar; por la actuación sobresaliente en el desempeño de las funciones que tengan asignadas, así como cualquier otro acto excepcional, realizado con desinterés para mejorar la impartición de justicia, lo mismo que por antigüedad en el servicio, sin alguna nota mala en el expediente personal o fallo ejecutoriado, en el que se le haya fincado responsabilidad de cualquier índole.
+Los estímulos se otorgarán a los servidores judiciales de confianza y a los de base, por el reconocimiento público o trayectoria ejemplar; por la actuación sobresaliente en el desempeño de las funciones que tengan asignadas, así como cualquier otro acto excepcional, realizado con desinterés para mejorar la impartición de justicia, lo mismo que por antigüedad en el servicio, sin alguna nota mala en el expediente personal o fallo ejecutoriado, en el que se le haya fincado responsabilidad de cualquier índole.
 
 ###### Artículo 309.
 
@@ -4155,9 +4949,11 @@ El Pleno del Consejo de la Judicatura resolverá tratándose de los servidores p
 
 Para su valoración, la Oficialía Mayor deberá remitir el expediente debidamente actualizado, de los candidatos propuestos.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 313.
 
-El número de asignaciones por año será determinado respectivamente por el Pleno del Tribunal y del Consejo, sin que sea obligatorio su otorgamiento cuando no haya lugar a conferirlo.
+El número de asignaciones por año será determinado, respectivamente, por el Pleno del Tribunal y del Consejo de la Judicatura, sin que sea obligatorio su otorgamiento cuando no haya lugar a conferirlo.
 
 ###### Artículo 314.
 
@@ -4179,11 +4975,11 @@ Toda proposición deberá estar debidamente motivada y justificada, expresándos
 
 El Presidente del Tribunal llevará el registro de las candidaturas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 317.
 
-En la primera sesión del mes de octubre de cada año, los Plenos del Tribunal y el Consejo, de manera indistinta, resolverán sobre las propuestas sometidas a su consideración. Las decisiones serán por mayoría de votos y en caso de empate el Presidente tendrá voto de calidad.
+En la primera sesión del mes de octubre de cada año, los Plenos del Tribunal y el Consejo de la Judicatura, de manera indistinta, resolverán sobre las propuestas sometidas a su consideración. Las decisiones se tomarán por unanimidad o mayoría de votos; en caso de empate, el Presidente tendrá voto de calidad.
 
 El Secretario General de Acuerdos respectivo engrosará el dictamen y una vez formalizado, se señalará el lugar y fecha en que se efectuará la ceremonia respectiva.
 
@@ -4239,19 +5035,29 @@ La declaración patrimonial deberá presentarse en los plazos siguientes:
 
 I. La inicial, dentro de los sesenta días naturales siguientes al inicio de sus funciones;
 
-II. La anual, en el mes de mayo de cada año; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-III. La final, dentro de los treinta días naturales siguientes a la conclusión de sus funciones o separación del cargo.
+II. La de modificación patrimonial, en el mes de mayo de cada año; y
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+III. De conclusión, dentro de los sesenta días naturales siguientes a la conclusión de sus funciones o separación del cargo.
 
 La Dirección de Contraloría del Poder Judicial del Estado, una vez recibidas las declaraciones correspondientes, podrá llevar a cabo las investigaciones que considere pertinentes para comprobar la veracidad de los datos asentados en la misma, para que, satisfaciéndose las formalidades legales se haga del conocimiento de las autoridades competentes las irregularidades que al respecto se encontrare.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 327.
 
-Si algún Magistrado del Tribunal o Consejero de la Judicatura, no presentare su declaración inicial o anual en los plazos fijados, el Director de la Contraloría lo comunicará al Pleno del Tribunal o del Consejo, quien, por conducto de su Presidente, amonestará por escrito y requerirá al omiso para que ineludiblemente la presente dentro de los ocho días naturales siguientes, apercibiéndolo que de no hacerlo se le descontará el cincuenta por ciento de sus percepciones mensuales y, además, se autorizará al Presidente del Tribunal para que formule investigación administrativa y se proceda conforme a derecho.
+Si algún Magistrado del Tribunal o Consejero de la Judicatura, no presentare su declaración inicial o anual en los plazos fijados, el Director de la Contraloría lo comunicará al Pleno del Tribunal o del Consejo, quien, por conducto de su Presidente, amonestará por escrito y requerirá al omiso para que ineludiblemente la presente dentro de los cinco días hábiles siguientes a la notificación del requerimiento, apercibiéndolo que de no hacerlo se le descontará el cincuenta por ciento de sus percepciones mensuales y, además, se autorizará al Presidente del Tribunal para que formule investigación administrativa y se proceda conforme a derecho.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 328.
 
-Tratándose de los demás servidores públicos del Poder Judicial del Estado, si transcurridos los plazos que señala el artículo 326 de esta Ley, no presentan sus declaraciones respectivas, sin mayor trámite, quedarán sin efecto sus nombramientos; lo anterior, sin perjuicio de que se practique las investigaciones administrativas que sean procedentes.
+Tratándose de los demás servidores públicos del Poder Judicial del Estado, si transcurridos los plazos que señala el artículo 326 fracción I y II de esta Ley, no presentan sus declaraciones correspondientes, sin causa justificada, se iniciará inmediatamente la investigación administrativa correspondiente y se les requerirá por escrito el cumplimiento de dicha obligación para que la presenten dentro de los cinco días hábiles siguientes a la notificación del requerimiento, si transcurrido el plazo no se diera cumplimiento se procederá a la baja de su nombramiento o contrato.
+
+Para el caso de omisión, sin causa justificada, en la presentación de la declaración de conclusión se inhabilitará hasta por un año para desempeñar cualquier cargo público.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
 
@@ -4396,3 +5202,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 TERCERO. El Consejo de la Judicatura adoptará en el ámbito de su competencia, las medidas correspondientes para el cumplimiento del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+P.O. 6 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 180 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA “LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. El Consejo de la Judicatura, en el ámbito de su competencia, adoptará las medidas correspondientes para el cumplimiento del presente Decreto, para lo cual cuenta con un plazo de noventa días naturales.
+
+TERCERO. Los tribunales de enjuiciamiento colegiados continuarán conociendo de los asuntos ya iniciados hasta su total conclusión.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
