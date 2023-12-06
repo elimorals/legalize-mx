@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-derechos-el-bienestar-y-proteccion-de-los-animales-12802
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-02"
-last_updated: "2023-05-09"
+last_updated: "2023-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DERECHOS, EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Décima Sección del Núm. 58 del Periódico Oficial del Estado de Michoacán, el lunes 2 de abril de 2018.
 
@@ -155,6 +155,30 @@ V. Crear y administrar el registro de los centros, clínicas veterinarias, biote
 
 VI. Crear y administrar el padrón estatal de asociaciones protectoras de animales debidamente constituidas, el cual deberá ser publicado en su portal electrónico;
 
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VI. Bis. Publicar semestralmente, un padrón estatal de los criaderos con fines comerciales debidamente constituidos, certificados y con licencia vigente de animales no humanos caninos, así como felinos domésticos. El cual será elaborado por parte de los ayuntamientos, quienes de manera coordinada enviarán la información a la Secretaría.
+
+La publicación de dicho padrón será público y contendrá:
+
+a) La ubicación;
+
+b) El nombre de criadero;
+
+c) El nombre de los propietarios o poseedores de los mismos;
+
+d) La raza o razas de crianza;
+
+e) El número de ejemplares;
+
+f) El número de registro oficial;
+
+g) Los servicios que ofrecen; y,
+
+h) Los que considere la Secretaría pertinentes.
+
+De igual forma, deberá elaborar un padrón de los establecimientos que funjan como estancias de alojamiento y resguardo temporal de caninos y felinos domésticos.
+
 VII. Vigilar el trato que reciben los animales no humanos en el Estado, en cualquier actividad que los involucre, sin importar su especie o destino;
 
 VIII. Coadyuvar con la Secretaría de Salud en el asesoramiento a los gobiernos municipales en el manejo adecuado y el control de plagas, cuando éstas representen un peligro para la salud humana o para el medio ambiente; y,
@@ -187,6 +211,14 @@ V. Coadyuvar con los gobiernos municipales y las asociaciones protectoras legalm
 
 VI. Vigilar el cumplimiento de las normas aplicables que promuevan la inocuidad y la higiene así como procurar la salud pública en los establecimientos de crianza, reproducción, rehabilitación, alojamiento, resguardo, adiestramiento, transporte, comercialización, exhibición y sacrificio de los animales no humanos.
 
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN VI], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Para el caso de los criaderos comerciales de caninos y felinos domésticos, se deberá supervisar conjuntamente con las autoridades municipales en el ámbito de su competencia, que cumplan con las normas oficiales mexicanas en la materia, para su previa venta y comercialización referente, a la vacunación y condiciones de sanidad.
+
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN VI], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Además, deberán participar en las supervisiones periódicas que se realicen a dichos establecimientos.
+
 ###### Artículo 9.
 
 Corresponde a la Secretaría de Educación:
@@ -215,6 +247,10 @@ b) Los animales no humanos se encuentren en abandono o en situación de maltrato
 
 c) Se impida la venta de animales no humanos en la vía pública.
 
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IV. En colaboración con las autoridades municipales, coadyubar (sic) en las acciones o sanciones aplicables correspondientes de la venta de caninos y felinos domésticos en establecimientos comerciales, cuando se cuente con la denuncia previa.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2022)</small>
 
 ###### Artículo 11.
@@ -225,9 +261,17 @@ Corresponde a la Fiscalía General del Estado, a través de la Fiscalía Especia
 
 I. Recibir denuncias e integrar las carpetas de investigación, por la comisión de delitos de violencia contra animales. En los lugares donde no existan oficinas de la Fiscalía Especializada, esta atribución corresponde a los gobiernos municipales a través del Síndico Municipal; o quien ejerza esta función;
 
-II. Ejecutar acción penal en contra de quien incurra en la comisión de un delito en materia de la presente Ley; y,
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-III. Dar aviso a las autoridades federales cuando se advierta el incumplimiento o la violación a cualquier norma federal aplicable en la materia, así como cuando en el proceso de investigación se encuentre implicado alguna especie de fauna silvestre o en estatus de riesgo.
+II. Ejecutar acción penal en contra de quien incurra en la comisión de un delito en materia de la presente Ley;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+III. Dar aviso a las autoridades federales cuando se advierta el incumplimiento o la violación a cualquier norma federal aplicable en la materia, así como cuando en el proceso de investigación se encuentre implicado (sic) alguna especie de fauna silvestre o en estatus de riesgo; y,
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IV. Investigar y dar seguimiento a las denuncias, procedentes de la ciudadanía y/o asociaciones; referentes a criaderos comerciales de animales no humanos, caninos y felinos domésticos, que no cuenten con licencia vigente y que incurran en maltrato, abandono o crueldad animal.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
 
@@ -235,7 +279,13 @@ III. Dar aviso a las autoridades federales cuando se advierta el incumplimiento 
 
 Corresponde a los Gobiernos Municipales:
 
-I. Expedir, licencias de funcionamiento para la operación de establecimientos comerciales, a personas físicas o morales dedicadas a la crianza, reproducción, entrenamiento, mercadeo de animales, rastros o centros de sacrificio, eventos de exhibición y espectáculos, y las demás que la reglamentación permita;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+I. Expedir, renovar, o cancelar en su caso, licencias de funcionamiento para la operación de establecimientos comerciales, a personas físicas o morales dedicadas a la reproducción, entrenamiento, mercadeo de animales, rastros o centros de sacrificio, eventos de exhibición, espectáculos y crianza.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Para tal efecto, la renovación de licencias de criaderos de felinos y caninos domésticos será anual, y las demás que la reglamentación permita;
 
 II. Los ayuntamientos expedirán el permiso para la utilización de animales en festividades públicas;
 
@@ -249,11 +299,23 @@ VI. Capacitar y equipar al personal del Centro, así como al personal de segurid
 
 VII. Vigilar que los establecimientos que involucren en cualquier actividad animales no humanos, sin importar su especie o destino, cumplan con las disposiciones de la presente Ley y las aplicables en la materia;
 
-VIII. Recibir y atender las denuncias ciudadanas de crueldad contra los animales, maltrato, así como de abandono animal, y hacerlas del conocimiento de la Fiscalía Especializada;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VIII. Recibir y atender las denuncias ciudadanas de crueldad contra los animales, maltrato, así como de abandono animal, y todas aquellas relacionadas a la venta ilegal de ejemplares caninos y felinos domésticos en criaderos para hacerlas del conocimiento de la Fiscalía Especializada. Lo cual podrá ser motivo de suspensión temporal o revocación de la licencia;
 
 IX. Cancelar permisos y licencias, de espectáculos o establecimientos cuando no se cumpla con las condiciones previstas en la presente Ley y sus reglamentos;
 
 X. Establecer en el ámbito de su competencia, campañas periódicas y permanentes de adopción, vacunación, prevención de enfermedades y esterilización;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+X Bis. Realizar supervisiones periódicas a los establecimientos, así como a los criaderos comerciales que se dediquen a la reproducción de caninos y felinos domésticos, con la finalidad de hacer las observaciones y dirigir los dictámenes que determinen la renovación o revocación de las licencias anuales, en el ámbito de su competencia y atendiendo al cumplimiento de las Normas Oficiales Mexicanas que se expidan y del Reglamento Municipal.
+
+Para realizar dichas supervisiones, las autoridades municipales cuando lo consideren necesario coordinarán la participación de asociaciones protectoras de animales debidamente registradas ante las autoridades correspondientes;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+X Ter. Elaborar y actualizar semestralmente el padrón de criaderos comerciales en su demarcación territorial y suministrar dicha información a la Secretaría para su publicación y difusión, bajo la normatividad que establezcan las normas oficiales mexicanas y la presente Ley;
 
 XI. Imponer conforme a su reglamentación municipal, las sanciones administrativas y preventivas correspondientes, en caso de flagrancia e infracción a esta Ley y sus reglamentos, en el ámbito de su competencia;
 
@@ -363,7 +425,13 @@ Las asociaciones tendrán los siguientes derechos:
 
 I. Auxiliar en el bienestar y conservación de los animales no humanos;
 
-II. Emitir opinión técnica a las autoridades competentes;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+II. A petición de las autoridades competentes podrán emitir recomendaciones técnicas, así como participar en las visitas periódicas coordinadas por las autoridades municipales a establecimientos comerciales dedicados a la crianza y reproducción de caninos y felinos domésticos, con el fin de coadyuvar en la renovación o revocación de las licencias anuales.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Firmar convenios de colaboración con establecimientos comerciales dedicados a la crianza y reproducción de caninos y felinos domésticos, con la finalidad de fomentar campañas permanentes de adopción de animales de compañía, que provengan de condición de calle;
 
 III. Auxiliar a las autoridades correspondientes en la supervisión de los Centros, lugares de expendio, crianza, centros de espectáculos, centros de sacrificio o rastros. Para lo cual, se deberá cumplir con el siguiente procedimiento:
 
@@ -377,13 +445,17 @@ d) Durante las visitas, se podrá documentar casos de maltrato animal o procedim
 
 e) Derivado de lo anterior, se podrán ejercer las recomendaciones necesarias por parte de las asociaciones, de las cuales dará (sic) seguimiento y respuesta las autoridades.
 
-IV. Asesorar y auxiliar a la sociedad para la presentación y seguimiento de denuncias por motivos de crueldad contra los animales, maltrato y abandono animal;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IV. Asesorar y auxiliar a la sociedad para la presentación y seguimiento de denuncias por motivos de crueldad contra los animales, maltrato, abandono animal, así como venta ilegal presencial o de manera digital, principalmente de caninos y felinos domésticos;
 
 V. Capacitar a solicitud expresa de las autoridades, a centros educativos, organizaciones de la sociedad civil y a la ciudadanía en general, para fomentar el bienestar, conservación y respeto a los animales no humanos;
 
 VI. Elaborar y difundir a campañas periódicas que contribuyan a la adopción de animales no humanos abandonados, donación de alimento y medicamentos para los mismos;
 
-VII. Presentar denuncias ante las autoridades correspondientes, cuando se tengan los elementos que constaten maltrato, abandono y crueldad animal;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+VII. Presentar denuncias ante las autoridades correspondientes, cuando se tengan los elementos que constaten maltrato, abandono y crueldad animal, así como venta ilegal física o de manera digital; principalmente de caninos y felinos domésticos;
 
 VIII. Ser sujetos de programas de apoyo económico y en especie que contribuyan a sus fines, a través de la capacitación y mejora; y,
 
@@ -619,6 +691,60 @@ Queda prohibida la venta de animales no humanos vivos o muertos sin el permiso o
 
 El comercio de animales no humanos se hará obligatoriamente en establecimientos autorizados y vigilados por los gobiernos municipales y por las autoridades competentes.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QE LA INTEGRAN, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN I. DE CANINOS Y FELINOS DOMÉSTICOS
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Artículo 54 bis. Queda prohibida la venta de animales no humanos caninos y felinos domésticos en establecimientos comerciales.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Artículo 54 ter. Toda persona física o moral que dedique sus actividades a la cría de ejemplares caninos y/o felinos domésticos requiere de autorización previa emitida por autoridad competente para la realización de sus actividades, para lo cual el interesado deberá cumplir con los siguientes requisitos:
+
+I. Presentar solicitud ante la autoridad municipal, en la que conste nombre o razón social, domicilio legal, características del inmueble, número de animales no humanos, así como raza y especie, médico veterinario zootecnista a cargo, medidas de control sanitario adecuado y anexo de documentos que avalen que el lugar, establecimiento o instalación física es la adecuada para su mantenimiento, alojamiento, movilidad, alimentación, reproducción y manejo;
+
+II. Destinar un área que reúna las condiciones de seguridad y protección necesarias para que los animales no queden expuestos a las inclemencias del clima, y otros factores que afecte su bienestar, asimismo que cuenten con el acondicionamiento adecuado para el proceso de reproducción;
+
+III. Contar con los permisos necesarios en el ámbito respectivo;
+
+IV. Obtener el permiso de la Secretaría, y estar debidamente inscritos en el registro de criaderos del Estado de Michoacán;
+
+V. Llevar y mantener actualizado un registro de la procedencia y destino de cada uno de los animales, el cual deberá contener como mínimo el nombre del propietario, domicilio, características del animal y nombre, marcaje o identificación;
+
+VI. Proporcionar al comprador la guía informativa del animal del cual transmiten el dominio;
+
+VII. Contar con certificado de salud de cada uno de los animales, expedido por el médico veterinario o responsable técnico; y,
+
+VIII. Por cuestiones de madurez reproductiva y eficiencia biológica, sólo se podrán aparear después del primer año de vida, una sola vez al año y hasta la edad de 5 años a las hembras y será obligatorio que todos los animales que enajenen o transfieran mediante cualquier título legal a terceros se encuentren desparasitados y vacunados por un médico veterinario, de acuerdo con su edad biológica.
+
+Una vez concluido el ciclo de reproducción anteriormente mencionado, las hembras deberán ser esterilizadas, de lo cual deberá ser supervisado por las autoridades respectivas.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 54 Quáter.
+
+Los criadores y prestadores de servicio vinculados con el manejo, producción, reproducción y venta de caninos y felinos domésticos, para su funcionamiento deberán cumplir con la autorización correspondiente. Asimismo, dichos establecimientos deberán cumplir con los siguientes requisitos anualmente para mantener vigente su licencia:
+
+I. Estar inscritos en el Registro ante la Secretaría de Medio Ambiente del Estado de Michoacán;
+
+II. Llevar un libro de registro interno;
+
+III. Disponer de un servicio médico-veterinario propio o de un asesoramiento veterinario exterior, que debe constar en el libro de registro interno;
+
+IV. Conservar el lugar, establecimiento, instalación o espacio donde se mantenga a los animales a su cargo bajo condiciones adecuadas conforme a lo que establece la presente Ley;
+
+V. Establecer horarios de alimentación y nutrición adecuados;
+
+VI. Contemplar medidas de control sanitario;
+
+VII. En el caso de la venta de animales legalmente establecida, deberá entregarse un certificado de venta, así como un manual de cuidado, albergue y dieta del animal adquirido, que incluya, además los riesgos ambientales de su liberación al medio natural o urbano y las sanciones a las que están sujetos por el incumplimiento de las disposiciones de la presente Ley y demás disposiciones aplicables en la materia;
+
+VIII. Las personas que trabajen en estos establecimientos y que deban manipular animales deberán contar con la capacitación adecuada para el cuidado de los mismos; y,
+
+IX. Las demás que determinen las disposiciones jurídicas aplicables.
+
 ### CAPÍTULO XI. TRASLADO Y SACRIFICIO
 
 ###### Artículo 55.
@@ -701,7 +827,9 @@ Además de lo señalado en la presente Ley en materia de protección y bienestar
 
 I. La utilización de animales no humanos en protestas, marchas y plantones, que les provoque sufrimiento o maltrato innecesario;
 
-II. La venta de animales en la vía pública, mercados y establecimientos sin la autorización correspondiente;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+II. La venta de animales en la vía pública, mercados y establecimientos comerciales, así como, oferta de ejemplares caninos y felinos domésticos a través de medios digitales, dentro de la jurisdicción del Estado de Michoacán, que no procedan de un criadero con la licencia anual vigente;
 
 III. La celebración de peleas de perros, así como facilitar inmuebles para que tengan lugar dichos combates;
 
@@ -724,6 +852,18 @@ X. Las mutilaciones por razones estéticas o cualesquiera otras que no resulten 
 Se prohíbe azuzar animales para que acometan entre ellos, y hacer de las peleas así provocadas, espectáculo público o privado.
 
 Se exceptúa la charrería, las corridas de toros, novillos o becerros, jaripeos y peleas de gallos, las que habrán de sujetarse a los reglamentos y disposiciones vigentes.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Artículo 67 bis. Las sanciones aplicables en la infracción de lo anteriormente expuesto en los artículos 54 bis, 54 ter y 54 quáter deberán atender a:
+
+a) El apercibimiento y notificación por escrito;
+
+b) Multa conforme a la reglamentación municipal;
+
+c) La suspensión o la revocación de las concesiones, licencias, permisos o autorizaciones correspondientes que haya otorgado la autoridad municipal, por casos de reincidencia; y,
+
+d) Las demás que los reglamentos municipales contemplen.
 
 ###### Artículo 68.
 
@@ -852,3 +992,13 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Los gobiernos municipales, incluirán en el Proyecto de Presupuesto para el Ejercicio 2024, las adecuaciones presupuestales de acuerdo con sus posibilidades, que estimen necesarias para implementar el debido cumplimiento del presente Decreto.
 
 Tercero. Los gobiernos municipales en un plazo no mayor de noventa días naturales adecuarán sus reglamentos respectivos de la materia al presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 482 POR EL QUE “SE ADICIONA LA FRACCIÓN VI BIS AL ARTÍCULO 7, UN SEGUNDO Y TERCER PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 8, UNA FRACCIÓN IV AL ARTÍCULO 10; SE REFORMAN LAS FRACCIONES II Y III; Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 11; SE REFORMAN LAS FRACCIONES I Y VIII, SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I Y LAS FRACCIONES X BIS Y X TER AL ARTÍCULO 12; SE REFORMAN LAS FRACCIONES II, IV, Y VII; Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 23 TER; SE ADICIONA AL CAPÍTULO X LA SECCIÓN I «DE CANINOS Y FELINOS DOMÉSTICOS» CON LOS ARTÍCULOS 54 BIS, 54 TER Y 54 QUÁTER; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 66; Y, SE ADICIONA EL ARTÍCULO 67 BIS TODOS DE LA LEY DE DERECHOS, EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La Secretaría del Medio Ambiente (SECMA), contará con un máximo de ciento veinte días naturales a partir de la publicación del presente Decreto, para actualizar el padrón de los criaderos caninos y felinos domésticos en el Estado de Michoacán de Ocampo, con toda la información requerida y estipulada en el mismo. Los criaderos de animales domésticos debidamente constituidos y enlistados ante el padrón renovarán su licencia municipal anualmente a partir de la publicación del presente Decreto.
+
+TERCERO. Los 111 Ayuntamientos, el Concejo Mayor de Cherán y el Concejo Municipal de Penjamillo, contarán con un máximo de ciento ochenta días naturales a partir de la publicación del presente Decreto, para publicar su registro de criaderos con licencia anual vigente y actualizar su Reglamento de bienestar animal, conforme a la presente Ley.
