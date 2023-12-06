@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-albergues-publicos-y-privados-para-ninas-y-ninos-del-878
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-24"
-last_updated: "2012-05-24"
+last_updated: "2023-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87873&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2012-05-21"
 
 LEY DE ALBERGUES PÚBLICOS Y PRIVADOS PARA NIÑAS Y NIÑOS DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 24 de mayo de 2012.
 
@@ -76,6 +76,10 @@ VIII. A la Procuraduría General de Justicia del Distrito Federal, y
 
 IX. Al Instituto de Verificación Administrativa del Distrito Federal, en su ámbito de competencia.
 
+> <small>(ADICIONADA, G.O. 6 DE DICIEMBRE DE 2023)</small>
+
+X. A la Comisión Ejecutiva de Atención a Víctimas.
+
 ###### Artículo 3º.
 
 Para los efectos de esta Ley, se entiende por:
@@ -111,6 +115,10 @@ XIV. Secretaría de Protección Civil: a la Secretaría de Protección Civil del
 XV. Secretaría de Salud: Secretaría de Salud del Distrito Federal.
 
 XVI. Visitas de inspección: son las visitas realizadas por las autoridades competentes en el Distrito Federal, para comprobar el cumplimiento de las disposiciones en materia de protección civil y salud. Dichas visitas se sujetarán a los principios de unidad, funcionalidad, honestidad, coordinación, profesionalización, simplificación, agilidad, precisión, legalidad, transparencia, imparcialidad y autocontrol de los privados.
+
+> <small>(ADICIONADA, G.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XVII. Interés superior de las niñas, niños y adolescentes: Al derecho sustantivo, principio jurídico interpretativo fundamental, y norma de procedimiento, por la que todas las decisiones y medidas que adopte la autoridad sobre niñas, niños y adolescentes, deben ir orientadas a su bienestar, salvaguarda, desarrollo integral y dignidad, para el pleno ejercicio de sus derechos humanos y libertades fundamentales.
 
 ###### Artículo 4º.
 
@@ -263,6 +271,12 @@ II. Constancia expedida por la Secretaría de Protección Civil, en la cual se e
 III. Nombramiento del titular del albergue emitido por la autoridad correspondiente;
 
 IV. Carta de no antecedentes penales expedida por la Procuraduría General de Justicia del Distrito Federal del titular del albergue así como de todos los servidores públicos que laboren en el mismo, salvo tratándose de delitos culposos, cuando en estos últimos haya transcurrido el término de tres años. Por ningún motivo deberá tener antecedentes por delitos previstos en el Libro II, Titulo V y VI del Código Penal para el Distrito Federal, o cualquier otro similar que pudiera poner en peligro la integridad física o psicológica de los residentes.
+
+> <small>(ADICIONADO, G.O. 6 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 15 Bis.
+
+La Comisión Ejecutiva de Atención a Víctimas, velará por la protección y salvaguarda del interés superior de las niñas, niños y adolescentes víctimas de la comisión de algún delito, de conformidad con la legislación general y local en la materia de víctimas.
 
 ### CAPÍTULO IV
 
@@ -599,3 +613,13 @@ SÉPTIMO.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Fed
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de octubre del año dos mil once.- POR LA MESA DIRECTIVA.- DIP. RAFAEL MIGUEL MEDINA PEDERZINI, PRESIDENTE.- DIP. JUAN JOSÉ LARIOS MÉNDEZ, SECRETARIO.- DIP. JORGE PALACIOS ARROYO, SECRETARIO.- (Firmas)
 
 En cumplimiento a lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiún días del mes de mayo de dos mil doce.-EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, HÉCTOR SERRANO CORTÉS.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JESÚS VALDÉS PEÑA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, SALVADOR MARTÍNEZ DELLA ROCCA.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE SALUD, ARMANDO AHUED ORTEGA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 6 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN LA FRACCIÓN X, AL ARTÍCULO 2º; LA FRACCIÓN XVII, AL ARTÍCULO 3º; Y EL ARTÍCULO 15 BIS; A LA LEY DE ALBERGUES PÚBLICOS Y PRIVADOS PARA NIÑAS Y NIÑOS DEL DISTRITO FEDERAL".]
+
+PRIMERO. - Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
