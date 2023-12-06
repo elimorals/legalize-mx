@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-etica-de-las-personas-servidoras-publicas-del-139287"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-04-03"
-last_updated: "2019-04-03"
+last_updated: "2023-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "TAB"
 
 CÓDIGO DE ÉTICA Y DE CONDUCTA DEL ORGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2023.
 
 Código publicado en el Suplemento B del Periódico Oficial del Estado de Tabasco, el miércoles 3 de abril de 2019.
 
@@ -60,13 +60,17 @@ CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL ÓRGANO SUPERIOR DE F
 
 El presente Código de Ética tiene por objeto:
 
-I. Impulsar, fortalecer y velar una cultura de respeto hacia los más altos valores éticos en que debe sustentarse la gestión gubernamental por las personas servidoras públicas del Órgano Superior de Fiscalización de Tabasco; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+I. Establecer los principios, valores, reglas de integridad y compromisos que deben ser conocidos y aplicados por todas las personas servidoras públicas del Órgano Superior de Fiscalización de Tabasco, para propiciar un ambiente laboral adecuado, y fomentar su actuación ética y responsable.
 
 II. Ser la base para la emisión del Código de Conducta del Órgano Superior de Fiscalización de (sic) Estado, en el que se consideren riesgos éticos específicos, en atención a la misión, visión y atribuciones de este Órgano Técnico Fiscalizador.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 2.
 
-El Código de Ética será aplicable a todas las personas servidoras públicas del Órgano Superior de Fiscalización del Estado.
+El Código de Ética es aplicable a todas las personas servidoras públicas del OSFE, por lo que es obligatorio en cualquiera de sus niveles jerárquicos, incluyendo al personal sindicalizado, y su incumplimiento será objeto de denuncia.
 
 ###### ARTÍCULO 3.
 
@@ -76,45 +80,81 @@ Será obligación de todas las personas servidoras públicas del Órgano Superio
 
 Además de las definiciones previstas en la Ley General de Responsabilidades Administrativas, para efectos del Código de Ética, se entenderá por:
 
-I. Código de Conducta: El instrumento que permite a los servidores públicos del OSFE, regirnos por los valores éticos para delimitar la actuación que debe observarse entre nosotros, asimismo fortalecer la transparencia y el combate a la corrupción, para garantizar el adecuado cumplimiento de los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia, que dan por resultado una conducta digna, que genere condiciones que hagan posible la igualdad de oportunidades entre las personas, así como erradicar la discriminación y/o actos de violencia en nuestro actuar;
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-II. Código de Ética: Es un documento que contiene principios y valores reconocidos y respetados por los integrantes de un grupo determinado en este caso del OSFE. Es una declaración formal de las prioridades éticas de dicho grupo u organización.
+I. Acoso laboral: Forma de violencia que se presenta en una serie de eventos que tienen como objetivo intimidar, excluir, opacar, amedrentar o consumir emocional o intelectualmente a la víctima, causando un daño físico, psicológico, económico o laboral-profesional. Se puede presentar en forma horizontal, vertical ascendente o vertical descendente, ya sea en el centro de trabajo o fuera de éste, siempre que se encuentre vinculado a la relación laboral;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+II. Acoso sexual: Forma de violencia de carácter sexual, en la que, si bien no existe una subordinación jerárquica de la víctima frente a la persona agresora, e inclusive puede realizarse de una persona de menor nivel jerárquico hacia alguien de mayor nivel o cargo, hay un ejercicio abusivo de poder por parte de quien la realiza. Puede tener lugar entre personas servidoras públicas y de éstas hacia particulares y es expresada en conductas verbales o de hecho, físicas o visuales, como son aquellas mencionadas en la fracción IV del artículo 5 del presente Código de Ética, independientemente de que se realice en uno o varios eventos;
+
+III. Código de Conducta: El instrumento que permite a los servidores públicos del OSFE, regirnos por los valores éticos para delimitar la actuación que debe observarse entre nosotros, asimismo fortalecer la transparencia y el combate a la corrupción, para garantizar el adecuado cumplimiento de los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia, que dan por resultado una conducta digna, que genere condiciones que hagan posible la igualdad de oportunidades entre las personas, así como erradicar la discriminación y/o actos de violencia en nuestro actuar;
+
+IV. Código de Ética: Es un documento que contiene principios y valores reconocidos y respetados por los integrantes de un grupo determinado en este caso del OSFE. Es una declaración formal de las prioridades éticas de dicho grupo u organización.
 
 Contiene los deberes inherentes a la conducta y desempeño de los integrantes de cualquier institución;
 
-III. Comité: El Comité de Integridad, como cuerpo colegiado que, tiene a su cargo el fomento de la ética e integridad en el servicio público y la prevención de conflicto de intereses a través de acciones de orientación, capacitación y difusión en el OSFE;
+V. Comité: El Comité de Integridad, como cuerpo colegiado que, tiene a su cargo el fomento de la ética e integridad en el servicio público y la prevención de conflicto de intereses a través de acciones de orientación, capacitación y difusión en el OSFE;
 
-IV. Conflicto de Intereses: El conflicto de intereses se presenta cuando los intereses personales, familiares o de negocios de la persona servidora pública, puedan afectar el desempeño imparcial de su empleo, cargo o comisión;
+VI. Conflicto de Intereses: El conflicto de intereses se presenta cuando los intereses personales, familiares o de negocios de la persona servidora pública, puedan afectar el desempeño imparcial de su empleo, cargo o comisión;
 
-V. Directrices: Orientaciones para la práctica de cada uno de los principios, previstas en el artículo 7 de la Ley General de Responsabilidades Administrativas;
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-VI. Ética pública: Disciplina basada en normas de conducta que se fundamentan en el deber público y que busca en toda decisión y acción, la prevalencia del bienestar de la sociedad en coordinación con los objetivos del Estado Mexicano, de los entes públicos y de la responsabilidad de la persona ante éstos;
+VII. Corrupción: En términos del segundo párrafo del numeral 5 del Programa Nacional de Combate a la Corrupción y a la Impunidad, y de Mejora de la Gestión Pública 2019-2024, es el abuso de cualquier posición de poder, público o privado, con el objetivo de generar un beneficio indebido a costa del bienestar colectivo o individual;
 
-VII. Fiscal Superior: El Titular del Órgano Superior de Fiscalización del Estado;
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-VIII. Impedimento legal: Restricción normativa que imposibilita a la persona servidora pública del OSFE a conocer de un asunto u ocupar un cargo;
+VIII. Dignidad: Comprende a la persona como titular de derechos y a no ser objeto de violencia o arbitrariedades por parte de las instituciones de gobierno, de modo que todas las personas servidoras públicas se encuentran obligadas en todo momento a respetar su autonomía, a considerarla y tratarla como fin de su actuación, garantizando que no sea afectado el núcleo esencial de sus derechos;
 
-IX. Juicio Ético: En un contexto de ambigüedad, será el ejercicio individual de ponderación de principios y valores que lleve a cabo cada persona servidora pública, previo a la toma de decisiones y acciones vinculadas con el desempeño de su empleo, cargo o comisión en el OSFE;
+IX. Directrices: Orientaciones para la práctica de cada uno de los principios, previstas en el artículo 7 de la Ley General de Responsabilidades Administrativas;
 
-X. Lineamientos: Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas, publicado en el Diario Oficial de la Federación el 12 de octubre de 2018;
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-XI. OSFE: Órgano Superior de Fiscalización del Estado de Tabasco;
+X. Discriminación: Es toda distinción, exclusión, restricción o preferencia que, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto obstaculizar, disminuir o impedir los derechos de cualquier persona, cuando ello se base en uno o más de los motivos que establece la fracción II del artículo 5 del presente Código de Ética;
 
-XII. Persona (s) Servidora (s) Pública (s): Al personal que labore o preste sus servicios para el OSFE, conforme a lo dispuesto en el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos, y 66 de la Constitución Política del Estado Libre y Soberano de Tabasco;
+XI. Ética pública: Disciplina basada en normas de conducta que se fundamentan en el deber público y que busca en toda decisión y acción, la prevalencia del bienestar de la sociedad en coordinación con los objetivos del Estado Mexicano, de los entes públicos y de la responsabilidad de la persona ante éstos;
 
-XIII. Principios Constitucionales: Aquellos que rigen la actuación de las personas servidoras públicas previstos en la fracción III, del artículo 109 de la Constitución Política de los Estados Unidos Mexicanos, y 71 de la Constitución Política del Estado Libre y Soberano de Tabasco;
+XII. Fiscal Superior: El Titular del Órgano Superior de Fiscalización del Estado;
 
-XIV. Riesgo ético: Situaciones en las que potencialmente pudieran transgredirse principios, valores o reglas de integridad y que deberán ser identificados a partir del diagnóstico que se realice, en términos de lo ordenado por el artículo 15 de la Ley General de Responsabilidades Administrativas;
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-XV. Titular: En plural o singular, femenino o masculino, al Director, Coordinador o Titular de las Unidades Administrativas del OSFE, de acuerdo a su cargo.
+XIII. Hostigamiento sexual: Es una forma de violencia de carácter sexual en la cual hay un ejercicio abusivo de poder por parte de quién la realiza y tiene lugar en una relación de subordinación jerárquica real de la víctima frente a la persona agresora. Es expresada en conductas verbales o de hecho, físicas o visuales, independientemente de que se realice en uno o varios eventos;
 
-XVI. Valores: Cualidad o conjunto de cualidades por las que una persona servidora pública es apreciada o bien considerada.
+XIV. Impedimento legal: Restricción normativa que imposibilita a la persona servidora pública del OSFE a conocer de un asunto u ocupar un cargo;
+
+XV. Juicio Ético: En un contexto de ambigüedad, será el ejercicio individual de ponderación de principios y valores que lleve a cabo cada persona servidora pública, previo a la toma de decisiones y acciones vinculadas con el desempeño de su empleo, cargo o comisión en el OSFE;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XVI. Lenguaje incluyente y no sexista: Comunicación verbal y escrita que tiene por finalidad visibilizar a las mujeres para equilibrar las asimetrías de género, así como valorar la diversidad que compone nuestra sociedad haciendo visibles a las personas y grupos históricamente discriminados;
+
+XVII. Lineamientos: Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas, publicado en el Diario Oficial de la Federación el 12 de octubre de 2018;
+
+XVIII. OSFE: Órgano Superior de Fiscalización del Estado de Tabasco;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XIX. Persona (s) Servidora (s) Pública (s): Al personal que labore o preste sus servicios para el OSFE, conforme a lo dispuesto en el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos y 66 de la Constitución Política del Estado Libre y Soberano de Tabasco;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XX. Principios Constitucionales: Aquellos que rigen la actuación de las personas servidoras públicas previstos en la fracción III, del artículo 109 de la Constitución Política de los Estados Unidos Mexicanos y artículo 71 de la Constitución Política del Estado Libre y Soberano de Tabasco;
+
+XXI. Riesgo ético: Situaciones en las que potencialmente pudieran transgredirse principios, valores o reglas de integridad y que deberán ser identificados a partir del diagnóstico que se realice, en términos de lo ordenado por el artículo 15 de la Ley General de Responsabilidades Administrativas;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XXII. Titular: En plural o singular, femenino o masculino, al director o titular de las unidades administrativas del OSFE, de acuerdo a su cargo.
+
+XXIII. Valores: Cualidad o conjunto de cualidades por las que una persona servidora pública es apreciada o bien considerada.
 
 ### CAPÍTULO II. PRINCIPIOS RECTORES DEL SERVICIO PÚBLICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 5.
 
-En congruencia con los principios estipulados en los Lineamientos para la emisión del Código de Ética aprobados por el Comité Coordinador del Sistema Nacional Anticorrupción, las personas servidoras públicas del OSFE deben observar los principios constitucionales y legales que rigen al servicio público, a saber:
+En congruencia con los principios estipulados en los Lineamientos para la emisión del Código de Ética aprobados por el Comité Coordinador del Sistema Nacional Anticorrupción, las personas servidoras públicas del OSFE deberán actuar conforme a los principios constitucionales y legales que rigen al servicio público:
 
 a) Competencia por mérito: Las personas servidoras públicas deberán ser seleccionados (sic) para sus puestos de acuerdo a su habilidad profesional, capacidad y experiencia, garantizando la igualdad de oportunidad, atrayendo a los mejores candidatos para ocupar los puestos mediante procedimientos transparentes, objetivos y equitativos.
 
@@ -168,9 +208,15 @@ g) Respeto: Las personas servidoras públicas se conducen con austeridad y sin o
 
 h) Respeto a los Derechos Humanos: Las personas servidoras públicas respetan los derechos humanos, y en el ámbito de sus competencias y atribuciones, los garantizan, promueven y protegen de conformidad con los Principios de: Universalidad que establece que los derechos humanos corresponden a toda persona por el simple hecho de serlo; de Interdependencia que implica que los derechos humanos se encuentran vinculados íntimamente entre sí; de Indivisibilidad que refiere que los derechos humanos conforman una totalidad de tal forma que son complementarios e inseparables, y de Progresividad que prevé que los derechos humanos están en constante evolución y bajo ninguna circunstancia se justifica un retroceso en su protección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 7.
 
-Las personas servidoras públicas deberán cumplir con el compromiso de entregar una copia de sus declaraciones patrimoniales y de intereses, documento que deberá ser presentado sin reserva de información, atendiendo en todo momento al principio de honradez, por lo que éstas deberán cumplir con la veracidad y transparencia en su contenido.
+Las personas servidoras públicas deberán presentar su declaración patrimonial y de intereses en los plazos establecidos en la Ley General de Responsabilidades Administrativas, y a través del sistema informático que se disponga para ello, considerando todos los datos personales generados en el periodo que se presente, en apego a los principios de honradez, veracidad y transparencia.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Los usuarios y contraseñas que se otorguen al usuario a través del sistema informático son personales por lo que no deberán ser compartidas, salvo por causa justificada.
 
 ###### ARTÍCULO 8.
 
@@ -182,9 +228,11 @@ II. Solicitar ser excusado de participar en cualquier forma, en la atención, tr
 
 III. Acatar las instrucciones o solución formuladas por su jefe inmediato.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 9.
 
-Las personas servidoras públicas del OSFE, deben cumplir con el compromiso de no aceptar, exigir u obtener cualquier obsequio, regalo o similar, sean en favor de sí mismas, o personas con los que tenga relaciones personales, profesionales, laborales, de negocios, o para socios o sociedades de las que la persona servidora pública o las personas antes referidas formen parte, máxime cuando existas circunstancias se vinculan (sic) con la información que ocupen derivada de sus funciones en la institución.
+Las personas servidoras públicas del OSFE, deben abstenerse de aceptar, exigir u obtener cualquier obsequio, regalo, gratificación o similar, sean en favor de sí mismas o personas con los que tenga relaciones personales, profesionales, laborales, de negocios, o para socios o sociedades de las que la persona servidora pública o las personas antes referidas formen parte, máxime cuando estas circunstancias se vinculen con la información que ocupen como parte de sus funciones en la institución. En el caso de los trámites que se brindan al público en general, se deberá hacer de su conocimiento que los servicios que el OSFE brinda son completamente gratuitos.
 
 ### CAPÍTULO IV. DE LAS REGLAS DE INTEGRIDAD
 
@@ -230,6 +278,10 @@ e) Debe informar sobre violaciones de integridad observadas, ya sea con sus supe
 
 f) Debe cuidar y proteger el patrimonio del OSFE, asegurándose de que no se pierda, se dañe o se utilice indebidamente. Asimismo, debe utilizar de forma apropiada los equipos informáticos, cuentas de correo e internet institucionales y de más recursos materiales que le sean puestos a su disposición para el desempeño de sus funciones.
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+g) Las personas servidoras públicas involucradas en el manejo de datos en el entorno digital, deberán desarrollar sus actividades con integridad, independencia, objetividad, competencia, confidencialidad y transparencia; haciendo un uso apropiado y responsable de los mismos, únicamente para los fines que éstos fueron obtenidos.
+
 2. Estar libre de influencias o circunstancias que comprometan, de manera real o en apariencia, el juicio profesional o la actuación imparcial.
 
 i. Reglas relacionadas con el entorno institucional:
@@ -242,7 +294,9 @@ c) El OSFE debe asegurar que las personas servidoras públicas, sobre todo los d
 
 d) El OSFE no proporcionará asesoría u otros servicios distintos de la auditoría a una entidad auditada cuando dichos servicios importen responsabilidades de gestión.
 
-ii. Reglas relacionadas con el comportamiento de las personas servidoras públicas de la (sic) OSFE.
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ESTE PÁRRAFO], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+ii. Reglas relacionadas con el comportamiento de las personas servidoras públicas del OSFE:
 
 a) Debe estar libre de impedimentos que afecten su independencia y objetividad. Para este propósito, el personal deberá:
 
@@ -262,7 +316,9 @@ a) Debe estar libre de impedimentos que afecten su independencia y objetividad. 
 
 b) Debe identificar posibles amenazas y situaciones en las que su independencia u objetividad pueda verse afectada.
 
-c) Debe informar en el formato de declaración de intereses sobre relaciones preexistentes relevantes y situaciones que puedan representar un riesgo a la independencia u objetividad.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+c) Debe informar a través del sistema informático, en el apartado correspondiente de la declaración de intereses, las relaciones preexistentes relevantes y situaciones que puedan representar un riesgo a la independencia u objetividad.
 
 3. Adquirir mantener y actualizar los conocimientos y habilidades que garanticen la realización de las tareas altamente especializadas de cada persona servidora pública.
 
@@ -270,11 +326,15 @@ i. Reglas relacionadas con el entorno institucional:
 
 a) El OSFE debe contar con políticas de contratación y recursos humanos basadas en competencias.
 
-b) El OSFE debe establecer como requisito que se asignen a las Unidades Administrativas, equipos de trabajo que posean el conocimiento y la experiencia necesaria para realizar la fiscalización.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+b) El OSFE debe establecer como requisito que se asignen a las unidades administrativas, equipos de trabajo que posean el conocimiento y la experiencia necesaria para realizar la fiscalización.
 
 c) El OSFE debe proporcionar capacitación adecuada para mejorar el desempeño de las personas servidoras públicas y mantener actualizadas sus competencias técnicas.
 
-d) El OSFE debe garantizar que las Unidades Administrativas cuenten con esquemas de asistencia, supervisión y control para el adecuado cumplimiento de las metas institucionales.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+d) El OSFE debe garantizar que las unidades administrativas cuenten con esquemas de asistencia, supervisión y control para el adecuado cumplimiento de las metas institucionales.
 
 e) El OSFE debe asegurar que las personas servidoras públicas cuenten con herramientas tecnológicas y de comunicación que permitan el intercambio de información y la coordinación eficaz de sus funciones.
 
@@ -360,7 +420,9 @@ a) Mecanismo de capacitación.
 
 b) Mecanismo de difusión.
 
-- A las personas servidoras públicas de nuevo ingreso se les debe compartir los Códigos de Ética y de Conducta, así como las directrices para prevenir conflictos de intereses, para su conocimiento. El formato de declaración de intereses deberá ser suscrito por cada persona servidora pública al ingresar al OSFE y ésta debe ser parte de la documentación que se integre en su expediente.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+- A las personas servidoras públicas de nuevo ingreso se les debe compartir el Código de Ética y Código de Conducta, así como las directrices para prevenir conflictos de intereses, para su conocimiento.
 
 - Periódicamente, se debe incluir dentro de las comunicaciones institucionales (pantallas, fondos de pantalla, correos electrónicos, intranet) información para el cumplimiento y sobre el contenido de los Códigos de Ética y de Conducta.
 
@@ -370,13 +432,21 @@ b) Mecanismo de difusión.
 
 ### CAPÍTULO VI. DE LOS CASOS DE VULNERACIONES AL CÓDIGO DE ÉTICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 13.
 
-Cualquier persona servidora pública o particular podrá hacer del conocimiento de dos instancias, los incumplimientos al Código de Ética:
+Cualquier persona servidora pública o particular podrá denunciar los incumplimientos al Código de Ética ante las siguientes instancias:
 
 I. El Comité, en su carácter de instancia preventiva, podrá emitir recomendaciones encaminadas a mejorar el clima organizacional y a evitar la reiteración de la o las conductas contrarias al contenido de este Código, y,
 
-II. La Dirección de Contraloría Interna del OSFE, será quien determine si se actualiza una responsabilidad administrativa, sin perjuicio de las acciones que en derecho correspondan conforme a las leyes aplicables.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+II. La Dirección de Contraloría Interna del OSFE, será la encargada del conocimiento de denuncias por actos cometidos contrarios a la integridad.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Lo anterior, sin perjuicio de las acciones que en derecho correspondan conforme a la legislación aplicable.
 
 ### CAPÍTULO VII. DEL CUMPLIMIENTO E INTERPRETACIÓN
 
@@ -384,9 +454,11 @@ II. La Dirección de Contraloría Interna del OSFE, será quien determine si se 
 
 La Dirección de Contraloría Interna del OSFE, en el ámbito de sus atribuciones, dará cumplimiento, y vigilará la observancia de lo previsto en este Código de Ética.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 15.
 
-La Dirección de Contraloría Interna del OSFE y la Dirección de Investigación, interpretarán para efectos administrativos el presente Código, y resolverá los casos no previstos en el mismo.
+La Dirección de Contraloría Interna del OSFE, interpretará para efectos administrativos el presente Código, y resolverá los casos no previstos en el mismo.
 
 ## TRANSITORIOS
 
@@ -397,3 +469,13 @@ SEGUNDO.- Se emite el presente Acuerdo en cumplimiento del lineamiento Décimo T
 C.P.C. y M. en Aud. Alejandro Álvarez González
 
 Fiscal Superior del Estado
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE REFORMA DEL ARTÍCULO 1, LA FRACCIÓN I; EL ARTÍCULO 2; DEL ARTÍCULO 5, EL PÁRRAFO PRIMERO; DEL ARTÍCULO 7, EL PÁRRAFO PRIMERO; EL ARTÍCULO 9; DEL ARTÍCULO 11, DIRECTRIZ 2, FRACCIÓN II. REGLAS RELACIONADAS CON EL COMPORTAMIENTO DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL OSFE, EN SU DENOMINACIÓN Y EL INCISO C); DEL ARTÍCULO 12, INCISO B) MECANISMO DE DIFUSIÓN, EL PÁRRAFO PRIMERO; DEL ARTÍCULO 13, EL PÁRRAFO PRIMERO Y LA FRACCIÓN II; Y EL ARTÍCULO 15; SE ADICIONA DEL ARTÍCULO 4, LAS FRACCIONES I, II, VII, VIII, X, XIII Y XVI, Y SE RECORREN EN SU ORDEN LAS FRACCIONES PARA QUEDAR DEL III AL VI, IX, XI, XII, XIV, XV Y DEL XVII AL XXIII; DEL ARTÍCULO 7, UN PÁRRAFO SEGUNDO; DEL ARTÍCULO 11, DIRECTRIZ 1, FRACCIÓN II. REGLAS RELACIONADAS CON EL COMPORTAMIENTO DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA OSFE, EL INCISO G) Y DEL ARTÍCULO 13, UN PÁRRAFO SEGUNDO”.]
+
+PRIMERO. - El presente Acuerdo por el que se modifica el Código de Ética y de Conducta del Órgano Superior de Fiscalización del Estado, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. - El presente Acuerdo, deberá ser difundido dentro de los medios de comunicación institucionales del Órgano Superior de Fiscalización del Estado, en cumplimiento al artículo 12, inciso b) del Código de Ética.
