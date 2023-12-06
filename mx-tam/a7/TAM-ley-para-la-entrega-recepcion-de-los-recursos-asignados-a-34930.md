@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-entrega-recepcion-de-los-recursos-asignados-a-34930
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-06"
-last_updated: "2023-08-23"
+last_updated: "2023-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 6 de noviembre de 2003.
 
@@ -45,7 +45,7 @@ LEY PARA LA ENTREGA-RECEPCION DE LOS RECURSOS ASIGNADOS A LOS PODERES, ORGANOS Y
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO. P.O. 24 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 1º.
 
@@ -363,27 +363,31 @@ El Ejecutivo del Estado podrá celebrar convenios con los Poderes Legislativo y 
 
 ### CAPITULO TERCERO. DEL COMITE DE ENLACE
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 9º.
 
-Tratándose del acto de entrega-recepción final de cualquiera de los Poderes, la unidad administrativa de los órganos públicos autónomos facultada para ese efecto, de los Ayuntamientos o de sus entidades, la o las personas legalmente autorizadas para tomar posesión, dentro de los 30 días previos al acto de entrega-recepción, podrán designar un Comité de Enlace, que tendrá por objeto, establecer la coordinación necesaria con el o los servidores públicos que concluirán el desempeño de su función, y que sean designados expresamente para ese efecto por el titular o representante del Poder u órgano de que se trate o por el Presidente Municipal que corresponda, con el fin de conocer, de manera general, los recursos y responsabilidades que serán recibidos y facilitar la continuidad de las funciones públicas con motivo de la renovación de sus titulares.
+Tratándose del acto de entrega-recepción final de cualquiera de los Poderes, la unidad administrativa de los órganos públicos autónomos facultada para ese efecto, de los Ayuntamientos o de sus entidades, la o las personas legalmente autorizadas para tomar posesión, dentro de los 60 días previos al acto de entrega-recepción, designará un Comité de Enlace, que tendrá por objeto, establecer la coordinación necesaria con la persona o las personas servidoras públicas que concluirán el desempeño de su función, y que sean designados expresamente para ese efecto por el titular o representante del Poder u órgano de que se trate o por la Presidenta o Presidente Municipal que corresponda, con el fin de conocer, de manera general, particular y específica, los recursos y responsabilidades que serán recibidos y facilitar la continuidad de las funciones públicas con motivo de la renovación de sus titulares.
 
 ###### Artículo 10º.
 
 La designación del Comité de Enlace corresponde a la persona que se encuentre legalmente autorizada para tomar posesión del cargo que corresponda, quien le comunicará por escrito al servidor público que concluirá su gestión.
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-El Comité de Enlace estará integrado por un número máximo de siete miembros cuando se trate de la entrega-recepción municipal o de entidades estatales o municipales, y por un máximo de diez si se trata de la entrega-recepción de alguno de los Poderes del Estado u órganos públicos autónomos.
+El Comité de Enlace estará integrado por un número máximo de siete miembros cuando se trate de la entrega-recepción municipal o de cada una de las entidades estatales o municipales, por un máximo de diez si se trata de la entrega-recepción del Poder Judicial, del Poder Legislativo u órganos públicos autónomos, y por un máximo de diez por cada dependencia si se trata de entrega-recepción del Poder Ejecutivo.
 
 Una vez hecha la designación del Comité de Enlace, las personas señaladas en el párrafo anterior de este precepto acordarán la forma en que se habrán de coordinar para el fin señalado en el artículo precedente.
 
-Los integrantes del Comité de Enlace podrán conocer las oficinas, el mobiliario y equipo con el cual cuentan y su estado físico, los almacenes, los archivos, los sistemas de nóminas e inventario, el avance de la complementación de la información a que se refiere el artículo 7º de esta ley y la identificación y localización de los bienes y documentos que serán materia de la entrega-recepción.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Los integrantes del Comité de Enlace conocerán las oficinas, el mobiliario y equipo con el cual cuentan y su estado físico, los almacenes, los archivos, los sistemas de nóminas e inventario, el avance de la complementación e integración de la información a que se refiere el artículo 7° de esta ley y la identificación, revisión y localización de los bienes y documentos que serán materia de la entrega-recepción.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 11.
 
-Las actividades que desarrollen los integrantes del Comité de Enlace, serán únicamente con el objeto de conocer de manera general los recursos y las responsabilidades que habrán de recibirse, por lo que no podrán interferir en el desarrollo normal de las funciones oficiales, sustraer información, ni tomar posesión de bienes, antes de la entrega-recepción formal. En todo caso el desarrollo de sus actividades no podrán ocupar más de cuatro horas hábiles diarias.
+Las actividades que desarrollen los integrantes del Comité de Enlace, serán con el objeto de conocer de manera general, particular y específica los recursos y las responsabilidades que habrán de recibirse, por lo que no podrán interferir en el desarrollo normal de las funciones oficiales, sustraer información, ni tomar posesión de bienes, antes de la entrega-recepción formal. En todo caso el desarrollo de sus actividades no podrá ocupar más de ocho horas hábiles diarias.
 
 ###### Artículo 12.
 
@@ -573,9 +577,11 @@ En el caso del titular del Poder Ejecutivo, éste podrá designar a una persona 
 
 Dentro de los tres días hábiles siguientes a la formalización del acto a que se refiere el artículo anterior, la persona que reciba, sea el titular de la dependencia o entidad del Poder Ejecutivo, la Presidencia de la Junta de Gobierno del Congreso del Estado, de la Presidencia del Supremo Tribunal de Justicia, del órgano público autónomo, de la Presidencia Municipal o de la titularidad de la entidad municipal, remitirá la información y documentación correspondiente al titular de cada Unidad Administrativa adscrita a la esfera de competencia que corresponda a la función que se asume.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 31.
 
-Los servidores públicos que entregan, estarán obligados a proporcionar a las autoridades entrantes y al Organo de Control que corresponda, la información que requieran y a atender las aclaraciones que se les soliciten durante los 60 días naturales siguientes al acto de entrega-recepción.
+Las servidoras y servidores públicos que entregan, estarán obligados a proporcionar a las autoridades entrantes y al Órgano de Control que corresponda, la información que requieran y a atender las aclaraciones que se les soliciten durante los 90 días naturales siguientes al acto de entrega-recepción.
 
 ### CAPITULO SEXTO. DE LAS RESPONSABILIDADES Y SANCIONES
 
@@ -674,3 +680,15 @@ P.O. 23 DE AGOSTO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
+
+P.O. 6 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO.65-777 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 9°; 10°, PÁRRAFOS SEGUNDO Y CUARTO; 11 Y 31 DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones normativas que se opongan al presente Decreto.
