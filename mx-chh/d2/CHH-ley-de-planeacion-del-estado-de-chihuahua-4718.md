@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-planeacion-del-estado-de-chihuahua-4718"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-04"
-last_updated: "2021-09-04"
+last_updated: "2023-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -163,9 +163,9 @@ A) A la persona titular del Ejecutivo del Estado le compete:
 
 4.- Convenir con el Ejecutivo Federal, los Ayuntamientos y los Sectores Social y Privado su participación, en el proceso de planeación del desarrollo del Estado de Chihuahua.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-B) A la Secretaría de Coordinación de Gabinete le compete:
+B) A la Oficina de la Gubernatura del Estado le compete:
 
 1.- Coordinar el Comité de Planeación para el Desarrollo del Estado.
 
@@ -389,7 +389,9 @@ Los Planes Estatales de Desarrollo y de Seguridad Pública y los programas secto
 
 Los programas institucionales, deberán ser sometidos por el órgano de gobierno de la entidad paraestatal de que se trate, a la aprobación de la persona titular de la dependencia coordinadora del sector, y posteriormente deberán ser sometidos por el Comité de Planeación para el Desarrollo del Estado a la consideración y aprobación de la persona titular del Poder Ejecutivo del Estado.
 
-Si la entidad no estuviere agrupada en un sector específico, la aprobación a que alude el párrafo anterior, corresponderá a la Secretaría de Coordinación de Gabinete.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Si la entidad no estuviere agrupada en un sector específico, la aprobación a que alude el párrafo anterior corresponderá a la Oficina de la Gubernatura del Estado.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
 
@@ -740,3 +742,27 @@ Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpet
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFLEY/0658/2023 I P.O., POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL PODER EJECUTIVO (SIC) DEL ESTADO DE CHIHUAHUA, DE LA LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE GOBIERNO DIGITAL PARA EL ESTADO DE CHIHUAHUA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+TERCERO.- La persona titular del Poder Ejecutivo deberá expedir la reforma a los reglamentos interiores de las Secretarías afectadas por el presente Decreto, así como los reglamentos interiores de la Oficina de la Gubernatura del Estado, de la Consejería Jurídica del Ejecutivo del Estado y de la Coordinación de Política Digital, en un plazo no mayor a ciento veinte días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Las atribuciones con que cuentan las unidades administrativas que por virtud del presente Decreto pasarán a formar parte de otras dependencias, continuarán vigentes en términos de las leyes que les otorguen competencia y del Reglamento Interior de la Secretaría de Coordinación de Gabinete, hasta en tanto sean emitidos o reformados los reglamentos interiores de las dependencias a que se refiere este Decreto, conforme a lo dispuesto en el párrafo anterior.
+
+CUARTO.- Las personas servidoras públicas que en cumplimiento de este Decreto pasen a otra dependencia, en ninguna forma resultarán afectadas en los derechos que hayan adquirido en virtud de su relación laboral con la Administración Pública Estatal.
+
+QUINTO.- El cambio de una atribución legal de una dependencia a otra se realizará incluyendo al personal a su servicio, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, todos los recursos materiales y financieros que correspondan. La Secretaría de Hacienda dispondrá lo conducente para esta transición de recursos.
+
+SEXTO.- Se faculta al Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, para realizar las transferencias y ajustes presupuestales necesarios para la continuidad en el funcionamiento y operación de las unidades administrativas de la Secretaría de Coordinación de Gabinete que, en virtud de este Decreto, se transfieren a otras secretarías, a la Oficina de la Gubernatura del Estado, a la Consejería Jurídica del Ejecutivo del Estado y a la Coordinación de Política Digital.
+
+SÉPTIMO.- Las menciones que en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas, se hagan a la Secretaría de Coordinación de Gabinete, se entenderán referidas a la Consejería Jurídica del Ejecutivo del Estado, a la Oficina de la Gubernatura del Estado, a la Secretaría General de Gobierno, a la Secretaría de Desarrollo Humano y Bien Común o a la Coordinación de Política Digital, según corresponda, de acuerdo con la distribución de competencias que se realiza en el presente Decreto.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Secretaría de Coordinación de Gabinete en cualesquiera contratos, convenios, acuerdos o instrumentos jurídicos similares, serán asumidos por la Secretaría que corresponda, la Oficina de la Gubernatura del Estado, la Consejería Jurídica del Ejecutivo del Estado o la Coordinación de Política Digital, en los términos del párrafo anterior.
+
+OCTAVO.- Los nombramientos expedidos con anterioridad a la entrada en vigor del presente Decreto, subsistirán y seguirán surtiendo sus efectos conforme a la normatividad vigente al momento de su expedición, hasta en tanto sean emitidos o reformados los reglamentos interiores de las dependencias a que se refiere este Decreto, en cuyo caso deberán emitirse los nuevos nombramientos.
