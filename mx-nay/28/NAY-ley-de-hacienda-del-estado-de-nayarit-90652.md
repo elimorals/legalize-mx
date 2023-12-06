@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-90652"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-22"
-last_updated: "2023-09-20"
+last_updated: "2023-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 22 de diciembre de 2012.
 
@@ -377,27 +377,45 @@ Cuando el contribuyente obtenga ingresos de los previstos en esta Ley y no prese
 
 ## TÍTULO SEGUNDO. SOBRE EL PATRIMONIO
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO I. DEL IMPUESTO SOBRE COMPRAVENTA VEHICULAR
+### CAPÍTULO I. DEL IMPUESTO SOBRE LA ADQUISICIÓN DE VEHÍCULOS USADOS
 
 #### SECCIÓN PRIMERA. Del Objeto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 25.
 
-Es objeto de este impuesto la adquisición por compraventa, donación, prescripción o por cualquier otra causa o título de toda clase de bienes muebles usados.
+Es objeto de este impuesto la adquisición por compra-venta, donación, sucesión, permuta, aportación a una sociedad o por cualquier otra causa o título, de vehículos usados ya sean automotores, eléctricos, remolques y semirremolques.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+También será objeto de este impuesto la adquisición de vehículos obtenida por premios en rifas y sorteos.
 
 #### SECCIÓN SEGUNDA. Del Sujeto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 26.
 
-Es sujeto la persona que adquiere los bienes y solidariamente responsable el transmisor, a excepción de los bienes muebles enajenados por las empresas en los términos de la Ley del Impuesto al Valor Agregado.
+Son sujetos de este impuesto las personas físicas y morales que adquieran vehículos usados ya sean automotores, eléctricos, remolques y semirremolques, así como los obtenidos por premios en rifas y sorteos, dentro del territorio del Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Se considera que la adquisición se realizó en el Estado de Nayarit, cuando el adquirente lleve a cabo los trámites de cambio de propietario, ante la Secretaría de Administración y Finanzas.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Cuando la adquisición sea obtenida por premios en rifas y sorteos, se considera que la adquisición se realizó en el Estado de Nayarit, cuando el adquirente lleve a cabo los trámites de alta al padrón vehicular, ante la Secretaria de Administración y Finanzas.
 
 #### SECCIÓN TERCERA. De la Base
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 27.
 
-Servirá de base para el pago del impuesto a que se refiere este Título, el valor que resulte más alto entre el de la operación, el oficial y en los casos de bienes adquiridos por donación y prescripción el declarado.
+Servirá de base para el pago del impuesto a que se refiere este capítulo, el valor que resulte más alto entre el de la operación y el oficial conforme a la tabla de valores que anualmente emita la Secretaría de Administración y Finanzas para este efecto, la cual deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 #### SECCIÓN CUARTA. De la Cuota
 
@@ -409,35 +427,101 @@ Este impuesto se causará y pagará a la tasa del 2%.
 
 #### SECCIÓN QUINTA. Del Pago
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 29.
 
-El impuesto se liquidará presentando la factura o documento en que se haya hecho constar la adquisición, dentro de los 30 días siguientes a la operación de compraventa, donación, prescripción o por cualquier otra causa o título.
+El impuesto se pagará dentro de los treinta días siguientes a la adquisición, cumpliendo con los requisitos que para tal efecto se establezcan.
 
-Tratándose de adquisición de vehículos, el adquirente será responsable del pago del impuesto que hubiera dejado de cubrirse en anteriores operaciones de compraventa.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+Tratándose de adquisición de vehículos usados, el adquirente será responsable del pago del impuesto que hubiera dejado de cubrirse en anteriores adquisiciones.
 
-Cuando el sujeto obligado al pago de este impuesto no liquide el mismo en los plazos aquí previstos, se hará acreedor al pago de una multa equivalente a tres veces el valor diario de la Unidad de Medida y Actualización calculada en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos, por cada mes de retraso en el pago.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Cuando no se presente el aviso de cambio de propietario en el plazo previsto en el primer párrafo de este artículo, se impondrá una multa equivalente a nueve veces el valor diario de la Unidad de Medida y Actualización calculada en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 Para este efecto se considerará como fecha de la adquisición la que aparezca en la factura o documento en que se haya hecho constar la misma a favor del sujeto obligado, en su defecto la que corresponda al mes inmediato anterior al de la realización del trámite de baja y alta respectivo.
 
-> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-#### SECCIÓN SEXTA. DE LAS EXENCIONES
+Las personas físicas o morales dedicadas a la compra y venta de vehículos usados, que reciban a comisión o consignación vehículos para su enajenación, son solidariamente responsables del pago de este impuesto.
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-#### SECCIÓN PRIMERA. Del Padrón Vehicular del Estado de Nayarit
+#### SECCIÓN SEXTA. De las Obligaciones de los Contribuyentes
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 29 Bis.
+
+Los sujetos de este impuesto deberán cumplir con los siguientes requisitos:
+
+I. Acreditar la Propiedad del Vehículo ante la Recaudación de Rentas correspondiente mediante, el Comprobante Fiscal Digital por Internet (CFDI), emitido por el enajenante del bien;
+
+II. Acreditar con copias simples de las facturas correspondientes, la secuencia de cambios de propietario anteriores, pudiendo ser mediante endosos o refacturas;
+
+III. Tratándose de vehículos de procedencia extranjera, además de lo señalado en las fracciones I y II del presente artículo, deberá acreditar la legal estancia en el país, mediante el pedimento de importación o constancia de regularización correspondiente;
+
+IV. Acreditar el pago de las contribuciones en materia de control vehicular hasta por cinco ejercicios fiscales anteriores al actual;
+
+V. Acreditar la verificación física del vehículo, con la constancia emitida por parte del Registro Público Vehicular (REPUVE);
+
+VI. Identificación oficial del propietario;
+
+VII. Constancia de Situación Fiscal del enajenante del vehículo, y
+
+VIII. Comprobante de domicilio del propietario.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 29 Ter.
+
+Las personas físicas o morales dedicadas a la compra y venta de vehículos usados deberán cumplir con los siguientes requisitos:
+
+I. Inscribirse en el padrón estatal de contribuyentes dedicados a la compra y venta de vehículos usados;
+
+II. Acreditar con la Constancia de Situación Fiscal, que se dedica a la compra y venta de vehículos usados;
+
+III. Llevar un registro de los vehículos adquiridos y de los que reciban a comisión o consignación, en el que se anotaran por lo menos los siguientes datos:
+
+a) Nombre y domicilio del enajenante, comitente o consignante;
+
+b) Figura jurídica del acto por el que recibe cada vehículo, y
+
+c) Datos y características del vehículo.
+
+IV. Acreditar la adquisición del vehículo con el Comprobante Fiscal Digital por Internet (CFDI), emitido por el anterior propietario;
+
+V. Acreditar la Propiedad del Vehículo ante la Recaudación de Rentas correspondiente mediante, el Comprobante Fiscal Digital por Internet (CFDI), que emita a favor del adquirente del vehículo;
+
+VI. Acreditar con copias simples de las facturas correspondientes, la secuencia de cambios de propietario anteriores, pudiendo ser mediante endosos o refacturas;
+
+VII. Tratándose de vehículos de procedencia extranjera, además de lo señalado en las fracciones IV, V y VI del presente artículo, deberá acreditar la legal estancia en el país, mediante el pedimento de importación o constancia de regularización correspondiente;
+
+VIII. Acreditar el pago de las contribuciones en materia de control vehicular hasta por cinco ejercicios fiscales anteriores al actual;
+
+IX. Acreditar la verificación física del vehículo, con la constancia emitida por parte del Registro Público Vehicular (REPUVE);
+
+X. Identificación oficial del adquirente del vehículo, y
+
+XI. Comprobante de domicilio del adquirente del vehículo.
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN SÉPTIMA. De las Exenciones
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 30.
 
-Están exentas del pago de este impuesto:
+Están exentas del pago de este impuesto, las operaciones de adquisición de vehículos usados por cuya enajenación deba pagarse el Impuesto al Valor Agregado.
 
-I.- Las operaciones de compraventa de vehículos usados por cuya enajenación deba pagarse el impuesto al valor agregado, y
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-II.- La compra de vehículos efectuada por personas físicas o morales cuyo giro sea la compraventa de vehículos automotores, siempre que hayan sido adquiridos de personas físicas que no realicen actividades empresariales.
+###### Artículo 30 Bis.
+
+Las personas físicas o morales dedicadas a la compra y venta de vehículos usados, están exentas del pago de la multa establecida en el párrafo tercero del Artículo 29 de esta Ley, por las adquisiciones que realice en ejercicio de sus actividades comerciales.
 
 ### CAPÍTULO II
 
@@ -447,7 +531,7 @@ DEL IMPUESTO ESTATAL SOBRE TENENCIA O USO DE VEHÍCULOS.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-#### SECCIÓN PRIMERA. Del Objeto
+#### SECCIÓN PRIMERA. Del Padrón Vehicular del Estado de Nayarit
 
 ###### Artículo 32.
 
@@ -461,25 +545,25 @@ APARTADO A
 
 DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS DE 10 AÑOS O MÁS DE MODELO ANTERIOR
 
-#### SECCIÓN SEGUNDA. De los Sujetos
+#### SECCIÓN PRIMERA. Del Objeto
 
 ###### Artículo 34.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-#### SECCIÓN TERCERA. De la Base
+#### SECCIÓN SEGUNDA. De los Sujetos
 
 ###### Artículo 35.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-#### SECCIÓN CUARTA. Del pago
+#### SECCIÓN TERCERA. De la Base
 
 ###### Artículo 36.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-#### SECCIÓN PRIMERA. De los sujetos
+#### SECCIÓN CUARTA. Del pago
 
 ###### Artículo 37.
 
@@ -489,7 +573,7 @@ APARTADO B
 
 DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS NUEVOS Y DE HASTA 9 AÑOS MODELO ANTERIOR
 
-#### SECCIÓN SEGUNDA. Del Objeto
+#### SECCIÓN PRIMERA. De los sujetos
 
 ###### Artículo 38.
 
@@ -511,19 +595,19 @@ DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS NUEVOS Y DE HASTA 9 AÑOS MODELO
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-#### SECCIÓN TERCERA. De la Base
+#### SECCIÓN SEGUNDA. Del Objeto
 
 ###### Artículo 43.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-#### SECCIÓN CUARTA. Del Pago
+#### SECCIÓN TERCERA. De la Base
 
 ###### Artículo 44.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-#### SECCIÓN PRIMERA. Exenciones
+#### SECCIÓN CUARTA. Del Pago
 
 ###### Artículo 45.
 
@@ -561,15 +645,13 @@ APARTADO C
 
 DISPOSICIONES COMUNES APLICABLES Al IMPUESTO DE TENENCIA O USO DE VEHÍCULOS
 
-#### SECCIÓN SEGUNDA. De la Responsabilidad Solidaria
+#### SECCIÓN PRIMERA. Exenciones
 
 ###### Artículo 53.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-#### SECCIÓN PRIMERA. Del Objeto
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+#### SECCIÓN SEGUNDA. De la Responsabilidad Solidaria
 
 ###### Artículo 54.
 
@@ -581,9 +663,9 @@ DISPOSICIONES COMUNES APLICABLES Al IMPUESTO DE TENENCIA O USO DE VEHÍCULOS
 
 ### CAPÍTULO I. DEL IMPUESTO SOBRE HOSPEDAJE
 
-#### SECCIÓN SEGUNDA. De los Sujetos
+#### SECCIÓN PRIMERA. Del Objeto
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 55.
 
@@ -611,7 +693,7 @@ Tratándose de servicios prestados bajo el régimen de tiempo compartido o de cu
 
 El impuesto al que se refiere este capítulo se causará en el momento en que se efectúen las erogaciones gravadas.
 
-#### SECCIÓN TERCERA. De la Base
+#### SECCIÓN SEGUNDA. De los Sujetos
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
 
@@ -631,9 +713,9 @@ Cuando intervenga una persona física o moral en su carácter de intermediario, 
 
 El contribuyente trasladará el impuesto, en forma expresa y por separado, a las personas que reciban los servicios objeto de esta contribución. Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe hacer a las personas que reciban los servicios de hospedaje en dinero o especie por un monto equivalente al impuesto establecido en este capítulo.
 
-#### SECCIÓN CUARTA. De la Cuota
+#### SECCIÓN TERCERA. De la Base
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
 
 ###### Artículo 60.
 
@@ -655,7 +737,7 @@ Los servicios prestados bajo el sistema "todo incluido" por el cual se realicen 
 
 En ningún caso, la base del impuesto sobre hospedaje dentro del sistema ''todo incluido" podrá ser inferior al 40% del total de las erogaciones realizadas por la contraprestación de esos servicios.
 
-#### SECCIÓN QUINTA. Del Pago
+#### SECCIÓN CUARTA. De la Cuota
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
@@ -663,7 +745,9 @@ En ningún caso, la base del impuesto sobre hospedaje dentro del sistema ''todo 
 
 El Impuesto sobre Hospedaje se calculará y liquidará aplicando la tasa del 5% a la base señalada para este impuesto.
 
-#### SECCIÓN SEXTA. De las Exenciones
+#### SECCIÓN QUINTA. Del Pago
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 63.
 
@@ -701,7 +785,7 @@ Se entiende por plataforma digital, a la aplicación de servicios de hospedaje q
 
 Cuando la persona física o moral en su carácter de intermediario, promotor o facilitador, por medio de plataformas tecnológicas, entere el pago del impuesto sobre hospedaje, liberará al prestador del servicio de hospedaje de las obligaciones establecidas en este Artículo.
 
-#### SECCIÓN SÉPTIMA. De la Estimación de las Erogaciones
+#### SECCIÓN SEXTA. De las Exenciones
 
 ###### Artículo 64.
 
@@ -719,9 +803,7 @@ E) Seminarios
 
 F) Internados
 
-#### SECCIÓN OCTAVA. De las Obligaciones de los Prestadores de Servicios de Hospedaje
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2019)</small>
+#### SECCIÓN SÉPTIMA. De la Estimación de las Erogaciones
 
 ###### Artículo 65.
 
@@ -735,9 +817,9 @@ II. Cuando por los informes que se obtengan se ponga de manifiesto que entre la 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 2019)</small>
 
-#### SECCIÓN PRIMERA. Del Objeto
+#### SECCIÓN OCTAVA. De las Obligaciones de los Prestadores de Servicios de Hospedaje
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2019)</small>
 
 ###### Artículo 66.
 
@@ -781,9 +863,9 @@ VIII. Proporcionar a la autoridad fiscal, cuando así lo solicite, la contabilid
 
 ### CAPITULO II. DEL IMPUESTO A LA VENTA DE BEBIDAS CON CONTENIDO ALCOHÓLICO
 
-#### SECCIÓN SEGUNDA. De los Sujetos
+#### SECCIÓN PRIMERA. Del Objeto
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 67.
 
@@ -799,15 +881,17 @@ Venta, la enajenación que realice cualquier persona física o moral de los bien
 
 Se entiende que la venta se efectúa en territorio del Estado, si en él se lleva a cabo la entrega material de la bebida.
 
-#### SECCIÓN TERCERA. De la Base y Tasa
+#### SECCIÓN SEGUNDA. De los Sujetos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 68.
 
 Son sujetos de este impuesto, las personas físicas y morales que realicen en territorio del Estado de Nayarit, la venta de los bienes a que se refiere el artículo anterior.
 
-#### SECCIÓN CUARTA. Del pago
+#### SECCIÓN TERCERA. De la Base y Tasa
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 69.
 
@@ -823,7 +907,7 @@ Este impuesto se calculará aplicando al valor que señala el artículo anterior
 
 El impuesto no será acreditable contra otros impuestos locales o federales.
 
-#### SECCIÓN QUINTA. De las obligaciones de los contribuyentes
+#### SECCIÓN CUARTA. Del pago
 
 ###### Artículo 71.
 
@@ -871,7 +955,7 @@ Cuando la venta se realice en hoteles bajo el sistema “todo incluido”, en el
 
 Los contribuyentes deberán exhibir los documentos y registros que acrediten dicha estimación, cuando la Autoridad se los requiera.
 
-#### SECCIÓN PRIMERA. Del Objeto
+#### SECCIÓN QUINTA. De las obligaciones de los contribuyentes
 
 ###### Artículo 75.
 
@@ -895,77 +979,67 @@ V. Expedir comprobante por cada una de las operaciones, sin que el impuesto esta
 
 ### CAPÍTULO III. DE LOS IMPUESTOS ADICIONALES
 
-#### SECCIÓN SEGUNDA. De los Sujetos
+#### SECCIÓN PRIMERA. Del Objeto
 
 ###### Artículo 76.
 
-Es objeto de los impuestos adicionales el pago de impuestos, de derechos y productos que establezca la Ley de Ingresos del Estado.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2023)
 
-#### SECCIÓN TERCERA. De la Base
+#### SECCIÓN SEGUNDA. De los Sujetos
 
 ###### Artículo 77.
 
-Son sujetos de los impuestos adicionales los propios impuestos, derechos y productos considerados como tales en la Ley de Ingresos del Estado.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2023)
 
-#### SECCIÓN CUARTA. Del Pago
+#### SECCIÓN TERCERA. De la Base
 
 ###### Artículo 78.
 
-La base de los impuestos adicionales, será el monto de lo que pague por concepto de impuestos, derechos y productos.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2023)
 
-#### SECCIÓN QUINTA. Para el Fomento de la Educación
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+#### SECCIÓN CUARTA. Del Pago
 
 ###### Artículo 79.
 
-Los impuestos adicionales se causarán y harán efectivos en el momento en que se paguen los impuestos, derechos y productos que establezca la Ley de Ingresos del Estado.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2023)
 
-#### SECCIÓN SEXTA. Para la Asistencia Social
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+#### SECCIÓN QUINTA. Para el Fomento de la Educación
 
 ###### Artículo 80.
 
-Este impuesto se causará y pagará conforme a la tasa del 25%.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2023)
 
-#### SECCIÓN SÉPTIMA. Para la Universidad Autónoma de Nayarit
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+#### SECCIÓN SEXTA. Para la Asistencia Social
 
 ###### Artículo 81.
 
-Este impuesto se causará y pagará conforme a la tasa del 15%.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2023)
 
-#### SECCIÓN OCTAVA. De las Exenciones
-
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2023)</small>
+#### SECCIÓN SÉPTIMA. Para la Universidad Autónoma de Nayarit
 
 ###### Artículo 82.
 
-Este impuesto se causará y pagará conforme a la tasa del 15%.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2023)
+
+#### SECCIÓN OCTAVA. De las Exenciones
+
+###### Artículo 83.
+
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2023)
+
+### CAPÍTULO IV. DEL IMPUESTO SOBRE NÓMINAS
 
 #### SECCIÓN PRIMERA. Del Objeto
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
 
-###### Artículo 83.
-
-Se exime del pago de los impuestos adicionales a que se refiere este Capítulo, al Impuesto sobre Nóminas; al Impuesto al Hospedaje; a los Impuestos Cedulares por Prestación de Servicios, Arrendamiento y en general por otorgar el uso o goce de Bienes Inmuebles y por Actividades Empresariales; al Impuesto sobre Tenencia o uso de Vehículos nuevos y de hasta nueve años modelo anterior; al Impuesto a la Venta de Bebidas con Contenido Alcohólico; al Impuesto sobre Juegos y Apuestas permitidas, sobre Rifas, Loterías y Sorteos; al Impuesto a la Industria de Extracción de Materiales Pétreos en Transporte de Vehículos o Camiones de Volteo; y los Derechos por Registro Público de la Propiedad por hipotecas sobre créditos para vivienda de interés social.
-
-### CAPÍTULO IV. DEL IMPUESTO SOBRE NÓMINAS
-
-#### SECCIÓN SEGUNDA. De los Sujetos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
-
 ###### Artículo 84.
 
 Son objeto de este impuesto, las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal subordinado, honorarios asimilados a salarios, prestado dentro del Estado de Nayarit, independientemente de la denominación que se le otorgue, bajo la dirección y/o dependencia de un patrón, contratista, intermediario o terceros.
 
-#### SECCIÓN TERCERA. De la Base
+#### SECCIÓN SEGUNDA. De los Sujetos
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 85.
 
@@ -987,9 +1061,9 @@ Quedan incluidas las personas físicas, morales y unidades económicas que sin e
 
 Serán responsables solidarios del pago de este impuesto las personas físicas o morales que contraten y reciban la prestación del trabajo personal subordinado, aun cuando el pago del salario se realice por otra persona.
 
-#### SECCIÓN CUARTA. De la Cuota
+#### SECCIÓN TERCERA. De la Base
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
 
 ###### Artículo 86.
 
@@ -997,7 +1071,7 @@ Es base del Impuesto Sobre Nómina el monto total de las erogaciones realizadas 
 
 Para efectos de este impuesto se consideran remuneraciones al trabajo personal, los pagos que se hagan en efectivo por cuota diaria, gratificaciones, percepciones, habitación, primas, comisiones, prestaciones en especie y cualquier otra cantidad o prestación que se entregue al trabajador por su trabajo.
 
-#### SECCIÓN QUINTA. Del Pago
+#### SECCIÓN CUARTA. De la Cuota
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
@@ -1005,7 +1079,9 @@ Para efectos de este impuesto se consideran remuneraciones al trabajo personal, 
 
 El impuesto sobre nóminas se liquidará aplicando la tasa del 3.0% a la base señalada para este impuesto.
 
-#### SECCIÓN SEXTA. De las Exenciones
+#### SECCIÓN QUINTA. Del Pago
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 88.
 
@@ -1015,7 +1091,7 @@ El pago del impuesto deberá efectuarse, dentro de los primeros 10 días de cale
 
 La obligación de presentar declaración subsistirá, aunque no se hayan efectuado erogaciones gravadas.
 
-#### SECCIÓN SÉPTIMA. De la Estimación de Erogaciones
+#### SECCIÓN SEXTA. De las Exenciones
 
 ###### Artículo 89.
 
@@ -1067,7 +1143,7 @@ j) Pagos realizados a personas físicas por la prestación de su trabajo persona
 
 II. Las erogaciones que efectúen las instituciones públicas o privadas cuyo objeto de creación sea la realización de la asistencia social en cualquiera de sus formas así previstas en la ley estatal de la materia, siempre que se preste de forma regular y gratuita o sujeta a una cuota de recuperación, y sus ingresos provenga (sic) únicamente de donaciones u aportaciones voluntarias.
 
-#### SECCIÓN OCTAVA. De las Obligaciones de los Contribuyentes de este Impuesto
+#### SECCIÓN SÉPTIMA. De la Estimación de Erogaciones
 
 ###### Artículo 90.
 
@@ -1093,9 +1169,7 @@ IV. Cuando el contribuyente no entregue la información solicitada o no atienda 
 
 V. Cuando no se cuente con registro en el padrón estatal de contribuyentes, no se presenten declaraciones o no se pague oportunamente el importe del Impuesto Sobre Nóminas, o se pague el impuesto de forma incorrecta, respecto de las remuneraciones al trabajo personal subordinado relacionado con el ramo de la construcción de bienes inmuebles, se estimarán las erogaciones de conformidad a los costos de mano de obra por metro cuadrado para la obra privada, así como los factores de mano de obra de los contratos de obra pública que rigen las diversas leyes sobre la materia, acorde con la determinación de salarios mínimos que mediante resolución emite el H. Consejo de Representantes de la Comisión Nacional de Salarios Mínimos la cual fija los salarios mínimos generales y profesionales.
 
-#### SECCIÓN PRIMERA. Del Objeto
-
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+#### SECCIÓN OCTAVA. De las Obligaciones de los Contribuyentes de este Impuesto
 
 ###### Artículo 91.
 
@@ -1129,7 +1203,7 @@ VII. Las personas físicas y jurídico colectivas que reciban las prestaciones d
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
-#### SECCIÓN SEGUNDA. De los Sujetos
+#### SECCIÓN PRIMERA. Del Objeto
 
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
@@ -1143,7 +1217,7 @@ Cuando el contribuyente omita registrar los ingresos a que se refiere este impue
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
-#### SECCIÓN TERCERA. De la Base
+#### SECCIÓN SEGUNDA. De los Sujetos
 
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
@@ -1153,7 +1227,7 @@ Son sujetos del pago de este impuesto las personas físicas y morales o unidades
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
-#### SECCIÓN CUARTA. De la Tasa
+#### SECCIÓN TERCERA. De la Base
 
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
@@ -1163,17 +1237,9 @@ Es base de este impuesto el volumen de materiales pétreos o de los derivados a 
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
-#### SECCIÓN QUINTA. Del Pago
+#### SECCIÓN CUARTA. De la Tasa
 
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
-
-Artículo 91 Sexties.- El pago de este impuesto deberá efectuarse dentro de los primeros 10 días del mes siguiente en que ocurran las actividades a que se refiere el Artículo 91 Bis de este Capítulo, mediante declaración que presentarán en las formas autorizadas por las (sic) Secretaría de Administración y Finanzas.
-
-Cuando los contribuyentes cuenten con sucursales en diversos municipios del Estado, deberán presentar declaración por cada una de las sucursales.
-
-Las personas físicas o morales que tengan su domicilio fiscal en otro Estado, deberán pagar conforme a lo establecido en esta Ley y en el artículo 1° del Código Fiscal del Estado de Nayarit, el Impuesto por traslado de Materiales Pétreos que se cause por los actos o actividades realizadas dentro del territorio del Estado de Nayarit.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 91 Quinquies.
 
@@ -1209,11 +1275,21 @@ El destino de lo recaudado por este impuesto será aplicado a la restauración, 
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
-#### SECCIÓN SEXTA. De las Obligaciones de los Contribuyentes
+#### SECCIÓN QUINTA. Del Pago
 
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
-#### SECCIÓN PRIMERA. Diversos Aprovechamientos
+Artículo 91 Sexties.- El pago de este impuesto deberá efectuarse dentro de los primeros 10 días del mes siguiente en que ocurran las actividades a que se refiere el Artículo 91 Bis de este Capítulo, mediante declaración que presentarán en las formas autorizadas por las (sic) Secretaría de Administración y Finanzas.
+
+Cuando los contribuyentes cuenten con sucursales en diversos municipios del Estado, deberán presentar declaración por cada una de las sucursales.
+
+Las personas físicas o morales que tengan su domicilio fiscal en otro Estado, deberán pagar conforme a lo establecido en esta Ley y en el artículo 1° del Código Fiscal del Estado de Nayarit, el Impuesto por traslado de Materiales Pétreos que se cause por los actos o actividades realizadas dentro del territorio del Estado de Nayarit.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN SEXTA. De las Obligaciones de los Contribuyentes
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 91 Septies.
 
@@ -1543,7 +1619,7 @@ Los productos que perciba el Estado se regularán por los contratos o convenios 
 
 ## TÍTULO SÉPTIMO. DE OTROS INGRESOS
 
-#### SECCIÓN SEGUNDA. De Las Participaciones Federales
+#### SECCIÓN PRIMERA. Diversos Aprovechamientos
 
 ###### Artículo 114.
 
@@ -1579,13 +1655,15 @@ Los ingresos que el Estado obtenga por los Conceptos señalados en los incisos B
 
 También participará de dicho estímulo indirectamente el personal de la Secretaría de Administración y Finanzas, que para tal efecto determine el Secretario en los lineamientos que se emitan anualmente.
 
-#### SECCIÓN TERCERA. Ingresos Extraordinarios
+#### SECCIÓN SEGUNDA. De Las Participaciones Federales
 
 ###### Artículo 116.
 
 Quedan comprendidas dentro de esta clasificación, los ingresos que obtenga el Estado, provenientes de su adhesión al Sistema Nacional de Coordinación Fiscal, así como por la realización de diversas actas de acuerdo con lo estipulado en el Convenio de Colaboración Administrativa y sus anexos, celebrado entre el Gobierno del Estado y el Gobierno Federal por conducto de la Secretaría de Hacienda y Crédito Público.
 
 Quedan comprendidos también en este Capítulo, otros ingresos que el gobierno del Estado obtenga de la federación, por concepto de participación, proveniente de otras fuentes que, en su caso, se establezca.
+
+#### SECCIÓN TERCERA. Ingresos Extraordinarios
 
 ###### Artículo 117.
 
@@ -1720,3 +1798,9 @@ SEGUNDO. Con relación al artículo 92, la Secretaría de Administración y Fina
 TERCERO. Los recursos del cinco al millar que a la entrada en vigor del presente decreto, se encuentren retenidos por la dependencia o entidad contratante o pagadora, deberán ser enterados a la Secretaría de Administración y Finanzas, en un plazo de treinta días hábiles posteriores a la publicación del presente Decreto, de conformidad con el procedimiento que para el efecto establezca la propia Secretaría.
 
 CUARTO. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente decreto.
+
+P.O. 6 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE NAYARIT, EN MATERIA DEL IMPUESTO SOBRE COMPRAVENTA VEHÍCULAR E IMPUESTOS ADICIONALES”.]
+
+Único. El presente decreto entrará en vigor el día primero de enero del año dos mil veinticuatro, previa su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
