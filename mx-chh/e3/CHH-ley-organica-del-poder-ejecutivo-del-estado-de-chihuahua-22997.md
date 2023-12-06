@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2023-06-28"
+last_updated: "2023-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -49,25 +49,31 @@ LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA.
 
 Esta Ley establece las bases de organización del Poder Ejecutivo del Estado de Chihuahua y comprende la administración centralizada y paraestatal.
 
-La actividad del Poder Ejecutivo se regirá asimismo:
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+Las Secretarías, la Fiscalía General del Estado, las unidades de asesoría y de apoyo técnico, la Oficina de la Gubernatura del Estado y la Consejería Jurídica del Ejecutivo del Estado, integran la Administración Pública Centralizada.
 
-I.- Por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Chihuahua;
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-II.- Por las disposiciones de carácter federal que confieran a las dependencias o entidades locales una delegación de funciones o las consideren como ejecutoras o auxiliares de la Federación en el cumplimiento de dichas disposiciones;
+Los organismos descentralizados, las empresas de participación estatal, las empresas propiedad del Estado y los fideicomisos, componen la Administración Pública Paraestatal.
 
-III.- Por los convenios que con apego a los preceptos constitucionales y legales, celebre el Poder Ejecutivo con las dependencias y entidades de la Federación, de otros Estados o de los Municipios;
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+La actividad del Poder Ejecutivo se regirá así mismo:
 
-IV.- Por las disposiciones legales de carácter estatal que en cualquier forma le atribuyan competencia al Poder Ejecutivo;
+I. Por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Chihuahua.
 
-V.- Por las normas de derecho común que le atribuyan alguna competencia al Poder Ejecutivo;
+II. Por las disposiciones de carácter federal que confieran a las dependencias o entidades locales una delegación de funciones o las consideren como ejecutoras o auxiliares de la Federación en el cumplimiento de dichas disposiciones.
 
-VI.- Por las disposiciones legales o reglamentarias de carácter municipal que confieran intervención al Ejecutivo, dentro de las normas que salvaguardan la libertad municipal; y
+III. Por los convenios que con apego a los preceptos constitucionales y legales, celebre el Poder Ejecutivo con las dependencias y entidades de la Federación de otros estados o de los municipios.
 
-VII.- Por los reglamentos, acuerdos y circulares dictados con apoyo y dentro de las limitaciones de la Ley.
+IV. Por las disposiciones legales de carácter estatal que en cualquier forma le atribuyan competencia al Poder Ejecutivo.
+
+V. Por las normas de derecho común que le atribuyan alguna competencia al Poder Ejecutivo.
+
+VI. Por las disposiciones legales o reglamentarias de carácter municipal que confieran intervención al Ejecutivo, dentro de las normas que salvaguardan la libertad municipal.
+
+VII. Por los reglamentos, acuerdos y circulares dictados con apoyo y dentro de las limitaciones de la Ley.
 
 ###### ARTICULO 2o.
 
@@ -83,11 +89,17 @@ I.- Las Secretarías;
 
 II.- La Fiscalía General del Estado; y
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-III.- Las Coordinaciones adscritas directamente al Ejecutivo;
+III.- Las unidades de asesoría y de apoyo técnico adscritas directamente a la persona titular del Poder Ejecutivo.
 
-IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+IV.- La Oficina de la Gubernatura del Estado.
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+V.- La Consejería Jurídica del Ejecutivo del Estado.
 
 ###### ARTICULO 3o.
 
@@ -115,19 +127,21 @@ Los órganos internos de control se integrarán en los términos previstos en la
 
 La Secretaría de la Función Pública tendrá un Órgano Interno de Control, que dependerá jerárquica y funcionalmente de la propia Secretaría en los términos que señale su Reglamento Interior. La persona titular de este Órgano será nombrada y removida libremente por la persona titular del Poder Ejecutivo del Estado. Quien ocupe la titularidad de este Órgano Interno de Control designará y removerá a sus integrantes, previo acuerdo con la persona titular de la Secretaría.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 5o.
 
-El Gobernador del Estado podrá convocar a reuniones de Secretarios, Fiscal General del Estado, Coordinadores y demás funcionarios competentes, cuando se trate de definir o evaluar la política del Gobierno Estatal. Estas reuniones serán presididas por el titular del Poder Ejecutivo.
+La persona titular del Ejecutivo podrá convocar a reuniones de titulares de Secretarías, de la Fiscalía General del Estado, de las unidades de asesoría y de apoyo técnico adscritas directamente a la persona titular del Poder Ejecutivo y demás personas servidoras públicas competentes, cuando se trate de definir o evaluar la política del Gobierno Estatal. Estas reuniones serán presididas por la persona titular del Poder Ejecutivo.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 6o.
 
-El Gobernador del Estado contará, además, con las unidades de asesoría y de apoyo técnico que el propio Ejecutivo determine, de acuerdo con el presupuesto.
+La persona titular del Poder Ejecutivo contará con la Oficina de la Gubernatura del Estado, sin perjuicio de las atribuciones que ejercen las dependencias y entidades de la Administración Pública Estatal, en el ámbito de sus respectivas competencias. La persona titular de dicha Oficina tendrá superioridad jerárquica con respecto a las unidades administrativas que le sean adscritas en el reglamento interior correspondiente.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Sin perjuicio de lo anterior, la persona titular del Poder Ejecutivo contará, además, con las unidades de asesoría y de apoyo técnico que las leyes o la misma determinen, de acuerdo con el presupuesto. Estas unidades podrán estar adscritas de manera directa al propio Ejecutivo o a través de la Oficina señalada en el párrafo anterior.
 
 ###### ARTICULO 7o.
 
@@ -137,7 +151,9 @@ Las dependencias y entidades de la administración pública centralizada y parae
 
 ARTICULO 7 BIS.- Los titulares de las dependencias y entidades de la Administración Pública Centralizada y Paraestatal, deberán proporcionar en forma oportuna y veraz, la información del ramo, relacionada con su función, que les solicite el Congreso del Estado, a través del Pleno o de sus comisiones y comités, que resulte necesaria para que puedan cumplir con sus atribuciones, en los términos de la Ley Orgánica del Poder Legislativo. Asimismo, facilitarán la información que les sea requerida por los diputados en lo particular, cuando el Congreso se encuentre en receso, de acuerdo a lo previsto por el artículo 65, fracción IV, de la Constitución Política del Estado
 
-El incumplimiento de esta obligación constituye una falta administrativa que acarreará las responsabilidades y sanciones que resulten conforme a los procedimientos previstos por la Ley de Responsabilidades de los Servidores Públicos, salvo en el caso de la excepción prevista en el siguiente párrafo.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+El incumplimiento de esta obligación constituye una falta administrativa que acarreará las responsabilidades y sanciones que resulten conforme a los procedimientos previstos por la Ley General de Responsabilidades Administrativas, salvo en el caso de la excepción prevista en el siguiente párrafo.
 
 Cuando la dependencia a quien se requiera la información tenga alguna razón justificada para rehusarla, lo hará saber por escrito al solicitante, fundando y motivando su negativa.
 
@@ -175,13 +191,19 @@ Las dependencias formularán respecto de los asuntos de su competencia, los proy
 
 Los reglamentos, decretos y acuerdos expedidos por el Gobernador del Estado deberán, para su validez y observancia constitucionales, ir firmados por el Secretario General de Gobierno y el titular de la dependencia a la que el asunto corresponda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 12.
 
-Los titulares de las dependencias, para el despacho de los asuntos de su competencia, se auxiliarán de Subsecretarios, Directores Generales, Directores, Jefes de Departamento y demás servidores públicos que establezca el reglamento interior respectivo y autorice el presupuesto de egresos. Los titulares y demás funcionarios que establezca el Reglamento Interior de cada dependencia, tendrán fe pública respecto a los actos que realicen en el ámbito de su competencia y respecto a la certificación o constancia de los documentos y archivos que obren en su poder con motivo de sus atribuciones.
+Las personas titulares de las dependencias, para el despacho de los asuntos de su competencia, se auxiliarán de Subsecretarías, Direcciones Generales, Coordinaciones, Direcciones, Jefaturas de Departamento y demás personas servidoras públicas que establezca el reglamento interior respectivo y autorice el presupuesto de egresos.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Las personas titulares de las dependencias propondrán a la persona titular del Poder Ejecutivo el nombramiento de las personas titulares de las Direcciones Generales, Coordinaciones y Direcciones previstas en su respectivo reglamento interior, sujetándose, en su caso, a los requisitos legales y a los procedimientos dictados por la persona titular del Poder Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+Las personas titulares de las dependencias y de las demás unidades administrativas que establezca el reglamento interior de cada dependencia, tendrán fe pública respecto a los actos que realicen en el ámbito de su competencia y respecto a la certificación o constancia de los documentos y archivos que obren en su poder con motivo de sus atribuciones.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -203,7 +225,7 @@ V. (DEROGADA, P.O. 1 DE ENERO DE 2020)
 
 VI. Especializada en Investigación de Violaciones a Derechos Humanos.
 
-VII. Especializada en Combate a la Corrupción.
+VII. (DEROGADA, P.O. 6 DE DICIEMBRE DE 2023)
 
 > <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2021)</small>
 
@@ -229,87 +251,13 @@ El procedimiento descrito en las fracciones anteriores se realizará cada vez qu
 
 Durante el tiempo que dure el procedimiento para el nombramiento y aprobación del Fiscal General del Estado, el Gobernador designará libre y directamente a quien deba encargarse del despacho de la Fiscalía General.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2018)</small>
+ARTICULO 13 TER.- (DEROGADO, P.O. 6 DE DICIEMBRE DE 2023)
 
-ARTICULO 13 TER.- El nombramiento de quien ocupe la titularidad de la Fiscalía Especializada en Combate a la Corrupción se sujetará a lo dispuesto en la Constitución Política del Estado de Chihuahua y al siguiente procedimiento:
-
-I. Se integrará un Panel de nueve Especialistas, quienes conformarán la terna de aspirantes a ocupar el cargo de que se trata, y se designarán de la siguiente manera:
-
-a. Cinco por el Poder Ejecutivo.
-
-b. Cuatro por el Poder Legislativo, a propuesta de la Junta de Coordinación Política.
-
-No podrá haber más de cinco miembros de un mismo sexo.
-
-Quienes integren el Panel de Especialistas desempeñarán su cargo de manera honorífica, y deberán cumplir con los siguientes requisitos:
-
-1. Contar con la ciudadanía mexicana y encontrarse en pleno ejercicio de sus derechos.
-
-2. Tener una edad mínima de treinta años.
-
-3. No haber recibido condena por la comisión de un delito doloso, ni inhabilitación en el servicio público.
-
-4. Acreditar ser personas con experiencia y de reconocida trayectoria en materia de combate a la corrupción.
-
-> <small>(F. DE E., P.O. 23 DE JUNIO DE 2018)</small>
-
-5. No haber ocupado cargo público, ni haber desempeñado cargo de dirección nacional, estatal o municipal, en algún partido político, en los últimos cinco años.
-
-Se exceptúa de lo anterior, el ejercicio de la docencia en instituciones públicas de educación e investigación científica.
-
-6. No haberse registrado como candidata o candidato propietario o suplente por ambos principios, en el proceso electoral inmediato anterior al de su designación.
-
-7. Presentar declaración de inexistencia de conflicto de interés.
-
-La designación de quienes integren el Panel de Especialistas se hará mediante Decreto que al efecto emita el Congreso, mismo que se publicará en los portales de internet de los Poderes Legislativo y Ejecutivo.
-
-La instalación del referido Panel se hará dentro de los cinco días naturales siguientes a la entrada en vigor del citado Decreto.
-
-II. Una vez instalado el Panel de Especialistas, este emitirá una convocatoria pública, dentro de los primeros cinco días naturales siguientes, dirigida a la sociedad en general, para integrar la terna de quienes aspiren a ocupar el cargo de titular de la Fiscalía Especializada en Combate a la Corrupción.
-
-Esta convocatoria deberá publicarse, por una sola ocasión, en el Periódico Oficial del Estado y en los portales de internet de los Poderes Legislativo y Ejecutivo, y deberá mantenerse en estos últimos, por lo menos, por un periodo de quince días naturales.
-
-La convocatoria deberá establecer los requisitos, el procedimiento y los plazos para la selección, con base en lo siguiente:
-
-a. La documentación requerida.
-
-b. Plazos para la inscripción y entrega de documentación.
-
-c. Plazos y el procedimiento para la evaluación del perfil curricular.
-
-d. Criterios de ponderación.
-
-e. Fecha para la celebración de las entrevistas.
-
-f. Procedimiento para la integración de la terna de finalistas.
-
-En la evaluación del perfil de las y los aspirantes se le otorgará mayor ponderación al desempeño en las entrevistas, conforme a los parámetros que acuerde el Panel de Especialistas.
-
-III. Concluido el plazo para la inscripción, dentro de los tres días naturales siguientes, el Panel de Especialistas publicará la lista de personas inscritas y la versión pública del perfil curricular en los portales de internet oficiales de los Poderes Legislativo y Ejecutivo.
-
-IV. Después de publicada la lista referida en la fracción anterior, el Panel de Especialistas, en un plazo que no podrá exceder de los veinte días naturales siguientes, llevará a cabo, al menos, una entrevista a quienes cumplieron con los requisitos previstos en la convocatoria.
-
-Dicha entrevista tendrá por objeto evaluar el perfil y experiencia profesional, habilidades directivas y conocimientos en temas de investigación y substanciación de delitos relacionados con hechos de corrupción.
-
-El Panel de Especialistas acordará el formato y los horarios de las entrevistas, las cuales serán públicas y transmitidas en vivo a través de los medios electrónicos de los cuales disponga el Poder Ejecutivo.
-
-V. Una vez concluidas las entrevistas, dentro de los cinco días naturales siguientes, el Panel de Especialistas, con base en la evaluación curricular y el resultado de aquellas, integrará una terna, misma que entregará al Pleno del Congreso del Estado.
-
-VI. Recibida la terna y la documentación de quienes la integran, el Pleno del Congreso contará con un plazo de treinta días naturales para elegir, mediante el voto de cuando menos las dos terceras partes de las y los diputados presentes, a la persona que ocupará la titularidad de la Fiscalía Especializada en Combate a la Corrupción.
-
-En caso de que la terna enviada al Congreso no alcance la votación requerida o venza el plazo antes señalado, el Panel de Especialistas remitirá una nueva terna, en un plazo que no exceda de diez días naturales. La nueva terna deberá estar integrada, por lo menos, con dos candidatos diferentes a los que integraban la anterior.
-
-De no alcanzarse nuevamente la votación exigida o no haberse designado dentro del plazo previsto, se deberá remitir, por tercera ocasión, nueva terna para la designación respectiva. Si cualquiera de las hipótesis se repite y no se realiza el nombramiento por parte del Congreso, el Titular del Ejecutivo Estatal tendrá la facultad para nombrar a la o el titular de la fiscalía especializada de entre las personas que conformaron la última terna.
-
-Si el Congreso se encontrare en receso, la Diputación Permanente convocará a Periodo Extraordinario para tales efectos.
-
-VII. En caso de que el Panel de Especialistas incumpla con los plazos o procedimientos establecidos en la convocatoria y, como consecuencia de ello, se retrase el procedimiento para nombrar a la persona titular de la Fiscalía Especializada en Combate a la Corrupción, el Poder Legislativo y el Poder Ejecutivo, de manera conjunta, podrán declarar disuelto dicho Panel e integrar uno nuevo en el mismo acto. El nuevo Panel deberá continuar el procedimiento desde la última etapa que haya concluido el anterior.
-
-VIII. En caso de que se genere de manera imprevista la vacante en el cargo de titular de la Fiscalía Especializada en Combate a la Corrupción, el Ejecutivo Estatal designará, libre y directamente, a quien deba encargarse de su despacho, hasta en tanto se realice el nombramiento definitivo.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 14.
 
-Corresponde originalmente a los titulares de las dependencias el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo, podrán delegar por disposición de la Ley, en los funcionarios a que se refieren los Artículos 12 y 13, cualesquiera de sus facultades, excepto aquellas que por disposición legal o reglamentaria, deban ser ejercidas precisamente por dichos titulares.
+Corresponde originalmente a las personas titulares de las dependencias el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo, podrán delegar en las personas servidoras públicas que desempeñen los puestos o cargos señalados en los artículos 12 y 13, cualquiera de sus facultades, excepto aquellas que, por disposición legal o reglamentaria, deban ser ejercidas precisamente por dichas personas titulares. Los acuerdos por los cuales se deleguen facultades se publicarán en el Periódico Oficial del Estado.
 
 ###### ARTICULO 15.
 
@@ -321,9 +269,11 @@ Para la más eficaz atención de los asuntos de su competencia, las dependencias
 
 En el reglamento interior de cada una de las dependencias, que será expedido por el Gobernador del Estado y publicado en el Periódico Oficial, se determinarán las atribuciones de sus unidades orgánicas, así como la forma en que los titulares podrán ser suplidos en sus ausencias.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 17.
 
-El titular de cada dependencia expedirá los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener información sobre la estructura orgánica de la dependencia y las funciones de sus Unidades administrativas, así como los sistemas de comunicación y coordinación y los principales procedimientos administrativos que se establezcan. Los manuales y demás instrumentos de apoyo administrativo interior, deberán mantenerse actualizados.
+La persona titular de cada dependencia expedirá los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener información sobre la estructura orgánica aprobada de la dependencia y las funciones de sus unidades administrativas, así como los sistemas de comunicación y coordinación, los principales procedimientos administrativos y los instrumentos de control que se establezcan. Los manuales y demás instrumentos de apoyo administrativo interior deberán mantenerse actualizados. Tales manuales deberán publicarse en el Periódico Oficial del Estado, previa validación de la Secretaría de la Función Pública; salvo aquellos cuya publicación pudiera significar un riesgo para las áreas en materia de seguridad pública, para lo cual la Secretaría de la Función Pública emitirá el dictamen correspondiente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -409,9 +359,7 @@ XII. Secretaría de Turismo.
 
 XIII. Secretaría de la Función Pública.
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-XIV. Secretaría de Coordinación de Gabinete.
+XIV. (DEROGADA, P.O. 6 DE DICIEMBRE DE 2023)
 
 > <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
@@ -443,9 +391,9 @@ I.- Los que le encomienda directamente la Constitución Política del Estado;
 
 II.- Conducir los asuntos internos del orden político del Estado;
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-III. Conducir y coordinar las relaciones del Poder Ejecutivo con los otros Poderes del Estado, y con las y los Agentes Consulares en lo relativo a su competencia.
+III.- Conducir y coordinar las relaciones del Poder Ejecutivo con los otros Poderes del Estado, con la Federación, con los municipios de la Entidad, con los organismos constitucionales autónomos y con las y los Agentes Consulares en lo relativo a su competencia.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
@@ -473,9 +421,9 @@ X.- Llevar un registro general de firmas de funcionarios y atender todo lo relat
 
 XI.- Tramitar los recursos administrativos que competa conocer y resolver a la persona titular del Poder Ejecutivo del Estado, incluyendo aquellos que pretendan combatir actos emitidos por la propia Secretaría General de Gobierno, facultándola para substanciar todas las etapas del procedimiento, excepto la emisión de la resolución definitiva.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-XII. Representar a la persona titular del Poder Ejecutivo en cualquier procedimiento administrativo o contencioso, así como en cualquier medio de control constitucional, en que sea señalada como parte o tercero, con facultades amplias y necesarias para ejercer dicha representación, salvo que la misma sea asumida por la Secretaría de Coordinación de Gabinete, a través de la Consejería Jurídica del Estado.
+XII.- Representar a la persona titular del Poder Ejecutivo en cualquier procedimiento administrativo o contencioso, así como en cualquier medio de control constitucional, en que sea señalada como parte o tercero, con facultades amplias y necesarias para ejercer dicha representación, salvo que la misma sea asumida por la Consejería Jurídica del Ejecutivo del Estado.
 
 XIII. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
@@ -499,7 +447,25 @@ XVIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en rela
 
 XIX.- Aprobar las tarifas de transporte y tramitar las solicitudes para el otorgamiento de concesiones, permisos, autorizaciones o registros, y demás actos jurídicos y administrativos en materia de transporte y vías de comunicación de competencia estatal, de conformidad con la ley en la materia.
 
-XX. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2021)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XX.- En materia de desarrollo municipal:
+
+a) Elaborar los planes y programas tendientes a apoyar el desarrollo de los municipios, mediante el mejor aprovechamiento de sus recursos.
+
+b) Proponer a la persona titular del Poder Ejecutivo las acciones, convenios y mecanismos de coordinación entre el Estado y los municipios para fortalecer el desarrollo económico y social de estos, así como para la realización de obras y la prestación de servicios públicos.
+
+c) Gestionar el apoyo a los ayuntamientos en las acciones tendientes al logro de su desarrollo administrativo, para fortalecer sus sistemas de planeación, programación, control y evaluación, así como los procedimientos operativos para optimizar la prestación de los servicios públicos municipales.
+
+d) Promover el desarrollo equilibrado de los municipios conurbados, impulsando la organización regional, de acuerdo con la vocación económica de cada zona.
+
+e) Fomentar e impulsar la participación de los ayuntamientos en los programas que propicien su desarrollo.
+
+f) Promover la participación ciudadana, de forma organizada, que impulse el desarrollo comunitario para el cumplimiento de planes y programas de los municipios.
+
+g) Elaborar, instrumentar, organizar e impartir cursos y talleres de capacitación y actualización dirigidos a las personas servidoras públicas de los ayuntamientos y sindicaturas municipales, a fin de que, una vez que reciban la constancia que les acredite como tales y antes de la toma de posesión de su encargo, cuenten con conocimientos y habilidades necesarios para cumplir con sus funciones, bajo criterios de eficiencia y legalidad.
+
+h) Desarrollar, en coordinación con las dependencias federales competentes y con las instituciones de educación superior, un sistema de profesionalización y capacitación del servicio público municipal.
 
 XXI. (DEROGADA, P.O. 3 DE OCTUBRE DE 2016)
 
@@ -725,9 +691,13 @@ XVII. Participar, en coordinación con los organismos de la Administración Púb
 
 XVIII. Llevar a cabo programas de desarrollo que deberán incluir acciones de asistencia, ayudas alimenticias, campañas de salud y demás medidas tendentes a contrarrestar las condiciones sociales que padecen las personas que se encuentren en situación de vulnerabilidad.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XVI], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-XIX. Las demás que le atribuyan expresamente las leyes, los reglamentos y otras disposiciones normativas.
+XIX.- Establecer un sistema de información integral entre las dependencias y entidades de la Administración Pública para coordinar, recopilar, monitorear y sistematizar la información de los resultados y desempeño referente a las acciones relacionadas con el desarrollo social y humano, y de todas las que por su importancia se consideren estratégicas, así como los mecanismos necesarios para su difusión.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XX.- Las demás que le atribuyan expresamente las leyes, los reglamentos y otras disposiciones normativas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -893,7 +863,9 @@ XIII. Promover la participación de los empresarios en la creación de centros d
 
 XIV. Proponer acciones y alternativas de solución a la problemática que enfrenta el comercio organizado, conjuntamente con las autoridades federales y municipales y el sector comercio;
 
-XV. (DEROGADA, P.O. 28 DE MAYO DE 2022)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+XV. Contribuir a mejorar la calidad de vida y el bienestar de la población chihuahuense mediante la promoción del Estado de Chihuahua en el ámbito internacional, en todo lo relativo a actividades industriales, mineras y comerciales, atracción de inversiones, diversificación de mercados y de desarrollo de tecnología y capital humano; para lo cual podrá celebrar acuerdos interinstitucionales, en los términos de la Ley Sobre la Celebración de Tratados, e instalar representaciones de la Secretaría a la que se refiere el presente artículo, en el extranjero.
 
 XVI. (DEROGADA, P.O. 28 DE MAYO DE 2022)
 
@@ -1557,147 +1529,7 @@ PARA DAR CUMPLIMIENTO AL DERECHO DE ACCESO A LA JUSTICIA A PERSONAS, PUEBLOS Y C
 
 (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2021)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-###### ARTICULO 35 Ter.
-
-La Secretaría de Coordinación de Gabinete tendrá las siguientes atribuciones:
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-I. Coordinar la elaboración del Plan Estatal de Desarrollo y los Informes de Gobierno;
-
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-II. Dar seguimiento, procurar y coordinar el cumplimiento de los acuerdos y compromisos tomados por la persona titular del Ejecutivo del Estado.
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-III. Planificar los asuntos estratégicos y la priorización de las acciones de la Administración Pública estatal;
-
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-IV. Realizar estudios y proponer a la persona titular del Ejecutivo del Estado alternativas de reorganización de los servicios que prestan las distintas dependencias, así como detectar necesidades e implementar acciones de optimización y sinergia de los procesos administrativos internos.
-
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-V. Proponer a la persona titular del Ejecutivo del Estado los proyectos de políticas públicas, reglamentos internos, manuales y disposiciones de carácter general para la Administración Pública Centralizada y en el ámbito de su competencia.
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-VI. Armonizar que los planes, programas y funcionamiento de las dependencias y entidades de la administración pública se ajusten al Plan Estatal de Desarrollo;
-
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-VII. Recopilar y sistematizar la información de actividades e informar a la persona titular del Ejecutivo del Estado de los resultados y desempeño de las tareas que lleven a cabo las dependencias de la Administración Pública Centralizada.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-VIII. Dar seguimiento a las políticas públicas y al Plan Estatal de Desarrollo.
-
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-IX. Dar seguimiento a los acuerdos dictados por la persona titular del Ejecutivo del Estado, facilitando la comunicación entre quienes ocupen las titularidades de las dependencias de la Administración Pública Estatal, Entidades Paraestatales y Órganos Autónomos del Estado.
-
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-X. Funcionar como enlace entre la Administración Pública Estatal y el Gobierno Federal.
-
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-XI. En materia de desarrollo municipal:
-
-a) Elaborar los planes y programas tendientes a apoyar el desarrollo de los Municipios, mediante el mejor aprovechamiento de sus recursos.
-
-b) Proponer al Ejecutivo las acciones, convenios y mecanismos de coordinación entre el Estado y los Municipios para fortalecer el desarrollo económico y social de estos, así como para la realización de obras y la prestación de servicios públicos.
-
-c) Gestionar el apoyo a los Ayuntamientos en las acciones tendientes al logro de su desarrollo administrativo, para fortalecer sus sistemas de planeación, programación, control y evaluación, así como los procedimientos operativos para optimizar la prestación de los servicios públicos municipales.
-
-d) Promover el desarrollo equilibrado de los Municipios conurbados, impulsando la organización regional, de acuerdo con la vocación económica de cada zona.
-
-e) Fomentar e impulsar la participación de los Ayuntamientos en los programas que propicien el desarrollo de los mismos.
-
-f) Promover la participación ciudadana de forma organizada que impulse el desarrollo comunitario para el cumplimiento de planes y programas de los Municipios.
-
-g) Elaborar, instrumentar, organizar e impartir cursos y talleres de capacitación y actualización dirigidos al funcionariado de los Ayuntamientos y Sindicaturas municipales, a fin de que una vez que reciban la constancia que les acredite como tales y antes de la toma de posesión de su encargo, cuenten con conocimientos y habilidades necesarios para cumplir con sus funciones, bajo criterios de eficiencia y legalidad.
-
-h) Desarrollar, en coordinación con las dependencias federales competentes y con las instituciones de educación superior, un Sistema de Profesionalización y Capacitación del Servicio Público Municipal.
-
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-XII. En materia de Asesorías y Proyectos Especiales:
-
-a) Coordinar, promover y realizar las investigaciones, estudios y análisis relacionados con la problemática del Estado.
-
-b) Diseñar, desarrollar y dar seguimiento, en coordinación con las dependencias y entidades de la Administración Pública Estatal involucradas, las acciones necesarias de los proyectos encomendados por la persona titular del Ejecutivo.
-
-c) Realizar los diagnósticos sociales, políticos y administrativos necesarios para el ejercicio de las atribuciones.
-
-d) Proponer a la persona titular del Ejecutivo programas para el aprovechamiento social, político, económico, comunitario y de innovación, mismos que se estructurarán en coordinación con las áreas involucradas del sector público, social o privado, según sea el caso.
-
-e) Determinar las prioridades, analizar y, en su caso, aprobar la formulación de los estudios y proyectos ejecutivos de las diversas dependencias y entidades que integran el Poder Ejecutivo.
-
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-XIII. En materia de Política Digital:
-
-a) Planear y ejecutar acciones que generen más y mejores condiciones de acceso, uso y apropiación de las tecnologías de la información para la población.
-
-b) Establecer lineamientos para la optimización de la infraestructura informática del Estado.
-
-c) Evaluar periódicamente las políticas digitales creadas para las dependencias gubernamentales a fin de buscar su mejoramiento permanente.
-
-d) Administrar la información generada para sistematizar la retroalimentación de la población hacia el Gobierno.
-
-e) Ser el enlace con la Federación, otras entidades gubernamentales, la iniciativa privada y con la ciudadanía en general, en materia de política digital.
-
-f) Detectar las necesidades en materia de tecnología de la información y comunicación de la Administración Pública Estatal, y recomendar las acciones para su desarrollo y modernización.
-
-g) Planear, desarrollar y mantener la infraestructura de tecnología de la información y comunicación a nivel competitivo.
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
-
-h) Coordinar la estrategia de digitalización de los trámites, servicios, procesos y procedimientos de la Administración Pública Estatal, así como la implementación de las plataformas digitales que para esto se requieran.
-
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-XIV. En materia de Consejería Jurídica:
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2021)</small>
-
-a) Proponer a la persona titular del Poder Ejecutivo a quien ocupará la titularidad de la Consejería Jurídica del Estado, la cual contará con las siguientes facultades:
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
-
-1. De representación legal de la persona titular del Poder Ejecutivo, más amplias y necesarias para el desahogo de todo tipo de litigios, ante autoridades federales, estatales y municipales, organismos internacionales de derechos humanos, acciones de inconstitucionalidad y controversias constitucionales en las que el Estado sea parte y representar al Estado en todos aquellos litigios que le sean encomendados por la persona titular del Poder Ejecutivo.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
-
-2. Asesorar jurídicamente a la persona titular del Poder Ejecutivo del Estado y a las dependencias y entidades de la Administración Pública Estatal.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
-
-3. Elaborar y analizar proyectos de iniciativas de Ley, decretos y reglamentos, que le sean encomendados por las personas titulares del Poder Ejecutivo y de la Secretaría de Coordinación de Gabinete.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
-
-4. Analizar todos aquellos documentos jurídicos que le encomienden las personas titulares del Poder Ejecutivo y de la Secretaría de Coordinación de Gabinete.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
-
-Cualquiera de las atribuciones anteriormente señaladas, podrán ser delegadas a las o los servidores públicos que se requiera, mediante Acuerdo publicado en el Periódico Oficial del Estado.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
-
-La persona titular de la Consejería Jurídica del Estado podrá auxiliarse del personal especializado que le sea autorizado en el presupuesto correspondiente.
-
-b) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2021)
-
-c) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2021)
-
-> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN VIII], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-XV. Las demás que expresamente le encomienden las leyes, reglamentos y acuerdos.
+ARTICULO 35 TER. (DEROGADO, P.O. 6 DE DICIEMBRE DE 2023)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -1967,11 +1799,11 @@ XVI. Incentivar la formación y profesionalización del personal que requiera la
 
 XVII. Las demás que le atribuyan expresamente las leyes, reglamentos y demás disposiciones normativas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 36.
 
-Además de las dependencias a que se refiere el artículo 24 de esta Ley, la persona titular del Poder Ejecutivo del Estado, para el mejor despacho de los asuntos del orden administrativo, contará con:
+Además de las dependencias a que se refiere el artículo 24 de esta Ley, la persona titular del Poder Ejecutivo del Estado, para el mejor despacho de los asuntos del orden administrativo, contará con las siguientes unidades de asesoría y de apoyo técnico:
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
@@ -2011,45 +1843,85 @@ g) Atender a las personas invitadas especiales que instruya la persona titular d
 
 h) Las demás que le asignen las leyes, reglamentos o decretos, así como las que le indique la persona titular del Poder Ejecutivo.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-III. La Representación del Gobierno del Estado de Chihuahua en la Ciudad de México, la cual tendrá las siguientes atribuciones:
+III. La Coordinación de Política Digital, la cual tendrá las siguientes atribuciones:
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2022)</small>
+a) Planear y ejecutar acciones que generen más y mejores condiciones de acceso, uso y apropiación de las tecnologías de la información para la población.
 
-a) Fungir como representante, enlace facilitador y de gestión entre la persona titular del Poder Ejecutivo y las diversas instancias del orden federal, internacional, entidades federativas, sociedad civil organizada o cualquier otro organismo que requiera atención del Gobierno del Estado de Chihuahua en la Ciudad de México.
+b) Establecer lineamientos para la optimización de la infraestructura informática del Estado.
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2022)</small>
+c) Evaluar periódicamente las políticas digitales creadas para las dependencias gubernamentales a fin de buscar su mejoramiento permanente.
 
-b) Contribuir a fortalecer la buena gestión de gobierno, desarrollo e inversión del Estado mediante mecanismos y estrategias de vinculación con diversos actores institucionales del sector público, privado, sociedad civil organizada o cualquier otro organismo que requiera la atención del Gobierno del Estado en la Ciudad de México.
+d) Administrar la información generada para sistematizar la retroalimentación de la población hacia el Gobierno.
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2022)</small>
+e) Ser el enlace con los otros poderes del Estado, la Federación, los demás estados, la Ciudad de México, los municipios, los órganos constitucionales autónomos federales y estatales, la iniciativa privada y con la ciudadanía en general, en materia de política digital.
 
-c) Brindar, en el marco de sus atribuciones, apoyo logístico en la Ciudad de México, a las dependencias y entidades del Gobierno del Estado.
+f) Detectar las necesidades en materia de tecnología de la información y comunicaciones de la Administración Pública Estatal, y recomendar las acciones para su desarrollo y modernización.
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2022)</small>
+g) Planear, desarrollar y mantener la infraestructura de tecnología de la información y comunicación a nivel competitivo.
 
-d) Organizar y apoyar la integración y participación ciudadana de la comunidad chihuahuense radicada en la Ciudad de México y vincularla con las autoridades estatales.
+h) Coordinar la estrategia de digitalización de los trámites, servicios, procesos y procedimientos de la Administración Pública Estatal, así como la implementación de las plataformas digitales que para esto se requieran.
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
-e) Fortalecer la presencia e imagen del Gobierno del Estado, dentro de la Ciudad de México, en los aspectos políticos, económicos, financieros, culturales, turísticos y deportivos.
+ARTICULO 36 BIS.- La Oficina de la Gubernatura del Estado tendrá las siguientes atribuciones:
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2022)</small>
+I. Fungir como Secretaría Particular de la persona titular del Poder Ejecutivo del Estado.
 
-f) Representar al Gobierno del Estado en cualquier evento desarrollado en la Ciudad de México.
+II. Dar seguimiento, procurar y coordinar el cumplimiento de los acuerdos y compromisos tomados por la persona titular del Poder Ejecutivo del Estado en sus reuniones de trabajo, facilitando la comunicación e interacción entre quienes ocupen las titularidades de las dependencias y entidades de la Administración Pública Estatal.
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2022)</small>
+III. Planificar los asuntos estratégicos y la priorización de las acciones de la Administración Pública Estatal, siguiendo las directrices que al efecto le instruya la persona titular del Poder Ejecutivo.
 
-g) Coadyuvar en la organización y coordinación de la agenda pública de la persona titular del Poder Ejecutivo en la Ciudad de México.
+IV. En materia de asesorías y proyectos especiales:
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2022)</small>
+a) Coordinar, promover y realizar las investigaciones, estudios y análisis de temas locales y nacionales relacionados con la vida institucional del Estado.
 
-h) Las demás que le asignen las leyes, reglamentos o decretos, así como las que le indique la persona titular del Poder Ejecutivo.
+b) Diseñar, desarrollar y dar seguimiento, en coordinación con las dependencias y entidades de la Administración Pública Estatal involucradas, a las acciones necesarias de los proyectos encomendados por la persona titular del Poder Ejecutivo.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2018)</small>
+c) Realizar los diagnósticos sociales, políticos y administrativos necesarios para el ejercicio de las atribuciones encomendadas al Poder Ejecutivo del Estado.
 
-ARTICULO 36 BIS.- Los procedimientos de reclutamiento, selección y capacitación de las personas servidoras públicas de las dependencias y entidades de la Administración Pública Estatal, deberán atender las políticas y lineamientos que en materia de profesionalización emita la Secretaría de la Función Pública del Estado.
+d) Proponer a la persona titular del Poder Ejecutivo el seguimiento de programas para el aprovechamiento social, político, económico, comunitario y de innovación, mismos que se estructurarán en coordinación con las áreas involucradas del sector público, social o privado, según sea el caso.
+
+e) Sugerir las prioridades, analizar y, en su caso, proponer la formulación de los estudios y proyectos ejecutivos de las diversas dependencias y entidades que integran la Administración Pública Estatal.
+
+V. En materia de planeación y de seguimiento integral de la Administración Pública Estatal:
+
+a) Auxiliar a la persona titular del Poder Ejecutivo en la conducción de la planeación estatal para el desarrollo, conforme a lo dispuesto en la Ley de Planeación del Estado de Chihuahua.
+
+b) Coordinar la elaboración del Plan Estatal de Desarrollo y los informes de Gobierno, y prestar la asesoría que le sea requerida para la elaboración del Plan Estatal de Seguridad Pública y del Plan Estatal Hídrico.
+
+c) Revisar que los proyectos de programas de mediano plazo que sean sometidos a la consideración de la persona titular del Poder Ejecutivo se ajusten a la Ley de Planeación del Estado de Chihuahua, al Plan Estatal de Desarrollo, al Plan Estatal de Seguridad Pública o al Plan Estatal Hídrico, según corresponda.
+
+d) Dar seguimiento al Plan Estatal de Desarrollo y a las políticas públicas vigentes.
+
+e) Recopilar y sistematizar la información de actividades e informar a la persona titular del Poder Ejecutivo de los resultados y desempeño de las tareas que lleven a cabo las dependencias y entidades de la Administración Pública Estatal.
+
+VI. Coordinar la agenda de trabajo y la logística de las actividades públicas de la persona titular del Poder Ejecutivo Estatal.
+
+VII. Supervisar la atención y el cumplimiento de las obligaciones en las materias de transparencia, acceso a la información pública, protección de datos personales y de archivo, que se relacionen con la persona titular del Poder Ejecutivo y de la propia Oficina.
+
+VIII. Recibir, despachar y dar seguimiento a la correspondencia oficial de la persona titular del Poder Ejecutivo, así como establecer un mecanismo para canalizar las gestiones ciudadanas a las diferentes dependencias de la Administración Pública Estatal.
+
+IX. Planear y dirigir la organización de giras de trabajo, eventos y reuniones en las que participe la persona titular del Poder Ejecutivo. Las autoridades en materia de seguridad pública del Estado y de los municipios prestarán, en sus términos, el apoyo que les sea requerido, conforme a los protocolos de logística y seguridad que se establezcan, para lo cual podrá coordinarse con las autoridades que resulten competentes al efecto.
+
+X. Instruir y supervisar el funcionamiento y operación de las representaciones del Gobierno del Estado en la Ciudad de México, en Ciudad Juárez y las demás que se determinen por acuerdo de la persona titular del Poder Ejecutivo.
+
+XI. Coordinar la prestación de los servicios y asesorías jurídicas que requieran las unidades administrativas de la propia Oficina.
+
+XII. Las demás que expresamente le encomienden las leyes, reglamentos, acuerdos y demás normas aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 36 TER.- La Consejería Jurídica del Ejecutivo del Estado tendrá las siguientes atribuciones:
+
+I. Representar legalmente a la persona titular del Poder Ejecutivo, con las facultades más amplias y necesarias para el desahogo de todo tipo de litigios ante autoridades federales, estatales y municipales, organismos internacionales de derechos humanos; acciones de inconstitucionalidad y controversias constitucionales en las que el Estado sea parte, y representar al Estado en todos aquellos litigios que le sean encomendados por la persona titular del Poder Ejecutivo.
+
+II. Prestar asesoría jurídica especializada a la persona titular del Poder Ejecutivo del Estado, así como a las dependencias y entidades de la Administración Pública Estatal cuando estas se lo soliciten.
+
+III. Elaborar y analizar proyectos de iniciativas de ley, de reglamentos, de acuerdos y de decretos, así como cualesquiera otros instrumentos o documentos de carácter jurídico, que le sean encomendados por la persona titular del Poder Ejecutivo del Estado, así como revisar y opinar todos aquellos otros instrumentos o documentos que sean elaborados o presentados por las demás dependencias y entidades de la Administración Pública Estatal, que se pretendan someter a la consideración y, en su caso, firma de la persona titular del Poder Ejecutivo del Estado.
+
+IV. Coordinar, organizar y presidir la Comisión de Estudios Jurídicos del Gobierno del Estado de Chihuahua, la que se integrará por las personas titulares de las áreas de asuntos jurídicos de las dependencias de la Administración Pública Estatal, que tendrá por objeto el estudio, análisis y exposición de temas legales, así como proponer criterios no vinculantes en materia jurídica. También podrá invitarse a participar en las sesiones de la Comisión a las personas responsables de las áreas jurídicas de los órganos desconcentrados y de las entidades paraestatales, cuando así lo estime conveniente la persona titular de la Consejería Jurídica del Ejecutivo del Estado.
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
@@ -3836,3 +3708,27 @@ El presente Decreto que reforma el artículo 24 de la Ley Orgánica de Poder Eje
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto que reforma los artículos 29 y 60 del Código Municipal para el Estado de Chihuahua, entrará en vigor el 10 de septiembre de 2024, siendo aplicable para los nombramientos que se realicen con posterioridad a su entrada en vigor, respetando los derechos laborales de las personas servidoras públicas nombradas previamente a esta.
+
+P.O. 6 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFLEY/0658/2023 I P.O., POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL PODER EJECUTIVO (SIC) DEL ESTADO DE CHIHUAHUA, DE LA LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE GOBIERNO DIGITAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+TERCERO.- La persona titular del Poder Ejecutivo deberá expedir la reforma a los reglamentos interiores de las Secretarías afectadas por el presente Decreto, así como los reglamentos interiores de la Oficina de la Gubernatura del Estado, de la Consejería Jurídica del Ejecutivo del Estado y de la Coordinación de Política Digital, en un plazo no mayor a ciento veinte días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Las atribuciones con que cuentan las unidades administrativas que por virtud del presente Decreto pasarán a formar parte de otras dependencias, continuarán vigentes en términos de las leyes que les otorguen competencia y del Reglamento Interior de la Secretaría de Coordinación de Gabinete, hasta en tanto sean emitidos o reformados los reglamentos interiores de las dependencias a que se refiere este Decreto, conforme a lo dispuesto en el párrafo anterior.
+
+CUARTO.- Las personas servidoras públicas que en cumplimiento de este Decreto pasen a otra dependencia, en ninguna forma resultarán afectadas en los derechos que hayan adquirido en virtud de su relación laboral con la Administración Pública Estatal.
+
+QUINTO.- El cambio de una atribución legal de una dependencia a otra se realizará incluyendo al personal a su servicio, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, todos los recursos materiales y financieros que correspondan. La Secretaría de Hacienda dispondrá lo conducente para esta transición de recursos.
+
+SEXTO.- Se faculta al Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, para realizar las transferencias y ajustes presupuestales necesarios para la continuidad en el funcionamiento y operación de las unidades administrativas de la Secretaría de Coordinación de Gabinete que, en virtud de este Decreto, se transfieren a otras secretarías, a la Oficina de la Gubernatura del Estado, a la Consejería Jurídica del Ejecutivo del Estado y a la Coordinación de Política Digital.
+
+SÉPTIMO.- Las menciones que en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas, se hagan a la Secretaría de Coordinación de Gabinete, se entenderán referidas a la Consejería Jurídica del Ejecutivo del Estado, a la Oficina de la Gubernatura del Estado, a la Secretaría General de Gobierno, a la Secretaría de Desarrollo Humano y Bien Común o a la Coordinación de Política Digital, según corresponda, de acuerdo con la distribución de competencias que se realiza en el presente Decreto.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Secretaría de Coordinación de Gabinete en cualesquiera contratos, convenios, acuerdos o instrumentos jurídicos similares, serán asumidos por la Secretaría que corresponda, la Oficina de la Gubernatura del Estado, la Consejería Jurídica del Ejecutivo del Estado o la Coordinación de Política Digital, en los términos del párrafo anterior.
+
+OCTAVO.- Los nombramientos expedidos con anterioridad a la entrada en vigor del presente Decreto, subsistirán y seguirán surtiendo sus efectos conforme a la normatividad vigente al momento de su expedición, hasta en tanto sean emitidos o reformados los reglamentos interiores de las dependencias a que se refiere este Decreto, en cuyo caso deberán emitirse los nuevos nombramientos.
