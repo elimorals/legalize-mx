@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2023-11-23"
+last_updated: "2023-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -70,6 +70,10 @@ IV.- Establecer los principios rectores y criterios que orientarán la política
 V.- Establecer las bases generales para la participación de los sectores privado y social en las acciones tendentes a garantizar la protección y el ejercicio de los derechos de niñas, niños y adolescentes, así como a prevenir su vulneración.
 
 2. Esta ley deberá aplicarse conjuntamente con la Constitución Política de los Estados Unidos Mexicanos, la Convención Sobre los Derechos del Niño y demás tratados internacionales en Derechos Humanos de los que México sea parte, la Constitución Política del Estado de Tamaulipas, la Ley General de los Derechos de Niñas, Niños y Adolescentes y el Código Civil del Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2023)</small>
+
+3. A falta de disposición expresa en los ordenamientos referidos en el párrafo anterior, se aplicarán los principios generales que deriven de dichas normatividades y, a falta de éstos, a los principios generales del derecho, privilegiando en todo momento los principios rectores de esta Ley, en especial el interés superior de la niñez.
 
 ###### ARTÍCULO 3.
 
@@ -243,9 +247,25 @@ X.- El de autonomía progresiva, entendida como la capacidad gradual de particip
 
 XI.- El de Accesibilidad, que implica el diseño universal a cargo de las autoridades estatales y municipales que permitan la inclusión de niñas, niños y adolescentes con discapacidad;
 
-XII.- La interculturalidad; y
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2023)</small>
 
-XIII.- La transversalidad en la legislación, políticas públicas, actividades administrativas, económicas y culturales.
+XII.- La interculturalidad;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2023)</small>
+
+XIII.- La transversalidad en la legislación, políticas públicas, actividades administrativas, económicas y culturales;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2023)</small>
+
+XIV.- La no discriminación;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2023)</small>
+
+XV.- El derecho a la vida, a la supervivencia y al desarrollo; y
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2023)</small>
+
+XVI.- La participación.
 
 ###### ARTÍCULO 8.
 
@@ -1043,6 +1063,22 @@ X.- Difundir los derechos humanos de niñas, niños y adolescentes y las formas 
 
 XI.- Fomentar el bienestar de la salud mental de las niñas, niños y adolescentes, a través de la implementación de programas, orientación, asesoría y en su caso, canalización de aquellas personas que lo necesiten a las instancias de salud correspondientes.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 38 BIS.
+
+1. Sin perjuicio de lo dispuesto en otras disposiciones aplicables, las autoridades competentes llevarán a cabo las acciones necesarias para propiciar las condiciones idóneas a fin de crear un ambiente libre de violencia en las instituciones educativas, en el que se fomente la convivencia armónica y el desarrollo integral de niñas, niños y adolescentes, incluyendo la creación de mecanismos de mediación permanentes donde participen quienes ejerzan la patria potestad o tutela.
+
+2. Para efectos del párrafo anterior, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, y las instituciones educativas se coordinarán para:
+
+I.- Diseñar estrategias y acciones para la detección temprana, contención, prevención y erradicación del acoso o la violencia escolar en todas sus manifestaciones, que contemplen la participación de los sectores público, privado y social, así como indicadores y mecanismos de seguimiento, evaluación y vigilancia;
+
+II.- Desarrollar e implementar cursos de sensibilización y formación sobre igualdad de género, prevenir y atender los diferentes tipos de violencia y cultura de la paz, dirigidos a servidores públicos, personal administrativo y docente, para que a través de ellos se evite la reproducción de roles estereotipados de género y se impulse la igualdad sustantiva;
+
+III.- Establecer mecanismos gratuitos de atención, asesoría, orientación y protección de niñas, niños y adolescentes involucrados en una situación de acoso o violencia escolar; y
+
+IV.- Establecer y aplicar las sanciones que correspondan a las personas responsables de centros de asistencia social, personal docente o servidores públicos que realicen, promuevan, propicien, toleren o no denuncien actos de acoso o violencia escolar, conforme a lo dispuesto en esta Ley y demás disposiciones aplicables.
+
 ### CAPÍTULO DÉCIMO CUARTO. DE LOS DERECHOS AL DESCANSO Y AL ESPARCIMIENTO
 
 ###### ARTÍCULO 39.
@@ -1098,6 +1134,14 @@ VII. Garantizar que los docentes cuenten con formación en educación intercultu
 1. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias deberán garantizar el derecho de niñas, niños y adolescentes a expresar su opinión libremente, así como a buscar, recibir y difundir información e ideas de todo tipo y por cualquier medio, sin más limitaciones que las establecidas en el artículo 6o. de la Constitución Federal.
 
 2. La libertad de expresión de niñas, niños y adolescentes conlleva el derecho a que se tome en cuenta su opinión respecto de los asuntos que les afecten directamente, o a sus familias o comunidades. Dichas autoridades, en el ámbito de sus respectivas competencias, deberán establecer las acciones que permitan la recopilación de opiniones y realización de entrevistas a niñas, niños y adolescentes sobre temas de interés general para ellos.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2023)</small>
+
+3. Asimismo, las autoridades a que se refiere este artículo dispondrán de lo necesario para garantizar que niñas, niños y adolescentes con discapacidad cuenten con los sistemas de apoyo para ejercer su derecho a la libertad de expresión, acceso a la información y sistema de apoyo para la expresión de su voluntad.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2023)</small>
+
+4. Las autoridades estatales, municipales y educativas, en el ámbito de sus respectivas competencias, garantizarán la protección de la identidad e intimidad de niñas, niños y adolescentes que sean víctimas, ofendidos, testigos o que estén relacionados de cualquier manera en la comisión de un delito, a fin de evitar su identificación pública. La misma protección se otorgará a adolescentes a quienes se les atribuya la realización o participación en un delito, conforme a la legislación aplicable en la materia.
 
 ###### ARTÍCULO 44.
 
@@ -1443,9 +1487,13 @@ La Procuraduría de Protección, en coordinación con la Procuraduría de Protec
 
 ### CAPÍTULO PRIMERO. DE LAS AUTORIDADES
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 80.
 
-Las autoridades estatales y municipales, así como de los organismos constitucionales autónomos, en el ámbito de su competencia, deberán establecer y garantizar el cumplimiento de la política estatal y nacional en materia de derechos de niñas, niños y adolescentes.
+1. Las autoridades estatales y municipales, así como de los organismos constitucionales autónomos, en el ámbito de su competencia, deberán establecer y garantizar el cumplimiento de la política estatal y nacional en materia de derechos de niñas, niños y adolescentes.
+
+2. Las políticas públicas emprendidas por dichas autoridades garantizarán el ejercicio de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
 
 ###### ARTÍCULO 81.
 
@@ -2174,6 +2222,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 23 DE NOVIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-676 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES I Y V, Y SE ADICIONA UNA FRACCIÓN VI, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE AL PÁRRAFO 1, DEL ARTÍCULO 42 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-674 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
