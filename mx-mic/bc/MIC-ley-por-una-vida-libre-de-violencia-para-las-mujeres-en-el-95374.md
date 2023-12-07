@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2023-12-04"
+last_updated: "2023-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -185,7 +185,9 @@ Los tipos de violencia contra las mujeres son:
 
 I. Violencia psicológica: Cualquier acción u omisión que consiste en negligencia, abandono, intimidación, coacción, infidelidad, marginación, anulación, celotipia, prohibición, rechazo, comparación destructiva, condicionamiento, restricción a la autodeterminación y amenazas, que provocan deterioro, disminución o afectación en las diferentes áreas de la personalidad de quien las recibe;
 
-II. Violencia física: Cualquier acto u omisión, en que se utiliza parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física de las mujeres independientemente de que produzca o no lesiones físicas visibles y que va encaminada a obtener sometimiento, control o miedo;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2023)</small>
+
+II. Violencia física: Cualquier acto u omisión, en que se utiliza parte del cuerpo, algún objeto, arma, sustancia ácida, corrosiva, cáustica, irritante, tóxica o inflamable o cualquier otra que, para sujetar, inmovilizar, encaminado a obtener sometimiento, control, miedo o causar daño a la integridad física de las mujeres independientemente de que produzca o no lesiones físicas visibles;
 
 III. Violencia sexual: Cualquier acción, mediante la violencia física o psicológica que genera daño y limita o condiciona el ejercicio de la sexualidad, independientemente de que constituya un ilícito previsto y sancionado por las leyes penales; el acoso sexual es parte de la violencia sexual, independientemente de la modalidad en que se manifieste;
 
@@ -1354,3 +1356,11 @@ P.O. 4 DE DICIEMBRE DE 2023.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+P.O. 7 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 456 POR EL QUE "SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 9 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
