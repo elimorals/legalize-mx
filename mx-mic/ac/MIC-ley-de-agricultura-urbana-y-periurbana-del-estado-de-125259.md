@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-agricultura-urbana-y-periurbana-del-estado-de-125259"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-13"
-last_updated: "2017-12-13"
+last_updated: "2023-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125259&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE AGRICULTURA URBANA Y PERIURBANA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Séptima Sección al Número 80 del Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 13 de diciembre de 2017.
 
@@ -65,7 +65,9 @@ III. Estado: Estado Libre y Soberano de Michoacán de Ocampo;
 
 IV. Huertos urbanos y periurbanos: Espacios que se encuentran en un territorio urbano o en la periferia de las zonas urbanas y periurbanas, destinado al cultivo, tanto en tierra como en recipientes;
 
-V. Secretaría: Organismo denominado Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial (SEMACCDET);
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2023)</small>
+
+V. Secretaría: Organismo denominado Secretaría del Medio Ambiente;
 
 VI. Seguridad alimentaria: Capacidad para que todas las personas tengan en todo momento acceso físico y económico a suficientes alimentos inocuos y nutritivos para satisfacer sus necesidades alimenticias y sus preferencias en cuanto a los alimentos a fin de llevar una vida activa y sana;
 
@@ -127,7 +129,9 @@ VI. Formular y fomentar planes y programas de formación, capacitación, asisten
 
 VII. Fomentar en las dependencias, entidades de la Administración Pública Estatal, órganos de gobierno municipal y órganos autónomos, en la medida de sus posibilidades de infraestructura, presupuesto y espacios adecuados que no alteren, ni violen ninguna normatividad estructural, el acondicionamiento de áreas para la agricultura urbana y periurbana;
 
-VIII. Coordinar con la Secretaría de Desarrollo Rural y Agroalimentario, así como con los Gobiernos Municipales la implementación de los mecanismos para brindar capacitación y asesoría en la:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE DICIEMBRE DE 2023)</small>
+
+VIII. Coordinar con la Secretaría de Agricultura y Desarrollo Rural, así como con los Gobiernos Municipales la implementación de los mecanismos para brindar capacitación y asesoría en la:
 
 a) Compra de semillas para la siembra y cultivo de huertos urbanos y periurbanos;
 
@@ -200,3 +204,13 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 15 quince días del mes de noviembre del año 2017 dos mil diecisiete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- LIC. ADRIÁN LÓPEZ SOLÍS.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 458 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 3, FRACCIÓN V; Y, 7, FRACCIÓN VIII, DE LA LEY DE AGRICULTURA URBANA Y PERIURBANA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos legales correspondientes.
+
+Segundo. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
