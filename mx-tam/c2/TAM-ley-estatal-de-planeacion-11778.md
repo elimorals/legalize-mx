@@ -4,7 +4,7 @@ identifier: "TAM-ley-estatal-de-planeacion-11778"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-19"
-last_updated: "2021-09-21"
+last_updated: "2023-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ESTATAL DE PLANEACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el 19 de septiembre de 1984.
 
@@ -332,6 +332,34 @@ Los planes municipales de desarrollo precisarán los objetivos generales, estrat
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 Sus previsiones se referirán al conjunto de la actividad económica y social, y regirán el contenido de los Programas Operativos Anuales, siempre en concordancia con el Plan Estatal y con el Plan Nacional de Desarrollo, y con el principio de igualdad entre el hombre y la mujer.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 26 BIS.- La integración del Plan Municipal de Desarrollo por parte de los Ayuntamientos en la entidad deberá contener cuando menos los siguientes elementos constitutivos; los cuales serán enunciativos más no limitativos.
+
+I.- Título. Deberá incluir el nombre del municipio, así como el período de la administración para el cual se ha elaborado el Plan;
+
+II.- Contenido. Consistirá en una lista ordenada de los capítulos, secciones, subsecciones u otras partes importantes del Plan, junto con sus números de página correspondientes;
+
+III.- Mensaje institucional de la persona titular de la presidencia municipal. La persona titular expresará su compromiso con el municipio durante el período cubierto por el Plan;
+
+IV.- Introducción. Se describirán brevemente los temas y objetivos principales del Plan;
+
+V.- Marco jurídico. Se señalarán los fundamentos legales, a través de los cuales se sustenta el Plan;
+
+VI.- Metodología. Se describirá cómo se elaboró y se llevará a cabo el Plan, se podrán incluir detalles sobre los procesos de consulta, investigación, participación ciudadana y toma de decisiones;
+
+VII.- Principios del gobierno municipal. Se establecerá la visión a largo plazo del municipio, los objetivos específicos a alcanzar, la misión del gobierno municipal y los valores que guiarán su actuación;
+
+VIII.- Ejes de gobierno. Se referirán las áreas temáticas o pilares en las que se divide el Plan, representan los principales enfoques de acción del gobierno municipal, como educación, salud, seguridad, infraestructura;
+
+IX.- Diagnóstico. Se analizará la situación actual del municipio, identificando sus fortalezas, debilidades, y oportunidades;
+
+X.- Enfoques transversales. Se expondrán los principios o valores fundamentales que se integran en todas las políticas y acciones del gobierno municipal, como el respeto a los derechos humanos, la igualdad de género, la participación ciudadana y el cuidado del medio ambiente;
+
+XI.- Evaluación. Se definirán los indicadores que se utilizarán para evaluar el progreso y los resultados en cada uno de los ejes de gobierno; y
+
+XII.- Anexos. Se incluirán los documentos adicionales o información de respaldo que sea relevante para el plan, como estudios, datos estadísticos, informes técnicos, entre otros.
 
 ###### ARTICULO 27.
 
@@ -708,3 +736,11 @@ Derivado del cambio en la atribución relativa a la coordinación del Sistema de
 ###### ARTÍCULO TERCERO.
 
 La disposición relativa al resguardo y cuidado de la documentación comprobatoria del gasto por parte de las dependencias ejecutoras del mismo, a que hace referencia el segundo párrafo del artículo 56 del presente Decreto, entrará en vigor a partir del 1° de enero de 2022, ello con la finalidad de que se determinen las medidas necesarias para su implementación por parte de la Secretaría, la Contraloría Gubernamental y las dependencias y entidades involucradas.
+
+P.O. 7 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-736 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 26 BIS A LA LEY ESTATAL DE PLANEACIÓN; Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTICULO 184, RECORRIÉNDOSE LOS SUBSECUENTES EN SU ORDEN NATURAL, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
