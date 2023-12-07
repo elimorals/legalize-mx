@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fomento-y-proteccion-del-maiz-criollo-como-80207"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-01"
-last_updated: "2011-03-01"
+last_updated: "2023-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE FOMENTO Y PROTECCION DEL MAIZ CRIOLLO COMO PATRIMONIO ALIMENTARIO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Quinta Sección al Periódico Oficial del Estado de Michoacán, el martes 1 de marzo de 2011.
 
@@ -103,7 +103,9 @@ X. OGMs: organismo u organismos genéticamente modificados;
 
 XI. Productores originarios y custodios: Productores que descienden culturalmente de quienes han conservado y preservan el cultivo del maíz; y,
 
-XII. Secretaría: Secretaría de Desarrollo Rural en el Estado de Michoacán de Ocampo.
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2023)</small>
+
+XII. Secretaría: Secretaría de Agricultura y Desarrollo Rural del Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO 3.
 
@@ -201,7 +203,9 @@ I. El Gobernador, quien fungirá como Presidente;
 
 II. El Secretario de Gobierno, quien fungirá como Vicepresidente;
 
-III. El Secretario de Desarrollo Rural, quien fungirá como Secretario Técnico;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2023)</small>
+
+III. El Secretario de Agricultura y Desarrollo Rural, quien fungirá como Secretario Técnico;
 
 IV. El Secretario de Desarrollo Económico, quien fungirá como vocal;
 
@@ -464,3 +468,13 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DlRE
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 9 nueve días del mes de febrero del año 2011 dos mil once.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- FIDEL CALDERÓN TORREBLANCA. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL NÚMERO 457 “POR EL QUE SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN XII; Y, 12 FRACCIÓN III, DE LA LEY DE FOMENTO Y PROTECCIÓN DEL MAÍZ CRIOLLO COMO PATRIMONIO ALIMENTARIO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos legales correspondientes.
+
+Segundo. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
