@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-escudo-y-el-himno-de-tamaulipas-antes-ley-del-4243
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2017-04-20"
+last_updated: "2023-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE EL ESCUDO Y EL HIMNO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2004.
 
@@ -380,6 +380,10 @@ LXX.- 27 de septiembre, con motivo de la declaración de Antiguo Morelos como Vi
 > <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
 LXXI.- 29 de septiembre, con motivo de la elevación a Villa de la Congregación de San José o Joya de los Indios con el nombre de Gómez Farías en 1870;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2023)</small>
+
+LXXI Bis.- El último lunes de septiembre de cada año, en la rotonda donde descansan los restos de las y los tamaulipecos ilustres, a fin de honrar su memoria y legado histórico.
 
 > <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
@@ -796,6 +800,14 @@ Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, a
 P.O. 20 DE ABRIL DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-157 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 23 DE LA LEY SOBRE EL ESCUDO Y EL HIMNO A TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-735 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN LXXI BIS, AL ARTÍCULO 11 DE LA LEY SOBRE EL ESCUDO Y EL HIMNO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
