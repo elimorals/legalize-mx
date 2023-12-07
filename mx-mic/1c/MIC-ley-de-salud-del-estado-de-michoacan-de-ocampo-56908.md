@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2023-12-04"
+last_updated: "2023-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -2061,7 +2061,31 @@ VIII. Las demás medidas y requisitos que establezcan las leyes, reglamentos y n
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
 
-### CAPÍTULO I. AUTORIZACIONES
+### CAPÍTULO XXIV. TRANSFUSIÓN SANGUÍNEA
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 177 BIS. De conformidad con la Ley General de Salud y en los términos establecidos en los convenios de coordinación correspondientes, la Secretaría será responsable de definir, supervisar y aplicar las políticas, procedimientos e instrumentos a las que se sujetarán los centros de la transfusión sanguínea, hospitales y centros de salud, así como los establecimientos, servicios y actividades de los sectores social y privado, para el control sanitario de la disposición, internación y salida de sangre humana, sus componentes y células progenitoras hematopoyéticas, para lo cual cuenta con las atribuciones siguientes:
+
+I. Coordinarse con el Centro Nacional de Transfusión Sanguínea para el cumplimiento de sus objetivos;
+
+II. Tener a su cargo el Centro Estatal de la Transfusión Sanguínea;
+
+III. Coadyuvar con la autoridad sanitaria federal para la expedición, revalidación o revocación, en su caso, de las autorizaciones y licencias sanitarias que en la materia requieran las instituciones públicas, así como las personas físicas y morales de los sectores social o privado, en los términos establecidos por las disposiciones aplicables;
+
+IV. Coordinar, supervisar, evaluar y concentrar la información relativa a la disposición, internación y salida del Estado de Michoacán, de sangre humana, de sus componentes y células progenitoras hematopoyéticas;
+
+V. Promover y coordinar la realización de campañas de donación voluntaria y altruista de sangre, sus componentes y células progenitoras hematopoyéticas;
+
+VI. Proponer y, en su caso, desarrollar actividades de investigación, capacitación de recursos humanos e información en materia de donación de sangre, sus componentes y células progenitoras hematopoyéticas;
+
+VII. Establecer mecanismos para la sistematización y difusión de la normatividad e información científica y sanitaria en materia de disposición de sangre, sus componentes y células progenitoras hematopoyéticas;
+
+VIII. Proponer y, en su caso, realizar actividades educativas, de investigación y de difusión para el fomento de la cultura de la donación de sangre, sus componentes y células progenitoras hematopoyéticas para fines terapéuticos y de investigación;
+
+IX. Coadyuvar con las autoridades correspondientes para evitar la disposición ilícita de sangre, sus componentes y células progenitoras hematopoyéticas; y,
+
+X. Promover la constitución de los Comités de Medicina Transfusional en las unidades médicas del Estado de Michoacán de Ocampo, conforme a las normas oficiales mexicanas.
 
 ###### ARTÍCULO 175.
 
@@ -2075,7 +2099,7 @@ II. Las demás medidas y requisitos que establezcan las leyes, reglamentos y nor
 
 Queda prohibida la compraventa de ropa y blancos usados provenientes de hospitales, sanatorios y similares.
 
-### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIONES SANITARIAS
+### CAPÍTULO I. AUTORIZACIONES
 
 ###### ARTÍCULO 177.
 
@@ -2095,11 +2119,13 @@ VI. Reunir la normatividad que marque la Secretaría de Educación.
 
 Los albergues para indigentes, niños o jóvenes en situación de drogadicción crónica, alcoholismo, abandono o rechazo familiar, las personas con capacidades diferentes, los adultos mayores, en situación de desprotección, deberán contar con iguales beneficios, pero además con los tratamientos especializados que requieran.
 
-### CAPÍTULO III. CERTIFICADOS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIONES SANITARIAS
 
 ## TÍTULO CUARTO. AUTORIZACIONES, CERTIFICADOS Y AVISOS
 
-### CAPÍTULO IV. AVISOS DE FUNCIONAMIENTO
+### CAPÍTULO III. CERTIFICADOS
 
 ###### ARTÍCULO 178.
 
@@ -2131,7 +2157,7 @@ Los ingresos por concepto de derechos a que se refiere esta Ley se regirán por 
 
 Requieren de autorización sanitaria los establecimientos y las actividades a que se refiere el artículo 142 de esta Ley. Cuando cambien de actividad preponderante, ubicación, propietario o razón social, requerirán de nueva autorización sanitaria.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO IV. AVISOS DE FUNCIONAMIENTO
 
 ###### ARTÍCULO 184.
 
@@ -2199,7 +2225,7 @@ I. Cuando, de ser el caso, no se hubiere iniciado la renovación de la autorizac
 
 II. Cuando el titular de la autorización lo solicite.
 
-### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 193.
 
@@ -2231,7 +2257,7 @@ Los certificados a que se refiere este capítulo, se expedirán en los formatos 
 
 La Secretaría, podrá expedir certificados, autorizaciones o cualquier otro documento con base en la información, comprobación de hechos o recomendaciones técnicas, que proporcionen terceros autorizados, de conformidad con lo que señala la Ley General de Salud.
 
-### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTÍCULO 198.
 
@@ -2251,7 +2277,7 @@ V. Número de cédula profesional, en su caso, del responsable sanitario.
 
 ## TÍTULO QUINTO. VIGILANCIA SANITARIA
 
-### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTÍCULO 199.
 
@@ -2357,7 +2383,7 @@ En el caso de los productos asegurados en el procedimiento de muestreo o verific
 
 ## TÍTULO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPÍTULO IV. RECURSO DE REVISIÓN
+### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTÍCULO 212.
 
@@ -2483,7 +2509,7 @@ La suspensión de mensajes publicitarios en materia de esta Ley, procederá cuan
 
 Tratándose de mensajes difundidos, la suspensión procederá, cuando la Secretaría tenga conocimiento, dentro de las veinticuatro horas posteriores o en la siguiente edición según sea el caso.
 
-### CAPÍTULO V. PRESCRIPCIÓN
+### CAPÍTULO IV. RECURSO DE REVISIÓN
 
 ###### ARTÍCULO 225.
 
@@ -2575,9 +2601,7 @@ II. A la persona que en rebeldía se niegue a cumplir los requerimientos y dispo
 
 Sólo procederá esta sanción, si previamente se dictó alguna de las sanciones a que se refiere este capítulo; impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPÍTULO I. LA INSUFICIENCIA RENAL
-
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+### CAPÍTULO V. PRESCRIPCIÓN
 
 ###### ARTÍCULO 236.
 
@@ -2618,6 +2642,10 @@ Cuando del contenido de un acta de verificación se desprenda la posible comisi�
 ###### ARTÍCULO 245.
 
 En la tramitación del recurso administrativo, iniciado por la autoridad sanitaria competente, se aplicará de manera supletoria el Código de Justicia Administrativa para el Estado de Michoacán de Ocampo.
+
+### CAPÍTULO I. LA INSUFICIENCIA RENAL
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 246.
 
@@ -3098,5 +3126,13 @@ P.O. 4 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 468 POR EL QUE "SE ADICIONA UN PÁRRAFO AL ARTÍCULO 17 B DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+P.O. 7 DE DICIEMBRE DE 2023.
+
+> <small>[N. DE E. DECRETO NÚMERO 470 POR EL QUE "SE ADICIONA AL TÍTULO TERCERO «SALUBRIDAD LOCAL», EL CAPÍTULO XXIV «TRANSFUSIÓN SANGUÍNEA» Y EL ARTÍCULO 177 BIS, A LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]</small>
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
