@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2023-11-30"
+last_updated: "2023-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2023.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -1463,7 +1463,9 @@ I. De veinte a ochenta días multa, cuando las lesiones no impidan al ofendido d
 
 II. De seis meses a dos años de prisión y de cincuenta a doscientos días multa, cuando las lesiones impidan al ofendido dedicarse a sus actividades habituales más de quince días, o la enfermedad dure un lapso mayor de ese tiempo, siempre que esas circunstancias sean temporales;
 
-III. De cuatro a diez años de prisión, cuando dejen cicatriz permanentemente en la cara;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2023)</small>
+
+III. De cuatro a quince años de prisión, cuando dejen cicatriz permanentemente en la cara, el cuello, el brazo, la mano o los órganos sexuales de la víctima;
 
 IV. De cinco a diez años de prisión y multa de cien a quinientos días multa, cuando las lesiones produzcan debilitamiento, disminución o perturbación de las funciones, órganos o del uso de la palabra o de las facultades mentales; y,
 
@@ -1522,6 +1524,14 @@ I. Que el conductor hubiese realizado la conducta en estado de ebriedad, bajo el
 II. Que se trate de un vehículo de transporte público de pasajeros; o,
 
 III. Que el conductor haya abandonado a la víctima.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 132 Bis.
+
+Lesiones causadas por ácido o sustancias corrosivas.
+
+A quien cause lesiones mediante el uso de cualquier tipo de ácido, álcali, agente o sustancia corrosiva, cáustica, irritante, tóxica o inflamable se le impondrá la pena correspondiente al delito de lesiones calificadas.
 
 ### CAPÍTULO III. REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
 
@@ -4728,3 +4738,11 @@ P.O. 30 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 464 POR EL QUE "SE REFORMA EL ARTÍCULO 105 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 7 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 456.- ARTÍCULO PRIMERO.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 9 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 125 Y SE ADICIONA EL ARTÍCULO 132 BIS AL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
