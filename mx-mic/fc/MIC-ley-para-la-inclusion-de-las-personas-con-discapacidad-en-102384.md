@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-10238
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2022-11-15"
+last_updated: "2023-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 12 de septiembre de 2014.
 
@@ -651,6 +651,10 @@ Los Poderes Ejecutivo, Legislativo y Judicial del Estado, los organismos autóno
 
 Asimismo, en los municipios del Estado se indicará en el Sistema Braille la nomenclatura de las calles del primer cuadro de los municipios, así como las plazas, jardines, paseos públicos e inmuebles destinados a un servicio público.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2023)</small>
+
+Los espacios públicos destinados a la cultura, propiedad del Gobierno del Estado, así como los pertenecientes a los municipios, deberán contener en la exposición de sus convocatorias, en sus documentos, exposiciones u objetos históricos su traducción en el sistema Braille y/o formato auditivo.
+
 ###### Artículo 53.
 
 Los planes y programas de desarrollo urbano deberán contemplar que las construcciones o modificaciones de edificios e infraestructura urbana se adecúen a las necesidades de las personas con discapacidad, de conformidad con las disposiciones aplicables en la materia.
@@ -1238,3 +1242,23 @@ P.O. 15 DE NOVIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 205 POR EL QUE “SE ADICIONA UN PÁRRAFO SEGUNDO Y SE RECORREN EN SU ORDEN LOS SUBSECUENTES AL ARTÍCULO 48, DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 7 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 460 POR EL QUE "SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 52 DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor del presente Decreto, las autoridades responsables de la aplicación del mismo, deberán de establecer en sus presupuestos de egresos del siguiente ejercicio fiscal los recursos necesarios para su cumplimiento.
+
+###### ARTÍCULO CUARTO.
+
+Las autoridades responsables de la aplicación de lo mandatado en el presente Decreto, deberán de reformar sus reglamentos y manuales de operación, para adecuarlos a lo mandatado en el presente Decreto en un máximo de 180 días hábiles a su entrada en vigor.
