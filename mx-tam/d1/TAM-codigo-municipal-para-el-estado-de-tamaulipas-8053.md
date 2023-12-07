@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2023-11-27"
+last_updated: "2023-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1189,11 +1189,15 @@ XVI.- De Grupos Vulnerables.
 
 XVII.- De Derechos Humanos.
 
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2023)</small>
+
+XVIII.- De Agua.
+
 > <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2023)</small>
 
-XVIII.- De Anticorrupción.
+XIX.- De Anticorrupción.
 
-XIX.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
+XX.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
 
 Para tal efecto, podrán encomendarse dos o más comisiones a cada munícipe.
 
@@ -3018,6 +3022,10 @@ Los Ayuntamientos deberán formular y aprobar los respectivos planes municipales
 ###### ARTICULO 184.
 
 Los planes municipales de desarrollo precisarán los objetivos generales, estrategias y prioridades para el desarrollo integral del Municipio; sus planteamientos se referirán al conjunto de la actividad económica y social, y contendrán previsiones sobre los recursos que serán asignados a tales fines; determinarán los instrumentos y responsables de su ejecución, y establecerán los lineamientos de política de carácter municipal, sectorial y de servicios municipales, e indicarán los programas sectoriales institucionales, regionales y especiales. Las dependencias encargadas de su ejecución elaborarán programas operativos anuales, en concordancia con los planes Nacional y Estatal de Desarrollo.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2023)</small>
+
+La integración del Plan Municipal de Desarrollo por parte de los Ayuntamientos en la entidad deberá contener los elementos constitutivos que se establezcan en la Ley Estatal de Planeación.
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2020)</small>
 
@@ -7052,6 +7060,22 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 27 DE NOVIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-731 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 44, PÁRRAFO TERCERO DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-736 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 26 BIS A LA LEY ESTATAL DE PLANEACIÓN; Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 184, RECORRIÉNDOSE LOS SUBSECUENTES EN SU ORDEN NATURAL, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-738 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XVIII, RECORRIÉNDOSE EN SU ORDEN NATURAL LAS SUBSECUENTES, DEL ARTÍCULO 64, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
