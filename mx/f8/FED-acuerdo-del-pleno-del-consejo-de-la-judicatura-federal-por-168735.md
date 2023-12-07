@@ -1,0 +1,848 @@
+---
+title: "ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [POR EL QUE SE DETERMINA LA LISTA DE PERSONAS ADMITIDAS AL PRIMER CONCURSO INTERNO DE OPOSICION PARA LA DESIGNACION DE JUEZAS Y JUECES DE DISTRITO ESPECIALIZADOS EN EL SISTEMA PENAL ACUSATORIO, CONFORME A LA REFORMA JUDICIAL]"
+identifier: "FED-acuerdo-del-pleno-del-consejo-de-la-judicatura-federal-por-168735"
+country: "mx"
+rank: "acuerdo"
+publication_date: "2023-12-07"
+last_updated: "2023-12-07"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168735&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "168735"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "ACUERDO (S)"
+original_gazette_section: "9"
+reform_count: "0"
+scjn_last_update: "2023-12-07"
+issue_date: "2023-11-30"
+---
+# ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [POR EL QUE SE DETERMINA LA LISTA DE PERSONAS ADMITIDAS AL PRIMER CONCURSO INTERNO DE OPOSICION PARA LA DESIGNACION DE JUEZAS Y JUECES DE DISTRITO ESPECIALIZADOS EN EL SISTEMA PENAL ACUSATORIO, CONFORME A LA REFORMA JUDICIAL]
+
+ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE DETERMINA LA LISTA DE PERSONAS ADMITIDAS AL PRIMER CONCURSO INTERNO DE OPOSICIÓN PARA LA DESIGNACIÓN DE JUEZAS Y JUECES DE DISTRITO ESPECIALIZADOS EN EL SISTEMA PENAL ACUSATORIO, CONFORME A LA REFORMA JUDICIAL
+
+TEXTO ORIGINAL.
+
+Acuerdo publicado en el Diario Oficial de la Federación, el jueves 7 de diciembre de 2023.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
+
+ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE DETERMINA LA LISTA DE PERSONAS ADMITIDAS AL PRIMER CONCURSO INTERNO DE OPOSICIÓN PARA LA DESIGNACIÓN DE JUEZAS Y JUECES DE DISTRITO ESPECIALIZADOS EN EL SISTEMA PENAL ACUSATORIO, CONFORME A LA REFORMA JUDICIAL.
+
+CONSIDERANDO
+
+PRIMERO. Los artículos 94, párrafo segundo y 97 párrafos primero y segundo, de la Constitución Política de los Estados Unidos Mexicanos; 86, fracción II, de la Ley Orgánica del Poder Judicial de la Federación, prevén que el Consejo de la Judicatura Federal es el órgano encargado de la administración, vigilancia, disciplina y carrera judicial, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación, con independencia técnica, de gestión para emitir sus propias resoluciones, con facultades para expedir acuerdos generales que permitan el adecuado ejercicio de sus funciones.
+
+SEGUNDO. Conforme a lo dispuesto por el artículo 97, primer párrafo de la Constitución Federal, las y los Magistrados de Circuito y las y los Jueces de Distrito serán nombrados por el Consejo de la Judicatura Federal, con base en criterios objetivos y de acuerdo a los requisitos y procedimientos que establezcan las disposiciones aplicables. Por su parte, el artículo 100, párrafo séptimo, de nuestro Máximo Ordenamiento, establece los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género que deben observarse en la carrera judicial.
+
+TERCERO. En sesión ordinaria de 18 de octubre de 2023, el Pleno del Consejo de la Judicatura Federal aprobó la Convocatoria al “Primer Concurso Interno de Oposición para la designación de Juezas de Distrito Especializadas en el Sistema Penal Acusatorio y al Primer Concurso Interno de Oposición para la designación de Juezas y Jueces de Distrito Especializados en el Sistema Penal Acusatorio, ambos conforme a la reforma judicial” (Convocatoria), publicada en el Diario Oficial de la Federación en la página web de la Escuela Federal de Formación Judicial, el 26 de octubre de 2023, y por su segunda vez, en el diario de mayor circulación nacional el 8 de noviembre del mismo año.
+
+CUARTO. Las Bases Cuarta, Quinta, Vigésima primera y Vigésima segunda de la Convocatoria, establecen los requisitos y documentos que las personas aspirantes deberán cumplir y presentar al cierre del periodo de inscripción, para acceder al “Primer Concurso Interno de Oposición para la designación de Juezas y Jueces de Distrito Especializados en el Sistema Penal Acusatorio, conforme a la reforma judicial.”.
+
+De acuerdo con el Calendario previsto en la Base Trigésima tercera de la Convocatoria, el periodo de inscripción transcurrió del lunes 6 al viernes 10 de noviembre de 2023.
+
+QUINTO. De conformidad con las Bases Décima segunda y Vigésima cuarta de la Convocatoria tras haber concluido el periodo de inscripción, la Escuela Federal de Formación Judicial revisará la documentación presentada por las personas aspirantes y, una vez hecho lo anterior, elaborará el proyecto de lista de las que cumplan con los requisitos de admisión, la cual será enviada a la Comisión de Carrera Judicial, con la finalidad de que la remita al Pleno del Consejo de la Judicatura Federal para su discusión y aprobación y, posteriormente, sea publicada en el Diario Oficial de la Federación, así como en la página web de la Escuela Federal de Formación Judicial.
+
+SEXTO. Llevado a cabo lo anterior, la Comisión de Carrera Judicial, en sesión ordinaria de 27 de noviembre de 2023, aprobó someter a consideración del Pleno del Consejo de la Judicatura Federal la Lista de personas admitidas al Primer Concurso Interno de Oposición para la designación de Juezas y Jueces de Distrito Especializados en el Sistema Penal Acusatorio, conforme a la reforma judicial.
+
+SEPTIMO. El Pleno del Consejo de la Judicatura Federal, en sesión de 29 de noviembre de 2023, aprobó la Lista de las personas admitidas al Primer Concurso Interno de Oposición para la designación de Juezas y Jueces de Distrito Especializados en el Sistema Penal Acusatorio, conforme a la reforma judicial, al haber cumplido con los requisitos y presentados los documentos exigidos para su admisión, de acuerdo a lo dispuesto en las Bases Quinta y Vigésima primera y Vigésima segunda de la Convocatoria multirreferida.
+
+OCTAVO. De conformidad con lo establecido en el artículo 22 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la Carrera Judicial y en la Base Vigésima cuarta de la Convocatoria, la Lista de las personas admitidas al Primer Concurso Interno de Oposición para la designación de Juezas y Jueces de Distrito Especializados en el Sistema Penal Acusatorio, conforme a la reforma judicial, deberá publicarse en el Diario Oficial de la Federación y en la página web de la Escuela Federal de Formación Judicial.
+
+Con fundamento en lo anterior, el Pleno del Consejo de la Judicatura Federal ordenó publicar la
+
+LA LISTA DE PERSONAS ADMITIDAS AL PRIMER CONCURSO INTERNO DE OPOSICIÓN PARA LA DESIGNACIÓN DE JUEZAS Y JUECES DE DISTRITO ESPECIALIZADOS EN EL SISTEMA PENAL ACUSATORIO, CONFORME A LA REFORMA JUDICIAL
+
+PRIMERO. De acuerdo con lo referido en los considerandos de este documento, las personas aspirantes aceptadas al Primer Concurso Interno de Oposición para la designación de Juezas y Jueces de Distrito Especializados en el Sistema Penal Acusatorio, conforme a la reforma judicial, son las siguientes:
+
+1 ACOSTA HUERTA DAVID
+
+2 AGRAMÓN ARAUJO JORGE
+
+3 AGUILAR SOLÍS MIGUEL ÁNGEL
+
+4 AGUILAR VALENCIA PEDRO
+
+5 AGUILAR VIRGEN LUIS GABRIEL
+
+6 AGUIRRE GARZA JUAN MANUEL
+
+7 AHUMADA CHÁIREZ JOSÉ ANTONIO
+
+8 ALDRETE GONZÁLEZ IGNACIO
+
+9 ALEMÁN LARA GERARDO GUSTAVO
+
+10 ALMARAZ ZÚÑIGA MARCOS OCTAVIO
+
+11 ALMAZÁN CERVANTES SALVADOR
+
+12 ALVARADO LÓPEZ CRISTIÁN EDUARDO
+
+13 ÁLVAREZ ALVARADO JOSÉ DE JESÚS JUNIOR
+
+14 AMARO NAVA RICARDO
+
+15 ANDRADE GUERRERO SALVADOR ISRRAEL
+
+16 ARCOVEDO CERVERA FRANCISCO JAVIER JESÚS
+
+17 ARELLANO HERNÁNDEZ HORACIO
+
+18 ARÉVALO MASCAREÑO GABRIEL
+
+19 ARGOTE COTA RAÚL ALEJANDRO
+
+20 ARRENQUÍN PINEDA ROBERTO CARLOS
+
+21 ARRIAGA ESPARZA JAIME
+
+22 ARROYO OLVERA OMAR SERGIO
+
+23 ARSUAGA LEÓN CHRISTIAN
+
+24 AVELAR GUTIÉRREZ HERIBERTO
+
+25 AYALA TORRES FREDY EMMANUEL
+
+26 BACA CONTRERAS ARTURO
+
+27 BACA GONZÁLEZ PLIEGO GUILLERMO
+
+28 BARRIOS ÁVILA JUAN CARLOS
+
+29 BARROSO ÁVILA MARIO ALBERTO
+
+30 BAZÁN GARCÍA JUAN EDUARDO
+
+31 BAZAVILVAZO VELASCO ADOLFO
+
+32 BECERRIL JARDÓN JORGE RIVELINO
+
+33 BONILLA LORANCA CHRISTIAN
+
+34 BRINGAS DÍAZ FRANCISCO
+
+35 BUENDÍA RODRÍGUEZ JUAN ALFREDO
+
+36 CALDERÓN MARTÍNEZ ÓSCAR
+
+37 CAMARENA MEDINA GERARDO
+
+38 CANTÚ PINEDA MANUEL
+
+39 CARRASCO CORONA VÍCTOR
+
+40 CARREÑO RODRÍGUEZ ALBERTO
+
+41 CARRILLO QUINTERO JUAN CARLOS
+
+42 CASAS GARCÍA GABRIEL
+
+43 CASTAÑEDA CASTILLO CARLOS ALBERTO
+
+44 CASTELLANOS GARCÍA JUAN CARLOS
+
+45 CASTELLANOS SÁNCHEZ LUIS ANTONIO
+
+46 CASTILLA MACÍAS JOSÉ ANTONIO
+
+47 CASTILLA SANTANA ROQUE JOSÉ
+
+48 CASTILLO BASURTO MIGUEL ÁNGEL
+
+49 CASTILLO RIEDEL GERARDO
+
+50 CASTRO GÓMEZ JUAN ALBERTO
+
+51 CASTRO MURILLO JUAN DE LA CRUZ
+
+52 CASTRO SOTO ANDRÉS ALBERTO
+
+53 CASTRO VELÁZQUEZ LUIS ALBERTO
+
+54 CEJA GONZÁLEZ LUIS MIGUEL
+
+55 CERDA GARCÍA MANUEL EDUARDO
+
+56 CHÁVEZ AGUILAR ALBERTO
+
+57 CHÁVEZ ROMERO VÍCTOR FRANCISCO
+
+58 CLEMENTE CERVANTES RICARDO
+
+59 CORREA DIP MANUEL ANTONIO
+
+60 CORTÉS VÁSQUEZ RAMÓN LUCIO
+
+61 COTA PEÑA JOSÉ FRANCISCO
+
+62 CRISPÍN LÓPEZ JULIO CÉSAR
+
+63 CRUZ CUEVAS WILFRIDO
+
+64 CRUZ DÍAZ ALONSO
+
+65 CRUZ DÍAZ MARIO
+
+66 CRUZ PALMA CARLOS
+
+67 CRUZ RAMÍREZ ÓSCAR
+
+68 CRUZ RODRÍGUEZ JULIO ALBERTO
+
+69 CRUZ VÁZQUEZ ERNESTO FABIÁN
+
+70 CUETO LÓPEZ ANTONIO
+
+71 CUEVA TÉLLEZ VÍCTOR MANUEL
+
+72 DE JULIO DÁVALOS ÉRICK JAVIER
+
+73 DE LA FUENTE SALINAS EMMANUEL
+
+74 DÍAZ JIMÉNEZ VÍCTOR HUGO
+
+75 DÍAZ MEIXUEIRO MANUEL
+
+76 DÍAZ NÁJERA JOEL
+
+77 DÍAZ ROCHA JUAN
+
+78 DÍAZ ROVELO JUAN CARLOS
+
+79 DÍAZ VIVALDO JOSÉ VICENTE
+
+80 DOGER AMADOR JOSÉ
+
+81 DOLORES ESPINOSA ÓSCAR
+
+82 DOTOR BECERRIL ÉDGAR
+
+83 ELIZONDO MARTÍNEZ MARIO
+
+84 ERAZO BERNAL CARLOS LUIS
+
+85 ESCAMILLA MARTÍNEZ JULIO
+
+86 ESCAMILLA MARTÍNEZ MARCO ANTONIO
+
+87 ESPINOSA GUZMÁN HÉCTOR GABRIEL
+
+88 ESPINOZA RODRÍGUEZ OSCAR
+
+89 EUGENIO CECILIO JUAN
+
+90 FIERRO BLANCO JOSÉ JULIÁN
+
+91 FIGUEROA HERNÁNDEZ SAMUEL RODRIGO
+
+92 FIGUEROA LAGUNAS ABIMELEC AUGUSTO
+
+93 FLORES CASTELLANOS GÓMEZ BENNETTS FERNANDO
+
+94 FLORES FLORES JOSÉ RAMÓN
+
+95 FLORES FRANCO FRANZ JOSUÉ
+
+96 FLORES GONZÁLEZ JONATHAN
+
+97 FLORES IRENE HÉCTOR
+
+98 FLORES LUNA ULISES
+
+99 FLORES RODRÍGUEZ LORENZO VALENTÍN
+
+100 FLORES ZARAGOZA TOMÁS
+
+101 FRANCO GONZÁLEZ JOSÉ FERNANDO
+
+102 FRANCO LÓPEZ JOSÉ ALFREDO
+
+103 GALINDO PEDROZA HUGO ALBERTO
+
+104 GALLEGOS HERRERA AGUSTÍN JAVIER
+
+105 GALVÁN MATUS RICARDO ANTONIO
+
+106 GARCÍA ÁLVAREZ ALEJANDRO
+
+107 GARCÍA BLANCAS ARTURO ARGENIS
+
+108 GARCÍA CONTRERAS JOSÉ LUIS
+
+109 GARCÍA ESTRADA ALEJANDRO JAVIER
+
+110 GARCÍA GALLARDO GUILLERMO ROBERTO
+
+111 GARCÍA GARCÍA FRANCISCO BALAM
+
+112 GARCÍA GARCÍA HUGO
+
+113 GARCÍA GARCÍA LUIS MANUEL
+
+114 GARCÍA GÓMEZ JERÓNIMO
+
+115 GARCÍA IBÁÑEZ ÉRICK
+
+116 GARCÍA LEDESMA JUAN PABLO
+
+117 GARCÍA MORENO JOEL
+
+118 GARCÍA VALTIERRA JOSÉ RAMÓN
+
+119 GARIBO GARCÍA ANA LAURA
+
+120 GARRIDO DÍAZ ÉDGAR ROBERTO
+
+121 GARZA CHÁVEZ MODESTO JAVIER
+
+122 GARZA LAZARIT MARTÍN GABRIEL
+
+123 GASPAR MOGUEL JOSÉ ALFREDO
+
+124 GASTÉLUM LEYVA JOSÉ DE LA LUZ
+
+125 GIL CASILLAS URIEL JONATHAN
+
+126 GODÍNEZ CASTILLO HUMBERTO GABRIEL
+
+127 GÓMEZ ORTIZ HUMBERTO
+
+128 GÓMEZ REVUELTA LUIS ÁNGEL
+
+129 GÓMEZ VILLALOBOS JÓNATAN
+
+130 GONZÁLEZ AGUILAR CÉSAR
+
+131 GONZÁLEZ AMIGÓN ALBERTO
+
+132 GONZÁLEZ IBARRA CÉSAR
+
+133 GONZÁLEZ LARA DANIEL
+
+134 GONZÁLEZ LEÓN JORGE YUSSEL
+
+135 GONZÁLEZ MILLÁN GUILLERMO
+
+136 GONZÁLEZ RAMÍREZ ASDRÚBAL
+
+137 GONZÁLEZ RAMÍREZ JESÚS IVÁN
+
+138 GONZÁLEZ RUÍZ VÍCTOR MANUEL
+
+139 GONZÁLEZ ZAMORA GABRIEL ISRAEL
+
+140 GRANADOS HERNÁNDEZ RUBÉN
+
+141 GUADARRAMA SÁNCHEZ CARLOS FRANCISCO
+
+142 GÜEREÑA GONZÁLEZ IVÁN
+
+143 GUERRERO HERRERA MARIO
+
+144 GUERRERO LANDÍN FRANCISCO
+
+145 GUÍA PÉREZ EMMANUEL SALOMÓN
+
+146 GUILLÉN GRAJEDA IVÁN LIEVICH
+
+147 GUTIÉRREZ CORONA AGUSTÍN JAIME
+
+148 GUTIÉRREZ MARTÍNEZ JOSÉ MARTÍN
+
+149 GUTIÉRREZ SALAZAR RICARDO
+
+150 GUZMÁN AGUADO DANIEL
+
+151 GUZMÁN GONZÁLEZ EDUARDO
+
+152 HARO LOYA JOSÉ ÓSCAR FEDERICO
+
+153 HENRÍQUEZ RODRÍGUEZ MIGUEL ÁNGEL
+
+154 HEREDIA NAVARRO MARLON JUVENTINO
+
+155 HERNÁNDEZ ÁLVAREZ VÍCTOR ADOLFO
+
+156 HERNÁNDEZ CASTILLEJOS CARLOS
+
+157 HERNÁNDEZ GOROSTIETA CHRISTIAN OMAR
+
+158 HERNÁNDEZ JIMÉNEZ JUAN CARLOS
+
+159 HERNÁNDEZ MEDINA TAMELIO ANTONIO
+
+160 HERNÁNDEZ ROMERO MANUEL ALEJANDRO
+
+161 HERNÁNDEZ RUIZ HUGO RODOLFO
+
+162 HERNÁNDEZ TEJEDA ADRIÁN VÍCTOR
+
+163 HERNÁNDEZ TORRES SERGIO VÍCTOR
+
+164 HERRERA NAVA ARABÍ BENSAID
+
+165 HERRERA RAMÍREZ HIPÓLITO RODOLFO
+
+166 HIDALGO CARMONA MIGUEL ENRIQUE
+
+167 HILARIO AZCORRA MARK
+
+168 ISLAS PÉREZ TECÁMAC RAYMUNDO
+
+169 ITURBE SALAZAR HOMERO
+
+170 IZQUIERDO PRIETO JONATHAN FRANCISCO
+
+171 JACOBO CORTES IVÁN OSBALDO
+
+172 JAIMES BENÍTEZ OMAR
+
+173 JARAMILLO OLIVARES ISIDRO
+
+174 JIMÉNEZ CARRILLO ISRAEL
+
+175 JIMÉNEZ MORATO SAMUEL
+
+176 JIMÉNEZ MUÑOZ IVÁN
+
+177 JIMÉNEZ NAVARRETE WINYBER
+
+178 JIMÉNEZ RODRÍGUEZ MIGUEL ÁNGEL
+
+179 JULIO DÍAZ JAVIER
+
+180 LABASTIDA REYNA JOSEMARÍA
+
+181 LABASTIDA TERÁN ISAAC OMAR
+
+182 LARA JUÁREZ GABRIEL
+
+183 LARUMBE MARÍN JULIO CÉSAR AUGUSTO
+
+184 LÁZARO GUZMÁN HÉCTOR
+
+185 LECHUGA TEJEDA MIGUEL ÁNGEL
+
+186 LEÓN BARRERA IVÁN
+
+187 LÓPEZ GONZÁLEZ GERARDO
+
+188 LÓPEZ HERNÁNDEZ JOSÉ ANTONIO
+
+189 LÓPEZ JUÁREZ ALEJANDRO XIUHEL
+
+190 LÓPEZ LINARES MAURICIO ENRIQUE
+
+191 LÓPEZ MARTÍNEZ GILBERTO
+
+192 LÓPEZ MENDOZA OMAR
+
+193 LÓPEZ QUINTERO LUIS FERNANDO
+
+194 LÓPEZ RINCÓN JORGE
+
+195 LÓPEZ RODRÍGUEZ JESÚS RAMSÉS
+
+196 LÓPEZ SALDAÑA RAMÓN EDUARDO
+
+197 LÓPEZ TOVAR HÉCTOR
+
+198 LÓPEZ VELARDE OMAR
+
+199 LUNA ROJAS ULISES
+
+200 MARRUFO FLORES JUAN CARLOS
+
+201 MARTÍNEZ ALVARADO JOSÉ ANTONIO
+
+202 MARTÍNEZ BELTRÁN RUBÉN
+
+203 MARTÍNEZ CAMARILLO EMILIO
+
+204 MARTÍNEZ GARCÍA IVÁN
+
+205 MARTÍNEZ GODÍNEZ CARLOS EDUARDO
+
+206 MARTÍNEZ MENDIOLA JONATHAN
+
+207 MARTÍNEZ MORAZA ALEJANDRO
+
+208 MARTÍNEZ ORDAZ JAIME FABIÁN
+
+209 MARTÍNEZ PERALTA RAÚL
+
+210 MARTÍNEZ RAMÍREZ RODRIGO BARUCH
+
+211 MARTÍNEZ RANGEL DIEGO
+
+212 MARTÍNEZ RAZO MANUEL GABRIEL
+
+213 MARTÍNEZ REYES MARIO ALBERTO
+
+214 MARTÍNEZ RIVERA JONATHAN
+
+215 MARTÍNEZ SAN MARTÍN OCTAVIO
+
+216 MEDINA SANTIAGO EDUARDO
+
+217 MEJÍA ACEVEDO FRANCISCO EFRAÍN
+
+218 MEJÍA ALGARA EDGAR
+
+219 MEJÍA GARCÍA DANIEL
+
+220 MEJÍA GUTIÉRREZ ULISES
+
+221 MENDOZA GARCÍA LUIS ALFREDO
+
+222 MEZA ESCALANTE JOSÉ GILBERTO
+
+223 MEZA JIMÉNEZ CRISTIAN ALBERTO
+
+224 MIGUEL SANTIAGO JOSÉ MANUEL
+
+225 MILLÁN GAMA EDER GERARDO
+
+226 MIRANDA VERDUGO CARLOS ANDRÉS
+
+227 MIRELES LÓPEZ AIDÉ GABRIELA
+
+228 MOLINA GARCÍA JULIO CÉSAR
+
+229 MONDRAGÓN ROSAS ALONSO
+
+230 MONTERROSAS CASTORENA RICARDO
+
+231 MONTES SALINAS HÉCTOR ENRIQUE
+
+232 MONTES VARGAS JOSÉ RAMÓN
+
+233 MORA NOVELO ARIEL ALBERTO
+
+234 MORALES ESCOBEDO LUIS MANUEL
+
+235 MORALES GÓMEZ DIEGO ALEXIS
+
+236 MORALES HERNÁNDEZ ALFREDO
+
+237 MORALES MANJARREZ JOEL LUIS
+
+238 MORALES PARDO JORGE
+
+239 MORÁN GONZÁLEZ RICARDO JOSÉ
+
+240 MORONES DÁVALOS ÉDGAR DAVID
+
+241 MUÑOZ OCHOA ANDRÉS
+
+242 MUÑOZ SÁNCHEZ SILVESTRE
+
+243 NAVARRO MURGUÍA CRISTIAN DARÍO
+
+244 NAVARRO MURGUÍA HÉCTOR GERMÁN
+
+245 NIETO ARREYGUE ROBERTO JAIME
+
+246 NIEVES RAMÍREZ PORFIRIO MAURICIO
+
+247 OJEDA GÓMEZ RAMÓN ANTONIO
+
+248 OLGUÍN CASTRO PABLO
+
+249 OLVERA MARTÍNEZ ALDO
+
+250 OROZCO SALAZAR MARCO FRANCISCO
+
+251 ORTEGA CORTEZ DAVID OSWALDO
+
+252 ORTIZ ESTRADA ÓSCAR ALEJANDRO
+
+253 ORTIZ FLORES JUAN MANUEL
+
+254 ORTIZ HERNÁNDEZ MARIO ALBERTO
+
+255 ORTIZ SÁNCHEZ FERNANDO EMMANUELLE
+
+256 ORTIZ SÁNCHEZ OMAR ALONSO
+
+257 OSORIO ÁLVAREZ ÓSCAR
+
+258 PADUA AHUMADA BALTAZAR
+
+259 PARRA GARCÍA MIGUEL ISAÍAS
+
+260 PAZ CASTILLO VÍCTOR
+
+261 PAZOL RODRÍGUEZ EDWIN ANTONY
+
+262 PEÑA LÓPEZ ÉDGAR MARTÍN
+
+263 PEÑA SALINAS JAIRO
+
+264 PERALES HERNÁNDEZ JESÚS ADRIÁN
+
+265 PERALES RIVERA FABIOLA
+
+266 PEREYRA ARIAS JOSÉ DE JESÚS
+
+267 PÉREZ BERNAL HUGO
+
+268 PÉREZ CAMPOS ALDO ALEJANDRO
+
+269 PÉREZ CARRANZA LUIS MIGUEL
+
+270 PÉREZ CRUZ JACOBO
+
+271 PÉREZ LÓPEZ SAMIR ISRAEL
+
+272 PÉREZ ORTEGA FERNANDO
+
+273 PÉREZ SÁNCHEZ SERGIO
+
+274 PÉREZ TELLES AURELIANO
+
+275 PIZ SOTO VIDAL ALEJANDRO
+
+276 PONCE MEJÍA MIGUEL ÁNGEL
+
+277 PORTUGAL NORIEGA CARLOS FRANCISCO
+
+278 POSÁN TORNERO ROBERTO
+
+279 QUEZADA QUEZADA MANUEL ALBERTO
+
+280 RADBRUCH SÁNCHEZ LUIS ENRIQUE
+
+281 RAMÍREZ ÁLVAREZ JORGE LUIS
+
+282 RAMÍREZ CAMACHO JESÚS
+
+283 RAMÍREZ CARREÓN JULIO CÉSAR
+
+284 RAMÍREZ CRESPO AGUSTÍN
+
+285 RAMÍREZ LEGORRETA GETZEMANI
+
+286 RAMÍREZ RUIZ RAÚL
+
+287 RAMOS MÉNDEZ VÍCTOR HUGO
+
+288 RAMOS ORTEGA ALEJANDRO RICARDO
+
+289 RAMOS PÉREZ ANTONIO ENRIQUE
+
+290 RAYMUNDO HERNÁNDEZ CARLOS
+
+291 RESÉNDIZ FERREIRA IVÁN
+
+292 REYES CABALLERO JORGE
+
+293 REYES FUENTES GAMALIEL
+
+294 REYES HUERTA DENIS
+
+295 REYES INIESTA XAVIER ESTEBAN
+
+296 REYES JUÁREZ VÍCTOR HUGO
+
+297 REYES MENDIOLA ALEJANDRO
+
+298 REYES MONSIVÁIS JESÚS DEMETRIO
+
+299 REYES VERA PAZ ÓSCAR FRANCISCO
+
+300 REYES ZÁRATE JOSÉ RODOLFO
+
+301 RÍOS ARTEAGA FRANCISCO HERMENEGILDO
+
+302 RIVERA BELTRÁN MÓNICA JOSEFINA
+
+303 RIVERA MORALES ISRAEL
+
+304 RIVERA NAMBO ÉRICA
+
+305 ROA ZEPEDA JULIO CÉSAR
+
+306 ROBLEDO ÁNGELES JAVIER
+
+307 ROBLES AGUILERA FRANCISCO SALVADOR
+
+308 RODRÍGUEZ GARCÍA ALEJANDRO
+
+309 RODRÍGUEZ LARA JORGE HUMBERTO
+
+310 RODRÍGUEZ MORENO JOSÉ SAÚL
+
+311 RODRÍGUEZ PASCACIO JUAN JOSÉ
+
+312 RODRÍGUEZ RIVERA JOSÉ ALBERTO
+
+313 RODRÍGUEZ SALAS JANETT
+
+314 ROJAS FLORENCIO ELOY
+
+315 ROMAY PUGA ROGELIO
+
+316 ROMERO MEJÍA MARIO HAZAEL
+
+317 ROMERO MENDOZA RICARDO ILHUICAMINA
+
+318 ROSALES HERNÁNDEZ JOSÉ JUAN
+
+319 ROSAS GODOY ROBERTO EMILIO
+
+320 RUBIO GONZÁLEZ MARTÍN AURELIO
+
+321 RUBIO YÁÑEZ FRANCISCO
+
+322 RUIZ FLORES DANIEL
+
+323 RUIZ VELASCO MARIO ALBERTO
+
+324 RUIZ VELÁZQUEZ MAURICIO
+
+325 SALDAÑA BRAMBILA HERNÁN DARÍO
+
+326 SALDAÑA HERNÁNDEZ JORGE ERICK
+
+327 SALGADO MANJARREZ JOSÉ ALFREDO
+
+328 SALINAS COLÍN ERNESTO ALFONSO
+
+329 SALINAS DÍAZ JOSÉ IGNACIO
+
+330 SALINAS PINA JESÚS
+
+331 SAMPERIO VALENCIA IGNACIO
+
+332 SÁNCHEZ ACOSTA ISMAEL
+
+333 SÁNCHEZ AGUIRRE RAÚL
+
+334 SÁNCHEZ ALDANA MÉNDEZ BENITO JAVIER
+
+335 SÁNCHEZ ESCAMILLA MARIO
+
+336 SÁNCHEZ FRANCISCO JULIO ROBERTO
+
+337 SÁNCHEZ GUILLÉN MARCO AURELIO
+
+338 SÁNCHEZ LAZCANO JAVIER
+
+339 SÁNCHEZ MARTÍNEZ PABLO
+
+340 SÁNCHEZ MORGAN ROSA DALIA ALICIA
+
+341 SÁNCHEZ REYES DANIEL
+
+342 SÁNCHEZ VÁZQUEZ CARLOS
+
+343 SANTACRUZ SOTOMAYOR HÉCTOR
+
+344 SANTIAGO DELGADO CÉSAR
+
+345 SANTIAGO LUIS ABEL
+
+346 SANTIBÁÑEZ CAMARILLO JOSÉ ANTONIO
+
+347 SANTOS DORANTES RICARDO ALFONSO
+
+348 SANTOS LOYOLA CÉSAR ELADIO
+
+349 SANTOYO CASTRO ENRIQUE ALEJANDRO
+
+350 SEDANO OSORIO JAIME
+
+351 SEGURA ALFARO JORGE EDUARDO
+
+352 SEGURA PÉREZ MAURICIO
+
+353 SERRANO GARCÍA GUSTAVO
+
+354 SILVA ESTRADA CÉSAR MIGUEL
+
+355 SIQUEIROS SIDAS ALBERTO
+
+356 SOLÍS MALDONADO VÍCTOR JESÚS
+
+357 SOLÍS MONROY ARMANDO AGUSTÍN
+
+358 SOLORIO BANDA LICURGO DANIEL
+
+359 SONQUI CORRAL JOEL
+
+360 SORIANO ESPARZA MARIO IVÁN
+
+361 SOTO MONTENEGRO VÍCTOR MANUEL
+
+362 TEJEDA VILLA JOAQUÍN ALBERTO
+
+363 TOPETE OROZCO MARCO ANTONIO
+
+364 TORRES LÓPEZ VLADIMIR ASSAEL
+
+365 TORRES MARTÍNEZ ALEJANDRO
+
+366 TORRES MORALES ÓSCAR
+
+367 TORRES SALDAÑA RICARDO AGUSTÍN
+
+368 TREJO MARTÍNEZ JOSÉ
+
+369 URBINA CAMACHO ISAÍ
+
+370 UREÑA VIZUETT ARTURO
+
+371 VALDEZ LARA JUAN ÁLVARO
+
+372 VALDEZ REYES RICARDO
+
+373 VALLARTA ESQUIVEL CONRADO
+
+374 VALLE MÁRQUEZ JESÚS NAPOLEÓN
+
+375 VALLE CASTRO ARTURO
+
+376 VÁZQUEZ ALONSO ALEJANDRO ALONSO
+
+377 VÁZQUEZ TORRES JORGE ULISES
+
+378 VEGA MADRID RODRIGO JESÚS
+
+379 VELASCO JARAMILLO GUADALUPE ANTONIO
+
+380 VELÁZQUEZ MARTÍNEZ ENRIQUE
+
+381 VERA TAPIA AMADEO
+
+382 VILLA HERNÁNDEZ ANDRÉS IVÁN
+
+383 VILLADA RAMÍREZ GABRIEL
+
+384 VILLAFUENTES PEÑA JUAN MIGUEL
+
+385 VILLARREAL GATICA RENÉ SEBASTIÁN
+
+386 VILLARREAL PARRA MARCO ANTONIO
+
+387 VITELA QUIRARTE HÉCTOR
+
+388 YÁÑEZ DE LA CRUZ AURELIO DANIEL
+
+389 ZAMORA BARRÓN JORGE XAVIER
+
+390 ZÚÑIGA CURIEL JOSÉ ÉRICK
+
+SEGUNDO. En relación con la Base Vigésima séptima, inciso b) punto 3, de la Convocatoria, se hace de su conocimiento a las personas admitidas al Primer Concurso Interno de Oposición para la designación de Juezas y Jueces de Distrito Especializados en el Sistema Penal Acusatorio, conforme a la reforma judicial, que deberán presentarse a partir de las 9:00 horas, tiempo de la Ciudad de México, el martes 9 de enero de 2024, en la Sede Central de la Escuela Federal de Formación Judicial, ubicada en Sidar y Rovirosa 236, Colonia Del Parque, Alcaldía Venustiano Carranza, Ciudad de México, C.P. 15960, para su identificación y registro. Lo anterior para proceder a la aplicación del cuestionario correspondiente a la primera etapa, el cual dará inicio a las 10:00 horas.
+
+La Escuela Federal de Formación Judicial dará a conocer a las personas participantes, el horario en el que deberán presentarse para llevar a cabo su identificación y registro, mediante el correo electrónico que al efecto proporcionaron en su formato de inscripción.
+
+TERCERO. En términos de la Base Sexta de la Convocatoria, para identificarse las personas participantes deberán presentar inexcusablemente cualquiera de los siguientes documentos vigentes y en original: credencial del Poder Judicial de la Federación (resellada), credencial para votar, pasaporte y cédula profesional con fotografía.
+
+## TRANSITORIO
+
+ÚNICO. En cumplimiento de lo dispuesto en la Base Vigésima cuarta de la Convocatoria publíquese la presente lista en el Diario Oficial de la Federación y en la página web de la Escuela Federal de Formación Judicial, otorgándose a la primer de ellas el carácter de notificación para todas las personas participantes, tanto para las admitidas como para las que no lo fueron.
+
+EL MAGISTRADO JOSÉ ALFONSO MONTALVO MARTÍNEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo del Pleno del Consejo de la Judicatura Federal por el que se determina la lista de personas admitidas al Primer concurso interno de oposición para la designación de juezas y jueces de Distrito especializados en el sistema penal acusatorio, conforme a la reforma judicial, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de 29 de noviembre de 2023, por unanimidad de votos de los señores Consejeros: Presidenta Ministra Norma Lucía Piña Hernández, Bernardo Bátiz Vázquez, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé, Lilia Mónica López Benítez, Celia Maya García y Sergio Javier Molina Martínez.- Ciudad de México, a 30 de noviembre de 2023.- Conste.- Rúbrica.
