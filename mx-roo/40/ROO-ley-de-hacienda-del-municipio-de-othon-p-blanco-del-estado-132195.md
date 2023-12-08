@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-othon-p-blanco-del-estado-1321
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2022-12-17"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE OTHÓN P. BLANCO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número 24 del Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
 
@@ -889,51 +889,15 @@ p) Por placas de demostración: 6.9 UMA
 
 Tratándose del derecho vehicular del inciso a) al n) deberán pagar en un plazo de 30 días hábiles, en el caso del inciso o), el plazo del pago será los primeros tres meses de cada año.
 
-III. Por la expedición, renovación y reposición de licencias para conducir vehículos de motor cada:
+III. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2023)
 
-a) Dos años:
+IV. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2023)
 
-1. Licencia de servicio público de Transporte de Pasajeros de Autobuses Urbanos: 5.05 UMA
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-2. Licencia de chofer: 6.3 UMA
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-3. Licencia de automovilista: 5.7 UMA
-
-4. Licencia de motociclista: 2.6 UMA
-
-b) Tres años:
-
-1. Licencia de servicio público de Transporte de Pasajeros de Autobuses Urbanos: 7.6 UMA
-
-2. Licencia de chofer: 9.5 UMA
-
-3. Licencia de automovilista: 8.6 UMA
-
-4. Licencia de motociclista: 3.8 UMA
-
-c) Cuatro años:
-
-1. Licencia de servicio público de Transporte de Pasajeros de Autobuses Urbanos: 10.1 UMA
-
-2. Licencia de chofer: 12.6 UMA
-
-3. Licencia de automovilista: 11.4 UMA
-
-4. Licencia de motociclista: 5.05 UMA
-
-d) Cinco años:
-
-1. Licencia de servicio público de Transporte de Pasajeros de Autobuses Urbanos: 12.6 UMA
-
-2. Licencia de chofer: 15.75 UMA
-
-3. Licencia de automovilista: 14.2 UMA
-
-4. Licencia de motociclista: 6.3 UMA
-
-IV. Permiso provisional para manejar sin licencia por 30 días: 1.10 UMA
-
-Tratándose de personas afiliadas al Instituto Nacional para las Personas Adultas Mayores que acrediten su vigencia, gozarán del 50% de descuento en los pagos a que se refiere esta fracción.
+Los ayuntamientos podrán continuar con la expedición, renovación y reposición de licencias y permisos para conducir vehículos, únicamente previa firma de convenio de coordinación con el Estado a través del Instituto de Movilidad del Estado de Quintana Roo.
 
 V. Por arrastre de grúa: 9.10 UMA
 
@@ -973,11 +937,13 @@ Los vehículos que circulen en el municipio, deberán sujetarse a inspección se
 
 Los vehículos que transporten pasajeros estarán sujetos a la inspección sanitaria, por la cual cubrirán los derechos correspondientes.
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 #### SECCIÓN V. DE LAS LICENCIAS PARA CONDUCIR VEHÍCULOS DE MOTOR
 
 ###### Artículo 72.
 
-No podrán conducirse vehículos de motor sin obtenerse previamente la licencia de manejo respectivo. Esta se otorgará después de que la persona interesada haya sido aprobada en el examen médico y de competencia, que se practicará previo pago de los derechos respectivos.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2023)
 
 #### SECCIÓN VI. DE LAS EXENCIONES
 
@@ -3186,3 +3152,11 @@ P.O. 17 DE DICIEMBRE DE 2022.
 PRIMERO. El presente decreto, entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 136 POR EL QUE SE DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE BACALAR DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE COZUMEL DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE JOSÉ MARÍA MORELOS DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE OTHÓN P. BLANCO DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE PUERTO MORELOS DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE SOLIDARIDAD DEL ESTADO DE QUINTANA ROO Y LA LEY DE HACIENDA DEL MUNICIPIO DE TULUM DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
