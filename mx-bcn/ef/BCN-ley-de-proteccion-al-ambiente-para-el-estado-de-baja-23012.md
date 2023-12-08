@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2023-03-31"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -227,17 +227,23 @@ V. En su caso, los organismos públicos de competencia estatal o Municipal que a
 
 Estas autoridades ejercerán sus facultades de conformidad con lo que dispone esta Ley, lo que establezcan otros ordenamientos legales y en su caso, con lo que establezcan los acuerdos o convenios de coordinación que en términos de las leyes aplicables se celebren entre el Ejecutivo del Estado, la Federación y los Municipios, conjunta o separadamente.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 6.
 
-Para la aplicación de la presente Ley, el Ejecutivo del Estado contará con la Secretaría, como lo dispone la Ley Orgánica de la Administración Pública del Estado, con funciones de autoridad en todo lo relativo a la prevención, preservación y restauración del equilibrio ecológico y protección al ambiente.
+Para la aplicación de la presente Ley, el Ejecutivo del Estado contará con la Secretaría, como lo dispone la Ley Orgánica del Poder Ejecutivo del Estado de Baja California, con funciones de autoridad en todo lo relativo a la prevención, preservación y restauración del equilibrio ecológico y protección al ambiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 7.
 
-El titular de la Secretaría, será nombrado por el Gobernador del Estado, debiendo reunir, además de los requisitos a que se refiere la Ley Orgánica de la Administración Pública del Estado, los siguientes:
+La Persona Titular de la Secretaría, será nombrada por la Persona Titular del Ejecutivo del Estado, debiendo reunir, además de los requisitos a que se refiere la Ley Orgánica del Poder Ejecutivo del Estado de Baja California, los siguientes:
 
 I. Contar con estudios relacionados con la materia ambiental;
 
 II. Tener experiencia en la administración o coordinación de acciones relativas a la materia ambiental.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 8.
 
@@ -255,7 +261,9 @@ V. Promover la creación de instrumentos económicos que incentiven el cumplimie
 
 VI. Promover la creación de un fondo para la investigación científica y tecnológica de aquellos asuntos que en materia ambiental se consideren de interés para el Estado, en coordinación con las autoridades y dependencias correspondientes;
 
-VII. Promover convenios de coordinación administrativa con otros Estados, y en su caso, con el Gobierno del Distrito Federal con el propósito de atender y resolver problemas ambientales comunes y ejercer las atribuciones a que se refiere esta Ley, a través de las instancias que al efecto se determinen, atendiendo a lo dispuesto en las leyes locales que resulten aplicables;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+VII. Promover convenios de coordinación administrativa con otros estados, y en su caso, con el Gobierno de la Ciudad de México con el propósito de atender y resolver problemas ambientales comunes y ejercer las atribuciones a que se refiere esta Ley, a través de las instancias que al efecto se determinen, atendiendo a lo dispuesto en las leyes locales que resulten aplicables;
 
 VIII. Promover acuerdos o convenios de coordinación y descentralización con los municipios, con el objeto de que estos asuman las funciones y atribuciones contenidas en la presente Ley y la Ley general y aquellos que tengan como finalidad la realización de acciones conjuntas orientadas a dar cumplimiento a las disposiciones de esta Ley;
 
@@ -541,59 +549,35 @@ VIII. Promover consultas en materia ambiental, a solicitud o en coordinación co
 
 Para apoyar y orientar las acciones que realiza el Ejecutivo del Estado en cumplimiento del objeto de la presente Ley, se crea el Consejo, como un órgano normativo y de equilibrio entre sociedad y gobierno. El Consejo es la autoridad estatal encargada de la supervisión de los planes y programas de la Secretaría y de enriquecer y ampliar las alternativas de solución a la problemática que en la materia se presenten en el Estado, así como promover la coordinación entre el Estado y los Municipios en la participación de la sociedad en la solución.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 18.
 
 El Consejo, quedará integrado de la siguiente forma:
 
-I. El Gobernador del Estado, que fungirá como presidente;
+I. La Persona Titular del Poder Ejecutivo del Estado, que fungirá como presidente;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+II. La Persona Titular de la Secretaría, que fungirá como secretario;
 
-II. El titular de la Secretaría, quien fungirá como suplente del presidente en ausencia;
+III. La Persona Titular de la Secretaría de Hacienda;
 
-III. El titular de la Secretaría de Planeación y Finanzas;
+IV. La Persona Titular de la Secretaría de Educación
 
-IV. El Titular de la Secretaría de Educación;
+V. La Persona Titular de la Secretaría de Economía e Innovación;
 
-V. El titular de la Secretaría de Desarrollo Económico;
+VI. La Persona Titular de la Secretaría de Turismo;
 
-VI. El titular de la Secretaría de Turismo;
+VII. La Persona Titular de la Secretaría de Agricultura y Desarrollo Rural;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+VIII. La Persona Titular de la Secretaría de Pesca y Acuacultura;
 
-VII. El titular de la Secretaría de Fomento Agropecuario;
+IX. La o el Presidente de la Comisión del Congreso del Estado responsable de la materia ambiental,
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+X. Una persona ciudadana por cada uno de los municipios, electos mediante procedimientos participativos y transparentes; y,
 
-VIII. El titular de la Secretaría de Pesca y Acuacultura;
+XI. La Persona Titular del área de Protección al Ambiente de cada uno de los gobiernos municipales.
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2013)</small>
-
-IX. El Presidente de la Comisión del Congreso del Estado responsable de la materia ambiental,
-
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2013)</small>
-
-X. Un ciudadano por cada uno de los municipios, electos mediante procedimientos participativos y transparentes; y
-
-> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2013)</small>
-
-XI. El titular del área de Protección al Ambiente de cada uno de los gobiernos municipales.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE MARZO DE 2016)</small>
-
-EI subsecretario de Protección al Ambiente fungirá como Secretario del Consejo Estatal, con voz, y sin voto, cuando el titular de la Secretaría funja como presidente del Consejo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE MARZO DE 2016)</small>
-
-Los integrantes del Consejo designarán por escrito a un suplente con funciones de propietario para que cubra sus ausencias temporales.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE MARZO DE 2016)</small>
-
-Para el mejor desempeño de sus funciones, el Secretario de Protección al Ambiente designará y removerá libremente a un Secretario Técnico, cuyas funciones estarán establecidas en el reglamento.
-
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
-
-Los puestos ocupados por los integrantes ciudadanos del Consejo serán honoríficos. Los apoyos que sus integrantes ciudadanos deban recibir para el mejor ejercicio de sus funciones, serán establecidos en el reglamento.
+Los puestos ocupados por las personas integrantes ciudadanas del Consejo serán honoríficos. Los apoyos que sus integrantes ciudadanas y ciudadanos deban recibir para el mejor ejercicio de sus funciones, serán establecidos en el reglamento.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
@@ -3356,3 +3340,9 @@ P.O. 31 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 220 POR EL QUE SE APRUEBA LA REFORMA A LOS ARTÍCULOS 168, 169, 171, 178, 182, 185, 187 Y 191 BIS A LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 333 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6, 7, 8, Y 18 DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
