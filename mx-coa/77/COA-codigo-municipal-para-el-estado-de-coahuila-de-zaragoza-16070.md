@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2021-06-01"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -959,9 +959,13 @@ j) Expedir los reglamentos y disposiciones administrativas que fueren necesarios
 
 5. Preservar, conservar y restaurar el medio ambiente.
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-Los ayuntamientos tienen la obligación de proteger y brindar un trato digno a los animales, así como promover mediante programas y campañas de difusión la cultura de protección a los animales, consistente en valores y conductas de respeto por parte del ser humano hacia los animales.
+Los ayuntamientos tienen la obligación de proteger y brindar un trato digno a los seres sintientes, así como promover mediante programas y campañas de difusión la cultura de protección a los seres sintientes, de adopción e integración digna a labores de seguridad, asistencia o servicio teniendo como base valores y conductas de respeto por parte del ser humano hacia los seres sintientes.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+Brindar condiciones dignas del centro de control animal respecto de la limpieza y aseguramiento de los seres sintientes en posesión.
 
 6. Participar en la creación y administración de las zonas ecológicas y áreas naturales protegidas de competencia local.
 
@@ -1517,7 +1521,9 @@ III. Plantear estrategias para impulsar las campañas para la prevención y trat
 
 IV. Supervisión de la prestación de los servicios médicos para los trabajadores del ayuntamiento;
 
-V. Vigilar la protección y el trato digno que deben tener en los centros antirrábicos hacía los animales, y coadyuvar en la promoción y difusión de la cultura cívica de protección, responsabilidad y trato digno a los animales, y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+V. Vigilar la protección y el trato digno que deben tener en los centros antirrábicos hacía los seres sintientes, sobre su adopción, integración y adiestramiento de aquellos con aptitudes laborales, de asistencia o servicio y coadyuvar en la promoción y difusión de la cultura cívica de protección, responsabilidad y trato digno a los seres sintientes; y
 
 VI. Las demás que le señale el Ayuntamiento, este código u otras disposiciones aplicables.
 
@@ -1535,7 +1541,11 @@ IV. Emitir opinión en relación con los programas de seguridad pública y trán
 
 V. Proponer acciones de prevención de la violencia con perspectiva de género para la elaboración de políticas públicas municipales,
 
-VI. Las demás que le señale el Ayuntamiento, este código u otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+VI. Proponer políticas públicas de seguridad para integrar a los seres sintientes deambulantes, comunitarios o en posesión de los centros de control animal que muestren aptitudes de servicio para la seguridad.
+
+VII. Las demás que le señale el Ayuntamiento, este código u otras disposiciones aplicables.
 
 ## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
@@ -5278,3 +5288,9 @@ P.O. 1 DE JUNIO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 568.- SE REFORMA EL SEGUNDO PÁRRAFO DEL NUMERAL 5 DE LA FRACCIÓN III, DEL ARTÍCULO 102 Y LA FRACCIÓN V DEL ARTÍCULO 113 BIS-4; SE ADICIONA UN TERCER PÁRRAFO AL NUMERAL 5 DE LA FRACCIÓN III, DEL ARTÍCULO 102, Y LA FRACCIÓN VI, RECORRIÉNDOSE LA ULTERIOR DEL ARTÍCULO 113 BIS-5 DEL CÓDIGO MUNICIPAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
