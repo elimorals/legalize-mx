@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-y-trato-digno-a-los-seres-sintientes-para-967
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-29"
-last_updated: "2022-07-15"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY DE PROTECCION Y TRATO DIGNO A LOS SERES SINTIENTES PARA EL ESTADO DE COAHUILA DE ZARAGOZA --ANTES: LEY DE PROTECCION Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA--
 
-LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+LEY DE PROTECCIÓN Y TRATO DIGNO A LOS SERES SINTIENTES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 29 de noviembre de 2013.
 
@@ -35,17 +35,19 @@ DECRETA:
 
 NÚMERO 332.-
 
-LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+LEY DE PROTECCIÓN Y TRATO DIGNO A LOS SERES SINTIENTES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 ## TITULO I
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 1.
 
-La presente ley es de orden público e interés general y de observancia obligatoria en todo el territorio del Estado y tiene por objeto establecer las bases que permitan brindar la debida protección y trato digno a los animales que se encuentren en el Estado de Coahuila de Zaragoza.
+La presente ley es de orden público e interés general y de observancia obligatoria en todo el territorio del Estado y tiene por objeto establecer las bases que permitan brindar la debida protección y trato digno a los seres sintientes que se encuentren en el Estado de Coahuila de Zaragoza.
 
 > <small>(ADICIONADO, P.O. 21 DE ENERO DE 2020)</small>
 
@@ -59,189 +61,219 @@ Las disposiciones de esta Ley tendrán los siguientes objetivos:
 
 I.- Proteger a la fauna en general erradicando y sancionando los actos de crueldad, mutilación estética, modificación corporal, abandono explotación o maltrato provocados por seres humanos.
 
-II.- Fomentar las condiciones para el trato digno de todas las especies de animales;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+II.- Fomentar las condiciones para el trato digno de todas las especies de seres sintientes;
 
 III.- Regular la posesión, propiedad, reproducción, producción, aprovechamiento, investigación, transporte y sacrificio de especies, poblaciones o ejemplares;
 
 IV.- Desarrollar los mecanismos de concurrencia entre los Gobiernos Federal, Estatal y Municipales, en materia de conservación de la fauna silvestre y su hábitat, de conformidad con las disposiciones generales aplicables;
 
-V.- Impulsar el desarrollo urbano, previniendo los brotes de zoonosis y preservando la vida animal;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+V.- Impulsar el desarrollo urbano, previniendo los brotes de zoonosis y preservando la vida (sic) seres sintientes;
 
 VI.- Fomentar y promover por todos los medios posibles la participación de los sectores público, privado y social para la observancia de la presente Ley; y
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-VII. Apoyar la creación y regular el funcionamiento de asociaciones protectoras de animales.
+VII. Apoyar la creación y regular el funcionamiento de asociaciones protectoras de seres sintientes.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 3.
 
-Son objeto de tutela y protección de esta Ley todos los animales, domésticos, silvestres en cautiverio y ferales que se encuentren en el Estado de Coahuila de Zaragoza.
+Son objeto de tutela y protección de esta Ley todos los seres sintientes, domésticos, silvestres en cautiverio y ferales que se encuentren en el Estado de Coahuila de Zaragoza.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 4.
 
 Para los efectos de esta Ley, las siguientes expresiones se entenderán en la forma y términos que se indican:
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2020)</small>
+I. Adopción: contrato verbal o escrito entre un tutor y una organización de carácter civil, dependencia gubernamental o particular, mediante el cual el tutor de un ser sintiente adquiere los derechos y obligaciones respecto al mismo, y cuyo objetivo será el de asegurar y proteger las condiciones futuras del ser sintiente, su destino, velando siempre por el bienestar de los seres sintientes;
 
-I.- Animal: Todo ser vivo, no humano, que posee movilidad propia, que siente y reacciona ante el dolor y a los estímulos del medio ambiente;
+II. Área Técnica: Área Técnica de Protección y Sanidad Animal y Control de Especies Animales
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2020)</small>
+III. Asociaciones protectoras de seres sintientes: Las instituciones, organizaciones y asociaciones civiles legalmente constituidas que dediquen sus actividades a la protección de los seres sintientes;
 
-II.- Animal abandonado: Los animales que deambulen libremente por la vía pública sin placa de identificación u otra forma de identificación, así como aquellos que se encuentren sin el control y cuidados adecuados de sus propietarios;
+IV. Bienestar del ser sintiente: Estado en el que el ser sintiente tiene satisfechas sus necesidades bilógicas, de salud, de comportamiento y fisiológicas, frente a cambios en su ambiente generalmente impuestos por el ser humano;
 
-III.- Animal de trabajo: Aquellos animales que se utilizan para beneficio del ser humano realizando trabajo físico, tales como, los utilizados para actividades de carga, tiro, monta, labranza, tracción; o aquellos que han sido adiestrados para obedecer instrucciones o estar condicionados a lograr fines específicos, ya sea de forma independiente o en conjunto con su tutor, como guía para personas con discapacidad, zooterapia, operativos, búsqueda de sustancias y detección de explosivos, enfermedades neoplásicas y/o de apoyo para disuasión y persecución, de guardia, de defensa, de rescate y para uso policiaco;
+V. Campañas Fitosanitarias: Es un conjunto de medidas fitosanitarias para la Prevención, combate y erradicación de plagas que afecten a los vegetales en un área geográfica determinada;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2020)</small>
+VI. Campañas Zoosanitarias: Es un conjunto de medidas y acciones sanitarias para prevenir, detectar, combatir, o erradicar enfermedades o plagas que afecten a los seres sintientes en un área geográfica determinada;
 
-IV.- Animales domésticos: Aquellos animales criados bajo la compañía y cuidado del ser humano, que por sus características evolutivas y de comportamiento puedan convivir con un ser humano en un ambiente doméstico y que no requiera de los cuidados propios y permisos necesarios para los animales silvestres en cautiverio;
+VII. Campañas: Acciones públicas realizadas de manera periódica y sistemática por la Autoridad o por quien la misma asigne, para el control, prevención o erradicación de alguna epizootia, zoonosis o epidemia; para controlar la población de seres sintientes o para difundir el trato digno y respetuoso a los seres sintientes;
 
-V.- Animal de compañía: animal que por sus características físicas y de comportamiento puede convivir en proximidad con el ser humano, sin poner en peligro la seguridad o la vida de las personas o de otros animales; esta definición incluye solo a los perros y gatos;
+VIII. CARA.- Centros de atención y rehabilitación animal;
 
-VI.- Adopción: contrato verbal o escrito entre un tutor y una organización de carácter civil, dependencia gubernamental o particular, mediante el cual el tutor de un animal adquiere los derechos y obligaciones respecto al mismo, y cuyo objetivo será el de asegurar y proteger las condiciones futuras del animal, su destino, velando siempre por el bienestar animal;
+IX. Caudectomía: Cirugía con fines zootecnistas en algunas razas de perros para corregir el tamaño de la cola, mejorando la condición de vida y trabajo de estos seres sintientes;
 
-VII.- Animales exóticos: Aquellos que se encuentran fuera de su ámbito de habitad natural, lo que incluye a los híbridos y modificados;
+X. Centros de Control Animal: Los lugares públicos destinados para la captura, esterilización, vacunación, desparasitación, atención médica veterinaria y albergue;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2020)</small>
+XI. Cirugía con fines zootécnicos: Procedimiento quirúrgico realizado por un Médico Veterinario Zootecnista, dando prioridad al bienestar del ser sintiente, con el objeto de precisar o corregir indicadores morfológicos y/o fisiológicos inherentes a las características zootécnicas de los seres sintientes;
 
-VIII.- Animales ferales: Aquellos animales domésticos que, al quedar fuera del control del ser humano, se establecen en el hábitat natural de la vida silvestre, así como sus descendientes nacidos en este hábitat;
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN XIII, VÉASE P.O. DE 8 DE DICIEMBRE DE 2023, PÁGINA 69.]</small>
 
-IX.- Animal guía: Los animales que son adiestrados con el fin de apoyar a las personas con discapacidad;
+XII. Cirugía correctiva: Procedimiento que debe de ser realizado por un Médico Veterinario Zootecnista, en los casos que sea necesario, previa valoración y justificación médica;
 
-X.- Animales Potencialmente Peligrosos: Aquellos que por su conducta agresiva tengan la capacidad de causar la muerte o lesiones graves a las personas, de acuerdo a los criterios que establezca el reglamento respectivo;
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN XII, VÉASE P.O. DE 8 DE DICIEMBRE DE 2023, PÁGINA 69.]</small>
 
-XI.- Animales silvestres: Según la Ley General de Vida Silvestre, las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes o ferales y por ello sean susceptibles de captura y apropiación;
+XIII. Cirugía correctiva: Procedimiento que debe de ser realizado por un Médico Veterinario Zootecnista, en los casos que sea necesario, previa valoración y justificación médica;
 
-XII.- Animales de exhibición: Todos aquellos, que se encuentran en cautiverio en zoológicos, aviarios, herpetarios, acuarios, ferias, granjas didácticas o cualquier otro tipo de colección de animales o especies similares ya sean de propiedad pública o privada;
+XIV. Cirugía de esterilización o castración: Procedimiento quirúrgico realizado por Médico Veterinario Zootecnista, con el fin de evitar la reproducción;
 
-XIII.- (DEROGADA, P.O. 26 DE JUNIO DE 2020)
+XV. Cordectomía: Cirugía o mutilación para evitar el ladrido, especialmente en perros;
 
-XIV.- Animales de guardia y protección: Los animales que son entrenados por personas debidamente autorizadas para realizar funciones de vigilancia, protección o guardia en establecimientos comerciales, casas-habitación o instituciones públicas y privadas, así como para ayudar a la detección de estupefacientes, armas, explosivos y demás acciones análogas;
+XVI. Crueldad: Todo acto de ensañamiento y/o de maltrato sistemático; cualquier acto u omisión directa o indirecta que, por cualquier medio, se provoque a un ser sintiente dolor innecesario y/o sufrimiento prolongado, ya sea que provoque o no muerte al ser sintiente;
 
-XV.- Animal para abasto: Todos aquellos animales que sirven para consumo y aprovechamiento del ser humano;
+XVII. Desungulación: Cirugía que consiste en el corte y extracción de la última falange de los dedos, especialmente en felinos domésticos para evitar daños provocados por el afilamiento de sus uñas;
 
-XVI.- Animal para espectáculos: Los animales mantenidos en cautiverio que son utilizados en espectáculos públicos o privados, bajo el adiestramiento del ser humano;
+XVIII. Enriquecimiento ambiental: es la adecuación del ambiente físico y social de un ser sintiente, como una parte importante para mejorar el comportamiento de estos, y debe ser considerado cuando los medios para la interacción social no están disponibles o cuando el ambiente físico de los seres sintientes se encuentra restringido;
 
-XVII.- Animales para la zooterapia: Son los animales que conviven con una o con un grupo de personas con fines terapéuticos y para el tratamiento de algunas enfermedades de tipo neurológico, psicológico y psiquiátrico entre otras;
+XIX. Epizootia: Enfermedad contagiosa que ataca a un número inusual de seres sintientes al mismo tiempo y lugar que se propaga con rapidez. Término equivalente en medicina a epidemia;
 
-XVIII.- Área Técnica: Área Técnica de Protección y Sanidad Animal y Control de Especies Animales;
+XX. Espectáculo circense: aquel realizado de manera fija o itinerante dentro de una carpa movible, ya sea público o privado;
 
-XIX.- Asociaciones protectoras de animales: Las instituciones, organizaciones y asociaciones civiles legalmente constituidas que dediquen sus actividades a la protección de los animales;
+XXI. Esterilización: Proceso quirúrgico o químico, que se practica en los seres sintientes, para evitar su reproducción;
 
-XX.- Bienestar animal: Estado en el que el animal tiene satisfechas sus necesidades bilógicas, de salud, de comportamiento y fisiológicas, frente a cambios en su ambiente generalmente impuestos por el ser humano;
+XXII. Eutanasia: según la Norma Oficial Mexicana NOM-033-SAG/ZOO-2014, procedimiento empleado para terminar con la vida de los seres sintientes, por medio de la administración de agentes químicos o métodos mecánicos, que induzcan primero pérdida de la conciencia, seguida de paro cardiorrespiratorio, sin producirles dolor; con el fin de que éstos dejen de sufrir por lesiones o enfermedades graves e incurables, así como por dolor o sufrimiento que no puedan ser aliviados;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+XXIII. Fauna: Es el conjunto de seres sintientes característico de una región que viven y se desarrollan en un mismo hábitat;
 
-XXI.- Campañas: Acciones públicas y privadas realizadas de manera periódica y sistemática por asociaciones protectoras de animales, la Autoridad o por quien la misma asigne, para el control, prevención o erradicación de alguna epizootia, zoonosis o epidemia; para controlar la población y reproducción de animales o para promocionar y difundir el trato digno y respetuoso a los animales;
+XXIV. Hábitat: Es un espacio del medio ambiente físico en el que se desarrollan organismos, especies, población o comunidades de seres sintientes en un tiempo determinado;
 
-XXII.- Campañas Fitosanitarias: Es un conjunto de medidas fitosanitarias para la Prevención, combate y erradicación de plagas que afecten a los vegetales en un área geográfica determinada;
+XXV. Ley: La Ley de Protección y Trato Digno a los Seres Sintientes para el Estado de Coahuila de Zaragoza;
 
-XXIII.- Campañas Zoosanitarias: Es un conjunto de medidas y acciones sanitarias para prevenir, detectar, combatir, o erradicar enfermedades o plagas que afecten a los animales en un área geográfica determinada;
+XXVI. Maltrato: Todo hecho, acto u omisión, negligencia o descuido del ser humano, consciente o inconsciente, intencional o no, que pueda ocasionar dolor, sufrimiento, poner en riesgo la vida de un ser sintiente, su integridad o viabilidad de alguno de sus órganos o que afecten gravemente su salud;
 
-XXIV.- Cara: Centros de atención y rehabilitación animal;
+XXVII. Medicina Veterinaria o Veterinaria: Rama de la medicina que, basada en conocimientos científicos, tecnológicos, sociales, económicos y éticos, se ocupa de la profilaxis, diagnóstico, tratamiento y rehabilitación de las enfermedades que padecen los seres sintientes, así como, del control y erradicación de enzootias, epizootias y plagas que afectan a los mismos, salvaguardando su salud y bienestar. De igual manera prevenir cualquier enfermedad o daño que los seres sintientes puedan transmitir o generar en el ser humano.
 
-XXV.- Centros de Control Animal: Los lugares públicos destinados para la captura, esterilización, vacunación, desparasitación, atención médica veterinaria y albergue;
+XXVIII. Médico Veterinario Zootecnista: profesional de la salud del ser sintiente con título y cédula profesional;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2020)</small>
+XXIX. Mutilación estética: aquella con la que no se pretende curar una enfermedad o aliviar un padecimiento, se consideran mutilaciones estéticas la caudectomía, otectomía, cordectomía, desungulación, siempre y cuando no existe una patología, problema clínico o traumático que lo amerite, según informe de Médico Veterinario con cédula profesional vigente;
 
-XXVI.- Crueldad: Todo acto de ensañamiento y/o de maltrato sistemático; cualquier acto u omisión directa o indirecta que, por cualquier medio, se provoque a un animal dolor innecesario y/o sufrimiento prolongado, ya sea que provoque o no muerte al animal;
+XXX. Mutilación: Separación o corte de un miembro o una parte del cuerpo de un ser vivo que se produce en circunstancias violentas, cortar o cercenar una parte del cuerpo, y más particularmente del cuerpo viviente, sea con fines estéticos o castración;
 
-XXVII.- Enriquecimiento ambiental: es la adecuación del ambiente físico y social de un animal, como una parte importante para mejorar el comportamiento de estos, y debe ser considerado cuando los medios para la interacción social no están disponibles o cuando el ambiente físico de los animales se encuentra restringido;
+XXXI. Orquiectomía: Cirugía realizada por un médico veterinario zootecnista empleando las técnicas y medicamentos adecuados con fines de evitar la reproducción en machos.
 
-XXVIII.- Epizootia: Enfermedad contagiosa que ataca a un número inusual de animales al mismo tiempo y lugar que se propaga con rapidez. Término equivalente en medicina a epidemia;
+XXXII. Otectomía: Cirugía con fines zootécnicos para mejorar la audición de algunas razas de perros.
 
-XXIX.- (DEROGADA, P.O. 26 DE JUNIO DE 2020)
+XXXIII. Ovario histerectomía: Cirugía realizada por médicos veterinarios zootecnistas que consiste en retirar el útero y ovarios para evitar la reproducción en hembras.
 
-XXX.- Esterilización: Proceso quirúrgico o químico, que se practica en los animales, para evitar su reproducción;
+XXXIV. Plaga: Aparición masiva y repentina de seres vivos de la misma especie que causan graves daños a poblaciones de seres sintientes o vegetales;
 
-XXXI.- Eutanasia: según la Norma Oficial Mexicana NOM-033-SAG/ZOO-2014, procedimiento empleado para terminar con la vida de los animales, por medio de la administración de agentes químicos o métodos mecánicos, que induzcan primero pérdida de la conciencia, seguida de paro cardiorrespiratorio, sin producirles dolor; con el fin de que éstos dejen de sufrir por lesiones o enfermedades graves e incurables, así como por dolor o sufrimiento que no puedan ser aliviados;
+XXXV. Prevención: Conjunto de acciones y medidas para evitar el deterioro de la salud humana o de los seres sintientes, conservando el equilibrio ecológico;
 
-XXXII.- Fauna: Es el conjunto de animales característico de una región que viven y se desarrollan en un mismo hábitat;
+XXXVI. Procuraduría: Procuraduría de Protección al Ambiente del Estado de Coahuila de Zaragoza;
 
-XXXIII.- Hábitat: Es un espacio del medio ambiente físico en el que se desarrollan organismos, especies, población o comunidades de animales en un tiempo determinado;
+XXXVII. Rabia: Enfermedad viral infectocontagiosa aguda y mortal, transmitida por la saliva o sangre de algún ser sintiente contagiado;
 
-XXXIV.- Ley: La Ley de Protección y Trato Digno a los Animales para el Estado de Coahuila de Zaragoza;
+XXXVIII. Rastro: Establecimiento de servicio público o privado, donde se realiza la matanza de seres sintientes de abasto;
 
-XXXV.- Maltrato: Todo hecho, acto u omisión, negligencia o descuido del ser humano, consciente o inconsciente, intencional o no, que pueda ocasionar dolor, sufrimiento, poner en riesgo la vida de un animal, su integridad o viabilidad de alguno de sus órganos o que afecten gravemente su salud;
+XXXIX. Sacrificio humanitario: El sacrificio necesario con métodos humanitarios que se practica en cualquier ser sintiente de manera rápida, sin dolor ni sufrimiento innecesario utilizando métodos físicos y/o químicos, efectuado por personal capacitado, atendiendo a las normas oficiales mexicanas y las normas ambientales expedidas para tal efecto;
 
-XXXVI.- (DEROGADA, P.O. 21 DE ENERO DE 2020)
+XL. Salud: Equilibrio armónico, biológico, psicológico y social, además de la ausencia de enfermedad y el pleno ejercicio de sus facultades;
 
-XXXVII.- Mutilación estética: aquella con la que no se pretende curar una enfermedad o aliviar un padecimiento, se consideran mutilaciones estéticas la caudectomía, otectomía, cordectomía, desungulación, siempre y cuando no existe (sic) una patología, problema clínico o traumático que lo amerite, según informe de Médico Veterinario con cédula profesional vigente;
+XLI. Secretaría: Secretaría de Medio Ambiente del Estado de Coahuila de Zaragoza;
 
-XXXVIII.- Plaga: Aparición masiva y repentina de seres vivos de la misma especie que causan graves daños a poblaciones animales o vegetales;
+XLII. Ser sintiente abandonado: Los seres sintientes que deambulen libremente por la vía pública sin placa de identificación u otra forma de identificación, así como aquellos que se encuentren sin el control y cuidados adecuados de sus propietarios;
 
-XXXIX.- Prevención: Conjunto de acciones y medidas para evitar el deterioro de la salud humana o animal, conservando el equilibrio ecológico;
+XLIII. Ser sintiente de compañía: ser sintiente que por sus características físicas y de comportamiento puede convivir en proximidad con el ser humano, sin poner en peligro la seguridad o la vida de las personas o de otros seres sintientes; esta definición incluye solo a los perros y gatos;
 
-XL.- Procuraduría: Procuraduría de Protección al Ambiente del Estado de Coahuila de Zaragoza;
+XLIV. Ser sintiente de trabajo: Aquellos seres sintientes que se utilizan para beneficio del ser humano realizando trabajo físico, tales como, los utilizados para actividades de carga, tiro, monta, labranza, tracción; o aquellos que han sido adiestrados para obedecer instrucciones o estar condicionados a lograr fines específicos, ya sea de forma independiente o en conjunto con su tutor, como guía para personas con discapacidad, zooterapia, operativos, búsqueda de sustancias y detección de explosivos, enfermedades neoplásicas y/o de apoyo para disuasión y persecución, de guardia, de defensa, de rescate y para uso policiaco;
 
-XLI.- Rabia: Enfermedad viral infectocontagiosa aguda y mortal, transmitida por la saliva o sangre de algún animal contagiado;
+XLV. Ser sintiente guía: Los seres sintientes que son adiestrados con el fin de apoyar a las personas con discapacidad;
 
-XLII.- Rastro: Establecimiento de servicio público o privado, donde se realiza la matanza de animales de abasto;
+XLVI. Ser sintiente para abasto: Todos aquellos seres sintientes que sirven para consumo y aprovechamiento del ser humano;
 
-XLIII.- Sacrificio humanitario: El sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida, sin dolor ni sufrimiento innecesario utilizando métodos físicos y/o químicos, efectuado por personal capacitado, atendiendo a las normas oficiales mexicanas y las normas ambientales expedidas para tal efecto;
+XLVII. Ser sintiente para espectáculos: Los seres sintientes mantenidos en cautiverio que son utilizados en espectáculos públicos o privados, bajo el adiestramiento del ser humano;
 
-XLIV.- Salud: Equilibrio armónico, biológico, psicológico y social, además de la ausencia de enfermedad y el pleno ejercicio de sus facultades;
+XLVIII. Ser sintiente utilizado en espectáculos: seres sintientes de cualquier especie empleados en espectáculos públicos o privados, ya sea realizando actividades para las cuales se adiestraron previamente o sólo usados como cabalgata, espectáculos taurinos, peleas de gallos, charreadas y eventos religiosos;
 
-> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN XXXVI.]</small>
+XLIX. Ser sintiente: Todo ser vivo, no humano, que posee movilidad propia, que siente y reacciona ante el dolor y a los estímulos del medio ambiente;
 
-XLV.- Secretaría: Secretaría de Medio Ambiente del Estado de Coahuila de Zaragoza;
+L. Seres sintientes de exhibición: Todos aquellos, que se encuentran en cautiverio en zoológicos, aviarios, herpetarios, acuarios, ferias, granjas didácticas o cualquier otro tipo de colección de seres sintientes o especies similares ya sean de propiedad pública o privada;
 
-XLVI.- Sufrimiento: El padecimiento o dolor causado por daño físico o psicológico a cualquier animal;
+LI. Seres sintientes de guardia y protección: Los seres sintientes que son entrenados por personas debidamente autorizadas para realizar funciones de vigilancia, protección o guardia en establecimientos comerciales, casas-habitación o instituciones públicas y privadas, así como para ayudar a la detección de estupefacientes, armas, explosivos y demás acciones análogas;
 
-XLVII.- Trato digno: Las medidas que esta ley, establece para evitar el dolor o angustia de cualquier animal durante su posesión, propiedad, captura, crianza, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento y sacrificio;
+LII. Seres sintientes domésticos: Aquellos seres sintientes criados bajo la compañía y cuidado del ser humano, que por sus características evolutivas y de comportamiento puedan convivir con un ser humano en un ambiente doméstico y que no requiera de los cuidados propios y permisos necesarios para los seres sintientes silvestres en cautiverio;
 
-XLVIII.- Tutor: persona física o moral que es propietario o poseedor de un animal de compañía, y que adquiere voluntariamente la responsabilidad de un animal, ya sea temporal o permanente, obligándose con esto a garantizar el bienestar del animal. Para efectos de esta Ley, el tutor de un animal de compañía tendrá el tratamiento y la calidad de propietario o poseedor;
+LIII. Seres sintientes exóticos: Aquellos que se encuentran fuera de su ámbito de habitad (sic) natural, lo que incluye a los híbridos y modificados;
 
-XLIX.- Vehículos de tracción animal: carros, carretas, instrumentos de labranza, carretones o cualquier vehículo que tradicionalmente sea tirado o jalado por un equino;
+LIV. Seres sintientes ferales: Aquellos seres sintientes domésticos que, al quedar fuera del control del ser humano, se establecen en el hábitat natural de la vida silvestre, así como sus descendientes nacidos en este hábitat;
 
-L.- Vivisección: Procedimiento quirúrgico en animales vivos en condiciones asépticas y bajo los efectos de un anestésico con el fin de hacer estudios fisiológicos o investigaciones; y
+LV. Seres sintientes para la zooterapia: Son los seres sintientes que conviven con una o con un grupo de personas con fines terapéuticos y para el tratamiento de algunas enfermedades de tipo neurológico, psicológico y psiquiátrico entre otras;
 
-LI.- Zoonosis: Las enfermedades que se dan en los animales y son transmisibles al hombre en condiciones naturales.
+LVI. Seres sintientes potencialmente peligrosos: Aquellos que por su conducta agresiva tengan la capacidad de causar la muerte o lesiones graves a las personas, de acuerdo a los criterios que establezca el reglamento respectivo;
+
+LVII. Seres sintientes silvestres: Según la Ley General de Vida Silvestre, las especies de seres sintientes que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los seres sintientes domésticos que por abandono se tomen salvajes o ferales y por ello sean susceptibles de captura y apropiación;
+
+LVIII. Sufrimiento: El padecimiento o dolor causado por daño físico o psicológico a cualquier ser sintiente;
+
+LIX. Trato digno: Las medidas que esta ley, establece para evitar el dolor o angustia de cualquier ser sintiente durante su posesión, propiedad, captura, crianza, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento y sacrificio;
+
+LX. Tutor: persona física o moral que es propietario o poseedor de un ser sintiente de compañía, y que adquiere voluntariamente la responsabilidad de un ser sintiente, ya sea temporal o permanente, obligándose con esto a garantizar el bienestar del ser sintiente. Para efectos de esta Ley, el tutor de un ser sintiente de compañía tendrá el tratamiento y la calidad de propietario o poseedor;
+
+LXI. Vehículos de tracción para seres sintientes: carros, carretas, instrumentos de labranza, carretones o cualquier vehículo que tradicionalmente sea tirado o jalado por un equino;
+
+LXII. Vivisección: Procedimiento quirúrgico en seres sintientes vivos en condiciones asépticas y bajo los efectos de un anestésico con el fin de hacer estudios fisiológicos o investigaciones; y
+
+LXIII. Zoonosis: Las enfermedades que se dan en los seres sintientes y son transmisibles al hombre en condiciones naturales.
 
 ###### Artículo 5.
 
 Las autoridades encargadas de la aplicación de esta ley, podrán solicitar asesoría y apoyo profesional a dependencias y entidades fedérales, estatales y municipales así como instituciones, organismos y asociaciones que, por razón de su competencia, autoridad o conocimiento en el tema, puedan proporcionarlas.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 6.
 
-Para la formulación y conducción de la política estatal y demás instrumentos previstos en esta ley, en materia de protección y trato digno a los animales, se observará (sic) los siguientes principios:
+Para la formulación y conducción de la política estatal y demás instrumentos previstos en esta ley, en materia de protección y trato digno a los seres sintientes, se observará los siguientes principios:
 
-I.- Todos los animales tienen derecho a vivir y ser respetados;
+I.- Todos los seres sintientes tienen derecho a vivir y ser respetados;
 
-II.- Todos los animales tienen derecho a la protección, atención y a los cuidados del hombre;
+II.- Todos los seres sintientes tienen derecho a la protección, atención y a los cuidados del hombre;
 
-III.- Ningún ser humano puede exterminar a los animales o explotarlos para realizar trabajos más allá de aquellos que por sus características de especie pueda llevar a cabo;
+III.- Ningún ser humano puede exterminar a los seres sintientes o explotarlos para realizar trabajos más allá de aquellos que por sus características de especie pueda llevar a cabo;
 
-IV.- Todo animal de trabajo tiene derecho a una limitación razonable de tiempo e intensidad de trabajo, a una alimentación adecuada y al descanso; y
+IV.- Todo ser sintiente de trabajo tiene derecho a una limitación razonable de tiempo e intensidad de trabajo, a una alimentación adecuada y al descanso; y
 
-V.- Todo animal muerto debe tener una disposición adecuada.
+V.- Todo ser sintiente muerto debe tener una disposición adecuada.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 7.
 
-Las autoridades competentes, en el ámbito de sus facultades, promoverán mediante programas y campañas de difusión la cultura de protección a los animales, consistente en valores y conductas de respeto por parte del ser humano hacia los animales, con base en las disposiciones establecidas en la presente ley en materia de trato digno y respetuoso.
+Las autoridades competentes, en el ámbito de sus facultades, promoverán mediante programas y campañas de difusión la cultura de protección a los seres sintientes, consistente en valores y conductas de respeto por parte del ser humano hacia los seres sintientes, con base en las disposiciones establecidas en la presente ley en materia de trato digno y respetuoso.
 
-Asimismo, implementarán acciones pedagógicas, a través de proyectos y programas destinados a fomentar en los niños, jóvenes y la población en general, una cultura de buen trato, protección y respeto hacia los derechos de los animales.
+Asimismo, implementarán acciones pedagógicas, a través de proyectos y programas destinados a fomentar en los niños, jóvenes y la población en general, una cultura de buen trato, protección y respeto hacia los derechos de los seres sintientes.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 8.
 
-Las autoridades competentes para la aplicación de la presente ley, promoverán la capacitación y actualización del personal de su jurisdicción en el manejo de animales, así como de quienes participan en actividades de verificación y vigilancia, a través de cursos, talleres, reuniones, publicaciones y demás proyectos y acciones que contribuyan a los objetivos del presente capítulo.
+Las autoridades competentes para la aplicación de la presente ley, promoverán la capacitación y actualización del personal de su jurisdicción en el manejo de seres sintientes, así como de quienes participan en actividades de verificación y vigilancia, a través de cursos, talleres, reuniones, publicaciones y demás proyectos y acciones que contribuyan a los objetivos del presente capítulo.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 9.
 
-Corresponde a la Secretaría de Seguridad Pública, así como a las Direcciones de Seguridad Pública Municipal, según sea el caso, colaborar con la autoridad competente en las brigadas de vigilancia animal, para responder a las necesidades de protección y rescate de animales en situación de riesgo o maltrato.
+Corresponde a la Secretaría de Seguridad Pública, así como a las Direcciones de Seguridad Pública Municipal, según sea el caso, colaborar con la autoridad competente en las brigadas de vigilancia ser sintiente, para responder a las necesidades de protección y rescate de seres sintientes en situación de riesgo o maltrato.
 
 ### CAPITULO SEGUNDO. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 10.
 
-El Estado y los municipios, ejercerán sus atribuciones en materia de protección y trato digno a los animales, en el ámbito de sus respectivas competencias.
+El Estado y los municipios, ejercerán sus atribuciones en materia de protección y trato digno a los seres sintientes, en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 11.
 
-Son autoridades en la entidad en materia de protección a los animales:
+Son autoridades en la entidad en materia de protección a los seres sintientes:
 
 I.- La Secretaría;
 
@@ -257,7 +289,9 @@ Para los efectos de esta Ley, la Secretaría tendrá las siguientes atribuciones
 
 I.- Elaborar los ordenamientos y demás disposiciones necesarias para el cumplimiento de la presente Ley;
 
-II.- Celebrar convenios de coordinación con las autoridades Federales, Municipales y asociaciones protectoras de animales debidamente registradas, para la vigilancia de la misma; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+II.- Celebrar convenios de coordinación con las autoridades Federales, Municipales y asociaciones protectoras de seres sintientes debidamente registradas, para la vigilancia de la misma; y
 
 III.- Formular y expedir, con la participación de los municipios de la entidad los programas de educación, difusión y campañas, en las materias de la presente Ley.
 
@@ -265,13 +299,19 @@ III.- Formular y expedir, con la participación de los municipios de la entidad 
 
 La Procuraduría, tendrá las siguientes atribuciones:
 
-I.- Vigilar el debido cumplimiento de las disposiciones legales en materia de protección y trato digno a los animales;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+I.- Vigilar el debido cumplimiento de las disposiciones legales en materia de protección y trato digno a los seres sintientes;
 
 II.- Imponer en los términos previstos en la presente Ley, las sanciones que procedan por la comisión de infracciones, conforme a las disposiciones aplicables;
 
-III.- Supervisar, en la esfera de su competencia, el establecimiento y la operación de los centros de control animal y albergues;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-IV.- Recibir, turnar y en su caso atender y dar seguimiento a las quejas o denuncias de la población sobre situaciones de protección a los animales, en los términos previsto por esta ley; y
+III.- Supervisar, en la esfera de su competencia, el establecimiento y la operación de los Centros de Control Animal y Albergues;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+IV.- Recibir, turnar y en su caso atender y dar seguimiento a las quejas o denuncias de la población sobre situaciones de protección a los seres sintientes, en los términos previsto por esta ley; y
 
 V.- Las demás que las disposiciones legales le atribuyan.
 
@@ -281,33 +321,41 @@ V.- Las demás que las disposiciones legales le atribuyan.
 
 Los Ayuntamientos tendrán las siguientes atribuciones y obligaciones:
 
-I.- Aplicar las disposiciones jurídicas relativas a la protección y trato digno de los animales prevista (sic) en esta Ley;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-II.- Establecer y regular los centros de control animal;
+I.- Aplicar las disposiciones jurídicas relativas a la protección y trato digno de los seres sintientes prevista en esta Ley;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-III.- Formular, expedir y ejecutar campañas de esterilización, vacunación y adopción de animales de compañía, conjuntamente con las autoridades en materia de salud y medio ambiente, así como con las asociaciones protectoras de animales;
+II.- Establecer y regular los Centros de Control Animal;
 
-IV.- La promoción y difusión que genere una cultura cívica de protección, responsabilidad y trato digno a los animales;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2020)</small>
+III.- Formular, expedir y ejecutar campañas de esterilización, vacunación y adopción de seres sintientes de compañía, conjuntamente con las autoridades en materia de salud y medio ambiente, así como con las asociaciones protectoras de seres sintientes;
 
-V.- Celebrar convenios con la Secretaría de Salud y la Secretaría, para llevar a cabo las acciones necesarias para la protección a los animales.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+IV.- La promoción y difusión que genere una cultura cívica de protección, responsabilidad y trato digno a los seres sintientes;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+V.- Celebrar convenios con la Secretaría de Salud y la Secretaría, para llevar a cabo las acciones necesarias para la protección a los seres sintientes.
 
 VI.- Establecer y aplicar las medidas correctivas e imponer sanciones correspondientes por infracciones a la presente ley, sus reglamentos y demás disposiciones en el ámbito de sus respectivas competencias; y
 
 VII.- Integrar, clasificar y mantener actualizado el padrón municipal de animales.
 
-VIII.- Otorgar los permisos especiales para la reproducción de animales de compañía de raza, en los casos particulares.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2016)</small>
+VIII.- Otorgar los permisos especiales para la reproducción de seres sintientes de compañía de raza, en los casos particulares.
 
-IX.- Otorgar las licencias administrativas para la tenencia de Animales Potencialmente Peligrosos, de acuerdo al reglamento respectivo.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+IX.- Otorgar las licencias administrativas para la tenencia de seres sintientes potencialmente peligrosos, de acuerdo al reglamento respectivo.
 
-X.- Presentar, cada seis meses, un informe a la Secretaría de Salud y a la Secretaría, en relación al sacrificio de animales realizado en el municipio, el cual deberá contener, por lo menos, el número de animales sacrificados, el método y el lugar en el que se realizó el sacrificio y su disposición final.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+X.- Presentar, cada seis meses, un informe a la Secretaría de Salud y a la Secretaría, en relación al sacrificio de seres sintientes realizado en el municipio, el cual deberá contener, por lo menos, el número de seres sintientes sacrificados, el método y el lugar en el que se realizó el sacrificio y su disposición final.
 
 > <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
@@ -319,31 +367,33 @@ El Padrón Municipal de Animales estará a cargo de cada Municipio y llevará el
 
 I.- Las áreas técnicas;
 
-II.- Los centros de control animal y zoonosis;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+II.- Los Centros de Control Animal y zoonosis;
 
 III.- Los rastros;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-IV.- Las asociaciones protectoras de animales, veterinarias y clínicas de atención animal, los rescatistas independientes de animales, miembros y clubes de perros de raza, y entrenadores y adiestradores caninos para guardia y protección;
+IV.- Las asociaciones protectoras de seres sintientes, veterinarias y clínicas de atención para seres sintientes, los rescatistas independientes de seres sintientes, miembros y clubes de perros de raza, y entrenadores y adiestradores caninos para guardia y protección;
 
-V.- Los establecimientos para la venta de animales;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-VI.- Los sitios para cría, cuidado y resguardo de animales como son: Ranchos, haciendas, ganaderías, establos, clubes hípicos, granjas, albergues, escuelas de entrenamiento canino o similar;
+V.- Los establecimientos para la venta de seres sintientes;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+VI.- Los sitios para cría, cuidado y resguardo de seres sintientes como son: Ranchos, haciendas, ganaderías, establos, clubes hípicos, granjas, albergues, escuelas de entrenamiento canino o similar;
 
 VII.- Los certificados que se otorguen; y
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-VIII.- Los animales considerados potencialmente peligrosos;
+VIII.- Los seres sintientes considerados potencialmente peligrosos;
 
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2017)</small>
+Cualquier incidente producido por seres sintientes potencialmente peligrosos, conocidos por autoridades administrativas o judiciales, se hará constar en la hoja registral de cada ser sintiente.
 
-Cualquier incidente producido por animales potencialmente peligrosos, conocidos por autoridades administrativas o judiciales, se hará constar en la hoja registral de cada animal.
-
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2017)</small>
-
-Así mismo se hará constar en cada hoja registral un diagnóstico anual que acredite la situación sanitaria del animal y la inexistencia de enfermedades o trastornos que lo hagan especialmente peligroso.
+Así mismo se hará constar en cada hoja registral un diagnóstico anual que acredite la situación sanitaria del ser sintiente y la inexistencia de enfermedades o trastornos que lo hagan especialmente peligroso.
 
 > <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2016)</small>
 
@@ -353,27 +403,33 @@ IX.- Las demás que establezca el reglamento de la presente Ley;
 
 X.- Otras disposiciones aplicables.
 
-## TITULO II. DISPOSICIONES COMUNES PARA EL CUIDADO Y PROTECCIÓN DE LOS ANIMALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+## TÍTULO II. DISPOSICIONES COMUNES PARA EL CUIDADO Y PROTECCIÓN DE LOS SERES SINTIENTES
 
 ### CAPITULO PRIMERO. SANIDAD
 
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 16.
 
-Las actividades de sanidad animal tienen por objeto preservar la salud, así como prevenir, controlar y erradicar las enfermedades o plagas.
+Las actividades de sanidad de seres sintientes tienen por objeto preservar la salud, así como prevenir, controlar y erradicar las enfermedades o plagas.
 
-La inspección, verificación y supervisión del debido cumplimiento de las disposiciones aplicables en establecimientos dedicados al sacrificio de animales y procesamiento de bienes de origen animal de competencia estatal o municipal, se realizará a través de la Secretaría de Salud, de acuerdo a su ámbito de competencia.
+La inspección, verificación y supervisión del debido cumplimiento de las disposiciones aplicables en establecimientos dedicados al sacrificio de seres sintientes y procesamiento de bienes de origen animal de competencia estatal o municipal, se realizará a través de la Secretaría de Salud, de acuerdo a su ámbito de competencia.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 17.
 
-Con el objeto de prevenir, diagnosticar, controlar o erradicar la presencia de enfermedades y plagas de origen animal, y a efecto de mejorar y mantener las condiciones de salud para la fauna en el estado, se establecerán campañas zoosanitarias permanentes por parte de la Autoridad, en coordinación con asociaciones protectoras de animales y clínicas o centros veterinarios.
+Con el objeto de prevenir, diagnosticar, controlar o erradicar la presencia de enfermedades y plagas de origen de ser sintiente, y a efecto de mejorar y mantener las condiciones de salud para la fauna en el estado, se establecerán campañas zoosanitarias permanentes por parte de la Autoridad, en coordinación con asociaciones protectoras de seres sintientes y clínicas o centros veterinarios.
 
 ###### Artículo 18.
 
 Le corresponde a la Secretaría de Desarrollo Rural la implementación de campañas fitosanitarias y zoosanitarias.
 
-### CAPITULO SEGUNDO. PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO SEGUNDO. PROTECCIÓN Y TRATO DIGNO A LOS SERES SINTIENTES
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
@@ -383,129 +439,125 @@ Toda persona tiene la obligación de cumplir con lo siguiente:
 
 I.- Denunciar, ante las autoridades correspondientes, cualquier irregularidad o violación a la presente Ley, actos de maltrato o crueldad (sic) que incurra cualquier persona;
 
-II.- Promover en el entorno familiar la cultura de la protección, atención, trato digno y respetuoso de los animales;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-III.- Promover la cultura, protección, atención y trato digno a los animales a través de los comités ciudadanos y de los consejos del pueblo electos;
+II.- Promover en el entorno familiar la cultura de la protección, atención, trato digno y respetuoso de los seres sintientes;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-IV.- Contribuir voluntaria y directamente con el cuidado de los animales mediante acciones individuales que promuevan un ejemplo social de cuidado y trato digno hacia los animales, así mismo, participar en las instancias de carácter social y vecinal, que cuiden, asistan y protejan a los animales y;
+III.- Promover la cultura, protección, atención y trato digno a los seres sintientes a través de los comités ciudadanos y de los consejos del pueblo electos;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+IV.- Contribuir voluntaria y directamente con el cuidado de los seres sintientes mediante acciones individuales que promuevan un ejemplo social de cuidado y trato digno hacia los seres sintientes, así mismo, participar en las instancias de carácter social y vecinal, que cuiden, asistan y protejan a los seres sintientes y;
 
 V.- Cuidar y velar por la observancia y aplicación de la presente Ley.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 20.
 
 Queda prohibido en el Estado de Coahuila de Zaragoza por cualquier motivo:
 
-I.- El uso de animales vivos para prácticas de tiro;
+I.- El uso de seres sintientes vivos para prácticas de tiro;
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+II.- Las peleas de perros, o cualesquiera otros seres sintientes entre sí o con ejemplares de otra especie; a excepción de las peleas y el casteo de gallos en las que habrá de observarse las disposiciones legales aplicables;
 
-II.- Las peleas de perros, o cualesquiera otros animales entre sí o con ejemplares de otra especie; a excepción de las peleas y el casteo de gallos en las que habrá (sic) de observarse las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-III.- La venta ambulante, reiterada, de animales en general, fuera de los establecimientos, ferias y mercados legalmente autorizados;
+III.- La venta ambulante, reiterada, de animales en general, fuera de los establecimientos, ferias y mercados legalmente autorizados, así como en cualquier medio de red social o páginas de comercialización;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+IV.- Abandonar a los seres sintientes en la vía pública o en lugar lejano de su hábitat natural, cuando no exista justificación alguna;
 
-IV.- Abandonar a los animales en la vía pública o en lugar lejano de su hábitat natural, cuando no exista justificación alguna;
+V.- El obsequio, distribución o venta de seres sintientes con fines de propaganda política, promoción comercial, obras benéficas o eventos escolares; y como premios en sorteos, juegos, concursos, rifas y loterías; salvo los permitidos en el reglamento de la presente Ley;
 
-V.- El obsequio, distribución o venta de animales con fines de propaganda política, promoción comercial, obras benéficas o eventos escolares; y como premios en sorteos, juegos, concursos, rifas y loterías; salvo los permitidos en el reglamento de la presente Ley;
+VI.- La venta o donación de seres sintientes a menores de edad, sin permiso de sus padres o tutores;
 
-VI.- La venta o donación de animales a menores de edad, sin permiso de sus padres o tutores;
-
-VII.- Emplear animales en mítines, plantones, marchas y actos similares en los cuales no se les otorgue un trato digno;
+VII.- Emplear seres sintientes en mítines, plantones, marchas y actos similares en los cuales no se les otorgue un trato digno;
 
 VIII.- El suministro de estimulantes no autorizados o sustancias que puedan alterar su salud, excepto cuando sea por prescripción facultativa;
 
-IX.- El uso de animales en la celebración de ritos, y usos tradicionales medicinales o afrodisíacos que atenten contra el bienestar del animal;
+IX.- El uso de seres sintientes en la celebración de ritos, y usos tradicionales medicinales o afrodisíacos que atenten contra el bienestar del ser sintiente;
 
-X.- Entrenar animales con fines ilícitos;
+X.- Entrenar seres sintientes con fines ilícitos;
 
-> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2017)</small>
+XI.- El adiestramiento de seres sintientes dirigido exclusivamente a acrecentar y reforzar su agresividad. Quedan exceptuados de lo previsto en el párrafo anterior los perros y seres sintientes pertenecientes a las fuerzas armadas y cuerpos de seguridad;
 
-XI. El adiestramiento de animales dirigido exclusivamente a acrecentar y reforzar su agresividad.
+XII.- El uso de seres sintientes vivos, como instrumento de entrenamiento en·seres sintientes de guardia, ataque, o como medio para verificar su agresividad;
 
-Quedan exceptuados de lo previsto en el párrafo anterior los perros y animales pertenecientes a las fuerzas armadas y cuerpos de seguridad.
+XIII.- La celebración y realización de espectáculos circenses públicos o privados en los cuales se utilicen seres sintientes vivos sea cual sea su especie, con fines de explotación, exposición, exhibición y/o participación;
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+XIV.- Los desfiles de seres sintientes por las vialidades del Estado, con fines circenses;
 
-XII.- El uso de animales vivos, como instrumento de entrenamiento en animales de guardia, ataque, o como medio para verificar su agresividad;
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
-
-XIII.- La celebración y realización de espectáculos circenses públicos o privados en los cuales se utilicen animales vivos sea cual sea su especie, con fines de explotación, exposición, exhibición y/o participación.
-
-> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
-
-XIV.- Los desfiles de animales por las vialidades del Estado, con fines circenses
-
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2015)</small>
-
-XV.- Las corridas de toros, novillos, becerros o vaquillas y los rejoneos; el entrenamiento de animales para su utilización en este tipo de espectáculos, así como las tientas;
-
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+XV.- Las corridas de toros, novillos, becerros o vaquillas y los rejoneos; el entrenamiento de seres sintientes para su utilización en este tipo de espectáculos, así como las tientas;
 
 XVI.- Las mutilaciones estéticas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2021)</small>
+XVII.- Utilizar de manera intencional la pirotecnia con el objeto de provocar la muerte, mutilación o cualquier daño a un ser sintiente;
 
-XVII.- Utilizar de manera intencional la pirotecnia con el objeto de provocar la muerte, mutilación o cualquier daño a un animal.
+XVIII.- El embargo de seres sintientes domésticos, de compañía y seres sintientes guía siempre que no sean utilizados con fines lucrativos;
 
-> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2022)</small>
+XIX.- La desungulación a menos que por riesgos de salud el Médico Veterinario lo considere y justifique medicamente;
 
-XVIII.- El embargo de animales domésticos, de compañía y animales guía siempre que no sean utilizados con fines lucrativos.
+XX.- La cordectomía a menos que esté involucrada la salud del ser sintiente y el médico veterinario zootecnista la recomiende y justifique medicamente;
 
-(REUBICADA, P.O. 23 DE FEBRERO DE 2021)
-
-XIX.- Las demás que establezca la presente ley y los ordenamientos jurídicos aplicables.
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+XXI.- Las demás que establezca la presente ley y los ordenamientos jurídicos aplicables.
 
 Se excepcionan de las prohibiciones en el presente Artículo, los rodeos, carreras de caballos, charrería y las peleas y casteo de gallos.
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
-
 Toda persona que se encuentre en alguno de los supuestos antes mencionados o que de manera dolosa violente alguna de las prohibiciones demarcadas por el presente artículo, será acreedora de las sanciones económicas y/o penales marcadas por esta ley y demás leyes en la materia, según lo que la autoridad competente determine con base en lo dispuesto por el artículo 90 de la presente ley.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 21.
 
-Cualquier persona que tenga conocimiento de un acto, hecho u omisión en perjuicio de los animales objeto de tutela de la presente Ley, tiene la obligación de informar a la autoridad competente de la existencia de la falta.
+Cualquier persona que tenga conocimiento de un acto, hecho u omisión en perjuicio de los seres sintientes objeto de tutela de la presente Ley, tiene la obligación de informar a la autoridad competente de la existencia de la falta.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 22.
 
-Los tutores y/o poseedores de los animales deberán cumplir con lo siguiente:
+Las personas tutoras y/o beneficiarias de los seres sintientes deberán cumplir con lo siguiente:
 
 I.- Tratarlos humanitariamente y mantenerlos en buenas condiciones higiénico-sanitarias, de acuerdo con las características propias de la especie;
 
 II.- Dar atención médica cuando así lo requiera, además de cumplir con un calendario de vacunación y desparasitación, según su especie y necesidades;
 
-III.- Identificar a los animales que andan en la calle por medio de un collar con placa o cualquier otro medio de identificación que determine el Reglamento y que contenga los datos para su identificación;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-IV.- Informar al área técnica municipal de la muerte de los animales que determine el Reglamento; y
+III.- Identificar a los seres sintientes que andan en la calle por medio de un collar con placa o cualquier otro medio de identificación que determine el Reglamento y que contenga los datos para su identificación;
 
-V.- Registrar al animal ante el padrón municipal de animales.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-VI.- Esterilizar a los animales de compañía, a partir de los 3 meses y antes de los 6 meses.
+IV.- Informar al área técnica municipal de la muerte de los seres sintientes que determine el Reglamento;
 
-VII.- La persona que tenga un animal de raza que haya adquirido, cuyo objeto no sea convertirse en criador, solicitará un permiso especial ante la instancia municipal correspondiente para su reproducción, se permitirá una camada, siendo los cachorros esterilizados a los tres meses de edad, para su venta o adopción.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2016)</small>
+V.- Registrar al ser sintiente ante el Padrón Municipal de Animales;
 
-VIII.- Para la presencia y circulación en espacios públicos de los Animales Potencialmente Peligrosos, deberán llevar el equipamiento apropiado a la tipología racial del animal para ser conducidos y controlados, cuidando de no alterar de manera sustancial su conducta, en cuestión de volverlos más agresivos o inestables.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+VI.- Esterilizar a los seres sintientes de compañía, a partir de los 3 meses y antes de los 6 meses;
 
-IX.- Para el caso de la tenencia de animales potencialmente peligrosos, se requerirá la previa obtención de una licencia administrativa, que será otorgada por los Ayuntamientos, en términos de la presente Ley y del reglamento respectivo. El otorgamiento de la licencia se realizará una vez se haya verificado el cumplimiento de al menos los siguientes requisitos:
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-a) Ser mayor de edad y no estar incapacitado para proporcionar los cuidados necesarios al animal.
+VII.- La persona que tenga un ser sintiente de raza que haya adquirido, cuyo objeto no sea convertirse en criador, solicitará un permiso especial ante la instancia municipal correspondiente para su reproducción, se permitirá una camada, siendo los cachorros esterilizados a los tres meses de edad, para su venta o adopción;
 
-b) No haber sido condenado por delitos de homicidio, lesiones, tortura, contra la libertad o contra la integridad física, la libertad sexual y la salud, así como no haber cometido infracciones en materia de tenencia de animales potencialmente peligrosos.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+VIII.- Para la presencia y circulación en espacios públicos de los seres sintientes potencialmente peligrosos, deberán llevar el equipamiento apropiado a la tipología racial del ser sintiente para ser conducidos y controlados, cuidando de no alterar de manera sustancial su conducta, en cuestión de volverlos más agresivos o inestables;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+IX.- Para el caso de la tenencia de seres sintientes potencialmente peligrosos, se requerirá la previa obtención de una licencia administrativa, que será otorgada por los Ayuntamientos, en términos de la presente Ley y del reglamento respectivo. El otorgamiento de la licencia se realizará una vez se haya verificado el cumplimiento de al menos los siguientes requisitos:
+
+a) Ser mayor de edad y no estar incapacitado para proporcionar los cuidados necesarios al ser sintiente.
+
+b) No haber sido condenado por delitos de homicidio, lesiones, tortura, contra la libertad o contra la integridad física, la libertad sexual y la salud, así como no haber cometido infracciones en materia de tenencia de seres sintientes potencialmente peligrosos.
 
 c) Certificado de aptitud psicológica, otorgado por institución pública.
 
-d) Acreditación de haber contratado un seguro de responsabilidad civil por daños a terceros que puedan ser causados por sus animales, por la cuantía mínima que reglamentariamente se determine.
+d) Acreditación de haber contratado un seguro de responsabilidad civil por daños a terceros que puedan ser causados por sus seres sintientes, por la cuantía mínima que reglamentariamente se determine.
 
 > <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
@@ -515,161 +567,215 @@ X.- Vacunarlos contra las enfermedades propias de su especie que pongan en riesg
 
 XI.- Conservar la cartilla o los certificados de tratamiento y vacunación firmados por médico veterinario con cédula profesional vigente;
 
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-XII.- Establecer las medidas necesarias para que el animal de compañía no escape o ponga en riesgo la seguridad y la integridad física del ser humano, de él mismo y de otros animales;
+XII.- Establecer las medidas necesarias para que el ser sintiente de compañía no escape o ponga en riesgo la seguridad y la integridad física del ser humano, de él mismo y de otros seres sintientes;
 
 > <small>(REFORMADA, P.O. 21 DE ENERO DE 2020)</small>
 
 XIII.- Levantar sus heces y depositarlas en contenedores de basura; y
 
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-XIV.- Responder por los daños y/o perjuicios que el animal de compañía ocasione a terceros.
+XIV.- Responder por los daños y/o perjuicios que el ser sintiente de compañía ocasione a terceros.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 23.
 
-El poseedor será responsable de adoptar las medidas necesarias para impedir que los animales ensucien las vías o espacios públicos.
+La persona beneficiaria será responsable de adoptar las medidas necesarias para impedir que los seres sintientes ensucien las vías o espacios públicos.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 24.
 
-Los tutores o encargados de un animal que cause daños a terceros, lesiones a personas u otros animales, daños en propiedad privada o intimidación a la población, se harán responsables de los daños ocasionados, de conformidad con la legislación aplicable.
+Las personas tutoras o encargadas de un ser sintiente que cause daños a terceros, lesiones a personas u otros seres sintientes, daños en propiedad privada o intimidación a la población, se harán responsables de los daños ocasionados, de conformidad con la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 25.
 
-Todos los sitios de cría, escuela de entrenamiento, cuidado y resguardo de animales, como son: criaderos de animales de compañía, estancias caninas y felinas, ranchos, haciendas, ganaderías, establos, clubes hípicos, granjas, albergues o similares, deberán contar con los debidos permisos expedidos por las autoridades correspondientes, además de estar provistos de las instalaciones adecuadas para no exponer a enfermedades y maltrato a los animales.
+Todos los sitios de cría, escuela de entrenamiento, cuidado y resguardo de seres sintientes, como son: criaderos de seres sintientes de compañía, estancias caninas y felinas, ranchos, haciendas, ganaderías, establos, clubes hípicos, granjas, albergues o similares, deberán contar con los debidos permisos expedidos por las autoridades correspondientes, además de estar provistos de las instalaciones adecuadas para no exponer a enfermedades y maltrato a los seres sintientes.
 
 El reglamento respectivo señalará los requisitos específicos que los establecimientos señalados en el párrafo anterior, deberán cumplir considerando la actividad a la que se dedican, además de los siguientes puntos:
 
-I.- Suministrar a los animales la alimentación y agua en recipientes adecuados y separados en las cantidades necesarias, atendiendo a la especie, hábitos naturales, raza y edad;
+I.- Suministrar a los seres sintientes la alimentación y agua en recipientes adecuados y separados en las cantidades necesarias, atendiendo a la especie, hábitos naturales, raza y edad;
 
-II.- Los animales que se encuentren en los sitios mencionados deben de contar con la cartilla o respaldo que acredite las vacunaciones y desparasitaciones acordes a su especie, así como garantizar su atención veterinaria siempre que sea requerida;
+II.- Los seres sintientes que se encuentren en los sitios mencionados deben de contar con la cartilla o respaldo que acredite las vacunaciones y desparasitaciones acordes a su especie, así como garantizar su atención veterinaria siempre que sea requerida;
 
-III.- Contar con instalaciones que permitan a los animales protegerse de las condiciones climatológicas y de cualquier otro factor externo que le ocasione o pudiere ocasionarle algún daño;
+III.- Contar con instalaciones que permitan a los seres sintientes protegerse de las condiciones climatológicas y de cualquier otro factor externo que le ocasione o pudiere ocasionarle algún daño;
 
-IV.- Proveer a los animales un área de estancia adecuada en superficie o espacio vital, que les permita tener libre movimiento y ejercitarse adecuadamente;
+IV.- Proveer a los seres sintientes un área de estancia adecuada en superficie o espacio vital, que les permita tener libre movimiento y ejercitarse adecuadamente;
 
-V.- Proporcionar la higiene necesaria en el área de estancia de los animales.
+V.- Proporcionar la higiene necesaria en el área de estancia de los seres sintientes.
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-Artículo 25 A.- En el caso de los criaderos de animales de compañía, también deberá cumplir con lo siguiente:
+Artículo 25 A.- En el caso de los criaderos de seres sintientes de compañía, también deberá cumplir con lo siguiente:
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 I.- Inscribirse en el Padrón Municipal de Animales, exhibiendo y cumpliendo además de los requisitos establecidos en la presente ley y reglamento respectivo lo siguiente:
 
-A.- Exhibir certificado genealógico en el que se acredite que el animal está exento de enfermedades congénitas o defectos hereditarios;
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-B.- Contar con un certificado de buena salud emitido por un Médico Veterinario con cédula profesional vigente que contenga que el animal de compañía no transmitirá enfermedades o padecimientos congénitos sustentado en un estudio genético; y
+A.- Exhibir certificado genealógico en el que se acredite que el ser sintiente está exento de enfermedades congénitas o defectos hereditarios;
 
-C.- Exhibir documentación correspondiente, que acredite el origen o procedencia del animal de compañía.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+B.- Contar con un certificado de buena salud emitido por un Médico Veterinario con cédula profesional vigente que contenga que el ser sintiente de compañía no transmitirá enfermedades o padecimientos congénitos sustentado en un estudio genético; y
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+C.- Exhibir documentación correspondiente, que acredite el origen o procedencia del ser sintiente de compañía.
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 II.- Preñar a las hembras máximo una vez cada 12 meses, en el caso de los perros, y en el caso de los gatos hasta 3 veces cada 24 meses;
 
-III.- Realizar la venta de animales de compañía, a las 12 semanas en los casos de perros y a la semana 16 en caso de los gatos, durante éste periodo los cachorros no deberán separarse de su madre; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+III.- Realizar la venta de seres sintientes de compañía, a las 12 semanas en los casos de perros y a la semana 16 en caso de los gatos, durante éste periodo los cachorros no deberán separarse de su madre; y
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 IV.- Mantener agrupados a los cachorros de la misma camada con la finalidad de que exhiban comportamientos sociales apropiados de su edad; si los cachorros son menores a 4 meses de vida, no deben pasar más de 1 hora sin un congénere, además de tener contacto humano diario y gentil;
 
-Todo animal de compañía que no cumpla con las excepciones contenidas en esta ley y cuyo fin zootécnico sea el de compañía, deberá entregarse a su tutor esterilizado.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+Todo ser sintiente de compañía que no cumpla con las excepciones contenidas en esta ley y cuyo fin zootécnico sea el de compañía, deberá entregarse a su tutor esterilizado.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 26.
 
-Los criaderos deberán ubicarse fuera de áreas de alta densidad poblacional, y contar con medidas de seguridad para evitar la contaminación ambiental por ruido, por los desechos propios de los animales o por los alimentos usados para ellos.
+Los criaderos deberán ubicarse fuera de áreas de alta densidad poblacional, y contar con medidas de seguridad para evitar la contaminación ambiental por ruido, por los desechos propios de los seres sintientes o por los alimentos usados para ellos.
 
 ###### Artículo 27.
 
 Queda prohibido establecer criaderos o refugios en zonas habitacionales, que alteren la tranquilidad de los vecinos y la contaminación al medio ambiente.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 28.
 
-La exhibición de animales será realizada atendiendo las necesidades básicas de los animales, de acuerdo a las características propias de cada especie y cumpliendo las disposiciones de esta Ley.
+La exhibición de seres sintientes será realizada atendiendo las necesidades básicas de los seres sintientes, de acuerdo a las características propias de cada especie y cumpliendo las disposiciones de esta Ley.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 29.
 
-Los establecimientos mercantiles cuyo giro sea el de la compra venta de animales que cuenten los debidos permisos municipales, para vender animales no podrán exhibirlos, en cambio contarán con un catálogo impreso o en medios electrónicos que contendrán toda la información de identificación del animal de compañía en venta y la localización física del mismo, además de apegarse a las prácticas comerciales establecidas en la Norma Oficial Mexicana NOM 148-SCFI-2008 o sus respectivas modificaciones.
+Los establecimientos mercantiles cuyo giro sea el de la compra venta de seres sintientes que cuenten los debidos permisos municipales, para vender seres sintientes no podrán exhibirlos, en cambio contarán con un catálogo impreso o en medios electrónicos que contendrán toda la información de identificación del ser sintiente de compañía en venta y la localización física del mismo, además de apegarse a las prácticas comerciales establecidas en la Norma Oficial Mexicana NOM 148-SCFI-2008 o sus respectivas modificaciones.
 
-La exhibición solo se permitirá cuando los animales sean dados en adopción y siempre y cuando se cumplan con los requisitos de exhibición de los animales, que señala esta ley y se garantice el bienestar de los mismos.
+La exhibición solo se permitirá cuando los seres sintientes sean dados en adopción y siempre y cuando se cumplan con los requisitos de exhibición de los seres sintientes, que señala esta ley y se garantice el bienestar de los mismos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 30.
 
-Los dueños o encargados de los lugares establecidos para la venta de animales expedirán un Certificado, que deberá contener:
+Los dueños o encargados de los lugares establecidos para la venta de seres sintientes expedirán un Certificado, que deberá contener:
 
 I.- Nombre o razón social del establecimiento;
 
 II.- Nombre, domicilio, copia de identificación oficial y número telefónico del adquirente;
 
-III.- Especie, sexo y edad del animal; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+III.- Especie, sexo y edad del ser sintiente; y
 
 IV.- Las demás que establezca el reglamento.
 
 La documentación con los datos requeridos, deberán presentarse en un plazo de 30 días a partir de la venta, ante las autoridades competentes, para que sean incorporados al padrón municipal de animales.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 31.
 
-Toda actividad experimental con animales que pueda causarles dolor, sufrimiento, lesión o muerte se adecuará a las normas específicas y requerirá, en su caso, autorización de la autoridad correspondiente.
+Toda actividad experimental con seres sintientes que pueda causarles dolor, sufrimiento, lesión o muerte se adecuará a las normas específicas y requerirá, en su caso, autorización de la autoridad correspondiente.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 32.
 
-Los experimentos que se lleven a cabo con animales, se realizarán únicamente cuando estén plenamente justificados ante las autoridades correspondientes y cuando tales actos sean imprescindibles para el estudio y avance de la ciencia, de acuerdo a las Normas Oficiales Mexicanas que al efecto se emitan.
+Los experimentos que se lleven a cabo con seres sintientes, se realizarán únicamente cuando estén plenamente justificados ante las autoridades correspondientes y cuando tales actos sean imprescindibles para el estudio y avance de la ciencia, de acuerdo a las Normas Oficiales Mexicanas que al efecto se emitan.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 33.
 
-Los animales destinados a experimentos serán objeto de la protección y cuidados generales previstos en esta Ley.
+Los seres sintientes destinados a experimentos serán objeto de la protección y cuidados generales previstos en esta Ley.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 34.
 
-Los animales que como resultado de la experimentación, no puedan desarrollar una vida normal les será aplicada la eutanasia de conformidad con las normas oficiales mexicanas.
+Los seres sintientes que como resultado de la experimentación, no puedan desarrollar una vida normal les será aplicada la eutanasia de conformidad con las normas oficiales mexicanas.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 35.
 
-Los tutores o encargados de animales de trabajo, están obligados a:
+Las personas beneficiarias o encargadas de seres sintientes de trabajo, están obligados a:
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 I.- Brindar servicio médico veterinario preventivo y de urgencia;
 
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 II.- Proveer comida y agua suficiente durante su jornada laboral, además de descanso suficiente de acuerdo a su trabajo y resistencia individual;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 III.- Resguardarlos de los climas extremos, tales como lluvia, sol y frío; y
 
-IV.- Acondicionar un lugar seguro que proteja a los animales de las inclemencias del tiempo, antes y después de prestar sus servicios, así como mantener el lugar limpio.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+IV.- Acondicionar un lugar seguro que proteja a los seres sintientes de las inclemencias del tiempo, antes y después de prestar sus servicios, así como mantener el lugar limpio.
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+V.- Los seres sintientes de trabajo cuya raza cumplan con determinada función zootécnica y derivada a esta deba practicarse alguna cirugía zootécnica, sus personas beneficiarias o tutoras deberán acudir a un médico veterinario zootecnista debidamente acreditado y capacitado para que la realice.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 36.
 
-Todos los animales de trabajo deberán contar con espacios adecuados que garanticen su salud y su seguridad.
+Todos los seres sintientes de trabajo deberán contar con espacios adecuados que garanticen su salud y su seguridad.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 37.
 
-Los animales de carga no podrán ser forzados a cargar en ningún caso con un peso superior a lo que su capacidad les permita.
+Los seres sintientes de carga no podrán ser forzados a cargar en ningún caso con un peso superior a lo que su capacidad les permita.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 38.
 
-El transporte de los animales objeto de la presente Ley habrá de efectuarse de acuerdo con las peculiaridades propias de cada especie; al mismo tiempo tendrán que cumplir los requisitos higiénicos-sanitarios exigidos por las normas sanitarias correspondientes.
+El transporte de los seres sintientes objeto de la presente Ley habrá de efectuarse de acuerdo con las peculiaridades propias de cada especie; al mismo tiempo tendrán que cumplir los requisitos higiénicos-sanitarios exigidos por las normas sanitarias correspondientes.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 39.
 
-Por lo que corresponde a la transportación de animales de ganado para el consumo humano, la presente Ley se remitirá a las Leyes Estatales aplicables en la materia, así como a las Normas Oficiales Mexicanas.
+Por lo que corresponde a la transportación de seres sintientes de ganado para el consumo humano, la presente Ley se remitirá a las Leyes Estatales aplicables en la materia, así como a las Normas Oficiales Mexicanas.
 
 ###### Artículo 40.
 
 (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 41.
 
-Todos los tutores o responsables, de los animales destinados a espectáculos que se escapen y provoquen algún perjuicio, serán acreedores a las sanciones correspondientes, además de la reparación de los daños ocasionados por dicho animal.
+Todas las personas tutoras o responsables, de los seres sintientes destinados a espectáculos que se escapen y provoquen algún perjuicio, serán acreedores a las sanciones correspondientes, además de la reparación de los daños ocasionados por dicho ser sintiente.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 42.
 
-Cualquier persona que posea animales contemplados como fauna exótica o silvestre, deberá contar con los permisos emitidos por las autoridades competentes y los demás que las leyes determinen.
+Cualquier persona que posea seres sintientes contemplados como fauna exótica o silvestre, deberá contar con los permisos emitidos por las autoridades competentes y los demás que las leyes determinen.
 
 ###### Artículo 43.
 
@@ -681,119 +787,145 @@ Toda persona que tenga conocimiento de la captura y venta ilegal de fauna exóti
 
 Los tutores de predios destinados para la caza y pesca, deberán contar con los permisos emitidos por las leyes federales y estatales.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 45.
 
-La caza de animales solo se podrá llevar a cabo en los lugares destinados para ello, como son los parques cinegéticos, previos los trámites correspondientes y los permisos legales requeridos, además de apegarse a las normas dispuestas en la presente Ley en cuanto al trato digno y humanitario de los animales, evitándose en todo caso actos de crueldad innecesaria.
+La caza de seres sintientes solo se podrá llevar a cabo en los lugares destinados para ello, como son los parques cinegéticos, previos los trámites correspondientes y los permisos legales requeridos, además de apegarse a las normas dispuestas en la presente Ley en cuanto al trato digno y humanitario de los seres sintientes, evitándose en todo caso actos de crueldad innecesaria.
 
 ###### Artículo 46.
 
 Tanto la caza como la pesca en lugares silvestres permitidos, deberá apegarse a los lineamientos de los calendarios cinegéticos y vedas así como a las disposiciones legales vigentes.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 47.
 
-Los tutores, encargados o custodios de animales guía o para la práctica de zooterapia, deberán sujetarse a lo establecido en esta Ley.
+Las personas tutoras, encargadas o con la custodia de seres sintientes guía o para la práctica de zooterapia, deberán sujetarse a lo establecido en esta Ley.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 48.
 
-Las personas con discapacidad o que por prescripción médica deban hacerse acompañar de algún animal que lo asista, tendrá (sic) libre acceso con el mismo a todos los lugares y transportes públicos del Estado sin excepción.
+Las personas con discapacidad o que por prescripción médica deban hacerse acompañar de algún ser sintiente que lo asista, tendrá libre acceso con el mismo a todos los lugares y transportes públicos del Estado sin excepción.
 
 ###### Artículo 49.
 
 La práctica de la zooterapia deberá ser asistida por personas capacitadas y acreditadas para dicho fin.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 50.
 
-Los animales abandonados que se presten por sus características para realizar funciones de apoyo para personas con discapacidad y zooterapia, serán entrenados por expertos calificados en la materia y serán donados a personas de escasos recursos que requieran el servicio de estos animales. Este servicio podrá prestarse a través de las asociaciones protectoras de animales en coordinación con las autoridades correspondientes.
+Los seres sintientes abandonados que se presten por sus características para realizar funciones de apoyo para personas con discapacidad y zooterapia, serán entrenados por expertos calificados en la materia y serán donados a personas de escasos recursos que requieran el servicio de estos seres sintientes. Este servicio podrá prestarse a través de las asociaciones protectoras de seres sintientes en coordinación con las autoridades correspondientes.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 51.
 
-La matanza de animales destinados para el consumo humano se realizará de conformidad a lo dispuesto en la norma oficial mexicana NOM-033-SAG/ZOO-2014 y sus respectivas modificaciones.
+La matanza de seres sintientes destinados para el consumo humano se realizará de conformidad a lo dispuesto en la norma oficial mexicana NOM-033-SAG/ZOO-2014 y sus respectivas modificaciones.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 52.
 
-La aplicación de la eutanasia de un animal doméstico y silvestre no destinado al consumo humano, sólo podrá realizarse en razón del sufrimiento que le cause un accidente, enfermedad, incapacidad física o vejez extrema, con excepción de aquellos animales que constituyan una amenaza para la salud.
+La aplicación de la eutanasia de un ser sintiente doméstico y silvestre no destinado al consumo humano, sólo podrá realizarse en razón del sufrimiento que le cause un accidente, enfermedad, incapacidad física o vejez extrema, con excepción de aquellos seres sintientes que constituyan una amenaza para la salud.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 53.
 
-Por lo que corresponde a la aplicación de la eutanasia de los animales confinados en los centros de control animal, se observará lo dispuesto en la norma oficial mexicana NOM-033-SAG/ZOO-2014 y sus respectivas modificaciones.
+Por lo que corresponde a la aplicación de la eutanasia de los seres sintientes confinados en los Centros de Control Animal, se observará lo dispuesto en la norma oficial mexicana NOM-033-SAG/ZOO-2014 y sus respectivas modificaciones.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 54.
 
-Queda estrictamente prohibido depositar animales muertos o moribundos en la vía pública, terrenos baldíos, depósitos de basura, canales de desagüe, lechos de ríos o cualquier lugar no autorizado para dicho fin.
+Queda estrictamente prohibido depositar seres sintientes muertos o moribundos en la vía pública, terrenos baldíos, depósitos de basura, canales de desagüe, lechos de ríos o cualquier lugar no autorizado para dicho fin.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 55.
 
-Los cadáveres de animales deberán tener una disposición final adecuada o ser incinerados o inhumados.
+Los cadáveres de seres sintientes deberán tener una disposición final adecuada o ser incinerados o inhumados.
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+Para cumplir con el principio de trato digno, se tendrá que realizar de manera profesional por quien tenga los conocimientos técnicos para la realización de cualquiera de dichas actividades y, por ningún motivo, será la persona tutora o beneficiaria del ser sintiente quien realice la disposición final del cadáver.
 
-Para cumplir con el principio de trato digno, se tendrá que realizar de manera profesional por quien tenga los conocimientos técnicos para la realización de cualquiera de dichas actividades y, por ningún motivo, será el tutor o poseedor del animal quien realice la disposición final del cadáver.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 56.
 
-Los animales que perezcan atropellados en la vía pública deberán ser retirados de inmediato por la autoridad municipal; en caso de que el animal tenga lesiones visiblemente mortales, deberá ser sacrificado de forma humanitaria inmediatamente.
+Los seres sintientes que perezcan atropellados en la vía pública deberán ser retirados de inmediato por la autoridad municipal; en caso de que el ser sintiente tenga lesiones visiblemente mortales, deberá ser sacrificado de forma humanitaria inmediatamente.
 
-Si las lesiones sólo comprenden alguno de los miembros, deberá ser canalizado a las asociaciones protectoras de animales o al centro de control animal municipal.
+Si las lesiones sólo comprenden alguno de los miembros, deberá ser canalizado a las asociaciones protectoras de seres sintientes o al Centro de Control Animal municipal.
 
 ## TITULO III
 
 ### CAPITULO PRIMERO. DE LOS CENTROS DE CONTROL ANIMAL
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 57.
 
-Los centros de control animal, son unidades municipales de servicio a la comunidad, encargados de la atención y previsión de enfermedades de animales, principalmente de las especies felina y canina, con atención en la prevención y erradicación de la rabia.
+Los Centros de Control Animal, son unidades municipales de servicio a la comunidad, encargados de la atención y previsión de enfermedades de seres sintientes, principalmente de las especies felina y canina, con atención en la prevención y erradicación de la rabia.
+
+A su vez, tendrán a su cargo la prioridad de promover la adopción responsable de los seres sintientes que tengan en resguardo, así como su promoción en todas las direcciones del municipio para que estos puedan ser valorados y en su caso integrados como agentes laborales, de asistencia o servicio.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 58.
 
-La operatividad técnica y administrativa de los centros de control animal estará a cargo de las autoridades municipales, pudiendo suscribir convenios de colaboración con la autoridad en materia de salud en el Estado y con las asociaciones protectoras de los animales, debiendo observar las Normas Oficiales Mexicanas que al efecto se emitan.
+La operatividad técnica y administrativa de los Centros de Control Animal estará a cargo de las autoridades municipales, pudiendo suscribir en cualquier momento convenios de colaboración con la autoridad en materia de salud en el Estado, con la autoridad en materia de medio ambiente del estado, el Desarrollo Integral para la Familia, direcciones de seguridad públicas y con las asociaciones protectoras de seres sintientes, asociaciones de adiestramiento y entrenamiento para servicio o asistencia, debiendo observar las Normas Oficiales Mexicanas que al efecto se emitan.
 
 ###### Artículo 59.
 
 Las instituciones, colegios o consultorios de médicos veterinarios zootecnistas, acreditados ante la Autoridad en materia de salud en el Estado, podrán realizar la vacunación antirrábica y expedir el certificado de vacunación y su respectiva placa, turnando copia a los centros de control animal.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 60.
 
-Los Ayuntamientos recogerán a los animales abandonados y los retendrán hasta que sean reclamados, acogidos o sacrificados.
+Los Ayuntamientos recogerán a los seres sintientes abandonados y los retendrán hasta que sean reclamados, acogidos, valorados por expertos acorde a sus aptitudes laborales, de servicio o asistencia y como última instancia una vez puesto a prueba lo anterior, sean sacrificados.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 61.
 
-Los animales capturados en la vía pública permanecerán bajo resguardo de los centros de control animal por espacio de 72 horas y podrán ser reclamados únicamente en este periodo de tiempo por sus tutores, previa identificación, comprobante de vacunación antirrábica y el pago correspondiente, en la Tesorería Municipal.
+Los seres sintientes capturados en la vía pública permanecerán bajo resguardo de los Centros de Control Animal por espacio de 120 horas y podrán ser reclamados únicamente en este periodo de tiempo por sus tutores, previa identificación, comprobante de vacunación antirrábica y el pago correspondiente, en la Tesorería Municipal.
 
-Los animales que sean reclamados, serán esterilizados, debiendo pagar los tutores, los costos por este concepto.
+En caso de que los seres sintientes capturados posean un collar con placa de identificación, se deberá establecer comunicación de acuerdo con los datos indicados, de no ser el intento exitoso, el Centro de Control Canino deberá tomar fotografías del ser sintiente y enviarlas a la dirección municipal correspondiente para que se difunda la imagen en medios electrónicos y redes sociales oficiales con el fin de que los beneficiarios lo reconozcan y reclamen.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+Los seres sintientes que sean reclamados, serán esterilizados, debiendo pagar las personas tutoras, los costos por este concepto.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 62.
 
-Los animales que no sean reclamados por sus tutores podrán ser donados a asociaciones protectoras de animales o a terceros, de lo contrario en su caso serán sacrificados utilizando métodos humanitarios.
+Los seres sintientes que no sean reclamados por sus tutores podrán ser donados a asociaciones protectoras de seres sintientes, asociaciones de adiestramiento y entrenamiento para servicio o asistencia, o bien podrán ser reclamados por direcciones municipales o estatales que deseen integrarlos a su plantilla laboral para desempeñar labores de servicio o asistencia, estas direcciones se encargarán de brindarle trato digno al ser sintiente, en caso de no ser reclamados serán sacrificados utilizando métodos humanitarios.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 63.
 
-Los animales de especies diferentes a los caninos y felinos, que se capturen en la vía pública quedarán a disposición de la autoridad competente.
+Los seres sintientes de especies diferentes a los caninos y felinos, que se capturen en la vía pública quedarán a disposición de la autoridad competente.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 64.
 
-Los centros de control animal, deberán observar las normas que establece la presente Ley respecto del trato digno que se les debe proporcionar a los animales que se encuentren bajo su resguardo.
+Los Centros de Control Animal, deberán observar las normas que establece la presente Ley respecto del trato digno que se les debe proporcionar a los seres sintientes que se encuentren bajo su resguardo.
 
-Los animales enfermos o lesionados, las hembras gestantes y los animales que se encuentren en periodo de lactancia, deberán ser ubicados en un lugar diferente al que se encuentre el resto de los animales capturados.
+Los seres sintientes enfermos o lesionados, las hembras gestantes y los seres sintientes que se encuentren en periodo de lactancia, deberán ser ubicados en un lugar diferente al que se encuentre el resto de los seres sintientes capturados.
 
-> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE DICIEMBRE DE 2017)</small>
+En caso de las hembras gestantes estas no podrán ser sacrificadas hasta que culminen la mencionada etapa, y se haga el procedimiento de valoración por expertos, tanto de ella como sus cachorros, indicando sus posibles aptitudes laborales, de servicio o asistencia.
+
+Quedará prohibido el sacrificio de la hembra gestante como de su camada cuando menos por 3 meses posteriores al alumbramiento para darle la difusión de adopción en medios digitales y redes sociales oficiales a ella y a los cachorros.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 65.
 
-Los Ayuntamientos de cada municipio, deberán crear un área técnica de protección y sanidad animal y control de especies animales, conformado (sic) preferentemente por:
+Los Ayuntamientos de cada municipio, deberán crear un área técnica de protección y sanidad animal y Control de Especies Animales, conformado preferentemente por:
 
 I.- Un Responsable;
 
@@ -801,61 +933,95 @@ II.- Un secretario;
 
 III.- Dos vocales, nombrados por la autoridad en materia de salud y por la autoridad en materia de ecología en el Estado; y
 
-IV.- Los invitados, por parte de las asociaciones protectoras de animales y por médicos veterinarios zootecnistas.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+IV.- Los invitados, por parte de las asociaciones protectoras de seres sintientes y por médicos veterinarios zootecnistas.
 
-Esta área certificará el estado físico de los animales y se apoyará de la autoridad en materia de salud, para dictar medidas preventivas y curativas en caso de riesgo de zoonosis o de epizootias, así como de las medidas de cuidado y control sobre especies animales utilizadas como animales de compañía y de la fauna en general.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+Esta área certificará el estado físico de los seres sintientes y se apoyará de la autoridad en materia de salud, para dictar medidas preventivas y curativas en caso de riesgo de zoonosis o de epizootias, así como de las medidas de cuidado y control sobre especies seres sintientes utilizadas como seres sintientes de compañía y de la fauna en general.
 
-Artículo 65 A.- Los ayuntamientos del Estado que cuenten o no cuenten con un (sic) Centros de Control Animal, Antirrábicos o análogos podrán convertirse en CARA, que, además de las funciones que les confieren esta ley y demás ordenamientos jurídicos aplicables, tendrán como objetivos generales y actividades principales, las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-I. Contar con la infraestructura necesaria para brindar a los animales que rescaten, resguarden y trasladen una estancia digna, segura y saludable, garantizando en todo momento el bienestar animal;
+Artículo 65 A.- Los Ayuntamientos del Estado que cuenten o no cuenten con un Centro de Control Animal, Antirrábicos o análogos podrán convertirse en CARA, que, además de las funciones que les confieren esta ley y demás ordenamientos jurídicos aplicables, tendrán como objetivos generales y actividades principales, las siguientes:
 
-II. Promover constantemente entre la población los beneficios de la tutela responsable, la adopción, esterilización y vacunación de los animales;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
+I. Contar con la infraestructura necesaria para brindar a los seres sintientes que rescaten, resguarden y trasladen una estancia digna, segura y saludable, garantizando en todo momento el bienestar (sic) ser sintiente;
 
-III. Reducir y controlar la reproducción de los animales en situación de calle por medio de la esterilización obligatoria. Cada municipio, en la medida de sus posibilidades y en coordinación con las secretarías de Salud y de Medio Ambiente, realizará por lo menos una campaña de esterilización obligatoria cada seis meses, debiendo poner algún tipo de distintivo a cada animal en situación de calle que haya sido esterilizado, así como llevar un reporte del número y condición de salud de los animales esterilizados mismo que será presentado a la Secretaría de Salud;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-IV. Prestar servicios de reintegración de animales de compañía a través de la adopción;
+II. Promover constantemente entre la población los beneficios de la tutela responsable, la adopción, esterilización y vacunación de los seres sintientes;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+III. Reducir y controlar la reproducción de los seres sintientes en situación de calle por medio de la esterilización obligatoria. Cada municipio, en la medida de sus posibilidades y en coordinación con las secretarías de Salud y de Medio Ambiente, realizará por lo menos una campaña de esterilización obligatoria cada seis meses, debiendo poner algún tipo de distintivo a cada ser sintiente en situación de calle que haya sido esterilizado, así como llevar un reporte del número y condición de salud de los seres sintientes esterilizados mismo que será presentado a la Secretaría de Salud;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+IV. Prestar servicios de reintegración de seres sintientes de compañía a través de la adopción;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 V. Prestar servicios de eutanasia, de conformidad con las Normas Oficiales Mexicanas;
 
-VI. Realizar la inscripción de los animales de compañía bajo su custodia en el área de Animales de compañía del Sistema;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+VI. Realizar la inscripción de los seres sintientes de compañía bajo su custodia en el área de Animales de compañía del Sistema;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 VII. Planear, ejecutar y calendarizar constantemente campañas de esterilización;
 
-VIII. Coordinarse con Refugios, Rescatistas Independientes o Proteccionista de Animales inscritas en el área correspondiente del Sistema para realizar campañas de adopción y esterilización permanentes;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-IX. Todos y cada uno de los animales de compañía que se entreguen a su tutor por medio de las adopciones, deberán estar en buena salud y esterilizados, asimismo se deberá entregar al tutor una copia de la cartilla de control para que tenga conocimiento del estado de salud del animal adoptado;
+VIII. Coordinarse con refugios, rescatistas independientes o proteccionista de seres sintientes inscritas en el área correspondiente del Sistema para realizar campañas de adopción y esterilización permanentes;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+IX. Todos y cada uno de los seres sintientes de compañía que se entreguen a su tutor por medio de las adopciones, deberán estar en buena salud y esterilizados, asimismo se deberá entregar al tutor una copia de la cartilla de control para que tenga conocimiento del estado de salud del ser sintiente adoptado;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 X. Tener un médico veterinario inscrito en el área correspondiente en el Sistema, debidamente capacitado como responsable del CARA;
 
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 XI. Dar capacitación permanente a su personal a fin de asegurar un manejo adecuado;
 
-XII. Proveer alimento y agua suficiente en todo momento a los animales resguardados, además de asegurar su confort térmico;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-XIII. Separar y atender a los animales que estén lastimados, heridos o presenten signos de enfermedad infecto contagiosa; que se encuentren en gestación o lactando;
+XII. Proveer alimento y agua suficiente en todo momento a los seres sintientes resguardados, además de asegurar su confort térmico;
 
-XIV. Disponer de medios de traslado para animales abandonados, o heridos que garantice (sic) el bienestar animal;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-XV. Contar con un protocolo que garantice la salud física y emocional de los animales, y
+XIII. Separar y atender a los seres sintientes que estén lastimados, heridos o presenten signos de enfermedad infecto contagiosa; que se encuentren en gestación o lactando;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+XIV. Disponer de medios de traslado para seres sintientes abandonados, o heridos que garantice su bienestar;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+XV. Contar con un protocolo que garantice la salud física y emocional de los seres sintientes, y
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 XVI. El resto que estipule en su reglamento correspondiente.
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-Artículo 65 B.- El personal que preste sus servicios en los CARA, deberá ser calificado y capacitado, liderados siempre por un médico veterinario con cédula profesional vigente, y con estudios y conocimiento del bienestar animal, y que se encuentre inscrito en el área de Médicos Veterinarios del Sistema.
+Artículo 65 B.- El personal que preste sus servicios en los CARA, deberá ser calificado y capacitado, liderados siempre por un médico veterinario con cédula profesional vigente, y con estudios y conocimiento del bienestar (sic) ser sintiente, y que se encuentre inscrito en el área de Médicos Veterinarios del Sistema.
 
-La autoridad encargada de contratar al personal que labore en el CARA, debe realizar a los postulantes a (sic) pruebas psicológicas obligatorias con la finalidad de garantizar la seguridad, integridad y bienestar de los animales.
+La autoridad encargada de contratar al personal que labore en el CARA, debe realizar a los postulantes a pruebas psicológicas obligatorias con la finalidad de garantizar la seguridad, integridad y bienestar de los seres sintientes.
 
 ### CAPITULO SEGUNDO. DE LOS ALBERGUES
 
-###### Artículo 66.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-Como un instrumento de apoyo a las actividades encaminadas por el Ayuntamiento, a fin de proteger a los animales de cualquier crueldad cometida en su contra y fomentar su trato digno, se establecerán los albergues temporales y permanentes.
+###### Articulo 66.
+
+Como un instrumento de apoyo a las actividades encaminadas por el Ayuntamiento, a fin de proteger a los seres sintientes de cualquier crueldad cometida en su contra y fomentar su trato digno, se establecerán los albergues temporales y permanentes.
 
 > <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE DICIEMBRE DE 2017)</small>
 
@@ -863,57 +1029,63 @@ Como un instrumento de apoyo a las actividades encaminadas por el Ayuntamiento, 
 
 El establecimiento de los albergues tiene como objeto:
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-I.- Fungir como refugio para aquellos animales que carezcan de tutor; asistiéndolos en su alimentación e higiene;
+I.- Fungir como refugio para aquellos seres sintientes que carezcan de tutor; asistiéndolos en su alimentación e higiene;
 
-II.- Ofrecer en adopción a los animales que se encuentren en buen estado de salud, temperamento y socialización lo permita, a personas que acrediten responsabilidad y solvencia económica para darle una vida decorosa al animal;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-III.- Difundir por los medios de comunicación idóneos, información a la población sobre el buen trato que deben guardar hacia los animales y concientizar sobre las implicaciones de adquirir un animal y sus consecuencias sociales; y
+II.- Ofrecer en adopción a los seres sintientes que se encuentren en buen estado de salud, temperamento y socialización lo permita, a personas que acrediten responsabilidad y solvencia económica para darle una vida decorosa al ser sintiente;
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-IV.- Establecer un censo municipal, mediante el cual queden inscritos los animales que posean o no tutor junto a sus características básicas, tales como: sexo, raza, color, tamaño, peso, plan de vacunas, u otros datos de identificación que puedan ser útiles y en su caso, nombre y domicilio del tutor.
+III.- Difundir por los medios de comunicación idóneos, información a la población sobre el buen trato que deben guardar hacia los seres sintientes y concientizar sobre las implicaciones de adquirir un ser sintiente y sus consecuencias sociales; y
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+IV.- Establecer un censo municipal, mediante el cual queden inscritos los seres sintientes que posean o no tutor junto a sus características básicas, tales como: sexo, raza, color, tamaño, peso, plan de vacunas, u otros datos de identificación que puedan ser útiles y en su caso, nombre y domicilio del tutor.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 68.
 
-Los particulares que depositen ó adopten a un animal, deberán cubrir al albergue municipal los derechos que para ese efecto se señalen en el reglamento respectivo.
+Los particulares que depositen o adopten a un ser sintiente, deberán cubrir al albergue municipal los derechos que para ese efecto se señalen en el reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 69.
 
-La creación de estos albergues será responsabilidad de los Ayuntamientos, en coordinación con las sociedades protectoras de animales operantes según el municipio de que se trate, siendo el Estado autoridad subsidiaria en dicha obligación. Estos centros deberán poseer ciertas características y un patrimonio, de conformidad con lo que señale el reglamento y serán totalmente independientes de cualquier centro de control animal, siendo asistidos solamente en cuestiones médicas y de revisión animal.
+La creación de estos albergues será responsabilidad de los Ayuntamientos, en coordinación con las sociedades protectoras de seres sintientes operantes según el municipio de que se trate, siendo el Estado autoridad subsidiaria en dicha obligación. Estos centros deberán poseer ciertas características y un patrimonio, de conformidad con lo que señale el reglamento y serán totalmente independientes de cualquier Centro de Control Animal, siendo asistidos solamente en cuestiones médicas y de revisión de los seres sintientes.
 
-### CAPITULO TERCERO. DEL FONDO PARA LA PROTECCIÓN DE LOS ANIMALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO TERCERO. DEL FONDO PARA LA PROTECCIÓN DE LOS SERES SINTIENTES
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 70.
 
-El Fondo para la protección de los animales, tiene por objetivo:
+El Fondo para la protección de los seres sintientes, tiene por objetivo:
 
-I.- El fomento de estudios e investigaciones para mejorar los mecanismos para la protección de los animales domésticos y las especies de fauna silvestre;
+I.- El fomento de estudios e investigaciones para mejorar los mecanismos para la protección de los seres sintientes domésticos y las especies de fauna silvestre;
 
 II.- Campañas masivas de esterilización y vacunación en caninos y felinos;
 
-III.- El desarrollo de las acciones establecidas en los convenios que el ejecutivo a cargo, establezca con los sectores social, privado, académico, de investigación y con las asociaciones protectoras de animales debidamente reglamentadas;
+III.- El desarrollo de las acciones establecidas en los convenios que el ejecutivo a cargo, establezca con los sectores social, privado, académico, de investigación y con las asociaciones protectoras de seres sintientes debidamente reglamentadas;
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+IV.- Destinar recursos para los albergues de seres sintientes públicos y privados; y
 
-IV.- Destinar recursos para los albergues de animales públicos y privados; y
+V.- La promoción de una cultura de respeto, protección y trato digno para los seres sintientes y su hábitat.
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+Se deberán otorgar recursos del Fondo, de acuerdo a su disponibilidad presupuestaria, a las asociaciones protectoras de seres sintientes que cuenten con el debido registro en el Estado o municipio, para el cumplimiento de su objeto.
 
-V.- La promoción de una cultura de respeto, protección y trato digno para los animales y su hábitat.
-
-VI.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2017)
-
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
-
-Se deberán otorgar recursos del Fondo, de acuerdo a su disponibilidad presupuestaria, a las asociaciones protectoras de animales que cuenten con el debido registro en el Estado o municipio, para el cumplimiento de su objeto.
-
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 71.
 
-La administración del Fondo para la protección de los animales estará a cargo de la Secretaría.
+La administración del Fondo para la protección de los seres sintientes estará a cargo de la Secretaría.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 La Secretaria de Fiscalización y Rendición de Cuentas revisará el correcto ejercicio del Fondo.
 
@@ -927,9 +1099,9 @@ I.- Herencias, donaciones y legados que reciba;
 
 II.- La aportación que haga la Secretaría de hasta un cinco por ciento de su presupuesto autorizado de recursos estatales;
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-III.- La partida presupuestal que deban asignar los Ayuntamientos para la protección y trato digno de los animales;
+III.- La partida presupuestal que deban asignar los Ayuntamientos para la protección y trato digno de los seres sintientes;
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
@@ -939,27 +1111,37 @@ IV.- Los recursos que se obtengan por las multas y demás que se generen por la 
 
 V.- Los eventos culturales, deportivos y demás que se realicen para la recaudación de fondos.
 
-### CAPITULO CUARTO. DE LAS ASOCIACIONES PROTECTORAS DE ANIMALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO CUARTO. DE LAS ASOCIACIONES PROTECTORAS DE SERES SINTIENTES
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 73.
 
-Las asociaciones protectoras de animales, deberán estar legítimamente constituidas y registradas y contar con los permisos correspondientes.
+Las asociaciones protectoras de seres sintientes, deberán estar legítimamente constituidas y registradas y contar con los permisos correspondientes.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 74.
 
-Las asociaciones protectoras de animales, serán observadoras del cumplimiento de las disposiciones de la presente Ley, denunciando su incumplimiento, a las autoridades competentes.
+Las asociaciones protectoras de seres sintientes, serán observadoras del cumplimiento de las disposiciones de la presente Ley, denunciando su incumplimiento, a las autoridades competentes.
 
 ###### Artículo 75.
 
 Deberán apoyar en todo momento a las autoridades, cuando éstas se lo soliciten, para realizar los fines de esta Ley.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 76.
 
-Tendrán derecho de poseer, donar, aislar y recoger animales domésticos abandonados o los que hayan sido víctimas de algunas de las infracciones de la presente Ley.
+Tendrán derecho de poseer, donar, aislar y recoger seres sintientes domésticos abandonados o los que hayan sido víctimas de algunas de las infracciones de la presente Ley.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 77.
 
-Los asilos o refugios de animales a su cargo, deberán de cumplir con las normas sanitarias y demás ordenamientos vigentes y los que dictamina la presente Ley.
+Los asilos o refugios de seres sintientes a su cargo, deberán de cumplir con las normas sanitarias y demás ordenamientos vigentes y los que dictamina la presente Ley.
 
 > <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE DICIEMBRE DE 2017)</small>
 
@@ -967,7 +1149,9 @@ Los asilos o refugios de animales a su cargo, deberán de cumplir con las normas
 
 Tendrán derecho a realizar visitas de inspección como observadores en:
 
-I.- Centros de control animal y albergues;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+I.- Centros de Control Animal y Albergues;
 
 II.- Rastros;
 
@@ -979,63 +1163,71 @@ V.- Laboratorios de experimentación;
 
 VI.- Escuelas de entrenamiento;
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-VII.- Domicilios particulares, con la autorización de los tutores o poseedores;
+VII. Domicilios particulares, con la autorización de las personas tutoras o beneficiarias;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-VIII.- Establecimientos para la venta de animales y veterinarias o clínicas de atención animal; y
+VIII.- Establecimientos para la venta de seres sintientes y veterinarias o clínicas de atención para seres sintientes; y
 
 IX.- Criaderos.
 
 X.- Hogares temporales.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 79.
 
-Gestionar mediante convenios con el Estado, asilos o refugios para especies de fauna doméstica, a fin de canalizar a los animales abandonados, perdidos, lastimados o enfermos en los términos de la presente Ley.
+Gestionar mediante convenios con el Estado, asilos o refugios para especies de fauna doméstica, a fin de canalizar a los seres sintientes abandonados, perdidos, lastimados o enfermos en los términos de la presente Ley.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-### CAPITULO CUARTO BIS. DE LOS RESCATISTAS INDEPENDIENTES DE ANIMALES
+### CAPÍTULO CUARTO BIS. DE LOS RESCATISTAS INDEPENDIENTES DE SERES SINTIENTES
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-Artículo 79 A.- Los rescatistas independientes de animales son personas físicas que sin fines de lucro desarrollan diversas actividades a favor de la protección de los animales, los cuales deberán estar debidamente inscritos en el padrón municipal de animales y su correlativo en el Estado.
+###### Artículo 79-A.
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+Los rescatistas independientes de seres sintientes son personas físicas que sin fines de lucro desarrollan diversas actividades a favor de la protección de los seres sintientes, los cuales deberán estar debidamente inscritos en el Padrón Municipal de Animales y su correlativo en el Estado.
 
-Artículo 79 B.- Para el desempeño de sus actividades, los rescatistas independientes de animales podrán contar con albergues, los cuales deberán observar lo dispuesto en esta Ley y su reglamento, a excepción de lo establecido en la fracción IV del artículo 25, así como la fracción II del artículo 14, y los artículos 34 y 35 del reglamento de la misma, siempre y cuando se les brinde a los animales un trato digno y se mantengan en buenas condiciones higiénico-sanitarias, de acuerdo con las características propias de cada especie.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 79-B.
+
+Para el desempeño de sus actividades, los rescatistas independientes de seres sintientes podrán contar con albergues, los cuales deberán observar lo dispuesto en esta Ley y su reglamento, a excepción de lo establecido en la fracción IV del artículo 25, así como la fracción II del artículo 14, y los artículos 34 y 35 del reglamento de la misma, siempre y cuando se les brinde a los seres sintientes un trato digno y se mantengan en buenas condiciones higiénico-sanitarias, de acuerdo con las características propias de cada especie.
 
 ### CAPITULO QUINTO. DE LA COMISIÓN ESTATAL DE PROTECCIÓN A LOS ANIMALES
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 80.
 
-Se crea la Comisión Estatal de Protección a los Animales, como organismo del Gobierno del Estado, mediante el cual se promueva la participación ciudadana en los procesos de implementación de políticas públicas enfocadas a la protección de los animales.
+Se crea la Comisión Estatal de Protección a los Animales, como organismo del Gobierno del Estado, mediante el cual se promueva la participación ciudadana en los procesos de implementación de políticas públicas enfocadas a la protección de los seres sintientes.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 81.
 
 Son atribuciones de la Comisión Estatal de Protección a los Animales:
 
-I.- La protección de todos los animales;
+I.- La protección de todos los seres sintientes;
 
-II.- Fomentar la creación de asociaciones protectoras de animales;
+II.- Fomentar la creación de asociaciones protectoras de seres sintientes;
 
-III.- Asesorar a instituciones públicas y privadas sobre métodos y procedimientos adecuados de atención a los animales;
+III.- Asesorar a instituciones públicas y privadas sobre métodos y procedimientos adecuados de atención a los seres sintientes;
 
-IV.- Fomentar la cultura de respeto, consideración, cuidado y trato digno a los animales;
+IV.- Fomentar la cultura de respeto, consideración, cuidado y trato digno a los seres sintientes;
 
-V.- Emitir opiniones en materia de protección y trato digno a los animales;
+V.- Emitir opiniones en materia de protección y trato digno a los seres sintientes;
 
-VI.- Dar seguimiento al cumplimiento de los acuerdos tomados en el Estado y los municipios en materia de protección y trato digno a los animales;
+VI.- Dar seguimiento al cumplimiento de los acuerdos tomados en el Estado y los municipios en materia de protección y trato digno a los seres sintientes;
 
 VII.- Dar seguimiento al cumplimiento de la legislación en la materia, así como de su reglamentación por parte de las autoridades competentes;
 
 VIII.- Verificar que los Ayuntamientos expidan su reglamentación en los términos previstos en la presente Ley;
 
-IX.- Establecer indicadores para la evaluación del cumplimiento de las disposiciones en materia de protección y trato digno a los animales;
+IX.- Establecer indicadores para la evaluación del cumplimiento de las disposiciones en materia de protección y trato digno a los seres sintientes;
 
 X.- Emitir su programa anual de trabajo para el cumplimiento de esta Ley y elaborar y publicar el informe correspondiente.
 
@@ -1057,15 +1249,21 @@ b) Un representante de la Procuraduría.
 
 c) Cinco representantes de los municipios de las distintas regiones del Estado, elegidos de conformidad con lo establecido en el siguiente párrafo.
 
-d) Un representante de asociaciones protectoras de animales.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-e) Un representante de rescatistas independientes de animales.
+d) Un representante de asociaciones protectoras de seres sintientes.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+e) Un representante de rescatistas independientes de seres sintientes.
 
 La elección de los representantes de los municipios se realizará por votación de los integrantes de cada una de las distintas regiones del Estado. Los representantes de los municipios miembros de la Comisión, deberán ser los encargados del Centro de Control Animal, durarán en su encargo un año, pero continuarán en funciones aún después de terminado su periodo en tanto no sea elegido quien deba sustituirlo.
 
 La representación de los municipios será en forma rotativa, en ningún caso podrá un representante del municipio ser reelecto como miembro de la Comisión para el periodo inmediato siguiente.
 
-Serán invitados permanentes a las sesiones de la Comisión, la Secretaría de Medio Ambiente y Recursos Naturales, la Procuraduría Federal de Protección al Ambiente y la Comisión Nacional de Áreas Naturales Protegidas, además de ello, podrá invitarse a las asociaciones protectoras de animales, rescatistas independientes de animales e instituciones públicas y privadas que tengan por objeto la protección a los animales.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+Serán invitados permanentes a las sesiones de la Comisión, la Secretaría de Medio Ambiente y Recursos Naturales, la Procuraduría Federal de Protección al Ambiente y la Comisión Nacional de Áreas Naturales Protegidas, además de ello, podrá invitarse a las asociaciones protectoras de seres sintientes, rescatistas independientes de seres sintientes e instituciones públicas y privadas que tengan por objeto la protección a los seres sintientes.
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
@@ -1075,11 +1273,13 @@ La Comisión será un órgano de consulta y asesoría del Ejecutivo del Estado, 
 
 La Comisión podrá establecer subcomisiones para el debido cumplimiento de sus atribuciones.
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-Artículo 83 A.- La Comisión deberá constituir Comités Regionales que tendrán por objeto dar seguimiento al cumplimiento de los acuerdos tomados por los municipios en materia de protección y trato digno a los animales, así como al cumplimiento de la legislación en la materia y de su reglamentación por parte de las autoridades competentes, y las demás funciones que determine la propia Comisión.
+###### Artículo 83-A.
 
-Los Comités Regionales deberán conformarse con representantes de los municipios que integran la región, asociaciones protectoras de animales y rescatistas independientes de animales.
+La Comisión deberá constituir Comités Regionales que tendrán por objeto dar seguimiento al cumplimiento de los acuerdos tomados por los municipios en materia de protección y trato digno a los seres sintientes, así como al cumplimiento de la legislación en la materia y de su reglamentación por parte de las autoridades competentes, y las demás funciones que determine la propia Comisión.
+
+Los Comités Regionales deberán conformarse con representantes de los municipios que integran la región, asociaciones protectoras de seres sintientes y rescatistas independientes de seres sintientes.
 
 ## TITULO IV
 
@@ -1089,9 +1289,11 @@ Los Comités Regionales deberán conformarse con representantes de los municipio
 
 Toda persona podrá denunciar ante las autoridades competentes, todo hecho, acto u omisión que contravenga a las disposiciones de la presente Ley y los demás ordenamientos jurídicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 85.
 
-Las denuncias podrán presentarse por cualquier ciudadano o por cualquier sociedad protectora de animales, bastando para darle curso, que se señalen los datos necesarios que permitan localizar a quién se denuncia, el nombre y domicilio de la persona o sociedad denunciante, así como los hechos actos u omisiones objeto de la denuncia.
+Las denuncias podrán presentarse por cualquier ciudadano o por cualquier sociedad protectora de seres sintientes, bastando para darle curso, que se señalen los datos necesarios que permitan localizar a quién se denuncia, el nombre y domicilio de la persona o sociedad denunciante, así como los hechos actos u omisiones objeto de la denuncia.
 
 Una vez recibida la denuncia, la autoridad competente informará al denunciado y hará las diligencias para comprobar los hechos, omisiones o actos denunciados, para entonces realizar una evaluación.
 
@@ -1388,3 +1590,15 @@ P.O. 15 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 242.- SE ADICIONA LA FRACCIÓN XVIII RECORRIENDO LA ULTERIOR DEL ARTÍCULO 20 DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 569.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 581.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 20 DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
