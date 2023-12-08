@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-260-para-la-prevencion-y-atencion-del-cancer-de-1183
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-16"
-last_updated: "2016-12-16"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 260 PARA LA PREVENCIÓN Y ATENCIÓN DEL CÁNCER DE MAMA DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número 101 del Periódico Oficial del Estado de Guerrero, el viernes 16 de diciembre de 2016.
 
@@ -137,7 +137,9 @@ VIII. Establecer apoyo psicológico a mujeres y hombres cuyo resultado indique s
 
 IX. Fijar los criterios para la elaboración de un programa concreto de cursos y talleres para la prevención y detección oportuna del cáncer de mama en las escuelas de nivel superior del estado de Guerrero, y,
 
-X. Brindar la atención médica y rehabilitación integral de las mujeres y hombres con diagnóstico sospechoso, altamente sospechoso y confirmado de cáncer de mama, así como en los casos de mutilación por extracción de tejido canceroso, considerando la cirugía reconstructiva para tal fin.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+X. Brindar la atención médica y rehabilitación integral de las mujeres y hombres con diagnóstico sospechoso, altamente sospechoso y confirmado de cáncer de mama, así como en los casos de mutilación por extracción de tejido canceroso, considerando la cirugía reconstructiva como parte de la rehabilitación integral de la salud.
 
 ## TÍTULO SEGUNDO
 
@@ -239,7 +241,9 @@ IX. Conformación de grupos de apoyo psicológico para las mujeres y, en su caso
 
 X. Campañas de información sobre prevención y detección oportuna de cáncer de mama, y,
 
-XI. Establecer un mecanismo que otorgue facilidades de apoyo y gestión para dotación de prótesis como parte de la rehabilitación en los casos de mutilación por extracción de tejido canceroso.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+XI. Establecer un protocolo que otorgue los mecanismos para el acceso al tratamiento de la restructuración mamaria, en los casos en los que el cuerpo médico diagnóstique con base al expediente clínico, como parte de la rehabilitación integral de las usuarias de salud en los casos de mutilación por extracción de tejido canceroso.
 
 ###### Artículo 21.
 
@@ -279,7 +283,9 @@ La Secretaría presidirá el Consejo Estatal, como autoridad responsable directa
 
 Dentro del Consejo participarán instituciones de salud y académicas, relacionadas con la materia, objeto de la presente Ley, así como, representantes de organizaciones de la sociedad civil, quienes tendrán derecho a voz, y en todo momento, emitir opinión sobre la aplicación y resultados del Programa.
 
-El Congreso del Estado, por conducto de las Comisiones de Salud, para la Igualdad de Género, de Educación, Ciencia y Tecnología, y de la Juventud y el Deporte, asistirá como invitado permanente a las sesiones.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+El Congreso del Estado, por conducto de las Comisiones de Salud, para la Igualdad de Género, de Educación, Ciencia y Tecnología, y de la Juventud y el Deporte, asistirá como invitado permanente a las sesiones, también tendrán derecho a voz, y en todo momento, emitir opinión sobre la aplicación y resultados del Programa.
 
 ###### Artículo 26.
 
@@ -361,9 +367,11 @@ El Consejo determinará los mecanismos y lineamientos específicos, para realiza
 
 ### Capítulo Cuarto. De la Atención del Cáncer de Mama
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 38.
 
-La atención del cáncer de mama, incluye acciones y actividades tendientes a la asesoría, detección oportuna, diagnóstico, tratamiento y rehabilitación integral del cáncer de mama en el estado de Guerrero.
+La atención del cáncer de mama, incluye acciones y actividades tendientes a la asesoría, detección oportuna, diagnóstico, tratamiento y rehabilitación integral del cáncer de mama en el estado de Guerrero, bajo los principios de dignidad humana, no discriminación, igualdad sustantiva y perspectiva de género.
 
 ###### Artículo 39.
 
@@ -640,3 +648,15 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 483 POR EL QUE SE QUE SE (SIC) ADICIONA LA FRACCIÓN XIX DEL ARTÍCULO 19, DE LA LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO Y SE REFORMA EL ARTÍCULO 9, FRACCIÓN X; ARTÍCULO 20 FRACCIÓN XI; ARTÍCULO 25, PÁRRAFO CUARTO Y ARTÍCULO 38 DE LA LEY NÚMERO 260 PARA LA PREVENCIÓN Y ATENCIÓN DEL CÁNCER DE MAMA EN EL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
