@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2022-11-15"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 30 de diciembre de 2014.
 
@@ -1071,7 +1071,9 @@ XII. De Salud, Medio Ambiente, Recursos Naturales y Agua;
 
 XIIII (SIC). De Deporte y Juventud;
 
-XIV. De Asuntos Municipales y Zonas Metropolitanas;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+XIV. Asuntos Municipales, Metropolitanos e Interestatales;
 
 XV. De Igualdad y No Discriminación;
 
@@ -1423,9 +1425,11 @@ V. Fomento y desarrollo de actividades deportivas para todos los sectores de la 
 
 VI. Otros asuntos que sean o se consideren de la competencia de esta comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 102.
 
-La Comisión de Asuntos Municipales y Zonas Metropolitanas conocerá de los asuntos relacionados con:
+La Comisión de Asuntos Municipales, Metropolitanos e Interestatales conocerá de los asuntos relacionados con:
 
 I. Organización y funcionamiento de los Ayuntamientos;
 
@@ -1441,7 +1445,19 @@ VI. Participación de los municipios en los programas de desarrollo;
 
 VII. Creación y desarrollo de zonas metropolitanas; y
 
-VIII. Otros asuntos que sean o se consideren de la competencia de esta comisión.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+VIII. Planes y programas tendientes al desarrollo e integración regional, metropolitano e interestatal y de todas aquellas acciones tendientes a la creación de medidas legislativas, regulatorias, administrativas y financieras que fortalezcan y armonicen los procesos, capacidades y marcos jurídicos para la coordinación y desarrollo de áreas conurbadas, metropolitanas e interestatales.
+
+Con el fin de fortalecer la cooperación entre el Poder Legislativo y las legislaturas de otras entidades, la Comisión de Asuntos Municipales, Metropolitanos e Interestatales podrá atender asuntos relacionados con el fomento, análisis y discusión de acciones que faciliten y promuevan el desarrollo, coordinación y gobernanza entre Municipios conurbados con otros Estados, y entre el Estado de Coahuila con entidades federativas vecinas.
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+IX. La Comisión de Asuntos Municipales, Metropolitanos e Interestatales, en coordinación con la Mesa Directiva, la Junta de Gobierno y la Comisión de Reglamentos y Prácticas Parlamentarias, se encargará de crear y gestionar, el marco jurídico y el mecanismo institucional de colaboración interparlamentaria cuya función será la de fomentar, facilitar y agilizar la relación y colaboración entre el Congreso de Coahuila con otras legislaturas estatales para que, a través de ellos, se pueda discutir, concertar, coordinar y proponer una agenda legislativa interestatal compartida y la armonización de los marcos jurídicos que consideren.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+X. Otros asuntos que sean o se consideran de la competencia de esta comisión.
 
 ###### ARTÍCULO 103.
 
@@ -3846,3 +3862,11 @@ PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación.
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 TERCERO.- Publíquese en el Periódico Oficial del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 576.- SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 88, LA FRACCIÓN VIII DEL ARTÍCULO 102 Y SE ADICIONAN LAS FRACCIONES IX Y X AL ARTÍCULO 102 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
