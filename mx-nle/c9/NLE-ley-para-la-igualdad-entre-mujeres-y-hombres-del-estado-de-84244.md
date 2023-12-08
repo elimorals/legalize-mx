@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-8424
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-26"
-last_updated: "2023-11-15"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de diciembre de 2011.
 
@@ -615,7 +615,17 @@ XVII. Incentivar a las empresas para que proporcionen servicios y medidas destin
 
 XVIII. Promover condiciones de trabajo que eviten el acoso sexual y el hostigamiento;
 
-XIX. Establecer estímulos y certificados de igualdad que se concederán a las empresas que hayan aplicado políticas y prácticas en la materia; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+XIX. Establecer estímulos y certificados de igualdad que se concederán a las empresas que hayan aplicado políticas y prácticas en la materia. Para la expedición del certificado a empresas se observará lo siguiente:
+
+e) (SIC) La existencia y aplicación de un código de ética que prohíba la discriminación de género y establezca sanciones internas por su incumplimiento.
+
+f) La integración de la plantilla laboral cuando ésta se componga de al menos el cuarenta por ciento de un mismo género, y el diez por ciento del total corresponda a mujeres que ocupen puestos directivos.
+
+g) La aplicación de procesos igualitarios en la selección del personal, contemplando desde la publicación de sus vacantes hasta el ingreso del personal.
+
+h) Las demás consideraciones en materia de salubridad, protección y prevención de la desigualdad en el ámbito laboral;
 
 XX. Difundir, previo consentimiento de las empresas o personas, los planes que apliquen éstas en materia de igualdad entre mujeres y hombres.
 
@@ -1144,3 +1154,11 @@ P.O. 15 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 370. SE TIENEN POR RECIBIDAS EN TIEMPO Y FORMA LAS OBSERVACIONES AL DECRETO NÚMERO 370, POR EL QUE SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 7 Y LA FRACCIÓN X DEL ARTÍCULO 26, Y SE ADICIONAN LAS FRACCIONES V Y VI AL ARTÍCULO 7, TODOS DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 373. SE TIENEN POR RECIBIDAS EN TIEMPO Y FORMA LAS OBSERVACIONES AL DECRETO NÚMERO 373, POR EL QUE SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 37 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+SEGUNDO.- La Secretaría de Economía a más tardar 181 días a partir de la publicación del presente Decreto, establecerá los mecanismos necesarios para la acreditación y expedición del certificado a que se refiere el presente Decreto que incluirán las acciones y procedimientos que, para el cumplimiento del mismo, de (sic) desarrollaran de manera coordinada, la Secretaria de Economía y la Secretaria de las Mujeres.
