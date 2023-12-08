@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2018-12-31"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -33,7 +33,7 @@ LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DEL DECRETO NÚMERO 235 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ, DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2012, SE DEROGA EN LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, TODA REFERENCIA REALIZADA RESPECTO DEL MUNICIPIO DE BENITO JUÁREZ, CON LA SALVEDAD REALIZADA EN EL ARTÍCULO TERCERO TRANSITORIO DE ESTE DECRETO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -1131,61 +1131,29 @@ p).- Por placas de demostración 6.3 S.M.G.
 
 Tratándose de derecho vehicular, del inciso "a" a la "n" deberán de pagar en un plazo de 30 días, en el caso del inciso "o", el plazo del pago será los primeros tres meses de cada año;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2010)</small>
+III.- (DEROGADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE DICIEMBRE DE 2023)
 
-III.- Por la expedición, renovación y reposición de licencias para conducir vehículos de motor cada:
+a).- (DEROGADO, P.O. 8 DE DICIEMBRE DE 2023)
 
-a).- dos años:
+b).- (DEROGADO, P.O. 8 DE DICIEMBRE DE 2023)
 
-1.- Licencia de servicio público estatal 4.60 veces el S.M.G. vigente en el Estado.
+c).- (DEROGADO, P.O. 8 DE DICIEMBRE DE 2023)
 
-2.- Licencia de chofer 5.75 veces el S.M.G. vigente en el Estado.
+d).- (DEROGADO, P.O. 8 DE DICIEMBRE DE 2023)
 
-3.- Licencia de automovilista 5.18 veces el S.M.G. vigente en el Estado.
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-4.- Licencia de motociclista 2.30 veces el S.M.G. vigente en el Estado.
+Los ayuntamientos podrán continuar con la expedición, renovación y reposición de licencias y permisos para conducir vehículos, únicamente previa firma de convenio de coordinación con el Estado a través del Instituto de Movilidad del Estado de Quintana Roo.
 
-b).- tres años:
+> <small>(DEROGADO [N. DE E. ÚLTIMO PÁRRAFO DE LA FRACCIÓN III], P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-1.- Licencia de servicio público estatal 6.90 veces el S.M.G. vigente en el Estado.
-
-2.- Licencia de chofer 8.62 veces el S.M.G. vigente en el Estado.
-
-3.- Licencia de automovilista 7.77 veces el S.M.G. vigente en el Estado.
-
-4.- Licencia de motociclista 3.45 veces el S.M.G. vigente en el Estado.
-
-c).- cuatro años:
-
-1.- Licencia de servicio público estatal 9.20 veces el S.M.G. vigente en el Estado.
-
-2.- Licencia de chofer 11.49 veces el S.M.G. vigente en el Estado.
-
-3.- Licencia de automovilista 10.36 veces el S.M.G. vigente en el Estado.
-
-4.- Licencia de motociclista 4.6 veces el S.M.G. vigente en el Estado.
-
-d).- cinco años:
-
-1.- Licencia de servicio público estatal 11.50 veces el S.M.G. vigente en el Estado.
-
-2.- Licencia de chofer 14.36 veces el S.M. G. vigente en el Estado.
-
-3.- Licencia de automovilista 12.95 veces el S.M.G. vigente en el Estado.
-
-4.- Licencia de motociclista 5.75 veces el S.M.G. vigente en el Estado.
-
-Permiso provisional para manejar sin licencia por 30 días 1.0 S.M.G.
-
-Tratándose de personas afiliadas al Instituto Nacional para las Personas Adultas Mayores que acrediten su vigencia, gozarán del 50% de descuento en los pagos a que se refiere esta fracción
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. REPUBLICADA], P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 IV.- Por arrastre de grúa 8.3 S.M.G.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-V.- Por día de estancia de vehículos en el corralón 0.4 S.M.G.
+V.- Por día de Estancia de vehículos en el corralón 0.4 S.M.G.
 
 REGISTRO DE VEHÍCULOS
 
@@ -1225,7 +1193,7 @@ LICENCIAS PARA CONDUCIR VEHÍCULOS DE MOTOR
 
 ###### ARTÍCULO 64.
 
-No podrán conducirse los vehículos de motor sin obtenerse previamente la licencia de manejo respectiva. Esta se otorgará después de que la persona interesada haya sido aprobada en el examen médico y de competencia, que se practicará previo pago de los derechos respectivos.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2023)
 
 EXCEPCIONES
 
@@ -5508,3 +5476,11 @@ Para los efectos de coordinación con las entidades, se considerarán derechos, 
 También se considerarán como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aun cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
 
 QUINTO. Los procedimientos iniciados por las autoridades municipales conforme a las disposiciones de la Ley de Hacienda de los Municipios del Estado de Quintana Roo, continuarán aplicando tales disposiciones hasta su conclusión.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 136 POR EL QUE SE DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE BACALAR DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE COZUMEL DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE JOSÉ MARÍA MORELOS DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE OTHÓN P. BLANCO DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE PUERTO MORELOS DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE SOLIDARIDAD DEL ESTADO DE QUINTANA ROO Y LA LEY DE HACIENDA DEL MUNICIPIO DE TULUM DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
