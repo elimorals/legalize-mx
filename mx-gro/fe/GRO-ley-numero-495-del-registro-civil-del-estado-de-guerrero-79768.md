@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-495-del-registro-civil-del-estado-de-guerrero-79768"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-04"
-last_updated: "2023-02-03"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado en Alcance I, el Martes 4 de enero de 2011.
 
@@ -641,7 +641,9 @@ XI. La persona mayor de ocho años deberá presentar autorización administrativ
 
 XII. Presentar dos testigos mayores de dieciocho años con identificación oficial.
 
-El nombre propio del registrado estará constituido invariablemente por el nombre o nombres propio, y los apellidos serán los paternos del padre y de la madre, asimismo el Oficial del Registro Civil, deberá exigir el certificado de nacimiento y lo cancelará, para evitar la duplicidad de los registros.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+El nombre propio del registrado estará constituido invariablemente por el nombre o nombres propio (sic) y los apellidos de los progenitores en el orden de prelación que ellos convengan, asimismo el Oficial del Registro Civil, deberá exigir el certificado de nacimiento y lo cancelará, para evitar la duplicidad de los registros.
 
 ###### Artículo 47.
 
@@ -1664,3 +1666,15 @@ SEGUNDO. La Coordinación Técnica del Sistema Estatal del Registro Civil, conta
 TERCERO. Una vez que entre en funciones deberá dar trámite inmediato a las resoluciones judiciales que se hayan efectuado durante el periodo existente entre la entrada en vigor de este decreto y la creación del Registro Estatal de Deudores Alimentarios Morosos, así como, para realizar las adecuaciones correspondientes a los ordenamientos legales aplicables para su debido funcionamiento.
 
 CUARTO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página oficial del Congreso del Estado, para su conocimiento general.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 495 POR EL QUE SE REFORMA EL ARTÍCULO 46 EN SU ÚLTIMO PÁRRAFO DE LA LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para para (sic) su conocimiento y efectos legales correspondientes.
+
+TERCERO.- Remítase a las Administraciones Públicas Estatal y Municipales, así como a Órganos Autónomos del Estado y con Autonomía Técnica, para su conocimiento general y efectos correspondientes para su debida y exacta observancia.
+
+CUARTO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
