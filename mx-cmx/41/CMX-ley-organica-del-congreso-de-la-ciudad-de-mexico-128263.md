@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-congreso-de-la-ciudad-de-mexico-128263"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2023-06-22"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128263&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-12-20"
 
 LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Tomo I de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -218,7 +218,15 @@ En los casos previstos por el reglamento o porque así lo acuerden más de las d
 
 En casos en que se ponga a la sociedad en grave peligro o conflicto, previa Declaratoria Oficial emitida por la autoridad competente del ámbito Federal o Local, el Congreso podrá sesionar vía remota de conformidad con lo que determine la Ley y el Reglamento, a efecto de no interrumpir sus funciones o atribuciones previstas en la Constitución Política, en los tratados internacionales en los que el Estado Mexicano sea parte, la Constitución Local y las leyes aplicables.
 
-Para los efectos de la Sesión vía remota del Pleno quedan exceptuados los temas relacionados con reformas a la Constitución Local, las reformas correspondientes a las leyes de carácter constitucional y los nombramientos de las personas servidoras públicas correspondientes a los poderes Ejecutivo y Judicial, así como a los correspondientes a los organismos que la Constitución Local les otorga autonomía.
+> <small>(ADICIONADO, G.O. 8 DE DICIEMBRE DE 2023)</small>
+
+Cuando no se actualicen los supuestos referidos en el párrafo anterior, el Congreso podrá, sesionar vía remota, previo acuerdo de la Junta, aprobado por el Pleno, conforme a lo previsto en esta Ley y el Reglamento.
+
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2023)</small>
+
+Para los efectos de la Sesión vía remota del Pleno quedan exceptuados los temas relacionados con reformas a la Constitución Local, las reformas correspondientes a las leyes de carácter constitucional, los nombramientos de las personas servidoras públicas correspondientes a los poderes Ejecutivo y Judicial, así como los correspondientes a los organismos que la Constitución Local les otorga autonomía y aquellos asuntos en los que se requiera mayoría calificada conforme a esta Ley y el Reglamento.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], G.O. 8 DE DICIEMBRE DE 2023)</small>
 
 El orden del día correspondiente a la Sesión vía remota del Pleno será propuesto por las dos terceras partes de los integrantes de la Conferencia.
 
@@ -2955,3 +2963,15 @@ G.O. 22 DE JUNIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
 
 SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE LOS SUBSECUENTES, Y SE REFORMAN LOS PÁRRAFOS TERCERO Y CUARTO DEL ARTÍCULO 5 BIS DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO; Y SE REFORMA EL ARTÍCULO 56 DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Junta de Coordinación Política del Congreso de la Ciudad de México contarán con un plazo de hasta 30 días naturales a partir de la entrada en vigor de este decreto, para adecuar los acuerdos y actuaciones de su competencia en términos del presente decreto.
+
+CUARTO. La realización de sesiones vía remota se sujetarán al acuerdo vigente, en tanto no exista otro que lo modifique.
