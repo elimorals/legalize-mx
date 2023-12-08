@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-prevencion-atencion-y-control-del-acoso-escolar-110
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-13"
-last_updated: "2020-01-31"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado Coahuila, el viernes 13 de noviembre de 2015.
 
@@ -173,6 +173,10 @@ XV. Padres y madres de familia: En donde se contemple la persona mayor de edad q
 
 XVI. Cultura de la paz: El conjunto de valores, actitudes, comportamientos, modos de vida y acciones que reflejan el respeto de la vida de la persona humana, de su dignidad y sus derechos, el rechazo del acoso escolar en todas sus formas y la adhesión a los principios de libertad, justicia, solidaridad, y tolerancia.
 
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+XVII. Observatorio: El Observatorio sobre Convivencia Escolar en el Estado de Coahuila de Zaragoza.
+
 ### CAPÍTULO II. De las Autoridades, Distribución de Competencias y Coordinación
 
 ###### Artículo 5.
@@ -240,6 +244,10 @@ IX. Elaborar y publicar un informe anual sobre el acoso escolar en el Estado; y
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2020)</small>
 
 X. Coordinarse con las autoridades municipales para la implementación de políticas públicas para prevenir y atender el acoso escolar.
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+XI. Proponer las normas de operación y funcionamiento del Comité Técnico del Observatorio.
 
 ###### Artículo 8.
 
@@ -557,6 +565,52 @@ V. Concientizar a los educandos sobre la problemática en torno al acoso escolar
 
 VI. Promover la resolución pacífica de conflictos para una sana convivencia escolar.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 28 Bis.
+
+Corresponde a la Secretaría instalar el Observatorio sobre Convivencia Escolar, como un órgano plural especializado y multidisciplinario de carácter consultivo en temas de convivencia escolar, a cargo de realizar diagnósticos en materia de violencia en el entorno escolar y de maltrato escolar, elaborar estadísticas, indicadores e informes que formulen propuestas y recomendaciones de actuación que contribuyan a mejorar la eficacia de las acciones encaminadas a prevenir, atender y erradicar el fenómeno objeto de la presente Ley.
+
+El Observatorio funcionará a través de un Comité Técnico que estará integrado, al menos, por la persona titular de la Secretaría, quien fungirá como presidente, así como por especialistas en temas de convivencia escolar, integrantes de organizaciones de la sociedad civil de reconocido prestigio y trayectoria en la temática de referencia, especialistas de organizaciones de defensa de los derechos humanos, especialistas integrantes de universidades públicas o privadas de reconocido prestigio y trayectoria en la temática de referencia, representantes de asociaciones de padres y madres de familia, alumnos y docentes.
+
+Los integrantes señalados en el párrafo anterior, con excepción del titular de la Secretaría, deberán renovarse cada tres años, de conformidad con la normatividad interna de su organización y la que al efecto emita el Observatorio.
+
+Además, participarán como integrantes estratégicos la Secretaría de Gobierno, la Secretaría de Seguridad Pública, la Secretaría de Inclusión y Desarrollo Social, la Secretaría de Salud, la Secretaría de Cultura, la Procuraduría de las Niñas, Niños y la Familia, el Sistema para el Desarrollo Integral de la Familia en Coahuila, el Instituto Coahuilense de la Juventud, el Instituto Coahuilense de las Mujeres, la Dirección para Promover la Igualdad y Prevenir la Discriminación en el Estado, la Comisión de Derechos Humanos de Coahuila, la Fiscalía General del Estado, la Dirección General de Medios Alternos de Solución de Controversias del Poder Judicial del Estado, así como otras dependencias que por su naturaleza o función tengan injerencia en asuntos de convivencia escolar y bienestar de niñas, niños y adolescentes.
+
+La integración, forma y términos de sesionar del Consejo Técnico, así como sus atribuciones, se determinarán en el reglamento interno. Los cargos al interior serán de carácter honorífico.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 28 Ter.
+
+Corresponde al Observatorio las siguientes funciones:
+
+I. Actuar como órgano de asesoría, análisis y difusión periódica de información especializada en temas de convivencia y violencia en el entorno escolar y maltrato escolar;
+
+II. Constituirse como un medio de vinculación y colaboración entre la sociedad, la academia y las instituciones gubernamentales;
+
+III. Promover y realizar estudios interdisciplinarios sistemáticos sobre la convivencia escolar;
+
+IV. Conjuntar la información de las distintas instancias gubernamentales y no gubernamentales que realicen investigación y/o intervención en el ámbito de la convivencia escolar;
+
+V. Realizar informes, estudios, diagnósticos e investigaciones multidisciplinarias sobre el fenómeno del maltrato y la violencia escolar, como cultura de paz, clima escolar, victimización, sentimiento de inseguridad en las escuelas, participación e involucramiento de las autoridades educativas, así como el rol que juega la familia en la convivencia escolar, entre otros;
+
+VI. Difundir investigaciones, materiales y experiencias relacionadas con la convivencia escolar con el fin de conocer su estado en los diversos niveles educativos;
+
+VII. Realizar estudios estadísticos e investigaciones que permitan elaborar políticas públicas que prevengan la violencia cometida en contra de las niñas y las jóvenes en el ámbito escolar por condición de género;
+
+VIII. Formular y articular propuestas de acción e intervención, generadas ya sea al interior de los mismos centros escolares o bien en instancias externas, que garanticen el involucramiento de los participantes;
+
+IX. Promover la suscripción de convenios de colaboración entre las diversas instancias gubernamentales y no gubernamentales que realicen investigación y/o intervención en el ámbito de la convivencia escolar;
+
+X. Promover la colaboración e intercambio entre diversos observatorios locales, regionales, nacionales e internacionales en la materia;
+
+XI. Organizar eventos académicos en donde participen profesionales y expertos en la materia para facilitar la difusión de la investigación que permitan dar cuenta del estado y evolución de la convivencia escolar;
+
+XII. Crear mecanismo de intercambio de experiencias y difundir las buenas prácticas;
+
+XIII. Participar y promover la capacitación en materia de convivencia escolar, derechos humanos, igualdad de género, mediación y resolución pacífica de conflictos, dirigida al personal docente y directivo, padres y madres de familia, alumnado y personal administrativo.
+
 ### CAPÍTULO VI. Del Registro Estatal para el Control del Acoso Escolar
 
 ###### Artículo 29.
@@ -822,3 +876,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 En un plazo de 180 días, contados a partir de la entrada en vigor del presente Decreto, se deberán de hacer las adecuaciones a los reglamentos interiores de las instituciones, en los que se especifiquen derechos, prohibiciones y obligaciones tendientes a prevenir y eliminar el acoso escolar.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 578.- SE ADICIONA LA FRACCIÓN XVII DEL ARTÍCULO 4, LA FRACCIÓN XI DEL ARTÍCULO 7 Y LOS ARTÍCULOS 28 BIS Y 28 TER DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Observatorio sobre Convivencia Escolar en el Estado de Coahuila de Zaragoza deberá ser instalado dentro de los noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
